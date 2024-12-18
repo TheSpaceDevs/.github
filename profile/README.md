@@ -91,6 +91,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/station/iss-research/space-gardens/" >🔗</a> **[NASA]** Space Gardens
+- <a href="https://www.nasa.gov/universe/black-holes/nasa-finds-sideways-black-hole-using-legacy-data-new-techniques/" >🔗</a> **[NASA]** NASA Finds ‘Sideways’ Black Hole Using Legacy Data, New Techniques
+- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Vega/Vega_contracts_for_future_operations_and_development" >🔗</a> **[ESA]** Vega contracts for future operations and development
 - <a href="https://www.nasa.gov/centers-and-facilities/kennedy/nasa-kennedy-looks-to-thrive-in-2025/" >🔗</a> **[NASA]** NASA’s Kennedy Space Center Looks to Thrive in 2025
 - <a href="https://science.nasa.gov/open-science/astronomy-data-sonification/" >🔗</a> **[NASA]** NASA Open Science Reveals Sounds of Space
 - <a href="https://spacenews.com/ostp-releases-cislunar-science-and-technology-plans/" >🔗</a> **[SpaceNews]** OSTP releases cislunar science and technology plans
@@ -98,9 +101,6 @@ into *an Unknown
 - <a href="https://europeanspaceflight.com/finlands-iceye-secures-65m-in-additional-funding/" >🔗</a> **[European Spaceflight]** Finland’s ICEYE Secures $65M in Additional Funding
 - <a href="https://arstechnica.com/space/2024/12/russian-space-chief-says-country-will-fly-on-space-station-until-2030/" >🔗</a> **[Arstechnica]** Russian space chief says country will fly on space station until 2030
 - <a href="https://spacenews.com/navigating-the-legal-landscape-of-space-mining-interpreting-international-space-law/" >🔗</a> **[SpaceNews]** Navigating the legal landscape of space mining: interpreting international space law
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/12/330th_ESA_Council_Media_information_session" >🔗</a> **[ESA]** 330th ESA Council: Media information session
-- <a href="https://spacenews.com/axiom-space-revises-space-station-assembly-plans/" >🔗</a> **[SpaceNews]** Axiom Space revises space station assembly plans
-- <a href="https://spacenews.com/spacex-launches-redesigned-o3b-mpower-satellites/" >🔗</a> **[SpaceNews]** SpaceX launches redesigned O3b mPower satellites
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241218T170130">2024-12-18 17:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241218T173309">2024-12-18 17:33:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
