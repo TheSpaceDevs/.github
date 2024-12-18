@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/12/russian-space-chief-says-country-will-fly-on-space-station-until-2030/" >🔗</a> **[Arstechnica]** Russian space chief says country will fly on space station until 2030
+- <a href="https://spacenews.com/navigating-the-legal-landscape-of-space-mining-interpreting-international-space-law/" >🔗</a> **[SpaceNews]** Navigating the legal landscape of space mining: interpreting international space law
 - <a href="https://spacenews.com/axiom-space-revises-space-station-assembly-plans/" >🔗</a> **[SpaceNews]** Axiom Space revises space station assembly plans
 - <a href="https://spacenews.com/spacex-launches-redesigned-o3b-mpower-satellites/" >🔗</a> **[SpaceNews]** SpaceX launches redesigned O3b mPower satellites
 - <a href="https://spacenews.com/second-kairos-launch-fails/" >🔗</a> **[SpaceNews]** Second Kairos launch fails
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://spacepolicyonline.com/news/new-cr-finally-introduced-as-clock-ticks-down-to-friday/" >🔗</a> **[SpacePolicyOnline.com]** New CR Finally Introduced as Clock Ticks Down to Friday
 - <a href="https://spacepolicyonline.com/news/delay-in-new-spacex-crew-dragon-means-another-extension-for-butch-and-suni/" >🔗</a> **[SpacePolicyOnline.com]** Delay in New SpaceX Crew Dragon Means Another Extension for Butch and Suni
 - <a href="https://spacenews.com/frontgrade-gaisler-leads-european-initiative-for-ultra-deep-sub-micron-semiconductor-technology-for-space-applications/" >🔗</a> **[SpaceNews]** Frontgrade Gaisler Leads European Initiative for Ultra Deep Sub-Micron Semiconductor Technology for Space Applications
-- <a href="https://spacenews.com/space-force-plans-new-futures-command-amid-pressure-to-speed-up-modernization/" >🔗</a> **[SpaceNews]** Space Force plans new ‘Futures Command’ amid pressure to speed up modernization
-- <a href="https://science.nasa.gov/blog/sols-4396-4397-roving-in-a-martian-wonderland/" >🔗</a> **[NASA]** Sols 4396-4397: Roving in a Martian Wonderland
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241218T140137">2024-12-18 14:01:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241218T143440">2024-12-18 14:34:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
