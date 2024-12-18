@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/second-kairos-launch-fails/" >🔗</a> **[SpaceNews]** Second Kairos launch fails
+- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/A_fall_of_CubeSats" >🔗</a> **[ESA]** A fall of CubeSats
 - <a href="https://spacenews.com/raytheon-tests-ursa-majors-rocket-motor-in-u-s-army-missile-flight/" >🔗</a> **[SpaceNews]** Raytheon tests Ursa Major’s rocket motor in U.S. Army missile flight
 - <a href="https://spacepolicyonline.com/news/new-cr-finally-introduced-as-clock-ticks-down-to-friday/" >🔗</a> **[SpacePolicyOnline.com]** New CR Finally Introduced as Clock Ticks Down to Friday
 - <a href="https://spacepolicyonline.com/news/delay-in-new-spacex-crew-dragon-means-another-extension-for-butch-and-suni/" >🔗</a> **[SpacePolicyOnline.com]** Delay in New SpaceX Crew Dragon Means Another Extension for Butch and Suni
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/blog/sols-4396-4397-roving-in-a-martian-wonderland/" >🔗</a> **[NASA]** Sols 4396-4397: Roving in a Martian Wonderland
 - <a href="https://arstechnica.com/space/2024/12/report-elon-musk-failed-to-report-movement-required-by-security-clearance/" >🔗</a> **[Arstechnica]** Report: Elon Musk failed to report movement required by security clearance
 - <a href="https://spacenews.com/shenzhou-19-astronauts-complete-record-breaking-9-hour-spacewalk/" >🔗</a> **[SpaceNews]** Shenzhou-19 astronauts complete record-breaking 9-hour spacewalk
-- <a href="https://www.nasa.gov/centers-and-facilities/ames/2024-in-review-highlights-from-nasa-in-silicon-valley/" >🔗</a> **[NASA]** 2024 in Review: Highlights from NASA in Silicon Valley
-- <a href="https://www.nasa.gov/humans-in-space/commercial-space/leo-economy/nasa-participates-in-microgravity-science-summit/" >🔗</a> **[NASA]** NASA Participates in Microgravity Science Summit
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241218T110128">2024-12-18 11:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241218T113105">2024-12-18 11:31:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
