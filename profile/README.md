@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/delay-in-new-spacex-crew-dragon-means-another-extension-for-butch-and-suni/" >🔗</a> **[SpacePolicyOnline.com]** Delay in New SpaceX Crew Dragon Means Another Extension for Butch and Suni
 - <a href="https://spacenews.com/frontgrade-gaisler-leads-european-initiative-for-ultra-deep-sub-micron-semiconductor-technology-for-space-applications/" >🔗</a> **[SpaceNews]** Frontgrade Gaisler Leads European Initiative for Ultra Deep Sub-Micron Semiconductor Technology for Space Applications
 - <a href="https://spacenews.com/space-force-plans-new-futures-command-amid-pressure-to-speed-up-modernization/" >🔗</a> **[SpaceNews]** Space Force plans new ‘Futures Command’ amid pressure to speed up modernization
 - <a href="https://science.nasa.gov/blog/sols-4396-4397-roving-in-a-martian-wonderland/" >🔗</a> **[NASA]** Sols 4396-4397: Roving in a Martian Wonderland
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/humans-in-space/commercial-space/leo-economy/nasa-participates-in-microgravity-science-summit/" >🔗</a> **[NASA]** NASA Participates in Microgravity Science Summit
 - <a href="https://www.nasa.gov/missions/swot/cutting-edge-satellite-tracks-lake-water-levels-in-ohio-river-basin/" >🔗</a> **[NASA]** Cutting-Edge Satellite Tracks Lake Water Levels in Ohio River Basin
 - <a href="https://www.nasa.gov/general/airspace-operations-and-safety-program-aosp/" >🔗</a> **[NASA]** Airspace Operations and Safety Program (AOSP)
-- <a href="https://spaceflightnow.com/2024/12/17/live-coverage-spacex-to-launch-o3b-mpower-satellites-for-ses-on-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch O3b mPOWER satellites for SES on Falcon 9 rocket from the Kennedy Space Center
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241218T040127">2024-12-18 04:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241218T043508">2024-12-18 04:35:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
