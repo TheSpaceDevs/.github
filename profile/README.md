@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ostp-releases-cislunar-science-and-technology-plans/" >🔗</a> **[SpaceNews]** OSTP releases cislunar science and technology plans
+- <a href="https://www.nasa.gov/humans-in-space/new-commercial-artemis-moon-rovers-undergo-testing-at-nasa/" >🔗</a> **[NASA]** New Commercial Artemis Moon Rovers Undergo Testing at NASA
+- <a href="https://europeanspaceflight.com/finlands-iceye-secures-65m-in-additional-funding/" >🔗</a> **[European Spaceflight]** Finland’s ICEYE Secures $65M in Additional Funding
 - <a href="https://arstechnica.com/space/2024/12/russian-space-chief-says-country-will-fly-on-space-station-until-2030/" >🔗</a> **[Arstechnica]** Russian space chief says country will fly on space station until 2030
 - <a href="https://spacenews.com/navigating-the-legal-landscape-of-space-mining-interpreting-international-space-law/" >🔗</a> **[SpaceNews]** Navigating the legal landscape of space mining: interpreting international space law
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/12/330th_ESA_Council_Media_information_session" >🔗</a> **[ESA]** 330th ESA Council: Media information session
 - <a href="https://spacenews.com/axiom-space-revises-space-station-assembly-plans/" >🔗</a> **[SpaceNews]** Axiom Space revises space station assembly plans
 - <a href="https://spacenews.com/spacex-launches-redesigned-o3b-mpower-satellites/" >🔗</a> **[SpaceNews]** SpaceX launches redesigned O3b mPower satellites
 - <a href="https://spacenews.com/second-kairos-launch-fails/" >🔗</a> **[SpaceNews]** Second Kairos launch fails
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/A_fall_of_CubeSats" >🔗</a> **[ESA]** A fall of CubeSats
-- <a href="https://spacenews.com/raytheon-tests-ursa-majors-rocket-motor-in-u-s-army-missile-flight/" >🔗</a> **[SpaceNews]** Raytheon tests Ursa Major’s rocket motor in U.S. Army missile flight
-- <a href="https://spacepolicyonline.com/news/new-cr-finally-introduced-as-clock-ticks-down-to-friday/" >🔗</a> **[SpacePolicyOnline.com]** New CR Finally Introduced as Clock Ticks Down to Friday
-- <a href="https://spacepolicyonline.com/news/delay-in-new-spacex-crew-dragon-means-another-extension-for-butch-and-suni/" >🔗</a> **[SpacePolicyOnline.com]** Delay in New SpaceX Crew Dragon Means Another Extension for Butch and Suni
-- <a href="https://spacenews.com/frontgrade-gaisler-leads-european-initiative-for-ultra-deep-sub-micron-semiconductor-technology-for-space-applications/" >🔗</a> **[SpaceNews]** Frontgrade Gaisler Leads European Initiative for Ultra Deep Sub-Micron Semiconductor Technology for Space Applications
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241218T150128">2024-12-18 15:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241218T153329">2024-12-18 15:33:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
