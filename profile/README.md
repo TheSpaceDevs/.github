@@ -91,6 +91,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/chandra-and-webb-spy-a-cosmic-wreath/" >🔗</a> **[NASA]** Chandra and Webb Spy a Cosmic Wreath
+- <a href="https://spacenews.com/starris-optimax-space-systems-and-llnl-announce-commercialization-partnership-for-monolithic-telescope-technology-to-support-tactically-responsive-space-missions/" >🔗</a> **[SpaceNews]** Starris: Optimax Space Systems and LLNL announce commercialization partnership for monolithic telescope technology to support tactically responsive space missions
+- <a href="https://spacenews.com/u-s-space-force-to-test-laser-communications-on-a-gps-satellite/" >🔗</a> **[SpaceNews]** U.S. Space Force to test laser communications on a GPS satellite
 - <a href="https://www.nasa.gov/missions/station/iss-research/space-gardens/" >🔗</a> **[NASA]** Space Gardens
 - <a href="https://www.nasa.gov/universe/black-holes/nasa-finds-sideways-black-hole-using-legacy-data-new-techniques/" >🔗</a> **[NASA]** NASA Finds ‘Sideways’ Black Hole Using Legacy Data, New Techniques
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Vega/Vega_contracts_for_future_operations_and_development" >🔗</a> **[ESA]** Vega contracts for future operations and development
@@ -98,9 +101,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/open-science/astronomy-data-sonification/" >🔗</a> **[NASA]** NASA Open Science Reveals Sounds of Space
 - <a href="https://spacenews.com/ostp-releases-cislunar-science-and-technology-plans/" >🔗</a> **[SpaceNews]** OSTP releases cislunar science and technology plans
 - <a href="https://www.nasa.gov/humans-in-space/new-commercial-artemis-moon-rovers-undergo-testing-at-nasa/" >🔗</a> **[NASA]** New Commercial Artemis Moon Rovers Undergo Testing at NASA
-- <a href="https://europeanspaceflight.com/finlands-iceye-secures-65m-in-additional-funding/" >🔗</a> **[European Spaceflight]** Finland’s ICEYE Secures $65M in Additional Funding
-- <a href="https://arstechnica.com/space/2024/12/russian-space-chief-says-country-will-fly-on-space-station-until-2030/" >🔗</a> **[Arstechnica]** Russian space chief says country will fly on space station until 2030
-- <a href="https://spacenews.com/navigating-the-legal-landscape-of-space-mining-interpreting-international-space-law/" >🔗</a> **[SpaceNews]** Navigating the legal landscape of space mining: interpreting international space law
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241218T180134">2024-12-18 18:01:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241218T183705">2024-12-18 18:37:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
