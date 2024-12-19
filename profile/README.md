@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/directorates/stmd/five-ways-to-explore-nasas-portfolio-of-technologies-with-techport-4-0/" >🔗</a> **[NASA]** Five Ways to Explore NASA’s Portfolio of Technologies with TechPort 4.0
 - <a href="https://www.nasa.gov/centers-and-facilities/goddard/nargess-memarsadeghi-computer-engineer-for-the-cosmos/" >🔗</a> **[NASA]** Nargess Memarsadeghi, Computer Engineer for the Cosmos
 - <a href="https://www.nasa.gov/centers-and-facilities/nesc/statistical-analysis-using-random-forest-algorithm-provides-key-insights-into-parachute-energy-modulator-system/" >🔗</a> **[NASA]** Statistical Analysis Using Random Forest Algorithm Provides Key Insights into Parachute Energy Modulator System
 - <a href="https://arstechnica.com/space/2024/12/blue-origin-may-hot-fire-its-new-glenn-rocket-as-soon-as-today/" >🔗</a> **[Arstechnica]** Blue Origin may hot fire its New Glenn rocket as soon as today
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasa.gov/general/program-manager-at-nasa-glenn-earns-aiaa-sustained-service-award/" >🔗</a> **[NASA]** Program Manager at NASA Glenn Earns AIAA Sustained Service Award
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenns-office-of-communications-earns-top-honors/" >🔗</a> **[NASA]** NASA Glenn’s Office of Communications Earns Top Honors
 - <a href="https://www.nasa.gov/general/an-evening-with-the-stars-10-years-and-counting/" >🔗</a> **[NASA]** An Evening With the Stars: 10 Years and Counting
-- <a href="https://www.nasa.gov/directorates/stmd/tech-transfer/nasa-partners-with-us-patent-and-trademark-office-to-advance-technology-transfer/" >🔗</a> **[NASA]** NASA Partners with US Patent and Trademark Office to Advance Technology Transfer
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241219T193108">2024-12-19 19:31:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241219T200135">2024-12-19 20:01:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
