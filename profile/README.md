@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/shutdown-fears-escalate-as-trump-calls-on-republicans-to-reject-cr/" >🔗</a> **[SpacePolicyOnline.com]** Shutdown Fears Escalate as Trump Calls on Republicans to Reject CR
 - <a href="https://spacenews.com/u-s-military-seeks-commercial-space-technology-for-strategic-edge/" >🔗</a> **[SpaceNews]** U.S. military seeks commercial space technology for strategic edge
 - <a href="https://www.nasaspaceflight.com/2024/12/faa-flight-7-go/" >🔗</a> **[NASASpaceflight]** FAA gives Flight 7 the Go Ahead, SpaceX to complete final steps ahead of launch
 - <a href="https://spacenews.com/firefly-ispace-lunar-landers-to-share-falcon-9-launch/" >🔗</a> **[SpaceNews]** Firefly, ispace lunar landers to share Falcon 9 launch
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/missions/artemis/clps/nasa-payload-aims-to-probe-moons-depths-to-study-heat-flow/" >🔗</a> **[NASA]** NASA Payload Aims to Probe Moon’s Depths to Study Heat Flow
 - <a href="https://www.nasa.gov/learning-resources/for-kids-and-students/how-does-the-sun-behave-grades-5-8/" >🔗</a> **[NASA]** NASA Knows: How Does the Sun Behave? (Grades 5-8)
 - <a href="https://www.nasa.gov/image-article/nasa-cu-enact-collaborative-space-act-agreement/" >🔗</a> **[NASA]** NASA, CU Enact Collaborative Space Act Agreement
-- <a href="https://spaceflightnow.com/2024/12/18/space-force-says-first-national-security-vulcan-launch-now-anticipated-in-spring-2025/" >🔗</a> **[Spaceflight Now]** Space Force says first national security Vulcan launch now anticipated in spring 2025
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241219T040136">2024-12-19 04:01:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241219T043501">2024-12-19 04:35:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
