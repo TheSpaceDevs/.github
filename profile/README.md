@@ -91,16 +91,16 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/program-manager-at-nasa-glenn-earns-aiaa-sustained-service-award/" >🔗</a> **[NASA]** Program Manager at NASA Glenn Earns AIAA Sustained Service Award
+- <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenns-office-of-communications-earns-top-honors/" >🔗</a> **[NASA]** NASA Glenn’s Office of Communications Earns Top Honors
+- <a href="https://www.nasa.gov/general/an-evening-with-the-stars-10-years-and-counting/" >🔗</a> **[NASA]** An Evening With the Stars: 10 Years and Counting
+- <a href="https://www.nasa.gov/directorates/stmd/tech-transfer/nasa-partners-with-us-patent-and-trademark-office-to-advance-technology-transfer/" >🔗</a> **[NASA]** NASA Partners with US Patent and Trademark Office to Advance Technology Transfer
+- <a href="https://spacenews.com/k2-space-lands-30-million-military-contract-for-mega-satellite-mission/" >🔗</a> **[SpaceNews]** K2 Space lands $30 million military contract for “Mega” satellite mission
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Philippines_team_add_hypergravity_for_stronger_bone_cells" >🔗</a> **[ESA]** Philippines team add hypergravity for stronger bone cells
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/55-years-ago-apollo-13-preparations-for-the-third-moon-landing/" >🔗</a> **[NASA]** 55 Years Ago: Apollo 13, Preparations for the Third Moon Landing
 - <a href="https://spacenews.com/three-companies-to-partner-on-gto-rideshare-launch-services/" >🔗</a> **[SpaceNews]** Three companies to partner on GTO rideshare launch services
 - <a href="https://spacenews.com/vast-signs-agreement-with-spacex-for-private-astronaut-missions-to-the-iss/" >🔗</a> **[SpaceNews]** Vast signs agreement with SpaceX for private astronaut missions to the ISS
 - <a href="https://spacenews.com/maxar-signs-35-million-satellite-intelligence-deals-in-asia-pacific-region/" >🔗</a> **[SpaceNews]** Maxar signs $35 million satellite intelligence deals in Asia-Pacific region
-- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Second_Ariane_6_at_Europe_s_Spaceport" >🔗</a> **[ESA]** Second Ariane 6 at Europe’s Spaceport
-- <a href="https://www.nasa.gov/humans-in-space/commercial-space/leo-economy/nasa-axiom-space-change-assembly-order-of-commercial-space-station/" >🔗</a> **[NASA]** NASA, Axiom Space Change Assembly Order of Commercial Space Station
-- <a href="https://spacenews.com/firefly-wins-nasa-contract-for-third-lunar-lander-mission/" >🔗</a> **[SpaceNews]** Firefly wins NASA contract for third lunar lander mission
-- <a href="https://spacenews.com/esa-and-avio-sign-contracts-for-vega-upgrades-and-new-launch/" >🔗</a> **[SpaceNews]** ESA and Avio sign contracts for Vega upgrades and new launch
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/12/Cosmic_jingles_listen_to_Euclid_s_image_of_M78" >🔗</a> **[ESA]** Cosmic jingles: listen to Euclid’s image of M78
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241219T160127">2024-12-19 16:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241219T163518">2024-12-19 16:35:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
