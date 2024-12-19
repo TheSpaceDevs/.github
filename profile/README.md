@@ -91,6 +91,8 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/vast-signs-agreement-with-spacex-for-private-astronaut-missions-to-the-iss/" >🔗</a> **[SpaceNews]** Vast signs agreement with SpaceX for private astronaut missions to the ISS
+- <a href="https://spacenews.com/maxar-signs-35-million-satellite-intelligence-deals-in-asia-pacific-region/" >🔗</a> **[SpaceNews]** Maxar signs $35 million satellite intelligence deals in Asia-Pacific region
 - <a href="https://spacenews.com/firefly-wins-nasa-contract-for-third-lunar-lander-mission/" >🔗</a> **[SpaceNews]** Firefly wins NASA contract for third lunar lander mission
 - <a href="https://spacenews.com/esa-and-avio-sign-contracts-for-vega-upgrades-and-new-launch/" >🔗</a> **[SpaceNews]** ESA and Avio sign contracts for Vega upgrades and new launch
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/12/Cosmic_jingles_listen_to_Euclid_s_image_of_M78" >🔗</a> **[ESA]** Cosmic jingles: listen to Euclid’s image of M78
@@ -99,8 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacepolicyonline.com/news/shutdown-fears-escalate-as-trump-calls-on-republicans-to-reject-cr/" >🔗</a> **[SpacePolicyOnline.com]** Shutdown Fears Escalate as Trump Calls on Republicans to Reject CR
 - <a href="https://spacenews.com/u-s-military-seeks-commercial-space-technology-for-strategic-edge/" >🔗</a> **[SpaceNews]** U.S. military seeks commercial space technology for strategic edge
 - <a href="https://www.nasaspaceflight.com/2024/12/faa-flight-7-go/" >🔗</a> **[NASASpaceflight]** FAA gives Flight 7 the Go Ahead, SpaceX to complete final steps ahead of launch
-- <a href="https://spacenews.com/firefly-ispace-lunar-landers-to-share-falcon-9-launch/" >🔗</a> **[SpaceNews]** Firefly, ispace lunar landers to share Falcon 9 launch
-- <a href="https://www.nasa.gov/general/nasa-ames-stars-of-the-month-january-2025/" >🔗</a> **[NASA]** NASA Ames Stars of the Month: January 2025
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241219T130657">2024-12-19 13:06:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241219T133516">2024-12-19 13:35:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
