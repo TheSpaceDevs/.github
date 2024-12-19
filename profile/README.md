@@ -91,16 +91,16 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/vast-signs-agreement-with-spacex-for-private-astronaut-missions-to-the-iss/" >🔗</a> **[SpaceNews]** Vast signs agreement with SpaceX for private astronaut missions to the ISS
+- <a href="https://spacenews.com/three-companies-to-partner-on-gto-rideshare-launch-services/" >🔗</a> **[SpaceNews]** Three companies to partner on GTO rideshare launch services
 - <a href="https://spacenews.com/maxar-signs-35-million-satellite-intelligence-deals-in-asia-pacific-region/" >🔗</a> **[SpaceNews]** Maxar signs $35 million satellite intelligence deals in Asia-Pacific region
+- <a href="https://spacenews.com/vast-signs-agreement-with-spacex-for-private-astronaut-missions-to-the-iss/" >🔗</a> **[SpaceNews]** Vast signs agreement with SpaceX for private astronaut missions to the ISS
+- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Second_Ariane_6_at_Europe_s_Spaceport" >🔗</a> **[ESA]** Second Ariane 6 at Europe’s Spaceport
+- <a href="https://www.nasa.gov/humans-in-space/commercial-space/leo-economy/nasa-axiom-space-change-assembly-order-of-commercial-space-station/" >🔗</a> **[NASA]** NASA, Axiom Space Change Assembly Order of Commercial Space Station
 - <a href="https://spacenews.com/firefly-wins-nasa-contract-for-third-lunar-lander-mission/" >🔗</a> **[SpaceNews]** Firefly wins NASA contract for third lunar lander mission
 - <a href="https://spacenews.com/esa-and-avio-sign-contracts-for-vega-upgrades-and-new-launch/" >🔗</a> **[SpaceNews]** ESA and Avio sign contracts for Vega upgrades and new launch
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/12/Cosmic_jingles_listen_to_Euclid_s_image_of_M78" >🔗</a> **[ESA]** Cosmic jingles: listen to Euclid’s image of M78
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/12/Aurora_Australis_in_Antarctica" >🔗</a> **[ESA]** Aurora Australis in Antarctica
 - <a href="https://europeanspaceflight.com/esa-awards-e350m-to-avio-to-boost-vega-c-and-develop-vega-e/" >🔗</a> **[European Spaceflight]** ESA Awards €350M to Avio to Boost Vega C and Develop Vega E
-- <a href="https://spacepolicyonline.com/news/shutdown-fears-escalate-as-trump-calls-on-republicans-to-reject-cr/" >🔗</a> **[SpacePolicyOnline.com]** Shutdown Fears Escalate as Trump Calls on Republicans to Reject CR
-- <a href="https://spacenews.com/u-s-military-seeks-commercial-space-technology-for-strategic-edge/" >🔗</a> **[SpaceNews]** U.S. military seeks commercial space technology for strategic edge
-- <a href="https://www.nasaspaceflight.com/2024/12/faa-flight-7-go/" >🔗</a> **[NASASpaceflight]** FAA gives Flight 7 the Go Ahead, SpaceX to complete final steps ahead of launch
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241219T140126">2024-12-19 14:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241219T143432">2024-12-19 14:34:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
