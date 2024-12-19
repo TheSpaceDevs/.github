@@ -91,6 +91,8 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/organizations/otps/new-report-analyzes-long-history-of-nasa-support-for-commercial-space/" >🔗</a> **[NASA]** New Report Analyzes Long History of NASA Support for Commercial Space
+- <a href="https://www.nasa.gov/directorates/esdmd/common-exploration-systems-development-division/space-launch-system/artemis-ii-core-stage-vertical-integration-begins-at-nasa-kennedy/" >🔗</a> **[NASA]** Artemis II Core Stage Vertical Integration Begins at NASA Kennedy
 - <a href="https://www.nasa.gov/directorates/stmd/five-ways-to-explore-nasas-portfolio-of-technologies-with-techport-4-0/" >🔗</a> **[NASA]** Five Ways to Explore NASA’s Portfolio of Technologies with TechPort 4.0
 - <a href="https://www.nasa.gov/centers-and-facilities/goddard/nargess-memarsadeghi-computer-engineer-for-the-cosmos/" >🔗</a> **[NASA]** Nargess Memarsadeghi, Computer Engineer for the Cosmos
 - <a href="https://www.nasa.gov/centers-and-facilities/nesc/statistical-analysis-using-random-forest-algorithm-provides-key-insights-into-parachute-energy-modulator-system/" >🔗</a> **[NASA]** Statistical Analysis Using Random Forest Algorithm Provides Key Insights into Parachute Energy Modulator System
@@ -99,8 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/china-nears-record-launch-year-with-ceres-1-and-sar-satellite-missions/" >🔗</a> **[SpaceNews]** China nears record launch year with Ceres-1 and SAR satellite missions
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-names-carlos-garcia-galan-as-gateway-program-deputy-manager/" >🔗</a> **[NASA]** NASA Names Carlos Garcia-Galan as Gateway Program Deputy Manager
 - <a href="https://www.nasa.gov/general/program-manager-at-nasa-glenn-earns-aiaa-sustained-service-award/" >🔗</a> **[NASA]** Program Manager at NASA Glenn Earns AIAA Sustained Service Award
-- <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenns-office-of-communications-earns-top-honors/" >🔗</a> **[NASA]** NASA Glenn’s Office of Communications Earns Top Honors
-- <a href="https://www.nasa.gov/general/an-evening-with-the-stars-10-years-and-counting/" >🔗</a> **[NASA]** An Evening With the Stars: 10 Years and Counting
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241219T200135">2024-12-19 20:01:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241219T203235">2024-12-19 20:32:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
