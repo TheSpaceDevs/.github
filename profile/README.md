@@ -20,33 +20,32 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Ceres-1S | Unknown Payload**. It is scheduled to be launched by *Galactic Energy*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-from *<a href="None">Oriental Spaceport mobile launch ship</a>, Sea Launch*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/un.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241219T100700">2024-12-19 10:07:00 UTC</a>.  Until
-then, this pad will have been used for 1
-out of 53 launches from this location. The launch status is currently
-*Go* 🟩 . The mission type is
-*Unknown* and the payload will be injected
-into *an Unknown
-(N/A)*.
+**Falcon 9 Block 5 | Bandwagon 2 (Dedicated Mid-Inclination Rideshare)**. It is scheduled to be launched by *SpaceX*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241220T115300">2024-12-20 11:53:00 UTC</a>.  Until
+then, this pad will have been used for 172
+out of 784 launches from this location. The launch status is currently
+*TBC* 🟨 . The mission type is
+*Dedicated Rideshare* and the payload will be injected
+into *a Low Earth Orbit
+(LEO)*.
 <br>
 <blockquote>
-  Probable Ceres-1S launch with Tianqi 33-36; Details TBD.
+  Dedicated rideshare flight to a mid-inclination orbit with dozens of small microsatellites and nanosatellites for commercial and government customers. Payloads include the South Korean government's 425 Project Flight 3.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="None" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=35.391667%2C119.598667" >
+  <a href="https://www.google.com/maps?q=34.632,-120.611" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241219T100700">2024-12-19 10:07:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/un.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ceres-1S | Unknown Payload&location=Sea Launch&dates=20241219T100700Z%2F20241219T103600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ceres-1S | Unknown Payload** from Sea Launch.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241220T115300">2024-12-20 11:53:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Bandwagon 2 (Dedicated Mid-Inclination Rideshare)&location=Vandenberg SFB, CA, USA&dates=20241220T115300Z%2F20241220T123300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Bandwagon 2 (Dedicated Mid-Inclination Rideshare)** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241220T140000">2024-12-20 14:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Owl The Way Up (StriX Launch 6)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20241220T140000Z%2F20241220T151500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Owl The Way Up (StriX Launch 6)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241220T150300">2024-12-20 15:03:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 3B/E | Unknown Payload&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20241220T150300Z%2F20241220T160100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 3B/E | Unknown Payload** from Xichang Satellite Launch Center, People's Republic of China.
@@ -56,6 +55,7 @@ into *an Unknown
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241225T074500">2024-12-25 07:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b | Resurs-P No.5&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20241225T074500Z%2F20241225T074500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1b | Resurs-P No.5** from Baikonur Cosmodrome, Republic of Kazakhstan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241227T050000">2024-12-27 05:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Thuraya 4-NGS&location=Cape Canaveral SFS, FL, USA&dates=20241227T050000Z%2F20241227T065300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Thuraya 4-NGS** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241229T013500">2024-12-29 01:35:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-3&location=Vandenberg SFB, CA, USA&dates=20241229T013500Z%2F20241229T060600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-3** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241230T160000">2024-12-30 16:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=PSLV | SPADEX (Space Docking Experiment)&location=Satish Dhawan Space Centre, India&dates=20241230T160000Z%2F20241230T200000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **PSLV | SPADEX (Space Docking Experiment)** from Satish Dhawan Space Centre, India.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/firefly-wins-nasa-contract-for-third-lunar-lander-mission/" >🔗</a> **[SpaceNews]** Firefly wins NASA contract for third lunar lander mission
 - <a href="https://spacenews.com/esa-and-avio-sign-contracts-for-vega-upgrades-and-new-launch/" >🔗</a> **[SpaceNews]** ESA and Avio sign contracts for Vega upgrades and new launch
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/12/Cosmic_jingles_listen_to_Euclid_s_image_of_M78" >🔗</a> **[ESA]** Cosmic jingles: listen to Euclid’s image of M78
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/12/Aurora_Australis_in_Antarctica" >🔗</a> **[ESA]** Aurora Australis in Antarctica
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasaspaceflight.com/2024/12/faa-flight-7-go/" >🔗</a> **[NASASpaceflight]** FAA gives Flight 7 the Go Ahead, SpaceX to complete final steps ahead of launch
 - <a href="https://spacenews.com/firefly-ispace-lunar-landers-to-share-falcon-9-launch/" >🔗</a> **[SpaceNews]** Firefly, ispace lunar landers to share Falcon 9 launch
 - <a href="https://www.nasa.gov/general/nasa-ames-stars-of-the-month-january-2025/" >🔗</a> **[NASA]** NASA Ames Stars of the Month: January 2025
-- <a href="https://www.nasaspaceflight.com/2024/12/china-roundup-121824/" >🔗</a> **[NASASpaceflight]** Chang Zheng 12, ZhuQue-2E fly maiden missions; Hainan spaceport and mega constellations expand
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241219T100128">2024-12-19 10:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241219T103544">2024-12-19 10:35:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
