@@ -91,6 +91,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/esa-and-avio-sign-contracts-for-vega-upgrades-and-new-launch/" >🔗</a> **[SpaceNews]** ESA and Avio sign contracts for Vega upgrades and new launch
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/12/Cosmic_jingles_listen_to_Euclid_s_image_of_M78" >🔗</a> **[ESA]** Cosmic jingles: listen to Euclid’s image of M78
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/12/Aurora_Australis_in_Antarctica" >🔗</a> **[ESA]** Aurora Australis in Antarctica
 - <a href="https://europeanspaceflight.com/esa-awards-e350m-to-avio-to-boost-vega-c-and-develop-vega-e/" >🔗</a> **[European Spaceflight]** ESA Awards €350M to Avio to Boost Vega C and Develop Vega E
 - <a href="https://spacepolicyonline.com/news/shutdown-fears-escalate-as-trump-calls-on-republicans-to-reject-cr/" >🔗</a> **[SpacePolicyOnline.com]** Shutdown Fears Escalate as Trump Calls on Republicans to Reject CR
 - <a href="https://spacenews.com/u-s-military-seeks-commercial-space-technology-for-strategic-edge/" >🔗</a> **[SpaceNews]** U.S. military seeks commercial space technology for strategic edge
@@ -98,9 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/firefly-ispace-lunar-landers-to-share-falcon-9-launch/" >🔗</a> **[SpaceNews]** Firefly, ispace lunar landers to share Falcon 9 launch
 - <a href="https://www.nasa.gov/general/nasa-ames-stars-of-the-month-january-2025/" >🔗</a> **[NASA]** NASA Ames Stars of the Month: January 2025
 - <a href="https://www.nasaspaceflight.com/2024/12/china-roundup-121824/" >🔗</a> **[NASASpaceflight]** Chang Zheng 12, ZhuQue-2E fly maiden missions; Hainan spaceport and mega constellations expand
-- <a href="https://www.nasa.gov/news-release/more-nasa-science-tech-will-fly-to-moon-aboard-future-firefly-flight/" >🔗</a> **[NASA]** More NASA Science, Tech will Fly to Moon Aboard Future Firefly Flight
-- <a href="https://www.nasa.gov/missions/artemis/clps/nasa-payload-aims-to-probe-moons-depths-to-study-heat-flow/" >🔗</a> **[NASA]** NASA Payload Aims to Probe Moon’s Depths to Study Heat Flow
-- <a href="https://www.nasa.gov/learning-resources/for-kids-and-students/how-does-the-sun-behave-grades-5-8/" >🔗</a> **[NASA]** NASA Knows: How Does the Sun Behave? (Grades 5-8)
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241219T090131">2024-12-19 09:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241219T093316">2024-12-19 09:33:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
