@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/esa-awards-e350m-to-avio-to-boost-vega-c-and-develop-vega-e/" >🔗</a> **[European Spaceflight]** ESA Awards €350M to Avio to Boost Vega C and Develop Vega E
 - <a href="https://spacepolicyonline.com/news/shutdown-fears-escalate-as-trump-calls-on-republicans-to-reject-cr/" >🔗</a> **[SpacePolicyOnline.com]** Shutdown Fears Escalate as Trump Calls on Republicans to Reject CR
 - <a href="https://spacenews.com/u-s-military-seeks-commercial-space-technology-for-strategic-edge/" >🔗</a> **[SpaceNews]** U.S. military seeks commercial space technology for strategic edge
 - <a href="https://www.nasaspaceflight.com/2024/12/faa-flight-7-go/" >🔗</a> **[NASASpaceflight]** FAA gives Flight 7 the Go Ahead, SpaceX to complete final steps ahead of launch
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/news-release/more-nasa-science-tech-will-fly-to-moon-aboard-future-firefly-flight/" >🔗</a> **[NASA]** More NASA Science, Tech will Fly to Moon Aboard Future Firefly Flight
 - <a href="https://www.nasa.gov/missions/artemis/clps/nasa-payload-aims-to-probe-moons-depths-to-study-heat-flow/" >🔗</a> **[NASA]** NASA Payload Aims to Probe Moon’s Depths to Study Heat Flow
 - <a href="https://www.nasa.gov/learning-resources/for-kids-and-students/how-does-the-sun-behave-grades-5-8/" >🔗</a> **[NASA]** NASA Knows: How Does the Sun Behave? (Grades 5-8)
-- <a href="https://www.nasa.gov/image-article/nasa-cu-enact-collaborative-space-act-agreement/" >🔗</a> **[NASA]** NASA, CU Enact Collaborative Space Act Agreement
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241219T073122">2024-12-19 07:31:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241219T080140">2024-12-19 08:01:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
