@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/12/were-about-to-fly-a-spacecraft-into-the-sun-for-the-first-time/" >🔗</a> **[Arstechnica]** We’re about to fly a spacecraft into the Sun for the first time
 - <a href="https://www.nasa.gov/image-article/gateway-wired-for-deep-space/" >🔗</a> **[NASA]** Gateway: Wired for Deep Space
 - <a href="https://www.nasa.gov/organizations/otps/new-report-analyzes-long-history-of-nasa-support-for-commercial-space/" >🔗</a> **[NASA]** New Report Analyzes Long History of NASA Support for Commercial Space
 - <a href="https://www.nasa.gov/directorates/esdmd/common-exploration-systems-development-division/space-launch-system/artemis-ii-core-stage-vertical-integration-begins-at-nasa-kennedy/" >🔗</a> **[NASA]** Artemis II Core Stage Vertical Integration Begins at NASA Kennedy
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://arstechnica.com/space/2024/12/blue-origin-may-hot-fire-its-new-glenn-rocket-as-soon-as-today/" >🔗</a> **[Arstechnica]** Blue Origin may hot fire its New Glenn rocket as soon as today
 - <a href="https://www.nasa.gov/centers-and-facilities/nesc/contact-dynamics-predictions-utilizing-thenesc-parameterless-contact-model/" >🔗</a> **[NASA]** Contact Dynamics Predictions Utilizing theNESC Parameterless Contact Model
 - <a href="https://spacenews.com/china-nears-record-launch-year-with-ceres-1-and-sar-satellite-missions/" >🔗</a> **[SpaceNews]** China nears record launch year with Ceres-1 and SAR satellite missions
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-names-carlos-garcia-galan-as-gateway-program-deputy-manager/" >🔗</a> **[NASA]** NASA Names Carlos Garcia-Galan as Gateway Program Deputy Manager
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241219T230125">2024-12-19 23:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241219T233102">2024-12-19 23:31:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
