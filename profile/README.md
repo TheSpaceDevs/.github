@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2024/12/faa-flight-7-go/" >🔗</a> **[NASASpaceflight]** FAA gives Flight 7 the Go Ahead, SpaceX to complete final steps ahead of launch
+- <a href="https://spacenews.com/firefly-ispace-lunar-landers-to-share-falcon-9-launch/" >🔗</a> **[SpaceNews]** Firefly, ispace lunar landers to share Falcon 9 launch
 - <a href="https://www.nasa.gov/general/nasa-ames-stars-of-the-month-january-2025/" >🔗</a> **[NASA]** NASA Ames Stars of the Month: January 2025
 - <a href="https://www.nasaspaceflight.com/2024/12/china-roundup-121824/" >🔗</a> **[NASASpaceflight]** Chang Zheng 12, ZhuQue-2E fly maiden missions; Hainan spaceport and mega constellations expand
 - <a href="https://www.nasa.gov/news-release/more-nasa-science-tech-will-fly-to-moon-aboard-future-firefly-flight/" >🔗</a> **[NASA]** More NASA Science, Tech will Fly to Moon Aboard Future Firefly Flight
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/image-article/nasa-cu-enact-collaborative-space-act-agreement/" >🔗</a> **[NASA]** NASA, CU Enact Collaborative Space Act Agreement
 - <a href="https://spaceflightnow.com/2024/12/18/space-force-says-first-national-security-vulcan-launch-now-anticipated-in-spring-2025/" >🔗</a> **[Spaceflight Now]** Space Force says first national security Vulcan launch now anticipated in spring 2025
 - <a href="https://www.nasa.gov/organizations/otps/otps-releases-its-2024-annual-report/" >🔗</a> **[NASA]** OTPS Releases its 2024 Annual Report
-- <a href="https://www.nasa.gov/organizations/otps/nasas-agency-chief-technologist-presents-their-annual-year-in-review-for-2024/" >🔗</a> **[NASA]** A Year in Review 2024 from NASA’s Agency Chief Technologist
-- <a href="https://spacenews.com/new-zealand-first-to-offer-nationwide-direct-to-smartphone-starlink-service/" >🔗</a> **[SpaceNews]** New Zealand first to provide nationwide direct-to-smartphone Starlink service
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241219T000434">2024-12-19 00:04:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241219T004547">2024-12-19 00:45:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
