@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2024/12/blue-origin-may-hot-fire-its-new-glenn-rocket-as-soon-as-today/" >🔗</a> **[Arstechnica]** Blue Origin may hot fire its New Glenn rocket as soon as today
 - <a href="https://www.nasa.gov/centers-and-facilities/nesc/contact-dynamics-predictions-utilizing-thenesc-parameterless-contact-model/" >🔗</a> **[NASA]** Contact Dynamics Predictions Utilizing theNESC Parameterless Contact Model
 - <a href="https://spacenews.com/china-nears-record-launch-year-with-ceres-1-and-sar-satellite-missions/" >🔗</a> **[SpaceNews]** China nears record launch year with Ceres-1 and SAR satellite missions
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-names-carlos-garcia-galan-as-gateway-program-deputy-manager/" >🔗</a> **[NASA]** NASA Names Carlos Garcia-Galan as Gateway Program Deputy Manager
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasa.gov/directorates/stmd/tech-transfer/nasa-partners-with-us-patent-and-trademark-office-to-advance-technology-transfer/" >🔗</a> **[NASA]** NASA Partners with US Patent and Trademark Office to Advance Technology Transfer
 - <a href="https://spacenews.com/k2-space-lands-30-million-military-contract-for-mega-satellite-mission/" >🔗</a> **[SpaceNews]** K2 Space lands $30 million military contract for “Mega” satellite mission
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Philippines_team_add_hypergravity_for_stronger_bone_cells" >🔗</a> **[ESA]** Philippines team add hypergravity for stronger bone cells
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/55-years-ago-apollo-13-preparations-for-the-third-moon-landing/" >🔗</a> **[NASA]** 55 Years Ago: Apollo 13, Preparations for the Third Moon Landing
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241219T180134">2024-12-19 18:01:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241219T183611">2024-12-19 18:36:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
