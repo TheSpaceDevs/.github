@@ -91,6 +91,9 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/nesc/contact-dynamics-predictions-utilizing-thenesc-parameterless-contact-model/" >🔗</a> **[NASA]** Contact Dynamics Predictions Utilizing theNESC Parameterless Contact Model
+- <a href="https://spacenews.com/china-nears-record-launch-year-with-ceres-1-and-sar-satellite-missions/" >🔗</a> **[SpaceNews]** China nears record launch year with Ceres-1 and SAR satellite missions
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-names-carlos-garcia-galan-as-gateway-program-deputy-manager/" >🔗</a> **[NASA]** NASA Names Carlos Garcia-Galan as Gateway Program Deputy Manager
 - <a href="https://www.nasa.gov/general/program-manager-at-nasa-glenn-earns-aiaa-sustained-service-award/" >🔗</a> **[NASA]** Program Manager at NASA Glenn Earns AIAA Sustained Service Award
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenns-office-of-communications-earns-top-honors/" >🔗</a> **[NASA]** NASA Glenn’s Office of Communications Earns Top Honors
 - <a href="https://www.nasa.gov/general/an-evening-with-the-stars-10-years-and-counting/" >🔗</a> **[NASA]** An Evening With the Stars: 10 Years and Counting
@@ -98,9 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/k2-space-lands-30-million-military-contract-for-mega-satellite-mission/" >🔗</a> **[SpaceNews]** K2 Space lands $30 million military contract for “Mega” satellite mission
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Philippines_team_add_hypergravity_for_stronger_bone_cells" >🔗</a> **[ESA]** Philippines team add hypergravity for stronger bone cells
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/55-years-ago-apollo-13-preparations-for-the-third-moon-landing/" >🔗</a> **[NASA]** 55 Years Ago: Apollo 13, Preparations for the Third Moon Landing
-- <a href="https://spacenews.com/three-companies-to-partner-on-gto-rideshare-launch-services/" >🔗</a> **[SpaceNews]** Three companies to partner on GTO rideshare launch services
-- <a href="https://spacenews.com/vast-signs-agreement-with-spacex-for-private-astronaut-missions-to-the-iss/" >🔗</a> **[SpaceNews]** Vast signs agreement with SpaceX for private astronaut missions to the ISS
-- <a href="https://spacenews.com/maxar-signs-35-million-satellite-intelligence-deals-in-asia-pacific-region/" >🔗</a> **[SpaceNews]** Maxar signs $35 million satellite intelligence deals in Asia-Pacific region
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241219T170123">2024-12-19 17:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241219T173229">2024-12-19 17:32:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
