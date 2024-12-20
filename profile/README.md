@@ -90,6 +90,9 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/CryoSat/ESA_and_NASA_deliver_first_joint_picture_of_Greenland_Ice_Sheet_melting" >🔗</a> **[ESA]** ESA and NASA deliver first joint picture of Greenland Ice Sheet melting
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/25-years-ago-sts-103-the-hubble-servicing-mission-3a/" >🔗</a> **[NASA]** 25 Years Ago: STS-103, The Hubble Servicing Mission-3A
+- <a href="https://spacenews.com/the-case-to-build-a-new-iss-the-international-solar-sunshade/" >🔗</a> **[SpaceNews]** The case to build a new ISS: the International Solar Sunshade
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-notre-dame-connect-students-to-inspire-stem-careers/" >🔗</a> **[NASA]** NASA, Notre Dame Connect Students to Inspire STEM Careers
 - <a href="https://www.nasa.gov/aeronautics/nasa-flight-tool-curbs-delays-emissions/" >🔗</a> **[NASA]** NASA Flight Rerouting Tool Curbs Delays, Emissions
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/12/ESA_2025_A_fifty-years_legacy_of_building_the_future" >🔗</a> **[ESA]** ESA 2025:  A fifty-years legacy  of building the future
@@ -97,9 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://science.nasa.gov/missions/hubble/hubble-spies-a-cosmic-eye/" >🔗</a> **[NASA]** Hubble Spies a Cosmic Eye
 - <a href="https://www.esa.int/About_Us/Week_in_images/Year_in_images_2024" >🔗</a> **[ESA]** Year in images 2024
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/12/Hera_asteroid_mission_in_your_house" >🔗</a> **[ESA]** Hera asteroid mission in your house
-- <a href="https://europeanspaceflight.com/germany-commits-e95m-more-to-isar-rfa-and-hyimpulse/" >🔗</a> **[European Spaceflight]** Germany Commits €95M More to Isar, RFA, and HyImpulse
-- <a href="https://science.nasa.gov/blog/sols-4398-4401-holidays-ahead-rocks-under-the-wheels/" >🔗</a> **[NASA]** Sols 4398-4401: Holidays Ahead, Rocks Under the Wheels
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/12/Happy_holidays_from_Hera" >🔗</a> **[ESA]** Happy holidays from Hera!
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241220T140133">2024-12-20 14:01:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241220T143312">2024-12-20 14:33:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
