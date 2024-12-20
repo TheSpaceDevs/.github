@@ -91,6 +91,9 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/next-crew-dragon-mission-delayed-a-month/" >🔗</a> **[SpaceNews]** Next Crew Dragon mission delayed a month
+- <a href="https://www.nasa.gov/general/nasa-cameras-to-capture-interaction-between-blue-ghost-moons-surface/" >🔗</a> **[NASA]** NASA Cameras to Capture Interaction Between Blue Ghost, Moon’s Surface
+- <a href="https://science.nasa.gov/blog/perseverance-blasts-past-the-top-of-jezero-crater-rim/" >🔗</a> **[NASA]** Perseverance Blasts Past the Top of Jezero Crater Rim
 - <a href="https://arstechnica.com/space/2024/12/were-about-to-fly-a-spacecraft-into-the-sun-for-the-first-time/" >🔗</a> **[Arstechnica]** We’re about to fly a spacecraft into the Sun for the first time
 - <a href="https://www.nasa.gov/image-article/gateway-wired-for-deep-space/" >🔗</a> **[NASA]** Gateway: Wired for Deep Space
 - <a href="https://www.nasa.gov/organizations/otps/new-report-analyzes-long-history-of-nasa-support-for-commercial-space/" >🔗</a> **[NASA]** New Report Analyzes Long History of NASA Support for Commercial Space
@@ -98,9 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasa.gov/directorates/stmd/five-ways-to-explore-nasas-portfolio-of-technologies-with-techport-4-0/" >🔗</a> **[NASA]** Five Ways to Explore NASA’s Portfolio of Technologies with TechPort 4.0
 - <a href="https://www.nasa.gov/centers-and-facilities/goddard/nargess-memarsadeghi-computer-engineer-for-the-cosmos/" >🔗</a> **[NASA]** Nargess Memarsadeghi, Computer Engineer for the Cosmos
 - <a href="https://www.nasa.gov/centers-and-facilities/nesc/statistical-analysis-using-random-forest-algorithm-provides-key-insights-into-parachute-energy-modulator-system/" >🔗</a> **[NASA]** Statistical Analysis Using Random Forest Algorithm Provides Key Insights into Parachute Energy Modulator System
-- <a href="https://arstechnica.com/space/2024/12/blue-origin-may-hot-fire-its-new-glenn-rocket-as-soon-as-today/" >🔗</a> **[Arstechnica]** Blue Origin may hot fire its New Glenn rocket as soon as today
-- <a href="https://www.nasa.gov/centers-and-facilities/nesc/contact-dynamics-predictions-utilizing-thenesc-parameterless-contact-model/" >🔗</a> **[NASA]** Contact Dynamics Predictions Utilizing theNESC Parameterless Contact Model
-- <a href="https://spacenews.com/china-nears-record-launch-year-with-ceres-1-and-sar-satellite-missions/" >🔗</a> **[SpaceNews]** China nears record launch year with Ceres-1 and SAR satellite missions
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241220T000428">2024-12-20 00:04:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241220T004537">2024-12-20 00:45:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
