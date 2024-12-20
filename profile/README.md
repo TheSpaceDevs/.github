@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/12/Earth_from_Space_Star_cities" >🔗</a> **[ESA]** Earth from Space: Star cities
 - <a href="https://spacepolicyonline.com/news/house-defeats-new-cr-as-shutdown-looms/" >🔗</a> **[SpacePolicyOnline.com]** House Defeats New CR as Shutdown Looms
 - <a href="https://spacenews.com/next-crew-dragon-mission-delayed-a-month/" >🔗</a> **[SpaceNews]** Next Crew Dragon mission delayed a month
 - <a href="https://www.nasa.gov/general/nasa-cameras-to-capture-interaction-between-blue-ghost-moons-surface/" >🔗</a> **[NASA]** NASA Cameras to Capture Interaction Between Blue Ghost, Moon’s Surface
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasa.gov/organizations/otps/new-report-analyzes-long-history-of-nasa-support-for-commercial-space/" >🔗</a> **[NASA]** New Report Analyzes Long History of NASA Support for Commercial Space
 - <a href="https://www.nasa.gov/directorates/esdmd/common-exploration-systems-development-division/space-launch-system/artemis-ii-core-stage-vertical-integration-begins-at-nasa-kennedy/" >🔗</a> **[NASA]** Artemis II Core Stage Vertical Integration Begins at NASA Kennedy
 - <a href="https://www.nasa.gov/directorates/stmd/five-ways-to-explore-nasas-portfolio-of-technologies-with-techport-4-0/" >🔗</a> **[NASA]** Five Ways to Explore NASA’s Portfolio of Technologies with TechPort 4.0
-- <a href="https://www.nasa.gov/centers-and-facilities/goddard/nargess-memarsadeghi-computer-engineer-for-the-cosmos/" >🔗</a> **[NASA]** Nargess Memarsadeghi, Computer Engineer for the Cosmos
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241220T090120">2024-12-20 09:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241220T093153">2024-12-20 09:31:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
