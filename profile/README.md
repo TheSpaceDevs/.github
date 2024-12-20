@@ -91,6 +91,9 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-notre-dame-connect-students-to-inspire-stem-careers/" >🔗</a> **[NASA]** NASA, Notre Dame Connect Students to Inspire STEM Careers
+- <a href="https://www.nasa.gov/aeronautics/nasa-flight-tool-curbs-delays-emissions/" >🔗</a> **[NASA]** NASA Flight Rerouting Tool Curbs Delays, Emissions
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/12/ESA_2025_A_fifty-years_legacy_of_building_the_future" >🔗</a> **[ESA]** ESA 2025:  A fifty-years legacy  of building the future
 - <a href="https://spacenews.com/faa-updates-starship-launch-license-for-next-flight/" >🔗</a> **[SpaceNews]** FAA updates Starship launch license for next flight
 - <a href="https://science.nasa.gov/missions/hubble/hubble-spies-a-cosmic-eye/" >🔗</a> **[NASA]** Hubble Spies a Cosmic Eye
 - <a href="https://www.esa.int/About_Us/Week_in_images/Year_in_images_2024" >🔗</a> **[ESA]** Year in images 2024
@@ -98,9 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://europeanspaceflight.com/germany-commits-e95m-more-to-isar-rfa-and-hyimpulse/" >🔗</a> **[European Spaceflight]** Germany Commits €95M More to Isar, RFA, and HyImpulse
 - <a href="https://science.nasa.gov/blog/sols-4398-4401-holidays-ahead-rocks-under-the-wheels/" >🔗</a> **[NASA]** Sols 4398-4401: Holidays Ahead, Rocks Under the Wheels
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/12/Happy_holidays_from_Hera" >🔗</a> **[ESA]** Happy holidays from Hera!
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/12/Earth_from_Space_Star_cities" >🔗</a> **[ESA]** Earth from Space: Star cities
-- <a href="https://spacepolicyonline.com/news/house-defeats-new-cr-as-shutdown-looms/" >🔗</a> **[SpacePolicyOnline.com]** House Defeats New CR as Shutdown Looms
-- <a href="https://spacenews.com/next-crew-dragon-mission-delayed-a-month/" >🔗</a> **[SpaceNews]** Next Crew Dragon mission delayed a month
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241220T130507">2024-12-20 13:05:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241220T133259">2024-12-20 13:32:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
