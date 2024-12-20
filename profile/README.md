@@ -91,6 +91,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-dec-20-2024/" >🔗</a> **[NASA]** Station Science Top News: Dec. 20, 2024
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/2024-nasa-armstrong-prepares-for-future-innovative-research-efforts/" >🔗</a> **[NASA]** 2024: NASA Armstrong Prepares for Future Innovative Research Efforts
 - <a href="https://www.nasa.gov/solar-system/asteroids/nasas-webb-reveals-smallest-asteroids-yet-found-in-main-asteroid-belt/" >🔗</a> **[NASA]** NASA’s Webb Reveals Smallest Asteroids Yet Found in Main Asteroid Belt
 - <a href="https://www.nasa.gov/missions/dawn/lab-work-digs-into-gullies-seen-on-giant-asteroid-vesta-by-nasas-dawn/" >🔗</a> **[NASA]** Lab Work Digs Into Gullies Seen on Giant Asteroid Vesta by NASA’s Dawn
@@ -100,7 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spacenews.com/turion-space-secures-32-6-million-military-contract-for-in-orbit-space-surveillance/" >🔗</a> **[SpaceNews]** Turion Space secures $32.6 million military contract for in-orbit space surveillance
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/CryoSat/ESA_and_NASA_deliver_first_joint_picture_of_Greenland_Ice_Sheet_melting" >🔗</a> **[ESA]** ESA and NASA deliver first joint picture of Greenland Ice Sheet melting
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/25-years-ago-sts-103-the-hubble-servicing-mission-3a/" >🔗</a> **[NASA]** 25 Years Ago: STS-103, The Hubble Servicing Mission-3A
-- <a href="https://spacenews.com/the-case-to-build-a-new-iss-the-international-solar-sunshade/" >🔗</a> **[SpaceNews]** The case to build a new ISS: the International Solar Sunshade
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241220T190121">2024-12-20 19:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241220T193113">2024-12-20 19:31:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
