@@ -91,6 +91,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-welcomes-liechtenstein-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Liechtenstein as Newest Artemis Accords Signatory
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/nasas-ames-research-center-celebrates-85-years-of-innovation/" >🔗</a> **[NASA]** NASA’s Ames Research Center Celebrates 85 Years of Innovation
 - <a href="https://spaceflightnow.com/2024/12/20/live-coverage-spacex-to-launch-4-astranis-microgeo-satellites-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 4 Astranis MicroGEO satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://www.nasa.gov/image-article/nasas-terra-satellite-captures-2015-eclipse-shadow/" >🔗</a> **[NASA]** NASA’s Terra Satellite Captures 2015 Eclipse Shadow
@@ -100,7 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.nasa.gov/missions/dawn/lab-work-digs-into-gullies-seen-on-giant-asteroid-vesta-by-nasas-dawn/" >🔗</a> **[NASA]** Lab Work Digs Into Gullies Seen on Giant Asteroid Vesta by NASA’s Dawn
 - <a href="https://www.nasa.gov/missions/mars-reconnaissance-orbiter/avalanches-icy-explosions-and-dunes-nasa-is-tracking-new-year-on-mars/" >🔗</a> **[NASA]** Avalanches, Icy Explosions, and Dunes: NASA Is Tracking New Year on Mars
 - <a href="https://www.nasa.gov/image-article/nasa-runs-x-59-engine-with-maximum-afterburner-for-first-time/" >🔗</a> **[NASA]** NASA Runs X-59 Engine with Maximum Afterburner for First Time
-- <a href="https://www.nasa.gov/missions/artemis/clps/nasa-science-payload-to-study-sticky-lunar-dust-challenge/" >🔗</a> **[NASA]** NASA Science Payload to Study Sticky Lunar Dust Challenge
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241220T210120">2024-12-20 21:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241220T213104">2024-12-20 21:31:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
