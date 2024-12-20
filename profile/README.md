@@ -91,6 +91,9 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/mars-reconnaissance-orbiter/avalanches-icy-explosions-and-dunes-nasa-is-tracking-new-year-on-mars/" >🔗</a> **[NASA]** Avalanches, Icy Explosions, and Dunes: NASA Is Tracking New Year on Mars
+- <a href="https://www.nasa.gov/image-article/nasa-runs-x-59-engine-with-maximum-afterburner-for-first-time/" >🔗</a> **[NASA]** NASA Runs X-59 Engine with Maximum Afterburner for First Time
+- <a href="https://www.nasa.gov/missions/artemis/clps/nasa-science-payload-to-study-sticky-lunar-dust-challenge/" >🔗</a> **[NASA]** NASA Science Payload to Study Sticky Lunar Dust Challenge
 - <a href="https://spacenews.com/turion-space-secures-32-6-million-military-contract-for-in-orbit-space-surveillance/" >🔗</a> **[SpaceNews]** Turion Space secures $32.6 million military contract for in-orbit space surveillance
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/CryoSat/ESA_and_NASA_deliver_first_joint_picture_of_Greenland_Ice_Sheet_melting" >🔗</a> **[ESA]** ESA and NASA deliver first joint picture of Greenland Ice Sheet melting
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/25-years-ago-sts-103-the-hubble-servicing-mission-3a/" >🔗</a> **[NASA]** 25 Years Ago: STS-103, The Hubble Servicing Mission-3A
@@ -98,9 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://science.nasa.gov/science-research/planetary-science/astrobiology/nasa-study-shows-ferns-facilitate-recovery-from-environmental-disaster/" >🔗</a> **[NASA]** NASA Study Shows Ferns Facilitate Recovery from Environmental Disaster
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-notre-dame-connect-students-to-inspire-stem-careers/" >🔗</a> **[NASA]** NASA, Notre Dame Connect Students to Inspire STEM Careers
 - <a href="https://www.nasa.gov/aeronautics/nasa-flight-tool-curbs-delays-emissions/" >🔗</a> **[NASA]** NASA Flight Rerouting Tool Curbs Delays, Emissions
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/12/ESA_2025_A_fifty-years_legacy_of_building_the_future" >🔗</a> **[ESA]** ESA 2025:  A fifty-years legacy  of building the future
-- <a href="https://spacenews.com/faa-updates-starship-launch-license-for-next-flight/" >🔗</a> **[SpaceNews]** FAA updates Starship launch license for next flight
-- <a href="https://science.nasa.gov/missions/hubble/hubble-spies-a-cosmic-eye/" >🔗</a> **[NASA]** Hubble Spies a Cosmic Eye
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241220T170132">2024-12-20 17:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241220T173207">2024-12-20 17:32:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
