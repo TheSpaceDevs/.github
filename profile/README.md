@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/house-defeats-new-cr-as-shutdown-looms/" >🔗</a> **[SpacePolicyOnline.com]** House Defeats New CR as Shutdown Looms
 - <a href="https://spacenews.com/next-crew-dragon-mission-delayed-a-month/" >🔗</a> **[SpaceNews]** Next Crew Dragon mission delayed a month
 - <a href="https://www.nasa.gov/general/nasa-cameras-to-capture-interaction-between-blue-ghost-moons-surface/" >🔗</a> **[NASA]** NASA Cameras to Capture Interaction Between Blue Ghost, Moon’s Surface
 - <a href="https://science.nasa.gov/blog/perseverance-blasts-past-the-top-of-jezero-crater-rim/" >🔗</a> **[NASA]** Perseverance Blasts Past the Top of Jezero Crater Rim
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasa.gov/directorates/esdmd/common-exploration-systems-development-division/space-launch-system/artemis-ii-core-stage-vertical-integration-begins-at-nasa-kennedy/" >🔗</a> **[NASA]** Artemis II Core Stage Vertical Integration Begins at NASA Kennedy
 - <a href="https://www.nasa.gov/directorates/stmd/five-ways-to-explore-nasas-portfolio-of-technologies-with-techport-4-0/" >🔗</a> **[NASA]** Five Ways to Explore NASA’s Portfolio of Technologies with TechPort 4.0
 - <a href="https://www.nasa.gov/centers-and-facilities/goddard/nargess-memarsadeghi-computer-engineer-for-the-cosmos/" >🔗</a> **[NASA]** Nargess Memarsadeghi, Computer Engineer for the Cosmos
-- <a href="https://www.nasa.gov/centers-and-facilities/nesc/statistical-analysis-using-random-forest-algorithm-provides-key-insights-into-parachute-energy-modulator-system/" >🔗</a> **[NASA]** Statistical Analysis Using Random Forest Algorithm Provides Key Insights into Parachute Energy Modulator System
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241220T050120">2024-12-20 05:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241220T053319">2024-12-20 05:33:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
