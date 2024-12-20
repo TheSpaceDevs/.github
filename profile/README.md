@@ -91,6 +91,8 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2024/12/20/live-coverage-spacex-to-launch-4-astranis-microgeo-satellites-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 4 Astranis MicroGEO satellites on Falcon 9 rocket from Cape Canaveral
+- <a href="https://www.nasa.gov/image-article/nasas-terra-satellite-captures-2015-eclipse-shadow/" >🔗</a> **[NASA]** NASA’s Terra Satellite Captures 2015 Eclipse Shadow
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-dec-20-2024/" >🔗</a> **[NASA]** Station Science Top News: Dec. 20, 2024
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/2024-nasa-armstrong-prepares-for-future-innovative-research-efforts/" >🔗</a> **[NASA]** 2024: NASA Armstrong Prepares for Future Innovative Research Efforts
 - <a href="https://www.nasa.gov/solar-system/asteroids/nasas-webb-reveals-smallest-asteroids-yet-found-in-main-asteroid-belt/" >🔗</a> **[NASA]** NASA’s Webb Reveals Smallest Asteroids Yet Found in Main Asteroid Belt
@@ -99,8 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.nasa.gov/image-article/nasa-runs-x-59-engine-with-maximum-afterburner-for-first-time/" >🔗</a> **[NASA]** NASA Runs X-59 Engine with Maximum Afterburner for First Time
 - <a href="https://www.nasa.gov/missions/artemis/clps/nasa-science-payload-to-study-sticky-lunar-dust-challenge/" >🔗</a> **[NASA]** NASA Science Payload to Study Sticky Lunar Dust Challenge
 - <a href="https://spacenews.com/turion-space-secures-32-6-million-military-contract-for-in-orbit-space-surveillance/" >🔗</a> **[SpaceNews]** Turion Space secures $32.6 million military contract for in-orbit space surveillance
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/CryoSat/ESA_and_NASA_deliver_first_joint_picture_of_Greenland_Ice_Sheet_melting" >🔗</a> **[ESA]** ESA and NASA deliver first joint picture of Greenland Ice Sheet melting
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/25-years-ago-sts-103-the-hubble-servicing-mission-3a/" >🔗</a> **[NASA]** 25 Years Ago: STS-103, The Hubble Servicing Mission-3A
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241220T193113">2024-12-20 19:31:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241220T200127">2024-12-20 20:01:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
