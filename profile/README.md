@@ -95,12 +95,12 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/12/Hera_asteroid_mission_in_your_house" >🔗</a> **[ESA]** Hera asteroid mission in your house
 - <a href="https://europeanspaceflight.com/germany-commits-e95m-more-to-isar-rfa-and-hyimpulse/" >🔗</a> **[European Spaceflight]** Germany Commits €95M More to Isar, RFA, and HyImpulse
 - <a href="https://science.nasa.gov/blog/sols-4398-4401-holidays-ahead-rocks-under-the-wheels/" >🔗</a> **[NASA]** Sols 4398-4401: Holidays Ahead, Rocks Under the Wheels
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/12/Happy_holidays_from_Hera" >🔗</a> **[ESA]** Happy holidays from Hera!
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/12/Earth_from_Space_Star_cities" >🔗</a> **[ESA]** Earth from Space: Star cities
 - <a href="https://spacepolicyonline.com/news/house-defeats-new-cr-as-shutdown-looms/" >🔗</a> **[SpacePolicyOnline.com]** House Defeats New CR as Shutdown Looms
 - <a href="https://spacenews.com/next-crew-dragon-mission-delayed-a-month/" >🔗</a> **[SpaceNews]** Next Crew Dragon mission delayed a month
 - <a href="https://www.nasa.gov/general/nasa-cameras-to-capture-interaction-between-blue-ghost-moons-surface/" >🔗</a> **[NASA]** NASA Cameras to Capture Interaction Between Blue Ghost, Moon’s Surface
 - <a href="https://science.nasa.gov/blog/perseverance-blasts-past-the-top-of-jezero-crater-rim/" >🔗</a> **[NASA]** Perseverance Blasts Past the Top of Jezero Crater Rim
-- <a href="https://arstechnica.com/space/2024/12/were-about-to-fly-a-spacecraft-into-the-sun-for-the-first-time/" >🔗</a> **[Arstechnica]** We’re about to fly a spacecraft into the Sun for the first time
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241220T113100">2024-12-20 11:31:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241220T120155">2024-12-20 12:01:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
