@@ -91,16 +91,16 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/nasa-ames-astrogram-december-2024/" >🔗</a> **[NASA]** NASA Ames Astrogram – December 2024
 - <a href="https://spacenews.com/retired-military-weather-satellite-breaks-up/" >🔗</a> **[SpaceNews]** Retired military weather satellite breaks up
 - <a href="https://www.nasa.gov/news-release/exhibit-puts-visitors-in-test-conductor-seat/" >🔗</a> **[NASA]** NASA Exhibit Puts Visitors in Test Conductor Seat
+- <a href="https://www.nasaspaceflight.com/2024/12/bandwagon-2/" >🔗</a> **[NASASpaceflight]** SpaceX to launch Bandwagon-2 rideshare from Vandenberg
 - <a href="https://www.nasa.gov/news-release/nasa-selects-four-commercial-companies-to-support-near-space-network/" >🔗</a> **[NASA]** NASA Selects Four Commercial Companies to Support Near Space Network
 - <a href="https://www.nasa.gov/news-release/nasa-welcomes-liechtenstein-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Liechtenstein as Newest Artemis Accords Signatory
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/nasas-ames-research-center-celebrates-85-years-of-innovation/" >🔗</a> **[NASA]** NASA’s Ames Research Center Celebrates 85 Years of Innovation
 - <a href="https://spaceflightnow.com/2024/12/20/live-coverage-spacex-to-launch-4-astranis-microgeo-satellites-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 4 Astranis MicroGEO satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://www.nasa.gov/image-article/nasas-terra-satellite-captures-2015-eclipse-shadow/" >🔗</a> **[NASA]** NASA’s Terra Satellite Captures 2015 Eclipse Shadow
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-dec-20-2024/" >🔗</a> **[NASA]** Station Science Top News: Dec. 20, 2024
-- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/2024-nasa-armstrong-prepares-for-future-innovative-research-efforts/" >🔗</a> **[NASA]** 2024: NASA Armstrong Prepares for Future Innovative Research Efforts
-- <a href="https://www.nasa.gov/solar-system/asteroids/nasas-webb-reveals-smallest-asteroids-yet-found-in-main-asteroid-belt/" >🔗</a> **[NASA]** NASA’s Webb Reveals Smallest Asteroids Yet Found in Main Asteroid Belt
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241220T233102">2024-12-20 23:31:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241221T000412">2024-12-21 00:04:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
