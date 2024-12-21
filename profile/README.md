@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/shutdown-avoided/" >🔗</a> **[SpacePolicyOnline.com]** Shutdown Avoided
 - <a href="https://europeanspaceflight.com/the-exploration-company-completes-testing-of-third-huracan-engine-prototype/" >🔗</a> **[European Spaceflight]** The Exploration Company Completes Testing of Third Huracan Engine Prototype
 - <a href="https://spaceflightnow.com/2024/12/21/live-coverage-spacex-to-launch-bandwagon-2-rideshare-mission-on-falcon-9-rocket-from-california/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Bandwagon-2 rideshare mission on Falcon 9 rocket from California
 - <a href="https://www.nasa.gov/general/nasa-ames-astrogram-december-2024/" >🔗</a> **[NASA]** NASA Ames Astrogram – December 2024
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-selects-four-commercial-companies-to-support-near-space-network/" >🔗</a> **[NASA]** NASA Selects Four Commercial Companies to Support Near Space Network
 - <a href="https://www.nasa.gov/technology/space-comms/deep-space-network/nasas-new-deep-space-network-antenna-has-its-crowning-moment/" >🔗</a> **[NASA]** NASA’s New Deep Space Network Antenna Has Its Crowning Moment
 - <a href="https://www.nasa.gov/news-release/nasa-welcomes-liechtenstein-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Liechtenstein as Newest Artemis Accords Signatory
-- <a href="https://www.nasa.gov/centers-and-facilities/ames/nasas-ames-research-center-celebrates-85-years-of-innovation/" >🔗</a> **[NASA]** NASA’s Ames Research Center Celebrates 85 Years of Innovation
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241221T070116">2024-12-21 07:01:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241221T073100">2024-12-21 07:31:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
