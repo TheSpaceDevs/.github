@@ -89,6 +89,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/rocket-lab-launches-sixth-synspective-radar-imaging-satellite/" >🔗</a> **[SpaceNews]** Rocket Lab launches sixth Synspective radar imaging satellite
 - <a href="https://spacepolicyonline.com/news/shutdown-avoided/" >🔗</a> **[SpacePolicyOnline.com]** Shutdown Avoided
 - <a href="https://europeanspaceflight.com/the-exploration-company-completes-testing-of-third-huracan-engine-prototype/" >🔗</a> **[European Spaceflight]** The Exploration Company Completes Testing of Third Huracan Engine Prototype
 - <a href="https://spaceflightnow.com/2024/12/21/live-coverage-spacex-to-launch-bandwagon-2-rideshare-mission-on-falcon-9-rocket-from-california/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Bandwagon-2 rideshare mission on Falcon 9 rocket from California
@@ -98,7 +99,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.nasaspaceflight.com/2024/12/bandwagon-2/" >🔗</a> **[NASASpaceflight]** SpaceX to launch Bandwagon-2 rideshare from Vandenberg
 - <a href="https://www.nasa.gov/news-release/nasa-selects-four-commercial-companies-to-support-near-space-network/" >🔗</a> **[NASA]** NASA Selects Four Commercial Companies to Support Near Space Network
 - <a href="https://www.nasa.gov/technology/space-comms/deep-space-network/nasas-new-deep-space-network-antenna-has-its-crowning-moment/" >🔗</a> **[NASA]** NASA’s New Deep Space Network Antenna Has Its Crowning Moment
-- <a href="https://www.nasa.gov/news-release/nasa-welcomes-liechtenstein-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Liechtenstein as Newest Artemis Accords Signatory
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241221T163415">2024-12-21 16:34:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241221T173137">2024-12-21 17:31:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
