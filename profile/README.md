@@ -89,6 +89,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/gold-with-52-members-artemis-accords-now-represent-global-consensus/" >🔗</a> **[SpacePolicyOnline.com]** Gold: With 52 Members, Artemis Accords Now Represent Global Consensus
 - <a href="https://spacenews.com/rocket-lab-launches-sixth-synspective-radar-imaging-satellite/" >🔗</a> **[SpaceNews]** Rocket Lab launches sixth Synspective radar imaging satellite
 - <a href="https://spacepolicyonline.com/news/shutdown-avoided/" >🔗</a> **[SpacePolicyOnline.com]** Shutdown Avoided
 - <a href="https://europeanspaceflight.com/the-exploration-company-completes-testing-of-third-huracan-engine-prototype/" >🔗</a> **[European Spaceflight]** The Exploration Company Completes Testing of Third Huracan Engine Prototype
@@ -98,7 +99,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.nasa.gov/news-release/exhibit-puts-visitors-in-test-conductor-seat/" >🔗</a> **[NASA]** NASA Exhibit Puts Visitors in Test Conductor Seat
 - <a href="https://www.nasaspaceflight.com/2024/12/bandwagon-2/" >🔗</a> **[NASASpaceflight]** SpaceX to launch Bandwagon-2 rideshare from Vandenberg
 - <a href="https://www.nasa.gov/news-release/nasa-selects-four-commercial-companies-to-support-near-space-network/" >🔗</a> **[NASA]** NASA Selects Four Commercial Companies to Support Near Space Network
-- <a href="https://www.nasa.gov/technology/space-comms/deep-space-network/nasas-new-deep-space-network-antenna-has-its-crowning-moment/" >🔗</a> **[NASA]** NASA’s New Deep Space Network Antenna Has Its Crowning Moment
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241221T190114">2024-12-21 19:01:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241221T193107">2024-12-21 19:31:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
