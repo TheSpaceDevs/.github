@@ -89,6 +89,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/parker-solar-probe-to-make-closest-approach-yet-to-the-sun/" >🔗</a> **[SpaceNews]** Parker Solar Probe to make closest approach yet to the sun
 - <a href="https://spacenews.com/the-space-rapid-capabilities-office-unlocking-the-power-of-collaboration-for-national-defense/" >🔗</a> **[SpaceNews]** The Space Rapid Capabilities Office: unlocking the power of collaboration for national defense
 - <a href="https://europeanspaceflight.com/constellr-ceo-dr-max-gulde-details-dlr-partnership/" >🔗</a> **[European Spaceflight]** Constellr CEO Dr. Max Gulde Details DLR Partnership
 - <a href="https://spacenews.com/spacex-launches-second-mid-inclination-rideshare-mission/" >🔗</a> **[SpaceNews]** SpaceX launches second mid-inclination rideshare mission
@@ -98,7 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/the-exploration-company-completes-testing-of-third-huracan-engine-prototype/" >🔗</a> **[European Spaceflight]** The Exploration Company Completes Testing of Third Huracan Engine Prototype
 - <a href="https://spaceflightnow.com/2024/12/21/live-coverage-spacex-to-launch-bandwagon-2-rideshare-mission-on-falcon-9-rocket-from-california/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Bandwagon-2 rideshare mission on Falcon 9 rocket from California
 - <a href="https://www.nasa.gov/general/nasa-ames-astrogram-december-2024/" >🔗</a> **[NASA]** NASA Ames Astrogram – December 2024
-- <a href="https://spacenews.com/retired-military-weather-satellite-breaks-up/" >🔗</a> **[SpaceNews]** Retired military weather satellite breaks up
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241222T153107">2024-12-22 15:31:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241222T160119">2024-12-22 16:01:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
