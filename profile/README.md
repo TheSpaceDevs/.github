@@ -89,6 +89,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-december-22-2024-january-4-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy December 22, 2024-January 4, 2025
 - <a href="https://spacenews.com/nasa-delays-launch-of-heliophysics-missions/" >🔗</a> **[SpaceNews]** NASA delays launch of heliophysics missions
 - <a href="https://spaceflightnow.com/2024/12/22/live-coverage-spacex-falcon-9-rocket-to-launch-21-starlink-satellites-from-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live Coverage: SpaceX Falcon 9 rocket to launch 21 Starlink satellites from Kennedy Space Center
 - <a href="https://spacenews.com/liechtenstein-signs-the-artemis-accords/" >🔗</a> **[SpaceNews]** Liechtenstein signs the Artemis Accords
@@ -98,7 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/spacex-launches-second-mid-inclination-rideshare-mission/" >🔗</a> **[SpaceNews]** SpaceX launches second mid-inclination rideshare mission
 - <a href="https://spacepolicyonline.com/news/gold-with-52-members-artemis-accords-now-represent-global-consensus/" >🔗</a> **[SpacePolicyOnline.com]** Gold: With 52 Members, Artemis Accords Now Represent Global Consensus
 - <a href="https://spacenews.com/rocket-lab-launches-sixth-synspective-radar-imaging-satellite/" >🔗</a> **[SpaceNews]** Rocket Lab launches sixth Synspective radar imaging satellite
-- <a href="https://spacepolicyonline.com/news/shutdown-avoided/" >🔗</a> **[SpacePolicyOnline.com]** Shutdown Avoided
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241222T213102">2024-12-22 21:31:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241222T220126">2024-12-22 22:01:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
