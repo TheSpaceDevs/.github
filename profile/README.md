@@ -89,6 +89,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/constellr-ceo-dr-max-gulde-details-dlr-partnership/" >🔗</a> **[European Spaceflight]** Constellr CEO Dr. Max Gulde Details DLR Partnership
 - <a href="https://spacenews.com/spacex-launches-second-mid-inclination-rideshare-mission/" >🔗</a> **[SpaceNews]** SpaceX launches second mid-inclination rideshare mission
 - <a href="https://spacepolicyonline.com/news/gold-with-52-members-artemis-accords-now-represent-global-consensus/" >🔗</a> **[SpacePolicyOnline.com]** Gold: With 52 Members, Artemis Accords Now Represent Global Consensus
 - <a href="https://spacenews.com/rocket-lab-launches-sixth-synspective-radar-imaging-satellite/" >🔗</a> **[SpaceNews]** Rocket Lab launches sixth Synspective radar imaging satellite
@@ -98,7 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/general/nasa-ames-astrogram-december-2024/" >🔗</a> **[NASA]** NASA Ames Astrogram – December 2024
 - <a href="https://spacenews.com/retired-military-weather-satellite-breaks-up/" >🔗</a> **[SpaceNews]** Retired military weather satellite breaks up
 - <a href="https://www.nasa.gov/news-release/exhibit-puts-visitors-in-test-conductor-seat/" >🔗</a> **[NASA]** NASA Exhibit Puts Visitors in Test Conductor Seat
-- <a href="https://www.nasaspaceflight.com/2024/12/bandwagon-2/" >🔗</a> **[NASASpaceflight]** SpaceX to launch Bandwagon-2 rideshare from Vandenberg
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241222T060137">2024-12-22 06:01:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241222T063515">2024-12-22 06:35:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
