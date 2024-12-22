@@ -89,6 +89,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-delays-launch-of-heliophysics-missions/" >🔗</a> **[SpaceNews]** NASA delays launch of heliophysics missions
+- <a href="https://spaceflightnow.com/2024/12/22/live-coverage-spacex-falcon-9-rocket-to-launch-21-starlink-satellites-from-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live Coverage: SpaceX Falcon 9 rocket to launch 21 Starlink satellites from Kennedy Space Center
 - <a href="https://spacenews.com/liechtenstein-signs-the-artemis-accords/" >🔗</a> **[SpaceNews]** Liechtenstein signs the Artemis Accords
 - <a href="https://spacenews.com/parker-solar-probe-to-make-closest-approach-yet-to-the-sun/" >🔗</a> **[SpaceNews]** Parker Solar Probe to make closest approach yet to the sun
 - <a href="https://spacenews.com/the-space-rapid-capabilities-office-unlocking-the-power-of-collaboration-for-national-defense/" >🔗</a> **[SpaceNews]** The Space Rapid Capabilities Office: unlocking the power of collaboration for national defense
@@ -97,8 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/gold-with-52-members-artemis-accords-now-represent-global-consensus/" >🔗</a> **[SpacePolicyOnline.com]** Gold: With 52 Members, Artemis Accords Now Represent Global Consensus
 - <a href="https://spacenews.com/rocket-lab-launches-sixth-synspective-radar-imaging-satellite/" >🔗</a> **[SpaceNews]** Rocket Lab launches sixth Synspective radar imaging satellite
 - <a href="https://spacepolicyonline.com/news/shutdown-avoided/" >🔗</a> **[SpacePolicyOnline.com]** Shutdown Avoided
-- <a href="https://europeanspaceflight.com/the-exploration-company-completes-testing-of-third-huracan-engine-prototype/" >🔗</a> **[European Spaceflight]** The Exploration Company Completes Testing of Third Huracan Engine Prototype
-- <a href="https://spaceflightnow.com/2024/12/21/live-coverage-spacex-to-launch-bandwagon-2-rideshare-mission-on-falcon-9-rocket-from-california/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Bandwagon-2 rideshare mission on Falcon 9 rocket from California
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241222T193105">2024-12-22 19:31:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241222T200114">2024-12-22 20:01:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
