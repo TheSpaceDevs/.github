@@ -90,8 +90,9 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.nasa.gov/general/how-a-nasa-senior-database-administrator-manifested-her-dream-job/" >🔗</a> **[NASA]** How a NASA Senior Database Administrator Manifested her Dream Job
+- <a href="https://www.nasa.gov/general/ken-freeman-receives-air-traffic-control-association-atca-award-for-atm-x-digital-information-platform-dip/" >🔗</a> **[NASA]** Ken Freeman Receives Air Traffic Control Association (ATCA) Award for ATM-X Digital Information Platform (DIP)
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/how-a-nasa-senior-database-administrator-manifested-her-dream-job/" >🔗</a> **[NASA]** How a NASA Senior Database Administrator Manifested her Dream Job
+- <a href="https://www.nasa.gov/general/how-a-nasa-senior-database-administrator-manifested-her-dream-job/" >🔗</a> **[NASA]** How a NASA Senior Database Administrator Manifested her Dream Job
 - <a href="https://arstechnica.com/space/2024/12/how-might-nasa-change-under-trump-heres-what-is-being-discussed/" >🔗</a> **[Arstechnica]** How might NASA change under Trump? Here’s what is being discussed
 - <a href="https://europeanspaceflight.com/beyond-gravity-delivers-key-elements-of-esas-space-rider-vehicle/" >🔗</a> **[European Spaceflight]** Beyond Gravity Delivers Key Elements of ESA’s Space Rider Vehicle
 - <a href="https://www.esa.int/About_Us/ESA_Publications/ESA_Impact_2024_-_Q4" >🔗</a> **[ESA]** Don’t miss the final ESA Impact of the year!
@@ -99,7 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/World-first_direct_5G_connection_to_low_Earth_orbit_satellite_opens_new_era_for_mobile_coverage" >🔗</a> **[ESA]** World-first direct 5G connection to low Earth orbit satellite opens new era for mobile coverage
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-december-22-2024-january-4-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy December 22, 2024-January 4, 2025
 - <a href="https://spacenews.com/nasa-delays-launch-of-heliophysics-missions/" >🔗</a> **[SpaceNews]** NASA delays launch of heliophysics missions
-- <a href="https://spaceflightnow.com/2024/12/22/live-coverage-spacex-falcon-9-rocket-to-launch-21-starlink-satellites-from-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live Coverage: SpaceX Falcon 9 rocket to launch 21 Starlink satellites from Kennedy Space Center
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241223T193104">2024-12-23 19:31:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241223T200125">2024-12-23 20:01:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
