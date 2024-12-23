@@ -90,6 +90,8 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/celebrating-the-holiday-season-in-space-2/" >🔗</a> **[NASA]** Celebrating the Holiday Season in Space
+- <a href="https://www.nasaspaceflight.com/2024/12/launch-roundup-122324/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX, China, and Russia maintain busy launch manifests through the holidays
 - <a href="https://www.nasa.gov/image-article/commercial-moon-rovers-under-test/" >🔗</a> **[NASA]** Commercial Moon Rovers Under Test
 - <a href="https://www.nasa.gov/general/ken-freeman-receives-air-traffic-control-association-atca-award-for-atm-x-digital-information-platform-dip/" >🔗</a> **[NASA]** Ken Freeman Receives Air Traffic Control Association (ATCA) Award for ATM-X Digital Information Platform (DIP)
 - <a href="https://science.nasa.gov/get-involved/citizen-science/science-done-by-volunteers-highlighted-at-decembers-american-geophysical-union-meeting/" >🔗</a> **[NASA]** Science Done by Volunteers Highlighted at December’s American Geophysical Union Meeting
@@ -98,8 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://arstechnica.com/space/2024/12/how-might-nasa-change-under-trump-heres-what-is-being-discussed/" >🔗</a> **[Arstechnica]** How might NASA change under Trump? Here’s what is being discussed
 - <a href="https://europeanspaceflight.com/beyond-gravity-delivers-key-elements-of-esas-space-rider-vehicle/" >🔗</a> **[European Spaceflight]** Beyond Gravity Delivers Key Elements of ESA’s Space Rider Vehicle
 - <a href="https://www.esa.int/About_Us/ESA_Publications/ESA_Impact_2024_-_Q4" >🔗</a> **[ESA]** Don’t miss the final ESA Impact of the year!
-- <a href="https://spacenews.com/in-orbit-servicers-get-uk-funds-to-help-shape-new-regulations/" >🔗</a> **[SpaceNews]** In-orbit servicers get UK funds to help shape new regulations
-- <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/World-first_direct_5G_connection_to_low_Earth_orbit_satellite_opens_new_era_for_mobile_coverage" >🔗</a> **[ESA]** World-first direct 5G connection to low Earth orbit satellite opens new era for mobile coverage
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241223T230119">2024-12-23 23:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241223T233106">2024-12-23 23:31:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
