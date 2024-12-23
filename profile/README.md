@@ -90,6 +90,7 @@ into *a Sun-Synchronous Orbit
 ### Latest News ⌛
 - <a href="https://www.esa.int/About_Us/ESA_Publications/ESA_Impact_2024_-_Q4" >🔗</a> **[ESA]** Don’t miss the final ESA Impact of the year!
 - <a href="https://spacenews.com/in-orbit-servicers-get-uk-funds-to-help-shape-new-regulations/" >🔗</a> **[SpaceNews]** In-orbit servicers get UK funds to help shape new regulations
+- <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/World-first_direct_5G_connection_to_low_Earth_orbit_satellite_opens_new_era_for_mobile_coverage" >🔗</a> **[ESA]** World-first direct 5G connection to low Earth orbit satellite opens new era for mobile coverage
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-december-22-2024-january-4-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy December 22, 2024-January 4, 2025
 - <a href="https://spacenews.com/nasa-delays-launch-of-heliophysics-missions/" >🔗</a> **[SpaceNews]** NASA delays launch of heliophysics missions
 - <a href="https://spaceflightnow.com/2024/12/22/live-coverage-spacex-falcon-9-rocket-to-launch-21-starlink-satellites-from-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live Coverage: SpaceX Falcon 9 rocket to launch 21 Starlink satellites from Kennedy Space Center
@@ -97,7 +98,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/parker-solar-probe-to-make-closest-approach-yet-to-the-sun/" >🔗</a> **[SpaceNews]** Parker Solar Probe to make closest approach yet to the sun
 - <a href="https://spacenews.com/the-space-rapid-capabilities-office-unlocking-the-power-of-collaboration-for-national-defense/" >🔗</a> **[SpaceNews]** The Space Rapid Capabilities Office: unlocking the power of collaboration for national defense
 - <a href="https://europeanspaceflight.com/constellr-ceo-dr-max-gulde-details-dlr-partnership/" >🔗</a> **[European Spaceflight]** Constellr CEO Dr. Max Gulde Details DLR Partnership
-- <a href="https://spacenews.com/spacex-launches-second-mid-inclination-rideshare-mission/" >🔗</a> **[SpaceNews]** SpaceX launches second mid-inclination rideshare mission
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241223T090129">2024-12-23 09:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241223T093214">2024-12-23 09:32:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
