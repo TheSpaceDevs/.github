@@ -88,6 +88,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/ESA_Publications/ESA_Impact_2024_-_Q4" >🔗</a> **[ESA]** Don’t miss the final ESA Impact of the year!
 - <a href="https://spacenews.com/in-orbit-servicers-get-uk-funds-to-help-shape-new-regulations/" >🔗</a> **[SpaceNews]** In-orbit servicers get UK funds to help shape new regulations
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-december-22-2024-january-4-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy December 22, 2024-January 4, 2025
 - <a href="https://spacenews.com/nasa-delays-launch-of-heliophysics-missions/" >🔗</a> **[SpaceNews]** NASA delays launch of heliophysics missions
@@ -97,7 +98,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/the-space-rapid-capabilities-office-unlocking-the-power-of-collaboration-for-national-defense/" >🔗</a> **[SpaceNews]** The Space Rapid Capabilities Office: unlocking the power of collaboration for national defense
 - <a href="https://europeanspaceflight.com/constellr-ceo-dr-max-gulde-details-dlr-partnership/" >🔗</a> **[European Spaceflight]** Constellr CEO Dr. Max Gulde Details DLR Partnership
 - <a href="https://spacenews.com/spacex-launches-second-mid-inclination-rideshare-mission/" >🔗</a> **[SpaceNews]** SpaceX launches second mid-inclination rideshare mission
-- <a href="https://spacepolicyonline.com/news/gold-with-52-members-artemis-accords-now-represent-global-consensus/" >🔗</a> **[SpacePolicyOnline.com]** Gold: With 52 Members, Artemis Accords Now Represent Global Consensus
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241223T080146">2024-12-23 08:01:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241223T083512">2024-12-23 08:35:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
