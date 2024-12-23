@@ -20,27 +20,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 12-2**. It is scheduled to be launched by *SpaceX*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39A">Launch Complex 39A</a>, Kennedy Space Center, FL, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241223T053530">2024-12-23 05:35:30 UTC</a>.  Until
-then, this pad will have been used for 192
-out of 250 launches from this location. The launch status is currently
+**Soyuz 2.1b | Resurs-P No.5**. It is scheduled to be launched by *Russian Federal Space Agency (ROSCOSMOS)*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Baikonur_Cosmodrome_Site_31">31/6</a>, Baikonur Cosmodrome, Republic of Kazakhstan*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/kz.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241225T074542">2024-12-25 07:45:42 UTC</a>.  Until
+then, this pad will have been used for 419
+out of 1552 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Communications* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+*Earth Science* and the payload will be injected
+into *a Sun-Synchronous Orbit
+(SSO)*.
 <br>
 <blockquote>
-  A batch of 21 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  Resurs-P is a series of Russian commercial Earth observation satellites capable of acquiring high-resolution imagery (resolution up to 1.0 m).
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+  <a href="http://en.wikipedia.org/wiki/Soyuz-2_(rocket)" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.60822681,-80.60428186" >
+  <a href="https://www.google.com/maps?q=45.996034,63.564003" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -102,12 +102,11 @@ into *a Low Earth Orbit
 
 ### Launch-related News 🚀
 
-- <a href="https://www.nasaspaceflight.com/2024/12/launch-roundup-121624/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX plans for five customer missions; Rocket Lab to launch mission for Synspective
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241223T060136">2024-12-23 06:01:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241223T063655">2024-12-23 06:36:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
