@@ -89,6 +89,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/senate-nasa-bill-focuses-on-commercial-space-stations-science-mission-overruns/" >🔗</a> **[SpaceNews]** Senate NASA bill focuses on commercial space stations, science mission overruns
 - <a href="https://www.nasa.gov/image-article/hang-a-shining-star-upon-the-highest-bough/" >🔗</a> **[NASA]** Hang a Shining Star Upon the Highest Bough
 - <a href="https://www.nasa.gov/general/collaboration-is-key-to-a-strong-materials-discipline/" >🔗</a> **[NASA]** Collaboration Is Key to A Strong Materials Discipline
 - <a href="https://www.nasa.gov/centers-and-facilities/nesc/characterizing-the-visual-experience-of-astronauts-at-the-lunar-south-pole/" >🔗</a> **[NASA]** Characterizing the Visual Experience of Astronauts at the Lunar South Pole
@@ -98,7 +99,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasa.gov/general/celebrating-the-holiday-season-in-space-2/" >🔗</a> **[NASA]** Celebrating the Holiday Season in Space
 - <a href="https://www.nasaspaceflight.com/2024/12/launch-roundup-122324/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX, China, and Russia maintain busy launch manifests through the holidays
 - <a href="https://www.nasa.gov/image-article/commercial-moon-rovers-under-test/" >🔗</a> **[NASA]** Commercial Moon Rovers Under Test
-- <a href="https://www.nasa.gov/general/ken-freeman-receives-air-traffic-control-association-atca-award-for-atm-x-digital-information-platform-dip/" >🔗</a> **[NASA]** Ken Freeman Receives Air Traffic Control Association (ATCA) Award for ATM-X Digital Information Platform (DIP)
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241224T203127">2024-12-24 20:31:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241224T210125">2024-12-24 21:01:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
