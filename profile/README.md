@@ -89,6 +89,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/nesc/characterizing-the-visual-experience-of-astronauts-at-the-lunar-south-pole/" >🔗</a> **[NASA]** Characterizing the Visual Experience of Astronauts at the Lunar South Pole
 - <a href="https://spacenews.com/east-space-company-develops-and-brings-to-market-three-new-products/" >🔗</a> **[SpaceNews]** EAST SPACE Company Develops and Brings to Market Three New Products
 - <a href="https://europeanspaceflight.com/hyprspace-completes-hot-fire-test-of-terminator-stage-demonstrator/" >🔗</a> **[European Spaceflight]** HyPrSpace Completes Hot Fire Test of Terminator Stage Demonstrator
 - <a href="https://spacepolicyonline.com/news/biden-signs-the-fy2025-ndaa/" >🔗</a> **[SpacePolicyOnline.com]** Biden Signs the FY2025 NDAA
@@ -98,7 +99,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasa.gov/general/ken-freeman-receives-air-traffic-control-association-atca-award-for-atm-x-digital-information-platform-dip/" >🔗</a> **[NASA]** Ken Freeman Receives Air Traffic Control Association (ATCA) Award for ATM-X Digital Information Platform (DIP)
 - <a href="https://science.nasa.gov/get-involved/citizen-science/science-done-by-volunteers-highlighted-at-decembers-american-geophysical-union-meeting/" >🔗</a> **[NASA]** Science Done by Volunteers Highlighted at December’s American Geophysical Union Meeting
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/how-a-nasa-senior-database-administrator-manifested-her-dream-job/" >🔗</a> **[NASA]** How a NASA Senior Database Administrator Manifested her Dream Job
-- <a href="https://arstechnica.com/space/2024/12/how-might-nasa-change-under-trump-heres-what-is-being-discussed/" >🔗</a> **[Arstechnica]** How might NASA change under Trump? Here’s what is being discussed
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241224T173119">2024-12-24 17:31:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241224T180136">2024-12-24 18:01:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
