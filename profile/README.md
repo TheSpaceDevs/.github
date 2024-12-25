@@ -89,6 +89,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2024/12/europe-update-122424/" >🔗</a> **[NASASpaceflight]** Europe’s future in space: Vega cadence to increase, HyImpulse’s hybrid rocket
 - <a href="https://spacenews.com/senate-nasa-bill-focuses-on-commercial-space-stations-science-mission-overruns/" >🔗</a> **[SpaceNews]** Senate NASA bill focuses on commercial space stations, science mission overruns
 - <a href="https://www.nasa.gov/image-article/hang-a-shining-star-upon-the-highest-bough/" >🔗</a> **[NASA]** Hang a Shining Star Upon the Highest Bough
 - <a href="https://www.nasa.gov/general/collaboration-is-key-to-a-strong-materials-discipline/" >🔗</a> **[NASA]** Collaboration Is Key to A Strong Materials Discipline
@@ -98,7 +99,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacepolicyonline.com/news/biden-signs-the-fy2025-ndaa/" >🔗</a> **[SpacePolicyOnline.com]** Biden Signs the FY2025 NDAA
 - <a href="https://www.nasa.gov/general/celebrating-the-holiday-season-in-space-2/" >🔗</a> **[NASA]** Celebrating the Holiday Season in Space
 - <a href="https://www.nasaspaceflight.com/2024/12/launch-roundup-122324/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX, China, and Russia maintain busy launch manifests through the holidays
-- <a href="https://www.nasa.gov/image-article/commercial-moon-rovers-under-test/" >🔗</a> **[NASA]** Commercial Moon Rovers Under Test
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241225T000420">2024-12-25 00:04:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241225T004538">2024-12-25 00:45:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
