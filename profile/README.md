@@ -88,6 +88,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/has-cnes-opened-the-door-for-a-european-space-station/" >🔗</a> **[European Spaceflight]** Has CNES Opened the Door for a European Space Station?
 - <a href="https://europeanspaceflight.com/esa-enlists-portuguese-navy-submarine-to-prepare-for-deep-space/" >🔗</a> **[European Spaceflight]** ESA Enlists Portuguese Navy Submarine to Prepare for Deep Space
 - <a href="https://www.nasaspaceflight.com/2024/12/europe-update-122424/" >🔗</a> **[NASASpaceflight]** Europe’s future in space: Vega cadence to increase, HyImpulse’s hybrid rocket
 - <a href="https://spacenews.com/senate-nasa-bill-focuses-on-commercial-space-stations-science-mission-overruns/" >🔗</a> **[SpaceNews]** Senate NASA bill focuses on commercial space stations, science mission overruns
@@ -97,7 +98,6 @@ into *an Unknown
 - <a href="https://spacenews.com/east-space-company-develops-and-brings-to-market-three-new-products/" >🔗</a> **[SpaceNews]** EAST SPACE Company Develops and Brings to Market Three New Products
 - <a href="https://europeanspaceflight.com/hyprspace-completes-hot-fire-test-of-terminator-stage-demonstrator/" >🔗</a> **[European Spaceflight]** HyPrSpace Completes Hot Fire Test of Terminator Stage Demonstrator
 - <a href="https://spacepolicyonline.com/news/biden-signs-the-fy2025-ndaa/" >🔗</a> **[SpacePolicyOnline.com]** Biden Signs the FY2025 NDAA
-- <a href="https://www.nasa.gov/general/celebrating-the-holiday-season-in-space-2/" >🔗</a> **[NASA]** Celebrating the Holiday Season in Space
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241226T060141">2024-12-26 06:01:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241226T063624">2024-12-26 06:36:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
