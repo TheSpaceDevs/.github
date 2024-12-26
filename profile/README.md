@@ -88,6 +88,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-selects-four-companies-for-commercial-communications-services/" >🔗</a> **[SpaceNews]** NASA selects four companies for commercial communications services
 - <a href="https://europeanspaceflight.com/has-cnes-opened-the-door-for-a-european-space-station/" >🔗</a> **[European Spaceflight]** Has CNES Opened the Door for a European Space Station?
 - <a href="https://europeanspaceflight.com/esa-enlists-portuguese-navy-submarine-to-prepare-for-deep-space/" >🔗</a> **[European Spaceflight]** ESA Enlists Portuguese Navy Submarine to Prepare for Deep Space
 - <a href="https://www.nasaspaceflight.com/2024/12/europe-update-122424/" >🔗</a> **[NASASpaceflight]** Europe’s future in space: Vega cadence to increase, HyImpulse’s hybrid rocket
@@ -97,7 +98,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/centers-and-facilities/nesc/characterizing-the-visual-experience-of-astronauts-at-the-lunar-south-pole/" >🔗</a> **[NASA]** Characterizing the Visual Experience of Astronauts at the Lunar South Pole
 - <a href="https://spacenews.com/east-space-company-develops-and-brings-to-market-three-new-products/" >🔗</a> **[SpaceNews]** EAST SPACE Company Develops and Brings to Market Three New Products
 - <a href="https://europeanspaceflight.com/hyprspace-completes-hot-fire-test-of-terminator-stage-demonstrator/" >🔗</a> **[European Spaceflight]** HyPrSpace Completes Hot Fire Test of Terminator Stage Demonstrator
-- <a href="https://spacepolicyonline.com/news/biden-signs-the-fy2025-ndaa/" >🔗</a> **[SpacePolicyOnline.com]** Biden Signs the FY2025 NDAA
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241226T070124">2024-12-26 07:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241226T073110">2024-12-26 07:31:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
