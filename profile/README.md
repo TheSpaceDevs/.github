@@ -88,6 +88,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/nesc/nesc-assists-in-heatshield-investigation/" >🔗</a> **[NASA]** NESC Assists in Heatshield Investigation
 - <a href="https://www.nasa.gov/image-article/laboratory-director-tawnya-plummer-laughinghouse/" >🔗</a> **[NASA]** Laboratory Director Tawnya Plummer Laughinghouse
 - <a href="https://spacenews.com/nasa-selects-four-companies-for-commercial-communications-services/" >🔗</a> **[SpaceNews]** NASA selects four companies for commercial communications services
 - <a href="https://europeanspaceflight.com/has-cnes-opened-the-door-for-a-european-space-station/" >🔗</a> **[European Spaceflight]** Has CNES Opened the Door for a European Space Station?
@@ -97,7 +98,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/image-article/hang-a-shining-star-upon-the-highest-bough/" >🔗</a> **[NASA]** Hang a Shining Star Upon the Highest Bough
 - <a href="https://www.nasa.gov/general/collaboration-is-key-to-a-strong-materials-discipline/" >🔗</a> **[NASA]** Collaboration Is Key to A Strong Materials Discipline
 - <a href="https://www.nasa.gov/centers-and-facilities/nesc/characterizing-the-visual-experience-of-astronauts-at-the-lunar-south-pole/" >🔗</a> **[NASA]** Characterizing the Visual Experience of Astronauts at the Lunar South Pole
-- <a href="https://spacenews.com/east-space-company-develops-and-brings-to-market-three-new-products/" >🔗</a> **[SpaceNews]** EAST SPACE Company Develops and Brings to Market Three New Products
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241226T150122">2024-12-26 15:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241226T153151">2024-12-26 15:31:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
