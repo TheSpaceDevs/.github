@@ -88,6 +88,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/true-anomaly-achieves-milestone-with-jackal-satellite-deployment/" >🔗</a> **[SpaceNews]** True Anomaly achieves milestone with Jackal satellite deployment
 - <a href="https://www.nasa.gov/centers-and-facilities/nesc/mechanical-systems-tdt-support-reaches-across-nasa-programs/" >🔗</a> **[NASA]** Mechanical Systems TDT Support Reaches Across NASA Programs
 - <a href="https://www.nasa.gov/centers-and-facilities/nesc/nesc-assists-in-heatshield-investigation/" >🔗</a> **[NASA]** NESC Assists in Heatshield Investigation
 - <a href="https://www.nasa.gov/image-article/laboratory-director-tawnya-plummer-laughinghouse/" >🔗</a> **[NASA]** Laboratory Director Tawnya Plummer Laughinghouse
@@ -97,7 +98,6 @@ into *an Unknown
 - <a href="https://www.nasaspaceflight.com/2024/12/europe-update-122424/" >🔗</a> **[NASASpaceflight]** Europe’s future in space: Vega cadence to increase, HyImpulse’s hybrid rocket
 - <a href="https://spacenews.com/senate-nasa-bill-focuses-on-commercial-space-stations-science-mission-overruns/" >🔗</a> **[SpaceNews]** Senate NASA bill focuses on commercial space stations, science mission overruns
 - <a href="https://www.nasa.gov/image-article/hang-a-shining-star-upon-the-highest-bough/" >🔗</a> **[NASA]** Hang a Shining Star Upon the Highest Bough
-- <a href="https://www.nasa.gov/general/collaboration-is-key-to-a-strong-materials-discipline/" >🔗</a> **[NASA]** Collaboration Is Key to A Strong Materials Discipline
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241226T170126">2024-12-26 17:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241226T173134">2024-12-26 17:31:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
