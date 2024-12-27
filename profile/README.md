@@ -88,6 +88,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2024/12/27/nelson-decision-on-mars-sample-return-expected-before-new-administration-takes-office/" >🔗</a> **[Spaceflight Now]** Nelson: Decision on Mars Sample Return expected before new administration takes office
 - <a href="https://spacenews.com/spacecoin-deploys-first-satellite-for-decentralized-space-connectivity/" >🔗</a> **[SpaceNews]** Spacecoin deploys first satellite for decentralized space connectivity
 - <a href="https://spacenews.com/china-suffers-commercial-rocket-failure-but-sets-record-for-annual-launches/" >🔗</a> **[SpaceNews]** China suffers commercial rocket failure but sets record for annual launches
 - <a href="https://spacenews.com/iceye-raises-additional-65-million/" >🔗</a> **[SpaceNews]** Iceye raises additional $65 million
@@ -97,7 +98,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/nesc/mechanical-systems-tdt-support-reaches-across-nasa-programs/" >🔗</a> **[NASA]** Mechanical Systems TDT Support Reaches Across NASA Programs
 - <a href="https://www.nasa.gov/centers-and-facilities/nesc/nesc-assists-in-heatshield-investigation/" >🔗</a> **[NASA]** NESC Assists in Heatshield Investigation
 - <a href="https://www.nasa.gov/image-article/laboratory-director-tawnya-plummer-laughinghouse/" >🔗</a> **[NASA]** Laboratory Director Tawnya Plummer Laughinghouse
-- <a href="https://spacenews.com/nasa-selects-four-companies-for-commercial-communications-services/" >🔗</a> **[SpaceNews]** NASA selects four companies for commercial communications services
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241227T150122">2024-12-27 15:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241227T153131">2024-12-27 15:31:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
