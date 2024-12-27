@@ -88,6 +88,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/noisy-booster-landings-can-impede-spaceflight-progress-congress-was-right-to-step-in/" >🔗</a> **[SpaceNews]** Noisy booster landings can impede spaceflight progress. Congress was right to step in
 - <a href="https://www.nasa.gov/image-article/hubble-spies-a-cosmic-eye/" >🔗</a> **[NASA]** Hubble Spies a Cosmic Eye
 - <a href="https://spaceflightnow.com/2024/12/27/nelson-decision-on-mars-sample-return-expected-before-new-administration-takes-office/" >🔗</a> **[Spaceflight Now]** Nelson: Decision on Mars Sample Return expected before new administration takes office
 - <a href="https://www.nasaspaceflight.com/2024/12/iss-yearly-roundup/" >🔗</a> **[NASASpaceflight]** International Space Station finishes challenging year as plans are made for its retirement
@@ -97,7 +98,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/arianegroup-awards-e60m-logistics-contract-to-daher/" >🔗</a> **[European Spaceflight]** ArianeGroup Awards €60M Logistics Contract to Daher
 - <a href="https://spacenews.com/chinas-landspace-secures-state-backed-funding-for-reusable-rockets/" >🔗</a> **[SpaceNews]** China’s Landspace secures state-backed funding for reusable rockets
 - <a href="https://spacenews.com/true-anomaly-achieves-milestone-with-jackal-satellite-deployment/" >🔗</a> **[SpaceNews]** True Anomaly achieves milestone with Jackal satellite deployment
-- <a href="https://www.nasa.gov/centers-and-facilities/nesc/mechanical-systems-tdt-support-reaches-across-nasa-programs/" >🔗</a> **[NASA]** Mechanical Systems TDT Support Reaches Across NASA Programs
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241227T170128">2024-12-27 17:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241227T173125">2024-12-27 17:31:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
