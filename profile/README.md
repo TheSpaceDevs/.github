@@ -87,6 +87,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/iceye-raises-additional-65-million/" >🔗</a> **[SpaceNews]** Iceye raises additional $65 million
 - <a href="https://europeanspaceflight.com/arianegroup-awards-e60m-logistics-contract-to-daher/" >🔗</a> **[European Spaceflight]** ArianeGroup Awards €60M Logistics Contract to Daher
 - <a href="https://spacenews.com/chinas-landspace-secures-state-backed-funding-for-reusable-rockets/" >🔗</a> **[SpaceNews]** China’s Landspace secures state-backed funding for reusable rockets
 - <a href="https://spacenews.com/true-anomaly-achieves-milestone-with-jackal-satellite-deployment/" >🔗</a> **[SpaceNews]** True Anomaly achieves milestone with Jackal satellite deployment
@@ -96,7 +97,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/nasa-selects-four-companies-for-commercial-communications-services/" >🔗</a> **[SpaceNews]** NASA selects four companies for commercial communications services
 - <a href="https://europeanspaceflight.com/has-cnes-opened-the-door-for-a-european-space-station/" >🔗</a> **[European Spaceflight]** Has CNES Opened the Door for a European Space Station?
 - <a href="https://europeanspaceflight.com/esa-enlists-portuguese-navy-submarine-to-prepare-for-deep-space/" >🔗</a> **[European Spaceflight]** ESA Enlists Portuguese Navy Submarine to Prepare for Deep Space
-- <a href="https://www.nasaspaceflight.com/2024/12/europe-update-122424/" >🔗</a> **[NASASpaceflight]** Europe’s future in space: Vega cadence to increase, HyImpulse’s hybrid rocket
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241227T070127">2024-12-27 07:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241227T073111">2024-12-27 07:31:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
