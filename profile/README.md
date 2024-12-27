@@ -88,6 +88,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/science-research/heliophysics/nasas-parker-solar-probe-makes-history-with-closest-pass-to-sun/" >🔗</a> **[NASA]** NASA’s Parker Solar Probe Makes History With Closest Pass to Sun
 - <a href="https://spacenews.com/noisy-booster-landings-can-impede-spaceflight-progress-congress-was-right-to-step-in/" >🔗</a> **[SpaceNews]** Noisy booster landings can impede spaceflight progress. Congress was right to step in
 - <a href="https://www.nasa.gov/image-article/hubble-spies-a-cosmic-eye/" >🔗</a> **[NASA]** Hubble Spies a Cosmic Eye
 - <a href="https://spaceflightnow.com/2024/12/27/nelson-decision-on-mars-sample-return-expected-before-new-administration-takes-office/" >🔗</a> **[Spaceflight Now]** Nelson: Decision on Mars Sample Return expected before new administration takes office
@@ -97,7 +98,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/iceye-raises-additional-65-million/" >🔗</a> **[SpaceNews]** Iceye raises additional $65 million
 - <a href="https://europeanspaceflight.com/arianegroup-awards-e60m-logistics-contract-to-daher/" >🔗</a> **[European Spaceflight]** ArianeGroup Awards €60M Logistics Contract to Daher
 - <a href="https://spacenews.com/chinas-landspace-secures-state-backed-funding-for-reusable-rockets/" >🔗</a> **[SpaceNews]** China’s Landspace secures state-backed funding for reusable rockets
-- <a href="https://spacenews.com/true-anomaly-achieves-milestone-with-jackal-satellite-deployment/" >🔗</a> **[SpaceNews]** True Anomaly achieves milestone with Jackal satellite deployment
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241227T180138">2024-12-27 18:01:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241227T183523">2024-12-27 18:35:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
