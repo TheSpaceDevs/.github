@@ -52,6 +52,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241230T162800">2024-12-30 16:28:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=PSLV-CA | SPADEX (Space Docking Experiment)&location=Satish Dhawan Space Centre, India&dates=20241230T162800Z%2F20241230T162800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **PSLV-CA | SPADEX (Space Docking Experiment)** from Satish Dhawan Space Centre, India.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241231T000000">2024-12-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Glenn | Maiden Flight&location=Cape Canaveral SFS, FL, USA&dates=20241231T000000Z%2F20241231T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Glenn | Maiden Flight** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250102T050000">2025-01-02 05:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Thuraya 4-NGS&location=Cape Canaveral SFS, FL, USA&dates=20250102T050000Z%2F20250102T055300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Thuraya 4-NGS** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250110T220000">2025-01-10 22:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Starship | Flight 7&location=SpaceX Starbase, TX, USA&dates=20250110T220000Z%2F20250110T233700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starship | Flight 7** from SpaceX Starbase, TX, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -87,6 +88,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacecoin-deploys-first-satellite-for-decentralized-space-connectivity/" >🔗</a> **[SpaceNews]** Spacecoin deploys first satellite for decentralized space connectivity
 - <a href="https://spacenews.com/china-suffers-commercial-rocket-failure-but-sets-record-for-annual-launches/" >🔗</a> **[SpaceNews]** China suffers commercial rocket failure but sets record for annual launches
 - <a href="https://spacenews.com/iceye-raises-additional-65-million/" >🔗</a> **[SpaceNews]** Iceye raises additional $65 million
 - <a href="https://europeanspaceflight.com/arianegroup-awards-e60m-logistics-contract-to-daher/" >🔗</a> **[European Spaceflight]** ArianeGroup Awards €60M Logistics Contract to Daher
@@ -96,7 +98,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/nesc/nesc-assists-in-heatshield-investigation/" >🔗</a> **[NASA]** NESC Assists in Heatshield Investigation
 - <a href="https://www.nasa.gov/image-article/laboratory-director-tawnya-plummer-laughinghouse/" >🔗</a> **[NASA]** Laboratory Director Tawnya Plummer Laughinghouse
 - <a href="https://spacenews.com/nasa-selects-four-companies-for-commercial-communications-services/" >🔗</a> **[SpaceNews]** NASA selects four companies for commercial communications services
-- <a href="https://europeanspaceflight.com/has-cnes-opened-the-door-for-a-european-space-station/" >🔗</a> **[European Spaceflight]** Has CNES Opened the Door for a European Space Station?
 
 
 ### Launch-related News 🚀
@@ -106,7 +107,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241227T130446">2024-12-27 13:04:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241227T133233">2024-12-27 13:32:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
