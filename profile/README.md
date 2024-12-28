@@ -88,6 +88,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2024/12/28/live-coverage-spacex-to-launch-22-starlink-satellites-on-falcon-9-rocket-from-california-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 22 Starlink satellites on Falcon 9 rocket from California
 - <a href="https://spacenews.com/blue-origin-test-fires-new-glenn-first-stage-ahead-of-inaugural-launch/" >🔗</a> **[SpaceNews]** Blue Origin test fires New Glenn first stage ahead of inaugural launch
 - <a href="https://europeanspaceflight.com/swedish-and-norwegian-companies-secure-key-nasa-contracts/" >🔗</a> **[European Spaceflight]** Swedish and Norwegian Companies Secure Key NASA Contracts
 - <a href="https://arstechnica.com/space/2024/12/blue-origin-hot-fires-new-glenn-rocket-setting-up-a-launch-early-next-year/" >🔗</a> **[Arstechnica]** Blue Origin hot fires New Glenn rocket, setting up a launch early next year
@@ -97,7 +98,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/science-research/heliophysics/nasas-parker-solar-probe-makes-history-with-closest-pass-to-sun/" >🔗</a> **[NASA]** NASA’s Parker Solar Probe Makes History With Closest Pass to Sun
 - <a href="https://spacenews.com/noisy-booster-landings-can-impede-spaceflight-progress-congress-was-right-to-step-in/" >🔗</a> **[SpaceNews]** Noisy booster landings can impede spaceflight progress. Congress was right to step in
 - <a href="https://www.nasa.gov/image-article/hubble-spies-a-cosmic-eye/" >🔗</a> **[NASA]** Hubble Spies a Cosmic Eye
-- <a href="https://spaceflightnow.com/2024/12/27/nelson-decision-on-mars-sample-return-expected-before-new-administration-takes-office/" >🔗</a> **[Spaceflight Now]** Nelson: Decision on Mars Sample Return expected before new administration takes office
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241228T193100">2024-12-28 19:31:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241228T200131">2024-12-28 20:01:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
