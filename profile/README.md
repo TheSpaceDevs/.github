@@ -88,6 +88,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/blue-origins-new-glenn-rocket-getting-closer-to-first-flight/" >🔗</a> **[SpacePolicyOnline.com]** Blue Origin’s New Glenn Rocket Getting Closer to First Flight
 - <a href="https://spacepolicyonline.com/news/hasc-chair-rogers-five-years-on-the-space-force-needs-to-grow/" >🔗</a> **[SpacePolicyOnline.com]** HASC Chair Rogers: Five Years On, the Space Force Needs to Grow
 - <a href="https://spaceflightnow.com/2024/12/28/live-coverage-spacex-to-launch-22-starlink-satellites-on-falcon-9-rocket-from-california-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 22 Starlink satellites on Falcon 9 rocket from California
 - <a href="https://spacenews.com/blue-origin-test-fires-new-glenn-first-stage-ahead-of-inaugural-launch/" >🔗</a> **[SpaceNews]** Blue Origin test fires New Glenn first stage ahead of inaugural launch
@@ -97,7 +98,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2024/12/27/faa-grants-commercial-launch-license-to-blue-origins-new-glenn-rocket/" >🔗</a> **[Spaceflight Now]** FAA grants commercial launch license to Blue Origin’s New Glenn rocket
 - <a href="https://spacenews.com/slam-extends-lynk-global-merger-deadline-as-cash-reserves-dwindle/" >🔗</a> **[SpaceNews]** Slam Corp extends Lynk Global merger deadline as cash reserves dwindle
 - <a href="https://science.nasa.gov/science-research/heliophysics/nasas-parker-solar-probe-makes-history-with-closest-pass-to-sun/" >🔗</a> **[NASA]** NASA’s Parker Solar Probe Makes History With Closest Pass to Sun
-- <a href="https://spacenews.com/noisy-booster-landings-can-impede-spaceflight-progress-congress-was-right-to-step-in/" >🔗</a> **[SpaceNews]** Noisy booster landings can impede spaceflight progress. Congress was right to step in
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241228T213101">2024-12-28 21:31:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241228T220115">2024-12-28 22:01:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
