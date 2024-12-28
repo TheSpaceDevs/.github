@@ -88,6 +88,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/swedish-and-norwegian-companies-secure-key-nasa-contracts/" >🔗</a> **[European Spaceflight]** Swedish and Norwegian Companies Secure Key NASA Contracts
 - <a href="https://arstechnica.com/space/2024/12/blue-origin-hot-fires-new-glenn-rocket-setting-up-a-launch-early-next-year/" >🔗</a> **[Arstechnica]** Blue Origin hot fires New Glenn rocket, setting up a launch early next year
 - <a href="https://www.nasaspaceflight.com/2024/12/2024-starship-program/" >🔗</a> **[NASASpaceflight]** Four Flights in the books and Major Infrastructure Upgrades Headline 2024 for the Starship Program
 - <a href="https://spaceflightnow.com/2024/12/27/faa-grants-commercial-launch-license-to-blue-origins-new-glenn-rocket/" >🔗</a> **[Spaceflight Now]** FAA grants commercial launch license to Blue Origin’s New Glenn rocket
@@ -97,7 +98,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/hubble-spies-a-cosmic-eye/" >🔗</a> **[NASA]** Hubble Spies a Cosmic Eye
 - <a href="https://spaceflightnow.com/2024/12/27/nelson-decision-on-mars-sample-return-expected-before-new-administration-takes-office/" >🔗</a> **[Spaceflight Now]** Nelson: Decision on Mars Sample Return expected before new administration takes office
 - <a href="https://www.nasaspaceflight.com/2024/12/iss-yearly-roundup/" >🔗</a> **[NASASpaceflight]** International Space Station finishes challenging year as plans are made for its retirement
-- <a href="https://spacenews.com/spacecoin-deploys-first-satellite-for-decentralized-space-connectivity/" >🔗</a> **[SpaceNews]** Spacecoin deploys first satellite for decentralized space connectivity
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241228T060130">2024-12-28 06:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241228T063514">2024-12-28 06:35:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
