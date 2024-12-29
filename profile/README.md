@@ -88,6 +88,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/parker-solar-probe-makes-history-as-scientists-urge-future-investments-in-heliophysics-research/" >🔗</a> **[SpacePolicyOnline.com]** Parker Solar Probe Makes History as Scientists Urge Future Investments in Heliophysics Research
 - <a href="https://spaceflightnow.com/2024/12/29/live-coverage-spacex-to-launch-4-astranis-satellites-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 4 Astranis satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacepolicyonline.com/news/blue-origins-new-glenn-rocket-getting-closer-to-first-flight/" >🔗</a> **[SpacePolicyOnline.com]** Blue Origin’s New Glenn Rocket Getting Closer to First Flight
 - <a href="https://spacepolicyonline.com/news/hasc-chair-rogers-five-years-on-the-space-force-needs-to-grow/" >🔗</a> **[SpacePolicyOnline.com]** HASC Chair Rogers: Five Years On, the Space Force Needs to Grow
@@ -97,7 +98,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://arstechnica.com/space/2024/12/blue-origin-hot-fires-new-glenn-rocket-setting-up-a-launch-early-next-year/" >🔗</a> **[Arstechnica]** Blue Origin hot fires New Glenn rocket, setting up a launch early next year
 - <a href="https://www.nasaspaceflight.com/2024/12/2024-starship-program/" >🔗</a> **[NASASpaceflight]** Four Flights in the books and Major Infrastructure Upgrades Headline 2024 for the Starship Program
 - <a href="https://spaceflightnow.com/2024/12/27/faa-grants-commercial-launch-license-to-blue-origins-new-glenn-rocket/" >🔗</a> **[Spaceflight Now]** FAA grants commercial launch license to Blue Origin’s New Glenn rocket
-- <a href="https://spacenews.com/slam-extends-lynk-global-merger-deadline-as-cash-reserves-dwindle/" >🔗</a> **[SpaceNews]** Slam Corp extends Lynk Global merger deadline as cash reserves dwindle
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241229T040141">2024-12-29 04:01:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241229T043346">2024-12-29 04:33:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
