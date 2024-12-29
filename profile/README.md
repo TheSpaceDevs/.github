@@ -87,6 +87,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/four-satellite-astranis-launch-signals-shift-toward-scaled-geo-deployments/" >🔗</a> **[SpaceNews]** Four-satellite Astranis launch signals shift toward scaled GEO deployments
 - <a href="https://arstechnica.com/space/2024/12/after-60-years-of-spaceflight-patches-here-are-some-of-our-favorites/" >🔗</a> **[Arstechnica]** After 60 years of spaceflight patches, here are some of our favorites
 - <a href="https://spacepolicyonline.com/news/parker-solar-probe-makes-history-as-scientists-urge-future-investments-in-heliophysics-research/" >🔗</a> **[SpacePolicyOnline.com]** Parker Solar Probe Makes History as Scientists Urge Future Investments in Heliophysics Research
 - <a href="https://spaceflightnow.com/2024/12/29/live-coverage-spacex-to-launch-4-astranis-satellites-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 4 Astranis satellites on Falcon 9 rocket from Cape Canaveral
@@ -96,7 +97,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/blue-origin-test-fires-new-glenn-first-stage-ahead-of-inaugural-launch/" >🔗</a> **[SpaceNews]** Blue Origin test fires New Glenn first stage ahead of inaugural launch
 - <a href="https://europeanspaceflight.com/swedish-and-norwegian-companies-secure-key-nasa-contracts/" >🔗</a> **[European Spaceflight]** Swedish and Norwegian Companies Secure Key NASA Contracts
 - <a href="https://arstechnica.com/space/2024/12/blue-origin-hot-fires-new-glenn-rocket-setting-up-a-launch-early-next-year/" >🔗</a> **[Arstechnica]** Blue Origin hot fires New Glenn rocket, setting up a launch early next year
-- <a href="https://www.nasaspaceflight.com/2024/12/2024-starship-program/" >🔗</a> **[NASASpaceflight]** Four Flights in the books and Major Infrastructure Upgrades Headline 2024 for the Starship Program
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241229T150116">2024-12-29 15:01:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241229T153103">2024-12-29 15:31:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
