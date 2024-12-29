@@ -88,6 +88,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2024/12/29/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket from the Kennedy Space Center
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-december-29-2024-january-11-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy December 29, 2024-January 11, 2025
 - <a href="https://spacenews.com/four-satellite-astranis-launch-signals-shift-toward-scaled-geo-deployments/" >🔗</a> **[SpaceNews]** Four-satellite Astranis launch signals shift toward scaled GEO deployments
 - <a href="https://arstechnica.com/space/2024/12/after-60-years-of-spaceflight-patches-here-are-some-of-our-favorites/" >🔗</a> **[Arstechnica]** After 60 years of spaceflight patches, here are some of our favorites
 - <a href="https://spacepolicyonline.com/news/parker-solar-probe-makes-history-as-scientists-urge-future-investments-in-heliophysics-research/" >🔗</a> **[SpacePolicyOnline.com]** Parker Solar Probe Makes History as Scientists Urge Future Investments in Heliophysics Research
@@ -96,8 +98,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/hasc-chair-rogers-five-years-on-the-space-force-needs-to-grow/" >🔗</a> **[SpacePolicyOnline.com]** HASC Chair Rogers: Five Years On, the Space Force Needs to Grow
 - <a href="https://spaceflightnow.com/2024/12/28/live-coverage-spacex-to-launch-22-starlink-satellites-on-falcon-9-rocket-from-california-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 22 Starlink satellites on Falcon 9 rocket from California
 - <a href="https://spacenews.com/blue-origin-test-fires-new-glenn-first-stage-ahead-of-inaugural-launch/" >🔗</a> **[SpaceNews]** Blue Origin test fires New Glenn first stage ahead of inaugural launch
-- <a href="https://europeanspaceflight.com/swedish-and-norwegian-companies-secure-key-nasa-contracts/" >🔗</a> **[European Spaceflight]** Swedish and Norwegian Companies Secure Key NASA Contracts
-- <a href="https://arstechnica.com/space/2024/12/blue-origin-hot-fires-new-glenn-rocket-setting-up-a-launch-early-next-year/" >🔗</a> **[Arstechnica]** Blue Origin hot fires New Glenn rocket, setting up a launch early next year
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241229T213109">2024-12-29 21:31:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241229T220118">2024-12-29 22:01:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
