@@ -87,6 +87,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacescout.info/2024/12/astranis-aims-to-breathe-new-life-into-geo/" >🔗</a> **[Space Scout]** Astranis Aims to Breathe New Life into GEO
 - <a href="https://spacenews.com/india-launches-space-docking-experiment-with-pslv-rocket-advancing-major-ambitions/" >🔗</a> **[SpaceNews]** India launches space docking experiment with PSLV rocket, advancing major ambitions
 - <a href="https://science.nasa.gov/solar-system/skywatching/whats-up-january-2025-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: January 2025 Skywatching Tips from NASA
 - <a href="https://www.nasa.gov/news-release/earth-to-space-call-nasa-leaders-to-speak-with-station-astronauts/" >🔗</a> **[NASA]** Earth to Space Call: NASA Leaders to Speak with Station Astronauts
@@ -96,7 +97,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/satellite-manufacturer-for-chinese-megaconstellation-secures-137-million-funding/" >🔗</a> **[SpaceNews]** Satellite manufacturer for Chinese megaconstellation secures $137 million funding
 - <a href="https://www.nasaspaceflight.com/2024/12/spadex-launch/" >🔗</a> **[NASASpaceflight]** India to launch SPADEX space docking demonstration, begins assembly of human-rated launch vehicle
 - <a href="https://spacenews.com/chinas-space-agency-faces-leadership-change-amid-shake-up/" >🔗</a> **[SpaceNews]** China’s space agency faces leadership change amid shake-up
-- <a href="https://europeanspaceflight.com/esa-council-approves-initial-e7-7b-2025-budget/" >🔗</a> **[European Spaceflight]** ESA Council Approves Initial €7.7B 2025 Budget
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241230T190135">2024-12-30 19:01:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241230T193117">2024-12-30 19:31:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
