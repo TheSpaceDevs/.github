@@ -87,6 +87,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/india-launches-space-docking-experiment-with-pslv-rocket-advancing-major-ambitions/" >🔗</a> **[SpaceNews]** India launches space docking experiment with PSLV rocket, advancing major ambitions
+- <a href="https://science.nasa.gov/solar-system/skywatching/whats-up-january-2025-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: January 2025 Skywatching Tips from NASA
 - <a href="https://www.nasa.gov/news-release/earth-to-space-call-nasa-leaders-to-speak-with-station-astronauts/" >🔗</a> **[NASA]** Earth to Space Call: NASA Leaders to Speak with Station Astronauts
 - <a href="https://spacenews.com/2025-will-be-a-year-of-slow-but-steady-progress-for-climate-monitoring-satellites/" >🔗</a> **[SpaceNews]** 2025 will be a year of slow but steady progress for climate monitoring satellites
 - <a href="https://spacenews.com/nasas-artemis-program-needs-a-new-public-relations-angle/" >🔗</a> **[SpaceNews]** NASA’s Artemis program needs a new public relations angle
@@ -95,8 +97,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2024/12/spadex-launch/" >🔗</a> **[NASASpaceflight]** India to launch SPADEX space docking demonstration, begins assembly of human-rated launch vehicle
 - <a href="https://spacenews.com/chinas-space-agency-faces-leadership-change-amid-shake-up/" >🔗</a> **[SpaceNews]** China’s space agency faces leadership change amid shake-up
 - <a href="https://europeanspaceflight.com/esa-council-approves-initial-e7-7b-2025-budget/" >🔗</a> **[European Spaceflight]** ESA Council Approves Initial €7.7B 2025 Budget
-- <a href="https://www.nasa.gov/news-release/nasa-administrator-pays-tribute-to-president-carter/" >🔗</a> **[NASA]** NASA Administrator Pays Tribute to President Carter
-- <a href="https://spaceflightnow.com/2024/12/29/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket from the Kennedy Space Center
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241230T170120">2024-12-30 17:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241230T173147">2024-12-30 17:31:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
