@@ -87,6 +87,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2024/12/launch-roundup-123024/" >🔗</a> **[NASASpaceflight]** Launch Roundup: New Glenn set for maiden flight, Falcon 9 missions end and start the year
 - <a href="https://www.spacescout.info/2024/12/astranis-aims-to-breathe-new-life-into-geo/" >🔗</a> **[Space Scout]** Astranis Aims to Breathe New Life into GEO
 - <a href="https://spacenews.com/india-launches-space-docking-experiment-with-pslv-rocket-advancing-major-ambitions/" >🔗</a> **[SpaceNews]** India launches space docking experiment with PSLV rocket, advancing major ambitions
 - <a href="https://science.nasa.gov/solar-system/skywatching/whats-up-january-2025-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: January 2025 Skywatching Tips from NASA
@@ -96,7 +97,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/nasas-artemis-program-needs-a-new-public-relations-angle/" >🔗</a> **[SpaceNews]** NASA’s Artemis program needs a new public relations angle
 - <a href="https://arstechnica.com/space/2024/12/a-cold-war-mystery-why-did-jimmy-carter-save-the-space-shuttle/" >🔗</a> **[Arstechnica]** A Cold War mystery: Why did Jimmy Carter save the space shuttle?
 - <a href="https://spacenews.com/satellite-manufacturer-for-chinese-megaconstellation-secures-137-million-funding/" >🔗</a> **[SpaceNews]** Satellite manufacturer for Chinese megaconstellation secures $137 million funding
-- <a href="https://www.nasaspaceflight.com/2024/12/spadex-launch/" >🔗</a> **[NASASpaceflight]** India to launch SPADEX space docking demonstration, begins assembly of human-rated launch vehicle
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241230T220119">2024-12-30 22:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241230T223257">2024-12-30 22:32:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
