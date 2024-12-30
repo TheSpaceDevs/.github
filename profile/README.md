@@ -90,6 +90,7 @@ The mission will involve two spacecraft (Chaser and Target) rendezvous and docki
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-administrator-pays-tribute-to-president-carter/" >🔗</a> **[NASA]** NASA Administrator Pays Tribute to President Carter
 - <a href="https://spaceflightnow.com/2024/12/29/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket from the Kennedy Space Center
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-december-29-2024-january-11-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy December 29, 2024-January 11, 2025
 - <a href="https://spacenews.com/four-satellite-astranis-launch-signals-shift-toward-scaled-geo-deployments/" >🔗</a> **[SpaceNews]** Four-satellite Astranis launch signals shift toward scaled GEO deployments
@@ -99,7 +100,6 @@ The mission will involve two spacecraft (Chaser and Target) rendezvous and docki
 - <a href="https://spacepolicyonline.com/news/blue-origins-new-glenn-rocket-getting-closer-to-first-flight/" >🔗</a> **[SpacePolicyOnline.com]** Blue Origin’s New Glenn Rocket Getting Closer to First Flight
 - <a href="https://spacepolicyonline.com/news/hasc-chair-rogers-five-years-on-the-space-force-needs-to-grow/" >🔗</a> **[SpacePolicyOnline.com]** HASC Chair Rogers: Five Years On, the Space Force Needs to Grow
 - <a href="https://spaceflightnow.com/2024/12/28/live-coverage-spacex-to-launch-22-starlink-satellites-on-falcon-9-rocket-from-california-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 22 Starlink satellites on Falcon 9 rocket from California
-- <a href="https://spacenews.com/blue-origin-test-fires-new-glenn-first-stage-ahead-of-inaugural-launch/" >🔗</a> **[SpaceNews]** Blue Origin test fires New Glenn first stage ahead of inaugural launch
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ The mission will involve two spacecraft (Chaser and Target) rendezvous and docki
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241230T000424">2024-12-30 00:04:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241230T004540">2024-12-30 00:45:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
