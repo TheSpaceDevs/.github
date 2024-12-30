@@ -20,35 +20,32 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**PSLV-CA | SPADEX (Space Docking Experiment)**. It is scheduled to be launched by *Indian Space Research Organization*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Satish_Dhawan_Space_Centre_First_Launch_Pad">Satish Dhawan Space Centre First Launch Pad</a>, Satish Dhawan Space Centre, India*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241230T163015">2024-12-30 16:30:15 UTC</a>.  Until
-then, this pad will have been used for 60
-out of 96 launches from this location. The launch status is currently
+**Falcon 9 Block 5 | Starlink Group 12-6**. It is scheduled to be launched by *SpaceX*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39A">Launch Complex 39A</a>, Kennedy Space Center, FL, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241231T053910">2024-12-31 05:39:10 UTC</a>.  Until
+then, this pad will have been used for 193
+out of 251 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Technology* and the payload will be injected
+*Communications* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  SPADEX (Space Docking Experiment) is an Indian Space Research Organisation (ISRO) technology mission to demonstrate autonomous docking between 2 spacecraft in orbit.
-
-The mission will involve two spacecraft (Chaser and Target) rendezvous and docking together, plus testing attitude control of the combined spacecraft under docked conditions. The Chaser and Target spacecraft will then be separated for operating other payload. The mission is critical to develop rendezvous and docking abilities for ISRO’s future human spaceflight and lunar sample return missions.
+  A batch of 21 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Polar_Satellite_Launch_Vehicle" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=13.733,80.235" >
+  <a href="https://www.google.com/maps?q=28.60822681,-80.60428186" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241230T163015">2024-12-30 16:30:15 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=PSLV-CA | SPADEX (Space Docking Experiment)&location=Satish Dhawan Space Centre, India&dates=20241230T163015Z%2F20241230T163015Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **PSLV-CA | SPADEX (Space Docking Experiment)** from Satish Dhawan Space Centre, India.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241231T053910">2024-12-31 05:39:10 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-6&location=Kennedy Space Center, FL, USA&dates=20241231T053910Z%2F20241231T062810Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-6** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250102T050000">2025-01-02 05:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Thuraya 4-NGS&location=Cape Canaveral SFS, FL, USA&dates=20250102T050000Z%2F20250102T065300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Thuraya 4-NGS** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250105T171000">2025-01-05 17:10:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-71&location=Cape Canaveral SFS, FL, USA&dates=20250105T171000Z%2F20250105T214100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-71** from Cape Canaveral SFS, FL, USA.
@@ -90,6 +87,8 @@ The mission will involve two spacecraft (Chaser and Target) rendezvous and docki
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/earth-to-space-call-nasa-leaders-to-speak-with-station-astronauts/" >🔗</a> **[NASA]** Earth to Space Call: NASA Leaders to Speak with Station Astronauts
+- <a href="https://spacenews.com/2025-will-be-a-year-of-slow-but-steady-progress-for-climate-monitoring-satellites/" >🔗</a> **[SpaceNews]** 2025 will be a year of slow but steady progress for climate monitoring satellites
 - <a href="https://spacenews.com/nasas-artemis-program-needs-a-new-public-relations-angle/" >🔗</a> **[SpaceNews]** NASA’s Artemis program needs a new public relations angle
 - <a href="https://arstechnica.com/space/2024/12/a-cold-war-mystery-why-did-jimmy-carter-save-the-space-shuttle/" >🔗</a> **[Arstechnica]** A Cold War mystery: Why did Jimmy Carter save the space shuttle?
 - <a href="https://spacenews.com/satellite-manufacturer-for-chinese-megaconstellation-secures-137-million-funding/" >🔗</a> **[SpaceNews]** Satellite manufacturer for Chinese megaconstellation secures $137 million funding
@@ -98,8 +97,6 @@ The mission will involve two spacecraft (Chaser and Target) rendezvous and docki
 - <a href="https://europeanspaceflight.com/esa-council-approves-initial-e7-7b-2025-budget/" >🔗</a> **[European Spaceflight]** ESA Council Approves Initial €7.7B 2025 Budget
 - <a href="https://www.nasa.gov/news-release/nasa-administrator-pays-tribute-to-president-carter/" >🔗</a> **[NASA]** NASA Administrator Pays Tribute to President Carter
 - <a href="https://spaceflightnow.com/2024/12/29/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket from the Kennedy Space Center
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-december-29-2024-january-11-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy December 29, 2024-January 11, 2025
-- <a href="https://spacenews.com/four-satellite-astranis-launch-signals-shift-toward-scaled-geo-deployments/" >🔗</a> **[SpaceNews]** Four-satellite Astranis launch signals shift toward scaled GEO deployments
 
 
 ### Launch-related News 🚀
@@ -109,7 +106,7 @@ The mission will involve two spacecraft (Chaser and Target) rendezvous and docki
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241230T160133">2024-12-30 16:01:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241230T163520">2024-12-30 16:35:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
