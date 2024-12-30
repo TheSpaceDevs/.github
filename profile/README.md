@@ -90,6 +90,8 @@ The mission will involve two spacecraft (Chaser and Target) rendezvous and docki
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/satellite-manufacturer-for-chinese-megaconstellation-secures-137-million-funding/" >🔗</a> **[SpaceNews]** Satellite manufacturer for Chinese megaconstellation secures $137 million funding
+- <a href="https://www.nasaspaceflight.com/2024/12/spadex-launch/" >🔗</a> **[NASASpaceflight]** India to launch SPADEX space docking demonstration, begins assembly of human-rated launch vehicle
 - <a href="https://spacenews.com/chinas-space-agency-faces-leadership-change-amid-shake-up/" >🔗</a> **[SpaceNews]** China’s space agency faces leadership change amid shake-up
 - <a href="https://europeanspaceflight.com/esa-council-approves-initial-e7-7b-2025-budget/" >🔗</a> **[European Spaceflight]** ESA Council Approves Initial €7.7B 2025 Budget
 - <a href="https://www.nasa.gov/news-release/nasa-administrator-pays-tribute-to-president-carter/" >🔗</a> **[NASA]** NASA Administrator Pays Tribute to President Carter
@@ -98,8 +100,6 @@ The mission will involve two spacecraft (Chaser and Target) rendezvous and docki
 - <a href="https://spacenews.com/four-satellite-astranis-launch-signals-shift-toward-scaled-geo-deployments/" >🔗</a> **[SpaceNews]** Four-satellite Astranis launch signals shift toward scaled GEO deployments
 - <a href="https://arstechnica.com/space/2024/12/after-60-years-of-spaceflight-patches-here-are-some-of-our-favorites/" >🔗</a> **[Arstechnica]** After 60 years of spaceflight patches, here are some of our favorites
 - <a href="https://spacepolicyonline.com/news/parker-solar-probe-makes-history-as-scientists-urge-future-investments-in-heliophysics-research/" >🔗</a> **[SpacePolicyOnline.com]** Parker Solar Probe Makes History as Scientists Urge Future Investments in Heliophysics Research
-- <a href="https://spaceflightnow.com/2024/12/29/live-coverage-spacex-to-launch-4-astranis-satellites-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 4 Astranis satellites on Falcon 9 rocket from Cape Canaveral
-- <a href="https://spacepolicyonline.com/news/blue-origins-new-glenn-rocket-getting-closer-to-first-flight/" >🔗</a> **[SpacePolicyOnline.com]** Blue Origin’s New Glenn Rocket Getting Closer to First Flight
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ The mission will involve two spacecraft (Chaser and Target) rendezvous and docki
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241230T130512">2024-12-30 13:05:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241230T133311">2024-12-30 13:33:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
