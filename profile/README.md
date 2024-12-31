@@ -87,6 +87,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/humans-in-space/assessment-of-pfo-as-related-to-dcs-in-the-spaceflight-environment-and-during-ground-testing/" >🔗</a> **[NASA]** Assessment of PFO as Related to DCS in the Spaceflight Environment and During Ground Testing
 - <a href="https://www.spacescout.info/2024/12/blue-fire-and-green-lights-for-new-glenn/" >🔗</a> **[Space Scout]** Blue Fire and Green Lights for New Glenn
 - <a href="https://www.nasaspaceflight.com/2024/12/2024-science-roundup/" >🔗</a> **[NASASpaceflight]** Space science in 2024: Moon missions, Martian milestones, astrophysics discoveries, and more
 - <a href="https://europeanspaceflight.com/kurs-orbital-secures-e1-1m-for-in-orbit-rendezvous-and-docking-module/" >🔗</a> **[European Spaceflight]** Kurs Orbital Secures €1.1M for In-Orbit Rendezvous and Docking Module
@@ -96,7 +97,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.spacescout.info/2024/12/astranis-aims-to-breathe-new-life-into-geo/" >🔗</a> **[Space Scout]** Astranis Aims to Breathe New Life into GEO
 - <a href="https://spacenews.com/india-launches-space-docking-experiment-with-pslv-rocket-advancing-major-ambitions/" >🔗</a> **[SpaceNews]** India launches space docking experiment with PSLV rocket, advancing major ambitions
 - <a href="https://science.nasa.gov/solar-system/skywatching/whats-up-january-2025-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: January 2025 Skywatching Tips from NASA
-- <a href="https://www.nasa.gov/image-article/remembering-president-carter/" >🔗</a> **[NASA]** Remembering President Carter
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241231T173121">2024-12-31 17:31:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241231T180122">2024-12-31 18:01:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
