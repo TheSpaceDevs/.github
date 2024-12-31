@@ -86,6 +86,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/kurs-orbital-secures-e1-1m-for-in-orbit-rendezvous-and-docking-module/" >🔗</a> **[European Spaceflight]** Kurs Orbital Secures €1.1M for In-Orbit Rendezvous and Docking Module
 - <a href="https://spacenews.com/study-to-examine-environmental-impacts-of-increased-spacex-launches-from-vandenberg/" >🔗</a> **[SpaceNews]** Study to examine environmental impacts of increased SpaceX launches from Vandenberg
 - <a href="https://science.nasa.gov/blog/sols-4402-4415-rover-decks-and-sequence-calls-for-the-holidays/" >🔗</a> **[NASA]** Sols 4402-4415: Rover Decks and Sequence Calls for the Holidays
 - <a href="https://www.nasaspaceflight.com/2024/12/launch-roundup-123024/" >🔗</a> **[NASASpaceflight]** Launch Roundup: New Glenn set for maiden flight, Falcon 9 missions end and start the year
@@ -95,7 +96,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.nasa.gov/image-article/remembering-president-carter/" >🔗</a> **[NASA]** Remembering President Carter
 - <a href="https://www.nasa.gov/news-release/earth-to-space-call-nasa-leaders-to-speak-with-station-astronauts/" >🔗</a> **[NASA]** Earth to Space Call: NASA Leaders to Speak with Station Astronauts
 - <a href="https://spacenews.com/2025-will-be-a-year-of-slow-but-steady-progress-for-climate-monitoring-satellites/" >🔗</a> **[SpaceNews]** 2025 will be a year of slow but steady progress for climate monitoring satellites
-- <a href="https://spacenews.com/nasas-artemis-program-needs-a-new-public-relations-angle/" >🔗</a> **[SpaceNews]** NASA’s Artemis program needs a new public relations angle
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241231T080135">2024-12-31 08:01:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241231T083434">2024-12-31 08:34:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
