@@ -87,6 +87,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blog/sols-4402-4415-rover-decks-and-sequence-calls-for-the-holidays/" >🔗</a> **[NASA]** Sols 4402-4415: Rover Decks and Sequence Calls for the Holidays
 - <a href="https://www.nasaspaceflight.com/2024/12/launch-roundup-123024/" >🔗</a> **[NASASpaceflight]** Launch Roundup: New Glenn set for maiden flight, Falcon 9 missions end and start the year
 - <a href="https://www.spacescout.info/2024/12/astranis-aims-to-breathe-new-life-into-geo/" >🔗</a> **[Space Scout]** Astranis Aims to Breathe New Life into GEO
 - <a href="https://spacenews.com/india-launches-space-docking-experiment-with-pslv-rocket-advancing-major-ambitions/" >🔗</a> **[SpaceNews]** India launches space docking experiment with PSLV rocket, advancing major ambitions
@@ -96,7 +97,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/2025-will-be-a-year-of-slow-but-steady-progress-for-climate-monitoring-satellites/" >🔗</a> **[SpaceNews]** 2025 will be a year of slow but steady progress for climate monitoring satellites
 - <a href="https://spacenews.com/nasas-artemis-program-needs-a-new-public-relations-angle/" >🔗</a> **[SpaceNews]** NASA’s Artemis program needs a new public relations angle
 - <a href="https://arstechnica.com/space/2024/12/a-cold-war-mystery-why-did-jimmy-carter-save-the-space-shuttle/" >🔗</a> **[Arstechnica]** A Cold War mystery: Why did Jimmy Carter save the space shuttle?
-- <a href="https://spacenews.com/satellite-manufacturer-for-chinese-megaconstellation-secures-137-million-funding/" >🔗</a> **[SpaceNews]** Satellite manufacturer for Chinese megaconstellation secures $137 million funding
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241231T000412">2024-12-31 00:04:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241231T004536">2024-12-31 00:45:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
