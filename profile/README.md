@@ -87,6 +87,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/study-to-examine-environmental-impacts-of-increased-spacex-launches-from-vandenberg/" >🔗</a> **[SpaceNews]** Study to examine environmental impacts of increased SpaceX launches from Vandenberg
 - <a href="https://science.nasa.gov/blog/sols-4402-4415-rover-decks-and-sequence-calls-for-the-holidays/" >🔗</a> **[NASA]** Sols 4402-4415: Rover Decks and Sequence Calls for the Holidays
 - <a href="https://www.nasaspaceflight.com/2024/12/launch-roundup-123024/" >🔗</a> **[NASASpaceflight]** Launch Roundup: New Glenn set for maiden flight, Falcon 9 missions end and start the year
 - <a href="https://www.spacescout.info/2024/12/astranis-aims-to-breathe-new-life-into-geo/" >🔗</a> **[Space Scout]** Astranis Aims to Breathe New Life into GEO
@@ -96,7 +97,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/earth-to-space-call-nasa-leaders-to-speak-with-station-astronauts/" >🔗</a> **[NASA]** Earth to Space Call: NASA Leaders to Speak with Station Astronauts
 - <a href="https://spacenews.com/2025-will-be-a-year-of-slow-but-steady-progress-for-climate-monitoring-satellites/" >🔗</a> **[SpaceNews]** 2025 will be a year of slow but steady progress for climate monitoring satellites
 - <a href="https://spacenews.com/nasas-artemis-program-needs-a-new-public-relations-angle/" >🔗</a> **[SpaceNews]** NASA’s Artemis program needs a new public relations angle
-- <a href="https://arstechnica.com/space/2024/12/a-cold-war-mystery-why-did-jimmy-carter-save-the-space-shuttle/" >🔗</a> **[Arstechnica]** A Cold War mystery: Why did Jimmy Carter save the space shuttle?
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241231T040128">2024-12-31 04:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20241231T043418">2024-12-31 04:34:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
