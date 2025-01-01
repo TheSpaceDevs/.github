@@ -91,6 +91,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/top-european-launch-companies-of-2024/" >🔗</a> **[European Spaceflight]** Top European Launch Companies of 2024
 - <a href="https://spacenews.com/fcc-allocates-additional-spectrum-for-commercial-launches/" >🔗</a> **[SpaceNews]** FCC allocates additional spectrum for commercial launches
 - <a href="https://www.nasaspaceflight.com/2024/12/record-breaking-2024/" >🔗</a> **[NASASpaceflight]** Starlink launch concludes record-breaking 2024
 - <a href="https://science.nasa.gov/learning-resources/science-activation/astronomy-activation-ambassadors-a-new-era/" >🔗</a> **[NASA]** Astronomy Activation Ambassadors: A New Era
@@ -100,7 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.nasaspaceflight.com/2024/12/2024-science-roundup/" >🔗</a> **[NASASpaceflight]** Space science in 2024: Moon missions, Martian milestones, astrophysics discoveries, and more
 - <a href="https://europeanspaceflight.com/kurs-orbital-secures-e1-1m-for-in-orbit-rendezvous-and-docking-module/" >🔗</a> **[European Spaceflight]** Kurs Orbital Secures €1.1M for In-Orbit Rendezvous and Docking Module
 - <a href="https://spacenews.com/study-to-examine-environmental-impacts-of-increased-spacex-launches-from-vandenberg/" >🔗</a> **[SpaceNews]** Study to examine environmental impacts of increased SpaceX launches from Vandenberg
-- <a href="https://science.nasa.gov/blog/sols-4402-4415-rover-decks-and-sequence-calls-for-the-holidays/" >🔗</a> **[NASA]** Sols 4402-4415: Rover Decks and Sequence Calls for the Holidays
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250101T060129">2025-01-01 06:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250101T063649">2025-01-01 06:36:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
