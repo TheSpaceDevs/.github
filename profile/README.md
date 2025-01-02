@@ -91,6 +91,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/artemis/nasa-anticipates-lunar-findings-from-next-generation-retroreflector/" >🔗</a> **[NASA]** NASA Anticipates Lunar Findings From Next-Generation Retroreflector
 - <a href="https://www.nasa.gov/image-article/best-of-2024-total-solar-eclipse-in-indianapolis/" >🔗</a> **[NASA]** Best of 2024: Total Solar Eclipse in Indianapolis
 - <a href="https://arstechnica.com/space/2025/01/russia-just-launched-the-2000th-semyorka-rocket-its-both-a-triumph-and-tragedy/" >🔗</a> **[Arstechnica]** Russia just launched the 2,000th Semyorka rocket—it’s both a triumph and tragedy
 - <a href="https://spacenews.com/eutelsat-resolves-oneweb-leap-year-software-glitch-after-two-day-outage/" >🔗</a> **[SpaceNews]** Eutelsat resolves OneWeb leap year software glitch after two-day outage
@@ -100,7 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spacenews.com/space-force-marks-floridas-record-breaking-launch-year/" >🔗</a> **[SpaceNews]** Space Force marks Florida’s record-breaking launch year
 - <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/jan2025-night-sky-notes/" >🔗</a> **[NASA]** January’s Night Sky Notes: The Red Planet
 - <a href="https://europeanspaceflight.com/top-european-launch-companies-of-2024/" >🔗</a> **[European Spaceflight]** Top European Launch Companies of 2024
-- <a href="https://spacenews.com/fcc-allocates-additional-spectrum-for-commercial-launches/" >🔗</a> **[SpaceNews]** FCC allocates additional spectrum for commercial launches
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250102T200119">2025-01-02 20:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250102T203209">2025-01-02 20:32:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
