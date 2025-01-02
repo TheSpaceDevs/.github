@@ -91,6 +91,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacex-launch-surge-helps-set-new-global-launch-record-in-2024/" >🔗</a> **[SpaceNews]** SpaceX launch surge helps set new global launch record in 2024
 - <a href="https://spacenews.com/space-force-marks-floridas-record-breaking-launch-year/" >🔗</a> **[SpaceNews]** Space Force marks Florida’s record-breaking launch year
 - <a href="https://europeanspaceflight.com/top-european-launch-companies-of-2024/" >🔗</a> **[European Spaceflight]** Top European Launch Companies of 2024
 - <a href="https://spacenews.com/fcc-allocates-additional-spectrum-for-commercial-launches/" >🔗</a> **[SpaceNews]** FCC allocates additional spectrum for commercial launches
@@ -100,7 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.nasa.gov/humans-in-space/assessment-of-pfo-as-related-to-dcs-in-the-spaceflight-environment-and-during-ground-testing/" >🔗</a> **[NASA]** Assessment of PFO as Related to DCS in the Spaceflight Environment and During Ground Testing
 - <a href="https://www.spacescout.info/2024/12/blue-fire-and-green-lights-for-new-glenn/" >🔗</a> **[Space Scout]** Blue Fire and Green Lights for New Glenn
 - <a href="https://www.nasaspaceflight.com/2024/12/2024-science-roundup/" >🔗</a> **[NASASpaceflight]** Space science in 2024: Moon missions, Martian milestones, astrophysics discoveries, and more
-- <a href="https://europeanspaceflight.com/kurs-orbital-secures-e1-1m-for-in-orbit-rendezvous-and-docking-module/" >🔗</a> **[European Spaceflight]** Kurs Orbital Secures €1.1M for In-Orbit Rendezvous and Docking Module
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250102T004540">2025-01-02 00:45:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250102T012817">2025-01-02 01:28:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
