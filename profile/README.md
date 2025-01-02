@@ -105,6 +105,7 @@ into *a Geostationary Transfer Orbit
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2024/12/launch-roundup-123024/" >🔗</a> **[NASASpaceflight]** Launch Roundup: New Glenn set for maiden flight, Falcon 9 missions end and start the year
 - <a href="https://www.nasaspaceflight.com/2024/12/launch-roundup-122324/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX, China, and Russia maintain busy launch manifests through the holidays
 - <a href="https://www.nasaspaceflight.com/2024/12/launch-roundup-121624/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX plans for five customer missions; Rocket Lab to launch mission for Synspective
 - <a href="https://www.teslarati.com/spacex-falcon-9-geostationary-launch-contract-yahsat/" >🔗</a> **[Teslarati]** SpaceX Falcon 9 wins second geostationary commsat launch contract of 2021
@@ -113,7 +114,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250102T110122">2025-01-02 11:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250102T113103">2025-01-02 11:31:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
