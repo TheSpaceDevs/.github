@@ -97,10 +97,10 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spacenews.com/china-to-debut-new-long-march-and-commercial-rockets-in-2025/" >🔗</a> **[SpaceNews]** China to debut new Long March and commercial rockets in 2025
 - <a href="https://spacenews.com/spacex-launch-surge-helps-set-new-global-launch-record-in-2024/" >🔗</a> **[SpaceNews]** SpaceX launch surge helps set new global launch record in 2024
 - <a href="https://spacenews.com/space-force-marks-floridas-record-breaking-launch-year/" >🔗</a> **[SpaceNews]** Space Force marks Florida’s record-breaking launch year
+- <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/jan2025-night-sky-notes/" >🔗</a> **[NASA]** January’s Night Sky Notes: The Red Planet
 - <a href="https://europeanspaceflight.com/top-european-launch-companies-of-2024/" >🔗</a> **[European Spaceflight]** Top European Launch Companies of 2024
 - <a href="https://spacenews.com/fcc-allocates-additional-spectrum-for-commercial-launches/" >🔗</a> **[SpaceNews]** FCC allocates additional spectrum for commercial launches
 - <a href="https://www.nasaspaceflight.com/2024/12/record-breaking-2024/" >🔗</a> **[NASASpaceflight]** Starlink launch concludes record-breaking 2024
-- <a href="https://science.nasa.gov/learning-resources/science-activation/astronomy-activation-ambassadors-a-new-era/" >🔗</a> **[NASA]** Astronomy Activation Ambassadors: A New Era
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250102T170124">2025-01-02 17:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250102T173145">2025-01-02 17:31:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
