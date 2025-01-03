@@ -91,6 +91,8 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/heather-seagren-coordinating-travel-for-stennis-employees/" >🔗</a> **[NASA]** Mission Possible: Coordinating Travel for NASA Employees
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/12/See_and_hear_three_years_of_solar_fireworks" >🔗</a> **[ESA]** See and hear three years of solar fireworks
 - <a href="https://spacenews.com/the-other-space-control-who-does-what-in-the-national-security-space-enterprise/" >🔗</a> **[SpaceNews]** The other space control: who does what In the national security space enterprise
 - <a href="https://europeanspaceflight.com/esa-targets-2035-for-second-mission-to-mars/" >🔗</a> **[European Spaceflight]** ESA Targets 2035 for Second Mission to Mars
 - <a href="https://spacenews.com/india-eyes-record-year-for-space-with-10-planned-launches/" >🔗</a> **[SpaceNews]** India eyes record year for space with 10 planned launches
@@ -99,8 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/01/Pale_blue_supernova_dot" >🔗</a> **[ESA]** Pale blue (supernova) dot
 - <a href="https://spacepolicyonline.com/news/how-space-legislation-fared-in-the-118th-congress-and-a-look-ahead/" >🔗</a> **[SpacePolicyOnline.com]** How Space Legislation Fared in the 118th Congress and a Look Ahead
 - <a href="https://spaceflightnow.com/2025/01/03/live-coverage-spacex-to-launch-thuraya-4-ngs-telecommunications-satellite-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Thuraya 4-NGS telecommunications satellite on Falcon 9 rocket from Cape Canaveral
-- <a href="https://spaceflightnow.com/2025/01/03/india-launches-its-first-on-orbit-docking-demonstration-in-5th-and-final-launch-of-2024/" >🔗</a> **[Spaceflight Now]** India launches its first on-orbit docking demonstration in 5th and final launch of 2024
-- <a href="https://science.nasa.gov/learning-resources/science-activation/nasa-workshops-culturally-inclusive-planetary-engagement-with-educators/" >🔗</a> **[NASA]** NASA Workshops Culturally Inclusive Planetary Engagement with Educators
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250103T150128">2025-01-03 15:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250103T153215">2025-01-03 15:32:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
