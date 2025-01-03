@@ -91,6 +91,8 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/01/03/live-coverage-spacex-to-launch-thuraya-4-ngs-telecommunications-satellite-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Thuraya 4-NGS telecommunications satellite on Falcon 9 rocket from Cape Canaveral
+- <a href="https://spaceflightnow.com/2025/01/03/india-launches-its-first-on-orbit-docking-demonstration-in-5th-and-final-launch-of-2024/" >🔗</a> **[Spaceflight Now]** India launches its first on-orbit docking demonstration in 5th and final launch of 2024
 - <a href="https://science.nasa.gov/learning-resources/science-activation/nasa-workshops-culturally-inclusive-planetary-engagement-with-educators/" >🔗</a> **[NASA]** NASA Workshops Culturally Inclusive Planetary Engagement with Educators
 - <a href="https://www.nasa.gov/missions/artemis/nasa-anticipates-lunar-findings-from-next-generation-retroreflector/" >🔗</a> **[NASA]** NASA Anticipates Lunar Findings From Next-Generation Retroreflector
 - <a href="https://www.nasa.gov/image-article/best-of-2024-total-solar-eclipse-in-indianapolis/" >🔗</a> **[NASA]** Best of 2024: Total Solar Eclipse in Indianapolis
@@ -99,8 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://europeanspaceflight.com/esa-director-general-reaffirms-geo-return-policy-as-fundamental/" >🔗</a> **[European Spaceflight]** ESA Director General Reaffirms Geo-Return Policy as “Fundamental”
 - <a href="https://spacenews.com/china-to-debut-new-long-march-and-commercial-rockets-in-2025/" >🔗</a> **[SpaceNews]** China to debut new Long March and commercial rockets in 2025
 - <a href="https://spacenews.com/spacex-launch-surge-helps-set-new-global-launch-record-in-2024/" >🔗</a> **[SpaceNews]** SpaceX launch surge helps set new global launch record in 2024
-- <a href="https://spacenews.com/space-force-marks-floridas-record-breaking-launch-year/" >🔗</a> **[SpaceNews]** Space Force marks Florida’s record-breaking launch year
-- <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/jan2025-night-sky-notes/" >🔗</a> **[NASA]** January’s Night Sky Notes: The Red Planet
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250103T004541">2025-01-03 00:45:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250103T012823">2025-01-03 01:28:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
