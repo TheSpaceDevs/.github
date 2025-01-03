@@ -91,6 +91,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/afcea-space-coast-chapter-spacecom-announce-strategic-agreement/" >🔗</a> **[SpaceNews]** AFCEA Space Coast Chapter & SpaceCom Announce Strategic Agreement
 - <a href="https://www.nasa.gov/image-article/media-day-with-artemis-ii-crews/" >🔗</a> **[NASA]** Media Day with Artemis II Crews
 - <a href="https://www.nasa.gov/news-release/idaho-students-to-connect-with-nasa-astronaut-aboard-space-station/" >🔗</a> **[NASA]** Idaho Students to Connect with NASA Astronaut Aboard Space Station
 - <a href="https://arstechnica.com/space/2025/01/elon-musk-were-going-straight-to-mars-the-moon-is-a-distraction/" >🔗</a> **[Arstechnica]** Elon Musk: “We’re going straight to Mars. The Moon is a distraction.”
@@ -100,7 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.nasa.gov/image-article/heather-seagren-coordinating-travel-for-stennis-employees/" >🔗</a> **[NASA]** Mission Possible: Coordinating Travel for NASA Employees
 - <a href="https://spacenews.com/the-other-space-control-who-does-what-in-the-national-security-space-enterprise/" >🔗</a> **[SpaceNews]** The other space control: who does what In the national security space enterprise
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/12/See_and_hear_three_years_of_solar_fireworks" >🔗</a> **[ESA]** See and hear three years of solar fireworks
-- <a href="https://europeanspaceflight.com/esa-targets-2035-for-second-mission-to-mars/" >🔗</a> **[European Spaceflight]** ESA Targets 2035 for Second Mission to Mars
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250103T190119">2025-01-03 19:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250103T193108">2025-01-03 19:31:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
