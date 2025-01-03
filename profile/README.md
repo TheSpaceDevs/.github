@@ -91,6 +91,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/aeronautics/flight-innovation/nasa-small-business-funding-enables-aircraft-inspection-by-drone/" >🔗</a> **[NASA]** NASA Small Business Funding Enables Aircraft Inspection by Drone
 - <a href="https://www.nasa.gov/news-release/nasa-to-host-media-call-highlighting-mars-sample-return-update/" >🔗</a> **[NASA]** NASA to Host Media Call Highlighting Mars Sample Return Update
 - <a href="https://science.nasa.gov/science-research/for-researchers/approval-to-exceed-gsa-lodging-for-lpsc-2025/" >🔗</a> **[NASA]** Approval to Exceed GSA Lodging for LPSC 2025
 - <a href="https://science.nasa.gov/science-research/earth-science/summary-of-the-third-annual-aeoip-workshop/" >🔗</a> **[NASA]** Summary of the Third Annual AEOIP Workshop
@@ -100,7 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://arstechnica.com/space/2025/01/elon-musk-were-going-straight-to-mars-the-moon-is-a-distraction/" >🔗</a> **[Arstechnica]** Elon Musk: “We’re going straight to Mars. The Moon is a distraction.”
 - <a href="https://science.nasa.gov/science-research/heliophysics/nasas-lexi-will-provide-x-ray-vision-of-earths-magnetosphere/" >🔗</a> **[NASA]** NASA’s LEXI Will Provide X-Ray Vision of Earth’s Magnetosphere
 - <a href="https://www.nasa.gov/news-release/nasa-noaa-to-announce-2024-global-temperatures-climate-conditions/" >🔗</a> **[NASA]** NASA, NOAA to Announce 2024 Global Temperatures, Climate Conditions
-- <a href="https://www.nasa.gov/centers-and-facilities/stennis/lagniappe-for-january-2025/" >🔗</a> **[NASA]** Lagniappe for January 2025
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250103T213110">2025-01-03 21:31:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250103T220121">2025-01-03 22:01:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
