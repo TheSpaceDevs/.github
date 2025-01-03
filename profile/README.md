@@ -91,6 +91,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/01/Pale_blue_supernova_dot" >🔗</a> **[ESA]** Pale blue (supernova) dot
 - <a href="https://spacepolicyonline.com/news/how-space-legislation-fared-in-the-118th-congress-and-a-look-ahead/" >🔗</a> **[SpacePolicyOnline.com]** How Space Legislation Fared in the 118th Congress and a Look Ahead
 - <a href="https://spaceflightnow.com/2025/01/03/live-coverage-spacex-to-launch-thuraya-4-ngs-telecommunications-satellite-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Thuraya 4-NGS telecommunications satellite on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spaceflightnow.com/2025/01/03/india-launches-its-first-on-orbit-docking-demonstration-in-5th-and-final-launch-of-2024/" >🔗</a> **[Spaceflight Now]** India launches its first on-orbit docking demonstration in 5th and final launch of 2024
@@ -100,7 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://arstechnica.com/space/2025/01/russia-just-launched-the-2000th-semyorka-rocket-its-both-a-triumph-and-tragedy/" >🔗</a> **[Arstechnica]** Russia just launched the 2,000th Semyorka rocket—it’s both a triumph and tragedy
 - <a href="https://spacenews.com/eutelsat-resolves-oneweb-leap-year-software-glitch-after-two-day-outage/" >🔗</a> **[SpaceNews]** Eutelsat resolves OneWeb leap year software glitch after two-day outage
 - <a href="https://europeanspaceflight.com/esa-director-general-reaffirms-geo-return-policy-as-fundamental/" >🔗</a> **[European Spaceflight]** ESA Director General Reaffirms Geo-Return Policy as “Fundamental”
-- <a href="https://spacenews.com/china-to-debut-new-long-march-and-commercial-rockets-in-2025/" >🔗</a> **[SpaceNews]** China to debut new Long March and commercial rockets in 2025
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250103T090135">2025-01-03 09:01:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250103T093200">2025-01-03 09:32:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
