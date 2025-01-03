@@ -91,6 +91,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/how-space-legislation-fared-in-the-118th-congress-and-a-look-ahead/" >🔗</a> **[SpacePolicyOnline.com]** How Space Legislation Fared in the 118th Congress and a Look Ahead
 - <a href="https://spaceflightnow.com/2025/01/03/live-coverage-spacex-to-launch-thuraya-4-ngs-telecommunications-satellite-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Thuraya 4-NGS telecommunications satellite on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spaceflightnow.com/2025/01/03/india-launches-its-first-on-orbit-docking-demonstration-in-5th-and-final-launch-of-2024/" >🔗</a> **[Spaceflight Now]** India launches its first on-orbit docking demonstration in 5th and final launch of 2024
 - <a href="https://science.nasa.gov/learning-resources/science-activation/nasa-workshops-culturally-inclusive-planetary-engagement-with-educators/" >🔗</a> **[NASA]** NASA Workshops Culturally Inclusive Planetary Engagement with Educators
@@ -100,7 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spacenews.com/eutelsat-resolves-oneweb-leap-year-software-glitch-after-two-day-outage/" >🔗</a> **[SpaceNews]** Eutelsat resolves OneWeb leap year software glitch after two-day outage
 - <a href="https://europeanspaceflight.com/esa-director-general-reaffirms-geo-return-policy-as-fundamental/" >🔗</a> **[European Spaceflight]** ESA Director General Reaffirms Geo-Return Policy as “Fundamental”
 - <a href="https://spacenews.com/china-to-debut-new-long-march-and-commercial-rockets-in-2025/" >🔗</a> **[SpaceNews]** China to debut new Long March and commercial rockets in 2025
-- <a href="https://spacenews.com/spacex-launch-surge-helps-set-new-global-launch-record-in-2024/" >🔗</a> **[SpaceNews]** SpaceX launch surge helps set new global launch record in 2024
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250103T040133">2025-01-03 04:01:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250103T043425">2025-01-03 04:34:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
