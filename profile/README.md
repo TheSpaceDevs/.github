@@ -91,6 +91,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/01/spacex-roundup-2024/" >🔗</a> **[NASASpaceflight]** SpaceX achieves record-breaking 2024, looks ahead to 2025
 - <a href="https://spacepolicyonline.com/news/johnson-reelected-as-speaker-of-the-house/" >🔗</a> **[SpacePolicyOnline.com]** Johnson Reelected as Speaker of the House
 - <a href="https://www.nasa.gov/aeronautics/flight-innovation/nasa-small-business-funding-enables-aircraft-inspection-by-drone/" >🔗</a> **[NASA]** NASA Small Business Funding Enables Aircraft Inspection by Drone
 - <a href="https://www.nasa.gov/news-release/nasa-to-host-media-call-highlighting-mars-sample-return-update/" >🔗</a> **[NASA]** NASA to Host Media Call Highlighting Mars Sample Return Update
@@ -100,7 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.nasa.gov/image-article/media-day-with-artemis-ii-crews/" >🔗</a> **[NASA]** Media Day with Artemis II Crews
 - <a href="https://www.nasa.gov/news-release/idaho-students-to-connect-with-nasa-astronaut-aboard-space-station/" >🔗</a> **[NASA]** Idaho Students to Connect with NASA Astronaut Aboard Space Station
 - <a href="https://arstechnica.com/space/2025/01/elon-musk-were-going-straight-to-mars-the-moon-is-a-distraction/" >🔗</a> **[Arstechnica]** Elon Musk: “We’re going straight to Mars. The Moon is a distraction.”
-- <a href="https://science.nasa.gov/science-research/heliophysics/nasas-lexi-will-provide-x-ray-vision-of-earths-magnetosphere/" >🔗</a> **[NASA]** NASA’s LEXI Will Provide X-Ray Vision of Earth’s Magnetosphere
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250103T230128">2025-01-03 23:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250103T233107">2025-01-03 23:31:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
