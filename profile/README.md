@@ -91,6 +91,8 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/science-research/for-researchers/approval-to-exceed-gsa-lodging-for-lpsc-2025/" >🔗</a> **[NASA]** Approval to Exceed GSA Lodging for LPSC 2025
+- <a href="https://science.nasa.gov/science-research/earth-science/summary-of-the-third-annual-aeoip-workshop/" >🔗</a> **[NASA]** Summary of the Third Annual AEOIP Workshop
 - <a href="https://spacenews.com/afcea-space-coast-chapter-spacecom-announce-strategic-agreement/" >🔗</a> **[SpaceNews]** AFCEA Space Coast Chapter & SpaceCom Announce Strategic Agreement
 - <a href="https://www.nasa.gov/image-article/media-day-with-artemis-ii-crews/" >🔗</a> **[NASA]** Media Day with Artemis II Crews
 - <a href="https://www.nasa.gov/news-release/idaho-students-to-connect-with-nasa-astronaut-aboard-space-station/" >🔗</a> **[NASA]** Idaho Students to Connect with NASA Astronaut Aboard Space Station
@@ -99,8 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-noaa-to-announce-2024-global-temperatures-climate-conditions/" >🔗</a> **[NASA]** NASA, NOAA to Announce 2024 Global Temperatures, Climate Conditions
 - <a href="https://www.nasa.gov/centers-and-facilities/stennis/lagniappe-for-january-2025/" >🔗</a> **[NASA]** Lagniappe for January 2025
 - <a href="https://www.nasa.gov/image-article/heather-seagren-coordinating-travel-for-stennis-employees/" >🔗</a> **[NASA]** Mission Possible: Coordinating Travel for NASA Employees
-- <a href="https://spacenews.com/the-other-space-control-who-does-what-in-the-national-security-space-enterprise/" >🔗</a> **[SpaceNews]** The other space control: who does what In the national security space enterprise
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/12/See_and_hear_three_years_of_solar_fireworks" >🔗</a> **[ESA]** See and hear three years of solar fireworks
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250103T200130">2025-01-03 20:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250103T203150">2025-01-03 20:31:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
