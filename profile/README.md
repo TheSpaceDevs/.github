@@ -91,16 +91,16 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/01/elon-musk-were-going-straight-to-mars-the-moon-is-a-distraction/" >🔗</a> **[Arstechnica]** Elon Musk: “We’re going straight to Mars. The Moon is a distraction.”
+- <a href="https://science.nasa.gov/science-research/heliophysics/nasas-lexi-will-provide-x-ray-vision-of-earths-magnetosphere/" >🔗</a> **[NASA]** NASA’s LEXI Will Provide X-Ray Vision of Earth’s Magnetosphere
 - <a href="https://www.nasa.gov/news-release/nasa-noaa-to-announce-2024-global-temperatures-climate-conditions/" >🔗</a> **[NASA]** NASA, NOAA to Announce 2024 Global Temperatures, Climate Conditions
 - <a href="https://www.nasa.gov/centers-and-facilities/stennis/lagniappe-for-january-2025/" >🔗</a> **[NASA]** Lagniappe for January 2025
 - <a href="https://www.nasa.gov/image-article/heather-seagren-coordinating-travel-for-stennis-employees/" >🔗</a> **[NASA]** Mission Possible: Coordinating Travel for NASA Employees
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/12/See_and_hear_three_years_of_solar_fireworks" >🔗</a> **[ESA]** See and hear three years of solar fireworks
 - <a href="https://spacenews.com/the-other-space-control-who-does-what-in-the-national-security-space-enterprise/" >🔗</a> **[SpaceNews]** The other space control: who does what In the national security space enterprise
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/12/See_and_hear_three_years_of_solar_fireworks" >🔗</a> **[ESA]** See and hear three years of solar fireworks
 - <a href="https://europeanspaceflight.com/esa-targets-2035-for-second-mission-to-mars/" >🔗</a> **[European Spaceflight]** ESA Targets 2035 for Second Mission to Mars
 - <a href="https://spacenews.com/india-eyes-record-year-for-space-with-10-planned-launches/" >🔗</a> **[SpaceNews]** India eyes record year for space with 10 planned launches
 - <a href="https://arstechnica.com/space/2025/01/rocket-report-avio-named-top-european-launch-firm-new-glenn-may-launch-soon/" >🔗</a> **[Arstechnica]** Rocket Report: Avio named top European launch firm; New Glenn may launch soon
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/01/Robot_rock_at_LUNA" >🔗</a> **[ESA]** Robot rock at LUNA
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/01/Pale_blue_supernova_dot" >🔗</a> **[ESA]** Pale blue (supernova) dot
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250103T170121">2025-01-03 17:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250103T173143">2025-01-03 17:31:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
