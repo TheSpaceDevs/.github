@@ -91,6 +91,8 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-noaa-to-announce-2024-global-temperatures-climate-conditions/" >🔗</a> **[NASA]** NASA, NOAA to Announce 2024 Global Temperatures, Climate Conditions
+- <a href="https://www.nasa.gov/centers-and-facilities/stennis/lagniappe-for-january-2025/" >🔗</a> **[NASA]** Lagniappe for January 2025
 - <a href="https://www.nasa.gov/image-article/heather-seagren-coordinating-travel-for-stennis-employees/" >🔗</a> **[NASA]** Mission Possible: Coordinating Travel for NASA Employees
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/12/See_and_hear_three_years_of_solar_fireworks" >🔗</a> **[ESA]** See and hear three years of solar fireworks
 - <a href="https://spacenews.com/the-other-space-control-who-does-what-in-the-national-security-space-enterprise/" >🔗</a> **[SpaceNews]** The other space control: who does what In the national security space enterprise
@@ -99,8 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://arstechnica.com/space/2025/01/rocket-report-avio-named-top-european-launch-firm-new-glenn-may-launch-soon/" >🔗</a> **[Arstechnica]** Rocket Report: Avio named top European launch firm; New Glenn may launch soon
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/01/Robot_rock_at_LUNA" >🔗</a> **[ESA]** Robot rock at LUNA
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/01/Pale_blue_supernova_dot" >🔗</a> **[ESA]** Pale blue (supernova) dot
-- <a href="https://spacepolicyonline.com/news/how-space-legislation-fared-in-the-118th-congress-and-a-look-ahead/" >🔗</a> **[SpacePolicyOnline.com]** How Space Legislation Fared in the 118th Congress and a Look Ahead
-- <a href="https://spaceflightnow.com/2025/01/03/live-coverage-spacex-to-launch-thuraya-4-ngs-telecommunications-satellite-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Thuraya 4-NGS telecommunications satellite on Falcon 9 rocket from Cape Canaveral
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250103T160131">2025-01-03 16:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250103T163533">2025-01-03 16:35:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
