@@ -91,6 +91,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-to-host-media-call-highlighting-mars-sample-return-update/" >🔗</a> **[NASA]** NASA to Host Media Call Highlighting Mars Sample Return Update
 - <a href="https://science.nasa.gov/science-research/for-researchers/approval-to-exceed-gsa-lodging-for-lpsc-2025/" >🔗</a> **[NASA]** Approval to Exceed GSA Lodging for LPSC 2025
 - <a href="https://science.nasa.gov/science-research/earth-science/summary-of-the-third-annual-aeoip-workshop/" >🔗</a> **[NASA]** Summary of the Third Annual AEOIP Workshop
 - <a href="https://spacenews.com/afcea-space-coast-chapter-spacecom-announce-strategic-agreement/" >🔗</a> **[SpaceNews]** AFCEA Space Coast Chapter & SpaceCom Announce Strategic Agreement
@@ -100,7 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://science.nasa.gov/science-research/heliophysics/nasas-lexi-will-provide-x-ray-vision-of-earths-magnetosphere/" >🔗</a> **[NASA]** NASA’s LEXI Will Provide X-Ray Vision of Earth’s Magnetosphere
 - <a href="https://www.nasa.gov/news-release/nasa-noaa-to-announce-2024-global-temperatures-climate-conditions/" >🔗</a> **[NASA]** NASA, NOAA to Announce 2024 Global Temperatures, Climate Conditions
 - <a href="https://www.nasa.gov/centers-and-facilities/stennis/lagniappe-for-january-2025/" >🔗</a> **[NASA]** Lagniappe for January 2025
-- <a href="https://www.nasa.gov/image-article/heather-seagren-coordinating-travel-for-stennis-employees/" >🔗</a> **[NASA]** Mission Possible: Coordinating Travel for NASA Employees
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250103T210119">2025-01-03 21:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250103T213110">2025-01-03 21:31:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
