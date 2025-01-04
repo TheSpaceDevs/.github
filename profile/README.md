@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/swedish-military-to-serve-as-anchor-customer-for-esrange-space-center/" >🔗</a> **[European Spaceflight]** Swedish Military to Serve as Anchor Customer for Esrange Space Center?
 - <a href="https://spacenews.com/spacex-launches-uaes-thuraya-4-mobile-connectivity-satellite/" >🔗</a> **[SpaceNews]** SpaceX launches UAE’s Thuraya-4 mobile connectivity satellite
 - <a href="https://spacenews.com/nasa-sees-strong-support-for-strategy-to-maintain-continuous-human-presence-in-leo/" >🔗</a> **[SpaceNews]** NASA sees strong support for strategy to maintain continuous human presence in LEO
 - <a href="https://www.nasaspaceflight.com/2025/01/spacex-roundup-2024/" >🔗</a> **[NASASpaceflight]** SpaceX achieves record-breaking 2024, looks ahead to 2025
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/science-research/for-researchers/approval-to-exceed-gsa-lodging-for-lpsc-2025/" >🔗</a> **[NASA]** Approval to Exceed GSA Lodging for LPSC 2025
 - <a href="https://science.nasa.gov/science-research/earth-science/summary-of-the-third-annual-aeoip-workshop/" >🔗</a> **[NASA]** Summary of the Third Annual AEOIP Workshop
 - <a href="https://spacenews.com/afcea-space-coast-chapter-spacecom-announce-strategic-agreement/" >🔗</a> **[SpaceNews]** AFCEA Space Coast Chapter & SpaceCom Announce Strategic Agreement
-- <a href="https://www.nasa.gov/image-article/media-day-with-artemis-ii-crews/" >🔗</a> **[NASA]** Media Day with Artemis II Crews
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250104T203110">2025-01-04 20:31:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250104T210126">2025-01-04 21:01:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
