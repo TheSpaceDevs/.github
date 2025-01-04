@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacex-to-test-vehicle-upgrades-and-payload-deployment-on-next-starship-flight/" >🔗</a> **[SpaceNews]** SpaceX to test vehicle upgrades and payload deployment on next Starship flight
 - <a href="https://europeanspaceflight.com/swedish-military-to-serve-as-anchor-customer-for-esrange-space-center/" >🔗</a> **[European Spaceflight]** Swedish Military to Serve as Anchor Customer for Esrange Space Center?
 - <a href="https://spacenews.com/spacex-launches-uaes-thuraya-4-mobile-connectivity-satellite/" >🔗</a> **[SpaceNews]** SpaceX launches UAE’s Thuraya-4 mobile connectivity satellite
 - <a href="https://spacenews.com/nasa-sees-strong-support-for-strategy-to-maintain-continuous-human-presence-in-leo/" >🔗</a> **[SpaceNews]** NASA sees strong support for strategy to maintain continuous human presence in LEO
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-to-host-media-call-highlighting-mars-sample-return-update/" >🔗</a> **[NASA]** NASA to Host Media Call Highlighting Mars Sample Return Update
 - <a href="https://science.nasa.gov/science-research/for-researchers/approval-to-exceed-gsa-lodging-for-lpsc-2025/" >🔗</a> **[NASA]** Approval to Exceed GSA Lodging for LPSC 2025
 - <a href="https://science.nasa.gov/science-research/earth-science/summary-of-the-third-annual-aeoip-workshop/" >🔗</a> **[NASA]** Summary of the Third Annual AEOIP Workshop
-- <a href="https://spacenews.com/afcea-space-coast-chapter-spacecom-announce-strategic-agreement/" >🔗</a> **[SpaceNews]** AFCEA Space Coast Chapter & SpaceCom Announce Strategic Agreement
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250104T230124">2025-01-04 23:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250104T233111">2025-01-04 23:31:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
