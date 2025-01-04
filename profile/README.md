@@ -20,20 +20,20 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Thuraya 4-NGS**. It is scheduled to be launched by *SpaceX*
+**Falcon 9 Block 5 | Starlink Group 6-71**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
 from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral SFS, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250104T012700">2025-01-04 01:27:00 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250106T164400">2025-01-06 16:44:00 UTC</a>.  Until
 then, this pad will have been used for 280
 out of 994 launches from this location. The launch status is currently
-*Go* 🟩 . The mission type is
+*TBC* 🟨 . The mission type is
 *Communications* and the payload will be injected
-into *a Geostationary Transfer Orbit
-(GTO)*.
+into *a Low Earth Orbit
+(LEO)*.
 <br>
 <blockquote>
-  Thuraya 4-NGS is a communication satellite being built by Airbus Defense and Space for the UAE based Yahsat. Based on the all-electric Airbus Eurostar-Neo Platform, Thuraya 4-NGS will incorporate a large 12-meter L-band antenna and a payload with on-board processing providing advanced routing flexibility of up to 3200 channels with dynamic power allocation over a large number of spot beams.
+  A batch of satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
@@ -46,7 +46,6 @@ into *a Geostationary Transfer Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250104T012700">2025-01-04 01:27:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Thuraya 4-NGS&location=Cape Canaveral SFS, FL, USA&dates=20250104T012700Z%2F20250104T052700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Thuraya 4-NGS** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250106T164400">2025-01-06 16:44:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-71&location=Cape Canaveral SFS, FL, USA&dates=20250106T164400Z%2F20250106T211500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-71** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250106T195100">2025-01-06 19:51:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 3B/E | Unknown Payload&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20250106T195100Z%2F20250106T202400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 3B/E | Unknown Payload** from Xichang Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250107T155100">2025-01-07 15:51:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-11&location=Kennedy Space Center, FL, USA&dates=20250107T155100Z%2F20250107T202200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-11** from Kennedy Space Center, FL, USA.
@@ -56,6 +55,7 @@ into *a Geostationary Transfer Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250110T220000">2025-01-10 22:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Starship | Flight 7&location=SpaceX Starbase, TX, USA&dates=20250110T220000Z%2F20250110T233700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starship | Flight 7** from SpaceX Starbase, TX, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250128T040000">2025-01-28 04:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SpainSat NG I&location=Cape Canaveral SFS, FL, USA&dates=20250128T040000Z%2F20250128T040000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | SpainSat NG I** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250131T000000">2025-01-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Kinéis 16-20&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20250131T000000Z%2F20250131T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Kinéis 16-20** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250131T000000">2025-01-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Blue Ghost Lunar Lander Mission 1 &amp; Hakuto-R M2 “Resilience”&location=Kennedy Space Center, FL, USA&dates=20250131T000000Z%2F20250131T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Blue Ghost Lunar Lander Mission 1 & Hakuto-R M2 “Resilience”** from Kennedy Space Center, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -106,15 +106,11 @@ into *a Geostationary Transfer Orbit
 ### Launch-related News 🚀
 
 - <a href="https://www.nasaspaceflight.com/2024/12/launch-roundup-123024/" >🔗</a> **[NASASpaceflight]** Launch Roundup: New Glenn set for maiden flight, Falcon 9 missions end and start the year
-- <a href="https://www.nasaspaceflight.com/2024/12/launch-roundup-122324/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX, China, and Russia maintain busy launch manifests through the holidays
-- <a href="https://www.nasaspaceflight.com/2024/12/launch-roundup-121624/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX plans for five customer missions; Rocket Lab to launch mission for Synspective
-- <a href="https://www.teslarati.com/spacex-falcon-9-geostationary-launch-contract-yahsat/" >🔗</a> **[Teslarati]** SpaceX Falcon 9 wins second geostationary commsat launch contract of 2021
-- <a href="https://spacenews.com/spacex-wins-contract-to-launch-yahsats-thuraya-4-ngs-satellite/" >🔗</a> **[SpaceNews]** SpaceX wins contract to launch Yahsat’s Thuraya 4-NGS satellite
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250104T004535">2025-01-04 00:45:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250104T020105">2025-01-04 02:01:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
