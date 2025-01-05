@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/esa-to-use-launch-competition-to-test-georeturn-reforms/" >🔗</a> **[SpaceNews]** ESA to use launch competition to test georeturn reforms
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-january-5-12-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy January 5-12, 2025
 - <a href="https://spacenews.com/spacex-to-test-vehicle-upgrades-and-payload-deployment-on-next-starship-flight/" >🔗</a> **[SpaceNews]** SpaceX to test vehicle upgrades and payload deployment on next Starship flight
 - <a href="https://europeanspaceflight.com/swedish-military-to-serve-as-anchor-customer-for-esrange-space-center/" >🔗</a> **[European Spaceflight]** Swedish Military to Serve as Anchor Customer for Esrange Space Center?
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/johnson-reelected-as-speaker-of-the-house/" >🔗</a> **[SpacePolicyOnline.com]** Johnson Reelected as Speaker of the House
 - <a href="https://www.nasa.gov/aeronautics/flight-innovation/nasa-small-business-funding-enables-aircraft-inspection-by-drone/" >🔗</a> **[NASA]** NASA Small Business Funding Enables Aircraft Inspection by Drone
 - <a href="https://www.nasa.gov/news-release/nasa-to-host-media-call-highlighting-mars-sample-return-update/" >🔗</a> **[NASA]** NASA to Host Media Call Highlighting Mars Sample Return Update
-- <a href="https://science.nasa.gov/science-research/for-researchers/approval-to-exceed-gsa-lodging-for-lpsc-2025/" >🔗</a> **[NASA]** Approval to Exceed GSA Lodging for LPSC 2025
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250105T173121">2025-01-05 17:31:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250105T180131">2025-01-05 18:01:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
