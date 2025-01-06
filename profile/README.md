@@ -91,7 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacescout.info/2025/01/nasa-chooses-nuclear-fission-power-for-humans-on-mars/" >🔗</a> **[Space Scout]** NASA Chooses Nuclear Fission Power for Humans on Mars
 - <a href="https://www.nasa.gov/centers-and-facilities/nssc/small-business-innovation-research-sbir-and-small-business-technology-transfer-sttr/" >🔗</a> **[NASA]** Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR)
+- <a href="https://spaceflightnow.com/2025/01/06/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-4/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch first dedicated Starlink mission of 2025
 - <a href="https://spacenews.com/trump-2-0-how-will-the-space-sector-change/" >🔗</a> **[SpaceNews]** Trump 2.0 – How Will the Space Sector Change?
 - <a href="https://www.nasa.gov/centers-and-facilities/nssc/travel/" >🔗</a> **[NASA]** Travel
 - <a href="https://europeanspaceflight.com/italy-set-to-spend-e1-5b-on-secure-comms-deal-with-spacex/" >🔗</a> **[European Spaceflight]** Italy Set to Spend €1.5B on Secure Comms Deal with SpaceX
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/BepiColombo_to_swing_by_Mercury_for_the_sixth_time" >🔗</a> **[ESA]** BepiColombo to swing by Mercury for the sixth time
 - <a href="https://www.nasa.gov/centers-and-facilities/high-school-aerospace-scholars-launches-dreams-inspires-the-artemis-generation/" >🔗</a> **[NASA]** High School Aerospace Scholars Launches Dreams, Inspires the Artemis Generation
 - <a href="https://www.nasaspaceflight.com/2025/01/mro-insight-2024/" >🔗</a> **[NASASpaceflight]** MRO observes dormant InSight lander; collects data on Martian dust movements
-- <a href="https://spacenews.com/esa-to-use-launch-competition-to-test-georeturn-reforms/" >🔗</a> **[SpaceNews]** ESA to use launch competition to test georeturn reforms
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-january-5-12-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy January 5-12, 2025
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250106T160138">2025-01-06 16:01:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250106T163556">2025-01-06 16:35:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
