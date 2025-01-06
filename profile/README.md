@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/soil-remediation-at-white-sands-test-facility/" >🔗</a> **[NASA]** Soil Remediation at White Sands Test Facility
 - <a href="https://arstechnica.com/space/2025/01/outgoing-nasa-administrator-urges-incoming-leaders-to-stick-with-artemis-plan/" >🔗</a> **[Arstechnica]** Outgoing NASA administrator urges incoming leaders to stick with Artemis plan
 - <a href="https://www.spacescout.info/2025/01/nasa-chooses-nuclear-fission-power-for-humans-on-mars/" >🔗</a> **[Space Scout]** NASA Chooses Nuclear Fission Power for Humans on Mars
 - <a href="https://www.nasa.gov/centers-and-facilities/nssc/small-business-innovation-research-sbir-and-small-business-technology-transfer-sttr/" >🔗</a> **[NASA]** Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR)
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://europeanspaceflight.com/italy-set-to-spend-e1-5b-on-secure-comms-deal-with-spacex/" >🔗</a> **[European Spaceflight]** Italy Set to Spend €1.5B on Secure Comms Deal with SpaceX
 - <a href="https://spacenews.com/to-integrate-commercial-space-services-share-spectrum/" >🔗</a> **[SpaceNews]** To integrate commercial space services, share spectrum!
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/BepiColombo_to_swing_by_Mercury_for_the_sixth_time" >🔗</a> **[ESA]** BepiColombo to swing by Mercury for the sixth time
-- <a href="https://www.nasa.gov/centers-and-facilities/high-school-aerospace-scholars-launches-dreams-inspires-the-artemis-generation/" >🔗</a> **[NASA]** High School Aerospace Scholars Launches Dreams, Inspires the Artemis Generation
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250106T180138">2025-01-06 18:01:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250106T183609">2025-01-06 18:36:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
