@@ -20,27 +20,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 6-71**. It is scheduled to be launched by *SpaceX*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral SFS, FL, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250106T164400">2025-01-06 16:44:00 UTC</a>.  Until
-then, this pad will have been used for 281
-out of 995 launches from this location. The launch status is currently
+**Long March 3B/E | Unknown Payload**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Xichang_Satellite_Launch_Center">Launch Complex 3 (LC-3/LA-1)</a>, Xichang Satellite Launch Center, People's Republic of China*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250106T195100">2025-01-06 19:51:00 UTC</a>.  Until
+then, this pad will have been used for 96
+out of 217 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Communications* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+*Unknown* and the payload will be injected
+into *an Unknown
+(N/A)*.
 <br>
 <blockquote>
-  A batch of 24 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  Details TBD.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+  <a href="https://en.wikipedia.org/wiki/Long_March_3B" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
+  <a href="https://www.google.com/maps?q=28.247209,102.02917" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/01/outgoing-nasa-administrator-urges-incoming-leaders-to-stick-with-artemis-plan/" >🔗</a> **[Arstechnica]** Outgoing NASA administrator urges incoming leaders to stick with Artemis plan
 - <a href="https://www.spacescout.info/2025/01/nasa-chooses-nuclear-fission-power-for-humans-on-mars/" >🔗</a> **[Space Scout]** NASA Chooses Nuclear Fission Power for Humans on Mars
 - <a href="https://www.nasa.gov/centers-and-facilities/nssc/small-business-innovation-research-sbir-and-small-business-technology-transfer-sttr/" >🔗</a> **[NASA]** Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR)
 - <a href="https://spaceflightnow.com/2025/01/06/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-4/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch first dedicated Starlink mission of 2025
@@ -99,17 +100,15 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/to-integrate-commercial-space-services-share-spectrum/" >🔗</a> **[SpaceNews]** To integrate commercial space services, share spectrum!
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/BepiColombo_to_swing_by_Mercury_for_the_sixth_time" >🔗</a> **[ESA]** BepiColombo to swing by Mercury for the sixth time
 - <a href="https://www.nasa.gov/centers-and-facilities/high-school-aerospace-scholars-launches-dreams-inspires-the-artemis-generation/" >🔗</a> **[NASA]** High School Aerospace Scholars Launches Dreams, Inspires the Artemis Generation
-- <a href="https://www.nasaspaceflight.com/2025/01/mro-insight-2024/" >🔗</a> **[NASASpaceflight]** MRO observes dormant InSight lander; collects data on Martian dust movements
 
 
 ### Launch-related News 🚀
 
-- <a href="https://www.nasaspaceflight.com/2024/12/launch-roundup-123024/" >🔗</a> **[NASASpaceflight]** Launch Roundup: New Glenn set for maiden flight, Falcon 9 missions end and start the year
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250106T170125">2025-01-06 17:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250106T173222">2025-01-06 17:32:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
