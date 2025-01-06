@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/high-school-aerospace-scholars-launches-dreams-inspires-the-artemis-generation/" >🔗</a> **[NASA]** High School Aerospace Scholars Launches Dreams, Inspires the Artemis Generation
 - <a href="https://www.nasaspaceflight.com/2025/01/mro-insight-2024/" >🔗</a> **[NASASpaceflight]** MRO observes dormant InSight lander; collects data on Martian dust movements
 - <a href="https://spacenews.com/esa-to-use-launch-competition-to-test-georeturn-reforms/" >🔗</a> **[SpaceNews]** ESA to use launch competition to test georeturn reforms
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-january-5-12-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy January 5-12, 2025
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/nasa-sees-strong-support-for-strategy-to-maintain-continuous-human-presence-in-leo/" >🔗</a> **[SpaceNews]** NASA sees strong support for strategy to maintain continuous human presence in LEO
 - <a href="https://www.nasaspaceflight.com/2025/01/spacex-roundup-2024/" >🔗</a> **[NASASpaceflight]** SpaceX achieves record-breaking 2024, looks ahead to 2025
 - <a href="https://spacepolicyonline.com/news/johnson-reelected-as-speaker-of-the-house/" >🔗</a> **[SpacePolicyOnline.com]** Johnson Reelected as Speaker of the House
-- <a href="https://www.nasa.gov/aeronautics/flight-innovation/nasa-small-business-funding-enables-aircraft-inspection-by-drone/" >🔗</a> **[NASA]** NASA Small Business Funding Enables Aircraft Inspection by Drone
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250106T110122">2025-01-06 11:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250106T113103">2025-01-06 11:31:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
