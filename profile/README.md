@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-launches-shijian-25-satellite-to-test-on-orbit-refueling-and-mission-extension-technologies/" >🔗</a> **[SpaceNews]** China launches Shijian-25 satellite to test on-orbit refueling and mission extension technologies
+- <a href="https://www.nasaspaceflight.com/2025/01/launch-roundup-010625/" >🔗</a> **[NASASpaceflight]** Launch Roundup: New Glenn and Starship headline first full week of 2025
 - <a href="https://spacenews.com/kratos-wins-1-45-billion-pentagon-contract-for-hypersonic-testing/" >🔗</a> **[SpaceNews]** Kratos wins $1.45 billion Pentagon contract for hypersonic testing
 - <a href="https://www.nasa.gov/missions/nisar/how-us-indian-nisar-satellite-will-offer-unique-window-on-earth/" >🔗</a> **[NASA]** How US-Indian NISAR Satellite Will Offer Unique Window on Earth
 - <a href="https://science.nasa.gov/solar-system/skywatching/the-next-full-moon-is-the-wolf-moon/" >🔗</a> **[NASA]** The Next Full Moon is the Wolf Moon
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/defying-gravity/" >🔗</a> **[NASA]** Defying Gravity
 - <a href="https://www.nasa.gov/general/soil-remediation-at-white-sands-test-facility/" >🔗</a> **[NASA]** Soil Remediation at White Sands Test Facility
 - <a href="https://arstechnica.com/space/2025/01/outgoing-nasa-administrator-urges-incoming-leaders-to-stick-with-artemis-plan/" >🔗</a> **[Arstechnica]** Outgoing NASA administrator urges incoming leaders to stick with Artemis plan
-- <a href="https://www.spacescout.info/2025/01/nasa-chooses-nuclear-fission-power-for-humans-on-mars/" >🔗</a> **[Space Scout]** NASA Chooses Nuclear Fission Power for Humans on Mars
-- <a href="https://www.nasa.gov/centers-and-facilities/nssc/small-business-innovation-research-sbir-and-small-business-technology-transfer-sttr/" >🔗</a> **[NASA]** Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR)
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250106T230119">2025-01-06 23:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250106T233109">2025-01-06 23:31:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
