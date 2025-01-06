@@ -91,7 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/kratos-wins-1-45-billion-pentagon-contract-for-hypersonic-testing/" >🔗</a> **[SpaceNews]** Kratos wins $1.45 billion Pentagon contract for hypersonic testing
 - <a href="https://www.nasa.gov/missions/nisar/how-us-indian-nisar-satellite-will-offer-unique-window-on-earth/" >🔗</a> **[NASA]** How US-Indian NISAR Satellite Will Offer Unique Window on Earth
+- <a href="https://science.nasa.gov/solar-system/skywatching/the-next-full-moon-is-the-wolf-moon/" >🔗</a> **[NASA]** The Next Full Moon is the Wolf Moon
 - <a href="https://www.nasa.gov/missions/nasa-names-adam-schlesinger-as-commercial-lunar-payload-services-project-manager/" >🔗</a> **[NASA]** NASA Names Adam Schlesinger as Commercial Lunar Payload Services Project Manager
 - <a href="https://spacenews.com/sierra-space-ceo-departs/" >🔗</a> **[SpaceNews]** Sierra Space CEO departs
 - <a href="https://www.nasa.gov/image-article/defying-gravity/" >🔗</a> **[NASA]** Defying Gravity
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2025/01/outgoing-nasa-administrator-urges-incoming-leaders-to-stick-with-artemis-plan/" >🔗</a> **[Arstechnica]** Outgoing NASA administrator urges incoming leaders to stick with Artemis plan
 - <a href="https://www.spacescout.info/2025/01/nasa-chooses-nuclear-fission-power-for-humans-on-mars/" >🔗</a> **[Space Scout]** NASA Chooses Nuclear Fission Power for Humans on Mars
 - <a href="https://www.nasa.gov/centers-and-facilities/nssc/small-business-innovation-research-sbir-and-small-business-technology-transfer-sttr/" >🔗</a> **[NASA]** Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR)
-- <a href="https://spaceflightnow.com/2025/01/06/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-4/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch first dedicated Starlink mission of 2025
-- <a href="https://spacenews.com/trump-2-0-how-will-the-space-sector-change/" >🔗</a> **[SpaceNews]** Trump 2.0 – How Will the Space Sector Change?
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250106T220124">2025-01-06 22:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250106T223326">2025-01-06 22:33:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
