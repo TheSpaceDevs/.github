@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/nssc/small-business-innovation-research-sbir-and-small-business-technology-transfer-sttr/" >🔗</a> **[NASA]** Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR)
+- <a href="https://spacenews.com/trump-2-0-how-will-the-space-sector-change/" >🔗</a> **[SpaceNews]** Trump 2.0 – How Will the Space Sector Change?
+- <a href="https://www.nasa.gov/centers-and-facilities/nssc/travel/" >🔗</a> **[NASA]** Travel
 - <a href="https://europeanspaceflight.com/italy-set-to-spend-e1-5b-on-secure-comms-deal-with-spacex/" >🔗</a> **[European Spaceflight]** Italy Set to Spend €1.5B on Secure Comms Deal with SpaceX
 - <a href="https://spacenews.com/to-integrate-commercial-space-services-share-spectrum/" >🔗</a> **[SpaceNews]** To integrate commercial space services, share spectrum!
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/BepiColombo_to_swing_by_Mercury_for_the_sixth_time" >🔗</a> **[ESA]** BepiColombo to swing by Mercury for the sixth time
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2025/01/mro-insight-2024/" >🔗</a> **[NASASpaceflight]** MRO observes dormant InSight lander; collects data on Martian dust movements
 - <a href="https://spacenews.com/esa-to-use-launch-competition-to-test-georeturn-reforms/" >🔗</a> **[SpaceNews]** ESA to use launch competition to test georeturn reforms
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-january-5-12-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy January 5-12, 2025
-- <a href="https://spacenews.com/spacex-to-test-vehicle-upgrades-and-payload-deployment-on-next-starship-flight/" >🔗</a> **[SpaceNews]** SpaceX to test vehicle upgrades and payload deployment on next Starship flight
-- <a href="https://europeanspaceflight.com/swedish-military-to-serve-as-anchor-customer-for-esrange-space-center/" >🔗</a> **[European Spaceflight]** Swedish Military to Serve as Anchor Customer for Esrange Space Center?
-- <a href="https://spacenews.com/spacex-launches-uaes-thuraya-4-mobile-connectivity-satellite/" >🔗</a> **[SpaceNews]** SpaceX launches UAE’s Thuraya-4 mobile connectivity satellite
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250106T150130">2025-01-06 15:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250106T153156">2025-01-06 15:31:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
