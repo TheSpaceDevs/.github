@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/BepiColombo_to_swing_by_Mercury_for_the_sixth_time" >🔗</a> **[ESA]** BepiColombo to swing by Mercury for the sixth time
 - <a href="https://www.nasa.gov/centers-and-facilities/high-school-aerospace-scholars-launches-dreams-inspires-the-artemis-generation/" >🔗</a> **[NASA]** High School Aerospace Scholars Launches Dreams, Inspires the Artemis Generation
 - <a href="https://www.nasaspaceflight.com/2025/01/mro-insight-2024/" >🔗</a> **[NASASpaceflight]** MRO observes dormant InSight lander; collects data on Martian dust movements
 - <a href="https://spacenews.com/esa-to-use-launch-competition-to-test-georeturn-reforms/" >🔗</a> **[SpaceNews]** ESA to use launch competition to test georeturn reforms
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/spacex-launches-uaes-thuraya-4-mobile-connectivity-satellite/" >🔗</a> **[SpaceNews]** SpaceX launches UAE’s Thuraya-4 mobile connectivity satellite
 - <a href="https://spacenews.com/nasa-sees-strong-support-for-strategy-to-maintain-continuous-human-presence-in-leo/" >🔗</a> **[SpaceNews]** NASA sees strong support for strategy to maintain continuous human presence in LEO
 - <a href="https://www.nasaspaceflight.com/2025/01/spacex-roundup-2024/" >🔗</a> **[NASASpaceflight]** SpaceX achieves record-breaking 2024, looks ahead to 2025
-- <a href="https://spacepolicyonline.com/news/johnson-reelected-as-speaker-of-the-house/" >🔗</a> **[SpacePolicyOnline.com]** Johnson Reelected as Speaker of the House
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250106T130606">2025-01-06 13:06:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250106T133358">2025-01-06 13:33:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
