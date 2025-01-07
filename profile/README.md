@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-emphasizes-role-of-the-moon-as-testbed-for-future-human-mars-missions/" >🔗</a> **[SpaceNews]** NASA emphasizes role of the moon as testbed for future human Mars missions
+- <a href="https://spacenews.com/mark-boggett-seraphim-space-commercial-space-transformers/" >🔗</a> **[SpaceNews]** Mark Boggett, Seraphim Space – Commercial Space Transformers
+- <a href="https://arstechnica.com/space/2025/01/annual-power-ranking-of-us-launch-companies-finds-a-shake-up-at-the-bottom/" >🔗</a> **[Arstechnica]** Annual power ranking of US launch companies finds a shake-up at the bottom
 - <a href="https://spacenews.com/interstellar-and-toyota-forge-strategic-partnership/" >🔗</a> **[SpaceNews]** Interstellar and Toyota forge strategic partnership
 - <a href="https://spacenews.com/ast-spacemobile-strikes-spectrum-deal-amid-ligado-networks-bankruptcy/" >🔗</a> **[SpaceNews]** AST SpaceMobile strikes spectrum deal amid Ligado Networks bankruptcy
 - <a href="https://spacenews.com/china-launches-shijian-25-satellite-to-test-on-orbit-refueling-and-mission-extension-technologies/" >🔗</a> **[SpaceNews]** China launches Shijian-25 satellite to test on-orbit refueling and mission extension technologies
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/kratos-wins-1-45-billion-pentagon-contract-for-hypersonic-testing/" >🔗</a> **[SpaceNews]** Kratos wins $1.45 billion Pentagon contract for hypersonic testing
 - <a href="https://www.nasa.gov/missions/nisar/how-us-indian-nisar-satellite-will-offer-unique-window-on-earth/" >🔗</a> **[NASA]** How US-Indian NISAR Satellite Will Offer Unique Window on Earth
 - <a href="https://science.nasa.gov/solar-system/skywatching/the-next-full-moon-is-the-wolf-moon/" >🔗</a> **[NASA]** The Next Full Moon is the Wolf Moon
-- <a href="https://www.nasa.gov/missions/nasa-names-adam-schlesinger-as-commercial-lunar-payload-services-project-manager/" >🔗</a> **[NASA]** NASA Names Adam Schlesinger as Commercial Lunar Payload Services Project Manager
-- <a href="https://spacenews.com/sierra-space-ceo-departs/" >🔗</a> **[SpaceNews]** Sierra Space CEO departs
-- <a href="https://www.nasa.gov/image-article/defying-gravity/" >🔗</a> **[NASA]** Defying Gravity
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250107T120145">2025-01-07 12:01:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250107T124248">2025-01-07 12:42:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
