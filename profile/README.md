@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-to-explore-two-landing-options-for-returning-samples-from-mars/" >🔗</a> **[NASA]** NASA to Explore Two Landing Options for Returning Samples from Mars
+- <a href="https://science.nasa.gov/science-research/earth-science/aas-hyperwall-schedule/" >🔗</a> **[NASA]** AAS Hyperwall Schedule
+- <a href="https://spaceflightnow.com/2025/01/07/nasa-to-announce-new-path-forward-on-mars-sample-return-mission/" >🔗</a> **[Spaceflight Now]** NASA to announce new path forward on Mars Sample Return mission
+- <a href="https://www.nasa.gov/general/2024-ai-use-cases/" >🔗</a> **[NASA]** NASA’s AI Use Cases: Advancing Space Exploration with Responsibility
 - <a href="https://www.nasa.gov/aeronautics/nasa-kicks-off-testing-campaign-for-remotely-piloted-cargo-flights/" >🔗</a> **[NASA]** NASA Kicks off Testing Campaign for Remotely Piloted Cargo Flights
 - <a href="https://spacenews.com/chinas-guowang-launch-raises-questions-about-satellite-purpose-and-transparency/" >🔗</a> **[SpaceNews]** China’s Guowang launch raises questions about satellite purpose and transparency
 - <a href="https://www.nasa.gov/news-release/nasa-to-cover-two-spacewalks-hold-preview-news-conference/" >🔗</a> **[NASA]** NASA to Cover Two Spacewalks, Hold Preview News Conference
 - <a href="https://europeanspaceflight.com/airbus-delivers-key-system-for-nasas-gateway-space-station/" >🔗</a> **[European Spaceflight]** Airbus Delivers Key System for NASA’s Gateway Space Station
 - <a href="https://spacenews.com/nasa-emphasizes-role-of-the-moon-as-testbed-for-future-human-mars-missions/" >🔗</a> **[SpaceNews]** NASA emphasizes role of the moon as testbed for future human Mars missions
 - <a href="https://spacenews.com/mark-boggett-seraphim-space-commercial-space-transformers/" >🔗</a> **[SpaceNews]** Mark Boggett, Seraphim Space – Commercial Space Transformers
-- <a href="https://arstechnica.com/space/2025/01/annual-power-ranking-of-us-launch-companies-finds-a-shake-up-at-the-bottom/" >🔗</a> **[Arstechnica]** Annual power ranking of US launch companies finds a shake-up at the bottom
-- <a href="https://spacenews.com/interstellar-and-toyota-forge-strategic-partnership/" >🔗</a> **[SpaceNews]** Interstellar and Toyota forge strategic partnership
-- <a href="https://spacenews.com/ast-spacemobile-strikes-spectrum-deal-amid-ligado-networks-bankruptcy/" >🔗</a> **[SpaceNews]** AST SpaceMobile strikes spectrum deal amid Ligado Networks bankruptcy
-- <a href="https://spacenews.com/china-launches-shijian-25-satellite-to-test-on-orbit-refueling-and-mission-extension-technologies/" >🔗</a> **[SpaceNews]** China launches Shijian-25 satellite to test on-orbit refueling and mission extension technologies
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250107T180137">2025-01-07 18:01:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250107T183602">2025-01-07 18:36:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
