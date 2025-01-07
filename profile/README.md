@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/interstellar-and-toyota-forge-strategic-partnership/" >🔗</a> **[SpaceNews]** Interstellar and Toyota forge strategic partnership
+- <a href="https://spacenews.com/ast-spacemobile-strikes-spectrum-deal-amid-ligado-networks-bankruptcy/" >🔗</a> **[SpaceNews]** AST SpaceMobile strikes spectrum deal amid Ligado Networks bankruptcy
 - <a href="https://spacenews.com/china-launches-shijian-25-satellite-to-test-on-orbit-refueling-and-mission-extension-technologies/" >🔗</a> **[SpaceNews]** China launches Shijian-25 satellite to test on-orbit refueling and mission extension technologies
 - <a href="https://www.nasaspaceflight.com/2025/01/launch-roundup-010625/" >🔗</a> **[NASASpaceflight]** Launch Roundup: New Glenn and Starship headline first full week of 2025
 - <a href="https://spacenews.com/kratos-wins-1-45-billion-pentagon-contract-for-hypersonic-testing/" >🔗</a> **[SpaceNews]** Kratos wins $1.45 billion Pentagon contract for hypersonic testing
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/missions/nasa-names-adam-schlesinger-as-commercial-lunar-payload-services-project-manager/" >🔗</a> **[NASA]** NASA Names Adam Schlesinger as Commercial Lunar Payload Services Project Manager
 - <a href="https://spacenews.com/sierra-space-ceo-departs/" >🔗</a> **[SpaceNews]** Sierra Space CEO departs
 - <a href="https://www.nasa.gov/image-article/defying-gravity/" >🔗</a> **[NASA]** Defying Gravity
-- <a href="https://www.nasa.gov/general/soil-remediation-at-white-sands-test-facility/" >🔗</a> **[NASA]** Soil Remediation at White Sands Test Facility
-- <a href="https://arstechnica.com/space/2025/01/outgoing-nasa-administrator-urges-incoming-leaders-to-stick-with-artemis-plan/" >🔗</a> **[Arstechnica]** Outgoing NASA administrator urges incoming leaders to stick with Artemis plan
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250107T004536">2025-01-07 00:45:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250107T012823">2025-01-07 01:28:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
