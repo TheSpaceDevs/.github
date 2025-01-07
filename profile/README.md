@@ -91,7 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-to-study-two-alternative-architectures-for-mars-sample-return/" >🔗</a> **[SpaceNews]** NASA to study two alternative architectures for Mars Sample Return
 - <a href="https://spacenews.com/pentagon-awards-anduril-14-3-million-to-expand-production-of-solid-rocket-motors/" >🔗</a> **[SpaceNews]** Pentagon awards Anduril $14.3 million to expand production of solid rocket motors
+- <a href="https://science.nasa.gov/learning-resources/science-activation/nasa-eclips-educator-receives-2024-vast-science-educator-specialist-award/" >🔗</a> **[NASA]** NASA eClips Educator Receives 2024 VAST Science Educator Specialist Award
 - <a href="https://www.nasa.gov/image-article/jaxas-first-wooden-satellite-deploys-from-space-station/" >🔗</a> **[NASA]** JAXA’s First Wooden Satellite Deploys from Space Station
 - <a href="https://www.nasa.gov/news-release/nasa-to-explore-two-landing-options-for-returning-samples-from-mars/" >🔗</a> **[NASA]** NASA to Explore Two Landing Options for Returning Samples from Mars
 - <a href="https://science.nasa.gov/science-research/earth-science/aas-hyperwall-schedule/" >🔗</a> **[NASA]** AAS Hyperwall Schedule
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/general/2024-ai-use-cases/" >🔗</a> **[NASA]** NASA’s AI Use Cases: Advancing Space Exploration with Responsibility
 - <a href="https://www.nasa.gov/aeronautics/nasa-kicks-off-testing-campaign-for-remotely-piloted-cargo-flights/" >🔗</a> **[NASA]** NASA Kicks off Testing Campaign for Remotely Piloted Cargo Flights
 - <a href="https://spacenews.com/chinas-guowang-launch-raises-questions-about-satellite-purpose-and-transparency/" >🔗</a> **[SpaceNews]** China’s Guowang launch raises questions about satellite purpose and transparency
-- <a href="https://www.nasa.gov/news-release/nasa-to-cover-two-spacewalks-hold-preview-news-conference/" >🔗</a> **[NASA]** NASA to Cover Two Spacewalks, Hold Preview News Conference
-- <a href="https://europeanspaceflight.com/airbus-delivers-key-system-for-nasas-gateway-space-station/" >🔗</a> **[European Spaceflight]** Airbus Delivers Key System for NASA’s Gateway Space Station
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250107T200130">2025-01-07 20:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250107T203211">2025-01-07 20:32:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
