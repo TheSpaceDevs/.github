@@ -24,7 +24,7 @@ The next space launch, retrieved from our
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
 from *<a href="https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39A">Launch Complex 39A</a>, Kennedy Space Center, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250108T152400">2025-01-08 15:24:00 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250108T152700">2025-01-08 15:27:00 UTC</a>.  Until
 then, this pad will have been used for 194
 out of 252 launches from this location. The launch status is currently
 *TBC* 🟨 . The mission type is
@@ -46,7 +46,7 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250108T152400">2025-01-08 15:24:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-11&location=Kennedy Space Center, FL, USA&dates=20250108T152400Z%2F20250108T195500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-11** from Kennedy Space Center, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250108T152700">2025-01-08 15:27:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-11&location=Kennedy Space Center, FL, USA&dates=20250108T152700Z%2F20250108T191640Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-11** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250110T031900">2025-01-10 03:19:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | NROL-153&location=Vandenberg SFB, CA, USA&dates=20250110T031900Z%2F20250110T044900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | NROL-153** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250110T060000">2025-01-10 06:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Glenn | Maiden Flight&location=Cape Canaveral SFS, FL, USA&dates=20250110T060000Z%2F20250110T090000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Glenn | Maiden Flight** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250110T152700">2025-01-10 15:27:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-12&location=Cape Canaveral SFS, FL, USA&dates=20250110T152700Z%2F20250110T195800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-12** from Cape Canaveral SFS, FL, USA.
@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/aeronautics/nasa-kicks-off-testing-campaign-for-remotely-piloted-cargo-flights/" >🔗</a> **[NASA]** NASA Kicks off Testing Campaign for Remotely Piloted Cargo Flights
 - <a href="https://spacenews.com/chinas-guowang-launch-raises-questions-about-satellite-purpose-and-transparency/" >🔗</a> **[SpaceNews]** China’s Guowang launch raises questions about satellite purpose and transparency
 - <a href="https://www.nasa.gov/news-release/nasa-to-cover-two-spacewalks-hold-preview-news-conference/" >🔗</a> **[NASA]** NASA to Cover Two Spacewalks, Hold Preview News Conference
 - <a href="https://europeanspaceflight.com/airbus-delivers-key-system-for-nasas-gateway-space-station/" >🔗</a> **[European Spaceflight]** Airbus Delivers Key System for NASA’s Gateway Space Station
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/interstellar-and-toyota-forge-strategic-partnership/" >🔗</a> **[SpaceNews]** Interstellar and Toyota forge strategic partnership
 - <a href="https://spacenews.com/ast-spacemobile-strikes-spectrum-deal-amid-ligado-networks-bankruptcy/" >🔗</a> **[SpaceNews]** AST SpaceMobile strikes spectrum deal amid Ligado Networks bankruptcy
 - <a href="https://spacenews.com/china-launches-shijian-25-satellite-to-test-on-orbit-refueling-and-mission-extension-technologies/" >🔗</a> **[SpaceNews]** China launches Shijian-25 satellite to test on-orbit refueling and mission extension technologies
-- <a href="https://www.nasaspaceflight.com/2025/01/launch-roundup-010625/" >🔗</a> **[NASASpaceflight]** Launch Roundup: New Glenn and Starship headline first full week of 2025
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250107T170147">2025-01-07 17:01:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250107T173240">2025-01-07 17:32:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
