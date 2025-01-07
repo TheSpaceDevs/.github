@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/01/nearly-two-years-after-its-radical-pivot-fidelity-slashes-relativitys-valuation/" >🔗</a> **[Arstechnica]** Nearly two years after its radical pivot, Fidelity slashes Relativity’s valuation
 - <a href="https://www.nasa.gov/image-article/best-of-2024-reestablished-nasa-art-program-begins-with-mural-in-new-york-city/" >🔗</a> **[NASA]** Best of 2024: Reestablished NASA Art Program Begins with Mural in New York City
 - <a href="https://spacenews.com/nasa-to-study-two-alternative-architectures-for-mars-sample-return/" >🔗</a> **[SpaceNews]** NASA to study two alternative architectures for Mars Sample Return
 - <a href="https://spacenews.com/pentagon-awards-anduril-14-3-million-to-expand-production-of-solid-rocket-motors/" >🔗</a> **[SpaceNews]** Pentagon awards Anduril $14.3 million to expand production of solid rocket motors
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/science-research/earth-science/aas-hyperwall-schedule/" >🔗</a> **[NASA]** AAS Hyperwall Schedule
 - <a href="https://spaceflightnow.com/2025/01/07/nasa-to-announce-new-path-forward-on-mars-sample-return-mission/" >🔗</a> **[Spaceflight Now]** NASA to announce new path forward on Mars Sample Return mission
 - <a href="https://www.nasa.gov/general/2024-ai-use-cases/" >🔗</a> **[NASA]** NASA’s AI Use Cases: Advancing Space Exploration with Responsibility
-- <a href="https://www.nasa.gov/aeronautics/nasa-kicks-off-testing-campaign-for-remotely-piloted-cargo-flights/" >🔗</a> **[NASA]** NASA Kicks off Testing Campaign for Remotely Piloted Cargo Flights
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250107T230120">2025-01-07 23:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250107T233100">2025-01-07 23:31:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
