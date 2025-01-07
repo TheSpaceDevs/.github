@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/jaxas-first-wooden-satellite-deploys-from-space-station/" >🔗</a> **[NASA]** JAXA’s First Wooden Satellite Deploys from Space Station
 - <a href="https://www.nasa.gov/news-release/nasa-to-explore-two-landing-options-for-returning-samples-from-mars/" >🔗</a> **[NASA]** NASA to Explore Two Landing Options for Returning Samples from Mars
 - <a href="https://science.nasa.gov/science-research/earth-science/aas-hyperwall-schedule/" >🔗</a> **[NASA]** AAS Hyperwall Schedule
 - <a href="https://spaceflightnow.com/2025/01/07/nasa-to-announce-new-path-forward-on-mars-sample-return-mission/" >🔗</a> **[Spaceflight Now]** NASA to announce new path forward on Mars Sample Return mission
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-to-cover-two-spacewalks-hold-preview-news-conference/" >🔗</a> **[NASA]** NASA to Cover Two Spacewalks, Hold Preview News Conference
 - <a href="https://europeanspaceflight.com/airbus-delivers-key-system-for-nasas-gateway-space-station/" >🔗</a> **[European Spaceflight]** Airbus Delivers Key System for NASA’s Gateway Space Station
 - <a href="https://spacenews.com/nasa-emphasizes-role-of-the-moon-as-testbed-for-future-human-mars-missions/" >🔗</a> **[SpaceNews]** NASA emphasizes role of the moon as testbed for future human Mars missions
-- <a href="https://spacenews.com/mark-boggett-seraphim-space-commercial-space-transformers/" >🔗</a> **[SpaceNews]** Mark Boggett, Seraphim Space – Commercial Space Transformers
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250107T190116">2025-01-07 19:01:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250107T193102">2025-01-07 19:31:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
