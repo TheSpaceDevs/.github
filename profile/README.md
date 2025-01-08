@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/nasa-will-finalize-mars-sample-return-architecture-next-year/" >🔗</a> **[SpacePolicyOnline.com]** NASA Will Finalize Mars Sample Return Architecture Next Year
+- <a href="https://spacenews.com/ligado-networks-sues-inmarsat-after-spectrum-partnership-breaks-down/" >🔗</a> **[SpaceNews]** Ligado Networks sues Inmarsat after spectrum partnership breaks down
 - <a href="https://arstechnica.com/space/2025/01/nearly-two-years-after-its-radical-pivot-fidelity-slashes-relativitys-valuation/" >🔗</a> **[Arstechnica]** Nearly two years after its radical pivot, Fidelity slashes Relativity’s valuation
 - <a href="https://www.nasa.gov/image-article/best-of-2024-reestablished-nasa-art-program-begins-with-mural-in-new-york-city/" >🔗</a> **[NASA]** Best of 2024: Reestablished NASA Art Program Begins with Mural in New York City
 - <a href="https://spacenews.com/nasa-to-study-two-alternative-architectures-for-mars-sample-return/" >🔗</a> **[SpaceNews]** NASA to study two alternative architectures for Mars Sample Return
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/jaxas-first-wooden-satellite-deploys-from-space-station/" >🔗</a> **[NASA]** JAXA’s First Wooden Satellite Deploys from Space Station
 - <a href="https://www.nasa.gov/news-release/nasa-to-explore-two-landing-options-for-returning-samples-from-mars/" >🔗</a> **[NASA]** NASA to Explore Two Landing Options for Returning Samples from Mars
 - <a href="https://science.nasa.gov/science-research/earth-science/aas-hyperwall-schedule/" >🔗</a> **[NASA]** AAS Hyperwall Schedule
-- <a href="https://spaceflightnow.com/2025/01/07/nasa-to-announce-new-path-forward-on-mars-sample-return-mission/" >🔗</a> **[Spaceflight Now]** NASA to announce new path forward on Mars Sample Return mission
-- <a href="https://www.nasa.gov/general/2024-ai-use-cases/" >🔗</a> **[NASA]** NASA’s AI Use Cases: Advancing Space Exploration with Responsibility
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250107T233100">2025-01-07 23:31:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250108T000421">2025-01-08 00:04:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
