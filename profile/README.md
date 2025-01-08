@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/artemis/nasa-to-test-solution-for-radiation-tolerant-computing-in-space/" >🔗</a> **[NASA]** NASA to Test Solution for Radiation-Tolerant Computing in Space
+- <a href="https://www.nasa.gov/general/houston-we-have-the-holiday-cookies/" >🔗</a> **[NASA]** Houston, We Have the Holiday Cookies
 - <a href="https://www.nasa.gov/missions/artemis/electrodynamic-dust-shield-heading-to-moon-on-firefly-lander/" >🔗</a> **[NASA]** Electrodynamic Dust Shield Heading to Moon on Firefly Lander
+- <a href="https://science.nasa.gov/science-research/earth-science/ams-hyperwall-schedule/" >🔗</a> **[NASA]** AMS Hyperwall Schedule
 - <a href="https://science.nasa.gov/uncategorized/ams-hyperwall-schedule/" >🔗</a> **[NASA]** AMS Hyperwall Schedule
 - <a href="https://spacenews.com/desjarlais-to-chair-house-panel-overseeing-military-space-nuclear-programs/" >🔗</a> **[SpaceNews]** DesJarlais to chair House panel overseeing military space, nuclear programs
 - <a href="https://www.nasa.gov/general/415-years-ago-astronomer-galileo-discovers-jupiters-moons/" >🔗</a> **[NASA]** 415 Years Ago: Astronomer Galileo Discovers Jupiter’s Moons
 - <a href="https://spacenews.com/why-the-space-community-should-care-about-arctic-geopolitics/" >🔗</a> **[SpaceNews]** Why the space community should care about Arctic geopolitics
 - <a href="https://www.nasa.gov/missions/artemis/nasa-lander-to-test-vacuum-cleaner-on-moon-for-sample-collection/" >🔗</a> **[NASA]** NASA Lander to Test Vacuum Cleaner on Moon for Sample Collection
 - <a href="https://science.nasa.gov/missions/station/iss-research/nicer/astronaut-set-to-patch-nasas-x-ray-telescope-aboard-space-station/" >🔗</a> **[NASA]** Astronaut Set to Patch NASA’s X-ray Telescope Aboard Space Station
-- <a href="https://www.nasa.gov/missions/station/iss-research/nasas-2024-international-space-station-achievements/" >🔗</a> **[NASA]** NASA’s 2024 International Space Station Achievements
-- <a href="https://www.nasa.gov/universe/nasa-joins-telescope-instruments-to-roman-spacecraft/" >🔗</a> **[NASA]** NASA Joins Telescope, Instruments to Roman Spacecraft
-- <a href="https://spacenews.com/how-to-conduct-safe-and-robust-medical-research-in-thenew-space-age/" >🔗</a> **[SpaceNews]** How to conduct safe and robust medical research in the new space age
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250108T200133">2025-01-08 20:01:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250108T203224">2025-01-08 20:32:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
