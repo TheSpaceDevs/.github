@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/intelsat-and-oneweb-expand-multi-orbit-services-in-alaska/" >🔗</a> **[SpaceNews]** Intelsat and OneWeb expand multi-orbit services in Alaska
 - <a href="https://www.nasa.gov/missions/artemis/nasa-to-test-solution-for-radiation-tolerant-computing-in-space/" >🔗</a> **[NASA]** NASA to Test Solution for Radiation-Tolerant Computing in Space
 - <a href="https://www.nasa.gov/general/houston-we-have-the-holiday-cookies/" >🔗</a> **[NASA]** Houston, We Have the Holiday Cookies
 - <a href="https://www.nasa.gov/missions/artemis/electrodynamic-dust-shield-heading-to-moon-on-firefly-lander/" >🔗</a> **[NASA]** Electrodynamic Dust Shield Heading to Moon on Firefly Lander
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/general/415-years-ago-astronomer-galileo-discovers-jupiters-moons/" >🔗</a> **[NASA]** 415 Years Ago: Astronomer Galileo Discovers Jupiter’s Moons
 - <a href="https://spacenews.com/why-the-space-community-should-care-about-arctic-geopolitics/" >🔗</a> **[SpaceNews]** Why the space community should care about Arctic geopolitics
 - <a href="https://www.nasa.gov/missions/artemis/nasa-lander-to-test-vacuum-cleaner-on-moon-for-sample-collection/" >🔗</a> **[NASA]** NASA Lander to Test Vacuum Cleaner on Moon for Sample Collection
-- <a href="https://science.nasa.gov/missions/station/iss-research/nicer/astronaut-set-to-patch-nasas-x-ray-telescope-aboard-space-station/" >🔗</a> **[NASA]** Astronaut Set to Patch NASA’s X-ray Telescope Aboard Space Station
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250108T210125">2025-01-08 21:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250108T213143">2025-01-08 21:31:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
