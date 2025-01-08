@@ -105,12 +105,13 @@ into *a Low Earth Orbit
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2025/01/08/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-the-kennedy-space-center-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket from the Kennedy Space Center
 - <a href="https://www.nasaspaceflight.com/2025/01/launch-roundup-010625/" >🔗</a> **[NASASpaceflight]** Launch Roundup: New Glenn and Starship headline first full week of 2025
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250108T070122">2025-01-08 07:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250108T073107">2025-01-08 07:31:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
