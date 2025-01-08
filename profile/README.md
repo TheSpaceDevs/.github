@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/01/Los_Angeles_ablaze" >🔗</a> **[ESA]** Los Angeles ablaze
 - <a href="https://europeanspaceflight.com/rfa-fully-focused-on-building-new-first-stage-for-2025-launch-attempt/" >🔗</a> **[European Spaceflight]** RFA “Fully Focused” on Building New First Stage for 2025 Launch Attempt
 - <a href="https://spacenews.com/pale-blue-to-flight-test-water-thruster-with-d-orbit/" >🔗</a> **[SpaceNews]** Pale Blue to flight test water thruster with D-Orbit
 - <a href="https://science.nasa.gov/blog/sols-4416-4417-new-year-new-clouds/" >🔗</a> **[NASA]** Sols 4416-4417: New Year, New Clouds
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2025/01/nearly-two-years-after-its-radical-pivot-fidelity-slashes-relativitys-valuation/" >🔗</a> **[Arstechnica]** Nearly two years after its radical pivot, Fidelity slashes Relativity’s valuation
 - <a href="https://www.nasa.gov/image-article/best-of-2024-reestablished-nasa-art-program-begins-with-mural-in-new-york-city/" >🔗</a> **[NASA]** Best of 2024: Reestablished NASA Art Program Begins with Mural in New York City
 - <a href="https://spacenews.com/nasa-to-study-two-alternative-architectures-for-mars-sample-return/" >🔗</a> **[SpaceNews]** NASA to study two alternative architectures for Mars Sample Return
-- <a href="https://spacenews.com/pentagon-awards-anduril-14-3-million-to-expand-production-of-solid-rocket-motors/" >🔗</a> **[SpaceNews]** Pentagon awards Anduril $14.3 million to expand production of solid rocket motors
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250108T130540">2025-01-08 13:05:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250108T133333">2025-01-08 13:33:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
