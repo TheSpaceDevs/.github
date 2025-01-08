@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.nasa.gov/missions/station/iss-research/nasas-2024-international-space-station-achievements/" >🔗</a> **[NASA]** NASA’s 2024 International Space Station Achievements
+- <a href="https://www.nasa.gov/general/415-years-ago-astronomer-galileo-discovers-jupiters-moons/" >🔗</a> **[NASA]** 415 Years Ago: Astronomer Galileo Discovers Jupiter’s Moons
+- <a href="https://spacenews.com/why-the-space-community-should-care-about-arctic-geopolitics/" >🔗</a> **[SpaceNews]** Why the space community should care about Arctic geopolitics
+- <a href="https://www.nasa.gov/missions/artemis/nasa-lander-to-test-vacuum-cleaner-on-moon-for-sample-collection/" >🔗</a> **[NASA]** NASA Lander to Test Vacuum Cleaner on Moon for Sample Collection
+- <a href="https://science.nasa.gov/missions/station/iss-research/nicer/astronaut-set-to-patch-nasas-x-ray-telescope-aboard-space-station/" >🔗</a> **[NASA]** Astronaut Set to Patch NASA’s X-ray Telescope Aboard Space Station
 - <a href="https://www.nasa.gov/universe/nasa-joins-telescope-instruments-to-roman-spacecraft/" >🔗</a> **[NASA]** NASA Joins Telescope, Instruments to Roman Spacecraft
+- <a href="https://www.nasa.gov/missions/station/iss-research/nasas-2024-international-space-station-achievements/" >🔗</a> **[NASA]** NASA’s 2024 International Space Station Achievements
 - <a href="https://spacenews.com/how-to-conduct-safe-and-robust-medical-research-in-thenew-space-age/" >🔗</a> **[SpaceNews]** How to conduct safe and robust medical research in the new space age
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/01/Los_Angeles_ablaze" >🔗</a> **[ESA]** Los Angeles ablaze
 - <a href="https://europeanspaceflight.com/rfa-fully-focused-on-building-new-first-stage-for-2025-launch-attempt/" >🔗</a> **[European Spaceflight]** RFA “Fully Focused” on Building New First Stage for 2025 Launch Attempt
 - <a href="https://spacenews.com/pale-blue-to-flight-test-water-thruster-with-d-orbit/" >🔗</a> **[SpaceNews]** Pale Blue to flight test water thruster with D-Orbit
-- <a href="https://science.nasa.gov/blog/sols-4416-4417-new-year-new-clouds/" >🔗</a> **[NASA]** Sols 4416-4417: New Year, New Clouds
-- <a href="https://spaceflightnow.com/2025/01/08/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-the-kennedy-space-center-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket from the Kennedy Space Center
-- <a href="https://spacepolicyonline.com/news/nasa-will-finalize-mars-sample-return-architecture-next-year/" >🔗</a> **[SpacePolicyOnline.com]** NASA Will Finalize Mars Sample Return Architecture Next Year
-- <a href="https://spacenews.com/ligado-networks-sues-inmarsat-after-spectrum-partnership-breaks-down/" >🔗</a> **[SpaceNews]** Ligado Networks sues Inmarsat after spectrum partnership breaks down
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250108T160132">2025-01-08 16:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250108T163556">2025-01-08 16:35:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
