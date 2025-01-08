@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/01/08/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-the-kennedy-space-center-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket from the Kennedy Space Center
 - <a href="https://spacepolicyonline.com/news/nasa-will-finalize-mars-sample-return-architecture-next-year/" >🔗</a> **[SpacePolicyOnline.com]** NASA Will Finalize Mars Sample Return Architecture Next Year
 - <a href="https://spacenews.com/ligado-networks-sues-inmarsat-after-spectrum-partnership-breaks-down/" >🔗</a> **[SpaceNews]** Ligado Networks sues Inmarsat after spectrum partnership breaks down
 - <a href="https://arstechnica.com/space/2025/01/nearly-two-years-after-its-radical-pivot-fidelity-slashes-relativitys-valuation/" >🔗</a> **[Arstechnica]** Nearly two years after its radical pivot, Fidelity slashes Relativity’s valuation
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/learning-resources/science-activation/nasa-eclips-educator-receives-2024-vast-science-educator-specialist-award/" >🔗</a> **[NASA]** NASA eClips Educator Receives 2024 VAST Science Educator Specialist Award
 - <a href="https://www.nasa.gov/image-article/jaxas-first-wooden-satellite-deploys-from-space-station/" >🔗</a> **[NASA]** JAXA’s First Wooden Satellite Deploys from Space Station
 - <a href="https://www.nasa.gov/news-release/nasa-to-explore-two-landing-options-for-returning-samples-from-mars/" >🔗</a> **[NASA]** NASA to Explore Two Landing Options for Returning Samples from Mars
-- <a href="https://science.nasa.gov/science-research/earth-science/aas-hyperwall-schedule/" >🔗</a> **[NASA]** AAS Hyperwall Schedule
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250108T030503">2025-01-08 03:05:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250108T033436">2025-01-08 03:34:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
