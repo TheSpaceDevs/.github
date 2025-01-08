@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/how-to-conduct-safe-and-robust-medical-research-in-thenew-space-age/" >🔗</a> **[SpaceNews]** How to conduct safe and robust medical research in the new space age
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/01/Los_Angeles_ablaze" >🔗</a> **[ESA]** Los Angeles ablaze
 - <a href="https://europeanspaceflight.com/rfa-fully-focused-on-building-new-first-stage-for-2025-launch-attempt/" >🔗</a> **[European Spaceflight]** RFA “Fully Focused” on Building New First Stage for 2025 Launch Attempt
 - <a href="https://spacenews.com/pale-blue-to-flight-test-water-thruster-with-d-orbit/" >🔗</a> **[SpaceNews]** Pale Blue to flight test water thruster with D-Orbit
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/ligado-networks-sues-inmarsat-after-spectrum-partnership-breaks-down/" >🔗</a> **[SpaceNews]** Ligado Networks sues Inmarsat after spectrum partnership breaks down
 - <a href="https://arstechnica.com/space/2025/01/nearly-two-years-after-its-radical-pivot-fidelity-slashes-relativitys-valuation/" >🔗</a> **[Arstechnica]** Nearly two years after its radical pivot, Fidelity slashes Relativity’s valuation
 - <a href="https://www.nasa.gov/image-article/best-of-2024-reestablished-nasa-art-program-begins-with-mural-in-new-york-city/" >🔗</a> **[NASA]** Best of 2024: Reestablished NASA Art Program Begins with Mural in New York City
-- <a href="https://spacenews.com/nasa-to-study-two-alternative-architectures-for-mars-sample-return/" >🔗</a> **[SpaceNews]** NASA to study two alternative architectures for Mars Sample Return
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250108T140127">2025-01-08 14:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250108T143343">2025-01-08 14:33:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
