@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/rfa-fully-focused-on-building-new-first-stage-for-2025-launch-attempt/" >🔗</a> **[European Spaceflight]** RFA “Fully Focused” on Building New First Stage for 2025 Launch Attempt
 - <a href="https://spacenews.com/pale-blue-to-flight-test-water-thruster-with-d-orbit/" >🔗</a> **[SpaceNews]** Pale Blue to flight test water thruster with D-Orbit
 - <a href="https://science.nasa.gov/blog/sols-4416-4417-new-year-new-clouds/" >🔗</a> **[NASA]** Sols 4416-4417: New Year, New Clouds
 - <a href="https://spaceflightnow.com/2025/01/08/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-the-kennedy-space-center-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket from the Kennedy Space Center
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/best-of-2024-reestablished-nasa-art-program-begins-with-mural-in-new-york-city/" >🔗</a> **[NASA]** Best of 2024: Reestablished NASA Art Program Begins with Mural in New York City
 - <a href="https://spacenews.com/nasa-to-study-two-alternative-architectures-for-mars-sample-return/" >🔗</a> **[SpaceNews]** NASA to study two alternative architectures for Mars Sample Return
 - <a href="https://spacenews.com/pentagon-awards-anduril-14-3-million-to-expand-production-of-solid-rocket-motors/" >🔗</a> **[SpaceNews]** Pentagon awards Anduril $14.3 million to expand production of solid rocket motors
-- <a href="https://science.nasa.gov/learning-resources/science-activation/nasa-eclips-educator-receives-2024-vast-science-educator-specialist-award/" >🔗</a> **[NASA]** NASA eClips Educator Receives 2024 VAST Science Educator Specialist Award
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250108T110115">2025-01-08 11:01:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250108T113120">2025-01-08 11:31:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
