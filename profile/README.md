@@ -91,6 +91,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/01/italian-interest-in-starlink-strikes-at-the-heart-of-european-space-solidarity/" >🔗</a> **[Arstechnica]** Italian interest in Starlink strikes at the heart of European space solidarity
+- <a href="https://spacenews.com/former-pentagon-space-policy-official-stephen-kitay-joins-startup-true-anomaly/" >🔗</a> **[SpaceNews]** Former Pentagon space policy official Stephen Kitay joins startup True Anomaly
+- <a href="https://science.nasa.gov/blog/a-rover-retrospective-turning-trials-to-triumphs-in-2024/" >🔗</a> **[NASA]** A Rover Retrospective: Turning Trials to Triumphs in 2024
 - <a href="https://www.nasa.gov/news-release/nasa-selects-electrical-systems-engineering-services-iv-contractor/" >🔗</a> **[NASA]** NASA Selects Electrical Systems Engineering Services Contractor
 - <a href="https://spacenews.com/intelsat-and-oneweb-expand-multi-orbit-services-in-alaska/" >🔗</a> **[SpaceNews]** Intelsat and OneWeb expand multi-orbit services in Alaska
 - <a href="https://www.nasa.gov/missions/artemis/nasa-to-test-solution-for-radiation-tolerant-computing-in-space/" >🔗</a> **[NASA]** NASA to Test Solution for Radiation-Tolerant Computing in Space
@@ -98,9 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/missions/artemis/electrodynamic-dust-shield-heading-to-moon-on-firefly-lander/" >🔗</a> **[NASA]** Electrodynamic Dust Shield Heading to Moon on Firefly Lander
 - <a href="https://science.nasa.gov/science-research/earth-science/ams-hyperwall-schedule/" >🔗</a> **[NASA]** AMS Hyperwall Schedule
 - <a href="https://science.nasa.gov/uncategorized/ams-hyperwall-schedule/" >🔗</a> **[NASA]** AMS Hyperwall Schedule
-- <a href="https://spacenews.com/desjarlais-to-chair-house-panel-overseeing-military-space-nuclear-programs/" >🔗</a> **[SpaceNews]** DesJarlais to chair House panel overseeing military space, nuclear programs
-- <a href="https://www.nasa.gov/general/415-years-ago-astronomer-galileo-discovers-jupiters-moons/" >🔗</a> **[NASA]** 415 Years Ago: Astronomer Galileo Discovers Jupiter’s Moons
-- <a href="https://spacenews.com/why-the-space-community-should-care-about-arctic-geopolitics/" >🔗</a> **[SpaceNews]** Why the space community should care about Arctic geopolitics
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250108T230118">2025-01-08 23:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250108T233111">2025-01-08 23:31:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
