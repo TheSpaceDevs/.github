@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/rocket-lab-asks-nasa-to-open-up-msr-to-commercial-competition/" >🔗</a> **[SpaceNews]** Rocket Lab asks NASA to open up MSR to commercial competition
 - <a href="https://arstechnica.com/space/2025/01/italian-interest-in-starlink-strikes-at-the-heart-of-european-space-solidarity/" >🔗</a> **[Arstechnica]** Italian interest in Starlink strikes at the heart of European space solidarity
 - <a href="https://spacenews.com/former-pentagon-space-policy-official-stephen-kitay-joins-startup-true-anomaly/" >🔗</a> **[SpaceNews]** Former Pentagon space policy official Stephen Kitay joins startup True Anomaly
 - <a href="https://science.nasa.gov/blog/a-rover-retrospective-turning-trials-to-triumphs-in-2024/" >🔗</a> **[NASA]** A Rover Retrospective: Turning Trials to Triumphs in 2024
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/general/houston-we-have-the-holiday-cookies/" >🔗</a> **[NASA]** Houston, We Have the Holiday Cookies
 - <a href="https://www.nasa.gov/missions/artemis/electrodynamic-dust-shield-heading-to-moon-on-firefly-lander/" >🔗</a> **[NASA]** Electrodynamic Dust Shield Heading to Moon on Firefly Lander
 - <a href="https://science.nasa.gov/science-research/earth-science/ams-hyperwall-schedule/" >🔗</a> **[NASA]** AMS Hyperwall Schedule
-- <a href="https://science.nasa.gov/uncategorized/ams-hyperwall-schedule/" >🔗</a> **[NASA]** AMS Hyperwall Schedule
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250108T233111">2025-01-08 23:31:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250109T000424">2025-01-09 00:04:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
