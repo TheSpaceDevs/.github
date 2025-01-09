@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-confirms-next-starship-launch-target-heres-when-it-will-take-off/" >🔗</a> **[Teslarati]** SpaceX confirms next Starship launch target – Here’s when it will take off
 - <a href="https://spacenews.com/u-s-military-satellites-achieve-first-cross-vendor-laser-communications-link/" >🔗</a> **[SpaceNews]** U.S. military satellites achieve first cross-vendor laser communications link
 - <a href="https://science.nasa.gov/science-research/earth-science/summary-of-the-2024-nasa-lcluc-science-team-meeting/" >🔗</a> **[NASA]** Summary of the 2024 NASA LCLUC Science Team Meeting
 - <a href="https://spacenews.com/researchers-propose-un-goal-to-curb-space-debris/" >🔗</a> **[SpaceNews]** Researchers propose UN goal to curb space debris
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://arstechnica.com/space/2025/01/intuitive-machines-set-for-second-landing-looking-to-build-a-lunar-economy/" >🔗</a> **[Arstechnica]** Intuitive Machines set for second landing, looking to build a lunar economy
 - <a href="https://europeanspaceflight.com/germany-italy-and-the-uk-slash-esa-contributions-by-e430m/" >🔗</a> **[European Spaceflight]** Germany, Italy, and the UK Slash ESA Contributions by €430M
 - <a href="https://www.nasa.gov/image-article/achieving-instrument-high-accuracy-in-orbit/" >🔗</a> **[NASA]** Achieving Instrument High Accuracy In-Orbit
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/01/ESA_Director_General_s_Annual_Press_Briefing" >🔗</a> **[ESA]** ESA Director General’s Annual Press Briefing
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250109T200129">2025-01-09 20:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250109T203221">2025-01-09 20:32:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
