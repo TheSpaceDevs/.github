@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Top_three_images_from_BepiColombo_s_sixth_Mercury_flyby" >🔗</a> **[ESA]** Top three images from BepiColombo's sixth Mercury flyby
 - <a href="https://spaceflightnow.com/2025/01/09/live-coverage-spacex-to-launch-starshield-satellites-for-the-nro-on-falcon-9-rocket-from-california/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Starshield satellites for the NRO on Falcon 9 rocket from California
 - <a href="https://www.nasa.gov/centers-and-facilities/kennedy/nasas-kennedy-marks-new-chapter-for-florida-space-industry/" >🔗</a> **[NASA]** NASA’s Kennedy Marks New Chapter for Florida Space Industry
 - <a href="https://spacenews.com/rocket-lab-asks-nasa-to-open-up-msr-to-commercial-competition/" >🔗</a> **[SpaceNews]** Rocket Lab asks NASA to open up MSR to commercial competition
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/news-release/nasa-selects-electrical-systems-engineering-services-iv-contractor/" >🔗</a> **[NASA]** NASA Selects Electrical Systems Engineering Services Contractor
 - <a href="https://spacenews.com/intelsat-and-oneweb-expand-multi-orbit-services-in-alaska/" >🔗</a> **[SpaceNews]** Intelsat and OneWeb expand multi-orbit services in Alaska
 - <a href="https://www.nasa.gov/missions/artemis/nasa-to-test-solution-for-radiation-tolerant-computing-in-space/" >🔗</a> **[NASA]** NASA to Test Solution for Radiation-Tolerant Computing in Space
-- <a href="https://www.nasa.gov/general/houston-we-have-the-holiday-cookies/" >🔗</a> **[NASA]** Houston, We Have the Holiday Cookies
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250109T100140">2025-01-09 10:01:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250109T103504">2025-01-09 10:35:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
