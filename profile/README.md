@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/01/09/live-coverage-spacex-to-launch-starshield-satellites-for-the-nro-on-falcon-9-rocket-from-california/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Starshield satellites for the NRO on Falcon 9 rocket from California
 - <a href="https://www.nasa.gov/centers-and-facilities/kennedy/nasas-kennedy-marks-new-chapter-for-florida-space-industry/" >🔗</a> **[NASA]** NASA’s Kennedy Marks New Chapter for Florida Space Industry
 - <a href="https://spacenews.com/rocket-lab-asks-nasa-to-open-up-msr-to-commercial-competition/" >🔗</a> **[SpaceNews]** Rocket Lab asks NASA to open up MSR to commercial competition
 - <a href="https://arstechnica.com/space/2025/01/italian-interest-in-starlink-strikes-at-the-heart-of-european-space-solidarity/" >🔗</a> **[Arstechnica]** Italian interest in Starlink strikes at the heart of European space solidarity
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/intelsat-and-oneweb-expand-multi-orbit-services-in-alaska/" >🔗</a> **[SpaceNews]** Intelsat and OneWeb expand multi-orbit services in Alaska
 - <a href="https://www.nasa.gov/missions/artemis/nasa-to-test-solution-for-radiation-tolerant-computing-in-space/" >🔗</a> **[NASA]** NASA to Test Solution for Radiation-Tolerant Computing in Space
 - <a href="https://www.nasa.gov/general/houston-we-have-the-holiday-cookies/" >🔗</a> **[NASA]** Houston, We Have the Holiday Cookies
-- <a href="https://www.nasa.gov/missions/artemis/electrodynamic-dust-shield-heading-to-moon-on-firefly-lander/" >🔗</a> **[NASA]** Electrodynamic Dust Shield Heading to Moon on Firefly Lander
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250109T021700">2025-01-09 02:17:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250109T025951">2025-01-09 02:59:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
