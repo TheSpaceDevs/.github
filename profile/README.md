@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/germany-italy-and-the-uk-slash-esa-contributions-by-e430m/" >🔗</a> **[European Spaceflight]** Germany, Italy, and the UK Slash ESA Contributions by €430M
 - <a href="https://www.nasa.gov/image-article/achieving-instrument-high-accuracy-in-orbit/" >🔗</a> **[NASA]** Achieving Instrument High Accuracy In-Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/01/ESA_Director_General_s_Annual_Press_Briefing" >🔗</a> **[ESA]** ESA Director General’s Annual Press Briefing
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Top_three_images_from_BepiColombo_s_sixth_Mercury_flyby" >🔗</a> **[ESA]** Top three images from BepiColombo's sixth Mercury flyby
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://arstechnica.com/space/2025/01/italian-interest-in-starlink-strikes-at-the-heart-of-european-space-solidarity/" >🔗</a> **[Arstechnica]** Italian interest in Starlink strikes at the heart of European space solidarity
 - <a href="https://spacenews.com/former-pentagon-space-policy-official-stephen-kitay-joins-startup-true-anomaly/" >🔗</a> **[SpaceNews]** Former Pentagon space policy official Stephen Kitay joins startup True Anomaly
 - <a href="https://science.nasa.gov/blog/a-rover-retrospective-turning-trials-to-triumphs-in-2024/" >🔗</a> **[NASA]** A Rover Retrospective: Turning Trials to Triumphs in 2024
-- <a href="https://www.nasa.gov/news-release/nasa-selects-electrical-systems-engineering-services-iv-contractor/" >🔗</a> **[NASA]** NASA Selects Electrical Systems Engineering Services Contractor
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250109T150133">2025-01-09 15:01:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250109T153235">2025-01-09 15:32:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
