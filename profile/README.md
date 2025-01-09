@@ -47,8 +47,8 @@ into *an Unknown
 
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250110T031900">2025-01-10 03:19:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | NROL-153&location=Vandenberg SFB, CA, USA&dates=20250110T031900Z%2F20250110T044900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | NROL-153** from Vandenberg SFB, CA, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250110T060000">2025-01-10 06:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Glenn | Maiden Flight&location=Cape Canaveral SFS, FL, USA&dates=20250110T060000Z%2F20250110T090000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Glenn | Maiden Flight** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250110T152700">2025-01-10 15:27:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-12&location=Cape Canaveral SFS, FL, USA&dates=20250110T152700Z%2F20250110T195800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-12** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250112T060000">2025-01-12 06:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Glenn | Maiden Flight&location=Cape Canaveral SFS, FL, USA&dates=20250112T060000Z%2F20250112T090000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Glenn | Maiden Flight** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250113T145900">2025-01-13 14:59:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-4&location=Cape Canaveral SFS, FL, USA&dates=20250113T145900Z%2F20250113T193000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-4** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250113T220000">2025-01-13 22:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Starship | Flight 7&location=SpaceX Starbase, TX, USA&dates=20250113T220000Z%2F20250113T233800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starship | Flight 7** from SpaceX Starbase, TX, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250114T184900">2025-01-14 18:49:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Transporter 12 (Dedicated SSO Rideshare)&location=Vandenberg SFB, CA, USA&dates=20250114T184900Z%2F20250114T194600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Transporter 12 (Dedicated SSO Rideshare)** from Vandenberg SFB, CA, USA.
@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/35-years-ago-sts-32-returns-the-long-duration-exposure-facility/" >🔗</a> **[NASA]** 35 Years Ago: STS-32 Returns the Long Duration Exposure Facility
+- <a href="https://spacenews.com/dutch-military-signs-satellite-intelligence-deal-with-maxar/" >🔗</a> **[SpaceNews]** Dutch military signs satellite intelligence deal with Maxar
+- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/helicopter-removes-artifact-from-nasa-armstrong-rooftop/" >🔗</a> **[NASA]** Helicopter Removes Artifact from NASA Armstrong Rooftop
+- <a href="https://arstechnica.com/space/2025/01/intuitive-machines-set-for-second-landing-looking-to-build-a-lunar-economy/" >🔗</a> **[Arstechnica]** Intuitive Machines set for second landing, looking to build a lunar economy
 - <a href="https://europeanspaceflight.com/germany-italy-and-the-uk-slash-esa-contributions-by-e430m/" >🔗</a> **[European Spaceflight]** Germany, Italy, and the UK Slash ESA Contributions by €430M
 - <a href="https://www.nasa.gov/image-article/achieving-instrument-high-accuracy-in-orbit/" >🔗</a> **[NASA]** Achieving Instrument High Accuracy In-Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/01/ESA_Director_General_s_Annual_Press_Briefing" >🔗</a> **[ESA]** ESA Director General’s Annual Press Briefing
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Top_three_images_from_BepiColombo_s_sixth_Mercury_flyby" >🔗</a> **[ESA]** Top three images from BepiColombo's sixth Mercury flyby
 - <a href="https://spaceflightnow.com/2025/01/09/live-coverage-spacex-to-launch-starshield-satellites-for-the-nro-on-falcon-9-rocket-from-california/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Starshield satellites for the NRO on Falcon 9 rocket from California
 - <a href="https://www.nasa.gov/centers-and-facilities/kennedy/nasas-kennedy-marks-new-chapter-for-florida-space-industry/" >🔗</a> **[NASA]** NASA’s Kennedy Marks New Chapter for Florida Space Industry
-- <a href="https://spacenews.com/rocket-lab-asks-nasa-to-open-up-msr-to-commercial-competition/" >🔗</a> **[SpaceNews]** Rocket Lab asks NASA to open up MSR to commercial competition
-- <a href="https://arstechnica.com/space/2025/01/italian-interest-in-starlink-strikes-at-the-heart-of-european-space-solidarity/" >🔗</a> **[Arstechnica]** Italian interest in Starlink strikes at the heart of European space solidarity
-- <a href="https://spacenews.com/former-pentagon-space-policy-official-stephen-kitay-joins-startup-true-anomaly/" >🔗</a> **[SpaceNews]** Former Pentagon space policy official Stephen Kitay joins startup True Anomaly
-- <a href="https://science.nasa.gov/blog/a-rover-retrospective-turning-trials-to-triumphs-in-2024/" >🔗</a> **[NASA]** A Rover Retrospective: Turning Trials to Triumphs in 2024
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250109T160130">2025-01-09 16:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250109T163554">2025-01-09 16:35:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
