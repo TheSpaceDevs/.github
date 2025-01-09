@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/rubicon-delivers-propulsion-for-nasa-dual-mode-mission/" >🔗</a> **[SpaceNews]** Rubicon delivers  propulsion for NASA dual-mode mission
 - <a href="https://www.teslarati.com/spacex-confirms-next-starship-launch-target-heres-when-it-will-take-off/" >🔗</a> **[Teslarati]** SpaceX confirms next Starship launch target – Here’s when it will take off
 - <a href="https://spacenews.com/u-s-military-satellites-achieve-first-cross-vendor-laser-communications-link/" >🔗</a> **[SpaceNews]** U.S. military satellites achieve first cross-vendor laser communications link
 - <a href="https://science.nasa.gov/science-research/earth-science/summary-of-the-2024-nasa-lcluc-science-team-meeting/" >🔗</a> **[NASA]** Summary of the 2024 NASA LCLUC Science Team Meeting
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/helicopter-removes-artifact-from-nasa-armstrong-rooftop/" >🔗</a> **[NASA]** Helicopter Removes Artifact from NASA Armstrong Rooftop
 - <a href="https://arstechnica.com/space/2025/01/intuitive-machines-set-for-second-landing-looking-to-build-a-lunar-economy/" >🔗</a> **[Arstechnica]** Intuitive Machines set for second landing, looking to build a lunar economy
 - <a href="https://europeanspaceflight.com/germany-italy-and-the-uk-slash-esa-contributions-by-e430m/" >🔗</a> **[European Spaceflight]** Germany, Italy, and the UK Slash ESA Contributions by €430M
-- <a href="https://www.nasa.gov/image-article/achieving-instrument-high-accuracy-in-orbit/" >🔗</a> **[NASA]** Achieving Instrument High Accuracy In-Orbit
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250109T213106">2025-01-09 21:31:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250109T220132">2025-01-09 22:01:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
