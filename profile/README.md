@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/u-s-military-satellites-achieve-first-cross-vendor-laser-communications-link/" >🔗</a> **[SpaceNews]** U.S. military satellites achieve first cross-vendor laser communications link
+- <a href="https://science.nasa.gov/science-research/earth-science/summary-of-the-2024-nasa-lcluc-science-team-meeting/" >🔗</a> **[NASA]** Summary of the 2024 NASA LCLUC Science Team Meeting
 - <a href="https://spacenews.com/researchers-propose-un-goal-to-curb-space-debris/" >🔗</a> **[SpaceNews]** Researchers propose UN goal to curb space debris
 - <a href="https://www.nasa.gov/general/35-years-ago-sts-32-returns-the-long-duration-exposure-facility/" >🔗</a> **[NASA]** 35 Years Ago: STS-32 Returns the Long Duration Exposure Facility
 - <a href="https://spacenews.com/dutch-military-signs-satellite-intelligence-deal-with-maxar/" >🔗</a> **[SpaceNews]** Dutch military signs satellite intelligence deal with Maxar
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://europeanspaceflight.com/germany-italy-and-the-uk-slash-esa-contributions-by-e430m/" >🔗</a> **[European Spaceflight]** Germany, Italy, and the UK Slash ESA Contributions by €430M
 - <a href="https://www.nasa.gov/image-article/achieving-instrument-high-accuracy-in-orbit/" >🔗</a> **[NASA]** Achieving Instrument High Accuracy In-Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/01/ESA_Director_General_s_Annual_Press_Briefing" >🔗</a> **[ESA]** ESA Director General’s Annual Press Briefing
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Top_three_images_from_BepiColombo_s_sixth_Mercury_flyby" >🔗</a> **[ESA]** Top three images from BepiColombo's sixth Mercury flyby
-- <a href="https://spaceflightnow.com/2025/01/09/live-coverage-spacex-to-launch-starshield-satellites-for-the-nro-on-falcon-9-rocket-from-california/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Starshield satellites for the NRO on Falcon 9 rocket from California
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250109T190126">2025-01-09 19:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250109T193116">2025-01-09 19:31:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
