@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2025/01/why-are-wildfires-raging-across-southern-california-well-its-complicated/" >🔗</a> **[Arstechnica]** Why are wildfires raging across Southern California? Well, it’s complicated.
 - <a href="https://spacenews.com/nasa-jet-propulsion-laboratory-evacuated-due-to-la-wildfire/" >🔗</a> **[SpaceNews]** NASA Jet Propulsion Laboratory evacuated due to LA wildfire
 - <a href="https://spacenews.com/rubicon-delivers-propulsion-for-nasa-dual-mode-mission/" >🔗</a> **[SpaceNews]** Rubicon delivers  propulsion for NASA dual-mode mission
 - <a href="https://www.teslarati.com/spacex-confirms-next-starship-launch-target-heres-when-it-will-take-off/" >🔗</a> **[Teslarati]** SpaceX confirms next Starship launch target – Here’s when it will take off
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/general/35-years-ago-sts-32-returns-the-long-duration-exposure-facility/" >🔗</a> **[NASA]** 35 Years Ago: STS-32 Returns the Long Duration Exposure Facility
 - <a href="https://spacenews.com/dutch-military-signs-satellite-intelligence-deal-with-maxar/" >🔗</a> **[SpaceNews]** Dutch military signs satellite intelligence deal with Maxar
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/helicopter-removes-artifact-from-nasa-armstrong-rooftop/" >🔗</a> **[NASA]** Helicopter Removes Artifact from NASA Armstrong Rooftop
-- <a href="https://arstechnica.com/space/2025/01/intuitive-machines-set-for-second-landing-looking-to-build-a-lunar-economy/" >🔗</a> **[Arstechnica]** Intuitive Machines set for second landing, looking to build a lunar economy
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250109T230126">2025-01-09 23:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250109T233111">2025-01-09 23:31:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
