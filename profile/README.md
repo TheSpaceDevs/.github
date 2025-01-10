@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.nasa.gov/directorates/stmd/niac/construction-assembly-destination/" >🔗</a> **[NASA]** Construction Assembly Destination
-- <a href="https://www.nasa.gov/directorates/stmd/niac/hydrogen-hybrid-power-for-aviation-sustainable-systems-hy2pass/" >🔗</a> **[NASA]** Hydrogen Hybrid Power for Aviation Sustainable Systems (Hy2PASS)
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_06-10_January_2025" >🔗</a> **[ESA]** Week in images: 06-10 January 2025
-- <a href="https://www.nasa.gov/missions/artemis/nasa-and-italian-space-agency-test-future-lunar-navigation-technology/" >🔗</a> **[NASA]** NASA and Italian Space Agency Test Future Lunar Navigation Technology
-- <a href="https://www.nasa.gov/news-release/aumentan-las-temperaturas-la-nasa-confirma-que-el-2024-fue-el-ano-mas-calido-registrado/" >🔗</a> **[NASA]** Aumentan las temperaturas: La NASA confirma que el 2024 fue el año más cálido registrado
-- <a href="https://www.nasa.gov/general/nuclear-electric-propulsion-technology-could-make-missions-to-mars-faster/" >🔗</a> **[NASA]** Nuclear Electric Propulsion Technology Could Make Missions to Mars Faster
-- <a href="https://www.nasa.gov/centers-and-facilities/wallops/nasa-wallops-to-support-january-sounding-rocket-launch/" >🔗</a> **[NASA]** NASA Wallops to Support January Sounding Rocket Launch
-- <a href="https://arstechnica.com/space/2025/01/a-glowing-ring-of-metal-fell-to-earth-and-no-one-has-any-idea-what-it-is/" >🔗</a> **[Arstechnica]** A glowing ring of metal fell to Earth, and no one has any idea what it is
-- <a href="https://www.nasa.gov/news-release/temperatures-rising-nasa-confirms-2024-warmest-year-on-record/" >🔗</a> **[NASA]** Temperatures Rising: NASA Confirms 2024 Warmest Year on Record
-- <a href="https://www.nasa.gov/centers-and-facilities/goddard/nasa-instrument-on-fireflys-blue-ghost-lander-to-study-lunar-interior/" >🔗</a> **[NASA]** NASA Instrument on Firefly’s Blue Ghost Lander to Study Lunar Interior
+- <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-firefly-first-commercial-robotic-moon-launch/" >🔗</a> **[NASA]** NASA Sets Coverage for Firefly First Commercial Robotic Moon Launch
+- <a href="https://www.nasa.gov/directorates/stmd/niac/niac-2025-selections/" >🔗</a> **[NASA]** NIAC 2025 Selections
+- <a href="https://www.nasa.gov/directorates/stmd/niac/leap-legged-exploration-across-the-plume/" >🔗</a> **[NASA]** LEAP – Legged Exploration Across the Plume
+- <a href="https://www.nasa.gov/directorates/stmd/niac/fusion-enabled-comprehensive-exploration-of-the-heliosphere/" >🔗</a> **[NASA]** Fusion-Enabled Comprehensive Exploration of the Heliosphere
+- <a href="https://www.nasa.gov/directorates/stmd/niac/beholding-black-hole-power-with-the-accretion-explorer-interferometer/" >🔗</a> **[NASA]** Beholding Black Hole Power with the Accretion Explorer Interferometer
+- <a href="https://www.nasa.gov/directorates/stmd/niac/thermo-photo-catalysis-of-water-for-crewed-mars-transit-spacecraft-oxygen-supply/" >🔗</a> **[NASA]** Thermo-Photo-Catalysis of Water for Crewed Mars Transit Spacecraft Oxygen Supply
+- <a href="https://www.nasa.gov/directorates/stmd/niac/supreme-qg-space-borne-ultra-precise-measurement-of-the-equivalence-principle-signature-of-quantum-gravity/" >🔗</a> **[NASA]** SUPREME-QG: Space-borne Ultra-Precise Measurement of the Equivalence Principle Signature of Quantum Gravity
+- <a href="https://www.nasa.gov/directorates/stmd/niac/pulsar-planetary-pulse-taker/" >🔗</a> **[NASA]** PULSAR: Planetary pULSe-tAkeR
+- <a href="https://www.nasa.gov/directorates/stmd/niac/inflatable-starshade-for-earthlike-exoplanets/" >🔗</a> **[NASA]** Inflatable Starshade for Earthlike Exoplanets
+- <a href="https://www.nasa.gov/directorates/stmd/niac/tobias-tethered-observatory-for-balloon-based-imaging-and-atmospheric-sampling/" >🔗</a> **[NASA]** TOBIAS: Tethered Observatory for Balloon-based Imaging and Atmospheric Sampling
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250110T193103">2025-01-10 19:31:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250110T200134">2025-01-10 20:01:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
