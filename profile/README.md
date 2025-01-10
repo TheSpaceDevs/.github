@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/testing-of-key-ariane-6-upgrade-to-begin-in-march/" >🔗</a> **[European Spaceflight]** Testing of Key Ariane 6 Upgrade to Begin in March
 - <a href="https://spaceflightnow.com/2025/01/10/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-5/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://arstechnica.com/science/2025/01/why-are-wildfires-raging-across-southern-california-well-its-complicated/" >🔗</a> **[Arstechnica]** Why are wildfires raging across Southern California? Well, it’s complicated.
 - <a href="https://spacenews.com/nasa-jet-propulsion-laboratory-evacuated-due-to-la-wildfire/" >🔗</a> **[SpaceNews]** NASA Jet Propulsion Laboratory evacuated due to LA wildfire
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/science-research/earth-science/summary-of-the-2024-nasa-lcluc-science-team-meeting/" >🔗</a> **[NASA]** Summary of the 2024 NASA LCLUC Science Team Meeting
 - <a href="https://spacenews.com/researchers-propose-un-goal-to-curb-space-debris/" >🔗</a> **[SpaceNews]** Researchers propose UN goal to curb space debris
 - <a href="https://www.nasa.gov/general/35-years-ago-sts-32-returns-the-long-duration-exposure-facility/" >🔗</a> **[NASA]** 35 Years Ago: STS-32 Returns the Long Duration Exposure Facility
-- <a href="https://spacenews.com/dutch-military-signs-satellite-intelligence-deal-with-maxar/" >🔗</a> **[SpaceNews]** Dutch military signs satellite intelligence deal with Maxar
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250110T100134">2025-01-10 10:01:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250110T103456">2025-01-10 10:34:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
