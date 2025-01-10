@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/esa-budget-dips-slightly-in-2025/" >🔗</a> **[SpaceNews]** ESA budget dips slightly in 2025
+- <a href="https://science.nasa.gov/missions/hubble/hubble-rings-in-the-new-year/" >🔗</a> **[NASA]** Hubble Rings In the New Year
 - <a href="https://spacenews.com/spacex-launches-nrol-153-expanding-u-s-spy-satellite-constellation/" >🔗</a> **[SpaceNews]** SpaceX launches NROL-153, expanding U.S. spy satellite constellation
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/01/In_a_materials_world" >🔗</a> **[ESA]** In a materials world
 - <a href="https://europeanspaceflight.com/testing-of-key-ariane-6-upgrade-to-begin-in-march/" >🔗</a> **[European Spaceflight]** Testing of Key Ariane 6 Upgrade to Begin in March
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/nasa-jet-propulsion-laboratory-evacuated-due-to-la-wildfire/" >🔗</a> **[SpaceNews]** NASA Jet Propulsion Laboratory evacuated due to LA wildfire
 - <a href="https://spacenews.com/rubicon-delivers-propulsion-for-nasa-dual-mode-mission/" >🔗</a> **[SpaceNews]** Rubicon delivers  propulsion for NASA dual-mode mission
 - <a href="https://www.teslarati.com/spacex-confirms-next-starship-launch-target-heres-when-it-will-take-off/" >🔗</a> **[Teslarati]** SpaceX confirms next Starship launch target – Here’s when it will take off
-- <a href="https://spacenews.com/u-s-military-satellites-achieve-first-cross-vendor-laser-communications-link/" >🔗</a> **[SpaceNews]** U.S. military satellites achieve first cross-vendor laser communications link
-- <a href="https://science.nasa.gov/science-research/earth-science/summary-of-the-2024-nasa-lcluc-science-team-meeting/" >🔗</a> **[NASA]** Summary of the 2024 NASA LCLUC Science Team Meeting
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250110T120148">2025-01-10 12:01:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250110T124239">2025-01-10 12:42:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
