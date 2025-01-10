@@ -92,6 +92,7 @@ into *an Unknown
 
 ### Latest News ⌛
 - <a href="https://www.nasa.gov/image-article/los-angeles-fires-seen-from-international-space-station/" >🔗</a> **[NASA]** Los Angeles Fires Seen from International Space Station
+- <a href="https://science.nasa.gov/directorates/smd/astrophysics-division/nasa-research-to-be-featured-at-american-astronomical-society-meeting/" >🔗</a> **[NASA]** NASA Research To Be Featured at American Astronomical Society Meeting
 - <a href="https://www.nasa.gov/news-release/nasa-awards-2025-innovative-technology-concept-studies/" >🔗</a> **[NASA]** NASA Awards 2025 Innovative Technology Concept Studies
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-firefly-first-commercial-robotic-moon-launch/" >🔗</a> **[NASA]** NASA Sets Coverage for Firefly First Commercial Robotic Moon Launch
 - <a href="https://www.nasa.gov/directorates/stmd/niac/niac-2025-selections/" >🔗</a> **[NASA]** NIAC 2025 Selections
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/directorates/stmd/niac/beholding-black-hole-power-with-the-accretion-explorer-interferometer/" >🔗</a> **[NASA]** Beholding Black Hole Power with the Accretion Explorer Interferometer
 - <a href="https://www.nasa.gov/directorates/stmd/niac/thermo-photo-catalysis-of-water-for-crewed-mars-transit-spacecraft-oxygen-supply/" >🔗</a> **[NASA]** Thermo-Photo-Catalysis of Water for Crewed Mars Transit Spacecraft Oxygen Supply
 - <a href="https://www.nasa.gov/directorates/stmd/niac/supreme-qg-space-borne-ultra-precise-measurement-of-the-equivalence-principle-signature-of-quantum-gravity/" >🔗</a> **[NASA]** SUPREME-QG: Space-borne Ultra-Precise Measurement of the Equivalence Principle Signature of Quantum Gravity
-- <a href="https://www.nasa.gov/directorates/stmd/niac/pulsar-planetary-pulse-taker/" >🔗</a> **[NASA]** PULSAR: Planetary pULSe-tAkeR
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250110T220129">2025-01-10 22:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250110T223401">2025-01-10 22:34:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
