@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacex-launches-nrol-153-expanding-u-s-spy-satellite-constellation/" >🔗</a> **[SpaceNews]** SpaceX launches NROL-153, expanding U.S. spy satellite constellation
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/01/In_a_materials_world" >🔗</a> **[ESA]** In a materials world
 - <a href="https://europeanspaceflight.com/testing-of-key-ariane-6-upgrade-to-begin-in-march/" >🔗</a> **[European Spaceflight]** Testing of Key Ariane 6 Upgrade to Begin in March
 - <a href="https://spaceflightnow.com/2025/01/10/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-5/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://arstechnica.com/science/2025/01/why-are-wildfires-raging-across-southern-california-well-its-complicated/" >🔗</a> **[Arstechnica]** Why are wildfires raging across Southern California? Well, it’s complicated.
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.teslarati.com/spacex-confirms-next-starship-launch-target-heres-when-it-will-take-off/" >🔗</a> **[Teslarati]** SpaceX confirms next Starship launch target – Here’s when it will take off
 - <a href="https://spacenews.com/u-s-military-satellites-achieve-first-cross-vendor-laser-communications-link/" >🔗</a> **[SpaceNews]** U.S. military satellites achieve first cross-vendor laser communications link
 - <a href="https://science.nasa.gov/science-research/earth-science/summary-of-the-2024-nasa-lcluc-science-team-meeting/" >🔗</a> **[NASA]** Summary of the 2024 NASA LCLUC Science Team Meeting
-- <a href="https://spacenews.com/researchers-propose-un-goal-to-curb-space-debris/" >🔗</a> **[SpaceNews]** Researchers propose UN goal to curb space debris
-- <a href="https://www.nasa.gov/general/35-years-ago-sts-32-returns-the-long-duration-exposure-facility/" >🔗</a> **[NASA]** 35 Years Ago: STS-32 Returns the Long Duration Exposure Facility
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250110T110130">2025-01-10 11:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250110T113112">2025-01-10 11:31:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
