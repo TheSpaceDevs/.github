@@ -91,15 +91,15 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_06-10_January_2025" >🔗</a> **[ESA]** Week in images: 06-10 January 2025
+- <a href="https://www.nasa.gov/missions/artemis/nasa-and-italian-space-agency-test-future-lunar-navigation-technology/" >🔗</a> **[NASA]** NASA and Italian Space Agency Test Future Lunar Navigation Technology
+- <a href="https://www.nasa.gov/news-release/aumentan-las-temperaturas-la-nasa-confirma-que-el-2024-fue-el-ano-mas-calido-registrado/" >🔗</a> **[NASA]** Aumentan las temperaturas: La NASA confirma que el 2024 fue el año más cálido registrado
+- <a href="https://www.nasa.gov/general/nuclear-electric-propulsion-technology-could-make-missions-to-mars-faster/" >🔗</a> **[NASA]** Nuclear Electric Propulsion Technology Could Make Missions to Mars Faster
+- <a href="https://www.nasa.gov/centers-and-facilities/wallops/nasa-wallops-to-support-january-sounding-rocket-launch/" >🔗</a> **[NASA]** NASA Wallops to Support January Sounding Rocket Launch
 - <a href="https://arstechnica.com/space/2025/01/a-glowing-ring-of-metal-fell-to-earth-and-no-one-has-any-idea-what-it-is/" >🔗</a> **[Arstechnica]** A glowing ring of metal fell to Earth, and no one has any idea what it is
 - <a href="https://www.nasa.gov/news-release/temperatures-rising-nasa-confirms-2024-warmest-year-on-record/" >🔗</a> **[NASA]** Temperatures Rising: NASA Confirms 2024 Warmest Year on Record
 - <a href="https://www.nasa.gov/centers-and-facilities/goddard/nasa-instrument-on-fireflys-blue-ghost-lander-to-study-lunar-interior/" >🔗</a> **[NASA]** NASA Instrument on Firefly’s Blue Ghost Lander to Study Lunar Interior
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/01/Los_Angeles_struggles_to_contain_wildfires" >🔗</a> **[ESA]** Los Angeles struggles to contain wildfires
 - <a href="https://www.nasa.gov/news-release/new-jersey-students-to-hear-from-nasa-astronauts-aboard-space-station/" >🔗</a> **[NASA]** New Jersey Students to Hear from NASA Astronauts Aboard Space Station
-- <a href="https://spacenews.com/a-vision-for-better-milsatcom-in-the-united-kingdom/" >🔗</a> **[SpaceNews]** A vision for better MilSatCom in the United Kingdom
-- <a href="https://spacenews.com/esa-budget-dips-slightly-in-2025/" >🔗</a> **[SpaceNews]** ESA budget dips slightly in 2025
-- <a href="https://science.nasa.gov/missions/hubble/hubble-rings-in-the-new-year/" >🔗</a> **[NASA]** Hubble Rings In the New Year
-- <a href="https://spacenews.com/spacex-launches-nrol-153-expanding-u-s-spy-satellite-constellation/" >🔗</a> **[SpaceNews]** SpaceX launches NROL-153, expanding U.S. spy satellite constellation
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250110T170127">2025-01-10 17:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250110T173211">2025-01-10 17:32:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
