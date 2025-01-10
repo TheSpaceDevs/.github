@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_06-10_January_2025" >🔗</a> **[ESA]** Week in images: 06-10 January 2025
+- <a href="https://spacenews.com/a-vision-for-better-milsatcom-in-the-united-kingdom/" >🔗</a> **[SpaceNews]** A vision for better MilSatCom in the United Kingdom
 - <a href="https://spacenews.com/esa-budget-dips-slightly-in-2025/" >🔗</a> **[SpaceNews]** ESA budget dips slightly in 2025
 - <a href="https://science.nasa.gov/missions/hubble/hubble-rings-in-the-new-year/" >🔗</a> **[NASA]** Hubble Rings In the New Year
 - <a href="https://spacenews.com/spacex-launches-nrol-153-expanding-u-s-spy-satellite-constellation/" >🔗</a> **[SpaceNews]** SpaceX launches NROL-153, expanding U.S. spy satellite constellation
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/01/10/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-5/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://arstechnica.com/science/2025/01/why-are-wildfires-raging-across-southern-california-well-its-complicated/" >🔗</a> **[Arstechnica]** Why are wildfires raging across Southern California? Well, it’s complicated.
 - <a href="https://spacenews.com/nasa-jet-propulsion-laboratory-evacuated-due-to-la-wildfire/" >🔗</a> **[SpaceNews]** NASA Jet Propulsion Laboratory evacuated due to LA wildfire
-- <a href="https://spacenews.com/rubicon-delivers-propulsion-for-nasa-dual-mode-mission/" >🔗</a> **[SpaceNews]** Rubicon delivers  propulsion for NASA dual-mode mission
-- <a href="https://www.teslarati.com/spacex-confirms-next-starship-launch-target-heres-when-it-will-take-off/" >🔗</a> **[Teslarati]** SpaceX confirms next Starship launch target – Here’s when it will take off
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250110T140130">2025-01-10 14:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250110T143334">2025-01-10 14:33:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
