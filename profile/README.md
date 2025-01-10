@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-awards-2025-innovative-technology-concept-studies/" >🔗</a> **[NASA]** NASA Awards 2025 Innovative Technology Concept Studies
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-firefly-first-commercial-robotic-moon-launch/" >🔗</a> **[NASA]** NASA Sets Coverage for Firefly First Commercial Robotic Moon Launch
 - <a href="https://www.nasa.gov/directorates/stmd/niac/niac-2025-selections/" >🔗</a> **[NASA]** NIAC 2025 Selections
 - <a href="https://www.nasa.gov/directorates/stmd/niac/leap-legged-exploration-across-the-plume/" >🔗</a> **[NASA]** LEAP – Legged Exploration Across the Plume
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/directorates/stmd/niac/supreme-qg-space-borne-ultra-precise-measurement-of-the-equivalence-principle-signature-of-quantum-gravity/" >🔗</a> **[NASA]** SUPREME-QG: Space-borne Ultra-Precise Measurement of the Equivalence Principle Signature of Quantum Gravity
 - <a href="https://www.nasa.gov/directorates/stmd/niac/pulsar-planetary-pulse-taker/" >🔗</a> **[NASA]** PULSAR: Planetary pULSe-tAkeR
 - <a href="https://www.nasa.gov/directorates/stmd/niac/inflatable-starshade-for-earthlike-exoplanets/" >🔗</a> **[NASA]** Inflatable Starshade for Earthlike Exoplanets
-- <a href="https://www.nasa.gov/directorates/stmd/niac/tobias-tethered-observatory-for-balloon-based-imaging-and-atmospheric-sampling/" >🔗</a> **[NASA]** TOBIAS: Tethered Observatory for Balloon-based Imaging and Atmospheric Sampling
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250110T210131">2025-01-10 21:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250110T213112">2025-01-10 21:31:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
