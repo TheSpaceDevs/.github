@@ -46,7 +46,6 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250110T152700">2025-01-10 15:27:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-12&location=Cape Canaveral SFS, FL, USA&dates=20250110T152700Z%2F20250110T191509Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-12** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250112T060000">2025-01-12 06:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Glenn | Maiden Flight&location=Cape Canaveral SFS, FL, USA&dates=20250112T060000Z%2F20250112T090000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Glenn | Maiden Flight** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250113T025100">2025-01-13 02:51:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/un.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Smart Dragon 3 | Unknown Payload&location=Sea Launch&dates=20250113T025100Z%2F20250113T031700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Smart Dragon 3 | Unknown Payload** from Sea Launch.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250113T145900">2025-01-13 14:59:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-4&location=Cape Canaveral SFS, FL, USA&dates=20250113T145900Z%2F20250113T193000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-4** from Cape Canaveral SFS, FL, USA.
@@ -92,15 +91,15 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_06-10_January_2025" >🔗</a> **[ESA]** Week in images: 06-10 January 2025
+- <a href="https://www.nasa.gov/centers-and-facilities/goddard/nasa-instrument-on-fireflys-blue-ghost-lander-to-study-lunar-interior/" >🔗</a> **[NASA]** NASA Instrument on Firefly’s Blue Ghost Lander to Study Lunar Interior
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/01/Los_Angeles_struggles_to_contain_wildfires" >🔗</a> **[ESA]** Los Angeles struggles to contain wildfires
+- <a href="https://www.nasa.gov/news-release/new-jersey-students-to-hear-from-nasa-astronauts-aboard-space-station/" >🔗</a> **[NASA]** New Jersey Students to Hear from NASA Astronauts Aboard Space Station
 - <a href="https://spacenews.com/a-vision-for-better-milsatcom-in-the-united-kingdom/" >🔗</a> **[SpaceNews]** A vision for better MilSatCom in the United Kingdom
 - <a href="https://spacenews.com/esa-budget-dips-slightly-in-2025/" >🔗</a> **[SpaceNews]** ESA budget dips slightly in 2025
 - <a href="https://science.nasa.gov/missions/hubble/hubble-rings-in-the-new-year/" >🔗</a> **[NASA]** Hubble Rings In the New Year
 - <a href="https://spacenews.com/spacex-launches-nrol-153-expanding-u-s-spy-satellite-constellation/" >🔗</a> **[SpaceNews]** SpaceX launches NROL-153, expanding U.S. spy satellite constellation
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/01/In_a_materials_world" >🔗</a> **[ESA]** In a materials world
 - <a href="https://europeanspaceflight.com/testing-of-key-ariane-6-upgrade-to-begin-in-march/" >🔗</a> **[European Spaceflight]** Testing of Key Ariane 6 Upgrade to Begin in March
-- <a href="https://spaceflightnow.com/2025/01/10/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-5/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket from Cape Canaveral
-- <a href="https://arstechnica.com/science/2025/01/why-are-wildfires-raging-across-southern-california-well-its-complicated/" >🔗</a> **[Arstechnica]** Why are wildfires raging across Southern California? Well, it’s complicated.
-- <a href="https://spacenews.com/nasa-jet-propulsion-laboratory-evacuated-due-to-la-wildfire/" >🔗</a> **[SpaceNews]** NASA Jet Propulsion Laboratory evacuated due to LA wildfire
 
 
 ### Launch-related News 🚀
@@ -111,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250110T150117">2025-01-10 15:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250110T153242">2025-01-10 15:32:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
