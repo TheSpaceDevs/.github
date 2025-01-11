@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/esa-set-to-sign-major-argonaut-lunar-lander-contract-in-q1/" >🔗</a> **[European Spaceflight]** ESA Set to Sign Major Argonaut Lunar Lander Contract in Q1
 - <a href="https://spacenews.com/four-astranis-geo-satellites-pass-initial-commissioning-milestone/" >🔗</a> **[SpaceNews]** Four Astranis GEO satellites pass initial commissioning milestone
 - <a href="https://science.nasa.gov/learning-resources/science-activation/first-nasa-neurodiversity-network-intern-to-present-at-the-american-geophysical-union-annual-conference/" >🔗</a> **[NASA]** First NASA Neurodiversity Network Intern to Present at the American Geophysical Union Annual Conference
 - <a href="https://www.nasa.gov/image-article/los-angeles-fires-seen-from-international-space-station/" >🔗</a> **[NASA]** Los Angeles Fires Seen from International Space Station
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/directorates/stmd/niac/niac-2025-selections/" >🔗</a> **[NASA]** NIAC 2025 Selections
 - <a href="https://www.nasa.gov/directorates/stmd/niac/leap-legged-exploration-across-the-plume/" >🔗</a> **[NASA]** LEAP – Legged Exploration Across the Plume
 - <a href="https://www.nasa.gov/directorates/stmd/niac/fusion-enabled-comprehensive-exploration-of-the-heliosphere/" >🔗</a> **[NASA]** Fusion-Enabled Comprehensive Exploration of the Heliosphere
-- <a href="https://www.nasa.gov/directorates/stmd/niac/beholding-black-hole-power-with-the-accretion-explorer-interferometer/" >🔗</a> **[NASA]** Beholding Black Hole Power with the Accretion Explorer Interferometer
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250111T070117">2025-01-11 07:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250111T073110">2025-01-11 07:31:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
