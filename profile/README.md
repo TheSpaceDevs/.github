@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-january-12-18-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy January 12-18, 2025
 - <a href="https://www.nasaspaceflight.com/2025/01/new-glenn-launch/" >🔗</a> **[NASASpaceflight]** Blue Origin ready for maiden flight of New Glenn
 - <a href="https://arstechnica.com/space/2025/01/new-glenn-rocket-is-at-the-launch-pad-waiting-for-calm-seas-to-land/" >🔗</a> **[Arstechnica]** New Glenn rocket is at the launch pad, waiting for calm seas to land
 - <a href="https://europeanspaceflight.com/esa-set-to-sign-major-argonaut-lunar-lander-contract-in-q1/" >🔗</a> **[European Spaceflight]** ESA Set to Sign Major Argonaut Lunar Lander Contract in Q1
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/directorates/smd/astrophysics-division/nasa-research-to-be-featured-at-american-astronomical-society-meeting/" >🔗</a> **[NASA]** NASA Research To Be Featured at American Astronomical Society Meeting
 - <a href="https://www.nasa.gov/news-release/nasa-awards-2025-innovative-technology-concept-studies/" >🔗</a> **[NASA]** NASA Awards 2025 Innovative Technology Concept Studies
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-firefly-first-commercial-robotic-moon-launch/" >🔗</a> **[NASA]** NASA Sets Coverage for Firefly First Commercial Robotic Moon Launch
-- <a href="https://www.nasa.gov/directorates/stmd/niac/niac-2025-selections/" >🔗</a> **[NASA]** NIAC 2025 Selections
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250112T170117">2025-01-12 17:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250112T173105">2025-01-12 17:31:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
