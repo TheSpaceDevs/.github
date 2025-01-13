@@ -93,6 +93,7 @@ Target orbit is 2400 x 19300 km at 30° inclination.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/its-a-scrub-for-the-inaugural-flight-of-blue-origins-new-glenn/" >🔗</a> **[SpacePolicyOnline.com]** It’s a Scrub for the Inaugural Flight of Blue Origin’s New Glenn
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/XMM-Newton/XMM-Newton_catches_giant_black_hole_s_X-ray_oscillations" >🔗</a> **[ESA]** XMM-Newton catches giant black hole’s X-ray oscillations
 - <a href="https://www.esa.int/About_Us/Corporate_news/ESA_welcomes_Slovenia_as_23rd_Member_State" >🔗</a> **[ESA]** ESA welcomes Slovenia as 23rd Member State
 - <a href="https://www.nasa.gov/centers-and-facilities/high-school-aerospace-scholars-propel-stem-leaders-forward/" >🔗</a> **[NASA]** High School Aerospace Scholars Propel STEM Leaders Forward
@@ -102,7 +103,6 @@ Target orbit is 2400 x 19300 km at 30° inclination.
 - <a href="https://spaceflightnow.com/2025/01/13/live-coverage-blue-origin-to-launch-inaugural-new-glenn-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: Blue Origin to launch inaugural New Glenn rocket from Cape Canaveral
 - <a href="https://arstechnica.com/uncategorized/2025/01/bezos-on-eve-of-new-glenn-launch-if-something-goes-wrong-well-pick-ourselves-up/" >🔗</a> **[Arstechnica]** Bezos on eve of New Glenn launch: ‘If something goes wrong, we’ll pick ourselves up’
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-january-12-18-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy January 12-18, 2025
-- <a href="https://www.nasaspaceflight.com/2025/01/new-glenn-launch/" >🔗</a> **[NASASpaceflight]** Blue Origin ready for maiden flight of New Glenn
 
 
 ### Launch-related News 🚀
@@ -121,7 +121,7 @@ Target orbit is 2400 x 19300 km at 30° inclination.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250113T180129">2025-01-13 18:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250113T183655">2025-01-13 18:36:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
