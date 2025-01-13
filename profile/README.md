@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Corporate_news/ESA_welcomes_Slovenia_as_23rd_Member_State" >🔗</a> **[ESA]** ESA welcomes Slovenia as 23rd Member State
 - <a href="https://www.nasa.gov/centers-and-facilities/high-school-aerospace-scholars-propel-stem-leaders-forward/" >🔗</a> **[NASA]** High School Aerospace Scholars Propel STEM Leaders Forward
 - <a href="https://spaceflightnow.com/2025/01/13/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-6/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://arstechnica.com/space/2025/01/an-icy-vent-line-may-have-caused-blue-origin-to-scrub-debut-launch-of-new-glenn/" >🔗</a> **[Arstechnica]** An icy vent line may have caused Blue Origin to scrub debut launch of New Glenn
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-january-12-18-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy January 12-18, 2025
 - <a href="https://www.nasaspaceflight.com/2025/01/new-glenn-launch/" >🔗</a> **[NASASpaceflight]** Blue Origin ready for maiden flight of New Glenn
 - <a href="https://arstechnica.com/space/2025/01/new-glenn-rocket-is-at-the-launch-pad-waiting-for-calm-seas-to-land/" >🔗</a> **[Arstechnica]** New Glenn rocket is at the launch pad, waiting for calm seas to land
-- <a href="https://europeanspaceflight.com/esa-set-to-sign-major-argonaut-lunar-lander-contract-in-q1/" >🔗</a> **[European Spaceflight]** ESA Set to Sign Major Argonaut Lunar Lander Contract in Q1
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250113T140132">2025-01-13 14:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250113T143430">2025-01-13 14:34:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
