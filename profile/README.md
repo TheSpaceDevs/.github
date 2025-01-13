@@ -20,27 +20,29 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Smart Dragon 3 | Unknown Payload**. It is scheduled to be launched by *China Rocket Co. Ltd.*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-from *<a href="None">Haiyang Spaceport</a>, Sea Launch*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/un.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250113T025100">2025-01-13 02:51:00 UTC</a>.  Until
-then, this pad will have been used for 3
-out of 54 launches from this location. The launch status is currently
+**New Glenn | Maiden Flight**. It is scheduled to be launched by *Blue Origin*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Launch_Complex_36">Launch Complex 36A</a>, Cape Canaveral SFS, FL, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250113T060000">2025-01-13 06:00:00 UTC</a>.  Until
+then, this pad will have been used for 68
+out of 997 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Unknown* and the payload will be injected
-into *an Unknown
-(N/A)*.
+*Test Flight* and the payload will be injected
+into *a Medium Earth Orbit
+(MEO)*.
 <br>
 <blockquote>
-  Details TBD.
+  Maiden flight of the New Glenn launch vehicle. Will carry the prototype Blue Ring payload tug and payload hoisting platform, consisting of communications array, power systems, and a flight computer affixed to a secondary payload adapter ring, remaining attached to the 2nd stage. This launch will serve as New Glenn's first National Security Space Launch certification flight.
+
+Target orbit is 2400 x 19300 km at 30° inclination.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="None" >
+  <a href="https://en.wikipedia.org/wiki/New_Glenn" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="None" >
+  <a href="https://www.google.com/maps?q=28.4705556,-80.542194" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -55,6 +57,7 @@ into *an Unknown
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250129T040000">2025-01-29 04:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SpainSat NG I&location=Cape Canaveral SFS, FL, USA&dates=20250129T040000Z%2F20250129T060000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | SpainSat NG I** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250131T000000">2025-01-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Kinéis 16-20&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20250131T000000Z%2F20250131T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Kinéis 16-20** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250131T000000">2025-01-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-3&location=Cape Canaveral SFS, FL, USA&dates=20250131T000000Z%2F20250131T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-3** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250131T000000">2025-01-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=GSLV Mk II | IRNSS-1K (NVS-02)&location=Satish Dhawan Space Centre, India&dates=20250131T000000Z%2F20250131T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **GSLV Mk II | IRNSS-1K (NVS-02)** from Satish Dhawan Space Centre, India.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -104,11 +107,21 @@ into *an Unknown
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2025/01/new-glenn-launch/" >🔗</a> **[NASASpaceflight]** Blue Origin ready for maiden flight of New Glenn
+- <a href="https://arstechnica.com/space/2025/01/new-glenn-rocket-is-at-the-launch-pad-waiting-for-calm-seas-to-land/" >🔗</a> **[Arstechnica]** New Glenn rocket is at the launch pad, waiting for calm seas to land
+- <a href="https://www.nasaspaceflight.com/2025/01/launch-roundup-010625/" >🔗</a> **[NASASpaceflight]** Launch Roundup: New Glenn and Starship headline first full week of 2025
+- <a href="https://arstechnica.com/space/2025/01/rocket-report-avio-named-top-european-launch-firm-new-glenn-may-launch-soon/" >🔗</a> **[Arstechnica]** Rocket Report: Avio named top European launch firm; New Glenn may launch soon
+- <a href="https://www.spacescout.info/2024/12/blue-fire-and-green-lights-for-new-glenn/" >🔗</a> **[Space Scout]** Blue Fire and Green Lights for New Glenn
+- <a href="https://www.nasaspaceflight.com/2024/12/launch-roundup-123024/" >🔗</a> **[NASASpaceflight]** Launch Roundup: New Glenn set for maiden flight, Falcon 9 missions end and start the year
+- <a href="https://spacepolicyonline.com/news/blue-origins-new-glenn-rocket-getting-closer-to-first-flight/" >🔗</a> **[SpacePolicyOnline.com]** Blue Origin’s New Glenn Rocket Getting Closer to First Flight
+- <a href="https://spacenews.com/blue-origin-test-fires-new-glenn-first-stage-ahead-of-inaugural-launch/" >🔗</a> **[SpaceNews]** Blue Origin test fires New Glenn first stage ahead of inaugural launch
+- <a href="https://arstechnica.com/space/2024/12/blue-origin-hot-fires-new-glenn-rocket-setting-up-a-launch-early-next-year/" >🔗</a> **[Arstechnica]** Blue Origin hot fires New Glenn rocket, setting up a launch early next year
+- <a href="https://spaceflightnow.com/2024/12/27/faa-grants-commercial-launch-license-to-blue-origins-new-glenn-rocket/" >🔗</a> **[Spaceflight Now]** FAA grants commercial launch license to Blue Origin’s New Glenn rocket
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250113T030845">2025-01-13 03:08:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250113T033717">2025-01-13 03:37:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
