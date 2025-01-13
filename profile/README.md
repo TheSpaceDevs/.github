@@ -92,6 +92,7 @@ Target orbit is 2400 x 19300 km at 30° inclination.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/arianegroup-already-working-to-secure-iris2-launch-contract/" >🔗</a> **[European Spaceflight]** ArianeGroup Already Working to Secure IRIS2 Launch Contract
 - <a href="https://spaceflightnow.com/2025/01/13/live-coverage-blue-origin-to-launch-inaugural-new-glenn-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: Blue Origin to launch inaugural New Glenn rocket from Cape Canaveral
 - <a href="https://arstechnica.com/uncategorized/2025/01/bezos-on-eve-of-new-glenn-launch-if-something-goes-wrong-well-pick-ourselves-up/" >🔗</a> **[Arstechnica]** Bezos on eve of New Glenn launch: ‘If something goes wrong, we’ll pick ourselves up’
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-january-12-18-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy January 12-18, 2025
@@ -101,11 +102,12 @@ Target orbit is 2400 x 19300 km at 30° inclination.
 - <a href="https://spacenews.com/four-astranis-geo-satellites-pass-initial-commissioning-milestone/" >🔗</a> **[SpaceNews]** Four Astranis GEO satellites pass initial commissioning milestone
 - <a href="https://science.nasa.gov/learning-resources/science-activation/first-nasa-neurodiversity-network-intern-to-present-at-the-american-geophysical-union-annual-conference/" >🔗</a> **[NASA]** First NASA Neurodiversity Network Intern to Present at the American Geophysical Union Annual Conference
 - <a href="https://www.nasa.gov/image-article/los-angeles-fires-seen-from-international-space-station/" >🔗</a> **[NASA]** Los Angeles Fires Seen from International Space Station
-- <a href="https://science.nasa.gov/directorates/smd/astrophysics-division/nasa-research-to-be-featured-at-american-astronomical-society-meeting/" >🔗</a> **[NASA]** NASA Research To Be Featured at American Astronomical Society Meeting
 
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2025/01/13/live-coverage-blue-origin-to-launch-inaugural-new-glenn-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: Blue Origin to launch inaugural New Glenn rocket from Cape Canaveral
+- <a href="https://arstechnica.com/uncategorized/2025/01/bezos-on-eve-of-new-glenn-launch-if-something-goes-wrong-well-pick-ourselves-up/" >🔗</a> **[Arstechnica]** Bezos on eve of New Glenn launch: ‘If something goes wrong, we’ll pick ourselves up’
 - <a href="https://www.nasaspaceflight.com/2025/01/new-glenn-launch/" >🔗</a> **[NASASpaceflight]** Blue Origin ready for maiden flight of New Glenn
 - <a href="https://arstechnica.com/space/2025/01/new-glenn-rocket-is-at-the-launch-pad-waiting-for-calm-seas-to-land/" >🔗</a> **[Arstechnica]** New Glenn rocket is at the launch pad, waiting for calm seas to land
 - <a href="https://www.nasaspaceflight.com/2025/01/launch-roundup-010625/" >🔗</a> **[NASASpaceflight]** Launch Roundup: New Glenn and Starship headline first full week of 2025
@@ -114,13 +116,11 @@ Target orbit is 2400 x 19300 km at 30° inclination.
 - <a href="https://www.nasaspaceflight.com/2024/12/launch-roundup-123024/" >🔗</a> **[NASASpaceflight]** Launch Roundup: New Glenn set for maiden flight, Falcon 9 missions end and start the year
 - <a href="https://spacepolicyonline.com/news/blue-origins-new-glenn-rocket-getting-closer-to-first-flight/" >🔗</a> **[SpacePolicyOnline.com]** Blue Origin’s New Glenn Rocket Getting Closer to First Flight
 - <a href="https://spacenews.com/blue-origin-test-fires-new-glenn-first-stage-ahead-of-inaugural-launch/" >🔗</a> **[SpaceNews]** Blue Origin test fires New Glenn first stage ahead of inaugural launch
-- <a href="https://arstechnica.com/space/2024/12/blue-origin-hot-fires-new-glenn-rocket-setting-up-a-launch-early-next-year/" >🔗</a> **[Arstechnica]** Blue Origin hot fires New Glenn rocket, setting up a launch early next year
-- <a href="https://spaceflightnow.com/2024/12/27/faa-grants-commercial-launch-license-to-blue-origins-new-glenn-rocket/" >🔗</a> **[Spaceflight Now]** FAA grants commercial launch license to Blue Origin’s New Glenn rocket
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250113T070129">2025-01-13 07:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250113T073101">2025-01-13 07:31:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
