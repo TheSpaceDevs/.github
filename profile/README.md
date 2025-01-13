@@ -93,16 +93,16 @@ Target orbit is 2400 x 19300 km at 30° inclination.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/earth-in-far-ultraviolet/" >🔗</a> **[NASA]** Earth in Far-Ultraviolet
 - <a href="https://www.nasa.gov/news-release/former-nasa-official-astronaut-bob-cabana-receives-top-civilian-award/" >🔗</a> **[NASA]** Former NASA Official, Astronaut Bob Cabana Receives Top Civilian Award
+- <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-tracks-down-a-blue-lurker-among-stars/" >🔗</a> **[NASA]** NASA’s Hubble Tracks Down a ‘Blue Lurker’ Among Stars
+- <a href="https://science.nasa.gov/missions/webb/webb-watches-carbon-rich-dust-shells-form-expand-in-star-system/" >🔗</a> **[NASA]** Webb Watches Carbon-Rich Dust Shells Form, Expand in Star System
 - <a href="https://www.nasa.gov/missions/station-science-top-news-jan-10-2025/" >🔗</a> **[NASA]** Station Science Top News: Jan. 10, 2025
 - <a href="https://spacepolicyonline.com/news/its-a-scrub-for-the-inaugural-flight-of-blue-origins-new-glenn/" >🔗</a> **[SpacePolicyOnline.com]** It’s a Scrub for the Inaugural Flight of Blue Origin’s New Glenn
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-launch-of-cosmic-origins-solar-wind-missions/" >🔗</a> **[NASA]** NASA Invites Media to Launch of Cosmic Origins, Solar Wind Missions
 - <a href="https://science.nasa.gov/get-involved/citizen-science/newly-selected-citizen-science-proposals-a-peek-at-whats-next/" >🔗</a> **[NASA]** Newly Selected Citizen Science Proposals: A Peek at What’s Next
 - <a href="https://science.nasa.gov/missions/hubble/hubble-reveals-surprising-spiral-shape-of-galaxy-hosting-young-jet/" >🔗</a> **[NASA]** Hubble Reveals Surprising Spiral Shape of Galaxy Hosting Young Jet
 - <a href="https://www.nasa.gov/universe/how-many-black-holes-are-hiding-nasa-study-homes-in-on-answer/" >🔗</a> **[NASA]** How Many Black Holes Are Hiding? NASA Study Homes in on Answer
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/XMM-Newton/XMM-Newton_catches_giant_black_hole_s_X-ray_oscillations" >🔗</a> **[ESA]** XMM-Newton catches giant black hole’s X-ray oscillations
-- <a href="https://science.nasa.gov/universe/black-holes/supermassive-black-holes/astronomers-catch-unprecedented-features-at-brink-of-active-black-hole/" >🔗</a> **[NASA]** Astronomers Catch Unprecedented Features at Brink of Active Black Hole
-- <a href="https://www.nasa.gov/history/55-years-ago-apollo-13-prepares-for-third-moon-landing/" >🔗</a> **[NASA]** 55 Years Ago: Apollo 13 Prepares for Third Moon Landing
 
 
 ### Launch-related News 🚀
@@ -121,7 +121,7 @@ Target orbit is 2400 x 19300 km at 30° inclination.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250113T200123">2025-01-13 20:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250113T203156">2025-01-13 20:31:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
