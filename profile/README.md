@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/01/13/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-6/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://arstechnica.com/space/2025/01/an-icy-vent-line-may-have-caused-blue-origin-to-scrub-debut-launch-of-new-glenn/" >🔗</a> **[Arstechnica]** An icy vent line may have caused Blue Origin to scrub debut launch of New Glenn
 - <a href="https://europeanspaceflight.com/arianegroup-already-working-to-secure-iris2-launch-contract/" >🔗</a> **[European Spaceflight]** ArianeGroup Already Working to Secure IRIS2 Launch Contract
 - <a href="https://spaceflightnow.com/2025/01/13/live-coverage-blue-origin-to-launch-inaugural-new-glenn-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: Blue Origin to launch inaugural New Glenn rocket from Cape Canaveral
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2025/01/new-glenn-rocket-is-at-the-launch-pad-waiting-for-calm-seas-to-land/" >🔗</a> **[Arstechnica]** New Glenn rocket is at the launch pad, waiting for calm seas to land
 - <a href="https://europeanspaceflight.com/esa-set-to-sign-major-argonaut-lunar-lander-contract-in-q1/" >🔗</a> **[European Spaceflight]** ESA Set to Sign Major Argonaut Lunar Lander Contract in Q1
 - <a href="https://spacenews.com/four-astranis-geo-satellites-pass-initial-commissioning-milestone/" >🔗</a> **[SpaceNews]** Four Astranis GEO satellites pass initial commissioning milestone
-- <a href="https://science.nasa.gov/learning-resources/science-activation/first-nasa-neurodiversity-network-intern-to-present-at-the-american-geophysical-union-annual-conference/" >🔗</a> **[NASA]** First NASA Neurodiversity Network Intern to Present at the American Geophysical Union Annual Conference
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250113T100137">2025-01-13 10:01:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250113T103525">2025-01-13 10:35:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
