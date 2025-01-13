@@ -93,6 +93,8 @@ Target orbit is 2400 x 19300 km at 30° inclination.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/01/launch-roundup-011325/" >🔗</a> **[NASASpaceflight]** Launch Roundup: New Glenn and Starship headline a week dominated by SpaceX missions
+- <a href="https://tlpnetwork.com/news/america/blue-origin-set-for-2nd-new-glenn-launch-attempt-tonight" >🔗</a> **[The Launch Pad]** Blue Origin Set For 2nd New Glenn Launch Attempt Tonight!
 - <a href="https://science.nasa.gov/science-research/heliophysics/nasa-heat-student-activity-featured-in-times-top-100-photos-of-2024/" >🔗</a> **[NASA]** NASA HEAT Student Activity Featured in TIME’s Top 100 Photos of 2024
 - <a href="https://science.nasa.gov/learning-resources/science-activation/nasa-heat-student-activity-featured-in-times-top-100-photos-of-2024/" >🔗</a> **[NASA]** NASA HEAT Student Activity Featured in TIME’s Top 100 Photos of 2024
 - <a href="https://www.nasa.gov/image-article/earth-in-far-ultraviolet/" >🔗</a> **[NASA]** Earth in Far-Ultraviolet
@@ -101,8 +103,6 @@ Target orbit is 2400 x 19300 km at 30° inclination.
 - <a href="https://science.nasa.gov/missions/webb/webb-watches-carbon-rich-dust-shells-form-expand-in-star-system/" >🔗</a> **[NASA]** Webb Watches Carbon-Rich Dust Shells Form, Expand in Star System
 - <a href="https://www.nasa.gov/missions/station-science-top-news-jan-10-2025/" >🔗</a> **[NASA]** Station Science Top News: Jan. 10, 2025
 - <a href="https://spacepolicyonline.com/news/its-a-scrub-for-the-inaugural-flight-of-blue-origins-new-glenn/" >🔗</a> **[SpacePolicyOnline.com]** It’s a Scrub for the Inaugural Flight of Blue Origin’s New Glenn
-- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-launch-of-cosmic-origins-solar-wind-missions/" >🔗</a> **[NASA]** NASA Invites Media to Launch of Cosmic Origins, Solar Wind Missions
-- <a href="https://science.nasa.gov/get-involved/citizen-science/newly-selected-citizen-science-proposals-a-peek-at-whats-next/" >🔗</a> **[NASA]** Newly Selected Citizen Science Proposals: A Peek at What’s Next
 
 
 ### Launch-related News 🚀
@@ -121,7 +121,7 @@ Target orbit is 2400 x 19300 km at 30° inclination.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250113T230117">2025-01-13 23:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250113T233104">2025-01-13 23:31:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
