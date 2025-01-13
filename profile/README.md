@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/XMM-Newton/XMM-Newton_catches_giant_black_hole_s_X-ray_oscillations" >🔗</a> **[ESA]** XMM-Newton catches giant black hole’s X-ray oscillations
 - <a href="https://www.esa.int/About_Us/Corporate_news/ESA_welcomes_Slovenia_as_23rd_Member_State" >🔗</a> **[ESA]** ESA welcomes Slovenia as 23rd Member State
 - <a href="https://www.nasa.gov/centers-and-facilities/high-school-aerospace-scholars-propel-stem-leaders-forward/" >🔗</a> **[NASA]** High School Aerospace Scholars Propel STEM Leaders Forward
 - <a href="https://spaceflightnow.com/2025/01/13/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-6/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket from Cape Canaveral
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/uncategorized/2025/01/bezos-on-eve-of-new-glenn-launch-if-something-goes-wrong-well-pick-ourselves-up/" >🔗</a> **[Arstechnica]** Bezos on eve of New Glenn launch: ‘If something goes wrong, we’ll pick ourselves up’
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-january-12-18-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy January 12-18, 2025
 - <a href="https://www.nasaspaceflight.com/2025/01/new-glenn-launch/" >🔗</a> **[NASASpaceflight]** Blue Origin ready for maiden flight of New Glenn
-- <a href="https://arstechnica.com/space/2025/01/new-glenn-rocket-is-at-the-launch-pad-waiting-for-calm-seas-to-land/" >🔗</a> **[Arstechnica]** New Glenn rocket is at the launch pad, waiting for calm seas to land
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250113T150132">2025-01-13 15:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250113T153332">2025-01-13 15:33:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
