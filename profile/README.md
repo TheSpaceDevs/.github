@@ -93,6 +93,7 @@ Target orbit is 2400 x 19300 km at 30° inclination.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/science-research/heliophysics/nasa-heat-student-activity-featured-in-times-top-100-photos-of-2024/" >🔗</a> **[NASA]** NASA HEAT Student Activity Featured in TIME’s Top 100 Photos of 2024
 - <a href="https://www.nasa.gov/image-article/earth-in-far-ultraviolet/" >🔗</a> **[NASA]** Earth in Far-Ultraviolet
 - <a href="https://www.nasa.gov/news-release/former-nasa-official-astronaut-bob-cabana-receives-top-civilian-award/" >🔗</a> **[NASA]** Former NASA Official, Astronaut Bob Cabana Receives Top Civilian Award
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-tracks-down-a-blue-lurker-among-stars/" >🔗</a> **[NASA]** NASA’s Hubble Tracks Down a ‘Blue Lurker’ Among Stars
@@ -102,7 +103,6 @@ Target orbit is 2400 x 19300 km at 30° inclination.
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-launch-of-cosmic-origins-solar-wind-missions/" >🔗</a> **[NASA]** NASA Invites Media to Launch of Cosmic Origins, Solar Wind Missions
 - <a href="https://science.nasa.gov/get-involved/citizen-science/newly-selected-citizen-science-proposals-a-peek-at-whats-next/" >🔗</a> **[NASA]** Newly Selected Citizen Science Proposals: A Peek at What’s Next
 - <a href="https://science.nasa.gov/missions/hubble/hubble-reveals-surprising-spiral-shape-of-galaxy-hosting-young-jet/" >🔗</a> **[NASA]** Hubble Reveals Surprising Spiral Shape of Galaxy Hosting Young Jet
-- <a href="https://www.nasa.gov/universe/how-many-black-holes-are-hiding-nasa-study-homes-in-on-answer/" >🔗</a> **[NASA]** How Many Black Holes Are Hiding? NASA Study Homes in on Answer
 
 
 ### Launch-related News 🚀
@@ -121,7 +121,7 @@ Target orbit is 2400 x 19300 km at 30° inclination.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250113T210124">2025-01-13 21:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250113T213107">2025-01-13 21:31:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
