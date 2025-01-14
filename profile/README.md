@@ -91,16 +91,16 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/arianegroup-completes-key-prometheus-hot-fire-test/" >🔗</a> **[European Spaceflight]** ArianeGroup Completes Key Prometheus Hot Fire Test
 - <a href="https://arstechnica.com/space/2025/01/blue-origin-plans-second-launch-attempt-of-new-glenn-early-on-tuesday/" >🔗</a> **[Arstechnica]** Blue Origin plans second launch attempt of New Glenn early on Tuesday
 - <a href="https://www.nasaspaceflight.com/2025/01/launch-roundup-011325/" >🔗</a> **[NASASpaceflight]** Launch Roundup: New Glenn and Starship headline a week dominated by SpaceX missions
 - <a href="https://tlpnetwork.com/news/america/blue-origin-set-for-2nd-new-glenn-launch-attempt-tonight" >🔗</a> **[The Launch Pad]** Blue Origin Set For 2nd New Glenn Launch Attempt Tonight!
-- <a href="https://science.nasa.gov/learning-resources/science-activation/nasa-heat-student-activity-featured-in-times-top-100-photos-of-2024/" >🔗</a> **[NASA]** NASA HEAT Student Activity Featured in TIME’s Top 100 Photos of 2024
 - <a href="https://science.nasa.gov/science-research/heliophysics/nasa-heat-student-activity-featured-in-times-top-100-photos-of-2024/" >🔗</a> **[NASA]** NASA HEAT Student Activity Featured in TIME’s Top 100 Photos of 2024
+- <a href="https://science.nasa.gov/learning-resources/science-activation/nasa-heat-student-activity-featured-in-times-top-100-photos-of-2024/" >🔗</a> **[NASA]** NASA HEAT Student Activity Featured in TIME’s Top 100 Photos of 2024
 - <a href="https://www.nasa.gov/image-article/earth-in-far-ultraviolet/" >🔗</a> **[NASA]** Earth in Far-Ultraviolet
 - <a href="https://www.nasa.gov/news-release/former-nasa-official-astronaut-bob-cabana-receives-top-civilian-award/" >🔗</a> **[NASA]** Former NASA Official, Astronaut Bob Cabana Receives Top Civilian Award
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-tracks-down-a-blue-lurker-among-stars/" >🔗</a> **[NASA]** NASA’s Hubble Tracks Down a ‘Blue Lurker’ Among Stars
 - <a href="https://science.nasa.gov/missions/webb/webb-watches-carbon-rich-dust-shells-form-expand-in-star-system/" >🔗</a> **[NASA]** Webb Watches Carbon-Rich Dust Shells Form, Expand in Star System
-- <a href="https://www.nasa.gov/missions/station-science-top-news-jan-10-2025/" >🔗</a> **[NASA]** Station Science Top News: Jan. 10, 2025
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250114T060130">2025-01-14 06:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250114T063542">2025-01-14 06:35:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
