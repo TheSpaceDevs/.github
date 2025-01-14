@@ -93,6 +93,7 @@ Resilience is the second mission of the Hakuto-R commercial lunar lander develop
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/isaacman-wins-support-but-also-criticism-from-republicans/" >🔗</a> **[SpacePolicyOnline.com]** Isaacman Wins Support, But Also Criticism from Republicans
 - <a href="https://science.nasa.gov/missions/webb/nasas-webb-reveals-intricate-layers-of-interstellar-dust-gas/" >🔗</a> **[NASA]** NASA’s Webb Reveals Intricate Layers of Interstellar Dust, Gas
 - <a href="https://www.nasa.gov/image-article/800645/" >🔗</a> **[NASA]** Best of 2024: Dinosaur Prepared to Safely Watch Solar Eclipse
 - <a href="https://www.nasa.gov/general/ten-nasa-science-tech-instruments-flying-to-moon-on-firefly-lander/" >🔗</a> **[NASA]** Ten NASA Science, Tech Instruments Flying to Moon on Firefly Lander
@@ -102,7 +103,6 @@ Resilience is the second mission of the Hakuto-R commercial lunar lander develop
 - <a href="https://www.nasa.gov/news-release/nasa-deputy-administrator-to-receive-2025-national-space-award/" >🔗</a> **[NASA]** NASA Deputy Administrator to Receive 2025 National Space Award
 - <a href="https://science.nasa.gov/missions/webb/newfound-galaxy-class-may-indicate-early-black-hole-growth-webb-finds/" >🔗</a> **[NASA]** Newfound Galaxy Class May Indicate Early Black Hole Growth, Webb Finds
 - <a href="https://www.nasa.gov/universe/new-simulated-universe-previews-panoramas-from-nasas-roman-telescope/" >🔗</a> **[NASA]** New Simulated Universe Previews Panoramas From NASA’s Roman Telescope
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/01/BepiColombo_s_sixth_Mercury_flyby_the_movie" >🔗</a> **[ESA]** BepiColombo's sixth Mercury flyby: the movie
 
 
 ### Launch-related News 🚀
@@ -121,7 +121,7 @@ Resilience is the second mission of the Hakuto-R commercial lunar lander develop
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250114T213102">2025-01-14 21:31:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250114T220127">2025-01-14 22:01:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
