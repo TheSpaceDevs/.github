@@ -49,7 +49,7 @@ Resilience is the second mission of the Hakuto-R commercial lunar lander develop
 
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250115T060600">2025-01-15 06:06:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Blue Ghost Lunar Lander Mission 1 &amp; Hakuto-R M2 “Resilience”&location=Kennedy Space Center, FL, USA&dates=20250115T060600Z%2F20250115T064500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Blue Ghost Lunar Lander Mission 1 & Hakuto-R M2 “Resilience”** from Kennedy Space Center, FL, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250115T220000">2025-01-15 22:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Starship | Flight 7&location=SpaceX Starbase, TX, USA&dates=20250115T220000Z%2F20250115T233800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starship | Flight 7** from SpaceX Starbase, TX, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250115T220000">2025-01-15 22:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Starship | Flight 7&location=SpaceX Starbase, TX, USA&dates=20250115T220000Z%2F20250115T230000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starship | Flight 7** from SpaceX Starbase, TX, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250116T060000">2025-01-16 06:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Glenn | Maiden Flight&location=Cape Canaveral SFS, FL, USA&dates=20250116T060000Z%2F20250116T090000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Glenn | Maiden Flight** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250117T035900">2025-01-17 03:59:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2D | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20250117T035900Z%2F20250117T042100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2D | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250118T031800">2025-01-18 03:18:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-8&location=Vandenberg SFB, CA, USA&dates=20250118T031800Z%2F20250118T074900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-8** from Vandenberg SFB, CA, USA.
@@ -93,6 +93,7 @@ Resilience is the second mission of the Hakuto-R commercial lunar lander develop
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/01/blue-ghost-hakuto-r-launch/" >🔗</a> **[NASASpaceflight]** Falcon 9 set to launch two landers to the Moon on the same mission
 - <a href="https://spacepolicyonline.com/news/isaacman-wins-support-but-also-criticism-from-republicans/" >🔗</a> **[SpacePolicyOnline.com]** Isaacman Wins Support, But Also Criticism from Republicans
 - <a href="https://science.nasa.gov/missions/webb/nasas-webb-reveals-intricate-layers-of-interstellar-dust-gas/" >🔗</a> **[NASA]** NASA’s Webb Reveals Intricate Layers of Interstellar Dust, Gas
 - <a href="https://www.nasa.gov/image-article/800645/" >🔗</a> **[NASA]** Best of 2024: Dinosaur Prepared to Safely Watch Solar Eclipse
@@ -102,7 +103,6 @@ Resilience is the second mission of the Hakuto-R commercial lunar lander develop
 - <a href="https://arstechnica.com/space/2025/01/a-nasa-astronaut-may-have-just-taken-the-best-photo-from-space-ever/" >🔗</a> **[Arstechnica]** A NASA astronaut may have just taken the best photo from space—ever
 - <a href="https://www.nasa.gov/news-release/nasa-deputy-administrator-to-receive-2025-national-space-award/" >🔗</a> **[NASA]** NASA Deputy Administrator to Receive 2025 National Space Award
 - <a href="https://science.nasa.gov/missions/webb/newfound-galaxy-class-may-indicate-early-black-hole-growth-webb-finds/" >🔗</a> **[NASA]** Newfound Galaxy Class May Indicate Early Black Hole Growth, Webb Finds
-- <a href="https://www.nasa.gov/universe/new-simulated-universe-previews-panoramas-from-nasas-roman-telescope/" >🔗</a> **[NASA]** New Simulated Universe Previews Panoramas From NASA’s Roman Telescope
 
 
 ### Launch-related News 🚀
@@ -121,7 +121,7 @@ Resilience is the second mission of the Hakuto-R commercial lunar lander develop
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250114T230118">2025-01-14 23:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250114T233106">2025-01-14 23:31:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
