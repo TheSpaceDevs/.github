@@ -91,16 +91,16 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/ten-nasa-science-tech-instruments-flying-to-moon-on-firefly-lander/" >🔗</a> **[NASA]** Ten NASA Science, Tech Instruments Flying to Moon on Firefly Lander
+- <a href="https://spaceflightnow.com/2025/01/14/spacex-to-launch-131-spacecraft-on-transporter-12-falcon-9-rideshare-mission-from-california/" >🔗</a> **[Spaceflight Now]** SpaceX to launch 131 spacecraft on Transporter-12 Falcon 9 rideshare mission from California
+- <a href="https://www.nasaspaceflight.com/2025/01/transporter-12/" >🔗</a> **[NASASpaceflight]** SpaceX Transporter-12 launching more than 100 satellites
 - <a href="https://arstechnica.com/space/2025/01/a-nasa-astronaut-may-have-just-taken-the-best-photo-from-space-ever/" >🔗</a> **[Arstechnica]** A NASA astronaut may have just taken the best photo from space—ever
-- <a href="https://science.nasa.gov/aeronautics/test-2/" >🔗</a> **[NASA]** test
 - <a href="https://www.nasa.gov/news-release/nasa-deputy-administrator-to-receive-2025-national-space-award/" >🔗</a> **[NASA]** NASA Deputy Administrator to Receive 2025 National Space Award
 - <a href="https://science.nasa.gov/missions/webb/newfound-galaxy-class-may-indicate-early-black-hole-growth-webb-finds/" >🔗</a> **[NASA]** Newfound Galaxy Class May Indicate Early Black Hole Growth, Webb Finds
 - <a href="https://www.nasa.gov/universe/new-simulated-universe-previews-panoramas-from-nasas-roman-telescope/" >🔗</a> **[NASA]** New Simulated Universe Previews Panoramas From NASA’s Roman Telescope
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/01/BepiColombo_s_sixth_Mercury_flyby_the_movie" >🔗</a> **[ESA]** BepiColombo's sixth Mercury flyby: the movie
 - <a href="https://europeanspaceflight.com/arianegroup-completes-key-prometheus-hot-fire-test/" >🔗</a> **[European Spaceflight]** ArianeGroup Completes Key Prometheus Hot Fire Test
 - <a href="https://arstechnica.com/space/2025/01/blue-origin-plans-second-launch-attempt-of-new-glenn-early-on-tuesday/" >🔗</a> **[Arstechnica]** Blue Origin plans second launch attempt of New Glenn early on Tuesday
-- <a href="https://www.nasaspaceflight.com/2025/01/launch-roundup-011325/" >🔗</a> **[NASASpaceflight]** Launch Roundup: New Glenn and Starship headline a week dominated by SpaceX missions
-- <a href="https://tlpnetwork.com/news/america/blue-origin-set-for-2nd-new-glenn-launch-attempt-tonight" >🔗</a> **[The Launch Pad]** Blue Origin Set For 2nd New Glenn Launch Attempt Tonight!
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250114T170118">2025-01-14 17:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250114T173133">2025-01-14 17:31:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
