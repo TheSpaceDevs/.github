@@ -91,6 +91,9 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-deputy-administrator-to-receive-2025-national-space-award/" >🔗</a> **[NASA]** NASA Deputy Administrator to Receive 2025 National Space Award
+- <a href="https://www.nasa.gov/universe/new-simulated-universe-previews-panoramas-from-nasas-roman-telescope/" >🔗</a> **[NASA]** New Simulated Universe Previews Panoramas From NASA’s Roman Telescope
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/01/BepiColombo_s_sixth_Mercury_flyby_the_movie" >🔗</a> **[ESA]** BepiColombo's sixth Mercury flyby: the movie
 - <a href="https://europeanspaceflight.com/arianegroup-completes-key-prometheus-hot-fire-test/" >🔗</a> **[European Spaceflight]** ArianeGroup Completes Key Prometheus Hot Fire Test
 - <a href="https://arstechnica.com/space/2025/01/blue-origin-plans-second-launch-attempt-of-new-glenn-early-on-tuesday/" >🔗</a> **[Arstechnica]** Blue Origin plans second launch attempt of New Glenn early on Tuesday
 - <a href="https://www.nasaspaceflight.com/2025/01/launch-roundup-011325/" >🔗</a> **[NASASpaceflight]** Launch Roundup: New Glenn and Starship headline a week dominated by SpaceX missions
@@ -98,9 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://science.nasa.gov/science-research/heliophysics/nasa-heat-student-activity-featured-in-times-top-100-photos-of-2024/" >🔗</a> **[NASA]** NASA HEAT Student Activity Featured in TIME’s Top 100 Photos of 2024
 - <a href="https://science.nasa.gov/learning-resources/science-activation/nasa-heat-student-activity-featured-in-times-top-100-photos-of-2024/" >🔗</a> **[NASA]** NASA HEAT Student Activity Featured in TIME’s Top 100 Photos of 2024
 - <a href="https://www.nasa.gov/image-article/earth-in-far-ultraviolet/" >🔗</a> **[NASA]** Earth in Far-Ultraviolet
-- <a href="https://www.nasa.gov/news-release/former-nasa-official-astronaut-bob-cabana-receives-top-civilian-award/" >🔗</a> **[NASA]** Former NASA Official, Astronaut Bob Cabana Receives Top Civilian Award
-- <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-tracks-down-a-blue-lurker-among-stars/" >🔗</a> **[NASA]** NASA’s Hubble Tracks Down a ‘Blue Lurker’ Among Stars
-- <a href="https://science.nasa.gov/missions/webb/webb-watches-carbon-rich-dust-shells-form-expand-in-star-system/" >🔗</a> **[NASA]** Webb Watches Carbon-Rich Dust Shells Form, Expand in Star System
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250114T150132">2025-01-14 15:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250114T153223">2025-01-14 15:32:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
