@@ -105,6 +105,7 @@ into *a Sun-Synchronous Orbit
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2025/01/launch-roundup-011325/" >🔗</a> **[NASASpaceflight]** Launch Roundup: New Glenn and Starship headline a week dominated by SpaceX missions
 - <a href="https://spacenews.com/inversion-secures-reentry-license-for-first-mission/" >🔗</a> **[SpaceNews]** Inversion secures reentry license for first mission
 - <a href="https://tlpnetwork.com/news/america/k2-space-to-launch-first-satellite-this-year-amid-growing-interest-for-satellite-bus" >🔗</a> **[The Launch Pad]** K2 Space to Launch First Satellite This Year Amid Growing Interest For Satellite Bus
 - <a href="https://spacenews.com/k2-space-plans-first-launch-as-company-wins-customers-for-its-large-satellite-bus/" >🔗</a> **[SpaceNews]** K2 Space plans first launch as company wins customers for its large satellite bus
@@ -112,7 +113,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250114T070129">2025-01-14 07:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250114T073105">2025-01-14 07:31:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
