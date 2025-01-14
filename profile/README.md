@@ -20,27 +20,29 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Transporter 12 (Dedicated SSO Rideshare)**. It is scheduled to be launched by *SpaceX*
+**Falcon 9 Block 5 | Blue Ghost Lunar Lander Mission 1 & Hakuto-R M2 “Resilience”**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
+from *<a href="https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39A">Launch Complex 39A</a>, Kennedy Space Center, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250114T184900">2025-01-14 18:49:00 UTC</a>.  Until
-then, this pad will have been used for 175
-out of 787 launches from this location. The launch status is currently
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250115T060600">2025-01-15 06:06:00 UTC</a>.  Until
+then, this pad will have been used for 195
+out of 253 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Dedicated Rideshare* and the payload will be injected
-into *a Sun-Synchronous Orbit
-(SSO)*.
+*Lunar Exploration* and the payload will be injected
+into *a Lunar Orbit
+(LO)*.
 <br>
 <blockquote>
-  Dedicated rideshare flight to a sun-synchronous orbit with dozens of small microsatellites and nanosatellites for commercial and government customers.
+  Blue Ghost is a commercial lunar lander developed by Firefly Aerospace for NASA’s CLPS program. Blue Ghost is designed to bring up to 155kg of payload to the lunar surface. It will land at Mare Crisium in the Crisium Basin and is designed to last 14 days before freezing in the lunar night.
+
+Resilience is the second mission of the Hakuto-R commercial lunar lander developed by private Japanese company ispace. The lander will carry a small rover developed by ispace to perform studies on the moon's surface. The rover is also expected to collect lunar regolith as part of a contract with NASA signed in 2020, in which companies will collect materials on the moon and then transfer ownership "in situ" to the agency.
 </blockquote>
 
 <p float="left" align="center">
   <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=34.632,-120.611" >
+  <a href="https://www.google.com/maps?q=28.60822681,-80.60428186" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -55,6 +57,7 @@ into *a Sun-Synchronous Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250131T000000">2025-01-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Kinéis 16-20&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20250131T000000Z%2F20250131T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Kinéis 16-20** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250131T000000">2025-01-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-3&location=Cape Canaveral SFS, FL, USA&dates=20250131T000000Z%2F20250131T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-3** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250131T000000">2025-01-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=GSLV Mk II | IRNSS-1K (NVS-02)&location=Satish Dhawan Space Centre, India&dates=20250131T000000Z%2F20250131T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **GSLV Mk II | IRNSS-1K (NVS-02)** from Satish Dhawan Space Centre, India.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250131T000000">2025-01-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 8 | G60 Group TBD&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20250131T000000Z%2F20250131T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 8 | G60 Group TBD** from Wenchang Space Launch Site, People's Republic of China.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,6 +93,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/800645/" >🔗</a> **[NASA]** Best of 2024: Dinosaur Prepared to Safely Watch Solar Eclipse
 - <a href="https://www.nasa.gov/general/ten-nasa-science-tech-instruments-flying-to-moon-on-firefly-lander/" >🔗</a> **[NASA]** Ten NASA Science, Tech Instruments Flying to Moon on Firefly Lander
 - <a href="https://spaceflightnow.com/2025/01/14/spacex-to-launch-131-spacecraft-on-transporter-12-falcon-9-rideshare-mission-from-california/" >🔗</a> **[Spaceflight Now]** SpaceX to launch 131 spacecraft on Transporter-12 Falcon 9 rideshare mission from California
 - <a href="https://www.nasaspaceflight.com/2025/01/transporter-12/" >🔗</a> **[NASASpaceflight]** SpaceX Transporter-12 launching more than 100 satellites
@@ -99,20 +103,25 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasa.gov/universe/new-simulated-universe-previews-panoramas-from-nasas-roman-telescope/" >🔗</a> **[NASA]** New Simulated Universe Previews Panoramas From NASA’s Roman Telescope
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/01/BepiColombo_s_sixth_Mercury_flyby_the_movie" >🔗</a> **[ESA]** BepiColombo's sixth Mercury flyby: the movie
 - <a href="https://europeanspaceflight.com/arianegroup-completes-key-prometheus-hot-fire-test/" >🔗</a> **[European Spaceflight]** ArianeGroup Completes Key Prometheus Hot Fire Test
-- <a href="https://arstechnica.com/space/2025/01/blue-origin-plans-second-launch-attempt-of-new-glenn-early-on-tuesday/" >🔗</a> **[Arstechnica]** Blue Origin plans second launch attempt of New Glenn early on Tuesday
 
 
 ### Launch-related News 🚀
 
 - <a href="https://www.nasaspaceflight.com/2025/01/launch-roundup-011325/" >🔗</a> **[NASASpaceflight]** Launch Roundup: New Glenn and Starship headline a week dominated by SpaceX missions
-- <a href="https://spacenews.com/inversion-secures-reentry-license-for-first-mission/" >🔗</a> **[SpaceNews]** Inversion secures reentry license for first mission
-- <a href="https://tlpnetwork.com/news/america/k2-space-to-launch-first-satellite-this-year-amid-growing-interest-for-satellite-bus" >🔗</a> **[The Launch Pad]** K2 Space to Launch First Satellite This Year Amid Growing Interest For Satellite Bus
-- <a href="https://spacenews.com/k2-space-plans-first-launch-as-company-wins-customers-for-its-large-satellite-bus/" >🔗</a> **[SpaceNews]** K2 Space plans first launch as company wins customers for its large satellite bus
+- <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-firefly-first-commercial-robotic-moon-launch/" >🔗</a> **[NASA]** NASA Sets Coverage for Firefly First Commercial Robotic Moon Launch
+- <a href="https://www.nasa.gov/centers-and-facilities/goddard/nasa-instrument-on-fireflys-blue-ghost-lander-to-study-lunar-interior/" >🔗</a> **[NASA]** NASA Instrument on Firefly’s Blue Ghost Lander to Study Lunar Interior
+- <a href="https://www.nasa.gov/missions/artemis/electrodynamic-dust-shield-heading-to-moon-on-firefly-lander/" >🔗</a> **[NASA]** Electrodynamic Dust Shield Heading to Moon on Firefly Lander
+- <a href="https://www.nasa.gov/missions/artemis/nasa-lander-to-test-vacuum-cleaner-on-moon-for-sample-collection/" >🔗</a> **[NASA]** NASA Lander to Test Vacuum Cleaner on Moon for Sample Collection
+- <a href="https://www.nasa.gov/general/nasa-cameras-to-capture-interaction-between-blue-ghost-moons-surface/" >🔗</a> **[NASA]** NASA Cameras to Capture Interaction Between Blue Ghost, Moon’s Surface
+- <a href="https://spacenews.com/firefly-ispace-lunar-landers-to-share-falcon-9-launch/" >🔗</a> **[SpaceNews]** Firefly, ispace lunar landers to share Falcon 9 launch
+- <a href="https://www.nasa.gov/news-release/nasa-to-discuss-fireflys-first-robotic-artemis-moon-flight/" >🔗</a> **[NASA]** NASA to Discuss Firefly’s First Robotic Artemis Moon Flight
+- <a href="https://spacenews.com/firefly-sets-january-launch-date-for-first-lunar-lander-mission/" >🔗</a> **[SpaceNews]** Firefly sets January launch date for first lunar lander mission
+- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-firefly-blue-ghost-mission-1-launch-to-moon/" >🔗</a> **[NASA]** NASA Invites Media to Firefly Blue Ghost Mission 1 Launch to Moon
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250114T190114">2025-01-14 19:01:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250114T193108">2025-01-14 19:31:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
