@@ -91,16 +91,16 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/01/starship-flight-7-block-2/" >🔗</a> **[NASASpaceflight]** Starship Flight 7: Block 2 Ship set to fly for the first time
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Snooping_science_on_the_Moon" >🔗</a> **[ESA]** Snooping science on the Moon
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/InCubed_launches_highlight_ESA_s_support_for_innovation" >🔗</a> **[ESA]** InCubed launches highlight ESA’s support for innovation
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/The_best_Milky_Way_map_by_Gaia" >🔗</a> **[ESA]** The best Milky Way map, by Gaia
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Gaia/Last_starlight_for_ground-breaking_Gaia" >🔗</a> **[ESA]** Last starlight for ground-breaking Gaia
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/01/The_best_Milky_Way_map_by_Gaia_edge-on" >🔗</a> **[ESA]** The best Milky Way map, by Gaia (edge-on)
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/01/The_best_Milky_Way_animation_by_Gaia" >🔗</a> **[ESA]** The best Milky Way animation, by Gaia
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/01/The_best_Milky_Way_map_by_Gaia_edge-on" >🔗</a> **[ESA]** The best Milky Way map, by Gaia (edge-on)
 - <a href="https://www.esa.int/About_Us/Corporate_news/ESA_s_Highlights_in_2025" >🔗</a> **[ESA]** ESA’s Highlights in 2025
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/IRIDE_pathfinder_satellite_has_launched" >🔗</a> **[ESA]** IRIDE pathfinder satellite has launched
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba-3/Proba-3_becomes_two_satellites_separated" >🔗</a> **[ESA]** Proba-3 becomes two: satellites separated
-- <a href="https://www.nasa.gov/news-release/liftoff-nasa-sends-science-tech-to-moon-on-firefly-spacex-flight/" >🔗</a> **[NASA]** Liftoff! NASA Sends Science, Tech to Moon on Firefly, SpaceX Flight
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250115T120145">2025-01-15 12:01:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250115T124226">2025-01-15 12:42:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
