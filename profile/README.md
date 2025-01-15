@@ -91,16 +91,16 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/01/The_best_Milky_Way_animation_by_Gaia" >🔗</a> **[ESA]** The best Milky Way animation, by Gaia
+- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Snooping_science_on_the_Moon" >🔗</a> **[ESA]** Snooping science on the Moon
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/InCubed_launches_highlight_ESA_s_support_for_innovation" >🔗</a> **[ESA]** InCubed launches highlight ESA’s support for innovation
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/The_best_Milky_Way_map_by_Gaia" >🔗</a> **[ESA]** The best Milky Way map, by Gaia
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Gaia/Last_starlight_for_ground-breaking_Gaia" >🔗</a> **[ESA]** Last starlight for ground-breaking Gaia
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/01/The_best_Milky_Way_map_by_Gaia_edge-on" >🔗</a> **[ESA]** The best Milky Way map, by Gaia (edge-on)
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/01/The_best_Milky_Way_animation_by_Gaia" >🔗</a> **[ESA]** The best Milky Way animation, by Gaia
+- <a href="https://www.esa.int/About_Us/Corporate_news/ESA_s_Highlights_in_2025" >🔗</a> **[ESA]** ESA’s Highlights in 2025
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/IRIDE_pathfinder_satellite_has_launched" >🔗</a> **[ESA]** IRIDE pathfinder satellite has launched
+- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba-3/Proba-3_becomes_two_satellites_separated" >🔗</a> **[ESA]** Proba-3 becomes two: satellites separated
 - <a href="https://www.nasa.gov/news-release/liftoff-nasa-sends-science-tech-to-moon-on-firefly-spacex-flight/" >🔗</a> **[NASA]** Liftoff! NASA Sends Science, Tech to Moon on Firefly, SpaceX Flight
-- <a href="https://spacepolicyonline.com/news/american-japanese-landers-on-the-way-to-the-moon/" >🔗</a> **[SpacePolicyOnline.com]** American, Japanese Landers on the Way to the Moon
-- <a href="https://spaceflightnow.com/2025/01/15/live-coverage-spacex-to-launch-firefly-aerospace-and-ispace-moon-landers-on-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Firefly Aerospace and ispace Moon landers on Falcon 9 rocket from the Kennedy Space Center
-- <a href="https://science.nasa.gov/image-article/coronagraph-instrument-poster/" >🔗</a> **[NASA]** Roman Space Telescope Coronagraph Instrument Poster
-- <a href="https://science.nasa.gov/image-article/wide-field-instrument-poster/" >🔗</a> **[NASA]** Roman Space Telescope Wide Field Instrument Poster
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250115T100125">2025-01-15 10:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250115T103401">2025-01-15 10:34:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
