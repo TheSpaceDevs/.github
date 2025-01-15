@@ -93,6 +93,8 @@ Target orbit is 2400 x 19300 km at 30° inclination.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/50-years-ago-preparing-the-final-saturn-rocket-for-flight/" >🔗</a> **[NASA]** 50 Years Ago: Preparing the Final Saturn Rocket for Flight
+- <a href="https://science.nasa.gov/missions/hubble/nasa-celebrates-edwin-hubbles-discovery-of-a-new-universe/" >🔗</a> **[NASA]** NASA Celebrates Edwin Hubble’s Discovery of a New Universe
 - <a href="https://www.esa.int/Space_Safety/Technological_to-do_list_to_reach_Zero_Debris_created" >🔗</a> **[ESA]** Technological ‘to-do list’ to reach Zero Debris created
 - <a href="https://europeanspaceflight.com/spacex-launches-pathfinder-for-italys-e1-1b-iride-constellation/" >🔗</a> **[European Spaceflight]** SpaceX Launches Pathfinder for Italy’s €1.1B IRIDE Constellation
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/01/Ariane_6_central_core_on_the_move" >🔗</a> **[ESA]** Ariane 6 central core on the move
@@ -101,8 +103,6 @@ Target orbit is 2400 x 19300 km at 30° inclination.
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/InCubed_launches_highlight_ESA_s_support_for_innovation" >🔗</a> **[ESA]** InCubed launches highlight ESA’s support for innovation
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Gaia/Last_starlight_for_ground-breaking_Gaia" >🔗</a> **[ESA]** Last starlight for ground-breaking Gaia
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/The_best_Milky_Way_map_by_Gaia" >🔗</a> **[ESA]** The best Milky Way map, by Gaia
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/01/The_best_Milky_Way_animation_by_Gaia" >🔗</a> **[ESA]** The best Milky Way animation, by Gaia
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/01/The_best_Milky_Way_map_by_Gaia_edge-on" >🔗</a> **[ESA]** The best Milky Way map, by Gaia (edge-on)
 
 
 ### Launch-related News 🚀
@@ -121,7 +121,7 @@ Target orbit is 2400 x 19300 km at 30° inclination.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250115T160127">2025-01-15 16:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250115T163428">2025-01-15 16:34:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
