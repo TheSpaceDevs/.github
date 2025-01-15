@@ -93,6 +93,9 @@ Resilience is the second mission of the Hakuto-R commercial lunar lander develop
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/01/15/live-coverage-spacex-to-launch-firefly-aerospace-and-ispace-moon-landers-on-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Firefly Aerospace and ispace Moon landers on Falcon 9 rocket from the Kennedy Space Center
+- <a href="https://science.nasa.gov/image-article/coronagraph-instrument-poster/" >🔗</a> **[NASA]** Roman Space Telescope Coronagraph Instrument Poster
+- <a href="https://science.nasa.gov/image-article/wide-field-instrument-poster/" >🔗</a> **[NASA]** Roman Space Telescope Wide Field Instrument Poster
 - <a href="https://www.nasaspaceflight.com/2025/01/blue-ghost-hakuto-r-launch/" >🔗</a> **[NASASpaceflight]** Falcon 9 set to launch two landers to the Moon on the same mission
 - <a href="https://spacepolicyonline.com/news/isaacman-wins-support-but-also-criticism-from-republicans/" >🔗</a> **[SpacePolicyOnline.com]** Isaacman Wins Support, But Also Criticism from Republicans
 - <a href="https://science.nasa.gov/missions/webb/nasas-webb-reveals-intricate-layers-of-interstellar-dust-gas/" >🔗</a> **[NASA]** NASA’s Webb Reveals Intricate Layers of Interstellar Dust, Gas
@@ -100,9 +103,6 @@ Resilience is the second mission of the Hakuto-R commercial lunar lander develop
 - <a href="https://www.nasa.gov/general/ten-nasa-science-tech-instruments-flying-to-moon-on-firefly-lander/" >🔗</a> **[NASA]** Ten NASA Science, Tech Instruments Flying to Moon on Firefly Lander
 - <a href="https://spaceflightnow.com/2025/01/14/spacex-to-launch-131-spacecraft-on-transporter-12-falcon-9-rideshare-mission-from-california/" >🔗</a> **[Spaceflight Now]** SpaceX to launch 131 spacecraft on Transporter-12 Falcon 9 rideshare mission from California
 - <a href="https://www.nasaspaceflight.com/2025/01/transporter-12/" >🔗</a> **[NASASpaceflight]** SpaceX Transporter-12 launching more than 100 satellites
-- <a href="https://arstechnica.com/space/2025/01/a-nasa-astronaut-may-have-just-taken-the-best-photo-from-space-ever/" >🔗</a> **[Arstechnica]** A NASA astronaut may have just taken the best photo from space—ever
-- <a href="https://www.nasa.gov/news-release/nasa-deputy-administrator-to-receive-2025-national-space-award/" >🔗</a> **[NASA]** NASA Deputy Administrator to Receive 2025 National Space Award
-- <a href="https://science.nasa.gov/missions/webb/newfound-galaxy-class-may-indicate-early-black-hole-growth-webb-finds/" >🔗</a> **[NASA]** Newfound Galaxy Class May Indicate Early Black Hole Growth, Webb Finds
 
 
 ### Launch-related News 🚀
@@ -121,7 +121,7 @@ Resilience is the second mission of the Hakuto-R commercial lunar lander develop
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250115T020055">2025-01-15 02:00:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250115T024321">2025-01-15 02:43:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
