@@ -93,16 +93,16 @@ Target orbit is 2400 x 19300 km at 30° inclination.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/hubble-budget-cuts-could-impact-science-and-mission-operations/" >🔗</a> **[SpaceNews]** Hubble budget cuts could impact science and mission operations
+- <a href="https://spacenews.com/u-s-intelligence-agency-selects-13-companies-for-satellite-data-contract/" >🔗</a> **[SpaceNews]** U.S. intelligence agency selects 13 companies for satellite data contract
+- <a href="https://spacenews.com/defense-spending-propels-government-space-budgets-to-new-heights/" >🔗</a> **[SpaceNews]** Defense spending propels government space budgets to new heights
 - <a href="https://science.nasa.gov/science-research/heliophysics/nasa-solar-observatory-sees-coronal-loops-flicker-before-big-flares/" >🔗</a> **[NASA]** NASA Solar Observatory Sees Coronal Loops Flicker Before Big Flares
 - <a href="https://www.nasa.gov/image-article/langleys-propeller-research-tunnel/" >🔗</a> **[NASA]** Langley’s Propeller Research Tunnel
+- <a href="https://spacenews.com/former-pentagon-official-john-plumb-joins-startup-k2-space/" >🔗</a> **[SpaceNews]** Former Pentagon official John Plumb joins startup K2 Space
 - <a href="https://science.nasa.gov/science-research/nasa-seeks-proposals-for-space-biology-and-physical-sciences-research/" >🔗</a> **[NASA]** NASA Seeks Proposals for Space Biology and Physical Sciences Research
+- <a href="https://spacenews.com/stoke-space-raises-260-million/" >🔗</a> **[SpaceNews]** Stoke Space raises $260 million
 - <a href="https://arstechnica.com/space/2025/01/stoke-space-raises-a-ton-of-money-as-it-moves-closer-to-debut-launch/" >🔗</a> **[Arstechnica]** Stoke Space raises a ton of money as it moves closer to debut launch
 - <a href="https://www.nasa.gov/general/how-it-started-how-its-going-johnson-space-center-edition/" >🔗</a> **[NASA]** How It Started, How It’s Going: Johnson Space Center Edition
-- <a href="https://www.nasa.gov/history/50-years-ago-preparing-the-final-saturn-rocket-for-flight/" >🔗</a> **[NASA]** 50 Years Ago: Preparing the Final Saturn Rocket for Flight
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/50-years-ago-preparing-the-final-saturn-rocket-for-flight/" >🔗</a> **[NASA]** 50 Years Ago: Preparing the Final Saturn Rocket for Flight
-- <a href="https://science.nasa.gov/missions/hubble/nasa-celebrates-edwin-hubbles-discovery-of-a-new-universe/" >🔗</a> **[NASA]** NASA Celebrates Edwin Hubble’s Discovery of a New Universe
-- <a href="https://www.esa.int/Space_Safety/Technological_to-do_list_to_reach_Zero_Debris_created" >🔗</a> **[ESA]** Technological ‘to-do list’ to reach Zero Debris created
-- <a href="https://europeanspaceflight.com/spacex-launches-pathfinder-for-italys-e1-1b-iride-constellation/" >🔗</a> **[European Spaceflight]** SpaceX Launches Pathfinder for Italy’s €1.1B IRIDE Constellation
 
 
 ### Launch-related News 🚀
@@ -121,7 +121,7 @@ Target orbit is 2400 x 19300 km at 30° inclination.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250115T230136">2025-01-15 23:01:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250115T233108">2025-01-15 23:31:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
