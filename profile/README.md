@@ -94,8 +94,8 @@ into *a Suborbital
 - <a href="https://www.nasaspaceflight.com/2025/01/starship-flight-7-block-2/" >🔗</a> **[NASASpaceflight]** Starship Flight 7: Block 2 Ship set to fly for the first time
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Snooping_science_on_the_Moon" >🔗</a> **[ESA]** Snooping science on the Moon
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/InCubed_launches_highlight_ESA_s_support_for_innovation" >🔗</a> **[ESA]** InCubed launches highlight ESA’s support for innovation
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/The_best_Milky_Way_map_by_Gaia" >🔗</a> **[ESA]** The best Milky Way map, by Gaia
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Gaia/Last_starlight_for_ground-breaking_Gaia" >🔗</a> **[ESA]** Last starlight for ground-breaking Gaia
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/The_best_Milky_Way_map_by_Gaia" >🔗</a> **[ESA]** The best Milky Way map, by Gaia
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/01/The_best_Milky_Way_animation_by_Gaia" >🔗</a> **[ESA]** The best Milky Way animation, by Gaia
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/01/The_best_Milky_Way_map_by_Gaia_edge-on" >🔗</a> **[ESA]** The best Milky Way map, by Gaia (edge-on)
 - <a href="https://www.esa.int/About_Us/Corporate_news/ESA_s_Highlights_in_2025" >🔗</a> **[ESA]** ESA’s Highlights in 2025
@@ -105,6 +105,7 @@ into *a Suborbital
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2025/01/starship-flight-7-block-2/" >🔗</a> **[NASASpaceflight]** Starship Flight 7: Block 2 Ship set to fly for the first time
 - <a href="https://www.nasaspaceflight.com/2025/01/launch-roundup-011325/" >🔗</a> **[NASASpaceflight]** Launch Roundup: New Glenn and Starship headline a week dominated by SpaceX missions
 - <a href="https://www.teslarati.com/spacex-confirms-next-starship-launch-target-heres-when-it-will-take-off/" >🔗</a> **[Teslarati]** SpaceX confirms next Starship launch target – Here’s when it will take off
 - <a href="https://www.nasaspaceflight.com/2025/01/launch-roundup-010625/" >🔗</a> **[NASASpaceflight]** Launch Roundup: New Glenn and Starship headline first full week of 2025
@@ -118,7 +119,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250115T130440">2025-01-15 13:04:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250115T133251">2025-01-15 13:32:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
