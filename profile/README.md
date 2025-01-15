@@ -91,6 +91,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/american-japanese-landers-on-the-way-to-the-moon/" >🔗</a> **[SpacePolicyOnline.com]** American, Japanese Landers on the Way to the Moon
 - <a href="https://spaceflightnow.com/2025/01/15/live-coverage-spacex-to-launch-firefly-aerospace-and-ispace-moon-landers-on-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Firefly Aerospace and ispace Moon landers on Falcon 9 rocket from the Kennedy Space Center
 - <a href="https://science.nasa.gov/image-article/coronagraph-instrument-poster/" >🔗</a> **[NASA]** Roman Space Telescope Coronagraph Instrument Poster
 - <a href="https://science.nasa.gov/image-article/wide-field-instrument-poster/" >🔗</a> **[NASA]** Roman Space Telescope Wide Field Instrument Poster
@@ -100,7 +101,6 @@ into *a Suborbital
 - <a href="https://www.nasa.gov/image-article/800645/" >🔗</a> **[NASA]** Best of 2024: Dinosaur Prepared to Safely Watch Solar Eclipse
 - <a href="https://www.nasa.gov/general/ten-nasa-science-tech-instruments-flying-to-moon-on-firefly-lander/" >🔗</a> **[NASA]** Ten NASA Science, Tech Instruments Flying to Moon on Firefly Lander
 - <a href="https://spaceflightnow.com/2025/01/14/spacex-to-launch-131-spacecraft-on-transporter-12-falcon-9-rideshare-mission-from-california/" >🔗</a> **[Spaceflight Now]** SpaceX to launch 131 spacecraft on Transporter-12 Falcon 9 rideshare mission from California
-- <a href="https://www.nasaspaceflight.com/2025/01/transporter-12/" >🔗</a> **[NASASpaceflight]** SpaceX Transporter-12 launching more than 100 satellites
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250115T070117">2025-01-15 07:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250115T073110">2025-01-15 07:31:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
