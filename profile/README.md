@@ -20,35 +20,32 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Blue Ghost Lunar Lander Mission 1 & Hakuto-R M2 “Resilience”**. It is scheduled to be launched by *SpaceX*
+**Starship | Flight 7**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39A">Launch Complex 39A</a>, Kennedy Space Center, FL, USA*
+from *<a href="https://en.wikipedia.org/wiki/SpaceX_Starbase#Launch_site_(Orbital_Launch_Pad_A_and_B)">Orbital Launch Mount A</a>, SpaceX Starbase, TX, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250115T060600">2025-01-15 06:06:00 UTC</a>.  Until
-then, this pad will have been used for 195
-out of 253 launches from this location. The launch status is currently
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250115T220000">2025-01-15 22:00:00 UTC</a>.  Until
+then, this pad will have been used for 6
+out of 15 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Lunar Exploration* and the payload will be injected
-into *a Lunar Orbit
-(LO)*.
+*Test Flight* and the payload will be injected
+into *a Suborbital
+(Sub)*.
 <br>
 <blockquote>
-  Blue Ghost is a commercial lunar lander developed by Firefly Aerospace for NASA’s CLPS program. Blue Ghost is designed to bring up to 155kg of payload to the lunar surface. It will land at Mare Crisium in the Crisium Basin and is designed to last 14 days before freezing in the lunar night.
-
-Resilience is the second mission of the Hakuto-R commercial lunar lander developed by private Japanese company ispace. The lander will carry a small rover developed by ispace to perform studies on the moon's surface. The rover is also expected to collect lunar regolith as part of a contract with NASA signed in 2020, in which companies will collect materials on the moon and then transfer ownership "in situ" to the agency.
+  Seventh test flight of the two-stage Starship launch vehicle.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+  <a href="https://en.wikipedia.org/wiki/SpaceX_Starship" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.60822681,-80.60428186" >
+  <a href="https://www.google.com/maps?q=25.9962,-97.154423" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250115T060600">2025-01-15 06:06:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Blue Ghost Lunar Lander Mission 1 &amp; Hakuto-R M2 “Resilience”&location=Kennedy Space Center, FL, USA&dates=20250115T060600Z%2F20250115T064500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Blue Ghost Lunar Lander Mission 1 & Hakuto-R M2 “Resilience”** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250115T220000">2025-01-15 22:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Starship | Flight 7&location=SpaceX Starbase, TX, USA&dates=20250115T220000Z%2F20250115T230000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starship | Flight 7** from SpaceX Starbase, TX, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250116T060000">2025-01-16 06:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Glenn | Maiden Flight&location=Cape Canaveral SFS, FL, USA&dates=20250116T060000Z%2F20250116T090000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Glenn | Maiden Flight** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250117T035900">2025-01-17 03:59:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2D | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20250117T035900Z%2F20250117T042100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2D | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
@@ -58,6 +55,7 @@ Resilience is the second mission of the Hakuto-R commercial lunar lander develop
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250131T000000">2025-01-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-3&location=Cape Canaveral SFS, FL, USA&dates=20250131T000000Z%2F20250131T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-3** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250131T000000">2025-01-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=GSLV Mk II | IRNSS-1K (NVS-02)&location=Satish Dhawan Space Centre, India&dates=20250131T000000Z%2F20250131T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **GSLV Mk II | IRNSS-1K (NVS-02)** from Satish Dhawan Space Centre, India.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250131T000000">2025-01-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 8 | G60 Group TBD&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20250131T000000Z%2F20250131T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 8 | G60 Group TBD** from Wenchang Space Launch Site, People's Republic of China.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250201T083000">2025-02-01 08:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=H3-22 | Michibiki 6 (QZS-6)&location=Tanegashima Space Center, Japan&dates=20250201T083000Z%2F20250201T103000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **H3-22 | Michibiki 6 (QZS-6)** from Tanegashima Space Center, Japan.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -108,20 +106,19 @@ Resilience is the second mission of the Hakuto-R commercial lunar lander develop
 ### Launch-related News 🚀
 
 - <a href="https://www.nasaspaceflight.com/2025/01/launch-roundup-011325/" >🔗</a> **[NASASpaceflight]** Launch Roundup: New Glenn and Starship headline a week dominated by SpaceX missions
-- <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-firefly-first-commercial-robotic-moon-launch/" >🔗</a> **[NASA]** NASA Sets Coverage for Firefly First Commercial Robotic Moon Launch
-- <a href="https://www.nasa.gov/centers-and-facilities/goddard/nasa-instrument-on-fireflys-blue-ghost-lander-to-study-lunar-interior/" >🔗</a> **[NASA]** NASA Instrument on Firefly’s Blue Ghost Lander to Study Lunar Interior
-- <a href="https://www.nasa.gov/missions/artemis/electrodynamic-dust-shield-heading-to-moon-on-firefly-lander/" >🔗</a> **[NASA]** Electrodynamic Dust Shield Heading to Moon on Firefly Lander
-- <a href="https://www.nasa.gov/missions/artemis/nasa-lander-to-test-vacuum-cleaner-on-moon-for-sample-collection/" >🔗</a> **[NASA]** NASA Lander to Test Vacuum Cleaner on Moon for Sample Collection
-- <a href="https://www.nasa.gov/general/nasa-cameras-to-capture-interaction-between-blue-ghost-moons-surface/" >🔗</a> **[NASA]** NASA Cameras to Capture Interaction Between Blue Ghost, Moon’s Surface
-- <a href="https://spacenews.com/firefly-ispace-lunar-landers-to-share-falcon-9-launch/" >🔗</a> **[SpaceNews]** Firefly, ispace lunar landers to share Falcon 9 launch
-- <a href="https://www.nasa.gov/news-release/nasa-to-discuss-fireflys-first-robotic-artemis-moon-flight/" >🔗</a> **[NASA]** NASA to Discuss Firefly’s First Robotic Artemis Moon Flight
-- <a href="https://spacenews.com/firefly-sets-january-launch-date-for-first-lunar-lander-mission/" >🔗</a> **[SpaceNews]** Firefly sets January launch date for first lunar lander mission
-- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-firefly-blue-ghost-mission-1-launch-to-moon/" >🔗</a> **[NASA]** NASA Invites Media to Firefly Blue Ghost Mission 1 Launch to Moon
+- <a href="https://www.teslarati.com/spacex-confirms-next-starship-launch-target-heres-when-it-will-take-off/" >🔗</a> **[Teslarati]** SpaceX confirms next Starship launch target – Here’s when it will take off
+- <a href="https://www.nasaspaceflight.com/2025/01/launch-roundup-010625/" >🔗</a> **[NASASpaceflight]** Launch Roundup: New Glenn and Starship headline first full week of 2025
+- <a href="https://spacenews.com/spacex-to-test-vehicle-upgrades-and-payload-deployment-on-next-starship-flight/" >🔗</a> **[SpaceNews]** SpaceX to test vehicle upgrades and payload deployment on next Starship flight
+- <a href="https://spaceflightnow.com/2025/01/04/spacex-to-attempt-first-payload-deployment-engine-reuse-during-starship-flight-7/" >🔗</a> **[Spaceflight Now]** SpaceX to attempt first payload deployment, engine reuse during Starship Flight 7
+- <a href="https://spacenews.com/faa-updates-starship-launch-license-for-next-flight/" >🔗</a> **[SpaceNews]** FAA updates Starship launch license for next flight
+- <a href="https://www.nasaspaceflight.com/2024/12/faa-flight-7-go/" >🔗</a> **[NASASpaceflight]** FAA gives Flight 7 the Go Ahead, SpaceX to complete final steps ahead of launch
+- <a href="https://www.nasaspaceflight.com/2024/12/engine-testing-booster-14-static-fire/" >🔗</a> **[NASASpaceflight]** Ship 33 prepares for engine testing, Booster 14 Completes Static Fire
+- <a href="https://tlpnetwork.com/news/america/spacex-targets-jan-11-2025-for-starship-flight-test-7-nasa-high-tech-gulfstream-to-capture-re-entry" >🔗</a> **[The Launch Pad]** SpaceX Targets Jan 11 2025 For Starship Flight Test 7; NASA High-Tech Gulfstream To Capture Re-Entry
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250115T060129">2025-01-15 06:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250115T063535">2025-01-15 06:35:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
