@@ -93,6 +93,7 @@ Target orbit is 2400 x 19300 km at 30° inclination.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/science-research/heliophysics/nasa-solar-observatory-sees-coronal-loops-flicker-before-big-flares/" >🔗</a> **[NASA]** NASA Solar Observatory Sees Coronal Loops Flicker Before Big Flares
 - <a href="https://www.nasa.gov/image-article/langleys-propeller-research-tunnel/" >🔗</a> **[NASA]** Langley’s Propeller Research Tunnel
 - <a href="https://science.nasa.gov/science-research/nasa-seeks-proposals-for-space-biology-and-physical-sciences-research/" >🔗</a> **[NASA]** NASA Seeks Proposals for Space Biology and Physical Sciences Research
 - <a href="https://arstechnica.com/space/2025/01/stoke-space-raises-a-ton-of-money-as-it-moves-closer-to-debut-launch/" >🔗</a> **[Arstechnica]** Stoke Space raises a ton of money as it moves closer to debut launch
@@ -102,7 +103,6 @@ Target orbit is 2400 x 19300 km at 30° inclination.
 - <a href="https://science.nasa.gov/missions/hubble/nasa-celebrates-edwin-hubbles-discovery-of-a-new-universe/" >🔗</a> **[NASA]** NASA Celebrates Edwin Hubble’s Discovery of a New Universe
 - <a href="https://www.esa.int/Space_Safety/Technological_to-do_list_to_reach_Zero_Debris_created" >🔗</a> **[ESA]** Technological ‘to-do list’ to reach Zero Debris created
 - <a href="https://europeanspaceflight.com/spacex-launches-pathfinder-for-italys-e1-1b-iride-constellation/" >🔗</a> **[European Spaceflight]** SpaceX Launches Pathfinder for Italy’s €1.1B IRIDE Constellation
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/01/Ariane_6_central_core_on_the_move" >🔗</a> **[ESA]** Ariane 6 central core on the move
 
 
 ### Launch-related News 🚀
@@ -121,7 +121,7 @@ Target orbit is 2400 x 19300 km at 30° inclination.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250115T203111">2025-01-15 20:31:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250115T210125">2025-01-15 21:01:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
