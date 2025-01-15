@@ -93,6 +93,9 @@ Target orbit is 2400 x 19300 km at 30° inclination.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/01/stoke-space-raises-a-ton-of-money-as-it-moves-closer-to-debut-launch/" >🔗</a> **[Arstechnica]** Stoke Space raises a ton of money as it moves closer to debut launch
+- <a href="https://www.nasa.gov/general/how-it-started-how-its-going-johnson-space-center-edition/" >🔗</a> **[NASA]** How It Started, How It’s Going: Johnson Space Center Edition
+- <a href="https://www.nasa.gov/history/50-years-ago-preparing-the-final-saturn-rocket-for-flight/" >🔗</a> **[NASA]** 50 Years Ago: Preparing the Final Saturn Rocket for Flight
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/50-years-ago-preparing-the-final-saturn-rocket-for-flight/" >🔗</a> **[NASA]** 50 Years Ago: Preparing the Final Saturn Rocket for Flight
 - <a href="https://science.nasa.gov/missions/hubble/nasa-celebrates-edwin-hubbles-discovery-of-a-new-universe/" >🔗</a> **[NASA]** NASA Celebrates Edwin Hubble’s Discovery of a New Universe
 - <a href="https://www.esa.int/Space_Safety/Technological_to-do_list_to_reach_Zero_Debris_created" >🔗</a> **[ESA]** Technological ‘to-do list’ to reach Zero Debris created
@@ -100,9 +103,6 @@ Target orbit is 2400 x 19300 km at 30° inclination.
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/01/Ariane_6_central_core_on_the_move" >🔗</a> **[ESA]** Ariane 6 central core on the move
 - <a href="https://www.nasaspaceflight.com/2025/01/starship-flight-7-block-2/" >🔗</a> **[NASASpaceflight]** Starship Flight 7: Block 2 Ship set to fly for the first time
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Snooping_science_on_the_Moon" >🔗</a> **[ESA]** Snooping science on the Moon
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/InCubed_launches_highlight_ESA_s_support_for_innovation" >🔗</a> **[ESA]** InCubed launches highlight ESA’s support for innovation
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Gaia/Last_starlight_for_ground-breaking_Gaia" >🔗</a> **[ESA]** Last starlight for ground-breaking Gaia
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/The_best_Milky_Way_map_by_Gaia" >🔗</a> **[ESA]** The best Milky Way map, by Gaia
 
 
 ### Launch-related News 🚀
@@ -121,7 +121,7 @@ Target orbit is 2400 x 19300 km at 30° inclination.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250115T170124">2025-01-15 17:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250115T173138">2025-01-15 17:31:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
