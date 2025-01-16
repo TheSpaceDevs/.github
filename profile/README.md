@@ -20,29 +20,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**New Glenn | Maiden Flight**. It is scheduled to be launched by *Blue Origin*
+**Starship | Flight 7**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Launch_Complex_36">Launch Complex 36A</a>, Cape Canaveral SFS, FL, USA*
+from *<a href="https://en.wikipedia.org/wiki/SpaceX_Starbase#Launch_site_(Orbital_Launch_Pad_A_and_B)">Orbital Launch Mount A</a>, SpaceX Starbase, TX, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250116T060000">2025-01-16 06:00:00 UTC</a>.  Until
-then, this pad will have been used for 68
-out of 998 launches from this location. The launch status is currently
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250116T220000">2025-01-16 22:00:00 UTC</a>.  Until
+then, this pad will have been used for 6
+out of 15 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
 *Test Flight* and the payload will be injected
-into *a Medium Earth Orbit
-(MEO)*.
+into *a Suborbital
+(Sub)*.
 <br>
 <blockquote>
-  Maiden flight of the New Glenn launch vehicle. Will carry the prototype Blue Ring payload tug and payload hoisting platform, consisting of communications array, power systems, and a flight computer affixed to a secondary payload adapter ring, remaining attached to the 2nd stage. This launch will serve as New Glenn's first National Security Space Launch certification flight.
-
-Target orbit is 2400 x 19300 km at 30° inclination.
+  Seventh test flight of the two-stage Starship launch vehicle.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/New_Glenn" >
+  <a href="https://en.wikipedia.org/wiki/SpaceX_Starship" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.4705556,-80.542194" >
+  <a href="https://www.google.com/maps?q=25.9962,-97.154423" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -106,21 +104,21 @@ Target orbit is 2400 x 19300 km at 30° inclination.
 
 ### Launch-related News 🚀
 
-- <a href="https://arstechnica.com/space/2025/01/blue-origin-plans-second-launch-attempt-of-new-glenn-early-on-tuesday/" >🔗</a> **[Arstechnica]** Blue Origin plans second launch attempt of New Glenn early on Tuesday
+- <a href="https://www.nasaspaceflight.com/2025/01/starship-flight-7-block-2/" >🔗</a> **[NASASpaceflight]** Starship Flight 7: Block 2 Ship set to fly for the first time
 - <a href="https://www.nasaspaceflight.com/2025/01/launch-roundup-011325/" >🔗</a> **[NASASpaceflight]** Launch Roundup: New Glenn and Starship headline a week dominated by SpaceX missions
-- <a href="https://tlpnetwork.com/news/america/blue-origin-set-for-2nd-new-glenn-launch-attempt-tonight" >🔗</a> **[The Launch Pad]** Blue Origin Set For 2nd New Glenn Launch Attempt Tonight!
-- <a href="https://spacepolicyonline.com/news/its-a-scrub-for-the-inaugural-flight-of-blue-origins-new-glenn/" >🔗</a> **[SpacePolicyOnline.com]** It’s a Scrub for the Inaugural Flight of Blue Origin’s New Glenn
-- <a href="https://arstechnica.com/space/2025/01/an-icy-vent-line-may-have-caused-blue-origin-to-scrub-debut-launch-of-new-glenn/" >🔗</a> **[Arstechnica]** An icy vent line may have caused Blue Origin to scrub debut launch of New Glenn
-- <a href="https://spaceflightnow.com/2025/01/13/live-coverage-blue-origin-to-launch-inaugural-new-glenn-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: Blue Origin to launch inaugural New Glenn rocket from Cape Canaveral
-- <a href="https://arstechnica.com/uncategorized/2025/01/bezos-on-eve-of-new-glenn-launch-if-something-goes-wrong-well-pick-ourselves-up/" >🔗</a> **[Arstechnica]** Bezos on eve of New Glenn launch: ‘If something goes wrong, we’ll pick ourselves up’
-- <a href="https://www.nasaspaceflight.com/2025/01/new-glenn-launch/" >🔗</a> **[NASASpaceflight]** Blue Origin ready for maiden flight of New Glenn
-- <a href="https://arstechnica.com/space/2025/01/new-glenn-rocket-is-at-the-launch-pad-waiting-for-calm-seas-to-land/" >🔗</a> **[Arstechnica]** New Glenn rocket is at the launch pad, waiting for calm seas to land
+- <a href="https://www.teslarati.com/spacex-confirms-next-starship-launch-target-heres-when-it-will-take-off/" >🔗</a> **[Teslarati]** SpaceX confirms next Starship launch target – Here’s when it will take off
 - <a href="https://www.nasaspaceflight.com/2025/01/launch-roundup-010625/" >🔗</a> **[NASASpaceflight]** Launch Roundup: New Glenn and Starship headline first full week of 2025
+- <a href="https://spacenews.com/spacex-to-test-vehicle-upgrades-and-payload-deployment-on-next-starship-flight/" >🔗</a> **[SpaceNews]** SpaceX to test vehicle upgrades and payload deployment on next Starship flight
+- <a href="https://spaceflightnow.com/2025/01/04/spacex-to-attempt-first-payload-deployment-engine-reuse-during-starship-flight-7/" >🔗</a> **[Spaceflight Now]** SpaceX to attempt first payload deployment, engine reuse during Starship Flight 7
+- <a href="https://spacenews.com/faa-updates-starship-launch-license-for-next-flight/" >🔗</a> **[SpaceNews]** FAA updates Starship launch license for next flight
+- <a href="https://www.nasaspaceflight.com/2024/12/faa-flight-7-go/" >🔗</a> **[NASASpaceflight]** FAA gives Flight 7 the Go Ahead, SpaceX to complete final steps ahead of launch
+- <a href="https://www.nasaspaceflight.com/2024/12/engine-testing-booster-14-static-fire/" >🔗</a> **[NASASpaceflight]** Ship 33 prepares for engine testing, Booster 14 Completes Static Fire
+- <a href="https://tlpnetwork.com/news/america/spacex-targets-jan-11-2025-for-starship-flight-test-7-nasa-high-tech-gulfstream-to-capture-re-entry" >🔗</a> **[The Launch Pad]** SpaceX Targets Jan 11 2025 For Starship Flight Test 7; NASA High-Tech Gulfstream To Capture Re-Entry
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250116T070127">2025-01-16 07:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250116T073108">2025-01-16 07:31:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
