@@ -20,27 +20,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Starship | Flight 7**. It is scheduled to be launched by *SpaceX*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/SpaceX_Starbase#Launch_site_(Orbital_Launch_Pad_A_and_B)">Orbital Launch Mount A</a>, SpaceX Starbase, TX, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250116T220000">2025-01-16 22:00:00 UTC</a>.  Until
-then, this pad will have been used for 6
-out of 15 launches from this location. The launch status is currently
+**Long March 2D | Unknown Payload**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Jiuquan_Launch_Area_4">Launch Area 4 (SLS-2 / 603)</a>, Jiuquan Satellite Launch Center, People's Republic of China*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250117T035900">2025-01-17 03:59:00 UTC</a>.  Until
+then, this pad will have been used for 119
+out of 239 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Test Flight* and the payload will be injected
-into *a Suborbital
-(Sub)*.
+*Unknown* and the payload will be injected
+into *an Unknown
+(N/A)*.
 <br>
 <blockquote>
-  Seventh test flight of the two-stage Starship launch vehicle.
+  Details TBD.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/SpaceX_Starship" >
+  <a href="https://en.wikipedia.org/wiki/Long_March_(rocket_family)" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=25.9962,-97.154423" >
+  <a href="https://www.google.com/maps?q=40.960482,100.298059" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -55,6 +55,7 @@ into *a Suborbital
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250129T040000">2025-01-29 04:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SpainSat NG I&location=Cape Canaveral SFS, FL, USA&dates=20250129T040000Z%2F20250129T060000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | SpainSat NG I** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250131T000000">2025-01-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | IoT 4 You and Me (Kinéis 16-20)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20250131T000000Z%2F20250131T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | IoT 4 You and Me (Kinéis 16-20)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250131T000000">2025-01-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-3&location=Cape Canaveral SFS, FL, USA&dates=20250131T000000Z%2F20250131T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-3** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250131T000000">2025-01-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 8 | G60 Group TBD&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20250131T000000Z%2F20250131T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 8 | G60 Group TBD** from Wenchang Space Launch Site, People's Republic of China.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,35 +91,25 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/nasa-names-david-korth-as-deputy-safety-and-mission-assurance-directorate/" >🔗</a> **[NASA]** NASA Names David Korth as Deputy, Safety and Mission Assurance Directorate
+- <a href="https://www.nasa.gov/general/nasa-names-mary-beth-schwartz-as-director-center-operations-directorate/" >🔗</a> **[NASA]** NASA Names Mary Beth Schwartz as Director, Center Operations Directorate
+- <a href="https://www.nasa.gov/image-article/hubble-reveals-jupiter-in-ultraviolet-light/" >🔗</a> **[NASA]** Hubble Reveals Jupiter in Ultraviolet Light
 - <a href="https://spacenews.com/trump-taps-space-and-intelligence-veteran-troy-meink-as-air-force-secretary/" >🔗</a> **[SpaceNews]** Trump taps space and intelligence veteran Troy Meink as Air Force secretary
+- <a href="https://science.nasa.gov/missions/hubble/hubble-captures-young-stars-changing-their-environments/" >🔗</a> **[NASA]** Hubble Captures Young Stars Changing Their Environments
 - <a href="https://spacenews.com/space-weather-experts-forecast-strong-support-from-incoming-administration/" >🔗</a> **[SpaceNews]** Space weather experts forecast strong support from incoming administration
 - <a href="https://www.nasa.gov/news-release/nasas-day-of-remembrance-honors-fallen-heroes-of-exploration/" >🔗</a> **[NASA]** NASA’s Day of Remembrance Honors Fallen Heroes of Exploration
 - <a href="https://spaceflightnow.com/2025/01/16/live-coverage-spacex-to-launch-its-starship-rocket-on-a-7th-suborbital-test-flight-from-starbase/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch its Starship rocket on a 7th suborbital test flight from Starbase
 - <a href="https://spacenews.com/sierra-space-satellite-passes-milestone-in-space-force-program/" >🔗</a> **[SpaceNews]** Sierra Space satellite passes milestone in Space Force program
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-traces-hidden-history-of-andromeda-galaxy/" >🔗</a> **[NASA]** NASA’s Hubble Traces Hidden History of Andromeda Galaxy
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Hubble_traces_hidden_history_of_the_Andromeda_Galaxy" >🔗</a> **[ESA]** Hubble traces hidden history of the Andromeda Galaxy
-- <a href="https://spacenews.com/xplore-launches-precursor-for-hyperspectral-constellation/" >🔗</a> **[SpaceNews]** Xplore launches precursor for hyperspectral constellation
-- <a href="https://www.spacescout.info/2025/01/new-glenn-earns-its-wings/" >🔗</a> **[Space Scout]** New Glenn Earns Its Wings
-- <a href="https://www.nasa.gov/history/aerospace-latin-america-a-history/" >🔗</a> **[NASA]** Aerospace Latin America: A History
 
 
 ### Launch-related News 🚀
 
-- <a href="https://www.nasaspaceflight.com/2025/01/starship-flight-7-block-2/" >🔗</a> **[NASASpaceflight]** Starship Flight 7: Block 2 Ship set to fly for the first time
-- <a href="https://www.nasaspaceflight.com/2025/01/launch-roundup-011325/" >🔗</a> **[NASASpaceflight]** Launch Roundup: New Glenn and Starship headline a week dominated by SpaceX missions
-- <a href="https://www.teslarati.com/spacex-confirms-next-starship-launch-target-heres-when-it-will-take-off/" >🔗</a> **[Teslarati]** SpaceX confirms next Starship launch target – Here’s when it will take off
-- <a href="https://www.nasaspaceflight.com/2025/01/launch-roundup-010625/" >🔗</a> **[NASASpaceflight]** Launch Roundup: New Glenn and Starship headline first full week of 2025
-- <a href="https://spacenews.com/spacex-to-test-vehicle-upgrades-and-payload-deployment-on-next-starship-flight/" >🔗</a> **[SpaceNews]** SpaceX to test vehicle upgrades and payload deployment on next Starship flight
-- <a href="https://spaceflightnow.com/2025/01/04/spacex-to-attempt-first-payload-deployment-engine-reuse-during-starship-flight-7/" >🔗</a> **[Spaceflight Now]** SpaceX to attempt first payload deployment, engine reuse during Starship Flight 7
-- <a href="https://spacenews.com/faa-updates-starship-launch-license-for-next-flight/" >🔗</a> **[SpaceNews]** FAA updates Starship launch license for next flight
-- <a href="https://www.nasaspaceflight.com/2024/12/faa-flight-7-go/" >🔗</a> **[NASASpaceflight]** FAA gives Flight 7 the Go Ahead, SpaceX to complete final steps ahead of launch
-- <a href="https://www.nasaspaceflight.com/2024/12/engine-testing-booster-14-static-fire/" >🔗</a> **[NASASpaceflight]** Ship 33 prepares for engine testing, Booster 14 Completes Static Fire
-- <a href="https://tlpnetwork.com/news/america/spacex-targets-jan-11-2025-for-starship-flight-test-7-nasa-high-tech-gulfstream-to-capture-re-entry" >🔗</a> **[The Launch Pad]** SpaceX Targets Jan 11 2025 For Starship Flight Test 7; NASA High-Tech Gulfstream To Capture Re-Entry
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250116T220127">2025-01-16 22:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250116T230131">2025-01-16 23:01:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
