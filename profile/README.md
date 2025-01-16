@@ -90,6 +90,8 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/blue-origins-new-glenn-reaches-orbit/" >🔗</a> **[SpacePolicyOnline.com]** Blue Origin’s New Glenn Reaches Orbit
+- <a href="https://spacenews.com/space-foundation-and-starburst-to-host-second-annual-space-symposium-innovate-pitch-competition/" >🔗</a> **[SpaceNews]** Space Foundation and Starburst to Host Second Annual Space Symposium Innovate Pitch Competition
 - <a href="https://www.esa.int/Enabling_Support/Operations/ESA_Ground_Stations/Malarguee_A_satellite_dish_best_served_cold" >🔗</a> **[ESA]** Malargüe: A satellite dish best served cold
 - <a href="https://europeanspaceflight.com/rfa-granted-launch-licence-for-rfa-one-debut-from-saxavord/" >🔗</a> **[European Spaceflight]** RFA Granted Launch Licence for RFA ONE Debut from SaxaVord
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/EarthCARE/EarthCARE_goes_live_with_data_now_available_to_all" >🔗</a> **[ESA]** EarthCARE goes live with data now available to all
@@ -98,8 +100,6 @@ into *a Suborbital
 - <a href="https://spacenews.com/second-sar-satellite-advances-space42s-hybrid-connectivity-and-imagery-vision/" >🔗</a> **[SpaceNews]** Second SAR satellite advances Space42’s hybrid connectivity and imagery vision
 - <a href="https://spacenews.com/hubble-budget-cuts-could-impact-science-and-mission-operations/" >🔗</a> **[SpaceNews]** Hubble budget cuts could impact science and mission operations
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/01/Mars_plays_hide_and_seek_with_Wolf_Moon" >🔗</a> **[ESA]** Mars plays hide and seek with Wolf Moon
-- <a href="https://spacenews.com/u-s-intelligence-agency-selects-13-companies-for-satellite-data-contract/" >🔗</a> **[SpaceNews]** U.S. intelligence agency selects 13 companies for satellite data contract
-- <a href="https://spaceflightnow.com/2025/01/15/live-coverage-blue-origin-to-launch-blue-ring-pathfinder-on-new-glenn-rocket-inaugural-launch-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** History made: Blue Origin becomes first new space company to reach orbit on its first launch
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250116T113102">2025-01-16 11:31:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250116T120146">2025-01-16 12:01:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
