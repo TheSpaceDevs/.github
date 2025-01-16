@@ -90,16 +90,16 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/rfa-granted-launch-licence-for-rfa-one-debut-from-saxavord/" >🔗</a> **[European Spaceflight]** RFA Granted Launch Licence for RFA ONE Debut from SaxaVord
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/EarthCARE/EarthCARE_goes_live_with_data_now_available_to_all" >🔗</a> **[ESA]** EarthCARE goes live with data now available to all
 - <a href="https://arstechnica.com/space/2025/01/blue-origin-reaches-orbit-on-first-flight-of-its-titanic-new-glenn-rocket/" >🔗</a> **[Arstechnica]** Blue Origin reaches orbit on first flight of its titanic New Glenn rocket
 - <a href="https://spacenews.com/new-glenn-reaches-orbit-on-first-launch/" >🔗</a> **[SpaceNews]** New Glenn reaches orbit on first launch
 - <a href="https://spacenews.com/second-sar-satellite-advances-space42s-hybrid-connectivity-and-imagery-vision/" >🔗</a> **[SpaceNews]** Second SAR satellite advances Space42’s hybrid connectivity and imagery vision
 - <a href="https://spacenews.com/hubble-budget-cuts-could-impact-science-and-mission-operations/" >🔗</a> **[SpaceNews]** Hubble budget cuts could impact science and mission operations
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/01/Mars_plays_hide_and_seek_with_Wolf_Moon" >🔗</a> **[ESA]** Mars plays hide and seek with Wolf Moon
 - <a href="https://spacenews.com/u-s-intelligence-agency-selects-13-companies-for-satellite-data-contract/" >🔗</a> **[SpaceNews]** U.S. intelligence agency selects 13 companies for satellite data contract
+- <a href="https://spaceflightnow.com/2025/01/15/live-coverage-blue-origin-to-launch-blue-ring-pathfinder-on-new-glenn-rocket-inaugural-launch-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** History made: Blue Origin becomes first new space company to reach orbit on its first launch
 - <a href="https://spacenews.com/defense-spending-propels-government-space-budgets-to-new-heights/" >🔗</a> **[SpaceNews]** Defense spending propels government space budgets to new heights
-- <a href="https://science.nasa.gov/science-research/heliophysics/nasa-solar-observatory-sees-coronal-loops-flicker-before-big-flares/" >🔗</a> **[NASA]** NASA Solar Observatory Sees Coronal Loops Flicker Before Big Flares
-- <a href="https://www.nasa.gov/image-article/langleys-propeller-research-tunnel/" >🔗</a> **[NASA]** Langley’s Propeller Research Tunnel
-- <a href="https://spacenews.com/former-pentagon-official-john-plumb-joins-startup-k2-space/" >🔗</a> **[SpaceNews]** Former Pentagon official John Plumb joins startup K2 Space
-- <a href="https://science.nasa.gov/science-research/nasa-seeks-proposals-for-space-biology-and-physical-sciences-research/" >🔗</a> **[NASA]** NASA Seeks Proposals for Space Biology and Physical Sciences Research
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250116T090125">2025-01-16 09:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250116T093129">2025-01-16 09:31:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
