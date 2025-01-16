@@ -91,16 +91,16 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-weather-experts-forecast-strong-support-from-incoming-administration/" >🔗</a> **[SpaceNews]** Space weather experts forecast strong support from incoming administration
+- <a href="https://www.nasa.gov/news-release/nasas-day-of-remembrance-honors-fallen-heroes-of-exploration/" >🔗</a> **[NASA]** NASA’s Day of Remembrance Honors Fallen Heroes of Exploration
 - <a href="https://spaceflightnow.com/2025/01/16/live-coverage-spacex-to-launch-its-starship-rocket-on-a-7th-suborbital-test-flight-from-starbase/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch its Starship rocket on a 7th suborbital test flight from Starbase
 - <a href="https://spacenews.com/sierra-space-satellite-passes-milestone-in-space-force-program/" >🔗</a> **[SpaceNews]** Sierra Space satellite passes milestone in Space Force program
+- <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-traces-hidden-history-of-andromeda-galaxy/" >🔗</a> **[NASA]** NASA’s Hubble Traces Hidden History of Andromeda Galaxy
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Hubble_traces_hidden_history_of_the_Andromeda_Galaxy" >🔗</a> **[ESA]** Hubble traces hidden history of the Andromeda Galaxy
 - <a href="https://spacenews.com/xplore-launches-precursor-for-hyperspectral-constellation/" >🔗</a> **[SpaceNews]** Xplore launches precursor for hyperspectral constellation
 - <a href="https://www.spacescout.info/2025/01/new-glenn-earns-its-wings/" >🔗</a> **[Space Scout]** New Glenn Earns Its Wings
 - <a href="https://www.nasa.gov/history/aerospace-latin-america-a-history/" >🔗</a> **[NASA]** Aerospace Latin America: A History
 - <a href="https://www.nasa.gov/learning-resources/stem-engagement-at-nasa/nasa-international-space-apps-challenge-announces-2024-global-winners/" >🔗</a> **[NASA]** NASA International Space Apps Challenge Announces 2024 Global Winners
-- <a href="https://www.nasa.gov/missions/gpm/nasa-scientists-find-new-human-caused-shifts-in-global-water-cycle/" >🔗</a> **[NASA]** NASA Scientists Find New Human-Caused Shifts in Global Water Cycle
-- <a href="https://spacenews.com/rfa-gets-u-k-launch-license/" >🔗</a> **[SpaceNews]** RFA gets U.K. launch license
-- <a href="https://www.nasa.gov/general/exoplanets-need-to-be-prepared-for-extreme-space-weather-chandra-finds/" >🔗</a> **[NASA]** Exoplanets Need to Be Prepared for Extreme Space Weather, Chandra Finds
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250116T203122">2025-01-16 20:31:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250116T210124">2025-01-16 21:01:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
