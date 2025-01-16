@@ -90,6 +90,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Enabling_Support/Operations/ESA_Ground_Stations/Malarguee_A_satellite_dish_best_served_cold" >🔗</a> **[ESA]** Malargüe: A satellite dish best served cold
 - <a href="https://europeanspaceflight.com/rfa-granted-launch-licence-for-rfa-one-debut-from-saxavord/" >🔗</a> **[European Spaceflight]** RFA Granted Launch Licence for RFA ONE Debut from SaxaVord
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/EarthCARE/EarthCARE_goes_live_with_data_now_available_to_all" >🔗</a> **[ESA]** EarthCARE goes live with data now available to all
 - <a href="https://arstechnica.com/space/2025/01/blue-origin-reaches-orbit-on-first-flight-of-its-titanic-new-glenn-rocket/" >🔗</a> **[Arstechnica]** Blue Origin reaches orbit on first flight of its titanic New Glenn rocket
@@ -99,7 +100,6 @@ into *a Suborbital
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/01/Mars_plays_hide_and_seek_with_Wolf_Moon" >🔗</a> **[ESA]** Mars plays hide and seek with Wolf Moon
 - <a href="https://spacenews.com/u-s-intelligence-agency-selects-13-companies-for-satellite-data-contract/" >🔗</a> **[SpaceNews]** U.S. intelligence agency selects 13 companies for satellite data contract
 - <a href="https://spaceflightnow.com/2025/01/15/live-coverage-blue-origin-to-launch-blue-ring-pathfinder-on-new-glenn-rocket-inaugural-launch-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** History made: Blue Origin becomes first new space company to reach orbit on its first launch
-- <a href="https://spacenews.com/defense-spending-propels-government-space-budgets-to-new-heights/" >🔗</a> **[SpaceNews]** Defense spending propels government space budgets to new heights
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250116T100119">2025-01-16 10:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250116T103411">2025-01-16 10:34:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
