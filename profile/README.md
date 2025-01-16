@@ -91,16 +91,16 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/sierra-space-satellite-passes-milestone-in-space-force-program/" >🔗</a> **[SpaceNews]** Sierra Space satellite passes milestone in Space Force program
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Hubble_traces_hidden_history_of_the_Andromeda_Galaxy" >🔗</a> **[ESA]** Hubble traces hidden history of the Andromeda Galaxy
+- <a href="https://spacenews.com/xplore-launches-precursor-for-hyperspectral-constellation/" >🔗</a> **[SpaceNews]** Xplore launches precursor for hyperspectral constellation
+- <a href="https://www.spacescout.info/2025/01/new-glenn-earns-its-wings/" >🔗</a> **[Space Scout]** New Glenn Earns Its Wings
 - <a href="https://www.nasa.gov/history/aerospace-latin-america-a-history/" >🔗</a> **[NASA]** Aerospace Latin America: A History
 - <a href="https://www.nasa.gov/learning-resources/stem-engagement-at-nasa/nasa-international-space-apps-challenge-announces-2024-global-winners/" >🔗</a> **[NASA]** NASA International Space Apps Challenge Announces 2024 Global Winners
 - <a href="https://www.nasa.gov/missions/gpm/nasa-scientists-find-new-human-caused-shifts-in-global-water-cycle/" >🔗</a> **[NASA]** NASA Scientists Find New Human-Caused Shifts in Global Water Cycle
 - <a href="https://spacenews.com/rfa-gets-u-k-launch-license/" >🔗</a> **[SpaceNews]** RFA gets U.K. launch license
 - <a href="https://www.nasa.gov/general/exoplanets-need-to-be-prepared-for-extreme-space-weather-chandra-finds/" >🔗</a> **[NASA]** Exoplanets Need to Be Prepared for Extreme Space Weather, Chandra Finds
 - <a href="https://science.nasa.gov/directorates/smd/astrophysics-division/exoplanet-exploration-program/nasas-pandora-mission-one-step-closer-to-probing-alien-atmospheres/" >🔗</a> **[NASA]** NASA’s Pandora Mission One Step Closer To Probing Alien Atmospheres
-- <a href="https://spacenews.com/voyager-space-rebrands-to-expand-focus-on-national-security/" >🔗</a> **[SpaceNews]** Voyager Space rebrands to expand focus on national security
-- <a href="https://spacenews.com/india-completes-on-orbit-docking-test-in-step-towards-major-space-plans/" >🔗</a> **[SpaceNews]** India completes on-orbit docking test in step towards major space plans
-- <a href="https://spacepolicyonline.com/news/blue-origins-new-glenn-reaches-orbit/" >🔗</a> **[SpacePolicyOnline.com]** Blue Origin’s New Glenn Reaches Orbit
-- <a href="https://spacenews.com/space-foundation-and-starburst-to-host-second-annual-space-symposium-innovate-pitch-competition/" >🔗</a> **[SpaceNews]** Space Foundation and Starburst to Host Second Annual Space Symposium Innovate Pitch Competition
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250116T190123">2025-01-16 19:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250116T193100">2025-01-16 19:31:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
