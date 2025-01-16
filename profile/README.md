@@ -90,6 +90,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/india-completes-on-orbit-docking-test-in-step-towards-major-space-plans/" >🔗</a> **[SpaceNews]** India completes on-orbit docking test in step towards major space plans
 - <a href="https://spacepolicyonline.com/news/blue-origins-new-glenn-reaches-orbit/" >🔗</a> **[SpacePolicyOnline.com]** Blue Origin’s New Glenn Reaches Orbit
 - <a href="https://spacenews.com/space-foundation-and-starburst-to-host-second-annual-space-symposium-innovate-pitch-competition/" >🔗</a> **[SpaceNews]** Space Foundation and Starburst to Host Second Annual Space Symposium Innovate Pitch Competition
 - <a href="https://www.esa.int/Enabling_Support/Operations/ESA_Ground_Stations/Malarguee_A_satellite_dish_best_served_cold" >🔗</a> **[ESA]** Malargüe: A satellite dish best served cold
@@ -99,7 +100,6 @@ into *a Suborbital
 - <a href="https://spacenews.com/new-glenn-reaches-orbit-on-first-launch/" >🔗</a> **[SpaceNews]** New Glenn reaches orbit on first launch
 - <a href="https://spacenews.com/second-sar-satellite-advances-space42s-hybrid-connectivity-and-imagery-vision/" >🔗</a> **[SpaceNews]** Second SAR satellite advances Space42’s hybrid connectivity and imagery vision
 - <a href="https://spacenews.com/hubble-budget-cuts-could-impact-science-and-mission-operations/" >🔗</a> **[SpaceNews]** Hubble budget cuts could impact science and mission operations
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/01/Mars_plays_hide_and_seek_with_Wolf_Moon" >🔗</a> **[ESA]** Mars plays hide and seek with Wolf Moon
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250116T120146">2025-01-16 12:01:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250116T124234">2025-01-16 12:42:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
