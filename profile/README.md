@@ -93,6 +93,7 @@ Target orbit is 2400 x 19300 km at 30° inclination.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/second-sar-satellite-advances-space42s-hybrid-connectivity-and-imagery-vision/" >🔗</a> **[SpaceNews]** Second SAR satellite advances Space42’s hybrid connectivity and imagery vision
 - <a href="https://spacenews.com/hubble-budget-cuts-could-impact-science-and-mission-operations/" >🔗</a> **[SpaceNews]** Hubble budget cuts could impact science and mission operations
 - <a href="https://spacenews.com/u-s-intelligence-agency-selects-13-companies-for-satellite-data-contract/" >🔗</a> **[SpaceNews]** U.S. intelligence agency selects 13 companies for satellite data contract
 - <a href="https://spacenews.com/defense-spending-propels-government-space-budgets-to-new-heights/" >🔗</a> **[SpaceNews]** Defense spending propels government space budgets to new heights
@@ -102,7 +103,6 @@ Target orbit is 2400 x 19300 km at 30° inclination.
 - <a href="https://science.nasa.gov/science-research/nasa-seeks-proposals-for-space-biology-and-physical-sciences-research/" >🔗</a> **[NASA]** NASA Seeks Proposals for Space Biology and Physical Sciences Research
 - <a href="https://spacenews.com/stoke-space-raises-260-million/" >🔗</a> **[SpaceNews]** Stoke Space raises $260 million
 - <a href="https://arstechnica.com/space/2025/01/stoke-space-raises-a-ton-of-money-as-it-moves-closer-to-debut-launch/" >🔗</a> **[Arstechnica]** Stoke Space raises a ton of money as it moves closer to debut launch
-- <a href="https://www.nasa.gov/general/how-it-started-how-its-going-johnson-space-center-edition/" >🔗</a> **[NASA]** How It Started, How It’s Going: Johnson Space Center Edition
 
 
 ### Launch-related News 🚀
@@ -121,7 +121,7 @@ Target orbit is 2400 x 19300 km at 30° inclination.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250116T000424">2025-01-16 00:04:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250116T004529">2025-01-16 00:45:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
