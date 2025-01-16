@@ -90,16 +90,16 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/gpm/nasa-scientists-find-new-human-caused-shifts-in-global-water-cycle/" >🔗</a> **[NASA]** NASA Scientists Find New Human-Caused Shifts in Global Water Cycle
+- <a href="https://spacenews.com/rfa-gets-u-k-launch-license/" >🔗</a> **[SpaceNews]** RFA gets U.K. launch license
+- <a href="https://www.nasa.gov/general/exoplanets-need-to-be-prepared-for-extreme-space-weather-chandra-finds/" >🔗</a> **[NASA]** Exoplanets Need to Be Prepared for Extreme Space Weather, Chandra Finds
+- <a href="https://science.nasa.gov/directorates/smd/astrophysics-division/exoplanet-exploration-program/nasas-pandora-mission-one-step-closer-to-probing-alien-atmospheres/" >🔗</a> **[NASA]** NASA’s Pandora Mission One Step Closer To Probing Alien Atmospheres
 - <a href="https://spacenews.com/voyager-space-rebrands-to-expand-focus-on-national-security/" >🔗</a> **[SpaceNews]** Voyager Space rebrands to expand focus on national security
 - <a href="https://spacenews.com/india-completes-on-orbit-docking-test-in-step-towards-major-space-plans/" >🔗</a> **[SpaceNews]** India completes on-orbit docking test in step towards major space plans
 - <a href="https://spacepolicyonline.com/news/blue-origins-new-glenn-reaches-orbit/" >🔗</a> **[SpacePolicyOnline.com]** Blue Origin’s New Glenn Reaches Orbit
 - <a href="https://spacenews.com/space-foundation-and-starburst-to-host-second-annual-space-symposium-innovate-pitch-competition/" >🔗</a> **[SpaceNews]** Space Foundation and Starburst to Host Second Annual Space Symposium Innovate Pitch Competition
 - <a href="https://www.esa.int/Enabling_Support/Operations/ESA_Ground_Stations/Malarguee_A_satellite_dish_best_served_cold" >🔗</a> **[ESA]** Malargüe: A satellite dish best served cold
 - <a href="https://europeanspaceflight.com/rfa-granted-launch-licence-for-rfa-one-debut-from-saxavord/" >🔗</a> **[European Spaceflight]** RFA Granted Launch Licence for RFA ONE Debut from SaxaVord
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/EarthCARE/EarthCARE_goes_live_with_data_now_available_to_all" >🔗</a> **[ESA]** EarthCARE goes live with data now available to all
-- <a href="https://arstechnica.com/space/2025/01/blue-origin-reaches-orbit-on-first-flight-of-its-titanic-new-glenn-rocket/" >🔗</a> **[Arstechnica]** Blue Origin reaches orbit on first flight of its titanic New Glenn rocket
-- <a href="https://spacenews.com/new-glenn-reaches-orbit-on-first-launch/" >🔗</a> **[SpaceNews]** New Glenn reaches orbit on first launch
-- <a href="https://spacenews.com/second-sar-satellite-advances-space42s-hybrid-connectivity-and-imagery-vision/" >🔗</a> **[SpaceNews]** Second SAR satellite advances Space42’s hybrid connectivity and imagery vision
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250116T160120">2025-01-16 16:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250116T163506">2025-01-16 16:35:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
