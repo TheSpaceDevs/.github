@@ -90,6 +90,8 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/01/blue-origin-reaches-orbit-on-first-flight-of-its-titanic-new-glenn-rocket/" >🔗</a> **[Arstechnica]** Blue Origin reaches orbit on first flight of its titanic New Glenn rocket
+- <a href="https://spacenews.com/new-glenn-reaches-orbit-on-first-launch/" >🔗</a> **[SpaceNews]** New Glenn reaches orbit on first launch
 - <a href="https://spacenews.com/second-sar-satellite-advances-space42s-hybrid-connectivity-and-imagery-vision/" >🔗</a> **[SpaceNews]** Second SAR satellite advances Space42’s hybrid connectivity and imagery vision
 - <a href="https://spacenews.com/hubble-budget-cuts-could-impact-science-and-mission-operations/" >🔗</a> **[SpaceNews]** Hubble budget cuts could impact science and mission operations
 - <a href="https://spacenews.com/u-s-intelligence-agency-selects-13-companies-for-satellite-data-contract/" >🔗</a> **[SpaceNews]** U.S. intelligence agency selects 13 companies for satellite data contract
@@ -98,8 +100,6 @@ into *a Suborbital
 - <a href="https://www.nasa.gov/image-article/langleys-propeller-research-tunnel/" >🔗</a> **[NASA]** Langley’s Propeller Research Tunnel
 - <a href="https://spacenews.com/former-pentagon-official-john-plumb-joins-startup-k2-space/" >🔗</a> **[SpaceNews]** Former Pentagon official John Plumb joins startup K2 Space
 - <a href="https://science.nasa.gov/science-research/nasa-seeks-proposals-for-space-biology-and-physical-sciences-research/" >🔗</a> **[NASA]** NASA Seeks Proposals for Space Biology and Physical Sciences Research
-- <a href="https://spacenews.com/stoke-space-raises-260-million/" >🔗</a> **[SpaceNews]** Stoke Space raises $260 million
-- <a href="https://arstechnica.com/space/2025/01/stoke-space-raises-a-ton-of-money-as-it-moves-closer-to-debut-launch/" >🔗</a> **[Arstechnica]** Stoke Space raises a ton of money as it moves closer to debut launch
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250116T073108">2025-01-16 07:31:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250116T080133">2025-01-16 08:01:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
