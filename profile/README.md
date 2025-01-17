@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/planet-hires-former-space-force-chief-to-its-board-amid-defense-push/" >🔗</a> **[SpaceNews]** Planet hires former Space Force chief to its board amid defense push
+- <a href="https://spacenews.com/space-to-grow-american-leadership-in-space-commerce/" >🔗</a> **[SpaceNews]** Space to grow: American leadership in space commerce
+- <a href="https://www.nasa.gov/missions/artemis/nasa-kennedy-ground-systems-prepping-hardware-for-artemis-ii-beyond/" >🔗</a> **[NASA]** NASA Kennedy Ground Systems Prepping Hardware for Artemis II, Beyond
+- <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/sustainable-business-model-challenge/" >🔗</a> **[NASA]** Sustainable Business Model Challenge
+- <a href="https://www.nasa.gov/history/35-years-ago-nasa-selects-its-13th-group-of-astronauts/" >🔗</a> **[NASA]** 35 Years Ago: NASA Selects its 13th Group of Astronauts
 - <a href="https://spacenews.com/abs-rethinks-business-models-to-navigate-shifting-satellite-market/" >🔗</a> **[SpaceNews]** ABS rethinks business models to navigate shifting satellite market
 - <a href="https://arstechnica.com/space/2025/01/rocket-report-starship-experiences-a-rud-blue-origin-nails-its-debut-launch/" >🔗</a> **[Arstechnica]** Rocket Report: Starship experiences a RUD; Blue Origin nails its debut launch
 - <a href="https://europeanspaceflight.com/second-ariane-6-rocket-takes-shape-as-spy-satellite-payload-arrives/" >🔗</a> **[European Spaceflight]** Second Ariane 6 Rocket Takes Shape as Spy Satellite Payload Arrives
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/01/Seed-sized_space_chip" >🔗</a> **[ESA]** Seed-sized space chip
 - <a href="https://spacenews.com/china-launches-earth-observation-satellite-for-pakistan/" >🔗</a> **[SpaceNews]** China launches Earth observation satellite for Pakistan
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/01/Earth_from_Space_Frozen_borders" >🔗</a> **[ESA]** Earth from Space: Frozen borders
-- <a href="https://spacepolicyonline.com/news/nros-meink-is-trumps-choice-for-secretary-of-the-air-force/" >🔗</a> **[SpacePolicyOnline.com]** NRO’s Meink Is Trump’s Choice for Secretary of the Air Force
-- <a href="https://spacepolicyonline.com/news/spacex-catches-ift-7-booster-but-loses-starship/" >🔗</a> **[SpacePolicyOnline.com]** SpaceX Catches IFT-7 Booster, but Loses Starship
-- <a href="https://spacenews.com/space-force-procurement-official-removed-amid-investigation/" >🔗</a> **[SpaceNews]** Space Force procurement official removed amid investigation
-- <a href="https://spacenews.com/starship-upper-stage-lost-on-seventh-test-flight/" >🔗</a> **[SpaceNews]** Starship upper stage lost on seventh test flight
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250117T140121">2025-01-17 14:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250117T143237">2025-01-17 14:32:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
