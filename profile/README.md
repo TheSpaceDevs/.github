@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/station/iss-research/peak-performance-in-microgravity/" >🔗</a> **[NASA]** Peak Performance in Microgravity
+- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_13-17_January_2025" >🔗</a> **[ESA]** Week in images: 13-17 January 2025
 - <a href="https://spacenews.com/planet-hires-former-space-force-chief-to-its-board-amid-defense-push/" >🔗</a> **[SpaceNews]** Planet hires former Space Force chief to its board amid defense push
 - <a href="https://spacenews.com/space-to-grow-american-leadership-in-space-commerce/" >🔗</a> **[SpaceNews]** Space to grow: American leadership in space commerce
 - <a href="https://www.nasa.gov/missions/artemis/nasa-kennedy-ground-systems-prepping-hardware-for-artemis-ii-beyond/" >🔗</a> **[NASA]** NASA Kennedy Ground Systems Prepping Hardware for Artemis II, Beyond
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/abs-rethinks-business-models-to-navigate-shifting-satellite-market/" >🔗</a> **[SpaceNews]** ABS rethinks business models to navigate shifting satellite market
 - <a href="https://arstechnica.com/space/2025/01/rocket-report-starship-experiences-a-rud-blue-origin-nails-its-debut-launch/" >🔗</a> **[Arstechnica]** Rocket Report: Starship experiences a RUD; Blue Origin nails its debut launch
 - <a href="https://europeanspaceflight.com/second-ariane-6-rocket-takes-shape-as-spy-satellite-payload-arrives/" >🔗</a> **[European Spaceflight]** Second Ariane 6 Rocket Takes Shape as Spy Satellite Payload Arrives
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/01/Seed-sized_space_chip" >🔗</a> **[ESA]** Seed-sized space chip
-- <a href="https://spacenews.com/china-launches-earth-observation-satellite-for-pakistan/" >🔗</a> **[SpaceNews]** China launches Earth observation satellite for Pakistan
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250117T150121">2025-01-17 15:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250117T153127">2025-01-17 15:31:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
