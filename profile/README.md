@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/humans-in-space/hydrogen-sulfide-h2s-independent-assessment/" >🔗</a> **[NASA]** Hydrogen Sulfide (H2S) Independent Assessment
+- <a href="https://www.nasa.gov/aeronautics/nasa-scientists-engineers-receive-presidential-early-career-awards/" >🔗</a> **[NASA]** NASA Scientists, Engineers Receive Presidential Early Career Awards
 - <a href="https://www.nasa.gov/general/nasa-opens-new-challenge-to-support-climate-minded-business-models/" >🔗</a> **[NASA]** NASA Opens New Challenge to Support Climate-Minded Business Models
 - <a href="https://www.nasa.gov/news-release/nasas-planetary-defenders-head-to-the-sundance-film-festival/" >🔗</a> **[NASA]** NASA’s Planetary Defenders Head to the Sundance Film Festival
 - <a href="https://spacenews.com/transportation-secretary-nominee-vows-to-review-spacex-launch-license-fines/" >🔗</a> **[SpaceNews]** Transportation secretary nominee vows to review SpaceX launch license fines
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/missions/station/iss-research/peak-performance-in-microgravity/" >🔗</a> **[NASA]** Peak Performance in Microgravity
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_13-17_January_2025" >🔗</a> **[ESA]** Week in images: 13-17 January 2025
 - <a href="https://spacenews.com/planet-hires-former-space-force-chief-to-its-board-amid-defense-push/" >🔗</a> **[SpaceNews]** Planet hires former Space Force chief to its board amid defense push
-- <a href="https://spacenews.com/space-to-grow-american-leadership-in-space-commerce/" >🔗</a> **[SpaceNews]** Space to grow: American leadership in space commerce
-- <a href="https://www.nasa.gov/missions/artemis/nasa-kennedy-ground-systems-prepping-hardware-for-artemis-ii-beyond/" >🔗</a> **[NASA]** NASA Kennedy Ground Systems Prepping Hardware for Artemis II, Beyond
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250117T203113">2025-01-17 20:31:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250117T210124">2025-01-17 21:01:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
