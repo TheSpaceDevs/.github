@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-launches-earth-observation-satellite-for-pakistan/" >🔗</a> **[SpaceNews]** China launches Earth observation satellite for Pakistan
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/01/Earth_from_Space_Frozen_borders" >🔗</a> **[ESA]** Earth from Space: Frozen borders
 - <a href="https://spacepolicyonline.com/news/nros-meink-is-trumps-choice-for-secretary-of-the-air-force/" >🔗</a> **[SpacePolicyOnline.com]** NRO’s Meink Is Trump’s Choice for Secretary of the Air Force
 - <a href="https://spacepolicyonline.com/news/spacex-catches-ift-7-booster-but-loses-starship/" >🔗</a> **[SpacePolicyOnline.com]** SpaceX Catches IFT-7 Booster, but Loses Starship
 - <a href="https://spacenews.com/space-force-procurement-official-removed-amid-investigation/" >🔗</a> **[SpaceNews]** Space Force procurement official removed amid investigation
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/general/nasa-names-david-korth-as-deputy-safety-and-mission-assurance-directorate/" >🔗</a> **[NASA]** NASA Names David Korth as Deputy, Safety and Mission Assurance Directorate
 - <a href="https://www.nasa.gov/general/nasa-names-mary-beth-schwartz-as-director-center-operations-directorate/" >🔗</a> **[NASA]** NASA Names Mary Beth Schwartz as Director, Center Operations Directorate
 - <a href="https://www.nasa.gov/image-article/hubble-reveals-jupiter-in-ultraviolet-light/" >🔗</a> **[NASA]** Hubble Reveals Jupiter in Ultraviolet Light
-- <a href="https://spacenews.com/trump-taps-space-and-intelligence-veteran-troy-meink-as-air-force-secretary/" >🔗</a> **[SpaceNews]** Trump taps space and intelligence veteran Troy Meink as Air Force secretary
-- <a href="https://science.nasa.gov/missions/hubble/hubble-captures-young-stars-changing-their-environments/" >🔗</a> **[NASA]** Hubble Captures Young Stars Changing Their Environments
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250117T090129">2025-01-17 09:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250117T093130">2025-01-17 09:31:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
