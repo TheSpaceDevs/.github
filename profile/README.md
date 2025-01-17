@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/martin-luther-king-jr-memorial/" >🔗</a> **[NASA]** Martin Luther King, Jr. Memorial
 - <a href="https://www.teslarati.com/spacex-elon-musk-explain-potential-reasons-for-starship-loss/" >🔗</a> **[Teslarati]** SpaceX and Elon Musk explain potential reasons for Starship loss
 - <a href="https://www.nasa.gov/missions/station/iss-research/peak-performance-in-microgravity/" >🔗</a> **[NASA]** Peak Performance in Microgravity
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_13-17_January_2025" >🔗</a> **[ESA]** Week in images: 13-17 January 2025
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/sustainable-business-model-challenge/" >🔗</a> **[NASA]** Sustainable Business Model Challenge
 - <a href="https://www.nasa.gov/history/35-years-ago-nasa-selects-its-13th-group-of-astronauts/" >🔗</a> **[NASA]** 35 Years Ago: NASA Selects its 13th Group of Astronauts
 - <a href="https://spacenews.com/abs-rethinks-business-models-to-navigate-shifting-satellite-market/" >🔗</a> **[SpaceNews]** ABS rethinks business models to navigate shifting satellite market
-- <a href="https://arstechnica.com/space/2025/01/rocket-report-starship-experiences-a-rud-blue-origin-nails-its-debut-launch/" >🔗</a> **[Arstechnica]** Rocket Report: Starship experiences a RUD; Blue Origin nails its debut launch
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250117T170119">2025-01-17 17:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250117T173253">2025-01-17 17:32:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
