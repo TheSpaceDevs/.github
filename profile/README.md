@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/spacex-catches-ift-7-booster-but-loses-starship/" >🔗</a> **[SpacePolicyOnline.com]** SpaceX Catches IFT-7 Booster, but Loses Starship
 - <a href="https://spacenews.com/space-force-procurement-official-removed-amid-investigation/" >🔗</a> **[SpaceNews]** Space Force procurement official removed amid investigation
 - <a href="https://spacenews.com/starship-upper-stage-lost-on-seventh-test-flight/" >🔗</a> **[SpaceNews]** Starship upper stage lost on seventh test flight
 - <a href="https://www.teslarati.com/spacex-completes-second-catch-lower-stage-loses-starship/" >🔗</a> **[Teslarati]** SpaceX completes second catch of lower stage, but loses Starship
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/trump-taps-space-and-intelligence-veteran-troy-meink-as-air-force-secretary/" >🔗</a> **[SpaceNews]** Trump taps space and intelligence veteran Troy Meink as Air Force secretary
 - <a href="https://science.nasa.gov/missions/hubble/hubble-captures-young-stars-changing-their-environments/" >🔗</a> **[NASA]** Hubble Captures Young Stars Changing Their Environments
 - <a href="https://spacenews.com/space-weather-experts-forecast-strong-support-from-incoming-administration/" >🔗</a> **[SpaceNews]** Space weather experts forecast strong support from incoming administration
-- <a href="https://www.nasa.gov/news-release/nasas-day-of-remembrance-honors-fallen-heroes-of-exploration/" >🔗</a> **[NASA]** NASA’s Day of Remembrance Honors Fallen Heroes of Exploration
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250117T000428">2025-01-17 00:04:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250117T004530">2025-01-17 00:45:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
