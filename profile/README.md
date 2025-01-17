@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/second-ariane-6-rocket-takes-shape-as-spy-satellite-payload-arrives/" >🔗</a> **[European Spaceflight]** Second Ariane 6 Rocket Takes Shape as Spy Satellite Payload Arrives
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/01/Seed-sized_space_chip" >🔗</a> **[ESA]** Seed-sized space chip
 - <a href="https://spacenews.com/china-launches-earth-observation-satellite-for-pakistan/" >🔗</a> **[SpaceNews]** China launches Earth observation satellite for Pakistan
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/01/Earth_from_Space_Frozen_borders" >🔗</a> **[ESA]** Earth from Space: Frozen borders
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/starship-upper-stage-lost-on-seventh-test-flight/" >🔗</a> **[SpaceNews]** Starship upper stage lost on seventh test flight
 - <a href="https://www.teslarati.com/spacex-completes-second-catch-lower-stage-loses-starship/" >🔗</a> **[Teslarati]** SpaceX completes second catch of lower stage, but loses Starship
 - <a href="https://www.nasa.gov/general/nasa-names-david-korth-as-deputy-safety-and-mission-assurance-directorate/" >🔗</a> **[NASA]** NASA Names David Korth as Deputy, Safety and Mission Assurance Directorate
-- <a href="https://www.nasa.gov/general/nasa-names-mary-beth-schwartz-as-director-center-operations-directorate/" >🔗</a> **[NASA]** NASA Names Mary Beth Schwartz as Director, Center Operations Directorate
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250117T110119">2025-01-17 11:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250117T113109">2025-01-17 11:31:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
