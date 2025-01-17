@@ -91,6 +91,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-procurement-official-removed-amid-investigation/" >🔗</a> **[SpaceNews]** Space Force procurement official removed amid investigation
+- <a href="https://spacenews.com/starship-upper-stage-lost-on-seventh-test-flight/" >🔗</a> **[SpaceNews]** Starship upper stage lost on seventh test flight
+- <a href="https://www.teslarati.com/spacex-completes-second-catch-lower-stage-loses-starship/" >🔗</a> **[Teslarati]** SpaceX completes second catch of lower stage, but loses Starship
 - <a href="https://www.nasa.gov/general/nasa-names-david-korth-as-deputy-safety-and-mission-assurance-directorate/" >🔗</a> **[NASA]** NASA Names David Korth as Deputy, Safety and Mission Assurance Directorate
 - <a href="https://www.nasa.gov/general/nasa-names-mary-beth-schwartz-as-director-center-operations-directorate/" >🔗</a> **[NASA]** NASA Names Mary Beth Schwartz as Director, Center Operations Directorate
 - <a href="https://www.nasa.gov/image-article/hubble-reveals-jupiter-in-ultraviolet-light/" >🔗</a> **[NASA]** Hubble Reveals Jupiter in Ultraviolet Light
@@ -98,9 +101,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/missions/hubble/hubble-captures-young-stars-changing-their-environments/" >🔗</a> **[NASA]** Hubble Captures Young Stars Changing Their Environments
 - <a href="https://spacenews.com/space-weather-experts-forecast-strong-support-from-incoming-administration/" >🔗</a> **[SpaceNews]** Space weather experts forecast strong support from incoming administration
 - <a href="https://www.nasa.gov/news-release/nasas-day-of-remembrance-honors-fallen-heroes-of-exploration/" >🔗</a> **[NASA]** NASA’s Day of Remembrance Honors Fallen Heroes of Exploration
-- <a href="https://spaceflightnow.com/2025/01/16/live-coverage-spacex-to-launch-its-starship-rocket-on-a-7th-suborbital-test-flight-from-starbase/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch its Starship rocket on a 7th suborbital test flight from Starbase
-- <a href="https://spacenews.com/sierra-space-satellite-passes-milestone-in-space-force-program/" >🔗</a> **[SpaceNews]** Sierra Space satellite passes milestone in Space Force program
-- <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-traces-hidden-history-of-andromeda-galaxy/" >🔗</a> **[NASA]** NASA’s Hubble Traces Hidden History of Andromeda Galaxy
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250116T233109">2025-01-16 23:31:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250117T000428">2025-01-17 00:04:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
