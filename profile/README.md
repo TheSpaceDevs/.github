@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/abs-rethinks-business-models-to-navigate-shifting-satellite-market/" >🔗</a> **[SpaceNews]** ABS rethinks business models to navigate shifting satellite market
 - <a href="https://arstechnica.com/space/2025/01/rocket-report-starship-experiences-a-rud-blue-origin-nails-its-debut-launch/" >🔗</a> **[Arstechnica]** Rocket Report: Starship experiences a RUD; Blue Origin nails its debut launch
 - <a href="https://europeanspaceflight.com/second-ariane-6-rocket-takes-shape-as-spy-satellite-payload-arrives/" >🔗</a> **[European Spaceflight]** Second Ariane 6 Rocket Takes Shape as Spy Satellite Payload Arrives
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/01/Seed-sized_space_chip" >🔗</a> **[ESA]** Seed-sized space chip
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/spacex-catches-ift-7-booster-but-loses-starship/" >🔗</a> **[SpacePolicyOnline.com]** SpaceX Catches IFT-7 Booster, but Loses Starship
 - <a href="https://spacenews.com/space-force-procurement-official-removed-amid-investigation/" >🔗</a> **[SpaceNews]** Space Force procurement official removed amid investigation
 - <a href="https://spacenews.com/starship-upper-stage-lost-on-seventh-test-flight/" >🔗</a> **[SpaceNews]** Starship upper stage lost on seventh test flight
-- <a href="https://www.teslarati.com/spacex-completes-second-catch-lower-stage-loses-starship/" >🔗</a> **[Teslarati]** SpaceX completes second catch of lower stage, but loses Starship
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250117T130425">2025-01-17 13:04:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250117T133210">2025-01-17 13:32:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
