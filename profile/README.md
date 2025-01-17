@@ -24,10 +24,10 @@ The next space launch, retrieved from our
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
 from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250118T155700">2025-01-18 15:57:00 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250118T170350">2025-01-18 17:03:50 UTC</a>.  Until
 then, this pad will have been used for 176
 out of 788 launches from this location. The launch status is currently
-*TBC* 🟨 . The mission type is
+*Go* 🟩 . The mission type is
 *Communications* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
@@ -46,7 +46,7 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250118T155700">2025-01-18 15:57:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-8&location=Vandenberg SFB, CA, USA&dates=20250118T155700Z%2F20250118T202800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-8** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250118T170350">2025-01-18 17:03:50 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-8&location=Vandenberg SFB, CA, USA&dates=20250118T170350Z%2F20250118T185710Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-8** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250120T095900">2025-01-20 09:59:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ceres-1 | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20250120T095900Z%2F20250120T104600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ceres-1 | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250121T051300">2025-01-21 05:13:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 13-1&location=Kennedy Space Center, FL, USA&dates=20250121T051300Z%2F20250121T094400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 13-1** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250122T143800">2025-01-22 14:38:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-6&location=Vandenberg SFB, CA, USA&dates=20250122T143800Z%2F20250122T190900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-6** from Vandenberg SFB, CA, USA.
@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/nasa-opens-new-challenge-to-support-climate-minded-business-models/" >🔗</a> **[NASA]** NASA Opens New Challenge to Support Climate-Minded Business Models
+- <a href="https://www.nasa.gov/news-release/nasas-planetary-defenders-head-to-the-sundance-film-festival/" >🔗</a> **[NASA]** NASA’s Planetary Defenders Head to the Sundance Film Festival
 - <a href="https://spacenews.com/transportation-secretary-nominee-vows-to-review-spacex-launch-license-fines/" >🔗</a> **[SpaceNews]** Transportation secretary nominee vows to review SpaceX launch license fines
 - <a href="https://www.nasa.gov/image-article/martin-luther-king-jr-memorial/" >🔗</a> **[NASA]** Martin Luther King, Jr. Memorial
 - <a href="https://www.teslarati.com/spacex-elon-musk-explain-potential-reasons-for-starship-loss/" >🔗</a> **[Teslarati]** SpaceX and Elon Musk explain potential reasons for Starship loss
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/planet-hires-former-space-force-chief-to-its-board-amid-defense-push/" >🔗</a> **[SpaceNews]** Planet hires former Space Force chief to its board amid defense push
 - <a href="https://spacenews.com/space-to-grow-american-leadership-in-space-commerce/" >🔗</a> **[SpaceNews]** Space to grow: American leadership in space commerce
 - <a href="https://www.nasa.gov/missions/artemis/nasa-kennedy-ground-systems-prepping-hardware-for-artemis-ii-beyond/" >🔗</a> **[NASA]** NASA Kennedy Ground Systems Prepping Hardware for Artemis II, Beyond
-- <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/sustainable-business-model-challenge/" >🔗</a> **[NASA]** Sustainable Business Model Challenge
-- <a href="https://www.nasa.gov/history/35-years-ago-nasa-selects-its-13th-group-of-astronauts/" >🔗</a> **[NASA]** 35 Years Ago: NASA Selects its 13th Group of Astronauts
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250117T190128">2025-01-17 19:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250117T193108">2025-01-17 19:31:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
