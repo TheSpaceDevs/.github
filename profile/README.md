@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/spaceforest-successfully-test-fires-upgraded-hybrid-rocket-engine/" >🔗</a> **[European Spaceflight]** SpaceForest Successfully Test-Fires Upgraded Hybrid Rocket Engine
 - <a href="https://spacenews.com/thaicom-pushes-back-against-takeover-bid/" >🔗</a> **[SpaceNews]** Thaicom pushes back against takeover bid
 - <a href="https://spacepolicyonline.com/news/faa-requiring-mishap-investigations-for-both-blue-origin-and-spacex/" >🔗</a> **[SpacePolicyOnline.com]** FAA Requiring Mishap Investigations for Both Blue Origin and SpaceX
 - <a href="https://www.nasa.gov/humans-in-space/hydrogen-sulfide-h2s-independent-assessment/" >🔗</a> **[NASA]** Hydrogen Sulfide (H2S) Independent Assessment
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/transportation-secretary-nominee-vows-to-review-spacex-launch-license-fines/" >🔗</a> **[SpaceNews]** Transportation secretary nominee vows to review SpaceX launch license fines
 - <a href="https://www.nasa.gov/image-article/martin-luther-king-jr-memorial/" >🔗</a> **[NASA]** Martin Luther King, Jr. Memorial
 - <a href="https://www.teslarati.com/spacex-elon-musk-explain-potential-reasons-for-starship-loss/" >🔗</a> **[Teslarati]** SpaceX and Elon Musk explain potential reasons for Starship loss
-- <a href="https://www.nasa.gov/missions/station/iss-research/peak-performance-in-microgravity/" >🔗</a> **[NASA]** Peak Performance in Microgravity
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250118T060132">2025-01-18 06:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250118T063428">2025-01-18 06:34:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
