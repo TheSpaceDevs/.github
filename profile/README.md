@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/faa-requires-mishap-investigation-for-failed-new-glenn-landing/" >🔗</a> **[SpaceNews]** FAA requires mishap investigation for failed New Glenn landing
 - <a href="https://www.spacescout.info/2025/01/starship-faces-complications-after-flight-7-anomaly/" >🔗</a> **[Space Scout]** Starship Faces Complications after Flight 7 Anomaly
 - <a href="https://europeanspaceflight.com/spaceforest-successfully-test-fires-upgraded-hybrid-rocket-engine/" >🔗</a> **[European Spaceflight]** SpaceForest Successfully Test-Fires Upgraded Hybrid Rocket Engine
 - <a href="https://spacenews.com/thaicom-pushes-back-against-takeover-bid/" >🔗</a> **[SpaceNews]** Thaicom pushes back against takeover bid
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/general/nasa-opens-new-challenge-to-support-climate-minded-business-models/" >🔗</a> **[NASA]** NASA Opens New Challenge to Support Climate-Minded Business Models
 - <a href="https://www.nasa.gov/news-release/nasas-planetary-defenders-head-to-the-sundance-film-festival/" >🔗</a> **[NASA]** NASA’s Planetary Defenders Head to the Sundance Film Festival
 - <a href="https://spacenews.com/transportation-secretary-nominee-vows-to-review-spacex-launch-license-fines/" >🔗</a> **[SpaceNews]** Transportation secretary nominee vows to review SpaceX launch license fines
-- <a href="https://www.nasa.gov/image-article/martin-luther-king-jr-memorial/" >🔗</a> **[NASA]** Martin Luther King, Jr. Memorial
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250118T230127">2025-01-18 23:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250118T233119">2025-01-18 23:31:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
