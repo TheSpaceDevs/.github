@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/thaicom-pushes-back-against-takeover-bid/" >🔗</a> **[SpaceNews]** Thaicom pushes back against takeover bid
 - <a href="https://spacepolicyonline.com/news/faa-requiring-mishap-investigations-for-both-blue-origin-and-spacex/" >🔗</a> **[SpacePolicyOnline.com]** FAA Requiring Mishap Investigations for Both Blue Origin and SpaceX
 - <a href="https://www.nasa.gov/humans-in-space/hydrogen-sulfide-h2s-independent-assessment/" >🔗</a> **[NASA]** Hydrogen Sulfide (H2S) Independent Assessment
 - <a href="https://www.nasa.gov/aeronautics/nasa-scientists-engineers-receive-presidential-early-career-awards/" >🔗</a> **[NASA]** NASA Scientists, Engineers Receive Presidential Early Career Awards
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/martin-luther-king-jr-memorial/" >🔗</a> **[NASA]** Martin Luther King, Jr. Memorial
 - <a href="https://www.teslarati.com/spacex-elon-musk-explain-potential-reasons-for-starship-loss/" >🔗</a> **[Teslarati]** SpaceX and Elon Musk explain potential reasons for Starship loss
 - <a href="https://www.nasa.gov/missions/station/iss-research/peak-performance-in-microgravity/" >🔗</a> **[NASA]** Peak Performance in Microgravity
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_13-17_January_2025" >🔗</a> **[ESA]** Week in images: 13-17 January 2025
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250117T233119">2025-01-17 23:31:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250118T000411">2025-01-18 00:04:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
