@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacescout.info/2025/01/blue-ghost-and-hakuto-r-take-flight/" >🔗</a> **[Space Scout]** Blue Ghost and HAKUTO-R Take Flight
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-january-19-25-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy January 19-25, 2025
 - <a href="https://spacenews.com/faa-investigating-starship-debris-reports/" >🔗</a> **[SpaceNews]** FAA investigating Starship debris reports
 - <a href="https://spacenews.com/trump-taps-former-space-force-commander-for-senior-air-force-post/" >🔗</a> **[SpaceNews]** Trump taps former Space Force commander for senior Air Force post
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/thaicom-pushes-back-against-takeover-bid/" >🔗</a> **[SpaceNews]** Thaicom pushes back against takeover bid
 - <a href="https://spacepolicyonline.com/news/faa-requiring-mishap-investigations-for-both-blue-origin-and-spacex/" >🔗</a> **[SpacePolicyOnline.com]** FAA Requiring Mishap Investigations for Both Blue Origin and SpaceX
 - <a href="https://www.nasa.gov/humans-in-space/hydrogen-sulfide-h2s-independent-assessment/" >🔗</a> **[NASA]** Hydrogen Sulfide (H2S) Independent Assessment
-- <a href="https://www.nasa.gov/aeronautics/nasa-scientists-engineers-receive-presidential-early-career-awards/" >🔗</a> **[NASA]** NASA Scientists, Engineers Receive Presidential Early Career Awards
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250119T213104">2025-01-19 21:31:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250119T220131">2025-01-19 22:01:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
