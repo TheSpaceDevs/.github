@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-january-19-25-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy January 19-25, 2025
 - <a href="https://spacenews.com/faa-investigating-starship-debris-reports/" >🔗</a> **[SpaceNews]** FAA investigating Starship debris reports
 - <a href="https://spacenews.com/trump-taps-former-space-force-commander-for-senior-air-force-post/" >🔗</a> **[SpaceNews]** Trump taps former Space Force commander for senior Air Force post
 - <a href="https://spacenews.com/faa-requires-mishap-investigation-for-failed-new-glenn-landing/" >🔗</a> **[SpaceNews]** FAA requires mishap investigation for failed New Glenn landing
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacepolicyonline.com/news/faa-requiring-mishap-investigations-for-both-blue-origin-and-spacex/" >🔗</a> **[SpacePolicyOnline.com]** FAA Requiring Mishap Investigations for Both Blue Origin and SpaceX
 - <a href="https://www.nasa.gov/humans-in-space/hydrogen-sulfide-h2s-independent-assessment/" >🔗</a> **[NASA]** Hydrogen Sulfide (H2S) Independent Assessment
 - <a href="https://www.nasa.gov/aeronautics/nasa-scientists-engineers-receive-presidential-early-career-awards/" >🔗</a> **[NASA]** NASA Scientists, Engineers Receive Presidential Early Career Awards
-- <a href="https://www.nasa.gov/general/nasa-opens-new-challenge-to-support-climate-minded-business-models/" >🔗</a> **[NASA]** NASA Opens New Challenge to Support Climate-Minded Business Models
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250119T173111">2025-01-19 17:31:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250119T180131">2025-01-19 18:01:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
