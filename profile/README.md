@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/trump-fully-endorses-astronauts-on-mars-in-inaugural-address/" >🔗</a> **[SpacePolicyOnline.com]** Trump Fully Endorses Astronauts on Mars in Inaugural Address
 - <a href="https://spacenews.com/trumps-second-term-the-space-priorities-and-players/" >🔗</a> **[SpaceNews]** Trump’s second term: the space priorities and players
 - <a href="https://spacenews.com/why-organizing-the-white-house-for-sustained-space-leadership-is-necessary/" >🔗</a> **[SpaceNews]** Why organizing the White House for sustained space leadership is necessary
 - <a href="https://spacenews.com/executive-order-calls-for-cybersecurity-review-of-civil-space-systems/" >🔗</a> **[SpaceNews]** Executive order calls for cybersecurity review of civil space systems
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Satnav_summer_school_open_for_registrations" >🔗</a> **[ESA]** Satnav summer school open for registrations
 - <a href="https://www.spacescout.info/2025/01/blue-ghost-and-hakuto-r-take-flight/" >🔗</a> **[Space Scout]** Blue Ghost and HAKUTO-R Take Flight
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-january-19-25-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy January 19-25, 2025
-- <a href="https://www.nasaspaceflight.com/2025/01/launch-roundup-business-as-usual-resumes-spacex-launches-more-starlinks/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Business As Usual resumes, SpaceX launches more Starlinks
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250120T190122">2025-01-20 19:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250120T193115">2025-01-20 19:31:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
