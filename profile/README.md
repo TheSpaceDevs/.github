@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/ksc-director-petro-to-be-acting-nasa-administrator/" >🔗</a> **[SpacePolicyOnline.com]** KSC Director Petro to be Acting NASA Administrator
 - <a href="https://spacenews.com/second-trump-administration-begins-with-confusion-on-acting-nasa-leadership/" >🔗</a> **[SpaceNews]** Second Trump administration begins with confusion on acting NASA leadership
 - <a href="https://spacepolicyonline.com/news/trump-fully-endorses-astronauts-on-mars-in-inaugural-address/" >🔗</a> **[SpacePolicyOnline.com]** Trump Fully Endorses Astronauts on Mars in Inaugural Address
 - <a href="https://spacenews.com/trumps-second-term-the-space-priorities-and-players/" >🔗</a> **[SpaceNews]** Trump’s second term: the space priorities and players
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/china-performs-high-altitude-reusable-rocket-test-with-uncertain-outcome/" >🔗</a> **[SpaceNews]** China performs high altitude reusable rocket test with uncertain outcome
 - <a href="https://europeanspaceflight.com/nammo-uk-engine-aboard-us-lunar-lander-ignites-for-the-first-time/" >🔗</a> **[European Spaceflight]** Nammo UK Engine Aboard US Lunar Lander Ignites for the First Time
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Satnav_summer_school_open_for_registrations" >🔗</a> **[ESA]** Satnav summer school open for registrations
-- <a href="https://www.spacescout.info/2025/01/blue-ghost-and-hakuto-r-take-flight/" >🔗</a> **[Space Scout]** Blue Ghost and HAKUTO-R Take Flight
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250120T230126">2025-01-20 23:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250120T233100">2025-01-20 23:31:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
