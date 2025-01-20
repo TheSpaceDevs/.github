@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/why-organizing-the-white-house-for-sustained-space-leadership-is-necessary/" >🔗</a> **[SpaceNews]** Why organizing the White House for sustained space leadership is necessary
 - <a href="https://spacenews.com/executive-order-calls-for-cybersecurity-review-of-civil-space-systems/" >🔗</a> **[SpaceNews]** Executive order calls for cybersecurity review of civil space systems
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/01/Before_and_after_space" >🔗</a> **[ESA]** Before and after space
 - <a href="https://spacenews.com/china-performs-high-altitude-reusable-rocket-test-with-uncertain-outcome/" >🔗</a> **[SpaceNews]** China performs high altitude reusable rocket test with uncertain outcome
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-january-19-25-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy January 19-25, 2025
 - <a href="https://spacenews.com/faa-investigating-starship-debris-reports/" >🔗</a> **[SpaceNews]** FAA investigating Starship debris reports
 - <a href="https://spacenews.com/trump-taps-former-space-force-commander-for-senior-air-force-post/" >🔗</a> **[SpaceNews]** Trump taps former Space Force commander for senior Air Force post
-- <a href="https://spacenews.com/faa-requires-mishap-investigation-for-failed-new-glenn-landing/" >🔗</a> **[SpaceNews]** FAA requires mishap investigation for failed New Glenn landing
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250120T140131">2025-01-20 14:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250120T143310">2025-01-20 14:33:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
