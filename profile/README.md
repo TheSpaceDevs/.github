@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/01/Before_and_after_space" >🔗</a> **[ESA]** Before and after space
 - <a href="https://spacenews.com/china-performs-high-altitude-reusable-rocket-test-with-uncertain-outcome/" >🔗</a> **[SpaceNews]** China performs high altitude reusable rocket test with uncertain outcome
 - <a href="https://europeanspaceflight.com/nammo-uk-engine-aboard-us-lunar-lander-ignites-for-the-first-time/" >🔗</a> **[European Spaceflight]** Nammo UK Engine Aboard US Lunar Lander Ignites for the First Time
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Satnav_summer_school_open_for_registrations" >🔗</a> **[ESA]** Satnav summer school open for registrations
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/trump-taps-former-space-force-commander-for-senior-air-force-post/" >🔗</a> **[SpaceNews]** Trump taps former Space Force commander for senior Air Force post
 - <a href="https://spacenews.com/faa-requires-mishap-investigation-for-failed-new-glenn-landing/" >🔗</a> **[SpaceNews]** FAA requires mishap investigation for failed New Glenn landing
 - <a href="https://www.spacescout.info/2025/01/starship-faces-complications-after-flight-7-anomaly/" >🔗</a> **[Space Scout]** Starship Faces Complications after Flight 7 Anomaly
-- <a href="https://europeanspaceflight.com/spaceforest-successfully-test-fires-upgraded-hybrid-rocket-engine/" >🔗</a> **[European Spaceflight]** SpaceForest Successfully Test-Fires Upgraded Hybrid Rocket Engine
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250120T113108">2025-01-20 11:31:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250120T120140">2025-01-20 12:01:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
