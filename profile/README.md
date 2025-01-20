@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/nammo-uk-engine-aboard-us-lunar-lander-ignites-for-the-first-time/" >🔗</a> **[European Spaceflight]** Nammo UK Engine Aboard US Lunar Lander Ignites for the First Time
 - <a href="https://www.spacescout.info/2025/01/blue-ghost-and-hakuto-r-take-flight/" >🔗</a> **[Space Scout]** Blue Ghost and HAKUTO-R Take Flight
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-january-19-25-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy January 19-25, 2025
 - <a href="https://spacenews.com/faa-investigating-starship-debris-reports/" >🔗</a> **[SpaceNews]** FAA investigating Starship debris reports
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://europeanspaceflight.com/spaceforest-successfully-test-fires-upgraded-hybrid-rocket-engine/" >🔗</a> **[European Spaceflight]** SpaceForest Successfully Test-Fires Upgraded Hybrid Rocket Engine
 - <a href="https://spacenews.com/thaicom-pushes-back-against-takeover-bid/" >🔗</a> **[SpaceNews]** Thaicom pushes back against takeover bid
 - <a href="https://spacepolicyonline.com/news/faa-requiring-mishap-investigations-for-both-blue-origin-and-spacex/" >🔗</a> **[SpacePolicyOnline.com]** FAA Requiring Mishap Investigations for Both Blue Origin and SpaceX
-- <a href="https://www.nasa.gov/humans-in-space/hydrogen-sulfide-h2s-independent-assessment/" >🔗</a> **[NASA]** Hydrogen Sulfide (H2S) Independent Assessment
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250120T080131">2025-01-20 08:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250120T083445">2025-01-20 08:34:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
