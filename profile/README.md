@@ -54,8 +54,8 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250125T095300">2025-01-25 09:53:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 8A | Demo Flight&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20250125T095300Z%2F20250125T104200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 8A | Demo Flight** from Wenchang Space Launch Site, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250128T224500">2025-01-28 22:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=GSLV Mk II | IRNSS-1K (NVS-02)&location=Satish Dhawan Space Centre, India&dates=20250128T224500Z%2F20250129T024500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **GSLV Mk II | IRNSS-1K (NVS-02)** from Satish Dhawan Space Centre, India.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250129T040000">2025-01-29 04:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SpainSat NG I&location=Cape Canaveral SFS, FL, USA&dates=20250129T040000Z%2F20250129T060000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | SpainSat NG I** from Cape Canaveral SFS, FL, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250131T000000">2025-01-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | IoT 4 You and Me (Kinéis 16-20)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20250131T000000Z%2F20250131T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | IoT 4 You and Me (Kinéis 16-20)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250131T000000">2025-01-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-3&location=Cape Canaveral SFS, FL, USA&dates=20250131T000000Z%2F20250131T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-3** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250201T083000">2025-02-01 08:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=H3-22 | Michibiki 6 (QZS-6)&location=Tanegashima Space Center, Japan&dates=20250201T083000Z%2F20250201T103000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **H3-22 | Michibiki 6 (QZS-6)** from Tanegashima Space Center, Japan.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -91,7 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/alex-greenberg-loft-orbital-commercial-space-transformers/" >🔗</a> **[SpaceNews]** Alex Greenberg, Loft Orbital – Commercial Space Transformers
 - <a href="https://spacenews.com/china-explores-using-orbiting-lasers-to-power-to-spacecraft-on-the-moon/" >🔗</a> **[SpaceNews]** China explores using orbiting lasers to power to spacecraft on the moon
+- <a href="https://www.esa.int/Enabling_Support/Preparing_for_the_Future/Discovery_and_Preparation/Towards_low-cost_missions_to_Mars" >🔗</a> **[ESA]** Towards low-cost missions to Mars
 - <a href="https://spacenews.com/europe-to-develop-geostationary-quantum-encryption-payload/" >🔗</a> **[SpaceNews]** Europe to develop geostationary quantum encryption payload
 - <a href="https://spaceflightnow.com/2025/01/21/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-the-kennedy-space-center-3/" >🔗</a> **[Spaceflight Now]** SpaceX launches 21 Starlink satellites on Falcon 9 rocket from the Kennedy Space Center
 - <a href="https://spacepolicyonline.com/news/ksc-director-petro-to-be-acting-nasa-administrator/" >🔗</a> **[SpacePolicyOnline.com]** KSC Director Petro to be Acting NASA Administrator
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/trump-fully-endorses-astronauts-on-mars-in-inaugural-address/" >🔗</a> **[SpacePolicyOnline.com]** Trump Fully Endorses Astronauts on Mars in Inaugural Address
 - <a href="https://spacenews.com/trumps-second-term-the-space-priorities-and-players/" >🔗</a> **[SpaceNews]** Trump’s second term: the space priorities and players
 - <a href="https://spacenews.com/why-organizing-the-white-house-for-sustained-space-leadership-is-necessary/" >🔗</a> **[SpaceNews]** Why organizing the White House for sustained space leadership is necessary
-- <a href="https://spacenews.com/executive-order-calls-for-cybersecurity-review-of-civil-space-systems/" >🔗</a> **[SpaceNews]** Executive order calls for cybersecurity review of civil space systems
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/01/Before_and_after_space" >🔗</a> **[ESA]** Before and after space
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250121T120153">2025-01-21 12:01:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250121T124229">2025-01-21 12:42:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
