@@ -93,6 +93,7 @@ Initial constellation will consist of 1296 satellites by 2027 with long term pla
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-marshall-invites-media-to-local-day-of-remembrance-event/" >🔗</a> **[NASA]** NASA Marshall Invites Media to Local Day of Remembrance Event
 - <a href="https://www.nasa.gov/history/60-years-ago-uncrewed-gemini-2-paves-the-way-for-the-first-crewed-mission/" >🔗</a> **[NASA]** 60 Years Ago: Uncrewed Gemini 2 Paves the Way for the First Crewed Mission
 - <a href="https://arstechnica.com/space/2025/01/company-aims-to-build-larger-satellites-for-new-era-of-launch-abundance/" >🔗</a> **[Arstechnica]** Company aims to build larger satellites for new era of launch abundance
 - <a href="https://www.nasa.gov/image-article/astronauts-set-to-swab-the-exterior-of-station-for-microbial-life/" >🔗</a> **[NASA]** Astronauts Set to Swab the Exterior of Station for Microbial Life
@@ -102,7 +103,6 @@ Initial constellation will consist of 1296 satellites by 2027 with long term pla
 - <a href="https://www.nasa.gov/news-release/nasa-welcomes-finland-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Finland as Newest Artemis Accords Signatory
 - <a href="https://www.nasa.gov/image-article/suni-williams-conducts-spacewalk/" >🔗</a> **[NASA]** Suni Williams Conducts Spacewalk
 - <a href="https://www.nasa.gov/missions/station-science-top-news-jan-17-2025/" >🔗</a> **[NASA]** Station Science Top News: Jan. 17, 2025
-- <a href="https://spacenews.com/transforming-nasa-enabling-americas-commercial-space-leadership/" >🔗</a> **[SpaceNews]** Transforming NASA: enabling America’s commercial space leadership
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ Initial constellation will consist of 1296 satellites by 2027 with long term pla
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250121T200125">2025-01-21 20:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250121T203154">2025-01-21 20:31:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
