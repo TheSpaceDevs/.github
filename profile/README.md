@@ -93,6 +93,9 @@ Initial constellation will consist of 1296 satellites by 2027 with long term pla
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/01/company-aims-to-build-larger-satellites-for-new-era-of-launch-abundance/" >🔗</a> **[Arstechnica]** Company aims to build larger satellites for new era of launch abundance
+- <a href="https://www.nasa.gov/image-article/astronauts-set-to-swab-the-exterior-of-station-for-microbial-life/" >🔗</a> **[NASA]** Astronauts Set to Swab the Exterior of Station for Microbial Life
+- <a href="https://www.spacescout.info/2025/01/on-chasing-shadows-a-new-exploration-of-uranus/" >🔗</a> **[Space Scout]** On Chasing Shadows: A New Exploration of Uranus
 - <a href="https://www.nasa.gov/missions/nisar/how-new-nasa-india-earth-satellite-nisar-will-see-earth/" >🔗</a> **[NASA]** How New NASA, India Earth Satellite NISAR Will See Earth
 - <a href="https://spacenews.com/redwire-expands-into-defense-with-925-million-purchase-of-edge-autonomy/" >🔗</a> **[SpaceNews]** Redwire expands into defense with $925 million purchase of Edge Autonomy
 - <a href="https://www.nasa.gov/news-release/nasa-welcomes-finland-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Finland as Newest Artemis Accords Signatory
@@ -100,9 +103,6 @@ Initial constellation will consist of 1296 satellites by 2027 with long term pla
 - <a href="https://www.nasa.gov/missions/station-science-top-news-jan-17-2025/" >🔗</a> **[NASA]** Station Science Top News: Jan. 17, 2025
 - <a href="https://spacenews.com/transforming-nasa-enabling-americas-commercial-space-leadership/" >🔗</a> **[SpaceNews]** Transforming NASA: enabling America’s commercial space leadership
 - <a href="https://europeanspaceflight.com/esa-selects-consortia-to-define-payload-platforms-for-mars-tug/" >🔗</a> **[European Spaceflight]** ESA Selects Consortia to Define Payload Platforms for Mars Tug
-- <a href="https://www.nasa.gov/technology/nasa-sets-sights-on-mars-terrain-with-revolutionary-tire-tech/" >🔗</a> **[NASA]** NASA Sets Sights on Mars Terrain with Revolutionary Tire Tech
-- <a href="https://spacenews.com/alex-greenberg-loft-orbital-commercial-space-transformers/" >🔗</a> **[SpaceNews]** Alex Greenberg, Loft Orbital – Commercial Space Transformers
-- <a href="https://spacenews.com/china-explores-using-orbiting-lasers-to-power-to-spacecraft-on-the-moon/" >🔗</a> **[SpaceNews]** China explores using orbiting lasers to power to spacecraft on the moon
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ Initial constellation will consist of 1296 satellites by 2027 with long term pla
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250121T180133">2025-01-21 18:01:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250121T183556">2025-01-21 18:35:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
