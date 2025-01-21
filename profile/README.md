@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/01/21/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-the-kennedy-space-center-3/" >🔗</a> **[Spaceflight Now]** SpaceX launches 21 Starlink satellites on Falcon 9 rocket from the Kennedy Space Center
 - <a href="https://spacepolicyonline.com/news/ksc-director-petro-to-be-acting-nasa-administrator/" >🔗</a> **[SpacePolicyOnline.com]** KSC Director Petro to be Acting NASA Administrator
 - <a href="https://spacenews.com/second-trump-administration-begins-with-confusion-on-acting-nasa-leadership/" >🔗</a> **[SpaceNews]** Second Trump administration begins with confusion on acting NASA leadership
 - <a href="https://spacepolicyonline.com/news/trump-fully-endorses-astronauts-on-mars-in-inaugural-address/" >🔗</a> **[SpacePolicyOnline.com]** Trump Fully Endorses Astronauts on Mars in Inaugural Address
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/01/Before_and_after_space" >🔗</a> **[ESA]** Before and after space
 - <a href="https://spacenews.com/china-performs-high-altitude-reusable-rocket-test-with-uncertain-outcome/" >🔗</a> **[SpaceNews]** China performs high altitude reusable rocket test with uncertain outcome
 - <a href="https://europeanspaceflight.com/nammo-uk-engine-aboard-us-lunar-lander-ignites-for-the-first-time/" >🔗</a> **[European Spaceflight]** Nammo UK Engine Aboard US Lunar Lander Ignites for the First Time
-- <a href="https://www.esa.int/Applications/Satellite_navigation/Satnav_summer_school_open_for_registrations" >🔗</a> **[ESA]** Satnav summer school open for registrations
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250121T060315">2025-01-21 06:03:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250121T063546">2025-01-21 06:35:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
