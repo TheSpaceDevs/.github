@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-explores-using-orbiting-lasers-to-power-to-spacecraft-on-the-moon/" >🔗</a> **[SpaceNews]** China explores using orbiting lasers to power to spacecraft on the moon
 - <a href="https://spacenews.com/europe-to-develop-geostationary-quantum-encryption-payload/" >🔗</a> **[SpaceNews]** Europe to develop geostationary quantum encryption payload
 - <a href="https://spaceflightnow.com/2025/01/21/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-the-kennedy-space-center-3/" >🔗</a> **[Spaceflight Now]** SpaceX launches 21 Starlink satellites on Falcon 9 rocket from the Kennedy Space Center
 - <a href="https://spacepolicyonline.com/news/ksc-director-petro-to-be-acting-nasa-administrator/" >🔗</a> **[SpacePolicyOnline.com]** KSC Director Petro to be Acting NASA Administrator
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/why-organizing-the-white-house-for-sustained-space-leadership-is-necessary/" >🔗</a> **[SpaceNews]** Why organizing the White House for sustained space leadership is necessary
 - <a href="https://spacenews.com/executive-order-calls-for-cybersecurity-review-of-civil-space-systems/" >🔗</a> **[SpaceNews]** Executive order calls for cybersecurity review of civil space systems
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/01/Before_and_after_space" >🔗</a> **[ESA]** Before and after space
-- <a href="https://spacenews.com/china-performs-high-altitude-reusable-rocket-test-with-uncertain-outcome/" >🔗</a> **[SpaceNews]** China performs high altitude reusable rocket test with uncertain outcome
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250121T110124">2025-01-21 11:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250121T113109">2025-01-21 11:31:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
