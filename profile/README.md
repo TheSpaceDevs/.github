@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/transforming-nasa-enabling-americas-commercial-space-leadership/" >🔗</a> **[SpaceNews]** Transforming NASA: enabling America’s commercial space leadership
+- <a href="https://europeanspaceflight.com/esa-selects-consortia-to-define-payload-platforms-for-mars-tug/" >🔗</a> **[European Spaceflight]** ESA Selects Consortia to Define Payload Platforms for Mars Tug
 - <a href="https://www.nasa.gov/technology/nasa-sets-sights-on-mars-terrain-with-revolutionary-tire-tech/" >🔗</a> **[NASA]** NASA Sets Sights on Mars Terrain with Revolutionary Tire Tech
 - <a href="https://spacenews.com/alex-greenberg-loft-orbital-commercial-space-transformers/" >🔗</a> **[SpaceNews]** Alex Greenberg, Loft Orbital – Commercial Space Transformers
 - <a href="https://spacenews.com/china-explores-using-orbiting-lasers-to-power-to-spacecraft-on-the-moon/" >🔗</a> **[SpaceNews]** China explores using orbiting lasers to power to spacecraft on the moon
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/01/21/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-the-kennedy-space-center-3/" >🔗</a> **[Spaceflight Now]** SpaceX launches 21 Starlink satellites on Falcon 9 rocket from the Kennedy Space Center
 - <a href="https://spacepolicyonline.com/news/ksc-director-petro-to-be-acting-nasa-administrator/" >🔗</a> **[SpacePolicyOnline.com]** KSC Director Petro to be Acting NASA Administrator
 - <a href="https://spacenews.com/second-trump-administration-begins-with-confusion-on-acting-nasa-leadership/" >🔗</a> **[SpaceNews]** Second Trump administration begins with confusion on acting NASA leadership
-- <a href="https://spacepolicyonline.com/news/trump-fully-endorses-astronauts-on-mars-in-inaugural-address/" >🔗</a> **[SpacePolicyOnline.com]** Trump Fully Endorses Astronauts on Mars in Inaugural Address
-- <a href="https://spacenews.com/trumps-second-term-the-space-priorities-and-players/" >🔗</a> **[SpaceNews]** Trump’s second term: the space priorities and players
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250121T140127">2025-01-21 14:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250121T143330">2025-01-21 14:33:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
