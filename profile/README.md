@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/technology/nasa-sets-sights-on-mars-terrain-with-revolutionary-tire-tech/" >🔗</a> **[NASA]** NASA Sets Sights on Mars Terrain with Revolutionary Tire Tech
 - <a href="https://spacenews.com/alex-greenberg-loft-orbital-commercial-space-transformers/" >🔗</a> **[SpaceNews]** Alex Greenberg, Loft Orbital – Commercial Space Transformers
 - <a href="https://spacenews.com/china-explores-using-orbiting-lasers-to-power-to-spacecraft-on-the-moon/" >🔗</a> **[SpaceNews]** China explores using orbiting lasers to power to spacecraft on the moon
 - <a href="https://www.esa.int/Enabling_Support/Preparing_for_the_Future/Discovery_and_Preparation/Towards_low-cost_missions_to_Mars" >🔗</a> **[ESA]** Towards low-cost missions to Mars
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/second-trump-administration-begins-with-confusion-on-acting-nasa-leadership/" >🔗</a> **[SpaceNews]** Second Trump administration begins with confusion on acting NASA leadership
 - <a href="https://spacepolicyonline.com/news/trump-fully-endorses-astronauts-on-mars-in-inaugural-address/" >🔗</a> **[SpacePolicyOnline.com]** Trump Fully Endorses Astronauts on Mars in Inaugural Address
 - <a href="https://spacenews.com/trumps-second-term-the-space-priorities-and-players/" >🔗</a> **[SpaceNews]** Trump’s second term: the space priorities and players
-- <a href="https://spacenews.com/why-organizing-the-white-house-for-sustained-space-leadership-is-necessary/" >🔗</a> **[SpaceNews]** Why organizing the White House for sustained space leadership is necessary
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250121T130502">2025-01-21 13:05:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250121T133303">2025-01-21 13:33:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
