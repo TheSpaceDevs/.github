@@ -94,6 +94,7 @@ Initial constellation will consist of 1296 satellites by 2027 with long term pla
 
 ### Latest News ⌛
 - <a href="https://spacenews.com/u-s-and-norway-sign-technology-safeguards-agreement-for-launches-from-andoya/" >🔗</a> **[SpaceNews]** U.S. and Norway sign technology safeguards agreement for launches from Andøya
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Swarm/Swarm_detects_tidal_signatures_of_our_oceans" >🔗</a> **[ESA]** Swarm detects tidal signatures of our oceans
 - <a href="https://www.esa.int/Enabling_Support/Operations/Ground_Systems_Engineering/Downlinking_satellite_data_from_space_to_the_cloud" >🔗</a> **[ESA]** Downlinking satellite data from space to the cloud
 - <a href="https://europeanspaceflight.com/avio-ships-space-rider-service-module-structure-for-testing/" >🔗</a> **[European Spaceflight]** Avio Ships Space Rider Service Module Structure for Testing
 - <a href="https://spacenews.com/finland-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Finland signs Artemis Accords
@@ -102,7 +103,6 @@ Initial constellation will consist of 1296 satellites by 2027 with long term pla
 - <a href="https://www.nasa.gov/history/60-years-ago-uncrewed-gemini-2-paves-the-way-for-the-first-crewed-mission/" >🔗</a> **[NASA]** 60 Years Ago: Uncrewed Gemini 2 Paves the Way for the First Crewed Mission
 - <a href="https://arstechnica.com/space/2025/01/company-aims-to-build-larger-satellites-for-new-era-of-launch-abundance/" >🔗</a> **[Arstechnica]** Company aims to build larger satellites for new era of launch abundance
 - <a href="https://www.nasa.gov/image-article/astronauts-set-to-swab-the-exterior-of-station-for-microbial-life/" >🔗</a> **[NASA]** Astronauts Set to Swab the Exterior of Station for Microbial Life
-- <a href="https://www.spacescout.info/2025/01/on-chasing-shadows-a-new-exploration-of-uranus/" >🔗</a> **[Space Scout]** On Chasing Shadows: A New Exploration of Uranus
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ Initial constellation will consist of 1296 satellites by 2027 with long term pla
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250122T120140">2025-01-22 12:01:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250122T124238">2025-01-22 12:42:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
