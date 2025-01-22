@@ -93,6 +93,7 @@ Initial constellation will consist of 1296 satellites by 2027 with long term pla
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/demystifying-jared-isaacman-trumps-nasa-nominee/" >🔗</a> **[SpaceNews]** Demystifying Jared Isaacman, Trump’s NASA nominee
 - <a href="https://www.nasa.gov/missions/artemis/advanced-modeling-enhances-gateway-lunar-dust-defense/" >🔗</a> **[NASA]** Advanced Modeling Enhances Gateway’s Lunar Dust Defense
 - <a href="https://spacenews.com/what-president-bidens-second-cybersecurity-executive-order-means-for-the-space-economy/" >🔗</a> **[SpaceNews]** What President Biden’s second cybersecurity executive order means for the space economy
 - <a href="https://www.nasa.gov/general/nasa-faces-of-technology-meet-lauren-best-ameen/" >🔗</a> **[NASA]** NASA Faces of Technology: Meet Lauren Best Ameen
@@ -102,7 +103,6 @@ Initial constellation will consist of 1296 satellites by 2027 with long term pla
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Swarm/Swarm_detects_tidal_signatures_of_our_oceans" >🔗</a> **[ESA]** Swarm detects tidal signatures of our oceans
 - <a href="https://www.esa.int/Enabling_Support/Operations/Ground_Systems_Engineering/Downlinking_satellite_data_from_space_to_the_cloud" >🔗</a> **[ESA]** Downlinking satellite data from space to the cloud
 - <a href="https://europeanspaceflight.com/avio-ships-space-rider-service-module-structure-for-testing/" >🔗</a> **[European Spaceflight]** Avio Ships Space Rider Service Module Structure for Testing
-- <a href="https://spacenews.com/finland-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Finland signs Artemis Accords
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ Initial constellation will consist of 1296 satellites by 2027 with long term pla
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250122T150125">2025-01-22 15:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250122T153237">2025-01-22 15:32:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
