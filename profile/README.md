@@ -93,6 +93,7 @@ Initial constellation will consist of 1296 satellites by 2027 with long term pla
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/artists-concept-of-gemini-spacecraft/" >🔗</a> **[NASA]** Artist’s Concept of Gemini Spacecraft
 - <a href="https://www.nasa.gov/news-release/nasa-awards-logistics-metrology-support-services-contract/" >🔗</a> **[NASA]** NASA Awards Logistics, Metrology Support Services Contract
 - <a href="https://spacenews.com/u-s-space-force-forecasts-2-3-billion-in-commercial-satellite-services-contracts/" >🔗</a> **[SpaceNews]** U.S. Space Force forecasts $2.3 billion in commercial satellite services contracts
 - <a href="https://www.nasa.gov/image-article/i-am-artemis-jon-carabello/" >🔗</a> **[NASA]** I am Artemis: Jon Carabello
@@ -102,7 +103,6 @@ Initial constellation will consist of 1296 satellites by 2027 with long term pla
 - <a href="https://www.nasa.gov/missions/artemis/advanced-modeling-enhances-gateway-lunar-dust-defense/" >🔗</a> **[NASA]** Advanced Modeling Enhances Gateway’s Lunar Dust Defense
 - <a href="https://spacenews.com/what-president-bidens-second-cybersecurity-executive-order-means-for-the-space-economy/" >🔗</a> **[SpaceNews]** What President Biden’s second cybersecurity executive order means for the space economy
 - <a href="https://www.nasa.gov/general/nasa-faces-of-technology-meet-lauren-best-ameen/" >🔗</a> **[NASA]** NASA Faces of Technology: Meet Lauren Best Ameen
-- <a href="https://www.nasa.gov/general/nasa-glenn-trains-instructors-for-after-school-stem-program/" >🔗</a> **[NASA]** NASA Glenn Trains Instructors for After-School STEM Program
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ Initial constellation will consist of 1296 satellites by 2027 with long term pla
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250122T220129">2025-01-22 22:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250122T223312">2025-01-22 22:33:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
