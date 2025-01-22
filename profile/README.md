@@ -93,6 +93,7 @@ Initial constellation will consist of 1296 satellites by 2027 with long term pla
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-awards-logistics-metrology-support-services-contract/" >🔗</a> **[NASA]** NASA Awards Logistics, Metrology Support Services Contract
 - <a href="https://spacenews.com/u-s-space-force-forecasts-2-3-billion-in-commercial-satellite-services-contracts/" >🔗</a> **[SpaceNews]** U.S. Space Force forecasts $2.3 billion in commercial satellite services contracts
 - <a href="https://www.nasa.gov/image-article/i-am-artemis-jon-carabello/" >🔗</a> **[NASA]** I am Artemis: Jon Carabello
 - <a href="https://www.nasa.gov/science-research/planetary-science/study-finds-earths-small-asteroid-visitor-likely-chunk-of-moon-rock/" >🔗</a> **[NASA]** Study Finds Earth’s Small Asteroid Visitor Likely Chunk of Moon Rock
@@ -102,7 +103,6 @@ Initial constellation will consist of 1296 satellites by 2027 with long term pla
 - <a href="https://spacenews.com/what-president-bidens-second-cybersecurity-executive-order-means-for-the-space-economy/" >🔗</a> **[SpaceNews]** What President Biden’s second cybersecurity executive order means for the space economy
 - <a href="https://www.nasa.gov/general/nasa-faces-of-technology-meet-lauren-best-ameen/" >🔗</a> **[NASA]** NASA Faces of Technology: Meet Lauren Best Ameen
 - <a href="https://www.nasa.gov/general/nasa-glenn-trains-instructors-for-after-school-stem-program/" >🔗</a> **[NASA]** NASA Glenn Trains Instructors for After-School STEM Program
-- <a href="https://www.nasa.gov/general/nasa-glenn-helps-bring-joy-to-children-in-need/" >🔗</a> **[NASA]** NASA Glenn Helps Bring Joy to Children in Need
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ Initial constellation will consist of 1296 satellites by 2027 with long term pla
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250122T210118">2025-01-22 21:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250122T213107">2025-01-22 21:31:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
