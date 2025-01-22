@@ -93,6 +93,8 @@ Initial constellation will consist of 1296 satellites by 2027 with long term pla
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/u-s-space-force-forecasts-2-3-billion-in-commercial-satellite-services-contracts/" >🔗</a> **[SpaceNews]** U.S. Space Force forecasts $2.3 billion in commercial satellite services contracts
+- <a href="https://www.nasa.gov/image-article/i-am-artemis-jon-carabello/" >🔗</a> **[NASA]** I am Artemis: Jon Carabello
 - <a href="https://www.nasa.gov/science-research/planetary-science/study-finds-earths-small-asteroid-visitor-likely-chunk-of-moon-rock/" >🔗</a> **[NASA]** Study Finds Earth’s Small Asteroid Visitor Likely Chunk of Moon Rock
 - <a href="https://www.nasa.gov/technology/nasa-3d-printed-antenna-takes-additive-manufacturing-to-new-heights/" >🔗</a> **[NASA]** NASA 3D-Printed Antenna Takes Additive Manufacturing to New Heights
 - <a href="https://spacenews.com/demystifying-jared-isaacman-trumps-nasa-nominee/" >🔗</a> **[SpaceNews]** Demystifying Jared Isaacman, Trump’s NASA nominee
@@ -101,8 +103,6 @@ Initial constellation will consist of 1296 satellites by 2027 with long term pla
 - <a href="https://www.nasa.gov/general/nasa-faces-of-technology-meet-lauren-best-ameen/" >🔗</a> **[NASA]** NASA Faces of Technology: Meet Lauren Best Ameen
 - <a href="https://www.nasa.gov/general/nasa-glenn-trains-instructors-for-after-school-stem-program/" >🔗</a> **[NASA]** NASA Glenn Trains Instructors for After-School STEM Program
 - <a href="https://www.nasa.gov/general/nasa-glenn-helps-bring-joy-to-children-in-need/" >🔗</a> **[NASA]** NASA Glenn Helps Bring Joy to Children in Need
-- <a href="https://spacenews.com/u-s-and-norway-sign-technology-safeguards-agreement-for-launches-from-andoya/" >🔗</a> **[SpaceNews]** U.S. and Norway sign technology safeguards agreement for launches from Andøya
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Swarm/Swarm_detects_tidal_signatures_of_our_oceans" >🔗</a> **[ESA]** Swarm detects tidal signatures of our oceans
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ Initial constellation will consist of 1296 satellites by 2027 with long term pla
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250122T200130">2025-01-22 20:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250122T203132">2025-01-22 20:31:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
