@@ -93,6 +93,7 @@ Initial constellation will consist of 1296 satellites by 2027 with long term pla
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Enabling_Support/Operations/Ground_Systems_Engineering/Downlinking_satellite_data_from_space_to_the_cloud" >🔗</a> **[ESA]** Downlinking satellite data from space to the cloud
 - <a href="https://europeanspaceflight.com/avio-ships-space-rider-service-module-structure-for-testing/" >🔗</a> **[European Spaceflight]** Avio Ships Space Rider Service Module Structure for Testing
 - <a href="https://spacenews.com/finland-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Finland signs Artemis Accords
 - <a href="https://www.nasaspaceflight.com/2025/01/xmm-newton-white-dwarf-black-hole/" >🔗</a> **[NASASpaceflight]** XMM-Newton observes black hole that exhibits strange oscillations
@@ -102,7 +103,6 @@ Initial constellation will consist of 1296 satellites by 2027 with long term pla
 - <a href="https://www.nasa.gov/image-article/astronauts-set-to-swab-the-exterior-of-station-for-microbial-life/" >🔗</a> **[NASA]** Astronauts Set to Swab the Exterior of Station for Microbial Life
 - <a href="https://www.spacescout.info/2025/01/on-chasing-shadows-a-new-exploration-of-uranus/" >🔗</a> **[Space Scout]** On Chasing Shadows: A New Exploration of Uranus
 - <a href="https://www.nasa.gov/missions/nisar/how-new-nasa-india-earth-satellite-nisar-will-see-earth/" >🔗</a> **[NASA]** How New NASA, India Earth Satellite NISAR Will See Earth
-- <a href="https://spacenews.com/redwire-expands-into-defense-with-925-million-purchase-of-edge-autonomy/" >🔗</a> **[SpaceNews]** Redwire expands into defense with $925 million purchase of Edge Autonomy
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ Initial constellation will consist of 1296 satellites by 2027 with long term pla
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250122T110119">2025-01-22 11:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250122T113106">2025-01-22 11:31:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
