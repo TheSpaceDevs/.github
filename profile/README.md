@@ -93,6 +93,8 @@ Initial constellation will consist of 1296 satellites by 2027 with long term pla
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/rocket-lab-to-launch-ororatech-satellites/" >🔗</a> **[SpaceNews]** Rocket Lab to launch OroraTech satellites
+- <a href="https://arstechnica.com/space/2025/01/nasa-moves-swiftly-to-end-dei-programs-ask-employees-to-report-violations/" >🔗</a> **[Arstechnica]** NASA moves swiftly to end DEI programs, ask employees to “report” violations
 - <a href="https://www.nasa.gov/image-article/artists-concept-of-gemini-spacecraft/" >🔗</a> **[NASA]** Artist’s Concept of Gemini Spacecraft
 - <a href="https://www.nasa.gov/news-release/nasa-awards-logistics-metrology-support-services-contract/" >🔗</a> **[NASA]** NASA Awards Logistics, Metrology Support Services Contract
 - <a href="https://spacenews.com/u-s-space-force-forecasts-2-3-billion-in-commercial-satellite-services-contracts/" >🔗</a> **[SpaceNews]** U.S. Space Force forecasts $2.3 billion in commercial satellite services contracts
@@ -101,8 +103,6 @@ Initial constellation will consist of 1296 satellites by 2027 with long term pla
 - <a href="https://www.nasa.gov/technology/nasa-3d-printed-antenna-takes-additive-manufacturing-to-new-heights/" >🔗</a> **[NASA]** NASA 3D-Printed Antenna Takes Additive Manufacturing to New Heights
 - <a href="https://spacenews.com/demystifying-jared-isaacman-trumps-nasa-nominee/" >🔗</a> **[SpaceNews]** Demystifying Jared Isaacman, Trump’s NASA nominee
 - <a href="https://www.nasa.gov/missions/artemis/advanced-modeling-enhances-gateway-lunar-dust-defense/" >🔗</a> **[NASA]** Advanced Modeling Enhances Gateway’s Lunar Dust Defense
-- <a href="https://spacenews.com/what-president-bidens-second-cybersecurity-executive-order-means-for-the-space-economy/" >🔗</a> **[SpaceNews]** What President Biden’s second cybersecurity executive order means for the space economy
-- <a href="https://www.nasa.gov/general/nasa-faces-of-technology-meet-lauren-best-ameen/" >🔗</a> **[NASA]** NASA Faces of Technology: Meet Lauren Best Ameen
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ Initial constellation will consist of 1296 satellites by 2027 with long term pla
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250122T230131">2025-01-22 23:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250122T233116">2025-01-22 23:31:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
