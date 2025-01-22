@@ -93,6 +93,7 @@ Initial constellation will consist of 1296 satellites by 2027 with long term pla
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/avio-ships-space-rider-service-module-structure-for-testing/" >🔗</a> **[European Spaceflight]** Avio Ships Space Rider Service Module Structure for Testing
 - <a href="https://spacenews.com/finland-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Finland signs Artemis Accords
 - <a href="https://www.nasaspaceflight.com/2025/01/xmm-newton-white-dwarf-black-hole/" >🔗</a> **[NASASpaceflight]** XMM-Newton observes black hole that exhibits strange oscillations
 - <a href="https://www.nasa.gov/news-release/nasa-marshall-invites-media-to-local-day-of-remembrance-event/" >🔗</a> **[NASA]** NASA Marshall Invites Media to Local Day of Remembrance Event
@@ -102,7 +103,6 @@ Initial constellation will consist of 1296 satellites by 2027 with long term pla
 - <a href="https://www.spacescout.info/2025/01/on-chasing-shadows-a-new-exploration-of-uranus/" >🔗</a> **[Space Scout]** On Chasing Shadows: A New Exploration of Uranus
 - <a href="https://www.nasa.gov/missions/nisar/how-new-nasa-india-earth-satellite-nisar-will-see-earth/" >🔗</a> **[NASA]** How New NASA, India Earth Satellite NISAR Will See Earth
 - <a href="https://spacenews.com/redwire-expands-into-defense-with-925-million-purchase-of-edge-autonomy/" >🔗</a> **[SpaceNews]** Redwire expands into defense with $925 million purchase of Edge Autonomy
-- <a href="https://www.nasa.gov/news-release/nasa-welcomes-finland-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Finland as Newest Artemis Accords Signatory
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ Initial constellation will consist of 1296 satellites by 2027 with long term pla
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250122T080147">2025-01-22 08:01:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250122T083448">2025-01-22 08:34:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
