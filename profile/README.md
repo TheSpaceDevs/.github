@@ -93,6 +93,8 @@ Initial constellation will consist of 1296 satellites by 2027 with long term pla
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/artemis/advanced-modeling-enhances-gateway-lunar-dust-defense/" >🔗</a> **[NASA]** Advanced Modeling Enhances Gateway’s Lunar Dust Defense
+- <a href="https://spacenews.com/what-president-bidens-second-cybersecurity-executive-order-means-for-the-space-economy/" >🔗</a> **[SpaceNews]** What President Biden’s second cybersecurity executive order means for the space economy
 - <a href="https://www.nasa.gov/general/nasa-faces-of-technology-meet-lauren-best-ameen/" >🔗</a> **[NASA]** NASA Faces of Technology: Meet Lauren Best Ameen
 - <a href="https://www.nasa.gov/general/nasa-glenn-trains-instructors-for-after-school-stem-program/" >🔗</a> **[NASA]** NASA Glenn Trains Instructors for After-School STEM Program
 - <a href="https://www.nasa.gov/general/nasa-glenn-helps-bring-joy-to-children-in-need/" >🔗</a> **[NASA]** NASA Glenn Helps Bring Joy to Children in Need
@@ -101,8 +103,6 @@ Initial constellation will consist of 1296 satellites by 2027 with long term pla
 - <a href="https://www.esa.int/Enabling_Support/Operations/Ground_Systems_Engineering/Downlinking_satellite_data_from_space_to_the_cloud" >🔗</a> **[ESA]** Downlinking satellite data from space to the cloud
 - <a href="https://europeanspaceflight.com/avio-ships-space-rider-service-module-structure-for-testing/" >🔗</a> **[European Spaceflight]** Avio Ships Space Rider Service Module Structure for Testing
 - <a href="https://spacenews.com/finland-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Finland signs Artemis Accords
-- <a href="https://www.nasaspaceflight.com/2025/01/xmm-newton-white-dwarf-black-hole/" >🔗</a> **[NASASpaceflight]** XMM-Newton observes black hole that exhibits strange oscillations
-- <a href="https://www.nasa.gov/news-release/nasa-marshall-invites-media-to-local-day-of-remembrance-event/" >🔗</a> **[NASA]** NASA Marshall Invites Media to Local Day of Remembrance Event
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ Initial constellation will consist of 1296 satellites by 2027 with long term pla
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250122T140126">2025-01-22 14:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250122T143333">2025-01-22 14:33:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
