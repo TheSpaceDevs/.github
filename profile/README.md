@@ -89,6 +89,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/us-space-traffic-system-upgrade-still-targeting-2025-amid-bid-protest/" >🔗</a> **[SpaceNews]** US space traffic system upgrade still targeting 2025 amid bid protest
+- <a href="https://www.nasaspaceflight.com/2025/01/direct-to-cell-beta/" >🔗</a> **[NASASpaceflight]** SpaceX to begin beta testing Direct-to-Cell Starlink satellites
 - <a href="https://spacenews.com/nasa-awards-artemis-logistics-studies/" >🔗</a> **[SpaceNews]** NASA awards Artemis logistics studies
 - <a href="https://europeanspaceflight.com/inaugural-isar-spectrum-flight-expected-within-next-few-months/" >🔗</a> **[European Spaceflight]** Inaugural Isar Spectrum Flight Expected Within “Next Few Months”
 - <a href="https://spacenews.com/space-venture-firm-predicts-industry-shakeup/" >🔗</a> **[SpaceNews]** Space venture firm predicts industry shakeup
@@ -97,8 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/china-launches-classified-tjs-14-satellite-towards-geostationary-belt/" >🔗</a> **[SpaceNews]** China launches classified TJS-14 satellite towards geostationary belt
 - <a href="https://spacenews.com/interlune-plans-to-gather-scarce-lunar-helium-3-for-quantum-computing-on-earth/" >🔗</a> **[SpaceNews]** Interlune plans to gather scarce lunar Helium-3 for quantum computing on Earth
 - <a href="https://www.nasa.gov/centers-and-facilities/jpl/nasa-jpl-prepping-for-full-year-of-launches-mission-milestones/" >🔗</a> **[NASA]** NASA JPL Prepping for Full Year of Launches, Mission Milestones
-- <a href="https://www.nasa.gov/general/museum-of-modern-art-exhibits-nasa-worm/" >🔗</a> **[NASA]** NASA Worm as Art
-- <a href="https://spacenews.com/we-need-a-national-space-council-to-chart-our-future-in-outer-space/" >🔗</a> **[SpaceNews]** We need a National Space Council to chart our future in outer space
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250123T230123">2025-01-23 23:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250123T233105">2025-01-23 23:31:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
