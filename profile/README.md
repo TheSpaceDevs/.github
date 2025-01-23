@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/sls-in-transition-from-biden-to-trump/" >🔗</a> **[SpaceNews]** SLS in transition: from Biden to Trump
+- <a href="https://spacenews.com/space-minds-with-peter-beck/" >🔗</a> **[SpaceNews]** Space Minds with Peter Beck
 - <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/Estonia_to_host_Europe_s_new_space_cybersecurity_testing_ground" >🔗</a> **[ESA]** Estonia to host Europe's new space cybersecurity testing ground
 - <a href="https://spacenews.com/china-launches-fourth-batch-of-thousand-sails-megaconstellation-satellites/" >🔗</a> **[SpaceNews]** China launches fourth batch of Thousand Sails megaconstellation satellites
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Einstein_Probe_detects_puzzling_cosmic_explosion" >🔗</a> **[ESA]** Einstein Probe detects puzzling cosmic explosion
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://www.nasaspaceflight.com/2025/01/china-roundup-012225/" >🔗</a> **[NASASpaceflight]** China Roundup: Chang Zheng 8A set for debut, Chinese hopper flies 75 km high-altitude test
 - <a href="https://arstechnica.com/space/2025/01/nasa-moves-swiftly-to-end-dei-programs-ask-employees-to-report-violations/" >🔗</a> **[Arstechnica]** NASA moves swiftly to end DEI programs, ask employees to “report” violations
 - <a href="https://www.nasa.gov/image-article/artists-concept-of-gemini-spacecraft/" >🔗</a> **[NASA]** Artist’s Concept of Gemini Spacecraft
-- <a href="https://www.nasa.gov/news-release/nasa-awards-logistics-metrology-support-services-contract/" >🔗</a> **[NASA]** NASA Awards Logistics, Metrology Support Services Contract
-- <a href="https://spacenews.com/u-s-space-force-forecasts-2-3-billion-in-commercial-satellite-services-contracts/" >🔗</a> **[SpaceNews]** U.S. Space Force forecasts $2.3 billion in commercial satellite services contracts
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250123T140122">2025-01-23 14:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250123T143332">2025-01-23 14:33:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
