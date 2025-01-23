@@ -93,6 +93,7 @@ Initial constellation will consist of 1296 satellites by 2027 with long term pla
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-shutters-diversity-offices-to-comply-with-executive-order/" >🔗</a> **[SpaceNews]** NASA shutters diversity offices to comply with executive order
 - <a href="https://spacenews.com/rocket-lab-to-launch-ororatech-satellites/" >🔗</a> **[SpaceNews]** Rocket Lab to launch OroraTech satellites
 - <a href="https://www.nasaspaceflight.com/2025/01/china-roundup-012225/" >🔗</a> **[NASASpaceflight]** China Roundup: Chang Zheng 8A set for debut, Chinese hopper flies 75 km high-altitude test
 - <a href="https://arstechnica.com/space/2025/01/nasa-moves-swiftly-to-end-dei-programs-ask-employees-to-report-violations/" >🔗</a> **[Arstechnica]** NASA moves swiftly to end DEI programs, ask employees to “report” violations
@@ -102,7 +103,6 @@ Initial constellation will consist of 1296 satellites by 2027 with long term pla
 - <a href="https://www.nasa.gov/image-article/i-am-artemis-jon-carabello/" >🔗</a> **[NASA]** I am Artemis: Jon Carabello
 - <a href="https://www.nasa.gov/science-research/planetary-science/study-finds-earths-small-asteroid-visitor-likely-chunk-of-moon-rock/" >🔗</a> **[NASA]** Study Finds Earth’s Small Asteroid Visitor Likely Chunk of Moon Rock
 - <a href="https://www.nasa.gov/technology/nasa-3d-printed-antenna-takes-additive-manufacturing-to-new-heights/" >🔗</a> **[NASA]** NASA 3D-Printed Antenna Takes Additive Manufacturing to New Heights
-- <a href="https://spacenews.com/demystifying-jared-isaacman-trumps-nasa-nominee/" >🔗</a> **[SpaceNews]** Demystifying Jared Isaacman, Trump’s NASA nominee
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ Initial constellation will consist of 1296 satellites by 2027 with long term pla
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250123T004537">2025-01-23 00:45:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250123T012815">2025-01-23 01:28:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
