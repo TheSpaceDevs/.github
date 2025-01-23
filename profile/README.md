@@ -89,6 +89,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/we-need-a-national-space-council-to-chart-our-future-in-outer-space/" >🔗</a> **[SpaceNews]** We need a National Space Council to chart our future in outer space
+- <a href="https://www.nasa.gov/aeronautics/nasa-tests-air-traffic-surveillance-technology-using-its-pilatus-pc-12-aircraft/" >🔗</a> **[NASA]** NASA Tests Air Traffic Surveillance Technology Using Its Pilatus PC-12 Aircraft
 - <a href="https://www.nasa.gov/news-release/nasa-invests-in-artemis-studies-to-support-long-term-lunar-exploration/" >🔗</a> **[NASA]** NASA Invests in Artemis Studies to Support Long-Term Lunar Exploration
 - <a href="https://spacenews.com/spacenews-celebrates-2024-milestones-and-looks-ahead-to-an-ambitious-2025/" >🔗</a> **[SpaceNews]** SpaceNews Celebrates 2024 Milestones and Looks Ahead to an Ambitious 2025
 - <a href="https://spacenews.com/how-the-space-industry-is-preparing-for-trumps-tariffs/" >🔗</a> **[SpaceNews]** How the space industry is preparing for Trump’s tariffs
@@ -97,8 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/Estonia_to_host_Europe_s_new_space_cybersecurity_testing_ground" >🔗</a> **[ESA]** Estonia to host Europe's new space cybersecurity testing ground
 - <a href="https://spacenews.com/china-launches-fourth-batch-of-thousand-sails-megaconstellation-satellites/" >🔗</a> **[SpaceNews]** China launches fourth batch of Thousand Sails megaconstellation satellites
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Einstein_Probe_detects_puzzling_cosmic_explosion" >🔗</a> **[ESA]** Einstein Probe detects puzzling cosmic explosion
-- <a href="https://spacenews.com/nasa-shutters-diversity-offices-to-comply-with-executive-order/" >🔗</a> **[SpaceNews]** NASA shutters diversity offices to comply with executive order
-- <a href="https://spacenews.com/rocket-lab-to-launch-ororatech-satellites/" >🔗</a> **[SpaceNews]** Rocket Lab to launch OroraTech satellites
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250123T160123">2025-01-23 16:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250123T163558">2025-01-23 16:35:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
