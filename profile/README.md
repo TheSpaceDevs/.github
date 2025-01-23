@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/Estonia_to_host_Europe_s_new_space_cybersecurity_testing_ground" >🔗</a> **[ESA]** Estonia to host Europe's new space cybersecurity testing ground
+- <a href="https://spacenews.com/china-launches-fourth-batch-of-thousand-sails-megaconstellation-satellites/" >🔗</a> **[SpaceNews]** China launches fourth batch of Thousand Sails megaconstellation satellites
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Einstein_Probe_detects_puzzling_cosmic_explosion" >🔗</a> **[ESA]** Einstein Probe detects puzzling cosmic explosion
 - <a href="https://spacenews.com/nasa-shutters-diversity-offices-to-comply-with-executive-order/" >🔗</a> **[SpaceNews]** NASA shutters diversity offices to comply with executive order
 - <a href="https://spacenews.com/rocket-lab-to-launch-ororatech-satellites/" >🔗</a> **[SpaceNews]** Rocket Lab to launch OroraTech satellites
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/image-article/artists-concept-of-gemini-spacecraft/" >🔗</a> **[NASA]** Artist’s Concept of Gemini Spacecraft
 - <a href="https://www.nasa.gov/news-release/nasa-awards-logistics-metrology-support-services-contract/" >🔗</a> **[NASA]** NASA Awards Logistics, Metrology Support Services Contract
 - <a href="https://spacenews.com/u-s-space-force-forecasts-2-3-billion-in-commercial-satellite-services-contracts/" >🔗</a> **[SpaceNews]** U.S. Space Force forecasts $2.3 billion in commercial satellite services contracts
-- <a href="https://www.nasa.gov/image-article/i-am-artemis-jon-carabello/" >🔗</a> **[NASA]** I am Artemis: Jon Carabello
-- <a href="https://www.nasa.gov/science-research/planetary-science/study-finds-earths-small-asteroid-visitor-likely-chunk-of-moon-rock/" >🔗</a> **[NASA]** Study Finds Earth’s Small Asteroid Visitor Likely Chunk of Moon Rock
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250123T130457">2025-01-23 13:04:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250123T133259">2025-01-23 13:32:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
