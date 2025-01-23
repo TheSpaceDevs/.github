@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Einstein_Probe_detects_puzzling_cosmic_explosion" >🔗</a> **[ESA]** Einstein Probe detects puzzling cosmic explosion
 - <a href="https://spacenews.com/nasa-shutters-diversity-offices-to-comply-with-executive-order/" >🔗</a> **[SpaceNews]** NASA shutters diversity offices to comply with executive order
 - <a href="https://spacenews.com/rocket-lab-to-launch-ororatech-satellites/" >🔗</a> **[SpaceNews]** Rocket Lab to launch OroraTech satellites
 - <a href="https://www.nasaspaceflight.com/2025/01/china-roundup-012225/" >🔗</a> **[NASASpaceflight]** China Roundup: Chang Zheng 8A set for debut, Chinese hopper flies 75 km high-altitude test
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/u-s-space-force-forecasts-2-3-billion-in-commercial-satellite-services-contracts/" >🔗</a> **[SpaceNews]** U.S. Space Force forecasts $2.3 billion in commercial satellite services contracts
 - <a href="https://www.nasa.gov/image-article/i-am-artemis-jon-carabello/" >🔗</a> **[NASA]** I am Artemis: Jon Carabello
 - <a href="https://www.nasa.gov/science-research/planetary-science/study-finds-earths-small-asteroid-visitor-likely-chunk-of-moon-rock/" >🔗</a> **[NASA]** Study Finds Earth’s Small Asteroid Visitor Likely Chunk of Moon Rock
-- <a href="https://www.nasa.gov/technology/nasa-3d-printed-antenna-takes-additive-manufacturing-to-new-heights/" >🔗</a> **[NASA]** NASA 3D-Printed Antenna Takes Additive Manufacturing to New Heights
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250123T100137">2025-01-23 10:01:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250123T103507">2025-01-23 10:35:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
