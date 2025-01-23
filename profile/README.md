@@ -89,16 +89,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-awards-artemis-logistics-studies/" >🔗</a> **[SpaceNews]** NASA awards Artemis logistics studies
+- <a href="https://europeanspaceflight.com/inaugural-isar-spectrum-flight-expected-within-next-few-months/" >🔗</a> **[European Spaceflight]** Inaugural Isar Spectrum Flight Expected Within “Next Few Months”
+- <a href="https://spacenews.com/space-venture-firm-predicts-industry-shakeup/" >🔗</a> **[SpaceNews]** Space venture firm predicts industry shakeup
 - <a href="https://spacenews.com/ast-spacemobile-raises-400-million-to-accelerate-direct-to-smartphone-plans/" >🔗</a> **[SpaceNews]** AST SpaceMobile raises $400 million to accelerate direct-to-smartphone plans
-- <a href="https://spacenews.com/china-launches-classified-tjs-14-satellite-towards-geostationary-belt/" >🔗</a> **[SpaceNews]** China launches classified TJS-14 satellite towards geostationary belt
 - <a href="https://spacenews.com/china-launches-classified-tjs-13-satellite-towards-geostationary-belt/" >🔗</a> **[SpaceNews]** China launches classified TJS-13 satellite towards geostationary belt
+- <a href="https://spacenews.com/china-launches-classified-tjs-14-satellite-towards-geostationary-belt/" >🔗</a> **[SpaceNews]** China launches classified TJS-14 satellite towards geostationary belt
 - <a href="https://spacenews.com/interlune-plans-to-gather-scarce-lunar-helium-3-for-quantum-computing-on-earth/" >🔗</a> **[SpaceNews]** Interlune plans to gather scarce lunar Helium-3 for quantum computing on Earth
 - <a href="https://www.nasa.gov/centers-and-facilities/jpl/nasa-jpl-prepping-for-full-year-of-launches-mission-milestones/" >🔗</a> **[NASA]** NASA JPL Prepping for Full Year of Launches, Mission Milestones
 - <a href="https://www.nasa.gov/general/museum-of-modern-art-exhibits-nasa-worm/" >🔗</a> **[NASA]** NASA Worm as Art
 - <a href="https://spacenews.com/we-need-a-national-space-council-to-chart-our-future-in-outer-space/" >🔗</a> **[SpaceNews]** We need a National Space Council to chart our future in outer space
-- <a href="https://www.nasa.gov/aeronautics/nasa-tests-air-traffic-surveillance-technology-using-its-pilatus-pc-12-aircraft/" >🔗</a> **[NASA]** NASA Tests Air Traffic Surveillance Technology Using Its Pilatus PC-12 Aircraft
-- <a href="https://www.nasa.gov/news-release/nasa-invests-in-artemis-studies-to-support-long-term-lunar-exploration/" >🔗</a> **[NASA]** NASA Invests in Artemis Studies to Support Long-Term Lunar Exploration
-- <a href="https://spacenews.com/spacenews-celebrates-2024-milestones-and-looks-ahead-to-an-ambitious-2025/" >🔗</a> **[SpaceNews]** SpaceNews Celebrates 2024 Milestones and Looks Ahead to an Ambitious 2025
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250123T210127">2025-01-23 21:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250123T213104">2025-01-23 21:31:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
