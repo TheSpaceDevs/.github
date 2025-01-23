@@ -89,6 +89,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/jpl/nasa-jpl-prepping-for-full-year-of-launches-mission-milestones/" >🔗</a> **[NASA]** NASA JPL Prepping for Full Year of Launches, Mission Milestones
 - <a href="https://www.nasa.gov/general/museum-of-modern-art-exhibits-nasa-worm/" >🔗</a> **[NASA]** NASA Worm as Art
 - <a href="https://spacenews.com/we-need-a-national-space-council-to-chart-our-future-in-outer-space/" >🔗</a> **[SpaceNews]** We need a National Space Council to chart our future in outer space
 - <a href="https://www.nasa.gov/aeronautics/nasa-tests-air-traffic-surveillance-technology-using-its-pilatus-pc-12-aircraft/" >🔗</a> **[NASA]** NASA Tests Air Traffic Surveillance Technology Using Its Pilatus PC-12 Aircraft
@@ -98,7 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/sls-in-transition-from-biden-to-trump/" >🔗</a> **[SpaceNews]** SLS in transition: from Biden to Trump
 - <a href="https://spacenews.com/space-minds-with-peter-beck/" >🔗</a> **[SpaceNews]** Space Minds with Peter Beck
 - <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/Estonia_to_host_Europe_s_new_space_cybersecurity_testing_ground" >🔗</a> **[ESA]** Estonia to host Europe's new space cybersecurity testing ground
-- <a href="https://spacenews.com/china-launches-fourth-batch-of-thousand-sails-megaconstellation-satellites/" >🔗</a> **[SpaceNews]** China launches fourth batch of Thousand Sails megaconstellation satellites
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250123T180131">2025-01-23 18:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250123T183540">2025-01-23 18:35:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
