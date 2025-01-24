@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/fischer-regains-leadership-of-senate-strategic-forces-subcommittee/" >🔗</a> **[SpaceNews]** Fischer regains leadership of Senate Strategic Forces Subcommittee
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-second-intuitive-machines-launch-to-moon/" >🔗</a> **[NASA]** NASA Invites Media to Second Intuitive Machines Launch to Moon
 - <a href="https://www.nasa.gov/news-release/nasa-to-brief-media-on-asteroid-sample-mission-findings/" >🔗</a> **[NASA]** NASA to Brief Media on Asteroid Sample Mission Findings
 - <a href="https://www.nasa.gov/image-article/hubble-studies-the-tarantula-nebulas-outskirts/" >🔗</a> **[NASA]** Hubble Studies the Tarantula Nebula’s Outskirts
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/universe/nicer-status-update/" >🔗</a> **[NASA]** NICER Status Update
 - <a href="https://spacenews.com/trump-team-signals-defense-acquisition-overhaul/" >🔗</a> **[SpaceNews]** Trump team signals defense acquisition overhaul
 - <a href="https://europeanspaceflight.com/european-launch-startups-send-open-letter-to-esa-outlining-key-priorities/" >🔗</a> **[European Spaceflight]** European Launch Startups Send Open Letter to ESA Outlining Key Priorities
-- <a href="https://www.nasa.gov/history/40-years-ago-sts-51c-the-first-dedicated-department-of-defense-shuttle-mission/" >🔗</a> **[NASA]** 40 Years Ago: STS-51C, the First Dedicated Department of Defense Shuttle Mission
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250124T203105">2025-01-24 20:31:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250124T210123">2025-01-24 21:01:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
