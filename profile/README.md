@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/01/The_sounds_of_BepiColombo_s_sixth_flight_past_Mercury" >🔗</a> **[ESA]** The sounds of BepiColombo's sixth flight past Mercury
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/01/Satellite_ready_for_close-up" >🔗</a> **[ESA]** Satellite ready for close-up
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/01/A_Tarantula_s_outskirts" >🔗</a> **[ESA]** A Tarantula’s outskirts
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/01/Earth_from_Space_Cyclone_Dikeledi" >🔗</a> **[ESA]** Earth from Space: Cyclone Dikeledi
 - <a href="https://spaceflightnow.com/2025/01/24/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-california/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 23 Starlink satellites on Falcon 9 rocket from California
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/us-space-traffic-system-upgrade-still-targeting-2025-amid-bid-protest/" >🔗</a> **[SpaceNews]** US space traffic system upgrade still targeting 2025 amid bid protest
 - <a href="https://www.nasaspaceflight.com/2025/01/direct-to-cell-beta/" >🔗</a> **[NASASpaceflight]** SpaceX to begin beta testing Direct-to-Cell Starlink satellites
 - <a href="https://spacenews.com/nasa-awards-artemis-logistics-studies/" >🔗</a> **[SpaceNews]** NASA awards Artemis logistics studies
-- <a href="https://europeanspaceflight.com/inaugural-isar-spectrum-flight-expected-within-next-few-months/" >🔗</a> **[European Spaceflight]** Inaugural Isar Spectrum Flight Expected Within “Next Few Months”
-- <a href="https://spacenews.com/space-venture-firm-predicts-industry-shakeup/" >🔗</a> **[SpaceNews]** Space venture firm predicts industry shakeup
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250124T130438">2025-01-24 13:04:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250124T133226">2025-01-24 13:32:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
