@@ -20,33 +20,32 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 11-6**. It is scheduled to be launched by *SpaceX*
+**Falcon 9 Block 5 | Starlink Group 12-7**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
+from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral SFS, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250124T140700">2025-01-24 14:07:00 UTC</a>.  Until
-then, this pad will have been used for 177
-out of 789 launches from this location. The launch status is currently
-*Go* 🟩 . The mission type is
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250127T192100">2025-01-27 19:21:00 UTC</a>.  Until
+then, this pad will have been used for 284
+out of 999 launches from this location. The launch status is currently
+*TBC* 🟨 . The mission type is
 *Communications* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  A batch of 23 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  A batch of satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
   <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=34.632,-120.611" >
+  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250124T140700">2025-01-24 14:07:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-6&location=Vandenberg SFB, CA, USA&dates=20250124T140700Z%2F20250124T172909Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-6** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250127T192100">2025-01-27 19:21:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-7&location=Cape Canaveral SFS, FL, USA&dates=20250127T192100Z%2F20250127T235200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-7** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250128T153000">2025-01-28 15:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Shepard | NS-29&location=Corn Ranch, Van Horn, TX, USA&dates=20250128T153000Z%2F20250128T233000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Shepard | NS-29** from Corn Ranch, Van Horn, TX, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250129T005300">2025-01-29 00:53:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=GSLV Mk II | IRNSS-1K (NVS-02)&location=Satish Dhawan Space Centre, India&dates=20250129T005300Z%2F20250129T005300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **GSLV Mk II | IRNSS-1K (NVS-02)** from Satish Dhawan Space Centre, India.
@@ -91,26 +90,24 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/01/The_sounds_of_BepiColombo_s_sixth_flight_past_Mercury" >🔗</a> **[ESA]** The sounds of BepiColombo's sixth flight past Mercury
+- <a href="https://europeanspaceflight.com/european-launch-startups-send-open-letter-to-esa-outlining-key-priorities/" >🔗</a> **[European Spaceflight]** European Launch Startups Send Open Letter to ESA Outlining Key Priorities
+- <a href="https://www.nasa.gov/history/40-years-ago-sts-51c-the-first-dedicated-department-of-defense-shuttle-mission/" >🔗</a> **[NASA]** 40 Years Ago: STS-51C, the First Dedicated Department of Defense Shuttle Mission
+- <a href="https://spacenews.com/the-u-s-should-stop-holding-back-its-military-potential-in-space/" >🔗</a> **[SpaceNews]** The U.S. should stop holding back its military potential in space
+- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_20-24_January_2025" >🔗</a> **[ESA]** Week in images: 20-24 January 2025
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/01/Satellite_ready_for_close-up" >🔗</a> **[ESA]** Satellite ready for close-up
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/01/A_Tarantula_s_outskirts" >🔗</a> **[ESA]** A Tarantula’s outskirts
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/01/Earth_from_Space_Cyclone_Dikeledi" >🔗</a> **[ESA]** Earth from Space: Cyclone Dikeledi
 - <a href="https://spaceflightnow.com/2025/01/24/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-california/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 23 Starlink satellites on Falcon 9 rocket from California
 - <a href="https://spacepolicyonline.com/news/nasa-presses-on-with-artemis-as-questions-swirl-about-the-future/" >🔗</a> **[SpacePolicyOnline.com]** NASA Presses on With Artemis as Questions Swirl About the Future
-- <a href="https://spacenews.com/boeing-projects-additional-starliner-losses-in-fourth-quarter/" >🔗</a> **[SpaceNews]** Boeing projects additional Starliner losses in fourth quarter
-- <a href="https://spacenews.com/us-space-traffic-system-upgrade-still-targeting-2025-amid-bid-protest/" >🔗</a> **[SpaceNews]** US space traffic system upgrade still targeting 2025 amid bid protest
-- <a href="https://www.nasaspaceflight.com/2025/01/direct-to-cell-beta/" >🔗</a> **[NASASpaceflight]** SpaceX to begin beta testing Direct-to-Cell Starlink satellites
-- <a href="https://spacenews.com/nasa-awards-artemis-logistics-studies/" >🔗</a> **[SpaceNews]** NASA awards Artemis logistics studies
 
 
 ### Launch-related News 🚀
 
-- <a href="https://spaceflightnow.com/2025/01/24/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-california/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 23 Starlink satellites on Falcon 9 rocket from California
-- <a href="https://www.nasaspaceflight.com/2025/01/launch-roundup-012025/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX returns to launching Starlink following Starship launch
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250124T140124">2025-01-24 14:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250124T143259">2025-01-24 14:32:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
