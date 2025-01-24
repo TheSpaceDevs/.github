@@ -89,6 +89,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/nasa-space-techs-favorite-place-to-travel-in-2025-the-moon/" >🔗</a> **[NASA]** NASA Space Tech’s Favorite Place to Travel in 2025: The Moon!
 - <a href="https://www.nasa.gov/image-article/artemis-ii-stacking-operations-update/" >🔗</a> **[NASA]** Artemis II Stacking Operations Update
 - <a href="https://spacenews.com/trump-team-signals-defense-acquisition-overhaul/" >🔗</a> **[SpaceNews]** Trump team signals defense acquisition overhaul
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/01/The_sounds_of_BepiColombo_s_sixth_flight_past_Mercury" >🔗</a> **[ESA]** The sounds of BepiColombo's sixth flight past Mercury
@@ -98,7 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/the-u-s-should-stop-holding-back-its-military-potential-in-space/" >🔗</a> **[SpaceNews]** The U.S. should stop holding back its military potential in space
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_20-24_January_2025" >🔗</a> **[ESA]** Week in images: 20-24 January 2025
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/01/Satellite_ready_for_close-up" >🔗</a> **[ESA]** Satellite ready for close-up
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/01/A_Tarantula_s_outskirts" >🔗</a> **[ESA]** A Tarantula’s outskirts
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250124T170116">2025-01-24 17:01:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250124T173241">2025-01-24 17:32:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
