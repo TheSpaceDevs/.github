@@ -89,6 +89,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/01/A_Tarantula_s_outskirts" >🔗</a> **[ESA]** A Tarantula’s outskirts
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/01/Earth_from_Space_Cyclone_Dikeledi" >🔗</a> **[ESA]** Earth from Space: Cyclone Dikeledi
 - <a href="https://spaceflightnow.com/2025/01/24/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-california/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 23 Starlink satellites on Falcon 9 rocket from California
 - <a href="https://spacepolicyonline.com/news/nasa-presses-on-with-artemis-as-questions-swirl-about-the-future/" >🔗</a> **[SpacePolicyOnline.com]** NASA Presses on With Artemis as Questions Swirl About the Future
 - <a href="https://spacenews.com/boeing-projects-additional-starliner-losses-in-fourth-quarter/" >🔗</a> **[SpaceNews]** Boeing projects additional Starliner losses in fourth quarter
@@ -97,18 +99,17 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/nasa-awards-artemis-logistics-studies/" >🔗</a> **[SpaceNews]** NASA awards Artemis logistics studies
 - <a href="https://europeanspaceflight.com/inaugural-isar-spectrum-flight-expected-within-next-few-months/" >🔗</a> **[European Spaceflight]** Inaugural Isar Spectrum Flight Expected Within “Next Few Months”
 - <a href="https://spacenews.com/space-venture-firm-predicts-industry-shakeup/" >🔗</a> **[SpaceNews]** Space venture firm predicts industry shakeup
-- <a href="https://spacenews.com/ast-spacemobile-raises-400-million-to-accelerate-direct-to-smartphone-plans/" >🔗</a> **[SpaceNews]** AST SpaceMobile raises $400 million to accelerate direct-to-smartphone plans
-- <a href="https://spacenews.com/china-launches-classified-tjs-13-satellite-towards-geostationary-belt/" >🔗</a> **[SpaceNews]** China launches classified TJS-13 satellite towards geostationary belt
 
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2025/01/24/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-california/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 23 Starlink satellites on Falcon 9 rocket from California
 - <a href="https://www.nasaspaceflight.com/2025/01/launch-roundup-012025/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX returns to launching Starlink following Starship launch
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250124T090127">2025-01-24 09:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250124T093143">2025-01-24 09:31:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
