@@ -89,8 +89,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/01/The_sounds_of_BepiColombo_s_sixth_flight_past_Mercury" >🔗</a> **[ESA]** The sounds of BepiColombo's sixth flight past Mercury
+- <a href="https://www.nasa.gov/image-article/artemis-ii-stacking-operations-update/" >🔗</a> **[NASA]** Artemis II Stacking Operations Update
 - <a href="https://spacenews.com/trump-team-signals-defense-acquisition-overhaul/" >🔗</a> **[SpaceNews]** Trump team signals defense acquisition overhaul
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/01/The_sounds_of_BepiColombo_s_sixth_flight_past_Mercury" >🔗</a> **[ESA]** The sounds of BepiColombo's sixth flight past Mercury
 - <a href="https://europeanspaceflight.com/european-launch-startups-send-open-letter-to-esa-outlining-key-priorities/" >🔗</a> **[European Spaceflight]** European Launch Startups Send Open Letter to ESA Outlining Key Priorities
 - <a href="https://www.nasa.gov/history/40-years-ago-sts-51c-the-first-dedicated-department-of-defense-shuttle-mission/" >🔗</a> **[NASA]** 40 Years Ago: STS-51C, the First Dedicated Department of Defense Shuttle Mission
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-expedition-71-crew-visit-at-marshall/" >🔗</a> **[NASA]** NASA Invites Media to Expedition 71 Crew Visit at Marshall
@@ -98,7 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_20-24_January_2025" >🔗</a> **[ESA]** Week in images: 20-24 January 2025
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/01/Satellite_ready_for_close-up" >🔗</a> **[ESA]** Satellite ready for close-up
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/01/A_Tarantula_s_outskirts" >🔗</a> **[ESA]** A Tarantula’s outskirts
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/01/Earth_from_Space_Cyclone_Dikeledi" >🔗</a> **[ESA]** Earth from Space: Cyclone Dikeledi
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250124T160130">2025-01-24 16:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250124T163502">2025-01-24 16:35:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
