@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/new-shepard-flight-to-demonstrate-lunar-gravity/" >🔗</a> **[SpaceNews]** New Shepard flight to demonstrate lunar gravity
 - <a href="https://www.nasaspaceflight.com/2025/01/iss-roundup-012425/" >🔗</a> **[NASASpaceflight]** Spacewalks resume from U.S. segment of ISS after six month hiatus
 - <a href="https://spaceflightnow.com/2025/01/24/rocket-lab-orora-technologies-contract-for-responsive-launch-ahead-of-main-2025-wildfire-season/" >🔗</a> **[Spaceflight Now]** Rocket Lab, Orora Technologies contract for “responsive launch” ahead of main 2025 wildfire season
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-expedition-71-crew-visit-at-marshall-2/" >🔗</a> **[NASA]** NASA Invites Media to Expedition 71 Crew Visit at Marshall
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/hubble-studies-the-tarantula-nebulas-outskirts/" >🔗</a> **[NASA]** Hubble Studies the Tarantula Nebula’s Outskirts
 - <a href="https://www.nasa.gov/missions/nasa-space-techs-favorite-place-to-travel-in-2025-the-moon/" >🔗</a> **[NASA]** NASA Space Tech’s Favorite Place to Travel in 2025: The Moon!
 - <a href="https://www.nasa.gov/image-article/artemis-ii-stacking-operations-update/" >🔗</a> **[NASA]** Artemis II Stacking Operations Update
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/01/The_sounds_of_BepiColombo_s_sixth_flight_past_Mercury" >🔗</a> **[ESA]** The sounds of BepiColombo's sixth flight past Mercury
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250124T230133">2025-01-24 23:01:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250124T233105">2025-01-24 23:31:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
