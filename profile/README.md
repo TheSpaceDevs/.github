@@ -89,6 +89,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/01/24/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-california/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 23 Starlink satellites on Falcon 9 rocket from California
 - <a href="https://spacepolicyonline.com/news/nasa-presses-on-with-artemis-as-questions-swirl-about-the-future/" >🔗</a> **[SpacePolicyOnline.com]** NASA Presses on With Artemis as Questions Swirl About the Future
 - <a href="https://spacenews.com/boeing-projects-additional-starliner-losses-in-fourth-quarter/" >🔗</a> **[SpaceNews]** Boeing projects additional Starliner losses in fourth quarter
 - <a href="https://spacenews.com/us-space-traffic-system-upgrade-still-targeting-2025-amid-bid-protest/" >🔗</a> **[SpaceNews]** US space traffic system upgrade still targeting 2025 amid bid protest
@@ -98,7 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/space-venture-firm-predicts-industry-shakeup/" >🔗</a> **[SpaceNews]** Space venture firm predicts industry shakeup
 - <a href="https://spacenews.com/ast-spacemobile-raises-400-million-to-accelerate-direct-to-smartphone-plans/" >🔗</a> **[SpaceNews]** AST SpaceMobile raises $400 million to accelerate direct-to-smartphone plans
 - <a href="https://spacenews.com/china-launches-classified-tjs-13-satellite-towards-geostationary-belt/" >🔗</a> **[SpaceNews]** China launches classified TJS-13 satellite towards geostationary belt
-- <a href="https://spacenews.com/china-launches-classified-tjs-14-satellite-towards-geostationary-belt/" >🔗</a> **[SpaceNews]** China launches classified TJS-14 satellite towards geostationary belt
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250124T020049">2025-01-24 02:00:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250124T024336">2025-01-24 02:43:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
