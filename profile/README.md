@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/01/24/rocket-lab-orora-technologies-contract-for-responsive-launch-ahead-of-main-2025-wildfire-season/" >🔗</a> **[Spaceflight Now]** Rocket Lab, Orora Technologies contract for “responsive launch” ahead of main 2025 wildfire season
+- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-expedition-71-crew-visit-at-marshall-2/" >🔗</a> **[NASA]** NASA Invites Media to Expedition 71 Crew Visit at Marshall
 - <a href="https://spacenews.com/fischer-regains-leadership-of-senate-strategic-forces-subcommittee/" >🔗</a> **[SpaceNews]** Fischer regains leadership of Senate Strategic Forces Subcommittee
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-second-intuitive-machines-launch-to-moon/" >🔗</a> **[NASA]** NASA Invites Media to Second Intuitive Machines Launch to Moon
 - <a href="https://www.nasa.gov/news-release/nasa-to-brief-media-on-asteroid-sample-mission-findings/" >🔗</a> **[NASA]** NASA to Brief Media on Asteroid Sample Mission Findings
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/artemis-ii-stacking-operations-update/" >🔗</a> **[NASA]** Artemis II Stacking Operations Update
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/01/The_sounds_of_BepiColombo_s_sixth_flight_past_Mercury" >🔗</a> **[ESA]** The sounds of BepiColombo's sixth flight past Mercury
 - <a href="https://www.nasa.gov/universe/nicer-status-update/" >🔗</a> **[NASA]** NICER Status Update
-- <a href="https://spacenews.com/trump-team-signals-defense-acquisition-overhaul/" >🔗</a> **[SpaceNews]** Trump team signals defense acquisition overhaul
-- <a href="https://europeanspaceflight.com/european-launch-startups-send-open-letter-to-esa-outlining-key-priorities/" >🔗</a> **[European Spaceflight]** European Launch Startups Send Open Letter to ESA Outlining Key Priorities
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250124T213103">2025-01-24 21:31:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250124T220130">2025-01-24 22:01:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
