@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/jwst-facing-potential-cuts-to-its-operational-budget/" >🔗</a> **[SpaceNews]** JWST facing potential cuts to its operational budget
 - <a href="https://europeanspaceflight.com/esa-member-states-to-vote-on-future-of-space-rider-in-november/" >🔗</a> **[European Spaceflight]** ESA Member States to Vote on Future of Space Rider in November
 - <a href="https://spacenews.com/new-shepard-flight-to-demonstrate-lunar-gravity/" >🔗</a> **[SpaceNews]** New Shepard flight to demonstrate lunar gravity
 - <a href="https://www.nasaspaceflight.com/2025/01/iss-roundup-012425/" >🔗</a> **[NASASpaceflight]** Spacewalks resume from U.S. segment of ISS after six month hiatus
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-second-intuitive-machines-launch-to-moon/" >🔗</a> **[NASA]** NASA Invites Media to Second Intuitive Machines Launch to Moon
 - <a href="https://www.nasa.gov/news-release/nasa-to-brief-media-on-asteroid-sample-mission-findings/" >🔗</a> **[NASA]** NASA to Brief Media on Asteroid Sample Mission Findings
 - <a href="https://www.nasa.gov/image-article/hubble-studies-the-tarantula-nebulas-outskirts/" >🔗</a> **[NASA]** Hubble Studies the Tarantula Nebula’s Outskirts
-- <a href="https://www.nasa.gov/missions/nasa-space-techs-favorite-place-to-travel-in-2025-the-moon/" >🔗</a> **[NASA]** NASA Space Tech’s Favorite Place to Travel in 2025: The Moon!
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250125T230115">2025-01-25 23:01:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250125T233112">2025-01-25 23:31:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
