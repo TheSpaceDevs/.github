@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/esa-seeks-modest-boost-to-science-budget/" >🔗</a> **[SpaceNews]** ESA seeks modest boost to science budget
 - <a href="https://spacenews.com/astronomers-seek-global-ban-on-space-advertising/" >🔗</a> **[SpaceNews]** Astronomers seek global ban on space advertising
 - <a href="https://spacenews.com/jwst-facing-potential-cuts-to-its-operational-budget/" >🔗</a> **[SpaceNews]** JWST facing potential cuts to its operational budget
 - <a href="https://europeanspaceflight.com/esa-member-states-to-vote-on-future-of-space-rider-in-november/" >🔗</a> **[European Spaceflight]** ESA Member States to Vote on Future of Space Rider in November
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-expedition-71-crew-visit-at-marshall-2/" >🔗</a> **[NASA]** NASA Invites Media to Expedition 71 Crew Visit at Marshall
 - <a href="https://spacenews.com/fischer-regains-leadership-of-senate-strategic-forces-subcommittee/" >🔗</a> **[SpaceNews]** Fischer regains leadership of Senate Strategic Forces Subcommittee
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-second-intuitive-machines-launch-to-moon/" >🔗</a> **[NASA]** NASA Invites Media to Second Intuitive Machines Launch to Moon
-- <a href="https://www.nasa.gov/news-release/nasa-to-brief-media-on-asteroid-sample-mission-findings/" >🔗</a> **[NASA]** NASA to Brief Media on Asteroid Sample Mission Findings
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250126T180128">2025-01-26 18:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250126T183432">2025-01-26 18:34:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
