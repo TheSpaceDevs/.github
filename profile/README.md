@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/01/lunar-missions-roundup/" >🔗</a> **[NASASpaceflight]** NASA’s CLPS program accelerates as two landers head for the Moon
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-january-26-february-1-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy January 26-February 1, 2025
 - <a href="https://spacenews.com/esa-seeks-modest-boost-to-science-budget/" >🔗</a> **[SpaceNews]** ESA seeks modest boost to science budget
 - <a href="https://spacenews.com/astronomers-seek-global-ban-on-space-advertising/" >🔗</a> **[SpaceNews]** Astronomers seek global ban on space advertising
 - <a href="https://spacenews.com/jwst-facing-potential-cuts-to-its-operational-budget/" >🔗</a> **[SpaceNews]** JWST facing potential cuts to its operational budget
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2025/01/iss-roundup-012425/" >🔗</a> **[NASASpaceflight]** Spacewalks resume from U.S. segment of ISS after six month hiatus
 - <a href="https://spaceflightnow.com/2025/01/24/rocket-lab-orora-technologies-contract-for-responsive-launch-ahead-of-main-2025-wildfire-season/" >🔗</a> **[Spaceflight Now]** Rocket Lab, Orora Technologies contract for “responsive launch” ahead of main 2025 wildfire season
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-expedition-71-crew-visit-at-marshall-2/" >🔗</a> **[NASA]** NASA Invites Media to Expedition 71 Crew Visit at Marshall
-- <a href="https://spacenews.com/fischer-regains-leadership-of-senate-strategic-forces-subcommittee/" >🔗</a> **[SpaceNews]** Fischer regains leadership of Senate Strategic Forces Subcommittee
-- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-second-intuitive-machines-launch-to-moon/" >🔗</a> **[NASA]** NASA Invites Media to Second Intuitive Machines Launch to Moon
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250126T213104">2025-01-26 21:31:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250126T220115">2025-01-26 22:01:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
