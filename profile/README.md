@@ -55,6 +55,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250201T083000">2025-02-01 08:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=H3-22 | Michibiki 6 (QZS-6)&location=Tanegashima Space Center, Japan&dates=20250201T083000Z%2F20250201T103000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **H3-22 | Michibiki 6 (QZS-6)** from Tanegashima Space Center, Japan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250203T204300">2025-02-03 20:43:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | IoT 4 You and Me (Kinéis 16-20)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20250203T204300Z%2F20250203T204300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | IoT 4 You and Me (Kinéis 16-20)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250211T095300">2025-02-11 09:53:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 8A | Demo Flight&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20250211T095300Z%2F20250211T104200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 8A | Demo Flight** from Wenchang Space Launch Site, People's Republic of China.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250225T000000">2025-02-25 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ariane 62 | CSO-3&location=Guiana Space Centre, French Guiana&dates=20250225T000000Z%2F20250225T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ariane 62 | CSO-3** from Guiana Space Centre, French Guiana.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/astronomers-seek-global-ban-on-space-advertising/" >🔗</a> **[SpaceNews]** Astronomers seek global ban on space advertising
 - <a href="https://spacenews.com/jwst-facing-potential-cuts-to-its-operational-budget/" >🔗</a> **[SpaceNews]** JWST facing potential cuts to its operational budget
 - <a href="https://europeanspaceflight.com/esa-member-states-to-vote-on-future-of-space-rider-in-november/" >🔗</a> **[European Spaceflight]** ESA Member States to Vote on Future of Space Rider in November
 - <a href="https://spacenews.com/new-shepard-flight-to-demonstrate-lunar-gravity/" >🔗</a> **[SpaceNews]** New Shepard flight to demonstrate lunar gravity
@@ -99,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/fischer-regains-leadership-of-senate-strategic-forces-subcommittee/" >🔗</a> **[SpaceNews]** Fischer regains leadership of Senate Strategic Forces Subcommittee
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-second-intuitive-machines-launch-to-moon/" >🔗</a> **[NASA]** NASA Invites Media to Second Intuitive Machines Launch to Moon
 - <a href="https://www.nasa.gov/news-release/nasa-to-brief-media-on-asteroid-sample-mission-findings/" >🔗</a> **[NASA]** NASA to Brief Media on Asteroid Sample Mission Findings
-- <a href="https://www.nasa.gov/image-article/hubble-studies-the-tarantula-nebulas-outskirts/" >🔗</a> **[NASA]** Hubble Studies the Tarantula Nebula’s Outskirts
 
 
 ### Launch-related News 🚀
@@ -108,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250125T233112">2025-01-25 23:31:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250126T000437">2025-01-26 00:04:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
