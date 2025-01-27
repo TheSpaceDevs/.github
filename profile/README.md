@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/coming-soon-2024-annual-highlights-of-results-from-the-international-space-station/" >🔗</a> **[NASA]** COMING SOON: 2024 Annual Highlights of Results from the International Space Station
 - <a href="https://spaceflightnow.com/2025/01/27/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-7/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://europeanspaceflight.com/uk-space-agency-launch-director-hints-at-major-support-for-orbex/" >🔗</a> **[European Spaceflight]** UK Space Agency Launch Director Hints at Major Support for Orbex
 - <a href="https://spacenews.com/commercial-weather-startups-forecast-increased-funding-under-trump/" >🔗</a> **[SpaceNews]** Commercial weather startups forecast increased funding under Trump
 - <a href="https://spacenews.com/chinas-lunar-agenda-a-heightened-warning/" >🔗</a> **[SpaceNews]** China’s lunar agenda – a heightened warning
 - <a href="https://arstechnica.com/features/2025/01/after-the-success-of-new-glenn-blue-origin-to-focus-on-launching-frequently/" >🔗</a> **[Arstechnica]** After the success of New Glenn, Blue Origin to focus on launching frequently
+- <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/ESA_and_Hisdesat_set_to_launch_next-generation_secure_communications_satellite" >🔗</a> **[ESA]** ESA and Hisdesat set to launch next-generation secure communications satellite
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Smouldering_woody_debris_fuels_air_pollution_over_the_Amazon" >🔗</a> **[ESA]** Smouldering woody debris fuels air pollution over the Amazon
 - <a href="https://spacenews.com/china-embraces-commercial-participation-in-moon-mission-for-the-first-time/" >🔗</a> **[SpaceNews]** China embraces commercial participation in moon mission for the first time
 - <a href="https://www.nasaspaceflight.com/2025/01/lunar-missions-roundup/" >🔗</a> **[NASASpaceflight]** NASA’s CLPS program accelerates as two landers head for the Moon
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-january-26-february-1-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy January 26-February 1, 2025
-- <a href="https://spacenews.com/esa-seeks-modest-boost-to-science-budget/" >🔗</a> **[SpaceNews]** ESA seeks modest boost to science budget
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250127T150132">2025-01-27 15:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250127T153101">2025-01-27 15:31:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
