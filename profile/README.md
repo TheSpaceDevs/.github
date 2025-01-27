@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Smouldering_woody_debris_fuels_air_pollution_over_the_Amazon" >🔗</a> **[ESA]** Smouldering woody debris fuels air pollution over the Amazon
 - <a href="https://spacenews.com/china-embraces-commercial-participation-in-moon-mission-for-the-first-time/" >🔗</a> **[SpaceNews]** China embraces commercial participation in moon mission for the first time
 - <a href="https://www.nasaspaceflight.com/2025/01/lunar-missions-roundup/" >🔗</a> **[NASASpaceflight]** NASA’s CLPS program accelerates as two landers head for the Moon
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-january-26-february-1-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy January 26-February 1, 2025
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/esa-member-states-to-vote-on-future-of-space-rider-in-november/" >🔗</a> **[European Spaceflight]** ESA Member States to Vote on Future of Space Rider in November
 - <a href="https://spacenews.com/new-shepard-flight-to-demonstrate-lunar-gravity/" >🔗</a> **[SpaceNews]** New Shepard flight to demonstrate lunar gravity
 - <a href="https://www.nasaspaceflight.com/2025/01/iss-roundup-012425/" >🔗</a> **[NASASpaceflight]** Spacewalks resume from U.S. segment of ISS after six month hiatus
-- <a href="https://spaceflightnow.com/2025/01/24/rocket-lab-orora-technologies-contract-for-responsive-launch-ahead-of-main-2025-wildfire-season/" >🔗</a> **[Spaceflight Now]** Rocket Lab, Orora Technologies contract for “responsive launch” ahead of main 2025 wildfire season
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250127T110117">2025-01-27 11:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250127T113102">2025-01-27 11:31:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
