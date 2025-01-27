@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/get-my-good-side/" >🔗</a> **[NASA]** Get My Good Side
+- <a href="https://spacenews.com/chinese-launch-startup-secures-early-funding-for-fully-reusable-rocket-plan/" >🔗</a> **[SpaceNews]** Chinese launch startup secures early funding for fully reusable rocket plan
 - <a href="https://www.nasa.gov/image-article/black-holes-can-cook-for-themselves-chandra-study-shows/" >🔗</a> **[NASA]** Black Holes Can Cook for Themselves, Chandra Study Shows
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-pre-super-bowl-tours-at-new-orleans-facility/" >🔗</a> **[NASA]** NASA Invites Media to Pre-Super Bowl Tours at New Orleans Facility
 - <a href="https://spacenews.com/sen-unveils-4k-livestream-of-earth-and-space-station-docking-port/" >🔗</a> **[SpaceNews]** Sen unveils 4K livestream of Earth and space station docking port
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/01/27/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-7/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://europeanspaceflight.com/uk-space-agency-launch-director-hints-at-major-support-for-orbex/" >🔗</a> **[European Spaceflight]** UK Space Agency Launch Director Hints at Major Support for Orbex
 - <a href="https://spacenews.com/commercial-weather-startups-forecast-increased-funding-under-trump/" >🔗</a> **[SpaceNews]** Commercial weather startups forecast increased funding under Trump
-- <a href="https://spacenews.com/chinas-lunar-agenda-a-heightened-warning/" >🔗</a> **[SpaceNews]** China’s lunar agenda – a heightened warning
-- <a href="https://arstechnica.com/features/2025/01/after-the-success-of-new-glenn-blue-origin-to-focus-on-launching-frequently/" >🔗</a> **[Arstechnica]** After the success of New Glenn, Blue Origin to focus on launching frequently
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250127T193105">2025-01-27 19:31:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250127T200133">2025-01-27 20:01:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
