@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/01/27/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-7/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket from Cape Canaveral
+- <a href="https://europeanspaceflight.com/uk-space-agency-launch-director-hints-at-major-support-for-orbex/" >🔗</a> **[European Spaceflight]** UK Space Agency Launch Director Hints at Major Support for Orbex
+- <a href="https://spacenews.com/commercial-weather-startups-forecast-increased-funding-under-trump/" >🔗</a> **[SpaceNews]** Commercial weather startups forecast increased funding under Trump
+- <a href="https://spacenews.com/chinas-lunar-agenda-a-heightened-warning/" >🔗</a> **[SpaceNews]** China’s lunar agenda – a heightened warning
 - <a href="https://arstechnica.com/features/2025/01/after-the-success-of-new-glenn-blue-origin-to-focus-on-launching-frequently/" >🔗</a> **[Arstechnica]** After the success of New Glenn, Blue Origin to focus on launching frequently
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Smouldering_woody_debris_fuels_air_pollution_over_the_Amazon" >🔗</a> **[ESA]** Smouldering woody debris fuels air pollution over the Amazon
 - <a href="https://spacenews.com/china-embraces-commercial-participation-in-moon-mission-for-the-first-time/" >🔗</a> **[SpaceNews]** China embraces commercial participation in moon mission for the first time
 - <a href="https://www.nasaspaceflight.com/2025/01/lunar-missions-roundup/" >🔗</a> **[NASASpaceflight]** NASA’s CLPS program accelerates as two landers head for the Moon
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-january-26-february-1-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy January 26-February 1, 2025
 - <a href="https://spacenews.com/esa-seeks-modest-boost-to-science-budget/" >🔗</a> **[SpaceNews]** ESA seeks modest boost to science budget
-- <a href="https://spacenews.com/astronomers-seek-global-ban-on-space-advertising/" >🔗</a> **[SpaceNews]** Astronomers seek global ban on space advertising
-- <a href="https://spacenews.com/jwst-facing-potential-cuts-to-its-operational-budget/" >🔗</a> **[SpaceNews]** JWST facing potential cuts to its operational budget
-- <a href="https://europeanspaceflight.com/esa-member-states-to-vote-on-future-of-space-rider-in-november/" >🔗</a> **[European Spaceflight]** ESA Member States to Vote on Future of Space Rider in November
-- <a href="https://spacenews.com/new-shepard-flight-to-demonstrate-lunar-gravity/" >🔗</a> **[SpaceNews]** New Shepard flight to demonstrate lunar gravity
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250127T140134">2025-01-27 14:01:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250127T143328">2025-01-27 14:33:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
