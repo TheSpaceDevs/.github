@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/features/2025/01/after-the-success-of-new-glenn-blue-origin-to-focus-on-launching-frequently/" >🔗</a> **[Arstechnica]** After the success of New Glenn, Blue Origin to focus on launching frequently
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Smouldering_woody_debris_fuels_air_pollution_over_the_Amazon" >🔗</a> **[ESA]** Smouldering woody debris fuels air pollution over the Amazon
 - <a href="https://spacenews.com/china-embraces-commercial-participation-in-moon-mission-for-the-first-time/" >🔗</a> **[SpaceNews]** China embraces commercial participation in moon mission for the first time
 - <a href="https://www.nasaspaceflight.com/2025/01/lunar-missions-roundup/" >🔗</a> **[NASASpaceflight]** NASA’s CLPS program accelerates as two landers head for the Moon
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/jwst-facing-potential-cuts-to-its-operational-budget/" >🔗</a> **[SpaceNews]** JWST facing potential cuts to its operational budget
 - <a href="https://europeanspaceflight.com/esa-member-states-to-vote-on-future-of-space-rider-in-november/" >🔗</a> **[European Spaceflight]** ESA Member States to Vote on Future of Space Rider in November
 - <a href="https://spacenews.com/new-shepard-flight-to-demonstrate-lunar-gravity/" >🔗</a> **[SpaceNews]** New Shepard flight to demonstrate lunar gravity
-- <a href="https://www.nasaspaceflight.com/2025/01/iss-roundup-012425/" >🔗</a> **[NASASpaceflight]** Spacewalks resume from U.S. segment of ISS after six month hiatus
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250127T120200">2025-01-27 12:02:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250127T124234">2025-01-27 12:42:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
