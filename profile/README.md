@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/black-holes-can-cook-for-themselves-chandra-study-shows/" >🔗</a> **[NASA]** Black Holes Can Cook for Themselves, Chandra Study Shows
+- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-pre-super-bowl-tours-at-new-orleans-facility/" >🔗</a> **[NASA]** NASA Invites Media to Pre-Super Bowl Tours at New Orleans Facility
 - <a href="https://spacenews.com/sen-unveils-4k-livestream-of-earth-and-space-station-docking-port/" >🔗</a> **[SpaceNews]** Sen unveils 4K livestream of Earth and space station docking port
 - <a href="https://spacenews.com/gitai-expanding-satellite-product-line-after-successful-demo/" >🔗</a> **[SpaceNews]** GITAI expanding satellite product line after successful demo
 - <a href="https://www.nasa.gov/general/coming-soon-2024-annual-highlights-of-results-from-the-international-space-station/" >🔗</a> **[NASA]** COMING SOON: 2024 Annual Highlights of Results from the International Space Station
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/commercial-weather-startups-forecast-increased-funding-under-trump/" >🔗</a> **[SpaceNews]** Commercial weather startups forecast increased funding under Trump
 - <a href="https://spacenews.com/chinas-lunar-agenda-a-heightened-warning/" >🔗</a> **[SpaceNews]** China’s lunar agenda – a heightened warning
 - <a href="https://arstechnica.com/features/2025/01/after-the-success-of-new-glenn-blue-origin-to-focus-on-launching-frequently/" >🔗</a> **[Arstechnica]** After the success of New Glenn, Blue Origin to focus on launching frequently
-- <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/ESA_and_Hisdesat_set_to_launch_next-generation_secure_communications_satellite" >🔗</a> **[ESA]** ESA and Hisdesat set to launch next-generation secure communications satellite
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Smouldering_woody_debris_fuels_air_pollution_over_the_Amazon" >🔗</a> **[ESA]** Smouldering woody debris fuels air pollution over the Amazon
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250127T190112">2025-01-27 19:01:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250127T193105">2025-01-27 19:31:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
