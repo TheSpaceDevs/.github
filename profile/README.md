@@ -109,12 +109,13 @@ The New Shepard crew capsule is using its Reaction Control System (RCS) to spin 
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2025/01/launch-roundup-270124/" >🔗</a> **[NASASpaceflight]** Launch Roundup: New Shepard to simulate lunar gravity, India and Japan to launch navigation satellites.
 - <a href="https://spacenews.com/new-shepard-flight-to-demonstrate-lunar-gravity/" >🔗</a> **[SpaceNews]** New Shepard flight to demonstrate lunar gravity
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250128T090137">2025-01-28 09:01:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250128T093150">2025-01-28 09:31:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
