@@ -91,6 +91,8 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/gadgets/2025/01/for-the-first-time-a-privately-developed-aircraft-has-flown-faster-than-sound/" >🔗</a> **[Arstechnica]** For the first time, a privately developed aircraft has flown faster than sound
+- <a href="https://www.nasa.gov/missions/artemis/how-to-fly-nasas-orion-spacecraft/" >🔗</a> **[NASA]** How to Fly NASA’s Orion Spacecraft
 - <a href="https://www.nasa.gov/image-article/wolf-moon-in-washington/" >🔗</a> **[NASA]** Wolf Moon in Washington
 - <a href="https://spacenews.com/space-force-still-mapping-out-strategy-for-in-orbit-logistics-and-satellite-services/" >🔗</a> **[SpaceNews]** Space Force still mapping out strategy for in-orbit logistics and satellite services
 - <a href="https://spacenews.com/esa-enlists-thales-alenia-space-for-mission-to-venus/" >🔗</a> **[SpaceNews]** ESA enlists Thales Alenia Space for mission to Venus
@@ -99,8 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.nasa.gov/general/langleys-wonder-changes-the-world-2023-annual-report-spotlights-contributions/" >🔗</a> **[NASA]** Langley’s Wonder Changes The World, 2023 Annual Report Spotlights Contributions
 - <a href="https://arstechnica.com/tech-policy/2025/01/bowing-to-trump-google-maps-plans-to-quickly-rename-the-gulf-of-mexico/" >🔗</a> **[Arstechnica]** Bowing to Trump, Google Maps plans to “quickly” rename the Gulf of Mexico
 - <a href="https://spacenews.com/theresa-condor-spire-global-commercial-space-transformers/" >🔗</a> **[SpaceNews]** Theresa Condor, Spire Global – Commercial Space Transformers
-- <a href="https://www.nasa.gov/general/2024-annual-report-highlights-langleys-wonder-at-work/" >🔗</a> **[NASA]** 2024 Annual Report Highlights Langley’s Wonder at Work
-- <a href="https://spacenews.com/will-ai-redefine-human-roles-in-space-exploration/" >🔗</a> **[SpaceNews]** Will AI redefine human roles in space exploration?
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250128T193117">2025-01-28 19:31:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250128T200135">2025-01-28 20:01:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
