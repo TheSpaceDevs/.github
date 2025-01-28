@@ -20,37 +20,34 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**New Shepard | NS-29**. It is scheduled to be launched by *Blue Origin*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Corn_Ranch">West Texas Suborbital Launch Site/ Corn Ranch</a>, Corn Ranch, Van Horn, TX, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250128T163000">2025-01-28 16:30:00 UTC</a>.  Until
+**GSLV Mk II | IRNSS-1K (NVS-02)**. It is scheduled to be launched by *Indian Space Research Organization*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Satish_Dhawan_Space_Centre_Second_Launch_Pad">Satish Dhawan Space Centre Second Launch Pad</a>, Satish Dhawan Space Centre, India*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250129T005300">2025-01-29 00:53:00 UTC</a>.  Until
 then, this pad will have been used for 28
-out of 28 launches from this location. The launch status is currently
-*Hold* 🟪 . The mission type is
-*Suborbital* and the payload will be injected
-into *a Suborbital
-(Sub)*.
+out of 97 launches from this location. The launch status is currently
+*Go* 🟩 . The mission type is
+*Navigation* and the payload will be injected
+into *a Geostationary Transfer Orbit
+(GTO)*.
 <br>
 <blockquote>
-  NS-29 will simulate the Moon’s gravity and fly 30 payloads, all but one of which is focused on testing lunar-related technologies.
-
-The payloads will experience at least two minutes of lunar gravity forces, a first for New Shepard and made possible in part through support from NASA. The flight will test six broad lunar technology areas: In-situ resource utilization, dust mitigation, advanced habitation systems, sensors and instrumentation, small spacecraft technologies, and entry descent and landing. Proving out these technologies at lower cost is another step toward Blue Origin’s mission to lower the cost of access to space for the benefit of Earth. It also enables NASA and other lunar surface technology providers to test innovations critical to achieving Artemis program goals and exploring the Moon’s surface. 
-
-The New Shepard crew capsule is using its Reaction Control System (RCS) to spin up to approximately 11 revolutions per minute. This spin rate simulates one-sixth Earth gravity at the midpoint of the crew capsule lockers. In simulated lunar gravity, customers can accelerate their learning and technology readiness for lunar payloads at much lower cost.
+  This is a replacement satellite for the Indian Regional Navigation Satellite System. The constellation will provide India with an alternative to GPS and will be used for military and civilian use. Located at a geosynchronous orbit, the system will be operated by the Indian government.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/New_Shepard" >
+  <a href="https://en.wikipedia.org/wiki/Geosynchronous_Satellite_Launch_Vehicle" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=31.422878000000000,-104.757121000000000" >
+  <a href="https://www.google.com/maps?q=13.7199,80.2304" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250129T005300">2025-01-29 00:53:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=GSLV Mk II | IRNSS-1K (NVS-02)&location=Satish Dhawan Space Centre, India&dates=20250129T005300Z%2F20250129T005300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **GSLV Mk II | IRNSS-1K (NVS-02)** from Satish Dhawan Space Centre, India.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250129T163000">2025-01-29 16:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Shepard | NS-29&location=Corn Ranch, Van Horn, TX, USA&dates=20250129T163000Z%2F20250129T233000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Shepard | NS-29** from Corn Ranch, Van Horn, TX, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250130T013400">2025-01-30 01:34:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SpainSat NG I&location=Kennedy Space Center, FL, USA&dates=20250130T013400Z%2F20250130T033400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | SpainSat NG I** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250130T233200">2025-01-30 23:32:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-4&location=Vandenberg SFB, CA, USA&dates=20250130T233200Z%2F20250131T040300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-4** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250201T083000">2025-02-01 08:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=H3-22 | Michibiki 6 (QZS-6)&location=Tanegashima Space Center, Japan&dates=20250201T083000Z%2F20250201T103000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **H3-22 | Michibiki 6 (QZS-6)** from Tanegashima Space Center, Japan.
@@ -109,12 +106,12 @@ The New Shepard crew capsule is using its Reaction Control System (RCS) to spin 
 ### Launch-related News 🚀
 
 - <a href="https://www.nasaspaceflight.com/2025/01/launch-roundup-270124/" >🔗</a> **[NASASpaceflight]** Launch Roundup: New Shepard to simulate lunar gravity, India and Japan to launch navigation satellites.
-- <a href="https://spacenews.com/new-shepard-flight-to-demonstrate-lunar-gravity/" >🔗</a> **[SpaceNews]** New Shepard flight to demonstrate lunar gravity
+- <a href="https://spacenews.com/india-eyes-record-year-for-space-with-10-planned-launches/" >🔗</a> **[SpaceNews]** India eyes record year for space with 10 planned launches
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250128T173122">2025-01-28 17:31:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250128T180137">2025-01-28 18:01:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
