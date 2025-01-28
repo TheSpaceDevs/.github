@@ -91,6 +91,8 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/wolf-moon-in-washington/" >🔗</a> **[NASA]** Wolf Moon in Washington
+- <a href="https://spacenews.com/space-force-still-mapping-out-strategy-for-in-orbit-logistics-and-satellite-services/" >🔗</a> **[SpaceNews]** Space Force still mapping out strategy for in-orbit logistics and satellite services
 - <a href="https://spacenews.com/esa-enlists-thales-alenia-space-for-mission-to-venus/" >🔗</a> **[SpaceNews]** ESA enlists Thales Alenia Space for mission to Venus
 - <a href="https://www.nasa.gov/solar-system/nasa-juno-mission-spots-most-powerful-volcanic-activity-on-io-to-date/" >🔗</a> **[NASA]** NASA Juno Mission Spots Most Powerful Volcanic Activity on Io to Date
 - <a href="https://www.nasa.gov/image-article/nasas-punch-mission-tests-solar-arrays-before-launch/" >🔗</a> **[NASA]** NASA’s PUNCH Mission Tests Solar Arrays Before Launch
@@ -99,8 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spacenews.com/theresa-condor-spire-global-commercial-space-transformers/" >🔗</a> **[SpaceNews]** Theresa Condor, Spire Global – Commercial Space Transformers
 - <a href="https://www.nasa.gov/general/2024-annual-report-highlights-langleys-wonder-at-work/" >🔗</a> **[NASA]** 2024 Annual Report Highlights Langley’s Wonder at Work
 - <a href="https://spacenews.com/will-ai-redefine-human-roles-in-space-exploration/" >🔗</a> **[SpaceNews]** Will AI redefine human roles in space exploration?
-- <a href="https://spacenews.com/trump-orders-iron-dome-for-america-in-sweeping-missile-defense-push/" >🔗</a> **[SpaceNews]** Trump orders ‘Iron Dome for America’ in sweeping missile defense push
-- <a href="https://spacenews.com/aerospace-corp-and-google-public-sector-join-forces-to-advance-space-weather-forecasting/" >🔗</a> **[SpaceNews]** Aerospace Corp. and Google Public Sector join forces to advance space-weather forecasting
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250128T190127">2025-01-28 19:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250128T193117">2025-01-28 19:31:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
