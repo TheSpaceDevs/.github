@@ -95,6 +95,7 @@ The New Shepard crew capsule is using its Reaction Control System (RCS) to spin 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/firefly-pressing-ahead-with-alpha-launches-from-wallops-and-sweden/" >🔗</a> **[SpaceNews]** Firefly pressing ahead with Alpha launches from Wallops and Sweden
 - <a href="https://europeanspaceflight.com/arianespace-to-launch-second-ariane-6-rocket-on-26-february/" >🔗</a> **[European Spaceflight]** Arianespace to Launch Second Ariane 6 Rocket on 26 February
 - <a href="https://www.nasaspaceflight.com/2025/01/launch-roundup-270124/" >🔗</a> **[NASASpaceflight]** Launch Roundup: New Shepard to simulate lunar gravity, India and Japan to launch navigation satellites.
 - <a href="https://www.nasa.gov/news-release/nasa-to-preview-sky-mapping-space-telescope-ahead-of-launch/" >🔗</a> **[NASA]** NASA to Preview Sky-Mapping Space Telescope Ahead of Launch
@@ -104,7 +105,6 @@ The New Shepard crew capsule is using its Reaction Control System (RCS) to spin 
 - <a href="https://spacenews.com/chinese-launch-startup-secures-early-funding-for-fully-reusable-rocket-plan/" >🔗</a> **[SpaceNews]** Chinese launch startup secures early funding for fully reusable rocket plan
 - <a href="https://www.nasa.gov/image-article/black-holes-can-cook-for-themselves-chandra-study-shows/" >🔗</a> **[NASA]** Black Holes Can Cook for Themselves, Chandra Study Shows
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-pre-super-bowl-tours-at-new-orleans-facility/" >🔗</a> **[NASA]** NASA Invites Media to Pre-Super Bowl Tours at New Orleans Facility
-- <a href="https://spacenews.com/sen-unveils-4k-livestream-of-earth-and-space-station-docking-port/" >🔗</a> **[SpaceNews]** Sen unveils 4K livestream of Earth and space station docking port
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ The New Shepard crew capsule is using its Reaction Control System (RCS) to spin 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250128T100125">2025-01-28 10:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250128T103407">2025-01-28 10:34:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
