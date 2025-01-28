@@ -95,12 +95,12 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.nasa.gov/missions/artemis/how-to-fly-nasas-orion-spacecraft/" >🔗</a> **[NASA]** How to Fly NASA’s Orion Spacecraft
 - <a href="https://www.nasa.gov/image-article/wolf-moon-in-washington/" >🔗</a> **[NASA]** Wolf Moon in Washington
 - <a href="https://spacenews.com/space-force-still-mapping-out-strategy-for-in-orbit-logistics-and-satellite-services/" >🔗</a> **[SpaceNews]** Space Force still mapping out strategy for in-orbit logistics and satellite services
+- <a href="https://spacenews.com/alicia-brown-joins-commercial-space-federation-as-executive-director/" >🔗</a> **[SpaceNews]** Alicia Brown Joins Commercial Space Federation as Executive Director
 - <a href="https://spacenews.com/esa-enlists-thales-alenia-space-for-mission-to-venus/" >🔗</a> **[SpaceNews]** ESA enlists Thales Alenia Space for mission to Venus
 - <a href="https://www.nasa.gov/solar-system/nasa-juno-mission-spots-most-powerful-volcanic-activity-on-io-to-date/" >🔗</a> **[NASA]** NASA Juno Mission Spots Most Powerful Volcanic Activity on Io to Date
 - <a href="https://www.nasa.gov/image-article/nasas-punch-mission-tests-solar-arrays-before-launch/" >🔗</a> **[NASA]** NASA’s PUNCH Mission Tests Solar Arrays Before Launch
 - <a href="https://www.nasa.gov/general/langleys-wonder-changes-the-world-2023-annual-report-spotlights-contributions/" >🔗</a> **[NASA]** Langley’s Wonder Changes The World, 2023 Annual Report Spotlights Contributions
 - <a href="https://arstechnica.com/tech-policy/2025/01/bowing-to-trump-google-maps-plans-to-quickly-rename-the-gulf-of-mexico/" >🔗</a> **[Arstechnica]** Bowing to Trump, Google Maps plans to “quickly” rename the Gulf of Mexico
-- <a href="https://spacenews.com/theresa-condor-spire-global-commercial-space-transformers/" >🔗</a> **[SpaceNews]** Theresa Condor, Spire Global – Commercial Space Transformers
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250128T220120">2025-01-28 22:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250128T223252">2025-01-28 22:32:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
