@@ -24,10 +24,10 @@ The next space launch, retrieved from our
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
 from *<a href="https://en.wikipedia.org/wiki/Corn_Ranch">West Texas Suborbital Launch Site/ Corn Ranch</a>, Corn Ranch, Van Horn, TX, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250128T160000">2025-01-28 16:00:00 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250128T163000">2025-01-28 16:30:00 UTC</a>.  Until
 then, this pad will have been used for 28
 out of 28 launches from this location. The launch status is currently
-*Go* 🟩 . The mission type is
+*Hold* 🟪 . The mission type is
 *Suborbital* and the payload will be injected
 into *a Suborbital
 (Sub)*.
@@ -94,6 +94,8 @@ The New Shepard crew capsule is using its Reaction Control System (RCS) to spin 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/solar-system/nasa-juno-mission-spots-most-powerful-volcanic-activity-on-io-to-date/" >🔗</a> **[NASA]** NASA Juno Mission Spots Most Powerful Volcanic Activity on Io to Date
+- <a href="https://www.nasa.gov/image-article/nasas-punch-mission-tests-solar-arrays-before-launch/" >🔗</a> **[NASA]** NASA’s PUNCH Mission Tests Solar Arrays Before Launch
 - <a href="https://www.nasa.gov/general/langleys-wonder-changes-the-world-2023-annual-report-spotlights-contributions/" >🔗</a> **[NASA]** Langley’s Wonder Changes The World, 2023 Annual Report Spotlights Contributions
 - <a href="https://arstechnica.com/tech-policy/2025/01/bowing-to-trump-google-maps-plans-to-quickly-rename-the-gulf-of-mexico/" >🔗</a> **[Arstechnica]** Bowing to Trump, Google Maps plans to “quickly” rename the Gulf of Mexico
 - <a href="https://spacenews.com/theresa-condor-spire-global-commercial-space-transformers/" >🔗</a> **[SpaceNews]** Theresa Condor, Spire Global – Commercial Space Transformers
@@ -102,8 +104,6 @@ The New Shepard crew capsule is using its Reaction Control System (RCS) to spin 
 - <a href="https://spacenews.com/trump-orders-iron-dome-for-america-in-sweeping-missile-defense-push/" >🔗</a> **[SpaceNews]** Trump orders ‘Iron Dome for America’ in sweeping missile defense push
 - <a href="https://spacenews.com/aerospace-corp-and-google-public-sector-join-forces-to-advance-space-weather-forecasting/" >🔗</a> **[SpaceNews]** Aerospace Corp. and Google Public Sector join forces to advance space-weather forecasting
 - <a href="https://www.esa.int/About_Us/Business_with_ESA/ESA_grows_private_investment_in_Europe_s_space_sector" >🔗</a> **[ESA]** ESA grows private investment in Europe’s space sector
-- <a href="https://spacenews.com/firefly-pressing-ahead-with-alpha-launches-from-wallops-and-sweden/" >🔗</a> **[SpaceNews]** Firefly pressing ahead with Alpha launches from Wallops and Sweden
-- <a href="https://europeanspaceflight.com/arianespace-to-launch-second-ariane-6-rocket-on-26-february/" >🔗</a> **[European Spaceflight]** Arianespace to Launch Second Ariane 6 Rocket on 26 February
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ The New Shepard crew capsule is using its Reaction Control System (RCS) to spin 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250128T160125">2025-01-28 16:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250128T163523">2025-01-28 16:35:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
