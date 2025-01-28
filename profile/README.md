@@ -95,6 +95,9 @@ The New Shepard crew capsule is using its Reaction Control System (RCS) to spin 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/trump-orders-iron-dome-for-america-in-sweeping-missile-defense-push/" >🔗</a> **[SpaceNews]** Trump orders ‘Iron Dome for America’ in sweeping missile defense push
+- <a href="https://spacenews.com/aerospace-corp-and-google-public-sector-join-forces-to-advance-space-weather-forecasting/" >🔗</a> **[SpaceNews]** Aerospace Corp. and Google Public Sector join forces to advance space-weather forecasting
+- <a href="https://www.esa.int/About_Us/Business_with_ESA/ESA_grows_private_investment_in_Europe_s_space_sector" >🔗</a> **[ESA]** ESA grows private investment in Europe’s space sector
 - <a href="https://spacenews.com/firefly-pressing-ahead-with-alpha-launches-from-wallops-and-sweden/" >🔗</a> **[SpaceNews]** Firefly pressing ahead with Alpha launches from Wallops and Sweden
 - <a href="https://europeanspaceflight.com/arianespace-to-launch-second-ariane-6-rocket-on-26-february/" >🔗</a> **[European Spaceflight]** Arianespace to Launch Second Ariane 6 Rocket on 26 February
 - <a href="https://www.nasaspaceflight.com/2025/01/launch-roundup-270124/" >🔗</a> **[NASASpaceflight]** Launch Roundup: New Shepard to simulate lunar gravity, India and Japan to launch navigation satellites.
@@ -102,9 +105,6 @@ The New Shepard crew capsule is using its Reaction Control System (RCS) to spin 
 - <a href="https://spacenews.com/array-labs-raytheon-umbra-form-partnership-focused-on-3d-mapping-from-space/" >🔗</a> **[SpaceNews]** Array Labs, Raytheon, Umbra form partnership focused on 3D mapping from space
 - <a href="https://www.nasa.gov/general/station-science-top-news-jan-24-2025/" >🔗</a> **[NASA]** Station Science Top News: Jan. 24, 2025
 - <a href="https://www.nasa.gov/image-article/get-my-good-side/" >🔗</a> **[NASA]** Get My Good Side
-- <a href="https://spacenews.com/chinese-launch-startup-secures-early-funding-for-fully-reusable-rocket-plan/" >🔗</a> **[SpaceNews]** Chinese launch startup secures early funding for fully reusable rocket plan
-- <a href="https://www.nasa.gov/image-article/black-holes-can-cook-for-themselves-chandra-study-shows/" >🔗</a> **[NASA]** Black Holes Can Cook for Themselves, Chandra Study Shows
-- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-pre-super-bowl-tours-at-new-orleans-facility/" >🔗</a> **[NASA]** NASA Invites Media to Pre-Super Bowl Tours at New Orleans Facility
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ The New Shepard crew capsule is using its Reaction Control System (RCS) to spin 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250128T120154">2025-01-28 12:01:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250128T124230">2025-01-28 12:42:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
