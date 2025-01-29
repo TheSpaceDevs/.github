@@ -91,6 +91,8 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/trump-tells-musk-to-bring-back-stranded-iss-astronauts-spacex-already-planned-to-return/" >🔗</a> **[SpaceNews]** Trump tells Musk to bring back “stranded” ISS astronauts SpaceX already planned to return
+- <a href="https://spacenews.com/indias-first-launch-of-2025-sends-nvs-02-navigation-satellite-into-orbit/" >🔗</a> **[SpaceNews]** India’s first launch of 2025 sends NVS-02 navigation satellite into orbit
 - <a href="https://spacenews.com/faa-optimistic-launch-companies-will-switch-to-new-regulations-by-2026-deadline/" >🔗</a> **[SpaceNews]** FAA optimistic launch companies will switch to new regulations by 2026 deadline
 - <a href="https://spacepolicyonline.com/news/trump-musk-imply-changes-to-butch-and-sunis-return/" >🔗</a> **[SpacePolicyOnline.com]** Trump, Musk Imply Changes to Butch and Suni’s Return
 - <a href="https://europeanspaceflight.com/uk-government-backs-orbex-with-20m-investment/" >🔗</a> **[European Spaceflight]** UK Government Backs Orbex with £20M Investment
@@ -99,8 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spaceflightnow.com/2025/01/28/musk-president-trump-calls-for-fast-track-return-to-earth-of-the-former-starliner-astronauts/" >🔗</a> **[Spaceflight Now]** Musk: President Trump calls for fast-track return to Earth of the former Starliner astronauts
 - <a href="https://arstechnica.com/space/2025/01/why-did-elon-musk-just-say-trump-wants-to-bring-two-stranded-astronauts-home/" >🔗</a> **[Arstechnica]** Why did Elon Musk just say Trump wants to bring two stranded astronauts home?
 - <a href="https://arstechnica.com/gadgets/2025/01/for-the-first-time-a-privately-developed-aircraft-has-flown-faster-than-sound/" >🔗</a> **[Arstechnica]** For the first time, a privately developed aircraft has flown faster than sound
-- <a href="https://www.nasa.gov/missions/artemis/how-to-fly-nasas-orion-spacecraft/" >🔗</a> **[NASA]** How to Fly NASA’s Orion Spacecraft
-- <a href="https://www.nasa.gov/image-article/wolf-moon-in-washington/" >🔗</a> **[NASA]** Wolf Moon in Washington
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250129T100125">2025-01-29 10:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250129T103358">2025-01-29 10:33:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
