@@ -91,16 +91,16 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/satellite-backlog-emerges-as-key-constraint-at-the-nations-busiest-spaceport/" >🔗</a> **[SpaceNews]** Satellite backlog emerges as key constraint at the nation’s busiest spaceport
+- <a href="https://spacenews.com/york-unveils-m-class-satellite-for-1000-kilogram-payloads/" >🔗</a> **[SpaceNews]** York unveils M-Class satellite for 1,000-kilogram payloads
+- <a href="https://spacenews.com/planet-announces-230-million-contract-from-asia-pacific-customer/" >🔗</a> **[SpaceNews]** Planet announces $230 million contract from Asia-Pacific customer
+- <a href="https://spacenews.com/connecting-the-dots-growth-amid-uncertainty/" >🔗</a> **[SpaceNews]** Connecting the Dots | Growth amid uncertainty
+- <a href="https://arstechnica.com/space/2025/01/astroforge-selects-target-for-high-risk-seat-of-the-pants-asteroid-mission/" >🔗</a> **[Arstechnica]** AstroForge selects target for “high risk, seat of the pants” asteroid mission
 - <a href="https://spacenews.com/trump-tells-musk-to-bring-back-stranded-iss-astronauts-spacex-already-planned-to-return/" >🔗</a> **[SpaceNews]** Trump tells Musk to bring back “stranded” ISS astronauts SpaceX already planned to return
 - <a href="https://spacenews.com/indias-first-launch-of-2025-sends-nvs-02-navigation-satellite-into-orbit/" >🔗</a> **[SpaceNews]** India’s first launch of 2025 sends NVS-02 navigation satellite into orbit
 - <a href="https://spacenews.com/faa-optimistic-launch-companies-will-switch-to-new-regulations-by-2026-deadline/" >🔗</a> **[SpaceNews]** FAA optimistic launch companies will switch to new regulations by 2026 deadline
 - <a href="https://spacepolicyonline.com/news/trump-musk-imply-changes-to-butch-and-sunis-return/" >🔗</a> **[SpacePolicyOnline.com]** Trump, Musk Imply Changes to Butch and Suni’s Return
 - <a href="https://europeanspaceflight.com/uk-government-backs-orbex-with-20m-investment/" >🔗</a> **[European Spaceflight]** UK Government Backs Orbex with £20M Investment
-- <a href="https://spacenews.com/dod-says-contracts-continue-amid-confusion-over-white-house-order/" >🔗</a> **[SpaceNews]** DoD says contracts continue amid confusion over White House order
-- <a href="https://spacenews.com/space-force-projects-ula-to-outpace-spacex-in-2025-national-security-missions/" >🔗</a> **[SpaceNews]** Space Force projects ULA to outpace SpaceX in 2025 national security missions
-- <a href="https://spaceflightnow.com/2025/01/28/musk-president-trump-calls-for-fast-track-return-to-earth-of-the-former-starliner-astronauts/" >🔗</a> **[Spaceflight Now]** Musk: President Trump calls for fast-track return to Earth of the former Starliner astronauts
-- <a href="https://arstechnica.com/space/2025/01/why-did-elon-musk-just-say-trump-wants-to-bring-two-stranded-astronauts-home/" >🔗</a> **[Arstechnica]** Why did Elon Musk just say Trump wants to bring two stranded astronauts home?
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Plato/Planet_hunter_Plato_to_fly_on_Ariane_6" >🔗</a> **[ESA]** Planet hunter Plato to fly on Ariane 6
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250129T140124">2025-01-29 14:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250129T143307">2025-01-29 14:33:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
