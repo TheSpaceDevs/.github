@@ -91,6 +91,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-projects-ula-to-outpace-spacex-in-2025-national-security-missions/" >🔗</a> **[SpaceNews]** Space Force projects ULA to outpace SpaceX in 2025 national security missions
 - <a href="https://spaceflightnow.com/2025/01/28/musk-president-trump-calls-for-fast-track-return-to-earth-of-the-former-starliner-astronauts/" >🔗</a> **[Spaceflight Now]** Musk: President Trump calls for fast-track return to Earth of the former Starliner astronauts
 - <a href="https://arstechnica.com/space/2025/01/why-did-elon-musk-just-say-trump-wants-to-bring-two-stranded-astronauts-home/" >🔗</a> **[Arstechnica]** Why did Elon Musk just say Trump wants to bring two stranded astronauts home?
 - <a href="https://arstechnica.com/gadgets/2025/01/for-the-first-time-a-privately-developed-aircraft-has-flown-faster-than-sound/" >🔗</a> **[Arstechnica]** For the first time, a privately developed aircraft has flown faster than sound
@@ -100,7 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spacenews.com/alicia-brown-joins-commercial-space-federation-as-executive-director/" >🔗</a> **[SpaceNews]** Alicia Brown Joins Commercial Space Federation as Executive Director
 - <a href="https://spacenews.com/esa-enlists-thales-alenia-space-for-mission-to-venus/" >🔗</a> **[SpaceNews]** ESA enlists Thales Alenia Space for mission to Venus
 - <a href="https://www.nasa.gov/solar-system/nasa-juno-mission-spots-most-powerful-volcanic-activity-on-io-to-date/" >🔗</a> **[NASA]** NASA Juno Mission Spots Most Powerful Volcanic Activity on Io to Date
-- <a href="https://www.nasa.gov/image-article/nasas-punch-mission-tests-solar-arrays-before-launch/" >🔗</a> **[NASA]** NASA’s PUNCH Mission Tests Solar Arrays Before Launch
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250129T000408">2025-01-29 00:04:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250129T004533">2025-01-29 00:45:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
