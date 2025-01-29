@@ -91,6 +91,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/science-research/biological-physical-sciences/6-nasa-experiments-on-materials-benefitting-space-and-earth/" >🔗</a> **[NASA]** 6 NASA Experiments on Materials, Benefitting Space and Earth
 - <a href="https://www.nasa.gov/image-article/geyser-season-on-mars/" >🔗</a> **[NASA]** Geyser Season on Mars
 - <a href="https://www.nasa.gov/news-release/muestra-de-la-nasa-del-asteroide-bennu-revela-un-caldo-con-los-ingredientes-de-la-vida/" >🔗</a> **[NASA]** Muestra de la NASA del asteroide Bennu revela un ‘caldo’ con los ingredientes de la vida
 - <a href="https://www.nasa.gov/news-release/nasas-asteroid-bennu-sample-reveals-mix-of-lifes-ingredients/" >🔗</a> **[NASA]** NASA’s Asteroid Bennu Sample Reveals Mix of Life’s Ingredients
@@ -100,7 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spacenews.com/satellite-backlog-emerges-as-key-constraint-at-the-nations-busiest-spaceport/" >🔗</a> **[SpaceNews]** Satellite backlog emerges as key constraint at the nation’s busiest spaceport
 - <a href="https://spacenews.com/york-unveils-m-class-satellite-for-1000-kilogram-payloads/" >🔗</a> **[SpaceNews]** York unveils M-Class satellite for 1,000-kilogram payloads
 - <a href="https://spacenews.com/planet-announces-230-million-contract-from-asia-pacific-customer/" >🔗</a> **[SpaceNews]** Planet announces $230 million contract from Asia-Pacific customer
-- <a href="https://spacenews.com/connecting-the-dots-growth-amid-uncertainty/" >🔗</a> **[SpaceNews]** Connecting the Dots | Growth amid uncertainty
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250129T190116">2025-01-29 19:01:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250129T193104">2025-01-29 19:31:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
