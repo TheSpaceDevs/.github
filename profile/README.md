@@ -91,6 +91,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/muestra-de-la-nasa-del-asteroide-bennu-revela-un-caldo-con-los-ingredientes-de-la-vida/" >🔗</a> **[NASA]** Muestra de la NASA del asteroide Bennu revela un ‘caldo’ con los ingredientes de la vida
 - <a href="https://www.nasa.gov/news-release/nasas-asteroid-bennu-sample-reveals-mix-of-lifes-ingredients/" >🔗</a> **[NASA]** NASA’s Asteroid Bennu Sample Reveals Mix of Life’s Ingredients
 - <a href="https://spaceflightnow.com/2025/01/29/live-coverage-spacex-to-launch-spainsat-new-generation-1-satellite-on-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch SpainSat New Generation 1 satellite on Falcon 9 rocket from the Kennedy Space Center
 - <a href="https://www.esa.int/Space_Safety/Planetary_Defence/ESA_actively_monitoring_near-Earth_asteroid_2024_YR4" >🔗</a> **[ESA]** ESA actively monitoring near-Earth asteroid 2024 YR4
@@ -100,7 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spacenews.com/planet-announces-230-million-contract-from-asia-pacific-customer/" >🔗</a> **[SpaceNews]** Planet announces $230 million contract from Asia-Pacific customer
 - <a href="https://spacenews.com/connecting-the-dots-growth-amid-uncertainty/" >🔗</a> **[SpaceNews]** Connecting the Dots | Growth amid uncertainty
 - <a href="https://arstechnica.com/space/2025/01/astroforge-selects-target-for-high-risk-seat-of-the-pants-asteroid-mission/" >🔗</a> **[Arstechnica]** AstroForge selects target for “high risk, seat of the pants” asteroid mission
-- <a href="https://spacenews.com/trump-tells-musk-to-bring-back-stranded-iss-astronauts-spacex-already-planned-to-return/" >🔗</a> **[SpaceNews]** Trump tells Musk to bring back “stranded” ISS astronauts SpaceX already planned to return
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250129T170130">2025-01-29 17:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250129T173206">2025-01-29 17:32:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
