@@ -91,6 +91,8 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-rules-out-immediate-crew-9-return-saying-astronauts-will-come-back-as-soon-as-practical/" >🔗</a> **[SpaceNews]** NASA rules out immediate Crew-9 return, saying astronauts will come back “as soon as practical”
+- <a href="https://www.nasaspaceflight.com/2025/01/following-flight-7-starship-flight-8/" >🔗</a> **[NASASpaceflight]** Following Flight 7 SpaceX line up future Starships
 - <a href="https://science.nasa.gov/science-research/biological-physical-sciences/6-nasa-experiments-on-materials-benefitting-space-and-earth/" >🔗</a> **[NASA]** 6 NASA Experiments on Materials, Benefitting Space and Earth
 - <a href="https://www.nasa.gov/image-article/geyser-season-on-mars/" >🔗</a> **[NASA]** Geyser Season on Mars
 - <a href="https://www.nasa.gov/news-release/muestra-de-la-nasa-del-asteroide-bennu-revela-un-caldo-con-los-ingredientes-de-la-vida/" >🔗</a> **[NASA]** Muestra de la NASA del asteroide Bennu revela un ‘caldo’ con los ingredientes de la vida
@@ -99,8 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.esa.int/Space_Safety/Planetary_Defence/ESA_actively_monitoring_near-Earth_asteroid_2024_YR4" >🔗</a> **[ESA]** ESA actively monitoring near-Earth asteroid 2024 YR4
 - <a href="https://spacenews.com/astroforge-announces-asteroid-target-for-upcoming-mission/" >🔗</a> **[SpaceNews]** AstroForge announces asteroid target for upcoming mission
 - <a href="https://spacenews.com/satellite-backlog-emerges-as-key-constraint-at-the-nations-busiest-spaceport/" >🔗</a> **[SpaceNews]** Satellite backlog emerges as key constraint at the nation’s busiest spaceport
-- <a href="https://spacenews.com/york-unveils-m-class-satellite-for-1000-kilogram-payloads/" >🔗</a> **[SpaceNews]** York unveils M-Class satellite for 1,000-kilogram payloads
-- <a href="https://spacenews.com/planet-announces-230-million-contract-from-asia-pacific-customer/" >🔗</a> **[SpaceNews]** Planet announces $230 million contract from Asia-Pacific customer
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250129T193104">2025-01-29 19:31:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250129T200121">2025-01-29 20:01:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
