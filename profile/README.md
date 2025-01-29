@@ -100,7 +100,7 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spacenews.com/space-force-projects-ula-to-outpace-spacex-in-2025-national-security-missions/" >🔗</a> **[SpaceNews]** Space Force projects ULA to outpace SpaceX in 2025 national security missions
 - <a href="https://spaceflightnow.com/2025/01/28/musk-president-trump-calls-for-fast-track-return-to-earth-of-the-former-starliner-astronauts/" >🔗</a> **[Spaceflight Now]** Musk: President Trump calls for fast-track return to Earth of the former Starliner astronauts
 - <a href="https://arstechnica.com/space/2025/01/why-did-elon-musk-just-say-trump-wants-to-bring-two-stranded-astronauts-home/" >🔗</a> **[Arstechnica]** Why did Elon Musk just say Trump wants to bring two stranded astronauts home?
-- <a href="https://arstechnica.com/gadgets/2025/01/for-the-first-time-a-privately-developed-aircraft-has-flown-faster-than-sound/" >🔗</a> **[Arstechnica]** For the first time, a privately developed aircraft has flown faster than sound
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Plato/Planet_hunter_Plato_to_fly_on_Ariane_6" >🔗</a> **[ESA]** Planet hunter Plato to fly on Ariane 6
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250129T130508">2025-01-29 13:05:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250129T133253">2025-01-29 13:32:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
