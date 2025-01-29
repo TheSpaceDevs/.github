@@ -91,27 +91,28 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasas-asteroid-bennu-sample-reveals-mix-of-lifes-ingredients/" >🔗</a> **[NASA]** NASA’s Asteroid Bennu Sample Reveals Mix of Life’s Ingredients
+- <a href="https://spaceflightnow.com/2025/01/29/live-coverage-spacex-to-launch-spainsat-new-generation-1-satellite-on-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch SpainSat New Generation 1 satellite on Falcon 9 rocket from the Kennedy Space Center
+- <a href="https://www.esa.int/Space_Safety/Planetary_Defence/ESA_actively_monitoring_near-Earth_asteroid_2024_YR4" >🔗</a> **[ESA]** ESA actively monitoring near-Earth asteroid 2024 YR4
 - <a href="https://spacenews.com/astroforge-announces-asteroid-target-for-upcoming-mission/" >🔗</a> **[SpaceNews]** AstroForge announces asteroid target for upcoming mission
 - <a href="https://spacenews.com/satellite-backlog-emerges-as-key-constraint-at-the-nations-busiest-spaceport/" >🔗</a> **[SpaceNews]** Satellite backlog emerges as key constraint at the nation’s busiest spaceport
 - <a href="https://spacenews.com/york-unveils-m-class-satellite-for-1000-kilogram-payloads/" >🔗</a> **[SpaceNews]** York unveils M-Class satellite for 1,000-kilogram payloads
-- <a href="https://spacenews.com/connecting-the-dots-growth-amid-uncertainty/" >🔗</a> **[SpaceNews]** Connecting the Dots | Growth amid uncertainty
 - <a href="https://spacenews.com/planet-announces-230-million-contract-from-asia-pacific-customer/" >🔗</a> **[SpaceNews]** Planet announces $230 million contract from Asia-Pacific customer
+- <a href="https://spacenews.com/connecting-the-dots-growth-amid-uncertainty/" >🔗</a> **[SpaceNews]** Connecting the Dots | Growth amid uncertainty
 - <a href="https://arstechnica.com/space/2025/01/astroforge-selects-target-for-high-risk-seat-of-the-pants-asteroid-mission/" >🔗</a> **[Arstechnica]** AstroForge selects target for “high risk, seat of the pants” asteroid mission
 - <a href="https://spacenews.com/trump-tells-musk-to-bring-back-stranded-iss-astronauts-spacex-already-planned-to-return/" >🔗</a> **[SpaceNews]** Trump tells Musk to bring back “stranded” ISS astronauts SpaceX already planned to return
-- <a href="https://spacenews.com/indias-first-launch-of-2025-sends-nvs-02-navigation-satellite-into-orbit/" >🔗</a> **[SpaceNews]** India’s first launch of 2025 sends NVS-02 navigation satellite into orbit
-- <a href="https://spacenews.com/faa-optimistic-launch-companies-will-switch-to-new-regulations-by-2026-deadline/" >🔗</a> **[SpaceNews]** FAA optimistic launch companies will switch to new regulations by 2026 deadline
-- <a href="https://spacepolicyonline.com/news/trump-musk-imply-changes-to-butch-and-sunis-return/" >🔗</a> **[SpacePolicyOnline.com]** Trump, Musk Imply Changes to Butch and Suni’s Return
 
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2025/01/29/live-coverage-spacex-to-launch-spainsat-new-generation-1-satellite-on-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch SpainSat New Generation 1 satellite on Falcon 9 rocket from the Kennedy Space Center
 - <a href="https://www.nasaspaceflight.com/2025/01/launch-roundup-270124/" >🔗</a> **[NASASpaceflight]** Launch Roundup: New Shepard to simulate lunar gravity, India and Japan to launch navigation satellites.
 - <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/ESA_and_Hisdesat_set_to_launch_next-generation_secure_communications_satellite" >🔗</a> **[ESA]** ESA and Hisdesat set to launch next-generation secure communications satellite
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250129T160130">2025-01-29 16:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250129T163508">2025-01-29 16:35:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
