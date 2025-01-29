@@ -91,6 +91,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-partners-to-welcome-fourth-axiom-space-mission-to-space-station/" >🔗</a> **[NASA]** NASA, Partners to Welcome Fourth Axiom Space Mission to Space Station
 - <a href="https://spacenews.com/nasa-rules-out-immediate-crew-9-return-saying-astronauts-will-come-back-as-soon-as-practical/" >🔗</a> **[SpaceNews]** NASA rules out immediate Crew-9 return, saying astronauts will come back “as soon as practical”
 - <a href="https://www.nasaspaceflight.com/2025/01/following-flight-7-starship-flight-8/" >🔗</a> **[NASASpaceflight]** Following Flight 7 SpaceX line up future Starships
 - <a href="https://science.nasa.gov/science-research/biological-physical-sciences/6-nasa-experiments-on-materials-benefitting-space-and-earth/" >🔗</a> **[NASA]** 6 NASA Experiments on Materials, Benefitting Space and Earth
@@ -100,7 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spaceflightnow.com/2025/01/29/live-coverage-spacex-to-launch-spainsat-new-generation-1-satellite-on-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch SpainSat New Generation 1 satellite on Falcon 9 rocket from the Kennedy Space Center
 - <a href="https://www.esa.int/Space_Safety/Planetary_Defence/ESA_actively_monitoring_near-Earth_asteroid_2024_YR4" >🔗</a> **[ESA]** ESA actively monitoring near-Earth asteroid 2024 YR4
 - <a href="https://spacenews.com/astroforge-announces-asteroid-target-for-upcoming-mission/" >🔗</a> **[SpaceNews]** AstroForge announces asteroid target for upcoming mission
-- <a href="https://spacenews.com/satellite-backlog-emerges-as-key-constraint-at-the-nations-busiest-spaceport/" >🔗</a> **[SpaceNews]** Satellite backlog emerges as key constraint at the nation’s busiest spaceport
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250129T200121">2025-01-29 20:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250129T203146">2025-01-29 20:31:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
