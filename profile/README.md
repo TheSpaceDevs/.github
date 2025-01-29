@@ -91,6 +91,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/uk-government-backs-orbex-with-20m-investment/" >🔗</a> **[European Spaceflight]** UK Government Backs Orbex with £20M Investment
 - <a href="https://spacenews.com/dod-says-contracts-continue-amid-confusion-over-white-house-order/" >🔗</a> **[SpaceNews]** DoD says contracts continue amid confusion over White House order
 - <a href="https://spacenews.com/space-force-projects-ula-to-outpace-spacex-in-2025-national-security-missions/" >🔗</a> **[SpaceNews]** Space Force projects ULA to outpace SpaceX in 2025 national security missions
 - <a href="https://spaceflightnow.com/2025/01/28/musk-president-trump-calls-for-fast-track-return-to-earth-of-the-former-starliner-astronauts/" >🔗</a> **[Spaceflight Now]** Musk: President Trump calls for fast-track return to Earth of the former Starliner astronauts
@@ -100,7 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.nasa.gov/image-article/wolf-moon-in-washington/" >🔗</a> **[NASA]** Wolf Moon in Washington
 - <a href="https://spacenews.com/space-force-still-mapping-out-strategy-for-in-orbit-logistics-and-satellite-services/" >🔗</a> **[SpaceNews]** Space Force still mapping out strategy for in-orbit logistics and satellite services
 - <a href="https://spacenews.com/alicia-brown-joins-commercial-space-federation-as-executive-director/" >🔗</a> **[SpaceNews]** Alicia Brown Joins Commercial Space Federation as Executive Director
-- <a href="https://spacenews.com/esa-enlists-thales-alenia-space-for-mission-to-venus/" >🔗</a> **[SpaceNews]** ESA enlists Thales Alenia Space for mission to Venus
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250129T040132">2025-01-29 04:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250129T043337">2025-01-29 04:33:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
