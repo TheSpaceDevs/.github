@@ -20,33 +20,32 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**GSLV Mk II | IRNSS-1K (NVS-02)**. It is scheduled to be launched by *Indian Space Research Organization*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Satish_Dhawan_Space_Centre_Second_Launch_Pad">Satish Dhawan Space Centre Second Launch Pad</a>, Satish Dhawan Space Centre, India*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250129T005300">2025-01-29 00:53:00 UTC</a>.  Until
-then, this pad will have been used for 28
-out of 97 launches from this location. The launch status is currently
+**Falcon 9 Block 5 | SpainSat NG I**. It is scheduled to be launched by *SpaceX*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39A">Launch Complex 39A</a>, Kennedy Space Center, FL, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250130T013400">2025-01-30 01:34:00 UTC</a>.  Until
+then, this pad will have been used for 197
+out of 255 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Navigation* and the payload will be injected
+*Communications* and the payload will be injected
 into *a Geostationary Transfer Orbit
 (GTO)*.
 <br>
 <blockquote>
-  This is a replacement satellite for the Indian Regional Navigation Satellite System. The constellation will provide India with an alternative to GPS and will be used for military and civilian use. Located at a geosynchronous orbit, the system will be operated by the Indian government.
+  First of two new-generation satellites built by Airbus to provide secure communications to the Spanish government, its allies, and various international organizations.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Geosynchronous_Satellite_Launch_Vehicle" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=13.7199,80.2304" >
+  <a href="https://www.google.com/maps?q=28.60822681,-80.60428186" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250129T005300">2025-01-29 00:53:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=GSLV Mk II | IRNSS-1K (NVS-02)&location=Satish Dhawan Space Centre, India&dates=20250129T005300Z%2F20250129T005300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **GSLV Mk II | IRNSS-1K (NVS-02)** from Satish Dhawan Space Centre, India.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250130T013400">2025-01-30 01:34:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SpainSat NG I&location=Kennedy Space Center, FL, USA&dates=20250130T013400Z%2F20250130T033400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | SpainSat NG I** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250130T153000">2025-01-30 15:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Shepard | NS-29&location=Corn Ranch, Van Horn, TX, USA&dates=20250130T153000Z%2F20250130T233000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Shepard | NS-29** from Corn Ranch, Van Horn, TX, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250130T233200">2025-01-30 23:32:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-4&location=Vandenberg SFB, CA, USA&dates=20250130T233200Z%2F20250131T040300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-4** from Vandenberg SFB, CA, USA.
@@ -56,6 +55,7 @@ into *a Geostationary Transfer Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250203T233200">2025-02-03 23:32:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | WorldView Legion 5 &amp; 6&location=Kennedy Space Center, FL, USA&dates=20250203T233200Z%2F20250203T233200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | WorldView Legion 5 & 6** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250211T095300">2025-02-11 09:53:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 8A | Demo Flight&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20250211T095300Z%2F20250211T104200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 8A | Demo Flight** from Wenchang Space Launch Site, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250226T000000">2025-02-26 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Lunar Trailblazer &amp; Nova-C IM-2&location=Kennedy Space Center, FL, USA&dates=20250226T000000Z%2F20250226T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Lunar Trailblazer & Nova-C IM-2** from Kennedy Space Center, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250226T162400">2025-02-26 16:24:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ariane 62 | CSO-3&location=Guiana Space Centre, French Guiana&dates=20250226T162400Z%2F20250226T162400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ariane 62 | CSO-3** from Guiana Space Centre, French Guiana.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -91,6 +91,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/dod-says-contracts-continue-amid-confusion-over-white-house-order/" >🔗</a> **[SpaceNews]** DoD says contracts continue amid confusion over White House order
 - <a href="https://spacenews.com/space-force-projects-ula-to-outpace-spacex-in-2025-national-security-missions/" >🔗</a> **[SpaceNews]** Space Force projects ULA to outpace SpaceX in 2025 national security missions
 - <a href="https://spaceflightnow.com/2025/01/28/musk-president-trump-calls-for-fast-track-return-to-earth-of-the-former-starliner-astronauts/" >🔗</a> **[Spaceflight Now]** Musk: President Trump calls for fast-track return to Earth of the former Starliner astronauts
 - <a href="https://arstechnica.com/space/2025/01/why-did-elon-musk-just-say-trump-wants-to-bring-two-stranded-astronauts-home/" >🔗</a> **[Arstechnica]** Why did Elon Musk just say Trump wants to bring two stranded astronauts home?
@@ -100,18 +101,17 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spacenews.com/space-force-still-mapping-out-strategy-for-in-orbit-logistics-and-satellite-services/" >🔗</a> **[SpaceNews]** Space Force still mapping out strategy for in-orbit logistics and satellite services
 - <a href="https://spacenews.com/alicia-brown-joins-commercial-space-federation-as-executive-director/" >🔗</a> **[SpaceNews]** Alicia Brown Joins Commercial Space Federation as Executive Director
 - <a href="https://spacenews.com/esa-enlists-thales-alenia-space-for-mission-to-venus/" >🔗</a> **[SpaceNews]** ESA enlists Thales Alenia Space for mission to Venus
-- <a href="https://www.nasa.gov/solar-system/nasa-juno-mission-spots-most-powerful-volcanic-activity-on-io-to-date/" >🔗</a> **[NASA]** NASA Juno Mission Spots Most Powerful Volcanic Activity on Io to Date
 
 
 ### Launch-related News 🚀
 
 - <a href="https://www.nasaspaceflight.com/2025/01/launch-roundup-270124/" >🔗</a> **[NASASpaceflight]** Launch Roundup: New Shepard to simulate lunar gravity, India and Japan to launch navigation satellites.
-- <a href="https://spacenews.com/india-eyes-record-year-for-space-with-10-planned-launches/" >🔗</a> **[SpaceNews]** India eyes record year for space with 10 planned launches
+- <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/ESA_and_Hisdesat_set_to_launch_next-generation_secure_communications_satellite" >🔗</a> **[ESA]** ESA and Hisdesat set to launch next-generation secure communications satellite
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250129T004533">2025-01-29 00:45:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250129T012812">2025-01-29 01:28:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
