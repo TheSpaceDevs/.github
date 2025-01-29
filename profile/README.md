@@ -91,16 +91,16 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/astroforge-announces-asteroid-target-for-upcoming-mission/" >🔗</a> **[SpaceNews]** AstroForge announces asteroid target for upcoming mission
 - <a href="https://spacenews.com/satellite-backlog-emerges-as-key-constraint-at-the-nations-busiest-spaceport/" >🔗</a> **[SpaceNews]** Satellite backlog emerges as key constraint at the nation’s busiest spaceport
 - <a href="https://spacenews.com/york-unveils-m-class-satellite-for-1000-kilogram-payloads/" >🔗</a> **[SpaceNews]** York unveils M-Class satellite for 1,000-kilogram payloads
-- <a href="https://spacenews.com/planet-announces-230-million-contract-from-asia-pacific-customer/" >🔗</a> **[SpaceNews]** Planet announces $230 million contract from Asia-Pacific customer
 - <a href="https://spacenews.com/connecting-the-dots-growth-amid-uncertainty/" >🔗</a> **[SpaceNews]** Connecting the Dots | Growth amid uncertainty
+- <a href="https://spacenews.com/planet-announces-230-million-contract-from-asia-pacific-customer/" >🔗</a> **[SpaceNews]** Planet announces $230 million contract from Asia-Pacific customer
 - <a href="https://arstechnica.com/space/2025/01/astroforge-selects-target-for-high-risk-seat-of-the-pants-asteroid-mission/" >🔗</a> **[Arstechnica]** AstroForge selects target for “high risk, seat of the pants” asteroid mission
 - <a href="https://spacenews.com/trump-tells-musk-to-bring-back-stranded-iss-astronauts-spacex-already-planned-to-return/" >🔗</a> **[SpaceNews]** Trump tells Musk to bring back “stranded” ISS astronauts SpaceX already planned to return
 - <a href="https://spacenews.com/indias-first-launch-of-2025-sends-nvs-02-navigation-satellite-into-orbit/" >🔗</a> **[SpaceNews]** India’s first launch of 2025 sends NVS-02 navigation satellite into orbit
 - <a href="https://spacenews.com/faa-optimistic-launch-companies-will-switch-to-new-regulations-by-2026-deadline/" >🔗</a> **[SpaceNews]** FAA optimistic launch companies will switch to new regulations by 2026 deadline
 - <a href="https://spacepolicyonline.com/news/trump-musk-imply-changes-to-butch-and-sunis-return/" >🔗</a> **[SpacePolicyOnline.com]** Trump, Musk Imply Changes to Butch and Suni’s Return
-- <a href="https://europeanspaceflight.com/uk-government-backs-orbex-with-20m-investment/" >🔗</a> **[European Spaceflight]** UK Government Backs Orbex with £20M Investment
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250129T150123">2025-01-29 15:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250129T153217">2025-01-29 15:32:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
