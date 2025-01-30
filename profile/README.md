@@ -94,13 +94,13 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/ESA_and_European_Commission_to_build_quantum-secure_space_communications_network" >🔗</a> **[ESA]** ESA and European Commission to build quantum-secure space communications network
 - <a href="https://spacenews.com/artemis-contractors-defend-current-architecture-as-fastest-way-to-return-to-the-moon/" >🔗</a> **[SpaceNews]** Artemis contractors defend current architecture as fastest way to return to the moon
 - <a href="https://spacenews.com/europe-awards-900-million-contract-for-argonaut-lunar-lander-development/" >🔗</a> **[SpaceNews]** Europe awards $900 million contract for Argonaut lunar lander development
+- <a href="https://www.esa.int/Enabling_Support/Preparing_for_the_Future/Discovery_and_Preparation/Using_AI_for_more_reliable_space_missions" >🔗</a> **[ESA]** Using AI for more reliable space missions
 - <a href="https://europeanspaceflight.com/arianespace-secures-three-ariane-6-launch-deals-in-two-days/" >🔗</a> **[European Spaceflight]** Arianespace Secures Three Ariane 6 Launch Deals in Two Days
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Argonaut_a_first_European_lunar_lander" >🔗</a> **[ESA]** Argonaut: a first European lunar lander
 - <a href="https://spacenews.com/iphone-starlink-compatibility-sends-direct-to-smartphone-stocks-sliding/" >🔗</a> **[SpaceNews]** iPhone Starlink compatibility sends direct-to-smartphone stocks sliding
 - <a href="https://spacenews.com/ascendarc-emerges-from-stealth-to-take-on-small-geo-market/" >🔗</a> **[SpaceNews]** AscendArc emerges from stealth to take on small GEO market
 - <a href="https://spacenews.com/spaceryde-founders-startup-offers-cad-copilot/" >🔗</a> **[SpaceNews]** SpaceRyde founder’s startup offers CAD copilot
 - <a href="https://spacenews.com/u-s-space-force-rapid-capabilities-office-selects-companies-for-tech-accelerator/" >🔗</a> **[SpaceNews]** U.S. Space Force Rapid Capabilities Office selects companies for tech accelerator
-- <a href="https://spacenews.com/spacex-veterans-hypersonic-weapons-startup-secures-100-million/" >🔗</a> **[SpaceNews]** SpaceX veterans’ hypersonic weapons startup secures $100 million
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250130T100126">2025-01-30 10:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250130T103352">2025-01-30 10:33:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
