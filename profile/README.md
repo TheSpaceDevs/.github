@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/clearer-career-pathways-needed-to-sustain-space-industry-growth/" >🔗</a> **[SpaceNews]** Clearer career pathways needed to sustain space industry growth
 - <a href="https://spacenews.com/space-minds-with-kam-ghaffarian/" >🔗</a> **[SpaceNews]** Space Minds with Kam Ghaffarian
 - <a href="https://spacenews.com/ending-the-dream/" >🔗</a> **[SpaceNews]** Ending the dream
 - <a href="https://spacenews.com/foust-forward-esa-navigates-its-uncertain-future-with-nasa/" >🔗</a> **[SpaceNews]** Foust Forward | ESA navigates its uncertain future with NASA
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/europe-awards-900-million-contract-for-argonaut-lunar-lander-development/" >🔗</a> **[SpaceNews]** Europe awards $900 million contract for Argonaut lunar lander development
 - <a href="https://www.esa.int/Enabling_Support/Preparing_for_the_Future/Discovery_and_Preparation/Using_AI_for_more_reliable_space_missions" >🔗</a> **[ESA]** Using AI for more reliable space missions
 - <a href="https://europeanspaceflight.com/arianespace-secures-three-ariane-6-launch-deals-in-two-days/" >🔗</a> **[European Spaceflight]** Arianespace Secures Three Ariane 6 Launch Deals in Two Days
-- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Argonaut_a_first_European_lunar_lander" >🔗</a> **[ESA]** Argonaut: a first European lunar lander
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250130T193110">2025-01-30 19:31:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250130T200128">2025-01-30 20:01:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
