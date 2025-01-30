@@ -91,6 +91,8 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ascendarc-emerges-from-stealth-to-take-on-small-geo-market/" >🔗</a> **[SpaceNews]** AscendArc emerges from stealth to take on small GEO market
+- <a href="https://spacenews.com/spaceryde-founders-startup-offers-cad-copilot/" >🔗</a> **[SpaceNews]** SpaceRyde founder’s startup offers CAD copilot
 - <a href="https://spacenews.com/u-s-space-force-rapid-capabilities-office-selects-companies-for-tech-accelerator/" >🔗</a> **[SpaceNews]** U.S. Space Force Rapid Capabilities Office selects companies for tech accelerator
 - <a href="https://spacenews.com/spacex-veterans-hypersonic-weapons-startup-secures-100-million/" >🔗</a> **[SpaceNews]** SpaceX veterans’ hypersonic weapons startup secures $100 million
 - <a href="https://arstechnica.com/space/2025/01/the-long-planned-return-of-two-astronauts-from-space-is-now-a-political-issue/" >🔗</a> **[Arstechnica]** The long-planned return of two astronauts from space is now a political issue
@@ -99,8 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spacenews.com/nasa-rules-out-immediate-crew-9-return-saying-astronauts-will-come-back-as-soon-as-practical/" >🔗</a> **[SpaceNews]** NASA rules out immediate Crew-9 return, saying astronauts will come back “as soon as practical”
 - <a href="https://www.nasaspaceflight.com/2025/01/following-flight-7-starship-flight-8/" >🔗</a> **[NASASpaceflight]** Following Flight 7 SpaceX line up future Starships
 - <a href="https://science.nasa.gov/science-research/biological-physical-sciences/6-nasa-experiments-on-materials-benefitting-space-and-earth/" >🔗</a> **[NASA]** 6 NASA Experiments on Materials, Benefitting Space and Earth
-- <a href="https://www.nasa.gov/image-article/geyser-season-on-mars/" >🔗</a> **[NASA]** Geyser Season on Mars
-- <a href="https://www.nasa.gov/news-release/muestra-de-la-nasa-del-asteroide-bennu-revela-un-caldo-con-los-ingredientes-de-la-vida/" >🔗</a> **[NASA]** Muestra de la NASA del asteroide Bennu revela un ‘caldo’ con los ingredientes de la vida
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250130T000408">2025-01-30 00:04:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250130T004528">2025-01-30 00:45:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
