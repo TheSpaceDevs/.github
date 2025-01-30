@@ -91,6 +91,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/u-s-space-force-rapid-capabilities-office-selects-companies-for-tech-accelerator/" >🔗</a> **[SpaceNews]** U.S. Space Force Rapid Capabilities Office selects companies for tech accelerator
 - <a href="https://spacenews.com/spacex-veterans-hypersonic-weapons-startup-secures-100-million/" >🔗</a> **[SpaceNews]** SpaceX veterans’ hypersonic weapons startup secures $100 million
 - <a href="https://arstechnica.com/space/2025/01/the-long-planned-return-of-two-astronauts-from-space-is-now-a-political-issue/" >🔗</a> **[Arstechnica]** The long-planned return of two astronauts from space is now a political issue
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-discuss-punch-mission-to-study-solar-wind/" >🔗</a> **[NASA]** NASA Invites Media to Discuss PUNCH Mission to Study Solar Wind
@@ -100,7 +101,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://science.nasa.gov/science-research/biological-physical-sciences/6-nasa-experiments-on-materials-benefitting-space-and-earth/" >🔗</a> **[NASA]** 6 NASA Experiments on Materials, Benefitting Space and Earth
 - <a href="https://www.nasa.gov/image-article/geyser-season-on-mars/" >🔗</a> **[NASA]** Geyser Season on Mars
 - <a href="https://www.nasa.gov/news-release/muestra-de-la-nasa-del-asteroide-bennu-revela-un-caldo-con-los-ingredientes-de-la-vida/" >🔗</a> **[NASA]** Muestra de la NASA del asteroide Bennu revela un ‘caldo’ con los ingredientes de la vida
-- <a href="https://www.nasa.gov/news-release/nasas-asteroid-bennu-sample-reveals-mix-of-lifes-ingredients/" >🔗</a> **[NASA]** NASA’s Asteroid Bennu Sample Reveals Mix of Life’s Ingredients
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250129T233108">2025-01-29 23:31:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250130T000408">2025-01-30 00:04:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
