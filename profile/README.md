@@ -95,16 +95,16 @@ The New Shepard crew capsule is using its Reaction Control System (RCS) to spin 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/ESA_and_European_Commission_to_build_quantum-secure_space_communications_network" >🔗</a> **[ESA]** ESA and European Commission to build quantum-secure space communications network
+- <a href="https://spacenews.com/artemis-contractors-defend-current-architecture-as-fastest-way-to-return-to-the-moon/" >🔗</a> **[SpaceNews]** Artemis contractors defend current architecture as fastest way to return to the moon
+- <a href="https://spacenews.com/europe-awards-900-million-contract-for-argonaut-lunar-lander-development/" >🔗</a> **[SpaceNews]** Europe awards $900 million contract for Argonaut lunar lander development
+- <a href="https://europeanspaceflight.com/arianespace-secures-three-ariane-6-launch-deals-in-two-days/" >🔗</a> **[European Spaceflight]** Arianespace Secures Three Ariane 6 Launch Deals in Two Days
+- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Argonaut_a_first_European_lunar_lander" >🔗</a> **[ESA]** Argonaut: a first European lunar lander
 - <a href="https://spacenews.com/iphone-starlink-compatibility-sends-direct-to-smartphone-stocks-sliding/" >🔗</a> **[SpaceNews]** iPhone Starlink compatibility sends direct-to-smartphone stocks sliding
 - <a href="https://spacenews.com/ascendarc-emerges-from-stealth-to-take-on-small-geo-market/" >🔗</a> **[SpaceNews]** AscendArc emerges from stealth to take on small GEO market
 - <a href="https://spacenews.com/spaceryde-founders-startup-offers-cad-copilot/" >🔗</a> **[SpaceNews]** SpaceRyde founder’s startup offers CAD copilot
 - <a href="https://spacenews.com/u-s-space-force-rapid-capabilities-office-selects-companies-for-tech-accelerator/" >🔗</a> **[SpaceNews]** U.S. Space Force Rapid Capabilities Office selects companies for tech accelerator
 - <a href="https://spacenews.com/spacex-veterans-hypersonic-weapons-startup-secures-100-million/" >🔗</a> **[SpaceNews]** SpaceX veterans’ hypersonic weapons startup secures $100 million
-- <a href="https://arstechnica.com/space/2025/01/the-long-planned-return-of-two-astronauts-from-space-is-now-a-political-issue/" >🔗</a> **[Arstechnica]** The long-planned return of two astronauts from space is now a political issue
-- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-discuss-punch-mission-to-study-solar-wind/" >🔗</a> **[NASA]** NASA Invites Media to Discuss PUNCH Mission to Study Solar Wind
-- <a href="https://www.nasa.gov/news-release/nasa-partners-to-welcome-fourth-axiom-space-mission-to-space-station/" >🔗</a> **[NASA]** NASA, Partners to Welcome Fourth Axiom Space Mission to Space Station
-- <a href="https://spacenews.com/nasa-rules-out-immediate-crew-9-return-saying-astronauts-will-come-back-as-soon-as-practical/" >🔗</a> **[SpaceNews]** NASA rules out immediate Crew-9 return, saying astronauts will come back “as soon as practical”
-- <a href="https://www.nasaspaceflight.com/2025/01/following-flight-7-starship-flight-8/" >🔗</a> **[NASASpaceflight]** Following Flight 7 SpaceX line up future Starships
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ The New Shepard crew capsule is using its Reaction Control System (RCS) to spin 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250130T090125">2025-01-30 09:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250130T093116">2025-01-30 09:31:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
