@@ -55,7 +55,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250211T095300">2025-02-11 09:53:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 8A | Demo Flight&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20250211T095300Z%2F20250211T104200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 8A | Demo Flight** from Wenchang Space Launch Site, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250226T000000">2025-02-26 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Lunar Trailblazer &amp; Nova-C IM-2&location=Kennedy Space Center, FL, USA&dates=20250226T000000Z%2F20250226T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Lunar Trailblazer & Nova-C IM-2** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250226T162400">2025-02-26 16:24:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ariane 62 | CSO-3&location=Guiana Space Centre, French Guiana&dates=20250226T162400Z%2F20250226T162400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ariane 62 | CSO-3** from Guiana Space Centre, French Guiana.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250227T000000">2025-02-27 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SPHEREx &amp; PUNCH&location=Vandenberg SFB, CA, USA&dates=20250227T000000Z%2F20250227T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | SPHEREx & PUNCH** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250228T000000">2025-02-28 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Progress MS-30 (91P)&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20250228T000000Z%2F20250228T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Progress MS-30 (91P)** from Baikonur Cosmodrome, Republic of Kazakhstan.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/aeronautics/nasa-flight-tests-wildland-fire-tech-ahead-of-demonstration/" >🔗</a> **[NASA]** NASA Flight Tests Wildland Fire Tech Ahead of Demo
 - <a href="https://www.nasa.gov/image-article/building-an-antenna/" >🔗</a> **[NASA]** Building an Antenna
 - <a href="https://www.nasa.gov/universe/6-things-to-know-about-spherex-nasas-newest-space-telescope/" >🔗</a> **[NASA]** 6 Things to Know About SPHEREx, NASA’s Newest Space Telescope
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/01/60_days_in_bed_for_science" >🔗</a> **[ESA]** 60 days in bed for science
 - <a href="https://www.nasa.gov/directorates/somd/meet-the-space-ops-team-lindsai-bland/" >🔗</a> **[NASA]** Meet the Space Ops Team: Lindsai Bland
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_27-31_January_2025" >🔗</a> **[ESA]** Week in images: 27-31 January 2025
-- <a href="https://spacenews.com/a-call-to-stargaze-with-strangers/" >🔗</a> **[SpaceNews]** A call to stargaze with strangers
 - <a href="https://spacenews.com/on-national-security-tougher-than-the-tech/" >🔗</a> **[SpaceNews]** Space companies can dock satellites in orbit, but can they navigate the Pentagon?
+- <a href="https://spacenews.com/a-call-to-stargaze-with-strangers/" >🔗</a> **[SpaceNews]** A call to stargaze with strangers
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/01/Transforming_ESA_s_technical_heart" >🔗</a> **[ESA]** Transforming ESA’s technical heart
 - <a href="https://arstechnica.com/space/2025/01/rocket-report-spacex-tosses-away-a-falcon-9-a-somalian-spaceport/" >🔗</a> **[Arstechnica]** Rocket Report: SpaceX tosses away a Falcon 9; a Somalian spaceport?
-- <a href="https://science.nasa.gov/missions/hubble/hubble-spots-a-supernova/" >🔗</a> **[NASA]** Hubble Spots a Supernova
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250131T180127">2025-01-31 18:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250131T183507">2025-01-31 18:35:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
