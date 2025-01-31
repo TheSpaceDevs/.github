@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/01/bennu-samples-2024y4/" >🔗</a> **[NASASpaceflight]** Scientists find building blocks of life in OSIRIS-REx samples, discover potentially dangerous asteroid
 - <a href="https://spaceflightnow.com/2025/01/31/former-head-of-boeings-starliner-program-returns-to-role/" >🔗</a> **[Spaceflight Now]** Former head of Boeing’s Starliner program returns to role
 - <a href="https://www.nasa.gov/news-release/nasa-to-talk-science-tech-aboard-next-intuitive-machines-moon-flight/" >🔗</a> **[NASA]** NASA to Talk Science, Tech Aboard Next Intuitive Machines Moon Flight
 - <a href="https://spacenews.com/chinas-deepseek-ai-could-accelerate-space-autonomy/" >🔗</a> **[SpaceNews]** China’s DeepSeek AI signals faster path to space autonomy
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/aeronautics/nasa-flight-tests-wildland-fire-tech-ahead-of-demonstration/" >🔗</a> **[NASA]** NASA Flight Tests Wildland Fire Tech Ahead of Demo
 - <a href="https://www.nasa.gov/image-article/building-an-antenna/" >🔗</a> **[NASA]** Building an Antenna
 - <a href="https://www.nasa.gov/universe/6-things-to-know-about-spherex-nasas-newest-space-telescope/" >🔗</a> **[NASA]** 6 Things to Know About SPHEREx, NASA’s Newest Space Telescope
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/01/60_days_in_bed_for_science" >🔗</a> **[ESA]** 60 days in bed for science
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250131T230115">2025-01-31 23:01:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250131T233109">2025-01-31 23:31:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
