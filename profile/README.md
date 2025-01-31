@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_27-31_January_2025" >🔗</a> **[ESA]** Week in images: 27-31 January 2025
+- <a href="https://spacenews.com/a-call-to-stargaze-with-strangers/" >🔗</a> **[SpaceNews]** A call to stargaze with strangers
+- <a href="https://spacenews.com/on-national-security-tougher-than-the-tech/" >🔗</a> **[SpaceNews]** Space companies can dock satellites in orbit, but can they navigate the Pentagon?
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/01/Transforming_ESA_s_technical_heart" >🔗</a> **[ESA]** Transforming ESA’s technical heart
 - <a href="https://arstechnica.com/space/2025/01/rocket-report-spacex-tosses-away-a-falcon-9-a-somalian-spaceport/" >🔗</a> **[Arstechnica]** Rocket Report: SpaceX tosses away a Falcon 9; a Somalian spaceport?
 - <a href="https://science.nasa.gov/missions/hubble/hubble-spots-a-supernova/" >🔗</a> **[NASA]** Hubble Spots a Supernova
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/01/Earth_from_Space_Sao_Francisco_River_Brazil" >🔗</a> **[ESA]** Earth from Space: São Francisco River, Brazil
 - <a href="https://science.nasa.gov/blog/sols-4439-4440-a-lunar-new-year-on-mars/" >🔗</a> **[NASA]** Sols 4439-4440: A Lunar New Year on Mars
 - <a href="https://europeanspaceflight.com/esa-awards-thales-alenia-space-e862m-argonaut-moon-lander-contract/" >🔗</a> **[European Spaceflight]** ESA Awards Thales Alenia Space €862M Argonaut Moon Lander Contract
-- <a href="https://spacenews.com/safety-panel-reports-progress-in-starliner-investigation/" >🔗</a> **[SpaceNews]** Safety panel reports progress in Starliner investigation
-- <a href="https://spacenews.com/avs-wins-study-contract-for-esa-astrophysics-mission/" >🔗</a> **[SpaceNews]** AVS wins study contract for ESA astrophysics mission
-- <a href="https://spacepolicyonline.com/news/asteroids-bennu-and-yr4-make-headlines/" >🔗</a> **[SpacePolicyOnline.com]** Asteroids! Bennu and YR4 Make Headlines
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250131T140120">2025-01-31 14:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250131T143245">2025-01-31 14:32:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
