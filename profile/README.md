@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/01/Earth_from_Space_Sao_Francisco_River_Brazil" >🔗</a> **[ESA]** Earth from Space: São Francisco River, Brazil
+- <a href="https://science.nasa.gov/blog/sols-4439-4440-a-lunar-new-year-on-mars/" >🔗</a> **[NASA]** Sols 4439-4440: A Lunar New Year on Mars
 - <a href="https://europeanspaceflight.com/esa-awards-thales-alenia-space-e862m-argonaut-moon-lander-contract/" >🔗</a> **[European Spaceflight]** ESA Awards Thales Alenia Space €862M Argonaut Moon Lander Contract
 - <a href="https://spacenews.com/safety-panel-reports-progress-in-starliner-investigation/" >🔗</a> **[SpaceNews]** Safety panel reports progress in Starliner investigation
 - <a href="https://spacenews.com/avs-wins-study-contract-for-esa-astrophysics-mission/" >🔗</a> **[SpaceNews]** AVS wins study contract for ESA astrophysics mission
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/clearer-career-pathways-needed-to-sustain-space-industry-growth/" >🔗</a> **[SpaceNews]** Clearer career pathways needed to sustain space industry growth
 - <a href="https://spacenews.com/space-minds-with-kam-ghaffarian/" >🔗</a> **[SpaceNews]** Space Minds with Kam Ghaffarian
 - <a href="https://spacenews.com/ending-the-dream/" >🔗</a> **[SpaceNews]** Ending the dream
-- <a href="https://spacenews.com/foust-forward-esa-navigates-its-uncertain-future-with-nasa/" >🔗</a> **[SpaceNews]** Foust Forward | ESA navigates its uncertain future with NASA
-- <a href="https://spacenews.com/virgin-galactic-and-redwire-partner-on-suborbital-research-capabilities/" >🔗</a> **[SpaceNews]** Virgin Galactic and Redwire partner on suborbital research capabilities
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250131T090115">2025-01-31 09:01:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250131T093119">2025-01-31 09:31:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
