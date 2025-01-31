@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/solar-system/skywatching/whats-up-february-2025-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: February 2025 Skywatching Tips from NASA
+- <a href="https://www.nasa.gov/science-research/earth-science/nasa-radar-imagery-reveals-details-about-los-angeles-area-landslides/" >🔗</a> **[NASA]** NASA Radar Imagery Reveals Details About Los Angeles-Area Landslides
+- <a href="https://spacenews.com/the-remote-seeds-of-exploration/" >🔗</a> **[SpaceNews]** The remote seeds of exploration
 - <a href="https://www.nasa.gov/aeronautics/nasa-flight-tests-wildland-fire-tech-ahead-of-demonstration/" >🔗</a> **[NASA]** NASA Flight Tests Wildland Fire Tech Ahead of Demo
 - <a href="https://www.nasa.gov/image-article/building-an-antenna/" >🔗</a> **[NASA]** Building an Antenna
 - <a href="https://www.nasa.gov/universe/6-things-to-know-about-spherex-nasas-newest-space-telescope/" >🔗</a> **[NASA]** 6 Things to Know About SPHEREx, NASA’s Newest Space Telescope
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/directorates/somd/meet-the-space-ops-team-lindsai-bland/" >🔗</a> **[NASA]** Meet the Space Ops Team: Lindsai Bland
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_27-31_January_2025" >🔗</a> **[ESA]** Week in images: 27-31 January 2025
 - <a href="https://spacenews.com/on-national-security-tougher-than-the-tech/" >🔗</a> **[SpaceNews]** Space companies can dock satellites in orbit, but can they navigate the Pentagon?
-- <a href="https://spacenews.com/a-call-to-stargaze-with-strangers/" >🔗</a> **[SpaceNews]** A call to stargaze with strangers
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/01/Transforming_ESA_s_technical_heart" >🔗</a> **[ESA]** Transforming ESA’s technical heart
-- <a href="https://arstechnica.com/space/2025/01/rocket-report-spacex-tosses-away-a-falcon-9-a-somalian-spaceport/" >🔗</a> **[Arstechnica]** Rocket Report: SpaceX tosses away a Falcon 9; a Somalian spaceport?
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250131T190118">2025-01-31 19:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250131T193109">2025-01-31 19:31:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
