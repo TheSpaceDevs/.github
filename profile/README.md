@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/safety-panel-reports-progress-in-starliner-investigation/" >🔗</a> **[SpaceNews]** Safety panel reports progress in Starliner investigation
 - <a href="https://spacenews.com/avs-wins-study-contract-for-esa-astrophysics-mission/" >🔗</a> **[SpaceNews]** AVS wins study contract for ESA astrophysics mission
 - <a href="https://spacepolicyonline.com/news/asteroids-bennu-and-yr4-make-headlines/" >🔗</a> **[SpacePolicyOnline.com]** Asteroids! Bennu and YR4 Make Headlines
 - <a href="https://www.nasa.gov/image-article/spherexs-concentric-cones/" >🔗</a> **[NASA]** SPHEREx’s Concentric Cones
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/foust-forward-esa-navigates-its-uncertain-future-with-nasa/" >🔗</a> **[SpaceNews]** Foust Forward | ESA navigates its uncertain future with NASA
 - <a href="https://spacenews.com/virgin-galactic-and-redwire-partner-on-suborbital-research-capabilities/" >🔗</a> **[SpaceNews]** Virgin Galactic and Redwire partner on suborbital research capabilities
 - <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/ESA_and_European_Commission_to_build_quantum-secure_space_communications_network" >🔗</a> **[ESA]** ESA and European Commission to build quantum-secure space communications network
-- <a href="https://spacenews.com/artemis-contractors-defend-current-architecture-as-fastest-way-to-return-to-the-moon/" >🔗</a> **[SpaceNews]** Artemis contractors defend current architecture as fastest way to return to the moon
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250131T050120">2025-01-31 05:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250131T053242">2025-01-31 05:32:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
