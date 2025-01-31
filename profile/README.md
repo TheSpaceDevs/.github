@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/avs-wins-study-contract-for-esa-astrophysics-mission/" >🔗</a> **[SpaceNews]** AVS wins study contract for ESA astrophysics mission
+- <a href="https://spacepolicyonline.com/news/asteroids-bennu-and-yr4-make-headlines/" >🔗</a> **[SpacePolicyOnline.com]** Asteroids! Bennu and YR4 Make Headlines
 - <a href="https://www.nasa.gov/image-article/spherexs-concentric-cones/" >🔗</a> **[NASA]** SPHEREx’s Concentric Cones
 - <a href="https://spacenews.com/clearer-career-pathways-needed-to-sustain-space-industry-growth/" >🔗</a> **[SpaceNews]** Clearer career pathways needed to sustain space industry growth
 - <a href="https://spacenews.com/space-minds-with-kam-ghaffarian/" >🔗</a> **[SpaceNews]** Space Minds with Kam Ghaffarian
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/virgin-galactic-and-redwire-partner-on-suborbital-research-capabilities/" >🔗</a> **[SpaceNews]** Virgin Galactic and Redwire partner on suborbital research capabilities
 - <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/ESA_and_European_Commission_to_build_quantum-secure_space_communications_network" >🔗</a> **[ESA]** ESA and European Commission to build quantum-secure space communications network
 - <a href="https://spacenews.com/artemis-contractors-defend-current-architecture-as-fastest-way-to-return-to-the-moon/" >🔗</a> **[SpaceNews]** Artemis contractors defend current architecture as fastest way to return to the moon
-- <a href="https://spacenews.com/europe-awards-900-million-contract-for-argonaut-lunar-lander-development/" >🔗</a> **[SpaceNews]** Europe awards $900 million contract for Argonaut lunar lander development
-- <a href="https://www.esa.int/Enabling_Support/Preparing_for_the_Future/Discovery_and_Preparation/Using_AI_for_more_reliable_space_missions" >🔗</a> **[ESA]** Using AI for more reliable space missions
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250131T040123">2025-01-31 04:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250131T043334">2025-01-31 04:33:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
