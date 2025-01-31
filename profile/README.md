@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/building-an-antenna/" >🔗</a> **[NASA]** Building an Antenna
+- <a href="https://www.nasa.gov/universe/6-things-to-know-about-spherex-nasas-newest-space-telescope/" >🔗</a> **[NASA]** 6 Things to Know About SPHEREx, NASA’s Newest Space Telescope
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/01/60_days_in_bed_for_science" >🔗</a> **[ESA]** 60 days in bed for science
 - <a href="https://www.nasa.gov/directorates/somd/meet-the-space-ops-team-lindsai-bland/" >🔗</a> **[NASA]** Meet the Space Ops Team: Lindsai Bland
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_27-31_January_2025" >🔗</a> **[ESA]** Week in images: 27-31 January 2025
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/01/Transforming_ESA_s_technical_heart" >🔗</a> **[ESA]** Transforming ESA’s technical heart
 - <a href="https://arstechnica.com/space/2025/01/rocket-report-spacex-tosses-away-a-falcon-9-a-somalian-spaceport/" >🔗</a> **[Arstechnica]** Rocket Report: SpaceX tosses away a Falcon 9; a Somalian spaceport?
 - <a href="https://science.nasa.gov/missions/hubble/hubble-spots-a-supernova/" >🔗</a> **[NASA]** Hubble Spots a Supernova
-- <a href="https://spacenews.com/chinese-provinces-are-fueling-the-countrys-commercial-space-expansion/" >🔗</a> **[SpaceNews]** Chinese provinces are fueling the country’s commercial space expansion
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/01/Earth_from_Space_Sao_Francisco_River_Brazil" >🔗</a> **[ESA]** Earth from Space: São Francisco River, Brazil
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250131T170131">2025-01-31 17:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250131T173118">2025-01-31 17:31:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
