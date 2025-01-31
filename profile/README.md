@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/01/rocket-report-spacex-tosses-away-a-falcon-9-a-somalian-spaceport/" >🔗</a> **[Arstechnica]** Rocket Report: SpaceX tosses away a Falcon 9; a Somalian spaceport?
+- <a href="https://science.nasa.gov/missions/hubble/hubble-spots-a-supernova/" >🔗</a> **[NASA]** Hubble Spots a Supernova
 - <a href="https://spacenews.com/chinese-provinces-are-fueling-the-countrys-commercial-space-expansion/" >🔗</a> **[SpaceNews]** Chinese provinces are fueling the country’s commercial space expansion
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/01/Earth_from_Space_Sao_Francisco_River_Brazil" >🔗</a> **[ESA]** Earth from Space: São Francisco River, Brazil
 - <a href="https://science.nasa.gov/blog/sols-4439-4440-a-lunar-new-year-on-mars/" >🔗</a> **[NASA]** Sols 4439-4440: A Lunar New Year on Mars
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/avs-wins-study-contract-for-esa-astrophysics-mission/" >🔗</a> **[SpaceNews]** AVS wins study contract for ESA astrophysics mission
 - <a href="https://spacepolicyonline.com/news/asteroids-bennu-and-yr4-make-headlines/" >🔗</a> **[SpacePolicyOnline.com]** Asteroids! Bennu and YR4 Make Headlines
 - <a href="https://www.nasa.gov/image-article/spherexs-concentric-cones/" >🔗</a> **[NASA]** SPHEREx’s Concentric Cones
-- <a href="https://spacenews.com/clearer-career-pathways-needed-to-sustain-space-industry-growth/" >🔗</a> **[SpaceNews]** Clearer career pathways needed to sustain space industry growth
-- <a href="https://spacenews.com/space-minds-with-kam-ghaffarian/" >🔗</a> **[SpaceNews]** Space Minds with Kam Ghaffarian
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250131T120200">2025-01-31 12:02:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250131T124226">2025-01-31 12:42:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
