@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/america/boeing-and-nasa-making-significant-progress-on-starliner-issues" >🔗</a> **[The Launch Pad]** Boeing and NASA Making “Significant Progress” on Starliner Issues, Though Thruster Problems Persist
+- <a href="https://tlpnetwork.com/news/america/nasa-artemis-program-faces-reassessment-amid-concerns-over-packed-mission-objectives" >🔗</a> **[The Launch Pad]** NASA’s Artemis Program Faces Reassessment Amid Concerns Over Packed Mission Objectives
 - <a href="https://europeanspaceflight.com/thales-alenia-space-wins-e367m-contract-to-build-envision-venus-explorer/" >🔗</a> **[European Spaceflight]** Thales Alenia Space Wins €367M Contract to Build EnVision Venus Explorer
 - <a href="https://spacenews.com/satellite-servicing-companies-face-reality-check/" >🔗</a> **[SpaceNews]** Satellite servicing companies face reality check
 - <a href="https://spacenews.com/safety-panel-urges-nasa-to-reassess-artemis-mission-objectives-to-reduce-risk/" >🔗</a> **[SpaceNews]** Safety panel urges NASA to reassess Artemis mission objectives to reduce risk
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2025/01/bennu-samples-2024y4/" >🔗</a> **[NASASpaceflight]** Scientists find building blocks of life in OSIRIS-REx samples, discover potentially dangerous asteroid
 - <a href="https://spaceflightnow.com/2025/01/31/former-head-of-boeings-starliner-program-returns-to-role/" >🔗</a> **[Spaceflight Now]** Former head of Boeing’s Starliner program returns to role
 - <a href="https://www.nasa.gov/news-release/nasa-to-talk-science-tech-aboard-next-intuitive-machines-moon-flight/" >🔗</a> **[NASA]** NASA to Talk Science, Tech Aboard Next Intuitive Machines Moon Flight
-- <a href="https://spacenews.com/chinas-deepseek-ai-could-accelerate-space-autonomy/" >🔗</a> **[SpaceNews]** China’s DeepSeek AI signals faster path to space autonomy
-- <a href="https://science.nasa.gov/solar-system/skywatching/whats-up-february-2025-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: February 2025 Skywatching Tips from NASA
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250201T210118">2025-02-01 21:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250201T213100">2025-02-01 21:31:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
