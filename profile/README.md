@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/policy-and-finance/astronomers-call-for-global-ban-on-space-advertising" >🔗</a> **[The Launch Pad]** Astronomers Call for Global Ban on Space Advertising
+- <a href="https://tlpnetwork.com/news/in-space/jwst-operational-budget-facing-cuts-this-fall" >🔗</a> **[The Launch Pad]** JWST Operational Budget Facing Cuts This Fall
 - <a href="https://tlpnetwork.com/news/america/boeing-and-nasa-making-significant-progress-on-starliner-issues" >🔗</a> **[The Launch Pad]** Boeing and NASA Making “Significant Progress” on Starliner Issues, Though Thruster Problems Persist
 - <a href="https://tlpnetwork.com/news/america/nasa-artemis-program-faces-reassessment-amid-concerns-over-packed-mission-objectives" >🔗</a> **[The Launch Pad]** NASA’s Artemis Program Faces Reassessment Amid Concerns Over Packed Mission Objectives
 - <a href="https://europeanspaceflight.com/thales-alenia-space-wins-e367m-contract-to-build-envision-venus-explorer/" >🔗</a> **[European Spaceflight]** Thales Alenia Space Wins €367M Contract to Build EnVision Venus Explorer
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/02/01/live-coverage-spacex-to-launch-22-starlink-satellites-on-falcon-9-rocket-from-california-3/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 22 Starlink satellites on Falcon 9 rocket from California
 - <a href="https://www.esa.int/About_Us/Careers_at_ESA/Apply_now_for_the_2025_ESA_Graduate_Trainee_Programme" >🔗</a> **[ESA]** Apply now for the 2025 ESA Graduate Trainee Programme
 - <a href="https://www.nasaspaceflight.com/2025/01/bennu-samples-2024y4/" >🔗</a> **[NASASpaceflight]** Scientists find building blocks of life in OSIRIS-REx samples, discover potentially dangerous asteroid
-- <a href="https://spaceflightnow.com/2025/01/31/former-head-of-boeings-starliner-program-returns-to-role/" >🔗</a> **[Spaceflight Now]** Former head of Boeing’s Starliner program returns to role
-- <a href="https://www.nasa.gov/news-release/nasa-to-talk-science-tech-aboard-next-intuitive-machines-moon-flight/" >🔗</a> **[NASA]** NASA to Talk Science, Tech Aboard Next Intuitive Machines Moon Flight
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250201T213100">2025-02-01 21:31:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250201T220120">2025-02-01 22:01:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
