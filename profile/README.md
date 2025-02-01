@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/safety-panel-urges-nasa-to-reassess-artemis-mission-objectives-to-reduce-risk/" >🔗</a> **[SpaceNews]** Safety panel urges NASA to reassess Artemis mission objectives to reduce risk
 - <a href="https://spaceflightnow.com/2025/02/01/live-coverage-spacex-to-launch-22-starlink-satellites-on-falcon-9-rocket-from-california-3/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 22 Starlink satellites on Falcon 9 rocket from California
 - <a href="https://www.esa.int/About_Us/Careers_at_ESA/Apply_now_for_the_2025_ESA_Graduate_Trainee_Programme" >🔗</a> **[ESA]** Apply now for the 2025 ESA Graduate Trainee Programme
 - <a href="https://www.nasaspaceflight.com/2025/01/bennu-samples-2024y4/" >🔗</a> **[NASASpaceflight]** Scientists find building blocks of life in OSIRIS-REx samples, discover potentially dangerous asteroid
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/solar-system/skywatching/whats-up-february-2025-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: February 2025 Skywatching Tips from NASA
 - <a href="https://www.nasa.gov/science-research/earth-science/nasa-radar-imagery-reveals-details-about-los-angeles-area-landslides/" >🔗</a> **[NASA]** NASA Radar Imagery Reveals Details About Los Angeles-Area Landslides
 - <a href="https://spacenews.com/the-remote-seeds-of-exploration/" >🔗</a> **[SpaceNews]** The remote seeds of exploration
-- <a href="https://www.nasa.gov/aeronautics/nasa-flight-tests-wildland-fire-tech-ahead-of-demonstration/" >🔗</a> **[NASA]** NASA Flight Tests Wildland Fire Tech Ahead of Demo
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250201T180129">2025-02-01 18:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250201T183342">2025-02-01 18:33:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
