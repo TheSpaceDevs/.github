@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/thales-alenia-space-wins-e367m-contract-to-build-envision-venus-explorer/" >🔗</a> **[European Spaceflight]** Thales Alenia Space Wins €367M Contract to Build EnVision Venus Explorer
+- <a href="https://spacenews.com/satellite-servicing-companies-face-reality-check/" >🔗</a> **[SpaceNews]** Satellite servicing companies face reality check
 - <a href="https://spacenews.com/safety-panel-urges-nasa-to-reassess-artemis-mission-objectives-to-reduce-risk/" >🔗</a> **[SpaceNews]** Safety panel urges NASA to reassess Artemis mission objectives to reduce risk
 - <a href="https://spaceflightnow.com/2025/02/01/live-coverage-spacex-to-launch-22-starlink-satellites-on-falcon-9-rocket-from-california-3/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 22 Starlink satellites on Falcon 9 rocket from California
 - <a href="https://www.esa.int/About_Us/Careers_at_ESA/Apply_now_for_the_2025_ESA_Graduate_Trainee_Programme" >🔗</a> **[ESA]** Apply now for the 2025 ESA Graduate Trainee Programme
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-to-talk-science-tech-aboard-next-intuitive-machines-moon-flight/" >🔗</a> **[NASA]** NASA to Talk Science, Tech Aboard Next Intuitive Machines Moon Flight
 - <a href="https://spacenews.com/chinas-deepseek-ai-could-accelerate-space-autonomy/" >🔗</a> **[SpaceNews]** China’s DeepSeek AI signals faster path to space autonomy
 - <a href="https://science.nasa.gov/solar-system/skywatching/whats-up-february-2025-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: February 2025 Skywatching Tips from NASA
-- <a href="https://www.nasa.gov/science-research/earth-science/nasa-radar-imagery-reveals-details-about-los-angeles-area-landslides/" >🔗</a> **[NASA]** NASA Radar Imagery Reveals Details About Los Angeles-Area Landslides
-- <a href="https://spacenews.com/the-remote-seeds-of-exploration/" >🔗</a> **[SpaceNews]** The remote seeds of exploration
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250201T200116">2025-02-01 20:01:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250201T203127">2025-02-01 20:31:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
