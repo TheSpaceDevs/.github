@@ -93,6 +93,7 @@ The navigation system objective is to broadcast GPS-interoperable and augmentati
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/02/02/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-8/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://tlpnetwork.com/news/asia/nayuta-space-secures-major-funding-to-develops-reusable-launch-system" >🔗</a> **[The Launch Pad]** Nayuta Space Secures Major Funding To Develop Reusable Launch System
 - <a href="https://tlpnetwork.com/news/policy-and-finance/astronomers-call-for-global-ban-on-space-advertising" >🔗</a> **[The Launch Pad]** Astronomers Call for Global Ban on Space Advertising
 - <a href="https://tlpnetwork.com/news/in-space/jwst-operational-budget-facing-cuts-this-fall" >🔗</a> **[The Launch Pad]** JWST Operational Budget Facing Cuts This Fall
@@ -102,7 +103,6 @@ The navigation system objective is to broadcast GPS-interoperable and augmentati
 - <a href="https://spacenews.com/satellite-servicing-companies-face-reality-check/" >🔗</a> **[SpaceNews]** Satellite servicing companies face reality check
 - <a href="https://spacenews.com/safety-panel-urges-nasa-to-reassess-artemis-mission-objectives-to-reduce-risk/" >🔗</a> **[SpaceNews]** Safety panel urges NASA to reassess Artemis mission objectives to reduce risk
 - <a href="https://spaceflightnow.com/2025/02/01/live-coverage-spacex-to-launch-22-starlink-satellites-on-falcon-9-rocket-from-california-3/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 22 Starlink satellites on Falcon 9 rocket from California
-- <a href="https://www.esa.int/About_Us/Careers_at_ESA/Apply_now_for_the_2025_ESA_Graduate_Trainee_Programme" >🔗</a> **[ESA]** Apply now for the 2025 ESA Graduate Trainee Programme
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ The navigation system objective is to broadcast GPS-interoperable and augmentati
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250202T000445">2025-02-02 00:04:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250202T004540">2025-02-02 00:45:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
