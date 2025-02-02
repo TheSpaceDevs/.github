@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/indian-navigation-satellite-stuck-in-transfer-orbit-after-propulsion-failure/" >🔗</a> **[SpaceNews]** Indian navigation satellite stuck in transfer orbit after propulsion failure
 - <a href="https://spacenews.com/industry-executives-predict-more-thoughtful-new-wave-of-space-deals/" >🔗</a> **[SpaceNews]** Industry executives predict “more thoughtful” new wave of space deals
 - <a href="https://spaceflightnow.com/2025/02/02/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-8/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://tlpnetwork.com/news/asia/nayuta-space-secures-major-funding-to-develops-reusable-launch-system" >🔗</a> **[The Launch Pad]** Nayuta Space Secures Major Funding To Develop Reusable Launch System
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/america/nasa-artemis-program-faces-reassessment-amid-concerns-over-packed-mission-objectives" >🔗</a> **[The Launch Pad]** NASA’s Artemis Program Faces Reassessment Amid Concerns Over Packed Mission Objectives
 - <a href="https://europeanspaceflight.com/thales-alenia-space-wins-e367m-contract-to-build-envision-venus-explorer/" >🔗</a> **[European Spaceflight]** Thales Alenia Space Wins €367M Contract to Build EnVision Venus Explorer
 - <a href="https://spacenews.com/satellite-servicing-companies-face-reality-check/" >🔗</a> **[SpaceNews]** Satellite servicing companies face reality check
-- <a href="https://spacenews.com/safety-panel-urges-nasa-to-reassess-artemis-mission-objectives-to-reduce-risk/" >🔗</a> **[SpaceNews]** Safety panel urges NASA to reassess Artemis mission objectives to reduce risk
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250202T153059">2025-02-02 15:30:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250202T160121">2025-02-02 16:01:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
