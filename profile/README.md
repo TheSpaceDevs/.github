@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/japan-launches-michibiki-6-navigation-satellite-with-fifth-h3-rocket/" >🔗</a> **[SpaceNews]** Japan launches Michibiki 6 navigation satellite with fifth H3 rocket
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-february-2-8-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy February 2-8, 2025
 - <a href="https://spacenews.com/indian-navigation-satellite-stuck-in-transfer-orbit-after-propulsion-failure/" >🔗</a> **[SpaceNews]** Indian navigation satellite stuck in transfer orbit after propulsion failure
 - <a href="https://spacenews.com/industry-executives-predict-more-thoughtful-new-wave-of-space-deals/" >🔗</a> **[SpaceNews]** Industry executives predict “more thoughtful” new wave of space deals
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/in-space/jwst-operational-budget-facing-cuts-this-fall" >🔗</a> **[The Launch Pad]** JWST Operational Budget Facing Cuts This Fall
 - <a href="https://tlpnetwork.com/news/america/boeing-and-nasa-making-significant-progress-on-starliner-issues" >🔗</a> **[The Launch Pad]** Boeing and NASA Making “Significant Progress” on Starliner Issues, Though Thruster Problems Persist
 - <a href="https://tlpnetwork.com/news/america/nasa-artemis-program-faces-reassessment-amid-concerns-over-packed-mission-objectives" >🔗</a> **[The Launch Pad]** NASA’s Artemis Program Faces Reassessment Amid Concerns Over Packed Mission Objectives
-- <a href="https://europeanspaceflight.com/thales-alenia-space-wins-e367m-contract-to-build-envision-venus-explorer/" >🔗</a> **[European Spaceflight]** Thales Alenia Space Wins €367M Contract to Build EnVision Venus Explorer
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250202T220132">2025-02-02 22:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250202T223235">2025-02-02 22:32:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
