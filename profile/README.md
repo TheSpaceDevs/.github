@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/cubespace-revolutionizing-satellite-control-for-the-smallsat-market-through-latest-investment/" >🔗</a> **[SpaceNews]** CubeSpace: Revolutionizing Satellite Control for the SmallSat Market through Latest Investment
+- <a href="https://spacenews.com/u-s-space-force-awards-viasat-3-5-million-satellite-services-contract/" >🔗</a> **[SpaceNews]** U.S. Space Force awards Viasat $3.5 million satellite services contract
+- <a href="https://spacenews.com/nasa-pauses-work-of-science-groups-citing-trump-executive-orders/" >🔗</a> **[SpaceNews]** NASA pauses work of science groups, citing Trump executive orders
 - <a href="https://www.nasa.gov/general/station-nation-meet-tandra-gill-spain-computer-resources-senior-project-manager-in-the-avionics-and-software-office/" >🔗</a> **[NASA]** Station Nation: Meet Tandra Gill Spain, Computer Resources Senior Project Manager in the Avionics and Software Office
+- <a href="https://spacenews.com/cubespace-revolutionizing-satellite-control-for-the-smallsat-market-through-latest-investment/" >🔗</a> **[SpaceNews]** CubeSpace: Revolutionizing Satellite Control for the SmallSat Market through Latest Investment
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Here_there_be_radiation_dragons" >🔗</a> **[ESA]** Here there be radiation dragons
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-5P/Top_10_persistent_methane_sources" >🔗</a> **[ESA]** Top 10 persistent methane sources
 - <a href="https://spacenews.com/japan-launches-michibiki-6-navigation-satellite-with-fifth-h3-rocket/" >🔗</a> **[SpaceNews]** Japan launches Michibiki 6 navigation satellite with fifth H3 rocket
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-february-2-8-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy February 2-8, 2025
 - <a href="https://spacenews.com/indian-navigation-satellite-stuck-in-transfer-orbit-after-propulsion-failure/" >🔗</a> **[SpaceNews]** Indian navigation satellite stuck in transfer orbit after propulsion failure
 - <a href="https://spacenews.com/industry-executives-predict-more-thoughtful-new-wave-of-space-deals/" >🔗</a> **[SpaceNews]** Industry executives predict “more thoughtful” new wave of space deals
-- <a href="https://spaceflightnow.com/2025/02/02/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-8/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket from Cape Canaveral
-- <a href="https://tlpnetwork.com/news/asia/nayuta-space-secures-major-funding-to-develops-reusable-launch-system" >🔗</a> **[The Launch Pad]** Nayuta Space Secures Major Funding To Develop Reusable Launch System
-- <a href="https://tlpnetwork.com/news/policy-and-finance/astronomers-call-for-global-ban-on-space-advertising" >🔗</a> **[The Launch Pad]** Astronomers Call for Global Ban on Space Advertising
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250203T130446">2025-02-03 13:04:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250203T133251">2025-02-03 13:32:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
