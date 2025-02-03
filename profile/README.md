@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/top-pentagon-contractors-poised-for-gains-as-trump-pushes-missile-shield-expansion/" >🔗</a> **[SpaceNews]** Top Pentagon contractors poised for gains as Trump pushes missile shield expansion
+- <a href="https://www.nasa.gov/general/nasa-ames-stars-of-the-month-february-2025/" >🔗</a> **[NASA]** NASA Ames Stars of the Month: February 2025
 - <a href="https://arstechnica.com/space/2025/02/starlink-profit-growing-rapidly-as-it-faces-a-moment-of-promise-and-peril/" >🔗</a> **[Arstechnica]** Starlink profit growing rapidly as it faces a moment of promise and peril
 - <a href="https://spacenews.com/wyvern-unveils-free-hyperspectral-datasets/" >🔗</a> **[SpaceNews]** Wyvern unveils free hyperspectral datasets
 - <a href="https://www.nasa.gov/missions/insight/nasas-insight-finds-marsquakes-from-meteoroids-go-deeper-than-expected/" >🔗</a> **[NASA]** NASA’s InSight Finds Marsquakes From Meteoroids Go Deeper Than Expected
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/stennis-attends-fan-expo-new-orleans/" >🔗</a> **[NASA]** NASA Attends FAN EXPO New Orleans
 - <a href="https://www.nasa.gov/image-article/the-drive-for-better-fuels-tim-stiglets/" >🔗</a> **[NASA]** The Drive for Better Fuels NASA Employee
 - <a href="https://spacenews.com/will-esas-fair-contribution-reinvigorate-europes-space-ambitions-no-it-wont/" >🔗</a> **[SpaceNews]** Will ESA’s ‘fair contribution’ reinvigorate Europe’s space ambitions? No, it won’t.
-- <a href="https://spacenews.com/u-s-space-force-awards-viasat-3-5-million-satellite-services-contract/" >🔗</a> **[SpaceNews]** U.S. Space Force awards Viasat $3.5 million satellite services contract
-- <a href="https://spacenews.com/nasa-pauses-work-of-science-groups-citing-trump-executive-orders/" >🔗</a> **[SpaceNews]** NASA pauses work of science groups, citing Trump executive orders
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250203T200134">2025-02-03 20:01:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250203T203137">2025-02-03 20:31:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
