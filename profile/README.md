@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/station-nation-meet-tandra-gill-spain-computer-resources-senior-project-manager-in-the-avionics-and-software-office/" >🔗</a> **[NASA]** Station Nation: Meet Tandra Gill Spain, Computer Resources Senior Project Manager in the Avionics and Software Office
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Here_there_be_radiation_dragons" >🔗</a> **[ESA]** Here there be radiation dragons
 - <a href="https://spacenews.com/japan-launches-michibiki-6-navigation-satellite-with-fifth-h3-rocket/" >🔗</a> **[SpaceNews]** Japan launches Michibiki 6 navigation satellite with fifth H3 rocket
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-february-2-8-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy February 2-8, 2025
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/asia/nayuta-space-secures-major-funding-to-develops-reusable-launch-system" >🔗</a> **[The Launch Pad]** Nayuta Space Secures Major Funding To Develop Reusable Launch System
 - <a href="https://tlpnetwork.com/news/policy-and-finance/astronomers-call-for-global-ban-on-space-advertising" >🔗</a> **[The Launch Pad]** Astronomers Call for Global Ban on Space Advertising
 - <a href="https://tlpnetwork.com/news/in-space/jwst-operational-budget-facing-cuts-this-fall" >🔗</a> **[The Launch Pad]** JWST Operational Budget Facing Cuts This Fall
-- <a href="https://tlpnetwork.com/news/america/boeing-and-nasa-making-significant-progress-on-starliner-issues" >🔗</a> **[The Launch Pad]** Boeing and NASA Making “Significant Progress” on Starliner Issues, Though Thruster Problems Persist
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250203T113101">2025-02-03 11:31:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250203T120149">2025-02-03 12:01:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
