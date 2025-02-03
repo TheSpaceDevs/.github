@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/02/as-nasa-flies-into-turbulence-the-agency-could-use-a-steady-hand/" >🔗</a> **[Arstechnica]** As NASA flies into turbulence, the agency could use a steady hand
+- <a href="https://www.nasa.gov/centers-and-facilities/glenn/combustor-facilities/" >🔗</a> **[NASA]** Combustor Facilities
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/nasa-awards-contract-for-airborne-science-flight-services-support/" >🔗</a> **[NASA]** NASA Awards Contract for Airborne Science Flight Services Support
 - <a href="https://www.nasa.gov/news-release/nasa-presses-forward-search-for-viper-moon-rover-partner/" >🔗</a> **[NASA]** NASA Presses Forward Search for VIPER Moon Rover Partner
 - <a href="https://www.nasa.gov/missions/station-science-top-news-jan-31-2025/" >🔗</a> **[NASA]** Station Science Top News: Jan. 31, 2025
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/top-pentagon-contractors-poised-for-gains-as-trump-pushes-missile-shield-expansion/" >🔗</a> **[SpaceNews]** Top Pentagon contractors poised for gains as Trump pushes missile shield expansion
 - <a href="https://www.nasa.gov/general/nasa-ames-stars-of-the-month-february-2025/" >🔗</a> **[NASA]** NASA Ames Stars of the Month: February 2025
 - <a href="https://arstechnica.com/space/2025/02/starlink-profit-growing-rapidly-as-it-faces-a-moment-of-promise-and-peril/" >🔗</a> **[Arstechnica]** Starlink profit growing rapidly as it faces a moment of promise and peril
-- <a href="https://spacenews.com/wyvern-unveils-free-hyperspectral-datasets/" >🔗</a> **[SpaceNews]** Wyvern unveils free hyperspectral datasets
-- <a href="https://www.nasa.gov/missions/insight/nasas-insight-finds-marsquakes-from-meteoroids-go-deeper-than-expected/" >🔗</a> **[NASA]** NASA’s InSight Finds Marsquakes From Meteoroids Go Deeper Than Expected
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250203T230127">2025-02-03 23:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250203T233111">2025-02-03 23:31:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
