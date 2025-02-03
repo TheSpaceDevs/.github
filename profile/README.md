@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Here_there_be_radiation_dragons" >🔗</a> **[ESA]** Here there be radiation dragons
 - <a href="https://spacenews.com/japan-launches-michibiki-6-navigation-satellite-with-fifth-h3-rocket/" >🔗</a> **[SpaceNews]** Japan launches Michibiki 6 navigation satellite with fifth H3 rocket
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-february-2-8-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy February 2-8, 2025
 - <a href="https://spacenews.com/indian-navigation-satellite-stuck-in-transfer-orbit-after-propulsion-failure/" >🔗</a> **[SpaceNews]** Indian navigation satellite stuck in transfer orbit after propulsion failure
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/policy-and-finance/astronomers-call-for-global-ban-on-space-advertising" >🔗</a> **[The Launch Pad]** Astronomers Call for Global Ban on Space Advertising
 - <a href="https://tlpnetwork.com/news/in-space/jwst-operational-budget-facing-cuts-this-fall" >🔗</a> **[The Launch Pad]** JWST Operational Budget Facing Cuts This Fall
 - <a href="https://tlpnetwork.com/news/america/boeing-and-nasa-making-significant-progress-on-starliner-issues" >🔗</a> **[The Launch Pad]** Boeing and NASA Making “Significant Progress” on Starliner Issues, Though Thruster Problems Persist
-- <a href="https://tlpnetwork.com/news/america/nasa-artemis-program-faces-reassessment-amid-concerns-over-packed-mission-objectives" >🔗</a> **[The Launch Pad]** NASA’s Artemis Program Faces Reassessment Amid Concerns Over Packed Mission Objectives
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250203T090130">2025-02-03 09:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250203T093227">2025-02-03 09:32:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
