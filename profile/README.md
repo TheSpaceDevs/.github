@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/will-esas-fair-contribution-reinvigorate-europes-space-ambitions-no-it-wont/" >🔗</a> **[SpaceNews]** Will ESA’s ‘fair contribution’ reinvigorate Europe’s space ambitions? No, it won’t.
 - <a href="https://spacenews.com/u-s-space-force-awards-viasat-3-5-million-satellite-services-contract/" >🔗</a> **[SpaceNews]** U.S. Space Force awards Viasat $3.5 million satellite services contract
 - <a href="https://spacenews.com/nasa-pauses-work-of-science-groups-citing-trump-executive-orders/" >🔗</a> **[SpaceNews]** NASA pauses work of science groups, citing Trump executive orders
-- <a href="https://www.nasa.gov/general/station-nation-meet-tandra-gill-spain-computer-resources-senior-project-manager-in-the-avionics-and-software-office/" >🔗</a> **[NASA]** Station Nation: Meet Tandra Gill Spain, Computer Resources Senior Project Manager in the Avionics and Software Office
 - <a href="https://spacenews.com/cubespace-revolutionizing-satellite-control-for-the-smallsat-market-through-latest-investment/" >🔗</a> **[SpaceNews]** CubeSpace: Revolutionizing Satellite Control for the SmallSat Market through Latest Investment
+- <a href="https://www.nasa.gov/general/station-nation-meet-tandra-gill-spain-computer-resources-senior-project-manager-in-the-avionics-and-software-office/" >🔗</a> **[NASA]** Station Nation: Meet Tandra Gill Spain, Computer Resources Senior Project Manager in the Avionics and Software Office
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/02/KA-BOOM" >🔗</a> **[ESA]** KA-BOOM
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/02/KA-BOOM!" >🔗</a> **[ESA]** KA-BOOM!
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Here_there_be_radiation_dragons" >🔗</a> **[ESA]** Here there be radiation dragons
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-5P/Top_10_persistent_methane_sources" >🔗</a> **[ESA]** Top 10 persistent methane sources
 - <a href="https://spacenews.com/japan-launches-michibiki-6-navigation-satellite-with-fifth-h3-rocket/" >🔗</a> **[SpaceNews]** Japan launches Michibiki 6 navigation satellite with fifth H3 rocket
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-february-2-8-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy February 2-8, 2025
-- <a href="https://spacenews.com/indian-navigation-satellite-stuck-in-transfer-orbit-after-propulsion-failure/" >🔗</a> **[SpaceNews]** Indian navigation satellite stuck in transfer orbit after propulsion failure
-- <a href="https://spacenews.com/industry-executives-predict-more-thoughtful-new-wave-of-space-deals/" >🔗</a> **[SpaceNews]** Industry executives predict “more thoughtful” new wave of space deals
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250203T140135">2025-02-03 14:01:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250203T143330">2025-02-03 14:33:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
