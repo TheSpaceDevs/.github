@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/cubespace-revolutionizing-satellite-control-for-the-smallsat-market-through-latest-investment/" >🔗</a> **[SpaceNews]** CubeSpace: Revolutionizing Satellite Control for the SmallSat Market through Latest Investment
 - <a href="https://www.nasa.gov/general/station-nation-meet-tandra-gill-spain-computer-resources-senior-project-manager-in-the-avionics-and-software-office/" >🔗</a> **[NASA]** Station Nation: Meet Tandra Gill Spain, Computer Resources Senior Project Manager in the Avionics and Software Office
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Here_there_be_radiation_dragons" >🔗</a> **[ESA]** Here there be radiation dragons
 - <a href="https://spacenews.com/japan-launches-michibiki-6-navigation-satellite-with-fifth-h3-rocket/" >🔗</a> **[SpaceNews]** Japan launches Michibiki 6 navigation satellite with fifth H3 rocket
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/02/02/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-8/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://tlpnetwork.com/news/asia/nayuta-space-secures-major-funding-to-develops-reusable-launch-system" >🔗</a> **[The Launch Pad]** Nayuta Space Secures Major Funding To Develop Reusable Launch System
 - <a href="https://tlpnetwork.com/news/policy-and-finance/astronomers-call-for-global-ban-on-space-advertising" >🔗</a> **[The Launch Pad]** Astronomers Call for Global Ban on Space Advertising
-- <a href="https://tlpnetwork.com/news/in-space/jwst-operational-budget-facing-cuts-this-fall" >🔗</a> **[The Launch Pad]** JWST Operational Budget Facing Cuts This Fall
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250203T120149">2025-02-03 12:01:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250203T124225">2025-02-03 12:42:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
