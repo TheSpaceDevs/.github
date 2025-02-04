@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/thales-alenia-space-to-build-emirates-airlock-for-lunar-gateway-station/" >🔗</a> **[European Spaceflight]** Thales Alenia Space to Build Emirates Airlock for Lunar Gateway Station
+- <a href="https://spacenews.com/mission-space-to-launch-first-sensors-for-space-weather-constellation/" >🔗</a> **[SpaceNews]** Mission Space to launch first sensors for space-weather constellation
+- <a href="https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-software-brains-shared-across-satellite-swarms/" >🔗</a> **[NASA]** NASA Demonstrates Software ‘Brains’ Shared Across Satellite Swarms
+- <a href="https://arstechnica.com/space/2025/02/europe-has-the-worst-imaginable-idea-to-counter-spacexs-launch-dominance/" >🔗</a> **[Arstechnica]** Europe has the worst imaginable idea to counter SpaceX’s launch dominance
+- <a href="https://tlpnetwork.com/news/america/firefly-aerospace-targets-2026-for-global-launch-capability-expansion-in-virginia-and-sweden" >🔗</a> **[The Launch Pad]** Firefly Aerospace Targets 2026 For Global Launch Capability Expansion In Virginia and Sweden
 - <a href="https://www.nasa.gov/missions/europa-clipper/en-route-to-jupiter-nasas-europa-clipper-captures-images-of-stars/" >🔗</a> **[NASA]** En Route to Jupiter, NASA’s Europa Clipper Captures Images of Stars
 - <a href="https://spacenews.com/blue-origin-launches-new-shepard-on-lunar-gravity-suborbital-flight/" >🔗</a> **[SpaceNews]** Blue Origin launches New Shepard on lunar gravity suborbital flight
 - <a href="https://www.nasa.gov/general/in-the-starlight-anika-isaacs-mission-to-counsel-nasas-workforce/" >🔗</a> **[NASA]** In the Starlight: Anika Isaac’s Mission to Counsel NASA’s Workforce
 - <a href="https://science.nasa.gov/science-research/science-enabling-technology/nasas-cloud-based-confluence-software-helps-hydrologists-study-rivers-on-a-global-scale/" >🔗</a> **[NASA]** NASA’s Cloud-based Confluence Software Helps Hydrologists Study Rivers on a Global Scale
 - <a href="https://spacenews.com/arkedge-space-raises-jpy-8-billion-in-series-b-funding-to-become-leading-satellite-system-integrator-accelerating-satellite-mass-production-and-business-expansion/" >🔗</a> **[SpaceNews]** ArkEdge Space Raises JPY 8 Billion  in Series B Funding  to Become Leading Satellite System Integrator —Accelerating Satellite Mass Production and Business Expansion
-- <a href="https://spacenews.com/former-pentagon-official-frank-calvelli-joins-true-anomalys-board-of-directors/" >🔗</a> **[SpaceNews]** Former Pentagon official Frank Calvelli joins True Anomaly’s board of directors
-- <a href="https://science.nasa.gov/missions/hubble/hubble-investigates-galaxy-with-nine-rings/" >🔗</a> **[NASA]** Straight Shot: Hubble Investigates Galaxy with Nine Rings
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/ESA_and_Finland_pave_the_way_towards_a_supersite_for_Earth_observation" >🔗</a> **[ESA]** ESA and Finland pave the way towards a supersite for Earth observation
-- <a href="https://spacenews.com/why-a-missile-shield-in-space-makes-sense/" >🔗</a> **[SpaceNews]** Why a missile shield in space makes sense
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Gaia/Wobbling_stars_reveal_hidden_companions_in_Gaia_data" >🔗</a> **[ESA]** Wobbling stars reveal hidden companions in Gaia data
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250204T193106">2025-02-04 19:31:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250204T200139">2025-02-04 20:01:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
