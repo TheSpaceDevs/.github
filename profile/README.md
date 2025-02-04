@@ -95,16 +95,16 @@ The New Shepard crew capsule is using its Reaction Control System (RCS) to spin 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Gaia/Wobbling_stars_reveal_hidden_companions_in_Gaia_data" >🔗</a> **[ESA]** Wobbling stars reveal hidden companions in Gaia data
+- <a href="https://spacenews.com/why-a-missile-shield-in-space-makes-sense/" >🔗</a> **[SpaceNews]** Why a missile shield in space makes sense
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/02/ESA_s_Gaia_finds_a_mysterious_planet_and_brown_dwarf" >🔗</a> **[ESA]** ESA’s Gaia finds a mysterious planet and brown dwarf
+- <a href="https://spacenews.com/china-to-launch-2-new-space-station-cargo-spacecraft-on-commercial-rockets-in-2025/" >🔗</a> **[SpaceNews]** China to launch 2 new space station cargo spacecraft on commercial rockets in 2025
 - <a href="https://spacenews.com/jorn-spurmann-rocket-factory-augsburg-commercial-space-transformers/" >🔗</a> **[SpaceNews]** Jörn Spurmann, Rocket Factory Augsburg – Commercial Space Transformers
 - <a href="https://spacenews.com/nasa-requests-industry-proposals-for-viper-lunar-rover-partnership/" >🔗</a> **[SpaceNews]** NASA requests industry proposals for VIPER lunar rover partnership
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_investigates_a_dusty_and_dynamic_disc" >🔗</a> **[ESA]** Webb investigates a dusty and dynamic disc
 - <a href="https://science.nasa.gov/blog/persevering-through-science/" >🔗</a> **[NASA]** Persevering Through Science
 - <a href="https://science.nasa.gov/blog/sols-4441-4442-winter-is-coming/" >🔗</a> **[NASA]** Sols 4441-4442: Winter is Coming
 - <a href="https://spacepolicyonline.com/news/nasa-pauses-activities-of-community-based-science-groups/" >🔗</a> **[SpacePolicyOnline.com]** NASA Pauses Activities of Community-Based Science Groups
-- <a href="https://spacenews.com/boeing-reports-starliner-losses-of-more-than-half-a-billion-dollars-in-2024/" >🔗</a> **[SpaceNews]** Boeing reports Starliner losses of more than half a billion dollars in 2024
-- <a href="https://www.nasaspaceflight.com/2025/02/launch-roundup-020325/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Electron, Soyuz set to fly; New Shepard to simulate lunar gravity
-- <a href="https://spacenews.com/ontario-tables-starlink-contract-threat-as-us-delays-canada-tariffs/" >🔗</a> **[SpaceNews]** Ontario tables Starlink contract threat as US delays Canada tariffs
-- <a href="https://spacepolicyonline.com/news/boeings-starliner-losses-reach-2-billion/" >🔗</a> **[SpacePolicyOnline.com]** Boeing’s Starliner Losses Reach $2 Billion
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ The New Shepard crew capsule is using its Reaction Control System (RCS) to spin 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250204T140136">2025-02-04 14:01:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250204T143332">2025-02-04 14:33:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
