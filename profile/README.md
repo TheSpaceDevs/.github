@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/america/astroforge-reveals-asteroid-mining-mission-target-and-launch-partner" >🔗</a> **[The Launch Pad]** AstroForge Reveals Asteroid Mining Mission Target & Future Launch Partner
+- <a href="https://www.nasa.gov/image-article/nasa-tests-in-simulated-lunar-gravity-to-prep-payloads-for-moon/" >🔗</a> **[NASA]** NASA Tests in Simulated Lunar Gravity to Prep Payloads for Moon
+- <a href="https://tlpnetwork.com/news/in-space/isro-navigation-satellite-stranded-in-transfer-orbit-following-propulsion-system-failure" >🔗</a> **[The Launch Pad]** ISRO Navigation Satellite Stranded in Transfer Orbit Following Propulsion System Failure
+- <a href="https://tlpnetwork.com/news/america/mission-space-set-to-launch-first-sensors-for-space-weather-constellation-aboard-spacex-transporter-13" >🔗</a> **[The Launch Pad]** Mission Space Set To Launch First Sensors For Space Weather Constellation Aboard SpaceX Transporter 13
 - <a href="https://spacenews.com/top-house-science-committee-democrat-asks-nasa-for-information-on-executive-order-implementation/" >🔗</a> **[SpaceNews]** Top House Science Committee Democrat asks NASA for information on executive order implementation
 - <a href="https://tlpnetwork.com/news/asia/china-prepares-haolong-and-qingzhou-spacecrafts-for-maiden-flights-on-commercial-rockets-to-tiangong" >🔗</a> **[The Launch Pad]** China Prepares Haolong and Qingzhou Spacecrafts For Maiden Flights On Commercial Rockets to Tiangong
 - <a href="https://spacenews.com/french-space-propulsion-firm-thrustme-expands-u-s-footprint/" >🔗</a> **[SpaceNews]** French space propulsion firm ThrustMe expands U.S. footprint
 - <a href="https://tlpnetwork.com/news/policy-and-finance/viasat-secures-us-space-force-contract-for-commercial-satellite-services" >🔗</a> **[The Launch Pad]** Viasat Secures $3.5 Million US Space Force Contract For Commercial Satellite Services
 - <a href="https://www.nasa.gov/image-article/bullseye/" >🔗</a> **[NASA]** Bullseye!
 - <a href="https://europeanspaceflight.com/thales-alenia-space-to-build-emirates-airlock-for-lunar-gateway-station/" >🔗</a> **[European Spaceflight]** Thales Alenia Space to Build Emirates Airlock for Lunar Gateway Station
-- <a href="https://tlpnetwork.com/news/europe/thales-alenia-space-secures-contract-for-argonaut-lunar-lander-descent-element" >🔗</a> **[The Launch Pad]** Thales Alenia Space Secures $900M Contract For Argonaut Lunar Lander Descent Element
-- <a href="https://tlpnetwork.com/news/europe/esa-awards-multi-million-contract-for-envision-venus-mission-development" >🔗</a> **[The Launch Pad]** ESA Awards €367 Million Contract for EnVision Venus Mission Development
-- <a href="https://spacenews.com/mission-space-to-launch-first-sensors-for-space-weather-constellation/" >🔗</a> **[SpaceNews]** Mission Space to launch first sensors for space-weather constellation
-- <a href="https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-software-brains-shared-across-satellite-swarms/" >🔗</a> **[NASA]** NASA Demonstrates Software ‘Brains’ Shared Across Satellite Swarms
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250204T210134">2025-02-04 21:01:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250204T213108">2025-02-04 21:31:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
