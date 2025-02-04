@@ -46,7 +46,6 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250204T082710">2025-02-04 08:27:10 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-3&location=Cape Canaveral SFS, FL, USA&dates=20250204T082710Z%2F20250204T112419Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-3** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250204T153000">2025-02-04 15:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Shepard | NS-29&location=Corn Ranch, Van Horn, TX, USA&dates=20250204T153000Z%2F20250204T233000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Shepard | NS-29** from Corn Ranch, Van Horn, TX, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250204T204300">2025-02-04 20:43:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | IoT 4 You and Me (Kinéis 16-20)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20250204T204300Z%2F20250204T204300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | IoT 4 You and Me (Kinéis 16-20)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250204T230700">2025-02-04 23:07:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | WorldView Legion 5 &amp; 6&location=Kennedy Space Center, FL, USA&dates=20250204T230700Z%2F20250205T000700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | WorldView Legion 5 & 6** from Kennedy Space Center, FL, USA.
@@ -91,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blog/persevering-through-science/" >🔗</a> **[NASA]** Persevering Through Science
 - <a href="https://science.nasa.gov/blog/sols-4441-4442-winter-is-coming/" >🔗</a> **[NASA]** Sols 4441-4442: Winter is Coming
 - <a href="https://spacepolicyonline.com/news/nasa-pauses-activities-of-community-based-science-groups/" >🔗</a> **[SpacePolicyOnline.com]** NASA Pauses Activities of Community-Based Science Groups
 - <a href="https://spacenews.com/boeing-reports-starliner-losses-of-more-than-half-a-billion-dollars-in-2024/" >🔗</a> **[SpaceNews]** Boeing reports Starliner losses of more than half a billion dollars in 2024
@@ -100,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2025/02/as-nasa-flies-into-turbulence-the-agency-could-use-a-steady-hand/" >🔗</a> **[Arstechnica]** As NASA flies into turbulence, the agency could use a steady hand
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/combustor-facilities/" >🔗</a> **[NASA]** Combustor Facilities
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/nasa-awards-contract-for-airborne-science-flight-services-support/" >🔗</a> **[NASA]** NASA Awards Contract for Airborne Science Flight Services Support
-- <a href="https://www.nasa.gov/news-release/nasa-presses-forward-search-for-viper-moon-rover-partner/" >🔗</a> **[NASA]** NASA Presses Forward Search for VIPER Moon Rover Partner
 
 
 ### Launch-related News 🚀
@@ -113,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250204T080137">2025-02-04 08:01:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250204T083417">2025-02-04 08:34:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
