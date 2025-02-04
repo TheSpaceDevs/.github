@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_investigates_a_dusty_and_dynamic_disc" >🔗</a> **[ESA]** Webb investigates a dusty and dynamic disc
 - <a href="https://science.nasa.gov/blog/persevering-through-science/" >🔗</a> **[NASA]** Persevering Through Science
 - <a href="https://science.nasa.gov/blog/sols-4441-4442-winter-is-coming/" >🔗</a> **[NASA]** Sols 4441-4442: Winter is Coming
 - <a href="https://spacepolicyonline.com/news/nasa-pauses-activities-of-community-based-science-groups/" >🔗</a> **[SpacePolicyOnline.com]** NASA Pauses Activities of Community-Based Science Groups
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/boeings-starliner-losses-reach-2-billion/" >🔗</a> **[SpacePolicyOnline.com]** Boeing’s Starliner Losses Reach $2 Billion
 - <a href="https://arstechnica.com/space/2025/02/as-nasa-flies-into-turbulence-the-agency-could-use-a-steady-hand/" >🔗</a> **[Arstechnica]** As NASA flies into turbulence, the agency could use a steady hand
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/combustor-facilities/" >🔗</a> **[NASA]** Combustor Facilities
-- <a href="https://www.nasa.gov/centers-and-facilities/ames/nasa-awards-contract-for-airborne-science-flight-services-support/" >🔗</a> **[NASA]** NASA Awards Contract for Airborne Science Flight Services Support
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250204T090124">2025-02-04 09:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250204T093155">2025-02-04 09:31:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
