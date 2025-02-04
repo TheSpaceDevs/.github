@@ -55,7 +55,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250211T170000">2025-02-11 17:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-18&location=Cape Canaveral SFS, FL, USA&dates=20250211T170000Z%2F20250211T213100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-18** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250214T172600">2025-02-14 17:26:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-8&location=Cape Canaveral SFS, FL, USA&dates=20250214T172600Z%2F20250214T215700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-8** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250226T162400">2025-02-26 16:24:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ariane 62 | CSO-3&location=Guiana Space Centre, French Guiana&dates=20250226T162400Z%2F20250226T162400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ariane 62 | CSO-3** from Guiana Space Centre, French Guiana.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250227T000000">2025-02-27 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Nova-C IM-2 &amp; Lunar Trailblazer&location=Kennedy Space Center, FL, USA&dates=20250227T000000Z%2F20250227T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Nova-C IM-2 & Lunar Trailblazer** from Kennedy Space Center, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250227T001700">2025-02-27 00:17:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Nova-C IM-2 &amp; Lunar Trailblazer&location=Kennedy Space Center, FL, USA&dates=20250227T001700Z%2F20250227T001700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Nova-C IM-2 & Lunar Trailblazer** from Kennedy Space Center, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/europa-clipper/en-route-to-jupiter-nasas-europa-clipper-captures-images-of-stars/" >🔗</a> **[NASA]** En Route to Jupiter, NASA’s Europa Clipper Captures Images of Stars
 - <a href="https://spacenews.com/blue-origin-launches-new-shepard-on-lunar-gravity-suborbital-flight/" >🔗</a> **[SpaceNews]** Blue Origin launches New Shepard on lunar gravity suborbital flight
 - <a href="https://www.nasa.gov/general/in-the-starlight-anika-isaacs-mission-to-counsel-nasas-workforce/" >🔗</a> **[NASA]** In the Starlight: Anika Isaac’s Mission to Counsel NASA’s Workforce
 - <a href="https://science.nasa.gov/science-research/science-enabling-technology/nasas-cloud-based-confluence-software-helps-hydrologists-study-rivers-on-a-global-scale/" >🔗</a> **[NASA]** NASA’s Cloud-based Confluence Software Helps Hydrologists Study Rivers on a Global Scale
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/ESA_and_Finland_pave_the_way_towards_a_supersite_for_Earth_observation" >🔗</a> **[ESA]** ESA and Finland pave the way towards a supersite for Earth observation
 - <a href="https://spacenews.com/why-a-missile-shield-in-space-makes-sense/" >🔗</a> **[SpaceNews]** Why a missile shield in space makes sense
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Gaia/Wobbling_stars_reveal_hidden_companions_in_Gaia_data" >🔗</a> **[ESA]** Wobbling stars reveal hidden companions in Gaia data
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/02/ESA_s_Gaia_finds_a_mysterious_planet_and_brown_dwarf" >🔗</a> **[ESA]** ESA’s Gaia finds a mysterious planet and brown dwarf
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250204T190116">2025-02-04 19:01:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250204T193106">2025-02-04 19:31:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
