@@ -95,6 +95,8 @@ The New Shepard crew capsule is using its Reaction Control System (RCS) to spin 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/jorn-spurmann-rocket-factory-augsburg-commercial-space-transformers/" >🔗</a> **[SpaceNews]** Jörn Spurmann, Rocket Factory Augsburg – Commercial Space Transformers
+- <a href="https://spacenews.com/nasa-requests-industry-proposals-for-viper-lunar-rover-partnership/" >🔗</a> **[SpaceNews]** NASA requests industry proposals for VIPER lunar rover partnership
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_investigates_a_dusty_and_dynamic_disc" >🔗</a> **[ESA]** Webb investigates a dusty and dynamic disc
 - <a href="https://science.nasa.gov/blog/persevering-through-science/" >🔗</a> **[NASA]** Persevering Through Science
 - <a href="https://science.nasa.gov/blog/sols-4441-4442-winter-is-coming/" >🔗</a> **[NASA]** Sols 4441-4442: Winter is Coming
@@ -103,8 +105,6 @@ The New Shepard crew capsule is using its Reaction Control System (RCS) to spin 
 - <a href="https://www.nasaspaceflight.com/2025/02/launch-roundup-020325/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Electron, Soyuz set to fly; New Shepard to simulate lunar gravity
 - <a href="https://spacenews.com/ontario-tables-starlink-contract-threat-as-us-delays-canada-tariffs/" >🔗</a> **[SpaceNews]** Ontario tables Starlink contract threat as US delays Canada tariffs
 - <a href="https://spacepolicyonline.com/news/boeings-starliner-losses-reach-2-billion/" >🔗</a> **[SpacePolicyOnline.com]** Boeing’s Starliner Losses Reach $2 Billion
-- <a href="https://arstechnica.com/space/2025/02/as-nasa-flies-into-turbulence-the-agency-could-use-a-steady-hand/" >🔗</a> **[Arstechnica]** As NASA flies into turbulence, the agency could use a steady hand
-- <a href="https://www.nasa.gov/centers-and-facilities/glenn/combustor-facilities/" >🔗</a> **[NASA]** Combustor Facilities
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ The New Shepard crew capsule is using its Reaction Control System (RCS) to spin 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250204T130502">2025-02-04 13:05:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250204T133306">2025-02-04 13:33:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
