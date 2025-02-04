@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/top-house-science-committee-democrat-asks-nasa-for-information-on-executive-order-implementation/" >🔗</a> **[SpaceNews]** Top House Science Committee Democrat asks NASA for information on executive order implementation
+- <a href="https://tlpnetwork.com/news/asia/china-prepares-haolong-and-qingzhou-spacecrafts-for-maiden-flights-on-commercial-rockets-to-tiangong" >🔗</a> **[The Launch Pad]** China Prepares Haolong and Qingzhou Spacecrafts For Maiden Flights On Commercial Rockets to Tiangong
+- <a href="https://spacenews.com/french-space-propulsion-firm-thrustme-expands-u-s-footprint/" >🔗</a> **[SpaceNews]** French space propulsion firm ThrustMe expands U.S. footprint
+- <a href="https://tlpnetwork.com/news/policy-and-finance/viasat-secures-us-space-force-contract-for-commercial-satellite-services" >🔗</a> **[The Launch Pad]** Viasat Secures $3.5 Million US Space Force Contract For Commercial Satellite Services
+- <a href="https://www.nasa.gov/image-article/bullseye/" >🔗</a> **[NASA]** Bullseye!
 - <a href="https://europeanspaceflight.com/thales-alenia-space-to-build-emirates-airlock-for-lunar-gateway-station/" >🔗</a> **[European Spaceflight]** Thales Alenia Space to Build Emirates Airlock for Lunar Gateway Station
+- <a href="https://tlpnetwork.com/news/europe/thales-alenia-space-secures-contract-for-argonaut-lunar-lander-descent-element" >🔗</a> **[The Launch Pad]** Thales Alenia Space Secures $900M Contract For Argonaut Lunar Lander Descent Element
+- <a href="https://tlpnetwork.com/news/europe/esa-awards-multi-million-contract-for-envision-venus-mission-development" >🔗</a> **[The Launch Pad]** ESA Awards €367 Million Contract for EnVision Venus Mission Development
 - <a href="https://spacenews.com/mission-space-to-launch-first-sensors-for-space-weather-constellation/" >🔗</a> **[SpaceNews]** Mission Space to launch first sensors for space-weather constellation
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-software-brains-shared-across-satellite-swarms/" >🔗</a> **[NASA]** NASA Demonstrates Software ‘Brains’ Shared Across Satellite Swarms
-- <a href="https://arstechnica.com/space/2025/02/europe-has-the-worst-imaginable-idea-to-counter-spacexs-launch-dominance/" >🔗</a> **[Arstechnica]** Europe has the worst imaginable idea to counter SpaceX’s launch dominance
-- <a href="https://tlpnetwork.com/news/america/firefly-aerospace-targets-2026-for-global-launch-capability-expansion-in-virginia-and-sweden" >🔗</a> **[The Launch Pad]** Firefly Aerospace Targets 2026 For Global Launch Capability Expansion In Virginia and Sweden
-- <a href="https://www.nasa.gov/missions/europa-clipper/en-route-to-jupiter-nasas-europa-clipper-captures-images-of-stars/" >🔗</a> **[NASA]** En Route to Jupiter, NASA’s Europa Clipper Captures Images of Stars
-- <a href="https://spacenews.com/blue-origin-launches-new-shepard-on-lunar-gravity-suborbital-flight/" >🔗</a> **[SpaceNews]** Blue Origin launches New Shepard on lunar gravity suborbital flight
-- <a href="https://www.nasa.gov/general/in-the-starlight-anika-isaacs-mission-to-counsel-nasas-workforce/" >🔗</a> **[NASA]** In the Starlight: Anika Isaac’s Mission to Counsel NASA’s Workforce
-- <a href="https://science.nasa.gov/science-research/science-enabling-technology/nasas-cloud-based-confluence-software-helps-hydrologists-study-rivers-on-a-global-scale/" >🔗</a> **[NASA]** NASA’s Cloud-based Confluence Software Helps Hydrologists Study Rivers on a Global Scale
-- <a href="https://spacenews.com/arkedge-space-raises-jpy-8-billion-in-series-b-funding-to-become-leading-satellite-system-integrator-accelerating-satellite-mass-production-and-business-expansion/" >🔗</a> **[SpaceNews]** ArkEdge Space Raises JPY 8 Billion  in Series B Funding  to Become Leading Satellite System Integrator —Accelerating Satellite Mass Production and Business Expansion
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250204T200139">2025-02-04 20:01:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250204T203155">2025-02-04 20:31:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
