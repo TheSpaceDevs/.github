@@ -105,6 +105,7 @@ into *a Low Earth Orbit
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2025/02/launch-roundup-020325/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Electron, Soyuz set to fly; New Shepard to simulate lunar gravity
 - <a href="https://spaceflightnow.com/2025/02/02/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-8/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://www.nasaspaceflight.com/2025/01/launch-roundup-270124/" >🔗</a> **[NASASpaceflight]** Launch Roundup: New Shepard to simulate lunar gravity, India and Japan to launch navigation satellites.
 - <a href="https://www.nasaspaceflight.com/2024/12/launch-roundup-122324/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX, China, and Russia maintain busy launch manifests through the holidays
@@ -112,7 +113,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250204T073101">2025-02-04 07:31:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250204T080137">2025-02-04 08:01:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
