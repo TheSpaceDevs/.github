@@ -20,31 +20,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**New Shepard | NS-29**. It is scheduled to be launched by *Blue Origin*
+**Falcon 9 Block 5 | WorldView Legion 5 & 6**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Corn_Ranch">West Texas Suborbital Launch Site/ Corn Ranch</a>, Corn Ranch, Van Horn, TX, USA*
+from *<a href="https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39A">Launch Complex 39A</a>, Kennedy Space Center, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250204T153000">2025-02-04 15:30:00 UTC</a>.  Until
-then, this pad will have been used for 28
-out of 28 launches from this location. The launch status is currently
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250204T230700">2025-02-04 23:07:00 UTC</a>.  Until
+then, this pad will have been used for 198
+out of 256 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Suborbital* and the payload will be injected
-into *a Suborbital
-(Sub)*.
+*Earth Science* and the payload will be injected
+into *a Low Earth Orbit
+(LEO)*.
 <br>
 <blockquote>
-  NS-29 will simulate the Moon’s gravity and fly 30 payloads, all but one of which is focused on testing lunar-related technologies.
-
-The payloads will experience at least two minutes of lunar gravity forces, a first for New Shepard and made possible in part through support from NASA. The flight will test six broad lunar technology areas: In-situ resource utilization, dust mitigation, advanced habitation systems, sensors and instrumentation, small spacecraft technologies, and entry descent and landing. Proving out these technologies at lower cost is another step toward Blue Origin’s mission to lower the cost of access to space for the benefit of Earth. It also enables NASA and other lunar surface technology providers to test innovations critical to achieving Artemis program goals and exploring the Moon’s surface. 
-
-The New Shepard crew capsule is using its Reaction Control System (RCS) to spin up to approximately 11 revolutions per minute. This spin rate simulates one-sixth Earth gravity at the midpoint of the crew capsule lockers. In simulated lunar gravity, customers can accelerate their learning and technology readiness for lunar payloads at much lower cost.
+  WorldView Legion is a constellation of Earth observation satellites built and operated by Maxar. Constellation is planned to consist of 6 satellites in both polar and mid-inclination orbits, providing 30 cm-class resolution.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/New_Shepard" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=31.422878000000000,-104.757121000000000" >
+  <a href="https://www.google.com/maps?q=28.60822681,-80.60428186" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -59,6 +55,7 @@ The New Shepard crew capsule is using its Reaction Control System (RCS) to spin 
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250226T162400">2025-02-26 16:24:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ariane 62 | CSO-3&location=Guiana Space Centre, French Guiana&dates=20250226T162400Z%2F20250226T162400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ariane 62 | CSO-3** from Guiana Space Centre, French Guiana.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250227T000000">2025-02-27 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Nova-C IM-2 &amp; Lunar Trailblazer&location=Kennedy Space Center, FL, USA&dates=20250227T000000Z%2F20250227T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Nova-C IM-2 & Lunar Trailblazer** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250228T000000">2025-02-28 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Progress MS-30 (91P)&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20250228T000000Z%2F20250228T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Progress MS-30 (91P)** from Baikonur Cosmodrome, Republic of Kazakhstan.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250228T000000">2025-02-28 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | BlackSky Gen-3 1&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20250228T000000Z%2F20250228T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | BlackSky Gen-3 1** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -94,28 +91,27 @@ The New Shepard crew capsule is using its Reaction Control System (RCS) to spin 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/arkedge-space-raises-jpy-8-billion-in-series-b-funding-to-become-leading-satellite-system-integrator-accelerating-satellite-mass-production-and-business-expansion/" >🔗</a> **[SpaceNews]** ArkEdge Space Raises JPY 8 Billion  in Series B Funding  to Become Leading Satellite System Integrator —Accelerating Satellite Mass Production and Business Expansion
 - <a href="https://spacenews.com/former-pentagon-official-frank-calvelli-joins-true-anomalys-board-of-directors/" >🔗</a> **[SpaceNews]** Former Pentagon official Frank Calvelli joins True Anomaly’s board of directors
 - <a href="https://science.nasa.gov/missions/hubble/hubble-investigates-galaxy-with-nine-rings/" >🔗</a> **[NASA]** Straight Shot: Hubble Investigates Galaxy with Nine Rings
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/ESA_and_Finland_pave_the_way_towards_a_supersite_for_Earth_observation" >🔗</a> **[ESA]** ESA and Finland pave the way towards a supersite for Earth observation
 - <a href="https://spacenews.com/why-a-missile-shield-in-space-makes-sense/" >🔗</a> **[SpaceNews]** Why a missile shield in space makes sense
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/02/ESA_s_Gaia_finds_a_mysterious_planet_and_brown_dwarf" >🔗</a> **[ESA]** ESA’s Gaia finds a mysterious planet and brown dwarf
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Gaia/Wobbling_stars_reveal_hidden_companions_in_Gaia_data" >🔗</a> **[ESA]** Wobbling stars reveal hidden companions in Gaia data
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/02/ESA_s_Gaia_finds_a_mysterious_planet_and_brown_dwarf" >🔗</a> **[ESA]** ESA’s Gaia finds a mysterious planet and brown dwarf
 - <a href="https://spacenews.com/china-to-launch-2-new-space-station-cargo-spacecraft-on-commercial-rockets-in-2025/" >🔗</a> **[SpaceNews]** China to launch 2 new space station cargo spacecraft on commercial rockets in 2025
 - <a href="https://spacenews.com/jorn-spurmann-rocket-factory-augsburg-commercial-space-transformers/" >🔗</a> **[SpaceNews]** Jörn Spurmann, Rocket Factory Augsburg – Commercial Space Transformers
 - <a href="https://spacenews.com/nasa-requests-industry-proposals-for-viper-lunar-rover-partnership/" >🔗</a> **[SpaceNews]** NASA requests industry proposals for VIPER lunar rover partnership
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_investigates_a_dusty_and_dynamic_disc" >🔗</a> **[ESA]** Webb investigates a dusty and dynamic disc
-- <a href="https://science.nasa.gov/blog/persevering-through-science/" >🔗</a> **[NASA]** Persevering Through Science
 
 
 ### Launch-related News 🚀
 
 - <a href="https://www.nasaspaceflight.com/2025/02/launch-roundup-020325/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Electron, Soyuz set to fly; New Shepard to simulate lunar gravity
-- <a href="https://www.nasaspaceflight.com/2025/01/launch-roundup-270124/" >🔗</a> **[NASASpaceflight]** Launch Roundup: New Shepard to simulate lunar gravity, India and Japan to launch navigation satellites.
-- <a href="https://spacenews.com/new-shepard-flight-to-demonstrate-lunar-gravity/" >🔗</a> **[SpaceNews]** New Shepard flight to demonstrate lunar gravity
+- <a href="https://spacenews.com/maxar-prepares-for-final-worldview-legion-launch-to-complete-advanced-imaging-constellation/" >🔗</a> **[SpaceNews]** Maxar prepares for final WorldView Legion launch to complete advanced imaging constellation
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250204T160132">2025-02-04 16:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250204T163544">2025-02-04 16:35:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
