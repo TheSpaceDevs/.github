@@ -50,7 +50,6 @@ The New Shepard crew capsule is using its Reaction Control System (RCS) to spin 
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250204T153000">2025-02-04 15:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Shepard | NS-29&location=Corn Ranch, Van Horn, TX, USA&dates=20250204T153000Z%2F20250204T233000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Shepard | NS-29** from Corn Ranch, Van Horn, TX, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250204T230700">2025-02-04 23:07:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | WorldView Legion 5 &amp; 6&location=Kennedy Space Center, FL, USA&dates=20250204T230700Z%2F20250205T000700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | WorldView Legion 5 & 6** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250205T030000">2025-02-05 03:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1v/Volga | Kosmos (Unknown Payload)&location=Plesetsk Cosmodrome, Russian Federation&dates=20250205T030000Z%2F20250205T050000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1v/Volga | Kosmos (Unknown Payload)** from Plesetsk Cosmodrome, Russian Federation.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250205T204300">2025-02-05 20:43:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | IoT 4 You and Me (Kinéis 16-20)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20250205T204300Z%2F20250205T204300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | IoT 4 You and Me (Kinéis 16-20)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
@@ -95,16 +94,16 @@ The New Shepard crew capsule is using its Reaction Control System (RCS) to spin 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Gaia/Wobbling_stars_reveal_hidden_companions_in_Gaia_data" >🔗</a> **[ESA]** Wobbling stars reveal hidden companions in Gaia data
+- <a href="https://spacenews.com/former-pentagon-official-frank-calvelli-joins-true-anomalys-board-of-directors/" >🔗</a> **[SpaceNews]** Former Pentagon official Frank Calvelli joins True Anomaly’s board of directors
+- <a href="https://science.nasa.gov/missions/hubble/hubble-investigates-galaxy-with-nine-rings/" >🔗</a> **[NASA]** Straight Shot: Hubble Investigates Galaxy with Nine Rings
 - <a href="https://spacenews.com/why-a-missile-shield-in-space-makes-sense/" >🔗</a> **[SpaceNews]** Why a missile shield in space makes sense
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/02/ESA_s_Gaia_finds_a_mysterious_planet_and_brown_dwarf" >🔗</a> **[ESA]** ESA’s Gaia finds a mysterious planet and brown dwarf
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Gaia/Wobbling_stars_reveal_hidden_companions_in_Gaia_data" >🔗</a> **[ESA]** Wobbling stars reveal hidden companions in Gaia data
 - <a href="https://spacenews.com/china-to-launch-2-new-space-station-cargo-spacecraft-on-commercial-rockets-in-2025/" >🔗</a> **[SpaceNews]** China to launch 2 new space station cargo spacecraft on commercial rockets in 2025
 - <a href="https://spacenews.com/jorn-spurmann-rocket-factory-augsburg-commercial-space-transformers/" >🔗</a> **[SpaceNews]** Jörn Spurmann, Rocket Factory Augsburg – Commercial Space Transformers
 - <a href="https://spacenews.com/nasa-requests-industry-proposals-for-viper-lunar-rover-partnership/" >🔗</a> **[SpaceNews]** NASA requests industry proposals for VIPER lunar rover partnership
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_investigates_a_dusty_and_dynamic_disc" >🔗</a> **[ESA]** Webb investigates a dusty and dynamic disc
 - <a href="https://science.nasa.gov/blog/persevering-through-science/" >🔗</a> **[NASA]** Persevering Through Science
-- <a href="https://science.nasa.gov/blog/sols-4441-4442-winter-is-coming/" >🔗</a> **[NASA]** Sols 4441-4442: Winter is Coming
-- <a href="https://spacepolicyonline.com/news/nasa-pauses-activities-of-community-based-science-groups/" >🔗</a> **[SpacePolicyOnline.com]** NASA Pauses Activities of Community-Based Science Groups
 
 
 ### Launch-related News 🚀
@@ -116,7 +115,7 @@ The New Shepard crew capsule is using its Reaction Control System (RCS) to spin 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250204T150122">2025-02-04 15:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250204T153243">2025-02-04 15:32:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
