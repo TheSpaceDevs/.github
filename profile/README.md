@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/nasa-pauses-activities-of-community-based-science-groups/" >🔗</a> **[SpacePolicyOnline.com]** NASA Pauses Activities of Community-Based Science Groups
 - <a href="https://spacenews.com/boeing-reports-starliner-losses-of-more-than-half-a-billion-dollars-in-2024/" >🔗</a> **[SpaceNews]** Boeing reports Starliner losses of more than half a billion dollars in 2024
 - <a href="https://www.nasaspaceflight.com/2025/02/launch-roundup-020325/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Electron, Soyuz set to fly; New Shepard to simulate lunar gravity
 - <a href="https://spacenews.com/ontario-tables-starlink-contract-threat-as-us-delays-canada-tariffs/" >🔗</a> **[SpaceNews]** Ontario tables Starlink contract threat as US delays Canada tariffs
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/nasa-awards-contract-for-airborne-science-flight-services-support/" >🔗</a> **[NASA]** NASA Awards Contract for Airborne Science Flight Services Support
 - <a href="https://www.nasa.gov/news-release/nasa-presses-forward-search-for-viper-moon-rover-partner/" >🔗</a> **[NASA]** NASA Presses Forward Search for VIPER Moon Rover Partner
 - <a href="https://www.nasa.gov/missions/station-science-top-news-jan-31-2025/" >🔗</a> **[NASA]** Station Science Top News: Jan. 31, 2025
-- <a href="https://www.nasa.gov/image-article/stacking-artemis-ii/" >🔗</a> **[NASA]** Stacking Artemis II
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250204T050131">2025-02-04 05:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250204T053304">2025-02-04 05:33:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
