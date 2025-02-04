@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ontario-tables-starlink-contract-threat-as-us-delays-canada-tariffs/" >🔗</a> **[SpaceNews]** Ontario tables Starlink contract threat as US delays Canada tariffs
+- <a href="https://spacepolicyonline.com/news/boeings-starliner-losses-reach-2-billion/" >🔗</a> **[SpacePolicyOnline.com]** Boeing’s Starliner Losses Reach $2 Billion
 - <a href="https://arstechnica.com/space/2025/02/as-nasa-flies-into-turbulence-the-agency-could-use-a-steady-hand/" >🔗</a> **[Arstechnica]** As NASA flies into turbulence, the agency could use a steady hand
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/combustor-facilities/" >🔗</a> **[NASA]** Combustor Facilities
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/nasa-awards-contract-for-airborne-science-flight-services-support/" >🔗</a> **[NASA]** NASA Awards Contract for Airborne Science Flight Services Support
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/stacking-artemis-ii/" >🔗</a> **[NASA]** Stacking Artemis II
 - <a href="https://www.nasa.gov/learning-resources/how-does-the-sun-behave-grades-k-4/" >🔗</a> **[NASA]** How Does the Sun Behave? (Grades K-4)
 - <a href="https://spacenews.com/top-pentagon-contractors-poised-for-gains-as-trump-pushes-missile-shield-expansion/" >🔗</a> **[SpaceNews]** Top Pentagon contractors poised for gains as Trump pushes missile shield expansion
-- <a href="https://www.nasa.gov/general/nasa-ames-stars-of-the-month-february-2025/" >🔗</a> **[NASA]** NASA Ames Stars of the Month: February 2025
-- <a href="https://arstechnica.com/space/2025/02/starlink-profit-growing-rapidly-as-it-faces-a-moment-of-promise-and-peril/" >🔗</a> **[Arstechnica]** Starlink profit growing rapidly as it faces a moment of promise and peril
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250203T233111">2025-02-03 23:31:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250204T000404">2025-02-04 00:04:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
