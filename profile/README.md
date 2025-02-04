@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/blue-origin-launches-new-shepard-on-lunar-gravity-suborbital-flight/" >🔗</a> **[SpaceNews]** Blue Origin launches New Shepard on lunar gravity suborbital flight
+- <a href="https://www.nasa.gov/general/in-the-starlight-anika-isaacs-mission-to-counsel-nasas-workforce/" >🔗</a> **[NASA]** In the Starlight: Anika Isaac’s Mission to Counsel NASA’s Workforce
 - <a href="https://science.nasa.gov/science-research/science-enabling-technology/nasas-cloud-based-confluence-software-helps-hydrologists-study-rivers-on-a-global-scale/" >🔗</a> **[NASA]** NASA’s Cloud-based Confluence Software Helps Hydrologists Study Rivers on a Global Scale
 - <a href="https://spacenews.com/arkedge-space-raises-jpy-8-billion-in-series-b-funding-to-become-leading-satellite-system-integrator-accelerating-satellite-mass-production-and-business-expansion/" >🔗</a> **[SpaceNews]** ArkEdge Space Raises JPY 8 Billion  in Series B Funding  to Become Leading Satellite System Integrator —Accelerating Satellite Mass Production and Business Expansion
 - <a href="https://spacenews.com/former-pentagon-official-frank-calvelli-joins-true-anomalys-board-of-directors/" >🔗</a> **[SpaceNews]** Former Pentagon official Frank Calvelli joins True Anomaly’s board of directors
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/why-a-missile-shield-in-space-makes-sense/" >🔗</a> **[SpaceNews]** Why a missile shield in space makes sense
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Gaia/Wobbling_stars_reveal_hidden_companions_in_Gaia_data" >🔗</a> **[ESA]** Wobbling stars reveal hidden companions in Gaia data
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/02/ESA_s_Gaia_finds_a_mysterious_planet_and_brown_dwarf" >🔗</a> **[ESA]** ESA’s Gaia finds a mysterious planet and brown dwarf
-- <a href="https://spacenews.com/china-to-launch-2-new-space-station-cargo-spacecraft-on-commercial-rockets-in-2025/" >🔗</a> **[SpaceNews]** China to launch 2 new space station cargo spacecraft on commercial rockets in 2025
-- <a href="https://spacenews.com/jorn-spurmann-rocket-factory-augsburg-commercial-space-transformers/" >🔗</a> **[SpaceNews]** Jörn Spurmann, Rocket Factory Augsburg – Commercial Space Transformers
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250204T180131">2025-02-04 18:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250204T183541">2025-02-04 18:35:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
