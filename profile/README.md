@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spirit-electronics-and-partner-novi-celebrate-successful-launch-emerging-technological-advances-in-new-space-and-ai-infrastructure/" >🔗</a> **[SpaceNews]** Spirit Electronics and Partner NOVI Celebrate Successful Launch, Emerging Technological Advances in New Space and AI Infrastructure
+- <a href="https://spacenews.com/atmos-space-cargo-secures-regulatory-approvals-for-first-reentry-mission/" >🔗</a> **[SpaceNews]** Atmos Space Cargo secures regulatory approvals for first reentry mission
+- <a href="https://arstechnica.com/space/2025/02/after-a-wrenching-decision-by-nasa-private-lunar-lander-finds-a-new-customer/" >🔗</a> **[Arstechnica]** After a wrenching decision by NASA, private lunar lander finds a new customer
+- <a href="https://spacenews.com/astrolab-to-fly-its-flip-lunar-lander-on-astrobotics-griffin-1-lander/" >🔗</a> **[SpaceNews]** Astrolab to fly its FLIP lunar lander on Astrobotic’s Griffin-1 lander
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Galileo_sites_from_pole_to_tropics_begin_migration" >🔗</a> **[ESA]** Galileo sites from pole to tropics begin migration
-- <a href="https://spacenews.com/thinkom-boeing-demo-high-speed-satellite-communications-for-military-aircraft/" >🔗</a> **[SpaceNews]** ThinKom, Boeing demo high-speed satellite communications for military aircraft
 - <a href="https://spacenews.com/missing-link-still-needed-to-save-mars-sample-return/" >🔗</a> **[SpaceNews]** Missing link still needed to save Mars Sample Return
+- <a href="https://spacenews.com/thinkom-boeing-demo-high-speed-satellite-communications-for-military-aircraft/" >🔗</a> **[SpaceNews]** ThinKom, Boeing demo high-speed satellite communications for military aircraft
 - <a href="https://spacenews.com/thales-alenia-space-wins-contract-for-gateway-airlock/" >🔗</a> **[SpaceNews]** Thales Alenia Space wins contract for Gateway airlock
 - <a href="https://europeanspaceflight.com/cnes-to-develop-reusable-upper-stage-for-heavy-lift-rocket/" >🔗</a> **[European Spaceflight]** CNES to Develop Reusable Upper Stage for Heavy-Lift Rocket
 - <a href="https://spacenews.com/beck-says-space-industry-benefited-from-spac-mania/" >🔗</a> **[SpaceNews]** Beck says space industry benefited from SPAC mania
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/02/Scientists_spot_tiny_Sun_jets_driving_fast_and_slow_solar_wind" >🔗</a> **[ESA]** Scientists spot tiny Sun jets driving fast and slow solar wind
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/01/Artist_s_view_of_Europe_s_launcher_family_from_2024_onwards" >🔗</a> **[ESA]** Artist's view of Europe's launcher family from 2024 onwards
-- <a href="https://science.nasa.gov/solar-system/skywatching/planetary-alignments-and-planet-parades/" >🔗</a> **[NASA]** Planetary Alignments and Planet Parades
-- <a href="https://spacenews.com/spacex-launches-third-pair-of-maxars-worldview-legion-imaging-satellites/" >🔗</a> **[SpaceNews]** SpaceX launches third pair of Maxar’s WorldView Legion imaging satellites
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250205T150133">2025-02-05 15:01:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250205T153301">2025-02-05 15:33:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
