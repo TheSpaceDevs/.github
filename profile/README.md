@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/iridium-exploring-small-satellites-to-advance-pnt-capabilities/" >🔗</a> **[SpaceNews]** Iridium exploring small satellites to advance PNT capabilities
 - <a href="https://arstechnica.com/space/2025/02/nasa-has-entered-the-chat-space-agency-to-twitch-stream-from-orbit/" >🔗</a> **[Arstechnica]** NASA has entered the chat: Space agency to Twitch stream from orbit
 - <a href="https://www.nasa.gov/news-release/nasa-brings-space-to-new-jersey-classroom-with-astronaut-qa/" >🔗</a> **[NASA]** NASA Brings Space to New Jersey Classroom with Astronaut Q&A
 - <a href="https://www.nasa.gov/general/nasa-invites-media-to-learn-about-spacecraft-autonomous-tech-firsts/" >🔗</a> **[NASA]** NASA Invites Media to Learn about Spacecraft Autonomous Tech Firsts
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-goes-live-first-twitch-stream-from-space-station/" >🔗</a> **[NASA]** NASA Goes Live: First Twitch Stream from Space Station
 - <a href="https://tlpnetwork.com/news/policy-and-finance/uae-selects-thales-alenia-space-for-lunar-gateway-airlock-amid-uncertain-program-future" >🔗</a> **[The Launch Pad]** UAE Selects Thales Alenia Space for Lunar Gateway Airlock Amid Uncertain Program Future
 - <a href="https://tlpnetwork.com/news/military/boeing-and-thinkom-complete-high-bandwidth-satellite-connectivity-for-military-demo" >🔗</a> **[The Launch Pad]** Boeing and ThinKom Complete High-Bandwidth Satellite Connectivity for Military Demo
-- <a href="https://tlpnetwork.com/news/europe/atmos-space-cargo-secures-regulatory-approval-for-reentry-technology-demo-mission" >🔗</a> **[The Launch Pad]** Atmos Space Cargo Secures Regulatory Approval for Reentry Technology Demo Mission
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250205T220131">2025-02-05 22:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250205T223428">2025-02-05 22:34:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
