@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacex-launches-third-pair-of-maxars-worldview-legion-imaging-satellites/" >🔗</a> **[SpaceNews]** SpaceX launches third pair of Maxar’s WorldView Legion imaging satellites
 - <a href="https://spacenews.com/the-evolving-case-for-vertical-integration-as-satellites-go-modular/" >🔗</a> **[SpaceNews]** The evolving case for vertical integration as satellites go modular
 - <a href="https://spacenews.com/oursky-and-planewave-instruments-merge-to-create-observable-space/" >🔗</a> **[SpaceNews]** OurSky and PlaneWave Instruments merge to create Observable Space
 - <a href="https://tlpnetwork.com/news/america/astroforge-reveals-asteroid-mining-mission-target-and-launch-partner" >🔗</a> **[The Launch Pad]** AstroForge Reveals Asteroid Mining Mission Target & Future Launch Partner
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/top-house-science-committee-democrat-asks-nasa-for-information-on-executive-order-implementation/" >🔗</a> **[SpaceNews]** Top House Science Committee Democrat asks NASA for information on executive order implementation
 - <a href="https://tlpnetwork.com/news/asia/china-prepares-haolong-and-qingzhou-spacecrafts-for-maiden-flights-on-commercial-rockets-to-tiangong" >🔗</a> **[The Launch Pad]** China Prepares Haolong and Qingzhou Spacecrafts For Maiden Flights On Commercial Rockets to Tiangong
 - <a href="https://spacenews.com/french-space-propulsion-firm-thrustme-expands-u-s-footprint/" >🔗</a> **[SpaceNews]** French space propulsion firm ThrustMe expands U.S. footprint
-- <a href="https://tlpnetwork.com/news/policy-and-finance/viasat-secures-us-space-force-contract-for-commercial-satellite-services" >🔗</a> **[The Launch Pad]** Viasat Secures $3.5 Million US Space Force Contract For Commercial Satellite Services
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250205T000422">2025-02-05 00:04:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250205T004532">2025-02-05 00:45:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
