@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ksat-expands-role-in-satellite-operations/" >🔗</a> **[SpaceNews]** KSAT expands role in satellite  operations
 - <a href="https://spacenews.com/air-force-acquisition-veteran-takes-helm-of-space-development-agency/" >🔗</a> **[SpaceNews]** Air Force acquisition veteran takes helm of Space Development Agency
 - <a href="https://spacenews.com/what-deepseek-just-pulled-off-and-why-space-tech-should-worry/" >🔗</a> **[SpaceNews]** What DeepSeek just pulled off — and why space tech should worry
 - <a href="https://spacenews.com/sky-perfect-jsat-is-the-customer-behind-planets-230-million-leo-order/" >🔗</a> **[SpaceNews]** SKY Perfect JSAT is the customer behind Planet’s $230 million LEO order
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/astrolab-to-fly-its-flip-lunar-lander-on-astrobotics-griffin-1-lander/" >🔗</a> **[SpaceNews]** Astrolab to fly its FLIP lunar lander on Astrobotic’s Griffin-1 lander
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Galileo_sites_from_pole_to_tropics_begin_migration" >🔗</a> **[ESA]** Galileo sites from pole to tropics begin migration
 - <a href="https://spacenews.com/missing-link-still-needed-to-save-mars-sample-return/" >🔗</a> **[SpaceNews]** Missing link still needed to save Mars Sample Return
-- <a href="https://spacenews.com/thinkom-boeing-demo-high-speed-satellite-communications-for-military-aircraft/" >🔗</a> **[SpaceNews]** ThinKom, Boeing demo high-speed satellite communications for military aircraft
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250205T170120">2025-02-05 17:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250205T173146">2025-02-05 17:31:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
