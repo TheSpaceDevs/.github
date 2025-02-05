@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/apogee-semiconductor-strengthens-board-of-directors-with-aerospace-and-semiconductor-industry-leaders-rachel-lovejoy-and-dr-marco-villa/" >🔗</a> **[SpaceNews]** Apogee Semiconductor Strengthens Board of Directors with Aerospace and Semiconductor Industry Leaders Rachel Lovejoy and Dr. Marco Villa
+- <a href="https://www.nasa.gov/image-article/apollo-14-moon-landing/" >🔗</a> **[NASA]** Apollo 14 Moon Landing
 - <a href="https://www.nasa.gov/news-release/nasa-goes-live-first-twitch-stream-from-space-station/" >🔗</a> **[NASA]** NASA Goes Live: First Twitch Stream from Space Station
 - <a href="https://tlpnetwork.com/news/policy-and-finance/uae-selects-thales-alenia-space-for-lunar-gateway-airlock-amid-uncertain-program-future" >🔗</a> **[The Launch Pad]** UAE Selects Thales Alenia Space for Lunar Gateway Airlock Amid Uncertain Program Future
 - <a href="https://tlpnetwork.com/news/military/boeing-and-thinkom-complete-high-bandwidth-satellite-connectivity-for-military-demo" >🔗</a> **[The Launch Pad]** Boeing and ThinKom Complete High-Bandwidth Satellite Connectivity for Military Demo
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/america/astrolab-flip-rover-joins-astrobotics-griffin-1-lunar-mission" >🔗</a> **[The Launch Pad]** Astrolab’s FLIP Rover Joins Astrobotic’s Griffin-1 for Lunar Mission
 - <a href="https://spacenews.com/ksat-expands-role-in-satellite-operations/" >🔗</a> **[SpaceNews]** KSAT expands role in satellite  operations
 - <a href="https://spacenews.com/air-force-acquisition-veteran-takes-helm-of-space-development-agency/" >🔗</a> **[SpaceNews]** Air Force acquisition veteran takes helm of Space Development Agency
-- <a href="https://spacenews.com/what-deepseek-just-pulled-off-and-why-space-tech-should-worry/" >🔗</a> **[SpaceNews]** What DeepSeek just pulled off — and why space tech should worry
-- <a href="https://spacenews.com/sky-perfect-jsat-is-the-customer-behind-planets-230-million-leo-order/" >🔗</a> **[SpaceNews]** SKY Perfect JSAT is the customer behind Planet’s $230 million LEO order
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250205T200135">2025-02-05 20:01:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250205T203250">2025-02-05 20:32:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
