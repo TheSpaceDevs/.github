@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Applications/Satellite_navigation/Galileo_sites_from_pole_to_tropics_begin_migration" >🔗</a> **[ESA]** Galileo sites from pole to tropics begin migration
 - <a href="https://spacenews.com/thales-alenia-space-wins-contract-for-gateway-airlock/" >🔗</a> **[SpaceNews]** Thales Alenia Space wins contract for Gateway airlock
 - <a href="https://europeanspaceflight.com/cnes-to-develop-reusable-upper-stage-for-heavy-lift-rocket/" >🔗</a> **[European Spaceflight]** CNES to Develop Reusable Upper Stage for Heavy-Lift Rocket
 - <a href="https://spacenews.com/beck-says-space-industry-benefited-from-spac-mania/" >🔗</a> **[SpaceNews]** Beck says space industry benefited from SPAC mania
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/spacex-launches-third-pair-of-maxars-worldview-legion-imaging-satellites/" >🔗</a> **[SpaceNews]** SpaceX launches third pair of Maxar’s WorldView Legion imaging satellites
 - <a href="https://spacenews.com/the-evolving-case-for-vertical-integration-as-satellites-go-modular/" >🔗</a> **[SpaceNews]** The evolving case for vertical integration as satellites go modular
 - <a href="https://spacenews.com/oursky-and-planewave-instruments-merge-to-create-observable-space/" >🔗</a> **[SpaceNews]** OurSky and PlaneWave Instruments merge to create Observable Space
-- <a href="https://tlpnetwork.com/news/america/astroforge-reveals-asteroid-mining-mission-target-and-launch-partner" >🔗</a> **[The Launch Pad]** AstroForge Reveals Asteroid Mining Mission Target & Future Launch Partner
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250205T130527">2025-02-05 13:05:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250205T133303">2025-02-05 13:33:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
