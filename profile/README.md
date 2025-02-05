@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/cnes-to-develop-reusable-upper-stage-for-heavy-lift-rocket/" >🔗</a> **[European Spaceflight]** CNES to Develop Reusable Upper Stage for Heavy-Lift Rocket
+- <a href="https://spacenews.com/beck-says-space-industry-benefited-from-spac-mania/" >🔗</a> **[SpaceNews]** Beck says space industry benefited from SPAC mania
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/01/Artist_s_view_of_Europe_s_launcher_family_from_2024_onwards" >🔗</a> **[ESA]** Artist's view of Europe's launcher family from 2024 onwards
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/02/Scientists_spot_tiny_Sun_jets_driving_fast_and_slow_solar_wind" >🔗</a> **[ESA]** Scientists spot tiny Sun jets driving fast and slow solar wind
 - <a href="https://science.nasa.gov/solar-system/skywatching/planetary-alignments-and-planet-parades/" >🔗</a> **[NASA]** Planetary Alignments and Planet Parades
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/oursky-and-planewave-instruments-merge-to-create-observable-space/" >🔗</a> **[SpaceNews]** OurSky and PlaneWave Instruments merge to create Observable Space
 - <a href="https://tlpnetwork.com/news/america/astroforge-reveals-asteroid-mining-mission-target-and-launch-partner" >🔗</a> **[The Launch Pad]** AstroForge Reveals Asteroid Mining Mission Target & Future Launch Partner
 - <a href="https://www.nasa.gov/image-article/nasa-tests-in-simulated-lunar-gravity-to-prep-payloads-for-moon/" >🔗</a> **[NASA]** NASA Tests in Simulated Lunar Gravity to Prep Payloads for Moon
-- <a href="https://tlpnetwork.com/news/in-space/isro-navigation-satellite-stranded-in-transfer-orbit-following-propulsion-system-failure" >🔗</a> **[The Launch Pad]** ISRO Navigation Satellite Stranded in Transfer Orbit Following Propulsion System Failure
-- <a href="https://tlpnetwork.com/news/america/mission-space-set-to-launch-first-sensors-for-space-weather-constellation-aboard-spacex-transporter-13" >🔗</a> **[The Launch Pad]** Mission Space Set To Launch First Sensors For Space Weather Constellation Aboard SpaceX Transporter 13
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250205T100121">2025-02-05 10:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250205T103419">2025-02-05 10:34:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
