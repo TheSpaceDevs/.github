@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/europe/atmos-space-cargo-secures-regulatory-approval-for-reentry-technology-demo-mission" >🔗</a> **[The Launch Pad]** Atmos Space Cargo Secures Regulatory Approval for Reentry Technology Demo Mission
+- <a href="https://www.nasa.gov/organizations/ocio/january-2025-transformer-of-the-month-rose-weinstein/" >🔗</a> **[NASA]** January 2025 Transformer of the Month: Rose Weinstein
+- <a href="https://tlpnetwork.com/news/america/astrolab-flip-rover-joins-astrobotics-griffin-1-lunar-mission" >🔗</a> **[The Launch Pad]** Astrolab’s FLIP Rover Joins Astrobotic’s Griffin-1 for Lunar Mission
 - <a href="https://spacenews.com/ksat-expands-role-in-satellite-operations/" >🔗</a> **[SpaceNews]** KSAT expands role in satellite  operations
 - <a href="https://spacenews.com/air-force-acquisition-veteran-takes-helm-of-space-development-agency/" >🔗</a> **[SpaceNews]** Air Force acquisition veteran takes helm of Space Development Agency
 - <a href="https://spacenews.com/what-deepseek-just-pulled-off-and-why-space-tech-should-worry/" >🔗</a> **[SpaceNews]** What DeepSeek just pulled off — and why space tech should worry
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/spirit-electronics-and-partner-novi-celebrate-successful-launch-emerging-technological-advances-in-new-space-and-ai-infrastructure/" >🔗</a> **[SpaceNews]** Spirit Electronics and Partner NOVI Celebrate Successful Launch, Emerging Technological Advances in New Space and AI Infrastructure
 - <a href="https://spacenews.com/atmos-space-cargo-secures-regulatory-approvals-for-first-reentry-mission/" >🔗</a> **[SpaceNews]** Atmos Space Cargo secures regulatory approvals for first reentry mission
 - <a href="https://arstechnica.com/space/2025/02/after-a-wrenching-decision-by-nasa-private-lunar-lander-finds-a-new-customer/" >🔗</a> **[Arstechnica]** After a wrenching decision by NASA, private lunar lander finds a new customer
-- <a href="https://spacenews.com/astrolab-to-fly-its-flip-lunar-lander-on-astrobotics-griffin-1-lander/" >🔗</a> **[SpaceNews]** Astrolab to fly its FLIP lunar lander on Astrobotic’s Griffin-1 lander
-- <a href="https://www.esa.int/Applications/Satellite_navigation/Galileo_sites_from_pole_to_tropics_begin_migration" >🔗</a> **[ESA]** Galileo sites from pole to tropics begin migration
-- <a href="https://spacenews.com/missing-link-still-needed-to-save-mars-sample-return/" >🔗</a> **[SpaceNews]** Missing link still needed to save Mars Sample Return
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250205T190125">2025-02-05 19:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250205T193058">2025-02-05 19:30:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
