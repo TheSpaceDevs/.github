@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/air-force-acquisition-veteran-takes-helm-of-space-development-agency/" >🔗</a> **[SpaceNews]** Air Force acquisition veteran takes helm of Space Development Agency
+- <a href="https://spacenews.com/what-deepseek-just-pulled-off-and-why-space-tech-should-worry/" >🔗</a> **[SpaceNews]** What DeepSeek just pulled off — and why space tech should worry
+- <a href="https://spacenews.com/sky-perfect-jsat-is-the-customer-behind-planets-230-million-leo-order/" >🔗</a> **[SpaceNews]** SKY Perfect JSAT is the customer behind Planet’s $230 million LEO order
 - <a href="https://spacenews.com/spirit-electronics-and-partner-novi-celebrate-successful-launch-emerging-technological-advances-in-new-space-and-ai-infrastructure/" >🔗</a> **[SpaceNews]** Spirit Electronics and Partner NOVI Celebrate Successful Launch, Emerging Technological Advances in New Space and AI Infrastructure
 - <a href="https://spacenews.com/atmos-space-cargo-secures-regulatory-approvals-for-first-reentry-mission/" >🔗</a> **[SpaceNews]** Atmos Space Cargo secures regulatory approvals for first reentry mission
 - <a href="https://arstechnica.com/space/2025/02/after-a-wrenching-decision-by-nasa-private-lunar-lander-finds-a-new-customer/" >🔗</a> **[Arstechnica]** After a wrenching decision by NASA, private lunar lander finds a new customer
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Galileo_sites_from_pole_to_tropics_begin_migration" >🔗</a> **[ESA]** Galileo sites from pole to tropics begin migration
 - <a href="https://spacenews.com/missing-link-still-needed-to-save-mars-sample-return/" >🔗</a> **[SpaceNews]** Missing link still needed to save Mars Sample Return
 - <a href="https://spacenews.com/thinkom-boeing-demo-high-speed-satellite-communications-for-military-aircraft/" >🔗</a> **[SpaceNews]** ThinKom, Boeing demo high-speed satellite communications for military aircraft
-- <a href="https://spacenews.com/thales-alenia-space-wins-contract-for-gateway-airlock/" >🔗</a> **[SpaceNews]** Thales Alenia Space wins contract for Gateway airlock
-- <a href="https://europeanspaceflight.com/cnes-to-develop-reusable-upper-stage-for-heavy-lift-rocket/" >🔗</a> **[European Spaceflight]** CNES to Develop Reusable Upper Stage for Heavy-Lift Rocket
-- <a href="https://spacenews.com/beck-says-space-industry-benefited-from-spac-mania/" >🔗</a> **[SpaceNews]** Beck says space industry benefited from SPAC mania
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250205T160134">2025-02-05 16:01:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250205T163614">2025-02-05 16:36:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
