@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-brings-space-to-new-jersey-classroom-with-astronaut-qa/" >🔗</a> **[NASA]** NASA Brings Space to New Jersey Classroom with Astronaut Q&A
+- <a href="https://www.nasa.gov/general/nasa-invites-media-to-learn-about-spacecraft-autonomous-tech-firsts/" >🔗</a> **[NASA]** NASA Invites Media to Learn about Spacecraft Autonomous Tech Firsts
+- <a href="https://www.nasa.gov/aeronautics/wind-over-its-wing-nasas-x-66-model-tests-airflow/" >🔗</a> **[NASA]** Wind Over Its Wing: NASA’s X-66 Model Tests Airflow
 - <a href="https://spacenews.com/apogee-semiconductor-strengthens-board-of-directors-with-aerospace-and-semiconductor-industry-leaders-rachel-lovejoy-and-dr-marco-villa/" >🔗</a> **[SpaceNews]** Apogee Semiconductor Strengthens Board of Directors with Aerospace and Semiconductor Industry Leaders Rachel Lovejoy and Dr. Marco Villa
 - <a href="https://www.nasa.gov/image-article/apollo-14-moon-landing/" >🔗</a> **[NASA]** Apollo 14 Moon Landing
 - <a href="https://www.nasa.gov/news-release/nasa-goes-live-first-twitch-stream-from-space-station/" >🔗</a> **[NASA]** NASA Goes Live: First Twitch Stream from Space Station
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/military/boeing-and-thinkom-complete-high-bandwidth-satellite-connectivity-for-military-demo" >🔗</a> **[The Launch Pad]** Boeing and ThinKom Complete High-Bandwidth Satellite Connectivity for Military Demo
 - <a href="https://tlpnetwork.com/news/europe/atmos-space-cargo-secures-regulatory-approval-for-reentry-technology-demo-mission" >🔗</a> **[The Launch Pad]** Atmos Space Cargo Secures Regulatory Approval for Reentry Technology Demo Mission
 - <a href="https://www.nasa.gov/organizations/ocio/january-2025-transformer-of-the-month-rose-weinstein/" >🔗</a> **[NASA]** January 2025 Transformer of the Month: Rose Weinstein
-- <a href="https://tlpnetwork.com/news/america/astrolab-flip-rover-joins-astrobotics-griffin-1-lunar-mission" >🔗</a> **[The Launch Pad]** Astrolab’s FLIP Rover Joins Astrobotic’s Griffin-1 for Lunar Mission
-- <a href="https://spacenews.com/ksat-expands-role-in-satellite-operations/" >🔗</a> **[SpaceNews]** KSAT expands role in satellite  operations
-- <a href="https://spacenews.com/air-force-acquisition-veteran-takes-helm-of-space-development-agency/" >🔗</a> **[SpaceNews]** Air Force acquisition veteran takes helm of Space Development Agency
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250205T210128">2025-02-05 21:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250205T213122">2025-02-05 21:31:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
