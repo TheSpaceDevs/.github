@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/01/Artist_s_view_of_Europe_s_launcher_family_from_2024_onwards" >🔗</a> **[ESA]** Artist's view of Europe's launcher family from 2024 onwards
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/02/Scientists_spot_tiny_Sun_jets_driving_fast_and_slow_solar_wind" >🔗</a> **[ESA]** Scientists spot tiny Sun jets driving fast and slow solar wind
 - <a href="https://science.nasa.gov/solar-system/skywatching/planetary-alignments-and-planet-parades/" >🔗</a> **[NASA]** Planetary Alignments and Planet Parades
 - <a href="https://spacenews.com/spacex-launches-third-pair-of-maxars-worldview-legion-imaging-satellites/" >🔗</a> **[SpaceNews]** SpaceX launches third pair of Maxar’s WorldView Legion imaging satellites
 - <a href="https://spacenews.com/the-evolving-case-for-vertical-integration-as-satellites-go-modular/" >🔗</a> **[SpaceNews]** The evolving case for vertical integration as satellites go modular
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/nasa-tests-in-simulated-lunar-gravity-to-prep-payloads-for-moon/" >🔗</a> **[NASA]** NASA Tests in Simulated Lunar Gravity to Prep Payloads for Moon
 - <a href="https://tlpnetwork.com/news/in-space/isro-navigation-satellite-stranded-in-transfer-orbit-following-propulsion-system-failure" >🔗</a> **[The Launch Pad]** ISRO Navigation Satellite Stranded in Transfer Orbit Following Propulsion System Failure
 - <a href="https://tlpnetwork.com/news/america/mission-space-set-to-launch-first-sensors-for-space-weather-constellation-aboard-spacex-transporter-13" >🔗</a> **[The Launch Pad]** Mission Space Set To Launch First Sensors For Space Weather Constellation Aboard SpaceX Transporter 13
-- <a href="https://spacenews.com/top-house-science-committee-democrat-asks-nasa-for-information-on-executive-order-implementation/" >🔗</a> **[SpaceNews]** Top House Science Committee Democrat asks NASA for information on executive order implementation
-- <a href="https://tlpnetwork.com/news/asia/china-prepares-haolong-and-qingzhou-spacecrafts-for-maiden-flights-on-commercial-rockets-to-tiangong" >🔗</a> **[The Launch Pad]** China Prepares Haolong and Qingzhou Spacecrafts For Maiden Flights On Commercial Rockets to Tiangong
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250205T080142">2025-02-05 08:01:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250205T083348">2025-02-05 08:33:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
