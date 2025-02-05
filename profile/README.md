@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/thales-alenia-space-wins-contract-for-gateway-airlock/" >🔗</a> **[SpaceNews]** Thales Alenia Space wins contract for Gateway airlock
 - <a href="https://europeanspaceflight.com/cnes-to-develop-reusable-upper-stage-for-heavy-lift-rocket/" >🔗</a> **[European Spaceflight]** CNES to Develop Reusable Upper Stage for Heavy-Lift Rocket
 - <a href="https://spacenews.com/beck-says-space-industry-benefited-from-spac-mania/" >🔗</a> **[SpaceNews]** Beck says space industry benefited from SPAC mania
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/01/Artist_s_view_of_Europe_s_launcher_family_from_2024_onwards" >🔗</a> **[ESA]** Artist's view of Europe's launcher family from 2024 onwards
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/02/Scientists_spot_tiny_Sun_jets_driving_fast_and_slow_solar_wind" >🔗</a> **[ESA]** Scientists spot tiny Sun jets driving fast and slow solar wind
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/01/Artist_s_view_of_Europe_s_launcher_family_from_2024_onwards" >🔗</a> **[ESA]** Artist's view of Europe's launcher family from 2024 onwards
 - <a href="https://science.nasa.gov/solar-system/skywatching/planetary-alignments-and-planet-parades/" >🔗</a> **[NASA]** Planetary Alignments and Planet Parades
 - <a href="https://spacenews.com/spacex-launches-third-pair-of-maxars-worldview-legion-imaging-satellites/" >🔗</a> **[SpaceNews]** SpaceX launches third pair of Maxar’s WorldView Legion imaging satellites
 - <a href="https://spacenews.com/the-evolving-case-for-vertical-integration-as-satellites-go-modular/" >🔗</a> **[SpaceNews]** The evolving case for vertical integration as satellites go modular
 - <a href="https://spacenews.com/oursky-and-planewave-instruments-merge-to-create-observable-space/" >🔗</a> **[SpaceNews]** OurSky and PlaneWave Instruments merge to create Observable Space
 - <a href="https://tlpnetwork.com/news/america/astroforge-reveals-asteroid-mining-mission-target-and-launch-partner" >🔗</a> **[The Launch Pad]** AstroForge Reveals Asteroid Mining Mission Target & Future Launch Partner
-- <a href="https://www.nasa.gov/image-article/nasa-tests-in-simulated-lunar-gravity-to-prep-payloads-for-moon/" >🔗</a> **[NASA]** NASA Tests in Simulated Lunar Gravity to Prep Payloads for Moon
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250205T113104">2025-02-05 11:31:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250205T120144">2025-02-05 12:01:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
