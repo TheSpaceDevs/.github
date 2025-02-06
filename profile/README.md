@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/02/XMM-Newton_finds_two_stray_supernova_remnants" >🔗</a> **[ESA]** XMM-Newton finds two stray supernova remnants
 - <a href="https://science.nasa.gov/blog/sols-4443-4444-four-fours-for-february/" >🔗</a> **[NASA]** Sols 4443-4444: Four Fours for February
 - <a href="https://spacenews.com/from-routine-to-novel-applications-at-the-intersection-of-space-and-ai/" >🔗</a> **[SpaceNews]** From routine to novel applications at the intersection of space and AI
 - <a href="https://tlpnetwork.com/news/in-space/city-killer-asteroid-discovered-with-possible-earth-impact-in-2023-latest-tracking-increases-impact-risk" >🔗</a> **[The Launch Pad]** “City Killer” Asteroid Discovered With Possible Earth Impact In 2032; Latest Tracking Increases Impact Risk
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-brings-space-to-new-jersey-classroom-with-astronaut-qa/" >🔗</a> **[NASA]** NASA Brings Space to New Jersey Classroom with Astronaut Q&A
 - <a href="https://www.nasa.gov/general/nasa-invites-media-to-learn-about-spacecraft-autonomous-tech-firsts/" >🔗</a> **[NASA]** NASA Invites Media to Learn about Spacecraft Autonomous Tech Firsts
 - <a href="https://www.nasa.gov/aeronautics/wind-over-its-wing-nasas-x-66-model-tests-airflow/" >🔗</a> **[NASA]** Wind Over Its Wing: NASA’s X-66 Model Tests Airflow
-- <a href="https://spacenews.com/apogee-semiconductor-strengthens-board-of-directors-with-aerospace-and-semiconductor-industry-leaders-rachel-lovejoy-and-dr-marco-villa/" >🔗</a> **[SpaceNews]** Apogee Semiconductor Strengthens Board of Directors with Aerospace and Semiconductor Industry Leaders Rachel Lovejoy and Dr. Marco Villa
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250206T090130">2025-02-06 09:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250206T093156">2025-02-06 09:31:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
