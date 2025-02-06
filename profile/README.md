@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/america/vast-successfully-tests-haven-1-structure-on-track-for-2026-launch" >🔗</a> **[The Launch Pad]** Vast Successfully Tests Haven-1 Structure; On Track for 2026 Launch
+- <a href="https://spacenews.com/vast-begins-haven-1-testing-and-reschedules-its-launch/" >🔗</a> **[SpaceNews]** Vast begins Haven-1 testing and reschedules its launch
+- <a href="https://spacenews.com/why-more-us-african-space-cooperation-is-the-answer/" >🔗</a> **[SpaceNews]** Why more US-African space cooperation is the answer
+- <a href="https://spacenews.com/does-government-still-fit-into-space/" >🔗</a> **[SpaceNews]** Does government still fit into space?
+- <a href="https://www.nasa.gov/people-of-nasa/hsiao-smith/" >🔗</a> **[NASA]** Hsiao Smith
+- <a href="https://www.nasa.gov/missions/artemis/more-than-400-lives-saved-with-nasas-search-and-rescue-tech-in-2024/" >🔗</a> **[NASA]** More Than 400 Lives Saved with NASA’s Search and Rescue Tech in 2024
 - <a href="https://spacenews.com/dont-compete-with-or-emulate-spacex-investors-urge/" >🔗</a> **[SpaceNews]** Don’t compete with or emulate SpaceX, investors urge
 - <a href="https://europeanspaceflight.com/faa-approves-atmos-re-entry-capsule-test-ahead-of-2025-launch/" >🔗</a> **[European Spaceflight]** FAA Approves ATMOS Re-Entry Capsule Test Ahead of 2025 Launch
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/For_astronaut_radiation_protection_just_add_water" >🔗</a> **[ESA]** For astronaut radiation protection, just add water
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/02/XMM-Newton_finds_two_stray_supernova_remnants" >🔗</a> **[ESA]** XMM-Newton finds two stray supernova remnants
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/02/Supernova_remnant_J0624-6948_as_observed_by_XMM-Newton" >🔗</a> **[ESA]** Supernova remnant J0624-6948 as observed by XMM-Newton
-- <a href="https://science.nasa.gov/blog/sols-4443-4444-four-fours-for-february/" >🔗</a> **[NASA]** Sols 4443-4444: Four Fours for February
-- <a href="https://spacenews.com/from-routine-to-novel-applications-at-the-intersection-of-space-and-ai/" >🔗</a> **[SpaceNews]** From routine to novel applications at the intersection of space and AI
-- <a href="https://tlpnetwork.com/news/in-space/city-killer-asteroid-discovered-with-possible-earth-impact-in-2023-latest-tracking-increases-impact-risk" >🔗</a> **[The Launch Pad]** “City Killer” Asteroid Discovered With Possible Earth Impact In 2032; Latest Tracking Increases Impact Risk
-- <a href="https://spacenews.com/investors-advise-caution-in-defense-focused-space-boom/" >🔗</a> **[SpaceNews]** Investors advise caution in defense-focused space boom
-- <a href="https://spacenews.com/iridium-exploring-small-satellites-to-advance-pnt-capabilities/" >🔗</a> **[SpaceNews]** Iridium exploring small satellites to advance PNT capabilities
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250206T140131">2025-02-06 14:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250206T143305">2025-02-06 14:33:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
