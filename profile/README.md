@@ -95,12 +95,12 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/faa-approves-atmos-re-entry-capsule-test-ahead-of-2025-launch/" >🔗</a> **[European Spaceflight]** FAA Approves ATMOS Re-Entry Capsule Test Ahead of 2025 Launch
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/For_astronaut_radiation_protection_just_add_water" >🔗</a> **[ESA]** For astronaut radiation protection, just add water
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/02/XMM-Newton_finds_two_stray_supernova_remnants" >🔗</a> **[ESA]** XMM-Newton finds two stray supernova remnants
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/02/Supernova_remnant_J0624-6948_as_observed_by_XMM-Newton" >🔗</a> **[ESA]** Supernova remnant J0624-6948 as observed by XMM-Newton
 - <a href="https://science.nasa.gov/blog/sols-4443-4444-four-fours-for-february/" >🔗</a> **[NASA]** Sols 4443-4444: Four Fours for February
 - <a href="https://spacenews.com/from-routine-to-novel-applications-at-the-intersection-of-space-and-ai/" >🔗</a> **[SpaceNews]** From routine to novel applications at the intersection of space and AI
 - <a href="https://tlpnetwork.com/news/in-space/city-killer-asteroid-discovered-with-possible-earth-impact-in-2023-latest-tracking-increases-impact-risk" >🔗</a> **[The Launch Pad]** “City Killer” Asteroid Discovered With Possible Earth Impact In 2032; Latest Tracking Increases Impact Risk
 - <a href="https://spacenews.com/investors-advise-caution-in-defense-focused-space-boom/" >🔗</a> **[SpaceNews]** Investors advise caution in defense-focused space boom
 - <a href="https://spacenews.com/iridium-exploring-small-satellites-to-advance-pnt-capabilities/" >🔗</a> **[SpaceNews]** Iridium exploring small satellites to advance PNT capabilities
-- <a href="https://arstechnica.com/space/2025/02/nasa-has-entered-the-chat-space-agency-to-twitch-stream-from-orbit/" >🔗</a> **[Arstechnica]** NASA has entered the chat: Space agency to Twitch stream from orbit
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250206T120142">2025-02-06 12:01:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250206T124244">2025-02-06 12:42:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
