@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/in-space/city-killer-asteroid-discovered-with-possible-earth-impact-in-2023-latest-tracking-increases-impact-risk" >🔗</a> **[The Launch Pad]** “City Killer” Asteroid Discovered With Possible Earth Impact In 2032; Latest Tracking Increases Impact Risk
 - <a href="https://spacenews.com/investors-advise-caution-in-defense-focused-space-boom/" >🔗</a> **[SpaceNews]** Investors advise caution in defense-focused space boom
 - <a href="https://spacenews.com/iridium-exploring-small-satellites-to-advance-pnt-capabilities/" >🔗</a> **[SpaceNews]** Iridium exploring small satellites to advance PNT capabilities
 - <a href="https://arstechnica.com/space/2025/02/nasa-has-entered-the-chat-space-agency-to-twitch-stream-from-orbit/" >🔗</a> **[Arstechnica]** NASA has entered the chat: Space agency to Twitch stream from orbit
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/apogee-semiconductor-strengthens-board-of-directors-with-aerospace-and-semiconductor-industry-leaders-rachel-lovejoy-and-dr-marco-villa/" >🔗</a> **[SpaceNews]** Apogee Semiconductor Strengthens Board of Directors with Aerospace and Semiconductor Industry Leaders Rachel Lovejoy and Dr. Marco Villa
 - <a href="https://www.nasa.gov/image-article/apollo-14-moon-landing/" >🔗</a> **[NASA]** Apollo 14 Moon Landing
 - <a href="https://www.nasa.gov/news-release/nasa-goes-live-first-twitch-stream-from-space-station/" >🔗</a> **[NASA]** NASA Goes Live: First Twitch Stream from Space Station
-- <a href="https://tlpnetwork.com/news/policy-and-finance/uae-selects-thales-alenia-space-for-lunar-gateway-airlock-amid-uncertain-program-future" >🔗</a> **[The Launch Pad]** UAE Selects Thales Alenia Space for Lunar Gateway Airlock Amid Uncertain Program Future
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250206T040123">2025-02-06 04:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250206T043424">2025-02-06 04:34:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
