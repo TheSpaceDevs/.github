@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/science-research/heliophysics/nasa-cubesat-finds-new-radiation-belts-after-may-2024-solar-storm/" >🔗</a> **[NASA]** NASA CubeSat Finds New Radiation Belts After May 2024 Solar Storm
 - <a href="https://www.nasa.gov/organizations/headquarters-and-centers-ethic-contacts/" >🔗</a> **[NASA]** Headquarters and Centers Ethic Contacts
 - <a href="https://www.nasa.gov/organizations/ogc-ethics-program/" >🔗</a> **[NASA]** NASA’s Ethics Program
 - <a href="https://spacenews.com/urban-sky-raises-30-million-for-stratospheric-balloons/" >🔗</a> **[SpaceNews]** Urban Sky raises $30 million for stratospheric balloons
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/america/vast-successfully-tests-haven-1-structure-on-track-for-2026-launch" >🔗</a> **[The Launch Pad]** Vast Successfully Tests Haven-1 Structure; On Track for 2026 Launch
 - <a href="https://spacenews.com/vast-begins-haven-1-testing-and-reschedules-its-launch/" >🔗</a> **[SpaceNews]** Vast begins Haven-1 testing and reschedules its launch
 - <a href="https://spacenews.com/why-more-us-african-space-cooperation-is-the-answer/" >🔗</a> **[SpaceNews]** Why more US-African space cooperation is the answer
-- <a href="https://spacenews.com/does-government-still-fit-into-space/" >🔗</a> **[SpaceNews]** Does government still fit into space?
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250206T190132">2025-02-06 19:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250206T193103">2025-02-06 19:31:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
