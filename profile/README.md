@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/geost-sues-sierra-space-over-breach-of-contract-in-military-satellite-program/" >🔗</a> **[SpaceNews]** Geost sues Sierra Space over breach of contract in military satellite program
 - <a href="https://www.nasa.gov/image-article/robot-gets-a-grip/" >🔗</a> **[NASA]** Robot Gets a Grip
 - <a href="https://science.nasa.gov/science-research/heliophysics/nasa-cubesat-finds-new-radiation-belts-after-may-2024-solar-storm/" >🔗</a> **[NASA]** NASA CubeSat Finds New Radiation Belts After May 2024 Solar Storm
 - <a href="https://www.nasa.gov/organizations/headquarters-and-centers-ethic-contacts/" >🔗</a> **[NASA]** Headquarters and Centers Ethic Contacts
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/america/nasa-revives-viper-moon-rover-mission-opens-call-for-industry-partnership-proposals" >🔗</a> **[The Launch Pad]** NASA Revives VIPER Moon Rover Mission; Opens Call For Industry Partnership Proposals
 - <a href="https://arstechnica.com/space/2025/02/nasa-moves-up-target-to-return-butch-and-suni-but-not-for-political-reasons/" >🔗</a> **[Arstechnica]** NASA moves up target to return Butch and Suni, but not for political reasons
 - <a href="https://tlpnetwork.com/news/america/vast-successfully-tests-haven-1-structure-on-track-for-2026-launch" >🔗</a> **[The Launch Pad]** Vast Successfully Tests Haven-1 Structure; On Track for 2026 Launch
-- <a href="https://spacenews.com/vast-begins-haven-1-testing-and-reschedules-its-launch/" >🔗</a> **[SpaceNews]** Vast begins Haven-1 testing and reschedules its launch
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250206T213059">2025-02-06 21:30:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250206T220135">2025-02-06 22:01:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
