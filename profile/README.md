@@ -54,8 +54,8 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250214T172600">2025-02-14 17:26:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-8&location=Cape Canaveral SFS, FL, USA&dates=20250214T172600Z%2F20250214T215700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-8** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250226T162400">2025-02-26 16:24:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ariane 62 | CSO-3&location=Guiana Space Centre, French Guiana&dates=20250226T162400Z%2F20250226T162400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ariane 62 | CSO-3** from Guiana Space Centre, French Guiana.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250227T001700">2025-02-27 00:17:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Nova-C IM-2 &amp; Lunar Trailblazer&location=Kennedy Space Center, FL, USA&dates=20250227T001700Z%2F20250227T001700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Nova-C IM-2 & Lunar Trailblazer** from Kennedy Space Center, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250227T212400">2025-02-27 21:24:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Progress MS-30 (91P)&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20250227T212400Z%2F20250227T212400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Progress MS-30 (91P)** from Baikonur Cosmodrome, Republic of Kazakhstan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250228T000000">2025-02-28 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | BlackSky Gen-3 1&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20250228T000000Z%2F20250228T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | BlackSky Gen-3 1** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250228T000000">2025-02-28 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-12&location=Cape Canaveral SFS, FL, USA&dates=20250228T000000Z%2F20250228T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-12** from Cape Canaveral SFS, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/organizations/headquarters-and-centers-ethic-contacts/" >🔗</a> **[NASA]** Headquarters and Centers Ethic Contacts
+- <a href="https://www.nasa.gov/organizations/ogc-ethics-program/" >🔗</a> **[NASA]** NASA’s Ethics Program
 - <a href="https://spacenews.com/urban-sky-raises-30-million-for-stratospheric-balloons/" >🔗</a> **[SpaceNews]** Urban Sky raises $30 million for stratospheric balloons
 - <a href="https://tlpnetwork.com/news/america/spacex-swaps-dragon-capsules-targets-march-12-for-crew-10-launch-march-19th-for-butch-and-suni-return-as-station-approaches-resource-limits" >🔗</a> **[The Launch Pad]** SpaceX Swaps Dragon Capsules & Targets March 12 for Crew 10 Launch, March 19th For Butch and Sunny Return As Station Approaches Resource Limits
 - <a href="https://tlpnetwork.com/news/america/nasa-revives-viper-moon-rover-mission-opens-call-for-industry-partnership-proposals" >🔗</a> **[The Launch Pad]** NASA Revives VIPER Moon Rover Mission; Opens Call For Industry Partnership Proposals
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/vast-begins-haven-1-testing-and-reschedules-its-launch/" >🔗</a> **[SpaceNews]** Vast begins Haven-1 testing and reschedules its launch
 - <a href="https://spacenews.com/why-more-us-african-space-cooperation-is-the-answer/" >🔗</a> **[SpaceNews]** Why more US-African space cooperation is the answer
 - <a href="https://spacenews.com/does-government-still-fit-into-space/" >🔗</a> **[SpaceNews]** Does government still fit into space?
-- <a href="https://www.nasa.gov/people-of-nasa/hsiao-smith/" >🔗</a> **[NASA]** Hsiao Smith
-- <a href="https://www.nasa.gov/missions/artemis/more-than-400-lives-saved-with-nasas-search-and-rescue-tech-in-2024/" >🔗</a> **[NASA]** More Than 400 Lives Saved with NASA’s Search and Rescue Tech in 2024
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250206T180131">2025-02-06 18:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250206T183540">2025-02-06 18:35:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
