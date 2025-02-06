@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/dont-compete-with-or-emulate-spacex-investors-urge/" >🔗</a> **[SpaceNews]** Don’t compete with or emulate SpaceX, investors urge
+- <a href="https://europeanspaceflight.com/faa-approves-atmos-re-entry-capsule-test-ahead-of-2025-launch/" >🔗</a> **[European Spaceflight]** FAA Approves ATMOS Re-Entry Capsule Test Ahead of 2025 Launch
+- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/For_astronaut_radiation_protection_just_add_water" >🔗</a> **[ESA]** For astronaut radiation protection, just add water
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/02/XMM-Newton_finds_two_stray_supernova_remnants" >🔗</a> **[ESA]** XMM-Newton finds two stray supernova remnants
 - <a href="https://science.nasa.gov/blog/sols-4443-4444-four-fours-for-february/" >🔗</a> **[NASA]** Sols 4443-4444: Four Fours for February
 - <a href="https://spacenews.com/from-routine-to-novel-applications-at-the-intersection-of-space-and-ai/" >🔗</a> **[SpaceNews]** From routine to novel applications at the intersection of space and AI
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/investors-advise-caution-in-defense-focused-space-boom/" >🔗</a> **[SpaceNews]** Investors advise caution in defense-focused space boom
 - <a href="https://spacenews.com/iridium-exploring-small-satellites-to-advance-pnt-capabilities/" >🔗</a> **[SpaceNews]** Iridium exploring small satellites to advance PNT capabilities
 - <a href="https://arstechnica.com/space/2025/02/nasa-has-entered-the-chat-space-agency-to-twitch-stream-from-orbit/" >🔗</a> **[Arstechnica]** NASA has entered the chat: Space agency to Twitch stream from orbit
-- <a href="https://www.nasa.gov/news-release/nasa-brings-space-to-new-jersey-classroom-with-astronaut-qa/" >🔗</a> **[NASA]** NASA Brings Space to New Jersey Classroom with Astronaut Q&A
-- <a href="https://www.nasa.gov/general/nasa-invites-media-to-learn-about-spacecraft-autonomous-tech-firsts/" >🔗</a> **[NASA]** NASA Invites Media to Learn about Spacecraft Autonomous Tech Firsts
-- <a href="https://www.nasa.gov/aeronautics/wind-over-its-wing-nasas-x-66-model-tests-airflow/" >🔗</a> **[NASA]** Wind Over Its Wing: NASA’s X-66 Model Tests Airflow
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250206T093156">2025-02-06 09:31:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250206T110131">2025-02-06 11:01:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
