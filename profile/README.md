@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/urban-sky-raises-30-million-for-stratospheric-balloons/" >🔗</a> **[SpaceNews]** Urban Sky raises $30 million for stratospheric balloons
+- <a href="https://tlpnetwork.com/news/america/spacex-swaps-dragon-capsules-targets-march-12-for-crew-10-launch-march-19th-for-butch-and-suni-return-as-station-approaches-resource-limits" >🔗</a> **[The Launch Pad]** SpaceX Swaps Dragon Capsules & Targets March 12 for Crew 10 Launch, March 19th For Butch and Sunny Return As Station Approaches Resource Limits
+- <a href="https://tlpnetwork.com/news/america/nasa-revives-viper-moon-rover-mission-opens-call-for-industry-partnership-proposals" >🔗</a> **[The Launch Pad]** NASA Revives VIPER Moon Rover Mission; Opens Call For Industry Partnership Proposals
+- <a href="https://arstechnica.com/space/2025/02/nasa-moves-up-target-to-return-butch-and-suni-but-not-for-political-reasons/" >🔗</a> **[Arstechnica]** NASA moves up target to return Butch and Suni, but not for political reasons
 - <a href="https://tlpnetwork.com/news/america/vast-successfully-tests-haven-1-structure-on-track-for-2026-launch" >🔗</a> **[The Launch Pad]** Vast Successfully Tests Haven-1 Structure; On Track for 2026 Launch
 - <a href="https://spacenews.com/vast-begins-haven-1-testing-and-reschedules-its-launch/" >🔗</a> **[SpaceNews]** Vast begins Haven-1 testing and reschedules its launch
 - <a href="https://spacenews.com/why-more-us-african-space-cooperation-is-the-answer/" >🔗</a> **[SpaceNews]** Why more US-African space cooperation is the answer
 - <a href="https://spacenews.com/does-government-still-fit-into-space/" >🔗</a> **[SpaceNews]** Does government still fit into space?
 - <a href="https://www.nasa.gov/people-of-nasa/hsiao-smith/" >🔗</a> **[NASA]** Hsiao Smith
 - <a href="https://www.nasa.gov/missions/artemis/more-than-400-lives-saved-with-nasas-search-and-rescue-tech-in-2024/" >🔗</a> **[NASA]** More Than 400 Lives Saved with NASA’s Search and Rescue Tech in 2024
-- <a href="https://spacenews.com/dont-compete-with-or-emulate-spacex-investors-urge/" >🔗</a> **[SpaceNews]** Don’t compete with or emulate SpaceX, investors urge
-- <a href="https://europeanspaceflight.com/faa-approves-atmos-re-entry-capsule-test-ahead-of-2025-launch/" >🔗</a> **[European Spaceflight]** FAA Approves ATMOS Re-Entry Capsule Test Ahead of 2025 Launch
-- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/For_astronaut_radiation_protection_just_add_water" >🔗</a> **[ESA]** For astronaut radiation protection, just add water
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/02/XMM-Newton_finds_two_stray_supernova_remnants" >🔗</a> **[ESA]** XMM-Newton finds two stray supernova remnants
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250206T150124">2025-02-06 15:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250206T153251">2025-02-06 15:32:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
