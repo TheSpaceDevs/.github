@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/taking-space-safety-cues-from-air-and-sea/" >🔗</a> **[SpaceNews]** Taking space safety cues from air and sea
+- <a href="https://spacenews.com/diu-studying-applications-of-spacex-starship-in-space-refueling/" >🔗</a> **[SpaceNews]** DIU studying applications of SpaceX Starship in-space refueling
+- <a href="https://arstechnica.com/science/2025/02/white-house-budget-proposal-could-shatter-the-national-science-foundation/" >🔗</a> **[Arstechnica]** White House budget proposal could shatter the National Science Foundation
 - <a href="https://www.nasa.gov/news-release/nasas-aerospace-safety-advisory-panel-releases-2024-annual-report/" >🔗</a> **[NASA]** NASA’s Aerospace Safety Advisory Panel Releases 2024 Annual Report
 - <a href="https://science.nasa.gov/solar-system/moon/what-you-need-to-know-about-the-march-2025-total-lunar-eclipse/" >🔗</a> **[NASA]** What You Need To Know About the March 2025 Total Lunar Eclipse
 - <a href="https://spacenews.com/geost-sues-sierra-space-over-breach-of-contract-in-military-satellite-program/" >🔗</a> **[SpaceNews]** Geost sues Sierra Space over breach of contract in military satellite program
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/science-research/heliophysics/nasa-cubesat-finds-new-radiation-belts-after-may-2024-solar-storm/" >🔗</a> **[NASA]** NASA CubeSat Finds New Radiation Belts After May 2024 Solar Storm
 - <a href="https://www.nasa.gov/organizations/headquarters-and-centers-ethic-contacts/" >🔗</a> **[NASA]** Headquarters and Centers Ethic Contacts
 - <a href="https://www.nasa.gov/organizations/ogc-ethics-program/" >🔗</a> **[NASA]** NASA’s Ethics Program
-- <a href="https://spacenews.com/urban-sky-raises-30-million-for-stratospheric-balloons/" >🔗</a> **[SpaceNews]** Urban Sky raises $30 million for stratospheric balloons
-- <a href="https://tlpnetwork.com/news/america/spacex-swaps-dragon-capsules-targets-march-12-for-crew-10-launch-march-19th-for-butch-and-suni-return-as-station-approaches-resource-limits" >🔗</a> **[The Launch Pad]** SpaceX Swaps Dragon Capsules & Targets March 12 for Crew 10 Launch, March 19th For Butch and Sunny Return As Station Approaches Resource Limits
-- <a href="https://tlpnetwork.com/news/america/nasa-revives-viper-moon-rover-mission-opens-call-for-industry-partnership-proposals" >🔗</a> **[The Launch Pad]** NASA Revives VIPER Moon Rover Mission; Opens Call For Industry Partnership Proposals
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250206T230136">2025-02-06 23:01:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250206T233117">2025-02-06 23:31:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
