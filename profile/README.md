@@ -91,8 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacepolicyonline.com/news/key-democrats-query-dot-nasa-about-musk-conflicts-of-interest/" >🔗</a> **[SpacePolicyOnline.com]** Key Democrats Query DOT, NASA About Musk Conflicts of Interest
+- <a href="https://spacepolicyonline.com/news/borisov-replaced-as-head-of-russias-space-program/" >🔗</a> **[SpacePolicyOnline.com]** Borisov Replaced as Head of Russia’s Space Program
 - <a href="https://spacepolicyonline.com/news/key-congressional-democrats-query-dot-nasa-about-musk-conflicts-of-interest/" >🔗</a> **[SpacePolicyOnline.com]** Key Congressional Democrats Query DOT, NASA About Musk Conflicts of Interest
+- <a href="https://spacepolicyonline.com/news/key-democrats-query-dot-nasa-about-musk-conflicts-of-interest/" >🔗</a> **[SpacePolicyOnline.com]** Key Democrats Query DOT, NASA About Musk Conflicts of Interest
 - <a href="https://science.nasa.gov/blog/sols-4445-4446-cloudy-days-are-here/" >🔗</a> **[NASA]** Sols 4445–4446: Cloudy Days are Here
 - <a href="https://spacenews.com/fork-in-the-road-buyout-offer-reaches-national-security-agencies-despite-exemptions/" >🔗</a> **[SpaceNews]** ‘Fork in the Road’ buyout offer reaches space and national security agencies despite exemptions
 - <a href="https://spacenews.com/taking-space-safety-cues-from-air-and-sea/" >🔗</a> **[SpaceNews]** Taking space safety cues from air and sea
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/science/2025/02/white-house-budget-proposal-could-shatter-the-national-science-foundation/" >🔗</a> **[Arstechnica]** White House budget proposal could shatter the National Science Foundation
 - <a href="https://www.nasa.gov/news-release/nasas-aerospace-safety-advisory-panel-releases-2024-annual-report/" >🔗</a> **[NASA]** NASA’s Aerospace Safety Advisory Panel Releases 2024 Annual Report
 - <a href="https://science.nasa.gov/solar-system/moon/what-you-need-to-know-about-the-march-2025-total-lunar-eclipse/" >🔗</a> **[NASA]** What You Need To Know About the March 2025 Total Lunar Eclipse
-- <a href="https://spacenews.com/geost-sues-sierra-space-over-breach-of-contract-in-military-satellite-program/" >🔗</a> **[SpaceNews]** Geost sues Sierra Space over breach of contract in military satellite program
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250207T050124">2025-02-07 05:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250207T053303">2025-02-07 05:33:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
