@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blog/sols-4445-4446-cloudy-days-are-here/" >🔗</a> **[NASA]** Sols 4445–4446: Cloudy Days are Here
 - <a href="https://spacenews.com/fork-in-the-road-buyout-offer-reaches-national-security-agencies-despite-exemptions/" >🔗</a> **[SpaceNews]** ‘Fork in the Road’ buyout offer reaches space and national security agencies despite exemptions
 - <a href="https://spacenews.com/taking-space-safety-cues-from-air-and-sea/" >🔗</a> **[SpaceNews]** Taking space safety cues from air and sea
 - <a href="https://spacenews.com/diu-studying-applications-of-spacex-starship-in-space-refueling/" >🔗</a> **[SpaceNews]** DIU studying applications of SpaceX Starship in-space refueling
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/geost-sues-sierra-space-over-breach-of-contract-in-military-satellite-program/" >🔗</a> **[SpaceNews]** Geost sues Sierra Space over breach of contract in military satellite program
 - <a href="https://www.nasa.gov/image-article/robot-gets-a-grip/" >🔗</a> **[NASA]** Robot Gets a Grip
 - <a href="https://science.nasa.gov/science-research/heliophysics/nasa-cubesat-finds-new-radiation-belts-after-may-2024-solar-storm/" >🔗</a> **[NASA]** NASA CubeSat Finds New Radiation Belts After May 2024 Solar Storm
-- <a href="https://www.nasa.gov/organizations/headquarters-and-centers-ethic-contacts/" >🔗</a> **[NASA]** Headquarters and Centers Ethic Contacts
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250207T020215">2025-02-07 02:02:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250207T024419">2025-02-07 02:44:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
