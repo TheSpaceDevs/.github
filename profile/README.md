@@ -91,8 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/02/Earth_from_Space_Snow-capped_Swiss_Alps" >🔗</a> **[ESA]** Earth from Space: Snow-capped Swiss Alps
+- <a href="https://europeanspaceflight.com/esa-to-launch-in-orbit-refuelling-demonstration-mission/" >🔗</a> **[European Spaceflight]** ESA to Launch In-Orbit Refuelling Demonstration Mission
 - <a href="https://www.esa.int/Space_Safety/Planetary_Defence/ESA_endorses_Year_of_Asteroid_Awareness_and_Planetary_Defence" >🔗</a> **[ESA]** ESA endorses Year of Asteroid Awareness and Planetary Defence
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/02/Earth_from_Space_Snow-capped_Swiss_Alps" >🔗</a> **[ESA]** Earth from Space: Snow-capped Swiss Alps
 - <a href="https://spacepolicyonline.com/news/borisov-replaced-as-head-of-russias-space-program/" >🔗</a> **[SpacePolicyOnline.com]** Borisov Replaced as Head of Russia’s Space Program
 - <a href="https://spacepolicyonline.com/news/key-congressional-democrats-query-dot-nasa-about-musk-conflicts-of-interest/" >🔗</a> **[SpacePolicyOnline.com]** Key Congressional Democrats Query DOT, NASA About Musk Conflicts of Interest
 - <a href="https://spacepolicyonline.com/news/key-democrats-query-dot-nasa-about-musk-conflicts-of-interest/" >🔗</a> **[SpacePolicyOnline.com]** Key Democrats Query DOT, NASA About Musk Conflicts of Interest
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/fork-in-the-road-buyout-offer-reaches-national-security-agencies-despite-exemptions/" >🔗</a> **[SpaceNews]** ‘Fork in the Road’ buyout offer reaches space and national security agencies despite exemptions
 - <a href="https://spacenews.com/taking-space-safety-cues-from-air-and-sea/" >🔗</a> **[SpaceNews]** Taking space safety cues from air and sea
 - <a href="https://spacenews.com/diu-studying-applications-of-spacex-starship-in-space-refueling/" >🔗</a> **[SpaceNews]** DIU studying applications of SpaceX Starship in-space refueling
-- <a href="https://arstechnica.com/science/2025/02/white-house-budget-proposal-could-shatter-the-national-science-foundation/" >🔗</a> **[Arstechnica]** White House budget proposal could shatter the National Science Foundation
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250207T100126">2025-02-07 10:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250207T103453">2025-02-07 10:34:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
