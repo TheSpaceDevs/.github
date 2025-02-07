@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/fcc-sets-stage-for-spacex-and-wireless-industry-c-band-showdown/" >🔗</a> **[SpaceNews]** FCC sets stage for SpaceX and wireless industry C-band showdown
+- <a href="https://arstechnica.com/space/2025/02/boeing-has-informed-its-employees-that-nasa-may-cancel-sls-contracts/" >🔗</a> **[Arstechnica]** Boeing has informed its employees that NASA may cancel SLS contracts
 - <a href="https://spacenews.com/senators-reintroduce-bill-to-authorize-commerces-space-traffic-coordination-system/" >🔗</a> **[SpaceNews]** Senators reintroduce bill to authorize Commerce’s space traffic coordination system
 - <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/februarys-night-sky-notes-how-can-you-help-curb-light-pollution/" >🔗</a> **[NASA]** February’s Night Sky Notes: How Can You Help Curb Light Pollution?
 - <a href="https://spacenews.com/spire-and-ororatech-win-canadian-space-agency-contract-for-wildfire-detection-satellites/" >🔗</a> **[SpaceNews]** Spire and OroraTech win Canadian Space Agency contract for wildfire detection satellites
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/02/07/ula-begins-de-stacking-vulcan-rocket-pivots-to-atlas-5-launch-of-amazons-kuiper-satellites-for-first-2025-mission/" >🔗</a> **[Spaceflight Now]** ULA begins de-stacking Vulcan rocket, pivots to Atlas 5 launch of Amazon’s Kuiper satellites for first 2025 mission
 - <a href="https://www.nasa.gov/science-research/earth-science/nasa-explores-earth-science-with-new-navigational-system/" >🔗</a> **[NASA]** NASA Explores Earth Science with New Navigational System
 - <a href="https://spacenews.com/what-trumps-first-weeks-back-in-office-mean-for-space/" >🔗</a> **[SpaceNews]** What Trump’s first weeks back in office mean for space
-- <a href="https://spaceflightnow.com/2025/02/07/nasa-leaders-artemis-contractors-argue-importance-of-architecture-continuity-for-returning-to-the-moon/" >🔗</a> **[Spaceflight Now]** NASA leaders, Artemis contractors argue importance of architecture continuity for returning to the Moon
-- <a href="https://spacenews.com/as-the-night-sky-grows-crowded-astronomers-face-a-growing-problem/" >🔗</a> **[SpaceNews]** As the night sky grows crowded, astronomers face a growing problem
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250207T220122">2025-02-07 22:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250207T223239">2025-02-07 22:32:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
