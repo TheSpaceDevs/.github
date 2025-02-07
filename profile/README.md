@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/what-trumps-first-weeks-back-in-office-mean-for-space/" >🔗</a> **[SpaceNews]** What Trump’s first weeks back in office mean for space
+- <a href="https://spaceflightnow.com/2025/02/07/nasa-leaders-artemis-contractors-argue-importance-of-architecture-continuity-for-returning-to-the-moon/" >🔗</a> **[Spaceflight Now]** NASA leaders, Artemis contractors argue importance of architecture continuity for returning to the Moon
 - <a href="https://spacenews.com/as-the-night-sky-grows-crowded-astronomers-face-a-growing-problem/" >🔗</a> **[SpaceNews]** As the night sky grows crowded, astronomers face a growing problem
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/02/Space_weather_station" >🔗</a> **[ESA]** Space weather station
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_03-07_February_2025" >🔗</a> **[ESA]** Week in images: 03-07 February 2025
@@ -99,18 +101,17 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/the-state-of-orbital-traffic-management/" >🔗</a> **[SpaceNews]** The State of Orbital Traffic Management
 - <a href="https://spacenews.com/members-of-congress-raise-conflict-of-interest-concerns-regarding-musks-role-in-doge/" >🔗</a> **[SpaceNews]** Members of Congress raise conflict-of-interest concerns regarding Musk’s role in DOGE
 - <a href="https://spacenews.com/chinese-constellation-operator-spacesail-signs-agreement-with-measat-of-malaysia/" >🔗</a> **[SpaceNews]** Chinese constellation operator Spacesail signs agreement with Measat of Malaysia
-- <a href="https://europeanspaceflight.com/esa-to-launch-in-orbit-refuelling-demonstration-mission/" >🔗</a> **[European Spaceflight]** ESA to Launch In-Orbit Refuelling Demonstration Mission
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/02/Earth_from_Space_Snow-capped_Swiss_Alps" >🔗</a> **[ESA]** Earth from Space: Snow-capped Swiss Alps
 
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2025/02/07/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-9/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://www.nasaspaceflight.com/2025/02/launch-roundup-020325/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Electron, Soyuz set to fly; New Shepard to simulate lunar gravity
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250207T160128">2025-02-07 16:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250207T163555">2025-02-07 16:35:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
