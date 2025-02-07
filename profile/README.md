@@ -24,7 +24,7 @@ The next space launch, retrieved from our
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
 from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral SFS, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250207T185230">2025-02-07 18:52:30 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250208T182300">2025-02-08 18:23:00 UTC</a>.  Until
 then, this pad will have been used for 286
 out of 1001 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
@@ -46,7 +46,7 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250207T185230">2025-02-07 18:52:30 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-9&location=Cape Canaveral SFS, FL, USA&dates=20250207T185230Z%2F20250207T223719Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-9** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250208T182300">2025-02-08 18:23:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-9&location=Cape Canaveral SFS, FL, USA&dates=20250208T182300Z%2F20250208T220800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-9** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250208T204300">2025-02-08 20:43:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | IoT 4 You and Me (Kinéis 16-20)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20250208T204300Z%2F20250208T204300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | IoT 4 You and Me (Kinéis 16-20)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250210T000300">2025-02-10 00:03:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-10&location=Vandenberg SFB, CA, USA&dates=20250210T000300Z%2F20250210T040300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-10** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250211T092200">2025-02-11 09:22:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 8A | Demo Flight&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20250211T092200Z%2F20250211T101200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 8A | Demo Flight** from Wenchang Space Launch Site, People's Republic of China.
@@ -92,15 +92,15 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://spacenews.com/as-the-night-sky-grows-crowded-astronomers-face-a-growing-problem/" >🔗</a> **[SpaceNews]** As the night sky grows crowded, astronomers face a growing problem
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/02/Space_weather_station" >🔗</a> **[ESA]** Space weather station
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_03-07_February_2025" >🔗</a> **[ESA]** Week in images: 03-07 February 2025
+- <a href="https://tlpnetwork.com/news/america/space-perspective-to-cease-operations-ceo-internal-email-details-failed-funding-and-company-collapse" >🔗</a> **[The Launch Pad]** Space Perspective To Cease Operations; CEO Internal Email Details Failed Funding and Company Collapse
 - <a href="https://spaceflightnow.com/2025/02/07/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-9/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacenews.com/the-state-of-orbital-traffic-management/" >🔗</a> **[SpaceNews]** The State of Orbital Traffic Management
 - <a href="https://spacenews.com/members-of-congress-raise-conflict-of-interest-concerns-regarding-musks-role-in-doge/" >🔗</a> **[SpaceNews]** Members of Congress raise conflict-of-interest concerns regarding Musk’s role in DOGE
 - <a href="https://spacenews.com/chinese-constellation-operator-spacesail-signs-agreement-with-measat-of-malaysia/" >🔗</a> **[SpaceNews]** Chinese constellation operator Spacesail signs agreement with Measat of Malaysia
 - <a href="https://europeanspaceflight.com/esa-to-launch-in-orbit-refuelling-demonstration-mission/" >🔗</a> **[European Spaceflight]** ESA to Launch In-Orbit Refuelling Demonstration Mission
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/02/Earth_from_Space_Snow-capped_Swiss_Alps" >🔗</a> **[ESA]** Earth from Space: Snow-capped Swiss Alps
-- <a href="https://www.esa.int/Space_Safety/Planetary_Defence/ESA_endorses_Year_of_Asteroid_Awareness_and_Planetary_Defence" >🔗</a> **[ESA]** ESA endorses Year of Asteroid Awareness and Planetary Defence
-- <a href="https://spacepolicyonline.com/news/borisov-replaced-as-head-of-russias-space-program/" >🔗</a> **[SpacePolicyOnline.com]** Borisov Replaced as Head of Russia’s Space Program
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250207T150125">2025-02-07 15:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250207T153146">2025-02-07 15:31:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
