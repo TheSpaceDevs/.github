@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/as-the-night-sky-grows-crowded-astronomers-face-a-growing-problem/" >🔗</a> **[SpaceNews]** As the night sky grows crowded, astronomers face a growing problem
+- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_03-07_February_2025" >🔗</a> **[ESA]** Week in images: 03-07 February 2025
 - <a href="https://spaceflightnow.com/2025/02/07/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-9/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacenews.com/the-state-of-orbital-traffic-management/" >🔗</a> **[SpaceNews]** The State of Orbital Traffic Management
 - <a href="https://spacenews.com/members-of-congress-raise-conflict-of-interest-concerns-regarding-musks-role-in-doge/" >🔗</a> **[SpaceNews]** Members of Congress raise conflict-of-interest concerns regarding Musk’s role in DOGE
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/02/Earth_from_Space_Snow-capped_Swiss_Alps" >🔗</a> **[ESA]** Earth from Space: Snow-capped Swiss Alps
 - <a href="https://www.esa.int/Space_Safety/Planetary_Defence/ESA_endorses_Year_of_Asteroid_Awareness_and_Planetary_Defence" >🔗</a> **[ESA]** ESA endorses Year of Asteroid Awareness and Planetary Defence
 - <a href="https://spacepolicyonline.com/news/borisov-replaced-as-head-of-russias-space-program/" >🔗</a> **[SpacePolicyOnline.com]** Borisov Replaced as Head of Russia’s Space Program
-- <a href="https://spacepolicyonline.com/news/key-congressional-democrats-query-dot-nasa-about-musk-conflicts-of-interest/" >🔗</a> **[SpacePolicyOnline.com]** Key Congressional Democrats Query DOT, NASA About Musk Conflicts of Interest
-- <a href="https://spacepolicyonline.com/news/key-democrats-query-dot-nasa-about-musk-conflicts-of-interest/" >🔗</a> **[SpacePolicyOnline.com]** Key Democrats Query DOT, NASA About Musk Conflicts of Interest
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250207T140119">2025-02-07 14:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250207T143315">2025-02-07 14:33:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
