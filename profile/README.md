@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/02/07/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-9/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket from Cape Canaveral
+- <a href="https://spacenews.com/the-state-of-orbital-traffic-management/" >🔗</a> **[SpaceNews]** The State of Orbital Traffic Management
 - <a href="https://spacenews.com/members-of-congress-raise-conflict-of-interest-concerns-regarding-musks-role-in-doge/" >🔗</a> **[SpaceNews]** Members of Congress raise conflict-of-interest concerns regarding Musk’s role in DOGE
 - <a href="https://spacenews.com/chinese-constellation-operator-spacesail-signs-agreement-with-measat-of-malaysia/" >🔗</a> **[SpaceNews]** Chinese constellation operator Spacesail signs agreement with Measat of Malaysia
 - <a href="https://europeanspaceflight.com/esa-to-launch-in-orbit-refuelling-demonstration-mission/" >🔗</a> **[European Spaceflight]** ESA to Launch In-Orbit Refuelling Demonstration Mission
-- <a href="https://www.esa.int/Space_Safety/Planetary_Defence/ESA_endorses_Year_of_Asteroid_Awareness_and_Planetary_Defence" >🔗</a> **[ESA]** ESA endorses Year of Asteroid Awareness and Planetary Defence
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/02/Earth_from_Space_Snow-capped_Swiss_Alps" >🔗</a> **[ESA]** Earth from Space: Snow-capped Swiss Alps
+- <a href="https://www.esa.int/Space_Safety/Planetary_Defence/ESA_endorses_Year_of_Asteroid_Awareness_and_Planetary_Defence" >🔗</a> **[ESA]** ESA endorses Year of Asteroid Awareness and Planetary Defence
 - <a href="https://spacepolicyonline.com/news/borisov-replaced-as-head-of-russias-space-program/" >🔗</a> **[SpacePolicyOnline.com]** Borisov Replaced as Head of Russia’s Space Program
 - <a href="https://spacepolicyonline.com/news/key-congressional-democrats-query-dot-nasa-about-musk-conflicts-of-interest/" >🔗</a> **[SpacePolicyOnline.com]** Key Congressional Democrats Query DOT, NASA About Musk Conflicts of Interest
 - <a href="https://spacepolicyonline.com/news/key-democrats-query-dot-nasa-about-musk-conflicts-of-interest/" >🔗</a> **[SpacePolicyOnline.com]** Key Democrats Query DOT, NASA About Musk Conflicts of Interest
-- <a href="https://science.nasa.gov/blog/sols-4445-4446-cloudy-days-are-here/" >🔗</a> **[NASA]** Sols 4445–4446: Cloudy Days are Here
-- <a href="https://spacenews.com/fork-in-the-road-buyout-offer-reaches-national-security-agencies-despite-exemptions/" >🔗</a> **[SpaceNews]** ‘Fork in the Road’ buyout offer reaches space and national security agencies despite exemptions
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250207T130444">2025-02-07 13:04:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250207T133301">2025-02-07 13:33:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
