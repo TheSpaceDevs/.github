@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/februarys-night-sky-notes-how-can-you-help-curb-light-pollution/" >🔗</a> **[NASA]** February’s Night Sky Notes: How Can You Help Curb Light Pollution?
 - <a href="https://spacenews.com/spire-and-ororatech-win-canadian-space-agency-contract-for-wildfire-detection-satellites/" >🔗</a> **[SpaceNews]** Spire and OroraTech win Canadian Space Agency contract for wildfire detection satellites
 - <a href="https://www.nasa.gov/image-article/golden-moon-over-the-superdome/" >🔗</a> **[NASA]** Golden Moon over the Superdome
+- <a href="https://www.nasaspaceflight.com/2025/02/starbase-progress-second-launch-pad/" >🔗</a> **[NASASpaceflight]** Starbase making progress on second launch pad
 - <a href="https://spaceflightnow.com/2025/02/07/ula-begins-de-stacking-vulcan-rocket-pivots-to-atlas-5-launch-of-amazons-kuiper-satellites-for-first-2025-mission/" >🔗</a> **[Spaceflight Now]** ULA begins de-stacking Vulcan rocket, pivots to Atlas 5 launch of Amazon’s Kuiper satellites for first 2025 mission
 - <a href="https://www.nasa.gov/science-research/earth-science/nasa-explores-earth-science-with-new-navigational-system/" >🔗</a> **[NASA]** NASA Explores Earth Science with New Navigational System
 - <a href="https://spacenews.com/what-trumps-first-weeks-back-in-office-mean-for-space/" >🔗</a> **[SpaceNews]** What Trump’s first weeks back in office mean for space
 - <a href="https://spaceflightnow.com/2025/02/07/nasa-leaders-artemis-contractors-argue-importance-of-architecture-continuity-for-returning-to-the-moon/" >🔗</a> **[Spaceflight Now]** NASA leaders, Artemis contractors argue importance of architecture continuity for returning to the Moon
 - <a href="https://spacenews.com/as-the-night-sky-grows-crowded-astronomers-face-a-growing-problem/" >🔗</a> **[SpaceNews]** As the night sky grows crowded, astronomers face a growing problem
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/02/Space_weather_station" >🔗</a> **[ESA]** Space weather station
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_03-07_February_2025" >🔗</a> **[ESA]** Week in images: 03-07 February 2025
-- <a href="https://tlpnetwork.com/news/america/space-perspective-to-cease-operations-ceo-internal-email-details-failed-funding-and-company-collapse" >🔗</a> **[The Launch Pad]** Space Perspective To Cease Operations; CEO Internal Email Details Failed Funding and Company Collapse
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250207T200132">2025-02-07 20:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250207T203142">2025-02-07 20:31:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
