@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/02/07/ula-begins-de-stacking-vulcan-rocket-pivots-to-atlas-5-launch-of-amazons-kuiper-satellites-for-first-2025-mission/" >🔗</a> **[Spaceflight Now]** ULA begins de-stacking Vulcan rocket, pivots to Atlas 5 launch of Amazon’s Kuiper satellites for first 2025 mission
 - <a href="https://www.nasa.gov/science-research/earth-science/nasa-explores-earth-science-with-new-navigational-system/" >🔗</a> **[NASA]** NASA Explores Earth Science with New Navigational System
 - <a href="https://spacenews.com/what-trumps-first-weeks-back-in-office-mean-for-space/" >🔗</a> **[SpaceNews]** What Trump’s first weeks back in office mean for space
 - <a href="https://spaceflightnow.com/2025/02/07/nasa-leaders-artemis-contractors-argue-importance-of-architecture-continuity-for-returning-to-the-moon/" >🔗</a> **[Spaceflight Now]** NASA leaders, Artemis contractors argue importance of architecture continuity for returning to the Moon
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/america/space-perspective-to-cease-operations-ceo-internal-email-details-failed-funding-and-company-collapse" >🔗</a> **[The Launch Pad]** Space Perspective To Cease Operations; CEO Internal Email Details Failed Funding and Company Collapse
 - <a href="https://spaceflightnow.com/2025/02/07/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-9/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacenews.com/the-state-of-orbital-traffic-management/" >🔗</a> **[SpaceNews]** The State of Orbital Traffic Management
-- <a href="https://spacenews.com/members-of-congress-raise-conflict-of-interest-concerns-regarding-musks-role-in-doge/" >🔗</a> **[SpaceNews]** Members of Congress raise conflict-of-interest concerns regarding Musk’s role in DOGE
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250207T190117">2025-02-07 19:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250207T193105">2025-02-07 19:31:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
