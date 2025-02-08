@@ -46,7 +46,6 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250208T182300">2025-02-08 18:23:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-9&location=Cape Canaveral SFS, FL, USA&dates=20250208T182300Z%2F20250208T220800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-9** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250208T204300">2025-02-08 20:43:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | IoT 4 You and Me (Kinéis 16-20)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20250208T204300Z%2F20250208T204300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | IoT 4 You and Me (Kinéis 16-20)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250210T000300">2025-02-10 00:03:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-10&location=Vandenberg SFB, CA, USA&dates=20250210T000300Z%2F20250210T040300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-10** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250211T092200">2025-02-11 09:22:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 8A | Demo Flight&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20250211T092200Z%2F20250211T101200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 8A | Demo Flight** from Wenchang Space Launch Site, People's Republic of China.
@@ -91,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/cramer-sullivan-introduce-iron-dome-act/" >🔗</a> **[SpacePolicyOnline.com]** Cramer, Sullivan Introduce Iron Dome Act
 - <a href="https://tlpnetwork.com/news/america/lunex-1-to-fly-to-the-moon-aboard-astrobotics-griffin-lunar-lander" >🔗</a> **[The Launch Pad]** LunEx-1 to Fly to the Moon Aboard Astrobotic’s Griffin Lunar Lander
 - <a href="https://spacenews.com/gop-senators-back-trumps-space-based-iron-dome-plan-with-19-5b-bill/" >🔗</a> **[SpaceNews]** GOP senators back Trump’s space-based ‘Iron Dome’ plan with $19.5B bill
 - <a href="https://spacenews.com/boeing-warns-sls-employees-of-potential-layoffs/" >🔗</a> **[SpaceNews]** Boeing warns SLS employees of potential layoffs
@@ -100,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2025/02/boeing-has-informed-its-employees-that-nasa-may-cancel-sls-contracts/" >🔗</a> **[Arstechnica]** Boeing has informed its employees that NASA may cancel SLS contracts
 - <a href="https://spacenews.com/senators-reintroduce-bill-to-authorize-commerces-space-traffic-coordination-system/" >🔗</a> **[SpaceNews]** Senators reintroduce bill to authorize Commerce’s space traffic coordination system
 - <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/februarys-night-sky-notes-how-can-you-help-curb-light-pollution/" >🔗</a> **[NASA]** February’s Night Sky Notes: How Can You Help Curb Light Pollution?
-- <a href="https://spacenews.com/spire-and-ororatech-win-canadian-space-agency-contract-for-wildfire-detection-satellites/" >🔗</a> **[SpaceNews]** Spire and OroraTech win Canadian Space Agency contract for wildfire detection satellites
 
 
 ### Launch-related News 🚀
@@ -111,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250208T180121">2025-02-08 18:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250208T183357">2025-02-08 18:33:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
