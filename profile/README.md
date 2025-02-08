@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/white-house-reaffirms-u-s-japanese-artemis-cooperation/" >🔗</a> **[SpacePolicyOnline.com]** White House Reaffirms U.S.-Japanese Artemis Cooperation
+- <a href="https://spacenews.com/lockheed-martin-boeing-compete-for-military-satellite-contract-amid-commercial-disruption/" >🔗</a> **[SpaceNews]** Lockheed Martin, Boeing compete for military satellite contract amid commercial disruption
 - <a href="https://spacepolicyonline.com/news/cramer-sullivan-introduce-iron-dome-act/" >🔗</a> **[SpacePolicyOnline.com]** Cramer, Sullivan Introduce Iron Dome Act
 - <a href="https://tlpnetwork.com/news/america/lunex-1-to-fly-to-the-moon-aboard-astrobotics-griffin-lunar-lander" >🔗</a> **[The Launch Pad]** LunEx-1 to Fly to the Moon Aboard Astrobotic’s Griffin Lunar Lander
 - <a href="https://spacenews.com/gop-senators-back-trumps-space-based-iron-dome-plan-with-19-5b-bill/" >🔗</a> **[SpaceNews]** GOP senators back Trump’s space-based ‘Iron Dome’ plan with $19.5B bill
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/02/07/rocket-lab-to-launch-first-electron-rocket-of-2025-from-new-zealand/" >🔗</a> **[Spaceflight Now]** Rocket Lab to launch first Electron rocket of 2025 from New Zealand
 - <a href="https://spacenews.com/fcc-sets-stage-for-spacex-and-wireless-industry-c-band-showdown/" >🔗</a> **[SpaceNews]** FCC sets stage for SpaceX and wireless industry C-band showdown
 - <a href="https://arstechnica.com/space/2025/02/boeing-has-informed-its-employees-that-nasa-may-cancel-sls-contracts/" >🔗</a> **[Arstechnica]** Boeing has informed its employees that NASA may cancel SLS contracts
-- <a href="https://spacenews.com/senators-reintroduce-bill-to-authorize-commerces-space-traffic-coordination-system/" >🔗</a> **[SpaceNews]** Senators reintroduce bill to authorize Commerce’s space traffic coordination system
-- <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/februarys-night-sky-notes-how-can-you-help-curb-light-pollution/" >🔗</a> **[NASA]** February’s Night Sky Notes: How Can You Help Curb Light Pollution?
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250208T193111">2025-02-08 19:31:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250208T203105">2025-02-08 20:31:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
