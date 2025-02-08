@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/boeing-warns-of-potential-sls-layoffs/" >🔗</a> **[SpacePolicyOnline.com]** Boeing Warns of Potential SLS Layoffs
 - <a href="https://spacenews.com/rocket-lab-launches-fourth-set-of-kineis-satellites/" >🔗</a> **[SpaceNews]** Rocket Lab launches fourth set of Kinéis satellites
 - <a href="https://spacepolicyonline.com/news/white-house-reaffirms-u-s-japanese-artemis-cooperation/" >🔗</a> **[SpacePolicyOnline.com]** White House Reaffirms U.S.-Japanese Artemis Cooperation
 - <a href="https://spacenews.com/lockheed-martin-boeing-compete-for-military-satellite-contract-amid-commercial-disruption/" >🔗</a> **[SpaceNews]** Lockheed Martin, Boeing compete for military satellite contract amid commercial disruption
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/boeing-warns-sls-employees-of-potential-layoffs/" >🔗</a> **[SpaceNews]** Boeing warns SLS employees of potential layoffs
 - <a href="https://spaceflightnow.com/2025/02/08/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-california-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 23 Starlink satellites on Falcon 9 rocket from California
 - <a href="https://spaceflightnow.com/2025/02/07/rocket-lab-to-launch-first-electron-rocket-of-2025-from-new-zealand/" >🔗</a> **[Spaceflight Now]** Rocket Lab to launch first Electron rocket of 2025 from New Zealand
-- <a href="https://spacenews.com/fcc-sets-stage-for-spacex-and-wireless-industry-c-band-showdown/" >🔗</a> **[SpaceNews]** FCC sets stage for SpaceX and wireless industry C-band showdown
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250208T230129">2025-02-08 23:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250208T233117">2025-02-08 23:31:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
