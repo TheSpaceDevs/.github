@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/02/08/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-california-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 23 Starlink satellites on Falcon 9 rocket from California
 - <a href="https://spaceflightnow.com/2025/02/07/rocket-lab-to-launch-first-electron-rocket-of-2025-from-new-zealand/" >🔗</a> **[Spaceflight Now]** Rocket Lab to launch first Electron rocket of 2025 from New Zealand
 - <a href="https://spacenews.com/fcc-sets-stage-for-spacex-and-wireless-industry-c-band-showdown/" >🔗</a> **[SpaceNews]** FCC sets stage for SpaceX and wireless industry C-band showdown
 - <a href="https://arstechnica.com/space/2025/02/boeing-has-informed-its-employees-that-nasa-may-cancel-sls-contracts/" >🔗</a> **[Arstechnica]** Boeing has informed its employees that NASA may cancel SLS contracts
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/golden-moon-over-the-superdome/" >🔗</a> **[NASA]** Golden Moon over the Superdome
 - <a href="https://www.nasaspaceflight.com/2025/02/starbase-progress-second-launch-pad/" >🔗</a> **[NASASpaceflight]** Starbase making progress on second launch pad
 - <a href="https://spaceflightnow.com/2025/02/07/ula-begins-de-stacking-vulcan-rocket-pivots-to-atlas-5-launch-of-amazons-kuiper-satellites-for-first-2025-mission/" >🔗</a> **[Spaceflight Now]** ULA begins de-stacking Vulcan rocket, pivots to Atlas 5 launch of Amazon’s Kuiper satellites for first 2025 mission
-- <a href="https://www.nasa.gov/science-research/earth-science/nasa-explores-earth-science-with-new-navigational-system/" >🔗</a> **[NASA]** NASA Explores Earth Science with New Navigational System
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250208T000408">2025-02-08 00:04:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250208T004532">2025-02-08 00:45:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
