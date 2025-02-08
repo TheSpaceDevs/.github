@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/gop-senators-back-trumps-space-based-iron-dome-plan-with-19-5b-bill/" >🔗</a> **[SpaceNews]** GOP senators back Trump’s space-based ‘Iron Dome’ plan with $19.5B bill
 - <a href="https://spacenews.com/boeing-warns-sls-employees-of-potential-layoffs/" >🔗</a> **[SpaceNews]** Boeing warns SLS employees of potential layoffs
 - <a href="https://spaceflightnow.com/2025/02/08/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-california-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 23 Starlink satellites on Falcon 9 rocket from California
 - <a href="https://spaceflightnow.com/2025/02/07/rocket-lab-to-launch-first-electron-rocket-of-2025-from-new-zealand/" >🔗</a> **[Spaceflight Now]** Rocket Lab to launch first Electron rocket of 2025 from New Zealand
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/februarys-night-sky-notes-how-can-you-help-curb-light-pollution/" >🔗</a> **[NASA]** February’s Night Sky Notes: How Can You Help Curb Light Pollution?
 - <a href="https://spacenews.com/spire-and-ororatech-win-canadian-space-agency-contract-for-wildfire-detection-satellites/" >🔗</a> **[SpaceNews]** Spire and OroraTech win Canadian Space Agency contract for wildfire detection satellites
 - <a href="https://www.nasa.gov/image-article/golden-moon-over-the-superdome/" >🔗</a> **[NASA]** Golden Moon over the Superdome
-- <a href="https://www.nasaspaceflight.com/2025/02/starbase-progress-second-launch-pad/" >🔗</a> **[NASASpaceflight]** Starbase making progress on second launch pad
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250208T113100">2025-02-08 11:31:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250208T120141">2025-02-08 12:01:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
