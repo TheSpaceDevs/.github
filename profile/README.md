@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/u-s-japan-statement-mentions-artemis-amid-uncertainty-about-its-future/" >🔗</a> **[SpaceNews]** U.S.-Japan statement mentions Artemis amid uncertainty about its future
 - <a href="https://spacenews.com/nasa-to-continue-using-artemis-crew-transport-vans-from-bankrupt-manufacturer/" >🔗</a> **[SpaceNews]** NASA to continue using Artemis crew transport vans from bankrupt manufacturer
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-february-9-15-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy February 9-15, 2025
 - <a href="https://www.nasaspaceflight.com/2025/02/webb-hh30-cass-a/" >🔗</a> **[NASASpaceflight]** Webb investigates protoplanetary disk in extreme detail, observes glowing interstellar material
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/lockheed-martin-boeing-compete-for-military-satellite-contract-amid-commercial-disruption/" >🔗</a> **[SpaceNews]** Lockheed Martin, Boeing compete for military satellite contract amid commercial disruption
 - <a href="https://spacepolicyonline.com/news/cramer-sullivan-introduce-iron-dome-act/" >🔗</a> **[SpacePolicyOnline.com]** Cramer, Sullivan Introduce Iron Dome Act
 - <a href="https://tlpnetwork.com/news/america/lunex-1-to-fly-to-the-moon-aboard-astrobotics-griffin-lunar-lander" >🔗</a> **[The Launch Pad]** LunEx-1 to Fly to the Moon Aboard Astrobotic’s Griffin Lunar Lander
-- <a href="https://spacenews.com/gop-senators-back-trumps-space-based-iron-dome-plan-with-19-5b-bill/" >🔗</a> **[SpaceNews]** GOP senators back Trump’s space-based ‘Iron Dome’ plan with $19.5B bill
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250209T230135">2025-02-09 23:01:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250209T233104">2025-02-09 23:31:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
