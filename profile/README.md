@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_discovers_a_stunning_Einstein_ring" >🔗</a> **[ESA]** Euclid discovers a stunning Einstein ring
 - <a href="https://spacenews.com/u-s-japan-statement-mentions-artemis-amid-uncertainty-about-its-future/" >🔗</a> **[SpaceNews]** U.S.-Japan statement mentions Artemis amid uncertainty about its future
 - <a href="https://spacenews.com/nasa-to-continue-using-artemis-crew-transport-vans-from-bankrupt-manufacturer/" >🔗</a> **[SpaceNews]** NASA to continue using Artemis crew transport vans from bankrupt manufacturer
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-february-9-15-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy February 9-15, 2025
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/white-house-reaffirms-u-s-japanese-artemis-cooperation/" >🔗</a> **[SpacePolicyOnline.com]** White House Reaffirms U.S.-Japanese Artemis Cooperation
 - <a href="https://spacenews.com/lockheed-martin-boeing-compete-for-military-satellite-contract-amid-commercial-disruption/" >🔗</a> **[SpaceNews]** Lockheed Martin, Boeing compete for military satellite contract amid commercial disruption
 - <a href="https://spacepolicyonline.com/news/cramer-sullivan-introduce-iron-dome-act/" >🔗</a> **[SpacePolicyOnline.com]** Cramer, Sullivan Introduce Iron Dome Act
-- <a href="https://tlpnetwork.com/news/america/lunex-1-to-fly-to-the-moon-aboard-astrobotics-griffin-lunar-lander" >🔗</a> **[The Launch Pad]** LunEx-1 to Fly to the Moon Aboard Astrobotic’s Griffin Lunar Lander
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250210T080130">2025-02-10 08:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250210T083458">2025-02-10 08:34:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
