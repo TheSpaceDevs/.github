@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/nisar/nasa-led-study-pinpoints-areas-sinking-rising-along-california-coast/" >🔗</a> **[NASA]** NASA-Led Study Pinpoints Areas Sinking, Rising Along California Coast
+- <a href="https://spacenews.com/mda-space-to-build-satellites-for-globalstars-apple-backed-next-gen-constellation/" >🔗</a> **[SpaceNews]** MDA Space to build satellites for Globalstar’s Apple-backed next-gen constellation
 - <a href="https://www.nasa.gov/universe/nasa-scientists-spot-candidate-for-speediest-exoplanet-system/" >🔗</a> **[NASA]** NASA Scientists Spot Candidate for Speediest Exoplanet System
 - <a href="https://spacenews.com/the-efforts-bridging-space-sustainability-from-best-intentions-to-real-world-actions/" >🔗</a> **[SpaceNews]** The efforts bridging space sustainability, from best intentions to real-world actions
 - <a href="https://science.nasa.gov/get-involved/citizen-science/newly-minted-ph-d-studies-phytoplankton-with-nasas-fjordphyto-project/" >🔗</a> **[NASA]** Newly Minted Ph.D. Studies Phytoplankton with NASA’s FjordPhyto Project
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/universe/euclid-discovers-einstein-ring-in-our-cosmic-backyard/" >🔗</a> **[NASA]** Euclid Discovers Einstein Ring in Our Cosmic Backyard
 - <a href="https://spacenews.com/pakistan-rover-to-fly-on-chinas-change-8-lunar-south-pole-mission/" >🔗</a> **[SpaceNews]** Pakistan rover to fly on China’s Chang’e-8 lunar south pole mission
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_discovers_a_stunning_Einstein_ring" >🔗</a> **[ESA]** Euclid discovers a stunning Einstein ring
-- <a href="https://spacenews.com/u-s-japan-statement-mentions-artemis-amid-uncertainty-about-its-future/" >🔗</a> **[SpaceNews]** U.S.-Japan statement mentions Artemis amid uncertainty about its future
-- <a href="https://spacenews.com/nasa-to-continue-using-artemis-crew-transport-vans-from-bankrupt-manufacturer/" >🔗</a> **[SpaceNews]** NASA to continue using Artemis crew transport vans from bankrupt manufacturer
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250210T170125">2025-02-10 17:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250210T173150">2025-02-10 17:31:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
