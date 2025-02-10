@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/universe/nasa-scientists-spot-candidate-for-speediest-exoplanet-system/" >🔗</a> **[NASA]** NASA Scientists Spot Candidate for Speediest Exoplanet System
 - <a href="https://spacenews.com/the-efforts-bridging-space-sustainability-from-best-intentions-to-real-world-actions/" >🔗</a> **[SpaceNews]** The efforts bridging space sustainability, from best intentions to real-world actions
-- <a href="https://spacenews.com/the-merger-between-satellite-and-cellular-industries-not-yet-a-marriage-made-in-heaven/" >🔗</a> **[SpaceNews]** The merger between satellite and cellular industries: not (yet) a marriage made in heaven?
 - <a href="https://science.nasa.gov/get-involved/citizen-science/newly-minted-ph-d-studies-phytoplankton-with-nasas-fjordphyto-project/" >🔗</a> **[NASA]** Newly Minted Ph.D. Studies Phytoplankton with NASA’s FjordPhyto Project
+- <a href="https://spacenews.com/the-merger-between-satellite-and-cellular-industries-not-yet-a-marriage-made-in-heaven/" >🔗</a> **[SpaceNews]** The merger between satellite and cellular industries: not (yet) a marriage made in heaven?
 - <a href="https://europeanspaceflight.com/germany-commits-additional-e870k-to-offshore-launch-facility/" >🔗</a> **[European Spaceflight]** Germany Commits Additional €870k to Offshore Launch Facility
 - <a href="https://www.nasa.gov/universe/euclid-discovers-einstein-ring-in-our-cosmic-backyard/" >🔗</a> **[NASA]** Euclid Discovers Einstein Ring in Our Cosmic Backyard
 - <a href="https://spacenews.com/pakistan-rover-to-fly-on-chinas-change-8-lunar-south-pole-mission/" >🔗</a> **[SpaceNews]** Pakistan rover to fly on China’s Chang’e-8 lunar south pole mission
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_discovers_a_stunning_Einstein_ring" >🔗</a> **[ESA]** Euclid discovers a stunning Einstein ring
 - <a href="https://spacenews.com/u-s-japan-statement-mentions-artemis-amid-uncertainty-about-its-future/" >🔗</a> **[SpaceNews]** U.S.-Japan statement mentions Artemis amid uncertainty about its future
 - <a href="https://spacenews.com/nasa-to-continue-using-artemis-crew-transport-vans-from-bankrupt-manufacturer/" >🔗</a> **[SpaceNews]** NASA to continue using Artemis crew transport vans from bankrupt manufacturer
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-february-9-15-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy February 9-15, 2025
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250210T160133">2025-02-10 16:01:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250210T163534">2025-02-10 16:35:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
