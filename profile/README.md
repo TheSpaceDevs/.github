@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-awards-launch-service-task-order-for-pandora-mission/" >🔗</a> **[NASA]** NASA Awards Launch Service Task Order for Pandora Mission
+- <a href="https://spacenews.com/blacksky-to-launch-next-gen-imaging-satellite-as-it-seeks-market-edge/" >🔗</a> **[SpaceNews]** BlackSky to launch next-gen imaging satellite as it seeks market edge
+- <a href="https://www.nasa.gov/general/station-science-top-news-feb-7-2025/" >🔗</a> **[NASA]** Station Science Top News: Feb. 7, 2025
 - <a href="https://spacenews.com/nasa-to-roll-out-major-update-to-core-flight-software/" >🔗</a> **[SpaceNews]** NASA to roll out major update to core flight software
 - <a href="https://www.nasaspaceflight.com/2025/02/launch-roundup-021025/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Starlink and CZ-8A launches planned; Falcon booster to land in Bahamas
 - <a href="https://www.nasa.gov/solar-system/stephanie-getty-exploring-the-universe-with-curiosity-and-wonder/" >🔗</a> **[NASA]** Stephanie Getty: Exploring the Universe with Curiosity and Wonder
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/people-of-nasa/jesse-walsh-possibility-at-the-cutting-edge-of-flight/" >🔗</a> **[NASA]** Jesse Walsh: Possibility at the Cutting Edge of Flight
 - <a href="https://www.nasa.gov/universe/nasa-intern-found-hope-in-the-moon-2/" >🔗</a> **[NASA]** NASA Intern Found Hope in the Moon
 - <a href="https://www.nasa.gov/people-of-nasa/margaret-dominguez-helps-nasa-space-telescopes-open-their-eyes-to-the-universe/" >🔗</a> **[NASA]** Margaret Dominguez Helps NASA Space Telescopes Open Their ‘Eyes’ to the Universe
-- <a href="https://www.nasa.gov/people-of-nasa/melissa-gates-keeping-goddard-running/" >🔗</a> **[NASA]** Melissa Gates: Keeping Goddard Running
-- <a href="https://www.nasa.gov/people-of-nasa/elizabeth-tammi-gives-hubble-a-voice/" >🔗</a> **[NASA]** Elizabeth Tammi Gives Hubble a Voice
-- <a href="https://www.nasa.gov/centers-and-facilities/goddard/keith-koehler-listening-and-leading-as-wallops-news-chief/" >🔗</a> **[NASA]** Keith Koehler: Listening and Leading as Wallops’ News Chief
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250210T213100">2025-02-10 21:31:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250210T220136">2025-02-10 22:01:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
