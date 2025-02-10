@@ -46,7 +46,7 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250210T234600">2025-02-10 23:46:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-10&location=Vandenberg SFB, CA, USA&dates=20250210T234600Z%2F20250211T024659Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-10** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250210T234600">2025-02-10 23:46:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-10&location=Vandenberg SFB, CA, USA&dates=20250210T234600Z%2F20250211T032009Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-10** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250211T092200">2025-02-11 09:22:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 8A | Demo Flight&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20250211T092200Z%2F20250211T101200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 8A | Demo Flight** from Wenchang Space Launch Site, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250211T170000">2025-02-11 17:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-18&location=Cape Canaveral SFS, FL, USA&dates=20250211T170000Z%2F20250211T213100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-18** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250214T172600">2025-02-14 17:26:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-8&location=Cape Canaveral SFS, FL, USA&dates=20250214T172600Z%2F20250214T215700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-8** from Cape Canaveral SFS, FL, USA.
@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.nasa.gov/centers-and-facilities/goddard/john-moisan-studies-the-ocean-through-the-eyes-of-ai/" >🔗</a> **[NASA]** John Moisan Studies the Ocean Through the ‘Eyes’ of AI
-- <a href="https://www.nasa.gov/centers-and-facilities/goddard/mark-subbarao-brings-data-to-life-through-art/" >🔗</a> **[NASA]** Mark SubbaRao Brings Data to Life Through Art
-- <a href="https://www.nasa.gov/missions/hubble/phathom-donald-brings-space-closer-as-a-hubble-mission-engineer/" >🔗</a> **[NASA]** Phathom Donald Brings Space Closer as a Hubble Mission Engineer
-- <a href="https://www.nasa.gov/people-of-nasa/trena-ferrell-inspires-through-science-and-education/" >🔗</a> **[NASA]** Trena Ferrell Inspires Through Science and Education
-- <a href="https://www.nasa.gov/centers-and-facilities/goddard/nasa-scientists-historian-named-aaas-2022-fellows/" >🔗</a> **[NASA]** NASA Scientists & Historian Named AAAS 2022 Fellows
-- <a href="https://www.nasa.gov/missions/webb/nasa-scientist-jonathan-gardner-named-aas-2023-fellow/" >🔗</a> **[NASA]** NASA Scientist Jonathan Gardner Named AAS 2023 Fellow
-- <a href="https://www.nasa.gov/centers-and-facilities/goddard/peyman-abbaszadeh-hydrology-and-hope-for-the-future/" >🔗</a> **[NASA]** Peyman Abbaszadeh: Hydrology and Hope for the Future
-- <a href="https://www.nasa.gov/centers-and-facilities/goddard/nasa-engineers-honored-by-national-academy-of-engineering/" >🔗</a> **[NASA]** NASA Engineers Honored by National Academy of Engineering
-- <a href="https://www.nasa.gov/people-of-nasa/shari-miller-keeping-the-mission-and-the-environment-in-balance/" >🔗</a> **[NASA]** Shari Miller: Keeping the Mission and the Environment In Balance
-- <a href="https://www.nasa.gov/science-research/astrophysics/jeremy-schnittman-looking-into-the-mystery-of-black-holes/" >🔗</a> **[NASA]** Jeremy Schnittman: Looking Into the Mystery of Black Holes
+- <a href="https://www.nasa.gov/solar-system/stephanie-getty-exploring-the-universe-with-curiosity-and-wonder/" >🔗</a> **[NASA]** Stephanie Getty: Exploring the Universe with Curiosity and Wonder
+- <a href="https://www.nasa.gov/centers-and-facilities/goddard/world-photo-day-behind-the-scenes-with-goddards-documentary-photographers/" >🔗</a> **[NASA]** World Photo Day: Behind the Scenes with Goddard’s Documentary Photographers
+- <a href="https://www.nasa.gov/people-of-nasa/margaret-dominguez-helps-nasa-space-telescopes-open-their-eyes-to-the-universe/" >🔗</a> **[NASA]** Margaret Dominguez Helps NASA Space Telescopes Open Their ‘Eyes’ to the Universe
+- <a href="https://www.nasa.gov/universe/nasa-intern-found-hope-in-the-moon-2/" >🔗</a> **[NASA]** NASA Intern Found Hope in the Moon
+- <a href="https://www.nasa.gov/people-of-nasa/melissa-gates-keeping-goddard-running/" >🔗</a> **[NASA]** Melissa Gates: Keeping Goddard Running
+- <a href="https://www.nasa.gov/people-of-nasa/jesse-walsh-possibility-at-the-cutting-edge-of-flight/" >🔗</a> **[NASA]** Jesse Walsh: Possibility at the Cutting Edge of Flight
+- <a href="https://www.nasa.gov/people-of-nasa/elizabeth-tammi-gives-hubble-a-voice/" >🔗</a> **[NASA]** Elizabeth Tammi Gives Hubble a Voice
+- <a href="https://www.nasa.gov/centers-and-facilities/goddard/keith-koehler-listening-and-leading-as-wallops-news-chief/" >🔗</a> **[NASA]** Keith Koehler: Listening and Leading as Wallops’ News Chief
+- <a href="https://www.nasa.gov/people-of-nasa/wallops-engineer-2022-innovator/" >🔗</a> **[NASA]** Wallops Electrical Engineer Named NASA Goddard’s 2022 ‘Innovator of Year’
+- <a href="https://www.nasa.gov/technology/ai-eye-could-help-robotic-data-gathering/" >🔗</a> **[NASA]** NASA Researcher’s AI ‘Eye’ Could Help Robotic Data-Gathering
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250210T190113">2025-02-10 19:01:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250210T193106">2025-02-10 19:31:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
