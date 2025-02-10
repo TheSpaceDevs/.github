@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.nasa.gov/missions/nisar/nasa-led-study-pinpoints-areas-sinking-rising-along-california-coast/" >🔗</a> **[NASA]** NASA-Led Study Pinpoints Areas Sinking, Rising Along California Coast
-- <a href="https://spacenews.com/mda-space-to-build-satellites-for-globalstars-apple-backed-next-gen-constellation/" >🔗</a> **[SpaceNews]** MDA Space to build satellites for Globalstar’s Apple-backed next-gen constellation
-- <a href="https://www.nasa.gov/universe/nasa-scientists-spot-candidate-for-speediest-exoplanet-system/" >🔗</a> **[NASA]** NASA Scientists Spot Candidate for Speediest Exoplanet System
-- <a href="https://spacenews.com/the-efforts-bridging-space-sustainability-from-best-intentions-to-real-world-actions/" >🔗</a> **[SpaceNews]** The efforts bridging space sustainability, from best intentions to real-world actions
-- <a href="https://science.nasa.gov/get-involved/citizen-science/newly-minted-ph-d-studies-phytoplankton-with-nasas-fjordphyto-project/" >🔗</a> **[NASA]** Newly Minted Ph.D. Studies Phytoplankton with NASA’s FjordPhyto Project
-- <a href="https://spacenews.com/the-merger-between-satellite-and-cellular-industries-not-yet-a-marriage-made-in-heaven/" >🔗</a> **[SpaceNews]** The merger between satellite and cellular industries: not (yet) a marriage made in heaven?
-- <a href="https://europeanspaceflight.com/germany-commits-additional-e870k-to-offshore-launch-facility/" >🔗</a> **[European Spaceflight]** Germany Commits Additional €870k to Offshore Launch Facility
-- <a href="https://www.nasa.gov/universe/euclid-discovers-einstein-ring-in-our-cosmic-backyard/" >🔗</a> **[NASA]** Euclid Discovers Einstein Ring in Our Cosmic Backyard
-- <a href="https://spacenews.com/pakistan-rover-to-fly-on-chinas-change-8-lunar-south-pole-mission/" >🔗</a> **[SpaceNews]** Pakistan rover to fly on China’s Chang’e-8 lunar south pole mission
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_discovers_a_stunning_Einstein_ring" >🔗</a> **[ESA]** Euclid discovers a stunning Einstein ring
+- <a href="https://www.nasa.gov/centers-and-facilities/goddard/john-moisan-studies-the-ocean-through-the-eyes-of-ai/" >🔗</a> **[NASA]** John Moisan Studies the Ocean Through the ‘Eyes’ of AI
+- <a href="https://www.nasa.gov/centers-and-facilities/goddard/mark-subbarao-brings-data-to-life-through-art/" >🔗</a> **[NASA]** Mark SubbaRao Brings Data to Life Through Art
+- <a href="https://www.nasa.gov/missions/hubble/phathom-donald-brings-space-closer-as-a-hubble-mission-engineer/" >🔗</a> **[NASA]** Phathom Donald Brings Space Closer as a Hubble Mission Engineer
+- <a href="https://www.nasa.gov/people-of-nasa/trena-ferrell-inspires-through-science-and-education/" >🔗</a> **[NASA]** Trena Ferrell Inspires Through Science and Education
+- <a href="https://www.nasa.gov/centers-and-facilities/goddard/nasa-scientists-historian-named-aaas-2022-fellows/" >🔗</a> **[NASA]** NASA Scientists & Historian Named AAAS 2022 Fellows
+- <a href="https://www.nasa.gov/missions/webb/nasa-scientist-jonathan-gardner-named-aas-2023-fellow/" >🔗</a> **[NASA]** NASA Scientist Jonathan Gardner Named AAS 2023 Fellow
+- <a href="https://www.nasa.gov/centers-and-facilities/goddard/peyman-abbaszadeh-hydrology-and-hope-for-the-future/" >🔗</a> **[NASA]** Peyman Abbaszadeh: Hydrology and Hope for the Future
+- <a href="https://www.nasa.gov/centers-and-facilities/goddard/nasa-engineers-honored-by-national-academy-of-engineering/" >🔗</a> **[NASA]** NASA Engineers Honored by National Academy of Engineering
+- <a href="https://www.nasa.gov/people-of-nasa/shari-miller-keeping-the-mission-and-the-environment-in-balance/" >🔗</a> **[NASA]** Shari Miller: Keeping the Mission and the Environment In Balance
+- <a href="https://www.nasa.gov/science-research/astrophysics/jeremy-schnittman-looking-into-the-mystery-of-black-holes/" >🔗</a> **[NASA]** Jeremy Schnittman: Looking Into the Mystery of Black Holes
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250210T180130">2025-02-10 18:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250210T183547">2025-02-10 18:35:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
