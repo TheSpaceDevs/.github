@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/universe/euclid-discovers-einstein-ring-in-our-cosmic-backyard/" >🔗</a> **[NASA]** Euclid Discovers Einstein Ring in Our Cosmic Backyard
 - <a href="https://spacenews.com/pakistan-rover-to-fly-on-chinas-change-8-lunar-south-pole-mission/" >🔗</a> **[SpaceNews]** Pakistan rover to fly on China’s Chang’e-8 lunar south pole mission
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_discovers_a_stunning_Einstein_ring" >🔗</a> **[ESA]** Euclid discovers a stunning Einstein ring
 - <a href="https://spacenews.com/u-s-japan-statement-mentions-artemis-amid-uncertainty-about-its-future/" >🔗</a> **[SpaceNews]** U.S.-Japan statement mentions Artemis amid uncertainty about its future
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/boeing-warns-of-potential-sls-layoffs/" >🔗</a> **[SpacePolicyOnline.com]** Boeing Warns of Potential SLS Layoffs
 - <a href="https://spacenews.com/rocket-lab-launches-fourth-set-of-kineis-satellites/" >🔗</a> **[SpaceNews]** Rocket Lab launches fourth set of Kinéis satellites
 - <a href="https://spacepolicyonline.com/news/white-house-reaffirms-u-s-japanese-artemis-cooperation/" >🔗</a> **[SpacePolicyOnline.com]** White House Reaffirms U.S.-Japanese Artemis Cooperation
-- <a href="https://spacenews.com/lockheed-martin-boeing-compete-for-military-satellite-contract-amid-commercial-disruption/" >🔗</a> **[SpaceNews]** Lockheed Martin, Boeing compete for military satellite contract amid commercial disruption
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250210T130531">2025-02-10 13:05:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250210T133400">2025-02-10 13:34:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
