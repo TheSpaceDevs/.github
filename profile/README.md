@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/mount-everest-from-space/" >🔗</a> **[NASA]** Mount Everest from Space
 - <a href="https://www.nasa.gov/news-release/nasa-awards-launch-service-task-order-for-pandora-mission/" >🔗</a> **[NASA]** NASA Awards Launch Service Task Order for Pandora Mission
 - <a href="https://spacenews.com/blacksky-to-launch-next-gen-imaging-satellite-as-it-seeks-market-edge/" >🔗</a> **[SpaceNews]** BlackSky to launch next-gen imaging satellite as it seeks market edge
 - <a href="https://www.nasa.gov/general/station-science-top-news-feb-7-2025/" >🔗</a> **[NASA]** Station Science Top News: Feb. 7, 2025
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/goddard/world-photo-day-behind-the-scenes-with-goddards-documentary-photographers/" >🔗</a> **[NASA]** World Photo Day: Behind the Scenes with Goddard’s Documentary Photographers
 - <a href="https://www.nasa.gov/people-of-nasa/jesse-walsh-possibility-at-the-cutting-edge-of-flight/" >🔗</a> **[NASA]** Jesse Walsh: Possibility at the Cutting Edge of Flight
 - <a href="https://www.nasa.gov/universe/nasa-intern-found-hope-in-the-moon-2/" >🔗</a> **[NASA]** NASA Intern Found Hope in the Moon
-- <a href="https://www.nasa.gov/people-of-nasa/margaret-dominguez-helps-nasa-space-telescopes-open-their-eyes-to-the-universe/" >🔗</a> **[NASA]** Margaret Dominguez Helps NASA Space Telescopes Open Their ‘Eyes’ to the Universe
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250210T220136">2025-02-10 22:01:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250210T223218">2025-02-10 22:32:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
