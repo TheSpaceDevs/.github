@@ -93,6 +93,7 @@ Payload is TBD.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/02/A_lab_with_a_view" >🔗</a> **[ESA]** A lab with a view
 - <a href="https://spacenews.com/texas-awards-grants-to-five-space-companies/" >🔗</a> **[SpaceNews]** Texas awards grants to five space companies
 - <a href="https://spacenews.com/nasa-selects-spacex-to-launch-astrophysics-smallsat-mission/" >🔗</a> **[SpaceNews]** NASA selects SpaceX to launch astrophysics smallsat mission
 - <a href="https://spacenews.com/nasa-boosts-science-objectives-for-starling-swarm/" >🔗</a> **[SpaceNews]** NASA boosts science objectives for Starling swarm
@@ -102,7 +103,6 @@ Payload is TBD.
 - <a href="https://www.nasa.gov/news-release/nasa-awards-launch-service-task-order-for-pandora-mission/" >🔗</a> **[NASA]** NASA Awards Launch Service Task Order for Pandora Mission
 - <a href="https://spacenews.com/blacksky-to-launch-next-gen-imaging-satellite-as-it-seeks-market-edge/" >🔗</a> **[SpaceNews]** BlackSky to launch next-gen imaging satellite as it seeks market edge
 - <a href="https://www.nasa.gov/general/station-science-top-news-feb-7-2025/" >🔗</a> **[NASA]** Station Science Top News: Feb. 7, 2025
-- <a href="https://spacenews.com/nasa-to-roll-out-major-update-to-core-flight-software/" >🔗</a> **[SpaceNews]** NASA to roll out major update to core flight software
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ Payload is TBD.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250211T080139">2025-02-11 08:01:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250211T083427">2025-02-11 08:34:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
