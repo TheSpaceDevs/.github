@@ -93,6 +93,7 @@ Payload is TBD.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-selects-spacex-to-launch-astrophysics-smallsat-mission/" >🔗</a> **[SpaceNews]** NASA selects SpaceX to launch astrophysics smallsat mission
 - <a href="https://spacenews.com/nasa-boosts-science-objectives-for-starling-swarm/" >🔗</a> **[SpaceNews]** NASA boosts science objectives for Starling swarm
 - <a href="https://science.nasa.gov/blog/sols-4447-4449-looking-back-at-the-marker-band-valley/" >🔗</a> **[NASA]** Sols 4447–4449: Looking Back at the Marker Band Valley
 - <a href="https://spacenews.com/darpas-in-space-manufacturing-program-advances-with-two-teams-selected-for-orbital-demos/" >🔗</a> **[SpaceNews]** DARPA’s in-space manufacturing program advances with two teams selected for orbital demos
@@ -102,7 +103,6 @@ Payload is TBD.
 - <a href="https://www.nasa.gov/general/station-science-top-news-feb-7-2025/" >🔗</a> **[NASA]** Station Science Top News: Feb. 7, 2025
 - <a href="https://spacenews.com/nasa-to-roll-out-major-update-to-core-flight-software/" >🔗</a> **[SpaceNews]** NASA to roll out major update to core flight software
 - <a href="https://www.nasaspaceflight.com/2025/02/launch-roundup-021025/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Starlink and CZ-8A launches planned; Falcon booster to land in Bahamas
-- <a href="https://www.nasa.gov/solar-system/stephanie-getty-exploring-the-universe-with-curiosity-and-wonder/" >🔗</a> **[NASA]** Stephanie Getty: Exploring the Universe with Curiosity and Wonder
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ Payload is TBD.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250211T030428">2025-02-11 03:04:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250211T033428">2025-02-11 03:34:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
