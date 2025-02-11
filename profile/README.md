@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-artemis-ii-moon-mission-activities-at-kennedy/" >🔗</a> **[NASA]** NASA Invites Media to Artemis II Moon Mission Activities at Kennedy
+- <a href="https://www.nasa.gov/image-article/space-shuttle-endeavour-takes-flight/" >🔗</a> **[NASA]** Space Shuttle Endeavour Takes Flight
 - <a href="https://www.nasa.gov/news-release/nasa-spacex-invite-media-to-watch-crew-10-launch-to-space-station/" >🔗</a> **[NASA]** NASA, SpaceX Invite Media to Watch Crew-10 Launch to Space Station
 - <a href="https://spacenews.com/arianespace-plans-five-ariane-6-launches-in-2025-primarily-in-the-second-half-of-the-year/" >🔗</a> **[SpaceNews]** Arianespace plans five Ariane 6 launches in 2025, primarily in the second half of the year
 - <a href="https://spacenews.com/space-security-at-crossroads-report-urges-u-s-china-dialogue/" >🔗</a> **[SpaceNews]** Space security at crossroads: Report urges U.S.-China dialogue
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/learning-resources/building-blocks-for-enhanced-mission-execution/" >🔗</a> **[NASA]** Building Blocks for Enhanced Mission Execution
 - <a href="https://www.nasa.gov/missions/mars-science-laboratory/nasas-curiosity-rover-captures-colorful-clouds-drifting-over-mars/" >🔗</a> **[NASA]** NASA’s Curiosity Rover Captures Colorful Clouds Drifting Over Mars
 - <a href="https://spacenews.com/redwire-lands-new-satellite-contract-for-space-force-in-orbit-refueling-experiment/" >🔗</a> **[SpaceNews]** Redwire lands new satellite contract for Space Force in-orbit refueling experiment
-- <a href="https://spacenews.com/astroscale-and-clearspace-reach-development-milestone-for-dual-satellite-deorbit-mission/" >🔗</a> **[SpaceNews]** Astroscale and Clearspace reach development milestone for dual-satellite deorbit mission
-- <a href="https://www.nasa.gov/centers-and-facilities/nesc/nesc-key-in-progress-technical-activities/" >🔗</a> **[NASA]** NESC Key In-Progress Technical Activities
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250211T220125">2025-02-11 22:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250211T223314">2025-02-11 22:33:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
