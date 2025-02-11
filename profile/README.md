@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/esa-moves-forward-with-phase-2-of-its-leo-cargo-return-initiative/" >🔗</a> **[European Spaceflight]** ESA Moves Forward with Phase 2 of its LEO Cargo Return Initiative
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/02/Celebrating_Solar_Orbiter_and_the_women_behind_the_mission" >🔗</a> **[ESA]** Celebrating Solar Orbiter and the women behind the mission
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/02/A_lab_with_a_view" >🔗</a> **[ESA]** A lab with a view
 - <a href="https://spacenews.com/texas-awards-grants-to-five-space-companies/" >🔗</a> **[SpaceNews]** Texas awards grants to five space companies
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/darpas-in-space-manufacturing-program-advances-with-two-teams-selected-for-orbital-demos/" >🔗</a> **[SpaceNews]** DARPA’s in-space manufacturing program advances with two teams selected for orbital demos
 - <a href="https://www.nasa.gov/image-article/mount-everest-from-space/" >🔗</a> **[NASA]** Mount Everest from Space
 - <a href="https://www.nasa.gov/news-release/nasa-awards-launch-service-task-order-for-pandora-mission/" >🔗</a> **[NASA]** NASA Awards Launch Service Task Order for Pandora Mission
-- <a href="https://spacenews.com/blacksky-to-launch-next-gen-imaging-satellite-as-it-seeks-market-edge/" >🔗</a> **[SpaceNews]** BlackSky to launch next-gen imaging satellite as it seeks market edge
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250211T113117">2025-02-11 11:31:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250211T120203">2025-02-11 12:02:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
