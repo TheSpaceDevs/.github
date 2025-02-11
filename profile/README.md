@@ -47,7 +47,7 @@ into *a Low Earth Orbit
 
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250211T185310">2025-02-11 18:53:10 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-18&location=Cape Canaveral SFS, FL, USA&dates=20250211T185310Z%2F20250211T204359Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-18** from Cape Canaveral SFS, FL, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250214T172600">2025-02-14 17:26:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-8&location=Cape Canaveral SFS, FL, USA&dates=20250214T172600Z%2F20250214T215700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-8** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250215T050000">2025-02-15 05:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-8&location=Cape Canaveral SFS, FL, USA&dates=20250215T050000Z%2F20250215T085900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-8** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250217T131800">2025-02-17 13:18:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | NROL-57&location=Vandenberg SFB, CA, USA&dates=20250217T131800Z%2F20250217T155300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | NROL-57** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250217T230000">2025-02-17 23:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-12&location=Cape Canaveral SFS, FL, USA&dates=20250217T230000Z%2F20250218T030000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-12** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250218T231500">2025-02-18 23:15:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Fasten Your Space Belts (BlackSky Gen-3 1)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20250218T231500Z%2F20250218T231500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Fasten Your Space Belts (BlackSky Gen-3 1)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/first-launch-of-long-march-8a-sends-second-group-of-guowang-megaconstellation-satellites-into-orbit/" >🔗</a> **[SpaceNews]** First launch of Long March 8A sends second group of Guowang megaconstellation satellites into orbit
 - <a href="https://europeanspaceflight.com/esa-moves-forward-with-phase-2-of-its-leo-cargo-return-initiative/" >🔗</a> **[European Spaceflight]** ESA Moves Forward with Phase 2 of its LEO Cargo Return Initiative
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/02/Celebrating_Solar_Orbiter_and_the_women_behind_the_mission" >🔗</a> **[ESA]** Celebrating Solar Orbiter and the women behind the mission
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/02/A_lab_with_a_view" >🔗</a> **[ESA]** A lab with a view
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/blog/sols-4447-4449-looking-back-at-the-marker-band-valley/" >🔗</a> **[NASA]** Sols 4447–4449: Looking Back at the Marker Band Valley
 - <a href="https://spacenews.com/darpas-in-space-manufacturing-program-advances-with-two-teams-selected-for-orbital-demos/" >🔗</a> **[SpaceNews]** DARPA’s in-space manufacturing program advances with two teams selected for orbital demos
 - <a href="https://www.nasa.gov/image-article/mount-everest-from-space/" >🔗</a> **[NASA]** Mount Everest from Space
-- <a href="https://www.nasa.gov/news-release/nasa-awards-launch-service-task-order-for-pandora-mission/" >🔗</a> **[NASA]** NASA Awards Launch Service Task Order for Pandora Mission
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250211T120203">2025-02-11 12:02:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250211T124246">2025-02-11 12:42:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
