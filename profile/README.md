@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-spacex-invite-media-to-watch-crew-10-launch-to-space-station/" >🔗</a> **[NASA]** NASA, SpaceX Invite Media to Watch Crew-10 Launch to Space Station
+- <a href="https://spacenews.com/arianespace-plans-five-ariane-6-launches-in-2025-primarily-in-the-second-half-of-the-year/" >🔗</a> **[SpaceNews]** Arianespace plans five Ariane 6 launches in 2025, primarily in the second half of the year
 - <a href="https://spacenews.com/space-security-at-crossroads-report-urges-u-s-china-dialogue/" >🔗</a> **[SpaceNews]** Space security at crossroads: Report urges U.S.-China dialogue
 - <a href="https://www.nasa.gov/technology/nasas-mini-rover-team-is-packed-for-lunar-journey/" >🔗</a> **[NASA]** NASA’s Mini Rover Team Is Packed for Lunar Journey
 - <a href="https://www.nasa.gov/aeronautics/nasas-x-59-turns-up-power-throttles-through-engine-tests/" >🔗</a> **[NASA]** NASA’s X-59 Turns Up Power, Throttles Through Engine Tests
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/redwire-lands-new-satellite-contract-for-space-force-in-orbit-refueling-experiment/" >🔗</a> **[SpaceNews]** Redwire lands new satellite contract for Space Force in-orbit refueling experiment
 - <a href="https://spacenews.com/astroscale-and-clearspace-reach-development-milestone-for-dual-satellite-deorbit-mission/" >🔗</a> **[SpaceNews]** Astroscale and Clearspace reach development milestone for dual-satellite deorbit mission
 - <a href="https://www.nasa.gov/centers-and-facilities/nesc/nesc-key-in-progress-technical-activities/" >🔗</a> **[NASA]** NESC Key In-Progress Technical Activities
-- <a href="https://www.nasa.gov/general/driving-the-future-nasa-highlights-artemis-at-houston-autoboative-show/" >🔗</a> **[NASA]** Driving the Future: NASA Highlights Artemis at Houston AutoBoative Show
-- <a href="https://www.nasa.gov/news-release/connecticut-students-to-hear-from-nasa-astronauts-aboard-space-station/" >🔗</a> **[NASA]** Connecticut Students to Hear from NASA Astronauts Aboard Space Station
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250211T213105">2025-02-11 21:31:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250211T220125">2025-02-11 22:01:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
