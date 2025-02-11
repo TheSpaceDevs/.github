@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/driving-the-future-nasa-highlights-artemis-at-houston-autoboative-show/" >🔗</a> **[NASA]** Driving the Future: NASA Highlights Artemis at Houston AutoBoative Show
+- <a href="https://www.nasa.gov/news-release/connecticut-students-to-hear-from-nasa-astronauts-aboard-space-station/" >🔗</a> **[NASA]** Connecticut Students to Hear from NASA Astronauts Aboard Space Station
 - <a href="https://spaceflightnow.com/2025/02/11/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-10/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://www.nasa.gov/general/art-inspired-by-exploration-nasa-unveils-architecture-art-challenge-winners/" >🔗</a> **[NASA]** Art Inspired by Exploration: NASA Unveils Architecture Art Challenge Winners
 - <a href="https://www.nasa.gov/aeronautics/nasa-supports-goaero-university-awardees-for-emergency-aircraft-prototyping/" >🔗</a> **[NASA]** NASA Supports GoAERO University Awardees for Emergency Aircraft Prototyping
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/u-s-military-space-tracking-systems-strain-under-new-threats/" >🔗</a> **[SpaceNews]** U.S. military space tracking systems strain under new threats
 - <a href="https://spacenews.com/karim-michel-sabbagh-space-42-commercial-space-transformers/" >🔗</a> **[SpaceNews]** Karim Michel Sabbagh, Space 42 – Commercial Space Transformers
 - <a href="https://spacenews.com/airbus-to-build-radar-imaging-satellites-for-u-k-military/" >🔗</a> **[SpaceNews]** Airbus to build radar imaging satellites for U.K. military
-- <a href="https://spacenews.com/first-launch-of-long-march-8a-sends-second-group-of-guowang-megaconstellation-satellites-into-orbit/" >🔗</a> **[SpaceNews]** First launch of Long March 8A sends second group of Guowang megaconstellation satellites into orbit
-- <a href="https://europeanspaceflight.com/esa-moves-forward-with-phase-2-of-its-leo-cargo-return-initiative/" >🔗</a> **[European Spaceflight]** ESA Moves Forward with Phase 2 of its LEO Cargo Return Initiative
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250211T180133">2025-02-11 18:01:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250211T183540">2025-02-11 18:35:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
