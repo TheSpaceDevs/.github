@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/karim-michel-sabbagh-space-42-commercial-space-transformers/" >🔗</a> **[SpaceNews]** Karim Michel Sabbagh, Space 42 – Commercial Space Transformers
+- <a href="https://spacenews.com/airbus-to-build-radar-imaging-satellites-for-u-k-military/" >🔗</a> **[SpaceNews]** Airbus to build radar imaging satellites for U.K. military
 - <a href="https://spacenews.com/first-launch-of-long-march-8a-sends-second-group-of-guowang-megaconstellation-satellites-into-orbit/" >🔗</a> **[SpaceNews]** First launch of Long March 8A sends second group of Guowang megaconstellation satellites into orbit
 - <a href="https://europeanspaceflight.com/esa-moves-forward-with-phase-2-of-its-leo-cargo-return-initiative/" >🔗</a> **[European Spaceflight]** ESA Moves Forward with Phase 2 of its LEO Cargo Return Initiative
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/02/Celebrating_Solar_Orbiter_and_the_women_behind_the_mission" >🔗</a> **[ESA]** Celebrating Solar Orbiter and the women behind the mission
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/nasa-selects-spacex-to-launch-astrophysics-smallsat-mission/" >🔗</a> **[SpaceNews]** NASA selects SpaceX to launch astrophysics smallsat mission
 - <a href="https://spacenews.com/nasa-boosts-science-objectives-for-starling-swarm/" >🔗</a> **[SpaceNews]** NASA boosts science objectives for Starling swarm
 - <a href="https://science.nasa.gov/blog/sols-4447-4449-looking-back-at-the-marker-band-valley/" >🔗</a> **[NASA]** Sols 4447–4449: Looking Back at the Marker Band Valley
-- <a href="https://spacenews.com/darpas-in-space-manufacturing-program-advances-with-two-teams-selected-for-orbital-demos/" >🔗</a> **[SpaceNews]** DARPA’s in-space manufacturing program advances with two teams selected for orbital demos
-- <a href="https://www.nasa.gov/image-article/mount-everest-from-space/" >🔗</a> **[NASA]** Mount Everest from Space
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250211T130539">2025-02-11 13:05:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250211T133352">2025-02-11 13:33:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
