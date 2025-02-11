@@ -20,20 +20,20 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 12-18**. It is scheduled to be launched by *SpaceX*
+**Falcon 9 Block 5 | Starlink Group 12-8**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
 from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral SFS, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250211T185320">2025-02-11 18:53:20 UTC</a>.  Until
-then, this pad will have been used for 287
-out of 1002 launches from this location. The launch status is currently
-*Go* 🟩 . The mission type is
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250215T050000">2025-02-15 05:00:00 UTC</a>.  Until
+then, this pad will have been used for 288
+out of 1003 launches from this location. The launch status is currently
+*TBC* 🟨 . The mission type is
 *Communications* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  A batch of 21 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  A batch of satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
@@ -48,7 +48,7 @@ into *a Low Earth Orbit
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250215T050000">2025-02-15 05:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-8&location=Cape Canaveral SFS, FL, USA&dates=20250215T050000Z%2F20250215T085900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-8** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250217T131800">2025-02-17 13:18:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | NROL-57&location=Vandenberg SFB, CA, USA&dates=20250217T131800Z%2F20250217T155300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | NROL-57** from Vandenberg SFB, CA, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250217T230000">2025-02-17 23:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-12&location=Cape Canaveral SFS, FL, USA&dates=20250217T230000Z%2F20250218T030000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-12** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250218T230000">2025-02-18 23:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-12&location=Cape Canaveral SFS, FL, USA&dates=20250218T230000Z%2F20250219T030000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-12** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250218T231500">2025-02-18 23:15:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Fasten Your Space Belts (BlackSky Gen-3 1)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20250218T231500Z%2F20250218T231500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Fasten Your Space Belts (BlackSky Gen-3 1)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250226T162400">2025-02-26 16:24:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ariane 62 | CSO-3&location=Guiana Space Centre, French Guiana&dates=20250226T162400Z%2F20250226T162400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ariane 62 | CSO-3** from Guiana Space Centre, French Guiana.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250227T001700">2025-02-27 00:17:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Nova-C IM-2 &amp; Lunar Trailblazer&location=Kennedy Space Center, FL, USA&dates=20250227T001700Z%2F20250227T001700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Nova-C IM-2 & Lunar Trailblazer** from Kennedy Space Center, FL, USA.
@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/learning-resources/building-blocks-for-enhanced-mission-execution/" >🔗</a> **[NASA]** Building Blocks for Enhanced Mission Execution
+- <a href="https://www.nasa.gov/missions/mars-science-laboratory/nasas-curiosity-rover-captures-colorful-clouds-drifting-over-mars/" >🔗</a> **[NASA]** NASA’s Curiosity Rover Captures Colorful Clouds Drifting Over Mars
+- <a href="https://spacenews.com/redwire-lands-new-satellite-contract-for-space-force-in-orbit-refueling-experiment/" >🔗</a> **[SpaceNews]** Redwire lands new satellite contract for Space Force in-orbit refueling experiment
+- <a href="https://spacenews.com/astroscale-and-clearspace-reach-development-milestone-for-dual-satellite-deorbit-mission/" >🔗</a> **[SpaceNews]** Astroscale and Clearspace reach development milestone for dual-satellite deorbit mission
+- <a href="https://www.nasa.gov/centers-and-facilities/nesc/nesc-key-in-progress-technical-activities/" >🔗</a> **[NASA]** NESC Key In-Progress Technical Activities
 - <a href="https://www.nasa.gov/general/driving-the-future-nasa-highlights-artemis-at-houston-autoboative-show/" >🔗</a> **[NASA]** Driving the Future: NASA Highlights Artemis at Houston AutoBoative Show
 - <a href="https://www.nasa.gov/news-release/connecticut-students-to-hear-from-nasa-astronauts-aboard-space-station/" >🔗</a> **[NASA]** Connecticut Students to Hear from NASA Astronauts Aboard Space Station
 - <a href="https://spaceflightnow.com/2025/02/11/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-10/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://www.nasa.gov/general/art-inspired-by-exploration-nasa-unveils-architecture-art-challenge-winners/" >🔗</a> **[NASA]** Art Inspired by Exploration: NASA Unveils Architecture Art Challenge Winners
 - <a href="https://www.nasa.gov/aeronautics/nasa-supports-goaero-university-awardees-for-emergency-aircraft-prototyping/" >🔗</a> **[NASA]** NASA Supports GoAERO University Awardees for Emergency Aircraft Prototyping
-- <a href="https://spacenews.com/hubble-bubble-toil-and-trouble-stirring-up-an-arms-race-in-space/" >🔗</a> **[SpaceNews]** Hubble, bubble, toil, and trouble: stirring up an arms race in space
-- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/IXV/Anniversary_X_for_IXV_ten_things_you_didn_t_know_about_Europe_s_spaceplane" >🔗</a> **[ESA]** Anniversary X for IXV: ten things you didn’t know about Europe’s spaceplane
-- <a href="https://spacenews.com/u-s-military-space-tracking-systems-strain-under-new-threats/" >🔗</a> **[SpaceNews]** U.S. military space tracking systems strain under new threats
-- <a href="https://spacenews.com/karim-michel-sabbagh-space-42-commercial-space-transformers/" >🔗</a> **[SpaceNews]** Karim Michel Sabbagh, Space 42 – Commercial Space Transformers
-- <a href="https://spacenews.com/airbus-to-build-radar-imaging-satellites-for-u-k-military/" >🔗</a> **[SpaceNews]** Airbus to build radar imaging satellites for U.K. military
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250211T190119">2025-02-11 19:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250211T193059">2025-02-11 19:30:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
