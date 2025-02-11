@@ -24,7 +24,7 @@ The next space launch, retrieved from our
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
 from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral SFS, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250211T185310">2025-02-11 18:53:10 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250211T185320">2025-02-11 18:53:20 UTC</a>.  Until
 then, this pad will have been used for 287
 out of 1002 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
@@ -46,7 +46,7 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250211T185310">2025-02-11 18:53:10 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-18&location=Cape Canaveral SFS, FL, USA&dates=20250211T185310Z%2F20250211T204359Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-18** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250211T185320">2025-02-11 18:53:20 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-18&location=Cape Canaveral SFS, FL, USA&dates=20250211T185320Z%2F20250211T204429Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-18** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250215T050000">2025-02-15 05:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-8&location=Cape Canaveral SFS, FL, USA&dates=20250215T050000Z%2F20250215T085900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-8** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250217T131800">2025-02-17 13:18:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | NROL-57&location=Vandenberg SFB, CA, USA&dates=20250217T131800Z%2F20250217T155300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | NROL-57** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250217T230000">2025-02-17 23:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-12&location=Cape Canaveral SFS, FL, USA&dates=20250217T230000Z%2F20250218T030000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-12** from Cape Canaveral SFS, FL, USA.
@@ -91,25 +91,26 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/aeronautics/nasa-supports-goaero-university-awardees-for-emergency-aircraft-prototyping/" >🔗</a> **[NASA]** NASA Supports GoAERO University Awardees for Emergency Aircraft Prototyping
 - <a href="https://spacenews.com/hubble-bubble-toil-and-trouble-stirring-up-an-arms-race-in-space/" >🔗</a> **[SpaceNews]** Hubble, bubble, toil, and trouble: stirring up an arms race in space
+- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/IXV/Anniversary_X_for_IXV_ten_things_you_didn_t_know_about_Europe_s_spaceplane" >🔗</a> **[ESA]** Anniversary X for IXV: ten things you didn’t know about Europe’s spaceplane
 - <a href="https://spacenews.com/u-s-military-space-tracking-systems-strain-under-new-threats/" >🔗</a> **[SpaceNews]** U.S. military space tracking systems strain under new threats
 - <a href="https://spacenews.com/karim-michel-sabbagh-space-42-commercial-space-transformers/" >🔗</a> **[SpaceNews]** Karim Michel Sabbagh, Space 42 – Commercial Space Transformers
 - <a href="https://spacenews.com/airbus-to-build-radar-imaging-satellites-for-u-k-military/" >🔗</a> **[SpaceNews]** Airbus to build radar imaging satellites for U.K. military
 - <a href="https://spacenews.com/first-launch-of-long-march-8a-sends-second-group-of-guowang-megaconstellation-satellites-into-orbit/" >🔗</a> **[SpaceNews]** First launch of Long March 8A sends second group of Guowang megaconstellation satellites into orbit
 - <a href="https://europeanspaceflight.com/esa-moves-forward-with-phase-2-of-its-leo-cargo-return-initiative/" >🔗</a> **[European Spaceflight]** ESA Moves Forward with Phase 2 of its LEO Cargo Return Initiative
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/02/Celebrating_Solar_Orbiter_and_the_women_behind_the_mission" >🔗</a> **[ESA]** Celebrating Solar Orbiter and the women behind the mission
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/02/A_lab_with_a_view" >🔗</a> **[ESA]** A lab with a view
-- <a href="https://spacenews.com/texas-awards-grants-to-five-space-companies/" >🔗</a> **[SpaceNews]** Texas awards grants to five space companies
-- <a href="https://spacenews.com/nasa-selects-spacex-to-launch-astrophysics-smallsat-mission/" >🔗</a> **[SpaceNews]** NASA selects SpaceX to launch astrophysics smallsat mission
+- <a href="https://www.esa.int/About_Us/Diversity_and_Inclusiveness/ESA_celebrates_International_Day_of_Women_and_Girls_in_Science_2025" >🔗</a> **[ESA]** ESA celebrates International Day of Women and Girls in Science 2025
 
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2025/02/launch-roundup-021025/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Starlink and CZ-8A launches planned; Falcon booster to land in Bahamas
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250211T150126">2025-02-11 15:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250211T153321">2025-02-11 15:33:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
