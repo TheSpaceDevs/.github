@@ -29,8 +29,8 @@ then, this pad will have been used for 20
 out of 34 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
 *Test Flight* and the payload will be injected
-into *an Unknown
-(N/A)*.
+into *a Low Earth Orbit
+(LEO)*.
 <br>
 <blockquote>
   Demonstration flight of the Long March 8A rocket with upgraded first stage and boosters engines, and a new larger liquid hydrogen/liquid oxygen second stage with new YF-75H engines derived from ones used on the Long March 5.
@@ -112,7 +112,7 @@ Payload is TBD.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250211T073113">2025-02-11 07:31:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250211T080139">2025-02-11 08:01:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
