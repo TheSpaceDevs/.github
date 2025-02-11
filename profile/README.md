@@ -46,7 +46,6 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250210T234600">2025-02-10 23:46:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-10&location=Vandenberg SFB, CA, USA&dates=20250210T234600Z%2F20250211T032009Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-10** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250211T092200">2025-02-11 09:22:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 8A | Demo Flight&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20250211T092200Z%2F20250211T101200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 8A | Demo Flight** from Wenchang Space Launch Site, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250211T170000">2025-02-11 17:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-18&location=Cape Canaveral SFS, FL, USA&dates=20250211T170000Z%2F20250211T213100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-18** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250214T172600">2025-02-14 17:26:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-8&location=Cape Canaveral SFS, FL, USA&dates=20250214T172600Z%2F20250214T215700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-8** from Cape Canaveral SFS, FL, USA.
@@ -91,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/darpas-in-space-manufacturing-program-advances-with-two-teams-selected-for-orbital-demos/" >🔗</a> **[SpaceNews]** DARPA’s in-space manufacturing program advances with two teams selected for orbital demos
 - <a href="https://www.nasa.gov/image-article/mount-everest-from-space/" >🔗</a> **[NASA]** Mount Everest from Space
 - <a href="https://www.nasa.gov/news-release/nasa-awards-launch-service-task-order-for-pandora-mission/" >🔗</a> **[NASA]** NASA Awards Launch Service Task Order for Pandora Mission
 - <a href="https://spacenews.com/blacksky-to-launch-next-gen-imaging-satellite-as-it-seeks-market-edge/" >🔗</a> **[SpaceNews]** BlackSky to launch next-gen imaging satellite as it seeks market edge
@@ -100,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/solar-system/stephanie-getty-exploring-the-universe-with-curiosity-and-wonder/" >🔗</a> **[NASA]** Stephanie Getty: Exploring the Universe with Curiosity and Wonder
 - <a href="https://www.nasa.gov/centers-and-facilities/goddard/world-photo-day-behind-the-scenes-with-goddards-documentary-photographers/" >🔗</a> **[NASA]** World Photo Day: Behind the Scenes with Goddard’s Documentary Photographers
 - <a href="https://www.nasa.gov/people-of-nasa/jesse-walsh-possibility-at-the-cutting-edge-of-flight/" >🔗</a> **[NASA]** Jesse Walsh: Possibility at the Cutting Edge of Flight
-- <a href="https://www.nasa.gov/universe/nasa-intern-found-hope-in-the-moon-2/" >🔗</a> **[NASA]** NASA Intern Found Hope in the Moon
 
 
 ### Launch-related News 🚀
@@ -110,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250210T233124">2025-02-10 23:31:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250211T000422">2025-02-11 00:04:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
