@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/hubble-bubble-toil-and-trouble-stirring-up-an-arms-race-in-space/" >🔗</a> **[SpaceNews]** Hubble, bubble, toil, and trouble: stirring up an arms race in space
+- <a href="https://spacenews.com/u-s-military-space-tracking-systems-strain-under-new-threats/" >🔗</a> **[SpaceNews]** U.S. military space tracking systems strain under new threats
 - <a href="https://spacenews.com/karim-michel-sabbagh-space-42-commercial-space-transformers/" >🔗</a> **[SpaceNews]** Karim Michel Sabbagh, Space 42 – Commercial Space Transformers
 - <a href="https://spacenews.com/airbus-to-build-radar-imaging-satellites-for-u-k-military/" >🔗</a> **[SpaceNews]** Airbus to build radar imaging satellites for U.K. military
 - <a href="https://spacenews.com/first-launch-of-long-march-8a-sends-second-group-of-guowang-megaconstellation-satellites-into-orbit/" >🔗</a> **[SpaceNews]** First launch of Long March 8A sends second group of Guowang megaconstellation satellites into orbit
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/02/A_lab_with_a_view" >🔗</a> **[ESA]** A lab with a view
 - <a href="https://spacenews.com/texas-awards-grants-to-five-space-companies/" >🔗</a> **[SpaceNews]** Texas awards grants to five space companies
 - <a href="https://spacenews.com/nasa-selects-spacex-to-launch-astrophysics-smallsat-mission/" >🔗</a> **[SpaceNews]** NASA selects SpaceX to launch astrophysics smallsat mission
-- <a href="https://spacenews.com/nasa-boosts-science-objectives-for-starling-swarm/" >🔗</a> **[SpaceNews]** NASA boosts science objectives for Starling swarm
-- <a href="https://science.nasa.gov/blog/sols-4447-4449-looking-back-at-the-marker-band-valley/" >🔗</a> **[NASA]** Sols 4447–4449: Looking Back at the Marker Band Valley
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250211T140124">2025-02-11 14:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250211T143355">2025-02-11 14:33:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
