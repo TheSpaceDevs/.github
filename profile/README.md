@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blog/sols-4447-4449-looking-back-at-the-marker-band-valley/" >🔗</a> **[NASA]** Sols 4447–4449: Looking Back at the Marker Band Valley
 - <a href="https://spacenews.com/darpas-in-space-manufacturing-program-advances-with-two-teams-selected-for-orbital-demos/" >🔗</a> **[SpaceNews]** DARPA’s in-space manufacturing program advances with two teams selected for orbital demos
 - <a href="https://www.nasa.gov/image-article/mount-everest-from-space/" >🔗</a> **[NASA]** Mount Everest from Space
 - <a href="https://www.nasa.gov/news-release/nasa-awards-launch-service-task-order-for-pandora-mission/" >🔗</a> **[NASA]** NASA Awards Launch Service Task Order for Pandora Mission
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2025/02/launch-roundup-021025/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Starlink and CZ-8A launches planned; Falcon booster to land in Bahamas
 - <a href="https://www.nasa.gov/solar-system/stephanie-getty-exploring-the-universe-with-curiosity-and-wonder/" >🔗</a> **[NASA]** Stephanie Getty: Exploring the Universe with Curiosity and Wonder
 - <a href="https://www.nasa.gov/centers-and-facilities/goddard/world-photo-day-behind-the-scenes-with-goddards-documentary-photographers/" >🔗</a> **[NASA]** World Photo Day: Behind the Scenes with Goddard’s Documentary Photographers
-- <a href="https://www.nasa.gov/people-of-nasa/jesse-walsh-possibility-at-the-cutting-edge-of-flight/" >🔗</a> **[NASA]** Jesse Walsh: Possibility at the Cutting Edge of Flight
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250211T000422">2025-02-11 00:04:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250211T004531">2025-02-11 00:45:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
