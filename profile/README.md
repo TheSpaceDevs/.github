@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/02/11/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-10/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket from Cape Canaveral
+- <a href="https://www.nasa.gov/general/art-inspired-by-exploration-nasa-unveils-architecture-art-challenge-winners/" >🔗</a> **[NASA]** Art Inspired by Exploration: NASA Unveils Architecture Art Challenge Winners
 - <a href="https://www.nasa.gov/aeronautics/nasa-supports-goaero-university-awardees-for-emergency-aircraft-prototyping/" >🔗</a> **[NASA]** NASA Supports GoAERO University Awardees for Emergency Aircraft Prototyping
 - <a href="https://spacenews.com/hubble-bubble-toil-and-trouble-stirring-up-an-arms-race-in-space/" >🔗</a> **[SpaceNews]** Hubble, bubble, toil, and trouble: stirring up an arms race in space
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/IXV/Anniversary_X_for_IXV_ten_things_you_didn_t_know_about_Europe_s_spaceplane" >🔗</a> **[ESA]** Anniversary X for IXV: ten things you didn’t know about Europe’s spaceplane
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/airbus-to-build-radar-imaging-satellites-for-u-k-military/" >🔗</a> **[SpaceNews]** Airbus to build radar imaging satellites for U.K. military
 - <a href="https://spacenews.com/first-launch-of-long-march-8a-sends-second-group-of-guowang-megaconstellation-satellites-into-orbit/" >🔗</a> **[SpaceNews]** First launch of Long March 8A sends second group of Guowang megaconstellation satellites into orbit
 - <a href="https://europeanspaceflight.com/esa-moves-forward-with-phase-2-of-its-leo-cargo-return-initiative/" >🔗</a> **[European Spaceflight]** ESA Moves Forward with Phase 2 of its LEO Cargo Return Initiative
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/02/Celebrating_Solar_Orbiter_and_the_women_behind_the_mission" >🔗</a> **[ESA]** Celebrating Solar Orbiter and the women behind the mission
-- <a href="https://www.esa.int/About_Us/Diversity_and_Inclusiveness/ESA_celebrates_International_Day_of_Women_and_Girls_in_Science_2025" >🔗</a> **[ESA]** ESA celebrates International Day of Women and Girls in Science 2025
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250211T160126">2025-02-11 16:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250211T163618">2025-02-11 16:36:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
