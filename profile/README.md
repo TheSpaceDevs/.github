@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/why-does-the-moon-look-larger-at-the-horizon-we-asked-a-nasa-scientist-episode-50/" >🔗</a> **[NASA]** Why Does the Moon Look Larger at the Horizon? We Asked a NASA Scientist: Episode 50
+- <a href="https://www.nasa.gov/image-article/nasa-telescopes-deliver-stellar-bouquet-in-time-for-valentines-day/" >🔗</a> **[NASA]** NASA Telescopes Deliver Stellar Bouquet in Time for Valentine’s Day
+- <a href="https://www.nasa.gov/universe/nasa-successfully-joins-sunshade-to-roman-observatorys-exoskeleton/" >🔗</a> **[NASA]** NASA Successfully Joins Sunshade to Roman Observatory’s ‘Exoskeleton’
+- <a href="https://arstechnica.com/space/2025/02/curiosity-spies-stunning-clouds-at-twilight-on-mars/" >🔗</a> **[Arstechnica]** Curiosity spies stunning clouds at twilight on Mars
+- <a href="https://spacenews.com/solar-flares-in-may-2024-revealed-earths-vulnerability-to-space-weather/" >🔗</a> **[SpaceNews]** Solar flares in May 2024 revealed Earth’s vulnerability to space weather
 - <a href="https://spacenews.com/gps-civil-signals-are-vital-for-americas-national-security/" >🔗</a> **[SpaceNews]** GPS civil signals are vital for America’s national security
 - <a href="https://europeanspaceflight.com/uk-mod-taps-airbus-to-build-127m-spy-satellite-constellation/" >🔗</a> **[European Spaceflight]** UK MOD Taps Airbus to Build £127M Spy Satellite Constellation
 - <a href="https://spaceflightnow.com/2025/02/12/nasa-announces-new-launch-date-for-crew-10-swap-of-spacex-dragon-spacecraft-following-construction-delays/" >🔗</a> **[Spaceflight Now]** NASA announces new launch date for Crew-10, swap of SpaceX Dragon spacecraft following construction delays
 - <a href="https://arstechnica.com/space/2025/02/after-putin-sacked-russias-space-chief-the-rumor-mill-is-running-red-hot/" >🔗</a> **[Arstechnica]** After Putin sacked Russia’s space chief, the rumor mill is running red-hot
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/recognizing-employee-excellence/" >🔗</a> **[NASA]** Recognizing Employee Excellence
-- <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-fire-safety-test-took-on-reduced-gravity/" >🔗</a> **[NASA]** NASA Fire Safety Test Took on Reduced Gravity
-- <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenn-holds-day-of-remembrance/" >🔗</a> **[NASA]** NASA Glenn Holds Day of Remembrance
-- <a href="https://spacenews.com/u-s-air-force-extends-sierra-space-contract-for-upper-stage-rocket-engine/" >🔗</a> **[SpaceNews]** U.S. Air Force extends Sierra Space contract for upper stage rocket engine
-- <a href="https://spacepolicyonline.com/news/nasa-switches-crew-dragons-allowing-butch-and-suni-to-come-home-a-couple-weeks-sooner/" >🔗</a> **[SpacePolicyOnline.com]** NASA Switches Crew Dragons Allowing Butch and Suni to Come Home a Couple Weeks Sooner
-- <a href="https://spacenews.com/space-force-pushing-forward-with-acquisition-reforms/" >🔗</a> **[SpaceNews]** Space Force pushing forward with acquisition reforms
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250212T150149">2025-02-12 15:01:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250212T153307">2025-02-12 15:33:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
