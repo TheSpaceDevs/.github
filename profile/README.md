@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasas-advancements-in-space-continue-generating-products-on-earth/" >🔗</a> **[NASA]** NASA’s Advancements in Space Continue Generating Products on Earth
 - <a href="https://spacenews.com/spire-global-sues-kpler-to-complete-maritime-business-sale/" >🔗</a> **[SpaceNews]** Spire Global sues Kpler to complete maritime business sale
 - <a href="https://www.nasa.gov/history/15-years-ago-sts-130-delivers-tranquility-and-cupola-to-space-station/" >🔗</a> **[NASA]** 15 Years Ago: STS-130 Delivers Tranquility and Cupola to Space Station
 - <a href="https://www.nasa.gov/general/why-does-the-moon-look-larger-at-the-horizon-we-asked-a-nasa-scientist-episode-50/" >🔗</a> **[NASA]** Why Does the Moon Look Larger at the Horizon? We Asked a NASA Scientist: Episode 50
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/solar-flares-in-may-2024-revealed-earths-vulnerability-to-space-weather/" >🔗</a> **[SpaceNews]** Solar flares in May 2024 revealed Earth’s vulnerability to space weather
 - <a href="https://spacenews.com/gps-civil-signals-are-vital-for-americas-national-security/" >🔗</a> **[SpaceNews]** GPS civil signals are vital for America’s national security
 - <a href="https://europeanspaceflight.com/uk-mod-taps-airbus-to-build-127m-spy-satellite-constellation/" >🔗</a> **[European Spaceflight]** UK MOD Taps Airbus to Build £127M Spy Satellite Constellation
-- <a href="https://spaceflightnow.com/2025/02/12/nasa-announces-new-launch-date-for-crew-10-swap-of-spacex-dragon-spacecraft-following-construction-delays/" >🔗</a> **[Spaceflight Now]** NASA announces new launch date for Crew-10, swap of SpaceX Dragon spacecraft following construction delays
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250212T190125">2025-02-12 19:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250212T193102">2025-02-12 19:31:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
