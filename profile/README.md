@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/glenn/recognizing-employee-excellence/" >🔗</a> **[NASA]** Recognizing Employee Excellence
+- <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-fire-safety-test-took-on-reduced-gravity/" >🔗</a> **[NASA]** NASA Fire Safety Test Took on Reduced Gravity
+- <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenn-holds-day-of-remembrance/" >🔗</a> **[NASA]** NASA Glenn Holds Day of Remembrance
+- <a href="https://spacenews.com/u-s-air-force-extends-sierra-space-contract-for-upper-stage-rocket-engine/" >🔗</a> **[SpaceNews]** U.S. Air Force extends Sierra Space contract for upper stage rocket engine
 - <a href="https://spacepolicyonline.com/news/nasa-switches-crew-dragons-allowing-butch-and-suni-to-come-home-a-couple-weeks-sooner/" >🔗</a> **[SpacePolicyOnline.com]** NASA Switches Crew Dragons Allowing Butch and Suni to Come Home a Couple Weeks Sooner
 - <a href="https://spacenews.com/space-force-pushing-forward-with-acquisition-reforms/" >🔗</a> **[SpaceNews]** Space Force pushing forward with acquisition reforms
 - <a href="https://science.nasa.gov/blog/sols-4450-4451-making-the-most-of-a-monday/" >🔗</a> **[NASA]** Sols 4450-4451: Making the Most of a Monday
 - <a href="https://spacenews.com/nasa-and-spacex-to-swap-crew-dragon-spacecraft-to-reduce-crew-10-delay/" >🔗</a> **[SpaceNews]** NASA and SpaceX to swap Crew Dragon spacecraft to reduce Crew-10 delay
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-artemis-ii-moon-mission-activities-at-kennedy/" >🔗</a> **[NASA]** NASA Invites Media to Artemis II Moon Mission Activities at Kennedy
 - <a href="https://www.nasa.gov/image-article/space-shuttle-endeavour-takes-flight/" >🔗</a> **[NASA]** Space Shuttle Endeavour Takes Flight
-- <a href="https://www.nasa.gov/news-release/nasa-spacex-invite-media-to-watch-crew-10-launch-to-space-station/" >🔗</a> **[NASA]** NASA, SpaceX Invite Media to Watch Crew-10 Launch to Space Station
-- <a href="https://spacenews.com/arianespace-plans-five-ariane-6-launches-in-2025-primarily-in-the-second-half-of-the-year/" >🔗</a> **[SpaceNews]** Arianespace plans five Ariane 6 launches in 2025, primarily in the second half of the year
-- <a href="https://spacenews.com/space-security-at-crossroads-report-urges-u-s-china-dialogue/" >🔗</a> **[SpaceNews]** Space security at crossroads: Report urges U.S.-China dialogue
-- <a href="https://www.nasa.gov/technology/nasas-mini-rover-team-is-packed-for-lunar-journey/" >🔗</a> **[NASA]** NASA’s Mini Rover Team Is Packed for Lunar Journey
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250212T130526">2025-02-12 13:05:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250212T133320">2025-02-12 13:33:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
