@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/arkadia-space-to-supply-maiaspace-thrusters/" >🔗</a> **[SpaceNews]** Arkadia Space to supply MaiaSpace thrusters
+- <a href="https://www.nasa.gov/history/25-years-ago-sts-99-the-shuttle-radar-topography-mission/" >🔗</a> **[NASA]** 25 Years Ago: STS-99, the Shuttle Radar Topography Mission
 - <a href="https://spacenews.com/space-development-agency-seeks-industry-input-on-integrating-satellite-network-into-iron-dome/" >🔗</a> **[SpaceNews]** Space Development Agency seeks industry input on integrating satellite network into ‘Iron Dome’
 - <a href="https://www.nasa.gov/centers-and-facilities/kennedy/nasas-polar-ice-experiment-paves-way-for-future-moon-missions/" >🔗</a> **[NASA]** NASA’s Polar Ice Experiment Paves Way for Future Moon Missions
 - <a href="https://www.nasa.gov/image-article/a-rainbow-colored-feather-in-the-martian-sky/" >🔗</a> **[NASA]** A Rainbow-colored “Feather” in the Martian Sky
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/history/15-years-ago-sts-130-delivers-tranquility-and-cupola-to-space-station/" >🔗</a> **[NASA]** 15 Years Ago: STS-130 Delivers Tranquility and Cupola to Space Station
 - <a href="https://www.nasa.gov/general/why-does-the-moon-look-larger-at-the-horizon-we-asked-a-nasa-scientist-episode-50/" >🔗</a> **[NASA]** Why Does the Moon Look Larger at the Horizon? We Asked a NASA Scientist: Episode 50
 - <a href="https://www.nasa.gov/image-article/nasa-telescopes-deliver-stellar-bouquet-in-time-for-valentines-day/" >🔗</a> **[NASA]** NASA Telescopes Deliver Stellar Bouquet in Time for Valentine’s Day
-- <a href="https://www.nasa.gov/universe/nasa-successfully-joins-sunshade-to-roman-observatorys-exoskeleton/" >🔗</a> **[NASA]** NASA Successfully Joins Sunshade to Roman Observatory’s ‘Exoskeleton’
-- <a href="https://arstechnica.com/space/2025/02/curiosity-spies-stunning-clouds-at-twilight-on-mars/" >🔗</a> **[Arstechnica]** Curiosity spies stunning clouds at twilight on Mars
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250212T220136">2025-02-12 22:01:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250212T223303">2025-02-12 22:33:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
