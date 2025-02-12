@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/gps-civil-signals-are-vital-for-americas-national-security/" >🔗</a> **[SpaceNews]** GPS civil signals are vital for America’s national security
+- <a href="https://europeanspaceflight.com/uk-mod-taps-airbus-to-build-127m-spy-satellite-constellation/" >🔗</a> **[European Spaceflight]** UK MOD Taps Airbus to Build £127M Spy Satellite Constellation
+- <a href="https://spaceflightnow.com/2025/02/12/nasa-announces-new-launch-date-for-crew-10-swap-of-spacex-dragon-spacecraft-following-construction-delays/" >🔗</a> **[Spaceflight Now]** NASA announces new launch date for Crew-10, swap of SpaceX Dragon spacecraft following construction delays
+- <a href="https://arstechnica.com/space/2025/02/after-putin-sacked-russias-space-chief-the-rumor-mill-is-running-red-hot/" >🔗</a> **[Arstechnica]** After Putin sacked Russia’s space chief, the rumor mill is running red-hot
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/recognizing-employee-excellence/" >🔗</a> **[NASA]** Recognizing Employee Excellence
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-fire-safety-test-took-on-reduced-gravity/" >🔗</a> **[NASA]** NASA Fire Safety Test Took on Reduced Gravity
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenn-holds-day-of-remembrance/" >🔗</a> **[NASA]** NASA Glenn Holds Day of Remembrance
 - <a href="https://spacenews.com/u-s-air-force-extends-sierra-space-contract-for-upper-stage-rocket-engine/" >🔗</a> **[SpaceNews]** U.S. Air Force extends Sierra Space contract for upper stage rocket engine
 - <a href="https://spacepolicyonline.com/news/nasa-switches-crew-dragons-allowing-butch-and-suni-to-come-home-a-couple-weeks-sooner/" >🔗</a> **[SpacePolicyOnline.com]** NASA Switches Crew Dragons Allowing Butch and Suni to Come Home a Couple Weeks Sooner
 - <a href="https://spacenews.com/space-force-pushing-forward-with-acquisition-reforms/" >🔗</a> **[SpaceNews]** Space Force pushing forward with acquisition reforms
-- <a href="https://science.nasa.gov/blog/sols-4450-4451-making-the-most-of-a-monday/" >🔗</a> **[NASA]** Sols 4450-4451: Making the Most of a Monday
-- <a href="https://spacenews.com/nasa-and-spacex-to-swap-crew-dragon-spacecraft-to-reduce-crew-10-delay/" >🔗</a> **[SpaceNews]** NASA and SpaceX to swap Crew Dragon spacecraft to reduce Crew-10 delay
-- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-artemis-ii-moon-mission-activities-at-kennedy/" >🔗</a> **[NASA]** NASA Invites Media to Artemis II Moon Mission Activities at Kennedy
-- <a href="https://www.nasa.gov/image-article/space-shuttle-endeavour-takes-flight/" >🔗</a> **[NASA]** Space Shuttle Endeavour Takes Flight
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250212T140128">2025-02-12 14:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250212T143342">2025-02-12 14:33:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
