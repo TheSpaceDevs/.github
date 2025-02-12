@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spire-global-sues-kpler-to-complete-maritime-business-sale/" >🔗</a> **[SpaceNews]** Spire Global sues Kpler to complete maritime business sale
+- <a href="https://www.nasa.gov/history/15-years-ago-sts-130-delivers-tranquility-and-cupola-to-space-station/" >🔗</a> **[NASA]** 15 Years Ago: STS-130 Delivers Tranquility and Cupola to Space Station
 - <a href="https://www.nasa.gov/general/why-does-the-moon-look-larger-at-the-horizon-we-asked-a-nasa-scientist-episode-50/" >🔗</a> **[NASA]** Why Does the Moon Look Larger at the Horizon? We Asked a NASA Scientist: Episode 50
 - <a href="https://www.nasa.gov/image-article/nasa-telescopes-deliver-stellar-bouquet-in-time-for-valentines-day/" >🔗</a> **[NASA]** NASA Telescopes Deliver Stellar Bouquet in Time for Valentine’s Day
 - <a href="https://www.nasa.gov/universe/nasa-successfully-joins-sunshade-to-roman-observatorys-exoskeleton/" >🔗</a> **[NASA]** NASA Successfully Joins Sunshade to Roman Observatory’s ‘Exoskeleton’
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/gps-civil-signals-are-vital-for-americas-national-security/" >🔗</a> **[SpaceNews]** GPS civil signals are vital for America’s national security
 - <a href="https://europeanspaceflight.com/uk-mod-taps-airbus-to-build-127m-spy-satellite-constellation/" >🔗</a> **[European Spaceflight]** UK MOD Taps Airbus to Build £127M Spy Satellite Constellation
 - <a href="https://spaceflightnow.com/2025/02/12/nasa-announces-new-launch-date-for-crew-10-swap-of-spacex-dragon-spacecraft-following-construction-delays/" >🔗</a> **[Spaceflight Now]** NASA announces new launch date for Crew-10, swap of SpaceX Dragon spacecraft following construction delays
-- <a href="https://arstechnica.com/space/2025/02/after-putin-sacked-russias-space-chief-the-rumor-mill-is-running-red-hot/" >🔗</a> **[Arstechnica]** After Putin sacked Russia’s space chief, the rumor mill is running red-hot
-- <a href="https://www.nasa.gov/centers-and-facilities/glenn/recognizing-employee-excellence/" >🔗</a> **[NASA]** Recognizing Employee Excellence
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250212T170126">2025-02-12 17:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250212T173235">2025-02-12 17:32:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
