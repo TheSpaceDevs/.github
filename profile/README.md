@@ -90,7 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/nasa-switches-crew-dragons-allowing-butch-and-suni-to-come-home-a-couple-weeks-sooner/" >🔗</a> **[SpacePolicyOnline.com]** NASA Switches Crew Dragons Allowing Butch and Suni to Come Home a Couple Weeks Sooner
 - <a href="https://spacenews.com/space-force-pushing-forward-with-acquisition-reforms/" >🔗</a> **[SpaceNews]** Space Force pushing forward with acquisition reforms
+- <a href="https://science.nasa.gov/blog/sols-4450-4451-making-the-most-of-a-monday/" >🔗</a> **[NASA]** Sols 4450-4451: Making the Most of a Monday
 - <a href="https://spacenews.com/nasa-and-spacex-to-swap-crew-dragon-spacecraft-to-reduce-crew-10-delay/" >🔗</a> **[SpaceNews]** NASA and SpaceX to swap Crew Dragon spacecraft to reduce Crew-10 delay
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-artemis-ii-moon-mission-activities-at-kennedy/" >🔗</a> **[NASA]** NASA Invites Media to Artemis II Moon Mission Activities at Kennedy
 - <a href="https://www.nasa.gov/image-article/space-shuttle-endeavour-takes-flight/" >🔗</a> **[NASA]** Space Shuttle Endeavour Takes Flight
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/arianespace-plans-five-ariane-6-launches-in-2025-primarily-in-the-second-half-of-the-year/" >🔗</a> **[SpaceNews]** Arianespace plans five Ariane 6 launches in 2025, primarily in the second half of the year
 - <a href="https://spacenews.com/space-security-at-crossroads-report-urges-u-s-china-dialogue/" >🔗</a> **[SpaceNews]** Space security at crossroads: Report urges U.S.-China dialogue
 - <a href="https://www.nasa.gov/technology/nasas-mini-rover-team-is-packed-for-lunar-journey/" >🔗</a> **[NASA]** NASA’s Mini Rover Team Is Packed for Lunar Journey
-- <a href="https://www.nasa.gov/aeronautics/nasas-x-59-turns-up-power-throttles-through-engine-tests/" >🔗</a> **[NASA]** NASA’s X-59 Turns Up Power, Throttles Through Engine Tests
-- <a href="https://www.nasa.gov/learning-resources/building-blocks-for-enhanced-mission-execution/" >🔗</a> **[NASA]** Building Blocks for Enhanced Mission Execution
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250212T004540">2025-02-12 00:45:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250212T012822">2025-02-12 01:28:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
