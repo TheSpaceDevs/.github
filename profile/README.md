@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/america/blue-origin-ceo-calls-all-hands-meeting-employees-brace-for-major-layoffs" >🔗</a> **[The Launch Pad]** Blue Origin CEO Calls All Hands Meeting; Employees Brace For Major Layoffs
 - <a href="https://spacenews.com/satellite-startup-apex-wins-45-9-million-space-force-contract/" >🔗</a> **[SpaceNews]** Satellite startup Apex wins $45.9 million Space Force contract
 - <a href="https://spacepolicyonline.com/news/new-space-subcommittee-chair-backs-moon-first-then-mars/" >🔗</a> **[SpacePolicyOnline.com]** New Space Subcommittee Chair Backs Moon First, Then Mars
 - <a href="https://spacenews.com/doge-to-examine-nasa-payments/" >🔗</a> **[SpaceNews]** DOGE to examine NASA payments
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/kennedy/nasas-polar-ice-experiment-paves-way-for-future-moon-missions/" >🔗</a> **[NASA]** NASA’s Polar Ice Experiment Paves Way for Future Moon Missions
 - <a href="https://www.nasa.gov/image-article/a-rainbow-colored-feather-in-the-martian-sky/" >🔗</a> **[NASA]** A Rainbow-colored “Feather” in the Martian Sky
 - <a href="https://www.nasa.gov/news-release/nasas-advancements-in-space-continue-generating-products-on-earth/" >🔗</a> **[NASA]** NASA’s Advancements in Space Continue Generating Products on Earth
-- <a href="https://spacenews.com/spire-global-sues-kpler-to-complete-maritime-business-sale/" >🔗</a> **[SpaceNews]** Spire Global sues Kpler to complete maritime business sale
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250213T113100">2025-02-13 11:31:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250213T120144">2025-02-13 12:01:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
