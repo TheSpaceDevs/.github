@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/house-science-committee-asks-gao-to-review-faa-commercial-launch-licensing-process/" >🔗</a> **[SpaceNews]** House Science Committee asks GAO to review FAA commercial launch licensing process
+- <a href="https://www.nasa.gov/general/nasa-tests-drones-to-provide-micrometeorology-aid-in-fire-response/" >🔗</a> **[NASA]** NASA Tests Drones to Provide Micrometeorology, Aid in Fire Response
 - <a href="https://spacenews.com/blacksky-to-support-indias-first-private-earth-observation-constellation/" >🔗</a> **[SpaceNews]** BlackSky to support India’s first private Earth observation constellation
+- <a href="https://science.nasa.gov/solar-system/skywatching/the-next-full-moon-is-the-snow-moon/" >🔗</a> **[NASA]** The Next Full Moon is the Snow Moon
 - <a href="https://www.nasa.gov/centers-and-facilities/jpl/how-nasas-lunar-trailblazer-will-make-a-looping-voyage-to-the-moon/" >🔗</a> **[NASA]** How NASA’s Lunar Trailblazer Will Make a Looping Voyage to the Moon
 - <a href="https://spacenews.com/k2-space-raises-110-million-to-scale-up-satellite-production/" >🔗</a> **[SpaceNews]** K2 Space raises $110 million to scale up satellite production
 - <a href="https://www.nasa.gov/image-article/giving-nasas-cadre-a-hand/" >🔗</a> **[NASA]** Giving NASA’s CADRE a Hand
 - <a href="https://science.nasa.gov/learning-resources/science-activation/tribal-library-co-design-stem-space-workshop/" >🔗</a> **[NASA]** Tribal Library Co-Design STEM Space Workshop
 - <a href="https://www.nasaspaceflight.com/2025/02/launch-providers-uk-soil/" >🔗</a> **[NASASpaceflight]** Launch providers step closer to first orbital launch from UK soil
 - <a href="https://spacenews.com/blue-origin-to-lay-off-10-of-its-workforce/" >🔗</a> **[SpaceNews]** Blue Origin to lay off 10% of its workforce
-- <a href="https://www.nasa.gov/humans-in-space/nasa-readies-moon-rocket-for-the-future-with-manufacturing-innovation/" >🔗</a> **[NASA]** NASA Readies Moon Rocket for the Future with Manufacturing Innovation
-- <a href="https://www.nasa.gov/universe/nasas-spherex-space-telescope-will-seek-lifes-ingredients/" >🔗</a> **[NASA]** NASA’s SPHEREx Space Telescope Will Seek Life’s Ingredients
-- <a href="https://www.nasa.gov/general/in-the-starlight-tristan-mcknight-brings-nasas-historic-moments-to-life/" >🔗</a> **[NASA]** In the Starlight: Tristan McKnight Brings NASA’s Historic Moments to Life
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250213T220131">2025-02-13 22:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250213T223304">2025-02-13 22:33:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
