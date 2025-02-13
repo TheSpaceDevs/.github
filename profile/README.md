@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/blue-origin-planning-second-new-glenn-launch-for-late-spring/" >🔗</a> **[SpaceNews]** Blue Origin planning second New Glenn launch for late spring
 - <a href="https://tlpnetwork.com/news/america/blue-origin-ceo-calls-all-hands-meeting-employees-brace-for-major-layoffs" >🔗</a> **[The Launch Pad]** Blue Origin CEO Calls All Hands Meeting; Employees Brace For Major Layoffs
 - <a href="https://spacenews.com/satellite-startup-apex-wins-45-9-million-space-force-contract/" >🔗</a> **[SpaceNews]** Satellite startup Apex wins $45.9 million Space Force contract
 - <a href="https://spacepolicyonline.com/news/new-space-subcommittee-chair-backs-moon-first-then-mars/" >🔗</a> **[SpacePolicyOnline.com]** New Space Subcommittee Chair Backs Moon First, Then Mars
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/space-development-agency-seeks-industry-input-on-integrating-satellite-network-into-iron-dome/" >🔗</a> **[SpaceNews]** Space Development Agency seeks industry input on integrating satellite network into ‘Iron Dome’
 - <a href="https://www.nasa.gov/centers-and-facilities/kennedy/nasas-polar-ice-experiment-paves-way-for-future-moon-missions/" >🔗</a> **[NASA]** NASA’s Polar Ice Experiment Paves Way for Future Moon Missions
 - <a href="https://www.nasa.gov/image-article/a-rainbow-colored-feather-in-the-martian-sky/" >🔗</a> **[NASA]** A Rainbow-colored “Feather” in the Martian Sky
-- <a href="https://www.nasa.gov/news-release/nasas-advancements-in-space-continue-generating-products-on-earth/" >🔗</a> **[NASA]** NASA’s Advancements in Space Continue Generating Products on Earth
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250213T120144">2025-02-13 12:01:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250213T124238">2025-02-13 12:42:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
