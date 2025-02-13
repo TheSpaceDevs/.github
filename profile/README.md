@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/trumps-interest-in-greenland-highlights-space-race-in-the-high-north/" >🔗</a> **[SpaceNews]** Trump’s interest in Greenland highlights space race in the high North
+- <a href="https://spacenews.com/york-space-expands-into-full-service-satellite-offerings-for-u-s-government/" >🔗</a> **[SpaceNews]** York Space expands into satellite services for U.S. government
+- <a href="https://spacenews.com/increasing-the-efficiency-of-the-u-s-national-security-space-program/" >🔗</a> **[SpaceNews]** Increasing the efficiency of the U.S. national security space program
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1C_demonstrates_power_to_map_land_deformation" >🔗</a> **[ESA]** Sentinel-1C demonstrates power to map land deformation
+- <a href="https://www.nasa.gov/humans-in-space/lunar-space-station-module-will-journey-to-us-ahead-of-nasas-artemis-iv-moon-mission/" >🔗</a> **[NASA]** Lunar Space Station Module Will Journey to US ahead of NASA’s Artemis IV Moon Mission
 - <a href="https://spacenews.com/blue-origin-planning-second-new-glenn-launch-for-late-spring/" >🔗</a> **[SpaceNews]** Blue Origin planning second New Glenn launch for late spring
 - <a href="https://tlpnetwork.com/news/america/blue-origin-ceo-calls-all-hands-meeting-employees-brace-for-major-layoffs" >🔗</a> **[The Launch Pad]** Blue Origin CEO Calls All Hands Meeting; Employees Brace For Major Layoffs
 - <a href="https://spacenews.com/satellite-startup-apex-wins-45-9-million-space-force-contract/" >🔗</a> **[SpaceNews]** Satellite startup Apex wins $45.9 million Space Force contract
 - <a href="https://spacepolicyonline.com/news/new-space-subcommittee-chair-backs-moon-first-then-mars/" >🔗</a> **[SpacePolicyOnline.com]** New Space Subcommittee Chair Backs Moon First, Then Mars
 - <a href="https://spacenews.com/doge-to-examine-nasa-payments/" >🔗</a> **[SpaceNews]** DOGE to examine NASA payments
-- <a href="https://spacenews.com/arkadia-space-to-supply-maiaspace-thrusters/" >🔗</a> **[SpaceNews]** Arkadia Space to supply MaiaSpace thrusters
-- <a href="https://www.nasa.gov/history/25-years-ago-sts-99-the-shuttle-radar-topography-mission/" >🔗</a> **[NASA]** 25 Years Ago: STS-99, the Shuttle Radar Topography Mission
-- <a href="https://spacenews.com/space-development-agency-seeks-industry-input-on-integrating-satellite-network-into-iron-dome/" >🔗</a> **[SpaceNews]** Space Development Agency seeks industry input on integrating satellite network into ‘Iron Dome’
-- <a href="https://www.nasa.gov/centers-and-facilities/kennedy/nasas-polar-ice-experiment-paves-way-for-future-moon-missions/" >🔗</a> **[NASA]** NASA’s Polar Ice Experiment Paves Way for Future Moon Missions
-- <a href="https://www.nasa.gov/image-article/a-rainbow-colored-feather-in-the-martian-sky/" >🔗</a> **[NASA]** A Rainbow-colored “Feather” in the Martian Sky
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250213T140124">2025-02-13 14:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250213T143347">2025-02-13 14:33:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
