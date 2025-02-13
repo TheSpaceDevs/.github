@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/k2-space-raises-110-million-to-scale-up-satellite-production/" >🔗</a> **[SpaceNews]** K2 Space raises $110 million to scale up satellite production
 - <a href="https://www.nasa.gov/image-article/giving-nasas-cadre-a-hand/" >🔗</a> **[NASA]** Giving NASA’s CADRE a Hand
 - <a href="https://science.nasa.gov/learning-resources/science-activation/tribal-library-co-design-stem-space-workshop/" >🔗</a> **[NASA]** Tribal Library Co-Design STEM Space Workshop
 - <a href="https://www.nasaspaceflight.com/2025/02/launch-providers-uk-soil/" >🔗</a> **[NASASpaceflight]** Launch providers step closer to first orbital launch from UK soil
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/general/in-the-starlight-tristan-mcknight-brings-nasas-historic-moments-to-life/" >🔗</a> **[NASA]** In the Starlight: Tristan McKnight Brings NASA’s Historic Moments to Life
 - <a href="https://arstechnica.com/space/2025/02/citing-too-much-bureaucracy-blue-origin-to-cut-10-percent-of-its-workforce/" >🔗</a> **[Arstechnica]** Citing too much “bureaucracy,” Blue Origin to cut 10 percent of its workforce
 - <a href="https://www.nasa.gov/organizations/headquarters-and-center-chief-counsel-contacts/" >🔗</a> **[NASA]** Headquarters and Center Chief Counsel Contacts
-- <a href="https://europeanspaceflight.com/eu-commission-calls-for-faster-progress-on-launcher-development/" >🔗</a> **[European Spaceflight]** EU Commission Calls for Faster Progress on Launcher Development
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250213T193106">2025-02-13 19:31:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250213T200136">2025-02-13 20:01:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
