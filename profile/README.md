@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/doge-to-examine-nasa-payments/" >🔗</a> **[SpaceNews]** DOGE to examine NASA payments
 - <a href="https://spacenews.com/arkadia-space-to-supply-maiaspace-thrusters/" >🔗</a> **[SpaceNews]** Arkadia Space to supply MaiaSpace thrusters
 - <a href="https://www.nasa.gov/history/25-years-ago-sts-99-the-shuttle-radar-topography-mission/" >🔗</a> **[NASA]** 25 Years Ago: STS-99, the Shuttle Radar Topography Mission
 - <a href="https://spacenews.com/space-development-agency-seeks-industry-input-on-integrating-satellite-network-into-iron-dome/" >🔗</a> **[SpaceNews]** Space Development Agency seeks industry input on integrating satellite network into ‘Iron Dome’
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/spire-global-sues-kpler-to-complete-maritime-business-sale/" >🔗</a> **[SpaceNews]** Spire Global sues Kpler to complete maritime business sale
 - <a href="https://www.nasa.gov/history/15-years-ago-sts-130-delivers-tranquility-and-cupola-to-space-station/" >🔗</a> **[NASA]** 15 Years Ago: STS-130 Delivers Tranquility and Cupola to Space Station
 - <a href="https://www.nasa.gov/general/why-does-the-moon-look-larger-at-the-horizon-we-asked-a-nasa-scientist-episode-50/" >🔗</a> **[NASA]** Why Does the Moon Look Larger at the Horizon? We Asked a NASA Scientist: Episode 50
-- <a href="https://www.nasa.gov/image-article/nasa-telescopes-deliver-stellar-bouquet-in-time-for-valentines-day/" >🔗</a> **[NASA]** NASA Telescopes Deliver Stellar Bouquet in Time for Valentine’s Day
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250213T030414">2025-02-13 03:04:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250213T033405">2025-02-13 03:34:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
