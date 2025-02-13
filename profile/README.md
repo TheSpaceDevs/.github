@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/02/starship-program-at-cape/" >🔗</a> **[NASASpaceflight]** Starship Program at the Cape Kicking into Gear
 - <a href="https://spacenews.com/house-science-committee-asks-gao-to-review-faa-commercial-launch-licensing-process/" >🔗</a> **[SpaceNews]** House Science Committee asks GAO to review FAA commercial launch licensing process
 - <a href="https://www.nasa.gov/general/nasa-tests-drones-to-provide-micrometeorology-aid-in-fire-response/" >🔗</a> **[NASA]** NASA Tests Drones to Provide Micrometeorology, Aid in Fire Response
 - <a href="https://spacenews.com/blacksky-to-support-indias-first-private-earth-observation-constellation/" >🔗</a> **[SpaceNews]** BlackSky to support India’s first private Earth observation constellation
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/giving-nasas-cadre-a-hand/" >🔗</a> **[NASA]** Giving NASA’s CADRE a Hand
 - <a href="https://science.nasa.gov/learning-resources/science-activation/tribal-library-co-design-stem-space-workshop/" >🔗</a> **[NASA]** Tribal Library Co-Design STEM Space Workshop
 - <a href="https://www.nasaspaceflight.com/2025/02/launch-providers-uk-soil/" >🔗</a> **[NASASpaceflight]** Launch providers step closer to first orbital launch from UK soil
-- <a href="https://spacenews.com/blue-origin-to-lay-off-10-of-its-workforce/" >🔗</a> **[SpaceNews]** Blue Origin to lay off 10% of its workforce
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250213T230125">2025-02-13 23:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250213T233105">2025-02-13 23:31:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
