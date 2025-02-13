@@ -92,6 +92,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.nasa.gov/image-article/giving-nasas-cadre-a-hand/" >🔗</a> **[NASA]** Giving NASA’s CADRE a Hand
+- <a href="https://science.nasa.gov/learning-resources/science-activation/tribal-library-co-design-stem-space-workshop/" >🔗</a> **[NASA]** Tribal Library Co-Design STEM Space Workshop
 - <a href="https://www.nasaspaceflight.com/2025/02/launch-providers-uk-soil/" >🔗</a> **[NASASpaceflight]** Launch providers step closer to first orbital launch from UK soil
 - <a href="https://spacenews.com/blue-origin-to-lay-off-10-of-its-workforce/" >🔗</a> **[SpaceNews]** Blue Origin to lay off 10% of its workforce
 - <a href="https://www.nasa.gov/humans-in-space/nasa-readies-moon-rocket-for-the-future-with-manufacturing-innovation/" >🔗</a> **[NASA]** NASA Readies Moon Rocket for the Future with Manufacturing Innovation
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2025/02/citing-too-much-bureaucracy-blue-origin-to-cut-10-percent-of-its-workforce/" >🔗</a> **[Arstechnica]** Citing too much “bureaucracy,” Blue Origin to cut 10 percent of its workforce
 - <a href="https://www.nasa.gov/organizations/headquarters-and-center-chief-counsel-contacts/" >🔗</a> **[NASA]** Headquarters and Center Chief Counsel Contacts
 - <a href="https://europeanspaceflight.com/eu-commission-calls-for-faster-progress-on-launcher-development/" >🔗</a> **[European Spaceflight]** EU Commission Calls for Faster Progress on Launcher Development
-- <a href="https://www.nasa.gov/missions/station/iss-research/heart-health/" >🔗</a> **[NASA]** Heart Health
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250213T190114">2025-02-13 19:01:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250213T193106">2025-02-13 19:31:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
