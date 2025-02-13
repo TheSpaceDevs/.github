@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/blacksky-to-support-indias-first-private-earth-observation-constellation/" >🔗</a> **[SpaceNews]** BlackSky to support India’s first private Earth observation constellation
 - <a href="https://www.nasa.gov/centers-and-facilities/jpl/how-nasas-lunar-trailblazer-will-make-a-looping-voyage-to-the-moon/" >🔗</a> **[NASA]** How NASA’s Lunar Trailblazer Will Make a Looping Voyage to the Moon
 - <a href="https://spacenews.com/k2-space-raises-110-million-to-scale-up-satellite-production/" >🔗</a> **[SpaceNews]** K2 Space raises $110 million to scale up satellite production
 - <a href="https://www.nasa.gov/image-article/giving-nasas-cadre-a-hand/" >🔗</a> **[NASA]** Giving NASA’s CADRE a Hand
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/humans-in-space/nasa-readies-moon-rocket-for-the-future-with-manufacturing-innovation/" >🔗</a> **[NASA]** NASA Readies Moon Rocket for the Future with Manufacturing Innovation
 - <a href="https://www.nasa.gov/universe/nasas-spherex-space-telescope-will-seek-lifes-ingredients/" >🔗</a> **[NASA]** NASA’s SPHEREx Space Telescope Will Seek Life’s Ingredients
 - <a href="https://www.nasa.gov/general/in-the-starlight-tristan-mcknight-brings-nasas-historic-moments-to-life/" >🔗</a> **[NASA]** In the Starlight: Tristan McKnight Brings NASA’s Historic Moments to Life
-- <a href="https://arstechnica.com/space/2025/02/citing-too-much-bureaucracy-blue-origin-to-cut-10-percent-of-its-workforce/" >🔗</a> **[Arstechnica]** Citing too much “bureaucracy,” Blue Origin to cut 10 percent of its workforce
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250213T213118">2025-02-13 21:31:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250213T220131">2025-02-13 22:01:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
