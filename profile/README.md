@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/new-space-subcommittee-chair-backs-moon-first-then-mars/" >🔗</a> **[SpacePolicyOnline.com]** New Space Subcommittee Chair Backs Moon First, Then Mars
 - <a href="https://spacenews.com/doge-to-examine-nasa-payments/" >🔗</a> **[SpaceNews]** DOGE to examine NASA payments
 - <a href="https://spacenews.com/arkadia-space-to-supply-maiaspace-thrusters/" >🔗</a> **[SpaceNews]** Arkadia Space to supply MaiaSpace thrusters
 - <a href="https://www.nasa.gov/history/25-years-ago-sts-99-the-shuttle-radar-topography-mission/" >🔗</a> **[NASA]** 25 Years Ago: STS-99, the Shuttle Radar Topography Mission
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasas-advancements-in-space-continue-generating-products-on-earth/" >🔗</a> **[NASA]** NASA’s Advancements in Space Continue Generating Products on Earth
 - <a href="https://spacenews.com/spire-global-sues-kpler-to-complete-maritime-business-sale/" >🔗</a> **[SpaceNews]** Spire Global sues Kpler to complete maritime business sale
 - <a href="https://www.nasa.gov/history/15-years-ago-sts-130-delivers-tranquility-and-cupola-to-space-station/" >🔗</a> **[NASA]** 15 Years Ago: STS-130 Delivers Tranquility and Cupola to Space Station
-- <a href="https://www.nasa.gov/general/why-does-the-moon-look-larger-at-the-horizon-we-asked-a-nasa-scientist-episode-50/" >🔗</a> **[NASA]** Why Does the Moon Look Larger at the Horizon? We Asked a NASA Scientist: Episode 50
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250213T050128">2025-02-13 05:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250213T053256">2025-02-13 05:32:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
