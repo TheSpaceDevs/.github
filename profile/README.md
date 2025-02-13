@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/blue-origin-to-lay-off-10-of-its-workforce/" >🔗</a> **[SpaceNews]** Blue Origin to lay off 10% of its workforce
 - <a href="https://www.nasa.gov/humans-in-space/nasa-readies-moon-rocket-for-the-future-with-manufacturing-innovation/" >🔗</a> **[NASA]** NASA Readies Moon Rocket for the Future with Manufacturing Innovation
 - <a href="https://www.nasa.gov/universe/nasas-spherex-space-telescope-will-seek-lifes-ingredients/" >🔗</a> **[NASA]** NASA’s SPHEREx Space Telescope Will Seek Life’s Ingredients
 - <a href="https://www.nasa.gov/general/in-the-starlight-tristan-mcknight-brings-nasas-historic-moments-to-life/" >🔗</a> **[NASA]** In the Starlight: Tristan McKnight Brings NASA’s Historic Moments to Life
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/missions/station/iss-research/heart-health/" >🔗</a> **[NASA]** Heart Health
 - <a href="https://science.nasa.gov/missions/webb/webb-maps-full-picture-of-how-phoenix-galaxy-cluster-forms-stars/" >🔗</a> **[NASA]** Webb Maps Full Picture of How Phoenix Galaxy Cluster Forms Stars
 - <a href="https://spacenews.com/chinas-answer-to-spacex/" >🔗</a> **[SpaceNews]** China’s answer to SpaceX
-- <a href="https://spacenews.com/trumps-interest-in-greenland-highlights-space-race-in-the-high-north/" >🔗</a> **[SpaceNews]** Trump’s interest in Greenland highlights space race in the high North
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250213T173112">2025-02-13 17:31:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250213T180130">2025-02-13 18:01:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
