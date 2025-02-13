@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/organizations/headquarters-and-center-chief-counsel-contacts/" >🔗</a> **[NASA]** Headquarters and Center Chief Counsel Contacts
+- <a href="https://europeanspaceflight.com/eu-commission-calls-for-faster-progress-on-launcher-development/" >🔗</a> **[European Spaceflight]** EU Commission Calls for Faster Progress on Launcher Development
+- <a href="https://www.nasa.gov/missions/station/iss-research/heart-health/" >🔗</a> **[NASA]** Heart Health
+- <a href="https://science.nasa.gov/missions/webb/webb-maps-full-picture-of-how-phoenix-galaxy-cluster-forms-stars/" >🔗</a> **[NASA]** Webb Maps Full Picture of How Phoenix Galaxy Cluster Forms Stars
+- <a href="https://spacenews.com/chinas-answer-to-spacex/" >🔗</a> **[SpaceNews]** China’s answer to SpaceX
 - <a href="https://spacenews.com/trumps-interest-in-greenland-highlights-space-race-in-the-high-north/" >🔗</a> **[SpaceNews]** Trump’s interest in Greenland highlights space race in the high North
 - <a href="https://spacenews.com/york-space-expands-into-full-service-satellite-offerings-for-u-s-government/" >🔗</a> **[SpaceNews]** York Space expands into satellite services for U.S. government
-- <a href="https://spacenews.com/increasing-the-efficiency-of-the-u-s-national-security-space-program/" >🔗</a> **[SpaceNews]** Increasing the efficiency of the U.S. national security space program
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1C_demonstrates_power_to_map_land_deformation" >🔗</a> **[ESA]** Sentinel-1C demonstrates power to map land deformation
+- <a href="https://spacenews.com/increasing-the-efficiency-of-the-u-s-national-security-space-program/" >🔗</a> **[SpaceNews]** Increasing the efficiency of the U.S. national security space program
 - <a href="https://www.nasa.gov/humans-in-space/lunar-space-station-module-will-journey-to-us-ahead-of-nasas-artemis-iv-moon-mission/" >🔗</a> **[NASA]** Lunar Space Station Module Will Journey to US ahead of NASA’s Artemis IV Moon Mission
-- <a href="https://spacenews.com/blue-origin-planning-second-new-glenn-launch-for-late-spring/" >🔗</a> **[SpaceNews]** Blue Origin planning second New Glenn launch for late spring
-- <a href="https://tlpnetwork.com/news/america/blue-origin-ceo-calls-all-hands-meeting-employees-brace-for-major-layoffs" >🔗</a> **[The Launch Pad]** Blue Origin CEO Calls All Hands Meeting; Employees Brace For Major Layoffs
-- <a href="https://spacenews.com/satellite-startup-apex-wins-45-9-million-space-force-contract/" >🔗</a> **[SpaceNews]** Satellite startup Apex wins $45.9 million Space Force contract
-- <a href="https://spacepolicyonline.com/news/new-space-subcommittee-chair-backs-moon-first-then-mars/" >🔗</a> **[SpacePolicyOnline.com]** New Space Subcommittee Chair Backs Moon First, Then Mars
-- <a href="https://spacenews.com/doge-to-examine-nasa-payments/" >🔗</a> **[SpaceNews]** DOGE to examine NASA payments
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250213T150123">2025-02-13 15:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250213T153216">2025-02-13 15:32:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
