@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/humans-in-space/nasa-readies-moon-rocket-for-the-future-with-manufacturing-innovation/" >🔗</a> **[NASA]** NASA Readies Moon Rocket for the Future with Manufacturing Innovation
+- <a href="https://www.nasa.gov/universe/nasas-spherex-space-telescope-will-seek-lifes-ingredients/" >🔗</a> **[NASA]** NASA’s SPHEREx Space Telescope Will Seek Life’s Ingredients
+- <a href="https://www.nasa.gov/general/in-the-starlight-tristan-mcknight-brings-nasas-historic-moments-to-life/" >🔗</a> **[NASA]** In the Starlight: Tristan McKnight Brings NASA’s Historic Moments to Life
+- <a href="https://arstechnica.com/space/2025/02/citing-too-much-bureaucracy-blue-origin-to-cut-10-percent-of-its-workforce/" >🔗</a> **[Arstechnica]** Citing too much “bureaucracy,” Blue Origin to cut 10 percent of its workforce
 - <a href="https://www.nasa.gov/organizations/headquarters-and-center-chief-counsel-contacts/" >🔗</a> **[NASA]** Headquarters and Center Chief Counsel Contacts
 - <a href="https://europeanspaceflight.com/eu-commission-calls-for-faster-progress-on-launcher-development/" >🔗</a> **[European Spaceflight]** EU Commission Calls for Faster Progress on Launcher Development
 - <a href="https://www.nasa.gov/missions/station/iss-research/heart-health/" >🔗</a> **[NASA]** Heart Health
 - <a href="https://science.nasa.gov/missions/webb/webb-maps-full-picture-of-how-phoenix-galaxy-cluster-forms-stars/" >🔗</a> **[NASA]** Webb Maps Full Picture of How Phoenix Galaxy Cluster Forms Stars
 - <a href="https://spacenews.com/chinas-answer-to-spacex/" >🔗</a> **[SpaceNews]** China’s answer to SpaceX
 - <a href="https://spacenews.com/trumps-interest-in-greenland-highlights-space-race-in-the-high-north/" >🔗</a> **[SpaceNews]** Trump’s interest in Greenland highlights space race in the high North
-- <a href="https://spacenews.com/york-space-expands-into-full-service-satellite-offerings-for-u-s-government/" >🔗</a> **[SpaceNews]** York Space expands into satellite services for U.S. government
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1C_demonstrates_power_to_map_land_deformation" >🔗</a> **[ESA]** Sentinel-1C demonstrates power to map land deformation
-- <a href="https://spacenews.com/increasing-the-efficiency-of-the-u-s-national-security-space-program/" >🔗</a> **[SpaceNews]** Increasing the efficiency of the U.S. national security space program
-- <a href="https://www.nasa.gov/humans-in-space/lunar-space-station-module-will-journey-to-us-ahead-of-nasas-artemis-iv-moon-mission/" >🔗</a> **[NASA]** Lunar Space Station Module Will Journey to US ahead of NASA’s Artemis IV Moon Mission
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250213T160136">2025-02-13 16:01:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250213T163556">2025-02-13 16:35:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
