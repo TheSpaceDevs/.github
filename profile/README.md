@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/02/14/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-11/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket from Cape Canaveral
+- <a href="https://www.nasa.gov/image-article/nasa-inspires-high-school-engineering-club/" >🔗</a> **[NASA]** NASA Inspires High School Engineering Club
 - <a href="https://www.nasa.gov/general/2024-state-of-the-art-small-spacecraft-technology-report-is-released/" >🔗</a> **[NASA]** 2024 State-of-the-Art Small Spacecraft Technology Report is Released
 - <a href="https://science.nasa.gov/science-research/earth-science/summary-of-the-10th-dscovr-epic-and-nistar-science-team-meeting/" >🔗</a> **[NASA]** Summary of the 10th DSCOVR EPIC and NISTAR Science Team Meeting
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-of-fireflys-first-robotic-commercial-moon-landing/" >🔗</a> **[NASA]** NASA Sets Coverage of Firefly’s First Robotic Commercial Moon Landing
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/a-stellar-bouquet/" >🔗</a> **[NASA]** A Stellar Bouquet
 - <a href="https://spacenews.com/china-invites-bids-for-lunar-satellite-to-support-crewed-moon-landing-missions/" >🔗</a> **[SpaceNews]** China invites bids for lunar satellite to support crewed moon landing missions
 - <a href="https://spacenews.com/improving-spaceport-infrastructure-could-ease-strain-at-cape-canaveral-and-vandenberg/" >🔗</a> **[SpaceNews]** Improving spaceport infrastructure could ease strain at Cape Canaveral and Vandenberg
-- <a href="https://www.esa.int/About_Us/Business_with_ESA/ESA_Business_Incubation_Centres_celebrate_two_decades_of_innovation" >🔗</a> **[ESA]** ESA Business Incubation Centres celebrate two decades of innovation
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_10-14_February_2025" >🔗</a> **[ESA]** Week in images: 10-14 February 2025
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250214T210124">2025-02-14 21:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250214T213107">2025-02-14 21:31:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
