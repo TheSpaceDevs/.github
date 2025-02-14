@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/a-stellar-bouquet/" >🔗</a> **[NASA]** A Stellar Bouquet
+- <a href="https://spacenews.com/china-invites-bids-for-lunar-satellite-to-support-crewed-moon-landing-missions/" >🔗</a> **[SpaceNews]** China invites bids for lunar satellite to support crewed moon landing missions
 - <a href="https://spacenews.com/improving-spaceport-infrastructure-could-ease-strain-at-cape-canaveral-and-vandenberg/" >🔗</a> **[SpaceNews]** Improving spaceport infrastructure could ease strain at Cape Canaveral and Vandenberg
 - <a href="https://www.esa.int/About_Us/Business_with_ESA/ESA_Business_Incubation_Centres_celebrate_two_decades_of_innovation" >🔗</a> **[ESA]** ESA Business Incubation Centres celebrate two decades of innovation
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_10-14_February_2025" >🔗</a> **[ESA]** Week in images: 10-14 February 2025
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/congress-seeks-nasa-authorization-commercial-space-bills/" >🔗</a> **[SpaceNews]** Congress seeks NASA authorization, commercial space bills
 - <a href="https://arstechnica.com/space/2025/02/rocket-report-a-blue-mood-at-blue-stoke-space-fires-a-short-over-the-bow/" >🔗</a> **[Arstechnica]** Rocket Report: A blue mood at Blue; Stoke Space fires a short over the bow
 - <a href="https://science.nasa.gov/missions/hubble/hubble-captures-a-cosmic-cloudscape/" >🔗</a> **[NASA]** Hubble Captures a Cosmic Cloudscape
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/02/Fly!_Project_media_briefing" >🔗</a> **[ESA]** Fly! Project media briefing
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/02/Earth_from_Space_Heart_of_Mount_St_Helens" >🔗</a> **[ESA]** Earth from Space: Heart of Mount St Helens
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250214T180130">2025-02-14 18:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250214T183536">2025-02-14 18:35:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
