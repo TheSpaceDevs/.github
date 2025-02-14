@@ -92,6 +92,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/02/Earth_from_Space_Heart_of_Mount_St_Helens" >🔗</a> **[ESA]** Earth from Space: Heart of Mount St Helens
+- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Pierogi_in_space" >🔗</a> **[ESA]** Pierogi in space
 - <a href="https://science.nasa.gov/blog/sols-4452-4453-keeping-warm-and-keeping-busy/" >🔗</a> **[NASA]** Sols 4452-4453: Keeping Warm and Keeping Busy
 - <a href="https://spacenews.com/lynk-global-fundraise-passes-85-million-as-direct-to-smartphone-satellite-race-heats-up/" >🔗</a> **[SpaceNews]** Lynk Global fundraise passes $85 million as direct-to-smartphone satellite race heats up
 - <a href="https://www.nasaspaceflight.com/2025/02/starship-program-at-cape/" >🔗</a> **[NASASpaceflight]** Starship Program at the Cape Kicking into Gear
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/blacksky-to-support-indias-first-private-earth-observation-constellation/" >🔗</a> **[SpaceNews]** BlackSky to support India’s first private Earth observation constellation
 - <a href="https://science.nasa.gov/solar-system/skywatching/the-next-full-moon-is-the-snow-moon/" >🔗</a> **[NASA]** The Next Full Moon is the Snow Moon
 - <a href="https://www.nasa.gov/centers-and-facilities/jpl/how-nasas-lunar-trailblazer-will-make-a-looping-voyage-to-the-moon/" >🔗</a> **[NASA]** How NASA’s Lunar Trailblazer Will Make a Looping Voyage to the Moon
-- <a href="https://spacenews.com/k2-space-raises-110-million-to-scale-up-satellite-production/" >🔗</a> **[SpaceNews]** K2 Space raises $110 million to scale up satellite production
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250214T100123">2025-02-14 10:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250214T103413">2025-02-14 10:34:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
