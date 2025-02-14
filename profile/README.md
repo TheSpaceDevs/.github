@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/improving-spaceport-infrastructure-could-ease-strain-at-cape-canaveral-and-vandenberg/" >🔗</a> **[SpaceNews]** Improving spaceport infrastructure could ease strain at Cape Canaveral and Vandenberg
+- <a href="https://www.esa.int/About_Us/Business_with_ESA/ESA_Business_Incubation_Centres_celebrate_two_decades_of_innovation" >🔗</a> **[ESA]** ESA Business Incubation Centres celebrate two decades of innovation
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_10-14_February_2025" >🔗</a> **[ESA]** Week in images: 10-14 February 2025
 - <a href="https://spacenews.com/the-power-dilemma-energy-access-could-make-or-break-the-space-economy-this-year/" >🔗</a> **[SpaceNews]** The power dilemma: Energy access could make or break the space economy this year
 - <a href="https://europeanspaceflight.com/the-exploration-company-tests-pre-burner-for-high-thrust-rocket-engine/" >🔗</a> **[European Spaceflight]** The Exploration Company Tests Pre-Burner for High-Thrust Rocket Engine
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/missions/hubble/hubble-captures-a-cosmic-cloudscape/" >🔗</a> **[NASA]** Hubble Captures a Cosmic Cloudscape
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/02/Fly!_Project_media_briefing" >🔗</a> **[ESA]** Fly! Project media briefing
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/02/Earth_from_Space_Heart_of_Mount_St_Helens" >🔗</a> **[ESA]** Earth from Space: Heart of Mount St Helens
-- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Pierogi_in_space" >🔗</a> **[ESA]** Pierogi in space
-- <a href="https://science.nasa.gov/blog/sols-4452-4453-keeping-warm-and-keeping-busy/" >🔗</a> **[NASA]** Sols 4452-4453: Keeping Warm and Keeping Busy
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250214T150125">2025-02-14 15:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250214T153220">2025-02-14 15:32:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
