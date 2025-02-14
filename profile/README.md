@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_10-14_February_2025" >🔗</a> **[ESA]** Week in images: 10-14 February 2025
+- <a href="https://spacenews.com/the-power-dilemma-energy-access-could-make-or-break-the-space-economy-this-year/" >🔗</a> **[SpaceNews]** The power dilemma: Energy access could make or break the space economy this year
 - <a href="https://europeanspaceflight.com/the-exploration-company-tests-pre-burner-for-high-thrust-rocket-engine/" >🔗</a> **[European Spaceflight]** The Exploration Company Tests Pre-Burner for High-Thrust Rocket Engine
 - <a href="https://spacenews.com/congress-seeks-nasa-authorization-commercial-space-bills/" >🔗</a> **[SpaceNews]** Congress seeks NASA authorization, commercial space bills
 - <a href="https://arstechnica.com/space/2025/02/rocket-report-a-blue-mood-at-blue-stoke-space-fires-a-short-over-the-bow/" >🔗</a> **[Arstechnica]** Rocket Report: A blue mood at Blue; Stoke Space fires a short over the bow
 - <a href="https://science.nasa.gov/missions/hubble/hubble-captures-a-cosmic-cloudscape/" >🔗</a> **[NASA]** Hubble Captures a Cosmic Cloudscape
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/02/Fly!_Project_media_briefing" >🔗</a> **[ESA]** Fly! Project media briefing
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/02/Earth_from_Space_Heart_of_Mount_St_Helens" >🔗</a> **[ESA]** Earth from Space: Heart of Mount St Helens
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Pierogi_in_space" >🔗</a> **[ESA]** Pierogi in space
 - <a href="https://science.nasa.gov/blog/sols-4452-4453-keeping-warm-and-keeping-busy/" >🔗</a> **[NASA]** Sols 4452-4453: Keeping Warm and Keeping Busy
-- <a href="https://spacenews.com/lynk-global-fundraise-passes-85-million-as-direct-to-smartphone-satellite-race-heats-up/" >🔗</a> **[SpaceNews]** Lynk Global fundraise passes $85 million as direct-to-smartphone satellite race heats up
-- <a href="https://www.nasaspaceflight.com/2025/02/starship-program-at-cape/" >🔗</a> **[NASASpaceflight]** Starship Program at the Cape Kicking into Gear
-- <a href="https://spacenews.com/house-science-committee-asks-gao-to-review-faa-commercial-launch-licensing-process/" >🔗</a> **[SpaceNews]** House Science Committee asks GAO to review FAA commercial launch licensing process
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250214T140128">2025-02-14 14:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250214T143306">2025-02-14 14:33:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
