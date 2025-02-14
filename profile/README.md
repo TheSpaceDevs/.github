@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blog/sols-4452-4453-keeping-warm-and-keeping-busy/" >🔗</a> **[NASA]** Sols 4452-4453: Keeping Warm and Keeping Busy
 - <a href="https://spacenews.com/lynk-global-fundraise-passes-85-million-as-direct-to-smartphone-satellite-race-heats-up/" >🔗</a> **[SpaceNews]** Lynk Global fundraise passes $85 million as direct-to-smartphone satellite race heats up
 - <a href="https://www.nasaspaceflight.com/2025/02/starship-program-at-cape/" >🔗</a> **[NASASpaceflight]** Starship Program at the Cape Kicking into Gear
 - <a href="https://spacenews.com/house-science-committee-asks-gao-to-review-faa-commercial-launch-licensing-process/" >🔗</a> **[SpaceNews]** House Science Committee asks GAO to review FAA commercial launch licensing process
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/jpl/how-nasas-lunar-trailblazer-will-make-a-looping-voyage-to-the-moon/" >🔗</a> **[NASA]** How NASA’s Lunar Trailblazer Will Make a Looping Voyage to the Moon
 - <a href="https://spacenews.com/k2-space-raises-110-million-to-scale-up-satellite-production/" >🔗</a> **[SpaceNews]** K2 Space raises $110 million to scale up satellite production
 - <a href="https://www.nasa.gov/image-article/giving-nasas-cadre-a-hand/" >🔗</a> **[NASA]** Giving NASA’s CADRE a Hand
-- <a href="https://science.nasa.gov/learning-resources/science-activation/tribal-library-co-design-stem-space-workshop/" >🔗</a> **[NASA]** Tribal Library Co-Design STEM Space Workshop
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250214T080136">2025-02-14 08:01:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250214T083416">2025-02-14 08:34:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
