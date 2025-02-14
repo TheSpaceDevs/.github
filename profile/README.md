@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-of-fireflys-first-robotic-commercial-moon-landing/" >🔗</a> **[NASA]** NASA Sets Coverage of Firefly’s First Robotic Commercial Moon Landing
+- <a href="https://arstechnica.com/features/2025/02/after-50-years-ars-staffers-pick-their-favorite-saturday-night-live-sketches/" >🔗</a> **[Arstechnica]** After 50 years, Ars staffers pick their favorite Saturday Night Live sketches
+- <a href="https://science.nasa.gov/learning-resources/science-activation/an-afternoon-of-family-science-and-rocket-exploration-in-alaska/" >🔗</a> **[NASA]** An Afternoon of Family Science and Rocket Exploration in Alaska
 - <a href="https://www.nasa.gov/image-article/a-stellar-bouquet/" >🔗</a> **[NASA]** A Stellar Bouquet
 - <a href="https://spacenews.com/china-invites-bids-for-lunar-satellite-to-support-crewed-moon-landing-missions/" >🔗</a> **[SpaceNews]** China invites bids for lunar satellite to support crewed moon landing missions
 - <a href="https://spacenews.com/improving-spaceport-infrastructure-could-ease-strain-at-cape-canaveral-and-vandenberg/" >🔗</a> **[SpaceNews]** Improving spaceport infrastructure could ease strain at Cape Canaveral and Vandenberg
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_10-14_February_2025" >🔗</a> **[ESA]** Week in images: 10-14 February 2025
 - <a href="https://spacenews.com/the-power-dilemma-energy-access-could-make-or-break-the-space-economy-this-year/" >🔗</a> **[SpaceNews]** The power dilemma: Energy access could make or break the space economy this year
 - <a href="https://europeanspaceflight.com/the-exploration-company-tests-pre-burner-for-high-thrust-rocket-engine/" >🔗</a> **[European Spaceflight]** The Exploration Company Tests Pre-Burner for High-Thrust Rocket Engine
-- <a href="https://spacenews.com/congress-seeks-nasa-authorization-commercial-space-bills/" >🔗</a> **[SpaceNews]** Congress seeks NASA authorization, commercial space bills
-- <a href="https://arstechnica.com/space/2025/02/rocket-report-a-blue-mood-at-blue-stoke-space-fires-a-short-over-the-bow/" >🔗</a> **[Arstechnica]** Rocket Report: A blue mood at Blue; Stoke Space fires a short over the bow
-- <a href="https://science.nasa.gov/missions/hubble/hubble-captures-a-cosmic-cloudscape/" >🔗</a> **[NASA]** Hubble Captures a Cosmic Cloudscape
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250214T190108">2025-02-14 19:01:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250214T193111">2025-02-14 19:31:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
