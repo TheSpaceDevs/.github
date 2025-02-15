@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/blue-ghost-1-enters-lunar-orbit-as-resilience-flies-by-the-moon/" >🔗</a> **[SpaceNews]** Blue Ghost 1 enters lunar orbit as Resilience flies by the moon
 - <a href="https://spacenews.com/u-s-space-force-awards-firefly-21-8-million-contract-for-rapid-response-launch-mission/" >🔗</a> **[SpaceNews]** U.S. Space Force awards Firefly $21.8 million contract for rapid-response launch mission
 - <a href="https://spacenews.com/eutelsat-adapts-geo-strategy-as-starlink-reshapes-satellite-connectivity/" >🔗</a> **[SpaceNews]** Eutelsat adapts GEO strategy as Starlink reshapes satellite connectivity
 - <a href="https://spaceflightnow.com/2025/02/14/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-11/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket from Cape Canaveral
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-of-fireflys-first-robotic-commercial-moon-landing/" >🔗</a> **[NASA]** NASA Sets Coverage of Firefly’s First Robotic Commercial Moon Landing
 - <a href="https://arstechnica.com/features/2025/02/after-50-years-ars-staffers-pick-their-favorite-saturday-night-live-sketches/" >🔗</a> **[Arstechnica]** After 50 years, Ars staffers pick their favorite Saturday Night Live sketches
 - <a href="https://science.nasa.gov/learning-resources/science-activation/an-afternoon-of-family-science-and-rocket-exploration-in-alaska/" >🔗</a> **[NASA]** An Afternoon of Family Science and Rocket Exploration in Alaska
-- <a href="https://www.nasa.gov/image-article/a-stellar-bouquet/" >🔗</a> **[NASA]** A Stellar Bouquet
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250215T143108">2025-02-15 14:31:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250215T150117">2025-02-15 15:01:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
