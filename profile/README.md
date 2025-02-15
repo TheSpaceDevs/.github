@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/eutelsat-adapts-geo-strategy-as-starlink-reshapes-satellite-connectivity/" >🔗</a> **[SpaceNews]** Eutelsat adapts GEO strategy as Starlink reshapes satellite connectivity
 - <a href="https://spaceflightnow.com/2025/02/14/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-11/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://www.nasa.gov/image-article/nasa-inspires-high-school-engineering-club/" >🔗</a> **[NASA]** NASA Inspires High School Engineering Club
 - <a href="https://www.nasa.gov/general/2024-state-of-the-art-small-spacecraft-technology-report-is-released/" >🔗</a> **[NASA]** 2024 State-of-the-Art Small Spacecraft Technology Report is Released
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/learning-resources/science-activation/an-afternoon-of-family-science-and-rocket-exploration-in-alaska/" >🔗</a> **[NASA]** An Afternoon of Family Science and Rocket Exploration in Alaska
 - <a href="https://www.nasa.gov/image-article/a-stellar-bouquet/" >🔗</a> **[NASA]** A Stellar Bouquet
 - <a href="https://spacenews.com/china-invites-bids-for-lunar-satellite-to-support-crewed-moon-landing-missions/" >🔗</a> **[SpaceNews]** China invites bids for lunar satellite to support crewed moon landing missions
-- <a href="https://spacenews.com/improving-spaceport-infrastructure-could-ease-strain-at-cape-canaveral-and-vandenberg/" >🔗</a> **[SpaceNews]** Improving spaceport infrastructure could ease strain at Cape Canaveral and Vandenberg
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250214T233105">2025-02-14 23:31:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250215T000416">2025-02-15 00:04:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
