@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/02/ngc-6505-einstein-ring/" >🔗</a> **[NASASpaceflight]** Euclid reveals an Einstein ring around a nearby galaxy
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-february-16-22-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy February 16-22, 2025
 - <a href="https://spaceflightnow.com/2025/02/16/fireflys-blue-ghost-lander-arrives-in-lunar-orbit/" >🔗</a> **[Spaceflight Now]** Firefly’s Blue Ghost lander arrives in lunar orbit
 - <a href="https://spacenews.com/ravyn-aims-to-distrupt-missile-sector/" >🔗</a> **[SpaceNews]** Ravyn aims to distrupt missile sector
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/eutelsat-adapts-geo-strategy-as-starlink-reshapes-satellite-connectivity/" >🔗</a> **[SpaceNews]** Eutelsat adapts GEO strategy as Starlink reshapes satellite connectivity
 - <a href="https://spaceflightnow.com/2025/02/14/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-11/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://www.nasa.gov/image-article/nasa-inspires-high-school-engineering-club/" >🔗</a> **[NASA]** NASA Inspires High School Engineering Club
-- <a href="https://www.nasa.gov/general/2024-state-of-the-art-small-spacecraft-technology-report-is-released/" >🔗</a> **[NASA]** 2024 State-of-the-Art Small Spacecraft Technology Report is Released
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250216T220128">2025-02-16 22:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250216T223213">2025-02-16 22:32:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
