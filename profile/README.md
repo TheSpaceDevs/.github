@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/02/16/fireflys-blue-ghost-lander-arrives-in-lunar-orbit/" >🔗</a> **[Spaceflight Now]** Firefly’s Blue Ghost lander arrives in lunar orbit
+- <a href="https://spacenews.com/ravyn-aims-to-distrupt-missile-sector/" >🔗</a> **[SpaceNews]** Ravyn aims to distrupt missile sector
 - <a href="https://spacepolicyonline.com/news/babins-top-priorities-vibrant-commercial-space-sector-americans-back-on-moon/" >🔗</a> **[SpacePolicyOnline.com]** Babin’s Top Priorities: Vibrant Commercial Space Sector, Americans Back on Moon
 - <a href="https://spacenews.com/blue-ghost-1-enters-lunar-orbit-as-resilience-flies-by-the-moon/" >🔗</a> **[SpaceNews]** Blue Ghost 1 enters lunar orbit as Resilience flies by the moon
 - <a href="https://spacenews.com/u-s-space-force-awards-firefly-21-8-million-contract-for-rapid-response-launch-mission/" >🔗</a> **[SpaceNews]** U.S. Space Force awards Firefly $21.8 million contract for rapid-response launch mission
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/nasa-inspires-high-school-engineering-club/" >🔗</a> **[NASA]** NASA Inspires High School Engineering Club
 - <a href="https://www.nasa.gov/general/2024-state-of-the-art-small-spacecraft-technology-report-is-released/" >🔗</a> **[NASA]** 2024 State-of-the-Art Small Spacecraft Technology Report is Released
 - <a href="https://science.nasa.gov/science-research/earth-science/summary-of-the-10th-dscovr-epic-and-nistar-science-team-meeting/" >🔗</a> **[NASA]** Summary of the 10th DSCOVR EPIC and NISTAR Science Team Meeting
-- <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-of-fireflys-first-robotic-commercial-moon-landing/" >🔗</a> **[NASA]** NASA Sets Coverage of Firefly’s First Robotic Commercial Moon Landing
-- <a href="https://arstechnica.com/features/2025/02/after-50-years-ars-staffers-pick-their-favorite-saturday-night-live-sketches/" >🔗</a> **[Arstechnica]** After 50 years, Ars staffers pick their favorite Saturday Night Live sketches
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250216T140133">2025-02-16 14:01:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250216T143137">2025-02-16 14:31:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
