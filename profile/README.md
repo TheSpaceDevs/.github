@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/esa-astronaut-with-physical-disability-medically-cleared-for-iss-missions/" >🔗</a> **[SpaceNews]** ESA astronaut with physical disability medically cleared for ISS missions
 - <a href="https://www.nasaspaceflight.com/2025/02/ngc-6505-einstein-ring/" >🔗</a> **[NASASpaceflight]** Euclid reveals an Einstein ring around a nearby galaxy
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-february-16-22-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy February 16-22, 2025
 - <a href="https://spaceflightnow.com/2025/02/16/fireflys-blue-ghost-lander-arrives-in-lunar-orbit/" >🔗</a> **[Spaceflight Now]** Firefly’s Blue Ghost lander arrives in lunar orbit
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/u-s-space-force-awards-firefly-21-8-million-contract-for-rapid-response-launch-mission/" >🔗</a> **[SpaceNews]** U.S. Space Force awards Firefly $21.8 million contract for rapid-response launch mission
 - <a href="https://spacenews.com/eutelsat-adapts-geo-strategy-as-starlink-reshapes-satellite-connectivity/" >🔗</a> **[SpaceNews]** Eutelsat adapts GEO strategy as Starlink reshapes satellite connectivity
 - <a href="https://spaceflightnow.com/2025/02/14/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-11/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket from Cape Canaveral
-- <a href="https://www.nasa.gov/image-article/nasa-inspires-high-school-engineering-club/" >🔗</a> **[NASA]** NASA Inspires High School Engineering Club
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250216T230127">2025-02-16 23:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250216T233110">2025-02-16 23:31:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
