@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blog/sols-4454-4457-getting-ready-to-fill-the-long-weekend-with-science/" >🔗</a> **[NASA]** Sols 4454-4457: Getting Ready to Fill the Long Weekend with Science
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/02/The_pierogi_challenge" >🔗</a> **[ESA]** The pierogi challenge
 - <a href="https://europeanspaceflight.com/orbex-betting-the-farm-on-its-european-launcher-challenge-bid/" >🔗</a> **[European Spaceflight]** Orbex Betting the Farm on Its European Launcher Challenge Bid
 - <a href="https://spacenews.com/esa-astronaut-with-physical-disability-medically-cleared-for-iss-missions/" >🔗</a> **[SpaceNews]** ESA astronaut with physical disability medically cleared for ISS missions
 - <a href="https://www.nasaspaceflight.com/2025/02/ngc-6505-einstein-ring/" >🔗</a> **[NASASpaceflight]** Euclid reveals an Einstein ring around a nearby galaxy
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/ravyn-aims-to-distrupt-missile-sector/" >🔗</a> **[SpaceNews]** Ravyn aims to distrupt missile sector
 - <a href="https://spacepolicyonline.com/news/babins-top-priorities-vibrant-commercial-space-sector-americans-back-on-moon/" >🔗</a> **[SpacePolicyOnline.com]** Babin’s Top Priorities: Vibrant Commercial Space Sector, Americans Back on Moon
 - <a href="https://spacenews.com/blue-ghost-1-enters-lunar-orbit-as-resilience-flies-by-the-moon/" >🔗</a> **[SpaceNews]** Blue Ghost 1 enters lunar orbit as Resilience flies by the moon
-- <a href="https://spacenews.com/u-s-space-force-awards-firefly-21-8-million-contract-for-rapid-response-launch-mission/" >🔗</a> **[SpaceNews]** U.S. Space Force awards Firefly $21.8 million contract for rapid-response launch mission
-- <a href="https://spacenews.com/eutelsat-adapts-geo-strategy-as-starlink-reshapes-satellite-connectivity/" >🔗</a> **[SpaceNews]** Eutelsat adapts GEO strategy as Starlink reshapes satellite connectivity
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250217T080137">2025-02-17 08:01:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250217T083531">2025-02-17 08:35:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
