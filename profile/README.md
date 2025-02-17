@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/public-offerings-take-the-stage-as-the-space-industry-learns-from-the-spac-boom-and-bust/" >🔗</a> **[SpaceNews]** Public offerings take the stage as the space industry learns from the SPAC boom and bust
 - <a href="https://spacenews.com/trumps-iron-dome-order-needs-constructive-debate-to-reach-its-full-potential/" >🔗</a> **[SpaceNews]** Trump’s Iron Dome order needs constructive debate to reach its full potential
 - <a href="https://science.nasa.gov/blog/sols-4454-4457-getting-ready-to-fill-the-long-weekend-with-science/" >🔗</a> **[NASA]** Sols 4454-4457: Getting Ready to Fill the Long Weekend with Science
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/02/The_pierogi_challenge" >🔗</a> **[ESA]** The pierogi challenge
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-february-16-22-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy February 16-22, 2025
 - <a href="https://spaceflightnow.com/2025/02/16/fireflys-blue-ghost-lander-arrives-in-lunar-orbit/" >🔗</a> **[Spaceflight Now]** Firefly’s Blue Ghost lander arrives in lunar orbit
 - <a href="https://spacenews.com/ravyn-aims-to-distrupt-missile-sector/" >🔗</a> **[SpaceNews]** Ravyn aims to distrupt missile sector
-- <a href="https://spacepolicyonline.com/news/babins-top-priorities-vibrant-commercial-space-sector-americans-back-on-moon/" >🔗</a> **[SpacePolicyOnline.com]** Babin’s Top Priorities: Vibrant Commercial Space Sector, Americans Back on Moon
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250217T150128">2025-02-17 15:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250217T153156">2025-02-17 15:31:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
