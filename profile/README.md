@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/trumps-iron-dome-order-needs-constructive-debate-to-reach-its-full-potential/" >🔗</a> **[SpaceNews]** Trump’s Iron Dome order needs constructive debate to reach its full potential
 - <a href="https://science.nasa.gov/blog/sols-4454-4457-getting-ready-to-fill-the-long-weekend-with-science/" >🔗</a> **[NASA]** Sols 4454-4457: Getting Ready to Fill the Long Weekend with Science
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/02/The_pierogi_challenge" >🔗</a> **[ESA]** The pierogi challenge
 - <a href="https://europeanspaceflight.com/orbex-betting-the-farm-on-its-european-launcher-challenge-bid/" >🔗</a> **[European Spaceflight]** Orbex Betting the Farm on Its European Launcher Challenge Bid
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/02/16/fireflys-blue-ghost-lander-arrives-in-lunar-orbit/" >🔗</a> **[Spaceflight Now]** Firefly’s Blue Ghost lander arrives in lunar orbit
 - <a href="https://spacenews.com/ravyn-aims-to-distrupt-missile-sector/" >🔗</a> **[SpaceNews]** Ravyn aims to distrupt missile sector
 - <a href="https://spacepolicyonline.com/news/babins-top-priorities-vibrant-commercial-space-sector-americans-back-on-moon/" >🔗</a> **[SpacePolicyOnline.com]** Babin’s Top Priorities: Vibrant Commercial Space Sector, Americans Back on Moon
-- <a href="https://spacenews.com/blue-ghost-1-enters-lunar-orbit-as-resilience-flies-by-the-moon/" >🔗</a> **[SpaceNews]** Blue Ghost 1 enters lunar orbit as Resilience flies by the moon
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250217T140122">2025-02-17 14:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250217T143343">2025-02-17 14:33:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
