@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/02/17/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-7/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX Falcon 9 launch to feature first landing attempt in The Bahamas
 - <a href="https://spacenews.com/spacex-invited-to-provide-input-on-faa-air-traffic-control-modernization/" >🔗</a> **[SpaceNews]** SpaceX invited to provide input on FAA air traffic control modernization
 - <a href="https://spacenews.com/aac-starts-work-on-maritime-domain-awareness-constellation/" >🔗</a> **[SpaceNews]** AAC starts work on maritime domain awareness constellation
 - <a href="https://www.nasaspaceflight.com/2025/02/launch-roundup-021725/" >🔗</a> **[NASASpaceflight]** Launch Roundup – Falcon 9 targets first Booster Landing in the Bahamas
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/eu-sets-ambitious-goals-for-in-space-operations-and-services/" >🔗</a> **[SpaceNews]** Protected: EU Sets Ambitious Goals for In-Space Operations and Services
 - <a href="https://science.nasa.gov/blog/sols-4454-4457-getting-ready-to-fill-the-long-weekend-with-science/" >🔗</a> **[NASA]** Sols 4454-4457: Getting Ready to Fill the Long Weekend with Science
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/02/The_pierogi_challenge" >🔗</a> **[ESA]** The pierogi challenge
-- <a href="https://europeanspaceflight.com/orbex-betting-the-farm-on-its-european-launcher-challenge-bid/" >🔗</a> **[European Spaceflight]** Orbex Betting the Farm on Its European Launcher Challenge Bid
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250217T193104">2025-02-17 19:31:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250217T200137">2025-02-17 20:01:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
