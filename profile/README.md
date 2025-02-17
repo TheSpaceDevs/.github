@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/aac-starts-work-on-maritime-domain-awareness-constellation/" >🔗</a> **[SpaceNews]** AAC starts work on maritime domain awareness constellation
 - <a href="https://arstechnica.com/space/2025/02/nasa-nominee-previews-his-vision-for-the-agency-mars-hard-work-inspiration/" >🔗</a> **[Arstechnica]** NASA nominee previews his vision for the agency: Mars, hard work, inspiration
 - <a href="https://spacenews.com/public-offerings-take-the-stage-as-the-space-industry-learns-from-the-spac-boom-and-bust/" >🔗</a> **[SpaceNews]** Public offerings take the stage as the space industry learns from the SPAC boom and bust
 - <a href="https://spacenews.com/trumps-iron-dome-order-needs-constructive-debate-to-reach-its-full-potential/" >🔗</a> **[SpaceNews]** Trump’s Iron Dome order needs constructive debate to reach its full potential
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/orbex-betting-the-farm-on-its-european-launcher-challenge-bid/" >🔗</a> **[European Spaceflight]** Orbex Betting the Farm on Its European Launcher Challenge Bid
 - <a href="https://spacenews.com/esa-astronaut-with-physical-disability-medically-cleared-for-iss-missions/" >🔗</a> **[SpaceNews]** ESA astronaut with physical disability medically cleared for ISS missions
 - <a href="https://www.nasaspaceflight.com/2025/02/ngc-6505-einstein-ring/" >🔗</a> **[NASASpaceflight]** Euclid reveals an Einstein ring around a nearby galaxy
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-february-16-22-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy February 16-22, 2025
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250217T170120">2025-02-17 17:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250217T173154">2025-02-17 17:31:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
