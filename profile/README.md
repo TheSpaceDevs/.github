@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blog/cookies-cream-and-crumbling-cores/" >🔗</a> **[NASA]** Cookies, Cream, and Crumbling Cores
 - <a href="https://spacenews.com/ursa-major-eyes-iron-dome-applications-for-its-mid-size-rocket-engine/" >🔗</a> **[SpaceNews]** Ursa Major eyes ‘Iron Dome’ applications for its mid-size rocket engine
 - <a href="https://spaceflightnow.com/2025/02/17/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-7/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX Falcon 9 launch to feature first landing attempt in The Bahamas
 - <a href="https://spacenews.com/spacex-invited-to-provide-input-on-faa-air-traffic-control-modernization/" >🔗</a> **[SpaceNews]** SpaceX invited to provide input on FAA air traffic control modernization
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/public-offerings-take-the-stage-as-the-space-industry-learns-from-the-spac-boom-and-bust/" >🔗</a> **[SpaceNews]** Public offerings take the stage as the space industry learns from the SPAC boom and bust
 - <a href="https://spacenews.com/trumps-iron-dome-order-needs-constructive-debate-to-reach-its-full-potential/" >🔗</a> **[SpaceNews]** Trump’s Iron Dome order needs constructive debate to reach its full potential
 - <a href="https://spacenews.com/eu-sets-ambitious-goals-for-in-space-operations-and-services/" >🔗</a> **[SpaceNews]** Protected: EU Sets Ambitious Goals for In-Space Operations and Services
-- <a href="https://science.nasa.gov/blog/sols-4454-4457-getting-ready-to-fill-the-long-weekend-with-science/" >🔗</a> **[NASA]** Sols 4454-4457: Getting Ready to Fill the Long Weekend with Science
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250217T210123">2025-02-17 21:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250217T213103">2025-02-17 21:31:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
