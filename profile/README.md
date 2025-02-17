@@ -91,7 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacex-invited-to-provide-input-on-faa-air-traffic-control-modernization/" >🔗</a> **[SpaceNews]** SpaceX invited to provide input on FAA air traffic control modernization
 - <a href="https://spacenews.com/aac-starts-work-on-maritime-domain-awareness-constellation/" >🔗</a> **[SpaceNews]** AAC starts work on maritime domain awareness constellation
+- <a href="https://www.nasaspaceflight.com/2025/02/launch-roundup-021725/" >🔗</a> **[NASASpaceflight]** Launch Roundup – Falcon 9 targets first Booster Landing in the Bahamas
 - <a href="https://arstechnica.com/space/2025/02/nasa-nominee-previews-his-vision-for-the-agency-mars-hard-work-inspiration/" >🔗</a> **[Arstechnica]** NASA nominee previews his vision for the agency: Mars, hard work, inspiration
 - <a href="https://spacenews.com/public-offerings-take-the-stage-as-the-space-industry-learns-from-the-spac-boom-and-bust/" >🔗</a> **[SpaceNews]** Public offerings take the stage as the space industry learns from the SPAC boom and bust
 - <a href="https://spacenews.com/trumps-iron-dome-order-needs-constructive-debate-to-reach-its-full-potential/" >🔗</a> **[SpaceNews]** Trump’s Iron Dome order needs constructive debate to reach its full potential
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/blog/sols-4454-4457-getting-ready-to-fill-the-long-weekend-with-science/" >🔗</a> **[NASA]** Sols 4454-4457: Getting Ready to Fill the Long Weekend with Science
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/02/The_pierogi_challenge" >🔗</a> **[ESA]** The pierogi challenge
 - <a href="https://europeanspaceflight.com/orbex-betting-the-farm-on-its-european-launcher-challenge-bid/" >🔗</a> **[European Spaceflight]** Orbex Betting the Farm on Its European Launcher Challenge Bid
-- <a href="https://spacenews.com/esa-astronaut-with-physical-disability-medically-cleared-for-iss-missions/" >🔗</a> **[SpaceNews]** ESA astronaut with physical disability medically cleared for ISS missions
-- <a href="https://www.nasaspaceflight.com/2025/02/ngc-6505-einstein-ring/" >🔗</a> **[NASASpaceflight]** Euclid reveals an Einstein ring around a nearby galaxy
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250217T180128">2025-02-17 18:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250217T183536">2025-02-17 18:35:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
