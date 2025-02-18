@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-sets-launch-coverage-for-missions-studying-cosmic-origins-sun/" >🔗</a> **[NASA]** NASA Sets Launch Coverage for Missions Studying Cosmic Origins, Sun
 - <a href="https://tlpnetwork.com/news/america/send-your-name-to-the-moon-falcon-heavy-to-launch-lunex-1-aboard-griffin-lunar-lander" >🔗</a> **[The Launch Pad]** Send Your Name to the Moon! Falcon Heavy to Launch LunEx-1 aboard Griffin Lunar Lander
 - <a href="https://www.nasa.gov/general/past-annual-highlights-of-results-from-the-international-space-station-publications-2/" >🔗</a> **[NASA]** Past Annual Highlights of Results from the International Space Station Publications
 - <a href="https://www.nasa.gov/general/annual-highlights-of-results-2024-key-takeaways-introduction-and-bibliometric-analyses/" >🔗</a> **[NASA]** Annual Highlights of Results 2024: Key Takeaways, Introduction, and Bibliometric Analyses
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/general/station-science-top-news-feb-14-2025/" >🔗</a> **[NASA]** Station Science Top News: Feb. 14, 2025
 - <a href="https://arstechnica.com/space/2025/02/by-the-end-of-today-nasas-workforce-will-be-about-10-percent-smaller/" >🔗</a> **[Arstechnica]** By the end of today, NASA’s workforce will be about 10 percent smaller
 - <a href="https://spacenews.com/frontgrade-qualifies-industrys-first-class-l-gan-dc-dc-converter-and-emi-filter/" >🔗</a> **[SpaceNews]** Frontgrade Qualifies Industry’s First Class L GaN DC-DC Converter and EMI Filter
-- <a href="https://europeanspaceflight.com/italys-cubesat-mission-to-a-martian-moon-enters-phase-b-development/" >🔗</a> **[European Spaceflight]** Italy’s CubeSat Mission to a Martian Moon Enters Phase B Development
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250218T180136">2025-02-18 18:01:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250218T183623">2025-02-18 18:36:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
