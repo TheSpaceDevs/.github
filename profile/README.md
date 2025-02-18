@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/our-pale-blue-dot/" >🔗</a> **[NASA]** Our Pale Blue Dot
+- <a href="https://spacenews.com/rubicon-wins-nasa-contract-to-develop-large-ascent-thruster/" >🔗</a> **[SpaceNews]** Rubicon wins NASA contract to develop large ASCENT thruster
+- <a href="https://science.nasa.gov/directorates/smd/nasa-science-being-responsive-to-executive-orders/" >🔗</a> **[NASA]** NASA Science: Being Responsive to Executive Orders
 - <a href="https://www.nasa.gov/news-release/nasa-sets-launch-coverage-for-missions-studying-cosmic-origins-sun/" >🔗</a> **[NASA]** NASA Sets Launch Coverage for Missions Studying Cosmic Origins, Sun
 - <a href="https://tlpnetwork.com/news/america/send-your-name-to-the-moon-falcon-heavy-to-launch-lunex-1-aboard-griffin-lunar-lander" >🔗</a> **[The Launch Pad]** Send Your Name to the Moon! Falcon Heavy to Launch LunEx-1 aboard Griffin Lunar Lander
 - <a href="https://www.nasa.gov/general/past-annual-highlights-of-results-from-the-international-space-station-publications-2/" >🔗</a> **[NASA]** Past Annual Highlights of Results from the International Space Station Publications
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/general/2024-annual-highlights-of-results-from-the-international-space-station-science/" >🔗</a> **[NASA]** 2024 Annual Highlights of Results from the International Space Station Science
 - <a href="https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/ultra-low-noise-infrared-detectors-for-exoplanet-imaging/" >🔗</a> **[NASA]** Ultra-low-noise Infrared Detectors for Exoplanet Imaging
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Einstein_Probe_catches_X-ray_odd_couple" >🔗</a> **[ESA]** Einstein Probe catches X-ray odd couple
-- <a href="https://www.nasa.gov/general/station-science-top-news-feb-14-2025/" >🔗</a> **[NASA]** Station Science Top News: Feb. 14, 2025
-- <a href="https://arstechnica.com/space/2025/02/by-the-end-of-today-nasas-workforce-will-be-about-10-percent-smaller/" >🔗</a> **[Arstechnica]** By the end of today, NASA’s workforce will be about 10 percent smaller
-- <a href="https://spacenews.com/frontgrade-qualifies-industrys-first-class-l-gan-dc-dc-converter-and-emi-filter/" >🔗</a> **[SpaceNews]** Frontgrade Qualifies Industry’s First Class L GaN DC-DC Converter and EMI Filter
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250218T190130">2025-02-18 19:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250218T193107">2025-02-18 19:31:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
