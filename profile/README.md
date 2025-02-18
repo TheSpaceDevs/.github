@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/past-annual-highlights-of-results-from-the-international-space-station-publications-2/" >🔗</a> **[NASA]** Past Annual Highlights of Results from the International Space Station Publications
+- <a href="https://www.nasa.gov/general/annual-highlights-of-results-2024-key-takeaways-introduction-and-bibliometric-analyses/" >🔗</a> **[NASA]** Annual Highlights of Results 2024: Key Takeaways, Introduction, and Bibliometric Analyses
+- <a href="https://www.nasa.gov/general/2024-annual-highlights-of-results-from-the-international-space-station-science/" >🔗</a> **[NASA]** 2024 Annual Highlights of Results from the International Space Station Science
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Einstein_Probe_catches_X-ray_odd_couple" >🔗</a> **[ESA]** Einstein Probe catches X-ray odd couple
+- <a href="https://www.nasa.gov/general/station-science-top-news-feb-14-2025/" >🔗</a> **[NASA]** Station Science Top News: Feb. 14, 2025
+- <a href="https://arstechnica.com/space/2025/02/by-the-end-of-today-nasas-workforce-will-be-about-10-percent-smaller/" >🔗</a> **[Arstechnica]** By the end of today, NASA’s workforce will be about 10 percent smaller
 - <a href="https://spacenews.com/frontgrade-qualifies-industrys-first-class-l-gan-dc-dc-converter-and-emi-filter/" >🔗</a> **[SpaceNews]** Frontgrade Qualifies Industry’s First Class L GaN DC-DC Converter and EMI Filter
 - <a href="https://europeanspaceflight.com/italys-cubesat-mission-to-a-martian-moon-enters-phase-b-development/" >🔗</a> **[European Spaceflight]** Italy’s CubeSat Mission to a Martian Moon Enters Phase B Development
 - <a href="https://www.nasa.gov/learning-resources/what-is-an-engineer-grades-k-4/" >🔗</a> **[NASA]** What is an Engineer? (Grades K-4)
 - <a href="https://spacenews.com/light-this-candle/" >🔗</a> **[SpaceNews]** “…Light this candle!”
-- <a href="https://spacenews.com/legislative-recommendations-for-the-119th-congress-to-advance-non-governmental-space/" >🔗</a> **[SpaceNews]** Legislative recommendations for the 119th Congress to advance non-governmental space
-- <a href="https://spacenews.com/software-beyond-the-screen-with-sunil-nagaraj/" >🔗</a> **[SpaceNews]** Software Beyond the Screen with Sunil Nagaraj
-- <a href="https://spacenews.com/united-states-and-india-to-expand-collaboration-in-space-innovation/" >🔗</a> **[SpaceNews]** United States and India to expand collaboration in space innovation
-- <a href="https://tlpnetwork.com/news/america/nasa-to-continue-use-of-artemis-crew-transporation-fleet-after-canoo-bankruptcy-and-closure" >🔗</a> **[The Launch Pad]** NASA To Continue Use Of Artemis Crew Transporation Fleet After Canoo Bankruptcy And Closure
-- <a href="https://tlpnetwork.com/news/in-space/esa-solar-orbiter-to-perform-closest-ever-flyby-of-venus-today" >🔗</a> **[The Launch Pad]** ESA’s Solar Orbiter To Perform Closest Ever Flyby of Venus Today!
-- <a href="https://tlpnetwork.com/news/america/fcc-to-review-c-band-use-in-high-stakes-fight-over-5g-and-satellites" >🔗</a> **[The Launch Pad]** SpaceX vs. Telecoms: FCC To Review C-Band Use In High-Stakes Fight Over 5G and Satellites
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250218T150132">2025-02-18 15:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250218T153325">2025-02-18 15:33:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
