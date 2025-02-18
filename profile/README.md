@@ -91,7 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ses-defends-financial-outlook-after-moodys-downgrade/" >🔗</a> **[SpaceNews]** SES defends financial outlook after Moody’s downgrade
 - <a href="https://www.nasa.gov/image-article/our-pale-blue-dot/" >🔗</a> **[NASA]** Our Pale Blue Dot
+- <a href="https://www.nasaspaceflight.com/2025/02/gem-63xl-test-fire/" >🔗</a> **[NASASpaceflight]** GEM-63XL motor test fired at Promontory as part of Vulcan Cert-2 investigation
 - <a href="https://spacenews.com/rubicon-wins-nasa-contract-to-develop-large-ascent-thruster/" >🔗</a> **[SpaceNews]** Rubicon wins NASA contract to develop large ASCENT thruster
 - <a href="https://science.nasa.gov/directorates/smd/nasa-science-being-responsive-to-executive-orders/" >🔗</a> **[NASA]** NASA Science: Being Responsive to Executive Orders
 - <a href="https://www.nasa.gov/news-release/nasa-sets-launch-coverage-for-missions-studying-cosmic-origins-sun/" >🔗</a> **[NASA]** NASA Sets Launch Coverage for Missions Studying Cosmic Origins, Sun
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/general/past-annual-highlights-of-results-from-the-international-space-station-publications-2/" >🔗</a> **[NASA]** Past Annual Highlights of Results from the International Space Station Publications
 - <a href="https://www.nasa.gov/general/annual-highlights-of-results-2024-key-takeaways-introduction-and-bibliometric-analyses/" >🔗</a> **[NASA]** Annual Highlights of Results 2024: Key Takeaways, Introduction, and Bibliometric Analyses
 - <a href="https://www.nasa.gov/general/2024-annual-highlights-of-results-from-the-international-space-station-science/" >🔗</a> **[NASA]** 2024 Annual Highlights of Results from the International Space Station Science
-- <a href="https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/ultra-low-noise-infrared-detectors-for-exoplanet-imaging/" >🔗</a> **[NASA]** Ultra-low-noise Infrared Detectors for Exoplanet Imaging
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Einstein_Probe_catches_X-ray_odd_couple" >🔗</a> **[ESA]** Einstein Probe catches X-ray odd couple
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250218T193107">2025-02-18 19:31:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250218T200128">2025-02-18 20:01:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
