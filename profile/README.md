@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/beijing-district-moves-to-boost-commercial-space-development-reveals-ambitious-launch-targets/" >🔗</a> **[SpaceNews]** Beijing district moves to boost commercial space development, reveals ambitious launch targets
+- <a href="https://tlpnetwork.com/news/policy-and-finance/redwire-secures-contract-for-us-space-force-orbital-refueling-experiment" >🔗</a> **[The Launch Pad]** Redwire Secures Contract for U.S. Space Force Orbital Refueling Experiment
 - <a href="https://tlpnetwork.com/news/policy-and-finance/k2-space-secures-110-million-in-series-b-to-accelerate-mega-satellite-production" >🔗</a> **[The Launch Pad]** K2 Space Secures $110 Million in Series B to Accelerate Mega Satellite Production
 - <a href="https://tlpnetwork.com/news/policy-and-finance/firefly-aerospace-secures-218-million-us-space-force-contract-for-rapid-response-launch" >🔗</a> **[The Launch Pad]** Firefly Aerospace Secures $21.8 Million U.S. Space Force Contract for Rapid-Response Launch
 - <a href="https://tlpnetwork.com/news/europe/esa-certifies-first-astronaut-with-physical-disability-john-mcfall-go-for-iss-mission" >🔗</a> **[The Launch Pad]** ESA Certifies First Astronaut with Physical Disability; John McFall; "GO" for ISS Mission
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/ursa-major-eyes-iron-dome-applications-for-its-mid-size-rocket-engine/" >🔗</a> **[SpaceNews]** Ursa Major eyes ‘Iron Dome’ applications for its mid-size rocket engine
 - <a href="https://spaceflightnow.com/2025/02/17/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-7/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX Falcon 9 launch to feature first landing attempt in The Bahamas
 - <a href="https://spacenews.com/spacex-invited-to-provide-input-on-faa-air-traffic-control-modernization/" >🔗</a> **[SpaceNews]** SpaceX invited to provide input on FAA air traffic control modernization
-- <a href="https://spacenews.com/aac-starts-work-on-maritime-domain-awareness-constellation/" >🔗</a> **[SpaceNews]** AAC starts work on maritime domain awareness constellation
-- <a href="https://www.nasaspaceflight.com/2025/02/launch-roundup-021725/" >🔗</a> **[NASASpaceflight]** Launch Roundup – Falcon 9 targets first Booster Landing in the Bahamas
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250218T113107">2025-02-18 11:31:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250218T120139">2025-02-18 12:01:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
