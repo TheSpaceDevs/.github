@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/02/18/rocket-lab-to-launch-blacksky-gen-3-satellite-on-60th-electron-flight/" >🔗</a> **[Spaceflight Now]** Rocket Lab to launch BlackSky Gen-3 satellite on 60th Electron flight
 - <a href="https://www.nasa.gov/news-release/nasa-sets-briefings-for-next-international-space-station-crew-missions-2/" >🔗</a> **[NASA]** NASA Sets Briefings for Next International Space Station Crew Missions
 - <a href="https://spacenews.com/ses-defends-financial-outlook-after-moodys-downgrade/" >🔗</a> **[SpaceNews]** SES defends financial outlook after Moody’s downgrade
 - <a href="https://science.nasa.gov/learning-resources/science-activation/eclipses-to-auroras-eclipse-ambassadors-experience-winter-field-school-in-alaska/" >🔗</a> **[NASA]** Eclipses to Auroras: Eclipse Ambassadors Experience Winter Field School in Alaska
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/directorates/smd/nasa-science-being-responsive-to-executive-orders/" >🔗</a> **[NASA]** NASA Science: Being Responsive to Executive Orders
 - <a href="https://www.nasa.gov/news-release/nasa-sets-launch-coverage-for-missions-studying-cosmic-origins-sun/" >🔗</a> **[NASA]** NASA Sets Launch Coverage for Missions Studying Cosmic Origins, Sun
 - <a href="https://tlpnetwork.com/news/america/send-your-name-to-the-moon-falcon-heavy-to-launch-lunex-1-aboard-griffin-lunar-lander" >🔗</a> **[The Launch Pad]** Send Your Name to the Moon! Falcon Heavy to Launch LunEx-1 aboard Griffin Lunar Lander
-- <a href="https://www.nasa.gov/general/past-annual-highlights-of-results-from-the-international-space-station-publications-2/" >🔗</a> **[NASA]** Past Annual Highlights of Results from the International Space Station Publications
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250218T220126">2025-02-18 22:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250218T223313">2025-02-18 22:33:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
