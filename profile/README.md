@@ -91,7 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/software-beyond-the-screen-with-sunil-nagaraj/" >🔗</a> **[SpaceNews]** Software Beyond the Screen with Sunil Nagaraj
 - <a href="https://spacenews.com/united-states-and-india-to-expand-collaboration-in-space-innovation/" >🔗</a> **[SpaceNews]** United States and India to expand collaboration in space innovation
+- <a href="https://tlpnetwork.com/news/america/nasa-to-continue-use-of-artemis-crew-transporation-fleet-after-canoo-bankruptcy-and-closure" >🔗</a> **[The Launch Pad]** NASA To Continue Use Of Artemis Crew Transporation Fleet After Canoo Bankruptcy And Closure
 - <a href="https://tlpnetwork.com/news/in-space/esa-solar-orbiter-to-perform-closest-ever-flyby-of-venus-today" >🔗</a> **[The Launch Pad]** ESA’s Solar Orbiter To Perform Closest Ever Flyby of Venus Today!
 - <a href="https://tlpnetwork.com/news/america/fcc-to-review-c-band-use-in-high-stakes-fight-over-5g-and-satellites" >🔗</a> **[The Launch Pad]** SpaceX vs. Telecoms: FCC To Review C-Band Use In High-Stakes Fight Over 5G and Satellites
 - <a href="https://spacenews.com/beijing-district-moves-to-boost-commercial-space-development-reveals-ambitious-launch-targets/" >🔗</a> **[SpaceNews]** Beijing district moves to boost commercial space development, reveals ambitious launch targets
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/policy-and-finance/k2-space-secures-110-million-in-series-b-to-accelerate-mega-satellite-production" >🔗</a> **[The Launch Pad]** K2 Space Secures $110 Million in Series B to Accelerate Mega Satellite Production
 - <a href="https://tlpnetwork.com/news/policy-and-finance/firefly-aerospace-secures-218-million-us-space-force-contract-for-rapid-response-launch" >🔗</a> **[The Launch Pad]** Firefly Aerospace Secures $21.8 Million U.S. Space Force Contract for Rapid-Response Launch
 - <a href="https://tlpnetwork.com/news/europe/esa-certifies-first-astronaut-with-physical-disability-john-mcfall-go-for-iss-mission" >🔗</a> **[The Launch Pad]** ESA Certifies First Astronaut with Physical Disability; John McFall; "GO" for ISS Mission
-- <a href="https://www.esa.int/Enabling_Support/Operations/Solar_Orbiter_ready_for_close_encounter_with_Venus" >🔗</a> **[ESA]** Solar Orbiter ready for close encounter with Venus
-- <a href="https://science.nasa.gov/blog/cookies-cream-and-crumbling-cores/" >🔗</a> **[NASA]** Cookies, Cream, and Crumbling Cores
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250218T130519">2025-02-18 13:05:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250218T133323">2025-02-18 13:33:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
