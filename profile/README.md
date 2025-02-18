@@ -105,12 +105,13 @@ into *a Low Earth Orbit
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2025/02/launch-roundup-021725/" >🔗</a> **[NASASpaceflight]** Launch Roundup – Falcon 9 targets first Booster Landing in the Bahamas
 - <a href="https://spacenews.com/blacksky-to-launch-next-gen-imaging-satellite-as-it-seeks-market-edge/" >🔗</a> **[SpaceNews]** BlackSky to launch next-gen imaging satellite as it seeks market edge
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250218T073100">2025-02-18 07:31:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250218T080137">2025-02-18 08:01:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
