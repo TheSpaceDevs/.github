@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/united-states-and-india-to-expand-collaboration-in-space-innovation/" >🔗</a> **[SpaceNews]** United States and India to expand collaboration in space innovation
+- <a href="https://tlpnetwork.com/news/in-space/esa-solar-orbiter-to-perform-closest-ever-flyby-of-venus-today" >🔗</a> **[The Launch Pad]** ESA’s Solar Orbiter To Perform Closest Ever Flyby of Venus Today!
+- <a href="https://tlpnetwork.com/news/america/fcc-to-review-c-band-use-in-high-stakes-fight-over-5g-and-satellites" >🔗</a> **[The Launch Pad]** SpaceX vs. Telecoms: FCC To Review C-Band Use In High-Stakes Fight Over 5G and Satellites
 - <a href="https://spacenews.com/beijing-district-moves-to-boost-commercial-space-development-reveals-ambitious-launch-targets/" >🔗</a> **[SpaceNews]** Beijing district moves to boost commercial space development, reveals ambitious launch targets
 - <a href="https://tlpnetwork.com/news/policy-and-finance/redwire-secures-contract-for-us-space-force-orbital-refueling-experiment" >🔗</a> **[The Launch Pad]** Redwire Secures Contract for U.S. Space Force Orbital Refueling Experiment
 - <a href="https://tlpnetwork.com/news/policy-and-finance/k2-space-secures-110-million-in-series-b-to-accelerate-mega-satellite-production" >🔗</a> **[The Launch Pad]** K2 Space Secures $110 Million in Series B to Accelerate Mega Satellite Production
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/europe/esa-certifies-first-astronaut-with-physical-disability-john-mcfall-go-for-iss-mission" >🔗</a> **[The Launch Pad]** ESA Certifies First Astronaut with Physical Disability; John McFall; "GO" for ISS Mission
 - <a href="https://www.esa.int/Enabling_Support/Operations/Solar_Orbiter_ready_for_close_encounter_with_Venus" >🔗</a> **[ESA]** Solar Orbiter ready for close encounter with Venus
 - <a href="https://science.nasa.gov/blog/cookies-cream-and-crumbling-cores/" >🔗</a> **[NASA]** Cookies, Cream, and Crumbling Cores
-- <a href="https://spacenews.com/ursa-major-eyes-iron-dome-applications-for-its-mid-size-rocket-engine/" >🔗</a> **[SpaceNews]** Ursa Major eyes ‘Iron Dome’ applications for its mid-size rocket engine
-- <a href="https://spaceflightnow.com/2025/02/17/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-7/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX Falcon 9 launch to feature first landing attempt in The Bahamas
-- <a href="https://spacenews.com/spacex-invited-to-provide-input-on-faa-air-traffic-control-modernization/" >🔗</a> **[SpaceNews]** SpaceX invited to provide input on FAA air traffic control modernization
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250218T120139">2025-02-18 12:01:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250218T124254">2025-02-18 12:42:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
