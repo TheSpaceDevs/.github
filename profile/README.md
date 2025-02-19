@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/CryoSat/Glacier_melt_intensifying_freshwater_loss_and_accelerating_sea-level_rise" >🔗</a> **[ESA]** Glacier melt intensifying freshwater loss and accelerating sea-level rise
 - <a href="https://tlpnetwork.com/news/europe/unlocking-the-11-billion-in-orbit-market-isam-conference-heading-to-belfast-this-june" >🔗</a> **[The Launch Pad]** Unlocking the £11 Billion In Orbit Market; ISAM Conference Heading To Belfast This June
 - <a href="https://arstechnica.com/space/2025/02/the-odds-of-a-city-killer-asteroid-impact-in-2032-keep-rising-should-we-be-worried/" >🔗</a> **[Arstechnica]** The odds of a city-killer asteroid impact in 2032 keep rising. Should we be worried?
 - <a href="https://tlpnetwork.com/news/america/nasa-avoids-sweeping-federal-workforce-reductions-for-now-but-future-layoffs-expected" >🔗</a> **[The Launch Pad]** NASA Avoids Sweeping Federal Workforce Reductions For Now, But Future Layoffs Expected
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/solar-system/how-long-does-it-take-to-get-to-the-moon-mars-jupiter-we-asked-a-nasa-expert-episode-51/" >🔗</a> **[NASA]** How Long Does it Take to Get to the Moon… Mars… Jupiter? We Asked a NASA Expert: Episode 51
 - <a href="https://spacenews.com/nasa-layoffs-on-hold-for-now/" >🔗</a> **[SpaceNews]** NASA layoffs on hold, for now
 - <a href="https://tlpnetwork.com/news/america/first-of-24-new-rs-25-engines-ready-for-testing-at-nasa-stennis" >🔗</a> **[The Launch Pad]** First of 24 New RS-25 Engines Ready For Testing at NASA Stennis
-- <a href="https://tlpnetwork.com/news/america/blue-origin-announces-crew-for-10th-new-shepard-crew-mission" >🔗</a> **[The Launch Pad]** Blue Origin Announces Crew for 10th New Shepard Crew Mission
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250219T170122">2025-02-19 17:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250219T173238">2025-02-19 17:32:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
