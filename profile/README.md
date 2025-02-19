@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/defense-executives-demand-clarity-on-space-agencies-missions/" >🔗</a> **[SpaceNews]** Defense executives demand clarity on space agencies’ missions
 - <a href="https://www.nasa.gov/general/in-the-starlight-portia-keyes-procures-mission-critical-support/" >🔗</a> **[NASA]** In the Starlight: Portia Keyes Procures Mission-Critical Support
 - <a href="https://www.nasaspaceflight.com/2025/02/sen-interview/" >🔗</a> **[NASASpaceflight]** Sen: capturing Earth’s beauty from space in 4K
 - <a href="https://spacenews.com/oq-technology-gets-eu-funds-to-accelerate-direct-to-smartphone-efforts/" >🔗</a> **[SpaceNews]** OQ Technology gets EU funds to accelerate direct-to-smartphone efforts
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/CryoSat/Glacier_melt_intensifying_freshwater_loss_and_accelerating_sea-level_rise" >🔗</a> **[ESA]** Glacier melt intensifying freshwater loss and accelerating sea-level rise
 - <a href="https://tlpnetwork.com/news/europe/unlocking-the-11-billion-in-orbit-market-isam-conference-heading-to-belfast-this-june" >🔗</a> **[The Launch Pad]** Unlocking the £11 Billion In Orbit Market; ISAM Conference Heading To Belfast This June
 - <a href="https://arstechnica.com/space/2025/02/the-odds-of-a-city-killer-asteroid-impact-in-2032-keep-rising-should-we-be-worried/" >🔗</a> **[Arstechnica]** The odds of a city-killer asteroid impact in 2032 keep rising. Should we be worried?
-- <a href="https://tlpnetwork.com/news/america/nasa-avoids-sweeping-federal-workforce-reductions-for-now-but-future-layoffs-expected" >🔗</a> **[The Launch Pad]** NASA Avoids Sweeping Federal Workforce Reductions For Now, But Future Layoffs Expected
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250219T230121">2025-02-19 23:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250219T233112">2025-02-19 23:31:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
