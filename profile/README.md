@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/rocket-lab-and-spacex-perform-launches-minutes-apart/" >🔗</a> **[SpaceNews]** Rocket Lab and SpaceX perform launches minutes apart
+- <a href="https://arstechnica.com/space/2025/02/nasa-receives-11th-hour-reprieve-from-probationary-employee-cuts/" >🔗</a> **[Arstechnica]** NASA receives 11th-hour reprieve from “probationary” employee cuts
 - <a href="https://spaceflightnow.com/2025/02/18/rocket-lab-to-launch-blacksky-gen-3-satellite-on-60th-electron-flight/" >🔗</a> **[Spaceflight Now]** Rocket Lab to launch BlackSky Gen-3 satellite on 60th Electron flight
 - <a href="https://www.nasa.gov/news-release/nasa-sets-briefings-for-next-international-space-station-crew-missions-2/" >🔗</a> **[NASA]** NASA Sets Briefings for Next International Space Station Crew Missions
 - <a href="https://spacenews.com/ses-defends-financial-outlook-after-moodys-downgrade/" >🔗</a> **[SpaceNews]** SES defends financial outlook after Moody’s downgrade
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2025/02/gem-63xl-test-fire/" >🔗</a> **[NASASpaceflight]** GEM-63XL motor test fired at Promontory as part of Vulcan Cert-2 investigation
 - <a href="https://spacenews.com/rubicon-wins-nasa-contract-to-develop-large-ascent-thruster/" >🔗</a> **[SpaceNews]** Rubicon wins NASA contract to develop large ASCENT thruster
 - <a href="https://science.nasa.gov/directorates/smd/nasa-science-being-responsive-to-executive-orders/" >🔗</a> **[NASA]** NASA Science: Being Responsive to Executive Orders
-- <a href="https://www.nasa.gov/news-release/nasa-sets-launch-coverage-for-missions-studying-cosmic-origins-sun/" >🔗</a> **[NASA]** NASA Sets Launch Coverage for Missions Studying Cosmic Origins, Sun
-- <a href="https://tlpnetwork.com/news/america/send-your-name-to-the-moon-falcon-heavy-to-launch-lunex-1-aboard-griffin-lunar-lander" >🔗</a> **[The Launch Pad]** Send Your Name to the Moon! Falcon Heavy to Launch LunEx-1 aboard Griffin Lunar Lander
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250219T004536">2025-02-19 00:45:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250219T012819">2025-02-19 01:28:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
