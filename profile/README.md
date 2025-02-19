@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/america/first-of-24-new-rs-25-engines-ready-for-testing-at-nasa-stennis" >🔗</a> **[The Launch Pad]** First of 24 New RS-25 Engines Ready For Testing at NASA Stennis
 - <a href="https://tlpnetwork.com/news/america/blue-origin-announces-crew-for-10th-new-shepard-crew-mission" >🔗</a> **[The Launch Pad]** Blue Origin Announces Crew for 10th New Shepard Crew Mission
 - <a href="https://tlpnetwork.com/news/in-space/firefly-aerospace-targets-march-2-for-blue-ghost-moon-landing" >🔗</a> **[The Launch Pad]** Firefly Aerospace’s Targets March 2nd For Blue Ghost Moon Landing
 - <a href="https://tlpnetwork.com/news/america/2-launches-in-4-minutes-rocket-lab-and-spacex-conduct-simultaneous-launches" >🔗</a> **[The Launch Pad]** 2 Launches In 4 Minutes; Rocket Lab and SpaceX Conduct Simultaneous Launches
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/rocket-lab-and-spacex-perform-launches-minutes-apart/" >🔗</a> **[SpaceNews]** Rocket Lab and SpaceX perform launches minutes apart
 - <a href="https://arstechnica.com/space/2025/02/nasa-receives-11th-hour-reprieve-from-probationary-employee-cuts/" >🔗</a> **[Arstechnica]** NASA receives 11th-hour reprieve from “probationary” employee cuts
 - <a href="https://spaceflightnow.com/2025/02/18/rocket-lab-to-launch-blacksky-gen-3-satellite-on-60th-electron-flight/" >🔗</a> **[Spaceflight Now]** Rocket Lab to launch BlackSky Gen-3 satellite on 60th Electron flight
-- <a href="https://www.nasa.gov/news-release/nasa-sets-briefings-for-next-international-space-station-crew-missions-2/" >🔗</a> **[NASA]** NASA Sets Briefings for Next International Space Station Crew Missions
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250219T120149">2025-02-19 12:01:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250219T124219">2025-02-19 12:42:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
