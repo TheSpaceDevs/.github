@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/oq-technology-gets-eu-funds-to-accelerate-direct-to-smartphone-efforts/" >🔗</a> **[SpaceNews]** OQ Technology gets EU funds to accelerate direct-to-smartphone efforts
 - <a href="https://www.nasa.gov/missions/station/nasa-sends-experiment-to-space-to-study-antibiotic-resistant-bacteria/" >🔗</a> **[NASA]** NASA Sends Experiment to Space to Study Antibiotic-Resistant Bacteria
 - <a href="https://spacenews.com/report-space-force-strategy-resources-insufficient-to-counter-china/" >🔗</a> **[SpaceNews]** Report: Space Force strategy, resources insufficient to counter China
 - <a href="https://spacenews.com/musk-and-trump-repeat-inaccurate-claims-about-starliner-astronauts/" >🔗</a> **[SpaceNews]** Musk and Trump repeat inaccurate claims about Starliner astronauts
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/america/nasa-avoids-sweeping-federal-workforce-reductions-for-now-but-future-layoffs-expected" >🔗</a> **[The Launch Pad]** NASA Avoids Sweeping Federal Workforce Reductions For Now, But Future Layoffs Expected
 - <a href="https://spacenews.com/now-more-expensive-the-role-of-government-tariffs-in-spacecraft-supply/" >🔗</a> **[SpaceNews]** Now more expensive: the role of government tariffs in spacecraft supply
 - <a href="https://spacenews.com/true-anomaly-opens-long-beach-factory-citing-proximity-to-space-force-customers/" >🔗</a> **[SpaceNews]** True Anomaly opens Long Beach factory, citing proximity to Space Force customers
-- <a href="https://spacenews.com/war-and-space-the-effect-of-russian-aggression-in-georgia-and-ukraine-on-its-space-ambitions/" >🔗</a> **[SpaceNews]** War and space: The effect of Russian aggression in Georgia and Ukraine on its space ambitions
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250219T210133">2025-02-19 21:01:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250219T213104">2025-02-19 21:31:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
