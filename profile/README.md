@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/europe/unlocking-the-11-billion-in-orbit-market-isam-conference-heading-to-belfast-this-june" >🔗</a> **[The Launch Pad]** Unlocking the £11 Billion In Orbit Market; ISAM Conference Heading To Belfast This June
 - <a href="https://arstechnica.com/space/2025/02/the-odds-of-a-city-killer-asteroid-impact-in-2032-keep-rising-should-we-be-worried/" >🔗</a> **[Arstechnica]** The odds of a city-killer asteroid impact in 2032 keep rising. Should we be worried?
 - <a href="https://tlpnetwork.com/news/america/nasa-avoids-sweeping-federal-workforce-reductions-for-now-but-future-layoffs-expected" >🔗</a> **[The Launch Pad]** NASA Avoids Sweeping Federal Workforce Reductions For Now, But Future Layoffs Expected
 - <a href="https://spacenews.com/now-more-expensive-the-role-of-government-tariffs-in-spacecraft-supply/" >🔗</a> **[SpaceNews]** Now more expensive: the role of government tariffs in spacecraft supply
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/nasa-layoffs-on-hold-for-now/" >🔗</a> **[SpaceNews]** NASA layoffs on hold, for now
 - <a href="https://tlpnetwork.com/news/america/first-of-24-new-rs-25-engines-ready-for-testing-at-nasa-stennis" >🔗</a> **[The Launch Pad]** First of 24 New RS-25 Engines Ready For Testing at NASA Stennis
 - <a href="https://tlpnetwork.com/news/america/blue-origin-announces-crew-for-10th-new-shepard-crew-mission" >🔗</a> **[The Launch Pad]** Blue Origin Announces Crew for 10th New Shepard Crew Mission
-- <a href="https://tlpnetwork.com/news/in-space/firefly-aerospace-targets-march-2-for-blue-ghost-moon-landing" >🔗</a> **[The Launch Pad]** Firefly Aerospace’s Targets March 2nd For Blue Ghost Moon Landing
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250219T160125">2025-02-19 16:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250219T163540">2025-02-19 16:35:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
