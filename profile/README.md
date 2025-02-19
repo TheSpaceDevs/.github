@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/aeronautics/2025-usrc-research-awards-announced/" >🔗</a> **[NASA]** NASA Selects New Round of Student-Led Aviation Research Awards
 - <a href="https://spacenews.com/rocket-lab-and-spacex-perform-launches-minutes-apart/" >🔗</a> **[SpaceNews]** Rocket Lab and SpaceX perform launches minutes apart
 - <a href="https://arstechnica.com/space/2025/02/nasa-receives-11th-hour-reprieve-from-probationary-employee-cuts/" >🔗</a> **[Arstechnica]** NASA receives 11th-hour reprieve from “probationary” employee cuts
 - <a href="https://spaceflightnow.com/2025/02/18/rocket-lab-to-launch-blacksky-gen-3-satellite-on-60th-electron-flight/" >🔗</a> **[Spaceflight Now]** Rocket Lab to launch BlackSky Gen-3 satellite on 60th Electron flight
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/our-pale-blue-dot/" >🔗</a> **[NASA]** Our Pale Blue Dot
 - <a href="https://www.nasaspaceflight.com/2025/02/gem-63xl-test-fire/" >🔗</a> **[NASASpaceflight]** GEM-63XL motor test fired at Promontory as part of Vulcan Cert-2 investigation
 - <a href="https://spacenews.com/rubicon-wins-nasa-contract-to-develop-large-ascent-thruster/" >🔗</a> **[SpaceNews]** Rubicon wins NASA contract to develop large ASCENT thruster
-- <a href="https://science.nasa.gov/directorates/smd/nasa-science-being-responsive-to-executive-orders/" >🔗</a> **[NASA]** NASA Science: Being Responsive to Executive Orders
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250219T100132">2025-02-19 10:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250219T103447">2025-02-19 10:34:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
