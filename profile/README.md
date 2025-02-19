@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/solar-system/how-long-does-it-take-to-get-to-the-moon-mars-jupiter-we-asked-a-nasa-expert-episode-51/" >🔗</a> **[NASA]** How Long Does it Take to Get to the Moon… Mars… Jupiter? We Asked a NASA Expert: Episode 51
+- <a href="https://spacenews.com/nasa-layoffs-on-hold-for-now/" >🔗</a> **[SpaceNews]** NASA layoffs on hold, for now
 - <a href="https://tlpnetwork.com/news/america/first-of-24-new-rs-25-engines-ready-for-testing-at-nasa-stennis" >🔗</a> **[The Launch Pad]** First of 24 New RS-25 Engines Ready For Testing at NASA Stennis
 - <a href="https://tlpnetwork.com/news/america/blue-origin-announces-crew-for-10th-new-shepard-crew-mission" >🔗</a> **[The Launch Pad]** Blue Origin Announces Crew for 10th New Shepard Crew Mission
 - <a href="https://tlpnetwork.com/news/in-space/firefly-aerospace-targets-march-2-for-blue-ghost-moon-landing" >🔗</a> **[The Launch Pad]** Firefly Aerospace’s Targets March 2nd For Blue Ghost Moon Landing
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/america/welcome-to-the-bahamas-spacex-lands-falcon-9-for-first-time-in-another-country" >🔗</a> **[The Launch Pad]** Welcome To The Bahamas; SpaceX Lands Falcon 9 For First Time In Another Country
 - <a href="https://www.nasa.gov/aeronautics/2025-usrc-research-awards-announced/" >🔗</a> **[NASA]** NASA Selects New Round of Student-Led Aviation Research Awards
 - <a href="https://spacenews.com/rocket-lab-and-spacex-perform-launches-minutes-apart/" >🔗</a> **[SpaceNews]** Rocket Lab and SpaceX perform launches minutes apart
-- <a href="https://arstechnica.com/space/2025/02/nasa-receives-11th-hour-reprieve-from-probationary-employee-cuts/" >🔗</a> **[Arstechnica]** NASA receives 11th-hour reprieve from “probationary” employee cuts
-- <a href="https://spaceflightnow.com/2025/02/18/rocket-lab-to-launch-blacksky-gen-3-satellite-on-60th-electron-flight/" >🔗</a> **[Spaceflight Now]** Rocket Lab to launch BlackSky Gen-3 satellite on 60th Electron flight
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250219T130506">2025-02-19 13:05:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250219T133342">2025-02-19 13:33:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
