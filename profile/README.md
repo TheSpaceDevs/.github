@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/in-space/firefly-aerospace-targets-march-2-for-blue-ghost-moon-landing" >🔗</a> **[The Launch Pad]** Firefly Aerospace’s Targets March 2nd For Blue Ghost Moon Landing
+- <a href="https://tlpnetwork.com/news/america/2-launches-in-4-minutes-rocket-lab-and-spacex-conduct-simultaneous-launches" >🔗</a> **[The Launch Pad]** 2 Launches In 4 Minutes; Rocket Lab and SpaceX Conduct Simultaneous Launches
+- <a href="https://europeanspaceflight.com/atmos-secures-e13-1m-in-new-funding-for-phoenix-2-capsule/" >🔗</a> **[European Spaceflight]** ATMOS Secures €13.1M in New Funding for PHOENIX 2 Capsule
+- <a href="https://tlpnetwork.com/news/america/welcome-to-the-bahamas-spacex-lands-falcon-9-for-first-time-in-another-country" >🔗</a> **[The Launch Pad]** Welcome To The Bahamas; SpaceX Lands Falcon 9 For First Time In Another Country
 - <a href="https://www.nasa.gov/aeronautics/2025-usrc-research-awards-announced/" >🔗</a> **[NASA]** NASA Selects New Round of Student-Led Aviation Research Awards
 - <a href="https://spacenews.com/rocket-lab-and-spacex-perform-launches-minutes-apart/" >🔗</a> **[SpaceNews]** Rocket Lab and SpaceX perform launches minutes apart
 - <a href="https://arstechnica.com/space/2025/02/nasa-receives-11th-hour-reprieve-from-probationary-employee-cuts/" >🔗</a> **[Arstechnica]** NASA receives 11th-hour reprieve from “probationary” employee cuts
 - <a href="https://spaceflightnow.com/2025/02/18/rocket-lab-to-launch-blacksky-gen-3-satellite-on-60th-electron-flight/" >🔗</a> **[Spaceflight Now]** Rocket Lab to launch BlackSky Gen-3 satellite on 60th Electron flight
 - <a href="https://www.nasa.gov/news-release/nasa-sets-briefings-for-next-international-space-station-crew-missions-2/" >🔗</a> **[NASA]** NASA Sets Briefings for Next International Space Station Crew Missions
 - <a href="https://spacenews.com/ses-defends-financial-outlook-after-moodys-downgrade/" >🔗</a> **[SpaceNews]** SES defends financial outlook after Moody’s downgrade
-- <a href="https://science.nasa.gov/learning-resources/science-activation/eclipses-to-auroras-eclipse-ambassadors-experience-winter-field-school-in-alaska/" >🔗</a> **[NASA]** Eclipses to Auroras: Eclipse Ambassadors Experience Winter Field School in Alaska
-- <a href="https://www.nasa.gov/image-article/our-pale-blue-dot/" >🔗</a> **[NASA]** Our Pale Blue Dot
-- <a href="https://www.nasaspaceflight.com/2025/02/gem-63xl-test-fire/" >🔗</a> **[NASASpaceflight]** GEM-63XL motor test fired at Promontory as part of Vulcan Cert-2 investigation
-- <a href="https://spacenews.com/rubicon-wins-nasa-contract-to-develop-large-ascent-thruster/" >🔗</a> **[SpaceNews]** Rubicon wins NASA contract to develop large ASCENT thruster
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250219T110121">2025-02-19 11:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250219T113110">2025-02-19 11:31:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
