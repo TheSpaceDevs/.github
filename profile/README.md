@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/in-the-starlight-portia-keyes-procures-mission-critical-support/" >🔗</a> **[NASA]** In the Starlight: Portia Keyes Procures Mission-Critical Support
+- <a href="https://www.nasaspaceflight.com/2025/02/sen-interview/" >🔗</a> **[NASASpaceflight]** Sen: capturing Earth’s beauty from space in 4K
 - <a href="https://spacenews.com/oq-technology-gets-eu-funds-to-accelerate-direct-to-smartphone-efforts/" >🔗</a> **[SpaceNews]** OQ Technology gets EU funds to accelerate direct-to-smartphone efforts
 - <a href="https://www.nasa.gov/missions/station/nasa-sends-experiment-to-space-to-study-antibiotic-resistant-bacteria/" >🔗</a> **[NASA]** NASA Sends Experiment to Space to Study Antibiotic-Resistant Bacteria
 - <a href="https://spacenews.com/report-space-force-strategy-resources-insufficient-to-counter-china/" >🔗</a> **[SpaceNews]** Report: Space Force strategy, resources insufficient to counter China
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/europe/unlocking-the-11-billion-in-orbit-market-isam-conference-heading-to-belfast-this-june" >🔗</a> **[The Launch Pad]** Unlocking the £11 Billion In Orbit Market; ISAM Conference Heading To Belfast This June
 - <a href="https://arstechnica.com/space/2025/02/the-odds-of-a-city-killer-asteroid-impact-in-2032-keep-rising-should-we-be-worried/" >🔗</a> **[Arstechnica]** The odds of a city-killer asteroid impact in 2032 keep rising. Should we be worried?
 - <a href="https://tlpnetwork.com/news/america/nasa-avoids-sweeping-federal-workforce-reductions-for-now-but-future-layoffs-expected" >🔗</a> **[The Launch Pad]** NASA Avoids Sweeping Federal Workforce Reductions For Now, But Future Layoffs Expected
-- <a href="https://spacenews.com/now-more-expensive-the-role-of-government-tariffs-in-spacecraft-supply/" >🔗</a> **[SpaceNews]** Now more expensive: the role of government tariffs in spacecraft supply
-- <a href="https://spacenews.com/true-anomaly-opens-long-beach-factory-citing-proximity-to-space-force-customers/" >🔗</a> **[SpaceNews]** True Anomaly opens Long Beach factory, citing proximity to Space Force customers
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250219T220118">2025-02-19 22:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250219T223240">2025-02-19 22:32:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
