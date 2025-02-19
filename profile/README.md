@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/america/nasa-avoids-sweeping-federal-workforce-reductions-for-now-but-future-layoffs-expected" >🔗</a> **[The Launch Pad]** NASA Avoids Sweeping Federal Workforce Reductions For Now, But Future Layoffs Expected
+- <a href="https://spacenews.com/now-more-expensive-the-role-of-government-tariffs-in-spacecraft-supply/" >🔗</a> **[SpaceNews]** Now more expensive: the role of government tariffs in spacecraft supply
+- <a href="https://spacenews.com/true-anomaly-opens-long-beach-factory-citing-proximity-to-space-force-customers/" >🔗</a> **[SpaceNews]** True Anomaly opens Long Beach factory, citing proximity to Space Force customers
+- <a href="https://spacenews.com/war-and-space-the-effect-of-russian-aggression-in-georgia-and-ukraine-on-its-space-ambitions/" >🔗</a> **[SpaceNews]** War and space: The effect of Russian aggression in Georgia and Ukraine on its space ambitions
 - <a href="https://www.nasa.gov/solar-system/how-long-does-it-take-to-get-to-the-moon-mars-jupiter-we-asked-a-nasa-expert-episode-51/" >🔗</a> **[NASA]** How Long Does it Take to Get to the Moon… Mars… Jupiter? We Asked a NASA Expert: Episode 51
 - <a href="https://spacenews.com/nasa-layoffs-on-hold-for-now/" >🔗</a> **[SpaceNews]** NASA layoffs on hold, for now
 - <a href="https://tlpnetwork.com/news/america/first-of-24-new-rs-25-engines-ready-for-testing-at-nasa-stennis" >🔗</a> **[The Launch Pad]** First of 24 New RS-25 Engines Ready For Testing at NASA Stennis
 - <a href="https://tlpnetwork.com/news/america/blue-origin-announces-crew-for-10th-new-shepard-crew-mission" >🔗</a> **[The Launch Pad]** Blue Origin Announces Crew for 10th New Shepard Crew Mission
 - <a href="https://tlpnetwork.com/news/in-space/firefly-aerospace-targets-march-2-for-blue-ghost-moon-landing" >🔗</a> **[The Launch Pad]** Firefly Aerospace’s Targets March 2nd For Blue Ghost Moon Landing
 - <a href="https://tlpnetwork.com/news/america/2-launches-in-4-minutes-rocket-lab-and-spacex-conduct-simultaneous-launches" >🔗</a> **[The Launch Pad]** 2 Launches In 4 Minutes; Rocket Lab and SpaceX Conduct Simultaneous Launches
-- <a href="https://europeanspaceflight.com/atmos-secures-e13-1m-in-new-funding-for-phoenix-2-capsule/" >🔗</a> **[European Spaceflight]** ATMOS Secures €13.1M in New Funding for PHOENIX 2 Capsule
-- <a href="https://tlpnetwork.com/news/america/welcome-to-the-bahamas-spacex-lands-falcon-9-for-first-time-in-another-country" >🔗</a> **[The Launch Pad]** Welcome To The Bahamas; SpaceX Lands Falcon 9 For First Time In Another Country
-- <a href="https://www.nasa.gov/aeronautics/2025-usrc-research-awards-announced/" >🔗</a> **[NASA]** NASA Selects New Round of Student-Led Aviation Research Awards
-- <a href="https://spacenews.com/rocket-lab-and-spacex-perform-launches-minutes-apart/" >🔗</a> **[SpaceNews]** Rocket Lab and SpaceX perform launches minutes apart
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250219T140129">2025-02-19 14:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250219T143400">2025-02-19 14:34:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
