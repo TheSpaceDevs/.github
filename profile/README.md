@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/nasas-jim-free-retires-as-the-agency-escapes-dramatic-workforce-cuts-for-now/" >🔗</a> **[SpacePolicyOnline.com]** NASA’s Jim Free Retires as the Agency Escapes Dramatic Workforce Cuts for Now
 - <a href="https://spacenews.com/trump-orders-50-billion-cut-from-2026-defense-budget-shields-iron-dome-initiative/" >🔗</a> **[SpaceNews]** Trump orders $50 billion cut from 2026 defense budget, shields ‘Iron Dome’ initiative
 - <a href="https://www.nasa.gov/news-release/nasa-associate-administrator-jim-free-to-retire-after-30-years-service/" >🔗</a> **[NASA]** NASA Associate Administrator Jim Free to Retire After 30 Years Service
 - <a href="https://spacenews.com/defense-executives-demand-clarity-on-space-agencies-missions/" >🔗</a> **[SpaceNews]** Defense executives demand clarity on space agencies’ missions
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/missions/station/nasa-sends-experiment-to-space-to-study-antibiotic-resistant-bacteria/" >🔗</a> **[NASA]** NASA Sends Experiment to Space to Study Antibiotic-Resistant Bacteria
 - <a href="https://spacenews.com/report-space-force-strategy-resources-insufficient-to-counter-china/" >🔗</a> **[SpaceNews]** Report: Space Force strategy, resources insufficient to counter China
 - <a href="https://spacenews.com/musk-and-trump-repeat-inaccurate-claims-about-starliner-astronauts/" >🔗</a> **[SpaceNews]** Musk and Trump repeat inaccurate claims about Starliner astronauts
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/CryoSat/Glacier_melt_intensifying_freshwater_loss_and_accelerating_sea-level_rise" >🔗</a> **[ESA]** Glacier melt intensifying freshwater loss and accelerating sea-level rise
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250220T004536">2025-02-20 00:45:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250220T012822">2025-02-20 01:28:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
