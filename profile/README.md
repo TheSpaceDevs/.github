@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/america/nasa-completes-stacking-of-artemis-2-solid-rocket-boosters-ahead-of-crewed-lunar-mission" >🔗</a> **[The Launch Pad]** NASA Completes Stacking of Artemis II Solid Rocket Boosters Ahead of Crewed Lunar Mission
+- <a href="https://spacenews.com/companies-are-planning-to-build-space-critical-infrastructure-can-space-policy-keep-up/" >🔗</a> **[SpaceNews]** Companies are planning to build space critical infrastructure. Can space policy keep up?
 - <a href="https://spacenews.com/jim-free-nasa-associate-administrator-to-retire/" >🔗</a> **[SpaceNews]** Jim Free, NASA associate administrator, to retire
 - <a href="https://spacenews.com/building-a-construction-firm-for-space/" >🔗</a> **[SpaceNews]** Building a Construction Firm for Space
+- <a href="https://www.esa.int/Enabling_Support/Preparing_for_the_Future/Discovery_and_Preparation/Developing_an_open-source_tool_for_a_European_space-grade_computer_chip" >🔗</a> **[ESA]** Developing an open-source tool for a European space-grade computer chip
 - <a href="https://spacepolicyonline.com/news/house-committee-plans-artemis-hearing-next-week/" >🔗</a> **[SpacePolicyOnline.com]** House Committee Plans Artemis Hearing Next Week
 - <a href="https://spacepolicyonline.com/news/nasas-jim-free-retires-as-the-agency-escapes-dramatic-workforce-cuts-for-now/" >🔗</a> **[SpacePolicyOnline.com]** NASA’s Jim Free Retires as the Agency Escapes Dramatic Workforce Cuts for Now
 - <a href="https://spacenews.com/trump-orders-50-billion-cut-from-2026-defense-budget-shields-iron-dome-initiative/" >🔗</a> **[SpaceNews]** Trump orders $50 billion cut from 2026 defense budget, shields ‘Iron Dome’ initiative
 - <a href="https://www.nasa.gov/news-release/nasa-associate-administrator-jim-free-to-retire-after-30-years-service/" >🔗</a> **[NASA]** NASA Associate Administrator Jim Free to Retire After 30 Years Service
 - <a href="https://spacenews.com/defense-executives-demand-clarity-on-space-agencies-missions/" >🔗</a> **[SpaceNews]** Defense executives demand clarity on space agencies’ missions
-- <a href="https://www.nasa.gov/general/in-the-starlight-portia-keyes-procures-mission-critical-support/" >🔗</a> **[NASA]** In the Starlight: Portia Keyes Procures Mission-Critical Support
-- <a href="https://www.nasaspaceflight.com/2025/02/sen-interview/" >🔗</a> **[NASASpaceflight]** Sen: capturing Earth’s beauty from space in 4K
-- <a href="https://spacenews.com/oq-technology-gets-eu-funds-to-accelerate-direct-to-smartphone-efforts/" >🔗</a> **[SpaceNews]** OQ Technology gets EU funds to accelerate direct-to-smartphone efforts
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250220T140119">2025-02-20 14:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250220T143359">2025-02-20 14:33:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
