@@ -92,6 +92,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://arstechnica.com/space/2025/02/elon-musk-recommends-that-the-international-space-station-be-deorbited-asap/" >🔗</a> **[Arstechnica]** Elon Musk recommends that the International Space Station be deorbited ASAP
+- <a href="https://arstechnica.com/features/2025/02/elon-musk-recommends-that-the-international-space-station-be-deorbited-asap/" >🔗</a> **[Arstechnica]** Elon Musk recommends that the International Space Station be deorbited ASAP
 - <a href="https://www.nasa.gov/history/55-years-ago-preps-for-apollo-13-and-14-apollo-12-crew-on-world-tour/" >🔗</a> **[NASA]** 55 Years Ago: Preps for Apollo 13 and 14, Apollo 12 Crew on World Tour
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-simulated-mars-habitat-before-next-mission/" >🔗</a> **[NASA]** NASA Invites Media to Simulated Mars Habitat Before Next Mission
 - <a href="https://science.nasa.gov/science-research/earth-science/in-memoriam-jeff-dozier-1944-2024/" >🔗</a> **[NASA]** In Memoriam: Jeff Dozier [1944–2024]
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/artemis-ii-rocket-booster-stacking-complete/" >🔗</a> **[NASA]** Artemis II Rocket Booster Stacking Complete
 - <a href="https://spacenews.com/airbus-takes-another-300-million-euros-in-space-program-charges/" >🔗</a> **[SpaceNews]** Airbus takes another 300 million euros in space program charges
 - <a href="https://www.nasa.gov/image-article/stennis-teams-install-new-production-rs-25-engine/" >🔗</a> **[NASA]** NASA Stennis Teams Install New Production RS-25 Engine for Upcoming Hot Fire
-- <a href="https://spacenews.com/marotta-controls-delivers-50000th-core-valve-to-rocket-lab/" >🔗</a> **[SpaceNews]** Marotta Controls Delivers 50,000th CoRe Valve to Rocket Lab
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250220T193101">2025-02-20 19:31:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250220T200131">2025-02-20 20:01:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
