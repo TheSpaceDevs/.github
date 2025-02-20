@@ -55,7 +55,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250227T001700">2025-02-27 00:17:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Nova-C IM-2 &amp; Lunar Trailblazer&location=Kennedy Space Center, FL, USA&dates=20250227T001700Z%2F20250227T001700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Nova-C IM-2 & Lunar Trailblazer** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250227T212400">2025-02-27 21:24:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Progress MS-30 (91P)&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20250227T212400Z%2F20250227T212400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Progress MS-30 (91P)** from Baikonur Cosmodrome, Republic of Kazakhstan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250228T025200">2025-02-28 02:52:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-20&location=Cape Canaveral SFS, FL, USA&dates=20250228T025200Z%2F20250228T072300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-20** from Cape Canaveral SFS, FL, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250228T031000">2025-02-28 03:10:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SPHEREx &amp; PUNCH&location=Vandenberg SFB, CA, USA&dates=20250228T031000Z%2F20250228T031000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | SPHEREx & PUNCH** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250301T031000">2025-03-01 03:10:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SPHEREx &amp; PUNCH&location=Vandenberg SFB, CA, USA&dates=20250301T031000Z%2F20250301T031000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | SPHEREx & PUNCH** from Vandenberg SFB, CA, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/02/elon-musk-recommends-that-the-international-space-station-be-deorbited-asap/" >🔗</a> **[Arstechnica]** Elon Musk recommends that the International Space Station be deorbited ASAP
+- <a href="https://www.nasa.gov/history/55-years-ago-preps-for-apollo-13-and-14-apollo-12-crew-on-world-tour/" >🔗</a> **[NASA]** 55 Years Ago: Preps for Apollo 13 and 14, Apollo 12 Crew on World Tour
+- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-simulated-mars-habitat-before-next-mission/" >🔗</a> **[NASA]** NASA Invites Media to Simulated Mars Habitat Before Next Mission
+- <a href="https://science.nasa.gov/science-research/earth-science/in-memoriam-jeff-dozier-1944-2024/" >🔗</a> **[NASA]** In Memoriam: Jeff Dozier [1944–2024]
+- <a href="https://science.nasa.gov/science-research/earth-science/in-memoriam-berrien-moore-iii-1941-2024/" >🔗</a> **[NASA]** In Memoriam: Berrien Moore III [1941–2024]
 - <a href="https://arstechnica.com/space/2025/02/starships-eighth-test-flight-may-take-place-next-week/" >🔗</a> **[Arstechnica]** Starship’s eighth test flight may take place next week
 - <a href="https://www.nasa.gov/image-article/artemis-ii-rocket-booster-stacking-complete/" >🔗</a> **[NASA]** Artemis II Rocket Booster Stacking Complete
 - <a href="https://spacenews.com/airbus-takes-another-300-million-euros-in-space-program-charges/" >🔗</a> **[SpaceNews]** Airbus takes another 300 million euros in space program charges
 - <a href="https://www.nasa.gov/image-article/stennis-teams-install-new-production-rs-25-engine/" >🔗</a> **[NASA]** NASA Stennis Teams Install New Production RS-25 Engine for Upcoming Hot Fire
 - <a href="https://spacenews.com/marotta-controls-delivers-50000th-core-valve-to-rocket-lab/" >🔗</a> **[SpaceNews]** Marotta Controls Delivers 50,000th CoRe Valve to Rocket Lab
-- <a href="https://tlpnetwork.com/news/america/intuitive-machines-im-2-athena-lunar-lander-encapsulated-and-go-for-launch" >🔗</a> **[The Launch Pad]** Intuitive Machines IM-2 Athena Lunar Lander Encapsulated and "GO" for Launch
-- <a href="https://science.nasa.gov/science-research/earth-science/in-memoriam-pierre-morel-1933-2024/" >🔗</a> **[NASA]** In Memoriam: Pierre Morel [1933–2024]
-- <a href="https://spacenews.com/china-readies-tianwen-2-asteroid-sample-return-spacecraft-for-launch/" >🔗</a> **[SpaceNews]** China readies Tianwen-2 asteroid sample return spacecraft for launch
-- <a href="https://www.nasa.gov/centers-and-facilities/nesc/lunar-cold-electronics-assessment-workshop/" >🔗</a> **[NASA]** Lunar Cold Electronics Assessment Workshop (Apr 30 – May 1, 2025)
-- <a href="https://science.nasa.gov/science-research/earth-science/summary-of-the-joint-nasa-lcluc-sari-synthesis-meeting/" >🔗</a> **[NASA]** Summary of the Joint NASA LCLUC–SARI Synthesis Meeting
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250220T190113">2025-02-20 19:01:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250220T193101">2025-02-20 19:31:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
