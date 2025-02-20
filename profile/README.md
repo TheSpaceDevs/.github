@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/guiding-orion-jorge-chongs-mission-to-advance-deep-space-exploration/" >🔗</a> **[NASA]** Guiding Orion: Jorge Chong’s Mission to Advance Deep Space Exploration
 - <a href="https://spacenews.com/musk-calls-for-deorbiting-iss-as-soon-as-possible/" >🔗</a> **[SpaceNews]** Musk calls for deorbiting ISS “as soon as possible”
 - <a href="https://www.teslarati.com/spacex-completes-new-first-with-recent-falcon-9-launch/" >🔗</a> **[Teslarati]** SpaceX completes a new first with recent Falcon 9 launch
 - <a href="https://www.nasa.gov/history/60-years-ago-ranger-8-moon-photos-aid-in-apollo-site-selection/" >🔗</a> **[NASA]** 60 Years Ago: Ranger 8 Moon Photos Aid in Apollo Site Selection
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-simulated-mars-habitat-before-next-mission/" >🔗</a> **[NASA]** NASA Invites Media to Simulated Mars Habitat Before Next Mission
 - <a href="https://science.nasa.gov/science-research/earth-science/in-memoriam-jeff-dozier-1944-2024/" >🔗</a> **[NASA]** In Memoriam: Jeff Dozier [1944–2024]
 - <a href="https://science.nasa.gov/science-research/earth-science/in-memoriam-berrien-moore-iii-1941-2024/" >🔗</a> **[NASA]** In Memoriam: Berrien Moore III [1941–2024]
-- <a href="https://arstechnica.com/space/2025/02/starships-eighth-test-flight-may-take-place-next-week/" >🔗</a> **[Arstechnica]** Starship’s eighth test flight may take place next week
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250220T213104">2025-02-20 21:31:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250220T220119">2025-02-20 22:01:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
