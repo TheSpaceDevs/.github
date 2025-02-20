@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/02/starships-eighth-test-flight-may-take-place-next-week/" >🔗</a> **[Arstechnica]** Starship’s eighth test flight may take place next week
+- <a href="https://www.nasa.gov/image-article/artemis-ii-rocket-booster-stacking-complete/" >🔗</a> **[NASA]** Artemis II Rocket Booster Stacking Complete
 - <a href="https://spacenews.com/airbus-takes-another-300-million-euros-in-space-program-charges/" >🔗</a> **[SpaceNews]** Airbus takes another 300 million euros in space program charges
 - <a href="https://www.nasa.gov/image-article/stennis-teams-install-new-production-rs-25-engine/" >🔗</a> **[NASA]** NASA Stennis Teams Install New Production RS-25 Engine for Upcoming Hot Fire
 - <a href="https://spacenews.com/marotta-controls-delivers-50000th-core-valve-to-rocket-lab/" >🔗</a> **[SpaceNews]** Marotta Controls Delivers 50,000th CoRe Valve to Rocket Lab
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/china-readies-tianwen-2-asteroid-sample-return-spacecraft-for-launch/" >🔗</a> **[SpaceNews]** China readies Tianwen-2 asteroid sample return spacecraft for launch
 - <a href="https://www.nasa.gov/centers-and-facilities/nesc/lunar-cold-electronics-assessment-workshop/" >🔗</a> **[NASA]** Lunar Cold Electronics Assessment Workshop (Apr 30 – May 1, 2025)
 - <a href="https://science.nasa.gov/science-research/earth-science/summary-of-the-joint-nasa-lcluc-sari-synthesis-meeting/" >🔗</a> **[NASA]** Summary of the Joint NASA LCLUC–SARI Synthesis Meeting
-- <a href="https://tlpnetwork.com/news/america/nasa-associate-administrator-jim-free-announces-retirement" >🔗</a> **[The Launch Pad]** NASA Associate Administrator Jim Free Announces Retirement After 30 Years Service
-- <a href="https://europeanspaceflight.com/the-exploration-company-secures-dlr-as-an-anchor-customer/" >🔗</a> **[European Spaceflight]** The Exploration Company Secures DLR as an Anchor Customer
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250220T170128">2025-02-20 17:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250220T173150">2025-02-20 17:31:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
