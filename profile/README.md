@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/marotta-controls-delivers-50000th-core-valve-to-rocket-lab/" >🔗</a> **[SpaceNews]** Marotta Controls Delivers 50,000th CoRe Valve to Rocket Lab
+- <a href="https://tlpnetwork.com/news/america/intuitive-machines-im-2-athena-lunar-lander-encapsulated-and-go-for-launch" >🔗</a> **[The Launch Pad]** Intuitive Machines IM-2 Athena Lunar Lander Encapsulated and "GO" for Launch
+- <a href="https://science.nasa.gov/science-research/earth-science/in-memoriam-pierre-morel-1933-2024/" >🔗</a> **[NASA]** In Memoriam: Pierre Morel [1933–2024]
+- <a href="https://spacenews.com/china-readies-tianwen-2-asteroid-sample-return-spacecraft-for-launch/" >🔗</a> **[SpaceNews]** China readies Tianwen-2 asteroid sample return spacecraft for launch
+- <a href="https://www.nasa.gov/centers-and-facilities/nesc/lunar-cold-electronics-assessment-workshop/" >🔗</a> **[NASA]** Lunar Cold Electronics Assessment Workshop (Apr 30 – May 1, 2025)
+- <a href="https://science.nasa.gov/science-research/earth-science/summary-of-the-joint-nasa-lcluc-sari-synthesis-meeting/" >🔗</a> **[NASA]** Summary of the Joint NASA LCLUC–SARI Synthesis Meeting
+- <a href="https://tlpnetwork.com/news/america/nasa-associate-administrator-jim-free-announces-retirement" >🔗</a> **[The Launch Pad]** NASA Associate Administrator Jim Free Announces Retirement After 30 Years Service
+- <a href="https://europeanspaceflight.com/the-exploration-company-secures-dlr-as-an-anchor-customer/" >🔗</a> **[European Spaceflight]** The Exploration Company Secures DLR as an Anchor Customer
 - <a href="https://tlpnetwork.com/news/america/nasa-completes-stacking-of-artemis-2-solid-rocket-boosters-ahead-of-crewed-lunar-mission" >🔗</a> **[The Launch Pad]** NASA Completes Stacking of Artemis II Solid Rocket Boosters Ahead of Crewed Lunar Mission
 - <a href="https://spacenews.com/companies-are-planning-to-build-space-critical-infrastructure-can-space-policy-keep-up/" >🔗</a> **[SpaceNews]** Companies are planning to build space critical infrastructure. Can space policy keep up?
-- <a href="https://spacenews.com/jim-free-nasa-associate-administrator-to-retire/" >🔗</a> **[SpaceNews]** Jim Free, NASA associate administrator, to retire
-- <a href="https://spacenews.com/building-a-construction-firm-for-space/" >🔗</a> **[SpaceNews]** Building a Construction Firm for Space
-- <a href="https://www.esa.int/Enabling_Support/Preparing_for_the_Future/Discovery_and_Preparation/Developing_an_open-source_tool_for_a_European_space-grade_computer_chip" >🔗</a> **[ESA]** Developing an open-source tool for a European space-grade computer chip
-- <a href="https://spacepolicyonline.com/news/house-committee-plans-artemis-hearing-next-week/" >🔗</a> **[SpacePolicyOnline.com]** House Committee Plans Artemis Hearing Next Week
-- <a href="https://spacepolicyonline.com/news/nasas-jim-free-retires-as-the-agency-escapes-dramatic-workforce-cuts-for-now/" >🔗</a> **[SpacePolicyOnline.com]** NASA’s Jim Free Retires as the Agency Escapes Dramatic Workforce Cuts for Now
-- <a href="https://spacenews.com/trump-orders-50-billion-cut-from-2026-defense-budget-shields-iron-dome-initiative/" >🔗</a> **[SpaceNews]** Trump orders $50 billion cut from 2026 defense budget, shields ‘Iron Dome’ initiative
-- <a href="https://www.nasa.gov/news-release/nasa-associate-administrator-jim-free-to-retire-after-30-years-service/" >🔗</a> **[NASA]** NASA Associate Administrator Jim Free to Retire After 30 Years Service
-- <a href="https://spacenews.com/defense-executives-demand-clarity-on-space-agencies-missions/" >🔗</a> **[SpaceNews]** Defense executives demand clarity on space agencies’ missions
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250220T150130">2025-02-20 15:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250220T153332">2025-02-20 15:33:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
