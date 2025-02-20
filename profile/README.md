@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/building-a-construction-firm-for-space/" >🔗</a> **[SpaceNews]** Building a Construction Firm for Space
 - <a href="https://spacepolicyonline.com/news/house-committee-plans-artemis-hearing-next-week/" >🔗</a> **[SpacePolicyOnline.com]** House Committee Plans Artemis Hearing Next Week
 - <a href="https://spacepolicyonline.com/news/nasas-jim-free-retires-as-the-agency-escapes-dramatic-workforce-cuts-for-now/" >🔗</a> **[SpacePolicyOnline.com]** NASA’s Jim Free Retires as the Agency Escapes Dramatic Workforce Cuts for Now
 - <a href="https://spacenews.com/trump-orders-50-billion-cut-from-2026-defense-budget-shields-iron-dome-initiative/" >🔗</a> **[SpaceNews]** Trump orders $50 billion cut from 2026 defense budget, shields ‘Iron Dome’ initiative
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2025/02/sen-interview/" >🔗</a> **[NASASpaceflight]** Sen: capturing Earth’s beauty from space in 4K
 - <a href="https://spacenews.com/oq-technology-gets-eu-funds-to-accelerate-direct-to-smartphone-efforts/" >🔗</a> **[SpaceNews]** OQ Technology gets EU funds to accelerate direct-to-smartphone efforts
 - <a href="https://www.nasa.gov/missions/station/nasa-sends-experiment-to-space-to-study-antibiotic-resistant-bacteria/" >🔗</a> **[NASA]** NASA Sends Experiment to Space to Study Antibiotic-Resistant Bacteria
-- <a href="https://spacenews.com/report-space-force-strategy-resources-insufficient-to-counter-china/" >🔗</a> **[SpaceNews]** Report: Space Force strategy, resources insufficient to counter China
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250220T120145">2025-02-20 12:01:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250220T124240">2025-02-20 12:42:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
