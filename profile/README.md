@@ -100,17 +100,18 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/musk-calls-for-deorbiting-iss-as-soon-as-possible/" >🔗</a> **[SpaceNews]** Musk calls for deorbiting ISS “as soon as possible”
 - <a href="https://www.teslarati.com/spacex-completes-new-first-with-recent-falcon-9-launch/" >🔗</a> **[Teslarati]** SpaceX completes a new first with recent Falcon 9 launch
 - <a href="https://www.nasa.gov/history/60-years-ago-ranger-8-moon-photos-aid-in-apollo-site-selection/" >🔗</a> **[NASA]** 60 Years Ago: Ranger 8 Moon Photos Aid in Apollo Site Selection
-- <a href="https://arstechnica.com/features/2025/02/elon-musk-recommends-that-the-international-space-station-be-deorbited-asap/" >🔗</a> **[Arstechnica]** Elon Musk recommends that the International Space Station be deorbited ASAP
+- <a href="https://arstechnica.com/space/2025/02/elon-musk-recommends-that-the-international-space-station-be-deorbited-asap/" >🔗</a> **[Arstechnica]** Elon Musk recommends that the International Space Station be deorbited ASAP
 
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2025/02/21/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-12/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 450th Falcon rocket on Starlink 12-14 mission
 - <a href="https://www.nasaspaceflight.com/2025/02/launch-roundup-021725/" >🔗</a> **[NASASpaceflight]** Launch Roundup – Falcon 9 targets first Booster Landing in the Bahamas
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250221T070127">2025-02-21 07:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250221T073100">2025-02-21 07:31:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
