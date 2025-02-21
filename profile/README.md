@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/abl-space-renamed-long-wall-as-it-shifts-focus-to-defense-market/" >🔗</a> **[SpaceNews]** ABL Space renamed Long Wall as it shifts focus to defense market
 - <a href="https://spaceflightnow.com/2025/02/21/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-12/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 450th Falcon rocket on Starlink 12-14 mission
 - <a href="https://science.nasa.gov/blog/sols-4458-4460-winter-schminter/" >🔗</a> **[NASA]** Sols 4458-4460: Winter Schminter
 - <a href="https://spacepolicyonline.com/news/nasa-wins-flexibility-on-probationary-employees/" >🔗</a> **[SpacePolicyOnline.com]** NASA Wins Flexibility on Probationary Employees
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/history/60-years-ago-ranger-8-moon-photos-aid-in-apollo-site-selection/" >🔗</a> **[NASA]** 60 Years Ago: Ranger 8 Moon Photos Aid in Apollo Site Selection
 - <a href="https://arstechnica.com/features/2025/02/elon-musk-recommends-that-the-international-space-station-be-deorbited-asap/" >🔗</a> **[Arstechnica]** Elon Musk recommends that the International Space Station be deorbited ASAP
 - <a href="https://arstechnica.com/space/2025/02/elon-musk-recommends-that-the-international-space-station-be-deorbited-asap/" >🔗</a> **[Arstechnica]** Elon Musk recommends that the International Space Station be deorbited ASAP
-- <a href="https://www.nasa.gov/history/55-years-ago-preps-for-apollo-13-and-14-apollo-12-crew-on-world-tour/" >🔗</a> **[NASA]** 55 Years Ago: Preps for Apollo 13 and 14, Apollo 12 Crew on World Tour
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250221T020256">2025-02-21 02:02:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250221T024439">2025-02-21 02:44:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
