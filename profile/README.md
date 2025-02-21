@@ -46,7 +46,6 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250221T114000">2025-02-21 11:40:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-14&location=Cape Canaveral SFS, FL, USA&dates=20250221T114000Z%2F20250221T152539Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-14** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250222T120100">2025-02-22 12:01:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 3B/E | Unknown Payload&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20250222T120100Z%2F20250222T123600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 3B/E | Unknown Payload** from Xichang Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250222T222400">2025-02-22 22:24:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 15-1&location=Vandenberg SFB, CA, USA&dates=20250222T222400Z%2F20250223T024700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 15-1** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250224T044200">2025-02-24 04:42:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-13&location=Cape Canaveral SFS, FL, USA&dates=20250224T044200Z%2F20250224T084200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-13** from Cape Canaveral SFS, FL, USA.
@@ -91,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/middle-east/pld-space-miura-5-to-launch-from-oman-etlaq-spaceport-in-2027" >🔗</a> **[The Launch Pad]** PLD Space MIURA 5 to Launch from Oman Etlaq Spaceport In 2027
 - <a href="https://spacenews.com/ai-to-power-chinas-mission-to-the-edges-of-the-solar-system/" >🔗</a> **[SpaceNews]** AI to power China’s mission to the edges of the solar system
 - <a href="https://spacenews.com/isar-aerospace-completes-testing-of-first-spectrum-rocket/" >🔗</a> **[SpaceNews]** Isar Aerospace completes testing of first Spectrum rocket
+- <a href="https://www.nasaspaceflight.com/2025/02/isar-spectrum-static-fire/" >🔗</a> **[NASASpaceflight]** Isar Aerospace completes static fires of Spectrum rocket ahead of first European launch
 - <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/ESA_and_Red_Cross_partnership_brings_space_technology_to_disaster_management" >🔗</a> **[ESA]** ESA and Red Cross partnership brings space technology to disaster management
 - <a href="https://europeanspaceflight.com/isar-completes-final-static-fire-tests-ahead-of-inaugural-spectrum-flight/" >🔗</a> **[European Spaceflight]** Isar Completes Final Static Fire Tests Ahead of Inaugural Spectrum Flight
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/02/Earth_from_Space_Tokyo_Japan" >🔗</a> **[ESA]** Earth from Space: Tokyo, Japan
 - <a href="https://spacepolicyonline.com/news/nasa-responds-to-musk-statements-about-deorbiting-iss-butch-and-suni/" >🔗</a> **[SpacePolicyOnline.com]** NASA Responds to Musk Statements about Deorbiting ISS, Butch and Suni
 - <a href="https://spacenews.com/abl-space-renamed-long-wall-as-it-shifts-focus-to-defense-market/" >🔗</a> **[SpaceNews]** ABL Space renamed Long Wall as it shifts focus to defense market
 - <a href="https://spaceflightnow.com/2025/02/21/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-12/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 450th Falcon rocket on Starlink 12-14 mission
-- <a href="https://science.nasa.gov/blog/sols-4458-4460-winter-schminter/" >🔗</a> **[NASA]** Sols 4458-4460: Winter Schminter
-- <a href="https://spacepolicyonline.com/news/nasa-wins-flexibility-on-probationary-employees/" >🔗</a> **[SpacePolicyOnline.com]** NASA Wins Flexibility on Probationary Employees
 
 
 ### Launch-related News 🚀
@@ -111,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250221T113103">2025-02-21 11:31:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250221T120142">2025-02-21 12:01:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
