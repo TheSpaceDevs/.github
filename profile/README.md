@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/02/21/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-12/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 450th Falcon rocket on Starlink 12-14 mission
+- <a href="https://science.nasa.gov/blog/sols-4458-4460-winter-schminter/" >🔗</a> **[NASA]** Sols 4458-4460: Winter Schminter
 - <a href="https://spacepolicyonline.com/news/nasa-wins-flexibility-on-probationary-employees/" >🔗</a> **[SpacePolicyOnline.com]** NASA Wins Flexibility on Probationary Employees
 - <a href="https://www.nasa.gov/missions/guiding-orion-jorge-chongs-mission-to-advance-deep-space-exploration/" >🔗</a> **[NASA]** Guiding Orion: Jorge Chong’s Mission to Advance Deep Space Exploration
 - <a href="https://spacenews.com/musk-calls-for-deorbiting-iss-as-soon-as-possible/" >🔗</a> **[SpaceNews]** Musk calls for deorbiting ISS “as soon as possible”
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/features/2025/02/elon-musk-recommends-that-the-international-space-station-be-deorbited-asap/" >🔗</a> **[Arstechnica]** Elon Musk recommends that the International Space Station be deorbited ASAP
 - <a href="https://arstechnica.com/space/2025/02/elon-musk-recommends-that-the-international-space-station-be-deorbited-asap/" >🔗</a> **[Arstechnica]** Elon Musk recommends that the International Space Station be deorbited ASAP
 - <a href="https://www.nasa.gov/history/55-years-ago-preps-for-apollo-13-and-14-apollo-12-crew-on-world-tour/" >🔗</a> **[NASA]** 55 Years Ago: Preps for Apollo 13 and 14, Apollo 12 Crew on World Tour
-- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-simulated-mars-habitat-before-next-mission/" >🔗</a> **[NASA]** NASA Invites Media to Simulated Mars Habitat Before Next Mission
-- <a href="https://science.nasa.gov/science-research/earth-science/in-memoriam-jeff-dozier-1944-2024/" >🔗</a> **[NASA]** In Memoriam: Jeff Dozier [1944–2024]
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250221T000415">2025-02-21 00:04:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250221T004536">2025-02-21 00:45:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
