@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/hubble-captures-a-cosmic-cloudscape/" >🔗</a> **[NASA]** Hubble Captures a Cosmic Cloudscape
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-intuitive-machines-next-commercial-moon-launch/" >🔗</a> **[NASA]** NASA Sets Coverage for Intuitive Machines’ Next Commercial Moon Launch
 - <a href="https://www.nasa.gov/missions/artemis/nasa-marks-artemis-progress-with-gateway-lunar-space-station/" >🔗</a> **[NASA]** NASA Marks Artemis Progress With Gateway Lunar Space Station
 - <a href="https://spacenews.com/kapta-space-exits-stealth-mode-with-bold-plans-for-space-based-target-tracking/" >🔗</a> **[SpaceNews]** Kapta Space exits stealth mode with bold plans for space-based target tracking
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/missions/hubble/hubble-spies-a-spiral-that-may-be-hiding-an-imposter/" >🔗</a> **[NASA]** Hubble Spies a Spiral That May Be Hiding an Imposter
 - <a href="https://tlpnetwork.com/news/asia/china-readies-tianwen-2-for-historic-asteroid-sample-return-and-comet-study" >🔗</a> **[The Launch Pad]** China Readies Tianwen-2 for Historic Asteroid Sample Return and Comet Study
 - <a href="https://tlpnetwork.com/news/europe/isar-aerospace-successfully-completes-spectrum-rocket-testing-awaiting-first-launch-license" >🔗</a> **[The Launch Pad]** Isar Aerospace Successfully Completes Spectrum Rocket Testing; Awaiting First Launch License
-- <a href="https://tlpnetwork.com/news/middle-east/pld-space-miura-5-to-launch-from-oman-etlaq-spaceport-in-2027" >🔗</a> **[The Launch Pad]** PLD Space MIURA 5 to Launch from Oman Etlaq Spaceport In 2027
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250221T210120">2025-02-21 21:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250221T213106">2025-02-21 21:31:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
