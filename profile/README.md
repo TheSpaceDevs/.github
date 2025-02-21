@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/isar-completes-final-static-fire-tests-ahead-of-inaugural-spectrum-flight/" >🔗</a> **[European Spaceflight]** Isar Completes Final Static Fire Tests Ahead of Inaugural Spectrum Flight
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/02/Earth_from_Space_Tokyo_Japan" >🔗</a> **[ESA]** Earth from Space: Tokyo, Japan
 - <a href="https://spacepolicyonline.com/news/nasa-responds-to-musk-statements-about-deorbiting-iss-butch-and-suni/" >🔗</a> **[SpacePolicyOnline.com]** NASA Responds to Musk Statements about Deorbiting ISS, Butch and Suni
 - <a href="https://spacenews.com/abl-space-renamed-long-wall-as-it-shifts-focus-to-defense-market/" >🔗</a> **[SpaceNews]** ABL Space renamed Long Wall as it shifts focus to defense market
 - <a href="https://spaceflightnow.com/2025/02/21/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-12/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 450th Falcon rocket on Starlink 12-14 mission
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/missions/guiding-orion-jorge-chongs-mission-to-advance-deep-space-exploration/" >🔗</a> **[NASA]** Guiding Orion: Jorge Chong’s Mission to Advance Deep Space Exploration
 - <a href="https://spacenews.com/musk-calls-for-deorbiting-iss-as-soon-as-possible/" >🔗</a> **[SpaceNews]** Musk calls for deorbiting ISS “as soon as possible”
 - <a href="https://www.teslarati.com/spacex-completes-new-first-with-recent-falcon-9-launch/" >🔗</a> **[Teslarati]** SpaceX completes a new first with recent Falcon 9 launch
-- <a href="https://www.nasa.gov/history/60-years-ago-ranger-8-moon-photos-aid-in-apollo-site-selection/" >🔗</a> **[NASA]** 60 Years Ago: Ranger 8 Moon Photos Aid in Apollo Site Selection
-- <a href="https://arstechnica.com/space/2025/02/elon-musk-recommends-that-the-international-space-station-be-deorbited-asap/" >🔗</a> **[Arstechnica]** Elon Musk recommends that the International Space Station be deorbited ASAP
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250221T090123">2025-02-21 09:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250221T093206">2025-02-21 09:32:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
