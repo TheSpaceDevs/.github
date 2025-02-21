@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/pld-space-signs-agreement-to-launch-from-spaceport-in-oman/" >🔗</a> **[SpaceNews]** PLD Space signs agreement to launch from spaceport in Oman
 - <a href="https://science.nasa.gov/science-research/heliophysics/nasas-punch-mission-to-revolutionize-view-of-solar-wind/" >🔗</a> **[NASA]** NASA’s PUNCH Mission to Revolutionize Our View of Solar Wind
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_17-21_February_2025" >🔗</a> **[ESA]** Week in images: 17-21 February 2025
 - <a href="https://science.nasa.gov/missions/hubble/hubble-spies-a-spiral-that-may-be-hiding-an-imposter/" >🔗</a> **[NASA]** Hubble Spies a Spiral That May Be Hiding an Imposter
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/ai-to-power-chinas-mission-to-the-edges-of-the-solar-system/" >🔗</a> **[SpaceNews]** AI to power China’s mission to the edges of the solar system
 - <a href="https://spacenews.com/isar-aerospace-completes-testing-of-first-spectrum-rocket/" >🔗</a> **[SpaceNews]** Isar Aerospace completes testing of first Spectrum rocket
 - <a href="https://www.nasaspaceflight.com/2025/02/isar-spectrum-static-fire/" >🔗</a> **[NASASpaceflight]** Isar Aerospace completes static fires of Spectrum rocket ahead of first European launch
-- <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/ESA_and_Red_Cross_partnership_brings_space_technology_to_disaster_management" >🔗</a> **[ESA]** ESA and Red Cross partnership brings space technology to disaster management
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250221T173111">2025-02-21 17:31:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250221T180136">2025-02-21 18:01:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
