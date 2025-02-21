@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_17-21_February_2025" >🔗</a> **[ESA]** Week in images: 17-21 February 2025
+- <a href="https://science.nasa.gov/missions/hubble/hubble-spies-a-spiral-that-may-be-hiding-an-imposter/" >🔗</a> **[NASA]** Hubble Spies a Spiral That May Be Hiding an Imposter
 - <a href="https://tlpnetwork.com/news/asia/china-readies-tianwen-2-for-historic-asteroid-sample-return-and-comet-study" >🔗</a> **[The Launch Pad]** China Readies Tianwen-2 for Historic Asteroid Sample Return and Comet Study
 - <a href="https://tlpnetwork.com/news/europe/isar-aerospace-successfully-completes-spectrum-rocket-testing-awaiting-first-launch-license" >🔗</a> **[The Launch Pad]** Isar Aerospace Successfully Completes Spectrum Rocket Testing; Awaiting First Launch License
 - <a href="https://tlpnetwork.com/news/middle-east/pld-space-miura-5-to-launch-from-oman-etlaq-spaceport-in-2027" >🔗</a> **[The Launch Pad]** PLD Space MIURA 5 to Launch from Oman Etlaq Spaceport In 2027
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2025/02/isar-spectrum-static-fire/" >🔗</a> **[NASASpaceflight]** Isar Aerospace completes static fires of Spectrum rocket ahead of first European launch
 - <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/ESA_and_Red_Cross_partnership_brings_space_technology_to_disaster_management" >🔗</a> **[ESA]** ESA and Red Cross partnership brings space technology to disaster management
 - <a href="https://europeanspaceflight.com/isar-completes-final-static-fire-tests-ahead-of-inaugural-spectrum-flight/" >🔗</a> **[European Spaceflight]** Isar Completes Final Static Fire Tests Ahead of Inaugural Spectrum Flight
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/02/Earth_from_Space_Tokyo_Japan" >🔗</a> **[ESA]** Earth from Space: Tokyo, Japan
-- <a href="https://spacepolicyonline.com/news/nasa-responds-to-musk-statements-about-deorbiting-iss-butch-and-suni/" >🔗</a> **[SpacePolicyOnline.com]** NASA Responds to Musk Statements about Deorbiting ISS, Butch and Suni
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250221T140124">2025-02-21 14:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250221T143307">2025-02-21 14:33:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
