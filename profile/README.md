@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/policy-and-finance/nasa-selects-spacex-to-launch-planetary-defense-neo-surveyor-mission" >🔗</a> **[The Launch Pad]** NASA Selects SpaceX to Launch NEO Surveyor Mission for Planetary Defense
+- <a href="https://spacenews.com/boom-or-bust-making-sense-of-conflicting-signals-in-the-space-economy/" >🔗</a> **[SpaceNews]** Boom or bust? Making sense of conflicting signals in the space economy
+- <a href="https://tlpnetwork.com/news/policy-and-finance/nasa-awards-spacecraft-contract-to-bae-systems-for-next-noaa-space-weather-program" >🔗</a> **[The Launch Pad]** NASA Awards Spacecraft Contract to BAE Systems for Next NOAA Space Weather Program
+- <a href="https://tlpnetwork.com/news/in-space/us-space-force-releases-image-from-highly-classified-x-37b-spaceplane" >🔗</a> **[The Launch Pad]** US Space Force Releases Image from Highly Classified X-37B Spaceplane
+- <a href="https://www.nasa.gov/news-release/nasa-awards-planetary-defense-space-telescope-launch-services-contract/" >🔗</a> **[NASA]** NASA Awards Planetary Defense Space Telescope Launch Services Contract
 - <a href="https://spacenews.com/bae-wins-230-6-million-contract-for-space-weather-program/" >🔗</a> **[SpaceNews]** BAE wins $230.6 million contract for space weather program
 - <a href="https://www.teslarati.com/spacex-starships-next-test-flight-gets-target-date-heres-when-it-could-lift-off/" >🔗</a> **[Teslarati]** SpaceX Starship’s next test flight gets target date – Here’s when it could lift off
 - <a href="https://www.nasa.gov/news-release/nasa-awards-delivery-order-for-noaas-space-weather-program/" >🔗</a> **[NASA]** NASA Awards Delivery Order for NOAA’s Space Weather Program
 - <a href="https://www.nasaspaceflight.com/2025/02/flight-8-pad-a-readiness/" >🔗</a> **[NASASpaceflight]** Starship Flight 8 vehicles prepare to join forces at Pad A
 - <a href="https://www.nasa.gov/image-article/hubble-captures-a-cosmic-cloudscape/" >🔗</a> **[NASA]** Hubble Captures a Cosmic Cloudscape
-- <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-intuitive-machines-next-commercial-moon-launch/" >🔗</a> **[NASA]** NASA Sets Coverage for Intuitive Machines’ Next Commercial Moon Launch
-- <a href="https://www.nasa.gov/missions/artemis/nasa-marks-artemis-progress-with-gateway-lunar-space-station/" >🔗</a> **[NASA]** NASA Marks Artemis Progress With Gateway Lunar Space Station
-- <a href="https://spacenews.com/kapta-space-exits-stealth-mode-with-bold-plans-for-space-based-target-tracking/" >🔗</a> **[SpaceNews]** Kapta Space exits stealth mode with bold plans for space-based target tracking
-- <a href="https://spacenews.com/pld-space-signs-agreement-to-launch-from-spaceport-in-oman/" >🔗</a> **[SpaceNews]** PLD Space signs agreement to launch from spaceport in Oman
-- <a href="https://science.nasa.gov/science-research/heliophysics/nasas-punch-mission-to-revolutionize-view-of-solar-wind/" >🔗</a> **[NASA]** NASA’s PUNCH Mission to Revolutionize Our View of Solar Wind
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250221T230128">2025-02-21 23:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250221T233105">2025-02-21 23:31:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
