@@ -24,16 +24,16 @@ The next space launch, retrieved from our
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
 from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral SFS, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250221T113100">2025-02-21 11:31:00 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250221T114000">2025-02-21 11:40:00 UTC</a>.  Until
 then, this pad will have been used for 290
 out of 1005 launches from this location. The launch status is currently
-*TBC* 🟨 . The mission type is
+*Go* 🟩 . The mission type is
 *Communications* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  A batch of satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  A batch of 23 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
@@ -46,7 +46,7 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250221T113100">2025-02-21 11:31:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-14&location=Cape Canaveral SFS, FL, USA&dates=20250221T113100Z%2F20250221T160200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-14** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250221T114000">2025-02-21 11:40:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-14&location=Cape Canaveral SFS, FL, USA&dates=20250221T114000Z%2F20250221T152539Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-14** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250222T120100">2025-02-22 12:01:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 3B/E | Unknown Payload&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20250222T120100Z%2F20250222T123600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 3B/E | Unknown Payload** from Xichang Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250222T222400">2025-02-22 22:24:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 15-1&location=Vandenberg SFB, CA, USA&dates=20250222T222400Z%2F20250223T024700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 15-1** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250224T044200">2025-02-24 04:42:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-13&location=Cape Canaveral SFS, FL, USA&dates=20250224T044200Z%2F20250224T084200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-13** from Cape Canaveral SFS, FL, USA.
@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/nasa-responds-to-musk-statements-about-deorbiting-iss-butch-and-suni/" >🔗</a> **[SpacePolicyOnline.com]** NASA Responds to Musk Statements about Deorbiting ISS, Butch and Suni
 - <a href="https://spacenews.com/abl-space-renamed-long-wall-as-it-shifts-focus-to-defense-market/" >🔗</a> **[SpaceNews]** ABL Space renamed Long Wall as it shifts focus to defense market
 - <a href="https://spaceflightnow.com/2025/02/21/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-12/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 450th Falcon rocket on Starlink 12-14 mission
 - <a href="https://science.nasa.gov/blog/sols-4458-4460-winter-schminter/" >🔗</a> **[NASA]** Sols 4458-4460: Winter Schminter
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.teslarati.com/spacex-completes-new-first-with-recent-falcon-9-launch/" >🔗</a> **[Teslarati]** SpaceX completes a new first with recent Falcon 9 launch
 - <a href="https://www.nasa.gov/history/60-years-ago-ranger-8-moon-photos-aid-in-apollo-site-selection/" >🔗</a> **[NASA]** 60 Years Ago: Ranger 8 Moon Photos Aid in Apollo Site Selection
 - <a href="https://arstechnica.com/features/2025/02/elon-musk-recommends-that-the-international-space-station-be-deorbited-asap/" >🔗</a> **[Arstechnica]** Elon Musk recommends that the International Space Station be deorbited ASAP
-- <a href="https://arstechnica.com/space/2025/02/elon-musk-recommends-that-the-international-space-station-be-deorbited-asap/" >🔗</a> **[Arstechnica]** Elon Musk recommends that the International Space Station be deorbited ASAP
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250221T030541">2025-02-21 03:05:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250221T033443">2025-02-21 03:34:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
