@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/bae-wins-230-6-million-contract-for-space-weather-program/" >🔗</a> **[SpaceNews]** BAE wins $230.6 million contract for space weather program
+- <a href="https://www.teslarati.com/spacex-starships-next-test-flight-gets-target-date-heres-when-it-could-lift-off/" >🔗</a> **[Teslarati]** SpaceX Starship’s next test flight gets target date – Here’s when it could lift off
 - <a href="https://www.nasa.gov/news-release/nasa-awards-delivery-order-for-noaas-space-weather-program/" >🔗</a> **[NASA]** NASA Awards Delivery Order for NOAA’s Space Weather Program
 - <a href="https://www.nasaspaceflight.com/2025/02/flight-8-pad-a-readiness/" >🔗</a> **[NASASpaceflight]** Starship Flight 8 vehicles prepare to join forces at Pad A
 - <a href="https://www.nasa.gov/image-article/hubble-captures-a-cosmic-cloudscape/" >🔗</a> **[NASA]** Hubble Captures a Cosmic Cloudscape
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/kapta-space-exits-stealth-mode-with-bold-plans-for-space-based-target-tracking/" >🔗</a> **[SpaceNews]** Kapta Space exits stealth mode with bold plans for space-based target tracking
 - <a href="https://spacenews.com/pld-space-signs-agreement-to-launch-from-spaceport-in-oman/" >🔗</a> **[SpaceNews]** PLD Space signs agreement to launch from spaceport in Oman
 - <a href="https://science.nasa.gov/science-research/heliophysics/nasas-punch-mission-to-revolutionize-view-of-solar-wind/" >🔗</a> **[NASA]** NASA’s PUNCH Mission to Revolutionize Our View of Solar Wind
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_17-21_February_2025" >🔗</a> **[ESA]** Week in images: 17-21 February 2025
-- <a href="https://science.nasa.gov/missions/hubble/hubble-spies-a-spiral-that-may-be-hiding-an-imposter/" >🔗</a> **[NASA]** Hubble Spies a Spiral That May Be Hiding an Imposter
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250221T220128">2025-02-21 22:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250221T223311">2025-02-21 22:33:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
