@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/artemis/nasa-marks-artemis-progress-with-gateway-lunar-space-station/" >🔗</a> **[NASA]** NASA Marks Artemis Progress With Gateway Lunar Space Station
 - <a href="https://spacenews.com/kapta-space-exits-stealth-mode-with-bold-plans-for-space-based-target-tracking/" >🔗</a> **[SpaceNews]** Kapta Space exits stealth mode with bold plans for space-based target tracking
 - <a href="https://spacenews.com/pld-space-signs-agreement-to-launch-from-spaceport-in-oman/" >🔗</a> **[SpaceNews]** PLD Space signs agreement to launch from spaceport in Oman
 - <a href="https://science.nasa.gov/science-research/heliophysics/nasas-punch-mission-to-revolutionize-view-of-solar-wind/" >🔗</a> **[NASA]** NASA’s PUNCH Mission to Revolutionize Our View of Solar Wind
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://tlpnetwork.com/news/europe/isar-aerospace-successfully-completes-spectrum-rocket-testing-awaiting-first-launch-license" >🔗</a> **[The Launch Pad]** Isar Aerospace Successfully Completes Spectrum Rocket Testing; Awaiting First Launch License
 - <a href="https://tlpnetwork.com/news/middle-east/pld-space-miura-5-to-launch-from-oman-etlaq-spaceport-in-2027" >🔗</a> **[The Launch Pad]** PLD Space MIURA 5 to Launch from Oman Etlaq Spaceport In 2027
 - <a href="https://spacenews.com/ai-to-power-chinas-mission-to-the-edges-of-the-solar-system/" >🔗</a> **[SpaceNews]** AI to power China’s mission to the edges of the solar system
-- <a href="https://spacenews.com/isar-aerospace-completes-testing-of-first-spectrum-rocket/" >🔗</a> **[SpaceNews]** Isar Aerospace completes testing of first Spectrum rocket
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250221T193100">2025-02-21 19:31:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250221T200126">2025-02-21 20:01:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
