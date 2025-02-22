@@ -46,7 +46,7 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250222T222520">2025-02-22 22:25:20 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 15-1&location=Vandenberg SFB, CA, USA&dates=20250222T222520Z%2F20250223T011040Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 15-1** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250222T222520">2025-02-22 22:25:20 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 15-1&location=Vandenberg SFB, CA, USA&dates=20250222T222520Z%2F20250223T013820Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 15-1** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250224T044200">2025-02-24 04:42:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-13&location=Cape Canaveral SFS, FL, USA&dates=20250224T044200Z%2F20250224T084200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-13** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250225T075900">2025-02-25 07:59:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ceres-1 | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20250225T075900Z%2F20250225T084600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ceres-1 | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250225T143000">2025-02-25 14:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Shepard | NS-30&location=Corn Ranch, Van Horn, TX, USA&dates=20250225T143000Z%2F20250225T223000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Shepard | NS-30** from Corn Ranch, Van Horn, TX, USA.
@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/02/22/live-coverage-spacex-to-launch-22-starlink-satellites-on-falcon-9-rocket-from-california-4/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 22 Starlink satellites on Falcon 9 rocket from California
 - <a href="https://spacenews.com/china-launches-chinasat-10r-communications-satellite-from-xichang/" >🔗</a> **[SpaceNews]** China launches ChinaSat-10R communications satellite from Xichang
 - <a href="https://tlpnetwork.com/news/in-space/spacex-confirms-falcon-9-second-stage-reentry-over-europe-following-anomaly" >🔗</a> **[The Launch Pad]** SpaceX Confirms Falcon 9 Second Stage Reentry Over Europe Following Anomaly
 - <a href="https://europeanspaceflight.com/pld-space-signs-agreement-to-launch-miura-5-from-oman/" >🔗</a> **[European Spaceflight]** PLD Space Signs Agreement to Launch Miura 5 from Oman
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/boom-or-bust-making-sense-of-conflicting-signals-in-the-space-economy/" >🔗</a> **[SpaceNews]** Boom or bust? Making sense of conflicting signals in the space economy
 - <a href="https://tlpnetwork.com/news/policy-and-finance/nasa-awards-spacecraft-contract-to-bae-systems-for-next-noaa-space-weather-program" >🔗</a> **[The Launch Pad]** NASA Awards Spacecraft Contract to BAE Systems for Next NOAA Space Weather Program
 - <a href="https://tlpnetwork.com/news/in-space/us-space-force-releases-image-from-highly-classified-x-37b-spaceplane" >🔗</a> **[The Launch Pad]** US Space Force Releases Image from Highly Classified X-37B Spaceplane
-- <a href="https://www.nasa.gov/news-release/nasa-awards-planetary-defense-space-telescope-launch-services-contract/" >🔗</a> **[NASA]** NASA Awards Planetary Defense Space Telescope Launch Services Contract
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250222T193100">2025-02-22 19:31:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250222T200128">2025-02-22 20:01:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
