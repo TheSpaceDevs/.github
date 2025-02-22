@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/in-space/spacex-confirms-falcon-9-second-stage-reentry-over-europe-following-anomaly" >🔗</a> **[The Launch Pad]** SpaceX Confirms Falcon 9 Second Stage Reentry Over Europe Following Anomaly
 - <a href="https://europeanspaceflight.com/pld-space-signs-agreement-to-launch-miura-5-from-oman/" >🔗</a> **[European Spaceflight]** PLD Space Signs Agreement to Launch Miura 5 from Oman
 - <a href="https://spacenews.com/nasa-selects-spacex-to-launch-neo-surveyor/" >🔗</a> **[SpaceNews]** NASA selects SpaceX to launch NEO Surveyor
 - <a href="https://spacenews.com/house-members-seek-more-details-on-doge-activities-at-nasa/" >🔗</a> **[SpaceNews]** House members seek more details on DOGE activities at NASA
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/in-space/us-space-force-releases-image-from-highly-classified-x-37b-spaceplane" >🔗</a> **[The Launch Pad]** US Space Force Releases Image from Highly Classified X-37B Spaceplane
 - <a href="https://www.nasa.gov/news-release/nasa-awards-planetary-defense-space-telescope-launch-services-contract/" >🔗</a> **[NASA]** NASA Awards Planetary Defense Space Telescope Launch Services Contract
 - <a href="https://spacenews.com/bae-wins-230-6-million-contract-for-space-weather-program/" >🔗</a> **[SpaceNews]** BAE wins $230.6 million contract for space weather program
-- <a href="https://www.teslarati.com/spacex-starships-next-test-flight-gets-target-date-heres-when-it-could-lift-off/" >🔗</a> **[Teslarati]** SpaceX Starship’s next test flight gets target date – Here’s when it could lift off
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250222T170125">2025-02-22 17:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250222T173152">2025-02-22 17:31:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
