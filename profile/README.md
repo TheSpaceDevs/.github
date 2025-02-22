@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/house-members-seek-more-details-on-doge-activities-at-nasa/" >🔗</a> **[SpaceNews]** House members seek more details on DOGE activities at NASA
 - <a href="https://tlpnetwork.com/news/policy-and-finance/nasa-selects-spacex-to-launch-planetary-defense-neo-surveyor-mission" >🔗</a> **[The Launch Pad]** NASA Selects SpaceX to Launch NEO Surveyor Mission for Planetary Defense
 - <a href="https://spacenews.com/boom-or-bust-making-sense-of-conflicting-signals-in-the-space-economy/" >🔗</a> **[SpaceNews]** Boom or bust? Making sense of conflicting signals in the space economy
 - <a href="https://tlpnetwork.com/news/policy-and-finance/nasa-awards-spacecraft-contract-to-bae-systems-for-next-noaa-space-weather-program" >🔗</a> **[The Launch Pad]** NASA Awards Spacecraft Contract to BAE Systems for Next NOAA Space Weather Program
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.teslarati.com/spacex-starships-next-test-flight-gets-target-date-heres-when-it-could-lift-off/" >🔗</a> **[Teslarati]** SpaceX Starship’s next test flight gets target date – Here’s when it could lift off
 - <a href="https://www.nasa.gov/news-release/nasa-awards-delivery-order-for-noaas-space-weather-program/" >🔗</a> **[NASA]** NASA Awards Delivery Order for NOAA’s Space Weather Program
 - <a href="https://www.nasaspaceflight.com/2025/02/flight-8-pad-a-readiness/" >🔗</a> **[NASASpaceflight]** Starship Flight 8 vehicles prepare to join forces at Pad A
-- <a href="https://www.nasa.gov/image-article/hubble-captures-a-cosmic-cloudscape/" >🔗</a> **[NASA]** Hubble Captures a Cosmic Cloudscape
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250222T000414">2025-02-22 00:04:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250222T004532">2025-02-22 00:45:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
