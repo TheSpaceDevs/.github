@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/02/22/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-13/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spaceflightnow.com/2025/02/22/live-coverage-spacex-to-launch-22-starlink-satellites-on-falcon-9-rocket-from-california-4/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 22 Starlink satellites on Falcon 9 rocket from California
 - <a href="https://spacenews.com/china-launches-chinasat-10r-communications-satellite-from-xichang/" >🔗</a> **[SpaceNews]** China launches ChinaSat-10R communications satellite from Xichang
 - <a href="https://tlpnetwork.com/news/in-space/spacex-confirms-falcon-9-second-stage-reentry-over-europe-following-anomaly" >🔗</a> **[The Launch Pad]** SpaceX Confirms Falcon 9 Second Stage Reentry Over Europe Following Anomaly
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/policy-and-finance/nasa-selects-spacex-to-launch-planetary-defense-neo-surveyor-mission" >🔗</a> **[The Launch Pad]** NASA Selects SpaceX to Launch NEO Surveyor Mission for Planetary Defense
 - <a href="https://spacenews.com/boom-or-bust-making-sense-of-conflicting-signals-in-the-space-economy/" >🔗</a> **[SpaceNews]** Boom or bust? Making sense of conflicting signals in the space economy
 - <a href="https://tlpnetwork.com/news/policy-and-finance/nasa-awards-spacecraft-contract-to-bae-systems-for-next-noaa-space-weather-program" >🔗</a> **[The Launch Pad]** NASA Awards Spacecraft Contract to BAE Systems for Next NOAA Space Weather Program
-- <a href="https://tlpnetwork.com/news/in-space/us-space-force-releases-image-from-highly-classified-x-37b-spaceplane" >🔗</a> **[The Launch Pad]** US Space Force Releases Image from Highly Classified X-37B Spaceplane
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250222T213100">2025-02-22 21:31:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250222T220119">2025-02-22 22:01:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
