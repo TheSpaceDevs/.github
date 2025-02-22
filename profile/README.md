@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/pld-space-signs-agreement-to-launch-miura-5-from-oman/" >🔗</a> **[European Spaceflight]** PLD Space Signs Agreement to Launch Miura 5 from Oman
 - <a href="https://spacenews.com/nasa-selects-spacex-to-launch-neo-surveyor/" >🔗</a> **[SpaceNews]** NASA selects SpaceX to launch NEO Surveyor
 - <a href="https://spacenews.com/house-members-seek-more-details-on-doge-activities-at-nasa/" >🔗</a> **[SpaceNews]** House members seek more details on DOGE activities at NASA
 - <a href="https://tlpnetwork.com/news/policy-and-finance/nasa-selects-spacex-to-launch-planetary-defense-neo-surveyor-mission" >🔗</a> **[The Launch Pad]** NASA Selects SpaceX to Launch NEO Surveyor Mission for Planetary Defense
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/news-release/nasa-awards-planetary-defense-space-telescope-launch-services-contract/" >🔗</a> **[NASA]** NASA Awards Planetary Defense Space Telescope Launch Services Contract
 - <a href="https://spacenews.com/bae-wins-230-6-million-contract-for-space-weather-program/" >🔗</a> **[SpaceNews]** BAE wins $230.6 million contract for space weather program
 - <a href="https://www.teslarati.com/spacex-starships-next-test-flight-gets-target-date-heres-when-it-could-lift-off/" >🔗</a> **[Teslarati]** SpaceX Starship’s next test flight gets target date – Here’s when it could lift off
-- <a href="https://www.nasa.gov/news-release/nasa-awards-delivery-order-for-noaas-space-weather-program/" >🔗</a> **[NASA]** NASA Awards Delivery Order for NOAA’s Space Weather Program
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250222T060128">2025-02-22 06:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250222T063609">2025-02-22 06:36:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
