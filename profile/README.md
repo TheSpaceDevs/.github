@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/02/vlt-tylos-atmosphere/" >🔗</a> **[NASASpaceflight]** ESO’s VLT reveals inner wind layers of distant exoplanet
 - <a href="https://spacenews.com/kbr-wins-176-million-contract-to-modernize-u-s-space-surveillance-site/" >🔗</a> **[SpaceNews]** KBR wins $176 million contract to modernize U.S. space surveillance site
 - <a href="https://spacenews.com/propellant-leak-blamed-for-falcon-9-upper-stage-uncontrolled-reentry/" >🔗</a> **[SpaceNews]** Propellant leak blamed for Falcon 9 upper stage uncontrolled reentry
 - <a href="https://spaceflightnow.com/2025/02/22/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-13/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket from Cape Canaveral
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/pld-space-signs-agreement-to-launch-miura-5-from-oman/" >🔗</a> **[European Spaceflight]** PLD Space Signs Agreement to Launch Miura 5 from Oman
 - <a href="https://spacenews.com/nasa-selects-spacex-to-launch-neo-surveyor/" >🔗</a> **[SpaceNews]** NASA selects SpaceX to launch NEO Surveyor
 - <a href="https://spacenews.com/house-members-seek-more-details-on-doge-activities-at-nasa/" >🔗</a> **[SpaceNews]** House members seek more details on DOGE activities at NASA
-- <a href="https://tlpnetwork.com/news/policy-and-finance/nasa-selects-spacex-to-launch-planetary-defense-neo-surveyor-mission" >🔗</a> **[The Launch Pad]** NASA Selects SpaceX to Launch NEO Surveyor Mission for Planetary Defense
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250223T220127">2025-02-23 22:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250223T223235">2025-02-23 22:32:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
