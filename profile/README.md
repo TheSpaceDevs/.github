@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/kbr-wins-176-million-contract-to-modernize-u-s-space-surveillance-site/" >🔗</a> **[SpaceNews]** KBR wins $176 million contract to modernize U.S. space surveillance site
 - <a href="https://spacenews.com/propellant-leak-blamed-for-falcon-9-upper-stage-uncontrolled-reentry/" >🔗</a> **[SpaceNews]** Propellant leak blamed for Falcon 9 upper stage uncontrolled reentry
 - <a href="https://spaceflightnow.com/2025/02/22/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-13/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spaceflightnow.com/2025/02/22/live-coverage-spacex-to-launch-22-starlink-satellites-on-falcon-9-rocket-from-california-4/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 22 Starlink satellites on Falcon 9 rocket from California
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/nasa-selects-spacex-to-launch-neo-surveyor/" >🔗</a> **[SpaceNews]** NASA selects SpaceX to launch NEO Surveyor
 - <a href="https://spacenews.com/house-members-seek-more-details-on-doge-activities-at-nasa/" >🔗</a> **[SpaceNews]** House members seek more details on DOGE activities at NASA
 - <a href="https://tlpnetwork.com/news/policy-and-finance/nasa-selects-spacex-to-launch-planetary-defense-neo-surveyor-mission" >🔗</a> **[The Launch Pad]** NASA Selects SpaceX to Launch NEO Surveyor Mission for Planetary Defense
-- <a href="https://spacenews.com/boom-or-bust-making-sense-of-conflicting-signals-in-the-space-economy/" >🔗</a> **[SpaceNews]** Boom or bust? Making sense of conflicting signals in the space economy
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250223T130358">2025-02-23 13:03:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250223T133105">2025-02-23 13:31:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
