@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasa-marshall-reflects-on-65-years-of-ingenuity-teamwork/" >🔗</a> **[NASA]** NASA Marshall Reflects on 65 Years of Ingenuity, Teamwork
+- <a href="https://arstechnica.com/space/2025/02/asteroid-2024-yr4-may-be-a-dud-but-we-will-soon-find-many-more-threats/" >🔗</a> **[Arstechnica]** Asteroid 2024 YR4 may be a dud, but we will soon find many more threats
+- <a href="https://spacenews.com/trekking-into-the-stars-why-due-regard-provides-us-a-new-hope/" >🔗</a> **[SpaceNews]** Reaping space’s decline? Why to choose the durability of due regard over the debris of military devastation
 - <a href="https://europeanspaceflight.com/avio-test-fires-multi-purpose-green-engine-for-the-first-time/" >🔗</a> **[European Spaceflight]** Avio Test Fires Multi-Purpose Green Engine for the First Time
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba-3/Proba-3_stargazing_to_warm_up_for_corona_observations" >🔗</a> **[ESA]** Proba-3 stargazing to warm up for corona observations
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Future_space_transportation/Vary_that_thrust_longer_hot-fire_of_rocket_engine_demonstrator" >🔗</a> **[ESA]** Vary that thrust: longer hot-fire of rocket engine demonstrator
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/aeronautics/programs-1st-award-to-community-college/" >🔗</a> **[NASA]** NASA University Research Program Makes First Award to a Community College Project
 - <a href="https://spacenews.com/space-development-agency-satellite-procurements-moving-forward-amid-heightened-scrutiny/" >🔗</a> **[SpaceNews]** Space Development Agency satellite procurements moving forward amid heightened scrutiny
 - <a href="https://spacenews.com/nasa-employees-advised-to-delay-responses-to-what-did-you-do-email/" >🔗</a> **[SpaceNews]** NASA employees advised to delay responses to “what did you do” email
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-february-23-march-2-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy February 23-March 2, 2025
-- <a href="https://www.nasaspaceflight.com/2025/02/vlt-tylos-atmosphere/" >🔗</a> **[NASASpaceflight]** ESO’s VLT reveals inner wind layers of distant exoplanet
-- <a href="https://spacenews.com/kbr-wins-176-million-contract-to-modernize-u-s-space-surveillance-site/" >🔗</a> **[SpaceNews]** KBR wins $176 million contract to modernize U.S. space surveillance site
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250224T150136">2025-02-24 15:01:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250224T153401">2025-02-24 15:34:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
