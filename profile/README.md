@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-attend-alabama-space-day-2025/" >🔗</a> **[NASA]** NASA Invites Media to Attend Alabama Space Day 2025
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasa-marshall-reflects-on-65-years-of-ingenuity-teamwork/" >🔗</a> **[NASA]** NASA Marshall Reflects on 65 Years of Ingenuity, Teamwork
 - <a href="https://arstechnica.com/space/2025/02/asteroid-2024-yr4-may-be-a-dud-but-we-will-soon-find-many-more-threats/" >🔗</a> **[Arstechnica]** Asteroid 2024 YR4 may be a dud, but we will soon find many more threats
 - <a href="https://spacenews.com/trekking-into-the-stars-why-due-regard-provides-us-a-new-hope/" >🔗</a> **[SpaceNews]** Reaping space’s decline? Why to choose the durability of due regard over the debris of military devastation
 - <a href="https://europeanspaceflight.com/avio-test-fires-multi-purpose-green-engine-for-the-first-time/" >🔗</a> **[European Spaceflight]** Avio Test Fires Multi-Purpose Green Engine for the First Time
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba-3/Proba-3_stargazing_to_warm_up_for_corona_observations" >🔗</a> **[ESA]** Proba-3 stargazing to warm up for corona observations
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Future_space_transportation/Vary_that_thrust_longer_hot-fire_of_rocket_engine_demonstrator" >🔗</a> **[ESA]** Vary that thrust: longer hot-fire of rocket engine demonstrator
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-feb-21-2025/" >🔗</a> **[NASA]** Station Science Top News: Feb. 21, 2025
 - <a href="https://spacenews.com/gilmour-space-announces-mid-march-target-for-first-eris-launch/" >🔗</a> **[SpaceNews]** Gilmour Space announces mid-March target for first Eris launch
 - <a href="https://www.nasa.gov/aeronautics/programs-1st-award-to-community-college/" >🔗</a> **[NASA]** NASA University Research Program Makes First Award to a Community College Project
-- <a href="https://spacenews.com/space-development-agency-satellite-procurements-moving-forward-amid-heightened-scrutiny/" >🔗</a> **[SpaceNews]** Space Development Agency satellite procurements moving forward amid heightened scrutiny
-- <a href="https://spacenews.com/nasa-employees-advised-to-delay-responses-to-what-did-you-do-email/" >🔗</a> **[SpaceNews]** NASA employees advised to delay responses to “what did you do” email
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250224T180139">2025-02-24 18:01:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250224T183635">2025-02-24 18:36:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
