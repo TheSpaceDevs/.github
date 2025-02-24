@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-employees-advised-to-delay-responses-to-what-did-you-do-email/" >🔗</a> **[SpaceNews]** NASA employees advised to delay responses to “what did you do” email
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-february-23-march-2-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy February 23-March 2, 2025
 - <a href="https://www.nasaspaceflight.com/2025/02/vlt-tylos-atmosphere/" >🔗</a> **[NASASpaceflight]** ESO’s VLT reveals inner wind layers of distant exoplanet
 - <a href="https://spacenews.com/kbr-wins-176-million-contract-to-modernize-u-s-space-surveillance-site/" >🔗</a> **[SpaceNews]** KBR wins $176 million contract to modernize U.S. space surveillance site
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/china-launches-chinasat-10r-communications-satellite-from-xichang/" >🔗</a> **[SpaceNews]** China launches ChinaSat-10R communications satellite from Xichang
 - <a href="https://tlpnetwork.com/news/in-space/spacex-confirms-falcon-9-second-stage-reentry-over-europe-following-anomaly" >🔗</a> **[The Launch Pad]** SpaceX Confirms Falcon 9 Second Stage Reentry Over Europe Following Anomaly
 - <a href="https://europeanspaceflight.com/pld-space-signs-agreement-to-launch-miura-5-from-oman/" >🔗</a> **[European Spaceflight]** PLD Space Signs Agreement to Launch Miura 5 from Oman
-- <a href="https://spacenews.com/nasa-selects-spacex-to-launch-neo-surveyor/" >🔗</a> **[SpaceNews]** NASA selects SpaceX to launch NEO Surveyor
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250224T000449">2025-02-24 00:04:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250224T004545">2025-02-24 00:45:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
