@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/ames-own-wayne-r-johnson-elected-to-the-2025-national-academy-of-engineering-class/" >🔗</a> **[NASA]** Ames’ Own: Wayne R. Johnson Elected to the 2025 National Academy of Engineering Class
+- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-observe-firesense-prescribed-burn-at-kennedy/" >🔗</a> **[NASA]** NASA Invites Media to Observe FireSense Prescribed Burn at Kennedy
 - <a href="https://spacenews.com/more-than-180-experts-space-agencies-government-officials-and-industry-leaders-confirmed-for-farnborough-international-space-show-isrse-40-programmes/" >🔗</a> **[SpaceNews]** More than 180 experts, space agencies, government officials and industry leaders confirmed for Farnborough International Space Show & ISRSE-40 programmes
 - <a href="https://www.nasa.gov/news-release/nasa-names-acting-associate-administrator-more-leadership-changes/" >🔗</a> **[NASA]** NASA Names Acting Associate Administrator, More Leadership Changes
 - <a href="https://tlpnetwork.com/news/america/spacex-targets-friday-for-starship-flight-8-following-flight-7-anomaly-investigation" >🔗</a> **[The Launch Pad]** SpaceX Targets Friday For Starship Flight 8 Following Flight 7 Anomaly Investigation
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2025/02/asteroid-2024-yr4-may-be-a-dud-but-we-will-soon-find-many-more-threats/" >🔗</a> **[Arstechnica]** Asteroid 2024 YR4 may be a dud, but we will soon find many more threats
 - <a href="https://spacenews.com/trekking-into-the-stars-why-due-regard-provides-us-a-new-hope/" >🔗</a> **[SpaceNews]** Reaping space’s decline? Why to choose the durability of due regard over the debris of military devastation
 - <a href="https://europeanspaceflight.com/avio-test-fires-multi-purpose-green-engine-for-the-first-time/" >🔗</a> **[European Spaceflight]** Avio Test Fires Multi-Purpose Green Engine for the First Time
-- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba-3/Proba-3_stargazing_to_warm_up_for_corona_observations" >🔗</a> **[ESA]** Proba-3 stargazing to warm up for corona observations
-- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Future_space_transportation/Vary_that_thrust_longer_hot-fire_of_rocket_engine_demonstrator" >🔗</a> **[ESA]** Vary that thrust: longer hot-fire of rocket engine demonstrator
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250224T200131">2025-02-24 20:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250224T203255">2025-02-24 20:32:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
