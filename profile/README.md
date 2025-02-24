@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/more-than-180-experts-space-agencies-government-officials-and-industry-leaders-confirmed-for-farnborough-international-space-show-isrse-40-programmes/" >🔗</a> **[SpaceNews]** More than 180 experts, space agencies, government officials and industry leaders confirmed for Farnborough International Space Show & ISRSE-40 programmes
+- <a href="https://www.nasa.gov/news-release/nasa-names-acting-associate-administrator-more-leadership-changes/" >🔗</a> **[NASA]** NASA Names Acting Associate Administrator, More Leadership Changes
 - <a href="https://tlpnetwork.com/news/america/spacex-targets-friday-for-starship-flight-8-following-flight-7-anomaly-investigation" >🔗</a> **[The Launch Pad]** SpaceX Targets Friday For Starship Flight 8 Following Flight 7 Anomaly Investigation
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-attend-alabama-space-day-2025/" >🔗</a> **[NASA]** NASA Invites Media to Attend Alabama Space Day 2025
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasa-marshall-reflects-on-65-years-of-ingenuity-teamwork/" >🔗</a> **[NASA]** NASA Marshall Reflects on 65 Years of Ingenuity, Teamwork
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/avio-test-fires-multi-purpose-green-engine-for-the-first-time/" >🔗</a> **[European Spaceflight]** Avio Test Fires Multi-Purpose Green Engine for the First Time
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba-3/Proba-3_stargazing_to_warm_up_for_corona_observations" >🔗</a> **[ESA]** Proba-3 stargazing to warm up for corona observations
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Future_space_transportation/Vary_that_thrust_longer_hot-fire_of_rocket_engine_demonstrator" >🔗</a> **[ESA]** Vary that thrust: longer hot-fire of rocket engine demonstrator
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-feb-21-2025/" >🔗</a> **[NASA]** Station Science Top News: Feb. 21, 2025
-- <a href="https://spacenews.com/gilmour-space-announces-mid-march-target-for-first-eris-launch/" >🔗</a> **[SpaceNews]** Gilmour Space announces mid-March target for first Eris launch
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250224T193100">2025-02-24 19:31:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250224T200131">2025-02-24 20:01:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
