@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/avio-test-fires-multi-purpose-green-engine-for-the-first-time/" >🔗</a> **[European Spaceflight]** Avio Test Fires Multi-Purpose Green Engine for the First Time
+- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba-3/Proba-3_stargazing_to_warm_up_for_corona_observations" >🔗</a> **[ESA]** Proba-3 stargazing to warm up for corona observations
+- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Future_space_transportation/Vary_that_thrust_longer_hot-fire_of_rocket_engine_demonstrator" >🔗</a> **[ESA]** Vary that thrust: longer hot-fire of rocket engine demonstrator
 - <a href="https://spacenews.com/gilmour-space-announces-mid-march-target-for-first-eris-launch/" >🔗</a> **[SpaceNews]** Gilmour Space announces mid-March target for first Eris launch
 - <a href="https://www.nasa.gov/aeronautics/programs-1st-award-to-community-college/" >🔗</a> **[NASA]** NASA University Research Program Makes First Award to a Community College Project
 - <a href="https://spacenews.com/space-development-agency-satellite-procurements-moving-forward-amid-heightened-scrutiny/" >🔗</a> **[SpaceNews]** Space Development Agency satellite procurements moving forward amid heightened scrutiny
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-february-23-march-2-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy February 23-March 2, 2025
 - <a href="https://www.nasaspaceflight.com/2025/02/vlt-tylos-atmosphere/" >🔗</a> **[NASASpaceflight]** ESO’s VLT reveals inner wind layers of distant exoplanet
 - <a href="https://spacenews.com/kbr-wins-176-million-contract-to-modernize-u-s-space-surveillance-site/" >🔗</a> **[SpaceNews]** KBR wins $176 million contract to modernize U.S. space surveillance site
-- <a href="https://spacenews.com/propellant-leak-blamed-for-falcon-9-upper-stage-uncontrolled-reentry/" >🔗</a> **[SpaceNews]** Propellant leak blamed for Falcon 9 upper stage uncontrolled reentry
-- <a href="https://spaceflightnow.com/2025/02/22/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-13/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket from Cape Canaveral
-- <a href="https://spaceflightnow.com/2025/02/22/live-coverage-spacex-to-launch-22-starlink-satellites-on-falcon-9-rocket-from-california-4/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 22 Starlink satellites on Falcon 9 rocket from California
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250224T130617">2025-02-24 13:06:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250224T133437">2025-02-24 13:34:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
