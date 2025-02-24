@@ -91,8 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/space-development-agency-satellite-procurements-moving-forward-amid-heightened-scrutiny/" >🔗</a> **[SpaceNews]** Space Development Agency satellite procurements moving forward amid heightened scrutiny
+- <a href="https://spacenews.com/gilmour-space-announces-mid-march-target-for-first-eris-launch/" >🔗</a> **[SpaceNews]** Gilmour Space announces mid-March target for first Eris launch
 - <a href="https://www.nasa.gov/aeronautics/programs-1st-award-to-community-college/" >🔗</a> **[NASA]** NASA University Research Program Makes First Award to a Community College Project
+- <a href="https://spacenews.com/space-development-agency-satellite-procurements-moving-forward-amid-heightened-scrutiny/" >🔗</a> **[SpaceNews]** Space Development Agency satellite procurements moving forward amid heightened scrutiny
 - <a href="https://spacenews.com/nasa-employees-advised-to-delay-responses-to-what-did-you-do-email/" >🔗</a> **[SpaceNews]** NASA employees advised to delay responses to “what did you do” email
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-february-23-march-2-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy February 23-March 2, 2025
 - <a href="https://www.nasaspaceflight.com/2025/02/vlt-tylos-atmosphere/" >🔗</a> **[NASASpaceflight]** ESO’s VLT reveals inner wind layers of distant exoplanet
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/propellant-leak-blamed-for-falcon-9-upper-stage-uncontrolled-reentry/" >🔗</a> **[SpaceNews]** Propellant leak blamed for Falcon 9 upper stage uncontrolled reentry
 - <a href="https://spaceflightnow.com/2025/02/22/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-13/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spaceflightnow.com/2025/02/22/live-coverage-spacex-to-launch-22-starlink-satellites-on-falcon-9-rocket-from-california-4/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 22 Starlink satellites on Falcon 9 rocket from California
-- <a href="https://spacenews.com/china-launches-chinasat-10r-communications-satellite-from-xichang/" >🔗</a> **[SpaceNews]** China launches ChinaSat-10R communications satellite from Xichang
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250224T113108">2025-02-24 11:31:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250224T120206">2025-02-24 12:02:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
