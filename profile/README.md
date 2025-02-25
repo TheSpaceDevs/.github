@@ -46,7 +46,6 @@ into *a Suborbital
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250225T143000">2025-02-25 14:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Shepard | NS-30&location=Corn Ranch, Van Horn, TX, USA&dates=20250225T143000Z%2F20250225T223000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Shepard | NS-30** from Corn Ranch, Van Horn, TX, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250226T034700">2025-02-26 03:47:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-13&location=Cape Canaveral SFS, FL, USA&dates=20250226T034700Z%2F20250226T074700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-13** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250227T001700">2025-02-27 00:17:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Nova-C IM-2 &amp; Lunar Trailblazer&location=Kennedy Space Center, FL, USA&dates=20250227T001700Z%2F20250227T001700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Nova-C IM-2 & Lunar Trailblazer** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250227T070100">2025-02-27 07:01:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2C | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20250227T070100Z%2F20250227T072900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2C | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
@@ -91,16 +90,16 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/magdrive-raises-10-5m-to-advance-satellite-propulsion-systems/" >🔗</a> **[European Spaceflight]** Magdrive Raises $10.5M to Advance Satellite Propulsion Systems
+- <a href="https://spacenews.com/spacenews-launches-the-spacenews-exchange-a-new-hub-for-jobs-talent-and-connection-in-the-space-industry/" >🔗</a> **[SpaceNews]** SpaceNews Launches The SpaceNews Exchange: A New Hub for Jobs, Talent, and Connection in the Space Industry
+- <a href="https://spacenews.com/former-fcc-space-bureau-chief-joins-law-firm/" >🔗</a> **[SpaceNews]** Former FCC Space Bureau chief joins law firm
+- <a href="https://spacenews.com/magdrive-raises-10-5-million-and-opens-u-s-office/" >🔗</a> **[SpaceNews]** Magdrive raises $10.5 million and opens U.S. office
 - <a href="https://www.nasa.gov/missions/artemis/nasa-prepares-gateway-lunar-space-station-for-journey-to-moon/" >🔗</a> **[NASA]** NASA Prepares Gateway Lunar Space Station for Journey to Moon
 - <a href="https://spacenews.com/the-outernet-with-declan-ganley/" >🔗</a> **[SpaceNews]** The Outernet with Declan Ganley
 - <a href="https://spacenews.com/china-to-send-a-spacecraft-out-of-the-ecliptic-to-study-the-suns-poles/" >🔗</a> **[SpaceNews]** China to send a spacecraft out of the ecliptic to study the Sun’s poles
 - <a href="https://www.nasa.gov/solar-system/nasa-new-study-on-why-mars-is-red-supports-potentially-habitable-past/" >🔗</a> **[NASA]** NASA: New Study on Why Mars is Red Supports Potentially Habitable Past
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Have_we_been_wrong_about_why_Mars_is_red" >🔗</a> **[ESA]** Have we been wrong about why Mars is red?
 - <a href="https://www.esa.int/Space_Safety/Planetary_Defence/Asteroid_2024_YR4_no_longer_poses_significant_impact_risk" >🔗</a> **[ESA]** Asteroid 2024 YR4 no longer poses significant impact risk
-- <a href="https://spacenews.com/spacex-completes-investigation-into-starship-flight-7-mishap/" >🔗</a> **[SpaceNews]** SpaceX completes investigation into Starship Flight 7 mishap
-- <a href="https://europeanspaceflight.com/poland-completes-second-variable-thrust-rocket-engine-test-campaign/" >🔗</a> **[European Spaceflight]** Poland Completes Second Variable-Thrust Rocket Engine Test Campaign
-- <a href="https://spacenews.com/nasa-associate-administrator-for-exploration-to-retire/" >🔗</a> **[SpaceNews]** NASA associate administrator for exploration to retire
-- <a href="https://spacepolicyonline.com/news/asteroid-2024-yr4-no-threat-to-earth-but-maybe-the-moon/" >🔗</a> **[SpacePolicyOnline.com]** Asteroid 2024 YR4 No Threat to Earth, but Maybe the Moon
 
 
 ### Launch-related News 🚀
@@ -110,7 +109,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250225T140122">2025-02-25 14:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250225T143440">2025-02-25 14:34:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
