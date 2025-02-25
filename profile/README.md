@@ -27,7 +27,7 @@ from *<a href="https://en.wikipedia.org/wiki/Corn_Ranch">West Texas Suborbital L
 at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250225T143000">2025-02-25 14:30:00 UTC</a>.  Until
 then, this pad will have been used for 29
 out of 29 launches from this location. The launch status is currently
-*Go* 🟩 . The mission type is
+*Hold* 🟪 . The mission type is
 *Tourism* and the payload will be injected
 into *a Suborbital
 (Sub)*.
@@ -90,16 +90,16 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/directorates/smd/is-there-potential-for-life-on-europa-we-asked-a-nasa-expert-episode-52/" >🔗</a> **[NASA]** Is There Potential for Life on Europa? We Asked a NASA Expert: Episode 52
+- <a href="https://www.nasa.gov/missions/station/iss-research/science-in-orbit-results-published-on-space-station-research-in-2024/" >🔗</a> **[NASA]** Science in Orbit: Results Published on Space Station Research in 2024
+- <a href="https://spacenews.com/time-to-refocus-america-needs-a-stronger-space-force/" >🔗</a> **[SpaceNews]** Time to refocus: America needs a stronger Space Force
 - <a href="https://europeanspaceflight.com/magdrive-raises-10-5m-to-advance-satellite-propulsion-systems/" >🔗</a> **[European Spaceflight]** Magdrive Raises $10.5M to Advance Satellite Propulsion Systems
 - <a href="https://spacenews.com/spacenews-launches-the-spacenews-exchange-a-new-hub-for-jobs-talent-and-connection-in-the-space-industry/" >🔗</a> **[SpaceNews]** SpaceNews Launches The SpaceNews Exchange: A New Hub for Jobs, Talent, and Connection in the Space Industry
-- <a href="https://spacenews.com/former-fcc-space-bureau-chief-joins-law-firm/" >🔗</a> **[SpaceNews]** Former FCC Space Bureau chief joins law firm
 - <a href="https://spacenews.com/magdrive-raises-10-5-million-and-opens-u-s-office/" >🔗</a> **[SpaceNews]** Magdrive raises $10.5 million and opens U.S. office
+- <a href="https://spacenews.com/former-fcc-space-bureau-chief-joins-law-firm/" >🔗</a> **[SpaceNews]** Former FCC Space Bureau chief joins law firm
 - <a href="https://www.nasa.gov/missions/artemis/nasa-prepares-gateway-lunar-space-station-for-journey-to-moon/" >🔗</a> **[NASA]** NASA Prepares Gateway Lunar Space Station for Journey to Moon
 - <a href="https://spacenews.com/the-outernet-with-declan-ganley/" >🔗</a> **[SpaceNews]** The Outernet with Declan Ganley
 - <a href="https://spacenews.com/china-to-send-a-spacecraft-out-of-the-ecliptic-to-study-the-suns-poles/" >🔗</a> **[SpaceNews]** China to send a spacecraft out of the ecliptic to study the Sun’s poles
-- <a href="https://www.nasa.gov/solar-system/nasa-new-study-on-why-mars-is-red-supports-potentially-habitable-past/" >🔗</a> **[NASA]** NASA: New Study on Why Mars is Red Supports Potentially Habitable Past
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Have_we_been_wrong_about_why_Mars_is_red" >🔗</a> **[ESA]** Have we been wrong about why Mars is red?
-- <a href="https://www.esa.int/Space_Safety/Planetary_Defence/Asteroid_2024_YR4_no_longer_poses_significant_impact_risk" >🔗</a> **[ESA]** Asteroid 2024 YR4 no longer poses significant impact risk
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250225T150130">2025-02-25 15:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250225T153339">2025-02-25 15:33:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
