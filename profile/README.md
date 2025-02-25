@@ -91,6 +91,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/the-outernet-with-declan-ganley/" >🔗</a> **[SpaceNews]** The Outernet with Declan Ganley
 - <a href="https://spacenews.com/china-to-send-a-spacecraft-out-of-the-ecliptic-to-study-the-suns-poles/" >🔗</a> **[SpaceNews]** China to send a spacecraft out of the ecliptic to study the Sun’s poles
 - <a href="https://www.nasa.gov/solar-system/nasa-new-study-on-why-mars-is-red-supports-potentially-habitable-past/" >🔗</a> **[NASA]** NASA: New Study on Why Mars is Red Supports Potentially Habitable Past
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Have_we_been_wrong_about_why_Mars_is_red" >🔗</a> **[ESA]** Have we been wrong about why Mars is red?
@@ -100,7 +101,6 @@ into *a Suborbital
 - <a href="https://spacenews.com/nasa-associate-administrator-for-exploration-to-retire/" >🔗</a> **[SpaceNews]** NASA associate administrator for exploration to retire
 - <a href="https://spacepolicyonline.com/news/asteroid-2024-yr4-no-threat-to-earth-but-maybe-the-moon/" >🔗</a> **[SpacePolicyOnline.com]** Asteroid 2024 YR4 No Threat to Earth, but Maybe the Moon
 - <a href="https://spacepolicyonline.com/news/more-leadership-changes-at-nasa/" >🔗</a> **[SpacePolicyOnline.com]** More Leadership Changes at NASA
-- <a href="https://spacenews.com/space-force-to-play-central-role-in-iron-dome-u-s-missile-defense-initiative/" >🔗</a> **[SpaceNews]** Space Force to play ‘central role’ in Iron Dome U.S. missile defense initiative
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250225T120201">2025-02-25 12:02:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250225T124246">2025-02-25 12:42:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
