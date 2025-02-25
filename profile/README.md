@@ -91,6 +91,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/poland-completes-second-variable-thrust-rocket-engine-test-campaign/" >🔗</a> **[European Spaceflight]** Poland Completes Second Variable-Thrust Rocket Engine Test Campaign
 - <a href="https://spacenews.com/nasa-associate-administrator-for-exploration-to-retire/" >🔗</a> **[SpaceNews]** NASA associate administrator for exploration to retire
 - <a href="https://spacepolicyonline.com/news/asteroid-2024-yr4-no-threat-to-earth-but-maybe-the-moon/" >🔗</a> **[SpacePolicyOnline.com]** Asteroid 2024 YR4 No Threat to Earth, but Maybe the Moon
 - <a href="https://spacepolicyonline.com/news/more-leadership-changes-at-nasa/" >🔗</a> **[SpacePolicyOnline.com]** More Leadership Changes at NASA
@@ -100,7 +101,6 @@ into *a Suborbital
 - <a href="https://spacenews.com/despite-looming-defense-cuts-analysts-see-long-term-upside-for-space-investments/" >🔗</a> **[SpaceNews]** Despite looming defense cuts, analysts see long-term upside for space investments
 - <a href="https://www.nasaspaceflight.com/2025/02/launch-roundup-022425/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Starship, lunar lander, and telescope missions set for launch
 - <a href="https://www.nasa.gov/news-release/nasa-to-provide-coverage-of-progress-91-launch-space-station-docking/" >🔗</a> **[NASA]** NASA to Provide Coverage of Progress 91 Launch, Space Station Docking
-- <a href="https://www.nasa.gov/image-article/venus-blows-off-some-steam/" >🔗</a> **[NASA]** Venus Blows Off Some Steam
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250225T073106">2025-02-25 07:31:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250225T080143">2025-02-25 08:01:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
