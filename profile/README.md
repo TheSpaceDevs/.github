@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/diamonds-from-nasas-x-59/" >🔗</a> **[NASA]** Diamonds from NASA’s X-59
+- <a href="https://www.nasa.gov/missions/europa-clipper/nasas-europa-clipper-uses-mars-to-go-the-distance/" >🔗</a> **[NASA]** NASA’s Europa Clipper Uses Mars to Go the Distance
 - <a href="https://www.nasa.gov/directorates/smd/is-there-potential-for-life-on-europa-we-asked-a-nasa-expert-episode-52/" >🔗</a> **[NASA]** Is There Potential for Life on Europa? We Asked a NASA Expert: Episode 52
 - <a href="https://www.nasa.gov/missions/station/iss-research/science-in-orbit-results-published-on-space-station-research-in-2024/" >🔗</a> **[NASA]** Science in Orbit: Results Published on Space Station Research in 2024
 - <a href="https://spacenews.com/time-to-refocus-america-needs-a-stronger-space-force/" >🔗</a> **[SpaceNews]** Time to refocus: America needs a stronger Space Force
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/magdrive-raises-10-5-million-and-opens-u-s-office/" >🔗</a> **[SpaceNews]** Magdrive raises $10.5 million and opens U.S. office
 - <a href="https://spacenews.com/former-fcc-space-bureau-chief-joins-law-firm/" >🔗</a> **[SpaceNews]** Former FCC Space Bureau chief joins law firm
 - <a href="https://www.nasa.gov/missions/artemis/nasa-prepares-gateway-lunar-space-station-for-journey-to-moon/" >🔗</a> **[NASA]** NASA Prepares Gateway Lunar Space Station for Journey to Moon
-- <a href="https://spacenews.com/the-outernet-with-declan-ganley/" >🔗</a> **[SpaceNews]** The Outernet with Declan Ganley
-- <a href="https://spacenews.com/china-to-send-a-spacecraft-out-of-the-ecliptic-to-study-the-suns-poles/" >🔗</a> **[SpaceNews]** China to send a spacecraft out of the ecliptic to study the Sun’s poles
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250225T170131">2025-02-25 17:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250225T173409">2025-02-25 17:34:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
