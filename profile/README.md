@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/u-s-air-force-to-explore-xona-spaces-commercial-alternative-to-gps/" >🔗</a> **[SpaceNews]** U.S. Air Force to explore Xona Space’s commercial alternative to GPS
+- <a href="https://spacenews.com/eutelsat-hails-pioneering-5g-test-over-leo/" >🔗</a> **[SpaceNews]** Eutelsat hails pioneering 5G test over LEO
 - <a href="https://www.nasa.gov/image-article/diamonds-from-nasas-x-59/" >🔗</a> **[NASA]** Diamonds from NASA’s X-59
 - <a href="https://tlpnetwork.com/news/europe/magdrive-secures-105m-to-advance-high-power-electric-propulsion-announce-us-expansion" >🔗</a> **[The Launch Pad]** Magdrive Secures $10.5M to Advance High-Power Electric Propulsion, Announce US Expansion
 - <a href="https://www.nasa.gov/missions/europa-clipper/nasas-europa-clipper-uses-mars-to-go-the-distance/" >🔗</a> **[NASA]** NASA’s Europa Clipper Uses Mars to Go the Distance
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/time-to-refocus-america-needs-a-stronger-space-force/" >🔗</a> **[SpaceNews]** Time to refocus: America needs a stronger Space Force
 - <a href="https://europeanspaceflight.com/magdrive-raises-10-5m-to-advance-satellite-propulsion-systems/" >🔗</a> **[European Spaceflight]** Magdrive Raises $10.5M to Advance Satellite Propulsion Systems
 - <a href="https://spacenews.com/spacenews-launches-the-spacenews-exchange-a-new-hub-for-jobs-talent-and-connection-in-the-space-industry/" >🔗</a> **[SpaceNews]** SpaceNews Launches The SpaceNews Exchange: A New Hub for Jobs, Talent, and Connection in the Space Industry
-- <a href="https://spacenews.com/magdrive-raises-10-5-million-and-opens-u-s-office/" >🔗</a> **[SpaceNews]** Magdrive raises $10.5 million and opens U.S. office
-- <a href="https://spacenews.com/former-fcc-space-bureau-chief-joins-law-firm/" >🔗</a> **[SpaceNews]** Former FCC Space Bureau chief joins law firm
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250225T210124">2025-02-25 21:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250225T213121">2025-02-25 21:31:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
