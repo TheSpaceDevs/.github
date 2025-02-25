@@ -91,6 +91,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/artemis/nasa-prepares-gateway-lunar-space-station-for-journey-to-moon/" >🔗</a> **[NASA]** NASA Prepares Gateway Lunar Space Station for Journey to Moon
 - <a href="https://spacenews.com/the-outernet-with-declan-ganley/" >🔗</a> **[SpaceNews]** The Outernet with Declan Ganley
 - <a href="https://spacenews.com/china-to-send-a-spacecraft-out-of-the-ecliptic-to-study-the-suns-poles/" >🔗</a> **[SpaceNews]** China to send a spacecraft out of the ecliptic to study the Sun’s poles
 - <a href="https://www.nasa.gov/solar-system/nasa-new-study-on-why-mars-is-red-supports-potentially-habitable-past/" >🔗</a> **[NASA]** NASA: New Study on Why Mars is Red Supports Potentially Habitable Past
@@ -100,7 +101,6 @@ into *a Suborbital
 - <a href="https://europeanspaceflight.com/poland-completes-second-variable-thrust-rocket-engine-test-campaign/" >🔗</a> **[European Spaceflight]** Poland Completes Second Variable-Thrust Rocket Engine Test Campaign
 - <a href="https://spacenews.com/nasa-associate-administrator-for-exploration-to-retire/" >🔗</a> **[SpaceNews]** NASA associate administrator for exploration to retire
 - <a href="https://spacepolicyonline.com/news/asteroid-2024-yr4-no-threat-to-earth-but-maybe-the-moon/" >🔗</a> **[SpacePolicyOnline.com]** Asteroid 2024 YR4 No Threat to Earth, but Maybe the Moon
-- <a href="https://spacepolicyonline.com/news/more-leadership-changes-at-nasa/" >🔗</a> **[SpacePolicyOnline.com]** More Leadership Changes at NASA
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250225T130608">2025-02-25 13:06:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250225T133431">2025-02-25 13:34:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
