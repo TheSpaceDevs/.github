@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-associate-administrator-for-exploration-to-retire/" >🔗</a> **[SpaceNews]** NASA associate administrator for exploration to retire
 - <a href="https://spacepolicyonline.com/news/asteroid-2024-yr4-no-threat-to-earth-but-maybe-the-moon/" >🔗</a> **[SpacePolicyOnline.com]** Asteroid 2024 YR4 No Threat to Earth, but Maybe the Moon
 - <a href="https://spacepolicyonline.com/news/more-leadership-changes-at-nasa/" >🔗</a> **[SpacePolicyOnline.com]** More Leadership Changes at NASA
 - <a href="https://spacenews.com/space-force-to-play-central-role-in-iron-dome-u-s-missile-defense-initiative/" >🔗</a> **[SpaceNews]** Space Force to play ‘central role’ in Iron Dome U.S. missile defense initiative
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2025/02/launch-roundup-022425/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Starship, lunar lander, and telescope missions set for launch
 - <a href="https://www.nasa.gov/news-release/nasa-to-provide-coverage-of-progress-91-launch-space-station-docking/" >🔗</a> **[NASA]** NASA to Provide Coverage of Progress 91 Launch, Space Station Docking
 - <a href="https://www.nasa.gov/image-article/venus-blows-off-some-steam/" >🔗</a> **[NASA]** Venus Blows Off Some Steam
-- <a href="https://www.nasa.gov/general/ames-own-wayne-r-johnson-elected-to-the-2025-national-academy-of-engineering-class/" >🔗</a> **[NASA]** Ames’ Own: Wayne R. Johnson Elected to the 2025 National Academy of Engineering Class
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250225T020402">2025-02-25 02:04:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250225T024540">2025-02-25 02:45:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
