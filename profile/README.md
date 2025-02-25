@@ -91,6 +91,8 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/solar-system/nasa-new-study-on-why-mars-is-red-supports-potentially-habitable-past/" >🔗</a> **[NASA]** NASA: New Study on Why Mars is Red Supports Potentially Habitable Past
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Have_we_been_wrong_about_why_Mars_is_red" >🔗</a> **[ESA]** Have we been wrong about why Mars is red?
 - <a href="https://www.esa.int/Space_Safety/Planetary_Defence/Asteroid_2024_YR4_no_longer_poses_significant_impact_risk" >🔗</a> **[ESA]** Asteroid 2024 YR4 no longer poses significant impact risk
 - <a href="https://spacenews.com/spacex-completes-investigation-into-starship-flight-7-mishap/" >🔗</a> **[SpaceNews]** SpaceX completes investigation into Starship Flight 7 mishap
 - <a href="https://europeanspaceflight.com/poland-completes-second-variable-thrust-rocket-engine-test-campaign/" >🔗</a> **[European Spaceflight]** Poland Completes Second Variable-Thrust Rocket Engine Test Campaign
@@ -99,8 +101,6 @@ into *a Suborbital
 - <a href="https://spacepolicyonline.com/news/more-leadership-changes-at-nasa/" >🔗</a> **[SpacePolicyOnline.com]** More Leadership Changes at NASA
 - <a href="https://spacenews.com/space-force-to-play-central-role-in-iron-dome-u-s-missile-defense-initiative/" >🔗</a> **[SpaceNews]** Space Force to play ‘central role’ in Iron Dome U.S. missile defense initiative
 - <a href="https://www.nasa.gov/directorates/stmd/five-facts-about-nasas-moon-bound-technology/" >🔗</a> **[NASA]** Five Facts About NASA’s Moon Bound Technology
-- <a href="https://www.nasa.gov/centers-and-facilities/kennedy/nasas-moon-bound-tech/" >🔗</a> **[NASA]** Five Facts About NASA’s Moon Bound Technology
-- <a href="https://spacenews.com/despite-looming-defense-cuts-analysts-see-long-term-upside-for-space-investments/" >🔗</a> **[SpaceNews]** Despite looming defense cuts, analysts see long-term upside for space investments
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250225T100130">2025-02-25 10:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250225T103510">2025-02-25 10:35:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
