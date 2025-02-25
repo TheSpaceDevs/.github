@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/02/25/live-coverage-spacex-to-launch-intuitive-machines-moon-lander-on-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Intuitive Machines’ Moon lander on Falcon 9 rocket from the Kennedy Space Center
 - <a href="https://spacenews.com/u-s-air-force-to-explore-xona-spaces-commercial-alternative-to-gps/" >🔗</a> **[SpaceNews]** U.S. Air Force to explore Xona Space’s commercial alternative to GPS
 - <a href="https://spacenews.com/eutelsat-hails-pioneering-5g-test-over-leo/" >🔗</a> **[SpaceNews]** Eutelsat hails pioneering 5G test over LEO
 - <a href="https://www.nasa.gov/image-article/diamonds-from-nasas-x-59/" >🔗</a> **[NASA]** Diamonds from NASA’s X-59
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/missions/station/iss-research/science-in-orbit-results-published-on-space-station-research-in-2024/" >🔗</a> **[NASA]** Science in Orbit: Results Published on Space Station Research in 2024
 - <a href="https://spacenews.com/time-to-refocus-america-needs-a-stronger-space-force/" >🔗</a> **[SpaceNews]** Time to refocus: America needs a stronger Space Force
 - <a href="https://europeanspaceflight.com/magdrive-raises-10-5m-to-advance-satellite-propulsion-systems/" >🔗</a> **[European Spaceflight]** Magdrive Raises $10.5M to Advance Satellite Propulsion Systems
-- <a href="https://spacenews.com/spacenews-launches-the-spacenews-exchange-a-new-hub-for-jobs-talent-and-connection-in-the-space-industry/" >🔗</a> **[SpaceNews]** SpaceNews Launches The SpaceNews Exchange: A New Hub for Jobs, Talent, and Connection in the Space Industry
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250225T220124">2025-02-25 22:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250225T223332">2025-02-25 22:33:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
