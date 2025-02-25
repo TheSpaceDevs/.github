@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.nasa.gov/directorates/stmd/five-facts-about-nasas-moon-bound-technology/" >🔗</a> **[NASA]** Five Facts About NASA’s Moon Bound Technology
+- <a href="https://spacepolicyonline.com/news/more-leadership-changes-at-nasa/" >🔗</a> **[SpacePolicyOnline.com]** More Leadership Changes at NASA
+- <a href="https://spacenews.com/space-force-to-play-central-role-in-iron-dome-u-s-missile-defense-initiative/" >🔗</a> **[SpaceNews]** Space Force to play ‘central role’ in Iron Dome U.S. missile defense initiative
 - <a href="https://www.nasa.gov/centers-and-facilities/kennedy/nasas-moon-bound-tech/" >🔗</a> **[NASA]** Five Facts About NASA’s Moon Bound Technology
+- <a href="https://www.nasa.gov/directorates/stmd/five-facts-about-nasas-moon-bound-technology/" >🔗</a> **[NASA]** Five Facts About NASA’s Moon Bound Technology
 - <a href="https://spacenews.com/despite-looming-defense-cuts-analysts-see-long-term-upside-for-space-investments/" >🔗</a> **[SpaceNews]** Despite looming defense cuts, analysts see long-term upside for space investments
 - <a href="https://www.nasaspaceflight.com/2025/02/launch-roundup-022425/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Starship, lunar lander, and telescope missions set for launch
 - <a href="https://www.nasa.gov/news-release/nasa-to-provide-coverage-of-progress-91-launch-space-station-docking/" >🔗</a> **[NASA]** NASA to Provide Coverage of Progress 91 Launch, Space Station Docking
 - <a href="https://www.nasa.gov/image-article/venus-blows-off-some-steam/" >🔗</a> **[NASA]** Venus Blows Off Some Steam
 - <a href="https://www.nasa.gov/general/ames-own-wayne-r-johnson-elected-to-the-2025-national-academy-of-engineering-class/" >🔗</a> **[NASA]** Ames’ Own: Wayne R. Johnson Elected to the 2025 National Academy of Engineering Class
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-observe-firesense-prescribed-burn-at-kennedy/" >🔗</a> **[NASA]** NASA Invites Media to Observe FireSense Prescribed Burn at Kennedy
-- <a href="https://spacenews.com/more-than-180-experts-space-agencies-government-officials-and-industry-leaders-confirmed-for-farnborough-international-space-show-isrse-40-programmes/" >🔗</a> **[SpaceNews]** More than 180 experts, space agencies, government officials and industry leaders confirmed for Farnborough International Space Show & ISRSE-40 programmes
-- <a href="https://www.nasa.gov/news-release/nasa-names-acting-associate-administrator-more-leadership-changes/" >🔗</a> **[NASA]** NASA Names Acting Associate Administrator, More Leadership Changes
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250225T000419">2025-02-25 00:04:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250225T004537">2025-02-25 00:45:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
