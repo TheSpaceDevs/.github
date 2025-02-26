@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/blue-origin-launches-tenth-new-shepard-suborbital-human-spaceflight/" >🔗</a> **[SpaceNews]** Blue Origin launches tenth New Shepard suborbital human spaceflight
+- <a href="https://www.nasaspaceflight.com/2025/02/china-roundup-022225/" >🔗</a> **[NASASpaceflight]** Chang Zheng 8A launches as Chinese spaceport expansions begin
 - <a href="https://spacenews.com/wargaming-the-unknown-the-space-forces-challenge-in-preparing-for-a-war-no-one-has-fought/" >🔗</a> **[SpaceNews]** Wargaming the Unknown: The Space Force’s challenge in preparing for a war no one has fought
 - <a href="https://spaceflightnow.com/2025/02/25/live-coverage-spacex-to-launch-intuitive-machines-moon-lander-on-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Intuitive Machines’ Moon lander on Falcon 9 rocket from the Kennedy Space Center
 - <a href="https://spacenews.com/u-s-air-force-to-explore-xona-spaces-commercial-alternative-to-gps/" >🔗</a> **[SpaceNews]** U.S. Air Force to explore Xona Space’s commercial alternative to GPS
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/europe/magdrive-secures-105m-to-advance-high-power-electric-propulsion-announce-us-expansion" >🔗</a> **[The Launch Pad]** Magdrive Secures $10.5M to Advance High-Power Electric Propulsion, Announce US Expansion
 - <a href="https://www.nasa.gov/missions/europa-clipper/nasas-europa-clipper-uses-mars-to-go-the-distance/" >🔗</a> **[NASA]** NASA’s Europa Clipper Uses Mars to Go the Distance
 - <a href="https://www.nasa.gov/directorates/smd/is-there-potential-for-life-on-europa-we-asked-a-nasa-expert-episode-52/" >🔗</a> **[NASA]** Is There Potential for Life on Europa? We Asked a NASA Expert: Episode 52
-- <a href="https://www.nasa.gov/missions/station/iss-research/science-in-orbit-results-published-on-space-station-research-in-2024/" >🔗</a> **[NASA]** Science in Orbit: Results Published on Space Station Research in 2024
-- <a href="https://spacenews.com/time-to-refocus-america-needs-a-stronger-space-force/" >🔗</a> **[SpaceNews]** Time to refocus: America needs a stronger Space Force
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250225T233103">2025-02-25 23:31:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250226T000420">2025-02-26 00:04:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
