@@ -105,6 +105,7 @@ into *a Lunar Orbit
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-intuitive-machines-next-commercial-moon-launch/" >🔗</a> **[NASA]** NASA Sets Coverage for Intuitive Machines’ Next Commercial Moon Launch
 - <a href="https://tlpnetwork.com/news/america/intuitive-machines-im-2-athena-lunar-lander-encapsulated-and-go-for-launch" >🔗</a> **[The Launch Pad]** Intuitive Machines IM-2 Athena Lunar Lander Encapsulated and "GO" for Launch
 - <a href="https://www.nasa.gov/centers-and-facilities/jpl/how-nasas-lunar-trailblazer-will-make-a-looping-voyage-to-the-moon/" >🔗</a> **[NASA]** How NASA’s Lunar Trailblazer Will Make a Looping Voyage to the Moon
 - <a href="https://www.nasa.gov/centers-and-facilities/kennedy/nasas-polar-ice-experiment-paves-way-for-future-moon-missions/" >🔗</a> **[NASA]** NASA’s Polar Ice Experiment Paves Way for Future Moon Missions
@@ -114,12 +115,11 @@ into *a Lunar Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/jpl/nasa-jpl-prepping-for-full-year-of-launches-mission-milestones/" >🔗</a> **[NASA]** NASA JPL Prepping for Full Year of Launches, Mission Milestones
 - <a href="https://arstechnica.com/space/2025/01/intuitive-machines-set-for-second-landing-looking-to-build-a-lunar-economy/" >🔗</a> **[Arstechnica]** Intuitive Machines set for second landing, looking to build a lunar economy
 - <a href="https://www.nasa.gov/missions/small-satellite-missions/lunar-trailblazer/how-nasas-lunar-trailblazer-could-decipher-the-moons-icy-secrets/" >🔗</a> **[NASA]** How NASA’s Lunar Trailblazer Could Decipher the Moon’s Icy Secrets
-- <a href="https://spacenews.com/ice-hunting-lunar-trailblazer-im2-nearly-ready-january-2025-launch/" >🔗</a> **[SpaceNews]** Ice-hunting Lunar Trailblazer and IM-2 nearly ready for January 2025 launch
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250226T110133">2025-02-26 11:01:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250226T113108">2025-02-26 11:31:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
