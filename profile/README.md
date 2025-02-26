@@ -91,16 +91,16 @@ into *a Lunar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/small-satellite-missions/lunar-trailblazer/6-things-to-know-about-nasas-lunar-trailblazer/" >🔗</a> **[NASA]** 6 Things to Know About NASA’s Lunar Trailblazer
+- <a href="https://www.teslarati.com/spacex-explains-reasoning-for-starship-7-upper-stage-loss/" >🔗</a> **[Teslarati]** SpaceX explains reasoning for Starship 7 upper stage loss
 - <a href="https://spacenews.com/congressional-watchdog-flags-risks-in-space-development-agencys-satellite-program/" >🔗</a> **[SpaceNews]** Congressional watchdog flags risks in Space Development Agency’s satellite program
+- <a href="https://science.nasa.gov/open-science/artist-data-visualization/" >🔗</a> **[NASA]** NASA Open Data Turns Science Into Art
+- <a href="https://www.nasa.gov/news-release/nasas-spacex-crew-9-to-discuss-space-station-mission-upcoming-return/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-9 to Discuss Space Station Mission, Upcoming Return
 - <a href="https://spacenews.com/war-of-words-heats-up-over-space-forces-strategic-posture/" >🔗</a> **[SpaceNews]** War of words heats up over Space Force’s strategic posture
 - <a href="https://tlpnetwork.com/news/america/seagate-space-corporation-launches-with-mission-to-return-offshore-launch-platforms-to-america" >🔗</a> **[The Launch Pad]** Seagate Space Corporation Launches With Mission To Return Offshore Launch Platforms to America
+- <a href="https://www.nasa.gov/centers-and-facilities/stennis/stennis-flashback-diagnostic-test-facility/" >🔗</a> **[NASA]** NASA Stennis Flashback: Learning About Rocket Engine Smoke for Safe Space Travel
 - <a href="https://arstechnica.com/space/2025/02/long-time-advocate-of-sls-rocket-says-its-time-to-find-an-off-ramp/" >🔗</a> **[Arstechnica]** Long-time advocate of SLS rocket says it’s time to find an “off-ramp”
 - <a href="https://spacenews.com/keep-nasas-innovation-engine-going/" >🔗</a> **[SpaceNews]** Keep NASA’s innovation engine going
-- <a href="https://spacenews.com/second-intuitive-machines-lunar-lander-ready-for-launch/" >🔗</a> **[SpaceNews]** Second Intuitive Machines lunar lander ready for launch
-- <a href="https://www.esa.int/Enabling_Support/Preparing_for_the_Future/Discovery_and_Preparation/ESA_seeks_companies_to_commercialise_inventions" >🔗</a> **[ESA]** ESA seeks companies to commercialise inventions
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/02/Drilling_into_Mars" >🔗</a> **[ESA]** Drilling into Mars
-- <a href="https://europeanspaceflight.com/cira-qualifies-key-element-of-space-riders-thermal-protection-system/" >🔗</a> **[European Spaceflight]** CIRA Qualifies Key Element of Space Rider’s Thermal Protection System
-- <a href="https://spacepolicyonline.com/news/iron-dome-becomes-golden-dome/" >🔗</a> **[SpacePolicyOnline.com]** “Iron Dome” Becomes “Golden Dome”
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Lunar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250226T200131">2025-02-26 20:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250226T203242">2025-02-26 20:32:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
