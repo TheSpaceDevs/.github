@@ -91,6 +91,7 @@ into *a Lunar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Enabling_Support/Preparing_for_the_Future/Discovery_and_Preparation/ESA_seeks_companies_to_commercialise_inventions" >🔗</a> **[ESA]** ESA seeks companies to commercialise inventions
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/02/Drilling_into_Mars" >🔗</a> **[ESA]** Drilling into Mars
 - <a href="https://europeanspaceflight.com/cira-qualifies-key-element-of-space-riders-thermal-protection-system/" >🔗</a> **[European Spaceflight]** CIRA Qualifies Key Element of Space Rider’s Thermal Protection System
 - <a href="https://spacepolicyonline.com/news/iron-dome-becomes-golden-dome/" >🔗</a> **[SpacePolicyOnline.com]** “Iron Dome” Becomes “Golden Dome”
@@ -100,7 +101,6 @@ into *a Lunar Orbit
 - <a href="https://spaceflightnow.com/2025/02/25/live-coverage-spacex-to-launch-intuitive-machines-moon-lander-on-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Intuitive Machines’ Moon lander on Falcon 9 rocket from the Kennedy Space Center
 - <a href="https://spacenews.com/u-s-air-force-to-explore-xona-spaces-commercial-alternative-to-gps/" >🔗</a> **[SpaceNews]** U.S. Air Force to explore Xona Space’s commercial alternative to GPS
 - <a href="https://spacenews.com/eutelsat-hails-pioneering-5g-test-over-leo/" >🔗</a> **[SpaceNews]** Eutelsat hails pioneering 5G test over LEO
-- <a href="https://www.nasa.gov/image-article/diamonds-from-nasas-x-59/" >🔗</a> **[NASA]** Diamonds from NASA’s X-59
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Lunar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250226T113108">2025-02-26 11:31:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250226T120146">2025-02-26 12:01:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
