@@ -91,6 +91,7 @@ into *a Lunar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/congressional-watchdog-flags-risks-in-space-development-agencys-satellite-program/" >🔗</a> **[SpaceNews]** Congressional watchdog flags risks in Space Development Agency’s satellite program
 - <a href="https://spacenews.com/war-of-words-heats-up-over-space-forces-strategic-posture/" >🔗</a> **[SpaceNews]** War of words heats up over Space Force’s strategic posture
 - <a href="https://tlpnetwork.com/news/america/seagate-space-corporation-launches-with-mission-to-return-offshore-launch-platforms-to-america" >🔗</a> **[The Launch Pad]** Seagate Space Corporation Launches With Mission To Return Offshore Launch Platforms to America
 - <a href="https://arstechnica.com/space/2025/02/long-time-advocate-of-sls-rocket-says-its-time-to-find-an-off-ramp/" >🔗</a> **[Arstechnica]** Long-time advocate of SLS rocket says it’s time to find an “off-ramp”
@@ -100,7 +101,6 @@ into *a Lunar Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/02/Drilling_into_Mars" >🔗</a> **[ESA]** Drilling into Mars
 - <a href="https://europeanspaceflight.com/cira-qualifies-key-element-of-space-riders-thermal-protection-system/" >🔗</a> **[European Spaceflight]** CIRA Qualifies Key Element of Space Rider’s Thermal Protection System
 - <a href="https://spacepolicyonline.com/news/iron-dome-becomes-golden-dome/" >🔗</a> **[SpacePolicyOnline.com]** “Iron Dome” Becomes “Golden Dome”
-- <a href="https://spacenews.com/blue-origin-launches-tenth-new-shepard-suborbital-human-spaceflight/" >🔗</a> **[SpaceNews]** Blue Origin launches tenth New Shepard suborbital human spaceflight
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Lunar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250226T193110">2025-02-26 19:31:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250226T200131">2025-02-26 20:01:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
