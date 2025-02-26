@@ -91,6 +91,7 @@ into *a Lunar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/02/Drilling_into_Mars" >🔗</a> **[ESA]** Drilling into Mars
 - <a href="https://europeanspaceflight.com/cira-qualifies-key-element-of-space-riders-thermal-protection-system/" >🔗</a> **[European Spaceflight]** CIRA Qualifies Key Element of Space Rider’s Thermal Protection System
 - <a href="https://spacepolicyonline.com/news/iron-dome-becomes-golden-dome/" >🔗</a> **[SpacePolicyOnline.com]** “Iron Dome” Becomes “Golden Dome”
 - <a href="https://spacenews.com/blue-origin-launches-tenth-new-shepard-suborbital-human-spaceflight/" >🔗</a> **[SpaceNews]** Blue Origin launches tenth New Shepard suborbital human spaceflight
@@ -100,7 +101,6 @@ into *a Lunar Orbit
 - <a href="https://spacenews.com/u-s-air-force-to-explore-xona-spaces-commercial-alternative-to-gps/" >🔗</a> **[SpaceNews]** U.S. Air Force to explore Xona Space’s commercial alternative to GPS
 - <a href="https://spacenews.com/eutelsat-hails-pioneering-5g-test-over-leo/" >🔗</a> **[SpaceNews]** Eutelsat hails pioneering 5G test over LEO
 - <a href="https://www.nasa.gov/image-article/diamonds-from-nasas-x-59/" >🔗</a> **[NASA]** Diamonds from NASA’s X-59
-- <a href="https://tlpnetwork.com/news/europe/magdrive-secures-105m-to-advance-high-power-electric-propulsion-announce-us-expansion" >🔗</a> **[The Launch Pad]** Magdrive Secures $10.5M to Advance High-Power Electric Propulsion, Announce US Expansion
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Lunar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250226T100130">2025-02-26 10:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250226T103502">2025-02-26 10:35:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
