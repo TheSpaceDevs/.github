@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/iron-dome-becomes-golden-dome/" >🔗</a> **[SpacePolicyOnline.com]** “Iron Dome” Becomes “Golden Dome”
 - <a href="https://spacenews.com/blue-origin-launches-tenth-new-shepard-suborbital-human-spaceflight/" >🔗</a> **[SpaceNews]** Blue Origin launches tenth New Shepard suborbital human spaceflight
 - <a href="https://www.nasaspaceflight.com/2025/02/china-roundup-022225/" >🔗</a> **[NASASpaceflight]** Chang Zheng 8A launches as Chinese spaceport expansions begin
 - <a href="https://spacenews.com/wargaming-the-unknown-the-space-forces-challenge-in-preparing-for-a-war-no-one-has-fought/" >🔗</a> **[SpaceNews]** Wargaming the Unknown: The Space Force’s challenge in preparing for a war no one has fought
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/diamonds-from-nasas-x-59/" >🔗</a> **[NASA]** Diamonds from NASA’s X-59
 - <a href="https://tlpnetwork.com/news/europe/magdrive-secures-105m-to-advance-high-power-electric-propulsion-announce-us-expansion" >🔗</a> **[The Launch Pad]** Magdrive Secures $10.5M to Advance High-Power Electric Propulsion, Announce US Expansion
 - <a href="https://www.nasa.gov/missions/europa-clipper/nasas-europa-clipper-uses-mars-to-go-the-distance/" >🔗</a> **[NASA]** NASA’s Europa Clipper Uses Mars to Go the Distance
-- <a href="https://www.nasa.gov/directorates/smd/is-there-potential-for-life-on-europa-we-asked-a-nasa-expert-episode-52/" >🔗</a> **[NASA]** Is There Potential for Life on Europa? We Asked a NASA Expert: Episode 52
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250226T004544">2025-02-26 00:45:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250226T012825">2025-02-26 01:28:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
