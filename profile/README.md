@@ -91,6 +91,7 @@ into *a Lunar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/house-committee-backs-moon-to-mars-but-changes-may-be-needed/" >🔗</a> **[SpacePolicyOnline.com]** House Committee Backs Moon-to-Mars, But Changes May Be Needed
 - <a href="https://www.nasa.gov/news-release/nasa-remembers-long-time-civil-servant-john-boyd/" >🔗</a> **[NASA]** NASA Remembers Long-Time Civil Servant John Boyd
 - <a href="https://www.nasa.gov/missions/artemis/clps/fourth-launch-of-nasa-instruments-planned-for-near-moons-south-pole/" >🔗</a> **[NASA]** Fourth Launch of NASA Instruments Planned for Near Moon’s South Pole
 - <a href="https://www.nasaspaceflight.com/2025/02/im-2-launch/" >🔗</a> **[NASASpaceflight]** Falcon 9 set to launch second lunar mission of 2025 with IM-2 lander
@@ -100,7 +101,6 @@ into *a Lunar Orbit
 - <a href="https://www.teslarati.com/spacex-explains-reasoning-for-starship-7-upper-stage-loss/" >🔗</a> **[Teslarati]** SpaceX explains reasoning for Starship 7 upper stage loss
 - <a href="https://spacenews.com/congressional-watchdog-flags-risks-in-space-development-agencys-satellite-program/" >🔗</a> **[SpaceNews]** Congressional watchdog flags risks in Space Development Agency’s satellite program
 - <a href="https://science.nasa.gov/open-science/artist-data-visualization/" >🔗</a> **[NASA]** NASA Open Data Turns Science Into Art
-- <a href="https://www.nasa.gov/news-release/nasas-spacex-crew-9-to-discuss-space-station-mission-upcoming-return/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-9 to Discuss Space Station Mission, Upcoming Return
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Lunar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250226T230129">2025-02-26 23:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250226T233201">2025-02-26 23:32:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
