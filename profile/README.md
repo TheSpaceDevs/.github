@@ -52,10 +52,10 @@ into *a Lunar Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250227T212427">2025-02-27 21:24:27 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Progress MS-30 (91P)&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20250227T212427Z%2F20250227T212427Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Progress MS-30 (91P)** from Baikonur Cosmodrome, Republic of Kazakhstan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250228T025200">2025-02-28 02:52:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-20&location=Cape Canaveral SFS, FL, USA&dates=20250228T025200Z%2F20250228T072300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-20** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250228T233000">2025-02-28 23:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Starship | Flight 8&location=SpaceX Starbase, TX, USA&dates=20250228T233000Z%2F20250301T010900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starship | Flight 8** from SpaceX Starbase, TX, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250301T030900">2025-03-01 03:09:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SPHEREx &amp; PUNCH&location=Vandenberg SFB, CA, USA&dates=20250301T030900Z%2F20250301T031000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | SPHEREx & PUNCH** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250301T095100">2025-03-01 09:51:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Kuaizhou-1A | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20250301T095100Z%2F20250301T103700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Kuaizhou-1A | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250302T074900">2025-03-02 07:49:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ceres-1 | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20250302T074900Z%2F20250302T085600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ceres-1 | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250302T220000">2025-03-02 22:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b/Fregat-M | Glonass-K2 No. 14&location=Plesetsk Cosmodrome, Russian Federation&dates=20250302T220000Z%2F20250303T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1b/Fregat-M | Glonass-K2 No. 14** from Plesetsk Cosmodrome, Russian Federation.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250303T030900">2025-03-03 03:09:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SPHEREx &amp; PUNCH&location=Vandenberg SFB, CA, USA&dates=20250303T030900Z%2F20250303T031000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | SPHEREx & PUNCH** from Vandenberg SFB, CA, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -91,6 +91,8 @@ into *a Lunar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/war-of-words-heats-up-over-space-forces-strategic-posture/" >🔗</a> **[SpaceNews]** War of words heats up over Space Force’s strategic posture
+- <a href="https://tlpnetwork.com/news/america/seagate-space-corporation-launches-with-mission-to-return-offshore-launch-platforms-to-america" >🔗</a> **[The Launch Pad]** Seagate Space Corporation Launches With Mission To Return Offshore Launch Platforms to America
 - <a href="https://arstechnica.com/space/2025/02/long-time-advocate-of-sls-rocket-says-its-time-to-find-an-off-ramp/" >🔗</a> **[Arstechnica]** Long-time advocate of SLS rocket says it’s time to find an “off-ramp”
 - <a href="https://spacenews.com/keep-nasas-innovation-engine-going/" >🔗</a> **[SpaceNews]** Keep NASA’s innovation engine going
 - <a href="https://spacenews.com/second-intuitive-machines-lunar-lander-ready-for-launch/" >🔗</a> **[SpaceNews]** Second Intuitive Machines lunar lander ready for launch
@@ -99,8 +101,6 @@ into *a Lunar Orbit
 - <a href="https://europeanspaceflight.com/cira-qualifies-key-element-of-space-riders-thermal-protection-system/" >🔗</a> **[European Spaceflight]** CIRA Qualifies Key Element of Space Rider’s Thermal Protection System
 - <a href="https://spacepolicyonline.com/news/iron-dome-becomes-golden-dome/" >🔗</a> **[SpacePolicyOnline.com]** “Iron Dome” Becomes “Golden Dome”
 - <a href="https://spacenews.com/blue-origin-launches-tenth-new-shepard-suborbital-human-spaceflight/" >🔗</a> **[SpaceNews]** Blue Origin launches tenth New Shepard suborbital human spaceflight
-- <a href="https://www.nasaspaceflight.com/2025/02/china-roundup-022225/" >🔗</a> **[NASASpaceflight]** Chang Zheng 8A launches as Chinese spaceport expansions begin
-- <a href="https://spacenews.com/wargaming-the-unknown-the-space-forces-challenge-in-preparing-for-a-war-no-one-has-fought/" >🔗</a> **[SpaceNews]** Wargaming the Unknown: The Space Force’s challenge in preparing for a war no one has fought
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Lunar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250226T160130">2025-02-26 16:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250226T163616">2025-02-26 16:36:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
