@@ -91,6 +91,8 @@ into *a Lunar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/02/long-time-advocate-of-sls-rocket-says-its-time-to-find-an-off-ramp/" >🔗</a> **[Arstechnica]** Long-time advocate of SLS rocket says it’s time to find an “off-ramp”
+- <a href="https://spacenews.com/keep-nasas-innovation-engine-going/" >🔗</a> **[SpaceNews]** Keep NASA’s innovation engine going
 - <a href="https://spacenews.com/second-intuitive-machines-lunar-lander-ready-for-launch/" >🔗</a> **[SpaceNews]** Second Intuitive Machines lunar lander ready for launch
 - <a href="https://www.esa.int/Enabling_Support/Preparing_for_the_Future/Discovery_and_Preparation/ESA_seeks_companies_to_commercialise_inventions" >🔗</a> **[ESA]** ESA seeks companies to commercialise inventions
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/02/Drilling_into_Mars" >🔗</a> **[ESA]** Drilling into Mars
@@ -99,8 +101,6 @@ into *a Lunar Orbit
 - <a href="https://spacenews.com/blue-origin-launches-tenth-new-shepard-suborbital-human-spaceflight/" >🔗</a> **[SpaceNews]** Blue Origin launches tenth New Shepard suborbital human spaceflight
 - <a href="https://www.nasaspaceflight.com/2025/02/china-roundup-022225/" >🔗</a> **[NASASpaceflight]** Chang Zheng 8A launches as Chinese spaceport expansions begin
 - <a href="https://spacenews.com/wargaming-the-unknown-the-space-forces-challenge-in-preparing-for-a-war-no-one-has-fought/" >🔗</a> **[SpaceNews]** Wargaming the Unknown: The Space Force’s challenge in preparing for a war no one has fought
-- <a href="https://spaceflightnow.com/2025/02/25/live-coverage-spacex-to-launch-intuitive-machines-moon-lander-on-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Intuitive Machines’ Moon lander on Falcon 9 rocket from the Kennedy Space Center
-- <a href="https://spacenews.com/u-s-air-force-to-explore-xona-spaces-commercial-alternative-to-gps/" >🔗</a> **[SpaceNews]** U.S. Air Force to explore Xona Space’s commercial alternative to GPS
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Lunar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250226T150140">2025-02-26 15:01:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250226T153357">2025-02-26 15:33:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
