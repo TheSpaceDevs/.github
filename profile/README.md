@@ -91,6 +91,7 @@ into *a Lunar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/second-intuitive-machines-lunar-lander-ready-for-launch/" >🔗</a> **[SpaceNews]** Second Intuitive Machines lunar lander ready for launch
 - <a href="https://www.esa.int/Enabling_Support/Preparing_for_the_Future/Discovery_and_Preparation/ESA_seeks_companies_to_commercialise_inventions" >🔗</a> **[ESA]** ESA seeks companies to commercialise inventions
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/02/Drilling_into_Mars" >🔗</a> **[ESA]** Drilling into Mars
 - <a href="https://europeanspaceflight.com/cira-qualifies-key-element-of-space-riders-thermal-protection-system/" >🔗</a> **[European Spaceflight]** CIRA Qualifies Key Element of Space Rider’s Thermal Protection System
@@ -100,11 +101,12 @@ into *a Lunar Orbit
 - <a href="https://spacenews.com/wargaming-the-unknown-the-space-forces-challenge-in-preparing-for-a-war-no-one-has-fought/" >🔗</a> **[SpaceNews]** Wargaming the Unknown: The Space Force’s challenge in preparing for a war no one has fought
 - <a href="https://spaceflightnow.com/2025/02/25/live-coverage-spacex-to-launch-intuitive-machines-moon-lander-on-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Intuitive Machines’ Moon lander on Falcon 9 rocket from the Kennedy Space Center
 - <a href="https://spacenews.com/u-s-air-force-to-explore-xona-spaces-commercial-alternative-to-gps/" >🔗</a> **[SpaceNews]** U.S. Air Force to explore Xona Space’s commercial alternative to GPS
-- <a href="https://spacenews.com/eutelsat-hails-pioneering-5g-test-over-leo/" >🔗</a> **[SpaceNews]** Eutelsat hails pioneering 5G test over LEO
 
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2025/02/25/live-coverage-spacex-to-launch-intuitive-machines-moon-lander-on-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Intuitive Machines’ Moon lander on Falcon 9 rocket from the Kennedy Space Center
+- <a href="https://www.nasaspaceflight.com/2025/02/launch-roundup-022425/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Starship, lunar lander, and telescope missions set for launch
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-intuitive-machines-next-commercial-moon-launch/" >🔗</a> **[NASA]** NASA Sets Coverage for Intuitive Machines’ Next Commercial Moon Launch
 - <a href="https://tlpnetwork.com/news/america/intuitive-machines-im-2-athena-lunar-lander-encapsulated-and-go-for-launch" >🔗</a> **[The Launch Pad]** Intuitive Machines IM-2 Athena Lunar Lander Encapsulated and "GO" for Launch
 - <a href="https://www.nasa.gov/centers-and-facilities/jpl/how-nasas-lunar-trailblazer-will-make-a-looping-voyage-to-the-moon/" >🔗</a> **[NASA]** How NASA’s Lunar Trailblazer Will Make a Looping Voyage to the Moon
@@ -113,13 +115,11 @@ into *a Lunar Orbit
 - <a href="https://spacenews.com/astroforge-announces-asteroid-target-for-upcoming-mission/" >🔗</a> **[SpaceNews]** AstroForge announces asteroid target for upcoming mission
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-second-intuitive-machines-launch-to-moon/" >🔗</a> **[NASA]** NASA Invites Media to Second Intuitive Machines Launch to Moon
 - <a href="https://www.nasa.gov/centers-and-facilities/jpl/nasa-jpl-prepping-for-full-year-of-launches-mission-milestones/" >🔗</a> **[NASA]** NASA JPL Prepping for Full Year of Launches, Mission Milestones
-- <a href="https://arstechnica.com/space/2025/01/intuitive-machines-set-for-second-landing-looking-to-build-a-lunar-economy/" >🔗</a> **[Arstechnica]** Intuitive Machines set for second landing, looking to build a lunar economy
-- <a href="https://www.nasa.gov/missions/small-satellite-missions/lunar-trailblazer/how-nasas-lunar-trailblazer-could-decipher-the-moons-icy-secrets/" >🔗</a> **[NASA]** How NASA’s Lunar Trailblazer Could Decipher the Moon’s Icy Secrets
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250226T120146">2025-02-26 12:01:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250226T124252">2025-02-26 12:42:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
