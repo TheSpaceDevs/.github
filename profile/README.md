@@ -91,6 +91,9 @@ into *a Lunar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-remembers-long-time-civil-servant-john-boyd/" >🔗</a> **[NASA]** NASA Remembers Long-Time Civil Servant John Boyd
+- <a href="https://www.nasa.gov/missions/artemis/clps/fourth-launch-of-nasa-instruments-planned-for-near-moons-south-pole/" >🔗</a> **[NASA]** Fourth Launch of NASA Instruments Planned for Near Moon’s South Pole
+- <a href="https://www.nasaspaceflight.com/2025/02/im-2-launch/" >🔗</a> **[NASASpaceflight]** Falcon 9 set to launch second lunar mission of 2025 with IM-2 lander
 - <a href="https://science.nasa.gov/blog/sols-4464-4465-making-good-progress/" >🔗</a> **[NASA]** Sols 4464-4465: Making Good Progress
 - <a href="https://www.nasa.gov/image-article/milky-way-on-the-horizon/" >🔗</a> **[NASA]** Milky Way on the Horizon
 - <a href="https://www.nasa.gov/missions/small-satellite-missions/lunar-trailblazer/6-things-to-know-about-nasas-lunar-trailblazer/" >🔗</a> **[NASA]** 6 Things to Know About NASA’s Lunar Trailblazer
@@ -98,9 +101,6 @@ into *a Lunar Orbit
 - <a href="https://spacenews.com/congressional-watchdog-flags-risks-in-space-development-agencys-satellite-program/" >🔗</a> **[SpaceNews]** Congressional watchdog flags risks in Space Development Agency’s satellite program
 - <a href="https://science.nasa.gov/open-science/artist-data-visualization/" >🔗</a> **[NASA]** NASA Open Data Turns Science Into Art
 - <a href="https://www.nasa.gov/news-release/nasas-spacex-crew-9-to-discuss-space-station-mission-upcoming-return/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-9 to Discuss Space Station Mission, Upcoming Return
-- <a href="https://spacenews.com/war-of-words-heats-up-over-space-forces-strategic-posture/" >🔗</a> **[SpaceNews]** War of words heats up over Space Force’s strategic posture
-- <a href="https://tlpnetwork.com/news/america/seagate-space-corporation-launches-with-mission-to-return-offshore-launch-platforms-to-america" >🔗</a> **[The Launch Pad]** Seagate Space Corporation Launches With Mission To Return Offshore Launch Platforms to America
-- <a href="https://www.nasa.gov/centers-and-facilities/stennis/stennis-flashback-diagnostic-test-facility/" >🔗</a> **[NASA]** NASA Stennis Flashback: Learning About Rocket Engine Smoke for Safe Space Travel
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Lunar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250226T213111">2025-02-26 21:31:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250226T220128">2025-02-26 22:01:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
