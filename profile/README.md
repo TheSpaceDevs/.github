@@ -54,7 +54,7 @@ into *an Unknown
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250303T162400">2025-03-03 16:24:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ariane 62 | CSO-3&location=Guiana Space Centre, French Guiana&dates=20250303T162400Z%2F20250303T162400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ariane 62 | CSO-3** from Guiana Space Centre, French Guiana.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250303T233000">2025-03-03 23:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Starship | Flight 8&location=SpaceX Starbase, TX, USA&dates=20250303T233000Z%2F20250304T010900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starship | Flight 8** from SpaceX Starbase, TX, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250304T062800">2025-03-04 06:28:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-21&location=Cape Canaveral SFS, FL, USA&dates=20250304T062800Z%2F20250304T105900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-21** from Cape Canaveral SFS, FL, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250304T063900">2025-03-04 06:39:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Transporter 13 (Dedicated SSO Rideshare)&location=Vandenberg SFB, CA, USA&dates=20250304T063900Z%2F20250304T072500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Transporter 13 (Dedicated SSO Rideshare)** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250306T063900">2025-03-06 06:39:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Transporter 13 (Dedicated SSO Rideshare)&location=Vandenberg SFB, CA, USA&dates=20250306T063900Z%2F20250306T072500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Transporter 13 (Dedicated SSO Rideshare)** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250307T140900">2025-03-07 14:09:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-16&location=Cape Canaveral SFS, FL, USA&dates=20250307T140900Z%2F20250307T184000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-16** from Cape Canaveral SFS, FL, USA.
 
 
@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/next-new-shepard-has-star-studded-all-female-crew/" >🔗</a> **[SpacePolicyOnline.com]** Next New Shepard Has Star-Studded, All-Female Crew
+- <a href="https://spacenews.com/space-development-agency-pushes-back-on-gaos-criticism/" >🔗</a> **[SpaceNews]** Space Development Agency pushes back on GAO’s criticism
 - <a href="https://spacenews.com/ses-shareholder-pushes-to-curb-state-control-to-tackle-market-challenges/" >🔗</a> **[SpaceNews]** SES shareholder pushes to curb state control to tackle market challenges
 - <a href="https://science.nasa.gov/science-research/earth-science/commodity-classic-hyperwall-schedule/" >🔗</a> **[NASA]** Commodity Classic Hyperwall Schedule
 - <a href="https://www.nasa.gov/image-article/nasa-installs-heat-shield-on-first-private-spacecraft-bound-for-venus/" >🔗</a> **[NASA]** NASA Installs Heat Shield on First Private Spacecraft Bound for Venus
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/swissto12-strengthens-push-beyond-subsystems-with-ses-antenna-deal/" >🔗</a> **[SpaceNews]** Swissto12 strengthens push beyond subsystems with SES antenna deal
 - <a href="https://tlpnetwork.com/news/america/faa-issues-spacex-orbital-starship-launch-license-spacex-targets-monday-for-starship-flight-8" >🔗</a> **[The Launch Pad]** FAA Issues SpaceX "Orbital" Starship Launch License; SpaceX Targets Monday For Starship Flight 8
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-provides-birds-eye-view-of-andromeda-galaxys-ecosystem/" >🔗</a> **[NASA]** NASA’s Hubble Provides Bird’s-Eye View of Andromeda Galaxy’s Ecosystem
-- <a href="https://science.nasa.gov/missions/lucy/nasa-selects-participating-scientists-to-join-lucy-asteroid-mission/" >🔗</a> **[NASA]** NASA Selects Participating Scientists to Join Lucy Asteroid Mission
-- <a href="https://science.nasa.gov/uncategorized/nasa-selects-participating-scientists-to-join-lucy-asteroid-mission/" >🔗</a> **[NASA]** NASA Selects Participating Scientists to Join Lucy Asteroid Mission
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250227T230130">2025-02-27 23:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250227T233113">2025-02-27 23:31:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
