@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/nasa-installs-heat-shield-on-first-private-spacecraft-bound-for-venus/" >🔗</a> **[NASA]** NASA Installs Heat Shield on First Private Spacecraft Bound for Venus
+- <a href="https://www.spacescout.info/2025/02/intuitive-machines-aims-high-for-second-moon-landing/" >🔗</a> **[Space Scout]** Intuitive Machines Aims High for Second Moon Landing
 - <a href="https://www.nasa.gov/image-article/intuitive-machines-2-lifts-off/" >🔗</a> **[NASA]** Intuitive Machines-2 Lifts Off
 - <a href="https://spacenews.com/swissto12-strengthens-push-beyond-subsystems-with-ses-antenna-deal/" >🔗</a> **[SpaceNews]** Swissto12 strengthens push beyond subsystems with SES antenna deal
 - <a href="https://tlpnetwork.com/news/america/faa-issues-spacex-orbital-starship-launch-license-spacex-targets-monday-for-starship-flight-8" >🔗</a> **[The Launch Pad]** FAA Issues SpaceX "Orbital" Starship Launch License; SpaceX Targets Monday For Starship Flight 8
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-provides-birds-eye-view-of-andromeda-galaxys-ecosystem/" >🔗</a> **[NASA]** NASA’s Hubble Provides Bird’s-Eye View of Andromeda Galaxy’s Ecosystem
+- <a href="https://science.nasa.gov/missions/lucy/nasa-selects-participating-scientists-to-join-lucy-asteroid-mission/" >🔗</a> **[NASA]** NASA Selects Participating Scientists to Join Lucy Asteroid Mission
 - <a href="https://science.nasa.gov/uncategorized/nasa-selects-participating-scientists-to-join-lucy-asteroid-mission/" >🔗</a> **[NASA]** NASA Selects Participating Scientists to Join Lucy Asteroid Mission
 - <a href="https://tlpnetwork.com/news/america/katy-perry-in-for-journey-of-lifetime-blue-origin-announces-ns-31-crew" >🔗</a> **[The Launch Pad]** Katy Perry In For Journey Of Lifetime; Blue Origin Announces NS-31 Crew
 - <a href="https://spacenews.com/the-future-of-advanced-air-mobility-under-a-new-congress-and-trump-administration/" >🔗</a> **[SpaceNews]** The future of advanced air mobility under a new Congress and Trump administration
-- <a href="https://spacenews.com/the-new-case-for-mars-with-robert-zubrin/" >🔗</a> **[SpaceNews]** The New Case for Mars – with Robert Zubrin
-- <a href="https://www.nasa.gov/news-release/liftoff-nasa-tech-science-en-route-to-moon-with-intuitive-machines/" >🔗</a> **[NASA]** Liftoff! NASA Tech, Science En Route to Moon with Intuitive Machines
-- <a href="https://spacenews.com/virgin-galactic-to-start-assembly-of-first-new-spaceplane-in-march/" >🔗</a> **[SpaceNews]** Virgin Galactic to start assembly of first new spaceplane in March
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250227T180131">2025-02-27 18:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250227T183647">2025-02-27 18:36:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
