@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/falcon-9-launches-second-intuitive-machines-lunar-lander/" >🔗</a> **[SpaceNews]** Falcon 9 launches second Intuitive Machines lunar lander
+- <a href="https://science.nasa.gov/blog/sols-4466-4468-heading-into-the-small-canyon/" >🔗</a> **[NASA]** Sols 4466-4468: Heading Into the Small Canyon
 - <a href="https://spacenews.com/space-industry-hunts-for-ways-to-adapt-to-trumps-trade-policies/" >🔗</a> **[SpaceNews]** Space industry hunts for ways to adapt to Trump’s trade policies
 - <a href="https://spacepolicyonline.com/news/house-committee-backs-moon-to-mars-but-changes-may-be-needed/" >🔗</a> **[SpacePolicyOnline.com]** House Committee Backs Moon-to-Mars, But Changes May Be Needed
 - <a href="https://www.nasa.gov/news-release/nasa-remembers-long-time-civil-servant-john-boyd/" >🔗</a> **[NASA]** NASA Remembers Long-Time Civil Servant John Boyd
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/blog/sols-4464-4465-making-good-progress/" >🔗</a> **[NASA]** Sols 4464-4465: Making Good Progress
 - <a href="https://www.nasa.gov/image-article/milky-way-on-the-horizon/" >🔗</a> **[NASA]** Milky Way on the Horizon
 - <a href="https://www.nasa.gov/missions/small-satellite-missions/lunar-trailblazer/6-things-to-know-about-nasas-lunar-trailblazer/" >🔗</a> **[NASA]** 6 Things to Know About NASA’s Lunar Trailblazer
-- <a href="https://www.teslarati.com/spacex-explains-reasoning-for-starship-7-upper-stage-loss/" >🔗</a> **[Teslarati]** SpaceX explains reasoning for Starship 7 upper stage loss
-- <a href="https://spacenews.com/congressional-watchdog-flags-risks-in-space-development-agencys-satellite-program/" >🔗</a> **[SpaceNews]** Congressional watchdog flags risks in Space Development Agency’s satellite program
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250227T020406">2025-02-27 02:04:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250227T024545">2025-02-27 02:45:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
