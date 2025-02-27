@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/swissto12-strengthens-push-beyond-subsystems-with-ses-antenna-deal/" >🔗</a> **[SpaceNews]** Swissto12 strengthens push beyond subsystems with SES antenna deal
+- <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-provides-birds-eye-view-of-andromeda-galaxys-ecosystem/" >🔗</a> **[NASA]** NASA’s Hubble Provides Bird’s-Eye View of Andromeda Galaxy’s Ecosystem
+- <a href="https://science.nasa.gov/uncategorized/nasa-selects-participating-scientists-to-join-lucy-asteroid-mission/" >🔗</a> **[NASA]** NASA Selects Participating Scientists to Join Lucy Asteroid Mission
 - <a href="https://tlpnetwork.com/news/america/katy-perry-in-for-journey-of-lifetime-blue-origin-announces-ns-31-crew" >🔗</a> **[The Launch Pad]** Katy Perry In For Journey Of Lifetime; Blue Origin Announces NS-31 Crew
 - <a href="https://spacenews.com/the-future-of-advanced-air-mobility-under-a-new-congress-and-trump-administration/" >🔗</a> **[SpaceNews]** The future of advanced air mobility under a new Congress and Trump administration
 - <a href="https://spacenews.com/the-new-case-for-mars-with-robert-zubrin/" >🔗</a> **[SpaceNews]** The New Case for Mars – with Robert Zubrin
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/virgin-galactic-to-start-assembly-of-first-new-spaceplane-in-march/" >🔗</a> **[SpaceNews]** Virgin Galactic to start assembly of first new spaceplane in March
 - <a href="https://spacenews.com/china-adds-to-superview-remote-sensing-constellation-with-long-march-2c-launch/" >🔗</a> **[SpaceNews]** China adds to SuperView remote sensing constellation with Long March 2C launch
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/02/Metal_made_in_space_lands_on_Earth" >🔗</a> **[ESA]** Metal made in space lands on Earth
-- <a href="https://europeanspaceflight.com/spaceforest-completes-full-duration-test-of-hybrid-rocket-engine/" >🔗</a> **[European Spaceflight]** SpaceForest Completes Full-Duration Test of Hybrid Rocket Engine
-- <a href="https://spacepolicyonline.com/news/third-lunar-lander-this-year-headed-to-the-moon-plus-an-orbiter/" >🔗</a> **[SpacePolicyOnline.com]** Third Lunar Lander This Year Headed to the Moon, Plus an Orbiter
-- <a href="https://spacenews.com/house-hearing-debates-ways-to-improve-artemis/" >🔗</a> **[SpaceNews]** House hearing debates ways to improve Artemis
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250227T160134">2025-02-27 16:01:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250227T163631">2025-02-27 16:36:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
