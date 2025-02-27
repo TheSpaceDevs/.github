@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/the-new-case-for-mars-with-robert-zubrin/" >🔗</a> **[SpaceNews]** The New Case for Mars – with Robert Zubrin
+- <a href="https://www.nasa.gov/news-release/liftoff-nasa-tech-science-en-route-to-moon-with-intuitive-machines/" >🔗</a> **[NASA]** Liftoff! NASA Tech, Science En Route to Moon with Intuitive Machines
 - <a href="https://spacenews.com/virgin-galactic-to-start-assembly-of-first-new-spaceplane-in-march/" >🔗</a> **[SpaceNews]** Virgin Galactic to start assembly of first new spaceplane in March
 - <a href="https://spacenews.com/china-adds-to-superview-remote-sensing-constellation-with-long-march-2c-launch/" >🔗</a> **[SpaceNews]** China adds to SuperView remote sensing constellation with Long March 2C launch
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/02/Metal_made_in_space_lands_on_Earth" >🔗</a> **[ESA]** Metal made in space lands on Earth
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/house-hearing-debates-ways-to-improve-artemis/" >🔗</a> **[SpaceNews]** House hearing debates ways to improve Artemis
 - <a href="https://spacenews.com/falcon-9-launches-second-intuitive-machines-lunar-lander/" >🔗</a> **[SpaceNews]** Falcon 9 launches second Intuitive Machines lunar lander
 - <a href="https://science.nasa.gov/blog/sols-4466-4468-heading-into-the-small-canyon/" >🔗</a> **[NASA]** Sols 4466-4468: Heading Into the Small Canyon
-- <a href="https://spacenews.com/space-industry-hunts-for-ways-to-adapt-to-trumps-trade-policies/" >🔗</a> **[SpaceNews]** Space industry hunts for ways to adapt to Trump’s trade policies
-- <a href="https://spacepolicyonline.com/news/house-committee-backs-moon-to-mars-but-changes-may-be-needed/" >🔗</a> **[SpacePolicyOnline.com]** House Committee Backs Moon-to-Mars, But Changes May Be Needed
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250227T140132">2025-02-27 14:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250227T143410">2025-02-27 14:34:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
