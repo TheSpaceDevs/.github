@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/science-research/earth-science/commodity-classic-hyperwall-schedule/" >🔗</a> **[NASA]** Commodity Classic Hyperwall Schedule
 - <a href="https://www.nasa.gov/image-article/nasa-installs-heat-shield-on-first-private-spacecraft-bound-for-venus/" >🔗</a> **[NASA]** NASA Installs Heat Shield on First Private Spacecraft Bound for Venus
 - <a href="https://www.spacescout.info/2025/02/intuitive-machines-aims-high-for-second-moon-landing/" >🔗</a> **[Space Scout]** Intuitive Machines Aims High for Second Moon Landing
 - <a href="https://www.nasa.gov/image-article/intuitive-machines-2-lifts-off/" >🔗</a> **[NASA]** Intuitive Machines-2 Lifts Off
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/missions/lucy/nasa-selects-participating-scientists-to-join-lucy-asteroid-mission/" >🔗</a> **[NASA]** NASA Selects Participating Scientists to Join Lucy Asteroid Mission
 - <a href="https://science.nasa.gov/uncategorized/nasa-selects-participating-scientists-to-join-lucy-asteroid-mission/" >🔗</a> **[NASA]** NASA Selects Participating Scientists to Join Lucy Asteroid Mission
 - <a href="https://tlpnetwork.com/news/america/katy-perry-in-for-journey-of-lifetime-blue-origin-announces-ns-31-crew" >🔗</a> **[The Launch Pad]** Katy Perry In For Journey Of Lifetime; Blue Origin Announces NS-31 Crew
-- <a href="https://spacenews.com/the-future-of-advanced-air-mobility-under-a-new-congress-and-trump-administration/" >🔗</a> **[SpaceNews]** The future of advanced air mobility under a new Congress and Trump administration
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250227T190122">2025-02-27 19:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250227T193104">2025-02-27 19:31:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
