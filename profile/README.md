@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/house-hearing-debates-ways-to-improve-artemis/" >🔗</a> **[SpaceNews]** House hearing debates ways to improve Artemis
 - <a href="https://spacenews.com/falcon-9-launches-second-intuitive-machines-lunar-lander/" >🔗</a> **[SpaceNews]** Falcon 9 launches second Intuitive Machines lunar lander
 - <a href="https://science.nasa.gov/blog/sols-4466-4468-heading-into-the-small-canyon/" >🔗</a> **[NASA]** Sols 4466-4468: Heading Into the Small Canyon
 - <a href="https://spacenews.com/space-industry-hunts-for-ways-to-adapt-to-trumps-trade-policies/" >🔗</a> **[SpaceNews]** Space industry hunts for ways to adapt to Trump’s trade policies
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasaspaceflight.com/2025/02/im-2-launch/" >🔗</a> **[NASASpaceflight]** Falcon 9 set to launch second lunar mission of 2025 with IM-2 lander
 - <a href="https://science.nasa.gov/blog/sols-4464-4465-making-good-progress/" >🔗</a> **[NASA]** Sols 4464-4465: Making Good Progress
 - <a href="https://www.nasa.gov/image-article/milky-way-on-the-horizon/" >🔗</a> **[NASA]** Milky Way on the Horizon
-- <a href="https://www.nasa.gov/missions/small-satellite-missions/lunar-trailblazer/6-things-to-know-about-nasas-lunar-trailblazer/" >🔗</a> **[NASA]** 6 Things to Know About NASA’s Lunar Trailblazer
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250227T040138">2025-02-27 04:01:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250227T043509">2025-02-27 04:35:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
