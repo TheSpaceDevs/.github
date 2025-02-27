@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-adds-to-superview-remote-sensing-constellation-with-long-march-2c-launch/" >🔗</a> **[SpaceNews]** China adds to SuperView remote sensing constellation with Long March 2C launch
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/02/Metal_made_in_space_lands_on_Earth" >🔗</a> **[ESA]** Metal made in space lands on Earth
 - <a href="https://europeanspaceflight.com/spaceforest-completes-full-duration-test-of-hybrid-rocket-engine/" >🔗</a> **[European Spaceflight]** SpaceForest Completes Full-Duration Test of Hybrid Rocket Engine
 - <a href="https://spacepolicyonline.com/news/third-lunar-lander-this-year-headed-to-the-moon-plus-an-orbiter/" >🔗</a> **[SpacePolicyOnline.com]** Third Lunar Lander This Year Headed to the Moon, Plus an Orbiter
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/space-industry-hunts-for-ways-to-adapt-to-trumps-trade-policies/" >🔗</a> **[SpaceNews]** Space industry hunts for ways to adapt to Trump’s trade policies
 - <a href="https://spacepolicyonline.com/news/house-committee-backs-moon-to-mars-but-changes-may-be-needed/" >🔗</a> **[SpacePolicyOnline.com]** House Committee Backs Moon-to-Mars, But Changes May Be Needed
 - <a href="https://www.nasa.gov/news-release/nasa-remembers-long-time-civil-servant-john-boyd/" >🔗</a> **[NASA]** NASA Remembers Long-Time Civil Servant John Boyd
-- <a href="https://www.nasa.gov/missions/artemis/clps/fourth-launch-of-nasa-instruments-planned-for-near-moons-south-pole/" >🔗</a> **[NASA]** Fourth Launch of NASA Instruments Planned for Near Moon’s South Pole
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250227T100133">2025-02-27 10:01:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250227T103503">2025-02-27 10:35:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
