@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-endurance-a-call-for-more-dialogue-not-less/" >🔗</a> **[SpaceNews]** Space endurance: A call for more dialogue, not less
+- <a href="https://spacenews.com/lunar-trailblazer-odin-spacecraft-suffering-problems-after-im-2-launch/" >🔗</a> **[SpaceNews]** Lunar Trailblazer, Odin spacecraft suffering problems after IM-2 launch
 - <a href="https://spacenews.com/rocket-lab-reaffirms-2025-first-launch-of-neutron/" >🔗</a> **[SpaceNews]** Rocket Lab reaffirms 2025 first launch of Neutron
 - <a href="https://europeanspaceflight.com/polaris-spaceplanes-secures-contract-for-hypersonic-research-vehicle/" >🔗</a> **[European Spaceflight]** POLARIS Spaceplanes Secures Contract for Hypersonic Research Vehicle
 - <a href="https://spacenews.com/south-korea-approves-strategic-plans-for-space/" >🔗</a> **[SpaceNews]** South Korea approves strategic plans for space
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/02/Earth_from_Space_Maha_Kumbh_Mela_festival_India" >🔗</a> **[ESA]** Earth from Space: Maha Kumbh Mela festival, India
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Integral/Mission_accomplished_for_Integral_ESA_s_gamma-ray_telescope" >🔗</a> **[ESA]** Mission accomplished for Integral, ESA’s gamma-ray telescope
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/02/Webb_visits_a_star-forming_spiral" >🔗</a> **[ESA]** Webb visits a star-forming spiral
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Integral/Mission_accomplished_for_Integral_ESA_s_gamma-ray_telescope" >🔗</a> **[ESA]** Mission accomplished for Integral, ESA’s gamma-ray telescope
 - <a href="https://spacepolicyonline.com/news/next-new-shepard-has-star-studded-all-female-crew/" >🔗</a> **[SpacePolicyOnline.com]** Next New Shepard Has Star-Studded, All-Female Crew
 - <a href="https://spacenews.com/space-development-agency-pushes-back-on-gaos-criticism/" >🔗</a> **[SpaceNews]** Space Development Agency pushes back on GAO’s criticism
-- <a href="https://spacenews.com/ses-shareholder-pushes-to-curb-state-control-to-tackle-market-challenges/" >🔗</a> **[SpaceNews]** SES shareholder pushes to curb state control to tackle market challenges
-- <a href="https://science.nasa.gov/science-research/earth-science/commodity-classic-hyperwall-schedule/" >🔗</a> **[NASA]** Commodity Classic Hyperwall Schedule
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250228T130549">2025-02-28 13:05:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250228T133355">2025-02-28 13:33:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
