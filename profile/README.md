@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/langley-laboratory-apprentice-at-work/" >🔗</a> **[NASA]** Langley Laboratory Apprentice at Work
 - <a href="https://science.nasa.gov/missions/hubble/hubble-captures-new-view-of-colorful-veil/" >🔗</a> **[NASA]** Hubble Captures New View of Colorful Veil
 - <a href="https://spacenews.com/china-to-train-pakistani-astronaut-for-tiangong-space-station-mission/" >🔗</a> **[SpaceNews]** China to train Pakistani astronaut for Tiangong space station mission
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_24-28_February_2025" >🔗</a> **[ESA]** Week in images: 24-28 February 2025
 - <a href="https://spacenews.com/how-independent-space-companies-can-fight-back-against-misinformation-from-elon-musk-and-donald-trump/" >🔗</a> **[SpaceNews]** How independent space companies can fight back against misinformation from Elon Musk and Donald Trump
+- <a href="https://www.nasa.gov/people-of-nasa/goddard-people/jamie-dunn/" >🔗</a> **[NASA]** Jamie Dunn
 - <a href="https://spacenews.com/space-endurance-a-call-for-more-dialogue-not-less/" >🔗</a> **[SpaceNews]** Space endurance: A call for more dialogue, not less
 - <a href="https://spacenews.com/lunar-trailblazer-odin-spacecraft-suffering-problems-after-im-2-launch/" >🔗</a> **[SpaceNews]** Lunar Trailblazer, Odin spacecraft suffering problems after IM-2 launch
 - <a href="https://spacenews.com/rocket-lab-reaffirms-2025-first-launch-of-neutron/" >🔗</a> **[SpaceNews]** Rocket Lab reaffirms 2025 first launch of Neutron
 - <a href="https://europeanspaceflight.com/polaris-spaceplanes-secures-contract-for-hypersonic-research-vehicle/" >🔗</a> **[European Spaceflight]** POLARIS Spaceplanes Secures Contract for Hypersonic Research Vehicle
-- <a href="https://spacenews.com/south-korea-approves-strategic-plans-for-space/" >🔗</a> **[SpaceNews]** South Korea approves strategic plans for space
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/02/Earth_from_Space_Maha_Kumbh_Mela_festival_India" >🔗</a> **[ESA]** Earth from Space: Maha Kumbh Mela festival, India
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250228T170120">2025-02-28 17:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250228T173222">2025-02-28 17:32:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
