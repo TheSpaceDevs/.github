@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/missions/hubble/hubble-captures-new-view-of-colorful-veil/" >🔗</a> **[NASA]** Hubble Captures New View of Colorful Veil
 - <a href="https://spacenews.com/china-to-train-pakistani-astronaut-for-tiangong-space-station-mission/" >🔗</a> **[SpaceNews]** China to train Pakistani astronaut for Tiangong space station mission
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_24-28_February_2025" >🔗</a> **[ESA]** Week in images: 24-28 February 2025
 - <a href="https://spacenews.com/how-independent-space-companies-can-fight-back-against-misinformation-from-elon-musk-and-donald-trump/" >🔗</a> **[SpaceNews]** How independent space companies can fight back against misinformation from Elon Musk and Donald Trump
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://europeanspaceflight.com/polaris-spaceplanes-secures-contract-for-hypersonic-research-vehicle/" >🔗</a> **[European Spaceflight]** POLARIS Spaceplanes Secures Contract for Hypersonic Research Vehicle
 - <a href="https://spacenews.com/south-korea-approves-strategic-plans-for-space/" >🔗</a> **[SpaceNews]** South Korea approves strategic plans for space
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/02/Earth_from_Space_Maha_Kumbh_Mela_festival_India" >🔗</a> **[ESA]** Earth from Space: Maha Kumbh Mela festival, India
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/02/Webb_visits_a_star-forming_spiral" >🔗</a> **[ESA]** Webb visits a star-forming spiral
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250228T150129">2025-02-28 15:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250228T153311">2025-02-28 15:33:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
