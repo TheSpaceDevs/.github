@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/02/28/nasas-lunar-trailblazer-astroforges-odin-face-post-deployment-challenges/" >🔗</a> **[Spaceflight Now]** NASA’s Lunar Trailblazer, AstroForge’s Odin face post-deployment challenges
 - <a href="https://spacenews.com/golden-dome-replaces-iron-dome-pentagon-renames-missile-defense-initiative/" >🔗</a> **[SpaceNews]** Golden Dome replaces Iron Dome: Pentagon renames missile defense initiative
 - <a href="https://spacenews.com/skylo-raises-30-million-to-fuel-direct-to-smartphone-expansion/" >🔗</a> **[SpaceNews]** Skylo raises $30 million to fuel direct-to-smartphone expansion
 - <a href="https://spacenews.com/office-of-space-commerce-hit-by-layoffs/" >🔗</a> **[SpaceNews]** Office of Space Commerce hit by layoffs
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/china-to-train-pakistani-astronaut-for-tiangong-space-station-mission/" >🔗</a> **[SpaceNews]** China to train Pakistani astronaut for Tiangong space station mission
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_24-28_February_2025" >🔗</a> **[ESA]** Week in images: 24-28 February 2025
 - <a href="https://spacenews.com/how-independent-space-companies-can-fight-back-against-misinformation-from-elon-musk-and-donald-trump/" >🔗</a> **[SpaceNews]** How independent space companies can fight back against misinformation from Elon Musk and Donald Trump
-- <a href="https://www.nasa.gov/people-of-nasa/goddard-people/jamie-dunn/" >🔗</a> **[NASA]** Jamie Dunn
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250228T220124">2025-02-28 22:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250228T223345">2025-02-28 22:33:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
