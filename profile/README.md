@@ -91,6 +91,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-to-train-pakistani-astronaut-for-tiangong-space-station-mission/" >🔗</a> **[SpaceNews]** China to train Pakistani astronaut for Tiangong space station mission
+- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_24-28_February_2025" >🔗</a> **[ESA]** Week in images: 24-28 February 2025
+- <a href="https://spacenews.com/how-independent-space-companies-can-fight-back-against-misinformation-from-elon-musk-and-donald-trump/" >🔗</a> **[SpaceNews]** How independent space companies can fight back against misinformation from Elon Musk and Donald Trump
 - <a href="https://spacenews.com/space-endurance-a-call-for-more-dialogue-not-less/" >🔗</a> **[SpaceNews]** Space endurance: A call for more dialogue, not less
 - <a href="https://spacenews.com/lunar-trailblazer-odin-spacecraft-suffering-problems-after-im-2-launch/" >🔗</a> **[SpaceNews]** Lunar Trailblazer, Odin spacecraft suffering problems after IM-2 launch
 - <a href="https://spacenews.com/rocket-lab-reaffirms-2025-first-launch-of-neutron/" >🔗</a> **[SpaceNews]** Rocket Lab reaffirms 2025 first launch of Neutron
@@ -98,9 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/south-korea-approves-strategic-plans-for-space/" >🔗</a> **[SpaceNews]** South Korea approves strategic plans for space
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/02/Earth_from_Space_Maha_Kumbh_Mela_festival_India" >🔗</a> **[ESA]** Earth from Space: Maha Kumbh Mela festival, India
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/02/Webb_visits_a_star-forming_spiral" >🔗</a> **[ESA]** Webb visits a star-forming spiral
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Integral/Mission_accomplished_for_Integral_ESA_s_gamma-ray_telescope" >🔗</a> **[ESA]** Mission accomplished for Integral, ESA’s gamma-ray telescope
-- <a href="https://spacepolicyonline.com/news/next-new-shepard-has-star-studded-all-female-crew/" >🔗</a> **[SpacePolicyOnline.com]** Next New Shepard Has Star-Studded, All-Female Crew
-- <a href="https://spacenews.com/space-development-agency-pushes-back-on-gaos-criticism/" >🔗</a> **[SpaceNews]** Space Development Agency pushes back on GAO’s criticism
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250228T140131">2025-02-28 14:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250228T143347">2025-02-28 14:33:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
