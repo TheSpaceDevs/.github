@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/office-of-space-commerce-hit-by-layoffs/" >🔗</a> **[SpaceNews]** Office of Space Commerce hit by layoffs
+- <a href="https://spacenews.com/fcc-mulls-c-band-options-raising-prospect-of-another-satellite-windfall/" >🔗</a> **[SpaceNews]** FCC mulls C-band options, raising prospect of another satellite windfall
 - <a href="https://www.nasa.gov/image-article/langley-laboratory-apprentice-at-work/" >🔗</a> **[NASA]** Langley Laboratory Apprentice at Work
 - <a href="https://science.nasa.gov/missions/hubble/hubble-captures-new-view-of-colorful-veil/" >🔗</a> **[NASA]** Hubble Captures New View of Colorful Veil
 - <a href="https://spacenews.com/china-to-train-pakistani-astronaut-for-tiangong-space-station-mission/" >🔗</a> **[SpaceNews]** China to train Pakistani astronaut for Tiangong space station mission
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/people-of-nasa/goddard-people/jamie-dunn/" >🔗</a> **[NASA]** Jamie Dunn
 - <a href="https://spacenews.com/space-endurance-a-call-for-more-dialogue-not-less/" >🔗</a> **[SpaceNews]** Space endurance: A call for more dialogue, not less
 - <a href="https://spacenews.com/lunar-trailblazer-odin-spacecraft-suffering-problems-after-im-2-launch/" >🔗</a> **[SpaceNews]** Lunar Trailblazer, Odin spacecraft suffering problems after IM-2 launch
-- <a href="https://spacenews.com/rocket-lab-reaffirms-2025-first-launch-of-neutron/" >🔗</a> **[SpaceNews]** Rocket Lab reaffirms 2025 first launch of Neutron
-- <a href="https://europeanspaceflight.com/polaris-spaceplanes-secures-contract-for-hypersonic-research-vehicle/" >🔗</a> **[European Spaceflight]** POLARIS Spaceplanes Secures Contract for Hypersonic Research Vehicle
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250228T180129">2025-02-28 18:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250228T183632">2025-02-28 18:36:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
