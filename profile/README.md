@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/two-senators-question-air-force-nominees-spacex-connections/" >🔗</a> **[SpaceNews]** Two senators question Air Force nominee’s SpaceX connections
+- <a href="https://spacepolicyonline.com/news/noaa-hit-hard-by-doge-layoffs/" >🔗</a> **[SpacePolicyOnline.com]** NOAA Hit Hard by DOGE Layoffs
+- <a href="https://www.nasa.gov/science-research/earth-science/nasa-uses-new-technology-to-understand-california-wildfires/" >🔗</a> **[NASA]** NASA Uses New Technology to Understand California Wildfires
+- <a href="https://science.nasa.gov/solar-system/skywatching/whats-up-march-2025-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: March 2025 Skywatching Tips from NASA
 - <a href="https://spaceflightnow.com/2025/02/28/nasas-lunar-trailblazer-astroforges-odin-face-post-deployment-challenges/" >🔗</a> **[Spaceflight Now]** NASA’s Lunar Trailblazer, AstroForge’s Odin face post-deployment challenges
 - <a href="https://spacenews.com/golden-dome-replaces-iron-dome-pentagon-renames-missile-defense-initiative/" >🔗</a> **[SpaceNews]** Golden Dome replaces Iron Dome: Pentagon renames missile defense initiative
 - <a href="https://spacenews.com/skylo-raises-30-million-to-fuel-direct-to-smartphone-expansion/" >🔗</a> **[SpaceNews]** Skylo raises $30 million to fuel direct-to-smartphone expansion
 - <a href="https://spacenews.com/office-of-space-commerce-hit-by-layoffs/" >🔗</a> **[SpaceNews]** Office of Space Commerce hit by layoffs
 - <a href="https://spacenews.com/fcc-mulls-c-band-options-raising-prospect-of-another-satellite-windfall/" >🔗</a> **[SpaceNews]** FCC mulls C-band options, raising prospect of another satellite windfall
 - <a href="https://www.nasa.gov/image-article/langley-laboratory-apprentice-at-work/" >🔗</a> **[NASA]** Langley Laboratory Apprentice at Work
-- <a href="https://science.nasa.gov/missions/hubble/hubble-captures-new-view-of-colorful-veil/" >🔗</a> **[NASA]** Hubble Captures New View of Colorful Veil
-- <a href="https://spacenews.com/china-to-train-pakistani-astronaut-for-tiangong-space-station-mission/" >🔗</a> **[SpaceNews]** China to train Pakistani astronaut for Tiangong space station mission
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_24-28_February_2025" >🔗</a> **[ESA]** Week in images: 24-28 February 2025
-- <a href="https://spacenews.com/how-independent-space-companies-can-fight-back-against-misinformation-from-elon-musk-and-donald-trump/" >🔗</a> **[SpaceNews]** How independent space companies can fight back against misinformation from Elon Musk and Donald Trump
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250228T230116">2025-02-28 23:01:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250228T233059">2025-02-28 23:30:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
