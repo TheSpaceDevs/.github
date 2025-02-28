@@ -91,6 +91,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/02/Webb_visits_a_star-forming_spiral" >🔗</a> **[ESA]** Webb visits a star-forming spiral
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/02/Earth_from_Space_Maha_Kumbh_Mela_festival_India" >🔗</a> **[ESA]** Earth from Space: Maha Kumbh Mela festival, India
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Integral/Mission_accomplished_for_Integral_ESA_s_gamma-ray_telescope" >🔗</a> **[ESA]** Mission accomplished for Integral, ESA’s gamma-ray telescope
 - <a href="https://spacepolicyonline.com/news/next-new-shepard-has-star-studded-all-female-crew/" >🔗</a> **[SpacePolicyOnline.com]** Next New Shepard Has Star-Studded, All-Female Crew
 - <a href="https://spacenews.com/space-development-agency-pushes-back-on-gaos-criticism/" >🔗</a> **[SpaceNews]** Space Development Agency pushes back on GAO’s criticism
 - <a href="https://spacenews.com/ses-shareholder-pushes-to-curb-state-control-to-tackle-market-challenges/" >🔗</a> **[SpaceNews]** SES shareholder pushes to curb state control to tackle market challenges
@@ -98,9 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/image-article/nasa-installs-heat-shield-on-first-private-spacecraft-bound-for-venus/" >🔗</a> **[NASA]** NASA Installs Heat Shield on First Private Spacecraft Bound for Venus
 - <a href="https://www.spacescout.info/2025/02/intuitive-machines-aims-high-for-second-moon-landing/" >🔗</a> **[Space Scout]** Intuitive Machines Aims High for Second Moon Landing
 - <a href="https://www.nasa.gov/image-article/intuitive-machines-2-lifts-off/" >🔗</a> **[NASA]** Intuitive Machines-2 Lifts Off
-- <a href="https://spacenews.com/swissto12-strengthens-push-beyond-subsystems-with-ses-antenna-deal/" >🔗</a> **[SpaceNews]** Swissto12 strengthens push beyond subsystems with SES antenna deal
-- <a href="https://tlpnetwork.com/news/america/faa-issues-spacex-orbital-starship-launch-license-spacex-targets-monday-for-starship-flight-8" >🔗</a> **[The Launch Pad]** FAA Issues SpaceX "Orbital" Starship Launch License; SpaceX Targets Monday For Starship Flight 8
-- <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-provides-birds-eye-view-of-andromeda-galaxys-ecosystem/" >🔗</a> **[NASA]** NASA’s Hubble Provides Bird’s-Eye View of Andromeda Galaxy’s Ecosystem
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250228T090125">2025-02-28 09:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250228T093234">2025-02-28 09:32:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
