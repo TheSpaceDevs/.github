@@ -91,6 +91,7 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/03/01/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-14/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacenews.com/varda-space-capsule-lands-in-australia-with-critical-data-for-hypersonic-vehicles/" >🔗</a> **[SpaceNews]** Varda Space capsule lands in Australia with critical data for hypersonic vehicles
 - <a href="https://europeanspaceflight.com/sentinel-2a-given-one-year-exceptional-and-temporary-extension/" >🔗</a> **[European Spaceflight]** Sentinel-2A Given One-Year Exceptional and Temporary Extension
 - <a href="https://science.nasa.gov/blog/smooshing-for-science-a-flat-out-success/" >🔗</a> **[NASA]** Smooshing for Science: A Flat-Out Success
@@ -100,7 +101,6 @@ into *a Medium Earth Orbit
 - <a href="https://science.nasa.gov/solar-system/skywatching/whats-up-march-2025-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: March 2025 Skywatching Tips from NASA
 - <a href="https://spaceflightnow.com/2025/02/28/nasas-lunar-trailblazer-astroforges-odin-face-post-deployment-challenges/" >🔗</a> **[Spaceflight Now]** NASA’s Lunar Trailblazer, AstroForge’s Odin face post-deployment challenges
 - <a href="https://spacenews.com/golden-dome-replaces-iron-dome-pentagon-renames-missile-defense-initiative/" >🔗</a> **[SpaceNews]** Golden Dome replaces Iron Dome: Pentagon renames missile defense initiative
-- <a href="https://spacenews.com/skylo-raises-30-million-to-fuel-direct-to-smartphone-expansion/" >🔗</a> **[SpaceNews]** Skylo raises $30 million to fuel direct-to-smartphone expansion
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250301T160120">2025-03-01 16:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250301T163421">2025-03-01 16:34:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
