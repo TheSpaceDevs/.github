@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/sentinel-2a-given-one-year-exceptional-and-temporary-extension/" >🔗</a> **[European Spaceflight]** Sentinel-2A Given One-Year Exceptional and Temporary Extension
 - <a href="https://science.nasa.gov/blog/smooshing-for-science-a-flat-out-success/" >🔗</a> **[NASA]** Smooshing for Science: A Flat-Out Success
 - <a href="https://spacenews.com/two-senators-question-air-force-nominees-spacex-connections/" >🔗</a> **[SpaceNews]** Two senators question Air Force nominee’s SpaceX connections
 - <a href="https://spacepolicyonline.com/news/noaa-hit-hard-by-doge-layoffs/" >🔗</a> **[SpacePolicyOnline.com]** NOAA Hit Hard by DOGE Layoffs
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/golden-dome-replaces-iron-dome-pentagon-renames-missile-defense-initiative/" >🔗</a> **[SpaceNews]** Golden Dome replaces Iron Dome: Pentagon renames missile defense initiative
 - <a href="https://spacenews.com/skylo-raises-30-million-to-fuel-direct-to-smartphone-expansion/" >🔗</a> **[SpaceNews]** Skylo raises $30 million to fuel direct-to-smartphone expansion
 - <a href="https://spacenews.com/office-of-space-commerce-hit-by-layoffs/" >🔗</a> **[SpaceNews]** Office of Space Commerce hit by layoffs
-- <a href="https://spacenews.com/fcc-mulls-c-band-options-raising-prospect-of-another-satellite-windfall/" >🔗</a> **[SpaceNews]** FCC mulls C-band options, raising prospect of another satellite windfall
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250301T073108">2025-03-01 07:31:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250301T080135">2025-03-01 08:01:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
