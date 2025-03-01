@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blog/smooshing-for-science-a-flat-out-success/" >🔗</a> **[NASA]** Smooshing for Science: A Flat-Out Success
 - <a href="https://spacenews.com/two-senators-question-air-force-nominees-spacex-connections/" >🔗</a> **[SpaceNews]** Two senators question Air Force nominee’s SpaceX connections
 - <a href="https://spacepolicyonline.com/news/noaa-hit-hard-by-doge-layoffs/" >🔗</a> **[SpacePolicyOnline.com]** NOAA Hit Hard by DOGE Layoffs
 - <a href="https://www.nasa.gov/science-research/earth-science/nasa-uses-new-technology-to-understand-california-wildfires/" >🔗</a> **[NASA]** NASA Uses New Technology to Understand California Wildfires
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/skylo-raises-30-million-to-fuel-direct-to-smartphone-expansion/" >🔗</a> **[SpaceNews]** Skylo raises $30 million to fuel direct-to-smartphone expansion
 - <a href="https://spacenews.com/office-of-space-commerce-hit-by-layoffs/" >🔗</a> **[SpaceNews]** Office of Space Commerce hit by layoffs
 - <a href="https://spacenews.com/fcc-mulls-c-band-options-raising-prospect-of-another-satellite-windfall/" >🔗</a> **[SpaceNews]** FCC mulls C-band options, raising prospect of another satellite windfall
-- <a href="https://www.nasa.gov/image-article/langley-laboratory-apprentice-at-work/" >🔗</a> **[NASA]** Langley Laboratory Apprentice at Work
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250301T000508">2025-03-01 00:05:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250301T004559">2025-03-01 00:45:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
