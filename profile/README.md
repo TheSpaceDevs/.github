@@ -91,6 +91,9 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/03/02/firefly-aerospace-aces-moon-landing-on-first-attempt/" >🔗</a> **[Spaceflight Now]** Firefly Aerospace aces Moon landing on first attempt
+- <a href="https://spacepolicyonline.com/news/firefly-lands-on-the-moon/" >🔗</a> **[SpacePolicyOnline.com]** Firefly Lands on the Moon
+- <a href="https://www.nasa.gov/news-release/touchdown-carrying-nasa-science-fireflys-blue-ghost-lands-on-moon/" >🔗</a> **[NASA]** Touchdown! Carrying NASA Science, Firefly’s Blue Ghost Lands on Moon
 - <a href="https://spacenews.com/fireflys-blue-ghost-1-lands-on-the-moon/" >🔗</a> **[SpaceNews]** Firefly’s Blue Ghost 1 lands on the moon
 - <a href="https://spaceflightnow.com/2025/03/01/live-coverage-firefly-aerospace-attempts-first-moon-landing-with-blue-ghost/" >🔗</a> **[Spaceflight Now]** Live coverage: Firefly Aerospace attempts first Moon landing with Blue Ghost
 - <a href="https://spacenews.com/faa-gives-approval-for-next-starship-test-flight/" >🔗</a> **[SpaceNews]** FAA gives approval for next Starship test flight
@@ -98,9 +101,6 @@ into *a Medium Earth Orbit
 - <a href="https://spacenews.com/varda-space-capsule-lands-in-australia-with-critical-data-for-hypersonic-vehicles/" >🔗</a> **[SpaceNews]** Varda Space capsule lands in Australia with critical data for hypersonic vehicles
 - <a href="https://europeanspaceflight.com/sentinel-2a-given-one-year-exceptional-and-temporary-extension/" >🔗</a> **[European Spaceflight]** Sentinel-2A Given One-Year Exceptional and Temporary Extension
 - <a href="https://science.nasa.gov/blog/smooshing-for-science-a-flat-out-success/" >🔗</a> **[NASA]** Smooshing for Science: A Flat-Out Success
-- <a href="https://spacenews.com/two-senators-question-air-force-nominees-spacex-connections/" >🔗</a> **[SpaceNews]** Two senators question Air Force nominee’s SpaceX connections
-- <a href="https://spacepolicyonline.com/news/noaa-hit-hard-by-doge-layoffs/" >🔗</a> **[SpacePolicyOnline.com]** NOAA Hit Hard by DOGE Layoffs
-- <a href="https://www.nasa.gov/science-research/earth-science/nasa-uses-new-technology-to-understand-california-wildfires/" >🔗</a> **[NASA]** NASA Uses New Technology to Understand California Wildfires
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250302T100126">2025-03-02 10:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250302T110127">2025-03-02 11:01:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
