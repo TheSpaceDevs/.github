@@ -91,6 +91,7 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/03/01/live-coverage-firefly-aerospace-attempts-first-moon-landing-with-blue-ghost/" >🔗</a> **[Spaceflight Now]** Live coverage: Firefly Aerospace attempts first Moon landing with Blue Ghost
 - <a href="https://spacenews.com/faa-gives-approval-for-next-starship-test-flight/" >🔗</a> **[SpaceNews]** FAA gives approval for next Starship test flight
 - <a href="https://spaceflightnow.com/2025/03/01/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-14/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacenews.com/varda-space-capsule-lands-in-australia-with-critical-data-for-hypersonic-vehicles/" >🔗</a> **[SpaceNews]** Varda Space capsule lands in Australia with critical data for hypersonic vehicles
@@ -100,7 +101,6 @@ into *a Medium Earth Orbit
 - <a href="https://spacepolicyonline.com/news/noaa-hit-hard-by-doge-layoffs/" >🔗</a> **[SpacePolicyOnline.com]** NOAA Hit Hard by DOGE Layoffs
 - <a href="https://www.nasa.gov/science-research/earth-science/nasa-uses-new-technology-to-understand-california-wildfires/" >🔗</a> **[NASA]** NASA Uses New Technology to Understand California Wildfires
 - <a href="https://science.nasa.gov/solar-system/skywatching/whats-up-march-2025-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: March 2025 Skywatching Tips from NASA
-- <a href="https://spaceflightnow.com/2025/02/28/nasas-lunar-trailblazer-astroforges-odin-face-post-deployment-challenges/" >🔗</a> **[Spaceflight Now]** NASA’s Lunar Trailblazer, AstroForge’s Odin face post-deployment challenges
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250301T233107">2025-03-01 23:31:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250302T000448">2025-03-02 00:04:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
