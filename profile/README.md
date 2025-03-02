@@ -91,6 +91,7 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-march-2-9-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy March 2-9, 2025
 - <a href="https://spacenews.com/air-force-selects-pacific-landing-sites-to-test-space-cargo-deliveries/" >🔗</a> **[SpaceNews]** Air Force selects Pacific landing sites to test space cargo deliveries
 - <a href="https://spaceflightnow.com/2025/03/02/firefly-aerospace-aces-moon-landing-on-first-attempt/" >🔗</a> **[Spaceflight Now]** Firefly Aerospace aces Moon landing on first attempt
 - <a href="https://spacepolicyonline.com/news/firefly-lands-on-the-moon/" >🔗</a> **[SpacePolicyOnline.com]** Firefly Lands on the Moon
@@ -100,7 +101,6 @@ into *a Medium Earth Orbit
 - <a href="https://spacenews.com/faa-gives-approval-for-next-starship-test-flight/" >🔗</a> **[SpaceNews]** FAA gives approval for next Starship test flight
 - <a href="https://spaceflightnow.com/2025/03/01/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-14/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacenews.com/varda-space-capsule-lands-in-australia-with-critical-data-for-hypersonic-vehicles/" >🔗</a> **[SpaceNews]** Varda Space capsule lands in Australia with critical data for hypersonic vehicles
-- <a href="https://europeanspaceflight.com/sentinel-2a-given-one-year-exceptional-and-temporary-extension/" >🔗</a> **[European Spaceflight]** Sentinel-2A Given One-Year Exceptional and Temporary Extension
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250302T193107">2025-03-02 19:31:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250302T200124">2025-03-02 20:01:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
