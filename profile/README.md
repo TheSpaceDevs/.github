@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/radiation-as-a-service-how-the-private-sector-can-protect-americas-space-infrastructure/" >🔗</a> **[SpaceNews]** Radiation as a service: How the private sector can protect America’s space infrastructure
 - <a href="https://europeanspaceflight.com/nammo-uk-engine-powers-first-successful-commercial-lunar-landing/" >🔗</a> **[European Spaceflight]** Nammo UK Engine Powers First Successful Commercial Lunar Landing
 - <a href="https://www.nasaspaceflight.com/2025/03/starship-flight-8-launch/" >🔗</a> **[NASASpaceflight]** SpaceX set for Starship Flight 8
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-march-2-9-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy March 2-9, 2025
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasa.gov/news-release/touchdown-carrying-nasa-science-fireflys-blue-ghost-lands-on-moon/" >🔗</a> **[NASA]** Touchdown! Carrying NASA Science, Firefly’s Blue Ghost Lands on Moon
 - <a href="https://spacenews.com/fireflys-blue-ghost-1-lands-on-the-moon/" >🔗</a> **[SpaceNews]** Firefly’s Blue Ghost 1 lands on the moon
 - <a href="https://spaceflightnow.com/2025/03/01/live-coverage-firefly-aerospace-attempts-first-moon-landing-with-blue-ghost/" >🔗</a> **[Spaceflight Now]** Live coverage: Firefly Aerospace attempts first Moon landing with Blue Ghost
-- <a href="https://spacenews.com/faa-gives-approval-for-next-starship-test-flight/" >🔗</a> **[SpaceNews]** FAA gives approval for next Starship test flight
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250303T130628">2025-03-03 13:06:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250303T133507">2025-03-03 13:35:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
