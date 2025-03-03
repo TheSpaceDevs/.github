@@ -105,6 +105,7 @@ into *a Sun-Synchronous Orbit
 
 ### Launch-related News 🚀
 
+- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Watch_live_Ariane_6_second_flight" >🔗</a> **[ESA]** Watch live: Ariane 6 second flight
 - <a href="https://spacenews.com/arianespace-plans-five-ariane-6-launches-in-2025-primarily-in-the-second-half-of-the-year/" >🔗</a> **[SpaceNews]** Arianespace plans five Ariane 6 launches in 2025, primarily in the second half of the year
 - <a href="https://europeanspaceflight.com/arianespace-to-launch-second-ariane-6-rocket-on-26-february/" >🔗</a> **[European Spaceflight]** Arianespace to Launch Second Ariane 6 Rocket on 26 February
 - <a href="https://europeanspaceflight.com/second-ariane-6-rocket-takes-shape-as-spy-satellite-payload-arrives/" >🔗</a> **[European Spaceflight]** Second Ariane 6 Rocket Takes Shape as Spy Satellite Payload Arrives
@@ -114,12 +115,11 @@ into *a Sun-Synchronous Orbit
 - <a href="https://europeanspaceflight.com/ariane-6-rocket-stages-arrive-in-kourou-with-a-hitchhiker/" >🔗</a> **[European Spaceflight]** Ariane 6 Rocket Stages Arrive in Kourou with a Hitchhiker
 - <a href="https://europeanspaceflight.com/first-and-second-stages-for-next-ariane-6-flight-en-route/" >🔗</a> **[European Spaceflight]** First and Second Stages for Next Ariane 6 Flight En Route
 - <a href="https://europeanspaceflight.com/arianespace-pushes-second-flight-of-ariane-6-to-february-2025/" >🔗</a> **[European Spaceflight]** Arianespace Pushes Second Flight of Ariane 6 to February 2025
-- <a href="https://tlpnetwork.com/news/europe/ariane-6-second-flight-and-first-commercial-mission-delayed-february-2025" >🔗</a> **[The Launch Pad]** Ariane 6 Second Flight & First Commercial Mission Delayed February 2025
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250303T090134">2025-03-03 09:01:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250303T093340">2025-03-03 09:33:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
