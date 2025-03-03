@@ -91,6 +91,8 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/03/03/live-coverage-arianespace-to-launch-an-ariane-6-rocket-on-its-1st-commercial-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: Arianespace to launch an Ariane 6 rocket on its 1st commercial mission
+- <a href="https://spacenews.com/end-run-around-radiation-the-saga-and-surprise-vulnerabilities-of-europa-clipper/" >🔗</a> **[SpaceNews]** End-run around radiation – The saga and surprise vulnerabilities of Europa Clipper
 - <a href="https://spacenews.com/radiation-as-a-service-how-the-private-sector-can-protect-americas-space-infrastructure/" >🔗</a> **[SpaceNews]** Radiation as a service: How the private sector can protect America’s space infrastructure
 - <a href="https://europeanspaceflight.com/nammo-uk-engine-powers-first-successful-commercial-lunar-landing/" >🔗</a> **[European Spaceflight]** Nammo UK Engine Powers First Successful Commercial Lunar Landing
 - <a href="https://www.nasaspaceflight.com/2025/03/starship-flight-8-launch/" >🔗</a> **[NASASpaceflight]** SpaceX set for Starship Flight 8
@@ -99,8 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spaceflightnow.com/2025/03/02/firefly-aerospace-aces-moon-landing-on-first-attempt/" >🔗</a> **[Spaceflight Now]** Firefly Aerospace aces Moon landing on first attempt
 - <a href="https://spacepolicyonline.com/news/firefly-lands-on-the-moon/" >🔗</a> **[SpacePolicyOnline.com]** Firefly Lands on the Moon
 - <a href="https://www.nasa.gov/news-release/touchdown-carrying-nasa-science-fireflys-blue-ghost-lands-on-moon/" >🔗</a> **[NASA]** Touchdown! Carrying NASA Science, Firefly’s Blue Ghost Lands on Moon
-- <a href="https://spacenews.com/fireflys-blue-ghost-1-lands-on-the-moon/" >🔗</a> **[SpaceNews]** Firefly’s Blue Ghost 1 lands on the moon
-- <a href="https://spaceflightnow.com/2025/03/01/live-coverage-firefly-aerospace-attempts-first-moon-landing-with-blue-ghost/" >🔗</a> **[Spaceflight Now]** Live coverage: Firefly Aerospace attempts first Moon landing with Blue Ghost
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250303T140135">2025-03-03 14:01:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250303T143433">2025-03-03 14:34:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
