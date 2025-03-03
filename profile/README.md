@@ -53,9 +53,9 @@ into *a Suborbital
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250307T140900">2025-03-07 14:09:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-16&location=Cape Canaveral SFS, FL, USA&dates=20250307T140900Z%2F20250307T184000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-16** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250308T020000">2025-03-08 02:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-7&location=Vandenberg SFB, CA, USA&dates=20250308T020000Z%2F20250308T063100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-7** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250309T063900">2025-03-09 06:39:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Transporter 13 (Dedicated SSO Rideshare)&location=Vandenberg SFB, CA, USA&dates=20250309T063900Z%2F20250309T072500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Transporter 13 (Dedicated SSO Rideshare)** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250310T000000">2025-03-10 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | The Lightning God Reigns (iQPS Launch 1)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20250310T000000Z%2F20250310T020000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | The Lightning God Reigns (iQPS Launch 1)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250312T234854">2025-03-12 23:48:54 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Crew-10&location=Kennedy Space Center, FL, USA&dates=20250312T234854Z%2F20250312T234854Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Crew-10** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250315T000000">2025-03-15 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/au.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Eris-1 | Maiden Flight&location=Bowen Orbital Spaceport&dates=20250315T000000Z%2F20250315T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Eris-1 | Maiden Flight** from Bowen Orbital Spaceport.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250331T000000">2025-03-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ceres-1 | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20250331T000000Z%2F20250331T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ceres-1 | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -91,8 +91,9 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.nasa.gov/learning-resources/stem-engagement-at-nasa/university-high-knows-the-answers-at-nasa-jpl-regional-science-bowl/" >🔗</a> **[NASA]** University High Knows the Answers at NASA JPL Regional Science Bowl
+- <a href="https://spacenews.com/bae-lands-151-million-contract-for-missile-warning-satellite-ground-system/" >🔗</a> **[SpaceNews]** BAE lands $151 million contract for missile-warning satellite ground system
 - <a href="https://www.nasa.gov/centers-and-facilities/jpl/university-high-knows-the-answers-at-nasa-jpl-regional-science-bowl/" >🔗</a> **[NASA]** University High Knows the Answers at NASA JPL Regional Science Bowl
+- <a href="https://www.nasa.gov/learning-resources/stem-engagement-at-nasa/university-high-knows-the-answers-at-nasa-jpl-regional-science-bowl/" >🔗</a> **[NASA]** University High Knows the Answers at NASA JPL Regional Science Bowl
 - <a href="https://www.nasa.gov/image-article/naca-test-pilot-poses-with-plane/" >🔗</a> **[NASA]** NACA Test Pilot Poses with Plane
 - <a href="https://www.nasa.gov/news-release/nasa-astronauts-to-answer-questions-from-students-in-ohio-texas/" >🔗</a> **[NASA]** NASA Astronauts to Answer Questions from Students in Ohio, Texas
 - <a href="https://spacenews.com/voyager-to-adopt-partnership-strategy-for-golden-dome-program/" >🔗</a> **[SpaceNews]** Voyager to adopt partnership strategy for Golden Dome program
@@ -100,7 +101,6 @@ into *a Suborbital
 - <a href="https://www.nasa.gov/history/110-years-ago-the-national-advisory-committee-for-aeronautics-founded/" >🔗</a> **[NASA]** 110 Years Ago: The National Advisory Committee for Aeronautics Founded
 - <a href="https://spacenews.com/falcon-9-booster-lost-after-droneship-landing/" >🔗</a> **[SpaceNews]** Falcon 9 booster lost after droneship landing
 - <a href="https://www.nasa.gov/history/35-years-ago-sts-36-flies-a-dedicated-department-of-defense-mission/" >🔗</a> **[NASA]** 35 Years Ago: STS-36 Flies a Dedicated Department of Defense Mission
-- <a href="https://spaceflightnow.com/2025/03/03/live-coverage-spacex-to-launch-starship-flight-8-suborbital-test-mission-from-starbase/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Starship Flight 8 suborbital test mission from Starbase
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250303T220122">2025-03-03 22:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250303T223347">2025-03-03 22:33:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
