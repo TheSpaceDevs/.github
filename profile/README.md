@@ -91,6 +91,8 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/oceans/an-ocean-in-motion-nasas-mesmerizing-view-of-earths-underwater-highways/" >🔗</a> **[NASA]** An Ocean in Motion: NASA’s Mesmerizing View of Earth’s Underwater Highways
+- <a href="https://science.nasa.gov/earth/oceans/going-with-the-flow-visualizing-ocean-currents-with-ecco/" >🔗</a> **[NASA]** Going With the Flow: Visualizing Ocean Currents with ECCO
 - <a href="https://arstechnica.com/space/2025/03/how-low-can-you-go-firm-near-launch-of-atmosphere-skimming-satellite/" >🔗</a> **[Arstechnica]** How low can you go? Firm near launch of atmosphere-skimming satellite.
 - <a href="https://www.spacescout.info/2025/03/blue-ghost-makes-picture-perfect-moon-landing/" >🔗</a> **[Space Scout]** Blue Ghost Makes “Picture Perfect” Moon Landing
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-names-norman-knight-as-acting-deputy-director-of-johnson-space-center/" >🔗</a> **[NASA]** NASA Names Norman Knight as Acting Deputy Director of Johnson Space Center
@@ -99,8 +101,6 @@ into *a Suborbital
 - <a href="https://spaceflightnow.com/2025/03/03/live-coverage-arianespace-to-launch-an-ariane-6-rocket-on-its-1st-commercial-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: Arianespace to launch an Ariane 6 rocket on its 1st commercial mission
 - <a href="https://spacenews.com/end-run-around-radiation-the-saga-and-surprise-vulnerabilities-of-europa-clipper/" >🔗</a> **[SpaceNews]** End-run around radiation – The saga and surprise vulnerabilities of Europa Clipper
 - <a href="https://spacenews.com/radiation-as-a-service-how-the-private-sector-can-protect-americas-space-infrastructure/" >🔗</a> **[SpaceNews]** Radiation as a service: How the private sector can protect America’s space infrastructure
-- <a href="https://europeanspaceflight.com/nammo-uk-engine-powers-first-successful-commercial-lunar-landing/" >🔗</a> **[European Spaceflight]** Nammo UK Engine Powers First Successful Commercial Lunar Landing
-- <a href="https://www.nasaspaceflight.com/2025/03/starship-flight-8-launch/" >🔗</a> **[NASASpaceflight]** SpaceX set for Starship Flight 8
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250303T170135">2025-03-03 17:01:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250303T173257">2025-03-03 17:32:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
