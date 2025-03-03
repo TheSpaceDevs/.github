@@ -24,7 +24,7 @@ The next space launch, retrieved from our
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" />
 from *<a href="https://en.wikipedia.org/wiki/Guiana_Space_Centre">Ariane Launch Area 4</a>, Guiana Space Centre, French Guiana*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/gf.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250303T162400">2025-03-03 16:24:00 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250303T162426">2025-03-03 16:24:26 UTC</a>.  Until
 then, this pad will have been used for 1
 out of 323 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
@@ -46,10 +46,10 @@ into *a Sun-Synchronous Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250303T162400">2025-03-03 16:24:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ariane 62 | CSO-3&location=Guiana Space Centre, French Guiana&dates=20250303T162400Z%2F20250303T162400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ariane 62 | CSO-3** from Guiana Space Centre, French Guiana.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250303T162426">2025-03-03 16:24:26 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ariane 62 | CSO-3&location=Guiana Space Centre, French Guiana&dates=20250303T162426Z%2F20250303T162426Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ariane 62 | CSO-3** from Guiana Space Centre, French Guiana.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250303T233000">2025-03-03 23:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Starship | Flight 8&location=SpaceX Starbase, TX, USA&dates=20250303T233000Z%2F20250304T003000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starship | Flight 8** from SpaceX Starbase, TX, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250305T030900">2025-03-05 03:09:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SPHEREx &amp; PUNCH&location=Vandenberg SFB, CA, USA&dates=20250305T030900Z%2F20250305T031000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | SPHEREx & PUNCH** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250305T060000">2025-03-05 06:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-21&location=Cape Canaveral SFS, FL, USA&dates=20250305T060000Z%2F20250305T103100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-21** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250306T030900">2025-03-06 03:09:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SPHEREx &amp; PUNCH&location=Vandenberg SFB, CA, USA&dates=20250306T030900Z%2F20250306T030900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | SPHEREx & PUNCH** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250307T140900">2025-03-07 14:09:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-16&location=Cape Canaveral SFS, FL, USA&dates=20250307T140900Z%2F20250307T184000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-16** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250308T020000">2025-03-08 02:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-7&location=Vandenberg SFB, CA, USA&dates=20250308T020000Z%2F20250308T063100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-7** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250309T063900">2025-03-09 06:39:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Transporter 13 (Dedicated SSO Rideshare)&location=Vandenberg SFB, CA, USA&dates=20250309T063900Z%2F20250309T072500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Transporter 13 (Dedicated SSO Rideshare)** from Vandenberg SFB, CA, USA.
@@ -91,6 +91,9 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-names-norman-knight-as-acting-deputy-director-of-johnson-space-center/" >🔗</a> **[NASA]** NASA Names Norman Knight as Acting Deputy Director of Johnson Space Center
+- <a href="https://science.nasa.gov/missions/webb/nasas-webb-exposes-complex-atmosphere-of-starless-super-jupiter/" >🔗</a> **[NASA]** NASA’s Webb Exposes Complex Atmosphere of Starless Super-Jupiter
+- <a href="https://www.nasa.gov/history/nasa-marks-110-years-since-founding-of-predecessor-organization/" >🔗</a> **[NASA]** NASA Marks 110 Years Since Founding of Predecessor Organization
 - <a href="https://spaceflightnow.com/2025/03/03/live-coverage-arianespace-to-launch-an-ariane-6-rocket-on-its-1st-commercial-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: Arianespace to launch an Ariane 6 rocket on its 1st commercial mission
 - <a href="https://spacenews.com/end-run-around-radiation-the-saga-and-surprise-vulnerabilities-of-europa-clipper/" >🔗</a> **[SpaceNews]** End-run around radiation – The saga and surprise vulnerabilities of Europa Clipper
 - <a href="https://spacenews.com/radiation-as-a-service-how-the-private-sector-can-protect-americas-space-infrastructure/" >🔗</a> **[SpaceNews]** Radiation as a service: How the private sector can protect America’s space infrastructure
@@ -98,13 +101,11 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasaspaceflight.com/2025/03/starship-flight-8-launch/" >🔗</a> **[NASASpaceflight]** SpaceX set for Starship Flight 8
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-march-2-9-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy March 2-9, 2025
 - <a href="https://spacenews.com/air-force-selects-pacific-landing-sites-to-test-space-cargo-deliveries/" >🔗</a> **[SpaceNews]** Air Force selects Pacific landing sites to test space cargo deliveries
-- <a href="https://spaceflightnow.com/2025/03/02/firefly-aerospace-aces-moon-landing-on-first-attempt/" >🔗</a> **[Spaceflight Now]** Firefly Aerospace aces Moon landing on first attempt
-- <a href="https://spacepolicyonline.com/news/firefly-lands-on-the-moon/" >🔗</a> **[SpacePolicyOnline.com]** Firefly Lands on the Moon
-- <a href="https://www.nasa.gov/news-release/touchdown-carrying-nasa-science-fireflys-blue-ghost-lands-on-moon/" >🔗</a> **[NASA]** Touchdown! Carrying NASA Science, Firefly’s Blue Ghost Lands on Moon
 
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2025/03/03/live-coverage-arianespace-to-launch-an-ariane-6-rocket-on-its-1st-commercial-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: Arianespace to launch an Ariane 6 rocket on its 1st commercial mission
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Watch_live_Ariane_6_second_flight" >🔗</a> **[ESA]** Watch live: Ariane 6 second flight
 - <a href="https://spacenews.com/arianespace-plans-five-ariane-6-launches-in-2025-primarily-in-the-second-half-of-the-year/" >🔗</a> **[SpaceNews]** Arianespace plans five Ariane 6 launches in 2025, primarily in the second half of the year
 - <a href="https://europeanspaceflight.com/arianespace-to-launch-second-ariane-6-rocket-on-26-february/" >🔗</a> **[European Spaceflight]** Arianespace to Launch Second Ariane 6 Rocket on 26 February
@@ -114,12 +115,11 @@ into *a Sun-Synchronous Orbit
 - <a href="https://europeanspaceflight.com/assembly-of-p120-boosters-for-next-ariane-6-flight-completed/" >🔗</a> **[European Spaceflight]** Assembly of P120 Boosters for Next Ariane 6 Flight Completed
 - <a href="https://europeanspaceflight.com/ariane-6-rocket-stages-arrive-in-kourou-with-a-hitchhiker/" >🔗</a> **[European Spaceflight]** Ariane 6 Rocket Stages Arrive in Kourou with a Hitchhiker
 - <a href="https://europeanspaceflight.com/first-and-second-stages-for-next-ariane-6-flight-en-route/" >🔗</a> **[European Spaceflight]** First and Second Stages for Next Ariane 6 Flight En Route
-- <a href="https://europeanspaceflight.com/arianespace-pushes-second-flight-of-ariane-6-to-february-2025/" >🔗</a> **[European Spaceflight]** Arianespace Pushes Second Flight of Ariane 6 to February 2025
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250303T150121">2025-03-03 15:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250303T153340">2025-03-03 15:33:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
