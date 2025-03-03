@@ -91,6 +91,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/history/110-years-ago-the-national-advisory-committee-for-aeronautics-founded/" >🔗</a> **[NASA]** 110 Years Ago: The National Advisory Committee for Aeronautics Founded
 - <a href="https://spacenews.com/falcon-9-booster-lost-after-droneship-landing/" >🔗</a> **[SpaceNews]** Falcon 9 booster lost after droneship landing
 - <a href="https://www.nasa.gov/history/35-years-ago-sts-36-flies-a-dedicated-department-of-defense-mission/" >🔗</a> **[NASA]** 35 Years Ago: STS-36 Flies a Dedicated Department of Defense Mission
 - <a href="https://spaceflightnow.com/2025/03/03/live-coverage-spacex-to-launch-starship-flight-8-suborbital-test-mission-from-starbase/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Starship Flight 8 suborbital test mission from Starbase
@@ -100,7 +101,6 @@ into *a Suborbital
 - <a href="https://arstechnica.com/space/2025/03/how-low-can-you-go-firm-near-launch-of-atmosphere-skimming-satellite/" >🔗</a> **[Arstechnica]** How low can you go? Firm near launch of atmosphere-skimming satellite.
 - <a href="https://www.spacescout.info/2025/03/blue-ghost-makes-picture-perfect-moon-landing/" >🔗</a> **[Space Scout]** Blue Ghost Makes “Picture Perfect” Moon Landing
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-names-norman-knight-as-acting-deputy-director-of-johnson-space-center/" >🔗</a> **[NASA]** NASA Names Norman Knight as Acting Deputy Director of Johnson Space Center
-- <a href="https://science.nasa.gov/missions/webb/nasas-webb-exposes-complex-atmosphere-of-starless-super-jupiter/" >🔗</a> **[NASA]** NASA’s Webb Exposes Complex Atmosphere of Starless Super-Jupiter
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250303T193116">2025-03-03 19:31:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250303T200125">2025-03-03 20:01:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
