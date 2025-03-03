@@ -91,6 +91,9 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-astronauts-to-answer-questions-from-students-in-ohio-texas/" >🔗</a> **[NASA]** NASA Astronauts to Answer Questions from Students in Ohio, Texas
+- <a href="https://spacenews.com/voyager-to-adopt-partnership-strategy-for-golden-dome-program/" >🔗</a> **[SpaceNews]** Voyager to adopt partnership strategy for Golden Dome program
+- <a href="https://www.nasa.gov/missions/station/station-science-top-news-feb-27-2025/" >🔗</a> **[NASA]** Station Science Top News: Feb. 27, 2025
 - <a href="https://www.nasa.gov/history/110-years-ago-the-national-advisory-committee-for-aeronautics-founded/" >🔗</a> **[NASA]** 110 Years Ago: The National Advisory Committee for Aeronautics Founded
 - <a href="https://spacenews.com/falcon-9-booster-lost-after-droneship-landing/" >🔗</a> **[SpaceNews]** Falcon 9 booster lost after droneship landing
 - <a href="https://www.nasa.gov/history/35-years-ago-sts-36-flies-a-dedicated-department-of-defense-mission/" >🔗</a> **[NASA]** 35 Years Ago: STS-36 Flies a Dedicated Department of Defense Mission
@@ -98,9 +101,6 @@ into *a Suborbital
 - <a href="https://spacenews.com/maxar-wins-mystery-commercial-geo-order-amid-market-slowdown/" >🔗</a> **[SpaceNews]** Maxar wins mystery commercial GEO order amid market slowdown
 - <a href="https://science.nasa.gov/earth/oceans/an-ocean-in-motion-nasas-mesmerizing-view-of-earths-underwater-highways/" >🔗</a> **[NASA]** An Ocean in Motion: NASA’s Mesmerizing View of Earth’s Underwater Highways
 - <a href="https://science.nasa.gov/earth/oceans/going-with-the-flow-visualizing-ocean-currents-with-ecco/" >🔗</a> **[NASA]** Going With the Flow: Visualizing Ocean Currents with ECCO
-- <a href="https://arstechnica.com/space/2025/03/how-low-can-you-go-firm-near-launch-of-atmosphere-skimming-satellite/" >🔗</a> **[Arstechnica]** How low can you go? Firm near launch of atmosphere-skimming satellite.
-- <a href="https://www.spacescout.info/2025/03/blue-ghost-makes-picture-perfect-moon-landing/" >🔗</a> **[Space Scout]** Blue Ghost Makes “Picture Perfect” Moon Landing
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-names-norman-knight-as-acting-deputy-director-of-johnson-space-center/" >🔗</a> **[NASA]** NASA Names Norman Knight as Acting Deputy Director of Johnson Space Center
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250303T200125">2025-03-03 20:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250303T203331">2025-03-03 20:33:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
