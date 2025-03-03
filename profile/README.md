@@ -91,6 +91,9 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/learning-resources/stem-engagement-at-nasa/university-high-knows-the-answers-at-nasa-jpl-regional-science-bowl/" >🔗</a> **[NASA]** University High Knows the Answers at NASA JPL Regional Science Bowl
+- <a href="https://www.nasa.gov/centers-and-facilities/jpl/university-high-knows-the-answers-at-nasa-jpl-regional-science-bowl/" >🔗</a> **[NASA]** University High Knows the Answers at NASA JPL Regional Science Bowl
+- <a href="https://www.nasa.gov/image-article/naca-test-pilot-poses-with-plane/" >🔗</a> **[NASA]** NACA Test Pilot Poses with Plane
 - <a href="https://www.nasa.gov/news-release/nasa-astronauts-to-answer-questions-from-students-in-ohio-texas/" >🔗</a> **[NASA]** NASA Astronauts to Answer Questions from Students in Ohio, Texas
 - <a href="https://spacenews.com/voyager-to-adopt-partnership-strategy-for-golden-dome-program/" >🔗</a> **[SpaceNews]** Voyager to adopt partnership strategy for Golden Dome program
 - <a href="https://www.nasa.gov/missions/station/station-science-top-news-feb-27-2025/" >🔗</a> **[NASA]** Station Science Top News: Feb. 27, 2025
@@ -98,9 +101,6 @@ into *a Suborbital
 - <a href="https://spacenews.com/falcon-9-booster-lost-after-droneship-landing/" >🔗</a> **[SpaceNews]** Falcon 9 booster lost after droneship landing
 - <a href="https://www.nasa.gov/history/35-years-ago-sts-36-flies-a-dedicated-department-of-defense-mission/" >🔗</a> **[NASA]** 35 Years Ago: STS-36 Flies a Dedicated Department of Defense Mission
 - <a href="https://spaceflightnow.com/2025/03/03/live-coverage-spacex-to-launch-starship-flight-8-suborbital-test-mission-from-starbase/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Starship Flight 8 suborbital test mission from Starbase
-- <a href="https://spacenews.com/maxar-wins-mystery-commercial-geo-order-amid-market-slowdown/" >🔗</a> **[SpaceNews]** Maxar wins mystery commercial GEO order amid market slowdown
-- <a href="https://science.nasa.gov/earth/oceans/an-ocean-in-motion-nasas-mesmerizing-view-of-earths-underwater-highways/" >🔗</a> **[NASA]** An Ocean in Motion: NASA’s Mesmerizing View of Earth’s Underwater Highways
-- <a href="https://science.nasa.gov/earth/oceans/going-with-the-flow-visualizing-ocean-currents-with-ecco/" >🔗</a> **[NASA]** Going With the Flow: Visualizing Ocean Currents with ECCO
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250303T210132">2025-03-03 21:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250303T213201">2025-03-03 21:32:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
