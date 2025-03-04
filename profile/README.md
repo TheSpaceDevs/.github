@@ -91,6 +91,9 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/nasa-successfully-acquires-gps-signals-on-moon/" >🔗</a> **[NASA]** NASA Successfully Acquires GPS Signals on Moon
+- <a href="https://www.nasa.gov/history/30-years-ago-sts-67-the-astro-2-mission/" >🔗</a> **[NASA]** 30 Years Ago: STS-67, the Astro-2 Mission
+- <a href="https://www.nasa.gov/image-article/blue-ghost-lands-on-moon/" >🔗</a> **[NASA]** Blue Ghost Lands on Moon
 - <a href="https://spacenews.com/the-evolving-landscape-of-space-investment-with-tess-hatch/" >🔗</a> **[SpaceNews]** The evolving landscape of space investment with Tess Hatch
 - <a href="https://spacenews.com/astranis-demonstrates-gps-capability-in-race-for-space-force-contract/" >🔗</a> **[SpaceNews]** Astranis demonstrates GPS capability in race for Space Force contract
 - <a href="https://www.nasa.gov/image-article/x-ray-signal-points-to-destroyed-planet-chandra-finds/" >🔗</a> **[NASA]** X-ray Signal Points to Destroyed Planet, Chandra Finds
@@ -98,9 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/stennis/lagniappe-for-march-2025/" >🔗</a> **[NASA]** Lagniappe for March 2025
 - <a href="https://www.nasa.gov/image-article/jason-hopper-rock-climbing-to-rocket-propulsion/" >🔗</a> **[NASA]** How NASA Employee Went from Rock Climbing to Rocket Propulsion
 - <a href="https://europeanspaceflight.com/isar-secures-new-launch-contract-as-it-prepares-for-spectrum-debut/" >🔗</a> **[European Spaceflight]** Isar Secures New Launch Contract as it Prepares for Spectrum Debut
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/orion-deputy-program-manager-debbie-korth-receives-2025-engineer-of-the-year-award/" >🔗</a> **[NASA]** Orion Deputy Program Manager Debbie Korth Receives 2025 Engineer of the Year Award
-- <a href="https://science.nasa.gov/blog/sols-4468-4470-a-wintry-mix-of-mars-science/" >🔗</a> **[NASA]** Sols 4468-4470: A Wintry Mix of Mars Science
-- <a href="https://www.nasa.gov/general/interview-with-sean-colgan/" >🔗</a> **[NASA]** Interview with Sean Colgan
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250304T180142">2025-03-04 18:01:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250304T183712">2025-03-04 18:37:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
