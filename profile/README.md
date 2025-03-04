@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/the-evolving-landscape-of-space-investment-with-tess-hatch/" >🔗</a> **[SpaceNews]** The evolving landscape of space investment with Tess Hatch
+- <a href="https://spacenews.com/astranis-demonstrates-gps-capability-in-race-for-space-force-contract/" >🔗</a> **[SpaceNews]** Astranis demonstrates GPS capability in race for Space Force contract
+- <a href="https://www.nasa.gov/image-article/x-ray-signal-points-to-destroyed-planet-chandra-finds/" >🔗</a> **[NASA]** X-ray Signal Points to Destroyed Planet, Chandra Finds
+- <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-finds-kuiper-belt-duo-may-be-trio/" >🔗</a> **[NASA]** NASA’s Hubble Finds Kuiper Belt Duo May Be Trio
+- <a href="https://www.nasa.gov/centers-and-facilities/stennis/lagniappe-for-march-2025/" >🔗</a> **[NASA]** Lagniappe for March 2025
+- <a href="https://www.nasa.gov/image-article/jason-hopper-rock-climbing-to-rocket-propulsion/" >🔗</a> **[NASA]** How NASA Employee Went from Rock Climbing to Rocket Propulsion
 - <a href="https://europeanspaceflight.com/isar-secures-new-launch-contract-as-it-prepares-for-spectrum-debut/" >🔗</a> **[European Spaceflight]** Isar Secures New Launch Contract as it Prepares for Spectrum Debut
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/orion-deputy-program-manager-debbie-korth-receives-2025-engineer-of-the-year-award/" >🔗</a> **[NASA]** Orion Deputy Program Manager Debbie Korth Receives 2025 Engineer of the Year Award
 - <a href="https://science.nasa.gov/blog/sols-4468-4470-a-wintry-mix-of-mars-science/" >🔗</a> **[NASA]** Sols 4468-4470: A Wintry Mix of Mars Science
 - <a href="https://www.nasa.gov/general/interview-with-sean-colgan/" >🔗</a> **[NASA]** Interview with Sean Colgan
-- <a href="https://spacepolicyonline.com/news/japans-ispace-announces-landing-date-for-second-hakuto-r-mission/" >🔗</a> **[SpacePolicyOnline.com]** Japan’s ispace Announces Landing Date for Second Hakuto-R Mission
-- <a href="https://spacenews.com/albedo-secures-12-million-stratfi-contract/" >🔗</a> **[SpaceNews]** Albedo secures $12 million STRATFI contract
-- <a href="https://spacenews.com/spacex-scrubs-starship-launch/" >🔗</a> **[SpaceNews]** SpaceX scrubs Starship launch
-- <a href="https://spacenews.com/spire-demonstrates-optical-links-between-cubesats/" >🔗</a> **[SpaceNews]** Spire demonstrates optical links between cubesats
-- <a href="https://spacenews.com/space-force-chief-calls-for-greater-focus-on-space-superiority/" >🔗</a> **[SpaceNews]** Space Force chief calls for greater focus on ‘space superiority’
-- <a href="https://tlpnetwork.com/news/america/a-new-era-for-the-space-coast-spacex-announces-starship-starfactory-and-gigabay-coming-to-florida" >🔗</a> **[The Launch Pad]** A New Era for the Space Coast: SpaceX Announces Starship Starfactory and GigaBay Coming to Florida
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250304T160137">2025-03-04 16:01:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250304T163651">2025-03-04 16:36:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
