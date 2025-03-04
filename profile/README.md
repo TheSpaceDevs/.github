@@ -92,15 +92,15 @@ into *a Sun-Synchronous Orbit
 
 ### Latest News ⌛
 - <a href="https://spacenews.com/space-launch-executives-warn-u-s-infrastructure-unprepared-for-coming-launch-surge/" >🔗</a> **[SpaceNews]** Space launch executives warn U.S. infrastructure unprepared for coming launch surge
-- <a href="https://www.nasa.gov/news-release/nasa-awards-launch-service-task-order-for-mission-to-study-storm-formation/" >🔗</a> **[NASA]** NASA Awards Launch Service Task Order for Mission to Study Storm Formation
+- <a href="https://science.nasa.gov/learning-resources/science-activation/2025-aviation-weather-mission-civil-air-patrol-cadets-help-scientists-study-the-atmosphere-with-globe-clouds/" >🔗</a> **[NASA]** 2025 Aviation Weather Mission: Civil Air Patrol Cadets Help Scientists Study the Atmosphere with GLOBE Clouds
 - <a href="https://www.nasa.gov/news-release/nasa-awards-launch-service-for-mission-to-study-storm-formation/" >🔗</a> **[NASA]** NASA Awards Launch Service for Mission to Study Storm Formation
+- <a href="https://www.nasa.gov/news-release/nasa-awards-launch-service-task-order-for-mission-to-study-storm-formation/" >🔗</a> **[NASA]** NASA Awards Launch Service Task Order for Mission to Study Storm Formation
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-nation-meet-chris-wade-visiting-vehicle-integration-manager-for-spacex-vehicles/" >🔗</a> **[NASA]** Station Nation: Meet Chris Wade, Visiting Vehicle Integration Manager for SpaceX Vehicles
 - <a href="https://spacenews.com/isar-aerospace-secures-first-asian-customer-ahead-of-debut-launch/" >🔗</a> **[SpaceNews]** Isar Aerospace secures first Asian customer ahead of debut launch
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/ames-science/farming-with-data-openet-launches-new-tool-for-farmers-and-ranchers/" >🔗</a> **[NASA]** FARMing with Data: OpenET Launches new Tool for Farmers and Ranchers
 - <a href="https://arstechnica.com/space/2025/03/butch-and-suni-send-mixed-messages-on-whether-politics-delayed-their-return/" >🔗</a> **[Arstechnica]** Butch and Suni send mixed messages on whether politics delayed their return
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-intuitive-machines-second-private-moon-landing/" >🔗</a> **[NASA]** NASA Sets Coverage for Intuitive Machines’ Second Private Moon Landing
 - <a href="https://spacenews.com/moog-to-share-innovations-in-advanced-spacecraft-computing-during-partner-session-at-satellite-2025-conference/" >🔗</a> **[SpaceNews]** Moog to Share Innovations in Advanced Spacecraft Computing During Partner Session at SATELLITE 2025 Conference
-- <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/mar2025-night-sky-notes/" >🔗</a> **[NASA]** March’s Night Sky Notes: Messier Madness
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250304T220127">2025-03-04 22:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250304T223306">2025-03-04 22:33:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
