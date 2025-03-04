@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/interview-with-sean-colgan/" >🔗</a> **[NASA]** Interview with Sean Colgan
 - <a href="https://spacepolicyonline.com/news/japans-ispace-announces-landing-date-for-second-hakuto-r-mission/" >🔗</a> **[SpacePolicyOnline.com]** Japan’s ispace Announces Landing Date for Second Hakuto-R Mission
 - <a href="https://spacenews.com/albedo-secures-12-million-stratfi-contract/" >🔗</a> **[SpaceNews]** Albedo secures $12 million STRATFI contract
 - <a href="https://spacenews.com/spacex-scrubs-starship-launch/" >🔗</a> **[SpaceNews]** SpaceX scrubs Starship launch
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/bae-lands-151-million-contract-for-missile-warning-satellite-ground-system/" >🔗</a> **[SpaceNews]** BAE lands $151 million contract for missile-warning satellite ground system
 - <a href="https://www.nasa.gov/centers-and-facilities/jpl/university-high-knows-the-answers-at-nasa-jpl-regional-science-bowl/" >🔗</a> **[NASA]** University High Knows the Answers at NASA JPL Regional Science Bowl
 - <a href="https://www.nasa.gov/learning-resources/stem-engagement-at-nasa/university-high-knows-the-answers-at-nasa-jpl-regional-science-bowl/" >🔗</a> **[NASA]** University High Knows the Answers at NASA JPL Regional Science Bowl
-- <a href="https://www.nasa.gov/image-article/naca-test-pilot-poses-with-plane/" >🔗</a> **[NASA]** NACA Test Pilot Poses with Plane
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250304T040135">2025-03-04 04:01:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250304T043428">2025-03-04 04:34:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
