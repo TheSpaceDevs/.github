@@ -91,16 +91,16 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacex-scrubs-starship-launch/" >🔗</a> **[SpaceNews]** SpaceX scrubs Starship launch
 - <a href="https://spacenews.com/spire-demonstrates-optical-links-between-cubesats/" >🔗</a> **[SpaceNews]** Spire demonstrates optical links between cubesats
 - <a href="https://spacenews.com/space-force-chief-calls-for-greater-focus-on-space-superiority/" >🔗</a> **[SpaceNews]** Space Force chief calls for greater focus on ‘space superiority’
 - <a href="https://tlpnetwork.com/news/america/a-new-era-for-the-space-coast-spacex-announces-starship-starfactory-and-gigabay-coming-to-florida" >🔗</a> **[The Launch Pad]** A New Era for the Space Coast: SpaceX Announces Starship Starfactory and GigaBay Coming to Florida
 - <a href="https://spacenews.com/bae-lands-151-million-contract-for-missile-warning-satellite-ground-system/" >🔗</a> **[SpaceNews]** BAE lands $151 million contract for missile-warning satellite ground system
-- <a href="https://www.nasa.gov/centers-and-facilities/jpl/university-high-knows-the-answers-at-nasa-jpl-regional-science-bowl/" >🔗</a> **[NASA]** University High Knows the Answers at NASA JPL Regional Science Bowl
 - <a href="https://www.nasa.gov/learning-resources/stem-engagement-at-nasa/university-high-knows-the-answers-at-nasa-jpl-regional-science-bowl/" >🔗</a> **[NASA]** University High Knows the Answers at NASA JPL Regional Science Bowl
+- <a href="https://www.nasa.gov/centers-and-facilities/jpl/university-high-knows-the-answers-at-nasa-jpl-regional-science-bowl/" >🔗</a> **[NASA]** University High Knows the Answers at NASA JPL Regional Science Bowl
 - <a href="https://www.nasa.gov/image-article/naca-test-pilot-poses-with-plane/" >🔗</a> **[NASA]** NACA Test Pilot Poses with Plane
 - <a href="https://www.nasa.gov/news-release/nasa-astronauts-to-answer-questions-from-students-in-ohio-texas/" >🔗</a> **[NASA]** NASA Astronauts to Answer Questions from Students in Ohio, Texas
 - <a href="https://spacenews.com/voyager-to-adopt-partnership-strategy-for-golden-dome-program/" >🔗</a> **[SpaceNews]** Voyager to adopt partnership strategy for Golden Dome program
-- <a href="https://www.nasa.gov/missions/station/station-science-top-news-feb-27-2025/" >🔗</a> **[NASA]** Station Science Top News: Feb. 27, 2025
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250304T004541">2025-03-04 00:45:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250304T012830">2025-03-04 01:28:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
