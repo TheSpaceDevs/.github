@@ -91,6 +91,9 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-launch-executives-warn-u-s-infrastructure-unprepared-for-coming-launch-surge/" >🔗</a> **[SpaceNews]** Space launch executives warn U.S. infrastructure unprepared for coming launch surge
+- <a href="https://www.nasa.gov/news-release/nasa-awards-launch-service-task-order-for-mission-to-study-storm-formation/" >🔗</a> **[NASA]** NASA Awards Launch Service Task Order for Mission to Study Storm Formation
+- <a href="https://www.nasa.gov/news-release/nasa-awards-launch-service-for-mission-to-study-storm-formation/" >🔗</a> **[NASA]** NASA Awards Launch Service for Mission to Study Storm Formation
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-nation-meet-chris-wade-visiting-vehicle-integration-manager-for-spacex-vehicles/" >🔗</a> **[NASA]** Station Nation: Meet Chris Wade, Visiting Vehicle Integration Manager for SpaceX Vehicles
 - <a href="https://spacenews.com/isar-aerospace-secures-first-asian-customer-ahead-of-debut-launch/" >🔗</a> **[SpaceNews]** Isar Aerospace secures first Asian customer ahead of debut launch
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/ames-science/farming-with-data-openet-launches-new-tool-for-farmers-and-ranchers/" >🔗</a> **[NASA]** FARMing with Data: OpenET Launches new Tool for Farmers and Ranchers
@@ -98,9 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-intuitive-machines-second-private-moon-landing/" >🔗</a> **[NASA]** NASA Sets Coverage for Intuitive Machines’ Second Private Moon Landing
 - <a href="https://spacenews.com/moog-to-share-innovations-in-advanced-spacecraft-computing-during-partner-session-at-satellite-2025-conference/" >🔗</a> **[SpaceNews]** Moog to Share Innovations in Advanced Spacecraft Computing During Partner Session at SATELLITE 2025 Conference
 - <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/mar2025-night-sky-notes/" >🔗</a> **[NASA]** March’s Night Sky Notes: Messier Madness
-- <a href="https://spacepolicyonline.com/news/starship-ift-8-tries-again-tomorrow-as-spacex-readies-for-florida-launches-this-year/" >🔗</a> **[SpacePolicyOnline.com]** Starship IFT-8 Tries Again Tomorrow as SpaceX Readies for Florida Launches This Year
-- <a href="https://www.nasa.gov/general/nasa-successfully-acquires-gps-signals-on-moon/" >🔗</a> **[NASA]** NASA Successfully Acquires GPS Signals on Moon
-- <a href="https://www.nasa.gov/history/30-years-ago-sts-67-the-astro-2-mission/" >🔗</a> **[NASA]** 30 Years Ago: STS-67, the Astro-2 Mission
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250304T213124">2025-03-04 21:31:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250304T220127">2025-03-04 22:01:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
