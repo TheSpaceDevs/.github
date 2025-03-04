@@ -91,16 +91,16 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/03/butch-and-suni-send-mixed-messages-on-whether-politics-delayed-their-return/" >🔗</a> **[Arstechnica]** Butch and Suni send mixed messages on whether politics delayed their return
+- <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-intuitive-machines-second-private-moon-landing/" >🔗</a> **[NASA]** NASA Sets Coverage for Intuitive Machines’ Second Private Moon Landing
+- <a href="https://spacenews.com/moog-to-share-innovations-in-advanced-spacecraft-computing-during-partner-session-at-satellite-2025-conference/" >🔗</a> **[SpaceNews]** Moog to Share Innovations in Advanced Spacecraft Computing During Partner Session at SATELLITE 2025 Conference
+- <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/mar2025-night-sky-notes/" >🔗</a> **[NASA]** March’s Night Sky Notes: Messier Madness
+- <a href="https://spacepolicyonline.com/news/starship-ift-8-tries-again-tomorrow-as-spacex-readies-for-florida-launches-this-year/" >🔗</a> **[SpacePolicyOnline.com]** Starship IFT-8 Tries Again Tomorrow as SpaceX Readies for Florida Launches This Year
 - <a href="https://www.nasa.gov/general/nasa-successfully-acquires-gps-signals-on-moon/" >🔗</a> **[NASA]** NASA Successfully Acquires GPS Signals on Moon
 - <a href="https://www.nasa.gov/history/30-years-ago-sts-67-the-astro-2-mission/" >🔗</a> **[NASA]** 30 Years Ago: STS-67, the Astro-2 Mission
 - <a href="https://www.nasa.gov/image-article/blue-ghost-lands-on-moon/" >🔗</a> **[NASA]** Blue Ghost Lands on Moon
 - <a href="https://spacenews.com/the-evolving-landscape-of-space-investment-with-tess-hatch/" >🔗</a> **[SpaceNews]** The evolving landscape of space investment with Tess Hatch
 - <a href="https://spacenews.com/astranis-demonstrates-gps-capability-in-race-for-space-force-contract/" >🔗</a> **[SpaceNews]** Astranis demonstrates GPS capability in race for Space Force contract
-- <a href="https://www.nasa.gov/image-article/x-ray-signal-points-to-destroyed-planet-chandra-finds/" >🔗</a> **[NASA]** X-ray Signal Points to Destroyed Planet, Chandra Finds
-- <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-finds-kuiper-belt-duo-may-be-trio/" >🔗</a> **[NASA]** NASA’s Hubble Finds Kuiper Belt Duo May Be Trio
-- <a href="https://www.nasa.gov/centers-and-facilities/stennis/lagniappe-for-march-2025/" >🔗</a> **[NASA]** Lagniappe for March 2025
-- <a href="https://www.nasa.gov/image-article/jason-hopper-rock-climbing-to-rocket-propulsion/" >🔗</a> **[NASA]** How NASA Employee Went from Rock Climbing to Rocket Propulsion
-- <a href="https://europeanspaceflight.com/isar-secures-new-launch-contract-as-it-prepares-for-spectrum-debut/" >🔗</a> **[European Spaceflight]** Isar Secures New Launch Contract as it Prepares for Spectrum Debut
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250304T190118">2025-03-04 19:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250304T193059">2025-03-04 19:30:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
