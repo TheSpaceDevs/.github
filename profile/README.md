@@ -91,6 +91,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/orion-deputy-program-manager-debbie-korth-receives-2025-engineer-of-the-year-award/" >🔗</a> **[NASA]** Orion Deputy Program Manager Debbie Korth Receives 2025 Engineer of the Year Award
 - <a href="https://science.nasa.gov/blog/sols-4468-4470-a-wintry-mix-of-mars-science/" >🔗</a> **[NASA]** Sols 4468-4470: A Wintry Mix of Mars Science
 - <a href="https://www.nasa.gov/general/interview-with-sean-colgan/" >🔗</a> **[NASA]** Interview with Sean Colgan
 - <a href="https://spacepolicyonline.com/news/japans-ispace-announces-landing-date-for-second-hakuto-r-mission/" >🔗</a> **[SpacePolicyOnline.com]** Japan’s ispace Announces Landing Date for Second Hakuto-R Mission
@@ -100,7 +101,6 @@ into *a Suborbital
 - <a href="https://spacenews.com/space-force-chief-calls-for-greater-focus-on-space-superiority/" >🔗</a> **[SpaceNews]** Space Force chief calls for greater focus on ‘space superiority’
 - <a href="https://tlpnetwork.com/news/america/a-new-era-for-the-space-coast-spacex-announces-starship-starfactory-and-gigabay-coming-to-florida" >🔗</a> **[The Launch Pad]** A New Era for the Space Coast: SpaceX Announces Starship Starfactory and GigaBay Coming to Florida
 - <a href="https://spacenews.com/bae-lands-151-million-contract-for-missile-warning-satellite-ground-system/" >🔗</a> **[SpaceNews]** BAE lands $151 million contract for missile-warning satellite ground system
-- <a href="https://www.nasa.gov/centers-and-facilities/jpl/university-high-knows-the-answers-at-nasa-jpl-regional-science-bowl/" >🔗</a> **[NASA]** University High Knows the Answers at NASA JPL Regional Science Bowl
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250304T100133">2025-03-04 10:01:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250304T103534">2025-03-04 10:35:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
