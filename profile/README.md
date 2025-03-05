@@ -91,6 +91,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-to-launch-earth-science-smallsat-mission-on-firefly-alpha/" >🔗</a> **[SpaceNews]** NASA to launch Earth science smallsat mission on Firefly Alpha
 - <a href="https://spacepolicyonline.com/news/butch-suni-and-nick-stay-focused-on-mission-not-politics/" >🔗</a> **[SpacePolicyOnline.com]** Butch, Suni and Nick Stay Focused on Mission, Not Politics
 - <a href="https://spacenews.com/raven-space-systems-reveals-nasa-and-afrl-research-agreements/" >🔗</a> **[SpaceNews]** Raven Space Systems reveals NASA and AFRL research agreements
 - <a href="https://www.nasaspaceflight.com/2025/03/launch-roundup-030425/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Starship and Ariane 6 set to launch after scrubs
@@ -100,7 +101,6 @@ into *a Suborbital
 - <a href="https://www.nasa.gov/news-release/nasa-awards-launch-service-task-order-for-mission-to-study-storm-formation/" >🔗</a> **[NASA]** NASA Awards Launch Service Task Order for Mission to Study Storm Formation
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-nation-meet-chris-wade-visiting-vehicle-integration-manager-for-spacex-vehicles/" >🔗</a> **[NASA]** Station Nation: Meet Chris Wade, Visiting Vehicle Integration Manager for SpaceX Vehicles
 - <a href="https://spacenews.com/isar-aerospace-secures-first-asian-customer-ahead-of-debut-launch/" >🔗</a> **[SpaceNews]** Isar Aerospace secures first Asian customer ahead of debut launch
-- <a href="https://www.nasa.gov/centers-and-facilities/ames/ames-science/farming-with-data-openet-launches-new-tool-for-farmers-and-ranchers/" >🔗</a> **[NASA]** FARMing with Data: OpenET Launches new Tool for Farmers and Ranchers
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250305T040130">2025-03-05 04:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250305T043439">2025-03-05 04:34:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
