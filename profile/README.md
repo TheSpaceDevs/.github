@@ -91,6 +91,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/trump-renews-support-for-humans-on-mars-golden-dome/" >🔗</a> **[SpacePolicyOnline.com]** Trump Renews Support for Humans on Mars, Golden Dome
 - <a href="https://spacenews.com/nasa-to-launch-earth-science-smallsat-mission-on-firefly-alpha/" >🔗</a> **[SpaceNews]** NASA to launch Earth science smallsat mission on Firefly Alpha
 - <a href="https://spacepolicyonline.com/news/butch-suni-and-nick-stay-focused-on-mission-not-politics/" >🔗</a> **[SpacePolicyOnline.com]** Butch, Suni and Nick Stay Focused on Mission, Not Politics
 - <a href="https://spacenews.com/raven-space-systems-reveals-nasa-and-afrl-research-agreements/" >🔗</a> **[SpaceNews]** Raven Space Systems reveals NASA and AFRL research agreements
@@ -100,7 +101,6 @@ into *a Suborbital
 - <a href="https://www.nasa.gov/news-release/nasa-awards-launch-service-for-mission-to-study-storm-formation/" >🔗</a> **[NASA]** NASA Awards Launch Service for Mission to Study Storm Formation
 - <a href="https://www.nasa.gov/news-release/nasa-awards-launch-service-task-order-for-mission-to-study-storm-formation/" >🔗</a> **[NASA]** NASA Awards Launch Service Task Order for Mission to Study Storm Formation
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-nation-meet-chris-wade-visiting-vehicle-integration-manager-for-spacex-vehicles/" >🔗</a> **[NASA]** Station Nation: Meet Chris Wade, Visiting Vehicle Integration Manager for SpaceX Vehicles
-- <a href="https://spacenews.com/isar-aerospace-secures-first-asian-customer-ahead-of-debut-launch/" >🔗</a> **[SpaceNews]** Isar Aerospace secures first Asian customer ahead of debut launch
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250305T050128">2025-03-05 05:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250305T053349">2025-03-05 05:33:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
