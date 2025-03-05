@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/directorates/stmd/what-is-a-nasa-spinoff-we-asked-a-nasa-expert-episode-53/" >🔗</a> **[NASA]** What is a NASA Spinoff? We Asked a NASA Expert: Episode 53
 - <a href="https://spacenews.com/silicon-valley-players-aim-to-follow-spacexs-disruptive-path-in-defense-sector/" >🔗</a> **[SpaceNews]** Silicon Valley players aim to follow SpaceX’s disruptive path in defense sector
 - <a href="https://arstechnica.com/space/2025/03/after-skidding-into-the-moon-intuitive-machines-hopes-to-stick-second-landing/" >🔗</a> **[Arstechnica]** After skidding into the Moon, Intuitive Machines hopes to stick second landing
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-agencys-spacex-crew-10-launch-docking/" >🔗</a> **[NASA]** NASA Sets Coverage for Agency’s SpaceX Crew-10 Launch, Docking
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasa.gov/image-article/830089/" >🔗</a> **[NASA]** Hubble Captures New View of Colorful Veil
 - <a href="https://arstechnica.com/space/2025/03/nasa-just-lost-yet-another-one-of-its-low-cost-planetary-missions/" >🔗</a> **[Arstechnica]** NASA just lost yet another one of its low-cost planetary missions
 - <a href="https://spacenews.com/satixfy-gets-uk-funds-to-accelerate-in-orbit-satellite-reconfiguration/" >🔗</a> **[SpaceNews]** SatixFy gets UK funds to accelerate in-orbit satellite reconfiguration
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Nord_Stream_methane_leak_far_bigger_than_estimated" >🔗</a> **[ESA]** Nord Stream methane leak far bigger than estimated
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250305T210121">2025-03-05 21:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250305T213123">2025-03-05 21:31:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
