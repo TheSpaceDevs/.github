@@ -91,16 +91,16 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/humans-in-space/nasas-spacex-crew-10-to-explore-deep-space-exercise-health/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-10 to Explore Deep Space Exercise, Health
 - <a href="https://europeanspaceflight.com/public-consultation-begins-for-new-microlauncher-launch-site-in-french-guiana/" >🔗</a> **[European Spaceflight]** Public Consultation Begins for New Microlauncher Launch Site in French Guiana
 - <a href="https://spacenews.com/apexs-first-satellite-marks-one-year-in-orbit/" >🔗</a> **[SpaceNews]** Apex’s first satellite marks one year in orbit
-- <a href="https://www.esa.int/Space_Safety/Planetary_Defence/First_CubeSat_joins_ESA_s_Ramses_mission_to_asteroid_Apophis" >🔗</a> **[ESA]** First CubeSat joins ESA's Ramses mission to asteroid Apophis
 - <a href="https://www.esa.int/Applications/Satellite_navigation/ESA_signs_new_chip_development_for_more_resilient_satnav" >🔗</a> **[ESA]** ESA signs new chip development for more resilient satnav
+- <a href="https://www.esa.int/Space_Safety/Planetary_Defence/First_CubeSat_joins_ESA_s_Ramses_mission_to_asteroid_Apophis" >🔗</a> **[ESA]** First CubeSat joins ESA's Ramses mission to asteroid Apophis
 - <a href="https://spacepolicyonline.com/news/trump-renews-support-for-humans-on-mars-golden-dome/" >🔗</a> **[SpacePolicyOnline.com]** Trump Renews Support for Humans on Mars, Golden Dome
 - <a href="https://spacenews.com/nasa-to-launch-earth-science-smallsat-mission-on-firefly-alpha/" >🔗</a> **[SpaceNews]** NASA to launch Earth science smallsat mission on Firefly Alpha
 - <a href="https://spacepolicyonline.com/news/butch-suni-and-nick-stay-focused-on-mission-not-politics/" >🔗</a> **[SpacePolicyOnline.com]** Butch, Suni and Nick Stay Focused on Mission, Not Politics
 - <a href="https://spacenews.com/raven-space-systems-reveals-nasa-and-afrl-research-agreements/" >🔗</a> **[SpaceNews]** Raven Space Systems reveals NASA and AFRL research agreements
 - <a href="https://www.nasaspaceflight.com/2025/03/launch-roundup-030425/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Starship and Ariane 6 set to launch after scrubs
-- <a href="https://spacenews.com/space-launch-executives-warn-u-s-infrastructure-unprepared-for-coming-launch-surge/" >🔗</a> **[SpaceNews]** Space launch executives warn U.S. infrastructure unprepared for coming launch surge
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250305T120208">2025-03-05 12:02:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250305T124251">2025-03-05 12:42:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
