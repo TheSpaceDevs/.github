@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/03/launch-roundup-030425/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Starship and Ariane 6 set to launch after scrubs
 - <a href="https://spacenews.com/space-launch-executives-warn-u-s-infrastructure-unprepared-for-coming-launch-surge/" >🔗</a> **[SpaceNews]** Space launch executives warn U.S. infrastructure unprepared for coming launch surge
 - <a href="https://science.nasa.gov/learning-resources/science-activation/2025-aviation-weather-mission-civil-air-patrol-cadets-help-scientists-study-the-atmosphere-with-globe-clouds/" >🔗</a> **[NASA]** 2025 Aviation Weather Mission: Civil Air Patrol Cadets Help Scientists Study the Atmosphere with GLOBE Clouds
 - <a href="https://www.nasa.gov/news-release/nasa-awards-launch-service-for-mission-to-study-storm-formation/" >🔗</a> **[NASA]** NASA Awards Launch Service for Mission to Study Storm Formation
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/ames-science/farming-with-data-openet-launches-new-tool-for-farmers-and-ranchers/" >🔗</a> **[NASA]** FARMing with Data: OpenET Launches new Tool for Farmers and Ranchers
 - <a href="https://arstechnica.com/space/2025/03/butch-and-suni-send-mixed-messages-on-whether-politics-delayed-their-return/" >🔗</a> **[Arstechnica]** Butch and Suni send mixed messages on whether politics delayed their return
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-intuitive-machines-second-private-moon-landing/" >🔗</a> **[NASA]** NASA Sets Coverage for Intuitive Machines’ Second Private Moon Landing
-- <a href="https://spacenews.com/moog-to-share-innovations-in-advanced-spacecraft-computing-during-partner-session-at-satellite-2025-conference/" >🔗</a> **[SpaceNews]** Moog to Share Innovations in Advanced Spacecraft Computing During Partner Session at SATELLITE 2025 Conference
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250304T233111">2025-03-04 23:31:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250305T000417">2025-03-05 00:04:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
