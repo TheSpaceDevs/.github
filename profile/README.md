@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/jpl/nasa-turns-off-2-voyager-science-instruments-to-extend-mission/" >🔗</a> **[NASA]** NASA Turns Off 2 Voyager Science Instruments to Extend Mission
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/novel-recuperator-design-for-cryogenic-fluid-management-system/" >🔗</a> **[NASA]** Novel Recuperator Design for Cryogenic Fluid Management System
 - <a href="https://www.nasa.gov/image-article/830089/" >🔗</a> **[NASA]** Hubble Captures New View of Colorful Veil
 - <a href="https://arstechnica.com/space/2025/03/nasa-just-lost-yet-another-one-of-its-low-cost-planetary-missions/" >🔗</a> **[Arstechnica]** NASA just lost yet another one of its low-cost planetary missions
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.teslarati.com/spacex-starship-flight-8-new-target-date/" >🔗</a> **[Teslarati]** SpaceX announces Starship Flight 8’s new target date
 - <a href="https://spacenews.com/iss-astronauts-reject-call-for-early-retirement-of-the-station/" >🔗</a> **[SpaceNews]** ISS astronauts reject call for early retirement of the station
 - <a href="https://www.esa.int/About_Us/Exhibitions/Striking_images_tell_the_story_of_space_weather" >🔗</a> **[ESA]** Striking images tell the story of space weather
-- <a href="https://www.nasa.gov/humans-in-space/nasas-spacex-crew-10-to-explore-deep-space-exercise-health/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-10 to Explore Deep Space Exercise, Health
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250305T170136">2025-03-05 17:01:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250305T173312">2025-03-05 17:33:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
