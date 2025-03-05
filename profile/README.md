@@ -91,6 +91,8 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/public-consultation-begins-for-new-microlauncher-launch-site-in-french-guiana/" >🔗</a> **[European Spaceflight]** Public Consultation Begins for New Microlauncher Launch Site in French Guiana
+- <a href="https://spacenews.com/apexs-first-satellite-marks-one-year-in-orbit/" >🔗</a> **[SpaceNews]** Apex’s first satellite marks one year in orbit
 - <a href="https://www.esa.int/Space_Safety/Planetary_Defence/First_CubeSat_joins_ESA_s_Ramses_mission_to_asteroid_Apophis" >🔗</a> **[ESA]** First CubeSat joins ESA's Ramses mission to asteroid Apophis
 - <a href="https://www.esa.int/Applications/Satellite_navigation/ESA_signs_new_chip_development_for_more_resilient_satnav" >🔗</a> **[ESA]** ESA signs new chip development for more resilient satnav
 - <a href="https://spacepolicyonline.com/news/trump-renews-support-for-humans-on-mars-golden-dome/" >🔗</a> **[SpacePolicyOnline.com]** Trump Renews Support for Humans on Mars, Golden Dome
@@ -99,12 +101,12 @@ into *a Suborbital
 - <a href="https://spacenews.com/raven-space-systems-reveals-nasa-and-afrl-research-agreements/" >🔗</a> **[SpaceNews]** Raven Space Systems reveals NASA and AFRL research agreements
 - <a href="https://www.nasaspaceflight.com/2025/03/launch-roundup-030425/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Starship and Ariane 6 set to launch after scrubs
 - <a href="https://spacenews.com/space-launch-executives-warn-u-s-infrastructure-unprepared-for-coming-launch-surge/" >🔗</a> **[SpaceNews]** Space launch executives warn U.S. infrastructure unprepared for coming launch surge
-- <a href="https://science.nasa.gov/learning-resources/science-activation/2025-aviation-weather-mission-civil-air-patrol-cadets-help-scientists-study-the-atmosphere-with-globe-clouds/" >🔗</a> **[NASA]** 2025 Aviation Weather Mission: Civil Air Patrol Cadets Help Scientists Study the Atmosphere with GLOBE Clouds
-- <a href="https://www.nasa.gov/news-release/nasa-awards-launch-service-for-mission-to-study-storm-formation/" >🔗</a> **[NASA]** NASA Awards Launch Service for Mission to Study Storm Formation
 
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2025/03/launch-roundup-030425/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Starship and Ariane 6 set to launch after scrubs
+- <a href="https://spacepolicyonline.com/news/starship-ift-8-tries-again-tomorrow-as-spacex-readies-for-florida-launches-this-year/" >🔗</a> **[SpacePolicyOnline.com]** Starship IFT-8 Tries Again Tomorrow as SpaceX Readies for Florida Launches This Year
 - <a href="https://spacenews.com/spacex-scrubs-starship-launch/" >🔗</a> **[SpaceNews]** SpaceX scrubs Starship launch
 - <a href="https://spaceflightnow.com/2025/03/03/live-coverage-spacex-to-launch-starship-flight-8-suborbital-test-mission-from-starbase/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Starship Flight 8 suborbital test mission from Starbase
 - <a href="https://www.nasaspaceflight.com/2025/03/starship-flight-8-launch/" >🔗</a> **[NASASpaceflight]** SpaceX set for Starship Flight 8
@@ -113,13 +115,11 @@ into *a Suborbital
 - <a href="https://www.teslarati.com/spacex-explains-reasoning-for-starship-7-upper-stage-loss/" >🔗</a> **[Teslarati]** SpaceX explains reasoning for Starship 7 upper stage loss
 - <a href="https://www.nasaspaceflight.com/2025/02/launch-roundup-022425/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Starship, lunar lander, and telescope missions set for launch
 - <a href="https://tlpnetwork.com/news/america/spacex-targets-friday-for-starship-flight-8-following-flight-7-anomaly-investigation" >🔗</a> **[The Launch Pad]** SpaceX Targets Friday For Starship Flight 8 Following Flight 7 Anomaly Investigation
-- <a href="https://www.teslarati.com/spacex-starships-next-test-flight-gets-target-date-heres-when-it-could-lift-off/" >🔗</a> **[Teslarati]** SpaceX Starship’s next test flight gets target date – Here’s when it could lift off
-- <a href="https://www.nasaspaceflight.com/2025/02/flight-8-pad-a-readiness/" >🔗</a> **[NASASpaceflight]** Starship Flight 8 vehicles prepare to join forces at Pad A
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250305T100124">2025-03-05 10:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250305T103522">2025-03-05 10:35:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
