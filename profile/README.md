@@ -91,16 +91,16 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/03/nasa-just-lost-yet-another-one-of-its-low-cost-planetary-missions/" >🔗</a> **[Arstechnica]** NASA just lost yet another one of its low-cost planetary missions
+- <a href="https://spacenews.com/satixfy-gets-uk-funds-to-accelerate-in-orbit-satellite-reconfiguration/" >🔗</a> **[SpaceNews]** SatixFy gets UK funds to accelerate in-orbit satellite reconfiguration
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Nord_Stream_methane_leak_far_bigger_than_estimated" >🔗</a> **[ESA]** Nord Stream methane leak far bigger than estimated
 - <a href="https://spacenews.com/patenting-space-promoting-innovations-and-patents-for-exploring-our-final-frontier/" >🔗</a> **[SpaceNews]** Patenting space: promoting innovations and patents for exploring our final frontier
 - <a href="https://www.teslarati.com/spacex-starship-flight-8-new-target-date/" >🔗</a> **[Teslarati]** SpaceX announces Starship Flight 8’s new target date
 - <a href="https://spacenews.com/iss-astronauts-reject-call-for-early-retirement-of-the-station/" >🔗</a> **[SpaceNews]** ISS astronauts reject call for early retirement of the station
+- <a href="https://www.esa.int/About_Us/Exhibitions/Striking_images_tell_the_story_of_space_weather" >🔗</a> **[ESA]** Striking images tell the story of space weather
 - <a href="https://www.nasa.gov/humans-in-space/nasas-spacex-crew-10-to-explore-deep-space-exercise-health/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-10 to Explore Deep Space Exercise, Health
 - <a href="https://europeanspaceflight.com/public-consultation-begins-for-new-microlauncher-launch-site-in-french-guiana/" >🔗</a> **[European Spaceflight]** Public Consultation Begins for New Microlauncher Launch Site in French Guiana
 - <a href="https://spacenews.com/apexs-first-satellite-marks-one-year-in-orbit/" >🔗</a> **[SpaceNews]** Apex’s first satellite marks one year in orbit
-- <a href="https://www.esa.int/Applications/Satellite_navigation/ESA_signs_new_chip_development_for_more_resilient_satnav" >🔗</a> **[ESA]** ESA signs new chip development for more resilient satnav
-- <a href="https://www.esa.int/Space_Safety/Planetary_Defence/First_CubeSat_joins_ESA_s_Ramses_mission_to_asteroid_Apophis" >🔗</a> **[ESA]** First CubeSat joins ESA's Ramses mission to asteroid Apophis
-- <a href="https://spacepolicyonline.com/news/trump-renews-support-for-humans-on-mars-golden-dome/" >🔗</a> **[SpacePolicyOnline.com]** Trump Renews Support for Humans on Mars, Golden Dome
-- <a href="https://spacenews.com/nasa-to-launch-earth-science-smallsat-mission-on-firefly-alpha/" >🔗</a> **[SpaceNews]** NASA to launch Earth science smallsat mission on Firefly Alpha
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250305T150129">2025-03-05 15:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250305T153337">2025-03-05 15:33:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
