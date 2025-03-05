@@ -91,6 +91,9 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/patenting-space-promoting-innovations-and-patents-for-exploring-our-final-frontier/" >🔗</a> **[SpaceNews]** Patenting space: promoting innovations and patents for exploring our final frontier
+- <a href="https://www.teslarati.com/spacex-starship-flight-8-new-target-date/" >🔗</a> **[Teslarati]** SpaceX announces Starship Flight 8’s new target date
+- <a href="https://spacenews.com/iss-astronauts-reject-call-for-early-retirement-of-the-station/" >🔗</a> **[SpaceNews]** ISS astronauts reject call for early retirement of the station
 - <a href="https://www.nasa.gov/humans-in-space/nasas-spacex-crew-10-to-explore-deep-space-exercise-health/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-10 to Explore Deep Space Exercise, Health
 - <a href="https://europeanspaceflight.com/public-consultation-begins-for-new-microlauncher-launch-site-in-french-guiana/" >🔗</a> **[European Spaceflight]** Public Consultation Begins for New Microlauncher Launch Site in French Guiana
 - <a href="https://spacenews.com/apexs-first-satellite-marks-one-year-in-orbit/" >🔗</a> **[SpaceNews]** Apex’s first satellite marks one year in orbit
@@ -98,9 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.esa.int/Space_Safety/Planetary_Defence/First_CubeSat_joins_ESA_s_Ramses_mission_to_asteroid_Apophis" >🔗</a> **[ESA]** First CubeSat joins ESA's Ramses mission to asteroid Apophis
 - <a href="https://spacepolicyonline.com/news/trump-renews-support-for-humans-on-mars-golden-dome/" >🔗</a> **[SpacePolicyOnline.com]** Trump Renews Support for Humans on Mars, Golden Dome
 - <a href="https://spacenews.com/nasa-to-launch-earth-science-smallsat-mission-on-firefly-alpha/" >🔗</a> **[SpaceNews]** NASA to launch Earth science smallsat mission on Firefly Alpha
-- <a href="https://spacepolicyonline.com/news/butch-suni-and-nick-stay-focused-on-mission-not-politics/" >🔗</a> **[SpacePolicyOnline.com]** Butch, Suni and Nick Stay Focused on Mission, Not Politics
-- <a href="https://spacenews.com/raven-space-systems-reveals-nasa-and-afrl-research-agreements/" >🔗</a> **[SpaceNews]** Raven Space Systems reveals NASA and AFRL research agreements
-- <a href="https://www.nasaspaceflight.com/2025/03/launch-roundup-030425/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Starship and Ariane 6 set to launch after scrubs
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250305T140125">2025-03-05 14:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250305T143420">2025-03-05 14:34:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
