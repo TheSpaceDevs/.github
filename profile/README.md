@@ -91,6 +91,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/butch-suni-and-nick-stay-focused-on-mission-not-politics/" >🔗</a> **[SpacePolicyOnline.com]** Butch, Suni and Nick Stay Focused on Mission, Not Politics
 - <a href="https://spacenews.com/raven-space-systems-reveals-nasa-and-afrl-research-agreements/" >🔗</a> **[SpaceNews]** Raven Space Systems reveals NASA and AFRL research agreements
 - <a href="https://www.nasaspaceflight.com/2025/03/launch-roundup-030425/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Starship and Ariane 6 set to launch after scrubs
 - <a href="https://spacenews.com/space-launch-executives-warn-u-s-infrastructure-unprepared-for-coming-launch-surge/" >🔗</a> **[SpaceNews]** Space launch executives warn U.S. infrastructure unprepared for coming launch surge
@@ -100,7 +101,6 @@ into *a Suborbital
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-nation-meet-chris-wade-visiting-vehicle-integration-manager-for-spacex-vehicles/" >🔗</a> **[NASA]** Station Nation: Meet Chris Wade, Visiting Vehicle Integration Manager for SpaceX Vehicles
 - <a href="https://spacenews.com/isar-aerospace-secures-first-asian-customer-ahead-of-debut-launch/" >🔗</a> **[SpaceNews]** Isar Aerospace secures first Asian customer ahead of debut launch
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/ames-science/farming-with-data-openet-launches-new-tool-for-farmers-and-ranchers/" >🔗</a> **[NASA]** FARMing with Data: OpenET Launches new Tool for Farmers and Ranchers
-- <a href="https://arstechnica.com/space/2025/03/butch-and-suni-send-mixed-messages-on-whether-politics-delayed-their-return/" >🔗</a> **[Arstechnica]** Butch and Suni send mixed messages on whether politics delayed their return
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250305T012828">2025-03-05 01:28:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250305T020514">2025-03-05 02:05:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
