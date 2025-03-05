@@ -91,6 +91,8 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/novel-recuperator-design-for-cryogenic-fluid-management-system/" >🔗</a> **[NASA]** Novel Recuperator Design for Cryogenic Fluid Management System
+- <a href="https://www.nasa.gov/image-article/830089/" >🔗</a> **[NASA]** Hubble Captures New View of Colorful Veil
 - <a href="https://arstechnica.com/space/2025/03/nasa-just-lost-yet-another-one-of-its-low-cost-planetary-missions/" >🔗</a> **[Arstechnica]** NASA just lost yet another one of its low-cost planetary missions
 - <a href="https://spacenews.com/satixfy-gets-uk-funds-to-accelerate-in-orbit-satellite-reconfiguration/" >🔗</a> **[SpaceNews]** SatixFy gets UK funds to accelerate in-orbit satellite reconfiguration
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Nord_Stream_methane_leak_far_bigger_than_estimated" >🔗</a> **[ESA]** Nord Stream methane leak far bigger than estimated
@@ -99,8 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/iss-astronauts-reject-call-for-early-retirement-of-the-station/" >🔗</a> **[SpaceNews]** ISS astronauts reject call for early retirement of the station
 - <a href="https://www.esa.int/About_Us/Exhibitions/Striking_images_tell_the_story_of_space_weather" >🔗</a> **[ESA]** Striking images tell the story of space weather
 - <a href="https://www.nasa.gov/humans-in-space/nasas-spacex-crew-10-to-explore-deep-space-exercise-health/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-10 to Explore Deep Space Exercise, Health
-- <a href="https://europeanspaceflight.com/public-consultation-begins-for-new-microlauncher-launch-site-in-french-guiana/" >🔗</a> **[European Spaceflight]** Public Consultation Begins for New Microlauncher Launch Site in French Guiana
-- <a href="https://spacenews.com/apexs-first-satellite-marks-one-year-in-orbit/" >🔗</a> **[SpaceNews]** Apex’s first satellite marks one year in orbit
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250305T160140">2025-03-05 16:01:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250305T163928">2025-03-05 16:39:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
