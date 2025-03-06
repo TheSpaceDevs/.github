@@ -20,33 +20,32 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Ariane 62 | CSO-3**. It is scheduled to be launched by *Arianespace*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Guiana_Space_Centre">Ariane Launch Area 4</a>, Guiana Space Centre, French Guiana*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/gf.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250306T162426">2025-03-06 16:24:26 UTC</a>.  Until
-then, this pad will have been used for 1
-out of 323 launches from this location. The launch status is currently
+**Starship | Flight 8**. It is scheduled to be launched by *SpaceX*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+from *<a href="https://en.wikipedia.org/wiki/SpaceX_Starbase#Launch_site_(Orbital_Launch_Pad_A_and_B)">Orbital Launch Mount A</a>, SpaceX Starbase, TX, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250306T233000">2025-03-06 23:30:00 UTC</a>.  Until
+then, this pad will have been used for 7
+out of 16 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Government/Top Secret* and the payload will be injected
-into *a Sun-Synchronous Orbit
-(SSO)*.
+*Test Flight* and the payload will be injected
+into *a Suborbital
+(Sub)*.
 <br>
 <blockquote>
-  The CSO-3 (Composante Spatiale Optique-3 satellite is the third of three new-generation high-resolution optical imaging satellites for the French military, replacing the Helios 2 spy satellite series.
+  Eighth test flight of the two-stage Starship launch vehicle.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Ariane_6" >
+  <a href="https://en.wikipedia.org/wiki/SpaceX_Starship" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=5.256319,-52.786838" >
+  <a href="https://www.google.com/maps?q=25.9962,-97.154423" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250306T162426">2025-03-06 16:24:26 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ariane 62 | CSO-3&location=Guiana Space Centre, French Guiana&dates=20250306T162426Z%2F20250306T162426Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ariane 62 | CSO-3** from Guiana Space Centre, French Guiana.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250306T233000">2025-03-06 23:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Starship | Flight 8&location=SpaceX Starbase, TX, USA&dates=20250306T233000Z%2F20250307T003000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starship | Flight 8** from SpaceX Starbase, TX, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250308T030900">2025-03-08 03:09:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SPHEREx &amp; PUNCH&location=Vandenberg SFB, CA, USA&dates=20250308T030900Z%2F20250308T030900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | SPHEREx & PUNCH** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250309T041000">2025-03-09 04:10:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-21&location=Cape Canaveral SFS, FL, USA&dates=20250309T041000Z%2F20250309T084100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-21** from Cape Canaveral SFS, FL, USA.
@@ -56,6 +55,7 @@ into *a Sun-Synchronous Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250312T220000">2025-03-12 22:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-25&location=Cape Canaveral SFS, FL, USA&dates=20250312T220000Z%2F20250313T020000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-25** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250312T234854">2025-03-12 23:48:54 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Crew-10&location=Kennedy Space Center, FL, USA&dates=20250312T234854Z%2F20250312T234854Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Crew-10** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250315T000000">2025-03-15 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/au.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Eris-1 | Maiden Flight&location=Bowen Orbital Spaceport&dates=20250315T000000Z%2F20250315T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Eris-1 | Maiden Flight** from Bowen Orbital Spaceport.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250315T132500">2025-03-15 13:25:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Firefly Alpha | FLTA006 (Message in a Booster)&location=Vandenberg SFB, CA, USA&dates=20250315T132500Z%2F20250315T141700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Firefly Alpha | FLTA006 (Message in a Booster)** from Vandenberg SFB, CA, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/questions-linger-about-future-of-tracss/" >🔗</a> **[SpaceNews]** Questions linger about future of TraCSS
 - <a href="https://www.nasa.gov/directorates/armd/aa-awards/2024-ti-group/" >🔗</a> **[NASA]** 2024 AA Awards for Technology and Innovation (Group)
 - <a href="https://www.nasa.gov/directorates/armd/aa-awards/2024-ti-group-hm/" >🔗</a> **[NASA]** 2024 AA Awards for Technology and Innovation (Group Honorable Mention)
 - <a href="https://www.nasa.gov/directorates/armd/aa-awards/2024-ti-hm-group2/" >🔗</a> **[NASA]** 2024 AA Awards for Technology and Innovation (Group Honorable Mention)
@@ -100,26 +101,25 @@ into *a Sun-Synchronous Orbit
 - <a href="https://europeanspaceflight.com/saab-explores-using-iceye-sar-data-for-command-and-control-systems/" >🔗</a> **[European Spaceflight]** Saab Explores Using ICEYE SAR Data for Command and Control Systems
 - <a href="https://spacenews.com/startups-see-a-new-market-for-frequent-lower-cost-hypersonics-testing/" >🔗</a> **[SpaceNews]** US military taps commercial space firms for hypersonic testing program
 - <a href="https://spacenews.com/how-the-nation-can-make-fielding-hypersonic-capabilities-a-national-priority/" >🔗</a> **[SpaceNews]** How the nation can make fielding hypersonic capabilities a national priority
-- <a href="https://spacenews.com/inside-the-making-of-ulas-next-rocket/" >🔗</a> **[SpaceNews]** Inside the Making of ULA’s Next Rocket
 
 
 ### Launch-related News 🚀
 
+- <a href="https://www.teslarati.com/spacex-starship-flight-8-new-target-date/" >🔗</a> **[Teslarati]** SpaceX announces Starship Flight 8’s new target date
 - <a href="https://www.nasaspaceflight.com/2025/03/launch-roundup-030425/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Starship and Ariane 6 set to launch after scrubs
-- <a href="https://spaceflightnow.com/2025/03/03/live-coverage-arianespace-to-launch-an-ariane-6-rocket-on-its-1st-commercial-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: Arianespace to launch an Ariane 6 rocket on its 1st commercial mission
-- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Watch_live_Ariane_6_second_flight" >🔗</a> **[ESA]** Watch live: Ariane 6 second flight
-- <a href="https://spacenews.com/arianespace-plans-five-ariane-6-launches-in-2025-primarily-in-the-second-half-of-the-year/" >🔗</a> **[SpaceNews]** Arianespace plans five Ariane 6 launches in 2025, primarily in the second half of the year
-- <a href="https://europeanspaceflight.com/arianespace-to-launch-second-ariane-6-rocket-on-26-february/" >🔗</a> **[European Spaceflight]** Arianespace to Launch Second Ariane 6 Rocket on 26 February
-- <a href="https://europeanspaceflight.com/second-ariane-6-rocket-takes-shape-as-spy-satellite-payload-arrives/" >🔗</a> **[European Spaceflight]** Second Ariane 6 Rocket Takes Shape as Spy Satellite Payload Arrives
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/01/Ariane_6_central_core_on_the_move" >🔗</a> **[ESA]** Ariane 6 central core on the move
-- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Second_Ariane_6_at_Europe_s_Spaceport" >🔗</a> **[ESA]** Second Ariane 6 at Europe’s Spaceport
-- <a href="https://europeanspaceflight.com/assembly-of-p120-boosters-for-next-ariane-6-flight-completed/" >🔗</a> **[European Spaceflight]** Assembly of P120 Boosters for Next Ariane 6 Flight Completed
-- <a href="https://europeanspaceflight.com/ariane-6-rocket-stages-arrive-in-kourou-with-a-hitchhiker/" >🔗</a> **[European Spaceflight]** Ariane 6 Rocket Stages Arrive in Kourou with a Hitchhiker
+- <a href="https://spacepolicyonline.com/news/starship-ift-8-tries-again-tomorrow-as-spacex-readies-for-florida-launches-this-year/" >🔗</a> **[SpacePolicyOnline.com]** Starship IFT-8 Tries Again Tomorrow as SpaceX Readies for Florida Launches This Year
+- <a href="https://spacenews.com/spacex-scrubs-starship-launch/" >🔗</a> **[SpaceNews]** SpaceX scrubs Starship launch
+- <a href="https://spaceflightnow.com/2025/03/03/live-coverage-spacex-to-launch-starship-flight-8-suborbital-test-mission-from-starbase/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Starship Flight 8 suborbital test mission from Starbase
+- <a href="https://www.nasaspaceflight.com/2025/03/starship-flight-8-launch/" >🔗</a> **[NASASpaceflight]** SpaceX set for Starship Flight 8
+- <a href="https://spacenews.com/faa-gives-approval-for-next-starship-test-flight/" >🔗</a> **[SpaceNews]** FAA gives approval for next Starship test flight
+- <a href="https://tlpnetwork.com/news/america/faa-issues-spacex-orbital-starship-launch-license-spacex-targets-monday-for-starship-flight-8" >🔗</a> **[The Launch Pad]** FAA Issues SpaceX "Orbital" Starship Launch License; SpaceX Targets Monday For Starship Flight 8
+- <a href="https://www.teslarati.com/spacex-explains-reasoning-for-starship-7-upper-stage-loss/" >🔗</a> **[Teslarati]** SpaceX explains reasoning for Starship 7 upper stage loss
+- <a href="https://www.nasaspaceflight.com/2025/02/launch-roundup-022425/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Starship, lunar lander, and telescope missions set for launch
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250306T160128">2025-03-06 16:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250306T163615">2025-03-06 16:36:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
