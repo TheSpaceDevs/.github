@@ -91,6 +91,8 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/kachemak-bays-stony-waters/" >🔗</a> **[NASA]** Kachemak Bay’s Stony Waters
+- <a href="https://www.nasa.gov/get-involved/virtual-guest-program/nasa-invites-you-to-share-excitement-of-agencys-spacex-crew-10-launch/" >🔗</a> **[NASA]** NASA Invites You to Share Excitement of Agency’s SpaceX Crew-10 Launch
 - <a href="https://www.nasa.gov/missions/station/what-you-need-to-know-about-nasas-spacex-crew-10-mission/" >🔗</a> **[NASA]** What You Need to Know about NASA’s SpaceX Crew-10 Mission
 - <a href="https://europeanspaceflight.com/ariane-6-successfully-delivers-french-spy-satellite-to-orbit/" >🔗</a> **[European Spaceflight]** Ariane 6 Successfully Delivers French Spy Satellite to Orbit
 - <a href="https://www.nasa.gov/general/nasa-seeks-commercial-partner-for-robots-aboard-space-station/" >🔗</a> **[NASA]** NASA Seeks Commercial Partner for Robots Aboard Space Station
@@ -99,8 +101,6 @@ into *a Suborbital
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ariane_6_takes_flight_for_the_second_time" >🔗</a> **[ESA]** Ariane 6 takes flight for the second time
 - <a href="https://spacenews.com/ariane-6-launches-french-spysat-on-second-flight/" >🔗</a> **[SpaceNews]** Ariane 6 launches French spysat on second flight
 - <a href="https://spacenews.com/ula-boss-says-vulcan-ready-for-multiple-launches-in-2025/" >🔗</a> **[SpaceNews]** ULA boss says Vulcan ready for multiple launches in 2025
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/03/Ariane_6_lifts_off_for_the_second_time" >🔗</a> **[ESA]** Ariane 6 lifts off for the second time
-- <a href="https://www.nasa.gov/directorates/armd/aa-awards/2024-associate-administrator-awards/" >🔗</a> **[NASA]** 2024 Associate Administrator Awards Honorees
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250306T200130">2025-03-06 20:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250306T203258">2025-03-06 20:32:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
