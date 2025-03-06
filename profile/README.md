@@ -91,6 +91,8 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/how-the-nation-can-make-fielding-hypersonic-capabilities-a-national-priority/" >🔗</a> **[SpaceNews]** How the nation can make fielding hypersonic capabilities a national priority
+- <a href="https://spacenews.com/inside-the-making-of-ulas-next-rocket/" >🔗</a> **[SpaceNews]** Inside the Making of ULA’s Next Rocket
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Smile/When_two_become_one_engineers_get_Smile_ready_for_launch" >🔗</a> **[ESA]** When two become one: engineers get Smile ready for launch
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Student_teams_explore_ESA_s_robotics_labs" >🔗</a> **[ESA]** Student teams explore ESA’s robotics labs
 - <a href="https://www.esa.int/Enabling_Support/Preparing_for_the_Future/Discovery_and_Preparation/Growing_Algae_on_Mars" >🔗</a> **[ESA]** Growing Algae on Mars
@@ -99,8 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/nasa-still-working-to-restore-contact-with-lunar-trailblazer/" >🔗</a> **[SpaceNews]** NASA still working to restore contact with Lunar Trailblazer
 - <a href="https://tlpnetwork.com/news/military/us-air-force-launches-environmental-review-for-rocket-earth-to-earth-cargo-missions" >🔗</a> **[The Launch Pad]** US Air Force Launches Environmental Review for Rocket Earth to Earth Cargo Missions
 - <a href="https://tlpnetwork.com/news/policy-and-finance/nasa-selects-firefly-aerospace-to-launch-earth-science-smallsat-trio-from-virginia" >🔗</a> **[The Launch Pad]** NASA Selects Firefly Aerospace to Launch Earth Science Smallsat Trio From Virginia
-- <a href="https://spacenews.com/ast-spacemobile-charts-another-path-for-european-space-sovereignty/" >🔗</a> **[SpaceNews]** AST SpaceMobile charts another path for European space sovereignty
-- <a href="https://tlpnetwork.com/news/america/upcoming-cygnus-cargo-module-damaged-nasa-adjusts-iss-cargo-resupply-plans" >🔗</a> **[The Launch Pad]** Upcoming Cygnus Cargo Module Damaged; NASA Adjusts ISS Cargo Resupply Plans
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250306T140129">2025-03-06 14:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250306T143444">2025-03-06 14:34:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
