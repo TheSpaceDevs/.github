@@ -91,6 +91,9 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-still-working-to-restore-contact-with-lunar-trailblazer/" >🔗</a> **[SpaceNews]** NASA still working to restore contact with Lunar Trailblazer
+- <a href="https://tlpnetwork.com/news/military/us-air-force-launches-environmental-review-for-rocket-earth-to-earth-cargo-missions" >🔗</a> **[The Launch Pad]** US Air Force Launches Environmental Review for Rocket Earth to Earth Cargo Missions
+- <a href="https://tlpnetwork.com/news/policy-and-finance/nasa-selects-firefly-aerospace-to-launch-earth-science-smallsat-trio-from-virginia" >🔗</a> **[The Launch Pad]** NASA Selects Firefly Aerospace to Launch Earth Science Smallsat Trio From Virginia
 - <a href="https://spacenews.com/ast-spacemobile-charts-another-path-for-european-space-sovereignty/" >🔗</a> **[SpaceNews]** AST SpaceMobile charts another path for European space sovereignty
 - <a href="https://tlpnetwork.com/news/america/upcoming-cygnus-cargo-module-damaged-nasa-adjusts-iss-cargo-resupply-plans" >🔗</a> **[The Launch Pad]** Upcoming Cygnus Cargo Module Damaged; NASA Adjusts ISS Cargo Resupply Plans
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/roamx-testing-in-the-planetary-aeolian-laboratory-pal-at-nasa-ames-research-center/" >🔗</a> **[NASA]** ROAMX testing in the Planetary Aeolian Laboratory (PAL) at NASA Ames Research Center
@@ -98,9 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://science.nasa.gov/blog/sols-4471-4472-marching-through-the-canyon/" >🔗</a> **[NASA]** Sols 4471-4472: Marching Through the Canyon
 - <a href="https://www.nasa.gov/directorates/stmd/what-is-a-nasa-spinoff-we-asked-a-nasa-expert-episode-53/" >🔗</a> **[NASA]** What is a NASA Spinoff? We Asked a NASA Expert: Episode 53
 - <a href="https://spacenews.com/silicon-valley-players-aim-to-follow-spacexs-disruptive-path-in-defense-sector/" >🔗</a> **[SpaceNews]** Silicon Valley players aim to follow SpaceX’s disruptive path in defense sector
-- <a href="https://arstechnica.com/space/2025/03/after-skidding-into-the-moon-intuitive-machines-hopes-to-stick-second-landing/" >🔗</a> **[Arstechnica]** After skidding into the Moon, Intuitive Machines hopes to stick second landing
-- <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-agencys-spacex-crew-10-launch-docking/" >🔗</a> **[NASA]** NASA Sets Coverage for Agency’s SpaceX Crew-10 Launch, Docking
-- <a href="https://science.nasa.gov/uncategorized/how-nasa-is-using-virtual-reality-to-prepare-for-science-on-moon/" >🔗</a> **[NASA]** How NASA is Using Virtual Reality to Prepare for Science on Moon
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250305T233138">2025-03-05 23:31:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250306T000417">2025-03-06 00:04:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
