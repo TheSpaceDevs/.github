@@ -91,6 +91,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/engineers-install-orion-solar-array-wings-for-artemis-ii/" >🔗</a> **[NASA]** Engineers Install Orion Solar Array Wings for Artemis II
 - <a href="https://www.nasa.gov/missions/station/iss-research/nasas-spacex-crew-9-scientific-mission-on-space-station-concludes/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-9 Scientific Mission on Space Station Concludes
 - <a href="https://spacenews.com/york-taps-commercial-satellite-technology-for-classified-defense-missions/" >🔗</a> **[SpaceNews]** York taps commercial satellite technology for classified defense missions
 - <a href="https://www.nasa.gov/image-article/kachemak-bays-stony-waters/" >🔗</a> **[NASA]** Kachemak Bay’s Stony Waters
@@ -100,7 +101,6 @@ into *a Suborbital
 - <a href="https://www.nasa.gov/general/nasa-seeks-commercial-partner-for-robots-aboard-space-station/" >🔗</a> **[NASA]** NASA Seeks Commercial Partner for Robots Aboard Space Station
 - <a href="https://science.nasa.gov/get-involved/citizen-science/redshift-wranglers-reach-remarkable-milestones/" >🔗</a> **[NASA]** Redshift Wranglers Reach Remarkable Milestones
 - <a href="https://spacenews.com/im-2-lunar-lander-touches-down-status-unclear/" >🔗</a> **[SpaceNews]** IM-2 lunar lander touches down, status unclear
-- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ariane_6_takes_flight_for_the_second_time" >🔗</a> **[ESA]** Ariane 6 takes flight for the second time
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250306T213116">2025-03-06 21:31:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250306T220123">2025-03-06 22:01:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
