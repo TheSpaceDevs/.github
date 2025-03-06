@@ -20,33 +20,36 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Starship | Flight 8**. It is scheduled to be launched by *SpaceX*
+**Falcon 9 Block 5 | SPHEREx & PUNCH**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/SpaceX_Starbase#Launch_site_(Orbital_Launch_Pad_A_and_B)">Orbital Launch Mount A</a>, SpaceX Starbase, TX, USA*
+from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250306T233000">2025-03-06 23:30:00 UTC</a>.  Until
-then, this pad will have been used for 7
-out of 16 launches from this location. The launch status is currently
-*Go* 🟩 . The mission type is
-*Test Flight* and the payload will be injected
-into *a Suborbital
-(Sub)*.
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250309T030900">2025-03-09 03:09:00 UTC</a>.  Until
+then, this pad will have been used for 181
+out of 793 launches from this location. The launch status is currently
+*TBC* 🟨 . The mission type is
+*Astrophysics* and the payload will be injected
+into *a Sun-Synchronous Orbit
+(SSO)*.
 <br>
 <blockquote>
-  Eighth test flight of the two-stage Starship launch vehicle.
+  SPHEREx is a planned two-year astrophysics mission to survey the sky in the near-infrared light, which, though not visible to the human eye, serves as a powerful tool for answering cosmic questions involving the birth of the universe, and the subsequent development of galaxies.
+
+It also will search for water and organic molecules – essentials for life as we know it – in regions where stars are born from gas and dust, known as stellar nurseries, as well as disks around stars where new planets could be forming. Astronomers will use the mission to gather data on more than 300 million galaxies, as well as more than 100 million stars in our own Milky Way galaxy.
+
+NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will share a ride to space with SPHEREx. It consists of four suitcase-sized satellites, which will focus on the Sun’s outer atmosphere (the corona) and how it generates the solar wind. The spacecraft also will track coronal mass ejections – large eruptions of solar material that can drive large space weather events near Earth – to better understand their evolution and develop new techniques for predicting such eruptions.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/SpaceX_Starship" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=25.9962,-97.154423" >
+  <a href="https://www.google.com/maps?q=34.632,-120.611" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250306T233000">2025-03-06 23:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Starship | Flight 8&location=SpaceX Starbase, TX, USA&dates=20250306T233000Z%2F20250307T003000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starship | Flight 8** from SpaceX Starbase, TX, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250309T030900">2025-03-09 03:09:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SPHEREx &amp; PUNCH&location=Vandenberg SFB, CA, USA&dates=20250309T030900Z%2F20250309T030900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | SPHEREx & PUNCH** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250309T041000">2025-03-09 04:10:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-21&location=Cape Canaveral SFS, FL, USA&dates=20250309T041000Z%2F20250309T084100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-21** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250310T000000">2025-03-10 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | The Lightning God Reigns (iQPS Launch 1)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20250310T000000Z%2F20250310T020000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | The Lightning God Reigns (iQPS Launch 1)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
@@ -56,6 +59,7 @@ into *a Suborbital
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250313T202700">2025-03-13 20:27:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-25&location=Cape Canaveral SFS, FL, USA&dates=20250313T202700Z%2F20250314T005800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-25** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250315T000000">2025-03-15 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/au.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Eris-1 | Maiden Flight&location=Bowen Orbital Spaceport&dates=20250315T000000Z%2F20250315T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Eris-1 | Maiden Flight** from Bowen Orbital Spaceport.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250315T132500">2025-03-15 13:25:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Firefly Alpha | FLTA006 (Message in a Booster)&location=Vandenberg SFB, CA, USA&dates=20250315T132500Z%2F20250315T141700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Firefly Alpha | FLTA006 (Message in a Booster)** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250331T000000">2025-03-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ceres-1 | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20250331T000000Z%2F20250331T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ceres-1 | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -91,6 +95,8 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/danti-expands-ai-powered-earth-data-search-engine-to-broader-government-market/" >🔗</a> **[SpaceNews]** Danti expands AI-powered Earth data search engine to broader government market
+- <a href="https://science.nasa.gov/blog/sols-4473-4474-so-many-rocks-so-many-textures/" >🔗</a> **[NASA]** Sols 4473-4474: So Many Rocks, So Many Textures!
 - <a href="https://www.nasa.gov/image-article/engineers-install-orion-solar-array-wings-for-artemis-ii/" >🔗</a> **[NASA]** Engineers Install Orion Solar Array Wings for Artemis II
 - <a href="https://www.nasa.gov/missions/station/iss-research/nasas-spacex-crew-9-scientific-mission-on-space-station-concludes/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-9 Scientific Mission on Space Station Concludes
 - <a href="https://spacenews.com/york-taps-commercial-satellite-technology-for-classified-defense-missions/" >🔗</a> **[SpaceNews]** York taps commercial satellite technology for classified defense missions
@@ -99,27 +105,25 @@ into *a Suborbital
 - <a href="https://www.nasa.gov/missions/station/what-you-need-to-know-about-nasas-spacex-crew-10-mission/" >🔗</a> **[NASA]** What You Need to Know about NASA’s SpaceX Crew-10 Mission
 - <a href="https://europeanspaceflight.com/ariane-6-successfully-delivers-french-spy-satellite-to-orbit/" >🔗</a> **[European Spaceflight]** Ariane 6 Successfully Delivers French Spy Satellite to Orbit
 - <a href="https://www.nasa.gov/general/nasa-seeks-commercial-partner-for-robots-aboard-space-station/" >🔗</a> **[NASA]** NASA Seeks Commercial Partner for Robots Aboard Space Station
-- <a href="https://science.nasa.gov/get-involved/citizen-science/redshift-wranglers-reach-remarkable-milestones/" >🔗</a> **[NASA]** Redshift Wranglers Reach Remarkable Milestones
-- <a href="https://spacenews.com/im-2-lunar-lander-touches-down-status-unclear/" >🔗</a> **[SpaceNews]** IM-2 lunar lander touches down, status unclear
 
 
 ### Launch-related News 🚀
 
-- <a href="https://www.teslarati.com/spacex-starship-flight-8-new-target-date/" >🔗</a> **[Teslarati]** SpaceX announces Starship Flight 8’s new target date
 - <a href="https://www.nasaspaceflight.com/2025/03/launch-roundup-030425/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Starship and Ariane 6 set to launch after scrubs
-- <a href="https://spacepolicyonline.com/news/starship-ift-8-tries-again-tomorrow-as-spacex-readies-for-florida-launches-this-year/" >🔗</a> **[SpacePolicyOnline.com]** Starship IFT-8 Tries Again Tomorrow as SpaceX Readies for Florida Launches This Year
-- <a href="https://spacenews.com/spacex-scrubs-starship-launch/" >🔗</a> **[SpaceNews]** SpaceX scrubs Starship launch
-- <a href="https://spaceflightnow.com/2025/03/03/live-coverage-spacex-to-launch-starship-flight-8-suborbital-test-mission-from-starbase/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Starship Flight 8 suborbital test mission from Starbase
-- <a href="https://www.nasaspaceflight.com/2025/03/starship-flight-8-launch/" >🔗</a> **[NASASpaceflight]** SpaceX set for Starship Flight 8
-- <a href="https://spacenews.com/faa-gives-approval-for-next-starship-test-flight/" >🔗</a> **[SpaceNews]** FAA gives approval for next Starship test flight
-- <a href="https://tlpnetwork.com/news/america/faa-issues-spacex-orbital-starship-launch-license-spacex-targets-monday-for-starship-flight-8" >🔗</a> **[The Launch Pad]** FAA Issues SpaceX "Orbital" Starship Launch License; SpaceX Targets Monday For Starship Flight 8
-- <a href="https://www.teslarati.com/spacex-explains-reasoning-for-starship-7-upper-stage-loss/" >🔗</a> **[Teslarati]** SpaceX explains reasoning for Starship 7 upper stage loss
 - <a href="https://www.nasaspaceflight.com/2025/02/launch-roundup-022425/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Starship, lunar lander, and telescope missions set for launch
+- <a href="https://science.nasa.gov/science-research/heliophysics/nasas-punch-mission-to-revolutionize-view-of-solar-wind/" >🔗</a> **[NASA]** NASA’s PUNCH Mission to Revolutionize Our View of Solar Wind
+- <a href="https://www.nasa.gov/universe/nasas-spherex-space-telescope-will-seek-lifes-ingredients/" >🔗</a> **[NASA]** NASA’s SPHEREx Space Telescope Will Seek Life’s Ingredients
+- <a href="https://www.nasa.gov/universe/6-things-to-know-about-spherex-nasas-newest-space-telescope/" >🔗</a> **[NASA]** 6 Things to Know About SPHEREx, NASA’s Newest Space Telescope
+- <a href="https://www.nasa.gov/image-article/spherexs-concentric-cones/" >🔗</a> **[NASA]** SPHEREx’s Concentric Cones
+- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-discuss-punch-mission-to-study-solar-wind/" >🔗</a> **[NASA]** NASA Invites Media to Discuss PUNCH Mission to Study Solar Wind
+- <a href="https://www.nasa.gov/image-article/nasas-punch-mission-tests-solar-arrays-before-launch/" >🔗</a> **[NASA]** NASA’s PUNCH Mission Tests Solar Arrays Before Launch
+- <a href="https://www.nasa.gov/news-release/nasa-to-preview-sky-mapping-space-telescope-ahead-of-launch/" >🔗</a> **[NASA]** NASA to Preview Sky-Mapping Space Telescope Ahead of Launch
+- <a href="https://www.nasa.gov/centers-and-facilities/jpl/nasa-jpl-prepping-for-full-year-of-launches-mission-milestones/" >🔗</a> **[NASA]** NASA JPL Prepping for Full Year of Launches, Mission Milestones
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250306T230126">2025-03-06 23:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250306T233125">2025-03-06 23:31:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
