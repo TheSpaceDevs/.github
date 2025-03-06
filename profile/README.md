@@ -91,6 +91,8 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ariane-6-launches-french-spysat-on-second-flight/" >🔗</a> **[SpaceNews]** Ariane 6 launches French spysat on second flight
+- <a href="https://spacenews.com/ula-boss-says-vulcan-ready-for-multiple-launches-in-2025/" >🔗</a> **[SpaceNews]** ULA boss says Vulcan ready for multiple launches in 2025
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/03/Ariane_6_lifts_off_for_the_second_time" >🔗</a> **[ESA]** Ariane 6 lifts off for the second time
 - <a href="https://www.nasa.gov/directorates/armd/aa-awards/2024-associate-administrator-awards/" >🔗</a> **[NASA]** 2024 Associate Administrator Awards Honorees
 - <a href="https://spacenews.com/questions-linger-about-future-of-tracss/" >🔗</a> **[SpaceNews]** Questions linger about future of TraCSS
@@ -99,8 +101,6 @@ into *a Suborbital
 - <a href="https://www.nasa.gov/directorates/armd/aa-awards/2024-ti-hm-group2/" >🔗</a> **[NASA]** 2024 AA Awards for Technology and Innovation (Group Honorable Mention)
 - <a href="https://www.nasa.gov/directorates/armd/aa-awards/2024-pm-support-group/" >🔗</a> **[NASA]** 2024 AA Awards for Program and Mission Support (Group)
 - <a href="https://www.nasa.gov/directorates/armd/aa-awards/2024-pe-group/" >🔗</a> **[NASA]** 2024 AA Awards for Pushing the Envelope Honoree (Group)
-- <a href="https://spacenews.com/csf-welcomes-five-additional-associate-members/" >🔗</a> **[SpaceNews]** CSF Welcomes Five Additional Associate Members
-- <a href="https://europeanspaceflight.com/saab-explores-using-iceye-sar-data-for-command-and-control-systems/" >🔗</a> **[European Spaceflight]** Saab Explores Using ICEYE SAR Data for Command and Control Systems
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250306T180137">2025-03-06 18:01:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250306T183639">2025-03-06 18:36:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
