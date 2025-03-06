@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/solar-system/skywatching/the-next-full-moon-is-the-worm-moon/" >🔗</a> **[NASA]** The Next Full Moon is the Worm Moon
 - <a href="https://tlpnetwork.com/news/in-space/nasa-confirms-gps-signals-acquired-on-lunar-surface-for-first-time" >🔗</a> **[The Launch Pad]** NASA Confirms GPS Signals Acquired on Lunar Surface For First Time
 - <a href="https://spacenews.com/nasa-still-working-to-restore-contact-with-lunar-trailblazer/" >🔗</a> **[SpaceNews]** NASA still working to restore contact with Lunar Trailblazer
 - <a href="https://tlpnetwork.com/news/military/us-air-force-launches-environmental-review-for-rocket-earth-to-earth-cargo-missions" >🔗</a> **[The Launch Pad]** US Air Force Launches Environmental Review for Rocket Earth to Earth Cargo Missions
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/roamx-testing-in-the-planetary-aeolian-laboratory-pal-at-nasa-ames-research-center/" >🔗</a> **[NASA]** ROAMX testing in the Planetary Aeolian Laboratory (PAL) at NASA Ames Research Center
 - <a href="https://spacenews.com/space-force-general-golden-dome-missile-shield-requires-manhattan-project-scale-effort/" >🔗</a> **[SpaceNews]** Space Force general: ‘Golden Dome’ missile shield requires Manhattan Project-scale effort
 - <a href="https://science.nasa.gov/blog/sols-4471-4472-marching-through-the-canyon/" >🔗</a> **[NASA]** Sols 4471-4472: Marching Through the Canyon
-- <a href="https://www.nasa.gov/directorates/stmd/what-is-a-nasa-spinoff-we-asked-a-nasa-expert-episode-53/" >🔗</a> **[NASA]** What is a NASA Spinoff? We Asked a NASA Expert: Episode 53
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250306T004546">2025-03-06 00:45:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250306T012834">2025-03-06 01:28:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
