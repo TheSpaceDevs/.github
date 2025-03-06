@@ -91,16 +91,16 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/directorates/armd/aa-awards/2024-ti-group/" >🔗</a> **[NASA]** 2024 AA Awards for Technology and Innovation (Group)
+- <a href="https://www.nasa.gov/directorates/armd/aa-awards/2024-ti-group-hm/" >🔗</a> **[NASA]** 2024 AA Awards for Technology and Innovation (Group Honorable Mention)
+- <a href="https://www.nasa.gov/directorates/armd/aa-awards/2024-ti-hm-group2/" >🔗</a> **[NASA]** 2024 AA Awards for Technology and Innovation (Group Honorable Mention)
+- <a href="https://www.nasa.gov/directorates/armd/aa-awards/2024-pm-support-group/" >🔗</a> **[NASA]** 2024 AA Awards for Program and Mission Support (Group)
+- <a href="https://www.nasa.gov/directorates/armd/aa-awards/2024-pe-group/" >🔗</a> **[NASA]** 2024 AA Awards for Pushing the Envelope Honoree (Group)
+- <a href="https://spacenews.com/csf-welcomes-five-additional-associate-members/" >🔗</a> **[SpaceNews]** CSF Welcomes Five Additional Associate Members
+- <a href="https://europeanspaceflight.com/saab-explores-using-iceye-sar-data-for-command-and-control-systems/" >🔗</a> **[European Spaceflight]** Saab Explores Using ICEYE SAR Data for Command and Control Systems
+- <a href="https://spacenews.com/startups-see-a-new-market-for-frequent-lower-cost-hypersonics-testing/" >🔗</a> **[SpaceNews]** US military taps commercial space firms for hypersonic testing program
 - <a href="https://spacenews.com/how-the-nation-can-make-fielding-hypersonic-capabilities-a-national-priority/" >🔗</a> **[SpaceNews]** How the nation can make fielding hypersonic capabilities a national priority
 - <a href="https://spacenews.com/inside-the-making-of-ulas-next-rocket/" >🔗</a> **[SpaceNews]** Inside the Making of ULA’s Next Rocket
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Smile/When_two_become_one_engineers_get_Smile_ready_for_launch" >🔗</a> **[ESA]** When two become one: engineers get Smile ready for launch
-- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Student_teams_explore_ESA_s_robotics_labs" >🔗</a> **[ESA]** Student teams explore ESA’s robotics labs
-- <a href="https://www.esa.int/Enabling_Support/Preparing_for_the_Future/Discovery_and_Preparation/Growing_Algae_on_Mars" >🔗</a> **[ESA]** Growing Algae on Mars
-- <a href="https://science.nasa.gov/solar-system/skywatching/the-next-full-moon-is-the-worm-moon/" >🔗</a> **[NASA]** The Next Full Moon is the Worm Moon
-- <a href="https://tlpnetwork.com/news/in-space/nasa-confirms-gps-signals-acquired-on-lunar-surface-for-first-time" >🔗</a> **[The Launch Pad]** NASA Confirms GPS Signals Acquired on Lunar Surface For First Time
-- <a href="https://spacenews.com/nasa-still-working-to-restore-contact-with-lunar-trailblazer/" >🔗</a> **[SpaceNews]** NASA still working to restore contact with Lunar Trailblazer
-- <a href="https://tlpnetwork.com/news/military/us-air-force-launches-environmental-review-for-rocket-earth-to-earth-cargo-missions" >🔗</a> **[The Launch Pad]** US Air Force Launches Environmental Review for Rocket Earth to Earth Cargo Missions
-- <a href="https://tlpnetwork.com/news/policy-and-finance/nasa-selects-firefly-aerospace-to-launch-earth-science-smallsat-trio-from-virginia" >🔗</a> **[The Launch Pad]** NASA Selects Firefly Aerospace to Launch Earth Science Smallsat Trio From Virginia
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250306T150123">2025-03-06 15:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250306T153359">2025-03-06 15:33:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
