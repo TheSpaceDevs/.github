@@ -95,16 +95,16 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://science.nasa.gov/missions/webb/nasa-webb-wows-with-incredible-detail-in-actively-forming-star-system/" >🔗</a> **[NASA]** NASA Webb Wows With Incredible Detail in Actively Forming Star System
+- <a href="https://www.nasa.gov/news-release/nasa-astronaut-to-answer-questions-from-students-in-oregon/" >🔗</a> **[NASA]** NASA Astronaut to Answer Questions from Students in Oregon
+- <a href="https://arstechnica.com/space/2025/03/after-less-than-a-day-the-athena-lander-is-dead-on-the-moon/" >🔗</a> **[Arstechnica]** After less than a day, the Athena lander is dead on the Moon
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/03/Webb_wows_with_incredible_detail_in_star-forming_system" >🔗</a> **[ESA]** Webb wows with incredible detail in star-forming system
+- <a href="https://science.nasa.gov/missions/webb/nasa-webb-wows-with-incredible-detail-in-actively-forming-star-system/" >🔗</a> **[NASA]** NASA Webb Wows With Incredible Detail in Actively Forming Star System
 - <a href="https://spacenews.com/regulations-are-in-the-crosshairs-but-which-ones/" >🔗</a> **[SpaceNews]** Regulations are in the crosshairs. But which ones?
 - <a href="https://spaceflightnow.com/2025/03/07/u-s-air-forces-x-37b-spaceplane-lands-following-434-day-orbital-mission/" >🔗</a> **[Spaceflight Now]** U.S. Air Force’s X-37B spaceplane lands following 434-day orbital mission
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_03-07_March_2025" >🔗</a> **[ESA]** Week in images: 03-07 March 2025
 - <a href="https://spacenews.com/make-america-test-again-how-rapid-iterative-testing-will-advance-hypersonic-development/" >🔗</a> **[SpaceNews]** Make America test again: How rapid, iterative testing will advance hypersonic development
 - <a href="https://europeanspaceflight.com/uk-awards-65m-contract-for-borealis-space-monitoring-and-control-system/" >🔗</a> **[European Spaceflight]** UK Awards £65M Contract for BOREALIS Space Monitoring and Control System
 - <a href="https://arstechnica.com/space/2025/03/white-house-may-seek-to-slash-nasas-science-budget-by-50-percent/" >🔗</a> **[Arstechnica]** White House may seek to slash NASA’s science budget by 50 percent
-- <a href="https://science.nasa.gov/missions/hubble/hubble-spies-a-spiral-in-the-water-snake/" >🔗</a> **[NASA]** Hubble Spies a Spiral in the Water Snake
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/03/Close-up_of_Proba-3_s_Coronagraph_ready_to_dance" >🔗</a> **[ESA]** Close-up of Proba-3’s Coronagraph, ready to dance
 
 
 ### Launch-related News 🚀
@@ -123,7 +123,7 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250307T160126">2025-03-07 16:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250307T163551">2025-03-07 16:35:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
