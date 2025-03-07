@@ -95,6 +95,8 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/ift-8-another-booster-catch-another-starship-rud/" >🔗</a> **[SpacePolicyOnline.com]** IFT-8: Another Booster Catch, Another Starship RUD
+- <a href="https://arstechnica.com/space/2025/03/intuitive-machines-second-attempt-to-land-on-the-moon-also-went-sideways/" >🔗</a> **[Arstechnica]** Intuitive Machines’ second attempt to land on the Moon also went sideways
 - <a href="https://spacenews.com/starship-destroyed-on-second-consecutive-test-flight/" >🔗</a> **[SpaceNews]** Starship destroyed on second consecutive test flight
 - <a href="https://spacepolicyonline.com/news/im-2-is-on-the-moon-but-ims-not-sure-where/" >🔗</a> **[SpacePolicyOnline.com]** IM-2 Is On the Moon, But IM’s Not Sure Where
 - <a href="https://science.nasa.gov/blog/sealing-the-deal/" >🔗</a> **[NASA]** Sealing the Deal
@@ -103,8 +105,6 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 - <a href="https://www.nasa.gov/image-article/engineers-install-orion-solar-array-wings-for-artemis-ii/" >🔗</a> **[NASA]** Engineers Install Orion Solar Array Wings for Artemis II
 - <a href="https://www.nasa.gov/missions/station/iss-research/nasas-spacex-crew-9-scientific-mission-on-space-station-concludes/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-9 Scientific Mission on Space Station Concludes
 - <a href="https://spacenews.com/york-taps-commercial-satellite-technology-for-classified-defense-missions/" >🔗</a> **[SpaceNews]** York taps commercial satellite technology for classified defense missions
-- <a href="https://www.nasa.gov/image-article/kachemak-bays-stony-waters/" >🔗</a> **[NASA]** Kachemak Bay’s Stony Waters
-- <a href="https://www.nasa.gov/get-involved/virtual-guest-program/nasa-invites-you-to-share-excitement-of-agencys-spacex-crew-10-launch/" >🔗</a> **[NASA]** NASA Invites You to Share Excitement of Agency’s SpaceX Crew-10 Launch
 
 
 ### Launch-related News 🚀
@@ -123,7 +123,7 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250307T004552">2025-03-07 00:45:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250307T012835">2025-03-07 01:28:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
