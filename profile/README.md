@@ -95,6 +95,7 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/ESA_and_GSMA_Foundry_empower_industry_to_achieve_seamless_global_connectivity" >🔗</a> **[ESA]** ESA and GSMA Foundry empower industry to achieve seamless global connectivity
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/03/Earth_from_Space_Tirana_Albania" >🔗</a> **[ESA]** Earth from Space: Tirana, Albania
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_ART_of_training_part_two" >🔗</a> **[ESA]** The ART of training – part two
 - <a href="https://spacepolicyonline.com/news/french-minister-heralds-european-space-launch-autonomy-in-changing-geopolitical-landscape/" >🔗</a> **[SpacePolicyOnline.com]** French Minister Heralds European Space Launch Autonomy In Changing Geopolitical Landscape
@@ -104,7 +105,6 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 - <a href="https://spaceflightnow.com/2025/03/07/starship-upper-stage-lost-in-second-mishap-in-a-row/" >🔗</a> **[Spaceflight Now]** Starship upper stage lost in second mishap in a row
 - <a href="https://spacepolicyonline.com/news/ift-8-another-booster-catch-another-starship-rud/" >🔗</a> **[SpacePolicyOnline.com]** IFT-8: Another Booster Catch, Another Starship RUD
 - <a href="https://arstechnica.com/space/2025/03/intuitive-machines-second-attempt-to-land-on-the-moon-also-went-sideways/" >🔗</a> **[Arstechnica]** Intuitive Machines’ second attempt to land on the Moon also went sideways
-- <a href="https://spacenews.com/starship-destroyed-on-second-consecutive-test-flight/" >🔗</a> **[SpaceNews]** Starship destroyed on second consecutive test flight
 
 
 ### Launch-related News 🚀
@@ -123,7 +123,7 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250307T100130">2025-03-07 10:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250307T103514">2025-03-07 10:35:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
