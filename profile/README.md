@@ -95,16 +95,16 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/im-2-mission-ends-one-day-after-lunar-landing/" >🔗</a> **[SpacePolicyOnline.com]** IM-2 Mission Ends One Day After Lunar Landing
+- <a href="https://www.nasa.gov/image-article/nasa-astronaut-tracy-dyson-speaks-to-students/" >🔗</a> **[NASA]** NASA Astronaut Tracy Dyson Speaks to Students
+- <a href="https://spacenews.com/u-s-military-spaceplane-completes-7th-mission-including-advanced-orbital-maneuvers/" >🔗</a> **[SpaceNews]** U.S. military spaceplane completes 7th mission, including advanced orbital maneuvers
+- <a href="https://www.nasa.gov/news-release/nasa-invites-creators-to-design-mascot-for-artemis-moon-mission/" >🔗</a> **[NASA]** NASA Invites Creators to Design Mascot for Artemis Moon Mission
 - <a href="https://spacenews.com/im-2-lunar-lander-mission-ends/" >🔗</a> **[SpaceNews]** IM-2 lunar lander mission ends
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-to-answer-questions-from-students-in-oregon/" >🔗</a> **[NASA]** NASA Astronaut to Answer Questions from Students in Oregon
 - <a href="https://arstechnica.com/space/2025/03/after-less-than-a-day-the-athena-lander-is-dead-on-the-moon/" >🔗</a> **[Arstechnica]** After less than a day, the Athena lander is dead on the Moon
 - <a href="https://science.nasa.gov/missions/webb/nasa-webb-wows-with-incredible-detail-in-actively-forming-star-system/" >🔗</a> **[NASA]** NASA Webb Wows With Incredible Detail in Actively Forming Star System
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/03/Webb_wows_with_incredible_detail_in_star-forming_system" >🔗</a> **[ESA]** Webb wows with incredible detail in star-forming system
 - <a href="https://spacenews.com/regulations-are-in-the-crosshairs-but-which-ones/" >🔗</a> **[SpaceNews]** Regulations are in the crosshairs. But which ones?
-- <a href="https://spaceflightnow.com/2025/03/07/u-s-air-forces-x-37b-spaceplane-lands-following-434-day-orbital-mission/" >🔗</a> **[Spaceflight Now]** U.S. Air Force’s X-37B spaceplane lands following 434-day orbital mission
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_03-07_March_2025" >🔗</a> **[ESA]** Week in images: 03-07 March 2025
-- <a href="https://spacenews.com/make-america-test-again-how-rapid-iterative-testing-will-advance-hypersonic-development/" >🔗</a> **[SpaceNews]** Make America test again: How rapid, iterative testing will advance hypersonic development
-- <a href="https://europeanspaceflight.com/uk-awards-65m-contract-for-borealis-space-monitoring-and-control-system/" >🔗</a> **[European Spaceflight]** UK Awards £65M Contract for BOREALIS Space Monitoring and Control System
 
 
 ### Launch-related News 🚀
@@ -123,7 +123,7 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250307T190113">2025-03-07 19:01:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250307T193113">2025-03-07 19:31:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
