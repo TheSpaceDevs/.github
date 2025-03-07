@@ -95,6 +95,7 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_ART_of_training_part_two" >🔗</a> **[ESA]** The ART of training – part two
 - <a href="https://spacepolicyonline.com/news/french-minister-heralds-european-space-launch-autonomy-in-changing-geopolitical-landscape/" >🔗</a> **[SpacePolicyOnline.com]** French Minister Heralds European Space Launch Autonomy In Changing Geopolitical Landscape
 - <a href="https://tlpnetwork.com/news/america/starship-eighth-test-flight-achieves-3rd-booster-catch-but-ends-in-ship-anomaly" >🔗</a> **[The Launch Pad]** Starship’s Eighth Test Flight Achieves 3rd Booster Catch but Ends in Ship Anomaly
 - <a href="https://www.teslarati.com/spacex-starship-flight-8-results-super-heavy-booster-catch-video/" >🔗</a> **[Teslarati]** Starship Flight 8: SpaceX nails Super Heavy booster catch but loses upper stage
@@ -104,7 +105,6 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 - <a href="https://arstechnica.com/space/2025/03/intuitive-machines-second-attempt-to-land-on-the-moon-also-went-sideways/" >🔗</a> **[Arstechnica]** Intuitive Machines’ second attempt to land on the Moon also went sideways
 - <a href="https://spacenews.com/starship-destroyed-on-second-consecutive-test-flight/" >🔗</a> **[SpaceNews]** Starship destroyed on second consecutive test flight
 - <a href="https://spacepolicyonline.com/news/im-2-is-on-the-moon-but-ims-not-sure-where/" >🔗</a> **[SpacePolicyOnline.com]** IM-2 Is On the Moon, But IM’s Not Sure Where
-- <a href="https://science.nasa.gov/blog/sealing-the-deal/" >🔗</a> **[NASA]** Sealing the Deal
 
 
 ### Launch-related News 🚀
@@ -123,7 +123,7 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250307T080131">2025-03-07 08:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250307T083514">2025-03-07 08:35:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
