@@ -95,6 +95,9 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/missions/webb/nasa-webb-wows-with-incredible-detail-in-actively-forming-star-system/" >🔗</a> **[NASA]** NASA Webb Wows With Incredible Detail in Actively Forming Star System
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/03/Webb_wows_with_incredible_detail_in_star-forming_system" >🔗</a> **[ESA]** Webb wows with incredible detail in star-forming system
+- <a href="https://spacenews.com/regulations-are-in-the-crosshairs-but-which-ones/" >🔗</a> **[SpaceNews]** Regulations are in the crosshairs. But which ones?
 - <a href="https://spaceflightnow.com/2025/03/07/u-s-air-forces-x-37b-spaceplane-lands-following-434-day-orbital-mission/" >🔗</a> **[Spaceflight Now]** U.S. Air Force’s X-37B spaceplane lands following 434-day orbital mission
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_03-07_March_2025" >🔗</a> **[ESA]** Week in images: 03-07 March 2025
 - <a href="https://spacenews.com/make-america-test-again-how-rapid-iterative-testing-will-advance-hypersonic-development/" >🔗</a> **[SpaceNews]** Make America test again: How rapid, iterative testing will advance hypersonic development
@@ -102,9 +105,6 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 - <a href="https://arstechnica.com/space/2025/03/white-house-may-seek-to-slash-nasas-science-budget-by-50-percent/" >🔗</a> **[Arstechnica]** White House may seek to slash NASA’s science budget by 50 percent
 - <a href="https://science.nasa.gov/missions/hubble/hubble-spies-a-spiral-in-the-water-snake/" >🔗</a> **[NASA]** Hubble Spies a Spiral in the Water Snake
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/03/Close-up_of_Proba-3_s_Coronagraph_ready_to_dance" >🔗</a> **[ESA]** Close-up of Proba-3’s Coronagraph, ready to dance
-- <a href="https://spacenews.com/china-highlights-commercial-space-sector-in-government-work-report/" >🔗</a> **[SpaceNews]** China highlights commercial space sector in government work report
-- <a href="https://arstechnica.com/space/2025/03/rocket-report-starship-fails-for-a-second-time-whats-to-blame-for-vulcan-delays/" >🔗</a> **[Arstechnica]** Rocket Report: Starship fails for a second time; what’s to blame for Vulcan delays?
-- <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/ESA_and_GSMA_Foundry_empower_industry_to_achieve_seamless_global_connectivity" >🔗</a> **[ESA]** ESA and GSMA Foundry empower industry to achieve seamless global connectivity
 
 
 ### Launch-related News 🚀
@@ -123,7 +123,7 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250307T150120">2025-03-07 15:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250307T153304">2025-03-07 15:33:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
