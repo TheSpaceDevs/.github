@@ -95,6 +95,8 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-highlights-commercial-space-sector-in-government-work-report/" >🔗</a> **[SpaceNews]** China highlights commercial space sector in government work report
+- <a href="https://arstechnica.com/space/2025/03/rocket-report-starship-fails-for-a-second-time-whats-to-blame-for-vulcan-delays/" >🔗</a> **[Arstechnica]** Rocket Report: Starship fails for a second time; what’s to blame for Vulcan delays?
 - <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/ESA_and_GSMA_Foundry_empower_industry_to_achieve_seamless_global_connectivity" >🔗</a> **[ESA]** ESA and GSMA Foundry empower industry to achieve seamless global connectivity
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/03/Earth_from_Space_Tirana_Albania" >🔗</a> **[ESA]** Earth from Space: Tirana, Albania
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_ART_of_training_part_two" >🔗</a> **[ESA]** The ART of training – part two
@@ -103,8 +105,6 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 - <a href="https://www.teslarati.com/spacex-starship-flight-8-results-super-heavy-booster-catch-video/" >🔗</a> **[Teslarati]** Starship Flight 8: SpaceX nails Super Heavy booster catch but loses upper stage
 - <a href="https://spaceflightnow.com/2025/03/07/intuitive-machines-lunar-lander-healthy-but-apparently-on-its-side/" >🔗</a> **[Spaceflight Now]** Intuitive Machines lunar lander healthy, but apparently on its side
 - <a href="https://spaceflightnow.com/2025/03/07/starship-upper-stage-lost-in-second-mishap-in-a-row/" >🔗</a> **[Spaceflight Now]** Starship upper stage lost in second mishap in a row
-- <a href="https://spacepolicyonline.com/news/ift-8-another-booster-catch-another-starship-rud/" >🔗</a> **[SpacePolicyOnline.com]** IFT-8: Another Booster Catch, Another Starship RUD
-- <a href="https://arstechnica.com/space/2025/03/intuitive-machines-second-attempt-to-land-on-the-moon-also-went-sideways/" >🔗</a> **[Arstechnica]** Intuitive Machines’ second attempt to land on the Moon also went sideways
 
 
 ### Launch-related News 🚀
@@ -123,7 +123,7 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250307T120145">2025-03-07 12:01:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250307T124247">2025-03-07 12:42:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
