@@ -95,16 +95,16 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/03/Close-up_of_Proba-3_s_Coronagraph_ready_to_dance" >🔗</a> **[ESA]** Close-up of Proba-3’s Coronagraph, ready to dance
 - <a href="https://spacenews.com/china-highlights-commercial-space-sector-in-government-work-report/" >🔗</a> **[SpaceNews]** China highlights commercial space sector in government work report
 - <a href="https://arstechnica.com/space/2025/03/rocket-report-starship-fails-for-a-second-time-whats-to-blame-for-vulcan-delays/" >🔗</a> **[Arstechnica]** Rocket Report: Starship fails for a second time; what’s to blame for Vulcan delays?
 - <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/ESA_and_GSMA_Foundry_empower_industry_to_achieve_seamless_global_connectivity" >🔗</a> **[ESA]** ESA and GSMA Foundry empower industry to achieve seamless global connectivity
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/03/Earth_from_Space_Tirana_Albania" >🔗</a> **[ESA]** Earth from Space: Tirana, Albania
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/03/Women_powering_up_space" >🔗</a> **[ESA]** Women powering up space
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_ART_of_training_part_two" >🔗</a> **[ESA]** The ART of training – part two
 - <a href="https://spacepolicyonline.com/news/french-minister-heralds-european-space-launch-autonomy-in-changing-geopolitical-landscape/" >🔗</a> **[SpacePolicyOnline.com]** French Minister Heralds European Space Launch Autonomy In Changing Geopolitical Landscape
 - <a href="https://tlpnetwork.com/news/america/starship-eighth-test-flight-achieves-3rd-booster-catch-but-ends-in-ship-anomaly" >🔗</a> **[The Launch Pad]** Starship’s Eighth Test Flight Achieves 3rd Booster Catch but Ends in Ship Anomaly
 - <a href="https://www.teslarati.com/spacex-starship-flight-8-results-super-heavy-booster-catch-video/" >🔗</a> **[Teslarati]** Starship Flight 8: SpaceX nails Super Heavy booster catch but loses upper stage
-- <a href="https://spaceflightnow.com/2025/03/07/intuitive-machines-lunar-lander-healthy-but-apparently-on-its-side/" >🔗</a> **[Spaceflight Now]** Intuitive Machines lunar lander healthy, but apparently on its side
-- <a href="https://spaceflightnow.com/2025/03/07/starship-upper-stage-lost-in-second-mishap-in-a-row/" >🔗</a> **[Spaceflight Now]** Starship upper stage lost in second mishap in a row
 
 
 ### Launch-related News 🚀
@@ -123,7 +123,7 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250307T130610">2025-03-07 13:06:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250307T133412">2025-03-07 13:34:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
