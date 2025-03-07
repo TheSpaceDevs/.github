@@ -95,6 +95,8 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-receives-some-data-before-intuitive-machines-ends-lunar-mission/" >🔗</a> **[NASA]** NASA Receives Some Data Before Intuitive Machines Ends Lunar Mission
+- <a href="https://spacenews.com/star-catcher-lands-space-florida-support-for-satellite-power-beaming-tests/" >🔗</a> **[SpaceNews]** Star Catcher lands Space Florida support for satellite power beaming tests
 - <a href="https://spacepolicyonline.com/news/im-2-mission-ends-one-day-after-lunar-landing/" >🔗</a> **[SpacePolicyOnline.com]** IM-2 Mission Ends One Day After Lunar Landing
 - <a href="https://www.nasa.gov/image-article/nasa-astronaut-tracy-dyson-speaks-to-students/" >🔗</a> **[NASA]** NASA Astronaut Tracy Dyson Speaks to Students
 - <a href="https://spacenews.com/u-s-military-spaceplane-completes-7th-mission-including-advanced-orbital-maneuvers/" >🔗</a> **[SpaceNews]** U.S. military spaceplane completes 7th mission, including advanced orbital maneuvers
@@ -103,8 +105,6 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-to-answer-questions-from-students-in-oregon/" >🔗</a> **[NASA]** NASA Astronaut to Answer Questions from Students in Oregon
 - <a href="https://arstechnica.com/space/2025/03/after-less-than-a-day-the-athena-lander-is-dead-on-the-moon/" >🔗</a> **[Arstechnica]** After less than a day, the Athena lander is dead on the Moon
 - <a href="https://science.nasa.gov/missions/webb/nasa-webb-wows-with-incredible-detail-in-actively-forming-star-system/" >🔗</a> **[NASA]** NASA Webb Wows With Incredible Detail in Actively Forming Star System
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/03/Webb_wows_with_incredible_detail_in_star-forming_system" >🔗</a> **[ESA]** Webb wows with incredible detail in star-forming system
-- <a href="https://spacenews.com/regulations-are-in-the-crosshairs-but-which-ones/" >🔗</a> **[SpaceNews]** Regulations are in the crosshairs. But which ones?
 
 
 ### Launch-related News 🚀
@@ -123,7 +123,7 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250307T193113">2025-03-07 19:31:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250307T200137">2025-03-07 20:01:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
