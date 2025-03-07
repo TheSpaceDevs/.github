@@ -95,6 +95,8 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/america/starship-eighth-test-flight-achieves-3rd-booster-catch-but-ends-in-ship-anomaly" >🔗</a> **[The Launch Pad]** Starship’s Eighth Test Flight Achieves 3rd Booster Catch but Ends in Ship Anomaly
+- <a href="https://www.teslarati.com/spacex-starship-flight-8-results-super-heavy-booster-catch-video/" >🔗</a> **[Teslarati]** Starship Flight 8: SpaceX nails Super Heavy booster catch but loses upper stage
 - <a href="https://spaceflightnow.com/2025/03/07/intuitive-machines-lunar-lander-healthy-but-apparently-on-its-side/" >🔗</a> **[Spaceflight Now]** Intuitive Machines lunar lander healthy, but apparently on its side
 - <a href="https://spaceflightnow.com/2025/03/07/starship-upper-stage-lost-in-second-mishap-in-a-row/" >🔗</a> **[Spaceflight Now]** Starship upper stage lost in second mishap in a row
 - <a href="https://spacepolicyonline.com/news/ift-8-another-booster-catch-another-starship-rud/" >🔗</a> **[SpacePolicyOnline.com]** IFT-8: Another Booster Catch, Another Starship RUD
@@ -103,8 +105,6 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 - <a href="https://spacepolicyonline.com/news/im-2-is-on-the-moon-but-ims-not-sure-where/" >🔗</a> **[SpacePolicyOnline.com]** IM-2 Is On the Moon, But IM’s Not Sure Where
 - <a href="https://science.nasa.gov/blog/sealing-the-deal/" >🔗</a> **[NASA]** Sealing the Deal
 - <a href="https://spacenews.com/danti-expands-ai-powered-earth-data-search-engine-to-broader-government-market/" >🔗</a> **[SpaceNews]** Danti expands AI-powered Earth data search engine to broader government market
-- <a href="https://science.nasa.gov/blog/sols-4473-4474-so-many-rocks-so-many-textures/" >🔗</a> **[NASA]** Sols 4473-4474: So Many Rocks, So Many Textures!
-- <a href="https://www.nasa.gov/image-article/engineers-install-orion-solar-array-wings-for-artemis-ii/" >🔗</a> **[NASA]** Engineers Install Orion Solar Array Wings for Artemis II
 
 
 ### Launch-related News 🚀
@@ -123,7 +123,7 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250307T030933">2025-03-07 03:09:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250307T033744">2025-03-07 03:37:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
