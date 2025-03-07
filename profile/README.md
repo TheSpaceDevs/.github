@@ -95,6 +95,9 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/starship-destroyed-on-second-consecutive-test-flight/" >🔗</a> **[SpaceNews]** Starship destroyed on second consecutive test flight
+- <a href="https://spacepolicyonline.com/news/im-2-is-on-the-moon-but-ims-not-sure-where/" >🔗</a> **[SpacePolicyOnline.com]** IM-2 Is On the Moon, But IM’s Not Sure Where
+- <a href="https://science.nasa.gov/blog/sealing-the-deal/" >🔗</a> **[NASA]** Sealing the Deal
 - <a href="https://spacenews.com/danti-expands-ai-powered-earth-data-search-engine-to-broader-government-market/" >🔗</a> **[SpaceNews]** Danti expands AI-powered Earth data search engine to broader government market
 - <a href="https://science.nasa.gov/blog/sols-4473-4474-so-many-rocks-so-many-textures/" >🔗</a> **[NASA]** Sols 4473-4474: So Many Rocks, So Many Textures!
 - <a href="https://www.nasa.gov/image-article/engineers-install-orion-solar-array-wings-for-artemis-ii/" >🔗</a> **[NASA]** Engineers Install Orion Solar Array Wings for Artemis II
@@ -102,9 +105,6 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 - <a href="https://spacenews.com/york-taps-commercial-satellite-technology-for-classified-defense-missions/" >🔗</a> **[SpaceNews]** York taps commercial satellite technology for classified defense missions
 - <a href="https://www.nasa.gov/image-article/kachemak-bays-stony-waters/" >🔗</a> **[NASA]** Kachemak Bay’s Stony Waters
 - <a href="https://www.nasa.gov/get-involved/virtual-guest-program/nasa-invites-you-to-share-excitement-of-agencys-spacex-crew-10-launch/" >🔗</a> **[NASA]** NASA Invites You to Share Excitement of Agency’s SpaceX Crew-10 Launch
-- <a href="https://www.nasa.gov/missions/station/what-you-need-to-know-about-nasas-spacex-crew-10-mission/" >🔗</a> **[NASA]** What You Need to Know about NASA’s SpaceX Crew-10 Mission
-- <a href="https://europeanspaceflight.com/ariane-6-successfully-delivers-french-spy-satellite-to-orbit/" >🔗</a> **[European Spaceflight]** Ariane 6 Successfully Delivers French Spy Satellite to Orbit
-- <a href="https://www.nasa.gov/general/nasa-seeks-commercial-partner-for-robots-aboard-space-station/" >🔗</a> **[NASA]** NASA Seeks Commercial Partner for Robots Aboard Space Station
 
 
 ### Launch-related News 🚀
@@ -123,7 +123,7 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250307T000418">2025-03-07 00:04:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250307T004552">2025-03-07 00:45:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
