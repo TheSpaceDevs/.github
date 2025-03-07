@@ -95,6 +95,8 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/us-halts-satellite-imagery-support-to-ukraine-in-major-policy-shift/" >🔗</a> **[SpaceNews]** U.S. halts satellite imagery support to Ukraine in major policy shift
+- <a href="https://www.nasa.gov/missions/spherex/cosmic-mapmaker-nasas-spherex-space-telescope-ready-to-launch/" >🔗</a> **[NASA]** Cosmic Mapmaker: NASA’s SPHEREx Space Telescope Ready to Launch
 - <a href="https://spaceflightnow.com/2025/03/07/intuitive-machines-im-2-mission-ends-with-lander-on-its-side-on-the-moon/" >🔗</a> **[Spaceflight Now]** Intuitive Machines’ IM-2 Moon mission ends with lander on its side
 - <a href="https://www.nasa.gov/news-release/nasa-receives-some-data-before-intuitive-machines-ends-lunar-mission/" >🔗</a> **[NASA]** NASA Receives Some Data Before Intuitive Machines Ends Lunar Mission
 - <a href="https://spacenews.com/star-catcher-lands-space-florida-support-for-satellite-power-beaming-tests/" >🔗</a> **[SpaceNews]** Star Catcher lands Space Florida support for satellite power beaming tests
@@ -103,8 +105,6 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 - <a href="https://spacenews.com/u-s-military-spaceplane-completes-7th-mission-including-advanced-orbital-maneuvers/" >🔗</a> **[SpaceNews]** U.S. military spaceplane completes 7th mission, including advanced orbital maneuvers
 - <a href="https://www.nasa.gov/news-release/nasa-invites-creators-to-design-mascot-for-artemis-moon-mission/" >🔗</a> **[NASA]** NASA Invites Creators to Design Mascot for Artemis Moon Mission
 - <a href="https://spacenews.com/im-2-lunar-lander-mission-ends/" >🔗</a> **[SpaceNews]** IM-2 lunar lander mission ends
-- <a href="https://www.nasa.gov/news-release/nasa-astronaut-to-answer-questions-from-students-in-oregon/" >🔗</a> **[NASA]** NASA Astronaut to Answer Questions from Students in Oregon
-- <a href="https://arstechnica.com/space/2025/03/after-less-than-a-day-the-athena-lander-is-dead-on-the-moon/" >🔗</a> **[Arstechnica]** After less than a day, the Athena lander is dead on the Moon
 
 
 ### Launch-related News 🚀
@@ -123,7 +123,7 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250307T210120">2025-03-07 21:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250307T213107">2025-03-07 21:31:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
