@@ -95,16 +95,16 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/missions/hubble/hubble-unveils-a-glittering-view-of-sh2-284/" >🔗</a> **[NASA]** Hubble Unveils a Glittering View of Sh2-284
+- <a href="https://science.nasa.gov/centers-and-facilities/goddard/hubble-jams-with-a-cosmic-guitar/" >🔗</a> **[NASA]** Hubble Jams With A Cosmic Guitar
+- <a href="https://science.nasa.gov/missions/hubble/hubble-spies-a-spectacular-starburst-galaxy/" >🔗</a> **[NASA]** Hubble Spies a Spectacular Starburst Galaxy
+- <a href="https://science.nasa.gov/missions/hubble/hubble-examines-stars-ensconced-in-a-cocoon-of-gas/" >🔗</a> **[NASA]** Hubble Examines Stars Ensconced in a Cocoon of Gas
 - <a href="https://spacenews.com/fuel-leak-blamed-for-falcon-9-booster-loss-after-landing/" >🔗</a> **[SpaceNews]** Fuel leak blamed for Falcon 9 booster loss after landing
 - <a href="https://spacepolicyonline.com/news/x-37b-back-home-from-7th-mission/" >🔗</a> **[SpacePolicyOnline.com]** X-37B Back Home from 7th Mission
 - <a href="https://arstechnica.com/space/2025/03/nasa-officials-undermine-musks-claims-about-stranded-astronauts/" >🔗</a> **[Arstechnica]** NASA officials undermine Musk’s claims about ‘stranded’ astronauts
 - <a href="https://spacenews.com/space-development-agencys-satellite-program-pushes-launch-timeline/" >🔗</a> **[SpaceNews]** Space Development Agency’s satellite program pushes launch timeline
 - <a href="https://spacenews.com/fcc-allows-a-power-boost-for-spacexs-direct-to-smartphone-service/" >🔗</a> **[SpaceNews]** FCC allows a power boost for SpaceX’s direct-to-smartphone service
 - <a href="https://www.nasa.gov/people-of-nasa/nasa-earns-best-place-to-work-in-government-for-13th-consecutive-year/" >🔗</a> **[NASA]** NASA Earns Best Place to Work in Government for 13th Consecutive Year
-- <a href="https://spacenews.com/us-halts-satellite-imagery-support-to-ukraine-in-major-policy-shift/" >🔗</a> **[SpaceNews]** U.S. halts satellite imagery support to Ukraine in major policy shift
-- <a href="https://www.nasaspaceflight.com/2025/03/blue-ghost-im-2-landings/" >🔗</a> **[NASASpaceflight]** Blue Ghost successfully starts lunar surface mission while IM-2 lands sideways
-- <a href="https://www.nasa.gov/missions/spherex/cosmic-mapmaker-nasas-spherex-space-telescope-ready-to-launch/" >🔗</a> **[NASA]** Cosmic Mapmaker: NASA’s SPHEREx Space Telescope Ready to Launch
-- <a href="https://spaceflightnow.com/2025/03/07/intuitive-machines-im-2-mission-ends-with-lander-on-its-side-on-the-moon/" >🔗</a> **[Spaceflight Now]** Intuitive Machines’ IM-2 Moon mission ends with lander on its side
 
 
 ### Launch-related News 🚀
@@ -123,7 +123,7 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250308T160124">2025-03-08 16:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250308T163142">2025-03-08 16:31:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
