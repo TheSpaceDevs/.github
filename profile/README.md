@@ -95,6 +95,7 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-development-agencys-satellite-program-pushes-launch-timeline/" >🔗</a> **[SpaceNews]** Space Development Agency’s satellite program pushes launch timeline
 - <a href="https://spacenews.com/fcc-allows-a-power-boost-for-spacexs-direct-to-smartphone-service/" >🔗</a> **[SpaceNews]** FCC allows a power boost for SpaceX’s direct-to-smartphone service
 - <a href="https://www.nasa.gov/people-of-nasa/nasa-earns-best-place-to-work-in-government-for-13th-consecutive-year/" >🔗</a> **[NASA]** NASA Earns Best Place to Work in Government for 13th Consecutive Year
 - <a href="https://spacenews.com/us-halts-satellite-imagery-support-to-ukraine-in-major-policy-shift/" >🔗</a> **[SpaceNews]** U.S. halts satellite imagery support to Ukraine in major policy shift
@@ -104,7 +105,6 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 - <a href="https://www.nasa.gov/news-release/nasa-receives-some-data-before-intuitive-machines-ends-lunar-mission/" >🔗</a> **[NASA]** NASA Receives Some Data Before Intuitive Machines Ends Lunar Mission
 - <a href="https://spacenews.com/star-catcher-lands-space-florida-support-for-satellite-power-beaming-tests/" >🔗</a> **[SpaceNews]** Star Catcher lands Space Florida support for satellite power beaming tests
 - <a href="https://spacepolicyonline.com/news/im-2-mission-ends-one-day-after-lunar-landing/" >🔗</a> **[SpacePolicyOnline.com]** IM-2 Mission Ends One Day After Lunar Landing
-- <a href="https://www.nasa.gov/image-article/nasa-astronaut-tracy-dyson-speaks-to-students/" >🔗</a> **[NASA]** NASA Astronaut Tracy Dyson Speaks to Students
 
 
 ### Launch-related News 🚀
@@ -123,7 +123,7 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250307T233106">2025-03-07 23:31:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250308T000354">2025-03-08 00:03:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
