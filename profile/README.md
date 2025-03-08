@@ -95,6 +95,7 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/fuel-leak-blamed-for-falcon-9-booster-loss-after-landing/" >🔗</a> **[SpaceNews]** Fuel leak blamed for Falcon 9 booster loss after landing
 - <a href="https://spacepolicyonline.com/news/x-37b-back-home-from-7th-mission/" >🔗</a> **[SpacePolicyOnline.com]** X-37B Back Home from 7th Mission
 - <a href="https://arstechnica.com/space/2025/03/nasa-officials-undermine-musks-claims-about-stranded-astronauts/" >🔗</a> **[Arstechnica]** NASA officials undermine Musk’s claims about ‘stranded’ astronauts
 - <a href="https://spacenews.com/space-development-agencys-satellite-program-pushes-launch-timeline/" >🔗</a> **[SpaceNews]** Space Development Agency’s satellite program pushes launch timeline
@@ -104,7 +105,6 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 - <a href="https://www.nasaspaceflight.com/2025/03/blue-ghost-im-2-landings/" >🔗</a> **[NASASpaceflight]** Blue Ghost successfully starts lunar surface mission while IM-2 lands sideways
 - <a href="https://www.nasa.gov/missions/spherex/cosmic-mapmaker-nasas-spherex-space-telescope-ready-to-launch/" >🔗</a> **[NASA]** Cosmic Mapmaker: NASA’s SPHEREx Space Telescope Ready to Launch
 - <a href="https://spaceflightnow.com/2025/03/07/intuitive-machines-im-2-mission-ends-with-lander-on-its-side-on-the-moon/" >🔗</a> **[Spaceflight Now]** Intuitive Machines’ IM-2 Moon mission ends with lander on its side
-- <a href="https://www.nasa.gov/news-release/nasa-receives-some-data-before-intuitive-machines-ends-lunar-mission/" >🔗</a> **[NASA]** NASA Receives Some Data Before Intuitive Machines Ends Lunar Mission
 
 
 ### Launch-related News 🚀
@@ -123,7 +123,7 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250308T153106">2025-03-08 15:31:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250308T160124">2025-03-08 16:01:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
