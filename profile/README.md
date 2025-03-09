@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/tracking-doges-impact-on-space-and-the-federal-workforce/" >🔗</a> **[SpaceNews]** Tracking DOGE’s impact on space and the federal workforce
 - <a href="https://www.nasaspaceflight.com/2025/03/spherex-punch-launch/" >🔗</a> **[NASASpaceflight]** NASA, SpaceX to launch SPHEREx observatory and PUNCH heliophysics mission from California
 - <a href="https://science.nasa.gov/missions/hubble/hubble-unveils-a-glittering-view-of-sh2-284/" >🔗</a> **[NASA]** Hubble Unveils a Glittering View of Sh2-284
 - <a href="https://science.nasa.gov/centers-and-facilities/goddard/hubble-jams-with-a-cosmic-guitar/" >🔗</a> **[NASA]** Hubble Jams With A Cosmic Guitar
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacepolicyonline.com/news/x-37b-back-home-from-7th-mission/" >🔗</a> **[SpacePolicyOnline.com]** X-37B Back Home from 7th Mission
 - <a href="https://arstechnica.com/space/2025/03/nasa-officials-undermine-musks-claims-about-stranded-astronauts/" >🔗</a> **[Arstechnica]** NASA officials undermine Musk’s claims about ‘stranded’ astronauts
 - <a href="https://spacenews.com/space-development-agencys-satellite-program-pushes-launch-timeline/" >🔗</a> **[SpaceNews]** Space Development Agency’s satellite program pushes launch timeline
-- <a href="https://spacenews.com/fcc-allows-a-power-boost-for-spacexs-direct-to-smartphone-service/" >🔗</a> **[SpaceNews]** FCC allows a power boost for SpaceX’s direct-to-smartphone service
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250309T093102">2025-03-09 09:31:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250309T100123">2025-03-09 10:01:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
