@@ -95,6 +95,7 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-expands-secretive-satellite-series-with-launch-of-tjs-15/" >🔗</a> **[SpaceNews]** China expands secretive satellite series with launch of TJS-15
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-march-9-16-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy March 9-16, 2025
 - <a href="https://tlpnetwork.com/news/america/us-space-force-x-37b-secert-spaceplane-returns-to-earth-after-434-days-in-space" >🔗</a> **[The Launch Pad]** US Space Force X-37B Secert Spaceplane Returns to Earth After 434 Days in Space
 - <a href="https://spacenews.com/tracking-doges-impact-on-space-and-the-federal-workforce/" >🔗</a> **[SpaceNews]** Tracking DOGE’s impact on space and the federal workforce
@@ -104,7 +105,6 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 - <a href="https://science.nasa.gov/missions/hubble/hubble-spies-a-spectacular-starburst-galaxy/" >🔗</a> **[NASA]** Hubble Spies a Spectacular Starburst Galaxy
 - <a href="https://science.nasa.gov/missions/hubble/hubble-examines-stars-ensconced-in-a-cocoon-of-gas/" >🔗</a> **[NASA]** Hubble Examines Stars Ensconced in a Cocoon of Gas
 - <a href="https://spacenews.com/fuel-leak-blamed-for-falcon-9-booster-loss-after-landing/" >🔗</a> **[SpaceNews]** Fuel leak blamed for Falcon 9 booster loss after landing
-- <a href="https://spacepolicyonline.com/news/x-37b-back-home-from-7th-mission/" >🔗</a> **[SpacePolicyOnline.com]** X-37B Back Home from 7th Mission
 
 
 ### Launch-related News 🚀
@@ -123,7 +123,7 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250309T223055">2025-03-09 22:30:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250309T230134">2025-03-09 23:01:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
