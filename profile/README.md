@@ -109,6 +109,9 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2025/03/10/live-coverage-spacex-to-launch-nasas-spherex-and-punch-spacecraft-on-falcon-9-rocket-from-vandenberg/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch NASA’s SPHEREx and PUNCH spacecraft on Falcon 9 rocket from Vandenberg
+- <a href="https://www.nasaspaceflight.com/2025/03/spherex-punch-launch/" >🔗</a> **[NASASpaceflight]** NASA, SpaceX to launch SPHEREx observatory and PUNCH heliophysics mission from California
+- <a href="https://www.nasa.gov/missions/spherex/cosmic-mapmaker-nasas-spherex-space-telescope-ready-to-launch/" >🔗</a> **[NASA]** Cosmic Mapmaker: NASA’s SPHEREx Space Telescope Ready to Launch
 - <a href="https://www.nasaspaceflight.com/2025/03/launch-roundup-030425/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Starship and Ariane 6 set to launch after scrubs
 - <a href="https://www.nasaspaceflight.com/2025/02/launch-roundup-022425/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Starship, lunar lander, and telescope missions set for launch
 - <a href="https://science.nasa.gov/science-research/heliophysics/nasas-punch-mission-to-revolutionize-view-of-solar-wind/" >🔗</a> **[NASA]** NASA’s PUNCH Mission to Revolutionize Our View of Solar Wind
@@ -116,14 +119,11 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 - <a href="https://www.nasa.gov/universe/6-things-to-know-about-spherex-nasas-newest-space-telescope/" >🔗</a> **[NASA]** 6 Things to Know About SPHEREx, NASA’s Newest Space Telescope
 - <a href="https://www.nasa.gov/image-article/spherexs-concentric-cones/" >🔗</a> **[NASA]** SPHEREx’s Concentric Cones
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-discuss-punch-mission-to-study-solar-wind/" >🔗</a> **[NASA]** NASA Invites Media to Discuss PUNCH Mission to Study Solar Wind
-- <a href="https://www.nasa.gov/image-article/nasas-punch-mission-tests-solar-arrays-before-launch/" >🔗</a> **[NASA]** NASA’s PUNCH Mission Tests Solar Arrays Before Launch
-- <a href="https://www.nasa.gov/news-release/nasa-to-preview-sky-mapping-space-telescope-ahead-of-launch/" >🔗</a> **[NASA]** NASA to Preview Sky-Mapping Space Telescope Ahead of Launch
-- <a href="https://www.nasa.gov/centers-and-facilities/jpl/nasa-jpl-prepping-for-full-year-of-launches-mission-milestones/" >🔗</a> **[NASA]** NASA JPL Prepping for Full Year of Launches, Mission Milestones
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250310T090129">2025-03-10 09:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250310T093110">2025-03-10 09:31:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
