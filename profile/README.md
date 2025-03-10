@@ -95,16 +95,16 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/testing-of-key-callisto-reusable-rocket-demonstrator-component-underway/" >🔗</a> **[European Spaceflight]** Testing of Key Callisto Reusable Rocket Demonstrator Component Underway
+- <a href="https://science.nasa.gov/missions/webb/nasas-webb-peers-deeper-into-mysterious-flame-nebula/" >🔗</a> **[NASA]** NASA’s Webb Peers Deeper into Mysterious Flame Nebula
+- <a href="https://www.esa.int/Space_Safety/Hera/Watch_live_Images_from_Hera_s_Mars_flyby" >🔗</a> **[ESA]** Watch live: Images from Hera’s Mars flyby
+- <a href="https://spacenews.com/space-ma-poised-for-takeoff-in-2025/" >🔗</a> **[SpaceNews]** Space M&A poised for takeoff in 2025
 - <a href="https://spacenews.com/spacewerx-selects-eight-companies-for-440-million-in-public-private-partnerships/" >🔗</a> **[SpaceNews]** SpaceWERX selects eight companies for $440 million in public-private partnerships
 - <a href="https://spacenews.com/leolabs-wins-contract-to-deploy-space-monitoring-radar-in-indo-pacific-region/" >🔗</a> **[SpaceNews]** LeoLabs wins contract to deploy space-monitoring radar in Indo-Pacific region
 - <a href="https://spacenews.com/america-needs-a-strong-nasa/" >🔗</a> **[SpaceNews]** America needs a strong NASA
 - <a href="https://spacenews.com/rivada-eyes-u-s-government-contracts-as-it-prepares-to-deploy-600-satellite-network/" >🔗</a> **[SpaceNews]** Rivada eyes U.S. government contracts as it prepares to deploy 600-satellite network
 - <a href="https://spacenews.com/thales-alenia-space-wins-sky-perfect-jsat-order-in-tight-geo-market/" >🔗</a> **[SpaceNews]** Thales Alenia Space wins SKY Perfect JSAT order in tight GEO market
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/moon-mascot-nasa-artemis-ii-zgi-design-challenge/" >🔗</a> **[NASA]** Moon Mascot: NASA Artemis II ZGI Design Challenge
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/03/Hera_Mars_flyby" >🔗</a> **[ESA]** Hera Mars flyby
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/03/Hera_Target_Deimos" >🔗</a> **[ESA]** Hera: Target Deimos
-- <a href="https://spacenews.com/cygnus-issue-causes-changes-in-iss-cargo-missions/" >🔗</a> **[SpaceNews]** Cygnus issue causes changes in ISS cargo missions
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/03/European_engineers_give_Orion_its_wings" >🔗</a> **[ESA]** European engineers give Orion its wings
 
 
 ### Launch-related News 🚀
@@ -123,7 +123,7 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250310T140134">2025-03-10 14:01:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250310T143458">2025-03-10 14:34:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
