@@ -95,6 +95,8 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/america/nasa-faces-extinction-layoffs-and-office-closures-as-largest-budget-cut-since-apollo-begins" >🔗</a> **[The Launch Pad]** NASA Faces "Extinction" Layoffs and Office Closures As Largest Budget Cut Since Apollo Begins
+- <a href="https://spacenews.com/ses-invests-in-lynk-global-to-break-into-direct-to-device-market/" >🔗</a> **[SpaceNews]** SES invests in Lynk Global to break into direct-to-device market
 - <a href="https://www.nasa.gov/image-article/artemis-ii-upper-stage-delivered-to-kennedy/" >🔗</a> **[NASA]** Artemis II Upper Stage Delivered to Kennedy
 - <a href="https://www.nasa.gov/image-article/nasas-dawn-sees-crescent-ceres/" >🔗</a> **[NASA]** NASA’s Dawn Sees Crescent Ceres
 - <a href="https://spacepolicyonline.com/news/rifs-at-nasa-headquarters-begin/" >🔗</a> **[SpacePolicyOnline.com]** RIFs at NASA Headquarters Begin
@@ -103,8 +105,6 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 - <a href="https://spacenews.com/space-symposium-to-break-records/" >🔗</a> **[SpaceNews]** Space Symposium to break records
 - <a href="https://arstechnica.com/uncategorized/2025/03/after-years-of-acceleration-has-spacex-finally-reached-its-speed-limit/" >🔗</a> **[Arstechnica]** After years of acceleration, has SpaceX finally reached its speed limit?
 - <a href="https://arstechnica.com/space/2025/03/after-years-of-acceleration-has-spacex-finally-reached-its-speed-limit/" >🔗</a> **[Arstechnica]** What’s behind the recent string of failures and delays at SpaceX?
-- <a href="https://spacenews.com/voyager-palantir-deepen-alliance-to-develop-military-space-tech/" >🔗</a> **[SpaceNews]** Voyager, Palantir deepen alliance to develop military space tech
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/03/Hera_asteroid_mission_s_Mars_flyby" >🔗</a> **[ESA]** Hera asteroid mission’s Mars flyby
 
 
 ### Launch-related News 🚀
@@ -123,7 +123,7 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250310T190124">2025-03-10 19:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250310T193106">2025-03-10 19:31:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
