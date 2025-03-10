@@ -95,6 +95,8 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/03/Hera_asteroid_mission_s_Mars_flyby" >🔗</a> **[ESA]** Hera asteroid mission’s Mars flyby
+- <a href="https://spacenews.com/voyager-palantir-deepen-alliance-to-develop-military-space-tech/" >🔗</a> **[SpaceNews]** Voyager, Palantir deepen alliance to develop military space tech
 - <a href="https://europeanspaceflight.com/testing-of-key-callisto-reusable-rocket-demonstrator-component-underway/" >🔗</a> **[European Spaceflight]** Testing of Key Callisto Reusable Rocket Demonstrator Component Underway
 - <a href="https://science.nasa.gov/missions/webb/nasas-webb-peers-deeper-into-mysterious-flame-nebula/" >🔗</a> **[NASA]** NASA’s Webb Peers Deeper into Mysterious Flame Nebula
 - <a href="https://www.esa.int/Space_Safety/Hera/Watch_live_Images_from_Hera_s_Mars_flyby" >🔗</a> **[ESA]** Watch live: Images from Hera’s Mars flyby
@@ -103,8 +105,6 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 - <a href="https://spacenews.com/leolabs-wins-contract-to-deploy-space-monitoring-radar-in-indo-pacific-region/" >🔗</a> **[SpaceNews]** LeoLabs wins contract to deploy space-monitoring radar in Indo-Pacific region
 - <a href="https://spacenews.com/america-needs-a-strong-nasa/" >🔗</a> **[SpaceNews]** America needs a strong NASA
 - <a href="https://spacenews.com/rivada-eyes-u-s-government-contracts-as-it-prepares-to-deploy-600-satellite-network/" >🔗</a> **[SpaceNews]** Rivada eyes U.S. government contracts as it prepares to deploy 600-satellite network
-- <a href="https://spacenews.com/thales-alenia-space-wins-sky-perfect-jsat-order-in-tight-geo-market/" >🔗</a> **[SpaceNews]** Thales Alenia Space wins SKY Perfect JSAT order in tight GEO market
-- <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/moon-mascot-nasa-artemis-ii-zgi-design-challenge/" >🔗</a> **[NASA]** Moon Mascot: NASA Artemis II ZGI Design Challenge
 
 
 ### Launch-related News 🚀
@@ -123,7 +123,7 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250310T150132">2025-03-10 15:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250310T153251">2025-03-10 15:32:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
