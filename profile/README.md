@@ -95,16 +95,16 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-closes-offices-lays-off-staff-as-it-prepares-for-larger-workforce-reductions/" >🔗</a> **[SpaceNews]** NASA closes offices, lays off staff as it prepares for larger workforce reductions
+- <a href="https://spacenews.com/space-symposium-to-break-records/" >🔗</a> **[SpaceNews]** Space Symposium to break records
+- <a href="https://arstechnica.com/space/2025/03/after-years-of-acceleration-has-spacex-finally-reached-its-speed-limit/" >🔗</a> **[Arstechnica]** What’s behind the recent string of failures and delays at SpaceX?
+- <a href="https://arstechnica.com/uncategorized/2025/03/after-years-of-acceleration-has-spacex-finally-reached-its-speed-limit/" >🔗</a> **[Arstechnica]** After years of acceleration, has SpaceX finally reached its speed limit?
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/03/Hera_asteroid_mission_s_Mars_flyby" >🔗</a> **[ESA]** Hera asteroid mission’s Mars flyby
 - <a href="https://spacenews.com/voyager-palantir-deepen-alliance-to-develop-military-space-tech/" >🔗</a> **[SpaceNews]** Voyager, Palantir deepen alliance to develop military space tech
 - <a href="https://europeanspaceflight.com/testing-of-key-callisto-reusable-rocket-demonstrator-component-underway/" >🔗</a> **[European Spaceflight]** Testing of Key Callisto Reusable Rocket Demonstrator Component Underway
 - <a href="https://science.nasa.gov/missions/webb/nasas-webb-peers-deeper-into-mysterious-flame-nebula/" >🔗</a> **[NASA]** NASA’s Webb Peers Deeper into Mysterious Flame Nebula
 - <a href="https://www.esa.int/Space_Safety/Hera/Watch_live_Images_from_Hera_s_Mars_flyby" >🔗</a> **[ESA]** Watch live: Images from Hera’s Mars flyby
 - <a href="https://spacenews.com/space-ma-poised-for-takeoff-in-2025/" >🔗</a> **[SpaceNews]** Space M&A poised for takeoff in 2025
-- <a href="https://spacenews.com/spacewerx-selects-eight-companies-for-440-million-in-public-private-partnerships/" >🔗</a> **[SpaceNews]** SpaceWERX selects eight companies for $440 million in public-private partnerships
-- <a href="https://spacenews.com/leolabs-wins-contract-to-deploy-space-monitoring-radar-in-indo-pacific-region/" >🔗</a> **[SpaceNews]** LeoLabs wins contract to deploy space-monitoring radar in Indo-Pacific region
-- <a href="https://spacenews.com/america-needs-a-strong-nasa/" >🔗</a> **[SpaceNews]** America needs a strong NASA
-- <a href="https://spacenews.com/rivada-eyes-u-s-government-contracts-as-it-prepares-to-deploy-600-satellite-network/" >🔗</a> **[SpaceNews]** Rivada eyes U.S. government contracts as it prepares to deploy 600-satellite network
 
 
 ### Launch-related News 🚀
@@ -123,7 +123,7 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250310T170125">2025-03-10 17:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250310T173331">2025-03-10 17:33:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
