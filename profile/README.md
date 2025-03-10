@@ -95,16 +95,16 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/swissto12-to-build-small-asia-focused-direct-to-device-geo-satellite/" >🔗</a> **[SpaceNews]** Swissto12 to build small Asia-focused direct-to-device GEO satellite
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/03/Hera_Mars_flyby" >🔗</a> **[ESA]** Hera Mars flyby
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/03/Hera_Target_Deimos" >🔗</a> **[ESA]** Hera: Target Deimos
+- <a href="https://spacenews.com/cygnus-issue-causes-changes-in-iss-cargo-missions/" >🔗</a> **[SpaceNews]** Cygnus issue causes changes in ISS cargo missions
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/03/European_engineers_give_Orion_its_wings" >🔗</a> **[ESA]** European engineers give Orion its wings
+- <a href="https://spacenews.com/deep-blue-aerospace-raises-new-funds-targets-mid-year-orbital-launch/" >🔗</a> **[SpaceNews]** Deep Blue Aerospace raises new funds, targets mid-year orbital launch
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-march-7-2025/" >🔗</a> **[NASA]** Station Science Top News: March 7, 2025
+- <a href="https://spacenews.com/swissto12-to-build-small-asia-focused-direct-to-device-geo-satellite/" >🔗</a> **[SpaceNews]** Swissto12 to build small Asia-focused direct-to-device GEO satellite
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/james-gentile-shaping-the-artemis-generation-one-simulation-at-a-time/" >🔗</a> **[NASA]** James Gentile: Shaping the Artemis Generation, One Simulation at a Time
 - <a href="https://spaceflightnow.com/2025/03/10/live-coverage-spacex-to-launch-nasas-spherex-and-punch-spacecraft-on-falcon-9-rocket-from-vandenberg/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch NASA’s SPHEREx and PUNCH spacecraft on Falcon 9 rocket from Vandenberg
 - <a href="https://spacenews.com/trump-says-mars-missions-are-of-interest-but-not-a-top-priority/" >🔗</a> **[SpaceNews]** Trump says Mars missions are of interest but not a top priority
-- <a href="https://spacenews.com/china-expands-secretive-satellite-series-with-launch-of-tjs-15/" >🔗</a> **[SpaceNews]** China expands secretive satellite series with launch of TJS-15
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-march-9-16-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy March 9-16, 2025
-- <a href="https://tlpnetwork.com/news/america/us-space-force-x-37b-secert-spaceplane-returns-to-earth-after-434-days-in-space" >🔗</a> **[The Launch Pad]** US Space Force X-37B Secert Spaceplane Returns to Earth After 434 Days in Space
-- <a href="https://spacenews.com/tracking-doges-impact-on-space-and-the-federal-workforce/" >🔗</a> **[SpaceNews]** Tracking DOGE’s impact on space and the federal workforce
-- <a href="https://www.nasaspaceflight.com/2025/03/spherex-punch-launch/" >🔗</a> **[NASASpaceflight]** NASA, SpaceX to launch SPHEREx observatory and PUNCH heliophysics mission from California
 
 
 ### Launch-related News 🚀
@@ -123,7 +123,7 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250310T110115">2025-03-10 11:01:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250310T113107">2025-03-10 11:31:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
