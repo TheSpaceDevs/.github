@@ -95,6 +95,7 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/james-gentile-shaping-the-artemis-generation-one-simulation-at-a-time/" >🔗</a> **[NASA]** James Gentile: Shaping the Artemis Generation, One Simulation at a Time
 - <a href="https://spaceflightnow.com/2025/03/10/live-coverage-spacex-to-launch-nasas-spherex-and-punch-spacecraft-on-falcon-9-rocket-from-vandenberg/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch NASA’s SPHEREx and PUNCH spacecraft on Falcon 9 rocket from Vandenberg
 - <a href="https://spacenews.com/trump-says-mars-missions-are-of-interest-but-not-a-top-priority/" >🔗</a> **[SpaceNews]** Trump says Mars missions are of interest but not a top priority
 - <a href="https://spacenews.com/china-expands-secretive-satellite-series-with-launch-of-tjs-15/" >🔗</a> **[SpaceNews]** China expands secretive satellite series with launch of TJS-15
@@ -104,7 +105,6 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 - <a href="https://www.nasaspaceflight.com/2025/03/spherex-punch-launch/" >🔗</a> **[NASASpaceflight]** NASA, SpaceX to launch SPHEREx observatory and PUNCH heliophysics mission from California
 - <a href="https://science.nasa.gov/missions/hubble/hubble-unveils-a-glittering-view-of-sh2-284/" >🔗</a> **[NASA]** Hubble Unveils a Glittering View of Sh2-284
 - <a href="https://science.nasa.gov/centers-and-facilities/goddard/hubble-jams-with-a-cosmic-guitar/" >🔗</a> **[NASA]** Hubble Jams With A Cosmic Guitar
-- <a href="https://science.nasa.gov/missions/hubble/hubble-spies-a-spectacular-starburst-galaxy/" >🔗</a> **[NASA]** Hubble Spies a Spectacular Starburst Galaxy
 
 
 ### Launch-related News 🚀
@@ -123,7 +123,7 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250310T093110">2025-03-10 09:31:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250310T100134">2025-03-10 10:01:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
