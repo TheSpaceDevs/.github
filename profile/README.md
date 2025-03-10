@@ -95,16 +95,16 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/evolving-threats-from-cyber-to-lasers-and-jammers/" >🔗</a> **[SpaceNews]** Evolving threats from cyber to lasers and jammers
+- <a href="https://spaceflightnow.com/2025/03/10/spacex-details-falcon-9-anomaly-that-temporarily-grounded-the-rocket-fleet/" >🔗</a> **[Spaceflight Now]** SpaceX details Falcon 9 anomaly that temporarily grounded the rocket fleet
 - <a href="https://spacenews.com/intelligence-agency-copes-with-workforce-reductions-amid-ai-modernization/" >🔗</a> **[SpaceNews]** Intelligence agency copes with workforce reductions amid AI modernization
+- <a href="https://www.nasaspaceflight.com/2025/03/launch-roundup-031025/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX, Rocket Lab, and Firefly set to launch amid busy launch manifest
 - <a href="https://www.nasa.gov/directorates/armd/aosp/atm-x/paav/about-paav/" >🔗</a> **[NASA]** About Pathfinding for Airspace with Autonomous Vehicles
 - <a href="https://www.nasa.gov/missions/station/iss-research/nasa-partners-to-conduct-space-station-research-during-expedition-73/" >🔗</a> **[NASA]** NASA, Partners to Conduct Space Station Research During Expedition 73
 - <a href="https://spacenews.com/relativity-names-eric-schmidt-as-ceo-as-it-updates-terran-r-development/" >🔗</a> **[SpaceNews]** Relativity names Eric Schmidt as CEO as it updates Terran R development
 - <a href="https://arstechnica.com/space/2025/03/former-google-ceo-eric-schmidt-is-the-new-leader-of-relativity-space/" >🔗</a> **[Arstechnica]** Former Google CEO Eric Schmidt is the new leader of Relativity Space
 - <a href="https://spacenews.com/emerging-launch-companies-see-strong-demand-but-look-for-government-support/" >🔗</a> **[SpaceNews]** Emerging launch companies see strong demand but look for government support
 - <a href="https://www.nasa.gov/history/40-years-ago-space-shuttle-atlantis-makes-its-public-debut/" >🔗</a> **[NASA]** 40 Years Ago: Space Shuttle Atlantis Makes its Public Debut
-- <a href="https://tlpnetwork.com/news/america/nasa-faces-extinction-layoffs-and-office-closures-as-largest-budget-cut-since-apollo-begins" >🔗</a> **[The Launch Pad]** NASA Faces "Extinction" Layoffs and Office Closures As Largest Budget Cut Since Apollo Begins
-- <a href="https://spacenews.com/ses-invests-in-lynk-global-to-break-into-direct-to-device-market/" >🔗</a> **[SpaceNews]** SES invests in Lynk Global to break into direct-to-device market
-- <a href="https://www.nasa.gov/image-article/artemis-ii-upper-stage-delivered-to-kennedy/" >🔗</a> **[NASA]** Artemis II Upper Stage Delivered to Kennedy
 
 
 ### Launch-related News 🚀
@@ -123,7 +123,7 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250310T230119">2025-03-10 23:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250310T233116">2025-03-10 23:31:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
