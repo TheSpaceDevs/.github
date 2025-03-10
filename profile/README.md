@@ -58,8 +58,8 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250315T000000">2025-03-15 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | The Lightning God Reigns (iQPS Launch 1)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20250315T000000Z%2F20250315T020000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | The Lightning God Reigns (iQPS Launch 1)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250315T103000">2025-03-15 10:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Angara 1.2 | Kosmos (Unknown Payload)&location=Plesetsk Cosmodrome, Russian Federation&dates=20250315T103000Z%2F20250315T130000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Angara 1.2 | Kosmos (Unknown Payload)** from Plesetsk Cosmodrome, Russian Federation.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250315T132500">2025-03-15 13:25:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Firefly Alpha | FLTA006 (Message in a Booster)&location=Vandenberg SFB, CA, USA&dates=20250315T132500Z%2F20250315T141700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Firefly Alpha | FLTA006 (Message in a Booster)** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250318T013100">2025-03-18 01:31:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | High Five (Kinéis 21-25)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20250318T013100Z%2F20250318T013100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | High Five (Kinéis 21-25)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250331T000000">2025-03-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ceres-1 | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20250331T000000Z%2F20250331T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ceres-1 | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250331T000000">2025-03-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | High Five (Kinéis 21-25)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20250331T000000Z%2F20250331T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | High Five (Kinéis 21-25)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -95,16 +95,16 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/artemis-ii-upper-stage-delivered-to-kennedy/" >🔗</a> **[NASA]** Artemis II Upper Stage Delivered to Kennedy
+- <a href="https://www.nasa.gov/image-article/nasas-dawn-sees-crescent-ceres/" >🔗</a> **[NASA]** NASA’s Dawn Sees Crescent Ceres
+- <a href="https://spacepolicyonline.com/news/rifs-at-nasa-headquarters-begin/" >🔗</a> **[SpacePolicyOnline.com]** RIFs at NASA Headquarters Begin
+- <a href="https://www.nasa.gov/general/nasa-ames-science-directorate-stars-of-the-month-march-2025/" >🔗</a> **[NASA]** NASA Ames Science Directorate: Stars of the Month – March 2025
 - <a href="https://spacenews.com/nasa-closes-offices-lays-off-staff-as-it-prepares-for-larger-workforce-reductions/" >🔗</a> **[SpaceNews]** NASA closes offices, lays off staff as it prepares for larger workforce reductions
 - <a href="https://spacenews.com/space-symposium-to-break-records/" >🔗</a> **[SpaceNews]** Space Symposium to break records
-- <a href="https://arstechnica.com/space/2025/03/after-years-of-acceleration-has-spacex-finally-reached-its-speed-limit/" >🔗</a> **[Arstechnica]** What’s behind the recent string of failures and delays at SpaceX?
 - <a href="https://arstechnica.com/uncategorized/2025/03/after-years-of-acceleration-has-spacex-finally-reached-its-speed-limit/" >🔗</a> **[Arstechnica]** After years of acceleration, has SpaceX finally reached its speed limit?
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/03/Hera_asteroid_mission_s_Mars_flyby" >🔗</a> **[ESA]** Hera asteroid mission’s Mars flyby
+- <a href="https://arstechnica.com/space/2025/03/after-years-of-acceleration-has-spacex-finally-reached-its-speed-limit/" >🔗</a> **[Arstechnica]** What’s behind the recent string of failures and delays at SpaceX?
 - <a href="https://spacenews.com/voyager-palantir-deepen-alliance-to-develop-military-space-tech/" >🔗</a> **[SpaceNews]** Voyager, Palantir deepen alliance to develop military space tech
-- <a href="https://europeanspaceflight.com/testing-of-key-callisto-reusable-rocket-demonstrator-component-underway/" >🔗</a> **[European Spaceflight]** Testing of Key Callisto Reusable Rocket Demonstrator Component Underway
-- <a href="https://science.nasa.gov/missions/webb/nasas-webb-peers-deeper-into-mysterious-flame-nebula/" >🔗</a> **[NASA]** NASA’s Webb Peers Deeper into Mysterious Flame Nebula
-- <a href="https://www.esa.int/Space_Safety/Hera/Watch_live_Images_from_Hera_s_Mars_flyby" >🔗</a> **[ESA]** Watch live: Images from Hera’s Mars flyby
-- <a href="https://spacenews.com/space-ma-poised-for-takeoff-in-2025/" >🔗</a> **[SpaceNews]** Space M&A poised for takeoff in 2025
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/03/Hera_asteroid_mission_s_Mars_flyby" >🔗</a> **[ESA]** Hera asteroid mission’s Mars flyby
 
 
 ### Launch-related News 🚀
@@ -123,7 +123,7 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250310T180132">2025-03-10 18:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250310T183618">2025-03-10 18:36:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
