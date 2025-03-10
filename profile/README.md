@@ -95,6 +95,8 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/swissto12-to-build-small-asia-focused-direct-to-device-geo-satellite/" >🔗</a> **[SpaceNews]** Swissto12 to build small Asia-focused direct-to-device GEO satellite
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-march-7-2025/" >🔗</a> **[NASA]** Station Science Top News: March 7, 2025
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/james-gentile-shaping-the-artemis-generation-one-simulation-at-a-time/" >🔗</a> **[NASA]** James Gentile: Shaping the Artemis Generation, One Simulation at a Time
 - <a href="https://spaceflightnow.com/2025/03/10/live-coverage-spacex-to-launch-nasas-spherex-and-punch-spacecraft-on-falcon-9-rocket-from-vandenberg/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch NASA’s SPHEREx and PUNCH spacecraft on Falcon 9 rocket from Vandenberg
 - <a href="https://spacenews.com/trump-says-mars-missions-are-of-interest-but-not-a-top-priority/" >🔗</a> **[SpaceNews]** Trump says Mars missions are of interest but not a top priority
@@ -103,8 +105,6 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 - <a href="https://tlpnetwork.com/news/america/us-space-force-x-37b-secert-spaceplane-returns-to-earth-after-434-days-in-space" >🔗</a> **[The Launch Pad]** US Space Force X-37B Secert Spaceplane Returns to Earth After 434 Days in Space
 - <a href="https://spacenews.com/tracking-doges-impact-on-space-and-the-federal-workforce/" >🔗</a> **[SpaceNews]** Tracking DOGE’s impact on space and the federal workforce
 - <a href="https://www.nasaspaceflight.com/2025/03/spherex-punch-launch/" >🔗</a> **[NASASpaceflight]** NASA, SpaceX to launch SPHEREx observatory and PUNCH heliophysics mission from California
-- <a href="https://science.nasa.gov/missions/hubble/hubble-unveils-a-glittering-view-of-sh2-284/" >🔗</a> **[NASA]** Hubble Unveils a Glittering View of Sh2-284
-- <a href="https://science.nasa.gov/centers-and-facilities/goddard/hubble-jams-with-a-cosmic-guitar/" >🔗</a> **[NASA]** Hubble Jams With A Cosmic Guitar
 
 
 ### Launch-related News 🚀
@@ -123,7 +123,7 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250310T100134">2025-03-10 10:01:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250310T103303">2025-03-10 10:33:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
