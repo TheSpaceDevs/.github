@@ -95,6 +95,8 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/emerging-launch-companies-see-strong-demand-but-look-for-government-support/" >🔗</a> **[SpaceNews]** Emerging launch companies see strong demand but look for government support
+- <a href="https://www.nasa.gov/history/40-years-ago-space-shuttle-atlantis-makes-its-public-debut/" >🔗</a> **[NASA]** 40 Years Ago: Space Shuttle Atlantis Makes its Public Debut
 - <a href="https://tlpnetwork.com/news/america/nasa-faces-extinction-layoffs-and-office-closures-as-largest-budget-cut-since-apollo-begins" >🔗</a> **[The Launch Pad]** NASA Faces "Extinction" Layoffs and Office Closures As Largest Budget Cut Since Apollo Begins
 - <a href="https://spacenews.com/ses-invests-in-lynk-global-to-break-into-direct-to-device-market/" >🔗</a> **[SpaceNews]** SES invests in Lynk Global to break into direct-to-device market
 - <a href="https://www.nasa.gov/image-article/artemis-ii-upper-stage-delivered-to-kennedy/" >🔗</a> **[NASA]** Artemis II Upper Stage Delivered to Kennedy
@@ -103,8 +105,6 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 - <a href="https://www.nasa.gov/general/nasa-ames-science-directorate-stars-of-the-month-march-2025/" >🔗</a> **[NASA]** NASA Ames Science Directorate: Stars of the Month – March 2025
 - <a href="https://spacenews.com/nasa-closes-offices-lays-off-staff-as-it-prepares-for-larger-workforce-reductions/" >🔗</a> **[SpaceNews]** NASA closes offices, lays off staff as it prepares for larger workforce reductions
 - <a href="https://spacenews.com/space-symposium-to-break-records/" >🔗</a> **[SpaceNews]** Space Symposium to break records
-- <a href="https://arstechnica.com/uncategorized/2025/03/after-years-of-acceleration-has-spacex-finally-reached-its-speed-limit/" >🔗</a> **[Arstechnica]** After years of acceleration, has SpaceX finally reached its speed limit?
-- <a href="https://arstechnica.com/space/2025/03/after-years-of-acceleration-has-spacex-finally-reached-its-speed-limit/" >🔗</a> **[Arstechnica]** What’s behind the recent string of failures and delays at SpaceX?
 
 
 ### Launch-related News 🚀
@@ -123,7 +123,7 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250310T200138">2025-03-10 20:01:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250310T203317">2025-03-10 20:33:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
