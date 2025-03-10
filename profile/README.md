@@ -95,6 +95,7 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/intelligence-agency-copes-with-workforce-reductions-amid-ai-modernization/" >🔗</a> **[SpaceNews]** Intelligence agency copes with workforce reductions amid AI modernization
 - <a href="https://www.nasa.gov/directorates/armd/aosp/atm-x/paav/about-paav/" >🔗</a> **[NASA]** About Pathfinding for Airspace with Autonomous Vehicles
 - <a href="https://www.nasa.gov/missions/station/iss-research/nasa-partners-to-conduct-space-station-research-during-expedition-73/" >🔗</a> **[NASA]** NASA, Partners to Conduct Space Station Research During Expedition 73
 - <a href="https://spacenews.com/relativity-names-eric-schmidt-as-ceo-as-it-updates-terran-r-development/" >🔗</a> **[SpaceNews]** Relativity names Eric Schmidt as CEO as it updates Terran R development
@@ -104,7 +105,6 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 - <a href="https://tlpnetwork.com/news/america/nasa-faces-extinction-layoffs-and-office-closures-as-largest-budget-cut-since-apollo-begins" >🔗</a> **[The Launch Pad]** NASA Faces "Extinction" Layoffs and Office Closures As Largest Budget Cut Since Apollo Begins
 - <a href="https://spacenews.com/ses-invests-in-lynk-global-to-break-into-direct-to-device-market/" >🔗</a> **[SpaceNews]** SES invests in Lynk Global to break into direct-to-device market
 - <a href="https://www.nasa.gov/image-article/artemis-ii-upper-stage-delivered-to-kennedy/" >🔗</a> **[NASA]** Artemis II Upper Stage Delivered to Kennedy
-- <a href="https://www.nasa.gov/image-article/nasas-dawn-sees-crescent-ceres/" >🔗</a> **[NASA]** NASA’s Dawn Sees Crescent Ceres
 
 
 ### Launch-related News 🚀
@@ -123,7 +123,7 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250310T220127">2025-03-10 22:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250310T223345">2025-03-10 22:33:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
