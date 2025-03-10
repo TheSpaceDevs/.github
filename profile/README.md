@@ -95,16 +95,16 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacewerx-selects-eight-companies-for-440-million-in-public-private-partnerships/" >🔗</a> **[SpaceNews]** SpaceWERX selects eight companies for $440 million in public-private partnerships
+- <a href="https://spacenews.com/leolabs-wins-contract-to-deploy-space-monitoring-radar-in-indo-pacific-region/" >🔗</a> **[SpaceNews]** LeoLabs wins contract to deploy space-monitoring radar in Indo-Pacific region
+- <a href="https://spacenews.com/america-needs-a-strong-nasa/" >🔗</a> **[SpaceNews]** America needs a strong NASA
+- <a href="https://spacenews.com/rivada-eyes-u-s-government-contracts-as-it-prepares-to-deploy-600-satellite-network/" >🔗</a> **[SpaceNews]** Rivada eyes U.S. government contracts as it prepares to deploy 600-satellite network
 - <a href="https://spacenews.com/thales-alenia-space-wins-sky-perfect-jsat-order-in-tight-geo-market/" >🔗</a> **[SpaceNews]** Thales Alenia Space wins SKY Perfect JSAT order in tight GEO market
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/moon-mascot-nasa-artemis-ii-zgi-design-challenge/" >🔗</a> **[NASA]** Moon Mascot: NASA Artemis II ZGI Design Challenge
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/03/Hera_Mars_flyby" >🔗</a> **[ESA]** Hera Mars flyby
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/03/Hera_Target_Deimos" >🔗</a> **[ESA]** Hera: Target Deimos
 - <a href="https://spacenews.com/cygnus-issue-causes-changes-in-iss-cargo-missions/" >🔗</a> **[SpaceNews]** Cygnus issue causes changes in ISS cargo missions
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/03/European_engineers_give_Orion_its_wings" >🔗</a> **[ESA]** European engineers give Orion its wings
-- <a href="https://spacenews.com/deep-blue-aerospace-raises-new-funds-targets-mid-year-orbital-launch/" >🔗</a> **[SpaceNews]** Deep Blue Aerospace raises new funds, targets mid-year orbital launch
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-march-7-2025/" >🔗</a> **[NASA]** Station Science Top News: March 7, 2025
-- <a href="https://spacenews.com/swissto12-to-build-small-asia-focused-direct-to-device-geo-satellite/" >🔗</a> **[SpaceNews]** Swissto12 to build small Asia-focused direct-to-device GEO satellite
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/james-gentile-shaping-the-artemis-generation-one-simulation-at-a-time/" >🔗</a> **[NASA]** James Gentile: Shaping the Artemis Generation, One Simulation at a Time
 
 
 ### Launch-related News 🚀
@@ -123,7 +123,7 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250310T130658">2025-03-10 13:06:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250310T133603">2025-03-10 13:36:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
