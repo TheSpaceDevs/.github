@@ -95,6 +95,9 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/station/iss-research/nasa-partners-to-conduct-space-station-research-during-expedition-73/" >🔗</a> **[NASA]** NASA, Partners to Conduct Space Station Research During Expedition 73
+- <a href="https://spacenews.com/relativity-names-eric-schmidt-as-ceo-as-it-updates-terran-r-development/" >🔗</a> **[SpaceNews]** Relativity names Eric Schmidt as CEO as it updates Terran R development
+- <a href="https://arstechnica.com/space/2025/03/former-google-ceo-eric-schmidt-is-the-new-leader-of-relativity-space/" >🔗</a> **[Arstechnica]** Former Google CEO Eric Schmidt is the new leader of Relativity Space
 - <a href="https://spacenews.com/emerging-launch-companies-see-strong-demand-but-look-for-government-support/" >🔗</a> **[SpaceNews]** Emerging launch companies see strong demand but look for government support
 - <a href="https://www.nasa.gov/history/40-years-ago-space-shuttle-atlantis-makes-its-public-debut/" >🔗</a> **[NASA]** 40 Years Ago: Space Shuttle Atlantis Makes its Public Debut
 - <a href="https://tlpnetwork.com/news/america/nasa-faces-extinction-layoffs-and-office-closures-as-largest-budget-cut-since-apollo-begins" >🔗</a> **[The Launch Pad]** NASA Faces "Extinction" Layoffs and Office Closures As Largest Budget Cut Since Apollo Begins
@@ -102,9 +105,6 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 - <a href="https://www.nasa.gov/image-article/artemis-ii-upper-stage-delivered-to-kennedy/" >🔗</a> **[NASA]** Artemis II Upper Stage Delivered to Kennedy
 - <a href="https://www.nasa.gov/image-article/nasas-dawn-sees-crescent-ceres/" >🔗</a> **[NASA]** NASA’s Dawn Sees Crescent Ceres
 - <a href="https://spacepolicyonline.com/news/rifs-at-nasa-headquarters-begin/" >🔗</a> **[SpacePolicyOnline.com]** RIFs at NASA Headquarters Begin
-- <a href="https://www.nasa.gov/general/nasa-ames-science-directorate-stars-of-the-month-march-2025/" >🔗</a> **[NASA]** NASA Ames Science Directorate: Stars of the Month – March 2025
-- <a href="https://spacenews.com/nasa-closes-offices-lays-off-staff-as-it-prepares-for-larger-workforce-reductions/" >🔗</a> **[SpaceNews]** NASA closes offices, lays off staff as it prepares for larger workforce reductions
-- <a href="https://spacenews.com/space-symposium-to-break-records/" >🔗</a> **[SpaceNews]** Space Symposium to break records
 
 
 ### Launch-related News 🚀
@@ -123,7 +123,7 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250310T210122">2025-03-10 21:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250310T213120">2025-03-10 21:31:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
