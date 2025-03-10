@@ -95,6 +95,8 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/thales-alenia-space-wins-sky-perfect-jsat-order-in-tight-geo-market/" >🔗</a> **[SpaceNews]** Thales Alenia Space wins SKY Perfect JSAT order in tight GEO market
+- <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/moon-mascot-nasa-artemis-ii-zgi-design-challenge/" >🔗</a> **[NASA]** Moon Mascot: NASA Artemis II ZGI Design Challenge
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/03/Hera_Mars_flyby" >🔗</a> **[ESA]** Hera Mars flyby
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/03/Hera_Target_Deimos" >🔗</a> **[ESA]** Hera: Target Deimos
 - <a href="https://spacenews.com/cygnus-issue-causes-changes-in-iss-cargo-missions/" >🔗</a> **[SpaceNews]** Cygnus issue causes changes in ISS cargo missions
@@ -103,8 +105,6 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-march-7-2025/" >🔗</a> **[NASA]** Station Science Top News: March 7, 2025
 - <a href="https://spacenews.com/swissto12-to-build-small-asia-focused-direct-to-device-geo-satellite/" >🔗</a> **[SpaceNews]** Swissto12 to build small Asia-focused direct-to-device GEO satellite
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/james-gentile-shaping-the-artemis-generation-one-simulation-at-a-time/" >🔗</a> **[NASA]** James Gentile: Shaping the Artemis Generation, One Simulation at a Time
-- <a href="https://spaceflightnow.com/2025/03/10/live-coverage-spacex-to-launch-nasas-spherex-and-punch-spacecraft-on-falcon-9-rocket-from-vandenberg/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch NASA’s SPHEREx and PUNCH spacecraft on Falcon 9 rocket from Vandenberg
-- <a href="https://spacenews.com/trump-says-mars-missions-are-of-interest-but-not-a-top-priority/" >🔗</a> **[SpaceNews]** Trump says Mars missions are of interest but not a top priority
 
 
 ### Launch-related News 🚀
@@ -123,7 +123,7 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250310T120222">2025-03-10 12:02:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250310T124254">2025-03-10 12:42:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
