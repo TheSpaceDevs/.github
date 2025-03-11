@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/long-march-8-launches-thousand-sails-satellites-from-commercial-spaceport/" >🔗</a> **[SpaceNews]** Long March 8 launches Thousand Sails satellites from commercial spaceport
+- <a href="https://science.nasa.gov/science-research/earth-science/the-nasa-dc-8-retires-reflections-on-its-contributions-to-earth-system-science/" >🔗</a> **[NASA]** The NASA DC-8 Retires: Reflections on its Contributions to Earth System Science
+- <a href="https://science.nasa.gov/science-research/earth-science/summary-of-special-engage-session-on-remote-sensing-and-the-future-of-earth-observations/" >🔗</a> **[NASA]** Summary of Special Engage Session on “Remote Sensing and the Future of Earth Observations”
 - <a href="https://spacenews.com/arianespace-sees-stronger-institutional-demand-for-ariane-6-amid-shifting-geopolitics/" >🔗</a> **[SpaceNews]** Arianespace sees stronger institutional demand for Ariane 6 amid shifting geopolitics
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-jonny-kim-to-discuss-upcoming-launch-mission/" >🔗</a> **[NASA]** NASA Astronaut Jonny Kim to Discuss Upcoming Launch, Mission
 - <a href="https://spacenews.com/viasat-and-space42-co-invest-in-shared-direct-to-device-satellite-prototype/" >🔗</a> **[SpaceNews]** Viasat and Space42 co-invest in shared direct-to-device satellite prototype
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/earth/how-do-we-know-the-earth-isnt-flat-we-asked-a-nasa-expert-episode-53/" >🔗</a> **[NASA]** How Do We Know the Earth Isn’t Flat? We Asked a NASA Expert: Episode 53
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasas-chevron-technology-quiets-the-skies/" >🔗</a> **[NASA]** NASA’s Chevron Technology Quiets the Skies
 - <a href="https://www.nasa.gov/missions/roman-space-telescope/team-preps-to-study-dark-energy-via-exploding-stars-with-nasas-roman/" >🔗</a> **[NASA]** Team Preps to Study Dark Energy via Exploding Stars With NASA’s Roman
-- <a href="https://www.nasaspaceflight.com/2025/03/terran-r-update/" >🔗</a> **[NASASpaceflight]** Relativity Space makes significant progress on Terran R; flight hardware in production
-- <a href="https://spacenews.com/working-around-ongoing-supply-chain-bottlenecks/" >🔗</a> **[SpaceNews]** Working around ongoing supply-chain bottlenecks
-- <a href="https://spacenews.com/planetary-defense-may-get-a-boost-from-jared-isaacman/" >🔗</a> **[SpaceNews]** Planetary defense may get a boost from Jared Isaacman
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250311T190122">2025-03-11 19:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250311T193107">2025-03-11 19:31:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
