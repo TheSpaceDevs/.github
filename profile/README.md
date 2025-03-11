@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/long-march-8-launches-thousand-sails-satellites-from-commercial-spaceport/" >🔗</a> **[SpaceNews]** Long March 8 launches Thousand Sails satellites from commercial spaceport
-- <a href="https://science.nasa.gov/science-research/earth-science/the-nasa-dc-8-retires-reflections-on-its-contributions-to-earth-system-science/" >🔗</a> **[NASA]** The NASA DC-8 Retires: Reflections on its Contributions to Earth System Science
-- <a href="https://science.nasa.gov/science-research/earth-science/summary-of-special-engage-session-on-remote-sensing-and-the-future-of-earth-observations/" >🔗</a> **[NASA]** Summary of Special Engage Session on “Remote Sensing and the Future of Earth Observations”
-- <a href="https://spacenews.com/arianespace-sees-stronger-institutional-demand-for-ariane-6-amid-shifting-geopolitics/" >🔗</a> **[SpaceNews]** Arianespace sees stronger institutional demand for Ariane 6 amid shifting geopolitics
-- <a href="https://www.nasa.gov/news-release/nasa-astronaut-jonny-kim-to-discuss-upcoming-launch-mission/" >🔗</a> **[NASA]** NASA Astronaut Jonny Kim to Discuss Upcoming Launch, Mission
-- <a href="https://spacenews.com/viasat-and-space42-co-invest-in-shared-direct-to-device-satellite-prototype/" >🔗</a> **[SpaceNews]** Viasat and Space42 co-invest in shared direct-to-device satellite prototype
-- <a href="https://science.nasa.gov/universe/exoplanets/discovery-alert-super-earth-swings-from-super-heated-to-super-chill/" >🔗</a> **[NASA]** Discovery Alert: ‘Super-Earth’ Swings from Super-Heated to Super-Chill
-- <a href="https://www.nasa.gov/earth/how-do-we-know-the-earth-isnt-flat-we-asked-a-nasa-expert-episode-53/" >🔗</a> **[NASA]** How Do We Know the Earth Isn’t Flat? We Asked a NASA Expert: Episode 53
-- <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasas-chevron-technology-quiets-the-skies/" >🔗</a> **[NASA]** NASA’s Chevron Technology Quiets the Skies
-- <a href="https://www.nasa.gov/missions/roman-space-telescope/team-preps-to-study-dark-energy-via-exploding-stars-with-nasas-roman/" >🔗</a> **[NASA]** Team Preps to Study Dark Energy via Exploding Stars With NASA’s Roman
+- <a href="https://www.nasa.gov/general/nasa-continues-bionutrients-space-fermented-food-research/" >🔗</a> **[NASA]** NASA Continues BioNutrients Space-Fermented Food Research
+- <a href="https://www.nasa.gov/directorates/esdmd/hhp/human-system-risk-board/" >🔗</a> **[NASA]** Human System Risk Board
+- <a href="https://www.nasa.gov/directorates/esdmd/hhp/risk-to-vehicle-crew-egress-capability-and-task-performance-as-applied-to-earth-and-extraterrestrial-landings/" >🔗</a> **[NASA]** Risk to Vehicle Crew Egress Capability and Task Performance as Applied to Earth and Extraterrestrial Landings
+- <a href="https://www.nasa.gov/directorates/esdmd/hhp/electrical-shock-risk/" >🔗</a> **[NASA]** Risk to Crew Health Due to Electrical Shock (Electrical Shock Risk)
+- <a href="https://www.nasa.gov/directorates/esdmd/hhp/risk-of-urinary-retention/" >🔗</a> **[NASA]** Risk of Urinary Retention
+- <a href="https://www.nasa.gov/directorates/esdmd/hhp/risk-of-toxic-substance-exposure/" >🔗</a> **[NASA]** Risk of Toxic Substance Exposure
+- <a href="https://www.nasa.gov/directorates/esdmd/hhp/risk-of-spaceflight-associated-neuro-ocular-syndrome/" >🔗</a> **[NASA]** Risk of Spaceflight Associated Neuro-ocular Syndrome
+- <a href="https://www.nasa.gov/directorates/esdmd/hhp/risk-of-renal-stone-formation/" >🔗</a> **[NASA]** Risk of Renal Stone Formation
+- <a href="https://www.nasa.gov/directorates/esdmd/hhp/muscle-risk/" >🔗</a> **[NASA]** Risk of Reduced Physical Performance Capabilities Due to Reduced Muscle Size, Strength, and Endurance (Muscle Risk)
+- <a href="https://www.nasa.gov/directorates/esdmd/hhp/aerobic-risk/" >🔗</a> **[NASA]** Risk of Reduced Physical Performance Capabilities Due to Reduced Aerobic Capacity (Aerobic Risk)
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250311T210117">2025-03-11 21:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250311T213105">2025-03-11 21:31:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
