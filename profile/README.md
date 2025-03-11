@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-eyes-commercial-satellites-to-boost-surveillance-in-geostationary-orbit/" >🔗</a> **[SpaceNews]** Space Force eyes commercial satellites to boost surveillance in geostationary orbit
 - <a href="https://www.nasa.gov/general/nasa-continues-bionutrients-space-fermented-food-research/" >🔗</a> **[NASA]** NASA Continues BioNutrients Space-Fermented Food Research
 - <a href="https://www.nasa.gov/directorates/esdmd/hhp/human-system-risk-board/" >🔗</a> **[NASA]** Human System Risk Board
 - <a href="https://www.nasa.gov/directorates/esdmd/hhp/risk-to-vehicle-crew-egress-capability-and-task-performance-as-applied-to-earth-and-extraterrestrial-landings/" >🔗</a> **[NASA]** Risk to Vehicle Crew Egress Capability and Task Performance as Applied to Earth and Extraterrestrial Landings
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/directorates/esdmd/hhp/risk-of-spaceflight-associated-neuro-ocular-syndrome/" >🔗</a> **[NASA]** Risk of Spaceflight Associated Neuro-ocular Syndrome
 - <a href="https://www.nasa.gov/directorates/esdmd/hhp/risk-of-renal-stone-formation/" >🔗</a> **[NASA]** Risk of Renal Stone Formation
 - <a href="https://www.nasa.gov/directorates/esdmd/hhp/muscle-risk/" >🔗</a> **[NASA]** Risk of Reduced Physical Performance Capabilities Due to Reduced Muscle Size, Strength, and Endurance (Muscle Risk)
-- <a href="https://www.nasa.gov/directorates/esdmd/hhp/aerobic-risk/" >🔗</a> **[NASA]** Risk of Reduced Physical Performance Capabilities Due to Reduced Aerobic Capacity (Aerobic Risk)
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250311T213105">2025-03-11 21:31:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250311T220122">2025-03-11 22:01:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
