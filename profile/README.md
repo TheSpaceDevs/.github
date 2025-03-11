@@ -20,34 +20,39 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 12-21**. It is scheduled to be launched by *SpaceX*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral SFS, FL, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250311T031500">2025-03-11 03:15:00 UTC</a>.  Until
-then, this pad will have been used for 293
-out of 1008 launches from this location. The launch status is currently
+**Long March 8 | G60 Group TBD**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Wenchang_Commercial_Space_Launch_Site">Commercial LC-1</a>, Wenchang Space Launch Site, People's Republic of China*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250311T163100">2025-03-11 16:31:00 UTC</a>.  Until
+then, this pad will have been used for 0
+out of 35 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
 *Communications* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+into *a Polar Orbit
+(PO)*.
 <br>
 <blockquote>
-  A batch of 21 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  Low Earth Orbit communication satellites with Ku, Q and V band payloads for the G60 constellation operated by Shanghai Spacecom Satellite Technology (SSST) with funding backed by the Shanghai local government.
+
+Initial constellation will consist of 1296 satellites by 2027 with long term plans to expand it to 12000 satellites.
+
+First launch from the Wenchang Commercial Space Launch Site's LC-1.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+  <a href="https://en.wikipedia.org/wiki/Long_March_8" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
+  <a href="https://www.google.com/maps?q=19.597275,110.930753" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250311T163100">2025-03-11 16:31:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 8 | G60 Group TBD&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20250311T163100Z%2F20250311T170500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 8 | G60 Group TBD** from Wenchang Space Launch Site, People's Republic of China.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250312T031012">2025-03-12 03:10:12 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SPHEREx &amp; PUNCH&location=Vandenberg SFB, CA, USA&dates=20250312T031012Z%2F20250312T031012Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | SPHEREx & PUNCH** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250312T024800">2025-03-12 02:48:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-21&location=Cape Canaveral SFS, FL, USA&dates=20250312T024800Z%2F20250312T071900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-21** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250312T030957">2025-03-12 03:09:57 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SPHEREx &amp; PUNCH&location=Vandenberg SFB, CA, USA&dates=20250312T030957Z%2F20250312T031027Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | SPHEREx & PUNCH** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250312T234854">2025-03-12 23:48:54 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Crew-10&location=Kennedy Space Center, FL, USA&dates=20250312T234854Z%2F20250312T234854Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Crew-10** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250313T112300">2025-03-13 11:23:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-16&location=Cape Canaveral SFS, FL, USA&dates=20250313T112300Z%2F20250313T155400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-16** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250314T063900">2025-03-14 06:39:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Transporter 13 (Dedicated SSO Rideshare)&location=Vandenberg SFB, CA, USA&dates=20250314T063900Z%2F20250314T072500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Transporter 13 (Dedicated SSO Rideshare)** from Vandenberg SFB, CA, USA.
@@ -104,12 +109,11 @@ into *a Low Earth Orbit
 
 ### Launch-related News 🚀
 
-- <a href="https://www.nasaspaceflight.com/2025/03/launch-roundup-030425/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Starship and Ariane 6 set to launch after scrubs
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250311T040124">2025-03-11 04:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250311T043457">2025-03-11 04:34:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
