@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/arianespace-sees-stronger-institutional-demand-for-ariane-6-amid-shifting-geopolitics/" >🔗</a> **[SpaceNews]** Arianespace sees stronger institutional demand for Ariane 6 amid shifting geopolitics
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-jonny-kim-to-discuss-upcoming-launch-mission/" >🔗</a> **[NASA]** NASA Astronaut Jonny Kim to Discuss Upcoming Launch, Mission
 - <a href="https://spacenews.com/viasat-and-space42-co-invest-in-shared-direct-to-device-satellite-prototype/" >🔗</a> **[SpaceNews]** Viasat and Space42 co-invest in shared direct-to-device satellite prototype
 - <a href="https://science.nasa.gov/universe/exoplanets/discovery-alert-super-earth-swings-from-super-heated-to-super-chill/" >🔗</a> **[NASA]** Discovery Alert: ‘Super-Earth’ Swings from Super-Heated to Super-Chill
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2025/03/terran-r-update/" >🔗</a> **[NASASpaceflight]** Relativity Space makes significant progress on Terran R; flight hardware in production
 - <a href="https://spacenews.com/working-around-ongoing-supply-chain-bottlenecks/" >🔗</a> **[SpaceNews]** Working around ongoing supply-chain bottlenecks
 - <a href="https://spacenews.com/planetary-defense-may-get-a-boost-from-jared-isaacman/" >🔗</a> **[SpaceNews]** Planetary defense may get a boost from Jared Isaacman
-- <a href="https://spacenews.com/bringing-mars-to-earth-solving-mars-sample-return/" >🔗</a> **[SpaceNews]** Bringing Mars to Earth: solving Mars Sample Return
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250311T180128">2025-03-11 18:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250311T183730">2025-03-11 18:37:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
