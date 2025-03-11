@@ -95,16 +95,16 @@ First launch from the Wenchang Commercial Space Launch Site's LC-1.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/earth/how-do-we-know-the-earth-isnt-flat-we-asked-a-nasa-expert-episode-53/" >🔗</a> **[NASA]** How Do We Know the Earth Isn’t Flat? We Asked a NASA Expert: Episode 53
+- <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasas-chevron-technology-quiets-the-skies/" >🔗</a> **[NASA]** NASA’s Chevron Technology Quiets the Skies
 - <a href="https://www.nasa.gov/missions/roman-space-telescope/team-preps-to-study-dark-energy-via-exploding-stars-with-nasas-roman/" >🔗</a> **[NASA]** Team Preps to Study Dark Energy via Exploding Stars With NASA’s Roman
+- <a href="https://www.nasaspaceflight.com/2025/03/terran-r-update/" >🔗</a> **[NASASpaceflight]** Relativity Space makes significant progress on Terran R; flight hardware in production
 - <a href="https://spacenews.com/working-around-ongoing-supply-chain-bottlenecks/" >🔗</a> **[SpaceNews]** Working around ongoing supply-chain bottlenecks
 - <a href="https://spacenews.com/planetary-defense-may-get-a-boost-from-jared-isaacman/" >🔗</a> **[SpaceNews]** Planetary defense may get a boost from Jared Isaacman
 - <a href="https://spacenews.com/bringing-mars-to-earth-solving-mars-sample-return/" >🔗</a> **[SpaceNews]** Bringing Mars to Earth: solving Mars Sample Return
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Catch_solar_bursts_in_new_citizen_science_project" >🔗</a> **[ESA]** Catch solar bursts in new citizen science project
 - <a href="https://spacenews.com/overwatch-x-rescue-expands-lifesaving-services-to-more-satellite-enabled-devices/" >🔗</a> **[SpaceNews]** Overwatch x Rescue Expands Lifesaving Services to More Satellite Enabled Devices
 - <a href="https://europeanspaceflight.com/polish-space-agency-president-sacked-over-falcon-9-debris-controversy/" >🔗</a> **[European Spaceflight]** Polish Space Agency President Sacked Over Falcon 9 Debris Controversy
-- <a href="https://spacenews.com/momentus-and-solstar-to-offer-on-demand-communications-for-vigoride/" >🔗</a> **[SpaceNews]** Momentus and Solstar to offer on-demand communications for Vigoride
-- <a href="https://www.nasa.gov/directorates/armd/tacp/ui/uli/2025-university-teams/" >🔗</a> **[NASA]** NASA Selects Three University Teams to Participate in Flight Research
-- <a href="https://spacenews.com/intelsat-ceo-reveals-separate-bet-on-lynk-global-amid-ses-merger/" >🔗</a> **[SpaceNews]** Intelsat CEO reveals separate bet on Lynk Global amid SES merger
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ First launch from the Wenchang Commercial Space Launch Site's LC-1.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250311T150127">2025-03-11 15:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250311T153429">2025-03-11 15:34:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
