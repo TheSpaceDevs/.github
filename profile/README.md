@@ -95,6 +95,7 @@ First launch from the Wenchang Commercial Space Launch Site's LC-1.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/directorates/armd/tacp/ui/uli/2025-university-teams/" >🔗</a> **[NASA]** NASA Selects Three University Teams to Participate in Flight Research
 - <a href="https://spacenews.com/intelsat-ceo-reveals-separate-bet-on-lynk-global-amid-ses-merger/" >🔗</a> **[SpaceNews]** Intelsat CEO reveals separate bet on Lynk Global amid SES merger
 - <a href="https://spacepolicyonline.com/news/trump-mars-not-a-top-priority-but-would-be-great/" >🔗</a> **[SpacePolicyOnline.com]** Trump: Mars Not a Top Priority, But Would Be Great
 - <a href="https://spaceflightnow.com/2025/03/10/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-15/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket from Cape Canaveral
@@ -104,16 +105,16 @@ First launch from the Wenchang Commercial Space Launch Site's LC-1.
 - <a href="https://www.nasaspaceflight.com/2025/03/launch-roundup-031025/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX, Rocket Lab, and Firefly set to launch amid busy launch manifest
 - <a href="https://www.nasa.gov/directorates/armd/aosp/atm-x/paav/about-paav/" >🔗</a> **[NASA]** About Pathfinding for Airspace with Autonomous Vehicles
 - <a href="https://www.nasa.gov/missions/station/iss-research/nasa-partners-to-conduct-space-station-research-during-expedition-73/" >🔗</a> **[NASA]** NASA, Partners to Conduct Space Station Research During Expedition 73
-- <a href="https://spacenews.com/relativity-names-eric-schmidt-as-ceo-as-it-updates-terran-r-development/" >🔗</a> **[SpaceNews]** Relativity names Eric Schmidt as CEO as it updates Terran R development
 
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2025/03/launch-roundup-031025/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX, Rocket Lab, and Firefly set to launch amid busy launch manifest
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250311T090132">2025-03-11 09:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250311T093315">2025-03-11 09:33:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
