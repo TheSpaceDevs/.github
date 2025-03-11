@@ -95,16 +95,16 @@ First launch from the Wenchang Commercial Space Launch Site's LC-1.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/planetary-defense-may-get-a-boost-from-jared-isaacman/" >🔗</a> **[SpaceNews]** Planetary defense may get a boost from Jared Isaacman
+- <a href="https://spacenews.com/overwatch-x-rescue-expands-lifesaving-services-to-more-satellite-enabled-devices/" >🔗</a> **[SpaceNews]** Overwatch x Rescue Expands Lifesaving Services to More Satellite Enabled Devices
+- <a href="https://spacenews.com/bringing-mars-to-earth-solving-mars-sample-return/" >🔗</a> **[SpaceNews]** Bringing Mars to Earth: solving Mars Sample Return
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Catch_solar_bursts_in_new_citizen_science_project" >🔗</a> **[ESA]** Catch solar bursts in new citizen science project
+- <a href="https://europeanspaceflight.com/polish-space-agency-president-sacked-over-falcon-9-debris-controversy/" >🔗</a> **[European Spaceflight]** Polish Space Agency President Sacked Over Falcon 9 Debris Controversy
 - <a href="https://spacenews.com/momentus-and-solstar-to-offer-on-demand-communications-for-vigoride/" >🔗</a> **[SpaceNews]** Momentus and Solstar to offer on-demand communications for Vigoride
 - <a href="https://www.nasa.gov/directorates/armd/tacp/ui/uli/2025-university-teams/" >🔗</a> **[NASA]** NASA Selects Three University Teams to Participate in Flight Research
 - <a href="https://spacenews.com/intelsat-ceo-reveals-separate-bet-on-lynk-global-amid-ses-merger/" >🔗</a> **[SpaceNews]** Intelsat CEO reveals separate bet on Lynk Global amid SES merger
 - <a href="https://spacepolicyonline.com/news/trump-mars-not-a-top-priority-but-would-be-great/" >🔗</a> **[SpacePolicyOnline.com]** Trump: Mars Not a Top Priority, But Would Be Great
 - <a href="https://spaceflightnow.com/2025/03/10/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-15/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket from Cape Canaveral
-- <a href="https://spacenews.com/evolving-threats-from-cyber-to-lasers-and-jammers/" >🔗</a> **[SpaceNews]** Evolving threats from cyber to lasers and jammers
-- <a href="https://spaceflightnow.com/2025/03/10/spacex-details-falcon-9-anomaly-that-temporarily-grounded-the-rocket-fleet/" >🔗</a> **[Spaceflight Now]** SpaceX details Falcon 9 anomaly that temporarily grounded the rocket fleet
-- <a href="https://spacenews.com/intelligence-agency-copes-with-workforce-reductions-amid-ai-modernization/" >🔗</a> **[SpaceNews]** Intelligence agency copes with workforce reductions amid AI modernization
-- <a href="https://www.nasaspaceflight.com/2025/03/launch-roundup-031025/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX, Rocket Lab, and Firefly set to launch amid busy launch manifest
-- <a href="https://www.nasa.gov/directorates/armd/aosp/atm-x/paav/about-paav/" >🔗</a> **[NASA]** About Pathfinding for Airspace with Autonomous Vehicles
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ First launch from the Wenchang Commercial Space Launch Site's LC-1.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250311T130712">2025-03-11 13:07:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250311T133532">2025-03-11 13:35:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
