@@ -20,31 +20,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Long March 8 | G60 Group TBD**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Wenchang_Commercial_Space_Launch_Site">Commercial LC-1</a>, Wenchang Space Launch Site, People's Republic of China*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250311T163100">2025-03-11 16:31:00 UTC</a>.  Until
-then, this pad will have been used for 0
-out of 35 launches from this location. The launch status is currently
+**Falcon 9 Block 5 | Starlink Group 12-21**. It is scheduled to be launched by *SpaceX*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral SFS, FL, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250312T024800">2025-03-12 02:48:00 UTC</a>.  Until
+then, this pad will have been used for 293
+out of 1008 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
 *Communications* and the payload will be injected
-into *a Polar Orbit
-(PO)*.
+into *a Low Earth Orbit
+(LEO)*.
 <br>
 <blockquote>
-  Low Earth Orbit communication satellites with Ku, Q and V band payloads for the G60 constellation operated by Shanghai Spacecom Satellite Technology (SSST) with funding backed by the Shanghai local government.
-
-Initial constellation will consist of 1296 satellites by 2027 with long term plans to expand it to 12000 satellites.
-
-First launch from the Wenchang Commercial Space Launch Site's LC-1.
+  A batch of 21 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Long_March_8" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=19.597275,110.930753" >
+  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -59,6 +55,7 @@ First launch from the Wenchang Commercial Space Launch Site's LC-1.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250315T063900">2025-03-15 06:39:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Transporter 13 (Dedicated SSO Rideshare)&location=Vandenberg SFB, CA, USA&dates=20250315T063900Z%2F20250315T072500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Transporter 13 (Dedicated SSO Rideshare)** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250315T103000">2025-03-15 10:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Angara 1.2 | Kosmos (Unknown Payload)&location=Plesetsk Cosmodrome, Russian Federation&dates=20250315T103000Z%2F20250315T130000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Angara 1.2 | Kosmos (Unknown Payload)** from Plesetsk Cosmodrome, Russian Federation.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250315T132500">2025-03-15 13:25:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Firefly Alpha | FLTA006 (Message in a Booster)&location=Vandenberg SFB, CA, USA&dates=20250315T132500Z%2F20250315T141700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Firefly Alpha | FLTA006 (Message in a Booster)** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250316T190400">2025-03-16 19:04:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-25&location=Cape Canaveral SFS, FL, USA&dates=20250316T190400Z%2F20250316T233500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-25** from Cape Canaveral SFS, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -94,6 +91,8 @@ First launch from the Wenchang Commercial Space Launch Site's LC-1.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-astronaut-jonny-kim-to-discuss-upcoming-launch-mission/" >🔗</a> **[NASA]** NASA Astronaut Jonny Kim to Discuss Upcoming Launch, Mission
+- <a href="https://spacenews.com/viasat-and-space42-co-invest-in-shared-direct-to-device-satellite-prototype/" >🔗</a> **[SpaceNews]** Viasat and Space42 co-invest in shared direct-to-device satellite prototype
 - <a href="https://science.nasa.gov/universe/exoplanets/discovery-alert-super-earth-swings-from-super-heated-to-super-chill/" >🔗</a> **[NASA]** Discovery Alert: ‘Super-Earth’ Swings from Super-Heated to Super-Chill
 - <a href="https://www.nasa.gov/earth/how-do-we-know-the-earth-isnt-flat-we-asked-a-nasa-expert-episode-53/" >🔗</a> **[NASA]** How Do We Know the Earth Isn’t Flat? We Asked a NASA Expert: Episode 53
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasas-chevron-technology-quiets-the-skies/" >🔗</a> **[NASA]** NASA’s Chevron Technology Quiets the Skies
@@ -102,18 +101,18 @@ First launch from the Wenchang Commercial Space Launch Site's LC-1.
 - <a href="https://spacenews.com/working-around-ongoing-supply-chain-bottlenecks/" >🔗</a> **[SpaceNews]** Working around ongoing supply-chain bottlenecks
 - <a href="https://spacenews.com/planetary-defense-may-get-a-boost-from-jared-isaacman/" >🔗</a> **[SpaceNews]** Planetary defense may get a boost from Jared Isaacman
 - <a href="https://spacenews.com/bringing-mars-to-earth-solving-mars-sample-return/" >🔗</a> **[SpaceNews]** Bringing Mars to Earth: solving Mars Sample Return
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Catch_solar_bursts_in_new_citizen_science_project" >🔗</a> **[ESA]** Catch solar bursts in new citizen science project
-- <a href="https://spacenews.com/overwatch-x-rescue-expands-lifesaving-services-to-more-satellite-enabled-devices/" >🔗</a> **[SpaceNews]** Overwatch x Rescue Expands Lifesaving Services to More Satellite Enabled Devices
 
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2025/03/10/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-15/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://www.nasaspaceflight.com/2025/03/launch-roundup-031025/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX, Rocket Lab, and Firefly set to launch amid busy launch manifest
+- <a href="https://www.nasaspaceflight.com/2025/03/launch-roundup-030425/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Starship and Ariane 6 set to launch after scrubs
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250311T170135">2025-03-11 17:01:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250311T173349">2025-03-11 17:33:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
