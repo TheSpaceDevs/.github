@@ -95,6 +95,7 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/trump-mars-not-a-top-priority-but-would-be-great/" >🔗</a> **[SpacePolicyOnline.com]** Trump: Mars Not a Top Priority, But Would Be Great
 - <a href="https://spaceflightnow.com/2025/03/10/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-15/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacenews.com/evolving-threats-from-cyber-to-lasers-and-jammers/" >🔗</a> **[SpaceNews]** Evolving threats from cyber to lasers and jammers
 - <a href="https://spaceflightnow.com/2025/03/10/spacex-details-falcon-9-anomaly-that-temporarily-grounded-the-rocket-fleet/" >🔗</a> **[Spaceflight Now]** SpaceX details Falcon 9 anomaly that temporarily grounded the rocket fleet
@@ -104,7 +105,6 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 - <a href="https://www.nasa.gov/missions/station/iss-research/nasa-partners-to-conduct-space-station-research-during-expedition-73/" >🔗</a> **[NASA]** NASA, Partners to Conduct Space Station Research During Expedition 73
 - <a href="https://spacenews.com/relativity-names-eric-schmidt-as-ceo-as-it-updates-terran-r-development/" >🔗</a> **[SpaceNews]** Relativity names Eric Schmidt as CEO as it updates Terran R development
 - <a href="https://arstechnica.com/space/2025/03/former-google-ceo-eric-schmidt-is-the-new-leader-of-relativity-space/" >🔗</a> **[Arstechnica]** Former Google CEO Eric Schmidt is the new leader of Relativity Space
-- <a href="https://spacenews.com/emerging-launch-companies-see-strong-demand-but-look-for-government-support/" >🔗</a> **[SpaceNews]** Emerging launch companies see strong demand but look for government support
 
 
 ### Launch-related News 🚀
@@ -123,7 +123,7 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250311T012833">2025-03-11 01:28:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250311T020606">2025-03-11 02:06:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
