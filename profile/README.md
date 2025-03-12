@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-opens-2028-mars-sample-return-mission-to-international-cooperation/" >🔗</a> **[SpaceNews]** China opens 2028 Mars sample return mission to international cooperation
 - <a href="https://spacenews.com/intelsat-secures-first-customer-for-communications-system-aimed-at-border-security/" >🔗</a> **[SpaceNews]** Intelsat secures first customer for communications system aimed at border security
 - <a href="https://spacenews.com/bridenstine-urges-senate-to-quickly-confirm-isaacman-as-nasa-administrator/" >🔗</a> **[SpaceNews]** Bridenstine urges Senate to quickly confirm Isaacman as NASA administrator
 - <a href="https://spacenews.com/falcon-9-launches-nasa-astrophysics-and-heliophysics-missions/" >🔗</a> **[SpaceNews]** Falcon 9 launches NASA astrophysics and heliophysics missions
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/senators-introduce-2025-nasa-authorization-bill/" >🔗</a> **[SpacePolicyOnline.com]** Senators Introduce 2025 NASA Authorization Bill
 - <a href="https://science.nasa.gov/blog/sols-4475-4476-even-the-best-laid-plans/" >🔗</a> **[NASA]** Sols 4475-4476: Even the Best-Laid Plans
 - <a href="https://spacepolicyonline.com/news/house-narrowly-passes-full-year-cr-to-keep-government-open/" >🔗</a> **[SpacePolicyOnline.com]** House Narrowly Passes Full-Year CR to Keep Government Open
-- <a href="https://spacenews.com/space-force-eyes-commercial-satellites-to-boost-surveillance-in-geostationary-orbit/" >🔗</a> **[SpaceNews]** Space Force eyes commercial satellites to boost surveillance in geostationary orbit
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250312T113106">2025-03-12 11:31:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250312T120148">2025-03-12 12:01:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
