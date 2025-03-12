@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/nasa-glenn-accepts-aviation-award-for-neat-facility/" >🔗</a> **[NASA]** NASA Glenn Accepts Aviation Award for “NEAT” Facility
+- <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/nasa-glenn-experts-join-law-college-to-talk-human-spaceflight/" >🔗</a> **[NASA]** NASA Glenn Experts Join Law College to Talk Human Spaceflight
+- <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/nasa-releases-its-spinoff-2025-publication/" >🔗</a> **[NASA]** NASA Releases its Spinoff 2025 Publication
+- <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/nasa-glenn-welcomes-spring-2025-interns/" >🔗</a> **[NASA]** NASA Glenn Welcomes Spring 2025 Interns
 - <a href="https://spacenews.com/china-opens-2028-mars-sample-return-mission-to-international-cooperation/" >🔗</a> **[SpaceNews]** China opens 2028 Mars sample return mission to international cooperation
 - <a href="https://spacenews.com/intelsat-secures-first-customer-for-communications-system-aimed-at-border-security/" >🔗</a> **[SpaceNews]** Intelsat secures first customer for communications system aimed at border security
 - <a href="https://spacenews.com/bridenstine-urges-senate-to-quickly-confirm-isaacman-as-nasa-administrator/" >🔗</a> **[SpaceNews]** Bridenstine urges Senate to quickly confirm Isaacman as NASA administrator
 - <a href="https://spacenews.com/falcon-9-launches-nasa-astrophysics-and-heliophysics-missions/" >🔗</a> **[SpaceNews]** Falcon 9 launches NASA astrophysics and heliophysics missions
 - <a href="https://www.nasa.gov/news-release/nasa-launches-missions-to-study-sun-universes-beginning/" >🔗</a> **[NASA]** NASA Launches Missions to Study Sun, Universe’s Beginning
 - <a href="https://spacenews.com/boeing-remains-committed-to-space-business/" >🔗</a> **[SpaceNews]** Boeing remains committed to space business
-- <a href="https://spacenews.com/rocket-lab-to-expand-into-laser-communications-with-mynaric-acquisition/" >🔗</a> **[SpaceNews]** Rocket Lab to expand into laser communications with Mynaric acquisition
-- <a href="https://spacepolicyonline.com/news/senators-introduce-2025-nasa-authorization-bill/" >🔗</a> **[SpacePolicyOnline.com]** Senators Introduce 2025 NASA Authorization Bill
-- <a href="https://science.nasa.gov/blog/sols-4475-4476-even-the-best-laid-plans/" >🔗</a> **[NASA]** Sols 4475-4476: Even the Best-Laid Plans
-- <a href="https://spacepolicyonline.com/news/house-narrowly-passes-full-year-cr-to-keep-government-open/" >🔗</a> **[SpacePolicyOnline.com]** House Narrowly Passes Full-Year CR to Keep Government Open
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250312T120148">2025-03-12 12:01:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250312T124250">2025-03-12 12:42:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
