@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/bridenstine-urges-senate-to-quickly-confirm-isaacman-as-nasa-administrator/" >🔗</a> **[SpaceNews]** Bridenstine urges Senate to quickly confirm Isaacman as NASA administrator
 - <a href="https://spacenews.com/falcon-9-launches-nasa-astrophysics-and-heliophysics-missions/" >🔗</a> **[SpaceNews]** Falcon 9 launches NASA astrophysics and heliophysics missions
 - <a href="https://www.nasa.gov/news-release/nasa-launches-missions-to-study-sun-universes-beginning/" >🔗</a> **[NASA]** NASA Launches Missions to Study Sun, Universe’s Beginning
 - <a href="https://spacenews.com/boeing-remains-committed-to-space-business/" >🔗</a> **[SpaceNews]** Boeing remains committed to space business
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/house-narrowly-passes-full-year-cr-to-keep-government-open/" >🔗</a> **[SpacePolicyOnline.com]** House Narrowly Passes Full-Year CR to Keep Government Open
 - <a href="https://spacenews.com/space-force-eyes-commercial-satellites-to-boost-surveillance-in-geostationary-orbit/" >🔗</a> **[SpaceNews]** Space Force eyes commercial satellites to boost surveillance in geostationary orbit
 - <a href="https://www.nasa.gov/general/nasa-continues-bionutrients-space-fermented-food-research/" >🔗</a> **[NASA]** NASA Continues BioNutrients Space-Fermented Food Research
-- <a href="https://www.nasa.gov/directorates/esdmd/hhp/human-system-risk-board/" >🔗</a> **[NASA]** Human System Risk Board
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250312T100122">2025-03-12 10:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250312T103509">2025-03-12 10:35:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
