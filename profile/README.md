@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/science-research/heliophysics/mms-mission-turns-10/" >🔗</a> **[NASA]** NASA’s Record-Shattering, Theory-Breaking MMS Mission Turns 10
 - <a href="https://spacenews.com/isar-aerospace-wins-norwegian-space-agency-launch-contract/" >🔗</a> **[SpaceNews]** Isar Aerospace wins Norwegian Space Agency launch contract
 - <a href="https://www.nasaspaceflight.com/2025/03/crew-10-launch/" >🔗</a> **[NASASpaceflight]** SpaceX set to launch NASA’s Crew-10 mission to the ISS
 - <a href="https://www.nasa.gov/missions/nisar/nasa-isro-mission-will-map-farmland-from-planting-to-harvest/" >🔗</a> **[NASA]** NASA-ISRO Mission Will Map Farmland From Planting to Harvest
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/manufacturing-defect-blamed-for-vulcan-solid-rocket-motor-anomaly/" >🔗</a> **[SpaceNews]** Manufacturing defect blamed for Vulcan solid rocket motor anomaly
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-annual-first-robotics-rocket-city-competition/" >🔗</a> **[NASA]** NASA Invites Media to Annual FIRST Robotics Rocket City Competition
 - <a href="https://www.nasa.gov/image-article/sun-rises-on-crew-10-at-launch-pad/" >🔗</a> **[NASA]** Sun Rises on Crew-10 at Launch Pad
-- <a href="https://europeanspaceflight.com/isar-to-launch-norwegian-maritime-surveillance-satellites/" >🔗</a> **[European Spaceflight]** Isar to Launch Norwegian Maritime Surveillance Satellites
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250312T190120">2025-03-12 19:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250312T193104">2025-03-12 19:31:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
