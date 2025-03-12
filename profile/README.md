@@ -100,7 +100,7 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/nasa-glenn-experts-join-law-college-to-talk-human-spaceflight/" >🔗</a> **[NASA]** NASA Glenn Experts Join Law College to Talk Human Spaceflight
 - <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/nasa-releases-its-spinoff-2025-publication/" >🔗</a> **[NASA]** NASA Releases its Spinoff 2025 Publication
 - <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/nasa-glenn-welcomes-spring-2025-interns/" >🔗</a> **[NASA]** NASA Glenn Welcomes Spring 2025 Interns
-- <a href="https://spacenews.com/china-opens-2028-mars-sample-return-mission-to-international-cooperation/" >🔗</a> **[SpaceNews]** China opens 2028 Mars sample return mission to international cooperation
+- <a href="https://www.esa.int/About_Us/Corporate_news/Space_HPC_offers_new_super-computing_possibilities" >🔗</a> **[ESA]** Space HPC offers new super-computing possibilities
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250312T160134">2025-03-12 16:01:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250312T163703">2025-03-12 16:37:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
