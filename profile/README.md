@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/house-narrowly-passes-full-year-cr-to-keep-government-open/" >🔗</a> **[SpacePolicyOnline.com]** House Narrowly Passes Full-Year CR to Keep Government Open
 - <a href="https://spacenews.com/space-force-eyes-commercial-satellites-to-boost-surveillance-in-geostationary-orbit/" >🔗</a> **[SpaceNews]** Space Force eyes commercial satellites to boost surveillance in geostationary orbit
 - <a href="https://www.nasa.gov/general/nasa-continues-bionutrients-space-fermented-food-research/" >🔗</a> **[NASA]** NASA Continues BioNutrients Space-Fermented Food Research
 - <a href="https://www.nasa.gov/directorates/esdmd/hhp/human-system-risk-board/" >🔗</a> **[NASA]** Human System Risk Board
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/directorates/esdmd/hhp/risk-of-toxic-substance-exposure/" >🔗</a> **[NASA]** Risk of Toxic Substance Exposure
 - <a href="https://www.nasa.gov/directorates/esdmd/hhp/risk-of-spaceflight-associated-neuro-ocular-syndrome/" >🔗</a> **[NASA]** Risk of Spaceflight Associated Neuro-ocular Syndrome
 - <a href="https://www.nasa.gov/directorates/esdmd/hhp/risk-of-renal-stone-formation/" >🔗</a> **[NASA]** Risk of Renal Stone Formation
-- <a href="https://www.nasa.gov/directorates/esdmd/hhp/muscle-risk/" >🔗</a> **[NASA]** Risk of Reduced Physical Performance Capabilities Due to Reduced Muscle Size, Strength, and Endurance (Muscle Risk)
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250312T000416">2025-03-12 00:04:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250312T004538">2025-03-12 00:45:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
