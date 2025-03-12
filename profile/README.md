@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-launches-missions-to-study-sun-universes-beginning/" >🔗</a> **[NASA]** NASA Launches Missions to Study Sun, Universe’s Beginning
 - <a href="https://spacenews.com/boeing-remains-committed-to-space-business/" >🔗</a> **[SpaceNews]** Boeing remains committed to space business
 - <a href="https://spacenews.com/rocket-lab-to-expand-into-laser-communications-with-mynaric-acquisition/" >🔗</a> **[SpaceNews]** Rocket Lab to expand into laser communications with Mynaric acquisition
 - <a href="https://spacepolicyonline.com/news/senators-introduce-2025-nasa-authorization-bill/" >🔗</a> **[SpacePolicyOnline.com]** Senators Introduce 2025 NASA Authorization Bill
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/general/nasa-continues-bionutrients-space-fermented-food-research/" >🔗</a> **[NASA]** NASA Continues BioNutrients Space-Fermented Food Research
 - <a href="https://www.nasa.gov/directorates/esdmd/hhp/human-system-risk-board/" >🔗</a> **[NASA]** Human System Risk Board
 - <a href="https://www.nasa.gov/directorates/esdmd/hhp/risk-to-vehicle-crew-egress-capability-and-task-performance-as-applied-to-earth-and-extraterrestrial-landings/" >🔗</a> **[NASA]** Risk to Vehicle Crew Egress Capability and Task Performance as Applied to Earth and Extraterrestrial Landings
-- <a href="https://www.nasa.gov/directorates/esdmd/hhp/electrical-shock-risk/" >🔗</a> **[NASA]** Risk to Crew Health Due to Electrical Shock (Electrical Shock Risk)
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250312T050124">2025-03-12 05:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250312T053336">2025-03-12 05:33:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
