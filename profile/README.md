@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/isar-aerospace-wins-norwegian-space-agency-launch-contract/" >🔗</a> **[SpaceNews]** Isar Aerospace wins Norwegian Space Agency launch contract
+- <a href="https://www.nasaspaceflight.com/2025/03/crew-10-launch/" >🔗</a> **[NASASpaceflight]** SpaceX set to launch NASA’s Crew-10 mission to the ISS
 - <a href="https://www.nasa.gov/missions/nisar/nasa-isro-mission-will-map-farmland-from-planting-to-harvest/" >🔗</a> **[NASA]** NASA-ISRO Mission Will Map Farmland From Planting to Harvest
+- <a href="https://science.nasa.gov/blog/sols-4477-4478-bumping-back-to-business/" >🔗</a> **[NASA]** Sols 4477-4478:  Bumping Back to Business
 - <a href="https://spaceflightnow.com/2025/03/12/live-coverage-nasa-spacex-to-launch-crew-10-astronaut-mission-on-falcon-9-rocket-from-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: NASA, SpaceX to launch Crew-10 astronaut mission on Falcon 9 rocket from Kennedy Space Center
 - <a href="https://arstechnica.com/space/2025/03/if-starlink-is-turned-off-in-ukraine-are-there-any-good-alternatives/" >🔗</a> **[Arstechnica]** If Starlink is turned off in Ukraine, are there any good alternatives?
 - <a href="https://spacenews.com/manufacturing-defect-blamed-for-vulcan-solid-rocket-motor-anomaly/" >🔗</a> **[SpaceNews]** Manufacturing defect blamed for Vulcan solid rocket motor anomaly
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-annual-first-robotics-rocket-city-competition/" >🔗</a> **[NASA]** NASA Invites Media to Annual FIRST Robotics Rocket City Competition
 - <a href="https://www.nasa.gov/image-article/sun-rises-on-crew-10-at-launch-pad/" >🔗</a> **[NASA]** Sun Rises on Crew-10 at Launch Pad
 - <a href="https://europeanspaceflight.com/isar-to-launch-norwegian-maritime-surveillance-satellites/" >🔗</a> **[European Spaceflight]** Isar to Launch Norwegian Maritime Surveillance Satellites
-- <a href="https://spacenews.com/americas-next-sputnik-moment-is-already-here/" >🔗</a> **[SpaceNews]** America’s next Sputnik moment is already here
-- <a href="https://spacenews.com/where-are-we-on-the-journey-to-a-lunar-economy/" >🔗</a> **[SpaceNews]** Where are we on the journey to a lunar economy?
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/03/The_Incredible_Adventures_of_the_Hera_mission_The_cosmic_roadtrip" >🔗</a> **[ESA]** The Incredible Adventures of the Hera mission – The cosmic roadtrip
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250312T180141">2025-03-12 18:01:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250312T183721">2025-03-12 18:37:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
