@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/falcon-9-launches-nasa-astrophysics-and-heliophysics-missions/" >🔗</a> **[SpaceNews]** Falcon 9 launches NASA astrophysics and heliophysics missions
 - <a href="https://www.nasa.gov/news-release/nasa-launches-missions-to-study-sun-universes-beginning/" >🔗</a> **[NASA]** NASA Launches Missions to Study Sun, Universe’s Beginning
 - <a href="https://spacenews.com/boeing-remains-committed-to-space-business/" >🔗</a> **[SpaceNews]** Boeing remains committed to space business
 - <a href="https://spacenews.com/rocket-lab-to-expand-into-laser-communications-with-mynaric-acquisition/" >🔗</a> **[SpaceNews]** Rocket Lab to expand into laser communications with Mynaric acquisition
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/space-force-eyes-commercial-satellites-to-boost-surveillance-in-geostationary-orbit/" >🔗</a> **[SpaceNews]** Space Force eyes commercial satellites to boost surveillance in geostationary orbit
 - <a href="https://www.nasa.gov/general/nasa-continues-bionutrients-space-fermented-food-research/" >🔗</a> **[NASA]** NASA Continues BioNutrients Space-Fermented Food Research
 - <a href="https://www.nasa.gov/directorates/esdmd/hhp/human-system-risk-board/" >🔗</a> **[NASA]** Human System Risk Board
-- <a href="https://www.nasa.gov/directorates/esdmd/hhp/risk-to-vehicle-crew-egress-capability-and-task-performance-as-applied-to-earth-and-extraterrestrial-landings/" >🔗</a> **[NASA]** Risk to Vehicle Crew Egress Capability and Task Performance as Applied to Earth and Extraterrestrial Landings
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250312T080129">2025-03-12 08:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250312T083607">2025-03-12 08:36:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
