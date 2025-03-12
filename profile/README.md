@@ -95,16 +95,16 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/boeing-remains-committed-to-space-business/" >🔗</a> **[SpaceNews]** Boeing remains committed to space business
+- <a href="https://spacenews.com/rocket-lab-to-expand-into-laser-communications-with-mynaric-acquisition/" >🔗</a> **[SpaceNews]** Rocket Lab to expand into laser communications with Mynaric acquisition
 - <a href="https://spacepolicyonline.com/news/senators-introduce-2025-nasa-authorization-bill/" >🔗</a> **[SpacePolicyOnline.com]** Senators Introduce 2025 NASA Authorization Bill
+- <a href="https://science.nasa.gov/blog/sols-4475-4476-even-the-best-laid-plans/" >🔗</a> **[NASA]** Sols 4475-4476: Even the Best-Laid Plans
 - <a href="https://spacepolicyonline.com/news/house-narrowly-passes-full-year-cr-to-keep-government-open/" >🔗</a> **[SpacePolicyOnline.com]** House Narrowly Passes Full-Year CR to Keep Government Open
 - <a href="https://spacenews.com/space-force-eyes-commercial-satellites-to-boost-surveillance-in-geostationary-orbit/" >🔗</a> **[SpaceNews]** Space Force eyes commercial satellites to boost surveillance in geostationary orbit
 - <a href="https://www.nasa.gov/general/nasa-continues-bionutrients-space-fermented-food-research/" >🔗</a> **[NASA]** NASA Continues BioNutrients Space-Fermented Food Research
 - <a href="https://www.nasa.gov/directorates/esdmd/hhp/human-system-risk-board/" >🔗</a> **[NASA]** Human System Risk Board
 - <a href="https://www.nasa.gov/directorates/esdmd/hhp/risk-to-vehicle-crew-egress-capability-and-task-performance-as-applied-to-earth-and-extraterrestrial-landings/" >🔗</a> **[NASA]** Risk to Vehicle Crew Egress Capability and Task Performance as Applied to Earth and Extraterrestrial Landings
 - <a href="https://www.nasa.gov/directorates/esdmd/hhp/electrical-shock-risk/" >🔗</a> **[NASA]** Risk to Crew Health Due to Electrical Shock (Electrical Shock Risk)
-- <a href="https://www.nasa.gov/directorates/esdmd/hhp/risk-of-urinary-retention/" >🔗</a> **[NASA]** Risk of Urinary Retention
-- <a href="https://www.nasa.gov/directorates/esdmd/hhp/risk-of-toxic-substance-exposure/" >🔗</a> **[NASA]** Risk of Toxic Substance Exposure
-- <a href="https://www.nasa.gov/directorates/esdmd/hhp/risk-of-spaceflight-associated-neuro-ocular-syndrome/" >🔗</a> **[NASA]** Risk of Spaceflight Associated Neuro-ocular Syndrome
 
 
 ### Launch-related News 🚀
@@ -123,7 +123,7 @@ NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will sh
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250312T020529">2025-03-12 02:05:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250312T024651">2025-03-12 02:46:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
