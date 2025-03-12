@@ -20,34 +20,34 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Crew-10**. It is scheduled to be launched by *SpaceX*
+**Falcon 9 Block 5 | Starlink Group 12-21**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39A">Launch Complex 39A</a>, Kennedy Space Center, FL, USA*
+from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral SFS, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250312T234854">2025-03-12 23:48:54 UTC</a>.  Until
-then, this pad will have been used for 200
-out of 258 launches from this location. The launch status is currently
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250313T022000">2025-03-13 02:20:00 UTC</a>.  Until
+then, this pad will have been used for 293
+out of 1008 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Human Exploration* and the payload will be injected
+*Communications* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  SpaceX Crew-10 is the tenth crewed operational flight of a Crew Dragon spacecraft to the International Space Station as part of NASA's Commercial Crew Program.
+  A batch of 21 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
   <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.60822681,-80.60428186" >
+  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250312T234854">2025-03-12 23:48:54 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Crew-10&location=Kennedy Space Center, FL, USA&dates=20250312T234854Z%2F20250312T234854Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Crew-10** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250313T022000">2025-03-13 02:20:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-21&location=Cape Canaveral SFS, FL, USA&dates=20250313T022000Z%2F20250313T065100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-21** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250313T232600">2025-03-13 23:26:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Crew-10&location=Kennedy Space Center, FL, USA&dates=20250313T232600Z%2F20250313T232600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Crew-10** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250315T000000">2025-03-15 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | The Lightning God Reigns (iQPS Launch 1)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20250315T000000Z%2F20250315T020000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | The Lightning God Reigns (iQPS Launch 1)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250315T040300">2025-03-15 04:03:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2D | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20250315T040300Z%2F20250315T042600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2D | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250315T063900">2025-03-15 06:39:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Transporter 13 (Dedicated SSO Rideshare)&location=Vandenberg SFB, CA, USA&dates=20250315T063900Z%2F20250315T072500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Transporter 13 (Dedicated SSO Rideshare)** from Vandenberg SFB, CA, USA.
@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/cognitive-space-claims-two-sda-awards/" >🔗</a> **[SpaceNews]** Cognitive Space claims two SDA awards
+- <a href="https://www.nasa.gov/es/el-x-59-de-la-nasa-completa-las-pruebas-electromagneticas/" >🔗</a> **[NASA]** El X-59 de la NASA completa las pruebas electromagnéticas
 - <a href="https://spacenews.com/space-development-agency-adjusts-satellite-procurement-strategy/" >🔗</a> **[SpaceNews]** Space Development Agency adjusts satellite procurement strategy
 - <a href="https://spacenews.com/chinas-expanding-footprint-in-geostationary-orbit-raises-security-concerns/" >🔗</a> **[SpaceNews]** China’s expanding footprint in geostationary orbit raises security concerns
 - <a href="https://www.spacescout.info/2025/03/familiar-spectacle-and-setbacks-from-starship-flight-8/" >🔗</a> **[Space Scout]** Familiar Spectacle and Setbacks From Starship Flight 8
@@ -99,27 +101,18 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2025/03/crew-10-launch/" >🔗</a> **[NASASpaceflight]** SpaceX set to launch NASA’s Crew-10 mission to the ISS
 - <a href="https://www.nasa.gov/missions/nisar/nasa-isro-mission-will-map-farmland-from-planting-to-harvest/" >🔗</a> **[NASA]** NASA-ISRO Mission Will Map Farmland From Planting to Harvest
 - <a href="https://science.nasa.gov/blog/sols-4477-4478-bumping-back-to-business/" >🔗</a> **[NASA]** Sols 4477-4478:  Bumping Back to Business
-- <a href="https://spaceflightnow.com/2025/03/12/live-coverage-nasa-spacex-to-launch-crew-10-astronaut-mission-on-falcon-9-rocket-from-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: NASA, SpaceX to launch Crew-10 astronaut mission on Falcon 9 rocket from Kennedy Space Center
-- <a href="https://arstechnica.com/space/2025/03/if-starlink-is-turned-off-in-ukraine-are-there-any-good-alternatives/" >🔗</a> **[Arstechnica]** If Starlink is turned off in Ukraine, are there any good alternatives?
 
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2025/03/10/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-15/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://www.nasaspaceflight.com/2025/03/launch-roundup-031025/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX, Rocket Lab, and Firefly set to launch amid busy launch manifest
-- <a href="https://www.nasa.gov/missions/station/iss-research/nasa-partners-to-conduct-space-station-research-during-expedition-73/" >🔗</a> **[NASA]** NASA, Partners to Conduct Space Station Research During Expedition 73
-- <a href="https://www.nasa.gov/get-involved/virtual-guest-program/nasa-invites-you-to-share-excitement-of-agencys-spacex-crew-10-launch/" >🔗</a> **[NASA]** NASA Invites You to Share Excitement of Agency’s SpaceX Crew-10 Launch
-- <a href="https://www.nasa.gov/missions/station/what-you-need-to-know-about-nasas-spacex-crew-10-mission/" >🔗</a> **[NASA]** What You Need to Know about NASA’s SpaceX Crew-10 Mission
-- <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-agencys-spacex-crew-10-launch-docking/" >🔗</a> **[NASA]** NASA Sets Coverage for Agency’s SpaceX Crew-10 Launch, Docking
-- <a href="https://www.nasa.gov/humans-in-space/nasas-spacex-crew-10-to-explore-deep-space-exercise-health/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-10 to Explore Deep Space Exercise, Health
-- <a href="https://www.nasa.gov/news-release/nasa-sets-briefings-for-next-international-space-station-crew-missions-2/" >🔗</a> **[NASA]** NASA Sets Briefings for Next International Space Station Crew Missions
-- <a href="https://spaceflightnow.com/2025/02/12/nasa-announces-new-launch-date-for-crew-10-swap-of-spacex-dragon-spacecraft-following-construction-delays/" >🔗</a> **[Spaceflight Now]** NASA announces new launch date for Crew-10, swap of SpaceX Dragon spacecraft following construction delays
-- <a href="https://spacepolicyonline.com/news/nasa-switches-crew-dragons-allowing-butch-and-suni-to-come-home-a-couple-weeks-sooner/" >🔗</a> **[SpacePolicyOnline.com]** NASA Switches Crew Dragons Allowing Butch and Suni to Come Home a Couple Weeks Sooner
-- <a href="https://spacenews.com/nasa-and-spacex-to-swap-crew-dragon-spacecraft-to-reduce-crew-10-delay/" >🔗</a> **[SpaceNews]** NASA and SpaceX to swap Crew Dragon spacecraft to reduce Crew-10 delay
+- <a href="https://www.nasaspaceflight.com/2025/03/launch-roundup-030425/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Starship and Ariane 6 set to launch after scrubs
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250312T230119">2025-03-12 23:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250312T233202">2025-03-12 23:32:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
