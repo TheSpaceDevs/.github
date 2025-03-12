@@ -20,34 +20,38 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 12-21**. It is scheduled to be launched by *SpaceX*
+**Falcon 9 Block 5 | SPHEREx & PUNCH**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral SFS, FL, USA*
+from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250312T024800">2025-03-12 02:48:00 UTC</a>.  Until
-then, this pad will have been used for 293
-out of 1008 launches from this location. The launch status is currently
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250312T030957">2025-03-12 03:09:57 UTC</a>.  Until
+then, this pad will have been used for 181
+out of 793 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Communications* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+*Astrophysics* and the payload will be injected
+into *a Sun-Synchronous Orbit
+(SSO)*.
 <br>
 <blockquote>
-  A batch of 21 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  SPHEREx is a planned two-year astrophysics mission to survey the sky in the near-infrared light, which, though not visible to the human eye, serves as a powerful tool for answering cosmic questions involving the birth of the universe, and the subsequent development of galaxies.
+
+It also will search for water and organic molecules – essentials for life as we know it – in regions where stars are born from gas and dust, known as stellar nurseries, as well as disks around stars where new planets could be forming. Astronomers will use the mission to gather data on more than 300 million galaxies, as well as more than 100 million stars in our own Milky Way galaxy.
+
+NASA’s Polarimeter to Unify the Corona and Heliosphere (PUNCH) mission will share a ride to space with SPHEREx. It consists of four suitcase-sized satellites, which will focus on the Sun’s outer atmosphere (the corona) and how it generates the solar wind. The spacecraft also will track coronal mass ejections – large eruptions of solar material that can drive large space weather events near Earth – to better understand their evolution and develop new techniques for predicting such eruptions.
 </blockquote>
 
 <p float="left" align="center">
   <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
+  <a href="https://www.google.com/maps?q=34.632,-120.611" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250312T024800">2025-03-12 02:48:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-21&location=Cape Canaveral SFS, FL, USA&dates=20250312T024800Z%2F20250312T071900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-21** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250312T030957">2025-03-12 03:09:57 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SPHEREx &amp; PUNCH&location=Vandenberg SFB, CA, USA&dates=20250312T030957Z%2F20250312T031027Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | SPHEREx & PUNCH** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250312T024800">2025-03-12 02:48:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-21&location=Cape Canaveral SFS, FL, USA&dates=20250312T024800Z%2F20250312T071900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-21** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250312T234854">2025-03-12 23:48:54 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Crew-10&location=Kennedy Space Center, FL, USA&dates=20250312T234854Z%2F20250312T234854Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Crew-10** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250314T105600">2025-03-14 10:56:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-16&location=Cape Canaveral SFS, FL, USA&dates=20250314T105600Z%2F20250314T152700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-16** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250315T000000">2025-03-15 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | The Lightning God Reigns (iQPS Launch 1)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20250315T000000Z%2F20250315T020000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | The Lightning God Reigns (iQPS Launch 1)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
@@ -105,14 +109,21 @@ into *a Low Earth Orbit
 
 ### Launch-related News 🚀
 
-- <a href="https://spaceflightnow.com/2025/03/10/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-15/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://www.nasaspaceflight.com/2025/03/launch-roundup-031025/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX, Rocket Lab, and Firefly set to launch amid busy launch manifest
+- <a href="https://spaceflightnow.com/2025/03/10/live-coverage-spacex-to-launch-nasas-spherex-and-punch-spacecraft-on-falcon-9-rocket-from-vandenberg/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch NASA’s SPHEREx and PUNCH spacecraft on Falcon 9 rocket from Vandenberg
+- <a href="https://www.nasaspaceflight.com/2025/03/spherex-punch-launch/" >🔗</a> **[NASASpaceflight]** NASA, SpaceX to launch SPHEREx observatory and PUNCH heliophysics mission from California
+- <a href="https://www.nasa.gov/missions/spherex/cosmic-mapmaker-nasas-spherex-space-telescope-ready-to-launch/" >🔗</a> **[NASA]** Cosmic Mapmaker: NASA’s SPHEREx Space Telescope Ready to Launch
 - <a href="https://www.nasaspaceflight.com/2025/03/launch-roundup-030425/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Starship and Ariane 6 set to launch after scrubs
+- <a href="https://www.nasaspaceflight.com/2025/02/launch-roundup-022425/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Starship, lunar lander, and telescope missions set for launch
+- <a href="https://science.nasa.gov/science-research/heliophysics/nasas-punch-mission-to-revolutionize-view-of-solar-wind/" >🔗</a> **[NASA]** NASA’s PUNCH Mission to Revolutionize Our View of Solar Wind
+- <a href="https://www.nasa.gov/universe/nasas-spherex-space-telescope-will-seek-lifes-ingredients/" >🔗</a> **[NASA]** NASA’s SPHEREx Space Telescope Will Seek Life’s Ingredients
+- <a href="https://www.nasa.gov/universe/6-things-to-know-about-spherex-nasas-newest-space-telescope/" >🔗</a> **[NASA]** 6 Things to Know About SPHEREx, NASA’s Newest Space Telescope
+- <a href="https://www.nasa.gov/image-article/spherexs-concentric-cones/" >🔗</a> **[NASA]** SPHEREx’s Concentric Cones
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250312T004538">2025-03-12 00:45:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250312T012829">2025-03-12 01:28:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
