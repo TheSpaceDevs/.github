@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/sun-rises-on-crew-10-at-launch-pad/" >🔗</a> **[NASA]** Sun Rises on Crew-10 at Launch Pad
 - <a href="https://europeanspaceflight.com/isar-to-launch-norwegian-maritime-surveillance-satellites/" >🔗</a> **[European Spaceflight]** Isar to Launch Norwegian Maritime Surveillance Satellites
 - <a href="https://spacenews.com/americas-next-sputnik-moment-is-already-here/" >🔗</a> **[SpaceNews]** America’s next Sputnik moment is already here
 - <a href="https://spacenews.com/where-are-we-on-the-journey-to-a-lunar-economy/" >🔗</a> **[SpaceNews]** Where are we on the journey to a lunar economy?
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/nasa-releases-its-spinoff-2025-publication/" >🔗</a> **[NASA]** NASA Releases its Spinoff 2025 Publication
 - <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/nasa-glenn-welcomes-spring-2025-interns/" >🔗</a> **[NASA]** NASA Glenn Welcomes Spring 2025 Interns
 - <a href="https://spacenews.com/china-opens-2028-mars-sample-return-mission-to-international-cooperation/" >🔗</a> **[SpaceNews]** China opens 2028 Mars sample return mission to international cooperation
-- <a href="https://spacenews.com/intelsat-secures-first-customer-for-communications-system-aimed-at-border-security/" >🔗</a> **[SpaceNews]** Intelsat secures first customer for communications system aimed at border security
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250312T150134">2025-03-12 15:01:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250312T153409">2025-03-12 15:34:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
