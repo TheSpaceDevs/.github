@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/americas-next-sputnik-moment-is-already-here/" >🔗</a> **[SpaceNews]** America’s next Sputnik moment is already here
+- <a href="https://spacenews.com/where-are-we-on-the-journey-to-a-lunar-economy/" >🔗</a> **[SpaceNews]** Where are we on the journey to a lunar economy?
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/03/The_Incredible_Adventures_of_the_Hera_mission_The_cosmic_roadtrip" >🔗</a> **[ESA]** The Incredible Adventures of the Hera mission – The cosmic roadtrip
 - <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/nasa-glenn-accepts-aviation-award-for-neat-facility/" >🔗</a> **[NASA]** NASA Glenn Accepts Aviation Award for “NEAT” Facility
 - <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/nasa-glenn-experts-join-law-college-to-talk-human-spaceflight/" >🔗</a> **[NASA]** NASA Glenn Experts Join Law College to Talk Human Spaceflight
 - <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/nasa-releases-its-spinoff-2025-publication/" >🔗</a> **[NASA]** NASA Releases its Spinoff 2025 Publication
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/china-opens-2028-mars-sample-return-mission-to-international-cooperation/" >🔗</a> **[SpaceNews]** China opens 2028 Mars sample return mission to international cooperation
 - <a href="https://spacenews.com/intelsat-secures-first-customer-for-communications-system-aimed-at-border-security/" >🔗</a> **[SpaceNews]** Intelsat secures first customer for communications system aimed at border security
 - <a href="https://spacenews.com/bridenstine-urges-senate-to-quickly-confirm-isaacman-as-nasa-administrator/" >🔗</a> **[SpaceNews]** Bridenstine urges Senate to quickly confirm Isaacman as NASA administrator
-- <a href="https://spacenews.com/falcon-9-launches-nasa-astrophysics-and-heliophysics-missions/" >🔗</a> **[SpaceNews]** Falcon 9 launches NASA astrophysics and heliophysics missions
-- <a href="https://www.nasa.gov/news-release/nasa-launches-missions-to-study-sun-universes-beginning/" >🔗</a> **[NASA]** NASA Launches Missions to Study Sun, Universe’s Beginning
-- <a href="https://spacenews.com/boeing-remains-committed-to-space-business/" >🔗</a> **[SpaceNews]** Boeing remains committed to space business
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250312T130655">2025-03-12 13:06:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250312T133527">2025-03-12 13:35:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
