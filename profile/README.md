@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blog/navigating-a-slanted-river/" >🔗</a> **[NASA]** Navigating a Slanted River
 - <a href="https://arstechnica.com/space/2025/03/popular-program-to-promote-women-becoming-aerospace-engineers-is-at-risk/" >🔗</a> **[Arstechnica]** Popular program to promote women becoming aerospace engineers is at risk
 - <a href="https://spacenews.com/new-fcc-space-chief-seeks-licensing-reform-and-intensive-use-of-spectrum/" >🔗</a> **[SpaceNews]** New FCC space chief seeks licensing reform and “intensive” use of spectrum
 - <a href="https://spacenews.com/join-or-die-how-satellite-manufacturers-approach-competition-with-spacex/" >🔗</a> **[SpaceNews]** Join or die: How satellite manufacturers approach competition with  SpaceX
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/03/Images_from_Hera_s_Mars_flyby_Official_broadcast" >🔗</a> **[ESA]** Images from Hera’s Mars flyby (Official broadcast)
 - <a href="https://spacenews.com/esa-lays-foundations-for-the-future-of-data-transmission/" >🔗</a> **[SpaceNews]** ESA lays foundations for the future of data transmission
 - <a href="https://www.nasa.gov/general/nasa-cameras-on-blue-ghost-capture-first-of-its-kind-moon-landing-footage/" >🔗</a> **[NASA]** NASA Cameras on Blue Ghost Capture First-of-its-Kind Moon Landing Footage
-- <a href="https://www.esa.int/Space_Safety/Hera/Hera_s_incredible_adventures_in_LEGO" >🔗</a> **[ESA]** Hera’s incredible adventures in LEGO
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250313T200127">2025-03-13 20:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250313T203305">2025-03-13 20:33:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
