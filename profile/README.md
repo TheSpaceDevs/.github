@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Space_Safety/Hera/Hera_asteroid_mission_spies_Mars_s_Deimos_moon" >🔗</a> **[ESA]** Hera asteroid mission spies Mars’s Deimos moon
 - <a href="https://europeanspaceflight.com/thales-alenia-space-to-build-esa-moonlight-satellites-for-telespazio/" >🔗</a> **[European Spaceflight]** Thales Alenia Space to Build ESA Moonlight Satellites for Telespazio
 - <a href="https://www.esa.int/Applications/Satellite_navigation/ESA_s_NavLab_on_wheels_an_Arctic_mission" >🔗</a> **[ESA]** ESA’s NavLab on wheels: an Arctic mission
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Extended_space_dive" >🔗</a> **[ESA]** Extended space dive
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/rbc-signals-adds-10-antennas-to-global-ground-station-network/" >🔗</a> **[SpaceNews]** RBC Signals adds 10 antennas to global ground-station network
 - <a href="https://spacepolicyonline.com/news/its-a-scrub-for-crew-10s-launch-tonight/" >🔗</a> **[SpacePolicyOnline.com]** It’s a Scrub for Crew-10’s Launch Tonight
 - <a href="https://spacenews.com/cognitive-space-claims-two-sda-awards/" >🔗</a> **[SpaceNews]** Cognitive Space claims two SDA awards
-- <a href="https://www.nasa.gov/es/el-x-59-de-la-nasa-completa-las-pruebas-electromagneticas/" >🔗</a> **[NASA]** El X-59 de la NASA completa las pruebas electromagnéticas
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250313T110129">2025-03-13 11:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250313T113111">2025-03-13 11:31:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
