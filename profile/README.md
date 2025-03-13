@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/thales-alenia-space-to-build-esa-moonlight-satellites-for-telespazio/" >🔗</a> **[European Spaceflight]** Thales Alenia Space to Build ESA Moonlight Satellites for Telespazio
 - <a href="https://www.esa.int/Applications/Satellite_navigation/ESA_s_NavLab_on_wheels_an_Arctic_mission" >🔗</a> **[ESA]** ESA’s NavLab on wheels: an Arctic mission
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Extended_space_dive" >🔗</a> **[ESA]** Extended space dive
 - <a href="https://www.teslarati.com/spacex-receives-17-3m-grant-texas-bastrop-site-expansion/" >🔗</a> **[Teslarati]** Texas awards SpaceX $17.3M grant to expand Bastrop tech hub
+- <a href="https://www.esa.int/Space_Safety/Hera/Hera_asteroid_mission_surveys_Mars_s_Deimos_moon" >🔗</a> **[ESA]** Hera asteroid mission surveys Mars’s Deimos moon
 - <a href="https://spacenews.com/multi-orbit-operators-push-back-on-starlink-satcoms-dominance-narrative/" >🔗</a> **[SpaceNews]** Multi-orbit operators push back on Starlink satcoms dominance narrative
 - <a href="https://spacenews.com/rbc-signals-adds-10-antennas-to-global-ground-station-network/" >🔗</a> **[SpaceNews]** RBC Signals adds 10 antennas to global ground-station network
 - <a href="https://spacepolicyonline.com/news/its-a-scrub-for-crew-10s-launch-tonight/" >🔗</a> **[SpacePolicyOnline.com]** It’s a Scrub for Crew-10’s Launch Tonight
 - <a href="https://spacenews.com/cognitive-space-claims-two-sda-awards/" >🔗</a> **[SpaceNews]** Cognitive Space claims two SDA awards
 - <a href="https://www.nasa.gov/es/el-x-59-de-la-nasa-completa-las-pruebas-electromagneticas/" >🔗</a> **[NASA]** El X-59 de la NASA completa las pruebas electromagnéticas
-- <a href="https://spacenews.com/space-development-agency-adjusts-satellite-procurement-strategy/" >🔗</a> **[SpaceNews]** Space Development Agency adjusts satellite procurement strategy
-- <a href="https://spacenews.com/chinas-expanding-footprint-in-geostationary-orbit-raises-security-concerns/" >🔗</a> **[SpaceNews]** China’s expanding footprint in geostationary orbit raises security concerns
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250313T100123">2025-03-13 10:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250313T103534">2025-03-13 10:35:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
