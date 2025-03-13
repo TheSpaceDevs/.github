@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/03/athena-landed-in-a-dark-crater-where-the-temperature-was-minus-280-f/" >🔗</a> **[Arstechnica]** Athena landed in a dark crater where the temperature was minus 280° F
+- <a href="https://spacenews.com/l3harris-taps-commercial-ai-partners-for-pentagons-golden-dome-program/" >🔗</a> **[SpaceNews]** L3Harris taps commercial AI partners for Pentagon’s Golden Dome program
+- <a href="https://www.nasaspaceflight.com/2025/03/spacex-flight-8-what-now/" >🔗</a> **[NASASpaceflight]** SpaceX press on with pre-launch testing while working Ship issue mitigation
 - <a href="https://science.nasa.gov/blog/navigating-a-slanted-river/" >🔗</a> **[NASA]** Navigating a Slanted River
 - <a href="https://arstechnica.com/space/2025/03/popular-program-to-promote-women-becoming-aerospace-engineers-is-at-risk/" >🔗</a> **[Arstechnica]** Popular program to promote women becoming aerospace engineers is at risk
 - <a href="https://spacenews.com/new-fcc-space-chief-seeks-licensing-reform-and-intensive-use-of-spectrum/" >🔗</a> **[SpaceNews]** New FCC space chief seeks licensing reform and “intensive” use of spectrum
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/earth/nasa-researchers-study-coastal-wetlands-champions-of-carbon-capture/" >🔗</a> **[NASA]** NASA Researchers Study Coastal Wetlands, Champions of Carbon Capture
 - <a href="https://www.nasa.gov/missions/jason-cs-sentinel-6/sentinel-6-michael-freilich/nasa-analysis-shows-unexpected-amount-of-sea-level-rise-in-2024/" >🔗</a> **[NASA]** NASA Analysis Shows Unexpected Amount of Sea Level Rise in 2024
 - <a href="https://spacenews.com/when-pixels-become-the-priority/" >🔗</a> **[SpaceNews]** When Pixels Become the Priority
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/03/Images_from_Hera_s_Mars_flyby_Official_broadcast" >🔗</a> **[ESA]** Images from Hera’s Mars flyby (Official broadcast)
-- <a href="https://spacenews.com/esa-lays-foundations-for-the-future-of-data-transmission/" >🔗</a> **[SpaceNews]** ESA lays foundations for the future of data transmission
-- <a href="https://www.nasa.gov/general/nasa-cameras-on-blue-ghost-capture-first-of-its-kind-moon-landing-footage/" >🔗</a> **[NASA]** NASA Cameras on Blue Ghost Capture First-of-its-Kind Moon Landing Footage
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250313T210127">2025-03-13 21:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250313T213149">2025-03-13 21:31:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
