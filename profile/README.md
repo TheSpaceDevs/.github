@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/03/popular-program-to-promote-women-becoming-aerospace-engineers-is-at-risk/" >🔗</a> **[Arstechnica]** Popular program to promote women becoming aerospace engineers is at risk
+- <a href="https://spacenews.com/new-fcc-space-chief-seeks-licensing-reform-and-intensive-use-of-spectrum/" >🔗</a> **[SpaceNews]** New FCC space chief seeks licensing reform and “intensive” use of spectrum
 - <a href="https://spacenews.com/join-or-die-how-satellite-manufacturers-approach-competition-with-spacex/" >🔗</a> **[SpaceNews]** Join or die: How satellite manufacturers approach competition with  SpaceX
 - <a href="https://science.nasa.gov/earth/nasa-researchers-study-coastal-wetlands-champions-of-carbon-capture/" >🔗</a> **[NASA]** NASA Researchers Study Coastal Wetlands, Champions of Carbon Capture
 - <a href="https://www.nasa.gov/missions/jason-cs-sentinel-6/sentinel-6-michael-freilich/nasa-analysis-shows-unexpected-amount-of-sea-level-rise-in-2024/" >🔗</a> **[NASA]** NASA Analysis Shows Unexpected Amount of Sea Level Rise in 2024
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/esa-lays-foundations-for-the-future-of-data-transmission/" >🔗</a> **[SpaceNews]** ESA lays foundations for the future of data transmission
 - <a href="https://www.nasa.gov/general/nasa-cameras-on-blue-ghost-capture-first-of-its-kind-moon-landing-footage/" >🔗</a> **[NASA]** NASA Cameras on Blue Ghost Capture First-of-its-Kind Moon Landing Footage
 - <a href="https://www.esa.int/Space_Safety/Hera/Hera_s_incredible_adventures_in_LEGO" >🔗</a> **[ESA]** Hera’s incredible adventures in LEGO
-- <a href="https://www.esa.int/Space_Safety/Hera/Hera_asteroid_mission_spies_Mars_s_Deimos_moon" >🔗</a> **[ESA]** Hera asteroid mission spies Mars’s Deimos moon
-- <a href="https://europeanspaceflight.com/thales-alenia-space-to-build-esa-moonlight-satellites-for-telespazio/" >🔗</a> **[European Spaceflight]** Thales Alenia Space to Build ESA Moonlight Satellites for Telespazio
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250313T190125">2025-03-13 19:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250313T193112">2025-03-13 19:31:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
