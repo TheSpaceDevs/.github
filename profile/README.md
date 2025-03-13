@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Extended_space_dive" >🔗</a> **[ESA]** Extended space dive
+- <a href="https://www.teslarati.com/spacex-receives-17-3m-grant-texas-bastrop-site-expansion/" >🔗</a> **[Teslarati]** Texas awards SpaceX $17.3M grant to expand Bastrop tech hub
 - <a href="https://spacenews.com/multi-orbit-operators-push-back-on-starlink-satcoms-dominance-narrative/" >🔗</a> **[SpaceNews]** Multi-orbit operators push back on Starlink satcoms dominance narrative
 - <a href="https://spacenews.com/rbc-signals-adds-10-antennas-to-global-ground-station-network/" >🔗</a> **[SpaceNews]** RBC Signals adds 10 antennas to global ground-station network
 - <a href="https://spacepolicyonline.com/news/its-a-scrub-for-crew-10s-launch-tonight/" >🔗</a> **[SpacePolicyOnline.com]** It’s a Scrub for Crew-10’s Launch Tonight
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/space-development-agency-adjusts-satellite-procurement-strategy/" >🔗</a> **[SpaceNews]** Space Development Agency adjusts satellite procurement strategy
 - <a href="https://spacenews.com/chinas-expanding-footprint-in-geostationary-orbit-raises-security-concerns/" >🔗</a> **[SpaceNews]** China’s expanding footprint in geostationary orbit raises security concerns
 - <a href="https://www.spacescout.info/2025/03/familiar-spectacle-and-setbacks-from-starship-flight-8/" >🔗</a> **[Space Scout]** Familiar Spectacle and Setbacks From Starship Flight 8
-- <a href="https://science.nasa.gov/science-research/heliophysics/mms-mission-turns-10/" >🔗</a> **[NASA]** NASA’s Record-Shattering, Theory-Breaking MMS Mission Turns 10
-- <a href="https://spacenews.com/isar-aerospace-wins-norwegian-space-agency-launch-contract/" >🔗</a> **[SpaceNews]** Isar Aerospace wins Norwegian Space Agency launch contract
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250313T073107">2025-03-13 07:31:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250313T080140">2025-03-13 08:01:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
