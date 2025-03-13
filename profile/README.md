@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/rbc-signals-adds-10-antennas-to-global-ground-station-network/" >🔗</a> **[SpaceNews]** RBC Signals adds 10 antennas to global ground-station network
+- <a href="https://spacepolicyonline.com/news/its-a-scrub-for-crew-10s-launch-tonight/" >🔗</a> **[SpacePolicyOnline.com]** It’s a Scrub for Crew-10’s Launch Tonight
 - <a href="https://spacenews.com/cognitive-space-claims-two-sda-awards/" >🔗</a> **[SpaceNews]** Cognitive Space claims two SDA awards
 - <a href="https://www.nasa.gov/es/el-x-59-de-la-nasa-completa-las-pruebas-electromagneticas/" >🔗</a> **[NASA]** El X-59 de la NASA completa las pruebas electromagnéticas
 - <a href="https://spacenews.com/space-development-agency-adjusts-satellite-procurement-strategy/" >🔗</a> **[SpaceNews]** Space Development Agency adjusts satellite procurement strategy
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/science-research/heliophysics/mms-mission-turns-10/" >🔗</a> **[NASA]** NASA’s Record-Shattering, Theory-Breaking MMS Mission Turns 10
 - <a href="https://spacenews.com/isar-aerospace-wins-norwegian-space-agency-launch-contract/" >🔗</a> **[SpaceNews]** Isar Aerospace wins Norwegian Space Agency launch contract
 - <a href="https://www.nasaspaceflight.com/2025/03/crew-10-launch/" >🔗</a> **[NASASpaceflight]** SpaceX set to launch NASA’s Crew-10 mission to the ISS
-- <a href="https://www.nasa.gov/missions/nisar/nasa-isro-mission-will-map-farmland-from-planting-to-harvest/" >🔗</a> **[NASA]** NASA-ISRO Mission Will Map Farmland From Planting to Harvest
-- <a href="https://science.nasa.gov/blog/sols-4477-4478-bumping-back-to-business/" >🔗</a> **[NASA]** Sols 4477-4478:  Bumping Back to Business
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250312T233202">2025-03-12 23:32:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250313T000436">2025-03-13 00:04:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
