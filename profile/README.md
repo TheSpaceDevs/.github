@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/jason-cs-sentinel-6/sentinel-6-michael-freilich/nasa-analysis-shows-unexpected-amount-of-sea-level-rise-in-2024/" >🔗</a> **[NASA]** NASA Analysis Shows Unexpected Amount of Sea Level Rise in 2024
+- <a href="https://spacenews.com/when-pixels-become-the-priority/" >🔗</a> **[SpaceNews]** When Pixels Become the Priority
 - <a href="https://spacenews.com/esa-lays-foundations-for-the-future-of-data-transmission/" >🔗</a> **[SpaceNews]** ESA lays foundations for the future of data transmission
 - <a href="https://www.nasa.gov/general/nasa-cameras-on-blue-ghost-capture-first-of-its-kind-moon-landing-footage/" >🔗</a> **[NASA]** NASA Cameras on Blue Ghost Capture First-of-its-Kind Moon Landing Footage
 - <a href="https://www.esa.int/Space_Safety/Hera/Hera_s_incredible_adventures_in_LEGO" >🔗</a> **[ESA]** Hera’s incredible adventures in LEGO
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Applications/Satellite_navigation/ESA_s_NavLab_on_wheels_an_Arctic_mission" >🔗</a> **[ESA]** ESA’s NavLab on wheels: an Arctic mission
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Extended_space_dive" >🔗</a> **[ESA]** Extended space dive
 - <a href="https://www.teslarati.com/spacex-receives-17-3m-grant-texas-bastrop-site-expansion/" >🔗</a> **[Teslarati]** Texas awards SpaceX $17.3M grant to expand Bastrop tech hub
-- <a href="https://www.esa.int/Space_Safety/Hera/Hera_asteroid_mission_surveys_Mars_s_Deimos_moon" >🔗</a> **[ESA]** Hera asteroid mission surveys Mars’s Deimos moon
-- <a href="https://spacenews.com/multi-orbit-operators-push-back-on-starlink-satcoms-dominance-narrative/" >🔗</a> **[SpaceNews]** Multi-orbit operators push back on Starlink satcoms dominance narrative
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250313T150131">2025-03-13 15:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250313T153420">2025-03-13 15:34:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
