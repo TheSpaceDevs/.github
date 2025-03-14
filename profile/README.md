@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-hails-blue-ghost-1-mission-as-proof-positive-of-clps-program/" >🔗</a> **[SpaceNews]** NASA hails Blue Ghost 1 mission as “proof positive” of CLPS program
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Euclid/Follow_the_reveal_of_Euclid_s_new_catalogue_on_19_March" >🔗</a> **[ESA]** Follow the reveal of Euclid’s new catalogue on 19 March
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/03/Earth_from_Space_Halong_Bay_Vietnam" >🔗</a> **[ESA]** Earth from Space: Halong Bay, Vietnam
 - <a href="https://europeanspaceflight.com/inaugural-isar-aerospace-spectrum-launch-set-for-late-march/" >🔗</a> **[European Spaceflight]** Inaugural Isar Aerospace Spectrum Launch Set for Late March
 - <a href="https://spacepolicyonline.com/news/bruno-touts-vulcans-unique-capabilities-as-it-awaits-certification/" >🔗</a> **[SpacePolicyOnline.com]** Bruno Touts Vulcan’s Unique Capabilities as it Awaits Certification
 - <a href="https://spacenews.com/argotec-announces-modular-satellite-platform/" >🔗</a> **[SpaceNews]** Argotec announces modular satellite platform
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/l3harris-taps-commercial-ai-partners-for-pentagons-golden-dome-program/" >🔗</a> **[SpaceNews]** L3Harris taps commercial AI partners for Pentagon’s Golden Dome program
 - <a href="https://www.nasaspaceflight.com/2025/03/spacex-flight-8-what-now/" >🔗</a> **[NASASpaceflight]** SpaceX press on with pre-launch testing while working Ship issue mitigation
 - <a href="https://science.nasa.gov/blog/navigating-a-slanted-river/" >🔗</a> **[NASA]** Navigating a Slanted River
-- <a href="https://arstechnica.com/space/2025/03/popular-program-to-promote-women-becoming-aerospace-engineers-is-at-risk/" >🔗</a> **[Arstechnica]** Popular program to promote women becoming aerospace engineers is at risk
-- <a href="https://spacenews.com/new-fcc-space-chief-seeks-licensing-reform-and-intensive-use-of-spectrum/" >🔗</a> **[SpaceNews]** New FCC space chief seeks licensing reform and “intensive” use of spectrum
-- <a href="https://spacenews.com/join-or-die-how-satellite-manufacturers-approach-competition-with-spacex/" >🔗</a> **[SpaceNews]** Join or die: How satellite manufacturers approach competition with  SpaceX
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250314T090127">2025-03-14 09:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250314T093246">2025-03-14 09:32:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
