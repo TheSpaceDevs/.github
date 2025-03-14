@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/live-event-the-hypersonics-revolution-a-conversation-with-mark-lewis/" >🔗</a> **[SpaceNews]** Live Event: The Hypersonics Revolution – A Conversation with Mark Lewis
+- <a href="https://www.nasaspaceflight.com/2025/03/t13/" >🔗</a> **[NASASpaceflight]** SpaceX to launch Transporter-13 rideshare from Vandenberg
 - <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/embracing-the-equinox/" >🔗</a> **[NASA]** Embracing the Equinox
 - <a href="https://www.nasa.gov/aeronautics/agriculture-comp-finalists/" >🔗</a> **[NASA]** Finalists Selected in NASA Aeronautics Agriculture-Themed Competition
 - <a href="https://arstechnica.com/space/2025/03/relativity-space-may-soon-move-a-majority-of-its-operations-to-texas/" >🔗</a> **[Arstechnica]** Relativity Space may soon move a majority of its operations to Texas
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/meet-the-johnson-clps-team-supporting-nasas-lunar-exploration-goals/" >🔗</a> **[NASA]** Meet the Johnson CLPS Team Supporting NASA’s Lunar Exploration Goals
 - <a href="https://www.nasa.gov/image-article/blood-moon-lunar-eclipse/" >🔗</a> **[NASA]** Blood Moon Lunar Eclipse
 - <a href="https://spacepolicyonline.com/news/fireflys-dazzling-images-of-earth-eclipsing-the-sun/" >🔗</a> **[SpacePolicyOnline.com]** Firefly’s Dazzling Images of Earth Eclipsing the Sun
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/03/Sara_Garcia_Alonso_Astronaut_Reserve_Training_Space_biology_Explorer_s_Wisdom_ESA_Explores_10" >🔗</a> **[ESA]** Sara García Alonso | Astronaut Reserve Training, Space biology, Explorer’s Wisdom | ESA Explores #10
-- <a href="https://science.nasa.gov/earth/nasa-data-supports-everglades-restoration/" >🔗</a> **[NASA]** NASA Data Supports Everglades Restoration
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250314T190122">2025-03-14 19:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250314T193121">2025-03-14 19:31:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
