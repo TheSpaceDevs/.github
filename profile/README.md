@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/chinas-ispace-secures-d-round-funding-targets-december-orbital-launch-and-landing/" >🔗</a> **[SpaceNews]** China’s iSpace secures D round funding, targets December orbital launch and landing
 - <a href="https://spacenews.com/nasa-hails-blue-ghost-1-mission-as-proof-positive-of-clps-program/" >🔗</a> **[SpaceNews]** NASA hails Blue Ghost 1 mission as “proof positive” of CLPS program
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Euclid/Follow_the_reveal_of_Euclid_s_new_catalogue_on_19_March" >🔗</a> **[ESA]** Follow the reveal of Euclid’s new catalogue on 19 March
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/03/Earth_from_Space_Halong_Bay_Vietnam" >🔗</a> **[ESA]** Earth from Space: Halong Bay, Vietnam
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2025/03/athena-landed-in-a-dark-crater-where-the-temperature-was-minus-280-f/" >🔗</a> **[Arstechnica]** Athena landed in a dark crater where the temperature was minus 280° F
 - <a href="https://spacenews.com/l3harris-taps-commercial-ai-partners-for-pentagons-golden-dome-program/" >🔗</a> **[SpaceNews]** L3Harris taps commercial AI partners for Pentagon’s Golden Dome program
 - <a href="https://www.nasaspaceflight.com/2025/03/spacex-flight-8-what-now/" >🔗</a> **[NASASpaceflight]** SpaceX press on with pre-launch testing while working Ship issue mitigation
-- <a href="https://science.nasa.gov/blog/navigating-a-slanted-river/" >🔗</a> **[NASA]** Navigating a Slanted River
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250314T100135">2025-03-14 10:01:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250314T103455">2025-03-14 10:34:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
