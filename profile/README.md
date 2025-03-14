@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/03/Sara_Garcia_Alonso_Astronaut_Reserve_Training_Space_biology_Explorer_s_Wisdom_ESA_Explores_10" >🔗</a> **[ESA]** Sara García Alonso | Astronaut Reserve Training, Space biology, Explorer’s Wisdom | ESA Explores #10
+- <a href="https://science.nasa.gov/earth/nasa-data-supports-everglades-restoration/" >🔗</a> **[NASA]** NASA Data Supports Everglades Restoration
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_10-14_March_2025" >🔗</a> **[ESA]** Week in images: 10-14 March 2025
 - <a href="https://spacenews.com/whats-driving-chinas-commercial-launch-industry/" >🔗</a> **[SpaceNews]** What’s driving China’s commercial launch industry
 - <a href="https://spacenews.com/where-no-rover-has-gone-before-how-mars-helicopters-enable-a-new-era-of-exploration/" >🔗</a> **[SpaceNews]** Where no rover has gone before: how Mars helicopters enable a new era of exploration
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/nasa-hails-blue-ghost-1-mission-as-proof-positive-of-clps-program/" >🔗</a> **[SpaceNews]** NASA hails Blue Ghost 1 mission as “proof positive” of CLPS program
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Euclid/Follow_the_reveal_of_Euclid_s_new_catalogue_on_19_March" >🔗</a> **[ESA]** Follow the reveal of Euclid’s new catalogue on 19 March
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/03/Earth_from_Space_Halong_Bay_Vietnam" >🔗</a> **[ESA]** Earth from Space: Halong Bay, Vietnam
-- <a href="https://europeanspaceflight.com/inaugural-isar-aerospace-spectrum-launch-set-for-late-march/" >🔗</a> **[European Spaceflight]** Inaugural Isar Aerospace Spectrum Launch Set for Late March
-- <a href="https://spacepolicyonline.com/news/bruno-touts-vulcans-unique-capabilities-as-it-awaits-certification/" >🔗</a> **[SpacePolicyOnline.com]** Bruno Touts Vulcan’s Unique Capabilities as it Awaits Certification
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250314T150126">2025-03-14 15:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250314T153315">2025-03-14 15:33:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
