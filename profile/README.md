@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.teslarati.com/spacex-readies-to-rescue-astronauts-from-international-space-station/" >🔗</a> **[Teslarati]** SpaceX readies to rescue astronauts from International Space Station
+- <a href="https://www.nasa.gov/learning-resources/career-spotlight-engineer-ages-14-18/" >🔗</a> **[NASA]** Career Spotlight: Engineer (Ages 14-18)
 - <a href="https://www.nasa.gov/missions/scientific-balloons/nasa-super-pressure-balloons-return-to-new-zealand-for-test-flights/" >🔗</a> **[NASA]** NASA Super Pressure Balloons Return to New Zealand for Test Flights
 - <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-expertise-helps-record-all-the-buzz/" >🔗</a> **[NASA]** NASA Expertise Helps Record all the Buzz
 - <a href="https://www.nasa.gov/image-article/nasa-space-station-research-helps-power-moon-science/" >🔗</a> **[NASA]** NASA Space Station Research Helps Power Moon Science
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/embracing-the-equinox/" >🔗</a> **[NASA]** Embracing the Equinox
 - <a href="https://www.nasa.gov/aeronautics/agriculture-comp-finalists/" >🔗</a> **[NASA]** Finalists Selected in NASA Aeronautics Agriculture-Themed Competition
 - <a href="https://arstechnica.com/space/2025/03/relativity-space-may-soon-move-a-majority-of-its-operations-to-texas/" >🔗</a> **[Arstechnica]** Relativity Space may soon move a majority of its operations to Texas
-- <a href="https://science.nasa.gov/science-research/heliophysics/nasa-awe-first-data/" >🔗</a> **[NASA]** NASA Atmospheric Wave-Studying Mission Releases Data from First 3,000 Orbits
-- <a href="https://www.nasa.gov/missions/meet-the-johnson-clps-team-supporting-nasas-lunar-exploration-goals/" >🔗</a> **[NASA]** Meet the Johnson CLPS Team Supporting NASA’s Lunar Exploration Goals
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250314T200136">2025-03-14 20:01:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250314T203238">2025-03-14 20:32:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
