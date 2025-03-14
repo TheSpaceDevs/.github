@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/scientific-balloons/nasa-super-pressure-balloons-return-to-new-zealand-for-test-flights/" >🔗</a> **[NASA]** NASA Super Pressure Balloons Return to New Zealand for Test Flights
+- <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-expertise-helps-record-all-the-buzz/" >🔗</a> **[NASA]** NASA Expertise Helps Record all the Buzz
+- <a href="https://www.nasa.gov/image-article/nasa-space-station-research-helps-power-moon-science/" >🔗</a> **[NASA]** NASA Space Station Research Helps Power Moon Science
 - <a href="https://spacenews.com/live-event-the-hypersonics-revolution-a-conversation-with-mark-lewis/" >🔗</a> **[SpaceNews]** Live Event: The Hypersonics Revolution – A Conversation with Mark Lewis
 - <a href="https://www.nasaspaceflight.com/2025/03/t13/" >🔗</a> **[NASASpaceflight]** SpaceX to launch Transporter-13 rideshare from Vandenberg
 - <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/embracing-the-equinox/" >🔗</a> **[NASA]** Embracing the Equinox
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2025/03/relativity-space-may-soon-move-a-majority-of-its-operations-to-texas/" >🔗</a> **[Arstechnica]** Relativity Space may soon move a majority of its operations to Texas
 - <a href="https://science.nasa.gov/science-research/heliophysics/nasa-awe-first-data/" >🔗</a> **[NASA]** NASA Atmospheric Wave-Studying Mission Releases Data from First 3,000 Orbits
 - <a href="https://www.nasa.gov/missions/meet-the-johnson-clps-team-supporting-nasas-lunar-exploration-goals/" >🔗</a> **[NASA]** Meet the Johnson CLPS Team Supporting NASA’s Lunar Exploration Goals
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/meet-the-johnson-clps-team-supporting-nasas-lunar-exploration-goals/" >🔗</a> **[NASA]** Meet the Johnson CLPS Team Supporting NASA’s Lunar Exploration Goals
-- <a href="https://www.nasa.gov/image-article/blood-moon-lunar-eclipse/" >🔗</a> **[NASA]** Blood Moon Lunar Eclipse
-- <a href="https://spacepolicyonline.com/news/fireflys-dazzling-images-of-earth-eclipsing-the-sun/" >🔗</a> **[SpacePolicyOnline.com]** Firefly’s Dazzling Images of Earth Eclipsing the Sun
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250314T193121">2025-03-14 19:31:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250314T200136">2025-03-14 20:01:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
