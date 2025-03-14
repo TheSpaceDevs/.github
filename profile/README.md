@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/where-no-rover-has-gone-before-how-mars-helicopters-enable-a-new-era-of-exploration/" >🔗</a> **[SpaceNews]** Where no rover has gone before: how Mars helicopters enable a new era of exploration
 - <a href="https://science.nasa.gov/missions/hubble/hubble-sees-a-spiral-and-a-star/" >🔗</a> **[NASA]** Hubble Sees a Spiral and a Star
 - <a href="https://spacenews.com/chinas-ispace-secures-d-round-funding-targets-december-orbital-launch-and-landing/" >🔗</a> **[SpaceNews]** China’s iSpace secures D round funding, targets December orbital launch and landing
 - <a href="https://spacenews.com/nasa-hails-blue-ghost-1-mission-as-proof-positive-of-clps-program/" >🔗</a> **[SpaceNews]** NASA hails Blue Ghost 1 mission as “proof positive” of CLPS program
@@ -100,26 +101,25 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/bruno-touts-vulcans-unique-capabilities-as-it-awaits-certification/" >🔗</a> **[SpacePolicyOnline.com]** Bruno Touts Vulcan’s Unique Capabilities as it Awaits Certification
 - <a href="https://spacenews.com/argotec-announces-modular-satellite-platform/" >🔗</a> **[SpaceNews]** Argotec announces modular satellite platform
 - <a href="https://arstechnica.com/space/2025/03/athena-landed-in-a-dark-crater-where-the-temperature-was-minus-280-f/" >🔗</a> **[Arstechnica]** Athena landed in a dark crater where the temperature was minus 280° F
-- <a href="https://spacenews.com/l3harris-taps-commercial-ai-partners-for-pentagons-golden-dome-program/" >🔗</a> **[SpaceNews]** L3Harris taps commercial AI partners for Pentagon’s Golden Dome program
 
 
 ### Launch-related News 🚀
 
+- <a href="https://spacepolicyonline.com/news/its-a-scrub-for-crew-10s-launch-tonight/" >🔗</a> **[SpacePolicyOnline.com]** It’s a Scrub for Crew-10’s Launch Tonight
+- <a href="https://www.nasaspaceflight.com/2025/03/crew-10-launch/" >🔗</a> **[NASASpaceflight]** SpaceX set to launch NASA’s Crew-10 mission to the ISS
+- <a href="https://spaceflightnow.com/2025/03/12/live-coverage-nasa-spacex-to-launch-crew-10-astronaut-mission-on-falcon-9-rocket-from-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: NASA, SpaceX to launch Crew-10 astronaut mission on Falcon 9 rocket from Kennedy Space Center
+- <a href="https://www.nasa.gov/image-article/sun-rises-on-crew-10-at-launch-pad/" >🔗</a> **[NASA]** Sun Rises on Crew-10 at Launch Pad
 - <a href="https://www.nasaspaceflight.com/2025/03/launch-roundup-031025/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX, Rocket Lab, and Firefly set to launch amid busy launch manifest
 - <a href="https://www.nasa.gov/missions/station/iss-research/nasa-partners-to-conduct-space-station-research-during-expedition-73/" >🔗</a> **[NASA]** NASA, Partners to Conduct Space Station Research During Expedition 73
 - <a href="https://www.nasa.gov/get-involved/virtual-guest-program/nasa-invites-you-to-share-excitement-of-agencys-spacex-crew-10-launch/" >🔗</a> **[NASA]** NASA Invites You to Share Excitement of Agency’s SpaceX Crew-10 Launch
 - <a href="https://www.nasa.gov/missions/station/what-you-need-to-know-about-nasas-spacex-crew-10-mission/" >🔗</a> **[NASA]** What You Need to Know about NASA’s SpaceX Crew-10 Mission
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-agencys-spacex-crew-10-launch-docking/" >🔗</a> **[NASA]** NASA Sets Coverage for Agency’s SpaceX Crew-10 Launch, Docking
 - <a href="https://www.nasa.gov/humans-in-space/nasas-spacex-crew-10-to-explore-deep-space-exercise-health/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-10 to Explore Deep Space Exercise, Health
-- <a href="https://www.nasa.gov/news-release/nasa-sets-briefings-for-next-international-space-station-crew-missions-2/" >🔗</a> **[NASA]** NASA Sets Briefings for Next International Space Station Crew Missions
-- <a href="https://spaceflightnow.com/2025/02/12/nasa-announces-new-launch-date-for-crew-10-swap-of-spacex-dragon-spacecraft-following-construction-delays/" >🔗</a> **[Spaceflight Now]** NASA announces new launch date for Crew-10, swap of SpaceX Dragon spacecraft following construction delays
-- <a href="https://spacepolicyonline.com/news/nasa-switches-crew-dragons-allowing-butch-and-suni-to-come-home-a-couple-weeks-sooner/" >🔗</a> **[SpacePolicyOnline.com]** NASA Switches Crew Dragons Allowing Butch and Suni to Come Home a Couple Weeks Sooner
-- <a href="https://spacenews.com/nasa-and-spacex-to-swap-crew-dragon-spacecraft-to-reduce-crew-10-delay/" >🔗</a> **[SpaceNews]** NASA and SpaceX to swap Crew Dragon spacecraft to reduce Crew-10 delay
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250314T130548">2025-03-14 13:05:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250314T133441">2025-03-14 13:34:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
