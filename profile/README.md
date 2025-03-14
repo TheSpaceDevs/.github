@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/embracing-the-equinox/" >🔗</a> **[NASA]** Embracing the Equinox
+- <a href="https://www.nasa.gov/aeronautics/agriculture-comp-finalists/" >🔗</a> **[NASA]** Finalists Selected in NASA Aeronautics Agriculture-Themed Competition
+- <a href="https://arstechnica.com/space/2025/03/relativity-space-may-soon-move-a-majority-of-its-operations-to-texas/" >🔗</a> **[Arstechnica]** Relativity Space may soon move a majority of its operations to Texas
+- <a href="https://science.nasa.gov/science-research/heliophysics/nasa-awe-first-data/" >🔗</a> **[NASA]** NASA Atmospheric Wave-Studying Mission Releases Data from First 3,000 Orbits
 - <a href="https://www.nasa.gov/missions/meet-the-johnson-clps-team-supporting-nasas-lunar-exploration-goals/" >🔗</a> **[NASA]** Meet the Johnson CLPS Team Supporting NASA’s Lunar Exploration Goals
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/meet-the-johnson-clps-team-supporting-nasas-lunar-exploration-goals/" >🔗</a> **[NASA]** Meet the Johnson CLPS Team Supporting NASA’s Lunar Exploration Goals
 - <a href="https://www.nasa.gov/image-article/blood-moon-lunar-eclipse/" >🔗</a> **[NASA]** Blood Moon Lunar Eclipse
 - <a href="https://spacepolicyonline.com/news/fireflys-dazzling-images-of-earth-eclipsing-the-sun/" >🔗</a> **[SpacePolicyOnline.com]** Firefly’s Dazzling Images of Earth Eclipsing the Sun
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/03/Sara_Garcia_Alonso_Astronaut_Reserve_Training_Space_biology_Explorer_s_Wisdom_ESA_Explores_10" >🔗</a> **[ESA]** Sara García Alonso | Astronaut Reserve Training, Space biology, Explorer’s Wisdom | ESA Explores #10
 - <a href="https://science.nasa.gov/earth/nasa-data-supports-everglades-restoration/" >🔗</a> **[NASA]** NASA Data Supports Everglades Restoration
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_10-14_March_2025" >🔗</a> **[ESA]** Week in images: 10-14 March 2025
-- <a href="https://spacenews.com/whats-driving-chinas-commercial-launch-industry/" >🔗</a> **[SpaceNews]** What’s driving China’s commercial launch industry
-- <a href="https://spacenews.com/where-no-rover-has-gone-before-how-mars-helicopters-enable-a-new-era-of-exploration/" >🔗</a> **[SpaceNews]** Where no rover has gone before: how Mars helicopters enable a new era of exploration
-- <a href="https://science.nasa.gov/missions/hubble/hubble-sees-a-spiral-and-a-star/" >🔗</a> **[NASA]** Hubble Sees a Spiral and a Star
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250314T180133">2025-03-14 18:01:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250314T183622">2025-03-14 18:36:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
