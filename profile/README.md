@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/bruno-touts-vulcans-unique-capabilities-as-it-awaits-certification/" >🔗</a> **[SpacePolicyOnline.com]** Bruno Touts Vulcan’s Unique Capabilities as it Awaits Certification
 - <a href="https://spacenews.com/argotec-announces-modular-satellite-platform/" >🔗</a> **[SpaceNews]** Argotec announces modular satellite platform
 - <a href="https://arstechnica.com/space/2025/03/athena-landed-in-a-dark-crater-where-the-temperature-was-minus-280-f/" >🔗</a> **[Arstechnica]** Athena landed in a dark crater where the temperature was minus 280° F
 - <a href="https://spacenews.com/l3harris-taps-commercial-ai-partners-for-pentagons-golden-dome-program/" >🔗</a> **[SpaceNews]** L3Harris taps commercial AI partners for Pentagon’s Golden Dome program
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/new-fcc-space-chief-seeks-licensing-reform-and-intensive-use-of-spectrum/" >🔗</a> **[SpaceNews]** New FCC space chief seeks licensing reform and “intensive” use of spectrum
 - <a href="https://spacenews.com/join-or-die-how-satellite-manufacturers-approach-competition-with-spacex/" >🔗</a> **[SpaceNews]** Join or die: How satellite manufacturers approach competition with  SpaceX
 - <a href="https://science.nasa.gov/earth/nasa-researchers-study-coastal-wetlands-champions-of-carbon-capture/" >🔗</a> **[NASA]** NASA Researchers Study Coastal Wetlands, Champions of Carbon Capture
-- <a href="https://www.nasa.gov/missions/jason-cs-sentinel-6/sentinel-6-michael-freilich/nasa-analysis-shows-unexpected-amount-of-sea-level-rise-in-2024/" >🔗</a> **[NASA]** NASA Analysis Shows Unexpected Amount of Sea Level Rise in 2024
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250314T012831">2025-03-14 01:28:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250314T020529">2025-03-14 02:05:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
