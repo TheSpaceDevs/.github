@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_10-14_March_2025" >🔗</a> **[ESA]** Week in images: 10-14 March 2025
+- <a href="https://spacenews.com/whats-driving-chinas-commercial-launch-industry/" >🔗</a> **[SpaceNews]** What’s driving China’s commercial launch industry
 - <a href="https://spacenews.com/where-no-rover-has-gone-before-how-mars-helicopters-enable-a-new-era-of-exploration/" >🔗</a> **[SpaceNews]** Where no rover has gone before: how Mars helicopters enable a new era of exploration
 - <a href="https://science.nasa.gov/missions/hubble/hubble-sees-a-spiral-and-a-star/" >🔗</a> **[NASA]** Hubble Sees a Spiral and a Star
 - <a href="https://spacenews.com/chinas-ispace-secures-d-round-funding-targets-december-orbital-launch-and-landing/" >🔗</a> **[SpaceNews]** China’s iSpace secures D round funding, targets December orbital launch and landing
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/03/Earth_from_Space_Halong_Bay_Vietnam" >🔗</a> **[ESA]** Earth from Space: Halong Bay, Vietnam
 - <a href="https://europeanspaceflight.com/inaugural-isar-aerospace-spectrum-launch-set-for-late-march/" >🔗</a> **[European Spaceflight]** Inaugural Isar Aerospace Spectrum Launch Set for Late March
 - <a href="https://spacepolicyonline.com/news/bruno-touts-vulcans-unique-capabilities-as-it-awaits-certification/" >🔗</a> **[SpacePolicyOnline.com]** Bruno Touts Vulcan’s Unique Capabilities as it Awaits Certification
-- <a href="https://spacenews.com/argotec-announces-modular-satellite-platform/" >🔗</a> **[SpaceNews]** Argotec announces modular satellite platform
-- <a href="https://arstechnica.com/space/2025/03/athena-landed-in-a-dark-crater-where-the-temperature-was-minus-280-f/" >🔗</a> **[Arstechnica]** Athena landed in a dark crater where the temperature was minus 280° F
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250314T140127">2025-03-14 14:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250314T143359">2025-03-14 14:33:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
