@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/inaugural-isar-aerospace-spectrum-launch-set-for-late-march/" >🔗</a> **[European Spaceflight]** Inaugural Isar Aerospace Spectrum Launch Set for Late March
 - <a href="https://spacepolicyonline.com/news/bruno-touts-vulcans-unique-capabilities-as-it-awaits-certification/" >🔗</a> **[SpacePolicyOnline.com]** Bruno Touts Vulcan’s Unique Capabilities as it Awaits Certification
 - <a href="https://spacenews.com/argotec-announces-modular-satellite-platform/" >🔗</a> **[SpaceNews]** Argotec announces modular satellite platform
 - <a href="https://arstechnica.com/space/2025/03/athena-landed-in-a-dark-crater-where-the-temperature-was-minus-280-f/" >🔗</a> **[Arstechnica]** Athena landed in a dark crater where the temperature was minus 280° F
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2025/03/popular-program-to-promote-women-becoming-aerospace-engineers-is-at-risk/" >🔗</a> **[Arstechnica]** Popular program to promote women becoming aerospace engineers is at risk
 - <a href="https://spacenews.com/new-fcc-space-chief-seeks-licensing-reform-and-intensive-use-of-spectrum/" >🔗</a> **[SpaceNews]** New FCC space chief seeks licensing reform and “intensive” use of spectrum
 - <a href="https://spacenews.com/join-or-die-how-satellite-manufacturers-approach-competition-with-spacex/" >🔗</a> **[SpaceNews]** Join or die: How satellite manufacturers approach competition with  SpaceX
-- <a href="https://science.nasa.gov/earth/nasa-researchers-study-coastal-wetlands-champions-of-carbon-capture/" >🔗</a> **[NASA]** NASA Researchers Study Coastal Wetlands, Champions of Carbon Capture
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250314T070126">2025-03-14 07:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250314T073113">2025-03-14 07:31:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
