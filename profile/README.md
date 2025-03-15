@@ -91,6 +91,8 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/launches-from-sweden-could-cost-norway-over-e146m-per-flight/" >🔗</a> **[European Spaceflight]** Launches from Sweden Could Cost Norway Over €146M Per Flight
+- <a href="https://spaceflightnow.com/2025/03/15/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-8/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 23 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacepolicyonline.com/news/senate-passes-bill-to-avert-government-shutdown-but-democrats-in-disarray/" >🔗</a> **[SpacePolicyOnline.com]** Senate Passes Bill to Avert Government Shutdown, But Democrats in Disarray
 - <a href="https://spacenews.com/rocket-lab-launches-japanese-sar-satellite/" >🔗</a> **[SpaceNews]** Rocket Lab launches Japanese SAR satellite
 - <a href="https://arstechnica.com/space/2025/03/crew-10-launches-finally-clearing-the-way-for-butch-and-suni-to-fly-home/" >🔗</a> **[Arstechnica]** Crew-10 launches, finally clearing the way for Butch and Suni to fly home
@@ -99,8 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacepolicyonline.com/news/crew-10-on-its-way-to-iss/" >🔗</a> **[SpacePolicyOnline.com]** Crew-10 On Its Way to ISS
 - <a href="https://www.nasa.gov/organizations/ochmo/risk-of-venous-thromboembolism-during-spaceflight/" >🔗</a> **[NASA]** Risk of Venous Thromboembolism During Spaceflight
 - <a href="https://science.nasa.gov/blog/sols-4479-4480-what-is-that-lumpy-bumpy-rock/" >🔗</a> **[NASA]** Sols 4479-4480: What IS That Lumpy, Bumpy Rock?
-- <a href="https://spacenews.com/investors-bet-on-europes-space-sector-as-geopolitical-winds-shift/" >🔗</a> **[SpaceNews]** Investors bet on Europe’s space sector as geopolitical winds shift
-- <a href="https://www.teslarati.com/spacex-readies-to-rescue-astronauts-from-international-space-station/" >🔗</a> **[Teslarati]** SpaceX readies to rescue astronauts from International Space Station
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250315T060133">2025-03-15 06:01:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250315T063545">2025-03-15 06:35:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
