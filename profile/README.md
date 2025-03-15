@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/rocket-lab-launches-japanese-sar-satellite/" >🔗</a> **[SpaceNews]** Rocket Lab launches Japanese SAR satellite
 - <a href="https://arstechnica.com/space/2025/03/crew-10-launches-finally-clearing-the-way-for-butch-and-suni-to-fly-home/" >🔗</a> **[Arstechnica]** Crew-10 launches, finally clearing the way for Butch and Suni to fly home
 - <a href="https://spacenews.com/crew-10-launches-to-space-station/" >🔗</a> **[SpaceNews]** Crew-10 launches to space station
 - <a href="https://www.nasa.gov/news-release/nasas-spacex-crew-10-launches-to-international-space-station/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-10 Launches to International Space Station
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/investors-bet-on-europes-space-sector-as-geopolitical-winds-shift/" >🔗</a> **[SpaceNews]** Investors bet on Europe’s space sector as geopolitical winds shift
 - <a href="https://www.teslarati.com/spacex-readies-to-rescue-astronauts-from-international-space-station/" >🔗</a> **[Teslarati]** SpaceX readies to rescue astronauts from International Space Station
 - <a href="https://www.nasa.gov/learning-resources/career-spotlight-engineer-ages-14-18/" >🔗</a> **[NASA]** Career Spotlight: Engineer (Ages 14-18)
-- <a href="https://www.nasa.gov/missions/scientific-balloons/nasa-super-pressure-balloons-return-to-new-zealand-for-test-flights/" >🔗</a> **[NASA]** NASA Super Pressure Balloons Return to New Zealand for Test Flights
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250315T020425">2025-03-15 02:04:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250315T024537">2025-03-15 02:45:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
