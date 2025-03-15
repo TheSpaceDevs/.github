@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/intelligence-and-dual-use-commercial-satellites-launch-on-transporter-13/" >🔗</a> **[SpaceNews]** Intelligence and dual-use commercial satellites launch on Transporter-13
 - <a href="https://spacenews.com/spacex-launches-transporter-13-rideshare-mission/" >🔗</a> **[SpaceNews]** SpaceX launches Transporter-13 rideshare mission
 - <a href="https://science.nasa.gov/science-research/heliophysics/nasas-ezie-launches-on-mission-to-study-earths-electrojets/" >🔗</a> **[NASA]** NASA’s EZIE Launches on Mission to Study Earth’s Electrojets
 - <a href="https://europeanspaceflight.com/launches-from-sweden-could-cost-norway-over-e146m-per-flight/" >🔗</a> **[European Spaceflight]** Launches from Sweden Could Cost Norway Over €146M Per Flight
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://arstechnica.com/space/2025/03/crew-10-launches-finally-clearing-the-way-for-butch-and-suni-to-fly-home/" >🔗</a> **[Arstechnica]** Crew-10 launches, finally clearing the way for Butch and Suni to fly home
 - <a href="https://spacenews.com/crew-10-launches-to-space-station/" >🔗</a> **[SpaceNews]** Crew-10 launches to space station
 - <a href="https://www.nasa.gov/news-release/nasas-spacex-crew-10-launches-to-international-space-station/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-10 Launches to International Space Station
-- <a href="https://spacepolicyonline.com/news/crew-10-on-its-way-to-iss/" >🔗</a> **[SpacePolicyOnline.com]** Crew-10 On Its Way to ISS
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250315T200131">2025-03-15 20:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250315T203136">2025-03-15 20:31:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
