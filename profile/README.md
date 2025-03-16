@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/crew-10-arrives-at-space-station/" >🔗</a> **[SpaceNews]** Crew-10 arrives at space station
 - <a href="https://spacepolicyonline.com/news/crew-10-arrives-at-the-iss/" >🔗</a> **[SpacePolicyOnline.com]** Crew-10 Arrives at the ISS
 - <a href="https://spacenews.com/intelligence-and-dual-use-commercial-satellites-launch-on-transporter-13/" >🔗</a> **[SpaceNews]** Intelligence and dual-use commercial satellites launch on Transporter-13
 - <a href="https://spacenews.com/spacex-launches-transporter-13-rideshare-mission/" >🔗</a> **[SpaceNews]** SpaceX launches Transporter-13 rideshare mission
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacepolicyonline.com/news/senate-passes-bill-to-avert-government-shutdown-but-democrats-in-disarray/" >🔗</a> **[SpacePolicyOnline.com]** Senate Passes Bill to Avert Government Shutdown, But Democrats in Disarray
 - <a href="https://spacenews.com/rocket-lab-launches-japanese-sar-satellite/" >🔗</a> **[SpaceNews]** Rocket Lab launches Japanese SAR satellite
 - <a href="https://arstechnica.com/space/2025/03/crew-10-launches-finally-clearing-the-way-for-butch-and-suni-to-fly-home/" >🔗</a> **[Arstechnica]** Crew-10 launches, finally clearing the way for Butch and Suni to fly home
-- <a href="https://spacenews.com/crew-10-launches-to-space-station/" >🔗</a> **[SpaceNews]** Crew-10 launches to space station
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250316T150123">2025-03-16 15:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250316T153126">2025-03-16 15:31:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
