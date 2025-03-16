@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-march-16-22-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy March 16-22, 2025
+- <a href="https://tlpnetwork.com/news/america/relativity-space-update-terran-r-preparing-for-first-flight" >🔗</a> **[The Launch Pad]** Relativity Space Preparing For Terran R First Flight
 - <a href="https://spacenews.com/crew-10-arrives-at-space-station/" >🔗</a> **[SpaceNews]** Crew-10 arrives at space station
 - <a href="https://spacepolicyonline.com/news/crew-10-arrives-at-the-iss/" >🔗</a> **[SpacePolicyOnline.com]** Crew-10 Arrives at the ISS
 - <a href="https://spacenews.com/intelligence-and-dual-use-commercial-satellites-launch-on-transporter-13/" >🔗</a> **[SpaceNews]** Intelligence and dual-use commercial satellites launch on Transporter-13
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://europeanspaceflight.com/launches-from-sweden-could-cost-norway-over-e146m-per-flight/" >🔗</a> **[European Spaceflight]** Launches from Sweden Could Cost Norway Over €146M Per Flight
 - <a href="https://spaceflightnow.com/2025/03/15/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-8/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 23 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacepolicyonline.com/news/senate-passes-bill-to-avert-government-shutdown-but-democrats-in-disarray/" >🔗</a> **[SpacePolicyOnline.com]** Senate Passes Bill to Avert Government Shutdown, But Democrats in Disarray
-- <a href="https://spacenews.com/rocket-lab-launches-japanese-sar-satellite/" >🔗</a> **[SpaceNews]** Rocket Lab launches Japanese SAR satellite
-- <a href="https://arstechnica.com/space/2025/03/crew-10-launches-finally-clearing-the-way-for-butch-and-suni-to-fly-home/" >🔗</a> **[Arstechnica]** Crew-10 launches, finally clearing the way for Butch and Suni to fly home
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250316T180130">2025-03-16 18:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250316T183608">2025-03-16 18:36:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
