@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ceres-1-rocket-launches-8-chinese-commercial-satellites/" >🔗</a> **[SpaceNews]** Ceres-1 rocket launches 8 Chinese commercial satellites
+- <a href="https://spacenews.com/apollo-left-footprints-mars-must-leave-a-legacy/" >🔗</a> **[SpaceNews]** Apollo left footprints — Mars must leave a legacy
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/03/Biomass_out_of_the_box" >🔗</a> **[ESA]** Biomass out of the box
 - <a href="https://spacenews.com/nasa-gets-extension-to-submit-layoff-plans/" >🔗</a> **[SpaceNews]** NASA gets extension to submit layoff plans
 - <a href="https://spacenews.com/constellr-releases-first-light-imagery-of-tokyo/" >🔗</a> **[SpaceNews]** Constellr releases  first-light imagery of Tokyo
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-march-16-22-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy March 16-22, 2025
 - <a href="https://tlpnetwork.com/news/america/relativity-space-update-terran-r-preparing-for-first-flight" >🔗</a> **[The Launch Pad]** Relativity Space Preparing For Terran R First Flight
 - <a href="https://spacenews.com/crew-10-arrives-at-space-station/" >🔗</a> **[SpaceNews]** Crew-10 arrives at space station
-- <a href="https://spacepolicyonline.com/news/crew-10-arrives-at-the-iss/" >🔗</a> **[SpacePolicyOnline.com]** Crew-10 Arrives at the ISS
-- <a href="https://spacenews.com/intelligence-and-dual-use-commercial-satellites-launch-on-transporter-13/" >🔗</a> **[SpaceNews]** Intelligence and dual-use commercial satellites launch on Transporter-13
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250317T130745">2025-03-17 13:07:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250317T133656">2025-03-17 13:36:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
