@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/constellr-releases-first-light-imagery-of-tokyo/" >🔗</a> **[SpaceNews]** Constellr releases  first-light imagery of Tokyo
 - <a href="https://spacenews.com/space-national-guard-debate-reignited-with-bipartisan-legislation/" >🔗</a> **[SpaceNews]** Space National Guard debate reignited with bipartisan legislation
 - <a href="https://www.nasa.gov/news-release/nasa-to-provide-live-coverage-of-crew-9-return-splashdown/" >🔗</a> **[NASA]** NASA to Provide Live Coverage of Crew-9 Return, Splashdown
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-march-16-22-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy March 16-22, 2025
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/intelligence-and-dual-use-commercial-satellites-launch-on-transporter-13/" >🔗</a> **[SpaceNews]** Intelligence and dual-use commercial satellites launch on Transporter-13
 - <a href="https://spacenews.com/spacex-launches-transporter-13-rideshare-mission/" >🔗</a> **[SpaceNews]** SpaceX launches Transporter-13 rideshare mission
 - <a href="https://science.nasa.gov/science-research/heliophysics/nasas-ezie-launches-on-mission-to-study-earths-electrojets/" >🔗</a> **[NASA]** NASA’s EZIE Launches on Mission to Study Earth’s Electrojets
-- <a href="https://europeanspaceflight.com/launches-from-sweden-could-cost-norway-over-e146m-per-flight/" >🔗</a> **[European Spaceflight]** Launches from Sweden Could Cost Norway Over €146M Per Flight
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250317T070125">2025-03-17 07:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250317T073212">2025-03-17 07:32:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
