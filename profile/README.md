@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/innovative-dutch-technology-captures-historic-image-of-mars-and-deimos-during-esas-hera-mission-flyby/" >🔗</a> **[SpaceNews]** Innovative Dutch Technology Captures Historic Image of Mars and Deimos During ESA’s Hera Mission flyby
+- <a href="https://spacenews.com/cambrian-works-selected-by-afwerx-for-a-1-78m-direct-to-phase-ii-contract/" >🔗</a> **[SpaceNews]** Cambrian Works Selected by AFWERX for a $1.78M Direct-to-Phase II Contract
 - <a href="https://www.nasa.gov/centers-and-facilities/jpl/students-dive-into-robotics-at-competition-supported-by-nasa-jpl/" >🔗</a> **[NASA]** Students Dive Into Robotics at Competition Supported by NASA JPL
 - <a href="https://spaceflightnow.com/2025/03/17/fresh-crew-docks-at-space-station-starliner-astronauts-expected-to-return-to-earth-tuesday/" >🔗</a> **[Spaceflight Now]** Fresh crew docks at space station; Starliner astronauts expected to return to Earth Tuesday
 - <a href="https://www.nasa.gov/image-article/nasas-spacex-crew-10-launch/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-10 Launch
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/webinar-tracking-hypersonic-missiles/" >🔗</a> **[SpaceNews]** Webinar: Tracking Hypersonic Missiles
 - <a href="https://www.nasa.gov/centers-and-facilities/goddard/new-modeling-assesses-age-of-next-target-asteroid-for-nasas-lucy/" >🔗</a> **[NASA]** New Modeling Assesses Age of Next Target Asteroid for NASA’s Lucy
 - <a href="https://science.nasa.gov/missions/webb/nasas-webb-images-young-giant-exoplanets-detects-carbon-dioxide/" >🔗</a> **[NASA]** NASA’s Webb Images Young, Giant Exoplanets, Detects Carbon Dioxide
-- <a href="https://europeanspaceflight.com/avio-to-begin-testing-next-gen-reusable-rocket-demonstrator-in-2025/" >🔗</a> **[European Spaceflight]** Avio to Begin Testing Next-Gen Reusable Rocket Demonstrator in 2025
-- <a href="https://science.nasa.gov/uncategorized/summer-2024/" >🔗</a> **[NASA]** Summer 2024
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250317T180136">2025-03-17 18:01:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250317T183622">2025-03-17 18:36:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
