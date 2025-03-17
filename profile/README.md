@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/goddard/new-modeling-assesses-age-of-next-target-asteroid-for-nasas-lucy/" >🔗</a> **[NASA]** New Modeling Assesses Age of Next Target Asteroid for NASA’s Lucy
+- <a href="https://science.nasa.gov/missions/webb/nasas-webb-images-young-giant-exoplanets-detects-carbon-dioxide/" >🔗</a> **[NASA]** NASA’s Webb Images Young, Giant Exoplanets, Detects Carbon Dioxide
+- <a href="https://europeanspaceflight.com/avio-to-begin-testing-next-gen-reusable-rocket-demonstrator-in-2025/" >🔗</a> **[European Spaceflight]** Avio to Begin Testing Next-Gen Reusable Rocket Demonstrator in 2025
+- <a href="https://science.nasa.gov/uncategorized/summer-2024/" >🔗</a> **[NASA]** Summer 2024
+- <a href="https://science.nasa.gov/uncategorized/eclips-september-2024/" >🔗</a> **[NASA]** September 2024
 - <a href="https://spacenews.com/ceres-1-rocket-launches-8-chinese-commercial-satellites/" >🔗</a> **[SpaceNews]** Ceres-1 rocket launches 8 Chinese commercial satellites
 - <a href="https://spacenews.com/apollo-left-footprints-mars-must-leave-a-legacy/" >🔗</a> **[SpaceNews]** Apollo left footprints — Mars must leave a legacy
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/03/Biomass_out_of_the_box" >🔗</a> **[ESA]** Biomass out of the box
 - <a href="https://spacenews.com/nasa-gets-extension-to-submit-layoff-plans/" >🔗</a> **[SpaceNews]** NASA gets extension to submit layoff plans
 - <a href="https://spacenews.com/constellr-releases-first-light-imagery-of-tokyo/" >🔗</a> **[SpaceNews]** Constellr releases  first-light imagery of Tokyo
-- <a href="https://spacenews.com/space-national-guard-debate-reignited-with-bipartisan-legislation/" >🔗</a> **[SpaceNews]** Space National Guard debate reignited with bipartisan legislation
-- <a href="https://www.nasa.gov/news-release/nasa-to-provide-live-coverage-of-crew-9-return-splashdown/" >🔗</a> **[NASA]** NASA to Provide Live Coverage of Crew-9 Return, Splashdown
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-march-16-22-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy March 16-22, 2025
-- <a href="https://tlpnetwork.com/news/america/relativity-space-update-terran-r-preparing-for-first-flight" >🔗</a> **[The Launch Pad]** Relativity Space Preparing For Terran R First Flight
-- <a href="https://spacenews.com/crew-10-arrives-at-space-station/" >🔗</a> **[SpaceNews]** Crew-10 arrives at space station
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250317T140123">2025-03-17 14:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250317T143434">2025-03-17 14:34:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
