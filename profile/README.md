@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/03/17/fresh-crew-docks-at-space-station-starliner-astronauts-expected-to-return-to-earth-tuesday/" >🔗</a> **[Spaceflight Now]** Fresh crew docks at space station; Starliner astronauts expected to return to Earth Tuesday
+- <a href="https://www.nasa.gov/image-article/nasas-spacex-crew-10-launch/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-10 Launch
+- <a href="https://spacenews.com/firefly-aerospace-wraps-up-successful-blue-ghost-1-mission/" >🔗</a> **[SpaceNews]** Firefly Aerospace wraps up successful Blue Ghost 1 mission
 - <a href="https://www.nasa.gov/news-release/nasa-firefly-invite-media-to-discuss-end-of-blue-ghost-moon-mission/" >🔗</a> **[NASA]** NASA, Firefly Invite Media to Discuss End of Blue Ghost Moon Mission
 - <a href="https://spacenews.com/webinar-tracking-hypersonic-missiles/" >🔗</a> **[SpaceNews]** Webinar: Tracking Hypersonic Missiles
 - <a href="https://www.nasa.gov/centers-and-facilities/goddard/new-modeling-assesses-age-of-next-target-asteroid-for-nasas-lucy/" >🔗</a> **[NASA]** New Modeling Assesses Age of Next Target Asteroid for NASA’s Lucy
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/avio-to-begin-testing-next-gen-reusable-rocket-demonstrator-in-2025/" >🔗</a> **[European Spaceflight]** Avio to Begin Testing Next-Gen Reusable Rocket Demonstrator in 2025
 - <a href="https://science.nasa.gov/uncategorized/summer-2024/" >🔗</a> **[NASA]** Summer 2024
 - <a href="https://science.nasa.gov/uncategorized/eclips-september-2024/" >🔗</a> **[NASA]** September 2024
-- <a href="https://spacenews.com/ceres-1-rocket-launches-8-chinese-commercial-satellites/" >🔗</a> **[SpaceNews]** Ceres-1 rocket launches 8 Chinese commercial satellites
-- <a href="https://spacenews.com/apollo-left-footprints-mars-must-leave-a-legacy/" >🔗</a> **[SpaceNews]** Apollo left footprints — Mars must leave a legacy
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/03/Biomass_out_of_the_box" >🔗</a> **[ESA]** Biomass out of the box
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250317T160130">2025-03-17 16:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250317T163643">2025-03-17 16:36:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
