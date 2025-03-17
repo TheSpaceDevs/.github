@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-gets-extension-to-submit-layoff-plans/" >🔗</a> **[SpaceNews]** NASA gets extension to submit layoff plans
 - <a href="https://spacenews.com/constellr-releases-first-light-imagery-of-tokyo/" >🔗</a> **[SpaceNews]** Constellr releases  first-light imagery of Tokyo
 - <a href="https://spacenews.com/space-national-guard-debate-reignited-with-bipartisan-legislation/" >🔗</a> **[SpaceNews]** Space National Guard debate reignited with bipartisan legislation
 - <a href="https://www.nasa.gov/news-release/nasa-to-provide-live-coverage-of-crew-9-return-splashdown/" >🔗</a> **[NASA]** NASA to Provide Live Coverage of Crew-9 Return, Splashdown
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/crew-10-arrives-at-the-iss/" >🔗</a> **[SpacePolicyOnline.com]** Crew-10 Arrives at the ISS
 - <a href="https://spacenews.com/intelligence-and-dual-use-commercial-satellites-launch-on-transporter-13/" >🔗</a> **[SpaceNews]** Intelligence and dual-use commercial satellites launch on Transporter-13
 - <a href="https://spacenews.com/spacex-launches-transporter-13-rideshare-mission/" >🔗</a> **[SpaceNews]** SpaceX launches Transporter-13 rideshare mission
-- <a href="https://science.nasa.gov/science-research/heliophysics/nasas-ezie-launches-on-mission-to-study-earths-electrojets/" >🔗</a> **[NASA]** NASA’s EZIE Launches on Mission to Study Earth’s Electrojets
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250317T110125">2025-03-17 11:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250317T113059">2025-03-17 11:30:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
