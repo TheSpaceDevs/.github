@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/03/launch-roundup-031725/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Electron, Falcon 9, and Ceres-1 launches scheduled for the week
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/texas-high-school-aerospace-scholars-a-launchpad-for-future-innovators/" >🔗</a> **[NASA]** Texas High School Aerospace Scholars: A Launchpad for Future Innovators
 - <a href="https://www.nasa.gov/news-release/nasa-space-day-to-share-progress-opportunities-at-texas-capitol/" >🔗</a> **[NASA]** NASA Space Day to Share Progress, Opportunities at Texas Capitol
 - <a href="https://tlpnetwork.com/news/america/nasa-spacex-crew-9-ready-to-return-bringing-butch-and-suni-home-after-extended-mission" >🔗</a> **[The Launch Pad]** LIVE UPDATES: NASA SpaceX Crew 9 Return To Earth; Butch and Suni Coming Home After Extended Mission
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.spacescout.info/2025/03/athena-and-im-2-lost-after-landing/" >🔗</a> **[Space Scout]** Athena and IM-2 Lost After Landing
 - <a href="https://spacenews.com/innovative-dutch-technology-captures-historic-image-of-mars-and-deimos-during-esas-hera-mission-flyby/" >🔗</a> **[SpaceNews]** Innovative Dutch Technology Captures Historic Image of Mars and Deimos During ESA’s Hera Mission flyby
 - <a href="https://spacenews.com/cambrian-works-selected-by-afwerx-for-a-1-78m-direct-to-phase-ii-contract/" >🔗</a> **[SpaceNews]** Cambrian Works Selected by AFWERX for a $1.78M Direct-to-Phase II Contract
-- <a href="https://www.nasa.gov/centers-and-facilities/jpl/students-dive-into-robotics-at-competition-supported-by-nasa-jpl/" >🔗</a> **[NASA]** Students Dive Into Robotics at Competition Supported by NASA JPL
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250317T233122">2025-03-17 23:31:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250318T000418">2025-03-18 00:04:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
