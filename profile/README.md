@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/rocket-lab-launches-final-set-of-kineis-satellites/" >🔗</a> **[SpaceNews]** Rocket Lab launches final set of Kinéis satellites
+- <a href="https://europeanspaceflight.com/pangea-aerospace-raises-23m-euros-in-series-a-funding/" >🔗</a> **[European Spaceflight]** Pangea Aerospace Raises €23M in Series A Funding
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/bringing-the-heat-abigail-howard-leads-thermal-systems-for-artemis-rovers-tools/" >🔗</a> **[NASA]** Bringing the Heat: Abigail Howard Leads Thermal Systems for Artemis Rovers, Tools
+- <a href="https://spacenews.com/proteus-achieves-breakthrough-in-automated-high-fidelity-structural-design-signs-first-commercial-payload-customer-and-secures-oversubscribed-6-1m-seed-2-funding/" >🔗</a> **[SpaceNews]** Proteus Achieves Breakthrough in Automated High-Fidelity Structural Design, Signs First Commercial Payload Customer and Secures Oversubscribed $6.1M Seed-2 Funding
 - <a href="https://www.esa.int/About_Us/ESA_Publications/ESA_Impact_2025_-_Q1" >🔗</a> **[ESA]** ESA Impact: Top 2025 space photos so far
 - <a href="https://www.nasaspaceflight.com/2025/03/launch-roundup-031725/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Electron, Falcon 9, and Ceres-1 launches scheduled for the week
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/texas-high-school-aerospace-scholars-a-launchpad-for-future-innovators/" >🔗</a> **[NASA]** Texas High School Aerospace Scholars: A Launchpad for Future Innovators
 - <a href="https://www.nasa.gov/news-release/nasa-space-day-to-share-progress-opportunities-at-texas-capitol/" >🔗</a> **[NASA]** NASA Space Day to Share Progress, Opportunities at Texas Capitol
 - <a href="https://tlpnetwork.com/news/america/nasa-spacex-crew-9-ready-to-return-bringing-butch-and-suni-home-after-extended-mission" >🔗</a> **[The Launch Pad]** LIVE UPDATES: NASA SpaceX Crew 9 Return To Earth; Butch and Suni Coming Home After Extended Mission
 - <a href="https://spacenews.com/ses-shrinks-board-as-shareholder-calls-for-bigger-changes/" >🔗</a> **[SpaceNews]** SES shrinks board as shareholder calls for bigger changes
-- <a href="https://spacenews.com/reliant-space-supports-firefly-aerospaces-blue-ghost-mission-1-lunar-landing/" >🔗</a> **[SpaceNews]** Reliant Space Supports Firefly Aerospace’s Blue Ghost Mission 1 Lunar Landing
-- <a href="https://www.teslarati.com/spacex-rescue-mission-stranded-iss-astronauts-nears-end-when-they-return-home/" >🔗</a> **[Teslarati]** SpaceX rescue mission for stranded ISS astronauts nears end — Here’s when they’ll return home
-- <a href="https://www.spacescout.info/2025/03/athena-and-im-2-lost-after-landing/" >🔗</a> **[Space Scout]** Athena and IM-2 Lost After Landing
-- <a href="https://spacenews.com/innovative-dutch-technology-captures-historic-image-of-mars-and-deimos-during-esas-hera-mission-flyby/" >🔗</a> **[SpaceNews]** Innovative Dutch Technology Captures Historic Image of Mars and Deimos During ESA’s Hera Mission flyby
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250318T100122">2025-03-18 10:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250318T103532">2025-03-18 10:35:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
