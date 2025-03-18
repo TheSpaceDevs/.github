@@ -91,7 +91,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/03/18/nasa-spacex-undock-crew-9-from-space-station-begin-17-hour-journey-to-earth/" >🔗</a> **[Spaceflight Now]** NASA, SpaceX undock Crew-9 from space station, begin 17-hour journey to Earth
 - <a href="https://spacenews.com/space-force-prepared-to-divest-legacy-systems-in-favor-of-market-ready-solutions/" >🔗</a> **[SpaceNews]** Space Force prepared to divest legacy systems in favor of market-ready solutions
+- <a href="https://www.nasaspaceflight.com/2025/03/crew-9-return/" >🔗</a> **[NASASpaceflight]** Crew-9, Starliner CFT astronauts returning to Earth aboard Crew Dragon
 - <a href="https://www.nasa.gov/news-release/nasa-science-continues-after-fireflys-first-moon-mission-concludes/" >🔗</a> **[NASA]** NASA Science Continues After Firefly’s First Moon Mission Concludes
 - <a href="https://www.nasa.gov/image-article/nasa-usgs-industry-explore-off-world-resource-development/" >🔗</a> **[NASA]** NASA, USGS, Industry Explore Off-World Resource Development
 - <a href="https://www.nasa.gov/image-article/837158/" >🔗</a> **[NASA]** NASA, USGS, Industry Explore Off-World Resource Development
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/image-article/nasas-spacex-crew-9-members-pose-for-portrait/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-9 Members Pose for Portrait
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-view-wildland-fire-technology-flight-test/" >🔗</a> **[NASA]** NASA Invites Media to View Wildland Fire Technology Flight Test
 - <a href="https://www.nasaspaceflight.com/2025/03/dream-chaser-pre-flight-milestones/" >🔗</a> **[NASASpaceflight]** Dream Chaser completes more pre-flight milestones
-- <a href="https://spacenews.com/samara-aerospace-poised-for-spaceflight-testing-of-hummingbird-technology/" >🔗</a> **[SpaceNews]** Samara Aerospace poised for spaceflight testing of Hummingbird technology
-- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-62nd-annual-goddard-space-science-symposium/" >🔗</a> **[NASA]** NASA Invites Media to 62nd Annual Goddard Space Science Symposium
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250318T210121">2025-03-18 21:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250318T213121">2025-03-18 21:31:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
