@@ -91,6 +91,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/butch-and-suni-with-nick-and-alex-are-home/" >🔗</a> **[SpacePolicyOnline.com]** Butch and Suni, With Nick and Alex, Are Home
+- <a href="https://www.nasa.gov/news-release/welcome-home-nasas-spacex-crew-9-back-on-earth-after-science-mission/" >🔗</a> **[NASA]** Welcome Home! NASA’s SpaceX Crew-9 Back on Earth After Science Mission
+- <a href="https://spacenews.com/europe-funds-inflatable-satellite-drag-sail-demonstration/" >🔗</a> **[SpaceNews]** Europe funds inflatable satellite drag sail demonstration
 - <a href="https://spacenews.com/frontgrade-grows-aerospace-and-defense-amplifier-capabilities-with-acquisition-of-crescend-technologies-defense-solutions-division/" >🔗</a> **[SpaceNews]** Frontgrade Grows Aerospace and Defense Amplifier Capabilities with Acquisition of Crescend Technologies’ Defense Solutions Division
 - <a href="https://spaceflightnow.com/2025/03/18/nasa-spacex-undock-crew-9-from-space-station-begin-17-hour-journey-to-earth/" >🔗</a> **[Spaceflight Now]** NASA, SpaceX undock Crew-9 from space station, begin 17-hour journey to Earth
 - <a href="https://spacenews.com/space-force-prepared-to-divest-legacy-systems-in-favor-of-market-ready-solutions/" >🔗</a> **[SpaceNews]** Space Force prepared to divest legacy systems in favor of market-ready solutions
@@ -98,9 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/news-release/nasa-science-continues-after-fireflys-first-moon-mission-concludes/" >🔗</a> **[NASA]** NASA Science Continues After Firefly’s First Moon Mission Concludes
 - <a href="https://www.nasa.gov/image-article/nasa-usgs-industry-explore-off-world-resource-development/" >🔗</a> **[NASA]** NASA, USGS, Industry Explore Off-World Resource Development
 - <a href="https://www.nasa.gov/image-article/837158/" >🔗</a> **[NASA]** NASA, USGS, Industry Explore Off-World Resource Development
-- <a href="https://spacenews.com/u-s-restores-satellite-imagery-support-to-ukraine-amid-ceasefire-tensions/" >🔗</a> **[SpaceNews]** U.S. restores satellite imagery support to Ukraine amid ceasefire tensions
-- <a href="https://www.nasa.gov/image-article/nasas-spacex-crew-9-members-pose-for-portrait/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-9 Members Pose for Portrait
-- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-view-wildland-fire-technology-flight-test/" >🔗</a> **[NASA]** NASA Invites Media to View Wildland Fire Technology Flight Test
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250318T230130">2025-03-18 23:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250318T233336">2025-03-18 23:33:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
