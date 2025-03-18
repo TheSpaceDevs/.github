@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-62nd-annual-goddard-space-science-symposium/" >🔗</a> **[NASA]** NASA Invites Media to 62nd Annual Goddard Space Science Symposium
+- <a href="https://spaceflightnow.com/2025/03/18/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-9/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 23 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://www.nasa.gov/history/observing-storms-from-skylab/" >🔗</a> **[NASA]** Observing Storms from Skylab
 - <a href="https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/atomic-layer-processing-coating-techniques-enable-missions-to-see-further-into-the-ultraviolet/" >🔗</a> **[NASA]** Atomic Layer Processing Coating Techniques Enable Missions to See Further into the Ultraviolet
 - <a href="https://spacenews.com/pixxel-and-the-hyperspectral-opportunities/" >🔗</a> **[SpaceNews]** Pixxel and the hyperspectral opportunities
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/rocket-lab-launches-final-set-of-kineis-satellites/" >🔗</a> **[SpaceNews]** Rocket Lab launches final set of Kinéis satellites
 - <a href="https://europeanspaceflight.com/pangea-aerospace-raises-23m-euros-in-series-a-funding/" >🔗</a> **[European Spaceflight]** Pangea Aerospace Raises €23M in Series A Funding
 - <a href="https://spacenews.com/proteus-achieves-breakthrough-in-automated-high-fidelity-structural-design-signs-first-commercial-payload-customer-and-secures-oversubscribed-6-1m-seed-2-funding/" >🔗</a> **[SpaceNews]** Proteus Achieves Breakthrough in Automated High-Fidelity Structural Design, Signs First Commercial Payload Customer and Secures Oversubscribed $6.1M Seed-2 Funding
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/bringing-the-heat-abigail-howard-leads-thermal-systems-for-artemis-rovers-tools/" >🔗</a> **[NASA]** Bringing the Heat: Abigail Howard Leads Thermal Systems for Artemis Rovers, Tools
-- <a href="https://www.esa.int/About_Us/ESA_Publications/ESA_Impact_2025_-_Q1" >🔗</a> **[ESA]** ESA Impact: Top 2025 space photos so far
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250318T150131">2025-03-18 15:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250318T153412">2025-03-18 15:34:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
