@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/frontgrade-grows-aerospace-and-defense-amplifier-capabilities-with-acquisition-of-crescend-technologies-defense-solutions-division/" >🔗</a> **[SpaceNews]** Frontgrade Grows Aerospace and Defense Amplifier Capabilities with Acquisition of Crescend Technologies’ Defense Solutions Division
 - <a href="https://spaceflightnow.com/2025/03/18/nasa-spacex-undock-crew-9-from-space-station-begin-17-hour-journey-to-earth/" >🔗</a> **[Spaceflight Now]** NASA, SpaceX undock Crew-9 from space station, begin 17-hour journey to Earth
 - <a href="https://spacenews.com/space-force-prepared-to-divest-legacy-systems-in-favor-of-market-ready-solutions/" >🔗</a> **[SpaceNews]** Space Force prepared to divest legacy systems in favor of market-ready solutions
 - <a href="https://www.nasaspaceflight.com/2025/03/crew-9-return/" >🔗</a> **[NASASpaceflight]** Crew-9, Starliner CFT astronauts returning to Earth aboard Crew Dragon
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/u-s-restores-satellite-imagery-support-to-ukraine-amid-ceasefire-tensions/" >🔗</a> **[SpaceNews]** U.S. restores satellite imagery support to Ukraine amid ceasefire tensions
 - <a href="https://www.nasa.gov/image-article/nasas-spacex-crew-9-members-pose-for-portrait/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-9 Members Pose for Portrait
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-view-wildland-fire-technology-flight-test/" >🔗</a> **[NASA]** NASA Invites Media to View Wildland Fire Technology Flight Test
-- <a href="https://www.nasaspaceflight.com/2025/03/dream-chaser-pre-flight-milestones/" >🔗</a> **[NASASpaceflight]** Dream Chaser completes more pre-flight milestones
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250318T220130">2025-03-18 22:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250318T223351">2025-03-18 22:33:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
