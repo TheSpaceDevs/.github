@@ -46,7 +46,6 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250318T180900">2025-03-18 18:09:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-25&location=Cape Canaveral SFS, FL, USA&dates=20250318T180900Z%2F20250318T224000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-25** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250320T060200">2025-03-20 06:02:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | NROL-57&location=Vandenberg SFB, CA, USA&dates=20250320T060200Z%2F20250320T083100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | NROL-57** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250321T110000">2025-03-21 11:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ceres-1 | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20250321T110000Z%2F20250321T114700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ceres-1 | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250323T113000">2025-03-23 11:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/no.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Spectrum | Maiden Flight&location=Andøya Spaceport&dates=20250323T113000Z%2F20250323T143000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Spectrum | Maiden Flight** from Andøya Spaceport.
@@ -93,6 +92,7 @@ into *a Low Earth Orbit
 ### Latest News ⌛
 - <a href="https://www.nasa.gov/image-article/nasas-spacex-crew-9-members-pose-for-portrait/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-9 Members Pose for Portrait
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-view-wildland-fire-technology-flight-test/" >🔗</a> **[NASA]** NASA Invites Media to View Wildland Fire Technology Flight Test
+- <a href="https://www.nasaspaceflight.com/2025/03/dream-chaser-pre-flight-milestones/" >🔗</a> **[NASASpaceflight]** Dream Chaser completes more pre-flight milestones
 - <a href="https://spacenews.com/samara-aerospace-poised-for-spaceflight-testing-of-hummingbird-technology/" >🔗</a> **[SpaceNews]** Samara Aerospace poised for spaceflight testing of Hummingbird technology
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-62nd-annual-goddard-space-science-symposium/" >🔗</a> **[NASA]** NASA Invites Media to 62nd Annual Goddard Space Science Symposium
 - <a href="https://spaceflightnow.com/2025/03/18/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-9/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 23 Starlink satellites on Falcon 9 rocket from Cape Canaveral
@@ -100,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/atomic-layer-processing-coating-techniques-enable-missions-to-see-further-into-the-ultraviolet/" >🔗</a> **[NASA]** Atomic Layer Processing Coating Techniques Enable Missions to See Further into the Ultraviolet
 - <a href="https://spacenews.com/pixxel-and-the-hyperspectral-opportunities/" >🔗</a> **[SpaceNews]** Pixxel and the hyperspectral opportunities
 - <a href="https://spacenews.com/psionic-achieves-milestone-in-in-flight-testing-of-space-navigation-doppler-lidar-system-aboard-nasa-f-18/" >🔗</a> **[SpaceNews]** Psionic Achieves Milestone in In-Flight Testing of Space Navigation Doppler Lidar System Aboard NASA F-18
-- <a href="https://spacenews.com/isar-aerospace-sets-date-for-first-launch-after-receiving-license/" >🔗</a> **[SpaceNews]** Isar Aerospace sets date for first launch after receiving license
 
 
 ### Launch-related News 🚀
@@ -110,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250318T180143">2025-03-18 18:01:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250318T183742">2025-03-18 18:37:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
