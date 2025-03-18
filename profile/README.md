@@ -94,8 +94,8 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/isar-aerospace-sets-date-for-first-launch-after-receiving-license/" >🔗</a> **[SpaceNews]** Isar Aerospace sets date for first launch after receiving license
 - <a href="https://spacenews.com/rocket-lab-launches-final-set-of-kineis-satellites/" >🔗</a> **[SpaceNews]** Rocket Lab launches final set of Kinéis satellites
 - <a href="https://europeanspaceflight.com/pangea-aerospace-raises-23m-euros-in-series-a-funding/" >🔗</a> **[European Spaceflight]** Pangea Aerospace Raises €23M in Series A Funding
-- <a href="https://spacenews.com/proteus-achieves-breakthrough-in-automated-high-fidelity-structural-design-signs-first-commercial-payload-customer-and-secures-oversubscribed-6-1m-seed-2-funding/" >🔗</a> **[SpaceNews]** Proteus Achieves Breakthrough in Automated High-Fidelity Structural Design, Signs First Commercial Payload Customer and Secures Oversubscribed $6.1M Seed-2 Funding
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/bringing-the-heat-abigail-howard-leads-thermal-systems-for-artemis-rovers-tools/" >🔗</a> **[NASA]** Bringing the Heat: Abigail Howard Leads Thermal Systems for Artemis Rovers, Tools
+- <a href="https://spacenews.com/proteus-achieves-breakthrough-in-automated-high-fidelity-structural-design-signs-first-commercial-payload-customer-and-secures-oversubscribed-6-1m-seed-2-funding/" >🔗</a> **[SpaceNews]** Proteus Achieves Breakthrough in Automated High-Fidelity Structural Design, Signs First Commercial Payload Customer and Secures Oversubscribed $6.1M Seed-2 Funding
 - <a href="https://www.esa.int/About_Us/ESA_Publications/ESA_Impact_2025_-_Q1" >🔗</a> **[ESA]** ESA Impact: Top 2025 space photos so far
 - <a href="https://www.nasaspaceflight.com/2025/03/launch-roundup-031725/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Electron, Falcon 9, and Ceres-1 launches scheduled for the week
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/texas-high-school-aerospace-scholars-a-launchpad-for-future-innovators/" >🔗</a> **[NASA]** Texas High School Aerospace Scholars: A Launchpad for Future Innovators
@@ -105,11 +105,12 @@ into *a Low Earth Orbit
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2025/03/launch-roundup-031725/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Electron, Falcon 9, and Ceres-1 launches scheduled for the week
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250318T120205">2025-03-18 12:02:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250318T124301">2025-03-18 12:43:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
