@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/nasas-spacex-crew-9-members-pose-for-portrait/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-9 Members Pose for Portrait
+- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-view-wildland-fire-technology-flight-test/" >🔗</a> **[NASA]** NASA Invites Media to View Wildland Fire Technology Flight Test
 - <a href="https://spacenews.com/samara-aerospace-poised-for-spaceflight-testing-of-hummingbird-technology/" >🔗</a> **[SpaceNews]** Samara Aerospace poised for spaceflight testing of Hummingbird technology
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-62nd-annual-goddard-space-science-symposium/" >🔗</a> **[NASA]** NASA Invites Media to 62nd Annual Goddard Space Science Symposium
 - <a href="https://spaceflightnow.com/2025/03/18/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-9/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 23 Starlink satellites on Falcon 9 rocket from Cape Canaveral
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/pixxel-and-the-hyperspectral-opportunities/" >🔗</a> **[SpaceNews]** Pixxel and the hyperspectral opportunities
 - <a href="https://spacenews.com/psionic-achieves-milestone-in-in-flight-testing-of-space-navigation-doppler-lidar-system-aboard-nasa-f-18/" >🔗</a> **[SpaceNews]** Psionic Achieves Milestone in In-Flight Testing of Space Navigation Doppler Lidar System Aboard NASA F-18
 - <a href="https://spacenews.com/isar-aerospace-sets-date-for-first-launch-after-receiving-license/" >🔗</a> **[SpaceNews]** Isar Aerospace sets date for first launch after receiving license
-- <a href="https://spacenews.com/rocket-lab-launches-final-set-of-kineis-satellites/" >🔗</a> **[SpaceNews]** Rocket Lab launches final set of Kinéis satellites
-- <a href="https://europeanspaceflight.com/pangea-aerospace-raises-23m-euros-in-series-a-funding/" >🔗</a> **[European Spaceflight]** Pangea Aerospace Raises €23M in Series A Funding
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250318T170122">2025-03-18 17:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250318T173326">2025-03-18 17:33:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
