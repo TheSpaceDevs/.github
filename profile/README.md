@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/portugals-astronaut-for-a-day-initiative-achieves-key-diversity-milestone/" >🔗</a> **[European Spaceflight]** Portugal’s Astronaut for a Day Initiative Achieves Key Diversity Milestone
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_opens_data_treasure_trove_offers_glimpse_of_deep_fields" >🔗</a> **[ESA]** Euclid opens data treasure trove, offers glimpse of deep fields
 - <a href="https://spacenews.com/crew-9-returns-from-space-station/" >🔗</a> **[SpaceNews]** Crew-9 returns from space station
 - <a href="https://science.nasa.gov/blog/sols-4481-4483-humber-pie/" >🔗</a> **[NASA]** Sols 4481-4483: Humber Pie
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/news-release/welcome-home-nasas-spacex-crew-9-back-on-earth-after-science-mission/" >🔗</a> **[NASA]** Welcome Home! NASA’s SpaceX Crew-9 Back on Earth After Science Mission
 - <a href="https://spacenews.com/europe-funds-inflatable-satellite-drag-sail-demonstration/" >🔗</a> **[SpaceNews]** Europe funds inflatable satellite drag sail demonstration
 - <a href="https://spacenews.com/frontgrade-grows-aerospace-and-defense-amplifier-capabilities-with-acquisition-of-crescend-technologies-defense-solutions-division/" >🔗</a> **[SpaceNews]** Frontgrade Grows Aerospace and Defense Amplifier Capabilities with Acquisition of Crescend Technologies’ Defense Solutions Division
-- <a href="https://spaceflightnow.com/2025/03/18/nasa-spacex-undock-crew-9-from-space-station-begin-17-hour-journey-to-earth/" >🔗</a> **[Spaceflight Now]** NASA, SpaceX undock Crew-9 from space station, begin 17-hour journey to Earth
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250319T113103">2025-03-19 11:31:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250319T120147">2025-03-19 12:01:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
