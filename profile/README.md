@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/crew-9-returns-from-space-station/" >🔗</a> **[SpaceNews]** Crew-9 returns from space station
 - <a href="https://science.nasa.gov/blog/sols-4481-4483-humber-pie/" >🔗</a> **[NASA]** Sols 4481-4483: Humber Pie
 - <a href="https://arstechnica.com/space/2025/03/can-nasa-remain-nonpartisan-when-basic-spaceflight-truths-are-shredded/" >🔗</a> **[Arstechnica]** Can NASA remain nonpartisan when basic spaceflight truths are shredded?
 - <a href="https://spacenews.com/skyserve-tests-ai-models-with-jpl-and-d-orbit/" >🔗</a> **[SpaceNews]** SkyServe tests AI models with JPL and D-Orbit
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/frontgrade-grows-aerospace-and-defense-amplifier-capabilities-with-acquisition-of-crescend-technologies-defense-solutions-division/" >🔗</a> **[SpaceNews]** Frontgrade Grows Aerospace and Defense Amplifier Capabilities with Acquisition of Crescend Technologies’ Defense Solutions Division
 - <a href="https://spaceflightnow.com/2025/03/18/nasa-spacex-undock-crew-9-from-space-station-begin-17-hour-journey-to-earth/" >🔗</a> **[Spaceflight Now]** NASA, SpaceX undock Crew-9 from space station, begin 17-hour journey to Earth
 - <a href="https://spacenews.com/space-force-prepared-to-divest-legacy-systems-in-favor-of-market-ready-solutions/" >🔗</a> **[SpaceNews]** Space Force prepared to divest legacy systems in favor of market-ready solutions
-- <a href="https://www.nasaspaceflight.com/2025/03/crew-9-return/" >🔗</a> **[NASASpaceflight]** Crew-9, Starliner CFT astronauts returning to Earth aboard Crew Dragon
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250319T031048">2025-03-19 03:10:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250319T033825">2025-03-19 03:38:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
