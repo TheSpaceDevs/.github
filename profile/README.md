@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/chinese-company-targets-crewed-orbital-spaceflight/" >🔗</a> **[SpaceNews]** Chinese company targets crewed orbital spaceflight
 - <a href="https://spacenews.com/space-force-unveils-strategic-plan-for-ai-integration/" >🔗</a> **[SpaceNews]** Space Force unveils strategic plan for AI integration
 - <a href="https://www.nasa.gov/image-article/welcome-home-crew-9/" >🔗</a> **[NASA]** Welcome Home, Crew-9!
 - <a href="https://www.spacescout.info/2025/03/butch-and-suni-return-as-crew-10-arrives-on-station/" >🔗</a> **[Space Scout]** Butch and Suni Return as Crew-10 Arrives on Station
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/exlabs-and-antares-form-alliance-to-develop-nuclear-powered-spacecraft/" >🔗</a> **[SpaceNews]** Exlabs and Antares form alliance to develop nuclear-powered spacecraft
 - <a href="https://europeanspaceflight.com/portugals-astronaut-for-a-day-initiative-achieves-key-diversity-milestone/" >🔗</a> **[European Spaceflight]** Portugal’s Astronaut for a Day Initiative Achieves Key Diversity Milestone
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_opens_data_treasure_trove_offers_glimpse_of_deep_fields" >🔗</a> **[ESA]** Euclid opens data treasure trove, offers glimpse of deep fields
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/03/Euclid_is_back_26_million_galaxies_and_counting" >🔗</a> **[ESA]** Euclid is back – 26 million galaxies and counting
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250319T180137">2025-03-19 18:01:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250319T183721">2025-03-19 18:37:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
