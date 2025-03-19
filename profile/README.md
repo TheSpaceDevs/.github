@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/swot/next-generation-water-satellite-maps-seafloor-from-space/" >🔗</a> **[NASA]** Next-Generation Water Satellite Maps Seafloor From Space
 - <a href="https://www.nasa.gov/image-article/new-bridge-ready-to-serve-nasa-americas-space-interests/" >🔗</a> **[NASA]** New Bridge Ready to Serve NASA, America’s Space Interests
 - <a href="https://spacenews.com/chinese-company-targets-crewed-orbital-spaceflight/" >🔗</a> **[SpaceNews]** Chinese company targets crewed orbital spaceflight
 - <a href="https://spacenews.com/space-force-unveils-strategic-plan-for-ai-integration/" >🔗</a> **[SpaceNews]** Space Force unveils strategic plan for AI integration
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/missions/euclid/esa-previews-euclid-missions-deep-view-of-dark-universe/" >🔗</a> **[NASA]** ESA Previews Euclid Mission’s Deep View of ‘Dark Universe’
 - <a href="https://www.nasa.gov/image-article/goodnight-moon-nasa-cameras-on-blue-ghost-capture-lunar-sunset/" >🔗</a> **[NASA]** Goodnight, Moon: NASA Cameras on Blue Ghost Capture Lunar Sunset
 - <a href="https://spacenews.com/exlabs-and-antares-form-alliance-to-develop-nuclear-powered-spacecraft/" >🔗</a> **[SpaceNews]** Exlabs and Antares form alliance to develop nuclear-powered spacecraft
-- <a href="https://europeanspaceflight.com/portugals-astronaut-for-a-day-initiative-achieves-key-diversity-milestone/" >🔗</a> **[European Spaceflight]** Portugal’s Astronaut for a Day Initiative Achieves Key Diversity Milestone
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250319T220129">2025-03-19 22:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250319T223404">2025-03-19 22:34:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
