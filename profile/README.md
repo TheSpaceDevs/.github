@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/03/can-nasa-remain-nonpartisan-when-basic-spaceflight-truths-are-shredded/" >🔗</a> **[Arstechnica]** Can NASA remain nonpartisan when basic spaceflight truths are shredded?
+- <a href="https://spacenews.com/skyserve-tests-ai-models-with-jpl-and-d-orbit/" >🔗</a> **[SpaceNews]** SkyServe tests AI models with JPL and D-Orbit
 - <a href="https://spacepolicyonline.com/news/butch-and-suni-with-nick-and-alex-are-home/" >🔗</a> **[SpacePolicyOnline.com]** Butch and Suni, With Nick and Alex, Are Home
 - <a href="https://www.nasa.gov/news-release/welcome-home-nasas-spacex-crew-9-back-on-earth-after-science-mission/" >🔗</a> **[NASA]** Welcome Home! NASA’s SpaceX Crew-9 Back on Earth After Science Mission
 - <a href="https://spacenews.com/europe-funds-inflatable-satellite-drag-sail-demonstration/" >🔗</a> **[SpaceNews]** Europe funds inflatable satellite drag sail demonstration
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/space-force-prepared-to-divest-legacy-systems-in-favor-of-market-ready-solutions/" >🔗</a> **[SpaceNews]** Space Force prepared to divest legacy systems in favor of market-ready solutions
 - <a href="https://www.nasaspaceflight.com/2025/03/crew-9-return/" >🔗</a> **[NASASpaceflight]** Crew-9, Starliner CFT astronauts returning to Earth aboard Crew Dragon
 - <a href="https://www.nasa.gov/news-release/nasa-science-continues-after-fireflys-first-moon-mission-concludes/" >🔗</a> **[NASA]** NASA Science Continues After Firefly’s First Moon Mission Concludes
-- <a href="https://www.nasa.gov/image-article/nasa-usgs-industry-explore-off-world-resource-development/" >🔗</a> **[NASA]** NASA, USGS, Industry Explore Off-World Resource Development
-- <a href="https://www.nasa.gov/image-article/837158/" >🔗</a> **[NASA]** NASA, USGS, Industry Explore Off-World Resource Development
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250318T233336">2025-03-18 23:33:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250319T000442">2025-03-19 00:04:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
