@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/get-involved/citizen-science/interview-with-michiharu-hyogo-citizen-scientist-and-first-author-of-a-new-scientific-paper/" >🔗</a> **[NASA]** Interview with Michiharu Hyogo, Citizen Scientist and First Author of a New Scientific Paper
+- <a href="https://www.nasa.gov/missions/euclid/esa-previews-euclid-missions-deep-view-of-dark-universe/" >🔗</a> **[NASA]** ESA Previews Euclid Mission’s Deep View of ‘Dark Universe’
+- <a href="https://www.nasa.gov/image-article/goodnight-moon-nasa-cameras-on-blue-ghost-capture-lunar-sunset/" >🔗</a> **[NASA]** Goodnight, Moon: NASA Cameras on Blue Ghost Capture Lunar Sunset
 - <a href="https://spacenews.com/exlabs-and-antares-form-alliance-to-develop-nuclear-powered-spacecraft/" >🔗</a> **[SpaceNews]** Exlabs and Antares form alliance to develop nuclear-powered spacecraft
 - <a href="https://europeanspaceflight.com/portugals-astronaut-for-a-day-initiative-achieves-key-diversity-milestone/" >🔗</a> **[European Spaceflight]** Portugal’s Astronaut for a Day Initiative Achieves Key Diversity Milestone
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/03/Euclid_is_back_26_million_galaxies_and_counting" >🔗</a> **[ESA]** Euclid is back – 26 million galaxies and counting
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_opens_data_treasure_trove_offers_glimpse_of_deep_fields" >🔗</a> **[ESA]** Euclid opens data treasure trove, offers glimpse of deep fields
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/03/Euclid_is_back_26_million_galaxies_and_counting" >🔗</a> **[ESA]** Euclid is back – 26 million galaxies and counting
 - <a href="https://spacenews.com/crew-9-returns-from-space-station/" >🔗</a> **[SpaceNews]** Crew-9 returns from space station
 - <a href="https://science.nasa.gov/blog/sols-4481-4483-humber-pie/" >🔗</a> **[NASA]** Sols 4481-4483: Humber Pie
 - <a href="https://arstechnica.com/space/2025/03/can-nasa-remain-nonpartisan-when-basic-spaceflight-truths-are-shredded/" >🔗</a> **[Arstechnica]** Can NASA remain nonpartisan when basic spaceflight truths are shredded?
-- <a href="https://spacenews.com/skyserve-tests-ai-models-with-jpl-and-d-orbit/" >🔗</a> **[SpaceNews]** SkyServe tests AI models with JPL and D-Orbit
-- <a href="https://spacepolicyonline.com/news/butch-and-suni-with-nick-and-alex-are-home/" >🔗</a> **[SpacePolicyOnline.com]** Butch and Suni, With Nick and Alex, Are Home
-- <a href="https://www.nasa.gov/news-release/welcome-home-nasas-spacex-crew-9-back-on-earth-after-science-mission/" >🔗</a> **[NASA]** Welcome Home! NASA’s SpaceX Crew-9 Back on Earth After Science Mission
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250319T150133">2025-03-19 15:01:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250319T153355">2025-03-19 15:33:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
