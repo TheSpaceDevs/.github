@@ -91,8 +91,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.nasa.gov/centers-and-facilities/nasa-langley-dedicates-artemis-moon-tree/" >🔗</a> **[NASA]** NASA Langley Dedicates Artemis Moon Tree
+- <a href="https://science.nasa.gov/earth/nasa-uses-advanced-radar-to-track-groundwater-in-california/" >🔗</a> **[NASA]** NASA Uses Advanced Radar to Track Groundwater in California
 - <a href="https://www.nasa.gov/centers-and-facilities/langley/nasa-langley-dedicates-artemis-moon-tree/" >🔗</a> **[NASA]** NASA Langley Dedicates Artemis Moon Tree
+- <a href="https://www.nasa.gov/centers-and-facilities/nasa-langley-dedicates-artemis-moon-tree/" >🔗</a> **[NASA]** NASA Langley Dedicates Artemis Moon Tree
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/03/332nd_ESA_Council_Media_information_session" >🔗</a> **[ESA]** 332nd ESA Council: Media information session
 - <a href="https://www.nasa.gov/history/fallout-from-the-unauthorized-gemini-iii-space-sandwich/" >🔗</a> **[NASA]** Fallout from the Unauthorized Gemini III Space Sandwich
 - <a href="https://www.esa.int/About_Us/ESA_Strategy_2040" >🔗</a> **[ESA]** Read ESA's Strategy 2040
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/beyond-the-algorithm-challenge/" >🔗</a> **[NASA]** Beyond the Algorithm Challenge
 - <a href="https://spacenews.com/satellite-operators-want-better-space-weather-models/" >🔗</a> **[SpaceNews]** Satellite operators want better space weather models
 - <a href="https://europeanspaceflight.com/two-small-rockets-carrying-student-payloads-launch-from-esrange/" >🔗</a> **[European Spaceflight]** Two Small Rockets Carrying Student Payloads Launch from Esrange
-- <a href="https://spacenews.com/nasa-examining-options-for-another-starliner-test-flight/" >🔗</a> **[SpaceNews]** NASA examining options for another Starliner test flight
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250320T150132">2025-03-20 15:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250320T153411">2025-03-20 15:34:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
