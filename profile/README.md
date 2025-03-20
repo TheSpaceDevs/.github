@@ -91,6 +91,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ESA_and_JAXA_strengthen_ties_on_Moon_and_Mars_exploration" >🔗</a> **[ESA]** ESA and JAXA strengthen ties on Moon and Mars exploration
+- <a href="https://europeanspaceflight.com/two-small-rockets-carrying-student-payloads-launch-from-esrange/" >🔗</a> **[European Spaceflight]** Two Small Rockets Carrying Student Payloads Launch from Esrange
+- <a href="https://spacenews.com/nasa-examining-options-for-another-starliner-test-flight/" >🔗</a> **[SpaceNews]** NASA examining options for another Starliner test flight
 - <a href="https://spacepolicyonline.com/news/firefly-and-nasa-cheer-blue-ghosts-total-success/" >🔗</a> **[SpacePolicyOnline.com]** Firefly and NASA Cheer Blue Ghost’s Total Success
 - <a href="https://www.nasa.gov/missions/swot/next-generation-water-satellite-maps-seafloor-from-space/" >🔗</a> **[NASA]** Next-Generation Water Satellite Maps Seafloor From Space
 - <a href="https://www.nasa.gov/image-article/new-bridge-ready-to-serve-nasa-americas-space-interests/" >🔗</a> **[NASA]** New Bridge Ready to Serve NASA, America’s Space Interests
@@ -98,9 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/space-force-unveils-strategic-plan-for-ai-integration/" >🔗</a> **[SpaceNews]** Space Force unveils strategic plan for AI integration
 - <a href="https://www.nasa.gov/image-article/welcome-home-crew-9/" >🔗</a> **[NASA]** Welcome Home, Crew-9!
 - <a href="https://www.spacescout.info/2025/03/butch-and-suni-return-as-crew-10-arrives-on-station/" >🔗</a> **[Space Scout]** Butch and Suni Return as Crew-10 Arrives on Station
-- <a href="https://science.nasa.gov/get-involved/citizen-science/interview-with-michiharu-hyogo-citizen-scientist-and-first-author-of-a-new-scientific-paper/" >🔗</a> **[NASA]** Interview with Michiharu Hyogo, Citizen Scientist and First Author of a New Scientific Paper
-- <a href="https://www.nasa.gov/missions/euclid/esa-previews-euclid-missions-deep-view-of-dark-universe/" >🔗</a> **[NASA]** ESA Previews Euclid Mission’s Deep View of ‘Dark Universe’
-- <a href="https://www.nasa.gov/image-article/goodnight-moon-nasa-cameras-on-blue-ghost-capture-lunar-sunset/" >🔗</a> **[NASA]** Goodnight, Moon: NASA Cameras on Blue Ghost Capture Lunar Sunset
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250320T110121">2025-03-20 11:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250320T113101">2025-03-20 11:31:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
