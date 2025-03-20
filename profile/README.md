@@ -91,7 +91,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/ESA_Strategy_2040" >🔗</a> **[ESA]** Read ESA's Strategy 2040
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ESA_and_JAXA_strengthen_ties_on_Moon_and_Mars_exploration" >🔗</a> **[ESA]** ESA and JAXA strengthen ties on Moon and Mars exploration
+- <a href="https://www.nasa.gov/history/fallout-from-the-unauthorized-gemini-iii-space-sandwich/" >🔗</a> **[NASA]** Fallout from the Unauthorized Gemini III Space Sandwich
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/beyond-the-algorithm-challenge/" >🔗</a> **[NASA]** Beyond the Algorithm Challenge
 - <a href="https://spacenews.com/satellite-operators-want-better-space-weather-models/" >🔗</a> **[SpaceNews]** Satellite operators want better space weather models
 - <a href="https://europeanspaceflight.com/two-small-rockets-carrying-student-payloads-launch-from-esrange/" >🔗</a> **[European Spaceflight]** Two Small Rockets Carrying Student Payloads Launch from Esrange
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://spacepolicyonline.com/news/firefly-and-nasa-cheer-blue-ghosts-total-success/" >🔗</a> **[SpacePolicyOnline.com]** Firefly and NASA Cheer Blue Ghost’s Total Success
 - <a href="https://www.nasa.gov/missions/swot/next-generation-water-satellite-maps-seafloor-from-space/" >🔗</a> **[NASA]** Next-Generation Water Satellite Maps Seafloor From Space
 - <a href="https://www.nasa.gov/image-article/new-bridge-ready-to-serve-nasa-americas-space-interests/" >🔗</a> **[NASA]** New Bridge Ready to Serve NASA, America’s Space Interests
-- <a href="https://spacenews.com/chinese-company-targets-crewed-orbital-spaceflight/" >🔗</a> **[SpaceNews]** Chinese company targets crewed orbital spaceflight
-- <a href="https://spacenews.com/space-force-unveils-strategic-plan-for-ai-integration/" >🔗</a> **[SpaceNews]** Space Force unveils strategic plan for AI integration
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250320T130646">2025-03-20 13:06:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250320T133536">2025-03-20 13:35:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
