@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/french-vleo-5g-startup-strikes-telecoms-infrastructure-partnership/" >🔗</a> **[SpaceNews]** French VLEO 5G startup strikes telecoms infrastructure partnership
+- <a href="https://spaceflightnow.com/2025/03/20/live-coverage-spacex-to-launch-reconnaissance-satellites-for-the-nro-on-falcon-9-rocket-from-vandenberg/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch reconnaissance satellites for the NRO on Falcon 9 rocket from Vandenberg
+- <a href="https://science.nasa.gov/blog/sols-4484-4485-remote-sensing-on-a-monday/" >🔗</a> **[NASA]** Sols 4484-4485: Remote Sensing on a Monday
+- <a href="https://www.nasaspaceflight.com/2025/03/iss-roundup-032025/" >🔗</a> **[NASASpaceflight]** Crew handovers and cargo ship movements highlight recent ISS activity
+- <a href="https://www.nasa.gov/general/nasa-selects-14-finalist-teams-for-the-2025-rasc-al-competition/" >🔗</a> **[NASA]** NASA Selects 14 Finalist Teams for the 2025 RASC-AL Competition
 - <a href="https://spacenews.com/u-s-space-force-budget-trimmed-in-full-year-continuing-resolution/" >🔗</a> **[SpaceNews]** U.S. Space Force budget trimmed in full-year continuing resolution
 - <a href="https://science.nasa.gov/science-research/earth-science/celebrating-25-years-of-terra/" >🔗</a> **[NASA]** Celebrating 25 Years of Terra
 - <a href="https://www.nasa.gov/general/how-nasas-autonomy-choreography-will-impact-advanced-technologies/" >🔗</a> **[NASA]** How NASA’s “Autonomy Choreography” Will Impact Advanced Technologies
 - <a href="https://www.nasa.gov/image-article/hubble-sees-a-spiral-and-a-star/" >🔗</a> **[NASA]** Hubble Sees a Spiral and a Star
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/students-explore-technical-careers-at-nasa/" >🔗</a> **[NASA]** Students Explore Technical Careers at NASA
-- <a href="https://science.nasa.gov/science-research/earth-science/the-earth-observer-editors-corner-january-march-2025/" >🔗</a> **[NASA]** The Earth Observer Editor’s Corner: January–March 2025
-- <a href="https://science.nasa.gov/science-research/earth-science/the-firesense-project/" >🔗</a> **[NASA]** The FireSense Project
-- <a href="https://science.nasa.gov/science-research/earth-science/kaye-honored-with-pecora-award/" >🔗</a> **[NASA]** Kaye Honored with Pecora Award
-- <a href="https://spacenews.com/making-the-rules-for-the-final-frontier/" >🔗</a> **[SpaceNews]** Making the rules for the final frontier
-- <a href="https://science.nasa.gov/earth/nasa-uses-advanced-radar-to-track-groundwater-in-california/" >🔗</a> **[NASA]** NASA Uses Advanced Radar to Track Groundwater in California
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250320T220116">2025-03-20 22:01:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250320T223347">2025-03-20 22:33:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
