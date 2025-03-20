@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/u-s-space-force-budget-trimmed-in-full-year-continuing-resolution/" >🔗</a> **[SpaceNews]** U.S. Space Force budget trimmed in full-year continuing resolution
 - <a href="https://science.nasa.gov/science-research/earth-science/celebrating-25-years-of-terra/" >🔗</a> **[NASA]** Celebrating 25 Years of Terra
 - <a href="https://www.nasa.gov/general/how-nasas-autonomy-choreography-will-impact-advanced-technologies/" >🔗</a> **[NASA]** How NASA’s “Autonomy Choreography” Will Impact Advanced Technologies
 - <a href="https://www.nasa.gov/image-article/hubble-sees-a-spiral-and-a-star/" >🔗</a> **[NASA]** Hubble Sees a Spiral and a Star
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/science-research/earth-science/kaye-honored-with-pecora-award/" >🔗</a> **[NASA]** Kaye Honored with Pecora Award
 - <a href="https://spacenews.com/making-the-rules-for-the-final-frontier/" >🔗</a> **[SpaceNews]** Making the rules for the final frontier
 - <a href="https://science.nasa.gov/earth/nasa-uses-advanced-radar-to-track-groundwater-in-california/" >🔗</a> **[NASA]** NASA Uses Advanced Radar to Track Groundwater in California
-- <a href="https://www.nasa.gov/centers-and-facilities/langley/nasa-langley-dedicates-artemis-moon-tree/" >🔗</a> **[NASA]** NASA Langley Dedicates Artemis Moon Tree
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250320T210127">2025-03-20 21:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250320T213119">2025-03-20 21:31:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
