@@ -91,6 +91,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/how-nasas-autonomy-choreography-will-impact-advanced-technologies/" >🔗</a> **[NASA]** How NASA’s “Autonomy Choreography” Will Impact Advanced Technologies
+- <a href="https://www.nasa.gov/image-article/hubble-sees-a-spiral-and-a-star/" >🔗</a> **[NASA]** Hubble Sees a Spiral and a Star
+- <a href="https://www.nasa.gov/centers-and-facilities/glenn/students-explore-technical-careers-at-nasa/" >🔗</a> **[NASA]** Students Explore Technical Careers at NASA
 - <a href="https://science.nasa.gov/science-research/earth-science/the-earth-observer-editors-corner-january-march-2025/" >🔗</a> **[NASA]** The Earth Observer Editor’s Corner: January–March 2025
 - <a href="https://science.nasa.gov/science-research/earth-science/the-firesense-project/" >🔗</a> **[NASA]** The FireSense Project
 - <a href="https://science.nasa.gov/science-research/earth-science/kaye-honored-with-pecora-award/" >🔗</a> **[NASA]** Kaye Honored with Pecora Award
@@ -98,9 +101,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/earth/nasa-uses-advanced-radar-to-track-groundwater-in-california/" >🔗</a> **[NASA]** NASA Uses Advanced Radar to Track Groundwater in California
 - <a href="https://www.nasa.gov/centers-and-facilities/langley/nasa-langley-dedicates-artemis-moon-tree/" >🔗</a> **[NASA]** NASA Langley Dedicates Artemis Moon Tree
 - <a href="https://www.nasa.gov/centers-and-facilities/nasa-langley-dedicates-artemis-moon-tree/" >🔗</a> **[NASA]** NASA Langley Dedicates Artemis Moon Tree
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/03/332nd_ESA_Council_Media_information_session" >🔗</a> **[ESA]** 332nd ESA Council: Media information session
-- <a href="https://www.nasa.gov/history/fallout-from-the-unauthorized-gemini-iii-space-sandwich/" >🔗</a> **[NASA]** Fallout from the Unauthorized Gemini III Space Sandwich
-- <a href="https://www.esa.int/About_Us/ESA_Strategy_2040" >🔗</a> **[ESA]** Read ESA's Strategy 2040
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250320T180140">2025-03-20 18:01:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250320T183717">2025-03-20 18:37:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
