@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-industries-sets-ambitious-goals-for-satellite-assembly-integration-and-testing/" >🔗</a> **[SpaceNews]** Space Industries sets ambitious goals for satellite assembly, integration and testing
 - <a href="https://spacenews.com/esa-releases-strategy-document-that-emphasizes-autonomy/" >🔗</a> **[SpaceNews]** ESA releases strategy document that emphasizes autonomy
 - <a href="https://arstechnica.com/space/2025/03/rocket-report-falcon-9-may-smash-reuse-record-relativity-roving-to-texas/" >🔗</a> **[Arstechnica]** Rocket Report: Falcon 9 may smash reuse record; Relativity roving to Texas?
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/03/Earth_from_Space_Land_of_giants" >🔗</a> **[ESA]** Earth from Space: Land of giants
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://science.nasa.gov/blog/sols-4484-4485-remote-sensing-on-a-monday/" >🔗</a> **[NASA]** Sols 4484-4485: Remote Sensing on a Monday
 - <a href="https://www.nasaspaceflight.com/2025/03/iss-roundup-032025/" >🔗</a> **[NASASpaceflight]** Crew handovers and cargo ship movements highlight recent ISS activity
 - <a href="https://www.nasa.gov/general/nasa-selects-14-finalist-teams-for-the-2025-rasc-al-competition/" >🔗</a> **[NASA]** NASA Selects 14 Finalist Teams for the 2025 RASC-AL Competition
-- <a href="https://spacenews.com/u-s-space-force-budget-trimmed-in-full-year-continuing-resolution/" >🔗</a> **[SpaceNews]** U.S. Space Force budget trimmed in full-year continuing resolution
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250321T120144">2025-03-21 12:01:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250321T124245">2025-03-21 12:42:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
