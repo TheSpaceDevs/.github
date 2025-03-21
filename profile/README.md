@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/maiaspace-has-secured-its-first-commercial-customer/" >🔗</a> **[European Spaceflight]** MaiaSpace Has Secured Its First Commercial Customer
 - <a href="https://spacenews.com/french-vleo-5g-startup-strikes-telecoms-infrastructure-partnership/" >🔗</a> **[SpaceNews]** French VLEO 5G startup strikes telecoms infrastructure partnership
 - <a href="https://spaceflightnow.com/2025/03/20/live-coverage-spacex-to-launch-reconnaissance-satellites-for-the-nro-on-falcon-9-rocket-from-vandenberg/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch reconnaissance satellites for the NRO on Falcon 9 rocket from Vandenberg
 - <a href="https://science.nasa.gov/blog/sols-4484-4485-remote-sensing-on-a-monday/" >🔗</a> **[NASA]** Sols 4484-4485: Remote Sensing on a Monday
@@ -99,17 +100,17 @@ into *an Unknown
 - <a href="https://science.nasa.gov/science-research/earth-science/celebrating-25-years-of-terra/" >🔗</a> **[NASA]** Celebrating 25 Years of Terra
 - <a href="https://www.nasa.gov/general/how-nasas-autonomy-choreography-will-impact-advanced-technologies/" >🔗</a> **[NASA]** How NASA’s “Autonomy Choreography” Will Impact Advanced Technologies
 - <a href="https://www.nasa.gov/image-article/hubble-sees-a-spiral-and-a-star/" >🔗</a> **[NASA]** Hubble Sees a Spiral and a Star
-- <a href="https://www.nasa.gov/centers-and-facilities/glenn/students-explore-technical-careers-at-nasa/" >🔗</a> **[NASA]** Students Explore Technical Careers at NASA
 
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2025/03/20/live-coverage-spacex-to-launch-reconnaissance-satellites-for-the-nro-on-falcon-9-rocket-from-vandenberg/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch reconnaissance satellites for the NRO on Falcon 9 rocket from Vandenberg
 - <a href="https://www.nasaspaceflight.com/2025/03/launch-roundup-031725/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Electron, Falcon 9, and Ceres-1 launches scheduled for the week
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250321T060133">2025-03-21 06:01:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250321T063756">2025-03-21 06:37:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
