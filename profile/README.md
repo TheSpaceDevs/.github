@@ -91,16 +91,16 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/station/iss-research/3d-printing-saving-weight-and-space-at-launch/" >🔗</a> **[NASA]** 3D Printing: Saving Weight and Space at Launch
 - <a href="https://spacenews.com/americas-space-strategy-in-a-changing-middle-east/" >🔗</a> **[SpaceNews]** America’s space strategy in a changing Middle East
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/03/Andrea_Patassa_Astronaut_Reserve_Member_Test_Pilot_Spiderman_ESA_Explores_11" >🔗</a> **[ESA]** Andrea Patassa | Astronaut Reserve Member, Test Pilot, Spiderman? | ESA Explores #11
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/03/Inner_space_engineering" >🔗</a> **[ESA]** Inner space engineering
 - <a href="https://spacenews.com/space-industries-sets-ambitious-goals-for-satellite-assembly-integration-and-testing/" >🔗</a> **[SpaceNews]** Space Industries sets ambitious goals for satellite assembly, integration and testing
 - <a href="https://spacenews.com/esa-releases-strategy-document-that-emphasizes-autonomy/" >🔗</a> **[SpaceNews]** ESA releases strategy document that emphasizes autonomy
 - <a href="https://arstechnica.com/space/2025/03/rocket-report-falcon-9-may-smash-reuse-record-relativity-roving-to-texas/" >🔗</a> **[Arstechnica]** Rocket Report: Falcon 9 may smash reuse record; Relativity roving to Texas?
+- <a href="https://science.nasa.gov/missions/hubble/hubble-captures-a-neighbors-colorful-clouds/" >🔗</a> **[NASA]** Hubble Captures a Neighbor’s Colorful Clouds
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/03/Earth_from_Space_Land_of_giants" >🔗</a> **[ESA]** Earth from Space: Land of giants
 - <a href="https://europeanspaceflight.com/maiaspace-has-secured-its-first-commercial-customer/" >🔗</a> **[European Spaceflight]** MaiaSpace Has Secured Its First Commercial Customer
-- <a href="https://spacenews.com/french-vleo-5g-startup-strikes-telecoms-infrastructure-partnership/" >🔗</a> **[SpaceNews]** French VLEO 5G startup strikes telecoms infrastructure partnership
-- <a href="https://spaceflightnow.com/2025/03/20/live-coverage-spacex-to-launch-reconnaissance-satellites-for-the-nro-on-falcon-9-rocket-from-vandenberg/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch reconnaissance satellites for the NRO on Falcon 9 rocket from Vandenberg
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250321T140122">2025-03-21 14:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250321T143410">2025-03-21 14:34:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
