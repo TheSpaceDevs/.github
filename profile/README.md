@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/star-catcher-completes-first-ground-test-for-space-power-beaming-service/" >🔗</a> **[SpaceNews]** Star Catcher completes first ground test for space power beaming service
 - <a href="https://science.nasa.gov/missions/sounding-rockets/nasa-alaska-rockets-aurora-experiment/" >🔗</a> **[NASA]** NASA to Launch Three Rockets from Alaska in Single Aurora Experiment
 - <a href="https://science.nasa.gov/technology/rps/nasa-reveals-semifinalists-of-power-to-explore-challenge/" >🔗</a> **[NASA]** NASA Reveals Semifinalists of Power to Explore Challenge
 - <a href="https://www.nasa.gov/image-article/making-ripples/" >🔗</a> **[NASA]** Making Ripples
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-to-cover-northrop-grummans-21st-cargo-space-station-departure/" >🔗</a> **[NASA]** NASA to Cover Northrop Grumman’s 21st Cargo Space Station Departure
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/03/Introducing_the_new_ESA_s_hyper_performance_computing" >🔗</a> **[ESA]** Introducing the new ESA's hyper performance computing
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_17-21_March_2025" >🔗</a> **[ESA]** Week in images: 17-21 March 2025
-- <a href="https://www.nasa.gov/missions/station/iss-research/3d-printing-saving-weight-and-space-at-launch/" >🔗</a> **[NASA]** 3D Printing: Saving Weight and Space at Launch
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250321T190127">2025-03-21 19:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250321T193110">2025-03-21 19:31:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
