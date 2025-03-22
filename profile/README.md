@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blog/sols-4486-4487-ankle-breaking-kind-of-terrain/" >🔗</a> **[NASA]** Sols 4486-4487: Ankle-Breaking Kind of Terrain!
 - <a href="https://spacenews.com/former-nasa-astronauts-endorse-isaacman-as-administrator/" >🔗</a> **[SpaceNews]** Former NASA astronauts endorse Isaacman as administrator
 - <a href="https://science.nasa.gov/blog/shocking-spherules/" >🔗</a> **[NASA]** Shocking Spherules!
 - <a href="https://www.nasa.gov/directorates/armd/tacp/cas/cas-discovery/" >🔗</a> **[NASA]** CAS Discovery and Foresight
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://science.nasa.gov/technology/rps/nasa-reveals-semifinalists-of-power-to-explore-challenge/" >🔗</a> **[NASA]** NASA Reveals Semifinalists of Power to Explore Challenge
 - <a href="https://www.nasa.gov/image-article/making-ripples/" >🔗</a> **[NASA]** Making Ripples
 - <a href="https://www.nasa.gov/news-release/nasa-astronauts-to-answer-questions-from-students-in-new-york/" >🔗</a> **[NASA]** NASA Astronauts to Answer Questions from Students in New York
-- <a href="https://arstechnica.com/space/2025/03/trump-white-house-drops-diversity-plan-for-moon-landing-it-created-back-in-2019/" >🔗</a> **[Arstechnica]** Trump White House drops diversity plan for Moon landing it created back in 2019
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250322T020526">2025-03-22 02:05:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250322T024651">2025-03-22 02:46:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
