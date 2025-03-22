@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/former-nasa-astronauts-endorse-isaacman-as-administrator/" >🔗</a> **[SpaceNews]** Former NASA astronauts endorse Isaacman as administrator
 - <a href="https://www.nasa.gov/directorates/armd/tacp/cas/cas-discovery/" >🔗</a> **[NASA]** CAS Discovery and Foresight
 - <a href="https://spacenews.com/star-catcher-completes-first-ground-test-for-space-power-beaming-service/" >🔗</a> **[SpaceNews]** Star Catcher completes first ground test for space power beaming service
 - <a href="https://tlpnetwork.com/news/america/spacex-starbase-may-soon-control-road-closures-thanks-to-new-legislation" >🔗</a> **[The Launch Pad]** SpaceX Starbase May Soon Control Road Closures Thanks To New Legislation
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-astronauts-to-answer-questions-from-students-in-new-york/" >🔗</a> **[NASA]** NASA Astronauts to Answer Questions from Students in New York
 - <a href="https://arstechnica.com/space/2025/03/trump-white-house-drops-diversity-plan-for-moon-landing-it-created-back-in-2019/" >🔗</a> **[Arstechnica]** Trump White House drops diversity plan for Moon landing it created back in 2019
 - <a href="https://www.nasa.gov/image-article/nasas-artemis-ii-orion-service-module-buttoned-up-for-launch/" >🔗</a> **[NASA]** NASA’s Artemis II Orion Service Module Buttoned Up for Launch
-- <a href="https://www.nasa.gov/news-release/nasa-to-cover-northrop-grummans-21st-cargo-space-station-departure/" >🔗</a> **[NASA]** NASA to Cover Northrop Grumman’s 21st Cargo Space Station Departure
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250322T000422">2025-03-22 00:04:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250322T004538">2025-03-22 00:45:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
