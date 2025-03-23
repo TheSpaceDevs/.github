@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/america/nasa-revises-artemis-mission-goals" >🔗</a> **[The Launch Pad]** NASA Revises Artemis Mission Goals
 - <a href="https://europeanspaceflight.com/after-delays-esa-to-publish-launcher-challenge-call-next-week/" >🔗</a> **[European Spaceflight]** After Delays, ESA to Publish Launcher Challenge Call Next Week
 - <a href="https://science.nasa.gov/blog/sols-4486-4487-ankle-breaking-kind-of-terrain/" >🔗</a> **[NASA]** Sols 4486-4487: Ankle-Breaking Kind of Terrain!
 - <a href="https://spacenews.com/former-nasa-astronauts-endorse-isaacman-as-administrator/" >🔗</a> **[SpaceNews]** Former NASA astronauts endorse Isaacman as administrator
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://tlpnetwork.com/news/america/spacex-starbase-may-soon-control-road-closures-thanks-to-new-legislation" >🔗</a> **[The Launch Pad]** SpaceX Starbase May Soon Control Road Closures Thanks To New Legislation
 - <a href="https://science.nasa.gov/missions/sounding-rockets/nasa-alaska-rockets-aurora-experiment/" >🔗</a> **[NASA]** NASA to Launch Three Rockets from Alaska in Single Aurora Experiment
 - <a href="https://science.nasa.gov/technology/rps/nasa-reveals-semifinalists-of-power-to-explore-challenge/" >🔗</a> **[NASA]** NASA Reveals Semifinalists of Power to Explore Challenge
-- <a href="https://www.nasa.gov/image-article/making-ripples/" >🔗</a> **[NASA]** Making Ripples
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250323T031430">2025-03-23 03:14:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250323T033810">2025-03-23 03:38:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
