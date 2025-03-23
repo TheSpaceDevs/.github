@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-march-23-29-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy March 23-29, 2025
 - <a href="https://www.nasa.gov/history/60-years-ago-gemini-iii-americas-first-two-person-flight/" >🔗</a> **[NASA]** 60 Years Ago: Gemini III, America’s First Two-Person Flight
 - <a href="https://tlpnetwork.com/news/america/nasa-revises-artemis-mission-goals" >🔗</a> **[The Launch Pad]** NASA Revises Artemis Mission Goals
 - <a href="https://europeanspaceflight.com/after-delays-esa-to-publish-launcher-challenge-call-next-week/" >🔗</a> **[European Spaceflight]** After Delays, ESA to Publish Launcher Challenge Call Next Week
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasa.gov/directorates/armd/tacp/cas/cas-discovery/" >🔗</a> **[NASA]** CAS Discovery and Foresight
 - <a href="https://spacenews.com/star-catcher-completes-first-ground-test-for-space-power-beaming-service/" >🔗</a> **[SpaceNews]** Star Catcher completes first ground test for space power beaming service
 - <a href="https://tlpnetwork.com/news/america/spacex-starbase-may-soon-control-road-closures-thanks-to-new-legislation" >🔗</a> **[The Launch Pad]** SpaceX Starbase May Soon Control Road Closures Thanks To New Legislation
-- <a href="https://science.nasa.gov/missions/sounding-rockets/nasa-alaska-rockets-aurora-experiment/" >🔗</a> **[NASA]** NASA to Launch Three Rockets from Alaska in Single Aurora Experiment
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250323T193104">2025-03-23 19:31:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250323T200123">2025-03-23 20:01:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
