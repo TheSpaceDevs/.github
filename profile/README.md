@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/shenzhou-19-astronauts-complete-third-spacewalk-install-final-debris-shielding-on-tiangong/" >🔗</a> **[SpaceNews]** Shenzhou-19 astronauts complete third spacewalk, install final debris shielding on Tiangong
 - <a href="https://spacenews.com/the-european-unions-push-for-next-generation-space-electronics-and-critical-technologies/" >🔗</a> **[SpaceNews]** The European Union’s push for next generation space electronics and critical technologies
 - <a href="https://spacenews.com/pangea-aerospace-raises-series-a-round-to-fund-space-propulsion-work/" >🔗</a> **[SpaceNews]** Pangea Aerospace raises Series A round to fund space propulsion work
 - <a href="https://www.nasaspaceflight.com/2025/03/isar-first-launch/" >🔗</a> **[NASASpaceflight]** Isar Aerospace set to make first orbital launch from continental Europe
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://europeanspaceflight.com/after-delays-esa-to-publish-launcher-challenge-call-next-week/" >🔗</a> **[European Spaceflight]** After Delays, ESA to Publish Launcher Challenge Call Next Week
 - <a href="https://science.nasa.gov/blog/sols-4486-4487-ankle-breaking-kind-of-terrain/" >🔗</a> **[NASA]** Sols 4486-4487: Ankle-Breaking Kind of Terrain!
 - <a href="https://spacenews.com/former-nasa-astronauts-endorse-isaacman-as-administrator/" >🔗</a> **[SpaceNews]** Former NASA astronauts endorse Isaacman as administrator
-- <a href="https://science.nasa.gov/blog/shocking-spherules/" >🔗</a> **[NASA]** Shocking Spherules!
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250324T100135">2025-03-24 10:01:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250324T103557">2025-03-24 10:35:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
