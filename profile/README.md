@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/engineering-reality-lee-bingham-leads-lunar-surface-simulation-support-for-artemis-campaign/" >🔗</a> **[NASA]** Engineering Reality: Lee Bingham Leads Lunar Surface Simulation Support for Artemis Campaign
 - <a href="https://spacenews.com/esa-issues-call-for-proposals-for-european-launcher-challenge/" >🔗</a> **[SpaceNews]** ESA issues call for proposals for European Launcher Challenge
 - <a href="https://science.nasa.gov/missions/mars-science-laboratory/nasas-curiosity-rover-detects-largest-organic-molecules-found-on-mars/" >🔗</a> **[NASA]** NASA’s Curiosity Rover Detects Largest Organic Molecules Found on Mars
 - <a href="https://www.nasa.gov/image-article/like-sands-through-the-hourglass/" >🔗</a> **[NASA]** Like Sands Through the Hourglass…
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasa.gov/earth/nasa-takes-to-the-air-to-study-wildflowers/" >🔗</a> **[NASA]** NASA Takes to the Air to Study Wildflowers
 - <a href="https://tlpnetwork.com/news/america/live-coverage-spacex-set-to-launch-classified-nrol-69-mission-from-florida-space-coast" >🔗</a> **[The Launch Pad]** Live coverage: SpaceX Set to Launch Classified NROL-69 Mission from Florida Space Coast
 - <a href="https://europeanspaceflight.com/esa-taps-spaceo-led-consortium-to-test-inflatable-satellite-deorbit-system/" >🔗</a> **[European Spaceflight]** ESA Taps Spaceo-Led Consortium to Test Inflatable Satellite Deorbit System
-- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Submit_your_proposal_to_the_European_Launcher_Challenge" >🔗</a> **[ESA]** Submit your proposal to the European Launcher Challenge
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250324T210129">2025-03-24 21:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250324T213122">2025-03-24 21:31:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
