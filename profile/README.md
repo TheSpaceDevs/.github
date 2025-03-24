@@ -20,33 +20,32 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Spectrum | Maiden Flight**. It is scheduled to be launched by *Isar Aerospace*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/de.svg" />
-from *<a href="https://en.wikipedia.org/wiki/And%C3%B8ya_Space">Orbital Launch Pad</a>, Andøya Spaceport*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/no.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250324T113000">2025-03-24 11:30:00 UTC</a>.  Until
-then, this pad will have been used for 0
-out of 0 launches from this location. The launch status is currently
+**Falcon 9 Block 5 | NROL-69**. It is scheduled to be launched by *SpaceX*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral SFS, FL, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250324T174200">2025-03-24 17:42:00 UTC</a>.  Until
+then, this pad will have been used for 296
+out of 1011 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Test Flight* and the payload will be injected
-into *a Sun-Synchronous Orbit
-(SSO)*.
+*Government/Top Secret* and the payload will be injected
+into *an Unknown
+(N/A)*.
 <br>
 <blockquote>
-  First flight of the Isar Spectrum launch vehicle.
+  Classified payload for the US National Reconnaissance Office
 </blockquote>
 
 <p float="left" align="center">
-  <a href="None" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=69.1084,15.5895" >
+  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250324T113000">2025-03-24 11:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/no.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Spectrum | Maiden Flight&location=Andøya Spaceport&dates=20250324T113000Z%2F20250324T143000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Spectrum | Maiden Flight** from Andøya Spaceport.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250324T174200">2025-03-24 17:42:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | NROL-69&location=Cape Canaveral SFS, FL, USA&dates=20250324T174200Z%2F20250324T182400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | NROL-69** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250326T133700">2025-03-26 13:37:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Firefly Alpha | FLTA006 (Message in a Booster)&location=Vandenberg SFB, CA, USA&dates=20250326T133700Z%2F20250326T151700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Firefly Alpha | FLTA006 (Message in a Booster)** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250326T153000">2025-03-26 15:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Finding Hot Wildfires Near You (OroraTech OTC-P1)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20250326T153000Z%2F20250326T160000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Finding Hot Wildfires Near You (OroraTech OTC-P1)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
@@ -56,6 +55,7 @@ into *a Sun-Synchronous Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250331T000000">2025-03-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/au.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Eris-1 | Maiden Flight&location=Bowen Orbital Spaceport&dates=20250331T000000Z%2F20250331T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Eris-1 | Maiden Flight** from Bowen Orbital Spaceport.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250331T000000">2025-03-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 551 | Project Kuiper (Atlas V #2)&location=Cape Canaveral SFS, FL, USA&dates=20250331T000000Z%2F20250331T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 551 | Project Kuiper (Atlas V #2)** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250331T000000">2025-03-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=HASTE | DART AE&location=Wallops Flight Facility, Virginia, USA&dates=20250331T000000Z%2F20250331T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **HASTE | DART AE** from Wallops Flight Facility, Virginia, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250331T000000">2025-03-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Shepard | NS-31&location=Corn Ranch, Van Horn, TX, USA&dates=20250331T000000Z%2F20250331T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Shepard | NS-31** from Corn Ranch, Van Horn, TX, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/maiaspace-signs-first-commercial-launch-contract/" >🔗</a> **[SpaceNews]** MaiaSpace signs first commercial launch contract
 - <a href="https://spacenews.com/shenzhou-19-astronauts-complete-third-spacewalk-install-final-debris-shielding-on-tiangong/" >🔗</a> **[SpaceNews]** Shenzhou-19 astronauts complete third spacewalk, install final debris shielding on Tiangong
 - <a href="https://spacenews.com/the-european-unions-push-for-next-generation-space-electronics-and-critical-technologies/" >🔗</a> **[SpaceNews]** The European Union’s push for next generation space electronics and critical technologies
 - <a href="https://spacenews.com/pangea-aerospace-raises-series-a-round-to-fund-space-propulsion-work/" >🔗</a> **[SpaceNews]** Pangea Aerospace raises Series A round to fund space propulsion work
@@ -100,26 +101,15 @@ into *a Sun-Synchronous Orbit
 - <a href="https://tlpnetwork.com/news/america/nasa-revises-artemis-mission-goals" >🔗</a> **[The Launch Pad]** NASA Revises Artemis Mission Goals
 - <a href="https://europeanspaceflight.com/after-delays-esa-to-publish-launcher-challenge-call-next-week/" >🔗</a> **[European Spaceflight]** After Delays, ESA to Publish Launcher Challenge Call Next Week
 - <a href="https://science.nasa.gov/blog/sols-4486-4487-ankle-breaking-kind-of-terrain/" >🔗</a> **[NASA]** Sols 4486-4487: Ankle-Breaking Kind of Terrain!
-- <a href="https://spacenews.com/former-nasa-astronauts-endorse-isaacman-as-administrator/" >🔗</a> **[SpaceNews]** Former NASA astronauts endorse Isaacman as administrator
 
 
 ### Launch-related News 🚀
 
-- <a href="https://spacenews.com/isar-aerospace-sets-date-for-first-launch-after-receiving-license/" >🔗</a> **[SpaceNews]** Isar Aerospace sets date for first launch after receiving license
-- <a href="https://europeanspaceflight.com/inaugural-isar-aerospace-spectrum-launch-set-for-late-march/" >🔗</a> **[European Spaceflight]** Inaugural Isar Aerospace Spectrum Launch Set for Late March
-- <a href="https://spacenews.com/isar-aerospace-secures-first-asian-customer-ahead-of-debut-launch/" >🔗</a> **[SpaceNews]** Isar Aerospace secures first Asian customer ahead of debut launch
-- <a href="https://europeanspaceflight.com/isar-secures-new-launch-contract-as-it-prepares-for-spectrum-debut/" >🔗</a> **[European Spaceflight]** Isar Secures New Launch Contract as it Prepares for Spectrum Debut
-- <a href="https://tlpnetwork.com/news/europe/isar-aerospace-successfully-completes-spectrum-rocket-testing-awaiting-first-launch-license" >🔗</a> **[The Launch Pad]** Isar Aerospace Successfully Completes Spectrum Rocket Testing; Awaiting First Launch License
-- <a href="https://spacenews.com/isar-aerospace-completes-testing-of-first-spectrum-rocket/" >🔗</a> **[SpaceNews]** Isar Aerospace completes testing of first Spectrum rocket
-- <a href="https://www.nasaspaceflight.com/2025/02/isar-spectrum-static-fire/" >🔗</a> **[NASASpaceflight]** Isar Aerospace completes static fires of Spectrum rocket ahead of first European launch
-- <a href="https://europeanspaceflight.com/isar-completes-final-static-fire-tests-ahead-of-inaugural-spectrum-flight/" >🔗</a> **[European Spaceflight]** Isar Completes Final Static Fire Tests Ahead of Inaugural Spectrum Flight
-- <a href="https://europeanspaceflight.com/isar-confirms-hot-fire-testing-has-commenced-at-andoya/" >🔗</a> **[European Spaceflight]** Isar Confirms Hot Fire Testing Has Commenced at Andøya
-- <a href="https://europeanspaceflight.com/norways-andoya-spaceport-receives-launch-site-operator-license/" >🔗</a> **[European Spaceflight]** Norway’s Andøya Spaceport Receives Launch Site Operator License
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250324T110136">2025-03-24 11:01:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250324T113109">2025-03-24 11:31:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
