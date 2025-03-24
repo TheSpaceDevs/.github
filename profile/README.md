@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasas-spacex-crew-9-astronauts-to-discuss-science-mission/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-9 Astronauts to Discuss Science Mission
+- <a href="https://www.nasa.gov/history/50-years-ago-final-saturn-rocket-rolls-out-to-launch-pad-39/" >🔗</a> **[NASA]** 50 Years Ago: Final Saturn Rocket Rolls Out to Launch Pad 39
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_unmasks_true_nature_of_the_Cosmic_Tornado" >🔗</a> **[ESA]** Webb unmasks true nature of the Cosmic Tornado
+- <a href="https://science.nasa.gov/missions/webb/nasas-webb-telescope-unmasks-true-nature-of-the-cosmic-tornado/" >🔗</a> **[NASA]** NASA’s Webb Telescope Unmasks True Nature of the Cosmic Tornado
 - <a href="https://spacenews.com/balancing-national-security-and-international-cooperation-in-the-competitive-era-of-commercial-space/" >🔗</a> **[SpaceNews]** Balancing national security and international cooperation in the competitive era of commercial space
 - <a href="https://spaceflightnow.com/2025/03/24/live-coverage-spacex-to-launch-national-security-satellite-for-nro-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch national security satellite for NRO on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacenews.com/maiaspace-signs-first-commercial-launch-contract/" >🔗</a> **[SpaceNews]** MaiaSpace signs first commercial launch contract
 - <a href="https://spacenews.com/shenzhou-19-astronauts-complete-third-spacewalk-install-final-debris-shielding-on-tiangong/" >🔗</a> **[SpaceNews]** Shenzhou-19 astronauts complete third spacewalk, install final debris shielding on Tiangong
 - <a href="https://spacenews.com/the-european-unions-push-for-next-generation-space-electronics-and-critical-technologies/" >🔗</a> **[SpaceNews]** The European Union’s push for next generation space electronics and critical technologies
 - <a href="https://spacenews.com/pangea-aerospace-raises-series-a-round-to-fund-space-propulsion-work/" >🔗</a> **[SpaceNews]** Pangea Aerospace raises Series A round to fund space propulsion work
-- <a href="https://www.nasaspaceflight.com/2025/03/isar-first-launch/" >🔗</a> **[NASASpaceflight]** Isar Aerospace set to make first orbital launch from continental Europe
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-march-23-29-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy March 23-29, 2025
-- <a href="https://www.nasa.gov/history/60-years-ago-gemini-iii-americas-first-two-person-flight/" >🔗</a> **[NASA]** 60 Years Ago: Gemini III, America’s First Two-Person Flight
-- <a href="https://tlpnetwork.com/news/america/nasa-revises-artemis-mission-goals" >🔗</a> **[The Launch Pad]** NASA Revises Artemis Mission Goals
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250324T140124">2025-03-24 14:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250324T143515">2025-03-24 14:35:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
