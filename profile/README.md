@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/03/24/live-coverage-spacex-to-launch-national-security-satellite-for-nro-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch national security satellite for NRO on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacenews.com/maiaspace-signs-first-commercial-launch-contract/" >🔗</a> **[SpaceNews]** MaiaSpace signs first commercial launch contract
 - <a href="https://spacenews.com/shenzhou-19-astronauts-complete-third-spacewalk-install-final-debris-shielding-on-tiangong/" >🔗</a> **[SpaceNews]** Shenzhou-19 astronauts complete third spacewalk, install final debris shielding on Tiangong
 - <a href="https://spacenews.com/the-european-unions-push-for-next-generation-space-electronics-and-critical-technologies/" >🔗</a> **[SpaceNews]** The European Union’s push for next generation space electronics and critical technologies
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/history/60-years-ago-gemini-iii-americas-first-two-person-flight/" >🔗</a> **[NASA]** 60 Years Ago: Gemini III, America’s First Two-Person Flight
 - <a href="https://tlpnetwork.com/news/america/nasa-revises-artemis-mission-goals" >🔗</a> **[The Launch Pad]** NASA Revises Artemis Mission Goals
 - <a href="https://europeanspaceflight.com/after-delays-esa-to-publish-launcher-challenge-call-next-week/" >🔗</a> **[European Spaceflight]** After Delays, ESA to Publish Launcher Challenge Call Next Week
-- <a href="https://science.nasa.gov/blog/sols-4486-4487-ankle-breaking-kind-of-terrain/" >🔗</a> **[NASA]** Sols 4486-4487: Ankle-Breaking Kind of Terrain!
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250324T113109">2025-03-24 11:31:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250324T120148">2025-03-24 12:01:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
