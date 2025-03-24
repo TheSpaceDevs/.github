@@ -20,27 +20,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | NROL-69**. It is scheduled to be launched by *SpaceX*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral SFS, FL, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250324T174200">2025-03-24 17:42:00 UTC</a>.  Until
-then, this pad will have been used for 296
-out of 1011 launches from this location. The launch status is currently
-*Go* 🟩 . The mission type is
-*Government/Top Secret* and the payload will be injected
-into *an Unknown
-(N/A)*.
+**Spectrum | Maiden Flight**. It is scheduled to be launched by *Isar Aerospace*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/de.svg" />
+from *<a href="https://en.wikipedia.org/wiki/And%C3%B8ya_Space">Orbital Launch Pad</a>, Andøya Spaceport*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/no.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250325T113000">2025-03-25 11:30:00 UTC</a>.  Until
+then, this pad will have been used for 0
+out of 0 launches from this location. The launch status is currently
+*TBC* 🟨 . The mission type is
+*Test Flight* and the payload will be injected
+into *a Sun-Synchronous Orbit
+(SSO)*.
 <br>
 <blockquote>
-  Classified payload for the US National Reconnaissance Office
+  First flight of the Isar Spectrum launch vehicle.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+  <a href="None" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
+  <a href="https://www.google.com/maps?q=69.1084,15.5895" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -55,6 +55,7 @@ into *an Unknown
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250331T000000">2025-03-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/au.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Eris-1 | Maiden Flight&location=Bowen Orbital Spaceport&dates=20250331T000000Z%2F20250331T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Eris-1 | Maiden Flight** from Bowen Orbital Spaceport.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250331T000000">2025-03-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 551 | Project Kuiper (Atlas V #2)&location=Cape Canaveral SFS, FL, USA&dates=20250331T000000Z%2F20250331T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 551 | Project Kuiper (Atlas V #2)** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250331T000000">2025-03-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=HASTE | DART AE&location=Wallops Flight Facility, Virginia, USA&dates=20250331T000000Z%2F20250331T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **HASTE | DART AE** from Wallops Flight Facility, Virginia, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250331T000000">2025-03-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Shepard | NS-31&location=Corn Ranch, Van Horn, TX, USA&dates=20250331T000000Z%2F20250331T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Shepard | NS-31** from Corn Ranch, Van Horn, TX, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,26 +91,35 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/like-sands-through-the-hourglass/" >🔗</a> **[NASA]** Like Sands Through the Hourglass…
+- <a href="https://www.nasa.gov/general/career-transition-assistance-plan-ctap-services/" >🔗</a> **[NASA]** Career Transition Assistance Plan (CTAP) Services
+- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-spacexs-32nd-resupply-launch-to-space-station/" >🔗</a> **[NASA]** NASA Invites Media to SpaceX’s 32nd Resupply Launch to Space Station
+- <a href="https://arstechnica.com/science/2025/03/should-we-be-concerned-about-the-loss-of-weather-balloons/" >🔗</a> **[Arstechnica]** Should we be concerned about the loss of weather balloons?
 - <a href="https://www.nasa.gov/earth/nasa-takes-to-the-air-to-study-wildflowers/" >🔗</a> **[NASA]** NASA Takes to the Air to Study Wildflowers
 - <a href="https://tlpnetwork.com/news/america/live-coverage-spacex-set-to-launch-classified-nrol-69-mission-from-florida-space-coast" >🔗</a> **[The Launch Pad]** Live coverage: SpaceX Set to Launch Classified NROL-69 Mission from Florida Space Coast
 - <a href="https://europeanspaceflight.com/esa-taps-spaceo-led-consortium-to-test-inflatable-satellite-deorbit-system/" >🔗</a> **[European Spaceflight]** ESA Taps Spaceo-Led Consortium to Test Inflatable Satellite Deorbit System
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Submit_your_proposal_to_the_European_Launcher_Challenge" >🔗</a> **[ESA]** Submit your proposal to the European Launcher Challenge
 - <a href="https://www.nasa.gov/news-release/nasas-spacex-crew-9-astronauts-to-discuss-science-mission/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-9 Astronauts to Discuss Science Mission
 - <a href="https://www.nasa.gov/history/50-years-ago-final-saturn-rocket-rolls-out-to-launch-pad-39/" >🔗</a> **[NASA]** 50 Years Ago: Final Saturn Rocket Rolls Out to Launch Pad 39
-- <a href="https://science.nasa.gov/missions/webb/nasas-webb-telescope-unmasks-true-nature-of-the-cosmic-tornado/" >🔗</a> **[NASA]** NASA’s Webb Telescope Unmasks True Nature of the Cosmic Tornado
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_unmasks_true_nature_of_the_Cosmic_Tornado" >🔗</a> **[ESA]** Webb unmasks true nature of the Cosmic Tornado
-- <a href="https://spacenews.com/balancing-national-security-and-international-cooperation-in-the-competitive-era-of-commercial-space/" >🔗</a> **[SpaceNews]** Balancing national security and international cooperation in the competitive era of commercial space
-- <a href="https://spaceflightnow.com/2025/03/24/live-coverage-spacex-to-launch-national-security-satellite-for-nro-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch national security satellite for NRO on Falcon 9 rocket from Cape Canaveral
 
 
 ### Launch-related News 🚀
 
-- <a href="https://spaceflightnow.com/2025/03/24/live-coverage-spacex-to-launch-national-security-satellite-for-nro-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch national security satellite for NRO on Falcon 9 rocket from Cape Canaveral
+- <a href="https://www.nasaspaceflight.com/2025/03/isar-first-launch/" >🔗</a> **[NASASpaceflight]** Isar Aerospace set to make first orbital launch from continental Europe
+- <a href="https://spacenews.com/isar-aerospace-sets-date-for-first-launch-after-receiving-license/" >🔗</a> **[SpaceNews]** Isar Aerospace sets date for first launch after receiving license
+- <a href="https://europeanspaceflight.com/inaugural-isar-aerospace-spectrum-launch-set-for-late-march/" >🔗</a> **[European Spaceflight]** Inaugural Isar Aerospace Spectrum Launch Set for Late March
+- <a href="https://spacenews.com/isar-aerospace-secures-first-asian-customer-ahead-of-debut-launch/" >🔗</a> **[SpaceNews]** Isar Aerospace secures first Asian customer ahead of debut launch
+- <a href="https://europeanspaceflight.com/isar-secures-new-launch-contract-as-it-prepares-for-spectrum-debut/" >🔗</a> **[European Spaceflight]** Isar Secures New Launch Contract as it Prepares for Spectrum Debut
+- <a href="https://tlpnetwork.com/news/europe/isar-aerospace-successfully-completes-spectrum-rocket-testing-awaiting-first-launch-license" >🔗</a> **[The Launch Pad]** Isar Aerospace Successfully Completes Spectrum Rocket Testing; Awaiting First Launch License
+- <a href="https://spacenews.com/isar-aerospace-completes-testing-of-first-spectrum-rocket/" >🔗</a> **[SpaceNews]** Isar Aerospace completes testing of first Spectrum rocket
+- <a href="https://www.nasaspaceflight.com/2025/02/isar-spectrum-static-fire/" >🔗</a> **[NASASpaceflight]** Isar Aerospace completes static fires of Spectrum rocket ahead of first European launch
+- <a href="https://europeanspaceflight.com/isar-completes-final-static-fire-tests-ahead-of-inaugural-spectrum-flight/" >🔗</a> **[European Spaceflight]** Isar Completes Final Static Fire Tests Ahead of Inaugural Spectrum Flight
+- <a href="https://europeanspaceflight.com/isar-confirms-hot-fire-testing-has-commenced-at-andoya/" >🔗</a> **[European Spaceflight]** Isar Confirms Hot Fire Testing Has Commenced at Andøya
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250324T180141">2025-03-24 18:01:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250324T183747">2025-03-24 18:37:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
