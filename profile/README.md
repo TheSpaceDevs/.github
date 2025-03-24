@@ -91,6 +91,9 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nro-expands-spy-satellite-network-with-back-to-back-spacex-launches/" >🔗</a> **[SpaceNews]** NRO expands spy satellite network with back-to-back SpaceX launches
+- <a href="https://science.nasa.gov/blog/sols-4488-4490-progress-through-the-ankle-breaking-terrain-west-of-texoli-butte-climbing-southward/" >🔗</a> **[NASA]** Sols 4488-4490: Progress Through the Ankle-Breaking Terrain (West of Texoli Butte, Climbing Southward)
+- <a href="https://www.nasaspaceflight.com/2025/03/launch-roundup-032425/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Alpha, Spectrum, Electron, and Falcon 9 set to fly
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/engineering-reality-lee-bingham-leads-lunar-surface-simulation-support-for-artemis-campaign/" >🔗</a> **[NASA]** Engineering Reality: Lee Bingham Leads Lunar Surface Simulation Support for Artemis Campaign
 - <a href="https://spacenews.com/esa-issues-call-for-proposals-for-european-launcher-challenge/" >🔗</a> **[SpaceNews]** ESA issues call for proposals for European Launcher Challenge
 - <a href="https://science.nasa.gov/missions/mars-science-laboratory/nasas-curiosity-rover-detects-largest-organic-molecules-found-on-mars/" >🔗</a> **[NASA]** NASA’s Curiosity Rover Detects Largest Organic Molecules Found on Mars
@@ -98,9 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasa.gov/general/career-transition-assistance-plan-ctap-services/" >🔗</a> **[NASA]** Career Transition Assistance Plan (CTAP) Services
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-spacexs-32nd-resupply-launch-to-space-station/" >🔗</a> **[NASA]** NASA Invites Media to SpaceX’s 32nd Resupply Launch to Space Station
 - <a href="https://arstechnica.com/science/2025/03/should-we-be-concerned-about-the-loss-of-weather-balloons/" >🔗</a> **[Arstechnica]** Should we be concerned about the loss of weather balloons?
-- <a href="https://www.nasa.gov/earth/nasa-takes-to-the-air-to-study-wildflowers/" >🔗</a> **[NASA]** NASA Takes to the Air to Study Wildflowers
-- <a href="https://tlpnetwork.com/news/america/live-coverage-spacex-set-to-launch-classified-nrol-69-mission-from-florida-space-coast" >🔗</a> **[The Launch Pad]** Live coverage: SpaceX Set to Launch Classified NROL-69 Mission from Florida Space Coast
-- <a href="https://europeanspaceflight.com/esa-taps-spaceo-led-consortium-to-test-inflatable-satellite-deorbit-system/" >🔗</a> **[European Spaceflight]** ESA Taps Spaceo-Led Consortium to Test Inflatable Satellite Deorbit System
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250324T230130">2025-03-24 23:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250324T233208">2025-03-24 23:32:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
