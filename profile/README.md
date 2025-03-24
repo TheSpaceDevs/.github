@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/earth/nasa-takes-to-the-air-to-study-wildflowers/" >🔗</a> **[NASA]** NASA Takes to the Air to Study Wildflowers
 - <a href="https://tlpnetwork.com/news/america/live-coverage-spacex-set-to-launch-classified-nrol-69-mission-from-florida-space-coast" >🔗</a> **[The Launch Pad]** Live coverage: SpaceX Set to Launch Classified NROL-69 Mission from Florida Space Coast
 - <a href="https://europeanspaceflight.com/esa-taps-spaceo-led-consortium-to-test-inflatable-satellite-deorbit-system/" >🔗</a> **[European Spaceflight]** ESA Taps Spaceo-Led Consortium to Test Inflatable Satellite Deorbit System
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Submit_your_proposal_to_the_European_Launcher_Challenge" >🔗</a> **[ESA]** Submit your proposal to the European Launcher Challenge
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_unmasks_true_nature_of_the_Cosmic_Tornado" >🔗</a> **[ESA]** Webb unmasks true nature of the Cosmic Tornado
 - <a href="https://spacenews.com/balancing-national-security-and-international-cooperation-in-the-competitive-era-of-commercial-space/" >🔗</a> **[SpaceNews]** Balancing national security and international cooperation in the competitive era of commercial space
 - <a href="https://spaceflightnow.com/2025/03/24/live-coverage-spacex-to-launch-national-security-satellite-for-nro-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch national security satellite for NRO on Falcon 9 rocket from Cape Canaveral
-- <a href="https://spacenews.com/maiaspace-signs-first-commercial-launch-contract/" >🔗</a> **[SpaceNews]** MaiaSpace signs first commercial launch contract
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250324T170126">2025-03-24 17:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250324T173334">2025-03-24 17:33:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
