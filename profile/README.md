@@ -91,6 +91,8 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/esa-issues-call-for-proposals-for-european-launcher-challenge/" >🔗</a> **[SpaceNews]** ESA issues call for proposals for European Launcher Challenge
+- <a href="https://science.nasa.gov/missions/mars-science-laboratory/nasas-curiosity-rover-detects-largest-organic-molecules-found-on-mars/" >🔗</a> **[NASA]** NASA’s Curiosity Rover Detects Largest Organic Molecules Found on Mars
 - <a href="https://www.nasa.gov/image-article/like-sands-through-the-hourglass/" >🔗</a> **[NASA]** Like Sands Through the Hourglass…
 - <a href="https://www.nasa.gov/general/career-transition-assistance-plan-ctap-services/" >🔗</a> **[NASA]** Career Transition Assistance Plan (CTAP) Services
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-spacexs-32nd-resupply-launch-to-space-station/" >🔗</a> **[NASA]** NASA Invites Media to SpaceX’s 32nd Resupply Launch to Space Station
@@ -99,8 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://tlpnetwork.com/news/america/live-coverage-spacex-set-to-launch-classified-nrol-69-mission-from-florida-space-coast" >🔗</a> **[The Launch Pad]** Live coverage: SpaceX Set to Launch Classified NROL-69 Mission from Florida Space Coast
 - <a href="https://europeanspaceflight.com/esa-taps-spaceo-led-consortium-to-test-inflatable-satellite-deorbit-system/" >🔗</a> **[European Spaceflight]** ESA Taps Spaceo-Led Consortium to Test Inflatable Satellite Deorbit System
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Submit_your_proposal_to_the_European_Launcher_Challenge" >🔗</a> **[ESA]** Submit your proposal to the European Launcher Challenge
-- <a href="https://www.nasa.gov/news-release/nasas-spacex-crew-9-astronauts-to-discuss-science-mission/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-9 Astronauts to Discuss Science Mission
-- <a href="https://www.nasa.gov/history/50-years-ago-final-saturn-rocket-rolls-out-to-launch-pad-39/" >🔗</a> **[NASA]** 50 Years Ago: Final Saturn Rocket Rolls Out to Launch Pad 39
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250324T200129">2025-03-24 20:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250324T203305">2025-03-24 20:33:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
