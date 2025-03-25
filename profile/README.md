@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-cloud-software-helps-companies-find-their-place-in-space/" >🔗</a> **[NASA]** NASA Cloud Software Helps Companies Find their Place in Space
+- <a href="https://www.nasa.gov/image-article/nasas-spirit-rover-gets-looked-over/" >🔗</a> **[NASA]** NASA’s Spirit Rover Gets Looked Over
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-learn-about-artemis-moon-mission-recovery/" >🔗</a> **[NASA]** NASA Invites Media to Learn About Artemis Moon Mission Recovery
 - <a href="https://spacenews.com/california-commits-95-million-to-purchase-of-satellite-methane-data/" >🔗</a> **[SpaceNews]** California commits $95 million  to purchase of satellite methane data
 - <a href="https://spacenews.com/spain-backs-sateliot-with-15-million-to-expand-connectivity-constellation/" >🔗</a> **[SpaceNews]** Spain backs Sateliot with $15 million to expand connectivity constellation
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/general/nasa-demonstrates-new-wildland-fire-airspace-management-system/" >🔗</a> **[NASA]** NASA Demonstrates New Wildland Fire Airspace Management System
 - <a href="https://www.nasa.gov/image-article/investigaciones-de-la-nasa-en-la-estacion-espacial-ayudan-a-impulsar-la-ciencia-lunar/" >🔗</a> **[NASA]** Investigaciones de la NASA en la estación espacial ayudan a impulsar la ciencia lunar
 - <a href="https://www.nasa.gov/aeronautics/new-aircraft-wing-undergoes-crucial-nasa-icing-testing/" >🔗</a> **[NASA]** New Aircraft Wing Undergoes Crucial NASA Icing Testing
-- <a href="https://www.nasa.gov/image-article/nasas-lunar-reconnaissance-orbiter-views-blue-ghost-on-moons-surface/" >🔗</a> **[NASA]** NASA’s Lunar Reconnaissance Orbiter Views Blue Ghost on Moon’s Surface
-- <a href="https://www.nasa.gov/image-article/nasas-lunar-reconnaissance-orbiter-views-im-2-on-moons-surface/" >🔗</a> **[NASA]** NASA’s Lunar Reconnaissance Orbiter Views IM-2 on Moon’s Surface
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250325T210117">2025-03-25 21:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250325T213123">2025-03-25 21:31:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
