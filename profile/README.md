@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/aeronautics/new-aircraft-wing-undergoes-crucial-nasa-icing-testing/" >🔗</a> **[NASA]** New Aircraft Wing Undergoes Crucial NASA Icing Testing
 - <a href="https://www.nasa.gov/image-article/nasas-lunar-reconnaissance-orbiter-views-blue-ghost-on-moons-surface/" >🔗</a> **[NASA]** NASA’s Lunar Reconnaissance Orbiter Views Blue Ghost on Moon’s Surface
 - <a href="https://www.nasa.gov/image-article/nasas-lunar-reconnaissance-orbiter-views-im-2-on-moons-surface/" >🔗</a> **[NASA]** NASA’s Lunar Reconnaissance Orbiter Views IM-2 on Moon’s Surface
 - <a href="https://spacenews.com/companies-in-the-space-force-commercial-reserve-program-will-not-be-publicly-identified/" >🔗</a> **[SpaceNews]** Companies in the Space Force commercial reserve program will not be publicly identified
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/03/ACES_time_to_get_ready" >🔗</a> **[ESA]** ACES: time to get ready
 - <a href="https://europeanspaceflight.com/esa-issues-call-for-european-launcher-challenge-proposals/" >🔗</a> **[European Spaceflight]** ESA Issues Call for European Launcher Challenge Proposals
 - <a href="https://spacenews.com/hypersonics-expert-urges-increased-u-s-investment/" >🔗</a> **[SpaceNews]** Hypersonics expert urges increased U.S. investment
-- <a href="https://spacenews.com/nro-expands-spy-satellite-network-with-back-to-back-spacex-launches/" >🔗</a> **[SpaceNews]** NRO expands spy satellite network with back-to-back SpaceX launches
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250325T150125">2025-03-25 15:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250325T153436">2025-03-25 15:34:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
