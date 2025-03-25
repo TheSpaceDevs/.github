@@ -91,6 +91,9 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-gets-40-million-boost-for-commercial-space-services/" >🔗</a> **[SpaceNews]** Space Force gets $40 million boost for commercial space services
+- <a href="https://spacenews.com/maxar-launches-gps-alternative-navigation-system-for-drones/" >🔗</a> **[SpaceNews]** Maxar launches GPS-alternative navigation system for drones
+- <a href="https://spacenews.com/nasa-terminating-420-million-in-contracts/" >🔗</a> **[SpaceNews]** NASA terminating $420 million in contracts
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/03/ACES_time_to_get_ready" >🔗</a> **[ESA]** ACES: time to get ready
 - <a href="https://europeanspaceflight.com/esa-issues-call-for-european-launcher-challenge-proposals/" >🔗</a> **[European Spaceflight]** ESA Issues Call for European Launcher Challenge Proposals
 - <a href="https://spacenews.com/hypersonics-expert-urges-increased-u-s-investment/" >🔗</a> **[SpaceNews]** Hypersonics expert urges increased U.S. investment
@@ -98,9 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://science.nasa.gov/blog/sols-4488-4490-progress-through-the-ankle-breaking-terrain-west-of-texoli-butte-climbing-southward/" >🔗</a> **[NASA]** Sols 4488-4490: Progress Through the Ankle-Breaking Terrain (West of Texoli Butte, Climbing Southward)
 - <a href="https://www.nasaspaceflight.com/2025/03/launch-roundup-032425/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Alpha, Spectrum, Electron, and Falcon 9 set to fly
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/engineering-reality-lee-bingham-leads-lunar-surface-simulation-support-for-artemis-campaign/" >🔗</a> **[NASA]** Engineering Reality: Lee Bingham Leads Lunar Surface Simulation Support for Artemis Campaign
-- <a href="https://spacenews.com/esa-issues-call-for-proposals-for-european-launcher-challenge/" >🔗</a> **[SpaceNews]** ESA issues call for proposals for European Launcher Challenge
-- <a href="https://science.nasa.gov/missions/mars-science-laboratory/nasas-curiosity-rover-detects-largest-organic-molecules-found-on-mars/" >🔗</a> **[NASA]** NASA’s Curiosity Rover Detects Largest Organic Molecules Found on Mars
-- <a href="https://www.nasa.gov/image-article/like-sands-through-the-hourglass/" >🔗</a> **[NASA]** Like Sands Through the Hourglass…
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250325T113125">2025-03-25 11:31:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250325T120154">2025-03-25 12:01:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
