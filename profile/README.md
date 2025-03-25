@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/investigaciones-de-la-nasa-en-la-estacion-espacial-ayudan-a-impulsar-la-ciencia-lunar/" >🔗</a> **[NASA]** Investigaciones de la NASA en la estación espacial ayudan a impulsar la ciencia lunar
 - <a href="https://www.nasa.gov/aeronautics/new-aircraft-wing-undergoes-crucial-nasa-icing-testing/" >🔗</a> **[NASA]** New Aircraft Wing Undergoes Crucial NASA Icing Testing
 - <a href="https://www.nasa.gov/image-article/nasas-lunar-reconnaissance-orbiter-views-blue-ghost-on-moons-surface/" >🔗</a> **[NASA]** NASA’s Lunar Reconnaissance Orbiter Views Blue Ghost on Moon’s Surface
 - <a href="https://www.nasa.gov/image-article/nasas-lunar-reconnaissance-orbiter-views-im-2-on-moons-surface/" >🔗</a> **[NASA]** NASA’s Lunar Reconnaissance Orbiter Views IM-2 on Moon’s Surface
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/nasa-terminating-420-million-in-contracts/" >🔗</a> **[SpaceNews]** NASA terminating $420 million in contracts
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/03/ACES_time_to_get_ready" >🔗</a> **[ESA]** ACES: time to get ready
 - <a href="https://europeanspaceflight.com/esa-issues-call-for-european-launcher-challenge-proposals/" >🔗</a> **[European Spaceflight]** ESA Issues Call for European Launcher Challenge Proposals
-- <a href="https://spacenews.com/hypersonics-expert-urges-increased-u-s-investment/" >🔗</a> **[SpaceNews]** Hypersonics expert urges increased U.S. investment
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250325T170128">2025-03-25 17:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250325T173345">2025-03-25 17:33:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
