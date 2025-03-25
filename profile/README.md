@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/hypersonics-expert-urges-increased-u-s-investment/" >🔗</a> **[SpaceNews]** Hypersonics expert urges increased U.S. investment
 - <a href="https://spacenews.com/nro-expands-spy-satellite-network-with-back-to-back-spacex-launches/" >🔗</a> **[SpaceNews]** NRO expands spy satellite network with back-to-back SpaceX launches
 - <a href="https://science.nasa.gov/blog/sols-4488-4490-progress-through-the-ankle-breaking-terrain-west-of-texoli-butte-climbing-southward/" >🔗</a> **[NASA]** Sols 4488-4490: Progress Through the Ankle-Breaking Terrain (West of Texoli Butte, Climbing Southward)
 - <a href="https://www.nasaspaceflight.com/2025/03/launch-roundup-032425/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Alpha, Spectrum, Electron, and Falcon 9 set to fly
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasa.gov/image-article/like-sands-through-the-hourglass/" >🔗</a> **[NASA]** Like Sands Through the Hourglass…
 - <a href="https://www.nasa.gov/general/career-transition-assistance-plan-ctap-services/" >🔗</a> **[NASA]** Career Transition Assistance Plan (CTAP) Services
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-spacexs-32nd-resupply-launch-to-space-station/" >🔗</a> **[NASA]** NASA Invites Media to SpaceX’s 32nd Resupply Launch to Space Station
-- <a href="https://arstechnica.com/science/2025/03/should-we-be-concerned-about-the-loss-of-weather-balloons/" >🔗</a> **[Arstechnica]** Should we be concerned about the loss of weather balloons?
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250325T000451">2025-03-25 00:04:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250325T004548">2025-03-25 00:45:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
