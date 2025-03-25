@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/03/ACES_time_to_get_ready" >🔗</a> **[ESA]** ACES: time to get ready
 - <a href="https://europeanspaceflight.com/esa-issues-call-for-european-launcher-challenge-proposals/" >🔗</a> **[European Spaceflight]** ESA Issues Call for European Launcher Challenge Proposals
 - <a href="https://spacenews.com/hypersonics-expert-urges-increased-u-s-investment/" >🔗</a> **[SpaceNews]** Hypersonics expert urges increased U.S. investment
 - <a href="https://spacenews.com/nro-expands-spy-satellite-network-with-back-to-back-spacex-launches/" >🔗</a> **[SpaceNews]** NRO expands spy satellite network with back-to-back SpaceX launches
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/esa-issues-call-for-proposals-for-european-launcher-challenge/" >🔗</a> **[SpaceNews]** ESA issues call for proposals for European Launcher Challenge
 - <a href="https://science.nasa.gov/missions/mars-science-laboratory/nasas-curiosity-rover-detects-largest-organic-molecules-found-on-mars/" >🔗</a> **[NASA]** NASA’s Curiosity Rover Detects Largest Organic Molecules Found on Mars
 - <a href="https://www.nasa.gov/image-article/like-sands-through-the-hourglass/" >🔗</a> **[NASA]** Like Sands Through the Hourglass…
-- <a href="https://www.nasa.gov/general/career-transition-assistance-plan-ctap-services/" >🔗</a> **[NASA]** Career Transition Assistance Plan (CTAP) Services
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250325T090130">2025-03-25 09:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250325T093335">2025-03-25 09:33:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
