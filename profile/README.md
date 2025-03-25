@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/science-research/heliophysics/nasas-parker-solar-probe-team-wins-2024-collier-trophy/" >🔗</a> **[NASA]** NASA’s Parker Solar Probe Team Wins 2024 Collier Trophy
+- <a href="https://arstechnica.com/space/2025/03/momentum-seems-to-be-building-for-jared-isaacman-to-become-nasa-administrator/" >🔗</a> **[Arstechnica]** Momentum seems to be building for Jared Isaacman to become NASA administrator
 - <a href="https://www.nasa.gov/general/nasa-demonstrates-new-wildland-fire-airspace-management-system/" >🔗</a> **[NASA]** NASA Demonstrates New Wildland Fire Airspace Management System
 - <a href="https://www.nasa.gov/image-article/investigaciones-de-la-nasa-en-la-estacion-espacial-ayudan-a-impulsar-la-ciencia-lunar/" >🔗</a> **[NASA]** Investigaciones de la NASA en la estación espacial ayudan a impulsar la ciencia lunar
 - <a href="https://www.nasa.gov/aeronautics/new-aircraft-wing-undergoes-crucial-nasa-icing-testing/" >🔗</a> **[NASA]** New Aircraft Wing Undergoes Crucial NASA Icing Testing
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/companies-in-the-space-force-commercial-reserve-program-will-not-be-publicly-identified/" >🔗</a> **[SpaceNews]** Companies in the Space Force commercial reserve program will not be publicly identified
 - <a href="https://spacenews.com/space-force-gets-40-million-boost-for-commercial-space-services/" >🔗</a> **[SpaceNews]** Space Force gets $40 million boost for commercial space services
 - <a href="https://spacenews.com/maxar-launches-gps-alternative-navigation-system-for-drones/" >🔗</a> **[SpaceNews]** Maxar launches GPS-alternative navigation system for drones
-- <a href="https://spacenews.com/nasa-terminating-420-million-in-contracts/" >🔗</a> **[SpaceNews]** NASA terminating $420 million in contracts
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/03/ACES_time_to_get_ready" >🔗</a> **[ESA]** ACES: time to get ready
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250325T190120">2025-03-25 19:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250325T193103">2025-03-25 19:31:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
