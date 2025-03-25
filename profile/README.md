@@ -91,6 +91,8 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/nasas-lunar-reconnaissance-orbiter-views-blue-ghost-on-moons-surface/" >🔗</a> **[NASA]** NASA’s Lunar Reconnaissance Orbiter Views Blue Ghost on Moon’s Surface
+- <a href="https://www.nasa.gov/image-article/nasas-lunar-reconnaissance-orbiter-views-im-2-on-moons-surface/" >🔗</a> **[NASA]** NASA’s Lunar Reconnaissance Orbiter Views IM-2 on Moon’s Surface
 - <a href="https://spacenews.com/companies-in-the-space-force-commercial-reserve-program-will-not-be-publicly-identified/" >🔗</a> **[SpaceNews]** Companies in the Space Force commercial reserve program will not be publicly identified
 - <a href="https://spacenews.com/space-force-gets-40-million-boost-for-commercial-space-services/" >🔗</a> **[SpaceNews]** Space Force gets $40 million boost for commercial space services
 - <a href="https://spacenews.com/maxar-launches-gps-alternative-navigation-system-for-drones/" >🔗</a> **[SpaceNews]** Maxar launches GPS-alternative navigation system for drones
@@ -99,8 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://europeanspaceflight.com/esa-issues-call-for-european-launcher-challenge-proposals/" >🔗</a> **[European Spaceflight]** ESA Issues Call for European Launcher Challenge Proposals
 - <a href="https://spacenews.com/hypersonics-expert-urges-increased-u-s-investment/" >🔗</a> **[SpaceNews]** Hypersonics expert urges increased U.S. investment
 - <a href="https://spacenews.com/nro-expands-spy-satellite-network-with-back-to-back-spacex-launches/" >🔗</a> **[SpaceNews]** NRO expands spy satellite network with back-to-back SpaceX launches
-- <a href="https://science.nasa.gov/blog/sols-4488-4490-progress-through-the-ankle-breaking-terrain-west-of-texoli-butte-climbing-southward/" >🔗</a> **[NASA]** Sols 4488-4490: Progress Through the Ankle-Breaking Terrain (West of Texoli Butte, Climbing Southward)
-- <a href="https://www.nasaspaceflight.com/2025/03/launch-roundup-032425/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Alpha, Spectrum, Electron, and Falcon 9 set to fly
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250325T140135">2025-03-25 14:01:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250325T143540">2025-03-25 14:35:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
