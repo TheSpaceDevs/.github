@@ -24,7 +24,7 @@ The next space launch, retrieved from our
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/de.svg" />
 from *<a href="https://en.wikipedia.org/wiki/And%C3%B8ya_Space">Orbital Launch Pad</a>, Andøya Spaceport*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/no.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250325T113000">2025-03-25 11:30:00 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250326T113000">2025-03-26 11:30:00 UTC</a>.  Until
 then, this pad will have been used for 0
 out of 0 launches from this location. The launch status is currently
 *TBC* 🟨 . The mission type is
@@ -46,7 +46,7 @@ into *a Sun-Synchronous Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250325T113000">2025-03-25 11:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/no.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Spectrum | Maiden Flight&location=Andøya Spaceport&dates=20250325T113000Z%2F20250325T143000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Spectrum | Maiden Flight** from Andøya Spaceport.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250326T113000">2025-03-26 11:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/no.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Spectrum | Maiden Flight&location=Andøya Spaceport&dates=20250326T113000Z%2F20250326T143000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Spectrum | Maiden Flight** from Andøya Spaceport.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250326T133700">2025-03-26 13:37:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Firefly Alpha | FLTA006 (Message in a Booster)&location=Vandenberg SFB, CA, USA&dates=20250326T133700Z%2F20250326T151700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Firefly Alpha | FLTA006 (Message in a Booster)** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250326T153000">2025-03-26 15:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Finding Hot Wildfires Near You (OroraTech OTC-P1)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20250326T153000Z%2F20250326T160000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Finding Hot Wildfires Near You (OroraTech OTC-P1)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250326T154500">2025-03-26 15:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 3B/E | Unknown Payload&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20250326T154500Z%2F20250326T162000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 3B/E | Unknown Payload** from Xichang Satellite Launch Center, People's Republic of China.
@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/esa-issues-call-for-european-launcher-challenge-proposals/" >🔗</a> **[European Spaceflight]** ESA Issues Call for European Launcher Challenge Proposals
 - <a href="https://spacenews.com/hypersonics-expert-urges-increased-u-s-investment/" >🔗</a> **[SpaceNews]** Hypersonics expert urges increased U.S. investment
 - <a href="https://spacenews.com/nro-expands-spy-satellite-network-with-back-to-back-spacex-launches/" >🔗</a> **[SpaceNews]** NRO expands spy satellite network with back-to-back SpaceX launches
 - <a href="https://science.nasa.gov/blog/sols-4488-4490-progress-through-the-ankle-breaking-terrain-west-of-texoli-butte-climbing-southward/" >🔗</a> **[NASA]** Sols 4488-4490: Progress Through the Ankle-Breaking Terrain (West of Texoli Butte, Climbing Southward)
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://science.nasa.gov/missions/mars-science-laboratory/nasas-curiosity-rover-detects-largest-organic-molecules-found-on-mars/" >🔗</a> **[NASA]** NASA’s Curiosity Rover Detects Largest Organic Molecules Found on Mars
 - <a href="https://www.nasa.gov/image-article/like-sands-through-the-hourglass/" >🔗</a> **[NASA]** Like Sands Through the Hourglass…
 - <a href="https://www.nasa.gov/general/career-transition-assistance-plan-ctap-services/" >🔗</a> **[NASA]** Career Transition Assistance Plan (CTAP) Services
-- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-spacexs-32nd-resupply-launch-to-space-station/" >🔗</a> **[NASA]** NASA Invites Media to SpaceX’s 32nd Resupply Launch to Space Station
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250325T070134">2025-03-25 07:01:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250325T073227">2025-03-25 07:32:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
