@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/live-event-space-sustainability-and-orbital-traffic-management-a-conversation-with-aarti-holla-maini/" >🔗</a> **[SpaceNews]** Live Event: Space Sustainability and Orbital Traffic Management – A Conversation with Aarti Holla-Maini
 - <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-cloud-software-helps-companies-find-their-place-in-space/" >🔗</a> **[NASA]** NASA Cloud Software Helps Companies Find their Place in Space
 - <a href="https://www.nasa.gov/image-article/nasas-spirit-rover-gets-looked-over/" >🔗</a> **[NASA]** NASA’s Spirit Rover Gets Looked Over
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-learn-about-artemis-moon-mission-recovery/" >🔗</a> **[NASA]** NASA Invites Media to Learn About Artemis Moon Mission Recovery
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2025/03/momentum-seems-to-be-building-for-jared-isaacman-to-become-nasa-administrator/" >🔗</a> **[Arstechnica]** Momentum seems to be building for Jared Isaacman to become NASA administrator
 - <a href="https://www.nasa.gov/general/nasa-demonstrates-new-wildland-fire-airspace-management-system/" >🔗</a> **[NASA]** NASA Demonstrates New Wildland Fire Airspace Management System
 - <a href="https://www.nasa.gov/image-article/investigaciones-de-la-nasa-en-la-estacion-espacial-ayudan-a-impulsar-la-ciencia-lunar/" >🔗</a> **[NASA]** Investigaciones de la NASA en la estación espacial ayudan a impulsar la ciencia lunar
-- <a href="https://www.nasa.gov/aeronautics/new-aircraft-wing-undergoes-crucial-nasa-icing-testing/" >🔗</a> **[NASA]** New Aircraft Wing Undergoes Crucial NASA Icing Testing
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250325T220121">2025-03-25 22:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250325T223425">2025-03-25 22:34:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
