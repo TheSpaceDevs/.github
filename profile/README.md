@@ -100,7 +100,7 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/science-research/heliophysics/nasas-parker-solar-probe-team-wins-2024-collier-trophy/" >🔗</a> **[NASA]** NASA’s Parker Solar Probe Team Wins 2024 Collier Trophy
 - <a href="https://arstechnica.com/space/2025/03/momentum-seems-to-be-building-for-jared-isaacman-to-become-nasa-administrator/" >🔗</a> **[Arstechnica]** Momentum seems to be building for Jared Isaacman to become NASA administrator
 - <a href="https://www.nasa.gov/general/nasa-demonstrates-new-wildland-fire-airspace-management-system/" >🔗</a> **[NASA]** NASA Demonstrates New Wildland Fire Airspace Management System
-- <a href="https://www.nasa.gov/image-article/investigaciones-de-la-nasa-en-la-estacion-espacial-ayudan-a-impulsar-la-ciencia-lunar/" >🔗</a> **[NASA]** Investigaciones de la NASA en la estación espacial ayudan a impulsar la ciencia lunar
+- <a href="https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-new-wildland-fire-airspace-management-system/" >🔗</a> **[NASA]** NASA Demonstrates New Wildland Fire Airspace Management System
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250325T230123">2025-03-25 23:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250325T233127">2025-03-25 23:31:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
