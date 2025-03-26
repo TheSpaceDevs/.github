@@ -93,6 +93,7 @@ The company plans to expand their constellation with up to 100 satellites in tot
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/intuitive-machines-emphasizes-diversification-beyond-lunar-landers/" >🔗</a> **[SpaceNews]** Intuitive Machines emphasizes diversification beyond lunar landers
 - <a href="https://spacenews.com/white-house-nominates-autry-to-be-nasas-chief-financial-officer/" >🔗</a> **[SpaceNews]** White House nominates Autry to be NASA’s chief financial officer
 - <a href="https://science.nasa.gov/missions/webb/nasas-webb-captures-neptunes-auroras-for-first-time/" >🔗</a> **[NASA]** NASA’s Webb Captures Neptune’s Auroras For First Time
 - <a href="https://spacepolicyonline.com/news/braun-launch-risk-tolerance-key-factors-in-space-science-mission-costs/" >🔗</a> **[SpacePolicyOnline.com]** Braun: Launch, Risk Tolerance Key Factors in Space Science Mission Costs
@@ -102,7 +103,6 @@ The company plans to expand their constellation with up to 100 satellites in tot
 - <a href="https://www.nasa.gov/image-article/nasas-spirit-rover-gets-looked-over/" >🔗</a> **[NASA]** NASA’s Spirit Rover Gets Looked Over
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-learn-about-artemis-moon-mission-recovery/" >🔗</a> **[NASA]** NASA Invites Media to Learn About Artemis Moon Mission Recovery
 - <a href="https://spacenews.com/california-commits-95-million-to-purchase-of-satellite-methane-data/" >🔗</a> **[SpaceNews]** California commits $95 million  to purchase of satellite methane data
-- <a href="https://spacenews.com/spain-backs-sateliot-with-15-million-to-expand-connectivity-constellation/" >🔗</a> **[SpaceNews]** Spain backs Sateliot with $15 million to expand connectivity constellation
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ The company plans to expand their constellation with up to 100 satellites in tot
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250326T113107">2025-03-26 11:31:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250326T120146">2025-03-26 12:01:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
