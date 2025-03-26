@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-certifies-vulcan-for-national-security-launches/" >🔗</a> **[SpaceNews]** Space Force certifies Vulcan for national security launches
+- <a href="https://spacenews.com/space-force-budget-squeeze-saltzman-worries-about-keeping-pace-with-china-amid-cuts/" >🔗</a> **[SpaceNews]** Space Force budget squeeze: Saltzman worries About keeping pace with China amid cuts
 - <a href="https://spacenews.com/rocket-lab-launches-eight-ororatech-satellites/" >🔗</a> **[SpaceNews]** Rocket Lab launches eight OroraTech satellites
 - <a href="https://europeanspaceflight.com/spanish-satellite-operator-sateliot-closes-e70m-series-b/" >🔗</a> **[European Spaceflight]** Spanish satellite operator Sateliot closes €70M Series B
 - <a href="https://spaceflightnow.com/2025/03/26/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 27 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/directorates/stmd/the-skys-not-the-limit-testing-precision-landing-tech-for-future-space-missions/" >🔗</a> **[NASA]** The Sky’s Not the Limit: Testing Precision Landing Tech for Future Space Missions
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/the-skys-not-the-limit-testing-precision-landing-tech-for-future-space-missions/" >🔗</a> **[NASA]** The Sky’s Not the Limit: Testing Precision Landing Tech for Future Space Missions
 - <a href="https://science.nasa.gov/missions/webb/nasas-webb-sees-galaxy-mysteriously-clearing-fog-of-early-universe/" >🔗</a> **[NASA]** NASA’s Webb Sees Galaxy Mysteriously Clearing Fog of Early Universe
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_sees_galaxy_mysteriously_clearing_fog_of_early_Universe" >🔗</a> **[ESA]** Webb sees galaxy mysteriously clearing fog of early Universe
-- <a href="https://www.nasa.gov/centers-and-facilities/ames/nasa-starling-and-spacex-starlink-improve-space-traffic-coordination/" >🔗</a> **[NASA]** NASA Starling and SpaceX Starlink Improve Space Traffic Coordination
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250326T190131">2025-03-26 19:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250326T193110">2025-03-26 19:31:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
