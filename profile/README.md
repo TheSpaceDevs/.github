@@ -93,6 +93,7 @@ The company plans to expand their constellation with up to 100 satellites in tot
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/braun-launch-risk-tolerance-key-factors-in-space-science-mission-costs/" >🔗</a> **[SpacePolicyOnline.com]** Braun: Launch, Risk Tolerance Key Factors in Space Science Mission Costs
 - <a href="https://www.nasa.gov/news-release/nasa-statement-on-nomination-of-greg-autry-for-agency-cfo/" >🔗</a> **[NASA]** NASA Statement on Nomination of Greg Autry for Agency CFO
 - <a href="https://spacenews.com/live-event-space-sustainability-and-orbital-traffic-management-a-conversation-with-aarti-holla-maini/" >🔗</a> **[SpaceNews]** Live Event: Space Sustainability and Orbital Traffic Management – A Conversation with Aarti Holla-Maini
 - <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-cloud-software-helps-companies-find-their-place-in-space/" >🔗</a> **[NASA]** NASA Cloud Software Helps Companies Find their Place in Space
@@ -102,7 +103,6 @@ The company plans to expand their constellation with up to 100 satellites in tot
 - <a href="https://spacenews.com/spain-backs-sateliot-with-15-million-to-expand-connectivity-constellation/" >🔗</a> **[SpaceNews]** Spain backs Sateliot with $15 million to expand connectivity constellation
 - <a href="https://science.nasa.gov/science-research/heliophysics/nasas-parker-solar-probe-team-wins-2024-collier-trophy/" >🔗</a> **[NASA]** NASA’s Parker Solar Probe Team Wins 2024 Collier Trophy
 - <a href="https://arstechnica.com/space/2025/03/momentum-seems-to-be-building-for-jared-isaacman-to-become-nasa-administrator/" >🔗</a> **[Arstechnica]** Momentum seems to be building for Jared Isaacman to become NASA administrator
-- <a href="https://www.nasa.gov/general/nasa-demonstrates-new-wildland-fire-airspace-management-system/" >🔗</a> **[NASA]** NASA Demonstrates New Wildland Fire Airspace Management System
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ The company plans to expand their constellation with up to 100 satellites in tot
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250326T012836">2025-03-26 01:28:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250326T020758">2025-03-26 02:07:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
