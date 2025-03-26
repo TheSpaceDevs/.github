@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/03/at-long-last-the-space-force-has-certified-the-vulcan-rocket/" >🔗</a> **[Arstechnica]** At long last, the Space Force has certified the Vulcan rocket
 - <a href="https://spacenews.com/space-force-certifies-vulcan-for-national-security-launches/" >🔗</a> **[SpaceNews]** Space Force certifies Vulcan for national security launches
 - <a href="https://spacenews.com/space-force-budget-squeeze-saltzman-worries-about-keeping-pace-with-china-amid-cuts/" >🔗</a> **[SpaceNews]** Space Force budget squeeze: Saltzman worries About keeping pace with China amid cuts
 - <a href="https://spacenews.com/rocket-lab-launches-eight-ororatech-satellites/" >🔗</a> **[SpaceNews]** Rocket Lab launches eight OroraTech satellites
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/norman-rockwell-commemorates-gemini-program-with-grissom-and-young/" >🔗</a> **[NASA]** Norman Rockwell Commemorates Gemini Program with Grissom and Young
 - <a href="https://www.nasa.gov/directorates/stmd/the-skys-not-the-limit-testing-precision-landing-tech-for-future-space-missions/" >🔗</a> **[NASA]** The Sky’s Not the Limit: Testing Precision Landing Tech for Future Space Missions
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/the-skys-not-the-limit-testing-precision-landing-tech-for-future-space-missions/" >🔗</a> **[NASA]** The Sky’s Not the Limit: Testing Precision Landing Tech for Future Space Missions
-- <a href="https://science.nasa.gov/missions/webb/nasas-webb-sees-galaxy-mysteriously-clearing-fog-of-early-universe/" >🔗</a> **[NASA]** NASA’s Webb Sees Galaxy Mysteriously Clearing Fog of Early Universe
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250326T193110">2025-03-26 19:31:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250326T200133">2025-03-26 20:01:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
