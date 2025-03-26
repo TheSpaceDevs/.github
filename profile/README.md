@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-statement-on-nomination-of-greg-autry-for-agency-cfo/" >🔗</a> **[NASA]** NASA Statement on Nomination of Greg Autry for Agency CFO
 - <a href="https://spacenews.com/live-event-space-sustainability-and-orbital-traffic-management-a-conversation-with-aarti-holla-maini/" >🔗</a> **[SpaceNews]** Live Event: Space Sustainability and Orbital Traffic Management – A Conversation with Aarti Holla-Maini
 - <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-cloud-software-helps-companies-find-their-place-in-space/" >🔗</a> **[NASA]** NASA Cloud Software Helps Companies Find their Place in Space
 - <a href="https://www.nasa.gov/image-article/nasas-spirit-rover-gets-looked-over/" >🔗</a> **[NASA]** NASA’s Spirit Rover Gets Looked Over
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/science-research/heliophysics/nasas-parker-solar-probe-team-wins-2024-collier-trophy/" >🔗</a> **[NASA]** NASA’s Parker Solar Probe Team Wins 2024 Collier Trophy
 - <a href="https://arstechnica.com/space/2025/03/momentum-seems-to-be-building-for-jared-isaacman-to-become-nasa-administrator/" >🔗</a> **[Arstechnica]** Momentum seems to be building for Jared Isaacman to become NASA administrator
 - <a href="https://www.nasa.gov/general/nasa-demonstrates-new-wildland-fire-airspace-management-system/" >🔗</a> **[NASA]** NASA Demonstrates New Wildland Fire Airspace Management System
-- <a href="https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-new-wildland-fire-airspace-management-system/" >🔗</a> **[NASA]** NASA Demonstrates New Wildland Fire Airspace Management System
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250325T233127">2025-03-25 23:31:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250326T000441">2025-03-26 00:04:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
