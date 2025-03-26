@@ -20,40 +20,42 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Firefly Alpha | FLTA006 (Message in a Booster)**. It is scheduled to be launched by *Firefly Aerospace*
+**Electron | Finding Hot Wildfires Near You (OroraTech OTC-P1)**. It is scheduled to be launched by *Rocket Lab*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_2">Space Launch Complex 2W</a>, Vandenberg SFB, CA, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250326T133700">2025-03-26 13:37:00 UTC</a>.  Until
-then, this pad will have been used for 97
-out of 796 launches from this location. The launch status is currently
-*TBC* 🟨 . The mission type is
-*Technology* and the payload will be injected
+from *<a href="https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1">Rocket Lab Launch Complex 1B</a>, Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250326T153000">2025-03-26 15:30:00 UTC</a>.  Until
+then, this pad will have been used for 27
+out of 56 launches from this location. The launch status is currently
+*Go* 🟩 . The mission type is
+*Earth Science* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  Sixth flight of the Firefly Alpha small satellite launcher, launching the demonstration mission for Lockheed Martin's new LM400 satellite bus, which will carry a communications payload. The satellite bus is customizable to support different missions, including remote sensing, communications, imagery and radar Earth observations. It can also support different kinds of orbits and launch configurations.
+  8 satellites for a constellation of satellites developed by Orora Technologies (OroraTech) of Germany, with thermal infrared cameras that can provide 24/7 monitoring of wildfires globally, supporting better and faster wildfire response to protect forests, people, and infrastructure worldwide.
+
+The company plans to expand their constellation with up to 100 satellites in total by 2028.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Firefly_Alpha" >
+  <a href="https://en.wikipedia.org/wiki/Rocket_Lab_Electron" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=34.7556,-120.6224" >
+  <a href="https://www.google.com/maps?q=-39.262833,177.864469" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250326T133700">2025-03-26 13:37:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Firefly Alpha | FLTA006 (Message in a Booster)&location=Vandenberg SFB, CA, USA&dates=20250326T133700Z%2F20250326T151700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Firefly Alpha | FLTA006 (Message in a Booster)** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250326T153000">2025-03-26 15:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Finding Hot Wildfires Near You (OroraTech OTC-P1)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20250326T153000Z%2F20250326T160000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Finding Hot Wildfires Near You (OroraTech OTC-P1)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250326T154500">2025-03-26 15:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 3B/E | Unknown Payload&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20250326T154500Z%2F20250326T162000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 3B/E | Unknown Payload** from Xichang Satellite Launch Center, People's Republic of China.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250326T220000">2025-03-26 22:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-7&location=Vandenberg SFB, CA, USA&dates=20250326T220000Z%2F20250327T022200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-7** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250326T221140">2025-03-26 22:11:40 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-7&location=Vandenberg SFB, CA, USA&dates=20250326T221140Z%2F20250327T015610Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-7** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250327T113000">2025-03-27 11:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/no.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Spectrum | Maiden Flight&location=Andøya Spaceport&dates=20250327T113000Z%2F20250327T143000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Spectrum | Maiden Flight** from Andøya Spaceport.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250329T155700">2025-03-29 15:57:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 7A | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20250329T155700Z%2F20250329T171500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 7A | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250330T191600">2025-03-30 19:16:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-80&location=Cape Canaveral SFS, FL, USA&dates=20250330T191600Z%2F20250330T234500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-80** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250331T000000">2025-03-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/au.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Eris-1 | Maiden Flight&location=Bowen Orbital Spaceport&dates=20250331T000000Z%2F20250331T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Eris-1 | Maiden Flight** from Bowen Orbital Spaceport.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250331T000000">2025-03-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Firefly Alpha | FLTA006 (Message in a Booster)&location=Vandenberg SFB, CA, USA&dates=20250331T000000Z%2F20250331T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Firefly Alpha | FLTA006 (Message in a Booster)** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250331T000000">2025-03-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 551 | Project Kuiper (Atlas V #2)&location=Cape Canaveral SFS, FL, USA&dates=20250331T000000Z%2F20250331T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 551 | Project Kuiper (Atlas V #2)** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250331T000000">2025-03-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=HASTE | DART AE&location=Wallops Flight Facility, Virginia, USA&dates=20250331T000000Z%2F20250331T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **HASTE | DART AE** from Wallops Flight Facility, Virginia, USA.
 
@@ -106,12 +108,13 @@ into *a Low Earth Orbit
 ### Launch-related News 🚀
 
 - <a href="https://www.nasaspaceflight.com/2025/03/launch-roundup-032425/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Alpha, Spectrum, Electron, and Falcon 9 set to fly
-- <a href="https://www.nasaspaceflight.com/2025/03/launch-roundup-031025/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX, Rocket Lab, and Firefly set to launch amid busy launch manifest
+- <a href="https://spaceflightnow.com/2025/01/24/rocket-lab-orora-technologies-contract-for-responsive-launch-ahead-of-main-2025-wildfire-season/" >🔗</a> **[Spaceflight Now]** Rocket Lab, Orora Technologies contract for “responsive launch” ahead of main 2025 wildfire season
+- <a href="https://spacenews.com/rocket-lab-to-launch-ororatech-satellites/" >🔗</a> **[SpaceNews]** Rocket Lab to launch OroraTech satellites
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250326T004548">2025-03-26 00:45:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250326T012836">2025-03-26 01:28:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
