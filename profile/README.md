@@ -93,6 +93,9 @@ The company plans to expand their constellation with up to 100 satellites in tot
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/gravitics-wins-spacewerx-award-for-tactically-responsive-space-system/" >🔗</a> **[SpaceNews]** Gravitics wins SpaceWERX award for tactically responsive space system
+- <a href="https://spacenews.com/data-and-artificial-intelligence-the-fuel-behind-space-discovery/" >🔗</a> **[SpaceNews]** Data and artificial intelligence: the fuel behind space discovery
+- <a href="https://arstechnica.com/space/2025/03/firm-wins-space-force-funding-to-provide-an-aircraft-carrier-in-orbit/" >🔗</a> **[Arstechnica]** Firm wins Space Force funding to provide an “aircraft carrier” in orbit
 - <a href="https://spacenews.com/intuitive-machines-emphasizes-diversification-beyond-lunar-landers/" >🔗</a> **[SpaceNews]** Intuitive Machines emphasizes diversification beyond lunar landers
 - <a href="https://spacenews.com/white-house-nominates-autry-to-be-nasas-chief-financial-officer/" >🔗</a> **[SpaceNews]** White House nominates Autry to be NASA’s chief financial officer
 - <a href="https://science.nasa.gov/missions/webb/nasas-webb-captures-neptunes-auroras-for-first-time/" >🔗</a> **[NASA]** NASA’s Webb Captures Neptune’s Auroras For First Time
@@ -100,9 +103,6 @@ The company plans to expand their constellation with up to 100 satellites in tot
 - <a href="https://www.nasa.gov/news-release/nasa-statement-on-nomination-of-greg-autry-for-agency-cfo/" >🔗</a> **[NASA]** NASA Statement on Nomination of Greg Autry for Agency CFO
 - <a href="https://spacenews.com/live-event-space-sustainability-and-orbital-traffic-management-a-conversation-with-aarti-holla-maini/" >🔗</a> **[SpaceNews]** Live Event: Space Sustainability and Orbital Traffic Management – A Conversation with Aarti Holla-Maini
 - <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-cloud-software-helps-companies-find-their-place-in-space/" >🔗</a> **[NASA]** NASA Cloud Software Helps Companies Find their Place in Space
-- <a href="https://www.nasa.gov/image-article/nasas-spirit-rover-gets-looked-over/" >🔗</a> **[NASA]** NASA’s Spirit Rover Gets Looked Over
-- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-learn-about-artemis-moon-mission-recovery/" >🔗</a> **[NASA]** NASA Invites Media to Learn About Artemis Moon Mission Recovery
-- <a href="https://spacenews.com/california-commits-95-million-to-purchase-of-satellite-methane-data/" >🔗</a> **[SpaceNews]** California commits $95 million  to purchase of satellite methane data
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ The company plans to expand their constellation with up to 100 satellites in tot
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250326T130801">2025-03-26 13:08:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250326T133643">2025-03-26 13:36:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
