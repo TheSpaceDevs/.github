@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/ulas-vulcan-wins-certification-for-national-security-space-launches/" >🔗</a> **[SpacePolicyOnline.com]** ULA’s Vulcan Wins Certification for National Security Space Launches
+- <a href="https://www.nasa.gov/image-article/nasas-x-59-completes-cruise-control-engine-speed-hold-test/" >🔗</a> **[NASA]** NASA’s X-59 Completes ‘Cruise Control’ Engine Speed Hold Test
 - <a href="https://arstechnica.com/space/2025/03/at-long-last-the-space-force-has-certified-the-vulcan-rocket/" >🔗</a> **[Arstechnica]** At long last, the Space Force has certified the Vulcan rocket
 - <a href="https://spacenews.com/space-force-certifies-vulcan-for-national-security-launches/" >🔗</a> **[SpaceNews]** Space Force certifies Vulcan for national security launches
 - <a href="https://spacenews.com/space-force-budget-squeeze-saltzman-worries-about-keeping-pace-with-china-amid-cuts/" >🔗</a> **[SpaceNews]** Space Force budget squeeze: Saltzman worries About keeping pace with China amid cuts
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/03/26/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 27 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://www.nasa.gov/directorates/smd/how-can-i-see-the-northern-lights-we-asked-a-nasa-expert-episode-54/" >🔗</a> **[NASA]** How Can I See the Northern Lights? We Asked a NASA Expert: Episode 54
 - <a href="https://www.nasa.gov/image-article/norman-rockwell-commemorates-gemini-program-with-grissom-and-young/" >🔗</a> **[NASA]** Norman Rockwell Commemorates Gemini Program with Grissom and Young
-- <a href="https://www.nasa.gov/directorates/stmd/the-skys-not-the-limit-testing-precision-landing-tech-for-future-space-missions/" >🔗</a> **[NASA]** The Sky’s Not the Limit: Testing Precision Landing Tech for Future Space Missions
-- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/the-skys-not-the-limit-testing-precision-landing-tech-for-future-space-missions/" >🔗</a> **[NASA]** The Sky’s Not the Limit: Testing Precision Landing Tech for Future Space Missions
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250326T210119">2025-03-26 21:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250326T213132">2025-03-26 21:31:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
