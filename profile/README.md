@@ -20,33 +20,32 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 11-7**. It is scheduled to be launched by *SpaceX*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250326T221140">2025-03-26 22:11:40 UTC</a>.  Until
-then, this pad will have been used for 184
-out of 796 launches from this location. The launch status is currently
-*Go* 🟩 . The mission type is
-*Communications* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+**Spectrum | Maiden Flight**. It is scheduled to be launched by *Isar Aerospace*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/de.svg" />
+from *<a href="https://en.wikipedia.org/wiki/And%C3%B8ya_Space">Orbital Launch Pad</a>, Andøya Spaceport*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/no.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250328T113000">2025-03-28 11:30:00 UTC</a>.  Until
+then, this pad will have been used for 0
+out of 0 launches from this location. The launch status is currently
+*TBC* 🟨 . The mission type is
+*Test Flight* and the payload will be injected
+into *a Sun-Synchronous Orbit
+(SSO)*.
 <br>
 <blockquote>
-  A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  First flight of the Isar Spectrum launch vehicle.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+  <a href="None" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=34.632,-120.611" >
+  <a href="https://www.google.com/maps?q=69.1084,15.5895" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250326T221140">2025-03-26 22:11:40 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-7&location=Vandenberg SFB, CA, USA&dates=20250326T221140Z%2F20250327T015610Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-7** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250328T113000">2025-03-28 11:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/no.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Spectrum | Maiden Flight&location=Andøya Spaceport&dates=20250328T113000Z%2F20250328T143000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Spectrum | Maiden Flight** from Andøya Spaceport.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250329T155700">2025-03-29 15:57:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 7A | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20250329T155700Z%2F20250329T171500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 7A | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250330T191600">2025-03-30 19:16:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-80&location=Cape Canaveral SFS, FL, USA&dates=20250330T191600Z%2F20250330T234500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-80** from Cape Canaveral SFS, FL, USA.
@@ -56,6 +55,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250331T000000">2025-03-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=HASTE | DART AE&location=Wallops Flight Facility, Virginia, USA&dates=20250331T000000Z%2F20250331T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **HASTE | DART AE** from Wallops Flight Facility, Virginia, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250331T000000">2025-03-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Shepard | NS-31&location=Corn Ranch, Van Horn, TX, USA&dates=20250331T000000Z%2F20250331T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Shepard | NS-31** from Corn Ranch, Van Horn, TX, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250331T002300">2025-03-31 00:23:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-13&location=Vandenberg SFB, CA, USA&dates=20250331T002300Z%2F20250331T055400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-13** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250401T014700">2025-04-01 01:47:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Fram2&location=Kennedy Space Center, FL, USA&dates=20250401T014700Z%2F20250401T062620Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Fram2** from Kennedy Space Center, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-launches-new-tianlian-data-relay-satellite-to-support-human-spaceflight/" >🔗</a> **[SpaceNews]** China launches new Tianlian data relay satellite to support human spaceflight
+- <a href="https://arstechnica.com/space/2025/03/nasa-sidelines-cygnus-spacecraft-after-damage-in-transit-to-launch-site/" >🔗</a> **[Arstechnica]** NASA sidelines Cygnus spacecraft after damage in transit to launch site
 - <a href="https://spacepolicyonline.com/news/ulas-vulcan-wins-certification-for-national-security-space-launches/" >🔗</a> **[SpacePolicyOnline.com]** ULA’s Vulcan Wins Certification for National Security Space Launches
 - <a href="https://www.nasa.gov/image-article/nasas-x-59-completes-cruise-control-engine-speed-hold-test/" >🔗</a> **[NASA]** NASA’s X-59 Completes ‘Cruise Control’ Engine Speed Hold Test
 - <a href="https://arstechnica.com/space/2025/03/at-long-last-the-space-force-has-certified-the-vulcan-rocket/" >🔗</a> **[Arstechnica]** At long last, the Space Force has certified the Vulcan rocket
@@ -99,20 +101,25 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/rocket-lab-launches-eight-ororatech-satellites/" >🔗</a> **[SpaceNews]** Rocket Lab launches eight OroraTech satellites
 - <a href="https://europeanspaceflight.com/spanish-satellite-operator-sateliot-closes-e70m-series-b/" >🔗</a> **[European Spaceflight]** Spanish satellite operator Sateliot closes €70M Series B
 - <a href="https://spaceflightnow.com/2025/03/26/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 27 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
-- <a href="https://www.nasa.gov/directorates/smd/how-can-i-see-the-northern-lights-we-asked-a-nasa-expert-episode-54/" >🔗</a> **[NASA]** How Can I See the Northern Lights? We Asked a NASA Expert: Episode 54
-- <a href="https://www.nasa.gov/image-article/norman-rockwell-commemorates-gemini-program-with-grissom-and-young/" >🔗</a> **[NASA]** Norman Rockwell Commemorates Gemini Program with Grissom and Young
 
 
 ### Launch-related News 🚀
 
 - <a href="https://www.nasaspaceflight.com/2025/03/launch-roundup-032425/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Alpha, Spectrum, Electron, and Falcon 9 set to fly
-- <a href="https://www.nasaspaceflight.com/2025/03/launch-roundup-031725/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Electron, Falcon 9, and Ceres-1 launches scheduled for the week
-- <a href="https://www.nasaspaceflight.com/2025/03/launch-roundup-030425/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Starship and Ariane 6 set to launch after scrubs
+- <a href="https://www.nasaspaceflight.com/2025/03/isar-first-launch/" >🔗</a> **[NASASpaceflight]** Isar Aerospace set to make first orbital launch from continental Europe
+- <a href="https://spacenews.com/isar-aerospace-sets-date-for-first-launch-after-receiving-license/" >🔗</a> **[SpaceNews]** Isar Aerospace sets date for first launch after receiving license
+- <a href="https://europeanspaceflight.com/inaugural-isar-aerospace-spectrum-launch-set-for-late-march/" >🔗</a> **[European Spaceflight]** Inaugural Isar Aerospace Spectrum Launch Set for Late March
+- <a href="https://spacenews.com/isar-aerospace-secures-first-asian-customer-ahead-of-debut-launch/" >🔗</a> **[SpaceNews]** Isar Aerospace secures first Asian customer ahead of debut launch
+- <a href="https://europeanspaceflight.com/isar-secures-new-launch-contract-as-it-prepares-for-spectrum-debut/" >🔗</a> **[European Spaceflight]** Isar Secures New Launch Contract as it Prepares for Spectrum Debut
+- <a href="https://tlpnetwork.com/news/europe/isar-aerospace-successfully-completes-spectrum-rocket-testing-awaiting-first-launch-license" >🔗</a> **[The Launch Pad]** Isar Aerospace Successfully Completes Spectrum Rocket Testing; Awaiting First Launch License
+- <a href="https://spacenews.com/isar-aerospace-completes-testing-of-first-spectrum-rocket/" >🔗</a> **[SpaceNews]** Isar Aerospace completes testing of first Spectrum rocket
+- <a href="https://www.nasaspaceflight.com/2025/02/isar-spectrum-static-fire/" >🔗</a> **[NASASpaceflight]** Isar Aerospace completes static fires of Spectrum rocket ahead of first European launch
+- <a href="https://europeanspaceflight.com/isar-completes-final-static-fire-tests-ahead-of-inaugural-spectrum-flight/" >🔗</a> **[European Spaceflight]** Isar Completes Final Static Fire Tests Ahead of Inaugural Spectrum Flight
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250326T220120">2025-03-26 22:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250326T223403">2025-03-26 22:34:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
