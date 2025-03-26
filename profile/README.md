@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/u-s-military-prepares-to-award-new-commercial-satcom-deals/" >🔗</a> **[SpaceNews]** U.S. military prepares to award new commercial satcom deals
 - <a href="https://spacenews.com/china-launches-new-tianlian-data-relay-satellite-to-support-human-spaceflight/" >🔗</a> **[SpaceNews]** China launches new Tianlian data relay satellite to support human spaceflight
 - <a href="https://arstechnica.com/space/2025/03/nasa-sidelines-cygnus-spacecraft-after-damage-in-transit-to-launch-site/" >🔗</a> **[Arstechnica]** NASA sidelines Cygnus spacecraft after damage in transit to launch site
 - <a href="https://spacepolicyonline.com/news/ulas-vulcan-wins-certification-for-national-security-space-launches/" >🔗</a> **[SpacePolicyOnline.com]** ULA’s Vulcan Wins Certification for National Security Space Launches
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/space-force-budget-squeeze-saltzman-worries-about-keeping-pace-with-china-amid-cuts/" >🔗</a> **[SpaceNews]** Space Force budget squeeze: Saltzman worries About keeping pace with China amid cuts
 - <a href="https://spacenews.com/rocket-lab-launches-eight-ororatech-satellites/" >🔗</a> **[SpaceNews]** Rocket Lab launches eight OroraTech satellites
 - <a href="https://europeanspaceflight.com/spanish-satellite-operator-sateliot-closes-e70m-series-b/" >🔗</a> **[European Spaceflight]** Spanish satellite operator Sateliot closes €70M Series B
-- <a href="https://spaceflightnow.com/2025/03/26/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 27 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250326T230128">2025-03-26 23:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250326T233147">2025-03-26 23:31:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
