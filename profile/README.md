@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/03/26/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 27 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
+- <a href="https://www.nasa.gov/directorates/smd/how-can-i-see-the-northern-lights-we-asked-a-nasa-expert-episode-54/" >🔗</a> **[NASA]** How Can I See the Northern Lights? We Asked a NASA Expert: Episode 54
 - <a href="https://www.nasa.gov/image-article/norman-rockwell-commemorates-gemini-program-with-grissom-and-young/" >🔗</a> **[NASA]** Norman Rockwell Commemorates Gemini Program with Grissom and Young
-- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/the-skys-not-the-limit-testing-precision-landing-tech-for-future-space-missions/" >🔗</a> **[NASA]** The Sky’s Not the Limit: Testing Precision Landing Tech for Future Space Missions
 - <a href="https://www.nasa.gov/directorates/stmd/the-skys-not-the-limit-testing-precision-landing-tech-for-future-space-missions/" >🔗</a> **[NASA]** The Sky’s Not the Limit: Testing Precision Landing Tech for Future Space Missions
+- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/the-skys-not-the-limit-testing-precision-landing-tech-for-future-space-missions/" >🔗</a> **[NASA]** The Sky’s Not the Limit: Testing Precision Landing Tech for Future Space Missions
 - <a href="https://science.nasa.gov/missions/webb/nasas-webb-sees-galaxy-mysteriously-clearing-fog-of-early-universe/" >🔗</a> **[NASA]** NASA’s Webb Sees Galaxy Mysteriously Clearing Fog of Early Universe
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_sees_galaxy_mysteriously_clearing_fog_of_early_Universe" >🔗</a> **[ESA]** Webb sees galaxy mysteriously clearing fog of early Universe
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/nasa-starling-and-spacex-starlink-improve-space-traffic-coordination/" >🔗</a> **[NASA]** NASA Starling and SpaceX Starlink Improve Space Traffic Coordination
 - <a href="https://spacenews.com/critical-software-announces-strategic-investment-in-turion-space-to-strengthen-new-space-capabilities/" >🔗</a> **[SpaceNews]** Critical Software Announces Strategic Investment in Turion Space to Strengthen New Space Capabilities
 - <a href="https://science.nasa.gov/science-research/earth-science/nsta-hyperwall-schedule/" >🔗</a> **[NASA]** NSTA Hyperwall Schedule
-- <a href="https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/how-nasas-perseverance-is-helping-prepare-astronauts-for-mars/" >🔗</a> **[NASA]** How NASA’s Perseverance Is Helping Prepare Astronauts for Mars
-- <a href="https://spacenews.com/moog-ships-meteor-satellite-buses-for-national-security-space-mission/" >🔗</a> **[SpaceNews]** Moog Ships Meteor Satellite Buses for National Security Space Mission
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250326T170126">2025-03-26 17:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250326T173335">2025-03-26 17:33:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
