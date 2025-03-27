@@ -91,6 +91,8 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/miles-space-flight-tests-water-fueled-thruster/" >🔗</a> **[SpaceNews]** Miles Space flight tests water-fueled thruster
+- <a href="https://www.nasa.gov/news-release/nasa-shares-spacex-crew-11-assignments-for-space-station-mission/" >🔗</a> **[NASA]** NASA Shares SpaceX Crew-11 Assignments for Space Station Mission
 - <a href="https://www.nasa.gov/directorates/somd/meet-the-space-ops-team-anum-ashraf/" >🔗</a> **[NASA]** Meet the Space Ops Team: Anum Ashraf
 - <a href="https://spacenews.com/booz-allen-unveils-brilliant-swarms-satellite-concept-for-missile-defense/" >🔗</a> **[SpaceNews]** Booz Allen unveils ‘Brilliant Swarms’ satellite concept for missile defense
 - <a href="https://www.nasa.gov/image-article/neo-surveyor-instrument-enclosure-inside-historic-chamber-a/" >🔗</a> **[NASA]** NEO Surveyor Instrument Enclosure Inside Historic Chamber A
@@ -99,8 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasa.gov/image-article/understanding-cosmic-explosions-starburst-arrives-at-nasa-for-testing/" >🔗</a> **[NASA]** Understanding Cosmic Explosions: StarBurst Arrives at NASA for Testing
 - <a href="https://www.nasa.gov/image-article/nasas-dust-shield-successfully-repels-lunar-regolith-on-moon/" >🔗</a> **[NASA]** NASA’s Dust Shield Successfully Repels Lunar Regolith on Moon
 - <a href="https://tlpnetwork.com/news/america/blue-origin-targets-april-14th-for-star-studded-ns-31-crew-launch" >🔗</a> **[The Launch Pad]** Blue Origin Targets April 14th for Star-Studded NS-31 Crew Launch
-- <a href="https://arstechnica.com/space/2025/03/china-sets-dates-for-some-of-its-most-ambitious-planetary-missions/" >🔗</a> **[Arstechnica]** China sets dates for some of its most ambitious planetary missions
-- <a href="https://tlpnetwork.com/news/in-space/farewell-gaia-esa-powers-down-legendary-star-mapping-spacecraft" >🔗</a> **[The Launch Pad]** Farewell Gaia: ESA Powers Down Legendary Star-Mapping Spacecraft After Over a Decade of Service
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250327T210131">2025-03-27 21:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250327T213150">2025-03-27 21:31:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
