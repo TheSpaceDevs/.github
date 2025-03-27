@@ -91,16 +91,16 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/uk-must-foster-sovereign-launch-capability-experts-tell-committee/" >🔗</a> **[European Spaceflight]** UK Must Foster Sovereign Launch Capability, Experts Tell Committee
+- <a href="https://www.nasa.gov/image-article/finding-clues-in-ruins-of-ancient-dead-star-with-nasas-chandra/" >🔗</a> **[NASA]** Finding Clues in Ruins of Ancient Dead Star With NASA’s Chandra
+- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba-3/Proba-3_s_first_autonomous_formation_flight" >🔗</a> **[ESA]** Proba-3's first autonomous formation flight
+- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba-3/First_autonomous_formation_flight_of_double_satellite_Proba-3" >🔗</a> **[ESA]** First autonomous formation flight of double satellite Proba-3
 - <a href="https://spacenews.com/not-just-for-engineers-broadening-the-space-pipeline/" >🔗</a> **[SpaceNews]** Not Just for Engineers: Broadening the Space Pipeline
 - <a href="https://spacenews.com/cygnus-mission-to-iss-scrapped-after-finding-spacecraft-damage/" >🔗</a> **[SpaceNews]** Cygnus mission to ISS scrapped after finding spacecraft damage
 - <a href="https://spacenews.com/anywaves-poised-to-expand-antenna-production-in-france-and-internationally/" >🔗</a> **[SpaceNews]** Anywaves poised to expand antenna production in France and internationally
 - <a href="https://www.esa.int/Enabling_Support/Operations/Farewell_Gaia!_Spacecraft_operations_come_to_an_end" >🔗</a> **[ESA]** Farewell, Gaia! Spacecraft operations come to an end
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/03/ESA_s_Gaia_spacecraft_leaves_for_retirement_orbit" >🔗</a> **[ESA]** ESA’s Gaia spacecraft leaves for retirement orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/03/Webb_spies_a_spiral_through_a_cosmic_lens" >🔗</a> **[ESA]** Webb spies a spiral through a cosmic lens
-- <a href="https://spaceflightnow.com/2025/03/27/u-s-space-force-certifies-ulas-vulcan-rocket-to-begin-launching-national-security-missions/" >🔗</a> **[Spaceflight Now]** U.S. Space Force certifies ULA’s Vulcan rocket to begin launching national security missions
-- <a href="https://science.nasa.gov/blog/sols-4491-4492-classic-field-geology-pose/" >🔗</a> **[NASA]** Sols 4491-4492: Classic Field Geology Pose
-- <a href="https://spacenews.com/u-s-military-prepares-to-award-new-commercial-satcom-deals/" >🔗</a> **[SpaceNews]** U.S. military prepares to award new commercial satcom deals
-- <a href="https://spacenews.com/china-launches-new-tianlian-data-relay-satellite-to-support-human-spaceflight/" >🔗</a> **[SpaceNews]** China launches new Tianlian data relay satellite to support human spaceflight
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250327T150128">2025-03-27 15:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250327T153439">2025-03-27 15:34:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
