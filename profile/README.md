@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/03/Webb_spies_a_spiral_through_a_cosmic_lens" >🔗</a> **[ESA]** Webb spies a spiral through a cosmic lens
 - <a href="https://spaceflightnow.com/2025/03/27/u-s-space-force-certifies-ulas-vulcan-rocket-to-begin-launching-national-security-missions/" >🔗</a> **[Spaceflight Now]** U.S. Space Force certifies ULA’s Vulcan rocket to begin launching national security missions
 - <a href="https://science.nasa.gov/blog/sols-4491-4492-classic-field-geology-pose/" >🔗</a> **[NASA]** Sols 4491-4492: Classic Field Geology Pose
 - <a href="https://spacenews.com/u-s-military-prepares-to-award-new-commercial-satcom-deals/" >🔗</a> **[SpaceNews]** U.S. military prepares to award new commercial satcom deals
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasa.gov/image-article/nasas-x-59-completes-cruise-control-engine-speed-hold-test/" >🔗</a> **[NASA]** NASA’s X-59 Completes ‘Cruise Control’ Engine Speed Hold Test
 - <a href="https://arstechnica.com/space/2025/03/at-long-last-the-space-force-has-certified-the-vulcan-rocket/" >🔗</a> **[Arstechnica]** At long last, the Space Force has certified the Vulcan rocket
 - <a href="https://spacenews.com/space-force-certifies-vulcan-for-national-security-launches/" >🔗</a> **[SpaceNews]** Space Force certifies Vulcan for national security launches
-- <a href="https://spacenews.com/space-force-budget-squeeze-saltzman-worries-about-keeping-pace-with-china-amid-cuts/" >🔗</a> **[SpaceNews]** Space Force budget squeeze: Saltzman worries About keeping pace with China amid cuts
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250327T090131">2025-03-27 09:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250327T093355">2025-03-27 09:33:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
