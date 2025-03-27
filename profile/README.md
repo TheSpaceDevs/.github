@@ -91,6 +91,9 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/america/us-space-force-selects-rocket-lab-neutron-rocket-forn-56b-nssl-phase-3-contract" >🔗</a> **[The Launch Pad]** US Space Force Selects Rocket Lab Neutron Rocket For $5.6B NSSL Phase 3 Contract
+- <a href="https://tlpnetwork.com/news/america/crew-11-four-astronauts-set-for-long-duration-science-mission-aboard-the-iss-in-2025" >🔗</a> **[The Launch Pad]** Crew-11: Four Astronauts Set for Long-Duration Science Mission Aboard the ISS in 2025
+- <a href="https://spacenews.com/air-force-nominee-troy-meink-warns-u-s-risks-losing-edge-in-space/" >🔗</a> **[SpaceNews]** Air Force nominee Troy Meink warns U.S. risks losing edge in space
 - <a href="https://spacenews.com/senator-raises-concerns-over-air-force-possibly-shifting-satellite-contracts-to-spacex/" >🔗</a> **[SpaceNews]** Senator raises concerns over Air Force possibly shifting satellite contracts to SpaceX
 - <a href="https://tlpnetwork.com/news/america/back-to-orbit-nasa-boeing-target-late-2025-for-starliners-first-operational-mission-to-iss" >🔗</a> **[The Launch Pad]** Back to Orbit? NASA, Boeing Target Late 2025 for Starliner’s First Operational Mission To ISS
 - <a href="https://spacenews.com/miles-space-flight-tests-water-fueled-thruster/" >🔗</a> **[SpaceNews]** Miles Space flight tests water-fueled thruster
@@ -98,9 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasa.gov/directorates/somd/meet-the-space-ops-team-anum-ashraf/" >🔗</a> **[NASA]** Meet the Space Ops Team: Anum Ashraf
 - <a href="https://spacenews.com/booz-allen-unveils-brilliant-swarms-satellite-concept-for-missile-defense/" >🔗</a> **[SpaceNews]** Booz Allen unveils ‘Brilliant Swarms’ satellite concept for missile defense
 - <a href="https://www.nasa.gov/image-article/neo-surveyor-instrument-enclosure-inside-historic-chamber-a/" >🔗</a> **[NASA]** NEO Surveyor Instrument Enclosure Inside Historic Chamber A
-- <a href="https://spacenews.com/china-unveils-planetary-exploration-roadmap-targeting-habitability-and-extraterrestrial-life/" >🔗</a> **[SpaceNews]** China unveils planetary exploration roadmap targeting habitability and extraterrestrial life
-- <a href="https://spacenews.com/esa-taps-thales-alenia-space-to-build-digital-twin-for-european-agriculture/" >🔗</a> **[SpaceNews]** ESA taps Thales Alenia Space to build digital twin for European agriculture
-- <a href="https://www.nasa.gov/image-article/understanding-cosmic-explosions-starburst-arrives-at-nasa-for-testing/" >🔗</a> **[NASA]** Understanding Cosmic Explosions: StarBurst Arrives at NASA for Testing
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250327T230120">2025-03-27 23:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250327T233215">2025-03-27 23:32:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
