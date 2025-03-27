@@ -91,7 +91,9 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/anywaves-poised-to-expand-antenna-production-in-france-and-internationally/" >🔗</a> **[SpaceNews]** Anywaves poised to expand antenna production in France and internationally
 - <a href="https://www.esa.int/Enabling_Support/Operations/Farewell_Gaia!_Spacecraft_operations_come_to_an_end" >🔗</a> **[ESA]** Farewell, Gaia! Spacecraft operations come to an end
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/03/ESA_s_Gaia_spacecraft_leaves_for_retirement_orbit" >🔗</a> **[ESA]** ESA’s Gaia spacecraft leaves for retirement orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/03/Webb_spies_a_spiral_through_a_cosmic_lens" >🔗</a> **[ESA]** Webb spies a spiral through a cosmic lens
 - <a href="https://spaceflightnow.com/2025/03/27/u-s-space-force-certifies-ulas-vulcan-rocket-to-begin-launching-national-security-missions/" >🔗</a> **[Spaceflight Now]** U.S. Space Force certifies ULA’s Vulcan rocket to begin launching national security missions
 - <a href="https://science.nasa.gov/blog/sols-4491-4492-classic-field-geology-pose/" >🔗</a> **[NASA]** Sols 4491-4492: Classic Field Geology Pose
@@ -99,8 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/china-launches-new-tianlian-data-relay-satellite-to-support-human-spaceflight/" >🔗</a> **[SpaceNews]** China launches new Tianlian data relay satellite to support human spaceflight
 - <a href="https://arstechnica.com/space/2025/03/nasa-sidelines-cygnus-spacecraft-after-damage-in-transit-to-launch-site/" >🔗</a> **[Arstechnica]** NASA sidelines Cygnus spacecraft after damage in transit to launch site
 - <a href="https://spacepolicyonline.com/news/ulas-vulcan-wins-certification-for-national-security-space-launches/" >🔗</a> **[SpacePolicyOnline.com]** ULA’s Vulcan Wins Certification for National Security Space Launches
-- <a href="https://www.nasa.gov/image-article/nasas-x-59-completes-cruise-control-engine-speed-hold-test/" >🔗</a> **[NASA]** NASA’s X-59 Completes ‘Cruise Control’ Engine Speed Hold Test
-- <a href="https://arstechnica.com/space/2025/03/at-long-last-the-space-force-has-certified-the-vulcan-rocket/" >🔗</a> **[Arstechnica]** At long last, the Space Force has certified the Vulcan rocket
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250327T110128">2025-03-27 11:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250327T113113">2025-03-27 11:31:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
