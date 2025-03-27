@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/directorates/somd/meet-the-space-ops-team-anum-ashraf/" >🔗</a> **[NASA]** Meet the Space Ops Team: Anum Ashraf
 - <a href="https://spacenews.com/booz-allen-unveils-brilliant-swarms-satellite-concept-for-missile-defense/" >🔗</a> **[SpaceNews]** Booz Allen unveils ‘Brilliant Swarms’ satellite concept for missile defense
 - <a href="https://www.nasa.gov/image-article/neo-surveyor-instrument-enclosure-inside-historic-chamber-a/" >🔗</a> **[NASA]** NEO Surveyor Instrument Enclosure Inside Historic Chamber A
 - <a href="https://spacenews.com/china-unveils-planetary-exploration-roadmap-targeting-habitability-and-extraterrestrial-life/" >🔗</a> **[SpaceNews]** China unveils planetary exploration roadmap targeting habitability and extraterrestrial life
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://tlpnetwork.com/news/america/blue-origin-targets-april-14th-for-star-studded-ns-31-crew-launch" >🔗</a> **[The Launch Pad]** Blue Origin Targets April 14th for Star-Studded NS-31 Crew Launch
 - <a href="https://arstechnica.com/space/2025/03/china-sets-dates-for-some-of-its-most-ambitious-planetary-missions/" >🔗</a> **[Arstechnica]** China sets dates for some of its most ambitious planetary missions
 - <a href="https://tlpnetwork.com/news/in-space/farewell-gaia-esa-powers-down-legendary-star-mapping-spacecraft" >🔗</a> **[The Launch Pad]** Farewell Gaia: ESA Powers Down Legendary Star-Mapping Spacecraft After Over a Decade of Service
-- <a href="https://tlpnetwork.com/news/america/iss-resupply-mission-scrubbed-due-to-cygnus-damage-spacex-resupply-moved-up" >🔗</a> **[The Launch Pad]** ISS Resupply Mission Scrubbed Due To Cygnus Damage; SpaceX Resupply Moved Up
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250327T193107">2025-03-27 19:31:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250327T200127">2025-03-27 20:01:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
