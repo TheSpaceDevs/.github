@@ -24,7 +24,7 @@ The next space launch, retrieved from our
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/de.svg" />
 from *<a href="https://en.wikipedia.org/wiki/And%C3%B8ya_Space">Orbital Launch Pad</a>, Andøya Spaceport*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/no.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250328T113000">2025-03-28 11:30:00 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250329T113000">2025-03-29 11:30:00 UTC</a>.  Until
 then, this pad will have been used for 0
 out of 0 launches from this location. The launch status is currently
 *TBC* 🟨 . The mission type is
@@ -46,7 +46,7 @@ into *a Sun-Synchronous Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250328T113000">2025-03-28 11:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/no.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Spectrum | Maiden Flight&location=Andøya Spaceport&dates=20250328T113000Z%2F20250328T143000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Spectrum | Maiden Flight** from Andøya Spaceport.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250329T113000">2025-03-29 11:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/no.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Spectrum | Maiden Flight&location=Andøya Spaceport&dates=20250329T113000Z%2F20250329T143000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Spectrum | Maiden Flight** from Andøya Spaceport.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250329T155700">2025-03-29 15:57:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 7A | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20250329T155700Z%2F20250329T171500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 7A | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250330T133700">2025-03-30 13:37:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Firefly Alpha | FLTA006 (Message in a Booster)&location=Vandenberg SFB, CA, USA&dates=20250330T133700Z%2F20250330T151600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Firefly Alpha | FLTA006 (Message in a Booster)** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250330T191600">2025-03-30 19:16:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-80&location=Cape Canaveral SFS, FL, USA&dates=20250330T191600Z%2F20250330T234500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-80** from Cape Canaveral SFS, FL, USA.
@@ -91,6 +91,8 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/03/china-sets-dates-for-some-of-its-most-ambitious-planetary-missions/" >🔗</a> **[Arstechnica]** China sets dates for some of its most ambitious planetary missions
+- <a href="https://tlpnetwork.com/news/america/iss-resupply-mission-scrubbed-due-to-cygnus-damage-spacex-resupply-moved-up" >🔗</a> **[The Launch Pad]** ISS Resupply Mission Scrubbed Due To Cygnus Damage; SpaceX Resupply Moved Up
 - <a href="https://www.nasa.gov/earth/arctic-winter-sea-ice-at-record-low/" >🔗</a> **[NASA]** NASA, NSIDC Scientists Say Arctic Winter Sea Ice at Record Low
 - <a href="https://europeanspaceflight.com/uk-must-foster-sovereign-launch-capability-experts-tell-committee/" >🔗</a> **[European Spaceflight]** UK Must Foster Sovereign Launch Capability, Experts Tell Committee
 - <a href="https://www.nasa.gov/image-article/finding-clues-in-ruins-of-ancient-dead-star-with-nasas-chandra/" >🔗</a> **[NASA]** Finding Clues in Ruins of Ancient Dead Star With NASA’s Chandra
@@ -99,8 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/not-just-for-engineers-broadening-the-space-pipeline/" >🔗</a> **[SpaceNews]** Not Just for Engineers: Broadening the Space Pipeline
 - <a href="https://spacenews.com/cygnus-mission-to-iss-scrapped-after-finding-spacecraft-damage/" >🔗</a> **[SpaceNews]** Cygnus mission to ISS scrapped after finding spacecraft damage
 - <a href="https://spacenews.com/anywaves-poised-to-expand-antenna-production-in-france-and-internationally/" >🔗</a> **[SpaceNews]** Anywaves poised to expand antenna production in France and internationally
-- <a href="https://www.esa.int/Enabling_Support/Operations/Farewell_Gaia!_Spacecraft_operations_come_to_an_end" >🔗</a> **[ESA]** Farewell, Gaia! Spacecraft operations come to an end
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/03/ESA_s_Gaia_spacecraft_leaves_for_retirement_orbit" >🔗</a> **[ESA]** ESA’s Gaia spacecraft leaves for retirement orbit
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250327T170121">2025-03-27 17:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250327T173224">2025-03-27 17:32:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
