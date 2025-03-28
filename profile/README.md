@@ -91,16 +91,16 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/italys-iride-pathfinder-satellite-beams-back-first-views-of-earth/" >🔗</a> **[European Spaceflight]** Italy’s IRIDE Pathfinder Satellite Beams Back First Views of Earth
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/03/Arnaud_Prost_Sky_Sea_Space_ESA_Explores_12" >🔗</a> **[ESA]** Arnaud Prost | Sky, Sea, Space | ESA Explores #12
+- <a href="https://www.nasa.gov/image-article/nasa-employee-meets-success-at-nasa-stennis/" >🔗</a> **[NASA]** NASA Employee Meets Success at NASA Stennis
+- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_24-28_March_2025" >🔗</a> **[ESA]** Week in images: 24-28 March 2025
 - <a href="https://spacenews.com/artemis-2-0-a-model-for-really-winning-the-new-moon-race/" >🔗</a> **[SpaceNews]** Artemis 2.0: A model for really winning the new moon race
 - <a href="https://spacenews.com/chinas-megaconstellations-take-off-government-backs-commercial-space/" >🔗</a> **[SpaceNews]** China’s megaconstellations take off, government backs commercial space
 - <a href="https://spacenews.com/gao-rejects-tracss-contract-protest/" >🔗</a> **[SpaceNews]** GAO rejects TraCSS contract protest
 - <a href="https://science.nasa.gov/missions/hubble/hubble-spots-a-chance-alignment/" >🔗</a> **[NASA]** Hubble Spots a Chance Alignment
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/IRIDE_first_image_presented_at_ESA_ESRIN" >🔗</a> **[ESA]** IRIDE first image presented at ESA–ESRIN
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/03/Gaia_Rewriting_the_story_of_the_Milky_Way" >🔗</a> **[ESA]** Gaia: Rewriting the story of the Milky Way
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/03/Earth_from_Space_Waza_National_Park_Cameroon" >🔗</a> **[ESA]** Earth from Space: Waza National Park, Cameroon
-- <a href="https://spacepolicyonline.com/news/artemis-ii-on-track-but-nasa-awaits-starship-milestones-for-artemis-iii/" >🔗</a> **[SpacePolicyOnline.com]** Artemis II on Track, But NASA Awaits Starship Milestones for Artemis III
-- <a href="https://spaceflightnow.com/2025/03/28/nasa-switches-starliner-crew-to-spacex-dragon-as-testing-continues-on-troubled-boeing-capsule/" >🔗</a> **[Spaceflight Now]** NASA switches Starliner crew to SpaceX Dragon as testing continues on troubled Boeing capsule
-- <a href="https://spacenews.com/rocket-lab-stoke-space-join-national-security-space-launch-competition/" >🔗</a> **[SpaceNews]** Rocket Lab, Stoke Space join National Security Space Launch competition
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250328T150139">2025-03-28 15:01:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250328T153353">2025-03-28 15:33:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
