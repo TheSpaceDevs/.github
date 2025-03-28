@@ -55,7 +55,7 @@ into *a Sun-Synchronous Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250401T014650">2025-04-01 01:46:50 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Fram2&location=Kennedy Space Center, FL, USA&dates=20250401T014650Z%2F20250401T062620Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Fram2** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250401T035200">2025-04-01 03:52:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2D | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20250401T035200Z%2F20250401T042900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2D | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250403T020400">2025-04-03 02:04:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 6 | Unknown Payload&location=Taiyuan Satellite Launch Center, People&#x27;s Republic of China&dates=20250403T020400Z%2F20250403T023600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 6 | Unknown Payload** from Taiyuan Satellite Launch Center, People's Republic of China.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250408T054715">2025-04-08 05:47:15 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Soyuz MS-27&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20250408T054715Z%2F20250408T054715Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Soyuz MS-27** from Baikonur Cosmodrome, Republic of Kazakhstan.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250404T224200">2025-04-04 22:42:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-11&location=Vandenberg SFB, CA, USA&dates=20250404T224200Z%2F20250405T033000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-11** from Vandenberg SFB, CA, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blog/sols-4493-4494-just-looking-around/" >🔗</a> **[NASA]** Sols 4493-4494: Just Looking Around
 - <a href="https://europeanspaceflight.com/italys-iride-pathfinder-satellite-beams-back-first-views-of-earth/" >🔗</a> **[European Spaceflight]** Italy’s IRIDE Pathfinder Satellite Beams Back First Views of Earth
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/03/Arnaud_Prost_Sky_Sea_Space_ESA_Explores_12" >🔗</a> **[ESA]** Arnaud Prost | Sky, Sea, Space | ESA Explores #12
 - <a href="https://www.nasa.gov/image-article/nasa-employee-meets-success-at-nasa-stennis/" >🔗</a> **[NASA]** NASA Employee Meets Success at NASA Stennis
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/gao-rejects-tracss-contract-protest/" >🔗</a> **[SpaceNews]** GAO rejects TraCSS contract protest
 - <a href="https://science.nasa.gov/missions/hubble/hubble-spots-a-chance-alignment/" >🔗</a> **[NASA]** Hubble Spots a Chance Alignment
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/IRIDE_first_image_presented_at_ESA_ESRIN" >🔗</a> **[ESA]** IRIDE first image presented at ESA–ESRIN
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/03/Gaia_Rewriting_the_story_of_the_Milky_Way" >🔗</a> **[ESA]** Gaia: Rewriting the story of the Milky Way
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250328T160126">2025-03-28 16:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250328T163621">2025-03-28 16:36:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
