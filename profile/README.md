@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/turning-vanes-inside-the-altitude-wind-tunnel/" >🔗</a> **[NASA]** Turning Vanes inside the Altitude Wind Tunnel
 - <a href="https://science.nasa.gov/blog/sols-4493-4494-just-looking-around/" >🔗</a> **[NASA]** Sols 4493-4494: Just Looking Around
 - <a href="https://europeanspaceflight.com/italys-iride-pathfinder-satellite-beams-back-first-views-of-earth/" >🔗</a> **[European Spaceflight]** Italy’s IRIDE Pathfinder Satellite Beams Back First Views of Earth
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/03/Arnaud_Prost_Sky_Sea_Space_ESA_Explores_12" >🔗</a> **[ESA]** Arnaud Prost | Sky, Sea, Space | ESA Explores #12
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/chinas-megaconstellations-take-off-government-backs-commercial-space/" >🔗</a> **[SpaceNews]** China’s megaconstellations take off, government backs commercial space
 - <a href="https://spacenews.com/gao-rejects-tracss-contract-protest/" >🔗</a> **[SpaceNews]** GAO rejects TraCSS contract protest
 - <a href="https://science.nasa.gov/missions/hubble/hubble-spots-a-chance-alignment/" >🔗</a> **[NASA]** Hubble Spots a Chance Alignment
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/IRIDE_first_image_presented_at_ESA_ESRIN" >🔗</a> **[ESA]** IRIDE first image presented at ESA–ESRIN
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250328T170121">2025-03-28 17:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250328T173303">2025-03-28 17:33:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
