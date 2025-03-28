@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/artemis-2-0-a-model-for-really-winning-the-new-moon-race/" >🔗</a> **[SpaceNews]** Artemis 2.0: A model for really winning the new moon race
 - <a href="https://spacenews.com/chinas-megaconstellations-take-off-government-backs-commercial-space/" >🔗</a> **[SpaceNews]** China’s megaconstellations take off, government backs commercial space
 - <a href="https://spacenews.com/gao-rejects-tracss-contract-protest/" >🔗</a> **[SpaceNews]** GAO rejects TraCSS contract protest
 - <a href="https://science.nasa.gov/missions/hubble/hubble-spots-a-chance-alignment/" >🔗</a> **[NASA]** Hubble Spots a Chance Alignment
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacepolicyonline.com/news/artemis-ii-on-track-but-nasa-awaits-starship-milestones-for-artemis-iii/" >🔗</a> **[SpacePolicyOnline.com]** Artemis II on Track, But NASA Awaits Starship Milestones for Artemis III
 - <a href="https://spaceflightnow.com/2025/03/28/nasa-switches-starliner-crew-to-spacex-dragon-as-testing-continues-on-troubled-boeing-capsule/" >🔗</a> **[Spaceflight Now]** NASA switches Starliner crew to SpaceX Dragon as testing continues on troubled Boeing capsule
 - <a href="https://spacenews.com/rocket-lab-stoke-space-join-national-security-space-launch-competition/" >🔗</a> **[SpaceNews]** Rocket Lab, Stoke Space join National Security Space Launch competition
-- <a href="https://tlpnetwork.com/news/america/us-space-force-selects-stoke-space-nova-rocket-for-56b-nssl-phase-3-contract" >🔗</a> **[The Launch Pad]** US Space Force Selects Stoke Space Nova Rocket For $5.6B NSSL Phase 3 Contract
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250328T130703">2025-03-28 13:07:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250328T133528">2025-03-28 13:35:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
