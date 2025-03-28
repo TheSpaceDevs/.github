@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/webinar-competing-with-the-spacex-factor/" >🔗</a> **[SpaceNews]** Webinar: Competing with the (Space)X Factor
 - <a href="https://arstechnica.com/space/2025/03/nasa-to-put-starliners-thrusters-through-an-extensive-workout-before-next-launch/" >🔗</a> **[Arstechnica]** NASA to put Starliner’s thrusters through an extensive workout before next launch
 - <a href="https://science.nasa.gov/blog/visiting-mars-on-the-way-to-the-outer-solar-system/" >🔗</a> **[NASA]** Visiting Mars on the Way to the Outer Solar System
 - <a href="https://www.nasaspaceflight.com/2025/03/spacex-continues-progress-on-next-generation-facilities/" >🔗</a> **[NASASpaceflight]** SpaceX Continues Progress on Next Generation Facilities
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/03/Arnaud_Prost_Sky_Sea_Space_ESA_Explores_12" >🔗</a> **[ESA]** Arnaud Prost | Sky, Sea, Space | ESA Explores #12
 - <a href="https://www.nasa.gov/image-article/nasa-employee-meets-success-at-nasa-stennis/" >🔗</a> **[NASA]** NASA Employee Meets Success at NASA Stennis
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_24-28_March_2025" >🔗</a> **[ESA]** Week in images: 24-28 March 2025
-- <a href="https://spacenews.com/artemis-2-0-a-model-for-really-winning-the-new-moon-race/" >🔗</a> **[SpaceNews]** Artemis 2.0: A model for really winning the new moon race
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250328T200128">2025-03-28 20:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250328T203341">2025-03-28 20:33:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
