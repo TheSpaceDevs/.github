@@ -91,16 +91,16 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-awards-launch-services-contract-for-spacex-starship/" >🔗</a> **[NASA]** NASA Awards Launch Services Contract for SpaceX Starship
+- <a href="https://spacenews.com/geopolitical-shifts-boost-lightspeed-as-starlink-eats-into-telesats-geo-business/" >🔗</a> **[SpaceNews]** Geopolitical shifts boost Lightspeed as Starlink eats into Telesat’s GEO business
+- <a href="https://www.nasa.gov/image-article/nasa-boosts-efficiency-with-custom-x-66-flooring/" >🔗</a> **[NASA]** NASA Boosts Efficiency with Custom X-66 Flooring
+- <a href="https://spaceflightnow.com/2025/03/28/fram2-astronauts-arrive-in-florida-ahead-of-polar-spaceflight/" >🔗</a> **[Spaceflight Now]** Fram2 astronauts arrive in Florida ahead of polar spaceflight
 - <a href="https://spacenews.com/webinar-competing-with-the-spacex-factor/" >🔗</a> **[SpaceNews]** Webinar: Competing with the (Space)X Factor
 - <a href="https://arstechnica.com/space/2025/03/nasa-to-put-starliners-thrusters-through-an-extensive-workout-before-next-launch/" >🔗</a> **[Arstechnica]** NASA to put Starliner’s thrusters through an extensive workout before next launch
 - <a href="https://science.nasa.gov/blog/visiting-mars-on-the-way-to-the-outer-solar-system/" >🔗</a> **[NASA]** Visiting Mars on the Way to the Outer Solar System
 - <a href="https://www.nasaspaceflight.com/2025/03/spacex-continues-progress-on-next-generation-facilities/" >🔗</a> **[NASASpaceflight]** SpaceX Continues Progress on Next Generation Facilities
 - <a href="https://www.nasa.gov/image-article/turning-vanes-inside-the-altitude-wind-tunnel/" >🔗</a> **[NASA]** Turning Vanes inside the Altitude Wind Tunnel
 - <a href="https://science.nasa.gov/blog/sols-4493-4494-just-looking-around/" >🔗</a> **[NASA]** Sols 4493-4494: Just Looking Around
-- <a href="https://europeanspaceflight.com/italys-iride-pathfinder-satellite-beams-back-first-views-of-earth/" >🔗</a> **[European Spaceflight]** Italy’s IRIDE Pathfinder Satellite Beams Back First Views of Earth
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/03/Arnaud_Prost_Sky_Sea_Space_ESA_Explores_12" >🔗</a> **[ESA]** Arnaud Prost | Sky, Sea, Space | ESA Explores #12
-- <a href="https://www.nasa.gov/image-article/nasa-employee-meets-success-at-nasa-stennis/" >🔗</a> **[NASA]** NASA Employee Meets Success at NASA Stennis
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_24-28_March_2025" >🔗</a> **[ESA]** Week in images: 24-28 March 2025
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250328T210123">2025-03-28 21:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250328T213117">2025-03-28 21:31:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
