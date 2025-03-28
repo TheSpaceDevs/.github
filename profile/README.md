@@ -91,6 +91,9 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/03/nasa-to-put-starliners-thrusters-through-an-extensive-workout-before-next-launch/" >🔗</a> **[Arstechnica]** NASA to put Starliner’s thrusters through an extensive workout before next launch
+- <a href="https://science.nasa.gov/blog/visiting-mars-on-the-way-to-the-outer-solar-system/" >🔗</a> **[NASA]** Visiting Mars on the Way to the Outer Solar System
+- <a href="https://www.nasaspaceflight.com/2025/03/spacex-continues-progress-on-next-generation-facilities/" >🔗</a> **[NASASpaceflight]** SpaceX Continues Progress on Next Generation Facilities
 - <a href="https://www.nasa.gov/image-article/turning-vanes-inside-the-altitude-wind-tunnel/" >🔗</a> **[NASA]** Turning Vanes inside the Altitude Wind Tunnel
 - <a href="https://science.nasa.gov/blog/sols-4493-4494-just-looking-around/" >🔗</a> **[NASA]** Sols 4493-4494: Just Looking Around
 - <a href="https://europeanspaceflight.com/italys-iride-pathfinder-satellite-beams-back-first-views-of-earth/" >🔗</a> **[European Spaceflight]** Italy’s IRIDE Pathfinder Satellite Beams Back First Views of Earth
@@ -98,9 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasa.gov/image-article/nasa-employee-meets-success-at-nasa-stennis/" >🔗</a> **[NASA]** NASA Employee Meets Success at NASA Stennis
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_24-28_March_2025" >🔗</a> **[ESA]** Week in images: 24-28 March 2025
 - <a href="https://spacenews.com/artemis-2-0-a-model-for-really-winning-the-new-moon-race/" >🔗</a> **[SpaceNews]** Artemis 2.0: A model for really winning the new moon race
-- <a href="https://spacenews.com/chinas-megaconstellations-take-off-government-backs-commercial-space/" >🔗</a> **[SpaceNews]** China’s megaconstellations take off, government backs commercial space
-- <a href="https://spacenews.com/gao-rejects-tracss-contract-protest/" >🔗</a> **[SpaceNews]** GAO rejects TraCSS contract protest
-- <a href="https://science.nasa.gov/missions/hubble/hubble-spots-a-chance-alignment/" >🔗</a> **[NASA]** Hubble Spots a Chance Alignment
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250328T190114">2025-03-28 19:01:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250328T193105">2025-03-28 19:31:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
