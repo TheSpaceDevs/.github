@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/IRIDE_first_image_presented_at_ESA_ESRIN" >🔗</a> **[ESA]** IRIDE first image presented at ESA–ESRIN
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/03/Gaia_Rewriting_the_story_of_the_Milky_Way" >🔗</a> **[ESA]** Gaia: Rewriting the story of the Milky Way
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/03/Earth_from_Space_Waza_National_Park_Cameroon" >🔗</a> **[ESA]** Earth from Space: Waza National Park, Cameroon
 - <a href="https://spacepolicyonline.com/news/artemis-ii-on-track-but-nasa-awaits-starship-milestones-for-artemis-iii/" >🔗</a> **[SpacePolicyOnline.com]** Artemis II on Track, But NASA Awaits Starship Milestones for Artemis III
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://tlpnetwork.com/news/america/us-space-force-selects-rocket-lab-neutron-rocket-forn-56b-nssl-phase-3-contract" >🔗</a> **[The Launch Pad]** US Space Force Selects Rocket Lab Neutron Rocket For $5.6B NSSL Phase 3 Contract
 - <a href="https://tlpnetwork.com/news/america/crew-11-four-astronauts-set-for-long-duration-science-mission-aboard-the-iss-in-2025" >🔗</a> **[The Launch Pad]** Crew-11: Four Astronauts Set for Long-Duration Science Mission Aboard the ISS in 2025
 - <a href="https://spacenews.com/air-force-nominee-troy-meink-warns-u-s-risks-losing-edge-in-space/" >🔗</a> **[SpaceNews]** Air Force nominee Troy Meink warns U.S. risks losing edge in space
-- <a href="https://spacenews.com/senator-raises-concerns-over-air-force-possibly-shifting-satellite-contracts-to-spacex/" >🔗</a> **[SpaceNews]** Senator raises concerns over Air Force possibly shifting satellite contracts to SpaceX
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250328T110120">2025-03-28 11:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250328T113100">2025-03-28 11:31:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
