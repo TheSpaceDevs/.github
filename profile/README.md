@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-launches-classified-tjs-16-spacecraft-companion-object-emerges-alongside-earlier-tjs-15-satellite/" >🔗</a> **[SpaceNews]** China launches classified TJS-16 spacecraft, companion object emerges alongside earlier TJS-15 satellite
 - <a href="https://spacenews.com/airbus-wins-contract-for-exomars-lander-platform/" >🔗</a> **[SpaceNews]** Airbus wins contract for ExoMars lander platform
 - <a href="https://www.nasa.gov/news-release/nasa-awards-launch-services-contract-for-spacex-starship/" >🔗</a> **[NASA]** NASA Awards Launch Services Contract for SpaceX Starship
 - <a href="https://spacenews.com/geopolitical-shifts-boost-lightspeed-as-starlink-eats-into-telesats-geo-business/" >🔗</a> **[SpaceNews]** Geopolitical shifts boost Lightspeed as Starlink eats into Telesat’s GEO business
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://arstechnica.com/space/2025/03/nasa-to-put-starliners-thrusters-through-an-extensive-workout-before-next-launch/" >🔗</a> **[Arstechnica]** NASA to put Starliner’s thrusters through an extensive workout before next launch
 - <a href="https://science.nasa.gov/blog/visiting-mars-on-the-way-to-the-outer-solar-system/" >🔗</a> **[NASA]** Visiting Mars on the Way to the Outer Solar System
 - <a href="https://www.nasaspaceflight.com/2025/03/spacex-continues-progress-on-next-generation-facilities/" >🔗</a> **[NASASpaceflight]** SpaceX Continues Progress on Next Generation Facilities
-- <a href="https://www.nasa.gov/image-article/turning-vanes-inside-the-altitude-wind-tunnel/" >🔗</a> **[NASA]** Turning Vanes inside the Altitude Wind Tunnel
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250329T210119">2025-03-29 21:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250329T213100">2025-03-29 21:31:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
