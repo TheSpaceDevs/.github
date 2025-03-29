@@ -20,27 +20,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Long March 7A | Unknown Payload**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Wenchang_Spacecraft_Launch_Site">201</a>, Wenchang Space Launch Site, People's Republic of China*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250329T155700">2025-03-29 15:57:00 UTC</a>.  Until
-then, this pad will have been used for 21
-out of 36 launches from this location. The launch status is currently
-*Go* 🟩 . The mission type is
-*Unknown* and the payload will be injected
-into *an Unknown
-(N/A)*.
+**Spectrum | Maiden Flight**. It is scheduled to be launched by *Isar Aerospace*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/de.svg" />
+from *<a href="https://en.wikipedia.org/wiki/And%C3%B8ya_Space">Orbital Launch Pad</a>, Andøya Spaceport*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/no.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250330T103000">2025-03-30 10:30:00 UTC</a>.  Until
+then, this pad will have been used for 0
+out of 0 launches from this location. The launch status is currently
+*TBC* 🟨 . The mission type is
+*Test Flight* and the payload will be injected
+into *a Sun-Synchronous Orbit
+(SSO)*.
 <br>
 <blockquote>
-  Details TBD.
+  First flight of the Isar Spectrum launch vehicle.
 </blockquote>
 
 <p float="left" align="center">
   <a href="None" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=19.618452,110.955356" >
+  <a href="https://www.google.com/maps?q=69.1084,15.5895" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -55,6 +55,7 @@ into *an Unknown
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250403T020400">2025-04-03 02:04:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 6 | Unknown Payload&location=Taiyuan Satellite Launch Center, People&#x27;s Republic of China&dates=20250403T020400Z%2F20250403T023600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 6 | Unknown Payload** from Taiyuan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250404T224200">2025-04-04 22:42:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-11&location=Vandenberg SFB, CA, USA&dates=20250404T224200Z%2F20250405T031300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-11** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250406T024000">2025-04-06 02:40:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-72&location=Cape Canaveral SFS, FL, USA&dates=20250406T024000Z%2F20250406T071100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-72** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250408T054715">2025-04-08 05:47:15 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Soyuz MS-27&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20250408T054715Z%2F20250408T054715Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Soyuz MS-27** from Baikonur Cosmodrome, Republic of Kazakhstan.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -104,11 +105,21 @@ into *an Unknown
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2025/03/launch-roundup-032425/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Alpha, Spectrum, Electron, and Falcon 9 set to fly
+- <a href="https://www.nasaspaceflight.com/2025/03/isar-first-launch/" >🔗</a> **[NASASpaceflight]** Isar Aerospace set to make first orbital launch from continental Europe
+- <a href="https://spacenews.com/isar-aerospace-sets-date-for-first-launch-after-receiving-license/" >🔗</a> **[SpaceNews]** Isar Aerospace sets date for first launch after receiving license
+- <a href="https://europeanspaceflight.com/inaugural-isar-aerospace-spectrum-launch-set-for-late-march/" >🔗</a> **[European Spaceflight]** Inaugural Isar Aerospace Spectrum Launch Set for Late March
+- <a href="https://spacenews.com/isar-aerospace-secures-first-asian-customer-ahead-of-debut-launch/" >🔗</a> **[SpaceNews]** Isar Aerospace secures first Asian customer ahead of debut launch
+- <a href="https://europeanspaceflight.com/isar-secures-new-launch-contract-as-it-prepares-for-spectrum-debut/" >🔗</a> **[European Spaceflight]** Isar Secures New Launch Contract as it Prepares for Spectrum Debut
+- <a href="https://tlpnetwork.com/news/europe/isar-aerospace-successfully-completes-spectrum-rocket-testing-awaiting-first-launch-license" >🔗</a> **[The Launch Pad]** Isar Aerospace Successfully Completes Spectrum Rocket Testing; Awaiting First Launch License
+- <a href="https://spacenews.com/isar-aerospace-completes-testing-of-first-spectrum-rocket/" >🔗</a> **[SpaceNews]** Isar Aerospace completes testing of first Spectrum rocket
+- <a href="https://www.nasaspaceflight.com/2025/02/isar-spectrum-static-fire/" >🔗</a> **[NASASpaceflight]** Isar Aerospace completes static fires of Spectrum rocket ahead of first European launch
+- <a href="https://europeanspaceflight.com/isar-completes-final-static-fire-tests-ahead-of-inaugural-spectrum-flight/" >🔗</a> **[European Spaceflight]** Isar Completes Final Static Fire Tests Ahead of Inaugural Spectrum Flight
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250329T160125">2025-03-29 16:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250329T163552">2025-03-29 16:35:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
