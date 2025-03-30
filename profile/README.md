@@ -92,6 +92,7 @@ into *a Sun-Synchronous Orbit
 
 ### Latest News ⌛
 - <a href="https://spaceflightnow.com/2025/03/29/live-coverage-spacex-to-launch-28-starlink-v2-mini-satellites-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink V2 Mini satellites on Falcon 9 rocket from Cape Canaveral
+- <a href="https://www.nasaspaceflight.com/2025/03/china-roundup-032925/" >🔗</a> **[NASASpaceflight]** China Roundup: Third successful EVA and deep-space ambitions as China’s space economy surges
 - <a href="https://spacenews.com/china-launches-classified-tjs-16-spacecraft-companion-object-emerges-alongside-earlier-tjs-15-satellite/" >🔗</a> **[SpaceNews]** China launches classified TJS-16 spacecraft, companion object emerges alongside earlier TJS-15 satellite
 - <a href="https://spacenews.com/airbus-wins-contract-for-exomars-lander-platform/" >🔗</a> **[SpaceNews]** Airbus wins contract for ExoMars lander platform
 - <a href="https://www.nasa.gov/news-release/nasa-awards-launch-services-contract-for-spacex-starship/" >🔗</a> **[NASA]** NASA Awards Launch Services Contract for SpaceX Starship
@@ -100,7 +101,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spaceflightnow.com/2025/03/28/fram2-astronauts-arrive-in-florida-ahead-of-polar-spaceflight/" >🔗</a> **[Spaceflight Now]** Fram2 astronauts arrive in Florida ahead of polar spaceflight
 - <a href="https://spacenews.com/webinar-competing-with-the-spacex-factor/" >🔗</a> **[SpaceNews]** Webinar: Competing with the (Space)X Factor
 - <a href="https://arstechnica.com/space/2025/03/nasa-to-put-starliners-thrusters-through-an-extensive-workout-before-next-launch/" >🔗</a> **[Arstechnica]** NASA to put Starliner’s thrusters through an extensive workout before next launch
-- <a href="https://science.nasa.gov/blog/visiting-mars-on-the-way-to-the-outer-solar-system/" >🔗</a> **[NASA]** Visiting Mars on the Way to the Outer Solar System
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250330T000452">2025-03-30 00:04:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250330T004605">2025-03-30 00:46:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
