@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/inaugural-isar-aerospace-spectrum-flight-ends-in-failure/" >🔗</a> **[European Spaceflight]** Inaugural Isar Aerospace Spectrum Flight Ends in Failure
+- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ExoMars_Rosalind_Franklin_rover_will_have_a_European_landing_platform" >🔗</a> **[ESA]** ExoMars Rosalind Franklin rover will have a European landing platform
 - <a href="https://spaceflightnow.com/2025/03/29/live-coverage-spacex-to-launch-28-starlink-v2-mini-satellites-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink V2 Mini satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://www.nasaspaceflight.com/2025/03/china-roundup-032925/" >🔗</a> **[NASASpaceflight]** China Roundup: Third successful EVA and deep-space ambitions as China’s space economy surges
 - <a href="https://spacenews.com/china-launches-classified-tjs-16-spacecraft-companion-object-emerges-alongside-earlier-tjs-15-satellite/" >🔗</a> **[SpaceNews]** China launches classified TJS-16 spacecraft, companion object emerges alongside earlier TJS-15 satellite
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/geopolitical-shifts-boost-lightspeed-as-starlink-eats-into-telesats-geo-business/" >🔗</a> **[SpaceNews]** Geopolitical shifts boost Lightspeed as Starlink eats into Telesat’s GEO business
 - <a href="https://www.nasa.gov/image-article/nasa-boosts-efficiency-with-custom-x-66-flooring/" >🔗</a> **[NASA]** NASA Boosts Efficiency with Custom X-66 Flooring
 - <a href="https://spaceflightnow.com/2025/03/28/fram2-astronauts-arrive-in-florida-ahead-of-polar-spaceflight/" >🔗</a> **[Spaceflight Now]** Fram2 astronauts arrive in Florida ahead of polar spaceflight
-- <a href="https://spacenews.com/webinar-competing-with-the-spacex-factor/" >🔗</a> **[SpaceNews]** Webinar: Competing with the (Space)X Factor
-- <a href="https://arstechnica.com/space/2025/03/nasa-to-put-starliners-thrusters-through-an-extensive-workout-before-next-launch/" >🔗</a> **[Arstechnica]** NASA to put Starliner’s thrusters through an extensive workout before next launch
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250330T110126">2025-03-30 11:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250330T113105">2025-03-30 11:31:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
