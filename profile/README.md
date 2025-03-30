@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Boost/Spectrum_takes_flight_and_clears_the_launch_pad" >🔗</a> **[ESA]** Spectrum takes flight and clears the launch pad
 - <a href="https://spacenews.com/isar-aerospaces-first-spectrum-launch-fails/" >🔗</a> **[SpaceNews]** Isar Aerospace’s first Spectrum launch fails
 - <a href="https://europeanspaceflight.com/inaugural-isar-aerospace-spectrum-flight-ends-in-failure/" >🔗</a> **[European Spaceflight]** Inaugural Isar Aerospace Spectrum Flight Ends in Failure
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ExoMars_Rosalind_Franklin_rover_will_have_a_European_landing_platform" >🔗</a> **[ESA]** ExoMars Rosalind Franklin rover will have a European landing platform
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/airbus-wins-contract-for-exomars-lander-platform/" >🔗</a> **[SpaceNews]** Airbus wins contract for ExoMars lander platform
 - <a href="https://www.nasa.gov/news-release/nasa-awards-launch-services-contract-for-spacex-starship/" >🔗</a> **[NASA]** NASA Awards Launch Services Contract for SpaceX Starship
 - <a href="https://spacenews.com/geopolitical-shifts-boost-lightspeed-as-starlink-eats-into-telesats-geo-business/" >🔗</a> **[SpaceNews]** Geopolitical shifts boost Lightspeed as Starlink eats into Telesat’s GEO business
-- <a href="https://www.nasa.gov/image-article/nasa-boosts-efficiency-with-custom-x-66-flooring/" >🔗</a> **[NASA]** NASA Boosts Efficiency with Custom X-66 Flooring
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250330T140122">2025-03-30 14:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250330T143316">2025-03-30 14:33:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
