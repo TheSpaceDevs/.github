@@ -95,6 +95,8 @@ Chun Wang, an entrepreneur and explorer who co-founded f2pool and stakefish, ser
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/03/launch-roundup-033125/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9 to fly five missions during busy week
+- <a href="https://spacenews.com/investigation-into-failed-new-glenn-landing-completed/" >🔗</a> **[SpaceNews]** Investigation into failed New Glenn landing completed
 - <a href="https://www.nasa.gov/missions/nasa-trains-for-orion-water-recovery-ahead-of-artemis-ii-launch/" >🔗</a> **[NASA]** NASA Trains for Orion Water Recovery Ahead of Artemis II Launch
 - <a href="https://www.nasa.gov/general/vertical-lift-technology-at-nasa-ames-research-center/" >🔗</a> **[NASA]** Vertical Lift Technology at NASA Ames Research Center
 - <a href="https://science.nasa.gov/open-science/archival-data-discoveries/" >🔗</a> **[NASA]** Old Missions, New Discoveries: NASA’s Data Archives Accelerate Science
@@ -103,8 +105,6 @@ Chun Wang, an entrepreneur and explorer who co-founded f2pool and stakefish, ser
 - <a href="https://www.nasa.gov/learning-resources/career-spotlight-technologist/" >🔗</a> **[NASA]** Career Spotlight: Technologist (Ages 14-18)
 - <a href="https://www.nasa.gov/learning-resources/career-spotlight-scientist/" >🔗</a> **[NASA]** Career Spotlight: Scientist (Ages  14-18)
 - <a href="https://spacenews.com/standardization-automation-and-industrialization-are-no-longer-optional-interview-with-beyond-gravity-ceo/" >🔗</a> **[SpaceNews]** “Standardization, automation, and industrialization are no longer optional”
-- <a href="https://tlpnetwork.com/news/america/faa-completes-investigation-into-blue-origin-new-glenn-1-booster-mishap-flight-2-this-spring" >🔗</a> **[The Launch Pad]** FAA Completes Investigation Into Blue Origin’s New Glenn-1 Booster Mishap; Flight 2 This Spring
-- <a href="https://tlpnetwork.com/news/america/faa-completes-investigation-into-spacex-starship-flight-7-mishap" >🔗</a> **[The Launch Pad]** FAA Completes Investigation Into SpaceX Starship Flight 7 Mishap
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ Chun Wang, an entrepreneur and explorer who co-founded f2pool and stakefish, ser
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250331T220124">2025-03-31 22:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250331T223431">2025-03-31 22:34:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
