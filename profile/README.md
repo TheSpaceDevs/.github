@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/america/faa-completes-investigation-into-blue-origin-new-glenn-1-booster-mishap-flight-2-this-spring" >🔗</a> **[The Launch Pad]** FAA Completes Investigation Into Blue Origin’s New Glenn-1 Booster Mishap; Flight 2 This Spring
+- <a href="https://tlpnetwork.com/news/america/faa-completes-investigation-into-spacex-starship-flight-7-mishap" >🔗</a> **[The Launch Pad]** FAA Completes Investigation Into SpaceX Starship Flight 7 Mishap
+- <a href="https://science.nasa.gov/missions/hubble/20-year-hubble-study-of-uranus-yields-new-atmospheric-insights/" >🔗</a> **[NASA]** 20-Year Hubble Study of Uranus Yields New Atmospheric Insights
+- <a href="https://www.nasa.gov/centers-and-facilities/jpl/university-high-triumphs-at-jpl-hosted-ocean-sciences-bowl/" >🔗</a> **[NASA]** University High Triumphs at JPL-Hosted Ocean Sciences Bowl
+- <a href="https://arstechnica.com/space/2025/03/four-different-rockets-three-landers-and-two-decades-will-exomars-ever-launch/" >🔗</a> **[Arstechnica]** Four different rockets, three landers, and two decades: Will ExoMars ever launch?
+- <a href="https://www.nasa.gov/image-article/el-x-59-de-la-nasa-completa-la-prueba-de-control-de-crucero-mantenimiento-automatico-de-velocidad-del-motor/" >🔗</a> **[NASA]** El X-59 de la NASA completa la prueba de ‘control de crucero’ mantenimiento automático de velocidad del motor
 - <a href="https://www.nasaspaceflight.com/2025/03/fram2-launch/" >🔗</a> **[NASASpaceflight]** SpaceX to launch Fram2 crewed mission to historic polar orbit
 - <a href="https://spacenews.com/space-force-to-test-satellite-refueling-technologies-in-orbit/" >🔗</a> **[SpaceNews]** Space Force to test satellite refueling technologies in orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/03/Biomass_cleared_for_fuelling" >🔗</a> **[ESA]** Biomass cleared for fuelling
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/she-speaks-for-the-samples-meet-dr-juliane-gross-artemis-campaign-sample-curation-lead/" >🔗</a> **[NASA]** She Speaks for the Samples: Meet Dr. Juliane Gross, Artemis Campaign Sample Curation Lead
-- <a href="https://science.nasa.gov/missions/hubble/nasa-awards-astrophysics-postdoctoral-fellowships-for-2025/" >🔗</a> **[NASA]** NASA Awards Astrophysics Postdoctoral Fellowships for 2025
-- <a href="https://spacenews.com/nelson-concerned-about-nasa-layoffs-and-other-changes/" >🔗</a> **[SpaceNews]** Nelson concerned about NASA layoffs and other changes
-- <a href="https://spacenews.com/nasa-adds-starship-to-launch-contract/" >🔗</a> **[SpaceNews]** NASA adds Starship to launch contract
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/Arctic_Weather_Satellite/ESA_s_Arctic_Weather_Satellite_hailed_as_excellent" >🔗</a> **[ESA]** ESA’s Arctic Weather Satellite hailed as excellent
-- <a href="https://spacenews.com/chinese-bluetooth-satellite-startup-raises-early-funding/" >🔗</a> **[SpaceNews]** Chinese Bluetooth satellite startup raises early funding
-- <a href="https://europeanspaceflight.com/airbus-awarded-150m-contract-for-exomars-lander-platform/" >🔗</a> **[European Spaceflight]** Airbus Awarded £150M Contract for ExoMars Lander Platform
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250331T170125">2025-03-31 17:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250331T173324">2025-03-31 17:33:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
