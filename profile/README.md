@@ -24,7 +24,7 @@ The next space launch, retrieved from our
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
 from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral SFS, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250331T185000">2025-03-31 18:50:00 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250331T195250">2025-03-31 19:52:50 UTC</a>.  Until
 then, this pad will have been used for 297
 out of 1012 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
@@ -46,7 +46,7 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250331T185000">2025-03-31 18:50:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-80&location=Cape Canaveral SFS, FL, USA&dates=20250331T185000Z%2F20250331T232100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-80** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250331T195250">2025-03-31 19:52:50 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-80&location=Cape Canaveral SFS, FL, USA&dates=20250331T195250Z%2F20250331T215549Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-80** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250401T014650">2025-04-01 01:46:50 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Fram2&location=Kennedy Space Center, FL, USA&dates=20250401T014650Z%2F20250401T062620Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Fram2** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250401T035200">2025-04-01 03:52:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2D | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20250401T035200Z%2F20250401T042900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2D | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250401T233900">2025-04-01 23:39:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-13&location=Vandenberg SFB, CA, USA&dates=20250401T233900Z%2F20250402T041000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-13** from Vandenberg SFB, CA, USA.
@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/03/Biomass_cleared_for_fuelling" >🔗</a> **[ESA]** Biomass cleared for fuelling
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/she-speaks-for-the-samples-meet-dr-juliane-gross-artemis-campaign-sample-curation-lead/" >🔗</a> **[NASA]** She Speaks for the Samples: Meet Dr. Juliane Gross, Artemis Campaign Sample Curation Lead
 - <a href="https://science.nasa.gov/missions/hubble/nasa-awards-astrophysics-postdoctoral-fellowships-for-2025/" >🔗</a> **[NASA]** NASA Awards Astrophysics Postdoctoral Fellowships for 2025
 - <a href="https://spacenews.com/nelson-concerned-about-nasa-layoffs-and-other-changes/" >🔗</a> **[SpaceNews]** Nelson concerned about NASA layoffs and other changes
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/airbus-awarded-150m-contract-for-exomars-lander-platform/" >🔗</a> **[European Spaceflight]** Airbus Awarded £150M Contract for ExoMars Lander Platform
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-march-30-april-5-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy March 30-April 5, 2025
 - <a href="https://tlpnetwork.com/news/europe/esa-taps-airbus-to-replace-russian-landing-platform-for-exomars-mission" >🔗</a> **[The Launch Pad]** ESA Taps Airbus to Replace Russian Landing Platform for ExoMars Mission
-- <a href="https://tlpnetwork.com/news/asia/china-announces-deep-space-mission-plans-to-seek-life-beyond-earth" >🔗</a> **[The Launch Pad]** China Announces Deep Space Mission Plans to Seek Life Beyond Earth
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250331T150122">2025-03-31 15:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250331T153402">2025-03-31 15:34:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
