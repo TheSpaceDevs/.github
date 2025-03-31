@@ -95,6 +95,8 @@ Chun Wang, an entrepreneur and explorer who co-founded f2pool and stakefish, ser
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/03/31/meet-the-fram2-crew-a-crypto-entrepreneur-a-cinematographer-a-robotics-engineer-and-an-arctic-explorer/" >🔗</a> **[Spaceflight Now]** Meet the Fram2 crew: A cryptocurrency entrepreneur, a cinematographer, a robotics engineer and an Arctic explorer
+- <a href="https://spacepolicyonline.com/news/butch-and-suni-to-meet-with-boeing-leadership-on-starliners-path-forward/" >🔗</a> **[SpacePolicyOnline.com]** Butch and Suni to Meet with Boeing Leadership on Starliner’s Path Forward
 - <a href="https://www.nasaspaceflight.com/2025/03/launch-roundup-033125/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9 to fly five missions during busy week
 - <a href="https://spacenews.com/investigation-into-failed-new-glenn-landing-completed/" >🔗</a> **[SpaceNews]** Investigation into failed New Glenn landing completed
 - <a href="https://www.nasa.gov/missions/nasa-trains-for-orion-water-recovery-ahead-of-artemis-ii-launch/" >🔗</a> **[NASA]** NASA Trains for Orion Water Recovery Ahead of Artemis II Launch
@@ -103,8 +105,6 @@ Chun Wang, an entrepreneur and explorer who co-founded f2pool and stakefish, ser
 - <a href="https://spacenews.com/gitai-finalizes-robotic-arm-study-for-japans-crewed-lunar-rover/" >🔗</a> **[SpaceNews]** GITAI finalizes robotic arm study for Japan’s crewed lunar rover
 - <a href="https://www.nasa.gov/image-article/artemis-ii-core-stage-integration-complete/" >🔗</a> **[NASA]** Artemis II Core Stage Integration – Complete!
 - <a href="https://www.nasa.gov/learning-resources/career-spotlight-technologist/" >🔗</a> **[NASA]** Career Spotlight: Technologist (Ages 14-18)
-- <a href="https://www.nasa.gov/learning-resources/career-spotlight-scientist/" >🔗</a> **[NASA]** Career Spotlight: Scientist (Ages  14-18)
-- <a href="https://spacenews.com/standardization-automation-and-industrialization-are-no-longer-optional-interview-with-beyond-gravity-ceo/" >🔗</a> **[SpaceNews]** “Standardization, automation, and industrialization are no longer optional”
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ Chun Wang, an entrepreneur and explorer who co-founded f2pool and stakefish, ser
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250331T230120">2025-03-31 23:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250331T233138">2025-03-31 23:31:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
