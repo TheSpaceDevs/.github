@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/chinese-bluetooth-satellite-startup-raises-early-funding/" >🔗</a> **[SpaceNews]** Chinese Bluetooth satellite startup raises early funding
 - <a href="https://europeanspaceflight.com/airbus-awarded-150m-contract-for-exomars-lander-platform/" >🔗</a> **[European Spaceflight]** Airbus Awarded £150M Contract for ExoMars Lander Platform
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-march-30-april-5-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy March 30-April 5, 2025
-- <a href="https://tlpnetwork.com/news/asia/china-announces-deep-space-mission-plans-to-seek-life-beyond-earth" >🔗</a> **[The Launch Pad]** China Announces Deep Space Mission Plans to Seek Life Beyond Earth
 - <a href="https://tlpnetwork.com/news/europe/esa-taps-airbus-to-replace-russian-landing-platform-for-exomars-mission" >🔗</a> **[The Launch Pad]** ESA Taps Airbus to Replace Russian Landing Platform for ExoMars Mission
+- <a href="https://tlpnetwork.com/news/asia/china-announces-deep-space-mission-plans-to-seek-life-beyond-earth" >🔗</a> **[The Launch Pad]** China Announces Deep Space Mission Plans to Seek Life Beyond Earth
 - <a href="https://tlpnetwork.com/news/america/vulcan-centaur-certified-for-national-security-missions-by-us-space-force" >🔗</a> **[The Launch Pad]** Vulcan Centaur Certified for National Security Missions by US Space Force
 - <a href="https://tlpnetwork.com/news/america/gravitics-secures-space-force-contract-to-develop-responsive-space-orbital-spacecraft-carrier" >🔗</a> **[The Launch Pad]** Gravitics Secures Space Force Contract To Develop Responsive Space Orbital Spacecraft Carrier
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Boost/Spectrum_takes_flight_and_clears_the_launch_pad" >🔗</a> **[ESA]** Spectrum takes flight and clears the launch pad
 - <a href="https://spacenews.com/isar-aerospaces-first-spectrum-launch-fails/" >🔗</a> **[SpaceNews]** Isar Aerospace’s first Spectrum launch fails
 - <a href="https://europeanspaceflight.com/inaugural-isar-aerospace-spectrum-flight-ends-in-failure/" >🔗</a> **[European Spaceflight]** Inaugural Isar Aerospace Spectrum Flight Ends in Failure
-- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ExoMars_Rosalind_Franklin_rover_will_have_a_European_landing_platform" >🔗</a> **[ESA]** ExoMars Rosalind Franklin rover will have a European landing platform
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250331T090130">2025-03-31 09:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250331T093405">2025-03-31 09:34:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
