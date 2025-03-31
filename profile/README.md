@@ -20,33 +20,36 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 6-80**. It is scheduled to be launched by *SpaceX*
+**Falcon 9 Block 5 | Fram2**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral SFS, FL, USA*
+from *<a href="https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39A">Launch Complex 39A</a>, Kennedy Space Center, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250331T195250">2025-03-31 19:52:50 UTC</a>.  Until
-then, this pad will have been used for 297
-out of 1012 launches from this location. The launch status is currently
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250401T014650">2025-04-01 01:46:50 UTC</a>.  Until
+then, this pad will have been used for 201
+out of 259 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Communications* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+*Human Exploration* and the payload will be injected
+into *a Polar Orbit
+(PO)*.
 <br>
 <blockquote>
-  A batch of 28 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  Fram2 is the world’s first astronaut mission to polar orbit. Named after the Norwegian polar research ship Fram, the Crew Dragon spacecraft will launch into a 90° circular orbit from Florida, making it the first human spaceflight to fly over Earth’s polar regions from low-Earth orbit. A cupola will be installed on the Dragon spacecraft to allow for Earth observation from at an altitude of 425 – 450 km. 
+
+During the 3-to-5-day mission, the crew will study green fragments and mauve ribbons of continuous emissions comparable to the phenomenon known as STEVE (Strong Thermal Emission Velocity Enhancement), persistently measured at an altitude of approximately 400 - 500 km above Earth’s atmosphere, among other studies. The crew will also work with SpaceX to conduct a variety of research to better understand the effects of spaceflight on the human body, which includes capturing the first human x-ray images in space, Just-in-Time training tools, and studying the effects of spaceflight on behavioural health.
+
+Chun Wang, an entrepreneur and explorer who co-founded f2pool and stakefish, serves as the mission commander. The vehicle commander will be Jannicke Mikkelsen, a film director, and cinematographer. The vehicle pilot will be Eric Philips, a professional polar adventurer and guide who has completed ski expeditions to the North and South Poles. The final crew member will be mission specialist Rabea Rogge, a robotics researcher from Berlin, currently pursuing her PhD in Norway.
 </blockquote>
 
 <p float="left" align="center">
   <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
+  <a href="https://www.google.com/maps?q=28.60822681,-80.60428186" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250331T195250">2025-03-31 19:52:50 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-80&location=Cape Canaveral SFS, FL, USA&dates=20250331T195250Z%2F20250331T215549Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-80** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250401T014650">2025-04-01 01:46:50 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Fram2&location=Kennedy Space Center, FL, USA&dates=20250401T014650Z%2F20250401T062620Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Fram2** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250401T035200">2025-04-01 03:52:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2D | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20250401T035200Z%2F20250401T042900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2D | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250401T233900">2025-04-01 23:39:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-13&location=Vandenberg SFB, CA, USA&dates=20250401T233900Z%2F20250402T033900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-13** from Vandenberg SFB, CA, USA.
@@ -56,6 +59,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250408T054715">2025-04-08 05:47:15 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Soyuz MS-27&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20250408T054715Z%2F20250408T054715Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Soyuz MS-27** from Baikonur Cosmodrome, Republic of Kazakhstan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250414T133000">2025-04-14 13:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Shepard | NS-31&location=Corn Ranch, Van Horn, TX, USA&dates=20250414T133000Z%2F20250414T133000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Shepard | NS-31** from Corn Ranch, Van Horn, TX, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250421T081500">2025-04-21 08:15:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Dragon CRS-2 SpX-32&location=Kennedy Space Center, FL, USA&dates=20250421T081500Z%2F20250421T081500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Dragon CRS-2 SpX-32** from Kennedy Space Center, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250429T091500">2025-04-29 09:15:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Vega-C | Biomass&location=Guiana Space Centre, French Guiana&dates=20250429T091500Z%2F20250429T091500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Vega-C | Biomass** from Guiana Space Centre, French Guiana.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -105,13 +109,17 @@ into *a Low Earth Orbit
 
 ### Launch-related News 🚀
 
-- <a href="https://spaceflightnow.com/2025/03/29/live-coverage-spacex-to-launch-28-starlink-v2-mini-satellites-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink V2 Mini satellites on Falcon 9 rocket from Cape Canaveral
-- <a href="https://www.nasaspaceflight.com/2025/03/launch-roundup-032425/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Alpha, Spectrum, Electron, and Falcon 9 set to fly
+- <a href="https://www.nasaspaceflight.com/2025/03/fram2-launch/" >🔗</a> **[NASASpaceflight]** SpaceX to launch Fram2 crewed mission to historic polar orbit
+- <a href="https://spaceflightnow.com/2025/03/28/fram2-astronauts-arrive-in-florida-ahead-of-polar-spaceflight/" >🔗</a> **[Spaceflight Now]** Fram2 astronauts arrive in Florida ahead of polar spaceflight
+- <a href="https://www.cnbc.com/2024/08/13/crypto-magnate-chun-wang-buys-spacex-polar-spaceflight-fram2.html" >🔗</a> **[CNBC]** Crypto magnate buys SpaceX mission for private polar spaceflight expedition
+- <a href="https://spacenews.com/crypto-entrepreneur-buys-crew-dragon-flight/" >🔗</a> **[SpaceNews]** Crypto entrepreneur buys Crew Dragon flight
+- <a href="https://spaceflightnow.com/2024/08/12/spacex-to-launch-privately-financed-international-crew-of-four-around-earths-poles/" >🔗</a> **[Spaceflight Now]** SpaceX to launch privately-financed international crew of four around Earth’s poles
+- <a href="https://arstechnica.com/space/2024/08/spacex-announces-first-human-mission-to-ever-fly-over-the-planets-poles/" >🔗</a> **[Arstechnica]** SpaceX announces first human mission to ever fly over the planet’s poles
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250331T193108">2025-03-31 19:31:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250331T200142">2025-03-31 20:01:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
