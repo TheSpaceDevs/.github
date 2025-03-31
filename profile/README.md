@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/airbus-awarded-150m-contract-for-exomars-lander-platform/" >🔗</a> **[European Spaceflight]** Airbus Awarded £150M Contract for ExoMars Lander Platform
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-march-30-april-5-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy March 30-April 5, 2025
 - <a href="https://tlpnetwork.com/news/asia/china-announces-deep-space-mission-plans-to-seek-life-beyond-earth" >🔗</a> **[The Launch Pad]** China Announces Deep Space Mission Plans to Seek Life Beyond Earth
 - <a href="https://tlpnetwork.com/news/europe/esa-taps-airbus-to-replace-russian-landing-platform-for-exomars-mission" >🔗</a> **[The Launch Pad]** ESA Taps Airbus to Replace Russian Landing Platform for ExoMars Mission
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/isar-aerospaces-first-spectrum-launch-fails/" >🔗</a> **[SpaceNews]** Isar Aerospace’s first Spectrum launch fails
 - <a href="https://europeanspaceflight.com/inaugural-isar-aerospace-spectrum-flight-ends-in-failure/" >🔗</a> **[European Spaceflight]** Inaugural Isar Aerospace Spectrum Flight Ends in Failure
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ExoMars_Rosalind_Franklin_rover_will_have_a_European_landing_platform" >🔗</a> **[ESA]** ExoMars Rosalind Franklin rover will have a European landing platform
-- <a href="https://spaceflightnow.com/2025/03/29/live-coverage-spacex-to-launch-28-starlink-v2-mini-satellites-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink V2 Mini satellites on Falcon 9 rocket from Cape Canaveral
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250331T060134">2025-03-31 06:01:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250331T063836">2025-03-31 06:38:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
