@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/03/fram2-launch/" >🔗</a> **[NASASpaceflight]** SpaceX to launch Fram2 crewed mission to historic polar orbit
+- <a href="https://spacenews.com/space-force-to-test-satellite-refueling-technologies-in-orbit/" >🔗</a> **[SpaceNews]** Space Force to test satellite refueling technologies in orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/03/Biomass_cleared_for_fuelling" >🔗</a> **[ESA]** Biomass cleared for fuelling
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/she-speaks-for-the-samples-meet-dr-juliane-gross-artemis-campaign-sample-curation-lead/" >🔗</a> **[NASA]** She Speaks for the Samples: Meet Dr. Juliane Gross, Artemis Campaign Sample Curation Lead
 - <a href="https://science.nasa.gov/missions/hubble/nasa-awards-astrophysics-postdoctoral-fellowships-for-2025/" >🔗</a> **[NASA]** NASA Awards Astrophysics Postdoctoral Fellowships for 2025
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/Arctic_Weather_Satellite/ESA_s_Arctic_Weather_Satellite_hailed_as_excellent" >🔗</a> **[ESA]** ESA’s Arctic Weather Satellite hailed as excellent
 - <a href="https://spacenews.com/chinese-bluetooth-satellite-startup-raises-early-funding/" >🔗</a> **[SpaceNews]** Chinese Bluetooth satellite startup raises early funding
 - <a href="https://europeanspaceflight.com/airbus-awarded-150m-contract-for-exomars-lander-platform/" >🔗</a> **[European Spaceflight]** Airbus Awarded £150M Contract for ExoMars Lander Platform
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-march-30-april-5-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy March 30-April 5, 2025
-- <a href="https://tlpnetwork.com/news/europe/esa-taps-airbus-to-replace-russian-landing-platform-for-exomars-mission" >🔗</a> **[The Launch Pad]** ESA Taps Airbus to Replace Russian Landing Platform for ExoMars Mission
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250331T160129">2025-03-31 16:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250331T163651">2025-03-31 16:36:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
