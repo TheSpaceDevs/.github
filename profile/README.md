@@ -95,6 +95,8 @@ Chun Wang, an entrepreneur and explorer who co-founded f2pool and stakefish, ser
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/nasa-trains-for-orion-water-recovery-ahead-of-artemis-ii-launch/" >🔗</a> **[NASA]** NASA Trains for Orion Water Recovery Ahead of Artemis II Launch
+- <a href="https://www.nasa.gov/general/vertical-lift-technology-at-nasa-ames-research-center/" >🔗</a> **[NASA]** Vertical Lift Technology at NASA Ames Research Center
 - <a href="https://science.nasa.gov/open-science/archival-data-discoveries/" >🔗</a> **[NASA]** Old Missions, New Discoveries: NASA’s Data Archives Accelerate Science
 - <a href="https://spacenews.com/gitai-finalizes-robotic-arm-study-for-japans-crewed-lunar-rover/" >🔗</a> **[SpaceNews]** GITAI finalizes robotic arm study for Japan’s crewed lunar rover
 - <a href="https://www.nasa.gov/image-article/artemis-ii-core-stage-integration-complete/" >🔗</a> **[NASA]** Artemis II Core Stage Integration – Complete!
@@ -103,8 +105,6 @@ Chun Wang, an entrepreneur and explorer who co-founded f2pool and stakefish, ser
 - <a href="https://spacenews.com/standardization-automation-and-industrialization-are-no-longer-optional-interview-with-beyond-gravity-ceo/" >🔗</a> **[SpaceNews]** “Standardization, automation, and industrialization are no longer optional”
 - <a href="https://tlpnetwork.com/news/america/faa-completes-investigation-into-blue-origin-new-glenn-1-booster-mishap-flight-2-this-spring" >🔗</a> **[The Launch Pad]** FAA Completes Investigation Into Blue Origin’s New Glenn-1 Booster Mishap; Flight 2 This Spring
 - <a href="https://tlpnetwork.com/news/america/faa-completes-investigation-into-spacex-starship-flight-7-mishap" >🔗</a> **[The Launch Pad]** FAA Completes Investigation Into SpaceX Starship Flight 7 Mishap
-- <a href="https://science.nasa.gov/missions/hubble/20-year-hubble-study-of-uranus-yields-new-atmospheric-insights/" >🔗</a> **[NASA]** 20-Year Hubble Study of Uranus Yields New Atmospheric Insights
-- <a href="https://www.nasa.gov/centers-and-facilities/jpl/university-high-triumphs-at-jpl-hosted-ocean-sciences-bowl/" >🔗</a> **[NASA]** University High Triumphs at JPL-Hosted Ocean Sciences Bowl
 
 
 ### Launch-related News 🚀
@@ -119,7 +119,7 @@ Chun Wang, an entrepreneur and explorer who co-founded f2pool and stakefish, ser
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250331T210133">2025-03-31 21:01:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250331T213158">2025-03-31 21:31:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
