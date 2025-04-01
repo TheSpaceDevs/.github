@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/04/the-harrowing-story-of-what-flying-starliner-was-like-when-its-thrusters-failed/" >🔗</a> **[Arstechnica]** The harrowing story of what flying Starliner was like when its thrusters failed
+- <a href="https://www.nasa.gov/general/nasa-receives-10-nominations-for-the-29th-annual-webby-awards/" >🔗</a> **[NASA]** NASA Receives 10 Nominations for the 29th Annual Webby Awards
+- <a href="https://www.nasa.gov/missions/spherex/nasas-spherex-takes-first-images-preps-to-study-millions-of-galaxies/" >🔗</a> **[NASA]** NASA’s SPHEREx Takes First Images, Preps to Study Millions of Galaxies
+- <a href="https://www.nasa.gov/image-article/studying-ice-for-the-future-of-flight/" >🔗</a> **[NASA]** Studying Ice for the Future of Flight
+- <a href="https://science.nasa.gov/solar-system/skywatching/whats-up-april-2025-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: April 2025 Skywatching Tips from NASA
 - <a href="https://spacenews.com/mda-space-buys-satixfy-to-boost-constellation-production/" >🔗</a> **[SpaceNews]** MDA Space buys SatixFy to boost constellation production
 - <a href="https://www.nasa.gov/history/nasa-history-news-and-notes-spring-2025/" >🔗</a> **[NASA]** NASA History News and Notes–Spring 2025
 - <a href="https://www.nasa.gov/learning-resources/ways-community-college-students-can-get-involved-with-nasa/" >🔗</a> **[NASA]** Ways Community College Students Can Get Involved With NASA
 - <a href="https://arstechnica.com/space/2025/04/tuesday-telescope-on-mars-the-rovers-take-pictures-of-robotic-arms-and-rocks/" >🔗</a> **[Arstechnica]** Tuesday Telescope: On Mars, the rovers take pictures of robotic arms and rocks
 - <a href="https://spacenews.com/china-launches-internet-technology-test-satellites-with-long-march-2d/" >🔗</a> **[SpaceNews]** China launches internet technology test satellites with Long March 2D
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/04/Space_Debris_Is_it_a_Crisis" >🔗</a> **[ESA]** Space Debris: Is it a Crisis?
-- <a href="https://www.esa.int/Space_Safety/Space_Debris/ESA_Space_Environment_Report_2025" >🔗</a> **[ESA]** ESA Space Environment Report 2025
-- <a href="https://europeanspaceflight.com/nato-contracts-iceye-to-provide-earth-observation-data/" >🔗</a> **[European Spaceflight]** NATO Contracts ICEYE to Provide Earth Observation Data
-- <a href="https://science.nasa.gov/blog/sols-4495-4497-yawn-perched-and-rollin/" >🔗</a> **[NASA]** Sols 4495-4497: Yawn, Perched, and Rollin’
-- <a href="https://science.nasa.gov/universe/exoplanets/discovery-alert-four-little-planets-one-big-step/" >🔗</a> **[NASA]** Discovery Alert: Four Little Planets, One Big Step
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250401T170126">2025-04-01 17:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250401T173347">2025-04-01 17:33:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
