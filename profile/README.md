@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/learning-resources/for-kids-and-students/who-was-alan-shepard-grades-5-8-stem/" >🔗</a> **[NASA]** Who Was Alan Shepard? (Grades 5-8)
+- <a href="https://www.nasa.gov/learning-resources/for-kids-and-students/who-was-alan-shepard-grades-5-8/" >🔗</a> **[NASA]** Who Was Alan Shepard? (Grades 5-8)
 - <a href="https://arstechnica.com/space/2025/04/the-harrowing-story-of-what-flying-starliner-was-like-when-its-thrusters-failed/" >🔗</a> **[Arstechnica]** The harrowing story of what flying Starliner was like when its thrusters failed
 - <a href="https://www.nasa.gov/general/nasa-receives-10-nominations-for-the-29th-annual-webby-awards/" >🔗</a> **[NASA]** NASA Receives 10 Nominations for the 29th Annual Webby Awards
 - <a href="https://www.nasa.gov/missions/spherex/nasas-spherex-takes-first-images-preps-to-study-millions-of-galaxies/" >🔗</a> **[NASA]** NASA’s SPHEREx Takes First Images, Preps to Study Millions of Galaxies
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/mda-space-buys-satixfy-to-boost-constellation-production/" >🔗</a> **[SpaceNews]** MDA Space buys SatixFy to boost constellation production
 - <a href="https://www.nasa.gov/history/nasa-history-news-and-notes-spring-2025/" >🔗</a> **[NASA]** NASA History News and Notes–Spring 2025
 - <a href="https://www.nasa.gov/learning-resources/ways-community-college-students-can-get-involved-with-nasa/" >🔗</a> **[NASA]** Ways Community College Students Can Get Involved With NASA
-- <a href="https://arstechnica.com/space/2025/04/tuesday-telescope-on-mars-the-rovers-take-pictures-of-robotic-arms-and-rocks/" >🔗</a> **[Arstechnica]** Tuesday Telescope: On Mars, the rovers take pictures of robotic arms and rocks
-- <a href="https://spacenews.com/china-launches-internet-technology-test-satellites-with-long-march-2d/" >🔗</a> **[SpaceNews]** China launches internet technology test satellites with Long March 2D
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250401T180127">2025-04-01 18:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250401T183800">2025-04-01 18:38:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
