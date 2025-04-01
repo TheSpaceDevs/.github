@@ -91,6 +91,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/04/01/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 27 Starlink satellites on Falcon 9 rocket from Vandenberg
+- <a href="https://spacepolicyonline.com/news/private-astronaut-crew-lifts-off-to-circle-earths-poles/" >🔗</a> **[SpacePolicyOnline.com]** Private Astronaut Crew Lifts Off To Circle Earth’s Poles
+- <a href="https://spacenews.com/spacex-launches-fram2-private-astronaut-mission/" >🔗</a> **[SpaceNews]** SpaceX launches Fram2 private astronaut mission
 - <a href="https://spaceflightnow.com/2025/03/31/live-coverage-spacex-to-launch-fram2-astronauts-to-polar-orbit-on-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Fram2 astronauts to polar orbit on Falcon 9 rocket from the Kennedy Space Center
 - <a href="https://spaceflightnow.com/2025/03/31/meet-the-fram2-crew-a-crypto-entrepreneur-a-cinematographer-a-robotics-engineer-and-an-arctic-explorer/" >🔗</a> **[Spaceflight Now]** Meet the Fram2 crew: A cryptocurrency entrepreneur, a cinematographer, a robotics engineer and an Arctic explorer
 - <a href="https://spacepolicyonline.com/news/butch-and-suni-to-meet-with-boeing-leadership-on-starliners-path-forward/" >🔗</a> **[SpacePolicyOnline.com]** Butch and Suni to Meet with Boeing Leadership on Starliner’s Path Forward
@@ -98,9 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/investigation-into-failed-new-glenn-landing-completed/" >🔗</a> **[SpaceNews]** Investigation into failed New Glenn landing completed
 - <a href="https://www.nasa.gov/missions/nasa-trains-for-orion-water-recovery-ahead-of-artemis-ii-launch/" >🔗</a> **[NASA]** NASA Trains for Orion Water Recovery Ahead of Artemis II Launch
 - <a href="https://www.nasa.gov/general/vertical-lift-technology-at-nasa-ames-research-center/" >🔗</a> **[NASA]** Vertical Lift Technology at NASA Ames Research Center
-- <a href="https://science.nasa.gov/open-science/archival-data-discoveries/" >🔗</a> **[NASA]** Old Missions, New Discoveries: NASA’s Data Archives Accelerate Science
-- <a href="https://spacenews.com/gitai-finalizes-robotic-arm-study-for-japans-crewed-lunar-rover/" >🔗</a> **[SpaceNews]** GITAI finalizes robotic arm study for Japan’s crewed lunar rover
-- <a href="https://www.nasa.gov/image-article/artemis-ii-core-stage-integration-complete/" >🔗</a> **[NASA]** Artemis II Core Stage Integration – Complete!
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250401T032639">2025-04-01 03:26:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250401T034439">2025-04-01 03:44:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
