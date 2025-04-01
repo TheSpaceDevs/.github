@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/mda-space-buys-satixfy-to-boost-constellation-production/" >🔗</a> **[SpaceNews]** MDA Space buys SatixFy to boost constellation production
 - <a href="https://www.nasa.gov/history/nasa-history-news-and-notes-spring-2025/" >🔗</a> **[NASA]** NASA History News and Notes–Spring 2025
 - <a href="https://www.nasa.gov/learning-resources/ways-community-college-students-can-get-involved-with-nasa/" >🔗</a> **[NASA]** Ways Community College Students Can Get Involved With NASA
 - <a href="https://arstechnica.com/space/2025/04/tuesday-telescope-on-mars-the-rovers-take-pictures-of-robotic-arms-and-rocks/" >🔗</a> **[Arstechnica]** Tuesday Telescope: On Mars, the rovers take pictures of robotic arms and rocks
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/nato-contracts-iceye-to-provide-earth-observation-data/" >🔗</a> **[European Spaceflight]** NATO Contracts ICEYE to Provide Earth Observation Data
 - <a href="https://science.nasa.gov/blog/sols-4495-4497-yawn-perched-and-rollin/" >🔗</a> **[NASA]** Sols 4495-4497: Yawn, Perched, and Rollin’
 - <a href="https://science.nasa.gov/universe/exoplanets/discovery-alert-four-little-planets-one-big-step/" >🔗</a> **[NASA]** Discovery Alert: Four Little Planets, One Big Step
-- <a href="https://spaceflightnow.com/2025/04/01/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 27 Starlink satellites on Falcon 9 rocket from Vandenberg
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250401T160128">2025-04-01 16:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250401T163638">2025-04-01 16:36:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
