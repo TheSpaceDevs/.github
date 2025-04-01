@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-launches-internet-technology-test-satellites-with-long-march-2d/" >🔗</a> **[SpaceNews]** China launches internet technology test satellites with Long March 2D
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/04/Space_Debris_Is_it_a_Crisis" >🔗</a> **[ESA]** Space Debris: Is it a Crisis?
 - <a href="https://www.esa.int/Space_Safety/Space_Debris/ESA_Space_Environment_Report_2025" >🔗</a> **[ESA]** ESA Space Environment Report 2025
 - <a href="https://europeanspaceflight.com/nato-contracts-iceye-to-provide-earth-observation-data/" >🔗</a> **[European Spaceflight]** NATO Contracts ICEYE to Provide Earth Observation Data
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/private-astronaut-crew-lifts-off-to-circle-earths-poles/" >🔗</a> **[SpacePolicyOnline.com]** Private Astronaut Crew Lifts Off To Circle Earth’s Poles
 - <a href="https://spacenews.com/spacex-launches-fram2-private-astronaut-mission/" >🔗</a> **[SpaceNews]** SpaceX launches Fram2 private astronaut mission
 - <a href="https://spaceflightnow.com/2025/03/31/live-coverage-spacex-to-launch-fram2-astronauts-to-polar-orbit-on-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Fram2 astronauts to polar orbit on Falcon 9 rocket from the Kennedy Space Center
-- <a href="https://spaceflightnow.com/2025/03/31/meet-the-fram2-crew-a-crypto-entrepreneur-a-cinematographer-a-robotics-engineer-and-an-arctic-explorer/" >🔗</a> **[Spaceflight Now]** Meet the Fram2 crew: A cryptocurrency entrepreneur, a cinematographer, a robotics engineer and an Arctic explorer
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250401T110123">2025-04-01 11:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250401T113130">2025-04-01 11:31:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
