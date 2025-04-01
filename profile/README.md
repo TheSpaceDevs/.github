@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/history/nasa-history-news-and-notes-spring-2025/" >🔗</a> **[NASA]** NASA History News and Notes–Spring 2025
 - <a href="https://www.nasa.gov/learning-resources/ways-community-college-students-can-get-involved-with-nasa/" >🔗</a> **[NASA]** Ways Community College Students Can Get Involved With NASA
 - <a href="https://arstechnica.com/space/2025/04/tuesday-telescope-on-mars-the-rovers-take-pictures-of-robotic-arms-and-rocks/" >🔗</a> **[Arstechnica]** Tuesday Telescope: On Mars, the rovers take pictures of robotic arms and rocks
 - <a href="https://spacenews.com/china-launches-internet-technology-test-satellites-with-long-march-2d/" >🔗</a> **[SpaceNews]** China launches internet technology test satellites with Long March 2D
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/blog/sols-4495-4497-yawn-perched-and-rollin/" >🔗</a> **[NASA]** Sols 4495-4497: Yawn, Perched, and Rollin’
 - <a href="https://science.nasa.gov/universe/exoplanets/discovery-alert-four-little-planets-one-big-step/" >🔗</a> **[NASA]** Discovery Alert: Four Little Planets, One Big Step
 - <a href="https://spaceflightnow.com/2025/04/01/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 27 Starlink satellites on Falcon 9 rocket from Vandenberg
-- <a href="https://spacepolicyonline.com/news/private-astronaut-crew-lifts-off-to-circle-earths-poles/" >🔗</a> **[SpacePolicyOnline.com]** Private Astronaut Crew Lifts Off To Circle Earth’s Poles
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250401T150136">2025-04-01 15:01:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250401T153429">2025-04-01 15:34:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
