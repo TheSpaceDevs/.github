@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/nato-contracts-iceye-to-provide-earth-observation-data/" >🔗</a> **[European Spaceflight]** NATO Contracts ICEYE to Provide Earth Observation Data
 - <a href="https://science.nasa.gov/blog/sols-4495-4497-yawn-perched-and-rollin/" >🔗</a> **[NASA]** Sols 4495-4497: Yawn, Perched, and Rollin’
 - <a href="https://science.nasa.gov/universe/exoplanets/discovery-alert-four-little-planets-one-big-step/" >🔗</a> **[NASA]** Discovery Alert: Four Little Planets, One Big Step
 - <a href="https://spaceflightnow.com/2025/04/01/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 27 Starlink satellites on Falcon 9 rocket from Vandenberg
@@ -100,18 +101,18 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/03/31/meet-the-fram2-crew-a-crypto-entrepreneur-a-cinematographer-a-robotics-engineer-and-an-arctic-explorer/" >🔗</a> **[Spaceflight Now]** Meet the Fram2 crew: A cryptocurrency entrepreneur, a cinematographer, a robotics engineer and an Arctic explorer
 - <a href="https://spacepolicyonline.com/news/butch-and-suni-to-meet-with-boeing-leadership-on-starliners-path-forward/" >🔗</a> **[SpacePolicyOnline.com]** Butch and Suni to Meet with Boeing Leadership on Starliner’s Path Forward
 - <a href="https://www.nasaspaceflight.com/2025/03/launch-roundup-033125/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9 to fly five missions during busy week
-- <a href="https://spacenews.com/investigation-into-failed-new-glenn-landing-completed/" >🔗</a> **[SpaceNews]** Investigation into failed New Glenn landing completed
 
 
 ### Launch-related News 🚀
 
 - <a href="https://spaceflightnow.com/2025/04/01/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 27 Starlink satellites on Falcon 9 rocket from Vandenberg
+- <a href="https://www.nasaspaceflight.com/2025/03/launch-roundup-033125/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9 to fly five missions during busy week
 - <a href="https://www.nasaspaceflight.com/2025/03/launch-roundup-032425/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Alpha, Spectrum, Electron, and Falcon 9 set to fly
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250401T060132">2025-04-01 06:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250401T063901">2025-04-01 06:39:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
