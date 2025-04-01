@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blog/sols-4495-4497-yawn-perched-and-rollin/" >🔗</a> **[NASA]** Sols 4495-4497: Yawn, Perched, and Rollin’
+- <a href="https://science.nasa.gov/universe/exoplanets/discovery-alert-four-little-planets-one-big-step/" >🔗</a> **[NASA]** Discovery Alert: Four Little Planets, One Big Step
 - <a href="https://spaceflightnow.com/2025/04/01/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 27 Starlink satellites on Falcon 9 rocket from Vandenberg
 - <a href="https://spacepolicyonline.com/news/private-astronaut-crew-lifts-off-to-circle-earths-poles/" >🔗</a> **[SpacePolicyOnline.com]** Private Astronaut Crew Lifts Off To Circle Earth’s Poles
 - <a href="https://spacenews.com/spacex-launches-fram2-private-astronaut-mission/" >🔗</a> **[SpaceNews]** SpaceX launches Fram2 private astronaut mission
@@ -99,18 +101,17 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/butch-and-suni-to-meet-with-boeing-leadership-on-starliners-path-forward/" >🔗</a> **[SpacePolicyOnline.com]** Butch and Suni to Meet with Boeing Leadership on Starliner’s Path Forward
 - <a href="https://www.nasaspaceflight.com/2025/03/launch-roundup-033125/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9 to fly five missions during busy week
 - <a href="https://spacenews.com/investigation-into-failed-new-glenn-landing-completed/" >🔗</a> **[SpaceNews]** Investigation into failed New Glenn landing completed
-- <a href="https://www.nasa.gov/missions/nasa-trains-for-orion-water-recovery-ahead-of-artemis-ii-launch/" >🔗</a> **[NASA]** NASA Trains for Orion Water Recovery Ahead of Artemis II Launch
-- <a href="https://www.nasa.gov/general/vertical-lift-technology-at-nasa-ames-research-center/" >🔗</a> **[NASA]** Vertical Lift Technology at NASA Ames Research Center
 
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2025/04/01/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 27 Starlink satellites on Falcon 9 rocket from Vandenberg
 - <a href="https://www.nasaspaceflight.com/2025/03/launch-roundup-032425/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Alpha, Spectrum, Electron, and Falcon 9 set to fly
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250401T050123">2025-04-01 05:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250401T053432">2025-04-01 05:34:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
