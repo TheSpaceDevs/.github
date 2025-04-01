@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/04/Space_Debris_Is_it_a_Crisis" >🔗</a> **[ESA]** Space Debris: Is it a Crisis?
+- <a href="https://www.esa.int/Space_Safety/Space_Debris/ESA_Space_Environment_Report_2025" >🔗</a> **[ESA]** ESA Space Environment Report 2025
 - <a href="https://europeanspaceflight.com/nato-contracts-iceye-to-provide-earth-observation-data/" >🔗</a> **[European Spaceflight]** NATO Contracts ICEYE to Provide Earth Observation Data
 - <a href="https://science.nasa.gov/blog/sols-4495-4497-yawn-perched-and-rollin/" >🔗</a> **[NASA]** Sols 4495-4497: Yawn, Perched, and Rollin’
 - <a href="https://science.nasa.gov/universe/exoplanets/discovery-alert-four-little-planets-one-big-step/" >🔗</a> **[NASA]** Discovery Alert: Four Little Planets, One Big Step
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/spacex-launches-fram2-private-astronaut-mission/" >🔗</a> **[SpaceNews]** SpaceX launches Fram2 private astronaut mission
 - <a href="https://spaceflightnow.com/2025/03/31/live-coverage-spacex-to-launch-fram2-astronauts-to-polar-orbit-on-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Fram2 astronauts to polar orbit on Falcon 9 rocket from the Kennedy Space Center
 - <a href="https://spaceflightnow.com/2025/03/31/meet-the-fram2-crew-a-crypto-entrepreneur-a-cinematographer-a-robotics-engineer-and-an-arctic-explorer/" >🔗</a> **[Spaceflight Now]** Meet the Fram2 crew: A cryptocurrency entrepreneur, a cinematographer, a robotics engineer and an Arctic explorer
-- <a href="https://spacepolicyonline.com/news/butch-and-suni-to-meet-with-boeing-leadership-on-starliners-path-forward/" >🔗</a> **[SpacePolicyOnline.com]** Butch and Suni to Meet with Boeing Leadership on Starliner’s Path Forward
-- <a href="https://www.nasaspaceflight.com/2025/03/launch-roundup-033125/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9 to fly five missions during busy week
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250401T070137">2025-04-01 07:01:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250401T073242">2025-04-01 07:32:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
