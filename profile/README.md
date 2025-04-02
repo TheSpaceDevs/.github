@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/get-involved/citizen-science/citizen-scientists-use-nasa-open-science-data-to-research-life-in-space/" >🔗</a> **[NASA]** Citizen Scientists Use NASA Open Science Data to Research Life in Space
 - <a href="https://europeanspaceflight.com/esa-leo-cargo-return-phase-2-to-proceed-without-geo-return-constraints/" >🔗</a> **[European Spaceflight]** ESA LEO Cargo Return Phase 2 to Proceed Without Geo-Return Constraints
 - <a href="https://spacepolicyonline.com/news/nasas-petro-endorses-space-science-but-budget-future-a-question-mark/" >🔗</a> **[SpacePolicyOnline.com]** NASA’s Petro Endorses Space Science, But Budget Future a Question Mark
 - <a href="https://www.nasa.gov/learning-resources/for-kids-and-students/who-was-alan-shepard-grades-5-8/" >🔗</a> **[NASA]** Who Was Alan Shepard? (Grades 5-8)
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/missions/spherex/nasas-spherex-takes-first-images-preps-to-study-millions-of-galaxies/" >🔗</a> **[NASA]** NASA’s SPHEREx Takes First Images, Preps to Study Millions of Galaxies
 - <a href="https://www.nasa.gov/image-article/studying-ice-for-the-future-of-flight/" >🔗</a> **[NASA]** Studying Ice for the Future of Flight
 - <a href="https://science.nasa.gov/solar-system/skywatching/whats-up-april-2025-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: April 2025 Skywatching Tips from NASA
-- <a href="https://spacenews.com/mda-space-buys-satixfy-to-boost-constellation-production/" >🔗</a> **[SpaceNews]** MDA Space buys SatixFy to boost constellation production
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250402T100137">2025-04-02 10:01:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250402T103558">2025-04-02 10:35:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
