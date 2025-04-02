@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/stennis/lagniappe-for-april-2025/" >🔗</a> **[NASA]** Lagniappe for April 2025
+- <a href="https://www.nasa.gov/image-article/nasa-space-flight-awareness-program-recognizes-stennis-employees/" >🔗</a> **[NASA]** NASA Space Flight Awareness Program Recognizes Stennis Employees
+- <a href="https://www.nasa.gov/image-article/rocket-test-group-visits-nasa-stennis/" >🔗</a> **[NASA]** Rocket Test Group Visits NASA Stennis
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/Webb_snaps_photographs_of_Asteroid_2024_YR4" >🔗</a> **[ESA]** Webb snaps photographs of Asteroid 2024 YR4
 - <a href="https://science.nasa.gov/missions/webb/nasa-webb-explores-effect-of-strong-magnetic-fields-on-star-formation/" >🔗</a> **[NASA]** NASA Webb Explores Effect of Strong Magnetic Fields on Star Formation
 - <a href="https://spacenews.com/biotech-is-the-launchpad-for-human-survival-in-space/" >🔗</a> **[SpaceNews]** Biotech is the launchpad for human survival in space
 - <a href="https://spacenews.com/slingshot-adapting-satellite-fingerprinting-technology-for-military-applications/" >🔗</a> **[SpaceNews]** Slingshot adapting satellite ‘fingerprinting’ technology for military applications
 - <a href="https://spacenews.com/jaxa-institute-studying-mars-lander-concept/" >🔗</a> **[SpaceNews]** JAXA institute studying Mars lander concept
 - <a href="https://spacenews.com/clps-companies-seek-expanded-opportunities-for-commercial-lunar-landers/" >🔗</a> **[SpaceNews]** CLPS companies seek expanded opportunities for commercial lunar landers
 - <a href="https://science.nasa.gov/get-involved/citizen-science/citizen-scientists-use-nasa-open-science-data-to-research-life-in-space/" >🔗</a> **[NASA]** Citizen Scientists Use NASA Open Science Data to Research Life in Space
-- <a href="https://europeanspaceflight.com/esa-leo-cargo-return-phase-2-to-proceed-without-geo-return-constraints/" >🔗</a> **[European Spaceflight]** ESA LEO Cargo Return Phase 2 to Proceed Without Geo-Return Constraints
-- <a href="https://spacepolicyonline.com/news/nasas-petro-endorses-space-science-but-budget-future-a-question-mark/" >🔗</a> **[SpacePolicyOnline.com]** NASA’s Petro Endorses Space Science, But Budget Future a Question Mark
-- <a href="https://www.nasa.gov/learning-resources/for-kids-and-students/who-was-alan-shepard-grades-5-8/" >🔗</a> **[NASA]** Who Was Alan Shepard? (Grades 5-8)
-- <a href="https://www.nasa.gov/learning-resources/for-kids-and-students/who-was-alan-shepard-grades-5-8-stem/" >🔗</a> **[NASA]** Who Was Alan Shepard? (Grades 5-8)
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250402T150128">2025-04-02 15:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250402T153421">2025-04-02 15:34:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
