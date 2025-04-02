@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/jaxa-institute-studying-mars-lander-concept/" >🔗</a> **[SpaceNews]** JAXA institute studying Mars lander concept
+- <a href="https://spacenews.com/clps-companies-seek-expanded-opportunities-for-commercial-lunar-landers/" >🔗</a> **[SpaceNews]** CLPS companies seek expanded opportunities for commercial lunar landers
 - <a href="https://science.nasa.gov/get-involved/citizen-science/citizen-scientists-use-nasa-open-science-data-to-research-life-in-space/" >🔗</a> **[NASA]** Citizen Scientists Use NASA Open Science Data to Research Life in Space
 - <a href="https://europeanspaceflight.com/esa-leo-cargo-return-phase-2-to-proceed-without-geo-return-constraints/" >🔗</a> **[European Spaceflight]** ESA LEO Cargo Return Phase 2 to Proceed Without Geo-Return Constraints
 - <a href="https://spacepolicyonline.com/news/nasas-petro-endorses-space-science-but-budget-future-a-question-mark/" >🔗</a> **[SpacePolicyOnline.com]** NASA’s Petro Endorses Space Science, But Budget Future a Question Mark
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://arstechnica.com/space/2025/04/the-harrowing-story-of-what-flying-starliner-was-like-when-its-thrusters-failed/" >🔗</a> **[Arstechnica]** The harrowing story of what flying Starliner was like when its thrusters failed
 - <a href="https://www.nasa.gov/general/nasa-receives-10-nominations-for-the-29th-annual-webby-awards/" >🔗</a> **[NASA]** NASA Receives 10 Nominations for the 29th Annual Webby Awards
 - <a href="https://www.nasa.gov/missions/spherex/nasas-spherex-takes-first-images-preps-to-study-millions-of-galaxies/" >🔗</a> **[NASA]** NASA’s SPHEREx Takes First Images, Preps to Study Millions of Galaxies
-- <a href="https://www.nasa.gov/image-article/studying-ice-for-the-future-of-flight/" >🔗</a> **[NASA]** Studying Ice for the Future of Flight
-- <a href="https://science.nasa.gov/solar-system/skywatching/whats-up-april-2025-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: April 2025 Skywatching Tips from NASA
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250402T110120">2025-04-02 11:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250402T113111">2025-04-02 11:31:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
