@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/missions/webb/nasa-webb-explores-effect-of-strong-magnetic-fields-on-star-formation/" >🔗</a> **[NASA]** NASA Webb Explores Effect of Strong Magnetic Fields on Star Formation
 - <a href="https://spacenews.com/biotech-is-the-launchpad-for-human-survival-in-space/" >🔗</a> **[SpaceNews]** Biotech is the launchpad for human survival in space
 - <a href="https://spacenews.com/slingshot-adapting-satellite-fingerprinting-technology-for-military-applications/" >🔗</a> **[SpaceNews]** Slingshot adapting satellite ‘fingerprinting’ technology for military applications
 - <a href="https://spacenews.com/jaxa-institute-studying-mars-lander-concept/" >🔗</a> **[SpaceNews]** JAXA institute studying Mars lander concept
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacepolicyonline.com/news/nasas-petro-endorses-space-science-but-budget-future-a-question-mark/" >🔗</a> **[SpacePolicyOnline.com]** NASA’s Petro Endorses Space Science, But Budget Future a Question Mark
 - <a href="https://www.nasa.gov/learning-resources/for-kids-and-students/who-was-alan-shepard-grades-5-8/" >🔗</a> **[NASA]** Who Was Alan Shepard? (Grades 5-8)
 - <a href="https://www.nasa.gov/learning-resources/for-kids-and-students/who-was-alan-shepard-grades-5-8-stem/" >🔗</a> **[NASA]** Who Was Alan Shepard? (Grades 5-8)
-- <a href="https://arstechnica.com/space/2025/04/the-harrowing-story-of-what-flying-starliner-was-like-when-its-thrusters-failed/" >🔗</a> **[Arstechnica]** The harrowing story of what flying Starliner was like when its thrusters failed
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250402T140119">2025-04-02 14:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250402T143508">2025-04-02 14:35:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
