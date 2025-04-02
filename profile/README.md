@@ -92,6 +92,7 @@ into *an Unknown
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/Up_for_space" >🔗</a> **[ESA]** Up for space
+- <a href="https://www.nasa.gov/missions/aam/nasa-makes-progress-on-advanced-drone-safety-management-system/" >🔗</a> **[NASA]** NASA Makes Progress on Advanced Drone Safety Management System
 - <a href="https://spacenews.com/washington-harbour-partners-invests-in-startup-turion-space/" >🔗</a> **[SpaceNews]** Washington Harbour Partners invests in startup Turion Space
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/artemis-astronauts-and-orion-leadership-visit-nasa-ames/" >🔗</a> **[NASA]** Artemis Astronauts & Orion Leadership Visit NASA Ames
 - <a href="https://www.nasa.gov/general/what-are-the-dangers-of-going-to-space-we-asked-a-nasa-expert-episode-55/" >🔗</a> **[NASA]** What Are the Dangers of Going to Space? We Asked a NASA Expert: Episode 55
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/image-article/x-ray-clues-reveal-destroyed-planet/" >🔗</a> **[NASA]** X-ray Clues Reveal Destroyed Planet
 - <a href="https://www.nasa.gov/humans-in-space/commercial-space/leo-economy/nasa-continues-support-for-private-astronaut-missions-to-space-station/" >🔗</a> **[NASA]** NASA Continues Support for Private Astronaut Missions to Space Station
 - <a href="https://spacenews.com/frontgrade-gaisler-launches-new-grain-line-and-wins-snsa-contract-to-commercialize-first-energy-efficient-neuromorphic-ai-for-space-applications/" >🔗</a> **[SpaceNews]** Frontgrade Gaisler Launches New GRAIN Line and Wins SNSA Contract to Commercialize First Energy-Efficient Neuromorphic AI for Space Applications
-- <a href="https://tlpnetwork.com/news/america/booz-allen-unveils-brilliant-swarms-satellite-constellation-for-us-golden-dome-missile-defense" >🔗</a> **[The Launch Pad]** Booz Allen Unveils “Brilliant Swarms” Satellite Constellation for US Golden Dome Missile Defense
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250402T220120">2025-04-02 22:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250402T223413">2025-04-02 22:34:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
