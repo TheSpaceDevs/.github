@@ -92,6 +92,7 @@ into *an Unknown
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/Up_for_space" >🔗</a> **[ESA]** Up for space
+- <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-crew-launch-to-join-station-expedition-72-73/" >🔗</a> **[NASA]** NASA Sets Coverage for Crew Launch to Join Station Expedition 72/73
 - <a href="https://www.nasa.gov/image-article/x-ray-clues-reveal-destroyed-planet/" >🔗</a> **[NASA]** X-ray Clues Reveal Destroyed Planet
 - <a href="https://www.nasa.gov/humans-in-space/commercial-space/leo-economy/nasa-continues-support-for-private-astronaut-missions-to-space-station/" >🔗</a> **[NASA]** NASA Continues Support for Private Astronaut Missions to Space Station
 - <a href="https://spacenews.com/frontgrade-gaisler-launches-new-grain-line-and-wins-snsa-contract-to-commercialize-first-energy-efficient-neuromorphic-ai-for-space-applications/" >🔗</a> **[SpaceNews]** Frontgrade Gaisler Launches New GRAIN Line and Wins SNSA Contract to Commercialize First Energy-Efficient Neuromorphic AI for Space Applications
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://tlpnetwork.com/news/asia/gitai-jaxa-and-toyota-push-ahead-on-lunar-rover-for-artemis-program" >🔗</a> **[The Launch Pad]** GITAI, JAXA, and Toyota Push Ahead on Lunar Rover for Artemis Program
 - <a href="https://tlpnetwork.com/news/america/mda-space-to-acquire-israeli-satixfy-in-269-million-deal" >🔗</a> **[The Launch Pad]** MDA Space to Acquire Israeli SatixFy in $269 Million Deal
 - <a href="https://www.nasa.gov/centers-and-facilities/stennis/lagniappe-for-april-2025/" >🔗</a> **[NASA]** Lagniappe for April 2025
-- <a href="https://www.nasa.gov/image-article/nasa-space-flight-awareness-program-recognizes-stennis-employees/" >🔗</a> **[NASA]** NASA Space Flight Awareness Program Recognizes Stennis Employees
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250402T190116">2025-04-02 19:01:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250402T193103">2025-04-02 19:31:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
