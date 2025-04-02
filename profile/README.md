@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/nasas-petro-endorses-space-science-but-budget-future-a-question-mark/" >🔗</a> **[SpacePolicyOnline.com]** NASA’s Petro Endorses Space Science, But Budget Future a Question Mark
 - <a href="https://www.nasa.gov/learning-resources/for-kids-and-students/who-was-alan-shepard-grades-5-8-stem/" >🔗</a> **[NASA]** Who Was Alan Shepard? (Grades 5-8)
 - <a href="https://www.nasa.gov/learning-resources/for-kids-and-students/who-was-alan-shepard-grades-5-8/" >🔗</a> **[NASA]** Who Was Alan Shepard? (Grades 5-8)
 - <a href="https://arstechnica.com/space/2025/04/the-harrowing-story-of-what-flying-starliner-was-like-when-its-thrusters-failed/" >🔗</a> **[Arstechnica]** The harrowing story of what flying Starliner was like when its thrusters failed
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/solar-system/skywatching/whats-up-april-2025-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: April 2025 Skywatching Tips from NASA
 - <a href="https://spacenews.com/mda-space-buys-satixfy-to-boost-constellation-production/" >🔗</a> **[SpaceNews]** MDA Space buys SatixFy to boost constellation production
 - <a href="https://www.nasa.gov/history/nasa-history-news-and-notes-spring-2025/" >🔗</a> **[NASA]** NASA History News and Notes–Spring 2025
-- <a href="https://www.nasa.gov/learning-resources/ways-community-college-students-can-get-involved-with-nasa/" >🔗</a> **[NASA]** Ways Community College Students Can Get Involved With NASA
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250402T031341">2025-04-02 03:13:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250402T034014">2025-04-02 03:40:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
