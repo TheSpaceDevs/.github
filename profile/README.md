@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/biotech-is-the-launchpad-for-human-survival-in-space/" >🔗</a> **[SpaceNews]** Biotech is the launchpad for human survival in space
 - <a href="https://spacenews.com/slingshot-adapting-satellite-fingerprinting-technology-for-military-applications/" >🔗</a> **[SpaceNews]** Slingshot adapting satellite ‘fingerprinting’ technology for military applications
 - <a href="https://spacenews.com/jaxa-institute-studying-mars-lander-concept/" >🔗</a> **[SpaceNews]** JAXA institute studying Mars lander concept
 - <a href="https://spacenews.com/clps-companies-seek-expanded-opportunities-for-commercial-lunar-landers/" >🔗</a> **[SpaceNews]** CLPS companies seek expanded opportunities for commercial lunar landers
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/learning-resources/for-kids-and-students/who-was-alan-shepard-grades-5-8/" >🔗</a> **[NASA]** Who Was Alan Shepard? (Grades 5-8)
 - <a href="https://www.nasa.gov/learning-resources/for-kids-and-students/who-was-alan-shepard-grades-5-8-stem/" >🔗</a> **[NASA]** Who Was Alan Shepard? (Grades 5-8)
 - <a href="https://arstechnica.com/space/2025/04/the-harrowing-story-of-what-flying-starliner-was-like-when-its-thrusters-failed/" >🔗</a> **[Arstechnica]** The harrowing story of what flying Starliner was like when its thrusters failed
-- <a href="https://www.nasa.gov/general/nasa-receives-10-nominations-for-the-29th-annual-webby-awards/" >🔗</a> **[NASA]** NASA Receives 10 Nominations for the 29th Annual Webby Awards
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250402T130822">2025-04-02 13:08:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250402T133655">2025-04-02 13:36:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
