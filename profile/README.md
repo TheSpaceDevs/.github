@@ -92,6 +92,8 @@ into *an Unknown
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/Up_for_space" >🔗</a> **[ESA]** Up for space
+- <a href="https://spacenews.com/washington-harbour-partners-invests-in-startup-turion-space/" >🔗</a> **[SpaceNews]** Washington Harbour Partners invests in startup Turion Space
+- <a href="https://www.nasa.gov/centers-and-facilities/ames/artemis-astronauts-and-orion-leadership-visit-nasa-ames/" >🔗</a> **[NASA]** Artemis Astronauts & Orion Leadership Visit NASA Ames
 - <a href="https://www.nasa.gov/general/what-are-the-dangers-of-going-to-space-we-asked-a-nasa-expert-episode-55/" >🔗</a> **[NASA]** What Are the Dangers of Going to Space? We Asked a NASA Expert: Episode 55
 - <a href="https://spacenews.com/project-kuiper-readies-long-awaited-operational-satellite-launch/" >🔗</a> **[SpaceNews]** Project Kuiper readies long-awaited operational satellite launch
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-crew-launch-to-join-station-expedition-72-73/" >🔗</a> **[NASA]** NASA Sets Coverage for Crew Launch to Join Station Expedition 72/73
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/humans-in-space/commercial-space/leo-economy/nasa-continues-support-for-private-astronaut-missions-to-space-station/" >🔗</a> **[NASA]** NASA Continues Support for Private Astronaut Missions to Space Station
 - <a href="https://spacenews.com/frontgrade-gaisler-launches-new-grain-line-and-wins-snsa-contract-to-commercialize-first-energy-efficient-neuromorphic-ai-for-space-applications/" >🔗</a> **[SpaceNews]** Frontgrade Gaisler Launches New GRAIN Line and Wins SNSA Contract to Commercialize First Energy-Efficient Neuromorphic AI for Space Applications
 - <a href="https://tlpnetwork.com/news/america/booz-allen-unveils-brilliant-swarms-satellite-constellation-for-us-golden-dome-missile-defense" >🔗</a> **[The Launch Pad]** Booz Allen Unveils “Brilliant Swarms” Satellite Constellation for US Golden Dome Missile Defense
-- <a href="https://tlpnetwork.com/news/america/us-space-force-details-in-orbit-refueling-tech-demo-missions" >🔗</a> **[The Launch Pad]** US Space Force Details In Orbit Refueling Tech Demo Missions
-- <a href="https://tlpnetwork.com/news/asia/gitai-jaxa-and-toyota-push-ahead-on-lunar-rover-for-artemis-program" >🔗</a> **[The Launch Pad]** GITAI, JAXA, and Toyota Push Ahead on Lunar Rover for Artemis Program
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250402T210118">2025-04-02 21:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250402T213143">2025-04-02 21:31:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
