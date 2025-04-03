@@ -46,7 +46,6 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250403T225400">2025-04-03 22:54:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-13&location=Vandenberg SFB, CA, USA&dates=20250403T225400Z%2F20250404T025400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-13** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250406T024000">2025-04-06 02:40:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-72&location=Cape Canaveral SFS, FL, USA&dates=20250406T024000Z%2F20250406T071100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-72** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250407T213500">2025-04-07 21:35:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-11&location=Vandenberg SFB, CA, USA&dates=20250407T213500Z%2F20250408T020600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-11** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250408T054715">2025-04-08 05:47:15 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Soyuz MS-27&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20250408T054715Z%2F20250408T054715Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Soyuz MS-27** from Baikonur Cosmodrome, Republic of Kazakhstan.
@@ -112,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250403T223356">2025-04-03 22:33:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250403T230119">2025-04-03 23:01:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
