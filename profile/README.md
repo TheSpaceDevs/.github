@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/A_chance_alignment_in_Lupus" >🔗</a> **[ESA]** A chance alignment in Lupus
 - <a href="https://spacenews.com/exail-unveils-spacelink-pce-a-new-propagation-channel-emulator-for-satellite-communication-enhanced/" >🔗</a> **[SpaceNews]** Exail unveils Spacelink-PCE, a new propagation channel emulator for satellite communication enhanced
 - <a href="https://www.nasa.gov/directorates/armd/tacp/ui/armd-tacp-ui-usrc/usrc-awards/" >🔗</a> **[NASA]** University Student Research Challenge (USRC) Awards
 - <a href="https://spacenews.com/do-we-need-highways-for-space/" >🔗</a> **[SpaceNews]** Do we need highways for space?
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-assigned-to-first-space-station-mission/" >🔗</a> **[NASA]** NASA Astronaut Chris Williams Assigned to First Space Station Mission
 - <a href="https://www.nasa.gov/general/rebecca-test/" >🔗</a> **[NASA]** Rebecca Test
 - <a href="https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/perseverance-rover-witnesses-one-martian-dust-devil-eating-another/" >🔗</a> **[NASA]** Perseverance Rover Witnesses One Martian Dust Devil Eating Another
-- <a href="https://www.nasa.gov/image-article/la-nasa-aumenta-su-eficiencia-con-un-piso-modificado-para-el-avion-x-66/" >🔗</a> **[NASA]** La NASA aumenta su eficiencia con un piso modificado para el avión X-66
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250403T193105">2025-04-03 19:31:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250403T200126">2025-04-03 20:01:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
