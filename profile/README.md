@@ -92,6 +92,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/Up_for_space" >🔗</a> **[ESA]** Up for space
+- <a href="https://europeanspaceflight.com/portuguese-space-agency-highlights-dual-use-space-investments/" >🔗</a> **[European Spaceflight]** Portuguese Space Agency Highlights Dual-Use Space Investments
 - <a href="https://spacepolicyonline.com/news/isaacman-nomination-hearing-set-for-april-9/" >🔗</a> **[SpacePolicyOnline.com]** Isaacman Nomination Hearing Set for April 9
 - <a href="https://tlpnetwork.com/news/america/amazon-project-kuiper-set-to-launch-first-full-batch-of-satellites-next-week" >🔗</a> **[The Launch Pad]** Amazon Project Kuiper Set to Launch First Full Batch of Satellites Next Week
 - <a href="https://www.nasa.gov/missions/aam/nasa-makes-progress-on-advanced-drone-safety-management-system/" >🔗</a> **[NASA]** NASA Makes Progress on Advanced Drone Safety Management System
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/artemis-astronauts-and-orion-leadership-visit-nasa-ames/" >🔗</a> **[NASA]** Artemis Astronauts & Orion Leadership Visit NASA Ames
 - <a href="https://www.nasa.gov/general/what-are-the-dangers-of-going-to-space-we-asked-a-nasa-expert-episode-55/" >🔗</a> **[NASA]** What Are the Dangers of Going to Space? We Asked a NASA Expert: Episode 55
 - <a href="https://spacenews.com/project-kuiper-readies-long-awaited-operational-satellite-launch/" >🔗</a> **[SpaceNews]** Project Kuiper readies long-awaited operational satellite launch
-- <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-crew-launch-to-join-station-expedition-72-73/" >🔗</a> **[NASA]** NASA Sets Coverage for Crew Launch to Join Station Expedition 72/73
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250403T060133">2025-04-03 06:01:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250403T063800">2025-04-03 06:38:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
