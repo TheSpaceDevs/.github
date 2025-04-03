@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/vast-signs-agreement-to-test-haven-1-at-nasa-facility/" >🔗</a> **[SpaceNews]** Vast signs agreement to test Haven-1 at NASA facility
+- <a href="https://spacenews.com/portal-space-systems-raises-17-5-million-for-highly-maneuverable-supernova-spacecraft/" >🔗</a> **[SpaceNews]** Portal Space Systems raises $17.5 million for highly maneuverable Supernova spacecraft
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/Firing_up_HENON_s_engine" >🔗</a> **[ESA]** Firing up HENON’s engine
 - <a href="https://spacenews.com/moog-highlights-meteor-satellite-bus-at-space-symposium/" >🔗</a> **[SpaceNews]** Moog Highlights Meteor Satellite Bus at Space Symposium
 - <a href="https://spacenews.com/russia-china-target-spacexs-starlink-in-escalating-space-electronic-warfare/" >🔗</a> **[SpaceNews]** Russia, China target SpaceX’s Starlink in escalating space electronic warfare
 - <a href="https://spacenews.com/senate-schedules-confirmation-hearing-for-isaacmans-nomination-to-lead-nasa/" >🔗</a> **[SpaceNews]** Senate schedules confirmation hearing for Isaacman’s nomination to lead NASA
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/Up_for_space" >🔗</a> **[ESA]** Up for space
 - <a href="https://europeanspaceflight.com/portuguese-space-agency-highlights-dual-use-space-investments/" >🔗</a> **[European Spaceflight]** Portuguese Space Agency Highlights Dual-Use Space Investments
 - <a href="https://spacepolicyonline.com/news/isaacman-nomination-hearing-set-for-april-9/" >🔗</a> **[SpacePolicyOnline.com]** Isaacman Nomination Hearing Set for April 9
-- <a href="https://tlpnetwork.com/news/america/amazon-project-kuiper-set-to-launch-first-full-batch-of-satellites-next-week" >🔗</a> **[The Launch Pad]** Amazon Project Kuiper Set to Launch First Full Batch of Satellites Next Week
-- <a href="https://www.nasa.gov/missions/aam/nasa-makes-progress-on-advanced-drone-safety-management-system/" >🔗</a> **[NASA]** NASA Makes Progress on Advanced Drone Safety Management System
-- <a href="https://www.nasaspaceflight.com/2025/04/maiaspace-interview/" >🔗</a> **[NASASpaceflight]** MaiaSpace set to forge Europe’s path to reusability
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250403T130800">2025-04-03 13:08:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250403T133644">2025-04-03 13:36:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
