@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/exail-unveils-spacelink-pce-a-new-propagation-channel-emulator-for-satellite-communication-enhanced/" >🔗</a> **[SpaceNews]** Exail unveils Spacelink-PCE, a new propagation channel emulator for satellite communication enhanced
+- <a href="https://www.nasa.gov/directorates/armd/tacp/ui/armd-tacp-ui-usrc/usrc-awards/" >🔗</a> **[NASA]** University Student Research Challenge (USRC) Awards
+- <a href="https://spacenews.com/do-we-need-highways-for-space/" >🔗</a> **[SpaceNews]** Do we need highways for space?
+- <a href="https://www.nasa.gov/image-article/artemis-ii-insignia-honors-all/" >🔗</a> **[NASA]** Artemis II Insignia Honors All
+- <a href="https://spacenews.com/spinlaunch-announces-plans-for-broadband-satellite-constellation/" >🔗</a> **[SpaceNews]** SpinLaunch announces plans for broadband satellite constellation
+- <a href="https://science.nasa.gov/blog/sols-4498-4499-flexing-our-arm-once-again/" >🔗</a> **[NASA]** Sols 4498-4499: Flexing Our Arm Once Again
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-assigned-to-first-space-station-mission/" >🔗</a> **[NASA]** NASA Astronaut Chris Williams Assigned to First Space Station Mission
 - <a href="https://www.nasa.gov/general/rebecca-test/" >🔗</a> **[NASA]** Rebecca Test
 - <a href="https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/perseverance-rover-witnesses-one-martian-dust-devil-eating-another/" >🔗</a> **[NASA]** Perseverance Rover Witnesses One Martian Dust Devil Eating Another
 - <a href="https://www.nasa.gov/image-article/la-nasa-aumenta-su-eficiencia-con-un-piso-modificado-para-el-avion-x-66/" >🔗</a> **[NASA]** La NASA aumenta su eficiencia con un piso modificado para el avión X-66
-- <a href="https://spacenews.com/voyager-technologies-to-acquire-leocloud/" >🔗</a> **[SpaceNews]** Voyager Technologies to acquire LEOcloud
-- <a href="https://spacenews.com/frontgrade-gaisler-and-wolfssl-collaborate-to-enhance-cybersecurity-in-space-applications/" >🔗</a> **[SpaceNews]** Frontgrade Gaisler and wolfSSL Collaborate to Enhance Cybersecurity in Space Applications
-- <a href="https://www.nasa.gov/general/nasa-langleys-legacy-of-landing/" >🔗</a> **[NASA]** NASA Langley’s Legacy of Landing
-- <a href="https://spaceflightnow.com/2025/04/03/amazon-targets-april-9-for-launch-of-1st-production-satellites-for-its-project-kuiper-internet-mega-constellation/" >🔗</a> **[Spaceflight Now]** Amazon targets April 9 for launch of 1st production satellites for its Project Kuiper internet mega-constellation
-- <a href="https://spacenews.com/china-expands-counterspace-capabilities-new-report-finds/" >🔗</a> **[SpaceNews]** China expands counterspace capabilities, new report finds
-- <a href="https://spacenews.com/csf-president-dave-cavossa-testifies-before-the-u-s-china-economic-and-security-review-commission/" >🔗</a> **[SpaceNews]** CSF President Dave Cavossa Testifies Before the U.S.-China Economic and Security Review Commission
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250403T180133">2025-04-03 18:01:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250403T183721">2025-04-03 18:37:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
