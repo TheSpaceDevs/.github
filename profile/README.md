@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/russia-china-target-spacexs-starlink-in-escalating-space-electronic-warfare/" >🔗</a> **[SpaceNews]** Russia, China target SpaceX’s Starlink in escalating space electronic warfare
 - <a href="https://spacenews.com/senate-schedules-confirmation-hearing-for-isaacmans-nomination-to-lead-nasa/" >🔗</a> **[SpaceNews]** Senate schedules confirmation hearing for Isaacman’s nomination to lead NASA
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/CryoSat/How_hidden_lakes_threaten_Antarctic_Ice_Sheet_stability" >🔗</a> **[ESA]** How hidden lakes threaten Antarctic Ice Sheet stability
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/Up_for_space" >🔗</a> **[ESA]** Up for space
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/missions/aam/nasa-makes-progress-on-advanced-drone-safety-management-system/" >🔗</a> **[NASA]** NASA Makes Progress on Advanced Drone Safety Management System
 - <a href="https://www.nasaspaceflight.com/2025/04/maiaspace-interview/" >🔗</a> **[NASASpaceflight]** MaiaSpace set to forge Europe’s path to reusability
 - <a href="https://spacenews.com/washington-harbour-partners-invests-in-startup-turion-space/" >🔗</a> **[SpaceNews]** Washington Harbour Partners invests in startup Turion Space
-- <a href="https://www.nasa.gov/centers-and-facilities/ames/artemis-astronauts-and-orion-leadership-visit-nasa-ames/" >🔗</a> **[NASA]** Artemis Astronauts & Orion Leadership Visit NASA Ames
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250403T100129">2025-04-03 10:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250403T103557">2025-04-03 10:35:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
