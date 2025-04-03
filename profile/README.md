@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/nasa-langleys-legacy-of-landing/" >🔗</a> **[NASA]** NASA Langley’s Legacy of Landing
+- <a href="https://spaceflightnow.com/2025/04/03/amazon-targets-april-9-for-launch-of-1st-production-satellites-for-its-project-kuiper-internet-mega-constellation/" >🔗</a> **[Spaceflight Now]** Amazon targets April 9 for launch of 1st production satellites for its Project Kuiper internet mega-constellation
+- <a href="https://spacenews.com/china-expands-counterspace-capabilities-new-report-finds/" >🔗</a> **[SpaceNews]** China expands counterspace capabilities, new report finds
+- <a href="https://spacenews.com/csf-president-dave-cavossa-testifies-before-the-u-s-china-economic-and-security-review-commission/" >🔗</a> **[SpaceNews]** CSF President Dave Cavossa Testifies Before the U.S.-China Economic and Security Review Commission
 - <a href="https://spacenews.com/vast-signs-agreement-to-test-haven-1-at-nasa-facility/" >🔗</a> **[SpaceNews]** Vast signs agreement to test Haven-1 at NASA facility
 - <a href="https://spacenews.com/portal-space-systems-raises-17-5-million-for-highly-maneuverable-supernova-spacecraft/" >🔗</a> **[SpaceNews]** Portal Space Systems raises $17.5 million for highly maneuverable Supernova spacecraft
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/Firing_up_HENON_s_engine" >🔗</a> **[ESA]** Firing up HENON’s engine
 - <a href="https://spacenews.com/moog-highlights-meteor-satellite-bus-at-space-symposium/" >🔗</a> **[SpaceNews]** Moog Highlights Meteor Satellite Bus at Space Symposium
 - <a href="https://spacenews.com/russia-china-target-spacexs-starlink-in-escalating-space-electronic-warfare/" >🔗</a> **[SpaceNews]** Russia, China target SpaceX’s Starlink in escalating space electronic warfare
 - <a href="https://spacenews.com/senate-schedules-confirmation-hearing-for-isaacmans-nomination-to-lead-nasa/" >🔗</a> **[SpaceNews]** Senate schedules confirmation hearing for Isaacman’s nomination to lead NASA
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/CryoSat/How_hidden_lakes_threaten_Antarctic_Ice_Sheet_stability" >🔗</a> **[ESA]** How hidden lakes threaten Antarctic Ice Sheet stability
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/Up_for_space" >🔗</a> **[ESA]** Up for space
-- <a href="https://europeanspaceflight.com/portuguese-space-agency-highlights-dual-use-space-investments/" >🔗</a> **[European Spaceflight]** Portuguese Space Agency Highlights Dual-Use Space Investments
-- <a href="https://spacepolicyonline.com/news/isaacman-nomination-hearing-set-for-april-9/" >🔗</a> **[SpacePolicyOnline.com]** Isaacman Nomination Hearing Set for April 9
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250403T140133">2025-04-03 14:01:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250403T143458">2025-04-03 14:34:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
