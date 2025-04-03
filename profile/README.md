@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/voyager-technologies-to-acquire-leocloud/" >🔗</a> **[SpaceNews]** Voyager Technologies to acquire LEOcloud
 - <a href="https://spacenews.com/frontgrade-gaisler-and-wolfssl-collaborate-to-enhance-cybersecurity-in-space-applications/" >🔗</a> **[SpaceNews]** Frontgrade Gaisler and wolfSSL Collaborate to Enhance Cybersecurity in Space Applications
 - <a href="https://www.nasa.gov/general/nasa-langleys-legacy-of-landing/" >🔗</a> **[NASA]** NASA Langley’s Legacy of Landing
 - <a href="https://spaceflightnow.com/2025/04/03/amazon-targets-april-9-for-launch-of-1st-production-satellites-for-its-project-kuiper-internet-mega-constellation/" >🔗</a> **[Spaceflight Now]** Amazon targets April 9 for launch of 1st production satellites for its Project Kuiper internet mega-constellation
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/portal-space-systems-raises-17-5-million-for-highly-maneuverable-supernova-spacecraft/" >🔗</a> **[SpaceNews]** Portal Space Systems raises $17.5 million for highly maneuverable Supernova spacecraft
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/Firing_up_HENON_s_engine" >🔗</a> **[ESA]** Firing up HENON’s engine
 - <a href="https://spacenews.com/moog-highlights-meteor-satellite-bus-at-space-symposium/" >🔗</a> **[SpaceNews]** Moog Highlights Meteor Satellite Bus at Space Symposium
-- <a href="https://spacenews.com/russia-china-target-spacexs-starlink-in-escalating-space-electronic-warfare/" >🔗</a> **[SpaceNews]** Russia, China target SpaceX’s Starlink in escalating space electronic warfare
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250403T160133">2025-04-03 16:01:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250403T163733">2025-04-03 16:37:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
