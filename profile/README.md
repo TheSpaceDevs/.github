@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/startups-demonstrate-in-orbit-satellite-autonomy/" >🔗</a> **[SpaceNews]** Startups demonstrate in-orbit satellite autonomy
+- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-supports-wildland-fire-technology-demonstration/" >🔗</a> **[NASA]** NASA Supports Wildland Fire Technology Demonstration
+- <a href="https://spacenews.com/u-s-space-force-chief-chinas-capabilities-in-orbit-a-destabilizing-force/" >🔗</a> **[SpaceNews]** U.S. Space Force chief: China’s capabilities in orbit a ‘destabilizing force’
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/A_chance_alignment_in_Lupus" >🔗</a> **[ESA]** A chance alignment in Lupus
 - <a href="https://spacenews.com/exail-unveils-spacelink-pce-a-new-propagation-channel-emulator-for-satellite-communication-enhanced/" >🔗</a> **[SpaceNews]** Exail unveils Spacelink-PCE, a new propagation channel emulator for satellite communication enhanced
 - <a href="https://www.nasa.gov/directorates/armd/tacp/ui/armd-tacp-ui-usrc/usrc-awards/" >🔗</a> **[NASA]** University Student Research Challenge (USRC) Awards
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/artemis-ii-insignia-honors-all/" >🔗</a> **[NASA]** Artemis II Insignia Honors All
 - <a href="https://spacenews.com/spinlaunch-announces-plans-for-broadband-satellite-constellation/" >🔗</a> **[SpaceNews]** SpinLaunch announces plans for broadband satellite constellation
 - <a href="https://science.nasa.gov/blog/sols-4498-4499-flexing-our-arm-once-again/" >🔗</a> **[NASA]** Sols 4498-4499: Flexing Our Arm Once Again
-- <a href="https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-assigned-to-first-space-station-mission/" >🔗</a> **[NASA]** NASA Astronaut Chris Williams Assigned to First Space Station Mission
-- <a href="https://www.nasa.gov/general/rebecca-test/" >🔗</a> **[NASA]** Rebecca Test
-- <a href="https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/perseverance-rover-witnesses-one-martian-dust-devil-eating-another/" >🔗</a> **[NASA]** Perseverance Rover Witnesses One Martian Dust Devil Eating Another
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250403T210126">2025-04-03 21:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250403T213129">2025-04-03 21:31:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
