@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/?p=4577" >🔗</a> **[European Spaceflight]** NanoAvionics Wins €122.5M Contract to Build 282-Satellite Constellation
+- <a href="https://europeanspaceflight.com/nanoavionics-wins-e122-5m-contract-to-build-282-satellite-constellation/" >🔗</a> **[European Spaceflight]** NanoAvionics Wins €122.5M Contract to Build 282-Satellite Constellation
 - <a href="https://spacepolicyonline.com/news/as-china-space-threat-grows-u-s-space-force-budget-slows/" >🔗</a> **[SpacePolicyOnline.com]** As China Space Threat Grows, U.S. Space Force Budget Slows
 - <a href="https://spacenews.com/startups-demonstrate-in-orbit-satellite-autonomy/" >🔗</a> **[SpaceNews]** Startups demonstrate in-orbit satellite autonomy
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-supports-wildland-fire-technology-demonstration/" >🔗</a> **[NASA]** NASA Supports Wildland Fire Technology Demonstration
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/exail-unveils-spacelink-pce-a-new-propagation-channel-emulator-for-satellite-communication-enhanced/" >🔗</a> **[SpaceNews]** Exail unveils Spacelink-PCE, a new propagation channel emulator for satellite communication enhanced
 - <a href="https://www.nasa.gov/directorates/armd/tacp/ui/armd-tacp-ui-usrc/usrc-awards/" >🔗</a> **[NASA]** University Student Research Challenge (USRC) Awards
 - <a href="https://spacenews.com/do-we-need-highways-for-space/" >🔗</a> **[SpaceNews]** Do we need highways for space?
-- <a href="https://www.nasa.gov/image-article/artemis-ii-insignia-honors-all/" >🔗</a> **[NASA]** Artemis II Insignia Honors All
-- <a href="https://spacenews.com/spinlaunch-announces-plans-for-broadband-satellite-constellation/" >🔗</a> **[SpaceNews]** SpinLaunch announces plans for broadband satellite constellation
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250404T060136">2025-04-04 06:01:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250404T063750">2025-04-04 06:37:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
