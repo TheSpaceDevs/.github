@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-companies-swept-up-in-far-reaching-trade-war/" >🔗</a> **[SpaceNews]** Space companies swept up in far-reaching trade war
+- <a href="https://spacenews.com/spacex-ula-blue-origin-win-13-5-billion-in-u-s-military-launch-contracts-through-2029/" >🔗</a> **[SpaceNews]** SpaceX, ULA, Blue Origin win $13.5 billion in U.S. military launch contracts through 2029
 - <a href="https://www.nasa.gov/news-release/nasa-leaders-to-participate-in-2025-space-symposium-in-colorado/" >🔗</a> **[NASA]** NASA Leaders to Participate in 2025 Space Symposium in Colorado
 - <a href="https://www.nasa.gov/image-article/nasa-astronaut-jonny-kim/" >🔗</a> **[NASA]** NASA Astronaut Jonny Kim
 - <a href="https://www.nasaspaceflight.com/2025/04/booster-14-flight-9/" >🔗</a> **[NASASpaceflight]** Booster 14 Completes Milestone Static Fire Ahead of Flight 9
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/news/" >🔗</a> **[NASA]** News
 - <a href="https://www.nasa.gov/missions/artemis/nasa-welcomes-gateway-lunar-space-stations-halo-module-to-us/" >🔗</a> **[NASA]** NASA Welcomes Gateway Lunar Space Station’s HALO Module to US
 - <a href="https://arstechnica.com/space/2025/04/spinlaunch-yes-the-centrifuge-rocket-company-is-making-a-hard-pivot-to-satellites/" >🔗</a> **[Arstechnica]** SpinLaunch—yes, the centrifuge rocket company—is making a hard pivot to satellites
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_31_March_-_04_April_2025" >🔗</a> **[ESA]** Week in images: 31 March - 04 April 2025
-- <a href="https://spacenews.com/golden-dome-who-and-what-should-it-defend/" >🔗</a> **[SpaceNews]** Golden Dome: who and what should it defend?
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250404T220124">2025-04-04 22:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250404T223403">2025-04-04 22:34:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
