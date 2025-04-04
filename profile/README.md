@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/as-china-space-threat-grows-u-s-space-force-budget-slows/" >🔗</a> **[SpacePolicyOnline.com]** As China Space Threat Grows, U.S. Space Force Budget Slows
 - <a href="https://spacenews.com/startups-demonstrate-in-orbit-satellite-autonomy/" >🔗</a> **[SpaceNews]** Startups demonstrate in-orbit satellite autonomy
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-supports-wildland-fire-technology-demonstration/" >🔗</a> **[NASA]** NASA Supports Wildland Fire Technology Demonstration
 - <a href="https://spacenews.com/u-s-space-force-chief-chinas-capabilities-in-orbit-a-destabilizing-force/" >🔗</a> **[SpaceNews]** U.S. Space Force chief: China’s capabilities in orbit a ‘destabilizing force’
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/do-we-need-highways-for-space/" >🔗</a> **[SpaceNews]** Do we need highways for space?
 - <a href="https://www.nasa.gov/image-article/artemis-ii-insignia-honors-all/" >🔗</a> **[NASA]** Artemis II Insignia Honors All
 - <a href="https://spacenews.com/spinlaunch-announces-plans-for-broadband-satellite-constellation/" >🔗</a> **[SpaceNews]** SpinLaunch announces plans for broadband satellite constellation
-- <a href="https://science.nasa.gov/blog/sols-4498-4499-flexing-our-arm-once-again/" >🔗</a> **[NASA]** Sols 4498-4499: Flexing Our Arm Once Again
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250404T040133">2025-04-04 04:01:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250404T043515">2025-04-04 04:35:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
