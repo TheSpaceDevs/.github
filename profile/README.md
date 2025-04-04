@@ -91,8 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://europeanspaceflight.com/?p=4577" >🔗</a> **[European Spaceflight]** NanoAvionics Wins €122.5M Contract to Build 282-Satellite Constellation
 - <a href="https://europeanspaceflight.com/nanoavionics-wins-e122-5m-contract-to-build-282-satellite-constellation/" >🔗</a> **[European Spaceflight]** NanoAvionics Wins €122.5M Contract to Build 282-Satellite Constellation
+- <a href="https://europeanspaceflight.com/?p=4577" >🔗</a> **[European Spaceflight]** NanoAvionics Wins €122.5M Contract to Build 282-Satellite Constellation
 - <a href="https://spacepolicyonline.com/news/as-china-space-threat-grows-u-s-space-force-budget-slows/" >🔗</a> **[SpacePolicyOnline.com]** As China Space Threat Grows, U.S. Space Force Budget Slows
 - <a href="https://spacenews.com/startups-demonstrate-in-orbit-satellite-autonomy/" >🔗</a> **[SpaceNews]** Startups demonstrate in-orbit satellite autonomy
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-supports-wildland-fire-technology-demonstration/" >🔗</a> **[NASA]** NASA Supports Wildland Fire Technology Demonstration
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250404T073131">2025-04-04 07:31:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250404T080138">2025-04-04 08:01:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
