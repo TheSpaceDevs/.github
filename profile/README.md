@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/news/" >🔗</a> **[NASA]** News
+- <a href="https://www.nasa.gov/missions/artemis/nasa-welcomes-gateway-lunar-space-stations-halo-module-to-us/" >🔗</a> **[NASA]** NASA Welcomes Gateway Lunar Space Station’s HALO Module to US
 - <a href="https://arstechnica.com/space/2025/04/spinlaunch-yes-the-centrifuge-rocket-company-is-making-a-hard-pivot-to-satellites/" >🔗</a> **[Arstechnica]** SpinLaunch—yes, the centrifuge rocket company—is making a hard pivot to satellites
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_31_March_-_04_April_2025" >🔗</a> **[ESA]** Week in images: 31 March - 04 April 2025
 - <a href="https://spacenews.com/golden-dome-who-and-what-should-it-defend/" >🔗</a> **[SpaceNews]** Golden Dome: who and what should it defend?
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/04/Amelie_Schoenenwald_Science_Exploration_Training_ESA_Explores_13" >🔗</a> **[ESA]** Amelie Schoenenwald | Science, Exploration, Training | ESA Explores #13
 - <a href="https://science.nasa.gov/missions/hubble/hubble-spots-stellar-sculptors-in-nearby-galaxy/" >🔗</a> **[NASA]** Hubble Spots Stellar Sculptors in Nearby Galaxy
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/Earth_from_Space_The_shrinking_Aral_Sea" >🔗</a> **[ESA]** Earth from Space: The shrinking Aral Sea
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/Hubble_spots_stellar_sculptors_at_work_in_a_nearby_galaxy" >🔗</a> **[ESA]** Hubble spots stellar sculptors at work in a nearby galaxy
-- <a href="https://europeanspaceflight.com/nanoavionics-wins-e122-5m-contract-to-build-282-satellite-constellation/" >🔗</a> **[European Spaceflight]** NanoAvionics Wins €122.5M Contract to Build 282-Satellite Constellation
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250404T150126">2025-04-04 15:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250404T153422">2025-04-04 15:34:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
