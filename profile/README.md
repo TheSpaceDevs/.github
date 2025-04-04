@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_31_March_-_04_April_2025" >🔗</a> **[ESA]** Week in images: 31 March - 04 April 2025
+- <a href="https://spacenews.com/golden-dome-who-and-what-should-it-defend/" >🔗</a> **[SpaceNews]** Golden Dome: who and what should it defend?
 - <a href="https://arstechnica.com/space/2025/04/rocket-report-next-starship-flight-to-reuse-booster-faa-clears-new-glenn/" >🔗</a> **[Arstechnica]** Rocket Report: Next Starship flight to reuse booster; FAA clears New Glenn
 - <a href="https://science.nasa.gov/missions/hubble/hubble-studies-a-nearby-galaxys-star-formation/" >🔗</a> **[NASA]** Hubble Studies a Nearby Galaxy’s Star Formation
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/04/Amelie_Schoenenwald_Science_Exploration_Training_ESA_Explores_13" >🔗</a> **[ESA]** Amelie Schoenenwald | Science, Exploration, Training | ESA Explores #13
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/Hubble_spots_stellar_sculptors_at_work_in_a_nearby_galaxy" >🔗</a> **[ESA]** Hubble spots stellar sculptors at work in a nearby galaxy
 - <a href="https://europeanspaceflight.com/nanoavionics-wins-e122-5m-contract-to-build-282-satellite-constellation/" >🔗</a> **[European Spaceflight]** NanoAvionics Wins €122.5M Contract to Build 282-Satellite Constellation
 - <a href="https://europeanspaceflight.com/?p=4577" >🔗</a> **[European Spaceflight]** NanoAvionics Wins €122.5M Contract to Build 282-Satellite Constellation
-- <a href="https://spacepolicyonline.com/news/as-china-space-threat-grows-u-s-space-force-budget-slows/" >🔗</a> **[SpacePolicyOnline.com]** As China Space Threat Grows, U.S. Space Force Budget Slows
-- <a href="https://spacenews.com/startups-demonstrate-in-orbit-satellite-autonomy/" >🔗</a> **[SpaceNews]** Startups demonstrate in-orbit satellite autonomy
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250404T130730">2025-04-04 13:07:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250404T133601">2025-04-04 13:36:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
