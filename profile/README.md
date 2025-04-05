@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/04/05/u-s-space-force-awards-13-7-billion-in-new-national-security-launch-contracts-to-blue-origin-spacex-and-ula/" >🔗</a> **[Spaceflight Now]** U.S. Space Force awards $13.7 billion in new national security launch contracts to Blue Origin, SpaceX and ULA
 - <a href="https://spacepolicyonline.com/news/framonauts-splash-down-near-california/" >🔗</a> **[SpacePolicyOnline.com]** Framonauts Splash Down Near California
 - <a href="https://spaceflightnow.com/2025/04/05/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacenews.com/nasa-seeks-proposals-for-two-private-astronaut-missions-to-iss/" >🔗</a> **[SpaceNews]** NASA seeks proposals for two private astronaut missions to ISS
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/nasa-astronaut-jonny-kim/" >🔗</a> **[NASA]** NASA Astronaut Jonny Kim
 - <a href="https://www.nasaspaceflight.com/2025/04/booster-14-flight-9/" >🔗</a> **[NASASpaceflight]** Booster 14 Completes Milestone Static Fire Ahead of Flight 9
 - <a href="https://spacenews.com/fram2-completes-polar-orbit-private-astronaut-mission/" >🔗</a> **[SpaceNews]** Fram2 completes polar orbit private astronaut mission
-- <a href="https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-selects-finalist-teams-for-student-human-lander-challenge/" >🔗</a> **[NASA]** NASA Selects Finalist Teams for Student Human Lander Challenge
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250405T150112">2025-04-05 15:01:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250405T153132">2025-04-05 15:31:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
