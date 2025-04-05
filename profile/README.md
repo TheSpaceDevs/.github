@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/04/05/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacenews.com/nasa-seeks-proposals-for-two-private-astronaut-missions-to-iss/" >🔗</a> **[SpaceNews]** NASA seeks proposals for two private astronaut missions to ISS
 - <a href="https://spacenews.com/space-companies-swept-up-in-far-reaching-trade-war/" >🔗</a> **[SpaceNews]** Space companies swept up in far-reaching trade war
 - <a href="https://spacenews.com/spacex-ula-blue-origin-win-13-5-billion-in-u-s-military-launch-contracts-through-2029/" >🔗</a> **[SpaceNews]** SpaceX, ULA, Blue Origin win $13.5 billion in U.S. military launch contracts through 2029
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/fram2-completes-polar-orbit-private-astronaut-mission/" >🔗</a> **[SpaceNews]** Fram2 completes polar orbit private astronaut mission
 - <a href="https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-selects-finalist-teams-for-student-human-lander-challenge/" >🔗</a> **[NASA]** NASA Selects Finalist Teams for Student Human Lander Challenge
 - <a href="https://www.nasa.gov/news-release/news/" >🔗</a> **[NASA]** News
-- <a href="https://www.nasa.gov/missions/artemis/nasa-welcomes-gateway-lunar-space-stations-halo-module-to-us/" >🔗</a> **[NASA]** NASA Welcomes Gateway Lunar Space Station’s HALO Module to US
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250405T020709">2025-04-05 02:07:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250405T024859">2025-04-05 02:48:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
