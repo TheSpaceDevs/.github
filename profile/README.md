@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/04/esa-releases-first-set-of-euclid-images-and-data/" >🔗</a> **[NASASpaceflight]** ESA releases first set of Euclid images and data
 - <a href="https://tlpnetwork.com/news/policy-and-finance/portal-space-systems-raises-175m-to-launch-supernova-spacecraft-demo-in-2026" >🔗</a> **[The Launch Pad]** Portal Space Systems Raises $17.5M to Launch Supernova Solar Thermal Spacecraft Demo in 2026
 - <a href="https://tlpnetwork.com/news/policy-and-finance/spinlaunch-unveils-bold-plans-for-broadband-satellite-constellation" >🔗</a> **[The Launch Pad]** SpinLaunch Unveils Bold Plans for Broadband Satellite Constellation with €122.5 Million Contract
 - <a href="https://tlpnetwork.com/news/america/us-space-force-awards-137-billion-in-launch-contracts-to-spacex-ula-blue-origin" >🔗</a> **[The Launch Pad]** US Space Force Awards $13.7 Billion in Launch Contracts to SpaceX, ULA, and Blue Origin
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/04/05/u-s-space-force-awards-13-7-billion-in-new-national-security-launch-contracts-to-blue-origin-spacex-and-ula/" >🔗</a> **[Spaceflight Now]** U.S. Space Force awards $13.7 billion in new national security launch contracts to Blue Origin, SpaceX and ULA
 - <a href="https://spacepolicyonline.com/news/framonauts-splash-down-near-california/" >🔗</a> **[SpacePolicyOnline.com]** Framonauts Splash Down Near California
 - <a href="https://spaceflightnow.com/2025/04/05/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Cape Canaveral
-- <a href="https://spacenews.com/nasa-seeks-proposals-for-two-private-astronaut-missions-to-iss/" >🔗</a> **[SpaceNews]** NASA seeks proposals for two private astronaut missions to ISS
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250405T213121">2025-04-05 21:31:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250405T220129">2025-04-05 22:01:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
