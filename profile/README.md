@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/policy-and-finance/portal-space-systems-raises-175m-to-launch-supernova-spacecraft-demo-in-2026" >🔗</a> **[The Launch Pad]** Portal Space Systems Raises $17.5M to Launch Supernova Solar Thermal Spacecraft Demo in 2026
+- <a href="https://tlpnetwork.com/news/policy-and-finance/spinlaunch-unveils-bold-plans-for-broadband-satellite-constellation" >🔗</a> **[The Launch Pad]** SpinLaunch Unveils Bold Plans for Broadband Satellite Constellation with €122.5 Million Contract
+- <a href="https://tlpnetwork.com/news/america/us-space-force-awards-137-billion-in-launch-contracts-to-spacex-ula-blue-origin" >🔗</a> **[The Launch Pad]** US Space Force Awards $13.7 Billion in Launch Contracts to SpaceX, ULA, and Blue Origin
+- <a href="https://tlpnetwork.com/news/technology/vast-signs-agreement-with-nasa-for-haven-1-space-station-testing-ahead-of-2026-launch" >🔗</a> **[The Launch Pad]** Vast Signs Agreement with NASA for Haven-1 Space Station Testing Ahead of 2026 Launch
+- <a href="https://tlpnetwork.com/news/america/new-nasa-rule-to-allow-esa-jaxa-csa-astronauts-command-private-spaceflights" >🔗</a> **[The Launch Pad]** New NASA Rule To Allow ESA, JAXA, or CSA Astronauts Command Private Spaceflights
+- <a href="https://tlpnetwork.com/news/america/us-senate-committee-schedules-hearing-for-jared-isaacman-nasa-administrator-nomination" >🔗</a> **[The Launch Pad]** US Senate Committee Schedules Hearing for Jared Isaacman’s NASA Administrator Nomination
 - <a href="https://spaceflightnow.com/2025/04/05/u-s-space-force-awards-13-7-billion-in-new-national-security-launch-contracts-to-blue-origin-spacex-and-ula/" >🔗</a> **[Spaceflight Now]** U.S. Space Force awards $13.7 billion in new national security launch contracts to Blue Origin, SpaceX and ULA
 - <a href="https://spacepolicyonline.com/news/framonauts-splash-down-near-california/" >🔗</a> **[SpacePolicyOnline.com]** Framonauts Splash Down Near California
 - <a href="https://spaceflightnow.com/2025/04/05/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacenews.com/nasa-seeks-proposals-for-two-private-astronaut-missions-to-iss/" >🔗</a> **[SpaceNews]** NASA seeks proposals for two private astronaut missions to ISS
-- <a href="https://spacenews.com/space-companies-swept-up-in-far-reaching-trade-war/" >🔗</a> **[SpaceNews]** Space companies swept up in far-reaching trade war
-- <a href="https://spacenews.com/spacex-ula-blue-origin-win-13-5-billion-in-u-s-military-launch-contracts-through-2029/" >🔗</a> **[SpaceNews]** SpaceX, ULA, Blue Origin win $13.5 billion in U.S. military launch contracts through 2029
-- <a href="https://www.nasa.gov/news-release/nasa-leaders-to-participate-in-2025-space-symposium-in-colorado/" >🔗</a> **[NASA]** NASA Leaders to Participate in 2025 Space Symposium in Colorado
-- <a href="https://www.nasa.gov/image-article/nasa-astronaut-jonny-kim/" >🔗</a> **[NASA]** NASA Astronaut Jonny Kim
-- <a href="https://www.nasaspaceflight.com/2025/04/booster-14-flight-9/" >🔗</a> **[NASASpaceflight]** Booster 14 Completes Milestone Static Fire Ahead of Flight 9
-- <a href="https://spacenews.com/fram2-completes-polar-orbit-private-astronaut-mission/" >🔗</a> **[SpaceNews]** Fram2 completes polar orbit private astronaut mission
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250405T180128">2025-04-05 18:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250405T183523">2025-04-05 18:35:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
