@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-april-6-12-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy April 6-12, 2025
 - <a href="https://spacenews.com/aetherflux-raises-50-million-for-space-based-solar-power/" >🔗</a> **[SpaceNews]** Aetherflux raises $50 million for space-based solar power
 - <a href="https://spacenews.com/missile-defense-agency-opens-door-to-commercial-firms-for-golden-dome-project/" >🔗</a> **[SpaceNews]** Missile Defense Agency opens door to commercial firms for “Golden Dome” project
 - <a href="https://spaceflightnow.com/2025/04/06/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 27 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/technology/vast-signs-agreement-with-nasa-for-haven-1-space-station-testing-ahead-of-2026-launch" >🔗</a> **[The Launch Pad]** Vast Signs Agreement with NASA for Haven-1 Space Station Testing Ahead of 2026 Launch
 - <a href="https://tlpnetwork.com/news/america/us-space-force-awards-137-billion-in-launch-contracts-to-spacex-ula-blue-origin" >🔗</a> **[The Launch Pad]** US Space Force Awards $13.7 Billion in Launch Contracts to SpaceX, ULA, and Blue Origin
 - <a href="https://tlpnetwork.com/news/america/new-nasa-rule-to-allow-esa-jaxa-csa-astronauts-command-private-spaceflights" >🔗</a> **[The Launch Pad]** New NASA Rule To Allow ESA, JAXA, or CSA Astronauts Command Private Spaceflights
-- <a href="https://tlpnetwork.com/news/america/us-senate-committee-schedules-hearing-for-jared-isaacman-nasa-administrator-nomination" >🔗</a> **[The Launch Pad]** US Senate Committee Schedules Hearing for Jared Isaacman’s NASA Administrator Nomination
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250406T210124">2025-04-06 21:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250406T213118">2025-04-06 21:31:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
