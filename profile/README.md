@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/axiom-space-to-launch-orbital-data-centers-on-kepler-satellites/" >🔗</a> **[SpaceNews]** Axiom Space to launch orbital data centers on Kepler satellites
+- <a href="https://spacenews.com/fibertek-celebrates-2-trillionth-laser-pulse-on-nasas-icesat-2-mission/" >🔗</a> **[SpaceNews]** Fibertek Celebrates 2 Trillionth Laser Pulse on NASA’s ICESat-2 Mission
 - <a href="https://www.nasa.gov/news-release/nasa-to-stream-nomination-hearing-for-next-agency-administrator/" >🔗</a> **[NASA]** NASA+ to Stream Nomination Hearing for Next Agency Administrator
 - <a href="https://spacenews.com/space-force-missile-tracking-foo-fighter-satellites-clear-design-milestone/" >🔗</a> **[SpaceNews]** Space Force missile-tracking “Foo Fighter” satellites clear design milestone
 - <a href="https://spacenews.com/olsen-targets-us-space-boom-with-new-florida-office/" >🔗</a> **[SpaceNews]** Olsen targets US space boom with new Florida office
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/leolabs-unveils-mobile-radar-for-space-surveillance/" >🔗</a> **[SpaceNews]** LeoLabs unveils mobile radar for space surveillance
 - <a href="https://spacenews.com/europe-pursues-strategic-autonomy-amidst-geopolitical-shifts/" >🔗</a> **[SpaceNews]** Europe pursues ‘strategic autonomy’ amidst geopolitical shifts
 - <a href="https://spacenews.com/space-has-a-communications-problem/" >🔗</a> **[SpaceNews]** Space has a communications problem
-- <a href="https://spacenews.com/potential-nasa-earth-science-cuts-highlight-budget-uncertainty/" >🔗</a> **[SpaceNews]** Potential NASA Earth science cuts highlight budget uncertainty
-- <a href="https://europeanspaceflight.com/pld-space-to-launch-d-orbit-missions-aboard-miura-5/" >🔗</a> **[European Spaceflight]** PLD Space to Launch D-Orbit Missions Aboard Miura 5
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250407T160127">2025-04-07 16:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250407T163648">2025-04-07 16:36:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
