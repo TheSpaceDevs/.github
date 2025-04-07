@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/where-skyhopper-fits-into-arianegroups-reusability-efforts/" >🔗</a> **[European Spaceflight]** Where SkyHopper Fits into ArianeGroup’s Reusability Efforts
 - <a href="https://spacenews.com/perfecting-payloads-raytheon-uses-digital-engineering-to-unlock-the-next-generation-of-remote-sensing/" >🔗</a> **[SpaceNews]** Perfecting Payloads: Raytheon Uses Digital Engineering to Unlock the Next Generation of Remote Sensing
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-april-6-12-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy April 6-12, 2025
 - <a href="https://spacenews.com/aetherflux-raises-50-million-for-space-based-solar-power/" >🔗</a> **[SpaceNews]** Aetherflux raises $50 million for space-based solar power
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/policy-and-finance/portal-space-systems-raises-175m-to-launch-supernova-spacecraft-demo-in-2026" >🔗</a> **[The Launch Pad]** Portal Space Systems Raises $17.5M to Launch Supernova Solar Thermal Spacecraft Demo in 2026
 - <a href="https://tlpnetwork.com/news/policy-and-finance/spinlaunch-unveils-bold-plans-for-broadband-satellite-constellation" >🔗</a> **[The Launch Pad]** SpinLaunch Unveils Bold Plans for Broadband Satellite Constellation with €122.5 Million Contract
 - <a href="https://tlpnetwork.com/news/technology/vast-signs-agreement-with-nasa-for-haven-1-space-station-testing-ahead-of-2026-launch" >🔗</a> **[The Launch Pad]** Vast Signs Agreement with NASA for Haven-1 Space Station Testing Ahead of 2026 Launch
-- <a href="https://tlpnetwork.com/news/america/us-space-force-awards-137-billion-in-launch-contracts-to-spacex-ula-blue-origin" >🔗</a> **[The Launch Pad]** US Space Force Awards $13.7 Billion in Launch Contracts to SpaceX, ULA, and Blue Origin
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250407T060156">2025-04-07 06:01:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250407T063832">2025-04-07 06:38:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
