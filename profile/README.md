@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-reassigns-gps-satellite-launch-from-ula-to-spacex/" >🔗</a> **[SpaceNews]** Space Force reassigns GPS satellite launch from ULA to SpaceX
+- <a href="https://science.nasa.gov/blog/sols-4500-4501-bedrock-with-a-side-of-sand/" >🔗</a> **[NASA]** Sols 4500-4501: Bedrock With a Side of Sand
 - <a href="https://www.nasa.gov/centers-and-facilities/white-sands/from-first-robotics-to-nasa-rockets-angel-saenzs-journey-to-white-sands/" >🔗</a> **[NASA]** From FIRST Robotics to NASA Rockets: Angel Saenz’s Journey to White Sands
 - <a href="https://www.nasa.gov/image-article/gateways-first-habitation-module-arrives-stateside/" >🔗</a> **[NASA]** Gateway’s First Habitation Module Arrives Stateside
 - <a href="https://spacenews.com/axiom-space-to-launch-orbital-data-centers-on-kepler-satellites/" >🔗</a> **[SpaceNews]** Axiom Space to launch orbital data centers on Kepler satellites
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/space-force-missile-tracking-foo-fighter-satellites-clear-design-milestone/" >🔗</a> **[SpaceNews]** Space Force missile-tracking “Foo Fighter” satellites clear design milestone
 - <a href="https://spacenews.com/olsen-targets-us-space-boom-with-new-florida-office/" >🔗</a> **[SpaceNews]** Olsen targets US space boom with new Florida office
 - <a href="https://spacenews.com/space-based-solar-power-is-becoming-reality-but-the-u-s-needs-to-help/" >🔗</a> **[SpaceNews]** Space-based solar power is becoming reality — but the U.S. needs to help
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/back-to-earth-forward-to-the-future-nasas-spacex-crew-9-returns/" >🔗</a> **[NASA]** Back to Earth, Forward to the Future: NASA’s SpaceX Crew-9 Returns
-- <a href="https://spacenews.com/leolabs-unveils-mobile-radar-for-space-surveillance/" >🔗</a> **[SpaceNews]** LeoLabs unveils mobile radar for space surveillance
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250407T190118">2025-04-07 19:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250407T193109">2025-04-07 19:31:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
