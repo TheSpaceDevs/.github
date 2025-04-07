@@ -48,7 +48,7 @@ into *a Low Earth Orbit
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250407T213500">2025-04-07 21:35:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-11&location=Vandenberg SFB, CA, USA&dates=20250407T213500Z%2F20250408T013500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-11** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250408T054715">2025-04-08 05:47:15 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Soyuz MS-27&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20250408T054715Z%2F20250408T054715Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Soyuz MS-27** from Baikonur Cosmodrome, Republic of Kazakhstan.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250409T160000">2025-04-09 16:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 551 | Project Kuiper (KA-01)&location=Cape Canaveral SFS, FL, USA&dates=20250409T160000Z%2F20250409T190000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 551 | Project Kuiper (KA-01)** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250409T230000">2025-04-09 23:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 551 | Project Kuiper (KA-01)&location=Cape Canaveral SFS, FL, USA&dates=20250409T230000Z%2F20250410T010000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 551 | Project Kuiper (KA-01)** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250411T014300">2025-04-11 01:43:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-17&location=Kennedy Space Center, FL, USA&dates=20250411T014300Z%2F20250411T061400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-17** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250412T121700">2025-04-12 12:17:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | NROL-192&location=Vandenberg SFB, CA, USA&dates=20250412T121700Z%2F20250412T164600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | NROL-192** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250414T015900">2025-04-14 01:59:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-73&location=Cape Canaveral SFS, FL, USA&dates=20250414T015900Z%2F20250414T063000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-73** from Cape Canaveral SFS, FL, USA.
@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-to-stream-nomination-hearing-for-next-agency-administrator/" >🔗</a> **[NASA]** NASA+ to Stream Nomination Hearing for Next Agency Administrator
+- <a href="https://spacenews.com/space-force-missile-tracking-foo-fighter-satellites-clear-design-milestone/" >🔗</a> **[SpaceNews]** Space Force missile-tracking “Foo Fighter” satellites clear design milestone
+- <a href="https://spacenews.com/olsen-targets-us-space-boom-with-new-florida-office/" >🔗</a> **[SpaceNews]** Olsen targets US space boom with new Florida office
+- <a href="https://spacenews.com/space-based-solar-power-is-becoming-reality-but-the-u-s-needs-to-help/" >🔗</a> **[SpaceNews]** Space-based solar power is becoming reality — but the U.S. needs to help
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/back-to-earth-forward-to-the-future-nasas-spacex-crew-9-returns/" >🔗</a> **[NASA]** Back to Earth, Forward to the Future: NASA’s SpaceX Crew-9 Returns
 - <a href="https://spacenews.com/leolabs-unveils-mobile-radar-for-space-surveillance/" >🔗</a> **[SpaceNews]** LeoLabs unveils mobile radar for space surveillance
-- <a href="https://spacenews.com/space-has-a-communications-problem/" >🔗</a> **[SpaceNews]** Space has a communications problem
 - <a href="https://spacenews.com/europe-pursues-strategic-autonomy-amidst-geopolitical-shifts/" >🔗</a> **[SpaceNews]** Europe pursues ‘strategic autonomy’ amidst geopolitical shifts
+- <a href="https://spacenews.com/space-has-a-communications-problem/" >🔗</a> **[SpaceNews]** Space has a communications problem
 - <a href="https://spacenews.com/potential-nasa-earth-science-cuts-highlight-budget-uncertainty/" >🔗</a> **[SpaceNews]** Potential NASA Earth science cuts highlight budget uncertainty
 - <a href="https://europeanspaceflight.com/pld-space-to-launch-d-orbit-missions-aboard-miura-5/" >🔗</a> **[European Spaceflight]** PLD Space to Launch D-Orbit Missions Aboard Miura 5
-- <a href="https://spacenews.com/chinas-megaconstellation-launches-could-litter-orbit-for-more-than-a-century-analysts-warn/" >🔗</a> **[SpaceNews]** China’s megaconstellation launches could litter orbit for more than a century, analysts warn
-- <a href="https://www.esa.int/About_Us/Business_with_ESA/ESA_shares_space_proposals_with_industry" >🔗</a> **[ESA]** ESA shares space proposals with industry
-- <a href="https://europeanspaceflight.com/where-skyhopper-fits-into-arianegroups-reusability-efforts/" >🔗</a> **[European Spaceflight]** Where SkyHopper Fits into ArianeGroup’s Reusability Efforts
-- <a href="https://spacenews.com/perfecting-payloads-raytheon-uses-digital-engineering-to-unlock-the-next-generation-of-remote-sensing/" >🔗</a> **[SpaceNews]** Perfecting Payloads: Raytheon Uses Digital Engineering to Unlock the Next Generation of Remote Sensing
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-april-6-12-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy April 6-12, 2025
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250407T150124">2025-04-07 15:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250407T153415">2025-04-07 15:34:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
