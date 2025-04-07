@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/white-sands/from-first-robotics-to-nasa-rockets-angel-saenzs-journey-to-white-sands/" >🔗</a> **[NASA]** From FIRST Robotics to NASA Rockets: Angel Saenz’s Journey to White Sands
 - <a href="https://www.nasa.gov/image-article/gateways-first-habitation-module-arrives-stateside/" >🔗</a> **[NASA]** Gateway’s First Habitation Module Arrives Stateside
 - <a href="https://spacenews.com/axiom-space-to-launch-orbital-data-centers-on-kepler-satellites/" >🔗</a> **[SpaceNews]** Axiom Space to launch orbital data centers on Kepler satellites
 - <a href="https://spacenews.com/fibertek-celebrates-2-trillionth-laser-pulse-on-nasas-icesat-2-mission/" >🔗</a> **[SpaceNews]** Fibertek Celebrates 2 Trillionth Laser Pulse on NASA’s ICESat-2 Mission
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/space-based-solar-power-is-becoming-reality-but-the-u-s-needs-to-help/" >🔗</a> **[SpaceNews]** Space-based solar power is becoming reality — but the U.S. needs to help
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/back-to-earth-forward-to-the-future-nasas-spacex-crew-9-returns/" >🔗</a> **[NASA]** Back to Earth, Forward to the Future: NASA’s SpaceX Crew-9 Returns
 - <a href="https://spacenews.com/leolabs-unveils-mobile-radar-for-space-surveillance/" >🔗</a> **[SpaceNews]** LeoLabs unveils mobile radar for space surveillance
-- <a href="https://spacenews.com/europe-pursues-strategic-autonomy-amidst-geopolitical-shifts/" >🔗</a> **[SpaceNews]** Europe pursues ‘strategic autonomy’ amidst geopolitical shifts
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250407T180133">2025-04-07 18:01:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250407T183720">2025-04-07 18:37:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
