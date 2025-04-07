@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/potential-nasa-earth-science-cuts-highlight-budget-uncertainty/" >🔗</a> **[SpaceNews]** Potential NASA Earth science cuts highlight budget uncertainty
+- <a href="https://europeanspaceflight.com/pld-space-to-launch-d-orbit-missions-aboard-miura-5/" >🔗</a> **[European Spaceflight]** PLD Space to Launch D-Orbit Missions Aboard Miura 5
+- <a href="https://spacenews.com/chinas-megaconstellation-launches-could-litter-orbit-for-more-than-a-century-analysts-warn/" >🔗</a> **[SpaceNews]** China’s megaconstellation launches could litter orbit for more than a century, analysts warn
 - <a href="https://www.esa.int/About_Us/Business_with_ESA/ESA_shares_space_proposals_with_industry" >🔗</a> **[ESA]** ESA shares space proposals with industry
 - <a href="https://europeanspaceflight.com/where-skyhopper-fits-into-arianegroups-reusability-efforts/" >🔗</a> **[European Spaceflight]** Where SkyHopper Fits into ArianeGroup’s Reusability Efforts
 - <a href="https://spacenews.com/perfecting-payloads-raytheon-uses-digital-engineering-to-unlock-the-next-generation-of-remote-sensing/" >🔗</a> **[SpaceNews]** Perfecting Payloads: Raytheon Uses Digital Engineering to Unlock the Next Generation of Remote Sensing
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/aetherflux-raises-50-million-for-space-based-solar-power/" >🔗</a> **[SpaceNews]** Aetherflux raises $50 million for space-based solar power
 - <a href="https://spacenews.com/missile-defense-agency-opens-door-to-commercial-firms-for-golden-dome-project/" >🔗</a> **[SpaceNews]** Missile Defense Agency opens door to commercial firms for “Golden Dome” project
 - <a href="https://spaceflightnow.com/2025/04/06/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 27 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
-- <a href="https://www.nasaspaceflight.com/2025/04/esa-releases-first-set-of-euclid-images-and-data/" >🔗</a> **[NASASpaceflight]** ESA releases first set of Euclid images and data
-- <a href="https://tlpnetwork.com/news/policy-and-finance/portal-space-systems-raises-175m-to-launch-supernova-spacecraft-demo-in-2026" >🔗</a> **[The Launch Pad]** Portal Space Systems Raises $17.5M to Launch Supernova Solar Thermal Spacecraft Demo in 2026
-- <a href="https://tlpnetwork.com/news/policy-and-finance/spinlaunch-unveils-bold-plans-for-broadband-satellite-constellation" >🔗</a> **[The Launch Pad]** SpinLaunch Unveils Bold Plans for Broadband Satellite Constellation with €122.5 Million Contract
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250407T113104">2025-04-07 11:31:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250407T120158">2025-04-07 12:01:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
