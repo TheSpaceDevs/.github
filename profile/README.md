@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/caroline-cawthon-supporting-americas-future-in-low-earth-orbit/" >🔗</a> **[NASA]** Caroline Cawthon: Supporting America’s Future in Low Earth Orbit
+- <a href="https://www.nasa.gov/news-release/nasa-selects-goddard-safety-and-mission-assurance-contractor/" >🔗</a> **[NASA]** NASA Selects Goddard Safety and Mission Assurance Contractor
+- <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-tech-developed-for-home-health-monitoring/" >🔗</a> **[NASA]** NASA Tech Developed for Home Health Monitoring
+- <a href="https://science.nasa.gov/blog/sols-4502-4504-sneaking-past-devils-gate/" >🔗</a> **[NASA]** Sols 4502-4504: Sneaking Past Devil’s Gate
+- <a href="https://science.nasa.gov/learning-resources/science-activation/connected-learning-ecosystems-educators-gather-to-empower-learners-and-themselves/" >🔗</a> **[NASA]** Connected Learning Ecosystems: Educators Gather to Empower Learners and Themselves
 - <a href="https://spacenews.com/space-force-reassigns-gps-satellite-launch-from-ula-to-spacex/" >🔗</a> **[SpaceNews]** Space Force reassigns GPS satellite launch from ULA to SpaceX
 - <a href="https://science.nasa.gov/blog/sols-4500-4501-bedrock-with-a-side-of-sand/" >🔗</a> **[NASA]** Sols 4500-4501: Bedrock With a Side of Sand
 - <a href="https://www.nasa.gov/centers-and-facilities/white-sands/from-first-robotics-to-nasa-rockets-angel-saenzs-journey-to-white-sands/" >🔗</a> **[NASA]** From FIRST Robotics to NASA Rockets: Angel Saenz’s Journey to White Sands
 - <a href="https://www.nasa.gov/image-article/gateways-first-habitation-module-arrives-stateside/" >🔗</a> **[NASA]** Gateway’s First Habitation Module Arrives Stateside
 - <a href="https://spacenews.com/axiom-space-to-launch-orbital-data-centers-on-kepler-satellites/" >🔗</a> **[SpaceNews]** Axiom Space to launch orbital data centers on Kepler satellites
-- <a href="https://spacenews.com/fibertek-celebrates-2-trillionth-laser-pulse-on-nasas-icesat-2-mission/" >🔗</a> **[SpaceNews]** Fibertek Celebrates 2 Trillionth Laser Pulse on NASA’s ICESat-2 Mission
-- <a href="https://www.nasa.gov/news-release/nasa-to-stream-nomination-hearing-for-next-agency-administrator/" >🔗</a> **[NASA]** NASA+ to Stream Nomination Hearing for Next Agency Administrator
-- <a href="https://spacenews.com/space-force-missile-tracking-foo-fighter-satellites-clear-design-milestone/" >🔗</a> **[SpaceNews]** Space Force missile-tracking “Foo Fighter” satellites clear design milestone
-- <a href="https://spacenews.com/olsen-targets-us-space-boom-with-new-florida-office/" >🔗</a> **[SpaceNews]** Olsen targets US space boom with new Florida office
-- <a href="https://spacenews.com/space-based-solar-power-is-becoming-reality-but-the-u-s-needs-to-help/" >🔗</a> **[SpaceNews]** Space-based solar power is becoming reality — but the U.S. needs to help
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250407T200134">2025-04-07 20:01:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250407T203353">2025-04-07 20:33:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
