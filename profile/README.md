@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blog/sols-4505-4506-up-up-and-onto-the-devils-gate/" >🔗</a> **[NASA]** Sols 4505-4506: Up, up and onto the Devil’s Gate
 - <a href="https://tlpnetwork.com/news/america/axiom-space-to-launch-orbital-ai-data-centers-on-kepler-satellites-in-2025" >🔗</a> **[The Launch Pad]** Axiom Space to Launch Orbital AI Data Centers on Kepler Satellites in 2025
 - <a href="https://spacepolicyonline.com/news/new-international-crew-arrives-at-iss-on-soyuz-ms-27/" >🔗</a> **[SpacePolicyOnline.com]** New International Crew Arrives at ISS on Soyuz MS-27
 - <a href="https://www.nasaspaceflight.com/2025/04/launch-roundup-040825/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Project Kuiper becomes operational; Falcon 9 to launch three missions
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/america/intuitive-machines-selects-spacex-to-launch-im-4-lunar-mission" >🔗</a> **[The Launch Pad]** Intuitive Machines Selects SpaceX to Launch IM-4 Lunar Lander and Data Relay Satellites
 - <a href="https://spacenews.com/signals-from-space-symposium-the-future-for-space-looks-bright-and-fragile/" >🔗</a> **[SpaceNews]** Signals from Space Symposium: The future for space looks bright — and fragile
 - <a href="https://spacenews.com/astroscale-u-s-to-refuel-two-space-force-spacecraft-on-2026-mission/" >🔗</a> **[SpaceNews]** Astroscale U.S. to refuel two Space Force spacecraft on 2026 mission
-- <a href="https://www.nasa.gov/general/welcome-to-msd/" >🔗</a> **[NASA]** Welcome to MSD
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250408T230123">2025-04-08 23:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250408T233143">2025-04-08 23:31:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
