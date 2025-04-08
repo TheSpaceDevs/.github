@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-welcomes-bangladesh-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Bangladesh as Newest Artemis Accords Signatory
 - <a href="https://arstechnica.com/space/2025/04/tuesday-telescope-the-heart-of-the-galaxy-revealed-in-two-kinds-of-light/" >🔗</a> **[Arstechnica]** Tuesday Telescope: The heart of the galaxy revealed in two kinds of light
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-crewmates-arrive-safely-at-space-station/" >🔗</a> **[NASA]** NASA Astronaut, Crewmates Arrive Safely at Space Station
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/Smile_meets_Maxwell" >🔗</a> **[ESA]** Smile meets Maxwell
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/04/08/spacex-to-launch-second-accelerated-gps-3-satellite-mission-in-late-may/" >🔗</a> **[Spaceflight Now]** SpaceX to launch second accelerated GPS 3 satellite mission in late May
 - <a href="https://www.nasaspaceflight.com/2025/04/soyuz-ms-27-launch/" >🔗</a> **[NASASpaceflight]** Soyuz MS-27 to launch three new crew members to ISS
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/caroline-cawthon-supporting-americas-future-in-low-earth-orbit/" >🔗</a> **[NASA]** Caroline Cawthon: Supporting America’s Future in Low Earth Orbit
-- <a href="https://www.nasa.gov/news-release/nasa-selects-goddard-safety-and-mission-assurance-contractor/" >🔗</a> **[NASA]** NASA Selects Goddard Safety and Mission Assurance Contractor
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250408T120212">2025-04-08 12:02:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250408T124308">2025-04-08 12:43:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
