@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/lunar-lander-operators-cite-growing-demand-beyond-nasa/" >🔗</a> **[SpaceNews]** Lunar lander operators cite  growing demand beyond NASA
+- <a href="https://spacenews.com/rtxs-blue-canyon-technologies-introduces-new-reaction-wheel/" >🔗</a> **[SpaceNews]** RTX’s Blue Canyon Technologies introduces new reaction wheel
+- <a href="https://spacenews.com/gomspace-and-neuraspace-partner-to-advance-satellite-collision-avoidance/" >🔗</a> **[SpaceNews]** GomSpace and Neuraspace partner to advance satellite collision avoidance
 - <a href="https://www.nasa.gov/news-release/nasa-to-kick-off-31st-annual-rover-competition/" >🔗</a> **[NASA]** NASA to Kick Off 31st Annual Rover Competition
 - <a href="https://spacenews.com/spacex-secures-majority-of-nssl-phase-3-fiscal-year-2025-missions/" >🔗</a> **[SpaceNews]** SpaceX secures majority of NSSL Phase 3 fiscal year 2025 missions
 - <a href="https://spacenews.com/how-space-systems-command-is-navigating-change/" >🔗</a> **[SpaceNews]** How Space Systems Command is navigating change
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/MetOp_Second_Generation/Weather_climate_and_air_quality_missions_on_display" >🔗</a> **[ESA]** Weather, climate and air quality missions on display
 - <a href="https://spacenews.com/to-build-new-weather-satellite-instruments-l3harris-opts-for-automated-manufacturing/" >🔗</a> **[SpaceNews]** To build new weather satellite instruments, L3Harris opts for automated manufacturing
 - <a href="https://www.nasa.gov/news-release/nasa-welcomes-bangladesh-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Bangladesh as Newest Artemis Accords Signatory
-- <a href="https://spacenews.com/nasa-developing-options-for-agency-restructuring-in-unsettling-environment/" >🔗</a> **[SpaceNews]** NASA developing options for agency restructuring in “unsettling” environment
-- <a href="https://spacenews.com/space-force-to-revamp-training-for-a-new-era-of-space-conflict/" >🔗</a> **[SpaceNews]** Space Force to revamp training for a new era of space conflict
-- <a href="https://arstechnica.com/space/2025/04/tuesday-telescope-the-heart-of-the-galaxy-revealed-in-two-kinds-of-light/" >🔗</a> **[Arstechnica]** Tuesday Telescope: The heart of the galaxy revealed in two kinds of light
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250408T140130">2025-04-08 14:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250408T143553">2025-04-08 14:35:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
