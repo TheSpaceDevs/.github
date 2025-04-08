@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/industry-eyes-continuous-satellite-production-to-keep-pace-with-demand/" >🔗</a> **[SpaceNews]** Industry eyes continuous satellite production to keep pace with demand
+- <a href="https://www.nasa.gov/image-article/sixty-years-in-canberra-nasas-deep-space-network/" >🔗</a> **[NASA]** Sixty Years in Canberra: NASA’s Deep Space Network
 - <a href="https://spacenews.com/u-s-space-command-chief-calls-for-new-capabilities-for-combat-while-emphasizing-deterrence/" >🔗</a> **[SpaceNews]** U.S. Space Command chief calls for new capabilities for combat while emphasizing deterrence
 - <a href="https://science.nasa.gov/learning-resources/science-activation/findings-from-the-field-a-research-symposium-for-student-scientists/" >🔗</a> **[NASA]** Findings from the Field: A Research Symposium for Student Scientists
 - <a href="https://www.nasa.gov/missions/artemis/nasas-first-flight-with-crew-important-step-on-long-term-return-to-the-moon-missions-to-mars/" >🔗</a> **[NASA]** NASA’s First Flight With Crew Important Step on Long-term Return to the Moon, Missions to Mars
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-to-answer-questions-from-students-in-florida/" >🔗</a> **[NASA]** NASA Astronaut to Answer Questions from Students in Florida
 - <a href="https://science.nasa.gov/science-research/heliophysics/eclipses-science-nasa-firsts-heliophysics-big-year-highlights/" >🔗</a> **[NASA]** Eclipses, Science, NASA Firsts: Heliophysics Big Year Highlights
 - <a href="https://spacenews.com/space-nuclear-power-at-a-crossroads-as-industry-pushes-for-steady-investment/" >🔗</a> **[SpaceNews]** Space nuclear power poised for breakthroughs — if NASA and DoD stay committed
-- <a href="https://spacenews.com/gitai-creates-us-defense-subsidiary-to-chase-prime-government-contracts/" >🔗</a> **[SpaceNews]** GITAI creates US defense subsidiary to chase prime government contracts
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/meet-alex-olley-air-force-veteran-powering-the-space-station/" >🔗</a> **[NASA]** Meet Alex Olley: Air Force Veteran Powering the Space Station
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250408T193104">2025-04-08 19:31:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250408T200123">2025-04-08 20:01:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
