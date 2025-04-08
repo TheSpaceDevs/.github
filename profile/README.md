@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/Smile_meets_Maxwell" >🔗</a> **[ESA]** Smile meets Maxwell
 - <a href="https://europeanspaceflight.com/latitude-completes-hot-fire-test-of-flight-ready-combustion-chamber/" >🔗</a> **[European Spaceflight]** Latitude Completes Hot Fire Test of Flight-Ready Combustion Chamber
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/Moon_tools_to_the_test_at_LUNA" >🔗</a> **[ESA]** Moon tools to the test at LUNA
 - <a href="https://spacepolicyonline.com/news/cruz-isaacman-commits-to-moon-then-mars/" >🔗</a> **[SpacePolicyOnline.com]** Cruz: Isaacman Commits to Moon, Then Mars
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-selects-goddard-safety-and-mission-assurance-contractor/" >🔗</a> **[NASA]** NASA Selects Goddard Safety and Mission Assurance Contractor
 - <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-tech-developed-for-home-health-monitoring/" >🔗</a> **[NASA]** NASA Tech Developed for Home Health Monitoring
 - <a href="https://science.nasa.gov/blog/sols-4502-4504-sneaking-past-devils-gate/" >🔗</a> **[NASA]** Sols 4502-4504: Sneaking Past Devil’s Gate
-- <a href="https://science.nasa.gov/learning-resources/science-activation/connected-learning-ecosystems-educators-gather-to-empower-learners-and-themselves/" >🔗</a> **[NASA]** Connected Learning Ecosystems: Educators Gather to Empower Learners and Themselves
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250408T080146">2025-04-08 08:01:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250408T083649">2025-04-08 08:36:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
