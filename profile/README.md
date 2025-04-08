@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-to-kick-off-31st-annual-rover-competition/" >🔗</a> **[NASA]** NASA to Kick Off 31st Annual Rover Competition
+- <a href="https://spacenews.com/spacex-secures-majority-of-nssl-phase-3-fiscal-year-2025-missions/" >🔗</a> **[SpaceNews]** SpaceX secures majority of NSSL Phase 3 fiscal year 2025 missions
+- <a href="https://spacenews.com/how-space-systems-command-is-navigating-change/" >🔗</a> **[SpaceNews]** How Space Systems Command is navigating change
+- <a href="https://spacenews.com/umbra-to-develop-maritime-surveillance-satellites-for-u-s-military/" >🔗</a> **[SpaceNews]** Umbra to develop maritime surveillance satellites for U.S. military
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/MetOp_Second_Generation/Weather_climate_and_air_quality_missions_on_display" >🔗</a> **[ESA]** Weather, climate and air quality missions on display
+- <a href="https://spacenews.com/to-build-new-weather-satellite-instruments-l3harris-opts-for-automated-manufacturing/" >🔗</a> **[SpaceNews]** To build new weather satellite instruments, L3Harris opts for automated manufacturing
 - <a href="https://www.nasa.gov/news-release/nasa-welcomes-bangladesh-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Bangladesh as Newest Artemis Accords Signatory
+- <a href="https://spacenews.com/nasa-developing-options-for-agency-restructuring-in-unsettling-environment/" >🔗</a> **[SpaceNews]** NASA developing options for agency restructuring in “unsettling” environment
+- <a href="https://spacenews.com/space-force-to-revamp-training-for-a-new-era-of-space-conflict/" >🔗</a> **[SpaceNews]** Space Force to revamp training for a new era of space conflict
 - <a href="https://arstechnica.com/space/2025/04/tuesday-telescope-the-heart-of-the-galaxy-revealed-in-two-kinds-of-light/" >🔗</a> **[Arstechnica]** Tuesday Telescope: The heart of the galaxy revealed in two kinds of light
-- <a href="https://www.nasa.gov/news-release/nasa-astronaut-crewmates-arrive-safely-at-space-station/" >🔗</a> **[NASA]** NASA Astronaut, Crewmates Arrive Safely at Space Station
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/Smile_meets_Maxwell" >🔗</a> **[ESA]** Smile meets Maxwell
-- <a href="https://europeanspaceflight.com/latitude-completes-hot-fire-test-of-flight-ready-combustion-chamber/" >🔗</a> **[European Spaceflight]** Latitude Completes Hot Fire Test of Flight-Ready Combustion Chamber
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/Moon_tools_to_the_test_at_LUNA" >🔗</a> **[ESA]** Moon tools to the test at LUNA
-- <a href="https://spacepolicyonline.com/news/cruz-isaacman-commits-to-moon-then-mars/" >🔗</a> **[SpacePolicyOnline.com]** Cruz: Isaacman Commits to Moon, Then Mars
-- <a href="https://spaceflightnow.com/2025/04/08/spacex-to-launch-second-accelerated-gps-3-satellite-mission-in-late-may/" >🔗</a> **[Spaceflight Now]** SpaceX to launch second accelerated GPS 3 satellite mission in late May
-- <a href="https://www.nasaspaceflight.com/2025/04/soyuz-ms-27-launch/" >🔗</a> **[NASASpaceflight]** Soyuz MS-27 to launch three new crew members to ISS
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/caroline-cawthon-supporting-americas-future-in-low-earth-orbit/" >🔗</a> **[NASA]** Caroline Cawthon: Supporting America’s Future in Low Earth Orbit
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250408T130836">2025-04-08 13:08:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250408T133729">2025-04-08 13:37:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
