@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/artemis/nasas-first-flight-with-crew-important-step-on-long-term-return-to-the-moon-missions-to-mars/" >🔗</a> **[NASA]** NASA’s First Flight With Crew Important Step on Long-term Return to the Moon, Missions to Mars
+- <a href="https://www.nasa.gov/technology/space-comms/deep-space-network/nasas-deep-space-network-starts-new-dish-marks-60-years-in-australia/" >🔗</a> **[NASA]** NASA’s Deep Space Network Starts New Dish, Marks 60 Years in Australia
+- <a href="https://science.nasa.gov/science-research/earth-science/style-guidelines-for-the-earth-observer-newsletter/" >🔗</a> **[NASA]** Style Guidelines for ‘The Earth Observer’ Newsletter
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-to-answer-questions-from-students-in-florida/" >🔗</a> **[NASA]** NASA Astronaut to Answer Questions from Students in Florida
 - <a href="https://science.nasa.gov/science-research/heliophysics/eclipses-science-nasa-firsts-heliophysics-big-year-highlights/" >🔗</a> **[NASA]** Eclipses, Science, NASA Firsts: Heliophysics Big Year Highlights
 - <a href="https://spacenews.com/space-nuclear-power-at-a-crossroads-as-industry-pushes-for-steady-investment/" >🔗</a> **[SpaceNews]** Space nuclear power poised for breakthroughs — if NASA and DoD stay committed
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/meet-alex-olley-air-force-veteran-powering-the-space-station/" >🔗</a> **[NASA]** Meet Alex Olley: Air Force Veteran Powering the Space Station
 - <a href="https://spacenews.com/lunar-lander-operators-cite-growing-demand-beyond-nasa/" >🔗</a> **[SpaceNews]** Lunar lander operators cite  growing demand beyond NASA
 - <a href="https://spacenews.com/rtxs-blue-canyon-technologies-introduces-new-reaction-wheel/" >🔗</a> **[SpaceNews]** RTX’s Blue Canyon Technologies introduces new reaction wheel
-- <a href="https://spacenews.com/gomspace-and-neuraspace-partner-to-advance-satellite-collision-avoidance/" >🔗</a> **[SpaceNews]** GomSpace and Neuraspace partner to advance satellite collision avoidance
-- <a href="https://www.nasa.gov/news-release/nasa-to-kick-off-31st-annual-rover-competition/" >🔗</a> **[NASA]** NASA to Kick Off 31st Annual Rover Competition
-- <a href="https://spacenews.com/spacex-secures-majority-of-nssl-phase-3-fiscal-year-2025-missions/" >🔗</a> **[SpaceNews]** SpaceX secures majority of NSSL Phase 3 fiscal year 2025 missions
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250408T170125">2025-04-08 17:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250408T180136">2025-04-08 18:01:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
