@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/latitude-completes-hot-fire-test-of-flight-ready-combustion-chamber/" >🔗</a> **[European Spaceflight]** Latitude Completes Hot Fire Test of Flight-Ready Combustion Chamber
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/Moon_tools_to_the_test_at_LUNA" >🔗</a> **[ESA]** Moon tools to the test at LUNA
 - <a href="https://spacepolicyonline.com/news/cruz-isaacman-commits-to-moon-then-mars/" >🔗</a> **[SpacePolicyOnline.com]** Cruz: Isaacman Commits to Moon, Then Mars
 - <a href="https://spaceflightnow.com/2025/04/08/spacex-to-launch-second-accelerated-gps-3-satellite-mission-in-late-may/" >🔗</a> **[Spaceflight Now]** SpaceX to launch second accelerated GPS 3 satellite mission in late May
 - <a href="https://www.nasaspaceflight.com/2025/04/soyuz-ms-27-launch/" >🔗</a> **[NASASpaceflight]** Soyuz MS-27 to launch three new crew members to ISS
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-tech-developed-for-home-health-monitoring/" >🔗</a> **[NASA]** NASA Tech Developed for Home Health Monitoring
 - <a href="https://science.nasa.gov/blog/sols-4502-4504-sneaking-past-devils-gate/" >🔗</a> **[NASA]** Sols 4502-4504: Sneaking Past Devil’s Gate
 - <a href="https://science.nasa.gov/learning-resources/science-activation/connected-learning-ecosystems-educators-gather-to-empower-learners-and-themselves/" >🔗</a> **[NASA]** Connected Learning Ecosystems: Educators Gather to Empower Learners and Themselves
-- <a href="https://spacenews.com/space-force-reassigns-gps-satellite-launch-from-ula-to-spacex/" >🔗</a> **[SpaceNews]** Space Force reassigns GPS satellite launch from ULA to SpaceX
-- <a href="https://science.nasa.gov/blog/sols-4500-4501-bedrock-with-a-side-of-sand/" >🔗</a> **[NASA]** Sols 4500-4501: Bedrock With a Side of Sand
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250408T070132">2025-04-08 07:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250408T073216">2025-04-08 07:32:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
