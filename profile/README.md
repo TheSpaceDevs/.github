@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/04/08/spacex-to-launch-second-accelerated-gps-3-satellite-mission-in-late-may/" >🔗</a> **[Spaceflight Now]** SpaceX to launch second accelerated GPS 3 satellite mission in late May
 - <a href="https://www.nasaspaceflight.com/2025/04/soyuz-ms-27-launch/" >🔗</a> **[NASASpaceflight]** Soyuz MS-27 to launch three new crew members to ISS
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/caroline-cawthon-supporting-americas-future-in-low-earth-orbit/" >🔗</a> **[NASA]** Caroline Cawthon: Supporting America’s Future in Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-selects-goddard-safety-and-mission-assurance-contractor/" >🔗</a> **[NASA]** NASA Selects Goddard Safety and Mission Assurance Contractor
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/space-force-reassigns-gps-satellite-launch-from-ula-to-spacex/" >🔗</a> **[SpaceNews]** Space Force reassigns GPS satellite launch from ULA to SpaceX
 - <a href="https://science.nasa.gov/blog/sols-4500-4501-bedrock-with-a-side-of-sand/" >🔗</a> **[NASA]** Sols 4500-4501: Bedrock With a Side of Sand
 - <a href="https://www.nasa.gov/centers-and-facilities/white-sands/from-first-robotics-to-nasa-rockets-angel-saenzs-journey-to-white-sands/" >🔗</a> **[NASA]** From FIRST Robotics to NASA Rockets: Angel Saenz’s Journey to White Sands
-- <a href="https://www.nasa.gov/image-article/gateways-first-habitation-module-arrives-stateside/" >🔗</a> **[NASA]** Gateway’s First Habitation Module Arrives Stateside
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250408T004545">2025-04-08 00:45:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250408T012850">2025-04-08 01:28:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
