@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-astronaut-to-answer-questions-from-students-in-florida/" >🔗</a> **[NASA]** NASA Astronaut to Answer Questions from Students in Florida
+- <a href="https://spacenews.com/space-nuclear-power-at-a-crossroads-as-industry-pushes-for-steady-investment/" >🔗</a> **[SpaceNews]** Space nuclear power poised for breakthroughs — if NASA and DoD stay committed
+- <a href="https://spacenews.com/gitai-creates-us-defense-subsidiary-to-chase-prime-government-contracts/" >🔗</a> **[SpaceNews]** GITAI creates US defense subsidiary to chase prime government contracts
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/meet-alex-olley-air-force-veteran-powering-the-space-station/" >🔗</a> **[NASA]** Meet Alex Olley: Air Force Veteran Powering the Space Station
 - <a href="https://spacenews.com/lunar-lander-operators-cite-growing-demand-beyond-nasa/" >🔗</a> **[SpaceNews]** Lunar lander operators cite  growing demand beyond NASA
 - <a href="https://spacenews.com/rtxs-blue-canyon-technologies-introduces-new-reaction-wheel/" >🔗</a> **[SpaceNews]** RTX’s Blue Canyon Technologies introduces new reaction wheel
 - <a href="https://spacenews.com/gomspace-and-neuraspace-partner-to-advance-satellite-collision-avoidance/" >🔗</a> **[SpaceNews]** GomSpace and Neuraspace partner to advance satellite collision avoidance
 - <a href="https://www.nasa.gov/news-release/nasa-to-kick-off-31st-annual-rover-competition/" >🔗</a> **[NASA]** NASA to Kick Off 31st Annual Rover Competition
 - <a href="https://spacenews.com/spacex-secures-majority-of-nssl-phase-3-fiscal-year-2025-missions/" >🔗</a> **[SpaceNews]** SpaceX secures majority of NSSL Phase 3 fiscal year 2025 missions
 - <a href="https://spacenews.com/how-space-systems-command-is-navigating-change/" >🔗</a> **[SpaceNews]** How Space Systems Command is navigating change
-- <a href="https://spacenews.com/umbra-to-develop-maritime-surveillance-satellites-for-u-s-military/" >🔗</a> **[SpaceNews]** Umbra to develop maritime surveillance satellites for U.S. military
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/MetOp_Second_Generation/Weather_climate_and_air_quality_missions_on_display" >🔗</a> **[ESA]** Weather, climate and air quality missions on display
-- <a href="https://spacenews.com/to-build-new-weather-satellite-instruments-l3harris-opts-for-automated-manufacturing/" >🔗</a> **[SpaceNews]** To build new weather satellite instruments, L3Harris opts for automated manufacturing
-- <a href="https://www.nasa.gov/news-release/nasa-welcomes-bangladesh-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Bangladesh as Newest Artemis Accords Signatory
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250408T150135">2025-04-08 15:01:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250408T153506">2025-04-08 15:35:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
