@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/welcome-to-msd/" >🔗</a> **[NASA]** Welcome to MSD
 - <a href="https://spacenews.com/industry-eyes-continuous-satellite-production-to-keep-pace-with-demand/" >🔗</a> **[SpaceNews]** Industry eyes continuous satellite production to keep pace with demand
 - <a href="https://www.nasa.gov/image-article/sixty-years-in-canberra-nasas-deep-space-network/" >🔗</a> **[NASA]** Sixty Years in Canberra: NASA’s Deep Space Network
 - <a href="https://spacenews.com/u-s-space-command-chief-calls-for-new-capabilities-for-combat-while-emphasizing-deterrence/" >🔗</a> **[SpaceNews]** U.S. Space Command chief calls for new capabilities for combat while emphasizing deterrence
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/science-research/earth-science/style-guidelines-for-the-earth-observer-newsletter/" >🔗</a> **[NASA]** Style Guidelines for ‘The Earth Observer’ Newsletter
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-to-answer-questions-from-students-in-florida/" >🔗</a> **[NASA]** NASA Astronaut to Answer Questions from Students in Florida
 - <a href="https://science.nasa.gov/science-research/heliophysics/eclipses-science-nasa-firsts-heliophysics-big-year-highlights/" >🔗</a> **[NASA]** Eclipses, Science, NASA Firsts: Heliophysics Big Year Highlights
-- <a href="https://spacenews.com/space-nuclear-power-at-a-crossroads-as-industry-pushes-for-steady-investment/" >🔗</a> **[SpaceNews]** Space nuclear power poised for breakthroughs — if NASA and DoD stay committed
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250408T200123">2025-04-08 20:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250408T203400">2025-04-08 20:34:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
