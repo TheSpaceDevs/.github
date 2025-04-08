@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/04/tuesday-telescope-the-heart-of-the-galaxy-revealed-in-two-kinds-of-light/" >🔗</a> **[Arstechnica]** Tuesday Telescope: The heart of the galaxy revealed in two kinds of light
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-crewmates-arrive-safely-at-space-station/" >🔗</a> **[NASA]** NASA Astronaut, Crewmates Arrive Safely at Space Station
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/Smile_meets_Maxwell" >🔗</a> **[ESA]** Smile meets Maxwell
 - <a href="https://europeanspaceflight.com/latitude-completes-hot-fire-test-of-flight-ready-combustion-chamber/" >🔗</a> **[European Spaceflight]** Latitude Completes Hot Fire Test of Flight-Ready Combustion Chamber
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2025/04/soyuz-ms-27-launch/" >🔗</a> **[NASASpaceflight]** Soyuz MS-27 to launch three new crew members to ISS
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/caroline-cawthon-supporting-americas-future-in-low-earth-orbit/" >🔗</a> **[NASA]** Caroline Cawthon: Supporting America’s Future in Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-selects-goddard-safety-and-mission-assurance-contractor/" >🔗</a> **[NASA]** NASA Selects Goddard Safety and Mission Assurance Contractor
-- <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-tech-developed-for-home-health-monitoring/" >🔗</a> **[NASA]** NASA Tech Developed for Home Health Monitoring
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250408T110125">2025-04-08 11:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250408T113108">2025-04-08 11:31:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
