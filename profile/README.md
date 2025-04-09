@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/isaacman-says-nasa-should-pursue-human-moon-and-mars-programs-simultaneously/" >🔗</a> **[SpaceNews]** Isaacman says NASA should pursue human moon and Mars programs simultaneously
+- <a href="https://spacenews.com/defense-experts-warn-procurement-bottlenecks-risk-u-s-space-edge/" >🔗</a> **[SpaceNews]** Defense experts warn procurement bottlenecks risk U.S. space edge
 - <a href="https://spacenews.com/space-force-to-roll-out-strategy-for-international-collaboration/" >🔗</a> **[SpaceNews]** Space Force to roll out strategy for international collaboration
 - <a href="https://spacenews.com/surge-in-nato-spending-to-benefit-space-sector/" >🔗</a> **[SpaceNews]** Surge in NATO spending to benefit space sector
 - <a href="https://www.nasa.gov/people-of-nasa/goddard-people/mike-drury-a-40-year-legacy-of-precision/" >🔗</a> **[NASA]** Mike Drury: A 40-Year Legacy of Precision
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/04/09/live-coverage-ula-to-launch-27-amazon-project-kuiper-satellites-on-atlas-5-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: ULA to launch 27 Amazon Project Kuiper satellites on Atlas 5 rocket from Cape Canaveral
 - <a href="https://spacenews.com/china-to-seek-out-life-in-the-solar-system-as-nasa-faces-cuts-commercial-players-expand-ambitions/" >🔗</a> **[SpaceNews]** China to seek out life in the solar system as NASA faces cuts, commercial players expand ambitions
 - <a href="https://tlpnetwork.com/news/america/live-coverage-jared-isaacman-nasa-admin-confirmation-hearing" >🔗</a> **[The Launch Pad]** LIVE COVERAGE: Jared Isaacman NASA Admin Confirmation Hearing "We will not fail"
-- <a href="https://tlpnetwork.com/news/policy-and-finance/aetherflux-secures-50m-for-2026-space-solar-laser-power-demo" >🔗</a> **[The Launch Pad]** Aetherflux Secures $50M for 2026 Space Solar Laser Power Demo
-- <a href="https://tlpnetwork.com/news/europe/uk-olsen-actuators-to-open-cape-canaveral-office-amid-us-space-boom" >🔗</a> **[The Launch Pad]** UK Olsen Actuators to Open Cape Canaveral Office Amid US Space Boom
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250409T180136">2025-04-09 18:01:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250409T183806">2025-04-09 18:38:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
