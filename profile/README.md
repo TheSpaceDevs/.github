@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/qa-swissto12-ceo-emile-de-rijk-explains-why-he-thinks-the-market-is-shifting-his-way/" >🔗</a> **[SpaceNews]** Q&A: Swissto12 CEO Emile de Rijk explains why he thinks the market is shifting his way
 - <a href="https://spacenews.com/seeing-the-light-cubesats-share-optical-data/" >🔗</a> **[SpaceNews]** Seeing the light: Cubesats share optical data
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Martian_rock_on_the_move" >🔗</a> **[ESA]** Martian rock on the move
 - <a href="https://spacenews.com/how-to-accelerate-u-s-space-acquisition-and-outpace-threats/" >🔗</a> **[SpaceNews]** How to accelerate U.S. space acquisition and outpace threats
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/boeings-millennium-space-expands-production-to-meet-defense-demand/" >🔗</a> **[SpaceNews]** Boeing’s Millennium Space expands production to meet defense demand
 - <a href="https://science.nasa.gov/blog/sols-4505-4506-up-up-and-onto-the-devils-gate/" >🔗</a> **[NASA]** Sols 4505-4506: Up, up and onto the Devil’s Gate
 - <a href="https://tlpnetwork.com/news/america/axiom-space-to-launch-orbital-ai-data-centers-on-kepler-satellites-in-2025" >🔗</a> **[The Launch Pad]** Axiom Space to Launch Orbital AI Data Centers on Kepler Satellites in 2025
-- <a href="https://spacepolicyonline.com/news/new-international-crew-arrives-at-iss-on-soyuz-ms-27/" >🔗</a> **[SpacePolicyOnline.com]** New International Crew Arrives at ISS on Soyuz MS-27
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250409T110128">2025-04-09 11:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250409T113105">2025-04-09 11:31:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
