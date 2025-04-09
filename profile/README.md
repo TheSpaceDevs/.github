@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/startups-are-preparing-for-the-launch-of-space-based-solar-power/" >🔗</a> **[SpaceNews]** Startups are preparing for the launch of space-based solar power
 - <a href="https://europeanspaceflight.com/cnes-set-to-test-fire-upgraded-ariane-6-booster/" >🔗</a> **[European Spaceflight]** CNES Set to Test Fire Upgraded Ariane 6 Booster
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/New_ESA_invention_tested_in_a_chamber_of_no_echoes" >🔗</a> **[ESA]** New ESA invention tested in a chamber of no echoes
 - <a href="https://spacenews.com/qa-swissto12-ceo-emile-de-rijk-explains-why-he-thinks-the-market-is-shifting-his-way/" >🔗</a> **[SpaceNews]** Q&A: Swissto12 CEO Emile de Rijk explains why he thinks the market is shifting his way
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/P160C_solid-propellant_rocket_motor_rolls_out_to_its_test_stand4" >🔗</a> **[ESA]** P160C solid-propellant rocket motor rolls out to its test stand
 - <a href="https://spacenews.com/space-force-announces-orbital-watch-program-to-share-intelligence-with-commercial-sector/" >🔗</a> **[SpaceNews]** Space Force announces ‘Orbital Watch’ program to share intelligence with commercial sector
 - <a href="https://spacepolicyonline.com/news/jared-isaacman-entrepreneur-pilot-astronaut-science-advocate/" >🔗</a> **[SpacePolicyOnline.com]** Jared Isaacman — Entrepreneur, Pilot, Astronaut, Science Advocate
-- <a href="https://spacenews.com/boeings-millennium-space-expands-production-to-meet-defense-demand/" >🔗</a> **[SpaceNews]** Boeing’s Millennium Space expands production to meet defense demand
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250409T130832">2025-04-09 13:08:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250409T133823">2025-04-09 13:38:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
