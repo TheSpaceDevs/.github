@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/surge-in-nato-spending-to-benefit-space-sector/" >🔗</a> **[SpaceNews]** Surge in NATO spending to benefit space sector
+- <a href="https://www.nasa.gov/people-of-nasa/goddard-people/mike-drury-a-40-year-legacy-of-precision/" >🔗</a> **[NASA]** Mike Drury: A 40-Year Legacy of Precision
 - <a href="https://www.nasa.gov/general/nasas-planetary-defenders-documentary-premieres-april-16/" >🔗</a> **[NASA]** NASA’s Planetary Defenders Documentary Premieres April 16
 - <a href="https://spacenews.com/the-continued-momentum-of-artemis/" >🔗</a> **[SpaceNews]** The continued momentum of Artemis
 - <a href="https://spaceflightnow.com/2025/04/09/live-coverage-ula-to-launch-27-amazon-project-kuiper-satellites-on-atlas-5-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: ULA to launch 27 Amazon Project Kuiper satellites on Atlas 5 rocket from Cape Canaveral
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/policy-and-finance/aetherflux-secures-50m-for-2026-space-solar-laser-power-demo" >🔗</a> **[The Launch Pad]** Aetherflux Secures $50M for 2026 Space Solar Laser Power Demo
 - <a href="https://tlpnetwork.com/news/europe/uk-olsen-actuators-to-open-cape-canaveral-office-amid-us-space-boom" >🔗</a> **[The Launch Pad]** UK Olsen Actuators to Open Cape Canaveral Office Amid US Space Boom
 - <a href="https://tlpnetwork.com/news/america/us-space-force-reassigns-gps-iii-sv08-launch" >🔗</a> **[The Launch Pad]** US Space Force Reassigns GPS III SV-08 Launch from ULA to SpaceX
-- <a href="https://tlpnetwork.com/news/technology/leolabs-unveils-mobile-radar-system-to-boost-us-military-monitoring-of-leo" >🔗</a> **[The Launch Pad]** LeoLabs Unveils ‘Scout’: Mobile Radar System to Revolutionize Space Domain Awareness
-- <a href="https://tlpnetwork.com/news/america/redwire-and-ispace-sign-mou-to-collaborate-on-nasa-clps-and-lunar-infrastructure" >🔗</a> **[The Launch Pad]** Redwire & ispace Sign MoU to Collaborate on NASA CLPS and Lunar Infrastructure
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250409T160132">2025-04-09 16:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250409T163753">2025-04-09 16:37:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
