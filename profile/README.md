@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/seeing-the-light-cubesats-share-optical-data/" >🔗</a> **[SpaceNews]** Seeing the light: Cubesats share optical data
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Martian_rock_on_the_move" >🔗</a> **[ESA]** Martian rock on the move
+- <a href="https://spacenews.com/how-to-accelerate-u-s-space-acquisition-and-outpace-threats/" >🔗</a> **[SpaceNews]** How to accelerate U.S. space acquisition and outpace threats
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/P160C_solid-propellant_rocket_motor_rolls_out_to_its_test_stand4" >🔗</a> **[ESA]** P160C solid-propellant rocket motor rolls out to its test stand
 - <a href="https://spacenews.com/space-force-announces-orbital-watch-program-to-share-intelligence-with-commercial-sector/" >🔗</a> **[SpaceNews]** Space Force announces ‘Orbital Watch’ program to share intelligence with commercial sector
 - <a href="https://spacepolicyonline.com/news/jared-isaacman-entrepreneur-pilot-astronaut-science-advocate/" >🔗</a> **[SpacePolicyOnline.com]** Jared Isaacman — Entrepreneur, Pilot, Astronaut, Science Advocate
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/blog/sols-4505-4506-up-up-and-onto-the-devils-gate/" >🔗</a> **[NASA]** Sols 4505-4506: Up, up and onto the Devil’s Gate
 - <a href="https://tlpnetwork.com/news/america/axiom-space-to-launch-orbital-ai-data-centers-on-kepler-satellites-in-2025" >🔗</a> **[The Launch Pad]** Axiom Space to Launch Orbital AI Data Centers on Kepler Satellites in 2025
 - <a href="https://spacepolicyonline.com/news/new-international-crew-arrives-at-iss-on-soyuz-ms-27/" >🔗</a> **[SpacePolicyOnline.com]** New International Crew Arrives at ISS on Soyuz MS-27
-- <a href="https://www.nasaspaceflight.com/2025/04/launch-roundup-040825/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Project Kuiper becomes operational; Falcon 9 to launch three missions
-- <a href="https://spacenews.com/novaspace-marks-one-year-as-a-unified-brand-built-on-40-years-of-space-expertise/" >🔗</a> **[SpaceNews]** Novaspace Marks One Year as a Unified Brand — Built on 40+ Years of Space Expertise
-- <a href="https://tlpnetwork.com/news/america/astroscale-to-refuel-two-us-space-force-geo-satellites-in-2026-mission" >🔗</a> **[The Launch Pad]** Astroscale to Refuel Two US Space Force GEO Satellites In 2026 Mission
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250409T100200">2025-04-09 10:02:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250409T103743">2025-04-09 10:37:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
