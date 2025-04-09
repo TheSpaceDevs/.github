@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/nasas-planetary-defenders-documentary-premieres-april-16/" >🔗</a> **[NASA]** NASA’s Planetary Defenders Documentary Premieres April 16
+- <a href="https://spacenews.com/the-continued-momentum-of-artemis/" >🔗</a> **[SpaceNews]** The continued momentum of Artemis
 - <a href="https://spaceflightnow.com/2025/04/09/live-coverage-ula-to-launch-27-amazon-project-kuiper-satellites-on-atlas-5-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: ULA to launch 27 Amazon Project Kuiper satellites on Atlas 5 rocket from Cape Canaveral
 - <a href="https://spacenews.com/china-to-seek-out-life-in-the-solar-system-as-nasa-faces-cuts-commercial-players-expand-ambitions/" >🔗</a> **[SpaceNews]** China to seek out life in the solar system as NASA faces cuts, commercial players expand ambitions
 - <a href="https://tlpnetwork.com/news/america/live-coverage-jared-isaacman-nasa-admin-confirmation-hearing" >🔗</a> **[The Launch Pad]** LIVE COVERAGE: Jared Isaacman NASA Admin Confirmation Hearing "We will not fail"
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/america/us-space-force-reassigns-gps-iii-sv08-launch" >🔗</a> **[The Launch Pad]** US Space Force Reassigns GPS III SV-08 Launch from ULA to SpaceX
 - <a href="https://tlpnetwork.com/news/technology/leolabs-unveils-mobile-radar-system-to-boost-us-military-monitoring-of-leo" >🔗</a> **[The Launch Pad]** LeoLabs Unveils ‘Scout’: Mobile Radar System to Revolutionize Space Domain Awareness
 - <a href="https://tlpnetwork.com/news/america/redwire-and-ispace-sign-mou-to-collaborate-on-nasa-clps-and-lunar-infrastructure" >🔗</a> **[The Launch Pad]** Redwire & ispace Sign MoU to Collaborate on NASA CLPS and Lunar Infrastructure
-- <a href="https://tlpnetwork.com/news/technology/from-manual-to-autonomous-satellite-ops-get-smarter-with-gomspace-and-neuraspace" >🔗</a> **[The Launch Pad]** From Manual to Autonomous; Satellite Ops Get Smarter with GomSpace and Neuraspace
-- <a href="https://tlpnetwork.com/news/america/umbra-to-develop-next-generation-sar-satellites-for-maritime-surveillance" >🔗</a> **[The Launch Pad]** Umbra to Develop Next-Generation SAR Satellites for Maritime Surveillance
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250409T150159">2025-04-09 15:01:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250409T153525">2025-04-09 15:35:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
