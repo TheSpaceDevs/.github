@@ -93,6 +93,7 @@ into *a Low Earth Orbit
 ### Latest News ⌛
 - <a href="https://spacenews.com/space-leaders-emphasize-collaboration-amid-geopolitical-challenges/" >🔗</a> **[SpaceNews]** Space leaders emphasize collaboration amid geopolitical challenges
 - <a href="https://spacenews.com/everyone-is-doing-ai-space-sector-urged-to-catch-up/" >🔗</a> **[SpaceNews]** ‘Everyone is doing AI’: Space sector urged to catch up
+- <a href="https://science.nasa.gov/missions/juno/nasas-juno-back-to-normal-operations-after-entering-safe-mode/" >🔗</a> **[NASA]** NASA’s Juno Back to Normal Operations After Entering Safe Mode
 - <a href="https://science.nasa.gov/missions/hubble/hubble-helps-determine-uranus-rotation-rate-with-unprecedented-precision/" >🔗</a> **[NASA]** Hubble Helps Determine Uranus’ Rotation Rate with Unprecedented Precision
 - <a href="https://spacenews.com/space-alliances-hold-strong-despite-broader-geopolitical-tensions/" >🔗</a> **[SpaceNews]** Space alliances hold strong despite broader geopolitical tensions
 - <a href="https://spacenews.com/apogee-semiconductor-teams-with-arrow-electronics-to-expand-distribution-of-space-grade-technologies/" >🔗</a> **[SpaceNews]** Apogee Semiconductor Teams with Arrow Electronics to Expand Distribution of Space-Grade Technologies
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/signals-from-space-symposium-a-trillion-dollar-defense-budget/" >🔗</a> **[SpaceNews]** Signals from Space Symposium: A trillion-dollar defense budget
 - <a href="https://www.nasaspaceflight.com/2025/04/kuiper-ka01/" >🔗</a> **[NASASpaceflight]** ULA ready to launch first operational Amazon Kuiper mission
 - <a href="https://spacenews.com/spacenews-full-wednesday-show-daily-from-space-symposium-now-live/" >🔗</a> **[SpaceNews]** SpaceNews’ full Wednesday show daily from Space Symposium — now live
-- <a href="https://www.nasa.gov/image-article/expedition-73-crew-launches-to-international-space-station/" >🔗</a> **[NASA]** Expedition 73 Crew Launches to International Space Station
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250409T220127">2025-04-09 22:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250409T223326">2025-04-09 22:33:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
