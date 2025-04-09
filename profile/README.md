@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/P160C_solid-propellant_rocket_motor_rolls_out_to_its_test_stand4" >🔗</a> **[ESA]** P160C solid-propellant rocket motor rolls out to its test stand
 - <a href="https://spacenews.com/space-force-announces-orbital-watch-program-to-share-intelligence-with-commercial-sector/" >🔗</a> **[SpaceNews]** Space Force announces ‘Orbital Watch’ program to share intelligence with commercial sector
 - <a href="https://spacepolicyonline.com/news/jared-isaacman-entrepreneur-pilot-astronaut-science-advocate/" >🔗</a> **[SpacePolicyOnline.com]** Jared Isaacman — Entrepreneur, Pilot, Astronaut, Science Advocate
 - <a href="https://spacenews.com/boeings-millennium-space-expands-production-to-meet-defense-demand/" >🔗</a> **[SpaceNews]** Boeing’s Millennium Space expands production to meet defense demand
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2025/04/launch-roundup-040825/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Project Kuiper becomes operational; Falcon 9 to launch three missions
 - <a href="https://spacenews.com/novaspace-marks-one-year-as-a-unified-brand-built-on-40-years-of-space-expertise/" >🔗</a> **[SpaceNews]** Novaspace Marks One Year as a Unified Brand — Built on 40+ Years of Space Expertise
 - <a href="https://tlpnetwork.com/news/america/astroscale-to-refuel-two-us-space-force-geo-satellites-in-2026-mission" >🔗</a> **[The Launch Pad]** Astroscale to Refuel Two US Space Force GEO Satellites In 2026 Mission
-- <a href="https://spacenews.com/redwire-and-ispace-u-s-to-collaborate-on-lunar-missions/" >🔗</a> **[SpaceNews]** Redwire and ispace U.S. to collaborate on lunar missions
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250409T090132">2025-04-09 09:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250409T093440">2025-04-09 09:34:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
