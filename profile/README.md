@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-announces-orbital-watch-program-to-share-intelligence-with-commercial-sector/" >🔗</a> **[SpaceNews]** Space Force announces ‘Orbital Watch’ program to share intelligence with commercial sector
+- <a href="https://spacepolicyonline.com/news/jared-isaacman-entrepreneur-pilot-astronaut-science-advocate/" >🔗</a> **[SpacePolicyOnline.com]** Jared Isaacman — Entrepreneur, Pilot, Astronaut, Science Advocate
 - <a href="https://spacenews.com/boeings-millennium-space-expands-production-to-meet-defense-demand/" >🔗</a> **[SpaceNews]** Boeing’s Millennium Space expands production to meet defense demand
 - <a href="https://science.nasa.gov/blog/sols-4505-4506-up-up-and-onto-the-devils-gate/" >🔗</a> **[NASA]** Sols 4505-4506: Up, up and onto the Devil’s Gate
 - <a href="https://tlpnetwork.com/news/america/axiom-space-to-launch-orbital-ai-data-centers-on-kepler-satellites-in-2025" >🔗</a> **[The Launch Pad]** Axiom Space to Launch Orbital AI Data Centers on Kepler Satellites in 2025
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/novaspace-marks-one-year-as-a-unified-brand-built-on-40-years-of-space-expertise/" >🔗</a> **[SpaceNews]** Novaspace Marks One Year as a Unified Brand — Built on 40+ Years of Space Expertise
 - <a href="https://tlpnetwork.com/news/america/astroscale-to-refuel-two-us-space-force-geo-satellites-in-2026-mission" >🔗</a> **[The Launch Pad]** Astroscale to Refuel Two US Space Force GEO Satellites In 2026 Mission
 - <a href="https://spacenews.com/redwire-and-ispace-u-s-to-collaborate-on-lunar-missions/" >🔗</a> **[SpaceNews]** Redwire and ispace U.S. to collaborate on lunar missions
-- <a href="https://tlpnetwork.com/news/america/intuitive-machines-selects-spacex-to-launch-im-4-lunar-mission" >🔗</a> **[The Launch Pad]** Intuitive Machines Selects SpaceX to Launch IM-4 Lunar Lander and Data Relay Satellites
-- <a href="https://spacenews.com/signals-from-space-symposium-the-future-for-space-looks-bright-and-fragile/" >🔗</a> **[SpaceNews]** Signals from Space Symposium: The future for space looks bright — and fragile
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250409T004552">2025-04-09 00:45:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250409T012841">2025-04-09 01:28:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
