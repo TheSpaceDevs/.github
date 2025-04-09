@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/startups-are-preparing-for-the-launch-of-space-based-solar-power/" >🔗</a> **[SpaceNews]** Startups are preparing for the launch of space-based solar power
-- <a href="https://europeanspaceflight.com/cnes-set-to-test-fire-upgraded-ariane-6-booster/" >🔗</a> **[European Spaceflight]** CNES Set to Test Fire Upgraded Ariane 6 Booster
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/New_ESA_invention_tested_in_a_chamber_of_no_echoes" >🔗</a> **[ESA]** New ESA invention tested in a chamber of no echoes
-- <a href="https://spacenews.com/qa-swissto12-ceo-emile-de-rijk-explains-why-he-thinks-the-market-is-shifting-his-way/" >🔗</a> **[SpaceNews]** Q&A: Swissto12 CEO Emile de Rijk explains why he thinks the market is shifting his way
-- <a href="https://spacenews.com/seeing-the-light-cubesats-share-optical-data/" >🔗</a> **[SpaceNews]** Seeing the light: Cubesats share optical data
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Martian_rock_on_the_move" >🔗</a> **[ESA]** Martian rock on the move
-- <a href="https://spacenews.com/how-to-accelerate-u-s-space-acquisition-and-outpace-threats/" >🔗</a> **[SpaceNews]** How to accelerate U.S. space acquisition and outpace threats
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/P160C_solid-propellant_rocket_motor_rolls_out_to_its_test_stand4" >🔗</a> **[ESA]** P160C solid-propellant rocket motor rolls out to its test stand
-- <a href="https://spacenews.com/space-force-announces-orbital-watch-program-to-share-intelligence-with-commercial-sector/" >🔗</a> **[SpaceNews]** Space Force announces ‘Orbital Watch’ program to share intelligence with commercial sector
-- <a href="https://spacepolicyonline.com/news/jared-isaacman-entrepreneur-pilot-astronaut-science-advocate/" >🔗</a> **[SpacePolicyOnline.com]** Jared Isaacman — Entrepreneur, Pilot, Astronaut, Science Advocate
+- <a href="https://spaceflightnow.com/2025/04/09/live-coverage-ula-to-launch-27-amazon-project-kuiper-satellites-on-atlas-5-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: ULA to launch 27 Amazon Project Kuiper satellites on Atlas 5 rocket from Cape Canaveral
+- <a href="https://spacenews.com/china-to-seek-out-life-in-the-solar-system-as-nasa-faces-cuts-commercial-players-expand-ambitions/" >🔗</a> **[SpaceNews]** China to seek out life in the solar system as NASA faces cuts, commercial players expand ambitions
+- <a href="https://tlpnetwork.com/news/america/live-coverage-jared-isaacman-nasa-admin-confirmation-hearing" >🔗</a> **[The Launch Pad]** LIVE COVERAGE: Jared Isaacman NASA Admin Confirmation Hearing "We will not fail"
+- <a href="https://tlpnetwork.com/news/policy-and-finance/aetherflux-secures-50m-for-2026-space-solar-laser-power-demo" >🔗</a> **[The Launch Pad]** Aetherflux Secures $50M for 2026 Space Solar Laser Power Demo
+- <a href="https://tlpnetwork.com/news/europe/uk-olsen-actuators-to-open-cape-canaveral-office-amid-us-space-boom" >🔗</a> **[The Launch Pad]** UK Olsen Actuators to Open Cape Canaveral Office Amid US Space Boom
+- <a href="https://tlpnetwork.com/news/america/us-space-force-reassigns-gps-iii-sv08-launch" >🔗</a> **[The Launch Pad]** US Space Force Reassigns GPS III SV-08 Launch from ULA to SpaceX
+- <a href="https://tlpnetwork.com/news/technology/leolabs-unveils-mobile-radar-system-to-boost-us-military-monitoring-of-leo" >🔗</a> **[The Launch Pad]** LeoLabs Unveils ‘Scout’: Mobile Radar System to Revolutionize Space Domain Awareness
+- <a href="https://tlpnetwork.com/news/america/redwire-and-ispace-sign-mou-to-collaborate-on-nasa-clps-and-lunar-infrastructure" >🔗</a> **[The Launch Pad]** Redwire & ispace Sign MoU to Collaborate on NASA CLPS and Lunar Infrastructure
+- <a href="https://tlpnetwork.com/news/technology/from-manual-to-autonomous-satellite-ops-get-smarter-with-gomspace-and-neuraspace" >🔗</a> **[The Launch Pad]** From Manual to Autonomous; Satellite Ops Get Smarter with GomSpace and Neuraspace
+- <a href="https://tlpnetwork.com/news/america/umbra-to-develop-next-generation-sar-satellites-for-maritime-surveillance" >🔗</a> **[The Launch Pad]** Umbra to Develop Next-Generation SAR Satellites for Maritime Surveillance
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250409T140139">2025-04-09 14:01:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250409T143610">2025-04-09 14:36:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
