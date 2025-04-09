@@ -54,8 +54,8 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250414T133000">2025-04-14 13:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Shepard | NS-31&location=Corn Ranch, Van Horn, TX, USA&dates=20250414T133000Z%2F20250414T133000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Shepard | NS-31** from Corn Ranch, Van Horn, TX, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250416T190000">2025-04-16 19:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Minotaur IV | NROL-174&location=Vandenberg SFB, CA, USA&dates=20250416T190000Z%2F20250416T212600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Minotaur IV | NROL-174** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250417T022400">2025-04-17 02:24:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-74&location=Cape Canaveral SFS, FL, USA&dates=20250417T022400Z%2F20250417T065500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-74** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250419T000000">2025-04-19 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | NROL-145&location=Vandenberg SFB, CA, USA&dates=20250419T000000Z%2F20250419T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | NROL-145** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250421T081534">2025-04-21 08:15:34 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Dragon CRS-2 SpX-32&location=Kennedy Space Center, FL, USA&dates=20250421T081534Z%2F20250421T081534Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Dragon CRS-2 SpX-32** from Kennedy Space Center, FL, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250429T091500">2025-04-29 09:15:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Vega-C | Biomass&location=Guiana Space Centre, French Guiana&dates=20250429T091500Z%2F20250429T091500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Vega-C | Biomass** from Guiana Space Centre, French Guiana.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacenews-full-wednesday-show-daily-from-space-symposium-now-live/" >🔗</a> **[SpaceNews]** SpaceNews’ full Wednesday show daily from Space Symposium — now live
+- <a href="https://www.nasa.gov/image-article/expedition-73-crew-launches-to-international-space-station/" >🔗</a> **[NASA]** Expedition 73 Crew Launches to International Space Station
+- <a href="https://science.nasa.gov/learning-resources/science-activation/nasa-science-supports-data-literacy-for-k-12-students/" >🔗</a> **[NASA]** NASA Science Supports Data Literacy for K-12 Students
 - <a href="https://spacenews.com/isaacman-says-nasa-should-pursue-human-moon-and-mars-programs-simultaneously/" >🔗</a> **[SpaceNews]** Isaacman says NASA should pursue human moon and Mars programs simultaneously
 - <a href="https://spacenews.com/defense-experts-warn-procurement-bottlenecks-risk-u-s-space-edge/" >🔗</a> **[SpaceNews]** Defense experts warn procurement bottlenecks risk U.S. space edge
 - <a href="https://spacenews.com/space-force-to-roll-out-strategy-for-international-collaboration/" >🔗</a> **[SpaceNews]** Space Force to roll out strategy for international collaboration
@@ -98,13 +101,11 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/people-of-nasa/goddard-people/mike-drury-a-40-year-legacy-of-precision/" >🔗</a> **[NASA]** Mike Drury: A 40-Year Legacy of Precision
 - <a href="https://www.nasa.gov/general/nasas-planetary-defenders-documentary-premieres-april-16/" >🔗</a> **[NASA]** NASA’s Planetary Defenders Documentary Premieres April 16
 - <a href="https://spacenews.com/the-continued-momentum-of-artemis/" >🔗</a> **[SpaceNews]** The continued momentum of Artemis
-- <a href="https://spaceflightnow.com/2025/04/09/live-coverage-ula-to-launch-27-amazon-project-kuiper-satellites-on-atlas-5-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: ULA to launch 27 Amazon Project Kuiper satellites on Atlas 5 rocket from Cape Canaveral
-- <a href="https://spacenews.com/china-to-seek-out-life-in-the-solar-system-as-nasa-faces-cuts-commercial-players-expand-ambitions/" >🔗</a> **[SpaceNews]** China to seek out life in the solar system as NASA faces cuts, commercial players expand ambitions
-- <a href="https://tlpnetwork.com/news/america/live-coverage-jared-isaacman-nasa-admin-confirmation-hearing" >🔗</a> **[The Launch Pad]** LIVE COVERAGE: Jared Isaacman NASA Admin Confirmation Hearing "We will not fail"
 
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2025/04/09/live-coverage-ula-to-launch-27-amazon-project-kuiper-satellites-on-atlas-5-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: ULA to launch 27 Amazon Project Kuiper satellites on Atlas 5 rocket from Cape Canaveral
 - <a href="https://www.nasaspaceflight.com/2025/04/launch-roundup-040825/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Project Kuiper becomes operational; Falcon 9 to launch three missions
 - <a href="https://arstechnica.com/space/2025/04/rocket-report-next-starship-flight-to-reuse-booster-faa-clears-new-glenn/" >🔗</a> **[Arstechnica]** Rocket Report: Next Starship flight to reuse booster; FAA clears New Glenn
 - <a href="https://spaceflightnow.com/2025/04/03/amazon-targets-april-9-for-launch-of-1st-production-satellites-for-its-project-kuiper-internet-mega-constellation/" >🔗</a> **[Spaceflight Now]** Amazon targets April 9 for launch of 1st production satellites for its Project Kuiper internet mega-constellation
@@ -116,7 +117,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250409T190126">2025-04-09 19:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250409T193108">2025-04-09 19:31:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
