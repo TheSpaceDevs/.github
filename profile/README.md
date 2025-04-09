@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/apogee-semiconductor-teams-with-arrow-electronics-to-expand-distribution-of-space-grade-technologies/" >🔗</a> **[SpaceNews]** Apogee Semiconductor Teams with Arrow Electronics to Expand Distribution of Space-Grade Technologies
+- <a href="https://arstechnica.com/space/2025/04/isaacman-sls-and-orion-are-not-a-long-term-solution-for-nasa/" >🔗</a> **[Arstechnica]** Isaacman: SLS and Orion are not a “long-term” solution for NASA
+- <a href="https://spacenews.com/signals-from-space-symposium-a-trillion-dollar-defense-budget/" >🔗</a> **[SpaceNews]** Signals from Space Symposium: A trillion-dollar defense budget
 - <a href="https://spacenews.com/spacenews-full-wednesday-show-daily-from-space-symposium-now-live/" >🔗</a> **[SpaceNews]** SpaceNews’ full Wednesday show daily from Space Symposium — now live
 - <a href="https://www.nasa.gov/image-article/expedition-73-crew-launches-to-international-space-station/" >🔗</a> **[NASA]** Expedition 73 Crew Launches to International Space Station
 - <a href="https://science.nasa.gov/learning-resources/science-activation/nasa-science-supports-data-literacy-for-k-12-students/" >🔗</a> **[NASA]** NASA Science Supports Data Literacy for K-12 Students
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/defense-experts-warn-procurement-bottlenecks-risk-u-s-space-edge/" >🔗</a> **[SpaceNews]** Defense experts warn procurement bottlenecks risk U.S. space edge
 - <a href="https://spacenews.com/space-force-to-roll-out-strategy-for-international-collaboration/" >🔗</a> **[SpaceNews]** Space Force to roll out strategy for international collaboration
 - <a href="https://spacenews.com/surge-in-nato-spending-to-benefit-space-sector/" >🔗</a> **[SpaceNews]** Surge in NATO spending to benefit space sector
-- <a href="https://www.nasa.gov/people-of-nasa/goddard-people/mike-drury-a-40-year-legacy-of-precision/" >🔗</a> **[NASA]** Mike Drury: A 40-Year Legacy of Precision
-- <a href="https://www.nasa.gov/general/nasas-planetary-defenders-documentary-premieres-april-16/" >🔗</a> **[NASA]** NASA’s Planetary Defenders Documentary Premieres April 16
-- <a href="https://spacenews.com/the-continued-momentum-of-artemis/" >🔗</a> **[SpaceNews]** The continued momentum of Artemis
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250409T200126">2025-04-09 20:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250409T203417">2025-04-09 20:34:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
