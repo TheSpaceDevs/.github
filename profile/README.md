@@ -46,7 +46,6 @@ into *an Unknown
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250410T163700">2025-04-10 16:37:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 3B/E | Unknown Payload&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20250410T163700Z%2F20250410T171200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 3B/E | Unknown Payload** from Xichang Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250411T015440">2025-04-11 01:54:40 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-17&location=Kennedy Space Center, FL, USA&dates=20250411T015440Z%2F20250411T054300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-17** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250412T121700">2025-04-12 12:17:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | NROL-192&location=Vandenberg SFB, CA, USA&dates=20250412T121700Z%2F20250412T164600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | NROL-192** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250414T015900">2025-04-14 01:59:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-73&location=Cape Canaveral SFS, FL, USA&dates=20250414T015900Z%2F20250414T063000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-73** from Cape Canaveral SFS, FL, USA.
@@ -91,6 +90,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-measures-moonlight-to-improve-earth-observations/" >🔗</a> **[NASA]** NASA Measures Moonlight to Improve Earth Observations
+- <a href="https://www.nasa.gov/directorates/smd/have-we-been-to-uranus-we-asked-a-nasa-expert-episode-56/" >🔗</a> **[NASA]** Have We Been to Uranus? We Asked a NASA Expert: Episode 56
+- <a href="https://www.nasa.gov/image-article/linear-sand-dunes-in-the-great-sandy-desert/" >🔗</a> **[NASA]** Linear Sand Dunes in the Great Sandy Desert
 - <a href="https://spacenews.com/tracss-moves-into-next-phase-of-development/" >🔗</a> **[SpaceNews]** TraCSS moves into next phase of development
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-nation-meet-nick-kopp-spacex-dragon-flight-lead/" >🔗</a> **[NASA]** Station Nation: Meet Nick Kopp, SpaceX Dragon Flight Lead
 - <a href="https://spacenews.com/rise-of-the-twin/" >🔗</a> **[SpaceNews]** Rise of the ‘twin’
@@ -98,9 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/indian-propulsion-maker-joins-us-expansion-push/" >🔗</a> **[SpaceNews]** Indian propulsion maker joins US expansion push
 - <a href="https://spacenews.com/true-commercial-alternatives-for-strategic-communications-and-pnt-dont-exist-yet/" >🔗</a> **[SpaceNews]** True commercial alternatives for strategic communications and PNT don’t  exist — yet
 - <a href="https://www.nasa.gov/missions/station/iss-research/nasas-spacex-32nd-resupply-mission-launches-new-research-to-station/" >🔗</a> **[NASA]** NASA’s SpaceX 32nd Resupply Mission Launches New Research to Station
-- <a href="https://science.nasa.gov/missions/webb/nasa-webbs-autopsy-of-planet-swallowed-by-star-yields-surprise/" >🔗</a> **[NASA]** NASA Webb’s Autopsy of Planet Swallowed by Star Yields Surprise
-- <a href="https://spacenews.com/turkiyes-space-future-an-ambitious-path-ahead/" >🔗</a> **[SpaceNews]** Türkiye’s space future: An ambitious path ahead
-- <a href="https://europeanspaceflight.com/pangea-aerospace-secures-7-27m-euros-to-develop-its-aerospike-engine/" >🔗</a> **[European Spaceflight]** Pangea Aerospace Secures €7.27M to Develop its Aerospike Engine
 
 
 ### Launch-related News 🚀
@@ -109,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250410T160131">2025-04-10 16:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250410T163728">2025-04-10 16:37:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
