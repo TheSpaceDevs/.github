@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/04/fram2-interview/" >🔗</a> **[NASASpaceflight]** Fram2 crew discuss first human mission to orbit Earth’s poles
 - <a href="https://spacenews.com/space-forge-sees-leo-as-key-to-strengthening-us-chip-independence/" >🔗</a> **[SpaceNews]** Space Forge sees LEO as key to strengthening US chip independence
 - <a href="https://spacenews.com/vast-signs-three-more-payload-partners-for-haven-1/" >🔗</a> **[SpaceNews]** Vast signs three more payload partners for Haven-1
 - <a href="https://spacenews.com/spirit-electronics-expands-u-s-semiconductor-capacity-with-acquisition-of-smart-microsystems/" >🔗</a> **[SpaceNews]** Spirit Electronics Expands U.S. Semiconductor Capacity with Acquisition of SMART Microsystems
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/directorates/smd/have-we-been-to-uranus-we-asked-a-nasa-expert-episode-56/" >🔗</a> **[NASA]** Have We Been to Uranus? We Asked a NASA Expert: Episode 56
 - <a href="https://www.nasa.gov/image-article/linear-sand-dunes-in-the-great-sandy-desert/" >🔗</a> **[NASA]** Linear Sand Dunes in the Great Sandy Desert
 - <a href="https://spacenews.com/tracss-moves-into-next-phase-of-development/" >🔗</a> **[SpaceNews]** TraCSS moves into next phase of development
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-nation-meet-nick-kopp-spacex-dragon-flight-lead/" >🔗</a> **[NASA]** Station Nation: Meet Nick Kopp, SpaceX Dragon Flight Lead
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250410T210127">2025-04-10 21:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250410T213154">2025-04-10 21:31:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
