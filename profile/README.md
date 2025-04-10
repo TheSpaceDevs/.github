@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/tracss-moves-into-next-phase-of-development/" >🔗</a> **[SpaceNews]** TraCSS moves into next phase of development
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-nation-meet-nick-kopp-spacex-dragon-flight-lead/" >🔗</a> **[NASA]** Station Nation: Meet Nick Kopp, SpaceX Dragon Flight Lead
+- <a href="https://spacenews.com/rise-of-the-twin/" >🔗</a> **[SpaceNews]** Rise of the ‘twin’
+- <a href="https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-mars-rover-studies-trove-of-rocks-on-crater-rim/" >🔗</a> **[NASA]** NASA’s Perseverance Mars Rover Studies Trove of Rocks on Crater Rim
+- <a href="https://spacenews.com/indian-propulsion-maker-joins-us-expansion-push/" >🔗</a> **[SpaceNews]** Indian propulsion maker joins US expansion push
+- <a href="https://spacenews.com/true-commercial-alternatives-for-strategic-communications-and-pnt-dont-exist-yet/" >🔗</a> **[SpaceNews]** True commercial alternatives for strategic communications and PNT don’t  exist — yet
 - <a href="https://www.nasa.gov/missions/station/iss-research/nasas-spacex-32nd-resupply-mission-launches-new-research-to-station/" >🔗</a> **[NASA]** NASA’s SpaceX 32nd Resupply Mission Launches New Research to Station
 - <a href="https://science.nasa.gov/missions/webb/nasa-webbs-autopsy-of-planet-swallowed-by-star-yields-surprise/" >🔗</a> **[NASA]** NASA Webb’s Autopsy of Planet Swallowed by Star Yields Surprise
 - <a href="https://spacenews.com/turkiyes-space-future-an-ambitious-path-ahead/" >🔗</a> **[SpaceNews]** Türkiye’s space future: An ambitious path ahead
 - <a href="https://europeanspaceflight.com/pangea-aerospace-secures-7-27m-euros-to-develop-its-aerospike-engine/" >🔗</a> **[European Spaceflight]** Pangea Aerospace Secures €7.27M to Develop its Aerospike Engine
-- <a href="https://spacenews.com/space-force-chief-golden-dome-is-a-missile-shield-built-in-pieces-not-a-single-system/" >🔗</a> **[SpaceNews]** Space Force chief: ‘Golden Dome’ is a missile shield built in pieces, not a single system
-- <a href="https://spacenews.com/qa-ceo-adel-al-saleh-pushes-ses-into-new-multi-orbit-territory/" >🔗</a> **[SpaceNews]** Q&A: CEO Adel Al-Saleh pushes SES into new multi-orbit territory
-- <a href="https://www.nasa.gov/news-release/nasa-offers-free-high-school-engineering-program-this-summer/" >🔗</a> **[NASA]** NASA Offers Free High School Engineering Program This Summer
-- <a href="https://spacenews.com/outgrowing-napoleon-how-the-space-force-can-modernize-its-ranks/" >🔗</a> **[SpaceNews]** Outgrowing Napoleon: How the Space Force can modernize its ranks
-- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Space_Rider/Space_Rider_s_smart_ALEK_passes_bumpy_noisy_shocking_testing" >🔗</a> **[ESA]** Space Rider’s smart ALEK passes bumpy, noisy, shocking testing
-- <a href="https://spacenews.com/rocket-lab-sees-demand-for-electron-despite-rideshare-competition/" >🔗</a> **[SpaceNews]** Rocket Lab sees demand for Electron despite rideshare competition
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250410T150129">2025-04-10 15:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250410T153410">2025-04-10 15:34:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
