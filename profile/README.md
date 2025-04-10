@@ -91,6 +91,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/station/iss-research/nasas-spacex-32nd-resupply-mission-launches-new-research-to-station/" >🔗</a> **[NASA]** NASA’s SpaceX 32nd Resupply Mission Launches New Research to Station
+- <a href="https://science.nasa.gov/missions/webb/nasa-webbs-autopsy-of-planet-swallowed-by-star-yields-surprise/" >🔗</a> **[NASA]** NASA Webb’s Autopsy of Planet Swallowed by Star Yields Surprise
+- <a href="https://spacenews.com/turkiyes-space-future-an-ambitious-path-ahead/" >🔗</a> **[SpaceNews]** Türkiye’s space future: An ambitious path ahead
 - <a href="https://europeanspaceflight.com/pangea-aerospace-secures-7-27m-euros-to-develop-its-aerospike-engine/" >🔗</a> **[European Spaceflight]** Pangea Aerospace Secures €7.27M to Develop its Aerospike Engine
 - <a href="https://spacenews.com/space-force-chief-golden-dome-is-a-missile-shield-built-in-pieces-not-a-single-system/" >🔗</a> **[SpaceNews]** Space Force chief: ‘Golden Dome’ is a missile shield built in pieces, not a single system
 - <a href="https://spacenews.com/qa-ceo-adel-al-saleh-pushes-ses-into-new-multi-orbit-territory/" >🔗</a> **[SpaceNews]** Q&A: CEO Adel Al-Saleh pushes SES into new multi-orbit territory
@@ -98,9 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/outgrowing-napoleon-how-the-space-force-can-modernize-its-ranks/" >🔗</a> **[SpaceNews]** Outgrowing Napoleon: How the Space Force can modernize its ranks
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Space_Rider/Space_Rider_s_smart_ALEK_passes_bumpy_noisy_shocking_testing" >🔗</a> **[ESA]** Space Rider’s smart ALEK passes bumpy, noisy, shocking testing
 - <a href="https://spacenews.com/rocket-lab-sees-demand-for-electron-despite-rideshare-competition/" >🔗</a> **[SpaceNews]** Rocket Lab sees demand for Electron despite rideshare competition
-- <a href="https://spacenews.com/a-little-pillow-fort-making-plans-to-protect-the-artemis-2-crew/" >🔗</a> **[SpaceNews]** A ‘little pillow fort’: Making plans to protect the Artemis 2 crew
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Biomass/Biomass_fully_loaded" >🔗</a> **[ESA]** Biomass fully loaded
-- <a href="https://spacepolicyonline.com/news/isaacman-insists-nasa-can-pursue-moon-and-mars-goals-simultaneously/" >🔗</a> **[SpacePolicyOnline.com]** Isaacman Insists NASA Can Pursue Moon and Mars Goals Simultaneously
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250410T140133">2025-04-10 14:01:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250410T143527">2025-04-10 14:35:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
