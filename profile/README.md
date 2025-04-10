@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/vast-signs-three-more-payload-partners-for-haven-1/" >🔗</a> **[SpaceNews]** Vast signs three more payload partners for Haven-1
+- <a href="https://spacenews.com/spirit-electronics-expands-u-s-semiconductor-capacity-with-acquisition-of-smart-microsystems/" >🔗</a> **[SpaceNews]** Spirit Electronics Expands U.S. Semiconductor Capacity with Acquisition of SMART Microsystems
+- <a href="https://spacenews.com/signals-from-space-symposium-global-collaboration-and-the-evolving-commercial-space-landscape/" >🔗</a> **[SpaceNews]** Signals from Space Symposium: Global collaboration and the evolving commercial space landscape
+- <a href="https://science.nasa.gov/learning-resources/science-activation/globe-nasa-and-the-monsignor-mcclancy-memorial-high-school-in-queens-new-york/" >🔗</a> **[NASA]** GLOBE, NASA, and the Monsignor McClancy Memorial High School in Queens, New York
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-measures-moonlight-to-improve-earth-observations/" >🔗</a> **[NASA]** NASA Measures Moonlight to Improve Earth Observations
 - <a href="https://www.nasa.gov/directorates/smd/have-we-been-to-uranus-we-asked-a-nasa-expert-episode-56/" >🔗</a> **[NASA]** Have We Been to Uranus? We Asked a NASA Expert: Episode 56
 - <a href="https://www.nasa.gov/image-article/linear-sand-dunes-in-the-great-sandy-desert/" >🔗</a> **[NASA]** Linear Sand Dunes in the Great Sandy Desert
 - <a href="https://spacenews.com/tracss-moves-into-next-phase-of-development/" >🔗</a> **[SpaceNews]** TraCSS moves into next phase of development
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-nation-meet-nick-kopp-spacex-dragon-flight-lead/" >🔗</a> **[NASA]** Station Nation: Meet Nick Kopp, SpaceX Dragon Flight Lead
 - <a href="https://spacenews.com/rise-of-the-twin/" >🔗</a> **[SpaceNews]** Rise of the ‘twin’
-- <a href="https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-mars-rover-studies-trove-of-rocks-on-crater-rim/" >🔗</a> **[NASA]** NASA’s Perseverance Mars Rover Studies Trove of Rocks on Crater Rim
-- <a href="https://spacenews.com/indian-propulsion-maker-joins-us-expansion-push/" >🔗</a> **[SpaceNews]** Indian propulsion maker joins US expansion push
-- <a href="https://spacenews.com/true-commercial-alternatives-for-strategic-communications-and-pnt-dont-exist-yet/" >🔗</a> **[SpaceNews]** True commercial alternatives for strategic communications and PNT don’t  exist — yet
-- <a href="https://www.nasa.gov/missions/station/iss-research/nasas-spacex-32nd-resupply-mission-launches-new-research-to-station/" >🔗</a> **[NASA]** NASA’s SpaceX 32nd Resupply Mission Launches New Research to Station
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250410T190121">2025-04-10 19:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250410T193113">2025-04-10 19:31:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
