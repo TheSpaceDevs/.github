@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-launches-tjs-17-expanding-classified-geostationary-satellite-series/" >🔗</a> **[SpaceNews]** China launches TJS-17, expanding classified geostationary satellite series
+- <a href="https://science.nasa.gov/open-science/planetary-defense-asteroids/" >🔗</a> **[NASA]** How NASA Science Data Defends Earth from Asteroids
 - <a href="https://www.nasaspaceflight.com/2025/04/fram2-interview/" >🔗</a> **[NASASpaceflight]** Fram2 crew discuss first human mission to orbit Earth’s poles
 - <a href="https://spacenews.com/space-forge-sees-leo-as-key-to-strengthening-us-chip-independence/" >🔗</a> **[SpaceNews]** Space Forge sees LEO as key to strengthening US chip independence
 - <a href="https://spacenews.com/vast-signs-three-more-payload-partners-for-haven-1/" >🔗</a> **[SpaceNews]** Vast signs three more payload partners for Haven-1
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/learning-resources/science-activation/globe-nasa-and-the-monsignor-mcclancy-memorial-high-school-in-queens-new-york/" >🔗</a> **[NASA]** GLOBE, NASA, and the Monsignor McClancy Memorial High School in Queens, New York
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-measures-moonlight-to-improve-earth-observations/" >🔗</a> **[NASA]** NASA Measures Moonlight to Improve Earth Observations
 - <a href="https://www.nasa.gov/directorates/smd/have-we-been-to-uranus-we-asked-a-nasa-expert-episode-56/" >🔗</a> **[NASA]** Have We Been to Uranus? We Asked a NASA Expert: Episode 56
-- <a href="https://www.nasa.gov/image-article/linear-sand-dunes-in-the-great-sandy-desert/" >🔗</a> **[NASA]** Linear Sand Dunes in the Great Sandy Desert
-- <a href="https://spacenews.com/tracss-moves-into-next-phase-of-development/" >🔗</a> **[SpaceNews]** TraCSS moves into next phase of development
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250410T220126">2025-04-10 22:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250410T223451">2025-04-10 22:34:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
