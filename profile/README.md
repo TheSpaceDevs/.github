@@ -92,6 +92,7 @@ into *an Unknown
 
 ### Latest News ⌛
 - <a href="https://spacenews.com/outgrowing-napoleon-how-the-space-force-can-modernize-its-ranks/" >🔗</a> **[SpaceNews]** Outgrowing Napoleon: How the Space Force can modernize its ranks
+- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Space_Rider/Space_Rider_s_smart_ALEK_passes_bumpy_noisy_shocking_testing" >🔗</a> **[ESA]** Space Rider’s smart ALEK passes bumpy, noisy, shocking testing
 - <a href="https://spacenews.com/rocket-lab-sees-demand-for-electron-despite-rideshare-competition/" >🔗</a> **[SpaceNews]** Rocket Lab sees demand for Electron despite rideshare competition
 - <a href="https://spacenews.com/a-little-pillow-fort-making-plans-to-protect-the-artemis-2-crew/" >🔗</a> **[SpaceNews]** A ‘little pillow fort’: Making plans to protect the Artemis 2 crew
 - <a href="https://spacepolicyonline.com/news/isaacman-insists-nasa-can-pursue-moon-and-mars-goals-simultaneously/" >🔗</a> **[SpacePolicyOnline.com]** Isaacman Insists NASA Can Pursue Moon and Mars Goals Simultaneously
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/missions/juno/nasas-juno-back-to-normal-operations-after-entering-safe-mode/" >🔗</a> **[NASA]** NASA’s Juno Back to Normal Operations After Entering Safe Mode
 - <a href="https://science.nasa.gov/missions/hubble/hubble-helps-determine-uranus-rotation-rate-with-unprecedented-precision/" >🔗</a> **[NASA]** Hubble Helps Determine Uranus’ Rotation Rate with Unprecedented Precision
 - <a href="https://spacenews.com/space-alliances-hold-strong-despite-broader-geopolitical-tensions/" >🔗</a> **[SpaceNews]** Space alliances hold strong despite broader geopolitical tensions
-- <a href="https://spacenews.com/apogee-semiconductor-teams-with-arrow-electronics-to-expand-distribution-of-space-grade-technologies/" >🔗</a> **[SpaceNews]** Apogee Semiconductor Teams with Arrow Electronics to Expand Distribution of Space-Grade Technologies
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250410T120215">2025-04-10 12:02:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250410T124307">2025-04-10 12:43:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
