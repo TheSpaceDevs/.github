@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/isaacman-insists-nasa-can-pursue-moon-and-mars-goals-simultaneously/" >🔗</a> **[SpacePolicyOnline.com]** Isaacman Insists NASA Can Pursue Moon and Mars Goals Simultaneously
 - <a href="https://spacenews.com/space-leaders-emphasize-collaboration-amid-geopolitical-challenges/" >🔗</a> **[SpaceNews]** Space leaders emphasize collaboration amid geopolitical challenges
 - <a href="https://spacenews.com/everyone-is-doing-ai-space-sector-urged-to-catch-up/" >🔗</a> **[SpaceNews]** ‘Everyone is doing AI’: Space sector urged to catch up
 - <a href="https://science.nasa.gov/missions/juno/nasas-juno-back-to-normal-operations-after-entering-safe-mode/" >🔗</a> **[NASA]** NASA’s Juno Back to Normal Operations After Entering Safe Mode
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://arstechnica.com/space/2025/04/isaacman-sls-and-orion-are-not-a-long-term-solution-for-nasa/" >🔗</a> **[Arstechnica]** Isaacman: SLS and Orion are not a “long-term” solution for NASA
 - <a href="https://spacenews.com/signals-from-space-symposium-a-trillion-dollar-defense-budget/" >🔗</a> **[SpaceNews]** Signals from Space Symposium: A trillion-dollar defense budget
 - <a href="https://www.nasaspaceflight.com/2025/04/kuiper-ka01/" >🔗</a> **[NASASpaceflight]** ULA ready to launch first operational Amazon Kuiper mission
-- <a href="https://spacenews.com/spacenews-full-wednesday-show-daily-from-space-symposium-now-live/" >🔗</a> **[SpaceNews]** SpaceNews’ full Wednesday show daily from Space Symposium — now live
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250410T020936">2025-04-10 02:09:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250410T025140">2025-04-10 02:51:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
