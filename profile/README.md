@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/rocket-lab-sees-demand-for-electron-despite-rideshare-competition/" >🔗</a> **[SpaceNews]** Rocket Lab sees demand for Electron despite rideshare competition
+- <a href="https://spacenews.com/a-little-pillow-fort-making-plans-to-protect-the-artemis-2-crew/" >🔗</a> **[SpaceNews]** A ‘little pillow fort’: Making plans to protect the Artemis 2 crew
 - <a href="https://spacepolicyonline.com/news/isaacman-insists-nasa-can-pursue-moon-and-mars-goals-simultaneously/" >🔗</a> **[SpacePolicyOnline.com]** Isaacman Insists NASA Can Pursue Moon and Mars Goals Simultaneously
 - <a href="https://spacenews.com/space-leaders-emphasize-collaboration-amid-geopolitical-challenges/" >🔗</a> **[SpaceNews]** Space leaders emphasize collaboration amid geopolitical challenges
 - <a href="https://spacenews.com/everyone-is-doing-ai-space-sector-urged-to-catch-up/" >🔗</a> **[SpaceNews]** ‘Everyone is doing AI’: Space sector urged to catch up
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/space-alliances-hold-strong-despite-broader-geopolitical-tensions/" >🔗</a> **[SpaceNews]** Space alliances hold strong despite broader geopolitical tensions
 - <a href="https://spacenews.com/apogee-semiconductor-teams-with-arrow-electronics-to-expand-distribution-of-space-grade-technologies/" >🔗</a> **[SpaceNews]** Apogee Semiconductor Teams with Arrow Electronics to Expand Distribution of Space-Grade Technologies
 - <a href="https://arstechnica.com/space/2025/04/isaacman-sls-and-orion-are-not-a-long-term-solution-for-nasa/" >🔗</a> **[Arstechnica]** Isaacman: SLS and Orion are not a “long-term” solution for NASA
-- <a href="https://spacenews.com/signals-from-space-symposium-a-trillion-dollar-defense-budget/" >🔗</a> **[SpaceNews]** Signals from Space Symposium: A trillion-dollar defense budget
-- <a href="https://www.nasaspaceflight.com/2025/04/kuiper-ka01/" >🔗</a> **[NASASpaceflight]** ULA ready to launch first operational Amazon Kuiper mission
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250410T100136">2025-04-10 10:01:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250410T103551">2025-04-10 10:35:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
