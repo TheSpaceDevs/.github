@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/outgrowing-napoleon-how-the-space-force-can-modernize-its-ranks/" >🔗</a> **[SpaceNews]** Outgrowing Napoleon: How the Space Force can modernize its ranks
 - <a href="https://spacenews.com/rocket-lab-sees-demand-for-electron-despite-rideshare-competition/" >🔗</a> **[SpaceNews]** Rocket Lab sees demand for Electron despite rideshare competition
 - <a href="https://spacenews.com/a-little-pillow-fort-making-plans-to-protect-the-artemis-2-crew/" >🔗</a> **[SpaceNews]** A ‘little pillow fort’: Making plans to protect the Artemis 2 crew
 - <a href="https://spacepolicyonline.com/news/isaacman-insists-nasa-can-pursue-moon-and-mars-goals-simultaneously/" >🔗</a> **[SpacePolicyOnline.com]** Isaacman Insists NASA Can Pursue Moon and Mars Goals Simultaneously
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/missions/hubble/hubble-helps-determine-uranus-rotation-rate-with-unprecedented-precision/" >🔗</a> **[NASA]** Hubble Helps Determine Uranus’ Rotation Rate with Unprecedented Precision
 - <a href="https://spacenews.com/space-alliances-hold-strong-despite-broader-geopolitical-tensions/" >🔗</a> **[SpaceNews]** Space alliances hold strong despite broader geopolitical tensions
 - <a href="https://spacenews.com/apogee-semiconductor-teams-with-arrow-electronics-to-expand-distribution-of-space-grade-technologies/" >🔗</a> **[SpaceNews]** Apogee Semiconductor Teams with Arrow Electronics to Expand Distribution of Space-Grade Technologies
-- <a href="https://arstechnica.com/space/2025/04/isaacman-sls-and-orion-are-not-a-long-term-solution-for-nasa/" >🔗</a> **[Arstechnica]** Isaacman: SLS and Orion are not a “long-term” solution for NASA
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250410T110125">2025-04-10 11:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250410T113108">2025-04-10 11:31:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
