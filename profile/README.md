@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/apollo-13-launch-55-years-ago/" >🔗</a> **[NASA]** Apollo 13 Launch: 55 Years Ago
+- <a href="https://science.nasa.gov/science-research/earth-science/kudos-test-article/" >🔗</a> **[NASA]** Kudos Test Article
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasas-imap-arrives-at-nasa-marshall-for-testing-in-xrcf/" >🔗</a> **[NASA]** NASA’s IMAP Arrives at NASA Marshall For Testing in XRCF
 - <a href="https://spacenews.com/winning-the-satellite-industrys-most-disruptive-decade-yet/" >🔗</a> **[SpaceNews]** Winning the satellite industry’s most disruptive decade yet
 - <a href="https://arstechnica.com/space/2025/04/trump-white-house-budget-proposal-eviscerates-science-funding-at-nasa/" >🔗</a> **[Arstechnica]** Trump White House budget proposal eviscerates science funding at NASA
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/esa-concludes-key-testing-phase-for-space-rider-service-module/" >🔗</a> **[European Spaceflight]** ESA Concludes Key Testing Phase for Space Rider Service Module
 - <a href="https://arstechnica.com/space/2025/04/private-jets-awkward-convos-and-kazakh-vodka-my-most-memorable-interviews/" >🔗</a> **[Arstechnica]** Private jets, awkward convos, and Kazakh vodka: My most memorable interviews
 - <a href="https://science.nasa.gov/missions/hubble/hubble-captures-a-stars-swan-song/" >🔗</a> **[NASA]** Hubble Captures a Star’s Swan Song
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/04/Ales_Svoboda_Supersonic_Space_Stuff_STEM_ESA_Explores_14" >🔗</a> **[ESA]** Aleš Svoboda | Supersonic, Space Stuff & STEM | ESA Explores #14
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/XMM-Newton/From_boring_to_bursting_a_giant_black_hole_awakens" >🔗</a> **[ESA]** From boring to bursting: a giant black hole awakens
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250411T160135">2025-04-11 16:01:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250411T163707">2025-04-11 16:37:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
