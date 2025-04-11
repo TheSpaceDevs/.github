@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-official-trumps-executive-order-validates-current-commercial-strategy/" >🔗</a> **[SpaceNews]** Space Force official: Trump’s executive order validates current commercial strategy
 - <a href="https://spaceflightnow.com/2025/04/10/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-the-kennedy-space-center-4/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket from the Kennedy Space Center
 - <a href="https://spacenews.com/china-launches-tjs-17-expanding-classified-geostationary-satellite-series/" >🔗</a> **[SpaceNews]** China launches TJS-17, expanding classified geostationary satellite series
 - <a href="https://science.nasa.gov/open-science/planetary-defense-asteroids/" >🔗</a> **[NASA]** How NASA Science Data Defends Earth from Asteroids
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/spirit-electronics-expands-u-s-semiconductor-capacity-with-acquisition-of-smart-microsystems/" >🔗</a> **[SpaceNews]** Spirit Electronics Expands U.S. Semiconductor Capacity with Acquisition of SMART Microsystems
 - <a href="https://spacenews.com/signals-from-space-symposium-global-collaboration-and-the-evolving-commercial-space-landscape/" >🔗</a> **[SpaceNews]** Signals from Space Symposium: Global collaboration and the evolving commercial space landscape
 - <a href="https://science.nasa.gov/learning-resources/science-activation/globe-nasa-and-the-monsignor-mcclancy-memorial-high-school-in-queens-new-york/" >🔗</a> **[NASA]** GLOBE, NASA, and the Monsignor McClancy Memorial High School in Queens, New York
-- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-measures-moonlight-to-improve-earth-observations/" >🔗</a> **[NASA]** NASA Measures Moonlight to Improve Earth Observations
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250411T040130">2025-04-11 04:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250411T043603">2025-04-11 04:36:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
