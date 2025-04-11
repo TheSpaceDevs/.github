@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/04/10/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-the-kennedy-space-center-4/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket from the Kennedy Space Center
 - <a href="https://spacenews.com/china-launches-tjs-17-expanding-classified-geostationary-satellite-series/" >🔗</a> **[SpaceNews]** China launches TJS-17, expanding classified geostationary satellite series
 - <a href="https://science.nasa.gov/open-science/planetary-defense-asteroids/" >🔗</a> **[NASA]** How NASA Science Data Defends Earth from Asteroids
 - <a href="https://www.nasaspaceflight.com/2025/04/fram2-interview/" >🔗</a> **[NASASpaceflight]** Fram2 crew discuss first human mission to orbit Earth’s poles
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/signals-from-space-symposium-global-collaboration-and-the-evolving-commercial-space-landscape/" >🔗</a> **[SpaceNews]** Signals from Space Symposium: Global collaboration and the evolving commercial space landscape
 - <a href="https://science.nasa.gov/learning-resources/science-activation/globe-nasa-and-the-monsignor-mcclancy-memorial-high-school-in-queens-new-york/" >🔗</a> **[NASA]** GLOBE, NASA, and the Monsignor McClancy Memorial High School in Queens, New York
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-measures-moonlight-to-improve-earth-observations/" >🔗</a> **[NASA]** NASA Measures Moonlight to Improve Earth Observations
-- <a href="https://www.nasa.gov/directorates/smd/have-we-been-to-uranus-we-asked-a-nasa-expert-episode-56/" >🔗</a> **[NASA]** Have We Been to Uranus? We Asked a NASA Expert: Episode 56
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250410T233212">2025-04-10 23:32:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250411T000506">2025-04-11 00:05:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
