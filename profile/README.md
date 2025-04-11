@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/isaacmans-golden-age-of-science-discovery-on-shaky-ground/" >🔗</a> **[SpacePolicyOnline.com]** Isaacman’s “Golden Age of Science & Discovery” on Shaky Ground
 - <a href="https://www.nasaspaceflight.com/2025/04/rfa-saxavord-interview/" >🔗</a> **[NASASpaceflight]** RFA and SaxaVord target UK’s first vertical orbital launch
 - <a href="https://spacenews.com/white-house-proposal-would-slash-nasa-science-budget-and-cancel-major-missions/" >🔗</a> **[SpaceNews]** White House proposal would slash NASA science budget and cancel major missions
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasa-developed-tools-at-marshall-support-operations-to-station/" >🔗</a> **[NASA]** NASA-Developed Tools at Marshall Support Operations to Station
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/science-research/earth-science/kudos-test-article/" >🔗</a> **[NASA]** Kudos Test Article
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasas-imap-arrives-at-nasa-marshall-for-testing-in-xrcf/" >🔗</a> **[NASA]** NASA’s IMAP Arrives at NASA Marshall For Testing in XRCF
 - <a href="https://spacenews.com/winning-the-satellite-industrys-most-disruptive-decade-yet/" >🔗</a> **[SpaceNews]** Winning the satellite industry’s most disruptive decade yet
-- <a href="https://arstechnica.com/space/2025/04/trump-white-house-budget-proposal-eviscerates-science-funding-at-nasa/" >🔗</a> **[Arstechnica]** Trump White House budget proposal eviscerates science funding at NASA
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250411T220128">2025-04-11 22:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250411T223452">2025-04-11 22:34:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
