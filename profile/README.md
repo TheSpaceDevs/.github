@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/04/rfa-saxavord-interview/" >🔗</a> **[NASASpaceflight]** RFA and SaxaVord target UK’s first vertical orbital launch
 - <a href="https://spacenews.com/white-house-proposal-would-slash-nasa-science-budget-and-cancel-major-missions/" >🔗</a> **[SpaceNews]** White House proposal would slash NASA science budget and cancel major missions
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasa-developed-tools-at-marshall-support-operations-to-station/" >🔗</a> **[NASA]** NASA-Developed Tools at Marshall Support Operations to Station
 - <a href="https://spacenews.com/space-industry-confronts-twin-disruptors-ai-and-geopolitics/" >🔗</a> **[SpaceNews]** Space industry confronts twin disruptors: AI and geopolitics
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasas-imap-arrives-at-nasa-marshall-for-testing-in-xrcf/" >🔗</a> **[NASA]** NASA’s IMAP Arrives at NASA Marshall For Testing in XRCF
 - <a href="https://spacenews.com/winning-the-satellite-industrys-most-disruptive-decade-yet/" >🔗</a> **[SpaceNews]** Winning the satellite industry’s most disruptive decade yet
 - <a href="https://arstechnica.com/space/2025/04/trump-white-house-budget-proposal-eviscerates-science-funding-at-nasa/" >🔗</a> **[Arstechnica]** Trump White House budget proposal eviscerates science funding at NASA
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_07-11_April_2025" >🔗</a> **[ESA]** Week in images: 07-11 April 2025
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250411T210118">2025-04-11 21:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250411T213139">2025-04-11 21:31:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
