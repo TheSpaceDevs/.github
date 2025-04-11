@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/learning-resources/science-activation/globe-mission-earth-supports-career-technical-education/" >🔗</a> **[NASA]** GLOBE Mission Earth Supports Career Technical Education
 - <a href="https://www.nasa.gov/image-article/apollo-13-launch-55-years-ago/" >🔗</a> **[NASA]** Apollo 13 Launch: 55 Years Ago
 - <a href="https://science.nasa.gov/science-research/earth-science/kudos-test-article/" >🔗</a> **[NASA]** Kudos Test Article
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasas-imap-arrives-at-nasa-marshall-for-testing-in-xrcf/" >🔗</a> **[NASA]** NASA’s IMAP Arrives at NASA Marshall For Testing in XRCF
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/bridging-the-gap-between-ai-hype-and-reality/" >🔗</a> **[SpaceNews]** Bridging the gap between AI hype and reality
 - <a href="https://europeanspaceflight.com/esa-concludes-key-testing-phase-for-space-rider-service-module/" >🔗</a> **[European Spaceflight]** ESA Concludes Key Testing Phase for Space Rider Service Module
 - <a href="https://arstechnica.com/space/2025/04/private-jets-awkward-convos-and-kazakh-vodka-my-most-memorable-interviews/" >🔗</a> **[Arstechnica]** Private jets, awkward convos, and Kazakh vodka: My most memorable interviews
-- <a href="https://science.nasa.gov/missions/hubble/hubble-captures-a-stars-swan-song/" >🔗</a> **[NASA]** Hubble Captures a Star’s Swan Song
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250411T180138">2025-04-11 18:01:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250411T183736">2025-04-11 18:37:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
