@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/04/trump-white-house-budget-proposal-eviscerates-science-funding-at-nasa/" >🔗</a> **[Arstechnica]** Trump White House budget proposal eviscerates science funding at NASA
+- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_07-11_April_2025" >🔗</a> **[ESA]** Week in images: 07-11 April 2025
+- <a href="https://spacenews.com/bridging-the-gap-between-ai-hype-and-reality/" >🔗</a> **[SpaceNews]** Bridging the gap between AI hype and reality
 - <a href="https://europeanspaceflight.com/esa-concludes-key-testing-phase-for-space-rider-service-module/" >🔗</a> **[European Spaceflight]** ESA Concludes Key Testing Phase for Space Rider Service Module
 - <a href="https://arstechnica.com/space/2025/04/private-jets-awkward-convos-and-kazakh-vodka-my-most-memorable-interviews/" >🔗</a> **[Arstechnica]** Private jets, awkward convos, and Kazakh vodka: My most memorable interviews
 - <a href="https://science.nasa.gov/missions/hubble/hubble-captures-a-stars-swan-song/" >🔗</a> **[NASA]** Hubble Captures a Star’s Swan Song
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/XMM-Newton/From_boring_to_bursting_a_giant_black_hole_awakens" >🔗</a> **[ESA]** From boring to bursting: a giant black hole awakens
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/Earth_from_Space_Great_Barrier_Reef_Australia" >🔗</a> **[ESA]** Earth from Space: Great Barrier Reef, Australia
 - <a href="https://spacenews.com/space-force-official-trumps-executive-order-validates-current-commercial-strategy/" >🔗</a> **[SpaceNews]** Space Force official: Trump’s executive order validates current commercial strategy
-- <a href="https://spaceflightnow.com/2025/04/10/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-the-kennedy-space-center-4/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket from the Kennedy Space Center
-- <a href="https://spacenews.com/china-launches-tjs-17-expanding-classified-geostationary-satellite-series/" >🔗</a> **[SpaceNews]** China launches TJS-17, expanding classified geostationary satellite series
-- <a href="https://science.nasa.gov/open-science/planetary-defense-asteroids/" >🔗</a> **[NASA]** How NASA Science Data Defends Earth from Asteroids
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250411T130751">2025-04-11 13:07:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250411T133712">2025-04-11 13:37:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
