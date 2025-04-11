@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/04/private-jets-awkward-convos-and-kazakh-vodka-my-most-memorable-interviews/" >🔗</a> **[Arstechnica]** Private jets, awkward convos, and Kazakh vodka: My most memorable interviews
+- <a href="https://science.nasa.gov/missions/hubble/hubble-captures-a-stars-swan-song/" >🔗</a> **[NASA]** Hubble Captures a Star’s Swan Song
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/04/Ales_Svoboda_Supersonic_Space_Stuff_STEM_ESA_Explores_14" >🔗</a> **[ESA]** Aleš Svoboda | Supersonic, Space Stuff & STEM | ESA Explores #14
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/XMM-Newton/From_boring_to_bursting_a_giant_black_hole_awakens" >🔗</a> **[ESA]** From boring to bursting: a giant black hole awakens
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/Earth_from_Space_Great_Barrier_Reef_Australia" >🔗</a> **[ESA]** Earth from Space: Great Barrier Reef, Australia
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/china-launches-tjs-17-expanding-classified-geostationary-satellite-series/" >🔗</a> **[SpaceNews]** China launches TJS-17, expanding classified geostationary satellite series
 - <a href="https://science.nasa.gov/open-science/planetary-defense-asteroids/" >🔗</a> **[NASA]** How NASA Science Data Defends Earth from Asteroids
 - <a href="https://www.nasaspaceflight.com/2025/04/fram2-interview/" >🔗</a> **[NASASpaceflight]** Fram2 crew discuss first human mission to orbit Earth’s poles
-- <a href="https://spacenews.com/space-forge-sees-leo-as-key-to-strengthening-us-chip-independence/" >🔗</a> **[SpaceNews]** Space Forge sees LEO as key to strengthening US chip independence
-- <a href="https://spacenews.com/vast-signs-three-more-payload-partners-for-haven-1/" >🔗</a> **[SpaceNews]** Vast signs three more payload partners for Haven-1
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250411T110127">2025-04-11 11:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250411T113109">2025-04-11 11:31:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
