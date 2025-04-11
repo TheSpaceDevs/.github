@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasas-imap-arrives-at-nasa-marshall-for-testing-in-xrcf/" >🔗</a> **[NASA]** NASA’s IMAP Arrives at NASA Marshall For Testing in XRCF
 - <a href="https://spacenews.com/winning-the-satellite-industrys-most-disruptive-decade-yet/" >🔗</a> **[SpaceNews]** Winning the satellite industry’s most disruptive decade yet
 - <a href="https://arstechnica.com/space/2025/04/trump-white-house-budget-proposal-eviscerates-science-funding-at-nasa/" >🔗</a> **[Arstechnica]** Trump White House budget proposal eviscerates science funding at NASA
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_07-11_April_2025" >🔗</a> **[ESA]** Week in images: 07-11 April 2025
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/missions/hubble/hubble-captures-a-stars-swan-song/" >🔗</a> **[NASA]** Hubble Captures a Star’s Swan Song
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/04/Ales_Svoboda_Supersonic_Space_Stuff_STEM_ESA_Explores_14" >🔗</a> **[ESA]** Aleš Svoboda | Supersonic, Space Stuff & STEM | ESA Explores #14
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/XMM-Newton/From_boring_to_bursting_a_giant_black_hole_awakens" >🔗</a> **[ESA]** From boring to bursting: a giant black hole awakens
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/Earth_from_Space_Great_Barrier_Reef_Australia" >🔗</a> **[ESA]** Earth from Space: Great Barrier Reef, Australia
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250411T150133">2025-04-11 15:01:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250411T153354">2025-04-11 15:33:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
