@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/XMM-Newton/From_boring_to_bursting_a_giant_black_hole_awakens" >🔗</a> **[ESA]** From boring to bursting: a giant black hole awakens
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/Earth_from_Space_Great_Barrier_Reef_Australia" >🔗</a> **[ESA]** Earth from Space: Great Barrier Reef, Australia
 - <a href="https://spacenews.com/space-force-official-trumps-executive-order-validates-current-commercial-strategy/" >🔗</a> **[SpaceNews]** Space Force official: Trump’s executive order validates current commercial strategy
 - <a href="https://spaceflightnow.com/2025/04/10/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-the-kennedy-space-center-4/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket from the Kennedy Space Center
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/space-forge-sees-leo-as-key-to-strengthening-us-chip-independence/" >🔗</a> **[SpaceNews]** Space Forge sees LEO as key to strengthening US chip independence
 - <a href="https://spacenews.com/vast-signs-three-more-payload-partners-for-haven-1/" >🔗</a> **[SpaceNews]** Vast signs three more payload partners for Haven-1
 - <a href="https://spacenews.com/spirit-electronics-expands-u-s-semiconductor-capacity-with-acquisition-of-smart-microsystems/" >🔗</a> **[SpaceNews]** Spirit Electronics Expands U.S. Semiconductor Capacity with Acquisition of SMART Microsystems
-- <a href="https://spacenews.com/signals-from-space-symposium-global-collaboration-and-the-evolving-commercial-space-landscape/" >🔗</a> **[SpaceNews]** Signals from Space Symposium: Global collaboration and the evolving commercial space landscape
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250411T090131">2025-04-11 09:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250411T093337">2025-04-11 09:33:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
