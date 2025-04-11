@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/esa-concludes-key-testing-phase-for-space-rider-service-module/" >🔗</a> **[European Spaceflight]** ESA Concludes Key Testing Phase for Space Rider Service Module
 - <a href="https://arstechnica.com/space/2025/04/private-jets-awkward-convos-and-kazakh-vodka-my-most-memorable-interviews/" >🔗</a> **[Arstechnica]** Private jets, awkward convos, and Kazakh vodka: My most memorable interviews
 - <a href="https://science.nasa.gov/missions/hubble/hubble-captures-a-stars-swan-song/" >🔗</a> **[NASA]** Hubble Captures a Star’s Swan Song
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/04/Ales_Svoboda_Supersonic_Space_Stuff_STEM_ESA_Explores_14" >🔗</a> **[ESA]** Aleš Svoboda | Supersonic, Space Stuff & STEM | ESA Explores #14
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/04/10/live-coverage-spacex-to-launch-21-starlink-satellites-on-falcon-9-rocket-from-the-kennedy-space-center-4/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 21 Starlink satellites on Falcon 9 rocket from the Kennedy Space Center
 - <a href="https://spacenews.com/china-launches-tjs-17-expanding-classified-geostationary-satellite-series/" >🔗</a> **[SpaceNews]** China launches TJS-17, expanding classified geostationary satellite series
 - <a href="https://science.nasa.gov/open-science/planetary-defense-asteroids/" >🔗</a> **[NASA]** How NASA Science Data Defends Earth from Asteroids
-- <a href="https://www.nasaspaceflight.com/2025/04/fram2-interview/" >🔗</a> **[NASASpaceflight]** Fram2 crew discuss first human mission to orbit Earth’s poles
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250411T113109">2025-04-11 11:31:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250411T120152">2025-04-11 12:01:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
