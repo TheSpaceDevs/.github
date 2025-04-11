@@ -47,7 +47,7 @@ into *a Low Earth Orbit
 
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250412T011540">2025-04-12 01:15:40 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-17&location=Kennedy Space Center, FL, USA&dates=20250412T011540Z%2F20250412T051259Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-17** from Kennedy Space Center, FL, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250412T121700">2025-04-12 12:17:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | NROL-192&location=Vandenberg SFB, CA, USA&dates=20250412T121700Z%2F20250412T164600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | NROL-192** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250412T121700">2025-04-12 12:17:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | NROL-192&location=Vandenberg SFB, CA, USA&dates=20250412T121700Z%2F20250412T164600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | NROL-192** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250414T015900">2025-04-14 01:59:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-73&location=Cape Canaveral SFS, FL, USA&dates=20250414T015900Z%2F20250414T063000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-73** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250414T133000">2025-04-14 13:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Shepard | NS-31&location=Corn Ranch, Van Horn, TX, USA&dates=20250414T133000Z%2F20250414T133000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Shepard | NS-31** from Corn Ranch, Van Horn, TX, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250414T230000">2025-04-14 23:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 551 | Project Kuiper (KA-01)&location=Cape Canaveral SFS, FL, USA&dates=20250414T230000Z%2F20250415T033400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 551 | Project Kuiper (KA-01)** from Cape Canaveral SFS, FL, USA.
@@ -91,6 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/white-house-proposal-would-slash-nasa-science-budget-and-cancel-major-missions/" >🔗</a> **[SpaceNews]** White House proposal would slash NASA science budget and cancel major missions
+- <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasa-developed-tools-at-marshall-support-operations-to-station/" >🔗</a> **[NASA]** NASA-Developed Tools at Marshall Support Operations to Station
+- <a href="https://spacenews.com/space-industry-confronts-twin-disruptors-ai-and-geopolitics/" >🔗</a> **[SpaceNews]** Space industry confronts twin disruptors: AI and geopolitics
 - <a href="https://science.nasa.gov/learning-resources/science-activation/globe-mission-earth-supports-career-technical-education/" >🔗</a> **[NASA]** GLOBE Mission Earth Supports Career Technical Education
 - <a href="https://www.nasa.gov/image-article/apollo-13-launch-55-years-ago/" >🔗</a> **[NASA]** Apollo 13 Launch: 55 Years Ago
 - <a href="https://science.nasa.gov/science-research/earth-science/kudos-test-article/" >🔗</a> **[NASA]** Kudos Test Article
@@ -98,9 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/winning-the-satellite-industrys-most-disruptive-decade-yet/" >🔗</a> **[SpaceNews]** Winning the satellite industry’s most disruptive decade yet
 - <a href="https://arstechnica.com/space/2025/04/trump-white-house-budget-proposal-eviscerates-science-funding-at-nasa/" >🔗</a> **[Arstechnica]** Trump White House budget proposal eviscerates science funding at NASA
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_07-11_April_2025" >🔗</a> **[ESA]** Week in images: 07-11 April 2025
-- <a href="https://spacenews.com/bridging-the-gap-between-ai-hype-and-reality/" >🔗</a> **[SpaceNews]** Bridging the gap between AI hype and reality
-- <a href="https://europeanspaceflight.com/esa-concludes-key-testing-phase-for-space-rider-service-module/" >🔗</a> **[European Spaceflight]** ESA Concludes Key Testing Phase for Space Rider Service Module
-- <a href="https://arstechnica.com/space/2025/04/private-jets-awkward-convos-and-kazakh-vodka-my-most-memorable-interviews/" >🔗</a> **[Arstechnica]** Private jets, awkward convos, and Kazakh vodka: My most memorable interviews
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250411T190118">2025-04-11 19:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250411T193111">2025-04-11 19:31:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
