@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/04/12/live-coverage-spacex-to-launch-starshield-satellites-for-the-nro-on-falcon-9-rocket-from-vandenberg/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Starshield satellites for the NRO on Falcon 9 rocket from Vandenberg
 - <a href="https://spacenews.com/noaa-budget-proposal-would-affect-weather-satellite-other-space-programs/" >🔗</a> **[SpaceNews]** NOAA budget proposal would affect weather satellite, other space programs
 - <a href="https://science.nasa.gov/blog/sols-4507-4508-just-keep-driving/" >🔗</a> **[NASA]** Sols 4507-4508: “Just Keep Driving”
 - <a href="https://spacepolicyonline.com/news/isaacmans-golden-age-of-science-discovery-on-shaky-ground/" >🔗</a> **[SpacePolicyOnline.com]** Isaacman’s “Golden Age of Science & Discovery” on Shaky Ground
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/space-industry-confronts-twin-disruptors-ai-and-geopolitics/" >🔗</a> **[SpaceNews]** Space industry confronts twin disruptors: AI and geopolitics
 - <a href="https://science.nasa.gov/learning-resources/science-activation/globe-mission-earth-supports-career-technical-education/" >🔗</a> **[NASA]** GLOBE Mission Earth Supports Career Technical Education
 - <a href="https://www.nasa.gov/image-article/apollo-13-launch-55-years-ago/" >🔗</a> **[NASA]** Apollo 13 Launch: 55 Years Ago
-- <a href="https://science.nasa.gov/science-research/earth-science/kudos-test-article/" >🔗</a> **[NASA]** Kudos Test Article
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250412T020726">2025-04-12 02:07:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250412T024943">2025-04-12 02:49:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
