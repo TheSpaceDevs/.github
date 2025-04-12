@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/noaa-budget-proposal-would-affect-weather-satellite-other-space-programs/" >🔗</a> **[SpaceNews]** NOAA budget proposal would affect weather satellite, other space programs
 - <a href="https://science.nasa.gov/blog/sols-4507-4508-just-keep-driving/" >🔗</a> **[NASA]** Sols 4507-4508: “Just Keep Driving”
 - <a href="https://spacepolicyonline.com/news/isaacmans-golden-age-of-science-discovery-on-shaky-ground/" >🔗</a> **[SpacePolicyOnline.com]** Isaacman’s “Golden Age of Science & Discovery” on Shaky Ground
 - <a href="https://www.nasaspaceflight.com/2025/04/rfa-saxavord-interview/" >🔗</a> **[NASASpaceflight]** RFA and SaxaVord target UK’s first vertical orbital launch
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/learning-resources/science-activation/globe-mission-earth-supports-career-technical-education/" >🔗</a> **[NASA]** GLOBE Mission Earth Supports Career Technical Education
 - <a href="https://www.nasa.gov/image-article/apollo-13-launch-55-years-ago/" >🔗</a> **[NASA]** Apollo 13 Launch: 55 Years Ago
 - <a href="https://science.nasa.gov/science-research/earth-science/kudos-test-article/" >🔗</a> **[NASA]** Kudos Test Article
-- <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasas-imap-arrives-at-nasa-marshall-for-testing-in-xrcf/" >🔗</a> **[NASA]** NASA’s IMAP Arrives at NASA Marshall For Testing in XRCF
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250412T012841">2025-04-12 01:28:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250412T020726">2025-04-12 02:07:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
