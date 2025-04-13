@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/04/spacex-roundup-q12025/" >🔗</a> **[NASASpaceflight]** SpaceX starts 2025 with Falcon records and Starship problems
 - <a href="https://spaceflightnow.com/2025/04/13/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 27 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://europeanspaceflight.com/altec-receives-e61m-contract-to-support-esa-space-station-activities/" >🔗</a> **[European Spaceflight]** ALTEC Receives €61M Contract to Support ESA Space Station Activities
 - <a href="https://spaceflightnow.com/2025/04/12/live-coverage-spacex-to-launch-starshield-satellites-for-the-nro-on-falcon-9-rocket-from-vandenberg/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Starshield satellites for the NRO on Falcon 9 rocket from Vandenberg
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2025/04/rfa-saxavord-interview/" >🔗</a> **[NASASpaceflight]** RFA and SaxaVord target UK’s first vertical orbital launch
 - <a href="https://spacenews.com/white-house-proposal-would-slash-nasa-science-budget-and-cancel-major-missions/" >🔗</a> **[SpaceNews]** White House proposal would slash NASA science budget and cancel major missions
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasa-developed-tools-at-marshall-support-operations-to-station/" >🔗</a> **[NASA]** NASA-Developed Tools at Marshall Support Operations to Station
-- <a href="https://spacenews.com/space-industry-confronts-twin-disruptors-ai-and-geopolitics/" >🔗</a> **[SpaceNews]** Space industry confronts twin disruptors: AI and geopolitics
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250413T180132">2025-04-13 18:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250413T183554">2025-04-13 18:35:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
