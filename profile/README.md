@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/Webb_brings_dying_star_s_energetic_display_into_full_focus" >🔗</a> **[ESA]** Webb brings dying star's energetic display into full focus
+- <a href="https://spacenews.com/multi-orbit-success-or-a-single-point-of-failure/" >🔗</a> **[SpaceNews]** Multi-orbit success or a single-point of failure?
+- <a href="https://spacenews.com/blue-origin-launches-all-woman-new-shepard-suborbital-flight/" >🔗</a> **[SpaceNews]** Blue Origin launches all-woman New Shepard suborbital flight
+- <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-astronaut-don-pettit-crewmates-return/" >🔗</a> **[NASA]** NASA Sets Coverage for Astronaut Don Pettit, Crewmates Return
 - <a href="https://science.nasa.gov/missions/webb/with-nasas-webb-dying-stars-energetic-display-comes-into-full-focus/" >🔗</a> **[NASA]** With NASA’s Webb, Dying Star’s Energetic Display Comes Into Full Focus
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/Webb_brings_dying_star_s_energetic_display_into_full_focus" >🔗</a> **[ESA]** Webb brings dying star's energetic display into full focus
 - <a href="https://spacenews.com/no-mans-airspace-why-our-skies-arent-ready-for-the-space-boom/" >🔗</a> **[SpaceNews]** No man’s airspace: Why our skies aren’t ready for the space boom
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/LUNA_s_virtual_leap_towards_the_Moon" >🔗</a> **[ESA]** LUNA’s virtual leap towards the Moon
 - <a href="https://spacenews.com/nasa-extends-seat-barter-agreement-with-roscosmos-into-2027/" >🔗</a> **[SpaceNews]** NASA extends seat barter agreement with Roscosmos into 2027
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-april-13-19-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy April 13-19, 2025
 - <a href="https://www.nasaspaceflight.com/2025/04/spacex-roundup-q12025/" >🔗</a> **[NASASpaceflight]** SpaceX starts 2025 with Falcon records and Starship problems
-- <a href="https://spaceflightnow.com/2025/04/13/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 27 Starlink satellites on Falcon 9 rocket from Cape Canaveral
-- <a href="https://europeanspaceflight.com/altec-receives-e61m-contract-to-support-esa-space-station-activities/" >🔗</a> **[European Spaceflight]** ALTEC Receives €61M Contract to Support ESA Space Station Activities
-- <a href="https://spaceflightnow.com/2025/04/12/live-coverage-spacex-to-launch-starshield-satellites-for-the-nro-on-falcon-9-rocket-from-vandenberg/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Starshield satellites for the NRO on Falcon 9 rocket from Vandenberg
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250414T150122">2025-04-14 15:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250414T153333">2025-04-14 15:33:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
