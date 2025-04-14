@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/sculpted-by-luminous-stars/" >🔗</a> **[NASA]** Sculpted by Luminous Stars
+- <a href="https://spacepolicyonline.com/news/all-woman-ns-31-crew-praise-teamwork-sisterhood/" >🔗</a> **[SpacePolicyOnline.com]** All-Woman NS-31 Crew Praise Teamwork, Sisterhood
+- <a href="https://www.nasa.gov/missions/lucy/nasas-lucy-spacecraft-prepares-second-asteroid-encounter/" >🔗</a> **[NASA]** NASA’s Lucy Spacecraft Prepares Second Asteroid Encounter
 - <a href="https://spacenews.com/catch-up-on-all-of-spacenews-space-symposium-2025-coverage/" >🔗</a> **[SpaceNews]** Catch up on all of SpaceNews’ Space Symposium 2025 coverage
 - <a href="https://spacenews.com/multi-orbit-success-or-a-single-point-of-failure/" >🔗</a> **[SpaceNews]** Multi-orbit success or a single-point of failure?
 - <a href="https://spacenews.com/blue-origin-launches-all-woman-new-shepard-suborbital-flight/" >🔗</a> **[SpaceNews]** Blue Origin launches all-woman New Shepard suborbital flight
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-astronaut-don-pettit-crewmates-return/" >🔗</a> **[NASA]** NASA Sets Coverage for Astronaut Don Pettit, Crewmates Return
-- <a href="https://science.nasa.gov/missions/webb/with-nasas-webb-dying-stars-energetic-display-comes-into-full-focus/" >🔗</a> **[NASA]** With NASA’s Webb, Dying Star’s Energetic Display Comes Into Full Focus
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/Webb_brings_dying_star_s_energetic_display_into_full_focus" >🔗</a> **[ESA]** Webb brings dying star's energetic display into full focus
+- <a href="https://science.nasa.gov/missions/webb/with-nasas-webb-dying-stars-energetic-display-comes-into-full-focus/" >🔗</a> **[NASA]** With NASA’s Webb, Dying Star’s Energetic Display Comes Into Full Focus
 - <a href="https://spacenews.com/no-mans-airspace-why-our-skies-arent-ready-for-the-space-boom/" >🔗</a> **[SpaceNews]** No man’s airspace: Why our skies aren’t ready for the space boom
-- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/LUNA_s_virtual_leap_towards_the_Moon" >🔗</a> **[ESA]** LUNA’s virtual leap towards the Moon
-- <a href="https://spacenews.com/nasa-extends-seat-barter-agreement-with-roscosmos-into-2027/" >🔗</a> **[SpaceNews]** NASA extends seat barter agreement with Roscosmos into 2027
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-april-13-19-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy April 13-19, 2025
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250414T180144">2025-04-14 18:01:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250414T183803">2025-04-14 18:38:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
