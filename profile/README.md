@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/derek-tournear-to-return-as-space-development-agency-director-after-investigation/" >🔗</a> **[SpaceNews]** Derek Tournear to return as Space Development Agency director after investigation
 - <a href="https://europeanspaceflight.com/italy-moves-ahead-with-study-for-national-iris2-alternative/" >🔗</a> **[European Spaceflight]** Italy Moves Ahead With Study for National IRIS2 Alternative
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasa-announces-31st-human-exploration-rover-challenge-winners/" >🔗</a> **[NASA]** NASA Announces 31st Human Exploration Rover Challenge Winners
 - <a href="https://www.nasa.gov/centers-and-facilities/wallops/nasa-wallops-breaks-ground-on-new-causeway-bridge/" >🔗</a> **[NASA]** NASA Wallops Breaks Ground on New Causeway Bridge
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/image-article/sculpted-by-luminous-stars/" >🔗</a> **[NASA]** Sculpted by Luminous Stars
 - <a href="https://spacepolicyonline.com/news/all-woman-ns-31-crew-praise-teamwork-sisterhood/" >🔗</a> **[SpacePolicyOnline.com]** All-Woman NS-31 Crew Praise Teamwork, Sisterhood
 - <a href="https://www.nasa.gov/missions/lucy/nasas-lucy-spacecraft-prepares-second-asteroid-encounter/" >🔗</a> **[NASA]** NASA’s Lucy Spacecraft Prepares Second Asteroid Encounter
-- <a href="https://spacenews.com/catch-up-on-all-of-spacenews-space-symposium-2025-coverage/" >🔗</a> **[SpaceNews]** Catch up on all of SpaceNews’ Space Symposium 2025 coverage
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250414T200125">2025-04-14 20:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250414T203422">2025-04-14 20:34:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
