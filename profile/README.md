@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/04/launch-roundup-041425/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Alpha ready for launch, Falcon 9 to launch cargo to ISS
 - <a href="https://arstechnica.com/space/2025/04/should-the-us-prioritize-settling-mars/" >🔗</a> **[Arstechnica]** Should the US prioritize settling Mars?
 - <a href="https://spacenews.com/derek-tournear-to-return-as-space-development-agency-director-after-investigation/" >🔗</a> **[SpaceNews]** Derek Tournear to return as Space Development Agency director after investigation
 - <a href="https://europeanspaceflight.com/italy-moves-ahead-with-study-for-national-iris2-alternative/" >🔗</a> **[European Spaceflight]** Italy Moves Ahead With Study for National IRIS2 Alternative
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/general/nasa-to-host-webinar-with-small-business-administration-leadership/" >🔗</a> **[NASA]** NASA to Host Webinar with Small Business Administration Leadership
 - <a href="https://science.nasa.gov/learning-resources/science-activation/exploring-the-universe-through-sight-touch-and-sound/" >🔗</a> **[NASA]** Exploring the Universe Through Sight, Touch, and Sound
 - <a href="https://www.nasa.gov/image-article/sculpted-by-luminous-stars/" >🔗</a> **[NASA]** Sculpted by Luminous Stars
-- <a href="https://spacepolicyonline.com/news/all-woman-ns-31-crew-praise-teamwork-sisterhood/" >🔗</a> **[SpacePolicyOnline.com]** All-Woman NS-31 Crew Praise Teamwork, Sisterhood
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250414T230125">2025-04-14 23:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250414T233140">2025-04-14 23:31:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
