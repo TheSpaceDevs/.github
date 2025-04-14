@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/italy-moves-ahead-with-study-for-national-iris2-alternative/" >🔗</a> **[European Spaceflight]** Italy Moves Ahead With Study for National IRIS2 Alternative
+- <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasa-announces-31st-human-exploration-rover-challenge-winners/" >🔗</a> **[NASA]** NASA Announces 31st Human Exploration Rover Challenge Winners
 - <a href="https://www.nasa.gov/centers-and-facilities/wallops/nasa-wallops-breaks-ground-on-new-causeway-bridge/" >🔗</a> **[NASA]** NASA Wallops Breaks Ground on New Causeway Bridge
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-32nd-station-resupply-launch-arrival/" >🔗</a> **[NASA]** NASA Sets Coverage for SpaceX 32nd Station Resupply Launch, Arrival
 - <a href="https://www.nasa.gov/general/nasa-to-host-webinar-with-small-business-administration-leadership/" >🔗</a> **[NASA]** NASA to Host Webinar with Small Business Administration Leadership
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://spacepolicyonline.com/news/all-woman-ns-31-crew-praise-teamwork-sisterhood/" >🔗</a> **[SpacePolicyOnline.com]** All-Woman NS-31 Crew Praise Teamwork, Sisterhood
 - <a href="https://www.nasa.gov/missions/lucy/nasas-lucy-spacecraft-prepares-second-asteroid-encounter/" >🔗</a> **[NASA]** NASA’s Lucy Spacecraft Prepares Second Asteroid Encounter
 - <a href="https://spacenews.com/catch-up-on-all-of-spacenews-space-symposium-2025-coverage/" >🔗</a> **[SpaceNews]** Catch up on all of SpaceNews’ Space Symposium 2025 coverage
-- <a href="https://spacenews.com/multi-orbit-success-or-a-single-point-of-failure/" >🔗</a> **[SpaceNews]** Multi-orbit success or a single-point of failure?
-- <a href="https://spacenews.com/blue-origin-launches-all-woman-new-shepard-suborbital-flight/" >🔗</a> **[SpaceNews]** Blue Origin launches all-woman New Shepard suborbital flight
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250414T193110">2025-04-14 19:31:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250414T200125">2025-04-14 20:01:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
