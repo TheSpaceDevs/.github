@@ -91,6 +91,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/LUNA_s_virtual_leap_towards_the_Moon" >🔗</a> **[ESA]** LUNA’s virtual leap towards the Moon
 - <a href="https://spacenews.com/nasa-extends-seat-barter-agreement-with-roscosmos-into-2027/" >🔗</a> **[SpaceNews]** NASA extends seat barter agreement with Roscosmos into 2027
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-april-13-19-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy April 13-19, 2025
 - <a href="https://www.nasaspaceflight.com/2025/04/spacex-roundup-q12025/" >🔗</a> **[NASASpaceflight]** SpaceX starts 2025 with Falcon records and Starship problems
@@ -100,7 +101,6 @@ into *a Suborbital
 - <a href="https://spacenews.com/noaa-budget-proposal-would-affect-weather-satellite-other-space-programs/" >🔗</a> **[SpaceNews]** NOAA budget proposal would affect weather satellite, other space programs
 - <a href="https://science.nasa.gov/blog/sols-4507-4508-just-keep-driving/" >🔗</a> **[NASA]** Sols 4507-4508: “Just Keep Driving”
 - <a href="https://spacepolicyonline.com/news/isaacmans-golden-age-of-science-discovery-on-shaky-ground/" >🔗</a> **[SpacePolicyOnline.com]** Isaacman’s “Golden Age of Science & Discovery” on Shaky Ground
-- <a href="https://www.nasaspaceflight.com/2025/04/rfa-saxavord-interview/" >🔗</a> **[NASASpaceflight]** RFA and SaxaVord target UK’s first vertical orbital launch
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250414T080144">2025-04-14 08:01:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250414T083722">2025-04-14 08:37:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
