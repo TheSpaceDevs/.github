@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/latitude-secures-france-2030-funding-to-build-reims-factory/" >🔗</a> **[European Spaceflight]** Latitude Secures France 2030 Funding to Build Reims Factory
 - <a href="https://spacenews.com/maryland-congressmen-vow-to-block-proposed-nasa-science-budget-cuts/" >🔗</a> **[SpaceNews]** Maryland congressmen vow to block proposed NASA science budget cuts
 - <a href="https://www.nasaspaceflight.com/2025/04/launch-roundup-041425/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Alpha ready for launch, Falcon 9 to launch cargo to ISS
 - <a href="https://arstechnica.com/space/2025/04/should-the-us-prioritize-settling-mars/" >🔗</a> **[Arstechnica]** Should the US prioritize settling Mars?
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/centers-and-facilities/wallops/nasa-wallops-breaks-ground-on-new-causeway-bridge/" >🔗</a> **[NASA]** NASA Wallops Breaks Ground on New Causeway Bridge
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-32nd-station-resupply-launch-arrival/" >🔗</a> **[NASA]** NASA Sets Coverage for SpaceX 32nd Station Resupply Launch, Arrival
 - <a href="https://www.nasa.gov/general/nasa-to-host-webinar-with-small-business-administration-leadership/" >🔗</a> **[NASA]** NASA to Host Webinar with Small Business Administration Leadership
-- <a href="https://science.nasa.gov/learning-resources/science-activation/exploring-the-universe-through-sight-touch-and-sound/" >🔗</a> **[NASA]** Exploring the Universe Through Sight, Touch, and Sound
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250415T080141">2025-04-15 08:01:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250415T083731">2025-04-15 08:37:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
