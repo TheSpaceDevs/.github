@@ -95,21 +95,22 @@ into *an Unknown
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-tracks-a-roaming-magnetar-of-unknown-origin/" >🔗</a> **[NASA]** NASA’s Hubble Tracks a Roaming Magnetar of Unknown Origin
 - <a href="https://arstechnica.com/space/2025/04/tuesday-telescope-is-the-james-webb-space-telescope-worth-10-billion/" >🔗</a> **[Arstechnica]** Tuesday Telescope: Is the James Webb Space Telescope worth $10 billion?
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Hubble_investigates_a_magnetar_s_birthplace" >🔗</a> **[ESA]** Hubble investigates a magnetar’s birthplace
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/04/Hera_s_Mars_flyby_-_Asteroid_Framing_Camera_colourised" >🔗</a> **[ESA]** Hera's Mars flyby - Asteroid Framing Camera (colourised)
 - <a href="https://tlpnetwork.com/news/america/nasa-kennedy-space-center-to-become-americas-multi-user-spaceport-with-new-nasa-plan" >🔗</a> **[The Launch Pad]** NASA Kennedy Space Center To Become America's Multi User Spaceport with New NASA Plan
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/in-the-starlight-tina-preyan-fuels-the-future-at-johnson/" >🔗</a> **[NASA]** In the Starlight: Tina Preyan Fuels the Future at Johnson
 - <a href="https://europeanspaceflight.com/latitude-secures-france-2030-funding-to-build-reims-factory/" >🔗</a> **[European Spaceflight]** Latitude Secures France 2030 Funding to Build Reims Factory
 - <a href="https://spacenews.com/maryland-congressmen-vow-to-block-proposed-nasa-science-budget-cuts/" >🔗</a> **[SpaceNews]** Maryland congressmen vow to block proposed NASA science budget cuts
 - <a href="https://www.nasaspaceflight.com/2025/04/launch-roundup-041425/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Alpha ready for launch, Falcon 9 to launch cargo to ISS
-- <a href="https://arstechnica.com/space/2025/04/should-the-us-prioritize-settling-mars/" >🔗</a> **[Arstechnica]** Should the US prioritize settling Mars?
 
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2025/04/launch-roundup-041425/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Alpha ready for launch, Falcon 9 to launch cargo to ISS
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250415T130840">2025-04-15 13:08:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250415T133752">2025-04-15 13:37:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
