@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Hubble_investigates_a_magnetar_s_birthplace" >🔗</a> **[ESA]** Hubble investigates a magnetar’s birthplace
+- <a href="https://tlpnetwork.com/news/america/nasa-kennedy-space-center-to-become-americas-multi-user-spaceport-with-new-nasa-plan" >🔗</a> **[The Launch Pad]** NASA Kennedy Space Center To Become America's Multi User Spaceport with New NASA Plan
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/in-the-starlight-tina-preyan-fuels-the-future-at-johnson/" >🔗</a> **[NASA]** In the Starlight: Tina Preyan Fuels the Future at Johnson
 - <a href="https://europeanspaceflight.com/latitude-secures-france-2030-funding-to-build-reims-factory/" >🔗</a> **[European Spaceflight]** Latitude Secures France 2030 Funding to Build Reims Factory
 - <a href="https://spacenews.com/maryland-congressmen-vow-to-block-proposed-nasa-science-budget-cuts/" >🔗</a> **[SpaceNews]** Maryland congressmen vow to block proposed NASA science budget cuts
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/derek-tournear-to-return-as-space-development-agency-director-after-investigation/" >🔗</a> **[SpaceNews]** Derek Tournear to return as Space Development Agency director after investigation
 - <a href="https://europeanspaceflight.com/italy-moves-ahead-with-study-for-national-iris2-alternative/" >🔗</a> **[European Spaceflight]** Italy Moves Ahead With Study for National IRIS2 Alternative
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasa-announces-31st-human-exploration-rover-challenge-winners/" >🔗</a> **[NASA]** NASA Announces 31st Human Exploration Rover Challenge Winners
-- <a href="https://www.nasa.gov/centers-and-facilities/wallops/nasa-wallops-breaks-ground-on-new-causeway-bridge/" >🔗</a> **[NASA]** NASA Wallops Breaks Ground on New Causeway Bridge
-- <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-32nd-station-resupply-launch-arrival/" >🔗</a> **[NASA]** NASA Sets Coverage for SpaceX 32nd Station Resupply Launch, Arrival
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250415T113111">2025-04-15 11:31:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250415T120217">2025-04-15 12:02:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
