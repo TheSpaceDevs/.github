@@ -91,6 +91,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/america/major-nasa-budget-cuts-confirmed-science-programs-cut-in-half-in-white-house-budget" >🔗</a> **[The Launch Pad]** Major NASA Budget Cuts Confirmed; Science Programs Cut In Half In White House Budget
+- <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-tracks-a-roaming-magnetar-of-unknown-origin/" >🔗</a> **[NASA]** NASA’s Hubble Tracks a Roaming Magnetar of Unknown Origin
+- <a href="https://arstechnica.com/space/2025/04/tuesday-telescope-is-the-james-webb-space-telescope-worth-10-billion/" >🔗</a> **[Arstechnica]** Tuesday Telescope: Is the James Webb Space Telescope worth $10 billion?
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Hubble_investigates_a_magnetar_s_birthplace" >🔗</a> **[ESA]** Hubble investigates a magnetar’s birthplace
 - <a href="https://tlpnetwork.com/news/america/nasa-kennedy-space-center-to-become-americas-multi-user-spaceport-with-new-nasa-plan" >🔗</a> **[The Launch Pad]** NASA Kennedy Space Center To Become America's Multi User Spaceport with New NASA Plan
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/in-the-starlight-tina-preyan-fuels-the-future-at-johnson/" >🔗</a> **[NASA]** In the Starlight: Tina Preyan Fuels the Future at Johnson
@@ -98,9 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/maryland-congressmen-vow-to-block-proposed-nasa-science-budget-cuts/" >🔗</a> **[SpaceNews]** Maryland congressmen vow to block proposed NASA science budget cuts
 - <a href="https://www.nasaspaceflight.com/2025/04/launch-roundup-041425/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Alpha ready for launch, Falcon 9 to launch cargo to ISS
 - <a href="https://arstechnica.com/space/2025/04/should-the-us-prioritize-settling-mars/" >🔗</a> **[Arstechnica]** Should the US prioritize settling Mars?
-- <a href="https://spacenews.com/derek-tournear-to-return-as-space-development-agency-director-after-investigation/" >🔗</a> **[SpaceNews]** Derek Tournear to return as Space Development Agency director after investigation
-- <a href="https://europeanspaceflight.com/italy-moves-ahead-with-study-for-national-iris2-alternative/" >🔗</a> **[European Spaceflight]** Italy Moves Ahead With Study for National IRIS2 Alternative
-- <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasa-announces-31st-human-exploration-rover-challenge-winners/" >🔗</a> **[NASA]** NASA Announces 31st Human Exploration Rover Challenge Winners
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250415T120217">2025-04-15 12:02:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250415T124306">2025-04-15 12:43:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
