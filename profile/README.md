@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/astranis-clinches-115-million-taiwan-deal-despite-satellite-setback/" >🔗</a> **[SpaceNews]** Astranis clinches $115 million Taiwan deal despite satellite setback
 - <a href="https://tlpnetwork.com/news/america/derek-tournear-reinstated-as-director-of-space-development-agency-following-investigation" >🔗</a> **[The Launch Pad]** Derek Tournear Reinstated as Director of Space Development Agency Following Investigation
 - <a href="https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-aerodynamics-grades-5-8/" >🔗</a> **[NASA]** What Is Aerodynamics? (Grades 5-8)
 - <a href="https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-aerodynamics-grades-k-4/" >🔗</a> **[NASA]** What Is Aerodynamics? (Grades K-4)
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/general/why-do-we-grow-plants-in-space/" >🔗</a> **[NASA]** Why Do We Grow Plants in Space?
 - <a href="https://spacenews.com/startups-to-demonstrate-new-spacecraft-docking-technique/" >🔗</a> **[SpaceNews]** Startups to demonstrate new spacecraft docking technique
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/michael-ciancone-builds-a-lasting-legacy-in-human-spaceflight/" >🔗</a> **[NASA]** Michael Ciancone Builds a Lasting Legacy in Human Spaceflight
-- <a href="https://science.nasa.gov/solar-system/moon/can-solar-wind-make-water-on-moon/" >🔗</a> **[NASA]** Can Solar Wind Make Water on Moon? NASA Experiment Shows Maybe
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250415T193112">2025-04-15 19:31:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250415T200134">2025-04-15 20:01:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
