@@ -91,7 +91,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/america/roscosmos-to-reduce-launches-to-iss-nasa-crew-exchange-agreement-extended-through-2027" >🔗</a> **[The Launch Pad]** Roscosmos To Reduce Launches To ISS; NASA Crew Exchange Agreement Extended Through 2027
 - <a href="https://spacenews.com/astranis-clinches-115-million-taiwan-deal-despite-satellite-setback/" >🔗</a> **[SpaceNews]** Astranis clinches $115 million Taiwan deal despite satellite setback
+- <a href="https://tlpnetwork.com/news/america/rocketlab-haste-launch-vehicle-selected-for-multi-billion-dollar-us-and-uk-defense-programs" >🔗</a> **[The Launch Pad]** RocketLab HASTE Launch Vehicle Selected for Multi-Billion Dollar US & UK Defense Programs
 - <a href="https://tlpnetwork.com/news/america/derek-tournear-reinstated-as-director-of-space-development-agency-following-investigation" >🔗</a> **[The Launch Pad]** Derek Tournear Reinstated as Director of Space Development Agency Following Investigation
 - <a href="https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-aerodynamics-grades-5-8/" >🔗</a> **[NASA]** What Is Aerodynamics? (Grades 5-8)
 - <a href="https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-aerodynamics-grades-k-4/" >🔗</a> **[NASA]** What Is Aerodynamics? (Grades K-4)
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/social-media/nasa-socials-program/experience-the-launch-of-nasas-spacex-crew-11-mission/" >🔗</a> **[NASA]** Experience the Launch of NASA’s SpaceX Crew-11 Mission
 - <a href="https://science.nasa.gov/science-research/biological-physical-sciences/atomic-clock-and-plant-dna-research-launching-aboard-nasas-spacex-crs-32-mission/" >🔗</a> **[NASA]** Atomic Clock and Plant DNA Research Launching Aboard NASA’s SpaceX CRS-32 Mission
 - <a href="https://www.nasa.gov/general/why-do-we-grow-plants-in-space/" >🔗</a> **[NASA]** Why Do We Grow Plants in Space?
-- <a href="https://spacenews.com/startups-to-demonstrate-new-spacecraft-docking-technique/" >🔗</a> **[SpaceNews]** Startups to demonstrate new spacecraft docking technique
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/michael-ciancone-builds-a-lasting-legacy-in-human-spaceflight/" >🔗</a> **[NASA]** Michael Ciancone Builds a Lasting Legacy in Human Spaceflight
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250415T200134">2025-04-15 20:01:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250415T203355">2025-04-15 20:33:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
