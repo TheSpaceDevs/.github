@@ -91,6 +91,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/testing-nasas-imap-interstellar-mapping-and-acceleration-probe/" >🔗</a> **[NASA]** Testing NASA’s IMAP (Interstellar Mapping and Acceleration Probe)
+- <a href="https://www.nasa.gov/social-media/nasa-socials-program/experience-the-launch-of-nasas-spacex-crew-11-mission/" >🔗</a> **[NASA]** Experience the Launch of NASA’s SpaceX Crew-11 Mission
+- <a href="https://science.nasa.gov/science-research/biological-physical-sciences/atomic-clock-and-plant-dna-research-launching-aboard-nasas-spacex-crs-32-mission/" >🔗</a> **[NASA]** Atomic Clock and Plant DNA Research Launching Aboard NASA’s SpaceX CRS-32 Mission
 - <a href="https://www.nasa.gov/general/why-do-we-grow-plants-in-space/" >🔗</a> **[NASA]** Why Do We Grow Plants in Space?
 - <a href="https://spacenews.com/startups-to-demonstrate-new-spacecraft-docking-technique/" >🔗</a> **[SpaceNews]** Startups to demonstrate new spacecraft docking technique
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/michael-ciancone-builds-a-lasting-legacy-in-human-spaceflight/" >🔗</a> **[NASA]** Michael Ciancone Builds a Lasting Legacy in Human Spaceflight
@@ -98,9 +101,6 @@ into *an Unknown
 - <a href="https://tlpnetwork.com/news/america/major-nasa-budget-cuts-confirmed-science-programs-cut-in-half-in-white-house-budget" >🔗</a> **[The Launch Pad]** Major NASA Budget Cuts Confirmed; Science Programs Cut In Half In White House Budget
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-tracks-a-roaming-magnetar-of-unknown-origin/" >🔗</a> **[NASA]** NASA’s Hubble Tracks a Roaming Magnetar of Unknown Origin
 - <a href="https://arstechnica.com/space/2025/04/tuesday-telescope-is-the-james-webb-space-telescope-worth-10-billion/" >🔗</a> **[Arstechnica]** Tuesday Telescope: Is the James Webb Space Telescope worth $10 billion?
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Hubble_investigates_a_magnetar_s_birthplace" >🔗</a> **[ESA]** Hubble investigates a magnetar’s birthplace
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/04/Hera_s_Mars_flyby_-_Asteroid_Framing_Camera_colourised" >🔗</a> **[ESA]** Hera's Mars flyby - Asteroid Framing Camera (colourised)
-- <a href="https://tlpnetwork.com/news/america/nasa-kennedy-space-center-to-become-americas-multi-user-spaceport-with-new-nasa-plan" >🔗</a> **[The Launch Pad]** NASA Kennedy Space Center To Become America's Multi User Spaceport with New NASA Plan
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250415T160131">2025-04-15 16:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250415T163657">2025-04-15 16:36:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
