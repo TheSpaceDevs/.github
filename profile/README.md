@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/why-do-we-grow-plants-in-space/" >🔗</a> **[NASA]** Why Do We Grow Plants in Space?
 - <a href="https://spacenews.com/startups-to-demonstrate-new-spacecraft-docking-technique/" >🔗</a> **[SpaceNews]** Startups to demonstrate new spacecraft docking technique
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/michael-ciancone-builds-a-lasting-legacy-in-human-spaceflight/" >🔗</a> **[NASA]** Michael Ciancone Builds a Lasting Legacy in Human Spaceflight
 - <a href="https://science.nasa.gov/solar-system/moon/can-solar-wind-make-water-on-moon/" >🔗</a> **[NASA]** Can Solar Wind Make Water on Moon? NASA Experiment Shows Maybe
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Hubble_investigates_a_magnetar_s_birthplace" >🔗</a> **[ESA]** Hubble investigates a magnetar’s birthplace
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/04/Hera_s_Mars_flyby_-_Asteroid_Framing_Camera_colourised" >🔗</a> **[ESA]** Hera's Mars flyby - Asteroid Framing Camera (colourised)
 - <a href="https://tlpnetwork.com/news/america/nasa-kennedy-space-center-to-become-americas-multi-user-spaceport-with-new-nasa-plan" >🔗</a> **[The Launch Pad]** NASA Kennedy Space Center To Become America's Multi User Spaceport with New NASA Plan
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/in-the-starlight-tina-preyan-fuels-the-future-at-johnson/" >🔗</a> **[NASA]** In the Starlight: Tina Preyan Fuels the Future at Johnson
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250415T150131">2025-04-15 15:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250415T153430">2025-04-15 15:34:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
