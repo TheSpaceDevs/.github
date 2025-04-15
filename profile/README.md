@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-command-headquarters-battle-reignites/" >🔗</a> **[SpaceNews]** Space Command headquarters battle reignites
+- <a href="https://www.nasaspaceflight.com/2025/04/d-orbit-interview/" >🔗</a> **[NASASpaceflight]** D-Orbit sets course to expand beyond space transportation services
 - <a href="https://tlpnetwork.com/news/america/roscosmos-to-reduce-launches-to-iss-nasa-crew-exchange-agreement-extended-through-2027" >🔗</a> **[The Launch Pad]** Roscosmos To Reduce Launches To ISS; NASA Crew Exchange Agreement Extended Through 2027
 - <a href="https://spacenews.com/astranis-clinches-115-million-taiwan-deal-despite-satellite-setback/" >🔗</a> **[SpaceNews]** Astranis clinches $115 million Taiwan deal despite satellite setback
 - <a href="https://tlpnetwork.com/news/america/rocketlab-haste-launch-vehicle-selected-for-multi-billion-dollar-us-and-uk-defense-programs" >🔗</a> **[The Launch Pad]** RocketLab HASTE Launch Vehicle Selected for Multi-Billion Dollar US & UK Defense Programs
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-aerodynamics-grades-k-4/" >🔗</a> **[NASA]** What Is Aerodynamics? (Grades K-4)
 - <a href="https://www.nasa.gov/image-article/testing-nasas-imap-interstellar-mapping-and-acceleration-probe/" >🔗</a> **[NASA]** Testing NASA’s IMAP (Interstellar Mapping and Acceleration Probe)
 - <a href="https://www.nasa.gov/social-media/nasa-socials-program/experience-the-launch-of-nasas-spacex-crew-11-mission/" >🔗</a> **[NASA]** Experience the Launch of NASA’s SpaceX Crew-11 Mission
-- <a href="https://science.nasa.gov/science-research/biological-physical-sciences/atomic-clock-and-plant-dna-research-launching-aboard-nasas-spacex-crs-32-mission/" >🔗</a> **[NASA]** Atomic Clock and Plant DNA Research Launching Aboard NASA’s SpaceX CRS-32 Mission
-- <a href="https://www.nasa.gov/general/why-do-we-grow-plants-in-space/" >🔗</a> **[NASA]** Why Do We Grow Plants in Space?
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250415T230126">2025-04-15 23:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250415T233201">2025-04-15 23:32:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
