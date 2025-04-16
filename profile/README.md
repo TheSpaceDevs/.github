@@ -20,27 +20,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Minotaur IV | NROL-174**. It is scheduled to be launched by *Northrop Grumman Space Systems*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_8">Space Launch Complex 8</a>, Vandenberg SFB, CA, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250416T190000">2025-04-16 19:00:00 UTC</a>.  Until
-then, this pad will have been used for 8
-out of 800 launches from this location. The launch status is currently
+**Long March 4B | Unknown Payload**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+from *<a href="None">Launch Complex 9</a>, Taiyuan Satellite Launch Center, People's Republic of China*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250418T224400">2025-04-18 22:44:00 UTC</a>.  Until
+then, this pad will have been used for 76
+out of 139 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Government/Top Secret* and the payload will be injected
+*Unknown* and the payload will be injected
 into *an Unknown
 (N/A)*.
 <br>
 <blockquote>
-  Classified payload for the U.S. National Reconnaissance Office.
+  Details TBD.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Minotaur_IV" >
+  <a href="http://en.wikipedia.org/wiki/Long_March_4B" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=34.57635,-120.63245" >
+  <a href="https://www.google.com/maps?q=38.863128,111.589567" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -55,6 +55,7 @@ into *an Unknown
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250429T091500">2025-04-29 09:15:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Vega-C | Biomass&location=Guiana Space Centre, French Guiana&dates=20250429T091500Z%2F20250429T091500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Vega-C | Biomass** from Guiana Space Centre, French Guiana.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250430T000000">2025-04-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 551 | Project Kuiper (KA-01)&location=Cape Canaveral SFS, FL, USA&dates=20250430T000000Z%2F20250430T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 551 | Project Kuiper (KA-01)** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250430T000000">2025-04-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/au.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Eris-1 | Maiden Flight&location=Bowen Orbital Spaceport&dates=20250430T000000Z%2F20250430T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Eris-1 | Maiden Flight** from Bowen Orbital Spaceport.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250430T000000">2025-04-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Bandwagon 3 (Dedicated Mid-Inclination Rideshare)&location=Cape Canaveral SFS, FL, USA&dates=20250430T000000Z%2F20250430T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Bandwagon 3 (Dedicated Mid-Inclination Rideshare)** from Cape Canaveral SFS, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-eases-entry-for-commercial-firms-with-layered-launch-standards/" >🔗</a> **[SpaceNews]** Space Force eases entry for commercial firms with layered launch standards
 - <a href="https://europeanspaceflight.com/poland-green-lights-e52m-earth-observation-constellation/" >🔗</a> **[European Spaceflight]** Poland Green Lights €52M Earth Observation Constellation
 - <a href="https://www.nasa.gov/missions/chandra/nasas-chandra-releases-new-3d-models-of-cosmic-objects/" >🔗</a> **[NASA]** NASA’s Chandra Releases New 3D Models of Cosmic Objects
 - <a href="https://www.nasa.gov/centers-and-facilities/kennedy/nasa-invites-virtual-guests-to-launch-of-spacex-32nd-resupply-mission/" >🔗</a> **[NASA]** NASA Invites Virtual Guests to Launch of SpaceX 32nd Resupply Mission
@@ -99,17 +101,15 @@ into *an Unknown
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/Hubble_offers_a_new_view_of_Sombrero_galaxy" >🔗</a> **[ESA]** Hubble offers a new view of Sombrero galaxy
 - <a href="https://spacenews.com/in-flight-connectivity-where-national-policy-and-global-service-dont-mix/" >🔗</a> **[SpaceNews]** In-flight connectivity – where national policy and global service (don’t) mix
 - <a href="https://www.nasa.gov/humans-in-space/commercial-space/leo-economy/nasa-sees-progress-on-blue-origins-orbital-reef-design-development/" >🔗</a> **[NASA]** NASA Sees Progress on Blue Origin’s Orbital Reef Design Development
-- <a href="https://www.nasa.gov/centers-and-facilities/glenn/going-home-nasa-retires-s-3b-viking-to-pow-mia-museum/" >🔗</a> **[NASA]** Going Home: NASA Retires S-3B Viking to POW/MIA Museum
 
 
 ### Launch-related News 🚀
 
-- <a href="https://www.nasaspaceflight.com/2025/04/launch-roundup-041425/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Alpha ready for launch, Falcon 9 to launch cargo to ISS
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250416T193103">2025-04-16 19:31:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250416T200134">2025-04-16 20:01:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
