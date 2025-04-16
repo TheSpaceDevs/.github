@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Business_with_ESA/Space_technologies_find_new_life_on_Earth" >🔗</a> **[ESA]** Space technologies find new life on Earth
+- <a href="https://spaceflightnow.com/2025/04/16/northrop-grumman-to-launch-first-minotaur-4-rocket-from-vandenberg-in-14-years/" >🔗</a> **[Spaceflight Now]** Northrop Grumman to launch first Minotaur 4 rocket from Vandenberg in 14 years
+- <a href="https://science.nasa.gov/missions/hubble/hubble-provides-new-view-of-galactic-favorite/" >🔗</a> **[NASA]** Hubble Provides New View of Galactic Favorite
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/Hubble_offers_a_new_view_of_Sombrero_galaxy" >🔗</a> **[ESA]** Hubble offers a new view of Sombrero galaxy
 - <a href="https://spacenews.com/in-flight-connectivity-where-national-policy-and-global-service-dont-mix/" >🔗</a> **[SpaceNews]** In-flight connectivity – where national policy and global service (don’t) mix
+- <a href="https://www.nasa.gov/humans-in-space/commercial-space/leo-economy/nasa-sees-progress-on-blue-origins-orbital-reef-design-development/" >🔗</a> **[NASA]** NASA Sees Progress on Blue Origin’s Orbital Reef Design Development
+- <a href="https://www.nasa.gov/centers-and-facilities/glenn/going-home-nasa-retires-s-3b-viking-to-pow-mia-museum/" >🔗</a> **[NASA]** Going Home: NASA Retires S-3B Viking to POW/MIA Museum
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Biomass/Forest_mission_sealed_within_rocket_fairing_for_liftoff" >🔗</a> **[ESA]** Forest mission sealed within rocket fairing for liftoff
 - <a href="https://spacenews.com/bipartisan-caucus-criticizes-proposed-nasa-science-budget-cuts/" >🔗</a> **[SpaceNews]** Bipartisan caucus criticizes proposed NASA science budget cuts
-- <a href="https://spacepolicyonline.com/news/decision-to-move-u-s-space-command-hq-to-alabama-expected-soon/" >🔗</a> **[SpacePolicyOnline.com]** Decision to Move U.S. Space Command HQ to Alabama Expected Soon
-- <a href="https://spacenews.com/rocket-factory-augsburg-replaces-ceo/" >🔗</a> **[SpaceNews]** Rocket Factory Augsburg replaces CEO
-- <a href="https://spacenews.com/space-command-headquarters-battle-reignites/" >🔗</a> **[SpaceNews]** Space Command headquarters battle reignites
-- <a href="https://www.nasaspaceflight.com/2025/04/d-orbit-interview/" >🔗</a> **[NASASpaceflight]** D-Orbit sets course to expand beyond space transportation services
-- <a href="https://tlpnetwork.com/news/america/roscosmos-to-reduce-launches-to-iss-nasa-crew-exchange-agreement-extended-through-2027" >🔗</a> **[The Launch Pad]** Roscosmos To Reduce Launches To ISS; NASA Crew Exchange Agreement Extended Through 2027
-- <a href="https://spacenews.com/astranis-clinches-115-million-taiwan-deal-despite-satellite-setback/" >🔗</a> **[SpaceNews]** Astranis clinches $115 million Taiwan deal despite satellite setback
-- <a href="https://tlpnetwork.com/news/america/rocketlab-haste-launch-vehicle-selected-for-multi-billion-dollar-us-and-uk-defense-programs" >🔗</a> **[The Launch Pad]** RocketLab HASTE Launch Vehicle Selected for Multi-Billion Dollar US & UK Defense Programs
+- <a href="https://science.nasa.gov/blog/sols-4511-4512-low-energy-after-a-big-weekend/" >🔗</a> **[NASA]** Sols 4511-4512: Low energy after a big weekend?
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250416T150133">2025-04-16 15:01:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250416T153450">2025-04-16 15:34:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
