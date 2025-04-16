@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/rocket-factory-augsburg-replaces-ceo/" >🔗</a> **[SpaceNews]** Rocket Factory Augsburg replaces CEO
 - <a href="https://spacenews.com/space-command-headquarters-battle-reignites/" >🔗</a> **[SpaceNews]** Space Command headquarters battle reignites
 - <a href="https://www.nasaspaceflight.com/2025/04/d-orbit-interview/" >🔗</a> **[NASASpaceflight]** D-Orbit sets course to expand beyond space transportation services
 - <a href="https://tlpnetwork.com/news/america/roscosmos-to-reduce-launches-to-iss-nasa-crew-exchange-agreement-extended-through-2027" >🔗</a> **[The Launch Pad]** Roscosmos To Reduce Launches To ISS; NASA Crew Exchange Agreement Extended Through 2027
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-aerodynamics-grades-5-8/" >🔗</a> **[NASA]** What Is Aerodynamics? (Grades 5-8)
 - <a href="https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-aerodynamics-grades-k-4/" >🔗</a> **[NASA]** What Is Aerodynamics? (Grades K-4)
 - <a href="https://www.nasa.gov/image-article/testing-nasas-imap-interstellar-mapping-and-acceleration-probe/" >🔗</a> **[NASA]** Testing NASA’s IMAP (Interstellar Mapping and Acceleration Probe)
-- <a href="https://www.nasa.gov/social-media/nasa-socials-program/experience-the-launch-of-nasas-spacex-crew-11-mission/" >🔗</a> **[NASA]** Experience the Launch of NASA’s SpaceX Crew-11 Mission
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250415T233201">2025-04-15 23:32:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250416T000458">2025-04-16 00:04:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
