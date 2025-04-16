@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ground-twin-built-for-boeings-2026-quantum-satellite-demo/" >🔗</a> **[SpaceNews]** Ground twin built for Boeing’s 2026 quantum satellite demo
 - <a href="https://spacenews.com/space-force-eases-entry-for-commercial-firms-with-layered-launch-standards/" >🔗</a> **[SpaceNews]** Space Force eases entry for commercial firms with layered launch standards
 - <a href="https://europeanspaceflight.com/poland-green-lights-e52m-earth-observation-constellation/" >🔗</a> **[European Spaceflight]** Poland Green Lights €52M Earth Observation Constellation
 - <a href="https://www.nasa.gov/missions/chandra/nasas-chandra-releases-new-3d-models-of-cosmic-objects/" >🔗</a> **[NASA]** NASA’s Chandra Releases New 3D Models of Cosmic Objects
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/missions/hubble/hubble-provides-new-view-of-galactic-favorite/" >🔗</a> **[NASA]** Hubble Provides New View of Galactic Favorite
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/Hubble_offers_a_new_view_of_Sombrero_galaxy" >🔗</a> **[ESA]** Hubble offers a new view of Sombrero galaxy
 - <a href="https://spacenews.com/in-flight-connectivity-where-national-policy-and-global-service-dont-mix/" >🔗</a> **[SpaceNews]** In-flight connectivity – where national policy and global service (don’t) mix
-- <a href="https://www.nasa.gov/humans-in-space/commercial-space/leo-economy/nasa-sees-progress-on-blue-origins-orbital-reef-design-development/" >🔗</a> **[NASA]** NASA Sees Progress on Blue Origin’s Orbital Reef Design Development
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250416T200134">2025-04-16 20:01:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250416T203411">2025-04-16 20:34:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
