@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/poland-green-lights-e52m-earth-observation-constellation/" >🔗</a> **[European Spaceflight]** Poland Green Lights €52M Earth Observation Constellation
+- <a href="https://www.nasa.gov/missions/chandra/nasas-chandra-releases-new-3d-models-of-cosmic-objects/" >🔗</a> **[NASA]** NASA’s Chandra Releases New 3D Models of Cosmic Objects
 - <a href="https://www.nasa.gov/centers-and-facilities/kennedy/nasa-invites-virtual-guests-to-launch-of-spacex-32nd-resupply-mission/" >🔗</a> **[NASA]** NASA Invites Virtual Guests to Launch of SpaceX 32nd Resupply Mission
 - <a href="https://www.esa.int/About_Us/Business_with_ESA/Space_technologies_find_new_life_on_Earth" >🔗</a> **[ESA]** Space technologies find new life on Earth
 - <a href="https://spaceflightnow.com/2025/04/16/northrop-grumman-to-launch-first-minotaur-4-rocket-from-vandenberg-in-14-years/" >🔗</a> **[Spaceflight Now]** Northrop Grumman to launch first Minotaur 4 rocket from Vandenberg in 14 years
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/in-flight-connectivity-where-national-policy-and-global-service-dont-mix/" >🔗</a> **[SpaceNews]** In-flight connectivity – where national policy and global service (don’t) mix
 - <a href="https://www.nasa.gov/humans-in-space/commercial-space/leo-economy/nasa-sees-progress-on-blue-origins-orbital-reef-design-development/" >🔗</a> **[NASA]** NASA Sees Progress on Blue Origin’s Orbital Reef Design Development
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/going-home-nasa-retires-s-3b-viking-to-pow-mia-museum/" >🔗</a> **[NASA]** Going Home: NASA Retires S-3B Viking to POW/MIA Museum
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Biomass/Forest_mission_sealed_within_rocket_fairing_for_liftoff" >🔗</a> **[ESA]** Forest mission sealed within rocket fairing for liftoff
-- <a href="https://spacenews.com/bipartisan-caucus-criticizes-proposed-nasa-science-budget-cuts/" >🔗</a> **[SpaceNews]** Bipartisan caucus criticizes proposed NASA science budget cuts
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250416T190118">2025-04-16 19:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250416T193103">2025-04-16 19:31:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
