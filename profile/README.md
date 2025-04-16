@@ -91,6 +91,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/04/why-are-two-texas-senators-trying-to-wrest-a-space-shuttle-from-the-smithsonian/" >🔗</a> **[Arstechnica]** Why are two Texas senators trying to wrest a Space Shuttle from the Smithsonian?
+- <a href="https://www.nasa.gov/missions/station/commercial-resupply/spacex-crs/nasas-spacex-32nd-commercial-resupply-mission-overview/" >🔗</a> **[NASA]** NASA’s SpaceX 32nd Commercial Resupply Mission Overview
+- <a href="https://www.nasa.gov/image-article/scrub-jay-at-the-vehicle-assembly-building/" >🔗</a> **[NASA]** Scrub Jay at the Vehicle Assembly Building
 - <a href="https://spacenews.com/ground-twin-built-for-boeings-2026-quantum-satellite-demo/" >🔗</a> **[SpaceNews]** Ground twin built for Boeing’s 2026 quantum satellite demo
 - <a href="https://spacenews.com/space-force-eases-entry-for-commercial-firms-with-layered-launch-standards/" >🔗</a> **[SpaceNews]** Space Force eases entry for commercial firms with layered launch standards
 - <a href="https://europeanspaceflight.com/poland-green-lights-e52m-earth-observation-constellation/" >🔗</a> **[European Spaceflight]** Poland Green Lights €52M Earth Observation Constellation
@@ -98,9 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/centers-and-facilities/kennedy/nasa-invites-virtual-guests-to-launch-of-spacex-32nd-resupply-mission/" >🔗</a> **[NASA]** NASA Invites Virtual Guests to Launch of SpaceX 32nd Resupply Mission
 - <a href="https://www.esa.int/About_Us/Business_with_ESA/Space_technologies_find_new_life_on_Earth" >🔗</a> **[ESA]** Space technologies find new life on Earth
 - <a href="https://spaceflightnow.com/2025/04/16/northrop-grumman-to-launch-first-minotaur-4-rocket-from-vandenberg-in-14-years/" >🔗</a> **[Spaceflight Now]** Northrop Grumman to launch first Minotaur 4 rocket from Vandenberg in 14 years
-- <a href="https://science.nasa.gov/missions/hubble/hubble-provides-new-view-of-galactic-favorite/" >🔗</a> **[NASA]** Hubble Provides New View of Galactic Favorite
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/Hubble_offers_a_new_view_of_Sombrero_galaxy" >🔗</a> **[ESA]** Hubble offers a new view of Sombrero galaxy
-- <a href="https://spacenews.com/in-flight-connectivity-where-national-policy-and-global-service-dont-mix/" >🔗</a> **[SpaceNews]** In-flight connectivity – where national policy and global service (don’t) mix
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250416T210118">2025-04-16 21:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250416T213228">2025-04-16 21:32:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
