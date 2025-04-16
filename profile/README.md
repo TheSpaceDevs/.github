@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/minotaur-iv-rocket-launches-spy-payloads-for-national-reconnaissance-office/" >🔗</a> **[SpaceNews]** Minotaur IV rocket launches spy payloads for National Reconnaissance Office
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/testing-in-the-clouds-nasa-flies-to-improve-satellite-data/" >🔗</a> **[NASA]** Testing in the Clouds: NASA Flies to Improve Satellite Data
 - <a href="https://tlpnetwork.com/news/europe/rocket-factory-augsburg-replaces-ceo" >🔗</a> **[The Launch Pad]** Rocket Factory Augsburg Replaces CEO
 - <a href="https://tlpnetwork.com/news/policy-and-finance/astranis-signs-115-million-deal-for-taiwan-first-dedicated-comms-satellite" >🔗</a> **[The Launch Pad]** Astranis Signs $115 Million Deal for Taiwan’s First Dedicated Comms Satellite
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/ground-twin-built-for-boeings-2026-quantum-satellite-demo/" >🔗</a> **[SpaceNews]** Ground twin built for Boeing’s 2026 quantum satellite demo
 - <a href="https://spacenews.com/space-force-eases-entry-for-commercial-firms-with-layered-launch-standards/" >🔗</a> **[SpaceNews]** Space Force eases entry for commercial firms with layered launch standards
 - <a href="https://europeanspaceflight.com/poland-green-lights-e52m-earth-observation-constellation/" >🔗</a> **[European Spaceflight]** Poland Green Lights €52M Earth Observation Constellation
-- <a href="https://www.nasa.gov/missions/chandra/nasas-chandra-releases-new-3d-models-of-cosmic-objects/" >🔗</a> **[NASA]** NASA’s Chandra Releases New 3D Models of Cosmic Objects
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250416T230114">2025-04-16 23:01:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250416T233144">2025-04-16 23:31:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
