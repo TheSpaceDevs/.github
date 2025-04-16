@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/in-flight-connectivity-where-national-policy-and-global-service-dont-mix/" >🔗</a> **[SpaceNews]** In-flight connectivity – where national policy and global service (don’t) mix
 - <a href="https://spacenews.com/bipartisan-caucus-criticizes-proposed-nasa-science-budget-cuts/" >🔗</a> **[SpaceNews]** Bipartisan caucus criticizes proposed NASA science budget cuts
 - <a href="https://spacepolicyonline.com/news/decision-to-move-u-s-space-command-hq-to-alabama-expected-soon/" >🔗</a> **[SpacePolicyOnline.com]** Decision to Move U.S. Space Command HQ to Alabama Expected Soon
 - <a href="https://spacenews.com/rocket-factory-augsburg-replaces-ceo/" >🔗</a> **[SpaceNews]** Rocket Factory Augsburg replaces CEO
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/astranis-clinches-115-million-taiwan-deal-despite-satellite-setback/" >🔗</a> **[SpaceNews]** Astranis clinches $115 million Taiwan deal despite satellite setback
 - <a href="https://tlpnetwork.com/news/america/rocketlab-haste-launch-vehicle-selected-for-multi-billion-dollar-us-and-uk-defense-programs" >🔗</a> **[The Launch Pad]** RocketLab HASTE Launch Vehicle Selected for Multi-Billion Dollar US & UK Defense Programs
 - <a href="https://tlpnetwork.com/news/america/derek-tournear-reinstated-as-director-of-space-development-agency-following-investigation" >🔗</a> **[The Launch Pad]** Derek Tournear Reinstated as Director of Space Development Agency Following Investigation
-- <a href="https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-aerodynamics-grades-5-8/" >🔗</a> **[NASA]** What Is Aerodynamics? (Grades 5-8)
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250416T130844">2025-04-16 13:08:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250416T133727">2025-04-16 13:37:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
