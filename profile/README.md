@@ -91,6 +91,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/testing-in-the-clouds-nasa-flies-to-improve-satellite-data/" >🔗</a> **[NASA]** Testing in the Clouds: NASA Flies to Improve Satellite Data
+- <a href="https://tlpnetwork.com/news/europe/rocket-factory-augsburg-replaces-ceo" >🔗</a> **[The Launch Pad]** Rocket Factory Augsburg Replaces CEO
+- <a href="https://tlpnetwork.com/news/policy-and-finance/astranis-signs-115-million-deal-for-taiwan-first-dedicated-comms-satellite" >🔗</a> **[The Launch Pad]** Astranis Signs $115 Million Deal for Taiwan’s First Dedicated Comms Satellite
 - <a href="https://arstechnica.com/space/2025/04/why-are-two-texas-senators-trying-to-wrest-a-space-shuttle-from-the-smithsonian/" >🔗</a> **[Arstechnica]** Why are two Texas senators trying to wrest a Space Shuttle from the Smithsonian?
 - <a href="https://www.nasa.gov/missions/station/commercial-resupply/spacex-crs/nasas-spacex-32nd-commercial-resupply-mission-overview/" >🔗</a> **[NASA]** NASA’s SpaceX 32nd Commercial Resupply Mission Overview
 - <a href="https://www.nasa.gov/image-article/scrub-jay-at-the-vehicle-assembly-building/" >🔗</a> **[NASA]** Scrub Jay at the Vehicle Assembly Building
@@ -98,9 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/space-force-eases-entry-for-commercial-firms-with-layered-launch-standards/" >🔗</a> **[SpaceNews]** Space Force eases entry for commercial firms with layered launch standards
 - <a href="https://europeanspaceflight.com/poland-green-lights-e52m-earth-observation-constellation/" >🔗</a> **[European Spaceflight]** Poland Green Lights €52M Earth Observation Constellation
 - <a href="https://www.nasa.gov/missions/chandra/nasas-chandra-releases-new-3d-models-of-cosmic-objects/" >🔗</a> **[NASA]** NASA’s Chandra Releases New 3D Models of Cosmic Objects
-- <a href="https://www.nasa.gov/centers-and-facilities/kennedy/nasa-invites-virtual-guests-to-launch-of-spacex-32nd-resupply-mission/" >🔗</a> **[NASA]** NASA Invites Virtual Guests to Launch of SpaceX 32nd Resupply Mission
-- <a href="https://www.esa.int/About_Us/Business_with_ESA/Space_technologies_find_new_life_on_Earth" >🔗</a> **[ESA]** Space technologies find new life on Earth
-- <a href="https://spaceflightnow.com/2025/04/16/northrop-grumman-to-launch-first-minotaur-4-rocket-from-vandenberg-in-14-years/" >🔗</a> **[Spaceflight Now]** Northrop Grumman to launch first Minotaur 4 rocket from Vandenberg in 14 years
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250416T220122">2025-04-16 22:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250416T223500">2025-04-16 22:35:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
