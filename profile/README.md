@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/ames/nasas-curiosity-rover-may-have-solved-mars-missing-carbonate-mystery/" >🔗</a> **[NASA]** NASA’s Curiosity Rover May Have Solved Mars’ Missing Carbonate Mystery
+- <a href="https://spacenews.com/bill-nye-on-nasa-budget-cuts-key-space-issues/" >🔗</a> **[SpaceNews]** Bill Nye on NASA budget cuts & key space issues
 - <a href="https://www.nasa.gov/organizations/osbp/nasa-announces-first-mentor-protege-agreement-under-enhanced-program/" >🔗</a> **[NASA]** NASA Announces First Mentor-Protégé Agreement Under Enhanced Program
 - <a href="https://europeanspaceflight.com/giant-dome-door-fitted-to-europes-extremely-large-telescope/" >🔗</a> **[European Spaceflight]** Giant Dome Door Fitted to Europe’s Extremely Large Telescope
 - <a href="https://spacenews.com/l3harris-expands-space-manufacturing-as-companies-vie-for-position-in-golden-dome/" >🔗</a> **[SpaceNews]** L3Harris expands space manufacturing as companies vie for position in ‘Golden Dome’
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/directorates/somd/meet-the-space-ops-team-becky-brocato/" >🔗</a> **[NASA]** Meet the Space Ops Team: Becky Brocato
 - <a href="https://www.nasa.gov/missions/station/iss-research/science-meets-art-nasa-astronaut-don-pettit-turns-the-camera-on-science/" >🔗</a> **[NASA]** Science Meets Art: NASA Astronaut Don Pettit Turns the Camera on Science
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/recognizing-employee-excellence-2/" >🔗</a> **[NASA]** Recognizing Employee Excellence
-- <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/nasa-glenn-and-cleveland-cavaliers-score-with-stem/" >🔗</a> **[NASA]** NASA Glenn and Cleveland Cavaliers Score With STEM
-- <a href="https://spacenews.com/u-s-space-force-lays-out-battle-plan-for-space-in-new-warfighting-guide/" >🔗</a> **[SpaceNews]** U.S. Space Force lays out battle plan for space in new ‘warfighting’ guide
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250417T180141">2025-04-17 18:01:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250417T183737">2025-04-17 18:37:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
