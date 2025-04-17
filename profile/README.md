@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_spots_clues_of_black_hole_at_heart_of_nearby_galaxy_M83" >🔗</a> **[ESA]** Webb spots clues of black hole at heart of nearby galaxy M83
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Register_now_for_ESA_s_Living_Planet_Symposium_in_Vienna" >🔗</a> **[ESA]** Register now for ESA’s Living Planet Symposium in Vienna
 - <a href="https://spacenews.com/minotaur-iv-rocket-launches-spy-payloads-for-national-reconnaissance-office/" >🔗</a> **[SpaceNews]** Minotaur IV rocket launches spy payloads for National Reconnaissance Office
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/testing-in-the-clouds-nasa-flies-to-improve-satellite-data/" >🔗</a> **[NASA]** Testing in the Clouds: NASA Flies to Improve Satellite Data
 - <a href="https://tlpnetwork.com/news/europe/rocket-factory-augsburg-replaces-ceo" >🔗</a> **[The Launch Pad]** Rocket Factory Augsburg Replaces CEO
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/missions/station/commercial-resupply/spacex-crs/nasas-spacex-32nd-commercial-resupply-mission-overview/" >🔗</a> **[NASA]** NASA’s SpaceX 32nd Commercial Resupply Mission Overview
 - <a href="https://www.nasa.gov/image-article/scrub-jay-at-the-vehicle-assembly-building/" >🔗</a> **[NASA]** Scrub Jay at the Vehicle Assembly Building
 - <a href="https://spacenews.com/ground-twin-built-for-boeings-2026-quantum-satellite-demo/" >🔗</a> **[SpaceNews]** Ground twin built for Boeing’s 2026 quantum satellite demo
-- <a href="https://spacenews.com/space-force-eases-entry-for-commercial-firms-with-layered-launch-standards/" >🔗</a> **[SpaceNews]** Space Force eases entry for commercial firms with layered launch standards
-- <a href="https://europeanspaceflight.com/poland-green-lights-e52m-earth-observation-constellation/" >🔗</a> **[European Spaceflight]** Poland Green Lights €52M Earth Observation Constellation
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250417T080152">2025-04-17 08:01:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250417T083646">2025-04-17 08:36:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
