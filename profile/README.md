@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/u-s-space-force-lays-out-battle-plan-for-space-in-new-warfighting-guide/" >🔗</a> **[SpaceNews]** U.S. Space Force lays out battle plan for space in new ‘warfighting’ guide
 - <a href="https://spacenews.com/texas-space-commission-awards-26-million-to-five-companies/" >🔗</a> **[SpaceNews]** Texas Space Commission awards $26 million to five companies
 - <a href="https://spacenews.com/mission-team-details-complex-rescue-of-chinese-lunar-spacecraft/" >🔗</a> **[SpaceNews]** Mission team details complex rescue of Chinese lunar spacecraft
 - <a href="https://spacenews.com/why-resilient-gps-r-gps-matters-for-us-military-superiority-we-must-address-gps-vulnerabilities/" >🔗</a> **[SpaceNews]** Why Resilient GPS (R-GPS) Matters for US Military Superiority: We Must Address GPS Vulnerabilities
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/testing-in-the-clouds-nasa-flies-to-improve-satellite-data/" >🔗</a> **[NASA]** Testing in the Clouds: NASA Flies to Improve Satellite Data
 - <a href="https://tlpnetwork.com/news/europe/rocket-factory-augsburg-replaces-ceo" >🔗</a> **[The Launch Pad]** Rocket Factory Augsburg Replaces CEO
 - <a href="https://tlpnetwork.com/news/policy-and-finance/astranis-signs-115-million-deal-for-taiwan-first-dedicated-comms-satellite" >🔗</a> **[The Launch Pad]** Astranis Signs $115 Million Deal for Taiwan’s First Dedicated Comms Satellite
-- <a href="https://arstechnica.com/space/2025/04/why-are-two-texas-senators-trying-to-wrest-a-space-shuttle-from-the-smithsonian/" >🔗</a> **[Arstechnica]** Why are two Texas senators trying to wrest a Space Shuttle from the Smithsonian?
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250417T120219">2025-04-17 12:02:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250417T124302">2025-04-17 12:43:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
