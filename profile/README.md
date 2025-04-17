@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/mission-team-details-complex-rescue-of-chinese-lunar-spacecraft/" >🔗</a> **[SpaceNews]** Mission team details complex rescue of Chinese lunar spacecraft
+- <a href="https://spacenews.com/why-resilient-gps-r-gps-matters-for-us-military-superiority-we-must-address-gps-vulnerabilities/" >🔗</a> **[SpaceNews]** Why Resilient GPS (R-GPS) Matters for US Military Superiority: We Must Address GPS Vulnerabilities
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_spots_clues_of_black_hole_at_heart_of_nearby_galaxy_M83" >🔗</a> **[ESA]** Webb spots clues of black hole at heart of nearby galaxy M83
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Register_now_for_ESA_s_Living_Planet_Symposium_in_Vienna" >🔗</a> **[ESA]** Register now for ESA’s Living Planet Symposium in Vienna
 - <a href="https://spacenews.com/minotaur-iv-rocket-launches-spy-payloads-for-national-reconnaissance-office/" >🔗</a> **[SpaceNews]** Minotaur IV rocket launches spy payloads for National Reconnaissance Office
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://tlpnetwork.com/news/policy-and-finance/astranis-signs-115-million-deal-for-taiwan-first-dedicated-comms-satellite" >🔗</a> **[The Launch Pad]** Astranis Signs $115 Million Deal for Taiwan’s First Dedicated Comms Satellite
 - <a href="https://arstechnica.com/space/2025/04/why-are-two-texas-senators-trying-to-wrest-a-space-shuttle-from-the-smithsonian/" >🔗</a> **[Arstechnica]** Why are two Texas senators trying to wrest a Space Shuttle from the Smithsonian?
 - <a href="https://www.nasa.gov/missions/station/commercial-resupply/spacex-crs/nasas-spacex-32nd-commercial-resupply-mission-overview/" >🔗</a> **[NASA]** NASA’s SpaceX 32nd Commercial Resupply Mission Overview
-- <a href="https://www.nasa.gov/image-article/scrub-jay-at-the-vehicle-assembly-building/" >🔗</a> **[NASA]** Scrub Jay at the Vehicle Assembly Building
-- <a href="https://spacenews.com/ground-twin-built-for-boeings-2026-quantum-satellite-demo/" >🔗</a> **[SpaceNews]** Ground twin built for Boeing’s 2026 quantum satellite demo
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250417T110120">2025-04-17 11:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250417T113132">2025-04-17 11:31:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
