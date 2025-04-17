@@ -91,6 +91,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/creotech-instruments-secures-e52-million-esa-contract-to-build-polish-satellite-constellation-camila/" >🔗</a> **[SpaceNews]** Creotech Instruments secures €52 million ESA contract to build Polish satellite constellation CAMILA
+- <a href="https://www.nasa.gov/image-article/nasa-supports-next-generation-of-innovators/" >🔗</a> **[NASA]** NASA Supports Next Generation of Innovators
+- <a href="https://www.nasa.gov/directorates/somd/meet-the-space-ops-team-becky-brocato/" >🔗</a> **[NASA]** Meet the Space Ops Team: Becky Brocato
 - <a href="https://www.nasa.gov/missions/station/iss-research/science-meets-art-nasa-astronaut-don-pettit-turns-the-camera-on-science/" >🔗</a> **[NASA]** Science Meets Art: NASA Astronaut Don Pettit Turns the Camera on Science
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/recognizing-employee-excellence-2/" >🔗</a> **[NASA]** Recognizing Employee Excellence
 - <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/nasa-glenn-and-cleveland-cavaliers-score-with-stem/" >🔗</a> **[NASA]** NASA Glenn and Cleveland Cavaliers Score With STEM
@@ -98,9 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/texas-space-commission-awards-26-million-to-five-companies/" >🔗</a> **[SpaceNews]** Texas Space Commission awards $26 million to five companies
 - <a href="https://spacenews.com/mission-team-details-complex-rescue-of-chinese-lunar-spacecraft/" >🔗</a> **[SpaceNews]** Mission team details complex rescue of Chinese lunar spacecraft
 - <a href="https://spacenews.com/why-resilient-gps-r-gps-matters-for-us-military-superiority-we-must-address-gps-vulnerabilities/" >🔗</a> **[SpaceNews]** Why Resilient GPS (R-GPS) Matters for US Military Superiority: We Must Address GPS Vulnerabilities
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_spots_clues_of_black_hole_at_heart_of_nearby_galaxy_M83" >🔗</a> **[ESA]** Webb spots clues of black hole at heart of nearby galaxy M83
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Register_now_for_ESA_s_Living_Planet_Symposium_in_Vienna" >🔗</a> **[ESA]** Register now for ESA’s Living Planet Symposium in Vienna
-- <a href="https://spacenews.com/minotaur-iv-rocket-launches-spy-payloads-for-national-reconnaissance-office/" >🔗</a> **[SpaceNews]** Minotaur IV rocket launches spy payloads for National Reconnaissance Office
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250417T150130">2025-04-17 15:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250417T153351">2025-04-17 15:33:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
