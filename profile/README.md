@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blog/origins-uncertain-skull-hill-rock/" >🔗</a> **[NASA]** Origins Uncertain: ‘Skull Hill’ Rock
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-studies-wind-effects-and-aircraft-tracking-with-joby-aircraft/" >🔗</a> **[NASA]** NASA Studies Wind Effects and Aircraft Tracking with Joby Aircraft
 - <a href="https://www.nasaspaceflight.com/2025/04/cape-flyover-041625/" >🔗</a> **[NASASpaceflight]** Cape launch sites bustling with activity, New Glenn and Starship preparations underway
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-to-answer-questions-from-colorado-students/" >🔗</a> **[NASA]** NASA Astronaut to Answer Questions from Colorado Students
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/nasas-curiosity-rover-may-have-solved-mars-missing-carbonate-mystery/" >🔗</a> **[NASA]** NASA’s Curiosity Rover May Have Solved Mars’ Missing Carbonate Mystery
 - <a href="https://spacenews.com/bill-nye-on-nasa-budget-cuts-key-space-issues/" >🔗</a> **[SpaceNews]** Bill Nye on NASA budget cuts & key space issues
 - <a href="https://www.nasa.gov/organizations/osbp/nasa-announces-first-mentor-protege-agreement-under-enhanced-program/" >🔗</a> **[NASA]** NASA Announces First Mentor-Protégé Agreement Under Enhanced Program
-- <a href="https://europeanspaceflight.com/giant-dome-door-fitted-to-europes-extremely-large-telescope/" >🔗</a> **[European Spaceflight]** Giant Dome Door Fitted to Europe’s Extremely Large Telescope
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250417T220114">2025-04-17 22:01:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250417T223402">2025-04-17 22:34:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
