@@ -91,6 +91,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/organizations/osbp/nasa-announces-first-mentor-protege-agreement-under-enhanced-program/" >🔗</a> **[NASA]** NASA Announces First Mentor-Protégé Agreement Under Enhanced Program
+- <a href="https://europeanspaceflight.com/giant-dome-door-fitted-to-europes-extremely-large-telescope/" >🔗</a> **[European Spaceflight]** Giant Dome Door Fitted to Europe’s Extremely Large Telescope
+- <a href="https://spacenews.com/l3harris-expands-space-manufacturing-as-companies-vie-for-position-in-golden-dome/" >🔗</a> **[SpaceNews]** L3Harris expands space manufacturing as companies vie for position in ‘Golden Dome’
 - <a href="https://spacenews.com/creotech-instruments-secures-e52-million-esa-contract-to-build-polish-satellite-constellation-camila/" >🔗</a> **[SpaceNews]** Creotech Instruments secures €52 million ESA contract to build Polish satellite constellation CAMILA
 - <a href="https://www.nasa.gov/image-article/nasa-supports-next-generation-of-innovators/" >🔗</a> **[NASA]** NASA Supports Next Generation of Innovators
 - <a href="https://www.nasa.gov/directorates/somd/meet-the-space-ops-team-becky-brocato/" >🔗</a> **[NASA]** Meet the Space Ops Team: Becky Brocato
@@ -98,9 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/recognizing-employee-excellence-2/" >🔗</a> **[NASA]** Recognizing Employee Excellence
 - <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/nasa-glenn-and-cleveland-cavaliers-score-with-stem/" >🔗</a> **[NASA]** NASA Glenn and Cleveland Cavaliers Score With STEM
 - <a href="https://spacenews.com/u-s-space-force-lays-out-battle-plan-for-space-in-new-warfighting-guide/" >🔗</a> **[SpaceNews]** U.S. Space Force lays out battle plan for space in new ‘warfighting’ guide
-- <a href="https://spacenews.com/texas-space-commission-awards-26-million-to-five-companies/" >🔗</a> **[SpaceNews]** Texas Space Commission awards $26 million to five companies
-- <a href="https://spacenews.com/mission-team-details-complex-rescue-of-chinese-lunar-spacecraft/" >🔗</a> **[SpaceNews]** Mission team details complex rescue of Chinese lunar spacecraft
-- <a href="https://spacenews.com/why-resilient-gps-r-gps-matters-for-us-military-superiority-we-must-address-gps-vulnerabilities/" >🔗</a> **[SpaceNews]** Why Resilient GPS (R-GPS) Matters for US Military Superiority: We Must Address GPS Vulnerabilities
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250417T160126">2025-04-17 16:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250417T163707">2025-04-17 16:37:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
