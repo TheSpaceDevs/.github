@@ -91,6 +91,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-studies-wind-effects-and-aircraft-tracking-with-joby-aircraft/" >🔗</a> **[NASA]** NASA Studies Wind Effects and Aircraft Tracking with Joby Aircraft
+- <a href="https://www.nasaspaceflight.com/2025/04/cape-flyover-041625/" >🔗</a> **[NASASpaceflight]** Cape launch sites bustling with activity, New Glenn and Starship preparations underway
+- <a href="https://www.nasa.gov/news-release/nasa-astronaut-to-answer-questions-from-colorado-students/" >🔗</a> **[NASA]** NASA Astronaut to Answer Questions from Colorado Students
 - <a href="https://www.nasa.gov/image-article/space-shuttle-discovery-lifts-off-2/" >🔗</a> **[NASA]** Space Shuttle Discovery Lifts Off
 - <a href="https://spacenews.com/multilateral-coordination-will-be-needed-for-commercial-space-stations/" >🔗</a> **[SpaceNews]** Multilateral coordination will be needed for commercial space stations
 - <a href="https://science.nasa.gov/learning-resources/science-activation/building-for-a-better-world-norfolk-students-bring-stem-to-life-with-nasa-partnership/" >🔗</a> **[NASA]** Building for a Better World: Norfolk Students Bring STEM to Life with NASA Partnership
@@ -98,9 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/bill-nye-on-nasa-budget-cuts-key-space-issues/" >🔗</a> **[SpaceNews]** Bill Nye on NASA budget cuts & key space issues
 - <a href="https://www.nasa.gov/organizations/osbp/nasa-announces-first-mentor-protege-agreement-under-enhanced-program/" >🔗</a> **[NASA]** NASA Announces First Mentor-Protégé Agreement Under Enhanced Program
 - <a href="https://europeanspaceflight.com/giant-dome-door-fitted-to-europes-extremely-large-telescope/" >🔗</a> **[European Spaceflight]** Giant Dome Door Fitted to Europe’s Extremely Large Telescope
-- <a href="https://spacenews.com/l3harris-expands-space-manufacturing-as-companies-vie-for-position-in-golden-dome/" >🔗</a> **[SpaceNews]** L3Harris expands space manufacturing as companies vie for position in ‘Golden Dome’
-- <a href="https://spacenews.com/creotech-instruments-secures-e52-million-esa-contract-to-build-polish-satellite-constellation-camila/" >🔗</a> **[SpaceNews]** Creotech Instruments secures €52 million ESA contract to build Polish satellite constellation CAMILA
-- <a href="https://www.nasa.gov/image-article/nasa-supports-next-generation-of-innovators/" >🔗</a> **[NASA]** NASA Supports Next Generation of Innovators
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250417T210129">2025-04-17 21:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250417T213143">2025-04-17 21:31:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
