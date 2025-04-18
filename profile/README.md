@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/moon-mars-china-leads-to-both/" >🔗</a> **[SpaceNews]** Moon, Mars — China leads to both
 - <a href="https://arstechnica.com/space/2025/04/rocket-report-daytona-rocket-delayed-again-bahamas-tells-spacex-to-hold-up/" >🔗</a> **[Arstechnica]** Rocket Report: Daytona rocket delayed again; Bahamas tells SpaceX to hold up
 - <a href="https://science.nasa.gov/missions/hubble/hubble-spots-a-squid-in-the-whale/" >🔗</a> **[NASA]** Hubble Spots a Squid in the Whale
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/04/ESA_School_Days_2025_at_ESRIN" >🔗</a> **[ESA]** ESA School Days 2025 at ESRIN
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/blog/origins-uncertain-skull-hill-rock/" >🔗</a> **[NASA]** Origins Uncertain: ‘Skull Hill’ Rock
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-studies-wind-effects-and-aircraft-tracking-with-joby-aircraft/" >🔗</a> **[NASA]** NASA Studies Wind Effects and Aircraft Tracking with Joby Aircraft
 - <a href="https://www.nasaspaceflight.com/2025/04/cape-flyover-041625/" >🔗</a> **[NASASpaceflight]** Cape launch sites bustling with activity, New Glenn and Starship preparations underway
-- <a href="https://www.nasa.gov/news-release/nasa-astronaut-to-answer-questions-from-colorado-students/" >🔗</a> **[NASA]** NASA Astronaut to Answer Questions from Colorado Students
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250418T130701">2025-04-18 13:07:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250418T133504">2025-04-18 13:35:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
