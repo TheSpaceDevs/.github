@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/nasa-calibrates-second-shock-sensing-probe-for-x-59-testing/" >🔗</a> **[NASA]** NASA Calibrates Second Shock-Sensing Probe for X-59 Testing
 - <a href="https://science.nasa.gov/missions/hubble/hubble-spies-cosmic-pillar-in-eagle-nebula/" >🔗</a> **[NASA]** Hubble Spies Cosmic Pillar in Eagle Nebula
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenn-to-test-air-quality-monitors-aboard-space-station/" >🔗</a> **[NASA]** NASA Glenn to Test Air Quality Monitors Aboard Space Station
 - <a href="https://spacenews.com/moon-mars-china-leads-to-both/" >🔗</a> **[SpaceNews]** Moon, Mars — China leads to both
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/Earth_from_Space_Giza_Egypt" >🔗</a> **[ESA]** Earth from Space: Giza, Egypt
 - <a href="https://spacenews.com/nasa-safety-panel-warns-of-increasing-risks-to-iss-operations/" >🔗</a> **[SpaceNews]** NASA safety panel warns of increasing risks to ISS operations
 - <a href="https://spacepolicyonline.com/news/nasa-safety-panel-worried-about-aging-iss-need-for-successor/" >🔗</a> **[SpacePolicyOnline.com]** NASA Safety Panel Worried About Aging ISS, Need for Successor
-- <a href="https://science.nasa.gov/blog/origins-uncertain-skull-hill-rock/" >🔗</a> **[NASA]** Origins Uncertain: ‘Skull Hill’ Rock
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250418T160139">2025-04-18 16:01:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250418T163604">2025-04-18 16:36:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
