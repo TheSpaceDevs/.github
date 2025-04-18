@@ -20,27 +20,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Long March 4B | Unknown Payload**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-from *<a href="None">Launch Complex 9</a>, Taiyuan Satellite Launch Center, People's Republic of China*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250418T224400">2025-04-18 22:44:00 UTC</a>.  Until
-then, this pad will have been used for 76
-out of 139 launches from this location. The launch status is currently
-*Go* 🟩 . The mission type is
-*Unknown* and the payload will be injected
+**Falcon 9 Block 5 | NROL-145**. It is scheduled to be launched by *SpaceX*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250420T102700">2025-04-20 10:27:00 UTC</a>.  Until
+then, this pad will have been used for 188
+out of 801 launches from this location. The launch status is currently
+*TBC* 🟨 . The mission type is
+*Government/Top Secret* and the payload will be injected
 into *an Unknown
 (N/A)*.
 <br>
 <blockquote>
-  Details TBD.
+  Tenth batch of satellites for a reconnaissance satellite constellation built by SpaceX and Northrop Grumman for the National Reconnaissance Office to provide imaging and other reconnaissance capabilities.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="http://en.wikipedia.org/wiki/Long_March_4B" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=38.863128,111.589567" >
+  <a href="https://www.google.com/maps?q=34.632,-120.611" >
     <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -54,6 +54,7 @@ into *an Unknown
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250425T013200">2025-04-25 01:32:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-74&location=Cape Canaveral SFS, FL, USA&dates=20250425T013200Z%2F20250425T063900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-74** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250425T214000">2025-04-25 21:40:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-9&location=Vandenberg SFB, CA, USA&dates=20250425T214000Z%2F20250426T021100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-9** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250427T133700">2025-04-27 13:37:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Firefly Alpha | FLTA006 (Message in a Booster)&location=Vandenberg SFB, CA, USA&dates=20250427T133700Z%2F20250427T151700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Firefly Alpha | FLTA006 (Message in a Booster)** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250428T230000">2025-04-28 23:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 551 | Project Kuiper (KA-01)&location=Cape Canaveral SFS, FL, USA&dates=20250428T230000Z%2F20250429T010000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 551 | Project Kuiper (KA-01)** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250429T091500">2025-04-29 09:15:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Vega-C | Biomass&location=Guiana Space Centre, French Guiana&dates=20250429T091500Z%2F20250429T091500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Vega-C | Biomass** from Guiana Space Centre, French Guiana.
 
 
@@ -90,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/states-bid-to-host-a-revamped-nasa-headquarters/" >🔗</a> **[SpaceNews]** States bid to host a revamped NASA headquarters
 - <a href="https://arstechnica.com/space/2025/04/so-is-katy-perry-now-an-astronaut-or-what/" >🔗</a> **[Arstechnica]** So is Katy Perry now an astronaut, or what?
 - <a href="https://www.nasa.gov/image-article/hubble-spies-cosmic-pillar-in-eagle-nebula/" >🔗</a> **[NASA]** Hubble Spies Cosmic Pillar in Eagle Nebula
 - <a href="https://tlpnetwork.com/news/asia/from-bent-panels-and-broken-wings-to-stable-lunar-orbit-inside-chinas-satellite-rescue-mission" >🔗</a> **[The Launch Pad]** From Bent Panels and Broken Wings To Stable Lunar Orbit : Inside China’s Satellite Rescue Mission
@@ -99,16 +101,16 @@ into *an Unknown
 - <a href="https://www.nasa.gov/directorates/stmd/space-tech-research-grants/ecf/developing-oxychalcogenide-membranes-for-superconducting-power-transmission/" >🔗</a> **[NASA]** Developing Oxychalcogenide Membranes for Superconducting Power Transmission
 - <a href="https://www.nasa.gov/directorates/stmd/space-tech-research-grants/stabilized-z-pinch-fusion-driven-electromagnetic-propulsion/" >🔗</a> **[NASA]** Stabilized Z-Pinch Fusion Driven Electromagnetic Propulsion
 - <a href="https://www.nasa.gov/directorates/stmd/space-tech-research-grants/ecf/origami-inspired-diffractive-sail-for-directed-energy-propulsion/" >🔗</a> **[NASA]** Origami-inspired Diffractive Sail for Directed Energy Propulsion
-- <a href="https://www.nasa.gov/directorates/stmd/space-tech-research-grants/concept-demonstration-of-directed-energy-propulsion-with-metasurface-lightsails/" >🔗</a> **[NASA]** Concept Demonstration of Directed Energy Propulsion with Metasurface Lightsails
 
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2025/04/launch-roundup-041425/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Alpha ready for launch, Falcon 9 to launch cargo to ISS
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250418T230128">2025-04-18 23:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250418T233157">2025-04-18 23:31:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
