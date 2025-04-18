@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-safety-panel-warns-of-increasing-risks-to-iss-operations/" >🔗</a> **[SpaceNews]** NASA safety panel warns of increasing risks to ISS operations
 - <a href="https://spacepolicyonline.com/news/nasa-safety-panel-worried-about-aging-iss-need-for-successor/" >🔗</a> **[SpacePolicyOnline.com]** NASA Safety Panel Worried About Aging ISS, Need for Successor
 - <a href="https://science.nasa.gov/blog/origins-uncertain-skull-hill-rock/" >🔗</a> **[NASA]** Origins Uncertain: ‘Skull Hill’ Rock
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-studies-wind-effects-and-aircraft-tracking-with-joby-aircraft/" >🔗</a> **[NASA]** NASA Studies Wind Effects and Aircraft Tracking with Joby Aircraft
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/multilateral-coordination-will-be-needed-for-commercial-space-stations/" >🔗</a> **[SpaceNews]** Multilateral coordination will be needed for commercial space stations
 - <a href="https://science.nasa.gov/learning-resources/science-activation/building-for-a-better-world-norfolk-students-bring-stem-to-life-with-nasa-partnership/" >🔗</a> **[NASA]** Building for a Better World: Norfolk Students Bring STEM to Life with NASA Partnership
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/nasas-curiosity-rover-may-have-solved-mars-missing-carbonate-mystery/" >🔗</a> **[NASA]** NASA’s Curiosity Rover May Have Solved Mars’ Missing Carbonate Mystery
-- <a href="https://spacenews.com/bill-nye-on-nasa-budget-cuts-key-space-issues/" >🔗</a> **[SpaceNews]** Bill Nye on NASA budget cuts & key space issues
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250418T020832">2025-04-18 02:08:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250418T025054">2025-04-18 02:50:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
