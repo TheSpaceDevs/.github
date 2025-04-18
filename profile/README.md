@@ -47,7 +47,7 @@ into *an Unknown
 
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250418T224400">2025-04-18 22:44:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 4B | Unknown Payload&location=Taiyuan Satellite Launch Center, People&#x27;s Republic of China&dates=20250418T224400Z%2F20250418T231000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 4B | Unknown Payload** from Taiyuan Satellite Launch Center, People's Republic of China.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250419T104100">2025-04-19 10:41:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | NROL-145&location=Vandenberg SFB, CA, USA&dates=20250419T104100Z%2F20250419T144100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | NROL-145** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250420T102700">2025-04-20 10:27:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | NROL-145&location=Vandenberg SFB, CA, USA&dates=20250420T102700Z%2F20250420T145600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | NROL-145** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250421T081534">2025-04-21 08:15:34 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Dragon CRS-2 SpX-32&location=Kennedy Space Center, FL, USA&dates=20250421T081534Z%2F20250421T081534Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Dragon CRS-2 SpX-32** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250422T004300">2025-04-22 00:43:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Bandwagon 3 (Dedicated Mid-Inclination Rideshare)&location=Cape Canaveral SFS, FL, USA&dates=20250422T004300Z%2F20250422T012300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Bandwagon 3 (Dedicated Mid-Inclination Rideshare)** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250422T153900">2025-04-22 15:39:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 8 | G60 Group TBD&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20250422T153900Z%2F20250422T170200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 8 | G60 Group TBD** from Wenchang Space Launch Site, People's Republic of China.
@@ -91,6 +91,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/asia/from-bent-panels-and-broken-wings-to-stable-lunar-orbit-inside-chinas-satellite-rescue-mission" >🔗</a> **[The Launch Pad]** From Bent Panels and Broken Wings To Stable Lunar Orbit : Inside China’s Satellite Rescue Mission
+- <a href="https://tlpnetwork.com/news/america/minotaur-iv-rocket-launches-classified-nrol-174-from-vandenberg-in-return-to-california-skies" >🔗</a> **[The Launch Pad]** Minotaur IV Rocket Launches Classified NROL-174 Payloads from Vandenberg in Return to California Skies
+- <a href="https://www.nasa.gov/news-release/nasa-to-cover-us-spacewalk-93-hold-preview-news-conference/" >🔗</a> **[NASA]** NASA to Cover US Spacewalk 93, Hold Preview News Conference
 - <a href="https://www.nasa.gov/directorates/stmd/space-tech-research-grants/early-career-faculty-2024/" >🔗</a> **[NASA]** Early Career Faculty 2024
 - <a href="https://www.nasa.gov/directorates/stmd/space-tech-research-grants/ecf/developing-oxychalcogenide-membranes-for-superconducting-power-transmission/" >🔗</a> **[NASA]** Developing Oxychalcogenide Membranes for Superconducting Power Transmission
 - <a href="https://www.nasa.gov/directorates/stmd/space-tech-research-grants/stabilized-z-pinch-fusion-driven-electromagnetic-propulsion/" >🔗</a> **[NASA]** Stabilized Z-Pinch Fusion Driven Electromagnetic Propulsion
@@ -98,9 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/directorates/stmd/space-tech-research-grants/concept-demonstration-of-directed-energy-propulsion-with-metasurface-lightsails/" >🔗</a> **[NASA]** Concept Demonstration of Directed Energy Propulsion with Metasurface Lightsails
 - <a href="https://www.nasa.gov/directorates/stmd/space-tech-research-grants/development-of-a-mw-scale-high-voltage-multiphase-dual-rotor-generator-and-rectifier-for-a-pmad-in-an-nep-system/" >🔗</a> **[NASA]** Development of a MW-Scale High-Voltage Multiphase Dual-Rotor Generator and Rectifier for a PMAD in an NEP System
 - <a href="https://www.nasa.gov/centers-and-facilities/wallops/a-fond-farewell-nasas-c-130-begins-new-mission-in-california/" >🔗</a> **[NASA]** A Fond Farewell: NASA’s C-130 Begins New Mission in California
-- <a href="https://www.nasa.gov/image-article/nasa-calibrates-second-shock-sensing-probe-for-x-59-testing/" >🔗</a> **[NASA]** NASA Calibrates Second Shock-Sensing Probe for X-59 Testing
-- <a href="https://science.nasa.gov/missions/hubble/hubble-spies-cosmic-pillar-in-eagle-nebula/" >🔗</a> **[NASA]** Hubble Spies Cosmic Pillar in Eagle Nebula
-- <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenn-to-test-air-quality-monitors-aboard-space-station/" >🔗</a> **[NASA]** NASA Glenn to Test Air Quality Monitors Aboard Space Station
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250418T180132">2025-04-18 18:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250418T183654">2025-04-18 18:36:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
