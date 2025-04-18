@@ -93,6 +93,7 @@ into *an Unknown
 ### Latest News ⌛
 - <a href="https://arstechnica.com/space/2025/04/rocket-report-daytona-rocket-delayed-again-bahamas-tells-spacex-to-hold-up/" >🔗</a> **[Arstechnica]** Rocket Report: Daytona rocket delayed again; Bahamas tells SpaceX to hold up
 - <a href="https://science.nasa.gov/missions/hubble/hubble-spots-a-squid-in-the-whale/" >🔗</a> **[NASA]** Hubble Spots a Squid in the Whale
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/04/ESA_School_Days_2025_at_ESRIN" >🔗</a> **[ESA]** ESA School Days 2025 at ESRIN
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/Earth_from_Space_Giza_Egypt" >🔗</a> **[ESA]** Earth from Space: Giza, Egypt
 - <a href="https://spacenews.com/nasa-safety-panel-warns-of-increasing-risks-to-iss-operations/" >🔗</a> **[SpaceNews]** NASA safety panel warns of increasing risks to ISS operations
 - <a href="https://spacepolicyonline.com/news/nasa-safety-panel-worried-about-aging-iss-need-for-successor/" >🔗</a> **[SpacePolicyOnline.com]** NASA Safety Panel Worried About Aging ISS, Need for Successor
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-studies-wind-effects-and-aircraft-tracking-with-joby-aircraft/" >🔗</a> **[NASA]** NASA Studies Wind Effects and Aircraft Tracking with Joby Aircraft
 - <a href="https://www.nasaspaceflight.com/2025/04/cape-flyover-041625/" >🔗</a> **[NASASpaceflight]** Cape launch sites bustling with activity, New Glenn and Starship preparations underway
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-to-answer-questions-from-colorado-students/" >🔗</a> **[NASA]** NASA Astronaut to Answer Questions from Colorado Students
-- <a href="https://www.nasa.gov/image-article/space-shuttle-discovery-lifts-off-2/" >🔗</a> **[NASA]** Space Shuttle Discovery Lifts Off
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250418T120156">2025-04-18 12:01:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250418T124255">2025-04-18 12:42:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
