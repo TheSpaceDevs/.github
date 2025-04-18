@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/missions/hubble/hubble-spies-cosmic-pillar-in-eagle-nebula/" >🔗</a> **[NASA]** Hubble Spies Cosmic Pillar in Eagle Nebula
+- <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenn-to-test-air-quality-monitors-aboard-space-station/" >🔗</a> **[NASA]** NASA Glenn to Test Air Quality Monitors Aboard Space Station
 - <a href="https://spacenews.com/moon-mars-china-leads-to-both/" >🔗</a> **[SpaceNews]** Moon, Mars — China leads to both
 - <a href="https://arstechnica.com/space/2025/04/rocket-report-daytona-rocket-delayed-again-bahamas-tells-spacex-to-hold-up/" >🔗</a> **[Arstechnica]** Rocket Report: Daytona rocket delayed again; Bahamas tells SpaceX to hold up
 - <a href="https://science.nasa.gov/missions/hubble/hubble-spots-a-squid-in-the-whale/" >🔗</a> **[NASA]** Hubble Spots a Squid in the Whale
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/nasa-safety-panel-warns-of-increasing-risks-to-iss-operations/" >🔗</a> **[SpaceNews]** NASA safety panel warns of increasing risks to ISS operations
 - <a href="https://spacepolicyonline.com/news/nasa-safety-panel-worried-about-aging-iss-need-for-successor/" >🔗</a> **[SpacePolicyOnline.com]** NASA Safety Panel Worried About Aging ISS, Need for Successor
 - <a href="https://science.nasa.gov/blog/origins-uncertain-skull-hill-rock/" >🔗</a> **[NASA]** Origins Uncertain: ‘Skull Hill’ Rock
-- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-studies-wind-effects-and-aircraft-tracking-with-joby-aircraft/" >🔗</a> **[NASA]** NASA Studies Wind Effects and Aircraft Tracking with Joby Aircraft
-- <a href="https://www.nasaspaceflight.com/2025/04/cape-flyover-041625/" >🔗</a> **[NASASpaceflight]** Cape launch sites bustling with activity, New Glenn and Starship preparations underway
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250418T140119">2025-04-18 14:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250418T143409">2025-04-18 14:34:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
