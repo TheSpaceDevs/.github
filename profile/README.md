@@ -91,16 +91,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/directorates/stmd/space-tech-research-grants/early-career-faculty-2024/" >🔗</a> **[NASA]** Early Career Faculty 2024
+- <a href="https://www.nasa.gov/directorates/stmd/space-tech-research-grants/ecf/developing-oxychalcogenide-membranes-for-superconducting-power-transmission/" >🔗</a> **[NASA]** Developing Oxychalcogenide Membranes for Superconducting Power Transmission
+- <a href="https://www.nasa.gov/directorates/stmd/space-tech-research-grants/stabilized-z-pinch-fusion-driven-electromagnetic-propulsion/" >🔗</a> **[NASA]** Stabilized Z-Pinch Fusion Driven Electromagnetic Propulsion
+- <a href="https://www.nasa.gov/directorates/stmd/space-tech-research-grants/ecf/origami-inspired-diffractive-sail-for-directed-energy-propulsion/" >🔗</a> **[NASA]** Origami-inspired Diffractive Sail for Directed Energy Propulsion
+- <a href="https://www.nasa.gov/directorates/stmd/space-tech-research-grants/concept-demonstration-of-directed-energy-propulsion-with-metasurface-lightsails/" >🔗</a> **[NASA]** Concept Demonstration of Directed Energy Propulsion with Metasurface Lightsails
+- <a href="https://www.nasa.gov/directorates/stmd/space-tech-research-grants/development-of-a-mw-scale-high-voltage-multiphase-dual-rotor-generator-and-rectifier-for-a-pmad-in-an-nep-system/" >🔗</a> **[NASA]** Development of a MW-Scale High-Voltage Multiphase Dual-Rotor Generator and Rectifier for a PMAD in an NEP System
+- <a href="https://www.nasa.gov/centers-and-facilities/wallops/a-fond-farewell-nasas-c-130-begins-new-mission-in-california/" >🔗</a> **[NASA]** A Fond Farewell: NASA’s C-130 Begins New Mission in California
 - <a href="https://www.nasa.gov/image-article/nasa-calibrates-second-shock-sensing-probe-for-x-59-testing/" >🔗</a> **[NASA]** NASA Calibrates Second Shock-Sensing Probe for X-59 Testing
 - <a href="https://science.nasa.gov/missions/hubble/hubble-spies-cosmic-pillar-in-eagle-nebula/" >🔗</a> **[NASA]** Hubble Spies Cosmic Pillar in Eagle Nebula
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenn-to-test-air-quality-monitors-aboard-space-station/" >🔗</a> **[NASA]** NASA Glenn to Test Air Quality Monitors Aboard Space Station
-- <a href="https://spacenews.com/moon-mars-china-leads-to-both/" >🔗</a> **[SpaceNews]** Moon, Mars — China leads to both
-- <a href="https://arstechnica.com/space/2025/04/rocket-report-daytona-rocket-delayed-again-bahamas-tells-spacex-to-hold-up/" >🔗</a> **[Arstechnica]** Rocket Report: Daytona rocket delayed again; Bahamas tells SpaceX to hold up
-- <a href="https://science.nasa.gov/missions/hubble/hubble-spots-a-squid-in-the-whale/" >🔗</a> **[NASA]** Hubble Spots a Squid in the Whale
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/04/ESA_School_Days_2025_at_ESRIN" >🔗</a> **[ESA]** ESA School Days 2025 at ESRIN
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/Earth_from_Space_Giza_Egypt" >🔗</a> **[ESA]** Earth from Space: Giza, Egypt
-- <a href="https://spacenews.com/nasa-safety-panel-warns-of-increasing-risks-to-iss-operations/" >🔗</a> **[SpaceNews]** NASA safety panel warns of increasing risks to ISS operations
-- <a href="https://spacepolicyonline.com/news/nasa-safety-panel-worried-about-aging-iss-need-for-successor/" >🔗</a> **[SpacePolicyOnline.com]** NASA Safety Panel Worried About Aging ISS, Need for Successor
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250418T170136">2025-04-18 17:01:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250418T173314">2025-04-18 17:33:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
