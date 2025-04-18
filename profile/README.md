@@ -91,6 +91,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/04/rocket-report-daytona-rocket-delayed-again-bahamas-tells-spacex-to-hold-up/" >🔗</a> **[Arstechnica]** Rocket Report: Daytona rocket delayed again; Bahamas tells SpaceX to hold up
+- <a href="https://science.nasa.gov/missions/hubble/hubble-spots-a-squid-in-the-whale/" >🔗</a> **[NASA]** Hubble Spots a Squid in the Whale
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/Earth_from_Space_Giza_Egypt" >🔗</a> **[ESA]** Earth from Space: Giza, Egypt
 - <a href="https://spacenews.com/nasa-safety-panel-warns-of-increasing-risks-to-iss-operations/" >🔗</a> **[SpaceNews]** NASA safety panel warns of increasing risks to ISS operations
 - <a href="https://spacepolicyonline.com/news/nasa-safety-panel-worried-about-aging-iss-need-for-successor/" >🔗</a> **[SpacePolicyOnline.com]** NASA Safety Panel Worried About Aging ISS, Need for Successor
@@ -99,8 +101,6 @@ into *an Unknown
 - <a href="https://www.nasaspaceflight.com/2025/04/cape-flyover-041625/" >🔗</a> **[NASASpaceflight]** Cape launch sites bustling with activity, New Glenn and Starship preparations underway
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-to-answer-questions-from-colorado-students/" >🔗</a> **[NASA]** NASA Astronaut to Answer Questions from Colorado Students
 - <a href="https://www.nasa.gov/image-article/space-shuttle-discovery-lifts-off-2/" >🔗</a> **[NASA]** Space Shuttle Discovery Lifts Off
-- <a href="https://spacenews.com/multilateral-coordination-will-be-needed-for-commercial-space-stations/" >🔗</a> **[SpaceNews]** Multilateral coordination will be needed for commercial space stations
-- <a href="https://science.nasa.gov/learning-resources/science-activation/building-for-a-better-world-norfolk-students-bring-stem-to-life-with-nasa-partnership/" >🔗</a> **[NASA]** Building for a Better World: Norfolk Students Bring STEM to Life with NASA Partnership
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250418T110117">2025-04-18 11:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250418T113117">2025-04-18 11:31:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
