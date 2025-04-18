@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/04/so-is-katy-perry-now-an-astronaut-or-what/" >🔗</a> **[Arstechnica]** So is Katy Perry now an astronaut, or what?
 - <a href="https://www.nasa.gov/image-article/hubble-spies-cosmic-pillar-in-eagle-nebula/" >🔗</a> **[NASA]** Hubble Spies Cosmic Pillar in Eagle Nebula
 - <a href="https://tlpnetwork.com/news/asia/from-bent-panels-and-broken-wings-to-stable-lunar-orbit-inside-chinas-satellite-rescue-mission" >🔗</a> **[The Launch Pad]** From Bent Panels and Broken Wings To Stable Lunar Orbit : Inside China’s Satellite Rescue Mission
 - <a href="https://tlpnetwork.com/news/america/minotaur-iv-rocket-launches-classified-nrol-174-from-vandenberg-in-return-to-california-skies" >🔗</a> **[The Launch Pad]** Minotaur IV Rocket Launches Classified NROL-174 Payloads from Vandenberg in Return to California Skies
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/directorates/stmd/space-tech-research-grants/stabilized-z-pinch-fusion-driven-electromagnetic-propulsion/" >🔗</a> **[NASA]** Stabilized Z-Pinch Fusion Driven Electromagnetic Propulsion
 - <a href="https://www.nasa.gov/directorates/stmd/space-tech-research-grants/ecf/origami-inspired-diffractive-sail-for-directed-energy-propulsion/" >🔗</a> **[NASA]** Origami-inspired Diffractive Sail for Directed Energy Propulsion
 - <a href="https://www.nasa.gov/directorates/stmd/space-tech-research-grants/concept-demonstration-of-directed-energy-propulsion-with-metasurface-lightsails/" >🔗</a> **[NASA]** Concept Demonstration of Directed Energy Propulsion with Metasurface Lightsails
-- <a href="https://www.nasa.gov/directorates/stmd/space-tech-research-grants/development-of-a-mw-scale-high-voltage-multiphase-dual-rotor-generator-and-rectifier-for-a-pmad-in-an-nep-system/" >🔗</a> **[NASA]** Development of a MW-Scale High-Voltage Multiphase Dual-Rotor Generator and Rectifier for a PMAD in an NEP System
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250418T200123">2025-04-18 20:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250418T203305">2025-04-18 20:33:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
