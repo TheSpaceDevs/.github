@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/spain-approves-e1-billion-loan-to-hisdesat-for-paz-2-satellites/" >🔗</a> **[European Spaceflight]** Spain Approves €1 Billion Loan to Hisdesat for PAZ 2 Satellites
 - <a href="https://spacenews.com/states-bid-to-host-a-revamped-nasa-headquarters/" >🔗</a> **[SpaceNews]** States bid to host a revamped NASA headquarters
 - <a href="https://arstechnica.com/space/2025/04/so-is-katy-perry-now-an-astronaut-or-what/" >🔗</a> **[Arstechnica]** So is Katy Perry now an astronaut, or what?
 - <a href="https://www.nasa.gov/image-article/hubble-spies-cosmic-pillar-in-eagle-nebula/" >🔗</a> **[NASA]** Hubble Spies Cosmic Pillar in Eagle Nebula
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/directorates/stmd/space-tech-research-grants/early-career-faculty-2024/" >🔗</a> **[NASA]** Early Career Faculty 2024
 - <a href="https://www.nasa.gov/directorates/stmd/space-tech-research-grants/ecf/developing-oxychalcogenide-membranes-for-superconducting-power-transmission/" >🔗</a> **[NASA]** Developing Oxychalcogenide Membranes for Superconducting Power Transmission
 - <a href="https://www.nasa.gov/directorates/stmd/space-tech-research-grants/stabilized-z-pinch-fusion-driven-electromagnetic-propulsion/" >🔗</a> **[NASA]** Stabilized Z-Pinch Fusion Driven Electromagnetic Propulsion
-- <a href="https://www.nasa.gov/directorates/stmd/space-tech-research-grants/ecf/origami-inspired-diffractive-sail-for-directed-energy-propulsion/" >🔗</a> **[NASA]** Origami-inspired Diffractive Sail for Directed Energy Propulsion
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250419T090135">2025-04-19 09:01:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250419T093209">2025-04-19 09:32:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
