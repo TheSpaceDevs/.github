@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/nasas-pettit-celebrates-70th-birthday-returning-to-earth-after-7-months-in-space/" >🔗</a> **[SpacePolicyOnline.com]** NASA’s Pettit Celebrates 70th Birthday Returning to Earth After 7 Months in Space
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-don-pettit-crewmates-complete-space-station-expedition/" >🔗</a> **[NASA]** NASA Astronaut Don Pettit, Crewmates Complete Space Station Expedition
 - <a href="https://tlpnetwork.com/news/america/weekly-pre-launch-preview-4-falcons-iss-resupply-recon-satellites-and-g60-constellation-launch" >🔗</a> **[The Launch Pad]** Weekly Pre Launch Preview: 4 Falcons, ISS Resupply, Recon Satellites, and G60 Constellation Launch
 - <a href="https://www.nasaspaceflight.com/2025/04/starship-groundwork-facilities-texas-florida/" >🔗</a> **[NASASpaceflight]** Starship program laying groundwork for huge facilities in Texas and Florida
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/states-bid-to-host-a-revamped-nasa-headquarters/" >🔗</a> **[SpaceNews]** States bid to host a revamped NASA headquarters
 - <a href="https://arstechnica.com/space/2025/04/so-is-katy-perry-now-an-astronaut-or-what/" >🔗</a> **[Arstechnica]** So is Katy Perry now an astronaut, or what?
 - <a href="https://www.nasa.gov/image-article/hubble-spies-cosmic-pillar-in-eagle-nebula/" >🔗</a> **[NASA]** Hubble Spies Cosmic Pillar in Eagle Nebula
-- <a href="https://tlpnetwork.com/news/asia/from-bent-panels-and-broken-wings-to-stable-lunar-orbit-inside-chinas-satellite-rescue-mission" >🔗</a> **[The Launch Pad]** From Bent Panels and Broken Wings To Stable Lunar Orbit : Inside China’s Satellite Rescue Mission
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250420T040122">2025-04-20 04:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250420T043441">2025-04-20 04:34:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
