@@ -91,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-astronaut-don-pettit-crewmates-complete-space-station-expedition/" >🔗</a> **[NASA]** NASA Astronaut Don Pettit, Crewmates Complete Space Station Expedition
 - <a href="https://tlpnetwork.com/news/america/weekly-pre-launch-preview-4-falcons-iss-resupply-recon-satellites-and-g60-constellation-launch" >🔗</a> **[The Launch Pad]** Weekly Pre Launch Preview: 4 Falcons, ISS Resupply, Recon Satellites, and G60 Constellation Launch
 - <a href="https://www.nasaspaceflight.com/2025/04/starship-groundwork-facilities-texas-florida/" >🔗</a> **[NASASpaceflight]** Starship program laying groundwork for huge facilities in Texas and Florida
 - <a href="https://spaceflightnow.com/2025/04/19/live-coverage-spacex-to-launch-third-nro-mission-in-eight-days/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch third NRO mission in eight days
@@ -100,7 +101,6 @@ into *an Unknown
 - <a href="https://arstechnica.com/space/2025/04/so-is-katy-perry-now-an-astronaut-or-what/" >🔗</a> **[Arstechnica]** So is Katy Perry now an astronaut, or what?
 - <a href="https://www.nasa.gov/image-article/hubble-spies-cosmic-pillar-in-eagle-nebula/" >🔗</a> **[NASA]** Hubble Spies Cosmic Pillar in Eagle Nebula
 - <a href="https://tlpnetwork.com/news/asia/from-bent-panels-and-broken-wings-to-stable-lunar-orbit-inside-chinas-satellite-rescue-mission" >🔗</a> **[The Launch Pad]** From Bent Panels and Broken Wings To Stable Lunar Orbit : Inside China’s Satellite Rescue Mission
-- <a href="https://tlpnetwork.com/news/america/minotaur-iv-rocket-launches-classified-nrol-174-from-vandenberg-in-return-to-california-skies" >🔗</a> **[The Launch Pad]** Minotaur IV Rocket Launches Classified NROL-174 Payloads from Vandenberg in Return to California Skies
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250420T031935">2025-04-20 03:19:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250420T034052">2025-04-20 03:40:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
