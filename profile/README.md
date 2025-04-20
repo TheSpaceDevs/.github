@@ -93,6 +93,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/04/20/live-coverage-spacex-to-launch-32nd-resupply-mission-for-nasa-to-the-international-space-station/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 32nd resupply mission for NASA to the International Space Station
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-april-20-26-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy April 20-26, 2025
 - <a href="https://spacenews.com/nro-reaches-milestone-with-over-200-satellites-deployed-in-two-years/" >🔗</a> **[SpaceNews]** NRO reaches milestone with over 200 satellites deployed in two years
 - <a href="https://spacepolicyonline.com/news/nasas-pettit-celebrates-70th-birthday-returning-to-earth-after-7-months-in-space/" >🔗</a> **[SpacePolicyOnline.com]** NASA’s Pettit Celebrates 70th Birthday Returning to Earth After 7 Months in Space
@@ -102,7 +103,6 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 - <a href="https://spaceflightnow.com/2025/04/19/live-coverage-spacex-to-launch-third-nro-mission-in-eight-days/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch third NRO mission in eight days
 - <a href="https://spacenews.com/china-launches-6-classified-experimental-satellites-with-long-march-6a/" >🔗</a> **[SpaceNews]** China launches 6 classified experimental satellites with Long March 6A
 - <a href="https://europeanspaceflight.com/spain-approves-e1-billion-loan-to-hisdesat-for-paz-2-satellites/" >🔗</a> **[European Spaceflight]** Spain Approves €1 Billion Loan to Hisdesat for PAZ 2 Satellites
-- <a href="https://spacenews.com/states-bid-to-host-a-revamped-nasa-headquarters/" >🔗</a> **[SpaceNews]** States bid to host a revamped NASA headquarters
 
 
 ### Launch-related News 🚀
@@ -121,7 +121,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250420T220114">2025-04-20 22:01:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250420T223424">2025-04-20 22:34:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
