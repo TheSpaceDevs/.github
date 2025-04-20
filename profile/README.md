@@ -93,6 +93,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-april-20-26-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy April 20-26, 2025
 - <a href="https://spacenews.com/nro-reaches-milestone-with-over-200-satellites-deployed-in-two-years/" >🔗</a> **[SpaceNews]** NRO reaches milestone with over 200 satellites deployed in two years
 - <a href="https://spacepolicyonline.com/news/nasas-pettit-celebrates-70th-birthday-returning-to-earth-after-7-months-in-space/" >🔗</a> **[SpacePolicyOnline.com]** NASA’s Pettit Celebrates 70th Birthday Returning to Earth After 7 Months in Space
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-don-pettit-crewmates-complete-space-station-expedition/" >🔗</a> **[NASA]** NASA Astronaut Don Pettit, Crewmates Complete Space Station Expedition
@@ -102,7 +103,6 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 - <a href="https://spacenews.com/china-launches-6-classified-experimental-satellites-with-long-march-6a/" >🔗</a> **[SpaceNews]** China launches 6 classified experimental satellites with Long March 6A
 - <a href="https://europeanspaceflight.com/spain-approves-e1-billion-loan-to-hisdesat-for-paz-2-satellites/" >🔗</a> **[European Spaceflight]** Spain Approves €1 Billion Loan to Hisdesat for PAZ 2 Satellites
 - <a href="https://spacenews.com/states-bid-to-host-a-revamped-nasa-headquarters/" >🔗</a> **[SpaceNews]** States bid to host a revamped NASA headquarters
-- <a href="https://arstechnica.com/space/2025/04/so-is-katy-perry-now-an-astronaut-or-what/" >🔗</a> **[Arstechnica]** So is Katy Perry now an astronaut, or what?
 
 
 ### Launch-related News 🚀
@@ -121,7 +121,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250420T210115">2025-04-20 21:01:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250420T213119">2025-04-20 21:31:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
