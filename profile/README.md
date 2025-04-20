@@ -93,6 +93,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nro-reaches-milestone-with-over-200-satellites-deployed-in-two-years/" >🔗</a> **[SpaceNews]** NRO reaches milestone with over 200 satellites deployed in two years
 - <a href="https://spacepolicyonline.com/news/nasas-pettit-celebrates-70th-birthday-returning-to-earth-after-7-months-in-space/" >🔗</a> **[SpacePolicyOnline.com]** NASA’s Pettit Celebrates 70th Birthday Returning to Earth After 7 Months in Space
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-don-pettit-crewmates-complete-space-station-expedition/" >🔗</a> **[NASA]** NASA Astronaut Don Pettit, Crewmates Complete Space Station Expedition
 - <a href="https://tlpnetwork.com/news/america/weekly-pre-launch-preview-4-falcons-iss-resupply-recon-satellites-and-g60-constellation-launch" >🔗</a> **[The Launch Pad]** Weekly Pre Launch Preview: 4 Falcons, ISS Resupply, Recon Satellites, and G60 Constellation Launch
@@ -102,7 +103,6 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 - <a href="https://europeanspaceflight.com/spain-approves-e1-billion-loan-to-hisdesat-for-paz-2-satellites/" >🔗</a> **[European Spaceflight]** Spain Approves €1 Billion Loan to Hisdesat for PAZ 2 Satellites
 - <a href="https://spacenews.com/states-bid-to-host-a-revamped-nasa-headquarters/" >🔗</a> **[SpaceNews]** States bid to host a revamped NASA headquarters
 - <a href="https://arstechnica.com/space/2025/04/so-is-katy-perry-now-an-astronaut-or-what/" >🔗</a> **[Arstechnica]** So is Katy Perry now an astronaut, or what?
-- <a href="https://www.nasa.gov/image-article/hubble-spies-cosmic-pillar-in-eagle-nebula/" >🔗</a> **[NASA]** Hubble Spies Cosmic Pillar in Eagle Nebula
 
 
 ### Launch-related News 🚀
@@ -121,7 +121,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250420T160131">2025-04-20 16:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250420T163529">2025-04-20 16:35:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
