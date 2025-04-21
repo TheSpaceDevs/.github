@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasas-spherex-team-to-ring-new-york-stock-exchange-bell/" >🔗</a> **[NASA]** NASA’s SPHEREx Team To Ring New York Stock Exchange Bell
 - <a href="https://science.nasa.gov/image-article/nasas-lucy-spacecraft-images-asteroid-donaldjohanson/" >🔗</a> **[NASA]** NASA’s Lucy Spacecraft Images Asteroid Donaldjohanson
 - <a href="https://www.nasa.gov/image-article/fuzzy-rings-of-a-dying-star/" >🔗</a> **[NASA]** Fuzzy Rings of a Dying Star
 - <a href="https://www.nasa.gov/earth/earth-day/celebrating-earth-as-only-nasa-can/" >🔗</a> **[NASA]** Celebrating Earth as Only NASA Can
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/taking-the-ground-out-of-ground-systems/" >🔗</a> **[SpaceNews]** Taking the Ground Out of Ground Systems
 - <a href="https://europeanspaceflight.com/atmos-raises-e1m-in-new-funding-as-it-prepares-for-inaugural-flight/" >🔗</a> **[European Spaceflight]** ATMOS Raises €1M in New Funding as it Prepares for Inaugural Flight
 - <a href="https://spacenews.com/spacex-launches-cargo-dragon-to-iss-with-additional-crew-supplies/" >🔗</a> **[SpaceNews]** SpaceX launches cargo Dragon to ISS with additional crew supplies
-- <a href="https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-32nd-spacex-resupply-station-mission/" >🔗</a> **[NASA]** NASA Science, Cargo Launch on 32nd SpaceX Resupply Station Mission
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250421T210121">2025-04-21 21:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250421T213218">2025-04-21 21:32:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
