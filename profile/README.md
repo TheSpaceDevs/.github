@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/darpa-requests-proposals-for-water-prospecting-lunar-orbiter/" >🔗</a> **[SpaceNews]** DARPA requests proposals for water-prospecting lunar orbiter
+- <a href="https://science.nasa.gov/blog/sols-4515-4517-silver-linings/" >🔗</a> **[NASA]** Sols 4515-4517: Silver Linings
 - <a href="https://spacenews.com/taking-remote-care-to-new-heights-how-space-can-shape-the-future-of-healthcare/" >🔗</a> **[SpaceNews]** Taking ‘remote care’ to new heights — how space can shape the future of healthcare
 - <a href="https://spacenews.com/taking-the-ground-out-of-ground-systems/" >🔗</a> **[SpaceNews]** Taking the Ground Out of Ground Systems
 - <a href="https://europeanspaceflight.com/atmos-raises-e1m-in-new-funding-as-it-prepares-for-inaugural-flight/" >🔗</a> **[European Spaceflight]** ATMOS Raises €1M in New Funding as it Prepares for Inaugural Flight
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/chinese-orbital-logistics-startup-infinastro-raises-angel-round-funding/" >🔗</a> **[SpaceNews]** Chinese orbital logistics startup InfinAstro raises angel round funding
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/ACES_on_its_way_to_space" >🔗</a> **[ESA]** ACES on its way to space
 - <a href="https://spaceflightnow.com/2025/04/20/live-coverage-spacex-to-launch-32nd-resupply-mission-for-nasa-to-the-international-space-station/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 32nd resupply mission for NASA to the International Space Station
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-april-20-26-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy April 20-26, 2025
-- <a href="https://spacenews.com/nro-reaches-milestone-with-over-200-satellites-deployed-in-two-years/" >🔗</a> **[SpaceNews]** NRO reaches milestone with over 200 satellites deployed in two years
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250421T150127">2025-04-21 15:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250421T153341">2025-04-21 15:33:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
