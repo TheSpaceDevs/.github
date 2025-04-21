@@ -91,7 +91,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-32nd-spacex-resupply-station-mission/" >🔗</a> **[NASA]** NASA Science, Cargo Launch on 32nd SpaceX Resupply Station Mission
 - <a href="https://spacenews.com/chinese-orbital-logistics-startup-infinastro-raises-angel-round-funding/" >🔗</a> **[SpaceNews]** Chinese orbital logistics startup InfinAstro raises angel round funding
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/ACES_on_its_way_to_space" >🔗</a> **[ESA]** ACES on its way to space
 - <a href="https://spaceflightnow.com/2025/04/20/live-coverage-spacex-to-launch-32nd-resupply-mission-for-nasa-to-the-international-space-station/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 32nd resupply mission for NASA to the International Space Station
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-april-20-26-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy April 20-26, 2025
 - <a href="https://spacenews.com/nro-reaches-milestone-with-over-200-satellites-deployed-in-two-years/" >🔗</a> **[SpaceNews]** NRO reaches milestone with over 200 satellites deployed in two years
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-don-pettit-crewmates-complete-space-station-expedition/" >🔗</a> **[NASA]** NASA Astronaut Don Pettit, Crewmates Complete Space Station Expedition
 - <a href="https://tlpnetwork.com/news/america/weekly-pre-launch-preview-4-falcons-iss-resupply-recon-satellites-and-g60-constellation-launch" >🔗</a> **[The Launch Pad]** Weekly Pre Launch Preview: 4 Falcons, ISS Resupply, Recon Satellites, and G60 Constellation Launch
 - <a href="https://www.nasaspaceflight.com/2025/04/starship-groundwork-facilities-texas-florida/" >🔗</a> **[NASASpaceflight]** Starship program laying groundwork for huge facilities in Texas and Florida
-- <a href="https://spaceflightnow.com/2025/04/19/live-coverage-spacex-to-launch-third-nro-mission-in-eight-days/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch third NRO mission in eight days
-- <a href="https://spacenews.com/china-launches-6-classified-experimental-satellites-with-long-march-6a/" >🔗</a> **[SpaceNews]** China launches 6 classified experimental satellites with Long March 6A
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250421T090140">2025-04-21 09:01:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250421T093352">2025-04-21 09:33:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
