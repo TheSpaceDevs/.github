@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/earth/earth-day/celebrating-earth-as-only-nasa-can/" >🔗</a> **[NASA]** Celebrating Earth as Only NASA Can
 - <a href="https://spacenews.com/darpa-requests-proposals-for-water-prospecting-lunar-orbiter/" >🔗</a> **[SpaceNews]** DARPA requests proposals for water-prospecting lunar orbiter
 - <a href="https://science.nasa.gov/blog/sols-4515-4517-silver-linings/" >🔗</a> **[NASA]** Sols 4515-4517: Silver Linings
 - <a href="https://spacenews.com/taking-remote-care-to-new-heights-how-space-can-shape-the-future-of-healthcare/" >🔗</a> **[SpaceNews]** Taking ‘remote care’ to new heights — how space can shape the future of healthcare
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-32nd-spacex-resupply-station-mission/" >🔗</a> **[NASA]** NASA Science, Cargo Launch on 32nd SpaceX Resupply Station Mission
 - <a href="https://spacenews.com/chinese-orbital-logistics-startup-infinastro-raises-angel-round-funding/" >🔗</a> **[SpaceNews]** Chinese orbital logistics startup InfinAstro raises angel round funding
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/ACES_on_its_way_to_space" >🔗</a> **[ESA]** ACES on its way to space
-- <a href="https://spaceflightnow.com/2025/04/20/live-coverage-spacex-to-launch-32nd-resupply-mission-for-nasa-to-the-international-space-station/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 32nd resupply mission for NASA to the International Space Station
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250421T160125">2025-04-21 16:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250421T163717">2025-04-21 16:37:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
