@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/04/21/live-coverage-spacex-to-launch-bandwagon-3-rideshare-mission-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Bandwagon-3 rideshare mission on Falcon 9 rocket from Cape Canaveral
+- <a href="https://www.nasaspaceflight.com/2025/04/launch-roundup-042125/" >🔗</a> **[NASASpaceflight]** Launch Roundup: China to launch crew, Falcon 9 to launch Bandwagon rideshare
 - <a href="https://www.nasa.gov/news-release/nasas-spherex-team-to-ring-new-york-stock-exchange-bell/" >🔗</a> **[NASA]** NASA’s SPHEREx Team To Ring New York Stock Exchange Bell
 - <a href="https://science.nasa.gov/image-article/nasas-lucy-spacecraft-images-asteroid-donaldjohanson/" >🔗</a> **[NASA]** NASA’s Lucy Spacecraft Images Asteroid Donaldjohanson
 - <a href="https://www.nasa.gov/image-article/fuzzy-rings-of-a-dying-star/" >🔗</a> **[NASA]** Fuzzy Rings of a Dying Star
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/blog/sols-4515-4517-silver-linings/" >🔗</a> **[NASA]** Sols 4515-4517: Silver Linings
 - <a href="https://spacenews.com/taking-remote-care-to-new-heights-how-space-can-shape-the-future-of-healthcare/" >🔗</a> **[SpaceNews]** Taking ‘remote care’ to new heights — how space can shape the future of healthcare
 - <a href="https://spacenews.com/taking-the-ground-out-of-ground-systems/" >🔗</a> **[SpaceNews]** Taking the Ground Out of Ground Systems
-- <a href="https://europeanspaceflight.com/atmos-raises-e1m-in-new-funding-as-it-prepares-for-inaugural-flight/" >🔗</a> **[European Spaceflight]** ATMOS Raises €1M in New Funding as it Prepares for Inaugural Flight
-- <a href="https://spacenews.com/spacex-launches-cargo-dragon-to-iss-with-additional-crew-supplies/" >🔗</a> **[SpaceNews]** SpaceX launches cargo Dragon to ISS with additional crew supplies
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250421T220127">2025-04-21 22:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250421T223428">2025-04-21 22:34:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
