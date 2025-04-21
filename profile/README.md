@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/atmos-raises-e1m-in-new-funding-as-it-prepares-for-inaugural-flight/" >🔗</a> **[European Spaceflight]** ATMOS Raises €1M in New Funding as it Prepares for Inaugural Flight
+- <a href="https://spacenews.com/spacex-launches-cargo-dragon-to-iss-with-additional-crew-supplies/" >🔗</a> **[SpaceNews]** SpaceX launches cargo Dragon to ISS with additional crew supplies
 - <a href="https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-32nd-spacex-resupply-station-mission/" >🔗</a> **[NASA]** NASA Science, Cargo Launch on 32nd SpaceX Resupply Station Mission
 - <a href="https://spacenews.com/chinese-orbital-logistics-startup-infinastro-raises-angel-round-funding/" >🔗</a> **[SpaceNews]** Chinese orbital logistics startup InfinAstro raises angel round funding
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/ACES_on_its_way_to_space" >🔗</a> **[ESA]** ACES on its way to space
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/nro-reaches-milestone-with-over-200-satellites-deployed-in-two-years/" >🔗</a> **[SpaceNews]** NRO reaches milestone with over 200 satellites deployed in two years
 - <a href="https://spacepolicyonline.com/news/nasas-pettit-celebrates-70th-birthday-returning-to-earth-after-7-months-in-space/" >🔗</a> **[SpacePolicyOnline.com]** NASA’s Pettit Celebrates 70th Birthday Returning to Earth After 7 Months in Space
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-don-pettit-crewmates-complete-space-station-expedition/" >🔗</a> **[NASA]** NASA Astronaut Don Pettit, Crewmates Complete Space Station Expedition
-- <a href="https://tlpnetwork.com/news/america/weekly-pre-launch-preview-4-falcons-iss-resupply-recon-satellites-and-g60-constellation-launch" >🔗</a> **[The Launch Pad]** Weekly Pre Launch Preview: 4 Falcons, ISS Resupply, Recon Satellites, and G60 Constellation Launch
-- <a href="https://www.nasaspaceflight.com/2025/04/starship-groundwork-facilities-texas-florida/" >🔗</a> **[NASASpaceflight]** Starship program laying groundwork for huge facilities in Texas and Florida
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250421T100126">2025-04-21 10:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250421T103628">2025-04-21 10:36:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
