@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/image-article/nasas-lucy-spacecraft-images-asteroid-donaldjohanson/" >🔗</a> **[NASA]** NASA’s Lucy Spacecraft Images Asteroid Donaldjohanson
+- <a href="https://www.nasa.gov/image-article/fuzzy-rings-of-a-dying-star/" >🔗</a> **[NASA]** Fuzzy Rings of a Dying Star
 - <a href="https://www.nasa.gov/earth/earth-day/celebrating-earth-as-only-nasa-can/" >🔗</a> **[NASA]** Celebrating Earth as Only NASA Can
 - <a href="https://spacenews.com/darpa-requests-proposals-for-water-prospecting-lunar-orbiter/" >🔗</a> **[SpaceNews]** DARPA requests proposals for water-prospecting lunar orbiter
 - <a href="https://science.nasa.gov/blog/sols-4515-4517-silver-linings/" >🔗</a> **[NASA]** Sols 4515-4517: Silver Linings
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/atmos-raises-e1m-in-new-funding-as-it-prepares-for-inaugural-flight/" >🔗</a> **[European Spaceflight]** ATMOS Raises €1M in New Funding as it Prepares for Inaugural Flight
 - <a href="https://spacenews.com/spacex-launches-cargo-dragon-to-iss-with-additional-crew-supplies/" >🔗</a> **[SpaceNews]** SpaceX launches cargo Dragon to ISS with additional crew supplies
 - <a href="https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-32nd-spacex-resupply-station-mission/" >🔗</a> **[NASA]** NASA Science, Cargo Launch on 32nd SpaceX Resupply Station Mission
-- <a href="https://spacenews.com/chinese-orbital-logistics-startup-infinastro-raises-angel-round-funding/" >🔗</a> **[SpaceNews]** Chinese orbital logistics startup InfinAstro raises angel round funding
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/ACES_on_its_way_to_space" >🔗</a> **[ESA]** ACES on its way to space
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250421T180139">2025-04-21 18:01:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250421T183711">2025-04-21 18:37:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
