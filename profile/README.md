@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/atmos-space-cargo-tentatively-declares-phoenix-1-flight-a-success/" >🔗</a> **[European Spaceflight]** ATMOS Space Cargo Tentatively Declares PHOENIX 1 Flight a Success
+- <a href="https://www.nasa.gov/centers-and-facilities/kennedy/animal-that-once-lived-with-dinosaurs-helps-keep-nasa-kennedy-in-balance/" >🔗</a> **[NASA]** Animal That Once Lived With Dinosaurs Helps Keep NASA Kennedy In Balance
 - <a href="https://science.nasa.gov/directorates/smd/earth-science-division/entrepreneurs-challenge-winner-prism-is-using-ai-to-enable-insights-from-geospatial-data/" >🔗</a> **[NASA]** Entrepreneurs Challenge Winner PRISM is Using AI to Enable Insights from Geospatial Data
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-tests-ultralight-antennas-to-benefit-future-national-airspace/" >🔗</a> **[NASA]** NASA Tests Ultralight Antennas to Benefit Future National Airspace
 - <a href="https://arstechnica.com/space/2025/04/tuesday-telescope-hera-today-gone-to-deimos/" >🔗</a> **[Arstechnica]** Tuesday Telescope: Hera today, gone to Deimos
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/omb-suggests-noaa-scale-back-plans-for-geostationary-satellites/" >🔗</a> **[SpaceNews]** OMB suggests NOAA scale back plans for geostationary satellites
 - <a href="https://tlpnetwork.com/news/america/spacex-set-to-launch-bandwagon-3-rideshare-mission-with-atmos-phoenix-reentry-capsule-and-more" >🔗</a> **[The Launch Pad]** SpaceX Set to Launch Bandwagon-3 Rideshare Mission with Atmos’ PHOENIX Reentry Capsule and more!
 - <a href="https://spaceflightnow.com/2025/04/21/live-coverage-spacex-to-launch-bandwagon-3-rideshare-mission-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Bandwagon-3 rideshare mission on Falcon 9 rocket from Cape Canaveral
-- <a href="https://www.nasaspaceflight.com/2025/04/launch-roundup-042125/" >🔗</a> **[NASASpaceflight]** Launch Roundup: China to launch crew, Falcon 9 to launch Bandwagon rideshare
-- <a href="https://www.nasa.gov/news-release/nasas-spherex-team-to-ring-new-york-stock-exchange-bell/" >🔗</a> **[NASA]** NASA’s SPHEREx Team To Ring New York Stock Exchange Bell
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250422T140128">2025-04-22 14:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250422T143529">2025-04-22 14:35:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
