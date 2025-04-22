@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacex-launches-third-mid-inclination-rideshare-mission/" >🔗</a> **[SpaceNews]** SpaceX launches third mid-inclination rideshare mission
 - <a href="https://www.esa.int/About_Us/Corporate_news/ESA_welcomes_inauguration_of_the_African_Space_Agency" >🔗</a> **[ESA]** ESA welcomes inauguration of the African Space Agency
 - <a href="https://spacenews.com/omb-suggests-noaa-scale-back-plans-for-geostationary-satellites/" >🔗</a> **[SpaceNews]** OMB suggests NOAA scale back plans for geostationary satellites
 - <a href="https://tlpnetwork.com/news/america/spacex-set-to-launch-bandwagon-3-rideshare-mission-with-atmos-phoenix-reentry-capsule-and-more" >🔗</a> **[The Launch Pad]** SpaceX Set to Launch Bandwagon-3 Rideshare Mission with Atmos’ PHOENIX Reentry Capsule and more!
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/image-article/nasas-lucy-spacecraft-images-asteroid-donaldjohanson/" >🔗</a> **[NASA]** NASA’s Lucy Spacecraft Images Asteroid Donaldjohanson
 - <a href="https://www.nasa.gov/image-article/fuzzy-rings-of-a-dying-star/" >🔗</a> **[NASA]** Fuzzy Rings of a Dying Star
 - <a href="https://www.nasa.gov/earth/earth-day/celebrating-earth-as-only-nasa-can/" >🔗</a> **[NASA]** Celebrating Earth as Only NASA Can
-- <a href="https://spacenews.com/darpa-requests-proposals-for-water-prospecting-lunar-orbiter/" >🔗</a> **[SpaceNews]** DARPA requests proposals for water-prospecting lunar orbiter
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250422T110136">2025-04-22 11:01:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250422T113123">2025-04-22 11:31:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
