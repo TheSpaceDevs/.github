@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/saic-wins-55-million-space-development-agency-contract-for-satellite-network-integration/" >🔗</a> **[SpaceNews]** SAIC wins $55 million Space Development Agency contract for satellite network integration
 - <a href="https://www.nasa.gov/general/nasa-wins-six-webby-awards-six-webby-peoples-voice-awards/" >🔗</a> **[NASA]** NASA Wins Six Webby Awards, Six Webby People’s Voice Awards
 - <a href="https://www.nasa.gov/general/planetary-alignment-provides-nasa-rare-opportunity-to-study-uranus/" >🔗</a> **[NASA]** Planetary Alignment Provides NASA Rare Opportunity to Study Uranus
 - <a href="https://science.nasa.gov/get-involved/citizen-science/first-results-from-the-eclipse-soundscapes-project-webinar-on-may-7/" >🔗</a> **[NASA]** First Results from the Eclipse Soundscapes Project: Webinar on May 7
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/kennedy/animal-that-once-lived-with-dinosaurs-helps-keep-nasa-kennedy-in-balance/" >🔗</a> **[NASA]** Animal That Once Lived With Dinosaurs Helps Keep NASA Kennedy In Balance
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Next_generation_scientists_set_sail_to_harness_space_for_oceans" >🔗</a> **[ESA]** Next generation scientists set sail to harness space for oceans
 - <a href="https://science.nasa.gov/directorates/smd/earth-science-division/entrepreneurs-challenge-winner-prism-is-using-ai-to-enable-insights-from-geospatial-data/" >🔗</a> **[NASA]** Entrepreneurs Challenge Winner PRISM is Using AI to Enable Insights from Geospatial Data
-- <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-tests-ultralight-antennas-to-benefit-future-national-airspace/" >🔗</a> **[NASA]** NASA Tests Ultralight Antennas to Benefit Future National Airspace
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250422T220128">2025-04-22 22:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250422T223444">2025-04-22 22:34:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
