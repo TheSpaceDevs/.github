@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/nasa-wins-six-webby-awards-six-webby-peoples-voice-awards/" >🔗</a> **[NASA]** NASA Wins Six Webby Awards, Six Webby People’s Voice Awards
+- <a href="https://www.nasa.gov/general/planetary-alignment-provides-nasa-rare-opportunity-to-study-uranus/" >🔗</a> **[NASA]** Planetary Alignment Provides NASA Rare Opportunity to Study Uranus
 - <a href="https://science.nasa.gov/get-involved/citizen-science/first-results-from-the-eclipse-soundscapes-project-webinar-on-may-7/" >🔗</a> **[NASA]** First Results from the Eclipse Soundscapes Project: Webinar on May 7
 - <a href="https://www.nasa.gov/image-article/sunshine-on-earth/" >🔗</a> **[NASA]** Sunshine on Earth
 - <a href="https://science.nasa.gov/solar-system/planets/planet-sizes-and-locations-in-our-solar-system/" >🔗</a> **[NASA]** Planet Sizes and Locations in Our Solar System
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Next_generation_scientists_set_sail_to_harness_space_for_oceans" >🔗</a> **[ESA]** Next generation scientists set sail to harness space for oceans
 - <a href="https://science.nasa.gov/directorates/smd/earth-science-division/entrepreneurs-challenge-winner-prism-is-using-ai-to-enable-insights-from-geospatial-data/" >🔗</a> **[NASA]** Entrepreneurs Challenge Winner PRISM is Using AI to Enable Insights from Geospatial Data
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-tests-ultralight-antennas-to-benefit-future-national-airspace/" >🔗</a> **[NASA]** NASA Tests Ultralight Antennas to Benefit Future National Airspace
-- <a href="https://arstechnica.com/space/2025/04/tuesday-telescope-hera-today-gone-to-deimos/" >🔗</a> **[Arstechnica]** Tuesday Telescope: Hera today, gone to Deimos
-- <a href="https://spacenews.com/spacex-launches-third-mid-inclination-rideshare-mission/" >🔗</a> **[SpaceNews]** SpaceX launches third mid-inclination rideshare mission
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250422T190125">2025-04-22 19:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250422T193117">2025-04-22 19:31:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
