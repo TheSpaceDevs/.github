@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/solar-system/planets/planet-sizes-and-locations-in-our-solar-system/" >🔗</a> **[NASA]** Planet Sizes and Locations in Our Solar System
 - <a href="https://europeanspaceflight.com/atmos-space-cargo-tentatively-declares-phoenix-1-flight-a-success/" >🔗</a> **[European Spaceflight]** ATMOS Space Cargo Tentatively Declares PHOENIX 1 Flight a Success
 - <a href="https://www.nasa.gov/centers-and-facilities/kennedy/animal-that-once-lived-with-dinosaurs-helps-keep-nasa-kennedy-in-balance/" >🔗</a> **[NASA]** Animal That Once Lived With Dinosaurs Helps Keep NASA Kennedy In Balance
 - <a href="https://science.nasa.gov/directorates/smd/earth-science-division/entrepreneurs-challenge-winner-prism-is-using-ai-to-enable-insights-from-geospatial-data/" >🔗</a> **[NASA]** Entrepreneurs Challenge Winner PRISM is Using AI to Enable Insights from Geospatial Data
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/About_Us/Corporate_news/ESA_welcomes_inauguration_of_the_African_Space_Agency" >🔗</a> **[ESA]** ESA welcomes inauguration of the African Space Agency
 - <a href="https://spacenews.com/omb-suggests-noaa-scale-back-plans-for-geostationary-satellites/" >🔗</a> **[SpaceNews]** OMB suggests NOAA scale back plans for geostationary satellites
 - <a href="https://tlpnetwork.com/news/america/spacex-set-to-launch-bandwagon-3-rideshare-mission-with-atmos-phoenix-reentry-capsule-and-more" >🔗</a> **[The Launch Pad]** SpaceX Set to Launch Bandwagon-3 Rideshare Mission with Atmos’ PHOENIX Reentry Capsule and more!
-- <a href="https://spaceflightnow.com/2025/04/21/live-coverage-spacex-to-launch-bandwagon-3-rideshare-mission-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Bandwagon-3 rideshare mission on Falcon 9 rocket from Cape Canaveral
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250422T150125">2025-04-22 15:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250422T153423">2025-04-22 15:34:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
