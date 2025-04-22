@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/america/spacex-set-to-launch-bandwagon-3-rideshare-mission-with-atmos-phoenix-reentry-capsule-and-more" >🔗</a> **[The Launch Pad]** SpaceX Set to Launch Bandwagon-3 Rideshare Mission with Atmos’ PHOENIX Reentry Capsule and more!
 - <a href="https://spaceflightnow.com/2025/04/21/live-coverage-spacex-to-launch-bandwagon-3-rideshare-mission-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Bandwagon-3 rideshare mission on Falcon 9 rocket from Cape Canaveral
 - <a href="https://www.nasaspaceflight.com/2025/04/launch-roundup-042125/" >🔗</a> **[NASASpaceflight]** Launch Roundup: China to launch crew, Falcon 9 to launch Bandwagon rideshare
 - <a href="https://www.nasa.gov/news-release/nasas-spherex-team-to-ring-new-york-stock-exchange-bell/" >🔗</a> **[NASA]** NASA’s SPHEREx Team To Ring New York Stock Exchange Bell
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/darpa-requests-proposals-for-water-prospecting-lunar-orbiter/" >🔗</a> **[SpaceNews]** DARPA requests proposals for water-prospecting lunar orbiter
 - <a href="https://science.nasa.gov/blog/sols-4515-4517-silver-linings/" >🔗</a> **[NASA]** Sols 4515-4517: Silver Linings
 - <a href="https://spacenews.com/taking-remote-care-to-new-heights-how-space-can-shape-the-future-of-healthcare/" >🔗</a> **[SpaceNews]** Taking ‘remote care’ to new heights — how space can shape the future of healthcare
-- <a href="https://spacenews.com/taking-the-ground-out-of-ground-systems/" >🔗</a> **[SpaceNews]** Taking the Ground Out of Ground Systems
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250421T233156">2025-04-21 23:31:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250422T000507">2025-04-22 00:05:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
