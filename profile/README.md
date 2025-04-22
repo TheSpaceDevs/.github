@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/get-involved/citizen-science/first-results-from-the-eclipse-soundscapes-project-webinar-on-may-7/" >🔗</a> **[NASA]** First Results from the Eclipse Soundscapes Project: Webinar on May 7
 - <a href="https://www.nasa.gov/image-article/sunshine-on-earth/" >🔗</a> **[NASA]** Sunshine on Earth
 - <a href="https://science.nasa.gov/solar-system/planets/planet-sizes-and-locations-in-our-solar-system/" >🔗</a> **[NASA]** Planet Sizes and Locations in Our Solar System
 - <a href="https://europeanspaceflight.com/atmos-space-cargo-tentatively-declares-phoenix-1-flight-a-success/" >🔗</a> **[European Spaceflight]** ATMOS Space Cargo Tentatively Declares PHOENIX 1 Flight a Success
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-tests-ultralight-antennas-to-benefit-future-national-airspace/" >🔗</a> **[NASA]** NASA Tests Ultralight Antennas to Benefit Future National Airspace
 - <a href="https://arstechnica.com/space/2025/04/tuesday-telescope-hera-today-gone-to-deimos/" >🔗</a> **[Arstechnica]** Tuesday Telescope: Hera today, gone to Deimos
 - <a href="https://spacenews.com/spacex-launches-third-mid-inclination-rideshare-mission/" >🔗</a> **[SpaceNews]** SpaceX launches third mid-inclination rideshare mission
-- <a href="https://www.esa.int/About_Us/Corporate_news/ESA_welcomes_inauguration_of_the_African_Space_Agency" >🔗</a> **[ESA]** ESA welcomes inauguration of the African Space Agency
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250422T170125">2025-04-22 17:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250422T173416">2025-04-22 17:34:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
