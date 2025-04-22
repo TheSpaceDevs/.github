@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-tests-ultralight-antennas-to-benefit-future-national-airspace/" >🔗</a> **[NASA]** NASA Tests Ultralight Antennas to Benefit Future National Airspace
+- <a href="https://arstechnica.com/space/2025/04/tuesday-telescope-hera-today-gone-to-deimos/" >🔗</a> **[Arstechnica]** Tuesday Telescope: Hera today, gone to Deimos
 - <a href="https://spacenews.com/spacex-launches-third-mid-inclination-rideshare-mission/" >🔗</a> **[SpaceNews]** SpaceX launches third mid-inclination rideshare mission
 - <a href="https://www.esa.int/About_Us/Corporate_news/ESA_welcomes_inauguration_of_the_African_Space_Agency" >🔗</a> **[ESA]** ESA welcomes inauguration of the African Space Agency
 - <a href="https://spacenews.com/omb-suggests-noaa-scale-back-plans-for-geostationary-satellites/" >🔗</a> **[SpaceNews]** OMB suggests NOAA scale back plans for geostationary satellites
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2025/04/launch-roundup-042125/" >🔗</a> **[NASASpaceflight]** Launch Roundup: China to launch crew, Falcon 9 to launch Bandwagon rideshare
 - <a href="https://www.nasa.gov/news-release/nasas-spherex-team-to-ring-new-york-stock-exchange-bell/" >🔗</a> **[NASA]** NASA’s SPHEREx Team To Ring New York Stock Exchange Bell
 - <a href="https://science.nasa.gov/image-article/nasas-lucy-spacecraft-images-asteroid-donaldjohanson/" >🔗</a> **[NASA]** NASA’s Lucy Spacecraft Images Asteroid Donaldjohanson
-- <a href="https://www.nasa.gov/image-article/fuzzy-rings-of-a-dying-star/" >🔗</a> **[NASA]** Fuzzy Rings of a Dying Star
-- <a href="https://www.nasa.gov/earth/earth-day/celebrating-earth-as-only-nasa-can/" >🔗</a> **[NASA]** Celebrating Earth as Only NASA Can
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250422T120213">2025-04-22 12:02:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250422T124303">2025-04-22 12:43:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
