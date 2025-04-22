@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/sunshine-on-earth/" >🔗</a> **[NASA]** Sunshine on Earth
 - <a href="https://science.nasa.gov/solar-system/planets/planet-sizes-and-locations-in-our-solar-system/" >🔗</a> **[NASA]** Planet Sizes and Locations in Our Solar System
 - <a href="https://europeanspaceflight.com/atmos-space-cargo-tentatively-declares-phoenix-1-flight-a-success/" >🔗</a> **[European Spaceflight]** ATMOS Space Cargo Tentatively Declares PHOENIX 1 Flight a Success
 - <a href="https://www.nasa.gov/centers-and-facilities/kennedy/animal-that-once-lived-with-dinosaurs-helps-keep-nasa-kennedy-in-balance/" >🔗</a> **[NASA]** Animal That Once Lived With Dinosaurs Helps Keep NASA Kennedy In Balance
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Next_generation_scientists_set_sail_to_harness_space_for_oceans" >🔗</a> **[ESA]** Next generation scientists set sail to harness space for oceans
 - <a href="https://science.nasa.gov/directorates/smd/earth-science-division/entrepreneurs-challenge-winner-prism-is-using-ai-to-enable-insights-from-geospatial-data/" >🔗</a> **[NASA]** Entrepreneurs Challenge Winner PRISM is Using AI to Enable Insights from Geospatial Data
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-tests-ultralight-antennas-to-benefit-future-national-airspace/" >🔗</a> **[NASA]** NASA Tests Ultralight Antennas to Benefit Future National Airspace
 - <a href="https://arstechnica.com/space/2025/04/tuesday-telescope-hera-today-gone-to-deimos/" >🔗</a> **[Arstechnica]** Tuesday Telescope: Hera today, gone to Deimos
 - <a href="https://spacenews.com/spacex-launches-third-mid-inclination-rideshare-mission/" >🔗</a> **[SpaceNews]** SpaceX launches third mid-inclination rideshare mission
 - <a href="https://www.esa.int/About_Us/Corporate_news/ESA_welcomes_inauguration_of_the_African_Space_Agency" >🔗</a> **[ESA]** ESA welcomes inauguration of the African Space Agency
-- <a href="https://spacenews.com/omb-suggests-noaa-scale-back-plans-for-geostationary-satellites/" >🔗</a> **[SpaceNews]** OMB suggests NOAA scale back plans for geostationary satellites
-- <a href="https://tlpnetwork.com/news/america/spacex-set-to-launch-bandwagon-3-rideshare-mission-with-atmos-phoenix-reentry-capsule-and-more" >🔗</a> **[The Launch Pad]** SpaceX Set to Launch Bandwagon-3 Rideshare Mission with Atmos’ PHOENIX Reentry Capsule and more!
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250422T160131">2025-04-22 16:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250422T163712">2025-04-22 16:37:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
