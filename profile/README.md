@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/america/us-senate-committee-sets-april-30-vote-for-jared-isaacman-nasa-administrator-nomination" >🔗</a> **[The Launch Pad]** US Senate Committee Sets April 30 Vote for Jared Isaacman’s NASA Administrator Nomination
+- <a href="https://tlpnetwork.com/news/in-space/atmos-phoenix-1-reaches-orbit-conducts-critical-inflatable-reentry-test" >🔗</a> **[The Launch Pad]** ATMOS PHOENIX 1 Reaches Orbit; Conducts Critical Inflatable ReEntry Test
 - <a href="https://www.nasaspaceflight.com/2025/04/china-roundup-04242025/" >🔗</a> **[NASASpaceflight]** China to launch three taikonauts to Tiangong, commercial sector continues to expand
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-to-answer-questions-from-students-in-california/" >🔗</a> **[NASA]** NASA Astronaut to Answer Questions from Students in California
 - <a href="https://science.nasa.gov/blog/sols-4518-4519-thumbs-up-from-mars/" >🔗</a> **[NASA]** Sols 4518-4519: Thumbs up from Mars
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Enabling_Support/Operations/Final_preparations_for_Biomass_operations" >🔗</a> **[ESA]** Final preparations for Biomass operations
 - <a href="https://www.nasa.gov/general/nasa-collaborates-to-enable-spectrum-dependent-science-exploration-and-innovation/" >🔗</a> **[NASA]** NASA Collaborates to Enable Spectrum-Dependent Science, Exploration, and Innovation
 - <a href="https://www.nasa.gov/general/management-and-regulation-ensure-effective-spectrum-sharing/" >🔗</a> **[NASA]** Management and Regulation Ensure Effective Spectrum Sharing
-- <a href="https://www.nasa.gov/general/nasas-use-of-the-radio-frequency-spectrum/" >🔗</a> **[NASA]** NASA’s Use of the Radio Frequency Spectrum
-- <a href="https://www.nasa.gov/news-release/nasa-astronaut-don-pettit-to-discuss-seven-month-space-mission/" >🔗</a> **[NASA]** NASA Astronaut Don Pettit to Discuss Seven-Month Space Mission
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250423T230139">2025-04-23 23:01:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250423T233209">2025-04-23 23:32:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
