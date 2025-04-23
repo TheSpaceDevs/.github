@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-astronaut-to-answer-questions-from-students-in-california/" >🔗</a> **[NASA]** NASA Astronaut to Answer Questions from Students in California
 - <a href="https://science.nasa.gov/blog/sols-4518-4519-thumbs-up-from-mars/" >🔗</a> **[NASA]** Sols 4518-4519: Thumbs up from Mars
 - <a href="https://www.nasa.gov/science-research/earth-science/nasa-airborne-sensors-wildfire-data-helps-firefighters-take-action/" >🔗</a> **[NASA]** NASA Airborne Sensor’s Wildfire Data Helps Firefighters Take Action
 - <a href="https://arstechnica.com/science/2025/04/republican-space-officials-criticize-mindless-nasa-science-cuts/" >🔗</a> **[Arstechnica]** Republican space officials criticize “mindless” NASA science cuts
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/general/nasas-use-of-the-radio-frequency-spectrum/" >🔗</a> **[NASA]** NASA’s Use of the Radio Frequency Spectrum
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-don-pettit-to-discuss-seven-month-space-mission/" >🔗</a> **[NASA]** NASA Astronaut Don Pettit to Discuss Seven-Month Space Mission
 - <a href="https://science.nasa.gov/missions/hubble/nasa-celebrates-hubbles-35th-year-in-orbit/" >🔗</a> **[NASA]** Eye on Infinity: NASA Celebrates Hubble’s 35th Year in Orbit
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Hubble_celebrates_35th_year_in_orbit" >🔗</a> **[ESA]** Hubble celebrates 35th year in orbit
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250423T200128">2025-04-23 20:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250423T203406">2025-04-23 20:34:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
