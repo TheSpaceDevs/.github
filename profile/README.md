@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/04/Lifting_the_canopy_on_Earth_s_forests" >🔗</a> **[ESA]** Lifting the canopy on Earth’s forests
 - <a href="https://spacenews.com/atmos-space-cargo-declares-first-test-flight-a-success-despite-reentry-uncertainty/" >🔗</a> **[SpaceNews]** Atmos Space Cargo declares first test flight a success despite reentry uncertainty
 - <a href="https://spacenews.com/astra-targets-cargo-delivery-with-rocket-4-in-pentagon-backed-plan/" >🔗</a> **[SpaceNews]** Astra targets cargo delivery with Rocket 4 in Pentagon-backed plan
 - <a href="https://spacenews.com/iridium-shields-supply-chain-as-higher-tariffs-loom/" >🔗</a> **[SpaceNews]** Iridium shields supply chain as higher tariffs loom
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/general/planetary-alignment-provides-nasa-rare-opportunity-to-study-uranus/" >🔗</a> **[NASA]** Planetary Alignment Provides NASA Rare Opportunity to Study Uranus
 - <a href="https://science.nasa.gov/get-involved/citizen-science/first-results-from-the-eclipse-soundscapes-project-webinar-on-may-7/" >🔗</a> **[NASA]** First Results from the Eclipse Soundscapes Project: Webinar on May 7
 - <a href="https://www.nasa.gov/image-article/sunshine-on-earth/" >🔗</a> **[NASA]** Sunshine on Earth
-- <a href="https://science.nasa.gov/solar-system/planets/planet-sizes-and-locations-in-our-solar-system/" >🔗</a> **[NASA]** Planet Sizes and Locations in Our Solar System
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250423T080137">2025-04-23 08:01:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250423T083719">2025-04-23 08:37:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
