@@ -53,7 +53,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250427T205500">2025-04-27 20:55:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-9&location=Vandenberg SFB, CA, USA&dates=20250427T205500Z%2F20250428T012600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-9** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250428T020400">2025-04-28 02:04:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-23&location=Cape Canaveral SFS, FL, USA&dates=20250428T020400Z%2F20250428T060400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-23** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250428T230000">2025-04-28 23:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 551 | Project Kuiper (KA-01)&location=Cape Canaveral SFS, FL, USA&dates=20250428T230000Z%2F20250429T010000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 551 | Project Kuiper (KA-01)** from Cape Canaveral SFS, FL, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250429T013700">2025-04-29 01:37:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-10&location=Cape Canaveral SFS, FL, USA&dates=20250429T013700Z%2F20250429T060800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-10** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250429T013700">2025-04-29 01:37:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-10&location=Kennedy Space Center, FL, USA&dates=20250429T013700Z%2F20250429T060800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-10** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250429T091500">2025-04-29 09:15:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Vega-C | Biomass&location=Guiana Space Centre, French Guiana&dates=20250429T091500Z%2F20250429T091500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Vega-C | Biomass** from Guiana Space Centre, French Guiana.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250430T000000">2025-04-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/au.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Eris-1 | Maiden Flight&location=Bowen Orbital Spaceport&dates=20250430T000000Z%2F20250430T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Eris-1 | Maiden Flight** from Bowen Orbital Spaceport.
 
@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blog/sols-4518-4519-thumbs-up-from-mars/" >🔗</a> **[NASA]** Sols 4518-4519: Thumbs up from Mars
 - <a href="https://www.nasa.gov/science-research/earth-science/nasa-airborne-sensors-wildfire-data-helps-firefighters-take-action/" >🔗</a> **[NASA]** NASA Airborne Sensor’s Wildfire Data Helps Firefighters Take Action
 - <a href="https://arstechnica.com/science/2025/04/republican-space-officials-criticize-mindless-nasa-science-cuts/" >🔗</a> **[Arstechnica]** Republican space officials criticize “mindless” NASA science cuts
 - <a href="https://www.esa.int/Enabling_Support/Operations/Final_preparations_for_Biomass_operations" >🔗</a> **[ESA]** Final preparations for Biomass operations
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-don-pettit-to-discuss-seven-month-space-mission/" >🔗</a> **[NASA]** NASA Astronaut Don Pettit to Discuss Seven-Month Space Mission
 - <a href="https://science.nasa.gov/missions/hubble/nasa-celebrates-hubbles-35th-year-in-orbit/" >🔗</a> **[NASA]** Eye on Infinity: NASA Celebrates Hubble’s 35th Year in Orbit
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Hubble_celebrates_35th_year_in_orbit" >🔗</a> **[ESA]** Hubble celebrates 35th year in orbit
-- <a href="https://www.nasa.gov/image-article/stennis-continues-prep-for-future-artemis-testing/" >🔗</a> **[NASA]** NASA Stennis Continues Prep for Future Artemis Testing
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250423T180140">2025-04-23 18:01:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250423T183902">2025-04-23 18:39:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
