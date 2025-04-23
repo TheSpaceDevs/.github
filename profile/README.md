@@ -47,7 +47,7 @@ into *a Low Earth Orbit
 
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250424T090700">2025-04-24 09:07:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2F/G | Shenzhou 20&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20250424T090700Z%2F20250424T094700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2F/G | Shenzhou 20** from Jiuquan Satellite Launch Center, People's Republic of China.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250425T013200">2025-04-25 01:32:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-74&location=Cape Canaveral SFS, FL, USA&dates=20250425T013200Z%2F20250425T063900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-74** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250425T013200">2025-04-25 01:32:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-74&location=Cape Canaveral SFS, FL, USA&dates=20250425T013200Z%2F20250425T063900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-74** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250427T133700">2025-04-27 13:37:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Firefly Alpha | FLTA006 (Message in a Booster)&location=Vandenberg SFB, CA, USA&dates=20250427T133700Z%2F20250427T151700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Firefly Alpha | FLTA006 (Message in a Booster)** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250427T154400">2025-04-27 15:44:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 3B/E | Unknown Payload&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20250427T154400Z%2F20250427T161900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 3B/E | Unknown Payload** from Xichang Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250427T205500">2025-04-27 20:55:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-9&location=Vandenberg SFB, CA, USA&dates=20250427T205500Z%2F20250428T012600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-9** from Vandenberg SFB, CA, USA.
@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/04/china-roundup-04242025/" >🔗</a> **[NASASpaceflight]** China to launch three taikonauts to Tiangong, commercial sector continues to expand
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-to-answer-questions-from-students-in-california/" >🔗</a> **[NASA]** NASA Astronaut to Answer Questions from Students in California
 - <a href="https://science.nasa.gov/blog/sols-4518-4519-thumbs-up-from-mars/" >🔗</a> **[NASA]** Sols 4518-4519: Thumbs up from Mars
 - <a href="https://www.nasa.gov/science-research/earth-science/nasa-airborne-sensors-wildfire-data-helps-firefighters-take-action/" >🔗</a> **[NASA]** NASA Airborne Sensor’s Wildfire Data Helps Firefighters Take Action
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/general/management-and-regulation-ensure-effective-spectrum-sharing/" >🔗</a> **[NASA]** Management and Regulation Ensure Effective Spectrum Sharing
 - <a href="https://www.nasa.gov/general/nasas-use-of-the-radio-frequency-spectrum/" >🔗</a> **[NASA]** NASA’s Use of the Radio Frequency Spectrum
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-don-pettit-to-discuss-seven-month-space-mission/" >🔗</a> **[NASA]** NASA Astronaut Don Pettit to Discuss Seven-Month Space Mission
-- <a href="https://science.nasa.gov/missions/hubble/nasa-celebrates-hubbles-35th-year-in-orbit/" >🔗</a> **[NASA]** Eye on Infinity: NASA Celebrates Hubble’s 35th Year in Orbit
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250423T210125">2025-04-23 21:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250423T213243">2025-04-23 21:32:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
