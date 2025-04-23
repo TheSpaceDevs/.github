@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/science-research/earth-science/nasa-airborne-sensors-wildfire-data-helps-firefighters-take-action/" >🔗</a> **[NASA]** NASA Airborne Sensor’s Wildfire Data Helps Firefighters Take Action
 - <a href="https://arstechnica.com/science/2025/04/republican-space-officials-criticize-mindless-nasa-science-cuts/" >🔗</a> **[Arstechnica]** Republican space officials criticize “mindless” NASA science cuts
 - <a href="https://www.esa.int/Enabling_Support/Operations/Final_preparations_for_Biomass_operations" >🔗</a> **[ESA]** Final preparations for Biomass operations
 - <a href="https://www.nasa.gov/general/nasa-collaborates-to-enable-spectrum-dependent-science-exploration-and-innovation/" >🔗</a> **[NASA]** NASA Collaborates to Enable Spectrum-Dependent Science, Exploration, and Innovation
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/missions/hubble/nasa-celebrates-hubbles-35th-year-in-orbit/" >🔗</a> **[NASA]** Eye on Infinity: NASA Celebrates Hubble’s 35th Year in Orbit
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Hubble_celebrates_35th_year_in_orbit" >🔗</a> **[ESA]** Hubble celebrates 35th year in orbit
 - <a href="https://www.nasa.gov/image-article/stennis-continues-prep-for-future-artemis-testing/" >🔗</a> **[NASA]** NASA Stennis Continues Prep for Future Artemis Testing
-- <a href="https://science.nasa.gov/technology/rps/nine-finalists-advance-in-nasas-power-to-explore-challenge/" >🔗</a> **[NASA]** Nine Finalists Advance in NASA’s Power to Explore Challenge
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250423T160142">2025-04-23 16:01:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250423T163737">2025-04-23 16:37:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
