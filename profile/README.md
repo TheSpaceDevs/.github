@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/technology/rps/nine-finalists-advance-in-nasas-power-to-explore-challenge/" >🔗</a> **[NASA]** Nine Finalists Advance in NASA’s Power to Explore Challenge
+- <a href="https://spacenews.com/the-guardians-rifle-why-mission-essential-space-support-cannot-be-outsourced/" >🔗</a> **[SpaceNews]** The guardian’s rifle: why mission-essential space support cannot be outsourced
 - <a href="https://europeanspaceflight.com/ariane-6-booster-upgrade-test-set-for-24-april/" >🔗</a> **[European Spaceflight]** Ariane 6 Booster Upgrade Test Set for 24 April
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/04/Lifting_the_canopy_on_Earth_s_forests" >🔗</a> **[ESA]** Lifting the canopy on Earth’s forests
 - <a href="https://spacenews.com/atmos-space-cargo-declares-first-test-flight-a-success-despite-reentry-uncertainty/" >🔗</a> **[SpaceNews]** Atmos Space Cargo declares first test flight a success despite reentry uncertainty
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/northwood-raises-30-million-to-establish-ground-station-network/" >🔗</a> **[SpaceNews]** Northwood raises $30 million to establish ground station network
 - <a href="https://spacenews.com/saic-wins-55-million-space-development-agency-contract-for-satellite-network-integration/" >🔗</a> **[SpaceNews]** SAIC wins $55 million Space Development Agency contract for satellite network integration
 - <a href="https://www.nasa.gov/general/nasa-wins-six-webby-awards-six-webby-peoples-voice-awards/" >🔗</a> **[NASA]** NASA Wins Six Webby Awards, Six Webby People’s Voice Awards
-- <a href="https://www.nasa.gov/general/planetary-alignment-provides-nasa-rare-opportunity-to-study-uranus/" >🔗</a> **[NASA]** Planetary Alignment Provides NASA Rare Opportunity to Study Uranus
-- <a href="https://science.nasa.gov/get-involved/citizen-science/first-results-from-the-eclipse-soundscapes-project-webinar-on-may-7/" >🔗</a> **[NASA]** First Results from the Eclipse Soundscapes Project: Webinar on May 7
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250423T130856">2025-04-23 13:08:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250423T133747">2025-04-23 13:37:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
