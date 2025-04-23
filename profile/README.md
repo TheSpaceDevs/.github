@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/nasa-collaborates-to-enable-spectrum-dependent-science-exploration-and-innovation/" >🔗</a> **[NASA]** NASA Collaborates to Enable Spectrum-Dependent Science, Exploration, and Innovation
+- <a href="https://www.nasa.gov/general/management-and-regulation-ensure-effective-spectrum-sharing/" >🔗</a> **[NASA]** Management and Regulation Ensure Effective Spectrum Sharing
+- <a href="https://www.nasa.gov/general/nasas-use-of-the-radio-frequency-spectrum/" >🔗</a> **[NASA]** NASA’s Use of the Radio Frequency Spectrum
+- <a href="https://www.nasa.gov/news-release/nasa-astronaut-don-pettit-to-discuss-seven-month-space-mission/" >🔗</a> **[NASA]** NASA Astronaut Don Pettit to Discuss Seven-Month Space Mission
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Hubble_celebrates_35th_year_in_orbit" >🔗</a> **[ESA]** Hubble celebrates 35th year in orbit
+- <a href="https://www.nasa.gov/image-article/stennis-continues-prep-for-future-artemis-testing/" >🔗</a> **[NASA]** NASA Stennis Continues Prep for Future Artemis Testing
 - <a href="https://science.nasa.gov/technology/rps/nine-finalists-advance-in-nasas-power-to-explore-challenge/" >🔗</a> **[NASA]** Nine Finalists Advance in NASA’s Power to Explore Challenge
 - <a href="https://spacenews.com/the-guardians-rifle-why-mission-essential-space-support-cannot-be-outsourced/" >🔗</a> **[SpaceNews]** The guardian’s rifle: why mission-essential space support cannot be outsourced
 - <a href="https://europeanspaceflight.com/ariane-6-booster-upgrade-test-set-for-24-april/" >🔗</a> **[European Spaceflight]** Ariane 6 Booster Upgrade Test Set for 24 April
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/04/Lifting_the_canopy_on_Earth_s_forests" >🔗</a> **[ESA]** Lifting the canopy on Earth’s forests
-- <a href="https://spacenews.com/atmos-space-cargo-declares-first-test-flight-a-success-despite-reentry-uncertainty/" >🔗</a> **[SpaceNews]** Atmos Space Cargo declares first test flight a success despite reentry uncertainty
-- <a href="https://spacenews.com/astra-targets-cargo-delivery-with-rocket-4-in-pentagon-backed-plan/" >🔗</a> **[SpaceNews]** Astra targets cargo delivery with Rocket 4 in Pentagon-backed plan
-- <a href="https://spacenews.com/iridium-shields-supply-chain-as-higher-tariffs-loom/" >🔗</a> **[SpaceNews]** Iridium shields supply chain as higher tariffs loom
-- <a href="https://spacenews.com/northwood-raises-30-million-to-establish-ground-station-network/" >🔗</a> **[SpaceNews]** Northwood raises $30 million to establish ground station network
-- <a href="https://spacenews.com/saic-wins-55-million-space-development-agency-contract-for-satellite-network-integration/" >🔗</a> **[SpaceNews]** SAIC wins $55 million Space Development Agency contract for satellite network integration
-- <a href="https://www.nasa.gov/general/nasa-wins-six-webby-awards-six-webby-peoples-voice-awards/" >🔗</a> **[NASA]** NASA Wins Six Webby Awards, Six Webby People’s Voice Awards
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250423T140138">2025-04-23 14:01:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250423T143602">2025-04-23 14:36:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
