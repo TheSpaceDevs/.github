@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/report-warns-u-s-risks-strategic-drift-in-space-as-china-gains-ground/" >🔗</a> **[SpaceNews]** Report warns U.S. risks strategic drift in space as China gains ground
 - <a href="https://www.nasa.gov/aeronautics/nasa-boeing-new-thin-wing-aircraft/" >🔗</a> **[NASA]** NASA, Boeing, Consider New Thin-Wing Aircraft Research Focus
 - <a href="https://spacenews.com/shenzhou-20-crewed-spacecraft-arrives-at-tiangong-space-station/" >🔗</a> **[SpaceNews]** Shenzhou-20 crewed spacecraft arrives at Tiangong space station
 - <a href="https://www.nasa.gov/missions/artemis/artemis-3/nasa-tests-key-spacesuit-parts-inside-this-icy-chamber/" >🔗</a> **[NASA]** NASA Tests Key Spacesuit Parts Inside This Icy Chamber
 - <a href="https://spacenews.com/china-report-debris-risks-startup-funding-and-previewing-space-day/" >🔗</a> **[SpaceNews]** China Report: Debris risks, startup funding and previewing Space Day
+- <a href="https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-mission-shares-detailed-plans-to-scour-skies/" >🔗</a> **[NASA]** NASA’s Roman Mission Shares Detailed Plans to Scour Skies
 - <a href="https://www.nasa.gov/missions/mars-science-laboratory/nasa-orbiter-spots-curiosity-rover-making-tracks-to-next-science-stop/" >🔗</a> **[NASA]** NASA Orbiter Spots Curiosity Rover Making Tracks to Next Science Stop
 - <a href="https://spacenews.com/fear-greed-and-glory-with-lori-garver/" >🔗</a> **[SpaceNews]** Fear, greed and glory with Lori Garver
 - <a href="https://science.nasa.gov/science-research/earth-science/2025-egu-hyperwall-schedule/" >🔗</a> **[NASA]** 2025 EGU Hyperwall Schedule
 - <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-engineering-sparks-innovative-new-battery/" >🔗</a> **[NASA]** NASA Engineering Sparks Innovative New Battery
-- <a href="https://spacenews.com/hidden-and-hampered-elevating-the-office-of-commercial-space-transportation/" >🔗</a> **[SpaceNews]** Hidden and hampered: elevating the Office of Commercial Space Transportation
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/Hovering_over_Europe_s_flattest_floor_with_AI" >🔗</a> **[ESA]** Hovering over Europe’s flattest floor with AI
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250424T180127">2025-04-24 18:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250424T183753">2025-04-24 18:37:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
