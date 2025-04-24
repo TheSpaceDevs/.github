@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/Hovering_over_Europe_s_flattest_floor_with_AI" >🔗</a> **[ESA]** Hovering over Europe’s flattest floor with AI
+- <a href="https://spacenews.com/okapi-raises-13-million-euros-to-expand-space-traffic-management-suite/" >🔗</a> **[SpaceNews]** Okapi raises 13 million euros to expand space traffic management suite
 - <a href="https://spacenews.com/katalyst-space-acquires-atomos-to-accelerate-in-space-services/" >🔗</a> **[SpaceNews]** Katalyst Space acquires Atomos to accelerate in-space services
 - <a href="https://spacenews.com/boeing-reports-progress-on-containing-starliner-costs/" >🔗</a> **[SpaceNews]** Boeing reports progress on containing Starliner costs
 - <a href="https://spacepolicyonline.com/news/new-chinese-space-station-crew-lifts-off/" >🔗</a> **[SpacePolicyOnline.com]** New Chinese Space Station Crew Lifts Off
@@ -99,19 +101,18 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1_captures_ground_shift_from_Myanmar_earthquake" >🔗</a> **[ESA]** Sentinel-1 captures ground shift from Myanmar earthquake
 - <a href="https://tlpnetwork.com/news/asia/live-coverage-china-shenzhou-20-crew-launch" >🔗</a> **[The Launch Pad]** LIVE COVERAGE! China Shenzhou 20 Crew Launch
 - <a href="https://tlpnetwork.com/news/asia/china-infinastro-secures-early-investment-for-orbital-space-bus-program" >🔗</a> **[The Launch Pad]** China’s InfinAstro Secures Early Investment for Orbital Space Bus Program
-- <a href="https://tlpnetwork.com/news/america/darpa-seeks-proposals-for-lunar-orbiter-to-prospect-water-ice-and-test-low-orbit-operations" >🔗</a> **[The Launch Pad]** DARPA Seeks Proposals for Lunar Orbiter to Prospect Water Ice and Test Low Orbit Operations
-- <a href="https://tlpnetwork.com/news/america/spacex-launches-sparse-bandwagon-3-nission-with-just-three-payloads" >🔗</a> **[The Launch Pad]** SpaceX Launches Sparse Bandwagon-3 Mission with Just Three Payloads
 
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2025/04/23/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://www.nasaspaceflight.com/2025/04/launch-roundup-042125/" >🔗</a> **[NASASpaceflight]** Launch Roundup: China to launch crew, Falcon 9 to launch Bandwagon rideshare
 - <a href="https://tlpnetwork.com/news/america/weekly-pre-launch-preview-4-falcons-iss-resupply-recon-satellites-and-g60-constellation-launch" >🔗</a> **[The Launch Pad]** Weekly Pre Launch Preview: 4 Falcons, ISS Resupply, Recon Satellites, and G60 Constellation Launch
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250424T110122">2025-04-24 11:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250424T113127">2025-04-24 11:31:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
