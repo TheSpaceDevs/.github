@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/04/23/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://tlpnetwork.com/news/america/us-senate-committee-sets-april-30-vote-for-jared-isaacman-nasa-administrator-nomination" >🔗</a> **[The Launch Pad]** US Senate Committee Sets April 30 Vote for Jared Isaacman’s NASA Administrator Nomination
 - <a href="https://tlpnetwork.com/news/in-space/atmos-phoenix-1-reaches-orbit-conducts-critical-inflatable-reentry-test" >🔗</a> **[The Launch Pad]** ATMOS PHOENIX 1 Reaches Orbit; Conducts Critical Inflatable ReEntry Test
 - <a href="https://www.nasaspaceflight.com/2025/04/china-roundup-04242025/" >🔗</a> **[NASASpaceflight]** China to launch three taikonauts to Tiangong, commercial sector continues to expand
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/science/2025/04/republican-space-officials-criticize-mindless-nasa-science-cuts/" >🔗</a> **[Arstechnica]** Republican space officials criticize “mindless” NASA science cuts
 - <a href="https://www.esa.int/Enabling_Support/Operations/Final_preparations_for_Biomass_operations" >🔗</a> **[ESA]** Final preparations for Biomass operations
 - <a href="https://www.nasa.gov/general/nasa-collaborates-to-enable-spectrum-dependent-science-exploration-and-innovation/" >🔗</a> **[NASA]** NASA Collaborates to Enable Spectrum-Dependent Science, Exploration, and Innovation
-- <a href="https://www.nasa.gov/general/management-and-regulation-ensure-effective-spectrum-sharing/" >🔗</a> **[NASA]** Management and Regulation Ensure Effective Spectrum Sharing
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250423T233209">2025-04-23 23:32:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250424T000457">2025-04-24 00:04:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
