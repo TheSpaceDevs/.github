@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/america/darpa-seeks-proposals-for-lunar-orbiter-to-prospect-water-ice-and-test-low-orbit-operations" >🔗</a> **[The Launch Pad]** DARPA Seeks Proposals for Lunar Orbiter to Prospect Water Ice and Test Low Orbit Operations
+- <a href="https://tlpnetwork.com/news/america/spacex-launches-sparse-bandwagon-3-nission-with-just-three-payloads" >🔗</a> **[The Launch Pad]** SpaceX Launches Sparse Bandwagon-3 Mission with Just Three Payloads
 - <a href="https://spaceflightnow.com/2025/04/23/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://tlpnetwork.com/news/america/us-senate-committee-sets-april-30-vote-for-jared-isaacman-nasa-administrator-nomination" >🔗</a> **[The Launch Pad]** US Senate Committee Sets April 30 Vote for Jared Isaacman’s NASA Administrator Nomination
 - <a href="https://tlpnetwork.com/news/in-space/atmos-phoenix-1-reaches-orbit-conducts-critical-inflatable-reentry-test" >🔗</a> **[The Launch Pad]** ATMOS PHOENIX 1 Reaches Orbit; Conducts Critical Inflatable ReEntry Test
@@ -99,8 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/blog/sols-4518-4519-thumbs-up-from-mars/" >🔗</a> **[NASA]** Sols 4518-4519: Thumbs up from Mars
 - <a href="https://www.nasa.gov/science-research/earth-science/nasa-airborne-sensors-wildfire-data-helps-firefighters-take-action/" >🔗</a> **[NASA]** NASA Airborne Sensor’s Wildfire Data Helps Firefighters Take Action
 - <a href="https://arstechnica.com/science/2025/04/republican-space-officials-criticize-mindless-nasa-science-cuts/" >🔗</a> **[Arstechnica]** Republican space officials criticize “mindless” NASA science cuts
-- <a href="https://www.esa.int/Enabling_Support/Operations/Final_preparations_for_Biomass_operations" >🔗</a> **[ESA]** Final preparations for Biomass operations
-- <a href="https://www.nasa.gov/general/nasa-collaborates-to-enable-spectrum-dependent-science-exploration-and-innovation/" >🔗</a> **[NASA]** NASA Collaborates to Enable Spectrum-Dependent Science, Exploration, and Innovation
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250424T050122">2025-04-24 05:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250424T053446">2025-04-24 05:34:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
