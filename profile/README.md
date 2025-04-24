@@ -92,6 +92,7 @@ into *a Low Earth Orbit
 ### Latest News ⌛
 - <a href="https://spacenews.com/nasa-cancels-lease-for-earth-science-office-in-new-york/" >🔗</a> **[SpaceNews]** NASA cancels lease for Earth science office in New York
 - <a href="https://spacenews.com/webinar-spacex-2025-business-outlook/" >🔗</a> **[SpaceNews]** Webinar: SpaceX – 2025 Business Outlook
+- <a href="https://www.nasaspaceflight.com/2025/04/curiosity-carbonate-atmosphere/" >🔗</a> **[NASASpaceflight]** Curiosity discovers carbonate mineral, provides insight into disappearance of ancient atmosphere
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-tracks-snowmelt-to-improve-water-management/" >🔗</a> **[NASA]** NASA Tracks Snowmelt to Improve Water Management
 - <a href="https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-marshall-fires-up-hybrid-rocket-motor-to-prep-for-moon-landings/" >🔗</a> **[NASA]** NASA Marshall Fires Up Hybrid Rocket Motor to Prep for Moon Landings
 - <a href="https://spacenews.com/ororatech-opens-us-office-to-expand-wildfire-monitoring-network/" >🔗</a> **[SpaceNews]** OroraTech opens US office to expand wildfire monitoring network
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/all-hands-for-artemis-iii/" >🔗</a> **[NASA]** All Hands for Artemis III
 - <a href="https://spacenews.com/report-warns-u-s-risks-strategic-drift-in-space-as-china-gains-ground/" >🔗</a> **[SpaceNews]** Report warns U.S. risks strategic drift in space as China gains ground
 - <a href="https://www.nasa.gov/aeronautics/nasa-boeing-new-thin-wing-aircraft/" >🔗</a> **[NASA]** NASA, Boeing, Consider New Thin-Wing Aircraft Research Focus
-- <a href="https://spacenews.com/shenzhou-20-crewed-spacecraft-arrives-at-tiangong-space-station/" >🔗</a> **[SpaceNews]** Shenzhou-20 crewed spacecraft arrives at Tiangong space station
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250424T230120">2025-04-24 23:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250424T233146">2025-04-24 23:31:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
