@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/artemis/artemis-3/nasa-tests-key-spacesuit-parts-inside-this-icy-chamber/" >🔗</a> **[NASA]** NASA Tests Key Spacesuit Parts Inside This Icy Chamber
+- <a href="https://spacenews.com/china-report-debris-risks-startup-funding-and-previewing-space-day/" >🔗</a> **[SpaceNews]** China Report: Debris risks, startup funding and previewing Space Day
+- <a href="https://www.nasa.gov/missions/mars-science-laboratory/nasa-orbiter-spots-curiosity-rover-making-tracks-to-next-science-stop/" >🔗</a> **[NASA]** NASA Orbiter Spots Curiosity Rover Making Tracks to Next Science Stop
 - <a href="https://spacenews.com/fear-greed-and-glory-with-lori-garver/" >🔗</a> **[SpaceNews]** Fear, greed and glory with Lori Garver
+- <a href="https://science.nasa.gov/science-research/earth-science/2025-egu-hyperwall-schedule/" >🔗</a> **[NASA]** 2025 EGU Hyperwall Schedule
 - <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-engineering-sparks-innovative-new-battery/" >🔗</a> **[NASA]** NASA Engineering Sparks Innovative New Battery
 - <a href="https://spacenews.com/hidden-and-hampered-elevating-the-office-of-commercial-space-transportation/" >🔗</a> **[SpaceNews]** Hidden and hampered: elevating the Office of Commercial Space Transportation
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/Hovering_over_Europe_s_flattest_floor_with_AI" >🔗</a> **[ESA]** Hovering over Europe’s flattest floor with AI
 - <a href="https://spacenews.com/okapi-raises-13-million-euros-to-expand-space-traffic-management-suite/" >🔗</a> **[SpaceNews]** Okapi raises 13 million euros to expand space traffic management suite
 - <a href="https://spacenews.com/katalyst-space-acquires-atomos-to-accelerate-in-space-services/" >🔗</a> **[SpaceNews]** Katalyst Space acquires Atomos to accelerate in-space services
-- <a href="https://spacenews.com/boeing-reports-progress-on-containing-starliner-costs/" >🔗</a> **[SpaceNews]** Boeing reports progress on containing Starliner costs
-- <a href="https://spacepolicyonline.com/news/new-chinese-space-station-crew-lifts-off/" >🔗</a> **[SpacePolicyOnline.com]** New Chinese Space Station Crew Lifts Off
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Biomass/Watch_Biomass_launch_live" >🔗</a> **[ESA]** Watch Biomass launch live
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/Solar_Orbiter_s_widest_high-res_view_of_the_Sun" >🔗</a> **[ESA]** Solar Orbiter’s widest high-res view of the Sun
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250424T160141">2025-04-24 16:01:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250424T163723">2025-04-24 16:37:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
