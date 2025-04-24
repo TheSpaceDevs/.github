@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/Solar_Orbiter_s_widest_high-res_view_of_the_Sun" >🔗</a> **[ESA]** Solar Orbiter’s widest high-res view of the Sun
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1_captures_ground_shift_from_Myanmar_earthquake" >🔗</a> **[ESA]** Sentinel-1 captures ground shift from Myanmar earthquake
 - <a href="https://tlpnetwork.com/news/asia/live-coverage-china-shenzhou-20-crew-launch" >🔗</a> **[The Launch Pad]** LIVE COVERAGE! China Shenzhou 20 Crew Launch
 - <a href="https://tlpnetwork.com/news/asia/china-infinastro-secures-early-investment-for-orbital-space-bus-program" >🔗</a> **[The Launch Pad]** China’s InfinAstro Secures Early Investment for Orbital Space Bus Program
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/america/us-senate-committee-sets-april-30-vote-for-jared-isaacman-nasa-administrator-nomination" >🔗</a> **[The Launch Pad]** US Senate Committee Sets April 30 Vote for Jared Isaacman’s NASA Administrator Nomination
 - <a href="https://tlpnetwork.com/news/in-space/atmos-phoenix-1-reaches-orbit-conducts-critical-inflatable-reentry-test" >🔗</a> **[The Launch Pad]** ATMOS PHOENIX 1 Reaches Orbit; Conducts Critical Inflatable ReEntry Test
 - <a href="https://www.nasaspaceflight.com/2025/04/china-roundup-04242025/" >🔗</a> **[NASASpaceflight]** China to launch three taikonauts to Tiangong, commercial sector continues to expand
-- <a href="https://www.nasa.gov/news-release/nasa-astronaut-to-answer-questions-from-students-in-california/" >🔗</a> **[NASA]** NASA Astronaut to Answer Questions from Students in California
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250424T080136">2025-04-24 08:01:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250424T083728">2025-04-24 08:37:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
