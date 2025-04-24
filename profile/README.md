@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-marshall-fires-up-hybrid-rocket-motor-to-prep-for-moon-landings/" >🔗</a> **[NASA]** NASA Marshall Fires Up Hybrid Rocket Motor to Prep for Moon Landings
+- <a href="https://spacenews.com/ororatech-opens-us-office-to-expand-wildfire-monitoring-network/" >🔗</a> **[SpaceNews]** OroraTech opens US office to expand wildfire monitoring network
 - <a href="https://www.nasa.gov/image-article/all-hands-for-artemis-iii/" >🔗</a> **[NASA]** All Hands for Artemis III
 - <a href="https://spacenews.com/report-warns-u-s-risks-strategic-drift-in-space-as-china-gains-ground/" >🔗</a> **[SpaceNews]** Report warns U.S. risks strategic drift in space as China gains ground
 - <a href="https://www.nasa.gov/aeronautics/nasa-boeing-new-thin-wing-aircraft/" >🔗</a> **[NASA]** NASA, Boeing, Consider New Thin-Wing Aircraft Research Focus
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/china-report-debris-risks-startup-funding-and-previewing-space-day/" >🔗</a> **[SpaceNews]** China Report: Debris risks, startup funding and previewing Space Day
 - <a href="https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-mission-shares-detailed-plans-to-scour-skies/" >🔗</a> **[NASA]** NASA’s Roman Mission Shares Detailed Plans to Scour Skies
 - <a href="https://www.nasa.gov/missions/mars-science-laboratory/nasa-orbiter-spots-curiosity-rover-making-tracks-to-next-science-stop/" >🔗</a> **[NASA]** NASA Orbiter Spots Curiosity Rover Making Tracks to Next Science Stop
-- <a href="https://spacenews.com/fear-greed-and-glory-with-lori-garver/" >🔗</a> **[SpaceNews]** Fear, greed and glory with Lori Garver
-- <a href="https://science.nasa.gov/science-research/earth-science/2025-egu-hyperwall-schedule/" >🔗</a> **[NASA]** 2025 EGU Hyperwall Schedule
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250424T210120">2025-04-24 21:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250424T213251">2025-04-24 21:32:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
