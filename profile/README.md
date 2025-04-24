@@ -91,16 +91,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/katalyst-space-acquires-atomos-to-accelerate-in-space-services/" >🔗</a> **[SpaceNews]** Katalyst Space acquires Atomos to accelerate in-space services
+- <a href="https://spacenews.com/boeing-reports-progress-on-containing-starliner-costs/" >🔗</a> **[SpaceNews]** Boeing reports progress on containing Starliner costs
+- <a href="https://spacepolicyonline.com/news/new-chinese-space-station-crew-lifts-off/" >🔗</a> **[SpacePolicyOnline.com]** New Chinese Space Station Crew Lifts Off
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Biomass/Watch_Biomass_launch_live" >🔗</a> **[ESA]** Watch Biomass launch live
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/Solar_Orbiter_s_widest_high-res_view_of_the_Sun" >🔗</a> **[ESA]** Solar Orbiter’s widest high-res view of the Sun
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1_captures_ground_shift_from_Myanmar_earthquake" >🔗</a> **[ESA]** Sentinel-1 captures ground shift from Myanmar earthquake
 - <a href="https://tlpnetwork.com/news/asia/live-coverage-china-shenzhou-20-crew-launch" >🔗</a> **[The Launch Pad]** LIVE COVERAGE! China Shenzhou 20 Crew Launch
 - <a href="https://tlpnetwork.com/news/asia/china-infinastro-secures-early-investment-for-orbital-space-bus-program" >🔗</a> **[The Launch Pad]** China’s InfinAstro Secures Early Investment for Orbital Space Bus Program
 - <a href="https://tlpnetwork.com/news/america/darpa-seeks-proposals-for-lunar-orbiter-to-prospect-water-ice-and-test-low-orbit-operations" >🔗</a> **[The Launch Pad]** DARPA Seeks Proposals for Lunar Orbiter to Prospect Water Ice and Test Low Orbit Operations
 - <a href="https://tlpnetwork.com/news/america/spacex-launches-sparse-bandwagon-3-nission-with-just-three-payloads" >🔗</a> **[The Launch Pad]** SpaceX Launches Sparse Bandwagon-3 Mission with Just Three Payloads
-- <a href="https://spaceflightnow.com/2025/04/23/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Cape Canaveral
-- <a href="https://tlpnetwork.com/news/america/us-senate-committee-sets-april-30-vote-for-jared-isaacman-nasa-administrator-nomination" >🔗</a> **[The Launch Pad]** US Senate Committee Sets April 30 Vote for Jared Isaacman’s NASA Administrator Nomination
-- <a href="https://tlpnetwork.com/news/in-space/atmos-phoenix-1-reaches-orbit-conducts-critical-inflatable-reentry-test" >🔗</a> **[The Launch Pad]** ATMOS PHOENIX 1 Reaches Orbit; Conducts Critical Inflatable ReEntry Test
-- <a href="https://www.nasaspaceflight.com/2025/04/china-roundup-04242025/" >🔗</a> **[NASASpaceflight]** China to launch three taikonauts to Tiangong, commercial sector continues to expand
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250424T100227">2025-04-24 10:02:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250424T103617">2025-04-24 10:36:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
