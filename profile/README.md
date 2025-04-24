@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/all-hands-for-artemis-iii/" >🔗</a> **[NASA]** All Hands for Artemis III
 - <a href="https://spacenews.com/report-warns-u-s-risks-strategic-drift-in-space-as-china-gains-ground/" >🔗</a> **[SpaceNews]** Report warns U.S. risks strategic drift in space as China gains ground
 - <a href="https://www.nasa.gov/aeronautics/nasa-boeing-new-thin-wing-aircraft/" >🔗</a> **[NASA]** NASA, Boeing, Consider New Thin-Wing Aircraft Research Focus
 - <a href="https://spacenews.com/shenzhou-20-crewed-spacecraft-arrives-at-tiangong-space-station/" >🔗</a> **[SpaceNews]** Shenzhou-20 crewed spacecraft arrives at Tiangong space station
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/missions/mars-science-laboratory/nasa-orbiter-spots-curiosity-rover-making-tracks-to-next-science-stop/" >🔗</a> **[NASA]** NASA Orbiter Spots Curiosity Rover Making Tracks to Next Science Stop
 - <a href="https://spacenews.com/fear-greed-and-glory-with-lori-garver/" >🔗</a> **[SpaceNews]** Fear, greed and glory with Lori Garver
 - <a href="https://science.nasa.gov/science-research/earth-science/2025-egu-hyperwall-schedule/" >🔗</a> **[NASA]** 2025 EGU Hyperwall Schedule
-- <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-engineering-sparks-innovative-new-battery/" >🔗</a> **[NASA]** NASA Engineering Sparks Innovative New Battery
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250424T190112">2025-04-24 19:01:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250424T193115">2025-04-24 19:31:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
