@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/u-s-russian-iss-commission-controlled-deorbit-no-gap-are-imperatives/" >🔗</a> **[SpacePolicyOnline.com]** U.S.-Russian ISS Commission: Controlled Deorbit, No Gap, are Imperatives
 - <a href="https://spacenews.com/nasa-cancels-lease-for-earth-science-office-in-new-york/" >🔗</a> **[SpaceNews]** NASA cancels lease for Earth science office in New York
 - <a href="https://spacenews.com/webinar-spacex-2025-business-outlook/" >🔗</a> **[SpaceNews]** Webinar: SpaceX – 2025 Business Outlook
 - <a href="https://www.nasaspaceflight.com/2025/04/curiosity-carbonate-atmosphere/" >🔗</a> **[NASASpaceflight]** Curiosity discovers carbonate mineral, provides insight into disappearance of ancient atmosphere
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/image-article/new-york-stock-exchange-welcomes-nasas-spherex-team/" >🔗</a> **[NASA]** New York Stock Exchange Welcomes NASA’s SPHEREx Team
 - <a href="https://www.nasa.gov/image-article/all-hands-for-artemis-iii/" >🔗</a> **[NASA]** All Hands for Artemis III
 - <a href="https://spacenews.com/report-warns-u-s-risks-strategic-drift-in-space-as-china-gains-ground/" >🔗</a> **[SpaceNews]** Report warns U.S. risks strategic drift in space as China gains ground
-- <a href="https://www.nasa.gov/aeronautics/nasa-boeing-new-thin-wing-aircraft/" >🔗</a> **[NASA]** NASA, Boeing, Consider New Thin-Wing Aircraft Research Focus
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250425T004557">2025-04-25 00:45:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250425T012856">2025-04-25 01:28:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
