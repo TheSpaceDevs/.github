@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/artemis/lunar-space-station-for-nasas-artemis-campaign-to-begin-final-testing/" >🔗</a> **[NASA]** Lunar Space Station for NASA’s Artemis Campaign to Begin Final Testing
 - <a href="https://science.nasa.gov/blog/searching-for-the-dark-in-the-light/" >🔗</a> **[NASA]** Searching for the Dark in the Light
 - <a href="https://www.nasaspaceflight.com/2025/04/blue-origin-gs2-test/" >🔗</a> **[NASASpaceflight]** Blue Origin test fires second stage and continues preparations for New Glenn’s second flight
 - <a href="https://spacenews.com/axiom-space-names-new-ceo/" >🔗</a> **[SpaceNews]** Axiom Space names new CEO
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-invites-local-middle-schoolers-to-explore-agency-stem-careers/" >🔗</a> **[NASA]** NASA Invites Local Middle Schoolers to Explore Agency STEM Careers
 - <a href="https://science.nasa.gov/blog/sols-4520-4521-prinzregententorte/" >🔗</a> **[NASA]** Sols 4520-4521: Prinzregententorte
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ACES_finds_its_home_in_orbit" >🔗</a> **[ESA]** ACES finds its home in orbit
-- <a href="https://www.nasa.gov/missions/station/iss-research/navigation-technology/" >🔗</a> **[NASA]** Navigation Technology
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250425T230118">2025-04-25 23:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250425T233149">2025-04-25 23:31:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
