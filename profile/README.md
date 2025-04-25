@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blog/searching-for-the-dark-in-the-light/" >🔗</a> **[NASA]** Searching for the Dark in the Light
+- <a href="https://www.nasaspaceflight.com/2025/04/blue-origin-gs2-test/" >🔗</a> **[NASASpaceflight]** Blue Origin test fires second stage and continues preparations for New Glenn’s second flight
 - <a href="https://spacenews.com/axiom-space-names-new-ceo/" >🔗</a> **[SpaceNews]** Axiom Space names new CEO
 - <a href="https://spacenews.com/gps-disruption-and-satellite-maneuvers-now-hallmarks-of-modern-warfare/" >🔗</a> **[SpaceNews]** GPS disruption and satellite maneuvers now hallmarks of modern warfare
 - <a href="https://spaceflightnow.com/2025/04/25/axiom-spaces-chief-revenue-officer-tapped-as-new-ceo/" >🔗</a> **[Spaceflight Now]** Axiom Space’s Chief Revenue Officer tapped as new CEO
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/blog/sols-4520-4521-prinzregententorte/" >🔗</a> **[NASA]** Sols 4520-4521: Prinzregententorte
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ACES_finds_its_home_in_orbit" >🔗</a> **[ESA]** ACES finds its home in orbit
 - <a href="https://www.nasa.gov/missions/station/iss-research/navigation-technology/" >🔗</a> **[NASA]** Navigation Technology
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_21-25_April_2025" >🔗</a> **[ESA]** Week in images: 21-25 April 2025
-- <a href="https://spacenews.com/iss-implementation-partners-need-to-survive-the-transition-to-commercial-leo-destinations/" >🔗</a> **[SpaceNews]** ISS implementation partners need to survive the transition to commercial LEO destinations
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250425T210126">2025-04-25 21:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250425T213242">2025-04-25 21:32:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
