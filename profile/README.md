@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-selects-international-payloads-for-change-8-lunar-south-pole-mission/" >🔗</a> **[SpaceNews]** China selects international payloads for Chang’e-8 lunar south pole mission
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/Earth_from_Space_French_Guiana" >🔗</a> **[ESA]** Earth from Space: French Guiana
 - <a href="https://europeanspaceflight.com/maiaspace-selects-lukasiewicz-ilot-to-develop-kick-stage-engine/" >🔗</a> **[European Spaceflight]** MaiaSpace Selects Łukasiewicz–ILOT to Develop Kick-Stage Engine
 - <a href="https://spacepolicyonline.com/news/trump-praises-hubble-promises-america-will-lead-the-way-in-space-exploration/" >🔗</a> **[SpacePolicyOnline.com]** Trump Praises Hubble, Promises America Will Lead the Way in Space Exploration
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2025/04/curiosity-carbonate-atmosphere/" >🔗</a> **[NASASpaceflight]** Curiosity discovers carbonate mineral, provides insight into disappearance of ancient atmosphere
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-tracks-snowmelt-to-improve-water-management/" >🔗</a> **[NASA]** NASA Tracks Snowmelt to Improve Water Management
 - <a href="https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-marshall-fires-up-hybrid-rocket-motor-to-prep-for-moon-landings/" >🔗</a> **[NASA]** NASA Marshall Fires Up Hybrid Rocket Motor to Prep for Moon Landings
-- <a href="https://spacenews.com/ororatech-opens-us-office-to-expand-wildfire-monitoring-network/" >🔗</a> **[SpaceNews]** OroraTech opens US office to expand wildfire monitoring network
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250425T100129">2025-04-25 10:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250425T103555">2025-04-25 10:35:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
