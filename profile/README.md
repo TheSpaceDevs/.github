@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/glenn/air-force-pilot-skillbridge-fellow-helps-nasa-research-soar/" >🔗</a> **[NASA]** Air Force Pilot, SkillBridge Fellow Helps NASA Research Soar
 - <a href="https://spacenews.com/isaacman-calls-potential-nasa-science-cuts-not-optimal/" >🔗</a> **[SpaceNews]** Isaacman calls potential NASA science cuts not “optimal”
 - <a href="https://spacenews.com/china-selects-international-payloads-for-change-8-lunar-south-pole-mission/" >🔗</a> **[SpaceNews]** China selects international payloads for Chang’e-8 lunar south pole mission
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/Earth_from_Space_French_Guiana" >🔗</a> **[ESA]** Earth from Space: French Guiana
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/nasa-cancels-lease-for-earth-science-office-in-new-york/" >🔗</a> **[SpaceNews]** NASA cancels lease for Earth science office in New York
 - <a href="https://spacenews.com/webinar-spacex-2025-business-outlook/" >🔗</a> **[SpaceNews]** Webinar: SpaceX – 2025 Business Outlook
 - <a href="https://www.nasaspaceflight.com/2025/04/curiosity-carbonate-atmosphere/" >🔗</a> **[NASASpaceflight]** Curiosity discovers carbonate mineral, provides insight into disappearance of ancient atmosphere
-- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-tracks-snowmelt-to-improve-water-management/" >🔗</a> **[NASA]** NASA Tracks Snowmelt to Improve Water Management
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250425T120213">2025-04-25 12:02:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250425T124308">2025-04-25 12:43:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
