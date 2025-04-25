@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/04/25/axiom-spaces-chief-revenue-officer-tapped-as-new-ceo/" >🔗</a> **[Spaceflight Now]** Axiom Space’s Chief Revenue Officer tapped as new CEO
 - <a href="https://www.nasa.gov/image-article/hubble-visits-glittering-cluster-capturing-its-ultraviolet-light/" >🔗</a> **[NASA]** Hubble Visits Glittering Cluster, Capturing Its Ultraviolet Light
 - <a href="https://www.nasa.gov/news-release/nasa-invites-local-middle-schoolers-to-explore-agency-stem-careers/" >🔗</a> **[NASA]** NASA Invites Local Middle Schoolers to Explore Agency STEM Careers
 - <a href="https://science.nasa.gov/blog/sols-4520-4521-prinzregententorte/" >🔗</a> **[NASA]** Sols 4520-4521: Prinzregententorte
-- <a href="https://www.nasa.gov/missions/station/iss-research/navigation-technology/" >🔗</a> **[NASA]** Navigation Technology
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ACES_finds_its_home_in_orbit" >🔗</a> **[ESA]** ACES finds its home in orbit
+- <a href="https://www.nasa.gov/missions/station/iss-research/navigation-technology/" >🔗</a> **[NASA]** Navigation Technology
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_21-25_April_2025" >🔗</a> **[ESA]** Week in images: 21-25 April 2025
 - <a href="https://spacenews.com/iss-implementation-partners-need-to-survive-the-transition-to-commercial-leo-destinations/" >🔗</a> **[SpaceNews]** ISS implementation partners need to survive the transition to commercial LEO destinations
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Europe_s_Spaceport/P160C_fires_up_successfully_a_new_chapter_for_Ariane_6_and_Vega_launchers" >🔗</a> **[ESA]** P160C fires up successfully, a new chapter for Ariane 6 and Vega launchers
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/air-force-pilot-skillbridge-fellow-helps-nasa-research-soar/" >🔗</a> **[NASA]** Air Force Pilot, SkillBridge Fellow Helps NASA Research Soar
-- <a href="https://science.nasa.gov/missions/hubble/hubble-visits-glittering-cluster-capturing-its-ultraviolet-light/" >🔗</a> **[NASA]** Hubble Visits Glittering Cluster, Capturing Its Ultraviolet Light
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250425T180131">2025-04-25 18:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250425T183734">2025-04-25 18:37:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
