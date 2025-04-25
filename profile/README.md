@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-invites-local-middle-schoolers-to-explore-agency-stem-careers/" >🔗</a> **[NASA]** NASA Invites Local Middle Schoolers to Explore Agency STEM Careers
+- <a href="https://science.nasa.gov/blog/sols-4520-4521-prinzregententorte/" >🔗</a> **[NASA]** Sols 4520-4521: Prinzregententorte
 - <a href="https://www.nasa.gov/missions/station/iss-research/navigation-technology/" >🔗</a> **[NASA]** Navigation Technology
+- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ACES_finds_its_home_in_orbit" >🔗</a> **[ESA]** ACES finds its home in orbit
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_21-25_April_2025" >🔗</a> **[ESA]** Week in images: 21-25 April 2025
 - <a href="https://spacenews.com/iss-implementation-partners-need-to-survive-the-transition-to-commercial-leo-destinations/" >🔗</a> **[SpaceNews]** ISS implementation partners need to survive the transition to commercial LEO destinations
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Europe_s_Spaceport/P160C_fires_up_successfully_a_new_chapter_for_Ariane_6_and_Vega_launchers" >🔗</a> **[ESA]** P160C fires up successfully, a new chapter for Ariane 6 and Vega launchers
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/air-force-pilot-skillbridge-fellow-helps-nasa-research-soar/" >🔗</a> **[NASA]** Air Force Pilot, SkillBridge Fellow Helps NASA Research Soar
 - <a href="https://science.nasa.gov/missions/hubble/hubble-visits-glittering-cluster-capturing-its-ultraviolet-light/" >🔗</a> **[NASA]** Hubble Visits Glittering Cluster, Capturing Its Ultraviolet Light
 - <a href="https://spacenews.com/isaacman-calls-potential-nasa-science-cuts-not-optimal/" >🔗</a> **[SpaceNews]** Isaacman calls potential NASA science cuts not “optimal”
-- <a href="https://spacenews.com/china-selects-international-payloads-for-change-8-lunar-south-pole-mission/" >🔗</a> **[SpaceNews]** China selects international payloads for Chang’e-8 lunar south pole mission
-- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Celebrating_20_years_of_KUBIK_a_cornerstone_of_life_science_research_in_space" >🔗</a> **[ESA]** Celebrating 20 years of KUBIK: a cornerstone of life science research in space
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/Earth_from_Space_French_Guiana" >🔗</a> **[ESA]** Earth from Space: French Guiana
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250425T150122">2025-04-25 15:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250425T153356">2025-04-25 15:33:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
