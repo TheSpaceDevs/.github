@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/hubble-visits-glittering-cluster-capturing-its-ultraviolet-light/" >🔗</a> **[NASA]** Hubble Visits Glittering Cluster, Capturing Its Ultraviolet Light
 - <a href="https://www.nasa.gov/news-release/nasa-invites-local-middle-schoolers-to-explore-agency-stem-careers/" >🔗</a> **[NASA]** NASA Invites Local Middle Schoolers to Explore Agency STEM Careers
 - <a href="https://science.nasa.gov/blog/sols-4520-4521-prinzregententorte/" >🔗</a> **[NASA]** Sols 4520-4521: Prinzregententorte
 - <a href="https://www.nasa.gov/missions/station/iss-research/navigation-technology/" >🔗</a> **[NASA]** Navigation Technology
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Europe_s_Spaceport/P160C_fires_up_successfully_a_new_chapter_for_Ariane_6_and_Vega_launchers" >🔗</a> **[ESA]** P160C fires up successfully, a new chapter for Ariane 6 and Vega launchers
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/air-force-pilot-skillbridge-fellow-helps-nasa-research-soar/" >🔗</a> **[NASA]** Air Force Pilot, SkillBridge Fellow Helps NASA Research Soar
 - <a href="https://science.nasa.gov/missions/hubble/hubble-visits-glittering-cluster-capturing-its-ultraviolet-light/" >🔗</a> **[NASA]** Hubble Visits Glittering Cluster, Capturing Its Ultraviolet Light
-- <a href="https://spacenews.com/isaacman-calls-potential-nasa-science-cuts-not-optimal/" >🔗</a> **[SpaceNews]** Isaacman calls potential NASA science cuts not “optimal”
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250425T170120">2025-04-25 17:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250425T173334">2025-04-25 17:33:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
