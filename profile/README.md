@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_21-25_April_2025" >🔗</a> **[ESA]** Week in images: 21-25 April 2025
+- <a href="https://spacenews.com/iss-implementation-partners-need-to-survive-the-transition-to-commercial-leo-destinations/" >🔗</a> **[SpaceNews]** ISS implementation partners need to survive the transition to commercial LEO destinations
+- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Europe_s_Spaceport/P160C_fires_up_successfully_a_new_chapter_for_Ariane_6_and_Vega_launchers" >🔗</a> **[ESA]** P160C fires up successfully, a new chapter for Ariane 6 and Vega launchers
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/air-force-pilot-skillbridge-fellow-helps-nasa-research-soar/" >🔗</a> **[NASA]** Air Force Pilot, SkillBridge Fellow Helps NASA Research Soar
+- <a href="https://science.nasa.gov/missions/hubble/hubble-visits-glittering-cluster-capturing-its-ultraviolet-light/" >🔗</a> **[NASA]** Hubble Visits Glittering Cluster, Capturing Its Ultraviolet Light
 - <a href="https://spacenews.com/isaacman-calls-potential-nasa-science-cuts-not-optimal/" >🔗</a> **[SpaceNews]** Isaacman calls potential NASA science cuts not “optimal”
 - <a href="https://spacenews.com/china-selects-international-payloads-for-change-8-lunar-south-pole-mission/" >🔗</a> **[SpaceNews]** China selects international payloads for Chang’e-8 lunar south pole mission
+- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Celebrating_20_years_of_KUBIK_a_cornerstone_of_life_science_research_in_space" >🔗</a> **[ESA]** Celebrating 20 years of KUBIK: a cornerstone of life science research in space
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/Earth_from_Space_French_Guiana" >🔗</a> **[ESA]** Earth from Space: French Guiana
 - <a href="https://europeanspaceflight.com/maiaspace-selects-lukasiewicz-ilot-to-develop-kick-stage-engine/" >🔗</a> **[European Spaceflight]** MaiaSpace Selects Łukasiewicz–ILOT to Develop Kick-Stage Engine
-- <a href="https://spacepolicyonline.com/news/trump-praises-hubble-promises-america-will-lead-the-way-in-space-exploration/" >🔗</a> **[SpacePolicyOnline.com]** Trump Praises Hubble, Promises America Will Lead the Way in Space Exploration
-- <a href="https://spacepolicyonline.com/news/u-s-russian-iss-commission-controlled-deorbit-no-gap-are-imperatives/" >🔗</a> **[SpacePolicyOnline.com]** U.S.-Russian ISS Commission: Controlled Deorbit, No Gap, are Imperatives
-- <a href="https://spacenews.com/nasa-cancels-lease-for-earth-science-office-in-new-york/" >🔗</a> **[SpaceNews]** NASA cancels lease for Earth science office in New York
-- <a href="https://spacenews.com/webinar-spacex-2025-business-outlook/" >🔗</a> **[SpaceNews]** Webinar: SpaceX – 2025 Business Outlook
-- <a href="https://www.nasaspaceflight.com/2025/04/curiosity-carbonate-atmosphere/" >🔗</a> **[NASASpaceflight]** Curiosity discovers carbonate mineral, provides insight into disappearance of ancient atmosphere
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250425T130819">2025-04-25 13:08:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250425T133635">2025-04-25 13:36:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
