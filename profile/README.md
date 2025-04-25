@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/maiaspace-selects-lukasiewicz-ilot-to-develop-kick-stage-engine/" >🔗</a> **[European Spaceflight]** MaiaSpace Selects Łukasiewicz–ILOT to Develop Kick-Stage Engine
 - <a href="https://spacepolicyonline.com/news/trump-praises-hubble-promises-america-will-lead-the-way-in-space-exploration/" >🔗</a> **[SpacePolicyOnline.com]** Trump Praises Hubble, Promises America Will Lead the Way in Space Exploration
 - <a href="https://spacepolicyonline.com/news/u-s-russian-iss-commission-controlled-deorbit-no-gap-are-imperatives/" >🔗</a> **[SpacePolicyOnline.com]** U.S.-Russian ISS Commission: Controlled Deorbit, No Gap, are Imperatives
 - <a href="https://spacenews.com/nasa-cancels-lease-for-earth-science-office-in-new-york/" >🔗</a> **[SpaceNews]** NASA cancels lease for Earth science office in New York
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-marshall-fires-up-hybrid-rocket-motor-to-prep-for-moon-landings/" >🔗</a> **[NASA]** NASA Marshall Fires Up Hybrid Rocket Motor to Prep for Moon Landings
 - <a href="https://spacenews.com/ororatech-opens-us-office-to-expand-wildfire-monitoring-network/" >🔗</a> **[SpaceNews]** OroraTech opens US office to expand wildfire monitoring network
 - <a href="https://science.nasa.gov/image-article/new-york-stock-exchange-welcomes-nasas-spherex-team/" >🔗</a> **[NASA]** New York Stock Exchange Welcomes NASA’s SPHEREx Team
-- <a href="https://www.nasa.gov/image-article/all-hands-for-artemis-iii/" >🔗</a> **[NASA]** All Hands for Artemis III
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250425T070125">2025-04-25 07:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250425T073208">2025-04-25 07:32:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
