@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/science-research/earth-science/art-showcase/" >🔗</a> **[NASA]** Earth Science Showcase – Kids Art Collection
 - <a href="https://spacenews.com/l3harris-gains-edge-in-race-to-build-golden-dome-missile-sensors/" >🔗</a> **[SpaceNews]** L3Harris gains edge in race to build Golden Dome missile sensors
 - <a href="https://www.nasa.gov/missions/artemis/lunar-space-station-for-nasas-artemis-campaign-to-begin-final-testing/" >🔗</a> **[NASA]** Lunar Space Station for NASA’s Artemis Campaign to Begin Final Testing
 - <a href="https://science.nasa.gov/blog/searching-for-the-dark-in-the-light/" >🔗</a> **[NASA]** Searching for the Dark in the Light
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/04/25/axiom-spaces-chief-revenue-officer-tapped-as-new-ceo/" >🔗</a> **[Spaceflight Now]** Axiom Space’s Chief Revenue Officer tapped as new CEO
 - <a href="https://www.nasa.gov/image-article/hubble-visits-glittering-cluster-capturing-its-ultraviolet-light/" >🔗</a> **[NASA]** Hubble Visits Glittering Cluster, Capturing Its Ultraviolet Light
 - <a href="https://www.nasa.gov/news-release/nasa-invites-local-middle-schoolers-to-explore-agency-stem-careers/" >🔗</a> **[NASA]** NASA Invites Local Middle Schoolers to Explore Agency STEM Careers
-- <a href="https://science.nasa.gov/blog/sols-4520-4521-prinzregententorte/" >🔗</a> **[NASA]** Sols 4520-4521: Prinzregententorte
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250426T000453">2025-04-26 00:04:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250426T004549">2025-04-26 00:45:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
