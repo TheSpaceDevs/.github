@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/musks-possible-role-in-meink-isaacman-nominations-continues-to-raise-concerns/" >🔗</a> **[SpacePolicyOnline.com]** Musk’s Possible Role in Meink, Isaacman Nominations Continues to Raise Concerns
+- <a href="https://www.nasaspaceflight.com/2025/04/firefly-flta006/" >🔗</a> **[NASASpaceflight]** Firefly Alpha set to launch FLTA006 Message In A Booster mission
 - <a href="https://spaceflightnow.com/2025/04/26/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-10/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 23 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spaceflightnow.com/2025/04/26/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-3/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 27 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://spaceflightnow.com/2025/04/26/firefly-aerospace-to-launch-lockheed-martin-lm400-tech-demo-satellite-on-alpha-rocket-from-vandenberg/" >🔗</a> **[Spaceflight Now]** Firefly Aerospace to launch Lockheed Martin LM400 tech demo satellite on Alpha rocket from Vandenberg
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/missions/artemis/lunar-space-station-for-nasas-artemis-campaign-to-begin-final-testing/" >🔗</a> **[NASA]** Lunar Space Station for NASA’s Artemis Campaign to Begin Final Testing
 - <a href="https://science.nasa.gov/blog/searching-for-the-dark-in-the-light/" >🔗</a> **[NASA]** Searching for the Dark in the Light
 - <a href="https://www.nasaspaceflight.com/2025/04/blue-origin-gs2-test/" >🔗</a> **[NASASpaceflight]** Blue Origin test fires second stage and continues preparations for New Glenn’s second flight
-- <a href="https://spacenews.com/axiom-space-names-new-ceo/" >🔗</a> **[SpaceNews]** Axiom Space names new CEO
-- <a href="https://spacenews.com/gps-disruption-and-satellite-maneuvers-now-hallmarks-of-modern-warfare/" >🔗</a> **[SpaceNews]** GPS disruption and satellite maneuvers now hallmarks of modern warfare
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250426T190115">2025-04-26 19:01:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250426T193059">2025-04-26 19:30:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
