@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-to-lend-change-5-moon-samples-to-u-s-universities/" >🔗</a> **[SpaceNews]** China to lend Chang’e-5 moon samples to U.S. universities
 - <a href="https://spacepolicyonline.com/news/musks-possible-role-in-meink-isaacman-nominations-continues-to-raise-concerns/" >🔗</a> **[SpacePolicyOnline.com]** Musk’s Possible Role in Meink, Isaacman Nominations Continues to Raise Concerns
 - <a href="https://www.nasaspaceflight.com/2025/04/firefly-flta006/" >🔗</a> **[NASASpaceflight]** Firefly Alpha set to launch FLTA006 Message In A Booster mission
 - <a href="https://spaceflightnow.com/2025/04/26/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-10/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 23 Starlink satellites on Falcon 9 rocket from Cape Canaveral
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/l3harris-gains-edge-in-race-to-build-golden-dome-missile-sensors/" >🔗</a> **[SpaceNews]** L3Harris gains edge in race to build Golden Dome missile sensors
 - <a href="https://www.nasa.gov/missions/artemis/lunar-space-station-for-nasas-artemis-campaign-to-begin-final-testing/" >🔗</a> **[NASA]** Lunar Space Station for NASA’s Artemis Campaign to Begin Final Testing
 - <a href="https://science.nasa.gov/blog/searching-for-the-dark-in-the-light/" >🔗</a> **[NASA]** Searching for the Dark in the Light
-- <a href="https://www.nasaspaceflight.com/2025/04/blue-origin-gs2-test/" >🔗</a> **[NASASpaceflight]** Blue Origin test fires second stage and continues preparations for New Glenn’s second flight
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250426T210121">2025-04-26 21:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250426T213103">2025-04-26 21:31:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
