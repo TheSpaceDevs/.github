@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/04/26/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-3/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 27 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://spaceflightnow.com/2025/04/26/firefly-aerospace-to-launch-lockheed-martin-lm400-tech-demo-satellite-on-alpha-rocket-from-vandenberg/" >🔗</a> **[Spaceflight Now]** Firefly Aerospace to launch Lockheed Martin LM400 tech demo satellite on Alpha rocket from Vandenberg
 - <a href="https://www.nasa.gov/science-research/earth-science/art-showcase/" >🔗</a> **[NASA]** Earth Science Showcase – Kids Art Collection
 - <a href="https://spacenews.com/l3harris-gains-edge-in-race-to-build-golden-dome-missile-sensors/" >🔗</a> **[SpaceNews]** L3Harris gains edge in race to build Golden Dome missile sensors
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/axiom-space-names-new-ceo/" >🔗</a> **[SpaceNews]** Axiom Space names new CEO
 - <a href="https://spacenews.com/gps-disruption-and-satellite-maneuvers-now-hallmarks-of-modern-warfare/" >🔗</a> **[SpaceNews]** GPS disruption and satellite maneuvers now hallmarks of modern warfare
 - <a href="https://spaceflightnow.com/2025/04/25/axiom-spaces-chief-revenue-officer-tapped-as-new-ceo/" >🔗</a> **[Spaceflight Now]** Axiom Space’s Chief Revenue Officer tapped as new CEO
-- <a href="https://www.nasa.gov/image-article/hubble-visits-glittering-cluster-capturing-its-ultraviolet-light/" >🔗</a> **[NASA]** Hubble Visits Glittering Cluster, Capturing Its Ultraviolet Light
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250426T140111">2025-04-26 14:01:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250426T143302">2025-04-26 14:33:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
