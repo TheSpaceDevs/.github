@@ -37,10 +37,10 @@ into *a Low Earth Orbit
 
 <p float="left" align="center">
   <a href="https://en.wikipedia.org/wiki/Firefly_Alpha" >
-    <img alt="launch-image" width="49%" src="profile/cache/launch_image.png" />
+    <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
   <a href="https://www.google.com/maps?q=34.7556,-120.6224" >
-    <img alt="pad-location" width="49%" src="profile/cache/new_pad_image.png"  />
+    <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
