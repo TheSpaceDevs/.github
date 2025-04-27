@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/armed-services-committees-propose-150-billion-funding-boost-for-defense/" >🔗</a> **[SpaceNews]** Armed services committees propose $150 billion funding boost for defense
+- <a href="https://spacenews.com/long-march-3b-launches-tianlian-2-05-satellite-to-boost-space-data-relay-network/" >🔗</a> **[SpaceNews]** Long March 3B launches Tianlian-2 (05) satellite to boost space data relay network
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-april-27-may-3-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy April 27-May 3, 2025
 - <a href="https://spacenews.com/astrotech-wins-77-5-million-contract-to-accelerate-pre-launch-satellite-processing-at-vandenberg/" >🔗</a> **[SpaceNews]** Astrotech wins $77.5 million contract to accelerate pre-launch satellite processing at Vandenberg
 - <a href="https://spacenews.com/china-to-lend-change-5-moon-samples-to-u-s-universities/" >🔗</a> **[SpaceNews]** China to lend Chang’e-5 moon samples to U.S. universities
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/04/26/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-10/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 23 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spaceflightnow.com/2025/04/26/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-3/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 27 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://spaceflightnow.com/2025/04/26/firefly-aerospace-to-launch-lockheed-martin-lm400-tech-demo-satellite-on-alpha-rocket-from-vandenberg/" >🔗</a> **[Spaceflight Now]** Firefly Aerospace to launch Lockheed Martin LM400 tech demo satellite on Alpha rocket from Vandenberg
-- <a href="https://www.nasa.gov/science-research/earth-science/art-showcase/" >🔗</a> **[NASA]** Earth Science Showcase – Kids Art Collection
-- <a href="https://spacenews.com/l3harris-gains-edge-in-race-to-build-golden-dome-missile-sensors/" >🔗</a> **[SpaceNews]** L3Harris gains edge in race to build Golden Dome missile sensors
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250427T220122">2025-04-27 22:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250427T223351">2025-04-27 22:33:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
