@@ -19,27 +19,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 11-9**. It is scheduled to be launched by *SpaceX*
+**Atlas V 551 | Project Kuiper (KA-01)**. It is scheduled to be launched by *United Launch Alliance*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
+from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_41">Space Launch Complex 41</a>, Cape Canaveral SFS, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250428T203900">2025-04-28 20:39:00 UTC</a>.  Until
-then, this pad will have been used for 189
-out of 802 launches from this location. The launch status is currently
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250428T230000">2025-04-28 23:00:00 UTC</a>.  Until
+then, this pad will have been used for 114
+out of 1018 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
 *Communications* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  Project Kuiper is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+  <a href="https://en.wikipedia.org/wiki/Atlas_V?wprov=sfla1" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=34.632,-120.611" >
+  <a href="https://www.google.com/maps?q=28.58341025,-80.58303644" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -89,27 +89,35 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/04/biomass-vega-c/" >🔗</a> **[NASASpaceflight]** ESA’s Biomass mission to launch aboard Vega-C
+- <a href="https://arstechnica.com/space/2025/04/meet-the-astronaut-who-celebrated-his-70th-birthday-by-thudding-into-the-planet/" >🔗</a> **[Arstechnica]** Meet the astronaut who celebrated his 70th birthday by thudding into the planet
 - <a href="https://www.nasa.gov/centers-and-facilities/kennedy/nasa-moon-observing-instrument-to-get-another-shot-at-lunar-ops/" >🔗</a> **[NASA]** NASA Moon Observing Instrument to Get Another Shot at Lunar Ops
 - <a href="https://www.nasa.gov/general/how-are-we-made-of-star-stuff-we-asked-a-nasa-expert-episode-58/" >🔗</a> **[NASA]** How Are We Made of Star Stuff? We Asked a NASA Expert: Episode 58
 - <a href="https://europeanspaceflight.com/czechia-selects-experiments-for-private-astronaut-mission-to-the-iss/" >🔗</a> **[European Spaceflight]** Czechia Selects Experiments for Private Astronaut Mission to the ISS
-- <a href="https://www.nasa.gov/missions/airborne-science/nasa-3d-wind-measuring-laser-aims-to-improve-forecasts-from-air-space/" >🔗</a> **[NASA]** NASA 3D Wind Measuring Laser Aims to Improve Forecasts from Air, Space
 - <a href="https://www.nasa.gov/general/nasa-3d-wind-measuring-laser-aims-to-improve-forecasts-from-air-space/" >🔗</a> **[NASA]** NASA 3D Wind Measuring Laser Aims to Improve Forecasts from Air, Space
+- <a href="https://www.nasa.gov/missions/airborne-science/nasa-3d-wind-measuring-laser-aims-to-improve-forecasts-from-air-space/" >🔗</a> **[NASA]** NASA 3D Wind Measuring Laser Aims to Improve Forecasts from Air, Space
 - <a href="https://spacenews.com/spire-global-closes-stalled-241-million-maritime-sale/" >🔗</a> **[SpaceNews]** Spire Global closes stalled $241 million maritime sale
 - <a href="https://spaceflightnow.com/2025/04/28/live-coverage-ula-to-launch-first-production-amazon-kuiper-satellites-on-atlas-5-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: ULA to launch first production Amazon Kuiper satellites on Atlas 5 rocket from Cape Canaveral
 - <a href="https://www.nasa.gov/image-article/seeing-the-cygnus-loop-in-a-new-way/" >🔗</a> **[NASA]** Seeing the Cygnus Loop in a New Way
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/ACES_in_space" >🔗</a> **[ESA]** ACES in space
-- <a href="https://spacenews.com/head-of-faas-commercial-space-office-takes-buyout/" >🔗</a> **[SpaceNews]** Head of FAA’s commercial space office takes buyout
 
 
 ### Launch-related News 🚀
 
-- <a href="https://spaceflightnow.com/2025/04/26/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-3/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 27 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://www.nasaspaceflight.com/2025/04/launch-roundup-042125/" >🔗</a> **[NASASpaceflight]** Launch Roundup: China to launch crew, Falcon 9 to launch Bandwagon rideshare
+- <a href="https://www.nasaspaceflight.com/2025/04/kuiper-ka01/" >🔗</a> **[NASASpaceflight]** ULA ready to launch first operational Amazon Kuiper mission
+- <a href="https://spaceflightnow.com/2025/04/09/live-coverage-ula-to-launch-27-amazon-project-kuiper-satellites-on-atlas-5-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: ULA to launch 27 Amazon Project Kuiper satellites on Atlas 5 rocket from Cape Canaveral
+- <a href="https://www.nasaspaceflight.com/2025/04/launch-roundup-040825/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Project Kuiper becomes operational; Falcon 9 to launch three missions
+- <a href="https://arstechnica.com/space/2025/04/rocket-report-next-starship-flight-to-reuse-booster-faa-clears-new-glenn/" >🔗</a> **[Arstechnica]** Rocket Report: Next Starship flight to reuse booster; FAA clears New Glenn
+- <a href="https://spaceflightnow.com/2025/04/03/amazon-targets-april-9-for-launch-of-1st-production-satellites-for-its-project-kuiper-internet-mega-constellation/" >🔗</a> **[Spaceflight Now]** Amazon targets April 9 for launch of 1st production satellites for its Project Kuiper internet mega-constellation
+- <a href="https://tlpnetwork.com/news/america/amazon-project-kuiper-set-to-launch-first-full-batch-of-satellites-next-week" >🔗</a> **[The Launch Pad]** Amazon Project Kuiper Set to Launch First Full Batch of Satellites Next Week
+- <a href="https://spacenews.com/project-kuiper-readies-long-awaited-operational-satellite-launch/" >🔗</a> **[SpaceNews]** Project Kuiper readies long-awaited operational satellite launch
+- <a href="https://spaceflightnow.com/2025/02/07/ula-begins-de-stacking-vulcan-rocket-pivots-to-atlas-5-launch-of-amazons-kuiper-satellites-for-first-2025-mission/" >🔗</a> **[Spaceflight Now]** ULA begins de-stacking Vulcan rocket, pivots to Atlas 5 launch of Amazon’s Kuiper satellites for first 2025 mission
+- <a href="https://spacenews.com/amazon-gears-up-for-nasa-satellite-data-relay-demonstration/" >🔗</a> **[SpaceNews]** Amazon gears up for NASA satellite data relay demonstration
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250428T210119">2025-04-28 21:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250428T213201">2025-04-28 21:32:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
