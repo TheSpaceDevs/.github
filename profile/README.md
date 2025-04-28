@@ -53,7 +53,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250430T000000">2025-04-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/au.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Eris-1 | Maiden Flight&location=Bowen Orbital Spaceport&dates=20250430T000000Z%2F20250430T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Eris-1 | Maiden Flight** from Bowen Orbital Spaceport.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250501T021700">2025-05-01 02:17:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-75&location=Cape Canaveral SFS, FL, USA&dates=20250501T021700Z%2F20250501T064800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-75** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250501T184000">2025-05-01 18:40:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 15-3&location=Vandenberg SFB, CA, USA&dates=20250501T184000Z%2F20250501T230800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 15-3** from Vandenberg SFB, CA, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250511T000000">2025-05-11 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | TRACERS&location=Vandenberg SFB, CA, USA&dates=20250511T000000Z%2F20250511T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | TRACERS** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250504T084800">2025-05-04 08:48:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-84&location=Cape Canaveral SFS, FL, USA&dates=20250504T084800Z%2F20250504T124800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-84** from Cape Canaveral SFS, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -89,7 +89,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/ACES_in_space" >🔗</a> **[ESA]** ACES in space
 - <a href="https://spacenews.com/head-of-faas-commercial-space-office-takes-buyout/" >🔗</a> **[SpaceNews]** Head of FAA’s commercial space office takes buyout
+- <a href="https://www.esa.int/About_Us/Business_with_ESA/Upcoming_ESA_Industry_events_prepare_for_Ministerial_Council_2025" >🔗</a> **[ESA]** Upcoming ESA–Industry events prepare for Ministerial Council 2025
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/04/Biomass_from_Europe_to_French_Guiana" >🔗</a> **[ESA]** Biomass: from Europe to French Guiana
 - <a href="https://spacenews.com/data-architecture-is-paramount-for-golden-dome-success-and-the-department-of-defense-is-not-ready/" >🔗</a> **[SpaceNews]** Data architecture is paramount for Golden Dome success — and the Department of Defense is not ready
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Biomass/Biomass_poised_for_liftoff_to_unveil_forest_secrets" >🔗</a> **[ESA]** Biomass poised for liftoff to unveil forest secrets
@@ -97,8 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/long-march-3b-launches-tianlian-2-05-satellite-to-boost-space-data-relay-network/" >🔗</a> **[SpaceNews]** Long March 3B launches Tianlian-2 (05) satellite to boost space data relay network
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-april-27-may-3-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy April 27-May 3, 2025
 - <a href="https://spacenews.com/astrotech-wins-77-5-million-contract-to-accelerate-pre-launch-satellite-processing-at-vandenberg/" >🔗</a> **[SpaceNews]** Astrotech wins $77.5 million contract to accelerate pre-launch satellite processing at Vandenberg
-- <a href="https://spacenews.com/china-to-lend-change-5-moon-samples-to-u-s-universities/" >🔗</a> **[SpaceNews]** China to lend Chang’e-5 moon samples to U.S. universities
-- <a href="https://spacepolicyonline.com/news/musks-possible-role-in-meink-isaacman-nominations-continues-to-raise-concerns/" >🔗</a> **[SpacePolicyOnline.com]** Musk’s Possible Role in Meink, Isaacman Nominations Continues to Raise Concerns
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250428T134227">2025-04-28 13:42:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250428T140141">2025-04-28 14:01:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
