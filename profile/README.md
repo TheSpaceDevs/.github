@@ -89,6 +89,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-and-malaysia-to-study-international-equatorial-spaceport-project/" >🔗</a> **[SpaceNews]** China and Malaysia to study international equatorial spaceport project
+- <a href="https://spacepolicyonline.com/news/pettit-wants-more-spaceflights-iss-beyond-2030/" >🔗</a> **[SpacePolicyOnline.com]** Pettit Wants More Spaceflights, ISS Beyond 2030
 - <a href="https://www.nasaspaceflight.com/2025/04/biomass-vega-c/" >🔗</a> **[NASASpaceflight]** ESA’s Biomass mission to launch aboard Vega-C
 - <a href="https://arstechnica.com/space/2025/04/meet-the-astronaut-who-celebrated-his-70th-birthday-by-thudding-into-the-planet/" >🔗</a> **[Arstechnica]** Meet the astronaut who celebrated his 70th birthday by thudding into the planet
 - <a href="https://www.nasa.gov/centers-and-facilities/kennedy/nasa-moon-observing-instrument-to-get-another-shot-at-lunar-ops/" >🔗</a> **[NASA]** NASA Moon Observing Instrument to Get Another Shot at Lunar Ops
@@ -97,8 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/general/nasa-3d-wind-measuring-laser-aims-to-improve-forecasts-from-air-space/" >🔗</a> **[NASA]** NASA 3D Wind Measuring Laser Aims to Improve Forecasts from Air, Space
 - <a href="https://www.nasa.gov/missions/airborne-science/nasa-3d-wind-measuring-laser-aims-to-improve-forecasts-from-air-space/" >🔗</a> **[NASA]** NASA 3D Wind Measuring Laser Aims to Improve Forecasts from Air, Space
 - <a href="https://spacenews.com/spire-global-closes-stalled-241-million-maritime-sale/" >🔗</a> **[SpaceNews]** Spire Global closes stalled $241 million maritime sale
-- <a href="https://spaceflightnow.com/2025/04/28/live-coverage-ula-to-launch-first-production-amazon-kuiper-satellites-on-atlas-5-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: ULA to launch first production Amazon Kuiper satellites on Atlas 5 rocket from Cape Canaveral
-- <a href="https://www.nasa.gov/image-article/seeing-the-cygnus-loop-in-a-new-way/" >🔗</a> **[NASA]** Seeing the Cygnus Loop in a New Way
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250428T220136">2025-04-28 22:01:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250428T223444">2025-04-28 22:34:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
