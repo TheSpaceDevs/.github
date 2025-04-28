@@ -19,27 +19,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Atlas V 551 | Project Kuiper (KA-01)**. It is scheduled to be launched by *United Launch Alliance*
+**Falcon 9 Block 5 | Starlink Group 12-10**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_41">Space Launch Complex 41</a>, Cape Canaveral SFS, FL, USA*
+from *<a href="https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39A">Launch Complex 39A</a>, Kennedy Space Center, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250428T230000">2025-04-28 23:00:00 UTC</a>.  Until
-then, this pad will have been used for 114
-out of 1018 launches from this location. The launch status is currently
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250429T023100">2025-04-29 02:31:00 UTC</a>.  Until
+then, this pad will have been used for 204
+out of 262 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
 *Communications* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  Project Kuiper is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.
+  A batch of 23 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Atlas_V?wprov=sfla1" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.58341025,-80.58303644" >
+  <a href="https://www.google.com/maps?q=28.60822681,-80.60428186" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -102,21 +102,11 @@ into *a Low Earth Orbit
 
 ### Launch-related News 🚀
 
-- <a href="https://www.nasaspaceflight.com/2025/04/launch-roundup-042125/" >🔗</a> **[NASASpaceflight]** Launch Roundup: China to launch crew, Falcon 9 to launch Bandwagon rideshare
-- <a href="https://www.nasaspaceflight.com/2025/04/kuiper-ka01/" >🔗</a> **[NASASpaceflight]** ULA ready to launch first operational Amazon Kuiper mission
-- <a href="https://spaceflightnow.com/2025/04/09/live-coverage-ula-to-launch-27-amazon-project-kuiper-satellites-on-atlas-5-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: ULA to launch 27 Amazon Project Kuiper satellites on Atlas 5 rocket from Cape Canaveral
-- <a href="https://www.nasaspaceflight.com/2025/04/launch-roundup-040825/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Project Kuiper becomes operational; Falcon 9 to launch three missions
-- <a href="https://arstechnica.com/space/2025/04/rocket-report-next-starship-flight-to-reuse-booster-faa-clears-new-glenn/" >🔗</a> **[Arstechnica]** Rocket Report: Next Starship flight to reuse booster; FAA clears New Glenn
-- <a href="https://spaceflightnow.com/2025/04/03/amazon-targets-april-9-for-launch-of-1st-production-satellites-for-its-project-kuiper-internet-mega-constellation/" >🔗</a> **[Spaceflight Now]** Amazon targets April 9 for launch of 1st production satellites for its Project Kuiper internet mega-constellation
-- <a href="https://tlpnetwork.com/news/america/amazon-project-kuiper-set-to-launch-first-full-batch-of-satellites-next-week" >🔗</a> **[The Launch Pad]** Amazon Project Kuiper Set to Launch First Full Batch of Satellites Next Week
-- <a href="https://spacenews.com/project-kuiper-readies-long-awaited-operational-satellite-launch/" >🔗</a> **[SpaceNews]** Project Kuiper readies long-awaited operational satellite launch
-- <a href="https://spaceflightnow.com/2025/02/07/ula-begins-de-stacking-vulcan-rocket-pivots-to-atlas-5-launch-of-amazons-kuiper-satellites-for-first-2025-mission/" >🔗</a> **[Spaceflight Now]** ULA begins de-stacking Vulcan rocket, pivots to Atlas 5 launch of Amazon’s Kuiper satellites for first 2025 mission
-- <a href="https://spacenews.com/amazon-gears-up-for-nasa-satellite-data-relay-demonstration/" >🔗</a> **[SpaceNews]** Amazon gears up for NASA satellite data relay demonstration
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250428T230132">2025-04-28 23:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250428T233201">2025-04-28 23:32:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
