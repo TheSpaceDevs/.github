@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Biomass/Biomass_poised_for_liftoff_to_unveil_forest_secrets" >🔗</a> **[ESA]** Biomass poised for liftoff to unveil forest secrets
 - <a href="https://spacenews.com/armed-services-committees-propose-150-billion-funding-boost-for-defense/" >🔗</a> **[SpaceNews]** Armed services committees propose $150 billion funding boost for defense
 - <a href="https://spacenews.com/long-march-3b-launches-tianlian-2-05-satellite-to-boost-space-data-relay-network/" >🔗</a> **[SpaceNews]** Long March 3B launches Tianlian-2 (05) satellite to boost space data relay network
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-april-27-may-3-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy April 27-May 3, 2025
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2025/04/firefly-flta006/" >🔗</a> **[NASASpaceflight]** Firefly Alpha set to launch FLTA006 Message In A Booster mission
 - <a href="https://spaceflightnow.com/2025/04/26/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-10/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 23 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spaceflightnow.com/2025/04/26/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-3/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 27 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
-- <a href="https://spaceflightnow.com/2025/04/26/firefly-aerospace-to-launch-lockheed-martin-lm400-tech-demo-satellite-on-alpha-rocket-from-vandenberg/" >🔗</a> **[Spaceflight Now]** Firefly Aerospace to launch Lockheed Martin LM400 tech demo satellite on Alpha rocket from Vandenberg
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250428T070648">2025-04-28 07:06:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250428T074348">2025-04-28 07:43:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
