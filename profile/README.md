@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/head-of-faas-commercial-space-office-takes-buyout/" >🔗</a> **[SpaceNews]** Head of FAA’s commercial space office takes buyout
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/04/Biomass_from_Europe_to_French_Guiana" >🔗</a> **[ESA]** Biomass: from Europe to French Guiana
 - <a href="https://spacenews.com/data-architecture-is-paramount-for-golden-dome-success-and-the-department-of-defense-is-not-ready/" >🔗</a> **[SpaceNews]** Data architecture is paramount for Golden Dome success — and the Department of Defense is not ready
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Biomass/Biomass_poised_for_liftoff_to_unveil_forest_secrets" >🔗</a> **[ESA]** Biomass poised for liftoff to unveil forest secrets
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/astrotech-wins-77-5-million-contract-to-accelerate-pre-launch-satellite-processing-at-vandenberg/" >🔗</a> **[SpaceNews]** Astrotech wins $77.5 million contract to accelerate pre-launch satellite processing at Vandenberg
 - <a href="https://spacenews.com/china-to-lend-change-5-moon-samples-to-u-s-universities/" >🔗</a> **[SpaceNews]** China to lend Chang’e-5 moon samples to U.S. universities
 - <a href="https://spacepolicyonline.com/news/musks-possible-role-in-meink-isaacman-nominations-continues-to-raise-concerns/" >🔗</a> **[SpacePolicyOnline.com]** Musk’s Possible Role in Meink, Isaacman Nominations Continues to Raise Concerns
-- <a href="https://www.nasaspaceflight.com/2025/04/firefly-flta006/" >🔗</a> **[NASASpaceflight]** Firefly Alpha set to launch FLTA006 Message In A Booster mission
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250428T120152">2025-04-28 12:01:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250428T124352">2025-04-28 12:43:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
