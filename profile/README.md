@@ -92,6 +92,7 @@ The constellation will eventually consists of 13000 satellites.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/seeing-the-cygnus-loop-in-a-new-way/" >🔗</a> **[NASA]** Seeing the Cygnus Loop in a New Way
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/ACES_in_space" >🔗</a> **[ESA]** ACES in space
 - <a href="https://spacenews.com/head-of-faas-commercial-space-office-takes-buyout/" >🔗</a> **[SpaceNews]** Head of FAA’s commercial space office takes buyout
 - <a href="https://www.esa.int/About_Us/Business_with_ESA/Upcoming_ESA_Industry_events_prepare_for_Ministerial_Council_2025" >🔗</a> **[ESA]** Upcoming ESA–Industry events prepare for Ministerial Council 2025
@@ -101,7 +102,6 @@ The constellation will eventually consists of 13000 satellites.
 - <a href="https://spacenews.com/armed-services-committees-propose-150-billion-funding-boost-for-defense/" >🔗</a> **[SpaceNews]** Armed services committees propose $150 billion funding boost for defense
 - <a href="https://spacenews.com/long-march-3b-launches-tianlian-2-05-satellite-to-boost-space-data-relay-network/" >🔗</a> **[SpaceNews]** Long March 3B launches Tianlian-2 (05) satellite to boost space data relay network
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-april-27-may-3-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy April 27-May 3, 2025
-- <a href="https://spacenews.com/astrotech-wins-77-5-million-contract-to-accelerate-pre-launch-satellite-processing-at-vandenberg/" >🔗</a> **[SpaceNews]** Astrotech wins $77.5 million contract to accelerate pre-launch satellite processing at Vandenberg
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ The constellation will eventually consists of 13000 satellites.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250428T170127">2025-04-28 17:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250428T173316">2025-04-28 17:33:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
