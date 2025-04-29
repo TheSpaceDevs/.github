@@ -85,6 +85,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/successful-vega-c-launch-delivers-esa-biomass-satellite-to-orbit/" >🔗</a> **[European Spaceflight]** Successful Vega C Launch Delivers ESA Biomass Satellite to Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-soars-to-new-heights-in-first-100-days-of-trump-administration/" >🔗</a> **[NASA]** NASA Soars to New Heights in First 100 Days of Trump Administration
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-agencys-25th-annual-student-launch-challenge/" >🔗</a> **[NASA]** NASA Invites Media to Agency’s 25th Annual Student Launch Challenge
 - <a href="https://science.nasa.gov/directorates/smd/astrophysics-division/help-classify-galaxies-seen-by-nasas-james-webb-space-telescope/" >🔗</a> **[NASA]** Help Classify Galaxies Seen by NASA’s James Webb Space Telescope!
@@ -94,7 +95,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2025/04/tuesday-telescope-yes-you-can-see-stars-in-space-and-theyre-spectacular/" >🔗</a> **[Arstechnica]** Tuesday Telescope: Yes, you can see stars in space, and they’re spectacular
 - <a href="https://spacenews.com/apex-raises-200-million-to-accelerate-satellite-production/" >🔗</a> **[SpaceNews]** Apex raises $200 million to accelerate satellite production
 - <a href="https://spacenews.com/amazon-establishes-contact-with-first-operational-kuiper-satellites/" >🔗</a> **[SpaceNews]** Amazon establishes contact with first operational Kuiper satellites
-- <a href="https://spacenews.com/china-launches-third-batch-of-guowang-megaconstellation-satellites/" >🔗</a> **[SpaceNews]** China launches third batch of Guowang megaconstellation satellites
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250429T150127">2025-04-29 15:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250429T153439">2025-04-29 15:34:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
