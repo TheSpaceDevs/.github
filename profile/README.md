@@ -86,6 +86,8 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Gaia/Gaia_spots_odd_family_of_stars_desperate_to_leave_home" >🔗</a> **[ESA]** Gaia spots odd family of stars desperate to leave home
+- <a href="https://spacenews.com/slingshot-targets-international-market-with-sovereign-space-tracking-systems/" >🔗</a> **[SpaceNews]** Slingshot targets international market with sovereign space tracking systems
+- <a href="https://arstechnica.com/space/2025/04/tuesday-telescope-yes-you-can-see-stars-in-space-and-theyre-spectacular/" >🔗</a> **[Arstechnica]** Tuesday Telescope: Yes, you can see stars in space, and they’re spectacular
 - <a href="https://spacenews.com/apex-raises-200-million-to-accelerate-satellite-production/" >🔗</a> **[SpaceNews]** Apex raises $200 million to accelerate satellite production
 - <a href="https://spacenews.com/amazon-establishes-contact-with-first-operational-kuiper-satellites/" >🔗</a> **[SpaceNews]** Amazon establishes contact with first operational Kuiper satellites
 - <a href="https://spacenews.com/china-launches-third-batch-of-guowang-megaconstellation-satellites/" >🔗</a> **[SpaceNews]** China launches third batch of Guowang megaconstellation satellites
@@ -93,8 +95,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Biomass/Biomass_launched_to_count_forest_carbon" >🔗</a> **[ESA]** Biomass launched to count forest carbon
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/in-the-starlight-jason-phillips-unexpected-path-to-johnson-procurement/" >🔗</a> **[NASA]** In the Starlight: Jason Phillips’ Unexpected Path to Johnson Procurement
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/04/ESA_s_Biomass_mission_launches_on_Vega-C" >🔗</a> **[ESA]** ESA’s Biomass mission launches on Vega-C
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/A_visual_feast_of_galaxies_from_infrared_to_X-ray" >🔗</a> **[ESA]** A visual feast of galaxies, from infrared to X-ray
-- <a href="https://spacepolicyonline.com/news/first-operational-project-kuiper-satellites-reach-orbit/" >🔗</a> **[SpacePolicyOnline.com]** First Operational Project Kuiper Satellites Reach Orbit
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250429T120204">2025-04-29 12:02:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250429T124329">2025-04-29 12:43:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
