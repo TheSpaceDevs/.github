@@ -86,6 +86,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/robots-rovers-and-regolith-nasa-brings-exploration-to-first-robotics-2025/" >🔗</a> **[NASA]** Robots, Rovers, and Regolith: NASA Brings Exploration to FIRST Robotics 2025
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-advances-precision-landing-technology-with-field-test-at-kennedy/" >🔗</a> **[NASA]** NASA Advances Precision Landing Technology with Field Test at Kennedy
 - <a href="https://www.nasa.gov/image-article/hubble-spots-a-squid-in-the-whale/" >🔗</a> **[NASA]** Hubble Spots a Squid in the Whale
 - <a href="https://www.nasa.gov/missions/juno/nasas-juno-mission-gets-under-jupiters-and-ios-surface/" >🔗</a> **[NASA]** NASA’s Juno Mission Gets Under Jupiter’s and Io’s Surface
@@ -95,7 +96,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-technology-enables-leaps-in-artificial-intelligence/" >🔗</a> **[NASA]** NASA Technology Enables Leaps in Artificial Intelligence
 - <a href="https://spacenews.com/alpha-rocket-suffers-stage-separation-anomaly-during-launch-of-lockheed-tech-demo-satellite/" >🔗</a> **[SpaceNews]** Alpha rocket suffers stage separation anomaly during launch of Lockheed tech demo satellite
 - <a href="https://europeanspaceflight.com/successful-vega-c-launch-delivers-esa-biomass-satellite-to-orbit/" >🔗</a> **[European Spaceflight]** Successful Vega C Launch Delivers ESA Biomass Satellite to Orbit
-- <a href="https://www.nasa.gov/news-release/nasa-soars-to-new-heights-in-first-100-days-of-trump-administration/" >🔗</a> **[NASA]** NASA Soars to New Heights in First 100 Days of Trump Administration
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250429T193114">2025-04-29 19:31:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250429T200130">2025-04-29 20:01:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
