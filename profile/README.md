@@ -86,6 +86,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/amazons-project-kuiper-partners-with-l3harris-to-develop-military-communication-solutions/" >🔗</a> **[SpaceNews]** Amazon’s Project Kuiper partners with L3Harris to develop military communication solutions
 - <a href="https://spacepolicyonline.com/news/hasc-approves-reconciliation-package-with-25-billion-for-golden-dome/" >🔗</a> **[SpacePolicyOnline.com]** HASC Approves Reconciliation Package with $25 Billion for Golden Dome
 - <a href="https://www.nasaspaceflight.com/2025/04/launch-roundup-042925/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Starlink missions fill launch manifest, Biomass and Alpha launch
 - <a href="https://spacenews.com/fcc-opens-new-battlefront-in-satellite-power-struggle/" >🔗</a> **[SpaceNews]** FCC opens new battlefront in satellite power struggle
@@ -95,7 +96,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/hubble-spots-a-squid-in-the-whale/" >🔗</a> **[NASA]** Hubble Spots a Squid in the Whale
 - <a href="https://www.nasa.gov/missions/juno/nasas-juno-mission-gets-under-jupiters-and-ios-surface/" >🔗</a> **[NASA]** NASA’s Juno Mission Gets Under Jupiter’s and Io’s Surface
 - <a href="https://www.nasa.gov/missions/artemis/nasas-lunar-drill-technology-passes-tests-on-the-moon/" >🔗</a> **[NASA]** NASA’s Lunar Drill Technology Passes Tests on the Moon
-- <a href="https://spacenews.com/french-startup-developing-space-weapon-to-defend-satellites-and-clean-orbital-debris/" >🔗</a> **[SpaceNews]** French startup developing space weapon to defend satellites and clean orbital debris
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250429T230117">2025-04-29 23:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250429T233147">2025-04-29 23:31:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
