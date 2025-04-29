@@ -88,6 +88,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/04/29/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-the-kennedy-space-center-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 23 Starlink satellites on Falcon 9 rocket from the Kennedy Space Center
 - <a href="https://spacenews.com/veteran-nasa-astronaut-says-iss-can-operate-past-2030/" >🔗</a> **[SpaceNews]** Veteran NASA astronaut says ISS can operate past 2030
 - <a href="https://spacenews.com/china-and-malaysia-to-study-international-equatorial-spaceport-project/" >🔗</a> **[SpaceNews]** China and Malaysia to study international equatorial spaceport project
 - <a href="https://spacepolicyonline.com/news/pettit-wants-more-spaceflights-iss-beyond-2030/" >🔗</a> **[SpacePolicyOnline.com]** Pettit Wants More Spaceflights, ISS Beyond 2030
@@ -97,7 +98,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/general/how-are-we-made-of-star-stuff-we-asked-a-nasa-expert-episode-58/" >🔗</a> **[NASA]** How Are We Made of Star Stuff? We Asked a NASA Expert: Episode 58
 - <a href="https://europeanspaceflight.com/czechia-selects-experiments-for-private-astronaut-mission-to-the-iss/" >🔗</a> **[European Spaceflight]** Czechia Selects Experiments for Private Astronaut Mission to the ISS
 - <a href="https://www.nasa.gov/general/nasa-3d-wind-measuring-laser-aims-to-improve-forecasts-from-air-space/" >🔗</a> **[NASA]** NASA 3D Wind Measuring Laser Aims to Improve Forecasts from Air, Space
-- <a href="https://www.nasa.gov/missions/airborne-science/nasa-3d-wind-measuring-laser-aims-to-improve-forecasts-from-air-space/" >🔗</a> **[NASA]** NASA 3D Wind Measuring Laser Aims to Improve Forecasts from Air, Space
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250429T004549">2025-04-29 00:45:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250429T012856">2025-04-29 01:28:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
