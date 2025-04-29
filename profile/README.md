@@ -85,16 +85,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Gaia/Gaia_spots_odd_family_of_stars_desperate_to_leave_home" >🔗</a> **[ESA]** Gaia spots odd family of stars desperate to leave home
+- <a href="https://spacenews.com/china-launches-third-batch-of-guowang-megaconstellation-satellites/" >🔗</a> **[SpaceNews]** China launches third batch of Guowang megaconstellation satellites
+- <a href="https://spacenews.com/atlas-launches-first-operational-project-kuiper-satellites/" >🔗</a> **[SpaceNews]** Atlas launches first operational Project Kuiper satellites
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Biomass/Biomass_launched_to_count_forest_carbon" >🔗</a> **[ESA]** Biomass launched to count forest carbon
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/in-the-starlight-jason-phillips-unexpected-path-to-johnson-procurement/" >🔗</a> **[NASA]** In the Starlight: Jason Phillips’ Unexpected Path to Johnson Procurement
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/04/ESA_s_Biomass_mission_launches_on_Vega-C" >🔗</a> **[ESA]** ESA’s Biomass mission launches on Vega-C
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/A_visual_feast_of_galaxies_from_infrared_to_X-ray" >🔗</a> **[ESA]** A visual feast of galaxies, from infrared to X-ray
 - <a href="https://spacepolicyonline.com/news/first-operational-project-kuiper-satellites-reach-orbit/" >🔗</a> **[SpacePolicyOnline.com]** First Operational Project Kuiper Satellites Reach Orbit
 - <a href="https://spaceflightnow.com/2025/04/29/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-the-kennedy-space-center-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 23 Starlink satellites on Falcon 9 rocket from the Kennedy Space Center
 - <a href="https://spacenews.com/veteran-nasa-astronaut-says-iss-can-operate-past-2030/" >🔗</a> **[SpaceNews]** Veteran NASA astronaut says ISS can operate past 2030
-- <a href="https://spacenews.com/china-and-malaysia-to-study-international-equatorial-spaceport-project/" >🔗</a> **[SpaceNews]** China and Malaysia to study international equatorial spaceport project
-- <a href="https://spacepolicyonline.com/news/pettit-wants-more-spaceflights-iss-beyond-2030/" >🔗</a> **[SpacePolicyOnline.com]** Pettit Wants More Spaceflights, ISS Beyond 2030
-- <a href="https://www.nasaspaceflight.com/2025/04/biomass-vega-c/" >🔗</a> **[NASASpaceflight]** ESA’s Biomass mission to launch aboard Vega-C
-- <a href="https://arstechnica.com/space/2025/04/meet-the-astronaut-who-celebrated-his-70th-birthday-by-thudding-into-the-planet/" >🔗</a> **[Arstechnica]** Meet the astronaut who celebrated his 70th birthday by thudding into the planet
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250429T110123">2025-04-29 11:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250429T113133">2025-04-29 11:31:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
