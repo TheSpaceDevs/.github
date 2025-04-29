@@ -85,16 +85,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/juno/nasas-juno-mission-gets-under-jupiters-and-ios-surface/" >🔗</a> **[NASA]** NASA’s Juno Mission Gets Under Jupiter’s and Io’s Surface
+- <a href="https://www.nasa.gov/missions/artemis/nasas-lunar-drill-technology-passes-tests-on-the-moon/" >🔗</a> **[NASA]** NASA’s Lunar Drill Technology Passes Tests on the Moon
+- <a href="https://spacenews.com/french-startup-developing-space-weapon-to-defend-satellites-and-clean-orbital-debris/" >🔗</a> **[SpaceNews]** French startup developing space weapon to defend satellites and clean orbital debris
+- <a href="https://www.nasa.gov/centers-and-facilities/ames/nasa-gathers-experts-to-discuss-emerging-technologies-in-astrophysics/" >🔗</a> **[NASA]** NASA Gathers Experts to Discuss Emerging Technologies in Astrophysics
+- <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-technology-enables-leaps-in-artificial-intelligence/" >🔗</a> **[NASA]** NASA Technology Enables Leaps in Artificial Intelligence
+- <a href="https://spacenews.com/alpha-rocket-suffers-stage-separation-anomaly-during-launch-of-lockheed-tech-demo-satellite/" >🔗</a> **[SpaceNews]** Alpha rocket suffers stage separation anomaly during launch of Lockheed tech demo satellite
 - <a href="https://europeanspaceflight.com/successful-vega-c-launch-delivers-esa-biomass-satellite-to-orbit/" >🔗</a> **[European Spaceflight]** Successful Vega C Launch Delivers ESA Biomass Satellite to Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-soars-to-new-heights-in-first-100-days-of-trump-administration/" >🔗</a> **[NASA]** NASA Soars to New Heights in First 100 Days of Trump Administration
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-agencys-25th-annual-student-launch-challenge/" >🔗</a> **[NASA]** NASA Invites Media to Agency’s 25th Annual Student Launch Challenge
 - <a href="https://science.nasa.gov/directorates/smd/astrophysics-division/help-classify-galaxies-seen-by-nasas-james-webb-space-telescope/" >🔗</a> **[NASA]** Help Classify Galaxies Seen by NASA’s James Webb Space Telescope!
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Gaia/Gaia_spots_odd_family_of_stars_desperate_to_leave_home" >🔗</a> **[ESA]** Gaia spots odd family of stars desperate to leave home
-- <a href="https://science.nasa.gov/universe/stars/neutron-stars/magnetars/where-does-gold-come-from-nasa-data-has-clues/" >🔗</a> **[NASA]** Where Does Gold Come From? NASA Data Has Clues
-- <a href="https://spacenews.com/slingshot-targets-international-market-with-sovereign-space-tracking-systems/" >🔗</a> **[SpaceNews]** Slingshot targets international market with sovereign space tracking systems
-- <a href="https://arstechnica.com/space/2025/04/tuesday-telescope-yes-you-can-see-stars-in-space-and-theyre-spectacular/" >🔗</a> **[Arstechnica]** Tuesday Telescope: Yes, you can see stars in space, and they’re spectacular
-- <a href="https://spacenews.com/apex-raises-200-million-to-accelerate-satellite-production/" >🔗</a> **[SpaceNews]** Apex raises $200 million to accelerate satellite production
-- <a href="https://spacenews.com/amazon-establishes-contact-with-first-operational-kuiper-satellites/" >🔗</a> **[SpaceNews]** Amazon establishes contact with first operational Kuiper satellites
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250429T160138">2025-04-29 16:01:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250429T163711">2025-04-29 16:37:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
