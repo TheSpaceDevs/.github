@@ -50,6 +50,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250504T014000">2025-05-04 01:40:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-93&location=Cape Canaveral SFS, FL, USA&dates=20250504T014000Z%2F20250504T054000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-93** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250504T084800">2025-05-04 08:48:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-84&location=Kennedy Space Center, FL, USA&dates=20250504T084800Z%2F20250504T124800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-84** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250519T000000">2025-05-19 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=PSLV-XL | EOS-09 (RISAT-1B)&location=Satish Dhawan Space Centre, India&dates=20250519T000000Z%2F20250519T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **PSLV-XL | EOS-09 (RISAT-1B)** from Satish Dhawan Space Centre, India.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250529T170300">2025-05-29 17:03:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Axiom Space Mission 4&location=Kennedy Space Center, FL, USA&dates=20250529T170300Z%2F20250529T170300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Axiom Space Mission 4** from Kennedy Space Center, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -85,6 +86,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-advances-precision-landing-technology-with-field-test-at-kennedy/" >🔗</a> **[NASA]** NASA Advances Precision Landing Technology with Field Test at Kennedy
+- <a href="https://www.nasa.gov/image-article/hubble-spots-a-squid-in-the-whale/" >🔗</a> **[NASA]** Hubble Spots a Squid in the Whale
 - <a href="https://www.nasa.gov/missions/juno/nasas-juno-mission-gets-under-jupiters-and-ios-surface/" >🔗</a> **[NASA]** NASA’s Juno Mission Gets Under Jupiter’s and Io’s Surface
 - <a href="https://www.nasa.gov/missions/artemis/nasas-lunar-drill-technology-passes-tests-on-the-moon/" >🔗</a> **[NASA]** NASA’s Lunar Drill Technology Passes Tests on the Moon
 - <a href="https://spacenews.com/french-startup-developing-space-weapon-to-defend-satellites-and-clean-orbital-debris/" >🔗</a> **[SpaceNews]** French startup developing space weapon to defend satellites and clean orbital debris
@@ -93,8 +96,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/alpha-rocket-suffers-stage-separation-anomaly-during-launch-of-lockheed-tech-demo-satellite/" >🔗</a> **[SpaceNews]** Alpha rocket suffers stage separation anomaly during launch of Lockheed tech demo satellite
 - <a href="https://europeanspaceflight.com/successful-vega-c-launch-delivers-esa-biomass-satellite-to-orbit/" >🔗</a> **[European Spaceflight]** Successful Vega C Launch Delivers ESA Biomass Satellite to Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-soars-to-new-heights-in-first-100-days-of-trump-administration/" >🔗</a> **[NASA]** NASA Soars to New Heights in First 100 Days of Trump Administration
-- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-agencys-25th-annual-student-launch-challenge/" >🔗</a> **[NASA]** NASA Invites Media to Agency’s 25th Annual Student Launch Challenge
-- <a href="https://science.nasa.gov/directorates/smd/astrophysics-division/help-classify-galaxies-seen-by-nasas-james-webb-space-telescope/" >🔗</a> **[NASA]** Help Classify Galaxies Seen by NASA’s James Webb Space Telescope!
 
 
 ### Launch-related News 🚀
@@ -103,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250429T170129">2025-04-29 17:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250429T173344">2025-04-29 17:33:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
