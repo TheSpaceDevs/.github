@@ -86,16 +86,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/hasc-approves-reconciliation-package-with-25-billion-for-golden-dome/" >🔗</a> **[SpacePolicyOnline.com]** HASC Approves Reconciliation Package with $25 Billion for Golden Dome
+- <a href="https://www.nasaspaceflight.com/2025/04/launch-roundup-042925/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Starlink missions fill launch manifest, Biomass and Alpha launch
 - <a href="https://spacenews.com/fcc-opens-new-battlefront-in-satellite-power-struggle/" >🔗</a> **[SpaceNews]** FCC opens new battlefront in satellite power struggle
+- <a href="https://science.nasa.gov/get-involved/citizen-science/how-to-contribute-to-citizen-science-with-nasa/" >🔗</a> **[NASA]** How to Contribute to Citizen Science with NASA
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/robots-rovers-and-regolith-nasa-brings-exploration-to-first-robotics-2025/" >🔗</a> **[NASA]** Robots, Rovers, and Regolith: NASA Brings Exploration to FIRST Robotics 2025
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-advances-precision-landing-technology-with-field-test-at-kennedy/" >🔗</a> **[NASA]** NASA Advances Precision Landing Technology with Field Test at Kennedy
 - <a href="https://www.nasa.gov/image-article/hubble-spots-a-squid-in-the-whale/" >🔗</a> **[NASA]** Hubble Spots a Squid in the Whale
 - <a href="https://www.nasa.gov/missions/juno/nasas-juno-mission-gets-under-jupiters-and-ios-surface/" >🔗</a> **[NASA]** NASA’s Juno Mission Gets Under Jupiter’s and Io’s Surface
 - <a href="https://www.nasa.gov/missions/artemis/nasas-lunar-drill-technology-passes-tests-on-the-moon/" >🔗</a> **[NASA]** NASA’s Lunar Drill Technology Passes Tests on the Moon
 - <a href="https://spacenews.com/french-startup-developing-space-weapon-to-defend-satellites-and-clean-orbital-debris/" >🔗</a> **[SpaceNews]** French startup developing space weapon to defend satellites and clean orbital debris
-- <a href="https://www.nasa.gov/centers-and-facilities/ames/nasa-gathers-experts-to-discuss-emerging-technologies-in-astrophysics/" >🔗</a> **[NASA]** NASA Gathers Experts to Discuss Emerging Technologies in Astrophysics
-- <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-technology-enables-leaps-in-artificial-intelligence/" >🔗</a> **[NASA]** NASA Technology Enables Leaps in Artificial Intelligence
-- <a href="https://spacenews.com/alpha-rocket-suffers-stage-separation-anomaly-during-launch-of-lockheed-tech-demo-satellite/" >🔗</a> **[SpaceNews]** Alpha rocket suffers stage separation anomaly during launch of Lockheed tech demo satellite
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250429T220121">2025-04-29 22:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250429T223438">2025-04-29 22:34:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
