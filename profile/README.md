@@ -88,6 +88,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/veteran-nasa-astronaut-says-iss-can-operate-past-2030/" >🔗</a> **[SpaceNews]** Veteran NASA astronaut says ISS can operate past 2030
 - <a href="https://spacenews.com/china-and-malaysia-to-study-international-equatorial-spaceport-project/" >🔗</a> **[SpaceNews]** China and Malaysia to study international equatorial spaceport project
 - <a href="https://spacepolicyonline.com/news/pettit-wants-more-spaceflights-iss-beyond-2030/" >🔗</a> **[SpacePolicyOnline.com]** Pettit Wants More Spaceflights, ISS Beyond 2030
 - <a href="https://www.nasaspaceflight.com/2025/04/biomass-vega-c/" >🔗</a> **[NASASpaceflight]** ESA’s Biomass mission to launch aboard Vega-C
@@ -97,7 +98,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/czechia-selects-experiments-for-private-astronaut-mission-to-the-iss/" >🔗</a> **[European Spaceflight]** Czechia Selects Experiments for Private Astronaut Mission to the ISS
 - <a href="https://www.nasa.gov/general/nasa-3d-wind-measuring-laser-aims-to-improve-forecasts-from-air-space/" >🔗</a> **[NASA]** NASA 3D Wind Measuring Laser Aims to Improve Forecasts from Air, Space
 - <a href="https://www.nasa.gov/missions/airborne-science/nasa-3d-wind-measuring-laser-aims-to-improve-forecasts-from-air-space/" >🔗</a> **[NASA]** NASA 3D Wind Measuring Laser Aims to Improve Forecasts from Air, Space
-- <a href="https://spacenews.com/spire-global-closes-stalled-241-million-maritime-sale/" >🔗</a> **[SpaceNews]** Spire Global closes stalled $241 million maritime sale
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250428T233201">2025-04-28 23:32:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250429T000508">2025-04-29 00:05:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
