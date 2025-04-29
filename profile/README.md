@@ -85,6 +85,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/in-the-starlight-jason-phillips-unexpected-path-to-johnson-procurement/" >🔗</a> **[NASA]** In the Starlight: Jason Phillips’ Unexpected Path to Johnson Procurement
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/04/ESA_s_Biomass_mission_launches_on_Vega-C" >🔗</a> **[ESA]** ESA’s Biomass mission launches on Vega-C
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/A_visual_feast_of_galaxies_from_infrared_to_X-ray" >🔗</a> **[ESA]** A visual feast of galaxies, from infrared to X-ray
 - <a href="https://spacepolicyonline.com/news/first-operational-project-kuiper-satellites-reach-orbit/" >🔗</a> **[SpacePolicyOnline.com]** First Operational Project Kuiper Satellites Reach Orbit
 - <a href="https://spaceflightnow.com/2025/04/29/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-the-kennedy-space-center-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 23 Starlink satellites on Falcon 9 rocket from the Kennedy Space Center
@@ -93,8 +95,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/pettit-wants-more-spaceflights-iss-beyond-2030/" >🔗</a> **[SpacePolicyOnline.com]** Pettit Wants More Spaceflights, ISS Beyond 2030
 - <a href="https://www.nasaspaceflight.com/2025/04/biomass-vega-c/" >🔗</a> **[NASASpaceflight]** ESA’s Biomass mission to launch aboard Vega-C
 - <a href="https://arstechnica.com/space/2025/04/meet-the-astronaut-who-celebrated-his-70th-birthday-by-thudding-into-the-planet/" >🔗</a> **[Arstechnica]** Meet the astronaut who celebrated his 70th birthday by thudding into the planet
-- <a href="https://www.nasa.gov/centers-and-facilities/kennedy/nasa-moon-observing-instrument-to-get-another-shot-at-lunar-ops/" >🔗</a> **[NASA]** NASA Moon Observing Instrument to Get Another Shot at Lunar Ops
-- <a href="https://www.nasa.gov/general/how-are-we-made-of-star-stuff-we-asked-a-nasa-expert-episode-58/" >🔗</a> **[NASA]** How Are We Made of Star Stuff? We Asked a NASA Expert: Episode 58
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250429T100135">2025-04-29 10:01:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250429T103703">2025-04-29 10:37:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
