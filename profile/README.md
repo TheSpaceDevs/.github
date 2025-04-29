@@ -87,6 +87,7 @@ With a minimum operational lifetime of 5 years in its 666km 6am/6pm sun-synchron
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/A_visual_feast_of_galaxies_from_infrared_to_X-ray" >🔗</a> **[ESA]** A visual feast of galaxies, from infrared to X-ray
 - <a href="https://spacepolicyonline.com/news/first-operational-project-kuiper-satellites-reach-orbit/" >🔗</a> **[SpacePolicyOnline.com]** First Operational Project Kuiper Satellites Reach Orbit
 - <a href="https://spaceflightnow.com/2025/04/29/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-the-kennedy-space-center-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 23 Starlink satellites on Falcon 9 rocket from the Kennedy Space Center
 - <a href="https://spacenews.com/veteran-nasa-astronaut-says-iss-can-operate-past-2030/" >🔗</a> **[SpaceNews]** Veteran NASA astronaut says ISS can operate past 2030
@@ -96,11 +97,12 @@ With a minimum operational lifetime of 5 years in its 666km 6am/6pm sun-synchron
 - <a href="https://arstechnica.com/space/2025/04/meet-the-astronaut-who-celebrated-his-70th-birthday-by-thudding-into-the-planet/" >🔗</a> **[Arstechnica]** Meet the astronaut who celebrated his 70th birthday by thudding into the planet
 - <a href="https://www.nasa.gov/centers-and-facilities/kennedy/nasa-moon-observing-instrument-to-get-another-shot-at-lunar-ops/" >🔗</a> **[NASA]** NASA Moon Observing Instrument to Get Another Shot at Lunar Ops
 - <a href="https://www.nasa.gov/general/how-are-we-made-of-star-stuff-we-asked-a-nasa-expert-episode-58/" >🔗</a> **[NASA]** How Are We Made of Star Stuff? We Asked a NASA Expert: Episode 58
-- <a href="https://europeanspaceflight.com/czechia-selects-experiments-for-private-astronaut-mission-to-the-iss/" >🔗</a> **[European Spaceflight]** Czechia Selects Experiments for Private Astronaut Mission to the ISS
 
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2025/04/biomass-vega-c/" >🔗</a> **[NASASpaceflight]** ESA’s Biomass mission to launch aboard Vega-C
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/Mission_control_GO_for_Biomass_launch" >🔗</a> **[ESA]** Mission control GO for Biomass launch
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/04/Biomass_from_Europe_to_French_Guiana" >🔗</a> **[ESA]** Biomass: from Europe to French Guiana
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Biomass/Biomass_poised_for_liftoff_to_unveil_forest_secrets" >🔗</a> **[ESA]** Biomass poised for liftoff to unveil forest secrets
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Biomass/Watch_Biomass_launch_live" >🔗</a> **[ESA]** Watch Biomass launch live
@@ -109,13 +111,11 @@ With a minimum operational lifetime of 5 years in its 666km 6am/6pm sun-synchron
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Biomass/Forest_mission_sealed_within_rocket_fairing_for_liftoff" >🔗</a> **[ESA]** Forest mission sealed within rocket fairing for liftoff
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Biomass/Biomass_fully_loaded" >🔗</a> **[ESA]** Biomass fully loaded
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/03/Biomass_cleared_for_fuelling" >🔗</a> **[ESA]** Biomass cleared for fuelling
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/03/Biomass_out_of_the_box" >🔗</a> **[ESA]** Biomass out of the box
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Biomass/ESA_s_pioneering_Biomass_satellite_arrives_at_launch_site" >🔗</a> **[ESA]** ESA’s pioneering Biomass satellite arrives at launch site
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250429T080141">2025-04-29 08:01:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250429T083755">2025-04-29 08:37:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
