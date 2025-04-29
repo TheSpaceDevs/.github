@@ -86,6 +86,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/fcc-opens-new-battlefront-in-satellite-power-struggle/" >🔗</a> **[SpaceNews]** FCC opens new battlefront in satellite power struggle
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/robots-rovers-and-regolith-nasa-brings-exploration-to-first-robotics-2025/" >🔗</a> **[NASA]** Robots, Rovers, and Regolith: NASA Brings Exploration to FIRST Robotics 2025
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-advances-precision-landing-technology-with-field-test-at-kennedy/" >🔗</a> **[NASA]** NASA Advances Precision Landing Technology with Field Test at Kennedy
 - <a href="https://www.nasa.gov/image-article/hubble-spots-a-squid-in-the-whale/" >🔗</a> **[NASA]** Hubble Spots a Squid in the Whale
@@ -95,7 +96,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/nasa-gathers-experts-to-discuss-emerging-technologies-in-astrophysics/" >🔗</a> **[NASA]** NASA Gathers Experts to Discuss Emerging Technologies in Astrophysics
 - <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-technology-enables-leaps-in-artificial-intelligence/" >🔗</a> **[NASA]** NASA Technology Enables Leaps in Artificial Intelligence
 - <a href="https://spacenews.com/alpha-rocket-suffers-stage-separation-anomaly-during-launch-of-lockheed-tech-demo-satellite/" >🔗</a> **[SpaceNews]** Alpha rocket suffers stage separation anomaly during launch of Lockheed tech demo satellite
-- <a href="https://europeanspaceflight.com/successful-vega-c-launch-delivers-esa-biomass-satellite-to-orbit/" >🔗</a> **[European Spaceflight]** Successful Vega C Launch Delivers ESA Biomass Satellite to Orbit
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250429T210128">2025-04-29 21:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250429T213208">2025-04-29 21:32:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
