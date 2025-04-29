@@ -85,6 +85,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-soars-to-new-heights-in-first-100-days-of-trump-administration/" >🔗</a> **[NASA]** NASA Soars to New Heights in First 100 Days of Trump Administration
+- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-agencys-25th-annual-student-launch-challenge/" >🔗</a> **[NASA]** NASA Invites Media to Agency’s 25th Annual Student Launch Challenge
+- <a href="https://science.nasa.gov/directorates/smd/astrophysics-division/help-classify-galaxies-seen-by-nasas-james-webb-space-telescope/" >🔗</a> **[NASA]** Help Classify Galaxies Seen by NASA’s James Webb Space Telescope!
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Gaia/Gaia_spots_odd_family_of_stars_desperate_to_leave_home" >🔗</a> **[ESA]** Gaia spots odd family of stars desperate to leave home
 - <a href="https://science.nasa.gov/universe/stars/neutron-stars/magnetars/where-does-gold-come-from-nasa-data-has-clues/" >🔗</a> **[NASA]** Where Does Gold Come From? NASA Data Has Clues
 - <a href="https://spacenews.com/slingshot-targets-international-market-with-sovereign-space-tracking-systems/" >🔗</a> **[SpaceNews]** Slingshot targets international market with sovereign space tracking systems
@@ -92,9 +95,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/apex-raises-200-million-to-accelerate-satellite-production/" >🔗</a> **[SpaceNews]** Apex raises $200 million to accelerate satellite production
 - <a href="https://spacenews.com/amazon-establishes-contact-with-first-operational-kuiper-satellites/" >🔗</a> **[SpaceNews]** Amazon establishes contact with first operational Kuiper satellites
 - <a href="https://spacenews.com/china-launches-third-batch-of-guowang-megaconstellation-satellites/" >🔗</a> **[SpaceNews]** China launches third batch of Guowang megaconstellation satellites
-- <a href="https://spacenews.com/atlas-launches-first-operational-project-kuiper-satellites/" >🔗</a> **[SpaceNews]** Atlas launches first operational Project Kuiper satellites
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Biomass/Biomass_launched_to_count_forest_carbon" >🔗</a> **[ESA]** Biomass launched to count forest carbon
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/in-the-starlight-jason-phillips-unexpected-path-to-johnson-procurement/" >🔗</a> **[NASA]** In the Starlight: Jason Phillips’ Unexpected Path to Johnson Procurement
 
 
 ### Launch-related News 🚀
@@ -103,7 +103,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250429T140135">2025-04-29 14:01:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250429T143549">2025-04-29 14:35:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
