@@ -46,7 +46,7 @@ into *a Low Earth Orbit
 
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250502T015100">2025-05-02 01:51:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-75&location=Cape Canaveral SFS, FL, USA&dates=20250502T015100Z%2F20250502T055100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-75** from Cape Canaveral SFS, FL, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250502T182700">2025-05-02 18:27:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 15-3&location=Vandenberg SFB, CA, USA&dates=20250502T182700Z%2F20250502T225500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 15-3** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250503T181300">2025-05-03 18:13:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 15-3&location=Vandenberg SFB, CA, USA&dates=20250503T181300Z%2F20250503T221300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 15-3** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250504T084800">2025-05-04 08:48:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-84&location=Kennedy Space Center, FL, USA&dates=20250504T084800Z%2F20250504T124800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-84** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250505T011400">2025-05-05 01:14:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-93&location=Cape Canaveral SFS, FL, USA&dates=20250505T011400Z%2F20250505T051400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-93** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250505T105700">2025-05-05 10:57:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 12 | SatNet LEO Group TBD?&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20250505T105700Z%2F20250505T114700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 12 | SatNet LEO Group TBD?** from Wenchang Space Launch Site, People's Republic of China.
@@ -87,6 +87,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-international-astronauts-to-connect-with-students-in-texas/" >🔗</a> **[NASA]** NASA, International Astronauts to Connect with Students in Texas
 - <a href="https://www.nasa.gov/learning-resources/for-kids-and-students/que-es-una-caminata-espacial-grados-5-a-8/" >🔗</a> **[NASA]** ¿Qué es una caminata espacial? (Grados 5.o a 8.o)
 - <a href="https://spaceflightnow.com/2025/04/30/u-s-senate-commerce-committee-advances-isaacmans-nomination-for-nasa-administrator-to-full-senate/" >🔗</a> **[Spaceflight Now]** U.S. Senate Commerce Committee advances Isaacman’s nomination for NASA administrator to full Senate
 - <a href="https://www.nasa.gov/image-article/nasa-completes-kuiper-deconstruction-plans-for-display/" >🔗</a> **[NASA]** NASA Completes Kuiper Deconstruction, Plans for Display
@@ -96,7 +97,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/novaspace-forecasts-global-space-exploration-investment-to-reach-31-billion-by-2034/" >🔗</a> **[SpaceNews]** Novaspace Forecasts Global Space Exploration Investment to Reach $31 Billion by 2034
 - <a href="https://spacenews.com/defense-focused-space-startup-true-anomaly-raises-260-million/" >🔗</a> **[SpaceNews]** Defense-focused space startup True Anomaly raises $260 million
 - <a href="https://www.nasa.gov/image-article/nasa-kicks-off-biological-research-aboard-space-station/" >🔗</a> **[NASA]** NASA Kicks Off Biological Research Aboard Space Station
-- <a href="https://spacenews.com/if-european-leaders-want-to-beef-up-defense-in-space-they-should-look-to-the-space-development-agency/" >🔗</a> **[SpaceNews]** If European leaders want to beef up defense in space, they should look to the Space Development Agency
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250430T193113">2025-04-30 19:31:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250430T200126">2025-04-30 20:01:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
