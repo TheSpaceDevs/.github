@@ -87,6 +87,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/saxophone-in-space/" >🔗</a> **[NASA]** Saxophone in Space
+- <a href="https://science.nasa.gov/universe/the-universes-brightest-lights-have-some-dark-origins/" >🔗</a> **[NASA]** The Universe’s Brightest Lights Have Some Dark Origins
+- <a href="https://spacenews.com/nasa-investigating-problem-with-psyche-electric-thrusters/" >🔗</a> **[SpaceNews]** NASA investigating problem with Psyche electric thrusters
 - <a href="https://www.nasa.gov/news-release/nasa-international-astronauts-to-connect-with-students-in-texas/" >🔗</a> **[NASA]** NASA, International Astronauts to Connect with Students in Texas
 - <a href="https://www.nasa.gov/learning-resources/for-kids-and-students/que-es-una-caminata-espacial-grados-5-a-8/" >🔗</a> **[NASA]** ¿Qué es una caminata espacial? (Grados 5.o a 8.o)
 - <a href="https://spaceflightnow.com/2025/04/30/u-s-senate-commerce-committee-advances-isaacmans-nomination-for-nasa-administrator-to-full-senate/" >🔗</a> **[Spaceflight Now]** U.S. Senate Commerce Committee advances Isaacman’s nomination for NASA administrator to full Senate
@@ -94,9 +97,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2025/04/after-his-support-for-artemis-senate-committee-advances-isaacman-nomination/" >🔗</a> **[Arstechnica]** After his support for Artemis, Senate committee advances Isaacman nomination
 - <a href="https://spacepolicyonline.com/news/isaacman-nomination-clears-senate-commerce-committee/" >🔗</a> **[SpacePolicyOnline.com]** Isaacman Nomination Clears Senate Commerce Committee
 - <a href="https://spacenews.com/senate-commerce-committee-advances-isaacman-nomination-to-lead-nasa/" >🔗</a> **[SpaceNews]** Senate Commerce Committee advances Isaacman nomination to lead NASA
-- <a href="https://spacenews.com/novaspace-forecasts-global-space-exploration-investment-to-reach-31-billion-by-2034/" >🔗</a> **[SpaceNews]** Novaspace Forecasts Global Space Exploration Investment to Reach $31 Billion by 2034
-- <a href="https://spacenews.com/defense-focused-space-startup-true-anomaly-raises-260-million/" >🔗</a> **[SpaceNews]** Defense-focused space startup True Anomaly raises $260 million
-- <a href="https://www.nasa.gov/image-article/nasa-kicks-off-biological-research-aboard-space-station/" >🔗</a> **[NASA]** NASA Kicks Off Biological Research Aboard Space Station
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250430T210127">2025-04-30 21:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250430T213304">2025-04-30 21:33:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
