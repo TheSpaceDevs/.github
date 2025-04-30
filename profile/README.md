@@ -87,6 +87,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/if-european-leaders-want-to-beef-up-defense-in-space-they-should-look-to-the-space-development-agency/" >🔗</a> **[SpaceNews]** If European leaders want to beef up defense in space, they should look to the Space Development Agency
 - <a href="https://spacenews.com/vega-launches-biomass-satellite/" >🔗</a> **[SpaceNews]** Vega launches Biomass satellite
 - <a href="https://europeanspaceflight.com/dlr-wraps-up-qualification-of-key-callisto-rocket-element/" >🔗</a> **[European Spaceflight]** DLR Wraps Up Qualification of Key Callisto Rocket Element
 - <a href="https://spacenews.com/china-is-making-stainless-steel-tanks-for-its-future-super-heavy-lift-rockets/" >🔗</a> **[SpaceNews]** China is making stainless steel tanks for its future super heavy-lift rockets
@@ -96,7 +97,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/amazons-project-kuiper-partners-with-l3harris-to-develop-military-communication-solutions/" >🔗</a> **[SpaceNews]** Amazon’s Project Kuiper partners with L3Harris to develop military communication solutions
 - <a href="https://spacepolicyonline.com/news/hasc-approves-reconciliation-package-with-25-billion-for-golden-dome/" >🔗</a> **[SpacePolicyOnline.com]** HASC Approves Reconciliation Package with $25 Billion for Golden Dome
 - <a href="https://www.nasaspaceflight.com/2025/04/launch-roundup-042925/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Starlink missions fill launch manifest, Biomass and Alpha launch
-- <a href="https://spacenews.com/fcc-opens-new-battlefront-in-satellite-power-struggle/" >🔗</a> **[SpaceNews]** FCC opens new battlefront in satellite power struggle
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250430T130826">2025-04-30 13:08:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250430T133727">2025-04-30 13:37:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
