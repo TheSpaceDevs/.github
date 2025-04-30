@@ -86,6 +86,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blog/sols-4522-4524-up-on-the-roof/" >🔗</a> **[NASA]** Sols 4522-4524: Up on the Roof
 - <a href="https://spacenews.com/space-force-embraces-commercial-tech-in-major-overhaul-of-surveillance-satellite-program/" >🔗</a> **[SpaceNews]** Space Force embraces commercial tech in major overhaul of surveillance satellite program
 - <a href="https://spacenews.com/amazons-project-kuiper-partners-with-l3harris-to-develop-military-communication-solutions/" >🔗</a> **[SpaceNews]** Amazon’s Project Kuiper partners with L3Harris to develop military communication solutions
 - <a href="https://spacepolicyonline.com/news/hasc-approves-reconciliation-package-with-25-billion-for-golden-dome/" >🔗</a> **[SpacePolicyOnline.com]** HASC Approves Reconciliation Package with $25 Billion for Golden Dome
@@ -95,7 +96,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/robots-rovers-and-regolith-nasa-brings-exploration-to-first-robotics-2025/" >🔗</a> **[NASA]** Robots, Rovers, and Regolith: NASA Brings Exploration to FIRST Robotics 2025
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-advances-precision-landing-technology-with-field-test-at-kennedy/" >🔗</a> **[NASA]** NASA Advances Precision Landing Technology with Field Test at Kennedy
 - <a href="https://www.nasa.gov/image-article/hubble-spots-a-squid-in-the-whale/" >🔗</a> **[NASA]** Hubble Spots a Squid in the Whale
-- <a href="https://www.nasa.gov/missions/juno/nasas-juno-mission-gets-under-jupiters-and-ios-surface/" >🔗</a> **[NASA]** NASA’s Juno Mission Gets Under Jupiter’s and Io’s Surface
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250430T004557">2025-04-30 00:45:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250430T012853">2025-04-30 01:28:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
