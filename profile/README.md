@@ -87,6 +87,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/senate-commerce-committee-advances-isaacman-nomination-to-lead-nasa/" >🔗</a> **[SpaceNews]** Senate Commerce Committee advances Isaacman nomination to lead NASA
+- <a href="https://spacenews.com/novaspace-forecasts-global-space-exploration-investment-to-reach-31-billion-by-2034/" >🔗</a> **[SpaceNews]** Novaspace Forecasts Global Space Exploration Investment to Reach $31 Billion by 2034
 - <a href="https://spacenews.com/defense-focused-space-startup-true-anomaly-raises-260-million/" >🔗</a> **[SpaceNews]** Defense-focused space startup True Anomaly raises $260 million
 - <a href="https://www.nasa.gov/image-article/nasa-kicks-off-biological-research-aboard-space-station/" >🔗</a> **[NASA]** NASA Kicks Off Biological Research Aboard Space Station
 - <a href="https://spacenews.com/if-european-leaders-want-to-beef-up-defense-in-space-they-should-look-to-the-space-development-agency/" >🔗</a> **[SpaceNews]** If European leaders want to beef up defense in space, they should look to the Space Development Agency
@@ -95,8 +97,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/china-is-making-stainless-steel-tanks-for-its-future-super-heavy-lift-rockets/" >🔗</a> **[SpaceNews]** China is making stainless steel tanks for its future super heavy-lift rockets
 - <a href="https://spacenews.com/chinas-shenzhou-19-astronauts-return-to-earth-after-six-month-mission/" >🔗</a> **[SpaceNews]** China’s Shenzhou-19 astronauts return to Earth after six-month mission
 - <a href="https://science.nasa.gov/blog/sols-4522-4524-up-on-the-roof/" >🔗</a> **[NASA]** Sols 4522-4524: Up on the Roof
-- <a href="https://spacenews.com/space-force-embraces-commercial-tech-in-major-overhaul-of-surveillance-satellite-program/" >🔗</a> **[SpaceNews]** Space Force embraces commercial tech in major overhaul of surveillance satellite program
-- <a href="https://spacenews.com/amazons-project-kuiper-partners-with-l3harris-to-develop-military-communication-solutions/" >🔗</a> **[SpaceNews]** Amazon’s Project Kuiper partners with L3Harris to develop military communication solutions
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250430T150135">2025-04-30 15:01:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250430T153429">2025-04-30 15:34:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
