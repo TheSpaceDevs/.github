@@ -87,6 +87,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/04/juno-io-jupiter-cyclones/" >🔗</a> **[NASASpaceflight]** Juno reveals Io’s inner structure and volcanic activity; investigates north pole cyclones
+- <a href="https://spacenews.com/waltz-defends-golden-dome-missile-shield-amid-partisan-divide/" >🔗</a> **[SpaceNews]** Waltz defends ‘Golden Dome’ missile shield amid partisan divide
 - <a href="https://www.nasa.gov/image-article/saxophone-in-space/" >🔗</a> **[NASA]** Saxophone in Space
 - <a href="https://science.nasa.gov/universe/the-universes-brightest-lights-have-some-dark-origins/" >🔗</a> **[NASA]** The Universe’s Brightest Lights Have Some Dark Origins
 - <a href="https://spacenews.com/nasa-investigating-problem-with-psyche-electric-thrusters/" >🔗</a> **[SpaceNews]** NASA investigating problem with Psyche electric thrusters
@@ -95,8 +97,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/04/30/u-s-senate-commerce-committee-advances-isaacmans-nomination-for-nasa-administrator-to-full-senate/" >🔗</a> **[Spaceflight Now]** U.S. Senate Commerce Committee advances Isaacman’s nomination for NASA administrator to full Senate
 - <a href="https://www.nasa.gov/image-article/nasa-completes-kuiper-deconstruction-plans-for-display/" >🔗</a> **[NASA]** NASA Completes Kuiper Deconstruction, Plans for Display
 - <a href="https://arstechnica.com/space/2025/04/after-his-support-for-artemis-senate-committee-advances-isaacman-nomination/" >🔗</a> **[Arstechnica]** After his support for Artemis, Senate committee advances Isaacman nomination
-- <a href="https://spacepolicyonline.com/news/isaacman-nomination-clears-senate-commerce-committee/" >🔗</a> **[SpacePolicyOnline.com]** Isaacman Nomination Clears Senate Commerce Committee
-- <a href="https://spacenews.com/senate-commerce-committee-advances-isaacman-nomination-to-lead-nasa/" >🔗</a> **[SpaceNews]** Senate Commerce Committee advances Isaacman nomination to lead NASA
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250430T220130">2025-04-30 22:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250430T223443">2025-04-30 22:34:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
