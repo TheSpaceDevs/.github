@@ -87,6 +87,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/learning-resources/for-kids-and-students/que-es-una-caminata-espacial-grados-5-a-8/" >🔗</a> **[NASA]** ¿Qué es una caminata espacial? (Grados 5.o a 8.o)
+- <a href="https://spaceflightnow.com/2025/04/30/u-s-senate-commerce-committee-advances-isaacmans-nomination-for-nasa-administrator-to-full-senate/" >🔗</a> **[Spaceflight Now]** U.S. Senate Commerce Committee advances Isaacman’s nomination for NASA administrator to full Senate
+- <a href="https://www.nasa.gov/image-article/nasa-completes-kuiper-deconstruction-plans-for-display/" >🔗</a> **[NASA]** NASA Completes Kuiper Deconstruction, Plans for Display
 - <a href="https://arstechnica.com/space/2025/04/after-his-support-for-artemis-senate-committee-advances-isaacman-nomination/" >🔗</a> **[Arstechnica]** After his support for Artemis, Senate committee advances Isaacman nomination
 - <a href="https://spacepolicyonline.com/news/isaacman-nomination-clears-senate-commerce-committee/" >🔗</a> **[SpacePolicyOnline.com]** Isaacman Nomination Clears Senate Commerce Committee
 - <a href="https://spacenews.com/senate-commerce-committee-advances-isaacman-nomination-to-lead-nasa/" >🔗</a> **[SpaceNews]** Senate Commerce Committee advances Isaacman nomination to lead NASA
@@ -94,9 +97,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/defense-focused-space-startup-true-anomaly-raises-260-million/" >🔗</a> **[SpaceNews]** Defense-focused space startup True Anomaly raises $260 million
 - <a href="https://www.nasa.gov/image-article/nasa-kicks-off-biological-research-aboard-space-station/" >🔗</a> **[NASA]** NASA Kicks Off Biological Research Aboard Space Station
 - <a href="https://spacenews.com/if-european-leaders-want-to-beef-up-defense-in-space-they-should-look-to-the-space-development-agency/" >🔗</a> **[SpaceNews]** If European leaders want to beef up defense in space, they should look to the Space Development Agency
-- <a href="https://spacenews.com/vega-launches-biomass-satellite/" >🔗</a> **[SpaceNews]** Vega launches Biomass satellite
-- <a href="https://europeanspaceflight.com/dlr-wraps-up-qualification-of-key-callisto-rocket-element/" >🔗</a> **[European Spaceflight]** DLR Wraps Up Qualification of Key Callisto Rocket Element
-- <a href="https://spacenews.com/china-is-making-stainless-steel-tanks-for-its-future-super-heavy-lift-rockets/" >🔗</a> **[SpaceNews]** China is making stainless steel tanks for its future super heavy-lift rockets
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250430T190122">2025-04-30 19:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250430T193113">2025-04-30 19:31:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
