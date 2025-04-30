@@ -87,6 +87,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/chinas-shenzhou-19-astronauts-return-to-earth-after-six-month-mission/" >🔗</a> **[SpaceNews]** China’s Shenzhou-19 astronauts return to Earth after six-month mission
 - <a href="https://science.nasa.gov/blog/sols-4522-4524-up-on-the-roof/" >🔗</a> **[NASA]** Sols 4522-4524: Up on the Roof
 - <a href="https://spacenews.com/space-force-embraces-commercial-tech-in-major-overhaul-of-surveillance-satellite-program/" >🔗</a> **[SpaceNews]** Space Force embraces commercial tech in major overhaul of surveillance satellite program
 - <a href="https://spacenews.com/amazons-project-kuiper-partners-with-l3harris-to-develop-military-communication-solutions/" >🔗</a> **[SpaceNews]** Amazon’s Project Kuiper partners with L3Harris to develop military communication solutions
@@ -96,7 +97,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/get-involved/citizen-science/how-to-contribute-to-citizen-science-with-nasa/" >🔗</a> **[NASA]** How to Contribute to Citizen Science with NASA
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/robots-rovers-and-regolith-nasa-brings-exploration-to-first-robotics-2025/" >🔗</a> **[NASA]** Robots, Rovers, and Regolith: NASA Brings Exploration to FIRST Robotics 2025
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-advances-precision-landing-technology-with-field-test-at-kennedy/" >🔗</a> **[NASA]** NASA Advances Precision Landing Technology with Field Test at Kennedy
-- <a href="https://www.nasa.gov/image-article/hubble-spots-a-squid-in-the-whale/" >🔗</a> **[NASA]** Hubble Spots a Squid in the Whale
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250430T080137">2025-04-30 08:01:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250430T083712">2025-04-30 08:37:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
