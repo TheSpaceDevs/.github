@@ -87,6 +87,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-stem-programs-ignite-curiosity-beyond-the-classroom/" >🔗</a> **[NASA]** NASA STEM Programs Ignite Curiosity Beyond the Classroom
 - <a href="https://www.nasaspaceflight.com/2025/04/juno-io-jupiter-cyclones/" >🔗</a> **[NASASpaceflight]** Juno reveals Io’s inner structure and volcanic activity; investigates north pole cyclones
 - <a href="https://spacenews.com/waltz-defends-golden-dome-missile-shield-amid-partisan-divide/" >🔗</a> **[SpaceNews]** Waltz defends ‘Golden Dome’ missile shield amid partisan divide
 - <a href="https://www.nasa.gov/image-article/saxophone-in-space/" >🔗</a> **[NASA]** Saxophone in Space
@@ -96,7 +97,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/learning-resources/for-kids-and-students/que-es-una-caminata-espacial-grados-5-a-8/" >🔗</a> **[NASA]** ¿Qué es una caminata espacial? (Grados 5.o a 8.o)
 - <a href="https://spaceflightnow.com/2025/04/30/u-s-senate-commerce-committee-advances-isaacmans-nomination-for-nasa-administrator-to-full-senate/" >🔗</a> **[Spaceflight Now]** U.S. Senate Commerce Committee advances Isaacman’s nomination for NASA administrator to full Senate
 - <a href="https://www.nasa.gov/image-article/nasa-completes-kuiper-deconstruction-plans-for-display/" >🔗</a> **[NASA]** NASA Completes Kuiper Deconstruction, Plans for Display
-- <a href="https://arstechnica.com/space/2025/04/after-his-support-for-artemis-senate-committee-advances-isaacman-nomination/" >🔗</a> **[Arstechnica]** After his support for Artemis, Senate committee advances Isaacman nomination
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250430T230130">2025-04-30 23:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250430T233218">2025-04-30 23:32:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
