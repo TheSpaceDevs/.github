@@ -87,6 +87,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-is-making-stainless-steel-tanks-for-its-future-super-heavy-lift-rockets/" >🔗</a> **[SpaceNews]** China is making stainless steel tanks for its future super heavy-lift rockets
 - <a href="https://spacenews.com/chinas-shenzhou-19-astronauts-return-to-earth-after-six-month-mission/" >🔗</a> **[SpaceNews]** China’s Shenzhou-19 astronauts return to Earth after six-month mission
 - <a href="https://science.nasa.gov/blog/sols-4522-4524-up-on-the-roof/" >🔗</a> **[NASA]** Sols 4522-4524: Up on the Roof
 - <a href="https://spacenews.com/space-force-embraces-commercial-tech-in-major-overhaul-of-surveillance-satellite-program/" >🔗</a> **[SpaceNews]** Space Force embraces commercial tech in major overhaul of surveillance satellite program
@@ -96,7 +97,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/fcc-opens-new-battlefront-in-satellite-power-struggle/" >🔗</a> **[SpaceNews]** FCC opens new battlefront in satellite power struggle
 - <a href="https://science.nasa.gov/get-involved/citizen-science/how-to-contribute-to-citizen-science-with-nasa/" >🔗</a> **[NASA]** How to Contribute to Citizen Science with NASA
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/robots-rovers-and-regolith-nasa-brings-exploration-to-first-robotics-2025/" >🔗</a> **[NASA]** Robots, Rovers, and Regolith: NASA Brings Exploration to FIRST Robotics 2025
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-advances-precision-landing-technology-with-field-test-at-kennedy/" >🔗</a> **[NASA]** NASA Advances Precision Landing Technology with Field Test at Kennedy
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250430T090129">2025-04-30 09:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250430T093354">2025-04-30 09:33:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
