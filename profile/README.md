@@ -87,6 +87,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/04/after-his-support-for-artemis-senate-committee-advances-isaacman-nomination/" >🔗</a> **[Arstechnica]** After his support for Artemis, Senate committee advances Isaacman nomination
 - <a href="https://spacepolicyonline.com/news/isaacman-nomination-clears-senate-commerce-committee/" >🔗</a> **[SpacePolicyOnline.com]** Isaacman Nomination Clears Senate Commerce Committee
 - <a href="https://spacenews.com/senate-commerce-committee-advances-isaacman-nomination-to-lead-nasa/" >🔗</a> **[SpaceNews]** Senate Commerce Committee advances Isaacman nomination to lead NASA
 - <a href="https://spacenews.com/novaspace-forecasts-global-space-exploration-investment-to-reach-31-billion-by-2034/" >🔗</a> **[SpaceNews]** Novaspace Forecasts Global Space Exploration Investment to Reach $31 Billion by 2034
@@ -96,7 +97,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/vega-launches-biomass-satellite/" >🔗</a> **[SpaceNews]** Vega launches Biomass satellite
 - <a href="https://europeanspaceflight.com/dlr-wraps-up-qualification-of-key-callisto-rocket-element/" >🔗</a> **[European Spaceflight]** DLR Wraps Up Qualification of Key Callisto Rocket Element
 - <a href="https://spacenews.com/china-is-making-stainless-steel-tanks-for-its-future-super-heavy-lift-rockets/" >🔗</a> **[SpaceNews]** China is making stainless steel tanks for its future super heavy-lift rockets
-- <a href="https://spacenews.com/chinas-shenzhou-19-astronauts-return-to-earth-after-six-month-mission/" >🔗</a> **[SpaceNews]** China’s Shenzhou-19 astronauts return to Earth after six-month mission
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250430T170122">2025-04-30 17:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250430T173333">2025-04-30 17:33:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
