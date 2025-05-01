@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/u-s-space-force-taps-12-firms-for-237-million-small-satellite-procurement/" >🔗</a> **[SpaceNews]** U.S. Space Force taps 12 firms for $237 million small-satellite procurement
 - <a href="https://spacenews.com/lohmeier-defends-qualifications-for-air-force-post-as-senators-question-past-remarks/" >🔗</a> **[SpaceNews]** Lohmeier defends qualifications for Air Force post as senators question past remarks
 - <a href="https://www.nasa.gov/missions/chandra/nasas-chandra-diagnoses-cause-of-fracture-in-galactic-bone/" >🔗</a> **[NASA]** NASA’s Chandra Diagnoses Cause of Fracture in Galactic “Bone”
 - <a href="https://spacenews.com/ebads-spacecraft-dispensing-mechanisms-propel-amazons-project-kuiper-into-orbit/" >🔗</a> **[SpaceNews]** EBAD’s Spacecraft Dispensing Mechanisms Propel Amazon’s Project Kuiper into Orbit
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/adding-dimension-to-cassiopeia-a/" >🔗</a> **[NASA]** Adding Dimension to Cassiopeia A
 - <a href="https://science.nasa.gov/get-involved/citizen-science/amateur-radio-scientists-shine-at-the-2025-hamsci-workshop/" >🔗</a> **[NASA]** Amateur Radio Scientists Shine at the 2025 HamSCI Workshop
 - <a href="https://www.nasa.gov/image-article/nasa-harvests-lettuce-for-space-station-study/" >🔗</a> **[NASA]** NASA Harvests Lettuce for Space Station Study
-- <a href="https://spacenews.com/expanding-the-human-presence-in-orbit-faces-growing-risk-from-space-debris/" >🔗</a> **[SpaceNews]** Expanding the human presence in orbit faces growing risk from space debris
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250501T200127">2025-05-01 20:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250501T203324">2025-05-01 20:33:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
