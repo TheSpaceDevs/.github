@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/solar-system/skywatching/whats-up-may-2025-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: May 2025 Skywatching Tips from NASA
+- <a href="https://spaceflightnow.com/2025/05/01/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-3/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://www.nasa.gov/image-article/adding-dimension-to-cassiopeia-a/" >🔗</a> **[NASA]** Adding Dimension to Cassiopeia A
 - <a href="https://science.nasa.gov/get-involved/citizen-science/amateur-radio-scientists-shine-at-the-2025-hamsci-workshop/" >🔗</a> **[NASA]** Amateur Radio Scientists Shine at the 2025 HamSCI Workshop
 - <a href="https://www.nasa.gov/image-article/nasa-harvests-lettuce-for-space-station-study/" >🔗</a> **[NASA]** NASA Harvests Lettuce for Space Station Study
 - <a href="https://spacenews.com/expanding-the-human-presence-in-orbit-faces-growing-risk-from-space-debris/" >🔗</a> **[SpaceNews]** Expanding the human presence in orbit faces growing risk from space debris
+- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/ELOPE_with_ESA_s_moon_landing_guidance_competition" >🔗</a> **[ESA]** ‘ELOPE’ with ESA’s moon landing guidance competition
 - <a href="https://spacenews.com/nasa-delays-astrophysics-mission-call-for-proposals-amid-budget-uncertainties/" >🔗</a> **[SpaceNews]** NASA delays astrophysics mission call for proposals amid budget uncertainties
 - <a href="https://spacenews.com/why-space-needs-nuclear-now/" >🔗</a> **[SpaceNews]** Why space needs nuclear now
 - <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/may2025-night-sky-notes/" >🔗</a> **[NASA]** May’s Night Sky Notes: How Do We Find Exoplanets?
-- <a href="https://science.nasa.gov/blog/sols-4525-4526-the-day-after-groundhog-day-between-ghost-mountain-and-texoli-headed-south/" >🔗</a> **[NASA]** Sols 4525-4526: The Day After Groundhog Day (Between Ghost Mountain and Texoli, Headed South)
-- <a href="https://spacepolicyonline.com/news/chinese-space-station-crew-home-after-weather-delay/" >🔗</a> **[SpacePolicyOnline.com]** Chinese Space Station Crew Home After Weather Delay
-- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-stem-programs-ignite-curiosity-beyond-the-classroom/" >🔗</a> **[NASA]** NASA STEM Programs Ignite Curiosity Beyond the Classroom
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250501T150126">2025-05-01 15:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250501T153429">2025-05-01 15:34:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
