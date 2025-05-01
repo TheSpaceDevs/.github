@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blog/sols-4525-4526-the-day-after-groundhog-day-between-ghost-mountain-and-texoli-headed-south/" >🔗</a> **[NASA]** Sols 4525-4526: The Day After Groundhog Day (Between Ghost Mountain and Texoli, Headed South)
 - <a href="https://spacepolicyonline.com/news/chinese-space-station-crew-home-after-weather-delay/" >🔗</a> **[SpacePolicyOnline.com]** Chinese Space Station Crew Home After Weather Delay
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-stem-programs-ignite-curiosity-beyond-the-classroom/" >🔗</a> **[NASA]** NASA STEM Programs Ignite Curiosity Beyond the Classroom
 - <a href="https://www.nasaspaceflight.com/2025/04/juno-io-jupiter-cyclones/" >🔗</a> **[NASASpaceflight]** Juno reveals Io’s inner structure and volcanic activity; investigates north pole cyclones
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/nasa-investigating-problem-with-psyche-electric-thrusters/" >🔗</a> **[SpaceNews]** NASA investigating problem with Psyche electric thrusters
 - <a href="https://www.nasa.gov/news-release/nasa-international-astronauts-to-connect-with-students-in-texas/" >🔗</a> **[NASA]** NASA, International Astronauts to Connect with Students in Texas
 - <a href="https://www.nasa.gov/learning-resources/for-kids-and-students/que-es-una-caminata-espacial-grados-5-a-8/" >🔗</a> **[NASA]** ¿Qué es una caminata espacial? (Grados 5.o a 8.o)
-- <a href="https://spaceflightnow.com/2025/04/30/u-s-senate-commerce-committee-advances-isaacmans-nomination-for-nasa-administrator-to-full-senate/" >🔗</a> **[Spaceflight Now]** U.S. Senate Commerce Committee advances Isaacman’s nomination for NASA administrator to full Senate
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250501T004607">2025-05-01 00:46:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250501T012923">2025-05-01 01:29:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
