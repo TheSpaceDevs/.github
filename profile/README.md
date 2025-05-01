@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ebads-spacecraft-dispensing-mechanisms-propel-amazons-project-kuiper-into-orbit/" >🔗</a> **[SpaceNews]** EBAD’s Spacecraft Dispensing Mechanisms Propel Amazon’s Project Kuiper into Orbit
 - <a href="https://www.nasa.gov/learning-resources/nasa-invests-in-future-stem-workforce-through-space-grant-awards/" >🔗</a> **[NASA]** NASA Invests in Future STEM Workforce Through Space Grant Awards
 - <a href="https://science.nasa.gov/solar-system/skywatching/whats-up-may-2025-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: May 2025 Skywatching Tips from NASA
 - <a href="https://spaceflightnow.com/2025/05/01/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-3/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Cape Canaveral
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/expanding-the-human-presence-in-orbit-faces-growing-risk-from-space-debris/" >🔗</a> **[SpaceNews]** Expanding the human presence in orbit faces growing risk from space debris
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/ELOPE_with_ESA_s_moon_landing_guidance_competition" >🔗</a> **[ESA]** ‘ELOPE’ with ESA’s moon landing guidance competition
 - <a href="https://spacenews.com/nasa-delays-astrophysics-mission-call-for-proposals-amid-budget-uncertainties/" >🔗</a> **[SpaceNews]** NASA delays astrophysics mission call for proposals amid budget uncertainties
-- <a href="https://spacenews.com/why-space-needs-nuclear-now/" >🔗</a> **[SpaceNews]** Why space needs nuclear now
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250501T170119">2025-05-01 17:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250501T173337">2025-05-01 17:33:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
