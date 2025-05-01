@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/spherex/nasas-spherex-space-telescope-begins-capturing-entire-sky/" >🔗</a> **[NASA]** NASA’s SPHEREx Space Telescope Begins Capturing Entire Sky
 - <a href="https://spacenews.com/u-s-space-force-taps-12-firms-for-237-million-small-satellite-procurement/" >🔗</a> **[SpaceNews]** U.S. Space Force taps 12 firms for $237 million small-satellite procurement
 - <a href="https://spacenews.com/lohmeier-defends-qualifications-for-air-force-post-as-senators-question-past-remarks/" >🔗</a> **[SpaceNews]** Lohmeier defends qualifications for Air Force post as senators question past remarks
 - <a href="https://www.nasa.gov/missions/chandra/nasas-chandra-diagnoses-cause-of-fracture-in-galactic-bone/" >🔗</a> **[NASA]** NASA’s Chandra Diagnoses Cause of Fracture in Galactic “Bone”
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/05/01/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-3/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://www.nasa.gov/image-article/adding-dimension-to-cassiopeia-a/" >🔗</a> **[NASA]** Adding Dimension to Cassiopeia A
 - <a href="https://science.nasa.gov/get-involved/citizen-science/amateur-radio-scientists-shine-at-the-2025-hamsci-workshop/" >🔗</a> **[NASA]** Amateur Radio Scientists Shine at the 2025 HamSCI Workshop
-- <a href="https://www.nasa.gov/image-article/nasa-harvests-lettuce-for-space-station-study/" >🔗</a> **[NASA]** NASA Harvests Lettuce for Space Station Study
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250501T210130">2025-05-01 21:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250501T213145">2025-05-01 21:31:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
