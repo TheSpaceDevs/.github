@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/nasa-harvests-lettuce-for-space-station-study/" >🔗</a> **[NASA]** NASA Harvests Lettuce for Space Station Study
+- <a href="https://spacenews.com/expanding-the-human-presence-in-orbit-faces-growing-risk-from-space-debris/" >🔗</a> **[SpaceNews]** Expanding the human presence in orbit faces growing risk from space debris
 - <a href="https://spacenews.com/nasa-delays-astrophysics-mission-call-for-proposals-amid-budget-uncertainties/" >🔗</a> **[SpaceNews]** NASA delays astrophysics mission call for proposals amid budget uncertainties
 - <a href="https://spacenews.com/why-space-needs-nuclear-now/" >🔗</a> **[SpaceNews]** Why space needs nuclear now
 - <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/may2025-night-sky-notes/" >🔗</a> **[NASA]** May’s Night Sky Notes: How Do We Find Exoplanets?
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-stem-programs-ignite-curiosity-beyond-the-classroom/" >🔗</a> **[NASA]** NASA STEM Programs Ignite Curiosity Beyond the Classroom
 - <a href="https://www.nasaspaceflight.com/2025/04/juno-io-jupiter-cyclones/" >🔗</a> **[NASASpaceflight]** Juno reveals Io’s inner structure and volcanic activity; investigates north pole cyclones
 - <a href="https://spacenews.com/waltz-defends-golden-dome-missile-shield-amid-partisan-divide/" >🔗</a> **[SpaceNews]** Waltz defends ‘Golden Dome’ missile shield amid partisan divide
-- <a href="https://www.nasa.gov/image-article/saxophone-in-space/" >🔗</a> **[NASA]** Saxophone in Space
-- <a href="https://science.nasa.gov/universe/the-universes-brightest-lights-have-some-dark-origins/" >🔗</a> **[NASA]** The Universe’s Brightest Lights Have Some Dark Origins
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250501T130753">2025-05-01 13:07:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250501T133620">2025-05-01 13:36:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
