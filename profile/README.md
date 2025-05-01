@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-delays-astrophysics-mission-call-for-proposals-amid-budget-uncertainties/" >🔗</a> **[SpaceNews]** NASA delays astrophysics mission call for proposals amid budget uncertainties
 - <a href="https://spacenews.com/why-space-needs-nuclear-now/" >🔗</a> **[SpaceNews]** Why space needs nuclear now
 - <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/may2025-night-sky-notes/" >🔗</a> **[NASA]** May’s Night Sky Notes: How Do We Find Exoplanets?
 - <a href="https://science.nasa.gov/blog/sols-4525-4526-the-day-after-groundhog-day-between-ghost-mountain-and-texoli-headed-south/" >🔗</a> **[NASA]** Sols 4525-4526: The Day After Groundhog Day (Between Ghost Mountain and Texoli, Headed South)
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/waltz-defends-golden-dome-missile-shield-amid-partisan-divide/" >🔗</a> **[SpaceNews]** Waltz defends ‘Golden Dome’ missile shield amid partisan divide
 - <a href="https://www.nasa.gov/image-article/saxophone-in-space/" >🔗</a> **[NASA]** Saxophone in Space
 - <a href="https://science.nasa.gov/universe/the-universes-brightest-lights-have-some-dark-origins/" >🔗</a> **[NASA]** The Universe’s Brightest Lights Have Some Dark Origins
-- <a href="https://spacenews.com/nasa-investigating-problem-with-psyche-electric-thrusters/" >🔗</a> **[SpaceNews]** NASA investigating problem with Psyche electric thrusters
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250501T113110">2025-05-01 11:31:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250501T120147">2025-05-01 12:01:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
