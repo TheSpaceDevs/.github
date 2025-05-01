@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/learning-resources/nasa-invests-in-future-stem-workforce-through-space-grant-awards/" >🔗</a> **[NASA]** NASA Invests in Future STEM Workforce Through Space Grant Awards
 - <a href="https://science.nasa.gov/solar-system/skywatching/whats-up-may-2025-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: May 2025 Skywatching Tips from NASA
 - <a href="https://spaceflightnow.com/2025/05/01/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-3/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://www.nasa.gov/image-article/adding-dimension-to-cassiopeia-a/" >🔗</a> **[NASA]** Adding Dimension to Cassiopeia A
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/ELOPE_with_ESA_s_moon_landing_guidance_competition" >🔗</a> **[ESA]** ‘ELOPE’ with ESA’s moon landing guidance competition
 - <a href="https://spacenews.com/nasa-delays-astrophysics-mission-call-for-proposals-amid-budget-uncertainties/" >🔗</a> **[SpaceNews]** NASA delays astrophysics mission call for proposals amid budget uncertainties
 - <a href="https://spacenews.com/why-space-needs-nuclear-now/" >🔗</a> **[SpaceNews]** Why space needs nuclear now
-- <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/may2025-night-sky-notes/" >🔗</a> **[NASA]** May’s Night Sky Notes: How Do We Find Exoplanets?
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250501T160144">2025-05-01 16:01:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250501T163700">2025-05-01 16:37:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
