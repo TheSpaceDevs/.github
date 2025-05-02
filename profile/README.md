@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/05/Earth_from_Space_World_s_biggest_iceberg" >🔗</a> **[ESA]** Earth from Space: World’s biggest iceberg
 - <a href="https://spacenews.com/radian-aerospace-unveils-plans-for-reentry-vehicle/" >🔗</a> **[SpaceNews]** Radian Aerospace unveils plans for reentry vehicle
 - <a href="https://spacenews.com/ursa-major-wins-28-5-million-air-force-contract-to-flight-test-draper-engine-for-hypersonic-use/" >🔗</a> **[SpaceNews]** Ursa Major wins $28.5 million Air Force contract to flight-test Draper engine for hypersonic use
 - <a href="https://www.nasa.gov/missions/spherex/nasas-spherex-space-telescope-begins-capturing-entire-sky/" >🔗</a> **[NASA]** NASA’s SPHEREx Space Telescope Begins Capturing Entire Sky
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/ebads-spacecraft-dispensing-mechanisms-propel-amazons-project-kuiper-into-orbit/" >🔗</a> **[SpaceNews]** EBAD’s Spacecraft Dispensing Mechanisms Propel Amazon’s Project Kuiper into Orbit
 - <a href="https://www.nasa.gov/learning-resources/nasa-invests-in-future-stem-workforce-through-space-grant-awards/" >🔗</a> **[NASA]** NASA Invests in Future STEM Workforce Through Space Grant Awards
 - <a href="https://science.nasa.gov/solar-system/skywatching/whats-up-may-2025-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: May 2025 Skywatching Tips from NASA
-- <a href="https://spaceflightnow.com/2025/05/01/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-3/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250502T080150">2025-05-02 08:01:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250502T083638">2025-05-02 08:36:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
