@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/lockheed-martin-delivers-completed-orion-to-nasa-for-artemis-2/" >🔗</a> **[SpaceNews]** Lockheed Martin delivers completed Orion to NASA for Artemis 2
 - <a href="https://arstechnica.com/space/2025/05/rocket-report-starbase-the-city-is-coming-soon-alpha-remains-in-beta/" >🔗</a> **[Arstechnica]** Rocket Report: Starbase the city is coming soon; Alpha remains in beta
 - <a href="https://science.nasa.gov/missions/hubble/hubble-images-a-peculiar-spiral/" >🔗</a> **[NASA]** Hubble Images a Peculiar Spiral
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/05/Earth_from_Space_World_s_biggest_iceberg" >🔗</a> **[ESA]** Earth from Space: World’s biggest iceberg
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/u-s-space-force-taps-12-firms-for-237-million-small-satellite-procurement/" >🔗</a> **[SpaceNews]** U.S. Space Force taps 12 firms for $237 million small-satellite procurement
 - <a href="https://spacenews.com/lohmeier-defends-qualifications-for-air-force-post-as-senators-question-past-remarks/" >🔗</a> **[SpaceNews]** Lohmeier defends qualifications for Air Force post as senators question past remarks
 - <a href="https://www.nasa.gov/missions/chandra/nasas-chandra-diagnoses-cause-of-fracture-in-galactic-bone/" >🔗</a> **[NASA]** NASA’s Chandra Diagnoses Cause of Fracture in Galactic “Bone”
-- <a href="https://spacenews.com/ebads-spacecraft-dispensing-mechanisms-propel-amazons-project-kuiper-into-orbit/" >🔗</a> **[SpaceNews]** EBAD’s Spacecraft Dispensing Mechanisms Propel Amazon’s Project Kuiper into Orbit
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250502T113118">2025-05-02 11:31:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250502T120156">2025-05-02 12:01:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
