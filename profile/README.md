@@ -90,7 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/america/white-house-proposes-sls-orion-lunar-gateway-cancellation-and-iss-mission-reductions" >🔗</a> **[The Launch Pad]** White House Proposes SLS, Orion, Lunar Gateway Cancellation & ISS Mission Reductions
 - <a href="https://spacenews.com/europe-begins-probing-ses-intelsat-merger-on-competition-grounds/" >🔗</a> **[SpaceNews]** Europe begins probing SES–Intelsat merger on competition grounds
+- <a href="https://www.nasaspaceflight.com/2025/05/iss-eva-93-expedition-73/" >🔗</a> **[NASASpaceflight]** Expedition 73 underway on ISS, crew perform spacewalk
 - <a href="https://www.nasa.gov/image-article/back-to-earth/" >🔗</a> **[NASA]** Back to Earth
 - <a href="https://spacenews.com/white-house-budget-proposal-would-phase-out-sls-and-orion-scale-back-iss-operations/" >🔗</a> **[SpaceNews]** White House budget proposal would phase out SLS and Orion, scale back ISS operations
 - <a href="https://arstechnica.com/space/2025/05/white-house-budget-seeks-to-end-sls-orion-and-lunar-gateway-programs/" >🔗</a> **[Arstechnica]** White House budget seeks to end SLS, Orion, and Lunar Gateway programs
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/president-trumps-fy26-budget-revitalizes-human-space-exploration/" >🔗</a> **[NASA]** President Trump’s FY26 Budget Revitalizes Human Space Exploration
 - <a href="https://spacepolicyonline.com/news/trump-proposes-6-billion-cut-to-nasa/" >🔗</a> **[SpacePolicyOnline.com]** Trump Proposes $6 Billion Cut to NASA
 - <a href="https://spacenews.com/nasa-to-continue-lunar-trailblazer-recovery-efforts-through-mid-june/" >🔗</a> **[SpaceNews]** NASA to continue Lunar Trailblazer recovery efforts through mid-June
-- <a href="https://www.nasa.gov/image-article/stennis-employee-robert-williams-contributes-to-innovative-work/" >🔗</a> **[NASA]** NASA Stennis Employee Contributes to Innovative Work
-- <a href="https://arstechnica.com/space/2025/05/eric-schmidt-apparently-bought-relativity-space-to-put-data-centers-in-orbit/" >🔗</a> **[Arstechnica]** Eric Schmidt apparently bought Relativity Space to put data centers in orbit
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250502T220129">2025-05-02 22:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250502T223516">2025-05-02 22:35:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
