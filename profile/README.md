@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/europe-begins-probing-ses-intelsat-merger-on-competition-grounds/" >🔗</a> **[SpaceNews]** Europe begins probing SES–Intelsat merger on competition grounds
 - <a href="https://www.nasa.gov/image-article/back-to-earth/" >🔗</a> **[NASA]** Back to Earth
 - <a href="https://spacenews.com/white-house-budget-proposal-would-phase-out-sls-and-orion-scale-back-iss-operations/" >🔗</a> **[SpaceNews]** White House budget proposal would phase out SLS and Orion, scale back ISS operations
 - <a href="https://arstechnica.com/space/2025/05/white-house-budget-seeks-to-end-sls-orion-and-lunar-gateway-programs/" >🔗</a> **[Arstechnica]** White House budget seeks to end SLS, Orion, and Lunar Gateway programs
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/nasa-to-continue-lunar-trailblazer-recovery-efforts-through-mid-june/" >🔗</a> **[SpaceNews]** NASA to continue Lunar Trailblazer recovery efforts through mid-June
 - <a href="https://www.nasa.gov/image-article/stennis-employee-robert-williams-contributes-to-innovative-work/" >🔗</a> **[NASA]** NASA Stennis Employee Contributes to Innovative Work
 - <a href="https://arstechnica.com/space/2025/05/eric-schmidt-apparently-bought-relativity-space-to-put-data-centers-in-orbit/" >🔗</a> **[Arstechnica]** Eric Schmidt apparently bought Relativity Space to put data centers in orbit
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Space_for_our_climate/ESA_unveils_longest-ever_dataset_on_forest_biomass" >🔗</a> **[ESA]** ESA unveils longest-ever dataset on forest biomass
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250502T210132">2025-05-02 21:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250502T213158">2025-05-02 21:31:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
