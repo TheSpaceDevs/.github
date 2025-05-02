@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/trump-proposes-6-billion-cut-to-nasa/" >🔗</a> **[SpacePolicyOnline.com]** Trump Proposes $6 Billion Cut to NASA
+- <a href="https://spacenews.com/nasa-to-continue-lunar-trailblazer-recovery-efforts-through-mid-june/" >🔗</a> **[SpaceNews]** NASA to continue Lunar Trailblazer recovery efforts through mid-June
 - <a href="https://www.nasa.gov/image-article/stennis-employee-robert-williams-contributes-to-innovative-work/" >🔗</a> **[NASA]** NASA Stennis Employee Contributes to Innovative Work
 - <a href="https://arstechnica.com/space/2025/05/eric-schmidt-apparently-bought-relativity-space-to-put-data-centers-in-orbit/" >🔗</a> **[Arstechnica]** Eric Schmidt apparently bought Relativity Space to put data centers in orbit
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Space_for_our_climate/ESA_unveils_longest-ever_dataset_on_forest_biomass" >🔗</a> **[ESA]** ESA unveils longest-ever dataset on forest biomass
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/new-polish-space-agency-chief-named-after-abrupt-exit-of-predecessor/" >🔗</a> **[European Spaceflight]** New Polish Space Agency Chief Named After Abrupt Exit of Predecessor
 - <a href="https://spacenews.com/lockheed-martin-delivers-completed-orion-to-nasa-for-artemis-2/" >🔗</a> **[SpaceNews]** Lockheed Martin delivers completed Orion to NASA for Artemis 2
 - <a href="https://arstechnica.com/space/2025/05/rocket-report-starbase-the-city-is-coming-soon-alpha-remains-in-beta/" >🔗</a> **[Arstechnica]** Rocket Report: Starbase the city is coming soon; Alpha remains in beta
-- <a href="https://science.nasa.gov/missions/hubble/hubble-images-a-peculiar-spiral/" >🔗</a> **[NASA]** Hubble Images a Peculiar Spiral
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/05/Earth_from_Space_World_s_biggest_iceberg" >🔗</a> **[ESA]** Earth from Space: World’s biggest iceberg
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250502T150124">2025-05-02 15:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250502T153348">2025-05-02 15:33:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
