@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_28_April_-_02_May_2025" >🔗</a> **[ESA]** Week in images: 28 April - 02 May 2025
+- <a href="https://spacenews.com/building-the-space-workforce-how-to-compete-for-top-talent-in-a-new-frontier/" >🔗</a> **[SpaceNews]** Building the space workforce — how to compete for top talent in a new frontier
+- <a href="https://europeanspaceflight.com/new-polish-space-agency-chief-named-after-abrupt-exit-of-predecessor/" >🔗</a> **[European Spaceflight]** New Polish Space Agency Chief Named After Abrupt Exit of Predecessor
 - <a href="https://spacenews.com/lockheed-martin-delivers-completed-orion-to-nasa-for-artemis-2/" >🔗</a> **[SpaceNews]** Lockheed Martin delivers completed Orion to NASA for Artemis 2
 - <a href="https://arstechnica.com/space/2025/05/rocket-report-starbase-the-city-is-coming-soon-alpha-remains-in-beta/" >🔗</a> **[Arstechnica]** Rocket Report: Starbase the city is coming soon; Alpha remains in beta
 - <a href="https://science.nasa.gov/missions/hubble/hubble-images-a-peculiar-spiral/" >🔗</a> **[NASA]** Hubble Images a Peculiar Spiral
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/radian-aerospace-unveils-plans-for-reentry-vehicle/" >🔗</a> **[SpaceNews]** Radian Aerospace unveils plans for reentry vehicle
 - <a href="https://spacenews.com/ursa-major-wins-28-5-million-air-force-contract-to-flight-test-draper-engine-for-hypersonic-use/" >🔗</a> **[SpaceNews]** Ursa Major wins $28.5 million Air Force contract to flight-test Draper engine for hypersonic use
 - <a href="https://www.nasa.gov/missions/spherex/nasas-spherex-space-telescope-begins-capturing-entire-sky/" >🔗</a> **[NASA]** NASA’s SPHEREx Space Telescope Begins Capturing Entire Sky
-- <a href="https://spacenews.com/u-s-space-force-taps-12-firms-for-237-million-small-satellite-procurement/" >🔗</a> **[SpaceNews]** U.S. Space Force taps 12 firms for $237 million small-satellite procurement
-- <a href="https://spacenews.com/lohmeier-defends-qualifications-for-air-force-post-as-senators-question-past-remarks/" >🔗</a> **[SpaceNews]** Lohmeier defends qualifications for Air Force post as senators question past remarks
-- <a href="https://www.nasa.gov/missions/chandra/nasas-chandra-diagnoses-cause-of-fracture-in-galactic-bone/" >🔗</a> **[NASA]** NASA’s Chandra Diagnoses Cause of Fracture in Galactic “Bone”
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250502T130808">2025-05-02 13:08:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250502T133659">2025-05-02 13:36:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
