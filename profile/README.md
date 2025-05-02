@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/white-house-budget-proposal-would-phase-out-sls-and-orion-scale-back-iss-operations/" >🔗</a> **[SpaceNews]** White House budget proposal would phase out SLS and Orion, scale back ISS operations
+- <a href="https://arstechnica.com/space/2025/05/white-house-budget-seeks-to-end-sls-orion-and-lunar-gateway-programs/" >🔗</a> **[Arstechnica]** White House budget seeks to end SLS, Orion, and Lunar Gateway programs
+- <a href="https://spacenews.com/inside-the-320b-opportunity-to-connect-the-unconnected/" >🔗</a> **[SpaceNews]** Inside the $320B Opportunity to Connect the Unconnected
+- <a href="https://www.nasa.gov/news-release/president-trumps-fy26-budget-revitalizes-human-space-exploration/" >🔗</a> **[NASA]** President Trump’s FY26 Budget Revitalizes Human Space Exploration
 - <a href="https://spacepolicyonline.com/news/trump-proposes-6-billion-cut-to-nasa/" >🔗</a> **[SpacePolicyOnline.com]** Trump Proposes $6 Billion Cut to NASA
 - <a href="https://spacenews.com/nasa-to-continue-lunar-trailblazer-recovery-efforts-through-mid-june/" >🔗</a> **[SpaceNews]** NASA to continue Lunar Trailblazer recovery efforts through mid-June
 - <a href="https://www.nasa.gov/image-article/stennis-employee-robert-williams-contributes-to-innovative-work/" >🔗</a> **[NASA]** NASA Stennis Employee Contributes to Innovative Work
 - <a href="https://arstechnica.com/space/2025/05/eric-schmidt-apparently-bought-relativity-space-to-put-data-centers-in-orbit/" >🔗</a> **[Arstechnica]** Eric Schmidt apparently bought Relativity Space to put data centers in orbit
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Space_for_our_climate/ESA_unveils_longest-ever_dataset_on_forest_biomass" >🔗</a> **[ESA]** ESA unveils longest-ever dataset on forest biomass
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_28_April_-_02_May_2025" >🔗</a> **[ESA]** Week in images: 28 April - 02 May 2025
-- <a href="https://spacenews.com/building-the-space-workforce-how-to-compete-for-top-talent-in-a-new-frontier/" >🔗</a> **[SpaceNews]** Building the space workforce — how to compete for top talent in a new frontier
-- <a href="https://europeanspaceflight.com/new-polish-space-agency-chief-named-after-abrupt-exit-of-predecessor/" >🔗</a> **[European Spaceflight]** New Polish Space Agency Chief Named After Abrupt Exit of Predecessor
-- <a href="https://spacenews.com/lockheed-martin-delivers-completed-orion-to-nasa-for-artemis-2/" >🔗</a> **[SpaceNews]** Lockheed Martin delivers completed Orion to NASA for Artemis 2
-- <a href="https://arstechnica.com/space/2025/05/rocket-report-starbase-the-city-is-coming-soon-alpha-remains-in-beta/" >🔗</a> **[Arstechnica]** Rocket Report: Starbase the city is coming soon; Alpha remains in beta
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250502T160134">2025-05-02 16:01:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250502T163716">2025-05-02 16:37:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
