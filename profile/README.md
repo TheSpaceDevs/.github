@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/05/03/live-coverage-spacex-to-launch-26-starlink-satellites-on-falcon-9-rocket-from-vandenberg/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 26 Starlink satellites on Falcon 9 rocket from Vandenberg
+- <a href="https://spaceflightnow.com/2025/05/03/proposed-24-percent-cut-to-nasa-budget-eliminates-key-artemis-architecture-climate-research/" >🔗</a> **[Spaceflight Now]** Proposed 24 percent cut to NASA budget eliminates key Artemis architecture, climate research
 - <a href="https://tlpnetwork.com/news/america/white-house-proposes-sls-orion-lunar-gateway-cancellation-and-iss-mission-reductions" >🔗</a> **[The Launch Pad]** White House Proposes SLS, Orion, Lunar Gateway Cancellation & ISS Mission Reductions
 - <a href="https://spacenews.com/europe-begins-probing-ses-intelsat-merger-on-competition-grounds/" >🔗</a> **[SpaceNews]** Europe begins probing SES–Intelsat merger on competition grounds
 - <a href="https://www.nasaspaceflight.com/2025/05/iss-eva-93-expedition-73/" >🔗</a> **[NASASpaceflight]** Expedition 73 underway on ISS, crew perform spacewalk
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2025/05/white-house-budget-seeks-to-end-sls-orion-and-lunar-gateway-programs/" >🔗</a> **[Arstechnica]** White House budget seeks to end SLS, Orion, and Lunar Gateway programs
 - <a href="https://spacenews.com/inside-the-320b-opportunity-to-connect-the-unconnected/" >🔗</a> **[SpaceNews]** Inside the $320B Opportunity to Connect the Unconnected
 - <a href="https://www.nasa.gov/news-release/president-trumps-fy26-budget-revitalizes-human-space-exploration/" >🔗</a> **[NASA]** President Trump’s FY26 Budget Revitalizes Human Space Exploration
-- <a href="https://spacepolicyonline.com/news/trump-proposes-6-billion-cut-to-nasa/" >🔗</a> **[SpacePolicyOnline.com]** Trump Proposes $6 Billion Cut to NASA
-- <a href="https://spacenews.com/nasa-to-continue-lunar-trailblazer-recovery-efforts-through-mid-june/" >🔗</a> **[SpaceNews]** NASA to continue Lunar Trailblazer recovery efforts through mid-June
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250503T120136">2025-05-03 12:01:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250503T124243">2025-05-03 12:42:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
