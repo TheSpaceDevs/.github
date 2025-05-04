@@ -92,6 +92,7 @@ The constellation will eventually consists of 13000 satellites.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/army-creates-space-career-field-for-enlisted-soldiers/" >🔗</a> **[SpaceNews]** Army creates space career field for enlisted soldiers
 - <a href="https://www.nasaspaceflight.com/2025/05/ship-35-sf-spacex-has-fleet-vehicles-flight/" >🔗</a> **[NASASpaceflight]** As Ship 35 Static Fires, SpaceX has a Fleet a Vehicles Getting Ready for Flight
 - <a href="https://spaceflightnow.com/2025/05/03/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-nasas-kennedy-space-cente/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from NASA’s Kennedy Space Center
 - <a href="https://spaceflightnow.com/2025/05/03/live-coverage-spacex-to-launch-26-starlink-satellites-on-falcon-9-rocket-from-vandenberg/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 26 Starlink satellites on Falcon 9 rocket from Vandenberg
@@ -101,7 +102,6 @@ The constellation will eventually consists of 13000 satellites.
 - <a href="https://www.nasaspaceflight.com/2025/05/iss-eva-93-expedition-73/" >🔗</a> **[NASASpaceflight]** Expedition 73 underway on ISS, crew perform spacewalk
 - <a href="https://www.nasa.gov/image-article/back-to-earth/" >🔗</a> **[NASA]** Back to Earth
 - <a href="https://spacenews.com/white-house-budget-proposal-would-phase-out-sls-and-orion-scale-back-iss-operations/" >🔗</a> **[SpaceNews]** White House budget proposal would phase out SLS and Orion, scale back ISS operations
-- <a href="https://arstechnica.com/space/2025/05/white-house-budget-seeks-to-end-sls-orion-and-lunar-gateway-programs/" >🔗</a> **[Arstechnica]** White House budget seeks to end SLS, Orion, and Lunar Gateway programs
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ The constellation will eventually consists of 13000 satellites.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250504T130632">2025-05-04 13:06:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250504T133428">2025-05-04 13:34:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
