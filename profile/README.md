@@ -92,6 +92,7 @@ The constellation will eventually consists of 13000 satellites.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blog/sols-4527-4528-boxwork-ahoy/" >🔗</a> **[NASA]** Sols 4527-4528: ‘Boxwork Ahoy!’
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-may-4-10-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy May 4-10, 2025
 - <a href="https://spacenews.com/army-creates-space-career-field-for-enlisted-soldiers/" >🔗</a> **[SpaceNews]** Army creates space career field for enlisted soldiers
 - <a href="https://www.nasaspaceflight.com/2025/05/ship-35-sf-spacex-has-fleet-vehicles-flight/" >🔗</a> **[NASASpaceflight]** As Ship 35 Static Fires, SpaceX has a Fleet a Vehicles Getting Ready for Flight
@@ -101,7 +102,6 @@ The constellation will eventually consists of 13000 satellites.
 - <a href="https://tlpnetwork.com/news/america/white-house-proposes-sls-orion-lunar-gateway-cancellation-and-iss-mission-reductions" >🔗</a> **[The Launch Pad]** White House Proposes SLS, Orion, Lunar Gateway Cancellation & ISS Mission Reductions
 - <a href="https://spacenews.com/europe-begins-probing-ses-intelsat-merger-on-competition-grounds/" >🔗</a> **[SpaceNews]** Europe begins probing SES–Intelsat merger on competition grounds
 - <a href="https://www.nasaspaceflight.com/2025/05/iss-eva-93-expedition-73/" >🔗</a> **[NASASpaceflight]** Expedition 73 underway on ISS, crew perform spacewalk
-- <a href="https://www.nasa.gov/image-article/back-to-earth/" >🔗</a> **[NASA]** Back to Earth
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ The constellation will eventually consists of 13000 satellites.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250504T230120">2025-05-04 23:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250504T233135">2025-05-04 23:31:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
