@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/the-space-economy-to-reach-944-billion-by-2033-novaspace-unveils-key-insight/" >🔗</a> **[SpaceNews]** The Space Economy to Reach $944 Billion by 2033: Novaspace Unveils Key Insight
+- <a href="https://spacenews.com/defense-spending-drives-government-space-budgets-to-historic-high/" >🔗</a> **[SpaceNews]** Defense Spending Drives Government Space Budgets to Historic High
+- <a href="https://spacenews.com/fss-capacity-pricing-faces-disruption-as-industry-shifts-from-scarcity-to-abundance/" >🔗</a> **[SpaceNews]** FSS Capacity Pricing Faces Disruption as Industry Shifts from Scarcity to Abundance
+- <a href="https://spacenews.com/inside-sda-iris%c2%b2-and-more-novaspace-unveils-major-space-programs-tracker/" >🔗</a> **[SpaceNews]** Inside SDA, IRIS², and More: Novaspace Unveils Major Space Programs Tracker
+- <a href="https://spacenews.com/novaspace-partners-with-the-colombian-space-agency-to-host-latsat-latin-americas-premier-space-conference/" >🔗</a> **[SpaceNews]** Novaspace Partners with the Colombian Space Agency to Host LATSAT, Latin America’s Premier Space Conference
+- <a href="https://spacenews.com/space-economy-faces-ticking-clock-on-collision-risk/" >🔗</a> **[SpaceNews]** Space Economy Faces Ticking Clock on Collision Risk
+- <a href="https://europeanspaceflight.com/polaris-spaceplanes-prepares-for-key-in-flight-refuelling-milestone/" >🔗</a> **[European Spaceflight]** POLARIS Spaceplanes Prepares for Key In-Flight Refuelling Milestone
 - <a href="https://science.nasa.gov/missions/webb/nasas-webb-lifts-veil-on-common-but-mysterious-type-of-exoplanet/" >🔗</a> **[NASA]** NASA’s Webb Lifts Veil on Common but Mysterious Type of Exoplanet
 - <a href="https://www.nasa.gov/general/case-studies-catalog/" >🔗</a> **[NASA]** GSFC Office of the Chief Knowledge Officer – Case Studies
 - <a href="https://spacenews.com/securing-the-skies-tackling-the-growing-threat-of-gps-interference/" >🔗</a> **[SpaceNews]** Securing the skies: tackling the growing threat of GPS interference
-- <a href="https://spacenews.com/inversion-completes-first-flight-of-reentry-vehicle-but-without-reentry/" >🔗</a> **[SpaceNews]** Inversion completes first flight of reentry vehicle, but without reentry
-- <a href="https://arstechnica.com/space/2025/05/spacex-pushed-sniper-theory-with-the-feds-far-more-than-is-publicly-known/" >🔗</a> **[Arstechnica]** SpaceX pushed “sniper” theory with the feds far more than is publicly known
-- <a href="https://science.nasa.gov/blog/sols-4527-4528-boxwork-ahoy/" >🔗</a> **[NASA]** Sols 4527-4528: ‘Boxwork Ahoy!’
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-may-4-10-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy May 4-10, 2025
-- <a href="https://spacenews.com/army-creates-space-career-field-for-enlisted-soldiers/" >🔗</a> **[SpaceNews]** Army creates space career field for enlisted soldiers
-- <a href="https://www.nasaspaceflight.com/2025/05/ship-35-sf-spacex-has-fleet-vehicles-flight/" >🔗</a> **[NASASpaceflight]** As Ship 35 Static Fires, SpaceX has a Fleet a Vehicles Getting Ready for Flight
-- <a href="https://spaceflightnow.com/2025/05/03/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-nasas-kennedy-space-cente/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from NASA’s Kennedy Space Center
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250505T150120">2025-05-05 15:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250505T153419">2025-05-05 15:34:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
