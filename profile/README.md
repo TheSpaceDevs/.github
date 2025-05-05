@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/inversion-completes-first-flight-of-reentry-vehicle-but-without-reentry/" >🔗</a> **[SpaceNews]** Inversion completes first flight of reentry vehicle, but without reentry
 - <a href="https://arstechnica.com/space/2025/05/spacex-pushed-sniper-theory-with-the-feds-far-more-than-is-publicly-known/" >🔗</a> **[Arstechnica]** SpaceX pushed “sniper” theory with the feds far more than is publicly known
 - <a href="https://science.nasa.gov/blog/sols-4527-4528-boxwork-ahoy/" >🔗</a> **[NASA]** Sols 4527-4528: ‘Boxwork Ahoy!’
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-may-4-10-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy May 4-10, 2025
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/05/03/live-coverage-spacex-to-launch-26-starlink-satellites-on-falcon-9-rocket-from-vandenberg/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 26 Starlink satellites on Falcon 9 rocket from Vandenberg
 - <a href="https://spaceflightnow.com/2025/05/03/proposed-24-percent-cut-to-nasa-budget-eliminates-key-artemis-architecture-climate-research/" >🔗</a> **[Spaceflight Now]** Proposed 24 percent cut to NASA budget eliminates key Artemis architecture, climate research
 - <a href="https://tlpnetwork.com/news/america/white-house-proposes-sls-orion-lunar-gateway-cancellation-and-iss-mission-reductions" >🔗</a> **[The Launch Pad]** White House Proposes SLS, Orion, Lunar Gateway Cancellation & ISS Mission Reductions
-- <a href="https://spacenews.com/europe-begins-probing-ses-intelsat-merger-on-competition-grounds/" >🔗</a> **[SpaceNews]** Europe begins probing SES–Intelsat merger on competition grounds
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250505T113113">2025-05-05 11:31:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250505T120206">2025-05-05 12:02:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
