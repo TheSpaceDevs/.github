@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/telecoms-veteran-to-lead-eutelsat-amid-europes-sovereign-broadband-push/" >🔗</a> **[SpaceNews]** Telecoms veteran to lead Eutelsat amid Europe’s sovereign broadband push
+- <a href="https://spacenews.com/space-force-remains-skeptical-on-satellite-refueling-show-me-the-military-advantage/" >🔗</a> **[SpaceNews]** Space Force remains skeptical on satellite refueling: ‘Show me the military advantage’
+- <a href="https://www.nasa.gov/centers-and-facilities/langley/nasa-langley-participates-in-air-power-over-hampton-roads/" >🔗</a> **[NASA]** NASA Langley Participates in Air Power Over Hampton Roads
+- <a href="https://www.nasa.gov/image-article/hubble-images-a-peculiar-spiral/" >🔗</a> **[NASA]** Hubble Images a Peculiar Spiral
 - <a href="https://www.esa.int/Newsroom/ESA_Director_General_reaction_to_a_reduced_budget_proposal_for_NASA" >🔗</a> **[ESA]** ESA Director General reaction to a reduced budget proposal for NASA
 - <a href="https://www.nasa.gov/centers-and-facilities/kennedy/nasa-kennedy-breathes-life-into-moon-soil-testing/" >🔗</a> **[NASA]** NASA Kennedy Breathes Life into Moon Soil Testing
 - <a href="https://spacenews.com/the-space-economy-to-reach-944-billion-by-2033-novaspace-unveils-key-insight/" >🔗</a> **[SpaceNews]** The Space Economy to Reach $944 Billion by 2033: Novaspace Unveils Key Insight
 - <a href="https://spacenews.com/defense-spending-drives-government-space-budgets-to-historic-high/" >🔗</a> **[SpaceNews]** Defense Spending Drives Government Space Budgets to Historic High
 - <a href="https://spacenews.com/fss-capacity-pricing-faces-disruption-as-industry-shifts-from-scarcity-to-abundance/" >🔗</a> **[SpaceNews]** FSS Capacity Pricing Faces Disruption as Industry Shifts from Scarcity to Abundance
 - <a href="https://spacenews.com/inside-sda-iris%c2%b2-and-more-novaspace-unveils-major-space-programs-tracker/" >🔗</a> **[SpaceNews]** Inside SDA, IRIS², and More: Novaspace Unveils Major Space Programs Tracker
-- <a href="https://spacenews.com/novaspace-partners-with-the-colombian-space-agency-to-host-latsat-latin-americas-premier-space-conference/" >🔗</a> **[SpaceNews]** Novaspace Partners with the Colombian Space Agency to Host LATSAT, Latin America’s Premier Space Conference
-- <a href="https://spacenews.com/space-economy-faces-ticking-clock-on-collision-risk/" >🔗</a> **[SpaceNews]** Space Economy Faces Ticking Clock on Collision Risk
-- <a href="https://europeanspaceflight.com/polaris-spaceplanes-prepares-for-key-in-flight-refuelling-milestone/" >🔗</a> **[European Spaceflight]** POLARIS Spaceplanes Prepares for Key In-Flight Refuelling Milestone
-- <a href="https://science.nasa.gov/missions/webb/nasas-webb-lifts-veil-on-common-but-mysterious-type-of-exoplanet/" >🔗</a> **[NASA]** NASA’s Webb Lifts Veil on Common but Mysterious Type of Exoplanet
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250505T190121">2025-05-05 19:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250505T193104">2025-05-05 19:31:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
