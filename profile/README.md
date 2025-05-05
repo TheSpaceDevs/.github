@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/securing-the-skies-tackling-the-growing-threat-of-gps-interference/" >🔗</a> **[SpaceNews]** Securing the skies: tackling the growing threat of GPS interference
 - <a href="https://spacenews.com/inversion-completes-first-flight-of-reentry-vehicle-but-without-reentry/" >🔗</a> **[SpaceNews]** Inversion completes first flight of reentry vehicle, but without reentry
 - <a href="https://arstechnica.com/space/2025/05/spacex-pushed-sniper-theory-with-the-feds-far-more-than-is-publicly-known/" >🔗</a> **[Arstechnica]** SpaceX pushed “sniper” theory with the feds far more than is publicly known
 - <a href="https://science.nasa.gov/blog/sols-4527-4528-boxwork-ahoy/" >🔗</a> **[NASA]** Sols 4527-4528: ‘Boxwork Ahoy!’
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/05/03/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-nasas-kennedy-space-cente/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from NASA’s Kennedy Space Center
 - <a href="https://spaceflightnow.com/2025/05/03/live-coverage-spacex-to-launch-26-starlink-satellites-on-falcon-9-rocket-from-vandenberg/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 26 Starlink satellites on Falcon 9 rocket from Vandenberg
 - <a href="https://spaceflightnow.com/2025/05/03/proposed-24-percent-cut-to-nasa-budget-eliminates-key-artemis-architecture-climate-research/" >🔗</a> **[Spaceflight Now]** Proposed 24 percent cut to NASA budget eliminates key Artemis architecture, climate research
-- <a href="https://tlpnetwork.com/news/america/white-house-proposes-sls-orion-lunar-gateway-cancellation-and-iss-mission-reductions" >🔗</a> **[The Launch Pad]** White House Proposes SLS, Orion, Lunar Gateway Cancellation & ISS Mission Reductions
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250505T130919">2025-05-05 13:09:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250505T133751">2025-05-05 13:37:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
