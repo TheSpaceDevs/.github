@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/kennedy/nasa-kennedy-breathes-life-into-moon-soil-testing/" >🔗</a> **[NASA]** NASA Kennedy Breathes Life into Moon Soil Testing
 - <a href="https://spacenews.com/the-space-economy-to-reach-944-billion-by-2033-novaspace-unveils-key-insight/" >🔗</a> **[SpaceNews]** The Space Economy to Reach $944 Billion by 2033: Novaspace Unveils Key Insight
 - <a href="https://spacenews.com/defense-spending-drives-government-space-budgets-to-historic-high/" >🔗</a> **[SpaceNews]** Defense Spending Drives Government Space Budgets to Historic High
 - <a href="https://spacenews.com/fss-capacity-pricing-faces-disruption-as-industry-shifts-from-scarcity-to-abundance/" >🔗</a> **[SpaceNews]** FSS Capacity Pricing Faces Disruption as Industry Shifts from Scarcity to Abundance
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/polaris-spaceplanes-prepares-for-key-in-flight-refuelling-milestone/" >🔗</a> **[European Spaceflight]** POLARIS Spaceplanes Prepares for Key In-Flight Refuelling Milestone
 - <a href="https://science.nasa.gov/missions/webb/nasas-webb-lifts-veil-on-common-but-mysterious-type-of-exoplanet/" >🔗</a> **[NASA]** NASA’s Webb Lifts Veil on Common but Mysterious Type of Exoplanet
 - <a href="https://www.nasa.gov/general/case-studies-catalog/" >🔗</a> **[NASA]** GSFC Office of the Chief Knowledge Officer – Case Studies
-- <a href="https://spacenews.com/securing-the-skies-tackling-the-growing-threat-of-gps-interference/" >🔗</a> **[SpaceNews]** Securing the skies: tackling the growing threat of GPS interference
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250505T170119">2025-05-05 17:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250505T173345">2025-05-05 17:33:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
