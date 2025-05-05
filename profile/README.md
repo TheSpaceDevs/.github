@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/05/spacex-pushed-sniper-theory-with-the-feds-far-more-than-is-publicly-known/" >🔗</a> **[Arstechnica]** SpaceX pushed “sniper” theory with the feds far more than is publicly known
 - <a href="https://science.nasa.gov/blog/sols-4527-4528-boxwork-ahoy/" >🔗</a> **[NASA]** Sols 4527-4528: ‘Boxwork Ahoy!’
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-may-4-10-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy May 4-10, 2025
 - <a href="https://spacenews.com/army-creates-space-career-field-for-enlisted-soldiers/" >🔗</a> **[SpaceNews]** Army creates space career field for enlisted soldiers
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/05/03/proposed-24-percent-cut-to-nasa-budget-eliminates-key-artemis-architecture-climate-research/" >🔗</a> **[Spaceflight Now]** Proposed 24 percent cut to NASA budget eliminates key Artemis architecture, climate research
 - <a href="https://tlpnetwork.com/news/america/white-house-proposes-sls-orion-lunar-gateway-cancellation-and-iss-mission-reductions" >🔗</a> **[The Launch Pad]** White House Proposes SLS, Orion, Lunar Gateway Cancellation & ISS Mission Reductions
 - <a href="https://spacenews.com/europe-begins-probing-ses-intelsat-merger-on-competition-grounds/" >🔗</a> **[SpaceNews]** Europe begins probing SES–Intelsat merger on competition grounds
-- <a href="https://www.nasaspaceflight.com/2025/05/iss-eva-93-expedition-73/" >🔗</a> **[NASASpaceflight]** Expedition 73 underway on ISS, crew perform spacewalk
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250505T110122">2025-05-05 11:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250505T113113">2025-05-05 11:31:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
