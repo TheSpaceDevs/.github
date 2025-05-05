@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blog/searching-for-spherules-to-sample/" >🔗</a> **[NASA]** Searching for Spherules to Sample
 - <a href="https://spacenews.com/telecoms-veteran-to-lead-eutelsat-amid-europes-sovereign-broadband-push/" >🔗</a> **[SpaceNews]** Telecoms veteran to lead Eutelsat amid Europe’s sovereign broadband push
 - <a href="https://spacenews.com/space-force-remains-skeptical-on-satellite-refueling-show-me-the-military-advantage/" >🔗</a> **[SpaceNews]** Space Force remains skeptical on satellite refueling: ‘Show me the military advantage’
+- <a href="https://science.nasa.gov/earth/nasa-data-helps-map-tiny-plankton-that-feed-giant-right-whales/" >🔗</a> **[NASA]** NASA Data Helps Map Tiny Plankton That Feed Giant Right Whales
 - <a href="https://www.nasa.gov/centers-and-facilities/langley/nasa-langley-participates-in-air-power-over-hampton-roads/" >🔗</a> **[NASA]** NASA Langley Participates in Air Power Over Hampton Roads
 - <a href="https://www.nasa.gov/image-article/hubble-images-a-peculiar-spiral/" >🔗</a> **[NASA]** Hubble Images a Peculiar Spiral
 - <a href="https://www.esa.int/Newsroom/ESA_Director_General_reaction_to_a_reduced_budget_proposal_for_NASA" >🔗</a> **[ESA]** ESA Director General reaction to a reduced budget proposal for NASA
 - <a href="https://www.nasa.gov/centers-and-facilities/kennedy/nasa-kennedy-breathes-life-into-moon-soil-testing/" >🔗</a> **[NASA]** NASA Kennedy Breathes Life into Moon Soil Testing
 - <a href="https://spacenews.com/the-space-economy-to-reach-944-billion-by-2033-novaspace-unveils-key-insight/" >🔗</a> **[SpaceNews]** The Space Economy to Reach $944 Billion by 2033: Novaspace Unveils Key Insight
 - <a href="https://spacenews.com/defense-spending-drives-government-space-budgets-to-historic-high/" >🔗</a> **[SpaceNews]** Defense Spending Drives Government Space Budgets to Historic High
-- <a href="https://spacenews.com/fss-capacity-pricing-faces-disruption-as-industry-shifts-from-scarcity-to-abundance/" >🔗</a> **[SpaceNews]** FSS Capacity Pricing Faces Disruption as Industry Shifts from Scarcity to Abundance
-- <a href="https://spacenews.com/inside-sda-iris%c2%b2-and-more-novaspace-unveils-major-space-programs-tracker/" >🔗</a> **[SpaceNews]** Inside SDA, IRIS², and More: Novaspace Unveils Major Space Programs Tracker
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250505T210123">2025-05-05 21:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250505T213248">2025-05-05 21:32:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
