@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/05/launch-roundup-050525/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX to launch 250th mission from SLC-40
+- <a href="https://spacenews.com/pentagons-hypersonic-milestone-stratolaunch-reusable-vehicle-breaks-mach-5/" >🔗</a> **[SpaceNews]** Pentagon’s hypersonic milestone: Stratolaunch reusable vehicle breaks Mach 5
 - <a href="https://science.nasa.gov/blog/searching-for-spherules-to-sample/" >🔗</a> **[NASA]** Searching for Spherules to Sample
 - <a href="https://spacenews.com/telecoms-veteran-to-lead-eutelsat-amid-europes-sovereign-broadband-push/" >🔗</a> **[SpaceNews]** Telecoms veteran to lead Eutelsat amid Europe’s sovereign broadband push
 - <a href="https://spacenews.com/space-force-remains-skeptical-on-satellite-refueling-show-me-the-military-advantage/" >🔗</a> **[SpaceNews]** Space Force remains skeptical on satellite refueling: ‘Show me the military advantage’
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/hubble-images-a-peculiar-spiral/" >🔗</a> **[NASA]** Hubble Images a Peculiar Spiral
 - <a href="https://www.esa.int/Newsroom/ESA_Director_General_reaction_to_a_reduced_budget_proposal_for_NASA" >🔗</a> **[ESA]** ESA Director General reaction to a reduced budget proposal for NASA
 - <a href="https://www.nasa.gov/centers-and-facilities/kennedy/nasa-kennedy-breathes-life-into-moon-soil-testing/" >🔗</a> **[NASA]** NASA Kennedy Breathes Life into Moon Soil Testing
-- <a href="https://spacenews.com/the-space-economy-to-reach-944-billion-by-2033-novaspace-unveils-key-insight/" >🔗</a> **[SpaceNews]** The Space Economy to Reach $944 Billion by 2033: Novaspace Unveils Key Insight
-- <a href="https://spacenews.com/defense-spending-drives-government-space-budgets-to-historic-high/" >🔗</a> **[SpaceNews]** Defense Spending Drives Government Space Budgets to Historic High
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250505T220130">2025-05-05 22:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250505T223514">2025-05-05 22:35:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
