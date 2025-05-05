@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Newsroom/ESA_Director_General_reaction_to_a_reduced_budget_proposal_for_NASA" >🔗</a> **[ESA]** ESA Director General reaction to a reduced budget proposal for NASA
 - <a href="https://www.nasa.gov/centers-and-facilities/kennedy/nasa-kennedy-breathes-life-into-moon-soil-testing/" >🔗</a> **[NASA]** NASA Kennedy Breathes Life into Moon Soil Testing
 - <a href="https://spacenews.com/the-space-economy-to-reach-944-billion-by-2033-novaspace-unveils-key-insight/" >🔗</a> **[SpaceNews]** The Space Economy to Reach $944 Billion by 2033: Novaspace Unveils Key Insight
 - <a href="https://spacenews.com/defense-spending-drives-government-space-budgets-to-historic-high/" >🔗</a> **[SpaceNews]** Defense Spending Drives Government Space Budgets to Historic High
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/space-economy-faces-ticking-clock-on-collision-risk/" >🔗</a> **[SpaceNews]** Space Economy Faces Ticking Clock on Collision Risk
 - <a href="https://europeanspaceflight.com/polaris-spaceplanes-prepares-for-key-in-flight-refuelling-milestone/" >🔗</a> **[European Spaceflight]** POLARIS Spaceplanes Prepares for Key In-Flight Refuelling Milestone
 - <a href="https://science.nasa.gov/missions/webb/nasas-webb-lifts-veil-on-common-but-mysterious-type-of-exoplanet/" >🔗</a> **[NASA]** NASA’s Webb Lifts Veil on Common but Mysterious Type of Exoplanet
-- <a href="https://www.nasa.gov/general/case-studies-catalog/" >🔗</a> **[NASA]** GSFC Office of the Chief Knowledge Officer – Case Studies
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250505T180128">2025-05-05 18:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250505T183640">2025-05-05 18:36:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
