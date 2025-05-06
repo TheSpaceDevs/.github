@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/05/faa-clears-spacex-for-25-launches-a-year-from-its-texas-launch-site/" >🔗</a> **[Arstechnica]** FAA clears SpaceX for 25 launches a year from its Texas launch site
+- <a href="https://spacenews.com/space-force-awards-contracts-for-missile-warning-ground-systems/" >🔗</a> **[SpaceNews]** Space Force awards contracts for missile-warning ground systems
 - <a href="https://www.nasa.gov/general/nasa-progresses-toward-crewed-moon-mission-with-spacecraft-rocket-milestones/" >🔗</a> **[NASA]** NASA Progresses Toward Crewed Moon Mission with Spacecraft, Rocket Milestones
 - <a href="https://www.nasa.gov/image-article/spherex-starts-scanning-entire-sky/" >🔗</a> **[NASA]** SPHEREx Starts Scanning Entire Sky
 - <a href="https://spacenews.com/spacewerx-selects-cambrian-works-for-a-1-25m-phase-ii-contract/" >🔗</a> **[SpaceNews]** SpaceWERX Selects Cambrian Works for a $1.25M Phase II Contract
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/esa-chief-responds-to-proposed-nasa-budget-cuts/" >🔗</a> **[European Spaceflight]** ESA Chief Responds to Proposed NASA Budget Cuts
 - <a href="https://www.nasa.gov/missions/station/spot-the-station-frequently-asked-questions/" >🔗</a> **[NASA]** Spot the Station Frequently Asked Questions
 - <a href="https://spacenews.com/starlink-outpaces-launches-spacex-enters-new-era-of-profitability/" >🔗</a> **[SpaceNews]** Starlink Outpaces Launches: SpaceX Enters New Era of Profitability
-- <a href="https://www.nasa.gov/technology/space-comms/nasa-expands-spherex-science-return-through-commercial-partnership/" >🔗</a> **[NASA]** NASA Expands SPHEREx Science Return Through Commercial Partnership
-- <a href="https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/quantum-sensing-via-matter-wave-interferometry-aboard-the-international-space-station/" >🔗</a> **[NASA]** Quantum Sensing via Matter-Wave Interferometry Aboard the International Space Station
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250506T190124">2025-05-06 19:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250506T193107">2025-05-06 19:31:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
