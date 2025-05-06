@@ -104,12 +104,14 @@ into *a Low Earth Orbit
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2025/05/06/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-4/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Cape Canaveral
+- <a href="https://www.nasaspaceflight.com/2025/05/launch-roundup-050525/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX to launch 250th mission from SLC-40
 - <a href="https://www.nasaspaceflight.com/2025/04/launch-roundup-042925/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Starlink missions fill launch manifest, Biomass and Alpha launch
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250506T060136">2025-05-06 06:01:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250506T063849">2025-05-06 06:38:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
