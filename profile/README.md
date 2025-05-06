@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacenews-appoints-adam-griffiths-as-chief-product-officer-to-lead-new-era-of-product-innovation/" >🔗</a> **[SpaceNews]** SpaceNews Appoints Adam Griffiths as Chief Product Officer to Lead New Era of Product Innovation
+- <a href="https://science.nasa.gov/universe/nasas-nicer-maps-debris-from-recurring-cosmic-crashes/" >🔗</a> **[NASA]** NASA’s NICER Maps Debris From Recurring Cosmic Crashes
 - <a href="https://europeanspaceflight.com/esa-chief-responds-to-proposed-nasa-budget-cuts/" >🔗</a> **[European Spaceflight]** ESA Chief Responds to Proposed NASA Budget Cuts
 - <a href="https://www.nasa.gov/missions/station/spot-the-station-frequently-asked-questions/" >🔗</a> **[NASA]** Spot the Station Frequently Asked Questions
 - <a href="https://spacenews.com/starlink-outpaces-launches-spacex-enters-new-era-of-profitability/" >🔗</a> **[SpaceNews]** Starlink Outpaces Launches: SpaceX Enters New Era of Profitability
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/the-u-s-is-risking-its-economic-and-defense-leadership-in-low-earth-orbit/" >🔗</a> **[SpaceNews]** The U.S. is risking its economic and defense leadership in low Earth orbit
 - <a href="https://arstechnica.com/space/2025/05/tuesday-telescope-its-not-space-weather-but-weather-from-space/" >🔗</a> **[Arstechnica]** Tuesday Telescope: It’s not space weather, but weather from space
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/nilufar-ramji-shaping-johnsons-giant-leaps-forward/" >🔗</a> **[NASA]** Nilufar Ramji: Shaping Johnson’s Giant Leaps Forward
-- <a href="https://science.nasa.gov/blog/sols-4529-4531-honeycombs-and-waffles-on-mars/" >🔗</a> **[NASA]** Sols 4529-4531: Honeycombs and Waffles… on Mars!
-- <a href="https://spacepolicyonline.com/news/esa-reacts-to-proposed-nasa-budget-cuts/" >🔗</a> **[SpacePolicyOnline.com]** ESA Reacts to Proposed NASA Budget Cuts
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250506T160133">2025-05-06 16:01:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250506T163652">2025-05-06 16:36:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
