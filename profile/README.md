@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/nasa-progresses-toward-crewed-moon-mission-with-spacecraft-rocket-milestones/" >🔗</a> **[NASA]** NASA Progresses Toward Crewed Moon Mission with Spacecraft, Rocket Milestones
+- <a href="https://www.nasa.gov/image-article/spherex-starts-scanning-entire-sky/" >🔗</a> **[NASA]** SPHEREx Starts Scanning Entire Sky
 - <a href="https://spacenews.com/spacewerx-selects-cambrian-works-for-a-1-25m-phase-ii-contract/" >🔗</a> **[SpaceNews]** SpaceWERX Selects Cambrian Works for a $1.25M Phase II Contract
 - <a href="https://spacenews.com/spacenews-appoints-adam-griffiths-as-chief-product-officer-to-lead-new-era-of-product-innovation/" >🔗</a> **[SpaceNews]** SpaceNews Appoints Adam Griffiths as Chief Product Officer to Lead New Era of Product Innovation
 - <a href="https://science.nasa.gov/universe/nasas-nicer-maps-debris-from-recurring-cosmic-crashes/" >🔗</a> **[NASA]** NASA’s NICER Maps Debris From Recurring Cosmic Crashes
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/starlink-outpaces-launches-spacex-enters-new-era-of-profitability/" >🔗</a> **[SpaceNews]** Starlink Outpaces Launches: SpaceX Enters New Era of Profitability
 - <a href="https://www.nasa.gov/technology/space-comms/nasa-expands-spherex-science-return-through-commercial-partnership/" >🔗</a> **[NASA]** NASA Expands SPHEREx Science Return Through Commercial Partnership
 - <a href="https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/quantum-sensing-via-matter-wave-interferometry-aboard-the-international-space-station/" >🔗</a> **[NASA]** Quantum Sensing via Matter-Wave Interferometry Aboard the International Space Station
-- <a href="https://spacenews.com/the-u-s-is-risking-its-economic-and-defense-leadership-in-low-earth-orbit/" >🔗</a> **[SpaceNews]** The U.S. is risking its economic and defense leadership in low Earth orbit
-- <a href="https://arstechnica.com/space/2025/05/tuesday-telescope-its-not-space-weather-but-weather-from-space/" >🔗</a> **[Arstechnica]** Tuesday Telescope: It’s not space weather, but weather from space
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250506T180132">2025-05-06 18:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250506T183749">2025-05-06 18:37:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
