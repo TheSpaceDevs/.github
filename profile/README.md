@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasas-ixpe-reveals-x-ray-generating-particles-in-black-hole-jets/" >🔗</a> **[NASA]** NASA’s IXPE Reveals X-ray-Generating Particles in Black Hole Jets
 - <a href="https://arstechnica.com/space/2025/05/faa-clears-spacex-for-25-launches-a-year-from-its-texas-launch-site/" >🔗</a> **[Arstechnica]** FAA clears SpaceX for 25 launches a year from its Texas launch site
 - <a href="https://spacenews.com/space-force-awards-contracts-for-missile-warning-ground-systems/" >🔗</a> **[SpaceNews]** Space Force awards contracts for missile-warning ground systems
 - <a href="https://www.nasa.gov/general/nasa-progresses-toward-crewed-moon-mission-with-spacecraft-rocket-milestones/" >🔗</a> **[NASA]** NASA Progresses Toward Crewed Moon Mission with Spacecraft, Rocket Milestones
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/universe/nasas-nicer-maps-debris-from-recurring-cosmic-crashes/" >🔗</a> **[NASA]** NASA’s NICER Maps Debris From Recurring Cosmic Crashes
 - <a href="https://europeanspaceflight.com/esa-chief-responds-to-proposed-nasa-budget-cuts/" >🔗</a> **[European Spaceflight]** ESA Chief Responds to Proposed NASA Budget Cuts
 - <a href="https://www.nasa.gov/missions/station/spot-the-station-frequently-asked-questions/" >🔗</a> **[NASA]** Spot the Station Frequently Asked Questions
-- <a href="https://spacenews.com/starlink-outpaces-launches-spacex-enters-new-era-of-profitability/" >🔗</a> **[SpaceNews]** Starlink Outpaces Launches: SpaceX Enters New Era of Profitability
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250506T200141">2025-05-06 20:01:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250506T203439">2025-05-06 20:34:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
