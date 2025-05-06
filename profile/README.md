@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-chief-makes-case-for-increased-funding-before-house-panel/" >🔗</a> **[SpaceNews]** Space Force chief makes case for increased funding before House panel
 - <a href="https://spacenews.com/indias-satellite-crackdown-brings-fresh-challenges-for-starlink-and-oneweb/" >🔗</a> **[SpaceNews]** India’s satellite crackdown brings fresh challenges for Starlink and OneWeb
 - <a href="https://spacenews.com/faa-gives-environmental-approval-for-increased-starship-launch-rate/" >🔗</a> **[SpaceNews]** FAA gives environmental approval for increased Starship launch rate
 - <a href="https://www.nasa.gov/news-release/nasa-live-coverage-original-content-now-streaming-on-prime-video/" >🔗</a> **[NASA]** NASA Live Coverage, Original Content Now Streaming on Prime Video
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/general/nasa-progresses-toward-crewed-moon-mission-with-spacecraft-rocket-milestones/" >🔗</a> **[NASA]** NASA Progresses Toward Crewed Moon Mission with Spacecraft, Rocket Milestones
 - <a href="https://www.nasa.gov/image-article/spherex-starts-scanning-entire-sky/" >🔗</a> **[NASA]** SPHEREx Starts Scanning Entire Sky
 - <a href="https://spacenews.com/spacewerx-selects-cambrian-works-for-a-1-25m-phase-ii-contract/" >🔗</a> **[SpaceNews]** SpaceWERX Selects Cambrian Works for a $1.25M Phase II Contract
-- <a href="https://spacenews.com/spacenews-appoints-adam-griffiths-as-chief-product-officer-to-lead-new-era-of-product-innovation/" >🔗</a> **[SpaceNews]** SpaceNews Appoints Adam Griffiths as Chief Product Officer to Lead New Era of Product Innovation
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250506T220118">2025-05-06 22:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250506T223458">2025-05-06 22:34:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
