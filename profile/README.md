@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/05/06/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-4/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacenews.com/nasa-budget-proposal-draws-strong-criticism/" >🔗</a> **[SpaceNews]** NASA budget proposal draws strong criticism
 - <a href="https://www.nasaspaceflight.com/2025/05/launch-roundup-050525/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX to launch 250th mission from SLC-40
 - <a href="https://spacenews.com/pentagons-hypersonic-milestone-stratolaunch-reusable-vehicle-breaks-mach-5/" >🔗</a> **[SpaceNews]** Pentagon’s hypersonic milestone: Stratolaunch reusable vehicle breaks Mach 5
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/earth/nasa-data-helps-map-tiny-plankton-that-feed-giant-right-whales/" >🔗</a> **[NASA]** NASA Data Helps Map Tiny Plankton That Feed Giant Right Whales
 - <a href="https://www.nasa.gov/centers-and-facilities/langley/nasa-langley-participates-in-air-power-over-hampton-roads/" >🔗</a> **[NASA]** NASA Langley Participates in Air Power Over Hampton Roads
 - <a href="https://www.nasa.gov/image-article/hubble-images-a-peculiar-spiral/" >🔗</a> **[NASA]** Hubble Images a Peculiar Spiral
-- <a href="https://www.esa.int/Newsroom/ESA_Director_General_reaction_to_a_reduced_budget_proposal_for_NASA" >🔗</a> **[ESA]** ESA Director General reaction to a reduced budget proposal for NASA
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250506T000512">2025-05-06 00:05:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250506T004557">2025-05-06 00:45:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
