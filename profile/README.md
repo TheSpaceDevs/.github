@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/indias-satellite-crackdown-brings-fresh-challenges-for-starlink-and-oneweb/" >🔗</a> **[SpaceNews]** India’s satellite crackdown brings fresh challenges for Starlink and OneWeb
+- <a href="https://spacenews.com/faa-gives-environmental-approval-for-increased-starship-launch-rate/" >🔗</a> **[SpaceNews]** FAA gives environmental approval for increased Starship launch rate
+- <a href="https://www.nasa.gov/news-release/nasa-live-coverage-original-content-now-streaming-on-prime-video/" >🔗</a> **[NASA]** NASA Live Coverage, Original Content Now Streaming on Prime Video
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasas-ixpe-reveals-x-ray-generating-particles-in-black-hole-jets/" >🔗</a> **[NASA]** NASA’s IXPE Reveals X-ray-Generating Particles in Black Hole Jets
 - <a href="https://arstechnica.com/space/2025/05/faa-clears-spacex-for-25-launches-a-year-from-its-texas-launch-site/" >🔗</a> **[Arstechnica]** FAA clears SpaceX for 25 launches a year from its Texas launch site
 - <a href="https://spacenews.com/space-force-awards-contracts-for-missile-warning-ground-systems/" >🔗</a> **[SpaceNews]** Space Force awards contracts for missile-warning ground systems
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/spherex-starts-scanning-entire-sky/" >🔗</a> **[NASA]** SPHEREx Starts Scanning Entire Sky
 - <a href="https://spacenews.com/spacewerx-selects-cambrian-works-for-a-1-25m-phase-ii-contract/" >🔗</a> **[SpaceNews]** SpaceWERX Selects Cambrian Works for a $1.25M Phase II Contract
 - <a href="https://spacenews.com/spacenews-appoints-adam-griffiths-as-chief-product-officer-to-lead-new-era-of-product-innovation/" >🔗</a> **[SpaceNews]** SpaceNews Appoints Adam Griffiths as Chief Product Officer to Lead New Era of Product Innovation
-- <a href="https://science.nasa.gov/universe/nasas-nicer-maps-debris-from-recurring-cosmic-crashes/" >🔗</a> **[NASA]** NASA’s NICER Maps Debris From Recurring Cosmic Crashes
-- <a href="https://europeanspaceflight.com/esa-chief-responds-to-proposed-nasa-budget-cuts/" >🔗</a> **[European Spaceflight]** ESA Chief Responds to Proposed NASA Budget Cuts
-- <a href="https://www.nasa.gov/missions/station/spot-the-station-frequently-asked-questions/" >🔗</a> **[NASA]** Spot the Station Frequently Asked Questions
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250506T210133">2025-05-06 21:01:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250506T213240">2025-05-06 21:32:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
