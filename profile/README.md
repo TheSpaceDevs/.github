@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/station/spot-the-station-frequently-asked-questions/" >🔗</a> **[NASA]** Spot the Station Frequently Asked Questions
+- <a href="https://spacenews.com/starlink-outpaces-launches-spacex-enters-new-era-of-profitability/" >🔗</a> **[SpaceNews]** Starlink Outpaces Launches: SpaceX Enters New Era of Profitability
+- <a href="https://www.nasa.gov/technology/space-comms/nasa-expands-spherex-science-return-through-commercial-partnership/" >🔗</a> **[NASA]** NASA Expands SPHEREx Science Return Through Commercial Partnership
+- <a href="https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/quantum-sensing-via-matter-wave-interferometry-aboard-the-international-space-station/" >🔗</a> **[NASA]** Quantum Sensing via Matter-Wave Interferometry Aboard the International Space Station
 - <a href="https://spacenews.com/the-u-s-is-risking-its-economic-and-defense-leadership-in-low-earth-orbit/" >🔗</a> **[SpaceNews]** The U.S. is risking its economic and defense leadership in low Earth orbit
 - <a href="https://arstechnica.com/space/2025/05/tuesday-telescope-its-not-space-weather-but-weather-from-space/" >🔗</a> **[Arstechnica]** Tuesday Telescope: It’s not space weather, but weather from space
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/nilufar-ramji-shaping-johnsons-giant-leaps-forward/" >🔗</a> **[NASA]** Nilufar Ramji: Shaping Johnson’s Giant Leaps Forward
 - <a href="https://science.nasa.gov/blog/sols-4529-4531-honeycombs-and-waffles-on-mars/" >🔗</a> **[NASA]** Sols 4529-4531: Honeycombs and Waffles… on Mars!
 - <a href="https://spacepolicyonline.com/news/esa-reacts-to-proposed-nasa-budget-cuts/" >🔗</a> **[SpacePolicyOnline.com]** ESA Reacts to Proposed NASA Budget Cuts
 - <a href="https://spaceflightnow.com/2025/05/06/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-4/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Cape Canaveral
-- <a href="https://spacenews.com/nasa-budget-proposal-draws-strong-criticism/" >🔗</a> **[SpaceNews]** NASA budget proposal draws strong criticism
-- <a href="https://www.nasaspaceflight.com/2025/05/launch-roundup-050525/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX to launch 250th mission from SLC-40
-- <a href="https://spacenews.com/pentagons-hypersonic-milestone-stratolaunch-reusable-vehicle-breaks-mach-5/" >🔗</a> **[SpaceNews]** Pentagon’s hypersonic milestone: Stratolaunch reusable vehicle breaks Mach 5
-- <a href="https://science.nasa.gov/blog/searching-for-spherules-to-sample/" >🔗</a> **[NASA]** Searching for Spherules to Sample
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250506T140131">2025-05-06 14:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250506T143600">2025-05-06 14:36:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
