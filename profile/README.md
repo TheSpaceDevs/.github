@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/05/tuesday-telescope-its-not-space-weather-but-weather-from-space/" >🔗</a> **[Arstechnica]** Tuesday Telescope: It’s not space weather, but weather from space
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/nilufar-ramji-shaping-johnsons-giant-leaps-forward/" >🔗</a> **[NASA]** Nilufar Ramji: Shaping Johnson’s Giant Leaps Forward
 - <a href="https://science.nasa.gov/blog/sols-4529-4531-honeycombs-and-waffles-on-mars/" >🔗</a> **[NASA]** Sols 4529-4531: Honeycombs and Waffles… on Mars!
 - <a href="https://spacepolicyonline.com/news/esa-reacts-to-proposed-nasa-budget-cuts/" >🔗</a> **[SpacePolicyOnline.com]** ESA Reacts to Proposed NASA Budget Cuts
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/pentagons-hypersonic-milestone-stratolaunch-reusable-vehicle-breaks-mach-5/" >🔗</a> **[SpaceNews]** Pentagon’s hypersonic milestone: Stratolaunch reusable vehicle breaks Mach 5
 - <a href="https://science.nasa.gov/blog/searching-for-spherules-to-sample/" >🔗</a> **[NASA]** Searching for Spherules to Sample
 - <a href="https://spacenews.com/telecoms-veteran-to-lead-eutelsat-amid-europes-sovereign-broadband-push/" >🔗</a> **[SpaceNews]** Telecoms veteran to lead Eutelsat amid Europe’s sovereign broadband push
-- <a href="https://spacenews.com/space-force-remains-skeptical-on-satellite-refueling-show-me-the-military-advantage/" >🔗</a> **[SpaceNews]** Space Force remains skeptical on satellite refueling: ‘Show me the military advantage’
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250506T120219">2025-05-06 12:02:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250506T124321">2025-05-06 12:43:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
