@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/leshin-to-step-down-as-jpl-director/" >🔗</a> **[SpaceNews]** Leshin to step down as JPL director
+- <a href="https://spacepolicyonline.com/news/trump-nominates-cacis-matt-anderson-as-nasa-deputy-administrator/" >🔗</a> **[SpacePolicyOnline.com]** Trump Nominates CACI’s Matt Anderson as NASA Deputy Administrator
 - <a href="https://spacenews.com/ionq-to-acquire-capella-space-in-bid-to-build-ultra-secure-quantum-network/" >🔗</a> **[SpaceNews]** IonQ to acquire Capella Space in bid to build ultra-secure quantum network
 - <a href="https://spacenews.com/retired-air-force-officer-nominated-to-be-nasa-deputy-administrator/" >🔗</a> **[SpaceNews]** Retired Air Force officer nominated to be NASA deputy administrator
 - <a href="https://www.nasa.gov/news-release/nasa-statement-on-nomination-of-matt-anderson-for-deputy-administrator/" >🔗</a> **[NASA]** NASA Statement on Nomination of Matt Anderson for Deputy Administrator
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/missions/roman-space-telescope/key-portion-of-nasas-roman-space-telescope-clears-thermal-vacuum-test/" >🔗</a> **[NASA]** Key Portion of NASA’s Roman Space Telescope Clears Thermal Vacuum Test
 - <a href="https://www.nasa.gov/image-article/a-glimpse-of-a-meatball/" >🔗</a> **[NASA]** A Glimpse of a Meatball
 - <a href="https://science.nasa.gov/missions/webb/new-visualization-from-nasas-webb-telescope-explores-cosmic-cliffs/" >🔗</a> **[NASA]** New Visualization From NASA’s Webb Telescope Explores Cosmic Cliffs
-- <a href="https://www.nasa.gov/news-release/nasa-statement-on-appointment-of-new-jpl-director/" >🔗</a> **[NASA]** NASA Statement on Appointment of  New JPL Director
-- <a href="https://www.nasa.gov/centers-and-facilities/jpl/dave-gallagher-named-11th-director-of-jpl-as-laurie-leshin-steps-down/" >🔗</a> **[NASA]** Dave Gallagher Named 11th Director of JPL as Laurie Leshin Steps Down
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250507T230132">2025-05-07 23:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250507T233337">2025-05-07 23:33:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
