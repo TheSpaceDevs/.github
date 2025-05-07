@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/resilience-lunar-lander-enters-orbit-around-the-moon/" >🔗</a> **[SpaceNews]** Resilience lunar lander enters orbit around the moon
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Biomass/Forest_satellite_s_big_antenna_opens_up" >🔗</a> **[ESA]** Forest satellite’s big antenna opens up
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/05/Research_Fellows_in_space_science_2025" >🔗</a> **[ESA]** Research Fellows in space science 2025
 - <a href="https://www.esa.int/About_Us/Branding_and_Partnerships/ESA_and_PLAYMOBIL_join_forces_to_inspire_the_next_generation_of_space_explorers" >🔗</a> **[ESA]** ESA and PLAYMOBIL join forces to inspire the next generation of space explorers
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-live-coverage-original-content-now-streaming-on-prime-video/" >🔗</a> **[NASA]** NASA Live Coverage, Original Content Now Streaming on Prime Video
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasas-ixpe-reveals-x-ray-generating-particles-in-black-hole-jets/" >🔗</a> **[NASA]** NASA’s IXPE Reveals X-ray-Generating Particles in Black Hole Jets
 - <a href="https://arstechnica.com/space/2025/05/faa-clears-spacex-for-25-launches-a-year-from-its-texas-launch-site/" >🔗</a> **[Arstechnica]** FAA clears SpaceX for 25 launches a year from its Texas launch site
-- <a href="https://spacenews.com/space-force-awards-contracts-for-missile-warning-ground-systems/" >🔗</a> **[SpaceNews]** Space Force awards contracts for missile-warning ground systems
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250507T113139">2025-05-07 11:31:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250507T120202">2025-05-07 12:02:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
