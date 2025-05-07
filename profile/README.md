@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/05/nasa-scrambles-to-cut-iss-activity-after-trump-budget-its-options-are-not-great/" >🔗</a> **[Arstechnica]** NASA scrambles to cut ISS activity after Trump budget—its options are not great
+- <a href="https://spacenews.com/why-nasa-should-apply-the-clps-mindset-to-low-cost-science-missions-not-just-landers/" >🔗</a> **[SpaceNews]** Why NASA should apply the CLPS mindset to low-cost science missions, not just landers
 - <a href="https://spacenews.com/house-democrats-seek-information-from-nasa-and-the-pentagon-on-musk-conflicts-of-interest-and-spacex-foreign-investment/" >🔗</a> **[SpaceNews]** House Democrats seek information from NASA and the Pentagon on Musk conflicts of interest and SpaceX foreign investment
 - <a href="https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-a-black-hole-grades-5-8/" >🔗</a> **[NASA]** What Is a Black Hole? (Grades 5-8)
 - <a href="https://spacenews.com/space-the-new-frontier-for-transatlantic-cooperation/" >🔗</a> **[SpaceNews]** Space: the new frontier for transatlantic cooperation
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Biomass/Forest_satellite_s_big_antenna_opens_up" >🔗</a> **[ESA]** Forest satellite’s big antenna opens up
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/05/Research_Fellows_in_space_science_2025" >🔗</a> **[ESA]** Research Fellows in space science 2025
 - <a href="https://www.esa.int/About_Us/Branding_and_Partnerships/ESA_and_PLAYMOBIL_join_forces_to_inspire_the_next_generation_of_space_explorers" >🔗</a> **[ESA]** ESA and PLAYMOBIL join forces to inspire the next generation of space explorers
-- <a href="https://spacenews.com/space-force-chief-makes-case-for-increased-funding-before-house-panel/" >🔗</a> **[SpaceNews]** Space Force chief makes case for increased funding before House panel
-- <a href="https://spacenews.com/indias-satellite-crackdown-brings-fresh-challenges-for-starlink-and-oneweb/" >🔗</a> **[SpaceNews]** India’s satellite crackdown brings fresh challenges for Starlink and OneWeb
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250507T150130">2025-05-07 15:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250507T153522">2025-05-07 15:35:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
