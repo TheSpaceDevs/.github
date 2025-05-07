@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-statement-on-appointment-of-new-jpl-director/" >🔗</a> **[NASA]** NASA Statement on Appointment of  New JPL Director
+- <a href="https://www.nasa.gov/centers-and-facilities/jpl/dave-gallagher-named-11th-director-of-jpl-as-laurie-leshin-steps-down/" >🔗</a> **[NASA]** Dave Gallagher Named 11th Director of JPL as Laurie Leshin Steps Down
+- <a href="https://spaceflightnow.com/2025/05/07/vast-to-complete-haven-1-primary-structure-in-july-2025-ahead-of-target-may-2026-launch-date/" >🔗</a> **[Spaceflight Now]** Vast to complete Haven-1 primary structure in July 2025, ahead of target May 2026 launch date
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-expands-youth-engagement-with-new-scouting-america-agreement/" >🔗</a> **[NASA]** NASA Expands Youth Engagement With New Scouting America Agreement
 - <a href="https://arstechnica.com/space/2025/05/nasa-scrambles-to-cut-iss-activity-after-trump-budget-its-options-are-not-great/" >🔗</a> **[Arstechnica]** NASA scrambles to cut ISS activity after Trump budget—its options are not great
 - <a href="https://spacenews.com/why-nasa-should-apply-the-clps-mindset-to-low-cost-science-missions-not-just-landers/" >🔗</a> **[SpaceNews]** Why NASA should apply the CLPS mindset to low-cost science missions, not just landers
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-a-black-hole-grades-5-8/" >🔗</a> **[NASA]** What Is a Black Hole? (Grades 5-8)
 - <a href="https://science.nasa.gov/technology/rps/nasa-selects-winners-of-the-2024-2025-power-to-explore-challenge/" >🔗</a> **[NASA]** NASA Selects Winners of the 2024-2025 Power to Explore Challenge
 - <a href="https://spacenews.com/space-the-new-frontier-for-transatlantic-cooperation/" >🔗</a> **[SpaceNews]** Space: the new frontier for transatlantic cooperation
-- <a href="https://spacenews.com/resilience-lunar-lander-enters-orbit-around-the-moon/" >🔗</a> **[SpaceNews]** Resilience lunar lander enters orbit around the moon
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Biomass/Forest_satellite_s_big_antenna_opens_up" >🔗</a> **[ESA]** Forest satellite’s big antenna opens up
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/05/Research_Fellows_in_space_science_2025" >🔗</a> **[ESA]** Research Fellows in space science 2025
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250507T170130">2025-05-07 17:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250507T173419">2025-05-07 17:34:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
