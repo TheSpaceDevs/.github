@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/roman-space-telescope/key-portion-of-nasas-roman-space-telescope-clears-thermal-vacuum-test/" >🔗</a> **[NASA]** Key Portion of NASA’s Roman Space Telescope Clears Thermal Vacuum Test
+- <a href="https://www.nasa.gov/image-article/a-glimpse-of-a-meatball/" >🔗</a> **[NASA]** A Glimpse of a Meatball
+- <a href="https://science.nasa.gov/missions/webb/new-visualization-from-nasas-webb-telescope-explores-cosmic-cliffs/" >🔗</a> **[NASA]** New Visualization From NASA’s Webb Telescope Explores Cosmic Cliffs
 - <a href="https://www.nasa.gov/news-release/nasa-statement-on-appointment-of-new-jpl-director/" >🔗</a> **[NASA]** NASA Statement on Appointment of  New JPL Director
 - <a href="https://www.nasa.gov/centers-and-facilities/jpl/dave-gallagher-named-11th-director-of-jpl-as-laurie-leshin-steps-down/" >🔗</a> **[NASA]** Dave Gallagher Named 11th Director of JPL as Laurie Leshin Steps Down
 - <a href="https://spaceflightnow.com/2025/05/07/vast-to-complete-haven-1-primary-structure-in-july-2025-ahead-of-target-may-2026-launch-date/" >🔗</a> **[Spaceflight Now]** Vast to complete Haven-1 primary structure in July 2025, ahead of target May 2026 launch date
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2025/05/nasa-scrambles-to-cut-iss-activity-after-trump-budget-its-options-are-not-great/" >🔗</a> **[Arstechnica]** NASA scrambles to cut ISS activity after Trump budget—its options are not great
 - <a href="https://spacenews.com/why-nasa-should-apply-the-clps-mindset-to-low-cost-science-missions-not-just-landers/" >🔗</a> **[SpaceNews]** Why NASA should apply the CLPS mindset to low-cost science missions, not just landers
 - <a href="https://spacenews.com/house-democrats-seek-information-from-nasa-and-the-pentagon-on-musk-conflicts-of-interest-and-spacex-foreign-investment/" >🔗</a> **[SpaceNews]** House Democrats seek information from NASA and the Pentagon on Musk conflicts of interest and SpaceX foreign investment
-- <a href="https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-a-black-hole-grades-5-8/" >🔗</a> **[NASA]** What Is a Black Hole? (Grades 5-8)
-- <a href="https://science.nasa.gov/technology/rps/nasa-selects-winners-of-the-2024-2025-power-to-explore-challenge/" >🔗</a> **[NASA]** NASA Selects Winners of the 2024-2025 Power to Explore Challenge
-- <a href="https://spacenews.com/space-the-new-frontier-for-transatlantic-cooperation/" >🔗</a> **[SpaceNews]** Space: the new frontier for transatlantic cooperation
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250507T180135">2025-05-07 18:01:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250507T183758">2025-05-07 18:37:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
