@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ionq-to-acquire-capella-space-in-bid-to-build-ultra-secure-quantum-network/" >🔗</a> **[SpaceNews]** IonQ to acquire Capella Space in bid to build ultra-secure quantum network
+- <a href="https://spacenews.com/retired-air-force-officer-nominated-to-be-nasa-deputy-administrator/" >🔗</a> **[SpaceNews]** Retired Air Force officer nominated to be NASA deputy administrator
 - <a href="https://www.nasa.gov/news-release/nasa-statement-on-nomination-of-matt-anderson-for-deputy-administrator/" >🔗</a> **[NASA]** NASA Statement on Nomination of Matt Anderson for Deputy Administrator
 - <a href="https://spacepolicyonline.com/news/laurie-leshin-steps-down-as-jpl-director/" >🔗</a> **[SpacePolicyOnline.com]** Laurie Leshin Steps Down as JPL Director
 - <a href="https://europeanspaceflight.com/the-exploration-company-ships-completed-mission-possible-capsule/" >🔗</a> **[European Spaceflight]** The Exploration Company Ships Completed Mission Possible Capsule
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/missions/webb/new-visualization-from-nasas-webb-telescope-explores-cosmic-cliffs/" >🔗</a> **[NASA]** New Visualization From NASA’s Webb Telescope Explores Cosmic Cliffs
 - <a href="https://www.nasa.gov/news-release/nasa-statement-on-appointment-of-new-jpl-director/" >🔗</a> **[NASA]** NASA Statement on Appointment of  New JPL Director
 - <a href="https://www.nasa.gov/centers-and-facilities/jpl/dave-gallagher-named-11th-director-of-jpl-as-laurie-leshin-steps-down/" >🔗</a> **[NASA]** Dave Gallagher Named 11th Director of JPL as Laurie Leshin Steps Down
-- <a href="https://spaceflightnow.com/2025/05/07/vast-to-complete-haven-1-primary-structure-in-july-2025-ahead-of-target-may-2026-launch-date/" >🔗</a> **[Spaceflight Now]** Vast to complete Haven-1 primary structure in July 2025, ahead of target May 2026 launch date
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-expands-youth-engagement-with-new-scouting-america-agreement/" >🔗</a> **[NASA]** NASA Expands Youth Engagement With New Scouting America Agreement
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250507T220132">2025-05-07 22:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250507T223514">2025-05-07 22:35:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
