@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/05/Research_Fellows_in_space_science_2025" >🔗</a> **[ESA]** Research Fellows in space science 2025
+- <a href="https://www.esa.int/About_Us/Branding_and_Partnerships/ESA_and_PLAYMOBIL_join_forces_to_inspire_the_next_generation_of_space_explorers" >🔗</a> **[ESA]** ESA and PLAYMOBIL join forces to inspire the next generation of space explorers
 - <a href="https://spacenews.com/space-force-chief-makes-case-for-increased-funding-before-house-panel/" >🔗</a> **[SpaceNews]** Space Force chief makes case for increased funding before House panel
 - <a href="https://spacenews.com/indias-satellite-crackdown-brings-fresh-challenges-for-starlink-and-oneweb/" >🔗</a> **[SpaceNews]** India’s satellite crackdown brings fresh challenges for Starlink and OneWeb
 - <a href="https://spacenews.com/faa-gives-environmental-approval-for-increased-starship-launch-rate/" >🔗</a> **[SpaceNews]** FAA gives environmental approval for increased Starship launch rate
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2025/05/faa-clears-spacex-for-25-launches-a-year-from-its-texas-launch-site/" >🔗</a> **[Arstechnica]** FAA clears SpaceX for 25 launches a year from its Texas launch site
 - <a href="https://spacenews.com/space-force-awards-contracts-for-missile-warning-ground-systems/" >🔗</a> **[SpaceNews]** Space Force awards contracts for missile-warning ground systems
 - <a href="https://www.nasa.gov/general/nasa-progresses-toward-crewed-moon-mission-with-spacecraft-rocket-milestones/" >🔗</a> **[NASA]** NASA Progresses Toward Crewed Moon Mission with Spacecraft, Rocket Milestones
-- <a href="https://www.nasa.gov/image-article/spherex-starts-scanning-entire-sky/" >🔗</a> **[NASA]** SPHEREx Starts Scanning Entire Sky
-- <a href="https://spacenews.com/spacewerx-selects-cambrian-works-for-a-1-25m-phase-ii-contract/" >🔗</a> **[SpaceNews]** SpaceWERX Selects Cambrian Works for a $1.25M Phase II Contract
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250507T080140">2025-05-07 08:01:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250507T083752">2025-05-07 08:37:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
