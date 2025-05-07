@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/laurie-leshin-steps-down-as-jpl-director/" >🔗</a> **[SpacePolicyOnline.com]** Laurie Leshin Steps Down as JPL Director
 - <a href="https://europeanspaceflight.com/the-exploration-company-ships-completed-mission-possible-capsule/" >🔗</a> **[European Spaceflight]** The Exploration Company Ships Completed Mission Possible Capsule
 - <a href="https://www.nasa.gov/missions/roman-space-telescope/key-portion-of-nasas-roman-space-telescope-clears-thermal-vacuum-test/" >🔗</a> **[NASA]** Key Portion of NASA’s Roman Space Telescope Clears Thermal Vacuum Test
 - <a href="https://www.nasa.gov/image-article/a-glimpse-of-a-meatball/" >🔗</a> **[NASA]** A Glimpse of a Meatball
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/05/07/vast-to-complete-haven-1-primary-structure-in-july-2025-ahead-of-target-may-2026-launch-date/" >🔗</a> **[Spaceflight Now]** Vast to complete Haven-1 primary structure in July 2025, ahead of target May 2026 launch date
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-expands-youth-engagement-with-new-scouting-america-agreement/" >🔗</a> **[NASA]** NASA Expands Youth Engagement With New Scouting America Agreement
 - <a href="https://arstechnica.com/space/2025/05/nasa-scrambles-to-cut-iss-activity-after-trump-budget-its-options-are-not-great/" >🔗</a> **[Arstechnica]** NASA scrambles to cut ISS activity after Trump budget—its options are not great
-- <a href="https://spacenews.com/why-nasa-should-apply-the-clps-mindset-to-low-cost-science-missions-not-just-landers/" >🔗</a> **[SpaceNews]** Why NASA should apply the CLPS mindset to low-cost science missions, not just landers
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250507T193115">2025-05-07 19:31:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250507T200143">2025-05-07 20:01:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
