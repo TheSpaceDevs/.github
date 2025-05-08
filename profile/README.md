@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-pinpoints-roaming-massive-black-hole/" >🔗</a> **[NASA]** NASA’s Hubble Pinpoints Roaming Massive Black Hole
+- <a href="https://www.nasa.gov/centers-and-facilities/stennis/stennis-first-open-source-software/" >🔗</a> **[NASA]** NASA Stennis Releases First Open-Source Software
+- <a href="https://www.nasa.gov/centers-and-facilities/stennis/stennis-software-built-for-future-growth/" >🔗</a> **[NASA]** NASA Stennis Software is Built for Future Growth
+- <a href="https://www.nasa.gov/centers-and-facilities/stennis/stennis-tool-enables-unified-collection-of-test-data/" >🔗</a> **[NASA]** NASA Stennis Tool Enables Unified Collection of Test Data
 - <a href="https://spacenews.com/buzzing-towers-with-the-navys-space-maverick/" >🔗</a> **[SpaceNews]** Buzzing towers with the Navy’s space maverick
 - <a href="https://spacenews.com/beyond-the-golden-dome-why-effective-missile-defense-begins-far-left-of-launch/" >🔗</a> **[SpaceNews]** Beyond Golden Dome: why effective missile defense begins far left of launch
 - <a href="https://spacenews.com/sierra-space-completes-ground-demo-of-navigation-satellite-for-u-s-space-force-program/" >🔗</a> **[SpaceNews]** Sierra Space completes ground demo of navigation satellite for U.S. Space Force program
 - <a href="https://spacenews.com/silicon-solar-power-specialist-gets-21-million-for-mass-production/" >🔗</a> **[SpaceNews]** Silicon solar power specialist gets $21 million for mass production
 - <a href="https://spacenews.com/nasa-backtracks-on-viper-commercial-partnership/" >🔗</a> **[SpaceNews]** NASA backtracks on VIPER commercial partnership
 - <a href="https://spacenews.com/commercial-competition-and-cooperation-at-the-moon/" >🔗</a> **[SpaceNews]** Commercial competition and cooperation at the moon
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/05/Gripping_exploration" >🔗</a> **[ESA]** Gripping exploration
-- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba-3_achieves_precise_formation_flying" >🔗</a> **[ESA]** Proba-3 achieves precise formation flying
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Plato/Plato_grows_its_many_eyes" >🔗</a> **[ESA]** Plato grows its many eyes
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/04/Vega-C_liftoff_in_slow-mo" >🔗</a> **[ESA]** Vega-C liftoff in slow-mo
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250508T140126">2025-05-08 14:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250508T143528">2025-05-08 14:35:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
