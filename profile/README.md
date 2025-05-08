@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/u-s-space-force-narrows-field-in-100-million-space-laser-terminal-program/" >🔗</a> **[SpaceNews]** U.S. Space Force narrows field in $100 million space laser terminal program
 - <a href="https://spacenews.com/military-satellite-program-highlights-role-of-mission-integrators/" >🔗</a> **[SpaceNews]** Military satellite program highlights role of ‘mission integrators’
 - <a href="https://www.nasa.gov/general/nasa-earns-two-emmy-nominations-for-2024-total-solar-eclipse-coverage/" >🔗</a> **[NASA]** NASA Earns Two Emmy Nominations for 2024 Total Solar Eclipse Coverage
 - <a href="https://www.nasa.gov/missions/chandra/nasa-telescopes-tune-into-a-black-hole-prelude-fugue/" >🔗</a> **[NASA]** NASA Telescopes Tune Into a Black Hole Prelude, Fugue
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-pinpoints-roaming-massive-black-hole/" >🔗</a> **[NASA]** NASA’s Hubble Pinpoints Roaming Massive Black Hole
 - <a href="https://www.nasa.gov/centers-and-facilities/stennis/stennis-software-built-for-future-growth/" >🔗</a> **[NASA]** NASA Stennis Software is Built for Future Growth
 - <a href="https://www.nasa.gov/centers-and-facilities/stennis/stennis-tool-enables-unified-collection-of-test-data/" >🔗</a> **[NASA]** NASA Stennis Tool Enables Unified Collection of Test Data
-- <a href="https://www.nasa.gov/centers-and-facilities/stennis/stennis-first-open-source-software/" >🔗</a> **[NASA]** NASA Stennis Releases First Open-Source Software
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250508T193103">2025-05-08 19:31:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250508T200134">2025-05-08 20:01:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
