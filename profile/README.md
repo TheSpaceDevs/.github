@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/05/spherex-punch-update/" >🔗</a> **[NASASpaceflight]** SPHEREx starts science observations while PUNCH commissioning continues
+- <a href="https://spacenews.com/german-defense-firm-partners-with-iceye-to-build-sar-satellites/" >🔗</a> **[SpaceNews]** German defense firm partners with Iceye to build SAR satellites
+- <a href="https://spacenews.com/china-issues-regulatory-framework-to-support-direct-to-device-satellite-services/" >🔗</a> **[SpaceNews]** China issues regulatory framework to support direct-to-device satellite services
 - <a href="https://www.nasa.gov/image-article/nasa-astronaut-anne-mcclain-works-on-space-station/" >🔗</a> **[NASA]** NASA Astronaut Anne McClain Works on Space Station
 - <a href="https://spacenews.com/u-s-space-force-narrows-field-in-100-million-space-laser-terminal-program/" >🔗</a> **[SpaceNews]** U.S. Space Force narrows field in $100 million space laser terminal program
 - <a href="https://spacenews.com/military-satellite-program-highlights-role-of-mission-integrators/" >🔗</a> **[SpaceNews]** Military satellite program highlights role of ‘mission integrators’
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/missions/chandra/nasa-telescopes-tune-into-a-black-hole-prelude-fugue/" >🔗</a> **[NASA]** NASA Telescopes Tune Into a Black Hole Prelude, Fugue
 - <a href="https://europeanspaceflight.com/esa-and-india-agree-to-cooperate-on-human-spaceflight/" >🔗</a> **[European Spaceflight]** ESA and India Agree to Cooperate on Human Spaceflight
 - <a href="https://spacenews.com/the-best-way-to-prepare-humans-for-mars-the-moon/" >🔗</a> **[SpaceNews]** The best way to prepare humans for Mars? The moon.
-- <a href="https://science.nasa.gov/blog/sols-4532-4533-polygon-heaven/" >🔗</a> **[NASA]** Sols 4532-4533: Polygon Heaven
-- <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-pinpoints-roaming-massive-black-hole/" >🔗</a> **[NASA]** NASA’s Hubble Pinpoints Roaming Massive Black Hole
-- <a href="https://www.nasa.gov/centers-and-facilities/stennis/stennis-software-built-for-future-growth/" >🔗</a> **[NASA]** NASA Stennis Software is Built for Future Growth
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250508T210128">2025-05-08 21:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250508T213246">2025-05-08 21:32:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
