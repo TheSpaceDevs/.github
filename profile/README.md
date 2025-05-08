@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/05/08/white-house-taps-former-air-force-colonel-for-nasa-deputy-administrator-role/" >🔗</a> **[Spaceflight Now]** White House taps former Air Force colonel for NASA Deputy Administrator role
 - <a href="https://spacenews.com/leshin-to-step-down-as-jpl-director/" >🔗</a> **[SpaceNews]** Leshin to step down as JPL director
 - <a href="https://spacepolicyonline.com/news/trump-nominates-cacis-matt-anderson-as-nasa-deputy-administrator/" >🔗</a> **[SpacePolicyOnline.com]** Trump Nominates CACI’s Matt Anderson as NASA Deputy Administrator
 - <a href="https://spacenews.com/ionq-to-acquire-capella-space-in-bid-to-build-ultra-secure-quantum-network/" >🔗</a> **[SpaceNews]** IonQ to acquire Capella Space in bid to build ultra-secure quantum network
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/the-exploration-company-ships-completed-mission-possible-capsule/" >🔗</a> **[European Spaceflight]** The Exploration Company Ships Completed Mission Possible Capsule
 - <a href="https://www.nasa.gov/missions/roman-space-telescope/key-portion-of-nasas-roman-space-telescope-clears-thermal-vacuum-test/" >🔗</a> **[NASA]** Key Portion of NASA’s Roman Space Telescope Clears Thermal Vacuum Test
 - <a href="https://www.nasa.gov/image-article/a-glimpse-of-a-meatball/" >🔗</a> **[NASA]** A Glimpse of a Meatball
-- <a href="https://science.nasa.gov/missions/webb/new-visualization-from-nasas-webb-telescope-explores-cosmic-cliffs/" >🔗</a> **[NASA]** New Visualization From NASA’s Webb Telescope Explores Cosmic Cliffs
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250508T000501">2025-05-08 00:05:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250508T004557">2025-05-08 00:45:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
