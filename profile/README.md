@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/military-satellite-program-highlights-role-of-mission-integrators/" >🔗</a> **[SpaceNews]** Military satellite program highlights role of ‘mission integrators’
 - <a href="https://www.nasa.gov/general/nasa-earns-two-emmy-nominations-for-2024-total-solar-eclipse-coverage/" >🔗</a> **[NASA]** NASA Earns Two Emmy Nominations for 2024 Total Solar Eclipse Coverage
 - <a href="https://www.nasa.gov/missions/chandra/nasa-telescopes-tune-into-a-black-hole-prelude-fugue/" >🔗</a> **[NASA]** NASA Telescopes Tune Into a Black Hole Prelude, Fugue
 - <a href="https://europeanspaceflight.com/esa-and-india-agree-to-cooperate-on-human-spaceflight/" >🔗</a> **[European Spaceflight]** ESA and India Agree to Cooperate on Human Spaceflight
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/stennis/stennis-software-built-for-future-growth/" >🔗</a> **[NASA]** NASA Stennis Software is Built for Future Growth
 - <a href="https://www.nasa.gov/centers-and-facilities/stennis/stennis-tool-enables-unified-collection-of-test-data/" >🔗</a> **[NASA]** NASA Stennis Tool Enables Unified Collection of Test Data
 - <a href="https://www.nasa.gov/centers-and-facilities/stennis/stennis-first-open-source-software/" >🔗</a> **[NASA]** NASA Stennis Releases First Open-Source Software
-- <a href="https://spacenews.com/buzzing-towers-with-the-navys-space-maverick/" >🔗</a> **[SpaceNews]** Buzzing towers with the Navy’s space maverick
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250508T190130">2025-05-08 19:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250508T193103">2025-05-08 19:31:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
