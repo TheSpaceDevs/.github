@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/esa-and-india-agree-to-cooperate-on-human-spaceflight/" >🔗</a> **[European Spaceflight]** ESA and India Agree to Cooperate on Human Spaceflight
+- <a href="https://spacenews.com/the-best-way-to-prepare-humans-for-mars-the-moon/" >🔗</a> **[SpaceNews]** The best way to prepare humans for Mars? The moon.
+- <a href="https://science.nasa.gov/blog/sols-4532-4533-polygon-heaven/" >🔗</a> **[NASA]** Sols 4532-4533: Polygon Heaven
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-pinpoints-roaming-massive-black-hole/" >🔗</a> **[NASA]** NASA’s Hubble Pinpoints Roaming Massive Black Hole
-- <a href="https://www.nasa.gov/centers-and-facilities/stennis/stennis-first-open-source-software/" >🔗</a> **[NASA]** NASA Stennis Releases First Open-Source Software
 - <a href="https://www.nasa.gov/centers-and-facilities/stennis/stennis-software-built-for-future-growth/" >🔗</a> **[NASA]** NASA Stennis Software is Built for Future Growth
+- <a href="https://www.nasa.gov/centers-and-facilities/stennis/stennis-first-open-source-software/" >🔗</a> **[NASA]** NASA Stennis Releases First Open-Source Software
 - <a href="https://www.nasa.gov/centers-and-facilities/stennis/stennis-tool-enables-unified-collection-of-test-data/" >🔗</a> **[NASA]** NASA Stennis Tool Enables Unified Collection of Test Data
 - <a href="https://spacenews.com/buzzing-towers-with-the-navys-space-maverick/" >🔗</a> **[SpaceNews]** Buzzing towers with the Navy’s space maverick
 - <a href="https://spacenews.com/beyond-the-golden-dome-why-effective-missile-defense-begins-far-left-of-launch/" >🔗</a> **[SpaceNews]** Beyond Golden Dome: why effective missile defense begins far left of launch
 - <a href="https://spacenews.com/sierra-space-completes-ground-demo-of-navigation-satellite-for-u-s-space-force-program/" >🔗</a> **[SpaceNews]** Sierra Space completes ground demo of navigation satellite for U.S. Space Force program
-- <a href="https://spacenews.com/silicon-solar-power-specialist-gets-21-million-for-mass-production/" >🔗</a> **[SpaceNews]** Silicon solar power specialist gets $21 million for mass production
-- <a href="https://spacenews.com/nasa-backtracks-on-viper-commercial-partnership/" >🔗</a> **[SpaceNews]** NASA backtracks on VIPER commercial partnership
-- <a href="https://spacenews.com/commercial-competition-and-cooperation-at-the-moon/" >🔗</a> **[SpaceNews]** Commercial competition and cooperation at the moon
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250508T150128">2025-05-08 15:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250508T153509">2025-05-08 15:35:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
