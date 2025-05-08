@@ -54,7 +54,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250514T154300">2025-05-14 15:43:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-67&location=Cape Canaveral SFS, FL, USA&dates=20250514T154300Z%2F20250514T194300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-67** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250515T000000">2025-05-15 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/au.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Eris-1 | Maiden Flight&location=Bowen Orbital Spaceport&dates=20250515T000000Z%2F20250515T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Eris-1 | Maiden Flight** from Bowen Orbital Spaceport.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250517T081500">2025-05-17 08:15:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | The Sea God Sees (iQPS Launch 2)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20250517T081500Z%2F20250517T081500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | The Sea God Sees (iQPS Launch 2)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250518T000000">2025-05-18 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=PSLV-XL | EOS-09 (RISAT-1B)&location=Satish Dhawan Space Centre, India&dates=20250518T000000Z%2F20250518T040000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **PSLV-XL | EOS-09 (RISAT-1B)** from Satish Dhawan Space Centre, India.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250518T000000">2025-05-18 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=PSLV-XL | EOS-09 (RISAT-1B)&location=Satish Dhawan Space Centre, India&dates=20250518T000000Z%2F20250518T040000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **PSLV-XL | EOS-09 (RISAT-1B)** from Satish Dhawan Space Centre, India.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/buzzing-towers-with-the-navys-space-maverick/" >🔗</a> **[SpaceNews]** Buzzing towers with the Navy’s space maverick
+- <a href="https://spacenews.com/beyond-the-golden-dome-why-effective-missile-defense-begins-far-left-of-launch/" >🔗</a> **[SpaceNews]** Beyond Golden Dome: why effective missile defense begins far left of launch
 - <a href="https://spacenews.com/sierra-space-completes-ground-demo-of-navigation-satellite-for-u-s-space-force-program/" >🔗</a> **[SpaceNews]** Sierra Space completes ground demo of navigation satellite for U.S. Space Force program
 - <a href="https://spacenews.com/silicon-solar-power-specialist-gets-21-million-for-mass-production/" >🔗</a> **[SpaceNews]** Silicon solar power specialist gets $21 million for mass production
 - <a href="https://spacenews.com/nasa-backtracks-on-viper-commercial-partnership/" >🔗</a> **[SpaceNews]** NASA backtracks on VIPER commercial partnership
 - <a href="https://spacenews.com/commercial-competition-and-cooperation-at-the-moon/" >🔗</a> **[SpaceNews]** Commercial competition and cooperation at the moon
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/05/Gripping_exploration" >🔗</a> **[ESA]** Gripping exploration
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba-3_achieves_precise_formation_flying" >🔗</a> **[ESA]** Proba-3 achieves precise formation flying
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/04/Vega-C_liftoff_in_slow-mo" >🔗</a> **[ESA]** Vega-C liftoff in slow-mo
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Plato/Plato_grows_its_many_eyes" >🔗</a> **[ESA]** Plato grows its many eyes
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Antarctic_glacier_caught_stealing_ice_from_neighbour" >🔗</a> **[ESA]** Antarctic glacier caught stealing ice from neighbour
-- <a href="https://spacepolicyonline.com/news/nasa-still-looking-for-a-way-to-get-viper-to-the-moon/" >🔗</a> **[SpacePolicyOnline.com]** NASA Still Looking for A Way to Get VIPER to the Moon
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/04/Vega-C_liftoff_in_slow-mo" >🔗</a> **[ESA]** Vega-C liftoff in slow-mo
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250508T130948">2025-05-08 13:09:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250508T133720">2025-05-08 13:37:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
