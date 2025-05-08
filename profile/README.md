@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-backtracks-on-viper-commercial-partnership/" >🔗</a> **[SpaceNews]** NASA backtracks on VIPER commercial partnership
 - <a href="https://spacenews.com/commercial-competition-and-cooperation-at-the-moon/" >🔗</a> **[SpaceNews]** Commercial competition and cooperation at the moon
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/05/Gripping_exploration" >🔗</a> **[ESA]** Gripping exploration
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba-3_achieves_precise_formation_flying" >🔗</a> **[ESA]** Proba-3 achieves precise formation flying
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/nasa-still-looking-for-a-way-to-get-viper-to-the-moon/" >🔗</a> **[SpacePolicyOnline.com]** NASA Still Looking for A Way to Get VIPER to the Moon
 - <a href="https://spaceflightnow.com/2025/05/08/white-house-taps-former-air-force-colonel-for-nasa-deputy-administrator-role/" >🔗</a> **[Spaceflight Now]** White House taps former Air Force colonel for NASA Deputy Administrator role
 - <a href="https://spacenews.com/leshin-to-step-down-as-jpl-director/" >🔗</a> **[SpaceNews]** Leshin to step down as JPL director
-- <a href="https://spacepolicyonline.com/news/trump-nominates-cacis-matt-anderson-as-nasa-deputy-administrator/" >🔗</a> **[SpacePolicyOnline.com]** Trump Nominates CACI’s Matt Anderson as NASA Deputy Administrator
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250508T113120">2025-05-08 11:31:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250508T120201">2025-05-08 12:02:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
