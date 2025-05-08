@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/nasa-earns-two-emmy-nominations-for-2024-total-solar-eclipse-coverage/" >🔗</a> **[NASA]** NASA Earns Two Emmy Nominations for 2024 Total Solar Eclipse Coverage
 - <a href="https://www.nasa.gov/missions/chandra/nasa-telescopes-tune-into-a-black-hole-prelude-fugue/" >🔗</a> **[NASA]** NASA Telescopes Tune Into a Black Hole Prelude, Fugue
 - <a href="https://europeanspaceflight.com/esa-and-india-agree-to-cooperate-on-human-spaceflight/" >🔗</a> **[European Spaceflight]** ESA and India Agree to Cooperate on Human Spaceflight
 - <a href="https://spacenews.com/the-best-way-to-prepare-humans-for-mars-the-moon/" >🔗</a> **[SpaceNews]** The best way to prepare humans for Mars? The moon.
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/stennis/stennis-tool-enables-unified-collection-of-test-data/" >🔗</a> **[NASA]** NASA Stennis Tool Enables Unified Collection of Test Data
 - <a href="https://www.nasa.gov/centers-and-facilities/stennis/stennis-first-open-source-software/" >🔗</a> **[NASA]** NASA Stennis Releases First Open-Source Software
 - <a href="https://spacenews.com/buzzing-towers-with-the-navys-space-maverick/" >🔗</a> **[SpaceNews]** Buzzing towers with the Navy’s space maverick
-- <a href="https://spacenews.com/beyond-the-golden-dome-why-effective-missile-defense-begins-far-left-of-launch/" >🔗</a> **[SpaceNews]** Beyond Golden Dome: why effective missile defense begins far left of launch
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250508T170132">2025-05-08 17:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250508T173401">2025-05-08 17:34:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
