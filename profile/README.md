@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/nasa-still-looking-for-a-way-to-get-viper-to-the-moon/" >🔗</a> **[SpacePolicyOnline.com]** NASA Still Looking for A Way to Get VIPER to the Moon
 - <a href="https://spaceflightnow.com/2025/05/08/white-house-taps-former-air-force-colonel-for-nasa-deputy-administrator-role/" >🔗</a> **[Spaceflight Now]** White House taps former Air Force colonel for NASA Deputy Administrator role
 - <a href="https://spacenews.com/leshin-to-step-down-as-jpl-director/" >🔗</a> **[SpaceNews]** Leshin to step down as JPL director
 - <a href="https://spacepolicyonline.com/news/trump-nominates-cacis-matt-anderson-as-nasa-deputy-administrator/" >🔗</a> **[SpacePolicyOnline.com]** Trump Nominates CACI’s Matt Anderson as NASA Deputy Administrator
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/laurie-leshin-steps-down-as-jpl-director/" >🔗</a> **[SpacePolicyOnline.com]** Laurie Leshin Steps Down as JPL Director
 - <a href="https://europeanspaceflight.com/the-exploration-company-ships-completed-mission-possible-capsule/" >🔗</a> **[European Spaceflight]** The Exploration Company Ships Completed Mission Possible Capsule
 - <a href="https://www.nasa.gov/missions/roman-space-telescope/key-portion-of-nasas-roman-space-telescope-clears-thermal-vacuum-test/" >🔗</a> **[NASA]** Key Portion of NASA’s Roman Space Telescope Clears Thermal Vacuum Test
-- <a href="https://www.nasa.gov/image-article/a-glimpse-of-a-meatball/" >🔗</a> **[NASA]** A Glimpse of a Meatball
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250508T040223">2025-05-08 04:02:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250508T043637">2025-05-08 04:36:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
