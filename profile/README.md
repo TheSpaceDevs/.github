@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/05/Gripping_exploration" >🔗</a> **[ESA]** Gripping exploration
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba-3_achieves_precise_formation_flying" >🔗</a> **[ESA]** Proba-3 achieves precise formation flying
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Plato/Plato_grows_its_many_eyes" >🔗</a> **[ESA]** Plato grows its many eyes
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/04/Vega-C_liftoff_in_slow-mo" >🔗</a> **[ESA]** Vega-C liftoff in slow-mo
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Antarctic_glacier_caught_stealing_ice_from_neighbour" >🔗</a> **[ESA]** Antarctic glacier caught stealing ice from neighbour
 - <a href="https://spacepolicyonline.com/news/nasa-still-looking-for-a-way-to-get-viper-to-the-moon/" >🔗</a> **[SpacePolicyOnline.com]** NASA Still Looking for A Way to Get VIPER to the Moon
 - <a href="https://spaceflightnow.com/2025/05/08/white-house-taps-former-air-force-colonel-for-nasa-deputy-administrator-role/" >🔗</a> **[Spaceflight Now]** White House taps former Air Force colonel for NASA Deputy Administrator role
 - <a href="https://spacenews.com/leshin-to-step-down-as-jpl-director/" >🔗</a> **[SpaceNews]** Leshin to step down as JPL director
 - <a href="https://spacepolicyonline.com/news/trump-nominates-cacis-matt-anderson-as-nasa-deputy-administrator/" >🔗</a> **[SpacePolicyOnline.com]** Trump Nominates CACI’s Matt Anderson as NASA Deputy Administrator
 - <a href="https://spacenews.com/ionq-to-acquire-capella-space-in-bid-to-build-ultra-secure-quantum-network/" >🔗</a> **[SpaceNews]** IonQ to acquire Capella Space in bid to build ultra-secure quantum network
-- <a href="https://spacenews.com/retired-air-force-officer-nominated-to-be-nasa-deputy-administrator/" >🔗</a> **[SpaceNews]** Retired Air Force officer nominated to be NASA deputy administrator
-- <a href="https://www.nasa.gov/news-release/nasa-statement-on-nomination-of-matt-anderson-for-deputy-administrator/" >🔗</a> **[NASA]** NASA Statement on Nomination of Matt Anderson for Deputy Administrator
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250508T090129">2025-05-08 09:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250508T093409">2025-05-08 09:34:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
