@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/missions/hubble/hubble-comes-face-to-face-with-spirals-arms/" >🔗</a> **[NASA]** Hubble Comes Face-to-Face with Spiral’s Arms
+- <a href="https://spacenews.com/space-force-leans-into-a-warfighting-ethos-beyond-defense/" >🔗</a> **[SpaceNews]** Space Force sharpens focus on deterring rivals
+- <a href="https://spacenews.com/china-to-launch-new-modules-to-tiangong-space-station/" >🔗</a> **[SpaceNews]** China to launch new modules to Tiangong space station
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/05/Earth_from_Space_Northwest_Sardinia_Italy" >🔗</a> **[ESA]** Earth from Space: Northwest Sardinia, Italy
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/05/Artist_s_view_of_Europe_s_launcher_family_from_2024_onwards" >🔗</a> **[ESA]** Artist's view of Europe's launcher family from 2024 onwards
 - <a href="https://spacepolicyonline.com/news/glaze-artemis-ii-could-launch-as-early-as-february-2026/" >🔗</a> **[SpacePolicyOnline.com]** Glaze: Artemis II Could Launch as Early as February 2026
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2025/05/spherex-punch-update/" >🔗</a> **[NASASpaceflight]** SPHEREx starts science observations while PUNCH commissioning continues
 - <a href="https://spacenews.com/german-defense-firm-partners-with-iceye-to-build-sar-satellites/" >🔗</a> **[SpaceNews]** German defense firm partners with Iceye to build SAR satellites
 - <a href="https://spacenews.com/china-issues-regulatory-framework-to-support-direct-to-device-satellite-services/" >🔗</a> **[SpaceNews]** China issues regulatory framework to support direct-to-device satellite services
-- <a href="https://www.nasa.gov/image-article/nasa-astronaut-anne-mcclain-works-on-space-station/" >🔗</a> **[NASA]** NASA Astronaut Anne McClain Works on Space Station
-- <a href="https://spacenews.com/u-s-space-force-narrows-field-in-100-million-space-laser-terminal-program/" >🔗</a> **[SpaceNews]** U.S. Space Force narrows field in $100 million space laser terminal program
-- <a href="https://spacenews.com/military-satellite-program-highlights-role-of-mission-integrators/" >🔗</a> **[SpaceNews]** Military satellite program highlights role of ‘mission integrators’
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250509T110125">2025-05-09 11:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250509T113118">2025-05-09 11:31:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
