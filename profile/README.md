@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/rocket-labs-neutron-tapped-for-u-s-military-cargo-test/" >🔗</a> **[SpaceNews]** Rocket Lab’s Neutron tapped for U.S. military cargo test
 - <a href="https://www.nasaspaceflight.com/2025/05/spherex-punch-update/" >🔗</a> **[NASASpaceflight]** SPHEREx starts science observations while PUNCH commissioning continues
 - <a href="https://spacenews.com/german-defense-firm-partners-with-iceye-to-build-sar-satellites/" >🔗</a> **[SpaceNews]** German defense firm partners with Iceye to build SAR satellites
 - <a href="https://spacenews.com/china-issues-regulatory-framework-to-support-direct-to-device-satellite-services/" >🔗</a> **[SpaceNews]** China issues regulatory framework to support direct-to-device satellite services
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/general/nasa-earns-two-emmy-nominations-for-2024-total-solar-eclipse-coverage/" >🔗</a> **[NASA]** NASA Earns Two Emmy Nominations for 2024 Total Solar Eclipse Coverage
 - <a href="https://www.nasa.gov/missions/chandra/nasa-telescopes-tune-into-a-black-hole-prelude-fugue/" >🔗</a> **[NASA]** NASA Telescopes Tune Into a Black Hole Prelude, Fugue
 - <a href="https://europeanspaceflight.com/esa-and-india-agree-to-cooperate-on-human-spaceflight/" >🔗</a> **[European Spaceflight]** ESA and India Agree to Cooperate on Human Spaceflight
-- <a href="https://spacenews.com/the-best-way-to-prepare-humans-for-mars-the-moon/" >🔗</a> **[SpaceNews]** The best way to prepare humans for Mars? The moon.
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250508T233313">2025-05-08 23:33:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250509T000459">2025-05-09 00:04:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
