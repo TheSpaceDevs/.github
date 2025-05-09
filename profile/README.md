@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/05/09/live-coverage-spacex-to-launch-26-starlink-satellites-on-falcon-9-rocket-from-vandenberg-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 26 Starlink satellites on Falcon 9 rocket from Vandenberg
+- <a href="https://science.nasa.gov/science-research/astromaterials/nasa-study-reveals-venus-crust-surprise/" >🔗</a> **[NASA]** NASA Study Reveals Venus Crust Surprise
 - <a href="https://spacenews.com/trump-assaults-american-space-science/" >🔗</a> **[SpaceNews]** Trump assaults American space science
 - <a href="https://europeanspaceflight.com/atmos-to-use-re-entry-tech-to-rapidly-deploy-autonomous-ground-vehicles/" >🔗</a> **[European Spaceflight]** ATMOS to Use Re-Entry Tech to Rapidly Deploy Autonomous Ground Vehicles
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_05-09_May_2025" >🔗</a> **[ESA]** Week in images: 05-09 May 2025
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/space-agencies-grapple-with-potential-changes-to-artemis/" >🔗</a> **[SpaceNews]** Space agencies grapple with potential changes to Artemis
 - <a href="https://science.nasa.gov/missions/hubble/hubble-comes-face-to-face-with-spirals-arms/" >🔗</a> **[NASA]** Hubble Comes Face-to-Face with Spiral’s Arms
 - <a href="https://spacenews.com/space-force-leans-into-a-warfighting-ethos-beyond-defense/" >🔗</a> **[SpaceNews]** Space Force sharpens focus on deterring rivals
-- <a href="https://spacenews.com/china-to-launch-new-modules-to-tiangong-space-station/" >🔗</a> **[SpaceNews]** China to launch new modules to Tiangong space station
-- <a href="https://www.esa.int/Enabling_Support/Operations/Biomass_completes_a_relay_race_of_a_LEOP" >🔗</a> **[ESA]** Biomass completes a relay race of a LEOP
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250509T160135">2025-05-09 16:01:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250509T163615">2025-05-09 16:36:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
