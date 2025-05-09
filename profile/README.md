@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/05/Earth_from_Space_Northwest_Sardinia_Italy" >🔗</a> **[ESA]** Earth from Space: Northwest Sardinia, Italy
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/05/Artist_s_view_of_Europe_s_launcher_family_from_2024_onwards" >🔗</a> **[ESA]** Artist's view of Europe's launcher family from 2024 onwards
 - <a href="https://spacepolicyonline.com/news/glaze-artemis-ii-could-launch-as-early-as-february-2026/" >🔗</a> **[SpacePolicyOnline.com]** Glaze: Artemis II Could Launch as Early as February 2026
 - <a href="https://spacenews.com/rocket-labs-neutron-tapped-for-u-s-military-cargo-test/" >🔗</a> **[SpaceNews]** Rocket Lab’s Neutron tapped for U.S. military cargo test
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/nasa-astronaut-anne-mcclain-works-on-space-station/" >🔗</a> **[NASA]** NASA Astronaut Anne McClain Works on Space Station
 - <a href="https://spacenews.com/u-s-space-force-narrows-field-in-100-million-space-laser-terminal-program/" >🔗</a> **[SpaceNews]** U.S. Space Force narrows field in $100 million space laser terminal program
 - <a href="https://spacenews.com/military-satellite-program-highlights-role-of-mission-integrators/" >🔗</a> **[SpaceNews]** Military satellite program highlights role of ‘mission integrators’
-- <a href="https://www.nasa.gov/general/nasa-earns-two-emmy-nominations-for-2024-total-solar-eclipse-coverage/" >🔗</a> **[NASA]** NASA Earns Two Emmy Nominations for 2024 Total Solar Eclipse Coverage
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250509T080137">2025-05-09 08:01:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250509T083710">2025-05-09 08:37:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
