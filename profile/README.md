@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_05-09_May_2025" >🔗</a> **[ESA]** Week in images: 05-09 May 2025
+- <a href="https://spacenews.com/startups-need-a-clear-path-to-working-with-the-european-defence-agency/" >🔗</a> **[SpaceNews]** Startups need a clear path to working with the European Defence Agency
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/using-our-facilities/" >🔗</a> **[NASA]** Using Our Facilities
 - <a href="https://spacenews.com/space-agencies-grapple-with-potential-changes-to-artemis/" >🔗</a> **[SpaceNews]** Space agencies grapple with potential changes to Artemis
 - <a href="https://science.nasa.gov/missions/hubble/hubble-comes-face-to-face-with-spirals-arms/" >🔗</a> **[NASA]** Hubble Comes Face-to-Face with Spiral’s Arms
 - <a href="https://spacenews.com/space-force-leans-into-a-warfighting-ethos-beyond-defense/" >🔗</a> **[SpaceNews]** Space Force sharpens focus on deterring rivals
 - <a href="https://spacenews.com/china-to-launch-new-modules-to-tiangong-space-station/" >🔗</a> **[SpaceNews]** China to launch new modules to Tiangong space station
+- <a href="https://www.esa.int/Enabling_Support/Operations/Biomass_completes_a_relay_race_of_a_LEOP" >🔗</a> **[ESA]** Biomass completes a relay race of a LEOP
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/05/Earth_from_Space_Northwest_Sardinia_Italy" >🔗</a> **[ESA]** Earth from Space: Northwest Sardinia, Italy
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/05/Artist_s_view_of_Europe_s_launcher_family_from_2024_onwards" >🔗</a> **[ESA]** Artist's view of Europe's launcher family from 2024 onwards
-- <a href="https://spacepolicyonline.com/news/glaze-artemis-ii-could-launch-as-early-as-february-2026/" >🔗</a> **[SpacePolicyOnline.com]** Glaze: Artemis II Could Launch as Early as February 2026
-- <a href="https://spacenews.com/rocket-labs-neutron-tapped-for-u-s-military-cargo-test/" >🔗</a> **[SpaceNews]** Rocket Lab’s Neutron tapped for U.S. military cargo test
-- <a href="https://www.nasaspaceflight.com/2025/05/spherex-punch-update/" >🔗</a> **[NASASpaceflight]** SPHEREx starts science observations while PUNCH commissioning continues
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250509T130852">2025-05-09 13:08:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250509T133734">2025-05-09 13:37:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
