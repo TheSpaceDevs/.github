@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-agencies-grapple-with-potential-changes-to-artemis/" >🔗</a> **[SpaceNews]** Space agencies grapple with potential changes to Artemis
 - <a href="https://science.nasa.gov/missions/hubble/hubble-comes-face-to-face-with-spirals-arms/" >🔗</a> **[NASA]** Hubble Comes Face-to-Face with Spiral’s Arms
 - <a href="https://spacenews.com/space-force-leans-into-a-warfighting-ethos-beyond-defense/" >🔗</a> **[SpaceNews]** Space Force sharpens focus on deterring rivals
 - <a href="https://spacenews.com/china-to-launch-new-modules-to-tiangong-space-station/" >🔗</a> **[SpaceNews]** China to launch new modules to Tiangong space station
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/rocket-labs-neutron-tapped-for-u-s-military-cargo-test/" >🔗</a> **[SpaceNews]** Rocket Lab’s Neutron tapped for U.S. military cargo test
 - <a href="https://www.nasaspaceflight.com/2025/05/spherex-punch-update/" >🔗</a> **[NASASpaceflight]** SPHEREx starts science observations while PUNCH commissioning continues
 - <a href="https://spacenews.com/german-defense-firm-partners-with-iceye-to-build-sar-satellites/" >🔗</a> **[SpaceNews]** German defense firm partners with Iceye to build SAR satellites
-- <a href="https://spacenews.com/china-issues-regulatory-framework-to-support-direct-to-device-satellite-services/" >🔗</a> **[SpaceNews]** China issues regulatory framework to support direct-to-device satellite services
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250509T113118">2025-05-09 11:31:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250509T120152">2025-05-09 12:01:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
