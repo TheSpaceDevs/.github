@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/science-research/heliophysics/what-nasa-is-learning-from-the-biggest-geomagnetic-storm-in-20-years/" >🔗</a> **[NASA]** What NASA Is Learning from the Biggest Geomagnetic Storm in 20 Years
+- <a href="https://science.nasa.gov/blog/sols-4534-4535-last-call-for-the-layered-sulfates-west-of-texoli-butte-headed-west/" >🔗</a> **[NASA]** Sols 4534-4535: Last Call for the Layered Sulfates? (West of Texoli Butte, Headed West)
 - <a href="https://spacenews.com/engine-change-delays-ispace-built-lunar-lander-mission/" >🔗</a> **[SpaceNews]** Engine change delays ispace-built lunar lander mission
 - <a href="https://www.nasa.gov/news-release/nasa-astronauts-to-answer-questions-from-students-in-new-york-2/" >🔗</a> **[NASA]** NASA Astronauts to Answer Questions from Students in New York
 - <a href="https://www.nasa.gov/image-article/nasa-kennedy-engages-stem-participants/" >🔗</a> **[NASA]** NASA Kennedy Engages STEM Participants
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/science-research/astromaterials/nasa-study-reveals-venus-crust-surprise/" >🔗</a> **[NASA]** NASA Study Reveals Venus Crust Surprise
 - <a href="https://spacenews.com/trump-assaults-american-space-science/" >🔗</a> **[SpaceNews]** Trump assaults American space science
 - <a href="https://europeanspaceflight.com/atmos-to-use-re-entry-tech-to-rapidly-deploy-autonomous-ground-vehicles/" >🔗</a> **[European Spaceflight]** ATMOS to Use Re-Entry Tech to Rapidly Deploy Autonomous Ground Vehicles
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_05-09_May_2025" >🔗</a> **[ESA]** Week in images: 05-09 May 2025
-- <a href="https://spacenews.com/startups-need-a-clear-path-to-working-with-the-european-defence-agency/" >🔗</a> **[SpaceNews]** Startups need a clear path to working with the European Defence Agency
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250509T200140">2025-05-09 20:01:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250509T203414">2025-05-09 20:34:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
