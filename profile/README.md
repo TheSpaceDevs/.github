@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-astronauts-to-answer-questions-from-students-in-new-york-2/" >🔗</a> **[NASA]** NASA Astronauts to Answer Questions from Students in New York
+- <a href="https://www.nasa.gov/image-article/nasa-kennedy-engages-stem-participants/" >🔗</a> **[NASA]** NASA Kennedy Engages STEM Participants
 - <a href="https://www.nasa.gov/technology/meet-four-nasa-inventors-improving-life-on-earth-and-beyond/" >🔗</a> **[NASA]** Meet Four NASA Inventors Improving Life on Earth and Beyond
 - <a href="https://spaceflightnow.com/2025/05/09/live-coverage-spacex-to-launch-26-starlink-satellites-on-falcon-9-rocket-from-vandenberg-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 26 Starlink satellites on Falcon 9 rocket from Vandenberg
 - <a href="https://science.nasa.gov/science-research/astromaterials/nasa-study-reveals-venus-crust-surprise/" >🔗</a> **[NASA]** NASA Study Reveals Venus Crust Surprise
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_05-09_May_2025" >🔗</a> **[ESA]** Week in images: 05-09 May 2025
 - <a href="https://spacenews.com/startups-need-a-clear-path-to-working-with-the-european-defence-agency/" >🔗</a> **[SpaceNews]** Startups need a clear path to working with the European Defence Agency
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/using-our-facilities/" >🔗</a> **[NASA]** Using Our Facilities
-- <a href="https://spacenews.com/space-agencies-grapple-with-potential-changes-to-artemis/" >🔗</a> **[SpaceNews]** Space agencies grapple with potential changes to Artemis
-- <a href="https://science.nasa.gov/missions/hubble/hubble-comes-face-to-face-with-spirals-arms/" >🔗</a> **[NASA]** Hubble Comes Face-to-Face with Spiral’s Arms
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250509T180135">2025-05-09 18:01:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250509T183812">2025-05-09 18:38:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
