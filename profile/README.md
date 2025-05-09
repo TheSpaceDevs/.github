@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/engine-change-delays-ispace-built-lunar-lander-mission/" >🔗</a> **[SpaceNews]** Engine change delays ispace-built lunar lander mission
 - <a href="https://www.nasa.gov/news-release/nasa-astronauts-to-answer-questions-from-students-in-new-york-2/" >🔗</a> **[NASA]** NASA Astronauts to Answer Questions from Students in New York
 - <a href="https://www.nasa.gov/image-article/nasa-kennedy-engages-stem-participants/" >🔗</a> **[NASA]** NASA Kennedy Engages STEM Participants
 - <a href="https://www.nasa.gov/technology/meet-four-nasa-inventors-improving-life-on-earth-and-beyond/" >🔗</a> **[NASA]** Meet Four NASA Inventors Improving Life on Earth and Beyond
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/atmos-to-use-re-entry-tech-to-rapidly-deploy-autonomous-ground-vehicles/" >🔗</a> **[European Spaceflight]** ATMOS to Use Re-Entry Tech to Rapidly Deploy Autonomous Ground Vehicles
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_05-09_May_2025" >🔗</a> **[ESA]** Week in images: 05-09 May 2025
 - <a href="https://spacenews.com/startups-need-a-clear-path-to-working-with-the-european-defence-agency/" >🔗</a> **[SpaceNews]** Startups need a clear path to working with the European Defence Agency
-- <a href="https://www.nasa.gov/centers-and-facilities/glenn/using-our-facilities/" >🔗</a> **[NASA]** Using Our Facilities
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250509T190118">2025-05-09 19:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250509T193108">2025-05-09 19:31:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
