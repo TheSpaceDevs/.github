@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/glaze-artemis-ii-could-launch-as-early-as-february-2026/" >🔗</a> **[SpacePolicyOnline.com]** Glaze: Artemis II Could Launch as Early as February 2026
 - <a href="https://spacenews.com/rocket-labs-neutron-tapped-for-u-s-military-cargo-test/" >🔗</a> **[SpaceNews]** Rocket Lab’s Neutron tapped for U.S. military cargo test
 - <a href="https://www.nasaspaceflight.com/2025/05/spherex-punch-update/" >🔗</a> **[NASASpaceflight]** SPHEREx starts science observations while PUNCH commissioning continues
 - <a href="https://spacenews.com/german-defense-firm-partners-with-iceye-to-build-sar-satellites/" >🔗</a> **[SpaceNews]** German defense firm partners with Iceye to build SAR satellites
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/military-satellite-program-highlights-role-of-mission-integrators/" >🔗</a> **[SpaceNews]** Military satellite program highlights role of ‘mission integrators’
 - <a href="https://www.nasa.gov/general/nasa-earns-two-emmy-nominations-for-2024-total-solar-eclipse-coverage/" >🔗</a> **[NASA]** NASA Earns Two Emmy Nominations for 2024 Total Solar Eclipse Coverage
 - <a href="https://www.nasa.gov/missions/chandra/nasa-telescopes-tune-into-a-black-hole-prelude-fugue/" >🔗</a> **[NASA]** NASA Telescopes Tune Into a Black Hole Prelude, Fugue
-- <a href="https://europeanspaceflight.com/esa-and-india-agree-to-cooperate-on-human-spaceflight/" >🔗</a> **[European Spaceflight]** ESA and India Agree to Cooperate on Human Spaceflight
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250509T012901">2025-05-09 01:29:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250509T021329">2025-05-09 02:13:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
