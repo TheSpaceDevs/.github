@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/25-years-of-nasa-student-launch/" >🔗</a> **[NASA]** 25 Years of NASA Student Launch
+- <a href="https://www.nasaspaceflight.com/2025/05/extended-astronaut-missions/" >🔗</a> **[NASASpaceflight]** Butch and Suni weren’t the only ones: the stories of astronauts “stranded” in space
 - <a href="https://science.nasa.gov/science-research/heliophysics/what-nasa-is-learning-from-the-biggest-geomagnetic-storm-in-20-years/" >🔗</a> **[NASA]** What NASA Is Learning from the Biggest Geomagnetic Storm in 20 Years
 - <a href="https://science.nasa.gov/blog/sols-4534-4535-last-call-for-the-layered-sulfates-west-of-texoli-butte-headed-west/" >🔗</a> **[NASA]** Sols 4534-4535: Last Call for the Layered Sulfates? (West of Texoli Butte, Headed West)
 - <a href="https://spacenews.com/engine-change-delays-ispace-built-lunar-lander-mission/" >🔗</a> **[SpaceNews]** Engine change delays ispace-built lunar lander mission
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/technology/meet-four-nasa-inventors-improving-life-on-earth-and-beyond/" >🔗</a> **[NASA]** Meet Four NASA Inventors Improving Life on Earth and Beyond
 - <a href="https://spaceflightnow.com/2025/05/09/live-coverage-spacex-to-launch-26-starlink-satellites-on-falcon-9-rocket-from-vandenberg-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 26 Starlink satellites on Falcon 9 rocket from Vandenberg
 - <a href="https://science.nasa.gov/science-research/astromaterials/nasa-study-reveals-venus-crust-surprise/" >🔗</a> **[NASA]** NASA Study Reveals Venus Crust Surprise
-- <a href="https://spacenews.com/trump-assaults-american-space-science/" >🔗</a> **[SpaceNews]** Trump assaults American space science
-- <a href="https://europeanspaceflight.com/atmos-to-use-re-entry-tech-to-rapidly-deploy-autonomous-ground-vehicles/" >🔗</a> **[European Spaceflight]** ATMOS to Use Re-Entry Tech to Rapidly Deploy Autonomous Ground Vehicles
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250509T220128">2025-05-09 22:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250509T223431">2025-05-09 22:34:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
