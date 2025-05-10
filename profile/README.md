@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/trump-administration-to-keep-national-space-council/" >🔗</a> **[SpaceNews]** Trump administration to keep National Space Council
 - <a href="https://spaceflightnow.com/2025/05/10/rocket-lab-to-debut-point-to-point-cargo-transportation-capability-on-2026-air-force-mission/" >🔗</a> **[Spaceflight Now]** Rocket Lab to debut point-to-point cargo transportation capability on 2026 Air Force mission
 - <a href="https://spaceflightnow.com/2025/05/10/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-5/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://www.nasa.gov/image-article/25-years-of-nasa-student-launch/" >🔗</a> **[NASA]** 25 Years of NASA Student Launch
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/engine-change-delays-ispace-built-lunar-lander-mission/" >🔗</a> **[SpaceNews]** Engine change delays ispace-built lunar lander mission
 - <a href="https://www.nasa.gov/news-release/nasa-astronauts-to-answer-questions-from-students-in-new-york-2/" >🔗</a> **[NASA]** NASA Astronauts to Answer Questions from Students in New York
 - <a href="https://www.nasa.gov/image-article/nasa-kennedy-engages-stem-participants/" >🔗</a> **[NASA]** NASA Kennedy Engages STEM Participants
-- <a href="https://www.nasa.gov/technology/meet-four-nasa-inventors-improving-life-on-earth-and-beyond/" >🔗</a> **[NASA]** Meet Four NASA Inventors Improving Life on Earth and Beyond
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250510T150122">2025-05-10 15:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250510T153251">2025-05-10 15:32:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
