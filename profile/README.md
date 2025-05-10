@@ -19,33 +19,32 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 6-91**. It is scheduled to be launched by *SpaceX*
+**Falcon 9 Block 5 | Starlink Group 6-83**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral SFS, FL, USA*
+from *<a href="https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39A">Launch Complex 39A</a>, Kennedy Space Center, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250510T062800">2025-05-10 06:28:00 UTC</a>.  Until
-then, this pad will have been used for 305
-out of 1021 launches from this location. The launch status is currently
-*Go* 🟩 . The mission type is
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250511T042400">2025-05-11 04:24:00 UTC</a>.  Until
+then, this pad will have been used for 206
+out of 264 launches from this location. The launch status is currently
+*TBC* 🟨 . The mission type is
 *Communications* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  A batch of 28 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  A batch of satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
   <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
+  <a href="https://www.google.com/maps?q=28.60822681,-80.60428186" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250510T062800">2025-05-10 06:28:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-91&location=Cape Canaveral SFS, FL, USA&dates=20250510T062800Z%2F20250510T102800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-91** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250511T042400">2025-05-11 04:24:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-83&location=Kennedy Space Center, FL, USA&dates=20250511T042400Z%2F20250511T082400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-83** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250511T131200">2025-05-11 13:12:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 6A | Unknown Payload&location=Taiyuan Satellite Launch Center, People&#x27;s Republic of China&dates=20250511T131200Z%2F20250511T134300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 6A | Unknown Payload** from Taiyuan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250512T175900">2025-05-12 17:59:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 3C/E | Unknown Payload&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20250512T175900Z%2F20250512T183500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 3C/E | Unknown Payload** from Xichang Satellite Launch Center, People's Republic of China.
@@ -55,6 +54,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250515T000000">2025-05-15 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/au.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Eris-1 | Maiden Flight&location=Bowen Orbital Spaceport&dates=20250515T000000Z%2F20250515T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Eris-1 | Maiden Flight** from Bowen Orbital Spaceport.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250515T040400">2025-05-15 04:04:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Zhuque-2E | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20250515T040400Z%2F20250515T044000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Zhuque-2E | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250516T130000">2025-05-16 13:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 15-5&location=Vandenberg SFB, CA, USA&dates=20250516T130000Z%2F20250516T170000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 15-5** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250517T081500">2025-05-17 08:15:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | The Sea God Sees (iQPS Launch 2)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20250517T081500Z%2F20250517T091500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | The Sea God Sees (iQPS Launch 2)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -104,12 +104,11 @@ into *a Low Earth Orbit
 
 ### Launch-related News 🚀
 
-- <a href="https://www.nasaspaceflight.com/2025/05/launch-roundup-050525/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX to launch 250th mission from SLC-40
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250510T060126">2025-05-10 06:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250510T063654">2025-05-10 06:36:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
