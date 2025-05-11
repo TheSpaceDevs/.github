@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-may-11-17-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy May 11-17, 2025
 - <a href="https://spaceflightnow.com/2025/05/11/live-coverage-28-starlink-satellites-to-launch-on-falcon-9-booster-making-record-breaking-28th-flight/" >🔗</a> **[Spaceflight Now]** Live coverage: 28 Starlink satellites to launch on Falcon 9 booster making record breaking 28th flight
 - <a href="https://spacenews.com/trump-administration-to-keep-national-space-council/" >🔗</a> **[SpaceNews]** Trump administration to keep National Space Council
 - <a href="https://spaceflightnow.com/2025/05/10/rocket-lab-to-debut-point-to-point-cargo-transportation-capability-on-2026-air-force-mission/" >🔗</a> **[Spaceflight Now]** Rocket Lab to debut point-to-point cargo transportation capability on 2026 Air Force mission
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/science-research/heliophysics/what-nasa-is-learning-from-the-biggest-geomagnetic-storm-in-20-years/" >🔗</a> **[NASA]** What NASA Is Learning from the Biggest Geomagnetic Storm in 20 Years
 - <a href="https://science.nasa.gov/blog/sols-4534-4535-last-call-for-the-layered-sulfates-west-of-texoli-butte-headed-west/" >🔗</a> **[NASA]** Sols 4534-4535: Last Call for the Layered Sulfates? (West of Texoli Butte, Headed West)
 - <a href="https://spacenews.com/engine-change-delays-ispace-built-lunar-lander-mission/" >🔗</a> **[SpaceNews]** Engine change delays ispace-built lunar lander mission
-- <a href="https://www.nasa.gov/news-release/nasa-astronauts-to-answer-questions-from-students-in-new-york-2/" >🔗</a> **[NASA]** NASA Astronauts to Answer Questions from Students in New York
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250511T200122">2025-05-11 20:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250511T203306">2025-05-11 20:33:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
