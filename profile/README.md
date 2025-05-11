@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/05/11/live-coverage-28-starlink-satellites-to-launch-on-falcon-9-booster-making-record-breaking-28th-flight/" >🔗</a> **[Spaceflight Now]** Live coverage: 28 Starlink satellites to launch on Falcon 9 booster making record breaking 28th flight
 - <a href="https://spacenews.com/trump-administration-to-keep-national-space-council/" >🔗</a> **[SpaceNews]** Trump administration to keep National Space Council
 - <a href="https://spaceflightnow.com/2025/05/10/rocket-lab-to-debut-point-to-point-cargo-transportation-capability-on-2026-air-force-mission/" >🔗</a> **[Spaceflight Now]** Rocket Lab to debut point-to-point cargo transportation capability on 2026 Air Force mission
 - <a href="https://spaceflightnow.com/2025/05/10/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-5/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Cape Canaveral
@@ -99,16 +100,16 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/blog/sols-4534-4535-last-call-for-the-layered-sulfates-west-of-texoli-butte-headed-west/" >🔗</a> **[NASA]** Sols 4534-4535: Last Call for the Layered Sulfates? (West of Texoli Butte, Headed West)
 - <a href="https://spacenews.com/engine-change-delays-ispace-built-lunar-lander-mission/" >🔗</a> **[SpaceNews]** Engine change delays ispace-built lunar lander mission
 - <a href="https://www.nasa.gov/news-release/nasa-astronauts-to-answer-questions-from-students-in-new-york-2/" >🔗</a> **[NASA]** NASA Astronauts to Answer Questions from Students in New York
-- <a href="https://www.nasa.gov/image-article/nasa-kennedy-engages-stem-participants/" >🔗</a> **[NASA]** NASA Kennedy Engages STEM Participants
 
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2025/05/11/live-coverage-28-starlink-satellites-to-launch-on-falcon-9-booster-making-record-breaking-28th-flight/" >🔗</a> **[Spaceflight Now]** Live coverage: 28 Starlink satellites to launch on Falcon 9 booster making record breaking 28th flight
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250511T160123">2025-05-11 16:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250511T163558">2025-05-11 16:35:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
