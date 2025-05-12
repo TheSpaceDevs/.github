@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Back_to_light" >🔗</a> **[ESA]** Back to light
+- <a href="https://www.esa.int/About_Us/Exhibitions/Save_the_date_16_22_June_-_ESA_at_the_Paris_Air_Show" >🔗</a> **[ESA]** Save the date: 16–22 June - ESA at the Paris Air Show
 - <a href="https://europeanspaceflight.com/poland-launches-demonstration-of-suborbital-research-rocket/" >🔗</a> **[European Spaceflight]** Poland Launches Demonstration of Suborbital Research Rocket
 - <a href="https://spacenews.com/rocket-lab-sees-mynaric-deal-as-key-for-its-constellation-plans/" >🔗</a> **[SpaceNews]** Rocket Lab sees Mynaric deal as key for its constellation plans
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-may-11-17-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy May 11-17, 2025
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://spaceflightnow.com/2025/05/10/rocket-lab-to-debut-point-to-point-cargo-transportation-capability-on-2026-air-force-mission/" >🔗</a> **[Spaceflight Now]** Rocket Lab to debut point-to-point cargo transportation capability on 2026 Air Force mission
 - <a href="https://spaceflightnow.com/2025/05/10/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-5/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://www.nasa.gov/image-article/25-years-of-nasa-student-launch/" >🔗</a> **[NASA]** 25 Years of NASA Student Launch
-- <a href="https://www.nasaspaceflight.com/2025/05/extended-astronaut-missions/" >🔗</a> **[NASASpaceflight]** Butch and Suni weren’t the only ones: the stories of astronauts “stranded” in space
-- <a href="https://science.nasa.gov/science-research/heliophysics/what-nasa-is-learning-from-the-biggest-geomagnetic-storm-in-20-years/" >🔗</a> **[NASA]** What NASA Is Learning from the Biggest Geomagnetic Storm in 20 Years
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250512T070131">2025-05-12 07:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250512T073300">2025-05-12 07:33:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
