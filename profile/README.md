@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/countering-chinas-space-stalkers-helping-turn-competitive-endurance-from-theory-into-practice/" >🔗</a> **[SpaceNews]** Countering China’s space stalkers: helping turn Competitive Endurance from theory into practice
+- <a href="https://www.nasa.gov/learning-resources/tips-to-craft-standout-internship-application/" >🔗</a> **[NASA]** 5 Tips to Craft a Standout NASA Internship Application
 - <a href="https://spacenews.com/accelerating-the-path-for-commercial-space-integration-and-implementation-remains-a-dod-and-national-security-priority/" >🔗</a> **[SpaceNews]** Accelerating the path for commercial space integration (and implementation) remains a DoD and national security priority
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_new_details_and_mysteries_in_Jupiter_s_aurora" >🔗</a> **[ESA]** Webb reveals new details and mysteries in Jupiter’s aurora
 - <a href="https://science.nasa.gov/missions/webb/nasas-webb-reveals-new-details-mysteries-in-jupiters-aurora/" >🔗</a> **[NASA]** NASA’s Webb Reveals New Details, Mysteries in Jupiter’s Aurora
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Back_to_light" >🔗</a> **[ESA]** Back to light
 - <a href="https://www.esa.int/About_Us/Exhibitions/Save_the_date_16_22_June_-_ESA_at_the_Paris_Air_Show" >🔗</a> **[ESA]** Save the date: 16–22 June - ESA at the Paris Air Show
 - <a href="https://europeanspaceflight.com/poland-launches-demonstration-of-suborbital-research-rocket/" >🔗</a> **[European Spaceflight]** Poland Launches Demonstration of Suborbital Research Rocket
-- <a href="https://spacenews.com/rocket-lab-sees-mynaric-deal-as-key-for-its-constellation-plans/" >🔗</a> **[SpaceNews]** Rocket Lab sees Mynaric deal as key for its constellation plans
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-may-11-17-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy May 11-17, 2025
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250512T150125">2025-05-12 15:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250512T153542">2025-05-12 15:35:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
