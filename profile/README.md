@@ -90,6 +90,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/pentagon-taps-more-firms-to-build-commercial-military-satellite-network/" >🔗</a> **[SpaceNews]** Pentagon taps more firms to build commercial-military satellite network
+- <a href="https://spacenews.com/lockheed-martin-increases-investment-in-solid-rocket-startup-x-bow-systems/" >🔗</a> **[SpaceNews]** Lockheed Martin increases investment in solid rocket startup X-Bow Systems
+- <a href="https://www.nasa.gov/general/nasa-ames-stars-of-the-month-may-2025/" >🔗</a> **[NASA]** NASA Ames Stars of the Month: May 2025
 - <a href="https://spacenews.com/countering-chinas-space-stalkers-helping-turn-competitive-endurance-from-theory-into-practice/" >🔗</a> **[SpaceNews]** Countering China’s space stalkers: helping turn Competitive Endurance from theory into practice
 - <a href="https://www.nasa.gov/learning-resources/tips-to-craft-standout-internship-application/" >🔗</a> **[NASA]** 5 Tips to Craft a Standout NASA Internship Application
 - <a href="https://spacenews.com/accelerating-the-path-for-commercial-space-integration-and-implementation-remains-a-dod-and-national-security-priority/" >🔗</a> **[SpaceNews]** Accelerating the path for commercial space integration (and implementation) remains a DoD and national security priority
@@ -97,9 +100,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/missions/webb/nasas-webb-reveals-new-details-mysteries-in-jupiters-aurora/" >🔗</a> **[NASA]** NASA’s Webb Reveals New Details, Mysteries in Jupiter’s Aurora
 - <a href="https://spacenews.com/mda-space-sees-options-for-robotic-arm-technology-should-gateway-be-canceled/" >🔗</a> **[SpaceNews]** MDA Space sees options for robotic arm technology should Gateway be canceled
 - <a href="https://spacenews.com/how-smaller-satellites-are-reshaping-the-geostationary-orbit-market/" >🔗</a> **[SpaceNews]** How smaller satellites are reshaping the geostationary orbit market
-- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Back_to_light" >🔗</a> **[ESA]** Back to light
-- <a href="https://www.esa.int/About_Us/Exhibitions/Save_the_date_16_22_June_-_ESA_at_the_Paris_Air_Show" >🔗</a> **[ESA]** Save the date: 16–22 June - ESA at the Paris Air Show
-- <a href="https://europeanspaceflight.com/poland-launches-demonstration-of-suborbital-research-rocket/" >🔗</a> **[European Spaceflight]** Poland Launches Demonstration of Suborbital Research Rocket
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250512T160143">2025-05-12 16:01:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250512T163756">2025-05-12 16:37:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
