@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-goes-live-on-twitch-design-artemis-ii-moon-mascot/" >🔗</a> **[NASA]** NASA Goes Live on Twitch: Design Artemis II Moon Mascot
+- <a href="https://www.nasa.gov/missions/europa-clipper/nasas-europa-clipper-captures-mars-in-infrared/" >🔗</a> **[NASA]** NASA’s Europa Clipper Captures Mars in Infrared
 - <a href="https://spacenews.com/pentagon-taps-more-firms-to-build-commercial-military-satellite-network/" >🔗</a> **[SpaceNews]** Pentagon taps more firms to build commercial-military satellite network
 - <a href="https://spacenews.com/lockheed-martin-increases-investment-in-solid-rocket-startup-x-bow-systems/" >🔗</a> **[SpaceNews]** Lockheed Martin increases investment in solid rocket startup X-Bow Systems
 - <a href="https://www.nasa.gov/general/nasa-ames-stars-of-the-month-may-2025/" >🔗</a> **[NASA]** NASA Ames Stars of the Month: May 2025
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/accelerating-the-path-for-commercial-space-integration-and-implementation-remains-a-dod-and-national-security-priority/" >🔗</a> **[SpaceNews]** Accelerating the path for commercial space integration (and implementation) remains a DoD and national security priority
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_new_details_and_mysteries_in_Jupiter_s_aurora" >🔗</a> **[ESA]** Webb reveals new details and mysteries in Jupiter’s aurora
 - <a href="https://science.nasa.gov/missions/webb/nasas-webb-reveals-new-details-mysteries-in-jupiters-aurora/" >🔗</a> **[NASA]** NASA’s Webb Reveals New Details, Mysteries in Jupiter’s Aurora
-- <a href="https://spacenews.com/mda-space-sees-options-for-robotic-arm-technology-should-gateway-be-canceled/" >🔗</a> **[SpaceNews]** MDA Space sees options for robotic arm technology should Gateway be canceled
-- <a href="https://spacenews.com/how-smaller-satellites-are-reshaping-the-geostationary-orbit-market/" >🔗</a> **[SpaceNews]** How smaller satellites are reshaping the geostationary orbit market
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250512T170128">2025-05-12 17:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250512T173350">2025-05-12 17:33:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
