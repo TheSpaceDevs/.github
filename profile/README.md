@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/mda-space-sees-options-for-robotic-arm-technology-should-gateway-be-canceled/" >🔗</a> **[SpaceNews]** MDA Space sees options for robotic arm technology should Gateway be canceled
 - <a href="https://spacenews.com/how-smaller-satellites-are-reshaping-the-geostationary-orbit-market/" >🔗</a> **[SpaceNews]** How smaller satellites are reshaping the geostationary orbit market
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Back_to_light" >🔗</a> **[ESA]** Back to light
 - <a href="https://www.esa.int/About_Us/Exhibitions/Save_the_date_16_22_June_-_ESA_at_the_Paris_Air_Show" >🔗</a> **[ESA]** Save the date: 16–22 June - ESA at the Paris Air Show
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spaceflightnow.com/2025/05/11/live-coverage-28-starlink-satellites-to-launch-on-falcon-9-booster-making-record-breaking-28th-flight/" >🔗</a> **[Spaceflight Now]** Live coverage: 28 Starlink satellites to launch on Falcon 9 booster making record breaking 28th flight
 - <a href="https://spacenews.com/trump-administration-to-keep-national-space-council/" >🔗</a> **[SpaceNews]** Trump administration to keep National Space Council
 - <a href="https://spaceflightnow.com/2025/05/10/rocket-lab-to-debut-point-to-point-cargo-transportation-capability-on-2026-air-force-mission/" >🔗</a> **[Spaceflight Now]** Rocket Lab to debut point-to-point cargo transportation capability on 2026 Air Force mission
-- <a href="https://spaceflightnow.com/2025/05/10/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-5/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250512T113128">2025-05-12 11:31:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250512T120210">2025-05-12 12:02:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
