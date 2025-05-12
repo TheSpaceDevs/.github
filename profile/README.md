@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/es/las-carreras-en-la-nasa-despegan-con-las-pasantias/" >🔗</a> **[NASA]** Las carreras en la NASA despegan con las pasantías
+- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-careers-take-off-with-internships/" >🔗</a> **[NASA]** NASA Careers Take Off with Internships
 - <a href="https://spacenews.com/space-force-selects-vendors-to-build-cloud-based-ground-station-marketplaces/" >🔗</a> **[SpaceNews]** Space Force selects vendors to build cloud-based ground station marketplaces
 - <a href="https://www.nasa.gov/image-article/jupiters-turbulent-atmosphere/" >🔗</a> **[NASA]** Jupiter’s Turbulent Atmosphere
 - <a href="https://spacenews.com/foreign-spacex-launch-customers-seek-relief-from-u-s-tariffs/" >🔗</a> **[SpaceNews]** Foreign SpaceX launch customers seek relief from U.S. tariffs
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/missions/europa-clipper/nasas-europa-clipper-captures-mars-in-infrared/" >🔗</a> **[NASA]** NASA’s Europa Clipper Captures Mars in Infrared
 - <a href="https://spacenews.com/pentagon-taps-more-firms-to-build-commercial-military-satellite-network/" >🔗</a> **[SpaceNews]** Pentagon taps more firms to build commercial-military satellite network
 - <a href="https://spacenews.com/lockheed-martin-increases-investment-in-solid-rocket-startup-x-bow-systems/" >🔗</a> **[SpaceNews]** Lockheed Martin increases investment in solid rocket startup X-Bow Systems
-- <a href="https://www.nasa.gov/general/nasa-ames-stars-of-the-month-may-2025/" >🔗</a> **[NASA]** NASA Ames Stars of the Month: May 2025
-- <a href="https://spacenews.com/countering-chinas-space-stalkers-helping-turn-competitive-endurance-from-theory-into-practice/" >🔗</a> **[SpaceNews]** Countering China’s space stalkers: helping turn Competitive Endurance from theory into practice
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250512T210122">2025-05-12 21:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250512T213248">2025-05-12 21:32:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
