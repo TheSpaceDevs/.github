@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/accelerating-the-path-for-commercial-space-integration-and-implementation-remains-a-dod-and-national-security-priority/" >🔗</a> **[SpaceNews]** Accelerating the path for commercial space integration (and implementation) remains a DoD and national security priority
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_new_details_and_mysteries_in_Jupiter_s_aurora" >🔗</a> **[ESA]** Webb reveals new details and mysteries in Jupiter’s aurora
 - <a href="https://science.nasa.gov/missions/webb/nasas-webb-reveals-new-details-mysteries-in-jupiters-aurora/" >🔗</a> **[NASA]** NASA’s Webb Reveals New Details, Mysteries in Jupiter’s Aurora
 - <a href="https://spacenews.com/mda-space-sees-options-for-robotic-arm-technology-should-gateway-be-canceled/" >🔗</a> **[SpaceNews]** MDA Space sees options for robotic arm technology should Gateway be canceled
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://europeanspaceflight.com/poland-launches-demonstration-of-suborbital-research-rocket/" >🔗</a> **[European Spaceflight]** Poland Launches Demonstration of Suborbital Research Rocket
 - <a href="https://spacenews.com/rocket-lab-sees-mynaric-deal-as-key-for-its-constellation-plans/" >🔗</a> **[SpaceNews]** Rocket Lab sees Mynaric deal as key for its constellation plans
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-may-11-17-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy May 11-17, 2025
-- <a href="https://spaceflightnow.com/2025/05/11/live-coverage-28-starlink-satellites-to-launch-on-falcon-9-booster-making-record-breaking-28th-flight/" >🔗</a> **[Spaceflight Now]** Live coverage: 28 Starlink satellites to launch on Falcon 9 booster making record breaking 28th flight
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250512T131032">2025-05-12 13:10:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250512T133918">2025-05-12 13:39:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
