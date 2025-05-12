@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-selects-vendors-to-build-cloud-based-ground-station-marketplaces/" >🔗</a> **[SpaceNews]** Space Force selects vendors to build cloud-based ground station marketplaces
+- <a href="https://www.nasa.gov/image-article/jupiters-turbulent-atmosphere/" >🔗</a> **[NASA]** Jupiter’s Turbulent Atmosphere
 - <a href="https://spacenews.com/foreign-spacex-launch-customers-seek-relief-from-u-s-tariffs/" >🔗</a> **[SpaceNews]** Foreign SpaceX launch customers seek relief from U.S. tariffs
 - <a href="https://spaceflightnow.com/2025/05/12/live-coverage-spacex-to-launch-26-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 26 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://www.nasa.gov/news-release/nasa-goes-live-on-twitch-design-artemis-ii-moon-mascot/" >🔗</a> **[NASA]** NASA Goes Live on Twitch: Design Artemis II Moon Mascot
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/lockheed-martin-increases-investment-in-solid-rocket-startup-x-bow-systems/" >🔗</a> **[SpaceNews]** Lockheed Martin increases investment in solid rocket startup X-Bow Systems
 - <a href="https://www.nasa.gov/general/nasa-ames-stars-of-the-month-may-2025/" >🔗</a> **[NASA]** NASA Ames Stars of the Month: May 2025
 - <a href="https://spacenews.com/countering-chinas-space-stalkers-helping-turn-competitive-endurance-from-theory-into-practice/" >🔗</a> **[SpaceNews]** Countering China’s space stalkers: helping turn Competitive Endurance from theory into practice
-- <a href="https://www.nasa.gov/learning-resources/tips-to-craft-standout-internship-application/" >🔗</a> **[NASA]** 5 Tips to Craft a Standout NASA Internship Application
-- <a href="https://spacenews.com/accelerating-the-path-for-commercial-space-integration-and-implementation-remains-a-dod-and-national-security-priority/" >🔗</a> **[SpaceNews]** Accelerating the path for commercial space integration (and implementation) remains a DoD and national security priority
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250512T193059">2025-05-12 19:30:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250512T200121">2025-05-12 20:01:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
