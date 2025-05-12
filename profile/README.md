@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-adds-to-classified-tjs-yaogan-satellite-series-with-two-launches/" >🔗</a> **[SpaceNews]** China adds to classified TJS, Yaogan satellite series with two launches
+- <a href="https://www.nasaspaceflight.com/2025/05/launch-roundup-051225/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Orbital launches from five countries planned
 - <a href="https://www.nasa.gov/es/las-carreras-en-la-nasa-despegan-con-las-pasantias/" >🔗</a> **[NASA]** Las carreras en la NASA despegan con las pasantías
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-careers-take-off-with-internships/" >🔗</a> **[NASA]** NASA Careers Take Off with Internships
 - <a href="https://spacenews.com/space-force-selects-vendors-to-build-cloud-based-ground-station-marketplaces/" >🔗</a> **[SpaceNews]** Space Force selects vendors to build cloud-based ground station marketplaces
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/05/12/live-coverage-spacex-to-launch-26-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 26 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://www.nasa.gov/news-release/nasa-goes-live-on-twitch-design-artemis-ii-moon-mascot/" >🔗</a> **[NASA]** NASA Goes Live on Twitch: Design Artemis II Moon Mascot
 - <a href="https://www.nasa.gov/missions/europa-clipper/nasas-europa-clipper-captures-mars-in-infrared/" >🔗</a> **[NASA]** NASA’s Europa Clipper Captures Mars in Infrared
-- <a href="https://spacenews.com/pentagon-taps-more-firms-to-build-commercial-military-satellite-network/" >🔗</a> **[SpaceNews]** Pentagon taps more firms to build commercial-military satellite network
-- <a href="https://spacenews.com/lockheed-martin-increases-investment-in-solid-rocket-startup-x-bow-systems/" >🔗</a> **[SpaceNews]** Lockheed Martin increases investment in solid rocket startup X-Bow Systems
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250512T220122">2025-05-12 22:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250512T223502">2025-05-12 22:35:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
