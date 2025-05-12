@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/foreign-spacex-launch-customers-seek-relief-from-u-s-tariffs/" >🔗</a> **[SpaceNews]** Foreign SpaceX launch customers seek relief from U.S. tariffs
+- <a href="https://spaceflightnow.com/2025/05/12/live-coverage-spacex-to-launch-26-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 26 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://www.nasa.gov/news-release/nasa-goes-live-on-twitch-design-artemis-ii-moon-mascot/" >🔗</a> **[NASA]** NASA Goes Live on Twitch: Design Artemis II Moon Mascot
 - <a href="https://www.nasa.gov/missions/europa-clipper/nasas-europa-clipper-captures-mars-in-infrared/" >🔗</a> **[NASA]** NASA’s Europa Clipper Captures Mars in Infrared
 - <a href="https://spacenews.com/pentagon-taps-more-firms-to-build-commercial-military-satellite-network/" >🔗</a> **[SpaceNews]** Pentagon taps more firms to build commercial-military satellite network
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/countering-chinas-space-stalkers-helping-turn-competitive-endurance-from-theory-into-practice/" >🔗</a> **[SpaceNews]** Countering China’s space stalkers: helping turn Competitive Endurance from theory into practice
 - <a href="https://www.nasa.gov/learning-resources/tips-to-craft-standout-internship-application/" >🔗</a> **[NASA]** 5 Tips to Craft a Standout NASA Internship Application
 - <a href="https://spacenews.com/accelerating-the-path-for-commercial-space-integration-and-implementation-remains-a-dod-and-national-security-priority/" >🔗</a> **[SpaceNews]** Accelerating the path for commercial space integration (and implementation) remains a DoD and national security priority
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_new_details_and_mysteries_in_Jupiter_s_aurora" >🔗</a> **[ESA]** Webb reveals new details and mysteries in Jupiter’s aurora
-- <a href="https://science.nasa.gov/missions/webb/nasas-webb-reveals-new-details-mysteries-in-jupiters-aurora/" >🔗</a> **[NASA]** NASA’s Webb Reveals New Details, Mysteries in Jupiter’s Aurora
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250512T190121">2025-05-12 19:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250512T193059">2025-05-12 19:30:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
