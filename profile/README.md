@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-debris-crisis-the-national-security-threat-were-ignoring/" >🔗</a> **[SpaceNews]** Space debris crisis: the national security threat we’re ignoring
+- <a href="https://spacenews.com/shaking-up-satcom-the-time-is-now-for-radical-innovation-in-satellite-communications/" >🔗</a> **[SpaceNews]** Shaking Up Satcom: The Time is Now for Radical Innovation in Satellite Communications
 - <a href="https://spacenews.com/redwire-sees-opportunities-in-the-u-s-and-europe-despite-budget-and-geopolitical-uncertainties/" >🔗</a> **[SpaceNews]** Redwire sees opportunities in the U.S. and Europe despite budget and geopolitical uncertainties
 - <a href="https://arstechnica.com/space/2025/05/tuesday-telescope-taking-a-look-at-the-next-generation-of-telescopes/" >🔗</a> **[Arstechnica]** Tuesday Telescope: Taking a look at the next generation of telescopes
 - <a href="https://spacenews.com/how-earth-observation-satellite-operators-are-teaming-up-to-tip-and-cue-one-another/" >🔗</a> **[SpaceNews]** How Earth observation satellite operators are teaming up to tip and cue one another
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/Decommissioning_Galileo_satellites_-_Infographic" >🔗</a> **[ESA]** Decommissioning Galileo satellites - Infographic
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/05/Plato_s_dialogue" >🔗</a> **[ESA]** Plato’s dialogue
 - <a href="https://spacepolicyonline.com/news/a-second-trump-national-space-council-would-be-busy/" >🔗</a> **[SpacePolicyOnline.com]** A Second Trump National Space Council Would Be Busy
-- <a href="https://spacenews.com/china-adds-to-classified-tjs-yaogan-satellite-series-with-two-launches/" >🔗</a> **[SpaceNews]** China adds to classified TJS, Yaogan satellite series with two launches
-- <a href="https://www.nasaspaceflight.com/2025/05/launch-roundup-051225/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Orbital launches from five countries planned
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250513T131055">2025-05-13 13:10:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250513T133943">2025-05-13 13:39:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
