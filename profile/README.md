@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/im-an-exoplanet-scientist-heres-what-we-lose-if-we-dont-launch-roman/" >🔗</a> **[SpaceNews]** I’m an exoplanet scientist. Here’s what we lose if we don’t launch Roman.
 - <a href="https://spacenews.com/space-debris-crisis-the-national-security-threat-were-ignoring/" >🔗</a> **[SpaceNews]** Space debris crisis: the national security threat we’re ignoring
 - <a href="https://spacenews.com/shaking-up-satcom-the-time-is-now-for-radical-innovation-in-satellite-communications/" >🔗</a> **[SpaceNews]** Shaking Up Satcom: The Time is Now for Radical Innovation in Satellite Communications
 - <a href="https://spacenews.com/redwire-sees-opportunities-in-the-u-s-and-europe-despite-budget-and-geopolitical-uncertainties/" >🔗</a> **[SpaceNews]** Redwire sees opportunities in the U.S. and Europe despite budget and geopolitical uncertainties
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Thank_you_for_your_service_Galileo_GSAT0104" >🔗</a> **[ESA]** Thank you for your service, Galileo GSAT0104
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/Decommissioning_Galileo_satellites_-_Infographic" >🔗</a> **[ESA]** Decommissioning Galileo satellites - Infographic
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/05/Plato_s_dialogue" >🔗</a> **[ESA]** Plato’s dialogue
-- <a href="https://spacepolicyonline.com/news/a-second-trump-national-space-council-would-be-busy/" >🔗</a> **[SpacePolicyOnline.com]** A Second Trump National Space Council Would Be Busy
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250513T150138">2025-05-13 15:01:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250513T153458">2025-05-13 15:34:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
