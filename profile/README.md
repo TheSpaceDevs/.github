@@ -90,6 +90,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/redwire-sees-opportunities-in-the-u-s-and-europe-despite-budget-and-geopolitical-uncertainties/" >🔗</a> **[SpaceNews]** Redwire sees opportunities in the U.S. and Europe despite budget and geopolitical uncertainties
+- <a href="https://arstechnica.com/space/2025/05/tuesday-telescope-taking-a-look-at-the-next-generation-of-telescopes/" >🔗</a> **[Arstechnica]** Tuesday Telescope: Taking a look at the next generation of telescopes
+- <a href="https://spacenews.com/how-earth-observation-satellite-operators-are-teaming-up-to-tip-and-cue-one-another/" >🔗</a> **[SpaceNews]** How Earth observation satellite operators are teaming up to tip and cue one another
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/aubrie-henspeter-leading-commercial-lunar-missions/" >🔗</a> **[NASA]** Aubrie Henspeter: Leading Commercial Lunar Missions
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Thank_you_for_your_service_Galileo_GSAT0104" >🔗</a> **[ESA]** Thank you for your service, Galileo GSAT0104
 - <a href="https://spacepolicyonline.com/news/a-second-trump-national-space-council-would-be-busy/" >🔗</a> **[SpacePolicyOnline.com]** A Second Trump National Space Council Would Be Busy
@@ -97,9 +100,6 @@ into *an Unknown
 - <a href="https://www.nasaspaceflight.com/2025/05/launch-roundup-051225/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Orbital launches from five countries planned
 - <a href="https://www.nasa.gov/es/las-carreras-en-la-nasa-despegan-con-las-pasantias/" >🔗</a> **[NASA]** Las carreras en la NASA despegan con las pasantías
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-careers-take-off-with-internships/" >🔗</a> **[NASA]** NASA Careers Take Off with Internships
-- <a href="https://spacenews.com/space-force-selects-vendors-to-build-cloud-based-ground-station-marketplaces/" >🔗</a> **[SpaceNews]** Space Force selects vendors to build cloud-based ground station marketplaces
-- <a href="https://www.nasa.gov/image-article/jupiters-turbulent-atmosphere/" >🔗</a> **[NASA]** Jupiter’s Turbulent Atmosphere
-- <a href="https://spacenews.com/foreign-spacex-launch-customers-seek-relief-from-u-s-tariffs/" >🔗</a> **[SpaceNews]** Foreign SpaceX launch customers seek relief from U.S. tariffs
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250513T110127">2025-05-13 11:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250513T113139">2025-05-13 11:31:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
