@@ -95,11 +95,11 @@ into *an Unknown
 - <a href="https://spacenews.com/how-earth-observation-satellite-operators-are-teaming-up-to-tip-and-cue-one-another/" >🔗</a> **[SpaceNews]** How Earth observation satellite operators are teaming up to tip and cue one another
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/aubrie-henspeter-leading-commercial-lunar-missions/" >🔗</a> **[NASA]** Aubrie Henspeter: Leading Commercial Lunar Missions
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Thank_you_for_your_service_Galileo_GSAT0104" >🔗</a> **[ESA]** Thank you for your service, Galileo GSAT0104
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/04/Decommissioning_Galileo_satellites_-_Infographic" >🔗</a> **[ESA]** Decommissioning Galileo satellites - Infographic
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/05/Plato_s_dialogue" >🔗</a> **[ESA]** Plato’s dialogue
 - <a href="https://spacepolicyonline.com/news/a-second-trump-national-space-council-would-be-busy/" >🔗</a> **[SpacePolicyOnline.com]** A Second Trump National Space Council Would Be Busy
 - <a href="https://spacenews.com/china-adds-to-classified-tjs-yaogan-satellite-series-with-two-launches/" >🔗</a> **[SpaceNews]** China adds to classified TJS, Yaogan satellite series with two launches
 - <a href="https://www.nasaspaceflight.com/2025/05/launch-roundup-051225/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Orbital launches from five countries planned
-- <a href="https://www.nasa.gov/es/las-carreras-en-la-nasa-despegan-con-las-pasantias/" >🔗</a> **[NASA]** Las carreras en la NASA despegan con las pasantías
-- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-careers-take-off-with-internships/" >🔗</a> **[NASA]** NASA Careers Take Off with Internships
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250513T120204">2025-05-13 12:02:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250513T124329">2025-05-13 12:43:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
