@@ -104,11 +104,12 @@ into *an Unknown
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2025/05/launch-roundup-051225/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Orbital launches from five countries planned
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250513T070132">2025-05-13 07:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250513T073312">2025-05-13 07:33:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
