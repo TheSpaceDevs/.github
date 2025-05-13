@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ast-spacemobile-ramping-up-launches-ahead-of-beta-service-this-year/" >🔗</a> **[SpaceNews]** AST SpaceMobile ramping up launches ahead of beta service this year
 - <a href="https://spacenews.com/senate-forms-golden-dome-caucus-to-champion-missile-defense-shield/" >🔗</a> **[SpaceNews]** Senate forms ‘Golden Dome Caucus’ to champion missile defense shield
 - <a href="https://www.nasa.gov/directorates/esdmd/common-exploration-systems-development-division/space-launch-system/nasas-artemis-iii-core-stage-receives-thermal-protection-coating/" >🔗</a> **[NASA]** NASA’s Artemis III Core Stage Receives Thermal Protection Coating
 - <a href="https://arstechnica.com/space/2025/05/if-congress-actually-cancels-the-sls-rocket-what-happens-next/" >🔗</a> **[Arstechnica]** If Congress actually cancels the SLS rocket, what happens next?
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/general/what-is-a-black-hole-we-asked-a-nasa-expert-episode-59/" >🔗</a> **[NASA]** What is a Black Hole? We Asked a NASA Expert: Episode 59
 - <a href="https://www.nasa.gov/directorates/stmd/nasa-enables-construction-technology-for-moon-and-mars-exploration/" >🔗</a> **[NASA]** NASA Enables Construction Technology for Moon and Mars Exploration
 - <a href="https://spacenews.com/altimeter-problems-lighting-challenges-caused-im-2-lunar-lander-to-fall-on-its-side/" >🔗</a> **[SpaceNews]** Altimeter problems, lighting challenges caused IM-2 lunar lander to fall on its side
-- <a href="https://spacenews.com/im-an-exoplanet-scientist-heres-what-we-lose-if-we-dont-launch-roman/" >🔗</a> **[SpaceNews]** I’m an exoplanet scientist. Here’s what we lose if we don’t launch Roman.
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250513T210116">2025-05-13 21:01:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250513T213235">2025-05-13 21:32:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
