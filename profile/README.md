@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/05/if-congress-actually-cancels-the-sls-rocket-what-happens-next/" >🔗</a> **[Arstechnica]** If Congress actually cancels the SLS rocket, what happens next?
+- <a href="https://www.nasa.gov/centers-and-facilities/ames/nasa-hosts-industry-government-academia-to-explore-partnerships/" >🔗</a> **[NASA]** NASA Hosts Industry, Government, Academia to Explore Partnerships
 - <a href="https://www.nasa.gov/image-article/lightning-in-southeast-asia/" >🔗</a> **[NASA]** Lightning in Southeast Asia
 - <a href="https://www.nasa.gov/general/what-is-a-black-hole-we-asked-a-nasa-expert-episode-59/" >🔗</a> **[NASA]** What is a Black Hole? We Asked a NASA Expert: Episode 59
 - <a href="https://www.nasa.gov/directorates/stmd/nasa-enables-construction-technology-for-moon-and-mars-exploration/" >🔗</a> **[NASA]** NASA Enables Construction Technology for Moon and Mars Exploration
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/space-debris-crisis-the-national-security-threat-were-ignoring/" >🔗</a> **[SpaceNews]** Space debris crisis: the national security threat we’re ignoring
 - <a href="https://spacenews.com/shaking-up-satcom-the-time-is-now-for-radical-innovation-in-satellite-communications/" >🔗</a> **[SpaceNews]** Shaking Up Satcom: The Time is Now for Radical Innovation in Satellite Communications
 - <a href="https://spacenews.com/redwire-sees-opportunities-in-the-u-s-and-europe-despite-budget-and-geopolitical-uncertainties/" >🔗</a> **[SpaceNews]** Redwire sees opportunities in the U.S. and Europe despite budget and geopolitical uncertainties
-- <a href="https://arstechnica.com/space/2025/05/tuesday-telescope-taking-a-look-at-the-next-generation-of-telescopes/" >🔗</a> **[Arstechnica]** Tuesday Telescope: Taking a look at the next generation of telescopes
-- <a href="https://spacenews.com/how-earth-observation-satellite-operators-are-teaming-up-to-tip-and-cue-one-another/" >🔗</a> **[SpaceNews]** How Earth observation satellite operators are teaming up to tip and cue one another
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250513T193107">2025-05-13 19:31:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250513T200133">2025-05-13 20:01:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
