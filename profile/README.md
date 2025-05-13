@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Applications/Satellite_navigation/Thank_you_for_your_service_Galileo_GSAT0104" >🔗</a> **[ESA]** Thank you for your service, Galileo GSAT0104
 - <a href="https://spacepolicyonline.com/news/a-second-trump-national-space-council-would-be-busy/" >🔗</a> **[SpacePolicyOnline.com]** A Second Trump National Space Council Would Be Busy
 - <a href="https://spacenews.com/china-adds-to-classified-tjs-yaogan-satellite-series-with-two-launches/" >🔗</a> **[SpaceNews]** China adds to classified TJS, Yaogan satellite series with two launches
 - <a href="https://www.nasaspaceflight.com/2025/05/launch-roundup-051225/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Orbital launches from five countries planned
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/image-article/jupiters-turbulent-atmosphere/" >🔗</a> **[NASA]** Jupiter’s Turbulent Atmosphere
 - <a href="https://spacenews.com/foreign-spacex-launch-customers-seek-relief-from-u-s-tariffs/" >🔗</a> **[SpaceNews]** Foreign SpaceX launch customers seek relief from U.S. tariffs
 - <a href="https://spaceflightnow.com/2025/05/12/live-coverage-spacex-to-launch-26-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 26 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
-- <a href="https://www.nasa.gov/news-release/nasa-goes-live-on-twitch-design-artemis-ii-moon-mascot/" >🔗</a> **[NASA]** NASA Goes Live on Twitch: Design Artemis II Moon Mascot
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250513T090208">2025-05-13 09:02:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250513T093500">2025-05-13 09:35:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
