@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/senate-confirms-troy-meink-as-air-force-secretary-with-bipartisan-support/" >🔗</a> **[SpaceNews]** Senate confirms Troy Meink as Air Force secretary with bipartisan support
+- <a href="https://www.nasa.gov/image-article/la-nasa-calibra-una-segunda-sonda-de-deteccion-de-impactos-para-las-pruebas-del-x-59/" >🔗</a> **[NASA]** La NASA calibra una segunda sonda de detección de impactos para las pruebas del X-59
 - <a href="https://spacenews.com/ast-spacemobile-ramping-up-launches-ahead-of-beta-service-this-year/" >🔗</a> **[SpaceNews]** AST SpaceMobile ramping up launches ahead of beta service this year
 - <a href="https://spacenews.com/senate-forms-golden-dome-caucus-to-champion-missile-defense-shield/" >🔗</a> **[SpaceNews]** Senate forms ‘Golden Dome Caucus’ to champion missile defense shield
 - <a href="https://www.nasa.gov/directorates/esdmd/common-exploration-systems-development-division/space-launch-system/nasas-artemis-iii-core-stage-receives-thermal-protection-coating/" >🔗</a> **[NASA]** NASA’s Artemis III Core Stage Receives Thermal Protection Coating
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/learning-resources/science-activation/take-a-tour-of-the-cosmos-with-new-interactives-from-nasas-universe-of-learning/" >🔗</a> **[NASA]** Take a Tour of the Cosmos with New Interactives from NASA’s Universe of Learning
 - <a href="https://www.nasa.gov/image-article/lightning-in-southeast-asia/" >🔗</a> **[NASA]** Lightning in Southeast Asia
 - <a href="https://www.nasa.gov/general/what-is-a-black-hole-we-asked-a-nasa-expert-episode-59/" >🔗</a> **[NASA]** What is a Black Hole? We Asked a NASA Expert: Episode 59
-- <a href="https://www.nasa.gov/directorates/stmd/nasa-enables-construction-technology-for-moon-and-mars-exploration/" >🔗</a> **[NASA]** NASA Enables Construction Technology for Moon and Mars Exploration
-- <a href="https://spacenews.com/altimeter-problems-lighting-challenges-caused-im-2-lunar-lander-to-fall-on-its-side/" >🔗</a> **[SpaceNews]** Altimeter problems, lighting challenges caused IM-2 lunar lander to fall on its side
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250513T220127">2025-05-13 22:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250513T223513">2025-05-13 22:35:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
