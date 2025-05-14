@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-awards-launch-service-task-order-for-asperas-galaxy-mission/" >🔗</a> **[NASA]** NASA Awards Launch Service Task Order for Aspera’s Galaxy Mission
+- <a href="https://spacenews.com/kepler-demonstrates-space-to-ground-optical-links-for-proposed-relay-network/" >🔗</a> **[SpaceNews]** Kepler demonstrates space-to-ground optical links for proposed relay network
+- <a href="https://spaceflightnow.com/2025/05/14/axiom-mission-4-delayed-due-to-dragon-capsule-readiness/" >🔗</a> **[Spaceflight Now]** Axiom Mission 4 delayed due to Dragon capsule readiness
 - <a href="https://www.nasa.gov/image-article/pretty-in-pink/" >🔗</a> **[NASA]** Pretty in Pink
+- <a href="https://www.nasaspaceflight.com/2025/05/eris-testflight1/" >🔗</a> **[NASASpaceflight]** Gilmour Space’s Eris rocket set for Australia’s first homegrown orbital launch
 - <a href="https://www.nasa.gov/news-release/nasa-to-participate-in-next-private-astronaut-mission-teleconference/" >🔗</a> **[NASA]** NASA to Participate in Next Private Astronaut Mission Teleconference
 - <a href="https://science.nasa.gov/solar-system/planets/mars/nasa-observes-first-visible-light-auroras-at-mars/" >🔗</a> **[NASA]** NASA Observes First Visible-light Auroras at Mars
 - <a href="https://www.nasa.gov/missions/magellan/nasas-magellan-mission-reveals-possible-tectonic-activity-on-venus/" >🔗</a> **[NASA]** NASA’s Magellan Mission Reveals Possible Tectonic Activity on Venus
 - <a href="https://science.nasa.gov/missions/hubble/hubble-pinpoints-young-stars-in-spiral-galaxy/" >🔗</a> **[NASA]** Hubble Pinpoints Young Stars in Spiral Galaxy
 - <a href="https://spacenews.com/nuclear-battery-startup-zeno-power-raises-50-million-to-expand-in-space-and-at-sea/" >🔗</a> **[SpaceNews]** Nuclear battery startup Zeno Power raises $50 million to expand in space and at sea
-- <a href="https://www.nasa.gov/solar-system/asteroids/vesta/nasa-studies-reveal-hidden-secrets-about-interiors-of-moon-vesta/" >🔗</a> **[NASA]** NASA Studies Reveal Hidden Secrets About Interiors of Moon, Vesta
-- <a href="https://science.nasa.gov/missions/webb/another-first-nasa-webb-identifies-frozen-water-in-young-star-system/" >🔗</a> **[NASA]** Another First: NASA Webb Identifies Frozen Water in Young Star System
-- <a href="https://europeanspaceflight.com/space-forge-secures-22-6m-for-in-space-manufacturing-platform/" >🔗</a> **[European Spaceflight]** Space Forge Secures £22.6M for In-Space Manufacturing Platform
-- <a href="https://spaceflightnow.com/2025/05/14/live-coverage-spacex-to-launch-28-starlink-v2-mini-satellites-on-falcon-9-rocket-from-cape-canaveral-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink V2 Mini satellites on Falcon 9 rocket from Cape Canaveral
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250514T200126">2025-05-14 20:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250514T203144">2025-05-14 20:31:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
