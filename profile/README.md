@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/eutelsat-plots-digital-upgrades-for-follow-on-oneweb-satellites/" >🔗</a> **[SpaceNews]** Eutelsat plots digital upgrades for follow-on OneWeb satellites
+- <a href="https://spacenews.com/european-banks-help-ororatech-raise-more-funds-for-wildfire-monitoring-constellation/" >🔗</a> **[SpaceNews]** European banks help OroraTech raise more funds for wildfire-monitoring constellation
 - <a href="https://spacepolicyonline.com/news/im-2s-imperfect-landing-due-to-altimeter-interference-south-pole-lighting-conditions/" >🔗</a> **[SpacePolicyOnline.com]** IM-2’s Imperfect Landing Due to Altimeter Interference, South Pole Lighting Conditions
 - <a href="https://science.nasa.gov/blog/sols-4539-4540-back-after-a-productive-weekend-plan/" >🔗</a> **[NASA]** Sols 4539-4540: Back After a Productive Weekend Plan
 - <a href="https://science.nasa.gov/blog/sols-4536-4538-dusty-martian-magnets/" >🔗</a> **[NASA]** Sols 4536-4538: Dusty Martian Magnets
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/la-nasa-calibra-una-segunda-sonda-de-deteccion-de-impactos-para-las-pruebas-del-x-59/" >🔗</a> **[NASA]** La NASA calibra una segunda sonda de detección de impactos para las pruebas del X-59
 - <a href="https://spacenews.com/ast-spacemobile-ramping-up-launches-ahead-of-beta-service-this-year/" >🔗</a> **[SpaceNews]** AST SpaceMobile ramping up launches ahead of beta service this year
 - <a href="https://spacenews.com/senate-forms-golden-dome-caucus-to-champion-missile-defense-shield/" >🔗</a> **[SpaceNews]** Senate forms ‘Golden Dome Caucus’ to champion missile defense shield
-- <a href="https://www.nasa.gov/directorates/esdmd/common-exploration-systems-development-division/space-launch-system/nasas-artemis-iii-core-stage-receives-thermal-protection-coating/" >🔗</a> **[NASA]** NASA’s Artemis III Core Stage Receives Thermal Protection Coating
-- <a href="https://arstechnica.com/space/2025/05/if-congress-actually-cancels-the-sls-rocket-what-happens-next/" >🔗</a> **[Arstechnica]** If Congress actually cancels the SLS rocket, what happens next?
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250514T080141">2025-05-14 08:01:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250514T083735">2025-05-14 08:37:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
