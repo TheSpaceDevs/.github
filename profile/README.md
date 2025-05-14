@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/arabsat-seeks-telesat-lightspeed-capacity-as-starlink-expands-into-saudi-arabia/" >🔗</a> **[SpaceNews]** Arabsat seeks Telesat Lightspeed capacity as Starlink expands into Saudi Arabia
+- <a href="https://science.nasa.gov/learning-resources/science-activation/eclipses-auroras-and-the-spark-of-becoming-nasa-inspires-future-scientists/" >🔗</a> **[NASA]** Eclipses, Auroras, and the Spark of Becoming: NASA Inspires Future Scientists
 - <a href="https://www.nasa.gov/news-release/nasa-awards-launch-service-task-order-for-asperas-galaxy-mission/" >🔗</a> **[NASA]** NASA Awards Launch Service Task Order for Aspera’s Galaxy Mission
 - <a href="https://spacenews.com/kepler-demonstrates-space-to-ground-optical-links-for-proposed-relay-network/" >🔗</a> **[SpaceNews]** Kepler demonstrates space-to-ground optical links for proposed relay network
 - <a href="https://spaceflightnow.com/2025/05/14/axiom-mission-4-delayed-due-to-dragon-capsule-readiness/" >🔗</a> **[Spaceflight Now]** Axiom Mission 4 delayed due to Dragon capsule readiness
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/news-release/nasa-to-participate-in-next-private-astronaut-mission-teleconference/" >🔗</a> **[NASA]** NASA to Participate in Next Private Astronaut Mission Teleconference
 - <a href="https://science.nasa.gov/solar-system/planets/mars/nasa-observes-first-visible-light-auroras-at-mars/" >🔗</a> **[NASA]** NASA Observes First Visible-light Auroras at Mars
 - <a href="https://www.nasa.gov/missions/magellan/nasas-magellan-mission-reveals-possible-tectonic-activity-on-venus/" >🔗</a> **[NASA]** NASA’s Magellan Mission Reveals Possible Tectonic Activity on Venus
-- <a href="https://science.nasa.gov/missions/hubble/hubble-pinpoints-young-stars-in-spiral-galaxy/" >🔗</a> **[NASA]** Hubble Pinpoints Young Stars in Spiral Galaxy
-- <a href="https://spacenews.com/nuclear-battery-startup-zeno-power-raises-50-million-to-expand-in-space-and-at-sea/" >🔗</a> **[SpaceNews]** Nuclear battery startup Zeno Power raises $50 million to expand in space and at sea
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250514T220127">2025-05-14 22:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250514T223218">2025-05-14 22:32:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
