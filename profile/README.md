@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/05/14/intuitive-machines-ceo-points-to-issues-that-prevented-upright-touchdown-during-im-2-moon-landing/" >🔗</a> **[Spaceflight Now]** Intuitive Machines’ CEO points to issues that prevented upright touchdown during IM-2 Moon landing
+- <a href="https://spacenews.com/space-based-solar-power-startups-are-banking-on-starships-success/" >🔗</a> **[SpaceNews]** Space-based solar power startups are banking on Starship’s success
 - <a href="https://spacenews.com/varda-space-reentry-capsule-lands-in-australia-completes-hypersonic-research-mission/" >🔗</a> **[SpaceNews]** Varda Space reentry capsule lands in Australia, completes hypersonic research mission
 - <a href="https://spacenews.com/eutelsat-plots-digital-upgrades-for-follow-on-oneweb-satellites/" >🔗</a> **[SpaceNews]** Eutelsat plots digital upgrades for follow-on OneWeb satellites
 - <a href="https://spacenews.com/european-banks-help-ororatech-raise-more-funds-for-wildfire-monitoring-constellation/" >🔗</a> **[SpaceNews]** European banks help OroraTech raise more funds for wildfire-monitoring constellation
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/blog/sols-4536-4538-dusty-martian-magnets/" >🔗</a> **[NASA]** Sols 4536-4538: Dusty Martian Magnets
 - <a href="https://www.nasa.gov/directorates/armd/aavp/hicam/composite-aircraft-2025/" >🔗</a> **[NASA]** Hi-Rate Composite Aircraft Manufacturing Project 2025 Spring Review
 - <a href="https://spacenews.com/senate-confirms-troy-meink-as-air-force-secretary-with-bipartisan-support/" >🔗</a> **[SpaceNews]** Senate confirms Troy Meink as Air Force secretary with bipartisan support
-- <a href="https://www.nasa.gov/image-article/la-nasa-calibra-una-segunda-sonda-de-deteccion-de-impactos-para-las-pruebas-del-x-59/" >🔗</a> **[NASA]** La NASA calibra una segunda sonda de detección de impactos para las pruebas del X-59
-- <a href="https://spacenews.com/ast-spacemobile-ramping-up-launches-ahead-of-beta-service-this-year/" >🔗</a> **[SpaceNews]** AST SpaceMobile ramping up launches ahead of beta service this year
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250514T110117">2025-05-14 11:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250514T113133">2025-05-14 11:31:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
