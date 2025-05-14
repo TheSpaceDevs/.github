@@ -90,7 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/05/14/live-coverage-spacex-to-launch-28-starlink-v2-mini-satellites-on-falcon-9-rocket-from-cape-canaveral-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink V2 Mini satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/05/Orion_on_the_move" >🔗</a> **[ESA]** Orion on the move
+- <a href="https://spacenews.com/space-cuisine-and-the-foundation-of-new-space-culture/" >🔗</a> **[SpaceNews]** Space cuisine and the foundation of new space culture
 - <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/nasa-glenn-showcases-stirling-engine-technology-at-piston-powered-auto-rama/" >🔗</a> **[NASA]** NASA Glenn Showcases Stirling Engine Technology at Piston Powered Auto-Rama
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenn-engineer-highlights-research-for-hubble-servicing-missions/" >🔗</a> **[NASA]** NASA Glenn Engineer Highlights Research for Hubble Servicing Missions
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenn-hosts-slovenian-delegation-and-ohio-governors-office/" >🔗</a> **[NASA]** NASA Glenn Hosts Slovenian Delegation and Ohio Governor’s Office
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenn-shows-students-temperature-cooling-technology/" >🔗</a> **[NASA]** NASA Glenn Shows Students Temperature-Cooling Technology
 - <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/nasa-glenn-champions-first-robotics-competition-buckeye-regional/" >🔗</a> **[NASA]** NASA Glenn Champions FIRST Robotics Competition Buckeye Regional
 - <a href="https://science.nasa.gov/missions/webb/webbs-titan-forecast-partly-cloudy-with-occasional-methane-showers/" >🔗</a> **[NASA]** Webb’s Titan Forecast: Partly Cloudy With Occasional Methane Showers
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Titan_forecast_partly_cloudy_with_a_chance_of_methane_showers" >🔗</a> **[ESA]** Titan forecast: partly cloudy with a chance of methane showers
-- <a href="https://spacenews.com/satellite-industry-continues-modest-revenue-growth-trends/" >🔗</a> **[SpaceNews]** Satellite industry continues modest revenue growth trends
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250514T130955">2025-05-14 13:09:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250514T133841">2025-05-14 13:38:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
