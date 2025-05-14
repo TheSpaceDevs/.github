@@ -91,15 +91,15 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/05/Orion_on_the_move" >🔗</a> **[ESA]** Orion on the move
+- <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/nasa-glenn-showcases-stirling-engine-technology-at-piston-powered-auto-rama/" >🔗</a> **[NASA]** NASA Glenn Showcases Stirling Engine Technology at Piston Powered Auto-Rama
+- <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenn-engineer-highlights-research-for-hubble-servicing-missions/" >🔗</a> **[NASA]** NASA Glenn Engineer Highlights Research for Hubble Servicing Missions
+- <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenn-hosts-slovenian-delegation-and-ohio-governors-office/" >🔗</a> **[NASA]** NASA Glenn Hosts Slovenian Delegation and Ohio Governor’s Office
+- <a href="https://www.nasa.gov/centers-and-facilities/glenn/specialty-nasa-glenn-license-plates-available/" >🔗</a> **[NASA]** Specialty NASA Glenn License Plates Available
+- <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenn-shows-students-temperature-cooling-technology/" >🔗</a> **[NASA]** NASA Glenn Shows Students Temperature-Cooling Technology
+- <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/nasa-glenn-champions-first-robotics-competition-buckeye-regional/" >🔗</a> **[NASA]** NASA Glenn Champions FIRST Robotics Competition Buckeye Regional
+- <a href="https://science.nasa.gov/missions/webb/webbs-titan-forecast-partly-cloudy-with-occasional-methane-showers/" >🔗</a> **[NASA]** Webb’s Titan Forecast: Partly Cloudy With Occasional Methane Showers
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Titan_forecast_partly_cloudy_with_a_chance_of_methane_showers" >🔗</a> **[ESA]** Titan forecast: partly cloudy with a chance of methane showers
 - <a href="https://spacenews.com/satellite-industry-continues-modest-revenue-growth-trends/" >🔗</a> **[SpaceNews]** Satellite industry continues modest revenue growth trends
-- <a href="https://spaceflightnow.com/2025/05/14/intuitive-machines-ceo-points-to-issues-that-prevented-upright-touchdown-during-im-2-moon-landing/" >🔗</a> **[Spaceflight Now]** Intuitive Machines’ CEO points to issues that prevented upright touchdown during IM-2 Moon landing
-- <a href="https://spacenews.com/space-based-solar-power-startups-are-banking-on-starships-success/" >🔗</a> **[SpaceNews]** Space-based solar power startups are banking on Starship’s success
-- <a href="https://spacenews.com/varda-space-reentry-capsule-lands-in-australia-completes-hypersonic-research-mission/" >🔗</a> **[SpaceNews]** Varda Space reentry capsule lands in Australia, completes hypersonic research mission
-- <a href="https://spacenews.com/eutelsat-plots-digital-upgrades-for-follow-on-oneweb-satellites/" >🔗</a> **[SpaceNews]** Eutelsat plots digital upgrades for follow-on OneWeb satellites
-- <a href="https://spacenews.com/european-banks-help-ororatech-raise-more-funds-for-wildfire-monitoring-constellation/" >🔗</a> **[SpaceNews]** European banks help OroraTech raise more funds for wildfire-monitoring constellation
-- <a href="https://spacepolicyonline.com/news/im-2s-imperfect-landing-due-to-altimeter-interference-south-pole-lighting-conditions/" >🔗</a> **[SpacePolicyOnline.com]** IM-2’s Imperfect Landing Due to Altimeter Interference, South Pole Lighting Conditions
-- <a href="https://science.nasa.gov/blog/sols-4539-4540-back-after-a-productive-weekend-plan/" >🔗</a> **[NASA]** Sols 4539-4540: Back After a Productive Weekend Plan
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250514T120153">2025-05-14 12:01:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250514T124314">2025-05-14 12:43:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
