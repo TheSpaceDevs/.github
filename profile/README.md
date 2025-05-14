@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/pretty-in-pink/" >🔗</a> **[NASA]** Pretty in Pink
 - <a href="https://www.nasa.gov/news-release/nasa-to-participate-in-next-private-astronaut-mission-teleconference/" >🔗</a> **[NASA]** NASA to Participate in Next Private Astronaut Mission Teleconference
 - <a href="https://science.nasa.gov/solar-system/planets/mars/nasa-observes-first-visible-light-auroras-at-mars/" >🔗</a> **[NASA]** NASA Observes First Visible-light Auroras at Mars
 - <a href="https://www.nasa.gov/missions/magellan/nasas-magellan-mission-reveals-possible-tectonic-activity-on-venus/" >🔗</a> **[NASA]** NASA’s Magellan Mission Reveals Possible Tectonic Activity on Venus
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/missions/webb/another-first-nasa-webb-identifies-frozen-water-in-young-star-system/" >🔗</a> **[NASA]** Another First: NASA Webb Identifies Frozen Water in Young Star System
 - <a href="https://europeanspaceflight.com/space-forge-secures-22-6m-for-in-space-manufacturing-platform/" >🔗</a> **[European Spaceflight]** Space Forge Secures £22.6M for In-Space Manufacturing Platform
 - <a href="https://spaceflightnow.com/2025/05/14/live-coverage-spacex-to-launch-28-starlink-v2-mini-satellites-on-falcon-9-rocket-from-cape-canaveral-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink V2 Mini satellites on Falcon 9 rocket from Cape Canaveral
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/05/Orion_on_the_move" >🔗</a> **[ESA]** Orion on the move
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250514T193109">2025-05-14 19:31:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250514T200126">2025-05-14 20:01:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
