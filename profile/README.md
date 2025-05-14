@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/varda-space-reentry-capsule-lands-in-australia-completes-hypersonic-research-mission/" >🔗</a> **[SpaceNews]** Varda Space reentry capsule lands in Australia, completes hypersonic research mission
 - <a href="https://spacenews.com/eutelsat-plots-digital-upgrades-for-follow-on-oneweb-satellites/" >🔗</a> **[SpaceNews]** Eutelsat plots digital upgrades for follow-on OneWeb satellites
 - <a href="https://spacenews.com/european-banks-help-ororatech-raise-more-funds-for-wildfire-monitoring-constellation/" >🔗</a> **[SpaceNews]** European banks help OroraTech raise more funds for wildfire-monitoring constellation
 - <a href="https://spacepolicyonline.com/news/im-2s-imperfect-landing-due-to-altimeter-interference-south-pole-lighting-conditions/" >🔗</a> **[SpacePolicyOnline.com]** IM-2’s Imperfect Landing Due to Altimeter Interference, South Pole Lighting Conditions
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/senate-confirms-troy-meink-as-air-force-secretary-with-bipartisan-support/" >🔗</a> **[SpaceNews]** Senate confirms Troy Meink as Air Force secretary with bipartisan support
 - <a href="https://www.nasa.gov/image-article/la-nasa-calibra-una-segunda-sonda-de-deteccion-de-impactos-para-las-pruebas-del-x-59/" >🔗</a> **[NASA]** La NASA calibra una segunda sonda de detección de impactos para las pruebas del X-59
 - <a href="https://spacenews.com/ast-spacemobile-ramping-up-launches-ahead-of-beta-service-this-year/" >🔗</a> **[SpaceNews]** AST SpaceMobile ramping up launches ahead of beta service this year
-- <a href="https://spacenews.com/senate-forms-golden-dome-caucus-to-champion-missile-defense-shield/" >🔗</a> **[SpaceNews]** Senate forms ‘Golden Dome Caucus’ to champion missile defense shield
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250514T090137">2025-05-14 09:01:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250514T093418">2025-05-14 09:34:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
