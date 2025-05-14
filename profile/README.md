@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/solar-system/asteroids/vesta/nasa-studies-reveal-hidden-secrets-about-interiors-of-moon-vesta/" >🔗</a> **[NASA]** NASA Studies Reveal Hidden Secrets About Interiors of Moon, Vesta
+- <a href="https://science.nasa.gov/missions/webb/another-first-nasa-webb-identifies-frozen-water-in-young-star-system/" >🔗</a> **[NASA]** Another First: NASA Webb Identifies Frozen Water in Young Star System
+- <a href="https://europeanspaceflight.com/space-forge-secures-22-6m-for-in-space-manufacturing-platform/" >🔗</a> **[European Spaceflight]** Space Forge Secures £22.6M for In-Space Manufacturing Platform
 - <a href="https://spaceflightnow.com/2025/05/14/live-coverage-spacex-to-launch-28-starlink-v2-mini-satellites-on-falcon-9-rocket-from-cape-canaveral-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink V2 Mini satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/05/Orion_on_the_move" >🔗</a> **[ESA]** Orion on the move
 - <a href="https://spacenews.com/space-cuisine-and-the-foundation-of-new-space-culture/" >🔗</a> **[SpaceNews]** Space cuisine and the foundation of new space culture
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenn-engineer-highlights-research-for-hubble-servicing-missions/" >🔗</a> **[NASA]** NASA Glenn Engineer Highlights Research for Hubble Servicing Missions
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenn-hosts-slovenian-delegation-and-ohio-governors-office/" >🔗</a> **[NASA]** NASA Glenn Hosts Slovenian Delegation and Ohio Governor’s Office
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/specialty-nasa-glenn-license-plates-available/" >🔗</a> **[NASA]** Specialty NASA Glenn License Plates Available
-- <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenn-shows-students-temperature-cooling-technology/" >🔗</a> **[NASA]** NASA Glenn Shows Students Temperature-Cooling Technology
-- <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/nasa-glenn-champions-first-robotics-competition-buckeye-regional/" >🔗</a> **[NASA]** NASA Glenn Champions FIRST Robotics Competition Buckeye Regional
-- <a href="https://science.nasa.gov/missions/webb/webbs-titan-forecast-partly-cloudy-with-occasional-methane-showers/" >🔗</a> **[NASA]** Webb’s Titan Forecast: Partly Cloudy With Occasional Methane Showers
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250514T150123">2025-05-14 15:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250514T153501">2025-05-14 15:35:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
