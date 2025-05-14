@@ -90,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/lawmakers-raise-alarm-over-rumored-cuts-to-commercial-satellite-imagery-funding/" >🔗</a> **[SpaceNews]** Lawmakers raise alarm over rumored cuts to commercial satellite imagery funding
+- <a href="https://spacenews.com/china-launches-first-of-2800-satellites-for-ai-space-computing-constellation/" >🔗</a> **[SpaceNews]** China launches first of 2,800 satellites for AI space computing constellation
+- <a href="https://arstechnica.com/space/2025/05/venus-aerospace-flies-its-rotating-detonation-rocket-engine-for-the-first-time/" >🔗</a> **[Arstechnica]** Venus Aerospace flies its rotating detonation rocket engine for the first time
+- <a href="https://spacenews.com/rocket-lab-to-launch-nasa-astrophysics-smallsat-mission/" >🔗</a> **[SpaceNews]** Rocket Lab to launch NASA astrophysics smallsat mission
 - <a href="https://spacenews.com/arabsat-seeks-telesat-lightspeed-capacity-as-starlink-expands-into-saudi-arabia/" >🔗</a> **[SpaceNews]** Arabsat seeks Telesat Lightspeed capacity as Starlink expands into Saudi Arabia
 - <a href="https://science.nasa.gov/learning-resources/science-activation/eclipses-auroras-and-the-spark-of-becoming-nasa-inspires-future-scientists/" >🔗</a> **[NASA]** Eclipses, Auroras, and the Spark of Becoming: NASA Inspires Future Scientists
 - <a href="https://www.nasa.gov/news-release/nasa-awards-launch-service-task-order-for-asperas-galaxy-mission/" >🔗</a> **[NASA]** NASA Awards Launch Service Task Order for Aspera’s Galaxy Mission
 - <a href="https://spacenews.com/kepler-demonstrates-space-to-ground-optical-links-for-proposed-relay-network/" >🔗</a> **[SpaceNews]** Kepler demonstrates space-to-ground optical links for proposed relay network
 - <a href="https://spaceflightnow.com/2025/05/14/axiom-mission-4-delayed-due-to-dragon-capsule-readiness/" >🔗</a> **[Spaceflight Now]** Axiom Mission 4 delayed due to Dragon capsule readiness
 - <a href="https://www.nasa.gov/image-article/pretty-in-pink/" >🔗</a> **[NASA]** Pretty in Pink
-- <a href="https://www.nasaspaceflight.com/2025/05/eris-testflight1/" >🔗</a> **[NASASpaceflight]** Gilmour Space’s Eris rocket set for Australia’s first homegrown orbital launch
-- <a href="https://www.nasa.gov/news-release/nasa-to-participate-in-next-private-astronaut-mission-teleconference/" >🔗</a> **[NASA]** NASA to Participate in Next Private Astronaut Mission Teleconference
-- <a href="https://science.nasa.gov/solar-system/planets/mars/nasa-observes-first-visible-light-auroras-at-mars/" >🔗</a> **[NASA]** NASA Observes First Visible-light Auroras at Mars
-- <a href="https://www.nasa.gov/missions/magellan/nasas-magellan-mission-reveals-possible-tectonic-activity-on-venus/" >🔗</a> **[NASA]** NASA’s Magellan Mission Reveals Possible Tectonic Activity on Venus
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250514T230121">2025-05-14 23:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250514T233242">2025-05-14 23:32:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
