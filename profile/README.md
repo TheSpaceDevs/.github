@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blog/sols-4536-4538-dusty-martian-magnets/" >🔗</a> **[NASA]** Sols 4536-4538: Dusty Martian Magnets
 - <a href="https://www.nasa.gov/directorates/armd/aavp/hicam/composite-aircraft-2025/" >🔗</a> **[NASA]** Hi-Rate Composite Aircraft Manufacturing Project 2025 Spring Review
 - <a href="https://spacenews.com/senate-confirms-troy-meink-as-air-force-secretary-with-bipartisan-support/" >🔗</a> **[SpaceNews]** Senate confirms Troy Meink as Air Force secretary with bipartisan support
 - <a href="https://www.nasa.gov/image-article/la-nasa-calibra-una-segunda-sonda-de-deteccion-de-impactos-para-las-pruebas-del-x-59/" >🔗</a> **[NASA]** La NASA calibra una segunda sonda de detección de impactos para las pruebas del X-59
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://arstechnica.com/space/2025/05/if-congress-actually-cancels-the-sls-rocket-what-happens-next/" >🔗</a> **[Arstechnica]** If Congress actually cancels the SLS rocket, what happens next?
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/nasa-hosts-industry-government-academia-to-explore-partnerships/" >🔗</a> **[NASA]** NASA Hosts Industry, Government, Academia to Explore Partnerships
 - <a href="https://science.nasa.gov/learning-resources/science-activation/take-a-tour-of-the-cosmos-with-new-interactives-from-nasas-universe-of-learning/" >🔗</a> **[NASA]** Take a Tour of the Cosmos with New Interactives from NASA’s Universe of Learning
-- <a href="https://www.nasa.gov/image-article/lightning-in-southeast-asia/" >🔗</a> **[NASA]** Lightning in Southeast Asia
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250514T004610">2025-05-14 00:46:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250514T012859">2025-05-14 01:28:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
