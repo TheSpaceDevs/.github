@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/magellan/nasas-magellan-mission-reveals-possible-tectonic-activity-on-venus/" >🔗</a> **[NASA]** NASA’s Magellan Mission Reveals Possible Tectonic Activity on Venus
+- <a href="https://spacenews.com/nuclear-battery-startup-zeno-power-raises-50-million-to-expand-in-space-and-at-sea/" >🔗</a> **[SpaceNews]** Nuclear battery startup Zeno Power raises $50 million to expand in space and at sea
 - <a href="https://www.nasa.gov/solar-system/asteroids/vesta/nasa-studies-reveal-hidden-secrets-about-interiors-of-moon-vesta/" >🔗</a> **[NASA]** NASA Studies Reveal Hidden Secrets About Interiors of Moon, Vesta
 - <a href="https://science.nasa.gov/missions/webb/another-first-nasa-webb-identifies-frozen-water-in-young-star-system/" >🔗</a> **[NASA]** Another First: NASA Webb Identifies Frozen Water in Young Star System
 - <a href="https://europeanspaceflight.com/space-forge-secures-22-6m-for-in-space-manufacturing-platform/" >🔗</a> **[European Spaceflight]** Space Forge Secures £22.6M for In-Space Manufacturing Platform
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/space-cuisine-and-the-foundation-of-new-space-culture/" >🔗</a> **[SpaceNews]** Space cuisine and the foundation of new space culture
 - <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/nasa-glenn-showcases-stirling-engine-technology-at-piston-powered-auto-rama/" >🔗</a> **[NASA]** NASA Glenn Showcases Stirling Engine Technology at Piston Powered Auto-Rama
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenn-engineer-highlights-research-for-hubble-servicing-missions/" >🔗</a> **[NASA]** NASA Glenn Engineer Highlights Research for Hubble Servicing Missions
-- <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenn-hosts-slovenian-delegation-and-ohio-governors-office/" >🔗</a> **[NASA]** NASA Glenn Hosts Slovenian Delegation and Ohio Governor’s Office
-- <a href="https://www.nasa.gov/centers-and-facilities/glenn/specialty-nasa-glenn-license-plates-available/" >🔗</a> **[NASA]** Specialty NASA Glenn License Plates Available
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250514T180139">2025-05-14 18:01:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250514T183734">2025-05-14 18:37:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
