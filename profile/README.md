@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/norway-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Norway signs Artemis Accords
 - <a href="https://www.nasa.gov/directorates/stmd/top-prize-awarded-in-lunar-autonomy-challenge-to-virtually-map-moons-surface/" >🔗</a> **[NASA]** Top Prize Awarded in Lunar Autonomy Challenge to Virtually Map Moon’s Surface
 - <a href="https://www.nasaspaceflight.com/2025/05/artemis-ii-update-3/" >🔗</a> **[NASASpaceflight]** Artemis II stacking and preparations underway even as SLS faces budget cuts
 - <a href="https://www.nasa.gov/news-release/nasa-welcomes-norway-as-55th-nation-to-sign-artemis-accords/" >🔗</a> **[NASA]** NASA Welcomes Norway as 55th Nation to Sign Artemis Accords
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/missions/roman-space-telescope/lets-bake-a-cosmic-cake/" >🔗</a> **[NASA]** Let’s Bake a Cosmic Cake!
 - <a href="https://www.nasa.gov/directorates/armd/tacp/ui/usrc/student-teams-selected-0525/" >🔗</a> **[NASA]** NASA Selects Student Teams for Drone Hurricane Response and Cybersecurity Research
 - <a href="https://www.nasa.gov/image-article/deimos-before-dawn/" >🔗</a> **[NASA]** Deimos Before Dawn
-- <a href="https://spacenews.com/live-a-conversation-with-rep-george-whitesides/" >🔗</a> **[SpaceNews]** Live – A Conversation with Rep. George Whitesides
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250515T230131">2025-05-15 23:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250515T233232">2025-05-15 23:32:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
