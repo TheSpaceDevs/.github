@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/uncategorized/a-tough-drill-at-witch-hazel-hill/" >🔗</a> **[NASA]** A Tough Drill at Witch Hazel Hill
 - <a href="https://spacenews.com/lawmakers-raise-alarm-over-rumored-cuts-to-commercial-satellite-imagery-funding/" >🔗</a> **[SpaceNews]** Lawmakers raise alarm over rumored cuts to commercial satellite imagery funding
 - <a href="https://spacenews.com/china-launches-first-of-2800-satellites-for-ai-space-computing-constellation/" >🔗</a> **[SpaceNews]** China launches first of 2,800 satellites for AI space computing constellation
 - <a href="https://arstechnica.com/space/2025/05/venus-aerospace-flies-its-rotating-detonation-rocket-engine-for-the-first-time/" >🔗</a> **[Arstechnica]** Venus Aerospace flies its rotating detonation rocket engine for the first time
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/news-release/nasa-awards-launch-service-task-order-for-asperas-galaxy-mission/" >🔗</a> **[NASA]** NASA Awards Launch Service Task Order for Aspera’s Galaxy Mission
 - <a href="https://spacenews.com/kepler-demonstrates-space-to-ground-optical-links-for-proposed-relay-network/" >🔗</a> **[SpaceNews]** Kepler demonstrates space-to-ground optical links for proposed relay network
 - <a href="https://spaceflightnow.com/2025/05/14/axiom-mission-4-delayed-due-to-dragon-capsule-readiness/" >🔗</a> **[Spaceflight Now]** Axiom Mission 4 delayed due to Dragon capsule readiness
-- <a href="https://www.nasa.gov/image-article/pretty-in-pink/" >🔗</a> **[NASA]** Pretty in Pink
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250515T004548">2025-05-15 00:45:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250515T012858">2025-05-15 01:28:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
