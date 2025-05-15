@@ -97,9 +97,9 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/solestial-banks-17-million-and-welcomes-new-ceo/" >🔗</a> **[SpaceNews]** Solestial banks $17 million and welcomes new CEO
 - <a href="https://spacenews.com/how-im-2-payload-operators-made-the-most-of-the-missions-landing-issues/" >🔗</a> **[SpaceNews]** How IM-2 payload operators made the most of the mission’s landing issues
 - <a href="https://spacenews.com/aschbacher-calls-on-europe-to-increase-space-spending/" >🔗</a> **[SpaceNews]** Aschbacher calls on Europe to increase space spending
+- <a href="https://www.esa.int/About_Us/Careers_at_ESA/Apply_now_to_ESA_s_Junior_Professional_Programme_your_portal_to_space" >🔗</a> **[ESA]** Apply now to ESA's Junior Professional Programme: your portal to space
 - <a href="https://www.esa.int/Enabling_Support/Operations/Biomass_an_oversized_football_and_the_Australian_outback" >🔗</a> **[ESA]** Biomass, an oversized football and the Australian outback
 - <a href="https://spacepolicyonline.com/news/trumps-nasa-budget-shifting-from-star-trek-to-dune/" >🔗</a> **[SpacePolicyOnline.com]** Trump’s NASA Budget — Shifting From Star Trek to Dune?
-- <a href="https://science.nasa.gov/uncategorized/a-tough-drill-at-witch-hazel-hill/" >🔗</a> **[NASA]** A Tough Drill at Witch Hazel Hill
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250515T160136">2025-05-15 16:01:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250515T163749">2025-05-15 16:37:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
