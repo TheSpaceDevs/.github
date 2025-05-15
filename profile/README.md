@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/trumps-nasa-budget-shifting-from-star-trek-to-dune/" >🔗</a> **[SpacePolicyOnline.com]** Trump’s NASA Budget — Shifting From Star Trek to Dune?
 - <a href="https://science.nasa.gov/uncategorized/a-tough-drill-at-witch-hazel-hill/" >🔗</a> **[NASA]** A Tough Drill at Witch Hazel Hill
 - <a href="https://spacenews.com/lawmakers-raise-alarm-over-rumored-cuts-to-commercial-satellite-imagery-funding/" >🔗</a> **[SpaceNews]** Lawmakers raise alarm over rumored cuts to commercial satellite imagery funding
 - <a href="https://spacenews.com/china-launches-first-of-2800-satellites-for-ai-space-computing-constellation/" >🔗</a> **[SpaceNews]** China launches first of 2,800 satellites for AI space computing constellation
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/learning-resources/science-activation/eclipses-auroras-and-the-spark-of-becoming-nasa-inspires-future-scientists/" >🔗</a> **[NASA]** Eclipses, Auroras, and the Spark of Becoming: NASA Inspires Future Scientists
 - <a href="https://www.nasa.gov/news-release/nasa-awards-launch-service-task-order-for-asperas-galaxy-mission/" >🔗</a> **[NASA]** NASA Awards Launch Service Task Order for Aspera’s Galaxy Mission
 - <a href="https://spacenews.com/kepler-demonstrates-space-to-ground-optical-links-for-proposed-relay-network/" >🔗</a> **[SpaceNews]** Kepler demonstrates space-to-ground optical links for proposed relay network
-- <a href="https://spaceflightnow.com/2025/05/14/axiom-mission-4-delayed-due-to-dragon-capsule-readiness/" >🔗</a> **[Spaceflight Now]** Axiom Mission 4 delayed due to Dragon capsule readiness
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250515T040200">2025-05-15 04:02:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250515T043623">2025-05-15 04:36:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
