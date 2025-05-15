@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/accelerating-investment-in-the-final-frontier-leveraging-administrative-approvals-to-bolster-commercial-space-development/" >🔗</a> **[SpaceNews]** Accelerating investment in the final frontier: leveraging administrative approvals to bolster commercial space development
+- <a href="https://www.nasa.gov/directorates/smd/will-the-sun-ever-burn-out-we-asked-a-nasa-expert-episode-60/" >🔗</a> **[NASA]** Will the Sun Ever Burn Out? We Asked a NASA Expert: Episode 60
+- <a href="https://spacenews.com/solestial-banks-17-million-and-welcomes-new-ceo/" >🔗</a> **[SpaceNews]** Solestial banks $17 million and welcomes new CEO
 - <a href="https://spacenews.com/how-im-2-payload-operators-made-the-most-of-the-missions-landing-issues/" >🔗</a> **[SpaceNews]** How IM-2 payload operators made the most of the mission’s landing issues
 - <a href="https://spacenews.com/aschbacher-calls-on-europe-to-increase-space-spending/" >🔗</a> **[SpaceNews]** Aschbacher calls on Europe to increase space spending
+- <a href="https://www.esa.int/Enabling_Support/Operations/Biomass_an_oversized_football_and_the_Australian_outback" >🔗</a> **[ESA]** Biomass, an oversized football and the Australian outback
 - <a href="https://spacepolicyonline.com/news/trumps-nasa-budget-shifting-from-star-trek-to-dune/" >🔗</a> **[SpacePolicyOnline.com]** Trump’s NASA Budget — Shifting From Star Trek to Dune?
 - <a href="https://science.nasa.gov/uncategorized/a-tough-drill-at-witch-hazel-hill/" >🔗</a> **[NASA]** A Tough Drill at Witch Hazel Hill
 - <a href="https://spacenews.com/lawmakers-raise-alarm-over-rumored-cuts-to-commercial-satellite-imagery-funding/" >🔗</a> **[SpaceNews]** Lawmakers raise alarm over rumored cuts to commercial satellite imagery funding
 - <a href="https://spacenews.com/china-launches-first-of-2800-satellites-for-ai-space-computing-constellation/" >🔗</a> **[SpaceNews]** China launches first of 2,800 satellites for AI space computing constellation
-- <a href="https://arstechnica.com/space/2025/05/venus-aerospace-flies-its-rotating-detonation-rocket-engine-for-the-first-time/" >🔗</a> **[Arstechnica]** Venus Aerospace flies its rotating detonation rocket engine for the first time
-- <a href="https://spacenews.com/rocket-lab-to-launch-nasa-astrophysics-smallsat-mission/" >🔗</a> **[SpaceNews]** Rocket Lab to launch NASA astrophysics smallsat mission
-- <a href="https://spacenews.com/arabsat-seeks-telesat-lightspeed-capacity-as-starlink-expands-into-saudi-arabia/" >🔗</a> **[SpaceNews]** Arabsat seeks Telesat Lightspeed capacity as Starlink expands into Saudi Arabia
-- <a href="https://science.nasa.gov/learning-resources/science-activation/eclipses-auroras-and-the-spark-of-becoming-nasa-inspires-future-scientists/" >🔗</a> **[NASA]** Eclipses, Auroras, and the Spark of Becoming: NASA Inspires Future Scientists
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250515T130857">2025-05-15 13:08:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250515T133825">2025-05-15 13:38:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
