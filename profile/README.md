@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/live-a-conversation-with-rep-george-whitesides/" >🔗</a> **[SpaceNews]** Live – A Conversation with Rep. George Whitesides
+- <a href="https://spacenews.com/the-cost-of-shrinking-space-science/" >🔗</a> **[SpaceNews]** The cost of shrinking space science
+- <a href="https://www.nasa.gov/missions/swot/nasa-french-swot-satellite-offers-big-view-of-small-ocean-features/" >🔗</a> **[NASA]** NASA, French SWOT Satellite Offers Big View of Small Ocean Features
+- <a href="https://science.nasa.gov/get-involved/citizen-science/space-cloud-watch-needs-your-photos-of-night-shining-clouds/" >🔗</a> **[NASA]** Space Cloud Watch Needs Your Photos of Night-Shining Clouds
 - <a href="https://www.nasa.gov/directorates/somd/meet-the-space-ops-team-christine-braden/" >🔗</a> **[NASA]** Meet the Space Ops Team: Christine Braden
 - <a href="https://www.nasa.gov/missions/station/iss-research/spacewalk-research-and-technology/" >🔗</a> **[NASA]** Spacewalk Research and Technology
 - <a href="https://spacenews.com/accelerating-investment-in-the-final-frontier-leveraging-administrative-approvals-to-bolster-commercial-space-development/" >🔗</a> **[SpaceNews]** Accelerating investment in the final frontier: leveraging administrative approvals to bolster commercial space development
 - <a href="https://www.nasa.gov/directorates/smd/will-the-sun-ever-burn-out-we-asked-a-nasa-expert-episode-60/" >🔗</a> **[NASA]** Will the Sun Ever Burn Out? We Asked a NASA Expert: Episode 60
 - <a href="https://spacenews.com/solestial-banks-17-million-and-welcomes-new-ceo/" >🔗</a> **[SpaceNews]** Solestial banks $17 million and welcomes new CEO
 - <a href="https://spacenews.com/how-im-2-payload-operators-made-the-most-of-the-missions-landing-issues/" >🔗</a> **[SpaceNews]** How IM-2 payload operators made the most of the mission’s landing issues
-- <a href="https://spacenews.com/aschbacher-calls-on-europe-to-increase-space-spending/" >🔗</a> **[SpaceNews]** Aschbacher calls on Europe to increase space spending
-- <a href="https://www.esa.int/About_Us/Careers_at_ESA/Apply_now_to_ESA_s_Junior_Professional_Programme_your_portal_to_space" >🔗</a> **[ESA]** Apply now to ESA's Junior Professional Programme: your portal to space
-- <a href="https://www.esa.int/Enabling_Support/Operations/Biomass_an_oversized_football_and_the_Australian_outback" >🔗</a> **[ESA]** Biomass, an oversized football and the Australian outback
-- <a href="https://spacepolicyonline.com/news/trumps-nasa-budget-shifting-from-star-trek-to-dune/" >🔗</a> **[SpacePolicyOnline.com]** Trump’s NASA Budget — Shifting From Star Trek to Dune?
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250515T170135">2025-05-15 17:01:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250515T173331">2025-05-15 17:33:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
