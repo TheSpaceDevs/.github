@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-officials-say-its-too-early-to-pin-down-golden-dome-costs/" >🔗</a> **[SpaceNews]** Space Force officials say it’s too early to pin down Golden Dome costs
+- <a href="https://science.nasa.gov/missions/roman-space-telescope/lets-bake-a-cosmic-cake/" >🔗</a> **[NASA]** Let’s Bake a Cosmic Cake!
+- <a href="https://www.nasa.gov/directorates/armd/tacp/ui/usrc/student-teams-selected-0525/" >🔗</a> **[NASA]** NASA Selects Student Teams for Drone Hurricane Response and Cybersecurity Research
 - <a href="https://www.nasa.gov/image-article/deimos-before-dawn/" >🔗</a> **[NASA]** Deimos Before Dawn
 - <a href="https://spacenews.com/live-a-conversation-with-rep-george-whitesides/" >🔗</a> **[SpaceNews]** Live – A Conversation with Rep. George Whitesides
 - <a href="https://spacenews.com/the-cost-of-shrinking-space-science/" >🔗</a> **[SpaceNews]** The cost of shrinking space science
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/get-involved/citizen-science/space-cloud-watch-needs-your-photos-of-night-shining-clouds/" >🔗</a> **[NASA]** Space Cloud Watch Needs Your Photos of Night-Shining Clouds
 - <a href="https://www.nasa.gov/directorates/somd/meet-the-space-ops-team-christine-braden/" >🔗</a> **[NASA]** Meet the Space Ops Team: Christine Braden
 - <a href="https://www.nasa.gov/missions/station/iss-research/spacewalk-research-and-technology/" >🔗</a> **[NASA]** Spacewalk Research and Technology
-- <a href="https://spacenews.com/accelerating-investment-in-the-final-frontier-leveraging-administrative-approvals-to-bolster-commercial-space-development/" >🔗</a> **[SpaceNews]** Accelerating investment in the final frontier: leveraging administrative approvals to bolster commercial space development
-- <a href="https://www.nasa.gov/directorates/smd/will-the-sun-ever-burn-out-we-asked-a-nasa-expert-episode-60/" >🔗</a> **[NASA]** Will the Sun Ever Burn Out? We Asked a NASA Expert: Episode 60
-- <a href="https://spacenews.com/solestial-banks-17-million-and-welcomes-new-ceo/" >🔗</a> **[SpaceNews]** Solestial banks $17 million and welcomes new CEO
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250515T190122">2025-05-15 19:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250515T193114">2025-05-15 19:31:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
