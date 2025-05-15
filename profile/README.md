@@ -104,12 +104,13 @@ into *a Low Earth Orbit
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2025/05/eris-testflight1/" >🔗</a> **[NASASpaceflight]** Gilmour Space’s Eris rocket set for Australia’s first homegrown orbital launch
 - <a href="https://www.nasaspaceflight.com/2025/05/launch-roundup-051225/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Orbital launches from five countries planned
 - <a href="https://spacenews.com/gilmour-space-announces-mid-march-target-for-first-eris-launch/" >🔗</a> **[SpaceNews]** Gilmour Space announces mid-March target for first Eris launch
 - <a href="https://tlpnetwork.com/news/technology/gilmour-space-secures-australias-first-orbital-launch-permit-maiden-flight-just-weeks-away" >🔗</a> **[The Launch Pad]** Gilmour Space Secures Australia’s First Orbital Launch Permit; Maiden Flight Just Weeks Away
 - <a href="https://spacenews.com/gilmore-space-secures-license-for-first-orbital-launch/" >🔗</a> **[SpaceNews]** Gilmour Space secures license for first orbital launch
-- <a href="https://spaceflightnow.com/2024/11/05/gilmour-space-touts-permit-for-launch-of-australias-first-orbital-class-rocket/" >🔗</a> **[Spaceflight Now]** Gilmour Space touts permit for launch of Australia’s first orbital-class rocket
 - <a href="https://spaceflightnow.com/2024/11/05/gilmour-space-touts-permit-for-first-orbital-launch-attempt-of-australias-first-orbital-class-rocket/" >🔗</a> **[Spaceflight Now]** Gilmour Space touts permit for first orbital launch attempt of Australia’s first orbital-class rocket
+- <a href="https://spaceflightnow.com/2024/11/05/gilmour-space-touts-permit-for-launch-of-australias-first-orbital-class-rocket/" >🔗</a> **[Spaceflight Now]** Gilmour Space touts permit for launch of Australia’s first orbital-class rocket
 - <a href="https://www.teslarati.com/gilmour-space-looks-to-join-the-commercial-rocket-race/" >🔗</a> **[Teslarati]** Gilmour Space looks to join the commercial rocket race
 - <a href="https://spacenews.com/launch-vehicle-startup-gilmour-space-raises-36-million/" >🔗</a> **[SpaceNews]** Launch vehicle startup Gilmour Space raises $36 million
 - <a href="https://spacenews.com/gilmour-space-raises-46-million-for-small-launch-vehicle/" >🔗</a> **[SpaceNews]** Gilmour Space raises $46 million for small launch vehicle
@@ -117,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250515T060132">2025-05-15 06:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250515T063934">2025-05-15 06:39:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
