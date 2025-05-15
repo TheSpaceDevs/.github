@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-welcomes-norway-as-55th-nation-to-sign-artemis-accords/" >🔗</a> **[NASA]** NASA Welcomes Norway as 55th Nation to Sign Artemis Accords
+- <a href="https://www.nasa.gov/earth/natural-disasters/volcanoes/nasa-satellites-provide-early-volcano-warnings/" >🔗</a> **[NASA]** NASA Satellite Images Could Provide Early Volcano Warnings
 - <a href="https://www.nasa.gov/earth/natural-disasters/volcanoes/nasa-satellites-provide-earlyvolcano-warnings/" >🔗</a> **[NASA]** NASA Satellite Images Could Provide Early Volcano Warnings
 - <a href="https://spacenews.com/space-force-officials-say-its-too-early-to-pin-down-golden-dome-costs/" >🔗</a> **[SpaceNews]** Space Force officials say it’s too early to pin down Golden Dome costs
 - <a href="https://science.nasa.gov/missions/roman-space-telescope/lets-bake-a-cosmic-cake/" >🔗</a> **[NASA]** Let’s Bake a Cosmic Cake!
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/live-a-conversation-with-rep-george-whitesides/" >🔗</a> **[SpaceNews]** Live – A Conversation with Rep. George Whitesides
 - <a href="https://spacenews.com/the-cost-of-shrinking-space-science/" >🔗</a> **[SpaceNews]** The cost of shrinking space science
 - <a href="https://www.nasa.gov/missions/swot/nasa-french-swot-satellite-offers-big-view-of-small-ocean-features/" >🔗</a> **[NASA]** NASA, French SWOT Satellite Offers Big View of Small Ocean Features
-- <a href="https://science.nasa.gov/get-involved/citizen-science/space-cloud-watch-needs-your-photos-of-night-shining-clouds/" >🔗</a> **[NASA]** Space Cloud Watch Needs Your Photos of Night-Shining Clouds
-- <a href="https://www.nasa.gov/directorates/somd/meet-the-space-ops-team-christine-braden/" >🔗</a> **[NASA]** Meet the Space Ops Team: Christine Braden
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250515T200140">2025-05-15 20:01:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250515T203501">2025-05-15 20:35:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
