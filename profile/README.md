@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/how-im-2-payload-operators-made-the-most-of-the-missions-landing-issues/" >🔗</a> **[SpaceNews]** How IM-2 payload operators made the most of the mission’s landing issues
+- <a href="https://spacenews.com/aschbacher-calls-on-europe-to-increase-space-spending/" >🔗</a> **[SpaceNews]** Aschbacher calls on Europe to increase space spending
 - <a href="https://spacepolicyonline.com/news/trumps-nasa-budget-shifting-from-star-trek-to-dune/" >🔗</a> **[SpacePolicyOnline.com]** Trump’s NASA Budget — Shifting From Star Trek to Dune?
 - <a href="https://science.nasa.gov/uncategorized/a-tough-drill-at-witch-hazel-hill/" >🔗</a> **[NASA]** A Tough Drill at Witch Hazel Hill
 - <a href="https://spacenews.com/lawmakers-raise-alarm-over-rumored-cuts-to-commercial-satellite-imagery-funding/" >🔗</a> **[SpaceNews]** Lawmakers raise alarm over rumored cuts to commercial satellite imagery funding
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/rocket-lab-to-launch-nasa-astrophysics-smallsat-mission/" >🔗</a> **[SpaceNews]** Rocket Lab to launch NASA astrophysics smallsat mission
 - <a href="https://spacenews.com/arabsat-seeks-telesat-lightspeed-capacity-as-starlink-expands-into-saudi-arabia/" >🔗</a> **[SpaceNews]** Arabsat seeks Telesat Lightspeed capacity as Starlink expands into Saudi Arabia
 - <a href="https://science.nasa.gov/learning-resources/science-activation/eclipses-auroras-and-the-spark-of-becoming-nasa-inspires-future-scientists/" >🔗</a> **[NASA]** Eclipses, Auroras, and the Spark of Becoming: NASA Inspires Future Scientists
-- <a href="https://www.nasa.gov/news-release/nasa-awards-launch-service-task-order-for-asperas-galaxy-mission/" >🔗</a> **[NASA]** NASA Awards Launch Service Task Order for Aspera’s Galaxy Mission
-- <a href="https://spacenews.com/kepler-demonstrates-space-to-ground-optical-links-for-proposed-relay-network/" >🔗</a> **[SpaceNews]** Kepler demonstrates space-to-ground optical links for proposed relay network
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250515T110132">2025-05-15 11:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250515T113120">2025-05-15 11:31:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
