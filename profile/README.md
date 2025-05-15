@@ -45,7 +45,7 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250516T134350">2025-05-16 13:43:50 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 15-5&location=Vandenberg SFB, CA, USA&dates=20250516T134350Z%2F20250516T140029Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 15-5** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250516T134350">2025-05-16 13:43:50 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 15-5&location=Vandenberg SFB, CA, USA&dates=20250516T134350Z%2F20250516T135010Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 15-5** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250517T081500">2025-05-17 08:15:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | The Sea God Sees (iQPS Launch 2)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20250517T081500Z%2F20250517T091500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | The Sea God Sees (iQPS Launch 2)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250518T000000">2025-05-18 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=PSLV-XL | EOS-09 (RISAT-1B)&location=Satish Dhawan Space Centre, India&dates=20250518T000000Z%2F20250518T040000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **PSLV-XL | EOS-09 (RISAT-1B)** from Satish Dhawan Space Centre, India.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250519T072900">2025-05-19 07:29:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/un.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ceres-1S | Unknown Payload&location=Sea Launch&dates=20250519T072900Z%2F20250519T075700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ceres-1S | Unknown Payload** from Sea Launch.
@@ -54,7 +54,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250520T214200">2025-05-20 21:42:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-16&location=Vandenberg SFB, CA, USA&dates=20250520T214200Z%2F20250521T021300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-16** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250521T035400">2025-05-21 03:54:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Kinetica 1 | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20250521T035400Z%2F20250521T041500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Kinetica 1 | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250522T233000">2025-05-22 23:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Starship | Flight 9&location=SpaceX Starbase, TX, USA&dates=20250522T233000Z%2F20250523T013400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starship | Flight 9** from SpaceX Starbase, TX, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250531T000000">2025-05-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | GPS III SV08&location=Cape Canaveral SFS, FL, USA&dates=20250531T000000Z%2F20250531T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | GPS III SV08** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250524T161400">2025-05-24 16:14:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-1&location=Vandenberg SFB, CA, USA&dates=20250524T161400Z%2F20250524T201400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-1** from Vandenberg SFB, CA, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/directorates/stmd/top-prize-awarded-in-lunar-autonomy-challenge-to-virtually-map-moons-surface/" >🔗</a> **[NASA]** Top Prize Awarded in Lunar Autonomy Challenge to Virtually Map Moon’s Surface
+- <a href="https://www.nasaspaceflight.com/2025/05/artemis-ii-update-3/" >🔗</a> **[NASASpaceflight]** Artemis II stacking and preparations underway even as SLS faces budget cuts
 - <a href="https://www.nasa.gov/news-release/nasa-welcomes-norway-as-55th-nation-to-sign-artemis-accords/" >🔗</a> **[NASA]** NASA Welcomes Norway as 55th Nation to Sign Artemis Accords
 - <a href="https://www.nasa.gov/earth/natural-disasters/volcanoes/nasa-satellites-provide-early-volcano-warnings/" >🔗</a> **[NASA]** NASA Satellite Images Could Provide Early Volcano Warnings
 - <a href="https://www.nasa.gov/earth/natural-disasters/volcanoes/nasa-satellites-provide-earlyvolcano-warnings/" >🔗</a> **[NASA]** NASA Satellite Images Could Provide Early Volcano Warnings
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/directorates/armd/tacp/ui/usrc/student-teams-selected-0525/" >🔗</a> **[NASA]** NASA Selects Student Teams for Drone Hurricane Response and Cybersecurity Research
 - <a href="https://www.nasa.gov/image-article/deimos-before-dawn/" >🔗</a> **[NASA]** Deimos Before Dawn
 - <a href="https://spacenews.com/live-a-conversation-with-rep-george-whitesides/" >🔗</a> **[SpaceNews]** Live – A Conversation with Rep. George Whitesides
-- <a href="https://spacenews.com/the-cost-of-shrinking-space-science/" >🔗</a> **[SpaceNews]** The cost of shrinking space science
-- <a href="https://www.nasa.gov/missions/swot/nasa-french-swot-satellite-offers-big-view-of-small-ocean-features/" >🔗</a> **[NASA]** NASA, French SWOT Satellite Offers Big View of Small Ocean Features
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250515T220123">2025-05-15 22:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250515T223459">2025-05-15 22:34:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
