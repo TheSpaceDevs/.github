@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/directorates/somd/meet-the-space-ops-team-christine-braden/" >🔗</a> **[NASA]** Meet the Space Ops Team: Christine Braden
 - <a href="https://www.nasa.gov/missions/station/iss-research/spacewalk-research-and-technology/" >🔗</a> **[NASA]** Spacewalk Research and Technology
 - <a href="https://spacenews.com/accelerating-investment-in-the-final-frontier-leveraging-administrative-approvals-to-bolster-commercial-space-development/" >🔗</a> **[SpaceNews]** Accelerating investment in the final frontier: leveraging administrative approvals to bolster commercial space development
 - <a href="https://www.nasa.gov/directorates/smd/will-the-sun-ever-burn-out-we-asked-a-nasa-expert-episode-60/" >🔗</a> **[NASA]** Will the Sun Ever Burn Out? We Asked a NASA Expert: Episode 60
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Enabling_Support/Operations/Biomass_an_oversized_football_and_the_Australian_outback" >🔗</a> **[ESA]** Biomass, an oversized football and the Australian outback
 - <a href="https://spacepolicyonline.com/news/trumps-nasa-budget-shifting-from-star-trek-to-dune/" >🔗</a> **[SpacePolicyOnline.com]** Trump’s NASA Budget — Shifting From Star Trek to Dune?
 - <a href="https://science.nasa.gov/uncategorized/a-tough-drill-at-witch-hazel-hill/" >🔗</a> **[NASA]** A Tough Drill at Witch Hazel Hill
-- <a href="https://spacenews.com/lawmakers-raise-alarm-over-rumored-cuts-to-commercial-satellite-imagery-funding/" >🔗</a> **[SpaceNews]** Lawmakers raise alarm over rumored cuts to commercial satellite imagery funding
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250515T150132">2025-05-15 15:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250515T153419">2025-05-15 15:34:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
