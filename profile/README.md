@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/aeronautics/x-59-aluminum-bird/" >🔗</a> **[NASA]** NASA X-59’s Latest Testing Milestone: Simulating Flight from the Ground
 - <a href="https://europeanspaceflight.com/esa-launches-phase-2-of-reusable-upper-stage-demonstrator-project/" >🔗</a> **[European Spaceflight]** ESA Launches Phase 2 of Reusable Upper Stage Demonstrator Project
 - <a href="https://spacenews.com/virgin-galactic-says-production-of-new-spaceplanes-on-track/" >🔗</a> **[SpaceNews]** Virgin Galactic says production of new spaceplanes on track
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/05/Earth_from_Space_Svalbard_Archipelago" >🔗</a> **[ESA]** Earth from Space: Svalbard Archipelago
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/05/16/live-coverage-spacex-plans-morning-launch-of-starlink-satellites-from-california/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX plans morning launch of Starlink satellites from California
 - <a href="https://spacenews.com/norway-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Norway signs Artemis Accords
 - <a href="https://www.nasa.gov/directorates/stmd/top-prize-awarded-in-lunar-autonomy-challenge-to-virtually-map-moons-surface/" >🔗</a> **[NASA]** Top Prize Awarded in Lunar Autonomy Challenge to Virtually Map Moon’s Surface
-- <a href="https://www.nasaspaceflight.com/2025/05/artemis-ii-update-3/" >🔗</a> **[NASASpaceflight]** Artemis II stacking and preparations underway even as SLS faces budget cuts
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250516T100134">2025-05-16 10:01:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250516T103630">2025-05-16 10:36:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
