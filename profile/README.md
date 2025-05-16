@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/05/16/live-coverage-spacex-plans-morning-launch-of-starlink-satellites-from-california/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX plans morning launch of Starlink satellites from California
 - <a href="https://spacenews.com/norway-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Norway signs Artemis Accords
 - <a href="https://www.nasa.gov/directorates/stmd/top-prize-awarded-in-lunar-autonomy-challenge-to-virtually-map-moons-surface/" >🔗</a> **[NASA]** Top Prize Awarded in Lunar Autonomy Challenge to Virtually Map Moon’s Surface
 - <a href="https://www.nasaspaceflight.com/2025/05/artemis-ii-update-3/" >🔗</a> **[NASASpaceflight]** Artemis II stacking and preparations underway even as SLS faces budget cuts
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/space-force-officials-say-its-too-early-to-pin-down-golden-dome-costs/" >🔗</a> **[SpaceNews]** Space Force officials say it’s too early to pin down Golden Dome costs
 - <a href="https://science.nasa.gov/missions/roman-space-telescope/lets-bake-a-cosmic-cake/" >🔗</a> **[NASA]** Let’s Bake a Cosmic Cake!
 - <a href="https://www.nasa.gov/directorates/armd/tacp/ui/usrc/student-teams-selected-0525/" >🔗</a> **[NASA]** NASA Selects Student Teams for Drone Hurricane Response and Cybersecurity Research
-- <a href="https://www.nasa.gov/image-article/deimos-before-dawn/" >🔗</a> **[NASA]** Deimos Before Dawn
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250516T004555">2025-05-16 00:45:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250516T012903">2025-05-16 01:29:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
