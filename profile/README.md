@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/virgin-galactic-says-production-of-new-spaceplanes-on-track/" >🔗</a> **[SpaceNews]** Virgin Galactic says production of new spaceplanes on track
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/05/Earth_from_Space_Svalbard_Archipelago" >🔗</a> **[ESA]** Earth from Space: Svalbard Archipelago
 - <a href="https://spacenews.com/eutelsats-dod-setback-adds-to-geo-headwinds-as-leo-growth-builds/" >🔗</a> **[SpaceNews]** Eutelsat’s DoD setback adds to GEO headwinds as LEO growth builds
 - <a href="https://spacenews.com/house-hearing-on-asteroid-threats-also-takes-up-budget-threats/" >🔗</a> **[SpaceNews]** House hearing on asteroid threats also takes up budget threats
 - <a href="https://spacepolicyonline.com/news/nasas-asteroid-hunting-telescope-on-track-for-2027-launch/" >🔗</a> **[SpacePolicyOnline.com]** NASA’s Asteroid-Hunting Telescope on Track for 2027 Launch
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/directorates/stmd/top-prize-awarded-in-lunar-autonomy-challenge-to-virtually-map-moons-surface/" >🔗</a> **[NASA]** Top Prize Awarded in Lunar Autonomy Challenge to Virtually Map Moon’s Surface
 - <a href="https://www.nasaspaceflight.com/2025/05/artemis-ii-update-3/" >🔗</a> **[NASASpaceflight]** Artemis II stacking and preparations underway even as SLS faces budget cuts
 - <a href="https://www.nasa.gov/news-release/nasa-welcomes-norway-as-55th-nation-to-sign-artemis-accords/" >🔗</a> **[NASA]** NASA Welcomes Norway as 55th Nation to Sign Artemis Accords
-- <a href="https://www.nasa.gov/earth/natural-disasters/volcanoes/nasa-satellites-provide-early-volcano-warnings/" >🔗</a> **[NASA]** NASA Satellite Images Could Provide Early Volcano Warnings
-- <a href="https://www.nasa.gov/earth/natural-disasters/volcanoes/nasa-satellites-provide-earlyvolcano-warnings/" >🔗</a> **[NASA]** NASA Satellite Images Could Provide Early Volcano Warnings
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250516T080134">2025-05-16 08:01:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250516T083742">2025-05-16 08:37:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
