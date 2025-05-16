@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/nasas-lro-views-japans-resilence-lunar-lander-landing-area/" >🔗</a> **[NASA]** NASA’s LRO Views Japan’s RESILENCE Lunar Lander Landing Area
+- <a href="https://www.nasa.gov/image-article/nancy-grace-romans-100th-birthday/" >🔗</a> **[NASA]** Nancy Grace Roman’s 100th Birthday
 - <a href="https://spacenews.com/faa-license-update-brings-spacex-closer-to-next-starship-launch/" >🔗</a> **[SpaceNews]** FAA license update brings SpaceX closer to next Starship launch
 - <a href="https://www.nasa.gov/news-release/nasa-international-astronauts-address-students-from-new-york-ohio/" >🔗</a> **[NASA]** NASA, International Astronauts Address Students from New York, Ohio
 - <a href="https://spacenews.com/ses-to-demonstrate-satellite-orchestration-tech-for-military-communications/" >🔗</a> **[SpaceNews]** SES to demonstrate ‘satellite orchestration’ tech for military communications
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://arstechnica.com/space/2025/05/rocket-report-how-is-your-payload-fairing-poland-launches-test-rocket/" >🔗</a> **[Arstechnica]** Rocket Report: How is your payload fairing? Poland launches test rocket.
 - <a href="https://science.nasa.gov/missions/hubble/hubble-captures-cotton-candy-clouds/" >🔗</a> **[NASA]** Hubble Captures Cotton Candy Clouds
 - <a href="https://spacenews.com/spacexs-expanding-role-in-u-s-defense/" >🔗</a> **[SpaceNews]** Beyond launch: SpaceX’s expanding role in U.S. defense
-- <a href="https://www.nasa.gov/aeronautics/x-59-aluminum-bird/" >🔗</a> **[NASA]** NASA X-59’s Latest Testing Milestone: Simulating Flight from the Ground
-- <a href="https://europeanspaceflight.com/esa-launches-phase-2-of-reusable-upper-stage-demonstrator-project/" >🔗</a> **[European Spaceflight]** ESA Launches Phase 2 of Reusable Upper Stage Demonstrator Project
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250516T180148">2025-05-16 18:01:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250516T183814">2025-05-16 18:38:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
