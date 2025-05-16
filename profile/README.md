@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/05/rocket-report-how-is-your-payload-fairing-poland-launches-test-rocket/" >🔗</a> **[Arstechnica]** Rocket Report: How is your payload fairing? Poland launches test rocket.
+- <a href="https://science.nasa.gov/missions/hubble/hubble-captures-cotton-candy-clouds/" >🔗</a> **[NASA]** Hubble Captures Cotton Candy Clouds
+- <a href="https://spacenews.com/spacexs-expanding-role-in-u-s-defense/" >🔗</a> **[SpaceNews]** Beyond launch: SpaceX’s expanding role in U.S. defense
 - <a href="https://www.nasa.gov/aeronautics/x-59-aluminum-bird/" >🔗</a> **[NASA]** NASA X-59’s Latest Testing Milestone: Simulating Flight from the Ground
 - <a href="https://europeanspaceflight.com/esa-launches-phase-2-of-reusable-upper-stage-demonstrator-project/" >🔗</a> **[European Spaceflight]** ESA Launches Phase 2 of Reusable Upper Stage Demonstrator Project
 - <a href="https://spacenews.com/virgin-galactic-says-production-of-new-spaceplanes-on-track/" >🔗</a> **[SpaceNews]** Virgin Galactic says production of new spaceplanes on track
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/eutelsats-dod-setback-adds-to-geo-headwinds-as-leo-growth-builds/" >🔗</a> **[SpaceNews]** Eutelsat’s DoD setback adds to GEO headwinds as LEO growth builds
 - <a href="https://spacenews.com/house-hearing-on-asteroid-threats-also-takes-up-budget-threats/" >🔗</a> **[SpaceNews]** House hearing on asteroid threats also takes up budget threats
 - <a href="https://spacepolicyonline.com/news/nasas-asteroid-hunting-telescope-on-track-for-2027-launch/" >🔗</a> **[SpacePolicyOnline.com]** NASA’s Asteroid-Hunting Telescope on Track for 2027 Launch
-- <a href="https://spaceflightnow.com/2025/05/16/live-coverage-spacex-plans-morning-launch-of-starlink-satellites-from-california/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX plans morning launch of Starlink satellites from California
-- <a href="https://spacenews.com/norway-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Norway signs Artemis Accords
-- <a href="https://www.nasa.gov/directorates/stmd/top-prize-awarded-in-lunar-autonomy-challenge-to-virtually-map-moons-surface/" >🔗</a> **[NASA]** Top Prize Awarded in Lunar Autonomy Challenge to Virtually Map Moon’s Surface
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250516T110134">2025-05-16 11:01:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250516T113134">2025-05-16 11:31:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
