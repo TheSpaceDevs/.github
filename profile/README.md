@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/eutelsats-dod-setback-adds-to-geo-headwinds-as-leo-growth-builds/" >🔗</a> **[SpaceNews]** Eutelsat’s DoD setback adds to GEO headwinds as LEO growth builds
 - <a href="https://spacenews.com/house-hearing-on-asteroid-threats-also-takes-up-budget-threats/" >🔗</a> **[SpaceNews]** House hearing on asteroid threats also takes up budget threats
 - <a href="https://spacepolicyonline.com/news/nasas-asteroid-hunting-telescope-on-track-for-2027-launch/" >🔗</a> **[SpacePolicyOnline.com]** NASA’s Asteroid-Hunting Telescope on Track for 2027 Launch
 - <a href="https://spaceflightnow.com/2025/05/16/live-coverage-spacex-plans-morning-launch-of-starlink-satellites-from-california/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX plans morning launch of Starlink satellites from California
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-welcomes-norway-as-55th-nation-to-sign-artemis-accords/" >🔗</a> **[NASA]** NASA Welcomes Norway as 55th Nation to Sign Artemis Accords
 - <a href="https://www.nasa.gov/earth/natural-disasters/volcanoes/nasa-satellites-provide-early-volcano-warnings/" >🔗</a> **[NASA]** NASA Satellite Images Could Provide Early Volcano Warnings
 - <a href="https://www.nasa.gov/earth/natural-disasters/volcanoes/nasa-satellites-provide-earlyvolcano-warnings/" >🔗</a> **[NASA]** NASA Satellite Images Could Provide Early Volcano Warnings
-- <a href="https://spacenews.com/space-force-officials-say-its-too-early-to-pin-down-golden-dome-costs/" >🔗</a> **[SpaceNews]** Space Force officials say it’s too early to pin down Golden Dome costs
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250516T040306">2025-05-16 04:03:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250516T043647">2025-05-16 04:36:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
