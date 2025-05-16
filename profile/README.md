@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/faa-license-update-brings-spacex-closer-to-next-starship-launch/" >🔗</a> **[SpaceNews]** FAA license update brings SpaceX closer to next Starship launch
+- <a href="https://www.nasa.gov/news-release/nasa-international-astronauts-address-students-from-new-york-ohio/" >🔗</a> **[NASA]** NASA, International Astronauts Address Students from New York, Ohio
 - <a href="https://spacenews.com/ses-to-demonstrate-satellite-orchestration-tech-for-military-communications/" >🔗</a> **[SpaceNews]** SES to demonstrate ‘satellite orchestration’ tech for military communications
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_12-16_May_2025" >🔗</a> **[ESA]** Week in images: 12-16 May 2025
 - <a href="https://www.esa.int/Enabling_Support/Operations/Mars_Express_updates_software_extends_lifetime_until_2034" >🔗</a> **[ESA]** Mars Express updates software, extends lifetime until 2034
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/spacexs-expanding-role-in-u-s-defense/" >🔗</a> **[SpaceNews]** Beyond launch: SpaceX’s expanding role in U.S. defense
 - <a href="https://www.nasa.gov/aeronautics/x-59-aluminum-bird/" >🔗</a> **[NASA]** NASA X-59’s Latest Testing Milestone: Simulating Flight from the Ground
 - <a href="https://europeanspaceflight.com/esa-launches-phase-2-of-reusable-upper-stage-demonstrator-project/" >🔗</a> **[European Spaceflight]** ESA Launches Phase 2 of Reusable Upper Stage Demonstrator Project
-- <a href="https://spacenews.com/virgin-galactic-says-production-of-new-spaceplanes-on-track/" >🔗</a> **[SpaceNews]** Virgin Galactic says production of new spaceplanes on track
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/05/Earth_from_Space_Svalbard_Archipelago" >🔗</a> **[ESA]** Earth from Space: Svalbard Archipelago
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250516T170119">2025-05-16 17:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250516T173337">2025-05-16 17:33:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
