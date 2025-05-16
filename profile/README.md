@@ -104,12 +104,13 @@ into *a Low Earth Orbit
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2025/05/16/live-coverage-spacex-plans-morning-launch-of-starlink-satellites-from-california/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX plans morning launch of Starlink satellites from California
 - <a href="https://www.nasaspaceflight.com/2025/05/launch-roundup-051225/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Orbital launches from five countries planned
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250516T070129">2025-05-16 07:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250516T073252">2025-05-16 07:32:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
