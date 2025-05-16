@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_12-16_May_2025" >🔗</a> **[ESA]** Week in images: 12-16 May 2025
 - <a href="https://www.esa.int/Enabling_Support/Operations/Mars_Express_updates_software_extends_lifetime_until_2034" >🔗</a> **[ESA]** Mars Express updates software, extends lifetime until 2034
 - <a href="https://arstechnica.com/space/2025/05/rocket-report-how-is-your-payload-fairing-poland-launches-test-rocket/" >🔗</a> **[Arstechnica]** Rocket Report: How is your payload fairing? Poland launches test rocket.
 - <a href="https://science.nasa.gov/missions/hubble/hubble-captures-cotton-candy-clouds/" >🔗</a> **[NASA]** Hubble Captures Cotton Candy Clouds
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/virgin-galactic-says-production-of-new-spaceplanes-on-track/" >🔗</a> **[SpaceNews]** Virgin Galactic says production of new spaceplanes on track
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/05/Earth_from_Space_Svalbard_Archipelago" >🔗</a> **[ESA]** Earth from Space: Svalbard Archipelago
 - <a href="https://spacenews.com/eutelsats-dod-setback-adds-to-geo-headwinds-as-leo-growth-builds/" >🔗</a> **[SpaceNews]** Eutelsat’s DoD setback adds to GEO headwinds as LEO growth builds
-- <a href="https://spacenews.com/house-hearing-on-asteroid-threats-also-takes-up-budget-threats/" >🔗</a> **[SpaceNews]** House hearing on asteroid threats also takes up budget threats
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250516T130935">2025-05-16 13:09:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250516T133810">2025-05-16 13:38:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
