@@ -92,6 +92,7 @@ The RISAT-1 series is developed, manufactured and integrated by ISRO. The 3-axis
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/rocket-lab-launches-radar-imaging-satellite-for-iqps/" >🔗</a> **[SpaceNews]** Rocket Lab launches radar imaging satellite for iQPS
 - <a href="https://spacenews.com/landspace-launches-6-satellites-with-enhanced-zhuque-2-rocket/" >🔗</a> **[SpaceNews]** Landspace launches 6 satellites with enhanced Zhuque-2 rocket
 - <a href="https://www.nasa.gov/image-article/nasas-lro-views-japans-resilence-lunar-lander-landing-area/" >🔗</a> **[NASA]** NASA’s LRO Views Japan’s RESILENCE Lunar Lander Landing Area
 - <a href="https://www.nasa.gov/image-article/nancy-grace-romans-100th-birthday/" >🔗</a> **[NASA]** Nancy Grace Roman’s 100th Birthday
@@ -101,7 +102,6 @@ The RISAT-1 series is developed, manufactured and integrated by ISRO. The 3-axis
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_12-16_May_2025" >🔗</a> **[ESA]** Week in images: 12-16 May 2025
 - <a href="https://www.esa.int/Enabling_Support/Operations/Mars_Express_updates_software_extends_lifetime_until_2034" >🔗</a> **[ESA]** Mars Express updates software, extends lifetime until 2034
 - <a href="https://arstechnica.com/space/2025/05/rocket-report-how-is-your-payload-fairing-poland-launches-test-rocket/" >🔗</a> **[Arstechnica]** Rocket Report: How is your payload fairing? Poland launches test rocket.
-- <a href="https://science.nasa.gov/missions/hubble/hubble-captures-cotton-candy-clouds/" >🔗</a> **[NASA]** Hubble Captures Cotton Candy Clouds
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ The RISAT-1 series is developed, manufactured and integrated by ISRO. The 3-axis
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250517T140120">2025-05-17 14:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250517T143336">2025-05-17 14:33:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
