@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nga-set-to-open-st-louis-campus-in-september-aiming-to-boost-public-private-geospatial-collaboration/" >🔗</a> **[SpaceNews]** NGA set to open St. Louis campus in September, aiming to boost public-private geospatial collaboration
 - <a href="https://spacenews.com/pslv-launch-of-indian-radar-imaging-satellite-fails/" >🔗</a> **[SpaceNews]** PSLV launch of Indian radar imaging satellite fails
 - <a href="https://www.nasaspaceflight.com/2025/05/neutron-update-051625/" >🔗</a> **[NASASpaceflight]** Rocket Lab achieves multiple milestones in Neutron development
 - <a href="https://spacenews.com/rocket-lab-launches-radar-imaging-satellite-for-iqps/" >🔗</a> **[SpaceNews]** Rocket Lab launches radar imaging satellite for iQPS
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/faa-license-update-brings-spacex-closer-to-next-starship-launch/" >🔗</a> **[SpaceNews]** FAA license update brings SpaceX closer to next Starship launch
 - <a href="https://www.nasa.gov/news-release/nasa-international-astronauts-address-students-from-new-york-ohio/" >🔗</a> **[NASA]** NASA, International Astronauts Address Students from New York, Ohio
 - <a href="https://spacenews.com/ses-to-demonstrate-satellite-orchestration-tech-for-military-communications/" >🔗</a> **[SpaceNews]** SES to demonstrate ‘satellite orchestration’ tech for military communications
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_12-16_May_2025" >🔗</a> **[ESA]** Week in images: 12-16 May 2025
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250518T130646">2025-05-18 13:06:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250518T133450">2025-05-18 13:34:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
