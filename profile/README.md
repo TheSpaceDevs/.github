@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/pslv-launch-of-indian-radar-imaging-satellite-fails/" >🔗</a> **[SpaceNews]** PSLV launch of Indian radar imaging satellite fails
 - <a href="https://www.nasaspaceflight.com/2025/05/neutron-update-051625/" >🔗</a> **[NASASpaceflight]** Rocket Lab achieves multiple milestones in Neutron development
 - <a href="https://spacenews.com/rocket-lab-launches-radar-imaging-satellite-for-iqps/" >🔗</a> **[SpaceNews]** Rocket Lab launches radar imaging satellite for iQPS
 - <a href="https://spacenews.com/landspace-launches-6-satellites-with-enhanced-zhuque-2-rocket/" >🔗</a> **[SpaceNews]** Landspace launches 6 satellites with enhanced Zhuque-2 rocket
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/news-release/nasa-international-astronauts-address-students-from-new-york-ohio/" >🔗</a> **[NASA]** NASA, International Astronauts Address Students from New York, Ohio
 - <a href="https://spacenews.com/ses-to-demonstrate-satellite-orchestration-tech-for-military-communications/" >🔗</a> **[SpaceNews]** SES to demonstrate ‘satellite orchestration’ tech for military communications
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_12-16_May_2025" >🔗</a> **[ESA]** Week in images: 12-16 May 2025
-- <a href="https://www.esa.int/Enabling_Support/Operations/Mars_Express_updates_software_extends_lifetime_until_2034" >🔗</a> **[ESA]** Mars Express updates software, extends lifetime until 2034
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250518T040517">2025-05-18 04:05:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250518T043818">2025-05-18 04:38:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
