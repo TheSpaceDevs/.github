@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/voyager-technologies-files-to-go-public/" >🔗</a> **[SpaceNews]** Voyager Technologies files to go public
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/05/Streaks_on_Mars" >🔗</a> **[ESA]** Streaks on Mars
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-may-18-24-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy May 18-24, 2025
 - <a href="https://www.nasaspaceflight.com/2025/05/webb-keck-titan/" >🔗</a> **[NASASpaceflight]** Webb, Keck observe Titan; find clouds and carbon molecule in northern hemisphere
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2025/05/neutron-update-051625/" >🔗</a> **[NASASpaceflight]** Rocket Lab achieves multiple milestones in Neutron development
 - <a href="https://spacenews.com/rocket-lab-launches-radar-imaging-satellite-for-iqps/" >🔗</a> **[SpaceNews]** Rocket Lab launches radar imaging satellite for iQPS
 - <a href="https://spacenews.com/landspace-launches-6-satellites-with-enhanced-zhuque-2-rocket/" >🔗</a> **[SpaceNews]** Landspace launches 6 satellites with enhanced Zhuque-2 rocket
-- <a href="https://www.nasa.gov/image-article/nasas-lro-views-japans-resilence-lunar-lander-landing-area/" >🔗</a> **[NASA]** NASA’s LRO Views Japan’s RESILENCE Lunar Lander Landing Area
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250519T113151">2025-05-19 11:31:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250519T120215">2025-05-19 12:02:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
