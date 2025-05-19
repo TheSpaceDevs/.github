@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/japans-iqps-lines-up-eight-sar-launches/" >🔗</a> **[SpaceNews]** Japan’s iQPS lines up eight SAR launches
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/05/Galileo_Second_Generation" >🔗</a> **[ESA]** Galileo Second Generation
+- <a href="https://europeanspaceflight.com/cnes-awards-contract-to-french-spaceplane-startup/" >🔗</a> **[European Spaceflight]** CNES Awards Contract to French Spaceplane Startup
 - <a href="https://spacenews.com/seraphim-picks-10-startups-for-15th-space-accelerator/" >🔗</a> **[SpaceNews]** Seraphim picks 10 startups for 15th space accelerator
 - <a href="https://www.nasa.gov/centers-and-facilities/stennis/a-defining-era-ssme/" >🔗</a> **[NASA]** A Defining Era: NASA Stennis and Space Shuttle Main Engine Testing
 - <a href="https://spacenews.com/sophia-space-raises-3-4-million-for-orbiting-data-centers/" >🔗</a> **[SpaceNews]** Sophia Space raises $3.5 million for orbiting data centers
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/commercial-radar-satellite-firm-eyes-role-in-u-s-missile-defense/" >🔗</a> **[SpaceNews]** Commercial radar satellite firm eyes role in U.S. missile defense
 - <a href="https://spacenews.com/china-to-launch-tianwen-2-asteroid-sampling-mission-on-may-28/" >🔗</a> **[SpaceNews]** China to launch Tianwen-2 asteroid sampling mission on May 28
 - <a href="https://spacenews.com/voyager-technologies-files-to-go-public/" >🔗</a> **[SpaceNews]** Voyager Technologies files to go public
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/05/Streaks_on_Mars" >🔗</a> **[ESA]** Streaks on Mars
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-may-18-24-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy May 18-24, 2025
-- <a href="https://www.nasaspaceflight.com/2025/05/webb-keck-titan/" >🔗</a> **[NASASpaceflight]** Webb, Keck observe Titan; find clouds and carbon molecule in northern hemisphere
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250519T150129">2025-05-19 15:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250519T153453">2025-05-19 15:34:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
