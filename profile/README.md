@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nato-allies-to-pledge-capabilities-to-address-growing-threats/" >🔗</a> **[SpaceNews]** NATO allies to pledge capabilities to address growing threats
+- <a href="https://spaceflightnow.com/2025/05/19/department-of-the-air-force-issues-draft-documents-for-new-spacex-launch-site-at-vandenberg-space-force-base/" >🔗</a> **[Spaceflight Now]** Department of the Air Force issues draft documents for new SpaceX launch site at Vandenberg Space Force Base
 - <a href="https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-mars-rover-to-take-bite-out-of-krokodillen/" >🔗</a> **[NASA]** NASA’s Perseverance Mars Rover to Take Bite Out of ‘Krokodillen’
 - <a href="https://spacenews.com/geoint-2025-navigating-intelligence-in-a-shifting-world/" >🔗</a> **[SpaceNews]** GEOINT 2025: Navigating intelligence in a shifting world
 - <a href="https://spacenews.com/satvus-thermal-imaging-satellite-winning-over-customers-despite-early-setback/" >🔗</a> **[SpaceNews]** SatVu’s thermal imaging satellite winning over customers despite early setback
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/japans-iqps-lines-up-eight-sar-launches/" >🔗</a> **[SpaceNews]** Japan’s iQPS lines up eight SAR launches
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/05/Galileo_Second_Generation" >🔗</a> **[ESA]** Galileo Second Generation
 - <a href="https://europeanspaceflight.com/cnes-awards-contract-to-french-spaceplane-startup/" >🔗</a> **[European Spaceflight]** CNES Awards Contract to French Spaceplane Startup
-- <a href="https://spacenews.com/seraphim-picks-10-startups-for-15th-space-accelerator/" >🔗</a> **[SpaceNews]** Seraphim picks 10 startups for 15th space accelerator
-- <a href="https://www.nasa.gov/centers-and-facilities/stennis/a-defining-era-ssme/" >🔗</a> **[NASA]** A Defining Era: NASA Stennis and Space Shuttle Main Engine Testing
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250519T193102">2025-05-19 19:31:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250519T200141">2025-05-19 20:01:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
