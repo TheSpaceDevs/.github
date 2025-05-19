@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/gabbard-signals-shift-in-u-s-intelligence-collection-priorities/" >🔗</a> **[SpaceNews]** Gabbard signals shift in U.S. intelligence collection priorities
+- <a href="https://science.nasa.gov/blog/sols-4541-4542-boxwork-structure-or-just-box-like-structure/" >🔗</a> **[NASA]** Sols 4541–4542: Boxwork Structure, or Just “Box-Like” Structure?
 - <a href="https://spacenews.com/nato-allies-to-pledge-capabilities-to-address-growing-threats/" >🔗</a> **[SpaceNews]** NATO allies to pledge capabilities to address growing threats
 - <a href="https://spaceflightnow.com/2025/05/19/department-of-the-air-force-issues-draft-documents-for-new-spacex-launch-site-at-vandenberg-space-force-base/" >🔗</a> **[Spaceflight Now]** Department of the Air Force issues draft documents for new SpaceX launch site at Vandenberg Space Force Base
 - <a href="https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-mars-rover-to-take-bite-out-of-krokodillen/" >🔗</a> **[NASA]** NASA’s Perseverance Mars Rover to Take Bite Out of ‘Krokodillen’
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/scientists-urge-nasa-to-act-on-apophis-mission-concept/" >🔗</a> **[SpaceNews]** Scientists urge NASA to act on Apophis mission concept
 - <a href="https://www.nasa.gov/image-article/webb-finds-icy-disk/" >🔗</a> **[NASA]** Webb Finds Icy Disk
 - <a href="https://spacenews.com/japans-iqps-lines-up-eight-sar-launches/" >🔗</a> **[SpaceNews]** Japan’s iQPS lines up eight SAR launches
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/05/Galileo_Second_Generation" >🔗</a> **[ESA]** Galileo Second Generation
-- <a href="https://europeanspaceflight.com/cnes-awards-contract-to-french-spaceplane-startup/" >🔗</a> **[European Spaceflight]** CNES Awards Contract to French Spaceplane Startup
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250519T200141">2025-05-19 20:01:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250519T203425">2025-05-19 20:34:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
