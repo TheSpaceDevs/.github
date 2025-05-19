@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/05/launch-roundup-051925/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX to start new Starlink shell; China, Russia to launch unknown payloads
 - <a href="https://spacenews.com/gabbard-signals-shift-in-u-s-intelligence-collection-priorities/" >🔗</a> **[SpaceNews]** Gabbard signals shift in U.S. intelligence collection priorities
 - <a href="https://science.nasa.gov/blog/sols-4541-4542-boxwork-structure-or-just-box-like-structure/" >🔗</a> **[NASA]** Sols 4541–4542: Boxwork Structure, or Just “Box-Like” Structure?
 - <a href="https://spacenews.com/nato-allies-to-pledge-capabilities-to-address-growing-threats/" >🔗</a> **[SpaceNews]** NATO allies to pledge capabilities to address growing threats
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/satvus-thermal-imaging-satellite-winning-over-customers-despite-early-setback/" >🔗</a> **[SpaceNews]** SatVu’s thermal imaging satellite winning over customers despite early setback
 - <a href="https://spacenews.com/scientists-urge-nasa-to-act-on-apophis-mission-concept/" >🔗</a> **[SpaceNews]** Scientists urge NASA to act on Apophis mission concept
 - <a href="https://www.nasa.gov/image-article/webb-finds-icy-disk/" >🔗</a> **[NASA]** Webb Finds Icy Disk
-- <a href="https://spacenews.com/japans-iqps-lines-up-eight-sar-launches/" >🔗</a> **[SpaceNews]** Japan’s iQPS lines up eight SAR launches
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250519T220128">2025-05-19 22:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250519T223502">2025-05-19 22:35:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
