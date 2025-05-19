@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/as-washington-rethinks-broadband-strategy-satellite-solutions-deserve-equal-consideration/" >🔗</a> **[SpaceNews]** As Washington rethinks broadband strategy, satellite solutions deserve equal consideration
+- <a href="https://spacenews.com/sophia-space-raises-3-4-million-for-orbiting-data-centers/" >🔗</a> **[SpaceNews]** Sophia Space raises $3.5 million for orbiting data centers
+- <a href="https://spacenews.com/commercial-radar-satellite-firm-eyes-role-in-u-s-missile-defense/" >🔗</a> **[SpaceNews]** Commercial radar satellite firm eyes role in U.S. missile defense
 - <a href="https://spacenews.com/china-to-launch-tianwen-2-asteroid-sampling-mission-on-may-28/" >🔗</a> **[SpaceNews]** China to launch Tianwen-2 asteroid sampling mission on May 28
 - <a href="https://spacenews.com/voyager-technologies-files-to-go-public/" >🔗</a> **[SpaceNews]** Voyager Technologies files to go public
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/05/Streaks_on_Mars" >🔗</a> **[ESA]** Streaks on Mars
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2025/05/webb-keck-titan/" >🔗</a> **[NASASpaceflight]** Webb, Keck observe Titan; find clouds and carbon molecule in northern hemisphere
 - <a href="https://spacenews.com/capella-space-bets-on-quantum-future-under-ionq-ownership/" >🔗</a> **[SpaceNews]** Capella Space bets on quantum future under IonQ ownership
 - <a href="https://spacenews.com/nga-set-to-open-st-louis-campus-in-september-aiming-to-boost-public-private-geospatial-collaboration/" >🔗</a> **[SpaceNews]** NGA set to open St. Louis campus in September, aiming to boost public-private geospatial collaboration
-- <a href="https://spacenews.com/pslv-launch-of-indian-radar-imaging-satellite-fails/" >🔗</a> **[SpaceNews]** PSLV launch of Indian radar imaging satellite fails
-- <a href="https://www.nasaspaceflight.com/2025/05/neutron-update-051625/" >🔗</a> **[NASASpaceflight]** Rocket Lab achieves multiple milestones in Neutron development
-- <a href="https://spacenews.com/rocket-lab-launches-radar-imaging-satellite-for-iqps/" >🔗</a> **[SpaceNews]** Rocket Lab launches radar imaging satellite for iQPS
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250519T131035">2025-05-19 13:10:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250519T133927">2025-05-19 13:39:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
