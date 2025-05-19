@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/scientists-urge-nasa-to-act-on-apophis-mission-concept/" >🔗</a> **[SpaceNews]** Scientists urge NASA to act on Apophis mission concept
 - <a href="https://www.nasa.gov/image-article/webb-finds-icy-disk/" >🔗</a> **[NASA]** Webb Finds Icy Disk
 - <a href="https://spacenews.com/japans-iqps-lines-up-eight-sar-launches/" >🔗</a> **[SpaceNews]** Japan’s iQPS lines up eight SAR launches
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/05/Galileo_Second_Generation" >🔗</a> **[ESA]** Galileo Second Generation
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/sophia-space-raises-3-4-million-for-orbiting-data-centers/" >🔗</a> **[SpaceNews]** Sophia Space raises $3.5 million for orbiting data centers
 - <a href="https://spacenews.com/as-washington-rethinks-broadband-strategy-satellite-solutions-deserve-equal-consideration/" >🔗</a> **[SpaceNews]** As Washington rethinks broadband strategy, satellite solutions deserve equal consideration
 - <a href="https://spacenews.com/commercial-radar-satellite-firm-eyes-role-in-u-s-missile-defense/" >🔗</a> **[SpaceNews]** Commercial radar satellite firm eyes role in U.S. missile defense
-- <a href="https://spacenews.com/china-to-launch-tianwen-2-asteroid-sampling-mission-on-may-28/" >🔗</a> **[SpaceNews]** China to launch Tianwen-2 asteroid sampling mission on May 28
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250519T170130">2025-05-19 17:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250519T173407">2025-05-19 17:34:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
