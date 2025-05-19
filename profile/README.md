@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/as-washington-rethinks-broadband-strategy-satellite-solutions-deserve-equal-consideration/" >🔗</a> **[SpaceNews]** As Washington rethinks broadband strategy, satellite solutions deserve equal consideration
+- <a href="https://spacenews.com/seraphim-picks-10-startups-for-15th-space-accelerator/" >🔗</a> **[SpaceNews]** Seraphim picks 10 startups for 15th space accelerator
+- <a href="https://www.nasa.gov/centers-and-facilities/stennis/a-defining-era-ssme/" >🔗</a> **[NASA]** A Defining Era: NASA Stennis and Space Shuttle Main Engine Testing
 - <a href="https://spacenews.com/sophia-space-raises-3-4-million-for-orbiting-data-centers/" >🔗</a> **[SpaceNews]** Sophia Space raises $3.5 million for orbiting data centers
+- <a href="https://spacenews.com/as-washington-rethinks-broadband-strategy-satellite-solutions-deserve-equal-consideration/" >🔗</a> **[SpaceNews]** As Washington rethinks broadband strategy, satellite solutions deserve equal consideration
 - <a href="https://spacenews.com/commercial-radar-satellite-firm-eyes-role-in-u-s-missile-defense/" >🔗</a> **[SpaceNews]** Commercial radar satellite firm eyes role in U.S. missile defense
 - <a href="https://spacenews.com/china-to-launch-tianwen-2-asteroid-sampling-mission-on-may-28/" >🔗</a> **[SpaceNews]** China to launch Tianwen-2 asteroid sampling mission on May 28
 - <a href="https://spacenews.com/voyager-technologies-files-to-go-public/" >🔗</a> **[SpaceNews]** Voyager Technologies files to go public
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/05/Streaks_on_Mars" >🔗</a> **[ESA]** Streaks on Mars
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-may-18-24-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy May 18-24, 2025
 - <a href="https://www.nasaspaceflight.com/2025/05/webb-keck-titan/" >🔗</a> **[NASASpaceflight]** Webb, Keck observe Titan; find clouds and carbon molecule in northern hemisphere
-- <a href="https://spacenews.com/capella-space-bets-on-quantum-future-under-ionq-ownership/" >🔗</a> **[SpaceNews]** Capella Space bets on quantum future under IonQ ownership
-- <a href="https://spacenews.com/nga-set-to-open-st-louis-campus-in-september-aiming-to-boost-public-private-geospatial-collaboration/" >🔗</a> **[SpaceNews]** NGA set to open St. Louis campus in September, aiming to boost public-private geospatial collaboration
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250519T140128">2025-05-19 14:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250519T143608">2025-05-19 14:36:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
