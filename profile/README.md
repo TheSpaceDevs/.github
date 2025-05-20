@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/esa-awards-contract-for-probe-that-will-land-on-earth-skimming-asteroid/" >🔗</a> **[European Spaceflight]** ESA Awards Contract for Probe That Will Land on Earth-Skimming Asteroid
+- <a href="https://spacenews.com/mda-space-raises-satixfy-offer-by-43-to-counter-competing-bid/" >🔗</a> **[SpaceNews]** MDA Space raises SatixFy offer by 43% to counter competing bid
 - <a href="https://spacenews.com/satellite-firms-brace-for-potential-imagery-budget-cuts-in-2026/" >🔗</a> **[SpaceNews]** Satellite firms brace for potential imagery budget cuts in 2026
 - <a href="https://spacenews.com/china-launches-classified-comms-satellite-conducts-commercial-sea-launch/" >🔗</a> **[SpaceNews]** China launches classified comms satellite, conducts commercial sea launch
 - <a href="https://www.nasa.gov/image-article/sunset-on-mars/" >🔗</a> **[NASA]** Sunset on Mars
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/disrupting-the-intelligence-machine-a-conversation-with-robert-cardillo/" >🔗</a> **[SpaceNews]** Disrupting the intelligence machine: A conversation with Robert Cardillo
 - <a href="https://spacenews.com/kuva-to-offer-maritime-domain-insights-with-satellite-on-deck/" >🔗</a> **[SpaceNews]** Kuva to offer maritime-domain insights with satellite on deck
 - <a href="https://www.nasa.gov/news-release/nasa-to-welcome-expedition-72-astronauts-home-at-space-center-houston/" >🔗</a> **[NASA]** NASA to Welcome Expedition 72 Astronauts Home at Space Center Houston
-- <a href="https://science.nasa.gov/science-research/science-enabling-technology/unearthly-plumbing-required-for-plant-watering-in-space/" >🔗</a> **[NASA]** Unearthly Plumbing Required for Plant Watering in Space
-- <a href="https://spacenews.com/geospatial-intelligence-agency-urges-faster-ai-deployment/" >🔗</a> **[SpaceNews]** Geospatial intelligence agency urges faster AI deployment
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250520T200140">2025-05-20 20:01:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250520T203451">2025-05-20 20:34:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
