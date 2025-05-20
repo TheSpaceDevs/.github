@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/kuva-to-offer-maritime-domain-insights-with-satellite-on-deck/" >🔗</a> **[SpaceNews]** Kuva to offer maritime-domain insights with satellite on deck
 - <a href="https://www.nasa.gov/news-release/nasa-to-welcome-expedition-72-astronauts-home-at-space-center-houston/" >🔗</a> **[NASA]** NASA to Welcome Expedition 72 Astronauts Home at Space Center Houston
 - <a href="https://science.nasa.gov/science-research/science-enabling-technology/unearthly-plumbing-required-for-plant-watering-in-space/" >🔗</a> **[NASA]** Unearthly Plumbing Required for Plant Watering in Space
 - <a href="https://spacenews.com/geospatial-intelligence-agency-urges-faster-ai-deployment/" >🔗</a> **[SpaceNews]** Geospatial intelligence agency urges faster AI deployment
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2025/05/starfish-plans-first-commercial-satellite-docking/" >🔗</a> **[NASASpaceflight]** Starfish Space announces plans for first commercial satellite docking
 - <a href="https://spacenews.com/wyvern-publicly-releases-25-hyperspectral-images/" >🔗</a> **[SpaceNews]** Wyvern publicly releases 25 hyperspectral images
 - <a href="https://science.nasa.gov/missions/hubble/hubble-images-galaxies-near-and-far/" >🔗</a> **[NASA]** Hubble Images Galaxies Near and Far
-- <a href="https://arstechnica.com/space/2025/05/tuesday-telescope-finally-some-answers-on-those-martian-streaks/" >🔗</a> **[Arstechnica]** Tuesday Telescope: Finally, some answers on those Martian streaks
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250520T160131">2025-05-20 16:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250520T163753">2025-05-20 16:37:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
