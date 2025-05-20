@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/05/19/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-launch-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 23 Starlink satellites on Falcon 9 launch from Cape Canaveral
 - <a href="https://spacenews.com/si-imaging-services-to-offer-leasing-of-high-resolution-imaging-satellite/" >🔗</a> **[SpaceNews]** SI Imaging Services to offer leasing of high-resolution imaging satellite
 - <a href="https://www.nasaspaceflight.com/2025/05/launch-roundup-051925/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX to start new Starlink shell; China, Russia to launch unknown payloads
 - <a href="https://spacenews.com/gabbard-signals-shift-in-u-s-intelligence-collection-priorities/" >🔗</a> **[SpaceNews]** Gabbard signals shift in U.S. intelligence collection priorities
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-mars-rover-to-take-bite-out-of-krokodillen/" >🔗</a> **[NASA]** NASA’s Perseverance Mars Rover to Take Bite Out of ‘Krokodillen’
 - <a href="https://spacenews.com/geoint-2025-navigating-intelligence-in-a-shifting-world/" >🔗</a> **[SpaceNews]** GEOINT 2025: Navigating intelligence in a shifting world
 - <a href="https://spacenews.com/satvus-thermal-imaging-satellite-winning-over-customers-despite-early-setback/" >🔗</a> **[SpaceNews]** SatVu’s thermal imaging satellite winning over customers despite early setback
-- <a href="https://spacenews.com/scientists-urge-nasa-to-act-on-apophis-mission-concept/" >🔗</a> **[SpaceNews]** Scientists urge NASA to act on Apophis mission concept
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250519T233232">2025-05-19 23:32:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250520T000510">2025-05-20 00:05:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
