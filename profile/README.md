@@ -23,7 +23,7 @@ The next space launch, retrieved from our
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
 from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral SFS, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250521T031830">2025-05-21 03:18:30 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250521T031910">2025-05-21 03:19:10 UTC</a>.  Until
 then, this pad will have been used for 307
 out of 1023 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
@@ -45,7 +45,7 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250521T031830">2025-05-21 03:18:30 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-15&location=Cape Canaveral SFS, FL, USA&dates=20250521T031830Z%2F20250521T032650Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-15** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250521T031910">2025-05-21 03:19:10 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-15&location=Cape Canaveral SFS, FL, USA&dates=20250521T031910Z%2F20250521T032349Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-15** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250521T035400">2025-05-21 03:54:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Kinetica 1 | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20250521T035400Z%2F20250521T041500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Kinetica 1 | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250521T212000">2025-05-21 21:20:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-16&location=Vandenberg SFB, CA, USA&dates=20250521T212000Z%2F20250522T015100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-16** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250523T070000">2025-05-23 07:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a/Fregat-M | Kosmos (Unknown Payload)&location=Plesetsk Cosmodrome, Russian Federation&dates=20250523T070000Z%2F20250523T090000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a/Fregat-M | Kosmos (Unknown Payload)** from Plesetsk Cosmodrome, Russian Federation.
@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/trump-taps-space-force-general-to-lead-175-billion-golden-dome-missile-defense-program/" >🔗</a> **[SpaceNews]** Trump taps Space Force general to lead $175 billion Golden Dome missile defense program
+- <a href="https://spaceflightnow.com/2025/05/20/live-coverage-new-falcon-9-booster-to-make-second-attempt-at-debut-on-starlink-delivery-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: New Falcon 9 booster to make second attempt at debut on Starlink delivery mission
 - <a href="https://spacepolicyonline.com/news/ussfs-gen-michael-guetlein-appointed-to-lead-golden-dome-project/" >🔗</a> **[SpacePolicyOnline.com]** USSF’s Gen. Michael Guetlein Appointed to Lead Golden Dome Project
 - <a href="https://science.nasa.gov/blog/sols-4543-4545-leaving-the-ridge-for-the-ridges/" >🔗</a> **[NASA]** Sols 4543-4545: Leaving the Ridge for the Ridges
 - <a href="https://europeanspaceflight.com/esa-awards-contract-for-probe-that-will-land-on-earth-skimming-asteroid/" >🔗</a> **[European Spaceflight]** ESA Awards Contract for Probe That Will Land on Earth-Skimming Asteroid
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/china-launches-classified-comms-satellite-conducts-commercial-sea-launch/" >🔗</a> **[SpaceNews]** China launches classified comms satellite, conducts commercial sea launch
 - <a href="https://www.nasa.gov/image-article/sunset-on-mars/" >🔗</a> **[NASA]** Sunset on Mars
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-32nd-spacex-resupply-mission-departure/" >🔗</a> **[NASA]** NASA Sets Coverage for 32nd SpaceX Resupply Mission Departure
-- <a href="https://spacenews.com/jason-rainbow-appointed-business-intelligence-manager-at-spacenews/" >🔗</a> **[SpaceNews]** Jason Rainbow Appointed Business Intelligence Manager at SpaceNews
-- <a href="https://spacenews.com/disrupting-the-intelligence-machine-a-conversation-with-robert-cardillo/" >🔗</a> **[SpaceNews]** Disrupting the intelligence machine: A conversation with Robert Cardillo
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250520T230124">2025-05-20 23:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250520T233221">2025-05-20 23:32:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
