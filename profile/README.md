@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Applications/Satellite_navigation/Galileo/Galileo_Second_Generation_developing_at_full_speed" >🔗</a> **[ESA]** Galileo Second Generation developing at full speed
 - <a href="https://spacenews.com/starfish-space-ready-to-launch-docking-demonstration-mission/" >🔗</a> **[SpaceNews]** Starfish Space ready to launch docking demonstration mission
 - <a href="https://www.nasaspaceflight.com/2025/05/starfish-plans-first-commercial-satellite-docking/" >🔗</a> **[NASASpaceflight]** Starfish Space announces plans for first commercial satellite docking
 - <a href="https://spacenews.com/wyvern-publicly-releases-25-hyperspectral-images/" >🔗</a> **[SpaceNews]** Wyvern publicly releases 25 hyperspectral images
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Space_Safety/Planetary_Defence/Second_CubeSat_joins_ESA_s_Ramses_mission_to_asteroid_Apophis" >🔗</a> **[ESA]** Second CubeSat joins ESA’s Ramses mission to asteroid Apophis
 - <a href="https://spaceflightnow.com/2025/05/19/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-launch-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 23 Starlink satellites on Falcon 9 launch from Cape Canaveral
 - <a href="https://spacenews.com/si-imaging-services-to-offer-leasing-of-high-resolution-imaging-satellite/" >🔗</a> **[SpaceNews]** SI Imaging Services to offer leasing of high-resolution imaging satellite
-- <a href="https://www.nasaspaceflight.com/2025/05/launch-roundup-051925/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX to start new Starlink shell; China, Russia to launch unknown payloads
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250520T140131">2025-05-20 14:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250520T143601">2025-05-20 14:36:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
