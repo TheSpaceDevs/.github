@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/jason-rainbow-appointed-business-intelligence-manager-at-spacenews/" >🔗</a> **[SpaceNews]** Jason Rainbow Appointed Business Intelligence Manager at SpaceNews
+- <a href="https://spacenews.com/disrupting-the-intelligence-machine-a-conversation-with-robert-cardillo/" >🔗</a> **[SpaceNews]** Disrupting the intelligence machine: A conversation with Robert Cardillo
 - <a href="https://spacenews.com/kuva-to-offer-maritime-domain-insights-with-satellite-on-deck/" >🔗</a> **[SpaceNews]** Kuva to offer maritime-domain insights with satellite on deck
 - <a href="https://www.nasa.gov/news-release/nasa-to-welcome-expedition-72-astronauts-home-at-space-center-houston/" >🔗</a> **[NASA]** NASA to Welcome Expedition 72 Astronauts Home at Space Center Houston
 - <a href="https://science.nasa.gov/science-research/science-enabling-technology/unearthly-plumbing-required-for-plant-watering-in-space/" >🔗</a> **[NASA]** Unearthly Plumbing Required for Plant Watering in Space
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Galileo/Galileo_Second_Generation_developing_at_full_speed" >🔗</a> **[ESA]** Galileo Second Generation developing at full speed
 - <a href="https://spacenews.com/starfish-space-ready-to-launch-docking-demonstration-mission/" >🔗</a> **[SpaceNews]** Starfish Space ready to launch docking demonstration mission
 - <a href="https://www.nasaspaceflight.com/2025/05/starfish-plans-first-commercial-satellite-docking/" >🔗</a> **[NASASpaceflight]** Starfish Space announces plans for first commercial satellite docking
-- <a href="https://spacenews.com/wyvern-publicly-releases-25-hyperspectral-images/" >🔗</a> **[SpaceNews]** Wyvern publicly releases 25 hyperspectral images
-- <a href="https://science.nasa.gov/missions/hubble/hubble-images-galaxies-near-and-far/" >🔗</a> **[NASA]** Hubble Images Galaxies Near and Far
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250520T170127">2025-05-20 17:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250520T173413">2025-05-20 17:34:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
