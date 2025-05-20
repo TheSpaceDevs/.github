@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/sunset-on-mars/" >🔗</a> **[NASA]** Sunset on Mars
+- <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-32nd-spacex-resupply-mission-departure/" >🔗</a> **[NASA]** NASA Sets Coverage for 32nd SpaceX Resupply Mission Departure
 - <a href="https://spacenews.com/jason-rainbow-appointed-business-intelligence-manager-at-spacenews/" >🔗</a> **[SpaceNews]** Jason Rainbow Appointed Business Intelligence Manager at SpaceNews
 - <a href="https://spacenews.com/disrupting-the-intelligence-machine-a-conversation-with-robert-cardillo/" >🔗</a> **[SpaceNews]** Disrupting the intelligence machine: A conversation with Robert Cardillo
 - <a href="https://spacenews.com/kuva-to-offer-maritime-domain-insights-with-satellite-on-deck/" >🔗</a> **[SpaceNews]** Kuva to offer maritime-domain insights with satellite on deck
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/geospatial-intelligence-agency-urges-faster-ai-deployment/" >🔗</a> **[SpaceNews]** Geospatial intelligence agency urges faster AI deployment
 - <a href="https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-the-international-space-station-grades-5-8/" >🔗</a> **[NASA]** What Is the International Space Station? (Grades 5-8)
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Galileo/Galileo_Second_Generation_developing_at_full_speed" >🔗</a> **[ESA]** Galileo Second Generation developing at full speed
-- <a href="https://spacenews.com/starfish-space-ready-to-launch-docking-demonstration-mission/" >🔗</a> **[SpaceNews]** Starfish Space ready to launch docking demonstration mission
-- <a href="https://www.nasaspaceflight.com/2025/05/starfish-plans-first-commercial-satellite-docking/" >🔗</a> **[NASASpaceflight]** Starfish Space announces plans for first commercial satellite docking
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250520T180142">2025-05-20 18:01:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250520T183929">2025-05-20 18:39:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
