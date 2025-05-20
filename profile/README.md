@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/05/tuesday-telescope-finally-some-answers-on-those-martian-streaks/" >🔗</a> **[Arstechnica]** Tuesday Telescope: Finally, some answers on those Martian streaks
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/andrea-harringtons-vision-paves-the-way-for-artemis-missions/" >🔗</a> **[NASA]** Andrea Harrington’s Vision Paves the Way for Lunar Missions
 - <a href="https://www.esa.int/Space_Safety/Planetary_Defence/Second_CubeSat_joins_ESA_s_Ramses_mission_to_asteroid_Apophis" >🔗</a> **[ESA]** Second CubeSat joins ESA’s Ramses mission to asteroid Apophis
 - <a href="https://spaceflightnow.com/2025/05/19/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-launch-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 23 Starlink satellites on Falcon 9 launch from Cape Canaveral
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/blog/sols-4541-4542-boxwork-structure-or-just-box-like-structure/" >🔗</a> **[NASA]** Sols 4541–4542: Boxwork Structure, or Just “Box-Like” Structure?
 - <a href="https://spacenews.com/nato-allies-to-pledge-capabilities-to-address-growing-threats/" >🔗</a> **[SpaceNews]** NATO allies to pledge capabilities to address growing threats
 - <a href="https://spaceflightnow.com/2025/05/19/department-of-the-air-force-issues-draft-documents-for-new-spacex-launch-site-at-vandenberg-space-force-base/" >🔗</a> **[Spaceflight Now]** Department of the Air Force issues draft documents for new SpaceX launch site at Vandenberg Space Force Base
-- <a href="https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-mars-rover-to-take-bite-out-of-krokodillen/" >🔗</a> **[NASA]** NASA’s Perseverance Mars Rover to Take Bite Out of ‘Krokodillen’
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250520T110118">2025-05-20 11:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250520T113149">2025-05-20 11:31:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
