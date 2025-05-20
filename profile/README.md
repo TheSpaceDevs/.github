@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/andrea-harringtons-vision-paves-the-way-for-artemis-missions/" >🔗</a> **[NASA]** Andrea Harrington’s Vision Paves the Way for Lunar Missions
 - <a href="https://www.esa.int/Space_Safety/Planetary_Defence/Second_CubeSat_joins_ESA_s_Ramses_mission_to_asteroid_Apophis" >🔗</a> **[ESA]** Second CubeSat joins ESA’s Ramses mission to asteroid Apophis
 - <a href="https://spaceflightnow.com/2025/05/19/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-launch-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 23 Starlink satellites on Falcon 9 launch from Cape Canaveral
 - <a href="https://spacenews.com/si-imaging-services-to-offer-leasing-of-high-resolution-imaging-satellite/" >🔗</a> **[SpaceNews]** SI Imaging Services to offer leasing of high-resolution imaging satellite
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/nato-allies-to-pledge-capabilities-to-address-growing-threats/" >🔗</a> **[SpaceNews]** NATO allies to pledge capabilities to address growing threats
 - <a href="https://spaceflightnow.com/2025/05/19/department-of-the-air-force-issues-draft-documents-for-new-spacex-launch-site-at-vandenberg-space-force-base/" >🔗</a> **[Spaceflight Now]** Department of the Air Force issues draft documents for new SpaceX launch site at Vandenberg Space Force Base
 - <a href="https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-mars-rover-to-take-bite-out-of-krokodillen/" >🔗</a> **[NASA]** NASA’s Perseverance Mars Rover to Take Bite Out of ‘Krokodillen’
-- <a href="https://spacenews.com/geoint-2025-navigating-intelligence-in-a-shifting-world/" >🔗</a> **[SpaceNews]** GEOINT 2025: Navigating intelligence in a shifting world
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250520T100133">2025-05-20 10:01:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250520T103656">2025-05-20 10:36:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
