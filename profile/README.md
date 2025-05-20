@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://spacenews.com/wyvern-publicly-releases-25-hyperspectral-images/" >🔗</a> **[SpaceNews]** Wyvern publicly releases 25 hyperspectral images
+- <a href="https://science.nasa.gov/missions/hubble/hubble-images-galaxies-near-and-far/" >🔗</a> **[NASA]** Hubble Images Galaxies Near and Far
 - <a href="https://arstechnica.com/space/2025/05/tuesday-telescope-finally-some-answers-on-those-martian-streaks/" >🔗</a> **[Arstechnica]** Tuesday Telescope: Finally, some answers on those Martian streaks
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/andrea-harringtons-vision-paves-the-way-for-artemis-missions/" >🔗</a> **[NASA]** Andrea Harrington’s Vision Paves the Way for Lunar Missions
 - <a href="https://www.esa.int/Space_Safety/Planetary_Defence/Second_CubeSat_joins_ESA_s_Ramses_mission_to_asteroid_Apophis" >🔗</a> **[ESA]** Second CubeSat joins ESA’s Ramses mission to asteroid Apophis
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2025/05/launch-roundup-051925/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX to start new Starlink shell; China, Russia to launch unknown payloads
 - <a href="https://spacenews.com/gabbard-signals-shift-in-u-s-intelligence-collection-priorities/" >🔗</a> **[SpaceNews]** Gabbard signals shift in U.S. intelligence collection priorities
 - <a href="https://science.nasa.gov/blog/sols-4541-4542-boxwork-structure-or-just-box-like-structure/" >🔗</a> **[NASA]** Sols 4541–4542: Boxwork Structure, or Just “Box-Like” Structure?
-- <a href="https://spacenews.com/nato-allies-to-pledge-capabilities-to-address-growing-threats/" >🔗</a> **[SpaceNews]** NATO allies to pledge capabilities to address growing threats
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250520T120217">2025-05-20 12:02:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250520T124329">2025-05-20 12:43:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
