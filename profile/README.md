@@ -53,7 +53,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250525T161400">2025-05-25 16:14:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-1&location=Vandenberg SFB, CA, USA&dates=20250525T161400Z%2F20250525T201400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-1** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250527T233000">2025-05-27 23:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Starship | Flight 9&location=SpaceX Starbase, TX, USA&dates=20250527T233000Z%2F20250528T013400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starship | Flight 9** from SpaceX Starbase, TX, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250528T000000">2025-05-28 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 3B/E | Tianwen-2&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20250528T000000Z%2F20250528T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 3B/E | Tianwen-2** from Xichang Satellite Launch Center, People's Republic of China.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250528T133000">2025-05-28 13:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-32&location=Cape Canaveral SFS, FL, USA&dates=20250528T133000Z%2F20250528T180000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-32** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250528T133000">2025-05-28 13:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-32&location=Kennedy Space Center, FL, USA&dates=20250528T133000Z%2F20250528T180000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-32** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250530T202400">2025-05-30 20:24:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-18&location=Vandenberg SFB, CA, USA&dates=20250530T202400Z%2F20250531T005500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-18** from Vandenberg SFB, CA, USA.
 
 
@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/satellite-firms-brace-for-potential-imagery-budget-cuts-in-2026/" >🔗</a> **[SpaceNews]** Satellite firms brace for potential imagery budget cuts in 2026
+- <a href="https://spacenews.com/china-launches-classified-comms-satellite-conducts-commercial-sea-launch/" >🔗</a> **[SpaceNews]** China launches classified comms satellite, conducts commercial sea launch
 - <a href="https://www.nasa.gov/image-article/sunset-on-mars/" >🔗</a> **[NASA]** Sunset on Mars
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-32nd-spacex-resupply-mission-departure/" >🔗</a> **[NASA]** NASA Sets Coverage for 32nd SpaceX Resupply Mission Departure
 - <a href="https://spacenews.com/jason-rainbow-appointed-business-intelligence-manager-at-spacenews/" >🔗</a> **[SpaceNews]** Jason Rainbow Appointed Business Intelligence Manager at SpaceNews
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-to-welcome-expedition-72-astronauts-home-at-space-center-houston/" >🔗</a> **[NASA]** NASA to Welcome Expedition 72 Astronauts Home at Space Center Houston
 - <a href="https://science.nasa.gov/science-research/science-enabling-technology/unearthly-plumbing-required-for-plant-watering-in-space/" >🔗</a> **[NASA]** Unearthly Plumbing Required for Plant Watering in Space
 - <a href="https://spacenews.com/geospatial-intelligence-agency-urges-faster-ai-deployment/" >🔗</a> **[SpaceNews]** Geospatial intelligence agency urges faster AI deployment
-- <a href="https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-the-international-space-station-grades-5-8/" >🔗</a> **[NASA]** What Is the International Space Station? (Grades 5-8)
-- <a href="https://www.esa.int/Applications/Satellite_navigation/Galileo/Galileo_Second_Generation_developing_at_full_speed" >🔗</a> **[ESA]** Galileo Second Generation developing at full speed
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250520T190126">2025-05-20 19:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250520T193107">2025-05-20 19:31:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
