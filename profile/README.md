@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/ussfs-gen-michael-guetlein-appointed-to-lead-golden-dome-project/" >🔗</a> **[SpacePolicyOnline.com]** USSF’s Gen. Michael Guetlein Appointed to Lead Golden Dome Project
 - <a href="https://science.nasa.gov/blog/sols-4543-4545-leaving-the-ridge-for-the-ridges/" >🔗</a> **[NASA]** Sols 4543-4545: Leaving the Ridge for the Ridges
 - <a href="https://europeanspaceflight.com/esa-awards-contract-for-probe-that-will-land-on-earth-skimming-asteroid/" >🔗</a> **[European Spaceflight]** ESA Awards Contract for Probe That Will Land on Earth-Skimming Asteroid
 - <a href="https://spacenews.com/mda-space-raises-satixfy-offer-by-43-to-counter-competing-bid/" >🔗</a> **[SpaceNews]** MDA Space raises SatixFy offer by 43% to counter competing bid
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-32nd-spacex-resupply-mission-departure/" >🔗</a> **[NASA]** NASA Sets Coverage for 32nd SpaceX Resupply Mission Departure
 - <a href="https://spacenews.com/jason-rainbow-appointed-business-intelligence-manager-at-spacenews/" >🔗</a> **[SpaceNews]** Jason Rainbow Appointed Business Intelligence Manager at SpaceNews
 - <a href="https://spacenews.com/disrupting-the-intelligence-machine-a-conversation-with-robert-cardillo/" >🔗</a> **[SpaceNews]** Disrupting the intelligence machine: A conversation with Robert Cardillo
-- <a href="https://spacenews.com/kuva-to-offer-maritime-domain-insights-with-satellite-on-deck/" >🔗</a> **[SpaceNews]** Kuva to offer maritime-domain insights with satellite on deck
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250520T220136">2025-05-20 22:01:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250520T223454">2025-05-20 22:34:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
