@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/balancing-progress-and-partnership-evaluating-the-space-forces-new-personnel-laws/" >🔗</a> **[SpaceNews]** Balancing progress and partnership: evaluating the Space Force’s new personnel laws
+- <a href="https://spacenews.com/satellites-take-frontline-role-in-maritime-security/" >🔗</a> **[SpaceNews]** Satellites take frontline role in maritime security
+- <a href="https://science.nasa.gov/universe/exoplanets/discovery-alert-a-possible-perpendicular-planet/" >🔗</a> **[NASA]** Discovery Alert: A Possible Perpendicular Planet
 - <a href="https://spacenews.com/satellite-startups-race-to-enhance-wildfire-detection-and-response/" >🔗</a> **[SpaceNews]** Satellite startups race to enhance wildfire detection and response
+- <a href="https://spacenews.com/balancing-progress-and-partnership-evaluating-the-space-forces-new-personnel-laws/" >🔗</a> **[SpaceNews]** Balancing progress and partnership: evaluating the Space Force’s new personnel laws
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-nation-meet-megan-harvey-utilization-flight-lead-and-capsule-communicator/" >🔗</a> **[NASA]** Station Nation: Meet Megan Harvey, Utilization Flight Lead and Capsule Communicator
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Recipe_for_a_rocky_road_crater_soaked_in_martian_history" >🔗</a> **[ESA]** Recipe for a ‘rocky road’ crater soaked in martian history
 - <a href="https://spacenews.com/nasa-says-long-running-budget-shortfalls-may-lead-to-iss-crew-and-research-reductions/" >🔗</a> **[SpaceNews]** NASA says long-running budget shortfalls may lead to ISS crew and research reductions
 - <a href="https://spacenews.com/trump-taps-space-force-general-to-lead-175-billion-golden-dome-missile-defense-program/" >🔗</a> **[SpaceNews]** Trump taps Space Force general to lead $175 billion Golden Dome missile defense program
 - <a href="https://spaceflightnow.com/2025/05/20/live-coverage-new-falcon-9-booster-to-make-second-attempt-at-debut-on-starlink-delivery-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: New Falcon 9 booster to make second attempt at debut on Starlink delivery mission
 - <a href="https://spacepolicyonline.com/news/ussfs-gen-michael-guetlein-appointed-to-lead-golden-dome-project/" >🔗</a> **[SpacePolicyOnline.com]** USSF’s Gen. Michael Guetlein Appointed to Lead Golden Dome Project
-- <a href="https://science.nasa.gov/blog/sols-4543-4545-leaving-the-ridge-for-the-ridges/" >🔗</a> **[NASA]** Sols 4543-4545: Leaving the Ridge for the Ridges
-- <a href="https://europeanspaceflight.com/esa-awards-contract-for-probe-that-will-land-on-earth-skimming-asteroid/" >🔗</a> **[European Spaceflight]** ESA Awards Contract for Probe That Will Land on Earth-Skimming Asteroid
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250521T150139">2025-05-21 15:01:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250521T153516">2025-05-21 15:35:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
