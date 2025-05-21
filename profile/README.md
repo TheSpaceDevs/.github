@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-says-long-running-budget-shortfalls-may-lead-to-iss-crew-and-research-reductions/" >🔗</a> **[SpaceNews]** NASA says long-running budget shortfalls may lead to ISS crew and research reductions
 - <a href="https://spacenews.com/trump-taps-space-force-general-to-lead-175-billion-golden-dome-missile-defense-program/" >🔗</a> **[SpaceNews]** Trump taps Space Force general to lead $175 billion Golden Dome missile defense program
 - <a href="https://spaceflightnow.com/2025/05/20/live-coverage-new-falcon-9-booster-to-make-second-attempt-at-debut-on-starlink-delivery-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: New Falcon 9 booster to make second attempt at debut on Starlink delivery mission
 - <a href="https://spacepolicyonline.com/news/ussfs-gen-michael-guetlein-appointed-to-lead-golden-dome-project/" >🔗</a> **[SpacePolicyOnline.com]** USSF’s Gen. Michael Guetlein Appointed to Lead Golden Dome Project
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/satellite-firms-brace-for-potential-imagery-budget-cuts-in-2026/" >🔗</a> **[SpaceNews]** Satellite firms brace for potential imagery budget cuts in 2026
 - <a href="https://spacenews.com/china-launches-classified-comms-satellite-conducts-commercial-sea-launch/" >🔗</a> **[SpaceNews]** China launches classified comms satellite, conducts commercial sea launch
 - <a href="https://www.nasa.gov/image-article/sunset-on-mars/" >🔗</a> **[NASA]** Sunset on Mars
-- <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-32nd-spacex-resupply-mission-departure/" >🔗</a> **[NASA]** NASA Sets Coverage for 32nd SpaceX Resupply Mission Departure
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250521T000501">2025-05-21 00:05:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250521T004601">2025-05-21 00:46:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
