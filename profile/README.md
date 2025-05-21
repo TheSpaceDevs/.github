@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/swot/nasa-french-satellite-spots-large-scale-river-waves-for-first-time/" >🔗</a> **[NASA]** NASA-French Satellite Spots Large-Scale River Waves for First Time
+- <a href="https://spacenews.com/straight-talk-from-geoint-keith-masback-on-the-road-ahead/" >🔗</a> **[SpaceNews]** Straight talk from GEOINT: Keith Masback on the road ahead
 - <a href="https://spacenews.com/ai-could-deliver-insights-when-paired-with-the-right-humans/" >🔗</a> **[SpaceNews]** AI could deliver insights when paired with (the right) humans
 - <a href="https://www.nasa.gov/image-article/another-milestone-for-x-59/" >🔗</a> **[NASA]** Another Milestone for X-59
 - <a href="https://www.nasa.gov/science-research/astrophysics/how-big-is-space-we-asked-a-nasa-expert-episode-61/" >🔗</a> **[NASA]** How Big is Space? We Asked a NASA Expert: Episode: 61
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/universe/exoplanets/discovery-alert-a-possible-perpendicular-planet/" >🔗</a> **[NASA]** Discovery Alert: A Possible Perpendicular Planet
 - <a href="https://spacenews.com/balancing-progress-and-partnership-evaluating-the-space-forces-new-personnel-laws/" >🔗</a> **[SpaceNews]** Balancing progress and partnership: evaluating the Space Force’s new personnel laws
 - <a href="https://spacenews.com/satellite-startups-race-to-enhance-wildfire-detection-and-response/" >🔗</a> **[SpaceNews]** Satellite startups race to enhance wildfire detection and response
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-nation-meet-megan-harvey-utilization-flight-lead-and-capsule-communicator/" >🔗</a> **[NASA]** Station Nation: Meet Megan Harvey, Utilization Flight Lead and Capsule Communicator
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Recipe_for_a_rocky_road_crater_soaked_in_martian_history" >🔗</a> **[ESA]** Recipe for a ‘rocky road’ crater soaked in martian history
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250521T170126">2025-05-21 17:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250521T173339">2025-05-21 17:33:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
