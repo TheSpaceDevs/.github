@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ursa-university-of-illinois-and-palantir-win-luno-a-contracts/" >🔗</a> **[SpaceNews]** Ursa, University of Illinois and Palantir win Luno A contracts
 - <a href="https://www.nasa.gov/learning-resources/for-kids-and-students/nasa-knows-what-is-lunar-regolith-grades-5-8/" >🔗</a> **[NASA]** NASA Knows: What is Lunar Regolith? (Grades 5-8)
 - <a href="https://spacenews.com/space-force-and-nga-move-to-end-turf-disputes-with-new-intelligence-agreement/" >🔗</a> **[SpaceNews]** Space Force and NGA move to end turf disputes with new intelligence agreement
 - <a href="https://www.nasa.gov/missions/swot/nasa-french-satellite-spots-large-scale-river-waves-for-first-time/" >🔗</a> **[NASA]** NASA-French Satellite Spots Large-Scale River Waves for First Time
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/science-research/astrophysics/how-big-is-space-we-asked-a-nasa-expert-episode-61/" >🔗</a> **[NASA]** How Big is Space? We Asked a NASA Expert: Episode: 61
 - <a href="https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/devils-in-details-in-selfie-taken-by-nasas-mars-perseverance-rover/" >🔗</a> **[NASA]** Devil’s in Details in Selfie Taken by NASA’s Mars Perseverance Rover
 - <a href="https://spacenews.com/satellites-take-frontline-role-in-maritime-security/" >🔗</a> **[SpaceNews]** Satellites take frontline role in maritime security
-- <a href="https://science.nasa.gov/universe/exoplanets/discovery-alert-a-possible-perpendicular-planet/" >🔗</a> **[NASA]** Discovery Alert: A Possible Perpendicular Planet
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250521T193105">2025-05-21 19:31:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250521T200129">2025-05-21 20:01:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
