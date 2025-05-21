@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/balancing-progress-and-partnership-evaluating-the-space-forces-new-personnel-laws/" >🔗</a> **[SpaceNews]** Balancing progress and partnership: evaluating the Space Force’s new personnel laws
+- <a href="https://spacenews.com/satellite-startups-race-to-enhance-wildfire-detection-and-response/" >🔗</a> **[SpaceNews]** Satellite startups race to enhance wildfire detection and response
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-nation-meet-megan-harvey-utilization-flight-lead-and-capsule-communicator/" >🔗</a> **[NASA]** Station Nation: Meet Megan Harvey, Utilization Flight Lead and Capsule Communicator
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Recipe_for_a_rocky_road_crater_soaked_in_martian_history" >🔗</a> **[ESA]** Recipe for a ‘rocky road’ crater soaked in martian history
 - <a href="https://spacenews.com/nasa-says-long-running-budget-shortfalls-may-lead-to-iss-crew-and-research-reductions/" >🔗</a> **[SpaceNews]** NASA says long-running budget shortfalls may lead to ISS crew and research reductions
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/ussfs-gen-michael-guetlein-appointed-to-lead-golden-dome-project/" >🔗</a> **[SpacePolicyOnline.com]** USSF’s Gen. Michael Guetlein Appointed to Lead Golden Dome Project
 - <a href="https://science.nasa.gov/blog/sols-4543-4545-leaving-the-ridge-for-the-ridges/" >🔗</a> **[NASA]** Sols 4543-4545: Leaving the Ridge for the Ridges
 - <a href="https://europeanspaceflight.com/esa-awards-contract-for-probe-that-will-land-on-earth-skimming-asteroid/" >🔗</a> **[European Spaceflight]** ESA Awards Contract for Probe That Will Land on Earth-Skimming Asteroid
-- <a href="https://spacenews.com/mda-space-raises-satixfy-offer-by-43-to-counter-competing-bid/" >🔗</a> **[SpaceNews]** MDA Space raises SatixFy offer by 43% to counter competing bid
-- <a href="https://spacenews.com/satellite-firms-brace-for-potential-imagery-budget-cuts-in-2026/" >🔗</a> **[SpaceNews]** Satellite firms brace for potential imagery budget cuts in 2026
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250521T131023">2025-05-21 13:10:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250521T133900">2025-05-21 13:39:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
