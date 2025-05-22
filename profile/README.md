@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/ames/nasas-moffett-federal-airfield-hosts-boeing-digital-taxi-tests/" >🔗</a> **[NASA]** NASA’s Moffett Federal Airfield Hosts Boeing Digital Taxi Tests
+- <a href="https://science.nasa.gov/blog/sol-4546-martian-jenga/" >🔗</a> **[NASA]** Sol 4546: Martian Jenga
 - <a href="https://science.nasa.gov/solar-system/nasas-dragonfly-mission-sets-sights-on-titans-mysteries/" >🔗</a> **[NASA]** NASA’s Dragonfly Mission Sets Sights on Titan’s Mysteries
 - <a href="https://www.nasa.gov/aeronautics/winners-2025-gateways-to-blue-skies/" >🔗</a> **[NASA]** Winners Announced in NASA’s 2025 Gateways to Blue Skies Competition
 - <a href="https://spacenews.com/pentagon-boosts-budget-for-palantirs-ai-software-in-major-expansion-of-project-maven/" >🔗</a> **[SpaceNews]** Pentagon boosts budget for Palantir’s AI software in major expansion of Project Maven
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://www.esa.int/About_Us/Business_with_ESA/Navigate_revisions_to_laws_on_hazardous_chemicals_in_the_EU" >🔗</a> **[ESA]** Navigate revisions to laws on hazardous chemicals in the EU
 - <a href="https://spacenews.com/connecting-geoint-innovation-to-the-front-lines/" >🔗</a> **[SpaceNews]** Connecting GEOINT innovation to the front lines
 - <a href="https://spacenews.com/blue-origin-updates-work-on-transporter-for-blue-moon-lunar-lander/" >🔗</a> **[SpaceNews]** Blue Origin updates work on ‘transporter’ for Blue Moon lunar lander
-- <a href="https://spacenews.com/ursa-university-of-illinois-and-palantir-win-luno-a-contracts/" >🔗</a> **[SpaceNews]** Ursa, University of Illinois and Palantir win Luno A contracts
-- <a href="https://www.nasa.gov/learning-resources/for-kids-and-students/nasa-knows-what-is-lunar-regolith-grades-5-8/" >🔗</a> **[NASA]** NASA Knows: What is Lunar Regolith? (Grades 5-8)
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250522T170129">2025-05-22 17:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250522T173404">2025-05-22 17:34:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
