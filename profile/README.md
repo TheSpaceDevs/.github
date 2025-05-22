@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/05/the-pentagon-seems-to-be-fed-up-with-ulas-rocket-delays/" >🔗</a> **[Arstechnica]** The Pentagon seems to be fed up with ULA’s rocket delays
 - <a href="https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-supports-artemis-accords-signatories-advancing-exploration/" >🔗</a> **[NASA]** NASA Supports Artemis Accords Signatories Advancing Exploration
 - <a href="https://spacenews.com/dawn-aerospace-begins-sales-of-aurora-suborbital-spaceplane/" >🔗</a> **[SpaceNews]** Dawn Aerospace begins sales of Aurora suborbital spaceplane
 - <a href="https://www.nasaspaceflight.com/2025/05/starship-flight-9-infrastructure/" >🔗</a> **[NASASpaceflight]** Starship program at critical moment as Flight 9 and infrastructure work in focus
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/image-article/preflight-flower/" >🔗</a> **[NASA]** Preflight Flower
 - <a href="https://science.nasa.gov/science-research/astromaterials/percolating-clues-nasa-models-new-way-to-build-planetary-cores/" >🔗</a> **[NASA]** Percolating Clues: NASA Models New Way to Build Planetary Cores
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/nasas-moffett-federal-airfield-hosts-boeing-digital-taxi-tests/" >🔗</a> **[NASA]** NASA’s Moffett Federal Airfield Hosts Boeing Digital Taxi Tests
-- <a href="https://science.nasa.gov/blog/sol-4546-martian-jenga/" >🔗</a> **[NASA]** Sol 4546: Martian Jenga
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250522T230123">2025-05-22 23:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250522T233238">2025-05-22 23:32:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
