@@ -19,34 +19,34 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 11-16**. It is scheduled to be launched by *SpaceX*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250522T220300">2025-05-22 22:03:00 UTC</a>.  Until
-then, this pad will have been used for 193
-out of 807 launches from this location. The launch status is currently
+**Soyuz 2.1a/Fregat-M | Kosmos (Unknown Payload)**. It is scheduled to be launched by *Russian Space Forces*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Plesetsk_Cosmodrome">Unknown Pad</a>, Plesetsk Cosmodrome, Russian Federation*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250523T070000">2025-05-23 07:00:00 UTC</a>.  Until
+then, this pad will have been used for 0
+out of 1674 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Communications* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+*Government/Top Secret* and the payload will be injected
+into *an Unknown
+(N/A)*.
 <br>
 <blockquote>
-  A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  Unknown classified payload for the Russian military.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+  <a href="https://en.wikipedia.org/wiki/Soyuz-2" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=34.632,-120.611" >
+  <a href="https://www.google.com/maps?q=62.925556,40.577778" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250522T220300">2025-05-22 22:03:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-16&location=Vandenberg SFB, CA, USA&dates=20250522T220300Z%2F20250523T005109Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-16** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250523T070000">2025-05-23 07:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a/Fregat-M | Kosmos (Unknown Payload)&location=Plesetsk Cosmodrome, Russian Federation&dates=20250523T070000Z%2F20250523T090000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a/Fregat-M | Kosmos (Unknown Payload)** from Plesetsk Cosmodrome, Russian Federation.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250523T203600">2025-05-23 20:36:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-16&location=Vandenberg SFB, CA, USA&dates=20250523T203600Z%2F20250524T003600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-16** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250524T171900">2025-05-24 17:19:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-22&location=Cape Canaveral SFS, FL, USA&dates=20250524T171900Z%2F20250524T211900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-22** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250527T161400">2025-05-27 16:14:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-1&location=Vandenberg SFB, CA, USA&dates=20250527T161400Z%2F20250527T201400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-1** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250527T233000">2025-05-27 23:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Starship | Flight 9&location=SpaceX Starbase, TX, USA&dates=20250527T233000Z%2F20250528T013400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starship | Flight 9** from SpaceX Starbase, TX, USA.
@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/solar-system/nasas-dragonfly-mission-sets-sights-on-titans-mysteries/" >🔗</a> **[NASA]** NASA’s Dragonfly Mission Sets Sights on Titan’s Mysteries
+- <a href="https://www.nasa.gov/aeronautics/winners-2025-gateways-to-blue-skies/" >🔗</a> **[NASA]** Winners Announced in NASA’s 2025 Gateways to Blue Skies Competition
 - <a href="https://spacenews.com/pentagon-boosts-budget-for-palantirs-ai-software-in-major-expansion-of-project-maven/" >🔗</a> **[SpaceNews]** Pentagon boosts budget for Palantir’s AI software in major expansion of Project Maven
 - <a href="https://spacenews.com/esa-seeks-funding-for-security-and-resilience-satellite-program/" >🔗</a> **[SpaceNews]** ESA seeks funding for ‘security and resilience’ satellite program
 - <a href="https://spacenews.com/pilogic-raises-4-million-for-bespoke-satellite-ai-models/" >🔗</a> **[SpaceNews]** PiLogic raises $4 million for bespoke satellite AI models
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/blue-origin-updates-work-on-transporter-for-blue-moon-lunar-lander/" >🔗</a> **[SpaceNews]** Blue Origin updates work on ‘transporter’ for Blue Moon lunar lander
 - <a href="https://spacenews.com/ursa-university-of-illinois-and-palantir-win-luno-a-contracts/" >🔗</a> **[SpaceNews]** Ursa, University of Illinois and Palantir win Luno A contracts
 - <a href="https://www.nasa.gov/learning-resources/for-kids-and-students/nasa-knows-what-is-lunar-regolith-grades-5-8/" >🔗</a> **[NASA]** NASA Knows: What is Lunar Regolith? (Grades 5-8)
-- <a href="https://spacenews.com/space-force-and-nga-move-to-end-turf-disputes-with-new-intelligence-agreement/" >🔗</a> **[SpaceNews]** Space Force and NGA move to end turf disputes with new intelligence agreement
-- <a href="https://www.nasa.gov/missions/swot/nasa-french-satellite-spots-large-scale-river-waves-for-first-time/" >🔗</a> **[NASA]** NASA-French Satellite Spots Large-Scale River Waves for First Time
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250522T160144">2025-05-22 16:01:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250522T163743">2025-05-22 16:37:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
