@@ -90,6 +90,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-astronaut-to-answer-questions-from-students-in-washington-state/" >🔗</a> **[NASA]** NASA Astronaut to Answer Questions from Students in Washington State
+- <a href="https://science.nasa.gov/blog/sols-4547-4548-taking-in-the-view-after-a-long-drive/" >🔗</a> **[NASA]** Sols 4547-4548: Taking in the View After a Long Drive
+- <a href="https://www.nasa.gov/image-article/preflight-flower/" >🔗</a> **[NASA]** Preflight Flower
 - <a href="https://science.nasa.gov/science-research/astromaterials/percolating-clues-nasa-models-new-way-to-build-planetary-cores/" >🔗</a> **[NASA]** Percolating Clues: NASA Models New Way to Build Planetary Cores
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/nasas-moffett-federal-airfield-hosts-boeing-digital-taxi-tests/" >🔗</a> **[NASA]** NASA’s Moffett Federal Airfield Hosts Boeing Digital Taxi Tests
 - <a href="https://science.nasa.gov/blog/sol-4546-martian-jenga/" >🔗</a> **[NASA]** Sol 4546: Martian Jenga
@@ -97,9 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/aeronautics/winners-2025-gateways-to-blue-skies/" >🔗</a> **[NASA]** Winners Announced in NASA’s 2025 Gateways to Blue Skies Competition
 - <a href="https://spacenews.com/pentagon-boosts-budget-for-palantirs-ai-software-in-major-expansion-of-project-maven/" >🔗</a> **[SpaceNews]** Pentagon boosts budget for Palantir’s AI software in major expansion of Project Maven
 - <a href="https://spacenews.com/esa-seeks-funding-for-security-and-resilience-satellite-program/" >🔗</a> **[SpaceNews]** ESA seeks funding for ‘security and resilience’ satellite program
-- <a href="https://spacenews.com/pilogic-raises-4-million-for-bespoke-satellite-ai-models/" >🔗</a> **[SpaceNews]** PiLogic raises $4 million for bespoke satellite AI models
-- <a href="https://www.esa.int/About_Us/Business_with_ESA/Navigate_revisions_to_laws_on_hazardous_chemicals_in_the_EU" >🔗</a> **[ESA]** Navigate revisions to laws on hazardous chemicals in the EU
-- <a href="https://spacenews.com/connecting-geoint-innovation-to-the-front-lines/" >🔗</a> **[SpaceNews]** Connecting GEOINT innovation to the front lines
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250522T190125">2025-05-22 19:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250522T193113">2025-05-22 19:31:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
