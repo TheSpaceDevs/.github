@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/esa-seeks-funding-for-security-and-resilience-satellite-program/" >🔗</a> **[SpaceNews]** ESA seeks funding for ‘security and resilience’ satellite program
 - <a href="https://spacenews.com/pilogic-raises-4-million-for-bespoke-satellite-ai-models/" >🔗</a> **[SpaceNews]** PiLogic raises $4 million for bespoke satellite AI models
 - <a href="https://www.esa.int/About_Us/Business_with_ESA/Navigate_revisions_to_laws_on_hazardous_chemicals_in_the_EU" >🔗</a> **[ESA]** Navigate revisions to laws on hazardous chemicals in the EU
 - <a href="https://spacenews.com/connecting-geoint-innovation-to-the-front-lines/" >🔗</a> **[SpaceNews]** Connecting GEOINT innovation to the front lines
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/space-force-and-nga-move-to-end-turf-disputes-with-new-intelligence-agreement/" >🔗</a> **[SpaceNews]** Space Force and NGA move to end turf disputes with new intelligence agreement
 - <a href="https://www.nasa.gov/missions/swot/nasa-french-satellite-spots-large-scale-river-waves-for-first-time/" >🔗</a> **[NASA]** NASA-French Satellite Spots Large-Scale River Waves for First Time
 - <a href="https://spacenews.com/straight-talk-from-geoint-keith-masback-on-the-road-ahead/" >🔗</a> **[SpaceNews]** Straight talk from GEOINT: Keith Masback on the road ahead
-- <a href="https://spacenews.com/ai-could-deliver-insights-when-paired-with-the-right-humans/" >🔗</a> **[SpaceNews]** AI could deliver insights when paired with (the right) humans
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250522T113131">2025-05-22 11:31:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250522T120217">2025-05-22 12:02:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
