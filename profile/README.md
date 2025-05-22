@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/faa-provides-final-approval-for-next-starship-launch/" >🔗</a> **[SpaceNews]** FAA provides final approval for next Starship launch
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-to-answer-questions-from-students-in-washington-state/" >🔗</a> **[NASA]** NASA Astronaut to Answer Questions from Students in Washington State
 - <a href="https://science.nasa.gov/blog/sols-4547-4548-taking-in-the-view-after-a-long-drive/" >🔗</a> **[NASA]** Sols 4547-4548: Taking in the View After a Long Drive
 - <a href="https://www.nasa.gov/image-article/preflight-flower/" >🔗</a> **[NASA]** Preflight Flower
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/solar-system/nasas-dragonfly-mission-sets-sights-on-titans-mysteries/" >🔗</a> **[NASA]** NASA’s Dragonfly Mission Sets Sights on Titan’s Mysteries
 - <a href="https://www.nasa.gov/aeronautics/winners-2025-gateways-to-blue-skies/" >🔗</a> **[NASA]** Winners Announced in NASA’s 2025 Gateways to Blue Skies Competition
 - <a href="https://spacenews.com/pentagon-boosts-budget-for-palantirs-ai-software-in-major-expansion-of-project-maven/" >🔗</a> **[SpaceNews]** Pentagon boosts budget for Palantir’s AI software in major expansion of Project Maven
-- <a href="https://spacenews.com/esa-seeks-funding-for-security-and-resilience-satellite-program/" >🔗</a> **[SpaceNews]** ESA seeks funding for ‘security and resilience’ satellite program
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250522T193113">2025-05-22 19:31:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250522T200141">2025-05-22 20:01:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
