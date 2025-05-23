@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://spacenews.com/senate-sets-up-early-june-vote-on-isaacman-nomination-to-lead-nasa/" >🔗</a> **[SpaceNews]** Senate sets up early June vote on Isaacman nomination to lead NASA
+- <a href="https://science.nasa.gov/missions/hubble/hubble-spies-a-spiral-so-inclined/" >🔗</a> **[NASA]** Hubble Spies a Spiral So Inclined
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/05/Earth_from_Space_Alakol_the_multicoloured_lake" >🔗</a> **[ESA]** Earth from Space: Alakol, the multicoloured lake
 - <a href="https://spacepolicyonline.com/news/house-approves-25-billion-for-golden-dome-but-saltzman-worries-about-resources/" >🔗</a> **[SpacePolicyOnline.com]** House Approves $25 Billion for Golden Dome, But Saltzman Worries About Resources
 - <a href="https://arstechnica.com/space/2025/05/the-pentagon-seems-to-be-fed-up-with-ulas-rocket-delays/" >🔗</a> **[Arstechnica]** The Pentagon seems to be fed up with ULA’s rocket delays
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2025/05/starship-flight-9-infrastructure/" >🔗</a> **[NASASpaceflight]** Starship program at critical moment as Flight 9 and infrastructure work in focus
 - <a href="https://spacenews.com/faa-provides-final-approval-for-next-starship-launch/" >🔗</a> **[SpaceNews]** FAA provides final approval for next Starship launch
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-to-answer-questions-from-students-in-washington-state/" >🔗</a> **[NASA]** NASA Astronaut to Answer Questions from Students in Washington State
-- <a href="https://science.nasa.gov/blog/sols-4547-4548-taking-in-the-view-after-a-long-drive/" >🔗</a> **[NASA]** Sols 4547-4548: Taking in the View After a Long Drive
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250523T120217">2025-05-23 12:02:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250523T124311">2025-05-23 12:43:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
