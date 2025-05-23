@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacex-blames-starship-flight-8-mishap-on-engine-hardware-failure/" >🔗</a> **[SpaceNews]** SpaceX blames Starship Flight 8 mishap on engine hardware failure
+- <a href="https://spacenews.com/raytheon-secures-380-million-contract-extension-for-gps-ground-control-system/" >🔗</a> **[SpaceNews]** Raytheon secures $380 million contract extension for GPS ground control system
 - <a href="https://spaceflightnow.com/2025/05/23/faa-clears-spacex-to-launch-its-9th-starship-super-heavy-rocket-while-flight-8-mishap-investigation-continues/" >🔗</a> **[Spaceflight Now]** FAA clears SpaceX to launch its 9th Starship super heavy rocket, while Flight 8 mishap investigation continues
 - <a href="https://www.nasaspaceflight.com/2025/05/china-roundup-05232025/" >🔗</a> **[NASASpaceflight]** Chinese launch cadence accelerates, Tianwen-2 prepares for launch
 - <a href="https://www.nasa.gov/news-release/nasa-awards-project-support-bridge-contract/" >🔗</a> **[NASA]** NASA Awards Project Support Bridge Contract
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/moon-and-flag-at-nasa-michoud/" >🔗</a> **[NASA]** Moon and Flag at NASA Michoud
 - <a href="https://spaceflightnow.com/2025/05/23/live-coverage-spacex-to-launch-west-coast-falcon-9-with-starlink-satellites/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch West Coast Falcon 9 with Starlink satellites
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-videographer-wins-top-award-for-capturing-human-side-of-science/" >🔗</a> **[NASA]** NASA Videographer Wins Top Award for Capturing Human Side of Science
-- <a href="https://europeanspaceflight.com/arianegroup-completes-hot-fire-tests-of-3d-printed-thruster/" >🔗</a> **[European Spaceflight]** ArianeGroup Completes Hot-Fire Tests of 3D-Printed Thruster
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_19-23_May_2025" >🔗</a> **[ESA]** Week in images: 19-23 May 2025
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250523T230132">2025-05-23 23:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250523T233304">2025-05-23 23:33:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
