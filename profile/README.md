@@ -89,6 +89,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/05/23/faa-clears-spacex-to-launch-its-9th-starship-super-heavy-rocket-while-flight-8-mishap-investigation-continues/" >🔗</a> **[Spaceflight Now]** FAA clears SpaceX to launch its 9th Starship super heavy rocket, while Flight 8 mishap investigation continues
 - <a href="https://www.nasa.gov/news-release/nasa-awards-project-support-bridge-contract/" >🔗</a> **[NASA]** NASA Awards Project Support Bridge Contract
 - <a href="https://spacenews.com/impulse-space-to-launch-ses-satellites/" >🔗</a> **[SpaceNews]** Impulse Space to launch SES satellites
 - <a href="https://spacepolicyonline.com/news/spacex-readies-ift-9-starship-test-flight-explains-ift-8-failure/" >🔗</a> **[SpacePolicyOnline.com]** SpaceX Readies IFT-9 Starship Test Flight, Explains IFT-8 Failure
@@ -98,7 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/arianegroup-completes-hot-fire-tests-of-3d-printed-thruster/" >🔗</a> **[European Spaceflight]** ArianeGroup Completes Hot-Fire Tests of 3D-Printed Thruster
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_19-23_May_2025" >🔗</a> **[ESA]** Week in images: 19-23 May 2025
 - <a href="https://www.nasa.gov/learning-resources/coders-approaches-to-challenge/" >🔗</a> **[NASA]** Student Coders Bring Novel Approaches to NASA Challenge
-- <a href="https://spacenews.com/space-sponsorship-the-next-frontier-for-revenue-generation/" >🔗</a> **[SpaceNews]** Space sponsorship: the next frontier for revenue generation
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250523T210136">2025-05-23 21:01:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250523T213152">2025-05-23 21:31:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
