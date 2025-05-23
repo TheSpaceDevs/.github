@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/learning-resources/coders-approaches-to-challenge/" >🔗</a> **[NASA]** Student Coders Bring Novel Approaches to NASA Challenge
+- <a href="https://spacenews.com/space-sponsorship-the-next-frontier-for-revenue-generation/" >🔗</a> **[SpaceNews]** Space sponsorship: the next frontier for revenue generation
 - <a href="https://spacenews.com/senate-sets-up-early-june-vote-on-isaacman-nomination-to-lead-nasa/" >🔗</a> **[SpaceNews]** Senate sets up early June vote on Isaacman nomination to lead NASA
 - <a href="https://science.nasa.gov/missions/hubble/hubble-spies-a-spiral-so-inclined/" >🔗</a> **[NASA]** Hubble Spies a Spiral So Inclined
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/05/Earth_from_Space_Alakol_the_multicoloured_lake" >🔗</a> **[ESA]** Earth from Space: Alakol, the multicoloured lake
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-supports-artemis-accords-signatories-advancing-exploration/" >🔗</a> **[NASA]** NASA Supports Artemis Accords Signatories Advancing Exploration
 - <a href="https://spacenews.com/dawn-aerospace-begins-sales-of-aurora-suborbital-spaceplane/" >🔗</a> **[SpaceNews]** Dawn Aerospace begins sales of Aurora suborbital spaceplane
 - <a href="https://www.nasaspaceflight.com/2025/05/starship-flight-9-infrastructure/" >🔗</a> **[NASASpaceflight]** Starship program at critical moment as Flight 9 and infrastructure work in focus
-- <a href="https://spacenews.com/faa-provides-final-approval-for-next-starship-launch/" >🔗</a> **[SpaceNews]** FAA provides final approval for next Starship launch
-- <a href="https://www.nasa.gov/news-release/nasa-astronaut-to-answer-questions-from-students-in-washington-state/" >🔗</a> **[NASA]** NASA Astronaut to Answer Questions from Students in Washington State
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250523T130923">2025-05-23 13:09:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250523T133759">2025-05-23 13:37:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
