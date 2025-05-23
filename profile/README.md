@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/impulse-space-to-launch-ses-satellites/" >🔗</a> **[SpaceNews]** Impulse Space to launch SES satellites
+- <a href="https://spacepolicyonline.com/news/spacex-readies-ift-9-starship-test-flight-explains-ift-8-failure/" >🔗</a> **[SpacePolicyOnline.com]** SpaceX Readies IFT-9 Starship Test Flight, Explains IFT-8 Failure
+- <a href="https://www.nasa.gov/image-article/moon-and-flag-at-nasa-michoud/" >🔗</a> **[NASA]** Moon and Flag at NASA Michoud
 - <a href="https://spaceflightnow.com/2025/05/23/live-coverage-spacex-to-launch-west-coast-falcon-9-with-starlink-satellites/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch West Coast Falcon 9 with Starlink satellites
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-videographer-wins-top-award-for-capturing-human-side-of-science/" >🔗</a> **[NASA]** NASA Videographer Wins Top Award for Capturing Human Side of Science
 - <a href="https://europeanspaceflight.com/arianegroup-completes-hot-fire-tests-of-3d-printed-thruster/" >🔗</a> **[European Spaceflight]** ArianeGroup Completes Hot-Fire Tests of 3D-Printed Thruster
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/learning-resources/coders-approaches-to-challenge/" >🔗</a> **[NASA]** Student Coders Bring Novel Approaches to NASA Challenge
 - <a href="https://spacenews.com/space-sponsorship-the-next-frontier-for-revenue-generation/" >🔗</a> **[SpaceNews]** Space sponsorship: the next frontier for revenue generation
 - <a href="https://spacenews.com/senate-sets-up-early-june-vote-on-isaacman-nomination-to-lead-nasa/" >🔗</a> **[SpaceNews]** Senate sets up early June vote on Isaacman nomination to lead NASA
-- <a href="https://science.nasa.gov/missions/hubble/hubble-spies-a-spiral-so-inclined/" >🔗</a> **[NASA]** Hubble Spies a Spiral So Inclined
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/05/Earth_from_Space_Alakol_the_multicoloured_lake" >🔗</a> **[ESA]** Earth from Space: Alakol, the multicoloured lake
-- <a href="https://spacepolicyonline.com/news/house-approves-25-billion-for-golden-dome-but-saltzman-worries-about-resources/" >🔗</a> **[SpacePolicyOnline.com]** House Approves $25 Billion for Golden Dome, But Saltzman Worries About Resources
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250523T190121">2025-05-23 19:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250523T193105">2025-05-23 19:31:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
