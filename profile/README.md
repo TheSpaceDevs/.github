@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-awards-project-support-bridge-contract/" >🔗</a> **[NASA]** NASA Awards Project Support Bridge Contract
 - <a href="https://spacenews.com/impulse-space-to-launch-ses-satellites/" >🔗</a> **[SpaceNews]** Impulse Space to launch SES satellites
 - <a href="https://spacepolicyonline.com/news/spacex-readies-ift-9-starship-test-flight-explains-ift-8-failure/" >🔗</a> **[SpacePolicyOnline.com]** SpaceX Readies IFT-9 Starship Test Flight, Explains IFT-8 Failure
 - <a href="https://www.nasa.gov/image-article/moon-and-flag-at-nasa-michoud/" >🔗</a> **[NASA]** Moon and Flag at NASA Michoud
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_19-23_May_2025" >🔗</a> **[ESA]** Week in images: 19-23 May 2025
 - <a href="https://www.nasa.gov/learning-resources/coders-approaches-to-challenge/" >🔗</a> **[NASA]** Student Coders Bring Novel Approaches to NASA Challenge
 - <a href="https://spacenews.com/space-sponsorship-the-next-frontier-for-revenue-generation/" >🔗</a> **[SpaceNews]** Space sponsorship: the next frontier for revenue generation
-- <a href="https://spacenews.com/senate-sets-up-early-june-vote-on-isaacman-nomination-to-lead-nasa/" >🔗</a> **[SpaceNews]** Senate sets up early June vote on Isaacman nomination to lead NASA
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250523T200151">2025-05-23 20:01:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250523T203410">2025-05-23 20:34:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
