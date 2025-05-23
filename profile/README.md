@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/05/Earth_from_Space_Alakol_the_multicoloured_lake" >🔗</a> **[ESA]** Earth from Space: Alakol, the multicoloured lake
 - <a href="https://spacepolicyonline.com/news/house-approves-25-billion-for-golden-dome-but-saltzman-worries-about-resources/" >🔗</a> **[SpacePolicyOnline.com]** House Approves $25 Billion for Golden Dome, But Saltzman Worries About Resources
 - <a href="https://arstechnica.com/space/2025/05/the-pentagon-seems-to-be-fed-up-with-ulas-rocket-delays/" >🔗</a> **[Arstechnica]** The Pentagon seems to be fed up with ULA’s rocket delays
 - <a href="https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-supports-artemis-accords-signatories-advancing-exploration/" >🔗</a> **[NASA]** NASA Supports Artemis Accords Signatories Advancing Exploration
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-to-answer-questions-from-students-in-washington-state/" >🔗</a> **[NASA]** NASA Astronaut to Answer Questions from Students in Washington State
 - <a href="https://science.nasa.gov/blog/sols-4547-4548-taking-in-the-view-after-a-long-drive/" >🔗</a> **[NASA]** Sols 4547-4548: Taking in the View After a Long Drive
 - <a href="https://www.nasa.gov/image-article/preflight-flower/" >🔗</a> **[NASA]** Preflight Flower
-- <a href="https://science.nasa.gov/science-research/astromaterials/percolating-clues-nasa-models-new-way-to-build-planetary-cores/" >🔗</a> **[NASA]** Percolating Clues: NASA Models New Way to Build Planetary Cores
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250523T080140">2025-05-23 08:01:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250523T083734">2025-05-23 08:37:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
