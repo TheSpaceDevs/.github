@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-may-25-31-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy May 25-31, 2025
 - <a href="https://spaceflightnow.com/2025/05/24/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-launch-from-cape-canaveral-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 23 Starlink satellites on Falcon 9 launch from Cape Canaveral
 - <a href="https://spacenews.com/spacex-blames-starship-flight-8-mishap-on-engine-hardware-failure/" >🔗</a> **[SpaceNews]** SpaceX blames Starship Flight 8 mishap on engine hardware failure
 - <a href="https://spacenews.com/raytheon-secures-380-million-contract-extension-for-gps-ground-control-system/" >🔗</a> **[SpaceNews]** Raytheon secures $380 million contract extension for GPS ground control system
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/impulse-space-to-launch-ses-satellites/" >🔗</a> **[SpaceNews]** Impulse Space to launch SES satellites
 - <a href="https://spacepolicyonline.com/news/spacex-readies-ift-9-starship-test-flight-explains-ift-8-failure/" >🔗</a> **[SpacePolicyOnline.com]** SpaceX Readies IFT-9 Starship Test Flight, Explains IFT-8 Failure
 - <a href="https://www.nasa.gov/image-article/moon-and-flag-at-nasa-michoud/" >🔗</a> **[NASA]** Moon and Flag at NASA Michoud
-- <a href="https://spaceflightnow.com/2025/05/23/live-coverage-spacex-to-launch-west-coast-falcon-9-with-starlink-satellites/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch West Coast Falcon 9 with Starlink satellites
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250525T200120">2025-05-25 20:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250525T203316">2025-05-25 20:33:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
