@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/mission-ready-communications-enhancing-defense-capabilities-with-multi-orbit-multi-network-systems/" >🔗</a> **[SpaceNews]** Mission-ready communications: enhancing defense capabilities with multi-orbit, multi-network systems
 - <a href="https://spacenews.com/chinese-commercial-company-lands-contract-to-build-provincial-satellite-constellation/" >🔗</a> **[SpaceNews]** Chinese commercial company lands contract to build provincial satellite constellation
 - <a href="https://www.esa.int/Enabling_Support/Operations/Waltzing_celebration_for_half_a_century_of_European_satellite_tracking" >🔗</a> **[ESA]** Waltzing celebration for half a century of European satellite tracking
 - <a href="https://www.nasaspaceflight.com/2025/05/magellan-venus-coronae/" >🔗</a> **[NASASpaceflight]** Magellan data provides new insight into tectonic processes on Venus
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/raytheon-secures-380-million-contract-extension-for-gps-ground-control-system/" >🔗</a> **[SpaceNews]** Raytheon secures $380 million contract extension for GPS ground control system
 - <a href="https://spaceflightnow.com/2025/05/23/faa-clears-spacex-to-launch-its-9th-starship-super-heavy-rocket-while-flight-8-mishap-investigation-continues/" >🔗</a> **[Spaceflight Now]** FAA clears SpaceX to launch its 9th Starship super heavy rocket, while Flight 8 mishap investigation continues
 - <a href="https://www.nasaspaceflight.com/2025/05/china-roundup-05232025/" >🔗</a> **[NASASpaceflight]** Chinese launch cadence accelerates, Tianwen-2 prepares for launch
-- <a href="https://www.nasa.gov/news-release/nasa-awards-project-support-bridge-contract/" >🔗</a> **[NASA]** NASA Awards Project Support Bridge Contract
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250526T130917">2025-05-26 13:09:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250526T133815">2025-05-26 13:38:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
