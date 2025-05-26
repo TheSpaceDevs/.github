@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/chinese-commercial-company-lands-contract-to-build-provincial-satellite-constellation/" >🔗</a> **[SpaceNews]** Chinese commercial company lands contract to build provincial satellite constellation
 - <a href="https://www.nasaspaceflight.com/2025/05/magellan-venus-coronae/" >🔗</a> **[NASASpaceflight]** Magellan data provides new insight into tectonic processes on Venus
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-may-25-31-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy May 25-31, 2025
 - <a href="https://spaceflightnow.com/2025/05/24/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-launch-from-cape-canaveral-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 23 Starlink satellites on Falcon 9 launch from Cape Canaveral
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2025/05/china-roundup-05232025/" >🔗</a> **[NASASpaceflight]** Chinese launch cadence accelerates, Tianwen-2 prepares for launch
 - <a href="https://www.nasa.gov/news-release/nasa-awards-project-support-bridge-contract/" >🔗</a> **[NASA]** NASA Awards Project Support Bridge Contract
 - <a href="https://spacenews.com/impulse-space-to-launch-ses-satellites/" >🔗</a> **[SpaceNews]** Impulse Space to launch SES satellites
-- <a href="https://spacepolicyonline.com/news/spacex-readies-ift-9-starship-test-flight-explains-ift-8-failure/" >🔗</a> **[SpacePolicyOnline.com]** SpaceX Readies IFT-9 Starship Test Flight, Explains IFT-8 Failure
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250526T110118">2025-05-26 11:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250526T113129">2025-05-26 11:31:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
