@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/05/26/live-coverage-spacex-to-launch-24-starlink-satellites-to-polar-orbit-from-california/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites to polar orbit from California
+- <a href="https://science.nasa.gov/science-research/earth-science/summary-of-the-2024-sage-iii-iss-meeting/" >🔗</a> **[NASA]** Summary of the 2024 SAGE III/ISS Meeting
 - <a href="https://spacenews.com/mission-ready-communications-enhancing-defense-capabilities-with-multi-orbit-multi-network-systems/" >🔗</a> **[SpaceNews]** Mission-ready communications: enhancing defense capabilities with multi-orbit, multi-network systems
 - <a href="https://spacenews.com/chinese-commercial-company-lands-contract-to-build-provincial-satellite-constellation/" >🔗</a> **[SpaceNews]** Chinese commercial company lands contract to build provincial satellite constellation
 - <a href="https://www.esa.int/Enabling_Support/Operations/Waltzing_celebration_for_half_a_century_of_European_satellite_tracking" >🔗</a> **[ESA]** Waltzing celebration for half a century of European satellite tracking
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/05/24/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-launch-from-cape-canaveral-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 23 Starlink satellites on Falcon 9 launch from Cape Canaveral
 - <a href="https://spacenews.com/spacex-blames-starship-flight-8-mishap-on-engine-hardware-failure/" >🔗</a> **[SpaceNews]** SpaceX blames Starship Flight 8 mishap on engine hardware failure
 - <a href="https://spacenews.com/raytheon-secures-380-million-contract-extension-for-gps-ground-control-system/" >🔗</a> **[SpaceNews]** Raytheon secures $380 million contract extension for GPS ground control system
-- <a href="https://spaceflightnow.com/2025/05/23/faa-clears-spacex-to-launch-its-9th-starship-super-heavy-rocket-while-flight-8-mishap-investigation-continues/" >🔗</a> **[Spaceflight Now]** FAA clears SpaceX to launch its 9th Starship super heavy rocket, while Flight 8 mishap investigation continues
-- <a href="https://www.nasaspaceflight.com/2025/05/china-roundup-05232025/" >🔗</a> **[NASASpaceflight]** Chinese launch cadence accelerates, Tianwen-2 prepares for launch
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250526T190120">2025-05-26 19:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250526T193115">2025-05-26 19:31:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
