@@ -53,8 +53,8 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250529T040300">2025-05-29 04:03:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2D | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20250529T040300Z%2F20250529T043200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2D | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250530T172300">2025-05-30 17:23:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | GPS III SV08&location=Cape Canaveral SFS, FL, USA&dates=20250530T172300Z%2F20250530T173800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | GPS III SV08** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250530T202400">2025-05-30 20:24:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-18&location=Vandenberg SFB, CA, USA&dates=20250530T202400Z%2F20250531T005500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-18** from Vandenberg SFB, CA, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250531T000000">2025-05-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Minotaur IV | EWS OD-1&location=Vandenberg SFB, CA, USA&dates=20250531T000000Z%2F20250531T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Minotaur IV | EWS OD-1** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250606T000000">2025-06-06 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Sirius SXM-10&location=Cape Canaveral SFS, FL, USA&dates=20250606T000000Z%2F20250606T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Sirius SXM-10** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250608T131100">2025-06-08 13:11:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Axiom Space Mission 4&location=Kennedy Space Center, FL, USA&dates=20250608T131100Z%2F20250608T131100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Axiom Space Mission 4** from Kennedy Space Center, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://spacenews.com/chinese-commercial-company-lands-contract-to-build-provincial-satellite-constellation/" >🔗</a> **[SpaceNews]** Chinese commercial company lands contract to build provincial satellite constellation
+- <a href="https://www.esa.int/Enabling_Support/Operations/Waltzing_celebration_for_half_a_century_of_European_satellite_tracking" >🔗</a> **[ESA]** Waltzing celebration for half a century of European satellite tracking
 - <a href="https://www.nasaspaceflight.com/2025/05/magellan-venus-coronae/" >🔗</a> **[NASASpaceflight]** Magellan data provides new insight into tectonic processes on Venus
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-may-25-31-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy May 25-31, 2025
 - <a href="https://spaceflightnow.com/2025/05/24/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-launch-from-cape-canaveral-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 23 Starlink satellites on Falcon 9 launch from Cape Canaveral
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/05/23/faa-clears-spacex-to-launch-its-9th-starship-super-heavy-rocket-while-flight-8-mishap-investigation-continues/" >🔗</a> **[Spaceflight Now]** FAA clears SpaceX to launch its 9th Starship super heavy rocket, while Flight 8 mishap investigation continues
 - <a href="https://www.nasaspaceflight.com/2025/05/china-roundup-05232025/" >🔗</a> **[NASASpaceflight]** Chinese launch cadence accelerates, Tianwen-2 prepares for launch
 - <a href="https://www.nasa.gov/news-release/nasa-awards-project-support-bridge-contract/" >🔗</a> **[NASA]** NASA Awards Project Support Bridge Contract
-- <a href="https://spacenews.com/impulse-space-to-launch-ses-satellites/" >🔗</a> **[SpaceNews]** Impulse Space to launch SES satellites
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250526T120215">2025-05-26 12:02:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250526T124314">2025-05-26 12:43:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
