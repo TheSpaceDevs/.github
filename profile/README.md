@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/05/third-times-the-charm-starship-flight-9/" >🔗</a> **[NASASpaceflight]** Third Time’s the Charm? Starship Flight 9
 - <a href="https://spaceflightnow.com/2025/05/26/live-coverage-spacex-to-launch-24-starlink-satellites-to-polar-orbit-from-california/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites to polar orbit from California
 - <a href="https://science.nasa.gov/science-research/earth-science/summary-of-the-2024-sage-iii-iss-meeting/" >🔗</a> **[NASA]** Summary of the 2024 SAGE III/ISS Meeting
 - <a href="https://spacenews.com/mission-ready-communications-enhancing-defense-capabilities-with-multi-orbit-multi-network-systems/" >🔗</a> **[SpaceNews]** Mission-ready communications: enhancing defense capabilities with multi-orbit, multi-network systems
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-may-25-31-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy May 25-31, 2025
 - <a href="https://spaceflightnow.com/2025/05/24/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-launch-from-cape-canaveral-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 23 Starlink satellites on Falcon 9 launch from Cape Canaveral
 - <a href="https://spacenews.com/spacex-blames-starship-flight-8-mishap-on-engine-hardware-failure/" >🔗</a> **[SpaceNews]** SpaceX blames Starship Flight 8 mishap on engine hardware failure
-- <a href="https://spacenews.com/raytheon-secures-380-million-contract-extension-for-gps-ground-control-system/" >🔗</a> **[SpaceNews]** Raytheon secures $380 million contract extension for GPS ground control system
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250526T193115">2025-05-26 19:31:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250526T200133">2025-05-26 20:01:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
