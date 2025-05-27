@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/empyreum-italys-new-satellite-platform-for-the-constellation-era/" >🔗</a> **[SpaceNews]** Empyreum, Italy’s new satellite platform for the constellation era
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/johnsons-paige-whittington-builds-a-symphony-of-simulations/" >🔗</a> **[NASA]** Johnson’s Paige Whittington Builds a Symphony of Simulations
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/05/Webb_glimpses_the_distant_past" >🔗</a> **[ESA]** Webb glimpses the distant past
 - <a href="https://spaceflightnow.com/2025/05/26/live-coverage-spacex-to-launch-its-starship-super-heavy-rocket-on-its-9th-test-flight/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch its Starship-Super Heavy rocket on its 9th test flight
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/science-research/earth-science/summary-of-the-2024-sage-iii-iss-meeting/" >🔗</a> **[NASA]** Summary of the 2024 SAGE III/ISS Meeting
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/ESA_Young_Professionals_Satellites/About_YPSat-2" >🔗</a> **[ESA]** About YPSat-2
 - <a href="https://spacenews.com/mission-ready-communications-enhancing-defense-capabilities-with-multi-orbit-multi-network-systems/" >🔗</a> **[SpaceNews]** Mission-ready communications: enhancing defense capabilities with multi-orbit, multi-network systems
-- <a href="https://spacenews.com/chinese-commercial-company-lands-contract-to-build-provincial-satellite-constellation/" >🔗</a> **[SpaceNews]** Chinese commercial company lands contract to build provincial satellite constellation
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250527T113149">2025-05-27 11:31:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250527T120237">2025-05-27 12:02:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
