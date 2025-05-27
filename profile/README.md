@@ -90,7 +90,9 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/learning-resources/for-colleges-universities/nasa-stem-projects/nasa-interns-conduct-aerospace-research-in-microgravity/" >🔗</a> **[NASA]** NASA Interns Conduct Aerospace Research in Microgravity
 - <a href="https://spacenews.com/spacenews-names-kamal-flucker-as-vice-president-of-global-sales-to-lead-international-growth/" >🔗</a> **[SpaceNews]** SpaceNews Names Kamal Flucker as Vice President of Global Sales to Lead International Growth
+- <a href="https://science.nasa.gov/blog/sols-4549-4552-keeping-busy-over-the-long-weekend/" >🔗</a> **[NASA]** Sols 4549-4552: Keeping Busy Over the Long Weekend
 - <a href="https://spacenews.com/exoterra-delivers-21-propulsion-modules-for-sda-satellites/" >🔗</a> **[SpaceNews]** ExoTerra delivers 21 propulsion modules for SDA satellites
 - <a href="https://spacenews.com/the-real-golden-dome-opportunity-defense-acquisition-reform/" >🔗</a> **[SpaceNews]** The real Golden Dome opportunity – defense acquisition reform
 - <a href="https://www.nasa.gov/learning-resources/career-spotlight-mathematician-ages-14-18/" >🔗</a> **[NASA]** Career Spotlight: Mathematician (Ages 14-18)
@@ -98,8 +100,6 @@ into *a Suborbital
 - <a href="https://www.esa.int/About_Us/Business_with_ESA/Inauguration_of_the_European_Space_Deep-Tech_Innovation_Centre_ESDI_first_ESA_presence_in_Switzerland" >🔗</a> **[ESA]** Inauguration of the European Space Deep-Tech Innovation Centre (ESDI) – first ESA presence in Switzerland
 - <a href="https://www.nasa.gov/directorates/stmd/niac/niac-studies/autonomous-tritium-micropowered-sensors-2/" >🔗</a> **[NASA]** Autonomous Tritium Micropowered Sensors
 - <a href="https://www.nasa.gov/directorates/stmd/niac/niac-studies/addressing-key-challenges-to-mapping-sub-cm-orbital-debris-in-leo-via-plasma-soliton-detection/" >🔗</a> **[NASA]** Addressing Key Challenges To Mapping Sub-cm Orbital Debris in LEO via Plasma Soliton Detection
-- <a href="https://www.nasa.gov/directorates/stmd/niac/niac-studies/breathing-beyond-earth-a-reliable-oxygen-production-architecture-for-human-space-exploration/" >🔗</a> **[NASA]** Breathing Beyond Earth: A Reliable Oxygen Production Architecture for Human Space Exploration
-- <a href="https://www.nasa.gov/directorates/stmd/niac/niac-studies/tfiner-thin-film-isotope-nuclear-engine-rocket/" >🔗</a> **[NASA]** TFINER – Thin Film Isotope Nuclear Engine Rocket
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250527T200137">2025-05-27 20:01:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250527T203449">2025-05-27 20:34:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
