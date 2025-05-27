@@ -53,8 +53,8 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250529T040300">2025-05-29 04:03:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2D | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20250529T040300Z%2F20250529T043200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2D | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250530T172300">2025-05-30 17:23:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | GPS III SV08&location=Cape Canaveral SFS, FL, USA&dates=20250530T172300Z%2F20250530T173800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | GPS III SV08** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250530T202400">2025-05-30 20:24:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-18&location=Vandenberg SFB, CA, USA&dates=20250530T202400Z%2F20250531T005500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-18** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250602T045700">2025-06-02 04:57:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-19&location=Cape Canaveral SFS, FL, USA&dates=20250602T045700Z%2F20250602T085700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-19** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250606T000000">2025-06-06 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Sirius SXM-10&location=Cape Canaveral SFS, FL, USA&dates=20250606T000000Z%2F20250606T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Sirius SXM-10** from Cape Canaveral SFS, FL, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250608T131100">2025-06-08 13:11:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Axiom Space Mission 4&location=Kennedy Space Center, FL, USA&dates=20250608T131100Z%2F20250608T131100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Axiom Space Mission 4** from Kennedy Space Center, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -92,7 +92,6 @@ into *a Low Earth Orbit
 ### Latest News ⌛
 - <a href="https://spaceflightnow.com/2025/05/26/live-coverage-spacex-to-launch-its-starship-super-heavy-rocket-on-its-9th-test-flight/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch its Starship-Super Heavy rocket on its 9th test flight
 - <a href="https://europeanspaceflight.com/francois-jacq-appointed-as-new-president-and-ceo-of-cnes/" >🔗</a> **[European Spaceflight]** François Jacq Appointed as New President and CEO of CNES
-- <a href="https://www.nasaspaceflight.com/2025/05/third-times-the-charm-starship-flight-9/" >🔗</a> **[NASASpaceflight]** Third Time’s the Charm? Starship Flight 9
 - <a href="https://www.nasaspaceflight.com/2025/05/starship-flight-9/" >🔗</a> **[NASASpaceflight]** Third time’s the charm? Starship Flight 9 ready for flight
 - <a href="https://spaceflightnow.com/2025/05/26/live-coverage-spacex-to-launch-24-starlink-satellites-to-polar-orbit-from-california/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites to polar orbit from California
 - <a href="https://science.nasa.gov/science-research/earth-science/summary-of-the-2024-sage-iii-iss-meeting/" >🔗</a> **[NASA]** Summary of the 2024 SAGE III/ISS Meeting
@@ -100,16 +99,18 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/chinese-commercial-company-lands-contract-to-build-provincial-satellite-constellation/" >🔗</a> **[SpaceNews]** Chinese commercial company lands contract to build provincial satellite constellation
 - <a href="https://www.esa.int/Enabling_Support/Operations/Waltzing_celebration_for_half_a_century_of_European_satellite_tracking" >🔗</a> **[ESA]** Waltzing celebration for half a century of European satellite tracking
 - <a href="https://www.nasaspaceflight.com/2025/05/magellan-venus-coronae/" >🔗</a> **[NASASpaceflight]** Magellan data provides new insight into tectonic processes on Venus
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-may-25-31-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy May 25-31, 2025
 
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2025/05/26/live-coverage-spacex-to-launch-24-starlink-satellites-to-polar-orbit-from-california/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites to polar orbit from California
 - <a href="https://www.nasaspaceflight.com/2025/05/launch-roundup-051925/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX to start new Starlink shell; China, Russia to launch unknown payloads
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250527T004558">2025-05-27 00:45:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250527T060135">2025-05-27 06:01:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
