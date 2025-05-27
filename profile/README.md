@@ -90,6 +90,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/learning-resources/career-spotlight-mathematician-ages-14-18/" >🔗</a> **[NASA]** Career Spotlight: Mathematician (Ages 14-18)
 - <a href="https://spacenews.com/enpulsion-unveils-nexus-its-most-powerful-electric-propulsion-system-to-date/" >🔗</a> **[SpaceNews]** Enpulsion Unveils Nexus, Its Most Powerful Electric Propulsion System to Date
 - <a href="https://www.esa.int/About_Us/Business_with_ESA/Inauguration_of_the_European_Space_Deep-Tech_Innovation_Centre_ESDI_first_ESA_presence_in_Switzerland" >🔗</a> **[ESA]** Inauguration of the European Space Deep-Tech Innovation Centre (ESDI) – first ESA presence in Switzerland
 - <a href="https://www.nasa.gov/directorates/stmd/niac/niac-studies/autonomous-tritium-micropowered-sensors-2/" >🔗</a> **[NASA]** Autonomous Tritium Micropowered Sensors
@@ -99,7 +100,6 @@ into *a Suborbital
 - <a href="https://www.nasa.gov/directorates/stmd/niac/photophoretic-propulsion-enabling-mesosphere-exploration-2/" >🔗</a> **[NASA]** Photophoretic Propulsion Enabling Mesosphere Exploration
 - <a href="https://www.nasa.gov/directorates/stmd/niac/niac-studies/mars-roundtrip-success-enabled-by-integrated-cooling-through-inductively-coupled-led-emission-mars-icicle/" >🔗</a> **[NASA]** Mars Roundtrip Success Enabled by Integrated Cooling through Inductively Coupled LED Emission (MaRS ICICLE)
 - <a href="https://www.nasa.gov/directorates/stmd/niac/niac-studies/gravity-poppers-hopping-probes-for-the-interior-mapping-of-small-solar-system-bodies-2/" >🔗</a> **[NASA]** Gravity Poppers: Hopping Probes for the Interior Mapping of Small Solar System Bodies
-- <a href="https://spacenews.com/apio16-radiation-hardened-16-bit-i-o-expander-sets-a-new-benchmark-for-resilient-system-design/" >🔗</a> **[SpaceNews]** APIO16 Radiation-Hardened 16-Bit I/O  Expander Sets a New Benchmark for Resilient System Design
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250527T180127">2025-05-27 18:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250527T183913">2025-05-27 18:39:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
