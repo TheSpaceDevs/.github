@@ -19,27 +19,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 17-1**. It is scheduled to be launched by *SpaceX*
+**Starship | Flight 9**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
+from *<a href="https://en.wikipedia.org/wiki/SpaceX_Starbase#Launch_site_(Orbital_Launch_Pad_A_and_B)">Orbital Launch Mount A</a>, SpaceX Starbase, TX, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250527T161400">2025-05-27 16:14:00 UTC</a>.  Until
-then, this pad will have been used for 194
-out of 808 launches from this location. The launch status is currently
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250527T233000">2025-05-27 23:30:00 UTC</a>.  Until
+then, this pad will have been used for 8
+out of 17 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Communications* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+*Test Flight* and the payload will be injected
+into *a Suborbital
+(Sub)*.
 <br>
 <blockquote>
-  A batch of 24 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  9th test flight of the two-stage Starship launch vehicle.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+  <a href="https://en.wikipedia.org/wiki/SpaceX_Starship" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=34.632,-120.611" >
+  <a href="https://www.google.com/maps?q=25.9962,-97.154423" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -54,6 +54,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250530T202400">2025-05-30 20:24:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-18&location=Vandenberg SFB, CA, USA&dates=20250530T202400Z%2F20250531T005500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-18** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250531T133000">2025-05-31 13:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Shepard | NS-32&location=Corn Ranch, Van Horn, TX, USA&dates=20250531T133000Z%2F20250531T133000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Shepard | NS-32** from Corn Ranch, Van Horn, TX, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250602T045700">2025-06-02 04:57:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-19&location=Cape Canaveral SFS, FL, USA&dates=20250602T045700Z%2F20250602T085700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-19** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250606T000000">2025-06-06 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Sirius SXM-10&location=Cape Canaveral SFS, FL, USA&dates=20250606T000000Z%2F20250606T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Sirius SXM-10** from Cape Canaveral SFS, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -89,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/enpulsion-unveils-nexus-its-most-powerful-electric-propulsion-system-to-date/" >🔗</a> **[SpaceNews]** Enpulsion Unveils Nexus, Its Most Powerful Electric Propulsion System to Date
 - <a href="https://www.esa.int/About_Us/Business_with_ESA/Inauguration_of_the_European_Space_Deep-Tech_Innovation_Centre_ESDI_first_ESA_presence_in_Switzerland" >🔗</a> **[ESA]** Inauguration of the European Space Deep-Tech Innovation Centre (ESDI) – first ESA presence in Switzerland
 - <a href="https://www.nasa.gov/directorates/stmd/niac/niac-studies/autonomous-tritium-micropowered-sensors-2/" >🔗</a> **[NASA]** Autonomous Tritium Micropowered Sensors
 - <a href="https://www.nasa.gov/directorates/stmd/niac/niac-studies/addressing-key-challenges-to-mapping-sub-cm-orbital-debris-in-leo-via-plasma-soliton-detection/" >🔗</a> **[NASA]** Addressing Key Challenges To Mapping Sub-cm Orbital Debris in LEO via Plasma Soliton Detection
@@ -98,18 +100,25 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/directorates/stmd/niac/niac-studies/mars-roundtrip-success-enabled-by-integrated-cooling-through-inductively-coupled-led-emission-mars-icicle/" >🔗</a> **[NASA]** Mars Roundtrip Success Enabled by Integrated Cooling through Inductively Coupled LED Emission (MaRS ICICLE)
 - <a href="https://www.nasa.gov/directorates/stmd/niac/niac-studies/gravity-poppers-hopping-probes-for-the-interior-mapping-of-small-solar-system-bodies-2/" >🔗</a> **[NASA]** Gravity Poppers: Hopping Probes for the Interior Mapping of Small Solar System Bodies
 - <a href="https://spacenews.com/apio16-radiation-hardened-16-bit-i-o-expander-sets-a-new-benchmark-for-resilient-system-design/" >🔗</a> **[SpaceNews]** APIO16 Radiation-Hardened 16-Bit I/O  Expander Sets a New Benchmark for Resilient System Design
-- <a href="https://spacenews.com/endurosat-raises-49-million-to-mass-produce-larger-satellites/" >🔗</a> **[SpaceNews]** EnduroSat raises $49 million to mass produce larger satellites
 
 
 ### Launch-related News 🚀
 
-- <a href="https://spaceflightnow.com/2025/05/26/live-coverage-spacex-to-launch-24-starlink-satellites-to-polar-orbit-from-california/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites to polar orbit from California
-- <a href="https://www.nasaspaceflight.com/2025/05/launch-roundup-051925/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX to start new Starlink shell; China, Russia to launch unknown payloads
+- <a href="https://spaceflightnow.com/2025/05/26/live-coverage-spacex-to-launch-its-starship-super-heavy-rocket-on-its-9th-test-flight/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch its Starship-Super Heavy rocket on its 9th test flight
+- <a href="https://www.nasaspaceflight.com/2025/05/starship-flight-9/" >🔗</a> **[NASASpaceflight]** Third time’s the charm? Starship Flight 9 ready for flight
+- <a href="https://spaceflightnow.com/2025/05/23/faa-clears-spacex-to-launch-its-9th-starship-super-heavy-rocket-while-flight-8-mishap-investigation-continues/" >🔗</a> **[Spaceflight Now]** FAA clears SpaceX to launch its 9th Starship super heavy rocket, while Flight 8 mishap investigation continues
+- <a href="https://spacepolicyonline.com/news/spacex-readies-ift-9-starship-test-flight-explains-ift-8-failure/" >🔗</a> **[SpacePolicyOnline.com]** SpaceX Readies IFT-9 Starship Test Flight, Explains IFT-8 Failure
+- <a href="https://www.nasaspaceflight.com/2025/05/starship-flight-9-infrastructure/" >🔗</a> **[NASASpaceflight]** Starship program at critical moment as Flight 9 and infrastructure work in focus
+- <a href="https://spacenews.com/faa-provides-final-approval-for-next-starship-launch/" >🔗</a> **[SpaceNews]** FAA provides final approval for next Starship launch
+- <a href="https://spacenews.com/faa-license-update-brings-spacex-closer-to-next-starship-launch/" >🔗</a> **[SpaceNews]** FAA license update brings SpaceX closer to next Starship launch
+- <a href="https://www.nasaspaceflight.com/2025/05/ship-35-sf-spacex-has-fleet-vehicles-flight/" >🔗</a> **[NASASpaceflight]** As Ship 35 Static Fires, SpaceX has a Fleet a Vehicles Getting Ready for Flight
+- <a href="https://www.nasaspaceflight.com/2025/04/booster-14-flight-9/" >🔗</a> **[NASASpaceflight]** Booster 14 Completes Milestone Static Fire Ahead of Flight 9
+- <a href="https://arstechnica.com/space/2025/04/rocket-report-next-starship-flight-to-reuse-booster-faa-clears-new-glenn/" >🔗</a> **[Arstechnica]** Rocket Report: Next Starship flight to reuse booster; FAA clears New Glenn
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250527T170134">2025-05-27 17:01:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250527T173331">2025-05-27 17:33:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
