@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/apio16-radiation-hardened-16-bit-i-o-expander-sets-a-new-benchmark-for-resilient-system-design/" >🔗</a> **[SpaceNews]** APIO16 Radiation-Hardened 16-Bit I/O  Expander Sets a New Benchmark for Resilient System Design
 - <a href="https://spacenews.com/endurosat-raises-49-million-to-mass-produce-larger-satellites/" >🔗</a> **[SpaceNews]** EnduroSat raises $49 million to mass produce larger satellites
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Fly/Prostheses_fit_to_Fly" >🔗</a> **[ESA]** Prostheses fit to Fly!
 - <a href="https://spacenews.com/empyreum-italys-new-satellite-platform-for-the-constellation-era/" >🔗</a> **[SpaceNews]** Empyreum, Italy’s new satellite platform for the constellation era
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/francois-jacq-appointed-as-new-president-and-ceo-of-cnes/" >🔗</a> **[European Spaceflight]** François Jacq Appointed as New President and CEO of CNES
 - <a href="https://www.nasaspaceflight.com/2025/05/starship-flight-9/" >🔗</a> **[NASASpaceflight]** Third time’s the charm? Starship Flight 9 ready for flight
 - <a href="https://spaceflightnow.com/2025/05/26/live-coverage-spacex-to-launch-24-starlink-satellites-to-polar-orbit-from-california/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites to polar orbit from California
-- <a href="https://science.nasa.gov/science-research/earth-science/summary-of-the-2024-sage-iii-iss-meeting/" >🔗</a> **[NASA]** Summary of the 2024 SAGE III/ISS Meeting
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250527T150132">2025-05-27 15:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250527T153512">2025-05-27 15:35:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
