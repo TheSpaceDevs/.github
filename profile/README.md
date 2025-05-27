@@ -93,13 +93,13 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/05/26/live-coverage-spacex-to-launch-its-starship-super-heavy-rocket-on-its-9th-test-flight/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch its Starship-Super Heavy rocket on its 9th test flight
 - <a href="https://europeanspaceflight.com/francois-jacq-appointed-as-new-president-and-ceo-of-cnes/" >🔗</a> **[European Spaceflight]** François Jacq Appointed as New President and CEO of CNES
 - <a href="https://www.nasaspaceflight.com/2025/05/third-times-the-charm-starship-flight-9/" >🔗</a> **[NASASpaceflight]** Third Time’s the Charm? Starship Flight 9
+- <a href="https://www.nasaspaceflight.com/2025/05/starship-flight-9/" >🔗</a> **[NASASpaceflight]** Third time’s the charm? Starship Flight 9 ready for flight
 - <a href="https://spaceflightnow.com/2025/05/26/live-coverage-spacex-to-launch-24-starlink-satellites-to-polar-orbit-from-california/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites to polar orbit from California
 - <a href="https://science.nasa.gov/science-research/earth-science/summary-of-the-2024-sage-iii-iss-meeting/" >🔗</a> **[NASA]** Summary of the 2024 SAGE III/ISS Meeting
 - <a href="https://spacenews.com/mission-ready-communications-enhancing-defense-capabilities-with-multi-orbit-multi-network-systems/" >🔗</a> **[SpaceNews]** Mission-ready communications: enhancing defense capabilities with multi-orbit, multi-network systems
 - <a href="https://spacenews.com/chinese-commercial-company-lands-contract-to-build-provincial-satellite-constellation/" >🔗</a> **[SpaceNews]** Chinese commercial company lands contract to build provincial satellite constellation
 - <a href="https://www.esa.int/Enabling_Support/Operations/Waltzing_celebration_for_half_a_century_of_European_satellite_tracking" >🔗</a> **[ESA]** Waltzing celebration for half a century of European satellite tracking
 - <a href="https://www.nasaspaceflight.com/2025/05/magellan-venus-coronae/" >🔗</a> **[NASASpaceflight]** Magellan data provides new insight into tectonic processes on Venus
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-may-25-31-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy May 25-31, 2025
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250527T000459">2025-05-27 00:04:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250527T004558">2025-05-27 00:45:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
