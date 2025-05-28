@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/hubble-images-galaxies-near-and-far/" >🔗</a> **[NASA]** Hubble Images Galaxies Near and Far
 - <a href="https://www.nasa.gov/image-article/eccentric-star-defies-easy-explanation-nasas-chandra-finds/" >🔗</a> **[NASA]** Eccentric ‘Star’ Defies Easy Explanation, NASA’s Chandra Finds
 - <a href="https://www.nasaspaceflight.com/2025/05/tianwen-2-launch/" >🔗</a> **[NASASpaceflight]** China to launch the Tianwen-2 asteroid sample return mission
 - <a href="https://www.nasa.gov/missions/station/iss-research/how-do-we-do-research-in-zero-gravity-we-asked-a-nasa-expert-episode-62/" >🔗</a> **[NASA]** How Do We Do Research in Zero Gravity? We Asked a NASA Expert: Episode 62
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/overcoming-conservatism-in-the-autonomous-space-revolution/" >🔗</a> **[SpaceNews]** Overcoming conservatism in the autonomous space revolution
 - <a href="https://www.nasa.gov/humans-in-space/commercial-space/leo-economy/nasa-helps-with-progress-on-vasts-haven-1-commercial-space-station/" >🔗</a> **[NASA]** NASA Helps with Progress on Vast’s Haven-1 Commercial Space Station
 - <a href="https://spacenews.com/air-force-research-laboratory-awards-moog-contract-to-develop-new-multimode-propulsion-system-to-enhance-dynamic-space-operations/" >🔗</a> **[SpaceNews]** Air Force Research Laboratory Awards Moog Contract to Develop New Multimode Propulsion System to Enhance Dynamic Space Operations
-- <a href="https://spacenews.com/apex-announces-comet-satellite-bus-for-constellations/" >🔗</a> **[SpaceNews]** Apex announces Comet satellite bus for constellations
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250528T180145">2025-05-28 18:01:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250528T183824">2025-05-28 18:38:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
