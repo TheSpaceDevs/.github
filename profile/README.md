@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/05/28/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-launch-from-nasas-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 27 Starlink satellites on Falcon 9 launch from NASA’s Kennedy Space Center
 - <a href="https://spacepolicyonline.com/news/ift-9-is-another-rud-for-starship-but-an-improvement/" >🔗</a> **[SpacePolicyOnline.com]** IFT-9 Is Another RUD for Starship, But An Improvement
 - <a href="https://spaceflightnow.com/2025/05/28/spacex-launches-first-flight-proven-super-heavy-booster-loses-control-of-starship-mid-flight/" >🔗</a> **[Spaceflight Now]** SpaceX launches first flight-proven Super Heavy booster, loses control of Starship mid-flight
 - <a href="https://spacenews.com/starship-breaks-up-on-reentry-after-loss-of-attitude-control/" >🔗</a> **[SpaceNews]** Starship breaks up on reentry after loss of attitude control
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/spacenews-names-kamal-flucker-as-vice-president-of-global-sales-to-lead-international-growth/" >🔗</a> **[SpaceNews]** SpaceNews Names Kamal Flucker as Vice President of Global Sales to Lead International Growth
 - <a href="https://science.nasa.gov/blog/sols-4549-4552-keeping-busy-over-the-long-weekend/" >🔗</a> **[NASA]** Sols 4549-4552: Keeping Busy Over the Long Weekend
 - <a href="https://spacenews.com/exoterra-delivers-21-propulsion-modules-for-sda-satellites/" >🔗</a> **[SpaceNews]** ExoTerra delivers 21 propulsion modules for SDA satellites
-- <a href="https://spacenews.com/the-real-golden-dome-opportunity-defense-acquisition-reform/" >🔗</a> **[SpaceNews]** The real Golden Dome opportunity – defense acquisition reform
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250528T040321">2025-05-28 04:03:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250528T043707">2025-05-28 04:37:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
