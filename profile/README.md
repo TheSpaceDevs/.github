@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/cosmic-dawn-screening/" >🔗</a> **[NASA]** Cosmic Dawn Screening
+- <a href="https://spacenews.com/china-launches-tianwen-2-mission-to-sample-near-earth-asteroid/" >🔗</a> **[SpaceNews]** China launches Tianwen-2 mission to sample near Earth asteroid
 - <a href="https://www.nasa.gov/image-article/hubble-images-galaxies-near-and-far/" >🔗</a> **[NASA]** Hubble Images Galaxies Near and Far
 - <a href="https://www.nasa.gov/image-article/eccentric-star-defies-easy-explanation-nasas-chandra-finds/" >🔗</a> **[NASA]** Eccentric ‘Star’ Defies Easy Explanation, NASA’s Chandra Finds
 - <a href="https://www.nasaspaceflight.com/2025/05/tianwen-2-launch/" >🔗</a> **[NASASpaceflight]** China to launch the Tianwen-2 asteroid sample return mission
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/get-involved/citizen-science/summer-students-scan-the-radio-skies-with-sunrise/" >🔗</a> **[NASA]** Summer Students Scan the Radio Skies with SunRISE
 - <a href="https://arstechnica.com/space/2025/05/ars-live-four-space-journalists-debate-whether-nasa-is-really-going-to-mars/" >🔗</a> **[Arstechnica]** Ars Live: Four space journalists debate whether NASA is really going to Mars
 - <a href="https://spacenews.com/overcoming-conservatism-in-the-autonomous-space-revolution/" >🔗</a> **[SpaceNews]** Overcoming conservatism in the autonomous space revolution
-- <a href="https://www.nasa.gov/humans-in-space/commercial-space/leo-economy/nasa-helps-with-progress-on-vasts-haven-1-commercial-space-station/" >🔗</a> **[NASA]** NASA Helps with Progress on Vast’s Haven-1 Commercial Space Station
-- <a href="https://spacenews.com/air-force-research-laboratory-awards-moog-contract-to-develop-new-multimode-propulsion-system-to-enhance-dynamic-space-operations/" >🔗</a> **[SpaceNews]** Air Force Research Laboratory Awards Moog Contract to Develop New Multimode Propulsion System to Enhance Dynamic Space Operations
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250528T190123">2025-05-28 19:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250528T193115">2025-05-28 19:31:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
