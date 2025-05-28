@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/starship-breaks-up-on-reentry-after-loss-of-attitude-control/" >🔗</a> **[SpaceNews]** Starship breaks up on reentry after loss of attitude control
 - <a href="https://arstechnica.com/space/2025/05/elon-musk-turns-his-focus-back-to-space-says-starship-and-mars-matter-most/" >🔗</a> **[Arstechnica]** Elon Musk turns his focus back to space, says Starship and Mars matter most
 - <a href="https://spacenews.com/rocket-lab-to-acquire-satellite-payload-manufacturer-geost-for-275-million/" >🔗</a> **[SpaceNews]** Rocket Lab to acquire satellite payload manufacturer Geost for $275 million
 - <a href="https://science.nasa.gov/learning-resources/for-colleges-universities/nasa-stem-projects/nasa-interns-conduct-aerospace-research-in-microgravity/" >🔗</a> **[NASA]** NASA Interns Conduct Aerospace Research in Microgravity
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/the-real-golden-dome-opportunity-defense-acquisition-reform/" >🔗</a> **[SpaceNews]** The real Golden Dome opportunity – defense acquisition reform
 - <a href="https://www.nasa.gov/learning-resources/career-spotlight-mathematician-ages-14-18/" >🔗</a> **[NASA]** Career Spotlight: Mathematician (Ages 14-18)
 - <a href="https://spacenews.com/enpulsion-unveils-nexus-its-most-powerful-electric-propulsion-system-to-date/" >🔗</a> **[SpaceNews]** Enpulsion Unveils Nexus, Its Most Powerful Electric Propulsion System to Date
-- <a href="https://www.esa.int/About_Us/Business_with_ESA/Inauguration_of_the_European_Space_Deep-Tech_Innovation_Centre_ESDI_first_ESA_presence_in_Switzerland" >🔗</a> **[ESA]** Inauguration of the European Space Deep-Tech Innovation Centre (ESDI) – first ESA presence in Switzerland
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250528T012907">2025-05-28 01:29:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250528T021525">2025-05-28 02:15:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
