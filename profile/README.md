@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/air-force-research-laboratory-awards-moog-contract-to-develop-new-multimode-propulsion-system-to-enhance-dynamic-space-operations/" >🔗</a> **[SpaceNews]** Air Force Research Laboratory Awards Moog Contract to Develop New Multimode Propulsion System to Enhance Dynamic Space Operations
 - <a href="https://spacenews.com/apex-announces-comet-satellite-bus-for-constellations/" >🔗</a> **[SpaceNews]** Apex announces Comet satellite bus for constellations
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/How_to_capture_Moon_landing_videos_from_grainy_to_HD" >🔗</a> **[ESA]** How to capture Moon landing videos – from grainy to HD
 - <a href="https://spaceflightnow.com/2025/05/28/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-launch-from-nasas-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 27 Starlink satellites on Falcon 9 launch from NASA’s Kennedy Space Center
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2025/05/elon-musk-turns-his-focus-back-to-space-says-starship-and-mars-matter-most/" >🔗</a> **[Arstechnica]** Elon Musk turns his focus back to space, says Starship and Mars matter most
 - <a href="https://spacenews.com/rocket-lab-to-acquire-satellite-payload-manufacturer-geost-for-275-million/" >🔗</a> **[SpaceNews]** Rocket Lab to acquire satellite payload manufacturer Geost for $275 million
 - <a href="https://science.nasa.gov/learning-resources/for-colleges-universities/nasa-stem-projects/nasa-interns-conduct-aerospace-research-in-microgravity/" >🔗</a> **[NASA]** NASA Interns Conduct Aerospace Research in Microgravity
-- <a href="https://spacenews.com/spacenews-names-kamal-flucker-as-vice-president-of-global-sales-to-lead-international-growth/" >🔗</a> **[SpaceNews]** SpaceNews Names Kamal Flucker as Vice President of Global Sales to Lead International Growth
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250528T120213">2025-05-28 12:02:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250528T124324">2025-05-28 12:43:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
