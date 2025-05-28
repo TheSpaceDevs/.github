@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacex-to-launch-another-gps-iii-satellite-in-record-turnaround/" >🔗</a> **[SpaceNews]** SpaceX to launch another GPS III satellite in record turnaround
+- <a href="https://spacenews.com/frontgrade-technologies-and-vorago-announce-strategic-collaboration-to-advance-space-computing-solutions-for-autonomous-applications/" >🔗</a> **[SpaceNews]** Frontgrade Technologies and VORAGO Announce Strategic Collaboration to Advance Space Computing Solutions for Autonomous Applications
 - <a href="https://www.nasa.gov/general/cosmic-dawn-screening/" >🔗</a> **[NASA]** Cosmic Dawn Screening
 - <a href="https://spacenews.com/china-launches-tianwen-2-mission-to-sample-near-earth-asteroid/" >🔗</a> **[SpaceNews]** China launches Tianwen-2 mission to sample near Earth asteroid
 - <a href="https://www.nasa.gov/image-article/hubble-images-galaxies-near-and-far/" >🔗</a> **[NASA]** Hubble Images Galaxies Near and Far
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://www.nasaspaceflight.com/2025/05/tianwen-2-launch/" >🔗</a> **[NASASpaceflight]** China to launch the Tianwen-2 asteroid sample return mission
 - <a href="https://www.nasa.gov/missions/station/iss-research/how-do-we-do-research-in-zero-gravity-we-asked-a-nasa-expert-episode-62/" >🔗</a> **[NASA]** How Do We Do Research in Zero Gravity? We Asked a NASA Expert: Episode 62
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/05/Estrack_-_Half_a_century_of_European_satellite_tracking" >🔗</a> **[ESA]** Estrack - Half a century of European satellite tracking
-- <a href="https://science.nasa.gov/get-involved/citizen-science/summer-students-scan-the-radio-skies-with-sunrise/" >🔗</a> **[NASA]** Summer Students Scan the Radio Skies with SunRISE
-- <a href="https://arstechnica.com/space/2025/05/ars-live-four-space-journalists-debate-whether-nasa-is-really-going-to-mars/" >🔗</a> **[Arstechnica]** Ars Live: Four space journalists debate whether NASA is really going to Mars
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250528T230130">2025-05-28 23:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250528T233236">2025-05-28 23:32:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
