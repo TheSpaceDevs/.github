@@ -26,7 +26,7 @@ from *<a href="https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex
 at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250528T133000">2025-05-28 13:30:00 UTC</a>.  Until
 then, this pad will have been used for 207
 out of 265 launches from this location. The launch status is currently
-*TBC* 🟨 . The mission type is
+*Go* 🟩 . The mission type is
 *Communications* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
@@ -45,7 +45,7 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250528T133000">2025-05-28 13:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-32&location=Kennedy Space Center, FL, USA&dates=20250528T133000Z%2F20250528T180000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-32** from Kennedy Space Center, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250528T133000">2025-05-28 13:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-32&location=Kennedy Space Center, FL, USA&dates=20250528T133000Z%2F20250528T171700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-32** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250528T172200">2025-05-28 17:22:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 3B/E | Tianwen-2&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20250528T172200Z%2F20250528T174400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 3B/E | Tianwen-2** from Xichang Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250529T011500">2025-05-29 01:15:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Full Stream Ahead (BlackSky Gen-3 2)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20250529T011500Z%2F20250529T011500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Full Stream Ahead (BlackSky Gen-3 2)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250529T040300">2025-05-29 04:03:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2D | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20250529T040300Z%2F20250529T043200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2D | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/apex-announces-comet-satellite-bus-for-constellations/" >🔗</a> **[SpaceNews]** Apex announces Comet satellite bus for constellations
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/How_to_capture_Moon_landing_videos_from_grainy_to_HD" >🔗</a> **[ESA]** How to capture Moon landing videos – from grainy to HD
 - <a href="https://spaceflightnow.com/2025/05/28/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-launch-from-nasas-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 27 Starlink satellites on Falcon 9 launch from NASA’s Kennedy Space Center
 - <a href="https://spacepolicyonline.com/news/ift-9-is-another-rud-for-starship-but-an-improvement/" >🔗</a> **[SpacePolicyOnline.com]** IFT-9 Is Another RUD for Starship, But An Improvement
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/rocket-lab-to-acquire-satellite-payload-manufacturer-geost-for-275-million/" >🔗</a> **[SpaceNews]** Rocket Lab to acquire satellite payload manufacturer Geost for $275 million
 - <a href="https://science.nasa.gov/learning-resources/for-colleges-universities/nasa-stem-projects/nasa-interns-conduct-aerospace-research-in-microgravity/" >🔗</a> **[NASA]** NASA Interns Conduct Aerospace Research in Microgravity
 - <a href="https://spacenews.com/spacenews-names-kamal-flucker-as-vice-president-of-global-sales-to-lead-international-growth/" >🔗</a> **[SpaceNews]** SpaceNews Names Kamal Flucker as Vice President of Global Sales to Lead International Growth
-- <a href="https://science.nasa.gov/blog/sols-4549-4552-keeping-busy-over-the-long-weekend/" >🔗</a> **[NASA]** Sols 4549-4552: Keeping Busy Over the Long Weekend
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250528T090126">2025-05-28 09:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250528T093453">2025-05-28 09:34:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
