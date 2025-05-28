@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/How_to_capture_Moon_landing_videos_from_grainy_to_HD" >🔗</a> **[ESA]** How to capture Moon landing videos – from grainy to HD
 - <a href="https://spaceflightnow.com/2025/05/28/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-launch-from-nasas-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 27 Starlink satellites on Falcon 9 launch from NASA’s Kennedy Space Center
 - <a href="https://spacepolicyonline.com/news/ift-9-is-another-rud-for-starship-but-an-improvement/" >🔗</a> **[SpacePolicyOnline.com]** IFT-9 Is Another RUD for Starship, But An Improvement
 - <a href="https://spaceflightnow.com/2025/05/28/spacex-launches-first-flight-proven-super-heavy-booster-loses-control-of-starship-mid-flight/" >🔗</a> **[Spaceflight Now]** SpaceX launches first flight-proven Super Heavy booster, loses control of Starship mid-flight
@@ -99,16 +100,16 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/learning-resources/for-colleges-universities/nasa-stem-projects/nasa-interns-conduct-aerospace-research-in-microgravity/" >🔗</a> **[NASA]** NASA Interns Conduct Aerospace Research in Microgravity
 - <a href="https://spacenews.com/spacenews-names-kamal-flucker-as-vice-president-of-global-sales-to-lead-international-growth/" >🔗</a> **[SpaceNews]** SpaceNews Names Kamal Flucker as Vice President of Global Sales to Lead International Growth
 - <a href="https://science.nasa.gov/blog/sols-4549-4552-keeping-busy-over-the-long-weekend/" >🔗</a> **[NASA]** Sols 4549-4552: Keeping Busy Over the Long Weekend
-- <a href="https://spacenews.com/exoterra-delivers-21-propulsion-modules-for-sda-satellites/" >🔗</a> **[SpaceNews]** ExoTerra delivers 21 propulsion modules for SDA satellites
 
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2025/05/28/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-launch-from-nasas-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 27 Starlink satellites on Falcon 9 launch from NASA’s Kennedy Space Center
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250528T070128">2025-05-28 07:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250528T073259">2025-05-28 07:32:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
