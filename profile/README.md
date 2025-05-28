@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/ift-9-is-another-rud-for-starship-but-an-improvement/" >🔗</a> **[SpacePolicyOnline.com]** IFT-9 Is Another RUD for Starship, But An Improvement
 - <a href="https://spaceflightnow.com/2025/05/28/spacex-launches-first-flight-proven-super-heavy-booster-loses-control-of-starship-mid-flight/" >🔗</a> **[Spaceflight Now]** SpaceX launches first flight-proven Super Heavy booster, loses control of Starship mid-flight
 - <a href="https://spacenews.com/starship-breaks-up-on-reentry-after-loss-of-attitude-control/" >🔗</a> **[SpaceNews]** Starship breaks up on reentry after loss of attitude control
 - <a href="https://arstechnica.com/space/2025/05/elon-musk-turns-his-focus-back-to-space-says-starship-and-mars-matter-most/" >🔗</a> **[Arstechnica]** Elon Musk turns his focus back to space, says Starship and Mars matter most
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/blog/sols-4549-4552-keeping-busy-over-the-long-weekend/" >🔗</a> **[NASA]** Sols 4549-4552: Keeping Busy Over the Long Weekend
 - <a href="https://spacenews.com/exoterra-delivers-21-propulsion-modules-for-sda-satellites/" >🔗</a> **[SpaceNews]** ExoTerra delivers 21 propulsion modules for SDA satellites
 - <a href="https://spacenews.com/the-real-golden-dome-opportunity-defense-acquisition-reform/" >🔗</a> **[SpaceNews]** The real Golden Dome opportunity – defense acquisition reform
-- <a href="https://www.nasa.gov/learning-resources/career-spotlight-mathematician-ages-14-18/" >🔗</a> **[NASA]** Career Spotlight: Mathematician (Ages 14-18)
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250528T032647">2025-05-28 03:26:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250528T034459">2025-05-28 03:44:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
