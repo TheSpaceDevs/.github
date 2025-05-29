@@ -90,6 +90,7 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/new-report-details-chinas-push-to-dominate-artificial-intelligence/" >🔗</a> **[SpaceNews]** New report details China’s push to dominate artificial intelligence
 - <a href="https://spacenews.com/webinar-geospatial-intelligence-new-data-to-solutions/" >🔗</a> **[SpaceNews]** Webinar: Geospatial Intelligence – New Data to Solutions
 - <a href="https://www.nasa.gov/missions/artemis/artemis-2/integrated-testing-on-horizon-for-artemis-ii-launch-preparations/" >🔗</a> **[NASA]** Integrated Testing on Horizon for Artemis II Launch Preparations
 - <a href="https://science.nasa.gov/missions/maven/nasas-maven-makes-first-observation-of-atmospheric-sputtering-at-mars/" >🔗</a> **[NASA]** NASA’s MAVEN Makes First Observation of Atmospheric Sputtering at Mars
@@ -99,7 +100,6 @@ into *a Medium Earth Orbit
 - <a href="https://spacenews.com/chinese-launch-startup-conducts-vertical-takeoff-and-splashdown-test/" >🔗</a> **[SpaceNews]** Chinese launch startup conducts vertical takeoff and splashdown test
 - <a href="https://spacenews.com/nasa-switches-to-backup-propellant-line-on-psyche-spacecraft/" >🔗</a> **[SpaceNews]** NASA switches to backup propellant line on Psyche spacecraft
 - <a href="https://spacenews.com/space-one-and-space-bd-to-launch-satellite-for-japanese-military/" >🔗</a> **[SpaceNews]** Space One and Space BD to launch satellite for Japanese military
-- <a href="https://spacepolicyonline.com/news/china-launches-tianwen-2-asteroid-sample-return-mission/" >🔗</a> **[SpacePolicyOnline.com]** China Launches Tianwen-2 Asteroid Sample-Return Mission
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250529T180132">2025-05-29 18:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250529T183911">2025-05-29 18:39:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
