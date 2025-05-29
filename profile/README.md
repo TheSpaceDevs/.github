@@ -90,6 +90,8 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-switches-to-backup-propellant-line-on-psyche-spacecraft/" >🔗</a> **[SpaceNews]** NASA switches to backup propellant line on Psyche spacecraft
+- <a href="https://spacenews.com/space-one-and-space-bd-to-launch-satellite-for-japanese-military/" >🔗</a> **[SpaceNews]** Space One and Space BD to launch satellite for Japanese military
 - <a href="https://spacepolicyonline.com/news/china-launches-tianwen-2-asteroid-sample-return-mission/" >🔗</a> **[SpacePolicyOnline.com]** China Launches Tianwen-2 Asteroid Sample-Return Mission
 - <a href="https://spacenews.com/space-force-orders-two-more-gps-iiif-satellites-for-509-7-million/" >🔗</a> **[SpaceNews]** Space Force orders two more GPS IIIF satellites for $509.7 million
 - <a href="https://spacenews.com/spacex-to-launch-another-gps-iii-satellite-in-record-turnaround/" >🔗</a> **[SpaceNews]** SpaceX to launch another GPS III satellite in record turnaround
@@ -98,12 +100,12 @@ into *a Medium Earth Orbit
 - <a href="https://spacenews.com/china-launches-tianwen-2-mission-to-sample-near-earth-asteroid/" >🔗</a> **[SpaceNews]** China launches Tianwen-2 mission to sample near Earth asteroid
 - <a href="https://www.nasa.gov/image-article/hubble-images-galaxies-near-and-far/" >🔗</a> **[NASA]** Hubble Images Galaxies Near and Far
 - <a href="https://www.nasaspaceflight.com/2025/05/launch-roundup-052825/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Chinese asteroid mission, Electron, and Falcon 9 set to launch
-- <a href="https://www.nasa.gov/image-article/eccentric-star-defies-easy-explanation-nasas-chandra-finds/" >🔗</a> **[NASA]** Eccentric ‘Star’ Defies Easy Explanation, NASA’s Chandra Finds
-- <a href="https://www.nasaspaceflight.com/2025/05/tianwen-2-launch/" >🔗</a> **[NASASpaceflight]** China to launch the Tianwen-2 asteroid sample return mission
 
 
 ### Launch-related News 🚀
 
+- <a href="https://spacenews.com/spacex-to-launch-another-gps-iii-satellite-in-record-turnaround/" >🔗</a> **[SpaceNews]** SpaceX to launch another GPS III satellite in record turnaround
+- <a href="https://www.nasaspaceflight.com/2025/05/launch-roundup-052825/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Chinese asteroid mission, Electron, and Falcon 9 set to launch
 - <a href="https://tlpnetwork.com/news/america/us-space-force-reassigns-gps-iii-sv08-launch" >🔗</a> **[The Launch Pad]** US Space Force Reassigns GPS III SV-08 Launch from ULA to SpaceX
 - <a href="https://spaceflightnow.com/2025/04/08/spacex-to-launch-second-accelerated-gps-3-satellite-mission-in-late-may/" >🔗</a> **[Spaceflight Now]** SpaceX to launch second accelerated GPS 3 satellite mission in late May
 - <a href="https://spacenews.com/space-force-reassigns-gps-satellite-launch-from-ula-to-spacex/" >🔗</a> **[SpaceNews]** Space Force reassigns GPS satellite launch from ULA to SpaceX
@@ -113,7 +115,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250529T080148">2025-05-29 08:01:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250529T083746">2025-05-29 08:37:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
