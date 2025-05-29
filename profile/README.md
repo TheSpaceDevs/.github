@@ -90,6 +90,7 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/chinese-launch-startup-conducts-vertical-takeoff-and-splashdown-test/" >🔗</a> **[SpaceNews]** Chinese launch startup conducts vertical takeoff and splashdown test
 - <a href="https://spacenews.com/nasa-switches-to-backup-propellant-line-on-psyche-spacecraft/" >🔗</a> **[SpaceNews]** NASA switches to backup propellant line on Psyche spacecraft
 - <a href="https://spacenews.com/space-one-and-space-bd-to-launch-satellite-for-japanese-military/" >🔗</a> **[SpaceNews]** Space One and Space BD to launch satellite for Japanese military
 - <a href="https://spacepolicyonline.com/news/china-launches-tianwen-2-asteroid-sample-return-mission/" >🔗</a> **[SpacePolicyOnline.com]** China Launches Tianwen-2 Asteroid Sample-Return Mission
@@ -99,7 +100,6 @@ into *a Medium Earth Orbit
 - <a href="https://www.nasa.gov/general/cosmic-dawn-screening/" >🔗</a> **[NASA]** Cosmic Dawn Screening
 - <a href="https://spacenews.com/china-launches-tianwen-2-mission-to-sample-near-earth-asteroid/" >🔗</a> **[SpaceNews]** China launches Tianwen-2 mission to sample near Earth asteroid
 - <a href="https://www.nasa.gov/image-article/hubble-images-galaxies-near-and-far/" >🔗</a> **[NASA]** Hubble Images Galaxies Near and Far
-- <a href="https://www.nasaspaceflight.com/2025/05/launch-roundup-052825/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Chinese asteroid mission, Electron, and Falcon 9 set to launch
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250529T100138">2025-05-29 10:01:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250529T103731">2025-05-29 10:37:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
