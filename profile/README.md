@@ -90,6 +90,7 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/with-strategic-acquisitions-rocket-lab-pursues-prime-defense-contractor-status/" >🔗</a> **[SpaceNews]** With strategic acquisitions, Rocket Lab pursues prime defense contractor status
 - <a href="https://spaceflightnow.com/2025/05/29/cape-canaveral-spaceport-master-plan-work-to-ramp-up-in-summer-2025/" >🔗</a> **[Spaceflight Now]** Cape Canaveral Spaceport Master Plan work to ramp up in summer 2025
 - <a href="https://spacenews.com/china-launches-classified-shijan-26-satellite-with-long-march-4b-rocket/" >🔗</a> **[SpaceNews]** China launches classified Shijan-26 satellite with Long March 4B rocket
 - <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-tech-gives-treadmill-users-a-boost/" >🔗</a> **[NASA]** NASA Tech Gives Treadmill Users a ‘Boost’
@@ -99,7 +100,6 @@ into *a Medium Earth Orbit
 - <a href="https://spacenews.com/new-report-details-chinas-push-to-dominate-artificial-intelligence/" >🔗</a> **[SpaceNews]** New report details China’s push to dominate artificial intelligence
 - <a href="https://spacenews.com/webinar-geospatial-intelligence-new-data-to-solutions/" >🔗</a> **[SpaceNews]** Webinar: Geospatial Intelligence – New Data to Solutions
 - <a href="https://www.nasa.gov/missions/artemis/artemis-2/integrated-testing-on-horizon-for-artemis-ii-launch-preparations/" >🔗</a> **[NASA]** Integrated Testing on Horizon for Artemis II Launch Preparations
-- <a href="https://science.nasa.gov/missions/maven/nasas-maven-makes-first-observation-of-atmospheric-sputtering-at-mars/" >🔗</a> **[NASA]** NASA’s MAVEN Makes First Observation of Atmospheric Sputtering at Mars
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250529T230113">2025-05-29 23:01:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250529T233219">2025-05-29 23:32:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
