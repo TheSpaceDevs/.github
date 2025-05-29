@@ -90,6 +90,8 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/webinar-geospatial-intelligence-new-data-to-solutions/" >🔗</a> **[SpaceNews]** Webinar: Geospatial Intelligence – New Data to Solutions
+- <a href="https://www.nasa.gov/missions/artemis/artemis-2/integrated-testing-on-horizon-for-artemis-ii-launch-preparations/" >🔗</a> **[NASA]** Integrated Testing on Horizon for Artemis II Launch Preparations
 - <a href="https://science.nasa.gov/missions/maven/nasas-maven-makes-first-observation-of-atmospheric-sputtering-at-mars/" >🔗</a> **[NASA]** NASA’s MAVEN Makes First Observation of Atmospheric Sputtering at Mars
 - <a href="https://www.nasa.gov/centers-and-facilities/langley/nasa-langley-uses-height-gravity-to-test-long-flexible-booms/" >🔗</a> **[NASA]** NASA Langley Uses Height, Gravity to Test Long, Flexible Booms
 - <a href="https://spacenews.com/the-power-of-daily-earth-imaging/" >🔗</a> **[SpaceNews]** The power of daily Earth imaging
@@ -98,8 +100,6 @@ into *a Medium Earth Orbit
 - <a href="https://spacenews.com/nasa-switches-to-backup-propellant-line-on-psyche-spacecraft/" >🔗</a> **[SpaceNews]** NASA switches to backup propellant line on Psyche spacecraft
 - <a href="https://spacenews.com/space-one-and-space-bd-to-launch-satellite-for-japanese-military/" >🔗</a> **[SpaceNews]** Space One and Space BD to launch satellite for Japanese military
 - <a href="https://spacepolicyonline.com/news/china-launches-tianwen-2-asteroid-sample-return-mission/" >🔗</a> **[SpacePolicyOnline.com]** China Launches Tianwen-2 Asteroid Sample-Return Mission
-- <a href="https://spacenews.com/space-force-orders-two-more-gps-iiif-satellites-for-509-7-million/" >🔗</a> **[SpaceNews]** Space Force orders two more GPS IIIF satellites for $509.7 million
-- <a href="https://spacenews.com/spacex-to-launch-another-gps-iii-satellite-in-record-turnaround/" >🔗</a> **[SpaceNews]** SpaceX to launch another GPS III satellite in record turnaround
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250529T160127">2025-05-29 16:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250529T163802">2025-05-29 16:38:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
