@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/china-launches-tianwen-2-asteroid-sample-return-mission/" >🔗</a> **[SpacePolicyOnline.com]** China Launches Tianwen-2 Asteroid Sample-Return Mission
 - <a href="https://spacenews.com/space-force-orders-two-more-gps-iiif-satellites-for-509-7-million/" >🔗</a> **[SpaceNews]** Space Force orders two more GPS IIIF satellites for $509.7 million
 - <a href="https://spacenews.com/spacex-to-launch-another-gps-iii-satellite-in-record-turnaround/" >🔗</a> **[SpaceNews]** SpaceX to launch another GPS III satellite in record turnaround
 - <a href="https://spacenews.com/frontgrade-technologies-and-vorago-announce-strategic-collaboration-to-advance-space-computing-solutions-for-autonomous-applications/" >🔗</a> **[SpaceNews]** Frontgrade Technologies and VORAGO Announce Strategic Collaboration to Advance Space Computing Solutions for Autonomous Applications
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasaspaceflight.com/2025/05/launch-roundup-052825/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Chinese asteroid mission, Electron, and Falcon 9 set to launch
 - <a href="https://www.nasa.gov/image-article/eccentric-star-defies-easy-explanation-nasas-chandra-finds/" >🔗</a> **[NASA]** Eccentric ‘Star’ Defies Easy Explanation, NASA’s Chandra Finds
 - <a href="https://www.nasaspaceflight.com/2025/05/tianwen-2-launch/" >🔗</a> **[NASASpaceflight]** China to launch the Tianwen-2 asteroid sample return mission
-- <a href="https://www.nasa.gov/missions/station/iss-research/how-do-we-do-research-in-zero-gravity-we-asked-a-nasa-expert-episode-62/" >🔗</a> **[NASA]** How Do We Do Research in Zero Gravity? We Asked a NASA Expert: Episode 62
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250529T012915">2025-05-29 01:29:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250529T021507">2025-05-29 02:15:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
