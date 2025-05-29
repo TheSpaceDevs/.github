@@ -90,6 +90,8 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/directorates/stmd/nasa-tests-new-ways-to-stick-the-landing-in-challenging-terrain/" >🔗</a> **[NASA]** NASA Tests New Ways to Stick the Landing in Challenging Terrain
+- <a href="https://spacenews.com/northrop-invests-50-million-into-firefly-for-launch-vehicle-development/" >🔗</a> **[SpaceNews]** Northrop invests $50 million into Firefly for launch vehicle development
 - <a href="https://spacenews.com/new-report-details-chinas-push-to-dominate-artificial-intelligence/" >🔗</a> **[SpaceNews]** New report details China’s push to dominate artificial intelligence
 - <a href="https://spacenews.com/webinar-geospatial-intelligence-new-data-to-solutions/" >🔗</a> **[SpaceNews]** Webinar: Geospatial Intelligence – New Data to Solutions
 - <a href="https://www.nasa.gov/missions/artemis/artemis-2/integrated-testing-on-horizon-for-artemis-ii-launch-preparations/" >🔗</a> **[NASA]** Integrated Testing on Horizon for Artemis II Launch Preparations
@@ -98,8 +100,6 @@ into *a Medium Earth Orbit
 - <a href="https://spacenews.com/the-power-of-daily-earth-imaging/" >🔗</a> **[SpaceNews]** The power of daily Earth imaging
 - <a href="https://spacenews.com/maxar-intelligence-taps-tech-veteran-to-lead-commercial-business/" >🔗</a> **[SpaceNews]** Maxar Intelligence taps tech veteran to lead commercial business
 - <a href="https://spacenews.com/chinese-launch-startup-conducts-vertical-takeoff-and-splashdown-test/" >🔗</a> **[SpaceNews]** Chinese launch startup conducts vertical takeoff and splashdown test
-- <a href="https://spacenews.com/nasa-switches-to-backup-propellant-line-on-psyche-spacecraft/" >🔗</a> **[SpaceNews]** NASA switches to backup propellant line on Psyche spacecraft
-- <a href="https://spacenews.com/space-one-and-space-bd-to-launch-satellite-for-japanese-military/" >🔗</a> **[SpaceNews]** Space One and Space BD to launch satellite for Japanese military
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250529T190126">2025-05-29 19:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250529T193059">2025-05-29 19:30:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
