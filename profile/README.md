@@ -90,6 +90,8 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-tech-gives-treadmill-users-a-boost/" >🔗</a> **[NASA]** NASA Tech Gives Treadmill Users a ‘Boost’
+- <a href="https://www.nasa.gov/image-article/45-years-ago-nasa-announces-ninth-astronaut-group/" >🔗</a> **[NASA]** 45 Years Ago: NASA Announces Ninth Astronaut Group
 - <a href="https://www.nasa.gov/directorates/stmd/nasa-tests-new-ways-to-stick-the-landing-in-challenging-terrain/" >🔗</a> **[NASA]** NASA Tests New Ways to Stick the Landing in Challenging Terrain
 - <a href="https://spacenews.com/northrop-invests-50-million-into-firefly-for-launch-vehicle-development/" >🔗</a> **[SpaceNews]** Northrop invests $50 million into Firefly for launch vehicle development
 - <a href="https://spacenews.com/new-report-details-chinas-push-to-dominate-artificial-intelligence/" >🔗</a> **[SpaceNews]** New report details China’s push to dominate artificial intelligence
@@ -98,8 +100,6 @@ into *a Medium Earth Orbit
 - <a href="https://science.nasa.gov/missions/maven/nasas-maven-makes-first-observation-of-atmospheric-sputtering-at-mars/" >🔗</a> **[NASA]** NASA’s MAVEN Makes First Observation of Atmospheric Sputtering at Mars
 - <a href="https://www.nasa.gov/centers-and-facilities/langley/nasa-langley-uses-height-gravity-to-test-long-flexible-booms/" >🔗</a> **[NASA]** NASA Langley Uses Height, Gravity to Test Long, Flexible Booms
 - <a href="https://spacenews.com/the-power-of-daily-earth-imaging/" >🔗</a> **[SpaceNews]** The power of daily Earth imaging
-- <a href="https://spacenews.com/maxar-intelligence-taps-tech-veteran-to-lead-commercial-business/" >🔗</a> **[SpaceNews]** Maxar Intelligence taps tech veteran to lead commercial business
-- <a href="https://spacenews.com/chinese-launch-startup-conducts-vertical-takeoff-and-splashdown-test/" >🔗</a> **[SpaceNews]** Chinese launch startup conducts vertical takeoff and splashdown test
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250529T200133">2025-05-29 20:01:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250529T203448">2025-05-29 20:34:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
