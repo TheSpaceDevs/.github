@@ -90,6 +90,8 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/missions/maven/nasas-maven-makes-first-observation-of-atmospheric-sputtering-at-mars/" >🔗</a> **[NASA]** NASA’s MAVEN Makes First Observation of Atmospheric Sputtering at Mars
+- <a href="https://www.nasa.gov/centers-and-facilities/langley/nasa-langley-uses-height-gravity-to-test-long-flexible-booms/" >🔗</a> **[NASA]** NASA Langley Uses Height, Gravity to Test Long, Flexible Booms
 - <a href="https://spacenews.com/the-power-of-daily-earth-imaging/" >🔗</a> **[SpaceNews]** The power of daily Earth imaging
 - <a href="https://spacenews.com/maxar-intelligence-taps-tech-veteran-to-lead-commercial-business/" >🔗</a> **[SpaceNews]** Maxar Intelligence taps tech veteran to lead commercial business
 - <a href="https://spacenews.com/chinese-launch-startup-conducts-vertical-takeoff-and-splashdown-test/" >🔗</a> **[SpaceNews]** Chinese launch startup conducts vertical takeoff and splashdown test
@@ -98,8 +100,6 @@ into *a Medium Earth Orbit
 - <a href="https://spacepolicyonline.com/news/china-launches-tianwen-2-asteroid-sample-return-mission/" >🔗</a> **[SpacePolicyOnline.com]** China Launches Tianwen-2 Asteroid Sample-Return Mission
 - <a href="https://spacenews.com/space-force-orders-two-more-gps-iiif-satellites-for-509-7-million/" >🔗</a> **[SpaceNews]** Space Force orders two more GPS IIIF satellites for $509.7 million
 - <a href="https://spacenews.com/spacex-to-launch-another-gps-iii-satellite-in-record-turnaround/" >🔗</a> **[SpaceNews]** SpaceX to launch another GPS III satellite in record turnaround
-- <a href="https://spacenews.com/frontgrade-technologies-and-vorago-announce-strategic-collaboration-to-advance-space-computing-solutions-for-autonomous-applications/" >🔗</a> **[SpaceNews]** Frontgrade Technologies and VORAGO Announce Strategic Collaboration to Advance Space Computing Solutions for Autonomous Applications
-- <a href="https://www.nasa.gov/general/cosmic-dawn-screening/" >🔗</a> **[NASA]** Cosmic Dawn Screening
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250529T150133">2025-05-29 15:01:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250529T153428">2025-05-29 15:34:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
