@@ -90,6 +90,7 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Careers_at_ESA/Final_call_ESA_s_Junior_Professional_Programme_your_portal_to_space" >🔗</a> **[ESA]** Final call: ESA’s Junior Professional Programme – your portal to space
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/05/Earth_from_Space_Cloud-free_Iceland" >🔗</a> **[ESA]** Earth from Space: Cloud-free Iceland
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/05/Elevating_Europe_in_space_for_fifty_years" >🔗</a> **[ESA]** Elevating Europe in space for fifty years
 - <a href="https://europeanspaceflight.com/cnes-issues-call-for-in-orbit-refuelling-services-demonstration/" >🔗</a> **[European Spaceflight]** CNES Issues Call for In-Orbit Refuelling Services Demonstration
@@ -99,7 +100,6 @@ into *a Medium Earth Orbit
 - <a href="https://science.nasa.gov/blog/a-dust-devil-photobombs-perseverance/" >🔗</a> **[NASA]** A Dust Devil Photobombs Perseverance!
 - <a href="https://spacenews.com/with-strategic-acquisitions-rocket-lab-pursues-prime-defense-contractor-status/" >🔗</a> **[SpaceNews]** With strategic acquisitions, Rocket Lab pursues prime defense contractor status
 - <a href="https://spaceflightnow.com/2025/05/29/cape-canaveral-spaceport-master-plan-work-to-ramp-up-in-summer-2025/" >🔗</a> **[Spaceflight Now]** Cape Canaveral Spaceport Master Plan work to ramp up in summer 2025
-- <a href="https://spacenews.com/china-launches-classified-shijan-26-satellite-with-long-march-4b-rocket/" >🔗</a> **[SpaceNews]** China launches classified Shijan-26 satellite with Long March 4B rocket
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250530T090121">2025-05-30 09:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250530T093406">2025-05-30 09:34:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
