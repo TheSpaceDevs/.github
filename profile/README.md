@@ -90,6 +90,7 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/skepticism-lingers-about-cost-and-business-case-for-iris%c2%b2/" >🔗</a> **[SpaceNews]** Skepticism lingers about cost and business case for IRIS²
 - <a href="https://science.nasa.gov/blog/sols-4554-4555-lets-try-that-one-again/" >🔗</a> **[NASA]** Sols 4554–4555: Let’s Try That One Again…
 - <a href="https://www.nasa.gov/image-article/nasas-spacex-demo-2-launch-fifth-anniversary/" >🔗</a> **[NASA]** NASA’s SpaceX Demo-2 Launch Fifth Anniversary
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_26-30_May_2025" >🔗</a> **[ESA]** Week in images: 26-30 May 2025
@@ -99,7 +100,6 @@ into *a Medium Earth Orbit
 - <a href="https://science.nasa.gov/missions/hubble/hubble-spies-paired-pinwheel-on-its-own/" >🔗</a> **[NASA]** Hubble Spies Paired Pinwheel on Its Own
 - <a href="https://spacenews.com/chinas-astronstone-raises-early-funding-for-stainless-steel-rocket-with-chopstick-recovery/" >🔗</a> **[SpaceNews]** China’s Astronstone raises early funding for stainless steel rocket with “chopstick” recovery
 - <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/jun2025-night-sky-notes/" >🔗</a> **[NASA]** June’s Night Sky Notes: Seasons of the Solar System
-- <a href="https://www.esa.int/About_Us/Careers_at_ESA/Final_call_ESA_s_Junior_Professional_Programme_your_portal_to_space" >🔗</a> **[ESA]** Final call: ESA’s Junior Professional Programme – your portal to space
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250530T160134">2025-05-30 16:01:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250530T163747">2025-05-30 16:37:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
