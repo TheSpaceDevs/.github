@@ -90,16 +90,16 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/05/30/live-coverage-spacex-to-launch-gps-iii-7-mission-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch GPS III-7 mission on Falcon 9 rocket from Cape Canaveral
+- <a href="https://spacepolicyonline.com/news/musk-still-hoping-for-first-starship-to-mars-next-year/" >🔗</a> **[SpacePolicyOnline.com]** Musk Still Hoping for First Starship to Mars Next Year
+- <a href="https://science.nasa.gov/blog/sol-4553-back-to-the-boxwork/" >🔗</a> **[NASA]** Sol 4553: Back to the Boxwork!
+- <a href="https://science.nasa.gov/blog/a-dust-devil-photobombs-perseverance/" >🔗</a> **[NASA]** A Dust Devil Photobombs Perseverance!
 - <a href="https://spacenews.com/with-strategic-acquisitions-rocket-lab-pursues-prime-defense-contractor-status/" >🔗</a> **[SpaceNews]** With strategic acquisitions, Rocket Lab pursues prime defense contractor status
 - <a href="https://spaceflightnow.com/2025/05/29/cape-canaveral-spaceport-master-plan-work-to-ramp-up-in-summer-2025/" >🔗</a> **[Spaceflight Now]** Cape Canaveral Spaceport Master Plan work to ramp up in summer 2025
 - <a href="https://spacenews.com/china-launches-classified-shijan-26-satellite-with-long-march-4b-rocket/" >🔗</a> **[SpaceNews]** China launches classified Shijan-26 satellite with Long March 4B rocket
 - <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-tech-gives-treadmill-users-a-boost/" >🔗</a> **[NASA]** NASA Tech Gives Treadmill Users a ‘Boost’
 - <a href="https://www.nasa.gov/image-article/45-years-ago-nasa-announces-ninth-astronaut-group/" >🔗</a> **[NASA]** 45 Years Ago: NASA Announces Ninth Astronaut Group
 - <a href="https://www.nasa.gov/directorates/stmd/nasa-tests-new-ways-to-stick-the-landing-in-challenging-terrain/" >🔗</a> **[NASA]** NASA Tests New Ways to Stick the Landing in Challenging Terrain
-- <a href="https://spacenews.com/northrop-invests-50-million-into-firefly-for-launch-vehicle-development/" >🔗</a> **[SpaceNews]** Northrop invests $50 million into Firefly for launch vehicle development
-- <a href="https://spacenews.com/new-report-details-chinas-push-to-dominate-artificial-intelligence/" >🔗</a> **[SpaceNews]** New report details China’s push to dominate artificial intelligence
-- <a href="https://spacenews.com/webinar-geospatial-intelligence-new-data-to-solutions/" >🔗</a> **[SpaceNews]** Webinar: Geospatial Intelligence – New Data to Solutions
-- <a href="https://www.nasa.gov/missions/artemis/artemis-2/integrated-testing-on-horizon-for-artemis-ii-launch-preparations/" >🔗</a> **[NASA]** Integrated Testing on Horizon for Artemis II Launch Preparations
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250530T012904">2025-05-30 01:29:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250530T021344">2025-05-30 02:13:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
