@@ -53,8 +53,8 @@ into *a Medium Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250603T235000">2025-06-03 23:50:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-22&location=Vandenberg SFB, CA, USA&dates=20250603T235000Z%2F20250604T035000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-22** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250607T030000">2025-06-07 03:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Sirius SXM-10&location=Cape Canaveral SFS, FL, USA&dates=20250607T030000Z%2F20250607T030000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Sirius SXM-10** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250608T131100">2025-06-08 13:11:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Axiom Space Mission 4&location=Kennedy Space Center, FL, USA&dates=20250608T131100Z%2F20250608T131100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Axiom Space Mission 4** from Kennedy Space Center, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250608T133400">2025-06-08 13:34:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 15-8&location=Vandenberg SFB, CA, USA&dates=20250608T133400Z%2F20250608T173400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 15-8** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250613T182900">2025-06-13 18:29:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 551 | Project Kuiper (KA-02)&location=Cape Canaveral SFS, FL, USA&dates=20250613T182900Z%2F20250613T185900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 551 | Project Kuiper (KA-02)** from Cape Canaveral SFS, FL, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250618T113000">2025-06-18 11:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=GSLV Mk II | NISAR (NASA-ISRO Synthetic Aperture Radar)&location=Satish Dhawan Space Centre, India&dates=20250618T113000Z%2F20250618T153000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **GSLV Mk II | NISAR (NASA-ISRO Synthetic Aperture Radar)** from Satish Dhawan Space Centre, India.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,6 +90,8 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/05/Earth_from_Space_Cloud-free_Iceland" >🔗</a> **[ESA]** Earth from Space: Cloud-free Iceland
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/05/Elevating_Europe_in_space_for_fifty_years" >🔗</a> **[ESA]** Elevating Europe in space for fifty years
 - <a href="https://europeanspaceflight.com/cnes-issues-call-for-in-orbit-refuelling-services-demonstration/" >🔗</a> **[European Spaceflight]** CNES Issues Call for In-Orbit Refuelling Services Demonstration
 - <a href="https://spaceflightnow.com/2025/05/30/live-coverage-spacex-to-launch-gps-iii-7-mission-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch GPS III-7 mission on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacepolicyonline.com/news/musk-still-hoping-for-first-starship-to-mars-next-year/" >🔗</a> **[SpacePolicyOnline.com]** Musk Still Hoping for First Starship to Mars Next Year
@@ -98,8 +100,6 @@ into *a Medium Earth Orbit
 - <a href="https://spacenews.com/with-strategic-acquisitions-rocket-lab-pursues-prime-defense-contractor-status/" >🔗</a> **[SpaceNews]** With strategic acquisitions, Rocket Lab pursues prime defense contractor status
 - <a href="https://spaceflightnow.com/2025/05/29/cape-canaveral-spaceport-master-plan-work-to-ramp-up-in-summer-2025/" >🔗</a> **[Spaceflight Now]** Cape Canaveral Spaceport Master Plan work to ramp up in summer 2025
 - <a href="https://spacenews.com/china-launches-classified-shijan-26-satellite-with-long-march-4b-rocket/" >🔗</a> **[SpaceNews]** China launches classified Shijan-26 satellite with Long March 4B rocket
-- <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-tech-gives-treadmill-users-a-boost/" >🔗</a> **[NASA]** NASA Tech Gives Treadmill Users a ‘Boost’
-- <a href="https://www.nasa.gov/image-article/45-years-ago-nasa-announces-ninth-astronaut-group/" >🔗</a> **[NASA]** 45 Years Ago: NASA Announces Ninth Astronaut Group
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250530T080137">2025-05-30 08:01:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250530T083714">2025-05-30 08:37:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
