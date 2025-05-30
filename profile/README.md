@@ -90,6 +90,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-budget-would-cancel-dozens-of-science-missions-lay-off-thousands/" >🔗</a> **[SpaceNews]** NASA budget would cancel dozens of science missions, lay off thousands
 - <a href="https://spacenews.com/spacex-launches-latest-gps-iii-satellite-for-u-s-military/" >🔗</a> **[SpaceNews]** SpaceX launches latest GPS III satellite for U.S. military
 - <a href="https://www.nasaspaceflight.com/2025/05/future-starship-block-3-mars/" >🔗</a> **[NASASpaceflight]** The Future of the Starship Program, Block 3 and Mars
 - <a href="https://spacenews.com/skepticism-lingers-about-cost-and-business-case-for-iris%c2%b2/" >🔗</a> **[SpaceNews]** Skepticism lingers about cost and business case for IRIS²
@@ -99,7 +100,6 @@ into *a Suborbital
 - <a href="https://spacenews.com/when-earth-fails-space-responds/" >🔗</a> **[SpaceNews]** When Earth fails, space responds
 - <a href="https://arstechnica.com/space/2025/05/rocket-report-northrop-backs-firefly-and-names-its-rocket-xodiac-will-fly-no-more/" >🔗</a> **[Arstechnica]** Rocket Report: Northrop backs Firefly and names its rocket; Xodiac will fly no more
 - <a href="https://spacenews.com/university-of-colorado-boulder-to-announce-new-space-policy-center/" >🔗</a> **[SpaceNews]** University of Colorado, Boulder to announce new space policy center
-- <a href="https://science.nasa.gov/missions/hubble/hubble-spies-paired-pinwheel-on-its-own/" >🔗</a> **[NASA]** Hubble Spies Paired Pinwheel on Its Own
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250530T230121">2025-05-30 23:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250530T233252">2025-05-30 23:32:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
