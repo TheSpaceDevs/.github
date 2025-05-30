@@ -90,6 +90,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/05/future-starship-block-3-mars/" >🔗</a> **[NASASpaceflight]** The Future of the Starship Program, Block 3 and Mars
 - <a href="https://spacenews.com/skepticism-lingers-about-cost-and-business-case-for-iris%c2%b2/" >🔗</a> **[SpaceNews]** Skepticism lingers about cost and business case for IRIS²
 - <a href="https://science.nasa.gov/blog/sols-4554-4555-lets-try-that-one-again/" >🔗</a> **[NASA]** Sols 4554–4555: Let’s Try That One Again…
 - <a href="https://www.nasa.gov/image-article/nasas-spacex-demo-2-launch-fifth-anniversary/" >🔗</a> **[NASA]** NASA’s SpaceX Demo-2 Launch Fifth Anniversary
@@ -99,7 +100,6 @@ into *a Suborbital
 - <a href="https://spacenews.com/university-of-colorado-boulder-to-announce-new-space-policy-center/" >🔗</a> **[SpaceNews]** University of Colorado, Boulder to announce new space policy center
 - <a href="https://science.nasa.gov/missions/hubble/hubble-spies-paired-pinwheel-on-its-own/" >🔗</a> **[NASA]** Hubble Spies Paired Pinwheel on Its Own
 - <a href="https://spacenews.com/chinas-astronstone-raises-early-funding-for-stainless-steel-rocket-with-chopstick-recovery/" >🔗</a> **[SpaceNews]** China’s Astronstone raises early funding for stainless steel rocket with “chopstick” recovery
-- <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/jun2025-night-sky-notes/" >🔗</a> **[NASA]** June’s Night Sky Notes: Seasons of the Solar System
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250530T190128">2025-05-30 19:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250530T193110">2025-05-30 19:31:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
