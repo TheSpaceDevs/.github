@@ -90,6 +90,7 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/cnes-issues-call-for-in-orbit-refuelling-services-demonstration/" >🔗</a> **[European Spaceflight]** CNES Issues Call for In-Orbit Refuelling Services Demonstration
 - <a href="https://spaceflightnow.com/2025/05/30/live-coverage-spacex-to-launch-gps-iii-7-mission-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch GPS III-7 mission on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacepolicyonline.com/news/musk-still-hoping-for-first-starship-to-mars-next-year/" >🔗</a> **[SpacePolicyOnline.com]** Musk Still Hoping for First Starship to Mars Next Year
 - <a href="https://science.nasa.gov/blog/sol-4553-back-to-the-boxwork/" >🔗</a> **[NASA]** Sol 4553: Back to the Boxwork!
@@ -99,7 +100,6 @@ into *a Medium Earth Orbit
 - <a href="https://spacenews.com/china-launches-classified-shijan-26-satellite-with-long-march-4b-rocket/" >🔗</a> **[SpaceNews]** China launches classified Shijan-26 satellite with Long March 4B rocket
 - <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-tech-gives-treadmill-users-a-boost/" >🔗</a> **[NASA]** NASA Tech Gives Treadmill Users a ‘Boost’
 - <a href="https://www.nasa.gov/image-article/45-years-ago-nasa-announces-ninth-astronaut-group/" >🔗</a> **[NASA]** 45 Years Ago: NASA Announces Ninth Astronaut Group
-- <a href="https://www.nasa.gov/directorates/stmd/nasa-tests-new-ways-to-stick-the-landing-in-challenging-terrain/" >🔗</a> **[NASA]** NASA Tests New Ways to Stick the Landing in Challenging Terrain
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250530T060154">2025-05-30 06:01:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250530T063919">2025-05-30 06:39:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
