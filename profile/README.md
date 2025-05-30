@@ -90,16 +90,16 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/nasas-spacex-demo-2-launch-fifth-anniversary/" >🔗</a> **[NASA]** NASA’s SpaceX Demo-2 Launch Fifth Anniversary
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_26-30_May_2025" >🔗</a> **[ESA]** Week in images: 26-30 May 2025
 - <a href="https://spacenews.com/when-earth-fails-space-responds/" >🔗</a> **[SpaceNews]** When Earth fails, space responds
 - <a href="https://arstechnica.com/space/2025/05/rocket-report-northrop-backs-firefly-and-names-its-rocket-xodiac-will-fly-no-more/" >🔗</a> **[Arstechnica]** Rocket Report: Northrop backs Firefly and names its rocket; Xodiac will fly no more
 - <a href="https://spacenews.com/university-of-colorado-boulder-to-announce-new-space-policy-center/" >🔗</a> **[SpaceNews]** University of Colorado, Boulder to announce new space policy center
+- <a href="https://science.nasa.gov/missions/hubble/hubble-spies-paired-pinwheel-on-its-own/" >🔗</a> **[NASA]** Hubble Spies Paired Pinwheel on Its Own
 - <a href="https://spacenews.com/chinas-astronstone-raises-early-funding-for-stainless-steel-rocket-with-chopstick-recovery/" >🔗</a> **[SpaceNews]** China’s Astronstone raises early funding for stainless steel rocket with “chopstick” recovery
+- <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/jun2025-night-sky-notes/" >🔗</a> **[NASA]** June’s Night Sky Notes: Seasons of the Solar System
 - <a href="https://www.esa.int/About_Us/Careers_at_ESA/Final_call_ESA_s_Junior_Professional_Programme_your_portal_to_space" >🔗</a> **[ESA]** Final call: ESA’s Junior Professional Programme – your portal to space
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/05/Earth_from_Space_Cloud-free_Iceland" >🔗</a> **[ESA]** Earth from Space: Cloud-free Iceland
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/05/Elevating_Europe_in_space_for_fifty_years" >🔗</a> **[ESA]** Elevating Europe in space for fifty years
-- <a href="https://europeanspaceflight.com/cnes-issues-call-for-in-orbit-refuelling-services-demonstration/" >🔗</a> **[European Spaceflight]** CNES Issues Call for In-Orbit Refuelling Services Demonstration
-- <a href="https://spaceflightnow.com/2025/05/30/live-coverage-spacex-to-launch-gps-iii-7-mission-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch GPS III-7 mission on Falcon 9 rocket from Cape Canaveral
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250530T140135">2025-05-30 14:01:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250530T143540">2025-05-30 14:35:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
