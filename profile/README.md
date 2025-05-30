@@ -19,27 +19,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | GPS III SV08**. It is scheduled to be launched by *SpaceX*
+**New Shepard | NS-32**. It is scheduled to be launched by *Blue Origin*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral SFS, FL, USA*
+from *<a href="https://en.wikipedia.org/wiki/Corn_Ranch">West Texas Suborbital Launch Site/ Corn Ranch</a>, Corn Ranch, Van Horn, TX, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250530T172300">2025-05-30 17:23:00 UTC</a>.  Until
-then, this pad will have been used for 309
-out of 1025 launches from this location. The launch status is currently
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250531T133000">2025-05-31 13:30:00 UTC</a>.  Until
+then, this pad will have been used for 31
+out of 31 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Navigation* and the payload will be injected
-into *a Medium Earth Orbit
-(MEO)*.
+*Tourism* and the payload will be injected
+into *a Suborbital
+(Sub)*.
 <br>
 <blockquote>
-  Eighth of ten GPS III missions.
+  NS-32 is the 12th crewed flight for the New Shepard program and the 32nd in its history.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+  <a href="https://en.wikipedia.org/wiki/New_Shepard" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
+  <a href="https://www.google.com/maps?q=31.422878000000000,-104.757121000000000" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -54,6 +54,7 @@ into *a Medium Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250608T131100">2025-06-08 13:11:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Axiom Space Mission 4&location=Kennedy Space Center, FL, USA&dates=20250608T131100Z%2F20250608T131100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Axiom Space Mission 4** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250608T133400">2025-06-08 13:34:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 15-8&location=Vandenberg SFB, CA, USA&dates=20250608T133400Z%2F20250608T173400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 15-8** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250613T182900">2025-06-13 18:29:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 551 | Project Kuiper (KA-02)&location=Cape Canaveral SFS, FL, USA&dates=20250613T182900Z%2F20250613T185900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 551 | Project Kuiper (KA-02)** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250618T113000">2025-06-18 11:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=GSLV Mk II | NISAR (NASA-ISRO Synthetic Aperture Radar)&location=Satish Dhawan Space Centre, India&dates=20250618T113000Z%2F20250618T153000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **GSLV Mk II | NISAR (NASA-ISRO Synthetic Aperture Radar)** from Satish Dhawan Space Centre, India.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -103,18 +104,12 @@ into *a Medium Earth Orbit
 
 ### Launch-related News 🚀
 
-- <a href="https://spacenews.com/spacex-to-launch-another-gps-iii-satellite-in-record-turnaround/" >🔗</a> **[SpaceNews]** SpaceX to launch another GPS III satellite in record turnaround
 - <a href="https://www.nasaspaceflight.com/2025/05/launch-roundup-052825/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Chinese asteroid mission, Electron, and Falcon 9 set to launch
-- <a href="https://tlpnetwork.com/news/america/us-space-force-reassigns-gps-iii-sv08-launch" >🔗</a> **[The Launch Pad]** US Space Force Reassigns GPS III SV-08 Launch from ULA to SpaceX
-- <a href="https://spaceflightnow.com/2025/04/08/spacex-to-launch-second-accelerated-gps-3-satellite-mission-in-late-may/" >🔗</a> **[Spaceflight Now]** SpaceX to launch second accelerated GPS 3 satellite mission in late May
-- <a href="https://spacenews.com/space-force-reassigns-gps-satellite-launch-from-ula-to-spacex/" >🔗</a> **[SpaceNews]** Space Force reassigns GPS satellite launch from ULA to SpaceX
-- <a href="https://spaceflightnow.com/2022/06/10/u-s-space-force-orders-eight-launches-from-ula-and-spacex/" >🔗</a> **[Spaceflight Now]** U.S. Space Force orders eight launches from ULA and SpaceX
-- <a href="https://www.teslarati.com/spacex-ula-win-8-us-military-launch-contracts-2022/" >🔗</a> **[Teslarati]** SpaceX, ULA awarded eight more US military launch contracts
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250530T180134">2025-05-30 18:01:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250530T183854">2025-05-30 18:38:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
