@@ -90,6 +90,8 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_26-30_May_2025" >🔗</a> **[ESA]** Week in images: 26-30 May 2025
+- <a href="https://spacenews.com/when-earth-fails-space-responds/" >🔗</a> **[SpaceNews]** When Earth fails, space responds
 - <a href="https://arstechnica.com/space/2025/05/rocket-report-northrop-backs-firefly-and-names-its-rocket-xodiac-will-fly-no-more/" >🔗</a> **[Arstechnica]** Rocket Report: Northrop backs Firefly and names its rocket; Xodiac will fly no more
 - <a href="https://spacenews.com/university-of-colorado-boulder-to-announce-new-space-policy-center/" >🔗</a> **[SpaceNews]** University of Colorado, Boulder to announce new space policy center
 - <a href="https://spacenews.com/chinas-astronstone-raises-early-funding-for-stainless-steel-rocket-with-chopstick-recovery/" >🔗</a> **[SpaceNews]** China’s Astronstone raises early funding for stainless steel rocket with “chopstick” recovery
@@ -98,8 +100,6 @@ into *a Medium Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/05/Elevating_Europe_in_space_for_fifty_years" >🔗</a> **[ESA]** Elevating Europe in space for fifty years
 - <a href="https://europeanspaceflight.com/cnes-issues-call-for-in-orbit-refuelling-services-demonstration/" >🔗</a> **[European Spaceflight]** CNES Issues Call for In-Orbit Refuelling Services Demonstration
 - <a href="https://spaceflightnow.com/2025/05/30/live-coverage-spacex-to-launch-gps-iii-7-mission-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch GPS III-7 mission on Falcon 9 rocket from Cape Canaveral
-- <a href="https://spacepolicyonline.com/news/musk-still-hoping-for-first-starship-to-mars-next-year/" >🔗</a> **[SpacePolicyOnline.com]** Musk Still Hoping for First Starship to Mars Next Year
-- <a href="https://science.nasa.gov/blog/sol-4553-back-to-the-boxwork/" >🔗</a> **[NASA]** Sol 4553: Back to the Boxwork!
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250530T130955">2025-05-30 13:09:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250530T133809">2025-05-30 13:38:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
