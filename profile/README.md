@@ -90,6 +90,8 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/05/rocket-report-northrop-backs-firefly-and-names-its-rocket-xodiac-will-fly-no-more/" >🔗</a> **[Arstechnica]** Rocket Report: Northrop backs Firefly and names its rocket; Xodiac will fly no more
+- <a href="https://spacenews.com/university-of-colorado-boulder-to-announce-new-space-policy-center/" >🔗</a> **[SpaceNews]** University of Colorado, Boulder to announce new space policy center
 - <a href="https://spacenews.com/chinas-astronstone-raises-early-funding-for-stainless-steel-rocket-with-chopstick-recovery/" >🔗</a> **[SpaceNews]** China’s Astronstone raises early funding for stainless steel rocket with “chopstick” recovery
 - <a href="https://www.esa.int/About_Us/Careers_at_ESA/Final_call_ESA_s_Junior_Professional_Programme_your_portal_to_space" >🔗</a> **[ESA]** Final call: ESA’s Junior Professional Programme – your portal to space
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/05/Earth_from_Space_Cloud-free_Iceland" >🔗</a> **[ESA]** Earth from Space: Cloud-free Iceland
@@ -98,8 +100,6 @@ into *a Medium Earth Orbit
 - <a href="https://spaceflightnow.com/2025/05/30/live-coverage-spacex-to-launch-gps-iii-7-mission-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch GPS III-7 mission on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacepolicyonline.com/news/musk-still-hoping-for-first-starship-to-mars-next-year/" >🔗</a> **[SpacePolicyOnline.com]** Musk Still Hoping for First Starship to Mars Next Year
 - <a href="https://science.nasa.gov/blog/sol-4553-back-to-the-boxwork/" >🔗</a> **[NASA]** Sol 4553: Back to the Boxwork!
-- <a href="https://science.nasa.gov/blog/a-dust-devil-photobombs-perseverance/" >🔗</a> **[NASA]** A Dust Devil Photobombs Perseverance!
-- <a href="https://spacenews.com/with-strategic-acquisitions-rocket-lab-pursues-prime-defense-contractor-status/" >🔗</a> **[SpaceNews]** With strategic acquisitions, Rocket Lab pursues prime defense contractor status
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250530T110117">2025-05-30 11:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250530T113115">2025-05-30 11:31:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
