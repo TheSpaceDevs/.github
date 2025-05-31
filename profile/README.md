@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/05/trump-pulls-isaacman-nomination-for-space-source-nasa-is-fed/" >🔗</a> **[Arstechnica]** Trump pulls Isaacman nomination for space. Source: “NASA is f****ed”
+- <a href="https://spaceflightnow.com/2025/05/31/president-trump-withdraws-isaacman-nomination-for-nasa-administrator-days-before-senate-confirmation-vote/" >🔗</a> **[Spaceflight Now]** President Trump withdraws Isaacman nomination for NASA Administrator days before Senate confirmation vote
+- <a href="https://spacenews.com/white-house-to-withdraw-isaacman-nomination-to-lead-nasa/" >🔗</a> **[SpaceNews]** White House to withdraw Isaacman nomination to lead NASA
+- <a href="https://spacepolicyonline.com/news/jared-isaacman-out-as-nasa-administrator-nominee/" >🔗</a> **[SpacePolicyOnline.com]** Jared Isaacman Out as NASA Administrator Nominee
 - <a href="https://spacenews.com/blue-origin-performs-12th-crewed-new-shepard-suborbital-flight/" >🔗</a> **[SpaceNews]** Blue Origin performs 12th crewed New Shepard suborbital flight
 - <a href="https://spaceflightnow.com/2025/05/31/live-coverage-west-coast-falcon-9-to-launch-27-satellites-for-spacexs-starlink-internet-service/" >🔗</a> **[Spaceflight Now]** Live coverage: West Coast Falcon 9 to launch 27 satellites for SpaceX’s Starlink internet service
 - <a href="https://spacenews.com/nasa-budget-would-cancel-dozens-of-science-missions-lay-off-thousands/" >🔗</a> **[SpaceNews]** NASA budget would cancel dozens of science missions, lay off thousands
 - <a href="https://spacenews.com/spacex-launches-latest-gps-iii-satellite-for-u-s-military/" >🔗</a> **[SpaceNews]** SpaceX launches latest GPS III satellite for U.S. military
 - <a href="https://www.nasaspaceflight.com/2025/05/future-starship-block-3-mars/" >🔗</a> **[NASASpaceflight]** The Future of the Starship Program, Block 3 and Mars
 - <a href="https://spacenews.com/skepticism-lingers-about-cost-and-business-case-for-iris%c2%b2/" >🔗</a> **[SpaceNews]** Skepticism lingers about cost and business case for IRIS²
-- <a href="https://science.nasa.gov/blog/sols-4554-4555-lets-try-that-one-again/" >🔗</a> **[NASA]** Sols 4554–4555: Let’s Try That One Again…
-- <a href="https://www.nasa.gov/image-article/nasas-spacex-demo-2-launch-fifth-anniversary/" >🔗</a> **[NASA]** NASA’s SpaceX Demo-2 Launch Fifth Anniversary
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_26-30_May_2025" >🔗</a> **[ESA]** Week in images: 26-30 May 2025
-- <a href="https://spacenews.com/when-earth-fails-space-responds/" >🔗</a> **[SpaceNews]** When Earth fails, space responds
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250531T210129">2025-05-31 21:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250531T213204">2025-05-31 21:32:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
