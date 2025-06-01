@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-june-1-8-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy June 1-8, 2025
+- <a href="https://www.nasaspaceflight.com/2025/06/dragonfly-titan-science/" >🔗</a> **[NASASpaceflight]** How Dragonfly will support the search for life on an uninhabitable world
 - <a href="https://spacepolicyonline.com/news/nasa-copes-with-details-of-6-billion-budget-cut-leadership-uncertainty/" >🔗</a> **[SpacePolicyOnline.com]** NASA Copes with Details of $6 Billion Budget Cut, Leadership Uncertainty
 - <a href="https://spaceflightnow.com/2025/06/01/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-11/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 23 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://arstechnica.com/space/2025/05/trump-pulls-isaacman-nomination-for-space-source-nasa-is-fed/" >🔗</a> **[Arstechnica]** Trump pulls Isaacman nomination for space. Source: “NASA is f****ed”
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/jared-isaacman-out-as-nasa-administrator-nominee/" >🔗</a> **[SpacePolicyOnline.com]** Jared Isaacman Out as NASA Administrator Nominee
 - <a href="https://spacenews.com/blue-origin-performs-12th-crewed-new-shepard-suborbital-flight/" >🔗</a> **[SpaceNews]** Blue Origin performs 12th crewed New Shepard suborbital flight
 - <a href="https://spaceflightnow.com/2025/05/31/live-coverage-west-coast-falcon-9-to-launch-27-satellites-for-spacexs-starlink-internet-service/" >🔗</a> **[Spaceflight Now]** Live coverage: West Coast Falcon 9 to launch 27 satellites for SpaceX’s Starlink internet service
-- <a href="https://spacenews.com/nasa-budget-would-cancel-dozens-of-science-missions-lay-off-thousands/" >🔗</a> **[SpaceNews]** NASA budget would cancel dozens of science missions, lay off thousands
-- <a href="https://spacenews.com/spacex-launches-latest-gps-iii-satellite-for-u-s-military/" >🔗</a> **[SpaceNews]** SpaceX launches latest GPS III satellite for U.S. military
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250601T220134">2025-06-01 22:01:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250601T223447">2025-06-01 22:34:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
