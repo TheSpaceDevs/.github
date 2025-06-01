@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/nasa-copes-with-details-of-6-billion-budget-cut-leadership-uncertainty/" >🔗</a> **[SpacePolicyOnline.com]** NASA Copes with Details of $6 Billion Budget Cut, Leadership Uncertainty
 - <a href="https://spaceflightnow.com/2025/06/01/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-11/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 23 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://arstechnica.com/space/2025/05/trump-pulls-isaacman-nomination-for-space-source-nasa-is-fed/" >🔗</a> **[Arstechnica]** Trump pulls Isaacman nomination for space. Source: “NASA is f****ed”
 - <a href="https://spaceflightnow.com/2025/05/31/president-trump-withdraws-isaacman-nomination-for-nasa-administrator-days-before-senate-confirmation-vote/" >🔗</a> **[Spaceflight Now]** President Trump withdraws Isaacman nomination for NASA Administrator days before Senate confirmation vote
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/05/31/live-coverage-west-coast-falcon-9-to-launch-27-satellites-for-spacexs-starlink-internet-service/" >🔗</a> **[Spaceflight Now]** Live coverage: West Coast Falcon 9 to launch 27 satellites for SpaceX’s Starlink internet service
 - <a href="https://spacenews.com/nasa-budget-would-cancel-dozens-of-science-missions-lay-off-thousands/" >🔗</a> **[SpaceNews]** NASA budget would cancel dozens of science missions, lay off thousands
 - <a href="https://spacenews.com/spacex-launches-latest-gps-iii-satellite-for-u-s-military/" >🔗</a> **[SpaceNews]** SpaceX launches latest GPS III satellite for U.S. military
-- <a href="https://www.nasaspaceflight.com/2025/05/future-starship-block-3-mars/" >🔗</a> **[NASASpaceflight]** The Future of the Starship Program, Block 3 and Mars
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250601T210121">2025-06-01 21:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250601T213149">2025-06-01 21:31:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
