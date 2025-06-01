@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/06/01/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-11/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 23 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://arstechnica.com/space/2025/05/trump-pulls-isaacman-nomination-for-space-source-nasa-is-fed/" >🔗</a> **[Arstechnica]** Trump pulls Isaacman nomination for space. Source: “NASA is f****ed”
 - <a href="https://spaceflightnow.com/2025/05/31/president-trump-withdraws-isaacman-nomination-for-nasa-administrator-days-before-senate-confirmation-vote/" >🔗</a> **[Spaceflight Now]** President Trump withdraws Isaacman nomination for NASA Administrator days before Senate confirmation vote
 - <a href="https://spacenews.com/white-house-to-withdraw-isaacman-nomination-to-lead-nasa/" >🔗</a> **[SpaceNews]** White House to withdraw Isaacman nomination to lead NASA
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/nasa-budget-would-cancel-dozens-of-science-missions-lay-off-thousands/" >🔗</a> **[SpaceNews]** NASA budget would cancel dozens of science missions, lay off thousands
 - <a href="https://spacenews.com/spacex-launches-latest-gps-iii-satellite-for-u-s-military/" >🔗</a> **[SpaceNews]** SpaceX launches latest GPS III satellite for U.S. military
 - <a href="https://www.nasaspaceflight.com/2025/05/future-starship-block-3-mars/" >🔗</a> **[NASASpaceflight]** The Future of the Starship Program, Block 3 and Mars
-- <a href="https://spacenews.com/skepticism-lingers-about-cost-and-business-case-for-iris%c2%b2/" >🔗</a> **[SpaceNews]** Skepticism lingers about cost and business case for IRIS²
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250601T160125">2025-06-01 16:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250601T163710">2025-06-01 16:37:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
