@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacenews-appoints-laurie-diamond-as-vice-president-of-business-development-to-accelerate-revenue-growth-and-strategic-expansion/" >🔗</a> **[SpaceNews]** SpaceNews Appoints Laurie Diamond as Vice President of Business Development to Accelerate Revenue Growth and Strategic Expansion
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-june-1-8-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy June 1-8, 2025
 - <a href="https://www.nasaspaceflight.com/2025/06/dragonfly-titan-science/" >🔗</a> **[NASASpaceflight]** How Dragonfly will support the search for life on an uninhabitable world
 - <a href="https://spacepolicyonline.com/news/nasa-copes-with-details-of-6-billion-budget-cut-leadership-uncertainty/" >🔗</a> **[SpacePolicyOnline.com]** NASA Copes with Details of $6 Billion Budget Cut, Leadership Uncertainty
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/white-house-to-withdraw-isaacman-nomination-to-lead-nasa/" >🔗</a> **[SpaceNews]** White House to withdraw Isaacman nomination to lead NASA
 - <a href="https://spacepolicyonline.com/news/jared-isaacman-out-as-nasa-administrator-nominee/" >🔗</a> **[SpacePolicyOnline.com]** Jared Isaacman Out as NASA Administrator Nominee
 - <a href="https://spacenews.com/blue-origin-performs-12th-crewed-new-shepard-suborbital-flight/" >🔗</a> **[SpaceNews]** Blue Origin performs 12th crewed New Shepard suborbital flight
-- <a href="https://spaceflightnow.com/2025/05/31/live-coverage-west-coast-falcon-9-to-launch-27-satellites-for-spacexs-starlink-internet-service/" >🔗</a> **[Spaceflight Now]** Live coverage: West Coast Falcon 9 to launch 27 satellites for SpaceX’s Starlink internet service
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250602T120212">2025-06-02 12:02:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250602T124336">2025-06-02 12:43:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
