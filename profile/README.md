@@ -19,34 +19,34 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 12-19**. It is scheduled to be launched by *SpaceX*
+**Electron | Full Stream Ahead (BlackSky Gen-3 2)**. It is scheduled to be launched by *Rocket Lab*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral SFS, FL, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250602T052450">2025-06-02 05:24:50 UTC</a>.  Until
-then, this pad will have been used for 310
-out of 1026 launches from this location. The launch status is currently
+from *<a href="https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1">Rocket Lab Launch Complex 1B</a>, Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250602T233000">2025-06-02 23:30:00 UTC</a>.  Until
+then, this pad will have been used for 28
+out of 58 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Communications* and the payload will be injected
+*Earth Science* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  A batch of 23 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  2nd of the BlackSky Gen-3 high resolution Earth-imaging satellites.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+  <a href="https://en.wikipedia.org/wiki/Rocket_Lab_Electron" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
+  <a href="https://www.google.com/maps?q=-39.262833,177.864469" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250602T052450">2025-06-02 05:24:50 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-19&location=Cape Canaveral SFS, FL, USA&dates=20250602T052450Z%2F20250602T052509Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-19** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250602T233000">2025-06-02 23:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Full Stream Ahead (BlackSky Gen-3 2)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20250602T233000Z%2F20250602T233000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Full Stream Ahead (BlackSky Gen-3 2)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250603T044200">2025-06-03 04:42:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-19&location=Cape Canaveral SFS, FL, USA&dates=20250603T044200Z%2F20250603T082900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-19** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250603T235000">2025-06-03 23:50:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-22&location=Vandenberg SFB, CA, USA&dates=20250603T235000Z%2F20250604T035000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-22** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250607T030000">2025-06-07 03:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Sirius SXM-10&location=Cape Canaveral SFS, FL, USA&dates=20250607T030000Z%2F20250607T030000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Sirius SXM-10** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250608T133400">2025-06-08 13:34:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 15-8&location=Vandenberg SFB, CA, USA&dates=20250608T133400Z%2F20250608T173400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 15-8** from Vandenberg SFB, CA, USA.
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250602T050215">2025-06-02 05:02:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250602T053558">2025-06-02 05:35:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
