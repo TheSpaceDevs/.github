@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/06/launch-roundup-060225/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9 to launch crewed mission, Rocket Lab to launch 65th Electron
 - <a href="https://www.nasa.gov/image-article/a-star-like-no-other/" >🔗</a> **[NASA]** A Star Like No Other
 - <a href="https://spaceflightnow.com/2025/06/02/rocket-lab-to-launch-blackskys-next-gen-3-satellite-on-electron-rocket-from-new-zealand/" >🔗</a> **[Spaceflight Now]** Rocket Lab to launch BlackSky’s next Gen-3 satellite on Electron rocket from New Zealand
 - <a href="https://spacenews.com/echostar-bets-on-tv-amid-fcc-mobile-scrutiny/" >🔗</a> **[SpaceNews]** EchoStar bets on TV amid FCC mobile scrutiny
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Hubble_and_Gaia_revisit_fate_of_our_galaxy" >🔗</a> **[ESA]** Hubble and Gaia revisit fate of our galaxy
 - <a href="https://spacenews.com/eycore-emerging-polish-space-defence-company-becomes-key-player-in-developing-national-earth-observation-constellation/" >🔗</a> **[SpaceNews]** EYCORE – Emerging Polish Space Defence Company Becomes Key Player in Developing National Earth Observation Constellation
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Future_space_transportation/Nuclear_rocket_engine_for_Moon_and_Mars" >🔗</a> **[ESA]** Nuclear rocket engine for Moon and Mars
-- <a href="https://spacenews.com/space-assets-could-be-held-ransom-will-we-have-any-choice-but-to-pay/" >🔗</a> **[SpaceNews]** Space assets could be held ransom. Will we have any choice but to pay?
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250602T190119">2025-06-02 19:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250602T193114">2025-06-02 19:31:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
