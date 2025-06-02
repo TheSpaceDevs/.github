@@ -46,7 +46,7 @@ into *a Low Earth Orbit
 
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250602T235700">2025-06-02 23:57:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Full Stream Ahead (BlackSky Gen-3 2)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20250602T235700Z%2F20250602T235700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Full Stream Ahead (BlackSky Gen-3 2)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250603T044220">2025-06-03 04:42:20 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-19&location=Cape Canaveral SFS, FL, USA&dates=20250603T044220Z%2F20250603T082900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-19** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250603T044340">2025-06-03 04:43:40 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-19&location=Cape Canaveral SFS, FL, USA&dates=20250603T044340Z%2F20250603T052800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-19** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250603T235000">2025-06-03 23:50:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-22&location=Vandenberg SFB, CA, USA&dates=20250603T235000Z%2F20250604T035000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-22** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250607T031900">2025-06-07 03:19:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Sirius SXM-10&location=Cape Canaveral SFS, FL, USA&dates=20250607T031900Z%2F20250607T074800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Sirius SXM-10** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250608T133400">2025-06-08 13:34:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 15-8&location=Vandenberg SFB, CA, USA&dates=20250608T133400Z%2F20250608T173400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 15-8** from Vandenberg SFB, CA, USA.
@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/06/02/live-coverage-spacex-reschedules-starlink-delivery-mission-for-midnight-hour-tuesday/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX reschedules Starlink delivery mission for midnight hour Tuesday
+- <a href="https://science.nasa.gov/missions/hubble/apocalypse-when-hubble-casts-doubt-on-certainty-of-galactic-collision/" >🔗</a> **[NASA]** Apocalypse When? Hubble Casts Doubt on Certainty of Galactic Collision
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Hubble_and_Gaia_revisit_fate_of_our_galaxy" >🔗</a> **[ESA]** Hubble and Gaia revisit fate of our galaxy
+- <a href="https://spacenews.com/eycore-emerging-polish-space-defence-company-becomes-key-player-in-developing-national-earth-observation-constellation/" >🔗</a> **[SpaceNews]** EYCORE – Emerging Polish Space Defence Company Becomes Key Player in Developing National Earth Observation Constellation
+- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Future_space_transportation/Nuclear_rocket_engine_for_Moon_and_Mars" >🔗</a> **[ESA]** Nuclear rocket engine for Moon and Mars
 - <a href="https://spacenews.com/space-assets-could-be-held-ransom-will-we-have-any-choice-but-to-pay/" >🔗</a> **[SpaceNews]** Space assets could be held ransom. Will we have any choice but to pay?
 - <a href="https://spacenews.com/spacenews-appoints-laurie-diamond-as-vice-president-of-business-development-to-accelerate-revenue-growth-and-strategic-expansion/" >🔗</a> **[SpaceNews]** SpaceNews Appoints Laurie Diamond as Vice President of Business Development to Accelerate Revenue Growth and Strategic Expansion
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-june-1-8-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy June 1-8, 2025
 - <a href="https://www.nasaspaceflight.com/2025/06/dragonfly-titan-science/" >🔗</a> **[NASASpaceflight]** How Dragonfly will support the search for life on an uninhabitable world
 - <a href="https://spacepolicyonline.com/news/nasa-copes-with-details-of-6-billion-budget-cut-leadership-uncertainty/" >🔗</a> **[SpacePolicyOnline.com]** NASA Copes with Details of $6 Billion Budget Cut, Leadership Uncertainty
-- <a href="https://spaceflightnow.com/2025/06/01/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-11/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 23 Starlink satellites on Falcon 9 rocket from Cape Canaveral
-- <a href="https://arstechnica.com/space/2025/05/trump-pulls-isaacman-nomination-for-space-source-nasa-is-fed/" >🔗</a> **[Arstechnica]** Trump pulls Isaacman nomination for space. Source: “NASA is f****ed”
-- <a href="https://spaceflightnow.com/2025/05/31/president-trump-withdraws-isaacman-nomination-for-nasa-administrator-days-before-senate-confirmation-vote/" >🔗</a> **[Spaceflight Now]** President Trump withdraws Isaacman nomination for NASA Administrator days before Senate confirmation vote
-- <a href="https://spacenews.com/white-house-to-withdraw-isaacman-nomination-to-lead-nasa/" >🔗</a> **[SpaceNews]** White House to withdraw Isaacman nomination to lead NASA
-- <a href="https://spacepolicyonline.com/news/jared-isaacman-out-as-nasa-administrator-nominee/" >🔗</a> **[SpacePolicyOnline.com]** Jared Isaacman Out as NASA Administrator Nominee
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250602T150147">2025-06-02 15:01:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250602T153525">2025-06-02 15:35:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
