@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/south-koreas-venus-focused-cubesat-advances-as-larger-missions-face-nasa-cuts/" >🔗</a> **[SpaceNews]** South Korea’s Venus-focused cubesat advances as larger missions face NASA cuts
 - <a href="https://www.nasaspaceflight.com/2025/06/launch-roundup-060225/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9 to launch crewed mission, Rocket Lab to launch 65th Electron
 - <a href="https://www.nasa.gov/image-article/a-star-like-no-other/" >🔗</a> **[NASA]** A Star Like No Other
 - <a href="https://spaceflightnow.com/2025/06/02/rocket-lab-to-launch-blackskys-next-gen-3-satellite-on-electron-rocket-from-new-zealand/" >🔗</a> **[Spaceflight Now]** Rocket Lab to launch BlackSky’s next Gen-3 satellite on Electron rocket from New Zealand
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/missions/hubble/apocalypse-when-hubble-casts-doubt-on-certainty-of-galactic-collision/" >🔗</a> **[NASA]** Apocalypse When? Hubble Casts Doubt on Certainty of Galactic Collision
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Hubble_and_Gaia_revisit_fate_of_our_galaxy" >🔗</a> **[ESA]** Hubble and Gaia revisit fate of our galaxy
 - <a href="https://spacenews.com/eycore-emerging-polish-space-defence-company-becomes-key-player-in-developing-national-earth-observation-constellation/" >🔗</a> **[SpaceNews]** EYCORE – Emerging Polish Space Defence Company Becomes Key Player in Developing National Earth Observation Constellation
-- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Future_space_transportation/Nuclear_rocket_engine_for_Moon_and_Mars" >🔗</a> **[ESA]** Nuclear rocket engine for Moon and Mars
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250602T210122">2025-06-02 21:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250602T213416">2025-06-02 21:34:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
