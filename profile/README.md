@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/echostar-bets-on-tv-amid-fcc-mobile-scrutiny/" >🔗</a> **[SpaceNews]** EchoStar bets on TV amid FCC mobile scrutiny
 - <a href="https://science.nasa.gov/solar-system/skywatching/whats-up-june-2025-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: June 2025 Skywatching Tips from NASA
 - <a href="https://spaceflightnow.com/2025/06/02/live-coverage-spacex-reschedules-starlink-delivery-mission-for-midnight-hour-tuesday/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX reschedules Starlink delivery mission for midnight hour Tuesday
 - <a href="https://science.nasa.gov/missions/hubble/apocalypse-when-hubble-casts-doubt-on-certainty-of-galactic-collision/" >🔗</a> **[NASA]** Apocalypse When? Hubble Casts Doubt on Certainty of Galactic Collision
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/space-assets-could-be-held-ransom-will-we-have-any-choice-but-to-pay/" >🔗</a> **[SpaceNews]** Space assets could be held ransom. Will we have any choice but to pay?
 - <a href="https://spacenews.com/spacenews-appoints-laurie-diamond-as-vice-president-of-business-development-to-accelerate-revenue-growth-and-strategic-expansion/" >🔗</a> **[SpaceNews]** SpaceNews Appoints Laurie Diamond as Vice President of Business Development to Accelerate Revenue Growth and Strategic Expansion
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-june-1-8-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy June 1-8, 2025
-- <a href="https://www.nasaspaceflight.com/2025/06/dragonfly-titan-science/" >🔗</a> **[NASASpaceflight]** How Dragonfly will support the search for life on an uninhabitable world
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250602T170211">2025-06-02 17:02:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250602T173439">2025-06-02 17:34:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
