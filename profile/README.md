@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/missions/hubble/hubble-filters-a-barred-spiral/" >🔗</a> **[NASA]** Hubble Filters a Barred Spiral
 - <a href="https://arstechnica.com/space/2025/06/tuesday-telescope-lighting-sprites-and-airglow-over-central-america/" >🔗</a> **[Arstechnica]** Tuesday Telescope: Lighting, sprites, and airglow over Central America
 - <a href="https://spacenews.com/rocket-lab-launches-blacksky-satellite/" >🔗</a> **[SpaceNews]** Rocket Lab launches BlackSky satellite
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/06/Mars_star" >🔗</a> **[ESA]** Mars star
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/south-koreas-venus-focused-cubesat-advances-as-larger-missions-face-nasa-cuts/" >🔗</a> **[SpaceNews]** South Korea’s Venus-focused cubesat advances as larger missions face NASA cuts
 - <a href="https://www.nasaspaceflight.com/2025/06/launch-roundup-060225/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9 to launch crewed mission, Rocket Lab to launch 65th Electron
 - <a href="https://www.nasa.gov/image-article/a-star-like-no-other/" >🔗</a> **[NASA]** A Star Like No Other
-- <a href="https://spaceflightnow.com/2025/06/02/rocket-lab-to-launch-blackskys-next-gen-3-satellite-on-electron-rocket-from-new-zealand/" >🔗</a> **[Spaceflight Now]** Rocket Lab to launch BlackSky’s next Gen-3 satellite on Electron rocket from New Zealand
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250603T131117">2025-06-03 13:11:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250603T134022">2025-06-03 13:40:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
