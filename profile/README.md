@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/impulse-space-raises-300-million-for-expansion-and-new-technology-development/" >🔗</a> **[SpaceNews]** Impulse Space raises $300 million for expansion and new technology development
 - <a href="https://www.nasa.gov/image-article/americas-first-spacewalk/" >🔗</a> **[NASA]** America’s First Spacewalk
 - <a href="https://spacenews.com/commercial-space-companies-to-fund-launch-range-upgrades-under-4-billion-contract/" >🔗</a> **[SpaceNews]** Commercial space companies to fund launch range upgrades under $4 billion contract
 - <a href="https://www.nasa.gov/centers-and-facilities/kennedy/future-engineers-shine-at-nasas-2025-lunabotics-robotics-competition/" >🔗</a> **[NASA]** Future Engineers Shine at NASA’s 2025 Lunabotics Robotics Competition
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.spacescout.info/2025/06/a-shaky-step-forward-for-starship-flight-9/" >🔗</a> **[Space Scout]** A Shaky Step Forward for Starship Flight 9
 - <a href="https://spacenews.com/voyager-launches-ipo-with-1-6-billion-valuation-target/" >🔗</a> **[SpaceNews]** Voyager launches IPO with $1.6 billion valuation target
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/06/Mount_Etna_erupts" >🔗</a> **[ESA]** Mount Etna erupts
-- <a href="https://science.nasa.gov/missions/webb/nasas-webb-rounds-out-picture-of-sombrero-galaxys-disk/" >🔗</a> **[NASA]** NASA’s Webb Rounds Out Picture of Sombrero Galaxy’s Disk
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250603T220130">2025-06-03 22:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250603T223533">2025-06-03 22:35:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
