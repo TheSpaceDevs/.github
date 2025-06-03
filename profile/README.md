@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/missions/webb/nasas-webb-rounds-out-picture-of-sombrero-galaxys-disk/" >🔗</a> **[NASA]** NASA’s Webb Rounds Out Picture of Sombrero Galaxy’s Disk
+- <a href="https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/c-first-team-sets-sights-on-future-fire-observing-satellite-constellations/" >🔗</a> **[NASA]** c-FIRST Team Sets Sights on Future Fire-observing Satellite Constellations
 - <a href="https://science.nasa.gov/missions/hubble/hubble-filters-a-barred-spiral/" >🔗</a> **[NASA]** Hubble Filters a Barred Spiral
 - <a href="https://arstechnica.com/space/2025/06/tuesday-telescope-lighting-sprites-and-airglow-over-central-america/" >🔗</a> **[Arstechnica]** Tuesday Telescope: Lighting, sprites, and airglow over Central America
 - <a href="https://spacenews.com/rocket-lab-launches-blacksky-satellite/" >🔗</a> **[SpaceNews]** Rocket Lab launches BlackSky satellite
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/u-s-space-force-awards-bae-systems-1-2-billion-contract-for-missile-tracking-satellites/" >🔗</a> **[SpaceNews]** U.S. Space Force awards BAE Systems $1.2 billion contract for missile-tracking satellites
 - <a href="https://spacenews.com/golden-dome-its-all-about-the-data/" >🔗</a> **[SpaceNews]** Golden Dome: It’s all about the data
 - <a href="https://spacenews.com/south-koreas-venus-focused-cubesat-advances-as-larger-missions-face-nasa-cuts/" >🔗</a> **[SpaceNews]** South Korea’s Venus-focused cubesat advances as larger missions face NASA cuts
-- <a href="https://www.nasaspaceflight.com/2025/06/launch-roundup-060225/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9 to launch crewed mission, Rocket Lab to launch 65th Electron
-- <a href="https://www.nasa.gov/image-article/a-star-like-no-other/" >🔗</a> **[NASA]** A Star Like No Other
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250603T140139">2025-06-03 14:01:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250603T143642">2025-06-03 14:36:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
