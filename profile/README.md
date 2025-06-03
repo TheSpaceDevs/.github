@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/interview-with-dave-des-marais/" >🔗</a> **[NASA]** Interview with Dave Des Marais
+- <a href="https://www.spacescout.info/2025/06/a-shaky-step-forward-for-starship-flight-9/" >🔗</a> **[Space Scout]** A Shaky Step Forward for Starship Flight 9
 - <a href="https://spacenews.com/voyager-launches-ipo-with-1-6-billion-valuation-target/" >🔗</a> **[SpaceNews]** Voyager launches IPO with $1.6 billion valuation target
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/06/Mount_Etna_erupts" >🔗</a> **[ESA]** Mount Etna erupts
 - <a href="https://science.nasa.gov/missions/webb/nasas-webb-rounds-out-picture-of-sombrero-galaxys-disk/" >🔗</a> **[NASA]** NASA’s Webb Rounds Out Picture of Sombrero Galaxy’s Disk
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2025/06/tuesday-telescope-lighting-sprites-and-airglow-over-central-america/" >🔗</a> **[Arstechnica]** Tuesday Telescope: Lighting, sprites, and airglow over Central America
 - <a href="https://spacenews.com/rocket-lab-launches-blacksky-satellite/" >🔗</a> **[SpaceNews]** Rocket Lab launches BlackSky satellite
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/06/Mars_star" >🔗</a> **[ESA]** Mars star
-- <a href="https://www.esa.int/Enabling_Support/Operations/ESA_Ground_Stations/ESA_supports_Moon_mission_carrying_first_European_rover" >🔗</a> **[ESA]** ESA supports Moon mission carrying first European rover
-- <a href="https://spacenews.com/u-s-space-force-awards-bae-systems-1-2-billion-contract-for-missile-tracking-satellites/" >🔗</a> **[SpaceNews]** U.S. Space Force awards BAE Systems $1.2 billion contract for missile-tracking satellites
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250603T160132">2025-06-03 16:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250603T163903">2025-06-03 16:39:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
