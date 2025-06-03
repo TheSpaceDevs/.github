@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/the-commercial-space-federation-announces-the-creation-of-the-space-supply-chain-council-s2c2/" >🔗</a> **[SpaceNews]** The Commercial Space Federation Announces the Creation of the Space Supply Chain Council (S2C2)
 - <a href="https://www.nasa.gov/general/interview-with-dave-des-marais/" >🔗</a> **[NASA]** Interview with Dave Des Marais
 - <a href="https://www.spacescout.info/2025/06/a-shaky-step-forward-for-starship-flight-9/" >🔗</a> **[Space Scout]** A Shaky Step Forward for Starship Flight 9
 - <a href="https://spacenews.com/voyager-launches-ipo-with-1-6-billion-valuation-target/" >🔗</a> **[SpaceNews]** Voyager launches IPO with $1.6 billion valuation target
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/missions/hubble/hubble-filters-a-barred-spiral/" >🔗</a> **[NASA]** Hubble Filters a Barred Spiral
 - <a href="https://arstechnica.com/space/2025/06/tuesday-telescope-lighting-sprites-and-airglow-over-central-america/" >🔗</a> **[Arstechnica]** Tuesday Telescope: Lighting, sprites, and airglow over Central America
 - <a href="https://spacenews.com/rocket-lab-launches-blacksky-satellite/" >🔗</a> **[SpaceNews]** Rocket Lab launches BlackSky satellite
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/06/Mars_star" >🔗</a> **[ESA]** Mars star
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250603T180136">2025-06-03 18:01:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250603T184000">2025-06-03 18:40:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
