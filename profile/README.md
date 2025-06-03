@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/rocket-lab-launches-blacksky-satellite/" >🔗</a> **[SpaceNews]** Rocket Lab launches BlackSky satellite
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/06/Mars_star" >🔗</a> **[ESA]** Mars star
 - <a href="https://www.esa.int/Enabling_Support/Operations/ESA_Ground_Stations/ESA_supports_Moon_mission_carrying_first_European_rover" >🔗</a> **[ESA]** ESA supports Moon mission carrying first European rover
 - <a href="https://spacenews.com/u-s-space-force-awards-bae-systems-1-2-billion-contract-for-missile-tracking-satellites/" >🔗</a> **[SpaceNews]** U.S. Space Force awards BAE Systems $1.2 billion contract for missile-tracking satellites
 - <a href="https://spacenews.com/golden-dome-its-all-about-the-data/" >🔗</a> **[SpaceNews]** Golden Dome: It’s all about the data
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/a-star-like-no-other/" >🔗</a> **[NASA]** A Star Like No Other
 - <a href="https://spaceflightnow.com/2025/06/02/rocket-lab-to-launch-blackskys-next-gen-3-satellite-on-electron-rocket-from-new-zealand/" >🔗</a> **[Spaceflight Now]** Rocket Lab to launch BlackSky’s next Gen-3 satellite on Electron rocket from New Zealand
 - <a href="https://spacenews.com/echostar-bets-on-tv-amid-fcc-mobile-scrutiny/" >🔗</a> **[SpaceNews]** EchoStar bets on TV amid FCC mobile scrutiny
-- <a href="https://science.nasa.gov/solar-system/skywatching/whats-up-june-2025-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: June 2025 Skywatching Tips from NASA
-- <a href="https://spaceflightnow.com/2025/06/02/live-coverage-spacex-reschedules-starlink-delivery-mission-for-midnight-hour-tuesday/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX reschedules Starlink delivery mission for midnight hour Tuesday
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250603T110131">2025-06-03 11:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250603T113204">2025-06-03 11:32:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
