@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/americas-first-spacewalk/" >🔗</a> **[NASA]** America’s First Spacewalk
 - <a href="https://spacenews.com/commercial-space-companies-to-fund-launch-range-upgrades-under-4-billion-contract/" >🔗</a> **[SpaceNews]** Commercial space companies to fund launch range upgrades under $4 billion contract
+- <a href="https://www.nasa.gov/centers-and-facilities/kennedy/future-engineers-shine-at-nasas-2025-lunabotics-robotics-competition/" >🔗</a> **[NASA]** Future Engineers Shine at NASA’s 2025 Lunabotics Robotics Competition
 - <a href="https://spacenews.com/the-commercial-space-federation-announces-the-creation-of-the-space-supply-chain-council-s2c2/" >🔗</a> **[SpaceNews]** The Commercial Space Federation Announces the Creation of the Space Supply Chain Council (S2C2)
+- <a href="https://www.nasa.gov/image-article/nasa-kennedy-digs-latest-robot-test/" >🔗</a> **[NASA]** NASA Kennedy Digs Latest Robot Test
 - <a href="https://www.nasa.gov/general/interview-with-dave-des-marais/" >🔗</a> **[NASA]** Interview with Dave Des Marais
 - <a href="https://www.spacescout.info/2025/06/a-shaky-step-forward-for-starship-flight-9/" >🔗</a> **[Space Scout]** A Shaky Step Forward for Starship Flight 9
 - <a href="https://spacenews.com/voyager-launches-ipo-with-1-6-billion-valuation-target/" >🔗</a> **[SpaceNews]** Voyager launches IPO with $1.6 billion valuation target
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/06/Mount_Etna_erupts" >🔗</a> **[ESA]** Mount Etna erupts
 - <a href="https://science.nasa.gov/missions/webb/nasas-webb-rounds-out-picture-of-sombrero-galaxys-disk/" >🔗</a> **[NASA]** NASA’s Webb Rounds Out Picture of Sombrero Galaxy’s Disk
-- <a href="https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/c-first-team-sets-sights-on-future-fire-observing-satellite-constellations/" >🔗</a> **[NASA]** c-FIRST Team Sets Sights on Future Fire-observing Satellite Constellations
-- <a href="https://science.nasa.gov/missions/hubble/hubble-filters-a-barred-spiral/" >🔗</a> **[NASA]** Hubble Filters a Barred Spiral
-- <a href="https://arstechnica.com/space/2025/06/tuesday-telescope-lighting-sprites-and-airglow-over-central-america/" >🔗</a> **[Arstechnica]** Tuesday Telescope: Lighting, sprites, and airglow over Central America
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250603T193103">2025-06-03 19:31:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250603T200143">2025-06-03 20:01:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
