@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/galaxy-clusters-on-course-to-crash-again-nasas-chandra-finds/" >🔗</a> **[NASA]** Galaxy Clusters on Course to Crash Again, NASA’s Chandra Finds
+- <a href="https://www.nasa.gov/missions/roman-space-telescope/core-components-for-nasas-roman-space-telescope-pass-major-shake-test/" >🔗</a> **[NASA]** Core Components for NASA’s Roman Space Telescope Pass Major Shake Test
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Tall_ship_brings_ESA_ocean_science_training_to_Nice" >🔗</a> **[ESA]** Tall ship brings ESA ocean science training to Nice
 - <a href="https://spacenews.com/how-nasa-advisory-committees-are-navigating-a-new-political-landscape/" >🔗</a> **[SpaceNews]** How NASA advisory committees are navigating a new political landscape
 - <a href="https://www.nasa.gov/image-article/childhood-telescope-launched-career-for-christina-zeringue/" >🔗</a> **[NASA]** How a Childhood Telescope Launched a NASA Career
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/lunar-helium-3-separating-market-from-marketing/" >🔗</a> **[SpaceNews]** Lunar helium-3: separating market from marketing
 - <a href="https://www.esa.int/Enabling_Support/Operations/ESA_transmits_the_Blue_Danube_Waltz_into_deep_space" >🔗</a> **[ESA]** ESA transmits the Blue Danube Waltz into deep space
 - <a href="https://spacenews.com/second-ispace-mission-ready-for-lunar-landing-attempt/" >🔗</a> **[SpaceNews]** Second ispace mission ready for lunar landing attempt
-- <a href="https://spacenews.com/nasas-budget-crisis-presents-an-opportunity-for-change/" >🔗</a> **[SpaceNews]** NASA’s budget crisis presents an opportunity for change
-- <a href="https://spacenews.com/maxar-inks-partnership-with-saab-for-defense-applications-of-geospatial-data/" >🔗</a> **[SpaceNews]** Maxar inks partnership with Saab for defense applications of geospatial data
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250604T180133">2025-06-04 18:01:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250604T183931">2025-06-04 18:39:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
