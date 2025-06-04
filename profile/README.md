@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Tall_ship_brings_ESA_ocean_science_training_to_Nice" >🔗</a> **[ESA]** Tall ship brings ESA ocean science training to Nice
 - <a href="https://spacenews.com/how-nasa-advisory-committees-are-navigating-a-new-political-landscape/" >🔗</a> **[SpaceNews]** How NASA advisory committees are navigating a new political landscape
 - <a href="https://www.nasa.gov/image-article/childhood-telescope-launched-career-for-christina-zeringue/" >🔗</a> **[NASA]** How a Childhood Telescope Launched a NASA Career
 - <a href="https://www.nasa.gov/centers-and-facilities/kennedy/i-am-artemis-lili-villarreal/" >🔗</a> **[NASA]** I Am Artemis: Lili Villarreal
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/second-ispace-mission-ready-for-lunar-landing-attempt/" >🔗</a> **[SpaceNews]** Second ispace mission ready for lunar landing attempt
 - <a href="https://spacenews.com/nasas-budget-crisis-presents-an-opportunity-for-change/" >🔗</a> **[SpaceNews]** NASA’s budget crisis presents an opportunity for change
 - <a href="https://spacenews.com/maxar-inks-partnership-with-saab-for-defense-applications-of-geospatial-data/" >🔗</a> **[SpaceNews]** Maxar inks partnership with Saab for defense applications of geospatial data
-- <a href="https://europeanspaceflight.com/t-minus-to-launch-a-pair-of-barracuda-rockets-from-nova-scotia/" >🔗</a> **[European Spaceflight]** T-Minus to Launch a Pair of Barracuda Rockets from Nova Scotia
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250604T151119">2025-06-04 15:11:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250604T154321">2025-06-04 15:43:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
