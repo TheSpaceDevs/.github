@@ -54,7 +54,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250610T154500">2025-06-10 15:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | The Mountain God Guards (iQPS Launch 3)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20250610T154500Z%2F20250610T163500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | The Mountain God Guards (iQPS Launch 3)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250613T014600">2025-06-13 01:46:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 15-6&location=Vandenberg SFB, CA, USA&dates=20250613T014600Z%2F20250613T061400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 15-6** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250613T182900">2025-06-13 18:29:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 551 | Project Kuiper (KA-02)&location=Cape Canaveral SFS, FL, USA&dates=20250613T182900Z%2F20250613T185900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 551 | Project Kuiper (KA-02)** from Cape Canaveral SFS, FL, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250618T113000">2025-06-18 11:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=GSLV Mk II | NISAR (NASA-ISRO Synthetic Aperture Radar)&location=Satish Dhawan Space Centre, India&dates=20250618T113000Z%2F20250618T153000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **GSLV Mk II | NISAR (NASA-ISRO Synthetic Aperture Radar)** from Satish Dhawan Space Centre, India.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250621T000000">2025-06-21 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Transporter 14 (Dedicated SSO Rideshare)&location=Vandenberg SFB, CA, USA&dates=20250621T000000Z%2F20250621T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Transporter 14 (Dedicated SSO Rideshare)** from Vandenberg SFB, CA, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasas-budget-crisis-presents-an-opportunity-for-change/" >🔗</a> **[SpaceNews]** NASA’s budget crisis presents an opportunity for change
+- <a href="https://spacenews.com/maxar-inks-partnership-with-saab-for-defense-applications-of-geospatial-data/" >🔗</a> **[SpaceNews]** Maxar inks partnership with Saab for defense applications of geospatial data
 - <a href="https://europeanspaceflight.com/t-minus-to-launch-a-pair-of-barracuda-rockets-from-nova-scotia/" >🔗</a> **[European Spaceflight]** T-Minus to Launch a Pair of Barracuda Rockets from Nova Scotia
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/05/Meet_Smile" >🔗</a> **[ESA]** Meet Smile
 - <a href="https://spacenews.com/astroscale-clears-critical-design-review-for-oneweb-satellite-removal-demo/" >🔗</a> **[SpaceNews]** Astroscale clears critical design review for OneWeb satellite removal demo
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/impulse-space-raises-300-million-for-expansion-and-new-technology-development/" >🔗</a> **[SpaceNews]** Impulse Space raises $300 million for expansion and new technology development
 - <a href="https://www.nasa.gov/image-article/americas-first-spacewalk/" >🔗</a> **[NASA]** America’s First Spacewalk
 - <a href="https://spacenews.com/commercial-space-companies-to-fund-launch-range-upgrades-under-4-billion-contract/" >🔗</a> **[SpaceNews]** Commercial space companies to fund launch range upgrades under $4 billion contract
-- <a href="https://www.nasa.gov/centers-and-facilities/kennedy/future-engineers-shine-at-nasas-2025-lunabotics-robotics-competition/" >🔗</a> **[NASA]** Future Engineers Shine at NASA’s 2025 Lunabotics Robotics Competition
-- <a href="https://spacenews.com/the-commercial-space-federation-announces-the-creation-of-the-space-supply-chain-council-s2c2/" >🔗</a> **[SpaceNews]** The Commercial Space Federation Announces the Creation of the Space Supply Chain Council (S2C2)
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250604T110134">2025-06-04 11:01:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250604T113256">2025-06-04 11:32:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
