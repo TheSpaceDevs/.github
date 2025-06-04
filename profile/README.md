@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/second-ispace-mission-ready-for-lunar-landing-attempt/" >🔗</a> **[SpaceNews]** Second ispace mission ready for lunar landing attempt
 - <a href="https://spacenews.com/nasas-budget-crisis-presents-an-opportunity-for-change/" >🔗</a> **[SpaceNews]** NASA’s budget crisis presents an opportunity for change
 - <a href="https://spacenews.com/maxar-inks-partnership-with-saab-for-defense-applications-of-geospatial-data/" >🔗</a> **[SpaceNews]** Maxar inks partnership with Saab for defense applications of geospatial data
 - <a href="https://europeanspaceflight.com/t-minus-to-launch-a-pair-of-barracuda-rockets-from-nova-scotia/" >🔗</a> **[European Spaceflight]** T-Minus to Launch a Pair of Barracuda Rockets from Nova Scotia
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/06/04/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-4/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 50th Starlink mission of 2025 on Wednesday afternoon Falcon 9 flight from California
 - <a href="https://spacenews.com/impulse-space-raises-300-million-for-expansion-and-new-technology-development/" >🔗</a> **[SpaceNews]** Impulse Space raises $300 million for expansion and new technology development
 - <a href="https://www.nasa.gov/image-article/americas-first-spacewalk/" >🔗</a> **[NASA]** America’s First Spacewalk
-- <a href="https://spacenews.com/commercial-space-companies-to-fund-launch-range-upgrades-under-4-billion-contract/" >🔗</a> **[SpaceNews]** Commercial space companies to fund launch range upgrades under $4 billion contract
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250604T120213">2025-06-04 12:02:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250604T124327">2025-06-04 12:43:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
