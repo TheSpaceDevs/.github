@@ -90,7 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/station/iss-research/nasa-isro-research-aboard-fourth-private-astronaut-mission-to-station/" >🔗</a> **[NASA]** NASA, ISRO Research Aboard Fourth Private Astronaut Mission to Station
 - <a href="https://www.nasa.gov/image-article/galaxy-clusters-on-course-to-crash-again-nasas-chandra-finds/" >🔗</a> **[NASA]** Galaxy Clusters on Course to Crash Again, NASA’s Chandra Finds
+- <a href="https://science.nasa.gov/science-research/astrophysics/3-black-holes-caught-eating-massive-stars-in-nasa-data/" >🔗</a> **[NASA]** 3 Black Holes Caught Eating Massive Stars in NASA Data
 - <a href="https://www.nasa.gov/missions/roman-space-telescope/core-components-for-nasas-roman-space-telescope-pass-major-shake-test/" >🔗</a> **[NASA]** Core Components for NASA’s Roman Space Telescope Pass Major Shake Test
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Tall_ship_brings_ESA_ocean_science_training_to_Nice" >🔗</a> **[ESA]** Tall ship brings ESA ocean science training to Nice
 - <a href="https://spacenews.com/how-nasa-advisory-committees-are-navigating-a-new-political-landscape/" >🔗</a> **[SpaceNews]** How NASA advisory committees are navigating a new political landscape
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/kennedy/i-am-artemis-lili-villarreal/" >🔗</a> **[NASA]** I Am Artemis: Lili Villarreal
 - <a href="https://arstechnica.com/space/2025/06/an-in-space-propulsion-company-just-raised-a-staggering-amount-of-money/" >🔗</a> **[Arstechnica]** An in-space propulsion company just raised a staggering amount of money
 - <a href="https://spacenews.com/lunar-helium-3-separating-market-from-marketing/" >🔗</a> **[SpaceNews]** Lunar helium-3: separating market from marketing
-- <a href="https://www.esa.int/Enabling_Support/Operations/ESA_transmits_the_Blue_Danube_Waltz_into_deep_space" >🔗</a> **[ESA]** ESA transmits the Blue Danube Waltz into deep space
-- <a href="https://spacenews.com/second-ispace-mission-ready-for-lunar-landing-attempt/" >🔗</a> **[SpaceNews]** Second ispace mission ready for lunar landing attempt
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250604T190121">2025-06-04 19:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250604T193059">2025-06-04 19:30:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
