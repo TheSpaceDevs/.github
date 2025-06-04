@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/kennedy/i-am-artemis-lili-villarreal/" >🔗</a> **[NASA]** I Am Artemis: Lili Villarreal
+- <a href="https://arstechnica.com/space/2025/06/an-in-space-propulsion-company-just-raised-a-staggering-amount-of-money/" >🔗</a> **[Arstechnica]** An in-space propulsion company just raised a staggering amount of money
+- <a href="https://spacenews.com/lunar-helium-3-separating-market-from-marketing/" >🔗</a> **[SpaceNews]** Lunar helium-3: separating market from marketing
+- <a href="https://www.esa.int/Enabling_Support/Operations/ESA_transmits_the_Blue_Danube_Waltz_into_deep_space" >🔗</a> **[ESA]** ESA transmits the Blue Danube Waltz into deep space
 - <a href="https://spacenews.com/second-ispace-mission-ready-for-lunar-landing-attempt/" >🔗</a> **[SpaceNews]** Second ispace mission ready for lunar landing attempt
 - <a href="https://spacenews.com/nasas-budget-crisis-presents-an-opportunity-for-change/" >🔗</a> **[SpaceNews]** NASA’s budget crisis presents an opportunity for change
 - <a href="https://spacenews.com/maxar-inks-partnership-with-saab-for-defense-applications-of-geospatial-data/" >🔗</a> **[SpaceNews]** Maxar inks partnership with Saab for defense applications of geospatial data
 - <a href="https://europeanspaceflight.com/t-minus-to-launch-a-pair-of-barracuda-rockets-from-nova-scotia/" >🔗</a> **[European Spaceflight]** T-Minus to Launch a Pair of Barracuda Rockets from Nova Scotia
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/05/Meet_Smile" >🔗</a> **[ESA]** Meet Smile
 - <a href="https://spacenews.com/astroscale-clears-critical-design-review-for-oneweb-satellite-removal-demo/" >🔗</a> **[SpaceNews]** Astroscale clears critical design review for OneWeb satellite removal demo
-- <a href="https://science.nasa.gov/blog/sols-4556-4558-its-all-in-a-days-boxwork/" >🔗</a> **[NASA]** Sols 4556-4558: It’s All in a Day’s (box)Work
-- <a href="https://spaceflightnow.com/2025/06/04/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-4/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 50th Starlink mission of 2025 on Wednesday afternoon Falcon 9 flight from California
-- <a href="https://spacenews.com/impulse-space-raises-300-million-for-expansion-and-new-technology-development/" >🔗</a> **[SpaceNews]** Impulse Space raises $300 million for expansion and new technology development
-- <a href="https://www.nasa.gov/image-article/americas-first-spacewalk/" >🔗</a> **[NASA]** America’s First Spacewalk
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250604T131138">2025-06-04 13:11:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250604T134059">2025-06-04 13:40:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
