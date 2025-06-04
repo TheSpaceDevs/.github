@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-axiom-mission-4-launch-arrival-at-station/" >🔗</a> **[NASA]** NASA Sets Coverage for Axiom Mission 4 Launch, Arrival at Station
 - <a href="https://spacenews.com/lockheed-martin-launches-ai-fight-club-to-test-algorithms-for-warfare/" >🔗</a> **[SpaceNews]** Lockheed Martin launches ‘AI Fight Club’ to test algorithms for warfare
 - <a href="https://www.nasa.gov/missions/station/iss-research/nasa-isro-research-aboard-fourth-private-astronaut-mission-to-station/" >🔗</a> **[NASA]** NASA, ISRO Research Aboard Fourth Private Astronaut Mission to Station
 - <a href="https://www.nasa.gov/image-article/galaxy-clusters-on-course-to-crash-again-nasas-chandra-finds/" >🔗</a> **[NASA]** Galaxy Clusters on Course to Crash Again, NASA’s Chandra Finds
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/how-nasa-advisory-committees-are-navigating-a-new-political-landscape/" >🔗</a> **[SpaceNews]** How NASA advisory committees are navigating a new political landscape
 - <a href="https://www.nasa.gov/image-article/childhood-telescope-launched-career-for-christina-zeringue/" >🔗</a> **[NASA]** How a Childhood Telescope Launched a NASA Career
 - <a href="https://www.nasa.gov/centers-and-facilities/kennedy/i-am-artemis-lili-villarreal/" >🔗</a> **[NASA]** I Am Artemis: Lili Villarreal
-- <a href="https://arstechnica.com/space/2025/06/an-in-space-propulsion-company-just-raised-a-staggering-amount-of-money/" >🔗</a> **[Arstechnica]** An in-space propulsion company just raised a staggering amount of money
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250604T203108">2025-06-04 20:31:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250604T210121">2025-06-04 21:01:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
