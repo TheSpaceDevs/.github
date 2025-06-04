@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/06/jared-isaacman-speaks-out-and-its-clear-that-nasa-lost-a-visionary-leader/" >🔗</a> **[Arstechnica]** Jared Isaacman speaks out, and it’s clear that NASA lost a visionary leader
+- <a href="https://www.nasa.gov/image-article/hubble-captures-cotton-candy-clouds/" >🔗</a> **[NASA]** Hubble Captures Cotton Candy Clouds
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-axiom-mission-4-launch-arrival-at-station/" >🔗</a> **[NASA]** NASA Sets Coverage for Axiom Mission 4 Launch, Arrival at Station
 - <a href="https://spacenews.com/lockheed-martin-launches-ai-fight-club-to-test-algorithms-for-warfare/" >🔗</a> **[SpaceNews]** Lockheed Martin launches ‘AI Fight Club’ to test algorithms for warfare
 - <a href="https://www.nasa.gov/missions/station/iss-research/nasa-isro-research-aboard-fourth-private-astronaut-mission-to-station/" >🔗</a> **[NASA]** NASA, ISRO Research Aboard Fourth Private Astronaut Mission to Station
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/missions/roman-space-telescope/core-components-for-nasas-roman-space-telescope-pass-major-shake-test/" >🔗</a> **[NASA]** Core Components for NASA’s Roman Space Telescope Pass Major Shake Test
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Tall_ship_brings_ESA_ocean_science_training_to_Nice" >🔗</a> **[ESA]** Tall ship brings ESA ocean science training to Nice
 - <a href="https://spacenews.com/how-nasa-advisory-committees-are-navigating-a-new-political-landscape/" >🔗</a> **[SpaceNews]** How NASA advisory committees are navigating a new political landscape
-- <a href="https://www.nasa.gov/image-article/childhood-telescope-launched-career-for-christina-zeringue/" >🔗</a> **[NASA]** How a Childhood Telescope Launched a NASA Career
-- <a href="https://www.nasa.gov/centers-and-facilities/kennedy/i-am-artemis-lili-villarreal/" >🔗</a> **[NASA]** I Am Artemis: Lili Villarreal
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250604T213100">2025-06-04 21:31:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250604T220124">2025-06-04 22:01:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
