@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/how-nasa-advisory-committees-are-navigating-a-new-political-landscape/" >🔗</a> **[SpaceNews]** How NASA advisory committees are navigating a new political landscape
+- <a href="https://www.nasa.gov/image-article/childhood-telescope-launched-career-for-christina-zeringue/" >🔗</a> **[NASA]** How a Childhood Telescope Launched a NASA Career
 - <a href="https://www.nasa.gov/centers-and-facilities/kennedy/i-am-artemis-lili-villarreal/" >🔗</a> **[NASA]** I Am Artemis: Lili Villarreal
 - <a href="https://arstechnica.com/space/2025/06/an-in-space-propulsion-company-just-raised-a-staggering-amount-of-money/" >🔗</a> **[Arstechnica]** An in-space propulsion company just raised a staggering amount of money
 - <a href="https://spacenews.com/lunar-helium-3-separating-market-from-marketing/" >🔗</a> **[SpaceNews]** Lunar helium-3: separating market from marketing
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/nasas-budget-crisis-presents-an-opportunity-for-change/" >🔗</a> **[SpaceNews]** NASA’s budget crisis presents an opportunity for change
 - <a href="https://spacenews.com/maxar-inks-partnership-with-saab-for-defense-applications-of-geospatial-data/" >🔗</a> **[SpaceNews]** Maxar inks partnership with Saab for defense applications of geospatial data
 - <a href="https://europeanspaceflight.com/t-minus-to-launch-a-pair-of-barracuda-rockets-from-nova-scotia/" >🔗</a> **[European Spaceflight]** T-Minus to Launch a Pair of Barracuda Rockets from Nova Scotia
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/05/Meet_Smile" >🔗</a> **[ESA]** Meet Smile
-- <a href="https://spacenews.com/astroscale-clears-critical-design-review-for-oneweb-satellite-removal-demo/" >🔗</a> **[SpaceNews]** Astroscale clears critical design review for OneWeb satellite removal demo
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250604T140128">2025-06-04 14:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250604T143932">2025-06-04 14:39:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
