@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blog/sols-4556-4558-its-all-in-a-days-boxwork/" >🔗</a> **[NASA]** Sols 4556-4558: It’s All in a Day’s (box)Work
 - <a href="https://spaceflightnow.com/2025/06/04/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-4/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 50th Starlink mission of 2025 on Wednesday afternoon Falcon 9 flight from California
 - <a href="https://spacenews.com/impulse-space-raises-300-million-for-expansion-and-new-technology-development/" >🔗</a> **[SpaceNews]** Impulse Space raises $300 million for expansion and new technology development
 - <a href="https://www.nasa.gov/image-article/americas-first-spacewalk/" >🔗</a> **[NASA]** America’s First Spacewalk
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/nasa-kennedy-digs-latest-robot-test/" >🔗</a> **[NASA]** NASA Kennedy Digs Latest Robot Test
 - <a href="https://www.nasa.gov/general/interview-with-dave-des-marais/" >🔗</a> **[NASA]** Interview with Dave Des Marais
 - <a href="https://www.spacescout.info/2025/06/a-shaky-step-forward-for-starship-flight-9/" >🔗</a> **[Space Scout]** A Shaky Step Forward for Starship Flight 9
-- <a href="https://spacenews.com/voyager-launches-ipo-with-1-6-billion-valuation-target/" >🔗</a> **[SpaceNews]** Voyager launches IPO with $1.6 billion valuation target
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250604T012913">2025-06-04 01:29:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250604T021626">2025-06-04 02:16:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
