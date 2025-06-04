@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/t-minus-to-launch-a-pair-of-barracuda-rockets-from-nova-scotia/" >🔗</a> **[European Spaceflight]** T-Minus to Launch a Pair of Barracuda Rockets from Nova Scotia
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/05/Meet_Smile" >🔗</a> **[ESA]** Meet Smile
 - <a href="https://spacenews.com/astroscale-clears-critical-design-review-for-oneweb-satellite-removal-demo/" >🔗</a> **[SpaceNews]** Astroscale clears critical design review for OneWeb satellite removal demo
 - <a href="https://science.nasa.gov/blog/sols-4556-4558-its-all-in-a-days-boxwork/" >🔗</a> **[NASA]** Sols 4556-4558: It’s All in a Day’s (box)Work
 - <a href="https://spaceflightnow.com/2025/06/04/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-4/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 50th Starlink mission of 2025 on Wednesday afternoon Falcon 9 flight from California
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/commercial-space-companies-to-fund-launch-range-upgrades-under-4-billion-contract/" >🔗</a> **[SpaceNews]** Commercial space companies to fund launch range upgrades under $4 billion contract
 - <a href="https://www.nasa.gov/centers-and-facilities/kennedy/future-engineers-shine-at-nasas-2025-lunabotics-robotics-competition/" >🔗</a> **[NASA]** Future Engineers Shine at NASA’s 2025 Lunabotics Robotics Competition
 - <a href="https://spacenews.com/the-commercial-space-federation-announces-the-creation-of-the-space-supply-chain-council-s2c2/" >🔗</a> **[SpaceNews]** The Commercial Space Federation Announces the Creation of the Space Supply Chain Council (S2C2)
-- <a href="https://www.nasa.gov/image-article/nasa-kennedy-digs-latest-robot-test/" >🔗</a> **[NASA]** NASA Kennedy Digs Latest Robot Test
-- <a href="https://www.nasa.gov/general/interview-with-dave-des-marais/" >🔗</a> **[NASA]** Interview with Dave Des Marais
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250604T090126">2025-06-04 09:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250604T093503">2025-06-04 09:35:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
