@@ -92,6 +92,8 @@ Initial constellation will consist of 1296 satellites by 2027 with long term pla
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/inside-the-space-forces-unconstrained-first-days/" >🔗</a> **[SpaceNews]** Inside the Space Force’s unconstrained first days
+- <a href="https://spacenews.com/hydrosat-poised-to-launch-second-thermal-infrared-satellite/" >🔗</a> **[SpaceNews]** Hydrosat poised to launch second thermal-infrared satellite
 - <a href="https://spacenews.com/nasa-withdraws-support-for-conferences/" >🔗</a> **[SpaceNews]** NASA withdraws support for conferences
 - <a href="https://spacenews.com/as-foreign-nations-look-forsovereign-eyes-in-the-skyu-s-satellite-firms-focus-abroad/" >🔗</a> **[SpaceNews]** U.S. satellite firms look abroad as foreign nations seek ‘sovereign’ eyes in the sky
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Why_MTG-S1_is_a_nowcasting_game-changer" >🔗</a> **[ESA]** Why MTG-S1 is a nowcasting game-changer
@@ -100,8 +102,6 @@ Initial constellation will consist of 1296 satellites by 2027 with long term pla
 - <a href="https://science.nasa.gov/blog/sols-4559-4560-drill-campaign-searching-for-a-boxwork-bedrock-drill-site/" >🔗</a> **[NASA]** Sols 4559-4560: Drill Campaign — Searching for a Boxwork Bedrock Drill Site
 - <a href="https://spacenews.com/isaacman-people-with-axes-to-grind-about-musk-caused-withdrawn-nasa-nomination/" >🔗</a> **[SpaceNews]** Isaacman: people with ‘axes to grind’ about Musk caused withdrawn NASA nomination
 - <a href="https://arstechnica.com/space/2025/06/jared-isaacman-speaks-out-and-its-clear-that-nasa-lost-a-visionary-leader/" >🔗</a> **[Arstechnica]** Jared Isaacman speaks out, and it’s clear that NASA lost a visionary leader
-- <a href="https://www.nasa.gov/image-article/hubble-captures-cotton-candy-clouds/" >🔗</a> **[NASA]** Hubble Captures Cotton Candy Clouds
-- <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-axiom-mission-4-launch-arrival-at-station/" >🔗</a> **[NASA]** NASA Sets Coverage for Axiom Mission 4 Launch, Arrival at Station
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ Initial constellation will consist of 1296 satellites by 2027 with long term pla
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250605T131048">2025-06-05 13:10:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250605T134002">2025-06-05 13:40:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
