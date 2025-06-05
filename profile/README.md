@@ -92,16 +92,16 @@ Initial constellation will consist of 1296 satellites by 2027 with long term pla
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/trumps-push-for-procurement-reform-faces-familiar-hurdles/" >🔗</a> **[SpaceNews]** Trump’s push for procurement reform faces familiar hurdles
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/06/Earth_from_Space_Saharan_dust_plume" >🔗</a> **[ESA]** Earth from Space: Saharan dust plume
+- <a href="https://science.nasa.gov/science-research/earth-science/jack-kaye-retires-after-a-storied-career-at-nasa/" >🔗</a> **[NASA]** Jack Kaye Retires After a Storied Career at NASA
+- <a href="https://science.nasa.gov/science-research/earth-science/in-memoriam-dr-stanley-sander/" >🔗</a> **[NASA]** In Memoriam: Dr. Stanley Sander
+- <a href="https://www.esa.int/About_Us/Branding_and_Partnerships/The_Blue_Danube_Waltz_sent_into_the_stars" >🔗</a> **[ESA]** The Blue Danube Waltz sent into the stars
 - <a href="https://spacenews.com/inside-the-space-forces-unconstrained-first-days/" >🔗</a> **[SpaceNews]** Inside the Space Force’s unconstrained first days
 - <a href="https://spacenews.com/hydrosat-poised-to-launch-second-thermal-infrared-satellite/" >🔗</a> **[SpaceNews]** Hydrosat poised to launch second thermal-infrared satellite
 - <a href="https://spacenews.com/nasa-withdraws-support-for-conferences/" >🔗</a> **[SpaceNews]** NASA withdraws support for conferences
 - <a href="https://spacenews.com/as-foreign-nations-look-forsovereign-eyes-in-the-skyu-s-satellite-firms-focus-abroad/" >🔗</a> **[SpaceNews]** U.S. satellite firms look abroad as foreign nations seek ‘sovereign’ eyes in the sky
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Why_MTG-S1_is_a_nowcasting_game-changer" >🔗</a> **[ESA]** Why MTG-S1 is a nowcasting game-changer
-- <a href="https://spacenews.com/europes-far-reaching-space-act-nears-launch/" >🔗</a> **[SpaceNews]** Europe’s far-reaching Space Act nears launch
-- <a href="https://www.esa.int/Space_Safety/Planetary_Defence/ESA_s_new_asteroid_hunter_opens_its_eye_to_the_sky" >🔗</a> **[ESA]** ESA’s new asteroid hunter opens its eye to the sky
-- <a href="https://science.nasa.gov/blog/sols-4559-4560-drill-campaign-searching-for-a-boxwork-bedrock-drill-site/" >🔗</a> **[NASA]** Sols 4559-4560: Drill Campaign — Searching for a Boxwork Bedrock Drill Site
-- <a href="https://spacenews.com/isaacman-people-with-axes-to-grind-about-musk-caused-withdrawn-nasa-nomination/" >🔗</a> **[SpaceNews]** Isaacman: people with ‘axes to grind’ about Musk caused withdrawn NASA nomination
-- <a href="https://arstechnica.com/space/2025/06/jared-isaacman-speaks-out-and-its-clear-that-nasa-lost-a-visionary-leader/" >🔗</a> **[Arstechnica]** Jared Isaacman speaks out, and it’s clear that NASA lost a visionary leader
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ Initial constellation will consist of 1296 satellites by 2027 with long term pla
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250605T140126">2025-06-05 14:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250605T143603">2025-06-05 14:36:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
