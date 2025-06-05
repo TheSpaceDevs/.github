@@ -19,27 +19,29 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 11-22**. It is scheduled to be launched by *SpaceX*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250604T232800">2025-06-04 23:28:00 UTC</a>.  Until
-then, this pad will have been used for 196
-out of 810 launches from this location. The launch status is currently
+**Long March 6A | G60 Polar Group TBD**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+from *<a href="None">Launch Complex 9A</a>, Taiyuan Satellite Launch Center, People's Republic of China*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250605T203600">2025-06-05 20:36:00 UTC</a>.  Until
+then, this pad will have been used for 13
+out of 141 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
 *Communications* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+into *a Polar Orbit
+(PO)*.
 <br>
 <blockquote>
-  A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  18 Low Earth Orbit communication satellites with Ku, Q and V band payloads for the G60 constellation operated by Shanghai Spacecom Satellite Technology (SSST) with funding backed by the Shanghai local government.
+
+Initial constellation will consist of 1296 satellites by 2027 with long term plans to expand it to 12000 satellites.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+  <a href="https://en.wikipedia.org/wiki/Long_March_6" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=34.632,-120.611" >
+  <a href="https://www.google.com/maps?q=38.8583,111.5802" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -54,6 +56,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250613T014600">2025-06-13 01:46:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 15-6&location=Vandenberg SFB, CA, USA&dates=20250613T014600Z%2F20250613T061400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 15-6** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250613T182900">2025-06-13 18:29:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 551 | Project Kuiper (KA-02)&location=Cape Canaveral SFS, FL, USA&dates=20250613T182900Z%2F20250613T185900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 551 | Project Kuiper (KA-02)** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250621T000000">2025-06-21 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Transporter 14 (Dedicated SSO Rideshare)&location=Vandenberg SFB, CA, USA&dates=20250621T000000Z%2F20250621T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Transporter 14 (Dedicated SSO Rideshare)** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250623T163303">2025-06-23 16:33:03 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=H-IIA 202 | GOSAT-GW&location=Tanegashima Space Center, Japan&dates=20250623T163303Z%2F20250623T165200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **H-IIA 202 | GOSAT-GW** from Tanegashima Space Center, Japan.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -89,6 +92,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/isaacman-people-with-axes-to-grind-about-musk-caused-withdrawn-nasa-nomination/" >🔗</a> **[SpaceNews]** Isaacman: people with ‘axes to grind’ about Musk caused withdrawn NASA nomination
 - <a href="https://arstechnica.com/space/2025/06/jared-isaacman-speaks-out-and-its-clear-that-nasa-lost-a-visionary-leader/" >🔗</a> **[Arstechnica]** Jared Isaacman speaks out, and it’s clear that NASA lost a visionary leader
 - <a href="https://www.nasa.gov/image-article/hubble-captures-cotton-candy-clouds/" >🔗</a> **[NASA]** Hubble Captures Cotton Candy Clouds
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-axiom-mission-4-launch-arrival-at-station/" >🔗</a> **[NASA]** NASA Sets Coverage for Axiom Mission 4 Launch, Arrival at Station
@@ -98,17 +102,15 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/science-research/astrophysics/3-black-holes-caught-eating-massive-stars-in-nasa-data/" >🔗</a> **[NASA]** 3 Black Holes Caught Eating Massive Stars in NASA Data
 - <a href="https://www.nasa.gov/missions/roman-space-telescope/core-components-for-nasas-roman-space-telescope-pass-major-shake-test/" >🔗</a> **[NASA]** Core Components for NASA’s Roman Space Telescope Pass Major Shake Test
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Tall_ship_brings_ESA_ocean_science_training_to_Nice" >🔗</a> **[ESA]** Tall ship brings ESA ocean science training to Nice
-- <a href="https://spacenews.com/how-nasa-advisory-committees-are-navigating-a-new-political-landscape/" >🔗</a> **[SpaceNews]** How NASA advisory committees are navigating a new political landscape
 
 
 ### Launch-related News 🚀
 
-- <a href="https://www.nasaspaceflight.com/2025/06/launch-roundup-060225/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9 to launch crewed mission, Rocket Lab to launch 65th Electron
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250604T233312">2025-06-04 23:33:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250605T000510">2025-06-05 00:05:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
