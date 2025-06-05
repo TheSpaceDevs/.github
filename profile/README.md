@@ -55,8 +55,8 @@ Initial constellation will consist of 1296 satellites by 2027 with long term pla
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250610T154500">2025-06-10 15:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | The Mountain God Guards (iQPS Launch 3)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20250610T154500Z%2F20250610T163500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | The Mountain God Guards (iQPS Launch 3)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250613T014600">2025-06-13 01:46:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 15-6&location=Vandenberg SFB, CA, USA&dates=20250613T014600Z%2F20250613T061400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 15-6** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250613T074800">2025-06-13 07:48:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2D | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20250613T074800Z%2F20250613T081100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2D | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250613T114500">2025-06-13 11:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-26&location=Cape Canaveral SFS, FL, USA&dates=20250613T114500Z%2F20250613T161600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-26** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250613T182900">2025-06-13 18:29:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 551 | Project Kuiper (KA-02)&location=Cape Canaveral SFS, FL, USA&dates=20250613T182900Z%2F20250613T185900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 551 | Project Kuiper (KA-02)** from Cape Canaveral SFS, FL, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250621T000000">2025-06-21 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Transporter 14 (Dedicated SSO Rideshare)&location=Vandenberg SFB, CA, USA&dates=20250621T000000Z%2F20250621T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Transporter 14 (Dedicated SSO Rideshare)** from Vandenberg SFB, CA, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -92,6 +92,7 @@ Initial constellation will consist of 1296 satellites by 2027 with long term pla
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-withdraws-support-for-conferences/" >🔗</a> **[SpaceNews]** NASA withdraws support for conferences
 - <a href="https://spacenews.com/as-foreign-nations-look-forsovereign-eyes-in-the-skyu-s-satellite-firms-focus-abroad/" >🔗</a> **[SpaceNews]** U.S. satellite firms look abroad as foreign nations seek ‘sovereign’ eyes in the sky
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Why_MTG-S1_is_a_nowcasting_game-changer" >🔗</a> **[ESA]** Why MTG-S1 is a nowcasting game-changer
 - <a href="https://spacenews.com/europes-far-reaching-space-act-nears-launch/" >🔗</a> **[SpaceNews]** Europe’s far-reaching Space Act nears launch
@@ -101,7 +102,6 @@ Initial constellation will consist of 1296 satellites by 2027 with long term pla
 - <a href="https://arstechnica.com/space/2025/06/jared-isaacman-speaks-out-and-its-clear-that-nasa-lost-a-visionary-leader/" >🔗</a> **[Arstechnica]** Jared Isaacman speaks out, and it’s clear that NASA lost a visionary leader
 - <a href="https://www.nasa.gov/image-article/hubble-captures-cotton-candy-clouds/" >🔗</a> **[NASA]** Hubble Captures Cotton Candy Clouds
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-axiom-mission-4-launch-arrival-at-station/" >🔗</a> **[NASA]** NASA Sets Coverage for Axiom Mission 4 Launch, Arrival at Station
-- <a href="https://spacenews.com/lockheed-martin-launches-ai-fight-club-to-test-algorithms-for-warfare/" >🔗</a> **[SpaceNews]** Lockheed Martin launches ‘AI Fight Club’ to test algorithms for warfare
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ Initial constellation will consist of 1296 satellites by 2027 with long term pla
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250605T120214">2025-06-05 12:02:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250605T124333">2025-06-05 12:43:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
