@@ -92,6 +92,9 @@ Initial constellation will consist of 1296 satellites by 2027 with long term pla
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/earth/nasas-pace-mission-reveals-a-year-of-terrestrial-data-on-plant-health/" >🔗</a> **[NASA]** NASA’s PACE Mission Reveals a Year of Terrestrial Data on Plant Health
+- <a href="https://europeanspaceflight.com/esa-awards-ispace-new-contract-for-magpie-moon-mission/" >🔗</a> **[European Spaceflight]** ESA Awards ispace New Contract for MAGPIE Moon Mission
+- <a href="https://www.nasa.gov/news-release/nasa-astronaut-jeanette-epps-retires/" >🔗</a> **[NASA]** NASA Astronaut Jeanette Epps Retires
 - <a href="https://spacenews.com/trumps-push-for-procurement-reform-faces-familiar-hurdles/" >🔗</a> **[SpaceNews]** Trump’s push for procurement reform faces familiar hurdles
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/06/Earth_from_Space_Saharan_dust_plume" >🔗</a> **[ESA]** Earth from Space: Saharan dust plume
 - <a href="https://science.nasa.gov/science-research/earth-science/jack-kaye-retires-after-a-storied-career-at-nasa/" >🔗</a> **[NASA]** Jack Kaye Retires After a Storied Career at NASA
@@ -99,9 +102,6 @@ Initial constellation will consist of 1296 satellites by 2027 with long term pla
 - <a href="https://www.esa.int/About_Us/Branding_and_Partnerships/The_Blue_Danube_Waltz_sent_into_the_stars" >🔗</a> **[ESA]** The Blue Danube Waltz sent into the stars
 - <a href="https://spacenews.com/inside-the-space-forces-unconstrained-first-days/" >🔗</a> **[SpaceNews]** Inside the Space Force’s unconstrained first days
 - <a href="https://spacenews.com/hydrosat-poised-to-launch-second-thermal-infrared-satellite/" >🔗</a> **[SpaceNews]** Hydrosat poised to launch second thermal-infrared satellite
-- <a href="https://spacenews.com/nasa-withdraws-support-for-conferences/" >🔗</a> **[SpaceNews]** NASA withdraws support for conferences
-- <a href="https://spacenews.com/as-foreign-nations-look-forsovereign-eyes-in-the-skyu-s-satellite-firms-focus-abroad/" >🔗</a> **[SpaceNews]** U.S. satellite firms look abroad as foreign nations seek ‘sovereign’ eyes in the sky
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Why_MTG-S1_is_a_nowcasting_game-changer" >🔗</a> **[ESA]** Why MTG-S1 is a nowcasting game-changer
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ Initial constellation will consist of 1296 satellites by 2027 with long term pla
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250605T150136">2025-06-05 15:01:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250605T153515">2025-06-05 15:35:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
