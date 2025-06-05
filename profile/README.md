@@ -94,6 +94,7 @@ Initial constellation will consist of 1296 satellites by 2027 with long term pla
 ### Latest News ⌛
 - <a href="https://spaceflightnow.com/2025/06/05/live-coverage-ispace-makes-second-attempt-at-historic-moon-landing/" >🔗</a> **[Spaceflight Now]** Live coverage: ispace makes second attempt at historic Moon landing
 - <a href="https://www.nasa.gov/missions/ixpe/nasas-ixpe-obtains-first-x-ray-polarization-measurement-of-magnetar-outburst/" >🔗</a> **[NASA]** NASA’s IXPE Obtains First X-ray Polarization Measurement of Magnetar Outburst
+- <a href="https://www.nasaspaceflight.com/2025/06/hakuto-r-m2-landing/" >🔗</a> **[NASASpaceflight]** HAKUTO-R Mission 2 prepares to land on the Moon
 - <a href="https://www.nasa.gov/earth/nasas-pace-mission-reveals-a-year-of-terrestrial-data-on-plant-health/" >🔗</a> **[NASA]** NASA’s PACE Mission Reveals a Year of Terrestrial Data on Plant Health
 - <a href="https://europeanspaceflight.com/esa-awards-ispace-new-contract-for-magpie-moon-mission/" >🔗</a> **[European Spaceflight]** ESA Awards ispace New Contract for MAGPIE Moon Mission
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-jeanette-epps-retires/" >🔗</a> **[NASA]** NASA Astronaut Jeanette Epps Retires
@@ -101,7 +102,6 @@ Initial constellation will consist of 1296 satellites by 2027 with long term pla
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/06/Earth_from_Space_Saharan_dust_plume" >🔗</a> **[ESA]** Earth from Space: Saharan dust plume
 - <a href="https://science.nasa.gov/science-research/earth-science/jack-kaye-retires-after-a-storied-career-at-nasa/" >🔗</a> **[NASA]** Jack Kaye Retires After a Storied Career at NASA
 - <a href="https://science.nasa.gov/science-research/earth-science/in-memoriam-dr-stanley-sander/" >🔗</a> **[NASA]** In Memoriam: Dr. Stanley Sander
-- <a href="https://www.esa.int/About_Us/Branding_and_Partnerships/The_Blue_Danube_Waltz_sent_into_the_stars" >🔗</a> **[ESA]** The Blue Danube Waltz sent into the stars
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ Initial constellation will consist of 1296 satellites by 2027 with long term pla
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250605T170117">2025-06-05 17:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250605T173123">2025-06-05 17:31:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
