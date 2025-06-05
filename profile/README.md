@@ -92,6 +92,7 @@ Initial constellation will consist of 1296 satellites by 2027 with long term pla
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Space_Safety/Planetary_Defence/ESA_s_new_asteroid_hunter_opens_its_eye_to_the_sky" >🔗</a> **[ESA]** ESA’s new asteroid hunter opens its eye to the sky
 - <a href="https://science.nasa.gov/blog/sols-4559-4560-drill-campaign-searching-for-a-boxwork-bedrock-drill-site/" >🔗</a> **[NASA]** Sols 4559-4560: Drill Campaign — Searching for a Boxwork Bedrock Drill Site
 - <a href="https://spacenews.com/isaacman-people-with-axes-to-grind-about-musk-caused-withdrawn-nasa-nomination/" >🔗</a> **[SpaceNews]** Isaacman: people with ‘axes to grind’ about Musk caused withdrawn NASA nomination
 - <a href="https://arstechnica.com/space/2025/06/jared-isaacman-speaks-out-and-its-clear-that-nasa-lost-a-visionary-leader/" >🔗</a> **[Arstechnica]** Jared Isaacman speaks out, and it’s clear that NASA lost a visionary leader
@@ -101,7 +102,6 @@ Initial constellation will consist of 1296 satellites by 2027 with long term pla
 - <a href="https://www.nasa.gov/missions/station/iss-research/nasa-isro-research-aboard-fourth-private-astronaut-mission-to-station/" >🔗</a> **[NASA]** NASA, ISRO Research Aboard Fourth Private Astronaut Mission to Station
 - <a href="https://www.nasa.gov/image-article/galaxy-clusters-on-course-to-crash-again-nasas-chandra-finds/" >🔗</a> **[NASA]** Galaxy Clusters on Course to Crash Again, NASA’s Chandra Finds
 - <a href="https://science.nasa.gov/science-research/astrophysics/3-black-holes-caught-eating-massive-stars-in-nasa-data/" >🔗</a> **[NASA]** 3 Black Holes Caught Eating Massive Stars in NASA Data
-- <a href="https://www.nasa.gov/missions/roman-space-telescope/core-components-for-nasas-roman-space-telescope-pass-major-shake-test/" >🔗</a> **[NASA]** Core Components for NASA’s Roman Space Telescope Pass Major Shake Test
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ Initial constellation will consist of 1296 satellites by 2027 with long term pla
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250605T090134">2025-06-05 09:01:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250605T093454">2025-06-05 09:34:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
