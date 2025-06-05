@@ -54,9 +54,9 @@ Initial constellation will consist of 1296 satellites by 2027 with long term pla
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250610T130300">2025-06-10 13:03:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-24&location=Cape Canaveral SFS, FL, USA&dates=20250610T130300Z%2F20250610T173400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-24** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250610T154500">2025-06-10 15:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | The Mountain God Guards (iQPS Launch 3)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20250610T154500Z%2F20250610T163500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | The Mountain God Guards (iQPS Launch 3)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250613T014600">2025-06-13 01:46:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 15-6&location=Vandenberg SFB, CA, USA&dates=20250613T014600Z%2F20250613T061400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 15-6** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250613T074800">2025-06-13 07:48:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2D | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20250613T074800Z%2F20250613T081100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2D | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250613T182900">2025-06-13 18:29:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 551 | Project Kuiper (KA-02)&location=Cape Canaveral SFS, FL, USA&dates=20250613T182900Z%2F20250613T185900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 551 | Project Kuiper (KA-02)** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250621T000000">2025-06-21 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Transporter 14 (Dedicated SSO Rideshare)&location=Vandenberg SFB, CA, USA&dates=20250621T000000Z%2F20250621T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Transporter 14 (Dedicated SSO Rideshare)** from Vandenberg SFB, CA, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250623T163303">2025-06-23 16:33:03 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=H-IIA 202 | GOSAT-GW&location=Tanegashima Space Center, Japan&dates=20250623T163303Z%2F20250623T165200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **H-IIA 202 | GOSAT-GW** from Tanegashima Space Center, Japan.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -92,6 +92,7 @@ Initial constellation will consist of 1296 satellites by 2027 with long term pla
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/europes-far-reaching-space-act-nears-launch/" >🔗</a> **[SpaceNews]** Europe’s far-reaching Space Act nears launch
 - <a href="https://www.esa.int/Space_Safety/Planetary_Defence/ESA_s_new_asteroid_hunter_opens_its_eye_to_the_sky" >🔗</a> **[ESA]** ESA’s new asteroid hunter opens its eye to the sky
 - <a href="https://science.nasa.gov/blog/sols-4559-4560-drill-campaign-searching-for-a-boxwork-bedrock-drill-site/" >🔗</a> **[NASA]** Sols 4559-4560: Drill Campaign — Searching for a Boxwork Bedrock Drill Site
 - <a href="https://spacenews.com/isaacman-people-with-axes-to-grind-about-musk-caused-withdrawn-nasa-nomination/" >🔗</a> **[SpaceNews]** Isaacman: people with ‘axes to grind’ about Musk caused withdrawn NASA nomination
@@ -101,7 +102,6 @@ Initial constellation will consist of 1296 satellites by 2027 with long term pla
 - <a href="https://spacenews.com/lockheed-martin-launches-ai-fight-club-to-test-algorithms-for-warfare/" >🔗</a> **[SpaceNews]** Lockheed Martin launches ‘AI Fight Club’ to test algorithms for warfare
 - <a href="https://www.nasa.gov/missions/station/iss-research/nasa-isro-research-aboard-fourth-private-astronaut-mission-to-station/" >🔗</a> **[NASA]** NASA, ISRO Research Aboard Fourth Private Astronaut Mission to Station
 - <a href="https://www.nasa.gov/image-article/galaxy-clusters-on-course-to-crash-again-nasas-chandra-finds/" >🔗</a> **[NASA]** Galaxy Clusters on Course to Crash Again, NASA’s Chandra Finds
-- <a href="https://science.nasa.gov/science-research/astrophysics/3-black-holes-caught-eating-massive-stars-in-nasa-data/" >🔗</a> **[NASA]** 3 Black Holes Caught Eating Massive Stars in NASA Data
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ Initial constellation will consist of 1296 satellites by 2027 with long term pla
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250605T100129">2025-06-05 10:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250605T110137">2025-06-05 11:01:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
