@@ -90,6 +90,8 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/geospatial-intelligence-companies-highlight-earth-observation-images/" >🔗</a> **[SpaceNews]** Geospatial intelligence companies highlight Earth observation images
+- <a href="https://science.nasa.gov/missions/hubble/hubble-captures-starry-spectacle/" >🔗</a> **[NASA]** Hubble Captures Starry Spectacle
 - <a href="https://spacenews.com/china-launches-fourth-group-of-guowang-megaconstellation-satellites/" >🔗</a> **[SpaceNews]** China launches fourth group of Guowang megaconstellation satellites
 - <a href="https://spaceflightnow.com/2025/06/06/live-coverage-spacex-to-launch-sxm-10-satellite-for-siriusxm-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch SXM-10 satellite for SiriusXM on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spaceflightnow.com/2025/06/06/ispaces-resilience-lander-crash-lands-on-the-moon/" >🔗</a> **[Spaceflight Now]** ispace’s Resilience lander crash lands on the Moon
@@ -98,8 +100,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spacenews.com/second-ispace-lunar-lander-presumed-lost/" >🔗</a> **[SpaceNews]** Second ispace lunar lander presumed lost
 - <a href="https://arstechnica.com/space/2025/06/senate-response-to-white-house-budget-for-nasa-keep-sls-nix-science/" >🔗</a> **[Arstechnica]** Senate response to White House budget for NASA: Keep SLS, nix science
 - <a href="https://spacenews.com/cruz-seeks-10-billion-for-nasa-programs-in-budget-reconciliation-bill/" >🔗</a> **[SpaceNews]** Cruz seeks $10 billion for NASA programs in budget reconciliation bill
-- <a href="https://spacepolicyonline.com/news/musk-threatens-to-decommission-dragon-amid-feud-with-trump/" >🔗</a> **[SpacePolicyOnline.com]** Musk Threatens to Decommission Dragon Amid Feud with Trump
-- <a href="https://spacenews.com/hasc-warns-white-house-over-delayed-defense-budget-potential-cuts-to-space-force-funding/" >🔗</a> **[SpaceNews]** HASC warns White House over delayed defense budget, potential cuts to Space Force funding
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250606T110130">2025-06-06 11:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250606T113154">2025-06-06 11:31:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
