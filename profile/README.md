@@ -54,7 +54,7 @@ into *a Geostationary Transfer Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250613T074800">2025-06-13 07:48:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2D | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20250613T074800Z%2F20250613T081100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2D | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250613T114500">2025-06-13 11:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-26&location=Cape Canaveral SFS, FL, USA&dates=20250613T114500Z%2F20250613T161600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-26** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250613T182900">2025-06-13 18:29:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 551 | Project Kuiper (KA-02)&location=Cape Canaveral SFS, FL, USA&dates=20250613T182900Z%2F20250613T185900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 551 | Project Kuiper (KA-02)** from Cape Canaveral SFS, FL, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250621T000000">2025-06-21 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Transporter 14 (Dedicated SSO Rideshare)&location=Vandenberg SFB, CA, USA&dates=20250621T000000Z%2F20250621T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Transporter 14 (Dedicated SSO Rideshare)** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250617T005100">2025-06-17 00:51:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 15-9&location=Vandenberg SFB, CA, USA&dates=20250617T005100Z%2F20250617T051400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 15-9** from Vandenberg SFB, CA, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,8 +90,9 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/geospatial-intelligence-companies-highlight-earth-observation-images/" >🔗</a> **[SpaceNews]** Geospatial intelligence companies highlight Earth observation images
+- <a href="https://spacenews.com/musk-trump-dispute-includes-threats-to-spacex-contracts/" >🔗</a> **[SpaceNews]** Musk-Trump dispute includes threats to SpaceX contracts
 - <a href="https://science.nasa.gov/missions/hubble/hubble-captures-starry-spectacle/" >🔗</a> **[NASA]** Hubble Captures Starry Spectacle
+- <a href="https://spacenews.com/geospatial-intelligence-companies-highlight-earth-observation-images/" >🔗</a> **[SpaceNews]** Geospatial intelligence companies highlight Earth observation images
 - <a href="https://spacenews.com/china-launches-fourth-group-of-guowang-megaconstellation-satellites/" >🔗</a> **[SpaceNews]** China launches fourth group of Guowang megaconstellation satellites
 - <a href="https://spaceflightnow.com/2025/06/06/live-coverage-spacex-to-launch-sxm-10-satellite-for-siriusxm-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch SXM-10 satellite for SiriusXM on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spaceflightnow.com/2025/06/06/ispaces-resilience-lander-crash-lands-on-the-moon/" >🔗</a> **[Spaceflight Now]** ispace’s Resilience lander crash lands on the Moon
@@ -99,7 +100,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spacepolicyonline.com/news/senate-committee-wants-to-keep-gateway-sls-and-orion/" >🔗</a> **[SpacePolicyOnline.com]** Senate Committee Wants to Keep Gateway, SLS and Orion
 - <a href="https://spacenews.com/second-ispace-lunar-lander-presumed-lost/" >🔗</a> **[SpaceNews]** Second ispace lunar lander presumed lost
 - <a href="https://arstechnica.com/space/2025/06/senate-response-to-white-house-budget-for-nasa-keep-sls-nix-science/" >🔗</a> **[Arstechnica]** Senate response to White House budget for NASA: Keep SLS, nix science
-- <a href="https://spacenews.com/cruz-seeks-10-billion-for-nasa-programs-in-budget-reconciliation-bill/" >🔗</a> **[SpaceNews]** Cruz seeks $10 billion for NASA programs in budget reconciliation bill
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250606T113154">2025-06-06 11:31:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250606T120212">2025-06-06 12:02:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
