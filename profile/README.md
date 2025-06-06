@@ -90,6 +90,8 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_02-06_June_2025" >🔗</a> **[ESA]** Week in images: 02-06 June 2025
+- <a href="https://spacenews.com/the-new-attack-surface-from-space-to-smartphone/" >🔗</a> **[SpaceNews]** The new attack surface: from space to smartphone
 - <a href="https://europeanspaceflight.com/first-themis-test-flight-likely-to-slip-to-2026/" >🔗</a> **[European Spaceflight]** First Themis Test Flight Likely to Slip to 2026
 - <a href="https://spacenews.com/musk-trump-dispute-includes-threats-to-spacex-contracts/" >🔗</a> **[SpaceNews]** Musk-Trump dispute includes threats to SpaceX contracts
 - <a href="https://spacenews.com/geospatial-intelligence-companies-highlight-earth-observation-images/" >🔗</a> **[SpaceNews]** Geospatial intelligence companies highlight Earth observation images
@@ -98,8 +100,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spaceflightnow.com/2025/06/06/live-coverage-spacex-to-launch-sxm-10-satellite-for-siriusxm-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch SXM-10 satellite for SiriusXM on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spaceflightnow.com/2025/06/06/ispaces-resilience-lander-crash-lands-on-the-moon/" >🔗</a> **[Spaceflight Now]** ispace’s Resilience lander crash lands on the Moon
 - <a href="https://spacepolicyonline.com/news/a-second-lunar-landing-failure-for-ispace/" >🔗</a> **[SpacePolicyOnline.com]** A Second Lunar Landing Failure for ispace
-- <a href="https://spacepolicyonline.com/news/senate-committee-wants-to-keep-gateway-sls-and-orion/" >🔗</a> **[SpacePolicyOnline.com]** Senate Committee Wants to Keep Gateway, SLS and Orion
-- <a href="https://spacenews.com/second-ispace-lunar-lander-presumed-lost/" >🔗</a> **[SpaceNews]** Second ispace lunar lander presumed lost
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250606T130944">2025-06-06 13:09:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250606T133914">2025-06-06 13:39:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
