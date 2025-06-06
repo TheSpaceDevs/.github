@@ -90,6 +90,8 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blog/searching-for-ancient-rocks-in-the-forlandet-flats/" >🔗</a> **[NASA]** Searching for Ancient Rocks in the ‘Forlandet’ Flats
+- <a href="https://spacenews.com/nasas-escapade-could-launch-on-second-new-glenn/" >🔗</a> **[SpaceNews]** NASA’s ESCAPADE could launch on second New Glenn
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/dr-natasha-schatzman-receives-vertical-flight-society-vfs-award/" >🔗</a> **[NASA]** Dr. Natasha Schatzman Receives Vertical Flight Society (VFS) Award
 - <a href="https://tlpnetwork.com/news/america/lc-39a-starship-tower-eliminated-multiple-starship-pads-coming-to-cape-canaveral-slc-37" >🔗</a> **[The Launch Pad]** LC-39A Starship Tower "Eliminated"; Multiple Starship Pads Coming To Cape Canaveral SLC-37
 - <a href="https://www.nasa.gov/image-article/webb-sees-sombrero-galaxy-in-near-infrared/" >🔗</a> **[NASA]** Webb Sees Sombrero Galaxy in Near-Infrared
@@ -98,8 +100,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.nasa.gov/missions/station/iss-research/nasa-provides-hardware-for-space-station-dna-repair-experiment/" >🔗</a> **[NASA]** NASA Provides Hardware for Space Station DNA Repair Experiment
 - <a href="https://spacenews.com/africas-new-space-agency-presents-a-unified-space-front/" >🔗</a> **[SpaceNews]** Africa’s new space agency presents a unified space front
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_02-06_June_2025" >🔗</a> **[ESA]** Week in images: 02-06 June 2025
-- <a href="https://spacenews.com/the-new-attack-surface-from-space-to-smartphone/" >🔗</a> **[SpaceNews]** The new attack surface: from space to smartphone
-- <a href="https://europeanspaceflight.com/first-themis-test-flight-likely-to-slip-to-2026/" >🔗</a> **[European Spaceflight]** First Themis Test Flight Likely to Slip to 2026
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250606T220124">2025-06-06 22:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250606T223524">2025-06-06 22:35:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
