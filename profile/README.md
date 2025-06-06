@@ -90,6 +90,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/a-second-lunar-landing-failure-for-ispace/" >🔗</a> **[SpacePolicyOnline.com]** A Second Lunar Landing Failure for ispace
 - <a href="https://spacepolicyonline.com/news/senate-committee-wants-to-keep-gateway-sls-and-orion/" >🔗</a> **[SpacePolicyOnline.com]** Senate Committee Wants to Keep Gateway, SLS and Orion
 - <a href="https://spacenews.com/second-ispace-lunar-lander-presumed-lost/" >🔗</a> **[SpaceNews]** Second ispace lunar lander presumed lost
 - <a href="https://arstechnica.com/space/2025/06/senate-response-to-white-house-budget-for-nasa-keep-sls-nix-science/" >🔗</a> **[Arstechnica]** Senate response to White House budget for NASA: Keep SLS, nix science
@@ -99,7 +100,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spacenews.com/senators-unveil-bipartisan-bill-to-boost-space-cooperation-with-indo-pacific-allies/" >🔗</a> **[SpaceNews]** Senators unveil bipartisan bill to boost space cooperation with Indo-Pacific allies
 - <a href="https://www.nasa.gov/news-release/nasa-awards-third-crowdsourcing-contract-iteration/" >🔗</a> **[NASA]** NASA Awards Third Crowdsourcing Contract Iteration
 - <a href="https://arstechnica.com/space/2025/06/here-are-the-ways-the-us-space-program-dies-if-trump-cancels-spacex-contracts/" >🔗</a> **[Arstechnica]** Here are the ways the US space program dies if Trump cancels SpaceX contracts
-- <a href="https://www.nasa.gov/directorates/esdmd/auburn-team-wins-2025-nasa-moon-and-mars-design-competition/" >🔗</a> **[NASA]** Auburn Team Wins 2025 NASA Moon and Mars Design Competition
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250606T034749">2025-06-06 03:47:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250606T040501">2025-06-06 04:05:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
