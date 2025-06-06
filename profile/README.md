@@ -90,6 +90,8 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/06/06/live-coverage-spacex-to-launch-sxm-10-satellite-for-siriusxm-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch SXM-10 satellite for SiriusXM on Falcon 9 rocket from Cape Canaveral
+- <a href="https://spaceflightnow.com/2025/06/06/ispaces-resilience-lander-crash-lands-on-the-moon/" >🔗</a> **[Spaceflight Now]** ispace’s Resilience lander crash lands on the Moon
 - <a href="https://spacepolicyonline.com/news/a-second-lunar-landing-failure-for-ispace/" >🔗</a> **[SpacePolicyOnline.com]** A Second Lunar Landing Failure for ispace
 - <a href="https://spacepolicyonline.com/news/senate-committee-wants-to-keep-gateway-sls-and-orion/" >🔗</a> **[SpacePolicyOnline.com]** Senate Committee Wants to Keep Gateway, SLS and Orion
 - <a href="https://spacenews.com/second-ispace-lunar-lander-presumed-lost/" >🔗</a> **[SpaceNews]** Second ispace lunar lander presumed lost
@@ -98,8 +100,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spacepolicyonline.com/news/musk-threatens-to-decommission-dragon-amid-feud-with-trump/" >🔗</a> **[SpacePolicyOnline.com]** Musk Threatens to Decommission Dragon Amid Feud with Trump
 - <a href="https://spacenews.com/hasc-warns-white-house-over-delayed-defense-budget-potential-cuts-to-space-force-funding/" >🔗</a> **[SpaceNews]** HASC warns White House over delayed defense budget, potential cuts to Space Force funding
 - <a href="https://spacenews.com/senators-unveil-bipartisan-bill-to-boost-space-cooperation-with-indo-pacific-allies/" >🔗</a> **[SpaceNews]** Senators unveil bipartisan bill to boost space cooperation with Indo-Pacific allies
-- <a href="https://www.nasa.gov/news-release/nasa-awards-third-crowdsourcing-contract-iteration/" >🔗</a> **[NASA]** NASA Awards Third Crowdsourcing Contract Iteration
-- <a href="https://arstechnica.com/space/2025/06/here-are-the-ways-the-us-space-program-dies-if-trump-cancels-spacex-contracts/" >🔗</a> **[Arstechnica]** Here are the ways the US space program dies if Trump cancels SpaceX contracts
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250606T050132">2025-06-06 05:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250606T053606">2025-06-06 05:36:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
