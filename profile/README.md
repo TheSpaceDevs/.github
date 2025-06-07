@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/06/07/live-coverage-spacex-to-launch-26-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 26 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://spaceflightnow.com/2025/06/07/further-delays-of-starliners-next-flight-mark-anniversary-of-its-first-crewed-space-station-docking/" >🔗</a> **[Spaceflight Now]** Further delays of Starliner’s next flight mark anniversary of its first crewed Space Station docking
 - <a href="https://science.nasa.gov/blog/sols-4561-4562-prepping-to-drill-at-altadena/" >🔗</a> **[NASA]** Sols 4561-4562: Prepping to Drill at Altadena
 - <a href="https://science.nasa.gov/blog/searching-for-ancient-rocks-in-the-forlandet-flats/" >🔗</a> **[NASA]** Searching for Ancient Rocks in the ‘Forlandet’ Flats
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/webb-sees-sombrero-galaxy-in-near-infrared/" >🔗</a> **[NASA]** Webb Sees Sombrero Galaxy in Near-Infrared
 - <a href="https://www.nasa.gov/missions/odyssey/nasa-mars-orbiter-captures-volcano-peeking-above-morning-cloud-tops/" >🔗</a> **[NASA]** NASA Mars Orbiter Captures Volcano Peeking Above Morning Cloud Tops
 - <a href="https://www.nasa.gov/science-research/earth-science/nasas-ready-to-use-dataset-details-land-motion-across-north-america/" >🔗</a> **[NASA]** NASA’s Ready-to-Use Dataset Details Land Motion Across North America
-- <a href="https://www.nasa.gov/missions/station/iss-research/nasa-provides-hardware-for-space-station-dna-repair-experiment/" >🔗</a> **[NASA]** NASA Provides Hardware for Space Station DNA Repair Experiment
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250607T070120">2025-06-07 07:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250607T073120">2025-06-07 07:31:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
