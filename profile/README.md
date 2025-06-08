@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/starliner-future-plans-still-in-limbo/" >🔗</a> **[SpaceNews]** Starliner future plans still in limbo
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-june-8-14-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy June 8-14, 2025
 - <a href="https://www.nasaspaceflight.com/2025/06/booster-14-reflies-next-primary-objectives/" >🔗</a> **[NASASpaceflight]** Booster 14 Reflies, SpaceX already preparing next vehicle for Primary Objectives
 - <a href="https://spaceflightnow.com/2025/06/07/live-coverage-spacex-to-launch-26-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 26 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://spaceflightnow.com/2025/06/07/further-delays-of-starliners-next-flight-mark-anniversary-of-its-first-crewed-space-station-docking/" >🔗</a> **[Spaceflight Now]** Further delays of Starliner’s next flight mark anniversary of its first crewed Space Station docking
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/nasas-escapade-could-launch-on-second-new-glenn/" >🔗</a> **[SpaceNews]** NASA’s ESCAPADE could launch on second New Glenn
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/dr-natasha-schatzman-receives-vertical-flight-society-vfs-award/" >🔗</a> **[NASA]** Dr. Natasha Schatzman Receives Vertical Flight Society (VFS) Award
 - <a href="https://tlpnetwork.com/news/america/lc-39a-starship-tower-eliminated-multiple-starship-pads-coming-to-cape-canaveral-slc-37" >🔗</a> **[The Launch Pad]** LC-39A Starship Tower "Eliminated"; Multiple Starship Pads Coming To Cape Canaveral SLC-37
-- <a href="https://www.nasa.gov/image-article/webb-sees-sombrero-galaxy-in-near-infrared/" >🔗</a> **[NASA]** Webb Sees Sombrero Galaxy in Near-Infrared
-- <a href="https://www.nasa.gov/missions/odyssey/nasa-mars-orbiter-captures-volcano-peeking-above-morning-cloud-tops/" >🔗</a> **[NASA]** NASA Mars Orbiter Captures Volcano Peeking Above Morning Cloud Tops
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250608T220117">2025-06-08 22:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250608T223434">2025-06-08 22:34:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
