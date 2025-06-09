@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/06/a-long-shot-plan-to-mine-the-moon-comes-a-little-closer-to-reality/" >🔗</a> **[Arstechnica]** A long-shot plan to mine the Moon comes a little closer to reality
+- <a href="https://spacenews.com/is-chinas-beidou-a-weapon-of-war/" >🔗</a> **[SpaceNews]** Is China’s BeiDou a weapon of war?
 - <a href="https://spacenews.com/arkadia-space-tests-its-first-hydrogen-peroxide-thruster-in-orbit/" >🔗</a> **[SpaceNews]** Arkadia Space tests its first hydrogen peroxide thruster in orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/06/Ignis_mission_Ready_for_Lift-Off" >🔗</a> **[ESA]** Ignis mission: Ready for Lift-Off
 - <a href="https://spacenews.com/starliner-future-plans-still-in-limbo/" >🔗</a> **[SpaceNews]** Starliner future plans still in limbo
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/06/07/live-coverage-spacex-to-launch-26-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 26 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://spaceflightnow.com/2025/06/07/further-delays-of-starliners-next-flight-mark-anniversary-of-its-first-crewed-space-station-docking/" >🔗</a> **[Spaceflight Now]** Further delays of Starliner’s next flight mark anniversary of its first crewed Space Station docking
 - <a href="https://science.nasa.gov/blog/sols-4561-4562-prepping-to-drill-at-altadena/" >🔗</a> **[NASA]** Sols 4561-4562: Prepping to Drill at Altadena
-- <a href="https://science.nasa.gov/blog/searching-for-ancient-rocks-in-the-forlandet-flats/" >🔗</a> **[NASA]** Searching for Ancient Rocks in the ‘Forlandet’ Flats
-- <a href="https://spacenews.com/nasas-escapade-could-launch-on-second-new-glenn/" >🔗</a> **[SpaceNews]** NASA’s ESCAPADE could launch on second New Glenn
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250609T131100">2025-06-09 13:11:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250609T133957">2025-06-09 13:39:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
