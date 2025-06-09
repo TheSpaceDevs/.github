@@ -19,34 +19,34 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Axiom Space Mission 4**. It is scheduled to be launched by *SpaceX*
+**Falcon 9 Block 5 | Starlink Group 12-24**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39A">Launch Complex 39A</a>, Kennedy Space Center, FL, USA*
+from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral SFS, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250610T122253">2025-06-10 12:22:53 UTC</a>.  Until
-then, this pad will have been used for 208
-out of 266 launches from this location. The launch status is currently
-*Go* 🟩 . The mission type is
-*Tourism* and the payload will be injected
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250610T130300">2025-06-10 13:03:00 UTC</a>.  Until
+then, this pad will have been used for 312
+out of 1028 launches from this location. The launch status is currently
+*TBC* 🟨 . The mission type is
+*Communications* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  This is a Crew Dragon flight for a private company Axiom Space. The mission will carry a professionally trained commander alongside three private astronauts to and from the International Space Station. This crew will stay aboard space station for  at least eight days.
+  A batch of satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
   <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.60822681,-80.60428186" >
+  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250610T122253">2025-06-10 12:22:53 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Axiom Space Mission 4&location=Kennedy Space Center, FL, USA&dates=20250610T122253Z%2F20250610T122253Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Axiom Space Mission 4** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250610T130300">2025-06-10 13:03:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-24&location=Cape Canaveral SFS, FL, USA&dates=20250610T130300Z%2F20250610T170300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-24** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250611T120000">2025-06-11 12:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Axiom Space Mission 4&location=Kennedy Space Center, FL, USA&dates=20250611T120000Z%2F20250611T120000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Axiom Space Mission 4** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250611T151500">2025-06-11 15:15:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | The Mountain God Guards (iQPS Launch 3)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20250611T151500Z%2F20250611T160500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | The Mountain God Guards (iQPS Launch 3)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250613T014600">2025-06-13 01:46:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 15-6&location=Vandenberg SFB, CA, USA&dates=20250613T014600Z%2F20250613T061400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 15-6** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250613T074800">2025-06-13 07:48:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2D | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20250613T074800Z%2F20250613T081100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2D | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/comet-catching-nasa-technology-enables-exotic-works-of-art/" >🔗</a> **[NASA]** Comet-Catching NASA Technology Enables Exotic Works of Art
+- <a href="https://www.nasa.gov/people-of-nasa/paul-morris-filming-the-final-frontier/" >🔗</a> **[NASA]** Paul Morris: Filming the Final Frontier
 - <a href="https://spacenews.com/a-reinvigorated-push-for-nuclear-power-in-space/" >🔗</a> **[SpaceNews]** A reinvigorated push for nuclear power in space
 - <a href="https://arstechnica.com/space/2025/06/a-long-shot-plan-to-mine-the-moon-comes-a-little-closer-to-reality/" >🔗</a> **[Arstechnica]** A long-shot plan to mine the Moon comes a little closer to reality
 - <a href="https://spacenews.com/is-chinas-beidou-a-weapon-of-war/" >🔗</a> **[SpaceNews]** Is China’s BeiDou a weapon of war?
@@ -98,27 +100,15 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/starliner-future-plans-still-in-limbo/" >🔗</a> **[SpaceNews]** Starliner future plans still in limbo
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-june-8-14-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy June 8-14, 2025
 - <a href="https://www.nasaspaceflight.com/2025/06/booster-14-reflies-next-primary-objectives/" >🔗</a> **[NASASpaceflight]** Booster 14 Reflies, SpaceX already preparing next vehicle for Primary Objectives
-- <a href="https://spaceflightnow.com/2025/06/07/live-coverage-spacex-to-launch-26-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 26 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
-- <a href="https://spaceflightnow.com/2025/06/07/further-delays-of-starliners-next-flight-mark-anniversary-of-its-first-crewed-space-station-docking/" >🔗</a> **[Spaceflight Now]** Further delays of Starliner’s next flight mark anniversary of its first crewed Space Station docking
 
 
 ### Launch-related News 🚀
 
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/06/Ignis_mission_Ready_for_Lift-Off" >🔗</a> **[ESA]** Ignis mission: Ready for Lift-Off
-- <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-axiom-mission-4-launch-arrival-at-station/" >🔗</a> **[NASA]** NASA Sets Coverage for Axiom Mission 4 Launch, Arrival at Station
-- <a href="https://www.nasa.gov/missions/station/iss-research/nasa-isro-research-aboard-fourth-private-astronaut-mission-to-station/" >🔗</a> **[NASA]** NASA, ISRO Research Aboard Fourth Private Astronaut Mission to Station
-- <a href="https://www.nasaspaceflight.com/2025/06/launch-roundup-060225/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9 to launch crewed mission, Rocket Lab to launch 65th Electron
-- <a href="https://spaceflightnow.com/2025/05/14/axiom-mission-4-delayed-due-to-dragon-capsule-readiness/" >🔗</a> **[Spaceflight Now]** Axiom Mission 4 delayed due to Dragon capsule readiness
-- <a href="https://www.nasa.gov/news-release/nasa-to-participate-in-next-private-astronaut-mission-teleconference/" >🔗</a> **[NASA]** NASA to Participate in Next Private Astronaut Mission Teleconference
-- <a href="https://spaceflightnow.com/2025/02/12/nasa-announces-new-launch-date-for-crew-10-swap-of-spacex-dragon-spacecraft-following-construction-delays/" >🔗</a> **[Spaceflight Now]** NASA announces new launch date for Crew-10, swap of SpaceX Dragon spacecraft following construction delays
-- <a href="https://spacepolicyonline.com/news/nasa-switches-crew-dragons-allowing-butch-and-suni-to-come-home-a-couple-weeks-sooner/" >🔗</a> **[SpacePolicyOnline.com]** NASA Switches Crew Dragons Allowing Butch and Suni to Come Home a Couple Weeks Sooner
-- <a href="https://spacenews.com/nasa-and-spacex-to-swap-crew-dragon-spacecraft-to-reduce-crew-10-delay/" >🔗</a> **[SpaceNews]** NASA and SpaceX to swap Crew Dragon spacecraft to reduce Crew-10 delay
-- <a href="https://www.nasa.gov/news-release/nasa-partners-to-welcome-fourth-axiom-space-mission-to-space-station/" >🔗</a> **[NASA]** NASA, Partners to Welcome Fourth Axiom Space Mission to Space Station
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250609T150136">2025-06-09 15:01:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250609T153514">2025-06-09 15:35:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
