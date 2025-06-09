@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/central-brazil-cerrado/" >🔗</a> **[NASA]** Central Brazil Cerrado
 - <a href="https://spacenews.com/house-appropriators-unveil-defense-bill-boost-space-force-funding/" >🔗</a> **[SpaceNews]** House appropriators unveil defense bill, boost Space Force funding
 - <a href="https://science.nasa.gov/science-research/earth-science/nasas-tropics-mission-offering-detailed-images-and-analysis-of-tropical-cyclones/" >🔗</a> **[NASA]** NASA’s TROPICS Mission: Offering Detailed Images and Analysis of Tropical Cyclones
 - <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/comet-catching-nasa-technology-enables-exotic-works-of-art/" >🔗</a> **[NASA]** Comet-Catching NASA Technology Enables Exotic Works of Art
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/is-chinas-beidou-a-weapon-of-war/" >🔗</a> **[SpaceNews]** Is China’s BeiDou a weapon of war?
 - <a href="https://spacenews.com/arkadia-space-tests-its-first-hydrogen-peroxide-thruster-in-orbit/" >🔗</a> **[SpaceNews]** Arkadia Space tests its first hydrogen peroxide thruster in orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/06/Ignis_mission_Ready_for_Lift-Off" >🔗</a> **[ESA]** Ignis mission: Ready for Lift-Off
-- <a href="https://spacenews.com/starliner-future-plans-still-in-limbo/" >🔗</a> **[SpaceNews]** Starliner future plans still in limbo
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250609T180140">2025-06-09 18:01:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250609T183859">2025-06-09 18:38:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
