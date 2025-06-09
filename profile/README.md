@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/olm-plans-to-offer-commercial-launch-services-from-sardinia/" >🔗</a> **[European Spaceflight]** OLM Plans to Offer Commercial Launch Services from Sardinia
 - <a href="https://spaceflightnow.com/2025/06/09/live-coverage-spacex-to-launch-fourth-commercial-axiom-mission-to-the-space-station/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch fourth commercial Axiom mission  to the space station
 - <a href="https://www.nasa.gov/image-article/nasas-chandra-sees-surprisingly-strong-black-hole-jet-at-cosmic-noon/" >🔗</a> **[NASA]** NASA’s Chandra Sees Surprisingly Strong Black Hole Jet at Cosmic “Noon”
 - <a href="https://arstechnica.com/space/2025/06/second-new-glenn-launch-slips-toward-fall-as-program-leadership-departs/" >🔗</a> **[Arstechnica]** Second New Glenn launch slips toward fall as program leadership departs
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/science-research/earth-science/nasas-tropics-mission-offering-detailed-images-and-analysis-of-tropical-cyclones/" >🔗</a> **[NASA]** NASA’s TROPICS Mission: Offering Detailed Images and Analysis of Tropical Cyclones
 - <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/comet-catching-nasa-technology-enables-exotic-works-of-art/" >🔗</a> **[NASA]** Comet-Catching NASA Technology Enables Exotic Works of Art
 - <a href="https://www.nasa.gov/people-of-nasa/paul-morris-filming-the-final-frontier/" >🔗</a> **[NASA]** Paul Morris: Filming the Final Frontier
-- <a href="https://spacenews.com/a-reinvigorated-push-for-nuclear-power-in-space/" >🔗</a> **[SpaceNews]** A reinvigorated push for nuclear power in space
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250609T210128">2025-06-09 21:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250609T213343">2025-06-09 21:33:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
