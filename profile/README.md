@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/06/Ignis_mission_Ready_for_Lift-Off" >🔗</a> **[ESA]** Ignis mission: Ready for Lift-Off
 - <a href="https://spacenews.com/starliner-future-plans-still-in-limbo/" >🔗</a> **[SpaceNews]** Starliner future plans still in limbo
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-june-8-14-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy June 8-14, 2025
 - <a href="https://www.nasaspaceflight.com/2025/06/booster-14-reflies-next-primary-objectives/" >🔗</a> **[NASASpaceflight]** Booster 14 Reflies, SpaceX already preparing next vehicle for Primary Objectives
@@ -99,11 +100,11 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/blog/searching-for-ancient-rocks-in-the-forlandet-flats/" >🔗</a> **[NASA]** Searching for Ancient Rocks in the ‘Forlandet’ Flats
 - <a href="https://spacenews.com/nasas-escapade-could-launch-on-second-new-glenn/" >🔗</a> **[SpaceNews]** NASA’s ESCAPADE could launch on second New Glenn
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/dr-natasha-schatzman-receives-vertical-flight-society-vfs-award/" >🔗</a> **[NASA]** Dr. Natasha Schatzman Receives Vertical Flight Society (VFS) Award
-- <a href="https://tlpnetwork.com/news/america/lc-39a-starship-tower-eliminated-multiple-starship-pads-coming-to-cape-canaveral-slc-37" >🔗</a> **[The Launch Pad]** LC-39A Starship Tower "Eliminated"; Multiple Starship Pads Coming To Cape Canaveral SLC-37
 
 
 ### Launch-related News 🚀
 
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/06/Ignis_mission_Ready_for_Lift-Off" >🔗</a> **[ESA]** Ignis mission: Ready for Lift-Off
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-axiom-mission-4-launch-arrival-at-station/" >🔗</a> **[NASA]** NASA Sets Coverage for Axiom Mission 4 Launch, Arrival at Station
 - <a href="https://www.nasa.gov/missions/station/iss-research/nasa-isro-research-aboard-fourth-private-astronaut-mission-to-station/" >🔗</a> **[NASA]** NASA, ISRO Research Aboard Fourth Private Astronaut Mission to Station
 - <a href="https://www.nasaspaceflight.com/2025/06/launch-roundup-060225/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9 to launch crewed mission, Rocket Lab to launch 65th Electron
@@ -113,12 +114,11 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/nasa-switches-crew-dragons-allowing-butch-and-suni-to-come-home-a-couple-weeks-sooner/" >🔗</a> **[SpacePolicyOnline.com]** NASA Switches Crew Dragons Allowing Butch and Suni to Come Home a Couple Weeks Sooner
 - <a href="https://spacenews.com/nasa-and-spacex-to-swap-crew-dragon-spacecraft-to-reduce-crew-10-delay/" >🔗</a> **[SpaceNews]** NASA and SpaceX to swap Crew Dragon spacecraft to reduce Crew-10 delay
 - <a href="https://www.nasa.gov/news-release/nasa-partners-to-welcome-fourth-axiom-space-mission-to-space-station/" >🔗</a> **[NASA]** NASA, Partners to Welcome Fourth Axiom Space Mission to Space Station
-- <a href="https://tlpnetwork.com/news/america/hungary-poland-and-india-astronauts-join-axiom-space-next-private-mission-to-iss" >🔗</a> **[The Launch Pad]** Hungary, Poland, and India Astronauts Join Axiom Space's Next Private Mission to ISS
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250609T110127">2025-06-09 11:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250609T113214">2025-06-09 11:32:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
