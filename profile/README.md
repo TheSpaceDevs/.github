@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/a-reinvigorated-push-for-nuclear-power-in-space/" >🔗</a> **[SpaceNews]** A reinvigorated push for nuclear power in space
 - <a href="https://arstechnica.com/space/2025/06/a-long-shot-plan-to-mine-the-moon-comes-a-little-closer-to-reality/" >🔗</a> **[Arstechnica]** A long-shot plan to mine the Moon comes a little closer to reality
 - <a href="https://spacenews.com/is-chinas-beidou-a-weapon-of-war/" >🔗</a> **[SpaceNews]** Is China’s BeiDou a weapon of war?
 - <a href="https://spacenews.com/arkadia-space-tests-its-first-hydrogen-peroxide-thruster-in-orbit/" >🔗</a> **[SpaceNews]** Arkadia Space tests its first hydrogen peroxide thruster in orbit
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2025/06/booster-14-reflies-next-primary-objectives/" >🔗</a> **[NASASpaceflight]** Booster 14 Reflies, SpaceX already preparing next vehicle for Primary Objectives
 - <a href="https://spaceflightnow.com/2025/06/07/live-coverage-spacex-to-launch-26-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 26 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://spaceflightnow.com/2025/06/07/further-delays-of-starliners-next-flight-mark-anniversary-of-its-first-crewed-space-station-docking/" >🔗</a> **[Spaceflight Now]** Further delays of Starliner’s next flight mark anniversary of its first crewed Space Station docking
-- <a href="https://science.nasa.gov/blog/sols-4561-4562-prepping-to-drill-at-altadena/" >🔗</a> **[NASA]** Sols 4561-4562: Prepping to Drill at Altadena
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250609T140139">2025-06-09 14:01:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250609T143625">2025-06-09 14:36:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
