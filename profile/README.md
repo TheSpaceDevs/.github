@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/arkadia-space-tests-its-first-hydrogen-peroxide-thruster-in-orbit/" >🔗</a> **[SpaceNews]** Arkadia Space tests its first hydrogen peroxide thruster in orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/06/Ignis_mission_Ready_for_Lift-Off" >🔗</a> **[ESA]** Ignis mission: Ready for Lift-Off
 - <a href="https://spacenews.com/starliner-future-plans-still-in-limbo/" >🔗</a> **[SpaceNews]** Starliner future plans still in limbo
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-june-8-14-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy June 8-14, 2025
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/blog/sols-4561-4562-prepping-to-drill-at-altadena/" >🔗</a> **[NASA]** Sols 4561-4562: Prepping to Drill at Altadena
 - <a href="https://science.nasa.gov/blog/searching-for-ancient-rocks-in-the-forlandet-flats/" >🔗</a> **[NASA]** Searching for Ancient Rocks in the ‘Forlandet’ Flats
 - <a href="https://spacenews.com/nasas-escapade-could-launch-on-second-new-glenn/" >🔗</a> **[SpaceNews]** NASA’s ESCAPADE could launch on second New Glenn
-- <a href="https://www.nasa.gov/centers-and-facilities/ames/dr-natasha-schatzman-receives-vertical-flight-society-vfs-award/" >🔗</a> **[NASA]** Dr. Natasha Schatzman Receives Vertical Flight Society (VFS) Award
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250609T113214">2025-06-09 11:32:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250609T120224">2025-06-09 12:02:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
