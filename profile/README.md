@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/laser-focused-keith-barr-leads-orions-lunar-docking-efforts/" >🔗</a> **[NASA]** Laser Focused: Keith Barr Leads Orion’s Lunar Docking Efforts
 - <a href="https://spacenews.com/quebec-backs-canadian-launch-startup-reaction-dynamics/" >🔗</a> **[SpaceNews]** Quebec backs Canadian launch startup Reaction Dynamics
 - <a href="https://spacenews.com/us-rural-broadband-shift-opens-door-wider-for-starlink/" >🔗</a> **[SpaceNews]** US rural broadband shift opens door wider for Starlink
 - <a href="https://europeanspaceflight.com/olm-plans-to-offer-commercial-launch-services-from-sardinia/" >🔗</a> **[European Spaceflight]** OLM Plans to Offer Commercial Launch Services from Sardinia
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2025/06/ax-4-launch/" >🔗</a> **[NASASpaceflight]** Axiom-4 crew ready for science, flight aboard new Dragon capsule to ISS
 - <a href="https://www.nasa.gov/image-article/central-brazil-cerrado/" >🔗</a> **[NASA]** Central Brazil Cerrado
 - <a href="https://spacenews.com/house-appropriators-unveil-defense-bill-boost-space-force-funding/" >🔗</a> **[SpaceNews]** House appropriators unveil defense bill, boost Space Force funding
-- <a href="https://science.nasa.gov/science-research/earth-science/nasas-tropics-mission-offering-detailed-images-and-analysis-of-tropical-cyclones/" >🔗</a> **[NASA]** NASA’s TROPICS Mission: Offering Detailed Images and Analysis of Tropical Cyclones
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250610T100130">2025-06-10 10:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250610T103715">2025-06-10 10:37:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
