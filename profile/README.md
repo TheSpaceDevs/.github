@@ -45,7 +45,6 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250610T130540">2025-06-10 13:05:40 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-24&location=Cape Canaveral SFS, FL, USA&dates=20250610T130540Z%2F20250610T170259Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-24** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250611T120000">2025-06-11 12:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Axiom Space Mission 4&location=Kennedy Space Center, FL, USA&dates=20250611T120000Z%2F20250611T120000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Axiom Space Mission 4** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250611T151500">2025-06-11 15:15:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | The Mountain God Guards (iQPS Launch 3)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20250611T151500Z%2F20250611T160500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | The Mountain God Guards (iQPS Launch 3)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250613T014600">2025-06-13 01:46:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 15-6&location=Vandenberg SFB, CA, USA&dates=20250613T014600Z%2F20250613T061400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 15-6** from Vandenberg SFB, CA, USA.
@@ -108,7 +107,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250610T124323">2025-06-10 12:43:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250610T131119">2025-06-10 13:11:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
