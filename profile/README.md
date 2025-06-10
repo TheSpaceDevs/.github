@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/chinese-spacecraft-prepare-for-orbital-refueling-test-as-us-surveillance-sats-lurk-nearby/" >🔗</a> **[SpaceNews]** Chinese spacecraft prepare for orbital refueling test as US surveillance sats lurk nearby
+- <a href="https://spacenews.com/xplore-reveals-hyperspectral-imagery-from-first-satellite/" >🔗</a> **[SpaceNews]** Xplore reveals hyperspectral imagery from first satellite
+- <a href="https://spaceflightnow.com/2025/06/10/live-coverage-spacex-to-launch-23-starlink-satellites-on-a-falcon-9-rocket-from-cape-canaveral-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 23 Starlink satellites on a Falcon 9 rocket from Cape Canaveral
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/laser-focused-keith-barr-leads-orions-lunar-docking-efforts/" >🔗</a> **[NASA]** Laser Focused: Keith Barr Leads Orion’s Lunar Docking Efforts
 - <a href="https://spacenews.com/quebec-backs-canadian-launch-startup-reaction-dynamics/" >🔗</a> **[SpaceNews]** Quebec backs Canadian launch startup Reaction Dynamics
 - <a href="https://spacenews.com/us-rural-broadband-shift-opens-door-wider-for-starlink/" >🔗</a> **[SpaceNews]** US rural broadband shift opens door wider for Starlink
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/06/09/live-coverage-spacex-to-launch-fourth-commercial-axiom-mission-to-the-space-station/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch fourth commercial Axiom mission  to the space station
 - <a href="https://www.nasa.gov/image-article/nasas-chandra-sees-surprisingly-strong-black-hole-jet-at-cosmic-noon/" >🔗</a> **[NASA]** NASA’s Chandra Sees Surprisingly Strong Black Hole Jet at Cosmic “Noon”
 - <a href="https://arstechnica.com/space/2025/06/second-new-glenn-launch-slips-toward-fall-as-program-leadership-departs/" >🔗</a> **[Arstechnica]** Second New Glenn launch slips toward fall as program leadership departs
-- <a href="https://www.nasaspaceflight.com/2025/06/ax-4-launch/" >🔗</a> **[NASASpaceflight]** Axiom-4 crew ready for science, flight aboard new Dragon capsule to ISS
-- <a href="https://www.nasa.gov/image-article/central-brazil-cerrado/" >🔗</a> **[NASA]** Central Brazil Cerrado
-- <a href="https://spacenews.com/house-appropriators-unveil-defense-bill-boost-space-force-funding/" >🔗</a> **[SpaceNews]** House appropriators unveil defense bill, boost Space Force funding
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250610T110125">2025-06-10 11:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250610T113202">2025-06-10 11:32:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
