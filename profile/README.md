@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/quantum-space-raises-40-million/" >🔗</a> **[SpaceNews]** Quantum Space raises $40 million
 - <a href="https://spacenews.com/chinese-spacecraft-prepare-for-orbital-refueling-test-as-us-surveillance-sats-lurk-nearby/" >🔗</a> **[SpaceNews]** Chinese spacecraft prepare for orbital refueling test as US surveillance sats lurk nearby
 - <a href="https://spacenews.com/xplore-reveals-hyperspectral-imagery-from-first-satellite/" >🔗</a> **[SpaceNews]** Xplore reveals hyperspectral imagery from first satellite
 - <a href="https://spaceflightnow.com/2025/06/10/live-coverage-spacex-to-launch-23-starlink-satellites-on-a-falcon-9-rocket-from-cape-canaveral-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 23 Starlink satellites on a Falcon 9 rocket from Cape Canaveral
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/olm-plans-to-offer-commercial-launch-services-from-sardinia/" >🔗</a> **[European Spaceflight]** OLM Plans to Offer Commercial Launch Services from Sardinia
 - <a href="https://spaceflightnow.com/2025/06/09/live-coverage-spacex-to-launch-fourth-commercial-axiom-mission-to-the-space-station/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch fourth commercial Axiom mission  to the space station
 - <a href="https://www.nasa.gov/image-article/nasas-chandra-sees-surprisingly-strong-black-hole-jet-at-cosmic-noon/" >🔗</a> **[NASA]** NASA’s Chandra Sees Surprisingly Strong Black Hole Jet at Cosmic “Noon”
-- <a href="https://arstechnica.com/space/2025/06/second-new-glenn-launch-slips-toward-fall-as-program-leadership-departs/" >🔗</a> **[Arstechnica]** Second New Glenn launch slips toward fall as program leadership departs
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250610T113202">2025-06-10 11:32:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250610T120213">2025-06-10 12:02:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
