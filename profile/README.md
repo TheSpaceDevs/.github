@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/aiaas-uniquely-interdisciplinary-space-conference-ascend-poised-for-a-memorable-vegas-event/" >🔗</a> **[SpaceNews]** AIAA’s Uniquely Interdisciplinary Space Conference—ASCEND—Poised for a Memorable Vegas Event
+- <a href="https://spacenews.com/lawmakers-find-common-ground-on-space-but-golden-dome-sparks-divide/" >🔗</a> **[SpaceNews]** Lawmakers find common ground on space but Golden Dome sparks divide
 - <a href="https://spacenews.com/europe-clears-ses-intelsat-deal-without-conditions/" >🔗</a> **[SpaceNews]** Europe clears SES-Intelsat deal without conditions
 - <a href="https://www.nasaspaceflight.com/2025/06/launch-roundup-061025/" >🔗</a> **[NASASpaceflight]** Launch Roundup: ULA to launch Kuiper’s second batch of satellites, SpaceX to launch Axiom crew to ISS
 - <a href="https://www.nasa.gov/image-article/high-above-the-world/" >🔗</a> **[NASA]** High Above the World
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/missions/artemis/orion/i-am-artemis-ernesto-garcia/" >🔗</a> **[NASA]** I Am Artemis: Ernesto Garcia
 - <a href="https://spacenews.com/spacenews-successfully-launches-new-business-offering-hosts-first-custom-event/" >🔗</a> **[SpaceNews]** SpaceNews successfully launches new business offering, hosts first custom event
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-f-15s-validate-tools-for-quesst-mission/" >🔗</a> **[NASA]** NASA F-15s Validate Tools for Quesst Mission
-- <a href="https://arstechnica.com/space/2025/06/ars-live-recap-where-does-nasa-go-from-here/" >🔗</a> **[Arstechnica]** Ars Live recap: Where does NASA go from here?
-- <a href="https://www.spacescout.info/2025/06/where-are-americas-commercial-space-stations-in-2025/" >🔗</a> **[Space Scout]** Where are America’s Commercial Space Stations in 2025?
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250610T210140">2025-06-10 21:01:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250610T213327">2025-06-10 21:33:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
