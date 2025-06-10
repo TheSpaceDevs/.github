@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/europe-clears-ses-intelsat-deal-without-conditions/" >🔗</a> **[SpaceNews]** Europe clears SES-Intelsat deal without conditions
 - <a href="https://www.nasaspaceflight.com/2025/06/launch-roundup-061025/" >🔗</a> **[NASASpaceflight]** Launch Roundup: ULA to launch Kuiper’s second batch of satellites, SpaceX to launch Axiom crew to ISS
 - <a href="https://www.nasa.gov/image-article/high-above-the-world/" >🔗</a> **[NASA]** High Above the World
 - <a href="https://science.nasa.gov/universe/exoplanets/frigid-exoplanet-in-strange-orbit-imaged-by-nasas-webb/" >🔗</a> **[NASA]** Frigid Exoplanet in Strange Orbit Imaged by NASA’s Webb
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-f-15s-validate-tools-for-quesst-mission/" >🔗</a> **[NASA]** NASA F-15s Validate Tools for Quesst Mission
 - <a href="https://arstechnica.com/space/2025/06/ars-live-recap-where-does-nasa-go-from-here/" >🔗</a> **[Arstechnica]** Ars Live recap: Where does NASA go from here?
 - <a href="https://www.spacescout.info/2025/06/where-are-americas-commercial-space-stations-in-2025/" >🔗</a> **[Space Scout]** Where are America’s Commercial Space Stations in 2025?
-- <a href="https://spacenews.com/apogee-semiconductor-partners-with-alter-technology-and-doeeet-com-to-expand-distribution-of-space-and-defense-grade-technologies/" >🔗</a> **[SpaceNews]** Apogee Semiconductor Partners with ALTER Technology and doEEEt.com to Expand Distribution of Space and Defense-Grade Technologies
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250610T193102">2025-06-10 19:31:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250610T200128">2025-06-10 20:01:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
