@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacescout.info/2025/06/where-are-americas-commercial-space-stations-in-2025/" >🔗</a> **[Space Scout]** Where are America’s Commercial Space Stations in 2025?
+- <a href="https://spacenews.com/apogee-semiconductor-partners-with-alter-technology-and-doeeet-com-to-expand-distribution-of-space-and-defense-grade-technologies/" >🔗</a> **[SpaceNews]** Apogee Semiconductor Partners with ALTER Technology and doEEEt.com to Expand Distribution of Space and Defense-Grade Technologies
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-student-challenge-prepares-future-designers-for-lunar-missions/" >🔗</a> **[NASA]** NASA Student Challenge Prepares Future Designers for Lunar Missions
 - <a href="https://spacenews.com/quantum-space-raises-40-million/" >🔗</a> **[SpaceNews]** Quantum Space raises $40 million
 - <a href="https://spacenews.com/chinese-spacecraft-prepare-for-orbital-refueling-test-as-us-surveillance-sats-lurk-nearby/" >🔗</a> **[SpaceNews]** Chinese spacecraft prepare for orbital refueling test as US surveillance sats lurk nearby
 - <a href="https://spacenews.com/xplore-reveals-hyperspectral-imagery-from-first-satellite/" >🔗</a> **[SpaceNews]** Xplore reveals hyperspectral imagery from first satellite
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/laser-focused-keith-barr-leads-orions-lunar-docking-efforts/" >🔗</a> **[NASA]** Laser Focused: Keith Barr Leads Orion’s Lunar Docking Efforts
 - <a href="https://spacenews.com/quebec-backs-canadian-launch-startup-reaction-dynamics/" >🔗</a> **[SpaceNews]** Quebec backs Canadian launch startup Reaction Dynamics
 - <a href="https://spacenews.com/us-rural-broadband-shift-opens-door-wider-for-starlink/" >🔗</a> **[SpaceNews]** US rural broadband shift opens door wider for Starlink
-- <a href="https://europeanspaceflight.com/olm-plans-to-offer-commercial-launch-services-from-sardinia/" >🔗</a> **[European Spaceflight]** OLM Plans to Offer Commercial Launch Services from Sardinia
-- <a href="https://spaceflightnow.com/2025/06/09/live-coverage-spacex-to-launch-fourth-commercial-axiom-mission-to-the-space-station/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch fourth commercial Axiom mission  to the space station
-- <a href="https://www.nasa.gov/image-article/nasas-chandra-sees-surprisingly-strong-black-hole-jet-at-cosmic-noon/" >🔗</a> **[NASA]** NASA’s Chandra Sees Surprisingly Strong Black Hole Jet at Cosmic “Noon”
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250610T150133">2025-06-10 15:01:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250610T153443">2025-06-10 15:34:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
