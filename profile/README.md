@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/high-above-the-world/" >🔗</a> **[NASA]** High Above the World
+- <a href="https://spaceflightnow.com/2025/06/10/spacex-to-debut-its-fifth-and-final-crew-dragon-spacecraft-on-axiom-mission-4/" >🔗</a> **[Spaceflight Now]** SpaceX to debut its fifth and final Crew Dragon spacecraft on Axiom Mission 4
+- <a href="https://www.nasa.gov/missions/artemis/orion/i-am-artemis-ernesto-garcia/" >🔗</a> **[NASA]** I Am Artemis: Ernesto Garcia
 - <a href="https://spacenews.com/spacenews-successfully-launches-new-business-offering-hosts-first-custom-event/" >🔗</a> **[SpaceNews]** SpaceNews successfully launches new business offering, hosts first custom event
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-f-15s-validate-tools-for-quesst-mission/" >🔗</a> **[NASA]** NASA F-15s Validate Tools for Quesst Mission
 - <a href="https://arstechnica.com/space/2025/06/ars-live-recap-where-does-nasa-go-from-here/" >🔗</a> **[Arstechnica]** Ars Live recap: Where does NASA go from here?
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/apogee-semiconductor-partners-with-alter-technology-and-doeeet-com-to-expand-distribution-of-space-and-defense-grade-technologies/" >🔗</a> **[SpaceNews]** Apogee Semiconductor Partners with ALTER Technology and doEEEt.com to Expand Distribution of Space and Defense-Grade Technologies
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-student-challenge-prepares-future-designers-for-lunar-missions/" >🔗</a> **[NASA]** NASA Student Challenge Prepares Future Designers for Lunar Missions
 - <a href="https://spacenews.com/quantum-space-raises-40-million/" >🔗</a> **[SpaceNews]** Quantum Space raises $40 million
-- <a href="https://spacenews.com/chinese-spacecraft-prepare-for-orbital-refueling-test-as-us-surveillance-sats-lurk-nearby/" >🔗</a> **[SpaceNews]** Chinese spacecraft prepare for orbital refueling test as US surveillance sats lurk nearby
-- <a href="https://spacenews.com/xplore-reveals-hyperspectral-imagery-from-first-satellite/" >🔗</a> **[SpaceNews]** Xplore reveals hyperspectral imagery from first satellite
-- <a href="https://spaceflightnow.com/2025/06/10/live-coverage-spacex-to-launch-23-starlink-satellites-on-a-falcon-9-rocket-from-cape-canaveral-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 23 Starlink satellites on a Falcon 9 rocket from Cape Canaveral
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250610T180137">2025-06-10 18:01:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250610T183925">2025-06-10 18:39:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
