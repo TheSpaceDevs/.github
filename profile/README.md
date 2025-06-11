@@ -46,7 +46,7 @@ into *a Low Earth Orbit
 
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250613T014600">2025-06-13 01:46:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 15-6&location=Vandenberg SFB, CA, USA&dates=20250613T014600Z%2F20250613T061400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 15-6** from Vandenberg SFB, CA, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250613T111500">2025-06-13 11:15:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Axiom Space Mission 4&location=Kennedy Space Center, FL, USA&dates=20250613T111500Z%2F20250613T111500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Axiom Space Mission 4** from Kennedy Space Center, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250613T111200">2025-06-13 11:12:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Axiom Space Mission 4&location=Kennedy Space Center, FL, USA&dates=20250613T111200Z%2F20250613T111200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Axiom Space Mission 4** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250613T114500">2025-06-13 11:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-26&location=Cape Canaveral SFS, FL, USA&dates=20250613T114500Z%2F20250613T161600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-26** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250614T074800">2025-06-14 07:48:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2D | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20250614T074800Z%2F20250614T082200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2D | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250616T172500">2025-06-16 17:25:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 551 | Project Kuiper (KA-02)&location=Cape Canaveral SFS, FL, USA&dates=20250616T172500Z%2F20250616T175500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 551 | Project Kuiper (KA-02)** from Cape Canaveral SFS, FL, USA.
@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/portrait-of-a-bobcat/" >🔗</a> **[NASA]** Portrait of a Bobcat
+- <a href="https://spacenews.com/the-commercial-space-federation-csf-announces-new-board-officers/" >🔗</a> **[SpaceNews]** THE COMMERCIAL SPACE FEDERATION (CSF) ANNOUNCES NEW BOARD OFFICERS
+- <a href="https://science.nasa.gov/science-research/earth-science/the-earth-observer-editors-corner-april-june-2025/" >🔗</a> **[NASA]** The Earth Observer Editor’s Corner: April–June 2025
 - <a href="https://www.esa.int/About_Us/ESA_at_Le_Bourget_2025/Join_ESA_at_the_International_Paris_Air_Show_2025" >🔗</a> **[ESA]** Join ESA at the International Paris Air Show 2025
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/ames-science/tuning-a-nasa-instrument-calibrating-master/" >🔗</a> **[NASA]** Tuning a NASA Instrument: Calibrating MASTER
 - <a href="https://spacenews.com/voyager-raises-383-million-from-upsized-ipo/" >🔗</a> **[SpaceNews]** Voyager raises $383 million from upsized IPO
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_gets_world-first_views_of_the_Sun_s_poles" >🔗</a> **[ESA]** Solar Orbiter gets world-first views of the Sun’s poles
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/06/Solar_Orbiter_gets_world-first_views_of_the_Sun_s_south_pole" >🔗</a> **[ESA]** Solar Orbiter gets world-first views of the Sun’s south pole
 - <a href="https://spacenews.com/space-superiority-is-crucial-for-joint-force-dominance-these-four-factors-are-needed-to-achieve-it/" >🔗</a> **[SpaceNews]** Space superiority is crucial for Joint Force dominance. These four factors are needed to achieve it.
-- <a href="https://spacenews.com/integrate-software-selected-by-space-force-to-streamline-satellite-launches/" >🔗</a> **[SpaceNews]** ‘Integrate’ software selected by Space Force to streamline satellite launches
-- <a href="https://www.nasa.gov/social-media/fewer-feeds-more-focus-nasas-social-media-overhaul/" >🔗</a> **[NASA]** Fewer Feeds, More Focus: NASA’s Social Media Overhaul
-- <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenn-pitches-science-demonstrations-at-lake-erie-crushers-game/" >🔗</a> **[NASA]** NASA Glenn Pitches Science Demonstrations at Lake Erie Crushers Game
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250611T190121">2025-06-11 19:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250611T193121">2025-06-11 19:31:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
