@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/whitesides-says-budget-proposal-shows-the-administration-does-not-value-nasa-science/" >🔗</a> **[SpaceNews]** Whitesides says budget proposal shows the administration does not value NASA science
 - <a href="https://science.nasa.gov/image-article/nasas-codex-captures-unique-views-of-suns-outer-atmosphere/" >🔗</a> **[NASA]** NASA’s CODEX Captures Unique Views of Sun’s Outer Atmosphere
 - <a href="https://spacenews.com/aiaas-uniquely-interdisciplinary-space-conference-ascend-poised-for-a-memorable-vegas-event/" >🔗</a> **[SpaceNews]** AIAA’s Uniquely Interdisciplinary Space Conference—ASCEND—Poised for a Memorable Vegas Event
 - <a href="https://spacenews.com/lawmakers-find-common-ground-on-space-but-golden-dome-sparks-divide/" >🔗</a> **[SpaceNews]** Lawmakers find common ground on space but Golden Dome sparks divide
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/universe/exoplanets/frigid-exoplanet-in-strange-orbit-imaged-by-nasas-webb/" >🔗</a> **[NASA]** Frigid Exoplanet in Strange Orbit Imaged by NASA’s Webb
 - <a href="https://spaceflightnow.com/2025/06/10/spacex-to-debut-its-fifth-and-final-crew-dragon-spacecraft-on-axiom-mission-4/" >🔗</a> **[Spaceflight Now]** SpaceX to debut its fifth and final Crew Dragon spacecraft on Axiom Mission 4
 - <a href="https://www.nasa.gov/missions/artemis/orion/i-am-artemis-ernesto-garcia/" >🔗</a> **[NASA]** I Am Artemis: Ernesto Garcia
-- <a href="https://spacenews.com/spacenews-successfully-launches-new-business-offering-hosts-first-custom-event/" >🔗</a> **[SpaceNews]** SpaceNews successfully launches new business offering, hosts first custom event
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250611T000510">2025-06-11 00:05:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250611T004557">2025-06-11 00:45:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
