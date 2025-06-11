@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/sierra-space-doubles-down-on-defense/" >🔗</a> **[SpaceNews]** Sierra Space doubles down on defense
+- <a href="https://spacenews.com/bae-systems-brings-south-koreas-hanwha-into-intelligence-gathering-constellation/" >🔗</a> **[SpaceNews]** BAE Systems brings South Korea’s Hanwha into intelligence-gathering constellation
+- <a href="https://spacenews.com/electron-launches-third-iqps-satellite-in-three-months/" >🔗</a> **[SpaceNews]** Electron launches third iQPS satellite in three months
 - <a href="https://spacenews.com/reaction-dynamics-prepares-for-takeoff/" >🔗</a> **[SpaceNews]** Reaction Dynamics prepares for takeoff
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/welcome-home-expedition-72-crew/" >🔗</a> **[NASA]** Welcome Home, Expedition 72 Crew!
 - <a href="https://spacenews.com/revolutionizing-space-tech-a-cutting-edge-alternative-to-optical-solar-reflectors/" >🔗</a> **[SpaceNews]** Revolutionizing Space Tech: A Cutting-Edge Alternative to Optical Solar Reflectors
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2025/06/slc-37-starship-draft-eis/" >🔗</a> **[NASASpaceflight]** From Delta to Starship, SpaceX’s ambitious plan for SLC-37’s future
 - <a href="https://www.nasa.gov/missions/webb/nasa-documentary-cosmic-dawn-reveals-untold-story-of-james-webb-space-telescope/" >🔗</a> **[NASA]** NASA+ Documentary “Cosmic Dawn” Reveals Untold Story of James Webb Space Telescope
 - <a href="https://www.nasa.gov/image-article/portrait-of-a-bobcat/" >🔗</a> **[NASA]** Portrait of a Bobcat
-- <a href="https://spacenews.com/the-commercial-space-federation-csf-announces-new-board-officers/" >🔗</a> **[SpaceNews]** THE COMMERCIAL SPACE FEDERATION (CSF) ANNOUNCES NEW BOARD OFFICERS
-- <a href="https://science.nasa.gov/science-research/earth-science/the-earth-observer-editors-corner-april-june-2025/" >🔗</a> **[NASA]** The Earth Observer Editor’s Corner: April–June 2025
-- <a href="https://science.nasa.gov/missions/webb/nasas-webb-uncovers-galaxy-population-driving-cosmic-renovation/" >🔗</a> **[NASA]** NASA’s Webb ‘UNCOVERs’ Galaxy Population Driving Cosmic Renovation
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250611T220122">2025-06-11 22:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250611T223516">2025-06-11 22:35:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
