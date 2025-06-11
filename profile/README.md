@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/reaction-dynamics-prepares-for-takeoff/" >🔗</a> **[SpaceNews]** Reaction Dynamics prepares for takeoff
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/welcome-home-expedition-72-crew/" >🔗</a> **[NASA]** Welcome Home, Expedition 72 Crew!
+- <a href="https://spacenews.com/revolutionizing-space-tech-a-cutting-edge-alternative-to-optical-solar-reflectors/" >🔗</a> **[SpaceNews]** Revolutionizing Space Tech: A Cutting-Edge Alternative to Optical Solar Reflectors
+- <a href="https://spacenews.com/pentagons-mega-constellation-still-hampered-by-supply-chain-issues-gao-report/" >🔗</a> **[SpaceNews]** Pentagon’s mega-constellation still hampered by supply chain issues: GAO report
 - <a href="https://www.nasaspaceflight.com/2025/06/slc-37-starship-draft-eis/" >🔗</a> **[NASASpaceflight]** From Delta to Starship, SpaceX’s ambitious plan for SLC-37’s future
 - <a href="https://www.nasa.gov/missions/webb/nasa-documentary-cosmic-dawn-reveals-untold-story-of-james-webb-space-telescope/" >🔗</a> **[NASA]** NASA+ Documentary “Cosmic Dawn” Reveals Untold Story of James Webb Space Telescope
 - <a href="https://www.nasa.gov/image-article/portrait-of-a-bobcat/" >🔗</a> **[NASA]** Portrait of a Bobcat
 - <a href="https://spacenews.com/the-commercial-space-federation-csf-announces-new-board-officers/" >🔗</a> **[SpaceNews]** THE COMMERCIAL SPACE FEDERATION (CSF) ANNOUNCES NEW BOARD OFFICERS
 - <a href="https://science.nasa.gov/science-research/earth-science/the-earth-observer-editors-corner-april-june-2025/" >🔗</a> **[NASA]** The Earth Observer Editor’s Corner: April–June 2025
 - <a href="https://science.nasa.gov/missions/webb/nasas-webb-uncovers-galaxy-population-driving-cosmic-renovation/" >🔗</a> **[NASA]** NASA’s Webb ‘UNCOVERs’ Galaxy Population Driving Cosmic Renovation
-- <a href="https://www.esa.int/About_Us/ESA_at_Le_Bourget_2025/Join_ESA_at_the_International_Paris_Air_Show_2025" >🔗</a> **[ESA]** Join ESA at the International Paris Air Show 2025
-- <a href="https://www.nasa.gov/centers-and-facilities/ames/ames-science/tuning-a-nasa-instrument-calibrating-master/" >🔗</a> **[NASA]** Tuning a NASA Instrument: Calibrating MASTER
-- <a href="https://spacenews.com/voyager-raises-383-million-from-upsized-ipo/" >🔗</a> **[SpaceNews]** Voyager raises $383 million from upsized IPO
-- <a href="https://europeanspaceflight.com/alpha-impulsion-tests-autophage-engine-prototype-for-grenat-rocket/" >🔗</a> **[European Spaceflight]** Alpha Impulsion Tests Autophage Engine Prototype for Grenat Rocket
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250611T210131">2025-06-11 21:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250611T213324">2025-06-11 21:33:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
