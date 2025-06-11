@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/ESA_at_Le_Bourget_2025/Join_ESA_at_the_International_Paris_Air_Show_2025" >🔗</a> **[ESA]** Join ESA at the International Paris Air Show 2025
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/ames-science/tuning-a-nasa-instrument-calibrating-master/" >🔗</a> **[NASA]** Tuning a NASA Instrument: Calibrating MASTER
 - <a href="https://spacenews.com/voyager-raises-383-million-from-upsized-ipo/" >🔗</a> **[SpaceNews]** Voyager raises $383 million from upsized IPO
 - <a href="https://europeanspaceflight.com/alpha-impulsion-tests-autophage-engine-prototype-for-grenat-rocket/" >🔗</a> **[European Spaceflight]** Alpha Impulsion Tests Autophage Engine Prototype for Grenat Rocket
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/integrate-software-selected-by-space-force-to-streamline-satellite-launches/" >🔗</a> **[SpaceNews]** ‘Integrate’ software selected by Space Force to streamline satellite launches
 - <a href="https://www.nasa.gov/social-media/fewer-feeds-more-focus-nasas-social-media-overhaul/" >🔗</a> **[NASA]** Fewer Feeds, More Focus: NASA’s Social Media Overhaul
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenn-pitches-science-demonstrations-at-lake-erie-crushers-game/" >🔗</a> **[NASA]** NASA Glenn Pitches Science Demonstrations at Lake Erie Crushers Game
-- <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/nasa-glenn-employees-recognized-by-astronaut-corps/" >🔗</a> **[NASA]** NASA Glenn Employees Recognized by Astronaut Corps
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250611T180135">2025-06-11 18:01:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250611T183949">2025-06-11 18:39:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
