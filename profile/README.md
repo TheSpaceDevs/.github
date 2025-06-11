@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-superiority-is-crucial-for-joint-force-dominance-these-four-factors-are-needed-to-achieve-it/" >🔗</a> **[SpaceNews]** Space superiority is crucial for Joint Force dominance. These four factors are needed to achieve it.
+- <a href="https://spacenews.com/integrate-software-selected-by-space-force-to-streamline-satellite-launches/" >🔗</a> **[SpaceNews]** ‘Integrate’ software selected by Space Force to streamline satellite launches
+- <a href="https://www.nasa.gov/social-media/fewer-feeds-more-focus-nasas-social-media-overhaul/" >🔗</a> **[NASA]** Fewer Feeds, More Focus: NASA’s Social Media Overhaul
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenn-pitches-science-demonstrations-at-lake-erie-crushers-game/" >🔗</a> **[NASA]** NASA Glenn Pitches Science Demonstrations at Lake Erie Crushers Game
 - <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/nasa-glenn-employees-recognized-by-astronaut-corps/" >🔗</a> **[NASA]** NASA Glenn Employees Recognized by Astronaut Corps
 - <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/nasa-glenn-joins-cosis-big-science-celebration-2/" >🔗</a> **[NASA]** NASA Glenn Joins COSI’s Big Science Celebration
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/booster-leak-delays-ax-4-private-astronaut-mission-to-iss/" >🔗</a> **[SpaceNews]** Booster leak delays Ax-4 private astronaut mission to ISS
 - <a href="https://www.esa.int/About_Us/ESA_Publications/ESA_Impact_2025_-_Q2" >🔗</a> **[ESA]** ESA Impact: Pick of our spring space snaps
 - <a href="https://spacepolicyonline.com/news/house-appropriators-add-amost-3-billion-to-presidents-request-for-space-force/" >🔗</a> **[SpacePolicyOnline.com]** House Appropriators Add Amost $3 Billion to President’s Request for Space Force
-- <a href="https://spacenews.com/whitesides-says-budget-proposal-shows-the-administration-does-not-value-nasa-science/" >🔗</a> **[SpaceNews]** Whitesides says budget proposal shows the administration does not value NASA science
-- <a href="https://science.nasa.gov/image-article/nasas-codex-captures-unique-views-of-suns-outer-atmosphere/" >🔗</a> **[NASA]** NASA’s CODEX Captures Unique Views of Sun’s Outer Atmosphere
-- <a href="https://spacenews.com/aiaas-uniquely-interdisciplinary-space-conference-ascend-poised-for-a-memorable-vegas-event/" >🔗</a> **[SpaceNews]** AIAA’s Uniquely Interdisciplinary Space Conference—ASCEND—Poised for a Memorable Vegas Event
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250611T131110">2025-06-11 13:11:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250611T134015">2025-06-11 13:40:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
