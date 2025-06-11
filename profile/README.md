@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/06/she-was-a-disney-star-with-platinum-records-but-bridgit-mendler-gave-it-up-to-change-the-world/" >🔗</a> **[Arstechnica]** She was a Disney star with platinum records, but Bridgit Mendler gave it up to change the world
+- <a href="https://spacenews.com/booster-leak-delays-ax-4-private-astronaut-mission-to-iss/" >🔗</a> **[SpaceNews]** Booster leak delays Ax-4 private astronaut mission to ISS
 - <a href="https://www.esa.int/About_Us/ESA_Publications/ESA_Impact_2025_-_Q2" >🔗</a> **[ESA]** ESA Impact: Pick of our spring space snaps
 - <a href="https://spacepolicyonline.com/news/house-appropriators-add-amost-3-billion-to-presidents-request-for-space-force/" >🔗</a> **[SpacePolicyOnline.com]** House Appropriators Add Amost $3 Billion to President’s Request for Space Force
 - <a href="https://spacenews.com/whitesides-says-budget-proposal-shows-the-administration-does-not-value-nasa-science/" >🔗</a> **[SpaceNews]** Whitesides says budget proposal shows the administration does not value NASA science
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/lawmakers-find-common-ground-on-space-but-golden-dome-sparks-divide/" >🔗</a> **[SpaceNews]** Lawmakers find common ground on space but Golden Dome sparks divide
 - <a href="https://spacenews.com/europe-clears-ses-intelsat-deal-without-conditions/" >🔗</a> **[SpaceNews]** Europe clears SES-Intelsat deal without conditions
 - <a href="https://www.nasaspaceflight.com/2025/06/launch-roundup-061025/" >🔗</a> **[NASASpaceflight]** Launch Roundup: ULA to launch Kuiper’s second batch of satellites, SpaceX to launch Axiom crew to ISS
-- <a href="https://www.nasa.gov/image-article/high-above-the-world/" >🔗</a> **[NASA]** High Above the World
-- <a href="https://science.nasa.gov/universe/exoplanets/frigid-exoplanet-in-strange-orbit-imaged-by-nasas-webb/" >🔗</a> **[NASA]** Frigid Exoplanet in Strange Orbit Imaged by NASA’s Webb
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250611T110125">2025-06-11 11:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250611T113206">2025-06-11 11:32:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
