@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/house-appropriators-add-amost-3-billion-to-presidents-request-for-space-force/" >🔗</a> **[SpacePolicyOnline.com]** House Appropriators Add Amost $3 Billion to President’s Request for Space Force
 - <a href="https://spacenews.com/whitesides-says-budget-proposal-shows-the-administration-does-not-value-nasa-science/" >🔗</a> **[SpaceNews]** Whitesides says budget proposal shows the administration does not value NASA science
 - <a href="https://science.nasa.gov/image-article/nasas-codex-captures-unique-views-of-suns-outer-atmosphere/" >🔗</a> **[NASA]** NASA’s CODEX Captures Unique Views of Sun’s Outer Atmosphere
 - <a href="https://spacenews.com/aiaas-uniquely-interdisciplinary-space-conference-ascend-poised-for-a-memorable-vegas-event/" >🔗</a> **[SpaceNews]** AIAA’s Uniquely Interdisciplinary Space Conference—ASCEND—Poised for a Memorable Vegas Event
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/high-above-the-world/" >🔗</a> **[NASA]** High Above the World
 - <a href="https://science.nasa.gov/universe/exoplanets/frigid-exoplanet-in-strange-orbit-imaged-by-nasas-webb/" >🔗</a> **[NASA]** Frigid Exoplanet in Strange Orbit Imaged by NASA’s Webb
 - <a href="https://spaceflightnow.com/2025/06/10/spacex-to-debut-its-fifth-and-final-crew-dragon-spacecraft-on-axiom-mission-4/" >🔗</a> **[Spaceflight Now]** SpaceX to debut its fifth and final Crew Dragon spacecraft on Axiom Mission 4
-- <a href="https://www.nasa.gov/missions/artemis/orion/i-am-artemis-ernesto-garcia/" >🔗</a> **[NASA]** I Am Artemis: Ernesto Garcia
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250611T025954">2025-06-11 02:59:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250611T032956">2025-06-11 03:29:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
