@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/alpha-impulsion-tests-autophage-engine-prototype-for-grenat-rocket/" >🔗</a> **[European Spaceflight]** Alpha Impulsion Tests Autophage Engine Prototype for Grenat Rocket
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_gets_world-first_views_of_the_Sun_s_poles" >🔗</a> **[ESA]** Solar Orbiter gets world-first views of the Sun’s poles
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/06/Solar_Orbiter_gets_world-first_views_of_the_Sun_s_south_pole" >🔗</a> **[ESA]** Solar Orbiter gets world-first views of the Sun’s south pole
 - <a href="https://spacenews.com/space-superiority-is-crucial-for-joint-force-dominance-these-four-factors-are-needed-to-achieve-it/" >🔗</a> **[SpaceNews]** Space superiority is crucial for Joint Force dominance. These four factors are needed to achieve it.
 - <a href="https://spacenews.com/integrate-software-selected-by-space-force-to-streamline-satellite-launches/" >🔗</a> **[SpaceNews]** ‘Integrate’ software selected by Space Force to streamline satellite launches
 - <a href="https://www.nasa.gov/social-media/fewer-feeds-more-focus-nasas-social-media-overhaul/" >🔗</a> **[NASA]** Fewer Feeds, More Focus: NASA’s Social Media Overhaul
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/nasa-glenn-employees-recognized-by-astronaut-corps/" >🔗</a> **[NASA]** NASA Glenn Employees Recognized by Astronaut Corps
 - <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/nasa-glenn-joins-cosis-big-science-celebration-2/" >🔗</a> **[NASA]** NASA Glenn Joins COSI’s Big Science Celebration
 - <a href="https://arstechnica.com/space/2025/06/she-was-a-disney-star-with-platinum-records-but-bridgit-mendler-gave-it-up-to-change-the-world/" >🔗</a> **[Arstechnica]** She was a Disney star with platinum records, but Bridgit Mendler gave it up to change the world
-- <a href="https://spacenews.com/booster-leak-delays-ax-4-private-astronaut-mission-to-iss/" >🔗</a> **[SpaceNews]** Booster leak delays Ax-4 private astronaut mission to ISS
-- <a href="https://www.esa.int/About_Us/ESA_Publications/ESA_Impact_2025_-_Q2" >🔗</a> **[ESA]** ESA Impact: Pick of our spring space snaps
-- <a href="https://spacepolicyonline.com/news/house-appropriators-add-amost-3-billion-to-presidents-request-for-space-force/" >🔗</a> **[SpacePolicyOnline.com]** House Appropriators Add Amost $3 Billion to President’s Request for Space Force
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250611T140119">2025-06-11 14:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250611T143539">2025-06-11 14:35:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
