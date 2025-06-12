@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/dawn-aerospace-sells-aurora-suborbital-spaceplane-to-oklahoma/" >🔗</a> **[SpaceNews]** Dawn Aerospace sells Aurora suborbital spaceplane to Oklahoma
 - <a href="https://spacenews.com/muon-space-raises-90-million-to-scale-satellite-production-and-acquire-propulsion-startup/" >🔗</a> **[SpaceNews]** Muon Space raises $90 million to scale satellite production and acquire propulsion startup
 - <a href="https://spacenews.com/voyager-looks-to-expanded-defense-and-space-opportunities-as-a-public-company/" >🔗</a> **[SpaceNews]** Voyager looks to expanded defense and space opportunities as a public company
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/06/Space_boarding_pass" >🔗</a> **[ESA]** Space boarding pass
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/electron-launches-third-iqps-satellite-in-three-months/" >🔗</a> **[SpaceNews]** Electron launches third iQPS satellite in three months
 - <a href="https://spacenews.com/reaction-dynamics-prepares-for-takeoff/" >🔗</a> **[SpaceNews]** Reaction Dynamics prepares for takeoff
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/welcome-home-expedition-72-crew/" >🔗</a> **[NASA]** Welcome Home, Expedition 72 Crew!
-- <a href="https://spacenews.com/revolutionizing-space-tech-a-cutting-edge-alternative-to-optical-solar-reflectors/" >🔗</a> **[SpaceNews]** Revolutionizing Space Tech: A Cutting-Edge Alternative to Optical Solar Reflectors
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250612T120212">2025-06-12 12:02:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250612T124324">2025-06-12 12:43:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
