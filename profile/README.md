@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/nasas-hurricane-science-tech-data-help-american-communities/" >🔗</a> **[NASA]** NASA’s Hurricane Science, Tech, Data Help American Communities
+- <a href="https://www.nasa.gov/missions/station/iss-research/emit/nasa-sensor-on-space-station-eyes-contamination-off-california-coast/" >🔗</a> **[NASA]** NASA Sensor on Space Station Eyes Contamination off California Coast
+- <a href="https://www.nasa.gov/news-release/nasa-museum-to-launch-junior-pilot-school-for-young-innovators/" >🔗</a> **[NASA]** NASA, Museum to Launch Junior Pilot School for Young Innovators
 - <a href="https://science.nasa.gov/science-research/heliophysics/nasa-launching-rockets-into-radio-disrupting-clouds/" >🔗</a> **[NASA]** NASA Launching Rockets Into Radio-Disrupting Clouds
 - <a href="https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-to-peer-into-cosmic-lenses-to-better-define-dark-matter/" >🔗</a> **[NASA]** NASA’s Roman to Peer Into Cosmic ‘Lenses’ to Better Define Dark Matter
 - <a href="https://spacenews.com/why-space-wrecks-the-human-body/" >🔗</a> **[SpaceNews]** Why space wrecks the human body
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/06/334th_ESA_Council_Media_information_session" >🔗</a> **[ESA]** 334th ESA Council: Media information session
 - <a href="https://spacenews.com/dawn-aerospace-sells-aurora-suborbital-spaceplane-to-oklahoma/" >🔗</a> **[SpaceNews]** Dawn Aerospace sells Aurora suborbital spaceplane to Oklahoma
 - <a href="https://spacenews.com/muon-space-raises-90-million-to-scale-satellite-production-and-acquire-propulsion-startup/" >🔗</a> **[SpaceNews]** Muon Space raises $90 million to scale satellite production and acquire propulsion startup
-- <a href="https://spacenews.com/voyager-looks-to-expanded-defense-and-space-opportunities-as-a-public-company/" >🔗</a> **[SpaceNews]** Voyager looks to expanded defense and space opportunities as a public company
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/06/Space_boarding_pass" >🔗</a> **[ESA]** Space boarding pass
-- <a href="https://science.nasa.gov/blog/sol-4564-front-hazard-avoidance-camera-front-hazcam/" >🔗</a> **[NASA]** Sol 4564: Front Hazard Avoidance Camera (Front Hazcam)
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250612T180130">2025-06-12 18:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250612T183910">2025-06-12 18:39:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
