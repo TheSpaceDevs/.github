@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/science-research/heliophysics/nasa-launching-rockets-into-radio-disrupting-clouds/" >🔗</a> **[NASA]** NASA Launching Rockets Into Radio-Disrupting Clouds
+- <a href="https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-to-peer-into-cosmic-lenses-to-better-define-dark-matter/" >🔗</a> **[NASA]** NASA’s Roman to Peer Into Cosmic ‘Lenses’ to Better Define Dark Matter
 - <a href="https://spacenews.com/why-space-wrecks-the-human-body/" >🔗</a> **[SpaceNews]** Why space wrecks the human body
 - <a href="https://www.nasa.gov/missions/station/iss-research/studying-storms-from-space-station/" >🔗</a> **[NASA]** Studying Storms from Space Station
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/06/334th_ESA_Council_Media_information_session" >🔗</a> **[ESA]** 334th ESA Council: Media information session
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/voyager-looks-to-expanded-defense-and-space-opportunities-as-a-public-company/" >🔗</a> **[SpaceNews]** Voyager looks to expanded defense and space opportunities as a public company
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/06/Space_boarding_pass" >🔗</a> **[ESA]** Space boarding pass
 - <a href="https://science.nasa.gov/blog/sol-4564-front-hazard-avoidance-camera-front-hazcam/" >🔗</a> **[NASA]** Sol 4564: Front Hazard Avoidance Camera (Front Hazcam)
-- <a href="https://spacenews.com/sierra-space-doubles-down-on-defense/" >🔗</a> **[SpaceNews]** Sierra Space doubles down on defense
-- <a href="https://spacenews.com/bae-systems-brings-south-koreas-hanwha-into-intelligence-gathering-constellation/" >🔗</a> **[SpaceNews]** BAE Systems brings South Korea’s Hanwha into intelligence-gathering constellation
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250612T160138">2025-06-12 16:01:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250612T163811">2025-06-12 16:38:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
