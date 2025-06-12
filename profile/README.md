@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/logos-nets-50-million-to-advance-plans-for-more-than-4000-broadband-satellites/" >🔗</a> **[SpaceNews]** Logos nets $50 million to advance plans for more than 4,000 broadband satellites
+- <a href="https://spacenews.com/nasa-indefinitely-delays-private-astronaut-mission-citing-air-leak-in-russian-module/" >🔗</a> **[SpaceNews]** NASA indefinitely delays private astronaut mission, citing air leak in Russian module
 - <a href="https://arstechnica.com/space/2025/06/what-might-have-been-at-jared-isaacmans-nasa/" >🔗</a> **[Arstechnica]** What might have been at Jared Isaacman’s NASA
 - <a href="https://www.nasa.gov/image-article/nasas-sls-rocket-booster-separation-motors/" >🔗</a> **[NASA]** NASA’s SLS Rocket: Booster Separation Motors
 - <a href="https://europeanspaceflight.com/the-exploration-company-launches-mission-possible-recovery-vessel/" >🔗</a> **[European Spaceflight]** The Exploration Company Launches Mission Possible Recovery Vessel
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/missions/station/iss-research/emit/nasa-sensor-on-space-station-eyes-contamination-off-california-coast/" >🔗</a> **[NASA]** NASA Sensor on Space Station Eyes Contamination off California Coast
 - <a href="https://www.nasa.gov/news-release/nasa-museum-to-launch-junior-pilot-school-for-young-innovators/" >🔗</a> **[NASA]** NASA, Museum to Launch Junior Pilot School for Young Innovators
 - <a href="https://science.nasa.gov/science-research/heliophysics/nasa-launching-rockets-into-radio-disrupting-clouds/" >🔗</a> **[NASA]** NASA Launching Rockets Into Radio-Disrupting Clouds
-- <a href="https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-to-peer-into-cosmic-lenses-to-better-define-dark-matter/" >🔗</a> **[NASA]** NASA’s Roman to Peer Into Cosmic ‘Lenses’ to Better Define Dark Matter
-- <a href="https://spacenews.com/why-space-wrecks-the-human-body/" >🔗</a> **[SpaceNews]** Why space wrecks the human body
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250612T220124">2025-06-12 22:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250612T223503">2025-06-12 22:35:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
