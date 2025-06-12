@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/06/what-might-have-been-at-jared-isaacmans-nasa/" >🔗</a> **[Arstechnica]** What might have been at Jared Isaacman’s NASA
 - <a href="https://www.nasa.gov/image-article/nasas-sls-rocket-booster-separation-motors/" >🔗</a> **[NASA]** NASA’s SLS Rocket: Booster Separation Motors
 - <a href="https://europeanspaceflight.com/the-exploration-company-launches-mission-possible-recovery-vessel/" >🔗</a> **[European Spaceflight]** The Exploration Company Launches Mission Possible Recovery Vessel
 - <a href="https://www.nasa.gov/image-article/far-out/" >🔗</a> **[NASA]** Far Out
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/science-research/heliophysics/nasa-launching-rockets-into-radio-disrupting-clouds/" >🔗</a> **[NASA]** NASA Launching Rockets Into Radio-Disrupting Clouds
 - <a href="https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-to-peer-into-cosmic-lenses-to-better-define-dark-matter/" >🔗</a> **[NASA]** NASA’s Roman to Peer Into Cosmic ‘Lenses’ to Better Define Dark Matter
 - <a href="https://spacenews.com/why-space-wrecks-the-human-body/" >🔗</a> **[SpaceNews]** Why space wrecks the human body
-- <a href="https://www.nasa.gov/missions/station/iss-research/studying-storms-from-space-station/" >🔗</a> **[NASA]** Studying Storms from Space Station
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250612T210134">2025-06-12 21:01:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250612T213207">2025-06-12 21:32:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
