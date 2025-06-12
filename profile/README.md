@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/voyager-looks-to-expanded-defense-and-space-opportunities-as-a-public-company/" >🔗</a> **[SpaceNews]** Voyager looks to expanded defense and space opportunities as a public company
 - <a href="https://science.nasa.gov/blog/sol-4564-front-hazard-avoidance-camera-front-hazcam/" >🔗</a> **[NASA]** Sol 4564: Front Hazard Avoidance Camera (Front Hazcam)
 - <a href="https://spacenews.com/sierra-space-doubles-down-on-defense/" >🔗</a> **[SpaceNews]** Sierra Space doubles down on defense
 - <a href="https://spacenews.com/bae-systems-brings-south-koreas-hanwha-into-intelligence-gathering-constellation/" >🔗</a> **[SpaceNews]** BAE Systems brings South Korea’s Hanwha into intelligence-gathering constellation
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/revolutionizing-space-tech-a-cutting-edge-alternative-to-optical-solar-reflectors/" >🔗</a> **[SpaceNews]** Revolutionizing Space Tech: A Cutting-Edge Alternative to Optical Solar Reflectors
 - <a href="https://spacenews.com/pentagons-mega-constellation-still-hampered-by-supply-chain-issues-gao-report/" >🔗</a> **[SpaceNews]** Pentagon’s mega-constellation still hampered by supply chain issues: GAO report
 - <a href="https://www.nasaspaceflight.com/2025/06/slc-37-starship-draft-eis/" >🔗</a> **[NASASpaceflight]** From Delta to Starship, SpaceX’s ambitious plan for SLC-37’s future
-- <a href="https://www.nasa.gov/missions/webb/nasa-documentary-cosmic-dawn-reveals-untold-story-of-james-webb-space-telescope/" >🔗</a> **[NASA]** NASA+ Documentary “Cosmic Dawn” Reveals Untold Story of James Webb Space Telescope
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250612T090124">2025-06-12 09:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250612T093450">2025-06-12 09:34:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
