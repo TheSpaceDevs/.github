@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/06/12/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 23 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
+- <a href="https://spacenews.com/house-appropriators-advance-defense-bill-slam-white-house-for-budget-delay/" >🔗</a> **[SpaceNews]** House appropriators advance defense bill, slam White House for budget delay
+- <a href="https://science.nasa.gov/uncategorized/nustar-coloring-pages/" >🔗</a> **[NASA]** NuSTAR Coloring Pages
 - <a href="https://spacenews.com/logos-nets-50-million-to-advance-plans-for-more-than-4000-broadband-satellites/" >🔗</a> **[SpaceNews]** Logos nets $50 million to advance plans for more than 4,000 broadband satellites
 - <a href="https://spacenews.com/nasa-indefinitely-delays-private-astronaut-mission-citing-air-leak-in-russian-module/" >🔗</a> **[SpaceNews]** NASA indefinitely delays private astronaut mission, citing air leak in Russian module
 - <a href="https://arstechnica.com/space/2025/06/what-might-have-been-at-jared-isaacmans-nasa/" >🔗</a> **[Arstechnica]** What might have been at Jared Isaacman’s NASA
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/the-exploration-company-launches-mission-possible-recovery-vessel/" >🔗</a> **[European Spaceflight]** The Exploration Company Launches Mission Possible Recovery Vessel
 - <a href="https://www.nasa.gov/image-article/far-out/" >🔗</a> **[NASA]** Far Out
 - <a href="https://science.nasa.gov/earth/nasas-hurricane-science-tech-data-help-american-communities/" >🔗</a> **[NASA]** NASA’s Hurricane Science, Tech, Data Help American Communities
-- <a href="https://www.nasa.gov/missions/station/iss-research/emit/nasa-sensor-on-space-station-eyes-contamination-off-california-coast/" >🔗</a> **[NASA]** NASA Sensor on Space Station Eyes Contamination off California Coast
-- <a href="https://www.nasa.gov/news-release/nasa-museum-to-launch-junior-pilot-school-for-young-innovators/" >🔗</a> **[NASA]** NASA, Museum to Launch Junior Pilot School for Young Innovators
-- <a href="https://science.nasa.gov/science-research/heliophysics/nasa-launching-rockets-into-radio-disrupting-clouds/" >🔗</a> **[NASA]** NASA Launching Rockets Into Radio-Disrupting Clouds
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250612T230129">2025-06-12 23:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250612T233307">2025-06-12 23:33:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
