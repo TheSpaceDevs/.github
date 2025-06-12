@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/why-space-wrecks-the-human-body/" >🔗</a> **[SpaceNews]** Why space wrecks the human body
+- <a href="https://www.nasa.gov/missions/station/iss-research/studying-storms-from-space-station/" >🔗</a> **[NASA]** Studying Storms from Space Station
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/06/334th_ESA_Council_Media_information_session" >🔗</a> **[ESA]** 334th ESA Council: Media information session
 - <a href="https://spacenews.com/dawn-aerospace-sells-aurora-suborbital-spaceplane-to-oklahoma/" >🔗</a> **[SpaceNews]** Dawn Aerospace sells Aurora suborbital spaceplane to Oklahoma
 - <a href="https://spacenews.com/muon-space-raises-90-million-to-scale-satellite-production-and-acquire-propulsion-startup/" >🔗</a> **[SpaceNews]** Muon Space raises $90 million to scale satellite production and acquire propulsion startup
 - <a href="https://spacenews.com/voyager-looks-to-expanded-defense-and-space-opportunities-as-a-public-company/" >🔗</a> **[SpaceNews]** Voyager looks to expanded defense and space opportunities as a public company
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/blog/sol-4564-front-hazard-avoidance-camera-front-hazcam/" >🔗</a> **[NASA]** Sol 4564: Front Hazard Avoidance Camera (Front Hazcam)
 - <a href="https://spacenews.com/sierra-space-doubles-down-on-defense/" >🔗</a> **[SpaceNews]** Sierra Space doubles down on defense
 - <a href="https://spacenews.com/bae-systems-brings-south-koreas-hanwha-into-intelligence-gathering-constellation/" >🔗</a> **[SpaceNews]** BAE Systems brings South Korea’s Hanwha into intelligence-gathering constellation
-- <a href="https://spacenews.com/electron-launches-third-iqps-satellite-in-three-months/" >🔗</a> **[SpaceNews]** Electron launches third iQPS satellite in three months
-- <a href="https://spacenews.com/reaction-dynamics-prepares-for-takeoff/" >🔗</a> **[SpaceNews]** Reaction Dynamics prepares for takeoff
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/welcome-home-expedition-72-crew/" >🔗</a> **[NASA]** Welcome Home, Expedition 72 Crew!
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250612T140121">2025-06-12 14:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250612T143620">2025-06-12 14:36:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
