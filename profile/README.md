@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/french-ssa-company-look-up-raises-50-million-euros/" >🔗</a> **[SpaceNews]** French SSA company Look Up raises 50 million euros
 - <a href="https://spacepolicyonline.com/news/europe-looks-to-space-resilience-autonomy-amid-global-changes/" >🔗</a> **[SpacePolicyOnline.com]** Europe Looks to Space Resilience, Autonomy Amid Global Changes
 - <a href="https://spaceflightnow.com/2025/06/12/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 23 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://spacenews.com/house-appropriators-advance-defense-bill-slam-white-house-for-budget-delay/" >🔗</a> **[SpaceNews]** House appropriators advance defense bill, slam White House for budget delay
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2025/06/what-might-have-been-at-jared-isaacmans-nasa/" >🔗</a> **[Arstechnica]** What might have been at Jared Isaacman’s NASA
 - <a href="https://www.nasa.gov/image-article/nasas-sls-rocket-booster-separation-motors/" >🔗</a> **[NASA]** NASA’s SLS Rocket: Booster Separation Motors
 - <a href="https://europeanspaceflight.com/the-exploration-company-launches-mission-possible-recovery-vessel/" >🔗</a> **[European Spaceflight]** The Exploration Company Launches Mission Possible Recovery Vessel
-- <a href="https://www.nasa.gov/image-article/far-out/" >🔗</a> **[NASA]** Far Out
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250613T070129">2025-06-13 07:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250613T073307">2025-06-13 07:33:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
