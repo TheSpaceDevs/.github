@@ -19,34 +19,33 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 15-6**. It is scheduled to be launched by *SpaceX*
+**Falcon 9 Block 5 | Starlink Group 12-26**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
+from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral SFS, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250613T015450">2025-06-13 01:54:50 UTC</a>.  Until
-then, this pad will have been used for 198
-out of 812 launches from this location. The launch status is currently
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250613T152100">2025-06-13 15:21:00 UTC</a>.  Until
+then, this pad will have been used for 313
+out of 1029 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
 *Communications* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  A batch of 26 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  A batch of 23 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
   <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=34.632,-120.611" >
+  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250613T015450">2025-06-13 01:54:50 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 15-6&location=Vandenberg SFB, CA, USA&dates=20250613T015450Z%2F20250613T045910Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 15-6** from Vandenberg SFB, CA, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250613T114500">2025-06-13 11:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-26&location=Cape Canaveral SFS, FL, USA&dates=20250613T114500Z%2F20250613T161600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-26** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250613T152100">2025-06-13 15:21:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 12-26&location=Cape Canaveral SFS, FL, USA&dates=20250613T152100Z%2F20250613T154459Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 12-26** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250614T074800">2025-06-14 07:48:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2D | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20250614T074800Z%2F20250614T082200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2D | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250616T172500">2025-06-16 17:25:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 551 | Project Kuiper (KA-02)&location=Cape Canaveral SFS, FL, USA&dates=20250616T172500Z%2F20250616T175500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 551 | Project Kuiper (KA-02)** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250617T005100">2025-06-17 00:51:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 15-9&location=Vandenberg SFB, CA, USA&dates=20250617T005100Z%2F20250617T051400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 15-9** from Vandenberg SFB, CA, USA.
@@ -55,6 +54,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250620T063200">2025-06-20 06:32:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-23&location=Cape Canaveral SFS, FL, USA&dates=20250620T063200Z%2F20250620T110200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-23** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250620T122700">2025-06-20 12:27:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 3B/E | Unknown Payload&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20250620T122700Z%2F20250620T130200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 3B/E | Unknown Payload** from Xichang Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250620T211900">2025-06-20 21:19:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Transporter 14 (Dedicated SSO Rideshare)&location=Vandenberg SFB, CA, USA&dates=20250620T211900Z%2F20250620T223800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Transporter 14 (Dedicated SSO Rideshare)** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250621T123000">2025-06-21 12:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Shepard | NS-33&location=Corn Ranch, Van Horn, TX, USA&dates=20250621T123000Z%2F20250621T203000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Shepard | NS-33** from Corn Ranch, Van Horn, TX, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250613T012914">2025-06-13 01:29:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250613T021645">2025-06-13 02:16:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
