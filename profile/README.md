@@ -93,13 +93,13 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_09-13_June_2025" >🔗</a> **[ESA]** Week in images: 09-13 June 2025
 - <a href="https://spacenews.com/is-ai-the-next-frontier-in-spacecraft-design-or-just-a-shiny-buzzword/" >🔗</a> **[SpaceNews]** Is AI the next frontier in spacecraft design, or just a shiny buzzword?
 - <a href="https://spaceflightnow.com/2025/06/13/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-12/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 23 Starlink satellites on Falcon 9 rocket from Cape Canaveral
+- <a href="https://science.nasa.gov/missions/hubble/hubble-studies-a-spirals-supernova-scene/" >🔗</a> **[NASA]** Hubble Studies a Spiral’s Supernova Scene
 - <a href="https://spacenews.com/cas-space-performs-kinetica-2-first-stage-hot-fire-test-ahead-of-first-launch-and-cargo-demo/" >🔗</a> **[SpaceNews]** CAS Space performs Kinetica-2 first stage hot fire test ahead of first launch and cargo demo
 - <a href="https://www.esa.int/About_Us/ESA_at_Le_Bourget_2025" >🔗</a> **[ESA]** ESA at Le Bourget 2025
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/06/Earth_from_Space_East_Kalimantan_Borneo" >🔗</a> **[ESA]** Earth from Space: East Kalimantan, Borneo
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Belgian_endive_meatballs_and_microgravity" >🔗</a> **[ESA]** Belgian endive, meatballs and microgravity
 - <a href="https://spacenews.com/french-ssa-company-look-up-raises-50-million-euros/" >🔗</a> **[SpaceNews]** French SSA company Look Up raises 50 million euros
 - <a href="https://spacepolicyonline.com/news/europe-looks-to-space-resilience-autonomy-amid-global-changes/" >🔗</a> **[SpacePolicyOnline.com]** Europe Looks to Space Resilience, Autonomy Amid Global Changes
-- <a href="https://spaceflightnow.com/2025/06/12/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 23 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250613T140123">2025-06-13 14:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250613T143541">2025-06-13 14:35:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
