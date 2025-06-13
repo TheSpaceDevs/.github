@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/06/point-to-point-2025/" >🔗</a> **[NASASpaceflight]** Starship point-to-point: a potential future application or a capability flex?
 - <a href="https://www.nasa.gov/centers-and-facilities/kennedy/nasa-dod-practice-abort-scenarios-ahead-of-artemis-ii-moon-mission/" >🔗</a> **[NASA]** NASA, DoD Practice Abort Scenarios Ahead of Artemis II Moon Mission
 - <a href="https://spacenews.com/ast-spacemobile-reaches-deal-to-bankroll-ligados-viasat-settlement/" >🔗</a> **[SpaceNews]** AST SpaceMobile reaches deal to bankroll Ligado’s Viasat settlement
 - <a href="https://www.nasa.gov/image-article/cosmic-dawn-screening-at-greenbelt-cinema/" >🔗</a> **[NASA]** “Cosmic Dawn” Screening at Greenbelt Cinema
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_09-13_June_2025" >🔗</a> **[ESA]** Week in images: 09-13 June 2025
 - <a href="https://spacenews.com/is-ai-the-next-frontier-in-spacecraft-design-or-just-a-shiny-buzzword/" >🔗</a> **[SpaceNews]** Is AI the next frontier in spacecraft design, or just a shiny buzzword?
 - <a href="https://spaceflightnow.com/2025/06/13/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-12/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 23 Starlink satellites on Falcon 9 rocket from Cape Canaveral
-- <a href="https://science.nasa.gov/missions/hubble/hubble-studies-a-spirals-supernova-scene/" >🔗</a> **[NASA]** Hubble Studies a Spiral’s Supernova Scene
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250613T220123">2025-06-13 22:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250613T223514">2025-06-13 22:35:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
