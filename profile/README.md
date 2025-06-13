@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/06/13/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-12/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 23 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacenews.com/cas-space-performs-kinetica-2-first-stage-hot-fire-test-ahead-of-first-launch-and-cargo-demo/" >🔗</a> **[SpaceNews]** CAS Space performs Kinetica-2 first stage hot fire test ahead of first launch and cargo demo
 - <a href="https://www.esa.int/About_Us/ESA_at_Le_Bourget_2025" >🔗</a> **[ESA]** ESA at Le Bourget 2025
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/06/Earth_from_Space_East_Kalimantan_Borneo" >🔗</a> **[ESA]** Earth from Space: East Kalimantan, Borneo
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/06/12/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 23 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://spacenews.com/house-appropriators-advance-defense-bill-slam-white-house-for-budget-delay/" >🔗</a> **[SpaceNews]** House appropriators advance defense bill, slam White House for budget delay
 - <a href="https://science.nasa.gov/uncategorized/nustar-coloring-pages/" >🔗</a> **[NASA]** NuSTAR Coloring Pages
-- <a href="https://spacenews.com/logos-nets-50-million-to-advance-plans-for-more-than-4000-broadband-satellites/" >🔗</a> **[SpaceNews]** Logos nets $50 million to advance plans for more than 4,000 broadband satellites
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250613T120208">2025-06-13 12:02:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250613T124317">2025-06-13 12:43:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
