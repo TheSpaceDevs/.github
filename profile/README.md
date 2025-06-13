@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ast-spacemobile-reaches-deal-to-bankroll-ligados-viasat-settlement/" >🔗</a> **[SpaceNews]** AST SpaceMobile reaches deal to bankroll Ligado’s Viasat settlement
 - <a href="https://www.nasa.gov/image-article/cosmic-dawn-screening-at-greenbelt-cinema/" >🔗</a> **[NASA]** “Cosmic Dawn” Screening at Greenbelt Cinema
 - <a href="https://arstechnica.com/space/2025/06/theres-another-leak-on-the-iss-but-nasa-is-not-saying-much-about-it/" >🔗</a> **[Arstechnica]** There’s another leak on the ISS, but NASA is not saying much about it
 - <a href="https://spacenews.com/the-starlink-effect-ngso-services-to-dominate-maritime-satellite-communications-market/" >🔗</a> **[SpaceNews]** “The Starlink Effect”: NGSO Services to Dominate Maritime Satellite Communications Market
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spaceflightnow.com/2025/06/13/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-12/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 23 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://science.nasa.gov/missions/hubble/hubble-studies-a-spirals-supernova-scene/" >🔗</a> **[NASA]** Hubble Studies a Spiral’s Supernova Scene
 - <a href="https://spacenews.com/cas-space-performs-kinetica-2-first-stage-hot-fire-test-ahead-of-first-launch-and-cargo-demo/" >🔗</a> **[SpaceNews]** CAS Space performs Kinetica-2 first stage hot fire test ahead of first launch and cargo demo
-- <a href="https://www.esa.int/About_Us/ESA_at_Le_Bourget_2025" >🔗</a> **[ESA]** ESA at Le Bourget 2025
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250613T193112">2025-06-13 19:31:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250613T200125">2025-06-13 20:01:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
