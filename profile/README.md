@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/ESA_at_Le_Bourget_2025" >🔗</a> **[ESA]** ESA at Le Bourget 2025
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/06/Earth_from_Space_East_Kalimantan_Borneo" >🔗</a> **[ESA]** Earth from Space: East Kalimantan, Borneo
+- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Belgian_endive_meatballs_and_microgravity" >🔗</a> **[ESA]** Belgian endive, meatballs and microgravity
 - <a href="https://spacenews.com/french-ssa-company-look-up-raises-50-million-euros/" >🔗</a> **[SpaceNews]** French SSA company Look Up raises 50 million euros
 - <a href="https://spacepolicyonline.com/news/europe-looks-to-space-resilience-autonomy-amid-global-changes/" >🔗</a> **[SpacePolicyOnline.com]** Europe Looks to Space Resilience, Autonomy Amid Global Changes
 - <a href="https://spaceflightnow.com/2025/06/12/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 23 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/uncategorized/nustar-coloring-pages/" >🔗</a> **[NASA]** NuSTAR Coloring Pages
 - <a href="https://spacenews.com/logos-nets-50-million-to-advance-plans-for-more-than-4000-broadband-satellites/" >🔗</a> **[SpaceNews]** Logos nets $50 million to advance plans for more than 4,000 broadband satellites
 - <a href="https://spacenews.com/nasa-indefinitely-delays-private-astronaut-mission-citing-air-leak-in-russian-module/" >🔗</a> **[SpaceNews]** NASA indefinitely delays private astronaut mission, citing air leak in Russian module
-- <a href="https://arstechnica.com/space/2025/06/what-might-have-been-at-jared-isaacmans-nasa/" >🔗</a> **[Arstechnica]** What might have been at Jared Isaacman’s NASA
-- <a href="https://www.nasa.gov/image-article/nasas-sls-rocket-booster-separation-motors/" >🔗</a> **[NASA]** NASA’s SLS Rocket: Booster Separation Motors
-- <a href="https://europeanspaceflight.com/the-exploration-company-launches-mission-possible-recovery-vessel/" >🔗</a> **[European Spaceflight]** The Exploration Company Launches Mission Possible Recovery Vessel
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250613T090122">2025-06-13 09:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250613T093437">2025-06-13 09:34:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
