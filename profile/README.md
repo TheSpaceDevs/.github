@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/europe-looks-to-space-resilience-autonomy-amid-global-changes/" >🔗</a> **[SpacePolicyOnline.com]** Europe Looks to Space Resilience, Autonomy Amid Global Changes
 - <a href="https://spaceflightnow.com/2025/06/12/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 23 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://spacenews.com/house-appropriators-advance-defense-bill-slam-white-house-for-budget-delay/" >🔗</a> **[SpaceNews]** House appropriators advance defense bill, slam White House for budget delay
 - <a href="https://science.nasa.gov/uncategorized/nustar-coloring-pages/" >🔗</a> **[NASA]** NuSTAR Coloring Pages
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/nasas-sls-rocket-booster-separation-motors/" >🔗</a> **[NASA]** NASA’s SLS Rocket: Booster Separation Motors
 - <a href="https://europeanspaceflight.com/the-exploration-company-launches-mission-possible-recovery-vessel/" >🔗</a> **[European Spaceflight]** The Exploration Company Launches Mission Possible Recovery Vessel
 - <a href="https://www.nasa.gov/image-article/far-out/" >🔗</a> **[NASA]** Far Out
-- <a href="https://science.nasa.gov/earth/nasas-hurricane-science-tech-data-help-american-communities/" >🔗</a> **[NASA]** NASA’s Hurricane Science, Tech, Data Help American Communities
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250613T004557">2025-06-13 00:45:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250613T012914">2025-06-13 01:29:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
