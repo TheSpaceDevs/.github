@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/the-starlink-effect-ngso-services-to-dominate-maritime-satellite-communications-market/" >🔗</a> **[SpaceNews]** “The Starlink Effect”: NGSO Services to Dominate Maritime Satellite Communications Market
 - <a href="https://europeanspaceflight.com/germanys-polaris-spaceplanes-secures-e5-4m-in-new-funding/" >🔗</a> **[European Spaceflight]** Germany’s POLARIS Spaceplanes Secures €5.4M in New Funding
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_09-13_June_2025" >🔗</a> **[ESA]** Week in images: 09-13 June 2025
 - <a href="https://spacenews.com/is-ai-the-next-frontier-in-spacecraft-design-or-just-a-shiny-buzzword/" >🔗</a> **[SpaceNews]** Is AI the next frontier in spacecraft design, or just a shiny buzzword?
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.esa.int/About_Us/ESA_at_Le_Bourget_2025" >🔗</a> **[ESA]** ESA at Le Bourget 2025
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/06/Earth_from_Space_East_Kalimantan_Borneo" >🔗</a> **[ESA]** Earth from Space: East Kalimantan, Borneo
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Belgian_endive_meatballs_and_microgravity" >🔗</a> **[ESA]** Belgian endive, meatballs and microgravity
-- <a href="https://spacenews.com/french-ssa-company-look-up-raises-50-million-euros/" >🔗</a> **[SpaceNews]** French SSA company Look Up raises 50 million euros
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250613T160134">2025-06-13 16:01:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250613T163759">2025-06-13 16:37:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
