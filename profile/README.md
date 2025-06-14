@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-launches-new-seismo-electromagnetic-satellite-with-european-partners/" >🔗</a> **[SpaceNews]** China launches new seismo-electromagnetic satellite with European partners
 - <a href="https://spacenews.com/esa-studying-impacts-of-proposed-nasa-budget-cuts/" >🔗</a> **[SpaceNews]** ESA studying impacts of proposed NASA budget cuts
 - <a href="https://spacenews.com/american-pacific-corporation-finalizes-100-million-capacity-expansion-with-parent-company-approval/" >🔗</a> **[SpaceNews]** American Pacific Corporation Finalizes $100 Million Capacity Expansion with Parent Company Approval
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4568-4569-a-close-look-at-the-altadena-drill-hole-and-tailings/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4568-4569: A Close Look at the Altadena Drill Hole and Tailings
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/cosmic-dawn-screening-at-greenbelt-cinema/" >🔗</a> **[NASA]** “Cosmic Dawn” Screening at Greenbelt Cinema
 - <a href="https://arstechnica.com/space/2025/06/theres-another-leak-on-the-iss-but-nasa-is-not-saying-much-about-it/" >🔗</a> **[Arstechnica]** There’s another leak on the ISS, but NASA is not saying much about it
 - <a href="https://spacenews.com/the-starlink-effect-ngso-services-to-dominate-maritime-satellite-communications-market/" >🔗</a> **[SpaceNews]** “The Starlink Effect”: NGSO Services to Dominate Maritime Satellite Communications Market
-- <a href="https://europeanspaceflight.com/germanys-polaris-spaceplanes-secures-e5-4m-in-new-funding/" >🔗</a> **[European Spaceflight]** Germany’s POLARIS Spaceplanes Secures €5.4M in New Funding
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250614T190105">2025-06-14 19:01:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250614T193058">2025-06-14 19:30:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
