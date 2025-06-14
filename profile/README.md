@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/american-pacific-corporation-finalizes-100-million-capacity-expansion-with-parent-company-approval/" >🔗</a> **[SpaceNews]** American Pacific Corporation Finalizes $100 Million Capacity Expansion with Parent Company Approval
+- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4568-4569-a-close-look-at-the-altadena-drill-hole-and-tailings/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4568-4569: A Close Look at the Altadena Drill Hole and Tailings
 - <a href="https://www.nasaspaceflight.com/2025/06/point-to-point-2025/" >🔗</a> **[NASASpaceflight]** Starship point-to-point: a potential future application or a capability flex?
 - <a href="https://www.nasa.gov/centers-and-facilities/kennedy/nasa-dod-practice-abort-scenarios-ahead-of-artemis-ii-moon-mission/" >🔗</a> **[NASA]** NASA, DoD Practice Abort Scenarios Ahead of Artemis II Moon Mission
 - <a href="https://spacenews.com/ast-spacemobile-reaches-deal-to-bankroll-ligados-viasat-settlement/" >🔗</a> **[SpaceNews]** AST SpaceMobile reaches deal to bankroll Ligado’s Viasat settlement
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/the-starlink-effect-ngso-services-to-dominate-maritime-satellite-communications-market/" >🔗</a> **[SpaceNews]** “The Starlink Effect”: NGSO Services to Dominate Maritime Satellite Communications Market
 - <a href="https://europeanspaceflight.com/germanys-polaris-spaceplanes-secures-e5-4m-in-new-funding/" >🔗</a> **[European Spaceflight]** Germany’s POLARIS Spaceplanes Secures €5.4M in New Funding
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_09-13_June_2025" >🔗</a> **[ESA]** Week in images: 09-13 June 2025
-- <a href="https://spacenews.com/is-ai-the-next-frontier-in-spacecraft-design-or-just-a-shiny-buzzword/" >🔗</a> **[SpaceNews]** Is AI the next frontier in spacecraft design, or just a shiny buzzword?
-- <a href="https://spaceflightnow.com/2025/06/13/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-12/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 23 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250614T000459">2025-06-14 00:04:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250614T004554">2025-06-14 00:45:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
