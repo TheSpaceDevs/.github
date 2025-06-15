@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-sets-new-potential-launch-date-for-ax-4-mission-to-iss/" >🔗</a> **[SpaceNews]** NASA sets new potential launch date for Ax-4 mission to ISS
 - <a href="https://spacepolicyonline.com/news/nasa-confirming-success-of-iss-leak-repairs-before-finalizing-ax-4-launch-date/" >🔗</a> **[SpacePolicyOnline.com]** NASA Confirming Success of ISS Leak Repairs Before Finalizing Ax-4 Launch Date
 - <a href="https://spacenews.com/china-launches-new-seismo-electromagnetic-satellite-with-european-partners/" >🔗</a> **[SpaceNews]** China launches new seismo-electromagnetic satellite with European partners
 - <a href="https://spacenews.com/esa-studying-impacts-of-proposed-nasa-budget-cuts/" >🔗</a> **[SpaceNews]** ESA studying impacts of proposed NASA budget cuts
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/kennedy/nasa-dod-practice-abort-scenarios-ahead-of-artemis-ii-moon-mission/" >🔗</a> **[NASA]** NASA, DoD Practice Abort Scenarios Ahead of Artemis II Moon Mission
 - <a href="https://spacenews.com/ast-spacemobile-reaches-deal-to-bankroll-ligados-viasat-settlement/" >🔗</a> **[SpaceNews]** AST SpaceMobile reaches deal to bankroll Ligado’s Viasat settlement
 - <a href="https://www.nasa.gov/image-article/cosmic-dawn-screening-at-greenbelt-cinema/" >🔗</a> **[NASA]** “Cosmic Dawn” Screening at Greenbelt Cinema
-- <a href="https://arstechnica.com/space/2025/06/theres-another-leak-on-the-iss-but-nasa-is-not-saying-much-about-it/" >🔗</a> **[Arstechnica]** There’s another leak on the ISS, but NASA is not saying much about it
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250615T090134">2025-06-15 09:01:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250615T093321">2025-06-15 09:33:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
