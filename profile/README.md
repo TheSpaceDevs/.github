@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-lays-foundation-for-cislunar-infrastructure-with-spacecraft-in-novel-lunar-orbits/" >🔗</a> **[SpaceNews]** China lays foundation for cislunar infrastructure with spacecraft in novel lunar orbits
 - <a href="https://spacenews.com/astroscale-secures-uk-defense-contract-for-space-weather-object-tracking-mission/" >🔗</a> **[SpaceNews]** Astroscale secures UK defense contract for space weather, object-tracking mission
 - <a href="https://spacenews.com/an-international-commission-to-protect-space-cultural-heritage-on-the-moon-is-needed-now/" >🔗</a> **[SpaceNews]** An international commission to protect space cultural heritage on the moon is needed now
 - <a href="https://spacenews.com/blacksky-unveils-wide-area-imaging-satellite/" >🔗</a> **[SpaceNews]** BlackSky unveils wide-area imaging satellite
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/johnsons-jason-foster-recognized-for-new-technology-reporting-record/" >🔗</a> **[NASA]** Johnson’s Jason Foster Recognized for New Technology Reporting Record
 - <a href="https://spacenews.com/chinas-cangyu-plans-mixed-orbit-commercial-data-relay-satellite-system/" >🔗</a> **[SpaceNews]** China’s Cangyu plans mixed-orbit commercial data relay satellite system
 - <a href="https://spacenews.com/ursa-major-secures-32-9-million-contract-to-supply-engines-for-u-s-military-hypersonic-tests/" >🔗</a> **[SpaceNews]** Ursa Major secures $32.9 million contract to supply engines for U.S. military hypersonic tests
-- <a href="https://www.nasaspaceflight.com/2025/06/solar-orbiter-south-pole/" >🔗</a> **[NASASpaceflight]** Solar Orbiter makes first ever observations of Sun’s south pole, reveals messy magnetic field
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250616T140138">2025-06-16 14:01:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250616T143618">2025-06-16 14:36:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
