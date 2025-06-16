@@ -23,7 +23,7 @@ The next space launch, retrieved from our
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
 from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_41">Space Launch Complex 41</a>, Cape Canaveral SFS, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250616T172500">2025-06-16 17:25:00 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250616T172530">2025-06-16 17:25:30 UTC</a>.  Until
 then, this pad will have been used for 115
 out of 1030 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
@@ -45,7 +45,7 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250616T172500">2025-06-16 17:25:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 551 | Project Kuiper (KA-02)&location=Cape Canaveral SFS, FL, USA&dates=20250616T172500Z%2F20250616T175500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 551 | Project Kuiper (KA-02)** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250616T172530">2025-06-16 17:25:30 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 551 | Project Kuiper (KA-02)&location=Cape Canaveral SFS, FL, USA&dates=20250616T172530Z%2F20250616T175430Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 551 | Project Kuiper (KA-02)** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250617T033650">2025-06-17 03:36:50 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 15-9&location=Vandenberg SFB, CA, USA&dates=20250617T033650Z%2F20250617T040719Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 15-9** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250618T053800">2025-06-18 05:38:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-18&location=Cape Canaveral SFS, FL, USA&dates=20250618T053800Z%2F20250618T100800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-18** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250619T023000">2025-06-19 02:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Angara A5/Briz-M | Kosmos (Unknown Payload)&location=Plesetsk Cosmodrome, Russian Federation&dates=20250619T023000Z%2F20250619T040000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Angara A5/Briz-M | Kosmos (Unknown Payload)** from Plesetsk Cosmodrome, Russian Federation.
@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/members-of-congress-want-white-house-to-quickly-nominate-new-nasa-administrator/" >🔗</a> **[SpaceNews]** Members of Congress want White House to quickly nominate new NASA administrator
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/johnsons-jason-foster-recognized-for-new-technology-reporting-record/" >🔗</a> **[NASA]** Johnson’s Jason Foster Recognized for New Technology Reporting Record
 - <a href="https://spacenews.com/chinas-cangyu-plans-mixed-orbit-commercial-data-relay-satellite-system/" >🔗</a> **[SpaceNews]** China’s Cangyu plans mixed-orbit commercial data relay satellite system
 - <a href="https://spacenews.com/ursa-major-secures-32-9-million-contract-to-supply-engines-for-u-s-military-hypersonic-tests/" >🔗</a> **[SpaceNews]** Ursa Major secures $32.9 million contract to supply engines for U.S. military hypersonic tests
 - <a href="https://www.nasaspaceflight.com/2025/06/solar-orbiter-south-pole/" >🔗</a> **[NASASpaceflight]** Solar Orbiter makes first ever observations of Sun’s south pole, reveals messy magnetic field
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/esa-moving-ahead-with-resilience-from-space-satellite-imaging-program/" >🔗</a> **[SpaceNews]** ESA moving ahead with ‘resilience from space’ satellite imaging program
 - <a href="https://spacenews.com/nasa-sets-new-potential-launch-date-for-ax-4-mission-to-iss/" >🔗</a> **[SpaceNews]** NASA sets new potential launch date for Ax-4 mission to ISS
 - <a href="https://spacepolicyonline.com/news/nasa-confirming-success-of-iss-leak-repairs-before-finalizing-ax-4-launch-date/" >🔗</a> **[SpacePolicyOnline.com]** NASA Confirming Success of ISS Leak Repairs Before Finalizing Ax-4 Launch Date
-- <a href="https://spacenews.com/china-launches-new-seismo-electromagnetic-satellite-with-european-partners/" >🔗</a> **[SpaceNews]** China launches new seismo-electromagnetic satellite with European partners
-- <a href="https://spacenews.com/esa-studying-impacts-of-proposed-nasa-budget-cuts/" >🔗</a> **[SpaceNews]** ESA studying impacts of proposed NASA budget cuts
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250616T100138">2025-06-16 10:01:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250616T103739">2025-06-16 10:37:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
