@@ -26,7 +26,7 @@ from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#S
 at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250617T033650">2025-06-17 03:36:50 UTC</a>.  Until
 then, this pad will have been used for 199
 out of 813 launches from this location. The launch status is currently
-*TBC* 🟨 . The mission type is
+*Go* 🟩 . The mission type is
 *Communications* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
@@ -45,7 +45,7 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250617T033650">2025-06-17 03:36:50 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 15-9&location=Vandenberg SFB, CA, USA&dates=20250617T033650Z%2F20250617T040719Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 15-9** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250617T033650">2025-06-17 03:36:50 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 15-9&location=Vandenberg SFB, CA, USA&dates=20250617T033650Z%2F20250617T040719Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 15-9** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250618T053800">2025-06-18 05:38:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-18&location=Cape Canaveral SFS, FL, USA&dates=20250618T053800Z%2F20250618T100800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-18** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250619T023000">2025-06-19 02:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Angara A5/Briz-M | Kosmos (Unknown Payload)&location=Plesetsk Cosmodrome, Russian Federation&dates=20250619T023000Z%2F20250619T040000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Angara A5/Briz-M | Kosmos (Unknown Payload)** from Plesetsk Cosmodrome, Russian Federation.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250619T085300">2025-06-19 08:53:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Axiom Space Mission 4&location=Kennedy Space Center, FL, USA&dates=20250619T085300Z%2F20250619T085300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Axiom Space Mission 4** from Kennedy Space Center, FL, USA.
@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/fcc-highlights-national-security-role-in-satellite-licensing-reforms/" >🔗</a> **[SpaceNews]** FCC highlights national security role in satellite licensing reforms
+- <a href="https://www.nasa.gov/missions/osiris-rex/nasa-employees-named-2025-service-to-america-medals-honorees/" >🔗</a> **[NASA]** NASA Employees Named 2025 Service to America Medals Honorees
 - <a href="https://www.nasaspaceflight.com/2025/06/launch-roundup-061625/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Missions to launch from the U.S., China, Japan, and Russia
 - <a href="https://www.nasa.gov/image-article/hubble-studies-a-spirals-supernova-scene/" >🔗</a> **[NASA]** Hubble Studies a Spiral’s Supernova Scene
 - <a href="https://europeanspaceflight.com/esa-director-says-europe-has-the-capabilities-to-replace-nasa-contributions/" >🔗</a> **[European Spaceflight]** ESA Director Says Europe Has the Capabilities to Replace NASA Contributions
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/06/First_artificial_solar_eclipse_in_space" >🔗</a> **[ESA]** First artificial solar eclipse in space
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba-3/Proba-3_s_first_artificial_solar_eclipse" >🔗</a> **[ESA]** Proba-3’s first artificial solar eclipse
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/06/ESA-CNES_press_conference_at_Le_Bourget_Paris_Air_Show_2025" >🔗</a> **[ESA]** ESA-CNES press conference at Le Bourget Paris Air Show 2025
-- <a href="https://spacenews.com/china-lays-foundation-for-cislunar-infrastructure-with-spacecraft-in-novel-lunar-orbits/" >🔗</a> **[SpaceNews]** China lays foundation for cislunar infrastructure with spacecraft in novel lunar orbits
-- <a href="https://spacenews.com/astroscale-secures-uk-defense-contract-for-space-weather-object-tracking-mission/" >🔗</a> **[SpaceNews]** Astroscale secures UK defense contract for space weather, object-tracking mission
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250616T220127">2025-06-16 22:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250616T223520">2025-06-16 22:35:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
