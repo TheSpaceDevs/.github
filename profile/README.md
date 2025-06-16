@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ursa-major-secures-32-9-million-contract-to-supply-engines-for-u-s-military-hypersonic-tests/" >🔗</a> **[SpaceNews]** Ursa Major secures $32.9 million contract to supply engines for U.S. military hypersonic tests
 - <a href="https://www.nasaspaceflight.com/2025/06/solar-orbiter-south-pole/" >🔗</a> **[NASASpaceflight]** Solar Orbiter makes first ever observations of Sun’s south pole, reveals messy magnetic field
 - <a href="https://spaceflightnow.com/2025/06/15/live-coverage-ula-to-launch-atlas-5-rocket-with-2nd-batch-of-project-kuiper-satellites-for-amazon/" >🔗</a> **[Spaceflight Now]** Live coverage: ULA to launch Atlas 5 rocket with 2nd batch of Project Kuiper satellites for Amazon
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-june-15-21-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy June 15-21, 2025
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/china-launches-new-seismo-electromagnetic-satellite-with-european-partners/" >🔗</a> **[SpaceNews]** China launches new seismo-electromagnetic satellite with European partners
 - <a href="https://spacenews.com/esa-studying-impacts-of-proposed-nasa-budget-cuts/" >🔗</a> **[SpaceNews]** ESA studying impacts of proposed NASA budget cuts
 - <a href="https://spacenews.com/american-pacific-corporation-finalizes-100-million-capacity-expansion-with-parent-company-approval/" >🔗</a> **[SpaceNews]** American Pacific Corporation Finalizes $100 Million Capacity Expansion with Parent Company Approval
-- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4568-4569-a-close-look-at-the-altadena-drill-hole-and-tailings/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4568-4569: A Close Look at the Altadena Drill Hole and Tailings
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250616T050232">2025-06-16 05:02:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250616T053623">2025-06-16 05:36:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
