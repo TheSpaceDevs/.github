@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/06/16/live-coverage-spacex-to-launch-26-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-3/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 26 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
+- <a href="https://science.nasa.gov/solar-system/sun/explore-our-dynamic-sun/" >🔗</a> **[NASA]** Explore Our Dynamic Sun!
 - <a href="https://spacenews.com/fcc-highlights-national-security-role-in-satellite-licensing-reforms/" >🔗</a> **[SpaceNews]** FCC highlights national security role in satellite licensing reforms
 - <a href="https://www.nasa.gov/missions/osiris-rex/nasa-employees-named-2025-service-to-america-medals-honorees/" >🔗</a> **[NASA]** NASA Employees Named 2025 Service to America Medals Honorees
 - <a href="https://www.nasaspaceflight.com/2025/06/launch-roundup-061625/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Missions to launch from the U.S., China, Japan, and Russia
@@ -97,9 +99,7 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/esa-director-says-europe-has-the-capabilities-to-replace-nasa-contributions/" >🔗</a> **[European Spaceflight]** ESA Director Says Europe Has the Capabilities to Replace NASA Contributions
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasa-announces-winners-of-2025-student-launch-competition/" >🔗</a> **[NASA]** NASA Announces Winners of 2025 Student Launch Competition
 - <a href="https://www.nasa.gov/humans-in-space/commercial-space/nasa-seeks-commercial-feedback-on-space-communication-solutions/" >🔗</a> **[NASA]** NASA Seeks Commercial Feedback on Space Communication Solutions
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/06/First_artificial_solar_eclipse_in_space" >🔗</a> **[ESA]** First artificial solar eclipse in space
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba-3/Proba-3_s_first_artificial_solar_eclipse" >🔗</a> **[ESA]** Proba-3’s first artificial solar eclipse
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/06/ESA-CNES_press_conference_at_Le_Bourget_Paris_Air_Show_2025" >🔗</a> **[ESA]** ESA-CNES press conference at Le Bourget Paris Air Show 2025
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250616T230120">2025-06-16 23:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250616T233306">2025-06-16 23:33:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
