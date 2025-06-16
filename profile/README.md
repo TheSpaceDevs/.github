@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/the-administrations-anti-consensus-mars-plan-will-fail/" >🔗</a> **[SpaceNews]** The administration’s anti-consensus Mars plan will fail
 - <a href="https://spacenews.com/members-of-congress-want-white-house-to-quickly-nominate-new-nasa-administrator/" >🔗</a> **[SpaceNews]** Members of Congress want White House to quickly nominate new NASA administrator
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/johnsons-jason-foster-recognized-for-new-technology-reporting-record/" >🔗</a> **[NASA]** Johnson’s Jason Foster Recognized for New Technology Reporting Record
 - <a href="https://spacenews.com/chinas-cangyu-plans-mixed-orbit-commercial-data-relay-satellite-system/" >🔗</a> **[SpaceNews]** China’s Cangyu plans mixed-orbit commercial data relay satellite system
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-june-15-21-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy June 15-21, 2025
 - <a href="https://spacenews.com/esa-moving-ahead-with-resilience-from-space-satellite-imaging-program/" >🔗</a> **[SpaceNews]** ESA moving ahead with ‘resilience from space’ satellite imaging program
 - <a href="https://spacenews.com/nasa-sets-new-potential-launch-date-for-ax-4-mission-to-iss/" >🔗</a> **[SpaceNews]** NASA sets new potential launch date for Ax-4 mission to ISS
-- <a href="https://spacepolicyonline.com/news/nasa-confirming-success-of-iss-leak-repairs-before-finalizing-ax-4-launch-date/" >🔗</a> **[SpacePolicyOnline.com]** NASA Confirming Success of ISS Leak Repairs Before Finalizing Ax-4 Launch Date
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250616T110117">2025-06-16 11:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250616T113226">2025-06-16 11:32:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
