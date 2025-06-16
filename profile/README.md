@@ -98,8 +98,8 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/astroscale-secures-uk-defense-contract-for-space-weather-object-tracking-mission/" >🔗</a> **[SpaceNews]** Astroscale secures UK defense contract for space weather, object-tracking mission
 - <a href="https://spacenews.com/an-international-commission-to-protect-space-cultural-heritage-on-the-moon-is-needed-now/" >🔗</a> **[SpaceNews]** An international commission to protect space cultural heritage on the moon is needed now
 - <a href="https://spacenews.com/blacksky-unveils-wide-area-imaging-satellite/" >🔗</a> **[SpaceNews]** BlackSky unveils wide-area imaging satellite
+- <a href="https://www.esa.int/Newsroom/Press_Releases/ESA_teams_up_with_Leonardo_against_satnav_jamming" >🔗</a> **[ESA]** ESA teams up with Leonardo against satnav jamming
 - <a href="https://spacenews.com/a-modular-future-for-earth-observation-how-domino-e-is-unlocking-innovation-sovereignty-and-access/" >🔗</a> **[SpaceNews]** A Modular Future for Earth Observation: How Domino-E is Unlocking Innovation, Sovereignty, and Access
-- <a href="https://spacenews.com/the-administrations-anti-consensus-mars-plan-will-fail/" >🔗</a> **[SpaceNews]** The administration’s anti-consensus Mars plan will fail
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250616T160127">2025-06-16 16:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250616T163822">2025-06-16 16:38:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
