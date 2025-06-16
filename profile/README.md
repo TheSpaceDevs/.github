@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/06/launch-roundup-061625/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Missions to launch from the U.S., China, Japan, and Russia
 - <a href="https://www.nasa.gov/image-article/hubble-studies-a-spirals-supernova-scene/" >🔗</a> **[NASA]** Hubble Studies a Spiral’s Supernova Scene
 - <a href="https://europeanspaceflight.com/esa-director-says-europe-has-the-capabilities-to-replace-nasa-contributions/" >🔗</a> **[European Spaceflight]** ESA Director Says Europe Has the Capabilities to Replace NASA Contributions
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasa-announces-winners-of-2025-student-launch-competition/" >🔗</a> **[NASA]** NASA Announces Winners of 2025 Student Launch Competition
 - <a href="https://www.nasa.gov/humans-in-space/commercial-space/nasa-seeks-commercial-feedback-on-space-communication-solutions/" >🔗</a> **[NASA]** NASA Seeks Commercial Feedback on Space Communication Solutions
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/06/ESA-CNES_press_conference_at_Le_Bourget_Paris_Air_Show_2025" >🔗</a> **[ESA]** ESA-CNES press conference at Le Bourget Paris Air Show 2025
-- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba-3/Proba-3_s_first_artificial_solar_eclipse" >🔗</a> **[ESA]** Proba-3’s first artificial solar eclipse
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/06/First_artificial_solar_eclipse_in_space" >🔗</a> **[ESA]** First artificial solar eclipse in space
+- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba-3/Proba-3_s_first_artificial_solar_eclipse" >🔗</a> **[ESA]** Proba-3’s first artificial solar eclipse
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/06/ESA-CNES_press_conference_at_Le_Bourget_Paris_Air_Show_2025" >🔗</a> **[ESA]** ESA-CNES press conference at Le Bourget Paris Air Show 2025
 - <a href="https://spacenews.com/china-lays-foundation-for-cislunar-infrastructure-with-spacecraft-in-novel-lunar-orbits/" >🔗</a> **[SpaceNews]** China lays foundation for cislunar infrastructure with spacecraft in novel lunar orbits
 - <a href="https://spacenews.com/astroscale-secures-uk-defense-contract-for-space-weather-object-tracking-mission/" >🔗</a> **[SpaceNews]** Astroscale secures UK defense contract for space weather, object-tracking mission
-- <a href="https://spacenews.com/an-international-commission-to-protect-space-cultural-heritage-on-the-moon-is-needed-now/" >🔗</a> **[SpaceNews]** An international commission to protect space cultural heritage on the moon is needed now
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250616T210124">2025-06-16 21:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250616T213320">2025-06-16 21:33:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
