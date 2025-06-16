@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasa-announces-winners-of-2025-student-launch-competition/" >🔗</a> **[NASA]** NASA Announces Winners of 2025 Student Launch Competition
+- <a href="https://www.nasa.gov/humans-in-space/commercial-space/nasa-seeks-commercial-feedback-on-space-communication-solutions/" >🔗</a> **[NASA]** NASA Seeks Commercial Feedback on Space Communication Solutions
+- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba-3/Proba-3_s_first_artificial_solar_eclipse" >🔗</a> **[ESA]** Proba-3’s first artificial solar eclipse
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/06/ESA-CNES_press_conference_at_Le_Bourget_Paris_Air_Show_2025" >🔗</a> **[ESA]** ESA-CNES press conference at Le Bourget Paris Air Show 2025
 - <a href="https://spacenews.com/china-lays-foundation-for-cislunar-infrastructure-with-spacecraft-in-novel-lunar-orbits/" >🔗</a> **[SpaceNews]** China lays foundation for cislunar infrastructure with spacecraft in novel lunar orbits
 - <a href="https://spacenews.com/astroscale-secures-uk-defense-contract-for-space-weather-object-tracking-mission/" >🔗</a> **[SpaceNews]** Astroscale secures UK defense contract for space weather, object-tracking mission
 - <a href="https://spacenews.com/an-international-commission-to-protect-space-cultural-heritage-on-the-moon-is-needed-now/" >🔗</a> **[SpaceNews]** An international commission to protect space cultural heritage on the moon is needed now
 - <a href="https://spacenews.com/blacksky-unveils-wide-area-imaging-satellite/" >🔗</a> **[SpaceNews]** BlackSky unveils wide-area imaging satellite
 - <a href="https://spacenews.com/a-modular-future-for-earth-observation-how-domino-e-is-unlocking-innovation-sovereignty-and-access/" >🔗</a> **[SpaceNews]** A Modular Future for Earth Observation: How Domino-E is Unlocking Innovation, Sovereignty, and Access
 - <a href="https://spacenews.com/the-administrations-anti-consensus-mars-plan-will-fail/" >🔗</a> **[SpaceNews]** The administration’s anti-consensus Mars plan will fail
-- <a href="https://spacenews.com/members-of-congress-want-white-house-to-quickly-nominate-new-nasa-administrator/" >🔗</a> **[SpaceNews]** Members of Congress want White House to quickly nominate new NASA administrator
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/johnsons-jason-foster-recognized-for-new-technology-reporting-record/" >🔗</a> **[NASA]** Johnson’s Jason Foster Recognized for New Technology Reporting Record
-- <a href="https://spacenews.com/chinas-cangyu-plans-mixed-orbit-commercial-data-relay-satellite-system/" >🔗</a> **[SpaceNews]** China’s Cangyu plans mixed-orbit commercial data relay satellite system
-- <a href="https://spacenews.com/ursa-major-secures-32-9-million-contract-to-supply-engines-for-u-s-military-hypersonic-tests/" >🔗</a> **[SpaceNews]** Ursa Major secures $32.9 million contract to supply engines for U.S. military hypersonic tests
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250616T150127">2025-06-16 15:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250616T153525">2025-06-16 15:35:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
