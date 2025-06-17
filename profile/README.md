@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-welcomes-community-astronauts-to-marshalls-65th-anniversary-celebration-july-19/" >🔗</a> **[NASA]** NASA Welcomes Community, Astronauts to Marshall’s 65th Anniversary Celebration July 19
+- <a href="https://spacenews.com/ceos-push-back-on-proposed-cuts-to-commercial-satellite-imaging-programs/" >🔗</a> **[SpaceNews]** CEOs push back on proposed cuts to commercial satellite imaging programs
+- <a href="https://science.nasa.gov/earth/from-space-to-soil-how-nasa-sees-forests/" >🔗</a> **[NASA]** From Space to Soil: How NASA Sees Forests
 - <a href="https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-engineers-simulate-lunar-lighting-for-artemis-iii-moon-landing/" >🔗</a> **[NASA]** NASA Engineers Simulate Lunar Lighting for Artemis III Moon Landing
 - <a href="https://www.nasa.gov/image-article/training-for-the-moon/" >🔗</a> **[NASA]** Training for the Moo(n)
 - <a href="https://www.esa.int/About_Us/ESA_at_Le_Bourget_2025/ESA_at_Le_Bourget_2025_-_Day_Two_Highlights" >🔗</a> **[ESA]** ESA at Le Bourget 2025 - Day Two Highlights
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/cnes-taps-arianegroup-to-lead-reusable-rocket-engine-project/" >🔗</a> **[European Spaceflight]** CNES Taps ArianeGroup to Lead Reusable Rocket Engine Project
 - <a href="https://www.nasa.gov/news-release/nasa-german-aerospace-center-to-expand-artemis-campaign-cooperation/" >🔗</a> **[NASA]** NASA, German Aerospace Center to Expand Artemis Campaign Cooperation
 - <a href="https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/a-new-hybrid-system-could-enable-spacecraft-attitude-control-systems-to-perform-scientific-measurements/" >🔗</a> **[NASA]** A New Hybrid System Could Enable Spacecraft Attitude Control Systems to Perform Scientific Measurements
-- <a href="https://www.nasa.gov/science-research/for-researchers/a-researchers-guide-to-microgravity-materials-research/" >🔗</a> **[NASA]** A Researcher’s Guide to: Microgravity Materials Research
-- <a href="https://spacenews.com/desert-works-propulsion-successfully-tests-prototype-cathodes-for-turion-space-tie-20-thruster/" >🔗</a> **[SpaceNews]** Desert Works Propulsion Successfully Tests Prototype Cathodes for Turion Space TIE-20 Thruster
-- <a href="https://spacenews.com/the-exploration-company-outlines-plans-for-human-spaceflight/" >🔗</a> **[SpaceNews]** The Exploration Company outlines plans for human spaceflight
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250617T200146">2025-06-17 20:01:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250617T203453">2025-06-17 20:34:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
