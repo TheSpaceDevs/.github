@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/06/17/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-6/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacenews.com/july-decision-expected-on-combination-of-european-space-companies/" >🔗</a> **[SpaceNews]** July decision expected on combination of European space companies
 - <a href="https://www.nasa.gov/learning-resources/career-exploration-using-ingenuity-and-innovation-to-create-memory-metals/" >🔗</a> **[NASA]** Career Exploration: Using Ingenuity and Innovation to Create ‘Memory Metals’
 - <a href="https://www.nasa.gov/news-release/nasa-welcomes-community-astronauts-to-marshalls-65th-anniversary-celebration-july-19/" >🔗</a> **[NASA]** NASA Welcomes Community, Astronauts to Marshall’s 65th Anniversary Celebration July 19
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/training-for-the-moon/" >🔗</a> **[NASA]** Training for the Moo(n)
 - <a href="https://www.esa.int/About_Us/ESA_at_Le_Bourget_2025/ESA_at_Le_Bourget_2025_-_Day_Two_Highlights" >🔗</a> **[ESA]** ESA at Le Bourget 2025 - Day Two Highlights
 - <a href="https://www.nasaspaceflight.com/2025/06/atmos-space-cargo/" >🔗</a> **[NASASpaceflight]** How ATMOS Space Cargo is shaping Europe’s spaceflight future through reentry capsules
-- <a href="https://europeanspaceflight.com/cnes-taps-arianegroup-to-lead-reusable-rocket-engine-project/" >🔗</a> **[European Spaceflight]** CNES Taps ArianeGroup to Lead Reusable Rocket Engine Project
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250617T230123">2025-06-17 23:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250617T233311">2025-06-17 23:33:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
