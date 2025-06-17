@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/the-exploration-company-outlines-plans-for-human-spaceflight/" >🔗</a> **[SpaceNews]** The Exploration Company outlines plans for human spaceflight
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/driven-by-a-dream-farah-al-fulfulees-quest-to-reach-the-stars/" >🔗</a> **[NASA]** Driven by a Dream: Farah Al Fulfulee’s Quest to Reach the Stars
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/LISA/Construction_of_ESA_s_ambitious_LISA_mission_begins" >🔗</a> **[ESA]** Construction of ESA’s ambitious LISA mission begins
 - <a href="https://spacenews.com/china-conducts-pad-abort-test-for-crew-spacecraft-advancing-moon-landing-plans/" >🔗</a> **[SpaceNews]** China conducts pad abort test for crew spacecraft, advancing moon landing plans
 - <a href="https://spaceflightnow.com/2025/06/16/live-coverage-spacex-to-launch-26-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-3/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 26 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://science.nasa.gov/solar-system/sun/explore-our-dynamic-sun/" >🔗</a> **[NASA]** Explore Our Dynamic Sun!
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/missions/osiris-rex/nasa-employees-named-2025-service-to-america-medals-honorees/" >🔗</a> **[NASA]** NASA Employees Named 2025 Service to America Medals Honorees
 - <a href="https://www.nasaspaceflight.com/2025/06/launch-roundup-061625/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Missions to launch from the U.S., China, Japan, and Russia
 - <a href="https://www.nasa.gov/image-article/hubble-studies-a-spirals-supernova-scene/" >🔗</a> **[NASA]** Hubble Studies a Spiral’s Supernova Scene
-- <a href="https://europeanspaceflight.com/esa-director-says-europe-has-the-capabilities-to-replace-nasa-contributions/" >🔗</a> **[European Spaceflight]** ESA Director Says Europe Has the Capabilities to Replace NASA Contributions
-- <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasa-announces-winners-of-2025-student-launch-competition/" >🔗</a> **[NASA]** NASA Announces Winners of 2025 Student Launch Competition
-- <a href="https://www.nasa.gov/humans-in-space/commercial-space/nasa-seeks-commercial-feedback-on-space-communication-solutions/" >🔗</a> **[NASA]** NASA Seeks Commercial Feedback on Space Communication Solutions
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250617T100121">2025-06-17 10:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250617T103704">2025-06-17 10:37:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
