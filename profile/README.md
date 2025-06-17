@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-conducts-pad-abort-test-for-crew-spacecraft-advancing-moon-landing-plans/" >🔗</a> **[SpaceNews]** China conducts pad abort test for crew spacecraft, advancing moon landing plans
 - <a href="https://spaceflightnow.com/2025/06/16/live-coverage-spacex-to-launch-26-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-3/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 26 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://science.nasa.gov/solar-system/sun/explore-our-dynamic-sun/" >🔗</a> **[NASA]** Explore Our Dynamic Sun!
 - <a href="https://spacenews.com/fcc-highlights-national-security-role-in-satellite-licensing-reforms/" >🔗</a> **[SpaceNews]** FCC highlights national security role in satellite licensing reforms
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/esa-director-says-europe-has-the-capabilities-to-replace-nasa-contributions/" >🔗</a> **[European Spaceflight]** ESA Director Says Europe Has the Capabilities to Replace NASA Contributions
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasa-announces-winners-of-2025-student-launch-competition/" >🔗</a> **[NASA]** NASA Announces Winners of 2025 Student Launch Competition
 - <a href="https://www.nasa.gov/humans-in-space/commercial-space/nasa-seeks-commercial-feedback-on-space-communication-solutions/" >🔗</a> **[NASA]** NASA Seeks Commercial Feedback on Space Communication Solutions
-- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba-3/Proba-3_s_first_artificial_solar_eclipse" >🔗</a> **[ESA]** Proba-3’s first artificial solar eclipse
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250617T080137">2025-06-17 08:01:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250617T083838">2025-06-17 08:38:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
