@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/july-decision-expected-on-combination-of-european-space-companies/" >🔗</a> **[SpaceNews]** July decision expected on combination of European space companies
+- <a href="https://www.nasa.gov/learning-resources/career-exploration-using-ingenuity-and-innovation-to-create-memory-metals/" >🔗</a> **[NASA]** Career Exploration: Using Ingenuity and Innovation to Create ‘Memory Metals’
 - <a href="https://www.nasa.gov/news-release/nasa-welcomes-community-astronauts-to-marshalls-65th-anniversary-celebration-july-19/" >🔗</a> **[NASA]** NASA Welcomes Community, Astronauts to Marshall’s 65th Anniversary Celebration July 19
 - <a href="https://spacenews.com/ceos-push-back-on-proposed-cuts-to-commercial-satellite-imaging-programs/" >🔗</a> **[SpaceNews]** CEOs push back on proposed cuts to commercial satellite imaging programs
 - <a href="https://science.nasa.gov/earth/from-space-to-soil-how-nasa-sees-forests/" >🔗</a> **[NASA]** From Space to Soil: How NASA Sees Forests
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/About_Us/ESA_at_Le_Bourget_2025/ESA_at_Le_Bourget_2025_-_Day_Two_Highlights" >🔗</a> **[ESA]** ESA at Le Bourget 2025 - Day Two Highlights
 - <a href="https://www.nasaspaceflight.com/2025/06/atmos-space-cargo/" >🔗</a> **[NASASpaceflight]** How ATMOS Space Cargo is shaping Europe’s spaceflight future through reentry capsules
 - <a href="https://europeanspaceflight.com/cnes-taps-arianegroup-to-lead-reusable-rocket-engine-project/" >🔗</a> **[European Spaceflight]** CNES Taps ArianeGroup to Lead Reusable Rocket Engine Project
-- <a href="https://www.nasa.gov/news-release/nasa-german-aerospace-center-to-expand-artemis-campaign-cooperation/" >🔗</a> **[NASA]** NASA, German Aerospace Center to Expand Artemis Campaign Cooperation
-- <a href="https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/a-new-hybrid-system-could-enable-spacecraft-attitude-control-systems-to-perform-scientific-measurements/" >🔗</a> **[NASA]** A New Hybrid System Could Enable Spacecraft Attitude Control Systems to Perform Scientific Measurements
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250617T210137">2025-06-17 21:01:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250617T213325">2025-06-17 21:33:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
