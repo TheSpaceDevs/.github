@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/cnes-taps-arianegroup-to-lead-reusable-rocket-engine-project/" >🔗</a> **[European Spaceflight]** CNES Taps ArianeGroup to Lead Reusable Rocket Engine Project
+- <a href="https://www.nasa.gov/news-release/nasa-german-aerospace-center-to-expand-artemis-campaign-cooperation/" >🔗</a> **[NASA]** NASA, German Aerospace Center to Expand Artemis Campaign Cooperation
+- <a href="https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/a-new-hybrid-system-could-enable-spacecraft-attitude-control-systems-to-perform-scientific-measurements/" >🔗</a> **[NASA]** A New Hybrid System Could Enable Spacecraft Attitude Control Systems to Perform Scientific Measurements
 - <a href="https://www.nasa.gov/science-research/for-researchers/a-researchers-guide-to-microgravity-materials-research/" >🔗</a> **[NASA]** A Researcher’s Guide to: Microgravity Materials Research
 - <a href="https://spacenews.com/desert-works-propulsion-successfully-tests-prototype-cathodes-for-turion-space-tie-20-thruster/" >🔗</a> **[SpaceNews]** Desert Works Propulsion Successfully Tests Prototype Cathodes for Turion Space TIE-20 Thruster
 - <a href="https://spacenews.com/the-exploration-company-outlines-plans-for-human-spaceflight/" >🔗</a> **[SpaceNews]** The Exploration Company outlines plans for human spaceflight
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/LISA/Construction_of_ESA_s_ambitious_LISA_mission_begins" >🔗</a> **[ESA]** Construction of ESA’s ambitious LISA mission begins
 - <a href="https://spacenews.com/china-conducts-pad-abort-test-for-crew-spacecraft-advancing-moon-landing-plans/" >🔗</a> **[SpaceNews]** China conducts pad abort test for crew spacecraft, advancing moon landing plans
 - <a href="https://spaceflightnow.com/2025/06/16/live-coverage-spacex-to-launch-26-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-3/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 26 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
-- <a href="https://science.nasa.gov/solar-system/sun/explore-our-dynamic-sun/" >🔗</a> **[NASA]** Explore Our Dynamic Sun!
-- <a href="https://spacenews.com/fcc-highlights-national-security-role-in-satellite-licensing-reforms/" >🔗</a> **[SpaceNews]** FCC highlights national security role in satellite licensing reforms
-- <a href="https://www.nasa.gov/missions/osiris-rex/nasa-employees-named-2025-service-to-america-medals-honorees/" >🔗</a> **[NASA]** NASA Employees Named 2025 Service to America Medals Honorees
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250617T140136">2025-06-17 14:01:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250617T143627">2025-06-17 14:36:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
