@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/06/atmos-space-cargo/" >🔗</a> **[NASASpaceflight]** How ATMOS Space Cargo is shaping Europe’s spaceflight future through reentry capsules
 - <a href="https://europeanspaceflight.com/cnes-taps-arianegroup-to-lead-reusable-rocket-engine-project/" >🔗</a> **[European Spaceflight]** CNES Taps ArianeGroup to Lead Reusable Rocket Engine Project
 - <a href="https://www.nasa.gov/news-release/nasa-german-aerospace-center-to-expand-artemis-campaign-cooperation/" >🔗</a> **[NASA]** NASA, German Aerospace Center to Expand Artemis Campaign Cooperation
 - <a href="https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/a-new-hybrid-system-could-enable-spacecraft-attitude-control-systems-to-perform-scientific-measurements/" >🔗</a> **[NASA]** A New Hybrid System Could Enable Spacecraft Attitude Control Systems to Perform Scientific Measurements
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/driven-by-a-dream-farah-al-fulfulees-quest-to-reach-the-stars/" >🔗</a> **[NASA]** Driven by a Dream: Farah Al Fulfulee’s Quest to Reach the Stars
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/LISA/Construction_of_ESA_s_ambitious_LISA_mission_begins" >🔗</a> **[ESA]** Construction of ESA’s ambitious LISA mission begins
 - <a href="https://spacenews.com/china-conducts-pad-abort-test-for-crew-spacecraft-advancing-moon-landing-plans/" >🔗</a> **[SpaceNews]** China conducts pad abort test for crew spacecraft, advancing moon landing plans
-- <a href="https://spaceflightnow.com/2025/06/16/live-coverage-spacex-to-launch-26-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-3/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 26 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250617T150129">2025-06-17 15:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250617T153541">2025-06-17 15:35:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
