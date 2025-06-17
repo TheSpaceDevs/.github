@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-engineers-simulate-lunar-lighting-for-artemis-iii-moon-landing/" >🔗</a> **[NASA]** NASA Engineers Simulate Lunar Lighting for Artemis III Moon Landing
+- <a href="https://www.nasa.gov/image-article/training-for-the-moon/" >🔗</a> **[NASA]** Training for the Moo(n)
 - <a href="https://www.esa.int/About_Us/ESA_at_Le_Bourget_2025/ESA_at_Le_Bourget_2025_-_Day_Two_Highlights" >🔗</a> **[ESA]** ESA at Le Bourget 2025 - Day Two Highlights
 - <a href="https://www.nasaspaceflight.com/2025/06/atmos-space-cargo/" >🔗</a> **[NASASpaceflight]** How ATMOS Space Cargo is shaping Europe’s spaceflight future through reentry capsules
 - <a href="https://europeanspaceflight.com/cnes-taps-arianegroup-to-lead-reusable-rocket-engine-project/" >🔗</a> **[European Spaceflight]** CNES Taps ArianeGroup to Lead Reusable Rocket Engine Project
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/science-research/for-researchers/a-researchers-guide-to-microgravity-materials-research/" >🔗</a> **[NASA]** A Researcher’s Guide to: Microgravity Materials Research
 - <a href="https://spacenews.com/desert-works-propulsion-successfully-tests-prototype-cathodes-for-turion-space-tie-20-thruster/" >🔗</a> **[SpaceNews]** Desert Works Propulsion Successfully Tests Prototype Cathodes for Turion Space TIE-20 Thruster
 - <a href="https://spacenews.com/the-exploration-company-outlines-plans-for-human-spaceflight/" >🔗</a> **[SpaceNews]** The Exploration Company outlines plans for human spaceflight
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/driven-by-a-dream-farah-al-fulfulees-quest-to-reach-the-stars/" >🔗</a> **[NASA]** Driven by a Dream: Farah Al Fulfulee’s Quest to Reach the Stars
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/LISA/Construction_of_ESA_s_ambitious_LISA_mission_begins" >🔗</a> **[ESA]** Construction of ESA’s ambitious LISA mission begins
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250617T180134">2025-06-17 18:01:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250617T183943">2025-06-17 18:39:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
