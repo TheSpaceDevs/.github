@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/science-research/for-researchers/a-researchers-guide-to-microgravity-materials-research/" >🔗</a> **[NASA]** A Researcher’s Guide to: Microgravity Materials Research
+- <a href="https://spacenews.com/desert-works-propulsion-successfully-tests-prototype-cathodes-for-turion-space-tie-20-thruster/" >🔗</a> **[SpaceNews]** Desert Works Propulsion Successfully Tests Prototype Cathodes for Turion Space TIE-20 Thruster
 - <a href="https://spacenews.com/the-exploration-company-outlines-plans-for-human-spaceflight/" >🔗</a> **[SpaceNews]** The Exploration Company outlines plans for human spaceflight
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/driven-by-a-dream-farah-al-fulfulees-quest-to-reach-the-stars/" >🔗</a> **[NASA]** Driven by a Dream: Farah Al Fulfulee’s Quest to Reach the Stars
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/LISA/Construction_of_ESA_s_ambitious_LISA_mission_begins" >🔗</a> **[ESA]** Construction of ESA’s ambitious LISA mission begins
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/solar-system/sun/explore-our-dynamic-sun/" >🔗</a> **[NASA]** Explore Our Dynamic Sun!
 - <a href="https://spacenews.com/fcc-highlights-national-security-role-in-satellite-licensing-reforms/" >🔗</a> **[SpaceNews]** FCC highlights national security role in satellite licensing reforms
 - <a href="https://www.nasa.gov/missions/osiris-rex/nasa-employees-named-2025-service-to-america-medals-honorees/" >🔗</a> **[NASA]** NASA Employees Named 2025 Service to America Medals Honorees
-- <a href="https://www.nasaspaceflight.com/2025/06/launch-roundup-061625/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Missions to launch from the U.S., China, Japan, and Russia
-- <a href="https://www.nasa.gov/image-article/hubble-studies-a-spirals-supernova-scene/" >🔗</a> **[NASA]** Hubble Studies a Spiral’s Supernova Scene
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250617T131132">2025-06-17 13:11:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250617T133955">2025-06-17 13:39:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
