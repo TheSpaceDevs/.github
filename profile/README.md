@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/regulators-clear-starlink-enabled-texting-trial-in-war-torn-ukraine/" >🔗</a> **[SpaceNews]** Regulators clear Starlink-enabled texting trial in war-torn Ukraine
+- <a href="https://www.nasa.gov/news-release/nasa-astronauts-to-answer-questions-from-students-in-new-york-utah/" >🔗</a> **[NASA]** NASA Astronauts to Answer Questions from Students in New York, Utah
 - <a href="https://www.nasa.gov/image-article/nasas-human-exploration-rover-challenge/" >🔗</a> **[NASA]** NASA’s Human Exploration Rover Challenge
 - <a href="https://www.nasa.gov/directorates/armd/aosp/atm-x/dip/dip-library/" >🔗</a> **[NASA]** Digital Information Platform Library
 - <a href="https://www.nasa.gov/directorates/armd/aosp/atm-x/dip/dip-events/" >🔗</a> **[NASA]** DIP Events
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/directorates/armd/aosp/atm-x/dip/dip-architecture/" >🔗</a> **[NASA]** DIP Workshop Series 1: DIP Architecture and Date Integration Services
 - <a href="https://www.nasa.gov/directorates/armd/aosp/atm-x/dip/dip-for-service-providers/" >🔗</a> **[NASA]** DIP Workshop Series 2: DIP for Service Providers
 - <a href="https://www.nasa.gov/centers-and-facilities/langley/nasa-to-gather-in-flight-imagery-of-commercial-test-capsule-re-entry/" >🔗</a> **[NASA]** NASA to Gather In-Flight Imagery of Commercial Test Capsule Re-Entry
-- <a href="https://www.nasa.gov/directorates/armd/aosp/atm-x/dip/dip-aco-flight-operators/" >🔗</a> **[NASA]** DIP Workshop Series 3: DIP for Consumers
-- <a href="https://www.nasa.gov/directorates/armd/aosp/atm-x/dip/dip-aoc-flight-operators/" >🔗</a> **[NASA]** DIP Announcement of Collaborative Opportunity for Flight Operators
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250618T190126">2025-06-18 19:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250618T193130">2025-06-18 19:31:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
