@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/trump-officially-nominates-space-force-gen-guetlein-to-lead-golden-dome/" >🔗</a> **[SpaceNews]** Trump officially nominates Space Force Gen. Guetlein to lead ‘Golden Dome’
 - <a href="https://spacenews.com/firefly-announces-commercial-lunar-imagery-service/" >🔗</a> **[SpaceNews]** Firefly announces commercial lunar imagery service
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4573-4574-welcome-to-the-uyuni-quad/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4573-4574: Welcome to the Uyuni Quad
 - <a href="https://spacenews.com/regulators-clear-starlink-enabled-texting-trial-in-war-torn-ukraine/" >🔗</a> **[SpaceNews]** Regulators clear Starlink-enabled texting trial in war-torn Ukraine
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/directorates/armd/aosp/atm-x/dip/dip-events/" >🔗</a> **[NASA]** DIP Events
 - <a href="https://www.nasa.gov/directorates/armd/aosp/atm-x/dip/dip-rfi-info-session/" >🔗</a> **[NASA]** DIP Request for Information (RFI) Information Session
 - <a href="https://www.nasa.gov/directorates/armd/aosp/atm-x/dip/dip-rfi/" >🔗</a> **[NASA]** DIP RFI Outbrief Session
-- <a href="https://www.nasa.gov/directorates/armd/aosp/atm-x/dip/dip-architecture/" >🔗</a> **[NASA]** DIP Workshop Series 1: DIP Architecture and Date Integration Services
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250618T230120">2025-06-18 23:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250618T233309">2025-06-18 23:33:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
