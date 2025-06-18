@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/nasas-human-exploration-rover-challenge/" >🔗</a> **[NASA]** NASA’s Human Exploration Rover Challenge
 - <a href="https://www.nasa.gov/directorates/armd/aosp/atm-x/dip/dip-library/" >🔗</a> **[NASA]** Digital Information Platform Library
 - <a href="https://www.nasa.gov/directorates/armd/aosp/atm-x/dip/dip-events/" >🔗</a> **[NASA]** DIP Events
 - <a href="https://www.nasa.gov/directorates/armd/aosp/atm-x/dip/dip-rfi-info-session/" >🔗</a> **[NASA]** DIP Request for Information (RFI) Information Session
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/centers-and-facilities/langley/nasa-to-gather-in-flight-imagery-of-commercial-test-capsule-re-entry/" >🔗</a> **[NASA]** NASA to Gather In-Flight Imagery of Commercial Test Capsule Re-Entry
 - <a href="https://www.nasa.gov/directorates/armd/aosp/atm-x/dip/dip-aco-flight-operators/" >🔗</a> **[NASA]** DIP Workshop Series 3: DIP for Consumers
 - <a href="https://www.nasa.gov/directorates/armd/aosp/atm-x/dip/dip-aoc-flight-operators/" >🔗</a> **[NASA]** DIP Announcement of Collaborative Opportunity for Flight Operators
-- <a href="https://www.nasa.gov/directorates/armd/aosp/atm-x/dip/dip-info-session-aco-sp/" >🔗</a> **[NASA]** DIP Information Session: Announcement of Collaborative Opportunity (ACO) for Service Providers
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250618T180140">2025-06-18 18:01:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250618T183947">2025-06-18 18:39:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
