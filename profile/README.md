@@ -90,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://europeanspaceflight.com/arianespace-and-avio-call-for-enforced-european-launcher-preference/" >🔗</a> **[European Spaceflight]** Arianespace and Avio Call for Enforced European Launcher Preference
-- <a href="https://spacenews.com/varda-to-launch-its-first-in-house-designed-spacecraft-for-on-orbit-manufacturing/" >🔗</a> **[SpaceNews]** Varda to launch its first in-house built spacecraft for on-orbit manufacturing
-- <a href="https://spaceflightnow.com/2025/06/18/firefly-aerospace-aims-to-deploy-1st-commercial-lunar-imaging-service/" >🔗</a> **[Spaceflight Now]** Firefly Aerospace aims to deploy 1st commercial lunar imaging service
-- <a href="https://spacenews.com/learning-from-the-past-how-history-can-guide-space-and-cyber-rules-today/" >🔗</a> **[SpaceNews]** Learning from the past: How history can guide space and cyber rules today
-- <a href="https://spacenews.com/maxar-partners-with-array-labs-to-expand-3d-imaging-technology/" >🔗</a> **[SpaceNews]** Maxar partners with Array Labs to expand 3D imaging technology
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/06/ESA_-_European_Commission_Press_Conference_at_Paris_Air_Show_2025" >🔗</a> **[ESA]** ESA - European Commission Press Conference at Paris Air Show 2025
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/06/Call_with_Slawosz_Uznanski-Wisniewski_at_Paris_Air_Show_2025" >🔗</a> **[ESA]** Call with Sławosz Uznański-Wiśniewski at Paris Air Show 2025
-- <a href="https://spacenews.com/venturi-space-announces-european-lunar-rover-design/" >🔗</a> **[SpaceNews]** Venturi Space announces European lunar rover design
-- <a href="https://spaceflightnow.com/2025/06/17/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-6/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Cape Canaveral
-- <a href="https://spacenews.com/july-decision-expected-on-combination-of-european-space-companies/" >🔗</a> **[SpaceNews]** July decision expected on combination of European space companies
+- <a href="https://www.nasa.gov/directorates/armd/aosp/atm-x/dip/dip-library/" >🔗</a> **[NASA]** Digital Information Platform Library
+- <a href="https://www.nasa.gov/directorates/armd/aosp/atm-x/dip/dip-events/" >🔗</a> **[NASA]** DIP Events
+- <a href="https://www.nasa.gov/directorates/armd/aosp/atm-x/dip/dip-rfi-info-session/" >🔗</a> **[NASA]** DIP Request for Information (RFI) Information Session
+- <a href="https://www.nasa.gov/directorates/armd/aosp/atm-x/dip/dip-rfi/" >🔗</a> **[NASA]** DIP RFI Outbrief Session
+- <a href="https://www.nasa.gov/directorates/armd/aosp/atm-x/dip/dip-architecture/" >🔗</a> **[NASA]** DIP Workshop Series 1: DIP Architecture and Date Integration Services
+- <a href="https://www.nasa.gov/directorates/armd/aosp/atm-x/dip/dip-for-service-providers/" >🔗</a> **[NASA]** DIP Workshop Series 2: DIP for Service Providers
+- <a href="https://www.nasa.gov/centers-and-facilities/langley/nasa-to-gather-in-flight-imagery-of-commercial-test-capsule-re-entry/" >🔗</a> **[NASA]** NASA to Gather In-Flight Imagery of Commercial Test Capsule Re-Entry
+- <a href="https://www.nasa.gov/directorates/armd/aosp/atm-x/dip/dip-aco-flight-operators/" >🔗</a> **[NASA]** DIP Workshop Series 3: DIP for Consumers
+- <a href="https://www.nasa.gov/directorates/armd/aosp/atm-x/dip/dip-aoc-flight-operators/" >🔗</a> **[NASA]** DIP Announcement of Collaborative Opportunity for Flight Operators
+- <a href="https://www.nasa.gov/directorates/armd/aosp/atm-x/dip/dip-info-session-aco-sp/" >🔗</a> **[NASA]** DIP Information Session: Announcement of Collaborative Opportunity (ACO) for Service Providers
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250618T170252">2025-06-18 17:02:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250618T173539">2025-06-18 17:35:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
