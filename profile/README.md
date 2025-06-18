@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/venturi-space-announces-european-lunar-rover-design/" >🔗</a> **[SpaceNews]** Venturi Space announces European lunar rover design
 - <a href="https://spaceflightnow.com/2025/06/17/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-6/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacenews.com/july-decision-expected-on-combination-of-european-space-companies/" >🔗</a> **[SpaceNews]** July decision expected on combination of European space companies
 - <a href="https://www.nasa.gov/learning-resources/career-exploration-using-ingenuity-and-innovation-to-create-memory-metals/" >🔗</a> **[NASA]** Career Exploration: Using Ingenuity and Innovation to Create ‘Memory Metals’
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-engineers-simulate-lunar-lighting-for-artemis-iii-moon-landing/" >🔗</a> **[NASA]** NASA Engineers Simulate Lunar Lighting for Artemis III Moon Landing
 - <a href="https://www.nasa.gov/image-article/training-for-the-moon/" >🔗</a> **[NASA]** Training for the Moo(n)
 - <a href="https://www.esa.int/About_Us/ESA_at_Le_Bourget_2025/ESA_at_Le_Bourget_2025_-_Day_Two_Highlights" >🔗</a> **[ESA]** ESA at Le Bourget 2025 - Day Two Highlights
-- <a href="https://www.nasaspaceflight.com/2025/06/atmos-space-cargo/" >🔗</a> **[NASASpaceflight]** How ATMOS Space Cargo is shaping Europe’s spaceflight future through reentry capsules
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250618T090155">2025-06-18 09:01:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250618T093522">2025-06-18 09:35:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
