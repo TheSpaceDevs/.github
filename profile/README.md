@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/arianespace-and-avio-call-for-enforced-european-launcher-preference/" >🔗</a> **[European Spaceflight]** Arianespace and Avio Call for Enforced European Launcher Preference
 - <a href="https://spacenews.com/varda-to-launch-its-first-in-house-designed-spacecraft-for-on-orbit-manufacturing/" >🔗</a> **[SpaceNews]** Varda to launch its first in-house built spacecraft for on-orbit manufacturing
 - <a href="https://spaceflightnow.com/2025/06/18/firefly-aerospace-aims-to-deploy-1st-commercial-lunar-imaging-service/" >🔗</a> **[Spaceflight Now]** Firefly Aerospace aims to deploy 1st commercial lunar imaging service
 - <a href="https://spacenews.com/learning-from-the-past-how-history-can-guide-space-and-cyber-rules-today/" >🔗</a> **[SpaceNews]** Learning from the past: How history can guide space and cyber rules today
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/venturi-space-announces-european-lunar-rover-design/" >🔗</a> **[SpaceNews]** Venturi Space announces European lunar rover design
 - <a href="https://spaceflightnow.com/2025/06/17/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-6/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacenews.com/july-decision-expected-on-combination-of-european-space-companies/" >🔗</a> **[SpaceNews]** July decision expected on combination of European space companies
-- <a href="https://www.nasa.gov/learning-resources/career-exploration-using-ingenuity-and-innovation-to-create-memory-metals/" >🔗</a> **[NASA]** Career Exploration: Using Ingenuity and Innovation to Create ‘Memory Metals’
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250618T150123">2025-06-18 15:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250618T153541">2025-06-18 15:35:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
