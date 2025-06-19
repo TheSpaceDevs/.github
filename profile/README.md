@@ -93,6 +93,7 @@ A second dedicated launch on Electron to meet those same mission requirements is
 
 ### Latest News ⌛
 - <a href="https://spacenews.com/starship-destroyed-in-test-stand-explosion/" >🔗</a> **[SpaceNews]** Starship destroyed in test stand explosion
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/MetOp_Second_Generation/First_MetOp-SG_and_Sentinel-5_arrive_at_launch_site" >🔗</a> **[ESA]** First MetOp-SG and Sentinel-5 arrive at launch site
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/XMM-Newton/The_models_were_right_astronomers_find_missing_matter" >🔗</a> **[ESA]** “The models were right”: astronomers find ‘missing’ matter
 - <a href="https://spaceflightnow.com/2025/06/19/next-starship-explodes-on-test-stand/" >🔗</a> **[Spaceflight Now]** Next Starship explodes on test stand
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/06/Ariane_6_payload_on_board_MetOp-SG-A1_arrives_in_Kourou" >🔗</a> **[ESA]** Ariane 6 payload on board: MetOp-SG-A1 arrives in Kourou
@@ -101,7 +102,6 @@ A second dedicated launch on Electron to meet those same mission requirements is
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4573-4574-welcome-to-the-uyuni-quad/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4573-4574: Welcome to the Uyuni Quad
 - <a href="https://spacenews.com/regulators-clear-starlink-enabled-texting-trial-in-war-torn-ukraine/" >🔗</a> **[SpaceNews]** Regulators clear Starlink-enabled texting trial in war-torn Ukraine
 - <a href="https://www.nasa.gov/news-release/nasa-astronauts-to-answer-questions-from-students-in-new-york-utah/" >🔗</a> **[NASA]** NASA Astronauts to Answer Questions from Students in New York, Utah
-- <a href="https://www.nasa.gov/image-article/nasas-human-exploration-rover-challenge/" >🔗</a> **[NASA]** NASA’s Human Exploration Rover Challenge
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ A second dedicated launch on Electron to meet those same mission requirements is
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250619T090136">2025-06-19 09:01:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250619T093502">2025-06-19 09:35:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
