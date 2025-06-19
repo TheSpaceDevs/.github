@@ -92,6 +92,7 @@ A second dedicated launch on Electron to meet those same mission requirements is
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/the-exploration-company-unveils-proposed-crew-capsule/" >🔗</a> **[European Spaceflight]** The Exploration Company Unveils Proposed Crew Capsule
 - <a href="https://spacenews.com/after-resiliences-moon-landing-attempt-why-openness-is-key-to-the-lunar-economy/" >🔗</a> **[SpaceNews]** After Resilience’s moon landing attempt, why openness is key to the lunar economy
 - <a href="https://spacenews.com/starship-destroyed-in-test-stand-explosion/" >🔗</a> **[SpaceNews]** Starship destroyed in test stand explosion
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/MetOp_Second_Generation/First_MetOp-SG_and_Sentinel-5_arrive_at_launch_site" >🔗</a> **[ESA]** First MetOp-SG and Sentinel-5 arrive at launch site
@@ -101,7 +102,6 @@ A second dedicated launch on Electron to meet those same mission requirements is
 - <a href="https://spacenews.com/trump-officially-nominates-space-force-gen-guetlein-to-lead-golden-dome/" >🔗</a> **[SpaceNews]** Trump officially nominates Space Force Gen. Guetlein to lead ‘Golden Dome’
 - <a href="https://spacenews.com/firefly-announces-commercial-lunar-imagery-service/" >🔗</a> **[SpaceNews]** Firefly announces commercial lunar imagery service
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4573-4574-welcome-to-the-uyuni-quad/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4573-4574: Welcome to the Uyuni Quad
-- <a href="https://spacenews.com/regulators-clear-starlink-enabled-texting-trial-in-war-torn-ukraine/" >🔗</a> **[SpaceNews]** Regulators clear Starlink-enabled texting trial in war-torn Ukraine
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ A second dedicated launch on Electron to meet those same mission requirements is
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250619T140125">2025-06-19 14:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250619T143532">2025-06-19 14:35:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
