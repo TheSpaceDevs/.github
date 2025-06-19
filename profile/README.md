@@ -92,6 +92,8 @@ A second dedicated launch on Electron to meet those same mission requirements is
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/portal-space-systems-to-build-larger-factory-for-supernova-vehicle/" >🔗</a> **[SpaceNews]** Portal Space Systems to build larger factory for Supernova vehicle
+- <a href="https://spacenews.com/the-ultimate-backup-drive-the-moon/" >🔗</a> **[SpaceNews]** The ultimate backup drive: the moon
 - <a href="https://europeanspaceflight.com/the-exploration-company-unveils-proposed-crew-capsule/" >🔗</a> **[European Spaceflight]** The Exploration Company Unveils Proposed Crew Capsule
 - <a href="https://spacenews.com/after-resiliences-moon-landing-attempt-why-openness-is-key-to-the-lunar-economy/" >🔗</a> **[SpaceNews]** After Resilience’s moon landing attempt, why openness is key to the lunar economy
 - <a href="https://spacenews.com/starship-destroyed-in-test-stand-explosion/" >🔗</a> **[SpaceNews]** Starship destroyed in test stand explosion
@@ -100,8 +102,6 @@ A second dedicated launch on Electron to meet those same mission requirements is
 - <a href="https://spaceflightnow.com/2025/06/19/next-starship-explodes-on-test-stand/" >🔗</a> **[Spaceflight Now]** Next Starship explodes on test stand
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/06/Ariane_6_payload_on_board_MetOp-SG-A1_arrives_in_Kourou" >🔗</a> **[ESA]** Ariane 6 payload on board: MetOp-SG-A1 arrives in Kourou
 - <a href="https://spacenews.com/trump-officially-nominates-space-force-gen-guetlein-to-lead-golden-dome/" >🔗</a> **[SpaceNews]** Trump officially nominates Space Force Gen. Guetlein to lead ‘Golden Dome’
-- <a href="https://spacenews.com/firefly-announces-commercial-lunar-imagery-service/" >🔗</a> **[SpaceNews]** Firefly announces commercial lunar imagery service
-- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4573-4574-welcome-to-the-uyuni-quad/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4573-4574: Welcome to the Uyuni Quad
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ A second dedicated launch on Electron to meet those same mission requirements is
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250619T150126">2025-06-19 15:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250619T153440">2025-06-19 15:34:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
