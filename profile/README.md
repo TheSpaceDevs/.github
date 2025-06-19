@@ -92,16 +92,16 @@ A second dedicated launch on Electron to meet those same mission requirements is
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacescout.info/2025/06/starship-36-explodes-during-static-fire-testing/" >🔗</a> **[Space Scout]** Starship 36 Explodes During Static Fire Testing
+- <a href="https://spacepolicyonline.com/news/on-pad-explosion-deals-another-setback-to-starship/" >🔗</a> **[SpacePolicyOnline.com]** On-Pad Explosion Deals Another Setback to Starship
 - <a href="https://spacenews.com/portal-space-systems-to-build-larger-factory-for-supernova-vehicle/" >🔗</a> **[SpaceNews]** Portal Space Systems to build larger factory for Supernova vehicle
 - <a href="https://spacenews.com/the-ultimate-backup-drive-the-moon/" >🔗</a> **[SpaceNews]** The ultimate backup drive: the moon
 - <a href="https://europeanspaceflight.com/the-exploration-company-unveils-proposed-crew-capsule/" >🔗</a> **[European Spaceflight]** The Exploration Company Unveils Proposed Crew Capsule
+- <a href="https://www.esa.int/About_Us/ESA_at_Le_Bourget_2025/ESA_at_Le_Bourget_2025_-_Day_Four_Highlights" >🔗</a> **[ESA]** ESA at Le Bourget 2025 - Day Four Highlights
 - <a href="https://spacenews.com/after-resiliences-moon-landing-attempt-why-openness-is-key-to-the-lunar-economy/" >🔗</a> **[SpaceNews]** After Resilience’s moon landing attempt, why openness is key to the lunar economy
 - <a href="https://spacenews.com/starship-destroyed-in-test-stand-explosion/" >🔗</a> **[SpaceNews]** Starship destroyed in test stand explosion
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/MetOp_Second_Generation/First_MetOp-SG_and_Sentinel-5_arrive_at_launch_site" >🔗</a> **[ESA]** First MetOp-SG and Sentinel-5 arrive at launch site
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/XMM-Newton/The_models_were_right_astronomers_find_missing_matter" >🔗</a> **[ESA]** “The models were right”: astronomers find ‘missing’ matter
-- <a href="https://spaceflightnow.com/2025/06/19/next-starship-explodes-on-test-stand/" >🔗</a> **[Spaceflight Now]** Next Starship explodes on test stand
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/06/Ariane_6_payload_on_board_MetOp-SG-A1_arrives_in_Kourou" >🔗</a> **[ESA]** Ariane 6 payload on board: MetOp-SG-A1 arrives in Kourou
-- <a href="https://spacenews.com/trump-officially-nominates-space-force-gen-guetlein-to-lead-golden-dome/" >🔗</a> **[SpaceNews]** Trump officially nominates Space Force Gen. Guetlein to lead ‘Golden Dome’
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ A second dedicated launch on Electron to meet those same mission requirements is
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250619T160139">2025-06-19 16:01:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250619T163755">2025-06-19 16:37:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
