@@ -92,6 +92,7 @@ A second dedicated launch on Electron to meet those same mission requirements is
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/french-government-to-lead-eutelsats-1-56-billion-capital-boost/" >🔗</a> **[SpaceNews]** French government to lead Eutelsat’s $1.56 billion capital boost
 - <a href="https://spacenews.com/moog-now-accepting-orders-for-software-development-units-for-new-high-speed-space-computers/" >🔗</a> **[SpaceNews]** Moog Now Accepting Orders for Software Development Units for New High-Speed Space Computers
 - <a href="https://www.spacescout.info/2025/06/starship-36-explodes-during-static-fire-testing/" >🔗</a> **[Space Scout]** Starship 36 Explodes During Static Fire Testing
 - <a href="https://spacepolicyonline.com/news/on-pad-explosion-deals-another-setback-to-starship/" >🔗</a> **[SpacePolicyOnline.com]** On-Pad Explosion Deals Another Setback to Starship
@@ -101,7 +102,6 @@ A second dedicated launch on Electron to meet those same mission requirements is
 - <a href="https://www.esa.int/About_Us/ESA_at_Le_Bourget_2025/ESA_at_Le_Bourget_2025_-_Day_Four_Highlights" >🔗</a> **[ESA]** ESA at Le Bourget 2025 - Day Four Highlights
 - <a href="https://spacenews.com/after-resiliences-moon-landing-attempt-why-openness-is-key-to-the-lunar-economy/" >🔗</a> **[SpaceNews]** After Resilience’s moon landing attempt, why openness is key to the lunar economy
 - <a href="https://spacenews.com/starship-destroyed-in-test-stand-explosion/" >🔗</a> **[SpaceNews]** Starship destroyed in test stand explosion
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/MetOp_Second_Generation/First_MetOp-SG_and_Sentinel-5_arrive_at_launch_site" >🔗</a> **[ESA]** First MetOp-SG and Sentinel-5 arrive at launch site
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ A second dedicated launch on Electron to meet those same mission requirements is
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250619T210130">2025-06-19 21:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250619T213257">2025-06-19 21:32:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
