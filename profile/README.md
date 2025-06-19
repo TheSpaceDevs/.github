@@ -92,6 +92,7 @@ A second dedicated launch on Electron to meet those same mission requirements is
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/XMM-Newton/The_models_were_right_astronomers_find_missing_matter" >🔗</a> **[ESA]** “The models were right”: astronomers find ‘missing’ matter
 - <a href="https://spaceflightnow.com/2025/06/19/next-starship-explodes-on-test-stand/" >🔗</a> **[Spaceflight Now]** Next Starship explodes on test stand
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/06/Ariane_6_payload_on_board_MetOp-SG-A1_arrives_in_Kourou" >🔗</a> **[ESA]** Ariane 6 payload on board: MetOp-SG-A1 arrives in Kourou
 - <a href="https://spacenews.com/trump-officially-nominates-space-force-gen-guetlein-to-lead-golden-dome/" >🔗</a> **[SpaceNews]** Trump officially nominates Space Force Gen. Guetlein to lead ‘Golden Dome’
@@ -101,7 +102,6 @@ A second dedicated launch on Electron to meet those same mission requirements is
 - <a href="https://www.nasa.gov/news-release/nasa-astronauts-to-answer-questions-from-students-in-new-york-utah/" >🔗</a> **[NASA]** NASA Astronauts to Answer Questions from Students in New York, Utah
 - <a href="https://www.nasa.gov/image-article/nasas-human-exploration-rover-challenge/" >🔗</a> **[NASA]** NASA’s Human Exploration Rover Challenge
 - <a href="https://www.nasa.gov/directorates/armd/aosp/atm-x/dip/dip-library/" >🔗</a> **[NASA]** Digital Information Platform Library
-- <a href="https://www.nasa.gov/directorates/armd/aosp/atm-x/dip/dip-events/" >🔗</a> **[NASA]** DIP Events
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ A second dedicated launch on Electron to meet those same mission requirements is
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250619T070151">2025-06-19 07:01:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250619T073322">2025-06-19 07:33:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
