@@ -92,6 +92,7 @@ A second dedicated launch on Electron to meet those same mission requirements is
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/06/ship-36-anomaly-engine-testing/" >🔗</a> **[NASASpaceflight]** Ship 36 Experiences Anomaly During Engine Testing and is Lost
 - <a href="https://spacenews.com/french-government-to-lead-eutelsats-1-56-billion-capital-boost/" >🔗</a> **[SpaceNews]** French government to lead Eutelsat’s $1.56 billion capital boost
 - <a href="https://spacenews.com/moog-now-accepting-orders-for-software-development-units-for-new-high-speed-space-computers/" >🔗</a> **[SpaceNews]** Moog Now Accepting Orders for Software Development Units for New High-Speed Space Computers
 - <a href="https://www.spacescout.info/2025/06/starship-36-explodes-during-static-fire-testing/" >🔗</a> **[Space Scout]** Starship 36 Explodes During Static Fire Testing
@@ -101,7 +102,6 @@ A second dedicated launch on Electron to meet those same mission requirements is
 - <a href="https://europeanspaceflight.com/the-exploration-company-unveils-proposed-crew-capsule/" >🔗</a> **[European Spaceflight]** The Exploration Company Unveils Proposed Crew Capsule
 - <a href="https://www.esa.int/About_Us/ESA_at_Le_Bourget_2025/ESA_at_Le_Bourget_2025_-_Day_Four_Highlights" >🔗</a> **[ESA]** ESA at Le Bourget 2025 - Day Four Highlights
 - <a href="https://spacenews.com/after-resiliences-moon-landing-attempt-why-openness-is-key-to-the-lunar-economy/" >🔗</a> **[SpaceNews]** After Resilience’s moon landing attempt, why openness is key to the lunar economy
-- <a href="https://spacenews.com/starship-destroyed-in-test-stand-explosion/" >🔗</a> **[SpaceNews]** Starship destroyed in test stand explosion
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ A second dedicated launch on Electron to meet those same mission requirements is
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250619T220120">2025-06-19 22:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250619T223512">2025-06-19 22:35:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
