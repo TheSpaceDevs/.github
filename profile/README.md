@@ -92,6 +92,8 @@ A second dedicated launch on Electron to meet those same mission requirements is
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/06/19/next-starship-explodes-on-test-stand/" >🔗</a> **[Spaceflight Now]** Next Starship explodes on test stand
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/06/Ariane_6_payload_on_board_MetOp-SG-A1_arrives_in_Kourou" >🔗</a> **[ESA]** Ariane 6 payload on board: MetOp-SG-A1 arrives in Kourou
 - <a href="https://spacenews.com/trump-officially-nominates-space-force-gen-guetlein-to-lead-golden-dome/" >🔗</a> **[SpaceNews]** Trump officially nominates Space Force Gen. Guetlein to lead ‘Golden Dome’
 - <a href="https://spacenews.com/firefly-announces-commercial-lunar-imagery-service/" >🔗</a> **[SpaceNews]** Firefly announces commercial lunar imagery service
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4573-4574-welcome-to-the-uyuni-quad/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4573-4574: Welcome to the Uyuni Quad
@@ -100,8 +102,6 @@ A second dedicated launch on Electron to meet those same mission requirements is
 - <a href="https://www.nasa.gov/image-article/nasas-human-exploration-rover-challenge/" >🔗</a> **[NASA]** NASA’s Human Exploration Rover Challenge
 - <a href="https://www.nasa.gov/directorates/armd/aosp/atm-x/dip/dip-library/" >🔗</a> **[NASA]** Digital Information Platform Library
 - <a href="https://www.nasa.gov/directorates/armd/aosp/atm-x/dip/dip-events/" >🔗</a> **[NASA]** DIP Events
-- <a href="https://www.nasa.gov/directorates/armd/aosp/atm-x/dip/dip-rfi-info-session/" >🔗</a> **[NASA]** DIP Request for Information (RFI) Information Session
-- <a href="https://www.nasa.gov/directorates/armd/aosp/atm-x/dip/dip-rfi/" >🔗</a> **[NASA]** DIP RFI Outbrief Session
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ A second dedicated launch on Electron to meet those same mission requirements is
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250619T060134">2025-06-19 06:01:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250619T064016">2025-06-19 06:40:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
