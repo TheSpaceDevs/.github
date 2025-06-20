@@ -19,34 +19,34 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Transporter 14 (Dedicated SSO Rideshare)**. It is scheduled to be launched by *SpaceX*
+**New Shepard | NS-33**. It is scheduled to be launched by *Blue Origin*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
+from *<a href="https://en.wikipedia.org/wiki/Corn_Ranch">West Texas Suborbital Launch Site/ Corn Ranch</a>, Corn Ranch, Van Horn, TX, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250620T211900">2025-06-20 21:19:00 UTC</a>.  Until
-then, this pad will have been used for 200
-out of 814 launches from this location. The launch status is currently
-*TBC* 🟨 . The mission type is
-*Dedicated Rideshare* and the payload will be injected
-into *a Sun-Synchronous Orbit
-(SSO)*.
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250621T123000">2025-06-21 12:30:00 UTC</a>.  Until
+then, this pad will have been used for 32
+out of 32 launches from this location. The launch status is currently
+*Go* 🟩 . The mission type is
+*Tourism* and the payload will be injected
+into *a Suborbital
+(Sub)*.
 <br>
 <blockquote>
-  Dedicated rideshare flight to a sun-synchronous orbit with dozens of small microsatellites and nanosatellites for commercial and government customers.
+  NS-33 is the 13th crewed flight for the New Shepard program and the 33rd in its history.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+  <a href="https://en.wikipedia.org/wiki/New_Shepard" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=34.632,-120.611" >
+  <a href="https://www.google.com/maps?q=31.422878000000000,-104.757121000000000" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250620T211900">2025-06-20 21:19:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Transporter 14 (Dedicated SSO Rideshare)&location=Vandenberg SFB, CA, USA&dates=20250620T211900Z%2F20250620T223800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Transporter 14 (Dedicated SSO Rideshare)** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250621T123000">2025-06-21 12:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Shepard | NS-33&location=Corn Ranch, Van Horn, TX, USA&dates=20250621T123000Z%2F20250621T203000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Shepard | NS-33** from Corn Ranch, Van Horn, TX, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250621T211900">2025-06-21 21:19:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Transporter 14 (Dedicated SSO Rideshare)&location=Vandenberg SFB, CA, USA&dates=20250621T211900Z%2F20250621T223800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Transporter 14 (Dedicated SSO Rideshare)** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250622T054700">2025-06-22 05:47:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-23&location=Cape Canaveral SFS, FL, USA&dates=20250622T054700Z%2F20250622T101700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-23** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250623T145600">2025-06-23 14:56:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 551 | Project Kuiper (KA-02)&location=Cape Canaveral SFS, FL, USA&dates=20250623T145600Z%2F20250623T152500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 551 | Project Kuiper (KA-02)** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250625T053200">2025-06-25 05:32:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-34&location=Cape Canaveral SFS, FL, USA&dates=20250625T053200Z%2F20250625T093200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-34** from Cape Canaveral SFS, FL, USA.
@@ -94,23 +94,21 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_16-20_June_2025" >🔗</a> **[ESA]** Week in images: 16-20 June 2025
 - <a href="https://spacenews.com/trumps-dispute-with-musk-shows-the-danger-of-private-monopolies-in-space/" >🔗</a> **[SpaceNews]** Trump’s dispute with Musk shows the danger of private monopolies in space
 - <a href="https://www.nasa.gov/missions/airborne-science/nasa-aircraft-to-make-low-altitude-flights-in-mid-atlantic-california/" >🔗</a> **[NASA]** NASA Aircraft to Make Low-Altitude Flights in Mid-Atlantic, California
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/06/President_Macron_calls_Sophie_Adenot_from_Paris_Air_Show_2025" >🔗</a> **[ESA]** President Macron calls Sophie Adenot from Paris Air Show 2025
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/06/epsilon_patch" >🔗</a> **[ESA]** εpsilon patch
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/06/epsilon_Sophie_Adenot_s_first_mission_name_and_patch_unveiled" >🔗</a> **[ESA]** εpsilon: Sophie Adenot’s first mission name and patch unveiled
 - <a href="https://spacenews.com/esa-signs-agreement-for-potential-use-of-orbital-reef/" >🔗</a> **[SpaceNews]** ESA signs agreement for potential use of Orbital Reef
 - <a href="https://science.nasa.gov/missions/hubble/hubble-studies-small-but-mighty-galaxy/" >🔗</a> **[NASA]** Hubble Studies Small but Mighty Galaxy
 - <a href="https://europeanspaceflight.com/eutelsat-eyes-e1-35b-capital-raise-after-signing-e1b-framework-deal/" >🔗</a> **[European Spaceflight]** Eutelsat Eyes €1.35B Capital Raise After Signing €1B Framework Deal
-- <a href="https://spacenews.com/landspace-performs-9-engine-static-fire-test-for-reusable-zhuque-3-rocket/" >🔗</a> **[SpaceNews]** Landspace performs 9-engine static fire test for reusable Zhuque-3 rocket
-- <a href="https://spacenews.com/esa-and-eu-emphasize-good-relationship-as-they-press-forward-on-imaging-constellation/" >🔗</a> **[SpaceNews]** ESA and EU emphasize good relationship as they press forward on imaging constellation
 
 
 ### Launch-related News 🚀
 
-- <a href="https://spacenews.com/starfish-space-ready-to-launch-docking-demonstration-mission/" >🔗</a> **[SpaceNews]** Starfish Space ready to launch docking demonstration mission
-- <a href="https://www.nasaspaceflight.com/2025/05/starfish-plans-first-commercial-satellite-docking/" >🔗</a> **[NASASpaceflight]** Starfish Space announces plans for first commercial satellite docking
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250620T150139">2025-06-20 15:01:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250620T153432">2025-06-20 15:34:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
