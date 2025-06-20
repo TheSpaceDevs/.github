@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/esa-signs-agreement-for-potential-use-of-orbital-reef/" >🔗</a> **[SpaceNews]** ESA signs agreement for potential use of Orbital Reef
 - <a href="https://europeanspaceflight.com/eutelsat-eyes-e1-35b-capital-raise-after-signing-e1b-framework-deal/" >🔗</a> **[European Spaceflight]** Eutelsat Eyes €1.35B Capital Raise After Signing €1B Framework Deal
 - <a href="https://spacenews.com/landspace-performs-9-engine-static-fire-test-for-reusable-zhuque-3-rocket/" >🔗</a> **[SpaceNews]** Landspace performs 9-engine static fire test for reusable Zhuque-3 rocket
 - <a href="https://spacenews.com/esa-and-eu-emphasize-good-relationship-as-they-press-forward-on-imaging-constellation/" >🔗</a> **[SpaceNews]** ESA and EU emphasize good relationship as they press forward on imaging constellation
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/french-government-to-lead-eutelsats-1-56-billion-capital-boost/" >🔗</a> **[SpaceNews]** French government to lead Eutelsat’s $1.56 billion capital boost
 - <a href="https://spacenews.com/moog-now-accepting-orders-for-software-development-units-for-new-high-speed-space-computers/" >🔗</a> **[SpaceNews]** Moog Now Accepting Orders for Software Development Units for New High-Speed Space Computers
 - <a href="https://www.spacescout.info/2025/06/starship-36-explodes-during-static-fire-testing/" >🔗</a> **[Space Scout]** Starship 36 Explodes During Static Fire Testing
-- <a href="https://spacepolicyonline.com/news/on-pad-explosion-deals-another-setback-to-starship/" >🔗</a> **[SpacePolicyOnline.com]** On-Pad Explosion Deals Another Setback to Starship
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250620T110122">2025-06-20 11:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250620T113214">2025-06-20 11:32:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
