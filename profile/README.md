@@ -21,10 +21,10 @@ The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
 **Electron | Symphony In The Stars**. It is scheduled to be launched by *Rocket Lab*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="None">Unknown Pad</a>, Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand*
+from *<a href="https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1">Rocket Lab Launch Complex 1B</a>, Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" />
 at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250620T071500">2025-06-20 07:15:00 UTC</a>.  Until
-then, this pad will have been used for 0
+then, this pad will have been used for 29
 out of 60 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
 *Unknown* and the payload will be injected
@@ -41,7 +41,7 @@ A second dedicated launch on Electron to meet those same mission requirements is
   <a href="https://en.wikipedia.org/wiki/Rocket_Lab_Electron" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="None" >
+  <a href="https://www.google.com/maps?q=-39.262833,177.864469" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -110,7 +110,7 @@ A second dedicated launch on Electron to meet those same mission requirements is
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250620T021632">2025-06-20 02:16:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250620T025944">2025-06-20 02:59:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
