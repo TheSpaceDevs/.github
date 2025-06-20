@@ -90,6 +90,9 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_16-20_June_2025" >🔗</a> **[ESA]** Week in images: 16-20 June 2025
+- <a href="https://spacenews.com/trumps-dispute-with-musk-shows-the-danger-of-private-monopolies-in-space/" >🔗</a> **[SpaceNews]** Trump’s dispute with Musk shows the danger of private monopolies in space
+- <a href="https://www.nasa.gov/missions/airborne-science/nasa-aircraft-to-make-low-altitude-flights-in-mid-atlantic-california/" >🔗</a> **[NASA]** NASA Aircraft to Make Low-Altitude Flights in Mid-Atlantic, California
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/06/epsilon_patch" >🔗</a> **[ESA]** εpsilon patch
 - <a href="https://spacenews.com/esa-signs-agreement-for-potential-use-of-orbital-reef/" >🔗</a> **[SpaceNews]** ESA signs agreement for potential use of Orbital Reef
 - <a href="https://science.nasa.gov/missions/hubble/hubble-studies-small-but-mighty-galaxy/" >🔗</a> **[NASA]** Hubble Studies Small but Mighty Galaxy
@@ -97,9 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/landspace-performs-9-engine-static-fire-test-for-reusable-zhuque-3-rocket/" >🔗</a> **[SpaceNews]** Landspace performs 9-engine static fire test for reusable Zhuque-3 rocket
 - <a href="https://spacenews.com/esa-and-eu-emphasize-good-relationship-as-they-press-forward-on-imaging-constellation/" >🔗</a> **[SpaceNews]** ESA and EU emphasize good relationship as they press forward on imaging constellation
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/06/Earth_from_Space_Vienna_s_Danube_divide" >🔗</a> **[ESA]** Earth from Space: Vienna’s Danube divide
-- <a href="https://www.esa.int/About_Us/ESA_Publications/ESA_50_Years_booklet" >🔗</a> **[ESA]** ESA Delivers: 50 years booklet
-- <a href="https://www.nasaspaceflight.com/2025/06/ship-36-anomaly-engine-testing/" >🔗</a> **[NASASpaceflight]** Ship 36 Experiences Anomaly During Engine Testing and is Lost
-- <a href="https://spacenews.com/french-government-to-lead-eutelsats-1-56-billion-capital-boost/" >🔗</a> **[SpaceNews]** French government to lead Eutelsat’s $1.56 billion capital boost
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250620T131018">2025-06-20 13:10:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250620T133858">2025-06-20 13:38:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
