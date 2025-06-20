@@ -19,29 +19,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Electron | Symphony In The Stars**. It is scheduled to be launched by *Rocket Lab*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1">Rocket Lab Launch Complex 1B</a>, Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250620T071500">2025-06-20 07:15:00 UTC</a>.  Until
-then, this pad will have been used for 29
-out of 60 launches from this location. The launch status is currently
+**Long March 3B/E | Unknown Payload**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Xichang_Satellite_Launch_Center">Launch Complex 3 (LC-3/LA-1)</a>, Xichang Satellite Launch Center, People's Republic of China*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250620T122700">2025-06-20 12:27:00 UTC</a>.  Until
+then, this pad will have been used for 100
+out of 226 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
 *Unknown* and the payload will be injected
-into *a Sun-Synchronous Orbit
-(SSO)*.
+into *an Unknown
+(N/A)*.
 <br>
 <blockquote>
-  'Symphony In The Stars' is the first of two dedicated missions on Electron to deploy a single spacecraft to a 650 km circular Earth orbit for a confidential commercial customer.
-
-A second dedicated launch on Electron to meet those same mission requirements is scheduled for launch before the end of 2025.
+  Details TBD.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Rocket_Lab_Electron" >
+  <a href="https://en.wikipedia.org/wiki/Long_March_3B" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=-39.262833,177.864469" >
+  <a href="https://www.google.com/maps?q=28.247209,102.02917" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -55,6 +53,7 @@ A second dedicated launch on Electron to meet those same mission requirements is
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250625T053200">2025-06-25 05:32:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-34&location=Cape Canaveral SFS, FL, USA&dates=20250625T053200Z%2F20250625T093200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-34** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250625T163300">2025-06-25 16:33:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-16&location=Kennedy Space Center, FL, USA&dates=20250625T163300Z%2F20250625T203300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-16** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250630T000000">2025-06-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | 6x HawkEye 360&location=Wallops Flight Facility, Virginia, USA&dates=20250630T000000Z%2F20250630T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | 6x HawkEye 360** from Wallops Flight Facility, Virginia, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250630T000000">2025-06-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Symphony In The Stars&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20250630T000000Z%2F20250630T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Symphony In The Stars** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250630T000000">2025-06-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Axiom Space Mission 4&location=Kennedy Space Center, FL, USA&dates=20250630T000000Z%2F20250630T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Axiom Space Mission 4** from Kennedy Space Center, FL, USA.
 
 
@@ -91,6 +90,9 @@ A second dedicated launch on Electron to meet those same mission requirements is
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/landspace-performs-9-engine-static-fire-test-for-reusable-zhuque-3-rocket/" >🔗</a> **[SpaceNews]** Landspace performs 9-engine static fire test for reusable Zhuque-3 rocket
+- <a href="https://spacenews.com/esa-and-eu-emphasize-good-relationship-as-they-press-forward-on-imaging-constellation/" >🔗</a> **[SpaceNews]** ESA and EU emphasize good relationship as they press forward on imaging constellation
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/06/Earth_from_Space_Vienna_s_Danube_divide" >🔗</a> **[ESA]** Earth from Space: Vienna’s Danube divide
 - <a href="https://www.esa.int/About_Us/ESA_Publications/ESA_50_Years_booklet" >🔗</a> **[ESA]** ESA Delivers: 50 years booklet
 - <a href="https://www.nasaspaceflight.com/2025/06/ship-36-anomaly-engine-testing/" >🔗</a> **[NASASpaceflight]** Ship 36 Experiences Anomaly During Engine Testing and is Lost
 - <a href="https://spacenews.com/french-government-to-lead-eutelsats-1-56-billion-capital-boost/" >🔗</a> **[SpaceNews]** French government to lead Eutelsat’s $1.56 billion capital boost
@@ -98,9 +100,6 @@ A second dedicated launch on Electron to meet those same mission requirements is
 - <a href="https://www.spacescout.info/2025/06/starship-36-explodes-during-static-fire-testing/" >🔗</a> **[Space Scout]** Starship 36 Explodes During Static Fire Testing
 - <a href="https://spacepolicyonline.com/news/on-pad-explosion-deals-another-setback-to-starship/" >🔗</a> **[SpacePolicyOnline.com]** On-Pad Explosion Deals Another Setback to Starship
 - <a href="https://spacenews.com/portal-space-systems-to-build-larger-factory-for-supernova-vehicle/" >🔗</a> **[SpaceNews]** Portal Space Systems to build larger factory for Supernova vehicle
-- <a href="https://spacenews.com/the-ultimate-backup-drive-the-moon/" >🔗</a> **[SpaceNews]** The ultimate backup drive: the moon
-- <a href="https://europeanspaceflight.com/the-exploration-company-unveils-proposed-crew-capsule/" >🔗</a> **[European Spaceflight]** The Exploration Company Unveils Proposed Crew Capsule
-- <a href="https://www.esa.int/About_Us/ESA_at_Le_Bourget_2025/ESA_at_Le_Bourget_2025_-_Day_Four_Highlights" >🔗</a> **[ESA]** ESA at Le Bourget 2025 - Day Four Highlights
 
 
 ### Launch-related News 🚀
@@ -109,7 +108,7 @@ A second dedicated launch on Electron to meet those same mission requirements is
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250620T090129">2025-06-20 09:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250620T093435">2025-06-20 09:34:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
