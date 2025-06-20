@@ -19,27 +19,29 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Long March 3B/E | Unknown Payload**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Xichang_Satellite_Launch_Center">Launch Complex 3 (LC-3/LA-1)</a>, Xichang Satellite Launch Center, People's Republic of China*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250620T122700">2025-06-20 12:27:00 UTC</a>.  Until
-then, this pad will have been used for 100
-out of 226 launches from this location. The launch status is currently
+**Electron | Symphony In The Stars**. It is scheduled to be launched by *Rocket Lab*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1">Rocket Lab Launch Complex 1B</a>, Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250620T071500">2025-06-20 07:15:00 UTC</a>.  Until
+then, this pad will have been used for 29
+out of 60 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
 *Unknown* and the payload will be injected
-into *an Unknown
-(N/A)*.
+into *a Sun-Synchronous Orbit
+(SSO)*.
 <br>
 <blockquote>
-  Details TBD.
+  'Symphony In The Stars' is the first of two dedicated missions on Electron to deploy a single spacecraft to a 650 km circular Earth orbit for a confidential commercial customer.
+
+A second dedicated launch on Electron to meet those same mission requirements is scheduled for launch before the end of 2025.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Long_March_3B" >
+  <a href="https://en.wikipedia.org/wiki/Rocket_Lab_Electron" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.247209,102.02917" >
+  <a href="https://www.google.com/maps?q=-39.262833,177.864469" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -54,7 +56,6 @@ into *an Unknown
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250625T163300">2025-06-25 16:33:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-16&location=Kennedy Space Center, FL, USA&dates=20250625T163300Z%2F20250625T203300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-16** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250630T000000">2025-06-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | 6x HawkEye 360&location=Wallops Flight Facility, Virginia, USA&dates=20250630T000000Z%2F20250630T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | 6x HawkEye 360** from Wallops Flight Facility, Virginia, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250630T000000">2025-06-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Axiom Space Mission 4&location=Kennedy Space Center, FL, USA&dates=20250630T000000Z%2F20250630T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Axiom Space Mission 4** from Kennedy Space Center, FL, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250630T000000">2025-06-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=H-IIA 202 | GOSAT-GW&location=Tanegashima Space Center, Japan&dates=20250630T000000Z%2F20250630T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **H-IIA 202 | GOSAT-GW** from Tanegashima Space Center, Japan.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,6 +91,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/ESA_Publications/ESA_50_Years_booklet" >🔗</a> **[ESA]** ESA Delivers: 50 years booklet
 - <a href="https://www.nasaspaceflight.com/2025/06/ship-36-anomaly-engine-testing/" >🔗</a> **[NASASpaceflight]** Ship 36 Experiences Anomaly During Engine Testing and is Lost
 - <a href="https://spacenews.com/french-government-to-lead-eutelsats-1-56-billion-capital-boost/" >🔗</a> **[SpaceNews]** French government to lead Eutelsat’s $1.56 billion capital boost
 - <a href="https://spacenews.com/moog-now-accepting-orders-for-software-development-units-for-new-high-speed-space-computers/" >🔗</a> **[SpaceNews]** Moog Now Accepting Orders for Software Development Units for New High-Speed Space Computers
@@ -99,7 +101,6 @@ into *an Unknown
 - <a href="https://spacenews.com/the-ultimate-backup-drive-the-moon/" >🔗</a> **[SpaceNews]** The ultimate backup drive: the moon
 - <a href="https://europeanspaceflight.com/the-exploration-company-unveils-proposed-crew-capsule/" >🔗</a> **[European Spaceflight]** The Exploration Company Unveils Proposed Crew Capsule
 - <a href="https://www.esa.int/About_Us/ESA_at_Le_Bourget_2025/ESA_at_Le_Bourget_2025_-_Day_Four_Highlights" >🔗</a> **[ESA]** ESA at Le Bourget 2025 - Day Four Highlights
-- <a href="https://spacenews.com/after-resiliences-moon-landing-attempt-why-openness-is-key-to-the-lunar-economy/" >🔗</a> **[SpaceNews]** After Resilience’s moon landing attempt, why openness is key to the lunar economy
 
 
 ### Launch-related News 🚀
@@ -108,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250620T080132">2025-06-20 08:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250620T083802">2025-06-20 08:38:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
