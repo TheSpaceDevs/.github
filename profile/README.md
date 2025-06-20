@@ -90,6 +90,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/science-research/science-enabling-technology/nasa-tech-to-use-moonlight-to-enhance-measurements-from-space/" >🔗</a> **[NASA]** NASA Tech to Use Moonlight to Enhance Measurements from Space
 - <a href="https://spacenews.com/pentagon-struggles-to-build-unified-satellite-network/" >🔗</a> **[SpaceNews]** Pentagon struggles to build unified satellite network
 - <a href="https://www.nasaspaceflight.com/2025/06/relativity-update-061925/" >🔗</a> **[NASASpaceflight]** Relativity Space accelerates production and testing of first Terran R
 - <a href="https://www.nasa.gov/missions/lro/nasas-lro-views-ispace-hakuto-r-mission-2-moon-lander-impact-site/" >🔗</a> **[NASA]** NASA’s LRO Views ispace HAKUTO-R Mission 2 Moon Lander Impact Site
@@ -99,7 +100,6 @@ into *a Suborbital
 - <a href="https://www.nasa.gov/history/nasa-history-news-and-notes-summer-2025/" >🔗</a> **[NASA]** NASA History News and Notes – Summer 2025
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/06/President_of_France_Emmanuel_Macron_visits_the_Paris_Space_Hub" >🔗</a> **[ESA]** President of France Emmanuel Macron visits the Paris Space Hub
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_16-20_June_2025" >🔗</a> **[ESA]** Week in images: 16-20 June 2025
-- <a href="https://spacenews.com/trumps-dispute-with-musk-shows-the-danger-of-private-monopolies-in-space/" >🔗</a> **[SpaceNews]** Trump’s dispute with Musk shows the danger of private monopolies in space
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250620T220123">2025-06-20 22:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250620T223511">2025-06-20 22:35:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
