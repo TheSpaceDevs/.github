@@ -90,6 +90,8 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/pentagon-struggles-to-build-unified-satellite-network/" >🔗</a> **[SpaceNews]** Pentagon struggles to build unified satellite network
+- <a href="https://www.nasaspaceflight.com/2025/06/relativity-update-061925/" >🔗</a> **[NASASpaceflight]** Relativity Space accelerates production and testing of first Terran R
 - <a href="https://www.nasa.gov/missions/lro/nasas-lro-views-ispace-hakuto-r-mission-2-moon-lander-impact-site/" >🔗</a> **[NASA]** NASA’s LRO Views ispace HAKUTO-R Mission 2 Moon Lander Impact Site
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-air-taxi-passenger-comfort-studies-move-forward/" >🔗</a> **[NASA]** NASA Air Taxi Passenger Comfort Studies Move Forward
 - <a href="https://www.nasa.gov/image-article/summer-begins-in-northern-hemisphere/" >🔗</a> **[NASA]** Summer Begins in Northern Hemisphere
@@ -98,8 +100,6 @@ into *a Suborbital
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/06/President_of_France_Emmanuel_Macron_visits_the_Paris_Space_Hub" >🔗</a> **[ESA]** President of France Emmanuel Macron visits the Paris Space Hub
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_16-20_June_2025" >🔗</a> **[ESA]** Week in images: 16-20 June 2025
 - <a href="https://spacenews.com/trumps-dispute-with-musk-shows-the-danger-of-private-monopolies-in-space/" >🔗</a> **[SpaceNews]** Trump’s dispute with Musk shows the danger of private monopolies in space
-- <a href="https://www.nasa.gov/missions/airborne-science/nasa-aircraft-to-make-low-altitude-flights-in-mid-atlantic-california/" >🔗</a> **[NASA]** NASA Aircraft to Make Low-Altitude Flights in Mid-Atlantic, California
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/06/President_Macron_calls_Sophie_Adenot_from_Paris_Air_Show_2025" >🔗</a> **[ESA]** President Macron calls Sophie Adenot from Paris Air Show 2025
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250620T190113">2025-06-20 19:01:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250620T193112">2025-06-20 19:31:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
