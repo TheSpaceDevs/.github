@@ -90,6 +90,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/history/nasa-history-news-and-notes-summer-2025/" >🔗</a> **[NASA]** NASA History News and Notes – Summer 2025
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_16-20_June_2025" >🔗</a> **[ESA]** Week in images: 16-20 June 2025
 - <a href="https://spacenews.com/trumps-dispute-with-musk-shows-the-danger-of-private-monopolies-in-space/" >🔗</a> **[SpaceNews]** Trump’s dispute with Musk shows the danger of private monopolies in space
 - <a href="https://www.nasa.gov/missions/airborne-science/nasa-aircraft-to-make-low-altitude-flights-in-mid-atlantic-california/" >🔗</a> **[NASA]** NASA Aircraft to Make Low-Altitude Flights in Mid-Atlantic, California
@@ -99,7 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://europeanspaceflight.com/eutelsat-eyes-e1-35b-capital-raise-after-signing-e1b-framework-deal/" >🔗</a> **[European Spaceflight]** Eutelsat Eyes €1.35B Capital Raise After Signing €1B Framework Deal
 - <a href="https://spacenews.com/landspace-performs-9-engine-static-fire-test-for-reusable-zhuque-3-rocket/" >🔗</a> **[SpaceNews]** Landspace performs 9-engine static fire test for reusable Zhuque-3 rocket
 - <a href="https://spacenews.com/esa-and-eu-emphasize-good-relationship-as-they-press-forward-on-imaging-constellation/" >🔗</a> **[SpaceNews]** ESA and EU emphasize good relationship as they press forward on imaging constellation
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/06/Earth_from_Space_Vienna_s_Danube_divide" >🔗</a> **[ESA]** Earth from Space: Vienna’s Danube divide
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250620T140128">2025-06-20 14:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250620T143523">2025-06-20 14:35:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
