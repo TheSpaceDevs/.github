@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/esa-moves-forward-while-nasa-prepares-to-step-back-in-st/" >🔗</a> **[SpacePolicyOnline.com]** ESA Moves Forward While NASA Prepares to Step Back in S&T
 - <a href="https://europeanspaceflight.com/polaris-spaceplanes-to-equip-its-vehicles-with-air-to-air-missiles/" >🔗</a> **[European Spaceflight]** POLARIS Spaceplanes to Equip its Vehicles with Air-to-Air Missiles
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4577-4579-watch-the-skies/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4577-4579: Watch the Skies
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4575-4576-perfect-parking-spot/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4575-4576: Perfect Parking Spot
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/missions/lro/nasas-lro-views-ispace-hakuto-r-mission-2-moon-lander-impact-site/" >🔗</a> **[NASA]** NASA’s LRO Views ispace HAKUTO-R Mission 2 Moon Lander Impact Site
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-air-taxi-passenger-comfort-studies-move-forward/" >🔗</a> **[NASA]** NASA Air Taxi Passenger Comfort Studies Move Forward
 - <a href="https://www.nasa.gov/image-article/summer-begins-in-northern-hemisphere/" >🔗</a> **[NASA]** Summer Begins in Northern Hemisphere
-- <a href="https://arstechnica.com/space/2025/06/rocket-report-two-big-asian-reuse-milestones-vandenberg-becomes-spacex-west/" >🔗</a> **[Arstechnica]** Rocket Report: Two big Asian reuse milestones, Vandenberg becomes SpaceX west
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250621T170114">2025-06-21 17:01:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250621T173319">2025-06-21 17:33:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
