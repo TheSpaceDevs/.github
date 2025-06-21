@@ -90,6 +90,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4577-4579-watch-the-skies/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4577-4579: Watch the Skies
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4575-4576-perfect-parking-spot/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4575-4576: Perfect Parking Spot
 - <a href="https://www.nasa.gov/science-research/science-enabling-technology/nasa-tech-to-use-moonlight-to-enhance-measurements-from-space/" >🔗</a> **[NASA]** NASA Tech to Use Moonlight to Enhance Measurements from Space
 - <a href="https://spacenews.com/pentagon-struggles-to-build-unified-satellite-network/" >🔗</a> **[SpaceNews]** Pentagon struggles to build unified satellite network
@@ -99,7 +100,6 @@ into *a Suborbital
 - <a href="https://www.nasa.gov/image-article/summer-begins-in-northern-hemisphere/" >🔗</a> **[NASA]** Summer Begins in Northern Hemisphere
 - <a href="https://arstechnica.com/space/2025/06/rocket-report-two-big-asian-reuse-milestones-vandenberg-becomes-spacex-west/" >🔗</a> **[Arstechnica]** Rocket Report: Two big Asian reuse milestones, Vandenberg becomes SpaceX west
 - <a href="https://www.nasa.gov/history/nasa-history-news-and-notes-summer-2025/" >🔗</a> **[NASA]** NASA History News and Notes – Summer 2025
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/06/President_of_France_Emmanuel_Macron_visits_the_Paris_Space_Hub" >🔗</a> **[ESA]** President of France Emmanuel Macron visits the Paris Space Hub
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250621T032628">2025-06-21 03:26:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250621T034512">2025-06-21 03:45:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
