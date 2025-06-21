@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/06/21/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 27 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacepolicyonline.com/news/esa-moves-forward-while-nasa-prepares-to-step-back-in-st/" >🔗</a> **[SpacePolicyOnline.com]** ESA Moves Forward While NASA Prepares to Step Back in S&T
 - <a href="https://europeanspaceflight.com/polaris-spaceplanes-to-equip-its-vehicles-with-air-to-air-missiles/" >🔗</a> **[European Spaceflight]** POLARIS Spaceplanes to Equip its Vehicles with Air-to-Air Missiles
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4577-4579-watch-the-skies/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4577-4579: Watch the Skies
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2025/06/relativity-update-061925/" >🔗</a> **[NASASpaceflight]** Relativity Space accelerates production and testing of first Terran R
 - <a href="https://www.nasa.gov/missions/lro/nasas-lro-views-ispace-hakuto-r-mission-2-moon-lander-impact-site/" >🔗</a> **[NASA]** NASA’s LRO Views ispace HAKUTO-R Mission 2 Moon Lander Impact Site
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-air-taxi-passenger-comfort-studies-move-forward/" >🔗</a> **[NASA]** NASA Air Taxi Passenger Comfort Studies Move Forward
-- <a href="https://www.nasa.gov/image-article/summer-begins-in-northern-hemisphere/" >🔗</a> **[NASA]** Summer Begins in Northern Hemisphere
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250621T180120">2025-06-21 18:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250621T183707">2025-06-21 18:37:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
