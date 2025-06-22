@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/06/22/live-coverage-spacex-to-launch-falcon-9-rocket-on-transporter-14-smallsat-rideshare-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Falcon 9 rocket on Transporter-14 smallsat rideshare mission
 - <a href="https://spacenews.com/airbus-says-space-business-turnaround-going-well/" >🔗</a> **[SpaceNews]** Airbus says space business turnaround going well
 - <a href="https://spaceflightnow.com/2025/06/21/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 27 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacepolicyonline.com/news/esa-moves-forward-while-nasa-prepares-to-step-back-in-st/" >🔗</a> **[SpacePolicyOnline.com]** ESA Moves Forward While NASA Prepares to Step Back in S&T
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/science-research/science-enabling-technology/nasa-tech-to-use-moonlight-to-enhance-measurements-from-space/" >🔗</a> **[NASA]** NASA Tech to Use Moonlight to Enhance Measurements from Space
 - <a href="https://spacenews.com/pentagon-struggles-to-build-unified-satellite-network/" >🔗</a> **[SpaceNews]** Pentagon struggles to build unified satellite network
 - <a href="https://www.nasaspaceflight.com/2025/06/relativity-update-061925/" >🔗</a> **[NASASpaceflight]** Relativity Space accelerates production and testing of first Terran R
-- <a href="https://www.nasa.gov/missions/lro/nasas-lro-views-ispace-hakuto-r-mission-2-moon-lander-impact-site/" >🔗</a> **[NASA]** NASA’s LRO Views ispace HAKUTO-R Mission 2 Moon Lander Impact Site
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250622T004607">2025-06-22 00:46:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250622T012939">2025-06-22 01:29:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
