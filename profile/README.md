@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-june-22-28-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy June 22-28, 2025
 - <a href="https://spaceflightnow.com/2025/06/22/live-coverage-ula-to-launch-kuiper-2-mission-on-atlas-5-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: ULA to launch Kuiper 2 mission on Atlas 5 rocket from Cape Canaveral
 - <a href="https://spacenews.com/china-launches-chinasat-9c-geostationary-communications-satellite/" >🔗</a> **[SpaceNews]** China launches ChinaSat-9C geostationary communications satellite
 - <a href="https://www.nasaspaceflight.com/2025/06/transporter-14/" >🔗</a> **[NASASpaceflight]** SpaceX set to launch Transporter 14 rideshare mission
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/06/21/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 27 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacepolicyonline.com/news/esa-moves-forward-while-nasa-prepares-to-step-back-in-st/" >🔗</a> **[SpacePolicyOnline.com]** ESA Moves Forward While NASA Prepares to Step Back in S&T
 - <a href="https://europeanspaceflight.com/polaris-spaceplanes-to-equip-its-vehicles-with-air-to-air-missiles/" >🔗</a> **[European Spaceflight]** POLARIS Spaceplanes to Equip its Vehicles with Air-to-Air Missiles
-- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4577-4579-watch-the-skies/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4577-4579: Watch the Skies
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250622T200117">2025-06-22 20:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250622T203351">2025-06-22 20:33:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
