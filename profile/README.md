@@ -90,6 +90,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/hyprspace-to-launch-baguette-one-demonstrator-from-mainland-france/" >🔗</a> **[European Spaceflight]** HyPrSpace to Launch Baguette One Demonstrator from Mainland France
 - <a href="https://spaceflightnow.com/2025/06/22/live-coverage-spacex-to-launch-falcon-9-rocket-on-transporter-14-smallsat-rideshare-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Falcon 9 rocket on Transporter-14 smallsat rideshare mission
 - <a href="https://spacenews.com/airbus-says-space-business-turnaround-going-well/" >🔗</a> **[SpaceNews]** Airbus says space business turnaround going well
 - <a href="https://spaceflightnow.com/2025/06/21/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 27 Starlink satellites on Falcon 9 rocket from Cape Canaveral
@@ -99,7 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4575-4576-perfect-parking-spot/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4575-4576: Perfect Parking Spot
 - <a href="https://www.nasa.gov/science-research/science-enabling-technology/nasa-tech-to-use-moonlight-to-enhance-measurements-from-space/" >🔗</a> **[NASA]** NASA Tech to Use Moonlight to Enhance Measurements from Space
 - <a href="https://spacenews.com/pentagon-struggles-to-build-unified-satellite-network/" >🔗</a> **[SpaceNews]** Pentagon struggles to build unified satellite network
-- <a href="https://www.nasaspaceflight.com/2025/06/relativity-update-061925/" >🔗</a> **[NASASpaceflight]** Relativity Space accelerates production and testing of first Terran R
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250622T120150">2025-06-22 12:01:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250622T124259">2025-06-22 12:42:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
