@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/science-research/heather-cowardin-safeguards-the-future-of-space-exploration/" >🔗</a> **[NASA]** Heather Cowardin Safeguards the Future of Space Exploration
 - <a href="https://spacenews.com/isaacman-interested-in-privately-funded-science-missions/" >🔗</a> **[SpaceNews]** Isaacman interested in privately funded science missions
 - <a href="https://spacenews.com/ula-testing-openais-government-compliant-chatbot/" >🔗</a> **[SpaceNews]** ULA testing OpenAI’s government-compliant chatbot
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-june-22-28-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy June 22-28, 2025
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/hyprspace-to-launch-baguette-one-demonstrator-from-mainland-france/" >🔗</a> **[European Spaceflight]** HyPrSpace to Launch Baguette One Demonstrator from Mainland France
 - <a href="https://spaceflightnow.com/2025/06/22/live-coverage-spacex-to-launch-falcon-9-rocket-on-transporter-14-smallsat-rideshare-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Falcon 9 rocket on Transporter-14 smallsat rideshare mission
 - <a href="https://spacenews.com/airbus-says-space-business-turnaround-going-well/" >🔗</a> **[SpaceNews]** Airbus says space business turnaround going well
-- <a href="https://spaceflightnow.com/2025/06/21/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 27 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250623T100132">2025-06-23 10:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250623T103739">2025-06-23 10:37:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
