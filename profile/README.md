@@ -90,6 +90,8 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Shaping_the_Future/R_D_Successes_Onboard_Biomass" >🔗</a> **[ESA]** R&D Successes Onboard Biomass
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/06/The_future_of_ESA_Transportation" >🔗</a> **[ESA]** The future of ESA Transportation
 - <a href="https://spacenews.com/increase-in-ariane-6-launch-cadence-could-take-several-years/" >🔗</a> **[SpaceNews]** Increase in Ariane 6 launch cadence could take several years
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Biomass/Biomass_satellite_returns_striking_first_images_of_forests_and_more" >🔗</a> **[ESA]** Biomass satellite returns striking first images of forests and more
 - <a href="https://www.nasa.gov/science-research/heather-cowardin-safeguards-the-future-of-space-exploration/" >🔗</a> **[NASA]** Heather Cowardin Safeguards the Future of Space Exploration
@@ -98,8 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-june-22-28-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy June 22-28, 2025
 - <a href="https://spaceflightnow.com/2025/06/22/live-coverage-ula-to-launch-kuiper-2-mission-on-atlas-5-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: ULA to launch Kuiper 2 mission on Atlas 5 rocket from Cape Canaveral
 - <a href="https://spacenews.com/china-launches-chinasat-9c-geostationary-communications-satellite/" >🔗</a> **[SpaceNews]** China launches ChinaSat-9C geostationary communications satellite
-- <a href="https://www.nasaspaceflight.com/2025/06/transporter-14/" >🔗</a> **[NASASpaceflight]** SpaceX set to launch Transporter 14 rideshare mission
-- <a href="https://europeanspaceflight.com/hyprspace-to-launch-baguette-one-demonstrator-from-mainland-france/" >🔗</a> **[European Spaceflight]** HyPrSpace to Launch Baguette One Demonstrator from Mainland France
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250623T120211">2025-06-23 12:02:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250623T124328">2025-06-23 12:43:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
