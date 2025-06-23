@@ -90,6 +90,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/missions/artemis/mission-accomplished-artemis-roads-iii-national-challenge-competitors-celebrate-their-achievements/" >🔗</a> **[NASA]** Mission Accomplished! Artemis ROADS III National Challenge Competitors Celebrate their Achievements
 - <a href="https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-mars-rover-starts-unpacking-boxwork-formations/" >🔗</a> **[NASA]** NASA’s Curiosity Mars Rover Starts Unpacking Boxwork Formations
 - <a href="https://www.nasa.gov/image-article/a-martian-volcano-in-the-mist/" >🔗</a> **[NASA]** A Martian Volcano in the Mist
 - <a href="https://science.nasa.gov/blog/clay-minerals-from-mars-most-ancient-past/" >🔗</a> **[NASA]** Clay Minerals From Mars’ Most Ancient Past?
@@ -99,7 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://europeanspaceflight.com/france-and-esa-back-development-of-dassaults-vortex-spaceplane/" >🔗</a> **[European Spaceflight]** France and ESA Back Development of Dassault’s VORTEX Spaceplane
 - <a href="https://www.nasa.gov/image-article/new-rs-25-engine/" >🔗</a> **[NASA]** NASA Tests New RS-25 Engine
 - <a href="https://spacenews.com/the-key-to-golden-domes-success-make-it-usable/" >🔗</a> **[SpaceNews]** The key to Golden Dome’s success: make it usable
-- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Shaping_the_Future/R_D_Successes_Onboard_Biomass" >🔗</a> **[ESA]** R&D Successes Onboard Biomass
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250623T180141">2025-06-23 18:01:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250623T183957">2025-06-23 18:39:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
