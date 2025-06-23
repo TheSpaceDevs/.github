@@ -90,6 +90,8 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/atlas-5-launches-second-set-of-project-kuiper-satellites/" >🔗</a> **[SpaceNews]** Atlas 5 launches second set of Project Kuiper satellites
+- <a href="https://europeanspaceflight.com/france-and-esa-back-development-of-dassaults-vortex-spaceplane/" >🔗</a> **[European Spaceflight]** France and ESA Back Development of Dassault’s VORTEX Spaceplane
 - <a href="https://www.nasa.gov/image-article/new-rs-25-engine/" >🔗</a> **[NASA]** NASA Tests New RS-25 Engine
 - <a href="https://spacenews.com/the-key-to-golden-domes-success-make-it-usable/" >🔗</a> **[SpaceNews]** The key to Golden Dome’s success: make it usable
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Shaping_the_Future/R_D_Successes_Onboard_Biomass" >🔗</a> **[ESA]** R&D Successes Onboard Biomass
@@ -98,8 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Biomass/Biomass_satellite_returns_striking_first_images_of_forests_and_more" >🔗</a> **[ESA]** Biomass satellite returns striking first images of forests and more
 - <a href="https://www.nasa.gov/science-research/heather-cowardin-safeguards-the-future-of-space-exploration/" >🔗</a> **[NASA]** Heather Cowardin Safeguards the Future of Space Exploration
 - <a href="https://spacenews.com/isaacman-interested-in-privately-funded-science-missions/" >🔗</a> **[SpaceNews]** Isaacman interested in privately funded science missions
-- <a href="https://spacenews.com/ula-testing-openais-government-compliant-chatbot/" >🔗</a> **[SpaceNews]** ULA testing OpenAI’s government-compliant chatbot
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-june-22-28-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy June 22-28, 2025
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250623T140128">2025-06-23 14:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250623T143640">2025-06-23 14:36:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
