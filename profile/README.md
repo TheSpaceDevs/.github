@@ -94,6 +94,9 @@ A possible identity of the payload (based on the mission patch, mission name and
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-inventor-launches-first-danish-arctic-satellite/" >🔗</a> **[SpaceNews]** Space Inventor Launches First Danish Arctic Satellite
+- <a href="https://spacenews.com/historic-danish-space-milestone-on-saturday-21-june-space-inventor-launched-denmarks-first-satellite-for-monitoring-greenland-and-the-arctic-into-orbit/" >🔗</a> **[SpaceNews]** Space Inventor Launches First Danish Arctic Satellite
+- <a href="https://spacenews.com/york-space-launches-u-s-military-satellite-on-spacex-rideshare/" >🔗</a> **[SpaceNews]** York Space launches U.S. military satellite on SpaceX rideshare
 - <a href="https://spacenews.com/ukraine-and-partner-countries-to-raise-funds-for-imagery-satellites-to-lessen-reliance-on-the-u-s/" >🔗</a> **[SpaceNews]** Ukraine and partner countries to raise funds for imagery satellites to lessen reliance on the U.S.
 - <a href="https://www.nasa.gov/image-article/nasas-sls-solid-rocket-boosters-what-is-dm-1/" >🔗</a> **[NASA]** NASA’s SLS Solid Rocket Boosters: What is DM-1?
 - <a href="https://science.nasa.gov/missions/artemis/mission-accomplished-artemis-roads-iii-national-challenge-competitors-celebrate-their-achievements/" >🔗</a> **[NASA]** Mission Accomplished! Artemis ROADS III National Challenge Competitors Celebrate their Achievements
@@ -101,9 +104,6 @@ A possible identity of the payload (based on the mission patch, mission name and
 - <a href="https://www.nasa.gov/image-article/a-martian-volcano-in-the-mist/" >🔗</a> **[NASA]** A Martian Volcano in the Mist
 - <a href="https://science.nasa.gov/blog/clay-minerals-from-mars-most-ancient-past/" >🔗</a> **[NASA]** Clay Minerals From Mars’ Most Ancient Past?
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-intern-took-career-from-car-engines-to-cockpits/" >🔗</a> **[NASA]** NASA Intern Took Career from Car Engines to Cockpits
-- <a href="https://www.nasa.gov/directorates/stmd/nasa-fosters-innovative-far-out-tech-for-the-future-of-aerospace/" >🔗</a> **[NASA]** NASA Fosters Innovative, Far-Out Tech for the Future of Aerospace
-- <a href="https://spacenews.com/atlas-5-launches-second-set-of-project-kuiper-satellites/" >🔗</a> **[SpaceNews]** Atlas 5 launches second set of Project Kuiper satellites
-- <a href="https://europeanspaceflight.com/france-and-esa-back-development-of-dassaults-vortex-spaceplane/" >🔗</a> **[European Spaceflight]** France and ESA Back Development of Dassault’s VORTEX Spaceplane
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ A possible identity of the payload (based on the mission patch, mission name and
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250623T220125">2025-06-23 22:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250623T223535">2025-06-23 22:35:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
