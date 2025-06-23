@@ -90,6 +90,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-intern-took-career-from-car-engines-to-cockpits/" >🔗</a> **[NASA]** NASA Intern Took Career from Car Engines to Cockpits
 - <a href="https://www.nasa.gov/directorates/stmd/nasa-fosters-innovative-far-out-tech-for-the-future-of-aerospace/" >🔗</a> **[NASA]** NASA Fosters Innovative, Far-Out Tech for the Future of Aerospace
 - <a href="https://spacenews.com/atlas-5-launches-second-set-of-project-kuiper-satellites/" >🔗</a> **[SpaceNews]** Atlas 5 launches second set of Project Kuiper satellites
 - <a href="https://europeanspaceflight.com/france-and-esa-back-development-of-dassaults-vortex-spaceplane/" >🔗</a> **[European Spaceflight]** France and ESA Back Development of Dassault’s VORTEX Spaceplane
@@ -99,7 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/06/The_future_of_ESA_Transportation" >🔗</a> **[ESA]** The future of ESA Transportation
 - <a href="https://spacenews.com/increase-in-ariane-6-launch-cadence-could-take-several-years/" >🔗</a> **[SpaceNews]** Increase in Ariane 6 launch cadence could take several years
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Biomass/Biomass_satellite_returns_striking_first_images_of_forests_and_more" >🔗</a> **[ESA]** Biomass satellite returns striking first images of forests and more
-- <a href="https://www.nasa.gov/science-research/heather-cowardin-safeguards-the-future-of-space-exploration/" >🔗</a> **[NASA]** Heather Cowardin Safeguards the Future of Space Exploration
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250623T160131">2025-06-23 16:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250623T163828">2025-06-23 16:38:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
