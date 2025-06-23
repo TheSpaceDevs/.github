@@ -90,6 +90,8 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/new-rs-25-engine/" >🔗</a> **[NASA]** NASA Tests New RS-25 Engine
+- <a href="https://spacenews.com/the-key-to-golden-domes-success-make-it-usable/" >🔗</a> **[SpaceNews]** The key to Golden Dome’s success: make it usable
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Shaping_the_Future/R_D_Successes_Onboard_Biomass" >🔗</a> **[ESA]** R&D Successes Onboard Biomass
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/06/The_future_of_ESA_Transportation" >🔗</a> **[ESA]** The future of ESA Transportation
 - <a href="https://spacenews.com/increase-in-ariane-6-launch-cadence-could-take-several-years/" >🔗</a> **[SpaceNews]** Increase in Ariane 6 launch cadence could take several years
@@ -98,8 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/isaacman-interested-in-privately-funded-science-missions/" >🔗</a> **[SpaceNews]** Isaacman interested in privately funded science missions
 - <a href="https://spacenews.com/ula-testing-openais-government-compliant-chatbot/" >🔗</a> **[SpaceNews]** ULA testing OpenAI’s government-compliant chatbot
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-june-22-28-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy June 22-28, 2025
-- <a href="https://spaceflightnow.com/2025/06/22/live-coverage-ula-to-launch-kuiper-2-mission-on-atlas-5-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: ULA to launch Kuiper 2 mission on Atlas 5 rocket from Cape Canaveral
-- <a href="https://spacenews.com/china-launches-chinasat-9c-geostationary-communications-satellite/" >🔗</a> **[SpaceNews]** China launches ChinaSat-9C geostationary communications satellite
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250623T131140">2025-06-23 13:11:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250623T134111">2025-06-23 13:41:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
