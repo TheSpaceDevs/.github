@@ -19,42 +19,46 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Transporter 14 (Dedicated SSO Rideshare)**. It is scheduled to be launched by *SpaceX*
+**Electron | Symphony In The Stars**. It is scheduled to be launched by *Rocket Lab*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250623T211800">2025-06-23 21:18:00 UTC</a>.  Until
-then, this pad will have been used for 200
-out of 814 launches from this location. The launch status is currently
+from *<a href="https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1">Rocket Lab Launch Complex 1B</a>, Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250624T070000">2025-06-24 07:00:00 UTC</a>.  Until
+then, this pad will have been used for 29
+out of 60 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Dedicated Rideshare* and the payload will be injected
+*Communications* and the payload will be injected
 into *a Sun-Synchronous Orbit
 (SSO)*.
 <br>
 <blockquote>
-  Dedicated rideshare flight to a sun-synchronous orbit with dozens of small microsatellites and nanosatellites for commercial and government customers.
+  'Symphony In The Stars' is the first of two dedicated missions on Electron to deploy a single spacecraft to a 650km circular Earth orbit for a confidential commercial customer.
+
+A second dedicated launch on Electron to meet those same mission requirements is scheduled for launch before the end of 2025.
+
+A possible identity of the payload (based on the mission patch, mission name and the orbit altitude) is it being a EchoStar Lyra Block 1 S-band IoT (Internet-of-Things) communication satellite, of which 4 are planned.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+  <a href="https://en.wikipedia.org/wiki/Rocket_Lab_Electron" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=34.632,-120.611" >
+  <a href="https://www.google.com/maps?q=-39.262833,177.864469" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250623T211800">2025-06-23 21:18:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Transporter 14 (Dedicated SSO Rideshare)&location=Vandenberg SFB, CA, USA&dates=20250623T211800Z%2F20250623T221500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Transporter 14 (Dedicated SSO Rideshare)** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250624T070000">2025-06-24 07:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Symphony In The Stars&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20250624T070000Z%2F20250624T070000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Symphony In The Stars** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250625T062000">2025-06-25 06:20:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Axiom Space Mission 4&location=Kennedy Space Center, FL, USA&dates=20250625T062000Z%2F20250625T071000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Axiom Space Mission 4** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250625T163300">2025-06-25 16:33:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-16&location=Cape Canaveral SFS, FL, USA&dates=20250625T163300Z%2F20250625T203300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-16** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250627T044800">2025-06-27 04:48:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-34&location=Cape Canaveral SFS, FL, USA&dates=20250627T044800Z%2F20250627T084800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-34** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250628T164300">2025-06-28 16:43:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 15-7&location=Vandenberg SFB, CA, USA&dates=20250628T164300Z%2F20250628T204300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 15-7** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250629T120000">2025-06-29 12:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Shepard | NS-33&location=Corn Ranch, Van Horn, TX, USA&dates=20250629T120000Z%2F20250629T200000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Shepard | NS-33** from Corn Ranch, Van Horn, TX, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250630T000000">2025-06-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | 6x HawkEye 360&location=Wallops Flight Facility, Virginia, USA&dates=20250630T000000Z%2F20250630T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | 6x HawkEye 360** from Wallops Flight Facility, Virginia, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250630T000000">2025-06-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Axiom Space Mission 4&location=Kennedy Space Center, FL, USA&dates=20250630T000000Z%2F20250630T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Axiom Space Mission 4** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250630T000000">2025-06-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=H-IIA 202 | GOSAT-GW&location=Tanegashima Space Center, Japan&dates=20250630T000000Z%2F20250630T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **H-IIA 202 | GOSAT-GW** from Tanegashima Space Center, Japan.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250630T000000">2025-06-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Shepard | NS-33&location=Corn Ranch, Van Horn, TX, USA&dates=20250630T000000Z%2F20250630T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Shepard | NS-33** from Corn Ranch, Van Horn, TX, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250630T000000">2025-06-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 12 | SatNet LEO Group TBD?&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20250630T000000Z%2F20250630T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 12 | SatNet LEO Group TBD?** from Wenchang Space Launch Site, People's Republic of China.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250630T000000">2025-06-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 8 | G60 Group TBD&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20250630T000000Z%2F20250630T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 8 | G60 Group TBD** from Wenchang Space Launch Site, People's Republic of China.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,6 +94,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ukraine-and-partner-countries-to-raise-funds-for-imagery-satellites-to-lessen-reliance-on-the-u-s/" >🔗</a> **[SpaceNews]** Ukraine and partner countries to raise funds for imagery satellites to lessen reliance on the U.S.
 - <a href="https://www.nasa.gov/image-article/nasas-sls-solid-rocket-boosters-what-is-dm-1/" >🔗</a> **[NASA]** NASA’s SLS Solid Rocket Boosters: What is DM-1?
 - <a href="https://science.nasa.gov/missions/artemis/mission-accomplished-artemis-roads-iii-national-challenge-competitors-celebrate-their-achievements/" >🔗</a> **[NASA]** Mission Accomplished! Artemis ROADS III National Challenge Competitors Celebrate their Achievements
 - <a href="https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-mars-rover-starts-unpacking-boxwork-formations/" >🔗</a> **[NASA]** NASA’s Curiosity Mars Rover Starts Unpacking Boxwork Formations
@@ -99,18 +104,15 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasa.gov/directorates/stmd/nasa-fosters-innovative-far-out-tech-for-the-future-of-aerospace/" >🔗</a> **[NASA]** NASA Fosters Innovative, Far-Out Tech for the Future of Aerospace
 - <a href="https://spacenews.com/atlas-5-launches-second-set-of-project-kuiper-satellites/" >🔗</a> **[SpaceNews]** Atlas 5 launches second set of Project Kuiper satellites
 - <a href="https://europeanspaceflight.com/france-and-esa-back-development-of-dassaults-vortex-spaceplane/" >🔗</a> **[European Spaceflight]** France and ESA Back Development of Dassault’s VORTEX Spaceplane
-- <a href="https://www.nasa.gov/image-article/new-rs-25-engine/" >🔗</a> **[NASA]** NASA Tests New RS-25 Engine
 
 
 ### Launch-related News 🚀
 
-- <a href="https://spacenews.com/starfish-space-ready-to-launch-docking-demonstration-mission/" >🔗</a> **[SpaceNews]** Starfish Space ready to launch docking demonstration mission
-- <a href="https://www.nasaspaceflight.com/2025/05/starfish-plans-first-commercial-satellite-docking/" >🔗</a> **[NASASpaceflight]** Starfish Space announces plans for first commercial satellite docking
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250623T210117">2025-06-23 21:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250623T213324">2025-06-23 21:33:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
