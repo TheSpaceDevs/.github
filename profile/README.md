@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/laser-rangefinder-problems-blamed-for-second-ispace-lunar-lander-crash/" >🔗</a> **[SpaceNews]** Laser rangefinder problems blamed for second ispace lunar lander crash
 - <a href="https://spacepolicyonline.com/news/hardware-failure-doomed-ispaces-mission-2/" >🔗</a> **[SpacePolicyOnline.com]** Hardware Failure Doomed ispace’s Mission 2
 - <a href="https://spacenews.com/space-inventor-launches-first-danish-arctic-satellite/" >🔗</a> **[SpaceNews]** Space Inventor Launches First Danish Arctic Satellite
 - <a href="https://spacenews.com/historic-danish-space-milestone-on-saturday-21-june-space-inventor-launched-denmarks-first-satellite-for-monitoring-greenland-and-the-arctic-into-orbit/" >🔗</a> **[SpaceNews]** Space Inventor Launches First Danish Arctic Satellite
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/missions/artemis/mission-accomplished-artemis-roads-iii-national-challenge-competitors-celebrate-their-achievements/" >🔗</a> **[NASA]** Mission Accomplished! Artemis ROADS III National Challenge Competitors Celebrate their Achievements
 - <a href="https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-mars-rover-starts-unpacking-boxwork-formations/" >🔗</a> **[NASA]** NASA’s Curiosity Mars Rover Starts Unpacking Boxwork Formations
 - <a href="https://www.nasa.gov/image-article/a-martian-volcano-in-the-mist/" >🔗</a> **[NASA]** A Martian Volcano in the Mist
-- <a href="https://science.nasa.gov/blog/clay-minerals-from-mars-most-ancient-past/" >🔗</a> **[NASA]** Clay Minerals From Mars’ Most Ancient Past?
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250624T080135">2025-06-24 08:01:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250624T083857">2025-06-24 08:38:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
