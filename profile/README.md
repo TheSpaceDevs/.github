@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/North_Atlantic_s_volcanic_secrets_it_s_all_about_being_thin" >🔗</a> **[ESA]** North Atlantic’s volcanic secrets – it’s all about being thin
 - <a href="https://arstechnica.com/space/2025/06/a-european-spacecraft-company-flies-its-vehicle-then-loses-it-after-reentry/" >🔗</a> **[Arstechnica]** A European spacecraft company flies its vehicle, then loses it after reentry
 - <a href="https://arstechnica.com/space/2025/06/tuesday-telescope-a-new-champion-enters-the-ring/" >🔗</a> **[Arstechnica]** Tuesday Telescope: A new champion enters the ring
 - <a href="https://spacenews.com/threatening-the-endless-frontier-of-u-s-science/" >🔗</a> **[SpaceNews]** Threatening the endless frontier of U.S. science
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/hardware-failure-doomed-ispaces-mission-2/" >🔗</a> **[SpacePolicyOnline.com]** Hardware Failure Doomed ispace’s Mission 2
 - <a href="https://spacenews.com/space-inventor-launches-first-danish-arctic-satellite/" >🔗</a> **[SpaceNews]** Space Inventor Launches First Danish Arctic Satellite
 - <a href="https://spacenews.com/historic-danish-space-milestone-on-saturday-21-june-space-inventor-launched-denmarks-first-satellite-for-monitoring-greenland-and-the-arctic-into-orbit/" >🔗</a> **[SpaceNews]** Space Inventor Launches First Danish Arctic Satellite
-- <a href="https://spacenews.com/york-space-launches-u-s-military-satellite-on-spacex-rideshare/" >🔗</a> **[SpaceNews]** York Space launches U.S. military satellite on SpaceX rideshare
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250624T131147">2025-06-24 13:11:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250624T134046">2025-06-24 13:40:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
