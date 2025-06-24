@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/threatening-the-endless-frontier-of-u-s-science/" >🔗</a> **[SpaceNews]** Threatening the endless frontier of U.S. science
 - <a href="https://spacenews.com/the-exploration-company-claims-partial-success-of-mission-possible-reentry-spacecraft/" >🔗</a> **[SpaceNews]** The Exploration Company claims partial success of Mission Possible reentry spacecraft
 - <a href="https://europeanspaceflight.com/the-exploration-company-declares-mission-possible-a-partial-success/" >🔗</a> **[European Spaceflight]** The Exploration Company Declares Mission Possible a “Partial Success”
 - <a href="https://spacenews.com/laser-rangefinder-problems-blamed-for-second-ispace-lunar-lander-crash/" >🔗</a> **[SpaceNews]** Laser rangefinder problems blamed for second ispace lunar lander crash
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/york-space-launches-u-s-military-satellite-on-spacex-rideshare/" >🔗</a> **[SpaceNews]** York Space launches U.S. military satellite on SpaceX rideshare
 - <a href="https://spacenews.com/ukraine-and-partner-countries-to-raise-funds-for-imagery-satellites-to-lessen-reliance-on-the-u-s/" >🔗</a> **[SpaceNews]** Ukraine and partner countries to raise funds for imagery satellites to lessen reliance on the U.S.
 - <a href="https://www.nasa.gov/image-article/nasas-sls-solid-rocket-boosters-what-is-dm-1/" >🔗</a> **[NASA]** NASA’s SLS Solid Rocket Boosters: What is DM-1?
-- <a href="https://science.nasa.gov/missions/artemis/mission-accomplished-artemis-roads-iii-national-challenge-competitors-celebrate-their-achievements/" >🔗</a> **[NASA]** Mission Accomplished! Artemis ROADS III National Challenge Competitors Celebrate their Achievements
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250624T110120">2025-06-24 11:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250624T113231">2025-06-24 11:32:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
