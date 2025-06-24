@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/the-exploration-company-claims-partial-success-of-mission-possible-reentry-spacecraft/" >🔗</a> **[SpaceNews]** The Exploration Company claims partial success of Mission Possible reentry spacecraft
+- <a href="https://europeanspaceflight.com/the-exploration-company-declares-mission-possible-a-partial-success/" >🔗</a> **[European Spaceflight]** The Exploration Company Declares Mission Possible a “Partial Success”
 - <a href="https://spacenews.com/laser-rangefinder-problems-blamed-for-second-ispace-lunar-lander-crash/" >🔗</a> **[SpaceNews]** Laser rangefinder problems blamed for second ispace lunar lander crash
 - <a href="https://spacepolicyonline.com/news/hardware-failure-doomed-ispaces-mission-2/" >🔗</a> **[SpacePolicyOnline.com]** Hardware Failure Doomed ispace’s Mission 2
 - <a href="https://spacenews.com/space-inventor-launches-first-danish-arctic-satellite/" >🔗</a> **[SpaceNews]** Space Inventor Launches First Danish Arctic Satellite
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/ukraine-and-partner-countries-to-raise-funds-for-imagery-satellites-to-lessen-reliance-on-the-u-s/" >🔗</a> **[SpaceNews]** Ukraine and partner countries to raise funds for imagery satellites to lessen reliance on the U.S.
 - <a href="https://www.nasa.gov/image-article/nasas-sls-solid-rocket-boosters-what-is-dm-1/" >🔗</a> **[NASA]** NASA’s SLS Solid Rocket Boosters: What is DM-1?
 - <a href="https://science.nasa.gov/missions/artemis/mission-accomplished-artemis-roads-iii-national-challenge-competitors-celebrate-their-achievements/" >🔗</a> **[NASA]** Mission Accomplished! Artemis ROADS III National Challenge Competitors Celebrate their Achievements
-- <a href="https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-mars-rover-starts-unpacking-boxwork-formations/" >🔗</a> **[NASA]** NASA’s Curiosity Mars Rover Starts Unpacking Boxwork Formations
-- <a href="https://www.nasa.gov/image-article/a-martian-volcano-in-the-mist/" >🔗</a> **[NASA]** A Martian Volcano in the Mist
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250624T090216">2025-06-24 09:02:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250624T093541">2025-06-24 09:35:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
