@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/a-strategy-for-peaceful-golden-dome-development/" >🔗</a> **[SpaceNews]** A strategy for peaceful Golden Dome development
 - <a href="https://spacenews.com/lynk-globals-spac-merger-on-the-rocks/" >🔗</a> **[SpaceNews]** Lynk Global’s SPAC merger on the rocks
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-axiom-mission-4-launch-arrival-at-station-2/" >🔗</a> **[NASA]** NASA Sets Coverage for Axiom Mission 4 Launch, Arrival at Station
 - <a href="https://www.nasa.gov/image-article/nasa-astronaut-zena-cardman/" >🔗</a> **[NASA]** NASA Astronaut Zena Cardman
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/North_Atlantic_s_volcanic_secrets_it_s_about_being_thin" >🔗</a> **[ESA]** North Atlantic’s volcanic secrets – it’s about being thin
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/North_Atlantic_s_volcanic_secrets_it_s_all_about_being_thin" >🔗</a> **[ESA]** North Atlantic’s volcanic secrets – it’s all about being thin
 - <a href="https://arstechnica.com/space/2025/06/a-european-spacecraft-company-flies-its-vehicle-then-loses-it-after-reentry/" >🔗</a> **[Arstechnica]** A European spacecraft company flies its vehicle, then loses it after reentry
-- <a href="https://arstechnica.com/space/2025/06/tuesday-telescope-a-new-champion-enters-the-ring/" >🔗</a> **[Arstechnica]** Tuesday Telescope: A new champion enters the ring
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250624T190133">2025-06-24 19:01:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250624T193129">2025-06-24 19:31:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
