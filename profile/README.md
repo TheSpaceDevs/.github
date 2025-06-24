@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/06/launch-roundup-062425/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Launch manifest remains busy as 2025’s halfway point approaches
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/North_Atlantic_s_volcanic_secrets_it_s_all_about_being_thin" >🔗</a> **[ESA]** North Atlantic’s volcanic secrets – it’s all about being thin
 - <a href="https://arstechnica.com/space/2025/06/a-european-spacecraft-company-flies-its-vehicle-then-loses-it-after-reentry/" >🔗</a> **[Arstechnica]** A European spacecraft company flies its vehicle, then loses it after reentry
 - <a href="https://arstechnica.com/space/2025/06/tuesday-telescope-a-new-champion-enters-the-ring/" >🔗</a> **[Arstechnica]** Tuesday Telescope: A new champion enters the ring
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/laser-rangefinder-problems-blamed-for-second-ispace-lunar-lander-crash/" >🔗</a> **[SpaceNews]** Laser rangefinder problems blamed for second ispace lunar lander crash
 - <a href="https://spacepolicyonline.com/news/hardware-failure-doomed-ispaces-mission-2/" >🔗</a> **[SpacePolicyOnline.com]** Hardware Failure Doomed ispace’s Mission 2
 - <a href="https://spacenews.com/space-inventor-launches-first-danish-arctic-satellite/" >🔗</a> **[SpaceNews]** Space Inventor Launches First Danish Arctic Satellite
-- <a href="https://spacenews.com/historic-danish-space-milestone-on-saturday-21-june-space-inventor-launched-denmarks-first-satellite-for-monitoring-greenland-and-the-arctic-into-orbit/" >🔗</a> **[SpaceNews]** Space Inventor Launches First Danish Arctic Satellite
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250624T140126">2025-06-24 14:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250624T143636">2025-06-24 14:36:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
