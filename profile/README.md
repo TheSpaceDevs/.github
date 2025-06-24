@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/get-involved/citizen-science/live-or-fly-a-plane-in-california-help-nasa-measure-ozone-pollution/" >🔗</a> **[NASA]** Live or Fly a Plane in California? Help NASA Measure Ozone Pollution!
 - <a href="https://www.nasaspaceflight.com/2025/06/launch-roundup-062425/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Launch manifest remains busy as 2025’s halfway point approaches
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/North_Atlantic_s_volcanic_secrets_it_s_all_about_being_thin" >🔗</a> **[ESA]** North Atlantic’s volcanic secrets – it’s all about being thin
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/North_Atlantic_s_volcanic_secrets_it_s_about_being_thin" >🔗</a> **[ESA]** North Atlantic’s volcanic secrets – it’s about being thin
 - <a href="https://arstechnica.com/space/2025/06/a-european-spacecraft-company-flies-its-vehicle-then-loses-it-after-reentry/" >🔗</a> **[Arstechnica]** A European spacecraft company flies its vehicle, then loses it after reentry
 - <a href="https://arstechnica.com/space/2025/06/tuesday-telescope-a-new-champion-enters-the-ring/" >🔗</a> **[Arstechnica]** Tuesday Telescope: A new champion enters the ring
 - <a href="https://spacenews.com/threatening-the-endless-frontier-of-u-s-science/" >🔗</a> **[SpaceNews]** Threatening the endless frontier of U.S. science
 - <a href="https://spacenews.com/the-exploration-company-claims-partial-success-of-mission-possible-reentry-spacecraft/" >🔗</a> **[SpaceNews]** The Exploration Company claims partial success of Mission Possible reentry spacecraft
 - <a href="https://europeanspaceflight.com/the-exploration-company-declares-mission-possible-a-partial-success/" >🔗</a> **[European Spaceflight]** The Exploration Company Declares Mission Possible a “Partial Success”
 - <a href="https://spacenews.com/laser-rangefinder-problems-blamed-for-second-ispace-lunar-lander-crash/" >🔗</a> **[SpaceNews]** Laser rangefinder problems blamed for second ispace lunar lander crash
-- <a href="https://spacepolicyonline.com/news/hardware-failure-doomed-ispaces-mission-2/" >🔗</a> **[SpacePolicyOnline.com]** Hardware Failure Doomed ispace’s Mission 2
-- <a href="https://spacenews.com/space-inventor-launches-first-danish-arctic-satellite/" >🔗</a> **[SpaceNews]** Space Inventor Launches First Danish Arctic Satellite
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250624T150141">2025-06-24 15:01:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250624T153548">2025-06-24 15:35:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
