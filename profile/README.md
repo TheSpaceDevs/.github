@@ -95,6 +95,8 @@ operate in a dawn-to-dusk polar orbit, while the 4th is Kestrel-0A, an experimen
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/nasas-chandra-shares-a-new-view-of-our-galactic-neighbor/" >🔗</a> **[NASA]** NASA’s Chandra Shares a New View of Our Galactic Neighbor
+- <a href="https://spacenews.com/satellite-imagery-firms-escalate-warnings-over-budget-cuts/" >🔗</a> **[SpaceNews]** Satellite imagery firms escalate warnings over budget cuts
 - <a href="https://www.nasa.gov/news-release/nasa-astronauts-to-answer-questions-from-alabama-students/" >🔗</a> **[NASA]** NASA Astronauts to Answer Questions from Alabama Students
 - <a href="https://spacenews.com/rocket-lab-to-launch-european-navigation-tech-demo-satellites/" >🔗</a> **[SpaceNews]** Rocket Lab to launch European navigation tech demo satellites
 - <a href="https://www.nasa.gov/image-article/waning-crescent-moon/" >🔗</a> **[NASA]** Waning Crescent Moon
@@ -103,8 +105,6 @@ operate in a dawn-to-dusk polar orbit, while the 4th is Kestrel-0A, an experimen
 - <a href="https://www.nasa.gov/learning-resources/what-are-asteroids-ages-14-18/" >🔗</a> **[NASA]** What Are Asteroids? (Ages 14-18)
 - <a href="https://www.nasa.gov/centers-and-facilities/jpl/john-casani-former-manager-of-multiple-nasa-missions-dies/" >🔗</a> **[NASA]** John Casani, Former Manager of Multiple NASA Missions, Dies
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/meet-rob-navias-public-affairs-officer-and-mission-commentator/" >🔗</a> **[NASA]** Meet Rob Navias: Public Affairs Officer and Mission Commentator
-- <a href="https://spacenews.com/isar-aerospace-raises-150-million-euros/" >🔗</a> **[SpaceNews]** Isar Aerospace raises 150 million euros
-- <a href="https://spaceflightnow.com/2025/06/25/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-3/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 27 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ operate in a dawn-to-dusk polar orbit, while the 4th is Kestrel-0A, an experimen
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250625T210115">2025-06-25 21:01:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250625T213326">2025-06-25 21:33:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
