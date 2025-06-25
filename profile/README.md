@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_finds_evidence_of_a_lightweight_planet_around_TWA_7" >🔗</a> **[ESA]** Webb finds evidence of a lightweight planet around TWA 7
 - <a href="https://spacenews.com/lux-aeterna-emerges-from-stealth-with-funds-for-fully-reusable-satellite-platform/" >🔗</a> **[SpaceNews]** Lux Aeterna emerges from stealth with funds for fully reusable satellite platform
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/06/The_beginning_of_Ignis_Mission" >🔗</a> **[ESA]** The beginning of Ignis Mission
 - <a href="https://spacenews.com/maxar-launches-intelligence-service-focused-on-persistent-monitoring/" >🔗</a> **[SpaceNews]** Maxar launches intelligence service focused on ‘persistent monitoring’
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Space_for_our_climate/First_sea-level_records_for_coastal_community_protection" >🔗</a> **[ESA]** First sea-level records for coastal community protection
 - <a href="https://spacepolicyonline.com/news/axiom-4-lifts-off-at-last/" >🔗</a> **[SpacePolicyOnline.com]** Axiom-4 Lifts Off At Last
 - <a href="https://europeanspaceflight.com/isar-aerospace-raises-e150m-through-convertible-bond-agreement/" >🔗</a> **[European Spaceflight]** Isar Aerospace Raises €150M Through Convertible Bond Agreement
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/06/Liftoff_of_Axiom_Mission_4" >🔗</a> **[ESA]** Liftoff of Axiom Mission 4
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250625T150135">2025-06-25 15:01:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250625T153556">2025-06-25 15:35:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
