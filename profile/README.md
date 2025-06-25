@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/lux-aeterna-emerges-from-stealth-with-funds-for-fully-reusable-satellite-platform/" >🔗</a> **[SpaceNews]** Lux Aeterna emerges from stealth with funds for fully reusable satellite platform
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/06/The_beginning_of_Ignis_Mission" >🔗</a> **[ESA]** The beginning of Ignis Mission
 - <a href="https://spacenews.com/maxar-launches-intelligence-service-focused-on-persistent-monitoring/" >🔗</a> **[SpaceNews]** Maxar launches intelligence service focused on ‘persistent monitoring’
 - <a href="https://spacenews.com/first-rubin-observatory-images-released-amid-concerns-about-budget-cuts/" >🔗</a> **[SpaceNews]** First Rubin Observatory images released amid concerns about budget cuts
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/axiom-4-lifts-off-at-last/" >🔗</a> **[SpacePolicyOnline.com]** Axiom-4 Lifts Off At Last
 - <a href="https://europeanspaceflight.com/isar-aerospace-raises-e150m-through-convertible-bond-agreement/" >🔗</a> **[European Spaceflight]** Isar Aerospace Raises €150M Through Convertible Bond Agreement
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/06/Liftoff_of_Axiom_Mission_4" >🔗</a> **[ESA]** Liftoff of Axiom Mission 4
-- <a href="https://spacenews.com/fourth-axiom-space-private-astronaut-mission-launched-to-iss/" >🔗</a> **[SpaceNews]** Fourth Axiom Space private astronaut mission launched to ISS
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250625T131154">2025-06-25 13:11:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250625T134108">2025-06-25 13:41:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
