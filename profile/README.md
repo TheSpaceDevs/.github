@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_finds_evidence_of_a_lightweight_planet_around_TWA_7" >🔗</a> **[ESA]** Webb finds evidence of a lightweight planet around TWA 7
-- <a href="https://spacenews.com/lux-aeterna-emerges-from-stealth-with-funds-for-fully-reusable-satellite-platform/" >🔗</a> **[SpaceNews]** Lux Aeterna emerges from stealth with funds for fully reusable satellite platform
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/06/The_beginning_of_Ignis_Mission" >🔗</a> **[ESA]** The beginning of Ignis Mission
-- <a href="https://spacenews.com/maxar-launches-intelligence-service-focused-on-persistent-monitoring/" >🔗</a> **[SpaceNews]** Maxar launches intelligence service focused on ‘persistent monitoring’
-- <a href="https://spacenews.com/first-rubin-observatory-images-released-amid-concerns-about-budget-cuts/" >🔗</a> **[SpaceNews]** First Rubin Observatory images released amid concerns about budget cuts
-- <a href="https://spaceflightnow.com/2025/06/25/commercial-crew-blasts-off-on-privately-funded-space-station-research-mission/" >🔗</a> **[Spaceflight Now]** Commercial crew blasts off on privately-funded space station research mission
-- <a href="https://www.esa.int/Applications/Satellite_navigation/LEO-PNT/ESA_s_LEO-PNT_satellites_set_to_launch_by_end_of_year" >🔗</a> **[ESA]** ESA’s LEO-PNT satellites set to launch by end of year
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Space_for_our_climate/First_sea-level_records_for_coastal_community_protection" >🔗</a> **[ESA]** First sea-level records for coastal community protection
-- <a href="https://spacepolicyonline.com/news/axiom-4-lifts-off-at-last/" >🔗</a> **[SpacePolicyOnline.com]** Axiom-4 Lifts Off At Last
-- <a href="https://europeanspaceflight.com/isar-aerospace-raises-e150m-through-convertible-bond-agreement/" >🔗</a> **[European Spaceflight]** Isar Aerospace Raises €150M Through Convertible Bond Agreement
+- <a href="https://spacenews.com/isar-aerospace-raises-150-million-euros/" >🔗</a> **[SpaceNews]** Isar Aerospace raises 150 million euros
+- <a href="https://science.nasa.gov/missions/europa-clipper/europa-clipper-resources/buoyant-rover-for-under-ice-exploration/" >🔗</a> **[NASA]** Buoyant Rover for Under Ice Exploration
+- <a href="https://science.nasa.gov/science-research/alien-ocean-2/" >🔗</a> **[NASA]** Alien Ocean
+- <a href="https://science.nasa.gov/missions/europa-clipper/europa-clipper-resources/europa-ocean-world/" >🔗</a> **[NASA]** Europa: Ocean World
+- <a href="https://science.nasa.gov/science-research/alien-ocean/" >🔗</a> **[NASA]** Alien Ocean
+- <a href="https://science.nasa.gov/science-research/reddish-bands-on-europa/" >🔗</a> **[NASA]** Reddish Bands on Europa
+- <a href="https://science.nasa.gov/missions/europa-clipper/europa-clipper-resources/europas-stunning-surface/" >🔗</a> **[NASA]** Europa’s Stunning Surface
+- <a href="https://science.nasa.gov/science-research/source-region-for-possible-europa-plumes/" >🔗</a> **[NASA]** Source Region for Possible Europa Plumes
+- <a href="https://science.nasa.gov/science-research/3-d-cilix-crater-on-europa/" >🔗</a> **[NASA]** 3-D Cilix Crater on Europa
+- <a href="https://science.nasa.gov/missions/europa-clipper/europa-clipper-resources/cracks-and-ridges-on-europa/" >🔗</a> **[NASA]** Cracks and Ridges on Europa
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250625T160131">2025-06-25 16:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250625T163843">2025-06-25 16:38:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
