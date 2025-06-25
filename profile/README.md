@@ -89,6 +89,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/06/following-ship-36-spacex-rebuilding-masseys/" >🔗</a> **[NASASpaceflight]** Following the Loss of Ship 36, SpaceX now Focuses on Rebuilding Masseys
+- <a href="https://www.nasa.gov/centers-and-facilities/jpl/john-casani-former-manager-of-multiple-nasa-missions-dies/" >🔗</a> **[NASA]** John Casani, Former Manager of Multiple NASA Missions, Dies
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/meet-rob-navias-public-affairs-officer-and-mission-commentator/" >🔗</a> **[NASA]** Meet Rob Navias: Public Affairs Officer and Mission Commentator
 - <a href="https://spacenews.com/isar-aerospace-raises-150-million-euros/" >🔗</a> **[SpaceNews]** Isar Aerospace raises 150 million euros
 - <a href="https://spaceflightnow.com/2025/06/25/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-3/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 27 Starlink satellites on Falcon 9 rocket from Cape Canaveral
@@ -97,8 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/science-research/alien-ocean-2/" >🔗</a> **[NASA]** Alien Ocean
 - <a href="https://science.nasa.gov/missions/europa-clipper/europa-clipper-resources/europa-ocean-world/" >🔗</a> **[NASA]** Europa: Ocean World
 - <a href="https://science.nasa.gov/science-research/alien-ocean/" >🔗</a> **[NASA]** Alien Ocean
-- <a href="https://science.nasa.gov/science-research/reddish-bands-on-europa/" >🔗</a> **[NASA]** Reddish Bands on Europa
-- <a href="https://science.nasa.gov/missions/europa-clipper/europa-clipper-resources/europas-stunning-surface/" >🔗</a> **[NASA]** Europa’s Stunning Surface
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250625T180135">2025-06-25 18:01:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250625T184020">2025-06-25 18:40:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
