@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/first-rubin-observatory-images-released-amid-concerns-about-budget-cuts/" >🔗</a> **[SpaceNews]** First Rubin Observatory images released amid concerns about budget cuts
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Space_for_our_climate/First_sea-level_records_for_coastal_community_protection" >🔗</a> **[ESA]** First sea-level records for coastal community protection
+- <a href="https://www.esa.int/Applications/Satellite_navigation/LEO-PNT/ESA_s_LEO-PNT_satellites_set_to_launch_by_end_of_year" >🔗</a> **[ESA]** ESA’s LEO-PNT satellites set to launch by end of year
 - <a href="https://spacepolicyonline.com/news/axiom-4-lifts-off-at-last/" >🔗</a> **[SpacePolicyOnline.com]** Axiom-4 Lifts Off At Last
 - <a href="https://europeanspaceflight.com/isar-aerospace-raises-e150m-through-convertible-bond-agreement/" >🔗</a> **[European Spaceflight]** Isar Aerospace Raises €150M Through Convertible Bond Agreement
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/06/Liftoff_of_Axiom_Mission_4" >🔗</a> **[ESA]** Liftoff of Axiom Mission 4
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-to-welcome-fourth-private-astronaut-mission-to-space-station/" >🔗</a> **[NASA]** NASA to Welcome Fourth Private Astronaut Mission to Space Station
 - <a href="https://spacepolicyonline.com/news/sullivan-cramer-introduce-golden-dome-act/" >🔗</a> **[SpacePolicyOnline.com]** Sullivan, Cramer Introduce Golden Dome Act
 - <a href="https://spacenews.com/a-strategy-for-peaceful-golden-dome-development/" >🔗</a> **[SpaceNews]** A strategy for peaceful Golden Dome development
-- <a href="https://spacenews.com/lynk-globals-spac-merger-on-the-rocks/" >🔗</a> **[SpaceNews]** Lynk Global’s SPAC merger on the rocks
-- <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-axiom-mission-4-launch-arrival-at-station-2/" >🔗</a> **[NASA]** NASA Sets Coverage for Axiom Mission 4 Launch, Arrival at Station
-- <a href="https://www.nasa.gov/image-article/nasa-astronaut-zena-cardman/" >🔗</a> **[NASA]** NASA Astronaut Zena Cardman
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250625T090244">2025-06-25 09:02:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250625T093611">2025-06-25 09:36:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
