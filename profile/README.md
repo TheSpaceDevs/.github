@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/06/The_beginning_of_Ignis_Mission" >🔗</a> **[ESA]** The beginning of Ignis Mission
+- <a href="https://spacenews.com/maxar-launches-intelligence-service-focused-on-persistent-monitoring/" >🔗</a> **[SpaceNews]** Maxar launches intelligence service focused on ‘persistent monitoring’
 - <a href="https://spacenews.com/first-rubin-observatory-images-released-amid-concerns-about-budget-cuts/" >🔗</a> **[SpaceNews]** First Rubin Observatory images released amid concerns about budget cuts
 - <a href="https://spaceflightnow.com/2025/06/25/commercial-crew-blasts-off-on-privately-funded-space-station-research-mission/" >🔗</a> **[Spaceflight Now]** Commercial crew blasts off on privately-funded space station research mission
 - <a href="https://www.esa.int/Applications/Satellite_navigation/LEO-PNT/ESA_s_LEO-PNT_satellites_set_to_launch_by_end_of_year" >🔗</a> **[ESA]** ESA’s LEO-PNT satellites set to launch by end of year
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/isar-aerospace-raises-e150m-through-convertible-bond-agreement/" >🔗</a> **[European Spaceflight]** Isar Aerospace Raises €150M Through Convertible Bond Agreement
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/06/Liftoff_of_Axiom_Mission_4" >🔗</a> **[ESA]** Liftoff of Axiom Mission 4
 - <a href="https://spacenews.com/fourth-axiom-space-private-astronaut-mission-launched-to-iss/" >🔗</a> **[SpaceNews]** Fourth Axiom Space private astronaut mission launched to ISS
-- <a href="https://www.nasa.gov/news-release/nasa-to-welcome-fourth-private-astronaut-mission-to-space-station/" >🔗</a> **[NASA]** NASA to Welcome Fourth Private Astronaut Mission to Space Station
-- <a href="https://spacepolicyonline.com/news/sullivan-cramer-introduce-golden-dome-act/" >🔗</a> **[SpacePolicyOnline.com]** Sullivan, Cramer Introduce Golden Dome Act
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250625T110122">2025-06-25 11:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250625T113251">2025-06-25 11:32:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
