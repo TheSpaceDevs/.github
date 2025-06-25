@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/axiom-4-lifts-off-at-last/" >🔗</a> **[SpacePolicyOnline.com]** Axiom-4 Lifts Off At Last
 - <a href="https://europeanspaceflight.com/isar-aerospace-raises-e150m-through-convertible-bond-agreement/" >🔗</a> **[European Spaceflight]** Isar Aerospace Raises €150M Through Convertible Bond Agreement
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/06/Liftoff_of_Axiom_Mission_4" >🔗</a> **[ESA]** Liftoff of Axiom Mission 4
 - <a href="https://spacenews.com/fourth-axiom-space-private-astronaut-mission-launched-to-iss/" >🔗</a> **[SpaceNews]** Fourth Axiom Space private astronaut mission launched to ISS
+- <a href="https://www.nasa.gov/news-release/nasa-to-welcome-fourth-private-astronaut-mission-to-space-station/" >🔗</a> **[NASA]** NASA to Welcome Fourth Private Astronaut Mission to Space Station
 - <a href="https://spacepolicyonline.com/news/sullivan-cramer-introduce-golden-dome-act/" >🔗</a> **[SpacePolicyOnline.com]** Sullivan, Cramer Introduce Golden Dome Act
 - <a href="https://spacenews.com/a-strategy-for-peaceful-golden-dome-development/" >🔗</a> **[SpaceNews]** A strategy for peaceful Golden Dome development
 - <a href="https://spacenews.com/lynk-globals-spac-merger-on-the-rocks/" >🔗</a> **[SpaceNews]** Lynk Global’s SPAC merger on the rocks
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-axiom-mission-4-launch-arrival-at-station-2/" >🔗</a> **[NASA]** NASA Sets Coverage for Axiom Mission 4 Launch, Arrival at Station
 - <a href="https://www.nasa.gov/image-article/nasa-astronaut-zena-cardman/" >🔗</a> **[NASA]** NASA Astronaut Zena Cardman
-- <a href="https://www.nasa.gov/missions/station/nicer-status-updates/" >🔗</a> **[NASA]** NICER Status Updates
-- <a href="https://science.nasa.gov/get-involved/citizen-science/live-or-fly-a-plane-in-california-help-nasa-measure-ozone-pollution/" >🔗</a> **[NASA]** Live or Fly a Plane in California? Help NASA Measure Ozone Pollution!
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250625T080154">2025-06-25 08:01:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250625T083904">2025-06-25 08:39:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
