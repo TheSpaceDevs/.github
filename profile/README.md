@@ -95,6 +95,8 @@ operate in a dawn-to-dusk polar orbit, while the 4th is Kestrel-0A, an experimen
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Earth_tones_on_Mars" >🔗</a> **[ESA]** Earth tones on Mars
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Space_for_our_climate/Satellite_records_expose_fire_driving_Gran_Chaco_transformation" >🔗</a> **[ESA]** Satellite records expose fire driving Gran Chaco transformation
 - <a href="https://spacenews.com/chinese-scientists-push-for-cubesat-swarm-mission-to-fly-by-infamous-asteroid-apophis/" >🔗</a> **[SpaceNews]** Chinese scientists push for cubesat swarm mission to fly by infamous asteroid Apophis
 - <a href="https://www.nasa.gov/image-article/nasas-chandra-shares-a-new-view-of-our-galactic-neighbor/" >🔗</a> **[NASA]** NASA’s Chandra Shares a New View of Our Galactic Neighbor
 - <a href="https://spacenews.com/satellite-imagery-firms-escalate-warnings-over-budget-cuts/" >🔗</a> **[SpaceNews]** Satellite imagery firms escalate warnings over budget cuts
@@ -103,8 +105,6 @@ operate in a dawn-to-dusk polar orbit, while the 4th is Kestrel-0A, an experimen
 - <a href="https://www.nasa.gov/image-article/waning-crescent-moon/" >🔗</a> **[NASA]** Waning Crescent Moon
 - <a href="https://www.nasaspaceflight.com/2025/06/following-ship-36-spacex-rebuilding-masseys/" >🔗</a> **[NASASpaceflight]** Following the Loss of Ship 36, SpaceX now Focuses on Rebuilding Masseys
 - <a href="https://science.nasa.gov/earth/nasa-assisted-scientists-get-birds-eye-view-of-population-status/" >🔗</a> **[NASA]** NASA-Assisted Scientists Get Bird’s-Eye View of Population Status
-- <a href="https://www.nasa.gov/learning-resources/what-are-asteroids-ages-14-18/" >🔗</a> **[NASA]** What Are Asteroids? (Ages 14-18)
-- <a href="https://www.nasa.gov/centers-and-facilities/jpl/john-casani-former-manager-of-multiple-nasa-missions-dies/" >🔗</a> **[NASA]** John Casani, Former Manager of Multiple NASA Missions, Dies
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ operate in a dawn-to-dusk polar orbit, while the 4th is Kestrel-0A, an experimen
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250626T090151">2025-06-26 09:01:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250626T093522">2025-06-26 09:35:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
