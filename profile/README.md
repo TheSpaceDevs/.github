@@ -95,6 +95,9 @@ operate in a dawn-to-dusk polar orbit, while the 4th is Kestrel-0A, an experimen
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/New_ESA_gravity_mission_to_detect_weakening_ocean_conveyor" >🔗</a> **[ESA]** New ESA gravity mission to detect weakening ocean conveyor
+- <a href="https://spacenews.com/deep-tech-is-driving-the-next-frontier-in-in-flight-connectivity/" >🔗</a> **[SpaceNews]** Deep tech is driving the next frontier in in-flight connectivity
+- <a href="https://www.nasa.gov/humans-in-space/nasa-australia-team-up-for-artemis-ii-lunar-laser-communications-test/" >🔗</a> **[NASA]** NASA, Australia Team Up for Artemis II Lunar Laser Communications Test
 - <a href="https://spacenews.com/nasas-acting-leadership-planning-new-agency-structure/" >🔗</a> **[SpaceNews]** NASA’s acting leadership planning new agency structure
 - <a href="https://europeanspaceflight.com/latitude-commits-e8m-to-launch-facility-in-french-guiana/" >🔗</a> **[European Spaceflight]** Latitude Commits €8M to Launch Facility in French Guiana
 - <a href="https://spacenews.com/first-firesat-satellite-delivers-thermal-images/" >🔗</a> **[SpaceNews]** First ‘FireSat’ satellite delivers thermal images
@@ -102,9 +105,6 @@ operate in a dawn-to-dusk polar orbit, while the 4th is Kestrel-0A, an experimen
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Earth_tones_on_Mars" >🔗</a> **[ESA]** Earth tones on Mars
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Space_for_our_climate/Satellite_records_expose_fire_driving_Gran_Chaco_transformation" >🔗</a> **[ESA]** Satellite records expose fire driving Gran Chaco transformation
 - <a href="https://spacenews.com/chinese-scientists-push-for-cubesat-swarm-mission-to-fly-by-infamous-asteroid-apophis/" >🔗</a> **[SpaceNews]** Chinese scientists push for cubesat swarm mission to fly by infamous asteroid Apophis
-- <a href="https://www.nasa.gov/image-article/nasas-chandra-shares-a-new-view-of-our-galactic-neighbor/" >🔗</a> **[NASA]** NASA’s Chandra Shares a New View of Our Galactic Neighbor
-- <a href="https://spacenews.com/satellite-imagery-firms-escalate-warnings-over-budget-cuts/" >🔗</a> **[SpaceNews]** Satellite imagery firms escalate warnings over budget cuts
-- <a href="https://www.nasa.gov/news-release/nasa-astronauts-to-answer-questions-from-alabama-students/" >🔗</a> **[NASA]** NASA Astronauts to Answer Questions from Alabama Students
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ operate in a dawn-to-dusk polar orbit, while the 4th is Kestrel-0A, an experimen
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250626T131121">2025-06-26 13:11:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250626T134008">2025-06-26 13:40:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
