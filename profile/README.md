@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/terran-orbital-implements-alternative-workweek-schedule-to-improve-efficiency-and-support-employees/" >🔗</a> **[SpaceNews]** Terran Orbital Implements Alternative Workweek Schedule to Improve Efficiency and Support Employees
+- <a href="https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-patrick-junen/" >🔗</a> **[NASA]** I Am Artemis: Patrick Junen
 - <a href="https://spacenews.com/trumps-one-big-beautiful-bill-would-give-space-force-a-nearly-40-billion-budget/" >🔗</a> **[SpaceNews]** Trump’s ‘One Big, Beautiful Bill’ would give Space Force a nearly $40 billion budget
 - <a href="https://www.nasa.gov/image-article/sparkling-andromeda/" >🔗</a> **[NASA]** Sparkling Andromeda
 - <a href="https://spacenews.com/technology-safeguards-agreement-enables-firefly-launches-from-sweden/" >🔗</a> **[SpaceNews]** Technology safeguards agreement enables Firefly launches from Sweden
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/get-involved/citizen-science/nasa-citizen-scientists-find-new-eclipsing-binary-stars/" >🔗</a> **[NASA]** NASA Citizen Scientists Find New Eclipsing Binary Stars
 - <a href="https://www.nasa.gov/directorates/somd/meet-the-space-ops-team-derrick-bailey/" >🔗</a> **[NASA]** Meet the Space Ops Team: Derrick Bailey
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/06/Ax-4_joins_the_International_Space_Station" >🔗</a> **[ESA]** Ax-4 joins the International Space Station
-- <a href="https://www.spacescout.info/2025/06/axiom-4-continues-to-expand-access-to-station/" >🔗</a> **[Space Scout]** Axiom-4 Continues to Expand Access to Station
-- <a href="https://science.nasa.gov/missions/webb/nasas-webb-digs-into-structural-origins-of-disk-galaxies/" >🔗</a> **[NASA]** NASA’s Webb Digs into Structural Origins of Disk Galaxies
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250626T200122">2025-06-26 20:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250626T203501">2025-06-26 20:35:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
