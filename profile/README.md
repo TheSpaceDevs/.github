@@ -95,6 +95,8 @@ operate in a dawn-to-dusk polar orbit, while the 4th is Kestrel-0A, an experimen
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/get-involved/citizen-science/nasa-citizen-scientists-find-new-eclipsing-binary-stars/" >🔗</a> **[NASA]** NASA Citizen Scientists Find New Eclipsing Binary Stars
+- <a href="https://www.nasa.gov/directorates/somd/meet-the-space-ops-team-derrick-bailey/" >🔗</a> **[NASA]** Meet the Space Ops Team: Derrick Bailey
 - <a href="https://www.spacescout.info/2025/06/axiom-4-continues-to-expand-access-to-station/" >🔗</a> **[Space Scout]** Axiom-4 Continues to Expand Access to Station
 - <a href="https://spacenews.com/what-mars-can-teach-us-about-life/" >🔗</a> **[SpaceNews]** What Mars can teach us about life
 - <a href="https://www.nasaspaceflight.com/2025/06/bole-dm1-test/" >🔗</a> **[NASASpaceflight]** Northrop Grumman set to test SLS Block 2 BOLE booster in Utah
@@ -103,8 +105,6 @@ operate in a dawn-to-dusk polar orbit, while the 4th is Kestrel-0A, an experimen
 - <a href="https://www.nasa.gov/humans-in-space/nasa-australia-team-up-for-artemis-ii-lunar-laser-communications-test/" >🔗</a> **[NASA]** NASA, Australia Team Up for Artemis II Lunar Laser Communications Test
 - <a href="https://spacenews.com/nasas-acting-leadership-planning-new-agency-structure/" >🔗</a> **[SpaceNews]** NASA’s acting leadership planning new agency structure
 - <a href="https://europeanspaceflight.com/latitude-commits-e8m-to-launch-facility-in-french-guiana/" >🔗</a> **[European Spaceflight]** Latitude Commits €8M to Launch Facility in French Guiana
-- <a href="https://spacenews.com/first-firesat-satellite-delivers-thermal-images/" >🔗</a> **[SpaceNews]** First ‘FireSat’ satellite delivers thermal images
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Watch_MTG-S1_and_Sentinel-4_launch_live" >🔗</a> **[ESA]** Watch MTG-S1 and Sentinel-4 launch live
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ operate in a dawn-to-dusk polar orbit, while the 4th is Kestrel-0A, an experimen
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250626T160134">2025-06-26 16:01:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250626T163807">2025-06-26 16:38:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
