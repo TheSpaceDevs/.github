@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4580-4581-something-in-the-air/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4580-4581: Something in the Air…
 - <a href="https://spacenews.com/terran-orbital-implements-alternative-workweek-schedule-to-improve-efficiency-and-support-employees/" >🔗</a> **[SpaceNews]** Terran Orbital Implements Alternative Workweek Schedule to Improve Efficiency and Support Employees
 - <a href="https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-patrick-junen/" >🔗</a> **[NASA]** I Am Artemis: Patrick Junen
 - <a href="https://spacenews.com/trumps-one-big-beautiful-bill-would-give-space-force-a-nearly-40-billion-budget/" >🔗</a> **[SpaceNews]** Trump’s ‘One Big, Beautiful Bill’ would give Space Force a nearly $40 billion budget
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/missions/mars-reconnaissance-orbiter/nasa-mars-orbiter-learns-new-moves-after-nearly-20-years-in-space/" >🔗</a> **[NASA]** NASA Mars Orbiter Learns New Moves After Nearly 20 Years in Space
 - <a href="https://science.nasa.gov/get-involved/citizen-science/nasa-citizen-scientists-find-new-eclipsing-binary-stars/" >🔗</a> **[NASA]** NASA Citizen Scientists Find New Eclipsing Binary Stars
 - <a href="https://www.nasa.gov/directorates/somd/meet-the-space-ops-team-derrick-bailey/" >🔗</a> **[NASA]** Meet the Space Ops Team: Derrick Bailey
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/06/Ax-4_joins_the_International_Space_Station" >🔗</a> **[ESA]** Ax-4 joins the International Space Station
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250626T210129">2025-06-26 21:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250626T213319">2025-06-26 21:33:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
