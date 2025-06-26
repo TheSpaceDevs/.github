@@ -19,32 +19,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Electron | Get The Hawk Outta Here (4x HawkEye 360)**. It is scheduled to be launched by *Rocket Lab*
+**Falcon 9 Block 5 | Starlink Group 10-34**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1">Rocket Lab Launch Complex 1A</a>, Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250626T170000">2025-06-26 17:00:00 UTC</a>.  Until
-then, this pad will have been used for 31
-out of 60 launches from this location. The launch status is currently
-*Go* 🟩 . The mission type is
-*Earth Science* and the payload will be injected
+from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral SFS, FL, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250628T042600">2025-06-28 04:26:00 UTC</a>.  Until
+then, this pad will have been used for 317
+out of 1034 launches from this location. The launch status is currently
+*TBC* 🟨 . The mission type is
+*Communications* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  HawkEye 360 is a a space-based civil global intelligence satellite network using radio frequency (RF) technology to help monitor transportation across air, land and sea and assist with emergencies, and to provide civil SIGINT (Signal Intelligence) mission.
-
-The constellation of small satellites (named Hawk) will collect information on specific radio signals worldwide to provide high-precision radio frequency mapping and analytics from Low Earth orbit (LEO).
-
-3 of the satellites will comprise HawkEye 360’s Cluster 12 and will
-operate in a dawn-to-dusk polar orbit, while the 4th is Kestrel-0A, an experimental satellite designed to evaluate emerging capabilities and future technology enhancements.
+  A batch of satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Rocket_Lab_Electron" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=-39.262833,177.864469" >
+  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -59,6 +54,7 @@ operate in a dawn-to-dusk polar orbit, while the 4th is Kestrel-0A, an experimen
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250630T000000">2025-06-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 8 | G60 Group TBD&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20250630T000000Z%2F20250630T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 8 | G60 Group TBD** from Wenchang Space Launch Site, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250701T055200">2025-07-01 05:52:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-25&location=Kennedy Space Center, FL, USA&dates=20250701T055200Z%2F20250701T095200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-25** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250701T210300">2025-07-01 21:03:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | MTG-S1&location=Cape Canaveral SFS, FL, USA&dates=20250701T210300Z%2F20250702T001500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | MTG-S1** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250701T213000">2025-07-01 21:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/au.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Eris-1 | Maiden Flight&location=Bowen Orbital Spaceport&dates=20250701T213000Z%2F20250702T073000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Eris-1 | Maiden Flight** from Bowen Orbital Spaceport.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -94,26 +90,25 @@ operate in a dawn-to-dusk polar orbit, while the 4th is Kestrel-0A, an experimen
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/technology-safeguards-agreement-enables-firefly-launches-from-sweden/" >🔗</a> **[SpaceNews]** Technology safeguards agreement enables Firefly launches from Sweden
+- <a href="https://www.nasa.gov/centers-and-facilities/ames/ames-science/by-air-and-by-sea-validating-nasas-pace-ocean-color-instrument/" >🔗</a> **[NASA]** By Air and by Sea: Validating NASA’s PACE Ocean Color Instrument
+- <a href="https://www.nasa.gov/missions/mars-reconnaissance-orbiter/nasa-mars-orbiter-learns-new-moves-after-nearly-20-years-in-space/" >🔗</a> **[NASA]** NASA Mars Orbiter Learns New Moves After Nearly 20 Years in Space
 - <a href="https://science.nasa.gov/get-involved/citizen-science/nasa-citizen-scientists-find-new-eclipsing-binary-stars/" >🔗</a> **[NASA]** NASA Citizen Scientists Find New Eclipsing Binary Stars
 - <a href="https://www.nasa.gov/directorates/somd/meet-the-space-ops-team-derrick-bailey/" >🔗</a> **[NASA]** Meet the Space Ops Team: Derrick Bailey
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/06/Ax-4_joins_the_International_Space_Station" >🔗</a> **[ESA]** Ax-4 joins the International Space Station
 - <a href="https://www.spacescout.info/2025/06/axiom-4-continues-to-expand-access-to-station/" >🔗</a> **[Space Scout]** Axiom-4 Continues to Expand Access to Station
+- <a href="https://science.nasa.gov/missions/webb/nasas-webb-digs-into-structural-origins-of-disk-galaxies/" >🔗</a> **[NASA]** NASA’s Webb Digs into Structural Origins of Disk Galaxies
 - <a href="https://spacenews.com/what-mars-can-teach-us-about-life/" >🔗</a> **[SpaceNews]** What Mars can teach us about life
 - <a href="https://www.nasaspaceflight.com/2025/06/bole-dm1-test/" >🔗</a> **[NASASpaceflight]** Northrop Grumman set to test SLS Block 2 BOLE booster in Utah
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/New_ESA_gravity_mission_to_detect_weakening_ocean_conveyor" >🔗</a> **[ESA]** New ESA gravity mission to detect weakening ocean conveyor
-- <a href="https://spacenews.com/deep-tech-is-driving-the-next-frontier-in-in-flight-connectivity/" >🔗</a> **[SpaceNews]** Deep tech is driving the next frontier in in-flight connectivity
-- <a href="https://www.nasa.gov/humans-in-space/nasa-australia-team-up-for-artemis-ii-lunar-laser-communications-test/" >🔗</a> **[NASA]** NASA, Australia Team Up for Artemis II Lunar Laser Communications Test
-- <a href="https://spacenews.com/nasas-acting-leadership-planning-new-agency-structure/" >🔗</a> **[SpaceNews]** NASA’s acting leadership planning new agency structure
-- <a href="https://europeanspaceflight.com/latitude-commits-e8m-to-launch-facility-in-french-guiana/" >🔗</a> **[European Spaceflight]** Latitude Commits €8M to Launch Facility in French Guiana
 
 
 ### Launch-related News 🚀
 
-- <a href="https://spacenews.com/rocket-lab-to-launch-hawkeye-360-satellites-on-first-wallops-electron-mission/" >🔗</a> **[SpaceNews]** Rocket Lab to launch HawkEye 360 satellites on first Wallops Electron mission
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250626T170155">2025-06-26 17:01:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250626T173444">2025-06-26 17:34:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
