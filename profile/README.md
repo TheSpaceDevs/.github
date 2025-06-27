@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/rocket-lab-launches-hawkeye-360-satellites/" >🔗</a> **[SpaceNews]** Rocket Lab launches HawkEye 360 satellites
 - <a href="https://arstechnica.com/features/2025/06/trump-budget-kills-nasas-golden-opportunity-to-see-a-killer-asteroid-up-close/" >🔗</a> **[Arstechnica]** Trump budget kills NASA’s golden opportunity to see a killer asteroid up close
 - <a href="https://spacenews.com/chinas-shenzhou-20-astronauts-complete-second-spacewalk-to-enhance-tiangong-space-station/" >🔗</a> **[SpaceNews]** China’s Shenzhou-20 astronauts complete second spacewalk to enhance Tiangong space station
 - <a href="https://www.esa.int/Space_Safety/Planetary_Defence/Will_asteroid_2024_YR4_hit_the_Moon" >🔗</a> **[ESA]** Will asteroid 2024 YR4 hit the Moon?
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/terran-orbital-implements-alternative-workweek-schedule-to-improve-efficiency-and-support-employees/" >🔗</a> **[SpaceNews]** Terran Orbital Implements Alternative Workweek Schedule to Improve Efficiency and Support Employees
 - <a href="https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-patrick-junen/" >🔗</a> **[NASA]** I Am Artemis: Patrick Junen
 - <a href="https://spacenews.com/trumps-one-big-beautiful-bill-would-give-space-force-a-nearly-40-billion-budget/" >🔗</a> **[SpaceNews]** Trump’s ‘One Big, Beautiful Bill’ would give Space Force a nearly $40 billion budget
-- <a href="https://www.nasa.gov/image-article/sparkling-andromeda/" >🔗</a> **[NASA]** Sparkling Andromeda
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250627T120205">2025-06-27 12:02:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250627T124320">2025-06-27 12:43:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
