@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/asi-taps-ohb-to-develop-lunar-oxygen-extraction-mission/" >🔗</a> **[European Spaceflight]** ASI Taps OHB to Develop Lunar Oxygen Extraction Mission
+- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_23-27_June_2025" >🔗</a> **[ESA]** Week in images: 23-27 June 2025
+- <a href="https://spacenews.com/all-eyes-on-the-moon-sharing-information-for-lunar-peace-safety-and-sustainability/" >🔗</a> **[SpaceNews]** All eyes on the moon: sharing information for lunar peace, safety and sustainability
 - <a href="https://spacenews.com/rocket-lab-launches-hawkeye-360-satellites/" >🔗</a> **[SpaceNews]** Rocket Lab launches HawkEye 360 satellites
 - <a href="https://arstechnica.com/features/2025/06/trump-budget-kills-nasas-golden-opportunity-to-see-a-killer-asteroid-up-close/" >🔗</a> **[Arstechnica]** Trump budget kills NASA’s golden opportunity to see a killer asteroid up close
 - <a href="https://spacenews.com/chinas-shenzhou-20-astronauts-complete-second-spacewalk-to-enhance-tiangong-space-station/" >🔗</a> **[SpaceNews]** China’s Shenzhou-20 astronauts complete second spacewalk to enhance Tiangong space station
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/adding-reconciliation-space-force-budget-tops-40-billion-in-fy2026/" >🔗</a> **[SpacePolicyOnline.com]** Adding Reconciliation, Space Force Budget Tops $40 Billion in FY2026
 - <a href="https://spacenews.com/pentagon-to-consider-spacex-alternative-for-space-force-satellite-program/" >🔗</a> **[SpaceNews]** Pentagon to consider SpaceX alternative for Space Force satellite program
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4580-4581-something-in-the-air/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4580-4581: Something in the Air…
-- <a href="https://spacenews.com/terran-orbital-implements-alternative-workweek-schedule-to-improve-efficiency-and-support-employees/" >🔗</a> **[SpaceNews]** Terran Orbital Implements Alternative Workweek Schedule to Improve Efficiency and Support Employees
-- <a href="https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-patrick-junen/" >🔗</a> **[NASA]** I Am Artemis: Patrick Junen
-- <a href="https://spacenews.com/trumps-one-big-beautiful-bill-would-give-space-force-a-nearly-40-billion-budget/" >🔗</a> **[SpaceNews]** Trump’s ‘One Big, Beautiful Bill’ would give Space Force a nearly $40 billion budget
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250627T131020">2025-06-27 13:10:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250627T133858">2025-06-27 13:38:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
