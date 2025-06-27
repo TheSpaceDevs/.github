@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/human-lander-challenge/nasa-announces-winners-of-2025-human-lander-challenge/" >🔗</a> **[NASA]** NASA Announces Winners of 2025 Human Lander Challenge
 - <a href="https://www.nasa.gov/image-article/astronaut-joe-engle-flies-x-15/" >🔗</a> **[NASA]** Astronaut Joe Engle Flies X-15
 - <a href="https://www.nasa.gov/people-of-nasa/sophia-roberts-showcasing-the-cosmos/" >🔗</a> **[NASA]** Sophia Roberts: Showcasing the Cosmos
 - <a href="https://www.nasa.gov/people-of-nasa/goddard-people/sophia-roberts-showcasing-the-cosmos/" >🔗</a> **[NASA]** Sophia Roberts: Showcasing the Cosmos
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/asi-taps-ohb-to-develop-lunar-oxygen-extraction-mission/" >🔗</a> **[European Spaceflight]** ASI Taps OHB to Develop Lunar Oxygen Extraction Mission
 - <a href="https://science.nasa.gov/missions/hubble/hubble-captures-an-active-galactic-center/" >🔗</a> **[NASA]** Hubble Captures an Active Galactic Center
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_23-27_June_2025" >🔗</a> **[ESA]** Week in images: 23-27 June 2025
-- <a href="https://spacenews.com/all-eyes-on-the-moon-sharing-information-for-lunar-peace-safety-and-sustainability/" >🔗</a> **[SpaceNews]** All eyes on the moon: sharing information for lunar peace, safety and sustainability
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250627T190123">2025-06-27 19:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250627T193115">2025-06-27 19:31:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
