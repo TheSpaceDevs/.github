@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/06/27/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-4/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 27 Starlink satellites on Falcon 9 rocket from Cape Canaveral
+- <a href="https://www.nasa.gov/image-article/nasa-welcomes-axiom-mission-4-to-the-international-space-station/" >🔗</a> **[NASA]** NASA Welcomes Axiom Mission 4 to the International Space Station
 - <a href="https://spacenews.com/echostar-delays-bankruptcy-threat-after-trump-pushes-for-fcc-resolution/" >🔗</a> **[SpaceNews]** EchoStar delays bankruptcy threat after Trump pushes for FCC resolution
 - <a href="https://www.nasaspaceflight.com/2025/06/firefly-update-062725/" >🔗</a> **[NASASpaceflight]** Firefly advances production of Eclipse and Blue Ghost, announces Ocula imaging service
 - <a href="https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/human-lander-challenge/nasa-announces-winners-of-2025-human-lander-challenge/" >🔗</a> **[NASA]** NASA Announces Winners of 2025 Human Lander Challenge
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/people-of-nasa/goddard-people/sophia-roberts-showcasing-the-cosmos/" >🔗</a> **[NASA]** Sophia Roberts: Showcasing the Cosmos
 - <a href="https://spacenews.com/the-commercial-space-federation-csf-welcomes-starcloud-and-volta-space-technologies-as-new-associate-members/" >🔗</a> **[SpaceNews]** The Commercial Space Federation (CSF) Welcomes Starcloud and Volta Space Technologies as New Associate Members
 - <a href="https://spacenews.com/new-sls-booster-design-suffers-anomaly-during-test/" >🔗</a> **[SpaceNews]** New SLS booster design suffers anomaly during test
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/06/A_new_adventure_on_the_International_Space_Station" >🔗</a> **[ESA]** A new adventure on the International Space Station
-- <a href="https://europeanspaceflight.com/asi-taps-ohb-to-develop-lunar-oxygen-extraction-mission/" >🔗</a> **[European Spaceflight]** ASI Taps OHB to Develop Lunar Oxygen Extraction Mission
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250627T210125">2025-06-27 21:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250627T213244">2025-06-27 21:32:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
