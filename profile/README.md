@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/new-sls-booster-design-suffers-anomaly-during-test/" >🔗</a> **[SpaceNews]** New SLS booster design suffers anomaly during test
 - <a href="https://europeanspaceflight.com/asi-taps-ohb-to-develop-lunar-oxygen-extraction-mission/" >🔗</a> **[European Spaceflight]** ASI Taps OHB to Develop Lunar Oxygen Extraction Mission
 - <a href="https://science.nasa.gov/missions/hubble/hubble-captures-an-active-galactic-center/" >🔗</a> **[NASA]** Hubble Captures an Active Galactic Center
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_23-27_June_2025" >🔗</a> **[ESA]** Week in images: 23-27 June 2025
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/features/2025/06/trump-budget-kills-nasas-golden-opportunity-to-see-a-killer-asteroid-up-close/" >🔗</a> **[Arstechnica]** Trump budget kills NASA’s golden opportunity to see a killer asteroid up close
 - <a href="https://spacenews.com/chinas-shenzhou-20-astronauts-complete-second-spacewalk-to-enhance-tiangong-space-station/" >🔗</a> **[SpaceNews]** China’s Shenzhou-20 astronauts complete second spacewalk to enhance Tiangong space station
 - <a href="https://www.esa.int/Space_Safety/Planetary_Defence/Will_asteroid_2024_YR4_hit_the_Moon" >🔗</a> **[ESA]** Will asteroid 2024 YR4 hit the Moon?
-- <a href="https://spacepolicyonline.com/news/adding-reconciliation-space-force-budget-tops-40-billion-in-fy2026/" >🔗</a> **[SpacePolicyOnline.com]** Adding Reconciliation, Space Force Budget Tops $40 Billion in FY2026
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250627T150130">2025-06-27 15:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250627T153443">2025-06-27 15:34:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
