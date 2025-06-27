@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/astronaut-joe-engle-flies-x-15/" >🔗</a> **[NASA]** Astronaut Joe Engle Flies X-15
+- <a href="https://www.nasa.gov/people-of-nasa/sophia-roberts-showcasing-the-cosmos/" >🔗</a> **[NASA]** Sophia Roberts: Showcasing the Cosmos
 - <a href="https://www.nasa.gov/people-of-nasa/goddard-people/sophia-roberts-showcasing-the-cosmos/" >🔗</a> **[NASA]** Sophia Roberts: Showcasing the Cosmos
 - <a href="https://spacenews.com/the-commercial-space-federation-csf-welcomes-starcloud-and-volta-space-technologies-as-new-associate-members/" >🔗</a> **[SpaceNews]** The Commercial Space Federation (CSF) Welcomes Starcloud and Volta Space Technologies as New Associate Members
 - <a href="https://spacenews.com/new-sls-booster-design-suffers-anomaly-during-test/" >🔗</a> **[SpaceNews]** New SLS booster design suffers anomaly during test
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/missions/hubble/hubble-captures-an-active-galactic-center/" >🔗</a> **[NASA]** Hubble Captures an Active Galactic Center
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_23-27_June_2025" >🔗</a> **[ESA]** Week in images: 23-27 June 2025
 - <a href="https://spacenews.com/all-eyes-on-the-moon-sharing-information-for-lunar-peace-safety-and-sustainability/" >🔗</a> **[SpaceNews]** All eyes on the moon: sharing information for lunar peace, safety and sustainability
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/06/Ignis_ignited" >🔗</a> **[ESA]** Ignis ignited
-- <a href="https://spacenews.com/rocket-lab-launches-hawkeye-360-satellites/" >🔗</a> **[SpaceNews]** Rocket Lab launches HawkEye 360 satellites
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250627T180150">2025-06-27 18:01:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250627T183912">2025-06-27 18:39:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
