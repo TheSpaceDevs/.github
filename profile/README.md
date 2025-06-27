@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Space_Safety/Planetary_Defence/Will_asteroid_2024_YR4_hit_the_Moon" >🔗</a> **[ESA]** Will asteroid 2024 YR4 hit the Moon?
 - <a href="https://spacepolicyonline.com/news/adding-reconciliation-space-force-budget-tops-40-billion-in-fy2026/" >🔗</a> **[SpacePolicyOnline.com]** Adding Reconciliation, Space Force Budget Tops $40 Billion in FY2026
 - <a href="https://spacenews.com/pentagon-to-consider-spacex-alternative-for-space-force-satellite-program/" >🔗</a> **[SpaceNews]** Pentagon to consider SpaceX alternative for Space Force satellite program
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4580-4581-something-in-the-air/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4580-4581: Something in the Air…
@@ -99,16 +100,16 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/sparkling-andromeda/" >🔗</a> **[NASA]** Sparkling Andromeda
 - <a href="https://spacenews.com/technology-safeguards-agreement-enables-firefly-launches-from-sweden/" >🔗</a> **[SpaceNews]** Technology safeguards agreement enables Firefly launches from Sweden
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/ames-science/by-air-and-by-sea-validating-nasas-pace-ocean-color-instrument/" >🔗</a> **[NASA]** By Air and by Sea: Validating NASA’s PACE Ocean Color Instrument
-- <a href="https://www.nasa.gov/missions/mars-reconnaissance-orbiter/nasa-mars-orbiter-learns-new-moves-after-nearly-20-years-in-space/" >🔗</a> **[NASA]** NASA Mars Orbiter Learns New Moves After Nearly 20 Years in Space
 
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2025/06/launch-roundup-062425/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Launch manifest remains busy as 2025’s halfway point approaches
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250627T070135">2025-06-27 07:01:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250627T073328">2025-06-27 07:33:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
