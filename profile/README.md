@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/adding-reconciliation-space-force-budget-tops-40-billion-in-fy2026/" >🔗</a> **[SpacePolicyOnline.com]** Adding Reconciliation, Space Force Budget Tops $40 Billion in FY2026
 - <a href="https://spacenews.com/pentagon-to-consider-spacex-alternative-for-space-force-satellite-program/" >🔗</a> **[SpaceNews]** Pentagon to consider SpaceX alternative for Space Force satellite program
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4580-4581-something-in-the-air/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4580-4581: Something in the Air…
 - <a href="https://spacenews.com/terran-orbital-implements-alternative-workweek-schedule-to-improve-efficiency-and-support-employees/" >🔗</a> **[SpaceNews]** Terran Orbital Implements Alternative Workweek Schedule to Improve Efficiency and Support Employees
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/technology-safeguards-agreement-enables-firefly-launches-from-sweden/" >🔗</a> **[SpaceNews]** Technology safeguards agreement enables Firefly launches from Sweden
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/ames-science/by-air-and-by-sea-validating-nasas-pace-ocean-color-instrument/" >🔗</a> **[NASA]** By Air and by Sea: Validating NASA’s PACE Ocean Color Instrument
 - <a href="https://www.nasa.gov/missions/mars-reconnaissance-orbiter/nasa-mars-orbiter-learns-new-moves-after-nearly-20-years-in-space/" >🔗</a> **[NASA]** NASA Mars Orbiter Learns New Moves After Nearly 20 Years in Space
-- <a href="https://science.nasa.gov/get-involved/citizen-science/nasa-citizen-scientists-find-new-eclipsing-binary-stars/" >🔗</a> **[NASA]** NASA Citizen Scientists Find New Eclipsing Binary Stars
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250627T030041">2025-06-27 03:00:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250627T034519">2025-06-27 03:45:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
