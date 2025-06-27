@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/nasa-looking-at-organizational-change-amid-workforce-and-budget-cutbacks/" >🔗</a> **[SpacePolicyOnline.com]** NASA Looking at Organizational Change Amid Workforce and Budget Cutbacks
 - <a href="https://spaceflightnow.com/2025/06/27/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-4/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 27 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://www.nasa.gov/image-article/nasa-welcomes-axiom-mission-4-to-the-international-space-station/" >🔗</a> **[NASA]** NASA Welcomes Axiom Mission 4 to the International Space Station
 - <a href="https://spacenews.com/echostar-delays-bankruptcy-threat-after-trump-pushes-for-fcc-resolution/" >🔗</a> **[SpaceNews]** EchoStar delays bankruptcy threat after Trump pushes for FCC resolution
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/people-of-nasa/sophia-roberts-showcasing-the-cosmos/" >🔗</a> **[NASA]** Sophia Roberts: Showcasing the Cosmos
 - <a href="https://www.nasa.gov/people-of-nasa/goddard-people/sophia-roberts-showcasing-the-cosmos/" >🔗</a> **[NASA]** Sophia Roberts: Showcasing the Cosmos
 - <a href="https://spacenews.com/the-commercial-space-federation-csf-welcomes-starcloud-and-volta-space-technologies-as-new-associate-members/" >🔗</a> **[SpaceNews]** The Commercial Space Federation (CSF) Welcomes Starcloud and Volta Space Technologies as New Associate Members
-- <a href="https://spacenews.com/new-sls-booster-design-suffers-anomaly-during-test/" >🔗</a> **[SpaceNews]** New SLS booster design suffers anomaly during test
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250627T220128">2025-06-27 22:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250627T223549">2025-06-27 22:35:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
