@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/people-of-nasa/goddard-people/sophia-roberts-showcasing-the-cosmos/" >🔗</a> **[NASA]** Sophia Roberts: Showcasing the Cosmos
+- <a href="https://spacenews.com/the-commercial-space-federation-csf-welcomes-starcloud-and-volta-space-technologies-as-new-associate-members/" >🔗</a> **[SpaceNews]** The Commercial Space Federation (CSF) Welcomes Starcloud and Volta Space Technologies as New Associate Members
 - <a href="https://spacenews.com/new-sls-booster-design-suffers-anomaly-during-test/" >🔗</a> **[SpaceNews]** New SLS booster design suffers anomaly during test
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/06/A_new_adventure_on_the_International_Space_Station" >🔗</a> **[ESA]** A new adventure on the International Space Station
 - <a href="https://europeanspaceflight.com/asi-taps-ohb-to-develop-lunar-oxygen-extraction-mission/" >🔗</a> **[European Spaceflight]** ASI Taps OHB to Develop Lunar Oxygen Extraction Mission
 - <a href="https://science.nasa.gov/missions/hubble/hubble-captures-an-active-galactic-center/" >🔗</a> **[NASA]** Hubble Captures an Active Galactic Center
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_23-27_June_2025" >🔗</a> **[ESA]** Week in images: 23-27 June 2025
 - <a href="https://spacenews.com/all-eyes-on-the-moon-sharing-information-for-lunar-peace-safety-and-sustainability/" >🔗</a> **[SpaceNews]** All eyes on the moon: sharing information for lunar peace, safety and sustainability
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/06/Ignis_ignited" >🔗</a> **[ESA]** Ignis ignited
 - <a href="https://spacenews.com/rocket-lab-launches-hawkeye-360-satellites/" >🔗</a> **[SpaceNews]** Rocket Lab launches HawkEye 360 satellites
-- <a href="https://arstechnica.com/features/2025/06/trump-budget-kills-nasas-golden-opportunity-to-see-a-killer-asteroid-up-close/" >🔗</a> **[Arstechnica]** Trump budget kills NASA’s golden opportunity to see a killer asteroid up close
-- <a href="https://spacenews.com/chinas-shenzhou-20-astronauts-complete-second-spacewalk-to-enhance-tiangong-space-station/" >🔗</a> **[SpaceNews]** China’s Shenzhou-20 astronauts complete second spacewalk to enhance Tiangong space station
-- <a href="https://www.esa.int/Space_Safety/Planetary_Defence/Will_asteroid_2024_YR4_hit_the_Moon" >🔗</a> **[ESA]** Will asteroid 2024 YR4 hit the Moon?
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250627T160125">2025-06-27 16:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250627T163705">2025-06-27 16:37:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
