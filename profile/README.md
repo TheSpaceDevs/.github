@@ -26,13 +26,13 @@ from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Sp
 at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250628T042600">2025-06-28 04:26:00 UTC</a>.  Until
 then, this pad will have been used for 317
 out of 1034 launches from this location. The launch status is currently
-*TBC* 🟨 . The mission type is
+*Go* 🟩 . The mission type is
 *Communications* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  A batch of satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
@@ -45,7 +45,7 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250628T042600">2025-06-28 04:26:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-34&location=Cape Canaveral SFS, FL, USA&dates=20250628T042600Z%2F20250628T082600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-34** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250628T042600">2025-06-28 04:26:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-34&location=Cape Canaveral SFS, FL, USA&dates=20250628T042600Z%2F20250628T082600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-34** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250628T064500">2025-06-28 06:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Symphony In The Stars&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20250628T064500Z%2F20250628T064500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Symphony In The Stars** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250628T163303">2025-06-28 16:33:03 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=H-IIA 202 | GOSAT-GW&location=Tanegashima Space Center, Japan&dates=20250628T163303Z%2F20250628T165200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **H-IIA 202 | GOSAT-GW** from Tanegashima Space Center, Japan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250628T164300">2025-06-28 16:43:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 15-7&location=Vandenberg SFB, CA, USA&dates=20250628T164300Z%2F20250628T204300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 15-7** from Vandenberg SFB, CA, USA.
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250627T004600">2025-06-27 00:46:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250627T012908">2025-06-27 01:29:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
