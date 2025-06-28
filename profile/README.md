@@ -94,6 +94,7 @@ In December 2013, Mitsubishi Electric (MELCO) was selected as the prime contract
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacex-scores-81-6-million-space-force-contract-to-launch-weather-satellite/" >🔗</a> **[SpaceNews]** SpaceX scores $81.6 million Space Force contract to launch weather satellite
 - <a href="https://spacepolicyonline.com/news/nasa-looking-at-organizational-change-amid-workforce-and-budget-cutbacks/" >🔗</a> **[SpacePolicyOnline.com]** NASA Looking at Organizational Change Amid Workforce and Budget Cutbacks
 - <a href="https://spaceflightnow.com/2025/06/27/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-4/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 27 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://www.nasa.gov/image-article/nasa-welcomes-axiom-mission-4-to-the-international-space-station/" >🔗</a> **[NASA]** NASA Welcomes Axiom Mission 4 to the International Space Station
@@ -103,7 +104,6 @@ In December 2013, Mitsubishi Electric (MELCO) was selected as the prime contract
 - <a href="https://www.nasa.gov/image-article/astronaut-joe-engle-flies-x-15/" >🔗</a> **[NASA]** Astronaut Joe Engle Flies X-15
 - <a href="https://www.nasa.gov/people-of-nasa/sophia-roberts-showcasing-the-cosmos/" >🔗</a> **[NASA]** Sophia Roberts: Showcasing the Cosmos
 - <a href="https://www.nasa.gov/people-of-nasa/goddard-people/sophia-roberts-showcasing-the-cosmos/" >🔗</a> **[NASA]** Sophia Roberts: Showcasing the Cosmos
-- <a href="https://spacenews.com/the-commercial-space-federation-csf-welcomes-starcloud-and-volta-space-technologies-as-new-associate-members/" >🔗</a> **[SpaceNews]** The Commercial Space Federation (CSF) Welcomes Starcloud and Volta Space Technologies as New Associate Members
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ In December 2013, Mitsubishi Electric (MELCO) was selected as the prime contract
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250628T113115">2025-06-28 11:31:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250628T120203">2025-06-28 12:02:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
