@@ -94,6 +94,9 @@ In December 2013, Mitsubishi Electric (MELCO) was selected as the prime contract
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/iceye-secures-three-defence-contracts-in-just-two-weeks/" >🔗</a> **[European Spaceflight]** ICEYE Secures Three Defence Contracts in Just Two Weeks
+- <a href="https://spacenews.com/rocket-lab-launches-second-electron-within-48-hours/" >🔗</a> **[SpaceNews]** Rocket Lab launches second Electron within 48 hours
+- <a href="https://www.nasaspaceflight.com/2025/06/gosat-gw-launch/" >🔗</a> **[NASASpaceflight]** Japan’s GOSAT-GW to launch aboard final H-IIA rocket
 - <a href="https://spacenews.com/spacex-scores-81-6-million-space-force-contract-to-launch-weather-satellite/" >🔗</a> **[SpaceNews]** SpaceX scores $81.6 million Space Force contract to launch weather satellite
 - <a href="https://spacepolicyonline.com/news/nasa-looking-at-organizational-change-amid-workforce-and-budget-cutbacks/" >🔗</a> **[SpacePolicyOnline.com]** NASA Looking at Organizational Change Amid Workforce and Budget Cutbacks
 - <a href="https://spaceflightnow.com/2025/06/27/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-4/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 27 Starlink satellites on Falcon 9 rocket from Cape Canaveral
@@ -101,9 +104,6 @@ In December 2013, Mitsubishi Electric (MELCO) was selected as the prime contract
 - <a href="https://spacenews.com/echostar-delays-bankruptcy-threat-after-trump-pushes-for-fcc-resolution/" >🔗</a> **[SpaceNews]** EchoStar delays bankruptcy threat after Trump pushes for FCC resolution
 - <a href="https://www.nasaspaceflight.com/2025/06/firefly-update-062725/" >🔗</a> **[NASASpaceflight]** Firefly advances production of Eclipse and Blue Ghost, announces Ocula imaging service
 - <a href="https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/human-lander-challenge/nasa-announces-winners-of-2025-human-lander-challenge/" >🔗</a> **[NASA]** NASA Announces Winners of 2025 Human Lander Challenge
-- <a href="https://www.nasa.gov/image-article/astronaut-joe-engle-flies-x-15/" >🔗</a> **[NASA]** Astronaut Joe Engle Flies X-15
-- <a href="https://www.nasa.gov/people-of-nasa/sophia-roberts-showcasing-the-cosmos/" >🔗</a> **[NASA]** Sophia Roberts: Showcasing the Cosmos
-- <a href="https://www.nasa.gov/people-of-nasa/goddard-people/sophia-roberts-showcasing-the-cosmos/" >🔗</a> **[NASA]** Sophia Roberts: Showcasing the Cosmos
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ In December 2013, Mitsubishi Electric (MELCO) was selected as the prime contract
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250628T150116">2025-06-28 15:01:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250628T153324">2025-06-28 15:33:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
