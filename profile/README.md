@@ -87,6 +87,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-june-29-july-5-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy June 29-July 5, 2025
 - <a href="https://www.nasaspaceflight.com/2025/06/masseys-spacex-static-fire-ships-pad-a/" >🔗</a> **[NASASpaceflight]** With Masseys out of Commission, SpaceX may attempt Static Fire Ships at the Launch Site
 - <a href="https://spacenews.com/blue-origin-launches-third-new-shepard-mission-within-three-months/" >🔗</a> **[SpaceNews]** Blue Origin launches third New Shepard mission within three months
 - <a href="https://spacenews.com/final-h-2a-launches-earth-science-satellite/" >🔗</a> **[SpaceNews]** Final H-2A launches Earth science satellite
@@ -96,7 +97,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2025/06/gosat-gw-launch/" >🔗</a> **[NASASpaceflight]** Japan’s GOSAT-GW to launch aboard final H-IIA rocket
 - <a href="https://spacenews.com/spacex-scores-81-6-million-space-force-contract-to-launch-weather-satellite/" >🔗</a> **[SpaceNews]** SpaceX scores $81.6 million Space Force contract to launch weather satellite
 - <a href="https://spacepolicyonline.com/news/nasa-looking-at-organizational-change-amid-workforce-and-budget-cutbacks/" >🔗</a> **[SpacePolicyOnline.com]** NASA Looking at Organizational Change Amid Workforce and Budget Cutbacks
-- <a href="https://spaceflightnow.com/2025/06/27/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-4/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 27 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250629T210117">2025-06-29 21:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250629T213239">2025-06-29 21:32:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
