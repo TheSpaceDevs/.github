@@ -87,6 +87,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/blue-origin-launches-third-new-shepard-mission-within-three-months/" >🔗</a> **[SpaceNews]** Blue Origin launches third New Shepard mission within three months
 - <a href="https://spacenews.com/final-h-2a-launches-earth-science-satellite/" >🔗</a> **[SpaceNews]** Final H-2A launches Earth science satellite
 - <a href="https://spaceflightnow.com/2025/06/28/live-coverage-spacex-to-launch-26-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-4/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 26 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://europeanspaceflight.com/iceye-secures-three-defence-contracts-in-just-two-weeks/" >🔗</a> **[European Spaceflight]** ICEYE Secures Three Defence Contracts in Just Two Weeks
@@ -96,7 +97,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/nasa-looking-at-organizational-change-amid-workforce-and-budget-cutbacks/" >🔗</a> **[SpacePolicyOnline.com]** NASA Looking at Organizational Change Amid Workforce and Budget Cutbacks
 - <a href="https://spaceflightnow.com/2025/06/27/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-4/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 27 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://www.nasa.gov/image-article/nasa-welcomes-axiom-mission-4-to-the-international-space-station/" >🔗</a> **[NASA]** NASA Welcomes Axiom Mission 4 to the International Space Station
-- <a href="https://spacenews.com/echostar-delays-bankruptcy-threat-after-trump-pushes-for-fcc-resolution/" >🔗</a> **[SpaceNews]** EchoStar delays bankruptcy threat after Trump pushes for FCC resolution
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250629T160125">2025-06-29 16:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250629T163710">2025-06-29 16:37:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
