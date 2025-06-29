@@ -26,7 +26,7 @@ from *<a href="https://en.wikipedia.org/wiki/Corn_Ranch">West Texas Suborbital L
 at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250629T120000">2025-06-29 12:00:00 UTC</a>.  Until
 then, this pad will have been used for 32
 out of 32 launches from this location. The launch status is currently
-*Go* 🟩 . The mission type is
+*Hold* 🟪 . The mission type is
 *Tourism* and the payload will be injected
 into *a Suborbital
 (Sub)*.
@@ -106,7 +106,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250629T120208">2025-06-29 12:02:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250629T124259">2025-06-29 12:42:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
