@@ -89,6 +89,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/cambrian-works-announces-upcoming-gigrouter-launch-to-the-international-space-station/" >🔗</a> **[SpaceNews]** Cambrian Works Announces Upcoming GigRouter Launch to the International Space Station
 - <a href="https://www.nasa.gov/news-release/nasa-awards-electrical-utility-services-contract-for-kennedy/" >🔗</a> **[NASA]** NASA Awards Electrical Utility Services Contract for Kennedy
 - <a href="https://spacenews.com/noaa-budget-proposal-seeks-to-cancel-tracss/" >🔗</a> **[SpaceNews]** NOAA budget proposal seeks to cancel TraCSS
 - <a href="https://spacenews.com/france-backs-skynopys-global-expansion-with-plans-for-100-ground-antennas/" >🔗</a> **[SpaceNews]** France backs Skynopy’s global expansion with plans for 100+ ground antennas
@@ -98,7 +99,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.nasaspaceflight.com/2025/06/launch-roundup-063025/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Gilmour Space to make debut, SpaceX plans east coast doubleheader
 - <a href="https://spacenews.com/chinese-spacecraft-begin-rendezvous-and-proximity-operations-in-geostationary-orbit/" >🔗</a> **[SpaceNews]** Chinese spacecraft begin rendezvous and proximity operations in geostationary orbit
 - <a href="https://www.nasa.gov/image-article/hubble-captures-an-active-galactic-center/" >🔗</a> **[NASA]** Hubble Captures an Active Galactic Center
-- <a href="https://europeanspaceflight.com/themis-demonstrator-completes-3000-km-journey-to-launch-site/" >🔗</a> **[European Spaceflight]** Themis Demonstrator Completes 3,000 km Journey to Launch Site
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250630T220124">2025-06-30 22:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250630T223526">2025-06-30 22:35:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
