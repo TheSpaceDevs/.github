@@ -89,6 +89,8 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/noaa-budget-proposal-seeks-to-cancel-tracss/" >🔗</a> **[SpaceNews]** NOAA budget proposal seeks to cancel TraCSS
+- <a href="https://spacenews.com/france-backs-skynopys-global-expansion-with-plans-for-100-ground-antennas/" >🔗</a> **[SpaceNews]** France backs Skynopy’s global expansion with plans for 100+ ground antennas
 - <a href="https://www.nasa.gov/news-release/nasa-to-provide-coverage-of-progress-92-launch-space-station-docking/" >🔗</a> **[NASA]** NASA to Provide Coverage of Progress 92 Launch, Space Station Docking
 - <a href="https://spacenews.com/space-force-eyes-maneuverable-satellites-and-cloud-based-control-software-to-outpace-threats-in-orbit/" >🔗</a> **[SpaceNews]** Space Force eyes maneuverable satellites and cloud-based control software to outpace threats in orbit
 - <a href="https://www.nasa.gov/news-release/nasa-is-coming-to-netflix-this-summer/" >🔗</a> **[NASA]** NASA+ is Coming to Netflix This Summer
@@ -97,8 +99,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.nasa.gov/image-article/hubble-captures-an-active-galactic-center/" >🔗</a> **[NASA]** Hubble Captures an Active Galactic Center
 - <a href="https://europeanspaceflight.com/themis-demonstrator-completes-3000-km-journey-to-launch-site/" >🔗</a> **[European Spaceflight]** Themis Demonstrator Completes 3,000 km Journey to Launch Site
 - <a href="https://arstechnica.com/space/2025/06/the-second-launch-of-new-glenn-will-aim-for-mars/" >🔗</a> **[Arstechnica]** The second launch of New Glenn will aim for Mars
-- <a href="https://spacenews.com/stanford-spinoff-eradrive-claims-1-million-nasa-contract/" >🔗</a> **[SpaceNews]** Stanford spinoff EraDrive claims $1 million NASA contract
-- <a href="https://spacenews.com/space-is-hard-there-is-no-excuse-for-pretending-its-easy/" >🔗</a> **[SpaceNews]** Space is hard. There is no excuse for pretending it’s easy.
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250630T193109">2025-06-30 19:31:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250630T200128">2025-06-30 20:01:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
