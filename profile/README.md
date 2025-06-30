@@ -88,6 +88,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/going-the-distance-lisa-pace-leads-exploration-development-integration-at-johnson/" >🔗</a> **[NASA]** Going the Distance: Lisa Pace Leads Exploration Development Integration at Johnson
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/06/Plato_s_eyes_meet_brain" >🔗</a> **[ESA]** Plato’s eyes meet brain
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/06/Webb_spots_a_starburst_shining_in_infrared" >🔗</a> **[ESA]** Webb spots a starburst shining in infrared
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-june-29-july-5-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy June 29-July 5, 2025
@@ -97,7 +98,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/06/28/live-coverage-spacex-to-launch-26-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-4/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 26 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://europeanspaceflight.com/iceye-secures-three-defence-contracts-in-just-two-weeks/" >🔗</a> **[European Spaceflight]** ICEYE Secures Three Defence Contracts in Just Two Weeks
 - <a href="https://spacenews.com/rocket-lab-launches-second-electron-within-48-hours/" >🔗</a> **[SpaceNews]** Rocket Lab launches second Electron within 48 hours
-- <a href="https://www.nasaspaceflight.com/2025/06/gosat-gw-launch/" >🔗</a> **[NASASpaceflight]** Japan’s GOSAT-GW to launch aboard final H-IIA rocket
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250630T100125">2025-06-30 10:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250630T103716">2025-06-30 10:37:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
