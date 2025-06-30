@@ -88,6 +88,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/moog-completes-major-building-expansion-to-enhance-actuation-and-avionics-manufacturing-capabilities/" >🔗</a> **[SpaceNews]** Moog Completes Major Building Expansion to Enhance Space Actuation and Avionics Manufacturing Capabilities
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/going-the-distance-lisa-pace-leads-exploration-development-integration-at-johnson/" >🔗</a> **[NASA]** Going the Distance: Lisa Pace Leads Exploration Development Integration at Johnson
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/06/Plato_s_eyes_meet_brain" >🔗</a> **[ESA]** Plato’s eyes meet brain
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/06/Webb_spots_a_starburst_shining_in_infrared" >🔗</a> **[ESA]** Webb spots a starburst shining in infrared
@@ -97,7 +98,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/final-h-2a-launches-earth-science-satellite/" >🔗</a> **[SpaceNews]** Final H-2A launches Earth science satellite
 - <a href="https://spaceflightnow.com/2025/06/28/live-coverage-spacex-to-launch-26-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-4/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 26 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://europeanspaceflight.com/iceye-secures-three-defence-contracts-in-just-two-weeks/" >🔗</a> **[European Spaceflight]** ICEYE Secures Three Defence Contracts in Just Two Weeks
-- <a href="https://spacenews.com/rocket-lab-launches-second-electron-within-48-hours/" >🔗</a> **[SpaceNews]** Rocket Lab launches second Electron within 48 hours
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250630T120211">2025-06-30 12:02:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250630T124333">2025-06-30 12:43:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
