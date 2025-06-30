@@ -89,6 +89,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-awards-electrical-utility-services-contract-for-kennedy/" >🔗</a> **[NASA]** NASA Awards Electrical Utility Services Contract for Kennedy
 - <a href="https://spacenews.com/noaa-budget-proposal-seeks-to-cancel-tracss/" >🔗</a> **[SpaceNews]** NOAA budget proposal seeks to cancel TraCSS
 - <a href="https://spacenews.com/france-backs-skynopys-global-expansion-with-plans-for-100-ground-antennas/" >🔗</a> **[SpaceNews]** France backs Skynopy’s global expansion with plans for 100+ ground antennas
 - <a href="https://www.nasa.gov/news-release/nasa-to-provide-coverage-of-progress-92-launch-space-station-docking/" >🔗</a> **[NASA]** NASA to Provide Coverage of Progress 92 Launch, Space Station Docking
@@ -98,7 +99,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spacenews.com/chinese-spacecraft-begin-rendezvous-and-proximity-operations-in-geostationary-orbit/" >🔗</a> **[SpaceNews]** Chinese spacecraft begin rendezvous and proximity operations in geostationary orbit
 - <a href="https://www.nasa.gov/image-article/hubble-captures-an-active-galactic-center/" >🔗</a> **[NASA]** Hubble Captures an Active Galactic Center
 - <a href="https://europeanspaceflight.com/themis-demonstrator-completes-3000-km-journey-to-launch-site/" >🔗</a> **[European Spaceflight]** Themis Demonstrator Completes 3,000 km Journey to Launch Site
-- <a href="https://arstechnica.com/space/2025/06/the-second-launch-of-new-glenn-will-aim-for-mars/" >🔗</a> **[Arstechnica]** The second launch of New Glenn will aim for Mars
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250630T200128">2025-06-30 20:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250630T203440">2025-06-30 20:34:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
