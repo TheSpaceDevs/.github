@@ -19,34 +19,34 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 10-25**. It is scheduled to be launched by *SpaceX*
+**Falcon 9 Block 5 | MTG-S1**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral SFS, FL, USA*
+from *<a href="https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39A">Launch Complex 39A</a>, Kennedy Space Center, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250701T055200">2025-07-01 05:52:00 UTC</a>.  Until
-then, this pad will have been used for 318
-out of 1035 launches from this location. The launch status is currently
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250701T210300">2025-07-01 21:03:00 UTC</a>.  Until
+then, this pad will have been used for 209
+out of 267 launches from this location. The launch status is currently
 *TBC* 🟨 . The mission type is
-*Communications* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+*Earth Science* and the payload will be injected
+into *a Geostationary Transfer Orbit
+(GTO)*.
 <br>
 <blockquote>
-  A batch of satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  Second of EUMETSAT's third generation of weather satellite.
 </blockquote>
 
 <p float="left" align="center">
   <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
+  <a href="https://www.google.com/maps?q=28.60822681,-80.60428186" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250701T055200">2025-07-01 05:52:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-25&location=Cape Canaveral SFS, FL, USA&dates=20250701T055200Z%2F20250701T095200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-25** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250701T210300">2025-07-01 21:03:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | MTG-S1&location=Kennedy Space Center, FL, USA&dates=20250701T210300Z%2F20250701T233000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | MTG-S1** from Kennedy Space Center, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250702T052900">2025-07-02 05:29:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-25&location=Cape Canaveral SFS, FL, USA&dates=20250702T052900Z%2F20250702T092900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-25** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250702T213000">2025-07-02 21:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/au.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Eris-1 | Maiden Flight&location=Bowen Orbital Spaceport&dates=20250702T213000Z%2F20250703T073000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Eris-1 | Maiden Flight** from Bowen Orbital Spaceport.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250703T092600">2025-07-03 09:26:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 4B | Unknown Payload&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20250703T092600Z%2F20250703T095000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 4B | Unknown Payload** from Xichang Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250703T193200">2025-07-03 19:32:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Progress MS-31 (92P)&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20250703T193200Z%2F20250703T193200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Progress MS-31 (92P)** from Baikonur Cosmodrome, Republic of Kazakhstan.
@@ -88,25 +88,35 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/chinese-spacecraft-begin-rendezvous-and-proximity-operations-in-geostationary-orbit/" >🔗</a> **[SpaceNews]** Chinese spacecraft begin rendezvous and proximity operations in geostationary orbit
 - <a href="https://www.nasa.gov/image-article/hubble-captures-an-active-galactic-center/" >🔗</a> **[NASA]** Hubble Captures an Active Galactic Center
 - <a href="https://europeanspaceflight.com/themis-demonstrator-completes-3000-km-journey-to-launch-site/" >🔗</a> **[European Spaceflight]** Themis Demonstrator Completes 3,000 km Journey to Launch Site
 - <a href="https://arstechnica.com/space/2025/06/the-second-launch-of-new-glenn-will-aim-for-mars/" >🔗</a> **[Arstechnica]** The second launch of New Glenn will aim for Mars
+- <a href="https://spacenews.com/stanford-spinoff-eradrive-claims-1-million-nasa-contract/" >🔗</a> **[SpaceNews]** Stanford spinoff EraDrive claims $1 million NASA contract
 - <a href="https://spacenews.com/space-is-hard-there-is-no-excuse-for-pretending-its-easy/" >🔗</a> **[SpaceNews]** Space is hard. There is no excuse for pretending it’s easy.
 - <a href="https://spacenews.com/moog-completes-major-building-expansion-to-enhance-actuation-and-avionics-manufacturing-capabilities/" >🔗</a> **[SpaceNews]** Moog Completes Major Building Expansion to Enhance Space Actuation and Avionics Manufacturing Capabilities
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/going-the-distance-lisa-pace-leads-exploration-development-integration-at-johnson/" >🔗</a> **[NASA]** Going the Distance: Lisa Pace Leads Exploration Development Integration at Johnson
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/06/Plato_s_eyes_meet_brain" >🔗</a> **[ESA]** Plato’s eyes meet brain
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/06/Webb_spots_a_starburst_shining_in_infrared" >🔗</a> **[ESA]** Webb spots a starburst shining in infrared
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-june-29-july-5-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy June 29-July 5, 2025
-- <a href="https://www.nasaspaceflight.com/2025/06/masseys-spacex-static-fire-ships-pad-a/" >🔗</a> **[NASASpaceflight]** With Masseys out of Commission, SpaceX may attempt Static Fire Ships at the Launch Site
 
 
 ### Launch-related News 🚀
 
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Watch_MTG-S1_and_Sentinel-4_launch_live" >🔗</a> **[ESA]** Watch MTG-S1 and Sentinel-4 launch live
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Why_MTG-S1_is_a_nowcasting_game-changer" >🔗</a> **[ESA]** Why MTG-S1 is a nowcasting game-changer
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-4/A_breath_of_fresh_data_Sentinel-4_innovates_for_clean_air" >🔗</a> **[ESA]** A breath of fresh data: Sentinel-4 innovates for clean air
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/MTG-S1_and_Sentinel-4_take_a_step_closer_to_space" >🔗</a> **[ESA]** MTG-S1 and Sentinel-4 take a step closer to space
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Two_atmospheric_missions_on_one_satellite" >🔗</a> **[ESA]** Two atmospheric missions on one satellite
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Weather_satellite_passes_bake_and_shake_tests_with_flying_colours" >🔗</a> **[ESA]** Weather satellite passes bake and shake tests with flying colours
+- <a href="https://tlpnetwork.com/news/europe/eumetsat-switches-weather-satellite-launch-from-ariane-6-to-falcon-9" >🔗</a> **[The Launch Pad]** Eumetsat Switches Weather Satellite Launch from Ariane 6 to Falcon 9
+- <a href="https://spacenews.com/eumetsat-moves-weather-satellite-from-ariane-6-to-falcon-9/" >🔗</a> **[SpaceNews]** Eumetsat moves weather satellite from Ariane 6 to Falcon 9
+- <a href="https://arstechnica.com/space/2024/06/mere-days-before-its-debut-the-ariane-6-rocket-loses-a-key-customer-to-spacex/" >🔗</a> **[Arstechnica]** Mere days before its debut, the Ariane 6 rocket loses a key customer to SpaceX
+- <a href="https://europeanspaceflight.com/cnes-chief-responds-harshly-to-eumetsats-decision-to-ditch-ariane-6/" >🔗</a> **[European Spaceflight]** CNES Chief Responds Harshly to Eumetsat’s Decision to Ditch Ariane 6
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250630T160128">2025-06-30 16:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250630T163846">2025-06-30 16:38:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
