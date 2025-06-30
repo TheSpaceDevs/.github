@@ -88,6 +88,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/06/Plato_s_eyes_meet_brain" >🔗</a> **[ESA]** Plato’s eyes meet brain
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/06/Webb_spots_a_starburst_shining_in_infrared" >🔗</a> **[ESA]** Webb spots a starburst shining in infrared
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-june-29-july-5-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy June 29-July 5, 2025
 - <a href="https://www.nasaspaceflight.com/2025/06/masseys-spacex-static-fire-ships-pad-a/" >🔗</a> **[NASASpaceflight]** With Masseys out of Commission, SpaceX may attempt Static Fire Ships at the Launch Site
 - <a href="https://spacenews.com/blue-origin-launches-third-new-shepard-mission-within-three-months/" >🔗</a> **[SpaceNews]** Blue Origin launches third New Shepard mission within three months
@@ -96,8 +98,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/iceye-secures-three-defence-contracts-in-just-two-weeks/" >🔗</a> **[European Spaceflight]** ICEYE Secures Three Defence Contracts in Just Two Weeks
 - <a href="https://spacenews.com/rocket-lab-launches-second-electron-within-48-hours/" >🔗</a> **[SpaceNews]** Rocket Lab launches second Electron within 48 hours
 - <a href="https://www.nasaspaceflight.com/2025/06/gosat-gw-launch/" >🔗</a> **[NASASpaceflight]** Japan’s GOSAT-GW to launch aboard final H-IIA rocket
-- <a href="https://spacenews.com/spacex-scores-81-6-million-space-force-contract-to-launch-weather-satellite/" >🔗</a> **[SpaceNews]** SpaceX scores $81.6 million Space Force contract to launch weather satellite
-- <a href="https://spacepolicyonline.com/news/nasa-looking-at-organizational-change-amid-workforce-and-budget-cutbacks/" >🔗</a> **[SpacePolicyOnline.com]** NASA Looking at Organizational Change Amid Workforce and Budget Cutbacks
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250630T080141">2025-06-30 08:01:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250630T083924">2025-06-30 08:39:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
