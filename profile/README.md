@@ -88,6 +88,8 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-is-coming-to-netflix-this-summer/" >🔗</a> **[NASA]** NASA+ is Coming to Netflix This Summer
+- <a href="https://www.nasaspaceflight.com/2025/06/launch-roundup-063025/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Gilmour Space to make debut, SpaceX plans east coast doubleheader
 - <a href="https://spacenews.com/chinese-spacecraft-begin-rendezvous-and-proximity-operations-in-geostationary-orbit/" >🔗</a> **[SpaceNews]** Chinese spacecraft begin rendezvous and proximity operations in geostationary orbit
 - <a href="https://www.nasa.gov/image-article/hubble-captures-an-active-galactic-center/" >🔗</a> **[NASA]** Hubble Captures an Active Galactic Center
 - <a href="https://europeanspaceflight.com/themis-demonstrator-completes-3000-km-journey-to-launch-site/" >🔗</a> **[European Spaceflight]** Themis Demonstrator Completes 3,000 km Journey to Launch Site
@@ -96,8 +98,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spacenews.com/space-is-hard-there-is-no-excuse-for-pretending-its-easy/" >🔗</a> **[SpaceNews]** Space is hard. There is no excuse for pretending it’s easy.
 - <a href="https://spacenews.com/moog-completes-major-building-expansion-to-enhance-actuation-and-avionics-manufacturing-capabilities/" >🔗</a> **[SpaceNews]** Moog Completes Major Building Expansion to Enhance Space Actuation and Avionics Manufacturing Capabilities
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/going-the-distance-lisa-pace-leads-exploration-development-integration-at-johnson/" >🔗</a> **[NASA]** Going the Distance: Lisa Pace Leads Exploration Development Integration at Johnson
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/06/Plato_s_eyes_meet_brain" >🔗</a> **[ESA]** Plato’s eyes meet brain
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/06/Webb_spots_a_starburst_shining_in_infrared" >🔗</a> **[ESA]** Webb spots a starburst shining in infrared
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250630T170139">2025-06-30 17:01:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250630T173414">2025-06-30 17:34:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
