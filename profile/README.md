@@ -88,6 +88,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-eyes-maneuverable-satellites-and-cloud-based-control-software-to-outpace-threats-in-orbit/" >🔗</a> **[SpaceNews]** Space Force eyes maneuverable satellites and cloud-based control software to outpace threats in orbit
 - <a href="https://www.nasa.gov/news-release/nasa-is-coming-to-netflix-this-summer/" >🔗</a> **[NASA]** NASA+ is Coming to Netflix This Summer
 - <a href="https://www.nasaspaceflight.com/2025/06/launch-roundup-063025/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Gilmour Space to make debut, SpaceX plans east coast doubleheader
 - <a href="https://spacenews.com/chinese-spacecraft-begin-rendezvous-and-proximity-operations-in-geostationary-orbit/" >🔗</a> **[SpaceNews]** Chinese spacecraft begin rendezvous and proximity operations in geostationary orbit
@@ -97,7 +98,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spacenews.com/stanford-spinoff-eradrive-claims-1-million-nasa-contract/" >🔗</a> **[SpaceNews]** Stanford spinoff EraDrive claims $1 million NASA contract
 - <a href="https://spacenews.com/space-is-hard-there-is-no-excuse-for-pretending-its-easy/" >🔗</a> **[SpaceNews]** Space is hard. There is no excuse for pretending it’s easy.
 - <a href="https://spacenews.com/moog-completes-major-building-expansion-to-enhance-actuation-and-avionics-manufacturing-capabilities/" >🔗</a> **[SpaceNews]** Moog Completes Major Building Expansion to Enhance Space Actuation and Avionics Manufacturing Capabilities
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/going-the-distance-lisa-pace-leads-exploration-development-integration-at-johnson/" >🔗</a> **[NASA]** Going the Distance: Lisa Pace Leads Exploration Development Integration at Johnson
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250630T180144">2025-06-30 18:01:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250630T183952">2025-06-30 18:39:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
