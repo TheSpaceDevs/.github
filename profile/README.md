@@ -46,7 +46,7 @@ into *a Geostationary Transfer Orbit
 
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250701T210400">2025-07-01 21:04:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | MTG-S1&location=Kennedy Space Center, FL, USA&dates=20250701T210400Z%2F20250701T233400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | MTG-S1** from Kennedy Space Center, FL, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250702T052900">2025-07-02 05:29:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-25&location=Cape Canaveral SFS, FL, USA&dates=20250702T052900Z%2F20250702T092900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-25** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250702T052900">2025-07-02 05:29:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-25&location=Cape Canaveral SFS, FL, USA&dates=20250702T052900Z%2F20250702T092859Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-25** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250702T213000">2025-07-02 21:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/au.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Eris-1 | Maiden Flight&location=Bowen Orbital Spaceport&dates=20250702T213000Z%2F20250703T073000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Eris-1 | Maiden Flight** from Bowen Orbital Spaceport.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250703T092600">2025-07-03 09:26:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 4B | Unknown Payload&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20250703T092600Z%2F20250703T095000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 4B | Unknown Payload** from Xichang Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250703T193240">2025-07-03 19:32:40 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Progress MS-31 (92P)&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20250703T193240Z%2F20250703T193240Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Progress MS-31 (92P)** from Baikonur Cosmodrome, Republic of Kazakhstan.
@@ -90,6 +90,8 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/nasa-hosts-isro-officials-at-johnson-kennedy/" >🔗</a> **[NASA]** NASA Hosts ISRO Officials at Johnson, Kennedy
+- <a href="https://europeanspaceflight.com/sidereus-space-dynamics-nears-completion-of-eos-test-stand/" >🔗</a> **[European Spaceflight]** Sidereus Space Dynamics Nears Completion of EOS Test Stand
 - <a href="https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/a-new-alloy-is-enabling-ultra-stable-structures-needed-for-exoplanet-discovery/" >🔗</a> **[NASA]** A New Alloy is Enabling Ultra-Stable Structures Needed for Exoplanet Discovery
 - <a href="https://spacenews.com/introduction-of-eu-space-act-marks-start-of-debate-on-regulations/" >🔗</a> **[SpaceNews]** Introduction of EU Space Act marks start of debate on regulations
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/07/Southern_Europe_s_land_and_sea_sizzles" >🔗</a> **[ESA]** Southern Europe’s land and sea sizzles
@@ -98,8 +100,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spacenews.com/liberatech-space-to-offer-custom-earth-observation-products-for-commodity-energy-and-environmental-monitoring/" >🔗</a> **[SpaceNews]** Liberatech Space to offer custom Earth-observation products for commodity, energy and environmental monitoring
 - <a href="https://spacenews.com/cambrian-works-announces-upcoming-gigrouter-launch-to-the-international-space-station/" >🔗</a> **[SpaceNews]** Cambrian Works Announces Upcoming GigRouter Launch to the International Space Station
 - <a href="https://www.nasa.gov/news-release/nasa-awards-electrical-utility-services-contract-for-kennedy/" >🔗</a> **[NASA]** NASA Awards Electrical Utility Services Contract for Kennedy
-- <a href="https://spacenews.com/noaa-budget-proposal-seeks-to-cancel-tracss/" >🔗</a> **[SpaceNews]** NOAA budget proposal seeks to cancel TraCSS
-- <a href="https://spacenews.com/france-backs-skynopys-global-expansion-with-plans-for-100-ground-antennas/" >🔗</a> **[SpaceNews]** France backs Skynopy’s global expansion with plans for 100+ ground antennas
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250701T150136">2025-07-01 15:01:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250701T153508">2025-07-01 15:35:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
