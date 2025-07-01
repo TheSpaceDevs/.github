@@ -104,6 +104,8 @@ into *a Geostationary Transfer Orbit
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2025/06/launch-roundup-063025/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Gilmour Space to make debut, SpaceX plans east coast doubleheader
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/MTG-S1_satellite_hosting_the_Sentinel-4_instrument_is_ready_for_liftoff" >🔗</a> **[ESA]** MTG-S1 satellite hosting the Sentinel-4 instrument is ready for liftoff
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Watch_MTG-S1_and_Sentinel-4_launch_live" >🔗</a> **[ESA]** Watch MTG-S1 and Sentinel-4 launch live
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Why_MTG-S1_is_a_nowcasting_game-changer" >🔗</a> **[ESA]** Why MTG-S1 is a nowcasting game-changer
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-4/A_breath_of_fresh_data_Sentinel-4_innovates_for_clean_air" >🔗</a> **[ESA]** A breath of fresh data: Sentinel-4 innovates for clean air
@@ -112,13 +114,11 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Weather_satellite_passes_bake_and_shake_tests_with_flying_colours" >🔗</a> **[ESA]** Weather satellite passes bake and shake tests with flying colours
 - <a href="https://tlpnetwork.com/news/europe/eumetsat-switches-weather-satellite-launch-from-ariane-6-to-falcon-9" >🔗</a> **[The Launch Pad]** Eumetsat Switches Weather Satellite Launch from Ariane 6 to Falcon 9
 - <a href="https://spacenews.com/eumetsat-moves-weather-satellite-from-ariane-6-to-falcon-9/" >🔗</a> **[SpaceNews]** Eumetsat moves weather satellite from Ariane 6 to Falcon 9
-- <a href="https://arstechnica.com/space/2024/06/mere-days-before-its-debut-the-ariane-6-rocket-loses-a-key-customer-to-spacex/" >🔗</a> **[Arstechnica]** Mere days before its debut, the Ariane 6 rocket loses a key customer to SpaceX
-- <a href="https://europeanspaceflight.com/cnes-chief-responds-harshly-to-eumetsats-decision-to-ditch-ariane-6/" >🔗</a> **[European Spaceflight]** CNES Chief Responds Harshly to Eumetsat’s Decision to Ditch Ariane 6
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250701T070214">2025-07-01 07:02:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250701T073433">2025-07-01 07:34:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
