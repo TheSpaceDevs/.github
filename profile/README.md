@@ -90,6 +90,8 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-assigns-astronaut-anil-menon-to-first-space-station-mission/" >🔗</a> **[NASA]** NASA Assigns Astronaut Anil Menon to First Space Station Mission
+- <a href="https://spaceflightnow.com/2025/07/01/live-coverage-eumetsat-esa-to-launch-combo-mtg-s1-sentinel-4-satellite-on-spacex-falcon-9-rocket-from-nasas-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: EUMETSAT, ESA to launch combo MTG-S1, Sentinel-4 satellite on SpaceX Falcon 9 rocket from NASA’s Kennedy Space Center
 - <a href="https://spacenews.com/building-the-future-of-spacenews/" >🔗</a> **[SpaceNews]** Building the future of SpaceNews
 - <a href="https://www.nasa.gov/news-release/nasa-spacex-invite-media-to-watch-crew-11-launch-to-space-station/" >🔗</a> **[NASA]** NASA, SpaceX Invite Media to Watch Crew-11 Launch to Space Station
 - <a href="https://www.nasa.gov/image-article/nasa-hosts-isro-officials-at-johnson-kennedy/" >🔗</a> **[NASA]** NASA Hosts ISRO Officials at Johnson, Kennedy
@@ -98,8 +100,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spacenews.com/introduction-of-eu-space-act-marks-start-of-debate-on-regulations/" >🔗</a> **[SpaceNews]** Introduction of EU Space Act marks start of debate on regulations
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/07/Southern_Europe_s_land_and_sea_sizzles" >🔗</a> **[ESA]** Southern Europe’s land and sea sizzles
 - <a href="https://www.nasa.gov/general/ames-science-directorates-stars-of-the-month-july-2025/" >🔗</a> **[NASA]** Ames Science Directorate’s Stars of the Month: July 2025
-- <a href="https://arstechnica.com/space/2025/07/tuesday-telescope-a-howling-wolf-in-the-night-sky/" >🔗</a> **[Arstechnica]** Tuesday Telescope: A howling wolf in the night sky
-- <a href="https://spacenews.com/liberatech-space-to-offer-custom-earth-observation-products-for-commodity-energy-and-environmental-monitoring/" >🔗</a> **[SpaceNews]** Liberatech Space to offer custom Earth-observation products for commodity, energy and environmental monitoring
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250701T170146">2025-07-01 17:01:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250701T173524">2025-07-01 17:35:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
