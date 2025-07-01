@@ -90,6 +90,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/science-research/heliophysics/nasa-missions-help-explain-predict-severity-of-solar-storms/" >🔗</a> **[NASA]** NASA Missions Help Explain, Predict Severity of Solar Storms
 - <a href="https://spacenews.com/methanesat-fails-in-orbit/" >🔗</a> **[SpaceNews]** MethaneSAT fails in orbit
 - <a href="https://www.nasa.gov/es/podcast-en-espanol-de-la-nasa-estrena-su-tercera-temporada/" >🔗</a> **[NASA]** Pódcast en español de la NASA estrena su tercera temporada
 - <a href="https://www.nasa.gov/audio/podcasts/nasas-spanish-language-podcast-debuts-third-season/" >🔗</a> **[NASA]** NASA’s Spanish-language Podcast Debuts Third Season
@@ -99,7 +100,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spaceflightnow.com/2025/07/01/live-coverage-eumetsat-esa-to-launch-combo-mtg-s1-sentinel-4-satellite-on-spacex-falcon-9-rocket-from-nasas-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: EUMETSAT, ESA to launch combo MTG-S1, Sentinel-4 satellite on SpaceX Falcon 9 rocket from NASA’s Kennedy Space Center
 - <a href="https://spacenews.com/building-the-future-of-spacenews/" >🔗</a> **[SpaceNews]** Building the future of SpaceNews
 - <a href="https://www.nasa.gov/news-release/nasa-spacex-invite-media-to-watch-crew-11-launch-to-space-station/" >🔗</a> **[NASA]** NASA, SpaceX Invite Media to Watch Crew-11 Launch to Space Station
-- <a href="https://www.nasa.gov/image-article/nasa-hosts-isro-officials-at-johnson-kennedy/" >🔗</a> **[NASA]** NASA Hosts ISRO Officials at Johnson, Kennedy
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250701T200131">2025-07-01 20:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250701T203504">2025-07-01 20:35:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
