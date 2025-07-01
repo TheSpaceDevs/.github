@@ -90,6 +90,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/07/tuesday-telescope-a-howling-wolf-in-the-night-sky/" >🔗</a> **[Arstechnica]** Tuesday Telescope: A howling wolf in the night sky
 - <a href="https://spacenews.com/liberatech-space-to-offer-custom-earth-observation-products-for-commodity-energy-and-environmental-monitoring/" >🔗</a> **[SpaceNews]** Liberatech Space to offer custom Earth-observation products for commodity, energy and environmental monitoring
 - <a href="https://spacenews.com/cambrian-works-announces-upcoming-gigrouter-launch-to-the-international-space-station/" >🔗</a> **[SpaceNews]** Cambrian Works Announces Upcoming GigRouter Launch to the International Space Station
 - <a href="https://www.nasa.gov/news-release/nasa-awards-electrical-utility-services-contract-for-kennedy/" >🔗</a> **[NASA]** NASA Awards Electrical Utility Services Contract for Kennedy
@@ -99,7 +100,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spacenews.com/space-force-eyes-maneuverable-satellites-and-cloud-based-control-software-to-outpace-threats-in-orbit/" >🔗</a> **[SpaceNews]** Space Force eyes maneuverable satellites and cloud-based control software to outpace threats in orbit
 - <a href="https://www.nasa.gov/news-release/nasa-is-coming-to-netflix-this-summer/" >🔗</a> **[NASA]** NASA+ is Coming to Netflix This Summer
 - <a href="https://www.nasaspaceflight.com/2025/06/launch-roundup-063025/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Gilmour Space to make debut, SpaceX plans east coast doubleheader
-- <a href="https://spacenews.com/chinese-spacecraft-begin-rendezvous-and-proximity-operations-in-geostationary-orbit/" >🔗</a> **[SpaceNews]** Chinese spacecraft begin rendezvous and proximity operations in geostationary orbit
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250701T110123">2025-07-01 11:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250701T113245">2025-07-01 11:32:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
