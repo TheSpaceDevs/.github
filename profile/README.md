@@ -90,6 +90,8 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/building-the-future-of-spacenews/" >🔗</a> **[SpaceNews]** Building the future of SpaceNews
+- <a href="https://www.nasa.gov/news-release/nasa-spacex-invite-media-to-watch-crew-11-launch-to-space-station/" >🔗</a> **[NASA]** NASA, SpaceX Invite Media to Watch Crew-11 Launch to Space Station
 - <a href="https://www.nasa.gov/image-article/nasa-hosts-isro-officials-at-johnson-kennedy/" >🔗</a> **[NASA]** NASA Hosts ISRO Officials at Johnson, Kennedy
 - <a href="https://europeanspaceflight.com/sidereus-space-dynamics-nears-completion-of-eos-test-stand/" >🔗</a> **[European Spaceflight]** Sidereus Space Dynamics Nears Completion of EOS Test Stand
 - <a href="https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/a-new-alloy-is-enabling-ultra-stable-structures-needed-for-exoplanet-discovery/" >🔗</a> **[NASA]** A New Alloy is Enabling Ultra-Stable Structures Needed for Exoplanet Discovery
@@ -98,8 +100,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.nasa.gov/general/ames-science-directorates-stars-of-the-month-july-2025/" >🔗</a> **[NASA]** Ames Science Directorate’s Stars of the Month: July 2025
 - <a href="https://arstechnica.com/space/2025/07/tuesday-telescope-a-howling-wolf-in-the-night-sky/" >🔗</a> **[Arstechnica]** Tuesday Telescope: A howling wolf in the night sky
 - <a href="https://spacenews.com/liberatech-space-to-offer-custom-earth-observation-products-for-commodity-energy-and-environmental-monitoring/" >🔗</a> **[SpaceNews]** Liberatech Space to offer custom Earth-observation products for commodity, energy and environmental monitoring
-- <a href="https://spacenews.com/cambrian-works-announces-upcoming-gigrouter-launch-to-the-international-space-station/" >🔗</a> **[SpaceNews]** Cambrian Works Announces Upcoming GigRouter Launch to the International Space Station
-- <a href="https://www.nasa.gov/news-release/nasa-awards-electrical-utility-services-contract-for-kennedy/" >🔗</a> **[NASA]** NASA Awards Electrical Utility Services Contract for Kennedy
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250701T160127">2025-07-01 16:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250701T163823">2025-07-01 16:38:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
