@@ -91,6 +91,7 @@ into *a Geostationary Transfer Orbit
 
 ### Latest News ⌛
 - <a href="https://spacenews.com/introduction-of-eu-space-act-marks-start-of-debate-on-regulations/" >🔗</a> **[SpaceNews]** Introduction of EU Space Act marks start of debate on regulations
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/07/Southern_Europe_s_land_and_sea_sizzles" >🔗</a> **[ESA]** Southern Europe’s land and sea sizzles
 - <a href="https://www.nasa.gov/general/ames-science-directorates-stars-of-the-month-july-2025/" >🔗</a> **[NASA]** Ames Science Directorate’s Stars of the Month: July 2025
 - <a href="https://arstechnica.com/space/2025/07/tuesday-telescope-a-howling-wolf-in-the-night-sky/" >🔗</a> **[Arstechnica]** Tuesday Telescope: A howling wolf in the night sky
 - <a href="https://spacenews.com/liberatech-space-to-offer-custom-earth-observation-products-for-commodity-energy-and-environmental-monitoring/" >🔗</a> **[SpaceNews]** Liberatech Space to offer custom Earth-observation products for commodity, energy and environmental monitoring
@@ -99,7 +100,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spacenews.com/noaa-budget-proposal-seeks-to-cancel-tracss/" >🔗</a> **[SpaceNews]** NOAA budget proposal seeks to cancel TraCSS
 - <a href="https://spacenews.com/france-backs-skynopys-global-expansion-with-plans-for-100-ground-antennas/" >🔗</a> **[SpaceNews]** France backs Skynopy’s global expansion with plans for 100+ ground antennas
 - <a href="https://www.nasa.gov/news-release/nasa-to-provide-coverage-of-progress-92-launch-space-station-docking/" >🔗</a> **[NASA]** NASA to Provide Coverage of Progress 92 Launch, Space Station Docking
-- <a href="https://spacenews.com/space-force-eyes-maneuverable-satellites-and-cloud-based-control-software-to-outpace-threats-in-orbit/" >🔗</a> **[SpaceNews]** Space Force eyes maneuverable satellites and cloud-based control software to outpace threats in orbit
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250701T131119">2025-07-01 13:11:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250701T134014">2025-07-01 13:40:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
