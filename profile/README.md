@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/leolabs-secures-u-s-military-funding-for-missile-tracking-mobile-radar/" >🔗</a> **[SpaceNews]** LeoLabs secures U.S. military funding for missile-tracking mobile radar
+- <a href="https://spacenews.com/falcon-9-launches-european-weather-satellite/" >🔗</a> **[SpaceNews]** Falcon 9 launches European weather satellite
+- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4584-4585-just-a-small-bump/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4584 – 4585: Just a Small Bump
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/07/MTG-S1_and_Copernicus_Sentinel-4_launch_highlights" >🔗</a> **[ESA]** MTG-S1 and Copernicus Sentinel-4 launch highlights
+- <a href="https://spacenews.com/leolabs-secures-u-s-military-funding-for-missile-tracking-mobile-radar/" >🔗</a> **[SpaceNews]** LeoLabs secures U.S. military funding for missile-tracking mobile radar
 - <a href="https://spaceflightnow.com/2025/07/01/live-coverage-spacex-to-launch-27-starlink-satellites-on-a-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch its 500th Falcon 9 rocket
 - <a href="https://spacenews.com/capstone-celebrates-three-years-of-groundbreaking-achievements-in-lunar-navigation-and-autonomy/" >🔗</a> **[SpaceNews]** CAPSTONE™ Celebrates Three Years of Groundbreaking Achievements in Lunar Navigation and Autonomy
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/MTG-S1_and_Sentinel-4_launch_to_change_how_we_see_our_atmosphere" >🔗</a> **[ESA]** MTG-S1 and Sentinel-4 launch to change how we see our atmosphere
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/07/MTG-S1_and_Copernicus_Sentinel-4_launch_from_Florida" >🔗</a> **[ESA]** MTG-S1 and Copernicus Sentinel-4 launch from Florida
 - <a href="https://science.nasa.gov/science-research/heliophysics/nasa-missions-help-explain-predict-severity-of-solar-storms/" >🔗</a> **[NASA]** NASA Missions Help Explain, Predict Severity of Solar Storms
 - <a href="https://spacenews.com/methanesat-fails-in-orbit/" >🔗</a> **[SpaceNews]** MethaneSAT fails in orbit
-- <a href="https://www.nasa.gov/es/podcast-en-espanol-de-la-nasa-estrena-su-tercera-temporada/" >🔗</a> **[NASA]** Pódcast en español de la NASA estrena su tercera temporada
-- <a href="https://www.nasa.gov/audio/podcasts/nasas-spanish-language-podcast-debuts-third-season/" >🔗</a> **[NASA]** NASA’s Spanish-language Podcast Debuts Third Season
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250702T000506">2025-07-02 00:05:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250702T004556">2025-07-02 00:45:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
