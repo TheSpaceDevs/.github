@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-to-fund-development-of-atomic-6-solar-power-for-satellites/" >🔗</a> **[SpaceNews]** Space Force to fund development of Atomic-6 solar power for satellites
+- <a href="https://spacenews.com/this-is-not-the-time-to-cut-space-enabled-medical-research/" >🔗</a> **[SpaceNews]** This is not the time to cut space-enabled medical research
 - <a href="https://spacenews.com/boeing-ships-more-o3b-mpower-satellites-with-fixes-ses-might-not-need/" >🔗</a> **[SpaceNews]** Boeing ships more O3b mPower satellites with fixes SES might no longer need
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/07/Brave_for_space" >🔗</a> **[ESA]** Brave for space
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4586-4587-straight-drive-strategic-science/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4586-4587: Straight Drive, Strategic Science
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4584-4585-just-a-small-bump/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4584 – 4585: Just a Small Bump
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/07/MTG-S1_and_Copernicus_Sentinel-4_launch_highlights" >🔗</a> **[ESA]** MTG-S1 and Copernicus Sentinel-4 launch highlights
 - <a href="https://spacenews.com/leolabs-secures-u-s-military-funding-for-missile-tracking-mobile-radar/" >🔗</a> **[SpaceNews]** LeoLabs secures U.S. military funding for missile-tracking mobile radar
-- <a href="https://spaceflightnow.com/2025/07/01/live-coverage-spacex-to-launch-27-starlink-satellites-on-a-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch its 500th Falcon 9 rocket
-- <a href="https://spacenews.com/capstone-celebrates-three-years-of-groundbreaking-achievements-in-lunar-navigation-and-autonomy/" >🔗</a> **[SpaceNews]** CAPSTONE™ Celebrates Three Years of Groundbreaking Achievements in Lunar Navigation and Autonomy
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250702T131113">2025-07-02 13:11:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250702T133953">2025-07-02 13:39:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
