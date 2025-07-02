@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-sets-briefings-for-spacex-crew-11-mission-to-space-station/" >🔗</a> **[NASA]** NASA Sets Briefings for SpaceX Crew-11 Mission to Space Station
 - <a href="https://www.nasa.gov/news-release/nasa-awards-simulation-and-advanced-software-services-ii-contract/" >🔗</a> **[NASA]** NASA Awards Simulation and Advanced Software Services II Contract
 - <a href="https://spacenews.com/national-geospatial-intelligence-agency-announces-new-contract-awards-under-luno-program/" >🔗</a> **[SpaceNews]** National Geospatial-Intelligence Agency announces new contract awards under ‘Luno’ program
 - <a href="https://science.nasa.gov/open-science/spherex-universe-map/" >🔗</a> **[NASA]** How NASA’s SPHEREx Mission Will Share Its All-Sky Map With the World
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/universe/exoplanets/discovery-alert-flaring-star-toasted-planet/" >🔗</a> **[NASA]** Discovery Alert: Flaring Star, Toasted Planet
 - <a href="https://science.nasa.gov/science-research/planetary-science/planetary-defense/near-earth-asteroids/" >🔗</a> **[NASA]** Near-Earth Asteroids as of July 2025
 - <a href="https://science.nasa.gov/missions/webb/3-years-of-science-10-cosmic-surprises-from-nasas-webb-telescope/" >🔗</a> **[NASA]** 3 Years of Science: 10 Cosmic Surprises from NASA’s Webb Telescope
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Cheops/Clingy_planets_can_trigger_own_doom_suspect_Cheops_and_TESS" >🔗</a> **[ESA]** Clingy planets can trigger own doom, suspect Cheops and TESS
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250702T220121">2025-07-02 22:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250702T223517">2025-07-02 22:35:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
