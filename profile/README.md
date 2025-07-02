@@ -90,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/space-force-to-fund-development-of-atomic-6-solar-power-for-satellites/" >🔗</a> **[SpaceNews]** Space Force to fund development of Atomic-6 solar power for satellites
+- <a href="https://spacenews.com/strategic-demand-for-sovereign-eo-satellites-to-fuel-182-6b-market-surge/" >🔗</a> **[SpaceNews]** Strategic Demand for Sovereign EO Satellites to Fuel $182.6B Market Surge
+- <a href="https://www.nasa.gov/image-article/dwayne-lavigne-takes-pride-in-test-work/" >🔗</a> **[NASA]** NASA Stennis Engineer Takes Pride in Test Support Work
+- <a href="https://arstechnica.com/space/2025/07/astronomers-may-have-found-a-third-interstellar-object/" >🔗</a> **[Arstechnica]** Astronomers may have found a third interstellar object
 - <a href="https://spacenews.com/this-is-not-the-time-to-cut-space-enabled-medical-research/" >🔗</a> **[SpaceNews]** This is not the time to cut space-enabled medical research
+- <a href="https://spacenews.com/space-force-to-fund-development-of-atomic-6-solar-power-for-satellites/" >🔗</a> **[SpaceNews]** Space Force to fund development of Atomic-6 solar power for satellites
 - <a href="https://spacenews.com/boeing-ships-more-o3b-mpower-satellites-with-fixes-ses-might-not-need/" >🔗</a> **[SpaceNews]** Boeing ships more O3b mPower satellites with fixes SES might no longer need
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/07/Brave_for_space" >🔗</a> **[ESA]** Brave for space
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4586-4587-straight-drive-strategic-science/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4586-4587: Straight Drive, Strategic Science
 - <a href="https://science.nasa.gov/blog/an-update-from-the-2025-mars-2020-science-team-meeting/" >🔗</a> **[NASA]** An Update From the 2025 Mars 2020 Science Team Meeting
 - <a href="https://spacenews.com/falcon-9-launches-european-weather-satellite/" >🔗</a> **[SpaceNews]** Falcon 9 launches European weather satellite
-- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4584-4585-just-a-small-bump/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4584 – 4585: Just a Small Bump
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/07/MTG-S1_and_Copernicus_Sentinel-4_launch_highlights" >🔗</a> **[ESA]** MTG-S1 and Copernicus Sentinel-4 launch highlights
-- <a href="https://spacenews.com/leolabs-secures-u-s-military-funding-for-missile-tracking-mobile-radar/" >🔗</a> **[SpaceNews]** LeoLabs secures U.S. military funding for missile-tracking mobile radar
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250702T140124">2025-07-02 14:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250702T143555">2025-07-02 14:35:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
