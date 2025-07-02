@@ -90,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Cheops/Clingy_planets_can_trigger_own_doom_suspect_Cheops_and_TESS" >🔗</a> **[ESA]** Clingy planets can trigger own doom, suspect Cheops and TESS
+- <a href="https://www.nasa.gov/image-article/to-the-spacemobile/" >🔗</a> **[NASA]** To the Spacemobile!
+- <a href="https://science.nasa.gov/universe/exoplanets/discovery-alert-flaring-star-toasted-planet/" >🔗</a> **[NASA]** Discovery Alert: Flaring Star, Toasted Planet
+- <a href="https://science.nasa.gov/science-research/planetary-science/planetary-defense/near-earth-asteroids/" >🔗</a> **[NASA]** Near-Earth Asteroids as of July 2025
 - <a href="https://science.nasa.gov/missions/webb/3-years-of-science-10-cosmic-surprises-from-nasas-webb-telescope/" >🔗</a> **[NASA]** 3 Years of Science: 10 Cosmic Surprises from NASA’s Webb Telescope
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Cheops/Clingy_planets_can_trigger_own_doom_suspect_Cheops_and_TESS" >🔗</a> **[ESA]** Clingy planets can trigger own doom, suspect Cheops and TESS
 - <a href="https://europeanspaceflight.com/arianegroup-completes-key-prometheus-rocket-engine-tests/" >🔗</a> **[European Spaceflight]** ArianeGroup Completes Key Prometheus Rocket Engine Tests
 - <a href="https://spacenews.com/strategic-demand-for-sovereign-eo-satellites-to-fuel-182-6b-market-surge/" >🔗</a> **[SpaceNews]** Strategic Demand for Sovereign EO Satellites to Fuel $182.6B Market Surge
 - <a href="https://www.nasa.gov/image-article/dwayne-lavigne-takes-pride-in-test-work/" >🔗</a> **[NASA]** NASA Stennis Engineer Takes Pride in Test Support Work
 - <a href="https://arstechnica.com/space/2025/07/astronomers-may-have-found-a-third-interstellar-object/" >🔗</a> **[Arstechnica]** Astronomers may have found a third interstellar object
 - <a href="https://spacenews.com/this-is-not-the-time-to-cut-space-enabled-medical-research/" >🔗</a> **[SpaceNews]** This is not the time to cut space-enabled medical research
-- <a href="https://spacenews.com/space-force-to-fund-development-of-atomic-6-solar-power-for-satellites/" >🔗</a> **[SpaceNews]** Space Force to fund development of Atomic-6 solar power for satellites
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/07/MTG-S1_and_Copernicus_Sentinel-4_mission_highlights" >🔗</a> **[ESA]** MTG-S1 and Copernicus Sentinel-4 mission highlights
-- <a href="https://spacenews.com/boeing-ships-more-o3b-mpower-satellites-with-fixes-ses-might-not-need/" >🔗</a> **[SpaceNews]** Boeing ships more O3b mPower satellites with fixes SES might no longer need
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250702T160133">2025-07-02 16:01:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250702T163835">2025-07-02 16:38:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
