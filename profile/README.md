@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/solar-system/skywatching/whats-up-july-2025-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: July 2025 Skywatching Tips from NASA
+- <a href="https://spacenews.com/darpa-says-decreasing-launch-costs-new-analysis-led-it-to-cancel-draco-nuclear-propulsion-project/" >🔗</a> **[SpaceNews]** DARPA says decreasing launch costs, new analysis led it to cancel DRACO nuclear propulsion project
 - <a href="https://www.nasa.gov/image-article/to-the-spacemobile/" >🔗</a> **[NASA]** To the Spacemobile!
 - <a href="https://science.nasa.gov/universe/exoplanets/discovery-alert-flaring-star-toasted-planet/" >🔗</a> **[NASA]** Discovery Alert: Flaring Star, Toasted Planet
 - <a href="https://science.nasa.gov/science-research/planetary-science/planetary-defense/near-earth-asteroids/" >🔗</a> **[NASA]** Near-Earth Asteroids as of July 2025
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://europeanspaceflight.com/arianegroup-completes-key-prometheus-rocket-engine-tests/" >🔗</a> **[European Spaceflight]** ArianeGroup Completes Key Prometheus Rocket Engine Tests
 - <a href="https://spacenews.com/strategic-demand-for-sovereign-eo-satellites-to-fuel-182-6b-market-surge/" >🔗</a> **[SpaceNews]** Strategic Demand for Sovereign EO Satellites to Fuel $182.6B Market Surge
 - <a href="https://www.nasa.gov/image-article/dwayne-lavigne-takes-pride-in-test-work/" >🔗</a> **[NASA]** NASA Stennis Engineer Takes Pride in Test Support Work
-- <a href="https://arstechnica.com/space/2025/07/astronomers-may-have-found-a-third-interstellar-object/" >🔗</a> **[Arstechnica]** Astronomers may have found a third interstellar object
-- <a href="https://spacenews.com/this-is-not-the-time-to-cut-space-enabled-medical-research/" >🔗</a> **[SpaceNews]** This is not the time to cut space-enabled medical research
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250702T170210">2025-07-02 17:02:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250702T173508">2025-07-02 17:35:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
