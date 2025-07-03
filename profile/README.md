@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/space-cargo-unlimited-secures-e12-5m-for-bentobox-in-orbit-platform/" >🔗</a> **[European Spaceflight]** Space Cargo Unlimited Secures €12.5M for BentoBox In-Orbit Platform
 - <a href="https://spaceflightnow.com/2025/07/03/ula-begins-stacking-its-1st-vulcan-rocket-supporting-a-national-security-mission/" >🔗</a> **[Spaceflight Now]** ULA begins stacking its 1st Vulcan rocket supporting a national security mission
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/06/Students_take_3D-printed_rovers_for_a_spin" >🔗</a> **[ESA]** Students take 3D-printed rovers for a spin
 - <a href="https://spacenews.com/open-cosmos-buys-portuguese-startup-to-bolster-space-based-iot-capabilities/" >🔗</a> **[SpaceNews]** Open Cosmos buys Portuguese startup to bolster space-based IoT capabilities
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/national-geospatial-intelligence-agency-announces-new-contract-awards-under-luno-program/" >🔗</a> **[SpaceNews]** National Geospatial-Intelligence Agency announces new contract awards under ‘Luno’ program
 - <a href="https://science.nasa.gov/open-science/spherex-universe-map/" >🔗</a> **[NASA]** How NASA’s SPHEREx Mission Will Share Its All-Sky Map With the World
 - <a href="https://science.nasa.gov/solar-system/skywatching/whats-up-july-2025-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: July 2025 Skywatching Tips from NASA
-- <a href="https://spacenews.com/darpa-says-decreasing-launch-costs-new-analysis-led-it-to-cancel-draco-nuclear-propulsion-project/" >🔗</a> **[SpaceNews]** DARPA says decreasing launch costs, new analysis led it to cancel DRACO nuclear propulsion project
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250703T150132">2025-07-03 15:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250703T153509">2025-07-03 15:35:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
