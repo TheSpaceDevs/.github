@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/universe/exoplanets/discovery-alert-scientists-spot-a-planetary-carousel/" >🔗</a> **[NASA]** Discovery Alert: Scientists Spot a Planetary Carousel
 - <a href="https://spacenews.com/the-business-case-for-the-moon/" >🔗</a> **[SpaceNews]** The business case for the moon
 - <a href="https://spacenews.com/esa-prepares-downselect-for-european-launcher-challenge/" >🔗</a> **[SpaceNews]** ESA prepares downselect for European Launcher Challenge
 - <a href="https://europeanspaceflight.com/space-cargo-unlimited-secures-e12-5m-for-bentobox-in-orbit-platform/" >🔗</a> **[European Spaceflight]** Space Cargo Unlimited Secures €12.5M for BentoBox In-Orbit Platform
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/latitude-announces-new-factory-and-contracts-for-zephyr-small-launcher/" >🔗</a> **[SpaceNews]** Latitude announces new factory and contracts for Zephyr small launcher
 - <a href="https://www.nasa.gov/news-release/nasa-sets-briefings-for-spacex-crew-11-mission-to-space-station/" >🔗</a> **[NASA]** NASA Sets Briefings for SpaceX Crew-11 Mission to Space Station
 - <a href="https://www.nasa.gov/news-release/nasa-awards-simulation-and-advanced-software-services-ii-contract/" >🔗</a> **[NASA]** NASA Awards Simulation and Advanced Software Services II Contract
-- <a href="https://spacenews.com/national-geospatial-intelligence-agency-announces-new-contract-awards-under-luno-program/" >🔗</a> **[SpaceNews]** National Geospatial-Intelligence Agency announces new contract awards under ‘Luno’ program
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250703T170204">2025-07-03 17:02:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250703T173502">2025-07-03 17:35:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
