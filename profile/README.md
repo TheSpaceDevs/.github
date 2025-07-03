@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/06/Students_take_3D-printed_rovers_for_a_spin" >🔗</a> **[ESA]** Students take 3D-printed rovers for a spin
 - <a href="https://spacenews.com/open-cosmos-buys-portuguese-startup-to-bolster-space-based-iot-capabilities/" >🔗</a> **[SpaceNews]** Open Cosmos buys Portuguese startup to bolster space-based IoT capabilities
 - <a href="https://spacenews.com/latitude-announces-new-factory-and-contracts-for-zephyr-small-launcher/" >🔗</a> **[SpaceNews]** Latitude announces new factory and contracts for Zephyr small launcher
 - <a href="https://www.nasa.gov/news-release/nasa-sets-briefings-for-spacex-crew-11-mission-to-space-station/" >🔗</a> **[NASA]** NASA Sets Briefings for SpaceX Crew-11 Mission to Space Station
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/solar-system/skywatching/whats-up-july-2025-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: July 2025 Skywatching Tips from NASA
 - <a href="https://spacenews.com/darpa-says-decreasing-launch-costs-new-analysis-led-it-to-cancel-draco-nuclear-propulsion-project/" >🔗</a> **[SpaceNews]** DARPA says decreasing launch costs, new analysis led it to cancel DRACO nuclear propulsion project
 - <a href="https://www.nasa.gov/image-article/to-the-spacemobile/" >🔗</a> **[NASA]** To the Spacemobile!
-- <a href="https://science.nasa.gov/universe/exoplanets/discovery-alert-flaring-star-toasted-planet/" >🔗</a> **[NASA]** Discovery Alert: Flaring Star, Toasted Planet
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250703T080137">2025-07-03 08:01:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250703T083810">2025-07-03 08:38:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
