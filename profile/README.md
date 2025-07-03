@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/the-business-case-for-the-moon/" >🔗</a> **[SpaceNews]** The business case for the moon
+- <a href="https://spacenews.com/esa-prepares-downselect-for-european-launcher-challenge/" >🔗</a> **[SpaceNews]** ESA prepares downselect for European Launcher Challenge
 - <a href="https://europeanspaceflight.com/space-cargo-unlimited-secures-e12-5m-for-bentobox-in-orbit-platform/" >🔗</a> **[European Spaceflight]** Space Cargo Unlimited Secures €12.5M for BentoBox In-Orbit Platform
 - <a href="https://spaceflightnow.com/2025/07/03/ula-begins-stacking-its-1st-vulcan-rocket-supporting-a-national-security-mission/" >🔗</a> **[Spaceflight Now]** ULA begins stacking its 1st Vulcan rocket supporting a national security mission
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/06/Students_take_3D-printed_rovers_for_a_spin" >🔗</a> **[ESA]** Students take 3D-printed rovers for a spin
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-sets-briefings-for-spacex-crew-11-mission-to-space-station/" >🔗</a> **[NASA]** NASA Sets Briefings for SpaceX Crew-11 Mission to Space Station
 - <a href="https://www.nasa.gov/news-release/nasa-awards-simulation-and-advanced-software-services-ii-contract/" >🔗</a> **[NASA]** NASA Awards Simulation and Advanced Software Services II Contract
 - <a href="https://spacenews.com/national-geospatial-intelligence-agency-announces-new-contract-awards-under-luno-program/" >🔗</a> **[SpaceNews]** National Geospatial-Intelligence Agency announces new contract awards under ‘Luno’ program
-- <a href="https://science.nasa.gov/open-science/spherex-universe-map/" >🔗</a> **[NASA]** How NASA’s SPHEREx Mission Will Share Its All-Sky Map With the World
-- <a href="https://science.nasa.gov/solar-system/skywatching/whats-up-july-2025-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: July 2025 Skywatching Tips from NASA
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250703T160137">2025-07-03 16:01:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250703T163845">2025-07-03 16:38:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
