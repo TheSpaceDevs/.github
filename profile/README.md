@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/aeronautics/pressure-sensitive-paint-2025/" >🔗</a> **[NASA]** NASA Advances Pressure Sensitive Paint Research Capability
 - <a href="https://www.nasa.gov/image-article/old-glory-on-the-red-planet/" >🔗</a> **[NASA]** Old Glory on the Red Planet
+- <a href="https://www.nasaspaceflight.com/2025/07/progress-ms-31-iss/" >🔗</a> **[NASASpaceflight]** Progress MS-31 to launch as ISS hosts private crew, prepares for another handover
 - <a href="https://science.nasa.gov/universe/exoplanets/discovery-alert-scientists-spot-a-planetary-carousel/" >🔗</a> **[NASA]** Discovery Alert: Scientists Spot a Planetary Carousel
 - <a href="https://spacenews.com/the-business-case-for-the-moon/" >🔗</a> **[SpaceNews]** The business case for the moon
+- <a href="https://www.esa.int/Space_Safety/Planetary_Defence/ESA_tracks_rare_interstellar_comet" >🔗</a> **[ESA]** ESA tracks rare interstellar comet
 - <a href="https://spacenews.com/esa-prepares-downselect-for-european-launcher-challenge/" >🔗</a> **[SpaceNews]** ESA prepares downselect for European Launcher Challenge
 - <a href="https://europeanspaceflight.com/space-cargo-unlimited-secures-e12-5m-for-bentobox-in-orbit-platform/" >🔗</a> **[European Spaceflight]** Space Cargo Unlimited Secures €12.5M for BentoBox In-Orbit Platform
 - <a href="https://spaceflightnow.com/2025/07/03/ula-begins-stacking-its-1st-vulcan-rocket-supporting-a-national-security-mission/" >🔗</a> **[Spaceflight Now]** ULA begins stacking its 1st Vulcan rocket supporting a national security mission
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/06/Students_take_3D-printed_rovers_for_a_spin" >🔗</a> **[ESA]** Students take 3D-printed rovers for a spin
-- <a href="https://spacenews.com/open-cosmos-buys-portuguese-startup-to-bolster-space-based-iot-capabilities/" >🔗</a> **[SpaceNews]** Open Cosmos buys Portuguese startup to bolster space-based IoT capabilities
-- <a href="https://spacenews.com/latitude-announces-new-factory-and-contracts-for-zephyr-small-launcher/" >🔗</a> **[SpaceNews]** Latitude announces new factory and contracts for Zephyr small launcher
-- <a href="https://www.nasa.gov/news-release/nasa-sets-briefings-for-spacex-crew-11-mission-to-space-station/" >🔗</a> **[NASA]** NASA Sets Briefings for SpaceX Crew-11 Mission to Space Station
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250703T190128">2025-07-03 19:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250703T193110">2025-07-03 19:31:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
