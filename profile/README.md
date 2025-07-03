@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-remembers-former-johnson-director-jefferson-howell/" >🔗</a> **[NASA]** NASA Remembers Former Johnson Director Jefferson Howell
 - <a href="https://www.nasa.gov/missions/tempo/nasa-mission-monitoring-air-quality-from-space-extended/" >🔗</a> **[NASA]** NASA Mission Monitoring Air Quality from Space Extended
 - <a href="https://science.nasa.gov/missions/hubble/hubble-observations-give-missing-globular-cluster-time-to-shine/" >🔗</a> **[NASA]** Hubble Observations Give “Missing” Globular Cluster Time to Shine
 - <a href="https://www.nasa.gov/aeronautics/pressure-sensitive-paint-2025/" >🔗</a> **[NASA]** NASA Advances Pressure Sensitive Paint Research Capability
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/the-business-case-for-the-moon/" >🔗</a> **[SpaceNews]** The business case for the moon
 - <a href="https://www.esa.int/Space_Safety/Planetary_Defence/ESA_tracks_rare_interstellar_comet" >🔗</a> **[ESA]** ESA tracks rare interstellar comet
 - <a href="https://spacenews.com/esa-prepares-downselect-for-european-launcher-challenge/" >🔗</a> **[SpaceNews]** ESA prepares downselect for European Launcher Challenge
-- <a href="https://europeanspaceflight.com/space-cargo-unlimited-secures-e12-5m-for-bentobox-in-orbit-platform/" >🔗</a> **[European Spaceflight]** Space Cargo Unlimited Secures €12.5M for BentoBox In-Orbit Platform
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250703T220131">2025-07-03 22:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250703T223512">2025-07-03 22:35:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
