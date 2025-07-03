@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/open-cosmos-buys-portuguese-startup-to-bolster-space-based-iot-capabilities/" >🔗</a> **[SpaceNews]** Open Cosmos buys Portuguese startup to bolster space-based IoT capabilities
 - <a href="https://spacenews.com/latitude-announces-new-factory-and-contracts-for-zephyr-small-launcher/" >🔗</a> **[SpaceNews]** Latitude announces new factory and contracts for Zephyr small launcher
 - <a href="https://www.nasa.gov/news-release/nasa-sets-briefings-for-spacex-crew-11-mission-to-space-station/" >🔗</a> **[NASA]** NASA Sets Briefings for SpaceX Crew-11 Mission to Space Station
 - <a href="https://www.nasa.gov/news-release/nasa-awards-simulation-and-advanced-software-services-ii-contract/" >🔗</a> **[NASA]** NASA Awards Simulation and Advanced Software Services II Contract
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/darpa-says-decreasing-launch-costs-new-analysis-led-it-to-cancel-draco-nuclear-propulsion-project/" >🔗</a> **[SpaceNews]** DARPA says decreasing launch costs, new analysis led it to cancel DRACO nuclear propulsion project
 - <a href="https://www.nasa.gov/image-article/to-the-spacemobile/" >🔗</a> **[NASA]** To the Spacemobile!
 - <a href="https://science.nasa.gov/universe/exoplanets/discovery-alert-flaring-star-toasted-planet/" >🔗</a> **[NASA]** Discovery Alert: Flaring Star, Toasted Planet
-- <a href="https://science.nasa.gov/science-research/planetary-science/planetary-defense/near-earth-asteroids/" >🔗</a> **[NASA]** Near-Earth Asteroids as of July 2025
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250703T070214">2025-07-03 07:02:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250703T073336">2025-07-03 07:33:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
