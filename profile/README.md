@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/07/03/ula-begins-stacking-its-1st-vulcan-rocket-supporting-a-national-security-mission/" >🔗</a> **[Spaceflight Now]** ULA begins stacking its 1st Vulcan rocket supporting a national security mission
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/06/Students_take_3D-printed_rovers_for_a_spin" >🔗</a> **[ESA]** Students take 3D-printed rovers for a spin
 - <a href="https://spacenews.com/open-cosmos-buys-portuguese-startup-to-bolster-space-based-iot-capabilities/" >🔗</a> **[SpaceNews]** Open Cosmos buys Portuguese startup to bolster space-based IoT capabilities
 - <a href="https://spacenews.com/latitude-announces-new-factory-and-contracts-for-zephyr-small-launcher/" >🔗</a> **[SpaceNews]** Latitude announces new factory and contracts for Zephyr small launcher
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/open-science/spherex-universe-map/" >🔗</a> **[NASA]** How NASA’s SPHEREx Mission Will Share Its All-Sky Map With the World
 - <a href="https://science.nasa.gov/solar-system/skywatching/whats-up-july-2025-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: July 2025 Skywatching Tips from NASA
 - <a href="https://spacenews.com/darpa-says-decreasing-launch-costs-new-analysis-led-it-to-cancel-draco-nuclear-propulsion-project/" >🔗</a> **[SpaceNews]** DARPA says decreasing launch costs, new analysis led it to cancel DRACO nuclear propulsion project
-- <a href="https://www.nasa.gov/image-article/to-the-spacemobile/" >🔗</a> **[NASA]** To the Spacemobile!
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250703T130954">2025-07-03 13:09:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250703T133922">2025-07-03 13:39:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
