@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/trump-megabill-includes-billions-for-artemis-iss-moving-a-space-shuttle-to-texas-and-more/" >🔗</a> **[SpacePolicyOnline.com]** Trump Megabill Includes Billions for Artemis, ISS, Moving A Space Shuttle to Texas And More
+- <a href="https://spacenews.com/china-launches-first-classified-shiyan-28b-experimental-satellite/" >🔗</a> **[SpaceNews]** China launches first classified Shiyan-28B experimental satellite
 - <a href="https://www.nasa.gov/news-release/nasa-remembers-former-johnson-director-jefferson-howell/" >🔗</a> **[NASA]** NASA Remembers Former Johnson Director Jefferson Howell
 - <a href="https://www.nasa.gov/missions/tempo/nasa-mission-monitoring-air-quality-from-space-extended/" >🔗</a> **[NASA]** NASA Mission Monitoring Air Quality from Space Extended
 - <a href="https://science.nasa.gov/missions/hubble/hubble-observations-give-missing-globular-cluster-time-to-shine/" >🔗</a> **[NASA]** Hubble Observations Give “Missing” Globular Cluster Time to Shine
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2025/07/progress-ms-31-iss/" >🔗</a> **[NASASpaceflight]** Progress MS-31 to launch as ISS hosts private crew, prepares for another handover
 - <a href="https://science.nasa.gov/universe/exoplanets/discovery-alert-scientists-spot-a-planetary-carousel/" >🔗</a> **[NASA]** Discovery Alert: Scientists Spot a Planetary Carousel
 - <a href="https://spacenews.com/the-business-case-for-the-moon/" >🔗</a> **[SpaceNews]** The business case for the moon
-- <a href="https://www.esa.int/Space_Safety/Planetary_Defence/ESA_tracks_rare_interstellar_comet" >🔗</a> **[ESA]** ESA tracks rare interstellar comet
-- <a href="https://spacenews.com/esa-prepares-downselect-for-european-launcher-challenge/" >🔗</a> **[SpaceNews]** ESA prepares downselect for European Launcher Challenge
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250703T230121">2025-07-03 23:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250703T233344">2025-07-03 23:33:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
