@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/boeing-lands-2-8-billion-deal-to-build-next-gen-nuclear-communications-satellites/" >🔗</a> **[SpaceNews]** Boeing lands $2.8 billion deal to build next-gen nuclear communications satellites
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/07/Earth_from_Space_Zanzibar_Tanzania" >🔗</a> **[ESA]** Earth from Space: Zanzibar, Tanzania
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/SMOS/Antarctic_waters_getting_saltier_as_sea_ice_wanes" >🔗</a> **[ESA]** Antarctic waters getting saltier as sea ice wanes
 - <a href="https://spacepolicyonline.com/news/reconciliation-bill-passes-congress-with-billions-for-u-s-space-force/" >🔗</a> **[SpacePolicyOnline.com]** Reconciliation Bill Passes Congress with Billions for U.S. Space Force
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-remembers-former-johnson-director-jefferson-howell/" >🔗</a> **[NASA]** NASA Remembers Former Johnson Director Jefferson Howell
 - <a href="https://www.nasa.gov/missions/tempo/nasa-mission-monitoring-air-quality-from-space-extended/" >🔗</a> **[NASA]** NASA Mission Monitoring Air Quality from Space Extended
 - <a href="https://science.nasa.gov/missions/hubble/hubble-observations-give-missing-globular-cluster-time-to-shine/" >🔗</a> **[NASA]** Hubble Observations Give “Missing” Globular Cluster Time to Shine
-- <a href="https://www.nasa.gov/aeronautics/pressure-sensitive-paint-2025/" >🔗</a> **[NASA]** NASA Advances Pressure Sensitive Paint Research Capability
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250704T090138">2025-07-04 09:01:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250704T093516">2025-07-04 09:35:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
