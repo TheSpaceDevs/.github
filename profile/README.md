@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_30_June_-_4_July_2025" >🔗</a> **[ESA]** Week in images: 30 June - 4 July 2025
 - <a href="https://arstechnica.com/space/2025/07/rocket-report-japans-workhorse-booster-takes-a-bow-you-can-invest-in-spacex-now/" >🔗</a> **[Arstechnica]** Rocket Report: Japan’s workhorse booster takes a bow; you can invest in SpaceX now
 - <a href="https://spacenews.com/boeing-lands-2-8-billion-deal-to-build-next-gen-nuclear-communications-satellites/" >🔗</a> **[SpaceNews]** Boeing lands $2.8 billion deal to build next-gen nuclear communications satellites
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/07/Earth_from_Space_Zanzibar_Tanzania" >🔗</a> **[ESA]** Earth from Space: Zanzibar, Tanzania
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/trump-megabill-includes-billions-for-artemis-iss-moving-a-space-shuttle-to-texas-and-more/" >🔗</a> **[SpacePolicyOnline.com]** Trump Megabill Includes Billions for Artemis, ISS, Moving A Space Shuttle to Texas And More
 - <a href="https://spacenews.com/china-launches-first-classified-shiyan-28b-experimental-satellite/" >🔗</a> **[SpaceNews]** China launches first classified Shiyan-28B experimental satellite
 - <a href="https://www.nasa.gov/news-release/nasa-remembers-former-johnson-director-jefferson-howell/" >🔗</a> **[NASA]** NASA Remembers Former Johnson Director Jefferson Howell
-- <a href="https://www.nasa.gov/missions/tempo/nasa-mission-monitoring-air-quality-from-space-extended/" >🔗</a> **[NASA]** NASA Mission Monitoring Air Quality from Space Extended
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250704T131002">2025-07-04 13:10:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250704T133859">2025-07-04 13:38:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
