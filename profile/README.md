@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/orbex-ceo-says-proxima-rocket-will-let-it-compete-on-price-with-spacex/" >🔗</a> **[European Spaceflight]** Orbex CEO Says Proxima Rocket Will Let It Compete on Price With SpaceX
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_30_June_-_4_July_2025" >🔗</a> **[ESA]** Week in images: 30 June - 4 July 2025
 - <a href="https://arstechnica.com/space/2025/07/rocket-report-japans-workhorse-booster-takes-a-bow-you-can-invest-in-spacex-now/" >🔗</a> **[Arstechnica]** Rocket Report: Japan’s workhorse booster takes a bow; you can invest in SpaceX now
 - <a href="https://spacenews.com/boeing-lands-2-8-billion-deal-to-build-next-gen-nuclear-communications-satellites/" >🔗</a> **[SpaceNews]** Boeing lands $2.8 billion deal to build next-gen nuclear communications satellites
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/congress-passes-budget-reconciliation-bill-with-10-billion-for-nasa/" >🔗</a> **[SpaceNews]** Congress passes budget reconciliation bill with $10 billion for NASA
 - <a href="https://spacepolicyonline.com/news/trump-megabill-includes-billions-for-artemis-iss-moving-a-space-shuttle-to-texas-and-more/" >🔗</a> **[SpacePolicyOnline.com]** Trump Megabill Includes Billions for Artemis, ISS, Moving A Space Shuttle to Texas And More
 - <a href="https://spacenews.com/china-launches-first-classified-shiyan-28b-experimental-satellite/" >🔗</a> **[SpaceNews]** China launches first classified Shiyan-28B experimental satellite
-- <a href="https://www.nasa.gov/news-release/nasa-remembers-former-johnson-director-jefferson-howell/" >🔗</a> **[NASA]** NASA Remembers Former Johnson Director Jefferson Howell
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250704T150128">2025-07-04 15:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250704T153417">2025-07-04 15:34:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
