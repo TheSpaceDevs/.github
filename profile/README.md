@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/reconciliation-bill-passes-congress-with-billions-for-u-s-space-force/" >🔗</a> **[SpacePolicyOnline.com]** Reconciliation Bill Passes Congress with Billions for U.S. Space Force
 - <a href="https://spacenews.com/congress-passes-budget-reconciliation-bill-with-10-billion-for-nasa/" >🔗</a> **[SpaceNews]** Congress passes budget reconciliation bill with $10 billion for NASA
 - <a href="https://spacepolicyonline.com/news/trump-megabill-includes-billions-for-artemis-iss-moving-a-space-shuttle-to-texas-and-more/" >🔗</a> **[SpacePolicyOnline.com]** Trump Megabill Includes Billions for Artemis, ISS, Moving A Space Shuttle to Texas And More
 - <a href="https://spacenews.com/china-launches-first-classified-shiyan-28b-experimental-satellite/" >🔗</a> **[SpaceNews]** China launches first classified Shiyan-28B experimental satellite
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/aeronautics/pressure-sensitive-paint-2025/" >🔗</a> **[NASA]** NASA Advances Pressure Sensitive Paint Research Capability
 - <a href="https://www.nasa.gov/image-article/old-glory-on-the-red-planet/" >🔗</a> **[NASA]** Old Glory on the Red Planet
 - <a href="https://www.nasaspaceflight.com/2025/07/progress-ms-31-iss/" >🔗</a> **[NASASpaceflight]** Progress MS-31 to launch as ISS hosts private crew, prepares for another handover
-- <a href="https://science.nasa.gov/universe/exoplanets/discovery-alert-scientists-spot-a-planetary-carousel/" >🔗</a> **[NASA]** Discovery Alert: Scientists Spot a Planetary Carousel
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250704T040717">2025-07-04 04:07:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250704T043913">2025-07-04 04:39:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
