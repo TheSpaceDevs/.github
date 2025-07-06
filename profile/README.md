@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/u-s-air-force-halts-plan-for-rocket-landing-pads-on-remote-pacific-atoll-amid-environmental-backlash/" >🔗</a> **[SpaceNews]** U.S. Air Force halts plan for rocket landing pads on remote Pacific atoll amid environmental backlash
 - <a href="https://spacenews.com/space-force-scraps-satellite-procurement-shifts-to-more-flexible-strategy/" >🔗</a> **[SpaceNews]** Space Force scraps satellite procurement, shifts to more flexible strategy
 - <a href="https://www.nasaspaceflight.com/2025/07/china-roundup-070525/" >🔗</a> **[NASASpaceflight]** China accelerates toward lunar goals as reusability programs gain momentum
 - <a href="https://spaceflightnow.com/2025/07/05/republican-backed-reconciliation-bill-passes-includes-funding-for-iss-artemis-programs-space-shuttle-relocation/" >🔗</a> **[Spaceflight Now]** Republican-backed reconciliation bill passes, includes funding for ISS, Artemis programs, Space Shuttle relocation
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2025/07/rocket-report-japans-workhorse-booster-takes-a-bow-you-can-invest-in-spacex-now/" >🔗</a> **[Arstechnica]** Rocket Report: Japan’s workhorse booster takes a bow; you can invest in SpaceX now
 - <a href="https://spacenews.com/boeing-lands-2-8-billion-deal-to-build-next-gen-nuclear-communications-satellites/" >🔗</a> **[SpaceNews]** Boeing lands $2.8 billion deal to build next-gen nuclear communications satellites
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/07/Earth_from_Space_Zanzibar_Tanzania" >🔗</a> **[ESA]** Earth from Space: Zanzibar, Tanzania
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/SMOS/Antarctic_waters_getting_saltier_as_sea_ice_wanes" >🔗</a> **[ESA]** Antarctic waters getting saltier as sea ice wanes
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250706T170123">2025-07-06 17:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250706T173338">2025-07-06 17:33:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
