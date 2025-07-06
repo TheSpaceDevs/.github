@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-6-12-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy July 6-12, 2025
+- <a href="https://www.nasaspaceflight.com/2025/07/himawari-venus/" >🔗</a> **[NASASpaceflight]** Himawari meteorological satellites measure temperature changes on Venus
 - <a href="https://spacenews.com/u-s-air-force-halts-plan-for-rocket-landing-pads-on-remote-pacific-atoll-amid-environmental-backlash/" >🔗</a> **[SpaceNews]** U.S. Air Force halts plan for rocket landing pads on remote Pacific atoll amid environmental backlash
 - <a href="https://spacenews.com/space-force-scraps-satellite-procurement-shifts-to-more-flexible-strategy/" >🔗</a> **[SpaceNews]** Space Force scraps satellite procurement, shifts to more flexible strategy
 - <a href="https://www.nasaspaceflight.com/2025/07/china-roundup-070525/" >🔗</a> **[NASASpaceflight]** China accelerates toward lunar goals as reusability programs gain momentum
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/orbex-ceo-says-proxima-rocket-will-let-it-compete-on-price-with-spacex/" >🔗</a> **[European Spaceflight]** Orbex CEO Says Proxima Rocket Will Let It Compete on Price With SpaceX
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_30_June_-_4_July_2025" >🔗</a> **[ESA]** Week in images: 30 June - 4 July 2025
 - <a href="https://arstechnica.com/space/2025/07/rocket-report-japans-workhorse-booster-takes-a-bow-you-can-invest-in-spacex-now/" >🔗</a> **[Arstechnica]** Rocket Report: Japan’s workhorse booster takes a bow; you can invest in SpaceX now
-- <a href="https://spacenews.com/boeing-lands-2-8-billion-deal-to-build-next-gen-nuclear-communications-satellites/" >🔗</a> **[SpaceNews]** Boeing lands $2.8 billion deal to build next-gen nuclear communications satellites
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/07/Earth_from_Space_Zanzibar_Tanzania" >🔗</a> **[ESA]** Earth from Space: Zanzibar, Tanzania
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250706T210116">2025-07-06 21:01:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250706T213244">2025-07-06 21:32:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
