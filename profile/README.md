@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/European_Launcher_Challenge_preselected_challengers_unveiled" >🔗</a> **[ESA]** European Launcher Challenge: preselected challengers unveiled
 - <a href="https://spacenews.com/trump-says-it-would-have-been-inappropriate-for-isaacman-to-lead-nasa/" >🔗</a> **[SpaceNews]** Trump says it would have been “inappropriate” for Isaacman to lead NASA
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/aaisha-ali-from-marine-biology-to-the-artemis-control-room/" >🔗</a> **[NASA]** Aaisha Ali: From Marine Biology to the Artemis Control Room
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-6-12-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy July 6-12, 2025
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2025/07/china-roundup-070525/" >🔗</a> **[NASASpaceflight]** China accelerates toward lunar goals as reusability programs gain momentum
 - <a href="https://spaceflightnow.com/2025/07/05/republican-backed-reconciliation-bill-passes-includes-funding-for-iss-artemis-programs-space-shuttle-relocation/" >🔗</a> **[Spaceflight Now]** Republican-backed reconciliation bill passes, includes funding for ISS, Artemis programs, Space Shuttle relocation
 - <a href="https://europeanspaceflight.com/mission-to-collect-meteoric-smoke-particles-launched-from-norway/" >🔗</a> **[European Spaceflight]** Mission to Collect Meteoric Smoke Particles Launched from Norway
-- <a href="https://europeanspaceflight.com/orbex-ceo-says-proxima-rocket-will-let-it-compete-on-price-with-spacex/" >🔗</a> **[European Spaceflight]** Orbex CEO Says Proxima Rocket Will Let It Compete on Price With SpaceX
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250707T120207">2025-07-07 12:02:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250707T124329">2025-07-07 12:43:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
