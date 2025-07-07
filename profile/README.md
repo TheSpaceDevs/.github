@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/chinese-scientists-propose-2033-neptune-orbiter-mission/" >🔗</a> **[SpaceNews]** Chinese scientists propose 2033 Neptune orbiter mission
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-and-webb-reveal-two-faces-of-star-cluster-duo/" >🔗</a> **[NASA]** NASA’s Hubble and Webb Telescopes Reveal Two Faces of a Star Cluster Duo
 - <a href="https://europeanspaceflight.com/esa-shortlists-five-companies-for-european-launcher-challenge/" >🔗</a> **[European Spaceflight]** ESA Shortlists Five Companies for European Launcher Challenge
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/European_Launcher_Challenge_preselected_challengers_unveiled" >🔗</a> **[ESA]** European Launcher Challenge: preselected challengers unveiled
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2025/07/himawari-venus/" >🔗</a> **[NASASpaceflight]** Himawari meteorological satellites measure temperature changes on Venus
 - <a href="https://spacenews.com/u-s-air-force-halts-plan-for-rocket-landing-pads-on-remote-pacific-atoll-amid-environmental-backlash/" >🔗</a> **[SpaceNews]** U.S. Air Force halts plan for rocket landing pads on remote Pacific atoll amid environmental backlash
 - <a href="https://spacenews.com/space-force-scraps-satellite-procurement-shifts-to-more-flexible-strategy/" >🔗</a> **[SpaceNews]** Space Force scraps satellite procurement, shifts to more flexible strategy
-- <a href="https://www.nasaspaceflight.com/2025/07/china-roundup-070525/" >🔗</a> **[NASASpaceflight]** China accelerates toward lunar goals as reusability programs gain momentum
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250707T170143">2025-07-07 17:01:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250707T173515">2025-07-07 17:35:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
