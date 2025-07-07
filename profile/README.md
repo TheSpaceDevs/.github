@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/aaisha-ali-from-marine-biology-to-the-artemis-control-room/" >🔗</a> **[NASA]** Aaisha Ali: From Marine Biology to the Artemis Control Room
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-6-12-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy July 6-12, 2025
 - <a href="https://www.nasaspaceflight.com/2025/07/himawari-venus/" >🔗</a> **[NASASpaceflight]** Himawari meteorological satellites measure temperature changes on Venus
 - <a href="https://spacenews.com/u-s-air-force-halts-plan-for-rocket-landing-pads-on-remote-pacific-atoll-amid-environmental-backlash/" >🔗</a> **[SpaceNews]** U.S. Air Force halts plan for rocket landing pads on remote Pacific atoll amid environmental backlash
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/mission-to-collect-meteoric-smoke-particles-launched-from-norway/" >🔗</a> **[European Spaceflight]** Mission to Collect Meteoric Smoke Particles Launched from Norway
 - <a href="https://europeanspaceflight.com/orbex-ceo-says-proxima-rocket-will-let-it-compete-on-price-with-spacex/" >🔗</a> **[European Spaceflight]** Orbex CEO Says Proxima Rocket Will Let It Compete on Price With SpaceX
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_30_June_-_4_July_2025" >🔗</a> **[ESA]** Week in images: 30 June - 4 July 2025
-- <a href="https://arstechnica.com/space/2025/07/rocket-report-japans-workhorse-booster-takes-a-bow-you-can-invest-in-spacex-now/" >🔗</a> **[Arstechnica]** Rocket Report: Japan’s workhorse booster takes a bow; you can invest in SpaceX now
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250707T100125">2025-07-07 10:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250707T103728">2025-07-07 10:37:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
