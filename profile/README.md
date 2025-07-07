@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/07/launch-roundup-070725/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9 set to fly 500th orbital mission during quiet week
 - <a href="https://www.nasa.gov/image-article/working-in-space/" >🔗</a> **[NASA]** Working in Space
 - <a href="https://spacenews.com/cooperation-and-consolidation-reshaping-europes-space-industry-to-last/" >🔗</a> **[SpaceNews]** Cooperation and consolidation: reshaping Europe’s space industry to last
 - <a href="https://spacenews.com/chinese-scientists-propose-2033-neptune-orbiter-mission/" >🔗</a> **[SpaceNews]** Chinese scientists propose 2033 Neptune orbiter mission
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/trump-says-it-would-have-been-inappropriate-for-isaacman-to-lead-nasa/" >🔗</a> **[SpaceNews]** Trump says it would have been “inappropriate” for Isaacman to lead NASA
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/aaisha-ali-from-marine-biology-to-the-artemis-control-room/" >🔗</a> **[NASA]** Aaisha Ali: From Marine Biology to the Artemis Control Room
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-6-12-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy July 6-12, 2025
-- <a href="https://www.nasaspaceflight.com/2025/07/himawari-venus/" >🔗</a> **[NASASpaceflight]** Himawari meteorological satellites measure temperature changes on Venus
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250707T220127">2025-07-07 22:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250707T223515">2025-07-07 22:35:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
