@@ -92,6 +92,7 @@ Dror-1 is a geostationary communication satellite built and developed by Israel 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/uncategorized/helio-highlights-may-2025/" >🔗</a> **[NASA]** Helio Highlights: May 2025
 - <a href="https://www.nasaspaceflight.com/2025/07/vulcan-ussf-106-update/" >🔗</a> **[NASASpaceflight]** ULA set to ramp up Vulcan launches and national security missions with USSF-106
 - <a href="https://www.nasa.gov/image-article/stellar-duo/" >🔗</a> **[NASA]** Stellar Duo
 - <a href="https://arstechnica.com/space/2025/07/tuesday-telescope-a-stellar-duo-stars-in-a-nearby-galaxy/" >🔗</a> **[Arstechnica]** Tuesday Telescope: A stellar duo stars in a nearby galaxy
@@ -101,7 +102,6 @@ Dror-1 is a geostationary communication satellite built and developed by Israel 
 - <a href="https://spacenews.com/esa-selects-five-companies-for-next-phase-of-launcher-competition/" >🔗</a> **[SpaceNews]** ESA selects five companies for next phase of launcher competition
 - <a href="https://spaceflightnow.com/2025/07/08/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-5-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4589-4592-setting-up-to-explore-volcan-pena-blanca/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4589 – 4592: Setting up to explore Volcán Peña Blanca
-- <a href="https://science.nasa.gov/blog/curiosity-blog-sol-4588-ridges-and-troughs/" >🔗</a> **[NASA]** Curiosity Blog, Sol 4588: Ridges and troughs
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ Dror-1 is a geostationary communication satellite built and developed by Israel 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250708T190130">2025-07-08 19:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250708T193131">2025-07-08 19:31:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
