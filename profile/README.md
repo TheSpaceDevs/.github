@@ -92,6 +92,7 @@ Dror-1 is a geostationary communication satellite built and developed by Israel 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/aerospace-industry-urges-congress-not-to-kill-tracss/" >🔗</a> **[SpacePolicyOnline.com]** Aerospace Industry Urges Congress Not to Kill TraCSS
 - <a href="https://spacepolicyonline.com/news/scientists-rally-support-for-nasa-as-appropriators-begin-markups/" >🔗</a> **[SpacePolicyOnline.com]** Scientists Rally Support for NASA as Appropriators Begin Markups
 - <a href="https://science.nasa.gov/blog/continuing-the-quest-for-clays/" >🔗</a> **[NASA]** Continuing the Quest for Clays
 - <a href="https://science.nasa.gov/uncategorized/helio-highlights-may-2025/" >🔗</a> **[NASA]** Helio Highlights: May 2025
@@ -101,7 +102,6 @@ Dror-1 is a geostationary communication satellite built and developed by Israel 
 - <a href="https://spacenews.com/commercial-space-industry-groups-ask-congress-to-fully-fund-tracss/" >🔗</a> **[SpaceNews]** Commercial space industry groups ask Congress to fully fund TraCSS
 - <a href="https://spacenews.com/muon-space-taps-former-sda-official-to-lead-government-push/" >🔗</a> **[SpaceNews]** Muon Space names new leadership to advance role in government market
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/From_ESA_lab_to_a_historic_drone_race_win" >🔗</a> **[ESA]** From ESA lab to a historic drone race win
-- <a href="https://spacenews.com/esa-selects-five-companies-for-next-phase-of-launcher-competition/" >🔗</a> **[SpaceNews]** ESA selects five companies for next phase of launcher competition
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ Dror-1 is a geostationary communication satellite built and developed by Israel 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250708T220123">2025-07-08 22:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250708T223531">2025-07-08 22:35:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
