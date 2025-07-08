@@ -89,6 +89,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/commercial-space-industry-groups-ask-congress-to-fully-fund-tracss/" >🔗</a> **[SpaceNews]** Commercial space industry groups ask Congress to fully fund TraCSS
+- <a href="https://spacenews.com/muon-space-taps-former-sda-official-to-lead-government-push/" >🔗</a> **[SpaceNews]** Muon Space names new leadership to advance role in government market
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/From_ESA_lab_to_a_historic_drone_race_win" >🔗</a> **[ESA]** From ESA lab to a historic drone race win
 - <a href="https://spacenews.com/esa-selects-five-companies-for-next-phase-of-launcher-competition/" >🔗</a> **[SpaceNews]** ESA selects five companies for next phase of launcher competition
 - <a href="https://spaceflightnow.com/2025/07/08/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-5-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Cape Canaveral
@@ -97,8 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2025/07/launch-roundup-070725/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9 set to fly 500th orbital mission during quiet week
 - <a href="https://www.nasa.gov/image-article/working-in-space/" >🔗</a> **[NASA]** Working in Space
 - <a href="https://spacenews.com/cooperation-and-consolidation-reshaping-europes-space-industry-to-last/" >🔗</a> **[SpaceNews]** Cooperation and consolidation: reshaping Europe’s space industry to last
-- <a href="https://spacenews.com/chinese-scientists-propose-2033-neptune-orbiter-mission/" >🔗</a> **[SpaceNews]** Chinese scientists propose 2033 Neptune orbiter mission
-- <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-and-webb-reveal-two-faces-of-star-cluster-duo/" >🔗</a> **[NASA]** NASA’s Hubble and Webb Telescopes Reveal Two Faces of a Star Cluster Duo
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250708T100126">2025-07-08 10:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250708T103706">2025-07-08 10:37:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
