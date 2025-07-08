@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/07/08/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-5-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4589-4592-setting-up-to-explore-volcan-pena-blanca/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4589 – 4592: Setting up to explore Volcán Peña Blanca
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sol-4588-ridges-and-troughs/" >🔗</a> **[NASA]** Curiosity Blog, Sol 4588: Ridges and troughs
 - <a href="https://www.nasaspaceflight.com/2025/07/launch-roundup-070725/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9 set to fly 500th orbital mission during quiet week
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-and-webb-reveal-two-faces-of-star-cluster-duo/" >🔗</a> **[NASA]** NASA’s Hubble and Webb Telescopes Reveal Two Faces of a Star Cluster Duo
 - <a href="https://europeanspaceflight.com/esa-shortlists-five-companies-for-european-launcher-challenge/" >🔗</a> **[European Spaceflight]** ESA Shortlists Five Companies for European Launcher Challenge
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/European_Launcher_Challenge_preselected_challengers_unveiled" >🔗</a> **[ESA]** European Launcher Challenge: preselected challengers unveiled
-- <a href="https://spacenews.com/trump-says-it-would-have-been-inappropriate-for-isaacman-to-lead-nasa/" >🔗</a> **[SpaceNews]** Trump says it would have been “inappropriate” for Isaacman to lead NASA
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250708T004600">2025-07-08 00:46:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250708T012921">2025-07-08 01:29:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
