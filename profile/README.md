@@ -103,6 +103,7 @@ into *a Low Earth Orbit
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2025/07/launch-roundup-070725/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9 set to fly 500th orbital mission during quiet week
 - <a href="https://www.nasaspaceflight.com/2025/06/launch-roundup-063025/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Gilmour Space to make debut, SpaceX plans east coast doubleheader
 - <a href="https://arstechnica.com/space/2025/05/rocket-report-how-is-your-payload-fairing-poland-launches-test-rocket/" >🔗</a> **[Arstechnica]** Rocket Report: How is your payload fairing? Poland launches test rocket.
 - <a href="https://www.nasaspaceflight.com/2025/05/eris-testflight1/" >🔗</a> **[NASASpaceflight]** Gilmour Space’s Eris rocket set for Australia’s first homegrown orbital launch
@@ -112,12 +113,11 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/gilmore-space-secures-license-for-first-orbital-launch/" >🔗</a> **[SpaceNews]** Gilmour Space secures license for first orbital launch
 - <a href="https://spaceflightnow.com/2024/11/05/gilmour-space-touts-permit-for-first-orbital-launch-attempt-of-australias-first-orbital-class-rocket/" >🔗</a> **[Spaceflight Now]** Gilmour Space touts permit for first orbital launch attempt of Australia’s first orbital-class rocket
 - <a href="https://spaceflightnow.com/2024/11/05/gilmour-space-touts-permit-for-launch-of-australias-first-orbital-class-rocket/" >🔗</a> **[Spaceflight Now]** Gilmour Space touts permit for launch of Australia’s first orbital-class rocket
-- <a href="https://www.teslarati.com/gilmour-space-looks-to-join-the-commercial-rocket-race/" >🔗</a> **[Teslarati]** Gilmour Space looks to join the commercial rocket race
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250708T110128">2025-07-08 11:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250708T113310">2025-07-08 11:33:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
