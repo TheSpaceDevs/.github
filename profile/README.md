@@ -92,6 +92,7 @@ Dror-1 is a geostationary communication satellite built and developed by Israel 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/scientists-rally-support-for-nasa-as-appropriators-begin-markups/" >🔗</a> **[SpacePolicyOnline.com]** Scientists Rally Support for NASA as Appropriators Begin Markups
 - <a href="https://science.nasa.gov/blog/continuing-the-quest-for-clays/" >🔗</a> **[NASA]** Continuing the Quest for Clays
 - <a href="https://science.nasa.gov/uncategorized/helio-highlights-may-2025/" >🔗</a> **[NASA]** Helio Highlights: May 2025
 - <a href="https://www.nasaspaceflight.com/2025/07/vulcan-ussf-106-update/" >🔗</a> **[NASASpaceflight]** ULA set to ramp up Vulcan launches and national security missions with USSF-106
@@ -101,7 +102,6 @@ Dror-1 is a geostationary communication satellite built and developed by Israel 
 - <a href="https://spacenews.com/muon-space-taps-former-sda-official-to-lead-government-push/" >🔗</a> **[SpaceNews]** Muon Space names new leadership to advance role in government market
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/From_ESA_lab_to_a_historic_drone_race_win" >🔗</a> **[ESA]** From ESA lab to a historic drone race win
 - <a href="https://spacenews.com/esa-selects-five-companies-for-next-phase-of-launcher-competition/" >🔗</a> **[SpaceNews]** ESA selects five companies for next phase of launcher competition
-- <a href="https://spaceflightnow.com/2025/07/08/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-5-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ Dror-1 is a geostationary communication satellite built and developed by Israel 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250708T210123">2025-07-08 21:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250708T213330">2025-07-08 21:33:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
