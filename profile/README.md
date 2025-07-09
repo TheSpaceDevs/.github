@@ -92,6 +92,7 @@ Dror-1 is a geostationary communication satellite built and developed by Israel 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/kennedy/i-am-artemis-joe-pavicic/" >🔗</a> **[NASA]** I Am Artemis: Joe Pavicic
 - <a href="https://science.nasa.gov/get-involved/citizen-science/polar-tourists-give-positive-reviews-to-nasa-citizen-science-in-antarctica/" >🔗</a> **[NASA]** Polar Tourists Give Positive Reviews to NASA Citizen Science in Antarctica
 - <a href="https://europeanspaceflight.com/esa-validates-space-rider-landing-accuracy-with-drop-test-campaign/" >🔗</a> **[European Spaceflight]** ESA Validates Space Rider Landing Accuracy with Drop Test Campaign
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Space_Rider/Closing_the_loop_new_Space_Rider_drop_test" >🔗</a> **[ESA]** Closing the loop: new Space Rider drop test
@@ -101,7 +102,6 @@ Dror-1 is a geostationary communication satellite built and developed by Israel 
 - <a href="https://science.nasa.gov/uncategorized/helio-highlights-may-2025/" >🔗</a> **[NASA]** Helio Highlights: May 2025
 - <a href="https://www.nasaspaceflight.com/2025/07/vulcan-ussf-106-update/" >🔗</a> **[NASASpaceflight]** ULA set to ramp up Vulcan launches and national security missions with USSF-106
 - <a href="https://www.nasa.gov/image-article/stellar-duo/" >🔗</a> **[NASA]** Stellar Duo
-- <a href="https://arstechnica.com/space/2025/07/tuesday-telescope-a-stellar-duo-stars-in-a-nearby-galaxy/" >🔗</a> **[Arstechnica]** Tuesday Telescope: A stellar duo stars in a nearby galaxy
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ Dror-1 is a geostationary communication satellite built and developed by Israel 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250709T150123">2025-07-09 15:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250709T153543">2025-07-09 15:35:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
