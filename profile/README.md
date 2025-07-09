@@ -92,6 +92,8 @@ Dror-1 is a geostationary communication satellite built and developed by Israel 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/earth/nasa-aircraft-sensor-technology-aid-in-texas-flood-recovery-efforts/" >🔗</a> **[NASA]** NASA Aircraft, Sensor Technology, Aid in Texas Flood Recovery Efforts
+- <a href="https://science.nasa.gov/science-research/artificial-intelligence-metadata-tagging/" >🔗</a> **[NASA]** Smarter Searching: NASA AI Makes Science Data Easier to Find
 - <a href="https://www.nasa.gov/image-article/anatomy-of-a-space-shuttle/" >🔗</a> **[NASA]** Anatomy of a Space Shuttle
 - <a href="https://www.nasa.gov/history/hubble-at-35-years-symposium-explores-insights-from-hubbles-past/" >🔗</a> **[NASA]** “Hubble at 35 Years” Symposium Explores Insights from Hubble’s Past
 - <a href="https://www.nasa.gov/news-release/nasa-international-astronauts-answer-questions-from-florida-students/" >🔗</a> **[NASA]** NASA, International Astronauts Answer Questions from Florida Students
@@ -100,8 +102,6 @@ Dror-1 is a geostationary communication satellite built and developed by Israel 
 - <a href="https://science.nasa.gov/get-involved/citizen-science/polar-tourists-give-positive-reviews-to-nasa-citizen-science-in-antarctica/" >🔗</a> **[NASA]** Polar Tourists Give Positive Reviews to NASA Citizen Science in Antarctica
 - <a href="https://europeanspaceflight.com/esa-validates-space-rider-landing-accuracy-with-drop-test-campaign/" >🔗</a> **[European Spaceflight]** ESA Validates Space Rider Landing Accuracy with Drop Test Campaign
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Space_Rider/Closing_the_loop_new_Space_Rider_drop_test" >🔗</a> **[ESA]** Closing the loop: new Space Rider drop test
-- <a href="https://spacepolicyonline.com/news/aerospace-industry-urges-congress-not-to-kill-tracss/" >🔗</a> **[SpacePolicyOnline.com]** Aerospace Industry Urges Congress Not to Kill TraCSS
-- <a href="https://spacepolicyonline.com/news/scientists-rally-support-for-nasa-as-appropriators-begin-markups/" >🔗</a> **[SpacePolicyOnline.com]** Scientists Rally Support for NASA as Appropriators Begin Markups
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ Dror-1 is a geostationary communication satellite built and developed by Israel 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250709T190147">2025-07-09 19:01:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250709T193145">2025-07-09 19:31:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
