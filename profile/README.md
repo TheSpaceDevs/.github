@@ -92,6 +92,7 @@ Dror-1 is a geostationary communication satellite built and developed by Israel 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/get-involved/citizen-science/polar-tourists-give-positive-reviews-to-nasa-citizen-science-in-antarctica/" >🔗</a> **[NASA]** Polar Tourists Give Positive Reviews to NASA Citizen Science in Antarctica
 - <a href="https://europeanspaceflight.com/esa-validates-space-rider-landing-accuracy-with-drop-test-campaign/" >🔗</a> **[European Spaceflight]** ESA Validates Space Rider Landing Accuracy with Drop Test Campaign
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Space_Rider/Closing_the_loop_new_Space_Rider_drop_test" >🔗</a> **[ESA]** Closing the loop: new Space Rider drop test
 - <a href="https://spacepolicyonline.com/news/aerospace-industry-urges-congress-not-to-kill-tracss/" >🔗</a> **[SpacePolicyOnline.com]** Aerospace Industry Urges Congress Not to Kill TraCSS
@@ -101,7 +102,6 @@ Dror-1 is a geostationary communication satellite built and developed by Israel 
 - <a href="https://www.nasaspaceflight.com/2025/07/vulcan-ussf-106-update/" >🔗</a> **[NASASpaceflight]** ULA set to ramp up Vulcan launches and national security missions with USSF-106
 - <a href="https://www.nasa.gov/image-article/stellar-duo/" >🔗</a> **[NASA]** Stellar Duo
 - <a href="https://arstechnica.com/space/2025/07/tuesday-telescope-a-stellar-duo-stars-in-a-nearby-galaxy/" >🔗</a> **[Arstechnica]** Tuesday Telescope: A stellar duo stars in a nearby galaxy
-- <a href="https://spacenews.com/commercial-space-industry-groups-ask-congress-to-fully-fund-tracss/" >🔗</a> **[SpaceNews]** Commercial space industry groups ask Congress to fully fund TraCSS
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ Dror-1 is a geostationary communication satellite built and developed by Israel 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250709T140123">2025-07-09 14:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250709T143620">2025-07-09 14:36:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
