@@ -92,6 +92,9 @@ Dror-1 is a geostationary communication satellite built and developed by Israel 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_scratches_under_Cat_s_Paw_Nebula_for_third_anniversary" >🔗</a> **[ESA]** Webb scratches under Cat’s Paw Nebula for third anniversary
+- <a href="https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-space-telescope-team-installs-observatorys-solar-panels/" >🔗</a> **[NASA]** NASA’s Roman Space Telescope Team Installs Observatory’s Solar Panels
+- <a href="https://science.nasa.gov/missions/webb/nasas-webb-scratches-beyond-surface-of-cats-paw-for-3rd-anniversary/" >🔗</a> **[NASA]** NASA’s Webb Scratches Beyond Surface of Cat’s Paw for 3rd Anniversary
 - <a href="https://europeanspaceflight.com/gomspace-refinances-e18m-european-investment-bank-loan/" >🔗</a> **[European Spaceflight]** GomSpace Refinances €18M European Investment Bank Loan
 - <a href="https://spaceflightnow.com/2025/07/10/transportation-secretary-sean-duffy-picked-as-interim-nasa-administrator/" >🔗</a> **[Spaceflight Now]** Transportation Secretary Sean Duffy picked as Interim NASA Administrator
 - <a href="https://spacepolicyonline.com/news/transportation-secretary-duffy-named-as-interim-nasa-administrator/" >🔗</a> **[SpacePolicyOnline.com]** Transportation Secretary Duffy Named as Interim NASA Administrator
@@ -99,9 +102,6 @@ Dror-1 is a geostationary communication satellite built and developed by Israel 
 - <a href="https://www.nasaspaceflight.com/2025/07/spacex-roundup-q22025/" >🔗</a> **[NASASpaceflight]** Halfway through 2025, SpaceX breaks Falcon records and struggles with Starship
 - <a href="https://www.nasa.gov/earth/nasa-aircraft-sensor-technology-aid-in-texas-flood-recovery-efforts/" >🔗</a> **[NASA]** NASA Aircraft, Sensor Technology, Aid in Texas Flood Recovery Efforts
 - <a href="https://science.nasa.gov/science-research/artificial-intelligence-metadata-tagging/" >🔗</a> **[NASA]** Smarter Searching: NASA AI Makes Science Data Easier to Find
-- <a href="https://www.nasa.gov/image-article/anatomy-of-a-space-shuttle/" >🔗</a> **[NASA]** Anatomy of a Space Shuttle
-- <a href="https://www.nasa.gov/history/hubble-at-35-years-symposium-explores-insights-from-hubbles-past/" >🔗</a> **[NASA]** “Hubble at 35 Years” Symposium Explores Insights from Hubble’s Past
-- <a href="https://www.nasa.gov/news-release/nasa-international-astronauts-answer-questions-from-florida-students/" >🔗</a> **[NASA]** NASA, International Astronauts Answer Questions from Florida Students
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ Dror-1 is a geostationary communication satellite built and developed by Israel 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250710T140128">2025-07-10 14:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250710T143711">2025-07-10 14:37:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
