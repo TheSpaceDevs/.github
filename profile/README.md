@@ -92,6 +92,7 @@ Dror-1 is a geostationary communication satellite built and developed by Israel 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/gomspace-refinances-e18m-european-investment-bank-loan/" >🔗</a> **[European Spaceflight]** GomSpace Refinances €18M European Investment Bank Loan
 - <a href="https://spaceflightnow.com/2025/07/10/transportation-secretary-sean-duffy-picked-as-interim-nasa-administrator/" >🔗</a> **[Spaceflight Now]** Transportation Secretary Sean Duffy picked as Interim NASA Administrator
 - <a href="https://spacepolicyonline.com/news/transportation-secretary-duffy-named-as-interim-nasa-administrator/" >🔗</a> **[SpacePolicyOnline.com]** Transportation Secretary Duffy Named as Interim NASA Administrator
 - <a href="https://arstechnica.com/space/2025/07/nasa-has-a-new-interim-administrator-the-secretary-of-transportation/" >🔗</a> **[Arstechnica]** NASA has a new interim administrator: the Secretary of Transportation
@@ -101,7 +102,6 @@ Dror-1 is a geostationary communication satellite built and developed by Israel 
 - <a href="https://www.nasa.gov/image-article/anatomy-of-a-space-shuttle/" >🔗</a> **[NASA]** Anatomy of a Space Shuttle
 - <a href="https://www.nasa.gov/history/hubble-at-35-years-symposium-explores-insights-from-hubbles-past/" >🔗</a> **[NASA]** “Hubble at 35 Years” Symposium Explores Insights from Hubble’s Past
 - <a href="https://www.nasa.gov/news-release/nasa-international-astronauts-answer-questions-from-florida-students/" >🔗</a> **[NASA]** NASA, International Astronauts Answer Questions from Florida Students
-- <a href="https://arstechnica.com/space/2025/07/northwood-space-successfully-tests-second-generation-phased-array-antenna/" >🔗</a> **[Arstechnica]** Northwood Space successfully tests second-generation phased array antenna
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ Dror-1 is a geostationary communication satellite built and developed by Israel 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250710T060143">2025-07-10 06:01:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250710T064120">2025-07-10 06:41:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
