@@ -92,6 +92,7 @@ Dror-1 is a geostationary communication satellite built and developed by Israel 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-inspects-cats-paw/" >🔗</a> **[NASA]** NASA’s James Webb Space Telescope Inspects Cat’s Paw
 - <a href="https://www.nasa.gov/news-release/nasa-to-brief-media-on-new-mission-to-study-earths-magnetic-shield/" >🔗</a> **[NASA]** NASA to Brief Media on New Mission to Study Earth’s Magnetic Shield
 - <a href="https://www.nasaspaceflight.com/2025/07/european-update-07082025/" >🔗</a> **[NASASpaceflight]** Europe’s launch contenders revealed as Themis rolls toward reusability tests
 - <a href="https://science.nasa.gov/science-research/heliophysics/nasas-parker-solar-probe-snaps-closest-ever-images-to-sun/" >🔗</a> **[NASA]** NASA’s Parker Solar Probe Snaps Closest-Ever Images to Sun
@@ -101,7 +102,6 @@ Dror-1 is a geostationary communication satellite built and developed by Israel 
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_scratches_under_Cat_s_Paw_Nebula_for_third_anniversary" >🔗</a> **[ESA]** Webb scratches under Cat’s Paw Nebula for third anniversary
 - <a href="https://science.nasa.gov/missions/webb/nasas-webb-scratches-beyond-surface-of-cats-paw-for-3rd-anniversary/" >🔗</a> **[NASA]** NASA’s Webb Scratches Beyond Surface of Cat’s Paw for 3rd Anniversary
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Europe_s_Spaceport/New_agreements_for_next_decade_of_launches_at_Europe_s_Spaceport_in_French_Guiana" >🔗</a> **[ESA]** New agreements for next decade of launches at Europe’s Spaceport in French Guiana
-- <a href="https://europeanspaceflight.com/gomspace-refinances-e18m-european-investment-bank-loan/" >🔗</a> **[European Spaceflight]** GomSpace Refinances €18M European Investment Bank Loan
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ Dror-1 is a geostationary communication satellite built and developed by Israel 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250710T200121">2025-07-10 20:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250710T203529">2025-07-10 20:35:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
