@@ -92,6 +92,7 @@ Dror-1 is a geostationary communication satellite built and developed by Israel 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/senate-appropriators-poised-to-reject-proposed-nasa-budget-cuts-but/" >🔗</a> **[SpacePolicyOnline.com]** Senate Appropriators Poised to Reject Proposed NASA Budget Cuts, But…
 - <a href="https://www.nasa.gov/news-release/nasa-selects-instruments-for-artemis-lunar-terrain-vehicle/" >🔗</a> **[NASA]** NASA Selects Instruments for Artemis Lunar Terrain Vehicle
 - <a href="https://www.nasaspaceflight.com/2025/07/president-trump-sean-duffy-administrator/" >🔗</a> **[NASASpaceflight]** President Trump Names Sean Duffy as Acting NASA Administrator
 - <a href="https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-inspects-cats-paw/" >🔗</a> **[NASA]** NASA’s James Webb Space Telescope Inspects Cat’s Paw
@@ -101,7 +102,6 @@ Dror-1 is a geostationary communication satellite built and developed by Israel 
 - <a href="https://www.nasa.gov/science-research/earth-science/meet-mineral-mappers-flying-nasa-tech-out-west/" >🔗</a> **[NASA]** Meet Mineral Mappers Flying NASA Tech Out West
 - <a href="https://arstechnica.com/space/2025/07/after-some-success-in-space-varda-raises-187-million-to-expand-ambitions/" >🔗</a> **[Arstechnica]** After some success in space, Varda raises $187 million to expand ambitions
 - <a href="https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-space-telescope-team-installs-observatorys-solar-panels/" >🔗</a> **[NASA]** NASA’s Roman Space Telescope Team Installs Observatory’s Solar Panels
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_scratches_under_Cat_s_Paw_Nebula_for_third_anniversary" >🔗</a> **[ESA]** Webb scratches under Cat’s Paw Nebula for third anniversary
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ Dror-1 is a geostationary communication satellite built and developed by Israel 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250710T230123">2025-07-10 23:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250710T233336">2025-07-10 23:33:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
