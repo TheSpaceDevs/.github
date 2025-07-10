@@ -92,6 +92,9 @@ Dror-1 is a geostationary communication satellite built and developed by Israel 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-to-brief-media-on-new-mission-to-study-earths-magnetic-shield/" >🔗</a> **[NASA]** NASA to Brief Media on New Mission to Study Earth’s Magnetic Shield
+- <a href="https://www.nasaspaceflight.com/2025/07/european-update-07082025/" >🔗</a> **[NASASpaceflight]** Europe’s launch contenders revealed as Themis rolls toward reusability tests
+- <a href="https://science.nasa.gov/science-research/heliophysics/nasas-parker-solar-probe-snaps-closest-ever-images-to-sun/" >🔗</a> **[NASA]** NASA’s Parker Solar Probe Snaps Closest-Ever Images to Sun
 - <a href="https://www.nasa.gov/science-research/earth-science/meet-mineral-mappers-flying-nasa-tech-out-west/" >🔗</a> **[NASA]** Meet Mineral Mappers Flying NASA Tech Out West
 - <a href="https://arstechnica.com/space/2025/07/after-some-success-in-space-varda-raises-187-million-to-expand-ambitions/" >🔗</a> **[Arstechnica]** After some success in space, Varda raises $187 million to expand ambitions
 - <a href="https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-space-telescope-team-installs-observatorys-solar-panels/" >🔗</a> **[NASA]** NASA’s Roman Space Telescope Team Installs Observatory’s Solar Panels
@@ -99,9 +102,6 @@ Dror-1 is a geostationary communication satellite built and developed by Israel 
 - <a href="https://science.nasa.gov/missions/webb/nasas-webb-scratches-beyond-surface-of-cats-paw-for-3rd-anniversary/" >🔗</a> **[NASA]** NASA’s Webb Scratches Beyond Surface of Cat’s Paw for 3rd Anniversary
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Europe_s_Spaceport/New_agreements_for_next_decade_of_launches_at_Europe_s_Spaceport_in_French_Guiana" >🔗</a> **[ESA]** New agreements for next decade of launches at Europe’s Spaceport in French Guiana
 - <a href="https://europeanspaceflight.com/gomspace-refinances-e18m-european-investment-bank-loan/" >🔗</a> **[European Spaceflight]** GomSpace Refinances €18M European Investment Bank Loan
-- <a href="https://spaceflightnow.com/2025/07/10/transportation-secretary-sean-duffy-picked-as-interim-nasa-administrator/" >🔗</a> **[Spaceflight Now]** Transportation Secretary Sean Duffy picked as Interim NASA Administrator
-- <a href="https://spacepolicyonline.com/news/transportation-secretary-duffy-named-as-interim-nasa-administrator/" >🔗</a> **[SpacePolicyOnline.com]** Transportation Secretary Duffy Named as Interim NASA Administrator
-- <a href="https://arstechnica.com/space/2025/07/nasa-has-a-new-interim-administrator-the-secretary-of-transportation/" >🔗</a> **[Arstechnica]** NASA has a new interim administrator: the Secretary of Transportation
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ Dror-1 is a geostationary communication satellite built and developed by Israel 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250710T190121">2025-07-10 19:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250710T193138">2025-07-10 19:31:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
