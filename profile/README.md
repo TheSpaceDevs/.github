@@ -92,6 +92,7 @@ Dror-1 is a geostationary communication satellite built and developed by Israel 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/07/nasa-has-a-new-interim-administrator-the-secretary-of-transportation/" >🔗</a> **[Arstechnica]** NASA has a new interim administrator: the Secretary of Transportation
 - <a href="https://www.nasaspaceflight.com/2025/07/spacex-roundup-q22025/" >🔗</a> **[NASASpaceflight]** Halfway through 2025, SpaceX breaks Falcon records and struggles with Starship
 - <a href="https://www.nasa.gov/earth/nasa-aircraft-sensor-technology-aid-in-texas-flood-recovery-efforts/" >🔗</a> **[NASA]** NASA Aircraft, Sensor Technology, Aid in Texas Flood Recovery Efforts
 - <a href="https://science.nasa.gov/science-research/artificial-intelligence-metadata-tagging/" >🔗</a> **[NASA]** Smarter Searching: NASA AI Makes Science Data Easier to Find
@@ -101,7 +102,6 @@ Dror-1 is a geostationary communication satellite built and developed by Israel 
 - <a href="https://arstechnica.com/space/2025/07/northwood-space-successfully-tests-second-generation-phased-array-antenna/" >🔗</a> **[Arstechnica]** Northwood Space successfully tests second-generation phased array antenna
 - <a href="https://www.nasa.gov/centers-and-facilities/kennedy/i-am-artemis-joe-pavicic/" >🔗</a> **[NASA]** I Am Artemis: Joe Pavicic
 - <a href="https://science.nasa.gov/get-involved/citizen-science/polar-tourists-give-positive-reviews-to-nasa-citizen-science-in-antarctica/" >🔗</a> **[NASA]** Polar Tourists Give Positive Reviews to NASA Citizen Science in Antarctica
-- <a href="https://europeanspaceflight.com/esa-validates-space-rider-landing-accuracy-with-drop-test-campaign/" >🔗</a> **[European Spaceflight]** ESA Validates Space Rider Landing Accuracy with Drop Test Campaign
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ Dror-1 is a geostationary communication satellite built and developed by Israel 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250710T012923">2025-07-10 01:29:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250710T021815">2025-07-10 02:18:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
