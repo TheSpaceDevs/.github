@@ -90,6 +90,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/putting-the-x-59-to-the-test/" >🔗</a> **[NASA]** Putting the X-59 to the Test
 - <a href="https://www.nasa.gov/news-release/nasa-to-provide-coverage-of-axiom-mission-4-departure-from-station/" >🔗</a> **[NASA]** NASA to Provide Coverage of Axiom Mission 4 Departure from Station
 - <a href="https://www.nasa.gov/aeronautics/x-59-model-tested-in-japanese-supersonic-wind-tunnel/" >🔗</a> **[NASA]** X-59 Model Tested in Japanese Supersonic Wind Tunnel
 - <a href="https://www.nasa.gov/humans-in-space/nasas-spacex-crew-11-to-support-health-studies-for-deep-space-travel/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-11 to Support Health Studies for Deep Space Travel
@@ -99,7 +100,6 @@ into *a Suborbital
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/07/Earth_from_Space_Lake_District_UK" >🔗</a> **[ESA]** Earth from Space: Lake District, UK
 - <a href="https://www.esa.int/About_Us/Corporate_news/ESA_Council_receives_Anniversary_Statement" >🔗</a> **[ESA]** ESA Council receives Anniversary Statement
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ignis/Watch_live_Slawosz_Uznanski-Wisniewski_returns_to_Earth" >🔗</a> **[ESA]** Watch live: Sławosz Uznański-Wiśniewski returns to Earth
-- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4593-4594-three-layers-and-a-lot-of-structure-at-volcan-pena-blanca/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4593-4594: Three Layers and a Lot of Structure at Volcán Peña Blanca
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250711T180137">2025-07-11 18:01:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250711T184005">2025-07-11 18:40:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
