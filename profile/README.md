@@ -90,6 +90,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/07/Earth_from_Space_Lake_District_UK" >🔗</a> **[ESA]** Earth from Space: Lake District, UK
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4593-4594-three-layers-and-a-lot-of-structure-at-volcan-pena-blanca/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4593-4594: Three Layers and a Lot of Structure at Volcán Peña Blanca
 - <a href="https://spacepolicyonline.com/news/senate-appropriators-poised-to-reject-proposed-nasa-budget-cuts-but/" >🔗</a> **[SpacePolicyOnline.com]** Senate Appropriators Poised to Reject Proposed NASA Budget Cuts, But…
 - <a href="https://www.nasa.gov/news-release/nasa-selects-instruments-for-artemis-lunar-terrain-vehicle/" >🔗</a> **[NASA]** NASA Selects Instruments for Artemis Lunar Terrain Vehicle
@@ -99,7 +100,6 @@ into *a Suborbital
 - <a href="https://www.nasaspaceflight.com/2025/07/european-update-07082025/" >🔗</a> **[NASASpaceflight]** Europe’s launch contenders revealed as Themis rolls toward reusability tests
 - <a href="https://science.nasa.gov/science-research/heliophysics/nasas-parker-solar-probe-snaps-closest-ever-images-to-sun/" >🔗</a> **[NASA]** NASA’s Parker Solar Probe Snaps Closest-Ever Images to Sun
 - <a href="https://www.nasa.gov/science-research/earth-science/meet-mineral-mappers-flying-nasa-tech-out-west/" >🔗</a> **[NASA]** Meet Mineral Mappers Flying NASA Tech Out West
-- <a href="https://arstechnica.com/space/2025/07/after-some-success-in-space-varda-raises-187-million-to-expand-ambitions/" >🔗</a> **[Arstechnica]** After some success in space, Varda raises $187 million to expand ambitions
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250711T080135">2025-07-11 08:01:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250711T083848">2025-07-11 08:38:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
