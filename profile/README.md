@@ -90,6 +90,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_07-11_July_2025" >🔗</a> **[ESA]** Week in images: 07-11 July 2025
 - <a href="https://europeanspaceflight.com/uk-government-commits-75-6m-to-space-debris-removal-mission/" >🔗</a> **[European Spaceflight]** UK Government Commits £75.6M to Space Debris Removal Mission
 - <a href="https://science.nasa.gov/missions/hubble/hubble-snaps-galaxy-clusters-portrait/" >🔗</a> **[NASA]** Hubble Snaps Galaxy Cluster’s Portrait
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/07/Earth_from_Space_Lake_District_UK" >🔗</a> **[ESA]** Earth from Space: Lake District, UK
@@ -99,7 +100,6 @@ into *a Suborbital
 - <a href="https://www.nasa.gov/news-release/nasa-selects-instruments-for-artemis-lunar-terrain-vehicle/" >🔗</a> **[NASA]** NASA Selects Instruments for Artemis Lunar Terrain Vehicle
 - <a href="https://www.nasaspaceflight.com/2025/07/president-trump-sean-duffy-administrator/" >🔗</a> **[NASASpaceflight]** President Trump Names Sean Duffy as Acting NASA Administrator
 - <a href="https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-inspects-cats-paw/" >🔗</a> **[NASA]** NASA’s James Webb Space Telescope Inspects Cat’s Paw
-- <a href="https://www.nasa.gov/news-release/nasa-to-brief-media-on-new-mission-to-study-earths-magnetic-shield/" >🔗</a> **[NASA]** NASA to Brief Media on New Mission to Study Earth’s Magnetic Shield
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250711T131105">2025-07-11 13:11:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250711T133954">2025-07-11 13:39:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
