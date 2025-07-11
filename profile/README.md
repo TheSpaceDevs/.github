@@ -90,6 +90,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-to-provide-coverage-of-axiom-mission-4-departure-from-station/" >🔗</a> **[NASA]** NASA to Provide Coverage of Axiom Mission 4 Departure from Station
 - <a href="https://www.nasa.gov/aeronautics/x-59-model-tested-in-japanese-supersonic-wind-tunnel/" >🔗</a> **[NASA]** X-59 Model Tested in Japanese Supersonic Wind Tunnel
 - <a href="https://www.nasa.gov/humans-in-space/nasas-spacex-crew-11-to-support-health-studies-for-deep-space-travel/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-11 to Support Health Studies for Deep Space Travel
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_07-11_July_2025" >🔗</a> **[ESA]** Week in images: 07-11 July 2025
@@ -99,7 +100,6 @@ into *a Suborbital
 - <a href="https://www.esa.int/About_Us/Corporate_news/ESA_Council_receives_Anniversary_Statement" >🔗</a> **[ESA]** ESA Council receives Anniversary Statement
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4593-4594-three-layers-and-a-lot-of-structure-at-volcan-pena-blanca/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4593-4594: Three Layers and a Lot of Structure at Volcán Peña Blanca
 - <a href="https://spacepolicyonline.com/news/senate-appropriators-poised-to-reject-proposed-nasa-budget-cuts-but/" >🔗</a> **[SpacePolicyOnline.com]** Senate Appropriators Poised to Reject Proposed NASA Budget Cuts, But…
-- <a href="https://www.nasa.gov/news-release/nasa-selects-instruments-for-artemis-lunar-terrain-vehicle/" >🔗</a> **[NASA]** NASA Selects Instruments for Artemis Lunar Terrain Vehicle
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250711T160130">2025-07-11 16:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250711T163823">2025-07-11 16:38:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
