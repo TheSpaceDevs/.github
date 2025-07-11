@@ -98,8 +98,8 @@ into *a Suborbital
 - <a href="https://science.nasa.gov/missions/hubble/hubble-snaps-galaxy-clusters-portrait/" >🔗</a> **[NASA]** Hubble Snaps Galaxy Cluster’s Portrait
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/07/Earth_from_Space_Lake_District_UK" >🔗</a> **[ESA]** Earth from Space: Lake District, UK
 - <a href="https://www.esa.int/About_Us/Corporate_news/ESA_Council_receives_Anniversary_Statement" >🔗</a> **[ESA]** ESA Council receives Anniversary Statement
+- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ignis/Watch_live_Slawosz_Uznanski-Wisniewski_returns_to_Earth" >🔗</a> **[ESA]** Watch live: Sławosz Uznański-Wiśniewski returns to Earth
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4593-4594-three-layers-and-a-lot-of-structure-at-volcan-pena-blanca/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4593-4594: Three Layers and a Lot of Structure at Volcán Peña Blanca
-- <a href="https://spacepolicyonline.com/news/senate-appropriators-poised-to-reject-proposed-nasa-budget-cuts-but/" >🔗</a> **[SpacePolicyOnline.com]** Senate Appropriators Poised to Reject Proposed NASA Budget Cuts, But…
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250711T170221">2025-07-11 17:02:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250711T173514">2025-07-11 17:35:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
