@@ -92,6 +92,7 @@ Dror-1 is a geostationary communication satellite built and developed by Israel 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/nasa-says-iss-air-leaks-have-stabilized-as-crew-11-prepares-for-launch/" >🔗</a> **[SpacePolicyOnline.com]** NASA Says ISS Air Leaks Have Stabilized as Crew-11 Prepares for Launch
 - <a href="https://www.nasaspaceflight.com/2025/07/crew-11-interviews/" >🔗</a> **[NASASpaceflight]** NASA, JAXA astronauts discuss upcoming Crew-11 launch to ISS
 - <a href="https://spaceflightnow.com/2025/07/12/axiom-space-oakley-partner-on-spacesuit-visor-for-artemis-missions/" >🔗</a> **[Spaceflight Now]** Axiom Space, Oakley partner on spacesuit visor for Artemis missions
 - <a href="https://www.nasaspaceflight.com/2025/07/tstr-071125/" >🔗</a> **[NASASpaceflight]** The Space Traffic Report: Starlink, ISS docking, and upcoming Falcon 9 & Kuiper launches
@@ -101,7 +102,6 @@ Dror-1 is a geostationary communication satellite built and developed by Israel 
 - <a href="https://www.nasa.gov/news-release/nasa-to-provide-coverage-of-axiom-mission-4-departure-from-station/" >🔗</a> **[NASA]** NASA to Provide Coverage of Axiom Mission 4 Departure from Station
 - <a href="https://www.nasa.gov/aeronautics/x-59-model-tested-in-japanese-supersonic-wind-tunnel/" >🔗</a> **[NASA]** X-59 Model Tested in Japanese Supersonic Wind Tunnel
 - <a href="https://www.nasa.gov/humans-in-space/nasas-spacex-crew-11-to-support-health-studies-for-deep-space-travel/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-11 to Support Health Studies for Deep Space Travel
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_07-11_July_2025" >🔗</a> **[ESA]** Week in images: 07-11 July 2025
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ Dror-1 is a geostationary communication satellite built and developed by Israel 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250712T220123">2025-07-12 22:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250712T223517">2025-07-12 22:35:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
