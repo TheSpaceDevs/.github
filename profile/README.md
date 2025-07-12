@@ -90,6 +90,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/07/12/axiom-space-oakley-partner-on-spacesuit-visor-for-artemis-missions/" >🔗</a> **[Spaceflight Now]** Axiom Space, Oakley partner on spacesuit visor for Artemis missions
 - <a href="https://www.nasaspaceflight.com/2025/07/tstr-071125/" >🔗</a> **[NASASpaceflight]** The Space Traffic Report: Starlink, ISS docking, and upcoming Falcon 9 & Kuiper launches
 - <a href="https://www.nasa.gov/solar-system/planets/mars/advances-in-nasa-imaging-changed-how-world-sees-mars/" >🔗</a> **[NASA]** Advances in NASA Imaging Changed How World Sees Mars
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-shannon-walker-retires/" >🔗</a> **[NASA]** NASA Astronaut Shannon Walker Retires
@@ -99,7 +100,6 @@ into *a Suborbital
 - <a href="https://www.nasa.gov/humans-in-space/nasas-spacex-crew-11-to-support-health-studies-for-deep-space-travel/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-11 to Support Health Studies for Deep Space Travel
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_07-11_July_2025" >🔗</a> **[ESA]** Week in images: 07-11 July 2025
 - <a href="https://europeanspaceflight.com/uk-government-commits-75-6m-to-space-debris-removal-mission/" >🔗</a> **[European Spaceflight]** UK Government Commits £75.6M to Space Debris Removal Mission
-- <a href="https://science.nasa.gov/missions/hubble/hubble-snaps-galaxy-clusters-portrait/" >🔗</a> **[NASA]** Hubble Snaps Galaxy Cluster’s Portrait
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250712T004602">2025-07-12 00:46:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250712T012936">2025-07-12 01:29:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
