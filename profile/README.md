@@ -26,7 +26,7 @@ from *<a href="None">Rocket Lab Launch Complex 2 (Launch Area 0 C)</a>, Wallops 
 at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250713T234500">2025-07-13 23:45:00 UTC</a>.  Until
 then, this pad will have been used for 6
 out of 80 launches from this location. The launch status is currently
-*Go* 🟩 . The mission type is
+*Hold* 🟪 . The mission type is
 *Government/Top Secret* and the payload will be injected
 into *a Suborbital
 (Sub)*.
@@ -45,7 +45,7 @@ into *a Suborbital
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250713T234500">2025-07-13 23:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=HASTE | JAKE 4&location=Wallops Flight Facility, Virginia, USA&dates=20250713T234500Z%2F20250714T050000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **HASTE | JAKE 4** from Wallops Flight Facility, Virginia, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250713T234500">2025-07-13 23:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟪  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=HASTE | JAKE 4&location=Wallops Flight Facility, Virginia, USA&dates=20250713T234500Z%2F20250714T050000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **HASTE | JAKE 4** from Wallops Flight Facility, Virginia, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250714T213000">2025-07-14 21:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 7 | Tianzhou-9&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20250714T213000Z%2F20250714T214700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 7 | Tianzhou-9** from Wenchang Space Launch Site, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250715T021300">2025-07-15 02:13:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 15-2&location=Vandenberg SFB, CA, USA&dates=20250715T021300Z%2F20250715T054200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 15-2** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250715T213000">2025-07-15 21:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/au.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Eris-1 | Maiden Flight&location=Bowen Orbital Spaceport&dates=20250715T213000Z%2F20250716T073000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Eris-1 | Maiden Flight** from Bowen Orbital Spaceport.
@@ -90,6 +90,8 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/america/next-boeing-starliner-to-fly-without-crew-as-nasa-looks-to-extend-spacex-missions-to-8-month-rotation" >🔗</a> **[The Launch Pad]** Next Boeing Starliner To Fly Without Crew as NASA Looks to Extend SpaceX Missions To 8 Month Rotation
+- <a href="https://tlpnetwork.com/news/technology/nasa-and-darpa-kill-draco-nuclear-rocket-shift-focus-to-electric-propulsion-future" >🔗</a> **[The Launch Pad]** NASA and DARPA Kill DRACO Nuclear Rocket, Shift Focus to Electric Propulsion Future
 - <a href="https://www.nasaspaceflight.com/2025/07/psp-close-approach-images/" >🔗</a> **[NASASpaceflight]** Parker Solar Probe takes images close to the Sun as primary mission winds down
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-13-19-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy July 13-19, 2025
 - <a href="https://spaceflightnow.com/2025/07/12/live-coverage-spacex-to-launch-unspecified-satellite-on-a-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch unspecified satellite on a Falcon 9 rocket from Cape Canaveral
@@ -98,8 +100,6 @@ into *a Suborbital
 - <a href="https://spaceflightnow.com/2025/07/12/axiom-space-oakley-partner-on-spacesuit-visor-for-artemis-missions/" >🔗</a> **[Spaceflight Now]** Axiom Space, Oakley partner on spacesuit visor for Artemis missions
 - <a href="https://www.nasaspaceflight.com/2025/07/tstr-071125/" >🔗</a> **[NASASpaceflight]** The Space Traffic Report: Starlink, ISS docking, and upcoming Falcon 9 & Kuiper launches
 - <a href="https://www.nasa.gov/solar-system/planets/mars/advances-in-nasa-imaging-changed-how-world-sees-mars/" >🔗</a> **[NASA]** Advances in NASA Imaging Changed How World Sees Mars
-- <a href="https://www.nasa.gov/news-release/nasa-astronaut-shannon-walker-retires/" >🔗</a> **[NASA]** NASA Astronaut Shannon Walker Retires
-- <a href="https://www.nasa.gov/image-article/putting-the-x-59-to-the-test/" >🔗</a> **[NASA]** Putting the X-59 to the Test
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250713T230116">2025-07-13 23:01:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250713T233349">2025-07-13 23:33:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
