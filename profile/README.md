@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/science-research/planetary-science/astrobiology/path-toward-protocells-on-titan/" >🔗</a> **[NASA]** NASA Research Shows Path Toward Protocells on Titan
 - <a href="https://spaceflightnow.com/2025/07/14/nasa-spacex-target-july-31-for-crew-11-launch-to-the-iss/" >🔗</a> **[Spaceflight Now]** NASA, SpaceX target July 31 for Crew-11 launch to the ISS
 - <a href="https://www.nasaspaceflight.com/2025/07/launch-roundup-071425/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Chinese cargo resupply mission, Eris, and Falcon 9 to launch
 - <a href="https://www.nasa.gov/general/glenn-extreme-environments-rig-geer/" >🔗</a> **[NASA]** Protected: Glenn Extreme Environments Rig (GEER)
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/chief-training-officer-teresa-sindelar-touches-the-future-of-human-spaceflight/" >🔗</a> **[NASA]** Chief Training Officer Teresa Sindelar Touches the Future of Human Spaceflight
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/05/You_can_t_judge_a_star_by_its_protoplanetary_disc" >🔗</a> **[ESA]** You can’t judge a star by its protoplanetary disc
 - <a href="https://tlpnetwork.com/news/military/senate-armed-services-orders-study-on-super-heavy-rockets-methane-blast-risks-and-golden-dome-in-new-defense-bill" >🔗</a> **[The Launch Pad]** Senate Armed Services Orders Study on Super Heavy Rockets, Methane Blast Risks & Golden Dome in New Defense Bill
-- <a href="https://tlpnetwork.com/news/america/next-boeing-starliner-to-fly-without-crew-as-nasa-looks-to-extend-spacex-missions-to-8-month-rotation" >🔗</a> **[The Launch Pad]** Next Boeing Starliner To Fly Without Crew as NASA Looks to Extend SpaceX Missions To 8 Month Rotation
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250714T200124">2025-07-14 20:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250714T203545">2025-07-14 20:35:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
