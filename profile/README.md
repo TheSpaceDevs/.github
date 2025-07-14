@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/07/14/nasa-spacex-target-july-31-for-crew-11-launch-to-the-iss/" >🔗</a> **[Spaceflight Now]** NASA, SpaceX target July 31 for Crew-11 launch to the ISS
+- <a href="https://www.nasaspaceflight.com/2025/07/launch-roundup-071425/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Chinese cargo resupply mission, Eris, and Falcon 9 to launch
+- <a href="https://www.nasa.gov/general/glenn-extreme-environments-rig-geer/" >🔗</a> **[NASA]** Protected: Glenn Extreme Environments Rig (GEER)
 - <a href="https://science.nasa.gov/centers-and-facilities/goddard/linking-satellite-data-and-community-knowledge-to-advance-alaskan-snow-science/" >🔗</a> **[NASA]** Linking Satellite Data and Community Knowledge to Advance Alaskan Snow Science
 - <a href="https://www.nasa.gov/image-article/10-years-ago-nasas-new-horizons-captures-plutos-heart/" >🔗</a> **[NASA]** 10 Years Ago: NASA’s New Horizons Captures Pluto’s Heart
 - <a href="https://europeanspaceflight.com/space-rider-nose-cone-passes-key-milestone/" >🔗</a> **[European Spaceflight]** Space Rider Nose Cone Passes Key Milestone
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/05/You_can_t_judge_a_star_by_its_protoplanetary_disc" >🔗</a> **[ESA]** You can’t judge a star by its protoplanetary disc
 - <a href="https://tlpnetwork.com/news/military/senate-armed-services-orders-study-on-super-heavy-rockets-methane-blast-risks-and-golden-dome-in-new-defense-bill" >🔗</a> **[The Launch Pad]** Senate Armed Services Orders Study on Super Heavy Rockets, Methane Blast Risks & Golden Dome in New Defense Bill
 - <a href="https://tlpnetwork.com/news/america/next-boeing-starliner-to-fly-without-crew-as-nasa-looks-to-extend-spacex-missions-to-8-month-rotation" >🔗</a> **[The Launch Pad]** Next Boeing Starliner To Fly Without Crew as NASA Looks to Extend SpaceX Missions To 8 Month Rotation
-- <a href="https://tlpnetwork.com/news/technology/nasa-and-darpa-kill-draco-nuclear-rocket-shift-focus-to-electric-propulsion-future" >🔗</a> **[The Launch Pad]** NASA and DARPA Kill DRACO Nuclear Rocket, Shift Focus to Electric Propulsion Future
-- <a href="https://www.nasaspaceflight.com/2025/07/psp-close-approach-images/" >🔗</a> **[NASASpaceflight]** Parker Solar Probe takes images close to the Sun as primary mission winds down
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-13-19-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy July 13-19, 2025
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250714T190256">2025-07-14 19:02:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250714T193232">2025-07-14 19:32:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
