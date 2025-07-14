@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/chief-training-officer-teresa-sindelar-touches-the-future-of-human-spaceflight/" >🔗</a> **[NASA]** Chief Training Officer Teresa Sindelar Touches the Future of Human Spaceflight
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/05/You_can_t_judge_a_star_by_its_protoplanetary_disc" >🔗</a> **[ESA]** You can’t judge a star by its protoplanetary disc
 - <a href="https://tlpnetwork.com/news/military/senate-armed-services-orders-study-on-super-heavy-rockets-methane-blast-risks-and-golden-dome-in-new-defense-bill" >🔗</a> **[The Launch Pad]** Senate Armed Services Orders Study on Super Heavy Rockets, Methane Blast Risks & Golden Dome in New Defense Bill
 - <a href="https://tlpnetwork.com/news/america/next-boeing-starliner-to-fly-without-crew-as-nasa-looks-to-extend-spacex-missions-to-8-month-rotation" >🔗</a> **[The Launch Pad]** Next Boeing Starliner To Fly Without Crew as NASA Looks to Extend SpaceX Missions To 8 Month Rotation
 - <a href="https://tlpnetwork.com/news/technology/nasa-and-darpa-kill-draco-nuclear-rocket-shift-focus-to-electric-propulsion-future" >🔗</a> **[The Launch Pad]** NASA and DARPA Kill DRACO Nuclear Rocket, Shift Focus to Electric Propulsion Future
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/07/12/live-coverage-spacex-to-launch-unspecified-satellite-on-a-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch unspecified satellite on a Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacepolicyonline.com/news/nasa-says-iss-air-leaks-have-stabilized-as-crew-11-prepares-for-launch/" >🔗</a> **[SpacePolicyOnline.com]** NASA Says ISS Air Leaks Have Stabilized as Crew-11 Prepares for Launch
 - <a href="https://www.nasaspaceflight.com/2025/07/crew-11-interviews/" >🔗</a> **[NASASpaceflight]** NASA, JAXA astronauts discuss upcoming Crew-11 launch to ISS
-- <a href="https://spaceflightnow.com/2025/07/12/axiom-space-oakley-partner-on-spacesuit-visor-for-artemis-missions/" >🔗</a> **[Spaceflight Now]** Axiom Space, Oakley partner on spacesuit visor for Artemis missions
-- <a href="https://www.nasaspaceflight.com/2025/07/tstr-071125/" >🔗</a> **[NASASpaceflight]** The Space Traffic Report: Starlink, ISS docking, and upcoming Falcon 9 & Kuiper launches
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250714T090430">2025-07-14 09:04:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250714T093934">2025-07-14 09:39:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
