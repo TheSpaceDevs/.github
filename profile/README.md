@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/10-years-ago-nasas-new-horizons-captures-plutos-heart/" >🔗</a> **[NASA]** 10 Years Ago: NASA’s New Horizons Captures Pluto’s Heart
 - <a href="https://europeanspaceflight.com/space-rider-nose-cone-passes-key-milestone/" >🔗</a> **[European Spaceflight]** Space Rider Nose Cone Passes Key Milestone
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/chief-training-officer-teresa-sindelar-touches-the-future-of-human-spaceflight/" >🔗</a> **[NASA]** Chief Training Officer Teresa Sindelar Touches the Future of Human Spaceflight
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/05/You_can_t_judge_a_star_by_its_protoplanetary_disc" >🔗</a> **[ESA]** You can’t judge a star by its protoplanetary disc
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2025/07/psp-close-approach-images/" >🔗</a> **[NASASpaceflight]** Parker Solar Probe takes images close to the Sun as primary mission winds down
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-13-19-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy July 13-19, 2025
 - <a href="https://spaceflightnow.com/2025/07/12/live-coverage-spacex-to-launch-unspecified-satellite-on-a-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch unspecified satellite on a Falcon 9 rocket from Cape Canaveral
-- <a href="https://spacepolicyonline.com/news/nasa-says-iss-air-leaks-have-stabilized-as-crew-11-prepares-for-launch/" >🔗</a> **[SpacePolicyOnline.com]** NASA Says ISS Air Leaks Have Stabilized as Crew-11 Prepares for Launch
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250714T160145">2025-07-14 16:01:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250714T163907">2025-07-14 16:39:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
