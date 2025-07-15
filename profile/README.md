@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/humans-in-space/fourth-nasa-enabled-private-flight-to-space-station-completes-safely/" >🔗</a> **[NASA]** Fourth NASA-Enabled Private Flight to Space Station Completes Safely
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/melissa-harris-shaping-nasas-vision-for-a-future-in-low-earth-orbit/" >🔗</a> **[NASA]** Melissa Harris: Shaping NASA’s Vision for a Future in Low Earth Orbit
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4595-4596-just-another-beautiful-day-on-mars/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4595-4596: Just Another Beautiful Day on Mars
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ignis/Ignis_mission_highlights" >🔗</a> **[ESA]** Ignis mission highlights
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2025/07/launch-roundup-071425/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Chinese cargo resupply mission, Eris, and Falcon 9 to launch
 - <a href="https://www.nasa.gov/general/glenn-extreme-environments-rig-geer/" >🔗</a> **[NASA]** Protected: Glenn Extreme Environments Rig (GEER)
 - <a href="https://science.nasa.gov/centers-and-facilities/goddard/linking-satellite-data-and-community-knowledge-to-advance-alaskan-snow-science/" >🔗</a> **[NASA]** Linking Satellite Data and Community Knowledge to Advance Alaskan Snow Science
-- <a href="https://www.nasa.gov/image-article/10-years-ago-nasas-new-horizons-captures-plutos-heart/" >🔗</a> **[NASA]** 10 Years Ago: NASA’s New Horizons Captures Pluto’s Heart
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250715T131242">2025-07-15 13:12:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250715T134147">2025-07-15 13:41:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
