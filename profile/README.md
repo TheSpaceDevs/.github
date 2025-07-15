@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/technology/starlink-cleared-to-operate-in-india" >🔗</a> **[The Launch Pad]** Starlink Cleared to Operate in India
+- <a href="https://spaceflightnow.com/2025/07/15/live-coverage-spacex-to-launch-24-amazon-project-kuiper-satellites-on-a-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Amazon Project Kuiper satellites on a Falcon 9 rocket from Cape Canaveral
 - <a href="https://spaceflightnow.com/2025/07/15/live-coverage-spacex-to-launch-26-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 26 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://www.nasa.gov/news-release/nasa-selects-companies-for-architect-engineer-services-contract/" >🔗</a> **[NASA]** NASA Selects Companies for Architect-Engineer Services Contract
 - <a href="https://science.nasa.gov/directorates/smd/nasa-scope-summer-symposium-celebrates-early-career-scientists-and-cross-team-collaboration/" >🔗</a> **[NASA]** NASA SCoPE Summer Symposium Celebrates Early Career Scientists and Cross-Team Collaboration
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/missions/station/iss-research/nasas-spacex-crew-11-mission-gears-up-for-space-station-research/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-11 Mission Gears Up for Space Station Research
 - <a href="https://spacepolicyonline.com/news/axiom-4-back-on-earth-after-20-days-in-space/" >🔗</a> **[SpacePolicyOnline.com]** Axiom-4 Back on Earth After 20 Days in Space
 - <a href="https://www.nasa.gov/missions/ixpe/nasas-ixpe-imager-reveals-mysteries-of-rare-pulsar/" >🔗</a> **[NASA]** NASA’s IXPE Imager Reveals Mysteries of Rare Pulsar
-- <a href="https://science.nasa.gov/uncategorized/helio-highlights-june-2025/" >🔗</a> **[NASA]** Helio Highlights: June 2025
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_passes_gruelling_set_of_tests" >🔗</a> **[ESA]** Smile passes gruelling set of tests
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250715T220128">2025-07-15 22:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250715T223631">2025-07-15 22:36:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
