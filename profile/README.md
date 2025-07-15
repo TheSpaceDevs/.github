@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/07/15/live-coverage-spacex-to-launch-26-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 26 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
+- <a href="https://www.nasa.gov/news-release/nasa-selects-companies-for-architect-engineer-services-contract/" >🔗</a> **[NASA]** NASA Selects Companies for Architect-Engineer Services Contract
+- <a href="https://science.nasa.gov/directorates/smd/nasa-scope-summer-symposium-celebrates-early-career-scientists-and-cross-team-collaboration/" >🔗</a> **[NASA]** NASA SCoPE Summer Symposium Celebrates Early Career Scientists and Cross-Team Collaboration
 - <a href="https://www.nasa.gov/image-article/hubble-observations-give-missing-globular-cluster-time-to-shine/" >🔗</a> **[NASA]** Hubble Observations Give “Missing” Globular Cluster Time to Shine
+- <a href="https://www.nasaspaceflight.com/2025/07/eris-testflight1/" >🔗</a> **[NASASpaceflight]** Gilmour Space prepares again to launch Australia’s first homegrown orbital launch with Eris rocket
 - <a href="https://www.nasa.gov/missions/station/iss-research/nasas-spacex-crew-11-mission-gears-up-for-space-station-research/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-11 Mission Gears Up for Space Station Research
 - <a href="https://spacepolicyonline.com/news/axiom-4-back-on-earth-after-20-days-in-space/" >🔗</a> **[SpacePolicyOnline.com]** Axiom-4 Back on Earth After 20 Days in Space
 - <a href="https://www.nasa.gov/missions/ixpe/nasas-ixpe-imager-reveals-mysteries-of-rare-pulsar/" >🔗</a> **[NASA]** NASA’s IXPE Imager Reveals Mysteries of Rare Pulsar
 - <a href="https://science.nasa.gov/uncategorized/helio-highlights-june-2025/" >🔗</a> **[NASA]** Helio Highlights: June 2025
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_passes_gruelling_set_of_tests" >🔗</a> **[ESA]** Smile passes gruelling set of tests
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/07/Testing_testing_testing_Let_s_Smile_episode_3" >🔗</a> **[ESA]** Testing, testing, testing – Let’s Smile (episode 3)
-- <a href="https://www.nasa.gov/missions/roman-space-telescope/one-survey-by-nasas-roman-could-unveil-100000-cosmic-explosions/" >🔗</a> **[NASA]** One Survey by NASA’s Roman Could Unveil 100,000 Cosmic Explosions
-- <a href="https://www.nasa.gov/humans-in-space/fourth-nasa-enabled-private-flight-to-space-station-completes-safely/" >🔗</a> **[NASA]** Fourth NASA-Enabled Private Flight to Space Station Completes Safely
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/melissa-harris-shaping-nasas-vision-for-a-future-in-low-earth-orbit/" >🔗</a> **[NASA]** Melissa Harris: Shaping NASA’s Vision for a Future in Low Earth Orbit
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250715T210113">2025-07-15 21:01:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250715T213407">2025-07-15 21:34:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
