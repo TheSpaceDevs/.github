@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/station/iss-research/nasas-spacex-crew-11-mission-gears-up-for-space-station-research/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-11 Mission Gears Up for Space Station Research
 - <a href="https://spacepolicyonline.com/news/axiom-4-back-on-earth-after-20-days-in-space/" >🔗</a> **[SpacePolicyOnline.com]** Axiom-4 Back on Earth After 20 Days in Space
 - <a href="https://www.nasa.gov/missions/ixpe/nasas-ixpe-imager-reveals-mysteries-of-rare-pulsar/" >🔗</a> **[NASA]** NASA’s IXPE Imager Reveals Mysteries of Rare Pulsar
 - <a href="https://science.nasa.gov/uncategorized/helio-highlights-june-2025/" >🔗</a> **[NASA]** Helio Highlights: June 2025
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/humans-in-space/fourth-nasa-enabled-private-flight-to-space-station-completes-safely/" >🔗</a> **[NASA]** Fourth NASA-Enabled Private Flight to Space Station Completes Safely
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/melissa-harris-shaping-nasas-vision-for-a-future-in-low-earth-orbit/" >🔗</a> **[NASA]** Melissa Harris: Shaping NASA’s Vision for a Future in Low Earth Orbit
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4595-4596-just-another-beautiful-day-on-mars/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4595-4596: Just Another Beautiful Day on Mars
-- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ignis/Ignis_mission_highlights" >🔗</a> **[ESA]** Ignis mission highlights
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250715T190232">2025-07-15 19:02:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250715T193305">2025-07-15 19:33:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
