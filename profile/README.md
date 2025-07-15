@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4595-4596-just-another-beautiful-day-on-mars/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4595-4596: Just Another Beautiful Day on Mars
 - <a href="https://spacepolicyonline.com/news/house-appropriators-also-reject-trump-proposed-nasa-cuts-fund-national-space-council/" >🔗</a> **[SpacePolicyOnline.com]** House Appropriators Also Reject Trump-Proposed NASA Cuts, Fund National Space Council
 - <a href="https://science.nasa.gov/science-research/planetary-science/astrobiology/path-toward-protocells-on-titan/" >🔗</a> **[NASA]** NASA Research Shows Path Toward Protocells on Titan
 - <a href="https://spaceflightnow.com/2025/07/14/nasa-spacex-target-july-31-for-crew-11-launch-to-the-iss/" >🔗</a> **[Spaceflight Now]** NASA, SpaceX target July 31 for Crew-11 launch to the ISS
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/10-years-ago-nasas-new-horizons-captures-plutos-heart/" >🔗</a> **[NASA]** 10 Years Ago: NASA’s New Horizons Captures Pluto’s Heart
 - <a href="https://europeanspaceflight.com/space-rider-nose-cone-passes-key-milestone/" >🔗</a> **[European Spaceflight]** Space Rider Nose Cone Passes Key Milestone
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/chief-training-officer-teresa-sindelar-touches-the-future-of-human-spaceflight/" >🔗</a> **[NASA]** Chief Training Officer Teresa Sindelar Touches the Future of Human Spaceflight
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/05/You_can_t_judge_a_star_by_its_protoplanetary_disc" >🔗</a> **[ESA]** You can’t judge a star by its protoplanetary disc
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250715T090559">2025-07-15 09:05:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250715T093830">2025-07-15 09:38:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
