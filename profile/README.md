@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/ixpe/nasas-ixpe-imager-reveals-mysteries-of-rare-pulsar/" >🔗</a> **[NASA]** NASA’s IXPE Imager Reveals Mysteries of Rare Pulsar
+- <a href="https://science.nasa.gov/uncategorized/helio-highlights-june-2025/" >🔗</a> **[NASA]** Helio Highlights: June 2025
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_passes_gruelling_set_of_tests" >🔗</a> **[ESA]** Smile passes gruelling set of tests
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/07/Testing_testing_testing_Let_s_Smile_episode_3" >🔗</a> **[ESA]** Testing, testing, testing – Let’s Smile (episode 3)
 - <a href="https://www.nasa.gov/missions/roman-space-telescope/one-survey-by-nasas-roman-could-unveil-100000-cosmic-explosions/" >🔗</a> **[NASA]** One Survey by NASA’s Roman Could Unveil 100,000 Cosmic Explosions
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4595-4596-just-another-beautiful-day-on-mars/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4595-4596: Just Another Beautiful Day on Mars
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ignis/Ignis_mission_highlights" >🔗</a> **[ESA]** Ignis mission highlights
 - <a href="https://spacepolicyonline.com/news/house-appropriators-also-reject-trump-proposed-nasa-cuts-fund-national-space-council/" >🔗</a> **[SpacePolicyOnline.com]** House Appropriators Also Reject Trump-Proposed NASA Cuts, Fund National Space Council
-- <a href="https://science.nasa.gov/science-research/planetary-science/astrobiology/path-toward-protocells-on-titan/" >🔗</a> **[NASA]** NASA Research Shows Path Toward Protocells on Titan
-- <a href="https://spaceflightnow.com/2025/07/14/nasa-spacex-target-july-31-for-crew-11-launch-to-the-iss/" >🔗</a> **[Spaceflight Now]** NASA, SpaceX target July 31 for Crew-11 launch to the ISS
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250715T170139">2025-07-15 17:01:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250715T173545">2025-07-15 17:35:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
