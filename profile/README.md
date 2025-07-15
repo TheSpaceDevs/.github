@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/melissa-harris-shaping-nasas-vision-for-a-future-in-low-earth-orbit/" >🔗</a> **[NASA]** Melissa Harris: Shaping NASA’s Vision for a Future in Low Earth Orbit
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4595-4596-just-another-beautiful-day-on-mars/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4595-4596: Just Another Beautiful Day on Mars
 - <a href="https://spacepolicyonline.com/news/house-appropriators-also-reject-trump-proposed-nasa-cuts-fund-national-space-council/" >🔗</a> **[SpacePolicyOnline.com]** House Appropriators Also Reject Trump-Proposed NASA Cuts, Fund National Space Council
 - <a href="https://science.nasa.gov/science-research/planetary-science/astrobiology/path-toward-protocells-on-titan/" >🔗</a> **[NASA]** NASA Research Shows Path Toward Protocells on Titan
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/centers-and-facilities/goddard/linking-satellite-data-and-community-knowledge-to-advance-alaskan-snow-science/" >🔗</a> **[NASA]** Linking Satellite Data and Community Knowledge to Advance Alaskan Snow Science
 - <a href="https://www.nasa.gov/image-article/10-years-ago-nasas-new-horizons-captures-plutos-heart/" >🔗</a> **[NASA]** 10 Years Ago: NASA’s New Horizons Captures Pluto’s Heart
 - <a href="https://europeanspaceflight.com/space-rider-nose-cone-passes-key-milestone/" >🔗</a> **[European Spaceflight]** Space Rider Nose Cone Passes Key Milestone
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/chief-training-officer-teresa-sindelar-touches-the-future-of-human-spaceflight/" >🔗</a> **[NASA]** Chief Training Officer Teresa Sindelar Touches the Future of Human Spaceflight
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250715T100128">2025-07-15 10:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250715T103756">2025-07-15 10:37:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
