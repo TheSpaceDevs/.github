@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/nasas-chandra-finds-baby-exoplanet-is-shrinking/" >🔗</a> **[NASA]** NASA’s Chandra Finds Baby Exoplanet is Shrinking
 - <a href="https://www.nasa.gov/news-release/nasa-software-catalog-puts-agency-solutions-at-innovators-fingertips/" >🔗</a> **[NASA]** NASA Software Catalog Puts Agency Solutions at Innovators’ Fingertips
 - <a href="https://www.nasa.gov/image-article/aurora-australis-6/" >🔗</a> **[NASA]** Aurora Australis
 - <a href="https://science.nasa.gov/centers-and-facilities/goddard/nasas-tracers-studies-explosive-process-in-earths-magnetic-shield/" >🔗</a> **[NASA]** NASA’s TRACERS Studies Explosive Process in Earth’s Magnetic Shield
+- <a href="https://science.nasa.gov/science-research/heliophysics/nasas-tracers-studies-explosive-process-in-earths-magnetic-shield/" >🔗</a> **[NASA]** NASA’s TRACERS Studies Explosive Process in Earth’s Magnetic Shield
 - <a href="https://www.nasa.gov/humans-in-space/commercial-space/leo-economy/nasa-sees-key-progress-on-starlab-commercial-space-station/" >🔗</a> **[NASA]** NASA Sees Key Progress on Starlab Commercial Space Station
 - <a href="https://europeanspaceflight.com/esa-backs-eurospaceports-north-sea-launch-site/" >🔗</a> **[European Spaceflight]** ESA Backs EuroSpaceport’s North Sea Launch Site
 - <a href="https://science.nasa.gov/science-research/astrophysics/nasa-citizen-science-and-your-career-stories-of-exoplanet-watch-volunteers/" >🔗</a> **[NASA]** NASA Citizen Science and Your Career: Stories of Exoplanet Watch Volunteers
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/ejection-mechanism-design-for-the-speed-test-architecture/" >🔗</a> **[NASA]** Ejection Mechanism Design for the SPEED Test Architecture
 - <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/nasa-funds-early-career-employee-research/" >🔗</a> **[NASA]** NASA Funds Early Career Employee Research
-- <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/nasa-glenn-experts-join-baseball-fans-in-omaha/" >🔗</a> **[NASA]** NASA Glenn Experts Join Baseball Fans in Omaha
-- <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/nasa-glenn-announces-2025-drop-tower-challenge-winners/" >🔗</a> **[NASA]** NASA Glenn Announces 2025 Drop Tower Challenge Winners
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250716T190226">2025-07-16 19:02:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250716T193209">2025-07-16 19:32:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
