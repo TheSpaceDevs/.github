@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-to-preview-advanced-us-india-radar-mission-ahead-of-launch/" >🔗</a> **[NASA]** NASA to Preview Advanced US-India Radar Mission Ahead of Launch
 - <a href="https://www.nasa.gov/image-article/nasas-chandra-finds-baby-exoplanet-is-shrinking/" >🔗</a> **[NASA]** NASA’s Chandra Finds Baby Exoplanet is Shrinking
 - <a href="https://www.nasa.gov/news-release/nasa-software-catalog-puts-agency-solutions-at-innovators-fingertips/" >🔗</a> **[NASA]** NASA Software Catalog Puts Agency Solutions at Innovators’ Fingertips
 - <a href="https://www.nasa.gov/image-article/aurora-australis-6/" >🔗</a> **[NASA]** Aurora Australis
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/esa-backs-eurospaceports-north-sea-launch-site/" >🔗</a> **[European Spaceflight]** ESA Backs EuroSpaceport’s North Sea Launch Site
 - <a href="https://science.nasa.gov/science-research/astrophysics/nasa-citizen-science-and-your-career-stories-of-exoplanet-watch-volunteers/" >🔗</a> **[NASA]** NASA Citizen Science and Your Career: Stories of Exoplanet Watch Volunteers
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/ejection-mechanism-design-for-the-speed-test-architecture/" >🔗</a> **[NASA]** Ejection Mechanism Design for the SPEED Test Architecture
-- <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/nasa-funds-early-career-employee-research/" >🔗</a> **[NASA]** NASA Funds Early Career Employee Research
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250716T200127">2025-07-16 20:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250716T203601">2025-07-16 20:36:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
