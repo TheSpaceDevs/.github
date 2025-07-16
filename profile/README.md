@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-marshalls-65th-anniversary-celebration-july-19/" >🔗</a> **[NASA]** NASA Invites Media to Marshall’s 65th Anniversary Celebration July 19
+- <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/summer-triangle-corner-vega/" >🔗</a> **[NASA]** Summer Triangle Corner: Vega
 - <a href="https://www.nasaspaceflight.com/2025/07/starship-cape-canaveral-progress/" >🔗</a> **[NASASpaceflight]** Starship at Cape Canaveral Making Progress as SpaceX Tries to Push the Program Forward
 - <a href="https://www.nasa.gov/news-release/nasa-to-preview-advanced-us-india-radar-mission-ahead-of-launch/" >🔗</a> **[NASA]** NASA to Preview Advanced US-India Radar Mission Ahead of Launch
 - <a href="https://www.nasa.gov/image-article/nasas-chandra-finds-baby-exoplanet-is-shrinking/" >🔗</a> **[NASA]** NASA’s Chandra Finds Baby Exoplanet is Shrinking
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/centers-and-facilities/goddard/nasas-tracers-studies-explosive-process-in-earths-magnetic-shield/" >🔗</a> **[NASA]** NASA’s TRACERS Studies Explosive Process in Earth’s Magnetic Shield
 - <a href="https://science.nasa.gov/science-research/heliophysics/nasas-tracers-studies-explosive-process-in-earths-magnetic-shield/" >🔗</a> **[NASA]** NASA’s TRACERS Studies Explosive Process in Earth’s Magnetic Shield
 - <a href="https://www.nasa.gov/humans-in-space/commercial-space/leo-economy/nasa-sees-key-progress-on-starlab-commercial-space-station/" >🔗</a> **[NASA]** NASA Sees Key Progress on Starlab Commercial Space Station
-- <a href="https://europeanspaceflight.com/esa-backs-eurospaceports-north-sea-launch-site/" >🔗</a> **[European Spaceflight]** ESA Backs EuroSpaceport’s North Sea Launch Site
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250716T220123">2025-07-16 22:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250716T223710">2025-07-16 22:37:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
