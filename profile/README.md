@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/esa-backs-eurospaceports-north-sea-launch-site/" >🔗</a> **[European Spaceflight]** ESA Backs EuroSpaceport’s North Sea Launch Site
+- <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/ejection-mechanism-design-for-the-speed-test-architecture/" >🔗</a> **[NASA]** Ejection Mechanism Design for the SPEED Test Architecture
 - <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/nasa-funds-early-career-employee-research/" >🔗</a> **[NASA]** NASA Funds Early Career Employee Research
 - <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/nasa-glenn-experts-join-baseball-fans-in-omaha/" >🔗</a> **[NASA]** NASA Glenn Experts Join Baseball Fans in Omaha
 - <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/nasa-glenn-announces-2025-drop-tower-challenge-winners/" >🔗</a> **[NASA]** NASA Glenn Announces 2025 Drop Tower Challenge Winners
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4600-4601-up-and-over-the-sand-covered-ramp/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4600-4601: Up and Over the Sand Covered Ramp
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4597-4599-wide-open-spaces/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4597-4599: Wide Open Spaces
 - <a href="https://tlpnetwork.com/news/technology/starlink-cleared-to-operate-in-india" >🔗</a> **[The Launch Pad]** Starlink Cleared to Operate in India
-- <a href="https://spaceflightnow.com/2025/07/15/live-coverage-spacex-to-launch-24-amazon-project-kuiper-satellites-on-a-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Amazon Project Kuiper satellites on a Falcon 9 rocket from Cape Canaveral
-- <a href="https://spaceflightnow.com/2025/07/15/live-coverage-spacex-to-launch-26-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 26 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250716T140215">2025-07-16 14:02:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250716T143628">2025-07-16 14:36:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
