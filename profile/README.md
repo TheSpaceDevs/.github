@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/07/Earth_views_from_Cupola_during_Ignis_mission" >🔗</a> **[ESA]** Earth views from Cupola during Ignis mission
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4600-4601-up-and-over-the-sand-covered-ramp/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4600-4601: Up and Over the Sand Covered Ramp
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4597-4599-wide-open-spaces/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4597-4599: Wide Open Spaces
 - <a href="https://tlpnetwork.com/news/technology/starlink-cleared-to-operate-in-india" >🔗</a> **[The Launch Pad]** Starlink Cleared to Operate in India
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/directorates/smd/nasa-scope-summer-symposium-celebrates-early-career-scientists-and-cross-team-collaboration/" >🔗</a> **[NASA]** NASA SCoPE Summer Symposium Celebrates Early Career Scientists and Cross-Team Collaboration
 - <a href="https://www.nasa.gov/image-article/hubble-observations-give-missing-globular-cluster-time-to-shine/" >🔗</a> **[NASA]** Hubble Observations Give “Missing” Globular Cluster Time to Shine
 - <a href="https://www.nasaspaceflight.com/2025/07/eris-testflight1/" >🔗</a> **[NASASpaceflight]** Gilmour Space prepares again to launch Australia’s first homegrown orbital launch with Eris rocket
-- <a href="https://www.nasa.gov/missions/station/iss-research/nasas-spacex-crew-11-mission-gears-up-for-space-station-research/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-11 Mission Gears Up for Space Station Research
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250716T100127">2025-07-16 10:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250716T103820">2025-07-16 10:38:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
