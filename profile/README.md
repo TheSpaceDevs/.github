@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/nasa-funds-early-career-employee-research/" >🔗</a> **[NASA]** NASA Funds Early Career Employee Research
+- <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/nasa-glenn-experts-join-baseball-fans-in-omaha/" >🔗</a> **[NASA]** NASA Glenn Experts Join Baseball Fans in Omaha
+- <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/nasa-glenn-announces-2025-drop-tower-challenge-winners/" >🔗</a> **[NASA]** NASA Glenn Announces 2025 Drop Tower Challenge Winners
+- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/How_space_research_is_advancing_health_on_Earth_and_beyond" >🔗</a> **[ESA]** How space research is advancing health on Earth and beyond
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/07/Earth_views_from_Cupola_during_Ignis_mission" >🔗</a> **[ESA]** Earth views from Cupola during Ignis mission
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4600-4601-up-and-over-the-sand-covered-ramp/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4600-4601: Up and Over the Sand Covered Ramp
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4597-4599-wide-open-spaces/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4597-4599: Wide Open Spaces
 - <a href="https://tlpnetwork.com/news/technology/starlink-cleared-to-operate-in-india" >🔗</a> **[The Launch Pad]** Starlink Cleared to Operate in India
 - <a href="https://spaceflightnow.com/2025/07/15/live-coverage-spacex-to-launch-24-amazon-project-kuiper-satellites-on-a-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Amazon Project Kuiper satellites on a Falcon 9 rocket from Cape Canaveral
 - <a href="https://spaceflightnow.com/2025/07/15/live-coverage-spacex-to-launch-26-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 26 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
-- <a href="https://www.nasa.gov/news-release/nasa-selects-companies-for-architect-engineer-services-contract/" >🔗</a> **[NASA]** NASA Selects Companies for Architect-Engineer Services Contract
-- <a href="https://science.nasa.gov/directorates/smd/nasa-scope-summer-symposium-celebrates-early-career-scientists-and-cross-team-collaboration/" >🔗</a> **[NASA]** NASA SCoPE Summer Symposium Celebrates Early Career Scientists and Cross-Team Collaboration
-- <a href="https://www.nasa.gov/image-article/hubble-observations-give-missing-globular-cluster-time-to-shine/" >🔗</a> **[NASA]** Hubble Observations Give “Missing” Globular Cluster Time to Shine
-- <a href="https://www.nasaspaceflight.com/2025/07/eris-testflight1/" >🔗</a> **[NASASpaceflight]** Gilmour Space prepares again to launch Australia’s first homegrown orbital launch with Eris rocket
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250716T120212">2025-07-16 12:02:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250716T124342">2025-07-16 12:43:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
