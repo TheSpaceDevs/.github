@@ -90,7 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/humans-in-space/commercial-space/leo-economy/nasa-sees-key-progress-on-starlab-commercial-space-station/" >🔗</a> **[NASA]** NASA Sees Key Progress on Starlab Commercial Space Station
 - <a href="https://europeanspaceflight.com/esa-backs-eurospaceports-north-sea-launch-site/" >🔗</a> **[European Spaceflight]** ESA Backs EuroSpaceport’s North Sea Launch Site
+- <a href="https://science.nasa.gov/science-research/astrophysics/nasa-citizen-science-and-your-career-stories-of-exoplanet-watch-volunteers/" >🔗</a> **[NASA]** NASA Citizen Science and Your Career: Stories of Exoplanet Watch Volunteers
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/ejection-mechanism-design-for-the-speed-test-architecture/" >🔗</a> **[NASA]** Ejection Mechanism Design for the SPEED Test Architecture
 - <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/nasa-funds-early-career-employee-research/" >🔗</a> **[NASA]** NASA Funds Early Career Employee Research
 - <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/nasa-glenn-experts-join-baseball-fans-in-omaha/" >🔗</a> **[NASA]** NASA Glenn Experts Join Baseball Fans in Omaha
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/How_space_research_is_advancing_health_on_Earth_and_beyond" >🔗</a> **[ESA]** How space research is advancing health on Earth and beyond
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/07/Earth_views_from_Cupola_during_Ignis_mission" >🔗</a> **[ESA]** Earth views from Cupola during Ignis mission
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4600-4601-up-and-over-the-sand-covered-ramp/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4600-4601: Up and Over the Sand Covered Ramp
-- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4597-4599-wide-open-spaces/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4597-4599: Wide Open Spaces
-- <a href="https://tlpnetwork.com/news/technology/starlink-cleared-to-operate-in-india" >🔗</a> **[The Launch Pad]** Starlink Cleared to Operate in India
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250716T150142">2025-07-16 15:01:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250716T153619">2025-07-16 15:36:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
