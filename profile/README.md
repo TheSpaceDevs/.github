@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-marshalls-65th-anniversary-celebration-july-19/" >🔗</a> **[NASA]** NASA Invites Media to Marshall’s 65th Anniversary Celebration July 19
+- <a href="https://www.nasaspaceflight.com/2025/07/starship-cape-canaveral-progress/" >🔗</a> **[NASASpaceflight]** Starship at Cape Canaveral Making Progress as SpaceX Tries to Push the Program Forward
 - <a href="https://www.nasa.gov/news-release/nasa-to-preview-advanced-us-india-radar-mission-ahead-of-launch/" >🔗</a> **[NASA]** NASA to Preview Advanced US-India Radar Mission Ahead of Launch
 - <a href="https://www.nasa.gov/image-article/nasas-chandra-finds-baby-exoplanet-is-shrinking/" >🔗</a> **[NASA]** NASA’s Chandra Finds Baby Exoplanet is Shrinking
 - <a href="https://www.nasa.gov/news-release/nasa-software-catalog-puts-agency-solutions-at-innovators-fingertips/" >🔗</a> **[NASA]** NASA Software Catalog Puts Agency Solutions at Innovators’ Fingertips
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/science-research/heliophysics/nasas-tracers-studies-explosive-process-in-earths-magnetic-shield/" >🔗</a> **[NASA]** NASA’s TRACERS Studies Explosive Process in Earth’s Magnetic Shield
 - <a href="https://www.nasa.gov/humans-in-space/commercial-space/leo-economy/nasa-sees-key-progress-on-starlab-commercial-space-station/" >🔗</a> **[NASA]** NASA Sees Key Progress on Starlab Commercial Space Station
 - <a href="https://europeanspaceflight.com/esa-backs-eurospaceports-north-sea-launch-site/" >🔗</a> **[European Spaceflight]** ESA Backs EuroSpaceport’s North Sea Launch Site
-- <a href="https://science.nasa.gov/science-research/astrophysics/nasa-citizen-science-and-your-career-stories-of-exoplanet-watch-volunteers/" >🔗</a> **[NASA]** NASA Citizen Science and Your Career: Stories of Exoplanet Watch Volunteers
-- <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/ejection-mechanism-design-for-the-speed-test-architecture/" >🔗</a> **[NASA]** Ejection Mechanism Design for the SPEED Test Architecture
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250716T210129">2025-07-16 21:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250716T213421">2025-07-16 21:34:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
