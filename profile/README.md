@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Four-legged_robot_s_first_encounter_with_microgravity" >🔗</a> **[ESA]** Four-legged robot’s first encounter with microgravity
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-program-builds-bridge-from-military-to-civilian-careers-for-johnson-team-members/" >🔗</a> **[NASA]** NASA Program Builds Bridge From Military to Civilian Careers for Johnson Team Members
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/07/Vigil_ESA_s_space_weather_reporter_in_deep_space" >🔗</a> **[ESA]** Vigil: ESA’s space weather reporter in deep space
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-marshalls-65th-anniversary-celebration-july-19/" >🔗</a> **[NASA]** NASA Invites Media to Marshall’s 65th Anniversary Celebration July 19
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/nasas-chandra-finds-baby-exoplanet-is-shrinking/" >🔗</a> **[NASA]** NASA’s Chandra Finds Baby Exoplanet is Shrinking
 - <a href="https://www.nasa.gov/news-release/nasa-software-catalog-puts-agency-solutions-at-innovators-fingertips/" >🔗</a> **[NASA]** NASA Software Catalog Puts Agency Solutions at Innovators’ Fingertips
 - <a href="https://www.nasa.gov/image-article/aurora-australis-6/" >🔗</a> **[NASA]** Aurora Australis
-- <a href="https://science.nasa.gov/centers-and-facilities/goddard/nasas-tracers-studies-explosive-process-in-earths-magnetic-shield/" >🔗</a> **[NASA]** NASA’s TRACERS Studies Explosive Process in Earth’s Magnetic Shield
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250717T120208">2025-07-17 12:02:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250717T124339">2025-07-17 12:43:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
