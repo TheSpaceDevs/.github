@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/nasas-x-59-quiet-supersonic-aircraft-begins-taxi-tests/" >🔗</a> **[NASA]** NASA’s X-59 Quiet Supersonic Aircraft Begins Taxi Tests
+- <a href="https://science.nasa.gov/science-research/heliophysics/nasa-to-launch-snifs-suns-next-trailblazing-spectator/" >🔗</a> **[NASA]** NASA to Launch SNIFS, Sun’s Next Trailblazing Spectator
 - <a href="https://www.nasa.gov/image-article/space-station-crew-celebrates-milestone/" >🔗</a> **[NASA]** Space Station Crew Celebrates Milestone
-- <a href="https://www.nasa.gov/earth/registration-opens-for-2025-nasa-international-space-apps-challenge/" >🔗</a> **[NASA]** Registration Opens for 2025 NASA International Space Apps Challenge
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/registration-opens-for-2025-nasa-international-space-apps-challenge/" >🔗</a> **[NASA]** Registration Opens for 2025 NASA International Space Apps Challenge
+- <a href="https://www.nasa.gov/earth/registration-opens-for-2025-nasa-international-space-apps-challenge/" >🔗</a> **[NASA]** Registration Opens for 2025 NASA International Space Apps Challenge
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Four-legged_robot_s_first_encounter_with_microgravity" >🔗</a> **[ESA]** Four-legged robot’s first encounter with microgravity
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-program-builds-bridge-from-military-to-civilian-careers-for-johnson-team-members/" >🔗</a> **[NASA]** NASA Program Builds Bridge From Military to Civilian Careers for Johnson Team Members
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/07/Vigil_ESA_s_space_weather_reporter_in_deep_space" >🔗</a> **[ESA]** Vigil: ESA’s space weather reporter in deep space
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-marshalls-65th-anniversary-celebration-july-19/" >🔗</a> **[NASA]** NASA Invites Media to Marshall’s 65th Anniversary Celebration July 19
 - <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/summer-triangle-corner-vega/" >🔗</a> **[NASA]** Summer Triangle Corner: Vega
-- <a href="https://www.nasaspaceflight.com/2025/07/starship-cape-canaveral-progress/" >🔗</a> **[NASASpaceflight]** Starship at Cape Canaveral Making Progress as SpaceX Tries to Push the Program Forward
-- <a href="https://www.nasa.gov/news-release/nasa-to-preview-advanced-us-india-radar-mission-ahead-of-launch/" >🔗</a> **[NASA]** NASA to Preview Advanced US-India Radar Mission Ahead of Launch
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250717T190246">2025-07-17 19:02:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250717T193235">2025-07-17 19:32:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
