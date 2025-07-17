@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/space-station-crew-celebrates-milestone/" >🔗</a> **[NASA]** Space Station Crew Celebrates Milestone
+- <a href="https://www.nasa.gov/earth/registration-opens-for-2025-nasa-international-space-apps-challenge/" >🔗</a> **[NASA]** Registration Opens for 2025 NASA International Space Apps Challenge
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/registration-opens-for-2025-nasa-international-space-apps-challenge/" >🔗</a> **[NASA]** Registration Opens for 2025 NASA International Space Apps Challenge
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Four-legged_robot_s_first_encounter_with_microgravity" >🔗</a> **[ESA]** Four-legged robot’s first encounter with microgravity
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-program-builds-bridge-from-military-to-civilian-careers-for-johnson-team-members/" >🔗</a> **[NASA]** NASA Program Builds Bridge From Military to Civilian Careers for Johnson Team Members
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/summer-triangle-corner-vega/" >🔗</a> **[NASA]** Summer Triangle Corner: Vega
 - <a href="https://www.nasaspaceflight.com/2025/07/starship-cape-canaveral-progress/" >🔗</a> **[NASASpaceflight]** Starship at Cape Canaveral Making Progress as SpaceX Tries to Push the Program Forward
 - <a href="https://www.nasa.gov/news-release/nasa-to-preview-advanced-us-india-radar-mission-ahead-of-launch/" >🔗</a> **[NASA]** NASA to Preview Advanced US-India Radar Mission Ahead of Launch
-- <a href="https://www.nasa.gov/image-article/nasas-chandra-finds-baby-exoplanet-is-shrinking/" >🔗</a> **[NASA]** NASA’s Chandra Finds Baby Exoplanet is Shrinking
-- <a href="https://www.nasa.gov/news-release/nasa-software-catalog-puts-agency-solutions-at-innovators-fingertips/" >🔗</a> **[NASA]** NASA Software Catalog Puts Agency Solutions at Innovators’ Fingertips
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250717T180145">2025-07-17 18:01:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250717T184133">2025-07-17 18:41:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
