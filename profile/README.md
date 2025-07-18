@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/07/cape-flyover-071825/" >🔗</a> **[NASASpaceflight]** Blue Origin, Relativity Space, Stoke Space, and more all completing major upgrades at Cape Canaveral
+- <a href="https://arstechnica.com/space/2025/07/a-huge-fight-looms-over-the-nasa-budget-this-fall/" >🔗</a> **[Arstechnica]** A huge fight looms over the NASA budget this fall
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4602-4603-on-top-of-the-ridge/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4602-4603: On Top of the Ridge
 - <a href="https://spaceflightnow.com/2025/07/18/live-coverage-spacex-to-launch-24-starlink-satellites-into-polar-orbit-on-falcon-9-rocket-from-california/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites into polar orbit on Falcon 9 rocket from California
 - <a href="https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/cryogenic-fluid-management-cfm/stay-cool-nasa-tests-innovative-technique-for-super-cold-fuel-storage/" >🔗</a> **[NASA]** Stay Cool: NASA Tests Innovative Technique for Super Cold Fuel Storage
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/hubble-snaps-galaxy-clusters-portrait/" >🔗</a> **[NASA]** Hubble Snaps Galaxy Cluster’s Portrait
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/07/Federal_Chancellor_of_Austria_welcomed_to_ESA_Headquarters" >🔗</a> **[ESA]** Federal Chancellor of Austria welcomed to ESA Headquarters
 - <a href="https://arstechnica.com/space/2025/07/european-firm-has-an-ambitious-plan-to-dock-with-the-space-station-in-2028/" >🔗</a> **[Arstechnica]** European firm has an ambitious plan to dock with the space station in 2028
-- <a href="https://www.nasa.gov/missions/station/commercial-crew/what-you-need-to-know-about-nasas-spacex-crew-11-mission/" >🔗</a> **[NASA]** What You Need to Know About NASA’s SpaceX Crew-11 Mission
-- <a href="https://www.nasa.gov/missions/station/iss-research/vision-changes-on-space-station/" >🔗</a> **[NASA]** Vision Changes on Space Station
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250718T210123">2025-07-18 21:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250718T213356">2025-07-18 21:33:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
