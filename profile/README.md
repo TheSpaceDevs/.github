@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4602-4603-on-top-of-the-ridge/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4602-4603: On Top of the Ridge
+- <a href="https://spaceflightnow.com/2025/07/18/live-coverage-spacex-to-launch-24-starlink-satellites-into-polar-orbit-on-falcon-9-rocket-from-california/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites into polar orbit on Falcon 9 rocket from California
 - <a href="https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/cryogenic-fluid-management-cfm/stay-cool-nasa-tests-innovative-technique-for-super-cold-fuel-storage/" >🔗</a> **[NASA]** Stay Cool: NASA Tests Innovative Technique for Super Cold Fuel Storage
 - <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-derived-textiles-are-touring-france-by-bike/" >🔗</a> **[NASA]** NASA-Derived Textiles are Touring France by Bike
 - <a href="https://www.nasaspaceflight.com/2025/07/possible-starship-salvage-operation-underway/" >🔗</a> **[NASASpaceflight]** BREAKING NEWS: Possible Starship Salvage Operation Underway off Coast of Mexico
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2025/07/european-firm-has-an-ambitious-plan-to-dock-with-the-space-station-in-2028/" >🔗</a> **[Arstechnica]** European firm has an ambitious plan to dock with the space station in 2028
 - <a href="https://www.nasa.gov/missions/station/commercial-crew/what-you-need-to-know-about-nasas-spacex-crew-11-mission/" >🔗</a> **[NASA]** What You Need to Know About NASA’s SpaceX Crew-11 Mission
 - <a href="https://www.nasa.gov/missions/station/iss-research/vision-changes-on-space-station/" >🔗</a> **[NASA]** Vision Changes on Space Station
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_14-18_July_2025" >🔗</a> **[ESA]** Week in images: 14-18 July 2025
-- <a href="https://europeanspaceflight.com/spaceforest-expands-launch-plans-with-portuguese-island-agreement/" >🔗</a> **[European Spaceflight]** SpaceForest Expands Launch Plans with Portuguese Island Agreement
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250718T200127">2025-07-18 20:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250718T203527">2025-07-18 20:35:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
