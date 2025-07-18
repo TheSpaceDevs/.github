@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/langley/nasa-tests-scalable-satellite-tech-to-launch-sensors-quicker/" >🔗</a> **[NASA]** NASA Tests Scalable Satellite Tech to Launch Sensors Quicker
 - <a href="https://www.nasaspaceflight.com/2025/07/cape-flyover-071825/" >🔗</a> **[NASASpaceflight]** Blue Origin, Relativity Space, Stoke Space, and more all completing major upgrades at Cape Canaveral
 - <a href="https://arstechnica.com/space/2025/07/a-huge-fight-looms-over-the-nasa-budget-this-fall/" >🔗</a> **[Arstechnica]** A huge fight looms over the NASA budget this fall
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4602-4603-on-top-of-the-ridge/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4602-4603: On Top of the Ridge
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2025/07/possible-starship-salvage-operation-underway/" >🔗</a> **[NASASpaceflight]** BREAKING NEWS: Possible Starship Salvage Operation Underway off Coast of Mexico
 - <a href="https://www.nasa.gov/image-article/hubble-snaps-galaxy-clusters-portrait/" >🔗</a> **[NASA]** Hubble Snaps Galaxy Cluster’s Portrait
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/07/Federal_Chancellor_of_Austria_welcomed_to_ESA_Headquarters" >🔗</a> **[ESA]** Federal Chancellor of Austria welcomed to ESA Headquarters
-- <a href="https://arstechnica.com/space/2025/07/european-firm-has-an-ambitious-plan-to-dock-with-the-space-station-in-2028/" >🔗</a> **[Arstechnica]** European firm has an ambitious plan to dock with the space station in 2028
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250718T220125">2025-07-18 22:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250718T223600">2025-07-18 22:36:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
