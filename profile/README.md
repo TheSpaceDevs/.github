@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/07/european-firm-has-an-ambitious-plan-to-dock-with-the-space-station-in-2028/" >🔗</a> **[Arstechnica]** European firm has an ambitious plan to dock with the space station in 2028
 - <a href="https://www.nasa.gov/missions/station/commercial-crew/what-you-need-to-know-about-nasas-spacex-crew-11-mission/" >🔗</a> **[NASA]** What You Need to Know About NASA’s SpaceX Crew-11 Mission
 - <a href="https://www.nasa.gov/missions/station/iss-research/vision-changes-on-space-station/" >🔗</a> **[NASA]** Vision Changes on Space Station
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_14-18_July_2025" >🔗</a> **[ESA]** Week in images: 14-18 July 2025
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Juice/New_Apollo_Earthrise_view_shows_Juice_s_RIME_working_well" >🔗</a> **[ESA]** New Apollo Earthrise view shows Juice’s RIME working well
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/07/Earth_from_Space_Circles_in_the_desert" >🔗</a> **[ESA]** Earth from Space: Circles in the desert
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/07/Back_to_Europe" >🔗</a> **[ESA]** Back to Europe
-- <a href="https://spacepolicyonline.com/news/senate-appropriators-retain-funding-for-noaas-tracss-space-traffic-system/" >🔗</a> **[SpacePolicyOnline.com]** Senate Appropriators Retain Funding for NOAA’s TraCSS Space Traffic System
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250718T160235">2025-07-18 16:02:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250718T163936">2025-07-18 16:39:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
