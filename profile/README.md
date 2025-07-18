@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/station/commercial-crew/what-you-need-to-know-about-nasas-spacex-crew-11-mission/" >🔗</a> **[NASA]** What You Need to Know About NASA’s SpaceX Crew-11 Mission
+- <a href="https://www.nasa.gov/missions/station/iss-research/vision-changes-on-space-station/" >🔗</a> **[NASA]** Vision Changes on Space Station
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_14-18_July_2025" >🔗</a> **[ESA]** Week in images: 14-18 July 2025
 - <a href="https://europeanspaceflight.com/spaceforest-expands-launch-plans-with-portuguese-island-agreement/" >🔗</a> **[European Spaceflight]** SpaceForest Expands Launch Plans with Portuguese Island Agreement
 - <a href="https://arstechnica.com/space/2025/07/rocket-report-avio-celebrates-independence-pld-outlines-grand-ambitions/" >🔗</a> **[Arstechnica]** Rocket Report: Avio celebrates independence; PLD outlines grand ambitions
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/07/Earth_from_Space_Circles_in_the_desert" >🔗</a> **[ESA]** Earth from Space: Circles in the desert
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/07/Back_to_Europe" >🔗</a> **[ESA]** Back to Europe
 - <a href="https://spacepolicyonline.com/news/senate-appropriators-retain-funding-for-noaas-tracss-space-traffic-system/" >🔗</a> **[SpacePolicyOnline.com]** Senate Appropriators Retain Funding for NOAA’s TraCSS Space Traffic System
-- <a href="https://www.nasaspaceflight.com/2025/07/boeing-eus-render/" >🔗</a> **[NASASpaceflight]** Boeing updates EUS progress via thrust structure render
-- <a href="https://www.nasaspaceflight.com/2025/07/ml-2-final-module/" >🔗</a> **[NASASpaceflight]** Final ML-2 tower module added as Artemis and SLS Block 1B receive a funding reprieve
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250718T140202">2025-07-18 14:02:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250718T143637">2025-07-18 14:36:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
