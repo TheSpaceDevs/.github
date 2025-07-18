@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/07/Earth_from_Space_Circles_in_the_desert" >🔗</a> **[ESA]** Earth from Space: Circles in the desert
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/07/Back_to_Europe" >🔗</a> **[ESA]** Back to Europe
 - <a href="https://spacepolicyonline.com/news/senate-appropriators-retain-funding-for-noaas-tracss-space-traffic-system/" >🔗</a> **[SpacePolicyOnline.com]** Senate Appropriators Retain Funding for NOAA’s TraCSS Space Traffic System
 - <a href="https://www.nasaspaceflight.com/2025/07/boeing-eus-render/" >🔗</a> **[NASASpaceflight]** Boeing updates EUS progress via thrust structure render
 - <a href="https://www.nasaspaceflight.com/2025/07/ml-2-final-module/" >🔗</a> **[NASASpaceflight]** Final ML-2 tower module added as Artemis and SLS Block 1B receive a funding reprieve
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/nasas-x-59-quiet-supersonic-aircraft-begins-taxi-tests/" >🔗</a> **[NASA]** NASA’s X-59 Quiet Supersonic Aircraft Begins Taxi Tests
 - <a href="https://science.nasa.gov/science-research/heliophysics/nasa-to-launch-snifs-suns-next-trailblazing-spectator/" >🔗</a> **[NASA]** NASA to Launch SNIFS, Sun’s Next Trailblazing Spectator
 - <a href="https://www.nasa.gov/image-article/space-station-crew-celebrates-milestone/" >🔗</a> **[NASA]** Space Station Crew Celebrates Milestone
-- <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/registration-opens-for-2025-nasa-international-space-apps-challenge/" >🔗</a> **[NASA]** Registration Opens for 2025 NASA International Space Apps Challenge
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250718T090320">2025-07-18 09:03:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250718T093657">2025-07-18 09:36:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
