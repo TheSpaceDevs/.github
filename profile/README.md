@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/spaceforest-expands-launch-plans-with-portuguese-island-agreement/" >🔗</a> **[European Spaceflight]** SpaceForest Expands Launch Plans with Portuguese Island Agreement
 - <a href="https://arstechnica.com/space/2025/07/rocket-report-avio-celebrates-independence-pld-outlines-grand-ambitions/" >🔗</a> **[Arstechnica]** Rocket Report: Avio celebrates independence; PLD outlines grand ambitions
 - <a href="https://science.nasa.gov/missions/hubble/hubble-digs-up-galactic-time-capsule/" >🔗</a> **[NASA]** Hubble Digs Up Galactic Time Capsule
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Juice/New_Apollo_Earthrise_view_shows_Juice_s_RIME_working_well" >🔗</a> **[ESA]** New Apollo Earthrise view shows Juice’s RIME working well
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2025/07/boeing-eus-render/" >🔗</a> **[NASASpaceflight]** Boeing updates EUS progress via thrust structure render
 - <a href="https://www.nasaspaceflight.com/2025/07/ml-2-final-module/" >🔗</a> **[NASASpaceflight]** Final ML-2 tower module added as Artemis and SLS Block 1B receive a funding reprieve
 - <a href="https://europeanspaceflight.com/the-exploration-company-tests-thrusters-for-nyx-moon-lunar-lander/" >🔗</a> **[European Spaceflight]** The Exploration Company Tests Thruster for Nyx Moon Lunar Lander
-- <a href="https://science.nasa.gov/science-research/planetary-science/nasa-oxford-discover-warmer-uranus-than-once-thought/" >🔗</a> **[NASA]** NASA, Oxford Discover Warmer Uranus Than Once Thought
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250718T120208">2025-07-18 12:02:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250718T124335">2025-07-18 12:43:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
