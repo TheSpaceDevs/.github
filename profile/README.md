@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-derived-textiles-are-touring-france-by-bike/" >🔗</a> **[NASA]** NASA-Derived Textiles are Touring France by Bike
+- <a href="https://www.nasaspaceflight.com/2025/07/possible-starship-salvage-operation-underway/" >🔗</a> **[NASASpaceflight]** BREAKING NEWS: Possible Starship Salvage Operation Underway off Coast of Mexico
 - <a href="https://www.nasa.gov/image-article/hubble-snaps-galaxy-clusters-portrait/" >🔗</a> **[NASA]** Hubble Snaps Galaxy Cluster’s Portrait
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/07/Federal_Chancellor_of_Austria_welcomed_to_ESA_Headquarters" >🔗</a> **[ESA]** Federal Chancellor of Austria welcomed to ESA Headquarters
 - <a href="https://arstechnica.com/space/2025/07/european-firm-has-an-ambitious-plan-to-dock-with-the-space-station-in-2028/" >🔗</a> **[Arstechnica]** European firm has an ambitious plan to dock with the space station in 2028
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_14-18_July_2025" >🔗</a> **[ESA]** Week in images: 14-18 July 2025
 - <a href="https://europeanspaceflight.com/spaceforest-expands-launch-plans-with-portuguese-island-agreement/" >🔗</a> **[European Spaceflight]** SpaceForest Expands Launch Plans with Portuguese Island Agreement
 - <a href="https://arstechnica.com/space/2025/07/rocket-report-avio-celebrates-independence-pld-outlines-grand-ambitions/" >🔗</a> **[Arstechnica]** Rocket Report: Avio celebrates independence; PLD outlines grand ambitions
-- <a href="https://science.nasa.gov/missions/hubble/hubble-digs-up-galactic-time-capsule/" >🔗</a> **[NASA]** Hubble Digs Up Galactic Time Capsule
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Juice/New_Apollo_Earthrise_view_shows_Juice_s_RIME_working_well" >🔗</a> **[ESA]** New Apollo Earthrise view shows Juice’s RIME working well
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250718T180131">2025-07-18 18:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250718T184101">2025-07-18 18:41:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
