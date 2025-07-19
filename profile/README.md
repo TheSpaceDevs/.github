@@ -90,6 +90,7 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/esa-finally-kicks-off-flying-engine-testbed-project-following-itt-reissue/" >🔗</a> **[European Spaceflight]** ESA Finally Kicks Off Flying Engine Testbed Project Following ITT Reissue
 - <a href="https://www.nasa.gov/centers-and-facilities/langley/nasa-tests-scalable-satellite-tech-to-launch-sensors-quicker/" >🔗</a> **[NASA]** NASA Tests Scalable Satellite Tech to Launch Sensors Quicker
 - <a href="https://www.nasaspaceflight.com/2025/07/cape-flyover-071825/" >🔗</a> **[NASASpaceflight]** Blue Origin, Relativity Space, Stoke Space, and more all completing major upgrades at Cape Canaveral
 - <a href="https://arstechnica.com/space/2025/07/a-huge-fight-looms-over-the-nasa-budget-this-fall/" >🔗</a> **[Arstechnica]** A huge fight looms over the NASA budget this fall
@@ -99,7 +100,6 @@ into *a Medium Earth Orbit
 - <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-derived-textiles-are-touring-france-by-bike/" >🔗</a> **[NASA]** NASA-Derived Textiles are Touring France by Bike
 - <a href="https://www.nasaspaceflight.com/2025/07/possible-starship-salvage-operation-underway/" >🔗</a> **[NASASpaceflight]** BREAKING NEWS: Possible Starship Salvage Operation Underway off Coast of Mexico
 - <a href="https://www.nasa.gov/image-article/hubble-snaps-galaxy-clusters-portrait/" >🔗</a> **[NASA]** Hubble Snaps Galaxy Cluster’s Portrait
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/07/Federal_Chancellor_of_Austria_welcomed_to_ESA_Headquarters" >🔗</a> **[ESA]** Federal Chancellor of Austria welcomed to ESA Headquarters
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250719T100118">2025-07-19 10:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250719T103659">2025-07-19 10:36:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
