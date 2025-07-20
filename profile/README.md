@@ -90,6 +90,7 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/07/cheops-hip-67522/" >🔗</a> **[NASASpaceflight]** CHEOPS discovers exoplanet triggering explosive flares on host star
 - <a href="https://spacepolicyonline.com/news/senate-appropriators-join-house-in-opposing-trumps-nasa-cuts/" >🔗</a> **[SpacePolicyOnline.com]** Senate Appropriators Join House in Opposing Trump’s NASA Cuts
 - <a href="https://europeanspaceflight.com/esa-finally-kicks-off-flying-engine-testbed-project-following-itt-reissue/" >🔗</a> **[European Spaceflight]** ESA Finally Kicks Off Flying Engine Testbed Project Following ITT Reissue
 - <a href="https://www.nasa.gov/centers-and-facilities/langley/nasa-tests-scalable-satellite-tech-to-launch-sensors-quicker/" >🔗</a> **[NASA]** NASA Tests Scalable Satellite Tech to Launch Sensors Quicker
@@ -99,7 +100,6 @@ into *a Medium Earth Orbit
 - <a href="https://spaceflightnow.com/2025/07/18/live-coverage-spacex-to-launch-24-starlink-satellites-into-polar-orbit-on-falcon-9-rocket-from-california/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites into polar orbit on Falcon 9 rocket from California
 - <a href="https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/cryogenic-fluid-management-cfm/stay-cool-nasa-tests-innovative-technique-for-super-cold-fuel-storage/" >🔗</a> **[NASA]** Stay Cool: NASA Tests Innovative Technique for Super Cold Fuel Storage
 - <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-derived-textiles-are-touring-france-by-bike/" >🔗</a> **[NASA]** NASA-Derived Textiles are Touring France by Bike
-- <a href="https://www.nasaspaceflight.com/2025/07/possible-starship-salvage-operation-underway/" >🔗</a> **[NASASpaceflight]** BREAKING NEWS: Possible Starship Salvage Operation Underway off Coast of Mexico
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250720T210113">2025-07-20 21:01:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250720T213333">2025-07-20 21:33:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
