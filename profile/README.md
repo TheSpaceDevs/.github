@@ -90,6 +90,7 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/ExoMars/ExoMars_parachutes_ready_for_martian_deployment" >🔗</a> **[ESA]** ExoMars parachutes ready for martian deployment
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-20-26-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy July 20-26, 2025
 - <a href="https://www.nasaspaceflight.com/2025/07/cheops-hip-67522/" >🔗</a> **[NASASpaceflight]** CHEOPS discovers exoplanet triggering explosive flares on host star
 - <a href="https://spacepolicyonline.com/news/senate-appropriators-join-house-in-opposing-trumps-nasa-cuts/" >🔗</a> **[SpacePolicyOnline.com]** Senate Appropriators Join House in Opposing Trump’s NASA Cuts
@@ -99,7 +100,6 @@ into *a Medium Earth Orbit
 - <a href="https://arstechnica.com/space/2025/07/a-huge-fight-looms-over-the-nasa-budget-this-fall/" >🔗</a> **[Arstechnica]** A huge fight looms over the NASA budget this fall
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4602-4603-on-top-of-the-ridge/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4602-4603: On Top of the Ridge
 - <a href="https://spaceflightnow.com/2025/07/18/live-coverage-spacex-to-launch-24-starlink-satellites-into-polar-orbit-on-falcon-9-rocket-from-california/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites into polar orbit on Falcon 9 rocket from California
-- <a href="https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/cryogenic-fluid-management-cfm/stay-cool-nasa-tests-innovative-technique-for-super-cold-fuel-storage/" >🔗</a> **[NASA]** Stay Cool: NASA Tests Innovative Technique for Super Cold Fuel Storage
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250721T080209">2025-07-21 08:02:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250721T084143">2025-07-21 08:41:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
