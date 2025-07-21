@@ -90,6 +90,7 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/esa-recertifies-exomars-parachutes-after-years-in-storage/" >🔗</a> **[European Spaceflight]** ESA Recertifies ExoMars Parachutes After Years in Storage
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/catherine-staggs-advancing-artemis-through-contracting-expertise/" >🔗</a> **[NASA]** Catherine Staggs: Advancing Artemis Through Contracting Expertise
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/ExoMars/ExoMars_parachutes_ready_for_martian_deployment" >🔗</a> **[ESA]** ExoMars parachutes ready for martian deployment
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-20-26-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy July 20-26, 2025
@@ -99,7 +100,6 @@ into *a Medium Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/langley/nasa-tests-scalable-satellite-tech-to-launch-sensors-quicker/" >🔗</a> **[NASA]** NASA Tests Scalable Satellite Tech to Launch Sensors Quicker
 - <a href="https://www.nasaspaceflight.com/2025/07/cape-flyover-071825/" >🔗</a> **[NASASpaceflight]** Blue Origin, Relativity Space, Stoke Space, and more all completing major upgrades at Cape Canaveral
 - <a href="https://arstechnica.com/space/2025/07/a-huge-fight-looms-over-the-nasa-budget-this-fall/" >🔗</a> **[Arstechnica]** A huge fight looms over the NASA budget this fall
-- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4602-4603-on-top-of-the-ridge/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4602-4603: On Top of the Ridge
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250721T140238">2025-07-21 14:02:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250721T143756">2025-07-21 14:37:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
