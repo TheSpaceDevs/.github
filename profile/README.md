@@ -90,6 +90,8 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/the-day-earth-smiled/" >🔗</a> **[NASA]** The Day Earth Smiled
+- <a href="https://www.nasa.gov/missions/nisar/5-things-to-know-about-powerful-new-u-s-india-satellite-nisar/" >🔗</a> **[NASA]** 5 Things to Know About Powerful New U.S.-India Satellite, NISAR
 - <a href="https://europeanspaceflight.com/esa-recertifies-exomars-parachutes-after-years-in-storage/" >🔗</a> **[European Spaceflight]** ESA Recertifies ExoMars Parachutes After Years in Storage
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/catherine-staggs-advancing-artemis-through-contracting-expertise/" >🔗</a> **[NASA]** Catherine Staggs: Advancing Artemis Through Contracting Expertise
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/ExoMars/ExoMars_parachutes_ready_for_martian_deployment" >🔗</a> **[ESA]** ExoMars parachutes ready for martian deployment
@@ -98,8 +100,6 @@ into *a Medium Earth Orbit
 - <a href="https://spacepolicyonline.com/news/senate-appropriators-join-house-in-opposing-trumps-nasa-cuts/" >🔗</a> **[SpacePolicyOnline.com]** Senate Appropriators Join House in Opposing Trump’s NASA Cuts
 - <a href="https://europeanspaceflight.com/esa-finally-kicks-off-flying-engine-testbed-project-following-itt-reissue/" >🔗</a> **[European Spaceflight]** ESA Finally Kicks Off Flying Engine Testbed Project Following ITT Reissue
 - <a href="https://www.nasa.gov/centers-and-facilities/langley/nasa-tests-scalable-satellite-tech-to-launch-sensors-quicker/" >🔗</a> **[NASA]** NASA Tests Scalable Satellite Tech to Launch Sensors Quicker
-- <a href="https://www.nasaspaceflight.com/2025/07/cape-flyover-071825/" >🔗</a> **[NASASpaceflight]** Blue Origin, Relativity Space, Stoke Space, and more all completing major upgrades at Cape Canaveral
-- <a href="https://arstechnica.com/space/2025/07/a-huge-fight-looms-over-the-nasa-budget-this-fall/" >🔗</a> **[Arstechnica]** A huge fight looms over the NASA budget this fall
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250721T160132">2025-07-21 16:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250721T163922">2025-07-21 16:39:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
