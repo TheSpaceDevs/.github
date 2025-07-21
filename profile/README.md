@@ -90,16 +90,16 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/07/21/live-coverage-spacex-to-launch-2-o3b-mpower-satellites-for-ses-on-a-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 2 O3b mPOWER satellites for SES on a Falcon 9 rocket from Cape Canaveral
+- <a href="https://www.nasa.gov/news-release/nasa-goddard-center-director-makenzie-lystrup-set-to-depart/" >🔗</a> **[NASA]** NASA Goddard Center Director Makenzie Lystrup Set to Depart
+- <a href="https://www.nasa.gov/missions/juno/nasa-shares-how-to-save-camera-370-million-miles-away-near-jupiter/" >🔗</a> **[NASA]** NASA Shares How to Save Camera 370-Million-Miles Away Near Jupiter
+- <a href="https://science.nasa.gov/science-research/earth-science/globe-trotting-science-lands-in-chesapeake-with-nasa-eclips/" >🔗</a> **[NASA]** GLOBE-Trotting Science Lands in Chesapeake with NASA eClips
 - <a href="https://www.nasa.gov/image-article/the-day-earth-smiled/" >🔗</a> **[NASA]** The Day Earth Smiled
 - <a href="https://www.nasa.gov/missions/nisar/5-things-to-know-about-powerful-new-u-s-india-satellite-nisar/" >🔗</a> **[NASA]** 5 Things to Know About Powerful New U.S.-India Satellite, NISAR
 - <a href="https://europeanspaceflight.com/esa-recertifies-exomars-parachutes-after-years-in-storage/" >🔗</a> **[European Spaceflight]** ESA Recertifies ExoMars Parachutes After Years in Storage
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/catherine-staggs-advancing-artemis-through-contracting-expertise/" >🔗</a> **[NASA]** Catherine Staggs: Advancing Artemis Through Contracting Expertise
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/ExoMars/ExoMars_parachutes_ready_for_martian_deployment" >🔗</a> **[ESA]** ExoMars parachutes ready for martian deployment
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-20-26-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy July 20-26, 2025
-- <a href="https://www.nasaspaceflight.com/2025/07/cheops-hip-67522/" >🔗</a> **[NASASpaceflight]** CHEOPS discovers exoplanet triggering explosive flares on host star
-- <a href="https://spacepolicyonline.com/news/senate-appropriators-join-house-in-opposing-trumps-nasa-cuts/" >🔗</a> **[SpacePolicyOnline.com]** Senate Appropriators Join House in Opposing Trump’s NASA Cuts
-- <a href="https://europeanspaceflight.com/esa-finally-kicks-off-flying-engine-testbed-project-following-itt-reissue/" >🔗</a> **[European Spaceflight]** ESA Finally Kicks Off Flying Engine Testbed Project Following ITT Reissue
-- <a href="https://www.nasa.gov/centers-and-facilities/langley/nasa-tests-scalable-satellite-tech-to-launch-sensors-quicker/" >🔗</a> **[NASA]** NASA Tests Scalable Satellite Tech to Launch Sensors Quicker
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250721T180143">2025-07-21 18:01:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250721T184138">2025-07-21 18:41:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
