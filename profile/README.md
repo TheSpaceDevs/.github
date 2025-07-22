@@ -96,6 +96,7 @@ Hitchhiking small satellites:
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/humans-in-space/nasa-tests-new-heat-source-fuel-for-deep-space-exploration/" >🔗</a> **[NASA]** NASA Tests New Heat Source Fuel for Deep Space Exploration
 - <a href="https://www.nasaspaceflight.com/2025/07/launch-roundup-072125/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Russian and European science missions to launch during busy week
 - <a href="https://www.nasa.gov/news-release/nasas-spacex-crew-10-to-discuss-station-mission-upcoming-return/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-10 to Discuss Station Mission, Upcoming Return
 - <a href="https://spaceflightnow.com/2025/07/21/live-coverage-spacex-to-launch-2-o3b-mpower-satellites-for-ses-on-a-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 2 O3b mPOWER satellites for SES on a Falcon 9 rocket from Cape Canaveral
@@ -105,7 +106,6 @@ Hitchhiking small satellites:
 - <a href="https://www.nasa.gov/image-article/the-day-earth-smiled/" >🔗</a> **[NASA]** The Day Earth Smiled
 - <a href="https://www.nasa.gov/missions/nisar/5-things-to-know-about-powerful-new-u-s-india-satellite-nisar/" >🔗</a> **[NASA]** 5 Things to Know About Powerful New U.S.-India Satellite, NISAR
 - <a href="https://europeanspaceflight.com/esa-recertifies-exomars-parachutes-after-years-in-storage/" >🔗</a> **[European Spaceflight]** ESA Recertifies ExoMars Parachutes After Years in Storage
-- <a href="https://science.nasa.gov/get-involved/citizen-science/bring-nasa-science-into-your-library/" >🔗</a> **[NASA]** Bring NASA Science into Your Library!
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ Hitchhiking small satellites:
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250722T120212">2025-07-22 12:02:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250722T124338">2025-07-22 12:43:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
