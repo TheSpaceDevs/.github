@@ -58,9 +58,9 @@ Hitchhiking small satellites:
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250726T020300">2025-07-26 02:03:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Vega-C | CO3D &amp; MicroCarb&location=Guiana Space Centre, French Guiana&dates=20250726T020300Z%2F20250726T020300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Vega-C | CO3D & MicroCarb** from Guiana Space Centre, French Guiana.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250726T020900">2025-07-26 02:09:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-2&location=Vandenberg SFB, CA, USA&dates=20250726T020900Z%2F20250726T054300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-2** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250726T213000">2025-07-26 21:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/au.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Eris-1 | Maiden Flight&location=Bowen Orbital Spaceport&dates=20250726T213000Z%2F20250727T073000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Eris-1 | Maiden Flight** from Bowen Orbital Spaceport.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250727T095500">2025-07-27 09:55:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 6A | Unknown Payload&location=Taiyuan Satellite Launch Center, People&#x27;s Republic of China&dates=20250727T095500Z%2F20250727T101100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 6A | Unknown Payload** from Taiyuan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250728T041500">2025-07-28 04:15:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-29&location=Cape Canaveral SFS, FL, USA&dates=20250728T041500Z%2F20250728T081500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-29** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250729T153900">2025-07-29 15:39:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 13-4&location=Vandenberg SFB, CA, USA&dates=20250729T153900Z%2F20250729T202200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 13-4** from Vandenberg SFB, CA, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250730T121000">2025-07-30 12:10:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=GSLV Mk II | NISAR (NASA-ISRO Synthetic Aperture Radar)&location=Satish Dhawan Space Centre, India&dates=20250730T121000Z%2F20250730T121000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **GSLV Mk II | NISAR (NASA-ISRO Synthetic Aperture Radar)** from Satish Dhawan Space Centre, India.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -96,6 +96,7 @@ Hitchhiking small satellites:
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/learning-resources/science-activation/nasa-eclips-stem-student-ambassadors-light-up-cnus-2025-stem-community-day/" >🔗</a> **[NASA]** NASA eClips STEM Student Ambassadors Light Up CNU’s 2025 STEM Community Day
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-challenge-wraps-student-teams-complete-space-suit-challenges/" >🔗</a> **[NASA]** NASA Challenge Wraps, Student Teams Complete Space Suit Challenges
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4604-4606-taking-a-deep-breath-of-martian-air/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4604-4606: Taking a Deep Breath of Martian Air
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-senegal-artemis-accords-signing-ceremony/" >🔗</a> **[NASA]** NASA Invites Media to Senegal Artemis Accords Signing Ceremony
@@ -105,7 +106,6 @@ Hitchhiking small satellites:
 - <a href="https://europeanspaceflight.com/genesis-sfl-secures-e300000-to-develop-gen-re-entry-capsule/" >🔗</a> **[European Spaceflight]** Genesis SFL Secures €300,000 to Develop Gen Re-Entry Capsule
 - <a href="https://www.nasa.gov/humans-in-space/nasa-tests-new-heat-source-fuel-for-deep-space-exploration/" >🔗</a> **[NASA]** NASA Tests New Heat Source Fuel for Deep Space Exploration
 - <a href="https://www.nasaspaceflight.com/2025/07/launch-roundup-072125/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Russian and European science missions to launch during busy week
-- <a href="https://www.nasa.gov/news-release/nasas-spacex-crew-10-to-discuss-station-mission-upcoming-return/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-10 to Discuss Station Mission, Upcoming Return
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ Hitchhiking small satellites:
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250722T220134">2025-07-22 22:01:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250722T223600">2025-07-22 22:36:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
