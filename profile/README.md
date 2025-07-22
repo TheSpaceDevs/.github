@@ -96,6 +96,8 @@ Hitchhiking small satellites:
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/07/nasa-tracers-launch/" >🔗</a> **[NASASpaceflight]** NASA’s TRACERS ready to offer insight on Earth’s magnetic field
+- <a href="https://www.nasa.gov/image-article/nasas-x-59-makes-a-move/" >🔗</a> **[NASA]** NASA’s X-59 Makes a Move
 - <a href="https://europeanspaceflight.com/genesis-sfl-secures-e300000-to-develop-gen-re-entry-capsule/" >🔗</a> **[European Spaceflight]** Genesis SFL Secures €300,000 to Develop Gen Re-Entry Capsule
 - <a href="https://www.nasa.gov/humans-in-space/nasa-tests-new-heat-source-fuel-for-deep-space-exploration/" >🔗</a> **[NASA]** NASA Tests New Heat Source Fuel for Deep Space Exploration
 - <a href="https://www.nasaspaceflight.com/2025/07/launch-roundup-072125/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Russian and European science missions to launch during busy week
@@ -104,8 +106,6 @@ Hitchhiking small satellites:
 - <a href="https://www.nasa.gov/news-release/nasa-goddard-center-director-makenzie-lystrup-set-to-depart/" >🔗</a> **[NASA]** NASA Goddard Center Director Makenzie Lystrup Set to Depart
 - <a href="https://www.nasa.gov/missions/juno/nasa-shares-how-to-save-camera-370-million-miles-away-near-jupiter/" >🔗</a> **[NASA]** NASA Shares How to Save Camera 370-Million-Miles Away Near Jupiter
 - <a href="https://science.nasa.gov/science-research/earth-science/globe-trotting-science-lands-in-chesapeake-with-nasa-eclips/" >🔗</a> **[NASA]** GLOBE-Trotting Science Lands in Chesapeake with NASA eClips
-- <a href="https://www.nasa.gov/image-article/the-day-earth-smiled/" >🔗</a> **[NASA]** The Day Earth Smiled
-- <a href="https://www.nasa.gov/missions/nisar/5-things-to-know-about-powerful-new-u-s-india-satellite-nisar/" >🔗</a> **[NASA]** 5 Things to Know About Powerful New U.S.-India Satellite, NISAR
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ Hitchhiking small satellites:
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250722T160145">2025-07-22 16:01:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250722T163955">2025-07-22 16:39:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
