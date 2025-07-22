@@ -90,6 +90,7 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-challenge-wraps-student-teams-complete-space-suit-challenges/" >🔗</a> **[NASA]** NASA Challenge Wraps, Student Teams Complete Space Suit Challenges
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4604-4606-taking-a-deep-breath-of-martian-air/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4604-4606: Taking a Deep Breath of Martian Air
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-senegal-artemis-accords-signing-ceremony/" >🔗</a> **[NASA]** NASA Invites Media to Senegal Artemis Accords Signing Ceremony
 - <a href="https://spaceflightnow.com/2025/07/22/live-coverage-spacex-to-launch-nasas-tracers-satellites-on-rideshare-falcon-9-rocket-launch-from-vandenberg-sfb/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch NASA’s TRACERS satellites on rideshare Falcon 9 rocket launch from Vandenberg SFB
@@ -99,7 +100,6 @@ into *a Medium Earth Orbit
 - <a href="https://www.nasa.gov/humans-in-space/nasa-tests-new-heat-source-fuel-for-deep-space-exploration/" >🔗</a> **[NASA]** NASA Tests New Heat Source Fuel for Deep Space Exploration
 - <a href="https://www.nasaspaceflight.com/2025/07/launch-roundup-072125/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Russian and European science missions to launch during busy week
 - <a href="https://www.nasa.gov/news-release/nasas-spacex-crew-10-to-discuss-station-mission-upcoming-return/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-10 to Discuss Station Mission, Upcoming Return
-- <a href="https://spaceflightnow.com/2025/07/21/live-coverage-spacex-to-launch-2-o3b-mpower-satellites-for-ses-on-a-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 2 O3b mPOWER satellites for SES on a Falcon 9 rocket from Cape Canaveral
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250722T200132">2025-07-22 20:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250722T203605">2025-07-22 20:36:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
