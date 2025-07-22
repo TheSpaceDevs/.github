@@ -96,6 +96,8 @@ Hitchhiking small satellites:
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-senegal-artemis-accords-signing-ceremony/" >🔗</a> **[NASA]** NASA Invites Media to Senegal Artemis Accords Signing Ceremony
+- <a href="https://spaceflightnow.com/2025/07/22/live-coverage-spacex-to-launch-nasas-tracers-satellites-on-rideshare-falcon-9-rocket-launch-from-vandenberg-sfb/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch NASA’s TRACERS satellites on rideshare Falcon 9 rocket launch from Vandenberg SFB
 - <a href="https://www.nasaspaceflight.com/2025/07/nasa-tracers-launch/" >🔗</a> **[NASASpaceflight]** NASA’s TRACERS ready to offer insight on Earth’s magnetic field
 - <a href="https://www.nasa.gov/image-article/nasas-x-59-makes-a-move/" >🔗</a> **[NASA]** NASA’s X-59 Makes a Move
 - <a href="https://europeanspaceflight.com/genesis-sfl-secures-e300000-to-develop-gen-re-entry-capsule/" >🔗</a> **[European Spaceflight]** Genesis SFL Secures €300,000 to Develop Gen Re-Entry Capsule
@@ -104,8 +106,6 @@ Hitchhiking small satellites:
 - <a href="https://www.nasa.gov/news-release/nasas-spacex-crew-10-to-discuss-station-mission-upcoming-return/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-10 to Discuss Station Mission, Upcoming Return
 - <a href="https://spaceflightnow.com/2025/07/21/live-coverage-spacex-to-launch-2-o3b-mpower-satellites-for-ses-on-a-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 2 O3b mPOWER satellites for SES on a Falcon 9 rocket from Cape Canaveral
 - <a href="https://www.nasa.gov/news-release/nasa-goddard-center-director-makenzie-lystrup-set-to-depart/" >🔗</a> **[NASA]** NASA Goddard Center Director Makenzie Lystrup Set to Depart
-- <a href="https://www.nasa.gov/missions/juno/nasa-shares-how-to-save-camera-370-million-miles-away-near-jupiter/" >🔗</a> **[NASA]** NASA Shares How to Save Camera 370-Million-Miles Away Near Jupiter
-- <a href="https://science.nasa.gov/science-research/earth-science/globe-trotting-science-lands-in-chesapeake-with-nasa-eclips/" >🔗</a> **[NASA]** GLOBE-Trotting Science Lands in Chesapeake with NASA eClips
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ Hitchhiking small satellites:
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250722T170317">2025-07-22 17:03:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250722T173621">2025-07-22 17:36:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
