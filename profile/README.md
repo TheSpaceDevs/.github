@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/science-research/astrophysics/nasa-scientist-finds-predicted-companion-star-to-betelgeuse/" >🔗</a> **[NASA]** NASA Scientist Finds Predicted Companion Star to Betelgeuse
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-tests-5g-based-aviation-network-to-boost-air-taxi-connectivity/" >🔗</a> **[NASA]** NASA Tests 5G-Based Aviation Network to Boost Air Taxi Connectivity
 - <a href="https://www.nasa.gov/aeronautics/nasa-tests-mixed-reality-sim-in-vertical-motion-simulator/" >🔗</a> **[NASA]** NASA Tests Mixed Reality Pilot Simulation in Vertical Motion Simulator
 - <a href="https://www.nasa.gov/image-article/nasa-astronaut-jonny-kim-axiom-mission-4-commander-peggy-whitson-conduct-research-in-space/" >🔗</a> **[NASA]** NASA Astronaut Jonny Kim, Axiom Mission 4 Commander Peggy Whitson Conduct Research in Space
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/centers-and-facilities/gvis-history-glenn/" >🔗</a> **[NASA]** GVIS History
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/usbr-seal-team-fix-challenge/" >🔗</a> **[NASA]** USBR Seal Team Fix Challenge
 - <a href="https://science.nasa.gov/centers-and-facilities/goddard/nasa-jaxa-xrism-satellite-x-rays-milky-ways-sulfur/" >🔗</a> **[NASA]** NASA, JAXA XRISM Satellite X-rays Milky Way’s Sulfur
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-6/Sea-level_monitoring_satellite_Sentinel-6B_sets_sail" >🔗</a> **[ESA]** Sea-level monitoring satellite Sentinel-6B sets sail
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250723T200131">2025-07-23 20:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250723T203614">2025-07-23 20:36:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
