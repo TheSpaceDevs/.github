@@ -110,6 +110,9 @@ Hitchhiking small satellites:
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2025/07/faa-falcon-9-tracers-scrub/" >🔗</a> **[NASASpaceflight]** FAA caused Falcon 9 TRACERS launch scrub
+- <a href="https://spaceflightnow.com/2025/07/22/live-coverage-spacex-to-launch-nasas-tracers-satellites-on-rideshare-falcon-9-rocket-launch-from-vandenberg-sfb/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch NASA’s TRACERS satellites on rideshare Falcon 9 rocket launch from Vandenberg SFB
+- <a href="https://www.nasaspaceflight.com/2025/07/nasa-tracers-launch/" >🔗</a> **[NASASpaceflight]** NASA’s TRACERS ready to offer insight on Earth’s magnetic field
 - <a href="https://www.nasaspaceflight.com/2025/07/launch-roundup-072125/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Russian and European science missions to launch during busy week
 - <a href="https://science.nasa.gov/science-research/heliophysics/nasas-tracers-studies-explosive-process-in-earths-magnetic-shield/" >🔗</a> **[NASA]** NASA’s TRACERS Studies Explosive Process in Earth’s Magnetic Shield
 - <a href="https://www.nasa.gov/news-release/nasa-to-brief-media-on-new-mission-to-study-earths-magnetic-shield/" >🔗</a> **[NASA]** NASA to Brief Media on New Mission to Study Earth’s Magnetic Shield
@@ -117,7 +120,7 @@ Hitchhiking small satellites:
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250723T060202">2025-07-23 06:02:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250723T064220">2025-07-23 06:42:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
