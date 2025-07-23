@@ -96,6 +96,7 @@ Hitchhiking small satellites:
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4607-4608-deep-dip/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4607-4608: Deep Dip
 - <a href="https://www.nasaspaceflight.com/2025/07/faa-falcon-9-tracers-scrub/" >🔗</a> **[NASASpaceflight]** FAA caused Falcon 9 TRACERS launch scrub
 - <a href="https://science.nasa.gov/learning-resources/science-activation/nasa-eclips-stem-student-ambassadors-light-up-cnus-2025-stem-community-day/" >🔗</a> **[NASA]** NASA eClips STEM Student Ambassadors Light Up CNU’s 2025 STEM Community Day
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-challenge-wraps-student-teams-complete-space-suit-challenges/" >🔗</a> **[NASA]** NASA Challenge Wraps, Student Teams Complete Space Suit Challenges
@@ -105,7 +106,6 @@ Hitchhiking small satellites:
 - <a href="https://www.nasaspaceflight.com/2025/07/nasa-tracers-launch/" >🔗</a> **[NASASpaceflight]** NASA’s TRACERS ready to offer insight on Earth’s magnetic field
 - <a href="https://www.nasa.gov/image-article/nasas-x-59-makes-a-move/" >🔗</a> **[NASA]** NASA’s X-59 Makes a Move
 - <a href="https://europeanspaceflight.com/genesis-sfl-secures-e300000-to-develop-gen-re-entry-capsule/" >🔗</a> **[European Spaceflight]** Genesis SFL Secures €300,000 to Develop Gen Re-Entry Capsule
-- <a href="https://www.nasa.gov/humans-in-space/nasa-tests-new-heat-source-fuel-for-deep-space-exploration/" >🔗</a> **[NASA]** NASA Tests New Heat Source Fuel for Deep Space Exploration
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ Hitchhiking small satellites:
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250723T012932">2025-07-23 01:29:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250723T021855">2025-07-23 02:18:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
