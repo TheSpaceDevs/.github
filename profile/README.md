@@ -98,6 +98,7 @@ Hitchhiking small satellites:
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/07/Ignis_Mission_Return_to_Earth" >🔗</a> **[ESA]** Ignis Mission: Return to Earth
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/MetOp_Second_Generation/Watch_MetOp-SG-A1_and_Sentinel-5_media_briefing" >🔗</a> **[ESA]** Watch: MetOp-SG-A1 and Sentinel-5 media briefing
+- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Vega/Watch_live_Vega-C_to_launch_CO3D_and_MicroCarb" >🔗</a> **[ESA]** Watch live: Vega-C to launch CO3D and MicroCarb
 - <a href="https://spacepolicyonline.com/news/guetlein-says-golden-dome-architecture-will-be-ready-in-60-days/" >🔗</a> **[SpacePolicyOnline.com]** Guetlein Says Golden Dome Architecture Will Be Ready in 60 Days
 - <a href="https://science.nasa.gov/blog/feeling-the-heat-perseverance-looks-for-evidence-of-contact-metamorphism/" >🔗</a> **[NASA]** Feeling the Heat: Perseverance Looks for Evidence of Contact Metamorphism
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4607-4608-deep-dip/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4607-4608: Deep Dip
@@ -105,7 +106,6 @@ Hitchhiking small satellites:
 - <a href="https://science.nasa.gov/learning-resources/science-activation/nasa-eclips-stem-student-ambassadors-light-up-cnus-2025-stem-community-day/" >🔗</a> **[NASA]** NASA eClips STEM Student Ambassadors Light Up CNU’s 2025 STEM Community Day
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-challenge-wraps-student-teams-complete-space-suit-challenges/" >🔗</a> **[NASA]** NASA Challenge Wraps, Student Teams Complete Space Suit Challenges
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4604-4606-taking-a-deep-breath-of-martian-air/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4604-4606: Taking a Deep Breath of Martian Air
-- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-senegal-artemis-accords-signing-ceremony/" >🔗</a> **[NASA]** NASA Invites Media to Senegal Artemis Accords Signing Ceremony
 
 
 ### Launch-related News 🚀
@@ -120,7 +120,7 @@ Hitchhiking small satellites:
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250723T090412">2025-07-23 09:04:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250723T093824">2025-07-23 09:38:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
