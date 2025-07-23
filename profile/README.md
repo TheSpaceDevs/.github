@@ -96,16 +96,16 @@ Hitchhiking small satellites:
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/directorates/somd/space-communications-navigation-program/nasa-seeks-industry-concepts-on-moon-mars-communications/" >🔗</a> **[NASA]** NASA Seeks Industry Concepts on Moon, Mars Communications
+- <a href="https://www.nasa.gov/centers-and-facilities/glenn/gruve-lab-gvis-glenn/" >🔗</a> **[NASA]** GRUVE Lab
+- <a href="https://www.nasa.gov/centers-and-facilities/gvis-history-glenn/" >🔗</a> **[NASA]** GVIS History
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/usbr-seal-team-fix-challenge/" >🔗</a> **[NASA]** USBR Seal Team Fix Challenge
+- <a href="https://science.nasa.gov/centers-and-facilities/goddard/nasa-jaxa-xrism-satellite-x-rays-milky-ways-sulfur/" >🔗</a> **[NASA]** NASA, JAXA XRISM Satellite X-rays Milky Way’s Sulfur
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-6/Sea-level_monitoring_satellite_Sentinel-6B_sets_sail" >🔗</a> **[ESA]** Sea-level monitoring satellite Sentinel-6B sets sail
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/07/Ignis_Mission_Return_to_Earth" >🔗</a> **[ESA]** Ignis Mission: Return to Earth
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/MetOp_Second_Generation/Watch_MetOp-SG-A1_and_Sentinel-5_media_briefing" >🔗</a> **[ESA]** Watch: MetOp-SG-A1 and Sentinel-5 media briefing
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Vega/Watch_live_Vega-C_to_launch_CO3D_and_MicroCarb" >🔗</a> **[ESA]** Watch live: Vega-C to launch CO3D and MicroCarb
 - <a href="https://spacepolicyonline.com/news/guetlein-says-golden-dome-architecture-will-be-ready-in-60-days/" >🔗</a> **[SpacePolicyOnline.com]** Guetlein Says Golden Dome Architecture Will Be Ready in 60 Days
-- <a href="https://science.nasa.gov/blog/feeling-the-heat-perseverance-looks-for-evidence-of-contact-metamorphism/" >🔗</a> **[NASA]** Feeling the Heat: Perseverance Looks for Evidence of Contact Metamorphism
-- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4607-4608-deep-dip/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4607-4608: Deep Dip
-- <a href="https://www.nasaspaceflight.com/2025/07/faa-falcon-9-tracers-scrub/" >🔗</a> **[NASASpaceflight]** FAA caused Falcon 9 TRACERS launch scrub
-- <a href="https://science.nasa.gov/learning-resources/science-activation/nasa-eclips-stem-student-ambassadors-light-up-cnus-2025-stem-community-day/" >🔗</a> **[NASA]** NASA eClips STEM Student Ambassadors Light Up CNU’s 2025 STEM Community Day
 
 
 ### Launch-related News 🚀
@@ -120,7 +120,7 @@ Hitchhiking small satellites:
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250723T140215">2025-07-23 14:02:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250723T143752">2025-07-23 14:37:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
