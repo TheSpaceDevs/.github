@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/07/23/nasa-probes-to-study-how-the-solar-wind-triggers-potentially-dangerous-space-weather/" >🔗</a> **[Spaceflight Now]** NASA probes to study how the solar wind triggers potentially dangerous ‘space weather’
+- <a href="https://www.nasa.gov/news-release/nasa-sets-launch-coverage-for-earth-tracking-nisar-satellite/" >🔗</a> **[NASA]** NASA Sets Launch Coverage for Earth-Tracking NISAR Satellite
 - <a href="https://www.nasa.gov/science-research/astrophysics/nasa-scientist-finds-predicted-companion-star-to-betelgeuse/" >🔗</a> **[NASA]** NASA Scientist Finds Predicted Companion Star to Betelgeuse
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-tests-5g-based-aviation-network-to-boost-air-taxi-connectivity/" >🔗</a> **[NASA]** NASA Tests 5G-Based Aviation Network to Boost Air Taxi Connectivity
 - <a href="https://www.nasa.gov/aeronautics/nasa-tests-mixed-reality-sim-in-vertical-motion-simulator/" >🔗</a> **[NASA]** NASA Tests Mixed Reality Pilot Simulation in Vertical Motion Simulator
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/directorates/somd/space-communications-navigation-program/nasa-seeks-industry-concepts-on-moon-mars-communications/" >🔗</a> **[NASA]** NASA Seeks Industry Concepts on Moon, Mars Communications
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/gruve-lab-gvis-glenn/" >🔗</a> **[NASA]** GRUVE Lab
 - <a href="https://www.nasa.gov/centers-and-facilities/gvis-history-glenn/" >🔗</a> **[NASA]** GVIS History
-- <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/usbr-seal-team-fix-challenge/" >🔗</a> **[NASA]** USBR Seal Team Fix Challenge
-- <a href="https://science.nasa.gov/centers-and-facilities/goddard/nasa-jaxa-xrism-satellite-x-rays-milky-ways-sulfur/" >🔗</a> **[NASA]** NASA, JAXA XRISM Satellite X-rays Milky Way’s Sulfur
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250723T210127">2025-07-23 21:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250723T213431">2025-07-23 21:34:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
