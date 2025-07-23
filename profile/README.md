@@ -96,6 +96,7 @@ Hitchhiking small satellites:
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-6/Sea-level_monitoring_satellite_Sentinel-6B_sets_sail" >🔗</a> **[ESA]** Sea-level monitoring satellite Sentinel-6B sets sail
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/07/Ignis_Mission_Return_to_Earth" >🔗</a> **[ESA]** Ignis Mission: Return to Earth
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/MetOp_Second_Generation/Watch_MetOp-SG-A1_and_Sentinel-5_media_briefing" >🔗</a> **[ESA]** Watch: MetOp-SG-A1 and Sentinel-5 media briefing
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Vega/Watch_live_Vega-C_to_launch_CO3D_and_MicroCarb" >🔗</a> **[ESA]** Watch live: Vega-C to launch CO3D and MicroCarb
@@ -105,7 +106,6 @@ Hitchhiking small satellites:
 - <a href="https://www.nasaspaceflight.com/2025/07/faa-falcon-9-tracers-scrub/" >🔗</a> **[NASASpaceflight]** FAA caused Falcon 9 TRACERS launch scrub
 - <a href="https://science.nasa.gov/learning-resources/science-activation/nasa-eclips-stem-student-ambassadors-light-up-cnus-2025-stem-community-day/" >🔗</a> **[NASA]** NASA eClips STEM Student Ambassadors Light Up CNU’s 2025 STEM Community Day
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-challenge-wraps-student-teams-complete-space-suit-challenges/" >🔗</a> **[NASA]** NASA Challenge Wraps, Student Teams Complete Space Suit Challenges
-- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4604-4606-taking-a-deep-breath-of-martian-air/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4604-4606: Taking a Deep Breath of Martian Air
 
 
 ### Launch-related News 🚀
@@ -120,7 +120,7 @@ Hitchhiking small satellites:
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250723T110123">2025-07-23 11:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250723T113324">2025-07-23 11:33:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
