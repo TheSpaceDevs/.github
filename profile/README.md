@@ -96,6 +96,7 @@ Hitchhiking small satellites:
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/aeronautics/nasa-tests-mixed-reality-sim-in-vertical-motion-simulator/" >🔗</a> **[NASA]** NASA Tests Mixed Reality Pilot Simulation in Vertical Motion Simulator
 - <a href="https://www.nasa.gov/image-article/nasa-astronaut-jonny-kim-axiom-mission-4-commander-peggy-whitson-conduct-research-in-space/" >🔗</a> **[NASA]** NASA Astronaut Jonny Kim, Axiom Mission 4 Commander Peggy Whitson Conduct Research in Space
 - <a href="https://science.nasa.gov/science-research/heliophysics/radio-jove-volunteers-tune-in-to-the-suns-low-notes/" >🔗</a> **[NASA]** Radio JOVE Volunteers Tune In to the Sun’s Low Notes
 - <a href="https://www.nasa.gov/directorates/somd/space-communications-navigation-program/nasa-seeks-industry-concepts-on-moon-mars-communications/" >🔗</a> **[NASA]** NASA Seeks Industry Concepts on Moon, Mars Communications
@@ -105,7 +106,6 @@ Hitchhiking small satellites:
 - <a href="https://science.nasa.gov/centers-and-facilities/goddard/nasa-jaxa-xrism-satellite-x-rays-milky-ways-sulfur/" >🔗</a> **[NASA]** NASA, JAXA XRISM Satellite X-rays Milky Way’s Sulfur
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-6/Sea-level_monitoring_satellite_Sentinel-6B_sets_sail" >🔗</a> **[ESA]** Sea-level monitoring satellite Sentinel-6B sets sail
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/07/Ignis_Mission_Return_to_Earth" >🔗</a> **[ESA]** Ignis Mission: Return to Earth
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/MetOp_Second_Generation/Watch_MetOp-SG-A1_and_Sentinel-5_media_briefing" >🔗</a> **[ESA]** Watch: MetOp-SG-A1 and Sentinel-5 media briefing
 
 
 ### Launch-related News 🚀
@@ -120,7 +120,7 @@ Hitchhiking small satellites:
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250723T170339">2025-07-23 17:03:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250723T173627">2025-07-23 17:36:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
