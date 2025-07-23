@@ -96,6 +96,8 @@ Hitchhiking small satellites:
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/guetlein-says-golden-dome-architecture-will-be-ready-in-60-days/" >🔗</a> **[SpacePolicyOnline.com]** Guetlein Says Golden Dome Architecture Will Be Ready in 60 Days
+- <a href="https://science.nasa.gov/blog/feeling-the-heat-perseverance-looks-for-evidence-of-contact-metamorphism/" >🔗</a> **[NASA]** Feeling the Heat: Perseverance Looks for Evidence of Contact Metamorphism
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4607-4608-deep-dip/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4607-4608: Deep Dip
 - <a href="https://www.nasaspaceflight.com/2025/07/faa-falcon-9-tracers-scrub/" >🔗</a> **[NASASpaceflight]** FAA caused Falcon 9 TRACERS launch scrub
 - <a href="https://science.nasa.gov/learning-resources/science-activation/nasa-eclips-stem-student-ambassadors-light-up-cnus-2025-stem-community-day/" >🔗</a> **[NASA]** NASA eClips STEM Student Ambassadors Light Up CNU’s 2025 STEM Community Day
@@ -104,8 +106,6 @@ Hitchhiking small satellites:
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-senegal-artemis-accords-signing-ceremony/" >🔗</a> **[NASA]** NASA Invites Media to Senegal Artemis Accords Signing Ceremony
 - <a href="https://spaceflightnow.com/2025/07/22/live-coverage-spacex-to-launch-nasas-tracers-satellites-on-rideshare-falcon-9-rocket-launch-from-vandenberg-sfb/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch NASA’s TRACERS satellites on rideshare Falcon 9 rocket launch from Vandenberg SFB
 - <a href="https://www.nasaspaceflight.com/2025/07/nasa-tracers-launch/" >🔗</a> **[NASASpaceflight]** NASA’s TRACERS ready to offer insight on Earth’s magnetic field
-- <a href="https://www.nasa.gov/image-article/nasas-x-59-makes-a-move/" >🔗</a> **[NASA]** NASA’s X-59 Makes a Move
-- <a href="https://europeanspaceflight.com/genesis-sfl-secures-e300000-to-develop-gen-re-entry-capsule/" >🔗</a> **[European Spaceflight]** Genesis SFL Secures €300,000 to Develop Gen Re-Entry Capsule
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ Hitchhiking small satellites:
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250723T030717">2025-07-23 03:07:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250723T035136">2025-07-23 03:51:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
