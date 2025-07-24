@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/MetOp_Second_Generation/First_MetOp_Second_Generation_satellite_fuelled" >🔗</a> **[ESA]** First MetOp Second Generation satellite fuelled
 - <a href="https://www.nasa.gov/news-release/nasa-launches-mission-to-study-earths-magnetic-shield/" >🔗</a> **[NASA]** NASA Launches Mission to Study Earth’s Magnetic Shield
 - <a href="https://spaceflightnow.com/2025/07/23/nasa-probes-to-study-how-the-solar-wind-triggers-potentially-dangerous-space-weather/" >🔗</a> **[Spaceflight Now]** NASA probes to study how the solar wind triggers potentially dangerous ‘space weather’
 - <a href="https://www.nasa.gov/news-release/nasa-sets-launch-coverage-for-earth-tracking-nisar-satellite/" >🔗</a> **[NASA]** NASA Sets Launch Coverage for Earth-Tracking NISAR Satellite
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/image-article/nasa-astronaut-jonny-kim-axiom-mission-4-commander-peggy-whitson-conduct-research-in-space/" >🔗</a> **[NASA]** NASA Astronaut Jonny Kim, Axiom Mission 4 Commander Peggy Whitson Conduct Research in Space
 - <a href="https://science.nasa.gov/science-research/heliophysics/radio-jove-volunteers-tune-in-to-the-suns-low-notes/" >🔗</a> **[NASA]** Radio JOVE Volunteers Tune In to the Sun’s Low Notes
 - <a href="https://www.nasa.gov/directorates/somd/space-communications-navigation-program/nasa-seeks-industry-concepts-on-moon-mars-communications/" >🔗</a> **[NASA]** NASA Seeks Industry Concepts on Moon, Mars Communications
-- <a href="https://www.nasa.gov/centers-and-facilities/glenn/gruve-lab-gvis-glenn/" >🔗</a> **[NASA]** GRUVE Lab
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250724T090343">2025-07-24 09:03:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250724T093717">2025-07-24 09:37:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
