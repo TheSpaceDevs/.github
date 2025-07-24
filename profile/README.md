@@ -104,6 +104,7 @@ The following science instruments are carried on the satellites:
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/07/24/amazon-says-139-5-million-investment-in-florida-is-key-to-ramping-up-launch-cadence-with-project-kuiper/" >🔗</a> **[Spaceflight Now]** Amazon says $139.5 million investment in Florida is key to ramping up launch cadence with Project Kuiper
 - <a href="https://www.nasa.gov/image-article/first-rocket-launch-from-cape-canaveral/" >🔗</a> **[NASA]** First Rocket Launch from Cape Canaveral
 - <a href="https://www.nasa.gov/science-research/earth-science/how-nasa-is-testing-ai-to-make-earth-observing-satellites-smarter/" >🔗</a> **[NASA]** How NASA Is Testing AI to Make Earth-Observing Satellites Smarter
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-chandra-spot-rare-type-of-black-hole-eating-a-star/" >🔗</a> **[NASA]** NASA’s Hubble, Chandra Spot Rare Type of Black Hole Eating a Star
@@ -113,7 +114,6 @@ The following science instruments are carried on the satellites:
 - <a href="https://spaceflightnow.com/2025/07/23/nasa-probes-to-study-how-the-solar-wind-triggers-potentially-dangerous-space-weather/" >🔗</a> **[Spaceflight Now]** NASA probes to study how the solar wind triggers potentially dangerous ‘space weather’
 - <a href="https://www.nasa.gov/news-release/nasa-sets-launch-coverage-for-earth-tracking-nisar-satellite/" >🔗</a> **[NASA]** NASA Sets Launch Coverage for Earth-Tracking NISAR Satellite
 - <a href="https://www.nasa.gov/science-research/astrophysics/nasa-scientist-finds-predicted-companion-star-to-betelgeuse/" >🔗</a> **[NASA]** NASA Scientist Finds Predicted Companion Star to Betelgeuse
-- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-tests-5g-based-aviation-network-to-boost-air-taxi-connectivity/" >🔗</a> **[NASA]** NASA Tests 5G-Based Aviation Network to Boost Air Taxi Connectivity
 
 
 ### Launch-related News 🚀
@@ -123,7 +123,7 @@ The following science instruments are carried on the satellites:
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250724T190224">2025-07-24 19:02:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250724T193229">2025-07-24 19:32:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
