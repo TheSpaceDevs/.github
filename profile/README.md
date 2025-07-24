@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/first-rocket-launch-from-cape-canaveral/" >🔗</a> **[NASA]** First Rocket Launch from Cape Canaveral
 - <a href="https://www.nasa.gov/science-research/earth-science/how-nasa-is-testing-ai-to-make-earth-observing-satellites-smarter/" >🔗</a> **[NASA]** How NASA Is Testing AI to Make Earth-Observing Satellites Smarter
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-chandra-spot-rare-type-of-black-hole-eating-a-star/" >🔗</a> **[NASA]** NASA’s Hubble, Chandra Spot Rare Type of Black Hole Eating a Star
 - <a href="https://europeanspaceflight.com/esa-establishes-human-and-robotic-exploration-biobank-in-portugal/" >🔗</a> **[European Spaceflight]** ESA Establishes Human and Robotic Exploration Biobank in Portugal
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/news-release/nasa-sets-launch-coverage-for-earth-tracking-nisar-satellite/" >🔗</a> **[NASA]** NASA Sets Launch Coverage for Earth-Tracking NISAR Satellite
 - <a href="https://www.nasa.gov/science-research/astrophysics/nasa-scientist-finds-predicted-companion-star-to-betelgeuse/" >🔗</a> **[NASA]** NASA Scientist Finds Predicted Companion Star to Betelgeuse
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-tests-5g-based-aviation-network-to-boost-air-taxi-connectivity/" >🔗</a> **[NASA]** NASA Tests 5G-Based Aviation Network to Boost Air Taxi Connectivity
-- <a href="https://www.nasa.gov/aeronautics/nasa-tests-mixed-reality-sim-in-vertical-motion-simulator/" >🔗</a> **[NASA]** NASA Tests Mixed Reality Pilot Simulation in Vertical Motion Simulator
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250724T160138">2025-07-24 16:01:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250724T163830">2025-07-24 16:38:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
