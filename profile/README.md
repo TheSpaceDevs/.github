@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-chandra-spot-rare-type-of-black-hole-eating-a-star/" >🔗</a> **[NASA]** NASA’s Hubble, Chandra Spot Rare Type of Black Hole Eating a Star
 - <a href="https://europeanspaceflight.com/esa-establishes-human-and-robotic-exploration-biobank-in-portugal/" >🔗</a> **[European Spaceflight]** ESA Establishes Human and Robotic Exploration Biobank in Portugal
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/MetOp_Second_Generation/First_MetOp_Second_Generation_satellite_fuelled" >🔗</a> **[ESA]** First MetOp Second Generation satellite fuelled
 - <a href="https://www.nasa.gov/news-release/nasa-launches-mission-to-study-earths-magnetic-shield/" >🔗</a> **[NASA]** NASA Launches Mission to Study Earth’s Magnetic Shield
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-tests-5g-based-aviation-network-to-boost-air-taxi-connectivity/" >🔗</a> **[NASA]** NASA Tests 5G-Based Aviation Network to Boost Air Taxi Connectivity
 - <a href="https://www.nasa.gov/aeronautics/nasa-tests-mixed-reality-sim-in-vertical-motion-simulator/" >🔗</a> **[NASA]** NASA Tests Mixed Reality Pilot Simulation in Vertical Motion Simulator
 - <a href="https://www.nasa.gov/image-article/nasa-astronaut-jonny-kim-axiom-mission-4-commander-peggy-whitson-conduct-research-in-space/" >🔗</a> **[NASA]** NASA Astronaut Jonny Kim, Axiom Mission 4 Commander Peggy Whitson Conduct Research in Space
-- <a href="https://science.nasa.gov/science-research/heliophysics/radio-jove-volunteers-tune-in-to-the-suns-low-notes/" >🔗</a> **[NASA]** Radio JOVE Volunteers Tune In to the Sun’s Low Notes
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250724T140230">2025-07-24 14:02:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250724T143738">2025-07-24 14:37:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
