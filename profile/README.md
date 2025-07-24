@@ -104,6 +104,8 @@ The following science instruments are carried on the satellites:
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/07/ionosfera-34-launch/" >🔗</a> **[NASASpaceflight]** Roscosmos Ionosfera science mission to launch atop Soyuz from Vostochny Cosmodrome
+- <a href="https://www.nasa.gov/news-release/nasa-welcomes-senegal-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Senegal as Newest Artemis Accords Signatory
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-agencys-spacex-crew-11-launch-docking/" >🔗</a> **[NASA]** NASA Sets Coverage for Agency’s SpaceX Crew-11 Launch, Docking
 - <a href="https://spaceflightnow.com/2025/07/24/amazon-says-139-5-million-investment-in-florida-is-key-to-ramping-up-launch-cadence-with-project-kuiper/" >🔗</a> **[Spaceflight Now]** Amazon says $139.5 million investment in Florida is key to ramping up launch cadence with Project Kuiper
 - <a href="https://www.nasa.gov/image-article/first-rocket-launch-from-cape-canaveral/" >🔗</a> **[NASA]** First Rocket Launch from Cape Canaveral
@@ -112,8 +114,6 @@ The following science instruments are carried on the satellites:
 - <a href="https://europeanspaceflight.com/esa-establishes-human-and-robotic-exploration-biobank-in-portugal/" >🔗</a> **[European Spaceflight]** ESA Establishes Human and Robotic Exploration Biobank in Portugal
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/MetOp_Second_Generation/First_MetOp_Second_Generation_satellite_fuelled" >🔗</a> **[ESA]** First MetOp Second Generation satellite fuelled
 - <a href="https://www.nasa.gov/news-release/nasa-launches-mission-to-study-earths-magnetic-shield/" >🔗</a> **[NASA]** NASA Launches Mission to Study Earth’s Magnetic Shield
-- <a href="https://spaceflightnow.com/2025/07/23/nasa-probes-to-study-how-the-solar-wind-triggers-potentially-dangerous-space-weather/" >🔗</a> **[Spaceflight Now]** NASA probes to study how the solar wind triggers potentially dangerous ‘space weather’
-- <a href="https://www.nasa.gov/news-release/nasa-sets-launch-coverage-for-earth-tracking-nisar-satellite/" >🔗</a> **[NASA]** NASA Sets Launch Coverage for Earth-Tracking NISAR Satellite
 
 
 ### Launch-related News 🚀
@@ -123,7 +123,7 @@ The following science instruments are carried on the satellites:
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250724T210129">2025-07-24 21:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250724T213420">2025-07-24 21:34:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
