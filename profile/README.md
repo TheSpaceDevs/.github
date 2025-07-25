@@ -90,6 +90,8 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/07/Earth_from_Space_Kuwaiti_waters" >🔗</a> **[ESA]** Earth from Space: Kuwaiti waters
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/07/Space_pierogi_bite" >🔗</a> **[ESA]** Space pierogi bite
 - <a href="https://spacepolicyonline.com/news/mars-sample-return-gets-a-lifeline-from-house-appropriators/" >🔗</a> **[SpacePolicyOnline.com]** Mars Sample Return Gets a Lifeline from House Appropriators
 - <a href="https://www.nasaspaceflight.com/2025/07/ionosfera-34-launch/" >🔗</a> **[NASASpaceflight]** Roscosmos Ionosfera science mission to launch atop Soyuz from Vostochny Cosmodrome
 - <a href="https://www.nasa.gov/news-release/nasa-welcomes-senegal-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Senegal as Newest Artemis Accords Signatory
@@ -98,8 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasa.gov/image-article/first-rocket-launch-from-cape-canaveral/" >🔗</a> **[NASA]** First Rocket Launch from Cape Canaveral
 - <a href="https://www.nasa.gov/science-research/earth-science/how-nasa-is-testing-ai-to-make-earth-observing-satellites-smarter/" >🔗</a> **[NASA]** How NASA Is Testing AI to Make Earth-Observing Satellites Smarter
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-chandra-spot-rare-type-of-black-hole-eating-a-star/" >🔗</a> **[NASA]** NASA’s Hubble, Chandra Spot Rare Type of Black Hole Eating a Star
-- <a href="https://europeanspaceflight.com/esa-establishes-human-and-robotic-exploration-biobank-in-portugal/" >🔗</a> **[European Spaceflight]** ESA Establishes Human and Robotic Exploration Biobank in Portugal
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/MetOp_Second_Generation/First_MetOp_Second_Generation_satellite_fuelled" >🔗</a> **[ESA]** First MetOp Second Generation satellite fuelled
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250725T080145">2025-07-25 08:01:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250725T083929">2025-07-25 08:39:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
