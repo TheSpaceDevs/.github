@@ -90,6 +90,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/missions/hubble/hubble-spies-swirling-spiral/" >🔗</a> **[NASA]** Hubble Spies Swirling Spiral
 - <a href="https://europeanspaceflight.com/dassault-ceo-pushing-for-vortex-to-be-adopted-as-an-esa-project/" >🔗</a> **[European Spaceflight]** Dassault CEO Pushing for VORTEX to be Adopted as an ESA Project
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/07/Earth_from_Space_Kuwaiti_waters" >🔗</a> **[ESA]** Earth from Space: Kuwaiti waters
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/07/Space_pierogi_bite" >🔗</a> **[ESA]** Space pierogi bite
@@ -99,7 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-agencys-spacex-crew-11-launch-docking/" >🔗</a> **[NASA]** NASA Sets Coverage for Agency’s SpaceX Crew-11 Launch, Docking
 - <a href="https://spaceflightnow.com/2025/07/24/amazon-says-139-5-million-investment-in-florida-is-key-to-ramping-up-launch-cadence-with-project-kuiper/" >🔗</a> **[Spaceflight Now]** Amazon says $139.5 million investment in Florida is key to ramping up launch cadence with Project Kuiper
 - <a href="https://www.nasa.gov/image-article/first-rocket-launch-from-cape-canaveral/" >🔗</a> **[NASA]** First Rocket Launch from Cape Canaveral
-- <a href="https://www.nasa.gov/science-research/earth-science/how-nasa-is-testing-ai-to-make-earth-observing-satellites-smarter/" >🔗</a> **[NASA]** How NASA Is Testing AI to Make Earth-Observing Satellites Smarter
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250725T110130">2025-07-25 11:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250725T113315">2025-07-25 11:33:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
