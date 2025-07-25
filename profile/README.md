@@ -90,16 +90,16 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-spacexs-33rd-resupply-launch-to-space-station/" >🔗</a> **[NASA]** NASA Invites Media to SpaceX’s 33rd Resupply Launch to Space Station
+- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-rehearses-how-to-measure-x-59s-noise-levels/" >🔗</a> **[NASA]** NASA Rehearses How to Measure X-59’s Noise Levels
+- <a href="https://www.nasaspaceflight.com/2025/07/spaceport-upgrades-2025/" >🔗</a> **[NASASpaceflight]** Cape Canaveral infrastructure and support sees upgrades as launch cadence rapidy increases
+- <a href="https://www.nasa.gov/missions/station/commercial-crew/nasa-invites-virtual-guests-to-spacex-crew-11-mission-launch/" >🔗</a> **[NASA]** NASA Invites Virtual Guests to SpaceX Crew-11 Mission Launch
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_21-25_July_2025" >🔗</a> **[ESA]** Week in images: 21-25 July 2025
 - <a href="https://science.nasa.gov/missions/hubble/hubble-spies-swirling-spiral/" >🔗</a> **[NASA]** Hubble Spies Swirling Spiral
 - <a href="https://europeanspaceflight.com/dassault-ceo-pushing-for-vortex-to-be-adopted-as-an-esa-project/" >🔗</a> **[European Spaceflight]** Dassault CEO Pushing for VORTEX to be Adopted as an ESA Project
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/07/Earth_from_Space_Kuwaiti_waters" >🔗</a> **[ESA]** Earth from Space: Kuwaiti waters
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/07/Space_pierogi_bite" >🔗</a> **[ESA]** Space pierogi bite
 - <a href="https://spacepolicyonline.com/news/mars-sample-return-gets-a-lifeline-from-house-appropriators/" >🔗</a> **[SpacePolicyOnline.com]** Mars Sample Return Gets a Lifeline from House Appropriators
-- <a href="https://www.nasaspaceflight.com/2025/07/ionosfera-34-launch/" >🔗</a> **[NASASpaceflight]** Roscosmos Ionosfera science mission to launch atop Soyuz from Vostochny Cosmodrome
-- <a href="https://www.nasa.gov/news-release/nasa-welcomes-senegal-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Senegal as Newest Artemis Accords Signatory
-- <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-agencys-spacex-crew-11-launch-docking/" >🔗</a> **[NASA]** NASA Sets Coverage for Agency’s SpaceX Crew-11 Launch, Docking
-- <a href="https://spaceflightnow.com/2025/07/24/amazon-says-139-5-million-investment-in-florida-is-key-to-ramping-up-launch-cadence-with-project-kuiper/" >🔗</a> **[Spaceflight Now]** Amazon says $139.5 million investment in Florida is key to ramping up launch cadence with Project Kuiper
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250725T170243">2025-07-25 17:02:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250725T173621">2025-07-25 17:36:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
