@@ -104,6 +104,7 @@ The following science instruments are carried on the satellites:
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/mars-sample-return-gets-a-lifeline-from-house-appropriators/" >🔗</a> **[SpacePolicyOnline.com]** Mars Sample Return Gets a Lifeline from House Appropriators
 - <a href="https://www.nasaspaceflight.com/2025/07/ionosfera-34-launch/" >🔗</a> **[NASASpaceflight]** Roscosmos Ionosfera science mission to launch atop Soyuz from Vostochny Cosmodrome
 - <a href="https://www.nasa.gov/news-release/nasa-welcomes-senegal-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Senegal as Newest Artemis Accords Signatory
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-agencys-spacex-crew-11-launch-docking/" >🔗</a> **[NASA]** NASA Sets Coverage for Agency’s SpaceX Crew-11 Launch, Docking
@@ -113,7 +114,6 @@ The following science instruments are carried on the satellites:
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-chandra-spot-rare-type-of-black-hole-eating-a-star/" >🔗</a> **[NASA]** NASA’s Hubble, Chandra Spot Rare Type of Black Hole Eating a Star
 - <a href="https://europeanspaceflight.com/esa-establishes-human-and-robotic-exploration-biobank-in-portugal/" >🔗</a> **[European Spaceflight]** ESA Establishes Human and Robotic Exploration Biobank in Portugal
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/MetOp_Second_Generation/First_MetOp_Second_Generation_satellite_fuelled" >🔗</a> **[ESA]** First MetOp Second Generation satellite fuelled
-- <a href="https://www.nasa.gov/news-release/nasa-launches-mission-to-study-earths-magnetic-shield/" >🔗</a> **[NASA]** NASA Launches Mission to Study Earth’s Magnetic Shield
 
 
 ### Launch-related News 🚀
@@ -123,7 +123,7 @@ The following science instruments are carried on the satellites:
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250725T000526">2025-07-25 00:05:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250725T004603">2025-07-25 00:46:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
