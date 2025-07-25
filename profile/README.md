@@ -90,6 +90,8 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/07/25/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-7/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Cape Canaveral
+- <a href="https://www.nasa.gov/image-article/celebrating-25-years-of-continuous-human-presence-aboard-the-international-space-station/" >🔗</a> **[NASA]** Celebrating 25 Years of Continuous Human Presence Aboard the International Space Station
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-spacexs-33rd-resupply-launch-to-space-station/" >🔗</a> **[NASA]** NASA Invites Media to SpaceX’s 33rd Resupply Launch to Space Station
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-rehearses-how-to-measure-x-59s-noise-levels/" >🔗</a> **[NASA]** NASA Rehearses How to Measure X-59’s Noise Levels
 - <a href="https://www.nasaspaceflight.com/2025/07/spaceport-upgrades-2025/" >🔗</a> **[NASASpaceflight]** Cape Canaveral infrastructure and support sees upgrades as launch cadence rapidy increases
@@ -98,8 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://science.nasa.gov/missions/hubble/hubble-spies-swirling-spiral/" >🔗</a> **[NASA]** Hubble Spies Swirling Spiral
 - <a href="https://europeanspaceflight.com/dassault-ceo-pushing-for-vortex-to-be-adopted-as-an-esa-project/" >🔗</a> **[European Spaceflight]** Dassault CEO Pushing for VORTEX to be Adopted as an ESA Project
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/07/Earth_from_Space_Kuwaiti_waters" >🔗</a> **[ESA]** Earth from Space: Kuwaiti waters
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/07/Space_pierogi_bite" >🔗</a> **[ESA]** Space pierogi bite
-- <a href="https://spacepolicyonline.com/news/mars-sample-return-gets-a-lifeline-from-house-appropriators/" >🔗</a> **[SpacePolicyOnline.com]** Mars Sample Return Gets a Lifeline from House Appropriators
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250725T200126">2025-07-25 20:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250725T203553">2025-07-25 20:35:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
