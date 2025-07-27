@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/07/crew-11-arrives-ksc-launch/" >🔗</a> **[NASASpaceflight]** Crew-11 Arrives at Kennedy Space Center Ahead of Launch
 - <a href="https://spaceflightnow.com/2025/07/26/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://spaceflightnow.com/2025/07/26/crew-11-astronauts-cosmonaut-arrive-in-florida-ahead-of-launch-to-the-space-station/" >🔗</a> **[Spaceflight Now]** Crew-11 astronauts, cosmonaut arrive in Florida ahead of launch to the space station
 - <a href="https://spacepolicyonline.com/news/one-fifth-of-nasas-workforce-take-voluntary-departure-options/" >🔗</a> **[SpacePolicyOnline.com]** One Fifth of NASA’s Workforce Take Voluntary Departure Options
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/celebrating-25-years-of-continuous-human-presence-aboard-the-international-space-station/" >🔗</a> **[NASA]** Celebrating 25 Years of Continuous Human Presence Aboard the International Space Station
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-spacexs-33rd-resupply-launch-to-space-station/" >🔗</a> **[NASA]** NASA Invites Media to SpaceX’s 33rd Resupply Launch to Space Station
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-rehearses-how-to-measure-x-59s-noise-levels/" >🔗</a> **[NASA]** NASA Rehearses How to Measure X-59’s Noise Levels
-- <a href="https://www.nasaspaceflight.com/2025/07/spaceport-upgrades-2025/" >🔗</a> **[NASASpaceflight]** Cape Canaveral infrastructure and support sees upgrades as launch cadence rapidy increases
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250727T000603">2025-07-27 00:06:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250727T004757">2025-07-27 00:47:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
