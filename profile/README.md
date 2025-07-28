@@ -89,16 +89,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/join-second-lady-usha-vance-as-she-reads-to-children-at-nasa-johnson/" >🔗</a> **[NASA]** Join Second Lady Usha Vance as She Reads to Children at NASA Johnson
 - <a href="https://www.nasaspaceflight.com/2025/07/launch-roundup-072825/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX to launch Crew-11 to ISS; ISRO and NASA launch new SAR satellite
-- <a href="https://www.nasa.gov/general/svec-parking-information/" >🔗</a> **[NASA]** Silicon Valley Event Center – Parking Information
 - <a href="https://www.nasa.gov/general/arc-svec-lodging/" >🔗</a> **[NASA]** Ames Exchange Lodging Info
+- <a href="https://www.nasa.gov/general/svec-parking-information/" >🔗</a> **[NASA]** Silicon Valley Event Center – Parking Information
 - <a href="https://www.nasa.gov/general/svec-events/" >🔗</a> **[NASA]** NASA Silicon Valley Event Center – Calendar of Events
 - <a href="https://www.nasa.gov/general/visiting-svec/" >🔗</a> **[NASA]** Visiting the NASA Silicon Valley Event Center
 - <a href="https://www.nasa.gov/news-release/nasa-selects-human-space-flight-technical-integration-contractor/" >🔗</a> **[NASA]** NASA Selects Human Space Flight Technical Integration Contractor
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4609-4610-recharged-and-ready-to-roll-onwards/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4609–4610: Recharged and Ready To Roll Onwards
 - <a href="https://science.nasa.gov/uncategorized/2025-nasa-space-apps/" >🔗</a> **[NASA]** 2025 NASA Space Apps Challenge
 - <a href="https://science.nasa.gov/uncategorized/osdr-chats-begum-mathyk/" >🔗</a> **[NASA]** OSDR Chats with Begum Mathyk
-- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-drop-test-supports-safer-air-taxi-design-and-certification/" >🔗</a> **[NASA]** NASA Drop Test Supports Safer Air Taxi Design and Certification
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250728T230130">2025-07-28 23:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250728T233528">2025-07-28 23:35:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
