@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/07/28/live-coverage-spacex-to-perform-a-static-fire-test-of-its-falcon-9-rocket-ahead-of-the-crew-11-launch/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to perform a static fire test of its Falcon 9 rocket ahead of the Crew-11 launch
+- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Europe_s_new_carbon-monitoring_mission_launches_on_Vega-C" >🔗</a> **[ESA]** Europe’s new carbon-monitoring mission launches on Vega-C
 - <a href="https://www.nasa.gov/centers-and-facilities/white-sands/melissa-john-champions-environmental-stewardship-at-white-sands/" >🔗</a> **[NASA]** Melissa John Champions Environmental Stewardship at White Sands
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-27-august-2-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy July 27-August 2, 2025
 - <a href="https://www.nasaspaceflight.com/2025/07/crew-11-arrives-ksc-launch/" >🔗</a> **[NASASpaceflight]** Crew-11 Arrives at Kennedy Space Center Ahead of Launch
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/one-fifth-of-nasas-workforce-take-voluntary-departure-options/" >🔗</a> **[SpacePolicyOnline.com]** One Fifth of NASA’s Workforce Take Voluntary Departure Options
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/07/Vega-C_VV27" >🔗</a> **[ESA]** Vega-C VV27
 - <a href="https://www.nasaspaceflight.com/2025/07/space-report-tracers-starlink-o3b/" >🔗</a> **[NASASpaceflight]** Space Traffic Report: Busy Week for Falcon 9: TRACERS, Starlink & O3b Satellites!
-- <a href="https://spaceflightnow.com/2025/07/25/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-7/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Cape Canaveral
-- <a href="https://www.nasa.gov/image-article/celebrating-25-years-of-continuous-human-presence-aboard-the-international-space-station/" >🔗</a> **[NASA]** Celebrating 25 Years of Continuous Human Presence Aboard the International Space Station
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250728T131340">2025-07-28 13:13:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250728T134244">2025-07-28 13:42:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
