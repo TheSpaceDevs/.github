@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/uncategorized/2025-nasa-space-apps/" >🔗</a> **[NASA]** 2025 NASA Space Apps Challenge
+- <a href="https://science.nasa.gov/uncategorized/osdr-chats-begum-mathyk/" >🔗</a> **[NASA]** OSDR Chats with Begum Mathyk
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-drop-test-supports-safer-air-taxi-design-and-certification/" >🔗</a> **[NASA]** NASA Drop Test Supports Safer Air Taxi Design and Certification
 - <a href="https://www.nasa.gov/image-article/hubble-spies-swirling-spiral/" >🔗</a> **[NASA]** Hubble Spies Swirling Spiral
 - <a href="https://arstechnica.com/space/2025/07/a-secretive-space-plane-is-set-to-launch-and-test-quantum-navigation-technology/" >🔗</a> **[Arstechnica]** A secretive space plane is set to launch and test quantum navigation technology
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/white-sands/melissa-john-champions-environmental-stewardship-at-white-sands/" >🔗</a> **[NASA]** Melissa John Champions Environmental Stewardship at White Sands
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-27-august-2-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy July 27-August 2, 2025
 - <a href="https://www.nasaspaceflight.com/2025/07/crew-11-arrives-ksc-launch/" >🔗</a> **[NASASpaceflight]** Crew-11 Arrives at Kennedy Space Center Ahead of Launch
-- <a href="https://spaceflightnow.com/2025/07/26/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
-- <a href="https://spaceflightnow.com/2025/07/26/crew-11-astronauts-cosmonaut-arrive-in-florida-ahead-of-launch-to-the-space-station/" >🔗</a> **[Spaceflight Now]** Crew-11 astronauts, cosmonaut arrive in Florida ahead of launch to the space station
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250728T190313">2025-07-28 19:03:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250728T193309">2025-07-28 19:33:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
