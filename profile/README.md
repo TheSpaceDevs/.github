@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-selects-human-space-flight-technical-integration-contractor/" >🔗</a> **[NASA]** NASA Selects Human Space Flight Technical Integration Contractor
+- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4609-4610-recharged-and-ready-to-roll-onwards/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4609–4610: Recharged and Ready To Roll Onwards
 - <a href="https://science.nasa.gov/uncategorized/2025-nasa-space-apps/" >🔗</a> **[NASA]** 2025 NASA Space Apps Challenge
 - <a href="https://science.nasa.gov/uncategorized/osdr-chats-begum-mathyk/" >🔗</a> **[NASA]** OSDR Chats with Begum Mathyk
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-drop-test-supports-safer-air-taxi-design-and-certification/" >🔗</a> **[NASA]** NASA Drop Test Supports Safer Air Taxi Design and Certification
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/07/28/live-coverage-spacex-to-perform-a-static-fire-test-of-its-falcon-9-rocket-ahead-of-the-crew-11-launch/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to perform a static fire test of its Falcon 9 rocket ahead of the Crew-11 launch
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Europe_s_new_carbon-monitoring_mission_launches_on_Vega-C" >🔗</a> **[ESA]** Europe’s new carbon-monitoring mission launches on Vega-C
 - <a href="https://www.nasa.gov/centers-and-facilities/white-sands/melissa-john-champions-environmental-stewardship-at-white-sands/" >🔗</a> **[NASA]** Melissa John Champions Environmental Stewardship at White Sands
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-27-august-2-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy July 27-August 2, 2025
-- <a href="https://www.nasaspaceflight.com/2025/07/crew-11-arrives-ksc-launch/" >🔗</a> **[NASASpaceflight]** Crew-11 Arrives at Kennedy Space Center Ahead of Launch
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250728T200131">2025-07-28 20:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250728T203628">2025-07-28 20:36:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
