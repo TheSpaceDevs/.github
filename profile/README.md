@@ -89,16 +89,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/07/launch-roundup-072825/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX to launch Crew-11 to ISS; ISRO and NASA launch new SAR satellite
+- <a href="https://www.nasa.gov/general/svec-parking-information/" >🔗</a> **[NASA]** Silicon Valley Event Center – Parking Information
+- <a href="https://www.nasa.gov/general/arc-svec-lodging/" >🔗</a> **[NASA]** Ames Exchange Lodging Info
+- <a href="https://www.nasa.gov/general/svec-events/" >🔗</a> **[NASA]** NASA Silicon Valley Event Center – Calendar of Events
+- <a href="https://www.nasa.gov/general/visiting-svec/" >🔗</a> **[NASA]** Visiting the NASA Silicon Valley Event Center
 - <a href="https://www.nasa.gov/news-release/nasa-selects-human-space-flight-technical-integration-contractor/" >🔗</a> **[NASA]** NASA Selects Human Space Flight Technical Integration Contractor
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4609-4610-recharged-and-ready-to-roll-onwards/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4609–4610: Recharged and Ready To Roll Onwards
 - <a href="https://science.nasa.gov/uncategorized/2025-nasa-space-apps/" >🔗</a> **[NASA]** 2025 NASA Space Apps Challenge
 - <a href="https://science.nasa.gov/uncategorized/osdr-chats-begum-mathyk/" >🔗</a> **[NASA]** OSDR Chats with Begum Mathyk
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-drop-test-supports-safer-air-taxi-design-and-certification/" >🔗</a> **[NASA]** NASA Drop Test Supports Safer Air Taxi Design and Certification
-- <a href="https://www.nasa.gov/image-article/hubble-spies-swirling-spiral/" >🔗</a> **[NASA]** Hubble Spies Swirling Spiral
-- <a href="https://arstechnica.com/space/2025/07/a-secretive-space-plane-is-set-to-launch-and-test-quantum-navigation-technology/" >🔗</a> **[Arstechnica]** A secretive space plane is set to launch and test quantum navigation technology
-- <a href="https://spaceflightnow.com/2025/07/28/live-coverage-spacex-to-perform-a-static-fire-test-of-its-falcon-9-rocket-ahead-of-the-crew-11-launch/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to perform a static fire test of its Falcon 9 rocket ahead of the Crew-11 launch
-- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Europe_s_new_carbon-monitoring_mission_launches_on_Vega-C" >🔗</a> **[ESA]** Europe’s new carbon-monitoring mission launches on Vega-C
-- <a href="https://www.nasa.gov/centers-and-facilities/white-sands/melissa-john-champions-environmental-stewardship-at-white-sands/" >🔗</a> **[NASA]** Melissa John Champions Environmental Stewardship at White Sands
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250728T220125">2025-07-28 22:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250728T223729">2025-07-28 22:37:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
