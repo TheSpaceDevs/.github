@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-drop-test-supports-safer-air-taxi-design-and-certification/" >🔗</a> **[NASA]** NASA Drop Test Supports Safer Air Taxi Design and Certification
+- <a href="https://www.nasa.gov/image-article/hubble-spies-swirling-spiral/" >🔗</a> **[NASA]** Hubble Spies Swirling Spiral
 - <a href="https://arstechnica.com/space/2025/07/a-secretive-space-plane-is-set-to-launch-and-test-quantum-navigation-technology/" >🔗</a> **[Arstechnica]** A secretive space plane is set to launch and test quantum navigation technology
 - <a href="https://spaceflightnow.com/2025/07/28/live-coverage-spacex-to-perform-a-static-fire-test-of-its-falcon-9-rocket-ahead-of-the-crew-11-launch/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to perform a static fire test of its Falcon 9 rocket ahead of the Crew-11 launch
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Europe_s_new_carbon-monitoring_mission_launches_on_Vega-C" >🔗</a> **[ESA]** Europe’s new carbon-monitoring mission launches on Vega-C
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2025/07/crew-11-arrives-ksc-launch/" >🔗</a> **[NASASpaceflight]** Crew-11 Arrives at Kennedy Space Center Ahead of Launch
 - <a href="https://spaceflightnow.com/2025/07/26/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://spaceflightnow.com/2025/07/26/crew-11-astronauts-cosmonaut-arrive-in-florida-ahead-of-launch-to-the-space-station/" >🔗</a> **[Spaceflight Now]** Crew-11 astronauts, cosmonaut arrive in Florida ahead of launch to the space station
-- <a href="https://spacepolicyonline.com/news/one-fifth-of-nasas-workforce-take-voluntary-departure-options/" >🔗</a> **[SpacePolicyOnline.com]** One Fifth of NASA’s Workforce Take Voluntary Departure Options
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/07/Vega-C_VV27" >🔗</a> **[ESA]** Vega-C VV27
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250728T170355">2025-07-28 17:03:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250728T173628">2025-07-28 17:36:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
