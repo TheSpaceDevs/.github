@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/white-sands/melissa-john-champions-environmental-stewardship-at-white-sands/" >🔗</a> **[NASA]** Melissa John Champions Environmental Stewardship at White Sands
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-july-27-august-2-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy July 27-August 2, 2025
 - <a href="https://www.nasaspaceflight.com/2025/07/crew-11-arrives-ksc-launch/" >🔗</a> **[NASASpaceflight]** Crew-11 Arrives at Kennedy Space Center Ahead of Launch
 - <a href="https://spaceflightnow.com/2025/07/26/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2025/07/space-report-tracers-starlink-o3b/" >🔗</a> **[NASASpaceflight]** Space Traffic Report: Busy Week for Falcon 9: TRACERS, Starlink & O3b Satellites!
 - <a href="https://spaceflightnow.com/2025/07/25/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-7/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://www.nasa.gov/image-article/celebrating-25-years-of-continuous-human-presence-aboard-the-international-space-station/" >🔗</a> **[NASA]** Celebrating 25 Years of Continuous Human Presence Aboard the International Space Station
-- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-spacexs-33rd-resupply-launch-to-space-station/" >🔗</a> **[NASA]** NASA Invites Media to SpaceX’s 33rd Resupply Launch to Space Station
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250728T100131">2025-07-28 10:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250728T103901">2025-07-28 10:39:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
