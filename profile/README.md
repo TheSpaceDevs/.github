@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/07/pangea-aerospace-efis/" >🔗</a> **[NASASpaceflight]** How Pangea Aerospace is reshaping rocket propulsion by reigniting the aerospike design
+- <a href="https://www.nasa.gov/image-article/nasa-drop-test-supports-safer-air-taxi-designs/" >🔗</a> **[NASA]** NASA Drop Test Supports Safer Air Taxi Designs
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-kate-rubins-first-to-sequence-dna-in-space-retires/" >🔗</a> **[NASA]** NASA Astronaut Kate Rubins, First to Sequence DNA in Space, Retires
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/07/Slawosz_operating_MELFI_during_Ignis_mission" >🔗</a> **[ESA]** Sławosz operating MELFI during Ignis mission
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/07/Earth_views_from_Cupola_during_Ignis_mission2" >🔗</a> **[ESA]** Earth views from Cupola during Ignis mission
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/07/Slawosz_operating_MELFI_during_Ignis_mission" >🔗</a> **[ESA]** Sławosz operating MELFI during Ignis mission
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/07/Moon_timelapse_from_the_ISS_during_Ignis_mission" >🔗</a> **[ESA]** Moon timelapse from the ISS during Ignis mission
 - <a href="https://europeanspaceflight.com/asi-awards-new-lunar-habitat-contract-to-thales-alenia-space/" >🔗</a> **[European Spaceflight]** ASI Awards New Lunar Habitat Contract to Thales Alenia Space
 - <a href="https://www.nasaspaceflight.com/2025/07/mystery-raptors-mcgregor/" >🔗</a> **[NASASpaceflight]** Mystery Raptors spotted arriving at McGregor
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4611-4613-scenic-overlook/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4611-4613: Scenic Overlook
 - <a href="https://www.nasa.gov/news-release/join-second-lady-usha-vance-as-she-reads-to-children-at-nasa-johnson/" >🔗</a> **[NASA]** Join Second Lady Usha Vance as She Reads to Children at NASA Johnson
-- <a href="https://www.nasaspaceflight.com/2025/07/launch-roundup-072825/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX to launch Crew-11 to ISS; ISRO and NASA launch new SAR satellite
-- <a href="https://www.nasa.gov/general/arc-svec-lodging/" >🔗</a> **[NASA]** Ames Exchange Lodging Info
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250729T160200">2025-07-29 16:02:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250729T163941">2025-07-29 16:39:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
