@@ -23,10 +23,10 @@ The next space launch, retrieved from our
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/un.svg" />
 from *<a href="https://en.wikipedia.org/wiki/Gilmour_Space_Technologies#Bowen_Orbital_Spaceport_(BOS)">Eris Pad</a>, Bowen Orbital Spaceport*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/au.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250728T213000">2025-07-28 21:30:00 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250729T213000">2025-07-29 21:30:00 UTC</a>.  Until
 then, this pad will have been used for 0
 out of 0 launches from this location. The launch status is currently
-*Go* 🟩 . The mission type is
+*TBC* 🟨 . The mission type is
 *Test Flight* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
@@ -45,6 +45,7 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250729T213000">2025-07-29 21:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/au.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Eris-1 | Maiden Flight&location=Bowen Orbital Spaceport&dates=20250729T213000Z%2F20250730T073000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Eris-1 | Maiden Flight** from Bowen Orbital Spaceport.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250730T033000">2025-07-30 03:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-29&location=Cape Canaveral SFS, FL, USA&dates=20250730T033000Z%2F20250730T073000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-29** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250730T074100">2025-07-30 07:41:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 8A | SatNet LEO Group TBD?&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20250730T074100Z%2F20250730T080700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 8A | SatNet LEO Group TBD?** from Wenchang Space Launch Site, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250730T121000">2025-07-30 12:10:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=GSLV Mk II | NISAR (NASA-ISRO Synthetic Aperture Radar)&location=Satish Dhawan Space Centre, India&dates=20250730T121000Z%2F20250730T121000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **GSLV Mk II | NISAR (NASA-ISRO Synthetic Aperture Radar)** from Satish Dhawan Space Centre, India.
@@ -89,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/07/mystery-raptors-mcgregor/" >🔗</a> **[NASASpaceflight]** Mystery Raptors spotted arriving at McGregor
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4611-4613-scenic-overlook/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4611-4613: Scenic Overlook
 - <a href="https://www.nasa.gov/news-release/join-second-lady-usha-vance-as-she-reads-to-children-at-nasa-johnson/" >🔗</a> **[NASA]** Join Second Lady Usha Vance as She Reads to Children at NASA Johnson
 - <a href="https://www.nasaspaceflight.com/2025/07/launch-roundup-072825/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX to launch Crew-11 to ISS; ISRO and NASA launch new SAR satellite
@@ -98,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/general/visiting-svec/" >🔗</a> **[NASA]** Visiting the NASA Silicon Valley Event Center
 - <a href="https://www.nasa.gov/news-release/nasa-selects-human-space-flight-technical-integration-contractor/" >🔗</a> **[NASA]** NASA Selects Human Space Flight Technical Integration Contractor
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4609-4610-recharged-and-ready-to-roll-onwards/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4609–4610: Recharged and Ready To Roll Onwards
-- <a href="https://science.nasa.gov/uncategorized/2025-nasa-space-apps/" >🔗</a> **[NASA]** 2025 NASA Space Apps Challenge
 
 
 ### Launch-related News 🚀
@@ -117,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250729T050815">2025-07-29 05:08:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250729T054001">2025-07-29 05:40:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
