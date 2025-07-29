@@ -19,27 +19,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Hyperbola-1 | Unknown Payload**. It is scheduled to be launched by *i-Space*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Jiuquan_Satellite_Launch_Center">Launch Area 95A</a>, Jiuquan Satellite Launch Center, People's Republic of China*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250729T040300">2025-07-29 04:03:00 UTC</a>.  Until
-then, this pad will have been used for 59
-out of 253 launches from this location. The launch status is currently
+**Eris-1 | Maiden Flight**. It is scheduled to be launched by *Gilmour Space Technologies*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/un.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Gilmour_Space_Technologies#Bowen_Orbital_Spaceport_(BOS)">Eris Pad</a>, Bowen Orbital Spaceport*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/au.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250728T213000">2025-07-28 21:30:00 UTC</a>.  Until
+then, this pad will have been used for 0
+out of 0 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Unknown* and the payload will be injected
-into *an Unknown
-(N/A)*.
+*Test Flight* and the payload will be injected
+into *a Low Earth Orbit
+(LEO)*.
 <br>
 <blockquote>
-  Details TBD.
+  Maiden flight of Gilmour Space's orbital launch vehicle Eris.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/I-Space_(Chinese_company)" >
+  <a href="https://en.wikipedia.org/wiki/Gilmour_Space_Technologies#Eris" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=40.969117,100.343333" >
+  <a href="None" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -104,11 +104,20 @@ into *an Unknown
 ### Launch-related News 🚀
 
 - <a href="https://www.nasaspaceflight.com/2025/07/launch-roundup-072125/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Russian and European science missions to launch during busy week
+- <a href="https://www.nasaspaceflight.com/2025/07/eris-testflight1/" >🔗</a> **[NASASpaceflight]** Gilmour Space prepares again to launch Australia’s first homegrown orbital launch with Eris rocket
+- <a href="https://www.nasaspaceflight.com/2025/07/launch-roundup-071425/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Chinese cargo resupply mission, Eris, and Falcon 9 to launch
+- <a href="https://www.nasaspaceflight.com/2025/07/tstr-071125/" >🔗</a> **[NASASpaceflight]** The Space Traffic Report: Starlink, ISS docking, and upcoming Falcon 9 & Kuiper launches
+- <a href="https://www.nasaspaceflight.com/2025/07/launch-roundup-070725/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9 set to fly 500th orbital mission during quiet week
+- <a href="https://www.nasaspaceflight.com/2025/06/launch-roundup-063025/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Gilmour Space to make debut, SpaceX plans east coast doubleheader
+- <a href="https://arstechnica.com/space/2025/05/rocket-report-how-is-your-payload-fairing-poland-launches-test-rocket/" >🔗</a> **[Arstechnica]** Rocket Report: How is your payload fairing? Poland launches test rocket.
+- <a href="https://www.nasaspaceflight.com/2025/05/eris-testflight1/" >🔗</a> **[NASASpaceflight]** Gilmour Space’s Eris rocket set for Australia’s first homegrown orbital launch
+- <a href="https://www.nasaspaceflight.com/2025/05/launch-roundup-051225/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Orbital launches from five countries planned
+- <a href="https://spacenews.com/gilmour-space-announces-mid-march-target-for-first-eris-launch/" >🔗</a> **[SpaceNews]** Gilmour Space announces mid-March target for first Eris launch
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250729T042416">2025-07-29 04:24:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250729T044425">2025-07-29 04:44:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
