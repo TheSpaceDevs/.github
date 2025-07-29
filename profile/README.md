@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/asi-awards-new-lunar-habitat-contract-to-thales-alenia-space/" >🔗</a> **[European Spaceflight]** ASI Awards New Lunar Habitat Contract to Thales Alenia Space
 - <a href="https://www.nasaspaceflight.com/2025/07/mystery-raptors-mcgregor/" >🔗</a> **[NASASpaceflight]** Mystery Raptors spotted arriving at McGregor
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4611-4613-scenic-overlook/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4611-4613: Scenic Overlook
 - <a href="https://www.nasa.gov/news-release/join-second-lady-usha-vance-as-she-reads-to-children-at-nasa-johnson/" >🔗</a> **[NASA]** Join Second Lady Usha Vance as She Reads to Children at NASA Johnson
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/general/svec-events/" >🔗</a> **[NASA]** NASA Silicon Valley Event Center – Calendar of Events
 - <a href="https://www.nasa.gov/general/visiting-svec/" >🔗</a> **[NASA]** Visiting the NASA Silicon Valley Event Center
 - <a href="https://www.nasa.gov/news-release/nasa-selects-human-space-flight-technical-integration-contractor/" >🔗</a> **[NASA]** NASA Selects Human Space Flight Technical Integration Contractor
-- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4609-4610-recharged-and-ready-to-roll-onwards/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4609–4610: Recharged and Ready To Roll Onwards
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250729T070401">2025-07-29 07:04:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250729T073607">2025-07-29 07:36:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
