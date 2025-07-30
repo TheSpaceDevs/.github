@@ -92,6 +92,7 @@ Under the terms of the agreement, NASA will provide the mission's L band synthet
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/07/nis/" >🔗</a> **[NASASpaceflight]** Joint NASA-ISRO NISAR satellite ready to launch from India
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/07/Mapping_for_the_Moon" >🔗</a> **[ESA]** Mapping for the Moon
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Greenland_subglacial_flood_bursts_through_ice_sheet_surface" >🔗</a> **[ESA]** Greenland subglacial flood bursts through ice sheet surface
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4614-4615-driving-along-the-boxwork/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4614-4615: Driving Along the Boxwork
@@ -101,7 +102,6 @@ Under the terms of the agreement, NASA will provide the mission's L band synthet
 - <a href="https://spaceflightnow.com/2025/07/29/live-coverage-spacex-to-launch-28-starlink-satellites-on-a-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on a Falcon 9 rocket from Cape Canaveral
 - <a href="https://science.nasa.gov/uncategorized/adam-and-hirsa-present-research-on-the-ring-sheared-drop/" >🔗</a> **[NASA]** Adam and Hirsa Present Research on the Ring-Sheared Drop
 - <a href="https://www.nasaspaceflight.com/2025/07/pangea-aerospace-efis/" >🔗</a> **[NASASpaceflight]** How Pangea Aerospace is reshaping rocket propulsion by reigniting the aerospike design
-- <a href="https://www.nasa.gov/image-article/nasa-drop-test-supports-safer-air-taxi-designs/" >🔗</a> **[NASA]** NASA Drop Test Supports Safer Air Taxi Designs
 
 
 ### Launch-related News 🚀
@@ -120,7 +120,7 @@ Under the terms of the agreement, NASA will provide the mission's L band synthet
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250730T100206">2025-07-30 10:02:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250730T103845">2025-07-30 10:38:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
