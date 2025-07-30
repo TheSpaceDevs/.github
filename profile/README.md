@@ -106,6 +106,7 @@ Under the terms of the agreement, NASA will provide the mission's L band synthet
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2025/07/nis/" >🔗</a> **[NASASpaceflight]** Joint NASA-ISRO NISAR satellite ready to launch from India
 - <a href="https://www.nasaspaceflight.com/2025/07/launch-roundup-072825/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX to launch Crew-11 to ISS; ISRO and NASA launch new SAR satellite
 - <a href="https://www.nasaspaceflight.com/2025/07/space-report-tracers-starlink-o3b/" >🔗</a> **[NASASpaceflight]** Space Traffic Report: Busy Week for Falcon 9: TRACERS, Starlink & O3b Satellites!
 - <a href="https://www.nasa.gov/news-release/nasa-sets-launch-coverage-for-earth-tracking-nisar-satellite/" >🔗</a> **[NASA]** NASA Sets Launch Coverage for Earth-Tracking NISAR Satellite
@@ -115,12 +116,11 @@ Under the terms of the agreement, NASA will provide the mission's L band synthet
 - <a href="https://www.nasa.gov/centers-and-facilities/jpl/nasa-jpl-prepping-for-full-year-of-launches-mission-milestones/" >🔗</a> **[NASA]** NASA JPL Prepping for Full Year of Launches, Mission Milestones
 - <a href="https://www.nasa.gov/missions/nisar/how-new-nasa-india-earth-satellite-nisar-will-see-earth/" >🔗</a> **[NASA]** How New NASA, India Earth Satellite NISAR Will See Earth
 - <a href="https://www.nasa.gov/missions/nisar/how-us-indian-nisar-satellite-will-offer-unique-window-on-earth/" >🔗</a> **[NASA]** How US-Indian NISAR Satellite Will Offer Unique Window on Earth
-- <a href="https://spacenews.com/india-eyes-record-year-for-space-with-10-planned-launches/" >🔗</a> **[SpaceNews]** India eyes record year for space with 10 planned launches
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250730T110128">2025-07-30 11:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250730T113338">2025-07-30 11:33:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
