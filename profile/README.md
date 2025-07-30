@@ -92,6 +92,8 @@ Under the terms of the agreement, NASA will provide the mission's L band synthet
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/07/Mapping_for_the_Moon" >🔗</a> **[ESA]** Mapping for the Moon
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Greenland_subglacial_flood_bursts_through_ice_sheet_surface" >🔗</a> **[ESA]** Greenland subglacial flood bursts through ice sheet surface
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4614-4615-driving-along-the-boxwork/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4614-4615: Driving Along the Boxwork
 - <a href="https://science.nasa.gov/blog/spheres-in-the-sand/" >🔗</a> **[NASA]** Spheres in the Sand
 - <a href="https://www.nasa.gov/news-release/nasa-selects-firefly-for-new-artemis-science-tech-delivery-to-moon/" >🔗</a> **[NASA]** NASA Selects Firefly for New Artemis Science, Tech Delivery to Moon
@@ -100,8 +102,6 @@ Under the terms of the agreement, NASA will provide the mission's L band synthet
 - <a href="https://science.nasa.gov/uncategorized/adam-and-hirsa-present-research-on-the-ring-sheared-drop/" >🔗</a> **[NASA]** Adam and Hirsa Present Research on the Ring-Sheared Drop
 - <a href="https://www.nasaspaceflight.com/2025/07/pangea-aerospace-efis/" >🔗</a> **[NASASpaceflight]** How Pangea Aerospace is reshaping rocket propulsion by reigniting the aerospike design
 - <a href="https://www.nasa.gov/image-article/nasa-drop-test-supports-safer-air-taxi-designs/" >🔗</a> **[NASA]** NASA Drop Test Supports Safer Air Taxi Designs
-- <a href="https://www.nasa.gov/news-release/nasa-astronaut-kate-rubins-first-to-sequence-dna-in-space-retires/" >🔗</a> **[NASA]** NASA Astronaut Kate Rubins, First to Sequence DNA in Space, Retires
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/07/Earth_views_from_Cupola_during_Ignis_mission2" >🔗</a> **[ESA]** Earth views from Cupola during Ignis mission
 
 
 ### Launch-related News 🚀
@@ -120,7 +120,7 @@ Under the terms of the agreement, NASA will provide the mission's L band synthet
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250730T090448">2025-07-30 09:04:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250730T093912">2025-07-30 09:39:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
