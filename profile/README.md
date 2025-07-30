@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/senate-commerce-clears-noaa-nominations/" >🔗</a> **[SpacePolicyOnline.com]** Senate Commerce Clears NOAA Nominations
 - <a href="https://www.nasa.gov/directorates/stmd/nasa-releases-opportunity-to-boost-commercial-space-tech-development/" >🔗</a> **[NASA]** NASA Releases Opportunity to Boost Commercial Space Tech Development
 - <a href="https://arstechnica.com/space/2025/07/india-safely-launches-a-1-5-billion-satellite-for-nasa/" >🔗</a> **[Arstechnica]** India safely launches a $1.5 billion satellite for NASA
 - <a href="https://www.nasaspaceflight.com/2025/07/gilmours-eris-but-positives/" >🔗</a> **[NASASpaceflight]** Gilmour’s Eris fails during maiden launch, but positives can be found
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_traces_details_of_complex_planetary_nebula" >🔗</a> **[ESA]** Webb traces details of complex planetary nebula
 - <a href="https://europeanspaceflight.com/thales-alenia-space-ships-key-component-for-mars-sample-return-mission/" >🔗</a> **[European Spaceflight]** Thales Alenia Space Ships Key Component for Mars Sample Return Mission
 - <a href="https://www.nasa.gov/image-article/looking-forward-to-the-moon/" >🔗</a> **[NASA]** Looking Forward to the Moon
-- <a href="https://www.nasa.gov/learning-resources/internships/laine-havens-melding-science-and-storytelling/" >🔗</a> **[NASA]** Laine Havens: Melding Science and Storytelling
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250730T230136">2025-07-30 23:01:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250730T233428">2025-07-30 23:34:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
