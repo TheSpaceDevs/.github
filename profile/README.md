@@ -90,16 +90,16 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/07/india-safely-launches-a-1-5-billion-satellite-for-nasa/" >🔗</a> **[Arstechnica]** India safely launches a $1.5 billion satellite for NASA
+- <a href="https://www.nasaspaceflight.com/2025/07/gilmours-eris-but-positives/" >🔗</a> **[NASASpaceflight]** Gilmour’s Eris fails during maiden launch, but positives can be found
 - <a href="https://www.nasa.gov/image-article/nasa-tests-epic-solution-for-supersonic-parachute-deliveries/" >🔗</a> **[NASA]** NASA Tests Epic Solution for Supersonic Parachute Deliveries
 - <a href="https://www.nasa.gov/news-release/nasa-isro-satellite-lifts-off-to-track-earths-changing-surfaces/" >🔗</a> **[NASA]** NASA-ISRO Satellite Lifts Off to Track Earth’s Changing Surfaces
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_traces_details_of_complex_planetary_nebula" >🔗</a> **[ESA]** Webb traces details of complex planetary nebula
 - <a href="https://science.nasa.gov/centers-and-facilities/goddard/nasas-webb-traces-details-of-complex-planetary-nebula/" >🔗</a> **[NASA]** NASA’s Webb Traces Details of Complex Planetary Nebula
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_traces_details_of_complex_planetary_nebula" >🔗</a> **[ESA]** Webb traces details of complex planetary nebula
 - <a href="https://europeanspaceflight.com/thales-alenia-space-ships-key-component-for-mars-sample-return-mission/" >🔗</a> **[European Spaceflight]** Thales Alenia Space Ships Key Component for Mars Sample Return Mission
 - <a href="https://www.nasa.gov/image-article/looking-forward-to-the-moon/" >🔗</a> **[NASA]** Looking Forward to the Moon
 - <a href="https://www.nasa.gov/learning-resources/internships/laine-havens-melding-science-and-storytelling/" >🔗</a> **[NASA]** Laine Havens: Melding Science and Storytelling
 - <a href="https://www.nasaspaceflight.com/2025/07/nis/" >🔗</a> **[NASASpaceflight]** Joint NASA-ISRO NISAR satellite ready to launch from India
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/07/Mapping_for_the_Moon" >🔗</a> **[ESA]** Mapping for the Moon
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Greenland_subglacial_flood_bursts_through_ice_sheet_surface" >🔗</a> **[ESA]** Greenland subglacial flood bursts through ice sheet surface
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250730T170304">2025-07-30 17:03:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250730T173618">2025-07-30 17:36:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
