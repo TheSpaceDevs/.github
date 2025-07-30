@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blog/spheres-in-the-sand/" >🔗</a> **[NASA]** Spheres in the Sand
 - <a href="https://www.nasa.gov/news-release/nasa-selects-firefly-for-new-artemis-science-tech-delivery-to-moon/" >🔗</a> **[NASA]** NASA Selects Firefly for New Artemis Science, Tech Delivery to Moon
 - <a href="https://www.nasaspaceflight.com/2025/07/final-two-block-2-ships-testing/" >🔗</a> **[NASASpaceflight]** The Final Two Block 2 Ships leave Mega Bay 2 for Testing
 - <a href="https://spaceflightnow.com/2025/07/29/live-coverage-spacex-to-launch-28-starlink-satellites-on-a-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on a Falcon 9 rocket from Cape Canaveral
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-kate-rubins-first-to-sequence-dna-in-space-retires/" >🔗</a> **[NASA]** NASA Astronaut Kate Rubins, First to Sequence DNA in Space, Retires
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/07/Earth_views_from_Cupola_during_Ignis_mission2" >🔗</a> **[ESA]** Earth views from Cupola during Ignis mission
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/07/Slawosz_operating_MELFI_during_Ignis_mission" >🔗</a> **[ESA]** Sławosz operating MELFI during Ignis mission
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/07/Moon_timelapse_from_the_ISS_during_Ignis_mission" >🔗</a> **[ESA]** Moon timelapse from the ISS during Ignis mission
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250730T000540">2025-07-30 00:05:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250730T004609">2025-07-30 00:46:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
