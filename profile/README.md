@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/thales-alenia-space-ships-key-component-for-mars-sample-return-mission/" >🔗</a> **[European Spaceflight]** Thales Alenia Space Ships Key Component for Mars Sample Return Mission
+- <a href="https://www.nasa.gov/image-article/looking-forward-to-the-moon/" >🔗</a> **[NASA]** Looking Forward to the Moon
 - <a href="https://www.nasaspaceflight.com/2025/07/nis/" >🔗</a> **[NASASpaceflight]** Joint NASA-ISRO NISAR satellite ready to launch from India
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/07/Mapping_for_the_Moon" >🔗</a> **[ESA]** Mapping for the Moon
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Greenland_subglacial_flood_bursts_through_ice_sheet_surface" >🔗</a> **[ESA]** Greenland subglacial flood bursts through ice sheet surface
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-selects-firefly-for-new-artemis-science-tech-delivery-to-moon/" >🔗</a> **[NASA]** NASA Selects Firefly for New Artemis Science, Tech Delivery to Moon
 - <a href="https://www.nasaspaceflight.com/2025/07/final-two-block-2-ships-testing/" >🔗</a> **[NASASpaceflight]** The Final Two Block 2 Ships leave Mega Bay 2 for Testing
 - <a href="https://spaceflightnow.com/2025/07/29/live-coverage-spacex-to-launch-28-starlink-satellites-on-a-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on a Falcon 9 rocket from Cape Canaveral
-- <a href="https://science.nasa.gov/uncategorized/adam-and-hirsa-present-research-on-the-ring-sheared-drop/" >🔗</a> **[NASA]** Adam and Hirsa Present Research on the Ring-Sheared Drop
-- <a href="https://www.nasaspaceflight.com/2025/07/pangea-aerospace-efis/" >🔗</a> **[NASASpaceflight]** How Pangea Aerospace is reshaping rocket propulsion by reigniting the aerospike design
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250730T134256">2025-07-30 13:42:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250730T140338">2025-07-30 14:03:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
