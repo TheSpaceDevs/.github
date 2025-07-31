@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/07/31/space-x-launches-west-coast-falcon-9-rocket-on-starlink-13-4-mission/" >🔗</a> **[Spaceflight Now]** SpaceX launches West Coast Falcon 9 rocket on Starlink 13-4 mission
 - <a href="https://www.nasa.gov/image-article/sunrise-on-crew-11-launch-attempt/" >🔗</a> **[NASA]** Sunrise on Crew-11 Launch Attempt
 - <a href="https://www.nasa.gov/missions/roman-space-telescope/nasa-installs-key-sunblock-shield-on-roman-space-telescope/" >🔗</a> **[NASA]** NASA Installs Key ‘Sunblock’ Shield on Roman Space Telescope
 - <a href="https://europeanspaceflight.com/the-exploration-company-tests-key-component-of-typhoon-rocket-engine/" >🔗</a> **[European Spaceflight]** The Exploration Company Tests Key Component of Typhoon Rocket Engine
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/07/31/live-coverage-nasa-spacex-to-launch-crew-11-mission-to-the-international-space-station-on-a-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: Former members of Crew-9, Starliner-1 missions unite to fly to the Space Station
 - <a href="https://spacepolicyonline.com/news/senate-commerce-clears-noaa-nominations/" >🔗</a> **[SpacePolicyOnline.com]** Senate Commerce Clears NOAA Nominations
 - <a href="https://www.nasa.gov/directorates/stmd/nasa-releases-opportunity-to-boost-commercial-space-tech-development/" >🔗</a> **[NASA]** NASA Releases Opportunity to Boost Commercial Space Tech Development
-- <a href="https://arstechnica.com/space/2025/07/india-safely-launches-a-1-5-billion-satellite-for-nasa/" >🔗</a> **[Arstechnica]** India safely launches a $1.5 billion satellite for NASA
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250731T220121">2025-07-31 22:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250731T223627">2025-07-31 22:36:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
