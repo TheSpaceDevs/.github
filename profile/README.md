@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/the-exploration-company-tests-key-component-of-typhoon-rocket-engine/" >🔗</a> **[European Spaceflight]** The Exploration Company Tests Key Component of Typhoon Rocket Engine
+- <a href="https://www.nasa.gov/news-release/lease-nasa-aircraft-hangar-in-cleveland/" >🔗</a> **[NASA]** NASA Invites Proposals to Lease Aircraft Hangar in Cleveland
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/07/Wildfires_burn_in_northern_Portugal" >🔗</a> **[ESA]** Wildfires burn in northern Portugal
 - <a href="https://www.nasaspaceflight.com/2025/07/crew-11-launch/" >🔗</a> **[NASASpaceflight]** NASA, SpaceX to launch Crew-11 mission to the ISS
 - <a href="https://spaceflightnow.com/2025/07/31/live-coverage-nasa-spacex-to-launch-crew-11-mission-to-the-international-space-station-on-a-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: Former members of Crew-9, Starliner-1 missions unite to fly to the Space Station
 - <a href="https://spacepolicyonline.com/news/senate-commerce-clears-noaa-nominations/" >🔗</a> **[SpacePolicyOnline.com]** Senate Commerce Clears NOAA Nominations
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2025/07/india-safely-launches-a-1-5-billion-satellite-for-nasa/" >🔗</a> **[Arstechnica]** India safely launches a $1.5 billion satellite for NASA
 - <a href="https://www.nasaspaceflight.com/2025/07/gilmours-eris-but-positives/" >🔗</a> **[NASASpaceflight]** Gilmour’s Eris fails during maiden launch, but positives can be found
 - <a href="https://www.nasa.gov/image-article/nasa-tests-epic-solution-for-supersonic-parachute-deliveries/" >🔗</a> **[NASA]** NASA Tests Epic Solution for Supersonic Parachute Deliveries
-- <a href="https://www.nasa.gov/news-release/nasa-isro-satellite-lifts-off-to-track-earths-changing-surfaces/" >🔗</a> **[NASA]** NASA-ISRO Satellite Lifts Off to Track Earth’s Changing Surfaces
-- <a href="https://science.nasa.gov/centers-and-facilities/goddard/nasas-webb-traces-details-of-complex-planetary-nebula/" >🔗</a> **[NASA]** NASA’s Webb Traces Details of Complex Planetary Nebula
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_traces_details_of_complex_planetary_nebula" >🔗</a> **[ESA]** Webb traces details of complex planetary nebula
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250731T131319">2025-07-31 13:13:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250731T134231">2025-07-31 13:42:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
