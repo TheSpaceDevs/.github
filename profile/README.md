@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/roman-space-telescope/nasa-installs-key-sunblock-shield-on-roman-space-telescope/" >🔗</a> **[NASA]** NASA Installs Key ‘Sunblock’ Shield on Roman Space Telescope
 - <a href="https://europeanspaceflight.com/the-exploration-company-tests-key-component-of-typhoon-rocket-engine/" >🔗</a> **[European Spaceflight]** The Exploration Company Tests Key Component of Typhoon Rocket Engine
 - <a href="https://www.nasa.gov/news-release/lease-nasa-aircraft-hangar-in-cleveland/" >🔗</a> **[NASA]** NASA Invites Proposals to Lease Aircraft Hangar in Cleveland
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/07/Wildfires_burn_in_northern_Portugal" >🔗</a> **[ESA]** Wildfires burn in northern Portugal
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/directorates/stmd/nasa-releases-opportunity-to-boost-commercial-space-tech-development/" >🔗</a> **[NASA]** NASA Releases Opportunity to Boost Commercial Space Tech Development
 - <a href="https://arstechnica.com/space/2025/07/india-safely-launches-a-1-5-billion-satellite-for-nasa/" >🔗</a> **[Arstechnica]** India safely launches a $1.5 billion satellite for NASA
 - <a href="https://www.nasaspaceflight.com/2025/07/gilmours-eris-but-positives/" >🔗</a> **[NASASpaceflight]** Gilmour’s Eris fails during maiden launch, but positives can be found
-- <a href="https://www.nasa.gov/image-article/nasa-tests-epic-solution-for-supersonic-parachute-deliveries/" >🔗</a> **[NASA]** NASA Tests Epic Solution for Supersonic Parachute Deliveries
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250731T140252">2025-07-31 14:02:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250731T143748">2025-07-31 14:37:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
