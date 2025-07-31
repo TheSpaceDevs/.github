@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/07/31/live-coverage-nasa-spacex-to-launch-crew-11-mission-to-the-international-space-station-on-a-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: Former members of Crew-9, Starliner-1 missions unite to fly to the Space Station
 - <a href="https://spacepolicyonline.com/news/senate-commerce-clears-noaa-nominations/" >🔗</a> **[SpacePolicyOnline.com]** Senate Commerce Clears NOAA Nominations
 - <a href="https://www.nasa.gov/directorates/stmd/nasa-releases-opportunity-to-boost-commercial-space-tech-development/" >🔗</a> **[NASA]** NASA Releases Opportunity to Boost Commercial Space Tech Development
 - <a href="https://arstechnica.com/space/2025/07/india-safely-launches-a-1-5-billion-satellite-for-nasa/" >🔗</a> **[Arstechnica]** India safely launches a $1.5 billion satellite for NASA
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/centers-and-facilities/goddard/nasas-webb-traces-details-of-complex-planetary-nebula/" >🔗</a> **[NASA]** NASA’s Webb Traces Details of Complex Planetary Nebula
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_traces_details_of_complex_planetary_nebula" >🔗</a> **[ESA]** Webb traces details of complex planetary nebula
 - <a href="https://europeanspaceflight.com/thales-alenia-space-ships-key-component-for-mars-sample-return-mission/" >🔗</a> **[European Spaceflight]** Thales Alenia Space Ships Key Component for Mars Sample Return Mission
-- <a href="https://www.nasa.gov/image-article/looking-forward-to-the-moon/" >🔗</a> **[NASA]** Looking Forward to the Moon
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250731T100133">2025-07-31 10:01:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250731T103840">2025-07-31 10:38:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
