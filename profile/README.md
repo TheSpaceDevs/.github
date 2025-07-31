@@ -19,33 +19,33 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Crew-11**. It is scheduled to be launched by *SpaceX*
+**Falcon 9 Block 5 | Starlink Group 13-4**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39A">Launch Complex 39A</a>, Kennedy Space Center, FL, USA*
+from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250731T160924">2025-07-31 16:09:24 UTC</a>.  Until
-then, this pad will have been used for 210
-out of 268 launches from this location. The launch status is currently
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250731T153900">2025-07-31 15:39:00 UTC</a>.  Until
+then, this pad will have been used for 206
+out of 820 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Human Exploration* and the payload will be injected
+*Communications* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  SpaceX Crew-11 is the eleventh crewed operational flight of a Crew Dragon spacecraft to the International Space Station as part of NASA's Commercial Crew Program.
+  A batch of 19 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
   <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.60822681,-80.60428186" >
+  <a href="https://www.google.com/maps?q=34.632,-120.611" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250731T160924">2025-07-31 16:09:24 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Crew-11&location=Kennedy Space Center, FL, USA&dates=20250731T160924Z%2F20250731T160924Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Crew-11** from Kennedy Space Center, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250801T154300">2025-08-01 15:43:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Crew-11&location=Kennedy Space Center, FL, USA&dates=20250801T154300Z%2F20250801T154300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Crew-11** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250802T014500">2025-08-02 01:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=HASTE | JAKE 4&location=Wallops Flight Facility, Virginia, USA&dates=20250802T014500Z%2F20250802T070000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **HASTE | JAKE 4** from Wallops Flight Facility, Virginia, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250803T123000">2025-08-03 12:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Shepard | NS-34&location=Corn Ranch, Van Horn, TX, USA&dates=20250803T123000Z%2F20250803T193000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Shepard | NS-34** from Corn Ranch, Van Horn, TX, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250804T041100">2025-08-04 04:11:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-30&location=Cape Canaveral SFS, FL, USA&dates=20250804T041100Z%2F20250804T081100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-30** from Cape Canaveral SFS, FL, USA.
@@ -103,21 +103,12 @@ into *a Low Earth Orbit
 
 ### Launch-related News 🚀
 
-- <a href="https://www.nasaspaceflight.com/2025/07/crew-11-launch/" >🔗</a> **[NASASpaceflight]** NASA, SpaceX to launch Crew-11 mission to the ISS
-- <a href="https://spaceflightnow.com/2025/07/31/live-coverage-nasa-spacex-to-launch-crew-11-mission-to-the-international-space-station-on-a-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: Former members of Crew-9, Starliner-1 missions unite to fly to the Space Station
 - <a href="https://www.nasaspaceflight.com/2025/07/launch-roundup-072825/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX to launch Crew-11 to ISS; ISRO and NASA launch new SAR satellite
-- <a href="https://spaceflightnow.com/2025/07/28/live-coverage-spacex-to-perform-a-static-fire-test-of-its-falcon-9-rocket-ahead-of-the-crew-11-launch/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to perform a static fire test of its Falcon 9 rocket ahead of the Crew-11 launch
-- <a href="https://www.nasaspaceflight.com/2025/07/crew-11-arrives-ksc-launch/" >🔗</a> **[NASASpaceflight]** Crew-11 Arrives at Kennedy Space Center Ahead of Launch
-- <a href="https://spaceflightnow.com/2025/07/26/crew-11-astronauts-cosmonaut-arrive-in-florida-ahead-of-launch-to-the-space-station/" >🔗</a> **[Spaceflight Now]** Crew-11 astronauts, cosmonaut arrive in Florida ahead of launch to the space station
-- <a href="https://www.nasaspaceflight.com/2025/07/space-report-tracers-starlink-o3b/" >🔗</a> **[NASASpaceflight]** Space Traffic Report: Busy Week for Falcon 9: TRACERS, Starlink & O3b Satellites!
-- <a href="https://www.nasa.gov/missions/station/commercial-crew/nasa-invites-virtual-guests-to-spacex-crew-11-mission-launch/" >🔗</a> **[NASA]** NASA Invites Virtual Guests to SpaceX Crew-11 Mission Launch
-- <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-agencys-spacex-crew-11-launch-docking/" >🔗</a> **[NASA]** NASA Sets Coverage for Agency’s SpaceX Crew-11 Launch, Docking
-- <a href="https://www.nasa.gov/missions/station/commercial-crew/what-you-need-to-know-about-nasas-spacex-crew-11-mission/" >🔗</a> **[NASA]** What You Need to Know About NASA’s SpaceX Crew-11 Mission
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250731T160151">2025-07-31 16:01:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250731T163955">2025-07-31 16:39:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
