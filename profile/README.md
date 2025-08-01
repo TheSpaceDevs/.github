@@ -19,27 +19,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Crew-11**. It is scheduled to be launched by *SpaceX*
+**New Shepard | NS-34**. It is scheduled to be launched by *Blue Origin*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39A">Launch Complex 39A</a>, Kennedy Space Center, FL, USA*
+from *<a href="https://en.wikipedia.org/wiki/Corn_Ranch">West Texas Suborbital Launch Site/ Corn Ranch</a>, Corn Ranch, Van Horn, TX, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250801T154342">2025-08-01 15:43:42 UTC</a>.  Until
-then, this pad will have been used for 210
-out of 268 launches from this location. The launch status is currently
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250803T123000">2025-08-03 12:30:00 UTC</a>.  Until
+then, this pad will have been used for 33
+out of 33 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Human Exploration* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+*Tourism* and the payload will be injected
+into *a Suborbital
+(Sub)*.
 <br>
 <blockquote>
-  SpaceX Crew-11 is the eleventh crewed operational flight of a Crew Dragon spacecraft to the International Space Station as part of NASA's Commercial Crew Program.
+  NS-33 is the 14th crewed flight for the New Shepard program and the 34th in its history.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+  <a href="https://en.wikipedia.org/wiki/New_Shepard" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.60822681,-80.60428186" >
+  <a href="https://www.google.com/maps?q=31.422878000000000,-104.757121000000000" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -52,6 +52,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250805T200000">2025-08-05 20:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-25&location=Vandenberg SFB, CA, USA&dates=20250805T200000Z%2F20250806T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-25** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250807T140100">2025-08-07 14:01:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Project Kuiper (KF-02)&location=Cape Canaveral SFS, FL, USA&dates=20250807T140100Z%2F20250807T142800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Project Kuiper (KF-02)** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250810T020500">2025-08-10 02:05:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-4&location=Vandenberg SFB, CA, USA&dates=20250810T020500Z%2F20250810T060500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-4** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250810T121600">2025-08-10 12:16:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-20&location=Cape Canaveral SFS, FL, USA&dates=20250810T121600Z%2F20250810T161600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-20** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250811T000700">2025-08-11 00:07:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Vulcan VC4S | USSF-106&location=Cape Canaveral SFS, FL, USA&dates=20250811T000700Z%2F20250811T021200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Vulcan VC4S | USSF-106** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250813T003700">2025-08-13 00:37:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ariane 62 | Metop-SG A1&location=Guiana Space Centre, French Guiana&dates=20250813T003700Z%2F20250813T003700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ariane 62 | Metop-SG A1** from Guiana Space Centre, French Guiana.
 
@@ -89,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasas-spacex-crew-11-launches-to-international-space-station/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-11 Launches to International Space Station
+- <a href="https://www.nasa.gov/missions/jason-cs-sentinel-6/sentinel-6-michael-freilich/how-joint-nasa-esa-sea-level-mission-will-help-hurricane-forecasts/" >🔗</a> **[NASA]** How Joint NASA-ESA Sea Level Mission Will Help Hurricane Forecasts
 - <a href="https://europeanspaceflight.com/cnes-issues-call-for-lunar-power-station-prototype/" >🔗</a> **[European Spaceflight]** CNES Issues Call for Lunar Power Station Prototype
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_28_July_-_1_August_2025" >🔗</a> **[ESA]** Week in images: 28 July - 1 August 2025
 - <a href="https://arstechnica.com/space/2025/08/rocket-report-nasa-finally-working-on-depots-air-force-tests-new-icbm/" >🔗</a> **[Arstechnica]** Rocket Report: NASA finally working on depots, Air Force tests new ICBM
@@ -97,27 +100,15 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/About_Us/ESA_Open_Days_2025/Celebrating_50_years_of_ESA_at_Open_Days_2025" >🔗</a> **[ESA]** Celebrating 50 years of ESA at Open Days 2025
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/07/Webb_takes_a_fresh_look_at_a_classic_deep_field" >🔗</a> **[ESA]** Webb takes a fresh look at a classic deep field
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/08/A_supernova-rich_spiral" >🔗</a> **[ESA]** A supernova-rich spiral
-- <a href="https://spacepolicyonline.com/news/crew-11-must-wait-another-day-while-duffy-meets-with-bakanov/" >🔗</a> **[SpacePolicyOnline.com]** Crew-11 Must Wait Another Day, While Duffy Meets With Bakanov
-- <a href="https://spaceflightnow.com/2025/07/31/space-x-launches-west-coast-falcon-9-rocket-on-starlink-13-4-mission/" >🔗</a> **[Spaceflight Now]** SpaceX launches West Coast Falcon 9 rocket on Starlink 13-4 mission
 
 
 ### Launch-related News 🚀
 
-- <a href="https://arstechnica.com/space/2025/08/rocket-report-nasa-finally-working-on-depots-air-force-tests-new-icbm/" >🔗</a> **[Arstechnica]** Rocket Report: NASA finally working on depots, Air Force tests new ICBM
-- <a href="https://spacepolicyonline.com/news/crew-11-must-wait-another-day-while-duffy-meets-with-bakanov/" >🔗</a> **[SpacePolicyOnline.com]** Crew-11 Must Wait Another Day, While Duffy Meets With Bakanov
-- <a href="https://www.nasa.gov/image-article/sunrise-on-crew-11-launch-attempt/" >🔗</a> **[NASA]** Sunrise on Crew-11 Launch Attempt
-- <a href="https://www.nasaspaceflight.com/2025/07/crew-11-launch/" >🔗</a> **[NASASpaceflight]** NASA, SpaceX to launch Crew-11 mission to the ISS
-- <a href="https://spaceflightnow.com/2025/07/31/live-coverage-nasa-spacex-to-launch-crew-11-mission-to-the-international-space-station-on-a-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: Former members of Crew-9, Starliner-1 missions unite to fly to the Space Station
-- <a href="https://www.nasaspaceflight.com/2025/07/launch-roundup-072825/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX to launch Crew-11 to ISS; ISRO and NASA launch new SAR satellite
-- <a href="https://spaceflightnow.com/2025/07/28/live-coverage-spacex-to-perform-a-static-fire-test-of-its-falcon-9-rocket-ahead-of-the-crew-11-launch/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to perform a static fire test of its Falcon 9 rocket ahead of the Crew-11 launch
-- <a href="https://www.nasaspaceflight.com/2025/07/crew-11-arrives-ksc-launch/" >🔗</a> **[NASASpaceflight]** Crew-11 Arrives at Kennedy Space Center Ahead of Launch
-- <a href="https://spaceflightnow.com/2025/07/26/crew-11-astronauts-cosmonaut-arrive-in-florida-ahead-of-launch-to-the-space-station/" >🔗</a> **[Spaceflight Now]** Crew-11 astronauts, cosmonaut arrive in Florida ahead of launch to the space station
-- <a href="https://www.nasaspaceflight.com/2025/07/space-report-tracers-starlink-o3b/" >🔗</a> **[NASASpaceflight]** Space Traffic Report: Busy Week for Falcon 9: TRACERS, Starlink & O3b Satellites!
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250801T160141">2025-08-01 16:01:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250801T163956">2025-08-01 16:39:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
