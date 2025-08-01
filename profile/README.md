@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/cnes-issues-call-for-lunar-power-station-prototype/" >🔗</a> **[European Spaceflight]** CNES Issues Call for Lunar Power Station Prototype
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_28_July_-_1_August_2025" >🔗</a> **[ESA]** Week in images: 28 July - 1 August 2025
 - <a href="https://arstechnica.com/space/2025/08/rocket-report-nasa-finally-working-on-depots-air-force-tests-new-icbm/" >🔗</a> **[Arstechnica]** Rocket Report: NASA finally working on depots, Air Force tests new ICBM
 - <a href="https://science.nasa.gov/missions/hubble/hubble-surveys-supernova-rich-spiral/" >🔗</a> **[NASA]** Hubble Surveys Supernova-Rich Spiral
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/08/A_supernova-rich_spiral" >🔗</a> **[ESA]** A supernova-rich spiral
 - <a href="https://spacepolicyonline.com/news/crew-11-must-wait-another-day-while-duffy-meets-with-bakanov/" >🔗</a> **[SpacePolicyOnline.com]** Crew-11 Must Wait Another Day, While Duffy Meets With Bakanov
 - <a href="https://spaceflightnow.com/2025/07/31/space-x-launches-west-coast-falcon-9-rocket-on-starlink-13-4-mission/" >🔗</a> **[Spaceflight Now]** SpaceX launches West Coast Falcon 9 rocket on Starlink 13-4 mission
-- <a href="https://www.nasa.gov/image-article/sunrise-on-crew-11-launch-attempt/" >🔗</a> **[NASA]** Sunrise on Crew-11 Launch Attempt
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250801T150123">2025-08-01 15:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250801T153617">2025-08-01 15:36:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
