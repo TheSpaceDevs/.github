@@ -90,6 +90,8 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/08/the-curious-case-of-russias-charm-offensive-with-nasa-this-week/" >🔗</a> **[Arstechnica]** The curious case of Russia’s charm offensive with NASA this week
+- <a href="https://science.nasa.gov/learning-resources/for-educators/nube-new-card-game-helps-learners-identify-cloud-types-through-play/" >🔗</a> **[NASA]** NUBE: New Card Game Helps Learners Identify Cloud Types Through Play
 - <a href="https://spaceflightnow.com/2025/08/01/nasa-spacex-thread-the-clouds-to-launch-crew-11-to-the-international-space-station/" >🔗</a> **[Spaceflight Now]** NASA, SpaceX ‘thread the clouds’ to launch Crew-11 to the International Space Station
 - <a href="https://www.nasa.gov/image-article/crew-11-launches-to-international-space-station/" >🔗</a> **[NASA]** Crew-11 Launches to International Space Station
 - <a href="https://www.nasa.gov/missions/europa-clipper/nasas-europa-clipper-radar-instrument-proves-itself-at-mars/" >🔗</a> **[NASA]** NASA’s Europa Clipper Radar Instrument Proves Itself at Mars
@@ -98,8 +100,6 @@ into *a Suborbital
 - <a href="https://www.nasa.gov/missions/jason-cs-sentinel-6/sentinel-6-michael-freilich/how-joint-nasa-esa-sea-level-mission-will-help-hurricane-forecasts/" >🔗</a> **[NASA]** How Joint NASA-ESA Sea Level Mission Will Help Hurricane Forecasts
 - <a href="https://europeanspaceflight.com/cnes-issues-call-for-lunar-power-station-prototype/" >🔗</a> **[European Spaceflight]** CNES Issues Call for Lunar Power Station Prototype
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_28_July_-_1_August_2025" >🔗</a> **[ESA]** Week in images: 28 July - 1 August 2025
-- <a href="https://arstechnica.com/space/2025/08/rocket-report-nasa-finally-working-on-depots-air-force-tests-new-icbm/" >🔗</a> **[Arstechnica]** Rocket Report: NASA finally working on depots, Air Force tests new ICBM
-- <a href="https://science.nasa.gov/missions/hubble/hubble-surveys-supernova-rich-spiral/" >🔗</a> **[NASA]** Hubble Surveys Supernova-Rich Spiral
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250801T190303">2025-08-01 19:03:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250801T193127">2025-08-01 19:31:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
