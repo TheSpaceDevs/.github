@@ -90,6 +90,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/uncategorized/helio-highlights-july-2025/" >🔗</a> **[NASA]** Helio Highlights: July 2025
 - <a href="https://www.spacescout.info/2025/08/crew-11-returns-station-to-normal-operations/" >🔗</a> **[Space Scout]** Crew-11 Returns Station to Normal Operations
 - <a href="https://arstechnica.com/space/2025/08/the-curious-case-of-russias-charm-offensive-with-nasa-this-week/" >🔗</a> **[Arstechnica]** The curious case of Russia’s charm offensive with NASA this week
 - <a href="https://science.nasa.gov/learning-resources/for-educators/nube-new-card-game-helps-learners-identify-cloud-types-through-play/" >🔗</a> **[NASA]** NUBE: New Card Game Helps Learners Identify Cloud Types Through Play
@@ -99,7 +100,6 @@ into *a Suborbital
 - <a href="https://science.nasa.gov/solar-system/whats-up-august-2025-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: August 2025 Skywatching Tips from NASA
 - <a href="https://www.nasa.gov/news-release/nasas-spacex-crew-11-launches-to-international-space-station/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-11 Launches to International Space Station
 - <a href="https://www.nasa.gov/missions/jason-cs-sentinel-6/sentinel-6-michael-freilich/how-joint-nasa-esa-sea-level-mission-will-help-hurricane-forecasts/" >🔗</a> **[NASA]** How Joint NASA-ESA Sea Level Mission Will Help Hurricane Forecasts
-- <a href="https://europeanspaceflight.com/cnes-issues-call-for-lunar-power-station-prototype/" >🔗</a> **[European Spaceflight]** CNES Issues Call for Lunar Power Station Prototype
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250801T210129">2025-08-01 21:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250801T213437">2025-08-01 21:34:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
