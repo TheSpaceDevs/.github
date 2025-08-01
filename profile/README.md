@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/08/A_supernova-rich_spiral" >🔗</a> **[ESA]** A supernova-rich spiral
 - <a href="https://spacepolicyonline.com/news/crew-11-must-wait-another-day-while-duffy-meets-with-bakanov/" >🔗</a> **[SpacePolicyOnline.com]** Crew-11 Must Wait Another Day, While Duffy Meets With Bakanov
 - <a href="https://spaceflightnow.com/2025/07/31/space-x-launches-west-coast-falcon-9-rocket-on-starlink-13-4-mission/" >🔗</a> **[Spaceflight Now]** SpaceX launches West Coast Falcon 9 rocket on Starlink 13-4 mission
 - <a href="https://www.nasa.gov/image-article/sunrise-on-crew-11-launch-attempt/" >🔗</a> **[NASA]** Sunrise on Crew-11 Launch Attempt
@@ -99,11 +100,12 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/07/Wildfires_burn_in_northern_Portugal" >🔗</a> **[ESA]** Wildfires burn in northern Portugal
 - <a href="https://www.nasaspaceflight.com/2025/07/crew-11-launch/" >🔗</a> **[NASASpaceflight]** NASA, SpaceX to launch Crew-11 mission to the ISS
 - <a href="https://spaceflightnow.com/2025/07/31/live-coverage-nasa-spacex-to-launch-crew-11-mission-to-the-international-space-station-on-a-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: Former members of Crew-9, Starliner-1 missions unite to fly to the Space Station
-- <a href="https://spacepolicyonline.com/news/senate-commerce-clears-noaa-nominations/" >🔗</a> **[SpacePolicyOnline.com]** Senate Commerce Clears NOAA Nominations
 
 
 ### Launch-related News 🚀
 
+- <a href="https://spacepolicyonline.com/news/crew-11-must-wait-another-day-while-duffy-meets-with-bakanov/" >🔗</a> **[SpacePolicyOnline.com]** Crew-11 Must Wait Another Day, While Duffy Meets With Bakanov
+- <a href="https://www.nasa.gov/image-article/sunrise-on-crew-11-launch-attempt/" >🔗</a> **[NASA]** Sunrise on Crew-11 Launch Attempt
 - <a href="https://www.nasaspaceflight.com/2025/07/crew-11-launch/" >🔗</a> **[NASASpaceflight]** NASA, SpaceX to launch Crew-11 mission to the ISS
 - <a href="https://spaceflightnow.com/2025/07/31/live-coverage-nasa-spacex-to-launch-crew-11-mission-to-the-international-space-station-on-a-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: Former members of Crew-9, Starliner-1 missions unite to fly to the Space Station
 - <a href="https://www.nasaspaceflight.com/2025/07/launch-roundup-072825/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX to launch Crew-11 to ISS; ISRO and NASA launch new SAR satellite
@@ -112,13 +114,11 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/07/26/crew-11-astronauts-cosmonaut-arrive-in-florida-ahead-of-launch-to-the-space-station/" >🔗</a> **[Spaceflight Now]** Crew-11 astronauts, cosmonaut arrive in Florida ahead of launch to the space station
 - <a href="https://www.nasaspaceflight.com/2025/07/space-report-tracers-starlink-o3b/" >🔗</a> **[NASASpaceflight]** Space Traffic Report: Busy Week for Falcon 9: TRACERS, Starlink & O3b Satellites!
 - <a href="https://www.nasa.gov/missions/station/commercial-crew/nasa-invites-virtual-guests-to-spacex-crew-11-mission-launch/" >🔗</a> **[NASA]** NASA Invites Virtual Guests to SpaceX Crew-11 Mission Launch
-- <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-agencys-spacex-crew-11-launch-docking/" >🔗</a> **[NASA]** NASA Sets Coverage for Agency’s SpaceX Crew-11 Launch, Docking
-- <a href="https://www.nasa.gov/missions/station/commercial-crew/what-you-need-to-know-about-nasas-spacex-crew-11-mission/" >🔗</a> **[NASA]** What You Need to Know About NASA’s SpaceX Crew-11 Mission
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250801T070508">2025-08-01 07:05:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250801T073659">2025-08-01 07:36:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
