@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/08/rocket-report-nasa-finally-working-on-depots-air-force-tests-new-icbm/" >🔗</a> **[Arstechnica]** Rocket Report: NASA finally working on depots, Air Force tests new ICBM
+- <a href="https://science.nasa.gov/missions/hubble/hubble-surveys-supernova-rich-spiral/" >🔗</a> **[NASA]** Hubble Surveys Supernova-Rich Spiral
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/SMOS/SMOS_adds_long-term_view_on_carbon_stored_in_forests" >🔗</a> **[ESA]** SMOS adds long-term view on carbon stored in forests
 - <a href="https://www.esa.int/About_Us/ESA_Open_Days_2025/Celebrating_50_years_of_ESA_at_Open_Days_2025" >🔗</a> **[ESA]** Celebrating 50 years of ESA at Open Days 2025
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/07/Webb_takes_a_fresh_look_at_a_classic_deep_field" >🔗</a> **[ESA]** Webb takes a fresh look at a classic deep field
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/07/31/space-x-launches-west-coast-falcon-9-rocket-on-starlink-13-4-mission/" >🔗</a> **[Spaceflight Now]** SpaceX launches West Coast Falcon 9 rocket on Starlink 13-4 mission
 - <a href="https://www.nasa.gov/image-article/sunrise-on-crew-11-launch-attempt/" >🔗</a> **[NASA]** Sunrise on Crew-11 Launch Attempt
 - <a href="https://www.nasa.gov/missions/roman-space-telescope/nasa-installs-key-sunblock-shield-on-roman-space-telescope/" >🔗</a> **[NASA]** NASA Installs Key ‘Sunblock’ Shield on Roman Space Telescope
-- <a href="https://europeanspaceflight.com/the-exploration-company-tests-key-component-of-typhoon-rocket-engine/" >🔗</a> **[European Spaceflight]** The Exploration Company Tests Key Component of Typhoon Rocket Engine
-- <a href="https://www.nasa.gov/news-release/lease-nasa-aircraft-hangar-in-cleveland/" >🔗</a> **[NASA]** NASA Invites Proposals to Lease Aircraft Hangar in Cleveland
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250801T110131">2025-08-01 11:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250801T113335">2025-08-01 11:33:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
