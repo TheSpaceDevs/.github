@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/07/Webb_takes_a_fresh_look_at_a_classic_deep_field" >🔗</a> **[ESA]** Webb takes a fresh look at a classic deep field
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/08/A_supernova-rich_spiral" >🔗</a> **[ESA]** A supernova-rich spiral
 - <a href="https://spacepolicyonline.com/news/crew-11-must-wait-another-day-while-duffy-meets-with-bakanov/" >🔗</a> **[SpacePolicyOnline.com]** Crew-11 Must Wait Another Day, While Duffy Meets With Bakanov
 - <a href="https://spaceflightnow.com/2025/07/31/space-x-launches-west-coast-falcon-9-rocket-on-starlink-13-4-mission/" >🔗</a> **[Spaceflight Now]** SpaceX launches West Coast Falcon 9 rocket on Starlink 13-4 mission
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/lease-nasa-aircraft-hangar-in-cleveland/" >🔗</a> **[NASA]** NASA Invites Proposals to Lease Aircraft Hangar in Cleveland
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/07/Wildfires_burn_in_northern_Portugal" >🔗</a> **[ESA]** Wildfires burn in northern Portugal
 - <a href="https://www.nasaspaceflight.com/2025/07/crew-11-launch/" >🔗</a> **[NASASpaceflight]** NASA, SpaceX to launch Crew-11 mission to the ISS
-- <a href="https://spaceflightnow.com/2025/07/31/live-coverage-nasa-spacex-to-launch-crew-11-mission-to-the-international-space-station-on-a-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: Former members of Crew-9, Starliner-1 missions unite to fly to the Space Station
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250801T080205">2025-08-01 08:02:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250801T084022">2025-08-01 08:40:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
