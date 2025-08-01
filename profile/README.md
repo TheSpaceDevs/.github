@@ -90,6 +90,8 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/europa-clipper/nasas-europa-clipper-radar-instrument-proves-itself-at-mars/" >🔗</a> **[NASA]** NASA’s Europa Clipper Radar Instrument Proves Itself at Mars
+- <a href="https://science.nasa.gov/solar-system/whats-up-august-2025-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: August 2025 Skywatching Tips from NASA
 - <a href="https://www.nasa.gov/news-release/nasas-spacex-crew-11-launches-to-international-space-station/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-11 Launches to International Space Station
 - <a href="https://www.nasa.gov/missions/jason-cs-sentinel-6/sentinel-6-michael-freilich/how-joint-nasa-esa-sea-level-mission-will-help-hurricane-forecasts/" >🔗</a> **[NASA]** How Joint NASA-ESA Sea Level Mission Will Help Hurricane Forecasts
 - <a href="https://europeanspaceflight.com/cnes-issues-call-for-lunar-power-station-prototype/" >🔗</a> **[European Spaceflight]** CNES Issues Call for Lunar Power Station Prototype
@@ -98,8 +100,6 @@ into *a Suborbital
 - <a href="https://science.nasa.gov/missions/hubble/hubble-surveys-supernova-rich-spiral/" >🔗</a> **[NASA]** Hubble Surveys Supernova-Rich Spiral
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/SMOS/SMOS_adds_long-term_view_on_carbon_stored_in_forests" >🔗</a> **[ESA]** SMOS adds long-term view on carbon stored in forests
 - <a href="https://www.esa.int/About_Us/ESA_Open_Days_2025/Celebrating_50_years_of_ESA_at_Open_Days_2025" >🔗</a> **[ESA]** Celebrating 50 years of ESA at Open Days 2025
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/07/Webb_takes_a_fresh_look_at_a_classic_deep_field" >🔗</a> **[ESA]** Webb takes a fresh look at a classic deep field
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/08/A_supernova-rich_spiral" >🔗</a> **[ESA]** A supernova-rich spiral
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250801T170331">2025-08-01 17:03:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250801T173645">2025-08-01 17:36:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
