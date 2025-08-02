@@ -90,6 +90,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/08/artemis-ii-astronaut-interviews/" >🔗</a> **[NASASpaceflight]** Artemis II astronauts discuss mission status ahead of in-capsule training
 - <a href="https://europeanspaceflight.com/arianegroup-receives-heat-shield-mock-up-for-exomars-mission/" >🔗</a> **[European Spaceflight]** ArianeGroup Receives Heat Shield Mock-Up for ExoMars Mission
 - <a href="https://spacepolicyonline.com/news/crew-11-on-the-way-to-iss/" >🔗</a> **[SpacePolicyOnline.com]** Crew-11 on The Way to ISS
 - <a href="https://science.nasa.gov/uncategorized/helio-highlights-july-2025/" >🔗</a> **[NASA]** Helio Highlights: July 2025
@@ -99,7 +100,6 @@ into *a Suborbital
 - <a href="https://spaceflightnow.com/2025/08/01/nasa-spacex-thread-the-clouds-to-launch-crew-11-to-the-international-space-station/" >🔗</a> **[Spaceflight Now]** NASA, SpaceX ‘thread the clouds’ to launch Crew-11 to the International Space Station
 - <a href="https://www.nasa.gov/image-article/crew-11-launches-to-international-space-station/" >🔗</a> **[NASA]** Crew-11 Launches to International Space Station
 - <a href="https://www.nasa.gov/missions/europa-clipper/nasas-europa-clipper-radar-instrument-proves-itself-at-mars/" >🔗</a> **[NASA]** NASA’s Europa Clipper Radar Instrument Proves Itself at Mars
-- <a href="https://science.nasa.gov/solar-system/whats-up-august-2025-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: August 2025 Skywatching Tips from NASA
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250802T210125">2025-08-02 21:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250802T213349">2025-08-02 21:33:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
