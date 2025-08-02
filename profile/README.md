@@ -90,6 +90,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/crew-11-on-the-way-to-iss/" >🔗</a> **[SpacePolicyOnline.com]** Crew-11 on The Way to ISS
 - <a href="https://science.nasa.gov/uncategorized/helio-highlights-july-2025/" >🔗</a> **[NASA]** Helio Highlights: July 2025
 - <a href="https://www.spacescout.info/2025/08/crew-11-returns-station-to-normal-operations/" >🔗</a> **[Space Scout]** Crew-11 Returns Station to Normal Operations
 - <a href="https://arstechnica.com/space/2025/08/the-curious-case-of-russias-charm-offensive-with-nasa-this-week/" >🔗</a> **[Arstechnica]** The curious case of Russia’s charm offensive with NASA this week
@@ -99,7 +100,6 @@ into *a Suborbital
 - <a href="https://www.nasa.gov/missions/europa-clipper/nasas-europa-clipper-radar-instrument-proves-itself-at-mars/" >🔗</a> **[NASA]** NASA’s Europa Clipper Radar Instrument Proves Itself at Mars
 - <a href="https://science.nasa.gov/solar-system/whats-up-august-2025-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: August 2025 Skywatching Tips from NASA
 - <a href="https://www.nasa.gov/news-release/nasas-spacex-crew-11-launches-to-international-space-station/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-11 Launches to International Space Station
-- <a href="https://www.nasa.gov/missions/jason-cs-sentinel-6/sentinel-6-michael-freilich/how-joint-nasa-esa-sea-level-mission-will-help-hurricane-forecasts/" >🔗</a> **[NASA]** How Joint NASA-ESA Sea Level Mission Will Help Hurricane Forecasts
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250802T021818">2025-08-02 02:18:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250802T030300">2025-08-02 03:03:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
