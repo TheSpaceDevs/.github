@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/08/webb-ngc-6072-hudf/" >🔗</a> **[NASASpaceflight]** Webb reveals structures in planetary nebula, sheds new light on the Hubble Ultra Deep Field
 - <a href="https://spaceflightnow.com/2025/08/03/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-8/" >🔗</a> **[Spaceflight Now]** Live coverage: Starlink mission marks SpaceX’s 450th flight-proven Falcon booster launch
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-3-9-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy August 3-9, 2025
 - <a href="https://www.nasaspaceflight.com/2025/08/lz-1-final-falcon-landing-pad/" >🔗</a> **[NASASpaceflight]** LZ-1 receives its final Falcon landing as SpaceX hand over the landing pad
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/uncategorized/helio-highlights-july-2025/" >🔗</a> **[NASA]** Helio Highlights: July 2025
 - <a href="https://www.spacescout.info/2025/08/crew-11-returns-station-to-normal-operations/" >🔗</a> **[Space Scout]** Crew-11 Returns Station to Normal Operations
 - <a href="https://arstechnica.com/space/2025/08/the-curious-case-of-russias-charm-offensive-with-nasa-this-week/" >🔗</a> **[Arstechnica]** The curious case of Russia’s charm offensive with NASA this week
-- <a href="https://science.nasa.gov/learning-resources/for-educators/nube-new-card-game-helps-learners-identify-cloud-types-through-play/" >🔗</a> **[NASA]** NUBE: New Card Game Helps Learners Identify Cloud Types Through Play
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250803T210126">2025-08-03 21:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250803T213406">2025-08-03 21:34:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
