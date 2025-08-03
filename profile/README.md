@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-3-9-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy August 3-9, 2025
 - <a href="https://www.nasaspaceflight.com/2025/08/lz-1-final-falcon-landing-pad/" >🔗</a> **[NASASpaceflight]** LZ-1 receives its final Falcon landing as SpaceX hand over the landing pad
 - <a href="https://www.nasaspaceflight.com/2025/08/artemis-ii-astronaut-interviews/" >🔗</a> **[NASASpaceflight]** Artemis II astronauts discuss mission status ahead of in-capsule training
 - <a href="https://europeanspaceflight.com/arianegroup-receives-heat-shield-mock-up-for-exomars-mission/" >🔗</a> **[European Spaceflight]** ArianeGroup Receives Heat Shield Mock-Up for ExoMars Mission
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2025/08/the-curious-case-of-russias-charm-offensive-with-nasa-this-week/" >🔗</a> **[Arstechnica]** The curious case of Russia’s charm offensive with NASA this week
 - <a href="https://science.nasa.gov/learning-resources/for-educators/nube-new-card-game-helps-learners-identify-cloud-types-through-play/" >🔗</a> **[NASA]** NUBE: New Card Game Helps Learners Identify Cloud Types Through Play
 - <a href="https://spaceflightnow.com/2025/08/01/nasa-spacex-thread-the-clouds-to-launch-crew-11-to-the-international-space-station/" >🔗</a> **[Spaceflight Now]** NASA, SpaceX ‘thread the clouds’ to launch Crew-11 to the International Space Station
-- <a href="https://www.nasa.gov/image-article/crew-11-launches-to-international-space-station/" >🔗</a> **[NASA]** Crew-11 Launches to International Space Station
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250803T190205">2025-08-03 19:02:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250803T193214">2025-08-03 19:32:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
