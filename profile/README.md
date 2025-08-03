@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/08/03/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-8/" >🔗</a> **[Spaceflight Now]** Live coverage: Starlink mission marks SpaceX’s 450th flight-proven Falcon booster launch
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-3-9-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy August 3-9, 2025
 - <a href="https://www.nasaspaceflight.com/2025/08/lz-1-final-falcon-landing-pad/" >🔗</a> **[NASASpaceflight]** LZ-1 receives its final Falcon landing as SpaceX hand over the landing pad
 - <a href="https://www.nasaspaceflight.com/2025/08/artemis-ii-astronaut-interviews/" >🔗</a> **[NASASpaceflight]** Artemis II astronauts discuss mission status ahead of in-capsule training
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.spacescout.info/2025/08/crew-11-returns-station-to-normal-operations/" >🔗</a> **[Space Scout]** Crew-11 Returns Station to Normal Operations
 - <a href="https://arstechnica.com/space/2025/08/the-curious-case-of-russias-charm-offensive-with-nasa-this-week/" >🔗</a> **[Arstechnica]** The curious case of Russia’s charm offensive with NASA this week
 - <a href="https://science.nasa.gov/learning-resources/for-educators/nube-new-card-game-helps-learners-identify-cloud-types-through-play/" >🔗</a> **[NASA]** NUBE: New Card Game Helps Learners Identify Cloud Types Through Play
-- <a href="https://spaceflightnow.com/2025/08/01/nasa-spacex-thread-the-clouds-to-launch-crew-11-to-the-international-space-station/" >🔗</a> **[Spaceflight Now]** NASA, SpaceX ‘thread the clouds’ to launch Crew-11 to the International Space Station
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250803T200131">2025-08-03 20:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250803T203538">2025-08-03 20:35:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
