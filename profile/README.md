@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/perseids-meteor-shower/" >🔗</a> **[NASA]** Perseids Meteor Shower
+- <a href="https://www.nasa.gov/missions/artemis/artemis-2/nasas-artemis-crew-trains-in-moonbound-orion-ahead-of-mission/" >🔗</a> **[NASA]** NASA’s Artemis Crew Trains in Moonbound Orion Ahead of Mission
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/mark-cavanaugh-integrating-safety-into-the-orion-spacecraft/" >🔗</a> **[NASA]** Mark Cavanaugh: Integrating Safety into the Orion Spacecraft
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/08/Training_robots_from_space" >🔗</a> **[ESA]** Training robots from space
 - <a href="https://www.nasaspaceflight.com/2025/08/webb-ngc-6072-hudf/" >🔗</a> **[NASASpaceflight]** Webb reveals structures in planetary nebula, sheds new light on the Hubble Ultra Deep Field
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2025/08/lz-1-final-falcon-landing-pad/" >🔗</a> **[NASASpaceflight]** LZ-1 receives its final Falcon landing as SpaceX hand over the landing pad
 - <a href="https://www.nasaspaceflight.com/2025/08/artemis-ii-astronaut-interviews/" >🔗</a> **[NASASpaceflight]** Artemis II astronauts discuss mission status ahead of in-capsule training
 - <a href="https://europeanspaceflight.com/arianegroup-receives-heat-shield-mock-up-for-exomars-mission/" >🔗</a> **[European Spaceflight]** ArianeGroup Receives Heat Shield Mock-Up for ExoMars Mission
-- <a href="https://spacepolicyonline.com/news/crew-11-on-the-way-to-iss/" >🔗</a> **[SpacePolicyOnline.com]** Crew-11 on The Way to ISS
-- <a href="https://science.nasa.gov/uncategorized/helio-highlights-july-2025/" >🔗</a> **[NASA]** Helio Highlights: July 2025
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250804T160212">2025-08-04 16:02:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250804T164053">2025-08-04 16:40:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
