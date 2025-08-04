@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/mark-cavanaugh-integrating-safety-into-the-orion-spacecraft/" >🔗</a> **[NASA]** Mark Cavanaugh: Integrating Safety into the Orion Spacecraft
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/08/Training_robots_from_space" >🔗</a> **[ESA]** Training robots from space
 - <a href="https://www.nasaspaceflight.com/2025/08/webb-ngc-6072-hudf/" >🔗</a> **[NASASpaceflight]** Webb reveals structures in planetary nebula, sheds new light on the Hubble Ultra Deep Field
 - <a href="https://spaceflightnow.com/2025/08/03/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-8/" >🔗</a> **[Spaceflight Now]** Live coverage: Starlink mission marks SpaceX’s 450th flight-proven Falcon booster launch
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-3-9-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy August 3-9, 2025
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/arianegroup-receives-heat-shield-mock-up-for-exomars-mission/" >🔗</a> **[European Spaceflight]** ArianeGroup Receives Heat Shield Mock-Up for ExoMars Mission
 - <a href="https://spacepolicyonline.com/news/crew-11-on-the-way-to-iss/" >🔗</a> **[SpacePolicyOnline.com]** Crew-11 on The Way to ISS
 - <a href="https://science.nasa.gov/uncategorized/helio-highlights-july-2025/" >🔗</a> **[NASA]** Helio Highlights: July 2025
-- <a href="https://www.spacescout.info/2025/08/crew-11-returns-station-to-normal-operations/" >🔗</a> **[Space Scout]** Crew-11 Returns Station to Normal Operations
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250804T124356">2025-08-04 12:43:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250804T131450">2025-08-04 13:14:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
