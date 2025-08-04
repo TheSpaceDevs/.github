@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-opens-simulated-mars-habitat-to-media-ahead-of-second-mission/" >🔗</a> **[NASA]** NASA Opens Simulated Mars Habitat to Media Ahead of Second Mission
+- <a href="https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/marking-13-years-on-mars-nasas-curiosity-picks-up-new-skills/" >🔗</a> **[NASA]** Marking 13 Years on Mars, NASA’s Curiosity Picks Up New Skills
 - <a href="https://www.nasa.gov/image-article/perseids-meteor-shower/" >🔗</a> **[NASA]** Perseids Meteor Shower
 - <a href="https://www.nasa.gov/missions/artemis/artemis-2/nasas-artemis-crew-trains-in-moonbound-orion-ahead-of-mission/" >🔗</a> **[NASA]** NASA’s Artemis Crew Trains in Moonbound Orion Ahead of Mission
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/mark-cavanaugh-integrating-safety-into-the-orion-spacecraft/" >🔗</a> **[NASA]** Mark Cavanaugh: Integrating Safety into the Orion Spacecraft
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/08/03/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-8/" >🔗</a> **[Spaceflight Now]** Live coverage: Starlink mission marks SpaceX’s 450th flight-proven Falcon booster launch
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-3-9-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy August 3-9, 2025
 - <a href="https://www.nasaspaceflight.com/2025/08/lz-1-final-falcon-landing-pad/" >🔗</a> **[NASASpaceflight]** LZ-1 receives its final Falcon landing as SpaceX hand over the landing pad
-- <a href="https://www.nasaspaceflight.com/2025/08/artemis-ii-astronaut-interviews/" >🔗</a> **[NASASpaceflight]** Artemis II astronauts discuss mission status ahead of in-capsule training
-- <a href="https://europeanspaceflight.com/arianegroup-receives-heat-shield-mock-up-for-exomars-mission/" >🔗</a> **[European Spaceflight]** ArianeGroup Receives Heat Shield Mock-Up for ExoMars Mission
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250804T170444">2025-08-04 17:04:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250804T173746">2025-08-04 17:37:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
