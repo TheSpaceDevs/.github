@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/learning-resources/for-professionals/courses-curriculums/stem-educators-are-bringing-hands-on-nasa-science-into-virginia-classrooms/" >🔗</a> **[NASA]** STEM Educators Are Bringing Hands-On NASA Science into Virginia Classrooms
 - <a href="https://www.nasa.gov/missions/small-satellite-missions/lunar-trailblazer/nasas-lunar-trailblazer-moon-mission-ends/" >🔗</a> **[NASA]** NASA’s Lunar Trailblazer Moon Mission Ends
 - <a href="https://www.nasa.gov/news-release/nasa-opens-simulated-mars-habitat-to-media-ahead-of-second-mission/" >🔗</a> **[NASA]** NASA Opens Simulated Mars Habitat to Media Ahead of Second Mission
 - <a href="https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/marking-13-years-on-mars-nasas-curiosity-picks-up-new-skills/" >🔗</a> **[NASA]** Marking 13 Years on Mars, NASA’s Curiosity Picks Up New Skills
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/08/Training_robots_from_space" >🔗</a> **[ESA]** Training robots from space
 - <a href="https://www.nasaspaceflight.com/2025/08/webb-ngc-6072-hudf/" >🔗</a> **[NASASpaceflight]** Webb reveals structures in planetary nebula, sheds new light on the Hubble Ultra Deep Field
 - <a href="https://spaceflightnow.com/2025/08/03/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-8/" >🔗</a> **[Spaceflight Now]** Live coverage: Starlink mission marks SpaceX’s 450th flight-proven Falcon booster launch
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-3-9-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy August 3-9, 2025
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250804T190343">2025-08-04 19:03:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250804T193346">2025-08-04 19:33:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
