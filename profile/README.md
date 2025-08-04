@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/polands-spaceforest-completes-qualification-of-perun-rocket-engine/" >🔗</a> **[European Spaceflight]** Poland’s SpaceForest Completes Qualification of PERUN Rocket Engine
+- <a href="https://arstechnica.com/space/2025/08/is-the-dream-chaser-space-plane-ever-going-to-launch-into-orbit/" >🔗</a> **[Arstechnica]** Is the Dream Chaser space plane ever going to launch into orbit?
+- <a href="https://www.nasaspaceflight.com/2025/08/launch-roundup-080425/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Vulcan and Electron to launch between Falcon 9 missions
+- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4616-4617-standing-tall-on-the-ridge/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4616-4617: Standing Tall on the Ridge
+- <a href="https://tlpnetwork.com/news/in-space/nasa-ends-lunar-trailblazer-mission-spacecraft-to-drift-into-deep-space-after-loss-of-contact" >🔗</a> **[The Launch Pad]** NASA Ends Lunar Trailblazer Mission; Spacecraft To Drift Into Deep Space After Loss of Contact
+- <a href="https://science.nasa.gov/earth/nasas-black-marble-stories-from-the-night-sky/" >🔗</a> **[NASA]** NASA’s Black Marble: Stories from the Night Sky
 - <a href="https://science.nasa.gov/learning-resources/for-professionals/courses-curriculums/stem-educators-are-bringing-hands-on-nasa-science-into-virginia-classrooms/" >🔗</a> **[NASA]** STEM Educators Are Bringing Hands-On NASA Science into Virginia Classrooms
 - <a href="https://www.nasa.gov/missions/small-satellite-missions/lunar-trailblazer/nasas-lunar-trailblazer-moon-mission-ends/" >🔗</a> **[NASA]** NASA’s Lunar Trailblazer Moon Mission Ends
 - <a href="https://www.nasa.gov/news-release/nasa-opens-simulated-mars-habitat-to-media-ahead-of-second-mission/" >🔗</a> **[NASA]** NASA Opens Simulated Mars Habitat to Media Ahead of Second Mission
 - <a href="https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/marking-13-years-on-mars-nasas-curiosity-picks-up-new-skills/" >🔗</a> **[NASA]** Marking 13 Years on Mars, NASA’s Curiosity Picks Up New Skills
-- <a href="https://www.nasa.gov/image-article/perseids-meteor-shower/" >🔗</a> **[NASA]** Perseids Meteor Shower
-- <a href="https://www.nasa.gov/missions/artemis/artemis-2/nasas-artemis-crew-trains-in-moonbound-orion-ahead-of-mission/" >🔗</a> **[NASA]** NASA’s Artemis Crew Trains in Moonbound Orion Ahead of Mission
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/mark-cavanaugh-integrating-safety-into-the-orion-spacecraft/" >🔗</a> **[NASA]** Mark Cavanaugh: Integrating Safety into the Orion Spacecraft
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/08/Training_robots_from_space" >🔗</a> **[ESA]** Training robots from space
-- <a href="https://www.nasaspaceflight.com/2025/08/webb-ngc-6072-hudf/" >🔗</a> **[NASASpaceflight]** Webb reveals structures in planetary nebula, sheds new light on the Hubble Ultra Deep Field
-- <a href="https://spaceflightnow.com/2025/08/03/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-8/" >🔗</a> **[Spaceflight Now]** Live coverage: Starlink mission marks SpaceX’s 450th flight-proven Falcon booster launch
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250804T200130">2025-08-04 20:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250804T203648">2025-08-04 20:36:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
