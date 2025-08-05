@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/MetOp_Second_Generation/First_MetOp-SG_satellite_sealed_within_Ariane_6_fairing" >🔗</a> **[ESA]** First MetOp-SG satellite sealed within Ariane 6 fairing
 - <a href="https://europeanspaceflight.com/polands-spaceforest-completes-qualification-of-perun-rocket-engine/" >🔗</a> **[European Spaceflight]** Poland’s SpaceForest Completes Qualification of PERUN Rocket Engine
 - <a href="https://arstechnica.com/space/2025/08/is-the-dream-chaser-space-plane-ever-going-to-launch-into-orbit/" >🔗</a> **[Arstechnica]** Is the Dream Chaser space plane ever going to launch into orbit?
 - <a href="https://www.nasaspaceflight.com/2025/08/launch-roundup-080425/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Vulcan and Electron to launch between Falcon 9 missions
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/learning-resources/for-professionals/courses-curriculums/stem-educators-are-bringing-hands-on-nasa-science-into-virginia-classrooms/" >🔗</a> **[NASA]** STEM Educators Are Bringing Hands-On NASA Science into Virginia Classrooms
 - <a href="https://www.nasa.gov/missions/small-satellite-missions/lunar-trailblazer/nasas-lunar-trailblazer-moon-mission-ends/" >🔗</a> **[NASA]** NASA’s Lunar Trailblazer Moon Mission Ends
 - <a href="https://www.nasa.gov/news-release/nasa-opens-simulated-mars-habitat-to-media-ahead-of-second-mission/" >🔗</a> **[NASA]** NASA Opens Simulated Mars Habitat to Media Ahead of Second Mission
-- <a href="https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/marking-13-years-on-mars-nasas-curiosity-picks-up-new-skills/" >🔗</a> **[NASA]** Marking 13 Years on Mars, NASA’s Curiosity Picks Up New Skills
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250805T090438">2025-08-05 09:04:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250805T093836">2025-08-05 09:38:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
