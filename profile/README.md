@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/ames/what-is-nasas-distributed-spacecraft-autonomy/" >🔗</a> **[NASA]** What is NASA’s Distributed Spacecraft Autonomy?
+- <a href="https://www.nasaspaceflight.com/2025/08/uk-first-vertical-launch-license-skyrora/" >🔗</a> **[NASASpaceflight]** UK Regulator Grants First Vertical Launch License to Scottish Rocket Firm Skyrora
 - <a href="https://www.nasa.gov/image-article/second-lady-usha-vance-nasa-astronaut-suni-williams-celebrate-reading/" >🔗</a> **[NASA]** Second Lady Usha Vance, NASA Astronaut Suni Williams Celebrate Reading
 - <a href="https://www.nasaspaceflight.com/2025/08/spacex-pad-1-tests-masseys/" >🔗</a> **[NASASpaceflight]** How SpaceX modified Pad 1 for Ship Static Fire tests to cover Massey’s downtime
 - <a href="https://europeanspaceflight.com/skyrora-secures-launch-licence-for-suborbital-skylark-l-rocket/" >🔗</a> **[European Spaceflight]** Skyrora Secures Launch Licence for Suborbital Skylark L Rocket
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2025/08/is-the-dream-chaser-space-plane-ever-going-to-launch-into-orbit/" >🔗</a> **[Arstechnica]** Is the Dream Chaser space plane ever going to launch into orbit?
 - <a href="https://www.nasaspaceflight.com/2025/08/launch-roundup-080425/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Vulcan and Electron to launch between Falcon 9 missions
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4616-4617-standing-tall-on-the-ridge/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4616-4617: Standing Tall on the Ridge
-- <a href="https://tlpnetwork.com/news/in-space/nasa-ends-lunar-trailblazer-mission-spacecraft-to-drift-into-deep-space-after-loss-of-contact" >🔗</a> **[The Launch Pad]** NASA Ends Lunar Trailblazer Mission; Spacecraft To Drift Into Deep Space After Loss of Contact
-- <a href="https://science.nasa.gov/earth/nasas-black-marble-stories-from-the-night-sky/" >🔗</a> **[NASA]** NASA’s Black Marble: Stories from the Night Sky
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250805T170152">2025-08-05 17:01:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250805T173623">2025-08-05 17:36:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
