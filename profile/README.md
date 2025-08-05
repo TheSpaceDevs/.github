@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-selects-six-companies-to-provide-orbital-transfer-vehicle-studies/" >🔗</a> **[NASA]** NASA Selects Six Companies to Provide Orbital Transfer Vehicle Studies
+- <a href="https://www.nasa.gov/missions/station/iss-research/looking-back-at-nasas-spacex-crew-10-science-mission/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-10 Looks Back at Science Mission
+- <a href="https://science.nasa.gov/learning-resources/science-activation/nasa-science-activation-teams-unite-to-support-neurodiverse-learners-with-public-libraries/" >🔗</a> **[NASA]** NASA Science Activation Teams Unite to Support Neurodiverse Learners with Public Libraries
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/what-is-nasas-distributed-spacecraft-autonomy/" >🔗</a> **[NASA]** What is NASA’s Distributed Spacecraft Autonomy?
 - <a href="https://www.nasaspaceflight.com/2025/08/uk-first-vertical-launch-license-skyrora/" >🔗</a> **[NASASpaceflight]** UK Regulator Grants First Vertical Launch License to Scottish Rocket Firm Skyrora
 - <a href="https://www.nasa.gov/image-article/second-lady-usha-vance-nasa-astronaut-suni-williams-celebrate-reading/" >🔗</a> **[NASA]** Second Lady Usha Vance, NASA Astronaut Suni Williams Celebrate Reading
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/skyrora-secures-launch-licence-for-suborbital-skylark-l-rocket/" >🔗</a> **[European Spaceflight]** Skyrora Secures Launch Licence for Suborbital Skylark L Rocket
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/MetOp_Second_Generation/First_MetOp-SG_satellite_sealed_within_Ariane_6_fairing" >🔗</a> **[ESA]** First MetOp-SG satellite sealed within Ariane 6 fairing
 - <a href="https://europeanspaceflight.com/polands-spaceforest-completes-qualification-of-perun-rocket-engine/" >🔗</a> **[European Spaceflight]** Poland’s SpaceForest Completes Qualification of PERUN Rocket Engine
-- <a href="https://arstechnica.com/space/2025/08/is-the-dream-chaser-space-plane-ever-going-to-launch-into-orbit/" >🔗</a> **[Arstechnica]** Is the Dream Chaser space plane ever going to launch into orbit?
-- <a href="https://www.nasaspaceflight.com/2025/08/launch-roundup-080425/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Vulcan and Electron to launch between Falcon 9 missions
-- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4616-4617-standing-tall-on-the-ridge/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4616-4617: Standing Tall on the Ridge
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250805T200134">2025-08-05 20:01:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250805T203537">2025-08-05 20:35:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
