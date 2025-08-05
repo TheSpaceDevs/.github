@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4618-4619-the-boxwork-structures-continue-to-call-to-us/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4618-4619: The Boxwork Structures Continue to Call to Us
 - <a href="https://www.nasa.gov/news-release/nasa-selects-six-companies-to-provide-orbital-transfer-vehicle-studies/" >🔗</a> **[NASA]** NASA Selects Six Companies to Provide Orbital Transfer Vehicle Studies
 - <a href="https://www.nasa.gov/missions/station/iss-research/looking-back-at-nasas-spacex-crew-10-science-mission/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-10 Looks Back at Science Mission
 - <a href="https://science.nasa.gov/learning-resources/science-activation/nasa-science-activation-teams-unite-to-support-neurodiverse-learners-with-public-libraries/" >🔗</a> **[NASA]** NASA Science Activation Teams Unite to Support Neurodiverse Learners with Public Libraries
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2025/08/spacex-pad-1-tests-masseys/" >🔗</a> **[NASASpaceflight]** How SpaceX modified Pad 1 for Ship Static Fire tests to cover Massey’s downtime
 - <a href="https://europeanspaceflight.com/skyrora-secures-launch-licence-for-suborbital-skylark-l-rocket/" >🔗</a> **[European Spaceflight]** Skyrora Secures Launch Licence for Suborbital Skylark L Rocket
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/MetOp_Second_Generation/First_MetOp-SG_satellite_sealed_within_Ariane_6_fairing" >🔗</a> **[ESA]** First MetOp-SG satellite sealed within Ariane 6 fairing
-- <a href="https://europeanspaceflight.com/polands-spaceforest-completes-qualification-of-perun-rocket-engine/" >🔗</a> **[European Spaceflight]** Poland’s SpaceForest Completes Qualification of PERUN Rocket Engine
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250805T210123">2025-08-05 21:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250805T213457">2025-08-05 21:34:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
