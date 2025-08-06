@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/08/as-the-end-of-the-iss-nears-nasa-shakes-up-program-for-commercial-replacements/" >🔗</a> **[Arstechnica]** As the end of the ISS nears, NASA shakes up program for commercial replacements
+- <a href="https://www.nasa.gov/earth/nasa-supercomputers-take-on-life-near-greenlands-most-active-glacier/" >🔗</a> **[NASA]** NASA Supercomputers Take on Life Near Greenland’s Most Active Glacier
+- <a href="https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-captures-mars-vista-as-clear-as-day/" >🔗</a> **[NASA]** NASA’s Perseverance Rover Captures Mars Vista As Clear As Day
 - <a href="https://spacepolicyonline.com/news/duffy-approves-moving-a-space-shuttle-to-houston/" >🔗</a> **[SpacePolicyOnline.com]** Duffy Approves Moving a Space Shuttle to Houston
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-barry-butch-wilmore-retires/" >🔗</a> **[NASA]** NASA Astronaut Barry “Butch” Wilmore Retires
 - <a href="https://www.nasa.gov/image-article/curiosity-looks-back-toward-its-landing-site/" >🔗</a> **[NASA]** Curiosity Looks Back Toward Its Landing Site
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/dlr-completes-key-component-for-the-callisto-demonstrators-landing-legs/" >🔗</a> **[European Spaceflight]** DLR Completes Key Component for the Callisto Demonstrator’s Landing Legs
 - <a href="https://www.nasaspaceflight.com/2025/08/impulse-upgraded-mira-spacecraft-expanding-capabilities/" >🔗</a> **[NASASpaceflight]** Impulse Space unveils upgraded Mira spacecraft, expanding capabilities beyond LEO
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/MetOp_Second_Generation/Watch_MetOp-SG-A1_and_Sentinel-5_launch" >🔗</a> **[ESA]** Watch: MetOp-SG-A1 and Sentinel-5 launch
-- <a href="https://www.esa.int/Space_Safety/Hera/First_asteroid_sightings_push_Hera_s_camera_to_the_limit" >🔗</a> **[ESA]** First asteroid sightings push Hera’s camera to the limit
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/When_martian_ground_falls_apart" >🔗</a> **[ESA]** When martian ground falls apart
-- <a href="https://spacepolicyonline.com/news/in-moon-race-with-china-duffy-wants-fission-surface-power/" >🔗</a> **[SpacePolicyOnline.com]** In Moon Race with China, Duffy Wants Fission Surface Power
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250806T190326">2025-08-06 19:03:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250806T193324">2025-08-06 19:33:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
