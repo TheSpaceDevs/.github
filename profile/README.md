@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/08/06/live-coverage-spacex-to-launch-24-amazon-project-kuiper-satellites-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Amazon Project Kuiper satellites on Falcon 9 rocket from Cape Canaveral
+- <a href="https://www.nasa.gov/news-release/nasa-to-provide-live-coverage-of-crew-10-return-splashdown/" >🔗</a> **[NASA]** NASA to Provide Live Coverage of Crew-10 Return, Splashdown
 - <a href="https://science.nasa.gov/directorates/smd/earth-science-division/snapshot-wisconsin-celebrates-10-years-and-100-million-photos-collected/" >🔗</a> **[NASA]** Snapshot Wisconsin Celebrates 10 Years and 100 Million Photos Collected!
 - <a href="https://arstechnica.com/space/2025/08/as-the-end-of-the-iss-nears-nasa-shakes-up-program-for-commercial-replacements/" >🔗</a> **[Arstechnica]** As the end of the ISS nears, NASA shakes up program for commercial replacements
 - <a href="https://www.nasa.gov/earth/nasa-supercomputers-take-on-life-near-greenlands-most-active-glacier/" >🔗</a> **[NASA]** NASA Supercomputers Take on Life Near Greenland’s Most Active Glacier
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-barry-butch-wilmore-retires/" >🔗</a> **[NASA]** NASA Astronaut Barry “Butch” Wilmore Retires
 - <a href="https://www.nasa.gov/image-article/curiosity-looks-back-toward-its-landing-site/" >🔗</a> **[NASA]** Curiosity Looks Back Toward Its Landing Site
 - <a href="https://www.nasa.gov/image-article/ms-attorney-nathan-jermyn-serves/" >🔗</a> **[NASA]** Mississippi Attorney Serves NASA and the Nation
-- <a href="https://europeanspaceflight.com/dlr-completes-key-component-for-the-callisto-demonstrators-landing-legs/" >🔗</a> **[European Spaceflight]** DLR Completes Key Component for the Callisto Demonstrator’s Landing Legs
-- <a href="https://www.nasaspaceflight.com/2025/08/impulse-upgraded-mira-spacecraft-expanding-capabilities/" >🔗</a> **[NASASpaceflight]** Impulse Space unveils upgraded Mira spacecraft, expanding capabilities beyond LEO
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250806T220131">2025-08-06 22:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250806T223659">2025-08-06 22:36:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
