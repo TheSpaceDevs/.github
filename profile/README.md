@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/duffy-approves-moving-a-space-shuttle-to-houston/" >🔗</a> **[SpacePolicyOnline.com]** Duffy Approves Moving a Space Shuttle to Houston
+- <a href="https://www.nasa.gov/news-release/nasa-astronaut-barry-butch-wilmore-retires/" >🔗</a> **[NASA]** NASA Astronaut Barry “Butch” Wilmore Retires
 - <a href="https://www.nasa.gov/image-article/curiosity-looks-back-toward-its-landing-site/" >🔗</a> **[NASA]** Curiosity Looks Back Toward Its Landing Site
 - <a href="https://www.nasa.gov/image-article/ms-attorney-nathan-jermyn-serves/" >🔗</a> **[NASA]** Mississippi Attorney Serves NASA and the Nation
 - <a href="https://europeanspaceflight.com/dlr-completes-key-component-for-the-callisto-demonstrators-landing-legs/" >🔗</a> **[European Spaceflight]** DLR Completes Key Component for the Callisto Demonstrator’s Landing Legs
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Space_Safety/Hera/First_asteroid_sightings_push_Hera_s_camera_to_the_limit" >🔗</a> **[ESA]** First asteroid sightings push Hera’s camera to the limit
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/When_martian_ground_falls_apart" >🔗</a> **[ESA]** When martian ground falls apart
 - <a href="https://spacepolicyonline.com/news/in-moon-race-with-china-duffy-wants-fission-surface-power/" >🔗</a> **[SpacePolicyOnline.com]** In Moon Race with China, Duffy Wants Fission Surface Power
-- <a href="https://tlpnetwork.com/news/technology/nasa-selects-six-companies-for-multi-orbit-spacecraft-delivery-study" >🔗</a> **[The Launch Pad]** NASA Selects Six Companies for Multi-Orbit Spacecraft Delivery Study
-- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4618-4619-the-boxwork-structures-continue-to-call-to-us/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4618-4619: The Boxwork Structures Continue to Call to Us
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250806T180144">2025-08-06 18:01:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250806T184146">2025-08-06 18:41:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
