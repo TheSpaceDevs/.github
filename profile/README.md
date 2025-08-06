@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/ms-attorney-nathan-jermyn-serves/" >🔗</a> **[NASA]** Mississippi Attorney Serves NASA and the Nation
+- <a href="https://europeanspaceflight.com/dlr-completes-key-component-for-the-callisto-demonstrators-landing-legs/" >🔗</a> **[European Spaceflight]** DLR Completes Key Component for the Callisto Demonstrator’s Landing Legs
 - <a href="https://www.nasaspaceflight.com/2025/08/impulse-upgraded-mira-spacecraft-expanding-capabilities/" >🔗</a> **[NASASpaceflight]** Impulse Space unveils upgraded Mira spacecraft, expanding capabilities beyond LEO
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/MetOp_Second_Generation/Watch_MetOp-SG-A1_and_Sentinel-5_launch" >🔗</a> **[ESA]** Watch: MetOp-SG-A1 and Sentinel-5 launch
 - <a href="https://www.esa.int/Space_Safety/Hera/First_asteroid_sightings_push_Hera_s_camera_to_the_limit" >🔗</a> **[ESA]** First asteroid sightings push Hera’s camera to the limit
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/technology/nasa-selects-six-companies-for-multi-orbit-spacecraft-delivery-study" >🔗</a> **[The Launch Pad]** NASA Selects Six Companies for Multi-Orbit Spacecraft Delivery Study
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4618-4619-the-boxwork-structures-continue-to-call-to-us/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4618-4619: The Boxwork Structures Continue to Call to Us
 - <a href="https://www.nasa.gov/news-release/nasa-selects-six-companies-to-provide-orbital-transfer-vehicle-studies/" >🔗</a> **[NASA]** NASA Selects Six Companies to Provide Orbital Transfer Vehicle Studies
-- <a href="https://www.nasa.gov/missions/station/iss-research/looking-back-at-nasas-spacex-crew-10-science-mission/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-10 Looks Back at Science Mission
-- <a href="https://science.nasa.gov/learning-resources/science-activation/nasa-science-activation-teams-unite-to-support-neurodiverse-learners-with-public-libraries/" >🔗</a> **[NASA]** NASA Science Activation Teams Unite to Support Neurodiverse Learners with Public Libraries
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250806T134317">2025-08-06 13:43:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250806T140423">2025-08-06 14:04:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
