@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/curiosity-looks-back-toward-its-landing-site/" >🔗</a> **[NASA]** Curiosity Looks Back Toward Its Landing Site
 - <a href="https://www.nasa.gov/image-article/ms-attorney-nathan-jermyn-serves/" >🔗</a> **[NASA]** Mississippi Attorney Serves NASA and the Nation
 - <a href="https://europeanspaceflight.com/dlr-completes-key-component-for-the-callisto-demonstrators-landing-legs/" >🔗</a> **[European Spaceflight]** DLR Completes Key Component for the Callisto Demonstrator’s Landing Legs
 - <a href="https://www.nasaspaceflight.com/2025/08/impulse-upgraded-mira-spacecraft-expanding-capabilities/" >🔗</a> **[NASASpaceflight]** Impulse Space unveils upgraded Mira spacecraft, expanding capabilities beyond LEO
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/in-moon-race-with-china-duffy-wants-fission-surface-power/" >🔗</a> **[SpacePolicyOnline.com]** In Moon Race with China, Duffy Wants Fission Surface Power
 - <a href="https://tlpnetwork.com/news/technology/nasa-selects-six-companies-for-multi-orbit-spacecraft-delivery-study" >🔗</a> **[The Launch Pad]** NASA Selects Six Companies for Multi-Orbit Spacecraft Delivery Study
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4618-4619-the-boxwork-structures-continue-to-call-to-us/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4618-4619: The Boxwork Structures Continue to Call to Us
-- <a href="https://www.nasa.gov/news-release/nasa-selects-six-companies-to-provide-orbital-transfer-vehicle-studies/" >🔗</a> **[NASA]** NASA Selects Six Companies to Provide Orbital Transfer Vehicle Studies
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250806T160221">2025-08-06 16:02:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250806T164013">2025-08-06 16:40:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
