@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/technology/nasa-selects-six-companies-for-multi-orbit-spacecraft-delivery-study" >🔗</a> **[The Launch Pad]** NASA Selects Six Companies for Multi-Orbit Spacecraft Delivery Study
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4618-4619-the-boxwork-structures-continue-to-call-to-us/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4618-4619: The Boxwork Structures Continue to Call to Us
 - <a href="https://www.nasa.gov/news-release/nasa-selects-six-companies-to-provide-orbital-transfer-vehicle-studies/" >🔗</a> **[NASA]** NASA Selects Six Companies to Provide Orbital Transfer Vehicle Studies
 - <a href="https://www.nasa.gov/missions/station/iss-research/looking-back-at-nasas-spacex-crew-10-science-mission/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-10 Looks Back at Science Mission
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/second-lady-usha-vance-nasa-astronaut-suni-williams-celebrate-reading/" >🔗</a> **[NASA]** Second Lady Usha Vance, NASA Astronaut Suni Williams Celebrate Reading
 - <a href="https://www.nasaspaceflight.com/2025/08/spacex-pad-1-tests-masseys/" >🔗</a> **[NASASpaceflight]** How SpaceX modified Pad 1 for Ship Static Fire tests to cover Massey’s downtime
 - <a href="https://europeanspaceflight.com/skyrora-secures-launch-licence-for-suborbital-skylark-l-rocket/" >🔗</a> **[European Spaceflight]** Skyrora Secures Launch Licence for Suborbital Skylark L Rocket
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/MetOp_Second_Generation/First_MetOp-SG_satellite_sealed_within_Ariane_6_fairing" >🔗</a> **[ESA]** First MetOp-SG satellite sealed within Ariane 6 fairing
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250806T012957">2025-08-06 01:29:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250806T021928">2025-08-06 02:19:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
