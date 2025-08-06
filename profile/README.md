@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/directorates/smd/earth-science-division/snapshot-wisconsin-celebrates-10-years-and-100-million-photos-collected/" >🔗</a> **[NASA]** Snapshot Wisconsin Celebrates 10 Years and 100 Million Photos Collected!
 - <a href="https://arstechnica.com/space/2025/08/as-the-end-of-the-iss-nears-nasa-shakes-up-program-for-commercial-replacements/" >🔗</a> **[Arstechnica]** As the end of the ISS nears, NASA shakes up program for commercial replacements
 - <a href="https://www.nasa.gov/earth/nasa-supercomputers-take-on-life-near-greenlands-most-active-glacier/" >🔗</a> **[NASA]** NASA Supercomputers Take on Life Near Greenland’s Most Active Glacier
 - <a href="https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-captures-mars-vista-as-clear-as-day/" >🔗</a> **[NASA]** NASA’s Perseverance Rover Captures Mars Vista As Clear As Day
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/ms-attorney-nathan-jermyn-serves/" >🔗</a> **[NASA]** Mississippi Attorney Serves NASA and the Nation
 - <a href="https://europeanspaceflight.com/dlr-completes-key-component-for-the-callisto-demonstrators-landing-legs/" >🔗</a> **[European Spaceflight]** DLR Completes Key Component for the Callisto Demonstrator’s Landing Legs
 - <a href="https://www.nasaspaceflight.com/2025/08/impulse-upgraded-mira-spacecraft-expanding-capabilities/" >🔗</a> **[NASASpaceflight]** Impulse Space unveils upgraded Mira spacecraft, expanding capabilities beyond LEO
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/MetOp_Second_Generation/Watch_MetOp-SG-A1_and_Sentinel-5_launch" >🔗</a> **[ESA]** Watch: MetOp-SG-A1 and Sentinel-5 launch
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250806T210128">2025-08-06 21:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250806T213353">2025-08-06 21:33:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
