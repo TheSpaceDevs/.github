@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/08/impulse-upgraded-mira-spacecraft-expanding-capabilities/" >🔗</a> **[NASASpaceflight]** Impulse Space unveils upgraded Mira spacecraft, expanding capabilities beyond LEO
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/MetOp_Second_Generation/Watch_MetOp-SG-A1_and_Sentinel-5_launch" >🔗</a> **[ESA]** Watch: MetOp-SG-A1 and Sentinel-5 launch
+- <a href="https://www.esa.int/Space_Safety/Hera/First_asteroid_sightings_push_Hera_s_camera_to_the_limit" >🔗</a> **[ESA]** First asteroid sightings push Hera’s camera to the limit
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/When_martian_ground_falls_apart" >🔗</a> **[ESA]** When martian ground falls apart
 - <a href="https://spacepolicyonline.com/news/in-moon-race-with-china-duffy-wants-fission-surface-power/" >🔗</a> **[SpacePolicyOnline.com]** In Moon Race with China, Duffy Wants Fission Surface Power
 - <a href="https://tlpnetwork.com/news/technology/nasa-selects-six-companies-for-multi-orbit-spacecraft-delivery-study" >🔗</a> **[The Launch Pad]** NASA Selects Six Companies for Multi-Orbit Spacecraft Delivery Study
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-selects-six-companies-to-provide-orbital-transfer-vehicle-studies/" >🔗</a> **[NASA]** NASA Selects Six Companies to Provide Orbital Transfer Vehicle Studies
 - <a href="https://www.nasa.gov/missions/station/iss-research/looking-back-at-nasas-spacex-crew-10-science-mission/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-10 Looks Back at Science Mission
 - <a href="https://science.nasa.gov/learning-resources/science-activation/nasa-science-activation-teams-unite-to-support-neurodiverse-learners-with-public-libraries/" >🔗</a> **[NASA]** NASA Science Activation Teams Unite to Support Neurodiverse Learners with Public Libraries
-- <a href="https://www.nasa.gov/centers-and-facilities/ames/what-is-nasas-distributed-spacecraft-autonomy/" >🔗</a> **[NASA]** What is NASA’s Distributed Spacecraft Autonomy?
-- <a href="https://www.nasaspaceflight.com/2025/08/uk-first-vertical-launch-license-skyrora/" >🔗</a> **[NASASpaceflight]** UK Regulator Grants First Vertical Launch License to Scottish Rocket Firm Skyrora
-- <a href="https://www.nasa.gov/image-article/second-lady-usha-vance-nasa-astronaut-suni-williams-celebrate-reading/" >🔗</a> **[NASA]** Second Lady Usha Vance, NASA Astronaut Suni Williams Celebrate Reading
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250806T124405">2025-08-06 12:44:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250806T131439">2025-08-06 13:14:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
