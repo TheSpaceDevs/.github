@@ -104,6 +104,7 @@ into *a Low Earth Orbit
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2025/08/06/live-coverage-spacex-to-launch-24-amazon-project-kuiper-satellites-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Amazon Project Kuiper satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://www.nasaspaceflight.com/2025/08/launch-roundup-080425/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Vulcan and Electron to launch between Falcon 9 missions
 - <a href="https://spacenews.com/amazon-adds-falcon-9-to-multi-billion-dollar-project-kuiper-launch-campaign/" >🔗</a> **[SpaceNews]** Amazon adds Falcon 9 to multi-billion-dollar Project Kuiper launch campaign
 - <a href="https://www.cnbc.com/2023/12/01/amazon-buys-spacex-rocket-launches-for-kuiper-satellite-internet-project.html" >🔗</a> **[CNBC]** Amazon buys SpaceX rocket launches for Kuiper satellite internet project
@@ -112,7 +113,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250807T080143">2025-08-07 08:01:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250807T084056">2025-08-07 08:40:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
