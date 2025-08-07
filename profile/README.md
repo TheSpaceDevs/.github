@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/08/ESA_Astronaut_Raphael_Liegeois" >🔗</a> **[ESA]** ESA Astronaut Raphaël Liégeois
 - <a href="https://www.nasaspaceflight.com/2025/08/crew-10-return/" >🔗</a> **[NASASpaceflight]** Crew-10 poised for return to Earth after months at ISS
 - <a href="https://spaceflightnow.com/2025/08/06/live-coverage-spacex-to-launch-24-amazon-project-kuiper-satellites-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Amazon Project Kuiper satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://www.nasa.gov/news-release/nasa-to-provide-live-coverage-of-crew-10-return-splashdown/" >🔗</a> **[NASA]** NASA to Provide Live Coverage of Crew-10 Return, Splashdown
+- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4622-4623-kicking-off-earth-year-14-with-an-investigation-of-veins/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4622-4623: Kicking Off (Earth) Year 14 With an Investigation of Veins
 - <a href="https://science.nasa.gov/directorates/smd/earth-science-division/snapshot-wisconsin-celebrates-10-years-and-100-million-photos-collected/" >🔗</a> **[NASA]** Snapshot Wisconsin Celebrates 10 Years and 100 Million Photos Collected!
 - <a href="https://arstechnica.com/space/2025/08/as-the-end-of-the-iss-nears-nasa-shakes-up-program-for-commercial-replacements/" >🔗</a> **[Arstechnica]** As the end of the ISS nears, NASA shakes up program for commercial replacements
 - <a href="https://www.nasa.gov/earth/nasa-supercomputers-take-on-life-near-greenlands-most-active-glacier/" >🔗</a> **[NASA]** NASA Supercomputers Take on Life Near Greenland’s Most Active Glacier
 - <a href="https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-captures-mars-vista-as-clear-as-day/" >🔗</a> **[NASA]** NASA’s Perseverance Rover Captures Mars Vista As Clear As Day
 - <a href="https://spacepolicyonline.com/news/duffy-approves-moving-a-space-shuttle-to-houston/" >🔗</a> **[SpacePolicyOnline.com]** Duffy Approves Moving a Space Shuttle to Houston
-- <a href="https://www.nasa.gov/news-release/nasa-astronaut-barry-butch-wilmore-retires/" >🔗</a> **[NASA]** NASA Astronaut Barry “Butch” Wilmore Retires
-- <a href="https://www.nasa.gov/image-article/curiosity-looks-back-toward-its-landing-site/" >🔗</a> **[NASA]** Curiosity Looks Back Toward Its Landing Site
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250807T090421">2025-08-07 09:04:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250807T093833">2025-08-07 09:38:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
