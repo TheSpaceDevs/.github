@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/08/07/ulas-tory-bruno-lays-out-plans-for-ramping-up-launch-cadence/" >🔗</a> **[Spaceflight Now]** ULA’s Tory Bruno lays out plans for ramping up launch cadence
 - <a href="https://europeanspaceflight.com/italy-signs-agreement-with-spacex-for-starship-mars-mission/" >🔗</a> **[European Spaceflight]** Italy Signs Agreement with SpaceX for Starship Mars Mission
 - <a href="https://science.nasa.gov/blog/linking-local-lithologies-to-a-larger-landscape/" >🔗</a> **[NASA]** Linking Local Lithologies to a Larger Landscape
 - <a href="https://www.nasa.gov/missions/swot/us-french-swot-satellite-measures-tsunami-after-massive-quake/" >🔗</a> **[NASA]** US-French SWOT Satellite Measures Tsunami After Massive Quake
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_finds_new_hints_for_planet_around_closest_solar_twin" >🔗</a> **[ESA]** Webb finds new hints for planet around closest solar twin
 - <a href="https://science.nasa.gov/missions/webb/nasas-webb-finds-new-evidence-for-planet-around-closest-solar-twin/" >🔗</a> **[NASA]** NASA’s Webb Finds New Evidence for Planet Around Closest Solar Twin
 - <a href="https://www.nasa.gov/centers-and-facilities/langley/three-nasa-langley-employees-win-prestigious-silver-snoopy-awards/" >🔗</a> **[NASA]** Three NASA Langley Employees Win Prestigious Silver Snoopy Awards
-- <a href="https://science.nasa.gov/missions/hubble/as-nasa-missions-study-interstellar-comet-hubble-makes-size-estimate/" >🔗</a> **[NASA]** As NASA Missions Study Interstellar Comet, Hubble Makes Size Estimate
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250807T210132">2025-08-07 21:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250807T213415">2025-08-07 21:34:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
