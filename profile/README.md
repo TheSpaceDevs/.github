@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/italy-signs-agreement-with-spacex-for-starship-mars-mission/" >🔗</a> **[European Spaceflight]** Italy Signs Agreement with SpaceX for Starship Mars Mission
+- <a href="https://science.nasa.gov/blog/linking-local-lithologies-to-a-larger-landscape/" >🔗</a> **[NASA]** Linking Local Lithologies to a Larger Landscape
 - <a href="https://www.nasa.gov/missions/swot/us-french-swot-satellite-measures-tsunami-after-massive-quake/" >🔗</a> **[NASA]** US-French SWOT Satellite Measures Tsunami After Massive Quake
 - <a href="https://www.nasaspaceflight.com/2025/08/ula-bruno-vulcan-and-beyond/" >🔗</a> **[NASASpaceflight]** ULA CEO Tory Bruno Outlines plans for Vulcan and beyond
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-uses-wind-tunnel-to-test-advanced-air-mobility-aircraft-wing/" >🔗</a> **[NASA]** NASA Uses Wind Tunnel to Test Advanced Air Mobility Aircraft Wing
 - <a href="https://www.nasa.gov/image-article/nasas-artemis-ii-crew-trains-in-orion/" >🔗</a> **[NASA]** NASA’s Artemis II Crew Trains in Orion
-- <a href="https://science.nasa.gov/missions/webb/nasas-webb-finds-new-evidence-for-planet-around-closest-solar-twin/" >🔗</a> **[NASA]** NASA’s Webb Finds New Evidence for Planet Around Closest Solar Twin
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_finds_new_hints_for_planet_around_closest_solar_twin" >🔗</a> **[ESA]** Webb finds new hints for planet around closest solar twin
+- <a href="https://science.nasa.gov/missions/webb/nasas-webb-finds-new-evidence-for-planet-around-closest-solar-twin/" >🔗</a> **[NASA]** NASA’s Webb Finds New Evidence for Planet Around Closest Solar Twin
 - <a href="https://www.nasa.gov/centers-and-facilities/langley/three-nasa-langley-employees-win-prestigious-silver-snoopy-awards/" >🔗</a> **[NASA]** Three NASA Langley Employees Win Prestigious Silver Snoopy Awards
 - <a href="https://science.nasa.gov/missions/hubble/as-nasa-missions-study-interstellar-comet-hubble-makes-size-estimate/" >🔗</a> **[NASA]** As NASA Missions Study Interstellar Comet, Hubble Makes Size Estimate
-- <a href="https://www.nasa.gov/people-of-nasa/wade-sisler-a-wonder-aficionado-in-service-of-the-cosmos/" >🔗</a> **[NASA]** Wade Sisler: A Wonder Aficionado in Service of the Cosmos
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/08/ESA_Astronaut_Raphael_Liegeois" >🔗</a> **[ESA]** ESA Astronaut Raphaël Liégeois
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250807T190354">2025-08-07 19:03:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250807T193230">2025-08-07 19:32:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
