@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/langley/three-nasa-langley-employees-win-prestigious-silver-snoopy-awards/" >🔗</a> **[NASA]** Three NASA Langley Employees Win Prestigious Silver Snoopy Awards
+- <a href="https://science.nasa.gov/missions/hubble/as-nasa-missions-study-interstellar-comet-hubble-makes-size-estimate/" >🔗</a> **[NASA]** As NASA Missions Study Interstellar Comet, Hubble Makes Size Estimate
 - <a href="https://www.nasa.gov/people-of-nasa/wade-sisler-a-wonder-aficionado-in-service-of-the-cosmos/" >🔗</a> **[NASA]** Wade Sisler: A Wonder Aficionado in Service of the Cosmos
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/08/ESA_Astronaut_Raphael_Liegeois" >🔗</a> **[ESA]** ESA Astronaut Raphaël Liégeois
 - <a href="https://www.nasaspaceflight.com/2025/08/crew-10-return/" >🔗</a> **[NASASpaceflight]** Crew-10 poised for return to Earth after months at ISS
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4622-4623-kicking-off-earth-year-14-with-an-investigation-of-veins/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4622-4623: Kicking Off (Earth) Year 14 With an Investigation of Veins
 - <a href="https://science.nasa.gov/directorates/smd/earth-science-division/snapshot-wisconsin-celebrates-10-years-and-100-million-photos-collected/" >🔗</a> **[NASA]** Snapshot Wisconsin Celebrates 10 Years and 100 Million Photos Collected!
 - <a href="https://arstechnica.com/space/2025/08/as-the-end-of-the-iss-nears-nasa-shakes-up-program-for-commercial-replacements/" >🔗</a> **[Arstechnica]** As the end of the ISS nears, NASA shakes up program for commercial replacements
-- <a href="https://www.nasa.gov/earth/nasa-supercomputers-take-on-life-near-greenlands-most-active-glacier/" >🔗</a> **[NASA]** NASA Supercomputers Take on Life Near Greenland’s Most Active Glacier
-- <a href="https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-captures-mars-vista-as-clear-as-day/" >🔗</a> **[NASA]** NASA’s Perseverance Rover Captures Mars Vista As Clear As Day
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250807T140347">2025-08-07 14:03:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250807T143836">2025-08-07 14:38:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
