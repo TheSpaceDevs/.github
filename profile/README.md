@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/people-of-nasa/wade-sisler-a-wonder-aficionado-in-service-of-the-cosmos/" >🔗</a> **[NASA]** Wade Sisler: A Wonder Aficionado in Service of the Cosmos
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/08/ESA_Astronaut_Raphael_Liegeois" >🔗</a> **[ESA]** ESA Astronaut Raphaël Liégeois
 - <a href="https://www.nasaspaceflight.com/2025/08/crew-10-return/" >🔗</a> **[NASASpaceflight]** Crew-10 poised for return to Earth after months at ISS
 - <a href="https://spaceflightnow.com/2025/08/06/live-coverage-spacex-to-launch-24-amazon-project-kuiper-satellites-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Amazon Project Kuiper satellites on Falcon 9 rocket from Cape Canaveral
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2025/08/as-the-end-of-the-iss-nears-nasa-shakes-up-program-for-commercial-replacements/" >🔗</a> **[Arstechnica]** As the end of the ISS nears, NASA shakes up program for commercial replacements
 - <a href="https://www.nasa.gov/earth/nasa-supercomputers-take-on-life-near-greenlands-most-active-glacier/" >🔗</a> **[NASA]** NASA Supercomputers Take on Life Near Greenland’s Most Active Glacier
 - <a href="https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-captures-mars-vista-as-clear-as-day/" >🔗</a> **[NASA]** NASA’s Perseverance Rover Captures Mars Vista As Clear As Day
-- <a href="https://spacepolicyonline.com/news/duffy-approves-moving-a-space-shuttle-to-houston/" >🔗</a> **[SpacePolicyOnline.com]** Duffy Approves Moving a Space Shuttle to Houston
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250807T120223">2025-08-07 12:02:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250807T124357">2025-08-07 12:43:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
