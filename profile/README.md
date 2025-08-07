@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_finds_new_hints_for_planet_around_closest_solar_twin" >🔗</a> **[ESA]** Webb finds new hints for planet around closest solar twin
+- <a href="https://science.nasa.gov/missions/webb/nasas-webb-finds-new-evidence-for-planet-around-closest-solar-twin/" >🔗</a> **[NASA]** NASA’s Webb Finds New Evidence for Planet Around Closest Solar Twin
 - <a href="https://www.nasa.gov/centers-and-facilities/langley/three-nasa-langley-employees-win-prestigious-silver-snoopy-awards/" >🔗</a> **[NASA]** Three NASA Langley Employees Win Prestigious Silver Snoopy Awards
 - <a href="https://science.nasa.gov/missions/hubble/as-nasa-missions-study-interstellar-comet-hubble-makes-size-estimate/" >🔗</a> **[NASA]** As NASA Missions Study Interstellar Comet, Hubble Makes Size Estimate
 - <a href="https://www.nasa.gov/people-of-nasa/wade-sisler-a-wonder-aficionado-in-service-of-the-cosmos/" >🔗</a> **[NASA]** Wade Sisler: A Wonder Aficionado in Service of the Cosmos
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/08/06/live-coverage-spacex-to-launch-24-amazon-project-kuiper-satellites-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Amazon Project Kuiper satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://www.nasa.gov/news-release/nasa-to-provide-live-coverage-of-crew-10-return-splashdown/" >🔗</a> **[NASA]** NASA to Provide Live Coverage of Crew-10 Return, Splashdown
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4622-4623-kicking-off-earth-year-14-with-an-investigation-of-veins/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4622-4623: Kicking Off (Earth) Year 14 With an Investigation of Veins
-- <a href="https://science.nasa.gov/directorates/smd/earth-science-division/snapshot-wisconsin-celebrates-10-years-and-100-million-photos-collected/" >🔗</a> **[NASA]** Snapshot Wisconsin Celebrates 10 Years and 100 Million Photos Collected!
-- <a href="https://arstechnica.com/space/2025/08/as-the-end-of-the-iss-nears-nasa-shakes-up-program-for-commercial-replacements/" >🔗</a> **[Arstechnica]** As the end of the ISS nears, NASA shakes up program for commercial replacements
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250807T150218">2025-08-07 15:02:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250807T153710">2025-08-07 15:37:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
