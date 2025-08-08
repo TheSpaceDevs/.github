@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/the-exploration-company-completes-test-campaign-for-lunar-lander-engine/" >🔗</a> **[European Spaceflight]** The Exploration Company Completes Test Campaign for Lunar Lander Engine
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_04-08_August_2025" >🔗</a> **[ESA]** Week in images: 04-08 August 2025
 - <a href="https://www.nasaspaceflight.com/2025/08/china-roundup-08072025/" >🔗</a> **[NASASpaceflight]** Chinese launch cadence picks up as Tianlong-3 prepares for launch
 - <a href="https://arstechnica.com/space/2025/08/rocket-report-firefly-lights-the-markets-up-spacex-starts-selling-ships-to-mars/" >🔗</a> **[Arstechnica]** Rocket Report: Firefly lights the markets up; SpaceX starts selling trips to Mars
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spaceflightnow.com/2025/08/07/ulas-tory-bruno-lays-out-plans-for-ramping-up-launch-cadence/" >🔗</a> **[Spaceflight Now]** ULA’s Tory Bruno lays out plans for ramping up launch cadence
 - <a href="https://europeanspaceflight.com/italy-signs-agreement-with-spacex-for-starship-mars-mission/" >🔗</a> **[European Spaceflight]** Italy Signs Agreement with SpaceX for Starship Mars Mission
 - <a href="https://science.nasa.gov/blog/linking-local-lithologies-to-a-larger-landscape/" >🔗</a> **[NASA]** Linking Local Lithologies to a Larger Landscape
-- <a href="https://www.nasa.gov/missions/swot/us-french-swot-satellite-measures-tsunami-after-massive-quake/" >🔗</a> **[NASA]** US-French SWOT Satellite Measures Tsunami After Massive Quake
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250808T140244">2025-08-08 14:02:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250808T143738">2025-08-08 14:37:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
