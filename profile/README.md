@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/america/remembering-nasa-astronaut-jim-lovell" >🔗</a> **[The Launch Pad]** NASA Astronaut Jim Lovell, First to Orbit the Moon and Survive Apollo 13 Crisis; Passes at 97
+- <a href="https://www.nasa.gov/news-release/acting-nasa-administrator-reflects-on-legacy-of-astronaut-jim-lovell/" >🔗</a> **[NASA]** Acting NASA Administrator Reflects on Legacy of Astronaut Jim Lovell
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-view-heliophysics-noaa-space-weather-missions/" >🔗</a> **[NASA]** NASA Invites Media to View Heliophysics, NOAA Space Weather Missions
 - <a href="https://spaceflightnow.com/2025/08/08/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg
 - <a href="https://www.nasa.gov/image-article/rare-type-of-black-hole-snacks-on-star/" >🔗</a> **[NASA]** Rare Type of Black Hole Snacks on Star
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2025/08/china-roundup-08072025/" >🔗</a> **[NASASpaceflight]** Chinese launch cadence picks up as Tianlong-3 prepares for launch
 - <a href="https://arstechnica.com/space/2025/08/rocket-report-firefly-lights-the-markets-up-spacex-starts-selling-ships-to-mars/" >🔗</a> **[Arstechnica]** Rocket Report: Firefly lights the markets up; SpaceX starts selling trips to Mars
 - <a href="https://science.nasa.gov/missions/hubble/hubble-captures-a-tarantula/" >🔗</a> **[NASA]** Hubble Captures a Tarantula
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/08/Human_minds_robotic_hands" >🔗</a> **[ESA]** Human minds, robotic hands
-- <a href="https://spacepolicyonline.com/news/bruno-optimistic-about-ula-launch-cadence-worried-about-starship-operations-in-florida/" >🔗</a> **[SpacePolicyOnline.com]** Bruno Optimistic about ULA Launch Cadence, Worried About Starship Operations in Florida
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250808T190155">2025-08-08 19:01:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250808T193128">2025-08-08 19:31:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
