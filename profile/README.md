@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/apollo-13-astronaut-jim-lovell-passes-away/" >🔗</a> **[SpacePolicyOnline.com]** Apollo 13 Astronaut Jim Lovell Passes Away
 - <a href="https://spaceflightnow.com/2025/08/08/jim-lovell-apollo-8-13-astronaut-dies-at-97/" >🔗</a> **[Spaceflight Now]** Jim Lovell, Apollo 8 & 13 astronaut, dies at 97
 - <a href="https://www.nasa.gov/news-release/nasa-selects-contractors-to-supply-centers-with-helium/" >🔗</a> **[NASA]** NASA Selects Contractors to Supply Centers with Helium
 - <a href="https://www.nasaspaceflight.com/2025/08/apollo-13-commander-lovell-dies-97/" >🔗</a> **[NASASpaceflight]** Legendary Apollo 13 Commander Jim Lovell Dies at 97
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/08/08/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg
 - <a href="https://www.nasa.gov/image-article/rare-type-of-black-hole-snacks-on-star/" >🔗</a> **[NASA]** Rare Type of Black Hole Snacks on Star
 - <a href="https://europeanspaceflight.com/the-exploration-company-completes-test-campaign-for-lunar-lander-engine/" >🔗</a> **[European Spaceflight]** The Exploration Company Completes Test Campaign for Lunar Lander Engine
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_04-08_August_2025" >🔗</a> **[ESA]** Week in images: 04-08 August 2025
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250808T220120">2025-08-08 22:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250808T223542">2025-08-08 22:35:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
