@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-view-heliophysics-noaa-space-weather-missions/" >🔗</a> **[NASA]** NASA Invites Media to View Heliophysics, NOAA Space Weather Missions
 - <a href="https://spaceflightnow.com/2025/08/08/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg
 - <a href="https://www.nasa.gov/image-article/rare-type-of-black-hole-snacks-on-star/" >🔗</a> **[NASA]** Rare Type of Black Hole Snacks on Star
 - <a href="https://europeanspaceflight.com/the-exploration-company-completes-test-campaign-for-lunar-lander-engine/" >🔗</a> **[European Spaceflight]** The Exploration Company Completes Test Campaign for Lunar Lander Engine
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/missions/hubble/hubble-captures-a-tarantula/" >🔗</a> **[NASA]** Hubble Captures a Tarantula
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/08/Human_minds_robotic_hands" >🔗</a> **[ESA]** Human minds, robotic hands
 - <a href="https://spacepolicyonline.com/news/bruno-optimistic-about-ula-launch-cadence-worried-about-starship-operations-in-florida/" >🔗</a> **[SpacePolicyOnline.com]** Bruno Optimistic about ULA Launch Cadence, Worried About Starship Operations in Florida
-- <a href="https://spaceflightnow.com/2025/08/07/ulas-tory-bruno-lays-out-plans-for-ramping-up-launch-cadence/" >🔗</a> **[Spaceflight Now]** ULA’s Tory Bruno lays out plans for ramping up launch cadence
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250808T180135">2025-08-08 18:01:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250808T184029">2025-08-08 18:40:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
