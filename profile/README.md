@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/08/08/jim-lovell-apollo-8-13-astronaut-dies-at-97/" >🔗</a> **[Spaceflight Now]** Jim Lovell, Apollo 8 & 13 astronaut, dies at 97
+- <a href="https://www.nasa.gov/news-release/nasa-selects-contractors-to-supply-centers-with-helium/" >🔗</a> **[NASA]** NASA Selects Contractors to Supply Centers with Helium
+- <a href="https://www.nasaspaceflight.com/2025/08/apollo-13-commander-lovell-dies-97/" >🔗</a> **[NASASpaceflight]** Legendary Apollo 13 Commander Jim Lovell Dies at 97
 - <a href="https://tlpnetwork.com/news/america/remembering-nasa-astronaut-jim-lovell" >🔗</a> **[The Launch Pad]** NASA Astronaut Jim Lovell, First to Orbit the Moon and Survive Apollo 13 Crisis; Passes at 97
 - <a href="https://www.nasa.gov/news-release/acting-nasa-administrator-reflects-on-legacy-of-astronaut-jim-lovell/" >🔗</a> **[NASA]** Acting NASA Administrator Reflects on Legacy of Astronaut Jim Lovell
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-view-heliophysics-noaa-space-weather-missions/" >🔗</a> **[NASA]** NASA Invites Media to View Heliophysics, NOAA Space Weather Missions
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/rare-type-of-black-hole-snacks-on-star/" >🔗</a> **[NASA]** Rare Type of Black Hole Snacks on Star
 - <a href="https://europeanspaceflight.com/the-exploration-company-completes-test-campaign-for-lunar-lander-engine/" >🔗</a> **[European Spaceflight]** The Exploration Company Completes Test Campaign for Lunar Lander Engine
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_04-08_August_2025" >🔗</a> **[ESA]** Week in images: 04-08 August 2025
-- <a href="https://www.nasaspaceflight.com/2025/08/china-roundup-08072025/" >🔗</a> **[NASASpaceflight]** Chinese launch cadence picks up as Tianlong-3 prepares for launch
-- <a href="https://arstechnica.com/space/2025/08/rocket-report-firefly-lights-the-markets-up-spacex-starts-selling-ships-to-mars/" >🔗</a> **[Arstechnica]** Rocket Report: Firefly lights the markets up; SpaceX starts selling trips to Mars
-- <a href="https://science.nasa.gov/missions/hubble/hubble-captures-a-tarantula/" >🔗</a> **[NASA]** Hubble Captures a Tarantula
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250808T210124">2025-08-08 21:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250808T213321">2025-08-08 21:33:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
