@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/08/Human_minds_robotic_hands" >🔗</a> **[ESA]** Human minds, robotic hands
 - <a href="https://spacepolicyonline.com/news/bruno-optimistic-about-ula-launch-cadence-worried-about-starship-operations-in-florida/" >🔗</a> **[SpacePolicyOnline.com]** Bruno Optimistic about ULA Launch Cadence, Worried About Starship Operations in Florida
 - <a href="https://spaceflightnow.com/2025/08/07/ulas-tory-bruno-lays-out-plans-for-ramping-up-launch-cadence/" >🔗</a> **[Spaceflight Now]** ULA’s Tory Bruno lays out plans for ramping up launch cadence
 - <a href="https://europeanspaceflight.com/italy-signs-agreement-with-spacex-for-starship-mars-mission/" >🔗</a> **[European Spaceflight]** Italy Signs Agreement with SpaceX for Starship Mars Mission
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-uses-wind-tunnel-to-test-advanced-air-mobility-aircraft-wing/" >🔗</a> **[NASA]** NASA Uses Wind Tunnel to Test Advanced Air Mobility Aircraft Wing
 - <a href="https://www.nasa.gov/image-article/nasas-artemis-ii-crew-trains-in-orion/" >🔗</a> **[NASA]** NASA’s Artemis II Crew Trains in Orion
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_finds_new_hints_for_planet_around_closest_solar_twin" >🔗</a> **[ESA]** Webb finds new hints for planet around closest solar twin
-- <a href="https://science.nasa.gov/missions/webb/nasas-webb-finds-new-evidence-for-planet-around-closest-solar-twin/" >🔗</a> **[NASA]** NASA’s Webb Finds New Evidence for Planet Around Closest Solar Twin
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250808T080201">2025-08-08 08:02:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250808T084040">2025-08-08 08:40:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
