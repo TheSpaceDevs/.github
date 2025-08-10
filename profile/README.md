@@ -92,6 +92,7 @@ into *a Low Earth Orbit
 ### Latest News ⌛
 - <a href="https://spacepolicyonline.com/news/crew-10-splashes-down-off-san-diego/" >🔗</a> **[SpacePolicyOnline.com]** Crew-10 Splashes Down Off San Diego
 - <a href="https://www.nasa.gov/news-release/nasas-spacex-crew-10-mission-returns-splashes-down-off-california/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-10 Mission Returns, Splashes Down Off California
+- <a href="https://spaceflightnow.com/2025/08/09/crew-10-returns-to-earth-with-pacific-ocean-splashdown/" >🔗</a> **[Spaceflight Now]** Crew 10 returns to Earth with Pacific Ocean splashdown
 - <a href="https://spacepolicyonline.com/news/apollo-13-astronaut-jim-lovell-passes-away/" >🔗</a> **[SpacePolicyOnline.com]** Apollo 13 Astronaut Jim Lovell Passes Away
 - <a href="https://spaceflightnow.com/2025/08/08/jim-lovell-apollo-8-13-astronaut-dies-at-97/" >🔗</a> **[Spaceflight Now]** Jim Lovell, Apollo 8 & 13 astronaut, dies at 97
 - <a href="https://www.nasa.gov/news-release/nasa-selects-contractors-to-supply-centers-with-helium/" >🔗</a> **[NASA]** NASA Selects Contractors to Supply Centers with Helium
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/america/remembering-nasa-astronaut-jim-lovell" >🔗</a> **[The Launch Pad]** NASA Astronaut Jim Lovell, First to Orbit the Moon and Survive Apollo 13 Crisis; Passes at 97
 - <a href="https://www.nasa.gov/news-release/acting-nasa-administrator-reflects-on-legacy-of-astronaut-jim-lovell/" >🔗</a> **[NASA]** Acting NASA Administrator Reflects on Legacy of Astronaut Jim Lovell
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-view-heliophysics-noaa-space-weather-missions/" >🔗</a> **[NASA]** NASA Invites Media to View Heliophysics, NOAA Space Weather Missions
-- <a href="https://spaceflightnow.com/2025/08/08/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250810T080141">2025-08-10 08:01:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250810T083704">2025-08-10 08:37:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
