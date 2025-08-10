@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-10-16-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy August 10-16, 2025
 - <a href="https://spaceflightnow.com/2025/08/10/live-coverage-spacex-falcon-9-to-make-another-attempt-to-launch-amazon-project-kuiper-mission/" >🔗</a> **[Spaceflight Now]** Live Coverage: SpaceX Falcon 9 to make another attempt to launch Amazon Project Kuiper mission
 - <a href="https://spacepolicyonline.com/news/crew-10-splashes-down-off-san-diego/" >🔗</a> **[SpacePolicyOnline.com]** Crew-10 Splashes Down Off San Diego
 - <a href="https://www.nasa.gov/news-release/nasas-spacex-crew-10-mission-returns-splashes-down-off-california/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-10 Mission Returns, Splashes Down Off California
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-selects-contractors-to-supply-centers-with-helium/" >🔗</a> **[NASA]** NASA Selects Contractors to Supply Centers with Helium
 - <a href="https://www.nasaspaceflight.com/2025/08/apollo-13-commander-lovell-dies-97/" >🔗</a> **[NASASpaceflight]** Legendary Apollo 13 Commander Jim Lovell Dies at 97
 - <a href="https://tlpnetwork.com/news/america/remembering-nasa-astronaut-jim-lovell" >🔗</a> **[The Launch Pad]** NASA Astronaut Jim Lovell, First to Orbit the Moon and Survive Apollo 13 Crisis; Passes at 97
-- <a href="https://www.nasa.gov/news-release/acting-nasa-administrator-reflects-on-legacy-of-astronaut-jim-lovell/" >🔗</a> **[NASA]** Acting NASA Administrator Reflects on Legacy of Astronaut Jim Lovell
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250810T210126">2025-08-10 21:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250810T213308">2025-08-10 21:33:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
