@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/08/hera-dart-reveals-destination/" >🔗</a> **[NASASpaceflight]** Hera observes asteroids as DART reveals more about its destination
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-10-16-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy August 10-16, 2025
 - <a href="https://spaceflightnow.com/2025/08/10/live-coverage-spacex-falcon-9-to-make-another-attempt-to-launch-amazon-project-kuiper-mission/" >🔗</a> **[Spaceflight Now]** Live Coverage: SpaceX Falcon 9 to make another attempt to launch Amazon Project Kuiper mission
 - <a href="https://spacepolicyonline.com/news/crew-10-splashes-down-off-san-diego/" >🔗</a> **[SpacePolicyOnline.com]** Crew-10 Splashes Down Off San Diego
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/08/08/jim-lovell-apollo-8-13-astronaut-dies-at-97/" >🔗</a> **[Spaceflight Now]** Jim Lovell, Apollo 8 & 13 astronaut, dies at 97
 - <a href="https://www.nasa.gov/news-release/nasa-selects-contractors-to-supply-centers-with-helium/" >🔗</a> **[NASA]** NASA Selects Contractors to Supply Centers with Helium
 - <a href="https://www.nasaspaceflight.com/2025/08/apollo-13-commander-lovell-dies-97/" >🔗</a> **[NASASpaceflight]** Legendary Apollo 13 Commander Jim Lovell Dies at 97
-- <a href="https://tlpnetwork.com/news/america/remembering-nasa-astronaut-jim-lovell" >🔗</a> **[The Launch Pad]** NASA Astronaut Jim Lovell, First to Orbit the Moon and Survive Apollo 13 Crisis; Passes at 97
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250810T220130">2025-08-10 22:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250810T223525">2025-08-10 22:35:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
