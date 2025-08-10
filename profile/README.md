@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/08/10/live-coverage-spacex-falcon-9-to-make-another-attempt-to-launch-amazon-project-kuiper-mission/" >🔗</a> **[Spaceflight Now]** Live Coverage: SpaceX Falcon 9 to make another attempt to launch Amazon Project Kuiper mission
 - <a href="https://spacepolicyonline.com/news/crew-10-splashes-down-off-san-diego/" >🔗</a> **[SpacePolicyOnline.com]** Crew-10 Splashes Down Off San Diego
 - <a href="https://www.nasa.gov/news-release/nasas-spacex-crew-10-mission-returns-splashes-down-off-california/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-10 Mission Returns, Splashes Down Off California
 - <a href="https://spaceflightnow.com/2025/08/09/crew-10-returns-to-earth-with-pacific-ocean-splashdown/" >🔗</a> **[Spaceflight Now]** Crew 10 returns to Earth with Pacific Ocean splashdown
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2025/08/apollo-13-commander-lovell-dies-97/" >🔗</a> **[NASASpaceflight]** Legendary Apollo 13 Commander Jim Lovell Dies at 97
 - <a href="https://tlpnetwork.com/news/america/remembering-nasa-astronaut-jim-lovell" >🔗</a> **[The Launch Pad]** NASA Astronaut Jim Lovell, First to Orbit the Moon and Survive Apollo 13 Crisis; Passes at 97
 - <a href="https://www.nasa.gov/news-release/acting-nasa-administrator-reflects-on-legacy-of-astronaut-jim-lovell/" >🔗</a> **[NASA]** Acting NASA Administrator Reflects on Legacy of Astronaut Jim Lovell
-- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-view-heliophysics-noaa-space-weather-missions/" >🔗</a> **[NASA]** NASA Invites Media to View Heliophysics, NOAA Space Weather Missions
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250810T090136">2025-08-10 09:01:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250810T093412">2025-08-10 09:34:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
