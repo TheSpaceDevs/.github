@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/08/launch-roundup-vulcan-and-ariane-to-launch-ahead-of-starlink-missions/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Vulcan and Ariane to launch ahead of Starlink missions
+- <a href="https://www.nasa.gov/missions/station/iss-research/space-station-cell-studies/" >🔗</a> **[NASA]** Space Station Cell Studies
 - <a href="https://www.nasa.gov/news-release/nasa-continues-search-for-moon-focused-sustainability-solutions/" >🔗</a> **[NASA]** NASA Continues Search for Moon-Focused Sustainability Solutions
 - <a href="https://arstechnica.com/space/2025/08/why-amazon-is-letting-its-rival-launch-its-satellites/" >🔗</a> **[Arstechnica]** Why Amazon is letting its rival launch its satellites
 - <a href="https://www.nasa.gov/image-article/nasas-spacex-crew-10-splashes-down-in-pacific-ocean/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-10 Splashes Down in Pacific Ocean
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/white-sands/juliana-barajas-supporting-nasas-mission-one-task-at-a-time/" >🔗</a> **[NASA]** Juliana Barajas: Supporting NASA’s Mission, One Task at a Time
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2024/08/Ariane_6_infographic_launch_pad" >🔗</a> **[ESA]** Ariane 6 infographic: launch pad
 - <a href="https://www.nasaspaceflight.com/2025/08/hera-dart-reveals-destination/" >🔗</a> **[NASASpaceflight]** Hera observes asteroids as DART reveals more about its destination
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-10-16-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy August 10-16, 2025
-- <a href="https://spaceflightnow.com/2025/08/10/live-coverage-spacex-falcon-9-to-make-another-attempt-to-launch-amazon-project-kuiper-mission/" >🔗</a> **[Spaceflight Now]** Live Coverage: SpaceX Falcon 9 to make another attempt to launch Amazon Project Kuiper mission
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250811T190232">2025-08-11 19:02:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250811T193239">2025-08-11 19:32:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
