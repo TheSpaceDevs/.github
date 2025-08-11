@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/white-sands/juliana-barajas-supporting-nasas-mission-one-task-at-a-time/" >🔗</a> **[NASA]** Juliana Barajas: Supporting NASA’s Mission, One Task at a Time
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/08/Ariane_6_infographic_launch_pad" >🔗</a> **[ESA]** Ariane 6 infographic: launch pad
 - <a href="https://www.nasaspaceflight.com/2025/08/hera-dart-reveals-destination/" >🔗</a> **[NASASpaceflight]** Hera observes asteroids as DART reveals more about its destination
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-10-16-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy August 10-16, 2025
 - <a href="https://spaceflightnow.com/2025/08/10/live-coverage-spacex-falcon-9-to-make-another-attempt-to-launch-amazon-project-kuiper-mission/" >🔗</a> **[Spaceflight Now]** Live Coverage: SpaceX Falcon 9 to make another attempt to launch Amazon Project Kuiper mission
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/08/09/crew-10-returns-to-earth-with-pacific-ocean-splashdown/" >🔗</a> **[Spaceflight Now]** Crew 10 returns to Earth with Pacific Ocean splashdown
 - <a href="https://spacepolicyonline.com/news/apollo-13-astronaut-jim-lovell-passes-away/" >🔗</a> **[SpacePolicyOnline.com]** Apollo 13 Astronaut Jim Lovell Passes Away
 - <a href="https://spaceflightnow.com/2025/08/08/jim-lovell-apollo-8-13-astronaut-dies-at-97/" >🔗</a> **[Spaceflight Now]** Jim Lovell, Apollo 8 & 13 astronaut, dies at 97
-- <a href="https://www.nasa.gov/news-release/nasa-selects-contractors-to-supply-centers-with-helium/" >🔗</a> **[NASA]** NASA Selects Contractors to Supply Centers with Helium
-- <a href="https://www.nasaspaceflight.com/2025/08/apollo-13-commander-lovell-dies-97/" >🔗</a> **[NASASpaceflight]** Legendary Apollo 13 Commander Jim Lovell Dies at 97
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250811T100131">2025-08-11 10:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250811T103806">2025-08-11 10:38:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
