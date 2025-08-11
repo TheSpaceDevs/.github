@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-view-artemis-ii-orion-stage-adapter-at-marshall/" >🔗</a> **[NASA]** NASA Invites Media to View Artemis II Orion Stage Adapter at Marshall
 - <a href="https://www.nasa.gov/news-release/nasa-awards-second-human-health-performance-contract/" >🔗</a> **[NASA]** NASA Awards Second Human Health, Performance Contract
 - <a href="https://www.nasa.gov/missions/swift/nasa-explores-industry-possibilities-to-raise-swift-missions-orbit/" >🔗</a> **[NASA]** NASA Explores Industry Possibilities to Raise Swift Mission’s Orbit
 - <a href="https://www.nasaspaceflight.com/2025/08/launch-roundup-vulcan-and-ariane-to-launch-ahead-of-starlink-missions/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Vulcan and Ariane to launch ahead of Starlink missions
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/nasas-spacex-crew-10-splashes-down-in-pacific-ocean/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-10 Splashes Down in Pacific Ocean
 - <a href="https://europeanspaceflight.com/esa-to-develop-hummingbird-inspired-flying-mars-explorer/" >🔗</a> **[European Spaceflight]** ESA to Develop Hummingbird-Inspired Flying Mars Explorer
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/08/Behind_the_scenes_with_MetOp-SG_and_Sentinel-5" >🔗</a> **[ESA]** Behind the scenes with MetOp-SG and Sentinel-5
-- <a href="https://www.nasa.gov/centers-and-facilities/white-sands/juliana-barajas-supporting-nasas-mission-one-task-at-a-time/" >🔗</a> **[NASA]** Juliana Barajas: Supporting NASA’s Mission, One Task at a Time
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250811T210134">2025-08-11 21:01:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250811T213239">2025-08-11 21:32:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
