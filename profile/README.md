@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-awards-second-human-health-performance-contract/" >🔗</a> **[NASA]** NASA Awards Second Human Health, Performance Contract
+- <a href="https://www.nasa.gov/missions/swift/nasa-explores-industry-possibilities-to-raise-swift-missions-orbit/" >🔗</a> **[NASA]** NASA Explores Industry Possibilities to Raise Swift Mission’s Orbit
 - <a href="https://www.nasaspaceflight.com/2025/08/launch-roundup-vulcan-and-ariane-to-launch-ahead-of-starlink-missions/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Vulcan and Ariane to launch ahead of Starlink missions
 - <a href="https://www.nasa.gov/missions/station/iss-research/space-station-cell-studies/" >🔗</a> **[NASA]** Space Station Cell Studies
 - <a href="https://www.nasa.gov/news-release/nasa-continues-search-for-moon-focused-sustainability-solutions/" >🔗</a> **[NASA]** NASA Continues Search for Moon-Focused Sustainability Solutions
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/esa-to-develop-hummingbird-inspired-flying-mars-explorer/" >🔗</a> **[European Spaceflight]** ESA to Develop Hummingbird-Inspired Flying Mars Explorer
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/08/Behind_the_scenes_with_MetOp-SG_and_Sentinel-5" >🔗</a> **[ESA]** Behind the scenes with MetOp-SG and Sentinel-5
 - <a href="https://www.nasa.gov/centers-and-facilities/white-sands/juliana-barajas-supporting-nasas-mission-one-task-at-a-time/" >🔗</a> **[NASA]** Juliana Barajas: Supporting NASA’s Mission, One Task at a Time
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2024/08/Ariane_6_infographic_launch_pad" >🔗</a> **[ESA]** Ariane 6 infographic: launch pad
-- <a href="https://www.nasaspaceflight.com/2025/08/hera-dart-reveals-destination/" >🔗</a> **[NASASpaceflight]** Hera observes asteroids as DART reveals more about its destination
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250811T200124">2025-08-11 20:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250811T203437">2025-08-11 20:34:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
