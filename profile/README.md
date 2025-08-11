@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/nasas-spacex-crew-10-splashes-down-in-pacific-ocean/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-10 Splashes Down in Pacific Ocean
 - <a href="https://europeanspaceflight.com/esa-to-develop-hummingbird-inspired-flying-mars-explorer/" >🔗</a> **[European Spaceflight]** ESA to Develop Hummingbird-Inspired Flying Mars Explorer
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/08/Behind_the_scenes_with_MetOp-SG_and_Sentinel-5" >🔗</a> **[ESA]** Behind the scenes with MetOp-SG and Sentinel-5
 - <a href="https://www.nasa.gov/centers-and-facilities/white-sands/juliana-barajas-supporting-nasas-mission-one-task-at-a-time/" >🔗</a> **[NASA]** Juliana Barajas: Supporting NASA’s Mission, One Task at a Time
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/08/10/live-coverage-spacex-falcon-9-to-make-another-attempt-to-launch-amazon-project-kuiper-mission/" >🔗</a> **[Spaceflight Now]** Live Coverage: SpaceX Falcon 9 to make another attempt to launch Amazon Project Kuiper mission
 - <a href="https://spacepolicyonline.com/news/crew-10-splashes-down-off-san-diego/" >🔗</a> **[SpacePolicyOnline.com]** Crew-10 Splashes Down Off San Diego
 - <a href="https://www.nasa.gov/news-release/nasas-spacex-crew-10-mission-returns-splashes-down-off-california/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-10 Mission Returns, Splashes Down Off California
-- <a href="https://spaceflightnow.com/2025/08/09/crew-10-returns-to-earth-with-pacific-ocean-splashdown/" >🔗</a> **[Spaceflight Now]** Crew 10 returns to Earth with Pacific Ocean splashdown
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250811T170243">2025-08-11 17:02:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250811T173546">2025-08-11 17:35:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
