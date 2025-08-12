@@ -90,6 +90,7 @@ into *a Geosynchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/roman-space-telescope/nasa-roman-core-survey-will-trace-cosmic-expansion-over-time/" >🔗</a> **[NASA]** NASA Roman Core Survey Will Trace Cosmic Expansion Over Time
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/08/Ariane_6_preparing_flight_VA264_for_liftoff" >🔗</a> **[ESA]** Ariane 6: preparing flight VA264 for liftoff
 - <a href="https://spaceflightnow.com/2025/08/12/live-coverage-ula-to-launch-first-national-security-mission-on-a-vulcan-rocket/" >🔗</a> **[Spaceflight Now]** Live coverage: ULA to launch first national security mission on a Vulcan rocket
 - <a href="https://europeanspaceflight.com/dga-selects-infinite-orbits-for-e50m-paladin-satellite-inspection-service/" >🔗</a> **[European Spaceflight]** DGA Selects Infinite Orbits for €50M PALADIN Satellite-Inspection Service
@@ -99,7 +100,6 @@ into *a Geosynchronous Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-awards-second-human-health-performance-contract/" >🔗</a> **[NASA]** NASA Awards Second Human Health, Performance Contract
 - <a href="https://www.nasa.gov/missions/swift/nasa-explores-industry-possibilities-to-raise-swift-missions-orbit/" >🔗</a> **[NASA]** NASA Explores Industry Possibilities to Raise Swift Mission’s Orbit
 - <a href="https://www.nasaspaceflight.com/2025/08/vulcan-ariane-starlink-missions/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Vulcan and Ariane to launch ahead of Starlink missions
-- <a href="https://www.nasa.gov/missions/station/iss-research/space-station-cell-studies/" >🔗</a> **[NASA]** Space Station Cell Studies
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Geosynchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250812T150143">2025-08-12 15:01:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250812T153541">2025-08-12 15:35:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
