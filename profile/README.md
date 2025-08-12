@@ -90,6 +90,7 @@ into *a Geosynchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/science-research/heliophysics/a-gigantic-jet-caught-on-camera-a-spritacular-moment-for-nasa-astronaut-nicole-ayers/" >🔗</a> **[NASA]** A Gigantic Jet Caught on Camera: A Spritacular Moment for NASA Astronaut Nicole Ayers!
 - <a href="https://tlpnetwork.com/news/america/vulcan-set-to-launch-first-us-national-security-mission" >🔗</a> **[The Launch Pad]** LIVE COVERAGE! Vulcan Set To Launch First U.S. National Security Mission
 - <a href="https://www.nasa.gov/image-article/hubble-captures-a-tarantula/" >🔗</a> **[NASA]** Hubble Captures a Tarantula
 - <a href="https://www.nasa.gov/missions/roman-space-telescope/nasa-roman-core-survey-will-trace-cosmic-expansion-over-time/" >🔗</a> **[NASA]** NASA Roman Core Survey Will Trace Cosmic Expansion Over Time
@@ -99,7 +100,6 @@ into *a Geosynchronous Orbit
 - <a href="https://www.esa.int/Space_Safety/Space_Debris/CREAM_avoiding_collisions_in_space_through_automation" >🔗</a> **[ESA]** CREAM: avoiding collisions in space through automation
 - <a href="https://www.nasaspaceflight.com/2025/08/raptor-3-ramps-spacex-mcgregor/" >🔗</a> **[NASASpaceflight]** Raptor 3 testing ramps up at SpaceX McGregor
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-view-artemis-ii-orion-stage-adapter-at-marshall/" >🔗</a> **[NASA]** NASA Invites Media to View Artemis II Orion Stage Adapter at Marshall
-- <a href="https://www.nasa.gov/news-release/nasa-awards-second-human-health-performance-contract/" >🔗</a> **[NASA]** NASA Awards Second Human Health, Performance Contract
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Geosynchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250812T190153">2025-08-12 19:01:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250812T193135">2025-08-12 19:31:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
