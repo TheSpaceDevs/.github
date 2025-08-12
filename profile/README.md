@@ -90,6 +90,8 @@ into *a Geosynchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4624-4626-a-busy-weekend-at-the-boxwork/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4624-4626: A Busy Weekend at the Boxwork
+- <a href="https://www.nasa.gov/missions/ixpe/nasa-ixpes-heartbeat-black-hole-measurements-challenge-current-theories/" >🔗</a> **[NASA]** NASA IXPE’s ‘Heartbeat Black Hole’ Measurements Challenge Current Theories
 - <a href="https://science.nasa.gov/science-research/earth-science/a-tapestry-of-tales-10th-anniversary-reflections-from-nasas-oco-2-mission/" >🔗</a> **[NASA]** A Tapestry of Tales: 10th Anniversary Reflections from NASA’s OCO-2 Mission
 - <a href="https://science.nasa.gov/science-research/heliophysics/a-gigantic-jet-caught-on-camera-a-spritacular-moment-for-nasa-astronaut-nicole-ayers/" >🔗</a> **[NASA]** A Gigantic Jet Caught on Camera: A Spritacular Moment for NASA Astronaut Nicole Ayers!
 - <a href="https://tlpnetwork.com/news/america/vulcan-set-to-launch-first-us-national-security-mission" >🔗</a> **[The Launch Pad]** LIVE COVERAGE! Vulcan Set To Launch First U.S. National Security Mission
@@ -98,8 +100,6 @@ into *a Geosynchronous Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/08/Ariane_6_preparing_flight_VA264_for_liftoff" >🔗</a> **[ESA]** Ariane 6: preparing flight VA264 for liftoff
 - <a href="https://spaceflightnow.com/2025/08/12/live-coverage-ula-to-launch-first-national-security-mission-on-a-vulcan-rocket/" >🔗</a> **[Spaceflight Now]** Live coverage: ULA to launch first national security mission on a Vulcan rocket
 - <a href="https://europeanspaceflight.com/dga-selects-infinite-orbits-for-e50m-paladin-satellite-inspection-service/" >🔗</a> **[European Spaceflight]** DGA Selects Infinite Orbits for €50M PALADIN Satellite-Inspection Service
-- <a href="https://www.esa.int/Space_Safety/Space_Debris/CREAM_avoiding_collisions_in_space_through_automation" >🔗</a> **[ESA]** CREAM: avoiding collisions in space through automation
-- <a href="https://www.nasaspaceflight.com/2025/08/raptor-3-ramps-spacex-mcgregor/" >🔗</a> **[NASASpaceflight]** Raptor 3 testing ramps up at SpaceX McGregor
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Geosynchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250812T210128">2025-08-12 21:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250812T213344">2025-08-12 21:33:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
