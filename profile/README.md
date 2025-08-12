@@ -90,6 +90,7 @@ into *a Geosynchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/america/vulcan-set-to-launch-first-us-national-security-mission" >🔗</a> **[The Launch Pad]** LIVE COVERAGE! Vulcan Set To Launch First U.S. National Security Mission
 - <a href="https://www.nasa.gov/image-article/hubble-captures-a-tarantula/" >🔗</a> **[NASA]** Hubble Captures a Tarantula
 - <a href="https://www.nasa.gov/missions/roman-space-telescope/nasa-roman-core-survey-will-trace-cosmic-expansion-over-time/" >🔗</a> **[NASA]** NASA Roman Core Survey Will Trace Cosmic Expansion Over Time
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/08/Ariane_6_preparing_flight_VA264_for_liftoff" >🔗</a> **[ESA]** Ariane 6: preparing flight VA264 for liftoff
@@ -99,7 +100,6 @@ into *a Geosynchronous Orbit
 - <a href="https://www.nasaspaceflight.com/2025/08/raptor-3-ramps-spacex-mcgregor/" >🔗</a> **[NASASpaceflight]** Raptor 3 testing ramps up at SpaceX McGregor
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-view-artemis-ii-orion-stage-adapter-at-marshall/" >🔗</a> **[NASA]** NASA Invites Media to View Artemis II Orion Stage Adapter at Marshall
 - <a href="https://www.nasa.gov/news-release/nasa-awards-second-human-health-performance-contract/" >🔗</a> **[NASA]** NASA Awards Second Human Health, Performance Contract
-- <a href="https://www.nasa.gov/missions/swift/nasa-explores-industry-possibilities-to-raise-swift-missions-orbit/" >🔗</a> **[NASA]** NASA Explores Industry Possibilities to Raise Swift Mission’s Orbit
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Geosynchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250812T170211">2025-08-12 17:02:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250812T173522">2025-08-12 17:35:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
