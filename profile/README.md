@@ -90,6 +90,7 @@ into *a Geosynchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/08/b1091-heavy-core-falcon-9-clothing/" >🔗</a> **[NASASpaceflight]** B1091 “A Heavy Core in Falcon 9 Clothing”
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4624-4626-a-busy-weekend-at-the-boxwork/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4624-4626: A Busy Weekend at the Boxwork
 - <a href="https://www.nasa.gov/missions/ixpe/nasa-ixpes-heartbeat-black-hole-measurements-challenge-current-theories/" >🔗</a> **[NASA]** NASA IXPE’s ‘Heartbeat Black Hole’ Measurements Challenge Current Theories
 - <a href="https://science.nasa.gov/science-research/earth-science/a-tapestry-of-tales-10th-anniversary-reflections-from-nasas-oco-2-mission/" >🔗</a> **[NASA]** A Tapestry of Tales: 10th Anniversary Reflections from NASA’s OCO-2 Mission
@@ -99,7 +100,6 @@ into *a Geosynchronous Orbit
 - <a href="https://www.nasa.gov/missions/roman-space-telescope/nasa-roman-core-survey-will-trace-cosmic-expansion-over-time/" >🔗</a> **[NASA]** NASA Roman Core Survey Will Trace Cosmic Expansion Over Time
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/08/Ariane_6_preparing_flight_VA264_for_liftoff" >🔗</a> **[ESA]** Ariane 6: preparing flight VA264 for liftoff
 - <a href="https://spaceflightnow.com/2025/08/12/live-coverage-ula-to-launch-first-national-security-mission-on-a-vulcan-rocket/" >🔗</a> **[Spaceflight Now]** Live coverage: ULA to launch first national security mission on a Vulcan rocket
-- <a href="https://europeanspaceflight.com/dga-selects-infinite-orbits-for-e50m-paladin-satellite-inspection-service/" >🔗</a> **[European Spaceflight]** DGA Selects Infinite Orbits for €50M PALADIN Satellite-Inspection Service
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Geosynchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250812T220128">2025-08-12 22:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250812T223518">2025-08-12 22:35:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
