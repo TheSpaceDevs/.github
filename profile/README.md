@@ -90,20 +90,21 @@ into *a Geosynchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/dga-selects-infinite-orbits-for-e50m-paladin-satellite-inspection-service/" >🔗</a> **[European Spaceflight]** DGA Selects Infinite Orbits for €50M PALADIN Satellite-Inspection Service
+- <a href="https://www.esa.int/Space_Safety/Space_Debris/CREAM_avoiding_collisions_in_space_through_automation" >🔗</a> **[ESA]** CREAM: avoiding collisions in space through automation
 - <a href="https://www.nasaspaceflight.com/2025/08/raptor-3-ramps-spacex-mcgregor/" >🔗</a> **[NASASpaceflight]** Raptor 3 testing ramps up at SpaceX McGregor
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-view-artemis-ii-orion-stage-adapter-at-marshall/" >🔗</a> **[NASA]** NASA Invites Media to View Artemis II Orion Stage Adapter at Marshall
 - <a href="https://www.nasa.gov/news-release/nasa-awards-second-human-health-performance-contract/" >🔗</a> **[NASA]** NASA Awards Second Human Health, Performance Contract
 - <a href="https://www.nasa.gov/missions/swift/nasa-explores-industry-possibilities-to-raise-swift-missions-orbit/" >🔗</a> **[NASA]** NASA Explores Industry Possibilities to Raise Swift Mission’s Orbit
 - <a href="https://www.nasaspaceflight.com/2025/08/vulcan-ariane-starlink-missions/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Vulcan and Ariane to launch ahead of Starlink missions
-- <a href="https://www.nasaspaceflight.com/2025/08/launch-roundup-vulcan-and-ariane-to-launch-ahead-of-starlink-missions/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Vulcan and Ariane to launch ahead of Starlink missions
 - <a href="https://www.nasa.gov/missions/station/iss-research/space-station-cell-studies/" >🔗</a> **[NASA]** Space Station Cell Studies
 - <a href="https://www.nasa.gov/news-release/nasa-continues-search-for-moon-focused-sustainability-solutions/" >🔗</a> **[NASA]** NASA Continues Search for Moon-Focused Sustainability Solutions
 - <a href="https://arstechnica.com/space/2025/08/why-amazon-is-letting-its-rival-launch-its-satellites/" >🔗</a> **[Arstechnica]** Why Amazon is letting its rival launch its satellites
-- <a href="https://www.nasa.gov/image-article/nasas-spacex-crew-10-splashes-down-in-pacific-ocean/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-10 Splashes Down in Pacific Ocean
 
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2025/08/vulcan-ariane-starlink-missions/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Vulcan and Ariane to launch ahead of Starlink missions
 - <a href="https://www.nasaspaceflight.com/2025/08/launch-roundup-080425/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Vulcan and Electron to launch between Falcon 9 missions
 - <a href="https://www.nasaspaceflight.com/2025/07/vulcan-ussf-106-update/" >🔗</a> **[NASASpaceflight]** ULA set to ramp up Vulcan launches and national security missions with USSF-106
 - <a href="https://spaceflightnow.com/2025/07/03/ula-begins-stacking-its-1st-vulcan-rocket-supporting-a-national-security-mission/" >🔗</a> **[Spaceflight Now]** ULA begins stacking its 1st Vulcan rocket supporting a national security mission
@@ -113,12 +114,11 @@ into *a Geosynchronous Orbit
 - <a href="https://spacenews.com/space-force-adjusts-timeline-as-vulcans-national-security-launches-slip-to-2025/" >🔗</a> **[SpaceNews]** Space Force adjusts timeline as Vulcan’s national security launches slip to 2025
 - <a href="https://spaceflightnow.com/2024/11/03/ulas-vulcan-rocket-in-final-phase-of-certification-awaiting-first-national-security-launch-date/" >🔗</a> **[Spaceflight Now]** ULA’s Vulcan rocket in “final phase” of certification, awaiting first national security launch date
 - <a href="https://spaceflightnow.com/2024/10/23/ula-begins-stacking-vulcan-rocket-in-anticipation-of-first-national-security-mission/" >🔗</a> **[Spaceflight Now]** ULA begins stacking Vulcan rocket in anticipation of first national security mission
-- <a href="https://spacenews.com/air-force-nts-3-navigation-satellite-to-launch-in-2023/" >🔗</a> **[SpaceNews]** Air Force NTS-3 navigation satellite to launch in 2023
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250812T080146">2025-08-12 08:01:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250812T083845">2025-08-12 08:38:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
