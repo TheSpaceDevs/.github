@@ -19,41 +19,41 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 17-4**. It is scheduled to be launched by *SpaceX*
+**Vulcan VC4S | USSF-106**. It is scheduled to be launched by *United Launch Alliance*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
+from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_41">Space Launch Complex 41</a>, Cape Canaveral SFS, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250812T020500">2025-08-12 02:05:00 UTC</a>.  Until
-then, this pad will have been used for 207
-out of 821 launches from this location. The launch status is currently
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250812T235900">2025-08-12 23:59:00 UTC</a>.  Until
+then, this pad will have been used for 116
+out of 1044 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Communications* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+*Government/Top Secret* and the payload will be injected
+into *a Geosynchronous Orbit
+(GSO)*.
 <br>
 <blockquote>
-  A batch of 24 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  USSF-106 is a mission for the United States Space Force. The launch will deploy various payloads directly into geosynchronous orbit, including the NTS-3 (Navigation Technology Satellite 3), a demonstration navigation satellite testing a new digital signal generator that can be reprogrammed on-orbit to broadcast new signals, improve performance by avoiding and defeating interference, and adding signatures for detecting spoofing attacks.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+  <a href="https://en.wikipedia.org/wiki/Vulcan_Centaur" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=34.632,-120.611" >
+  <a href="https://www.google.com/maps?q=28.58341025,-80.58303644" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250812T020500">2025-08-12 02:05:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-4&location=Vandenberg SFB, CA, USA&dates=20250812T020500Z%2F20250812T060500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-4** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250812T235900">2025-08-12 23:59:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Vulcan VC4S | USSF-106&location=Cape Canaveral SFS, FL, USA&dates=20250812T235900Z%2F20250813T005900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Vulcan VC4S | USSF-106** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250813T003700">2025-08-13 00:37:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ariane 62 | Metop-SG A1&location=Guiana Space Centre, French Guiana&dates=20250813T003700Z%2F20250813T003700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ariane 62 | Metop-SG A1** from Guiana Space Centre, French Guiana.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250813T020500">2025-08-13 02:05:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-4&location=Vandenberg SFB, CA, USA&dates=20250813T020500Z%2F20250813T060500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-4** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250813T063600">2025-08-13 06:36:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 5B/YZ-2 | SatNet LEO Group TBD?&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20250813T063600Z%2F20250813T070100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 5B/YZ-2 | SatNet LEO Group TBD?** from Wenchang Space Launch Site, People's Republic of China.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250814T104700">2025-08-14 10:47:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-20&location=Cape Canaveral SFS, FL, USA&dates=20250814T104700Z%2F20250814T144700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-20** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250814T104700">2025-08-14 10:47:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-20&location=Cape Canaveral SFS, FL, USA&dates=20250814T104700Z%2F20250814T144700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-20** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250815T154400">2025-08-15 15:44:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-5&location=Vandenberg SFB, CA, USA&dates=20250815T154400Z%2F20250815T194400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-5** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250816T113500">2025-08-16 11:35:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-11&location=Cape Canaveral SFS, FL, USA&dates=20250816T113500Z%2F20250816T153500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-11** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250819T154400">2025-08-19 15:44:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-6&location=Vandenberg SFB, CA, USA&dates=20250819T154400Z%2F20250819T194400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-6** from Vandenberg SFB, CA, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250820T171300">2025-08-20 17:13:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Bion-M No. 2&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20250820T171300Z%2F20250820T171300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Bion-M No. 2** from Baikonur Cosmodrome, Republic of Kazakhstan.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250820T171300">2025-08-20 17:13:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Bion-M No. 2&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20250820T171300Z%2F20250820T171300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Bion-M No. 2** from Baikonur Cosmodrome, Republic of Kazakhstan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250821T000000">2025-08-21 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | OTV-8 (X-37B) (USSF-36)&location=Kennedy Space Center, FL, USA&dates=20250821T000000Z%2F20250821T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | OTV-8 (X-37B) (USSF-36)** from Kennedy Space Center, FL, USA.
 
 
@@ -90,28 +90,35 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/08/raptor-3-ramps-spacex-mcgregor/" >🔗</a> **[NASASpaceflight]** Raptor 3 testing ramps up at SpaceX McGregor
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-view-artemis-ii-orion-stage-adapter-at-marshall/" >🔗</a> **[NASA]** NASA Invites Media to View Artemis II Orion Stage Adapter at Marshall
 - <a href="https://www.nasa.gov/news-release/nasa-awards-second-human-health-performance-contract/" >🔗</a> **[NASA]** NASA Awards Second Human Health, Performance Contract
 - <a href="https://www.nasa.gov/missions/swift/nasa-explores-industry-possibilities-to-raise-swift-missions-orbit/" >🔗</a> **[NASA]** NASA Explores Industry Possibilities to Raise Swift Mission’s Orbit
+- <a href="https://www.nasaspaceflight.com/2025/08/vulcan-ariane-starlink-missions/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Vulcan and Ariane to launch ahead of Starlink missions
 - <a href="https://www.nasaspaceflight.com/2025/08/launch-roundup-vulcan-and-ariane-to-launch-ahead-of-starlink-missions/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Vulcan and Ariane to launch ahead of Starlink missions
 - <a href="https://www.nasa.gov/missions/station/iss-research/space-station-cell-studies/" >🔗</a> **[NASA]** Space Station Cell Studies
 - <a href="https://www.nasa.gov/news-release/nasa-continues-search-for-moon-focused-sustainability-solutions/" >🔗</a> **[NASA]** NASA Continues Search for Moon-Focused Sustainability Solutions
 - <a href="https://arstechnica.com/space/2025/08/why-amazon-is-letting-its-rival-launch-its-satellites/" >🔗</a> **[Arstechnica]** Why Amazon is letting its rival launch its satellites
 - <a href="https://www.nasa.gov/image-article/nasas-spacex-crew-10-splashes-down-in-pacific-ocean/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-10 Splashes Down in Pacific Ocean
-- <a href="https://europeanspaceflight.com/esa-to-develop-hummingbird-inspired-flying-mars-explorer/" >🔗</a> **[European Spaceflight]** ESA to Develop Hummingbird-Inspired Flying Mars Explorer
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/08/Behind_the_scenes_with_MetOp-SG_and_Sentinel-5" >🔗</a> **[ESA]** Behind the scenes with MetOp-SG and Sentinel-5
 
 
 ### Launch-related News 🚀
 
-- <a href="https://spaceflightnow.com/2025/08/08/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg
 - <a href="https://www.nasaspaceflight.com/2025/08/launch-roundup-080425/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Vulcan and Electron to launch between Falcon 9 missions
-- <a href="https://www.nasaspaceflight.com/2025/07/launch-roundup-072825/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX to launch Crew-11 to ISS; ISRO and NASA launch new SAR satellite
+- <a href="https://www.nasaspaceflight.com/2025/07/vulcan-ussf-106-update/" >🔗</a> **[NASASpaceflight]** ULA set to ramp up Vulcan launches and national security missions with USSF-106
+- <a href="https://spaceflightnow.com/2025/07/03/ula-begins-stacking-its-1st-vulcan-rocket-supporting-a-national-security-mission/" >🔗</a> **[Spaceflight Now]** ULA begins stacking its 1st Vulcan rocket supporting a national security mission
+- <a href="https://spaceflightnow.com/2025/02/07/ula-begins-de-stacking-vulcan-rocket-pivots-to-atlas-5-launch-of-amazons-kuiper-satellites-for-first-2025-mission/" >🔗</a> **[Spaceflight Now]** ULA begins de-stacking Vulcan rocket, pivots to Atlas 5 launch of Amazon’s Kuiper satellites for first 2025 mission
+- <a href="https://spaceflightnow.com/2024/12/18/space-force-says-first-national-security-vulcan-launch-now-anticipated-in-spring-2025/" >🔗</a> **[Spaceflight Now]** Space Force says first national security Vulcan launch now anticipated in spring 2025
+- <a href="https://arstechnica.com/space/2024/11/rocket-report-next-vulcan-launch-slips-into-2025-starship-gets-a-green-light/" >🔗</a> **[Arstechnica]** Rocket Report: Next Vulcan launch slips into 2025; Starship gets a green light
+- <a href="https://spacenews.com/space-force-adjusts-timeline-as-vulcans-national-security-launches-slip-to-2025/" >🔗</a> **[SpaceNews]** Space Force adjusts timeline as Vulcan’s national security launches slip to 2025
+- <a href="https://spaceflightnow.com/2024/11/03/ulas-vulcan-rocket-in-final-phase-of-certification-awaiting-first-national-security-launch-date/" >🔗</a> **[Spaceflight Now]** ULA’s Vulcan rocket in “final phase” of certification, awaiting first national security launch date
+- <a href="https://spaceflightnow.com/2024/10/23/ula-begins-stacking-vulcan-rocket-in-anticipation-of-first-national-security-mission/" >🔗</a> **[Spaceflight Now]** ULA begins stacking Vulcan rocket in anticipation of first national security mission
+- <a href="https://spacenews.com/air-force-nts-3-navigation-satellite-to-launch-in-2023/" >🔗</a> **[SpaceNews]** Air Force NTS-3 navigation satellite to launch in 2023
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250811T220127">2025-08-11 22:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250812T021646">2025-08-12 02:16:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
