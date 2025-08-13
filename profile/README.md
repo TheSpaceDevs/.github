@@ -47,7 +47,6 @@ The constellation will eventually consists of 13000 satellites.
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250813T063600">2025-08-13 06:36:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 5B/YZ-2 | SatNet LEO Group TBD?&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20250813T063600Z%2F20250813T070100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 5B/YZ-2 | SatNet LEO Group TBD?** from Wenchang Space Launch Site, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250814T020500">2025-08-14 02:05:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-4&location=Vandenberg SFB, CA, USA&dates=20250814T020500Z%2F20250814T060500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-4** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250814T104700">2025-08-14 10:47:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-20&location=Cape Canaveral SFS, FL, USA&dates=20250814T104700Z%2F20250814T144700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-20** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250815T010800">2025-08-15 01:08:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Zhuque-2E | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20250815T010800Z%2F20250815T012900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Zhuque-2E | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
@@ -92,6 +91,7 @@ The constellation will eventually consists of 13000 satellites.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/08/MetOp-SG-A1_and_Sentinel-5_launch_on_Ariane_6" >🔗</a> **[ESA]** MetOp-SG-A1 and Sentinel-5 launch on Ariane 6
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/MetOp_Second_Generation/First_MetOp-SG_and_Sentinel-5_launched" >🔗</a> **[ESA]** First MetOp-SG and Sentinel-5 launched
 - <a href="https://spaceflightnow.com/2025/08/13/ula-launches-vulcan-rocket-on-first-space-force-mission/" >🔗</a> **[Spaceflight Now]** ULA launches Vulcan rocket on first Space Force mission
 - <a href="https://spacepolicyonline.com/news/ulas-vulcan-centaur-lifts-off-on-first-national-security-mission/" >🔗</a> **[SpacePolicyOnline.com]** ULA’s Vulcan Centaur Lifts Off on First National Security Mission
@@ -101,7 +101,6 @@ The constellation will eventually consists of 13000 satellites.
 - <a href="https://science.nasa.gov/science-research/earth-science/a-tapestry-of-tales-10th-anniversary-reflections-from-nasas-oco-2-mission/" >🔗</a> **[NASA]** A Tapestry of Tales: 10th Anniversary Reflections from NASA’s OCO-2 Mission
 - <a href="https://science.nasa.gov/science-research/heliophysics/a-gigantic-jet-caught-on-camera-a-spritacular-moment-for-nasa-astronaut-nicole-ayers/" >🔗</a> **[NASA]** A Gigantic Jet Caught on Camera: A Spritacular Moment for NASA Astronaut Nicole Ayers!
 - <a href="https://tlpnetwork.com/news/america/vulcan-set-to-launch-first-us-national-security-mission" >🔗</a> **[The Launch Pad]** LIVE COVERAGE! Vulcan Set To Launch First U.S. National Security Mission
-- <a href="https://www.nasa.gov/image-article/hubble-captures-a-tarantula/" >🔗</a> **[NASA]** Hubble Captures a Tarantula
 
 
 ### Launch-related News 🚀
@@ -111,7 +110,7 @@ The constellation will eventually consists of 13000 satellites.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250813T060212">2025-08-13 06:02:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250813T064130">2025-08-13 06:41:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
