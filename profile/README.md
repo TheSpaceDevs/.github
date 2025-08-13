@@ -92,6 +92,7 @@ The constellation will eventually consists of 13000 satellites.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/MetOp_Second_Generation/First_MetOp-SG_and_Sentinel-5_launched" >🔗</a> **[ESA]** First MetOp-SG and Sentinel-5 launched
 - <a href="https://spaceflightnow.com/2025/08/13/ula-launches-vulcan-rocket-on-first-space-force-mission/" >🔗</a> **[Spaceflight Now]** ULA launches Vulcan rocket on first Space Force mission
 - <a href="https://spacepolicyonline.com/news/ulas-vulcan-centaur-lifts-off-on-first-national-security-mission/" >🔗</a> **[SpacePolicyOnline.com]** ULA’s Vulcan Centaur Lifts Off on First National Security Mission
 - <a href="https://www.nasaspaceflight.com/2025/08/b1091-heavy-core-falcon-9-clothing/" >🔗</a> **[NASASpaceflight]** B1091 “A Heavy Core in Falcon 9 Clothing”
@@ -101,7 +102,6 @@ The constellation will eventually consists of 13000 satellites.
 - <a href="https://science.nasa.gov/science-research/heliophysics/a-gigantic-jet-caught-on-camera-a-spritacular-moment-for-nasa-astronaut-nicole-ayers/" >🔗</a> **[NASA]** A Gigantic Jet Caught on Camera: A Spritacular Moment for NASA Astronaut Nicole Ayers!
 - <a href="https://tlpnetwork.com/news/america/vulcan-set-to-launch-first-us-national-security-mission" >🔗</a> **[The Launch Pad]** LIVE COVERAGE! Vulcan Set To Launch First U.S. National Security Mission
 - <a href="https://www.nasa.gov/image-article/hubble-captures-a-tarantula/" >🔗</a> **[NASA]** Hubble Captures a Tarantula
-- <a href="https://www.nasa.gov/missions/roman-space-telescope/nasa-roman-core-survey-will-trace-cosmic-expansion-over-time/" >🔗</a> **[NASA]** NASA Roman Core Survey Will Trace Cosmic Expansion Over Time
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ The constellation will eventually consists of 13000 satellites.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250813T030032">2025-08-13 03:00:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250813T034533">2025-08-13 03:45:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
