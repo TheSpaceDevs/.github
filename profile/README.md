@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/alligator-goes-for-a-swim/" >🔗</a> **[NASA]** Alligator Goes for a Swim
+- <a href="https://europeanspaceflight.com/portugals-asc-granted-licence-for-santa-maria-launch-centre/" >🔗</a> **[European Spaceflight]** Portugal’s ASC Granted Licence for Santa Maria Launch Centre
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Space_for_our_climate/Tracking_the_climate-driven_shift_in_Antarctic_plankton_from_space" >🔗</a> **[ESA]** Tracking the climate-driven shift in Antarctic plankton from space
 - <a href="https://www.nasaspaceflight.com/2025/08/iss-crew-handover-command/" >🔗</a> **[NASASpaceflight]** International Space Station undergoes crew handover, change of command
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-uncovers-rare-white-dwarf-merger-remnant/" >🔗</a> **[NASA]** NASA’s Hubble Uncovers Rare White Dwarf Merger Remnant
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/No_Earth-like_atmosphere_on_TRAPPIST-1_d" >🔗</a> **[ESA]** No Earth-like atmosphere on TRAPPIST-1 d
+- <a href="https://www.nasa.gov/missions/station/iss-research/nasas-spacex-33-resupply-mission-launches-research-to-station/" >🔗</a> **[NASA]** NASA’s SpaceX-33 Resupply Mission Launches Research to Station
 - <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/nasa-glenn-offers-students-work-based-learning-through-engineering-institute/" >🔗</a> **[NASA]** NASA Glenn Offers Students Work-Based Learning Through Engineering Institute
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenn-shoots-for-the-stars-during-wnba-all-star-weekend/" >🔗</a> **[NASA]** NASA Glenn Shoots for the Stars During WNBA All-Star Weekend
 - <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/nasa-glenn-names-university-student-design-challenge-winner/" >🔗</a> **[NASA]** NASA Glenn Names University Student Design Challenge Winner
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/08/MetOp-SG-A1_and_Sentinel-5_launch_highlights" >🔗</a> **[ESA]** MetOp-SG-A1 and Sentinel-5 launch highlights
-- <a href="https://europeanspaceflight.com/edgx-secures-e2-3m-to-build-ai-in-orbit-data-processing-system/" >🔗</a> **[European Spaceflight]** EDGX Secures €2.3M to Build AI In-Orbit Data Processing System
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/08/MetOp-SG-A1_and_Sentinel-5_launch_on_Ariane_6" >🔗</a> **[ESA]** MetOp-SG-A1 and Sentinel-5 launch on Ariane 6
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/MetOp_Second_Generation/First_MetOp-SG_and_Sentinel-5_launched" >🔗</a> **[ESA]** First MetOp-SG and Sentinel-5 launched
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250813T150133">2025-08-13 15:01:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250813T153315">2025-08-13 15:33:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
