@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/nasa-glenn-offers-students-work-based-learning-through-engineering-institute/" >🔗</a> **[NASA]** NASA Glenn Offers Students Work-Based Learning Through Engineering Institute
+- <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenn-shoots-for-the-stars-during-wnba-all-star-weekend/" >🔗</a> **[NASA]** NASA Glenn Shoots for the Stars During WNBA All-Star Weekend
+- <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/nasa-glenn-names-university-student-design-challenge-winner/" >🔗</a> **[NASA]** NASA Glenn Names University Student Design Challenge Winner
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/08/MetOp-SG-A1_and_Sentinel-5_launch_highlights" >🔗</a> **[ESA]** MetOp-SG-A1 and Sentinel-5 launch highlights
 - <a href="https://europeanspaceflight.com/edgx-secures-e2-3m-to-build-ai-in-orbit-data-processing-system/" >🔗</a> **[European Spaceflight]** EDGX Secures €2.3M to Build AI In-Orbit Data Processing System
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/08/MetOp-SG-A1_and_Sentinel-5_launch_on_Ariane_6" >🔗</a> **[ESA]** MetOp-SG-A1 and Sentinel-5 launch on Ariane 6
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/08/13/ula-launches-vulcan-rocket-on-first-space-force-mission/" >🔗</a> **[Spaceflight Now]** ULA launches Vulcan rocket on first Space Force mission
 - <a href="https://spacepolicyonline.com/news/ulas-vulcan-centaur-lifts-off-on-first-national-security-mission/" >🔗</a> **[SpacePolicyOnline.com]** ULA’s Vulcan Centaur Lifts Off on First National Security Mission
 - <a href="https://www.nasaspaceflight.com/2025/08/b1091-heavy-core-falcon-9-clothing/" >🔗</a> **[NASASpaceflight]** B1091 “A Heavy Core in Falcon 9 Clothing”
-- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4624-4626-a-busy-weekend-at-the-boxwork/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4624-4626: A Busy Weekend at the Boxwork
-- <a href="https://www.nasa.gov/missions/ixpe/nasa-ixpes-heartbeat-black-hole-measurements-challenge-current-theories/" >🔗</a> **[NASA]** NASA IXPE’s ‘Heartbeat Black Hole’ Measurements Challenge Current Theories
-- <a href="https://science.nasa.gov/science-research/earth-science/a-tapestry-of-tales-10th-anniversary-reflections-from-nasas-oco-2-mission/" >🔗</a> **[NASA]** A Tapestry of Tales: 10th Anniversary Reflections from NASA’s OCO-2 Mission
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250813T120157">2025-08-13 12:01:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250813T124333">2025-08-13 12:43:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
