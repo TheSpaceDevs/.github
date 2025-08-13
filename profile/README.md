@@ -97,9 +97,9 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-uncovers-rare-white-dwarf-merger-remnant/" >🔗</a> **[NASA]** NASA’s Hubble Uncovers Rare White Dwarf Merger Remnant
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/No_Earth-like_atmosphere_on_TRAPPIST-1_d" >🔗</a> **[ESA]** No Earth-like atmosphere on TRAPPIST-1 d
 - <a href="https://www.nasa.gov/missions/station/iss-research/nasas-spacex-33-resupply-mission-launches-research-to-station/" >🔗</a> **[NASA]** NASA’s SpaceX-33 Resupply Mission Launches Research to Station
+- <a href="https://science.nasa.gov/missions/webb/webb-narrows-atmospheric-possibilities-for-earth-sized-exoplanet-trappist-1-d/" >🔗</a> **[NASA]** Webb Narrows Atmospheric Possibilities for Earth-sized Exoplanet TRAPPIST-1 d
 - <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/nasa-glenn-offers-students-work-based-learning-through-engineering-institute/" >🔗</a> **[NASA]** NASA Glenn Offers Students Work-Based Learning Through Engineering Institute
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenn-shoots-for-the-stars-during-wnba-all-star-weekend/" >🔗</a> **[NASA]** NASA Glenn Shoots for the Stars During WNBA All-Star Weekend
-- <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/nasa-glenn-names-university-student-design-challenge-winner/" >🔗</a> **[NASA]** NASA Glenn Names University Student Design Challenge Winner
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250813T160127">2025-08-13 16:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250813T163615">2025-08-13 16:36:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
