@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/the-nasa-rasc-al-2026-competition/" >🔗</a> **[NASA]** The NASA RASC-AL 2026 Competition
 - <a href="https://www.nasa.gov/image-article/alligator-goes-for-a-swim/" >🔗</a> **[NASA]** Alligator Goes for a Swim
 - <a href="https://europeanspaceflight.com/portugals-asc-granted-licence-for-santa-maria-launch-centre/" >🔗</a> **[European Spaceflight]** Portugal’s ASC Granted Licence for Santa Maria Launch Centre
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Space_for_our_climate/Tracking_the_climate-driven_shift_in_Antarctic_plankton_from_space" >🔗</a> **[ESA]** Tracking the climate-driven shift in Antarctic plankton from space
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/missions/station/iss-research/nasas-spacex-33-resupply-mission-launches-research-to-station/" >🔗</a> **[NASA]** NASA’s SpaceX-33 Resupply Mission Launches Research to Station
 - <a href="https://science.nasa.gov/missions/webb/webb-narrows-atmospheric-possibilities-for-earth-sized-exoplanet-trappist-1-d/" >🔗</a> **[NASA]** Webb Narrows Atmospheric Possibilities for Earth-sized Exoplanet TRAPPIST-1 d
 - <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/nasa-glenn-offers-students-work-based-learning-through-engineering-institute/" >🔗</a> **[NASA]** NASA Glenn Offers Students Work-Based Learning Through Engineering Institute
-- <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenn-shoots-for-the-stars-during-wnba-all-star-weekend/" >🔗</a> **[NASA]** NASA Glenn Shoots for the Stars During WNBA All-Star Weekend
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250813T200132">2025-08-13 20:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250813T203521">2025-08-13 20:35:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
