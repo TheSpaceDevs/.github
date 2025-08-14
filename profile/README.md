@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/say-cheese/" >🔗</a> **[NASA]** Say Cheese!
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/08/MetOp-SG-A1_and_Sentinel-5_from_cleanroom_to_space" >🔗</a> **[ESA]** MetOp-SG-A1 and Sentinel-5: from cleanroom to space
 - <a href="https://europeanspaceflight.com/the-exploration-company-taps-agile-space-for-nyx-earth-thrusters/" >🔗</a> **[European Spaceflight]** The Exploration Company Taps Agile Space for Nyx Earth Thrusters
 - <a href="https://www.nasa.gov/centers-and-facilities/stennis/stennis-employees-receive-honor-awards/" >🔗</a> **[NASA]** NASA’s Stennis Space Center Employees Receive NASA Honor Awards
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenn-earns-commercial-invention-of-the-year-award/" >🔗</a> **[NASA]** NASA Glenn Earns Commercial Invention of the Year Award
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://spaceflightnow.com/2025/08/14/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-9/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacepolicyonline.com/news/trump-issues-executive-order-on-commercial-space/" >🔗</a> **[SpacePolicyOnline.com]** Trump Issues Executive Order on Commercial Space
 - <a href="https://www.nasa.gov/news-release/u-s-transportation-secretary-acting-nasa-administrator-sean-p-duffy-joins-president-trump-executive-order-signing-to-boost-u-s-space-competitiveness/" >🔗</a> **[NASA]** U.S. Transportation Secretary & Acting NASA Administrator Sean P. Duffy Joins President Trump Executive Order Signing to Boost U.S. Space Competitiveness
-- <a href="https://www.nasaspaceflight.com/2025/08/ship-37-spin-prime-engine-swap/" >🔗</a> **[NASASpaceflight]** Ship 37 completes a Spin Prime test following Engine Swap
-- <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/the-nasa-rasc-al-2026-competition/" >🔗</a> **[NASA]** The NASA RASC-AL 2026 Competition
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250814T150126">2025-08-14 15:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250814T153529">2025-08-14 15:35:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
