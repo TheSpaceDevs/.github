@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/directorates/smd/astronauts-plant-seed-pillows-in-new-space-agriculture-study/" >🔗</a> **[NASA]** Astronauts Plant Seed Pillows in New Space Agriculture Study
 - <a href="https://www.nasaspaceflight.com/2025/08/skyrora-efis/" >🔗</a> **[NASASpaceflight]** Skyrora weighs options on the path to the UK’s first vertical launch
 - <a href="https://science.nasa.gov/science-research/earth-science/after-storied-34-year-career-steve-platnick-retires-from-nasa/" >🔗</a> **[NASA]** After Storied 34 Year Career, Steve Platnick Retires from NASA
 - <a href="https://science.nasa.gov/directorates/smd/small-companies-win-big-in-nasas-techleap-challenge/" >🔗</a> **[NASA]** Small Companies Win Big in NASA’s TechLeap Challenge
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/image-article/say-cheese/" >🔗</a> **[NASA]** Say Cheese!
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/08/MetOp-SG-A1_and_Sentinel-5_from_cleanroom_to_space" >🔗</a> **[ESA]** MetOp-SG-A1 and Sentinel-5: from cleanroom to space
 - <a href="https://europeanspaceflight.com/the-exploration-company-taps-agile-space-for-nyx-earth-thrusters/" >🔗</a> **[European Spaceflight]** The Exploration Company Taps Agile Space for Nyx Earth Thrusters
-- <a href="https://www.nasa.gov/centers-and-facilities/stennis/stennis-employees-receive-honor-awards/" >🔗</a> **[NASA]** NASA’s Stennis Space Center Employees Receive NASA Honor Awards
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250814T190213">2025-08-14 19:02:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250814T193101">2025-08-14 19:31:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
