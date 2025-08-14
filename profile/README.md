@@ -89,6 +89,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/08/14/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-9/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacepolicyonline.com/news/trump-issues-executive-order-on-commercial-space/" >🔗</a> **[SpacePolicyOnline.com]** Trump Issues Executive Order on Commercial Space
 - <a href="https://www.nasa.gov/news-release/u-s-transportation-secretary-acting-nasa-administrator-sean-p-duffy-joins-president-trump-executive-order-signing-to-boost-u-s-space-competitiveness/" >🔗</a> **[NASA]** U.S. Transportation Secretary & Acting NASA Administrator Sean P. Duffy Joins President Trump Executive Order Signing to Boost U.S. Space Competitiveness
 - <a href="https://www.nasaspaceflight.com/2025/08/ship-37-spin-prime-engine-swap/" >🔗</a> **[NASASpaceflight]** Ship 37 completes a Spin Prime test following Engine Swap
@@ -98,7 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Space_for_our_climate/Tracking_the_climate-driven_shift_in_Antarctic_plankton_from_space" >🔗</a> **[ESA]** Tracking the climate-driven shift in Antarctic plankton from space
 - <a href="https://www.nasaspaceflight.com/2025/08/iss-crew-handover-command/" >🔗</a> **[NASASpaceflight]** International Space Station undergoes crew handover, change of command
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-uncovers-rare-white-dwarf-merger-remnant/" >🔗</a> **[NASA]** NASA’s Hubble Uncovers Rare White Dwarf Merger Remnant
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/No_Earth-like_atmosphere_on_TRAPPIST-1_d" >🔗</a> **[ESA]** No Earth-like atmosphere on TRAPPIST-1 d
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250814T030050">2025-08-14 03:00:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250814T034542">2025-08-14 03:45:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
