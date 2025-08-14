@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/the-exploration-company-taps-agile-space-for-nyx-earth-thrusters/" >🔗</a> **[European Spaceflight]** The Exploration Company Taps Agile Space for Nyx Earth Thrusters
+- <a href="https://www.nasa.gov/centers-and-facilities/stennis/stennis-employees-receive-honor-awards/" >🔗</a> **[NASA]** NASA’s Stennis Space Center Employees Receive NASA Honor Awards
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenn-earns-commercial-invention-of-the-year-award/" >🔗</a> **[NASA]** NASA Glenn Earns Commercial Invention of the Year Award
 - <a href="https://www.nasa.gov/aeronautics/air-taxi-flight-controls/" >🔗</a> **[NASA]** NASA Tests Research Aircraft to Improve Air Taxi Flight Controls
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/08/FLEX_instrument_meets_its_satellite" >🔗</a> **[ESA]** FLEX instrument meets its satellite
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/news-release/u-s-transportation-secretary-acting-nasa-administrator-sean-p-duffy-joins-president-trump-executive-order-signing-to-boost-u-s-space-competitiveness/" >🔗</a> **[NASA]** U.S. Transportation Secretary & Acting NASA Administrator Sean P. Duffy Joins President Trump Executive Order Signing to Boost U.S. Space Competitiveness
 - <a href="https://www.nasaspaceflight.com/2025/08/ship-37-spin-prime-engine-swap/" >🔗</a> **[NASASpaceflight]** Ship 37 completes a Spin Prime test following Engine Swap
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/the-nasa-rasc-al-2026-competition/" >🔗</a> **[NASA]** The NASA RASC-AL 2026 Competition
-- <a href="https://www.nasa.gov/image-article/alligator-goes-for-a-swim/" >🔗</a> **[NASA]** Alligator Goes for a Swim
-- <a href="https://europeanspaceflight.com/portugals-asc-granted-licence-for-santa-maria-launch-centre/" >🔗</a> **[European Spaceflight]** Portugal’s ASC Granted Licence for Santa Maria Launch Centre
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250814T140134">2025-08-14 14:01:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250814T143617">2025-08-14 14:36:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
