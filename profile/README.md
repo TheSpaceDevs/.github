@@ -104,13 +104,14 @@ into *a Low Earth Orbit
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2025/08/14/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-9/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://www.nasaspaceflight.com/2025/08/vulcan-ariane-starlink-missions/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Vulcan and Ariane to launch ahead of Starlink missions
 - <a href="https://www.nasaspaceflight.com/2025/08/launch-roundup-080425/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Vulcan and Electron to launch between Falcon 9 missions
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250814T060147">2025-08-14 06:01:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250814T064143">2025-08-14 06:41:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
