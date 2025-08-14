@@ -19,27 +19,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 10-20**. It is scheduled to be launched by *SpaceX*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral SFS, FL, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250814T104700">2025-08-14 10:47:00 UTC</a>.  Until
-then, this pad will have been used for 327
-out of 1045 launches from this location. The launch status is currently
+**Zhuque-2E | Unknown Payload**. It is scheduled to be launched by *LandSpace*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+from *<a href="https://en.wikipedia.org/wiki/LandSpace">Launch Area 96</a>, Jiuquan Satellite Launch Center, People's Republic of China*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250815T010800">2025-08-15 01:08:00 UTC</a>.  Until
+then, this pad will have been used for 5
+out of 254 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Communications* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+*Unknown* and the payload will be injected
+into *an Unknown
+(N/A)*.
 <br>
 <blockquote>
-  A batch of 28 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  Details TBD.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+  <a href="https://en.wikipedia.org/wiki/Zhuque-2" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
+  <a href="https://www.google.com/maps?q=40.91491,100.245488" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -54,6 +54,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250820T154400">2025-08-20 15:44:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-6&location=Vandenberg SFB, CA, USA&dates=20250820T154400Z%2F20250820T194400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-6** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250820T171300">2025-08-20 17:13:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Bion-M No. 2&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20250820T171300Z%2F20250820T171300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Bion-M No. 2** from Baikonur Cosmodrome, Republic of Kazakhstan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250821T000000">2025-08-21 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | OTV-8 (X-37B) (USSF-36)&location=Kennedy Space Center, FL, USA&dates=20250821T000000Z%2F20250821T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | OTV-8 (X-37B) (USSF-36)** from Kennedy Space Center, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250821T075556">2025-08-21 07:55:56 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Dragon CRS-2 SpX-33&location=Cape Canaveral SFS, FL, USA&dates=20250821T075556Z%2F20250821T075556Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Dragon CRS-2 SpX-33** from Cape Canaveral SFS, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -89,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenn-earns-commercial-invention-of-the-year-award/" >🔗</a> **[NASA]** NASA Glenn Earns Commercial Invention of the Year Award
 - <a href="https://www.nasa.gov/aeronautics/air-taxi-flight-controls/" >🔗</a> **[NASA]** NASA Tests Research Aircraft to Improve Air Taxi Flight Controls
 - <a href="https://spaceflightnow.com/2025/08/14/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-9/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacepolicyonline.com/news/trump-issues-executive-order-on-commercial-space/" >🔗</a> **[SpacePolicyOnline.com]** Trump Issues Executive Order on Commercial Space
@@ -98,19 +100,15 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/alligator-goes-for-a-swim/" >🔗</a> **[NASA]** Alligator Goes for a Swim
 - <a href="https://europeanspaceflight.com/portugals-asc-granted-licence-for-santa-maria-launch-centre/" >🔗</a> **[European Spaceflight]** Portugal’s ASC Granted Licence for Santa Maria Launch Centre
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Space_for_our_climate/Tracking_the_climate-driven_shift_in_Antarctic_plankton_from_space" >🔗</a> **[ESA]** Tracking the climate-driven shift in Antarctic plankton from space
-- <a href="https://www.nasaspaceflight.com/2025/08/iss-crew-handover-command/" >🔗</a> **[NASASpaceflight]** International Space Station undergoes crew handover, change of command
 
 
 ### Launch-related News 🚀
 
-- <a href="https://spaceflightnow.com/2025/08/14/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-9/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Cape Canaveral
-- <a href="https://www.nasaspaceflight.com/2025/08/vulcan-ariane-starlink-missions/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Vulcan and Ariane to launch ahead of Starlink missions
-- <a href="https://www.nasaspaceflight.com/2025/08/launch-roundup-080425/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Vulcan and Electron to launch between Falcon 9 missions
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250814T120217">2025-08-14 12:02:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250814T124337">2025-08-14 12:43:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
