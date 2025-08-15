@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/missions/hubble/hubble-examines-low-brightness-high-interest-galaxy/" >🔗</a> **[NASA]** Hubble Examines Low Brightness, High Interest Galaxy
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4627-4628-a-ridge-stop-in-the-boxworks/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4627-4628: A Ridge Stop in the Boxworks
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-seeks-industry-feedback-on-fission-surface-power/" >🔗</a> **[NASA]** NASA Seeks Industry Feedback on Fission Surface Power
 - <a href="https://science.nasa.gov/directorates/smd/astronauts-plant-seed-pillows-in-new-space-agriculture-study/" >🔗</a> **[NASA]** Astronauts Plant Seed Pillows in New Space Agriculture Study
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/science-research/new-research-connects-plant-nutrition-and-astronaut-gut-health/" >🔗</a> **[NASA]** New Research Connects Plant Nutrition and Astronaut Gut Health
 - <a href="https://science.nasa.gov/solar-system/moon/nasas-apollo-samples-lro-help-scientists-predict-moonquakes/" >🔗</a> **[NASA]** NASA’s Apollo Samples, LRO Help Scientists Predict Moonquakes
 - <a href="https://www.nasa.gov/news-release/nasas-spacex-crew-10-astronauts-to-discuss-science-mission/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-10 Astronauts to Discuss Science Mission
-- <a href="https://www.nasa.gov/image-article/say-cheese/" >🔗</a> **[NASA]** Say Cheese!
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250815T110130">2025-08-15 11:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250815T113150">2025-08-15 11:31:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
