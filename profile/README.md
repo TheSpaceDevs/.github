@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/human-rating-and-nasa-std-3001/" >🔗</a> **[NASA]** Human Rating and NASA-STD-3001
+- <a href="https://www.nasa.gov/news-release/nasa-astronauts-to-answer-questions-from-students-in-minnesota/" >🔗</a> **[NASA]** NASA Astronauts to Answer Questions from Students in Minnesota
 - <a href="https://www.nasa.gov/missions/station/iss-research/countdown-to-space-stations-silver-jubilee-with-silver-research/" >🔗</a> **[NASA]** Countdown to Space Station’s Silver Jubilee with Silver Research
 - <a href="https://arstechnica.com/space/2025/08/nasas-acting-chief-calls-for-the-end-of-earth-science-at-the-space-agency/" >🔗</a> **[Arstechnica]** NASA’s acting chief calls for the end of Earth science at the space agency
 - <a href="https://www.nasa.gov/image-article/spacewalk-pop-up/" >🔗</a> **[NASA]** Spacewalk Pop-Up
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://europeanspaceflight.com/spartan-space-and-airbus-complete-cnes-lunar-surface-airlock-study/" >🔗</a> **[European Spaceflight]** Spartan Space and Airbus Complete CNES Lunar Surface Airlock Study
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_11-15_August_2025" >🔗</a> **[ESA]** Week in images: 11-15 August 2025
 - <a href="https://science.nasa.gov/missions/hubble/hubble-examines-low-brightness-high-interest-galaxy/" >🔗</a> **[NASA]** Hubble Examines Low Brightness, High Interest Galaxy
-- <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/summer-triangle-corner-altair/" >🔗</a> **[NASA]** Summer Triangle Corner: Altair
-- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4627-4628-a-ridge-stop-in-the-boxworks/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4627-4628: A Ridge Stop in the Boxworks
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250815T180139">2025-08-15 18:01:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250815T184042">2025-08-15 18:40:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
