@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/spacewalk-pop-up/" >🔗</a> **[NASA]** Spacewalk Pop-Up
+- <a href="https://www.nasaspaceflight.com/2025/08/major-progress-future-operations-cape/" >🔗</a> **[NASASpaceflight]** East Coast sees major progress for future operations at the Cape
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasa-seeks-proposals-for-2026-human-exploration-rover-challenge/" >🔗</a> **[NASA]** NASA Seeks Proposals for 2026 Human Exploration Rover Challenge
 - <a href="https://europeanspaceflight.com/spartan-space-and-airbus-complete-cnes-lunar-surface-airlock-study/" >🔗</a> **[European Spaceflight]** Spartan Space and Airbus Complete CNES Lunar Surface Airlock Study
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_11-15_August_2025" >🔗</a> **[ESA]** Week in images: 11-15 August 2025
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4627-4628-a-ridge-stop-in-the-boxworks/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4627-4628: A Ridge Stop in the Boxworks
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-seeks-industry-feedback-on-fission-surface-power/" >🔗</a> **[NASA]** NASA Seeks Industry Feedback on Fission Surface Power
 - <a href="https://science.nasa.gov/directorates/smd/astronauts-plant-seed-pillows-in-new-space-agriculture-study/" >🔗</a> **[NASA]** Astronauts Plant Seed Pillows in New Space Agriculture Study
-- <a href="https://www.nasaspaceflight.com/2025/08/skyrora-efis/" >🔗</a> **[NASASpaceflight]** Skyrora weighs options on the path to the UK’s first vertical launch
-- <a href="https://science.nasa.gov/science-research/earth-science/after-storied-34-year-career-steve-platnick-retires-from-nasa/" >🔗</a> **[NASA]** After Storied 34 Year Career, Steve Platnick Retires from NASA
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250815T150140">2025-08-15 15:01:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250815T153428">2025-08-15 15:34:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
