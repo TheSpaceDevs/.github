@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/08/16/spacex-schedules-starship-flight-10-details-recent-setbacks/" >🔗</a> **[Spaceflight Now]** SpaceX schedules 10th test flight for Starship, details recent setbacks
 - <a href="https://www.nasaspaceflight.com/2025/08/faa-flight-10-mishap-probe-august-24/" >🔗</a> **[NASASpaceflight]** FAA approves Starship Flight 10 after mishap probe, eyes August 24 launch
 - <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-developed-printable-metal-can-take-the-heat/" >🔗</a> **[NASA]** NASA-Developed Printable Metal Can Take the Heat
 - <a href="https://www.nasa.gov/general/human-rating-and-nasa-std-3001/" >🔗</a> **[NASA]** Human Rating and NASA-STD-3001
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/image-article/spacewalk-pop-up/" >🔗</a> **[NASA]** Spacewalk Pop-Up
 - <a href="https://www.nasaspaceflight.com/2025/08/major-progress-future-operations-cape/" >🔗</a> **[NASASpaceflight]** East Coast sees major progress for future operations at the Cape
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasa-seeks-proposals-for-2026-human-exploration-rover-challenge/" >🔗</a> **[NASA]** NASA Seeks Proposals for 2026 Human Exploration Rover Challenge
-- <a href="https://europeanspaceflight.com/spartan-space-and-airbus-complete-cnes-lunar-surface-airlock-study/" >🔗</a> **[European Spaceflight]** Spartan Space and Airbus Complete CNES Lunar Surface Airlock Study
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250816T130823">2025-08-16 13:08:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250816T133606">2025-08-16 13:36:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
