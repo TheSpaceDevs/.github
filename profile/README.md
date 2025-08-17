@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/america/weekly-pre-launch-preview-august-18-24-2025" >🔗</a> **[The Launch Pad]** Starlink Doubles Up, ISS Gets A New Booster, X-37B Returns, and Starship is GO For Launch This Week
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-17-24-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy August 17-24, 2025
 - <a href="https://spaceflightnow.com/2025/08/17/live-coverage-24-starlink-satellites-to-launch-from-california-on-100th-falcon-9-rocket-of-the-year/" >🔗</a> **[Spaceflight Now]** Live coverage: 24 Starlink satellites to launch from California on 100th Falcon 9 rocket of the year
 - <a href="https://arstechnica.com/science/2025/08/hurricane-erin-sets-early-season-intensification-record-becomes-category-5-storm/" >🔗</a> **[Arstechnica]** Hurricane Erin sets early season intensification record, becomes Category 5 storm
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/general/human-rating-and-nasa-std-3001/" >🔗</a> **[NASA]** Human Rating and NASA-STD-3001
 - <a href="https://www.nasa.gov/news-release/nasa-astronauts-to-answer-questions-from-students-in-minnesota/" >🔗</a> **[NASA]** NASA Astronauts to Answer Questions from Students in Minnesota
 - <a href="https://www.nasa.gov/missions/station/iss-research/countdown-to-space-stations-silver-jubilee-with-silver-research/" >🔗</a> **[NASA]** Countdown to Space Station’s Silver Jubilee with Silver Research
-- <a href="https://arstechnica.com/space/2025/08/nasas-acting-chief-calls-for-the-end-of-earth-science-at-the-space-agency/" >🔗</a> **[Arstechnica]** NASA’s acting chief calls for the end of Earth science at the space agency
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250817T210133">2025-08-17 21:01:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250817T213245">2025-08-17 21:32:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
