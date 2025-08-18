@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/new-esa-business-incubator-in-spain-opens-first-call-for-proposals/" >🔗</a> **[European Spaceflight]** New ESA Business Incubator in Spain Opens First Call for Proposals
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-challenge-winners-cook/" >🔗</a> **[NASA]** NASA Challenge Winners Cook Up New Industry Developments
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/Arctic_Weather_Satellite/ESA_s_Arctic_Weather_Satellite_adds_power_to_forecasts" >🔗</a> **[ESA]** ESA’s Arctic Weather Satellite adds power to forecasts
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4629-4630-feeling-hollow/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4629-4630: Feeling Hollow
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/america/weekly-pre-launch-preview-august-18-24-2025" >🔗</a> **[The Launch Pad]** Starlink Doubles Up, ISS Gets A New Booster, X-37B Returns, and Starship is GO For Launch This Week
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-17-24-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy August 17-24, 2025
 - <a href="https://spaceflightnow.com/2025/08/17/live-coverage-24-starlink-satellites-to-launch-from-california-on-100th-falcon-9-rocket-of-the-year/" >🔗</a> **[Spaceflight Now]** Live coverage: 24 Starlink satellites to launch from California on 100th Falcon 9 rocket of the year
-- <a href="https://arstechnica.com/science/2025/08/hurricane-erin-sets-early-season-intensification-record-becomes-category-5-storm/" >🔗</a> **[Arstechnica]** Hurricane Erin sets early season intensification record, becomes Category 5 storm
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250818T140158">2025-08-18 14:01:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250818T143659">2025-08-18 14:36:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
