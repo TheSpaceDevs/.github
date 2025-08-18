@@ -54,7 +54,7 @@ into *a Sun-Synchronous Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250824T064500">2025-08-24 06:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Dragon CRS-2 SpX-33&location=Cape Canaveral SFS, FL, USA&dates=20250824T064500Z%2F20250824T064500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Dragon CRS-2 SpX-33** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250824T191800">2025-08-24 19:18:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 8A | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20250824T191800Z%2F20250824T194300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 8A | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250824T233000">2025-08-24 23:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Starship | Flight 10&location=SpaceX Starbase, TX, USA&dates=20250824T233000Z%2F20250825T003000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starship | Flight 10** from SpaceX Starbase, TX, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250827T054900">2025-08-27 05:49:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-11&location=Cape Canaveral SFS, FL, USA&dates=20250827T054900Z%2F20250827T094900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-11** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250826T185300">2025-08-26 18:53:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | NAOS&location=Vandenberg SFB, CA, USA&dates=20250826T185300Z%2F20250826T192000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | NAOS** from Vandenberg SFB, CA, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 
 ### Latest News ⌛
 - <a href="https://arstechnica.com/space/2025/08/after-recent-tests-china-appears-likely-to-beat-the-united-states-back-to-the-moon/" >🔗</a> **[Arstechnica]** After recent tests, China appears likely to beat the United States back to the Moon
+- <a href="https://science.nasa.gov/uncategorized/summary-of-the-2025-gedi-science-team-meeting/" >🔗</a> **[NASA]** Summary of the 2025 GEDI Science Team Meeting
 - <a href="https://www.spacescout.info/2025/08/esa-increases-mars-ambitions-with-mars-transportation-infrastructure/" >🔗</a> **[Space Scout]** ESA Increases Mars Ambitions with Mars Transportation Infrastructure
 - <a href="https://science.nasa.gov/science-research/earth-science/a-decade-of-global-water-cycle-monitoring-nasa-soil-moisture-active-passive-mission/" >🔗</a> **[NASA]** A Decade of Global Water Cycle Monitoring: NASA Soil Moisture Active Passive Mission
 - <a href="https://science.nasa.gov/science-research/earth-science/summary-of-the-54th-u-s-japan-aster-science-team-meeting/" >🔗</a> **[NASA]** Summary of the 54th U.S.–Japan ASTER Science Team Meeting
@@ -99,7 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://science.nasa.gov/directorates/smd/bone-loss-research-launches-aboard-nasas-spacex-33-resupply-mission/" >🔗</a> **[NASA]** Bone Loss Research Launches Aboard NASA’s SpaceX-33 Resupply Mission
 - <a href="https://www.nasa.gov/general/nasa-army-national-guard-partner-on-flight-training-for-moon-landing/" >🔗</a> **[NASA]** NASA, Army National Guard Partner on Flight Training for Moon Landing
 - <a href="https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/human-lander-challenge/nasa-army-national-guard-partner-on-flight-training-for-moon-landing/" >🔗</a> **[NASA]** NASA, Army National Guard Partner on Flight Training for Moon Landing
-- <a href="https://www.nasa.gov/image-article/artemis-ii-crew-practices-night-launch-scenario/" >🔗</a> **[NASA]** Artemis II Crew Practices Night Launch Scenario
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250818T180149">2025-08-18 18:01:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250818T184115">2025-08-18 18:41:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
