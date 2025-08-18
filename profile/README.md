@@ -90,6 +90,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-nation-meet-tess-caswell-extravehicular-activity-flight-controller-and-lead-capsule-communicator/" >🔗</a> **[NASA]** Station Nation: Meet Tess Caswell, Extravehicular Activity Flight Controller and Lead Capsule Communicator
 - <a href="https://arstechnica.com/space/2025/08/after-recent-tests-china-appears-likely-to-beat-the-united-states-back-to-the-moon/" >🔗</a> **[Arstechnica]** After recent tests, China appears likely to beat the United States back to the Moon
 - <a href="https://science.nasa.gov/uncategorized/summary-of-the-2025-gedi-science-team-meeting/" >🔗</a> **[NASA]** Summary of the 2025 GEDI Science Team Meeting
 - <a href="https://www.spacescout.info/2025/08/esa-increases-mars-ambitions-with-mars-transportation-infrastructure/" >🔗</a> **[Space Scout]** ESA Increases Mars Ambitions with Mars Transportation Infrastructure
@@ -99,7 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.spacescout.info/2025/08/strategy-2040-europes-vision-for-exploration-beyond-artemis/" >🔗</a> **[Space Scout]** Strategy 2040: Europe’s Vision for Exploration Beyond Artemis
 - <a href="https://science.nasa.gov/directorates/smd/bone-loss-research-launches-aboard-nasas-spacex-33-resupply-mission/" >🔗</a> **[NASA]** Bone Loss Research Launches Aboard NASA’s SpaceX-33 Resupply Mission
 - <a href="https://www.nasa.gov/general/nasa-army-national-guard-partner-on-flight-training-for-moon-landing/" >🔗</a> **[NASA]** NASA, Army National Guard Partner on Flight Training for Moon Landing
-- <a href="https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/human-lander-challenge/nasa-army-national-guard-partner-on-flight-training-for-moon-landing/" >🔗</a> **[NASA]** NASA, Army National Guard Partner on Flight Training for Moon Landing
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250818T200130">2025-08-18 20:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250818T203414">2025-08-18 20:34:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
