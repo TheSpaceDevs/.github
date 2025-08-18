@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4629-4630-feeling-hollow/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4629-4630: Feeling Hollow
 - <a href="https://tlpnetwork.com/news/america/countdown-to-launch-what-to-expect-from-starship-flight-10" >🔗</a> **[The Launch Pad]** Countdown To Launch : What to Expect From Starship Flight 10
 - <a href="https://www.nasaspaceflight.com/2025/08/launch-roundup-falcon-9-starship-and-russia-flying-this-week/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9, Starship, and Russia flying this week
 - <a href="https://tlpnetwork.com/news/policy-and-finance/trump-signs-executive-order-to-streamline-us-commercial-space-regulations" >🔗</a> **[The Launch Pad]** President Trump Signs Executive Order to Streamline U.S. Commercial Space Regulations
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/science/2025/08/hurricane-erin-sets-early-season-intensification-record-becomes-category-5-storm/" >🔗</a> **[Arstechnica]** Hurricane Erin sets early season intensification record, becomes Category 5 storm
 - <a href="https://spaceflightnow.com/2025/08/16/spacex-schedules-starship-flight-10-details-recent-setbacks/" >🔗</a> **[Spaceflight Now]** SpaceX schedules 10th test flight for Starship, details recent setbacks
 - <a href="https://www.nasaspaceflight.com/2025/08/faa-flight-10-mishap-probe-august-24/" >🔗</a> **[NASASpaceflight]** FAA approves Starship Flight 10 after mishap probe, eyes August 24 launch
-- <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-developed-printable-metal-can-take-the-heat/" >🔗</a> **[NASA]** NASA-Developed Printable Metal Can Take the Heat
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250818T070320">2025-08-18 07:03:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250818T073512">2025-08-18 07:35:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
