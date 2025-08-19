@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/aeronautics/national-aviation-day-celebrating-nasas-heritage-while-charting-our-future/" >🔗</a> **[NASA]** National Aviation Day: Celebrating NASA’s Heritage While Charting Our Future
+- <a href="https://www.nasaspaceflight.com/2025/08/starbase-pad-2-advancements-pad-1/" >🔗</a> **[NASASpaceflight]** Starbase Pad 2: Design Advancements from Pad 1
+- <a href="https://science.nasa.gov/directorates/smd/earth-science-division/nasa-funded-compact-radar-drives-big-changes-in-airborne-and-suborbital-radar-capabilities/" >🔗</a> **[NASA]** NASA-funded Compact Radar Drives Big Changes in Airborne and Suborbital Radar Capabilities
+- <a href="https://europeanspaceflight.com/polish-consortium-selects-payloads-for-state-sponsored-suborbital-rocket-launch/" >🔗</a> **[European Spaceflight]** Polish Consortium Selects Payloads for State-Sponsored Suborbital Rocket Launch
 - <a href="https://www.nasa.gov/aeronautics/national-aviation-day-2025/" >🔗</a> **[NASA]** NASA Invites You to Celebrate National Aviation Day 2025
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/where-the-wild-things-are-wildlife-management-with-johnsons-matt-strausser/" >🔗</a> **[NASA]** Where the Wild Things Are: Wildlife Management with Johnson’s Matt Strausser
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-33rd-station-resupply-launch-arrival/" >🔗</a> **[NASA]** NASA Sets Coverage for SpaceX 33rd Station Resupply Launch, Arrival
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-nation-meet-tess-caswell-extravehicular-activity-flight-controller-and-lead-capsule-communicator/" >🔗</a> **[NASA]** Station Nation: Meet Tess Caswell, Extravehicular Activity Flight Controller and Lead Capsule Communicator
 - <a href="https://arstechnica.com/space/2025/08/after-recent-tests-china-appears-likely-to-beat-the-united-states-back-to-the-moon/" >🔗</a> **[Arstechnica]** After recent tests, China appears likely to beat the United States back to the Moon
 - <a href="https://science.nasa.gov/uncategorized/summary-of-the-2025-gedi-science-team-meeting/" >🔗</a> **[NASA]** Summary of the 2025 GEDI Science Team Meeting
-- <a href="https://www.spacescout.info/2025/08/esa-increases-mars-ambitions-with-mars-transportation-infrastructure/" >🔗</a> **[Space Scout]** ESA Increases Mars Ambitions with Mars Transportation Infrastructure
-- <a href="https://science.nasa.gov/science-research/earth-science/a-decade-of-global-water-cycle-monitoring-nasa-soil-moisture-active-passive-mission/" >🔗</a> **[NASA]** A Decade of Global Water Cycle Monitoring: NASA Soil Moisture Active Passive Mission
-- <a href="https://science.nasa.gov/science-research/earth-science/summary-of-the-54th-u-s-japan-aster-science-team-meeting/" >🔗</a> **[NASA]** Summary of the 54th U.S.–Japan ASTER Science Team Meeting
-- <a href="https://science.nasa.gov/learning-resources/for-educators/portable-planetarium-takes-thousands-of-alaskan-students-on-a-cosmic-adventure/" >🔗</a> **[NASA]** Portable Planetarium takes Thousands of Alaskan Students on a Cosmic Adventure
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250819T140136">2025-08-19 14:01:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250819T143540">2025-08-19 14:35:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
