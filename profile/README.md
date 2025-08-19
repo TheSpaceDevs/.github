@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4634-4635-a-waiting-game/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4634-4635: A Waiting Game
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4631-4633-radiant-ridge-revolution/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4631-4633: Radiant Ridge Revolution
 - <a href="https://science.nasa.gov/learning-resources/science-activation/sun-at-the-center-teacher-ambassadors-bring-heliophysics-to-classrooms-nationwide/" >🔗</a> **[NASA]** Sun at the Center: Teacher Ambassadors Bring Heliophysics to Classrooms Nationwide
 - <a href="https://www.nasa.gov/image-article/nasas-x-59-nears-first-flight/" >🔗</a> **[NASA]** NASA’s X-59 Nears First Flight
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/aeronautics/national-aviation-day-celebrating-nasas-heritage-while-charting-our-future/" >🔗</a> **[NASA]** National Aviation Day: Celebrating NASA’s Heritage While Charting Our Future
 - <a href="https://www.nasaspaceflight.com/2025/08/starbase-pad-2-advancements-pad-1/" >🔗</a> **[NASASpaceflight]** Starbase Pad 2: Design Advancements from Pad 1
 - <a href="https://science.nasa.gov/directorates/smd/earth-science-division/nasa-funded-compact-radar-drives-big-changes-in-airborne-and-suborbital-radar-capabilities/" >🔗</a> **[NASA]** NASA-funded Compact Radar Drives Big Changes in Airborne and Suborbital Radar Capabilities
-- <a href="https://europeanspaceflight.com/polish-consortium-selects-payloads-for-state-sponsored-suborbital-rocket-launch/" >🔗</a> **[European Spaceflight]** Polish Consortium Selects Payloads for State-Sponsored Suborbital Rocket Launch
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250819T200141">2025-08-19 20:01:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250819T203343">2025-08-19 20:33:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
