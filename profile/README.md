@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/psyche-mission/nasas-psyche-captures-images-of-earth-moon/" >🔗</a> **[NASA]** NASA’s Psyche Captures Images of Earth, Moon
+- <a href="https://www.nasa.gov/image-article/moonlight-and-our-atmosphere/" >🔗</a> **[NASA]** Moonlight and Our Atmosphere
 - <a href="https://www.nasa.gov/aeronautics/national-aviation-day-celebrating-nasas-heritage-while-charting-our-future/" >🔗</a> **[NASA]** National Aviation Day: Celebrating NASA’s Heritage While Charting Our Future
 - <a href="https://www.nasaspaceflight.com/2025/08/starbase-pad-2-advancements-pad-1/" >🔗</a> **[NASASpaceflight]** Starbase Pad 2: Design Advancements from Pad 1
 - <a href="https://science.nasa.gov/directorates/smd/earth-science-division/nasa-funded-compact-radar-drives-big-changes-in-airborne-and-suborbital-radar-capabilities/" >🔗</a> **[NASA]** NASA-funded Compact Radar Drives Big Changes in Airborne and Suborbital Radar Capabilities
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/where-the-wild-things-are-wildlife-management-with-johnsons-matt-strausser/" >🔗</a> **[NASA]** Where the Wild Things Are: Wildlife Management with Johnson’s Matt Strausser
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-33rd-station-resupply-launch-arrival/" >🔗</a> **[NASA]** NASA Sets Coverage for SpaceX 33rd Station Resupply Launch, Arrival
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-nation-meet-tess-caswell-extravehicular-activity-flight-controller-and-lead-capsule-communicator/" >🔗</a> **[NASA]** Station Nation: Meet Tess Caswell, Extravehicular Activity Flight Controller and Lead Capsule Communicator
-- <a href="https://arstechnica.com/space/2025/08/after-recent-tests-china-appears-likely-to-beat-the-united-states-back-to-the-moon/" >🔗</a> **[Arstechnica]** After recent tests, China appears likely to beat the United States back to the Moon
-- <a href="https://science.nasa.gov/uncategorized/summary-of-the-2025-gedi-science-team-meeting/" >🔗</a> **[NASA]** Summary of the 2025 GEDI Science Team Meeting
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250819T150129">2025-08-19 15:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250819T153445">2025-08-19 15:34:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
