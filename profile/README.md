@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/aeronautics/national-aviation-day-2025/" >🔗</a> **[NASA]** NASA Invites You to Celebrate National Aviation Day 2025
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/where-the-wild-things-are-wildlife-management-with-johnsons-matt-strausser/" >🔗</a> **[NASA]** Where the Wild Things Are: Wildlife Management with Johnson’s Matt Strausser
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-33rd-station-resupply-launch-arrival/" >🔗</a> **[NASA]** NASA Sets Coverage for SpaceX 33rd Station Resupply Launch, Arrival
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-nation-meet-tess-caswell-extravehicular-activity-flight-controller-and-lead-capsule-communicator/" >🔗</a> **[NASA]** Station Nation: Meet Tess Caswell, Extravehicular Activity Flight Controller and Lead Capsule Communicator
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/science-research/earth-science/a-decade-of-global-water-cycle-monitoring-nasa-soil-moisture-active-passive-mission/" >🔗</a> **[NASA]** A Decade of Global Water Cycle Monitoring: NASA Soil Moisture Active Passive Mission
 - <a href="https://science.nasa.gov/science-research/earth-science/summary-of-the-54th-u-s-japan-aster-science-team-meeting/" >🔗</a> **[NASA]** Summary of the 54th U.S.–Japan ASTER Science Team Meeting
 - <a href="https://science.nasa.gov/learning-resources/for-educators/portable-planetarium-takes-thousands-of-alaskan-students-on-a-cosmic-adventure/" >🔗</a> **[NASA]** Portable Planetarium takes Thousands of Alaskan Students on a Cosmic Adventure
-- <a href="https://www.spacescout.info/2025/08/strategy-2040-europes-vision-for-exploration-beyond-artemis/" >🔗</a> **[Space Scout]** Strategy 2040: Europe’s Vision for Exploration Beyond Artemis
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250819T100138">2025-08-19 10:01:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250819T103614">2025-08-19 10:36:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
