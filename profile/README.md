@@ -19,33 +19,32 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Soyuz 2.1b | Bion-M No. 2**. It is scheduled to be launched by *Russian Federal Space Agency (ROSCOSMOS)*
+**Angara 1.2 | Kosmos (Unknown Payload)**. It is scheduled to be launched by *Russian Space Forces*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Baikonur_Cosmodrome_Site_31">31/6</a>, Baikonur Cosmodrome, Republic of Kazakhstan*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/kz.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250820T171310">2025-08-20 17:13:10 UTC</a>.  Until
-then, this pad will have been used for 423
-out of 1556 launches from this location. The launch status is currently
+from *<a href="https://en.wikipedia.org/wiki/Plesetsk_Cosmodrome_Site_35">35/1</a>, Plesetsk Cosmodrome, Russian Federation*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250821T083000">2025-08-21 08:30:00 UTC</a>.  Until
+then, this pad will have been used for 9
+out of 1676 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Biology* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+*Government/Top Secret* and the payload will be injected
+into *a Polar Orbit
+(PO)*.
 <br>
 <blockquote>
-  Bion-M is the next generation of Russian biological research satellites. While retaining the Vostok/Zenit-derived reentry module of the earlier Bion, the propulsion module has been replace by a Yantar type module, which provides maneuvering capabilities and longer mission support. The mission duration has been increased to up to 6 months by using solar cells for energy generation. The weight of scientific equipment has been increased by 100 kilograms.
+  Unknown classified payload for the Russian military.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="http://en.wikipedia.org/wiki/Soyuz-2_(rocket)" >
+  <a href="https://en.wikipedia.org/wiki/Angara_(rocket_family)#Angara_1.2" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=45.996034,63.564003" >
+  <a href="https://www.google.com/maps?q=62.927319,40.574897" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250820T171310">2025-08-20 17:13:10 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b | Bion-M No. 2&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20250820T171310Z%2F20250820T171310Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1b | Bion-M No. 2** from Baikonur Cosmodrome, Republic of Kazakhstan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250821T083000">2025-08-21 08:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Angara 1.2 | Kosmos (Unknown Payload)&location=Plesetsk Cosmodrome, Russian Federation&dates=20250821T083000Z%2F20250821T103000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Angara 1.2 | Kosmos (Unknown Payload)** from Plesetsk Cosmodrome, Russian Federation.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250822T034000">2025-08-22 03:40:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | OTV-8 (X-37B) (USSF-36)&location=Kennedy Space Center, FL, USA&dates=20250822T034000Z%2F20250822T074000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | OTV-8 (X-37B) (USSF-36)** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250822T154400">2025-08-22 15:44:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-6&location=Vandenberg SFB, CA, USA&dates=20250822T154400Z%2F20250822T194400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-6** from Vandenberg SFB, CA, USA.
@@ -55,6 +54,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250824T191800">2025-08-24 19:18:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 8A | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20250824T191800Z%2F20250824T194300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 8A | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250824T233000">2025-08-24 23:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Starship | Flight 10&location=SpaceX Starbase, TX, USA&dates=20250824T233000Z%2F20250825T003000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starship | Flight 10** from SpaceX Starbase, TX, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250826T185300">2025-08-26 18:53:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | NAOS&location=Vandenberg SFB, CA, USA&dates=20250826T185300Z%2F20250826T192000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | NAOS** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250827T054900">2025-08-27 05:49:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-11&location=Cape Canaveral SFS, FL, USA&dates=20250827T054900Z%2F20250827T094900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-11** from Cape Canaveral SFS, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -91,15 +91,15 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/08/Aurora_Australis_over_Concordia_station" >🔗</a> **[ESA]** Aurora Australis over Concordia station
+- <a href="https://www.nasaspaceflight.com/2025/08/russia-bion-m/" >🔗</a> **[NASASpaceflight]** Russia launches Bion-M No.2 research satellite
+- <a href="https://www.nasa.gov/image-article/viking-1-begins-journey-to-mars/" >🔗</a> **[NASA]** Viking 1 Begins Journey to Mars
+- <a href="https://spaceflightnow.com/2025/08/20/live-coverage-spacex-to-launch-x-37b-military-spaceplane-on-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch X-37B military spaceplane on Falcon 9 rocket from the Kennedy Space Center
 - <a href="https://spaceflightnow.com/2025/08/20/firefly-aerospace-explores-launching-its-alpha-rocket-from-japan/" >🔗</a> **[Spaceflight Now]** Firefly Aerospace explores launching its Alpha rocket from Japan
 - <a href="https://science.nasa.gov/science-research/earth-science/steve-platnick-steps-down-from-nasa-after-34-years-of-service/" >🔗</a> **[NASA]** Steve Platnick Steps Down from NASA After 34 Years of Service
 - <a href="https://science.nasa.gov/science-research/artificial-intelligence-model-heliophysics/" >🔗</a> **[NASA]** NASA, IBM’s ‘Hot’ New AI Model Unlocks Secrets of Sun
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Iberian_wildfires_seen_from_space" >🔗</a> **[ESA]** Iberian wildfires seen from space
 - <a href="https://europeanspaceflight.com/uk-space-agency-to-lose-limited-autonomy-to-government-streamlining/" >🔗</a> **[European Spaceflight]** UK Space Agency to Lose Limited Autonomy to Government Streamlining
 - <a href="https://tlpnetwork.com/news/europe/uk-government-abolishes-independent-uk-space-agency-will-merge-into-dsit-by-2026" >🔗</a> **[The Launch Pad]** UK Government Abolishes Independent UK Space Agency; Will Merge Into DSIT by 2026
-- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4634-4635-a-waiting-game/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4634-4635: A Waiting Game
-- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4631-4633-radiant-ridge-revolution/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4631-4633: Radiant Ridge Revolution
-- <a href="https://science.nasa.gov/learning-resources/science-activation/sun-at-the-center-teacher-ambassadors-bring-heliophysics-to-classrooms-nationwide/" >🔗</a> **[NASA]** Sun at the Center: Teacher Ambassadors Bring Heliophysics to Classrooms Nationwide
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250820T170138">2025-08-20 17:01:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250820T173353">2025-08-20 17:33:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
