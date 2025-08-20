@@ -91,15 +91,15 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/08/Aurora_Australis_over_Concordia_station" >🔗</a> **[ESA]** Aurora Australis over Concordia station
+- <a href="https://science.nasa.gov/science-research/earth-science/steve-platnick-steps-down-from-nasa-after-34-years-of-service/" >🔗</a> **[NASA]** Steve Platnick Steps Down from NASA After 34 Years of Service
+- <a href="https://science.nasa.gov/science-research/artificial-intelligence-model-heliophysics/" >🔗</a> **[NASA]** NASA, IBM’s ‘Hot’ New AI Model Unlocks Secrets of Sun
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Iberian_wildfires_seen_from_space" >🔗</a> **[ESA]** Iberian wildfires seen from space
 - <a href="https://europeanspaceflight.com/uk-space-agency-to-lose-limited-autonomy-to-government-streamlining/" >🔗</a> **[European Spaceflight]** UK Space Agency to Lose Limited Autonomy to Government Streamlining
 - <a href="https://tlpnetwork.com/news/europe/uk-government-abolishes-independent-uk-space-agency-will-merge-into-dsit-by-2026" >🔗</a> **[The Launch Pad]** UK Government Abolishes Independent UK Space Agency; Will Merge Into DSIT by 2026
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4634-4635-a-waiting-game/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4634-4635: A Waiting Game
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4631-4633-radiant-ridge-revolution/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4631-4633: Radiant Ridge Revolution
 - <a href="https://science.nasa.gov/learning-resources/science-activation/sun-at-the-center-teacher-ambassadors-bring-heliophysics-to-classrooms-nationwide/" >🔗</a> **[NASA]** Sun at the Center: Teacher Ambassadors Bring Heliophysics to Classrooms Nationwide
 - <a href="https://www.nasa.gov/image-article/nasas-x-59-nears-first-flight/" >🔗</a> **[NASA]** NASA’s X-59 Nears First Flight
-- <a href="https://www.nasa.gov/general/what-is-bionutrients/" >🔗</a> **[NASA]** What is BioNutrients?
-- <a href="https://www.nasa.gov/missions/psyche-mission/nasas-psyche-captures-images-of-earth-moon/" >🔗</a> **[NASA]** NASA’s Psyche Captures Images of Earth, Moon
-- <a href="https://www.nasa.gov/image-article/moonlight-and-our-atmosphere/" >🔗</a> **[NASA]** Moonlight and Our Atmosphere
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250820T113157">2025-08-20 11:31:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250820T153446">2025-08-20 15:34:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
