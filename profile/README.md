@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/08/Aurora_Australis_over_Concordia_station" >🔗</a> **[ESA]** Aurora Australis over Concordia station
+- <a href="https://spaceflightnow.com/2025/08/20/firefly-aerospace-explores-launching-its-alpha-rocket-from-japan/" >🔗</a> **[Spaceflight Now]** Firefly Aerospace explores launching its Alpha rocket from Japan
 - <a href="https://science.nasa.gov/science-research/earth-science/steve-platnick-steps-down-from-nasa-after-34-years-of-service/" >🔗</a> **[NASA]** Steve Platnick Steps Down from NASA After 34 Years of Service
 - <a href="https://science.nasa.gov/science-research/artificial-intelligence-model-heliophysics/" >🔗</a> **[NASA]** NASA, IBM’s ‘Hot’ New AI Model Unlocks Secrets of Sun
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Iberian_wildfires_seen_from_space" >🔗</a> **[ESA]** Iberian wildfires seen from space
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4634-4635-a-waiting-game/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4634-4635: A Waiting Game
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4631-4633-radiant-ridge-revolution/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4631-4633: Radiant Ridge Revolution
 - <a href="https://science.nasa.gov/learning-resources/science-activation/sun-at-the-center-teacher-ambassadors-bring-heliophysics-to-classrooms-nationwide/" >🔗</a> **[NASA]** Sun at the Center: Teacher Ambassadors Bring Heliophysics to Classrooms Nationwide
-- <a href="https://www.nasa.gov/image-article/nasas-x-59-nears-first-flight/" >🔗</a> **[NASA]** NASA’s X-59 Nears First Flight
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250820T160141">2025-08-20 16:01:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250820T163713">2025-08-20 16:37:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
