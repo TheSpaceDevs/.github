@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/08/Aurora_Australis_over_Concordia_station" >🔗</a> **[ESA]** Aurora Australis over Concordia station
+- <a href="https://tlpnetwork.com/news/europe/uk-government-abolishes-independent-uk-space-agency-will-merge-into-dsit-by-2026" >🔗</a> **[The Launch Pad]** UK Government Abolishes Independent UK Space Agency; Will Merge Into DSIT by 2026
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4634-4635-a-waiting-game/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4634-4635: A Waiting Game
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4631-4633-radiant-ridge-revolution/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4631-4633: Radiant Ridge Revolution
 - <a href="https://science.nasa.gov/learning-resources/science-activation/sun-at-the-center-teacher-ambassadors-bring-heliophysics-to-classrooms-nationwide/" >🔗</a> **[NASA]** Sun at the Center: Teacher Ambassadors Bring Heliophysics to Classrooms Nationwide
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/missions/psyche-mission/nasas-psyche-captures-images-of-earth-moon/" >🔗</a> **[NASA]** NASA’s Psyche Captures Images of Earth, Moon
 - <a href="https://www.nasa.gov/image-article/moonlight-and-our-atmosphere/" >🔗</a> **[NASA]** Moonlight and Our Atmosphere
 - <a href="https://www.nasa.gov/aeronautics/national-aviation-day-celebrating-nasas-heritage-while-charting-our-future/" >🔗</a> **[NASA]** National Aviation Day: Celebrating NASA’s Heritage While Charting Our Future
-- <a href="https://www.nasaspaceflight.com/2025/08/starbase-pad-2-advancements-pad-1/" >🔗</a> **[NASASpaceflight]** Starbase Pad 2: Design Advancements from Pad 1
-- <a href="https://science.nasa.gov/directorates/smd/earth-science-division/nasa-funded-compact-radar-drives-big-changes-in-airborne-and-suborbital-radar-capabilities/" >🔗</a> **[NASA]** NASA-funded Compact Radar Drives Big Changes in Airborne and Suborbital Radar Capabilities
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250820T090146">2025-08-20 09:01:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250820T093433">2025-08-20 09:34:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
