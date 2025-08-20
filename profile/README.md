@@ -91,6 +91,7 @@ into *a Polar Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/08/Aurora_Australis_over_Concordia_station" >🔗</a> **[ESA]** Aurora Australis over Concordia station
+- <a href="https://www.nasa.gov/missions/dawn/nasa-ceres-may-have-had-long-standing-energy-to-fuel-habitability/" >🔗</a> **[NASA]** NASA: Ceres May Have Had Long-Standing Energy to Fuel Habitability
 - <a href="https://www.nasaspaceflight.com/2025/08/russia-bion-m/" >🔗</a> **[NASASpaceflight]** Russia launches Bion-M No.2 research satellite
 - <a href="https://www.nasa.gov/image-article/viking-1-begins-journey-to-mars/" >🔗</a> **[NASA]** Viking 1 Begins Journey to Mars
 - <a href="https://spaceflightnow.com/2025/08/20/live-coverage-spacex-to-launch-x-37b-military-spaceplane-on-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch X-37B military spaceplane on Falcon 9 rocket from the Kennedy Space Center
@@ -99,7 +100,6 @@ into *a Polar Orbit
 - <a href="https://science.nasa.gov/science-research/artificial-intelligence-model-heliophysics/" >🔗</a> **[NASA]** NASA, IBM’s ‘Hot’ New AI Model Unlocks Secrets of Sun
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Iberian_wildfires_seen_from_space" >🔗</a> **[ESA]** Iberian wildfires seen from space
 - <a href="https://europeanspaceflight.com/uk-space-agency-to-lose-limited-autonomy-to-government-streamlining/" >🔗</a> **[European Spaceflight]** UK Space Agency to Lose Limited Autonomy to Government Streamlining
-- <a href="https://tlpnetwork.com/news/europe/uk-government-abolishes-independent-uk-space-agency-will-merge-into-dsit-by-2026" >🔗</a> **[The Launch Pad]** UK Government Abolishes Independent UK Space Agency; Will Merge Into DSIT by 2026
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250820T180147">2025-08-20 18:01:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250820T183944">2025-08-20 18:39:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
