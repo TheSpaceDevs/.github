@@ -95,6 +95,7 @@ The OTV-8 mission in Low Earth Orbit includes operational demonstrations and exp
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/08/Aurora_Australis_over_Concordia_station" >🔗</a> **[ESA]** Aurora Australis over Concordia station
+- <a href="https://www.nasaspaceflight.com/2025/08/ussf-36-launch/" >🔗</a> **[NASASpaceflight]** X-37B set to launch on USSF-36 mission aboard Falcon 9
 - <a href="https://arstechnica.com/space/2025/08/spacex-has-built-the-machine-to-build-the-machine-but-what-about-the-machine/" >🔗</a> **[Arstechnica]** SpaceX has built the machine to build the machine. But what about the machine?
 - <a href="https://spacepolicyonline.com/news/nasa-selecting-new-astronauts-gearing-up-for-artemis-ii/" >🔗</a> **[SpacePolicyOnline.com]** NASA Selecting New Astronauts, Gearing Up for Artemis II
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4636-4637-up-against-a-wall/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4636-4637: Up Against a Wall
@@ -103,7 +104,6 @@ The OTV-8 mission in Low Earth Orbit includes operational demonstrations and exp
 - <a href="https://www.nasa.gov/news-release/nasa-to-announce-new-astronaut-class-preview-artemis-ii-moon-mission/" >🔗</a> **[NASA]** NASA to Announce New Astronaut Class, Preview Artemis II Moon Mission
 - <a href="https://www.nasa.gov/missions/dawn/nasa-ceres-may-have-had-long-standing-energy-to-fuel-habitability/" >🔗</a> **[NASA]** NASA: Ceres May Have Had Long-Standing Energy to Fuel Habitability
 - <a href="https://www.nasaspaceflight.com/2025/08/russia-bion-m/" >🔗</a> **[NASASpaceflight]** Russia launches Bion-M No.2 research satellite
-- <a href="https://www.nasa.gov/image-article/viking-1-begins-journey-to-mars/" >🔗</a> **[NASA]** Viking 1 Begins Journey to Mars
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ The OTV-8 mission in Low Earth Orbit includes operational demonstrations and exp
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250821T120157">2025-08-21 12:01:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250821T124321">2025-08-21 12:43:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
