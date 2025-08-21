@@ -95,6 +95,7 @@ The OTV-8 mission in Low Earth Orbit includes operational demonstrations and exp
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/08/Aurora_Australis_over_Concordia_station" >🔗</a> **[ESA]** Aurora Australis over Concordia station
+- <a href="https://science.nasa.gov/missions/dart/close-up-views-of-nasas-dart-impact-to-inform-planetary-defense/" >🔗</a> **[NASA]** Close-Up Views of NASA’s DART Impact to Inform Planetary Defense
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-joint-launch-of-sun-space-weather-missions/" >🔗</a> **[NASA]** NASA Invites Media to Joint Launch of Sun, Space Weather Missions
 - <a href="https://europeanspaceflight.com/france-grants-avio-10-year-licence-to-launch-from-guiana-space-centre/" >🔗</a> **[European Spaceflight]** France Grants Avio 10-Year Licence to Launch from Guiana Space Centre
 - <a href="https://www.nasaspaceflight.com/2025/08/ussf-36-launch/" >🔗</a> **[NASASpaceflight]** X-37B set to launch on USSF-36 mission aboard Falcon 9
@@ -103,7 +104,6 @@ The OTV-8 mission in Low Earth Orbit includes operational demonstrations and exp
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4636-4637-up-against-a-wall/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4636-4637: Up Against a Wall
 - <a href="https://tlpnetwork.com/news/policy-and-finance/firefly-looks-to-japans-hokkaido-spaceport-for-first-asia-launch-site-signs-feasibility-study-mou" >🔗</a> **[The Launch Pad]** Firefly Looks to Japan’s Hokkaido Spaceport for First Asia Launch Site; Signs Feasibility Study MOU
 - <a href="https://www.nasa.gov/image-article/x-ray-and-radio-go-hand-in-hand-in-new-image/" >🔗</a> **[NASA]** X-ray and Radio go ‘Hand in Hand’ in New Image
-- <a href="https://www.nasa.gov/news-release/nasa-to-announce-new-astronaut-class-preview-artemis-ii-moon-mission/" >🔗</a> **[NASA]** NASA to Announce New Astronaut Class, Preview Artemis II Moon Mission
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ The OTV-8 mission in Low Earth Orbit includes operational demonstrations and exp
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250821T150137">2025-08-21 15:01:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250821T153436">2025-08-21 15:34:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
