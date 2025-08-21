@@ -95,6 +95,8 @@ The OTV-8 mission in Low Earth Orbit includes operational demonstrations and exp
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/08/Aurora_Australis_over_Concordia_station" >🔗</a> **[ESA]** Aurora Australis over Concordia station
+- <a href="https://www.nasa.gov/missions/station/commercial-resupply/spacex-crs/nasas-spacex-33rd-commercial-resupply-mission-overview/" >🔗</a> **[NASA]** NASA’s SpaceX 33rd Commercial Resupply Mission Overview
+- <a href="https://science.nasa.gov/blog/to-see-the-world-in-a-grain-of-sand-investigating-megaripples-at-kerrlaguna/" >🔗</a> **[NASA]** To See the World in a Grain of Sand: Investigating Megaripples at ‘Kerrlaguna’
 - <a href="https://www.nasa.gov/news-release/nasa-astronauts-to-answer-questions-from-students-in-ohio/" >🔗</a> **[NASA]** NASA Astronauts to Answer Questions from Students in Ohio
 - <a href="https://science.nasa.gov/solar-system/moon/nasas-artemis-ii-lunar-science-operations-to-inform-future-missions/" >🔗</a> **[NASA]** NASA’s Artemis II Lunar Science Operations to Inform Future Missions
 - <a href="https://www.nasa.gov/news-release/la-nasa-invita-a-los-medios-al-lanzamiento-conjunto-de-misiones-sobre-el-sol-y-la-meteorologia-espacial/" >🔗</a> **[NASA]** La NASA invita a los medios al lanzamiento conjunto de misiones sobre el Sol y la meteorología espacial
@@ -102,8 +104,6 @@ The OTV-8 mission in Low Earth Orbit includes operational demonstrations and exp
 - <a href="https://science.nasa.gov/missions/dart/close-up-views-of-nasas-dart-impact-to-inform-planetary-defense/" >🔗</a> **[NASA]** Close-Up Views of NASA’s DART Impact to Inform Planetary Defense
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-joint-launch-of-sun-space-weather-missions/" >🔗</a> **[NASA]** NASA Invites Media to Joint Launch of Sun, Space Weather Missions
 - <a href="https://europeanspaceflight.com/france-grants-avio-10-year-licence-to-launch-from-guiana-space-centre/" >🔗</a> **[European Spaceflight]** France Grants Avio 10-Year Licence to Launch from Guiana Space Centre
-- <a href="https://www.nasaspaceflight.com/2025/08/ussf-36-launch/" >🔗</a> **[NASASpaceflight]** X-37B set to launch on USSF-36 mission aboard Falcon 9
-- <a href="https://arstechnica.com/space/2025/08/spacex-has-built-the-machine-to-build-the-machine-but-what-about-the-machine/" >🔗</a> **[Arstechnica]** SpaceX has built the machine to build the machine. But what about the machine?
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ The OTV-8 mission in Low Earth Orbit includes operational demonstrations and exp
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250821T210123">2025-08-21 21:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250821T213209">2025-08-21 21:32:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
