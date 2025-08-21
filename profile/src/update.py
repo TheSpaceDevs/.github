@@ -418,7 +418,7 @@ def get_latest_news(cache_time: int = 3600 // 2):
         # Parse JSON and continue when the request is valid
         if (r.status_code == 200
                 and r.headers.get('Content-Type') == 'application/json'):
-            data = r.json().get('results')
+            data = r.json().get('results', {})
 
             # write the data to the cache
             with open(os.path.join(CACHE_DIR, "latest_news_cache.json"), "w") as f:
@@ -463,7 +463,7 @@ def get_launch_news(launch_ID: str, cache_time: int = 3600 // 2):
         # Parse JSON and continue when the request is valid
         if (r.status_code == 200
                 and r.headers.get('Content-Type') == 'application/json'):
-            data = r.json().get('results')
+            data = r.json().get('results', {})
 
             # write the data to the cache
             with open(os.path.join(CACHE_DIR, "launch_news_cache.json"), "w") as f:
