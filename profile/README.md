@@ -95,6 +95,7 @@ The OTV-8 mission in Low Earth Orbit includes operational demonstrations and exp
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/08/Aurora_Australis_over_Concordia_station" >🔗</a> **[ESA]** Aurora Australis over Concordia station
+- <a href="https://science.nasa.gov/solar-system/moon/nasas-artemis-ii-lunar-science-operations-to-inform-future-missions/" >🔗</a> **[NASA]** NASA’s Artemis II Lunar Science Operations to Inform Future Missions
 - <a href="https://www.nasa.gov/news-release/la-nasa-invita-a-los-medios-al-lanzamiento-conjunto-de-misiones-sobre-el-sol-y-la-meteorologia-espacial/" >🔗</a> **[NASA]** La NASA invita a los medios al lanzamiento conjunto de misiones sobre el Sol y la meteorología espacial
 - <a href="https://www.nasa.gov/image-article/cities-by-the-bay/" >🔗</a> **[NASA]** Cities by the Bay
 - <a href="https://science.nasa.gov/missions/dart/close-up-views-of-nasas-dart-impact-to-inform-planetary-defense/" >🔗</a> **[NASA]** Close-Up Views of NASA’s DART Impact to Inform Planetary Defense
@@ -103,7 +104,6 @@ The OTV-8 mission in Low Earth Orbit includes operational demonstrations and exp
 - <a href="https://www.nasaspaceflight.com/2025/08/ussf-36-launch/" >🔗</a> **[NASASpaceflight]** X-37B set to launch on USSF-36 mission aboard Falcon 9
 - <a href="https://arstechnica.com/space/2025/08/spacex-has-built-the-machine-to-build-the-machine-but-what-about-the-machine/" >🔗</a> **[Arstechnica]** SpaceX has built the machine to build the machine. But what about the machine?
 - <a href="https://spacepolicyonline.com/news/nasa-selecting-new-astronauts-gearing-up-for-artemis-ii/" >🔗</a> **[SpacePolicyOnline.com]** NASA Selecting New Astronauts, Gearing Up for Artemis II
-- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4636-4637-up-against-a-wall/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4636-4637: Up Against a Wall
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ The OTV-8 mission in Low Earth Orbit includes operational demonstrations and exp
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250821T170630">2025-08-21 17:06:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250821T173358">2025-08-21 17:33:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
