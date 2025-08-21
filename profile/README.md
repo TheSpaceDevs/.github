@@ -91,6 +91,8 @@ into *a Polar Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/08/Aurora_Australis_over_Concordia_station" >🔗</a> **[ESA]** Aurora Australis over Concordia station
+- <a href="https://spacepolicyonline.com/news/nasa-selecting-new-astronauts-gearing-up-for-artemis-ii/" >🔗</a> **[SpacePolicyOnline.com]** NASA Selecting New Astronauts, Gearing Up for Artemis II
+- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4636-4637-up-against-a-wall/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4636-4637: Up Against a Wall
 - <a href="https://tlpnetwork.com/news/policy-and-finance/firefly-looks-to-japans-hokkaido-spaceport-for-first-asia-launch-site-signs-feasibility-study-mou" >🔗</a> **[The Launch Pad]** Firefly Looks to Japan’s Hokkaido Spaceport for First Asia Launch Site; Signs Feasibility Study MOU
 - <a href="https://www.nasa.gov/image-article/x-ray-and-radio-go-hand-in-hand-in-new-image/" >🔗</a> **[NASA]** X-ray and Radio go ‘Hand in Hand’ in New Image
 - <a href="https://www.nasa.gov/news-release/la-nasa-anunciara-una-nueva-promocion-de-astronautas-y-adelantara-detalles-de-la-mision-lunar-artemis-ii/" >🔗</a> **[NASA]** La NASA anunciará una nueva promoción de astronautas y adelantará detalles de la misión lunar Artemis II
@@ -98,8 +100,6 @@ into *a Polar Orbit
 - <a href="https://www.nasa.gov/missions/dawn/nasa-ceres-may-have-had-long-standing-energy-to-fuel-habitability/" >🔗</a> **[NASA]** NASA: Ceres May Have Had Long-Standing Energy to Fuel Habitability
 - <a href="https://www.nasaspaceflight.com/2025/08/russia-bion-m/" >🔗</a> **[NASASpaceflight]** Russia launches Bion-M No.2 research satellite
 - <a href="https://www.nasa.gov/image-article/viking-1-begins-journey-to-mars/" >🔗</a> **[NASA]** Viking 1 Begins Journey to Mars
-- <a href="https://spaceflightnow.com/2025/08/20/live-coverage-spacex-to-launch-x-37b-military-spaceplane-on-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch X-37B military spaceplane on Falcon 9 rocket from the Kennedy Space Center
-- <a href="https://spaceflightnow.com/2025/08/20/firefly-aerospace-explores-launching-its-alpha-rocket-from-japan/" >🔗</a> **[Spaceflight Now]** Firefly Aerospace explores launching its Alpha rocket from Japan
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250821T031932">2025-08-21 03:19:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250821T034218">2025-08-21 03:42:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
