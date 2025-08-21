@@ -95,6 +95,7 @@ The OTV-8 mission in Low Earth Orbit includes operational demonstrations and exp
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/08/Aurora_Australis_over_Concordia_station" >🔗</a> **[ESA]** Aurora Australis over Concordia station
+- <a href="https://europeanspaceflight.com/france-grants-avio-10-year-licence-to-launch-from-guiana-space-centre/" >🔗</a> **[European Spaceflight]** France Grants Avio 10-Year Licence to Launch from Guiana Space Centre
 - <a href="https://www.nasaspaceflight.com/2025/08/ussf-36-launch/" >🔗</a> **[NASASpaceflight]** X-37B set to launch on USSF-36 mission aboard Falcon 9
 - <a href="https://arstechnica.com/space/2025/08/spacex-has-built-the-machine-to-build-the-machine-but-what-about-the-machine/" >🔗</a> **[Arstechnica]** SpaceX has built the machine to build the machine. But what about the machine?
 - <a href="https://spacepolicyonline.com/news/nasa-selecting-new-astronauts-gearing-up-for-artemis-ii/" >🔗</a> **[SpacePolicyOnline.com]** NASA Selecting New Astronauts, Gearing Up for Artemis II
@@ -103,11 +104,11 @@ The OTV-8 mission in Low Earth Orbit includes operational demonstrations and exp
 - <a href="https://www.nasa.gov/image-article/x-ray-and-radio-go-hand-in-hand-in-new-image/" >🔗</a> **[NASA]** X-ray and Radio go ‘Hand in Hand’ in New Image
 - <a href="https://www.nasa.gov/news-release/nasa-to-announce-new-astronaut-class-preview-artemis-ii-moon-mission/" >🔗</a> **[NASA]** NASA to Announce New Astronaut Class, Preview Artemis II Moon Mission
 - <a href="https://www.nasa.gov/missions/dawn/nasa-ceres-may-have-had-long-standing-energy-to-fuel-habitability/" >🔗</a> **[NASA]** NASA: Ceres May Have Had Long-Standing Energy to Fuel Habitability
-- <a href="https://www.nasaspaceflight.com/2025/08/russia-bion-m/" >🔗</a> **[NASASpaceflight]** Russia launches Bion-M No.2 research satellite
 
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2025/08/ussf-36-launch/" >🔗</a> **[NASASpaceflight]** X-37B set to launch on USSF-36 mission aboard Falcon 9
 - <a href="https://spaceflightnow.com/2025/08/20/live-coverage-spacex-to-launch-x-37b-military-spaceplane-on-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch X-37B military spaceplane on Falcon 9 rocket from the Kennedy Space Center
 - <a href="https://www.nasaspaceflight.com/2025/08/launch-roundup-falcon-9-starship-and-russia-flying-this-week/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9, Starship, and Russia flying this week
 - <a href="https://www.nasaspaceflight.com/2025/08/launch-roundup-081825/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX, Chinese, and Russian missions make up busy week
@@ -117,7 +118,7 @@ The OTV-8 mission in Low Earth Orbit includes operational demonstrations and exp
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250821T130923">2025-08-21 13:09:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250821T133834">2025-08-21 13:38:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
