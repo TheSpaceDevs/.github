@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/08/Aurora_Australis_over_Concordia_station" >🔗</a> **[ESA]** Aurora Australis over Concordia station
+- <a href="https://www.nasa.gov/centers-and-facilities/glenn/lunar-environment-structural-test-rig/" >🔗</a> **[NASA]** Lunar Environment Structural Test Rig
 - <a href="https://arstechnica.com/space/2025/08/rocket-report-pivotal-starship-test-on-tap-firefly-wants-to-be-big-in-japan/" >🔗</a> **[Arstechnica]** Rocket Report: Pivotal Starship test on tap, Firefly wants to be big in Japan
 - <a href="https://science.nasa.gov/missions/hubble/hubble-observes-noteworthy-nearby-spiral-galaxy/" >🔗</a> **[NASA]** Hubble Observes Noteworthy Nearby Spiral Galaxy
 - <a href="https://spaceflightnow.com/2025/08/22/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/missions/station/commercial-resupply/spacex-crs/nasas-spacex-33rd-commercial-resupply-mission-overview/" >🔗</a> **[NASA]** NASA’s SpaceX 33rd Commercial Resupply Mission Overview
 - <a href="https://science.nasa.gov/blog/to-see-the-world-in-a-grain-of-sand-investigating-megaripples-at-kerrlaguna/" >🔗</a> **[NASA]** To See the World in a Grain of Sand: Investigating Megaripples at ‘Kerrlaguna’
 - <a href="https://www.nasa.gov/news-release/nasa-astronauts-to-answer-questions-from-students-in-ohio/" >🔗</a> **[NASA]** NASA Astronauts to Answer Questions from Students in Ohio
-- <a href="https://science.nasa.gov/solar-system/moon/nasas-artemis-ii-lunar-science-operations-to-inform-future-missions/" >🔗</a> **[NASA]** NASA’s Artemis II Lunar Science Operations to Inform Future Missions
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250822T120145">2025-08-22 12:01:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250822T124309">2025-08-22 12:43:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
