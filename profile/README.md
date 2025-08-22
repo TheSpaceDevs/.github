@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/08/Aurora_Australis_over_Concordia_station" >🔗</a> **[ESA]** Aurora Australis over Concordia station
+- <a href="https://spaceflightnow.com/2025/08/22/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
+- <a href="https://spaceflightnow.com/2025/08/22/spacex-launches-space-forces-x-37b-spaceplane-to-demo-laser-communications-quantum-navigation/" >🔗</a> **[Spaceflight Now]** SpaceX launches Space Force’s X-37B spaceplane to demo laser communications, quantum navigation
 - <a href="https://spacepolicyonline.com/news/x-37b-lifts-off-on-eighth-mission/" >🔗</a> **[SpacePolicyOnline.com]** X-37B Lifts Off on Eighth Mission
 - <a href="https://www.nasa.gov/missions/station/commercial-resupply/spacex-crs/nasas-spacex-33rd-commercial-resupply-mission-overview/" >🔗</a> **[NASA]** NASA’s SpaceX 33rd Commercial Resupply Mission Overview
 - <a href="https://science.nasa.gov/blog/to-see-the-world-in-a-grain-of-sand-investigating-megaripples-at-kerrlaguna/" >🔗</a> **[NASA]** To See the World in a Grain of Sand: Investigating Megaripples at ‘Kerrlaguna’
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/solar-system/moon/nasas-artemis-ii-lunar-science-operations-to-inform-future-missions/" >🔗</a> **[NASA]** NASA’s Artemis II Lunar Science Operations to Inform Future Missions
 - <a href="https://www.nasa.gov/news-release/la-nasa-invita-a-los-medios-al-lanzamiento-conjunto-de-misiones-sobre-el-sol-y-la-meteorologia-espacial/" >🔗</a> **[NASA]** La NASA invita a los medios al lanzamiento conjunto de misiones sobre el Sol y la meteorología espacial
 - <a href="https://www.nasa.gov/image-article/cities-by-the-bay/" >🔗</a> **[NASA]** Cities by the Bay
-- <a href="https://science.nasa.gov/missions/dart/close-up-views-of-nasas-dart-impact-to-inform-planetary-defense/" >🔗</a> **[NASA]** Close-Up Views of NASA’s DART Impact to Inform Planetary Defense
-- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-joint-launch-of-sun-space-weather-missions/" >🔗</a> **[NASA]** NASA Invites Media to Joint Launch of Sun, Space Weather Missions
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250822T050127">2025-08-22 05:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250822T053427">2025-08-22 05:34:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
