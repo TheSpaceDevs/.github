@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/08/Aurora_Australis_over_Concordia_station" >🔗</a> **[ESA]** Aurora Australis over Concordia station
+- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_18-22_August_2025" >🔗</a> **[ESA]** Week in images: 18-22 August 2025
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/lunar-environment-structural-test-rig/" >🔗</a> **[NASA]** Lunar Environment Structural Test Rig
 - <a href="https://arstechnica.com/space/2025/08/rocket-report-pivotal-starship-test-on-tap-firefly-wants-to-be-big-in-japan/" >🔗</a> **[Arstechnica]** Rocket Report: Pivotal Starship test on tap, Firefly wants to be big in Japan
 - <a href="https://science.nasa.gov/missions/hubble/hubble-observes-noteworthy-nearby-spiral-galaxy/" >🔗</a> **[NASA]** Hubble Observes Noteworthy Nearby Spiral Galaxy
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/x-37b-lifts-off-on-eighth-mission/" >🔗</a> **[SpacePolicyOnline.com]** X-37B Lifts Off on Eighth Mission
 - <a href="https://www.nasa.gov/missions/station/commercial-resupply/spacex-crs/nasas-spacex-33rd-commercial-resupply-mission-overview/" >🔗</a> **[NASA]** NASA’s SpaceX 33rd Commercial Resupply Mission Overview
 - <a href="https://science.nasa.gov/blog/to-see-the-world-in-a-grain-of-sand-investigating-megaripples-at-kerrlaguna/" >🔗</a> **[NASA]** To See the World in a Grain of Sand: Investigating Megaripples at ‘Kerrlaguna’
-- <a href="https://www.nasa.gov/news-release/nasa-astronauts-to-answer-questions-from-students-in-ohio/" >🔗</a> **[NASA]** NASA Astronauts to Answer Questions from Students in Ohio
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250822T130848">2025-08-22 13:08:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250822T133722">2025-08-22 13:37:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
