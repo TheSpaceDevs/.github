@@ -98,12 +98,13 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/blog/to-see-the-world-in-a-grain-of-sand-investigating-megaripples-at-kerrlaguna/" >🔗</a> **[NASA]** To See the World in a Grain of Sand: Investigating Megaripples at ‘Kerrlaguna’
 - <a href="https://www.nasa.gov/news-release/nasa-astronauts-to-answer-questions-from-students-in-ohio/" >🔗</a> **[NASA]** NASA Astronauts to Answer Questions from Students in Ohio
 - <a href="https://science.nasa.gov/solar-system/moon/nasas-artemis-ii-lunar-science-operations-to-inform-future-missions/" >🔗</a> **[NASA]** NASA’s Artemis II Lunar Science Operations to Inform Future Missions
-- <a href="https://www.nasa.gov/news-release/la-nasa-invita-a-los-medios-al-lanzamiento-conjunto-de-misiones-sobre-el-sol-y-la-meteorologia-espacial/" >🔗</a> **[NASA]** La NASA invita a los medios al lanzamiento conjunto de misiones sobre el Sol y la meteorología espacial
 - <a href="https://www.nasa.gov/image-article/cities-by-the-bay/" >🔗</a> **[NASA]** Cities by the Bay
+- <a href="https://science.nasa.gov/missions/dart/close-up-views-of-nasas-dart-impact-to-inform-planetary-defense/" >🔗</a> **[NASA]** Close-Up Views of NASA’s DART Impact to Inform Planetary Defense
 
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2025/08/22/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://www.nasaspaceflight.com/2025/08/launch-roundup-falcon-9-starship-and-russia-flying-this-week/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9, Starship, and Russia flying this week
 - <a href="https://www.nasaspaceflight.com/2025/08/launch-roundup-081825/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX, Chinese, and Russian missions make up busy week
 - <a href="https://tlpnetwork.com/news/america/weekly-pre-launch-preview-august-18-24-2025" >🔗</a> **[The Launch Pad]** Starlink Doubles Up, ISS Gets A New Booster, X-37B Returns, and Starship is GO For Launch This Week
@@ -111,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250822T090129">2025-08-22 09:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250822T093411">2025-08-22 09:34:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
