@@ -63,7 +63,13 @@ def get_iso3_to_iso2_country_map():
     """
     # get the json
     r = requests.get(ISO3_JSON)
-    data = r.json()
+
+    # Parse JSON and continue when the request is valid
+    if (r.status_code == 200
+            and r.headers.get('Content-Type') == 'application/json'):
+        data = r.json()
+    else:
+        data = {}
 
     # create a map from iso3 to iso2
     iso3_to_iso2 = {}
@@ -73,16 +79,18 @@ def get_iso3_to_iso2_country_map():
     return iso3_to_iso2
 
 
-def cache_image_and_make_square(url, filename):
+def cache_image_and_make_square(url: str, filename: str):
     """
     cache an image and make it square from center using PIL
     """
     # get the image
     r = requests.get(url)
 
-    # save image
-    with open(filename, "wb") as f:
-        f.write(r.content)
+    # Cache image when the request is valid
+    if r.status_code == 200:
+        # save image
+        with open(filename, "wb") as f:
+            f.write(r.content)
 
     # open the image
     img = cv2.imread(filename)
@@ -165,15 +173,19 @@ def get_upcoming_launches(cache_time=3600 // 2):
     if (now - float(last_update) > cache_time) | (last_update == now):
         # get the data from the api
         r = requests.get(LL2_ENDPOINT)
-        data = r.json()
 
-        # write the data to the cache
-        with open(os.path.join(CACHE_DIR, "launch_cache.json"), "w") as f:
-            json.dump(data, f)
+        # Parse JSON and continue when the request is valid
+        if (r.status_code == 200
+                and r.headers.get('Content-Type') == 'application/json'):
+            data = r.json()
 
-        # update the last update time
-        with open(os.path.join(CACHE_DIR, "launches_last_update.txt"), "w") as f:
-            f.write(str(now))
+            # write the data to the cache
+            with open(os.path.join(CACHE_DIR, "launch_cache.json"), "w") as f:
+                json.dump(data, f)
+
+            # update the last update time
+            with open(os.path.join(CACHE_DIR, "launches_last_update.txt"), "w") as f:
+                f.write(str(now))
 
     # read the cache
     with open(os.path.join(CACHE_DIR, "launch_cache.json"), "r") as f:
@@ -379,7 +391,7 @@ def get_readme_data():
     }
 
 
-def get_latest_news(cache_time=3600 // 2):
+def get_latest_news(cache_time: int = 3600 // 2):
     """
     get the latest news from the Spaceflight News API
     """
@@ -402,15 +414,19 @@ def get_latest_news(cache_time=3600 // 2):
     if (now - float(last_update) > cache_time) | (last_update == now):
         # get the data from the api
         r = requests.get(SNAPI_ENDPOINT + "?_limit=5")
-        data = r.json()["results"]
 
-        # write the data to the cache
-        with open(os.path.join(CACHE_DIR, "latest_news_cache.json"), "w") as f:
-            json.dump(data, f)
+        # Parse JSON and continue when the request is valid
+        if (r.status_code == 200
+                and r.headers.get('Content-Type') == 'application/json'):
+            data = r.json().get('results', {})
 
-        # update the last update time
-        with open(os.path.join(CACHE_DIR, "latest_news_last_update.txt"), "w") as f:
-            f.write(str(now))
+            # write the data to the cache
+            with open(os.path.join(CACHE_DIR, "latest_news_cache.json"), "w") as f:
+                json.dump(data, f)
+
+            # update the last update time
+            with open(os.path.join(CACHE_DIR, "latest_news_last_update.txt"), "w") as f:
+                f.write(str(now))
 
     # read the cache
     with open(os.path.join(CACHE_DIR, "latest_news_cache.json"), "r") as f:
@@ -420,7 +436,7 @@ def get_latest_news(cache_time=3600 // 2):
     return data
 
 
-def get_launch_news(launch_ID, cache_time=3600 // 2):
+def get_launch_news(launch_ID: str, cache_time: int = 3600 // 2):
     """
     get all news related to a launch from the Spaceflight News API
     """
@@ -443,15 +459,19 @@ def get_launch_news(launch_ID, cache_time=3600 // 2):
     if (now - float(last_update) > cache_time) | (last_update == now):
         # get the data from the api
         r = requests.get(SNAPI_ENDPOINT + "?launch=" + launch_ID)
-        data = r.json()["results"]
 
-        # write the data to the cache
-        with open(os.path.join(CACHE_DIR, "launch_news_cache.json"), "w") as f:
-            json.dump(data, f)
+        # Parse JSON and continue when the request is valid
+        if (r.status_code == 200
+                and r.headers.get('Content-Type') == 'application/json'):
+            data = r.json().get('results', {})
 
-        # update the last update time
-        with open(os.path.join(CACHE_DIR, "launch_news_last_update.txt"), "w") as f:
-            f.write(str(now))
+            # write the data to the cache
+            with open(os.path.join(CACHE_DIR, "launch_news_cache.json"), "w") as f:
+                json.dump(data, f)
+
+            # update the last update time
+            with open(os.path.join(CACHE_DIR, "launch_news_last_update.txt"), "w") as f:
+                f.write(str(now))
 
     # read the cache
     with open(os.path.join(CACHE_DIR, "launch_news_cache.json"), "r") as f:
