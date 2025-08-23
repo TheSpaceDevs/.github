@@ -92,7 +92,6 @@ into *a Suborbital
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/08/Aurora_Australis_over_Concordia_station" >🔗</a> **[ESA]** Aurora Australis over Concordia station
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-tests-tools-to-assess-drone-safety-over-cities/" >🔗</a> **[NASA]** NASA Tests Tools to Assess Drone Safety Over Cities
-- <a href="https://www.nasa.gov/es/la-nasa-revela-los-finalistas-del-concurso-de-diseno-de-la-mascota-lunar-de-artemis-ii/" >🔗</a> **[NASA]** La NASA revela los finalistas del concurso de diseño de la mascota lunar de Artemis II
 - <a href="https://www.nasa.gov/general/nasa-shares-final-contenders-for-artemis-ii-moon-mascot-design-contest/" >🔗</a> **[NASA]** NASA Shares Final Contenders for Artemis II Moon Mascot Design Contest
 - <a href="https://europeanspaceflight.com/uk-space-agency-hires-consultants-to-explain-the-uk-space-sector/" >🔗</a> **[European Spaceflight]** UK Space Agency Hires Consultants to Explain the UK Space Sector
 - <a href="https://www.nasa.gov/image-article/epic-research-can-help-mars-missions/" >🔗</a> **[NASA]** Epic Research Can Help Mars Missions
@@ -100,6 +99,7 @@ into *a Suborbital
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_18-22_August_2025" >🔗</a> **[ESA]** Week in images: 18-22 August 2025
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/lunar-environment-structural-test-rig/" >🔗</a> **[NASA]** Lunar Environment Structural Test Rig
 - <a href="https://arstechnica.com/space/2025/08/rocket-report-pivotal-starship-test-on-tap-firefly-wants-to-be-big-in-japan/" >🔗</a> **[Arstechnica]** Rocket Report: Pivotal Starship test on tap, Firefly wants to be big in Japan
+- <a href="https://science.nasa.gov/missions/hubble/hubble-observes-noteworthy-nearby-spiral-galaxy/" >🔗</a> **[NASA]** Hubble Observes Noteworthy Nearby Spiral Galaxy
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250823T090122">2025-08-23 09:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250823T093207">2025-08-23 09:32:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
