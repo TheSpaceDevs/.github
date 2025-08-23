@@ -91,6 +91,7 @@ into *a Sun-Synchronous Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/08/Aurora_Australis_over_Concordia_station" >🔗</a> **[ESA]** Aurora Australis over Concordia station
+- <a href="https://spaceflightnow.com/2025/08/23/live-coverage-nasa-spacex-to-launch-falcon-9-rocket-dragon-spacecraft-on-crs-33-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: NASA, SpaceX to launch Falcon 9 rocket, Dragon spacecraft on CRS-33 from Cape Canaveral
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-tests-tools-to-assess-drone-safety-over-cities/" >🔗</a> **[NASA]** NASA Tests Tools to Assess Drone Safety Over Cities
 - <a href="https://www.nasa.gov/general/nasa-shares-final-contenders-for-artemis-ii-moon-mascot-design-contest/" >🔗</a> **[NASA]** NASA Shares Final Contenders for Artemis II Moon Mascot Design Contest
 - <a href="https://europeanspaceflight.com/uk-space-agency-hires-consultants-to-explain-the-uk-space-sector/" >🔗</a> **[European Spaceflight]** UK Space Agency Hires Consultants to Explain the UK Space Sector
@@ -99,7 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_18-22_August_2025" >🔗</a> **[ESA]** Week in images: 18-22 August 2025
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/lunar-environment-structural-test-rig/" >🔗</a> **[NASA]** Lunar Environment Structural Test Rig
 - <a href="https://arstechnica.com/space/2025/08/rocket-report-pivotal-starship-test-on-tap-firefly-wants-to-be-big-in-japan/" >🔗</a> **[Arstechnica]** Rocket Report: Pivotal Starship test on tap, Firefly wants to be big in Japan
-- <a href="https://science.nasa.gov/missions/hubble/hubble-observes-noteworthy-nearby-spiral-galaxy/" >🔗</a> **[NASA]** Hubble Observes Noteworthy Nearby Spiral Galaxy
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250823T210127">2025-08-23 21:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250823T213132">2025-08-23 21:31:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
