@@ -19,27 +19,29 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Electron | Live, Laugh, Launch**. It is scheduled to be launched by *Rocket Lab*
+**Falcon 9 Block 5 | Dragon CRS-2 SpX-33**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1">Rocket Lab Launch Complex 1A</a>, Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250823T224200">2025-08-23 22:42:00 UTC</a>.  Until
-then, this pad will have been used for 32
-out of 63 launches from this location. The launch status is currently
+from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral SFS, FL, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250824T064536">2025-08-24 06:45:36 UTC</a>.  Until
+then, this pad will have been used for 328
+out of 1046 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Communications* and the payload will be injected
-into *a Sun-Synchronous Orbit
-(SSO)*.
+*Resupply* and the payload will be injected
+into *a Low Earth Orbit
+(LEO)*.
 <br>
 <blockquote>
-  'Live, Laugh, Launch' is the second of two dedicated missions on Electron for a confidential customer in 2025. Possible customer candidates include EchoStar and E-Space. This mission will deploy 5 satellites to a 655 km circular Earth orbit.
+  33rd commercial resupply services mission to the International Space Station operated by SpaceX. The flight will be conducted under the second Commercial Resupply Services contract with NASA.
+
+Cargo Dragon 2 brings supplies and payloads, including critical materials to directly support science and research investigations that occur onboard the orbiting laboratory.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Rocket_Lab_Electron" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=-39.262833,177.864469" >
+  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -54,6 +56,7 @@ into *a Sun-Synchronous Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250827T105300">2025-08-27 10:53:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-56&location=Cape Canaveral SFS, FL, USA&dates=20250827T105300Z%2F20250827T145300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-56** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250830T020500">2025-08-30 02:05:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-7&location=Vandenberg SFB, CA, USA&dates=20250830T020500Z%2F20250830T060500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-7** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250830T113800">2025-08-30 11:38:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-14&location=Cape Canaveral SFS, FL, USA&dates=20250830T113800Z%2F20250830T153800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-14** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250831T000000">2025-08-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=HASTE | JAKE 4&location=Wallops Flight Facility, Virginia, USA&dates=20250831T000000Z%2F20250831T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **HASTE | JAKE 4** from Wallops Flight Facility, Virginia, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,6 +93,7 @@ into *a Sun-Synchronous Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/08/Aurora_Australis_over_Concordia_station" >🔗</a> **[ESA]** Aurora Australis over Concordia station
+- <a href="https://www.nasaspaceflight.com/2025/08/flight-10-ship-37-block-2/" >🔗</a> **[NASASpaceflight]** Starship prepares to launch Flight 10 in penultimate Block 2 test
 - <a href="https://spaceflightnow.com/2025/08/23/live-coverage-nasa-spacex-to-launch-falcon-9-rocket-dragon-spacecraft-on-crs-33-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: NASA, SpaceX to launch Falcon 9 rocket, Dragon spacecraft on CRS-33 from Cape Canaveral
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-tests-tools-to-assess-drone-safety-over-cities/" >🔗</a> **[NASA]** NASA Tests Tools to Assess Drone Safety Over Cities
 - <a href="https://www.nasa.gov/general/nasa-shares-final-contenders-for-artemis-ii-moon-mascot-design-contest/" >🔗</a> **[NASA]** NASA Shares Final Contenders for Artemis II Moon Mascot Design Contest
@@ -98,17 +102,23 @@ into *a Sun-Synchronous Orbit
 - <a href="https://science.nasa.gov/uncategorized/nasas-bennu-samples-reveal-complex-origins-dramatic-transformation/" >🔗</a> **[NASA]** NASA’s Bennu Samples Reveal Complex Origins, Dramatic Transformation
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_18-22_August_2025" >🔗</a> **[ESA]** Week in images: 18-22 August 2025
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/lunar-environment-structural-test-rig/" >🔗</a> **[NASA]** Lunar Environment Structural Test Rig
-- <a href="https://arstechnica.com/space/2025/08/rocket-report-pivotal-starship-test-on-tap-firefly-wants-to-be-big-in-japan/" >🔗</a> **[Arstechnica]** Rocket Report: Pivotal Starship test on tap, Firefly wants to be big in Japan
 
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasa.gov/missions/station/commercial-resupply/spacex-crs/nasas-spacex-33rd-commercial-resupply-mission-overview/" >🔗</a> **[NASA]** NASA’s SpaceX 33rd Commercial Resupply Mission Overview
+- <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-33rd-station-resupply-launch-arrival/" >🔗</a> **[NASA]** NASA Sets Coverage for SpaceX 33rd Station Resupply Launch, Arrival
+- <a href="https://science.nasa.gov/directorates/smd/bone-loss-research-launches-aboard-nasas-spacex-33-resupply-mission/" >🔗</a> **[NASA]** Bone Loss Research Launches Aboard NASA’s SpaceX-33 Resupply Mission
+- <a href="https://www.nasaspaceflight.com/2025/08/launch-roundup-falcon-9-starship-and-russia-flying-this-week/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9, Starship, and Russia flying this week
 - <a href="https://www.nasaspaceflight.com/2025/08/launch-roundup-081825/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX, Chinese, and Russian missions make up busy week
+- <a href="https://tlpnetwork.com/news/america/weekly-pre-launch-preview-august-18-24-2025" >🔗</a> **[The Launch Pad]** Starlink Doubles Up, ISS Gets A New Booster, X-37B Returns, and Starship is GO For Launch This Week
+- <a href="https://www.nasa.gov/missions/station/iss-research/nasas-spacex-33-resupply-mission-launches-research-to-station/" >🔗</a> **[NASA]** NASA’s SpaceX-33 Resupply Mission Launches Research to Station
+- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-spacexs-33rd-resupply-launch-to-space-station/" >🔗</a> **[NASA]** NASA Invites Media to SpaceX’s 33rd Resupply Launch to Space Station
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250823T230123">2025-08-23 23:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250823T233135">2025-08-23 23:31:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
