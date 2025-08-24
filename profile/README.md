@@ -104,6 +104,8 @@ into *a Suborbital
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2025/08/flight-10-ship-37-block-2/" >🔗</a> **[NASASpaceflight]** Starship prepares to launch Flight 10 in penultimate Block 2 test
+- <a href="https://arstechnica.com/space/2025/08/rocket-report-pivotal-starship-test-on-tap-firefly-wants-to-be-big-in-japan/" >🔗</a> **[Arstechnica]** Rocket Report: Pivotal Starship test on tap, Firefly wants to be big in Japan
 - <a href="https://tlpnetwork.com/news/america/countdown-to-launch-what-to-expect-from-starship-flight-10" >🔗</a> **[The Launch Pad]** Countdown To Launch : What to Expect From Starship Flight 10
 - <a href="https://www.nasaspaceflight.com/2025/08/launch-roundup-081825/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX, Chinese, and Russian missions make up busy week
 - <a href="https://www.nasaspaceflight.com/2025/08/launch-roundup-falcon-9-starship-and-russia-flying-this-week/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9, Starship, and Russia flying this week
@@ -112,13 +114,11 @@ into *a Suborbital
 - <a href="https://www.nasaspaceflight.com/2025/08/faa-flight-10-mishap-probe-august-24/" >🔗</a> **[NASASpaceflight]** FAA approves Starship Flight 10 after mishap probe, eyes August 24 launch
 - <a href="https://www.nasaspaceflight.com/2025/08/ship-37-spin-prime-engine-swap/" >🔗</a> **[NASASpaceflight]** Ship 37 completes a Spin Prime test following Engine Swap
 - <a href="https://www.nasaspaceflight.com/2025/08/spacex-pad-1-tests-masseys/" >🔗</a> **[NASASpaceflight]** How SpaceX modified Pad 1 for Ship Static Fire tests to cover Massey’s downtime
-- <a href="https://www.nasaspaceflight.com/2025/07/final-two-block-2-ships-testing/" >🔗</a> **[NASASpaceflight]** The Final Two Block 2 Ships leave Mega Bay 2 for Testing
-- <a href="https://www.nasaspaceflight.com/2025/06/following-ship-36-spacex-rebuilding-masseys/" >🔗</a> **[NASASpaceflight]** Following the Loss of Ship 36, SpaceX now Focuses on Rebuilding Masseys
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250824T130636">2025-08-24 13:06:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250824T133453">2025-08-24 13:34:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
