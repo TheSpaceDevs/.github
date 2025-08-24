@@ -91,6 +91,7 @@ into *a Suborbital
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/08/Aurora_Australis_over_Concordia_station" >🔗</a> **[ESA]** Aurora Australis over Concordia station
+- <a href="https://spaceflightnow.com/2025/08/24/nasa-spacex-launch-dragon-to-the-iss-on-extended-cargo-station-boosting-mission/" >🔗</a> **[Spaceflight Now]** NASA, SpaceX launch Dragon to the ISS on extended cargo, station boosting mission
 - <a href="https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-33rd-spacex-resupply-mission-to-station/" >🔗</a> **[NASA]** NASA Science, Cargo Launch on 33rd SpaceX Resupply Mission to Station
 - <a href="https://www.nasaspaceflight.com/2025/08/flight-10-ship-37-block-2/" >🔗</a> **[NASASpaceflight]** Starship prepares to launch Flight 10 in penultimate Block 2 test
 - <a href="https://spaceflightnow.com/2025/08/23/live-coverage-nasa-spacex-to-launch-falcon-9-rocket-dragon-spacecraft-on-crs-33-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: NASA, SpaceX to launch Falcon 9 rocket, Dragon spacecraft on CRS-33 from Cape Canaveral
@@ -99,7 +100,6 @@ into *a Suborbital
 - <a href="https://europeanspaceflight.com/uk-space-agency-hires-consultants-to-explain-the-uk-space-sector/" >🔗</a> **[European Spaceflight]** UK Space Agency Hires Consultants to Explain the UK Space Sector
 - <a href="https://www.nasa.gov/image-article/epic-research-can-help-mars-missions/" >🔗</a> **[NASA]** Epic Research Can Help Mars Missions
 - <a href="https://science.nasa.gov/uncategorized/nasas-bennu-samples-reveal-complex-origins-dramatic-transformation/" >🔗</a> **[NASA]** NASA’s Bennu Samples Reveal Complex Origins, Dramatic Transformation
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_18-22_August_2025" >🔗</a> **[ESA]** Week in images: 18-22 August 2025
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250824T080129">2025-08-24 08:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250824T083456">2025-08-24 08:34:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
