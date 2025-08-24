@@ -91,6 +91,7 @@ into *a Suborbital
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/08/Aurora_Australis_over_Concordia_station" >🔗</a> **[ESA]** Aurora Australis over Concordia station
+- <a href="https://spaceflightnow.com/2025/08/24/live-coverage-spacex-gets-ready-for-crucial-10th-test-flight-of-starship/" >🔗</a> **[Spaceflight Now]** Live Coverage: SpaceX gets ready for crucial 10th test flight of Starship
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-24-30-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy August 24-30, 2025
 - <a href="https://spaceflightnow.com/2025/08/24/nasa-spacex-launch-dragon-to-the-iss-on-extended-cargo-station-boosting-mission/" >🔗</a> **[Spaceflight Now]** NASA, SpaceX launch Dragon to the ISS on extended cargo, station boosting mission
 - <a href="https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-33rd-spacex-resupply-mission-to-station/" >🔗</a> **[NASA]** NASA Science, Cargo Launch on 33rd SpaceX Resupply Mission to Station
@@ -99,7 +100,6 @@ into *a Suborbital
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-tests-tools-to-assess-drone-safety-over-cities/" >🔗</a> **[NASA]** NASA Tests Tools to Assess Drone Safety Over Cities
 - <a href="https://www.nasa.gov/general/nasa-shares-final-contenders-for-artemis-ii-moon-mascot-design-contest/" >🔗</a> **[NASA]** NASA Shares Final Contenders for Artemis II Moon Mascot Design Contest
 - <a href="https://europeanspaceflight.com/uk-space-agency-hires-consultants-to-explain-the-uk-space-sector/" >🔗</a> **[European Spaceflight]** UK Space Agency Hires Consultants to Explain the UK Space Sector
-- <a href="https://www.nasa.gov/image-article/epic-research-can-help-mars-missions/" >🔗</a> **[NASA]** Epic Research Can Help Mars Missions
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250824T213122">2025-08-24 21:31:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250824T220124">2025-08-24 22:01:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
