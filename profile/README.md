@@ -47,7 +47,6 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250824T064536">2025-08-24 06:45:36 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Dragon CRS-2 SpX-33&location=Cape Canaveral SFS, FL, USA&dates=20250824T064536Z%2F20250824T064536Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Dragon CRS-2 SpX-33** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250824T233000">2025-08-24 23:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Starship | Flight 10&location=SpaceX Starbase, TX, USA&dates=20250824T233000Z%2F20250825T003000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starship | Flight 10** from SpaceX Starbase, TX, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250825T113000">2025-08-25 11:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Shepard | NS-35&location=Corn Ranch, Van Horn, TX, USA&dates=20250825T113000Z%2F20250825T193000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Shepard | NS-35** from Corn Ranch, Van Horn, TX, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250825T190000">2025-08-25 19:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 8A | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20250825T190000Z%2F20250825T192500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 8A | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
@@ -118,7 +117,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250824T063840">2025-08-24 06:38:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250824T070117">2025-08-24 07:01:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
