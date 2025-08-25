@@ -46,7 +46,7 @@ into *an Unknown
 
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250825T190000">2025-08-25 19:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 8A | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20250825T190000Z%2F20250825T192500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 8A | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250825T233000">2025-08-25 23:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟪  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Starship | Flight 10&location=SpaceX Starbase, TX, USA&dates=20250825T233000Z%2F20250826T003000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starship | Flight 10** from SpaceX Starbase, TX, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250825T233000">2025-08-25 23:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Starship | Flight 10&location=SpaceX Starbase, TX, USA&dates=20250825T233000Z%2F20250826T003000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starship | Flight 10** from SpaceX Starbase, TX, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250826T113000">2025-08-26 11:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Shepard | NS-35&location=Corn Ranch, Van Horn, TX, USA&dates=20250826T113000Z%2F20250826T193000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Shepard | NS-35** from Corn Ranch, Van Horn, TX, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250826T185300">2025-08-26 18:53:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | NAOS&location=Vandenberg SFB, CA, USA&dates=20250826T185300Z%2F20250826T192000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | NAOS** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250827T054900">2025-08-27 05:49:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-11&location=Kennedy Space Center, FL, USA&dates=20250827T054900Z%2F20250827T094900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-11** from Kennedy Space Center, FL, USA.
@@ -91,15 +91,15 @@ into *an Unknown
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/08/Aurora_Australis_over_Concordia_station" >🔗</a> **[ESA]** Aurora Australis over Concordia station
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/lindy-garay-supporting-space-station-safety-and-success/" >🔗</a> **[NASA]** Lindy Garay: Supporting Space Station Safety and Success
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Space_for_our_climate/ESA_data_records_help_underpin_climate_change_report" >🔗</a> **[ESA]** ESA data records help underpin climate change report
 - <a href="https://www.esa.int/Enabling_Support/Operations/Juice_team_resolves_anomaly_on_approach_to_Venus" >🔗</a> **[ESA]** Juice team resolves anomaly on approach to Venus
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/lindy-garay-supporting-space-station-safety-and-success/" >🔗</a> **[NASA]** Lindy Garay: Supporting Space Station Safety and Success
 - <a href="https://spaceflightnow.com/2025/08/24/live-coverage-spacex-gets-ready-for-crucial-10th-test-flight-of-starship/" >🔗</a> **[Spaceflight Now]** Live Coverage: SpaceX gets ready for crucial 10th test flight of Starship
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-24-30-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy August 24-30, 2025
 - <a href="https://spaceflightnow.com/2025/08/24/nasa-spacex-launch-dragon-to-the-iss-on-extended-cargo-station-boosting-mission/" >🔗</a> **[Spaceflight Now]** NASA, SpaceX launch Dragon to the ISS on extended cargo, station boosting mission
 - <a href="https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-33rd-spacex-resupply-mission-to-station/" >🔗</a> **[NASA]** NASA Science, Cargo Launch on 33rd SpaceX Resupply Mission to Station
 - <a href="https://www.nasaspaceflight.com/2025/08/flight-10-ship-37-block-2/" >🔗</a> **[NASASpaceflight]** Starship prepares to launch Flight 10 in penultimate Block 2 test
 - <a href="https://spaceflightnow.com/2025/08/23/live-coverage-nasa-spacex-to-launch-falcon-9-rocket-dragon-spacecraft-on-crs-33-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: NASA, SpaceX to launch Falcon 9 rocket, Dragon spacecraft on CRS-33 from Cape Canaveral
-- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-tests-tools-to-assess-drone-safety-over-cities/" >🔗</a> **[NASA]** NASA Tests Tools to Assess Drone Safety Over Cities
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250825T140127">2025-08-25 14:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250825T143533">2025-08-25 14:35:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
