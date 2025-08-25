@@ -91,15 +91,15 @@ into *a Suborbital
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/08/Aurora_Australis_over_Concordia_station" >🔗</a> **[ESA]** Aurora Australis over Concordia station
+- <a href="https://europeanspaceflight.com/iceye-secures-e9-38m-in-funding-from-polands-national-development-bank/" >🔗</a> **[European Spaceflight]** ICEYE Secures €9.38M in Funding from Poland’s National Development Bank
 - <a href="https://www.spacescout.info/2025/08/vulcan-begins-operational-missions/" >🔗</a> **[Space Scout]** Vulcan Begins Operational Missions
 - <a href="https://arstechnica.com/space/2025/08/with-a-new-soyuz-rocket-russia-seeks-to-break-its-ukrainian-dependency/" >🔗</a> **[Arstechnica]** With a new Soyuz rocket, Russia seeks to break its Ukrainian dependency
 - <a href="https://spaceflightnow.com/2025/08/25/live-coverage-spacex-preps-for-starship-flight-10-following-sunday-scrub/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX preps for Starship Flight 10 following Sunday scrub
 - <a href="https://spaceflightnow.com/2025/08/25/cargo-ship-docks-with-international-space-station/" >🔗</a> **[Spaceflight Now]** Cargo ship docks with International Space Station
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Space_for_our_climate/ESA_data_records_help_underpin_climate_change_report" >🔗</a> **[ESA]** ESA data records help underpin climate change report
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/lindy-garay-supporting-space-station-safety-and-success/" >🔗</a> **[NASA]** Lindy Garay: Supporting Space Station Safety and Success
 - <a href="https://www.esa.int/Enabling_Support/Operations/Juice_team_resolves_anomaly_on_approach_to_Venus" >🔗</a> **[ESA]** Juice team resolves anomaly on approach to Venus
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/lindy-garay-supporting-space-station-safety-and-success/" >🔗</a> **[NASA]** Lindy Garay: Supporting Space Station Safety and Success
 - <a href="https://spaceflightnow.com/2025/08/24/live-coverage-spacex-gets-ready-for-crucial-10th-test-flight-of-starship/" >🔗</a> **[Spaceflight Now]** Live Coverage: SpaceX gets ready for crucial 10th test flight of Starship
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-24-30-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy August 24-30, 2025
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250825T220130">2025-08-25 22:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250825T223425">2025-08-25 22:34:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
