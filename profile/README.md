@@ -91,6 +91,8 @@ into *an Unknown
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/08/Aurora_Australis_over_Concordia_station" >🔗</a> **[ESA]** Aurora Australis over Concordia station
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/lindy-garay-supporting-space-station-safety-and-success/" >🔗</a> **[NASA]** Lindy Garay: Supporting Space Station Safety and Success
+- <a href="https://www.esa.int/Enabling_Support/Operations/Juice_team_resolves_anomaly_on_approach_to_Venus" >🔗</a> **[ESA]** Juice team resolves anomaly on approach to Venus
 - <a href="https://spaceflightnow.com/2025/08/24/live-coverage-spacex-gets-ready-for-crucial-10th-test-flight-of-starship/" >🔗</a> **[Spaceflight Now]** Live Coverage: SpaceX gets ready for crucial 10th test flight of Starship
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-24-30-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy August 24-30, 2025
 - <a href="https://spaceflightnow.com/2025/08/24/nasa-spacex-launch-dragon-to-the-iss-on-extended-cargo-station-boosting-mission/" >🔗</a> **[Spaceflight Now]** NASA, SpaceX launch Dragon to the ISS on extended cargo, station boosting mission
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://www.nasaspaceflight.com/2025/08/flight-10-ship-37-block-2/" >🔗</a> **[NASASpaceflight]** Starship prepares to launch Flight 10 in penultimate Block 2 test
 - <a href="https://spaceflightnow.com/2025/08/23/live-coverage-nasa-spacex-to-launch-falcon-9-rocket-dragon-spacecraft-on-crs-33-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: NASA, SpaceX to launch Falcon 9 rocket, Dragon spacecraft on CRS-33 from Cape Canaveral
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-tests-tools-to-assess-drone-safety-over-cities/" >🔗</a> **[NASA]** NASA Tests Tools to Assess Drone Safety Over Cities
-- <a href="https://www.nasa.gov/general/nasa-shares-final-contenders-for-artemis-ii-moon-mascot-design-contest/" >🔗</a> **[NASA]** NASA Shares Final Contenders for Artemis II Moon Mascot Design Contest
-- <a href="https://europeanspaceflight.com/uk-space-agency-hires-consultants-to-explain-the-uk-space-sector/" >🔗</a> **[European Spaceflight]** UK Space Agency Hires Consultants to Explain the UK Space Sector
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250825T100134">2025-08-25 10:01:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250825T103627">2025-08-25 10:36:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
