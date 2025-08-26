@@ -100,8 +100,8 @@ Also on board the launch is Dhruva Space's LEAP-1; Planet's Pelican-3 and Pelica
 - <a href="https://www.nasa.gov/image-article/reaching-out/" >🔗</a> **[NASA]** Reaching Out
 - <a href="https://arstechnica.com/science/2025/08/googles-ai-model-just-nailed-the-forecast-for-the-strongest-atlantic-storm-this-year/" >🔗</a> **[Arstechnica]** Google’s AI model just nailed the forecast for the strongest Atlantic storm this year
 - <a href="https://europeanspaceflight.com/the-exploration-companys-nyx-spacecraft-passes-initial-iss-safety-review/" >🔗</a> **[European Spaceflight]** The Exploration Company’s Nyx Spacecraft Passes Initial ISS Safety Review
-- <a href="https://www.nasa.gov/image-article/nasa-test-deploys-roman-space-telescope-solar-panels-visor/" >🔗</a> **[NASA]** NASA Test Deploys Roman Space Telescope Solar Panels, ‘Visor’
 - <a href="https://www.nasa.gov/centers-and-facilities/stennis/an-ideal-setting-for-range-operations/" >🔗</a> **[NASA]** NASA Stennis Provides Ideal Setting for Range Operations
+- <a href="https://www.nasa.gov/image-article/nasa-test-deploys-roman-space-telescope-solar-panels-visor/" >🔗</a> **[NASA]** NASA Test Deploys Roman Space Telescope Solar Panels, ‘Visor’
 - <a href="https://www.esa.int/Enabling_Support/Operations/Four_laser_links_over_300_million_kilometres_ESA_concludes_daring_optical_communication_campaign" >🔗</a> **[ESA]** Four laser links over 300 million kilometres: ESA concludes daring optical communication campaign
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/08/Time_moves_fast_when_you_are_preparing_for_liftoff" >🔗</a> **[ESA]** Time moves fast when you are preparing for liftoff!
 
@@ -112,7 +112,7 @@ Also on board the launch is Dhruva Space's LEAP-1; Planet's Pelican-3 and Pelica
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250826T180138">2025-08-26 18:01:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250826T183819">2025-08-26 18:38:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
