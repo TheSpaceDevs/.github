@@ -91,6 +91,7 @@ into *a Suborbital
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/08/Aurora_Australis_over_Concordia_station" >🔗</a> **[ESA]** Aurora Australis over Concordia station
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Gaia/Gaia_proves_our_skies_are_filled_with_chains_of_starry_gatherings" >🔗</a> **[ESA]** Gaia proves our skies are filled with chains of starry gatherings
 - <a href="https://spacepolicyonline.com/news/weather-scrubs-second-starship-ift-10-launch-attempt/" >🔗</a> **[SpacePolicyOnline.com]** Weather Scrubs Second Starship IFT-10 Launch Attempt
 - <a href="https://europeanspaceflight.com/iceye-secures-e9-38m-in-funding-from-polands-national-development-bank/" >🔗</a> **[European Spaceflight]** ICEYE Secures €9.38M in Funding from Poland’s National Development Bank
 - <a href="https://www.spacescout.info/2025/08/vulcan-begins-operational-missions/" >🔗</a> **[Space Scout]** Vulcan Begins Operational Missions
@@ -99,7 +100,6 @@ into *a Suborbital
 - <a href="https://spaceflightnow.com/2025/08/25/cargo-ship-docks-with-international-space-station/" >🔗</a> **[Spaceflight Now]** Cargo ship docks with International Space Station
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Space_for_our_climate/ESA_data_records_help_underpin_climate_change_report" >🔗</a> **[ESA]** ESA data records help underpin climate change report
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/lindy-garay-supporting-space-station-safety-and-success/" >🔗</a> **[NASA]** Lindy Garay: Supporting Space Station Safety and Success
-- <a href="https://www.esa.int/Enabling_Support/Operations/Juice_team_resolves_anomaly_on_approach_to_Venus" >🔗</a> **[ESA]** Juice team resolves anomaly on approach to Venus
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250826T080137">2025-08-26 08:01:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250826T083814">2025-08-26 08:38:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
