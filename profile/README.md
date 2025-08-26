@@ -95,6 +95,8 @@ Also on board the launch is Dhruva Space's LEAP-1; Planet's Pelican-3 and Pelica
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/08/Aurora_Australis_over_Concordia_station" >🔗</a> **[ESA]** Aurora Australis over Concordia station
+- <a href="https://europeanspaceflight.com/the-exploration-companys-nyx-spacecraft-passes-initial-iss-safety-review/" >🔗</a> **[European Spaceflight]** The Exploration Company’s Nyx Spacecraft Passes Initial ISS Safety Review
+- <a href="https://www.esa.int/Enabling_Support/Operations/Four_laser_links_over_300_million_kilometres_ESA_concludes_daring_optical_communication_campaign" >🔗</a> **[ESA]** Four laser links over 300 million kilometres: ESA concludes daring optical communication campaign
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/08/Time_moves_fast_when_you_are_preparing_for_liftoff" >🔗</a> **[ESA]** Time moves fast when you are preparing for liftoff!
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Gaia/Gaia_proves_our_skies_are_filled_with_chains_of_starry_gatherings" >🔗</a> **[ESA]** Gaia proves our skies are filled with chains of starry gatherings
 - <a href="https://spacepolicyonline.com/news/weather-scrubs-second-starship-ift-10-launch-attempt/" >🔗</a> **[SpacePolicyOnline.com]** Weather Scrubs Second Starship IFT-10 Launch Attempt
@@ -102,8 +104,6 @@ Also on board the launch is Dhruva Space's LEAP-1; Planet's Pelican-3 and Pelica
 - <a href="https://www.spacescout.info/2025/08/vulcan-begins-operational-missions/" >🔗</a> **[Space Scout]** Vulcan Begins Operational Missions
 - <a href="https://arstechnica.com/space/2025/08/with-a-new-soyuz-rocket-russia-seeks-to-break-its-ukrainian-dependency/" >🔗</a> **[Arstechnica]** With a new Soyuz rocket, Russia seeks to break its Ukrainian dependency
 - <a href="https://spaceflightnow.com/2025/08/25/live-coverage-spacex-preps-for-starship-flight-10-following-sunday-scrub/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX preps for Starship Flight 10 following Sunday scrub
-- <a href="https://spaceflightnow.com/2025/08/25/cargo-ship-docks-with-international-space-station/" >🔗</a> **[Spaceflight Now]** Cargo ship docks with International Space Station
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Space_for_our_climate/ESA_data_records_help_underpin_climate_change_report" >🔗</a> **[ESA]** ESA data records help underpin climate change report
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ Also on board the launch is Dhruva Space's LEAP-1; Planet's Pelican-3 and Pelica
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250826T140127">2025-08-26 14:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250826T143444">2025-08-26 14:34:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
