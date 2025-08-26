@@ -91,6 +91,8 @@ into *a Suborbital
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/08/Aurora_Australis_over_Concordia_station" >🔗</a> **[ESA]** Aurora Australis over Concordia station
+- <a href="https://www.nasa.gov/missions/artemis/orion/inside-nasas-new-orion-mission-evaluation-room-for-artemis-ii/" >🔗</a> **[NASA]** Inside NASA’s New Orion Mission Evaluation Room for Artemis II
+- <a href="https://spaceflightnow.com/2025/08/26/live-coverage-spacex-tries-for-third-time-to-launch-starship-flight-10-from-starbase-texas/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX tries for third time to launch Starship Flight 10 from Starbase, Texas
 - <a href="https://spaceflightnow.com/2025/08/26/live-coverage-spacex-to-launch-falcon-9-rocket-on-rideshare-mission-from-vandenberg-sfb/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Falcon 9 rocket on rideshare mission from Vandenberg SFB
 - <a href="https://www.nasaspaceflight.com/2025/08/launch-roundup-08-25-25/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Starship, NS-35, and Falcon 9 launches planned
 - <a href="https://www.nasa.gov/image-article/reaching-out/" >🔗</a> **[NASA]** Reaching Out
@@ -98,8 +100,6 @@ into *a Suborbital
 - <a href="https://europeanspaceflight.com/the-exploration-companys-nyx-spacecraft-passes-initial-iss-safety-review/" >🔗</a> **[European Spaceflight]** The Exploration Company’s Nyx Spacecraft Passes Initial ISS Safety Review
 - <a href="https://www.nasa.gov/centers-and-facilities/stennis/an-ideal-setting-for-range-operations/" >🔗</a> **[NASA]** NASA Stennis Provides Ideal Setting for Range Operations
 - <a href="https://www.nasa.gov/image-article/nasa-test-deploys-roman-space-telescope-solar-panels-visor/" >🔗</a> **[NASA]** NASA Test Deploys Roman Space Telescope Solar Panels, ‘Visor’
-- <a href="https://www.esa.int/Enabling_Support/Operations/Four_laser_links_over_300_million_kilometres_ESA_concludes_daring_optical_communication_campaign" >🔗</a> **[ESA]** Four laser links over 300 million kilometres: ESA concludes daring optical communication campaign
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/08/Time_moves_fast_when_you_are_preparing_for_liftoff" >🔗</a> **[ESA]** Time moves fast when you are preparing for liftoff!
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250826T210111">2025-08-26 21:01:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250826T213116">2025-08-26 21:31:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
