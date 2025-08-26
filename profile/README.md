@@ -19,31 +19,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | NAOS**. It is scheduled to be launched by *SpaceX*
+**Starship | Flight 10**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
+from *<a href="https://en.wikipedia.org/wiki/SpaceX_Starbase#Launch_site_(Orbital_Launch_Pad_A_and_B)">Orbital Launch Mount A</a>, SpaceX Starbase, TX, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250826T185300">2025-08-26 18:53:00 UTC</a>.  Until
-then, this pad will have been used for 210
-out of 824 launches from this location. The launch status is currently
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250826T233000">2025-08-26 23:30:00 UTC</a>.  Until
+then, this pad will have been used for 9
+out of 18 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Government/Top Secret* and the payload will be injected
-into *a Sun-Synchronous Orbit
-(SSO)*.
+*Test Flight* and the payload will be injected
+into *a Suborbital
+(Sub)*.
 <br>
 <blockquote>
-  NAOS (National Advanced Optical System) is the space component of Luxembourg's governmental dual-use observation satellite system LUXEOSys (Luxembourg Earth Observation System). Its purpose is to provide high resolution images to national and international governmental and military organizations such as NATO.
-
-The 800 kg satellite is built by OHB Italia and is equipped with a very high-resolution optical camera with a ground reolution of 50 cm in an around 450 km high sun-synchronous orbit. It will have a operational life time of 7 years.
-
-Also on board the launch is Dhruva Space's LEAP-1; Planet's Pelican-3 and Pelican-4; and Exolaunch’s Acadia-6, FFLY-1, FFLY-2, and FFLY-3.
+  10th test flight of the two-stage Starship launch vehicle.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+  <a href="https://en.wikipedia.org/wiki/SpaceX_Starship" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=34.632,-120.611" >
+  <a href="https://www.google.com/maps?q=25.9962,-97.154423" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -58,6 +54,7 @@ Also on board the launch is Dhruva Space's LEAP-1; Planet's Pelican-3 and Pelica
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250831T111500">2025-08-31 11:15:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-14&location=Cape Canaveral SFS, FL, USA&dates=20250831T111500Z%2F20250831T151500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-14** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250903T023300">2025-09-03 02:33:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-8&location=Vandenberg SFB, CA, USA&dates=20250903T023300Z%2F20250903T063300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-8** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250903T110600">2025-09-03 11:06:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-22&location=Cape Canaveral SFS, FL, USA&dates=20250903T110600Z%2F20250903T150600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-22** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250908T000000">2025-09-08 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Nusantara Lima&location=Cape Canaveral SFS, FL, USA&dates=20250908T000000Z%2F20250908T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Nusantara Lima** from Cape Canaveral SFS, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -107,11 +104,21 @@ Also on board the launch is Dhruva Space's LEAP-1; Planet's Pelican-3 and Pelica
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2025/08/launch-roundup-08-25-25/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Starship, NS-35, and Falcon 9 launches planned
+- <a href="https://spacepolicyonline.com/news/weather-scrubs-second-starship-ift-10-launch-attempt/" >🔗</a> **[SpacePolicyOnline.com]** Weather Scrubs Second Starship IFT-10 Launch Attempt
+- <a href="https://spaceflightnow.com/2025/08/25/live-coverage-spacex-preps-for-starship-flight-10-following-sunday-scrub/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX preps for Starship Flight 10 following Sunday scrub
+- <a href="https://spaceflightnow.com/2025/08/24/live-coverage-spacex-gets-ready-for-crucial-10th-test-flight-of-starship/" >🔗</a> **[Spaceflight Now]** Live Coverage: SpaceX gets ready for crucial 10th test flight of Starship
+- <a href="https://www.nasaspaceflight.com/2025/08/flight-10-ship-37-block-2/" >🔗</a> **[NASASpaceflight]** Starship prepares to launch Flight 10 in penultimate Block 2 test
+- <a href="https://arstechnica.com/space/2025/08/rocket-report-pivotal-starship-test-on-tap-firefly-wants-to-be-big-in-japan/" >🔗</a> **[Arstechnica]** Rocket Report: Pivotal Starship test on tap, Firefly wants to be big in Japan
+- <a href="https://tlpnetwork.com/news/america/countdown-to-launch-what-to-expect-from-starship-flight-10" >🔗</a> **[The Launch Pad]** Countdown To Launch : What to Expect From Starship Flight 10
+- <a href="https://www.nasaspaceflight.com/2025/08/launch-roundup-081825/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX, Chinese, and Russian missions make up busy week
+- <a href="https://www.nasaspaceflight.com/2025/08/launch-roundup-falcon-9-starship-and-russia-flying-this-week/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9, Starship, and Russia flying this week
+- <a href="https://tlpnetwork.com/news/america/weekly-pre-launch-preview-august-18-24-2025" >🔗</a> **[The Launch Pad]** Starlink Doubles Up, ISS Gets A New Booster, X-37B Returns, and Starship is GO For Launch This Week
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250826T190211">2025-08-26 19:02:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250826T193102">2025-08-26 19:31:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
