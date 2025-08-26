@@ -19,27 +19,31 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**New Shepard | NS-35**. It is scheduled to be launched by *Blue Origin*
+**Falcon 9 Block 5 | NAOS**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Corn_Ranch">West Texas Suborbital Launch Site/ Corn Ranch</a>, Corn Ranch, Van Horn, TX, USA*
+from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250826T113000">2025-08-26 11:30:00 UTC</a>.  Until
-then, this pad will have been used for 34
-out of 34 launches from this location. The launch status is currently
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250826T185300">2025-08-26 18:53:00 UTC</a>.  Until
+then, this pad will have been used for 210
+out of 824 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Suborbital* and the payload will be injected
-into *a Suborbital
-(Sub)*.
+*Government/Top Secret* and the payload will be injected
+into *a Sun-Synchronous Orbit
+(SSO)*.
 <br>
 <blockquote>
-  NS-35 is the 35th flight for the New Shepard program. This flight will fly more than 40 scientific and research payloads to space and back, including 24 experiments from NASA’s TechRise Student Challenge and payloads for Johns Hopkins Applied Physics Laboratory, Oklahoma State University, University of Florida, Carthage College, University of Central Florida, Teledyne, Space Lab Technologies, and Teachers in Space, among others.
+  NAOS (National Advanced Optical System) is the space component of Luxembourg's governmental dual-use observation satellite system LUXEOSys (Luxembourg Earth Observation System). Its purpose is to provide high resolution images to national and international governmental and military organizations such as NATO.
+
+The 800 kg satellite is built by OHB Italia and is equipped with a very high-resolution optical camera with a ground reolution of 50 cm in an around 450 km high sun-synchronous orbit. It will have a operational life time of 7 years.
+
+Also on board the launch is Dhruva Space's LEAP-1; Planet's Pelican-3 and Pelican-4; and Exolaunch’s Acadia-6, FFLY-1, FFLY-2, and FFLY-3.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/New_Shepard" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=31.422878000000000,-104.757121000000000" >
+  <a href="https://www.google.com/maps?q=34.632,-120.611" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -54,6 +58,7 @@ into *a Suborbital
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250831T111500">2025-08-31 11:15:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-14&location=Cape Canaveral SFS, FL, USA&dates=20250831T111500Z%2F20250831T151500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-14** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250908T000000">2025-09-08 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Nusantara Lima&location=Cape Canaveral SFS, FL, USA&dates=20250908T000000Z%2F20250908T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Nusantara Lima** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250910T000000">2025-09-10 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SDA Tranche 1 Transport Layer B&location=Vandenberg SFB, CA, USA&dates=20250910T000000Z%2F20250910T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | SDA Tranche 1 Transport Layer B** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250911T134900">2025-09-11 13:49:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Progress MS-32 (93P)&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20250911T134900Z%2F20250911T134900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Progress MS-32 (93P)** from Baikonur Cosmodrome, Republic of Kazakhstan.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -103,12 +108,11 @@ into *a Suborbital
 
 ### Launch-related News 🚀
 
-- <a href="https://www.nasaspaceflight.com/2025/08/launch-roundup-081825/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX, Chinese, and Russian missions make up busy week
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250826T120148">2025-08-26 12:01:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250826T124335">2025-08-26 12:43:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
