@@ -95,6 +95,7 @@ Also on board the launch is Dhruva Space's LEAP-1; Planet's Pelican-3 and Pelica
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/08/Aurora_Australis_over_Concordia_station" >🔗</a> **[ESA]** Aurora Australis over Concordia station
+- <a href="https://arstechnica.com/science/2025/08/googles-ai-model-just-nailed-the-forecast-for-the-strongest-atlantic-storm-this-year/" >🔗</a> **[Arstechnica]** Google’s AI model just nailed the forecast for the strongest Atlantic storm this year
 - <a href="https://europeanspaceflight.com/the-exploration-companys-nyx-spacecraft-passes-initial-iss-safety-review/" >🔗</a> **[European Spaceflight]** The Exploration Company’s Nyx Spacecraft Passes Initial ISS Safety Review
 - <a href="https://www.esa.int/Enabling_Support/Operations/Four_laser_links_over_300_million_kilometres_ESA_concludes_daring_optical_communication_campaign" >🔗</a> **[ESA]** Four laser links over 300 million kilometres: ESA concludes daring optical communication campaign
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/08/Time_moves_fast_when_you_are_preparing_for_liftoff" >🔗</a> **[ESA]** Time moves fast when you are preparing for liftoff!
@@ -103,7 +104,6 @@ Also on board the launch is Dhruva Space's LEAP-1; Planet's Pelican-3 and Pelica
 - <a href="https://europeanspaceflight.com/iceye-secures-e9-38m-in-funding-from-polands-national-development-bank/" >🔗</a> **[European Spaceflight]** ICEYE Secures €9.38M in Funding from Poland’s National Development Bank
 - <a href="https://www.spacescout.info/2025/08/vulcan-begins-operational-missions/" >🔗</a> **[Space Scout]** Vulcan Begins Operational Missions
 - <a href="https://arstechnica.com/space/2025/08/with-a-new-soyuz-rocket-russia-seeks-to-break-its-ukrainian-dependency/" >🔗</a> **[Arstechnica]** With a new Soyuz rocket, Russia seeks to break its Ukrainian dependency
-- <a href="https://spaceflightnow.com/2025/08/25/live-coverage-spacex-preps-for-starship-flight-10-following-sunday-scrub/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX preps for Starship Flight 10 following Sunday scrub
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ Also on board the launch is Dhruva Space's LEAP-1; Planet's Pelican-3 and Pelica
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250826T150140">2025-08-26 15:01:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250826T153357">2025-08-26 15:33:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
