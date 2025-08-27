@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blog/over-soroya-ridge-onward/" >🔗</a> **[NASA]** Over Soroya Ridge & Onward!
 - <a href="https://spaceflightnow.com/2025/08/27/live-coverage-record-breaking-30th-flight-for-spacex-falcon-9-booster-as-it-launches-starlink-satellites/" >🔗</a> **[Spaceflight Now]** Live coverage: Record-breaking 30th flight planned for SpaceX Falcon 9 booster as it launches Starlink satellites
 - <a href="https://arstechnica.com/space/2025/08/russias-state-run-human-spaceflight-company-may-be-near-bankruptcy/" >🔗</a> **[Arstechnica]** Russia’s state-run human spaceflight company may be near bankruptcy
 - <a href="https://science.nasa.gov/earth/patagonia-glacier-retreat-chile/" >🔗</a> **[NASA]** Patagonia Glacier retreat, Chile
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/langley/strap-in-nasa-aeroshell-material-takes-extended-space-trip/" >🔗</a> **[NASA]** Strap In! NASA Aeroshell Material Takes Extended Space Trip
 - <a href="https://www.nasa.gov/humans-in-space/commercial-space/nasa-seeks-volunteers-to-track-artemis-ii-mission/" >🔗</a> **[NASA]** NASA Seeks Volunteers to Track Artemis II Mission
 - <a href="https://www.nasa.gov/image-article/portrait-of-an-astronaut/" >🔗</a> **[NASA]** Portrait of an Astronaut
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/08/Algae_bloom_chlorophyll_South_Australia" >🔗</a> **[ESA]** Algae bloom chlorophyll South Australia
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250827T220153">2025-08-27 22:01:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250827T223325">2025-08-27 22:33:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
