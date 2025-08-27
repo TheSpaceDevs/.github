@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/artemis/artemis-2/meet-nasas-artemis-ii-moon-mission-masterminds/" >🔗</a> **[NASA]** Meet NASA’s Artemis II Moon Mission Masterminds
 - <a href="https://www.nasa.gov/centers-and-facilities/langley/strap-in-nasa-aeroshell-material-takes-extended-space-trip/" >🔗</a> **[NASA]** Strap In! NASA Aeroshell Material Takes Extended Space Trip
 - <a href="https://www.nasa.gov/humans-in-space/commercial-space/nasa-seeks-volunteers-to-track-artemis-ii-mission/" >🔗</a> **[NASA]** NASA Seeks Volunteers to Track Artemis II Mission
 - <a href="https://www.nasa.gov/image-article/portrait-of-an-astronaut/" >🔗</a> **[NASA]** Portrait of an Astronaut
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/08/Algae_bloom_chlorophyll_South_Australia" >🔗</a> **[ESA]** Algae bloom chlorophyll South Australia
 - <a href="https://www.esa.int/Space_Safety/Planetary_Defence/ESA_and_JAXA_advance_potential_Apophis_mission_collaboration" >🔗</a> **[ESA]** ESA and JAXA advance potential Apophis mission collaboration
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_investigates_complex_heart_of_a_cosmic_butterfly" >🔗</a> **[ESA]** Webb investigates complex heart of a cosmic butterfly
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/08/Aurora_Australis_over_Concordia_station" >🔗</a> **[ESA]** Aurora Australis over Concordia station
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_investigates_complex_heart_of_a_cosmic_butterfly" >🔗</a> **[ESA]** Webb investigates complex heart of a cosmic butterfly
 - <a href="https://europeanspaceflight.com/avio-and-isar-aerospace-win-esa-flight-ticket-initiative-launch-contracts/" >🔗</a> **[European Spaceflight]** Avio and Isar Aerospace Win ESA Flight Ticket Initiative Launch Contracts
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Boost/Flight_Ticket_Initiative_first_five_missions_secured_with_Avio_and_Isar_Aerospace" >🔗</a> **[ESA]** Flight Ticket Initiative: first five missions secured with Avio and Isar Aerospace
-- <a href="https://spaceflightnow.com/2025/08/27/spacex-successfully-launches-super-heavy-starship-on-critical-test-flight/" >🔗</a> **[Spaceflight Now]** SpaceX successfully launches Super Heavy-Starship on critical test flight
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250827T180140">2025-08-27 18:01:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250827T183722">2025-08-27 18:37:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
