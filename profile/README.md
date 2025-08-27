@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/08/russias-state-run-human-spaceflight-company-may-be-near-bankruptcy/" >🔗</a> **[Arstechnica]** Russia’s state-run human spaceflight company may be near bankruptcy
 - <a href="https://www.nasaspaceflight.com/2025/08/starship-rises-ashes-block-2-ship-37/" >🔗</a> **[NASASpaceflight]** The Starship Program rises from the ashes of Block 2 with Ship 37
 - <a href="https://spaceflightnow.com/2025/08/27/spacex-completes-400th-falcon-booster-landing-on-a-drone-ship/" >🔗</a> **[Spaceflight Now]** SpaceX completes 400th Falcon booster landing on a drone ship
 - <a href="https://www.nasa.gov/missions/artemis/artemis-2/meet-nasas-artemis-ii-moon-mission-masterminds/" >🔗</a> **[NASA]** Meet NASA’s Artemis II Moon Mission Masterminds
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/08/Algae_bloom_chlorophyll_South_Australia" >🔗</a> **[ESA]** Algae bloom chlorophyll South Australia
 - <a href="https://www.esa.int/Space_Safety/Planetary_Defence/ESA_and_JAXA_advance_potential_Apophis_mission_collaboration" >🔗</a> **[ESA]** ESA and JAXA advance potential Apophis mission collaboration
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_investigates_complex_heart_of_a_cosmic_butterfly" >🔗</a> **[ESA]** Webb investigates complex heart of a cosmic butterfly
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/08/Aurora_Australis_over_Concordia_station" >🔗</a> **[ESA]** Aurora Australis over Concordia station
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250827T193053">2025-08-27 19:30:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250827T200144">2025-08-27 20:01:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
