@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Space_Safety/Planetary_Defence/ESA_and_JAXA_advance_potential_Apophis_mission_collaboration" >🔗</a> **[ESA]** ESA and JAXA advance potential Apophis mission collaboration
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_investigates_complex_heart_of_a_cosmic_butterfly" >🔗</a> **[ESA]** Webb investigates complex heart of a cosmic butterfly
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/08/Aurora_Australis_over_Concordia_station" >🔗</a> **[ESA]** Aurora Australis over Concordia station
 - <a href="https://europeanspaceflight.com/avio-and-isar-aerospace-win-esa-flight-ticket-initiative-launch-contracts/" >🔗</a> **[European Spaceflight]** Avio and Isar Aerospace Win ESA Flight Ticket Initiative Launch Contracts
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/a-great-day-for-starship/" >🔗</a> **[SpacePolicyOnline.com]** A Great Day for Starship
 - <a href="https://www.nasa.gov/missions/artemis/orion/inside-nasas-new-orion-mission-evaluation-room-for-artemis-ii/" >🔗</a> **[NASA]** Inside NASA’s New Orion Mission Evaluation Room for Artemis II
 - <a href="https://spaceflightnow.com/2025/08/26/live-coverage-spacex-tries-for-third-time-to-launch-starship-flight-10-from-starbase-texas/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX tries for third time to launch Starship Flight 10 from Starbase, Texas
-- <a href="https://spaceflightnow.com/2025/08/26/live-coverage-spacex-to-launch-falcon-9-rocket-on-rideshare-mission-from-vandenberg-sfb/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Falcon 9 rocket on rideshare mission from Vandenberg SFB
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250827T120154">2025-08-27 12:01:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250827T124311">2025-08-27 12:43:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
