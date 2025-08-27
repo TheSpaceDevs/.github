@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/08/starship-rises-ashes-block-2-ship-37/" >🔗</a> **[NASASpaceflight]** The Starship Program rises from the ashes of Block 2 with Ship 37
+- <a href="https://spaceflightnow.com/2025/08/27/spacex-completes-400th-falcon-booster-landing-on-a-drone-ship/" >🔗</a> **[Spaceflight Now]** SpaceX completes 400th Falcon booster landing on a drone ship
 - <a href="https://www.nasa.gov/missions/artemis/artemis-2/meet-nasas-artemis-ii-moon-mission-masterminds/" >🔗</a> **[NASA]** Meet NASA’s Artemis II Moon Mission Masterminds
 - <a href="https://www.nasa.gov/centers-and-facilities/langley/strap-in-nasa-aeroshell-material-takes-extended-space-trip/" >🔗</a> **[NASA]** Strap In! NASA Aeroshell Material Takes Extended Space Trip
 - <a href="https://www.nasa.gov/humans-in-space/commercial-space/nasa-seeks-volunteers-to-track-artemis-ii-mission/" >🔗</a> **[NASA]** NASA Seeks Volunteers to Track Artemis II Mission
 - <a href="https://www.nasa.gov/image-article/portrait-of-an-astronaut/" >🔗</a> **[NASA]** Portrait of an Astronaut
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/08/Algae_bloom_chlorophyll_South_Australia" >🔗</a> **[ESA]** Algae bloom chlorophyll South Australia
 - <a href="https://www.esa.int/Space_Safety/Planetary_Defence/ESA_and_JAXA_advance_potential_Apophis_mission_collaboration" >🔗</a> **[ESA]** ESA and JAXA advance potential Apophis mission collaboration
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/08/Aurora_Australis_over_Concordia_station" >🔗</a> **[ESA]** Aurora Australis over Concordia station
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_investigates_complex_heart_of_a_cosmic_butterfly" >🔗</a> **[ESA]** Webb investigates complex heart of a cosmic butterfly
-- <a href="https://europeanspaceflight.com/avio-and-isar-aerospace-win-esa-flight-ticket-initiative-launch-contracts/" >🔗</a> **[European Spaceflight]** Avio and Isar Aerospace Win ESA Flight Ticket Initiative Launch Contracts
-- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Boost/Flight_Ticket_Initiative_first_five_missions_secured_with_Avio_and_Isar_Aerospace" >🔗</a> **[ESA]** Flight Ticket Initiative: first five missions secured with Avio and Isar Aerospace
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/08/Aurora_Australis_over_Concordia_station" >🔗</a> **[ESA]** Aurora Australis over Concordia station
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250827T190125">2025-08-27 19:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250827T193053">2025-08-27 19:30:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
