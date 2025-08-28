@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/goddard/katie-bisci-resourcing-for-big-science/" >🔗</a> **[NASA]** Katie Bisci: Resourcing for Big Science
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/08/Izana-2_joins_the_laser_game_to_track_space_debris" >🔗</a> **[ESA]** Izaña-2 joins the laser game to track space debris
 - <a href="https://science.nasa.gov/blog/over-soroya-ridge-onward/" >🔗</a> **[NASA]** Over Soroya Ridge & Onward!
 - <a href="https://spaceflightnow.com/2025/08/27/live-coverage-record-breaking-30th-flight-for-spacex-falcon-9-booster-as-it-launches-starlink-satellites/" >🔗</a> **[Spaceflight Now]** Live coverage: Record-breaking 30th flight planned for SpaceX Falcon 9 booster as it launches Starlink satellites
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/08/27/spacex-completes-400th-falcon-booster-landing-on-a-drone-ship/" >🔗</a> **[Spaceflight Now]** SpaceX completes 400th Falcon booster landing on a drone ship
 - <a href="https://www.nasa.gov/missions/artemis/artemis-2/meet-nasas-artemis-ii-moon-mission-masterminds/" >🔗</a> **[NASA]** Meet NASA’s Artemis II Moon Mission Masterminds
 - <a href="https://www.nasa.gov/centers-and-facilities/langley/strap-in-nasa-aeroshell-material-takes-extended-space-trip/" >🔗</a> **[NASA]** Strap In! NASA Aeroshell Material Takes Extended Space Trip
-- <a href="https://www.nasa.gov/humans-in-space/commercial-space/nasa-seeks-volunteers-to-track-artemis-ii-mission/" >🔗</a> **[NASA]** NASA Seeks Volunteers to Track Artemis II Mission
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250828T113100">2025-08-28 11:31:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250828T120147">2025-08-28 12:01:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
