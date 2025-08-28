@@ -103,13 +103,14 @@ into *a Low Earth Orbit
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2025/08/27/live-coverage-record-breaking-30th-flight-for-spacex-falcon-9-booster-as-it-launches-starlink-satellites/" >🔗</a> **[Spaceflight Now]** Live coverage: Record-breaking 30th flight planned for SpaceX Falcon 9 booster as it launches Starlink satellites
 - <a href="https://www.nasaspaceflight.com/2025/08/launch-roundup-08-25-25/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Starship, NS-35, and Falcon 9 launches planned
 - <a href="https://www.nasaspaceflight.com/2025/08/vulcan-ariane-starlink-missions/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Vulcan and Ariane to launch ahead of Starlink missions
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250828T070124">2025-08-28 07:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250828T073218">2025-08-28 07:32:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
