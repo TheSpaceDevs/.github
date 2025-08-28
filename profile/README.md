@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/08/with-recent-falcon-9-milestones-spacex-vindicates-its-dumb-approach-to-reuse/" >🔗</a> **[Arstechnica]** With recent Falcon 9 milestones, SpaceX vindicates its “dumb” approach to reuse
+- <a href="https://europeanspaceflight.com/maiaspace-completes-burst-test-campaign-and-begins-orbital-vehicle-development/" >🔗</a> **[European Spaceflight]** MaiaSpace Completes Burst Test Campaign and Begins Orbital Vehicle Development
 - <a href="https://www.nasa.gov/centers-and-facilities/goddard/katie-bisci-resourcing-for-big-science/" >🔗</a> **[NASA]** Katie Bisci: Resourcing for Big Science
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/08/Izana-2_joins_the_laser_game_to_track_space_debris" >🔗</a> **[ESA]** Izaña-2 joins the laser game to track space debris
 - <a href="https://science.nasa.gov/blog/over-soroya-ridge-onward/" >🔗</a> **[NASA]** Over Soroya Ridge & Onward!
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/earth/patagonia-glacier-retreat-chile/" >🔗</a> **[NASA]** Patagonia Glacier retreat, Chile
 - <a href="https://www.nasaspaceflight.com/2025/08/starship-rises-ashes-block-2-ship-37/" >🔗</a> **[NASASpaceflight]** The Starship Program rises from the ashes of Block 2 with Ship 37
 - <a href="https://spaceflightnow.com/2025/08/27/spacex-completes-400th-falcon-booster-landing-on-a-drone-ship/" >🔗</a> **[Spaceflight Now]** SpaceX completes 400th Falcon booster landing on a drone ship
-- <a href="https://www.nasa.gov/missions/artemis/artemis-2/meet-nasas-artemis-ii-moon-mission-masterminds/" >🔗</a> **[NASA]** Meet NASA’s Artemis II Moon Mission Masterminds
-- <a href="https://www.nasa.gov/centers-and-facilities/langley/strap-in-nasa-aeroshell-material-takes-extended-space-trip/" >🔗</a> **[NASA]** Strap In! NASA Aeroshell Material Takes Extended Space Trip
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250828T150133">2025-08-28 15:01:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250828T153329">2025-08-28 15:33:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
