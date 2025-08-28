@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-learn-about-new-missions-to-map-suns-influence/" >🔗</a> **[NASA]** NASA Invites Media to Learn About New Missions to Map Sun’s Influence
 - <a href="https://www.nasa.gov/missions/insight/nasa-marsquake-data-reveals-lumpy-nature-of-red-planets-interior/" >🔗</a> **[NASA]** NASA Marsquake Data Reveals Lumpy Nature of Red Planet’s Interior
 - <a href="https://www.nasa.gov/news-release/nasa-international-astronauts-to-address-students-from-new-york/" >🔗</a> **[NASA]** NASA, International Astronauts to Address Students from New York
 - <a href="https://www.nasa.gov/earth/nasa-helps-md-county-beat-heat/" >🔗</a> **[NASA]** NASA Scientists Help Maryland County Plan to Beat Summer Heat Risks
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/goddard/katie-bisci-resourcing-for-big-science/" >🔗</a> **[NASA]** Katie Bisci: Resourcing for Big Science
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/08/Izana-2_joins_the_laser_game_to_track_space_debris" >🔗</a> **[ESA]** Izaña-2 joins the laser game to track space debris
 - <a href="https://science.nasa.gov/blog/over-soroya-ridge-onward/" >🔗</a> **[NASA]** Over Soroya Ridge & Onward!
-- <a href="https://spaceflightnow.com/2025/08/27/live-coverage-record-breaking-30th-flight-for-spacex-falcon-9-booster-as-it-launches-starlink-satellites/" >🔗</a> **[Spaceflight Now]** Live coverage: Record-breaking 30th flight planned for SpaceX Falcon 9 booster as it launches Starlink satellites
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250828T193056">2025-08-28 19:30:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250828T200141">2025-08-28 20:01:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
