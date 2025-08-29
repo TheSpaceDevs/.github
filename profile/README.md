@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-astronaut-megan-mcarthur-retires/" >🔗</a> **[NASA]** NASA Astronaut Megan McArthur Retires
+- <a href="https://www.nasa.gov/image-article/landsat-9-sees-buccaneer-archipelago/" >🔗</a> **[NASA]** Landsat 9 Sees Buccaneer Archipelago
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/08/Webb_observations_of_interstellar_comet_3I_ATLAS" >🔗</a> **[ESA]** Webb observations of interstellar comet 3I/ATLAS
 - <a href="https://science.nasa.gov/missions/hubble/hubble-homes-in-on-galaxys-star-formation/" >🔗</a> **[NASA]** Hubble Homes in on Galaxy’s Star Formation
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_25-29_August_2025" >🔗</a> **[ESA]** Week in images: 25-29 August 2025
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Dusty_wisps_round_a_dusty_disc" >🔗</a> **[ESA]** Dusty wisps round a dusty disc
 - <a href="https://www.nasa.gov/news-release/nasa-awards-spaceflight-operations-systems-organization-contract/" >🔗</a> **[NASA]** NASA Awards Spaceflight Operations, Systems Organization Contract
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-learn-about-new-missions-to-map-suns-influence/" >🔗</a> **[NASA]** NASA Invites Media to Learn About New Missions to Map Sun’s Influence
-- <a href="https://www.nasa.gov/missions/insight/nasa-marsquake-data-reveals-lumpy-nature-of-red-planets-interior/" >🔗</a> **[NASA]** NASA Marsquake Data Reveals Lumpy Nature of Red Planet’s Interior
-- <a href="https://www.nasa.gov/news-release/nasa-international-astronauts-to-address-students-from-new-york/" >🔗</a> **[NASA]** NASA, International Astronauts to Address Students from New York
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250829T150128">2025-08-29 15:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250829T153202">2025-08-29 15:32:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
