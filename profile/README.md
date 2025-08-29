@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/08/Webb_observations_of_interstellar_comet_3I_ATLAS" >🔗</a> **[ESA]** Webb observations of interstellar comet 3I/ATLAS
+- <a href="https://science.nasa.gov/missions/hubble/hubble-homes-in-on-galaxys-star-formation/" >🔗</a> **[NASA]** Hubble Homes in on Galaxy’s Star Formation
+- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_25-29_August_2025" >🔗</a> **[ESA]** Week in images: 25-29 August 2025
 - <a href="https://europeanspaceflight.com/avio-signs-new-tactical-propulsion-agreement-with-us-armed-forces/" >🔗</a> **[European Spaceflight]** Avio Signs New Tactical Propulsion Agreement with US Armed Forces
 - <a href="https://spaceflightnow.com/2025/08/29/nasa-noaa-prep-spacecraft-trio-to-study-the-sun-and-its-impacts/" >🔗</a> **[Spaceflight Now]** NASA, NOAA prep spacecraft trio to study the Sun and its impacts
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Dusty_wisps_round_a_dusty_disc" >🔗</a> **[ESA]** Dusty wisps round a dusty disc
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-learn-about-new-missions-to-map-suns-influence/" >🔗</a> **[NASA]** NASA Invites Media to Learn About New Missions to Map Sun’s Influence
 - <a href="https://www.nasa.gov/missions/insight/nasa-marsquake-data-reveals-lumpy-nature-of-red-planets-interior/" >🔗</a> **[NASA]** NASA Marsquake Data Reveals Lumpy Nature of Red Planet’s Interior
 - <a href="https://www.nasa.gov/news-release/nasa-international-astronauts-to-address-students-from-new-york/" >🔗</a> **[NASA]** NASA, International Astronauts to Address Students from New York
-- <a href="https://www.nasa.gov/earth/nasa-helps-md-county-beat-heat/" >🔗</a> **[NASA]** NASA Scientists Help Maryland County Plan to Beat Summer Heat Risks
-- <a href="https://www.nasa.gov/missions/chandra/nasas-chandra-reveals-stars-inner-conflict-before-explosion/" >🔗</a> **[NASA]** NASA’s Chandra Reveals Star’s Inner Conflict Before Explosion
-- <a href="https://arstechnica.com/space/2025/08/with-recent-falcon-9-milestones-spacex-vindicates-its-dumb-approach-to-reuse/" >🔗</a> **[Arstechnica]** With recent Falcon 9 milestones, SpaceX vindicates its “dumb” approach to reuse
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250829T140128">2025-08-29 14:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250829T143420">2025-08-29 14:34:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
