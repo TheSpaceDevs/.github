@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/avio-signs-new-tactical-propulsion-agreement-with-us-armed-forces/" >🔗</a> **[European Spaceflight]** Avio Signs New Tactical Propulsion Agreement with US Armed Forces
 - <a href="https://spaceflightnow.com/2025/08/29/nasa-noaa-prep-spacecraft-trio-to-study-the-sun-and-its-impacts/" >🔗</a> **[Spaceflight Now]** NASA, NOAA prep spacecraft trio to study the Sun and its impacts
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Dusty_wisps_round_a_dusty_disc" >🔗</a> **[ESA]** Dusty wisps round a dusty disc
 - <a href="https://www.nasa.gov/news-release/nasa-awards-spaceflight-operations-systems-organization-contract/" >🔗</a> **[NASA]** NASA Awards Spaceflight Operations, Systems Organization Contract
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/earth/nasa-helps-md-county-beat-heat/" >🔗</a> **[NASA]** NASA Scientists Help Maryland County Plan to Beat Summer Heat Risks
 - <a href="https://www.nasa.gov/missions/chandra/nasas-chandra-reveals-stars-inner-conflict-before-explosion/" >🔗</a> **[NASA]** NASA’s Chandra Reveals Star’s Inner Conflict Before Explosion
 - <a href="https://arstechnica.com/space/2025/08/with-recent-falcon-9-milestones-spacex-vindicates-its-dumb-approach-to-reuse/" >🔗</a> **[Arstechnica]** With recent Falcon 9 milestones, SpaceX vindicates its “dumb” approach to reuse
-- <a href="https://europeanspaceflight.com/maiaspace-completes-burst-test-campaign-and-begins-orbital-vehicle-development/" >🔗</a> **[European Spaceflight]** MaiaSpace Completes Burst Test Campaign and Begins Orbital Vehicle Development
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250829T130734">2025-08-29 13:07:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250829T133611">2025-08-29 13:36:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
