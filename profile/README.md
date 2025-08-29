@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/08/spacex-got-good-heat-shield-data-for-starship-so-what-comes-next/" >🔗</a> **[Arstechnica]** SpaceX got good heat shield data for Starship, so what comes next?
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-megan-mcarthur-retires/" >🔗</a> **[NASA]** NASA Astronaut Megan McArthur Retires
 - <a href="https://www.nasa.gov/image-article/landsat-9-sees-buccaneer-archipelago/" >🔗</a> **[NASA]** Landsat 9 Sees Buccaneer Archipelago
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/08/Webb_observations_of_interstellar_comet_3I_ATLAS" >🔗</a> **[ESA]** Webb observations of interstellar comet 3I/ATLAS
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/08/29/nasa-noaa-prep-spacecraft-trio-to-study-the-sun-and-its-impacts/" >🔗</a> **[Spaceflight Now]** NASA, NOAA prep spacecraft trio to study the Sun and its impacts
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Dusty_wisps_round_a_dusty_disc" >🔗</a> **[ESA]** Dusty wisps round a dusty disc
 - <a href="https://www.nasa.gov/news-release/nasa-awards-spaceflight-operations-systems-organization-contract/" >🔗</a> **[NASA]** NASA Awards Spaceflight Operations, Systems Organization Contract
-- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-learn-about-new-missions-to-map-suns-influence/" >🔗</a> **[NASA]** NASA Invites Media to Learn About New Missions to Map Sun’s Influence
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250829T160126">2025-08-29 16:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250829T163626">2025-08-29 16:36:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
