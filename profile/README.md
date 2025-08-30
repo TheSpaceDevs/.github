@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/08/30/live-coverage-spacexs-sunday-morning-falcon-9-launch-will-send-1900th-starlink-to-orbit-in-2025/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX’s Sunday morning Falcon 9 launch will send 1,900th Starlink to orbit in 2025
 - <a href="https://www.nasaspaceflight.com/2025/08/rocket-lab-inaugurates-lc-3-wallops/" >🔗</a> **[NASASpaceflight]** Rocket Lab inaugurates LC-3 at Wallops
 - <a href="https://spaceflightnow.com/2025/08/29/live-coverage-spacex-to-launch-24-starlink-satellites-into-polar-orbit/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites into polar orbit
 - <a href="https://arstechnica.com/space/2025/08/spacex-got-good-heat-shield-data-for-starship-so-what-comes-next/" >🔗</a> **[Arstechnica]** SpaceX got good heat shield data for Starship, so what comes next?
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/missions/hubble/hubble-homes-in-on-galaxys-star-formation/" >🔗</a> **[NASA]** Hubble Homes in on Galaxy’s Star Formation
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_25-29_August_2025" >🔗</a> **[ESA]** Week in images: 25-29 August 2025
 - <a href="https://europeanspaceflight.com/avio-signs-new-tactical-propulsion-agreement-with-us-armed-forces/" >🔗</a> **[European Spaceflight]** Avio Signs New Tactical Propulsion Agreement with US Armed Forces
-- <a href="https://spaceflightnow.com/2025/08/29/nasa-noaa-prep-spacecraft-trio-to-study-the-sun-and-its-impacts/" >🔗</a> **[Spaceflight Now]** NASA, NOAA prep spacecraft trio to study the Sun and its impacts
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250830T173114">2025-08-30 17:31:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250830T180135">2025-08-30 18:01:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
