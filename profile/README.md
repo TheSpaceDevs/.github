@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/08/moonquakes-a17-lro/" >🔗</a> **[NASASpaceflight]** Scientists investigate moonquakes using Apollo 17 samples, LRO observations
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-31-september-6-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy August 31-September 6, 2025
 - <a href="https://spaceflightnow.com/2025/08/30/live-coverage-spacexs-sunday-morning-falcon-9-launch-will-send-1900th-starlink-to-orbit-in-2025/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX’s Sunday morning Falcon 9 launch will send 1,900th Starlink to orbit in 2025
 - <a href="https://www.nasaspaceflight.com/2025/08/rocket-lab-inaugurates-lc-3-wallops/" >🔗</a> **[NASASpaceflight]** Rocket Lab inaugurates LC-3 at Wallops
 - <a href="https://spaceflightnow.com/2025/08/29/live-coverage-spacex-to-launch-24-starlink-satellites-into-polar-orbit/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites into polar orbit
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/landsat-9-sees-buccaneer-archipelago/" >🔗</a> **[NASA]** Landsat 9 Sees Buccaneer Archipelago
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/08/Webb_observations_of_interstellar_comet_3I_ATLAS" >🔗</a> **[ESA]** Webb observations of interstellar comet 3I/ATLAS
 - <a href="https://science.nasa.gov/missions/hubble/hubble-homes-in-on-galaxys-star-formation/" >🔗</a> **[NASA]** Hubble Homes in on Galaxy’s Star Formation
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_25-29_August_2025" >🔗</a> **[ESA]** Week in images: 25-29 August 2025
-- <a href="https://europeanspaceflight.com/avio-signs-new-tactical-propulsion-agreement-with-us-armed-forces/" >🔗</a> **[European Spaceflight]** Avio Signs New Tactical Propulsion Agreement with US Armed Forces
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250831T210126">2025-08-31 21:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250831T213100">2025-08-31 21:31:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
