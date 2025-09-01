@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/09/launch-roundup-090125/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX to launch five Falcon 9 missions this week
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Double_trouble_Solar_Orbiter_traces_superfast_electrons_back_to_Sun" >🔗</a> **[ESA]** Double trouble: Solar Orbiter traces superfast electrons back to Sun
 - <a href="https://spacepolicyonline.com/news/trumps-labor-union-eo-designates-nasa-as-primarily-intelligence-national-security-agency/" >🔗</a> **[SpacePolicyOnline.com]** Trump’s Labor Union EO Designates NASA as Primarily An Intelligence/National Security Agency
 - <a href="https://www.nasaspaceflight.com/2025/08/moonquakes-a17-lro/" >🔗</a> **[NASASpaceflight]** Scientists investigate moonquakes using Apollo 17 samples, LRO observations
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/08/29/live-coverage-spacex-to-launch-24-starlink-satellites-into-polar-orbit/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites into polar orbit
 - <a href="https://arstechnica.com/space/2025/08/spacex-got-good-heat-shield-data-for-starship-so-what-comes-next/" >🔗</a> **[Arstechnica]** SpaceX got good heat shield data for Starship, so what comes next?
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-megan-mcarthur-retires/" >🔗</a> **[NASA]** NASA Astronaut Megan McArthur Retires
-- <a href="https://www.nasa.gov/image-article/landsat-9-sees-buccaneer-archipelago/" >🔗</a> **[NASA]** Landsat 9 Sees Buccaneer Archipelago
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250901T220127">2025-09-01 22:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250901T223409">2025-09-01 22:34:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
