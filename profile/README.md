@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/trumps-labor-union-eo-designates-nasa-as-primarily-intelligence-national-security-agency/" >🔗</a> **[SpacePolicyOnline.com]** Trump’s Labor Union EO Designates NASA as Primarily An Intelligence/National Security Agency
 - <a href="https://www.nasaspaceflight.com/2025/08/moonquakes-a17-lro/" >🔗</a> **[NASASpaceflight]** Scientists investigate moonquakes using Apollo 17 samples, LRO observations
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-31-september-6-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy August 31-September 6, 2025
 - <a href="https://spaceflightnow.com/2025/08/30/live-coverage-spacexs-sunday-morning-falcon-9-launch-will-send-1900th-starlink-to-orbit-in-2025/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX’s Sunday morning Falcon 9 launch will send 1,900th Starlink to orbit in 2025
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-megan-mcarthur-retires/" >🔗</a> **[NASA]** NASA Astronaut Megan McArthur Retires
 - <a href="https://www.nasa.gov/image-article/landsat-9-sees-buccaneer-archipelago/" >🔗</a> **[NASA]** Landsat 9 Sees Buccaneer Archipelago
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/08/Webb_observations_of_interstellar_comet_3I_ATLAS" >🔗</a> **[ESA]** Webb observations of interstellar comet 3I/ATLAS
-- <a href="https://science.nasa.gov/missions/hubble/hubble-homes-in-on-galaxys-star-formation/" >🔗</a> **[NASA]** Hubble Homes in on Galaxy’s Star Formation
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250901T040647">2025-09-01 04:06:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250901T043804">2025-09-01 04:38:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
