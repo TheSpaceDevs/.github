@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://europeanspaceflight.com/eu-to-commission-mobile-responsive-launch-system-studies/" >🔗</a> **[European Spaceflight]** EU to Commission Mobile Responsive Launch System Studies
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/MetOp_Second_Generation/New_MetOp_Second_Generation_weather_satellite_returns_first_data" >🔗</a> **[ESA]** New MetOp Second Generation weather satellite returns first data
 - <a href="https://www.nasaspaceflight.com/2025/09/launch-roundup-090125/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX to launch five Falcon 9 missions this week
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Double_trouble_Solar_Orbiter_traces_superfast_electrons_back_to_Sun" >🔗</a> **[ESA]** Double trouble: Solar Orbiter traces superfast electrons back to Sun
 - <a href="https://spacepolicyonline.com/news/trumps-labor-union-eo-designates-nasa-as-primarily-intelligence-national-security-agency/" >🔗</a> **[SpacePolicyOnline.com]** Trump’s Labor Union EO Designates NASA as Primarily An Intelligence/National Security Agency
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/08/30/live-coverage-spacexs-sunday-morning-falcon-9-launch-will-send-1900th-starlink-to-orbit-in-2025/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX’s Sunday morning Falcon 9 launch will send 1,900th Starlink to orbit in 2025
 - <a href="https://www.nasaspaceflight.com/2025/08/rocket-lab-inaugurates-lc-3-wallops/" >🔗</a> **[NASASpaceflight]** Rocket Lab inaugurates LC-3 at Wallops
 - <a href="https://spaceflightnow.com/2025/08/29/live-coverage-spacex-to-launch-24-starlink-satellites-into-polar-orbit/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites into polar orbit
-- <a href="https://arstechnica.com/space/2025/08/spacex-got-good-heat-shield-data-for-starship-so-what-comes-next/" >🔗</a> **[Arstechnica]** SpaceX got good heat shield data for Starship, so what comes next?
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250902T090121">2025-09-02 09:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250902T093338">2025-09-02 09:33:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
