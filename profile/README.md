@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/09/spacex-mcgregor-raptor-3-hls/" >🔗</a> **[NASASpaceflight]** SpaceX McGregor looks to the future, from Raptor 3 to potential HLS testing
 - <a href="https://europeanspaceflight.com/eu-to-commission-mobile-responsive-launch-system-studies/" >🔗</a> **[European Spaceflight]** EU to Commission Mobile Responsive Launch System Studies
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/MetOp_Second_Generation/New_MetOp_Second_Generation_weather_satellite_returns_first_data" >🔗</a> **[ESA]** New MetOp Second Generation weather satellite returns first data
 - <a href="https://www.nasaspaceflight.com/2025/09/launch-roundup-090125/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX to launch five Falcon 9 missions this week
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-31-september-6-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy August 31-September 6, 2025
 - <a href="https://spaceflightnow.com/2025/08/30/live-coverage-spacexs-sunday-morning-falcon-9-launch-will-send-1900th-starlink-to-orbit-in-2025/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX’s Sunday morning Falcon 9 launch will send 1,900th Starlink to orbit in 2025
 - <a href="https://www.nasaspaceflight.com/2025/08/rocket-lab-inaugurates-lc-3-wallops/" >🔗</a> **[NASASpaceflight]** Rocket Lab inaugurates LC-3 at Wallops
-- <a href="https://spaceflightnow.com/2025/08/29/live-coverage-spacex-to-launch-24-starlink-satellites-into-polar-orbit/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites into polar orbit
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250902T120210">2025-09-02 12:02:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250902T124315">2025-09-02 12:43:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
