@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/09/ted-cruz-reminds-us-why-nasas-rocket-is-called-the-senate-launch-system/" >🔗</a> **[Arstechnica]** Ted Cruz reminds us why NASA’s rocket is called the “Senate Launch System”
 - <a href="https://science.nasa.gov/centers-and-facilities/jpl/whats-up-september-2025-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: September 2025 Skywatching Tips from NASA
 - <a href="https://www.nasa.gov/image-article/circular-star-trails/" >🔗</a> **[NASA]** Circular Star Trails
 - <a href="https://science.nasa.gov/directorates/stmd/advancing-single-photon-sensing-image-sensors-to-enable-the-search-for-life-beyond-earth/" >🔗</a> **[NASA]** Advancing Single-Photon Sensing Image Sensors to Enable the Search for Life Beyond Earth
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/MetOp_Second_Generation/New_MetOp_Second_Generation_weather_satellite_returns_first_data" >🔗</a> **[ESA]** New MetOp Second Generation weather satellite returns first data
 - <a href="https://www.nasaspaceflight.com/2025/09/launch-roundup-090125/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX to launch five Falcon 9 missions this week
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Double_trouble_Solar_Orbiter_traces_superfast_electrons_back_to_Sun" >🔗</a> **[ESA]** Double trouble: Solar Orbiter traces superfast electrons back to Sun
-- <a href="https://spacepolicyonline.com/news/trumps-labor-union-eo-designates-nasa-as-primarily-intelligence-national-security-agency/" >🔗</a> **[SpacePolicyOnline.com]** Trump’s Labor Union EO Designates NASA as Primarily An Intelligence/National Security Agency
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250902T170115">2025-09-02 17:01:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250902T173208">2025-09-02 17:32:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
