@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/trump-moves-u-s-space-command-to-alabama/" >🔗</a> **[SpacePolicyOnline.com]** Trump Moves U.S. Space Command to Alabama
 - <a href="https://spaceflightnow.com/2025/09/02/live-coverage-spacex-to-launch-28-starlink-satellites-on-wednesday-sunrise-falcon-9-flight/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Wednesday sunrise Falcon 9 flight
 - <a href="https://spaceflightnow.com/2025/09/02/live-coverage-spacexs-tuesday-night-starlink-features-rare-debut-of-a-falcon-booster/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX’s Tuesday night Starlink features rare debut of a Falcon booster
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-2026-human-lander-challenge/" >🔗</a> **[NASA]** NASA 2026 Human Lander Challenge
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/circular-star-trails/" >🔗</a> **[NASA]** Circular Star Trails
 - <a href="https://science.nasa.gov/directorates/stmd/advancing-single-photon-sensing-image-sensors-to-enable-the-search-for-life-beyond-earth/" >🔗</a> **[NASA]** Advancing Single-Photon Sensing Image Sensors to Enable the Search for Life Beyond Earth
 - <a href="https://www.nasa.gov/earth/tech-from-nasas-hurricane-hunting-tropics-flies-on-commercial-satellites/" >🔗</a> **[NASA]** Tech From NASA’s Hurricane-hunting TROPICS Flies on Commercial Satellites
-- <a href="https://www.nasaspaceflight.com/2025/09/spacex-mcgregor-raptor-3-hls/" >🔗</a> **[NASASpaceflight]** SpaceX McGregor looks to the future, from Raptor 3 to potential HLS testing
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250902T213051">2025-09-02 21:30:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250902T220154">2025-09-02 22:01:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
