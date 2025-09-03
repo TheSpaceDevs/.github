@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/09/persei-space/" >🔗</a> **[NASASpaceflight]** PERSEI Space to test tether solution for orbital mobility
 - <a href="https://tlpnetwork.com/news/america/faa-approves-expanded-spacex-falcon-9-operations-at-cape-canaverals-slc-40-with-new-landing-zone" >🔗</a> **[The Launch Pad]** FAA Approves Expanded Falcon 9 Operations at Cape Canaveral’s SLC-40 with New Landing Zone
 - <a href="https://www.nasa.gov/image-article/thinning-arctic-sea-ice/" >🔗</a> **[NASA]** Thinning Arctic Sea Ice
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/rock-and-roll-with-nasa-challenge/" >🔗</a> **[NASA]** Rock and Roll with NASA Challenge
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/missions/juno/juno-detected-the-final-missing-auroral-signature-from-jupiters-four-largest-moons/" >🔗</a> **[NASA]** Juno Detected the Final Missing Auroral Signature from Jupiter’s Four Largest Moons
 - <a href="https://www.nasa.gov/general/interview-with-dr-caleb-scharf/" >🔗</a> **[NASA]** Interview with Dr. Caleb Scharf
 - <a href="https://spacepolicyonline.com/news/trump-moves-u-s-space-command-to-alabama/" >🔗</a> **[SpacePolicyOnline.com]** Trump Moves U.S. Space Command to Alabama
-- <a href="https://spaceflightnow.com/2025/09/02/live-coverage-spacex-to-launch-28-starlink-satellites-on-wednesday-sunrise-falcon-9-flight/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Wednesday sunrise Falcon 9 flight
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250903T193056">2025-09-03 19:30:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250903T200143">2025-09-03 20:01:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
