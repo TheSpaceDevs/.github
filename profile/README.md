@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://tlpnetwork.com/news/america/faa-approves-expanded-spacex-falcon-9-operations-at-cape-canaverals-slc-40-with-new-landing-zone" >🔗</a> **[The Launch Pad]** FAA Approves Expanded Falcon 9 Operations at Cape Canaveral’s SLC-40 with New Landing Zone
 - <a href="https://www.nasa.gov/image-article/thinning-arctic-sea-ice/" >🔗</a> **[NASA]** Thinning Arctic Sea Ice
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/rock-and-roll-with-nasa-challenge/" >🔗</a> **[NASA]** Rock and Roll with NASA Challenge
 - <a href="https://www.nasa.gov/news-release/acting-nasa-administrator-duffy-selects-exploration-focused-associate-administrator/" >🔗</a> **[NASA]** Acting NASA Administrator Duffy Selects Exploration-Focused Associate Administrator
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/general/interview-with-dr-caleb-scharf/" >🔗</a> **[NASA]** Interview with Dr. Caleb Scharf
 - <a href="https://spacepolicyonline.com/news/trump-moves-u-s-space-command-to-alabama/" >🔗</a> **[SpacePolicyOnline.com]** Trump Moves U.S. Space Command to Alabama
 - <a href="https://spaceflightnow.com/2025/09/02/live-coverage-spacex-to-launch-28-starlink-satellites-on-wednesday-sunrise-falcon-9-flight/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Wednesday sunrise Falcon 9 flight
-- <a href="https://spaceflightnow.com/2025/09/02/live-coverage-spacexs-tuesday-night-starlink-features-rare-debut-of-a-falcon-booster/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX’s Tuesday night Starlink features rare debut of a Falcon booster
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250903T190105">2025-09-03 19:01:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250903T193056">2025-09-03 19:30:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
