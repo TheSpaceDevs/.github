@@ -104,12 +104,13 @@ into *a Low Earth Orbit
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2025/09/02/live-coverage-spacex-to-launch-28-starlink-satellites-on-wednesday-sunrise-falcon-9-flight/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Wednesday sunrise Falcon 9 flight
 - <a href="https://www.nasaspaceflight.com/2025/09/launch-roundup-090125/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX to launch five Falcon 9 missions this week
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250903T100134">2025-09-03 10:01:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250903T103427">2025-09-03 10:34:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
