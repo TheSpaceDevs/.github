@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/09/ted-cruz-criticizes-trump-plan-to-cancel-sls-and-lunar-gateway-as-folly/" >🔗</a> **[Arstechnica]** Ted Cruz criticizes Trump plan to cancel SLS and Lunar Gateway as “folly”
 - <a href="https://www.nasaspaceflight.com/2025/09/persei-space/" >🔗</a> **[NASASpaceflight]** PERSEI Space to test tether solution for orbital mobility
 - <a href="https://tlpnetwork.com/news/america/faa-approves-expanded-spacex-falcon-9-operations-at-cape-canaverals-slc-40-with-new-landing-zone" >🔗</a> **[The Launch Pad]** FAA Approves Expanded Falcon 9 Operations at Cape Canaveral’s SLC-40 with New Landing Zone
 - <a href="https://www.nasa.gov/image-article/thinning-arctic-sea-ice/" >🔗</a> **[NASA]** Thinning Arctic Sea Ice
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/09/A_robotic_real-time_strategy_game_in_space" >🔗</a> **[ESA]** A robotic real-time strategy game in space
 - <a href="https://science.nasa.gov/missions/juno/juno-detected-the-final-missing-auroral-signature-from-jupiters-four-largest-moons/" >🔗</a> **[NASA]** Juno Detected the Final Missing Auroral Signature from Jupiter’s Four Largest Moons
 - <a href="https://www.nasa.gov/general/interview-with-dr-caleb-scharf/" >🔗</a> **[NASA]** Interview with Dr. Caleb Scharf
-- <a href="https://spacepolicyonline.com/news/trump-moves-u-s-space-command-to-alabama/" >🔗</a> **[SpacePolicyOnline.com]** Trump Moves U.S. Space Command to Alabama
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250903T210122">2025-09-03 21:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250903T213101">2025-09-03 21:31:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
