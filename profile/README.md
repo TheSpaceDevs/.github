@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/thinning-arctic-sea-ice/" >🔗</a> **[NASA]** Thinning Arctic Sea Ice
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/rock-and-roll-with-nasa-challenge/" >🔗</a> **[NASA]** Rock and Roll with NASA Challenge
 - <a href="https://www.nasa.gov/news-release/acting-nasa-administrator-duffy-selects-exploration-focused-associate-administrator/" >🔗</a> **[NASA]** Acting NASA Administrator Duffy Selects Exploration-Focused Associate Administrator
 - <a href="https://europeanspaceflight.com/cnes-signs-e31m-contract-for-space-based-5g-connectivity-demo/" >🔗</a> **[European Spaceflight]** CNES Signs €31M Contract for Space-Based 5G Connectivity Demo
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacepolicyonline.com/news/trump-moves-u-s-space-command-to-alabama/" >🔗</a> **[SpacePolicyOnline.com]** Trump Moves U.S. Space Command to Alabama
 - <a href="https://spaceflightnow.com/2025/09/02/live-coverage-spacex-to-launch-28-starlink-satellites-on-wednesday-sunrise-falcon-9-flight/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Wednesday sunrise Falcon 9 flight
 - <a href="https://spaceflightnow.com/2025/09/02/live-coverage-spacexs-tuesday-night-starlink-features-rare-debut-of-a-falcon-booster/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX’s Tuesday night Starlink features rare debut of a Falcon booster
-- <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-2026-human-lander-challenge/" >🔗</a> **[NASA]** NASA 2026 Human Lander Challenge
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250903T150214">2025-09-03 15:02:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250903T153339">2025-09-03 15:33:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
