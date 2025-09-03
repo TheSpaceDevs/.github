@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/09/A_robotic_real-time_strategy_game_in_space" >🔗</a> **[ESA]** A robotic real-time strategy game in space
 - <a href="https://science.nasa.gov/missions/juno/juno-detected-the-final-missing-auroral-signature-from-jupiters-four-largest-moons/" >🔗</a> **[NASA]** Juno Detected the Final Missing Auroral Signature from Jupiter’s Four Largest Moons
 - <a href="https://www.nasa.gov/general/interview-with-dr-caleb-scharf/" >🔗</a> **[NASA]** Interview with Dr. Caleb Scharf
 - <a href="https://spacepolicyonline.com/news/trump-moves-u-s-space-command-to-alabama/" >🔗</a> **[SpacePolicyOnline.com]** Trump Moves U.S. Space Command to Alabama
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/lydia-rodriguez-builds-a-career-of-service-and-support-at-nasa/" >🔗</a> **[NASA]** Lydia Rodriguez Builds a Career of Service and Support at NASA
 - <a href="https://arstechnica.com/space/2025/09/ted-cruz-reminds-us-why-nasas-rocket-is-called-the-senate-launch-system/" >🔗</a> **[Arstechnica]** Ted Cruz reminds us why NASA’s rocket is called the “Senate Launch System”
 - <a href="https://science.nasa.gov/centers-and-facilities/jpl/whats-up-september-2025-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: September 2025 Skywatching Tips from NASA
-- <a href="https://www.nasa.gov/image-article/circular-star-trails/" >🔗</a> **[NASA]** Circular Star Trails
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250903T073122">2025-09-03 07:31:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250903T080149">2025-09-03 08:01:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
