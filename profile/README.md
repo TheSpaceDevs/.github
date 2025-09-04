@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/09/nasa-bridenstine-moon-china/" >🔗</a> **[NASASpaceflight]** Former NASA Boss Bridenstine: US “Highly Unlikely” to Land on Moon Before China
 - <a href="https://spacepolicyonline.com/news/senators-insist-artemis-must-get-america-back-to-the-moon-before-china/" >🔗</a> **[SpacePolicyOnline.com]** Senators Insist Artemis Must Get America Back to the Moon Before China
 - <a href="https://arstechnica.com/space/2025/09/ted-cruz-criticizes-trump-plan-to-cancel-sls-and-lunar-gateway-as-folly/" >🔗</a> **[Arstechnica]** Ted Cruz criticizes Trump plan to cancel SLS and Lunar Gateway as “folly”
 - <a href="https://www.nasaspaceflight.com/2025/09/persei-space/" >🔗</a> **[NASASpaceflight]** PERSEI Space to test tether solution for orbital mobility
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/news-release/acting-nasa-administrator-duffy-selects-exploration-focused-associate-administrator/" >🔗</a> **[NASA]** Acting NASA Administrator Duffy Selects Exploration-Focused Associate Administrator
 - <a href="https://europeanspaceflight.com/cnes-signs-e31m-contract-for-space-based-5g-connectivity-demo/" >🔗</a> **[European Spaceflight]** CNES Signs €31M Contract for Space-Based 5G Connectivity Demo
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/09/A_robotic_real-time_strategy_game_in_space" >🔗</a> **[ESA]** A robotic real-time strategy game in space
-- <a href="https://science.nasa.gov/missions/juno/juno-detected-the-final-missing-auroral-signature-from-jupiters-four-largest-moons/" >🔗</a> **[NASA]** Juno Detected the Final Missing Auroral Signature from Jupiter’s Four Largest Moons
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250904T004534">2025-09-04 00:45:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250904T012828">2025-09-04 01:28:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
