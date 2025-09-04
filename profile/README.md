@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/09/ksc-starship-foundation/" >🔗</a> **[NASASpaceflight]** East Coast steps up a gear for Starship’s arrival
 - <a href="https://spaceflightnow.com/2025/09/04/live-coverage-spacex-aims-for-500th-falcon-booster-landing-amid-sunrise-starlink-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX aims for 500th Falcon booster landing amid sunrise Starlink mission
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4641-4648-thinking-outside-and-inside-the-boxwork/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4641-4648: Thinking Outside and Inside the ‘Boxwork’
 - <a href="https://tlpnetwork.com/news/america/nasa-names-amit-kshatriya-associate-administrator-signaling-renewed-focus-on-exploration" >🔗</a> **[The Launch Pad]** NASA Names Amit Kshatriya Associate Administrator, Signaling Renewed Focus on Exploration
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/missions/station/iss-research/nasa-northrop-grumman-to-send-medical-technology-studies-to-space/" >🔗</a> **[NASA]** NASA, Northrop Grumman to Send Medical, Technology Studies to Space
 - <a href="https://www.nasa.gov/image-article/nasa-astronauts-jonny-kim-and-zena-cardman-pose-for-a-portrait-in-the-unity-module/" >🔗</a> **[NASA]** NASA astronauts Jonny Kim and Zena Cardman pose for a portrait in the Unity module
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/09/Glittering_glimpse_of_star_birth" >🔗</a> **[ESA]** Glittering glimpse of star birth
-- <a href="https://www.nasa.gov/image-article/co-patricia-white-helps-moon-journey/" >🔗</a> **[NASA]** NASA Contract Officer Helps Power Journey Back to the Moon
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250904T220130">2025-09-04 22:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250904T223247">2025-09-04 22:32:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
