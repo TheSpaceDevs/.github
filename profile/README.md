@@ -91,6 +91,7 @@ into *an Unknown
 
 ### Latest News ⌛
 - <a href="https://europeanspaceflight.com/orbital-paradigm-secures-three-customers-for-2025-reentry-capsule-demo/" >🔗</a> **[European Spaceflight]** Orbital Paradigm Secures Three Customers for 2025 Reentry Capsule Demo
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Second_MTG-Imager_satellite_passes_thermal_vacuum_test" >🔗</a> **[ESA]** Second MTG-Imager satellite passes thermal vacuum test
 - <a href="https://www.nasaspaceflight.com/2025/09/nasa-bridenstine-moon-china/" >🔗</a> **[NASASpaceflight]** Former NASA Boss Bridenstine: US “Highly Unlikely” to Land on Moon Before China
 - <a href="https://spacepolicyonline.com/news/senators-insist-artemis-must-get-america-back-to-the-moon-before-china/" >🔗</a> **[SpacePolicyOnline.com]** Senators Insist Artemis Must Get America Back to the Moon Before China
 - <a href="https://arstechnica.com/space/2025/09/ted-cruz-criticizes-trump-plan-to-cancel-sls-and-lunar-gateway-as-folly/" >🔗</a> **[Arstechnica]** Ted Cruz criticizes Trump plan to cancel SLS and Lunar Gateway as “folly”
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/image-article/thinning-arctic-sea-ice/" >🔗</a> **[NASA]** Thinning Arctic Sea Ice
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/rock-and-roll-with-nasa-challenge/" >🔗</a> **[NASA]** Rock and Roll with NASA Challenge
 - <a href="https://www.nasa.gov/news-release/acting-nasa-administrator-duffy-selects-exploration-focused-associate-administrator/" >🔗</a> **[NASA]** Acting NASA Administrator Duffy Selects Exploration-Focused Associate Administrator
-- <a href="https://europeanspaceflight.com/cnes-signs-e31m-contract-for-space-based-5g-connectivity-demo/" >🔗</a> **[European Spaceflight]** CNES Signs €31M Contract for Space-Based 5G Connectivity Demo
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250904T110126">2025-09-04 11:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250904T113105">2025-09-04 11:31:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
