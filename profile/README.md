@@ -90,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-techrise-student-challenge-5/" >🔗</a> **[NASA]** NASA TechRise Student Challenge 5
+- <a href="https://science.nasa.gov/science-research/heliophysics/upcoming-launch-to-boost-nasas-study-of-suns-influence-across-space/" >🔗</a> **[NASA]** Upcoming Launch to Boost NASA’s Study of Sun’s Influence Across Space
 - <a href="https://www.nasa.gov/missions/station/iss-research/nasa-northrop-grumman-to-send-medical-technology-studies-to-space/" >🔗</a> **[NASA]** NASA, Northrop Grumman to Send Medical, Technology Studies to Space
 - <a href="https://www.nasa.gov/image-article/nasa-astronauts-jonny-kim-and-zena-cardman-pose-for-a-portrait-in-the-unity-module/" >🔗</a> **[NASA]** NASA astronauts Jonny Kim and Zena Cardman pose for a portrait in the Unity module
 - <a href="https://www.nasa.gov/image-article/co-patricia-white-helps-moon-journey/" >🔗</a> **[NASA]** NASA Contract Officer Helps Power Journey Back to the Moon
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/09/Glittering_glimpse_of_star_birth" >🔗</a> **[ESA]** Glittering glimpse of star birth
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/09/Glittering_glimpse_of_starbirth" >🔗</a> **[ESA]** Glittering glimpse of starbirth
 - <a href="https://science.nasa.gov/missions/webb/glittering-glimpse-of-star-birth-from-nasas-webb-telescope/" >🔗</a> **[NASA]** Glittering Glimpse of Star Birth From NASA’s Webb Telescope
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/09/Glittering_glimpse_of_star_birth" >🔗</a> **[ESA]** Glittering glimpse of star birth
 - <a href="https://www.esa.int/Applications/Satellite_navigation/LEO-PNT/Galileo_daughter_mission_name_revealed_Celeste" >🔗</a> **[ESA]** Galileo ‘daughter mission’ name revealed: Celeste
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenn-tests-mini-x-ray-technology-to-advance-space-health-care/" >🔗</a> **[NASA]** NASA Glenn Tests Mini-X-Ray Technology to Advance Space Health Care
-- <a href="https://europeanspaceflight.com/orbital-paradigm-secures-three-customers-for-2025-reentry-capsule-demo/" >🔗</a> **[European Spaceflight]** Orbital Paradigm Secures Three Customers for 2025 Reentry Capsule Demo
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Second_MTG-Imager_satellite_passes_thermal_vacuum_test" >🔗</a> **[ESA]** Second MTG-Imager satellite passes thermal vacuum test
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250904T160145">2025-09-04 16:01:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250904T163615">2025-09-04 16:36:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
