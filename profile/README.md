@@ -90,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/station/iss-research/nasa-northrop-grumman-to-send-medical-technology-studies-to-space/" >🔗</a> **[NASA]** NASA, Northrop Grumman to Send Medical, Technology Studies to Space
+- <a href="https://www.nasa.gov/image-article/nasa-astronauts-jonny-kim-and-zena-cardman-pose-for-a-portrait-in-the-unity-module/" >🔗</a> **[NASA]** NASA astronauts Jonny Kim and Zena Cardman pose for a portrait in the Unity module
 - <a href="https://www.nasa.gov/image-article/co-patricia-white-helps-moon-journey/" >🔗</a> **[NASA]** NASA Contract Officer Helps Power Journey Back to the Moon
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/09/Glittering_glimpse_of_starbirth" >🔗</a> **[ESA]** Glittering glimpse of starbirth
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/09/Glittering_glimpse_of_star_birth" >🔗</a> **[ESA]** Glittering glimpse of star birth
 - <a href="https://science.nasa.gov/missions/webb/glittering-glimpse-of-star-birth-from-nasas-webb-telescope/" >🔗</a> **[NASA]** Glittering Glimpse of Star Birth From NASA’s Webb Telescope
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/09/Glittering_glimpse_of_star_birth" >🔗</a> **[ESA]** Glittering glimpse of star birth
 - <a href="https://www.esa.int/Applications/Satellite_navigation/LEO-PNT/Galileo_daughter_mission_name_revealed_Celeste" >🔗</a> **[ESA]** Galileo ‘daughter mission’ name revealed: Celeste
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenn-tests-mini-x-ray-technology-to-advance-space-health-care/" >🔗</a> **[NASA]** NASA Glenn Tests Mini-X-Ray Technology to Advance Space Health Care
 - <a href="https://europeanspaceflight.com/orbital-paradigm-secures-three-customers-for-2025-reentry-capsule-demo/" >🔗</a> **[European Spaceflight]** Orbital Paradigm Secures Three Customers for 2025 Reentry Capsule Demo
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Second_MTG-Imager_satellite_passes_thermal_vacuum_test" >🔗</a> **[ESA]** Second MTG-Imager satellite passes thermal vacuum test
-- <a href="https://www.nasaspaceflight.com/2025/09/nasa-bridenstine-moon-china/" >🔗</a> **[NASASpaceflight]** Former NASA Boss Bridenstine: US “Highly Unlikely” to Land on Moon Before China
-- <a href="https://spacepolicyonline.com/news/senators-insist-artemis-must-get-america-back-to-the-moon-before-china/" >🔗</a> **[SpacePolicyOnline.com]** Senators Insist Artemis Must Get America Back to the Moon Before China
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250904T150134">2025-09-04 15:01:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250904T153334">2025-09-04 15:33:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
