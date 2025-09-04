@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenn-tests-mini-x-ray-technology-to-advance-space-health-care/" >🔗</a> **[NASA]** NASA Glenn Tests Mini-X-Ray Technology to Advance Space Health Care
 - <a href="https://europeanspaceflight.com/orbital-paradigm-secures-three-customers-for-2025-reentry-capsule-demo/" >🔗</a> **[European Spaceflight]** Orbital Paradigm Secures Three Customers for 2025 Reentry Capsule Demo
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Second_MTG-Imager_satellite_passes_thermal_vacuum_test" >🔗</a> **[ESA]** Second MTG-Imager satellite passes thermal vacuum test
 - <a href="https://www.nasaspaceflight.com/2025/09/nasa-bridenstine-moon-china/" >🔗</a> **[NASASpaceflight]** Former NASA Boss Bridenstine: US “Highly Unlikely” to Land on Moon Before China
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://tlpnetwork.com/news/america/faa-approves-expanded-spacex-falcon-9-operations-at-cape-canaverals-slc-40-with-new-landing-zone" >🔗</a> **[The Launch Pad]** FAA Approves Expanded Falcon 9 Operations at Cape Canaveral’s SLC-40 with New Landing Zone
 - <a href="https://www.nasa.gov/image-article/thinning-arctic-sea-ice/" >🔗</a> **[NASA]** Thinning Arctic Sea Ice
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/rock-and-roll-with-nasa-challenge/" >🔗</a> **[NASA]** Rock and Roll with NASA Challenge
-- <a href="https://www.nasa.gov/news-release/acting-nasa-administrator-duffy-selects-exploration-focused-associate-administrator/" >🔗</a> **[NASA]** Acting NASA Administrator Duffy Selects Exploration-Focused Associate Administrator
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250904T120153">2025-09-04 12:01:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250904T124318">2025-09-04 12:43:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
