@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/09/04/live-coverage-spacex-aims-for-500th-falcon-booster-landing-amid-sunrise-starlink-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX aims for 500th Falcon booster landing amid sunrise Starlink mission
+- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4641-4648-thinking-outside-and-inside-the-boxwork/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4641-4648: Thinking Outside and Inside the ‘Boxwork’
 - <a href="https://tlpnetwork.com/news/america/nasa-names-amit-kshatriya-associate-administrator-signaling-renewed-focus-on-exploration" >🔗</a> **[The Launch Pad]** NASA Names Amit Kshatriya Associate Administrator, Signaling Renewed Focus on Exploration
 - <a href="https://tlpnetwork.com/news/technology/jetblue-becomes-first-airline-to-join-amazons-project-kluiper-upgrading-free-fly-fi-wi-fi" >🔗</a> **[The Launch Pad]** JetBlue Becomes First Airline to Join Amazon’s Project Kuiper, Upgrading Free Fly-Fi Wi-Fi
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-techrise-student-challenge-5/" >🔗</a> **[NASA]** NASA TechRise Student Challenge 5
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/image-article/nasa-astronauts-jonny-kim-and-zena-cardman-pose-for-a-portrait-in-the-unity-module/" >🔗</a> **[NASA]** NASA astronauts Jonny Kim and Zena Cardman pose for a portrait in the Unity module
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/09/Glittering_glimpse_of_star_birth" >🔗</a> **[ESA]** Glittering glimpse of star birth
 - <a href="https://www.nasa.gov/image-article/co-patricia-white-helps-moon-journey/" >🔗</a> **[NASA]** NASA Contract Officer Helps Power Journey Back to the Moon
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/09/Glittering_glimpse_of_starbirth" >🔗</a> **[ESA]** Glittering glimpse of starbirth
-- <a href="https://science.nasa.gov/missions/webb/glittering-glimpse-of-star-birth-from-nasas-webb-telescope/" >🔗</a> **[NASA]** Glittering Glimpse of Star Birth From NASA’s Webb Telescope
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250904T210123">2025-09-04 21:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250904T213112">2025-09-04 21:31:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
