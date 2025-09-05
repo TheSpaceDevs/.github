@@ -45,7 +45,6 @@ into *an Unknown
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250905T112800">2025-09-05 11:28:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ceres-1 | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20250905T112800Z%2F20250905T120800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ceres-1 | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250906T154200">2025-09-06 15:42:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-9&location=Vandenberg SFB, CA, USA&dates=20250906T154200Z%2F20250906T194200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-9** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250906T162600">2025-09-06 16:26:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 6A | Unknown Payload&location=Taiyuan Satellite Launch Center, People&#x27;s Republic of China&dates=20250906T162600Z%2F20250906T165200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 6A | Unknown Payload** from Taiyuan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250909T000200">2025-09-09 00:02:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Nusantara Lima&location=Cape Canaveral SFS, FL, USA&dates=20250909T000200Z%2F20250909T015800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Nusantara Lima** from Cape Canaveral SFS, FL, USA.
@@ -89,6 +88,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/09/rocket-report-neutrons-pad-opens-for-business-spacex-gets-falcon-9-green-light/" >🔗</a> **[Arstechnica]** Rocket Report: Neutron’s pad opens for business; SpaceX gets Falcon 9 green light
+- <a href="https://science.nasa.gov/missions/hubble/hubble-spies-galaxy-with-lots-to-see/" >🔗</a> **[NASA]** Hubble Spies Galaxy with Lots to See
 - <a href="https://spacepolicyonline.com/news/duffy-ill-be-damned-if-u-s-doesnt-beat-china-back-to-the-moon/" >🔗</a> **[SpacePolicyOnline.com]** Duffy: “I’ll Be Damned” If U.S. Doesn’t Beat China Back to the Moon
 - <a href="https://www.nasaspaceflight.com/2025/09/ksc-starship-foundation/" >🔗</a> **[NASASpaceflight]** East Coast steps up a gear for Starship’s arrival
 - <a href="https://spaceflightnow.com/2025/09/04/live-coverage-spacex-aims-for-500th-falcon-booster-landing-amid-sunrise-starlink-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX aims for 500th Falcon booster landing amid sunrise Starlink mission
@@ -97,8 +98,6 @@ into *an Unknown
 - <a href="https://tlpnetwork.com/news/technology/jetblue-becomes-first-airline-to-join-amazons-project-kluiper-upgrading-free-fly-fi-wi-fi" >🔗</a> **[The Launch Pad]** JetBlue Becomes First Airline to Join Amazon’s Project Kuiper, Upgrading Free Fly-Fi Wi-Fi
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-techrise-student-challenge-5/" >🔗</a> **[NASA]** NASA TechRise Student Challenge 5
 - <a href="https://science.nasa.gov/science-research/heliophysics/upcoming-launch-to-boost-nasas-study-of-suns-influence-across-space/" >🔗</a> **[NASA]** Upcoming Launch to Boost NASA’s Study of Sun’s Influence Across Space
-- <a href="https://www.nasa.gov/missions/station/iss-research/nasa-northrop-grumman-to-send-medical-technology-studies-to-space/" >🔗</a> **[NASA]** NASA, Northrop Grumman to Send Medical, Technology Studies to Space
-- <a href="https://www.nasa.gov/image-article/nasa-astronauts-jonny-kim-and-zena-cardman-pose-for-a-portrait-in-the-unity-module/" >🔗</a> **[NASA]** NASA astronauts Jonny Kim and Zena Cardman pose for a portrait in the Unity module
 
 
 ### Launch-related News 🚀
@@ -107,7 +106,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250905T110104">2025-09-05 11:01:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250905T113057">2025-09-05 11:30:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
