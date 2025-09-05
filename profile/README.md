@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/09/nasas-acting-chief-angry-about-talk-that-china-will-beat-us-back-to-the-moon/" >🔗</a> **[Arstechnica]** NASA’s acting chief “angry” about talk that China will beat US back to the Moon
 - <a href="https://www.nasa.gov/image-article/orion-mission-evaluation-room/" >🔗</a> **[NASA]** Orion Mission Evaluation Room
 - <a href="https://www.nasa.gov/news-release/nasa-to-provide-coverage-of-progress-93-launch-space-station-docking/" >🔗</a> **[NASA]** NASA to Provide Coverage of Progress 93 Launch, Space Station Docking
 - <a href="https://europeanspaceflight.com/astrobotic-partners-with-andoya-space-to-test-lunar-lander-tech-in-norway/" >🔗</a> **[European Spaceflight]** Astrobotic Partners with Andøya Space to Test Lunar Lander Tech in Norway
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.esa.int/About_Us/Corporate_news/Estonia_celebrates_10_years_in_ESA" >🔗</a> **[ESA]** Estonia celebrates 10 years in ESA
 - <a href="https://spacepolicyonline.com/news/duffy-ill-be-damned-if-u-s-doesnt-beat-china-back-to-the-moon/" >🔗</a> **[SpacePolicyOnline.com]** Duffy: “I’ll Be Damned” If U.S. Doesn’t Beat China Back to the Moon
 - <a href="https://www.nasaspaceflight.com/2025/09/ksc-starship-foundation/" >🔗</a> **[NASASpaceflight]** East Coast steps up a gear for Starship’s arrival
-- <a href="https://spaceflightnow.com/2025/09/04/live-coverage-spacex-aims-for-500th-falcon-booster-landing-amid-sunrise-starlink-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX aims for 500th Falcon booster landing amid sunrise Starlink mission
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250905T170135">2025-09-05 17:01:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250905T173218">2025-09-05 17:32:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
