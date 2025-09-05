@@ -90,6 +90,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/humans-in-space/commercial-space/leo-economy/nasa-seeks-industry-input-on-next-phase-of-commercial-space-stations/" >🔗</a> **[NASA]** NASA Seeks Industry Input on Next Phase of Commercial Space Stations
+- <a href="https://www.nasa.gov/missions/analog-field-testing/chapea/nasa-announces-chapea-crew-for-year-long-mars-mission-simulation/" >🔗</a> **[NASA]** NASA Announces CHAPEA Crew for Year-Long Mars Mission Simulation
+- <a href="https://www.nasaspaceflight.com/2025/09/ten-flights-starship-program-successes-failures/" >🔗</a> **[NASASpaceflight]** Ten flights in, the Starship Program has had successes and failures
 - <a href="https://arstechnica.com/space/2025/09/nasas-acting-chief-angry-about-talk-that-china-will-beat-us-back-to-the-moon/" >🔗</a> **[Arstechnica]** NASA’s acting chief “angry” about talk that China will beat US back to the Moon
 - <a href="https://www.nasa.gov/image-article/orion-mission-evaluation-room/" >🔗</a> **[NASA]** Orion Mission Evaluation Room
 - <a href="https://www.nasa.gov/news-release/nasa-to-provide-coverage-of-progress-93-launch-space-station-docking/" >🔗</a> **[NASA]** NASA to Provide Coverage of Progress 93 Launch, Space Station Docking
@@ -97,9 +100,6 @@ into *an Unknown
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_01-05_September_2025" >🔗</a> **[ESA]** Week in images: 01-05 September 2025
 - <a href="https://arstechnica.com/space/2025/09/rocket-report-neutrons-pad-opens-for-business-spacex-gets-falcon-9-green-light/" >🔗</a> **[Arstechnica]** Rocket Report: Neutron’s pad opens for business; SpaceX gets Falcon 9 green light
 - <a href="https://science.nasa.gov/missions/hubble/hubble-spies-galaxy-with-lots-to-see/" >🔗</a> **[NASA]** Hubble Spies Galaxy with Lots to See
-- <a href="https://www.esa.int/About_Us/Corporate_news/Estonia_celebrates_10_years_in_ESA" >🔗</a> **[ESA]** Estonia celebrates 10 years in ESA
-- <a href="https://spacepolicyonline.com/news/duffy-ill-be-damned-if-u-s-doesnt-beat-china-back-to-the-moon/" >🔗</a> **[SpacePolicyOnline.com]** Duffy: “I’ll Be Damned” If U.S. Doesn’t Beat China Back to the Moon
-- <a href="https://www.nasaspaceflight.com/2025/09/ksc-starship-foundation/" >🔗</a> **[NASASpaceflight]** East Coast steps up a gear for Starship’s arrival
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250905T200141">2025-09-05 20:01:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250905T203317">2025-09-05 20:33:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
