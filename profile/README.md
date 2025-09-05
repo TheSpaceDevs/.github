@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-to-provide-coverage-of-progress-93-launch-space-station-docking/" >🔗</a> **[NASA]** NASA to Provide Coverage of Progress 93 Launch, Space Station Docking
 - <a href="https://europeanspaceflight.com/astrobotic-partners-with-andoya-space-to-test-lunar-lander-tech-in-norway/" >🔗</a> **[European Spaceflight]** Astrobotic Partners with Andøya Space to Test Lunar Lander Tech in Norway
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_01-05_September_2025" >🔗</a> **[ESA]** Week in images: 01-05 September 2025
 - <a href="https://arstechnica.com/space/2025/09/rocket-report-neutrons-pad-opens-for-business-spacex-gets-falcon-9-green-light/" >🔗</a> **[Arstechnica]** Rocket Report: Neutron’s pad opens for business; SpaceX gets Falcon 9 green light
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2025/09/ksc-starship-foundation/" >🔗</a> **[NASASpaceflight]** East Coast steps up a gear for Starship’s arrival
 - <a href="https://spaceflightnow.com/2025/09/04/live-coverage-spacex-aims-for-500th-falcon-booster-landing-amid-sunrise-starlink-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX aims for 500th Falcon booster landing amid sunrise Starlink mission
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4641-4648-thinking-outside-and-inside-the-boxwork/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4641-4648: Thinking Outside and Inside the ‘Boxwork’
-- <a href="https://tlpnetwork.com/news/america/nasa-names-amit-kshatriya-associate-administrator-signaling-renewed-focus-on-exploration" >🔗</a> **[The Launch Pad]** NASA Names Amit Kshatriya Associate Administrator, Signaling Renewed Focus on Exploration
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250905T150139">2025-09-05 15:01:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250905T153250">2025-09-05 15:32:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
