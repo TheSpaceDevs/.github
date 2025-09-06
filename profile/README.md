@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/09/06/live-coverage-spacex-to-pass-2000-starlink-satellites-deployed-in-2025-with-saturday-launch/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to pass 2,000 Starlink satellites deployed in 2025 with Saturday launch
 - <a href="https://www.nasa.gov/humans-in-space/commercial-space/leo-economy/nasa-seeks-industry-input-on-next-phase-of-commercial-space-stations/" >🔗</a> **[NASA]** NASA Seeks Industry Input on Next Phase of Commercial Space Stations
 - <a href="https://www.nasa.gov/missions/analog-field-testing/chapea/nasa-announces-chapea-crew-for-year-long-mars-mission-simulation/" >🔗</a> **[NASA]** NASA Announces CHAPEA Crew for Year-Long Mars Mission Simulation
 - <a href="https://www.nasaspaceflight.com/2025/09/ten-flights-starship-program-successes-failures/" >🔗</a> **[NASASpaceflight]** Ten flights in, the Starship Program has had successes and failures
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://europeanspaceflight.com/astrobotic-partners-with-andoya-space-to-test-lunar-lander-tech-in-norway/" >🔗</a> **[European Spaceflight]** Astrobotic Partners with Andøya Space to Test Lunar Lander Tech in Norway
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_01-05_September_2025" >🔗</a> **[ESA]** Week in images: 01-05 September 2025
 - <a href="https://arstechnica.com/space/2025/09/rocket-report-neutrons-pad-opens-for-business-spacex-gets-falcon-9-green-light/" >🔗</a> **[Arstechnica]** Rocket Report: Neutron’s pad opens for business; SpaceX gets Falcon 9 green light
-- <a href="https://science.nasa.gov/missions/hubble/hubble-spies-galaxy-with-lots-to-see/" >🔗</a> **[NASA]** Hubble Spies Galaxy with Lots to See
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250906T130402">2025-09-06 13:04:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250906T133134">2025-09-06 13:31:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
