@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/09/dawn-ceres-chemical-source/" >🔗</a> **[NASASpaceflight]** Data from NASA’s Dawn reveals chemical energy source on Ceres
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-7-13-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy September 7-13, 2025
 - <a href="https://spaceflightnow.com/2025/09/06/live-coverage-spacex-to-pass-2000-starlink-satellites-deployed-in-2025-with-saturday-launch/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to pass 2,000 Starlink satellites deployed in 2025 with Saturday launch
 - <a href="https://www.nasa.gov/humans-in-space/commercial-space/leo-economy/nasa-seeks-industry-input-on-next-phase-of-commercial-space-stations/" >🔗</a> **[NASA]** NASA Seeks Industry Input on Next Phase of Commercial Space Stations
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/image-article/orion-mission-evaluation-room/" >🔗</a> **[NASA]** Orion Mission Evaluation Room
 - <a href="https://www.nasa.gov/news-release/nasa-to-provide-coverage-of-progress-93-launch-space-station-docking/" >🔗</a> **[NASA]** NASA to Provide Coverage of Progress 93 Launch, Space Station Docking
 - <a href="https://europeanspaceflight.com/astrobotic-partners-with-andoya-space-to-test-lunar-lander-tech-in-norway/" >🔗</a> **[European Spaceflight]** Astrobotic Partners with Andøya Space to Test Lunar Lander Tech in Norway
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_01-05_September_2025" >🔗</a> **[ESA]** Week in images: 01-05 September 2025
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250907T220118">2025-09-07 22:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250907T223213">2025-09-07 22:32:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
