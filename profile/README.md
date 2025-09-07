@@ -52,7 +52,7 @@ into *an Unknown
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250911T155406">2025-09-11 15:54:06 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Progress MS-32 (93P)&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20250911T155406Z%2F20250911T155406Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Progress MS-32 (93P)** from Baikonur Cosmodrome, Republic of Kazakhstan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250913T023000">2025-09-13 02:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b/Fregat | Glonass-K1 No. 18&location=Plesetsk Cosmodrome, Russian Federation&dates=20250913T023000Z%2F20250913T033000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1b/Fregat | Glonass-K1 No. 18** from Plesetsk Cosmodrome, Russian Federation.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250913T154100">2025-09-13 15:41:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-10&location=Vandenberg SFB, CA, USA&dates=20250913T154100Z%2F20250913T194100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-10** from Vandenberg SFB, CA, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250914T221100">2025-09-14 22:11:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Cygnus CRS-2 NG-23&location=Cape Canaveral SFS, FL, USA&dates=20250914T221100Z%2F20250914T221100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Cygnus CRS-2 NG-23** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250914T221149">2025-09-14 22:11:49 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Cygnus CRS-2 NG-23&location=Cape Canaveral SFS, FL, USA&dates=20250914T221149Z%2F20250914T221149Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Cygnus CRS-2 NG-23** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250923T113200">2025-09-23 11:32:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | IMAP &amp; others&location=Kennedy Space Center, FL, USA&dates=20250923T113200Z%2F20250923T113200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | IMAP & others** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250925T000000">2025-09-25 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 551 | Project Kuiper (KA-03)&location=Cape Canaveral SFS, FL, USA&dates=20250925T000000Z%2F20250925T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 551 | Project Kuiper (KA-03)** from Cape Canaveral SFS, FL, USA.
 
@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/jeni-morrison-continues-a-family-legacy-of-service-at-nasa/" >🔗</a> **[NASA]** Jeni Morrison Continues a Family Legacy of Service at NASA
 - <a href="https://www.nasaspaceflight.com/2025/09/dawn-ceres-chemical-source/" >🔗</a> **[NASASpaceflight]** Data from NASA’s Dawn reveals chemical energy source on Ceres
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-7-13-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy September 7-13, 2025
 - <a href="https://spaceflightnow.com/2025/09/06/live-coverage-spacex-to-pass-2000-starlink-satellites-deployed-in-2025-with-saturday-launch/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to pass 2,000 Starlink satellites deployed in 2025 with Saturday launch
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://arstechnica.com/space/2025/09/nasas-acting-chief-angry-about-talk-that-china-will-beat-us-back-to-the-moon/" >🔗</a> **[Arstechnica]** NASA’s acting chief “angry” about talk that China will beat US back to the Moon
 - <a href="https://www.nasa.gov/image-article/orion-mission-evaluation-room/" >🔗</a> **[NASA]** Orion Mission Evaluation Room
 - <a href="https://www.nasa.gov/news-release/nasa-to-provide-coverage-of-progress-93-launch-space-station-docking/" >🔗</a> **[NASA]** NASA to Provide Coverage of Progress 93 Launch, Space Station Docking
-- <a href="https://europeanspaceflight.com/astrobotic-partners-with-andoya-space-to-test-lunar-lander-tech-in-norway/" >🔗</a> **[European Spaceflight]** Astrobotic Partners with Andøya Space to Test Lunar Lander Tech in Norway
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250907T230129">2025-09-07 23:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250907T233102">2025-09-07 23:31:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
