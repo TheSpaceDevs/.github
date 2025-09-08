@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/echostar-sells-spectrum-to-spacex-cancels-mda-satellite-contract/" >🔗</a> **[SpaceNews]** EchoStar sells spectrum to SpaceX, cancels MDA satellite contract
 - <a href="https://spacenews.com/the-awkward-teenage-phase-of-space-sustainability/" >🔗</a> **[SpaceNews]** ‘The awkward, teenage phase’ of space sustainability
 - <a href="https://spacenews.com/lynk-global-ceo-ramu-pontarazu-on-life-after-spac/" >🔗</a> **[SpaceNews]** Lynk Global CEO Ramu Pontarazu on life after SPAC
 - <a href="https://spacenews.com/faa-approves-increase-in-falcon-9-launches-while-studying-starship-environmental-impacts/" >🔗</a> **[SpaceNews]** FAA approves increase in Falcon 9 launches while studying Starship environmental impacts
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/blue-origin-anduril-win-military-rocket-cargo-study-contracts/" >🔗</a> **[SpaceNews]** Blue Origin, Anduril win military ‘rocket cargo’ study contracts
 - <a href="https://spacenews.com/china-launches-new-set-of-yaogan-40-satellites-into-polar-orbit/" >🔗</a> **[SpaceNews]** China launches new set of Yaogan-40 satellites into polar orbit
 - <a href="https://www.esa.int/Enabling_Support/Operations/ESA_deploys_new_fully_European_ground-based_atomic_clock" >🔗</a> **[ESA]** ESA deploys new fully European ground-based atomic clock
-- <a href="https://spacenews.com/pentagon-announces-senior-u-s-space-force-leadership-changes/" >🔗</a> **[SpaceNews]** Pentagon announces senior U.S. Space Force leadership changes
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250908T113100">2025-09-08 11:31:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250908T120207">2025-09-08 12:02:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
