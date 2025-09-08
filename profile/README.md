@@ -90,16 +90,16 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/blacksky-and-iceye-join-group-creating-earths-digital-twin/" >🔗</a> **[SpaceNews]** BlackSky and Iceye join group creating Earth’s digital twin
+- <a href="https://spacenews.com/commercial-firms-team-up-to-demonstrate-hypersonic-vehicle-tracking-capabilities/" >🔗</a> **[SpaceNews]** Commercial firms team up to demonstrate hypersonic vehicle tracking capabilities
+- <a href="https://spacenews.com/europe-ramps-up-direct-to-device-push-amid-spacexs-19-billion-service-boost/" >🔗</a> **[SpaceNews]** Europe ramps up direct-to-device push amid SpaceX’s $19 billion service boost
+- <a href="https://spacenews.com/safety-progress-and-the-need-for-artemis-2-0/" >🔗</a> **[SpaceNews]** Safety, progress, and the need for Artemis 2.0
 - <a href="https://spaceflightnow.com/2025/09/08/live-coverage-spacex-to-launch-indonesian-communications-satellite-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Indonesian communications satellite from Cape Canaveral
 - <a href="https://www.nasa.gov/image-article/nasa-astronaut-frank-rubio-in-space-station-cupola/" >🔗</a> **[NASA]** NASA Astronaut Frank Rubio in Space Station Cupola
 - <a href="https://arstechnica.com/space/2025/09/congress-and-trump-may-compromise-on-the-sls-rocket-by-axing-its-costly-upper-stage/" >🔗</a> **[Arstechnica]** Congress and Trump may compromise on the SLS rocket by axing its costly upper stage
 - <a href="https://spacenews.com/tournear-leaves-space-development-agency-for-new-role-at-auburn-university/" >🔗</a> **[SpaceNews]** Tournear leaves Space Development Agency for new role at Auburn University
 - <a href="https://www.spacescout.info/2025/09/starship-soars-back-with-flight-10/" >🔗</a> **[Space Scout]** Starship Soars Back with Flight 10
 - <a href="https://science.nasa.gov/missions/webb/nasa-webb-looks-at-earth-sized-habitable-zone-exoplanet-trappist-1-e/" >🔗</a> **[NASA]** NASA Webb Looks at Earth-Sized, Habitable-Zone Exoplanet TRAPPIST-1 e
-- <a href="https://www.nasa.gov/learning-resources/for-colleges-universities/nasa-launches-2026-lunabotics-challenge/" >🔗</a> **[NASA]** NASA Launches 2026 Lunabotics Challenge
-- <a href="https://www.nasa.gov/organizations/nasa-ethics-advice-for-widely-attended-gatherings-wags/" >🔗</a> **[NASA]** Widely Attended Gatherings (WAGs) Determinations
-- <a href="https://spacenews.com/sending-astronauts-to-the-moon-and-mars-must-be-more-than-a-photo-op/" >🔗</a> **[SpaceNews]** Sending astronauts to the moon and Mars must be more than a photo op
-- <a href="https://spacenews.com/echostar-sells-spectrum-to-spacex-cancels-mda-satellite-contract/" >🔗</a> **[SpaceNews]** EchoStar sells spectrum to SpaceX, cancels MDA satellite contract
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250908T200111">2025-09-08 20:01:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250908T203338">2025-09-08 20:33:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
