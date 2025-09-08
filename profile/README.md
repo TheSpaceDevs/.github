@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/the-awkward-teenage-phase-of-space-sustainability/" >🔗</a> **[SpaceNews]** ‘The awkward, teenage phase’ of space sustainability
+- <a href="https://spacenews.com/lynk-global-ceo-ramu-pontarazu-on-life-after-spac/" >🔗</a> **[SpaceNews]** Lynk Global CEO Ramu Pontarazu on life after SPAC
 - <a href="https://spacenews.com/faa-approves-increase-in-falcon-9-launches-while-studying-starship-environmental-impacts/" >🔗</a> **[SpaceNews]** FAA approves increase in Falcon 9 launches while studying Starship environmental impacts
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/jeni-morrison-continues-a-family-legacy-of-service-at-nasa/" >🔗</a> **[NASA]** Jeni Morrison Continues a Family Legacy of Service at NASA
 - <a href="https://www.nasaspaceflight.com/2025/09/dawn-ceres-chemical-source/" >🔗</a> **[NASASpaceflight]** Data from NASA’s Dawn reveals chemical energy source on Ceres
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/china-launches-new-set-of-yaogan-40-satellites-into-polar-orbit/" >🔗</a> **[SpaceNews]** China launches new set of Yaogan-40 satellites into polar orbit
 - <a href="https://www.esa.int/Enabling_Support/Operations/ESA_deploys_new_fully_European_ground-based_atomic_clock" >🔗</a> **[ESA]** ESA deploys new fully European ground-based atomic clock
 - <a href="https://spacenews.com/pentagon-announces-senior-u-s-space-force-leadership-changes/" >🔗</a> **[SpaceNews]** Pentagon announces senior U.S. Space Force leadership changes
-- <a href="https://spacenews.com/nasa-releases-details-on-revised-next-phase-of-commercial-space-station-development/" >🔗</a> **[SpaceNews]** NASA releases details on revised next phase of commercial space station development
-- <a href="https://spaceflightnow.com/2025/09/06/live-coverage-spacex-to-pass-2000-starlink-satellites-deployed-in-2025-with-saturday-launch/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to pass 2,000 Starlink satellites deployed in 2025 with Saturday launch
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250908T110124">2025-09-08 11:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250908T113100">2025-09-08 11:31:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
