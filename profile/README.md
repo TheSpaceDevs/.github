@@ -90,6 +90,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/nasa-astronaut-frank-rubio-in-space-station-cupola/" >🔗</a> **[NASA]** NASA Astronaut Frank Rubio in Space Station Cupola
+- <a href="https://arstechnica.com/space/2025/09/congress-and-trump-may-compromise-on-the-sls-rocket-by-axing-its-costly-upper-stage/" >🔗</a> **[Arstechnica]** Congress and Trump may compromise on the SLS rocket by axing its costly upper stage
+- <a href="https://spacenews.com/tournear-leaves-space-development-agency-for-new-role-at-auburn-university/" >🔗</a> **[SpaceNews]** Tournear leaves Space Development Agency for new role at Auburn University
 - <a href="https://www.spacescout.info/2025/09/starship-soars-back-with-flight-10/" >🔗</a> **[Space Scout]** Starship Soars Back with Flight 10
 - <a href="https://science.nasa.gov/missions/webb/nasa-webb-looks-at-earth-sized-habitable-zone-exoplanet-trappist-1-e/" >🔗</a> **[NASA]** NASA Webb Looks at Earth-Sized, Habitable-Zone Exoplanet TRAPPIST-1 e
 - <a href="https://www.nasa.gov/learning-resources/for-colleges-universities/nasa-launches-2026-lunabotics-challenge/" >🔗</a> **[NASA]** NASA Launches 2026 Lunabotics Challenge
@@ -97,9 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/sending-astronauts-to-the-moon-and-mars-must-be-more-than-a-photo-op/" >🔗</a> **[SpaceNews]** Sending astronauts to the moon and Mars must be more than a photo op
 - <a href="https://spacenews.com/echostar-sells-spectrum-to-spacex-cancels-mda-satellite-contract/" >🔗</a> **[SpaceNews]** EchoStar sells spectrum to SpaceX, cancels MDA satellite contract
 - <a href="https://spacenews.com/the-awkward-teenage-phase-of-space-sustainability/" >🔗</a> **[SpaceNews]** ‘The awkward, teenage phase’ of space sustainability
-- <a href="https://spacenews.com/lynk-global-ceo-ramu-pontarazu-on-life-after-spac/" >🔗</a> **[SpaceNews]** Lynk Global CEO Ramu Pontarazu on life after SPAC
-- <a href="https://spacenews.com/faa-approves-increase-in-falcon-9-launches-while-studying-starship-environmental-impacts/" >🔗</a> **[SpaceNews]** FAA approves increase in Falcon 9 launches while studying Starship environmental impacts
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/jeni-morrison-continues-a-family-legacy-of-service-at-nasa/" >🔗</a> **[NASA]** Jeni Morrison Continues a Family Legacy of Service at NASA
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250908T160131">2025-09-08 16:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250908T163613">2025-09-08 16:36:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
