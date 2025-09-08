@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/09/08/live-coverage-spacex-to-launch-indonesian-communications-satellite-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Indonesian communications satellite from Cape Canaveral
 - <a href="https://www.nasa.gov/image-article/nasa-astronaut-frank-rubio-in-space-station-cupola/" >🔗</a> **[NASA]** NASA Astronaut Frank Rubio in Space Station Cupola
 - <a href="https://arstechnica.com/space/2025/09/congress-and-trump-may-compromise-on-the-sls-rocket-by-axing-its-costly-upper-stage/" >🔗</a> **[Arstechnica]** Congress and Trump may compromise on the SLS rocket by axing its costly upper stage
 - <a href="https://spacenews.com/tournear-leaves-space-development-agency-for-new-role-at-auburn-university/" >🔗</a> **[SpaceNews]** Tournear leaves Space Development Agency for new role at Auburn University
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/organizations/nasa-ethics-advice-for-widely-attended-gatherings-wags/" >🔗</a> **[NASA]** Widely Attended Gatherings (WAGs) Determinations
 - <a href="https://spacenews.com/sending-astronauts-to-the-moon-and-mars-must-be-more-than-a-photo-op/" >🔗</a> **[SpaceNews]** Sending astronauts to the moon and Mars must be more than a photo op
 - <a href="https://spacenews.com/echostar-sells-spectrum-to-spacex-cancels-mda-satellite-contract/" >🔗</a> **[SpaceNews]** EchoStar sells spectrum to SpaceX, cancels MDA satellite contract
-- <a href="https://spacenews.com/the-awkward-teenage-phase-of-space-sustainability/" >🔗</a> **[SpaceNews]** ‘The awkward, teenage phase’ of space sustainability
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250908T170113">2025-09-08 17:01:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250908T173315">2025-09-08 17:33:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
