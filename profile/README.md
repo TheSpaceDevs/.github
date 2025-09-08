@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/missions/webb/nasa-webb-looks-at-earth-sized-habitable-zone-exoplanet-trappist-1-e/" >🔗</a> **[NASA]** NASA Webb Looks at Earth-Sized, Habitable-Zone Exoplanet TRAPPIST-1 e
+- <a href="https://www.nasa.gov/learning-resources/for-colleges-universities/nasa-launches-2026-lunabotics-challenge/" >🔗</a> **[NASA]** NASA Launches 2026 Lunabotics Challenge
 - <a href="https://www.nasa.gov/organizations/nasa-ethics-advice-for-widely-attended-gatherings-wags/" >🔗</a> **[NASA]** Widely Attended Gatherings (WAGs) Determinations
 - <a href="https://spacenews.com/sending-astronauts-to-the-moon-and-mars-must-be-more-than-a-photo-op/" >🔗</a> **[SpaceNews]** Sending astronauts to the moon and Mars must be more than a photo op
 - <a href="https://spacenews.com/echostar-sells-spectrum-to-spacex-cancels-mda-satellite-contract/" >🔗</a> **[SpaceNews]** EchoStar sells spectrum to SpaceX, cancels MDA satellite contract
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/faa-approves-increase-in-falcon-9-launches-while-studying-starship-environmental-impacts/" >🔗</a> **[SpaceNews]** FAA approves increase in Falcon 9 launches while studying Starship environmental impacts
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/jeni-morrison-continues-a-family-legacy-of-service-at-nasa/" >🔗</a> **[NASA]** Jeni Morrison Continues a Family Legacy of Service at NASA
 - <a href="https://www.nasaspaceflight.com/2025/09/dawn-ceres-chemical-source/" >🔗</a> **[NASASpaceflight]** Data from NASA’s Dawn reveals chemical energy source on Ceres
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-7-13-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy September 7-13, 2025
-- <a href="https://spacenews.com/blue-origin-anduril-win-military-rocket-cargo-study-contracts/" >🔗</a> **[SpaceNews]** Blue Origin, Anduril win military ‘rocket cargo’ study contracts
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250908T140145">2025-09-08 14:01:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250908T143524">2025-09-08 14:35:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
