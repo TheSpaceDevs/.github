@@ -90,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/faa-approves-increase-in-falcon-9-launches-while-studying-starship-environmental-impacts/" >🔗</a> **[SpaceNews]** FAA approves increase in Falcon 9 launches while studying Starship environmental impacts
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/jeni-morrison-continues-a-family-legacy-of-service-at-nasa/" >🔗</a> **[NASA]** Jeni Morrison Continues a Family Legacy of Service at NASA
 - <a href="https://www.nasaspaceflight.com/2025/09/dawn-ceres-chemical-source/" >🔗</a> **[NASASpaceflight]** Data from NASA’s Dawn reveals chemical energy source on Ceres
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-7-13-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy September 7-13, 2025
+- <a href="https://spacenews.com/blue-origin-anduril-win-military-rocket-cargo-study-contracts/" >🔗</a> **[SpaceNews]** Blue Origin, Anduril win military ‘rocket cargo’ study contracts
+- <a href="https://spacenews.com/china-launches-new-set-of-yaogan-40-satellites-into-polar-orbit/" >🔗</a> **[SpaceNews]** China launches new set of Yaogan-40 satellites into polar orbit
+- <a href="https://spacenews.com/pentagon-announces-senior-u-s-space-force-leadership-changes/" >🔗</a> **[SpaceNews]** Pentagon announces senior U.S. Space Force leadership changes
+- <a href="https://spacenews.com/nasa-releases-details-on-revised-next-phase-of-commercial-space-station-development/" >🔗</a> **[SpaceNews]** NASA releases details on revised next phase of commercial space station development
 - <a href="https://spaceflightnow.com/2025/09/06/live-coverage-spacex-to-pass-2000-starlink-satellites-deployed-in-2025-with-saturday-launch/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to pass 2,000 Starlink satellites deployed in 2025 with Saturday launch
-- <a href="https://www.nasa.gov/humans-in-space/commercial-space/leo-economy/nasa-seeks-industry-input-on-next-phase-of-commercial-space-stations/" >🔗</a> **[NASA]** NASA Seeks Industry Input on Next Phase of Commercial Space Stations
-- <a href="https://www.nasa.gov/missions/analog-field-testing/chapea/nasa-announces-chapea-crew-for-year-long-mars-mission-simulation/" >🔗</a> **[NASA]** NASA Announces CHAPEA Crew for Year-Long Mars Mission Simulation
-- <a href="https://www.nasaspaceflight.com/2025/09/ten-flights-starship-program-successes-failures/" >🔗</a> **[NASASpaceflight]** Ten flights in, the Starship Program has had successes and failures
-- <a href="https://arstechnica.com/space/2025/09/nasas-acting-chief-angry-about-talk-that-china-will-beat-us-back-to-the-moon/" >🔗</a> **[Arstechnica]** NASA’s acting chief “angry” about talk that China will beat US back to the Moon
-- <a href="https://www.nasa.gov/image-article/orion-mission-evaluation-room/" >🔗</a> **[NASA]** Orion Mission Evaluation Room
-- <a href="https://www.nasa.gov/news-release/nasa-to-provide-coverage-of-progress-93-launch-space-station-docking/" >🔗</a> **[NASA]** NASA to Provide Coverage of Progress 93 Launch, Space Station Docking
+- <a href="https://spacenews.com/orbital-sidekick-hyperspectral-imagery-sheds-light-on-damage-caused-to-iranian-nuclear-facility/" >🔗</a> **[SpaceNews]** Orbital Sidekick hyperspectral imagery sheds light on damage caused to Iranian nuclear facility
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250908T060144">2025-09-08 06:01:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250908T064010">2025-09-08 06:40:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
