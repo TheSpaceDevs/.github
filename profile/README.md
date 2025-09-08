@@ -96,10 +96,10 @@ into *an Unknown
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-7-13-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy September 7-13, 2025
 - <a href="https://spacenews.com/blue-origin-anduril-win-military-rocket-cargo-study-contracts/" >🔗</a> **[SpaceNews]** Blue Origin, Anduril win military ‘rocket cargo’ study contracts
 - <a href="https://spacenews.com/china-launches-new-set-of-yaogan-40-satellites-into-polar-orbit/" >🔗</a> **[SpaceNews]** China launches new set of Yaogan-40 satellites into polar orbit
+- <a href="https://www.esa.int/Enabling_Support/Operations/ESA_deploys_new_fully_European_ground-based_atomic_clock" >🔗</a> **[ESA]** ESA deploys new fully European ground-based atomic clock
 - <a href="https://spacenews.com/pentagon-announces-senior-u-s-space-force-leadership-changes/" >🔗</a> **[SpaceNews]** Pentagon announces senior U.S. Space Force leadership changes
 - <a href="https://spacenews.com/nasa-releases-details-on-revised-next-phase-of-commercial-space-station-development/" >🔗</a> **[SpaceNews]** NASA releases details on revised next phase of commercial space station development
 - <a href="https://spaceflightnow.com/2025/09/06/live-coverage-spacex-to-pass-2000-starlink-satellites-deployed-in-2025-with-saturday-launch/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to pass 2,000 Starlink satellites deployed in 2025 with Saturday launch
-- <a href="https://spacenews.com/orbital-sidekick-hyperspectral-imagery-sheds-light-on-damage-caused-to-iranian-nuclear-facility/" >🔗</a> **[SpaceNews]** Orbital Sidekick hyperspectral imagery sheds light on damage caused to Iranian nuclear facility
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250908T100139">2025-09-08 10:01:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250908T103538">2025-09-08 10:35:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
