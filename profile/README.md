@@ -90,6 +90,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-proposes-flyby-mission-to-asteroid-apophis-during-2029-earth-encounter/" >🔗</a> **[SpaceNews]** China proposes flyby mission to asteroid Apophis during 2029 Earth encounter
 - <a href="https://science.nasa.gov/blog/perseverance-meets-the-megabreccia/" >🔗</a> **[NASA]** Perseverance Meets the Megabreccia
 - <a href="https://www.nasaspaceflight.com/2025/09/launch-roundup-090825/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Cygnus XL and Progress to fly cargo missions to ISS
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-23-spacex-falcon-9-launch/" >🔗</a> **[NASA]** NASA Sets Coverage for Northrop Grumman CRS-23, SpaceX Falcon 9 Launch
@@ -99,7 +100,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spacenews.com/blacksky-and-iceye-join-group-creating-earths-digital-twin/" >🔗</a> **[SpaceNews]** BlackSky and Iceye join group creating Earth’s digital twin
 - <a href="https://spacenews.com/commercial-firms-team-up-to-demonstrate-hypersonic-vehicle-tracking-capabilities/" >🔗</a> **[SpaceNews]** Commercial firms team up to demonstrate hypersonic vehicle tracking capabilities
 - <a href="https://spacenews.com/europe-ramps-up-direct-to-device-push-amid-spacexs-19-billion-service-boost/" >🔗</a> **[SpaceNews]** Europe ramps up direct-to-device push amid SpaceX’s $19 billion service boost
-- <a href="https://spacenews.com/safety-progress-and-the-need-for-artemis-2-0/" >🔗</a> **[SpaceNews]** Safety, progress, and the need for Artemis 2.0
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250909T080145">2025-09-09 08:01:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250909T083701">2025-09-09 08:37:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
