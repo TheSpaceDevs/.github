@@ -90,6 +90,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/09/after-early-struggles-nasas-ambitious-mission-to-titan-is-on-track-for-launch/" >🔗</a> **[Arstechnica]** After early struggles, NASA’s ambitious mission to Titan is “on track” for launch
 - <a href="https://spacenews.com/maxar-to-supply-3d-terrain-data-for-u-s-army-mixed-reality-system/" >🔗</a> **[SpaceNews]** Maxar to supply 3D terrain data for U.S. Army mixed-reality system
 - <a href="https://spacenews.com/fcc-closes-echostar-probes-as-spectrum-sales-reshape-d2d-race/" >🔗</a> **[SpaceNews]** FCC closes EchoStar probes as spectrum sales reshape D2D race
 - <a href="https://spacenews.com/airbus-ceo-very-committed-to-combination-of-european-space-businesses/" >🔗</a> **[SpaceNews]** Airbus CEO ‘very committed’ to combination of European space businesses
@@ -99,7 +100,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.nasa.gov/missions/webb/nasa-study-celestial-accident-sheds-light-on-jupiter-saturn-riddle/" >🔗</a> **[NASA]** NASA Study: Celestial ‘Accident’ Sheds Light on Jupiter, Saturn Riddle
 - <a href="https://europeanspaceflight.com/finnish-satellite-manufacturer-reorbit-closes-e45m-series-a/" >🔗</a> **[European Spaceflight]** Finnish Satellite Manufacturer ReOrbit Closes €45M Series A
 - <a href="https://spacenews.com/the-business-case-for-resting-among-the-stars/" >🔗</a> **[SpaceNews]** The business case for resting among the stars
-- <a href="https://spacenews.com/ngso-set-to-disrupt-in-flight-connectivity-landscape/" >🔗</a> **[SpaceNews]** NGSO set to disrupt In-Flight Connectivity Landscape
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250909T210105">2025-09-09 21:01:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250909T213109">2025-09-09 21:31:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
