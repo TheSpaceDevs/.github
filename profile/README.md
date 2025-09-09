@@ -90,6 +90,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/maxar-to-supply-3d-terrain-data-for-u-s-army-mixed-reality-system/" >🔗</a> **[SpaceNews]** Maxar to supply 3D terrain data for U.S. Army mixed-reality system
 - <a href="https://spacenews.com/fcc-closes-echostar-probes-as-spectrum-sales-reshape-d2d-race/" >🔗</a> **[SpaceNews]** FCC closes EchoStar probes as spectrum sales reshape D2D race
 - <a href="https://spacenews.com/airbus-ceo-very-committed-to-combination-of-european-space-businesses/" >🔗</a> **[SpaceNews]** Airbus CEO ‘very committed’ to combination of European space businesses
 - <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-partnerships-allow-artificial-intelligence-to-predict-solar-events/" >🔗</a> **[NASA]** NASA Partnerships Allow Artificial Intelligence to Predict Solar Events
@@ -99,7 +100,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://europeanspaceflight.com/finnish-satellite-manufacturer-reorbit-closes-e45m-series-a/" >🔗</a> **[European Spaceflight]** Finnish Satellite Manufacturer ReOrbit Closes €45M Series A
 - <a href="https://spacenews.com/the-business-case-for-resting-among-the-stars/" >🔗</a> **[SpaceNews]** The business case for resting among the stars
 - <a href="https://spacenews.com/ngso-set-to-disrupt-in-flight-connectivity-landscape/" >🔗</a> **[SpaceNews]** NGSO set to disrupt In-Flight Connectivity Landscape
-- <a href="https://spacenews.com/frontgrade-launches-simops-dual-channel-power-amplifier-for-defense-communications-and-electronic-warfare-applications/" >🔗</a> **[SpaceNews]** Frontgrade Launches SIMOPS Dual-Channel Power Amplifier for Defense Communications and Electronic Warfare Applications
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250909T200148">2025-09-09 20:01:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250909T203319">2025-09-09 20:33:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
