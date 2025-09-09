@@ -94,22 +94,24 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spacenews.com/china-launches-mystery-yaogan-45-spysat-expands-geesatcom-constellation/" >🔗</a> **[SpaceNews]** China launches mystery Yaogan-45 spysat, expands Geesatcom constellation
 - <a href="https://spacenews.com/office-of-space-commerce-loses-40-of-budget-in-rescission/" >🔗</a> **[SpaceNews]** Office of Space Commerce loses 40% of budget in rescission
 - <a href="https://www.nasa.gov/general/life-after-microgravity-astronauts-reflect-on-post-flight-recovery/" >🔗</a> **[NASA]** Life After Microgravity: Astronauts Reflect on Post-Flight Recovery
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/life-after-microgravity-astronauts-reflect-on-post-flight-recovery/" >🔗</a> **[NASA]** Life After Microgravity: Astronauts Reflect on Post-Flight Recovery
 - <a href="https://spacenews.com/delsontro-enterprises-contracted-by-swissto12-for-test-process-optimization-of-its-hummingsat-small-sat-geo-program/" >🔗</a> **[SpaceNews]** DelSontro Enterprises Contracted by SWISSto12 for Test Process Optimization of its HummingSat Small Sat GEO Program
 - <a href="https://spacenews.com/china-proposes-flyby-mission-to-asteroid-apophis-during-2029-earth-encounter/" >🔗</a> **[SpaceNews]** China proposes flyby mission to asteroid Apophis during 2029 Earth encounter
 - <a href="https://science.nasa.gov/blog/perseverance-meets-the-megabreccia/" >🔗</a> **[NASA]** Perseverance Meets the Megabreccia
 - <a href="https://www.nasaspaceflight.com/2025/09/launch-roundup-090825/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Cygnus XL and Progress to fly cargo missions to ISS
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-23-spacex-falcon-9-launch/" >🔗</a> **[NASA]** NASA Sets Coverage for Northrop Grumman CRS-23, SpaceX Falcon 9 Launch
-- <a href="https://spacenews.com/global-space-leaders-converge-in-paris-for-novaspace-summits/" >🔗</a> **[SpaceNews]** Global Space Leaders Converge in Paris for Novaspace Summits
 
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2025/09/launch-roundup-090825/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Cygnus XL and Progress to fly cargo missions to ISS
+- <a href="https://spaceflightnow.com/2025/09/08/live-coverage-spacex-to-launch-indonesian-communications-satellite-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Indonesian communications satellite from Cape Canaveral
 - <a href="https://www.nasaspaceflight.com/2025/09/launch-roundup-090125/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX to launch five Falcon 9 missions this week
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250909T120158">2025-09-09 12:01:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250909T124318">2025-09-09 12:43:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
