@@ -90,6 +90,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-launches-mystery-yaogan-45-spysat-expands-geesatcom-constellation/" >🔗</a> **[SpaceNews]** China launches mystery Yaogan-45 spysat, expands Geesatcom constellation
 - <a href="https://spacenews.com/office-of-space-commerce-loses-40-of-budget-in-rescission/" >🔗</a> **[SpaceNews]** Office of Space Commerce loses 40% of budget in rescission
 - <a href="https://www.nasa.gov/general/life-after-microgravity-astronauts-reflect-on-post-flight-recovery/" >🔗</a> **[NASA]** Life After Microgravity: Astronauts Reflect on Post-Flight Recovery
 - <a href="https://spacenews.com/delsontro-enterprises-contracted-by-swissto12-for-test-process-optimization-of-its-hummingsat-small-sat-geo-program/" >🔗</a> **[SpaceNews]** DelSontro Enterprises Contracted by SWISSto12 for Test Process Optimization of its HummingSat Small Sat GEO Program
@@ -99,7 +100,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-23-spacex-falcon-9-launch/" >🔗</a> **[NASA]** NASA Sets Coverage for Northrop Grumman CRS-23, SpaceX Falcon 9 Launch
 - <a href="https://spacenews.com/global-space-leaders-converge-in-paris-for-novaspace-summits/" >🔗</a> **[SpaceNews]** Global Space Leaders Converge in Paris for Novaspace Summits
 - <a href="https://www.nasa.gov/news-release/nasa-to-share-details-of-new-perseverance-mars-rover-finding/" >🔗</a> **[NASA]** NASA to Share Details of New Perseverance Mars Rover Finding
-- <a href="https://europeanspaceflight.com/finnish-defence-forces-award-iceye-158m-euros-contract-for-sar-satellites/" >🔗</a> **[European Spaceflight]** Finnish Defence Forces Award ICEYE €158M Contract for SAR Satellites
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250909T110119">2025-09-09 11:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250909T113057">2025-09-09 11:30:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
