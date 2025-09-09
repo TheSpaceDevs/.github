@@ -90,16 +90,16 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.nasa.gov/news-release/envia-tu-nombre-alrededor-de-la-luna-en-2026-con-la-mision-artemis-ii-de-la-nasa/" >🔗</a> **[NASA]** Envía tu nombre alrededor de la Luna en 2026 con la misión Artemis II de la NASA
+- <a href="https://www.nasa.gov/missions/webb/nasa-study-celestial-accident-sheds-light-on-jupiter-saturn-riddle/" >🔗</a> **[NASA]** NASA Study: Celestial ‘Accident’ Sheds Light on Jupiter, Saturn Riddle
+- <a href="https://europeanspaceflight.com/finnish-satellite-manufacturer-reorbit-closes-e45m-series-a/" >🔗</a> **[European Spaceflight]** Finnish Satellite Manufacturer ReOrbit Closes €45M Series A
+- <a href="https://spacenews.com/the-business-case-for-resting-among-the-stars/" >🔗</a> **[SpaceNews]** The business case for resting among the stars
+- <a href="https://spacenews.com/ngso-set-to-disrupt-in-flight-connectivity-landscape/" >🔗</a> **[SpaceNews]** NGSO set to disrupt In-Flight Connectivity Landscape
+- <a href="https://spacenews.com/frontgrade-launches-simops-dual-channel-power-amplifier-for-defense-communications-and-electronic-warfare-applications/" >🔗</a> **[SpaceNews]** Frontgrade Launches SIMOPS Dual-Channel Power Amplifier for Defense Communications and Electronic Warfare Applications
+- <a href="https://spacenews.com/frontgrade-launches-space-optimized-psm28-power-supply-module-for-high-reliability-spacevpx-systems/" >🔗</a> **[SpaceNews]** Frontgrade Launches Space-Optimized PSM28 Power Supply Module for High-Reliability SpaceVPX Systems
 - <a href="https://www.nasa.gov/centers-and-facilities/stennis/model-federal-city/" >🔗</a> **[NASA]** Crossroads to the Future – NASA Stennis Grows into a Model Federal City
 - <a href="https://www.nasa.gov/news-release/launch-your-name-around-moon-in-2026-on-nasas-artemis-ii-mission/" >🔗</a> **[NASA]** Launch Your Name Around Moon in 2026 on NASA’s Artemis II Mission
 - <a href="https://www.nasa.gov/centers-and-facilities/stennis/ideal-location-for-range-of-site-tenants/" >🔗</a> **[NASA]** NASA Stennis Provides Ideal Location for Range of Site Tenants
 - <a href="https://www.nasaspaceflight.com/2025/09/spacex-prepare-pad-2-block-3-starbase/" >🔗</a> **[NASASpaceflight]** Eye on the future, as SpaceX prepare Pad 2 and Block 3 at Starbase
-- <a href="https://spacenews.com/abolishing-the-uks-independent-space-agency-could-be-a-mistake/" >🔗</a> **[SpaceNews]** Abolishing the UK’s independent space agency could be a mistake
-- <a href="https://spacenews.com/with-space-old-debates-about-military-branch-turf-are-obsolete/" >🔗</a> **[SpaceNews]** In space, the old debates about turf are obsolete
-- <a href="https://spacenews.com/china-launches-mystery-yaogan-45-spysat-expands-geesatcom-constellation/" >🔗</a> **[SpaceNews]** China launches mystery Yaogan-45 spysat, expands Geesatcom constellation
-- <a href="https://spacenews.com/office-of-space-commerce-loses-40-of-budget-in-rescission/" >🔗</a> **[SpaceNews]** Office of Space Commerce loses 40% of budget in rescission
-- <a href="https://www.nasa.gov/general/life-after-microgravity-astronauts-reflect-on-post-flight-recovery/" >🔗</a> **[NASA]** Life After Microgravity: Astronauts Reflect on Post-Flight Recovery
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250909T150143">2025-09-09 15:01:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250909T153410">2025-09-09 15:34:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
