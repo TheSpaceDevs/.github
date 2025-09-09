@@ -90,6 +90,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/fcc-closes-echostar-probes-as-spectrum-sales-reshape-d2d-race/" >🔗</a> **[SpaceNews]** FCC closes EchoStar probes as spectrum sales reshape D2D race
 - <a href="https://spacenews.com/airbus-ceo-very-committed-to-combination-of-european-space-businesses/" >🔗</a> **[SpaceNews]** Airbus CEO ‘very committed’ to combination of European space businesses
 - <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-partnerships-allow-artificial-intelligence-to-predict-solar-events/" >🔗</a> **[NASA]** NASA Partnerships Allow Artificial Intelligence to Predict Solar Events
 - <a href="https://www.nasa.gov/image-article/artemis-ii-crew-walks-out-for-practice-scenarios/" >🔗</a> **[NASA]** Artemis II Crew Walks Out for Practice Scenarios
@@ -99,7 +100,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spacenews.com/the-business-case-for-resting-among-the-stars/" >🔗</a> **[SpaceNews]** The business case for resting among the stars
 - <a href="https://spacenews.com/ngso-set-to-disrupt-in-flight-connectivity-landscape/" >🔗</a> **[SpaceNews]** NGSO set to disrupt In-Flight Connectivity Landscape
 - <a href="https://spacenews.com/frontgrade-launches-simops-dual-channel-power-amplifier-for-defense-communications-and-electronic-warfare-applications/" >🔗</a> **[SpaceNews]** Frontgrade Launches SIMOPS Dual-Channel Power Amplifier for Defense Communications and Electronic Warfare Applications
-- <a href="https://spacenews.com/frontgrade-launches-space-optimized-psm28-power-supply-module-for-high-reliability-spacevpx-systems/" >🔗</a> **[SpaceNews]** Frontgrade Launches Space-Optimized PSM28 Power Supply Module for High-Reliability SpaceVPX Systems
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250909T190109">2025-09-09 19:01:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250909T193054">2025-09-09 19:30:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
