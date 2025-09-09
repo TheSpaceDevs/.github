@@ -90,6 +90,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/delsontro-enterprises-contracted-by-swissto12-for-test-process-optimization-of-its-hummingsat-small-sat-geo-program/" >🔗</a> **[SpaceNews]** DelSontro Enterprises Contracted by SWISSto12 for Test Process Optimization of its HummingSat Small Sat GEO Program
 - <a href="https://spacenews.com/china-proposes-flyby-mission-to-asteroid-apophis-during-2029-earth-encounter/" >🔗</a> **[SpaceNews]** China proposes flyby mission to asteroid Apophis during 2029 Earth encounter
 - <a href="https://science.nasa.gov/blog/perseverance-meets-the-megabreccia/" >🔗</a> **[NASA]** Perseverance Meets the Megabreccia
 - <a href="https://www.nasaspaceflight.com/2025/09/launch-roundup-090825/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Cygnus XL and Progress to fly cargo missions to ISS
@@ -99,7 +100,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://europeanspaceflight.com/finnish-defence-forces-award-iceye-158m-euros-contract-for-sar-satellites/" >🔗</a> **[European Spaceflight]** Finnish Defence Forces Award ICEYE €158M Contract for SAR Satellites
 - <a href="https://spacenews.com/blacksky-and-iceye-join-group-creating-earths-digital-twin/" >🔗</a> **[SpaceNews]** BlackSky and Iceye join group creating Earth’s digital twin
 - <a href="https://spacenews.com/commercial-firms-team-up-to-demonstrate-hypersonic-vehicle-tracking-capabilities/" >🔗</a> **[SpaceNews]** Commercial firms team up to demonstrate hypersonic vehicle tracking capabilities
-- <a href="https://spacenews.com/europe-ramps-up-direct-to-device-push-amid-spacexs-19-billion-service-boost/" >🔗</a> **[SpaceNews]** Europe ramps up direct-to-device push amid SpaceX’s $19 billion service boost
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250909T090125">2025-09-09 09:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250909T093348">2025-09-09 09:33:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
