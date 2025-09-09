@@ -90,6 +90,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/abolishing-the-uks-independent-space-agency-could-be-a-mistake/" >🔗</a> **[SpaceNews]** Abolishing the UK’s independent space agency could be a mistake
 - <a href="https://spacenews.com/with-space-old-debates-about-military-branch-turf-are-obsolete/" >🔗</a> **[SpaceNews]** In space, the old debates about turf are obsolete
 - <a href="https://spacenews.com/china-launches-mystery-yaogan-45-spysat-expands-geesatcom-constellation/" >🔗</a> **[SpaceNews]** China launches mystery Yaogan-45 spysat, expands Geesatcom constellation
 - <a href="https://spacenews.com/office-of-space-commerce-loses-40-of-budget-in-rescission/" >🔗</a> **[SpaceNews]** Office of Space Commerce loses 40% of budget in rescission
@@ -99,7 +100,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spacenews.com/china-proposes-flyby-mission-to-asteroid-apophis-during-2029-earth-encounter/" >🔗</a> **[SpaceNews]** China proposes flyby mission to asteroid Apophis during 2029 Earth encounter
 - <a href="https://science.nasa.gov/blog/perseverance-meets-the-megabreccia/" >🔗</a> **[NASA]** Perseverance Meets the Megabreccia
 - <a href="https://www.nasaspaceflight.com/2025/09/launch-roundup-090825/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Cygnus XL and Progress to fly cargo missions to ISS
-- <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-23-spacex-falcon-9-launch/" >🔗</a> **[NASA]** NASA Sets Coverage for Northrop Grumman CRS-23, SpaceX Falcon 9 Launch
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250909T130954">2025-09-09 13:09:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250909T133903">2025-09-09 13:39:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
