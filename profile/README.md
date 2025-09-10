@@ -90,6 +90,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/nasa-data-trainings-help-uruguay-navigate-drought/" >🔗</a> **[NASA]** NASA Data, Trainings Help Uruguay Navigate Drought
 - <a href="https://spacenews.com/boeing-turns-to-3d-printing-to-speed-production-of-satellite-solar-arrays/" >🔗</a> **[SpaceNews]** Boeing turns to 3D printing to speed production of satellite solar arrays
 - <a href="https://www.nasa.gov/news-release/nasa-says-mars-rover-discovered-potential-biosignature-last-year/" >🔗</a> **[NASA]** NASA Says Mars Rover Discovered Potential Biosignature Last Year
 - <a href="https://science.nasa.gov/uncategorized/nasa-aims-to-keep-fuel-cool-under-pressure-with-zero-boil-off-experiment-on-ng-23/" >🔗</a> **[NASA]** NASA Aims to Keep Fuel Cool Under Pressure with Zero Boil-Off Experiment On NG-23
@@ -99,7 +100,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://europeanspaceflight.com/genesis-sfl-moves-up-launch-dates-for-two-return-capsule-demo-missions/" >🔗</a> **[European Spaceflight]** Genesis SFL Moves Up Launch Dates for Two Return Capsule Demo Missions
 - <a href="https://spacenews.com/how-is-the-space-force-doing-on-getting-the-resources-it-needs/" >🔗</a> **[SpaceNews]** How is the Space Force doing on getting the resources it needs?
 - <a href="https://science.nasa.gov/missions/webb/nasas-webb-observes-immense-stellar-jet-on-outskirts-of-our-milky-way/" >🔗</a> **[NASA]** NASA’s Webb Observes Immense Stellar Jet on Outskirts of Our Milky Way
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/09/Immense_stellar_jet_in_Milky_Way_outskirts" >🔗</a> **[ESA]** Immense stellar jet in Milky Way outskirts
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250910T170128">2025-09-10 17:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250910T173156">2025-09-10 17:31:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
