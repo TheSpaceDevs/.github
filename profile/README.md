@@ -94,6 +94,7 @@ This launch carries 21 satellites manufactured by York Space Systems.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-to-share-details-of-new-perseverance-mars-rover-finding-2/" >🔗</a> **[NASA]** NASA to Share Details of New Perseverance Mars Rover Finding
 - <a href="https://spacenews.com/musk-confident-starship-will-start-launching-100-tons-to-orbit-next-year/" >🔗</a> **[SpaceNews]** Musk confident Starship will start launching 100 tons to orbit next year
 - <a href="https://spacenews.com/the-grief-of-a-fandom-on-starship-musk-and-losing-the-spark/" >🔗</a> **[SpaceNews]** The grief of a fandom: on Starship, Musk and losing the spark
 - <a href="https://spacenews.com/ramses-asteroid-mission-on-track-ahead-of-key-funding/" >🔗</a> **[SpaceNews]** Ramses asteroid mission on track ahead of key funding
@@ -103,7 +104,6 @@ This launch carries 21 satellites manufactured by York Space Systems.
 - <a href="https://arstechnica.com/space/2025/09/after-early-struggles-nasas-ambitious-mission-to-titan-is-on-track-for-launch/" >🔗</a> **[Arstechnica]** After early struggles, NASA’s ambitious mission to Titan is “on track” for launch
 - <a href="https://spacenews.com/maxar-to-supply-3d-terrain-data-for-u-s-army-mixed-reality-system/" >🔗</a> **[SpaceNews]** Maxar to supply 3D terrain data for U.S. Army mixed-reality system
 - <a href="https://spacenews.com/fcc-closes-echostar-probes-as-spectrum-sales-reshape-d2d-race/" >🔗</a> **[SpaceNews]** FCC closes EchoStar probes as spectrum sales reshape D2D race
-- <a href="https://spacenews.com/airbus-ceo-very-committed-to-combination-of-european-space-businesses/" >🔗</a> **[SpaceNews]** Airbus CEO ‘very committed’ to combination of European space businesses
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ This launch carries 21 satellites manufactured by York Space Systems.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250910T130700">2025-09-10 13:07:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250910T133526">2025-09-10 13:35:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
