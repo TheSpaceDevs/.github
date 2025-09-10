@@ -90,7 +90,9 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-uses-colorado-mountains-for-simulated-artemis-moon-landing-course/" >🔗</a> **[NASA]** NASA Uses Colorado Mountains for Simulated Artemis Moon Landing Course
 - <a href="https://spaceflightnow.com/2025/09/10/live-coverage-spacex-attempts-to-launch-indonesian-communications-satellite-following-back-to-back-weather-scrubs/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX attempts to launch Indonesian communications satellite following back-to-back weather scrubs
+- <a href="https://science.nasa.gov/science-research/earth-science/the-earth-observer-editors-corner-july-september-2025/" >🔗</a> **[NASA]** The Earth Observer Editor’s Corner: July–September 2025
 - <a href="https://science.nasa.gov/science-research/earth-science/summary-of-the-11th-above-science-team-meeting/" >🔗</a> **[NASA]** Summary of the 11th ABoVE Science Team Meeting
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-view-artemis-moon-rocket-spacecraft-at-kennedy/" >🔗</a> **[NASA]** NASA Invites Media to View Artemis Moon Rocket, Spacecraft at Kennedy
 - <a href="https://science.nasa.gov/earth/nasa-data-trainings-help-uruguay-navigate-drought/" >🔗</a> **[NASA]** NASA Data, Trainings Help Uruguay Navigate Drought
@@ -98,8 +100,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-says-mars-rover-discovered-potential-biosignature-last-year/" >🔗</a> **[NASA]** NASA Says Mars Rover Discovered Potential Biosignature Last Year
 - <a href="https://science.nasa.gov/uncategorized/nasa-aims-to-keep-fuel-cool-under-pressure-with-zero-boil-off-experiment-on-ng-23/" >🔗</a> **[NASA]** NASA Aims to Keep Fuel Cool Under Pressure with Zero Boil-Off Experiment On NG-23
 - <a href="https://www.nasa.gov/image-article/dinner-is-served/" >🔗</a> **[NASA]** Dinner is Served!
-- <a href="https://spacenews.com/rendezvous-robotics-raises-funding-to-develop-technology-for-self-assembling-space-structures/" >🔗</a> **[SpaceNews]** Rendezvous Robotics raises funding to develop technology for self-assembling space structures
-- <a href="https://spacenews.com/spacex-launches-21-satellites-for-space-development-agency-transport-layer-military-network/" >🔗</a> **[SpaceNews]** SpaceX launches 21 satellites for Space Development Agency ‘Transport Layer’ military network
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250910T200145">2025-09-10 20:01:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250910T203312">2025-09-10 20:33:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
