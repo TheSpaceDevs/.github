@@ -90,16 +90,16 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/boeing-turns-to-3d-printing-to-speed-production-of-satellite-solar-arrays/" >🔗</a> **[SpaceNews]** Boeing turns to 3D printing to speed production of satellite solar arrays
+- <a href="https://www.nasa.gov/news-release/nasa-says-mars-rover-discovered-potential-biosignature-last-year/" >🔗</a> **[NASA]** NASA Says Mars Rover Discovered Potential Biosignature Last Year
+- <a href="https://science.nasa.gov/uncategorized/nasa-aims-to-keep-fuel-cool-under-pressure-with-zero-boil-off-experiment-on-ng-23/" >🔗</a> **[NASA]** NASA Aims to Keep Fuel Cool Under Pressure with Zero Boil-Off Experiment On NG-23
+- <a href="https://www.nasa.gov/image-article/dinner-is-served/" >🔗</a> **[NASA]** Dinner is Served!
+- <a href="https://spacenews.com/rendezvous-robotics-raises-funding-to-develop-technology-for-self-assembling-space-structures/" >🔗</a> **[SpaceNews]** Rendezvous Robotics raises funding to develop technology for self-assembling space structures
+- <a href="https://spacenews.com/spacex-launches-21-satellites-for-space-development-agency-transport-layer-military-network/" >🔗</a> **[SpaceNews]** SpaceX launches 21 satellites for Space Development Agency ‘Transport Layer’ military network
 - <a href="https://europeanspaceflight.com/genesis-sfl-moves-up-launch-dates-for-two-return-capsule-demo-missions/" >🔗</a> **[European Spaceflight]** Genesis SFL Moves Up Launch Dates for Two Return Capsule Demo Missions
 - <a href="https://science.nasa.gov/missions/webb/nasas-webb-observes-immense-stellar-jet-on-outskirts-of-our-milky-way/" >🔗</a> **[NASA]** NASA’s Webb Observes Immense Stellar Jet on Outskirts of Our Milky Way
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/09/Immense_stellar_jet_in_Milky_Way_outskirts" >🔗</a> **[ESA]** Immense stellar jet in Milky Way outskirts
 - <a href="https://spacenews.com/how-is-the-space-force-doing-on-getting-the-resources-it-needs/" >🔗</a> **[SpaceNews]** How is the Space Force doing on getting the resources it needs?
-- <a href="https://spacenews.com/japans-ihi-expands-constellation-plans-with-satvu-thermal-imaging-partnership/" >🔗</a> **[SpaceNews]** Japan’s IHI expands constellation plans with SatVu thermal imaging partnership
-- <a href="https://www.nasa.gov/science-research/planetary-science/astrobiology/what-would-it-take-to-say-we-found-life-we-asked-a-nasa-expert-episode-63/" >🔗</a> **[NASA]** What Would It Take to Say We Found Life? We Asked a NASA Expert: Episode 63
-- <a href="https://www.nasa.gov/news-release/nasa-to-share-details-of-new-perseverance-mars-rover-finding-2/" >🔗</a> **[NASA]** NASA to Share Details of New Perseverance Mars Rover Finding
-- <a href="https://spacenews.com/musk-confident-starship-will-start-launching-100-tons-to-orbit-next-year/" >🔗</a> **[SpaceNews]** Musk confident Starship will start launching 100 tons to orbit next year
-- <a href="https://spacenews.com/the-grief-of-a-fandom-on-starship-musk-and-losing-the-spark/" >🔗</a> **[SpaceNews]** The grief of a fandom: on Starship, Musk and losing the spark
-- <a href="https://spacenews.com/ramses-asteroid-mission-on-track-ahead-of-key-funding/" >🔗</a> **[SpaceNews]** Ramses asteroid mission on track ahead of key funding
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250910T150129">2025-09-10 15:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250910T153314">2025-09-10 15:33:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
