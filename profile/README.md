@@ -90,6 +90,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/science-research/earth-science/summary-of-the-11th-above-science-team-meeting/" >🔗</a> **[NASA]** Summary of the 11th ABoVE Science Team Meeting
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-view-artemis-moon-rocket-spacecraft-at-kennedy/" >🔗</a> **[NASA]** NASA Invites Media to View Artemis Moon Rocket, Spacecraft at Kennedy
 - <a href="https://science.nasa.gov/earth/nasa-data-trainings-help-uruguay-navigate-drought/" >🔗</a> **[NASA]** NASA Data, Trainings Help Uruguay Navigate Drought
 - <a href="https://spacenews.com/boeing-turns-to-3d-printing-to-speed-production-of-satellite-solar-arrays/" >🔗</a> **[SpaceNews]** Boeing turns to 3D printing to speed production of satellite solar arrays
@@ -99,7 +100,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spacenews.com/rendezvous-robotics-raises-funding-to-develop-technology-for-self-assembling-space-structures/" >🔗</a> **[SpaceNews]** Rendezvous Robotics raises funding to develop technology for self-assembling space structures
 - <a href="https://spacenews.com/spacex-launches-21-satellites-for-space-development-agency-transport-layer-military-network/" >🔗</a> **[SpaceNews]** SpaceX launches 21 satellites for Space Development Agency ‘Transport Layer’ military network
 - <a href="https://europeanspaceflight.com/genesis-sfl-moves-up-launch-dates-for-two-return-capsule-demo-missions/" >🔗</a> **[European Spaceflight]** Genesis SFL Moves Up Launch Dates for Two Return Capsule Demo Missions
-- <a href="https://spacenews.com/how-is-the-space-force-doing-on-getting-the-resources-it-needs/" >🔗</a> **[SpaceNews]** How is the Space Force doing on getting the resources it needs?
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250910T190115">2025-09-10 19:01:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250910T193103">2025-09-10 19:31:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
