@@ -94,6 +94,7 @@ This launch carries 21 satellites manufactured by York Space Systems.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ramses-asteroid-mission-on-track-ahead-of-key-funding/" >🔗</a> **[SpaceNews]** Ramses asteroid mission on track ahead of key funding
 - <a href="https://spaceflightnow.com/2025/09/10/live-coverage-space-development-agency-spacex-to-launch-next-gen-national-security-satellites/" >🔗</a> **[Spaceflight Now]** Live coverage: Space Development Agency, SpaceX to launch next-gen national security satellites
 - <a href="https://spacenews.com/short-duration-space-station-missions-not-part-of-nasas-long-term-plans/" >🔗</a> **[SpaceNews]** Short-duration space station missions not part of NASA’s long-term plans
 - <a href="https://www.nasaspaceflight.com/2025/09/spacexs-17-billion-spectrum-starlinks-revolution/" >🔗</a> **[NASASpaceflight]** SpaceX’s $17 Billion Spectrum Coup: Securing Starlink’s Direct-to-Cell Revolution
@@ -103,7 +104,6 @@ This launch carries 21 satellites manufactured by York Space Systems.
 - <a href="https://spacenews.com/airbus-ceo-very-committed-to-combination-of-european-space-businesses/" >🔗</a> **[SpaceNews]** Airbus CEO ‘very committed’ to combination of European space businesses
 - <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-partnerships-allow-artificial-intelligence-to-predict-solar-events/" >🔗</a> **[NASA]** NASA Partnerships Allow Artificial Intelligence to Predict Solar Events
 - <a href="https://www.nasa.gov/image-article/artemis-ii-crew-walks-out-for-practice-scenarios/" >🔗</a> **[NASA]** Artemis II Crew Walks Out for Practice Scenarios
-- <a href="https://www.nasa.gov/centers-and-facilities/goddard/ami-choi-unraveling-the-invisible-universe/" >🔗</a> **[NASA]** Ami Choi: Unraveling the Invisible Universe
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ This launch carries 21 satellites manufactured by York Space Systems.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250910T030914">2025-09-10 03:09:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250910T033712">2025-09-10 03:37:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
