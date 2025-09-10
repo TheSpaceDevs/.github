@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/mars-samples-must-be-returned-to-earth-to-prove-if-life-existed-there/" >🔗</a> **[SpacePolicyOnline.com]** Mars Samples Must Be Returned To Earth to Prove If Life Existed There
 - <a href="https://www.nasaspaceflight.com/2025/09/nasa-potential-life-peculiar-rock/" >🔗</a> **[NASASpaceflight]** NASA Unveils Potential Evidence of Ancient Martian Life in Peculiar Rock Patterns
 - <a href="https://spacenews.com/nasa-highlights-potential-evidence-of-past-life-in-martian-rock/" >🔗</a> **[SpaceNews]** NASA highlights potential evidence of past life in Martian rock
 - <a href="https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-uses-colorado-mountains-for-simulated-artemis-moon-landing-course/" >🔗</a> **[NASA]** NASA Uses Colorado Mountains for Simulated Artemis Moon Landing Course
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-view-artemis-moon-rocket-spacecraft-at-kennedy/" >🔗</a> **[NASA]** NASA Invites Media to View Artemis Moon Rocket, Spacecraft at Kennedy
 - <a href="https://science.nasa.gov/earth/nasa-data-trainings-help-uruguay-navigate-drought/" >🔗</a> **[NASA]** NASA Data, Trainings Help Uruguay Navigate Drought
 - <a href="https://spacenews.com/boeing-turns-to-3d-printing-to-speed-production-of-satellite-solar-arrays/" >🔗</a> **[SpaceNews]** Boeing turns to 3D printing to speed production of satellite solar arrays
-- <a href="https://www.nasa.gov/news-release/nasa-says-mars-rover-discovered-potential-biosignature-last-year/" >🔗</a> **[NASA]** NASA Says Mars Rover Discovered Potential Biosignature Last Year
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250910T220113">2025-09-10 22:01:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250910T223258">2025-09-10 22:32:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
