@@ -90,6 +90,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-highlights-potential-evidence-of-past-life-in-martian-rock/" >🔗</a> **[SpaceNews]** NASA highlights potential evidence of past life in Martian rock
 - <a href="https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-uses-colorado-mountains-for-simulated-artemis-moon-landing-course/" >🔗</a> **[NASA]** NASA Uses Colorado Mountains for Simulated Artemis Moon Landing Course
 - <a href="https://spaceflightnow.com/2025/09/10/live-coverage-spacex-attempts-to-launch-indonesian-communications-satellite-following-back-to-back-weather-scrubs/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX attempts to launch Indonesian communications satellite following back-to-back weather scrubs
 - <a href="https://science.nasa.gov/science-research/earth-science/the-earth-observer-editors-corner-july-september-2025/" >🔗</a> **[NASA]** The Earth Observer Editor’s Corner: July–September 2025
@@ -99,7 +100,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spacenews.com/boeing-turns-to-3d-printing-to-speed-production-of-satellite-solar-arrays/" >🔗</a> **[SpaceNews]** Boeing turns to 3D printing to speed production of satellite solar arrays
 - <a href="https://www.nasa.gov/news-release/nasa-says-mars-rover-discovered-potential-biosignature-last-year/" >🔗</a> **[NASA]** NASA Says Mars Rover Discovered Potential Biosignature Last Year
 - <a href="https://science.nasa.gov/uncategorized/nasa-aims-to-keep-fuel-cool-under-pressure-with-zero-boil-off-experiment-on-ng-23/" >🔗</a> **[NASA]** NASA Aims to Keep Fuel Cool Under Pressure with Zero Boil-Off Experiment On NG-23
-- <a href="https://www.nasa.gov/image-article/dinner-is-served/" >🔗</a> **[NASA]** Dinner is Served!
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250910T210153">2025-09-10 21:01:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250910T213105">2025-09-10 21:31:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
