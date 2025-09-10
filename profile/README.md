@@ -97,9 +97,9 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spacenews.com/rendezvous-robotics-raises-funding-to-develop-technology-for-self-assembling-space-structures/" >🔗</a> **[SpaceNews]** Rendezvous Robotics raises funding to develop technology for self-assembling space structures
 - <a href="https://spacenews.com/spacex-launches-21-satellites-for-space-development-agency-transport-layer-military-network/" >🔗</a> **[SpaceNews]** SpaceX launches 21 satellites for Space Development Agency ‘Transport Layer’ military network
 - <a href="https://europeanspaceflight.com/genesis-sfl-moves-up-launch-dates-for-two-return-capsule-demo-missions/" >🔗</a> **[European Spaceflight]** Genesis SFL Moves Up Launch Dates for Two Return Capsule Demo Missions
+- <a href="https://spacenews.com/how-is-the-space-force-doing-on-getting-the-resources-it-needs/" >🔗</a> **[SpaceNews]** How is the Space Force doing on getting the resources it needs?
 - <a href="https://science.nasa.gov/missions/webb/nasas-webb-observes-immense-stellar-jet-on-outskirts-of-our-milky-way/" >🔗</a> **[NASA]** NASA’s Webb Observes Immense Stellar Jet on Outskirts of Our Milky Way
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/09/Immense_stellar_jet_in_Milky_Way_outskirts" >🔗</a> **[ESA]** Immense stellar jet in Milky Way outskirts
-- <a href="https://spacenews.com/how-is-the-space-force-doing-on-getting-the-resources-it-needs/" >🔗</a> **[SpaceNews]** How is the Space Force doing on getting the resources it needs?
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250910T160122">2025-09-10 16:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250910T163615">2025-09-10 16:36:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
