@@ -19,37 +19,32 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | SDA Tranche 1 Transport Layer B**. It is scheduled to be launched by *SpaceX*
+**Falcon 9 Block 5 | Nusantara Lima**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
+from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral SFS, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250910T141200">2025-09-10 14:12:00 UTC</a>.  Until
-then, this pad will have been used for 214
-out of 828 launches from this location. The launch status is currently
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250911T000000">2025-09-11 00:00:00 UTC</a>.  Until
+then, this pad will have been used for 332
+out of 1050 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Government/Top Secret* and the payload will be injected
-into *a Polar Orbit
-(PO)*.
+*Communications* and the payload will be injected
+into *a Geostationary Transfer Orbit
+(GTO)*.
 <br>
 <blockquote>
-  Tranche 1 Transport Layer B is one of six missions by the United States Space Force Space Development Agency (SDA) for the Proliferated Warfighter Space Architecture (PWSA) Tranche 1 Transport Layer constellation, which will provide assured, resilient, low-latency military data and connectivity worldwide to the full range of warfighter platforms from Low Earth Orbit satellites.
-
-The constellation will be interconnected with Optical Inter-Satellite Links (OISLs) which have significantly increased performance over existing radio frequency crosslinks. It is expected to operate over Ka band, have stereo coverage and be dynamically networked for simpler hand-offs, greater bandwidth and fault tolerance.
-
-This launch carries 21 satellites manufactured by York Space Systems.
+  Nusantara Lima is an Indonesian geostationary communications satellite with a capacity of more than 160 Gbps.
 </blockquote>
 
 <p float="left" align="center">
   <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=34.632,-120.611" >
+  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250910T141200">2025-09-10 14:12:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SDA Tranche 1 Transport Layer B&location=Vandenberg SFB, CA, USA&dates=20250910T141200Z%2F20250910T142700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | SDA Tranche 1 Transport Layer B** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250911T000000">2025-09-11 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Nusantara Lima&location=Cape Canaveral SFS, FL, USA&dates=20250911T000000Z%2F20250911T015500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Nusantara Lima** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250911T155406">2025-09-11 15:54:06 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Progress MS-32 (93P)&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20250911T155406Z%2F20250911T155406Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Progress MS-32 (93P)** from Baikonur Cosmodrome, Republic of Kazakhstan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250913T023000">2025-09-13 02:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b/Fregat | Glonass-K1 No. 18&location=Plesetsk Cosmodrome, Russian Federation&dates=20250913T023000Z%2F20250913T033000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1b/Fregat | Glonass-K1 No. 18** from Plesetsk Cosmodrome, Russian Federation.
@@ -59,6 +54,7 @@ This launch carries 21 satellites manufactured by York Space Systems.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250917T154100">2025-09-17 15:41:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-12&location=Vandenberg SFB, CA, USA&dates=20250917T154100Z%2F20250917T194100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-12** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250918T093000">2025-09-18 09:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-61&location=Cape Canaveral SFS, FL, USA&dates=20250918T093000Z%2F20250918T133000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-61** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250921T092000">2025-09-21 09:20:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-27&location=Cape Canaveral SFS, FL, USA&dates=20250921T092000Z%2F20250921T132000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-27** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250923T113200">2025-09-23 11:32:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | IMAP &amp; others&location=Kennedy Space Center, FL, USA&dates=20250923T113200Z%2F20250923T113200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | IMAP & others** from Kennedy Space Center, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -94,28 +90,28 @@ This launch carries 21 satellites manufactured by York Space Systems.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/genesis-sfl-moves-up-launch-dates-for-two-return-capsule-demo-missions/" >🔗</a> **[European Spaceflight]** Genesis SFL Moves Up Launch Dates for Two Return Capsule Demo Missions
+- <a href="https://science.nasa.gov/missions/webb/nasas-webb-observes-immense-stellar-jet-on-outskirts-of-our-milky-way/" >🔗</a> **[NASA]** NASA’s Webb Observes Immense Stellar Jet on Outskirts of Our Milky Way
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/09/Immense_stellar_jet_in_Milky_Way_outskirts" >🔗</a> **[ESA]** Immense stellar jet in Milky Way outskirts
+- <a href="https://spacenews.com/how-is-the-space-force-doing-on-getting-the-resources-it-needs/" >🔗</a> **[SpaceNews]** How is the Space Force doing on getting the resources it needs?
+- <a href="https://spacenews.com/japans-ihi-expands-constellation-plans-with-satvu-thermal-imaging-partnership/" >🔗</a> **[SpaceNews]** Japan’s IHI expands constellation plans with SatVu thermal imaging partnership
+- <a href="https://www.nasa.gov/science-research/planetary-science/astrobiology/what-would-it-take-to-say-we-found-life-we-asked-a-nasa-expert-episode-63/" >🔗</a> **[NASA]** What Would It Take to Say We Found Life? We Asked a NASA Expert: Episode 63
 - <a href="https://www.nasa.gov/news-release/nasa-to-share-details-of-new-perseverance-mars-rover-finding-2/" >🔗</a> **[NASA]** NASA to Share Details of New Perseverance Mars Rover Finding
 - <a href="https://spacenews.com/musk-confident-starship-will-start-launching-100-tons-to-orbit-next-year/" >🔗</a> **[SpaceNews]** Musk confident Starship will start launching 100 tons to orbit next year
 - <a href="https://spacenews.com/the-grief-of-a-fandom-on-starship-musk-and-losing-the-spark/" >🔗</a> **[SpaceNews]** The grief of a fandom: on Starship, Musk and losing the spark
 - <a href="https://spacenews.com/ramses-asteroid-mission-on-track-ahead-of-key-funding/" >🔗</a> **[SpaceNews]** Ramses asteroid mission on track ahead of key funding
-- <a href="https://spaceflightnow.com/2025/09/10/live-coverage-space-development-agency-spacex-to-launch-next-gen-national-security-satellites/" >🔗</a> **[Spaceflight Now]** Live coverage: Space Development Agency, SpaceX to launch next-gen national security satellites
-- <a href="https://spacenews.com/short-duration-space-station-missions-not-part-of-nasas-long-term-plans/" >🔗</a> **[SpaceNews]** Short-duration space station missions not part of NASA’s long-term plans
-- <a href="https://www.nasaspaceflight.com/2025/09/spacexs-17-billion-spectrum-starlinks-revolution/" >🔗</a> **[NASASpaceflight]** SpaceX’s $17 Billion Spectrum Coup: Securing Starlink’s Direct-to-Cell Revolution
-- <a href="https://arstechnica.com/space/2025/09/after-early-struggles-nasas-ambitious-mission-to-titan-is-on-track-for-launch/" >🔗</a> **[Arstechnica]** After early struggles, NASA’s ambitious mission to Titan is “on track” for launch
-- <a href="https://spacenews.com/maxar-to-supply-3d-terrain-data-for-u-s-army-mixed-reality-system/" >🔗</a> **[SpaceNews]** Maxar to supply 3D terrain data for U.S. Army mixed-reality system
-- <a href="https://spacenews.com/fcc-closes-echostar-probes-as-spectrum-sales-reshape-d2d-race/" >🔗</a> **[SpaceNews]** FCC closes EchoStar probes as spectrum sales reshape D2D race
 
 
 ### Launch-related News 🚀
 
-- <a href="https://spaceflightnow.com/2025/09/10/live-coverage-space-development-agency-spacex-to-launch-next-gen-national-security-satellites/" >🔗</a> **[Spaceflight Now]** Live coverage: Space Development Agency, SpaceX to launch next-gen national security satellites
 - <a href="https://www.nasaspaceflight.com/2025/09/launch-roundup-090825/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Cygnus XL and Progress to fly cargo missions to ISS
-- <a href="https://spacenews.com/space-force-assigns-12-national-security-missions-to-spacex-and-ula/" >🔗</a> **[SpaceNews]** Space Force assigns 12 national security missions to SpaceX and ULA
+- <a href="https://spaceflightnow.com/2025/09/08/live-coverage-spacex-to-launch-indonesian-communications-satellite-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Indonesian communications satellite from Cape Canaveral
+- <a href="https://www.nasaspaceflight.com/2025/09/launch-roundup-090125/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX to launch five Falcon 9 missions this week
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250910T140103">2025-09-10 14:01:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250910T143354">2025-09-10 14:33:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
