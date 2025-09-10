@@ -108,13 +108,14 @@ This launch carries 21 satellites manufactured by York Space Systems.
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2025/09/10/live-coverage-space-development-agency-spacex-to-launch-next-gen-national-security-satellites/" >🔗</a> **[Spaceflight Now]** Live coverage: Space Development Agency, SpaceX to launch next-gen national security satellites
 - <a href="https://www.nasaspaceflight.com/2025/09/launch-roundup-090825/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Cygnus XL and Progress to fly cargo missions to ISS
 - <a href="https://spacenews.com/space-force-assigns-12-national-security-missions-to-spacex-and-ula/" >🔗</a> **[SpaceNews]** Space Force assigns 12 national security missions to SpaceX and ULA
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250910T070128">2025-09-10 07:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250910T073125">2025-09-10 07:31:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
