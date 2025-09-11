@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Plato/Plato_arrived_at_ESA_s_test_centre_by_boat" >🔗</a> **[ESA]** Plato arrived at ESA’s test centre by boat
 - <a href="https://spacenews.com/house-appropriators-offer-support-to-threatened-nasa-missions/" >🔗</a> **[SpaceNews]** House appropriators offer support to threatened NASA missions
 - <a href="https://europeanspaceflight.com/satellite-solar-panel-startup-astradyne-closes-e2m-seed-round/" >🔗</a> **[European Spaceflight]** Satellite Solar Panel Startup Astradyne Closes €2M Seed Round
 - <a href="https://spacenews.com/eutelsat-opens-oneweb-ground-stations-to-earth-observation-with-ka-band-boost/" >🔗</a> **[SpaceNews]** Eutelsat opens OneWeb ground stations to Earth observation with Ka-band boost
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/nasa-highlights-potential-evidence-of-past-life-in-martian-rock/" >🔗</a> **[SpaceNews]** NASA highlights potential evidence of past life in Martian rock
 - <a href="https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-uses-colorado-mountains-for-simulated-artemis-moon-landing-course/" >🔗</a> **[NASA]** NASA Uses Colorado Mountains for Simulated Artemis Moon Landing Course
 - <a href="https://spaceflightnow.com/2025/09/10/live-coverage-spacex-attempts-to-launch-indonesian-communications-satellite-following-back-to-back-weather-scrubs/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX attempts to launch Indonesian communications satellite following back-to-back weather scrubs
-- <a href="https://science.nasa.gov/science-research/earth-science/the-earth-observer-editors-corner-july-september-2025/" >🔗</a> **[NASA]** The Earth Observer Editor’s Corner: July–September 2025
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250911T120206">2025-09-11 12:02:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250911T124304">2025-09-11 12:43:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
