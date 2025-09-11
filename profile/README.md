@@ -104,13 +104,14 @@ into *a Low Earth Orbit
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2025/09/progress-ms-32/" >🔗</a> **[NASASpaceflight]** Progress MS-32 set for launch to ISS from Baikonur
 - <a href="https://www.nasaspaceflight.com/2025/09/launch-roundup-090825/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Cygnus XL and Progress to fly cargo missions to ISS
 - <a href="https://www.nasa.gov/news-release/nasa-to-provide-coverage-of-progress-93-launch-space-station-docking/" >🔗</a> **[NASA]** NASA to Provide Coverage of Progress 93 Launch, Space Station Docking
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250911T150113">2025-09-11 15:01:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250911T153216">2025-09-11 15:32:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
