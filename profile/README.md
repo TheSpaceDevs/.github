@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/09/progress-ms-32/" >🔗</a> **[NASASpaceflight]** Progress MS-32 set for launch to ISS from Baikonur
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Plato/Plato_arrived_at_ESA_s_test_centre_by_boat" >🔗</a> **[ESA]** Plato arrived at ESA’s test centre by boat
 - <a href="https://spacenews.com/house-appropriators-offer-support-to-threatened-nasa-missions/" >🔗</a> **[SpaceNews]** House appropriators offer support to threatened NASA missions
 - <a href="https://europeanspaceflight.com/satellite-solar-panel-startup-astradyne-closes-e2m-seed-round/" >🔗</a> **[European Spaceflight]** Satellite Solar Panel Startup Astradyne Closes €2M Seed Round
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2025/09/nasa-potential-life-peculiar-rock/" >🔗</a> **[NASASpaceflight]** NASA Unveils Potential Evidence of Ancient Martian Life in Peculiar Rock Patterns
 - <a href="https://spacenews.com/nasa-highlights-potential-evidence-of-past-life-in-martian-rock/" >🔗</a> **[SpaceNews]** NASA highlights potential evidence of past life in Martian rock
 - <a href="https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-uses-colorado-mountains-for-simulated-artemis-moon-landing-course/" >🔗</a> **[NASA]** NASA Uses Colorado Mountains for Simulated Artemis Moon Landing Course
-- <a href="https://spaceflightnow.com/2025/09/10/live-coverage-spacex-attempts-to-launch-indonesian-communications-satellite-following-back-to-back-weather-scrubs/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX attempts to launch Indonesian communications satellite following back-to-back weather scrubs
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250911T130700">2025-09-11 13:07:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250911T133418">2025-09-11 13:34:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
