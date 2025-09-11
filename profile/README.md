@@ -90,6 +90,8 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/langley/nasa-embry-riddle-enact-agreement-to-advance-research-educational-opportunities/" >🔗</a> **[NASA]** NASA, Embry-Riddle Enact Agreement to Advance Research, Educational Opportunities
+- <a href="https://www.nasa.gov/general/thermophysics-facilities-branch-points-of-contact/" >🔗</a> **[NASA]** Thermophysics Facilities Branch – Points of Contact
 - <a href="https://www.nasa.gov/image-article/shining-pismis-24/" >🔗</a> **[NASA]** Shining Pismis 24
 - <a href="https://www.nasa.gov/missions/jason-cs-sentinel-6/sentinel-6b/new-u-s-european-sea-level-satellite-will-help-safeguard-ships-at-sea/" >🔗</a> **[NASA]** New U.S.-European Sea Level Satellite Will Help Safeguard Ships at Sea
 - <a href="https://spacenews.com/nasas-sean-duffy-surprising-leadership/" >🔗</a> **[SpaceNews]** NASA’s Sean Duffy surprising leadership
@@ -98,8 +100,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.spacescout.info/2025/09/after-biosignature-announcement-mars-sample-return-remains-in-limbo/" >🔗</a> **[Space Scout]** After Biosignature Announcement, Mars Sample Return Remains in Limbo
 - <a href="https://europeanspaceflight.com/ispace-europe-completes-key-milestone-for-esa-magpie-lunar-lander/" >🔗</a> **[European Spaceflight]** ispace-Europe Completes Key Milestone for ESA MAGPIE Lunar Lander
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_in_French_Guiana_for_launch_campaign" >🔗</a> **[ESA]** Sentinel-1D in French Guiana for launch campaign
-- <a href="https://www.nasaspaceflight.com/2025/09/progress-ms-32/" >🔗</a> **[NASASpaceflight]** Progress MS-32 set for launch to ISS from Baikonur
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Plato/Plato_arrived_at_ESA_s_test_centre_by_boat" >🔗</a> **[ESA]** Plato arrived at ESA’s test centre by boat
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250911T190101">2025-09-11 19:01:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250911T193103">2025-09-11 19:31:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
