@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/house-passes-fy2026-ndaa/" >🔗</a> **[SpacePolicyOnline.com]** House Passes FY2026 NDAA
 - <a href="https://spacepolicyonline.com/news/mars-samples-must-be-returned-to-earth-to-prove-if-life-existed-there/" >🔗</a> **[SpacePolicyOnline.com]** Mars Samples Must Be Returned To Earth to Prove If Life Existed There
 - <a href="https://www.nasaspaceflight.com/2025/09/nasa-potential-life-peculiar-rock/" >🔗</a> **[NASASpaceflight]** NASA Unveils Potential Evidence of Ancient Martian Life in Peculiar Rock Patterns
 - <a href="https://spacenews.com/nasa-highlights-potential-evidence-of-past-life-in-martian-rock/" >🔗</a> **[SpaceNews]** NASA highlights potential evidence of past life in Martian rock
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/science-research/earth-science/summary-of-the-11th-above-science-team-meeting/" >🔗</a> **[NASA]** Summary of the 11th ABoVE Science Team Meeting
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-view-artemis-moon-rocket-spacecraft-at-kennedy/" >🔗</a> **[NASA]** NASA Invites Media to View Artemis Moon Rocket, Spacecraft at Kennedy
 - <a href="https://science.nasa.gov/earth/nasa-data-trainings-help-uruguay-navigate-drought/" >🔗</a> **[NASA]** NASA Data, Trainings Help Uruguay Navigate Drought
-- <a href="https://spacenews.com/boeing-turns-to-3d-printing-to-speed-production-of-satellite-solar-arrays/" >🔗</a> **[SpaceNews]** Boeing turns to 3D printing to speed production of satellite solar arrays
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250911T040145">2025-09-11 04:01:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250911T043451">2025-09-11 04:34:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
