@@ -90,6 +90,8 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/shining-pismis-24/" >🔗</a> **[NASA]** Shining Pismis 24
+- <a href="https://www.nasa.gov/missions/jason-cs-sentinel-6/sentinel-6b/new-u-s-european-sea-level-satellite-will-help-safeguard-ships-at-sea/" >🔗</a> **[NASA]** New U.S.-European Sea Level Satellite Will Help Safeguard Ships at Sea
 - <a href="https://spacenews.com/nasas-sean-duffy-surprising-leadership/" >🔗</a> **[SpaceNews]** NASA’s Sean Duffy surprising leadership
 - <a href="https://www.nasa.gov/general/artemis-ii-crew-both-subjects-and-scientists-in-nasa-deep-space-research/" >🔗</a> **[NASA]** Artemis II Crew Both Subjects and Scientists in NASA Deep Space Research
 - <a href="https://www.nasa.gov/missions/station/commercial-resupply/ng-crs/nasas-northrop-grumman-crs-23-infographics-hardware/" >🔗</a> **[NASA]** NASA’s Northrop Grumman CRS-23 Infographics & Hardware
@@ -98,8 +100,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_in_French_Guiana_for_launch_campaign" >🔗</a> **[ESA]** Sentinel-1D in French Guiana for launch campaign
 - <a href="https://www.nasaspaceflight.com/2025/09/progress-ms-32/" >🔗</a> **[NASASpaceflight]** Progress MS-32 set for launch to ISS from Baikonur
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Plato/Plato_arrived_at_ESA_s_test_centre_by_boat" >🔗</a> **[ESA]** Plato arrived at ESA’s test centre by boat
-- <a href="https://spacenews.com/house-appropriators-offer-support-to-threatened-nasa-missions/" >🔗</a> **[SpaceNews]** House appropriators offer support to threatened NASA missions
-- <a href="https://europeanspaceflight.com/satellite-solar-panel-startup-astradyne-closes-e2m-seed-round/" >🔗</a> **[European Spaceflight]** Satellite Solar Panel Startup Astradyne Closes €2M Seed Round
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250911T173132">2025-09-11 17:31:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250911T180153">2025-09-11 18:01:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
