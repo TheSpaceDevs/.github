@@ -90,6 +90,8 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/sophia-and-armada-link-terrestrial-and-space-edge-processors/" >🔗</a> **[SpaceNews]** Sophia and Armada link terrestrial and space edge processors
+- <a href="https://www.nasa.gov/general/nasa-ames-science-directorate-stars-of-the-month-september-2025/" >🔗</a> **[NASA]** NASA Ames Science Directorate: Stars of the Month – September 2025
 - <a href="https://www.nasa.gov/centers-and-facilities/langley/nasa-embry-riddle-enact-agreement-to-advance-research-educational-opportunities/" >🔗</a> **[NASA]** NASA, Embry-Riddle Enact Agreement to Advance Research, Educational Opportunities
 - <a href="https://www.nasa.gov/general/thermophysics-facilities-branch-points-of-contact/" >🔗</a> **[NASA]** Thermophysics Facilities Branch – Points of Contact
 - <a href="https://www.nasa.gov/image-article/shining-pismis-24/" >🔗</a> **[NASA]** Shining Pismis 24
@@ -98,8 +100,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.nasa.gov/general/artemis-ii-crew-both-subjects-and-scientists-in-nasa-deep-space-research/" >🔗</a> **[NASA]** Artemis II Crew Both Subjects and Scientists in NASA Deep Space Research
 - <a href="https://www.nasa.gov/missions/station/commercial-resupply/ng-crs/nasas-northrop-grumman-crs-23-infographics-hardware/" >🔗</a> **[NASA]** NASA’s Northrop Grumman CRS-23 Infographics & Hardware
 - <a href="https://www.spacescout.info/2025/09/after-biosignature-announcement-mars-sample-return-remains-in-limbo/" >🔗</a> **[Space Scout]** After Biosignature Announcement, Mars Sample Return Remains in Limbo
-- <a href="https://europeanspaceflight.com/ispace-europe-completes-key-milestone-for-esa-magpie-lunar-lander/" >🔗</a> **[European Spaceflight]** ispace-Europe Completes Key Milestone for ESA MAGPIE Lunar Lander
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_in_French_Guiana_for_launch_campaign" >🔗</a> **[ESA]** Sentinel-1D in French Guiana for launch campaign
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250911T203126">2025-09-11 20:31:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250911T210132">2025-09-11 21:01:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
