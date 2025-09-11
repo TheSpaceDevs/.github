@@ -90,16 +90,16 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasas-sean-duffy-surprising-leadership/" >🔗</a> **[SpaceNews]** NASA’s Sean Duffy surprising leadership
+- <a href="https://www.nasa.gov/general/artemis-ii-crew-both-subjects-and-scientists-in-nasa-deep-space-research/" >🔗</a> **[NASA]** Artemis II Crew Both Subjects and Scientists in NASA Deep Space Research
+- <a href="https://www.nasa.gov/missions/station/commercial-resupply/ng-crs/nasas-northrop-grumman-crs-23-infographics-hardware/" >🔗</a> **[NASA]** NASA’s Northrop Grumman CRS-23 Infographics & Hardware
+- <a href="https://www.spacescout.info/2025/09/after-biosignature-announcement-mars-sample-return-remains-in-limbo/" >🔗</a> **[Space Scout]** After Biosignature Announcement, Mars Sample Return Remains in Limbo
 - <a href="https://europeanspaceflight.com/ispace-europe-completes-key-milestone-for-esa-magpie-lunar-lander/" >🔗</a> **[European Spaceflight]** ispace-Europe Completes Key Milestone for ESA MAGPIE Lunar Lander
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_in_French_Guiana_for_launch_campaign" >🔗</a> **[ESA]** Sentinel-1D in French Guiana for launch campaign
 - <a href="https://www.nasaspaceflight.com/2025/09/progress-ms-32/" >🔗</a> **[NASASpaceflight]** Progress MS-32 set for launch to ISS from Baikonur
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Plato/Plato_arrived_at_ESA_s_test_centre_by_boat" >🔗</a> **[ESA]** Plato arrived at ESA’s test centre by boat
 - <a href="https://spacenews.com/house-appropriators-offer-support-to-threatened-nasa-missions/" >🔗</a> **[SpaceNews]** House appropriators offer support to threatened NASA missions
 - <a href="https://europeanspaceflight.com/satellite-solar-panel-startup-astradyne-closes-e2m-seed-round/" >🔗</a> **[European Spaceflight]** Satellite Solar Panel Startup Astradyne Closes €2M Seed Round
-- <a href="https://spacenews.com/eutelsat-opens-oneweb-ground-stations-to-earth-observation-with-ka-band-boost/" >🔗</a> **[SpaceNews]** Eutelsat opens OneWeb ground stations to Earth observation with Ka-band boost
-- <a href="https://spacepolicyonline.com/news/house-passes-fy2026-ndaa/" >🔗</a> **[SpacePolicyOnline.com]** House Passes FY2026 NDAA
-- <a href="https://spacepolicyonline.com/news/mars-samples-must-be-returned-to-earth-to-prove-if-life-existed-there/" >🔗</a> **[SpacePolicyOnline.com]** Mars Samples Must Be Returned To Earth to Prove If Life Existed There
-- <a href="https://www.nasaspaceflight.com/2025/09/nasa-potential-life-peculiar-rock/" >🔗</a> **[NASASpaceflight]** NASA Unveils Potential Evidence of Ancient Martian Life in Peculiar Rock Patterns
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250911T170104">2025-09-11 17:01:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250911T173132">2025-09-11 17:31:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
