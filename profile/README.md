@@ -90,16 +90,16 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/house-appropriators-approve-fy2026-budget-for-nasa/" >🔗</a> **[SpacePolicyOnline.com]** House Appropriators Approve FY2026 Budget for NASA
+- <a href="https://arstechnica.com/space/2025/09/nasa-found-intriguing-rocks-on-mars-so-where-does-that-leave-mars-sample-return/" >🔗</a> **[Arstechnica]** NASA found intriguing rocks on Mars, so where does that leave Mars Sample Return?
+- <a href="https://www.nasa.gov/news-release/nasa-armstrong-to-host-partnership-day-oct-21-22/" >🔗</a> **[NASA]** NASA Armstrong to Host Partnership Day Oct. 21-22
+- <a href="https://spacenews.com/firefly-pitches-rockets-satellites-for-golden-dome/" >🔗</a> **[SpaceNews]** Firefly pitches rockets, satellites for Golden Dome
 - <a href="https://spacenews.com/sophia-and-armada-link-terrestrial-and-space-edge-processors/" >🔗</a> **[SpaceNews]** Sophia and Armada link terrestrial and space edge processors
 - <a href="https://www.nasa.gov/general/nasa-ames-science-directorate-stars-of-the-month-september-2025/" >🔗</a> **[NASA]** NASA Ames Science Directorate: Stars of the Month – September 2025
 - <a href="https://www.nasa.gov/centers-and-facilities/langley/nasa-embry-riddle-enact-agreement-to-advance-research-educational-opportunities/" >🔗</a> **[NASA]** NASA, Embry-Riddle Enact Agreement to Advance Research, Educational Opportunities
 - <a href="https://www.nasa.gov/general/thermophysics-facilities-branch-points-of-contact/" >🔗</a> **[NASA]** Thermophysics Facilities Branch – Points of Contact
 - <a href="https://www.nasa.gov/image-article/shining-pismis-24/" >🔗</a> **[NASA]** Shining Pismis 24
 - <a href="https://www.nasa.gov/missions/jason-cs-sentinel-6/sentinel-6b/new-u-s-european-sea-level-satellite-will-help-safeguard-ships-at-sea/" >🔗</a> **[NASA]** New U.S.-European Sea Level Satellite Will Help Safeguard Ships at Sea
-- <a href="https://spacenews.com/nasas-sean-duffy-surprising-leadership/" >🔗</a> **[SpaceNews]** NASA’s Sean Duffy surprising leadership
-- <a href="https://www.nasa.gov/general/artemis-ii-crew-both-subjects-and-scientists-in-nasa-deep-space-research/" >🔗</a> **[NASA]** Artemis II Crew Both Subjects and Scientists in NASA Deep Space Research
-- <a href="https://www.nasa.gov/missions/station/commercial-resupply/ng-crs/nasas-northrop-grumman-crs-23-infographics-hardware/" >🔗</a> **[NASA]** NASA’s Northrop Grumman CRS-23 Infographics & Hardware
-- <a href="https://www.spacescout.info/2025/09/after-biosignature-announcement-mars-sample-return-remains-in-limbo/" >🔗</a> **[Space Scout]** After Biosignature Announcement, Mars Sample Return Remains in Limbo
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250911T213059">2025-09-11 21:30:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250911T220128">2025-09-11 22:01:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
