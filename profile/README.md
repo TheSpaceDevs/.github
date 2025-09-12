@@ -90,6 +90,9 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/cailabs-raises-67-million-to-scale-up-production-of-optical-ground-stations/" >🔗</a> **[SpaceNews]** Cailabs raises $67 million to scale up production of optical ground stations
+- <a href="https://europeanspaceflight.com/avio-approves-e400m-capital-increase-to-expand-defence-and-rocket-production/" >🔗</a> **[European Spaceflight]** Avio Approves €400M Capital Increase to Expand Defence and Rocket Production
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/09/Earth_from_Space_Gibson_Desert_Australia" >🔗</a> **[ESA]** Earth from Space: Gibson Desert, Australia
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Columbus_100_000_orbits_and_counting" >🔗</a> **[ESA]** Columbus: 100 000 orbits and counting
 - <a href="https://spacepolicyonline.com/news/house-appropriators-approve-fy2026-budget-for-nasa/" >🔗</a> **[SpacePolicyOnline.com]** House Appropriators Approve FY2026 Budget for NASA
 - <a href="https://arstechnica.com/space/2025/09/nasa-found-intriguing-rocks-on-mars-so-where-does-that-leave-mars-sample-return/" >🔗</a> **[Arstechnica]** NASA found intriguing rocks on Mars, so where does that leave Mars Sample Return?
@@ -97,9 +100,6 @@ into *a Medium Earth Orbit
 - <a href="https://spacenews.com/firefly-pitches-rockets-satellites-for-golden-dome/" >🔗</a> **[SpaceNews]** Firefly pitches rockets, satellites for Golden Dome
 - <a href="https://spacenews.com/sophia-and-armada-link-terrestrial-and-space-edge-processors/" >🔗</a> **[SpaceNews]** Sophia and Armada link terrestrial and space edge processors
 - <a href="https://www.nasa.gov/general/nasa-ames-science-directorate-stars-of-the-month-september-2025/" >🔗</a> **[NASA]** NASA Ames Science Directorate: Stars of the Month – September 2025
-- <a href="https://www.nasa.gov/centers-and-facilities/langley/nasa-embry-riddle-enact-agreement-to-advance-research-educational-opportunities/" >🔗</a> **[NASA]** NASA, Embry-Riddle Enact Agreement to Advance Research, Educational Opportunities
-- <a href="https://www.nasa.gov/general/thermophysics-facilities-branch-points-of-contact/" >🔗</a> **[NASA]** Thermophysics Facilities Branch – Points of Contact
-- <a href="https://www.nasa.gov/image-article/shining-pismis-24/" >🔗</a> **[NASA]** Shining Pismis 24
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250912T090139">2025-09-12 09:01:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250912T093210">2025-09-12 09:32:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
