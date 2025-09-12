@@ -90,6 +90,7 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/a-brief-outburst/" >🔗</a> **[NASA]** A Brief Outburst
 - <a href="https://www.nasa.gov/earth/natural-disasters/tsunamis/nasas-guardian-tsunami-detection-tech-catches-wave-in-real-time/" >🔗</a> **[NASA]** NASA’s GUARDIAN Tsunami Detection Tech Catches Wave in Real Time
 - <a href="https://europeanspaceflight.com/cailabs-raises-e57m-to-ramp-up-production-of-optical-ground-station/" >🔗</a> **[European Spaceflight]** Cailabs Raises €57M to Ramp Up Production of Optical Ground Station
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_08-12_September_2025" >🔗</a> **[ESA]** Week in images: 08-12 September 2025
@@ -99,7 +100,6 @@ into *a Medium Earth Orbit
 - <a href="https://www.nasa.gov/directorates/stmd/space-tech-research-grants/nstgro-2025/" >🔗</a> **[NASA]** NSTGRO 2025
 - <a href="https://science.nasa.gov/missions/hubble/hubble-surveys-cloudy-cluster/" >🔗</a> **[NASA]** Hubble Surveys Cloudy Cluster
 - <a href="https://www.nasa.gov/events/paw-participant-discussion/" >🔗</a> **[NASA]** PAW Participant Discussion
-- <a href="https://spacenews.com/apex-reaches-billion-dollar-valuation-with-series-d-funding-round/" >🔗</a> **[SpaceNews]** Apex reaches billion-dollar valuation with Series D funding round
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250912T153214">2025-09-12 15:32:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250912T160231">2025-09-12 16:02:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
