@@ -90,6 +90,7 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-completes-second-hot-fire-test-for-new-moon-rocket-including-engine-restarts/" >🔗</a> **[SpaceNews]** China completes second hot-fire test for new moon rocket, including engine restarts
 - <a href="https://www.nasaspaceflight.com/2025/09/flight-11-booster-15-ship-38/" >🔗</a> **[NASASpaceflight]** Flight 11 closing in as Booster 15 completes testing, Pad 1 awaits Ship 38
 - <a href="https://www.nasa.gov/news-release/nasa-awards-third-glenn-facility-and-engineering-services-contract/" >🔗</a> **[NASA]** NASA Awards Third Glenn Facility and Engineering Services Contract
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasas-x-59-moves-toward-first-flight-at-speed-of-safety/" >🔗</a> **[NASA]** NASA’s X-59 Moves Toward First Flight at Speed of Safety
@@ -99,7 +100,6 @@ into *a Medium Earth Orbit
 - <a href="https://www.nasa.gov/image-article/a-brief-outburst/" >🔗</a> **[NASA]** A Brief Outburst
 - <a href="https://www.nasa.gov/earth/natural-disasters/tsunamis/nasas-guardian-tsunami-detection-tech-catches-wave-in-real-time/" >🔗</a> **[NASA]** NASA’s GUARDIAN Tsunami Detection Tech Catches Wave in Real Time
 - <a href="https://europeanspaceflight.com/cailabs-raises-e57m-to-ramp-up-production-of-optical-ground-station/" >🔗</a> **[European Spaceflight]** Cailabs Raises €57M to Ramp Up Production of Optical Ground Station
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_08-12_September_2025" >🔗</a> **[ESA]** Week in images: 08-12 September 2025
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250912T220115">2025-09-12 22:01:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250912T223214">2025-09-12 22:32:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
