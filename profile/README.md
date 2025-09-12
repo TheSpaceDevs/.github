@@ -90,6 +90,8 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/maxar-executive-renews-warning-that-budget-cuts-threaten-commercial-remote-sensing-industry/" >🔗</a> **[SpaceNews]** Maxar executive renews warning that budget cuts threaten commercial remote sensing industry
+- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4649-4654-ridges-hollows-and-nodules-oh-my/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4649-4654: Ridges, Hollows and Nodules, Oh My
 - <a href="https://spacenews.com/china-completes-second-hot-fire-test-for-new-moon-rocket-including-engine-restarts/" >🔗</a> **[SpaceNews]** China completes second hot-fire test for new moon rocket, including engine restarts
 - <a href="https://www.nasaspaceflight.com/2025/09/flight-11-booster-15-ship-38/" >🔗</a> **[NASASpaceflight]** Flight 11 closing in as Booster 15 completes testing, Pad 1 awaits Ship 38
 - <a href="https://www.nasa.gov/news-release/nasa-awards-third-glenn-facility-and-engineering-services-contract/" >🔗</a> **[NASA]** NASA Awards Third Glenn Facility and Engineering Services Contract
@@ -98,8 +100,6 @@ into *a Medium Earth Orbit
 - <a href="https://spaceflightnow.com/2025/09/12/department-of-the-air-force-faa-clear-spacex-to-launch-up-to-120-falcon-9-rockets-annually-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Department of the Air Force, FAA clear SpaceX to launch up to 120 Falcon 9 rockets annually from Cape Canaveral
 - <a href="https://spaceflightnow.com/2025/09/12/new-u-s-military-satellite-constellation-takes-shape-with-first-launch-from-vandenberg-sfb/" >🔗</a> **[Spaceflight Now]** New U.S. military satellite constellation takes shape with first launch from Vandenberg SFB
 - <a href="https://www.nasa.gov/image-article/a-brief-outburst/" >🔗</a> **[NASA]** A Brief Outburst
-- <a href="https://www.nasa.gov/earth/natural-disasters/tsunamis/nasas-guardian-tsunami-detection-tech-catches-wave-in-real-time/" >🔗</a> **[NASA]** NASA’s GUARDIAN Tsunami Detection Tech Catches Wave in Real Time
-- <a href="https://europeanspaceflight.com/cailabs-raises-e57m-to-ramp-up-production-of-optical-ground-station/" >🔗</a> **[European Spaceflight]** Cailabs Raises €57M to Ramp Up Production of Optical Ground Station
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250912T230113">2025-09-12 23:01:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250912T233059">2025-09-12 23:30:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
