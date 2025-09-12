@@ -90,6 +90,8 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/humans-in-space/artemis-ii-crew-to-advance-human-spaceflight-research/" >🔗</a> **[NASA]** Artemis II Crew  to Advance Human Spaceflight Research
+- <a href="https://spacenews.com/how-carrying-enough-water-to-make-return-trip-propellant-simplifies-a-starship-mission-to-mars/" >🔗</a> **[SpaceNews]** How carrying enough water to make return-trip propellant simplifies a Starship mission to Mars
 - <a href="https://www.nasa.gov/directorates/stmd/space-tech-research-grants/nstgro-2025/" >🔗</a> **[NASA]** NSTGRO 2025
 - <a href="https://science.nasa.gov/missions/hubble/hubble-surveys-cloudy-cluster/" >🔗</a> **[NASA]** Hubble Surveys Cloudy Cluster
 - <a href="https://www.nasa.gov/events/paw-participant-discussion/" >🔗</a> **[NASA]** PAW Participant Discussion
@@ -98,8 +100,6 @@ into *a Medium Earth Orbit
 - <a href="https://spacenews.com/cailabs-raises-67-million-to-scale-up-production-of-optical-ground-stations/" >🔗</a> **[SpaceNews]** Cailabs raises $67 million to scale up production of optical ground stations
 - <a href="https://europeanspaceflight.com/avio-approves-e400m-capital-increase-to-expand-defence-and-rocket-production/" >🔗</a> **[European Spaceflight]** Avio Approves €400M Capital Increase to Expand Defence and Rocket Production
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/09/Earth_from_Space_Gibson_Desert_Australia" >🔗</a> **[ESA]** Earth from Space: Gibson Desert, Australia
-- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Columbus_100_000_orbits_and_counting" >🔗</a> **[ESA]** Columbus: 100 000 orbits and counting
-- <a href="https://spacepolicyonline.com/news/house-appropriators-approve-fy2026-budget-for-nasa/" >🔗</a> **[SpacePolicyOnline.com]** House Appropriators Approve FY2026 Budget for NASA
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250912T130614">2025-09-12 13:06:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250912T133509">2025-09-12 13:35:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
