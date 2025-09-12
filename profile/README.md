@@ -90,16 +90,16 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_08-12_September_2025" >🔗</a> **[ESA]** Week in images: 08-12 September 2025
 - <a href="https://www.nasa.gov/humans-in-space/artemis-ii-crew-to-advance-human-spaceflight-research/" >🔗</a> **[NASA]** Artemis II Crew  to Advance Human Spaceflight Research
 - <a href="https://spacenews.com/how-carrying-enough-water-to-make-return-trip-propellant-simplifies-a-starship-mission-to-mars/" >🔗</a> **[SpaceNews]** How carrying enough water to make return-trip propellant simplifies a Starship mission to Mars
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/09/Group_photo_from_General_Assembly_on_Defence_Space_and_Cybersecurity" >🔗</a> **[ESA]** Group photo from General Assembly on Defence, Space and Cybersecurity
 - <a href="https://www.nasa.gov/directorates/stmd/space-tech-research-grants/nstgro-2025/" >🔗</a> **[NASA]** NSTGRO 2025
 - <a href="https://science.nasa.gov/missions/hubble/hubble-surveys-cloudy-cluster/" >🔗</a> **[NASA]** Hubble Surveys Cloudy Cluster
 - <a href="https://www.nasa.gov/events/paw-participant-discussion/" >🔗</a> **[NASA]** PAW Participant Discussion
 - <a href="https://spacenews.com/apex-reaches-billion-dollar-valuation-with-series-d-funding-round/" >🔗</a> **[SpaceNews]** Apex reaches billion-dollar valuation with Series D funding round
 - <a href="https://www.nasa.gov/general/aiaa-dpw/" >🔗</a> **[NASA]** Drag Prediction Workshop Series
 - <a href="https://spacenews.com/cailabs-raises-67-million-to-scale-up-production-of-optical-ground-stations/" >🔗</a> **[SpaceNews]** Cailabs raises $67 million to scale up production of optical ground stations
-- <a href="https://europeanspaceflight.com/avio-approves-e400m-capital-increase-to-expand-defence-and-rocket-production/" >🔗</a> **[European Spaceflight]** Avio Approves €400M Capital Increase to Expand Defence and Rocket Production
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/09/Earth_from_Space_Gibson_Desert_Australia" >🔗</a> **[ESA]** Earth from Space: Gibson Desert, Australia
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250912T140120">2025-09-12 14:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250912T143358">2025-09-12 14:33:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
