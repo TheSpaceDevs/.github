@@ -90,6 +90,7 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/09/12/department-of-the-air-force-faa-clear-spacex-to-launch-up-to-120-falcon-9-rockets-annually-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Department of the Air Force, FAA clear SpaceX to launch up to 120 Falcon 9 rockets annually from Cape Canaveral
 - <a href="https://spaceflightnow.com/2025/09/12/new-u-s-military-satellite-constellation-takes-shape-with-first-launch-from-vandenberg-sfb/" >🔗</a> **[Spaceflight Now]** New U.S. military satellite constellation takes shape with first launch from Vandenberg SFB
 - <a href="https://www.nasa.gov/image-article/a-brief-outburst/" >🔗</a> **[NASA]** A Brief Outburst
 - <a href="https://www.nasa.gov/earth/natural-disasters/tsunamis/nasas-guardian-tsunami-detection-tech-catches-wave-in-real-time/" >🔗</a> **[NASA]** NASA’s GUARDIAN Tsunami Detection Tech Catches Wave in Real Time
@@ -99,7 +100,6 @@ into *a Medium Earth Orbit
 - <a href="https://spacenews.com/how-carrying-enough-water-to-make-return-trip-propellant-simplifies-a-starship-mission-to-mars/" >🔗</a> **[SpaceNews]** How carrying enough water to make return-trip propellant simplifies a Starship mission to Mars
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/09/Group_photo_from_General_Assembly_on_Defence_Space_and_Cybersecurity" >🔗</a> **[ESA]** Group photo from General Assembly on Defence, Space and Cybersecurity
 - <a href="https://www.nasa.gov/directorates/stmd/space-tech-research-grants/nstgro-2025/" >🔗</a> **[NASA]** NSTGRO 2025
-- <a href="https://science.nasa.gov/missions/hubble/hubble-surveys-cloudy-cluster/" >🔗</a> **[NASA]** Hubble Surveys Cloudy Cluster
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250912T173127">2025-09-12 17:31:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250912T180153">2025-09-12 18:01:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
