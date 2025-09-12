@@ -23,7 +23,7 @@ The next space launch, retrieved from our
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" />
 from *<a href="https://en.wikipedia.org/wiki/Plesetsk_Cosmodrome">Unknown Pad</a>, Plesetsk Cosmodrome, Russian Federation*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250913T023000">2025-09-13 02:30:00 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250913T021000">2025-09-13 02:10:00 UTC</a>.  Until
 then, this pad will have been used for 0
 out of 1677 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
@@ -45,7 +45,7 @@ into *a Medium Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250913T023000">2025-09-13 02:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b/Fregat | Glonass-K1 No. 18&location=Plesetsk Cosmodrome, Russian Federation&dates=20250913T023000Z%2F20250913T033000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1b/Fregat | Glonass-K1 No. 18** from Plesetsk Cosmodrome, Russian Federation.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250913T021000">2025-09-13 02:10:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b/Fregat | Glonass-K1 No. 18&location=Plesetsk Cosmodrome, Russian Federation&dates=20250913T021000Z%2F20250913T033000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1b/Fregat | Glonass-K1 No. 18** from Plesetsk Cosmodrome, Russian Federation.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250913T154100">2025-09-13 15:41:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-10&location=Vandenberg SFB, CA, USA&dates=20250913T154100Z%2F20250913T194100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-10** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250914T221149">2025-09-14 22:11:49 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Cygnus CRS-2 NG-23&location=Cape Canaveral SFS, FL, USA&dates=20250914T221149Z%2F20250914T221149Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Cygnus CRS-2 NG-23** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250915T011500">2025-09-15 01:15:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2C/YZ-1S | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20250915T011500Z%2F20250915T014300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2C/YZ-1S | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
@@ -90,7 +90,9 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/directorates/stmd/space-tech-research-grants/nstgro-2025/" >🔗</a> **[NASA]** NSTGRO 2025
 - <a href="https://science.nasa.gov/missions/hubble/hubble-surveys-cloudy-cluster/" >🔗</a> **[NASA]** Hubble Surveys Cloudy Cluster
+- <a href="https://www.nasa.gov/events/paw-participant-discussion/" >🔗</a> **[NASA]** PAW Participant Discussion
 - <a href="https://spacenews.com/apex-reaches-billion-dollar-valuation-with-series-d-funding-round/" >🔗</a> **[SpaceNews]** Apex reaches billion-dollar valuation with Series D funding round
 - <a href="https://www.nasa.gov/general/aiaa-dpw/" >🔗</a> **[NASA]** Drag Prediction Workshop Series
 - <a href="https://spacenews.com/cailabs-raises-67-million-to-scale-up-production-of-optical-ground-stations/" >🔗</a> **[SpaceNews]** Cailabs raises $67 million to scale up production of optical ground stations
@@ -98,8 +100,6 @@ into *a Medium Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/09/Earth_from_Space_Gibson_Desert_Australia" >🔗</a> **[ESA]** Earth from Space: Gibson Desert, Australia
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Columbus_100_000_orbits_and_counting" >🔗</a> **[ESA]** Columbus: 100 000 orbits and counting
 - <a href="https://spacepolicyonline.com/news/house-appropriators-approve-fy2026-budget-for-nasa/" >🔗</a> **[SpacePolicyOnline.com]** House Appropriators Approve FY2026 Budget for NASA
-- <a href="https://arstechnica.com/space/2025/09/nasa-found-intriguing-rocks-on-mars-so-where-does-that-leave-mars-sample-return/" >🔗</a> **[Arstechnica]** NASA found intriguing rocks on Mars, so where does that leave Mars Sample Return?
-- <a href="https://www.nasa.gov/news-release/nasa-armstrong-to-host-partnership-day-oct-21-22/" >🔗</a> **[NASA]** NASA Armstrong to Host Partnership Day Oct. 21-22
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250912T120205">2025-09-12 12:02:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250912T124256">2025-09-12 12:42:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
