@@ -90,6 +90,7 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasas-x-59-moves-toward-first-flight-at-speed-of-safety/" >🔗</a> **[NASA]** NASA’s X-59 Moves Toward First Flight at Speed of Safety
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/nasa-war-department-partnership-tests-boundaries-of-autonomous-drone-operations/" >🔗</a> **[NASA]** NASA, War Department Partnership Tests Boundaries of Autonomous Drone Operations
 - <a href="https://spaceflightnow.com/2025/09/12/department-of-the-air-force-faa-clear-spacex-to-launch-up-to-120-falcon-9-rockets-annually-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Department of the Air Force, FAA clear SpaceX to launch up to 120 Falcon 9 rockets annually from Cape Canaveral
 - <a href="https://spaceflightnow.com/2025/09/12/new-u-s-military-satellite-constellation-takes-shape-with-first-launch-from-vandenberg-sfb/" >🔗</a> **[Spaceflight Now]** New U.S. military satellite constellation takes shape with first launch from Vandenberg SFB
@@ -99,7 +100,6 @@ into *a Medium Earth Orbit
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_08-12_September_2025" >🔗</a> **[ESA]** Week in images: 08-12 September 2025
 - <a href="https://www.nasa.gov/humans-in-space/artemis-ii-crew-to-advance-human-spaceflight-research/" >🔗</a> **[NASA]** Artemis II Crew  to Advance Human Spaceflight Research
 - <a href="https://spacenews.com/how-carrying-enough-water-to-make-return-trip-propellant-simplifies-a-starship-mission-to-mars/" >🔗</a> **[SpaceNews]** How carrying enough water to make return-trip propellant simplifies a Starship mission to Mars
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/09/Group_photo_from_General_Assembly_on_Defence_Space_and_Cybersecurity" >🔗</a> **[ESA]** Group photo from General Assembly on Defence, Space and Cybersecurity
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250912T190110">2025-09-12 19:01:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250912T193058">2025-09-12 19:30:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
