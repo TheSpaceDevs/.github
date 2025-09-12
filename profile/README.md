@@ -90,6 +90,8 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/earth/natural-disasters/tsunamis/nasas-guardian-tsunami-detection-tech-catches-wave-in-real-time/" >🔗</a> **[NASA]** NASA’s GUARDIAN Tsunami Detection Tech Catches Wave in Real Time
+- <a href="https://europeanspaceflight.com/cailabs-raises-e57m-to-ramp-up-production-of-optical-ground-station/" >🔗</a> **[European Spaceflight]** Cailabs Raises €57M to Ramp Up Production of Optical Ground Station
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_08-12_September_2025" >🔗</a> **[ESA]** Week in images: 08-12 September 2025
 - <a href="https://www.nasa.gov/humans-in-space/artemis-ii-crew-to-advance-human-spaceflight-research/" >🔗</a> **[NASA]** Artemis II Crew  to Advance Human Spaceflight Research
 - <a href="https://spacenews.com/how-carrying-enough-water-to-make-return-trip-propellant-simplifies-a-starship-mission-to-mars/" >🔗</a> **[SpaceNews]** How carrying enough water to make return-trip propellant simplifies a Starship mission to Mars
@@ -98,8 +100,6 @@ into *a Medium Earth Orbit
 - <a href="https://science.nasa.gov/missions/hubble/hubble-surveys-cloudy-cluster/" >🔗</a> **[NASA]** Hubble Surveys Cloudy Cluster
 - <a href="https://www.nasa.gov/events/paw-participant-discussion/" >🔗</a> **[NASA]** PAW Participant Discussion
 - <a href="https://spacenews.com/apex-reaches-billion-dollar-valuation-with-series-d-funding-round/" >🔗</a> **[SpaceNews]** Apex reaches billion-dollar valuation with Series D funding round
-- <a href="https://www.nasa.gov/general/aiaa-dpw/" >🔗</a> **[NASA]** Drag Prediction Workshop Series
-- <a href="https://spacenews.com/cailabs-raises-67-million-to-scale-up-production-of-optical-ground-stations/" >🔗</a> **[SpaceNews]** Cailabs raises $67 million to scale up production of optical ground stations
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250912T150142">2025-09-12 15:01:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250912T153214">2025-09-12 15:32:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
