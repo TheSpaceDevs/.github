@@ -90,6 +90,7 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/missions/hubble/hubble-surveys-cloudy-cluster/" >🔗</a> **[NASA]** Hubble Surveys Cloudy Cluster
 - <a href="https://spacenews.com/apex-reaches-billion-dollar-valuation-with-series-d-funding-round/" >🔗</a> **[SpaceNews]** Apex reaches billion-dollar valuation with Series D funding round
 - <a href="https://www.nasa.gov/general/aiaa-dpw/" >🔗</a> **[NASA]** Drag Prediction Workshop Series
 - <a href="https://spacenews.com/cailabs-raises-67-million-to-scale-up-production-of-optical-ground-stations/" >🔗</a> **[SpaceNews]** Cailabs raises $67 million to scale up production of optical ground stations
@@ -99,7 +100,6 @@ into *a Medium Earth Orbit
 - <a href="https://spacepolicyonline.com/news/house-appropriators-approve-fy2026-budget-for-nasa/" >🔗</a> **[SpacePolicyOnline.com]** House Appropriators Approve FY2026 Budget for NASA
 - <a href="https://arstechnica.com/space/2025/09/nasa-found-intriguing-rocks-on-mars-so-where-does-that-leave-mars-sample-return/" >🔗</a> **[Arstechnica]** NASA found intriguing rocks on Mars, so where does that leave Mars Sample Return?
 - <a href="https://www.nasa.gov/news-release/nasa-armstrong-to-host-partnership-day-oct-21-22/" >🔗</a> **[NASA]** NASA Armstrong to Host Partnership Day Oct. 21-22
-- <a href="https://spacenews.com/firefly-pitches-rockets-satellites-for-golden-dome/" >🔗</a> **[SpaceNews]** Firefly pitches rockets, satellites for Golden Dome
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250912T110118">2025-09-12 11:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250912T113120">2025-09-12 11:31:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
