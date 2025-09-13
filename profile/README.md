@@ -19,33 +19,32 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Soyuz 2.1b/Fregat | Glonass-K1 No. 18**. It is scheduled to be launched by *Russian Space Forces*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Plesetsk_Cosmodrome">Unknown Pad</a>, Plesetsk Cosmodrome, Russian Federation*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250913T021000">2025-09-13 02:10:00 UTC</a>.  Until
-then, this pad will have been used for 0
-out of 1677 launches from this location. The launch status is currently
+**Falcon 9 Block 5 | Starlink Group 17-10**. It is scheduled to be launched by *SpaceX*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250913T154100">2025-09-13 15:41:00 UTC</a>.  Until
+then, this pad will have been used for 215
+out of 829 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Navigation* and the payload will be injected
-into *a Medium Earth Orbit
-(MEO)*.
+*Communications* and the payload will be injected
+into *a Low Earth Orbit
+(LEO)*.
 <br>
 <blockquote>
-  Glonass-K are the third generation of satellite design for GLONASS satellite navigation system. GLONASS is a Russian space-based navigation system comparable to the similar GPS and Galileo systems. This generation improves on accuracy, power consumption and design life. Each satellite is unpressurized and weighs 935 kg,  and has an operational lifetime of 10 years.
+  A batch of 24 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Soyuz-2" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=62.925556,40.577778" >
+  <a href="https://www.google.com/maps?q=34.632,-120.611" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250913T021000">2025-09-13 02:10:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b/Fregat | Glonass-K1 No. 18&location=Plesetsk Cosmodrome, Russian Federation&dates=20250913T021000Z%2F20250913T033000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1b/Fregat | Glonass-K1 No. 18** from Plesetsk Cosmodrome, Russian Federation.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250913T154100">2025-09-13 15:41:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-10&location=Vandenberg SFB, CA, USA&dates=20250913T154100Z%2F20250913T194100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-10** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250914T221149">2025-09-14 22:11:49 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Cygnus CRS-2 NG-23 (S.S. William “Willie” C. McCool)&location=Cape Canaveral SFS, FL, USA&dates=20250914T221149Z%2F20250914T221149Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Cygnus CRS-2 NG-23 (S.S. William “Willie” C. McCool)** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250915T011500">2025-09-15 01:15:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2C/YZ-1S | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20250915T011500Z%2F20250915T014300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2C/YZ-1S | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
@@ -54,6 +53,7 @@ into *a Medium Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250918T123000">2025-09-18 12:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Shepard | NS-35&location=Corn Ranch, Van Horn, TX, USA&dates=20250918T123000Z%2F20250918T203000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Shepard | NS-35** from Corn Ranch, Van Horn, TX, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250921T092000">2025-09-21 09:20:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-27&location=Cape Canaveral SFS, FL, USA&dates=20250921T092000Z%2F20250921T132000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-27** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250921T173700">2025-09-21 17:37:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | NROL-48&location=Vandenberg SFB, CA, USA&dates=20250921T173700Z%2F20250921T183700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | NROL-48** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250922T234500">2025-09-22 23:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=HASTE | JENNA&location=Wallops Flight Facility, Virginia, USA&dates=20250922T234500Z%2F20250923T051500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **HASTE | JENNA** from Wallops Flight Facility, Virginia, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250923T113200">2025-09-23 11:32:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | IMAP &amp; others&location=Kennedy Space Center, FL, USA&dates=20250923T113200Z%2F20250923T113200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | IMAP & others** from Kennedy Space Center, FL, USA.
 
 
@@ -109,7 +109,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250913T020106">2025-09-13 02:01:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250913T024351">2025-09-13 02:43:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
