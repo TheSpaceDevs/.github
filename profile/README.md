@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/09/60-years-after-gemini-newly-processed-images-reveal-incredible-details/" >🔗</a> **[Arstechnica]** 60 years after Gemini, newly processed images reveal incredible details
 - <a href="https://spacenews.com/maxar-executive-renews-warning-that-budget-cuts-threaten-commercial-remote-sensing-industry/" >🔗</a> **[SpaceNews]** Maxar executive renews warning that budget cuts threaten commercial remote sensing industry
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4649-4654-ridges-hollows-and-nodules-oh-my/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4649-4654: Ridges, Hollows and Nodules, Oh My
 - <a href="https://spacenews.com/china-completes-second-hot-fire-test-for-new-moon-rocket-including-engine-restarts/" >🔗</a> **[SpaceNews]** China completes second hot-fire test for new moon rocket, including engine restarts
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/nasa-war-department-partnership-tests-boundaries-of-autonomous-drone-operations/" >🔗</a> **[NASA]** NASA, War Department Partnership Tests Boundaries of Autonomous Drone Operations
 - <a href="https://spaceflightnow.com/2025/09/12/department-of-the-air-force-faa-clear-spacex-to-launch-up-to-120-falcon-9-rockets-annually-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Department of the Air Force, FAA clear SpaceX to launch up to 120 Falcon 9 rockets annually from Cape Canaveral
 - <a href="https://spaceflightnow.com/2025/09/12/new-u-s-military-satellite-constellation-takes-shape-with-first-launch-from-vandenberg-sfb/" >🔗</a> **[Spaceflight Now]** New U.S. military satellite constellation takes shape with first launch from Vandenberg SFB
-- <a href="https://www.nasa.gov/image-article/a-brief-outburst/" >🔗</a> **[NASA]** A Brief Outburst
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250913T110131">2025-09-13 11:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250913T113058">2025-09-13 11:30:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
