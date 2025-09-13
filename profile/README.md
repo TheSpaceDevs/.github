@@ -54,7 +54,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250921T092000">2025-09-21 09:20:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-27&location=Cape Canaveral SFS, FL, USA&dates=20250921T092000Z%2F20250921T132000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-27** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250921T173700">2025-09-21 17:37:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | NROL-48&location=Vandenberg SFB, CA, USA&dates=20250921T173700Z%2F20250921T183700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | NROL-48** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250922T234500">2025-09-22 23:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=HASTE | JENNA&location=Wallops Flight Facility, Virginia, USA&dates=20250922T234500Z%2F20250923T051500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **HASTE | JENNA** from Wallops Flight Facility, Virginia, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250923T113200">2025-09-23 11:32:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | IMAP &amp; others&location=Kennedy Space Center, FL, USA&dates=20250923T113200Z%2F20250923T113200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | IMAP & others** from Kennedy Space Center, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250923T113215">2025-09-23 11:32:15 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | IMAP &amp; others&location=Kennedy Space Center, FL, USA&dates=20250923T113215Z%2F20250923T113215Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | IMAP & others** from Kennedy Space Center, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/09/13/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-3/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://arstechnica.com/space/2025/09/60-years-after-gemini-newly-processed-images-reveal-incredible-details/" >🔗</a> **[Arstechnica]** 60 years after Gemini, newly processed images reveal incredible details
 - <a href="https://spacenews.com/maxar-executive-renews-warning-that-budget-cuts-threaten-commercial-remote-sensing-industry/" >🔗</a> **[SpaceNews]** Maxar executive renews warning that budget cuts threaten commercial remote sensing industry
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4649-4654-ridges-hollows-and-nodules-oh-my/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4649-4654: Ridges, Hollows and Nodules, Oh My
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasas-x-59-moves-toward-first-flight-at-speed-of-safety/" >🔗</a> **[NASA]** NASA’s X-59 Moves Toward First Flight at Speed of Safety
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/nasa-war-department-partnership-tests-boundaries-of-autonomous-drone-operations/" >🔗</a> **[NASA]** NASA, War Department Partnership Tests Boundaries of Autonomous Drone Operations
 - <a href="https://spaceflightnow.com/2025/09/12/department-of-the-air-force-faa-clear-spacex-to-launch-up-to-120-falcon-9-rockets-annually-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Department of the Air Force, FAA clear SpaceX to launch up to 120 Falcon 9 rockets annually from Cape Canaveral
-- <a href="https://spaceflightnow.com/2025/09/12/new-u-s-military-satellite-constellation-takes-shape-with-first-launch-from-vandenberg-sfb/" >🔗</a> **[Spaceflight Now]** New U.S. military satellite constellation takes shape with first launch from Vandenberg SFB
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250913T130359">2025-09-13 13:03:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250913T133135">2025-09-13 13:31:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
