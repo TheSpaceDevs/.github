@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-reestablishes-contact-with-one-of-two-tracers-satellites/" >🔗</a> **[SpaceNews]** NASA reestablishes contact with one of two TRACERS satellites
 - <a href="https://spacenews.com/golden-domes-cost-anywhere-from-billions-to-trillions-depending-on-design/" >🔗</a> **[SpaceNews]** Golden Dome’s cost: anywhere from billions to trillions, depending on design
 - <a href="https://spaceflightnow.com/2025/09/13/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-3/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://arstechnica.com/space/2025/09/60-years-after-gemini-newly-processed-images-reveal-incredible-details/" >🔗</a> **[Arstechnica]** 60 years after Gemini, newly processed images reveal incredible details
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2025/09/flight-11-booster-15-ship-38/" >🔗</a> **[NASASpaceflight]** Flight 11 closing in as Booster 15 completes testing, Pad 1 awaits Ship 38
 - <a href="https://www.nasa.gov/news-release/nasa-awards-third-glenn-facility-and-engineering-services-contract/" >🔗</a> **[NASA]** NASA Awards Third Glenn Facility and Engineering Services Contract
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasas-x-59-moves-toward-first-flight-at-speed-of-safety/" >🔗</a> **[NASA]** NASA’s X-59 Moves Toward First Flight at Speed of Safety
-- <a href="https://www.nasa.gov/centers-and-facilities/ames/nasa-war-department-partnership-tests-boundaries-of-autonomous-drone-operations/" >🔗</a> **[NASA]** NASA, War Department Partnership Tests Boundaries of Autonomous Drone Operations
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250913T203103">2025-09-13 20:31:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250913T210115">2025-09-13 21:01:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
