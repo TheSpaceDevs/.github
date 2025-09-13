@@ -45,7 +45,6 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250913T154100">2025-09-13 15:41:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-10&location=Vandenberg SFB, CA, USA&dates=20250913T154100Z%2F20250913T194100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-10** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250914T221149">2025-09-14 22:11:49 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Cygnus CRS-2 NG-23 (S.S. William “Willie” C. McCool)&location=Cape Canaveral SFS, FL, USA&dates=20250914T221149Z%2F20250914T221149Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Cygnus CRS-2 NG-23 (S.S. William “Willie” C. McCool)** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250915T011500">2025-09-15 01:15:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2C/YZ-1S | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20250915T011500Z%2F20250915T014300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2C/YZ-1S | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250917T154100">2025-09-17 15:41:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-12&location=Vandenberg SFB, CA, USA&dates=20250917T154100Z%2F20250917T194100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-12** from Vandenberg SFB, CA, USA.
@@ -90,6 +89,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/golden-domes-cost-anywhere-from-billions-to-trillions-depending-on-design/" >🔗</a> **[SpaceNews]** Golden Dome’s cost: anywhere from billions to trillions, depending on design
 - <a href="https://spaceflightnow.com/2025/09/13/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-3/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://arstechnica.com/space/2025/09/60-years-after-gemini-newly-processed-images-reveal-incredible-details/" >🔗</a> **[Arstechnica]** 60 years after Gemini, newly processed images reveal incredible details
 - <a href="https://spacenews.com/maxar-executive-renews-warning-that-budget-cuts-threaten-commercial-remote-sensing-industry/" >🔗</a> **[SpaceNews]** Maxar executive renews warning that budget cuts threaten commercial remote sensing industry
@@ -99,7 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-awards-third-glenn-facility-and-engineering-services-contract/" >🔗</a> **[NASA]** NASA Awards Third Glenn Facility and Engineering Services Contract
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasas-x-59-moves-toward-first-flight-at-speed-of-safety/" >🔗</a> **[NASA]** NASA’s X-59 Moves Toward First Flight at Speed of Safety
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/nasa-war-department-partnership-tests-boundaries-of-autonomous-drone-operations/" >🔗</a> **[NASA]** NASA, War Department Partnership Tests Boundaries of Autonomous Drone Operations
-- <a href="https://spaceflightnow.com/2025/09/12/department-of-the-air-force-faa-clear-spacex-to-launch-up-to-120-falcon-9-rockets-annually-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Department of the Air Force, FAA clear SpaceX to launch up to 120 Falcon 9 rockets annually from Cape Canaveral
 
 
 ### Launch-related News 🚀
@@ -109,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250913T153057">2025-09-13 15:30:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250913T160116">2025-09-13 16:01:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
