@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/09/14/live-coverage-spacex-to-launch-new-improved-northrop-grumman-cygnus-xl-resupply-ship-to-the-space-station/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch new, improved Northrop Grumman Cygnus XL resupply ship to the space station
 - <a href="https://www.nasaspaceflight.com/2025/09/crs-ng-23/" >🔗</a> **[NASASpaceflight]** SpaceX set to launch Cygnus XL to ISS on CRS NG-23 mission
 - <a href="https://spacenews.com/nasa-reestablishes-contact-with-one-of-two-tracers-satellites/" >🔗</a> **[SpaceNews]** NASA reestablishes contact with one of two TRACERS satellites
 - <a href="https://spacenews.com/golden-domes-cost-anywhere-from-billions-to-trillions-depending-on-design/" >🔗</a> **[SpaceNews]** Golden Dome’s cost: anywhere from billions to trillions, depending on design
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4649-4654-ridges-hollows-and-nodules-oh-my/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4649-4654: Ridges, Hollows and Nodules, Oh My
 - <a href="https://spacenews.com/china-completes-second-hot-fire-test-for-new-moon-rocket-including-engine-restarts/" >🔗</a> **[SpaceNews]** China completes second hot-fire test for new moon rocket, including engine restarts
 - <a href="https://www.nasaspaceflight.com/2025/09/flight-11-booster-15-ship-38/" >🔗</a> **[NASASpaceflight]** Flight 11 closing in as Booster 15 completes testing, Pad 1 awaits Ship 38
-- <a href="https://www.nasa.gov/news-release/nasa-awards-third-glenn-facility-and-engineering-services-contract/" >🔗</a> **[NASA]** NASA Awards Third Glenn Facility and Engineering Services Contract
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250914T130341">2025-09-14 13:03:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250914T133108">2025-09-14 13:31:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
