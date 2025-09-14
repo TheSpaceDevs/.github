@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/mechele-elliott-safeguards-agency-information-systems-at-johnson/" >🔗</a> **[NASA]** Mechele Elliott Safeguards Agency Information Systems at Johnson
 - <a href="https://spacenews.com/vast-backs-new-nasa-commercial-space-station-strategy/" >🔗</a> **[SpaceNews]** Vast backs new NASA commercial space station strategy
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-14-20-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy September 14-20, 2025
 - <a href="https://spaceflightnow.com/2025/09/14/live-coverage-spacex-to-launch-new-improved-northrop-grumman-cygnus-xl-resupply-ship-to-the-space-station/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch new, improved Northrop Grumman Cygnus XL resupply ship to the space station
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/09/13/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-3/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://arstechnica.com/space/2025/09/60-years-after-gemini-newly-processed-images-reveal-incredible-details/" >🔗</a> **[Arstechnica]** 60 years after Gemini, newly processed images reveal incredible details
 - <a href="https://spacenews.com/maxar-executive-renews-warning-that-budget-cuts-threaten-commercial-remote-sensing-industry/" >🔗</a> **[SpaceNews]** Maxar executive renews warning that budget cuts threaten commercial remote sensing industry
-- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4649-4654-ridges-hollows-and-nodules-oh-my/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4649-4654: Ridges, Hollows and Nodules, Oh My
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250914T213055">2025-09-14 21:30:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250914T220107">2025-09-14 22:01:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
