@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/09/crs-ng-23/" >🔗</a> **[NASASpaceflight]** SpaceX set to launch Cygnus XL to ISS on CRS NG-23 mission
 - <a href="https://spacenews.com/nasa-reestablishes-contact-with-one-of-two-tracers-satellites/" >🔗</a> **[SpaceNews]** NASA reestablishes contact with one of two TRACERS satellites
 - <a href="https://spacenews.com/golden-domes-cost-anywhere-from-billions-to-trillions-depending-on-design/" >🔗</a> **[SpaceNews]** Golden Dome’s cost: anywhere from billions to trillions, depending on design
 - <a href="https://spaceflightnow.com/2025/09/13/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-3/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/china-completes-second-hot-fire-test-for-new-moon-rocket-including-engine-restarts/" >🔗</a> **[SpaceNews]** China completes second hot-fire test for new moon rocket, including engine restarts
 - <a href="https://www.nasaspaceflight.com/2025/09/flight-11-booster-15-ship-38/" >🔗</a> **[NASASpaceflight]** Flight 11 closing in as Booster 15 completes testing, Pad 1 awaits Ship 38
 - <a href="https://www.nasa.gov/news-release/nasa-awards-third-glenn-facility-and-engineering-services-contract/" >🔗</a> **[NASA]** NASA Awards Third Glenn Facility and Engineering Services Contract
-- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasas-x-59-moves-toward-first-flight-at-speed-of-safety/" >🔗</a> **[NASA]** NASA’s X-59 Moves Toward First Flight at Speed of Safety
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250914T120152">2025-09-14 12:01:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250914T124226">2025-09-14 12:42:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
