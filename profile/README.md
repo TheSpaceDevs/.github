@@ -104,6 +104,8 @@ into *a Low Earth Orbit
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2025/09/14/live-coverage-spacex-to-launch-new-improved-northrop-grumman-cygnus-xl-resupply-ship-to-the-space-station/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch new, improved Northrop Grumman Cygnus XL resupply ship to the space station
+- <a href="https://www.nasaspaceflight.com/2025/09/crs-ng-23/" >🔗</a> **[NASASpaceflight]** SpaceX set to launch Cygnus XL to ISS on CRS NG-23 mission
 - <a href="https://www.nasa.gov/missions/station/commercial-resupply/ng-crs/nasas-northrop-grumman-crs-23-infographics-hardware/" >🔗</a> **[NASA]** NASA’s Northrop Grumman CRS-23 Infographics & Hardware
 - <a href="https://www.nasaspaceflight.com/2025/09/launch-roundup-090825/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Cygnus XL and Progress to fly cargo missions to ISS
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-23-spacex-falcon-9-launch/" >🔗</a> **[NASA]** NASA Sets Coverage for Northrop Grumman CRS-23, SpaceX Falcon 9 Launch
@@ -112,12 +114,11 @@ into *a Low Earth Orbit
 - <a href="https://tlpnetwork.com/news/america/iss-resupply-mission-scrubbed-due-to-cygnus-damage-spacex-resupply-moved-up" >🔗</a> **[The Launch Pad]** ISS Resupply Mission Scrubbed Due To Cygnus Damage; SpaceX Resupply Moved Up
 - <a href="https://arstechnica.com/space/2025/03/nasa-sidelines-cygnus-spacecraft-after-damage-in-transit-to-launch-site/" >🔗</a> **[Arstechnica]** NASA sidelines Cygnus spacecraft after damage in transit to launch site
 - <a href="https://tlpnetwork.com/news/2023/08/northrop-grumman-announces-cygnus-spacecraft-upgrades" >🔗</a> **[The Launch Pad]** Northrop Grumman Announces Cygnus Spacecraft Upgrades
-- <a href="https://spacenews.com/northrop-grumman-planning-cygnus-upgrades/" >🔗</a> **[SpaceNews]** Northrop Grumman planning Cygnus upgrades
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250914T133108">2025-09-14 13:31:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250914T140135">2025-09-14 14:01:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
