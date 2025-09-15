@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/to-lead-in-space-we-must-go-all-in-on-our-industrial-base/" >🔗</a> **[SpaceNews]** To lead in space, we must go all-in on our industrial base
+- <a href="https://spacenews.com/military-spending-and-direct-to-device-competition-are-reshaping-the-space-economy/" >🔗</a> **[SpaceNews]** Military spending and direct-to-device competition are reshaping the space economy
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/07/RISE_ESA_s_mission_extender_in_geostationary_orbit" >🔗</a> **[ESA]** RISE: ESA’s mission extender in geostationary orbit
 - <a href="https://science.nasa.gov/directorates/smd/avatars-for-astronaut-health-nasa-artemis-ii/" >🔗</a> **[NASA]** Avatars for Astronaut Health to Fly on NASA’s Artemis II
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/09/First_view_of_aerosols_from_MetOp-SG_s_3MI_instrument" >🔗</a> **[ESA]** First view of aerosols from MetOp-SG’s 3MI instrument
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/cso-co-ltd-redefining-earth-observation-with-cutting-edge-camera-systems-for-small-satellites/" >🔗</a> **[SpaceNews]** CSO Co., Ltd. — Redefining Earth Observation with Cutting-Edge Camera Systems for Small Satellites
 - <a href="https://spaceflightnow.com/2025/09/15/northrop-grummans-1st-cygnus-xl-spacecraft-launches-on-cargo-run-to-the-space-station/" >🔗</a> **[Spaceflight Now]** Northrop Grumman’s 1st Cygnus XL spacecraft launches on cargo run to the space station
 - <a href="https://www.nasa.gov/news-release/nasa-science-cargo-launches-aboard-northrop-grumman-crs-23/" >🔗</a> **[NASA]** NASA Science, Cargo Launches Aboard Northrop Grumman CRS-23
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/mechele-elliott-safeguards-agency-information-systems-at-johnson/" >🔗</a> **[NASA]** Mechele Elliott Safeguards Agency Information Systems at Johnson
-- <a href="https://spacenews.com/vast-backs-new-nasa-commercial-space-station-strategy/" >🔗</a> **[SpaceNews]** Vast backs new NASA commercial space station strategy
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250915T130818">2025-09-15 13:08:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250915T133531">2025-09-15 13:35:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
