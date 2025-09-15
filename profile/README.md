@@ -53,8 +53,8 @@ into *an Unknown
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250921T173700">2025-09-21 17:37:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | NROL-48&location=Vandenberg SFB, CA, USA&dates=20250921T173700Z%2F20250921T183700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | NROL-48** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250922T234500">2025-09-22 23:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=HASTE | JENNA&location=Wallops Flight Facility, Virginia, USA&dates=20250922T234500Z%2F20250923T051500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **HASTE | JENNA** from Wallops Flight Facility, Virginia, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250923T113215">2025-09-23 11:32:15 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | IMAP &amp; others&location=Kennedy Space Center, FL, USA&dates=20250923T113215Z%2F20250923T113215Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | IMAP & others** from Kennedy Space Center, FL, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250924T083600">2025-09-24 08:36:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-15&location=Cape Canaveral SFS, FL, USA&dates=20250924T083600Z%2F20250924T123600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-15** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250925T000000">2025-09-25 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 551 | Project Kuiper (KA-03)&location=Cape Canaveral SFS, FL, USA&dates=20250925T000000Z%2F20250925T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 551 | Project Kuiper (KA-03)** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250925T015700">2025-09-25 01:57:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-11&location=Vandenberg SFB, CA, USA&dates=20250925T015700Z%2F20250925T055700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-11** from Vandenberg SFB, CA, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/uk-based-hyperspectral-data-analytics-startup-messium-raises-3-3m/" >🔗</a> **[European Spaceflight]** UK-Based Hyperspectral Data Analytics Startup Messium Raises £3.3M
 - <a href="https://spacenews.com/falcon-9-launches-upgraded-cygnus-cargo-spacecraft-to-iss/" >🔗</a> **[SpaceNews]** Falcon 9 launches upgraded Cygnus cargo spacecraft to ISS
 - <a href="https://spacenews.com/cso-co-ltd-redefining-earth-observation-with-cutting-edge-camera-systems-for-small-satellites/" >🔗</a> **[SpaceNews]** CSO Co., Ltd. — Redefining Earth Observation with Cutting-Edge Camera Systems for Small Satellites
 - <a href="https://spaceflightnow.com/2025/09/15/northrop-grummans-1st-cygnus-xl-spacecraft-launches-on-cargo-run-to-the-space-station/" >🔗</a> **[Spaceflight Now]** Northrop Grumman’s 1st Cygnus XL spacecraft launches on cargo run to the space station
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-14-20-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy September 14-20, 2025
 - <a href="https://spaceflightnow.com/2025/09/14/live-coverage-spacex-to-launch-new-improved-northrop-grumman-cygnus-xl-resupply-ship-to-the-space-station/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch new, improved Northrop Grumman Cygnus XL resupply ship to the space station
 - <a href="https://www.nasaspaceflight.com/2025/09/crs-ng-23/" >🔗</a> **[NASASpaceflight]** SpaceX set to launch Cygnus XL to ISS on CRS NG-23 mission
-- <a href="https://spacenews.com/nasa-reestablishes-contact-with-one-of-two-tracers-satellites/" >🔗</a> **[SpaceNews]** NASA reestablishes contact with one of two TRACERS satellites
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250915T110110">2025-09-15 11:01:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250915T113101">2025-09-15 11:31:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
