@@ -90,6 +90,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/science-research/earth-science/connecting-educators-with-nasa-data-learning-ecosystems-northeast-in-action/" >🔗</a> **[NASA]** Connecting Educators with NASA Data: Learning Ecosystems Northeast in Action
+- <a href="https://spacenews.com/inside-esas-vision-with-josef-aschbacher/" >🔗</a> **[SpaceNews]** Inside ESA’s vision with Josef Aschbacher
+- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4655-4660-boxworks-with-a-view/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4655-4660: Boxworks With a View
 - <a href="https://spacenews.com/york-space-hits-milestone-with-largest-satellite-delivery-yet/" >🔗</a> **[SpaceNews]** York Space hits milestone with largest satellite delivery yet
 - <a href="https://spacenews.com/swissto12-clears-pdr-for-debut-small-geo-d2d-satellite/" >🔗</a> **[SpaceNews]** Swissto12 clears PDR for debut small GEO D2D satellite
 - <a href="https://spacenews.com/launch-companies-double-down-on-increasing-flight-rates-despite-setbacks/" >🔗</a> **[SpaceNews]** Launch companies double down on increasing flight rates despite setbacks
@@ -97,9 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/image-article/helicopter-training-for-artemis-missions/" >🔗</a> **[NASA]** Helicopter Training for Artemis Missions
 - <a href="https://spacenews.com/to-lead-in-space-we-must-go-all-in-on-our-industrial-base/" >🔗</a> **[SpaceNews]** To lead in space, we must go all-in on our industrial base
 - <a href="https://spacenews.com/military-spending-and-direct-to-device-competition-are-reshaping-the-space-economy/" >🔗</a> **[SpaceNews]** Military spending and direct-to-device competition are reshaping the space economy
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/07/RISE_ESA_s_mission_extender_in_geostationary_orbit" >🔗</a> **[ESA]** RISE: ESA’s mission extender in geostationary orbit
-- <a href="https://science.nasa.gov/directorates/smd/avatars-for-astronaut-health-nasa-artemis-ii/" >🔗</a> **[NASA]** Avatars for Astronaut Health to Fly on NASA’s Artemis II
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/09/First_view_of_aerosols_from_MetOp-SG_s_3MI_instrument" >🔗</a> **[ESA]** First view of aerosols from MetOp-SG’s 3MI instrument
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250915T170115">2025-09-15 17:01:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250915T173231">2025-09-15 17:32:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
