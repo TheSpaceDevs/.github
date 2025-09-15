@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/york-space-hits-milestone-with-largest-satellite-delivery-yet/" >🔗</a> **[SpaceNews]** York Space hits milestone with largest satellite delivery yet
+- <a href="https://spacenews.com/swissto12-clears-pdr-for-debut-small-geo-d2d-satellite/" >🔗</a> **[SpaceNews]** Swissto12 clears PDR for debut small GEO D2D satellite
 - <a href="https://spacenews.com/launch-companies-double-down-on-increasing-flight-rates-despite-setbacks/" >🔗</a> **[SpaceNews]** Launch companies double down on increasing flight rates despite setbacks
 - <a href="https://spacenews.com/echostar-eyes-satcom-expansion-after-forced-pivot-from-spectrum-sales/" >🔗</a> **[SpaceNews]** EchoStar eyes satcom expansion after ‘forced pivot’ from spectrum sales
 - <a href="https://www.nasa.gov/image-article/helicopter-training-for-artemis-missions/" >🔗</a> **[NASA]** Helicopter Training for Artemis Missions
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/07/RISE_ESA_s_mission_extender_in_geostationary_orbit" >🔗</a> **[ESA]** RISE: ESA’s mission extender in geostationary orbit
 - <a href="https://science.nasa.gov/directorates/smd/avatars-for-astronaut-health-nasa-artemis-ii/" >🔗</a> **[NASA]** Avatars for Astronaut Health to Fly on NASA’s Artemis II
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/09/First_view_of_aerosols_from_MetOp-SG_s_3MI_instrument" >🔗</a> **[ESA]** First view of aerosols from MetOp-SG’s 3MI instrument
-- <a href="https://europeanspaceflight.com/uk-based-hyperspectral-data-analytics-startup-messium-raises-3-3m/" >🔗</a> **[European Spaceflight]** UK-Based Hyperspectral Data Analytics Startup Messium Raises £3.3M
-- <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/weird-ways-to-observe-the-moon/" >🔗</a> **[NASA]** Weird Ways to Observe the Moon
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250915T160141">2025-09-15 16:01:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250915T163622">2025-09-15 16:36:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
