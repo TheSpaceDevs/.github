@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/telesat-pitches-lightspeed-as-stopgap-to-europes-iris%c2%b2/" >🔗</a> **[SpaceNews]** Telesat pitches Lightspeed as stopgap to Europe’s IRIS²
+- <a href="https://www.nasa.gov/news-release/nasa-awards-safety-mission-assurance-services-contract-2/" >🔗</a> **[NASA]** NASA Awards Safety, Mission Assurance Services Contract
 - <a href="https://www.nasa.gov/science-research/heliophysics/nasa-analysis-shows-suns-activity-ramping-up/" >🔗</a> **[NASA]** NASA Analysis Shows Sun’s Activity Ramping Up
 - <a href="https://science.nasa.gov/science-research/earth-science/connecting-educators-with-nasa-data-learning-ecosystems-northeast-in-action/" >🔗</a> **[NASA]** Connecting Educators with NASA Data: Learning Ecosystems Northeast in Action
 - <a href="https://spacenews.com/inside-esas-vision-with-josef-aschbacher/" >🔗</a> **[SpaceNews]** Inside ESA’s vision with Josef Aschbacher
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/swissto12-clears-pdr-for-debut-small-geo-d2d-satellite/" >🔗</a> **[SpaceNews]** Swissto12 clears PDR for debut small GEO D2D satellite
 - <a href="https://spacenews.com/launch-companies-double-down-on-increasing-flight-rates-despite-setbacks/" >🔗</a> **[SpaceNews]** Launch companies double down on increasing flight rates despite setbacks
 - <a href="https://spacenews.com/echostar-eyes-satcom-expansion-after-forced-pivot-from-spectrum-sales/" >🔗</a> **[SpaceNews]** EchoStar eyes satcom expansion after ‘forced pivot’ from spectrum sales
-- <a href="https://www.nasa.gov/image-article/helicopter-training-for-artemis-missions/" >🔗</a> **[NASA]** Helicopter Training for Artemis Missions
-- <a href="https://spacenews.com/to-lead-in-space-we-must-go-all-in-on-our-industrial-base/" >🔗</a> **[SpaceNews]** To lead in space, we must go all-in on our industrial base
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250915T200118">2025-09-15 20:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250915T203257">2025-09-15 20:32:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
