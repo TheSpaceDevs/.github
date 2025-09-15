@@ -90,6 +90,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/07/RISE_ESA_s_mission_extender_in_geostationary_orbit" >🔗</a> **[ESA]** RISE: ESA’s mission extender in geostationary orbit
+- <a href="https://science.nasa.gov/directorates/smd/avatars-for-astronaut-health-nasa-artemis-ii/" >🔗</a> **[NASA]** Avatars for Astronaut Health to Fly on NASA’s Artemis II
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/09/First_view_of_aerosols_from_MetOp-SG_s_3MI_instrument" >🔗</a> **[ESA]** First view of aerosols from MetOp-SG’s 3MI instrument
 - <a href="https://europeanspaceflight.com/uk-based-hyperspectral-data-analytics-startup-messium-raises-3-3m/" >🔗</a> **[European Spaceflight]** UK-Based Hyperspectral Data Analytics Startup Messium Raises £3.3M
 - <a href="https://spacenews.com/falcon-9-launches-upgraded-cygnus-cargo-spacecraft-to-iss/" >🔗</a> **[SpaceNews]** Falcon 9 launches upgraded Cygnus cargo spacecraft to ISS
 - <a href="https://spacenews.com/cso-co-ltd-redefining-earth-observation-with-cutting-edge-camera-systems-for-small-satellites/" >🔗</a> **[SpaceNews]** CSO Co., Ltd. — Redefining Earth Observation with Cutting-Edge Camera Systems for Small Satellites
@@ -97,9 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/news-release/nasa-science-cargo-launches-aboard-northrop-grumman-crs-23/" >🔗</a> **[NASA]** NASA Science, Cargo Launches Aboard Northrop Grumman CRS-23
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/mechele-elliott-safeguards-agency-information-systems-at-johnson/" >🔗</a> **[NASA]** Mechele Elliott Safeguards Agency Information Systems at Johnson
 - <a href="https://spacenews.com/vast-backs-new-nasa-commercial-space-station-strategy/" >🔗</a> **[SpaceNews]** Vast backs new NASA commercial space station strategy
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-14-20-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy September 14-20, 2025
-- <a href="https://spaceflightnow.com/2025/09/14/live-coverage-spacex-to-launch-new-improved-northrop-grumman-cygnus-xl-resupply-ship-to-the-space-station/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch new, improved Northrop Grumman Cygnus XL resupply ship to the space station
-- <a href="https://www.nasaspaceflight.com/2025/09/crs-ng-23/" >🔗</a> **[NASASpaceflight]** SpaceX set to launch Cygnus XL to ISS on CRS NG-23 mission
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250915T120211">2025-09-15 12:02:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250915T124316">2025-09-15 12:43:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
