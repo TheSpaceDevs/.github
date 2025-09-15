@@ -96,10 +96,10 @@ into *an Unknown
 - <a href="https://science.nasa.gov/directorates/smd/avatars-for-astronaut-health-nasa-artemis-ii/" >🔗</a> **[NASA]** Avatars for Astronaut Health to Fly on NASA’s Artemis II
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/09/First_view_of_aerosols_from_MetOp-SG_s_3MI_instrument" >🔗</a> **[ESA]** First view of aerosols from MetOp-SG’s 3MI instrument
 - <a href="https://europeanspaceflight.com/uk-based-hyperspectral-data-analytics-startup-messium-raises-3-3m/" >🔗</a> **[European Spaceflight]** UK-Based Hyperspectral Data Analytics Startup Messium Raises £3.3M
+- <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/weird-ways-to-observe-the-moon/" >🔗</a> **[NASA]** Weird Ways to Observe the Moon
 - <a href="https://spacenews.com/falcon-9-launches-upgraded-cygnus-cargo-spacecraft-to-iss/" >🔗</a> **[SpaceNews]** Falcon 9 launches upgraded Cygnus cargo spacecraft to ISS
 - <a href="https://spacenews.com/cso-co-ltd-redefining-earth-observation-with-cutting-edge-camera-systems-for-small-satellites/" >🔗</a> **[SpaceNews]** CSO Co., Ltd. — Redefining Earth Observation with Cutting-Edge Camera Systems for Small Satellites
 - <a href="https://spaceflightnow.com/2025/09/15/northrop-grummans-1st-cygnus-xl-spacecraft-launches-on-cargo-run-to-the-space-station/" >🔗</a> **[Spaceflight Now]** Northrop Grumman’s 1st Cygnus XL spacecraft launches on cargo run to the space station
-- <a href="https://www.nasa.gov/news-release/nasa-science-cargo-launches-aboard-northrop-grumman-crs-23/" >🔗</a> **[NASA]** NASA Science, Cargo Launches Aboard Northrop Grumman CRS-23
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250915T140117">2025-09-15 14:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250915T143331">2025-09-15 14:33:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
