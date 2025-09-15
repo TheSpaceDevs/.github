@@ -90,6 +90,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/launch-companies-double-down-on-increasing-flight-rates-despite-setbacks/" >🔗</a> **[SpaceNews]** Launch companies double down on increasing flight rates despite setbacks
+- <a href="https://spacenews.com/echostar-eyes-satcom-expansion-after-forced-pivot-from-spectrum-sales/" >🔗</a> **[SpaceNews]** EchoStar eyes satcom expansion after ‘forced pivot’ from spectrum sales
+- <a href="https://www.nasa.gov/image-article/helicopter-training-for-artemis-missions/" >🔗</a> **[NASA]** Helicopter Training for Artemis Missions
 - <a href="https://spacenews.com/to-lead-in-space-we-must-go-all-in-on-our-industrial-base/" >🔗</a> **[SpaceNews]** To lead in space, we must go all-in on our industrial base
 - <a href="https://spacenews.com/military-spending-and-direct-to-device-competition-are-reshaping-the-space-economy/" >🔗</a> **[SpaceNews]** Military spending and direct-to-device competition are reshaping the space economy
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/07/RISE_ESA_s_mission_extender_in_geostationary_orbit" >🔗</a> **[ESA]** RISE: ESA’s mission extender in geostationary orbit
@@ -97,9 +100,6 @@ into *an Unknown
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/09/First_view_of_aerosols_from_MetOp-SG_s_3MI_instrument" >🔗</a> **[ESA]** First view of aerosols from MetOp-SG’s 3MI instrument
 - <a href="https://europeanspaceflight.com/uk-based-hyperspectral-data-analytics-startup-messium-raises-3-3m/" >🔗</a> **[European Spaceflight]** UK-Based Hyperspectral Data Analytics Startup Messium Raises £3.3M
 - <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/weird-ways-to-observe-the-moon/" >🔗</a> **[NASA]** Weird Ways to Observe the Moon
-- <a href="https://spacenews.com/falcon-9-launches-upgraded-cygnus-cargo-spacecraft-to-iss/" >🔗</a> **[SpaceNews]** Falcon 9 launches upgraded Cygnus cargo spacecraft to ISS
-- <a href="https://spacenews.com/cso-co-ltd-redefining-earth-observation-with-cutting-edge-camera-systems-for-small-satellites/" >🔗</a> **[SpaceNews]** CSO Co., Ltd. — Redefining Earth Observation with Cutting-Edge Camera Systems for Small Satellites
-- <a href="https://spaceflightnow.com/2025/09/15/northrop-grummans-1st-cygnus-xl-spacecraft-launches-on-cargo-run-to-the-space-station/" >🔗</a> **[Spaceflight Now]** Northrop Grumman’s 1st Cygnus XL spacecraft launches on cargo run to the space station
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250915T150110">2025-09-15 15:01:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250915T153316">2025-09-15 15:33:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
