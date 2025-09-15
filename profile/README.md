@@ -91,6 +91,7 @@ into *an Unknown
 
 ### Latest News ⌛
 - <a href="https://spacenews.com/falcon-9-launches-upgraded-cygnus-cargo-spacecraft-to-iss/" >🔗</a> **[SpaceNews]** Falcon 9 launches upgraded Cygnus cargo spacecraft to ISS
+- <a href="https://spacenews.com/cso-co-ltd-redefining-earth-observation-with-cutting-edge-camera-systems-for-small-satellites/" >🔗</a> **[SpaceNews]** CSO Co., Ltd. — Redefining Earth Observation with Cutting-Edge Camera Systems for Small Satellites
 - <a href="https://spaceflightnow.com/2025/09/15/northrop-grummans-1st-cygnus-xl-spacecraft-launches-on-cargo-run-to-the-space-station/" >🔗</a> **[Spaceflight Now]** Northrop Grumman’s 1st Cygnus XL spacecraft launches on cargo run to the space station
 - <a href="https://www.nasa.gov/news-release/nasa-science-cargo-launches-aboard-northrop-grumman-crs-23/" >🔗</a> **[NASA]** NASA Science, Cargo Launches Aboard Northrop Grumman CRS-23
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/mechele-elliott-safeguards-agency-information-systems-at-johnson/" >🔗</a> **[NASA]** Mechele Elliott Safeguards Agency Information Systems at Johnson
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spaceflightnow.com/2025/09/14/live-coverage-spacex-to-launch-new-improved-northrop-grumman-cygnus-xl-resupply-ship-to-the-space-station/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch new, improved Northrop Grumman Cygnus XL resupply ship to the space station
 - <a href="https://www.nasaspaceflight.com/2025/09/crs-ng-23/" >🔗</a> **[NASASpaceflight]** SpaceX set to launch Cygnus XL to ISS on CRS NG-23 mission
 - <a href="https://spacenews.com/nasa-reestablishes-contact-with-one-of-two-tracers-satellites/" >🔗</a> **[SpaceNews]** NASA reestablishes contact with one of two TRACERS satellites
-- <a href="https://spacenews.com/golden-domes-cost-anywhere-from-billions-to-trillions-depending-on-design/" >🔗</a> **[SpaceNews]** Golden Dome’s cost: anywhere from billions to trillions, depending on design
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250915T060154">2025-09-15 06:01:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250915T064040">2025-09-15 06:40:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
