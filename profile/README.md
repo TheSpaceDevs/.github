@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/laser-communications-supplier-mynaric-signals-recovery-after-production-setbacks/" >🔗</a> **[SpaceNews]** Laser communications supplier Mynaric signals recovery after production setbacks
+- <a href="https://spacenews.com/astro-digital-to-plug-into-star-catcher-solar-energy-grid/" >🔗</a> **[SpaceNews]** Astro Digital to plug into Star Catcher solar-energy grid
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/09/The_most_accurate_3D_map_of_stellar_nurseries_in_the_Milky_Way" >🔗</a> **[ESA]** The most accurate 3D map of stellar nurseries in the Milky Way
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Gaia/Fly_through_Gaia_s_3D_map_of_stellar_nurseries" >🔗</a> **[ESA]** Fly through Gaia’s 3D map of stellar nurseries
 - <a href="https://spacenews.com/josef-aschbacher-on-geopolitics-and-europes-changing-space-debate/" >🔗</a> **[SpaceNews]** Josef Aschbacher on geopolitics and Europe’s changing space debate
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/09/Moon_geology_lessons_for_Artemis" >🔗</a> **[ESA]** Moon geology lessons for Artemis
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/A_cell_s-eye_view_of_altered_gravity_and_ageing" >🔗</a> **[ESA]** A cell’s-eye view of altered gravity and ageing
 - <a href="https://europeanspaceflight.com/cnes-call-reveals-inaugural-callisto-flight-test-pushed-to-2027/" >🔗</a> **[European Spaceflight]** CNES Call Reveals Inaugural Callisto Flight Test Pushed to 2027
-- <a href="https://spacenews.com/sda-picks-gmv-to-build-next-generation-space-safety-system/" >🔗</a> **[SpaceNews]** SDA picks GMV to build next-generation space safety system
-- <a href="https://spacenews.com/isar-aerospace-prepares-for-second-spectrum-launch/" >🔗</a> **[SpaceNews]** Isar Aerospace prepares for second Spectrum launch
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250916T140225">2025-09-16 14:02:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250916T143450">2025-09-16 14:34:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
