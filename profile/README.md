@@ -95,11 +95,11 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/josef-aschbacher-on-geopolitics-and-europes-changing-space-debate/" >🔗</a> **[SpaceNews]** Josef Aschbacher on geopolitics and Europe’s changing space debate
 - <a href="https://spacenews.com/how-spacex-turned-a-texas-marsh-into-the-worlds-most-watched-spaceport/" >🔗</a> **[SpaceNews]** How SpaceX turned a Texas marsh into the world’s most watched spaceport
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/09/Keys_to_the_Moon_ESA_hands_over_third_European_Service_Module" >🔗</a> **[ESA]** Keys to the Moon: ESA hands over third European Service Module
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/09/Moon_geology_lessons_for_Artemis" >🔗</a> **[ESA]** Moon geology lessons for Artemis
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/A_cell_s-eye_view_of_altered_gravity_and_ageing" >🔗</a> **[ESA]** A cell’s-eye view of altered gravity and ageing
 - <a href="https://europeanspaceflight.com/cnes-call-reveals-inaugural-callisto-flight-test-pushed-to-2027/" >🔗</a> **[European Spaceflight]** CNES Call Reveals Inaugural Callisto Flight Test Pushed to 2027
 - <a href="https://spacenews.com/sda-picks-gmv-to-build-next-generation-space-safety-system/" >🔗</a> **[SpaceNews]** SDA picks GMV to build next-generation space safety system
 - <a href="https://spacenews.com/isar-aerospace-prepares-for-second-spectrum-launch/" >🔗</a> **[SpaceNews]** Isar Aerospace prepares for second Spectrum launch
-- <a href="https://www.nasa.gov/news-release/nasa-sets-launch-coverage-for-space-weather-missions/" >🔗</a> **[NASA]** NASA Sets Launch Coverage for Space Weather Missions
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250916T130815">2025-09-16 13:08:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250916T133723">2025-09-16 13:37:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
