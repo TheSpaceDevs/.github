@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/blacksky-wins-second-nga-luno-contract-to-track-global-changes-with-satellites-and-ai/" >🔗</a> **[SpaceNews]** BlackSky wins second NGA ‘Luno’ contract to track global changes with satellites and AI
+- <a href="https://science.nasa.gov/solar-system/regions-on-asteroid-explored-by-nasas-lucy-mission-get-official-names/" >🔗</a> **[NASA]** Regions on Asteroid Explored by NASA’s Lucy Mission Get Official Names
+- <a href="https://www.nasa.gov/missions/roman-space-telescope/how-nasas-roman-mission-will-unveil-our-home-galaxy-using-cosmic-dust/" >🔗</a> **[NASA]** How NASA’s Roman Mission Will Unveil Our Home Galaxy Using Cosmic Dust
+- <a href="https://spacenews.com/ses-moves-to-iterative-meo-deployment-with-k2-space-partnership/" >🔗</a> **[SpaceNews]** SES moves to iterative MEO deployment with K2 Space partnership
+- <a href="https://www.nasa.gov/centers-and-facilities/hq/nasa-makes-webby-30s-list-of-most-iconic-influential-on-internet/" >🔗</a> **[NASA]** NASA Makes Webby 30s List of Most Iconic, Influential on Internet
 - <a href="https://spacenews.com/laser-communications-supplier-mynaric-signals-recovery-after-production-setbacks/" >🔗</a> **[SpaceNews]** Laser communications supplier Mynaric signals recovery after production setbacks
 - <a href="https://spacenews.com/astro-digital-to-plug-into-star-catcher-solar-energy-grid/" >🔗</a> **[SpaceNews]** Astro Digital to plug into Star Catcher solar-energy grid
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/09/The_most_accurate_3D_map_of_stellar_nurseries_in_the_Milky_Way" >🔗</a> **[ESA]** The most accurate 3D map of stellar nurseries in the Milky Way
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Gaia/Fly_through_Gaia_s_3D_map_of_stellar_nurseries" >🔗</a> **[ESA]** Fly through Gaia’s 3D map of stellar nurseries
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/09/The_most_accurate_3D_map_of_stellar_nurseries_in_the_Milky_Way" >🔗</a> **[ESA]** The most accurate 3D map of stellar nurseries in the Milky Way
 - <a href="https://spacenews.com/josef-aschbacher-on-geopolitics-and-europes-changing-space-debate/" >🔗</a> **[SpaceNews]** Josef Aschbacher on geopolitics and Europe’s changing space debate
-- <a href="https://spacenews.com/how-spacex-turned-a-texas-marsh-into-the-worlds-most-watched-spaceport/" >🔗</a> **[SpaceNews]** How SpaceX turned a Texas marsh into the world’s most watched spaceport
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/09/Keys_to_the_Moon_ESA_hands_over_third_European_Service_Module" >🔗</a> **[ESA]** Keys to the Moon: ESA hands over third European Service Module
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/09/Moon_geology_lessons_for_Artemis" >🔗</a> **[ESA]** Moon geology lessons for Artemis
-- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/A_cell_s-eye_view_of_altered_gravity_and_ageing" >🔗</a> **[ESA]** A cell’s-eye view of altered gravity and ageing
-- <a href="https://europeanspaceflight.com/cnes-call-reveals-inaugural-callisto-flight-test-pushed-to-2027/" >🔗</a> **[European Spaceflight]** CNES Call Reveals Inaugural Callisto Flight Test Pushed to 2027
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250916T150146">2025-09-16 15:01:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250916T153334">2025-09-16 15:33:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
