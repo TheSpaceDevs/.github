@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Gaia/Fly_through_Gaia_s_3D_map_of_stellar_nurseries" >🔗</a> **[ESA]** Fly through Gaia’s 3D map of stellar nurseries
+- <a href="https://spacenews.com/josef-aschbacher-on-geopolitics-and-europes-changing-space-debate/" >🔗</a> **[SpaceNews]** Josef Aschbacher on geopolitics and Europe’s changing space debate
 - <a href="https://spacenews.com/how-spacex-turned-a-texas-marsh-into-the-worlds-most-watched-spaceport/" >🔗</a> **[SpaceNews]** How SpaceX turned a Texas marsh into the world’s most watched spaceport
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/09/Keys_to_the_Moon_ESA_hands_over_third_European_Service_Module" >🔗</a> **[ESA]** Keys to the Moon: ESA hands over third European Service Module
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/A_cell_s-eye_view_of_altered_gravity_and_ageing" >🔗</a> **[ESA]** A cell’s-eye view of altered gravity and ageing
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/isar-aerospace-prepares-for-second-spectrum-launch/" >🔗</a> **[SpaceNews]** Isar Aerospace prepares for second Spectrum launch
 - <a href="https://www.nasa.gov/news-release/nasa-sets-launch-coverage-for-space-weather-missions/" >🔗</a> **[NASA]** NASA Sets Launch Coverage for Space Weather Missions
 - <a href="https://www.nasaspaceflight.com/2025/09/launch-roundup-091525/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Starlink, NRO, and New Shepard missions scheduled
-- <a href="https://spacenews.com/telesat-pitches-lightspeed-as-stopgap-to-europes-iris%c2%b2/" >🔗</a> **[SpaceNews]** Telesat pitches Lightspeed as stopgap to Europe’s IRIS²
-- <a href="https://www.nasa.gov/news-release/nasa-awards-safety-mission-assurance-services-contract-2/" >🔗</a> **[NASA]** NASA Awards Safety, Mission Assurance Services Contract
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250916T113100">2025-09-16 11:31:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250916T120209">2025-09-16 12:02:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
