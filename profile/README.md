@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/09/Keys_to_the_Moon_ESA_hands_over_third_European_Service_Module" >🔗</a> **[ESA]** Keys to the Moon: ESA hands over third European Service Module
+- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/A_cell_s-eye_view_of_altered_gravity_and_ageing" >🔗</a> **[ESA]** A cell’s-eye view of altered gravity and ageing
 - <a href="https://europeanspaceflight.com/cnes-call-reveals-inaugural-callisto-flight-test-pushed-to-2027/" >🔗</a> **[European Spaceflight]** CNES Call Reveals Inaugural Callisto Flight Test Pushed to 2027
 - <a href="https://spacenews.com/sda-picks-gmv-to-build-next-generation-space-safety-system/" >🔗</a> **[SpaceNews]** SDA picks GMV to build next-generation space safety system
 - <a href="https://spacenews.com/isar-aerospace-prepares-for-second-spectrum-launch/" >🔗</a> **[SpaceNews]** Isar Aerospace prepares for second Spectrum launch
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/telesat-pitches-lightspeed-as-stopgap-to-europes-iris%c2%b2/" >🔗</a> **[SpaceNews]** Telesat pitches Lightspeed as stopgap to Europe’s IRIS²
 - <a href="https://www.nasa.gov/news-release/nasa-awards-safety-mission-assurance-services-contract-2/" >🔗</a> **[NASA]** NASA Awards Safety, Mission Assurance Services Contract
 - <a href="https://www.nasa.gov/science-research/heliophysics/nasa-analysis-shows-suns-activity-ramping-up/" >🔗</a> **[NASA]** NASA Analysis Shows Sun’s Activity Ramping Up
-- <a href="https://science.nasa.gov/science-research/earth-science/connecting-educators-with-nasa-data-learning-ecosystems-northeast-in-action/" >🔗</a> **[NASA]** Connecting Educators with NASA Data: Learning Ecosystems Northeast in Action
-- <a href="https://spacenews.com/inside-esas-vision-with-josef-aschbacher/" >🔗</a> **[SpaceNews]** Inside ESA’s vision with Josef Aschbacher
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250916T090135">2025-09-16 09:01:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250916T093342">2025-09-16 09:33:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
