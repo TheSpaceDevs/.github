@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/09/The_most_accurate_3D_map_of_stellar_nurseries_in_the_Milky_Way" >🔗</a> **[ESA]** The most accurate 3D map of stellar nurseries in the Milky Way
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Gaia/Fly_through_Gaia_s_3D_map_of_stellar_nurseries" >🔗</a> **[ESA]** Fly through Gaia’s 3D map of stellar nurseries
 - <a href="https://spacenews.com/josef-aschbacher-on-geopolitics-and-europes-changing-space-debate/" >🔗</a> **[SpaceNews]** Josef Aschbacher on geopolitics and Europe’s changing space debate
 - <a href="https://spacenews.com/how-spacex-turned-a-texas-marsh-into-the-worlds-most-watched-spaceport/" >🔗</a> **[SpaceNews]** How SpaceX turned a Texas marsh into the world’s most watched spaceport
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/sda-picks-gmv-to-build-next-generation-space-safety-system/" >🔗</a> **[SpaceNews]** SDA picks GMV to build next-generation space safety system
 - <a href="https://spacenews.com/isar-aerospace-prepares-for-second-spectrum-launch/" >🔗</a> **[SpaceNews]** Isar Aerospace prepares for second Spectrum launch
 - <a href="https://www.nasa.gov/news-release/nasa-sets-launch-coverage-for-space-weather-missions/" >🔗</a> **[NASA]** NASA Sets Launch Coverage for Space Weather Missions
-- <a href="https://www.nasaspaceflight.com/2025/09/launch-roundup-091525/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Starlink, NRO, and New Shepard missions scheduled
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250916T120209">2025-09-16 12:02:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250916T124316">2025-09-16 12:43:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
