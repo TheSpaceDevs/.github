@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/09/a-new-report-finds-chinas-space-program-will-soon-equal-that-of-the-us/" >🔗</a> **[Arstechnica]** A new report finds China’s space program will soon equal that of the US
+- <a href="https://spacenews.com/spacex-planning-first-tests-of-new-direct-to-device-spectrum-next-year/" >🔗</a> **[SpaceNews]** SpaceX planning first tests of new direct-to-device spectrum next year
+- <a href="https://spacenews.com/viasat-and-space42-to-pool-satellite-spectrum-for-direct-to-device-services/" >🔗</a> **[SpaceNews]** Viasat and Space42 to pool satellite spectrum for direct-to-device services
+- <a href="https://europeanspaceflight.com/pld-space-completes-miura-5-stage-1-burst-test/" >🔗</a> **[European Spaceflight]** PLD Space Completes MIURA 5 Stage 1 Burst Test
 - <a href="https://spacenews.com/blacksky-wins-second-nga-luno-contract-to-track-global-changes-with-satellites-and-ai/" >🔗</a> **[SpaceNews]** BlackSky wins second NGA ‘Luno’ contract to track global changes with satellites and AI
 - <a href="https://science.nasa.gov/solar-system/regions-on-asteroid-explored-by-nasas-lucy-mission-get-official-names/" >🔗</a> **[NASA]** Regions on Asteroid Explored by NASA’s Lucy Mission Get Official Names
 - <a href="https://www.nasa.gov/missions/roman-space-telescope/how-nasas-roman-mission-will-unveil-our-home-galaxy-using-cosmic-dust/" >🔗</a> **[NASA]** How NASA’s Roman Mission Will Unveil Our Home Galaxy Using Cosmic Dust
 - <a href="https://spacenews.com/ses-moves-to-iterative-meo-deployment-with-k2-space-partnership/" >🔗</a> **[SpaceNews]** SES moves to iterative MEO deployment with K2 Space partnership
 - <a href="https://www.nasa.gov/centers-and-facilities/hq/nasa-makes-webby-30s-list-of-most-iconic-influential-on-internet/" >🔗</a> **[NASA]** NASA Makes Webby 30s List of Most Iconic, Influential on Internet
 - <a href="https://spacenews.com/laser-communications-supplier-mynaric-signals-recovery-after-production-setbacks/" >🔗</a> **[SpaceNews]** Laser communications supplier Mynaric signals recovery after production setbacks
-- <a href="https://spacenews.com/astro-digital-to-plug-into-star-catcher-solar-energy-grid/" >🔗</a> **[SpaceNews]** Astro Digital to plug into Star Catcher solar-energy grid
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Gaia/Fly_through_Gaia_s_3D_map_of_stellar_nurseries" >🔗</a> **[ESA]** Fly through Gaia’s 3D map of stellar nurseries
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/09/The_most_accurate_3D_map_of_stellar_nurseries_in_the_Milky_Way" >🔗</a> **[ESA]** The most accurate 3D map of stellar nurseries in the Milky Way
-- <a href="https://spacenews.com/josef-aschbacher-on-geopolitics-and-europes-changing-space-debate/" >🔗</a> **[SpaceNews]** Josef Aschbacher on geopolitics and Europe’s changing space debate
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250916T160153">2025-09-16 16:01:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250916T163616">2025-09-16 16:36:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
