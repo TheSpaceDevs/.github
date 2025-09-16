@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/kepler-communications-ceo-talks-sovereignty-security-and-space-data/" >🔗</a> **[SpaceNews]** Kepler Communications CEO talks sovereignty, security, and space data
+- <a href="https://www.nasa.gov/image-article/an-eye-catching-star-cluster/" >🔗</a> **[NASA]** An Eye-catching Star Cluster
 - <a href="https://arstechnica.com/space/2025/09/a-new-report-finds-chinas-space-program-will-soon-equal-that-of-the-us/" >🔗</a> **[Arstechnica]** A new report finds China’s space program will soon equal that of the US
 - <a href="https://spacenews.com/spacex-planning-first-tests-of-new-direct-to-device-spectrum-next-year/" >🔗</a> **[SpaceNews]** SpaceX planning first tests of new direct-to-device spectrum next year
 - <a href="https://spacenews.com/viasat-and-space42-to-pool-satellite-spectrum-for-direct-to-device-services/" >🔗</a> **[SpaceNews]** Viasat and Space42 to pool satellite spectrum for direct-to-device services
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/solar-system/regions-on-asteroid-explored-by-nasas-lucy-mission-get-official-names/" >🔗</a> **[NASA]** Regions on Asteroid Explored by NASA’s Lucy Mission Get Official Names
 - <a href="https://www.nasa.gov/missions/roman-space-telescope/how-nasas-roman-mission-will-unveil-our-home-galaxy-using-cosmic-dust/" >🔗</a> **[NASA]** How NASA’s Roman Mission Will Unveil Our Home Galaxy Using Cosmic Dust
 - <a href="https://spacenews.com/ses-moves-to-iterative-meo-deployment-with-k2-space-partnership/" >🔗</a> **[SpaceNews]** SES moves to iterative MEO deployment with K2 Space partnership
-- <a href="https://www.nasa.gov/centers-and-facilities/hq/nasa-makes-webby-30s-list-of-most-iconic-influential-on-internet/" >🔗</a> **[NASA]** NASA Makes Webby 30s List of Most Iconic, Influential on Internet
-- <a href="https://spacenews.com/laser-communications-supplier-mynaric-signals-recovery-after-production-setbacks/" >🔗</a> **[SpaceNews]** Laser communications supplier Mynaric signals recovery after production setbacks
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250916T170108">2025-09-16 17:01:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250916T173239">2025-09-16 17:32:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
