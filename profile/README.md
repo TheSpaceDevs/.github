@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/aeronautics/nasa-partners-push-forward-with-remotely-piloted-airspace-integration/" >🔗</a> **[NASA]** NASA, Partners Push Forward with Remotely Piloted Airspace Integration
+- <a href="https://spaceflightnow.com/2025/09/16/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-4/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://www.nasa.gov/general/architecture-workshop-registration-request/" >🔗</a> **[NASA]** Architecture Workshop Registration Requests
 - <a href="https://www.nasaspaceflight.com/2025/09/spacex-starship-block-3-engine-testing-mcgregor/" >🔗</a> **[NASASpaceflight]** Starship Block 3 development continues at Starbase and McGregor
 - <a href="https://science.nasa.gov/get-involved/citizen-science/webinar-series-teaching-with-emerge-globe-mission-mosquito/" >🔗</a> **[NASA]** Webinar Series: Teaching with EMERGE & GLOBE Mission Mosquito
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2025/09/a-new-report-finds-chinas-space-program-will-soon-equal-that-of-the-us/" >🔗</a> **[Arstechnica]** A new report finds China’s space program will soon equal that of the US
 - <a href="https://spacenews.com/spacex-planning-first-tests-of-new-direct-to-device-spectrum-next-year/" >🔗</a> **[SpaceNews]** SpaceX planning first tests of new direct-to-device spectrum next year
 - <a href="https://spacenews.com/viasat-and-space42-to-pool-satellite-spectrum-for-direct-to-device-services/" >🔗</a> **[SpaceNews]** Viasat and Space42 to pool satellite spectrum for direct-to-device services
-- <a href="https://europeanspaceflight.com/pld-space-completes-miura-5-stage-1-burst-test/" >🔗</a> **[European Spaceflight]** PLD Space Completes MIURA 5 Stage 1 Burst Test
-- <a href="https://spacenews.com/blacksky-wins-second-nga-luno-contract-to-track-global-changes-with-satellites-and-ai/" >🔗</a> **[SpaceNews]** BlackSky wins second NGA ‘Luno’ contract to track global changes with satellites and AI
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250916T190124">2025-09-16 19:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250916T193100">2025-09-16 19:31:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
