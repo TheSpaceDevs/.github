@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ghgsat-announces-34-million-in-equity-and-debt-financing/" >🔗</a> **[SpaceNews]** GHGSat announces $34 million in equity and debt financing
 - <a href="https://www.nasa.gov/aeronautics/nasa-partners-push-forward-with-remotely-piloted-airspace-integration/" >🔗</a> **[NASA]** NASA, Partners Push Forward with Remotely Piloted Airspace Integration
 - <a href="https://spaceflightnow.com/2025/09/16/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-4/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://www.nasa.gov/general/architecture-workshop-registration-request/" >🔗</a> **[NASA]** Architecture Workshop Registration Requests
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/an-eye-catching-star-cluster/" >🔗</a> **[NASA]** An Eye-catching Star Cluster
 - <a href="https://arstechnica.com/space/2025/09/a-new-report-finds-chinas-space-program-will-soon-equal-that-of-the-us/" >🔗</a> **[Arstechnica]** A new report finds China’s space program will soon equal that of the US
 - <a href="https://spacenews.com/spacex-planning-first-tests-of-new-direct-to-device-spectrum-next-year/" >🔗</a> **[SpaceNews]** SpaceX planning first tests of new direct-to-device spectrum next year
-- <a href="https://spacenews.com/viasat-and-space42-to-pool-satellite-spectrum-for-direct-to-device-services/" >🔗</a> **[SpaceNews]** Viasat and Space42 to pool satellite spectrum for direct-to-device services
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250916T193100">2025-09-16 19:31:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250916T200137">2025-09-16 20:01:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
