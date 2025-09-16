@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/cnes-call-reveals-inaugural-callisto-flight-test-pushed-to-2027/" >🔗</a> **[European Spaceflight]** CNES Call Reveals Inaugural Callisto Flight Test Pushed to 2027
+- <a href="https://spacenews.com/sda-picks-gmv-to-build-next-generation-space-safety-system/" >🔗</a> **[SpaceNews]** SDA picks GMV to build next-generation space safety system
 - <a href="https://spacenews.com/isar-aerospace-prepares-for-second-spectrum-launch/" >🔗</a> **[SpaceNews]** Isar Aerospace prepares for second Spectrum launch
 - <a href="https://www.nasa.gov/news-release/nasa-sets-launch-coverage-for-space-weather-missions/" >🔗</a> **[NASA]** NASA Sets Launch Coverage for Space Weather Missions
 - <a href="https://www.nasaspaceflight.com/2025/09/launch-roundup-091525/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Starlink, NRO, and New Shepard missions scheduled
@@ -98,17 +100,16 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/science-research/heliophysics/nasa-analysis-shows-suns-activity-ramping-up/" >🔗</a> **[NASA]** NASA Analysis Shows Sun’s Activity Ramping Up
 - <a href="https://science.nasa.gov/science-research/earth-science/connecting-educators-with-nasa-data-learning-ecosystems-northeast-in-action/" >🔗</a> **[NASA]** Connecting Educators with NASA Data: Learning Ecosystems Northeast in Action
 - <a href="https://spacenews.com/inside-esas-vision-with-josef-aschbacher/" >🔗</a> **[SpaceNews]** Inside ESA’s vision with Josef Aschbacher
-- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4655-4660-boxworks-with-a-view/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4655-4660: Boxworks With a View
-- <a href="https://spacenews.com/york-space-hits-milestone-with-largest-satellite-delivery-yet/" >🔗</a> **[SpaceNews]** York Space hits milestone with largest satellite delivery yet
 
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2025/09/launch-roundup-091525/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Starlink, NRO, and New Shepard missions scheduled
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250916T070153">2025-09-16 07:01:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250916T073147">2025-09-16 07:31:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
