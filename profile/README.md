@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-accelerates-reorganization-of-acquisition-units/" >🔗</a> **[SpaceNews]** Space Force accelerates reorganization of acquisition units
 - <a href="https://www.nasa.gov/universe/exoplanets/nasas-tally-of-planets-outside-our-solar-system-reaches-6000/" >🔗</a> **[NASA]** NASA’s Tally of Planets Outside Our Solar System Reaches 6,000
 - <a href="https://www.nasa.gov/image-article/nasa-rideshares-integrated-ahead-of-launch/" >🔗</a> **[NASA]** NASA Rideshares Integrated Ahead of Launch
 - <a href="https://www.nasa.gov/earth/arctic-sea-ice-2025-low/" >🔗</a> **[NASA]** Arctic Sea Ice Reaches Annual Low
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/XRISM_uncovers_a_mystery_in_the_cosmic_winds_of_change" >🔗</a> **[ESA]** XRISM uncovers a mystery in the cosmic winds of change
 - <a href="https://europeanspaceflight.com/poland-to-commission-six-satellites-as-added-iris2-contribution/" >🔗</a> **[European Spaceflight]** Poland to Commission Six Satellites as Added IRIS2 Contribution
 - <a href="https://spacenews.com/novaspace-and-the-occitanie-region-launch-the-inaugural-space-summit-for-a-resilient-future-in-2026/" >🔗</a> **[SpaceNews]** Novaspace and the Occitanie Region Launch the Inaugural Space Summit for a Resilient Future in 2026
-- <a href="https://spacenews.com/redwires-global-strategy-from-space-to-security/" >🔗</a> **[SpaceNews]** Redwire’s global strategy from space to security
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250917T190105">2025-09-17 19:01:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250917T193051">2025-09-17 19:30:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
