@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/redwires-global-strategy-from-space-to-security/" >🔗</a> **[SpaceNews]** Redwire’s global strategy from space to security
 - <a href="https://spacenews.com/president-trumps-golden-dome-golden-dream-or-black-nightmare/" >🔗</a> **[SpaceNews]** President Trump’s Golden Dome: golden dream or black nightmare?
 - <a href="https://spacenews.com/maxar-and-ecopia-roll-out-ai-powered-earth-mapping-system/" >🔗</a> **[SpaceNews]** Maxar and Ecopia roll out AI-powered Earth mapping system
 - <a href="https://spacenews.com/does-europe-need-a-spaceplane/" >🔗</a> **[SpaceNews]** Does Europe need a spaceplane?
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/cygnus-cargo-ship-enroute-to-iss-experiences-propulsion-anomalies/" >🔗</a> **[SpacePolicyOnline.com]** Cygnus Cargo Ship Enroute to ISS Experiences Propulsion Anomalies
 - <a href="https://spaceflightnow.com/2025/09/16/nasa-northrop-grumman-postpone-cygnus-xl-arrival-to-iss-following-propulsion-issue/" >🔗</a> **[Spaceflight Now]** NASA, Northrop Grumman postpone Cygnus XL arrival to ISS following propulsion issue
 - <a href="https://spacenews.com/project-kuiper-plots-broadband-services-in-five-countries-by-end-of-march/" >🔗</a> **[SpaceNews]** Project Kuiper plots broadband services in five countries by end of March
-- <a href="https://spacenews.com/impulse-space-and-anduril-to-demonstrate-autonomous-spacecraft-maneuvers-in-geo/" >🔗</a> **[SpaceNews]** Impulse Space and Anduril to demonstrate autonomous spacecraft maneuvers in GEO
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250917T140108">2025-09-17 14:01:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250917T143410">2025-09-17 14:34:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
