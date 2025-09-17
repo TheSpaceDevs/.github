@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/successful-flight-on-falcon-9-for-eos-8-mecano-ids-satellite-ejection-system/" >🔗</a> **[SpaceNews]** Successful flight on Falcon 9 for EOS-8’’, MECANO ID’s Satellite Ejection System
 - <a href="https://spacenews.com/thruster-issue-delays-cygnus-arrival-at-iss/" >🔗</a> **[SpaceNews]** Thruster issue delays Cygnus arrival at ISS
 - <a href="https://spacepolicyonline.com/news/cygnus-cargo-ship-enroute-to-iss-experiences-propulsion-anomalies/" >🔗</a> **[SpacePolicyOnline.com]** Cygnus Cargo Ship Enroute to ISS Experiences Propulsion Anomalies
 - <a href="https://spaceflightnow.com/2025/09/16/nasa-northrop-grumman-postpone-cygnus-xl-arrival-to-iss-following-propulsion-issue/" >🔗</a> **[Spaceflight Now]** NASA, Northrop Grumman postpone Cygnus XL arrival to ISS following propulsion issue
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/ghgsat-announces-34-million-in-equity-and-debt-financing/" >🔗</a> **[SpaceNews]** GHGSat announces $34 million in equity and debt financing
 - <a href="https://www.nasa.gov/aeronautics/nasa-partners-push-forward-with-remotely-piloted-airspace-integration/" >🔗</a> **[NASA]** NASA, Partners Push Forward with Remotely Piloted Airspace Integration
 - <a href="https://spaceflightnow.com/2025/09/16/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-4/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
-- <a href="https://www.nasa.gov/general/architecture-workshop-registration-request/" >🔗</a> **[NASA]** Architecture Workshop Registration Requests
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250917T060152">2025-09-17 06:01:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250917T063927">2025-09-17 06:39:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
