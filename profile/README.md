@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/nasa-rideshares-integrated-ahead-of-launch/" >🔗</a> **[NASA]** NASA Rideshares Integrated Ahead of Launch
+- <a href="https://www.nasa.gov/earth/arctic-sea-ice-2025-low/" >🔗</a> **[NASA]** Arctic Sea Ice Reaches Annual Low
 - <a href="https://spacenews.com/small-geo-strategies-diverge-around-vertical-integration/" >🔗</a> **[SpaceNews]** Small GEO strategies diverge around vertical integration
 - <a href="https://www.nasa.gov/image-article/space-station-science/" >🔗</a> **[NASA]** Space Station Science
 - <a href="https://science.nasa.gov/missions/nasas-imap-mission-to-study-boundaries-of-our-home-in-space/" >🔗</a> **[NASA]** NASA’s IMAP Mission to Study Boundaries of Our Home in Space
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/novaspace-and-the-occitanie-region-launch-the-inaugural-space-summit-for-a-resilient-future-in-2026/" >🔗</a> **[SpaceNews]** Novaspace and the Occitanie Region Launch the Inaugural Space Summit for a Resilient Future in 2026
 - <a href="https://spacenews.com/redwires-global-strategy-from-space-to-security/" >🔗</a> **[SpaceNews]** Redwire’s global strategy from space to security
 - <a href="https://spacenews.com/president-trumps-golden-dome-golden-dream-or-black-nightmare/" >🔗</a> **[SpaceNews]** President Trump’s Golden Dome: golden dream or black nightmare?
-- <a href="https://spacenews.com/maxar-and-ecopia-roll-out-ai-powered-earth-mapping-system/" >🔗</a> **[SpaceNews]** Maxar and Ecopia roll out AI-powered Earth mapping system
-- <a href="https://spacenews.com/does-europe-need-a-spaceplane/" >🔗</a> **[SpaceNews]** Does Europe need a spaceplane?
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250917T170108">2025-09-17 17:01:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250917T173232">2025-09-17 17:32:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
