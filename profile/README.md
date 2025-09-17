@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-chief-current-satellite-tracking-too-slow-for-modern-threats/" >🔗</a> **[SpaceNews]** Space Force chief: Current satellite tracking ‘too slow’ for modern threats
 - <a href="https://spaceflightnow.com/2025/09/17/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-11/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://www.nasa.gov/directorates/esdmd/common-exploration-systems-development-division/space-launch-system/nasa-artemis-ii-moon-rocket-ready-to-fly-crew/" >🔗</a> **[NASA]** NASA Artemis II Moon Rocket Ready to Fly Crew
 - <a href="https://spacenews.com/space-force-accelerates-reorganization-of-acquisition-units/" >🔗</a> **[SpaceNews]** Space Force accelerates reorganization of acquisition units
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/small-geo-strategies-diverge-around-vertical-integration/" >🔗</a> **[SpaceNews]** Small GEO strategies diverge around vertical integration
 - <a href="https://www.nasa.gov/image-article/space-station-science/" >🔗</a> **[NASA]** Space Station Science
 - <a href="https://science.nasa.gov/missions/nasas-imap-mission-to-study-boundaries-of-our-home-in-space/" >🔗</a> **[NASA]** NASA’s IMAP Mission to Study Boundaries of Our Home in Space
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/XRISM_uncovers_a_mystery_in_the_cosmic_winds_of_change" >🔗</a> **[ESA]** XRISM uncovers a mystery in the cosmic winds of change
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250917T230108">2025-09-17 23:01:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250917T233101">2025-09-17 23:31:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
