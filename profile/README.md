@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/president-trumps-golden-dome-golden-dream-or-black-nightmare/" >🔗</a> **[SpaceNews]** President Trump’s Golden Dome: golden dream or black nightmare?
 - <a href="https://spacenews.com/maxar-and-ecopia-roll-out-ai-powered-earth-mapping-system/" >🔗</a> **[SpaceNews]** Maxar and Ecopia roll out AI-powered Earth mapping system
 - <a href="https://spacenews.com/does-europe-need-a-spaceplane/" >🔗</a> **[SpaceNews]** Does Europe need a spaceplane?
 - <a href="https://spacenews.com/reorbit-raises-45-million-euros-to-increase-spacecraft-production/" >🔗</a> **[SpaceNews]** ReOrbit raises 45 million euros to increase spacecraft production
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/09/16/nasa-northrop-grumman-postpone-cygnus-xl-arrival-to-iss-following-propulsion-issue/" >🔗</a> **[Spaceflight Now]** NASA, Northrop Grumman postpone Cygnus XL arrival to ISS following propulsion issue
 - <a href="https://spacenews.com/project-kuiper-plots-broadband-services-in-five-countries-by-end-of-march/" >🔗</a> **[SpaceNews]** Project Kuiper plots broadband services in five countries by end of March
 - <a href="https://spacenews.com/impulse-space-and-anduril-to-demonstrate-autonomous-spacecraft-maneuvers-in-geo/" >🔗</a> **[SpaceNews]** Impulse Space and Anduril to demonstrate autonomous spacecraft maneuvers in GEO
-- <a href="https://spacenews.com/axiom-and-spacebilt-to-establish-iss-data-center-node/" >🔗</a> **[SpaceNews]** Axiom and Spacebilt to establish ISS data center node
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250917T130802">2025-09-17 13:08:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250917T133609">2025-09-17 13:36:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
