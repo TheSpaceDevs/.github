@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/maxar-and-ecopia-roll-out-ai-powered-earth-mapping-system/" >🔗</a> **[SpaceNews]** Maxar and Ecopia roll out AI-powered Earth mapping system
+- <a href="https://spacenews.com/does-europe-need-a-spaceplane/" >🔗</a> **[SpaceNews]** Does Europe need a spaceplane?
 - <a href="https://spacenews.com/reorbit-raises-45-million-euros-to-increase-spacecraft-production/" >🔗</a> **[SpaceNews]** ReOrbit raises 45 million euros to increase spacecraft production
 - <a href="https://spacenews.com/successful-flight-on-falcon-9-for-eos-8-mecano-ids-satellite-ejection-system/" >🔗</a> **[SpaceNews]** Successful flight on Falcon 9 for EOS-8’’, MECANO ID’s Satellite Ejection System
 - <a href="https://spacenews.com/thruster-issue-delays-cygnus-arrival-at-iss/" >🔗</a> **[SpaceNews]** Thruster issue delays Cygnus arrival at ISS
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/project-kuiper-plots-broadband-services-in-five-countries-by-end-of-march/" >🔗</a> **[SpaceNews]** Project Kuiper plots broadband services in five countries by end of March
 - <a href="https://spacenews.com/impulse-space-and-anduril-to-demonstrate-autonomous-spacecraft-maneuvers-in-geo/" >🔗</a> **[SpaceNews]** Impulse Space and Anduril to demonstrate autonomous spacecraft maneuvers in GEO
 - <a href="https://spacenews.com/axiom-and-spacebilt-to-establish-iss-data-center-node/" >🔗</a> **[SpaceNews]** Axiom and Spacebilt to establish ISS data center node
-- <a href="https://spacenews.com/ghgsat-announces-34-million-in-equity-and-debt-financing/" >🔗</a> **[SpaceNews]** GHGSat announces $34 million in equity and debt financing
-- <a href="https://www.nasa.gov/aeronautics/nasa-partners-push-forward-with-remotely-piloted-airspace-integration/" >🔗</a> **[NASA]** NASA, Partners Push Forward with Remotely Piloted Airspace Integration
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250917T113100">2025-09-17 11:31:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250917T120200">2025-09-17 12:02:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
