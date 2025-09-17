@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/09/16/nasa-northrop-grumman-postpone-cygnus-xl-arrival-to-iss-following-propulsion-issue/" >🔗</a> **[Spaceflight Now]** NASA, Northrop Grumman postpone Cygnus XL arrival to ISS following propulsion issue
 - <a href="https://spacenews.com/project-kuiper-plots-broadband-services-in-five-countries-by-end-of-march/" >🔗</a> **[SpaceNews]** Project Kuiper plots broadband services in five countries by end of March
 - <a href="https://spacenews.com/impulse-space-and-anduril-to-demonstrate-autonomous-spacecraft-maneuvers-in-geo/" >🔗</a> **[SpaceNews]** Impulse Space and Anduril to demonstrate autonomous spacecraft maneuvers in GEO
 - <a href="https://spacenews.com/axiom-and-spacebilt-to-establish-iss-data-center-node/" >🔗</a> **[SpaceNews]** Axiom and Spacebilt to establish ISS data center node
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/general/architecture-workshop-registration-request/" >🔗</a> **[NASA]** Architecture Workshop Registration Requests
 - <a href="https://www.nasaspaceflight.com/2025/09/spacex-starship-block-3-engine-testing-mcgregor/" >🔗</a> **[NASASpaceflight]** Starship Block 3 development continues at Starbase and McGregor
 - <a href="https://science.nasa.gov/get-involved/citizen-science/webinar-series-teaching-with-emerge-globe-mission-mosquito/" >🔗</a> **[NASA]** Webinar Series: Teaching with EMERGE & GLOBE Mission Mosquito
-- <a href="https://spacenews.com/kepler-communications-ceo-talks-sovereignty-security-and-space-data/" >🔗</a> **[SpaceNews]** Kepler Communications CEO talks sovereignty, security, and space data
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250916T233103">2025-09-16 23:31:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250917T000419">2025-09-17 00:04:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
