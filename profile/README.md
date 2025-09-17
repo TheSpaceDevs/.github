@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/XRISM_uncovers_a_mystery_in_the_cosmic_winds_of_change" >🔗</a> **[ESA]** XRISM uncovers a mystery in the cosmic winds of change
+- <a href="https://europeanspaceflight.com/poland-to-commission-six-satellites-as-added-iris2-contribution/" >🔗</a> **[European Spaceflight]** Poland to Commission Six Satellites as Added IRIS2 Contribution
+- <a href="https://spacenews.com/novaspace-and-the-occitanie-region-launch-the-inaugural-space-summit-for-a-resilient-future-in-2026/" >🔗</a> **[SpaceNews]** Novaspace and the Occitanie Region Launch the Inaugural Space Summit for a Resilient Future in 2026
 - <a href="https://spacenews.com/redwires-global-strategy-from-space-to-security/" >🔗</a> **[SpaceNews]** Redwire’s global strategy from space to security
 - <a href="https://spacenews.com/president-trumps-golden-dome-golden-dream-or-black-nightmare/" >🔗</a> **[SpaceNews]** President Trump’s Golden Dome: golden dream or black nightmare?
 - <a href="https://spacenews.com/maxar-and-ecopia-roll-out-ai-powered-earth-mapping-system/" >🔗</a> **[SpaceNews]** Maxar and Ecopia roll out AI-powered Earth mapping system
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/reorbit-raises-45-million-euros-to-increase-spacecraft-production/" >🔗</a> **[SpaceNews]** ReOrbit raises 45 million euros to increase spacecraft production
 - <a href="https://spacenews.com/successful-flight-on-falcon-9-for-eos-8-mecano-ids-satellite-ejection-system/" >🔗</a> **[SpaceNews]** Successful flight on Falcon 9 for EOS-8’’, MECANO ID’s Satellite Ejection System
 - <a href="https://spacenews.com/thruster-issue-delays-cygnus-arrival-at-iss/" >🔗</a> **[SpaceNews]** Thruster issue delays Cygnus arrival at ISS
-- <a href="https://spacepolicyonline.com/news/cygnus-cargo-ship-enroute-to-iss-experiences-propulsion-anomalies/" >🔗</a> **[SpacePolicyOnline.com]** Cygnus Cargo Ship Enroute to ISS Experiences Propulsion Anomalies
-- <a href="https://spaceflightnow.com/2025/09/16/nasa-northrop-grumman-postpone-cygnus-xl-arrival-to-iss-following-propulsion-issue/" >🔗</a> **[Spaceflight Now]** NASA, Northrop Grumman postpone Cygnus XL arrival to ISS following propulsion issue
-- <a href="https://spacenews.com/project-kuiper-plots-broadband-services-in-five-countries-by-end-of-march/" >🔗</a> **[SpaceNews]** Project Kuiper plots broadband services in five countries by end of March
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250917T150153">2025-09-17 15:01:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250917T153308">2025-09-17 15:33:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
