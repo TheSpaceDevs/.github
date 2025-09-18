@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/launch-startup-ispace-secures-fresh-funding-as-hot-fire-tests-heat-up-chinas-reusable-rocket-race/" >🔗</a> **[SpaceNews]** Launch startup iSpace secures fresh funding as hot fire tests heat up China’s reusable rocket race
 - <a href="https://www.nasa.gov/directorates/esdmd/common-exploration-systems-development-division/space-launch-system/from-supercomputers-to-wind-tunnels-nasas-road-to-artemis-ii/" >🔗</a> **[NASA]** From Supercomputers to Wind Tunnels: NASA’s Road to Artemis II
 - <a href="https://spacenews.com/u-s-uk-space-commands-execute-first-joint-satellite-maneuvers/" >🔗</a> **[SpaceNews]** U.S., UK Space Commands execute first joint satellite maneuvers
 - <a href="https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/deep-space-optical-communications-dsoc/nasas-deep-space-communications-demo-exceeds-project-expectations/" >🔗</a> **[NASA]** NASA’s Deep Space Communications Demo Exceeds Project Expectations
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.spacescout.info/2025/09/iss-operations-continue-with-new-cargo-and-crews/" >🔗</a> **[Space Scout]** ISS Operations Continue with New Cargo and Crews
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/building-a-lunar-network-johnson-tests-wireless-technologies-for-the-moon/" >🔗</a> **[NASA]** Building a Lunar Network: Johnson Tests Wireless Technologies for the Moon
 - <a href="https://science.nasa.gov/uncategorized/new-nasa-mission-to-reveal-earths-invisible-halo/" >🔗</a> **[NASA]** New NASA Mission to Reveal Earth’s Invisible ‘Halo’
-- <a href="https://www.nasa.gov/image-article/milky-way-views/" >🔗</a> **[NASA]** Milky Way Views
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250918T230108">2025-09-18 23:01:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250918T233057">2025-09-18 23:30:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
