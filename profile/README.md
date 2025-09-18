@@ -90,6 +90,8 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/defense-and-security-agencies-propel-demand-for-earth-observation-data/" >🔗</a> **[SpaceNews]** Defense and security agencies propel demand for Earth-observation data
+- <a href="https://spacenews.com/astra-plans-mid-2026-first-launch-of-rocket-4/" >🔗</a> **[SpaceNews]** Astra plans mid-2026 first launch of Rocket 4
 - <a href="https://www.nasaspaceflight.com/2025/09/rocket-lab-eyes-mto-nasa-revives-mission-concept/" >🔗</a> **[NASASpaceflight]** Rocket Lab eyes Mars Telecommunications Orbiter as NASA revives mission concept
 - <a href="https://spacenews.com/arianespace-examines-options-to-increase-ariane-6-launch-rate/" >🔗</a> **[SpaceNews]** Arianespace examines options to increase Ariane 6 launch rate
 - <a href="https://spacepolicyonline.com/news/ng-23-cygnus-back-on-track-arrives-at-iss-tomorrow/" >🔗</a> **[SpacePolicyOnline.com]** NG-23 Cygnus Back on Track, Arrives at ISS Tomorrow
@@ -98,8 +100,6 @@ into *a Suborbital
 - <a href="https://www.nasa.gov/directorates/esdmd/common-exploration-systems-development-division/space-launch-system/nasa-artemis-ii-moon-rocket-ready-to-fly-crew/" >🔗</a> **[NASA]** NASA Artemis II Moon Rocket Ready to Fly Crew
 - <a href="https://spacenews.com/space-force-accelerates-reorganization-of-acquisition-units/" >🔗</a> **[SpaceNews]** Space Force accelerates reorganization of acquisition units
 - <a href="https://www.nasa.gov/universe/exoplanets/nasas-tally-of-planets-outside-our-solar-system-reaches-6000/" >🔗</a> **[NASA]** NASA’s Tally of Planets Outside Our Solar System Reaches 6,000
-- <a href="https://www.nasa.gov/image-article/nasa-rideshares-integrated-ahead-of-launch/" >🔗</a> **[NASA]** NASA Rideshares Integrated Ahead of Launch
-- <a href="https://www.nasa.gov/earth/arctic-sea-ice-2025-low/" >🔗</a> **[NASA]** Arctic Sea Ice Reaches Annual Low
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250918T100136">2025-09-18 10:01:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250918T103432">2025-09-18 10:34:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
