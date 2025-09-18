@@ -23,7 +23,7 @@ The next space launch, retrieved from our
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
 from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250918T154100">2025-09-18 15:41:00 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250919T154100">2025-09-19 15:41:00 UTC</a>.  Until
 then, this pad will have been used for 216
 out of 830 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
@@ -45,6 +45,7 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250919T154100">2025-09-19 15:41:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-12&location=Vandenberg SFB, CA, USA&dates=20250919T154100Z%2F20250919T194100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-12** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250921T092000">2025-09-21 09:20:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-27&location=Cape Canaveral SFS, FL, USA&dates=20250921T092000Z%2F20250921T132000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-27** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250921T173700">2025-09-21 17:37:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | NROL-48&location=Vandenberg SFB, CA, USA&dates=20250921T173700Z%2F20250921T183700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | NROL-48** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250922T234500">2025-09-22 23:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=HASTE | JENNA&location=Wallops Flight Facility, Virginia, USA&dates=20250922T234500Z%2F20250923T051500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **HASTE | JENNA** from Wallops Flight Facility, Virginia, USA.
@@ -89,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/milky-way-views/" >🔗</a> **[NASA]** Milky Way Views
+- <a href="https://spacenews.com/educating-customers-may-be-half-the-battle-for-nascent-hyperspectral-sector/" >🔗</a> **[SpaceNews]** Educating customers may be half the battle for nascent hyperspectral sector
 - <a href="https://spacenews.com/blue-origin-retires-new-shepard-capsule-after-payload-flight/" >🔗</a> **[SpaceNews]** Blue Origin retires New Shepard capsule after payload flight
 - <a href="https://spacenews.com/new-military-satcom-services-program-to-focus-on-maneuverable-small-geo-satellites/" >🔗</a> **[SpaceNews]** New military satcom services program to focus on ‘maneuverable’ small GEO satellites
 - <a href="https://europeanspaceflight.com/construction-officially-begins-on-multi-user-launch-facility-in-french-guiana/" >🔗</a> **[European Spaceflight]** Construction Officially Begins on Multi-User Launch Facility in French Guiana
@@ -97,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/ai-sovereignty-and-the-next-generation-of-satellites/" >🔗</a> **[SpaceNews]** AI, sovereignty and the next generation of satellites
 - <a href="https://spacenews.com/stratospheric-pseudo-satellites-nearing-commercial-role-in-hybrid-space-networks/" >🔗</a> **[SpaceNews]** Stratospheric pseudo-satellites nearing commercial role in hybrid space networks
 - <a href="https://spacenews.com/lone-star-space-how-texas-can-revitalize-its-galactic-industry/" >🔗</a> **[SpaceNews]** Lone Star space: How Texas can revitalize its galactic industry
-- <a href="https://spacenews.com/cygnus-arrives-at-iss-after-thruster-glitch/" >🔗</a> **[SpaceNews]** Cygnus arrives at ISS after thruster glitch
-- <a href="https://spacenews.com/defense-and-security-agencies-propel-demand-for-earth-observation-data/" >🔗</a> **[SpaceNews]** Defense and security agencies propel demand for Earth-observation data
 
 
 ### Launch-related News 🚀
@@ -109,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250918T160149">2025-09-18 16:01:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250918T163558">2025-09-18 16:35:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
