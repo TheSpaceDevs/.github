@@ -45,7 +45,6 @@ into *a Suborbital
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250918T123000">2025-09-18 12:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Shepard | NS-35&location=Corn Ranch, Van Horn, TX, USA&dates=20250918T123000Z%2F20250918T203000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Shepard | NS-35** from Corn Ranch, Van Horn, TX, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250918T154100">2025-09-18 15:41:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-12&location=Vandenberg SFB, CA, USA&dates=20250918T154100Z%2F20250918T194100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-12** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250921T092000">2025-09-21 09:20:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-27&location=Cape Canaveral SFS, FL, USA&dates=20250921T092000Z%2F20250921T132000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-27** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250921T173700">2025-09-21 17:37:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | NROL-48&location=Vandenberg SFB, CA, USA&dates=20250921T173700Z%2F20250921T183700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | NROL-48** from Vandenberg SFB, CA, USA.
@@ -90,6 +89,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/cygnus-arrives-at-iss-after-thruster-glitch/" >🔗</a> **[SpaceNews]** Cygnus arrives at ISS after thruster glitch
 - <a href="https://spacenews.com/defense-and-security-agencies-propel-demand-for-earth-observation-data/" >🔗</a> **[SpaceNews]** Defense and security agencies propel demand for Earth-observation data
 - <a href="https://spacenews.com/astra-plans-mid-2026-first-launch-of-rocket-4/" >🔗</a> **[SpaceNews]** Astra plans mid-2026 first launch of Rocket 4
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Future_space_transportation/Phoebus_keeping_cool_with_oxygen" >🔗</a> **[ESA]** Phoebus: keeping cool with oxygen
@@ -99,7 +99,6 @@ into *a Suborbital
 - <a href="https://spacenews.com/space-force-chief-current-satellite-tracking-too-slow-for-modern-threats/" >🔗</a> **[SpaceNews]** Space Force chief: Current satellite tracking ‘too slow’ for modern threats
 - <a href="https://spaceflightnow.com/2025/09/17/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-11/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://www.nasa.gov/directorates/esdmd/common-exploration-systems-development-division/space-launch-system/nasa-artemis-ii-moon-rocket-ready-to-fly-crew/" >🔗</a> **[NASA]** NASA Artemis II Moon Rocket Ready to Fly Crew
-- <a href="https://spacenews.com/space-force-accelerates-reorganization-of-acquisition-units/" >🔗</a> **[SpaceNews]** Space Force accelerates reorganization of acquisition units
 
 
 ### Launch-related News 🚀
@@ -111,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250918T120202">2025-09-18 12:02:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250918T124305">2025-09-18 12:43:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
