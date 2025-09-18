@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-gateways-to-blue-skies-2026-competition/" >🔗</a> **[NASA]** NASA Gateways to Blue Skies 2026 Competition
+- <a href="https://spacenews.com/hubble-network-raises-70-million-to-accelerate-60-satellite-bluetooth-constellation/" >🔗</a> **[SpaceNews]** Hubble Network raises $70 million to accelerate 60-satellite Bluetooth constellation
 - <a href="https://www.nasa.gov/missions/chandra/nasas-chandra-finds-black-hole-with-tremendous-growth/" >🔗</a> **[NASA]** NASA’s Chandra Finds Black Hole With Tremendous Growth
 - <a href="https://www.spacescout.info/2025/09/iss-operations-continue-with-new-cargo-and-crews/" >🔗</a> **[Space Scout]** ISS Operations Continue with New Cargo and Crews
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/building-a-lunar-network-johnson-tests-wireless-technologies-for-the-moon/" >🔗</a> **[NASA]** Building a Lunar Network: Johnson Tests Wireless Technologies for the Moon
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/educating-customers-may-be-half-the-battle-for-nascent-hyperspectral-sector/" >🔗</a> **[SpaceNews]** Educating customers may be half the battle for nascent hyperspectral sector
 - <a href="https://spacenews.com/blue-origin-retires-new-shepard-capsule-after-payload-flight/" >🔗</a> **[SpaceNews]** Blue Origin retires New Shepard capsule after payload flight
 - <a href="https://spacenews.com/new-military-satcom-services-program-to-focus-on-maneuverable-small-geo-satellites/" >🔗</a> **[SpaceNews]** New military satcom services program to focus on ‘maneuverable’ small GEO satellites
-- <a href="https://europeanspaceflight.com/construction-officially-begins-on-multi-user-launch-facility-in-french-guiana/" >🔗</a> **[European Spaceflight]** Construction Officially Begins on Multi-User Launch Facility in French Guiana
-- <a href="https://spaceflightnow.com/2025/09/18/northrop-grumman-cargo-ship-reaches-space-station/" >🔗</a> **[Spaceflight Now]** Northrop Grumman cargo ship reaches space Station
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250918T190102">2025-09-18 19:01:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250918T193056">2025-09-18 19:30:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
