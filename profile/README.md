@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/u-s-uk-space-commands-execute-first-joint-satellite-maneuvers/" >🔗</a> **[SpaceNews]** U.S., UK Space Commands execute first joint satellite maneuvers
 - <a href="https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/deep-space-optical-communications-dsoc/nasas-deep-space-communications-demo-exceeds-project-expectations/" >🔗</a> **[NASA]** NASA’s Deep Space Communications Demo Exceeds Project Expectations
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-gateways-to-blue-skies-2026-competition/" >🔗</a> **[NASA]** NASA Gateways to Blue Skies 2026 Competition
 - <a href="https://spacenews.com/hubble-network-raises-70-million-to-accelerate-60-satellite-bluetooth-constellation/" >🔗</a> **[SpaceNews]** Hubble Network raises $70 million to accelerate 60-satellite Bluetooth constellation
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/uncategorized/new-nasa-mission-to-reveal-earths-invisible-halo/" >🔗</a> **[NASA]** New NASA Mission to Reveal Earth’s Invisible ‘Halo’
 - <a href="https://www.nasa.gov/image-article/milky-way-views/" >🔗</a> **[NASA]** Milky Way Views
 - <a href="https://spacenews.com/educating-customers-may-be-half-the-battle-for-nascent-hyperspectral-sector/" >🔗</a> **[SpaceNews]** Educating customers may be half the battle for nascent hyperspectral sector
-- <a href="https://spacenews.com/blue-origin-retires-new-shepard-capsule-after-payload-flight/" >🔗</a> **[SpaceNews]** Blue Origin retires New Shepard capsule after payload flight
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250918T200200">2025-09-18 20:02:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250918T203318">2025-09-18 20:33:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
