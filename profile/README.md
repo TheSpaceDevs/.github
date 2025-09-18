@@ -92,6 +92,7 @@ into *a Suborbital
 ### Latest News ⌛
 - <a href="https://spacenews.com/defense-and-security-agencies-propel-demand-for-earth-observation-data/" >🔗</a> **[SpaceNews]** Defense and security agencies propel demand for Earth-observation data
 - <a href="https://spacenews.com/astra-plans-mid-2026-first-launch-of-rocket-4/" >🔗</a> **[SpaceNews]** Astra plans mid-2026 first launch of Rocket 4
+- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Future_space_transportation/Phoebus_keeping_cool_with_oxygen" >🔗</a> **[ESA]** Phoebus: keeping cool with oxygen
 - <a href="https://www.nasaspaceflight.com/2025/09/rocket-lab-eyes-mto-nasa-revives-mission-concept/" >🔗</a> **[NASASpaceflight]** Rocket Lab eyes Mars Telecommunications Orbiter as NASA revives mission concept
 - <a href="https://spacenews.com/arianespace-examines-options-to-increase-ariane-6-launch-rate/" >🔗</a> **[SpaceNews]** Arianespace examines options to increase Ariane 6 launch rate
 - <a href="https://spacepolicyonline.com/news/ng-23-cygnus-back-on-track-arrives-at-iss-tomorrow/" >🔗</a> **[SpacePolicyOnline.com]** NG-23 Cygnus Back on Track, Arrives at ISS Tomorrow
@@ -99,7 +100,6 @@ into *a Suborbital
 - <a href="https://spaceflightnow.com/2025/09/17/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-11/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://www.nasa.gov/directorates/esdmd/common-exploration-systems-development-division/space-launch-system/nasa-artemis-ii-moon-rocket-ready-to-fly-crew/" >🔗</a> **[NASA]** NASA Artemis II Moon Rocket Ready to Fly Crew
 - <a href="https://spacenews.com/space-force-accelerates-reorganization-of-acquisition-units/" >🔗</a> **[SpaceNews]** Space Force accelerates reorganization of acquisition units
-- <a href="https://www.nasa.gov/universe/exoplanets/nasas-tally-of-planets-outside-our-solar-system-reaches-6000/" >🔗</a> **[NASA]** NASA’s Tally of Planets Outside Our Solar System Reaches 6,000
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250918T113055">2025-09-18 11:30:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250918T120202">2025-09-18 12:02:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
