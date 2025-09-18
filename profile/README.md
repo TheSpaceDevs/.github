@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/blue-origin-retires-new-shepard-capsule-after-payload-flight/" >🔗</a> **[SpaceNews]** Blue Origin retires New Shepard capsule after payload flight
+- <a href="https://spacenews.com/new-military-satcom-services-program-to-focus-on-maneuverable-small-geo-satellites/" >🔗</a> **[SpaceNews]** New military satcom services program to focus on ‘maneuverable’ small GEO satellites
+- <a href="https://europeanspaceflight.com/construction-officially-begins-on-multi-user-launch-facility-in-french-guiana/" >🔗</a> **[European Spaceflight]** Construction Officially Begins on Multi-User Launch Facility in French Guiana
+- <a href="https://spaceflightnow.com/2025/09/18/northrop-grumman-cargo-ship-reaches-space-station/" >🔗</a> **[Spaceflight Now]** Northrop Grumman cargo ship reaches space Station
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-sees-white-dwarf-eating-piece-of-pluto-like-object/" >🔗</a> **[NASA]** NASA’s Hubble Sees White Dwarf Eating Piece of Pluto-Like Object
 - <a href="https://spacenews.com/ai-sovereignty-and-the-next-generation-of-satellites/" >🔗</a> **[SpaceNews]** AI, sovereignty and the next generation of satellites
 - <a href="https://spacenews.com/stratospheric-pseudo-satellites-nearing-commercial-role-in-hybrid-space-networks/" >🔗</a> **[SpaceNews]** Stratospheric pseudo-satellites nearing commercial role in hybrid space networks
 - <a href="https://spacenews.com/lone-star-space-how-texas-can-revitalize-its-galactic-industry/" >🔗</a> **[SpaceNews]** Lone Star space: How Texas can revitalize its galactic industry
 - <a href="https://spacenews.com/cygnus-arrives-at-iss-after-thruster-glitch/" >🔗</a> **[SpaceNews]** Cygnus arrives at ISS after thruster glitch
 - <a href="https://spacenews.com/defense-and-security-agencies-propel-demand-for-earth-observation-data/" >🔗</a> **[SpaceNews]** Defense and security agencies propel demand for Earth-observation data
-- <a href="https://spacenews.com/astra-plans-mid-2026-first-launch-of-rocket-4/" >🔗</a> **[SpaceNews]** Astra plans mid-2026 first launch of Rocket 4
-- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Future_space_transportation/Phoebus_keeping_cool_with_oxygen" >🔗</a> **[ESA]** Phoebus: keeping cool with oxygen
-- <a href="https://www.nasaspaceflight.com/2025/09/rocket-lab-eyes-mto-nasa-revives-mission-concept/" >🔗</a> **[NASASpaceflight]** Rocket Lab eyes Mars Telecommunications Orbiter as NASA revives mission concept
-- <a href="https://spacenews.com/arianespace-examines-options-to-increase-ariane-6-launch-rate/" >🔗</a> **[SpaceNews]** Arianespace examines options to increase Ariane 6 launch rate
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250918T150111">2025-09-18 15:01:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250918T153341">2025-09-18 15:33:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
