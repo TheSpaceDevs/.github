@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/09/rocket-lab-eyes-mto-nasa-revives-mission-concept/" >🔗</a> **[NASASpaceflight]** Rocket Lab eyes Mars Telecommunications Orbiter as NASA revives mission concept
+- <a href="https://spacenews.com/arianespace-examines-options-to-increase-ariane-6-launch-rate/" >🔗</a> **[SpaceNews]** Arianespace examines options to increase Ariane 6 launch rate
 - <a href="https://spacepolicyonline.com/news/ng-23-cygnus-back-on-track-arrives-at-iss-tomorrow/" >🔗</a> **[SpacePolicyOnline.com]** NG-23 Cygnus Back on Track, Arrives at ISS Tomorrow
 - <a href="https://spacenews.com/space-force-chief-current-satellite-tracking-too-slow-for-modern-threats/" >🔗</a> **[SpaceNews]** Space Force chief: Current satellite tracking ‘too slow’ for modern threats
 - <a href="https://spaceflightnow.com/2025/09/17/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-11/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Cape Canaveral
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/universe/exoplanets/nasas-tally-of-planets-outside-our-solar-system-reaches-6000/" >🔗</a> **[NASA]** NASA’s Tally of Planets Outside Our Solar System Reaches 6,000
 - <a href="https://www.nasa.gov/image-article/nasa-rideshares-integrated-ahead-of-launch/" >🔗</a> **[NASA]** NASA Rideshares Integrated Ahead of Launch
 - <a href="https://www.nasa.gov/earth/arctic-sea-ice-2025-low/" >🔗</a> **[NASA]** Arctic Sea Ice Reaches Annual Low
-- <a href="https://spacenews.com/small-geo-strategies-diverge-around-vertical-integration/" >🔗</a> **[SpaceNews]** Small GEO strategies diverge around vertical integration
-- <a href="https://www.nasa.gov/image-article/space-station-science/" >🔗</a> **[NASA]** Space Station Science
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250918T050113">2025-09-18 05:01:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250918T053301">2025-09-18 05:33:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
