@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/building-saudi-arabias-space-champion/" >🔗</a> **[SpaceNews]** Building Saudi Arabia’s space champion
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_15-19_September_2025" >🔗</a> **[ESA]** Week in images: 15-19 September 2025
 - <a href="https://spacenews.com/american-leadership-at-apophis/" >🔗</a> **[SpaceNews]** American leadership at Apophis
 - <a href="https://arstechnica.com/space/2025/09/rocket-report-european-rocket-reuse-test-delayed-nasa-tweaks-sls-for-artemis-ii/" >🔗</a> **[Arstechnica]** Rocket Report: European rocket reuse test delayed; NASA tweaks SLS for Artemis II
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/09/Earth_from_Space_Komodo_Island_Indonesia" >🔗</a> **[ESA]** Earth from Space: Komodo Island, Indonesia
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Future_space_transportation/Themis_stands_on_the_launch_pad" >🔗</a> **[ESA]** Themis stands on the launch pad
 - <a href="https://europeanspaceflight.com/space-cargo-unlimited-secures-e27-5m-for-bentobox-return-capsule/" >🔗</a> **[European Spaceflight]** Space Cargo Unlimited Secures €27.5M for BentoBox Return Capsule
-- <a href="https://europeanspaceflight.com/space-cargo-unlimited-secures-e27-5m-for-bentobox-payload-platform/" >🔗</a> **[European Spaceflight]** Space Cargo Unlimited Secures €27.5M for BentoBox Payload Platform
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250919T140126">2025-09-19 14:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250919T143450">2025-09-19 14:34:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
