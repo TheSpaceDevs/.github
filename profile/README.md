@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-selects-blue-origin-to-deliver-viper-rover-to-moons-south-pole/" >🔗</a> **[NASA]** NASA Selects Blue Origin to Deliver VIPER Rover to Moon’s South Pole
 - <a href="https://europeanspaceflight.com/arianegroup-completes-themis-integration-ahead-of-combined-tests/" >🔗</a> **[European Spaceflight]** ArianeGroup Completes Themis Integration Ahead of Combined Tests
 - <a href="https://spacenews.com/live-event-the-space-investment-horizon/" >🔗</a> **[SpaceNews]** Live Event: The Space Investment Horizon
 - <a href="https://www.nasa.gov/image-article/nasas-orion-spacecraft-secures-critical-abort-system-hardware-for-artemis-ii/" >🔗</a> **[NASA]** NASA’s Orion Spacecraft Secures Critical Abort System Hardware for Artemis II
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/building-saudi-arabias-space-champion/" >🔗</a> **[SpaceNews]** Building Saudi Arabia’s space champion
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_15-19_September_2025" >🔗</a> **[ESA]** Week in images: 15-19 September 2025
 - <a href="https://spacenews.com/american-leadership-at-apophis/" >🔗</a> **[SpaceNews]** American leadership at Apophis
-- <a href="https://arstechnica.com/space/2025/09/rocket-report-european-rocket-reuse-test-delayed-nasa-tweaks-sls-for-artemis-ii/" >🔗</a> **[Arstechnica]** Rocket Report: European rocket reuse test delayed; NASA tweaks SLS for Artemis II
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250919T200134">2025-09-19 20:01:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250919T203248">2025-09-19 20:32:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
