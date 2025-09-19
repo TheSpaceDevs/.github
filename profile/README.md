@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/09/Earth_from_Space_Komodo_Island_Indonesia" >🔗</a> **[ESA]** Earth from Space: Komodo Island, Indonesia
+- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Future_space_transportation/Themis_stands_on_the_launch_pad" >🔗</a> **[ESA]** Themis stands on the launch pad
+- <a href="https://europeanspaceflight.com/space-cargo-unlimited-secures-e27-5m-for-bentobox-payload-platform/" >🔗</a> **[European Spaceflight]** Space Cargo Unlimited Secures €27.5M for BentoBox Payload Platform
 - <a href="https://europeanspaceflight.com/space-cargo-unlimited-secures-e27-5m-for-bentobox-return-capsule/" >🔗</a> **[European Spaceflight]** Space Cargo Unlimited Secures €27.5M for BentoBox Return Capsule
 - <a href="https://spacenews.com/space-norway-and-sstl-collaborate-on-radar-satellite-program/" >🔗</a> **[SpaceNews]** Space Norway and SSTL collaborate on radar satellite program
 - <a href="https://spacenews.com/launch-startup-ispace-secures-fresh-funding-as-hot-fire-tests-heat-up-chinas-reusable-rocket-race/" >🔗</a> **[SpaceNews]** Launch startup iSpace secures fresh funding as hot fire tests heat up China’s reusable rocket race
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/u-s-uk-space-commands-execute-first-joint-satellite-maneuvers/" >🔗</a> **[SpaceNews]** U.S., UK Space Commands execute first joint satellite maneuvers
 - <a href="https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/deep-space-optical-communications-dsoc/nasas-deep-space-communications-demo-exceeds-project-expectations/" >🔗</a> **[NASA]** NASA’s Deep Space Communications Demo Exceeds Project Expectations
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-gateways-to-blue-skies-2026-competition/" >🔗</a> **[NASA]** NASA Gateways to Blue Skies 2026 Competition
-- <a href="https://spacenews.com/hubble-network-raises-70-million-to-accelerate-60-satellite-bluetooth-constellation/" >🔗</a> **[SpaceNews]** Hubble Network raises $70 million to accelerate 60-satellite Bluetooth constellation
-- <a href="https://www.nasa.gov/missions/chandra/nasas-chandra-finds-black-hole-with-tremendous-growth/" >🔗</a> **[NASA]** NASA’s Chandra Finds Black Hole With Tremendous Growth
-- <a href="https://www.spacescout.info/2025/09/iss-operations-continue-with-new-cargo-and-crews/" >🔗</a> **[Space Scout]** ISS Operations Continue with New Cargo and Crews
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250919T090136">2025-09-19 09:01:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250919T093311">2025-09-19 09:33:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
