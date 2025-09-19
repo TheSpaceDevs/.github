@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/arianegroup-completes-themis-integration-ahead-of-combined-tests/" >🔗</a> **[European Spaceflight]** ArianeGroup Completes Themis Integration Ahead of Combined Tests
+- <a href="https://spacenews.com/live-event-the-space-investment-horizon/" >🔗</a> **[SpaceNews]** Live Event: The Space Investment Horizon
 - <a href="https://www.nasa.gov/image-article/nasas-orion-spacecraft-secures-critical-abort-system-hardware-for-artemis-ii/" >🔗</a> **[NASA]** NASA’s Orion Spacecraft Secures Critical Abort System Hardware for Artemis II
 - <a href="https://spacenews.com/shaping-the-new-era-of-space/" >🔗</a> **[SpaceNews]** Shaping the new era of space
 - <a href="https://spacenews.com/novaspace-recognizes-2025-excellence-award-winners-in-satellite-connectivity-earth-observation-and-startup-challenge-at-world-space-business-week/" >🔗</a> **[SpaceNews]** Novaspace Recognizes 2025 Excellence Award Winners in Satellite Connectivity, Earth Observation, and Startup Challenge at World Space Business Week
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_15-19_September_2025" >🔗</a> **[ESA]** Week in images: 15-19 September 2025
 - <a href="https://spacenews.com/american-leadership-at-apophis/" >🔗</a> **[SpaceNews]** American leadership at Apophis
 - <a href="https://arstechnica.com/space/2025/09/rocket-report-european-rocket-reuse-test-delayed-nasa-tweaks-sls-for-artemis-ii/" >🔗</a> **[Arstechnica]** Rocket Report: European rocket reuse test delayed; NASA tweaks SLS for Artemis II
-- <a href="https://science.nasa.gov/missions/hubble/hubble-images-celestial-cigars-smoldering-heart/" >🔗</a> **[NASA]** Hubble Images Celestial Cigar’s Smoldering Heart
-- <a href="https://spacenews.com/taiwanese-aerospace-firm-partners-with-maxar-on-gps-alternative-drone-navigation/" >🔗</a> **[SpaceNews]** Taiwanese aerospace firm partners with Maxar on GPS-alternative drone navigation
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250919T190100">2025-09-19 19:01:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250919T193100">2025-09-19 19:31:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
