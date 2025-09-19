@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/taiwanese-aerospace-firm-partners-with-maxar-on-gps-alternative-drone-navigation/" >🔗</a> **[SpaceNews]** Taiwanese aerospace firm partners with Maxar on GPS-alternative drone navigation
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/CryoSat/85_new_subglacial_lakes_detected_below_Antarctica" >🔗</a> **[ESA]** 85 new subglacial lakes detected below Antarctica
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/09/Earth_from_Space_Komodo_Island_Indonesia" >🔗</a> **[ESA]** Earth from Space: Komodo Island, Indonesia
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Future_space_transportation/Themis_stands_on_the_launch_pad" >🔗</a> **[ESA]** Themis stands on the launch pad
-- <a href="https://europeanspaceflight.com/space-cargo-unlimited-secures-e27-5m-for-bentobox-payload-platform/" >🔗</a> **[European Spaceflight]** Space Cargo Unlimited Secures €27.5M for BentoBox Payload Platform
 - <a href="https://europeanspaceflight.com/space-cargo-unlimited-secures-e27-5m-for-bentobox-return-capsule/" >🔗</a> **[European Spaceflight]** Space Cargo Unlimited Secures €27.5M for BentoBox Return Capsule
+- <a href="https://europeanspaceflight.com/space-cargo-unlimited-secures-e27-5m-for-bentobox-payload-platform/" >🔗</a> **[European Spaceflight]** Space Cargo Unlimited Secures €27.5M for BentoBox Payload Platform
 - <a href="https://spacenews.com/space-norway-and-sstl-collaborate-on-radar-satellite-program/" >🔗</a> **[SpaceNews]** Space Norway and SSTL collaborate on radar satellite program
 - <a href="https://spacenews.com/launch-startup-ispace-secures-fresh-funding-as-hot-fire-tests-heat-up-chinas-reusable-rocket-race/" >🔗</a> **[SpaceNews]** Launch startup iSpace secures fresh funding as hot fire tests heat up China’s reusable rocket race
 - <a href="https://www.nasa.gov/directorates/esdmd/common-exploration-systems-development-division/space-launch-system/from-supercomputers-to-wind-tunnels-nasas-road-to-artemis-ii/" >🔗</a> **[NASA]** From Supercomputers to Wind Tunnels: NASA’s Road to Artemis II
 - <a href="https://spacenews.com/u-s-uk-space-commands-execute-first-joint-satellite-maneuvers/" >🔗</a> **[SpaceNews]** U.S., UK Space Commands execute first joint satellite maneuvers
-- <a href="https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/deep-space-optical-communications-dsoc/nasas-deep-space-communications-demo-exceeds-project-expectations/" >🔗</a> **[NASA]** NASA’s Deep Space Communications Demo Exceeds Project Expectations
-- <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-gateways-to-blue-skies-2026-competition/" >🔗</a> **[NASA]** NASA Gateways to Blue Skies 2026 Competition
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250919T100142">2025-09-19 10:01:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250919T103510">2025-09-19 10:35:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
