@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_15-19_September_2025" >🔗</a> **[ESA]** Week in images: 15-19 September 2025
+- <a href="https://spacenews.com/american-leadership-at-apophis/" >🔗</a> **[SpaceNews]** American leadership at Apophis
 - <a href="https://arstechnica.com/space/2025/09/rocket-report-european-rocket-reuse-test-delayed-nasa-tweaks-sls-for-artemis-ii/" >🔗</a> **[Arstechnica]** Rocket Report: European rocket reuse test delayed; NASA tweaks SLS for Artemis II
 - <a href="https://science.nasa.gov/missions/hubble/hubble-images-celestial-cigars-smoldering-heart/" >🔗</a> **[NASA]** Hubble Images Celestial Cigar’s Smoldering Heart
 - <a href="https://spacenews.com/taiwanese-aerospace-firm-partners-with-maxar-on-gps-alternative-drone-navigation/" >🔗</a> **[SpaceNews]** Taiwanese aerospace firm partners with Maxar on GPS-alternative drone navigation
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Future_space_transportation/Themis_stands_on_the_launch_pad" >🔗</a> **[ESA]** Themis stands on the launch pad
 - <a href="https://europeanspaceflight.com/space-cargo-unlimited-secures-e27-5m-for-bentobox-return-capsule/" >🔗</a> **[European Spaceflight]** Space Cargo Unlimited Secures €27.5M for BentoBox Return Capsule
 - <a href="https://europeanspaceflight.com/space-cargo-unlimited-secures-e27-5m-for-bentobox-payload-platform/" >🔗</a> **[European Spaceflight]** Space Cargo Unlimited Secures €27.5M for BentoBox Payload Platform
-- <a href="https://spacenews.com/space-norway-and-sstl-collaborate-on-radar-satellite-program/" >🔗</a> **[SpaceNews]** Space Norway and SSTL collaborate on radar satellite program
-- <a href="https://spacenews.com/launch-startup-ispace-secures-fresh-funding-as-hot-fire-tests-heat-up-chinas-reusable-rocket-race/" >🔗</a> **[SpaceNews]** Launch startup iSpace secures fresh funding as hot fire tests heat up China’s reusable rocket race
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250919T130733">2025-09-19 13:07:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250919T133613">2025-09-19 13:36:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
