@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-promotes-direct-to-device-satellite-services-with-new-guidelines-and-licensing/" >🔗</a> **[SpaceNews]** China promotes direct-to-device satellite services with new guidelines and licensing
 - <a href="https://www.nasa.gov/news-release/nasa-selects-blue-origin-to-deliver-viper-rover-to-moons-south-pole/" >🔗</a> **[NASA]** NASA Selects Blue Origin to Deliver VIPER Rover to Moon’s South Pole
 - <a href="https://europeanspaceflight.com/arianegroup-completes-themis-integration-ahead-of-combined-tests/" >🔗</a> **[European Spaceflight]** ArianeGroup Completes Themis Integration Ahead of Combined Tests
 - <a href="https://spacenews.com/live-event-the-space-investment-horizon/" >🔗</a> **[SpaceNews]** Live Event: The Space Investment Horizon
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/a-beacon-to-space/" >🔗</a> **[NASA]** A Beacon to Space
 - <a href="https://spacenews.com/building-saudi-arabias-space-champion/" >🔗</a> **[SpaceNews]** Building Saudi Arabia’s space champion
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_15-19_September_2025" >🔗</a> **[ESA]** Week in images: 15-19 September 2025
-- <a href="https://spacenews.com/american-leadership-at-apophis/" >🔗</a> **[SpaceNews]** American leadership at Apophis
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250919T210129">2025-09-19 21:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250919T213058">2025-09-19 21:30:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
