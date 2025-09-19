@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/novaspace-recognizes-2025-excellence-award-winners-in-satellite-connectivity-earth-observation-and-startup-challenge-at-world-space-business-week/" >🔗</a> **[SpaceNews]** Novaspace Recognizes 2025 Excellence Award Winners in Satellite Connectivity, Earth Observation, and Startup Challenge at World Space Business Week
+- <a href="https://www.nasa.gov/image-article/a-beacon-to-space/" >🔗</a> **[NASA]** A Beacon to Space
 - <a href="https://spacenews.com/building-saudi-arabias-space-champion/" >🔗</a> **[SpaceNews]** Building Saudi Arabia’s space champion
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_15-19_September_2025" >🔗</a> **[ESA]** Week in images: 15-19 September 2025
 - <a href="https://spacenews.com/american-leadership-at-apophis/" >🔗</a> **[SpaceNews]** American leadership at Apophis
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/taiwanese-aerospace-firm-partners-with-maxar-on-gps-alternative-drone-navigation/" >🔗</a> **[SpaceNews]** Taiwanese aerospace firm partners with Maxar on GPS-alternative drone navigation
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/CryoSat/85_new_subglacial_lakes_detected_below_Antarctica" >🔗</a> **[ESA]** 85 new subglacial lakes detected below Antarctica
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/09/Earth_from_Space_Komodo_Island_Indonesia" >🔗</a> **[ESA]** Earth from Space: Komodo Island, Indonesia
-- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Future_space_transportation/Themis_stands_on_the_launch_pad" >🔗</a> **[ESA]** Themis stands on the launch pad
-- <a href="https://europeanspaceflight.com/space-cargo-unlimited-secures-e27-5m-for-bentobox-return-capsule/" >🔗</a> **[European Spaceflight]** Space Cargo Unlimited Secures €27.5M for BentoBox Return Capsule
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250919T150122">2025-09-19 15:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250919T153241">2025-09-19 15:32:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
