@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-safety-panel-warns-starship-lunar-lander-could-be-delayed-by-years/" >🔗</a> **[SpaceNews]** NASA safety panel warns Starship lunar lander could be delayed by years
+- <a href="https://www.nasaspaceflight.com/2025/09/ship-38-pad-1-static-fire-masseys-rebuild/" >🔗</a> **[NASASpaceflight]** Ship 38 on Pad 1 for Static Fire testing as Masseys rebuild continues
 - <a href="https://europeanspaceflight.com/cnes-pushes-frog-h-reusable-rocket-demonstrator-debut-to-2026/" >🔗</a> **[European Spaceflight]** CNES Pushes FROG-H Reusable Rocket Demonstrator Debut to 2026
 - <a href="https://spacenews.com/nasa-revives-viper-lunar-rover-mission-with-blue-origin-lander-award/" >🔗</a> **[SpaceNews]** NASA revives VIPER lunar rover mission with Blue Origin lander award
 - <a href="https://science.nasa.gov/blog/the-ancient-mars-variety-show/" >🔗</a> **[NASA]** The Ancient Mars Variety Show
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2025/09/after-a-very-slow-start-europes-reusable-rocket-program-shows-signs-of-life/" >🔗</a> **[Arstechnica]** After a very slow start, Europe’s reusable rocket program shows signs of life
 - <a href="https://spacenews.com/china-promotes-direct-to-device-satellite-services-with-new-guidelines-and-licensing/" >🔗</a> **[SpaceNews]** China promotes direct-to-device satellite services with new guidelines and licensing
 - <a href="https://www.nasa.gov/news-release/nasa-selects-blue-origin-to-deliver-viper-rover-to-moons-south-pole/" >🔗</a> **[NASA]** NASA Selects Blue Origin to Deliver VIPER Rover to Moon’s South Pole
-- <a href="https://europeanspaceflight.com/arianegroup-completes-themis-integration-ahead-of-combined-tests/" >🔗</a> **[European Spaceflight]** ArianeGroup Completes Themis Integration Ahead of Combined Tests
-- <a href="https://spacenews.com/live-event-the-space-investment-horizon/" >🔗</a> **[SpaceNews]** Live Event: The Space Investment Horizon
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250920T190116">2025-09-20 19:01:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250920T193057">2025-09-20 19:30:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
