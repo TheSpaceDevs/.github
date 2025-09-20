@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/cnes-pushes-frog-h-reusable-rocket-demonstrator-debut-to-2026/" >🔗</a> **[European Spaceflight]** CNES Pushes FROG-H Reusable Rocket Demonstrator Debut to 2026
 - <a href="https://spacenews.com/nasa-revives-viper-lunar-rover-mission-with-blue-origin-lander-award/" >🔗</a> **[SpaceNews]** NASA revives VIPER lunar rover mission with Blue Origin lander award
 - <a href="https://science.nasa.gov/blog/the-ancient-mars-variety-show/" >🔗</a> **[NASA]** The Ancient Mars Variety Show
 - <a href="https://spacepolicyonline.com/news/viper-might-have-a-new-ride-to-the-moon-on-blue-origin/" >🔗</a> **[SpacePolicyOnline.com]** VIPER Might Have A New Ride to the Moon on Blue Origin
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-selects-blue-origin-to-deliver-viper-rover-to-moons-south-pole/" >🔗</a> **[NASA]** NASA Selects Blue Origin to Deliver VIPER Rover to Moon’s South Pole
 - <a href="https://europeanspaceflight.com/arianegroup-completes-themis-integration-ahead-of-combined-tests/" >🔗</a> **[European Spaceflight]** ArianeGroup Completes Themis Integration Ahead of Combined Tests
 - <a href="https://spacenews.com/live-event-the-space-investment-horizon/" >🔗</a> **[SpaceNews]** Live Event: The Space Investment Horizon
-- <a href="https://www.nasa.gov/image-article/nasas-orion-spacecraft-secures-critical-abort-system-hardware-for-artemis-ii/" >🔗</a> **[NASA]** NASA’s Orion Spacecraft Secures Critical Abort System Hardware for Artemis II
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250920T153105">2025-09-20 15:31:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250920T160129">2025-09-20 16:01:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
