@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-revives-viper-lunar-rover-mission-with-blue-origin-lander-award/" >🔗</a> **[SpaceNews]** NASA revives VIPER lunar rover mission with Blue Origin lander award
 - <a href="https://science.nasa.gov/blog/the-ancient-mars-variety-show/" >🔗</a> **[NASA]** The Ancient Mars Variety Show
 - <a href="https://spacepolicyonline.com/news/viper-might-have-a-new-ride-to-the-moon-on-blue-origin/" >🔗</a> **[SpacePolicyOnline.com]** VIPER Might Have A New Ride to the Moon on Blue Origin
 - <a href="https://arstechnica.com/space/2025/09/amid-budget-uncertainty-nasa-gets-some-good-news-use-house-funding-levels/" >🔗</a> **[Arstechnica]** Amid budget uncertainty, NASA gets some good news: Use House funding levels
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/arianegroup-completes-themis-integration-ahead-of-combined-tests/" >🔗</a> **[European Spaceflight]** ArianeGroup Completes Themis Integration Ahead of Combined Tests
 - <a href="https://spacenews.com/live-event-the-space-investment-horizon/" >🔗</a> **[SpaceNews]** Live Event: The Space Investment Horizon
 - <a href="https://www.nasa.gov/image-article/nasas-orion-spacecraft-secures-critical-abort-system-hardware-for-artemis-ii/" >🔗</a> **[NASA]** NASA’s Orion Spacecraft Secures Critical Abort System Hardware for Artemis II
-- <a href="https://spacenews.com/shaping-the-new-era-of-space/" >🔗</a> **[SpaceNews]** Shaping the new era of space
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250920T060143">2025-09-20 06:01:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250920T063702">2025-09-20 06:37:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
