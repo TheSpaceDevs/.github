@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blog/the-ancient-mars-variety-show/" >🔗</a> **[NASA]** The Ancient Mars Variety Show
 - <a href="https://spacepolicyonline.com/news/viper-might-have-a-new-ride-to-the-moon-on-blue-origin/" >🔗</a> **[SpacePolicyOnline.com]** VIPER Might Have A New Ride to the Moon on Blue Origin
 - <a href="https://arstechnica.com/space/2025/09/amid-budget-uncertainty-nasa-gets-some-good-news-use-house-funding-levels/" >🔗</a> **[Arstechnica]** Amid budget uncertainty, NASA gets some good news: Use House funding levels
 - <a href="https://arstechnica.com/space/2025/09/after-a-very-slow-start-europes-reusable-rocket-program-shows-signs-of-life/" >🔗</a> **[Arstechnica]** After a very slow start, Europe’s reusable rocket program shows signs of life
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/live-event-the-space-investment-horizon/" >🔗</a> **[SpaceNews]** Live Event: The Space Investment Horizon
 - <a href="https://www.nasa.gov/image-article/nasas-orion-spacecraft-secures-critical-abort-system-hardware-for-artemis-ii/" >🔗</a> **[NASA]** NASA’s Orion Spacecraft Secures Critical Abort System Hardware for Artemis II
 - <a href="https://spacenews.com/shaping-the-new-era-of-space/" >🔗</a> **[SpaceNews]** Shaping the new era of space
-- <a href="https://spacenews.com/novaspace-recognizes-2025-excellence-award-winners-in-satellite-connectivity-earth-observation-and-startup-challenge-at-world-space-business-week/" >🔗</a> **[SpaceNews]** Novaspace Recognizes 2025 Excellence Award Winners in Satellite Connectivity, Earth Observation, and Startup Challenge at World Space Business Week
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250920T000405">2025-09-20 00:04:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250920T004650">2025-09-20 00:46:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
