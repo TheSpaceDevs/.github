@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/09/20/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-12/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacenews.com/nasa-safety-panel-warns-starship-lunar-lander-could-be-delayed-by-years/" >🔗</a> **[SpaceNews]** NASA safety panel warns Starship lunar lander could be delayed by years
 - <a href="https://www.nasaspaceflight.com/2025/09/ship-38-pad-1-static-fire-masseys-rebuild/" >🔗</a> **[NASASpaceflight]** Ship 38 on Pad 1 for Static Fire testing as Masseys rebuild continues
 - <a href="https://europeanspaceflight.com/cnes-pushes-frog-h-reusable-rocket-demonstrator-debut-to-2026/" >🔗</a> **[European Spaceflight]** CNES Pushes FROG-H Reusable Rocket Demonstrator Debut to 2026
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2025/09/amid-budget-uncertainty-nasa-gets-some-good-news-use-house-funding-levels/" >🔗</a> **[Arstechnica]** Amid budget uncertainty, NASA gets some good news: Use House funding levels
 - <a href="https://arstechnica.com/space/2025/09/after-a-very-slow-start-europes-reusable-rocket-program-shows-signs-of-life/" >🔗</a> **[Arstechnica]** After a very slow start, Europe’s reusable rocket program shows signs of life
 - <a href="https://spacenews.com/china-promotes-direct-to-device-satellite-services-with-new-guidelines-and-licensing/" >🔗</a> **[SpaceNews]** China promotes direct-to-device satellite services with new guidelines and licensing
-- <a href="https://www.nasa.gov/news-release/nasa-selects-blue-origin-to-deliver-viper-rover-to-moons-south-pole/" >🔗</a> **[NASA]** NASA Selects Blue Origin to Deliver VIPER Rover to Moon’s South Pole
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250920T230132">2025-09-20 23:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250920T233102">2025-09-20 23:31:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
