@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/09/gx131-racs-j03200-35/" >🔗</a> **[NASASpaceflight]** XRISM observes windy neutron star, Chandra studies a luminous quasar
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-21-27-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy September 21-27, 2025
 - <a href="https://spacepolicyonline.com/news/shutdown-showdown-september-2025-the-state-of-play-10-days-out/" >🔗</a> **[SpacePolicyOnline.com]** Shutdown Showdown September 2025: The State of Play 10 Days Out
 - <a href="https://spaceflightnow.com/2025/09/20/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-12/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Cape Canaveral
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/nasa-revives-viper-lunar-rover-mission-with-blue-origin-lander-award/" >🔗</a> **[SpaceNews]** NASA revives VIPER lunar rover mission with Blue Origin lander award
 - <a href="https://science.nasa.gov/blog/the-ancient-mars-variety-show/" >🔗</a> **[NASA]** The Ancient Mars Variety Show
 - <a href="https://spacepolicyonline.com/news/viper-might-have-a-new-ride-to-the-moon-on-blue-origin/" >🔗</a> **[SpacePolicyOnline.com]** VIPER Might Have A New Ride to the Moon on Blue Origin
-- <a href="https://arstechnica.com/space/2025/09/amid-budget-uncertainty-nasa-gets-some-good-news-use-house-funding-levels/" >🔗</a> **[Arstechnica]** Amid budget uncertainty, NASA gets some good news: Use House funding levels
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250921T230123">2025-09-21 23:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250921T233058">2025-09-21 23:30:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
