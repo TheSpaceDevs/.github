@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/moog-breaks-ground-on-new-propulsion-clean-room-to-support-satellite-and-missile-growth/" >🔗</a> **[SpaceNews]** Moog Breaks Ground on New Propulsion Clean Room to Support Satellite and Missile Growth
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/09/Europe_s_future_space_transport_ecosystem" >🔗</a> **[ESA]** Europe’s future space transport ecosystem
 - <a href="https://spacenews.com/a-double-standard-about-contamination-is-keeping-us-from-verifying-signs-of-martian-life/" >🔗</a> **[SpaceNews]** A double standard about contamination is keeping us from verifying signs of Martian life
 - <a href="https://spacenews.com/quantum-space-acquires-phase-four-propulsion-assets/" >🔗</a> **[SpaceNews]** Quantum Space acquires Phase Four propulsion assets
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasaspaceflight.com/2025/09/gx131-racs-j03200-35/" >🔗</a> **[NASASpaceflight]** XRISM observes windy neutron star, Chandra studies a luminous quasar
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-21-27-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy September 21-27, 2025
 - <a href="https://spacepolicyonline.com/news/shutdown-showdown-september-2025-the-state-of-play-10-days-out/" >🔗</a> **[SpacePolicyOnline.com]** Shutdown Showdown September 2025: The State of Play 10 Days Out
-- <a href="https://spaceflightnow.com/2025/09/20/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-12/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250922T150150">2025-09-22 15:01:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250922T153338">2025-09-22 15:33:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
