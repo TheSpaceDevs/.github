@@ -90,16 +90,16 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/09/launch-roundup-092225/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Kuiper, Starlink, IMAP headline launch manifest
+- <a href="https://spacepolicyonline.com/news/nasa-chooses-10-new-astronaut-candidates/" >🔗</a> **[SpacePolicyOnline.com]** NASA Chooses 10 New Astronaut Candidates
+- <a href="https://spacenews.com/air-force-secretary-warns-of-sputnik-moment-as-u-s-faces-chinas-rapid-military-advances/" >🔗</a> **[SpaceNews]** Air Force Secretary warns of ‘Sputnik moment’ as U.S. faces China’s rapid military advances
+- <a href="https://spacenews.com/nasa-selects-new-astronaut-class/" >🔗</a> **[SpaceNews]** NASA selects new astronaut class
 - <a href="https://spacenews.com/falcon-9-launch-pushes-nro-satellite-fleet-past-200-in-orbit/" >🔗</a> **[SpaceNews]** Falcon 9 launch pushes NRO satellite fleet past 200 in orbit
 - <a href="https://science.nasa.gov/science-research/biological-physical-sciences/lettuce-find-healthy-space-food-citizen-scientists-study-space-salads/" >🔗</a> **[NASA]** Lettuce Find Healthy Space Food! Citizen Scientists Study Space Salads
 - <a href="https://www.nasa.gov/image-article/ic-stars/" >🔗</a> **[NASA]** IC Stars
 - <a href="https://www.nasa.gov/news-release/la-nasa-selecciona-a-los-candidatos-a-astronauta-de-la-promocion-2025-totalmente-estadounidense/" >🔗</a> **[NASA]** La NASA selecciona a los candidatos a astronauta de la promoción 2025, totalmente estadounidense
 - <a href="https://www.nasa.gov/news-release/nasa-selects-all-american-2025-class-of-astronaut-candidates/" >🔗</a> **[NASA]** NASA Selects All-American 2025 Class of Astronaut Candidates
 - <a href="https://www.spacescout.info/2025/09/6861/" >🔗</a> **[Space Scout]** Solar and Space Weather Missions Ready for Launch
-- <a href="https://spacenews.com/moog-breaks-ground-on-new-propulsion-clean-room-to-support-satellite-and-missile-growth/" >🔗</a> **[SpaceNews]** Moog Breaks Ground on New Propulsion Clean Room to Support Satellite and Missile Growth
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/09/Europe_s_future_space_transport_ecosystem" >🔗</a> **[ESA]** Europe’s future space transport ecosystem
-- <a href="https://spacenews.com/a-double-standard-about-contamination-is-keeping-us-from-verifying-signs-of-martian-life/" >🔗</a> **[SpaceNews]** A double standard about contamination is keeping us from verifying signs of Martian life
-- <a href="https://spacenews.com/quantum-space-acquires-phase-four-propulsion-assets/" >🔗</a> **[SpaceNews]** Quantum Space acquires Phase Four propulsion assets
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250922T210109">2025-09-22 21:01:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250922T213100">2025-09-22 21:31:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
