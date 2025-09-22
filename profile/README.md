@@ -90,6 +90,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/la-nasa-selecciona-a-los-candidatos-a-astronauta-de-la-promocion-2025-totalmente-estadounidense/" >🔗</a> **[NASA]** La NASA selecciona a los candidatos a astronauta de la promoción 2025, totalmente estadounidense
+- <a href="https://www.nasa.gov/news-release/nasa-selects-all-american-2025-class-of-astronaut-candidates/" >🔗</a> **[NASA]** NASA Selects All-American 2025 Class of Astronaut Candidates
+- <a href="https://www.spacescout.info/2025/09/6861/" >🔗</a> **[Space Scout]** Solar and Space Weather Missions Ready for Launch
 - <a href="https://spacenews.com/moog-breaks-ground-on-new-propulsion-clean-room-to-support-satellite-and-missile-growth/" >🔗</a> **[SpaceNews]** Moog Breaks Ground on New Propulsion Clean Room to Support Satellite and Missile Growth
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/09/Europe_s_future_space_transport_ecosystem" >🔗</a> **[ESA]** Europe’s future space transport ecosystem
 - <a href="https://spacenews.com/a-double-standard-about-contamination-is-keeping-us-from-verifying-signs-of-martian-life/" >🔗</a> **[SpaceNews]** A double standard about contamination is keeping us from verifying signs of Martian life
@@ -97,9 +100,6 @@ into *an Unknown
 - <a href="https://spaceflightnow.com/2025/09/22/live-coverage-nro-spacex-to-launch-reconnaissance-satellites-on-falcon-9-rocket-from-vandenberg-sfb/" >🔗</a> **[Spaceflight Now]** Live coverage: NRO, SpaceX to launch reconnaissance satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/09/Mars_s_atmospheric_mille-feuille" >🔗</a> **[ESA]** Mars’s atmospheric mille-feuille
 - <a href="https://spacepolicyonline.com/news/nasa-safety-panel-estimates-significant-delays-for-starship-hls/" >🔗</a> **[SpacePolicyOnline.com]** NASA Safety Panel Estimates Significant Delays for Starship HLS
-- <a href="https://www.nasaspaceflight.com/2025/09/gx131-racs-j03200-35/" >🔗</a> **[NASASpaceflight]** XRISM observes windy neutron star, Chandra studies a luminous quasar
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-21-27-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy September 21-27, 2025
-- <a href="https://spacepolicyonline.com/news/shutdown-showdown-september-2025-the-state-of-play-10-days-out/" >🔗</a> **[SpacePolicyOnline.com]** Shutdown Showdown September 2025: The State of Play 10 Days Out
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250922T163940">2025-09-22 16:39:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250922T170108">2025-09-22 17:01:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
