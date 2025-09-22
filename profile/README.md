@@ -45,7 +45,6 @@ into *an Unknown
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250922T172300">2025-09-22 17:23:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | NROL-48&location=Vandenberg SFB, CA, USA&dates=20250922T172300Z%2F20250922T182300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | NROL-48** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250922T234500">2025-09-22 23:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=HASTE | JENNA&location=Wallops Flight Facility, Virginia, USA&dates=20250922T234500Z%2F20250923T051500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **HASTE | JENNA** from Wallops Flight Facility, Virginia, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250924T074700">2025-09-24 07:47:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/un.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Smart Dragon 3 | Unknown Payload&location=Sea Launch&dates=20250924T074700Z%2F20250924T083000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Smart Dragon 3 | Unknown Payload** from Sea Launch.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250924T113035">2025-09-24 11:30:35 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | IMAP &amp; others&location=Kennedy Space Center, FL, USA&dates=20250924T113035Z%2F20250924T113035Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | IMAP & others** from Kennedy Space Center, FL, USA.
@@ -90,6 +89,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/ic-stars/" >🔗</a> **[NASA]** IC Stars
 - <a href="https://www.nasa.gov/news-release/la-nasa-selecciona-a-los-candidatos-a-astronauta-de-la-promocion-2025-totalmente-estadounidense/" >🔗</a> **[NASA]** La NASA selecciona a los candidatos a astronauta de la promoción 2025, totalmente estadounidense
 - <a href="https://www.nasa.gov/news-release/nasa-selects-all-american-2025-class-of-astronaut-candidates/" >🔗</a> **[NASA]** NASA Selects All-American 2025 Class of Astronaut Candidates
 - <a href="https://www.spacescout.info/2025/09/6861/" >🔗</a> **[Space Scout]** Solar and Space Weather Missions Ready for Launch
@@ -99,7 +99,6 @@ into *an Unknown
 - <a href="https://spacenews.com/quantum-space-acquires-phase-four-propulsion-assets/" >🔗</a> **[SpaceNews]** Quantum Space acquires Phase Four propulsion assets
 - <a href="https://spaceflightnow.com/2025/09/22/live-coverage-nro-spacex-to-launch-reconnaissance-satellites-on-falcon-9-rocket-from-vandenberg-sfb/" >🔗</a> **[Spaceflight Now]** Live coverage: NRO, SpaceX to launch reconnaissance satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/09/Mars_s_atmospheric_mille-feuille" >🔗</a> **[ESA]** Mars’s atmospheric mille-feuille
-- <a href="https://spacepolicyonline.com/news/nasa-safety-panel-estimates-significant-delays-for-starship-hls/" >🔗</a> **[SpacePolicyOnline.com]** NASA Safety Panel Estimates Significant Delays for Starship HLS
 
 
 ### Launch-related News 🚀
@@ -110,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250922T170108">2025-09-22 17:01:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250922T173232">2025-09-22 17:32:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
