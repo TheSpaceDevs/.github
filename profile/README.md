@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/nasa-safety-panel-estimates-significant-delays-for-starship-hls/" >🔗</a> **[SpacePolicyOnline.com]** NASA Safety Panel Estimates Significant Delays for Starship HLS
 - <a href="https://www.nasaspaceflight.com/2025/09/gx131-racs-j03200-35/" >🔗</a> **[NASASpaceflight]** XRISM observes windy neutron star, Chandra studies a luminous quasar
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-21-27-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy September 21-27, 2025
 - <a href="https://spacepolicyonline.com/news/shutdown-showdown-september-2025-the-state-of-play-10-days-out/" >🔗</a> **[SpacePolicyOnline.com]** Shutdown Showdown September 2025: The State of Play 10 Days Out
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://europeanspaceflight.com/cnes-pushes-frog-h-reusable-rocket-demonstrator-debut-to-2026/" >🔗</a> **[European Spaceflight]** CNES Pushes FROG-H Reusable Rocket Demonstrator Debut to 2026
 - <a href="https://spacenews.com/nasa-revives-viper-lunar-rover-mission-with-blue-origin-lander-award/" >🔗</a> **[SpaceNews]** NASA revives VIPER lunar rover mission with Blue Origin lander award
 - <a href="https://science.nasa.gov/blog/the-ancient-mars-variety-show/" >🔗</a> **[NASA]** The Ancient Mars Variety Show
-- <a href="https://spacepolicyonline.com/news/viper-might-have-a-new-ride-to-the-moon-on-blue-origin/" >🔗</a> **[SpacePolicyOnline.com]** VIPER Might Have A New Ride to the Moon on Blue Origin
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250922T040151">2025-09-22 04:01:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250922T043458">2025-09-22 04:34:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
