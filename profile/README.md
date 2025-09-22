@@ -90,6 +90,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/falcon-9-launch-pushes-nro-satellite-fleet-past-200-in-orbit/" >🔗</a> **[SpaceNews]** Falcon 9 launch pushes NRO satellite fleet past 200 in orbit
 - <a href="https://science.nasa.gov/science-research/biological-physical-sciences/lettuce-find-healthy-space-food-citizen-scientists-study-space-salads/" >🔗</a> **[NASA]** Lettuce Find Healthy Space Food! Citizen Scientists Study Space Salads
 - <a href="https://www.nasa.gov/image-article/ic-stars/" >🔗</a> **[NASA]** IC Stars
 - <a href="https://www.nasa.gov/news-release/la-nasa-selecciona-a-los-candidatos-a-astronauta-de-la-promocion-2025-totalmente-estadounidense/" >🔗</a> **[NASA]** La NASA selecciona a los candidatos a astronauta de la promoción 2025, totalmente estadounidense
@@ -99,7 +100,6 @@ into *a Suborbital
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/09/Europe_s_future_space_transport_ecosystem" >🔗</a> **[ESA]** Europe’s future space transport ecosystem
 - <a href="https://spacenews.com/a-double-standard-about-contamination-is-keeping-us-from-verifying-signs-of-martian-life/" >🔗</a> **[SpaceNews]** A double standard about contamination is keeping us from verifying signs of Martian life
 - <a href="https://spacenews.com/quantum-space-acquires-phase-four-propulsion-assets/" >🔗</a> **[SpaceNews]** Quantum Space acquires Phase Four propulsion assets
-- <a href="https://spaceflightnow.com/2025/09/22/live-coverage-nro-spacex-to-launch-reconnaissance-satellites-on-falcon-9-rocket-from-vandenberg-sfb/" >🔗</a> **[Spaceflight Now]** Live coverage: NRO, SpaceX to launch reconnaissance satellites on Falcon 9 rocket from Vandenberg SFB
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250922T193101">2025-09-22 19:31:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250922T200158">2025-09-22 20:01:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
