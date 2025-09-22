@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/09/Europe_s_future_space_transport_ecosystem" >🔗</a> **[ESA]** Europe’s future space transport ecosystem
+- <a href="https://spacenews.com/a-double-standard-about-contamination-is-keeping-us-from-verifying-signs-of-martian-life/" >🔗</a> **[SpaceNews]** A double standard about contamination is keeping us from verifying signs of Martian life
 - <a href="https://spacenews.com/quantum-space-acquires-phase-four-propulsion-assets/" >🔗</a> **[SpaceNews]** Quantum Space acquires Phase Four propulsion assets
 - <a href="https://spaceflightnow.com/2025/09/22/live-coverage-nro-spacex-to-launch-reconnaissance-satellites-on-falcon-9-rocket-from-vandenberg-sfb/" >🔗</a> **[Spaceflight Now]** Live coverage: NRO, SpaceX to launch reconnaissance satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/09/Mars_s_atmospheric_mille-feuille" >🔗</a> **[ESA]** Mars’s atmospheric mille-feuille
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-21-27-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy September 21-27, 2025
 - <a href="https://spacepolicyonline.com/news/shutdown-showdown-september-2025-the-state-of-play-10-days-out/" >🔗</a> **[SpacePolicyOnline.com]** Shutdown Showdown September 2025: The State of Play 10 Days Out
 - <a href="https://spaceflightnow.com/2025/09/20/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-12/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Cape Canaveral
-- <a href="https://spacenews.com/nasa-safety-panel-warns-starship-lunar-lander-could-be-delayed-by-years/" >🔗</a> **[SpaceNews]** NASA safety panel warns Starship lunar lander could be delayed by years
-- <a href="https://www.nasaspaceflight.com/2025/09/ship-38-pad-1-static-fire-masseys-rebuild/" >🔗</a> **[NASASpaceflight]** Ship 38 on Pad 1 for Static Fire testing as Masseys rebuild continues
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250922T130848">2025-09-22 13:08:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250922T133735">2025-09-22 13:37:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
