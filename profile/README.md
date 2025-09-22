@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/quantum-space-acquires-phase-four-propulsion-assets/" >🔗</a> **[SpaceNews]** Quantum Space acquires Phase Four propulsion assets
 - <a href="https://spaceflightnow.com/2025/09/22/live-coverage-nro-spacex-to-launch-reconnaissance-satellites-on-falcon-9-rocket-from-vandenberg-sfb/" >🔗</a> **[Spaceflight Now]** Live coverage: NRO, SpaceX to launch reconnaissance satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/09/Mars_s_atmospheric_mille-feuille" >🔗</a> **[ESA]** Mars’s atmospheric mille-feuille
 - <a href="https://spacepolicyonline.com/news/nasa-safety-panel-estimates-significant-delays-for-starship-hls/" >🔗</a> **[SpacePolicyOnline.com]** NASA Safety Panel Estimates Significant Delays for Starship HLS
@@ -99,17 +100,17 @@ into *an Unknown
 - <a href="https://spaceflightnow.com/2025/09/20/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-12/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacenews.com/nasa-safety-panel-warns-starship-lunar-lander-could-be-delayed-by-years/" >🔗</a> **[SpaceNews]** NASA safety panel warns Starship lunar lander could be delayed by years
 - <a href="https://www.nasaspaceflight.com/2025/09/ship-38-pad-1-static-fire-masseys-rebuild/" >🔗</a> **[NASASpaceflight]** Ship 38 on Pad 1 for Static Fire testing as Masseys rebuild continues
-- <a href="https://europeanspaceflight.com/cnes-pushes-frog-h-reusable-rocket-demonstrator-debut-to-2026/" >🔗</a> **[European Spaceflight]** CNES Pushes FROG-H Reusable Rocket Demonstrator Debut to 2026
 
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2025/09/22/live-coverage-nro-spacex-to-launch-reconnaissance-satellites-on-falcon-9-rocket-from-vandenberg-sfb/" >🔗</a> **[Spaceflight Now]** Live coverage: NRO, SpaceX to launch reconnaissance satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://www.nasaspaceflight.com/2025/09/launch-roundup-091525/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Starlink, NRO, and New Shepard missions scheduled
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250922T110132">2025-09-22 11:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250922T113111">2025-09-22 11:31:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
