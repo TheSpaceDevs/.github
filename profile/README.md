@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/09/Mars_s_atmospheric_mille-feuille" >🔗</a> **[ESA]** Mars’s atmospheric mille-feuille
 - <a href="https://spacepolicyonline.com/news/nasa-safety-panel-estimates-significant-delays-for-starship-hls/" >🔗</a> **[SpacePolicyOnline.com]** NASA Safety Panel Estimates Significant Delays for Starship HLS
 - <a href="https://www.nasaspaceflight.com/2025/09/gx131-racs-j03200-35/" >🔗</a> **[NASASpaceflight]** XRISM observes windy neutron star, Chandra studies a luminous quasar
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-21-27-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy September 21-27, 2025
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasaspaceflight.com/2025/09/ship-38-pad-1-static-fire-masseys-rebuild/" >🔗</a> **[NASASpaceflight]** Ship 38 on Pad 1 for Static Fire testing as Masseys rebuild continues
 - <a href="https://europeanspaceflight.com/cnes-pushes-frog-h-reusable-rocket-demonstrator-debut-to-2026/" >🔗</a> **[European Spaceflight]** CNES Pushes FROG-H Reusable Rocket Demonstrator Debut to 2026
 - <a href="https://spacenews.com/nasa-revives-viper-lunar-rover-mission-with-blue-origin-lander-award/" >🔗</a> **[SpaceNews]** NASA revives VIPER lunar rover mission with Blue Origin lander award
-- <a href="https://science.nasa.gov/blog/the-ancient-mars-variety-show/" >🔗</a> **[NASA]** The Ancient Mars Variety Show
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250922T070145">2025-09-22 07:01:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250922T073232">2025-09-22 07:32:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
