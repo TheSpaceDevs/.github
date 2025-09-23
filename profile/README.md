@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/scaling-up-iris%c2%b2-to-meet-evolving-demands/" >🔗</a> **[SpaceNews]** Scaling up IRIS² to meet evolving demands
 - <a href="https://spaceflightnow.com/2025/09/22/a-geologist-a-former-spacex-launch-director-and-a-commercial-astronaut-meet-nasas-10-new-astronaut-candidates/" >🔗</a> **[Spaceflight Now]** A geologist, a former SpaceX launch director and a commercial astronaut; meet NASA’s 10 new astronaut candidates
 - <a href="https://spacenews.com/lockheed-martin-delivers-21-satellites-for-next-launch-of-u-s-military-transport-layer/" >🔗</a> **[SpaceNews]** Lockheed Martin delivers 21 satellites for next launch of U.S. military ‘Transport Layer’
 - <a href="https://www.nasaspaceflight.com/2025/09/launch-roundup-092225/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Kuiper, Starlink, IMAP headline launch manifest
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/falcon-9-launch-pushes-nro-satellite-fleet-past-200-in-orbit/" >🔗</a> **[SpaceNews]** Falcon 9 launch pushes NRO satellite fleet past 200 in orbit
 - <a href="https://science.nasa.gov/science-research/biological-physical-sciences/lettuce-find-healthy-space-food-citizen-scientists-study-space-salads/" >🔗</a> **[NASA]** Lettuce Find Healthy Space Food! Citizen Scientists Study Space Salads
 - <a href="https://www.nasa.gov/image-article/ic-stars/" >🔗</a> **[NASA]** IC Stars
-- <a href="https://www.nasa.gov/news-release/la-nasa-selecciona-a-los-candidatos-a-astronauta-de-la-promocion-2025-totalmente-estadounidense/" >🔗</a> **[NASA]** La NASA selecciona a los candidatos a astronauta de la promoción 2025, totalmente estadounidense
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250923T031142">2025-09-23 03:11:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250923T033758">2025-09-23 03:37:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
