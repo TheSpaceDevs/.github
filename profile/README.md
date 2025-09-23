@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/nesc/the-need-to-bake-out-silicone-based-thermal-control-coatings/" >🔗</a> **[NASA]** The Need to Bake Out Silicone Based Thermal Control Coatings
+- <a href="https://arstechnica.com/space/2025/09/nasa-targeting-early-february-for-artemis-ii-mission-to-the-moon/" >🔗</a> **[Arstechnica]** NASA targeting early February for Artemis II mission to the Moon
 - <a href="https://spacenews.com/building-missile-defense-readiness-through-composites-and-domestic-supply-chain-coordination/" >🔗</a> **[SpaceNews]** Building Missile Defense Readiness through Composites and Domestic Supply Chain Coordination
 - <a href="https://europeanspaceflight.com/italy-completes-phase-a-development-of-laorie-lunar-lander-mission/" >🔗</a> **[European Spaceflight]** Italy Completes Phase A Development of LAORIE Lunar Lander Mission
 - <a href="https://spacenews.com/to-protect-the-nation-the-golden-dome-must-be-capable-of-protecting-itself/" >🔗</a> **[SpaceNews]** To Protect the Nation, the Golden Dome Must Be Capable of Protecting Itself
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/ESA_selects_WIVERN_as_11th_Earth_Explorer_mission" >🔗</a> **[ESA]** ESA selects WIVERN as 11th Earth Explorer mission
 - <a href="https://spacenews.com/scaling-up-iris%c2%b2-to-meet-evolving-demands/" >🔗</a> **[SpaceNews]** Scaling up IRIS² to meet evolving demands
 - <a href="https://spaceflightnow.com/2025/09/22/a-geologist-a-former-spacex-launch-director-and-a-commercial-astronaut-meet-nasas-10-new-astronaut-candidates/" >🔗</a> **[Spaceflight Now]** A geologist, a former SpaceX launch director and a commercial astronaut; meet NASA’s 10 new astronaut candidates
-- <a href="https://spacenews.com/lockheed-martin-delivers-21-satellites-for-next-launch-of-u-s-military-transport-layer/" >🔗</a> **[SpaceNews]** Lockheed Martin delivers 21 satellites for next launch of U.S. military ‘Transport Layer’
-- <a href="https://www.nasaspaceflight.com/2025/09/launch-roundup-092225/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Kuiper, Starlink, IMAP headline launch manifest
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250923T170118">2025-09-23 17:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250923T173221">2025-09-23 17:32:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
