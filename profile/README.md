@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/building-missile-defense-readiness-through-composites-and-domestic-supply-chain-coordination/" >🔗</a> **[SpaceNews]** Building Missile Defense Readiness through Composites and Domestic Supply Chain Coordination
 - <a href="https://europeanspaceflight.com/italy-completes-phase-a-development-of-laorie-lunar-lander-mission/" >🔗</a> **[European Spaceflight]** Italy Completes Phase A Development of LAORIE Lunar Lander Mission
 - <a href="https://spacenews.com/to-protect-the-nation-the-golden-dome-must-be-capable-of-protecting-itself/" >🔗</a> **[SpaceNews]** To Protect the Nation, the Golden Dome Must Be Capable of Protecting Itself
 - <a href="https://spacenews.com/firefly-looks-to-resume-alpha-launches-soon/" >🔗</a> **[SpaceNews]** Firefly looks to resume Alpha launches soon
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spaceflightnow.com/2025/09/22/a-geologist-a-former-spacex-launch-director-and-a-commercial-astronaut-meet-nasas-10-new-astronaut-candidates/" >🔗</a> **[Spaceflight Now]** A geologist, a former SpaceX launch director and a commercial astronaut; meet NASA’s 10 new astronaut candidates
 - <a href="https://spacenews.com/lockheed-martin-delivers-21-satellites-for-next-launch-of-u-s-military-transport-layer/" >🔗</a> **[SpaceNews]** Lockheed Martin delivers 21 satellites for next launch of U.S. military ‘Transport Layer’
 - <a href="https://www.nasaspaceflight.com/2025/09/launch-roundup-092225/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Kuiper, Starlink, IMAP headline launch manifest
-- <a href="https://spacepolicyonline.com/news/nasa-chooses-10-new-astronaut-candidates/" >🔗</a> **[SpacePolicyOnline.com]** NASA Chooses 10 New Astronaut Candidates
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250923T150206">2025-09-23 15:02:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250923T153335">2025-09-23 15:33:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
