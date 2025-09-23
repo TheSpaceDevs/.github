@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/u-s-military-sees-chinas-reusable-rocket-push-as-a-space-security-concern/" >🔗</a> **[SpaceNews]** U.S. military sees China’s reusable rocket push as a space security concern
 - <a href="https://spacenews.com/space-force-chief-calls-for-speed-over-perfection-in-weapons-buying/" >🔗</a> **[SpaceNews]** Space Force chief calls for speed over perfection in weapons buying
 - <a href="https://www.nasa.gov/image-article/nasas-new-astronaut-candidates/" >🔗</a> **[NASA]** NASA’s New Astronaut Candidates
 - <a href="https://www.nasa.gov/centers-and-facilities/nesc/the-need-to-bake-out-silicone-based-thermal-control-coatings/" >🔗</a> **[NASA]** The Need to Bake Out Silicone Based Thermal Control Coatings
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/to-protect-the-nation-the-golden-dome-must-be-capable-of-protecting-itself/" >🔗</a> **[SpaceNews]** To Protect the Nation, the Golden Dome Must Be Capable of Protecting Itself
 - <a href="https://spacenews.com/firefly-looks-to-resume-alpha-launches-soon/" >🔗</a> **[SpaceNews]** Firefly looks to resume Alpha launches soon
 - <a href="https://spacenews.com/terran-orbital-completes-delivery-of-satellite-bus-platforms-to-lockheed-martin-for-the-tranche-1-transport-layer/" >🔗</a> **[SpaceNews]** Terran Orbital Completes Delivery of Satellite Bus Platforms to Lockheed Martin for the Tranche 1 Transport Layer
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/ESA_selects_WIVERN_as_11th_Earth_Explorer_mission" >🔗</a> **[ESA]** ESA selects WIVERN as 11th Earth Explorer mission
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250923T210106">2025-09-23 21:01:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250923T213109">2025-09-23 21:31:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
