@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/chinese-spacecraft-image-maxar-remote-sensing-and-u-s-early-warning-satellites/" >🔗</a> **[SpaceNews]** Chinese spacecraft image Maxar remote sensing and U.S. early warning satellites
+- <a href="https://www.nasaspaceflight.com/2025/09/imap-launch/" >🔗</a> **[NASASpaceflight]** NASA, SpaceX set to launch IMAP and rideshare payloads to study space weather at L1
 - <a href="https://spacenews.com/u-s-military-sees-chinas-reusable-rocket-push-as-a-space-security-concern/" >🔗</a> **[SpaceNews]** U.S. military sees China’s reusable rocket push as a space security concern
 - <a href="https://spacenews.com/space-force-chief-calls-for-speed-over-perfection-in-weapons-buying/" >🔗</a> **[SpaceNews]** Space Force chief calls for speed over perfection in weapons buying
 - <a href="https://www.nasa.gov/image-article/nasas-new-astronaut-candidates/" >🔗</a> **[NASA]** NASA’s New Astronaut Candidates
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/building-missile-defense-readiness-through-composites-and-domestic-supply-chain-coordination/" >🔗</a> **[SpaceNews]** Building Missile Defense Readiness through Composites and Domestic Supply Chain Coordination
 - <a href="https://europeanspaceflight.com/italy-completes-phase-a-development-of-laorie-lunar-lander-mission/" >🔗</a> **[European Spaceflight]** Italy Completes Phase A Development of LAORIE Lunar Lander Mission
 - <a href="https://spacenews.com/to-protect-the-nation-the-golden-dome-must-be-capable-of-protecting-itself/" >🔗</a> **[SpaceNews]** To Protect the Nation, the Golden Dome Must Be Capable of Protecting Itself
-- <a href="https://spacenews.com/firefly-looks-to-resume-alpha-launches-soon/" >🔗</a> **[SpaceNews]** Firefly looks to resume Alpha launches soon
-- <a href="https://spacenews.com/terran-orbital-completes-delivery-of-satellite-bus-platforms-to-lockheed-martin-for-the-tranche-1-transport-layer/" >🔗</a> **[SpaceNews]** Terran Orbital Completes Delivery of Satellite Bus Platforms to Lockheed Martin for the Tranche 1 Transport Layer
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250923T230116">2025-09-23 23:01:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250923T233055">2025-09-23 23:30:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
