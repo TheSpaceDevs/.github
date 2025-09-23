@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/italy-completes-phase-a-development-of-laorie-lunar-lander-mission/" >🔗</a> **[European Spaceflight]** Italy Completes Phase A Development of LAORIE Lunar Lander Mission
+- <a href="https://spacenews.com/to-protect-the-nation-the-golden-dome-must-be-capable-of-protecting-itself/" >🔗</a> **[SpaceNews]** To Protect the Nation, the Golden Dome Must Be Capable of Protecting Itself
 - <a href="https://spacenews.com/firefly-looks-to-resume-alpha-launches-soon/" >🔗</a> **[SpaceNews]** Firefly looks to resume Alpha launches soon
 - <a href="https://spacenews.com/terran-orbital-completes-delivery-of-satellite-bus-platforms-to-lockheed-martin-for-the-tranche-1-transport-layer/" >🔗</a> **[SpaceNews]** Terran Orbital Completes Delivery of Satellite Bus Platforms to Lockheed Martin for the Tranche 1 Transport Layer
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/ESA_selects_WIVERN_as_11th_Earth_Explorer_mission" >🔗</a> **[ESA]** ESA selects WIVERN as 11th Earth Explorer mission
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/lockheed-martin-delivers-21-satellites-for-next-launch-of-u-s-military-transport-layer/" >🔗</a> **[SpaceNews]** Lockheed Martin delivers 21 satellites for next launch of U.S. military ‘Transport Layer’
 - <a href="https://www.nasaspaceflight.com/2025/09/launch-roundup-092225/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Kuiper, Starlink, IMAP headline launch manifest
 - <a href="https://spacepolicyonline.com/news/nasa-chooses-10-new-astronaut-candidates/" >🔗</a> **[SpacePolicyOnline.com]** NASA Chooses 10 New Astronaut Candidates
-- <a href="https://spacenews.com/air-force-secretary-warns-of-sputnik-moment-as-u-s-faces-chinas-rapid-military-advances/" >🔗</a> **[SpaceNews]** Air Force Secretary warns of ‘Sputnik moment’ as U.S. faces China’s rapid military advances
-- <a href="https://spacenews.com/nasa-selects-new-astronaut-class/" >🔗</a> **[SpaceNews]** NASA selects new astronaut class
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250923T120201">2025-09-23 12:02:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250923T124301">2025-09-23 12:43:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
