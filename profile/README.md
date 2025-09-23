@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/terran-orbital-completes-delivery-of-satellite-bus-platforms-to-lockheed-martin-for-the-tranche-1-transport-layer/" >🔗</a> **[SpaceNews]** Terran Orbital Completes Delivery of Satellite Bus Platforms to Lockheed Martin for the Tranche 1 Transport Layer
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/ESA_selects_WIVERN_as_11th_Earth_Explorer_mission" >🔗</a> **[ESA]** ESA selects WIVERN as 11th Earth Explorer mission
 - <a href="https://spacenews.com/scaling-up-iris%c2%b2-to-meet-evolving-demands/" >🔗</a> **[SpaceNews]** Scaling up IRIS² to meet evolving demands
 - <a href="https://spaceflightnow.com/2025/09/22/a-geologist-a-former-spacex-launch-director-and-a-commercial-astronaut-meet-nasas-10-new-astronaut-candidates/" >🔗</a> **[Spaceflight Now]** A geologist, a former SpaceX launch director and a commercial astronaut; meet NASA’s 10 new astronaut candidates
 - <a href="https://spacenews.com/lockheed-martin-delivers-21-satellites-for-next-launch-of-u-s-military-transport-layer/" >🔗</a> **[SpaceNews]** Lockheed Martin delivers 21 satellites for next launch of U.S. military ‘Transport Layer’
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/air-force-secretary-warns-of-sputnik-moment-as-u-s-faces-chinas-rapid-military-advances/" >🔗</a> **[SpaceNews]** Air Force Secretary warns of ‘Sputnik moment’ as U.S. faces China’s rapid military advances
 - <a href="https://spacenews.com/nasa-selects-new-astronaut-class/" >🔗</a> **[SpaceNews]** NASA selects new astronaut class
 - <a href="https://spacenews.com/falcon-9-launch-pushes-nro-satellite-fleet-past-200-in-orbit/" >🔗</a> **[SpaceNews]** Falcon 9 launch pushes NRO satellite fleet past 200 in orbit
-- <a href="https://science.nasa.gov/science-research/biological-physical-sciences/lettuce-find-healthy-space-food-citizen-scientists-study-space-salads/" >🔗</a> **[NASA]** Lettuce Find Healthy Space Food! Citizen Scientists Study Space Salads
-- <a href="https://www.nasa.gov/image-article/ic-stars/" >🔗</a> **[NASA]** IC Stars
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250923T110110">2025-09-23 11:01:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250923T113101">2025-09-23 11:31:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
