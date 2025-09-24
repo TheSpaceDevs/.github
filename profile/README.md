@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-awards-atmosphere-research-support-contract/" >🔗</a> **[NASA]** NASA Awards Atmosphere Research Support Contract
+- <a href="https://spacenews.com/next-chapter-in-space-defense-satellites-that-never-stop-moving/" >🔗</a> **[SpaceNews]** Next chapter in space defense: Satellites that never stop moving
+- <a href="https://spacenews.com/escapade-launch-on-new-glenn-planned-for-late-october-or-early-november/" >🔗</a> **[SpaceNews]** ESCAPADE launch on New Glenn planned for late October or early November
 - <a href="https://www.nasa.gov/news-release/nasa-awards-company-to-attempt-swift-spacecraft-orbit-boost/" >🔗</a> **[NASA]** NASA Awards Company to Attempt Swift Spacecraft Orbit Boost
 - <a href="https://www.nasa.gov/news-release/nasa-highlights-space-innovation-exploration-at-space-conference/" >🔗</a> **[NASA]** NASA Highlights Space Innovation, Exploration at Space Conference
 - <a href="https://www.nasa.gov/image-article/nasas-astrobee-robots-advance-through-strategic-partnership/" >🔗</a> **[NASA]** NASA’s Astrobee Robots Advance Through Strategic Partnership
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/space-forge-and-united-semiconductors-to-collaborate-on-space-based-semiconductor-manufacturing/" >🔗</a> **[SpaceNews]** Space Forge and United Semiconductors to collaborate on space-based semiconductor manufacturing
 - <a href="https://science.nasa.gov/earth/nasa-aircraft-coordinate-science-flights-to-measure-air-quality/" >🔗</a> **[NASA]** NASA Aircraft Coordinate Science Flights to Measure Air Quality
 - <a href="https://science.nasa.gov/earth/nasa-data-powers-new-tool-to-protect-water-supply-after-fires/" >🔗</a> **[NASA]** NASA Data Powers New Tool to Protect Water Supply After Fires
-- <a href="https://science.nasa.gov/get-involved/citizen-science/help-map-the-moons-molten-flows/" >🔗</a> **[NASA]** Help Map the Moon’s Molten Flows!
-- <a href="https://www.nasa.gov/image-article/airplane-aerobatics/" >🔗</a> **[NASA]** Airplane Aerobatics
-- <a href="https://science.nasa.gov/missions/webb/nasas-webb-explores-largest-star-forming-cloud-in-milky-way/" >🔗</a> **[NASA]** NASA’s Webb Explores Largest Star-Forming Cloud in Milky Way
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250924T210147">2025-09-24 21:01:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250924T213107">2025-09-24 21:31:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
