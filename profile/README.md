@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-highlights-space-innovation-exploration-at-space-conference/" >🔗</a> **[NASA]** NASA Highlights Space Innovation, Exploration at Space Conference
+- <a href="https://www.nasa.gov/image-article/nasas-astrobee-robots-advance-through-strategic-partnership/" >🔗</a> **[NASA]** NASA’s Astrobee Robots Advance Through Strategic Partnership
+- <a href="https://www.nasa.gov/image-article/nasa-lab-builds-new-aircraft-to-support-complex-flight-research/" >🔗</a> **[NASA]** NASA Lab Builds New Aircraft to Support Complex Flight Research
 - <a href="https://spacenews.com/space-forge-and-united-semiconductors-to-collaborate-on-space-based-semiconductor-manufacturing/" >🔗</a> **[SpaceNews]** Space Forge and United Semiconductors to collaborate on space-based semiconductor manufacturing
 - <a href="https://science.nasa.gov/earth/nasa-aircraft-coordinate-science-flights-to-measure-air-quality/" >🔗</a> **[NASA]** NASA Aircraft Coordinate Science Flights to Measure Air Quality
 - <a href="https://science.nasa.gov/earth/nasa-data-powers-new-tool-to-protect-water-supply-after-fires/" >🔗</a> **[NASA]** NASA Data Powers New Tool to Protect Water Supply After Fires
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/airplane-aerobatics/" >🔗</a> **[NASA]** Airplane Aerobatics
 - <a href="https://science.nasa.gov/missions/webb/nasas-webb-explores-largest-star-forming-cloud-in-milky-way/" >🔗</a> **[NASA]** NASA’s Webb Explores Largest Star-Forming Cloud in Milky Way
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_explores_largest_star-forming_cloud_in_our_galaxy" >🔗</a> **[ESA]** Webb explores largest star-forming cloud in our galaxy
-- <a href="https://www.nasa.gov/news-release/nasa-noaa-launch-three-spacecraft-to-map-suns-influence-across-space/" >🔗</a> **[NASA]** NASA, NOAA Launch Three Spacecraft to Map Sun’s Influence Across Space
-- <a href="https://spacenews.com/zeno-power-secures-americium-241-supply-for-space-nuclear-batteries/" >🔗</a> **[SpaceNews]** Zeno Power secures americium-241 supply for space nuclear batteries
-- <a href="https://spacenews.com/falcon-9-launches-three-space-weather-missions/" >🔗</a> **[SpaceNews]** Falcon 9 launches three space weather missions
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250924T190146">2025-09-24 19:01:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250924T193109">2025-09-24 19:31:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
