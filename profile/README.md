@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4661-4667-peaking-into-the-hollows/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4661-4667: Peaking Into the Hollows
 - <a href="https://spacenews.com/chinese-spacecraft-image-maxar-remote-sensing-and-u-s-early-warning-satellites/" >🔗</a> **[SpaceNews]** Chinese spacecraft image Maxar remote sensing and U.S. early warning satellites
 - <a href="https://www.nasaspaceflight.com/2025/09/imap-launch/" >🔗</a> **[NASASpaceflight]** NASA, SpaceX set to launch IMAP and rideshare payloads to study space weather at L1
 - <a href="https://spacenews.com/u-s-military-sees-chinas-reusable-rocket-push-as-a-space-security-concern/" >🔗</a> **[SpaceNews]** U.S. military sees China’s reusable rocket push as a space security concern
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://arstechnica.com/space/2025/09/nasa-targeting-early-february-for-artemis-ii-mission-to-the-moon/" >🔗</a> **[Arstechnica]** NASA targeting early February for Artemis II mission to the Moon
 - <a href="https://spacenews.com/building-missile-defense-readiness-through-composites-and-domestic-supply-chain-coordination/" >🔗</a> **[SpaceNews]** Building Missile Defense Readiness through Composites and Domestic Supply Chain Coordination
 - <a href="https://europeanspaceflight.com/italy-completes-phase-a-development-of-laorie-lunar-lander-mission/" >🔗</a> **[European Spaceflight]** Italy Completes Phase A Development of LAORIE Lunar Lander Mission
-- <a href="https://spacenews.com/to-protect-the-nation-the-golden-dome-must-be-capable-of-protecting-itself/" >🔗</a> **[SpaceNews]** To Protect the Nation, the Golden Dome Must Be Capable of Protecting Itself
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250924T004545">2025-09-24 00:45:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250924T012843">2025-09-24 01:28:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
