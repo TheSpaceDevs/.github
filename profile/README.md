@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/falcon-9-launches-three-space-weather-missions/" >🔗</a> **[SpaceNews]** Falcon 9 launches three space weather missions
+- <a href="https://spacenews.com/were-cluttering-earths-orbit-at-record-speed-whos-going-to-clean-it-up/" >🔗</a> **[SpaceNews]** We’re cluttering Earth’s orbit at record speed. Who’s going to clean it up?
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/coeci-news/nasa-launches-2026-gateways-to-blue-skies-competition/" >🔗</a> **[NASA]** NASA Launches 2026 Gateways to Blue Skies Competition
 - <a href="https://spacenews.com/esa-backs-skynopy-to-bring-adaptive-modulation-to-earth-observation-satellites/" >🔗</a> **[SpaceNews]** ESA backs Skynopy to bring adaptive modulation to Earth observation satellites
 - <a href="https://spacenews.com/geespace-secures-281-million-for-iot-constellation-and-global-hq/" >🔗</a> **[SpaceNews]** Geespace secures $281 million for IoT constellation and global HQ
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/avio-signs-deal-to-launch-satellite-for-extra-european-customer/" >🔗</a> **[European Spaceflight]** Avio Signs Deal to Launch Satellite for “Extra-European” Customer
 - <a href="https://spacenews.com/lynker-and-noaa-to-create-tailored-space-weather-forecasts/" >🔗</a> **[SpaceNews]** Lynker and NOAA  to create tailored space-weather forecasts
 - <a href="https://spacenews.com/blue-origin-only-bidder-for-new-viper-lander-award/" >🔗</a> **[SpaceNews]** Blue Origin only bidder for new VIPER lander award
-- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4661-4667-peaking-into-the-hollows/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4661-4667: Peaking Into the Hollows
-- <a href="https://spacenews.com/chinese-spacecraft-image-maxar-remote-sensing-and-u-s-early-warning-satellites/" >🔗</a> **[SpaceNews]** Chinese spacecraft image Maxar remote sensing and U.S. early warning satellites
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250924T130835">2025-09-24 13:08:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250924T133732">2025-09-24 13:37:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
