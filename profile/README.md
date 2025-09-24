@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-awards-company-to-attempt-swift-spacecraft-orbit-boost/" >🔗</a> **[NASA]** NASA Awards Company to Attempt Swift Spacecraft Orbit Boost
 - <a href="https://www.nasa.gov/news-release/nasa-highlights-space-innovation-exploration-at-space-conference/" >🔗</a> **[NASA]** NASA Highlights Space Innovation, Exploration at Space Conference
 - <a href="https://www.nasa.gov/image-article/nasas-astrobee-robots-advance-through-strategic-partnership/" >🔗</a> **[NASA]** NASA’s Astrobee Robots Advance Through Strategic Partnership
 - <a href="https://www.nasa.gov/image-article/nasa-lab-builds-new-aircraft-to-support-complex-flight-research/" >🔗</a> **[NASA]** NASA Lab Builds New Aircraft to Support Complex Flight Research
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/get-involved/citizen-science/help-map-the-moons-molten-flows/" >🔗</a> **[NASA]** Help Map the Moon’s Molten Flows!
 - <a href="https://www.nasa.gov/image-article/airplane-aerobatics/" >🔗</a> **[NASA]** Airplane Aerobatics
 - <a href="https://science.nasa.gov/missions/webb/nasas-webb-explores-largest-star-forming-cloud-in-milky-way/" >🔗</a> **[NASA]** NASA’s Webb Explores Largest Star-Forming Cloud in Milky Way
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_explores_largest_star-forming_cloud_in_our_galaxy" >🔗</a> **[ESA]** Webb explores largest star-forming cloud in our galaxy
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250924T200138">2025-09-24 20:01:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250924T203314">2025-09-24 20:33:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
