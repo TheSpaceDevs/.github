@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/esa-backs-skynopy-to-bring-adaptive-modulation-to-earth-observation-satellites/" >🔗</a> **[SpaceNews]** ESA backs Skynopy to bring adaptive modulation to Earth observation satellites
 - <a href="https://spacenews.com/geespace-secures-281-million-for-iot-constellation-and-global-hq/" >🔗</a> **[SpaceNews]** Geespace secures $281 million for IoT constellation and global HQ
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/The_dynamic_drone-rover_duo_with_a_special_bond" >🔗</a> **[ESA]** The dynamic drone-rover duo with a special bond
 - <a href="https://spaceflightnow.com/2025/09/24/live-coverage-spacex-to-launch-nasa-noaa-missions-exploring-the-impacts-of-the-sun/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch NASA, NOAA missions exploring the impacts of the Sun
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4661-4667-peaking-into-the-hollows/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4661-4667: Peaking Into the Hollows
 - <a href="https://spacenews.com/chinese-spacecraft-image-maxar-remote-sensing-and-u-s-early-warning-satellites/" >🔗</a> **[SpaceNews]** Chinese spacecraft image Maxar remote sensing and U.S. early warning satellites
 - <a href="https://www.nasaspaceflight.com/2025/09/imap-launch/" >🔗</a> **[NASASpaceflight]** NASA, SpaceX set to launch IMAP and rideshare payloads to study space weather at L1
-- <a href="https://spacenews.com/u-s-military-sees-chinas-reusable-rocket-push-as-a-space-security-concern/" >🔗</a> **[SpaceNews]** U.S. military sees China’s reusable rocket push as a space security concern
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250924T113102">2025-09-24 11:31:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250924T120217">2025-09-24 12:02:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
