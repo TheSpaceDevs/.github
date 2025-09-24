@@ -19,35 +19,32 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | IMAP & others**. It is scheduled to be launched by *SpaceX*
+**Falcon 9 Block 5 | Starlink Group 10-15**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39A">Launch Complex 39A</a>, Kennedy Space Center, FL, USA*
+from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral SFS, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250924T113035">2025-09-24 11:30:35 UTC</a>.  Until
-then, this pad will have been used for 214
-out of 272 launches from this location. The launch status is currently
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250925T083600">2025-09-25 08:36:00 UTC</a>.  Until
+then, this pad will have been used for 336
+out of 1054 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Heliophysics* and the payload will be injected
-into *a Heliocentric L1
-(L1-point)*.
+*Communications* and the payload will be injected
+into *a Low Earth Orbit
+(LEO)*.
 <br>
 <blockquote>
-  IMAP (Interstellar Mapping and Acceleration Probe) is a NASA mission to study interactions between solar wind and the local interstellar medium. Carrying a suite of 10 scientific instruments, IMAP is able to investigate how particles are accelerated, determine their composition, as well as help to advance space weather forecasting models.
-
-The IMAP launch also includes the space weather satellite SWFO-L1 (Space Weather Follow-On - L1) for NOAA and the GLIDE (Global Lyman-alpha Imagers of the Dynamic Exosphere/Carruthers Geocorona Observatory) mission to study far ultraviolet emission in the Earth's exosphere.
+  A batch of 28 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
   <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.60822681,-80.60428186" >
+  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250924T113035">2025-09-24 11:30:35 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | IMAP &amp; others&location=Kennedy Space Center, FL, USA&dates=20250924T113035Z%2F20250924T113050Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | IMAP & others** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250925T083600">2025-09-25 08:36:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-15&location=Cape Canaveral SFS, FL, USA&dates=20250925T083600Z%2F20250925T123600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-15** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250925T120900">2025-09-25 12:09:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 551 | Project Kuiper (KA-03)&location=Cape Canaveral SFS, FL, USA&dates=20250925T120900Z%2F20250925T123800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 551 | Project Kuiper (KA-03)** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250926T015700">2025-09-26 01:57:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-11&location=Vandenberg SFB, CA, USA&dates=20250926T015700Z%2F20250926T055700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-11** from Vandenberg SFB, CA, USA.
@@ -57,6 +54,7 @@ The IMAP launch also includes the space weather satellite SWFO-L1 (Space Weather
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250928T233200">2025-09-28 23:32:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-20&location=Vandenberg SFB, CA, USA&dates=20250928T233200Z%2F20250929T033200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-20** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250929T234500">2025-09-29 23:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=HASTE | JAKE 4&location=Wallops Flight Facility, Virginia, USA&dates=20250929T234500Z%2F20250930T050000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **HASTE | JAKE 4** from Wallops Flight Facility, Virginia, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251001T044800">2025-10-01 04:48:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Project Kuiper (KF-03)&location=Cape Canaveral SFS, FL, USA&dates=20251001T044800Z%2F20251001T080500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Project Kuiper (KF-03)** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251003T130000">2025-10-03 13:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-39&location=Vandenberg SFB, CA, USA&dates=20251003T130000Z%2F20251003T170000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-39** from Vandenberg SFB, CA, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -107,20 +105,11 @@ The IMAP launch also includes the space weather satellite SWFO-L1 (Space Weather
 ### Launch-related News 🚀
 
 - <a href="https://www.nasaspaceflight.com/2025/09/launch-roundup-092225/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Kuiper, Starlink, IMAP headline launch manifest
-- <a href="https://www.spacescout.info/2025/09/6861/" >🔗</a> **[Space Scout]** Solar and Space Weather Missions Ready for Launch
-- <a href="https://science.nasa.gov/uncategorized/new-nasa-mission-to-reveal-earths-invisible-halo/" >🔗</a> **[NASA]** New NASA Mission to Reveal Earth’s Invisible ‘Halo’
-- <a href="https://www.nasa.gov/image-article/nasa-rideshares-integrated-ahead-of-launch/" >🔗</a> **[NASA]** NASA Rideshares Integrated Ahead of Launch
-- <a href="https://science.nasa.gov/missions/nasas-imap-mission-to-study-boundaries-of-our-home-in-space/" >🔗</a> **[NASA]** NASA’s IMAP Mission to Study Boundaries of Our Home in Space
-- <a href="https://www.nasa.gov/news-release/nasa-sets-launch-coverage-for-space-weather-missions/" >🔗</a> **[NASA]** NASA Sets Launch Coverage for Space Weather Missions
-- <a href="https://arstechnica.com/space/2025/09/rocket-report-neutrons-pad-opens-for-business-spacex-gets-falcon-9-green-light/" >🔗</a> **[Arstechnica]** Rocket Report: Neutron’s pad opens for business; SpaceX gets Falcon 9 green light
-- <a href="https://science.nasa.gov/science-research/heliophysics/upcoming-launch-to-boost-nasas-study-of-suns-influence-across-space/" >🔗</a> **[NASA]** Upcoming Launch to Boost NASA’s Study of Sun’s Influence Across Space
-- <a href="https://spaceflightnow.com/2025/08/29/nasa-noaa-prep-spacecraft-trio-to-study-the-sun-and-its-impacts/" >🔗</a> **[Spaceflight Now]** NASA, NOAA prep spacecraft trio to study the Sun and its impacts
-- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-learn-about-new-missions-to-map-suns-influence/" >🔗</a> **[NASA]** NASA Invites Media to Learn About New Missions to Map Sun’s Influence
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250924T110110">2025-09-24 11:01:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250924T113102">2025-09-24 11:31:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
