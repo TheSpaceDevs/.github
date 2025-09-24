@@ -19,27 +19,29 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Smart Dragon 3 | Geely Constellation Group 06**. It is scheduled to be launched by *China Rocket Co. Ltd.*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-from *<a href="None">Oriental Spaceport mobile launch ship</a>, Sea Launch*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/un.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250924T074700">2025-09-24 07:47:00 UTC</a>.  Until
-then, this pad will have been used for 5
-out of 58 launches from this location. The launch status is currently
+**Falcon 9 Block 5 | IMAP & others**. It is scheduled to be launched by *SpaceX*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39A">Launch Complex 39A</a>, Kennedy Space Center, FL, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250924T113035">2025-09-24 11:30:35 UTC</a>.  Until
+then, this pad will have been used for 214
+out of 272 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Communications* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+*Heliophysics* and the payload will be injected
+into *a Heliocentric L1
+(L1-point)*.
 <br>
 <blockquote>
-  12 LEO communications satellites for Chinese car manufacturer Geely Automotive for testing autonomous driving/inter-vehicle communication services. They also carry payloads for ocean observation.
+  IMAP (Interstellar Mapping and Acceleration Probe) is a NASA mission to study interactions between solar wind and the local interstellar medium. Carrying a suite of 10 scientific instruments, IMAP is able to investigate how particles are accelerated, determine their composition, as well as help to advance space weather forecasting models.
+
+The IMAP launch also includes the space weather satellite SWFO-L1 (Space Weather Follow-On - L1) for NOAA and the GLIDE (Global Lyman-alpha Imagers of the Dynamic Exosphere/Carruthers Geocorona Observatory) mission to study far ultraviolet emission in the Earth's exosphere.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="None" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=35.391667%2C119.598667" >
+  <a href="https://www.google.com/maps?q=28.60822681,-80.60428186" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -54,6 +56,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250928T073000">2025-09-28 07:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-59&location=Cape Canaveral SFS, FL, USA&dates=20250928T073000Z%2F20250928T113000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-59** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250928T233200">2025-09-28 23:32:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-20&location=Vandenberg SFB, CA, USA&dates=20250928T233200Z%2F20250929T033200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-20** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250929T234500">2025-09-29 23:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=HASTE | JAKE 4&location=Wallops Flight Facility, Virginia, USA&dates=20250929T234500Z%2F20250930T050000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **HASTE | JAKE 4** from Wallops Flight Facility, Virginia, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251001T044800">2025-10-01 04:48:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Project Kuiper (KF-03)&location=Cape Canaveral SFS, FL, USA&dates=20251001T044800Z%2F20251001T080500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Project Kuiper (KF-03)** from Cape Canaveral SFS, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -89,6 +92,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/geespace-secures-281-million-for-iot-constellation-and-global-hq/" >🔗</a> **[SpaceNews]** Geespace secures $281 million for IoT constellation and global HQ
+- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/The_dynamic_drone-rover_duo_with_a_special_bond" >🔗</a> **[ESA]** The dynamic drone-rover duo with a special bond
 - <a href="https://spaceflightnow.com/2025/09/24/live-coverage-spacex-to-launch-nasa-noaa-missions-exploring-the-impacts-of-the-sun/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch NASA, NOAA missions exploring the impacts of the Sun
 - <a href="https://europeanspaceflight.com/avio-signs-deal-to-launch-satellite-for-extra-european-customer/" >🔗</a> **[European Spaceflight]** Avio Signs Deal to Launch Satellite for “Extra-European” Customer
 - <a href="https://spacenews.com/lynker-and-noaa-to-create-tailored-space-weather-forecasts/" >🔗</a> **[SpaceNews]** Lynker and NOAA  to create tailored space-weather forecasts
@@ -97,18 +102,25 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/chinese-spacecraft-image-maxar-remote-sensing-and-u-s-early-warning-satellites/" >🔗</a> **[SpaceNews]** Chinese spacecraft image Maxar remote sensing and U.S. early warning satellites
 - <a href="https://www.nasaspaceflight.com/2025/09/imap-launch/" >🔗</a> **[NASASpaceflight]** NASA, SpaceX set to launch IMAP and rideshare payloads to study space weather at L1
 - <a href="https://spacenews.com/u-s-military-sees-chinas-reusable-rocket-push-as-a-space-security-concern/" >🔗</a> **[SpaceNews]** U.S. military sees China’s reusable rocket push as a space security concern
-- <a href="https://spacenews.com/space-force-chief-calls-for-speed-over-perfection-in-weapons-buying/" >🔗</a> **[SpaceNews]** Space Force chief calls for speed over perfection in weapons buying
-- <a href="https://www.nasa.gov/image-article/nasas-new-astronaut-candidates/" >🔗</a> **[NASA]** NASA’s New Astronaut Candidates
 
 
 ### Launch-related News 🚀
 
 - <a href="https://www.nasaspaceflight.com/2025/09/launch-roundup-092225/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Kuiper, Starlink, IMAP headline launch manifest
+- <a href="https://www.spacescout.info/2025/09/6861/" >🔗</a> **[Space Scout]** Solar and Space Weather Missions Ready for Launch
+- <a href="https://science.nasa.gov/uncategorized/new-nasa-mission-to-reveal-earths-invisible-halo/" >🔗</a> **[NASA]** New NASA Mission to Reveal Earth’s Invisible ‘Halo’
+- <a href="https://www.nasa.gov/image-article/nasa-rideshares-integrated-ahead-of-launch/" >🔗</a> **[NASA]** NASA Rideshares Integrated Ahead of Launch
+- <a href="https://science.nasa.gov/missions/nasas-imap-mission-to-study-boundaries-of-our-home-in-space/" >🔗</a> **[NASA]** NASA’s IMAP Mission to Study Boundaries of Our Home in Space
+- <a href="https://www.nasa.gov/news-release/nasa-sets-launch-coverage-for-space-weather-missions/" >🔗</a> **[NASA]** NASA Sets Launch Coverage for Space Weather Missions
+- <a href="https://arstechnica.com/space/2025/09/rocket-report-neutrons-pad-opens-for-business-spacex-gets-falcon-9-green-light/" >🔗</a> **[Arstechnica]** Rocket Report: Neutron’s pad opens for business; SpaceX gets Falcon 9 green light
+- <a href="https://science.nasa.gov/science-research/heliophysics/upcoming-launch-to-boost-nasas-study-of-suns-influence-across-space/" >🔗</a> **[NASA]** Upcoming Launch to Boost NASA’s Study of Sun’s Influence Across Space
+- <a href="https://spaceflightnow.com/2025/08/29/nasa-noaa-prep-spacecraft-trio-to-study-the-sun-and-its-impacts/" >🔗</a> **[Spaceflight Now]** NASA, NOAA prep spacecraft trio to study the Sun and its impacts
+- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-learn-about-new-missions-to-map-suns-influence/" >🔗</a> **[NASA]** NASA Invites Media to Learn About New Missions to Map Sun’s Influence
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250924T080155">2025-09-24 08:01:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250924T083709">2025-09-24 08:37:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
