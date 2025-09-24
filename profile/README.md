@@ -19,7 +19,7 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Smart Dragon 3 | Unknown Payload**. It is scheduled to be launched by *China Rocket Co. Ltd.*
+**Smart Dragon 3 | Geely Constellation Group 06**. It is scheduled to be launched by *China Rocket Co. Ltd.*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
 from *<a href="None">Oriental Spaceport mobile launch ship</a>, Sea Launch*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/un.svg" />
@@ -27,12 +27,12 @@ at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250924T0
 then, this pad will have been used for 5
 out of 58 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Unknown* and the payload will be injected
-into *an Unknown
-(N/A)*.
+*Communications* and the payload will be injected
+into *a Low Earth Orbit
+(LEO)*.
 <br>
 <blockquote>
-  Details TBD.
+  12 LEO communications satellites for Chinese car manufacturer Geely Automotive for testing autonomous driving/inter-vehicle communication services. They also carry payloads for ocean observation.
 </blockquote>
 
 <p float="left" align="center">
@@ -45,7 +45,7 @@ into *an Unknown
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250924T074700">2025-09-24 07:47:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/un.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Smart Dragon 3 | Unknown Payload&location=Sea Launch&dates=20250924T074700Z%2F20250924T083000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Smart Dragon 3 | Unknown Payload** from Sea Launch.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250924T074700">2025-09-24 07:47:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/un.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Smart Dragon 3 | Geely Constellation Group 06&location=Sea Launch&dates=20250924T074700Z%2F20250924T083000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Smart Dragon 3 | Geely Constellation Group 06** from Sea Launch.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250924T113035">2025-09-24 11:30:35 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | IMAP &amp; others&location=Kennedy Space Center, FL, USA&dates=20250924T113035Z%2F20250924T113035Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | IMAP & others** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250925T083600">2025-09-25 08:36:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-15&location=Cape Canaveral SFS, FL, USA&dates=20250925T083600Z%2F20250925T123600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-15** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250925T120900">2025-09-25 12:09:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 551 | Project Kuiper (KA-03)&location=Cape Canaveral SFS, FL, USA&dates=20250925T120900Z%2F20250925T123800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 551 | Project Kuiper (KA-03)** from Cape Canaveral SFS, FL, USA.
@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/09/24/live-coverage-spacex-to-launch-nasa-noaa-missions-exploring-the-impacts-of-the-sun/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch NASA, NOAA missions exploring the impacts of the Sun
+- <a href="https://europeanspaceflight.com/avio-signs-deal-to-launch-satellite-for-extra-european-customer/" >🔗</a> **[European Spaceflight]** Avio Signs Deal to Launch Satellite for “Extra-European” Customer
 - <a href="https://spacenews.com/lynker-and-noaa-to-create-tailored-space-weather-forecasts/" >🔗</a> **[SpaceNews]** Lynker and NOAA  to create tailored space-weather forecasts
 - <a href="https://spacenews.com/blue-origin-only-bidder-for-new-viper-lander-award/" >🔗</a> **[SpaceNews]** Blue Origin only bidder for new VIPER lander award
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4661-4667-peaking-into-the-hollows/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4661-4667: Peaking Into the Hollows
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/u-s-military-sees-chinas-reusable-rocket-push-as-a-space-security-concern/" >🔗</a> **[SpaceNews]** U.S. military sees China’s reusable rocket push as a space security concern
 - <a href="https://spacenews.com/space-force-chief-calls-for-speed-over-perfection-in-weapons-buying/" >🔗</a> **[SpaceNews]** Space Force chief calls for speed over perfection in weapons buying
 - <a href="https://www.nasa.gov/image-article/nasas-new-astronaut-candidates/" >🔗</a> **[NASA]** NASA’s New Astronaut Candidates
-- <a href="https://www.nasa.gov/centers-and-facilities/nesc/the-need-to-bake-out-silicone-based-thermal-control-coatings/" >🔗</a> **[NASA]** The Need to Bake Out Silicone Based Thermal Control Coatings
-- <a href="https://arstechnica.com/space/2025/09/nasa-targeting-early-february-for-artemis-ii-mission-to-the-moon/" >🔗</a> **[Arstechnica]** NASA targeting early February for Artemis II mission to the Moon
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250924T060150">2025-09-24 06:01:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250924T063908">2025-09-24 06:39:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
