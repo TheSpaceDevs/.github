@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-forge-and-united-semiconductors-to-collaborate-on-space-based-semiconductor-manufacturing/" >🔗</a> **[SpaceNews]** Space Forge and United Semiconductors to collaborate on space-based semiconductor manufacturing
+- <a href="https://science.nasa.gov/earth/nasa-aircraft-coordinate-science-flights-to-measure-air-quality/" >🔗</a> **[NASA]** NASA Aircraft Coordinate Science Flights to Measure Air Quality
 - <a href="https://science.nasa.gov/earth/nasa-data-powers-new-tool-to-protect-water-supply-after-fires/" >🔗</a> **[NASA]** NASA Data Powers New Tool to Protect Water Supply After Fires
 - <a href="https://science.nasa.gov/get-involved/citizen-science/help-map-the-moons-molten-flows/" >🔗</a> **[NASA]** Help Map the Moon’s Molten Flows!
 - <a href="https://www.nasa.gov/image-article/airplane-aerobatics/" >🔗</a> **[NASA]** Airplane Aerobatics
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-noaa-launch-three-spacecraft-to-map-suns-influence-across-space/" >🔗</a> **[NASA]** NASA, NOAA Launch Three Spacecraft to Map Sun’s Influence Across Space
 - <a href="https://spacenews.com/zeno-power-secures-americium-241-supply-for-space-nuclear-batteries/" >🔗</a> **[SpaceNews]** Zeno Power secures americium-241 supply for space nuclear batteries
 - <a href="https://spacenews.com/falcon-9-launches-three-space-weather-missions/" >🔗</a> **[SpaceNews]** Falcon 9 launches three space weather missions
-- <a href="https://spacenews.com/were-cluttering-earths-orbit-at-record-speed-whos-going-to-clean-it-up/" >🔗</a> **[SpaceNews]** We’re cluttering Earth’s orbit at record speed. Who’s going to clean it up?
-- <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/coeci-news/nasa-launches-2026-gateways-to-blue-skies-competition/" >🔗</a> **[NASA]** NASA Launches 2026 Gateways to Blue Skies Competition
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250924T180157">2025-09-24 18:01:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250924T183647">2025-09-24 18:36:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
