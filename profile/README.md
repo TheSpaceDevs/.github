@@ -90,7 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.nasa.gov/news-release/la-nasa-y-la-noaa-lanzan-tres-naves-espaciales-para-cartografiar-la-influencia-del-sol-en-el-espacio/" >🔗</a> **[NASA]** La NASA y la NOAA lanzan tres naves espaciales para cartografiar la influencia del Sol en el espacio
+- <a href="https://science.nasa.gov/get-involved/citizen-science/help-map-the-moons-molten-flows/" >🔗</a> **[NASA]** Help Map the Moon’s Molten Flows!
+- <a href="https://www.nasa.gov/image-article/airplane-aerobatics/" >🔗</a> **[NASA]** Airplane Aerobatics
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_explores_largest_star-forming_cloud_in_our_galaxy" >🔗</a> **[ESA]** Webb explores largest star-forming cloud in our galaxy
 - <a href="https://science.nasa.gov/missions/webb/nasas-webb-explores-largest-star-forming-cloud-in-milky-way/" >🔗</a> **[NASA]** NASA’s Webb Explores Largest Star-Forming Cloud in Milky Way
 - <a href="https://www.nasa.gov/news-release/nasa-noaa-launch-three-spacecraft-to-map-suns-influence-across-space/" >🔗</a> **[NASA]** NASA, NOAA Launch Three Spacecraft to Map Sun’s Influence Across Space
@@ -98,7 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/falcon-9-launches-three-space-weather-missions/" >🔗</a> **[SpaceNews]** Falcon 9 launches three space weather missions
 - <a href="https://spacenews.com/were-cluttering-earths-orbit-at-record-speed-whos-going-to-clean-it-up/" >🔗</a> **[SpaceNews]** We’re cluttering Earth’s orbit at record speed. Who’s going to clean it up?
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/coeci-news/nasa-launches-2026-gateways-to-blue-skies-competition/" >🔗</a> **[NASA]** NASA Launches 2026 Gateways to Blue Skies Competition
-- <a href="https://www.nasa.gov/directorates/armd/tacp/nasa-launches-2026-gateways-to-blue-skies-competition/" >🔗</a> **[NASA]** NASA Launches 2026 Gateways to Blue Skies Competition
 - <a href="https://spacenews.com/esa-backs-skynopy-to-bring-adaptive-modulation-to-earth-observation-satellites/" >🔗</a> **[SpaceNews]** ESA backs Skynopy to bring adaptive modulation to Earth observation satellites
 
 
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250924T160159">2025-09-24 16:01:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250924T163648">2025-09-24 16:36:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
