@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/lynker-and-noaa-to-create-tailored-space-weather-forecasts/" >🔗</a> **[SpaceNews]** Lynker and NOAA  to create tailored space-weather forecasts
 - <a href="https://spacenews.com/blue-origin-only-bidder-for-new-viper-lander-award/" >🔗</a> **[SpaceNews]** Blue Origin only bidder for new VIPER lander award
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4661-4667-peaking-into-the-hollows/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4661-4667: Peaking Into the Hollows
 - <a href="https://spacenews.com/chinese-spacecraft-image-maxar-remote-sensing-and-u-s-early-warning-satellites/" >🔗</a> **[SpaceNews]** Chinese spacecraft image Maxar remote sensing and U.S. early warning satellites
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/image-article/nasas-new-astronaut-candidates/" >🔗</a> **[NASA]** NASA’s New Astronaut Candidates
 - <a href="https://www.nasa.gov/centers-and-facilities/nesc/the-need-to-bake-out-silicone-based-thermal-control-coatings/" >🔗</a> **[NASA]** The Need to Bake Out Silicone Based Thermal Control Coatings
 - <a href="https://arstechnica.com/space/2025/09/nasa-targeting-early-february-for-artemis-ii-mission-to-the-moon/" >🔗</a> **[Arstechnica]** NASA targeting early February for Artemis II mission to the Moon
-- <a href="https://spacenews.com/building-missile-defense-readiness-through-composites-and-domestic-supply-chain-coordination/" >🔗</a> **[SpaceNews]** Building Missile Defense Readiness through Composites and Domestic Supply Chain Coordination
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250924T031232">2025-09-24 03:12:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250924T033836">2025-09-24 03:38:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
