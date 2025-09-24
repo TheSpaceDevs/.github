@@ -52,7 +52,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250927T123100">2025-09-27 12:31:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 6A | Unknown Payload&location=Taiyuan Satellite Launch Center, People&#x27;s Republic of China&dates=20250927T123100Z%2F20250927T124700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 6A | Unknown Payload** from Taiyuan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250928T073000">2025-09-28 07:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-59&location=Cape Canaveral SFS, FL, USA&dates=20250928T073000Z%2F20250928T113000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-59** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250928T233200">2025-09-28 23:32:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-20&location=Vandenberg SFB, CA, USA&dates=20250928T233200Z%2F20250929T033200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-20** from Vandenberg SFB, CA, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250929T234500">2025-09-29 23:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=HASTE | JAKE 4&location=Wallops Flight Facility, Virginia, USA&dates=20250929T234500Z%2F20250930T050000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **HASTE | JAKE 4** from Wallops Flight Facility, Virginia, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250929T214500">2025-09-29 21:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=HASTE | JUSTIN&location=Wallops Flight Facility, Virginia, USA&dates=20250929T214500Z%2F20250930T050000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **HASTE | JUSTIN** from Wallops Flight Facility, Virginia, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251001T044800">2025-10-01 04:48:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Project Kuiper (KF-03)&location=Cape Canaveral SFS, FL, USA&dates=20251001T044800Z%2F20251001T080500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Project Kuiper (KF-03)** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251003T130000">2025-10-03 13:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-39&location=Vandenberg SFB, CA, USA&dates=20251003T130000Z%2F20251003T170000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-39** from Vandenberg SFB, CA, USA.
 
@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/nasa-data-powers-new-tool-to-protect-water-supply-after-fires/" >🔗</a> **[NASA]** NASA Data Powers New Tool to Protect Water Supply After Fires
 - <a href="https://science.nasa.gov/get-involved/citizen-science/help-map-the-moons-molten-flows/" >🔗</a> **[NASA]** Help Map the Moon’s Molten Flows!
 - <a href="https://www.nasa.gov/image-article/airplane-aerobatics/" >🔗</a> **[NASA]** Airplane Aerobatics
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_explores_largest_star-forming_cloud_in_our_galaxy" >🔗</a> **[ESA]** Webb explores largest star-forming cloud in our galaxy
 - <a href="https://science.nasa.gov/missions/webb/nasas-webb-explores-largest-star-forming-cloud-in-milky-way/" >🔗</a> **[NASA]** NASA’s Webb Explores Largest Star-Forming Cloud in Milky Way
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_explores_largest_star-forming_cloud_in_our_galaxy" >🔗</a> **[ESA]** Webb explores largest star-forming cloud in our galaxy
 - <a href="https://www.nasa.gov/news-release/nasa-noaa-launch-three-spacecraft-to-map-suns-influence-across-space/" >🔗</a> **[NASA]** NASA, NOAA Launch Three Spacecraft to Map Sun’s Influence Across Space
 - <a href="https://spacenews.com/zeno-power-secures-americium-241-supply-for-space-nuclear-batteries/" >🔗</a> **[SpaceNews]** Zeno Power secures americium-241 supply for space nuclear batteries
 - <a href="https://spacenews.com/falcon-9-launches-three-space-weather-missions/" >🔗</a> **[SpaceNews]** Falcon 9 launches three space weather missions
 - <a href="https://spacenews.com/were-cluttering-earths-orbit-at-record-speed-whos-going-to-clean-it-up/" >🔗</a> **[SpaceNews]** We’re cluttering Earth’s orbit at record speed. Who’s going to clean it up?
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/coeci-news/nasa-launches-2026-gateways-to-blue-skies-competition/" >🔗</a> **[NASA]** NASA Launches 2026 Gateways to Blue Skies Competition
-- <a href="https://spacenews.com/esa-backs-skynopy-to-bring-adaptive-modulation-to-earth-observation-satellites/" >🔗</a> **[SpaceNews]** ESA backs Skynopy to bring adaptive modulation to Earth observation satellites
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250924T170102">2025-09-24 17:01:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250924T173308">2025-09-24 17:33:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
