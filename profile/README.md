@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/inside-ispace-europe-and-the-race-to-explore-the-moon/" >🔗</a> **[SpaceNews]** Inside ispace Europe and the race to explore the moon
 - <a href="https://arstechnica.com/space/2025/09/astras-chris-kemp-woke-up-one-recent-morning-and-chose-violence/" >🔗</a> **[Arstechnica]** Astra’s Chris Kemp woke up one recent morning and chose violence
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenn-reinforces-role-in-aerospace-innovation-during-ohio-space-week/" >🔗</a> **[NASA]** NASA Glenn Reinforces Role in Aerospace Innovation During Ohio Space Week
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenns-aerospace-frontiers-newsletter-takes-a-bow/" >🔗</a> **[NASA]** NASA Glenn’s AeroSpace Frontiers Newsletter Takes a Bow
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/09/25/live-coverage-ula-to-launch-fifth-batch-of-amazons-project-kuiper-satellites-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: ULA to launch fifth batch of Amazon’s Project Kuiper satellites from Cape Canaveral
 - <a href="https://spacenews.com/redwire-to-provide-solar-arrays-for-axiom-space-station-module/" >🔗</a> **[SpaceNews]** Redwire to provide solar arrays for Axiom space station module
 - <a href="https://europeanspaceflight.com/ariane-6-selected-to-launch-german-military-communications-satellites/" >🔗</a> **[European Spaceflight]** Ariane 6 Selected to Launch German Military Communications Satellites
-- <a href="https://spaceflightnow.com/2025/09/25/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-13/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250925T140124">2025-09-25 14:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250925T143527">2025-09-25 14:35:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
