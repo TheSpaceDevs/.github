@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/r-space-selects-isar-aerospace-to-launch-first-two-greenbox-satellites/" >🔗</a> **[European Spaceflight]** R-Space Selects Isar Aerospace to Launch First Two GreenBox Satellites
+- <a href="https://spacenews.com/nasa-awards-katalyst-space-contract-to-reboost-swift-spacecraft/" >🔗</a> **[SpaceNews]** NASA awards Katalyst Space contract to reboost Swift spacecraft
+- <a href="https://spacenews.com/nasa-selects-proteus-space-for-novel-rapid-spacecraft-conceptual-design-study/" >🔗</a> **[SpaceNews]** NASA Selects Proteus Space for Novel Rapid Spacecraft Conceptual Design Study
 - <a href="https://spacenews.com/inside-ispace-europe-and-the-race-to-explore-the-moon/" >🔗</a> **[SpaceNews]** Inside ispace Europe and the race to explore the moon
 - <a href="https://arstechnica.com/space/2025/09/astras-chris-kemp-woke-up-one-recent-morning-and-chose-violence/" >🔗</a> **[Arstechnica]** Astra’s Chris Kemp woke up one recent morning and chose violence
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenn-reinforces-role-in-aerospace-innovation-during-ohio-space-week/" >🔗</a> **[NASA]** NASA Glenn Reinforces Role in Aerospace Innovation During Ohio Space Week
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/glenn-highlights-space-exploration-at-minnesota-state-fair/" >🔗</a> **[NASA]** Glenn Highlights Space Exploration at Minnesota State Fair
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-names-glenns-steven-sinacore-to-lead-fission-surface-power/" >🔗</a> **[NASA]** NASA Names Glenn’s Steven Sinacore to Lead Fission Surface Power
 - <a href="https://spacenews.com/satnews-and-spacenews-partner-to-launch-eu-space-defence-track-at-smallsat-europe-2026/" >🔗</a> **[SpaceNews]** SatNews and SpaceNews Partner to Launch EU Space Defence Track at SmallSat Europe 2026
-- <a href="https://spaceflightnow.com/2025/09/25/live-coverage-ula-to-launch-fifth-batch-of-amazons-project-kuiper-satellites-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: ULA to launch fifth batch of Amazon’s Project Kuiper satellites from Cape Canaveral
-- <a href="https://spacenews.com/redwire-to-provide-solar-arrays-for-axiom-space-station-module/" >🔗</a> **[SpaceNews]** Redwire to provide solar arrays for Axiom space station module
-- <a href="https://europeanspaceflight.com/ariane-6-selected-to-launch-german-military-communications-satellites/" >🔗</a> **[European Spaceflight]** Ariane 6 Selected to Launch German Military Communications Satellites
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250925T150144">2025-09-25 15:01:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250925T153401">2025-09-25 15:34:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
