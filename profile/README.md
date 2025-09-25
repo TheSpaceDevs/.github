@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/09/astras-chris-kemp-woke-up-one-recent-morning-and-chose-violence/" >🔗</a> **[Arstechnica]** Astra’s Chris Kemp woke up one recent morning and chose violence
+- <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenn-reinforces-role-in-aerospace-innovation-during-ohio-space-week/" >🔗</a> **[NASA]** NASA Glenn Reinforces Role in Aerospace Innovation During Ohio Space Week
+- <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenns-aerospace-frontiers-newsletter-takes-a-bow/" >🔗</a> **[NASA]** NASA Glenn’s AeroSpace Frontiers Newsletter Takes a Bow
+- <a href="https://www.nasa.gov/centers-and-facilities/glenn/glenn-highlights-space-exploration-at-minnesota-state-fair/" >🔗</a> **[NASA]** Glenn Highlights Space Exploration at Minnesota State Fair
+- <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-names-glenns-steven-sinacore-to-lead-fission-surface-power/" >🔗</a> **[NASA]** NASA Names Glenn’s Steven Sinacore to Lead Fission Surface Power
 - <a href="https://spacenews.com/satnews-and-spacenews-partner-to-launch-eu-space-defence-track-at-smallsat-europe-2026/" >🔗</a> **[SpaceNews]** SatNews and SpaceNews Partner to Launch EU Space Defence Track at SmallSat Europe 2026
 - <a href="https://spaceflightnow.com/2025/09/25/live-coverage-ula-to-launch-fifth-batch-of-amazons-project-kuiper-satellites-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: ULA to launch fifth batch of Amazon’s Project Kuiper satellites from Cape Canaveral
 - <a href="https://spacenews.com/redwire-to-provide-solar-arrays-for-axiom-space-station-module/" >🔗</a> **[SpaceNews]** Redwire to provide solar arrays for Axiom space station module
 - <a href="https://europeanspaceflight.com/ariane-6-selected-to-launch-german-military-communications-satellites/" >🔗</a> **[European Spaceflight]** Ariane 6 Selected to Launch German Military Communications Satellites
 - <a href="https://spaceflightnow.com/2025/09/25/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-13/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Cape Canaveral
-- <a href="https://spacepolicyonline.com/news/artemis-ii-crew-ready-to-fly-around-the-moon-on-integrity/" >🔗</a> **[SpacePolicyOnline.com]** Artemis II Crew Ready to Fly Around the Moon on “Integrity”
-- <a href="https://www.nasa.gov/news-release/nasa-awards-atmosphere-research-support-contract/" >🔗</a> **[NASA]** NASA Awards Atmosphere Research Support Contract
-- <a href="https://spacenews.com/next-chapter-in-space-defense-satellites-that-never-stop-moving/" >🔗</a> **[SpaceNews]** Next chapter in space defense: Satellites that never stop moving
-- <a href="https://spacenews.com/escapade-launch-on-new-glenn-planned-for-late-october-or-early-november/" >🔗</a> **[SpaceNews]** ESCAPADE launch on New Glenn planned for late October or early November
-- <a href="https://www.nasa.gov/news-release/nasa-awards-company-to-attempt-swift-spacecraft-orbit-boost/" >🔗</a> **[NASA]** NASA Awards Company to Attempt Swift Spacecraft Orbit Boost
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250925T130857">2025-09-25 13:08:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250925T133750">2025-09-25 13:37:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
