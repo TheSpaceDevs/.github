@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/09/ksc-flyover-091925/" >🔗</a> **[NASASpaceflight]** SpaceX, Blue Origin, Stoke, and others make major progress on Cape launch facilities
 - <a href="https://spacenews.com/artemis-2-could-launch-as-soon-as-february/" >🔗</a> **[SpaceNews]** Artemis 2 could launch as soon as February
 - <a href="https://spacenews.com/l3harris-looks-to-scale-production-of-hybrid-satcom-radios-after-successful-air-force-tests/" >🔗</a> **[SpaceNews]** L3Harris looks to scale production of hybrid satcom radios after successful Air Force tests
 - <a href="https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/human-lander-challenge/nasa-opens-2026-human-lander-challenge-for-life-support-systems-more/" >🔗</a> **[NASA]** NASA Opens 2026 Human Lander Challenge for Life Support Systems, More
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/learning-resources/for-professionals/nasa-stem-learning-ecosystems-opportunities-benefits-for-everyone/" >🔗</a> **[NASA]** NASA & STEM Learning Ecosystems: Opportunities & Benefits for Everyone
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-to-discuss-upcoming-launch-mission/" >🔗</a> **[NASA]** NASA Astronaut Chris Williams to Discuss Upcoming Launch, Mission
 - <a href="https://europeanspaceflight.com/r-space-selects-isar-aerospace-to-launch-first-two-greenbox-satellites/" >🔗</a> **[European Spaceflight]** R-Space Selects Isar Aerospace to Launch First Two GreenBox Satellites
-- <a href="https://spacenews.com/nasa-awards-katalyst-space-contract-to-reboost-swift-spacecraft/" >🔗</a> **[SpaceNews]** NASA awards Katalyst Space contract to reboost Swift spacecraft
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250925T200125">2025-09-25 20:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250925T203321">2025-09-25 20:33:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
