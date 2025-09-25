@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-isro-satellite-sends-first-radar-images-of-earths-surface/" >🔗</a> **[NASA]** NASA-ISRO Satellite Sends First Radar Images of Earth’s Surface
+- <a href="https://science.nasa.gov/learning-resources/for-professionals/nasa-stem-learning-ecosystems-opportunities-benefits-for-everyone/" >🔗</a> **[NASA]** NASA & STEM Learning Ecosystems: Opportunities & Benefits for Everyone
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-to-discuss-upcoming-launch-mission/" >🔗</a> **[NASA]** NASA Astronaut Chris Williams to Discuss Upcoming Launch, Mission
 - <a href="https://europeanspaceflight.com/r-space-selects-isar-aerospace-to-launch-first-two-greenbox-satellites/" >🔗</a> **[European Spaceflight]** R-Space Selects Isar Aerospace to Launch First Two GreenBox Satellites
 - <a href="https://spacenews.com/nasa-awards-katalyst-space-contract-to-reboost-swift-spacecraft/" >🔗</a> **[SpaceNews]** NASA awards Katalyst Space contract to reboost Swift spacecraft
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2025/09/astras-chris-kemp-woke-up-one-recent-morning-and-chose-violence/" >🔗</a> **[Arstechnica]** Astra’s Chris Kemp woke up one recent morning and chose violence
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenn-reinforces-role-in-aerospace-innovation-during-ohio-space-week/" >🔗</a> **[NASA]** NASA Glenn Reinforces Role in Aerospace Innovation During Ohio Space Week
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenns-aerospace-frontiers-newsletter-takes-a-bow/" >🔗</a> **[NASA]** NASA Glenn’s AeroSpace Frontiers Newsletter Takes a Bow
-- <a href="https://www.nasa.gov/centers-and-facilities/glenn/glenn-highlights-space-exploration-at-minnesota-state-fair/" >🔗</a> **[NASA]** Glenn Highlights Space Exploration at Minnesota State Fair
-- <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-names-glenns-steven-sinacore-to-lead-fission-surface-power/" >🔗</a> **[NASA]** NASA Names Glenn’s Steven Sinacore to Lead Fission Surface Power
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250925T170128">2025-09-25 17:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250925T173240">2025-09-25 17:32:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
