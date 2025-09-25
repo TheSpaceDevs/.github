@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/artemis-2-could-launch-as-soon-as-february/" >🔗</a> **[SpaceNews]** Artemis 2 could launch as soon as February
+- <a href="https://spacenews.com/l3harris-looks-to-scale-production-of-hybrid-satcom-radios-after-successful-air-force-tests/" >🔗</a> **[SpaceNews]** L3Harris looks to scale production of hybrid satcom radios after successful Air Force tests
 - <a href="https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/human-lander-challenge/nasa-opens-2026-human-lander-challenge-for-life-support-systems-more/" >🔗</a> **[NASA]** NASA Opens 2026 Human Lander Challenge for Life Support Systems, More
 - <a href="https://www.nasa.gov/missions/station/nasa-sierra-space-modify-commercial-resupply-services-contract/" >🔗</a> **[NASA]** NASA, Sierra Space Modify Commercial Resupply Services Contract
 - <a href="https://www.nasa.gov/image-article/3-in-1-launch/" >🔗</a> **[NASA]** 3-in-1 Launch
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-to-discuss-upcoming-launch-mission/" >🔗</a> **[NASA]** NASA Astronaut Chris Williams to Discuss Upcoming Launch, Mission
 - <a href="https://europeanspaceflight.com/r-space-selects-isar-aerospace-to-launch-first-two-greenbox-satellites/" >🔗</a> **[European Spaceflight]** R-Space Selects Isar Aerospace to Launch First Two GreenBox Satellites
 - <a href="https://spacenews.com/nasa-awards-katalyst-space-contract-to-reboost-swift-spacecraft/" >🔗</a> **[SpaceNews]** NASA awards Katalyst Space contract to reboost Swift spacecraft
-- <a href="https://spacenews.com/nasa-selects-proteus-space-for-novel-rapid-spacecraft-conceptual-design-study/" >🔗</a> **[SpaceNews]** NASA Selects Proteus Space for Novel Rapid Spacecraft Conceptual Design Study
-- <a href="https://spacenews.com/inside-ispace-europe-and-the-race-to-explore-the-moon/" >🔗</a> **[SpaceNews]** Inside ispace Europe and the race to explore the moon
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250925T190101">2025-09-25 19:01:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250925T193054">2025-09-25 19:30:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
