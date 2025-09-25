@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/artemis-ii-crew-ready-to-fly-around-the-moon-on-integrity/" >🔗</a> **[SpacePolicyOnline.com]** Artemis II Crew Ready to Fly Around the Moon on “Integrity”
 - <a href="https://www.nasa.gov/news-release/nasa-awards-atmosphere-research-support-contract/" >🔗</a> **[NASA]** NASA Awards Atmosphere Research Support Contract
 - <a href="https://spacenews.com/next-chapter-in-space-defense-satellites-that-never-stop-moving/" >🔗</a> **[SpaceNews]** Next chapter in space defense: Satellites that never stop moving
 - <a href="https://spacenews.com/escapade-launch-on-new-glenn-planned-for-late-october-or-early-november/" >🔗</a> **[SpaceNews]** ESCAPADE launch on New Glenn planned for late October or early November
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/nasa-lab-builds-new-aircraft-to-support-complex-flight-research/" >🔗</a> **[NASA]** NASA Lab Builds New Aircraft to Support Complex Flight Research
 - <a href="https://spacenews.com/space-forge-and-united-semiconductors-to-collaborate-on-space-based-semiconductor-manufacturing/" >🔗</a> **[SpaceNews]** Space Forge and United Semiconductors to collaborate on space-based semiconductor manufacturing
 - <a href="https://science.nasa.gov/earth/nasa-aircraft-coordinate-science-flights-to-measure-air-quality/" >🔗</a> **[NASA]** NASA Aircraft Coordinate Science Flights to Measure Air Quality
-- <a href="https://science.nasa.gov/earth/nasa-data-powers-new-tool-to-protect-water-supply-after-fires/" >🔗</a> **[NASA]** NASA Data Powers New Tool to Protect Water Supply After Fires
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250925T040151">2025-09-25 04:01:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250925T043521">2025-09-25 04:35:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
