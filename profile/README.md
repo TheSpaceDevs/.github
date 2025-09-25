@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/09/25/live-coverage-ula-to-launch-fifth-batch-of-amazons-project-kuiper-satellites-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: ULA to launch fifth batch of Amazon’s Project Kuiper satellites from Cape Canaveral
+- <a href="https://spacenews.com/redwire-to-provide-solar-arrays-for-axiom-space-station-module/" >🔗</a> **[SpaceNews]** Redwire to provide solar arrays for Axiom space station module
 - <a href="https://europeanspaceflight.com/ariane-6-selected-to-launch-german-military-communications-satellites/" >🔗</a> **[European Spaceflight]** Ariane 6 Selected to Launch German Military Communications Satellites
 - <a href="https://spaceflightnow.com/2025/09/25/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-13/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacepolicyonline.com/news/artemis-ii-crew-ready-to-fly-around-the-moon-on-integrity/" >🔗</a> **[SpacePolicyOnline.com]** Artemis II Crew Ready to Fly Around the Moon on “Integrity”
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/escapade-launch-on-new-glenn-planned-for-late-october-or-early-november/" >🔗</a> **[SpaceNews]** ESCAPADE launch on New Glenn planned for late October or early November
 - <a href="https://www.nasa.gov/news-release/nasa-awards-company-to-attempt-swift-spacecraft-orbit-boost/" >🔗</a> **[NASA]** NASA Awards Company to Attempt Swift Spacecraft Orbit Boost
 - <a href="https://www.nasa.gov/news-release/nasa-highlights-space-innovation-exploration-at-space-conference/" >🔗</a> **[NASA]** NASA Highlights Space Innovation, Exploration at Space Conference
-- <a href="https://www.nasa.gov/image-article/nasas-astrobee-robots-advance-through-strategic-partnership/" >🔗</a> **[NASA]** NASA’s Astrobee Robots Advance Through Strategic Partnership
-- <a href="https://www.nasa.gov/image-article/nasa-lab-builds-new-aircraft-to-support-complex-flight-research/" >🔗</a> **[NASA]** NASA Lab Builds New Aircraft to Support Complex Flight Research
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250925T113057">2025-09-25 11:30:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250925T120200">2025-09-25 12:02:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
