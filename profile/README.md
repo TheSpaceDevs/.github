@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/human-lander-challenge/nasa-opens-2026-human-lander-challenge-for-life-support-systems-more/" >🔗</a> **[NASA]** NASA Opens 2026 Human Lander Challenge for Life Support Systems, More
+- <a href="https://www.nasa.gov/missions/station/nasa-sierra-space-modify-commercial-resupply-services-contract/" >🔗</a> **[NASA]** NASA, Sierra Space Modify Commercial Resupply Services Contract
+- <a href="https://www.nasa.gov/image-article/3-in-1-launch/" >🔗</a> **[NASA]** 3-in-1 Launch
 - <a href="https://www.nasa.gov/news-release/nasa-isro-satellite-sends-first-radar-images-of-earths-surface/" >🔗</a> **[NASA]** NASA-ISRO Satellite Sends First Radar Images of Earth’s Surface
 - <a href="https://science.nasa.gov/learning-resources/for-professionals/nasa-stem-learning-ecosystems-opportunities-benefits-for-everyone/" >🔗</a> **[NASA]** NASA & STEM Learning Ecosystems: Opportunities & Benefits for Everyone
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-to-discuss-upcoming-launch-mission/" >🔗</a> **[NASA]** NASA Astronaut Chris Williams to Discuss Upcoming Launch, Mission
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/nasa-awards-katalyst-space-contract-to-reboost-swift-spacecraft/" >🔗</a> **[SpaceNews]** NASA awards Katalyst Space contract to reboost Swift spacecraft
 - <a href="https://spacenews.com/nasa-selects-proteus-space-for-novel-rapid-spacecraft-conceptual-design-study/" >🔗</a> **[SpaceNews]** NASA Selects Proteus Space for Novel Rapid Spacecraft Conceptual Design Study
 - <a href="https://spacenews.com/inside-ispace-europe-and-the-race-to-explore-the-moon/" >🔗</a> **[SpaceNews]** Inside ispace Europe and the race to explore the moon
-- <a href="https://arstechnica.com/space/2025/09/astras-chris-kemp-woke-up-one-recent-morning-and-chose-violence/" >🔗</a> **[Arstechnica]** Astra’s Chris Kemp woke up one recent morning and chose violence
-- <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenn-reinforces-role-in-aerospace-innovation-during-ohio-space-week/" >🔗</a> **[NASA]** NASA Glenn Reinforces Role in Aerospace Innovation During Ohio Space Week
-- <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenns-aerospace-frontiers-newsletter-takes-a-bow/" >🔗</a> **[NASA]** NASA Glenn’s AeroSpace Frontiers Newsletter Takes a Bow
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250925T180151">2025-09-25 18:01:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250925T183852">2025-09-25 18:38:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
