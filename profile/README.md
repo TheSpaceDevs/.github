@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-to-discuss-upcoming-launch-mission/" >🔗</a> **[NASA]** NASA Astronaut Chris Williams to Discuss Upcoming Launch, Mission
 - <a href="https://europeanspaceflight.com/r-space-selects-isar-aerospace-to-launch-first-two-greenbox-satellites/" >🔗</a> **[European Spaceflight]** R-Space Selects Isar Aerospace to Launch First Two GreenBox Satellites
 - <a href="https://spacenews.com/nasa-awards-katalyst-space-contract-to-reboost-swift-spacecraft/" >🔗</a> **[SpaceNews]** NASA awards Katalyst Space contract to reboost Swift spacecraft
 - <a href="https://spacenews.com/nasa-selects-proteus-space-for-novel-rapid-spacecraft-conceptual-design-study/" >🔗</a> **[SpaceNews]** NASA Selects Proteus Space for Novel Rapid Spacecraft Conceptual Design Study
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenns-aerospace-frontiers-newsletter-takes-a-bow/" >🔗</a> **[NASA]** NASA Glenn’s AeroSpace Frontiers Newsletter Takes a Bow
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/glenn-highlights-space-exploration-at-minnesota-state-fair/" >🔗</a> **[NASA]** Glenn Highlights Space Exploration at Minnesota State Fair
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-names-glenns-steven-sinacore-to-lead-fission-surface-power/" >🔗</a> **[NASA]** NASA Names Glenn’s Steven Sinacore to Lead Fission Surface Power
-- <a href="https://spacenews.com/satnews-and-spacenews-partner-to-launch-eu-space-defence-track-at-smallsat-europe-2026/" >🔗</a> **[SpaceNews]** SatNews and SpaceNews Partner to Launch EU Space Defence Track at SmallSat Europe 2026
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250925T160149">2025-09-25 16:01:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250925T163635">2025-09-25 16:36:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
