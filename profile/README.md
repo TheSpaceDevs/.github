@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/langley/nasa-flights-study-cosmic-ray-effects-for-air-future-space-travelers/" >🔗</a> **[NASA]** NASA Flights Study Cosmic Ray Effects for Air, Future Space Travelers
 - <a href="https://spaceflightnow.com/2025/09/25/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg
 - <a href="https://www.nasaspaceflight.com/2025/09/ksc-flyover-091925/" >🔗</a> **[NASASpaceflight]** SpaceX, Blue Origin, Stoke, and others make major progress on Cape launch facilities
 - <a href="https://spacenews.com/artemis-2-could-launch-as-soon-as-february/" >🔗</a> **[SpaceNews]** Artemis 2 could launch as soon as February
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/3-in-1-launch/" >🔗</a> **[NASA]** 3-in-1 Launch
 - <a href="https://www.nasa.gov/news-release/nasa-isro-satellite-sends-first-radar-images-of-earths-surface/" >🔗</a> **[NASA]** NASA-ISRO Satellite Sends First Radar Images of Earth’s Surface
 - <a href="https://science.nasa.gov/learning-resources/for-professionals/nasa-stem-learning-ecosystems-opportunities-benefits-for-everyone/" >🔗</a> **[NASA]** NASA & STEM Learning Ecosystems: Opportunities & Benefits for Everyone
-- <a href="https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-to-discuss-upcoming-launch-mission/" >🔗</a> **[NASA]** NASA Astronaut Chris Williams to Discuss Upcoming Launch, Mission
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250925T213058">2025-09-25 21:30:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250925T220102">2025-09-25 22:01:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
