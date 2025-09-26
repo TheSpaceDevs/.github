@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/learning-resources/for-professionals/courses-curriculums/from-city-lights-to-moonlight-nasa-training-shows-how-urban-parks-can-connect-communities-with-space-science/" >🔗</a> **[NASA]** From City Lights to Moonlight: NASA Training Shows How Urban Parks Can Connect Communities with Space Science
 - <a href="https://www.nasa.gov/news-release/nasa-awards-custodial-landscaping-services-contract/" >🔗</a> **[NASA]** NASA Awards Custodial, Landscaping Services Contract
 - <a href="https://spacenews.com/beyond-gravity-to-supply-robotic-arm-thrusters-for-swissto12-small-geos/" >🔗</a> **[SpaceNews]** Beyond Gravity to supply robotic arm thrusters for Swissto12 small GEOs
 - <a href="https://www.nasaspaceflight.com/2025/09/starship-cape-progress/" >🔗</a> **[NASASpaceflight]** Preparation for East Coast Starship debut in 2026 continue to make progress
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/directorates/armd/2025-2026-dwu-middle-school-aviation-challenge/" >🔗</a> **[NASA]** 2025-2026 DWU: Middle School Aviation Challenge
 - <a href="https://www.nasa.gov/image-article/golden-lake/" >🔗</a> **[NASA]** Golden Lake
 - <a href="https://science.nasa.gov/solar-system/moon/join-nasa-on-oct-4-in-looking-up-celebrating-moon/" >🔗</a> **[NASA]** Join NASA on Oct. 4 in Looking Up, Celebrating Moon
-- <a href="https://spacenews.com/new-contract-signed-between-the-nsstc-and-u-space-a-new-milestone-in-uae-france-cooperation-in-space-innovation/" >🔗</a> **[SpaceNews]** New contract signed between the NSSTC and U-Space: A new milestone in UAE-France cooperation in space innovation
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250926T210119">2025-09-26 21:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250926T213103">2025-09-26 21:31:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
