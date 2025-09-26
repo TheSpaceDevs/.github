@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/missions/hubble/hubble-captures-puzzling-galaxy/" >🔗</a> **[NASA]** Hubble Captures Puzzling Galaxy
+- <a href="https://spacenews.com/redefining-space-diplomacy-for-the-21st-century-from-orbits-to-outcomes/" >🔗</a> **[SpaceNews]** Redefining space diplomacy for the 21st century: from orbits to outcomes
 - <a href="https://www.esa.int/About_Us/Exhibitions/ESA_shares_stage_with_international_partners_at_IAC_2025" >🔗</a> **[ESA]** ESA shares stage with international partners at IAC 2025
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/09/Earth_from_Space_Northeast_Greenland_National_Park" >🔗</a> **[ESA]** Earth from Space: Northeast Greenland National Park
 - <a href="https://www.nasaspaceflight.com/2025/09/nasas-contract-overhaul-dream-chasers-jeopardy/" >🔗</a> **[NASASpaceflight]** NASA’s contract overhaul puts Dream Chaser’s ISS future in jeopardy
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://arstechnica.com/space/2025/09/sierras-dream-chaser-is-starting-to-resemble-a-nightmare/" >🔗</a> **[Arstechnica]** Sierra’s Dream Chaser is starting to resemble a nightmare
 - <a href="https://www.nasa.gov/centers-and-facilities/langley/nasa-flights-study-cosmic-ray-effects-for-air-future-space-travelers/" >🔗</a> **[NASA]** NASA Flights Study Cosmic Ray Effects for Air, Future Space Travelers
 - <a href="https://spaceflightnow.com/2025/09/25/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg
-- <a href="https://www.nasaspaceflight.com/2025/09/ksc-flyover-091925/" >🔗</a> **[NASASpaceflight]** SpaceX, Blue Origin, Stoke, and others make major progress on Cape launch facilities
-- <a href="https://spacenews.com/artemis-2-could-launch-as-soon-as-february/" >🔗</a> **[SpaceNews]** Artemis 2 could launch as soon as February
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250926T110104">2025-09-26 11:01:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250926T113056">2025-09-26 11:30:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
