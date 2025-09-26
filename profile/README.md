@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/dream-chaser-slips-to-end-of-2026-for-free-flyer-demo-only/" >🔗</a> **[SpacePolicyOnline.com]** Dream Chaser Slips to End of 2026 for Free-Flyer Demo Only
 - <a href="https://spacenews.com/nasa-modifies-dream-chaser-iss-cargo-contract-as-sierra-space-shifts-to-defense-work/" >🔗</a> **[SpaceNews]** NASA modifies Dream Chaser ISS cargo contract as Sierra Space shifts to defense work
 - <a href="https://arstechnica.com/space/2025/09/sierras-dream-chaser-is-starting-to-resemble-a-nightmare/" >🔗</a> **[Arstechnica]** Sierra’s Dream Chaser is starting to resemble a nightmare
 - <a href="https://www.nasa.gov/centers-and-facilities/langley/nasa-flights-study-cosmic-ray-effects-for-air-future-space-travelers/" >🔗</a> **[NASA]** NASA Flights Study Cosmic Ray Effects for Air, Future Space Travelers
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/l3harris-looks-to-scale-production-of-hybrid-satcom-radios-after-successful-air-force-tests/" >🔗</a> **[SpaceNews]** L3Harris looks to scale production of hybrid satcom radios after successful Air Force tests
 - <a href="https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/human-lander-challenge/nasa-opens-2026-human-lander-challenge-for-life-support-systems-more/" >🔗</a> **[NASA]** NASA Opens 2026 Human Lander Challenge for Life Support Systems, More
 - <a href="https://www.nasa.gov/missions/station/nasa-sierra-space-modify-commercial-resupply-services-contract/" >🔗</a> **[NASA]** NASA, Sierra Space Modify Commercial Resupply Services Contract
-- <a href="https://www.nasa.gov/image-article/3-in-1-launch/" >🔗</a> **[NASA]** 3-in-1 Launch
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250926T004551">2025-09-26 00:45:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250926T012833">2025-09-26 01:28:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
