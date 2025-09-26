@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/09/starship-cape-progress/" >🔗</a> **[NASASpaceflight]** Preparation for East Coast Starship debut in 2026 continue to make progress
+- <a href="https://science.nasa.gov/learning-resources/for-colleges-universities/nasa-helps-connect-astronomers-and-community-colleges-across-the-nation/" >🔗</a> **[NASA]** NASA Helps Connect Astronomers and Community Colleges Across the Nation
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/lunar-challenge-winner-tests-technology-in-nasa-thermal-vacuum-chamber/" >🔗</a> **[NASA]** Lunar Challenge Winner Tests Technology in NASA Thermal Vacuum Chamber
 - <a href="https://www.nasa.gov/directorates/armd/2025-dwu-hs-design-challenge/" >🔗</a> **[NASA]** 2025-2026 DWU: High School Engineering Challenge
 - <a href="https://www.nasa.gov/directorates/armd/2025-2026-dwu-middle-school-aviation-challenge/" >🔗</a> **[NASA]** 2025-2026 DWU: Middle School Aviation Challenge
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/new-contract-signed-between-the-nsstc-and-u-space-a-new-milestone-in-uae-france-cooperation-in-space-innovation/" >🔗</a> **[SpaceNews]** New contract signed between the NSSTC and U-Space: A new milestone in UAE-France cooperation in space innovation
 - <a href="https://europeanspaceflight.com/germany-commits-e35-billion-to-space-related-defence-projects/" >🔗</a> **[European Spaceflight]** Germany Commits €35 Billion to Space-Related Defence Projects
 - <a href="https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-diamond-st-john/" >🔗</a> **[NASA]** I Am Artemis: Diamond St. John
-- <a href="https://spaceflightnow.com/2025/09/26/sierra-spaces-dream-chaser-debut-mission-delayed-again-no-longer-docking-to-station/" >🔗</a> **[Spaceflight Now]** Sierra Space’s Dream Chaser debut mission delayed again, no longer docking to station
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_22-26_September_2025" >🔗</a> **[ESA]** Week in images: 22-26 September 2025
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250926T180101">2025-09-26 18:01:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250926T183700">2025-09-26 18:37:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
