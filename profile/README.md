@@ -53,8 +53,8 @@ into *an Unknown
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251001T062300">2025-10-01 06:23:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-59&location=Cape Canaveral SFS, FL, USA&dates=20251001T062300Z%2F20251001T102300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-59** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251003T130000">2025-10-03 13:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-39&location=Vandenberg SFB, CA, USA&dates=20251003T130000Z%2F20251003T170000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-39** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251004T034300">2025-10-04 03:43:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Project Kuiper (KF-03)&location=Cape Canaveral SFS, FL, USA&dates=20251004T034300Z%2F20251004T070000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Project Kuiper (KF-03)** from Cape Canaveral SFS, FL, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251006T231500">2025-10-06 23:15:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Starship | Flight 11&location=SpaceX Starbase, TX, USA&dates=20251006T231500Z%2F20251007T001500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starship | Flight 11** from SpaceX Starbase, TX, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251016T113000">2025-10-16 11:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=LVM-3 | CMS-02 (GSAT-7R)&location=Satish Dhawan Space Centre, India&dates=20251016T113000Z%2F20251016T153000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **LVM-3 | CMS-02 (GSAT-7R)** from Satish Dhawan Space Centre, India.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251008T123000">2025-10-08 12:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Shepard | NS-36&location=Corn Ranch, Van Horn, TX, USA&dates=20251008T123000Z%2F20251008T203000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Shepard | NS-36** from Corn Ranch, Van Horn, TX, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251013T231500">2025-10-13 23:15:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Starship | Flight 11&location=SpaceX Starbase, TX, USA&dates=20251013T231500Z%2F20251014T001500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starship | Flight 11** from SpaceX Starbase, TX, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/golden-lake/" >🔗</a> **[NASA]** Golden Lake
 - <a href="https://spacenews.com/new-contract-signed-between-the-nsstc-and-u-space-a-new-milestone-in-uae-france-cooperation-in-space-innovation/" >🔗</a> **[SpaceNews]** New contract signed between the NSSTC and U-Space: A new milestone in UAE-France cooperation in space innovation
 - <a href="https://europeanspaceflight.com/germany-commits-e35-billion-to-space-related-defence-projects/" >🔗</a> **[European Spaceflight]** Germany Commits €35 Billion to Space-Related Defence Projects
 - <a href="https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-diamond-st-john/" >🔗</a> **[NASA]** I Am Artemis: Diamond St. John
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/missions/hubble/hubble-captures-puzzling-galaxy/" >🔗</a> **[NASA]** Hubble Captures Puzzling Galaxy
 - <a href="https://www.esa.int/About_Us/Exhibitions/ESA_shares_stage_with_international_partners_at_IAC_2025" >🔗</a> **[ESA]** ESA shares stage with international partners at IAC 2025
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/09/Earth_from_Space_Northeast_Greenland_National_Park" >🔗</a> **[ESA]** Earth from Space: Northeast Greenland National Park
-- <a href="https://www.nasaspaceflight.com/2025/09/nasas-contract-overhaul-dream-chasers-jeopardy/" >🔗</a> **[NASASpaceflight]** NASA’s contract overhaul puts Dream Chaser’s ISS future in jeopardy
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250926T150132">2025-09-26 15:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250926T153255">2025-09-26 15:32:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
