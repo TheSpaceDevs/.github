@@ -90,8 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://science.nasa.gov/missions/hubble/hubble-captures-puzzling-galaxy/" >🔗</a> **[NASA]** Hubble Captures Puzzling Galaxy
 - <a href="https://spacenews.com/redefining-space-diplomacy-for-the-21st-century-from-orbits-to-outcomes/" >🔗</a> **[SpaceNews]** Redefining space diplomacy for the 21st century: from orbits to outcomes
+- <a href="https://science.nasa.gov/missions/hubble/hubble-captures-puzzling-galaxy/" >🔗</a> **[NASA]** Hubble Captures Puzzling Galaxy
 - <a href="https://www.esa.int/About_Us/Exhibitions/ESA_shares_stage_with_international_partners_at_IAC_2025" >🔗</a> **[ESA]** ESA shares stage with international partners at IAC 2025
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/09/Earth_from_Space_Northeast_Greenland_National_Park" >🔗</a> **[ESA]** Earth from Space: Northeast Greenland National Park
 - <a href="https://www.nasaspaceflight.com/2025/09/nasas-contract-overhaul-dream-chasers-jeopardy/" >🔗</a> **[NASASpaceflight]** NASA’s contract overhaul puts Dream Chaser’s ISS future in jeopardy
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250926T113056">2025-09-26 11:30:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250926T120211">2025-09-26 12:02:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
