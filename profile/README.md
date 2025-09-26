@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/lunar-challenge-winner-tests-technology-in-nasa-thermal-vacuum-chamber/" >🔗</a> **[NASA]** Lunar Challenge Winner Tests Technology in NASA Thermal Vacuum Chamber
+- <a href="https://www.nasa.gov/directorates/armd/2025-dwu-hs-design-challenge/" >🔗</a> **[NASA]** 2025-2026 DWU: High School Engineering Challenge
 - <a href="https://www.nasa.gov/directorates/armd/2025-2026-dwu-middle-school-aviation-challenge/" >🔗</a> **[NASA]** 2025-2026 DWU: Middle School Aviation Challenge
 - <a href="https://www.nasa.gov/image-article/golden-lake/" >🔗</a> **[NASA]** Golden Lake
 - <a href="https://science.nasa.gov/solar-system/moon/join-nasa-on-oct-4-in-looking-up-celebrating-moon/" >🔗</a> **[NASA]** Join NASA on Oct. 4 in Looking Up, Celebrating Moon
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-diamond-st-john/" >🔗</a> **[NASA]** I Am Artemis: Diamond St. John
 - <a href="https://spaceflightnow.com/2025/09/26/sierra-spaces-dream-chaser-debut-mission-delayed-again-no-longer-docking-to-station/" >🔗</a> **[Spaceflight Now]** Sierra Space’s Dream Chaser debut mission delayed again, no longer docking to station
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_22-26_September_2025" >🔗</a> **[ESA]** Week in images: 22-26 September 2025
-- <a href="https://spacenews.com/redefining-space-diplomacy-for-the-21st-century-from-orbits-to-outcomes/" >🔗</a> **[SpaceNews]** Redefining space diplomacy for the 21st century: from orbits to outcomes
-- <a href="https://science.nasa.gov/missions/hubble/hubble-captures-puzzling-galaxy/" >🔗</a> **[NASA]** Hubble Captures Puzzling Galaxy
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250926T170105">2025-09-26 17:01:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250926T173213">2025-09-26 17:32:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
