@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/09/Earth_from_Space_Northeast_Greenland_National_Park" >🔗</a> **[ESA]** Earth from Space: Northeast Greenland National Park
 - <a href="https://www.nasaspaceflight.com/2025/09/nasas-contract-overhaul-dream-chasers-jeopardy/" >🔗</a> **[NASASpaceflight]** NASA’s contract overhaul puts Dream Chaser’s ISS future in jeopardy
 - <a href="https://spacepolicyonline.com/news/dream-chaser-slips-to-end-of-2026-for-free-flyer-demo-only/" >🔗</a> **[SpacePolicyOnline.com]** Dream Chaser Slips to End of 2026 for Free-Flyer Demo Only
 - <a href="https://spacenews.com/nasa-modifies-dream-chaser-iss-cargo-contract-as-sierra-space-shifts-to-defense-work/" >🔗</a> **[SpaceNews]** NASA modifies Dream Chaser ISS cargo contract as Sierra Space shifts to defense work
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasaspaceflight.com/2025/09/ksc-flyover-091925/" >🔗</a> **[NASASpaceflight]** SpaceX, Blue Origin, Stoke, and others make major progress on Cape launch facilities
 - <a href="https://spacenews.com/artemis-2-could-launch-as-soon-as-february/" >🔗</a> **[SpaceNews]** Artemis 2 could launch as soon as February
 - <a href="https://spacenews.com/l3harris-looks-to-scale-production-of-hybrid-satcom-radios-after-successful-air-force-tests/" >🔗</a> **[SpaceNews]** L3Harris looks to scale production of hybrid satcom radios after successful Air Force tests
-- <a href="https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/human-lander-challenge/nasa-opens-2026-human-lander-challenge-for-life-support-systems-more/" >🔗</a> **[NASA]** NASA Opens 2026 Human Lander Challenge for Life Support Systems, More
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250926T080208">2025-09-26 08:02:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250926T083643">2025-09-26 08:36:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
