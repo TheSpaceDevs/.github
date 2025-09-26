@@ -90,7 +90,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/directorates/armd/2025-2026-dwu-middle-school-aviation-challenge/" >🔗</a> **[NASA]** 2025-2026 DWU: Middle School Aviation Challenge
 - <a href="https://www.nasa.gov/image-article/golden-lake/" >🔗</a> **[NASA]** Golden Lake
+- <a href="https://science.nasa.gov/solar-system/moon/join-nasa-on-oct-4-in-looking-up-celebrating-moon/" >🔗</a> **[NASA]** Join NASA on Oct. 4 in Looking Up, Celebrating Moon
 - <a href="https://spacenews.com/new-contract-signed-between-the-nsstc-and-u-space-a-new-milestone-in-uae-france-cooperation-in-space-innovation/" >🔗</a> **[SpaceNews]** New contract signed between the NSSTC and U-Space: A new milestone in UAE-France cooperation in space innovation
 - <a href="https://europeanspaceflight.com/germany-commits-e35-billion-to-space-related-defence-projects/" >🔗</a> **[European Spaceflight]** Germany Commits €35 Billion to Space-Related Defence Projects
 - <a href="https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-diamond-st-john/" >🔗</a> **[NASA]** I Am Artemis: Diamond St. John
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_22-26_September_2025" >🔗</a> **[ESA]** Week in images: 22-26 September 2025
 - <a href="https://spacenews.com/redefining-space-diplomacy-for-the-21st-century-from-orbits-to-outcomes/" >🔗</a> **[SpaceNews]** Redefining space diplomacy for the 21st century: from orbits to outcomes
 - <a href="https://science.nasa.gov/missions/hubble/hubble-captures-puzzling-galaxy/" >🔗</a> **[NASA]** Hubble Captures Puzzling Galaxy
-- <a href="https://www.esa.int/About_Us/Exhibitions/ESA_shares_stage_with_international_partners_at_IAC_2025" >🔗</a> **[ESA]** ESA shares stage with international partners at IAC 2025
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/09/Earth_from_Space_Northeast_Greenland_National_Park" >🔗</a> **[ESA]** Earth from Space: Northeast Greenland National Park
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250926T160134">2025-09-26 16:01:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250926T163622">2025-09-26 16:36:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
