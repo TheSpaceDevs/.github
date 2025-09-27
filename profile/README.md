@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-marshall-director-steps-down/" >🔗</a> **[SpaceNews]** NASA Marshall director steps down
 - <a href="https://spacenews.com/china-boosts-broadband-iot-and-weather-satellite-fleets-with-flurry-of-launches/" >🔗</a> **[SpaceNews]** China boosts broadband, IoT and weather satellite fleets with flurry of launches
 - <a href="https://europeanspaceflight.com/arianegroup-awards-contract-for-components-of-27-ariane-6-rockets/" >🔗</a> **[European Spaceflight]** ArianeGroup Awards Contract for Components of 27 Ariane 6 Rockets
 - <a href="https://spacenews.com/left-of-launch-becomes-central-focus-in-next-generation-missile-defense/" >🔗</a> **[SpaceNews]** ‘Left of launch’ becomes central focus in next-generation missile defense
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2025/09/starship-cape-progress/" >🔗</a> **[NASASpaceflight]** Preparation for East Coast Starship debut in 2026 continue to make progress
 - <a href="https://science.nasa.gov/learning-resources/for-colleges-universities/nasa-helps-connect-astronomers-and-community-colleges-across-the-nation/" >🔗</a> **[NASA]** NASA Helps Connect Astronomers and Community Colleges Across the Nation
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/lunar-challenge-winner-tests-technology-in-nasa-thermal-vacuum-chamber/" >🔗</a> **[NASA]** Lunar Challenge Winner Tests Technology in NASA Thermal Vacuum Chamber
-- <a href="https://www.nasa.gov/directorates/armd/2025-dwu-hs-design-challenge/" >🔗</a> **[NASA]** 2025-2026 DWU: High School Engineering Challenge
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250927T210126">2025-09-27 21:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250927T213109">2025-09-27 21:31:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
