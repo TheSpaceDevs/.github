@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-boosts-broadband-iot-and-weather-satellite-fleets-with-flurry-of-launches/" >🔗</a> **[SpaceNews]** China boosts broadband, IoT and weather satellite fleets with flurry of launches
 - <a href="https://europeanspaceflight.com/arianegroup-awards-contract-for-components-of-27-ariane-6-rockets/" >🔗</a> **[European Spaceflight]** ArianeGroup Awards Contract for Components of 27 Ariane 6 Rockets
 - <a href="https://spacenews.com/left-of-launch-becomes-central-focus-in-next-generation-missile-defense/" >🔗</a> **[SpaceNews]** ‘Left of launch’ becomes central focus in next-generation missile defense
 - <a href="https://science.nasa.gov/learning-resources/for-professionals/courses-curriculums/from-city-lights-to-moonlight-nasa-training-shows-how-urban-parks-can-connect-communities-with-space-science/" >🔗</a> **[NASA]** From City Lights to Moonlight: NASA Training Shows How Urban Parks Can Connect Communities with Space Science
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/learning-resources/for-colleges-universities/nasa-helps-connect-astronomers-and-community-colleges-across-the-nation/" >🔗</a> **[NASA]** NASA Helps Connect Astronomers and Community Colleges Across the Nation
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/lunar-challenge-winner-tests-technology-in-nasa-thermal-vacuum-chamber/" >🔗</a> **[NASA]** Lunar Challenge Winner Tests Technology in NASA Thermal Vacuum Chamber
 - <a href="https://www.nasa.gov/directorates/armd/2025-dwu-hs-design-challenge/" >🔗</a> **[NASA]** 2025-2026 DWU: High School Engineering Challenge
-- <a href="https://www.nasa.gov/directorates/armd/2025-2026-dwu-middle-school-aviation-challenge/" >🔗</a> **[NASA]** 2025-2026 DWU: Middle School Aviation Challenge
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250927T153059">2025-09-27 15:30:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250927T160117">2025-09-27 16:01:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
