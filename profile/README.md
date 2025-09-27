@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/arianegroup-awards-contract-for-components-of-27-ariane-6-rockets/" >🔗</a> **[European Spaceflight]** ArianeGroup Awards Contract for Components of 27 Ariane 6 Rockets
 - <a href="https://spacenews.com/left-of-launch-becomes-central-focus-in-next-generation-missile-defense/" >🔗</a> **[SpaceNews]** ‘Left of launch’ becomes central focus in next-generation missile defense
 - <a href="https://science.nasa.gov/learning-resources/for-professionals/courses-curriculums/from-city-lights-to-moonlight-nasa-training-shows-how-urban-parks-can-connect-communities-with-space-science/" >🔗</a> **[NASA]** From City Lights to Moonlight: NASA Training Shows How Urban Parks Can Connect Communities with Space Science
 - <a href="https://www.nasa.gov/news-release/nasa-awards-custodial-landscaping-services-contract/" >🔗</a> **[NASA]** NASA Awards Custodial, Landscaping Services Contract
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/lunar-challenge-winner-tests-technology-in-nasa-thermal-vacuum-chamber/" >🔗</a> **[NASA]** Lunar Challenge Winner Tests Technology in NASA Thermal Vacuum Chamber
 - <a href="https://www.nasa.gov/directorates/armd/2025-dwu-hs-design-challenge/" >🔗</a> **[NASA]** 2025-2026 DWU: High School Engineering Challenge
 - <a href="https://www.nasa.gov/directorates/armd/2025-2026-dwu-middle-school-aviation-challenge/" >🔗</a> **[NASA]** 2025-2026 DWU: Middle School Aviation Challenge
-- <a href="https://www.nasa.gov/image-article/golden-lake/" >🔗</a> **[NASA]** Golden Lake
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250927T060142">2025-09-27 06:01:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250927T063555">2025-09-27 06:35:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
