@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-28-october-4-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy September 28-October 4, 2025
 - <a href="https://spaceflightnow.com/2025/09/28/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://spaceflightnow.com/2025/09/28/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://spacenews.com/galactic-energy-secures-336-million-nears-debut-of-new-reusable-and-solid-rockets/" >🔗</a> **[SpaceNews]** Galactic Energy secures $336 million, nears debut of new reusable and solid rockets
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/nasa-marshall-director-steps-down/" >🔗</a> **[SpaceNews]** NASA Marshall director steps down
 - <a href="https://spacenews.com/china-boosts-broadband-iot-and-weather-satellite-fleets-with-flurry-of-launches/" >🔗</a> **[SpaceNews]** China boosts broadband, IoT and weather satellite fleets with flurry of launches
 - <a href="https://europeanspaceflight.com/arianegroup-awards-contract-for-components-of-27-ariane-6-rockets/" >🔗</a> **[European Spaceflight]** ArianeGroup Awards Contract for Components of 27 Ariane 6 Rockets
-- <a href="https://spacenews.com/left-of-launch-becomes-central-focus-in-next-generation-missile-defense/" >🔗</a> **[SpaceNews]** ‘Left of launch’ becomes central focus in next-generation missile defense
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250928T193100">2025-09-28 19:31:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250928T200127">2025-09-28 20:01:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
