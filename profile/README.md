@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/iais-game-changing-communication-satellites-revolutionizing-global-connectivity/" >🔗</a> **[SpaceNews]** IAI’s Game-Changing Communication Satellites: Revolutionizing Global Connectivity
 - <a href="https://spacenews.com/blue-origin-to-increase-new-shepard-flight-rate-and-consider-new-spaceports/" >🔗</a> **[SpaceNews]** Blue Origin to increase New Shepard flight rate and consider new spaceports
 - <a href="https://spacenews.com/purdue-university-to-fly-dedicated-suborbital-research-mission-with-virgin-galactic/" >🔗</a> **[SpaceNews]** Purdue University to fly dedicated suborbital research mission with Virgin Galactic
 - <a href="https://spacenews.com/nasa-marshall-director-steps-down/" >🔗</a> **[SpaceNews]** NASA Marshall director steps down
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/learning-resources/for-professionals/courses-curriculums/from-city-lights-to-moonlight-nasa-training-shows-how-urban-parks-can-connect-communities-with-space-science/" >🔗</a> **[NASA]** From City Lights to Moonlight: NASA Training Shows How Urban Parks Can Connect Communities with Space Science
 - <a href="https://www.nasa.gov/news-release/nasa-awards-custodial-landscaping-services-contract/" >🔗</a> **[NASA]** NASA Awards Custodial, Landscaping Services Contract
 - <a href="https://spacenews.com/beyond-gravity-to-supply-robotic-arm-thrusters-for-swissto12-small-geos/" >🔗</a> **[SpaceNews]** Beyond Gravity to supply robotic arm thrusters for Swissto12 small GEOs
-- <a href="https://www.nasaspaceflight.com/2025/09/starship-cape-progress/" >🔗</a> **[NASASpaceflight]** Preparation for East Coast Starship debut in 2026 continue to make progress
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250928T120159">2025-09-28 12:01:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250928T124241">2025-09-28 12:42:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
