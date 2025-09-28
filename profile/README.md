@@ -90,8 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/solstar-wins-nasa-contract-to-develop-lunar-wi-fi-systems/" >🔗</a> **[SpaceNews]** Solstar wins NASA contract to develop lunar Wi-Fi systems
+- <a href="https://spacenews.com/pentagon-awards-new-contracts-to-boost-solid-rocket-motor-output/" >🔗</a> **[SpaceNews]** Pentagon awards new contracts to boost solid rocket motor output
 - <a href="https://spacenews.com/eartheye-to-offer-tasking-of-satellites-looking-up-and-down/" >🔗</a> **[SpaceNews]** Eartheye to offer tasking of satellites looking up and down
+- <a href="https://spacenews.com/solstar-wins-nasa-contract-to-develop-lunar-wi-fi-systems/" >🔗</a> **[SpaceNews]** Solstar wins NASA contract to develop lunar Wi-Fi systems
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-28-october-4-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy September 28-October 4, 2025
 - <a href="https://spaceflightnow.com/2025/09/28/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://spaceflightnow.com/2025/09/28/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/iais-game-changing-communication-satellites-revolutionizing-global-connectivity/" >🔗</a> **[SpaceNews]** IAI’s Game-Changing Communication Satellites: Revolutionizing Global Connectivity
 - <a href="https://spacenews.com/blue-origin-to-increase-new-shepard-flight-rate-and-consider-new-spaceports/" >🔗</a> **[SpaceNews]** Blue Origin to increase New Shepard flight rate and consider new spaceports
 - <a href="https://spacenews.com/purdue-university-to-fly-dedicated-suborbital-research-mission-with-virgin-galactic/" >🔗</a> **[SpaceNews]** Purdue University to fly dedicated suborbital research mission with Virgin Galactic
-- <a href="https://spacenews.com/nasa-marshall-director-steps-down/" >🔗</a> **[SpaceNews]** NASA Marshall director steps down
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250928T220118">2025-09-28 22:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250928T223235">2025-09-28 22:32:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
