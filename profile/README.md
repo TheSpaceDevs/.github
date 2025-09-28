@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/09/28/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://spacenews.com/galactic-energy-secures-336-million-nears-debut-of-new-reusable-and-solid-rockets/" >🔗</a> **[SpaceNews]** Galactic Energy secures $336 million, nears debut of new reusable and solid rockets
 - <a href="https://spacenews.com/iais-game-changing-communication-satellites-revolutionizing-global-connectivity/" >🔗</a> **[SpaceNews]** IAI’s Game-Changing Communication Satellites: Revolutionizing Global Connectivity
 - <a href="https://spacenews.com/blue-origin-to-increase-new-shepard-flight-rate-and-consider-new-spaceports/" >🔗</a> **[SpaceNews]** Blue Origin to increase New Shepard flight rate and consider new spaceports
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/arianegroup-awards-contract-for-components-of-27-ariane-6-rockets/" >🔗</a> **[European Spaceflight]** ArianeGroup Awards Contract for Components of 27 Ariane 6 Rockets
 - <a href="https://spacenews.com/left-of-launch-becomes-central-focus-in-next-generation-missile-defense/" >🔗</a> **[SpaceNews]** ‘Left of launch’ becomes central focus in next-generation missile defense
 - <a href="https://science.nasa.gov/learning-resources/for-professionals/courses-curriculums/from-city-lights-to-moonlight-nasa-training-shows-how-urban-parks-can-connect-communities-with-space-science/" >🔗</a> **[NASA]** From City Lights to Moonlight: NASA Training Shows How Urban Parks Can Connect Communities with Space Science
-- <a href="https://www.nasa.gov/news-release/nasa-awards-custodial-landscaping-services-contract/" >🔗</a> **[NASA]** NASA Awards Custodial, Landscaping Services Contract
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250928T170111">2025-09-28 17:01:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250928T173102">2025-09-28 17:31:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
