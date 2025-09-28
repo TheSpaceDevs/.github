@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/blue-origin-to-increase-new-shepard-flight-rate-and-consider-new-spaceports/" >🔗</a> **[SpaceNews]** Blue Origin to increase New Shepard flight rate and consider new spaceports
 - <a href="https://spacenews.com/purdue-university-to-fly-dedicated-suborbital-research-mission-with-virgin-galactic/" >🔗</a> **[SpaceNews]** Purdue University to fly dedicated suborbital research mission with Virgin Galactic
 - <a href="https://spacenews.com/nasa-marshall-director-steps-down/" >🔗</a> **[SpaceNews]** NASA Marshall director steps down
 - <a href="https://spacenews.com/china-boosts-broadband-iot-and-weather-satellite-fleets-with-flurry-of-launches/" >🔗</a> **[SpaceNews]** China boosts broadband, IoT and weather satellite fleets with flurry of launches
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-awards-custodial-landscaping-services-contract/" >🔗</a> **[NASA]** NASA Awards Custodial, Landscaping Services Contract
 - <a href="https://spacenews.com/beyond-gravity-to-supply-robotic-arm-thrusters-for-swissto12-small-geos/" >🔗</a> **[SpaceNews]** Beyond Gravity to supply robotic arm thrusters for Swissto12 small GEOs
 - <a href="https://www.nasaspaceflight.com/2025/09/starship-cape-progress/" >🔗</a> **[NASASpaceflight]** Preparation for East Coast Starship debut in 2026 continue to make progress
-- <a href="https://science.nasa.gov/learning-resources/for-colleges-universities/nasa-helps-connect-astronomers-and-community-colleges-across-the-nation/" >🔗</a> **[NASA]** NASA Helps Connect Astronomers and Community Colleges Across the Nation
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250928T073058">2025-09-28 07:30:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250928T080158">2025-09-28 08:01:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
