@@ -19,27 +19,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Long March 2D | Unknown Payload**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Xichang_Satellite_Launch_Center">Launch Complex 3 (LC-3/LA-1)</a>, Xichang Satellite Launch Center, People's Republic of China*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250929T025000">2025-09-29 02:50:00 UTC</a>.  Until
-then, this pad will have been used for 102
-out of 231 launches from this location. The launch status is currently
+**HASTE | JUSTIN**. It is scheduled to be launched by *Rocket Lab*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+from *<a href="None">Rocket Lab Launch Complex 2 (Launch Area 0 C)</a>, Wallops Flight Facility, Virginia, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250929T234500">2025-09-29 23:45:00 UTC</a>.  Until
+then, this pad will have been used for 7
+out of 81 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Unknown* and the payload will be injected
-into *an Unknown
-(N/A)*.
+*Government/Top Secret* and the payload will be injected
+into *a Suborbital
+(Sub)*.
 <br>
 <blockquote>
-  Details TBD.
+  Sub-orbital launch under Rocket Lab’s Hypersonic Accelerator Suborbital Test Electron (HASTE) program, details TBD.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Long_March_(rocket_family)" >
+  <a href="https://en.wikipedia.org/wiki/Rocket_Lab_Electron" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.247209,102.02917" >
+  <a href="https://www.google.com/maps?q=37.833262,-75.488235" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -89,6 +89,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/italys-crossroads-build-its-own-satellites-or-lean-on-starlink-while-waiting-for-iris%c2%b2/" >🔗</a> **[SpaceNews]** Italy’s crossroads: build its own satellites or lean on Starlink while waiting for IRIS²
 - <a href="https://www.nasaspaceflight.com/2025/09/hubble-white-dwarf-pluto/" >🔗</a> **[NASASpaceflight]** Hubble observes dead star devouring Pluto-like object
 - <a href="https://spacenews.com/pentagon-awards-new-contracts-to-boost-solid-rocket-motor-output/" >🔗</a> **[SpaceNews]** Pentagon awards new contracts to boost solid rocket motor output
 - <a href="https://spacenews.com/solstar-wins-nasa-contract-to-develop-lunar-wi-fi-systems/" >🔗</a> **[SpaceNews]** Solstar wins NASA contract to develop lunar Wi-Fi systems
@@ -98,16 +99,17 @@ into *an Unknown
 - <a href="https://spaceflightnow.com/2025/09/28/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://spacenews.com/galactic-energy-secures-336-million-nears-debut-of-new-reusable-and-solid-rockets/" >🔗</a> **[SpaceNews]** Galactic Energy secures $336 million, nears debut of new reusable and solid rockets
 - <a href="https://spacenews.com/iais-game-changing-communication-satellites-revolutionizing-global-connectivity/" >🔗</a> **[SpaceNews]** IAI’s Game-Changing Communication Satellites: Revolutionizing Global Connectivity
-- <a href="https://spacenews.com/blue-origin-to-increase-new-shepard-flight-rate-and-consider-new-spaceports/" >🔗</a> **[SpaceNews]** Blue Origin to increase New Shepard flight rate and consider new spaceports
 
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2025/09/launch-roundup-092225/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Kuiper, Starlink, IMAP headline launch manifest
+- <a href="https://www.nasaspaceflight.com/2025/07/launch-roundup-072825/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX to launch Crew-11 to ISS; ISRO and NASA launch new SAR satellite
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250929T031559">2025-09-29 03:15:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250929T034015">2025-09-29 03:40:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
