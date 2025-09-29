@@ -90,16 +90,16 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/09/launch-roundup-092925/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9 launches Starlink and Kuiper satellites
 - <a href="https://science.nasa.gov/uncategorized/new-file-download-process-for-large-requestspsi-new-file-download-process/" >🔗</a> **[NASA]** New File Download Process for PSI Large Requests
 - <a href="https://science.nasa.gov/uncategorized/rsd-presented-at-issrdc/" >🔗</a> **[NASA]** Joe A. Adam Presents Ring Sheared Drop (RSD) Research at 2025 ISSRDC
 - <a href="https://www.nasa.gov/image-article/hubble-surveys-cloudy-cluster/" >🔗</a> **[NASA]** Hubble Surveys Cloudy Cluster
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/astronaut-candidates-get-to-work-at-johnson-space-center/" >🔗</a> **[NASA]** Astronaut Candidates Get to Work at Johnson Space Center
-- <a href="https://spacenews.com/startups-radiation-shield-tech-could-bring-high-performance-ai-chips-to-space/" >🔗</a> **[SpaceNews]** Startup’s radiation shield tech could bring high-performance AI chips to space
 - <a href="https://science.nasa.gov/centers-and-facilities/goddard/nasas-webb-telescope-studies-moon-forming-disk-around-massive-planet/" >🔗</a> **[NASA]** NASA’s Webb Telescope Studies Moon-Forming Disk Around Massive Planet
+- <a href="https://spacenews.com/startups-radiation-shield-tech-could-bring-high-performance-ai-chips-to-space/" >🔗</a> **[SpaceNews]** Startup’s radiation shield tech could bring high-performance AI chips to space
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_studies_moon-forming_disc_around_massive_planet" >🔗</a> **[ESA]** Webb studies moon-forming disc around massive planet
 - <a href="https://science.nasa.gov/missions/webb/nasas-webb-telescope-studies-moon-forming-disk-around-massive-planet/" >🔗</a> **[NASA]** NASA’s Webb Telescope Studies Moon-Forming Disk Around Massive Planet
 - <a href="https://spacenews.com/a-perspective-on-space-preparing-for-2075/" >🔗</a> **[SpaceNews]** A perspective on space: Preparing for 2075
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/09/IAC_2025_-_One-to-one_with_ESA_Director_General_Josef_Aschbacher" >🔗</a> **[ESA]** IAC 2025 - One-to-one with ESA Director General Josef Aschbacher
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250929T210112">2025-09-29 21:01:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250929T213105">2025-09-29 21:31:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
