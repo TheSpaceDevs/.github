@@ -89,6 +89,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/a-perspective-on-space-preparing-for-2075/" >🔗</a> **[SpaceNews]** A perspective on space: Preparing for 2075
 - <a href="https://spacenews.com/chinas-geovis-insighter-technology-to-launch-ssa-constellation/" >🔗</a> **[SpaceNews]** China’s Geovis Insighter Technology to launch SSA constellation
 - <a href="https://spacenews.com/moog-completes-high-velocity-propulsion-systems-begins-next-phase-of-spacecraft-integration/" >🔗</a> **[SpaceNews]** Moog Completes High-Velocity Propulsion Systems, Begins Next Phase of Spacecraft Integration
 - <a href="https://spacenews.com/esa-and-avio-to-study-reusable-upper-stage/" >🔗</a> **[SpaceNews]** ESA and Avio to study reusable upper stage
@@ -98,7 +99,6 @@ into *a Suborbital
 - <a href="https://www.nasaspaceflight.com/2025/09/hubble-white-dwarf-pluto/" >🔗</a> **[NASASpaceflight]** Hubble observes dead star devouring Pluto-like object
 - <a href="https://spacenews.com/pentagon-awards-new-contracts-to-boost-solid-rocket-motor-output/" >🔗</a> **[SpaceNews]** Pentagon awards new contracts to boost solid rocket motor output
 - <a href="https://spacenews.com/solstar-wins-nasa-contract-to-develop-lunar-wi-fi-systems/" >🔗</a> **[SpaceNews]** Solstar wins NASA contract to develop lunar Wi-Fi systems
-- <a href="https://spacenews.com/eartheye-to-offer-tasking-of-satellites-looking-up-and-down/" >🔗</a> **[SpaceNews]** Eartheye to offer tasking of satellites looking up and down
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250929T130912">2025-09-29 13:09:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250929T133750">2025-09-29 13:37:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
