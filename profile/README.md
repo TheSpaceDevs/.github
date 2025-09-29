@@ -47,7 +47,7 @@ into *a Suborbital
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250930T234500">2025-09-30 23:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=HASTE | JUSTIN&location=Wallops Flight Facility, Virginia, USA&dates=20250930T234500Z%2F20251001T050000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **HASTE | JUSTIN** from Wallops Flight Facility, Virginia, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251003T130000">2025-10-03 13:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-39&location=Vandenberg SFB, CA, USA&dates=20251003T130000Z%2F20251003T170000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-39** from Vandenberg SFB, CA, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251004T034300">2025-10-04 03:43:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Project Kuiper (KF-03)&location=Cape Canaveral SFS, FL, USA&dates=20251004T034300Z%2F20251004T070000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Project Kuiper (KF-03)** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251004T034300">2025-10-04 03:43:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Project Kuiper (KF-03)&location=Kennedy Space Center, FL, USA&dates=20251004T034300Z%2F20251004T070000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Project Kuiper (KF-03)** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251004T051700">2025-10-04 05:17:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-59&location=Cape Canaveral SFS, FL, USA&dates=20251004T051700Z%2F20251004T091700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-59** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251007T100100">2025-10-07 10:01:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-52&location=Cape Canaveral SFS, FL, USA&dates=20251007T100100Z%2F20251007T140100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-52** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251008T123000">2025-10-08 12:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Shepard | NS-36&location=Corn Ranch, Van Horn, TX, USA&dates=20251008T123000Z%2F20251008T203000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Shepard | NS-36** from Corn Ranch, Van Horn, TX, USA.
@@ -90,16 +90,16 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/uncategorized/new-file-download-process-for-large-requestspsi-new-file-download-process/" >🔗</a> **[NASA]** New File Download Process for PSI Large Requests
+- <a href="https://science.nasa.gov/uncategorized/rsd-presented-at-issrdc/" >🔗</a> **[NASA]** Joe A. Adam Presents Ring Sheared Drop (RSD) Research at 2025 ISSRDC
 - <a href="https://www.nasa.gov/image-article/hubble-surveys-cloudy-cluster/" >🔗</a> **[NASA]** Hubble Surveys Cloudy Cluster
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/astronaut-candidates-get-to-work-at-johnson-space-center/" >🔗</a> **[NASA]** Astronaut Candidates Get to Work at Johnson Space Center
 - <a href="https://spacenews.com/startups-radiation-shield-tech-could-bring-high-performance-ai-chips-to-space/" >🔗</a> **[SpaceNews]** Startup’s radiation shield tech could bring high-performance AI chips to space
-- <a href="https://science.nasa.gov/missions/webb/nasas-webb-telescope-studies-moon-forming-disk-around-massive-planet/" >🔗</a> **[NASA]** NASA’s Webb Telescope Studies Moon-Forming Disk Around Massive Planet
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_studies_moon-forming_disc_around_massive_planet" >🔗</a> **[ESA]** Webb studies moon-forming disc around massive planet
 - <a href="https://science.nasa.gov/centers-and-facilities/goddard/nasas-webb-telescope-studies-moon-forming-disk-around-massive-planet/" >🔗</a> **[NASA]** NASA’s Webb Telescope Studies Moon-Forming Disk Around Massive Planet
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_studies_moon-forming_disc_around_massive_planet" >🔗</a> **[ESA]** Webb studies moon-forming disc around massive planet
+- <a href="https://science.nasa.gov/missions/webb/nasas-webb-telescope-studies-moon-forming-disk-around-massive-planet/" >🔗</a> **[NASA]** NASA’s Webb Telescope Studies Moon-Forming Disk Around Massive Planet
 - <a href="https://spacenews.com/a-perspective-on-space-preparing-for-2075/" >🔗</a> **[SpaceNews]** A perspective on space: Preparing for 2075
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/09/IAC_2025_-_One-to-one_with_ESA_Director_General_Josef_Aschbacher" >🔗</a> **[ESA]** IAC 2025 - One-to-one with ESA Director General Josef Aschbacher
-- <a href="https://spacenews.com/chinas-geovis-insighter-technology-to-launch-ssa-constellation/" >🔗</a> **[SpaceNews]** China’s Geovis Insighter Technology to launch SSA constellation
-- <a href="https://spacenews.com/moog-completes-high-velocity-propulsion-systems-begins-next-phase-of-spacecraft-integration/" >🔗</a> **[SpaceNews]** Moog Completes High-Velocity Propulsion Systems, Begins Next Phase of Spacecraft Integration
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250929T190127">2025-09-29 19:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250929T193103">2025-09-29 19:31:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
