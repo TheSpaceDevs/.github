@@ -23,7 +23,7 @@ The next space launch, retrieved from our
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
 from *<a href="None">Rocket Lab Launch Complex 2 (Launch Area 0 C)</a>, Wallops Flight Facility, Virginia, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250929T234500">2025-09-29 23:45:00 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250930T234500">2025-09-30 23:45:00 UTC</a>.  Until
 then, this pad will have been used for 7
 out of 81 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
@@ -45,7 +45,7 @@ into *a Suborbital
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250929T234500">2025-09-29 23:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=HASTE | JUSTIN&location=Wallops Flight Facility, Virginia, USA&dates=20250929T234500Z%2F20250930T050000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **HASTE | JUSTIN** from Wallops Flight Facility, Virginia, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250930T234500">2025-09-30 23:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=HASTE | JUSTIN&location=Wallops Flight Facility, Virginia, USA&dates=20250930T234500Z%2F20251001T050000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **HASTE | JUSTIN** from Wallops Flight Facility, Virginia, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251003T053900">2025-10-03 05:39:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-59&location=Cape Canaveral SFS, FL, USA&dates=20251003T053900Z%2F20251003T093900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-59** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251003T130000">2025-10-03 13:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-39&location=Vandenberg SFB, CA, USA&dates=20251003T130000Z%2F20251003T170000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-39** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251004T034300">2025-10-04 03:43:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Project Kuiper (KF-03)&location=Cape Canaveral SFS, FL, USA&dates=20251004T034300Z%2F20251004T070000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Project Kuiper (KF-03)** from Cape Canaveral SFS, FL, USA.
@@ -89,6 +89,8 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/esa-and-avio-to-study-reusable-upper-stage/" >🔗</a> **[SpaceNews]** ESA and Avio to study reusable upper stage
+- <a href="https://europeanspaceflight.com/avio-wins-e40m-esa-contract-to-design-reusable-upper-stage-demo/" >🔗</a> **[European Spaceflight]** Avio Wins €40M ESA Contract to Design Reusable Upper Stage Demo
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/ESA_and_Avio_sign_contract_for_a_reuseable_upper_stage_demonstration_mission" >🔗</a> **[ESA]** ESA and Avio sign contract for a reuseable upper stage demonstration mission
 - <a href="https://spacenews.com/italys-crossroads-build-its-own-satellites-or-lean-on-starlink-while-waiting-for-iris%c2%b2/" >🔗</a> **[SpaceNews]** Italy’s crossroads: build its own satellites or lean on Starlink while waiting for IRIS²
 - <a href="https://www.nasaspaceflight.com/2025/09/hubble-white-dwarf-pluto/" >🔗</a> **[NASASpaceflight]** Hubble observes dead star devouring Pluto-like object
@@ -97,8 +99,6 @@ into *a Suborbital
 - <a href="https://spacenews.com/eartheye-to-offer-tasking-of-satellites-looking-up-and-down/" >🔗</a> **[SpaceNews]** Eartheye to offer tasking of satellites looking up and down
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-28-october-4-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy September 28-October 4, 2025
 - <a href="https://spaceflightnow.com/2025/09/28/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
-- <a href="https://spaceflightnow.com/2025/09/28/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
-- <a href="https://spacenews.com/galactic-energy-secures-336-million-nears-debut-of-new-reusable-and-solid-rockets/" >🔗</a> **[SpaceNews]** Galactic Energy secures $336 million, nears debut of new reusable and solid rockets
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250929T110137">2025-09-29 11:01:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250929T113101">2025-09-29 11:31:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
