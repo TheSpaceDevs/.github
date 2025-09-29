@@ -89,6 +89,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/moog-completes-high-velocity-propulsion-systems-begins-next-phase-of-spacecraft-integration/" >🔗</a> **[SpaceNews]** Moog Completes High-Velocity Propulsion Systems, Begins Next Phase of Spacecraft Integration
 - <a href="https://spacenews.com/esa-and-avio-to-study-reusable-upper-stage/" >🔗</a> **[SpaceNews]** ESA and Avio to study reusable upper stage
 - <a href="https://europeanspaceflight.com/avio-wins-e40m-esa-contract-to-design-reusable-upper-stage-demo/" >🔗</a> **[European Spaceflight]** Avio Wins €40M ESA Contract to Design Reusable Upper Stage Demo
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/ESA_and_Avio_sign_contract_for_a_reuseable_upper_stage_demonstration_mission" >🔗</a> **[ESA]** ESA and Avio sign contract for a reuseable upper stage demonstration mission
@@ -98,7 +99,6 @@ into *a Suborbital
 - <a href="https://spacenews.com/solstar-wins-nasa-contract-to-develop-lunar-wi-fi-systems/" >🔗</a> **[SpaceNews]** Solstar wins NASA contract to develop lunar Wi-Fi systems
 - <a href="https://spacenews.com/eartheye-to-offer-tasking-of-satellites-looking-up-and-down/" >🔗</a> **[SpaceNews]** Eartheye to offer tasking of satellites looking up and down
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-28-october-4-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy September 28-October 4, 2025
-- <a href="https://spaceflightnow.com/2025/09/28/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250929T113101">2025-09-29 11:31:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250929T120211">2025-09-29 12:02:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
