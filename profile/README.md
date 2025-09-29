@@ -89,16 +89,16 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/centers-and-facilities/goddard/nasas-webb-telescope-studies-moon-forming-disk-around-massive-planet/" >🔗</a> **[NASA]** NASA’s Webb Telescope Studies Moon-Forming Disk Around Massive Planet
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_studies_moon-forming_disc_around_massive_planet" >🔗</a> **[ESA]** Webb studies moon-forming disc around massive planet
 - <a href="https://spacenews.com/a-perspective-on-space-preparing-for-2075/" >🔗</a> **[SpaceNews]** A perspective on space: Preparing for 2075
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/09/IAC_2025_-_One-to-one_with_ESA_Director_General_Josef_Aschbacher" >🔗</a> **[ESA]** IAC 2025 - One-to-one with ESA Director General Josef Aschbacher
 - <a href="https://spacenews.com/chinas-geovis-insighter-technology-to-launch-ssa-constellation/" >🔗</a> **[SpaceNews]** China’s Geovis Insighter Technology to launch SSA constellation
 - <a href="https://spacenews.com/moog-completes-high-velocity-propulsion-systems-begins-next-phase-of-spacecraft-integration/" >🔗</a> **[SpaceNews]** Moog Completes High-Velocity Propulsion Systems, Begins Next Phase of Spacecraft Integration
 - <a href="https://spacenews.com/esa-and-avio-to-study-reusable-upper-stage/" >🔗</a> **[SpaceNews]** ESA and Avio to study reusable upper stage
 - <a href="https://europeanspaceflight.com/avio-wins-e40m-esa-contract-to-design-reusable-upper-stage-demo/" >🔗</a> **[European Spaceflight]** Avio Wins €40M ESA Contract to Design Reusable Upper Stage Demo
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/ESA_and_Avio_sign_contract_for_a_reuseable_upper_stage_demonstration_mission" >🔗</a> **[ESA]** ESA and Avio sign contract for a reuseable upper stage demonstration mission
 - <a href="https://spacenews.com/italys-crossroads-build-its-own-satellites-or-lean-on-starlink-while-waiting-for-iris%c2%b2/" >🔗</a> **[SpaceNews]** Italy’s crossroads: build its own satellites or lean on Starlink while waiting for IRIS²
-- <a href="https://www.nasaspaceflight.com/2025/09/hubble-white-dwarf-pluto/" >🔗</a> **[NASASpaceflight]** Hubble observes dead star devouring Pluto-like object
-- <a href="https://spacenews.com/pentagon-awards-new-contracts-to-boost-solid-rocket-motor-output/" >🔗</a> **[SpaceNews]** Pentagon awards new contracts to boost solid rocket motor output
-- <a href="https://spacenews.com/solstar-wins-nasa-contract-to-develop-lunar-wi-fi-systems/" >🔗</a> **[SpaceNews]** Solstar wins NASA contract to develop lunar Wi-Fi systems
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250929T140119">2025-09-29 14:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250929T143522">2025-09-29 14:35:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
