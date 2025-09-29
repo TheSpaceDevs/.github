@@ -89,6 +89,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/ESA_and_Avio_sign_contract_for_a_reuseable_upper_stage_demonstration_mission" >🔗</a> **[ESA]** ESA and Avio sign contract for a reuseable upper stage demonstration mission
 - <a href="https://spacenews.com/italys-crossroads-build-its-own-satellites-or-lean-on-starlink-while-waiting-for-iris%c2%b2/" >🔗</a> **[SpaceNews]** Italy’s crossroads: build its own satellites or lean on Starlink while waiting for IRIS²
 - <a href="https://www.nasaspaceflight.com/2025/09/hubble-white-dwarf-pluto/" >🔗</a> **[NASASpaceflight]** Hubble observes dead star devouring Pluto-like object
 - <a href="https://spacenews.com/pentagon-awards-new-contracts-to-boost-solid-rocket-motor-output/" >🔗</a> **[SpaceNews]** Pentagon awards new contracts to boost solid rocket motor output
@@ -98,7 +99,6 @@ into *a Suborbital
 - <a href="https://spaceflightnow.com/2025/09/28/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://spaceflightnow.com/2025/09/28/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://spacenews.com/galactic-energy-secures-336-million-nears-debut-of-new-reusable-and-solid-rockets/" >🔗</a> **[SpaceNews]** Galactic Energy secures $336 million, nears debut of new reusable and solid rockets
-- <a href="https://spacenews.com/iais-game-changing-communication-satellites-revolutionizing-global-connectivity/" >🔗</a> **[SpaceNews]** IAI’s Game-Changing Communication Satellites: Revolutionizing Global Connectivity
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250929T080157">2025-09-29 08:01:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250929T083832">2025-09-29 08:38:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
