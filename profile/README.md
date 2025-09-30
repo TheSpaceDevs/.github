@@ -90,16 +90,16 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/planet-to-open-berlin-manufacturing-site-following-e240m-contract/" >🔗</a> **[European Spaceflight]** Planet to Open Berlin Manufacturing Site Following €240M Contract
+- <a href="https://science.nasa.gov/uncategorized/osdr-and-psi-unveil-new-consolidated-website/" >🔗</a> **[NASA]** OSDR and PSI Unveil New Consolidated Website
+- <a href="https://www.nasa.gov/missions/station/iss-research/international-space-station-launching-nasa-and-humanity-into-deep-space/" >🔗</a> **[NASA]** International Space Station: Launching NASA and Humanity into Deep Space
+- <a href="https://science.nasa.gov/science-research/heliophysics/making-high-fidelity-fluxgate-cores-for-space-science-and-space-weather-missions/" >🔗</a> **[NASA]** Making High Fidelity Fluxgate Cores for Space Science and Space Weather Missions
 - <a href="https://spacenews.com/viasat-3-f2-delivered-to-florida-for-october-launch/" >🔗</a> **[SpaceNews]** ViaSat-3 F2 delivered to Florida for October launch
 - <a href="https://www.nasaspaceflight.com/2025/09/spacex-intensifies-testing-pad-2-starbase/" >🔗</a> **[NASASpaceflight]** SpaceX intensifies testing to ready Pad 2 at Starbase
 - <a href="https://www.esa.int/About_Us/ESA_Publications/ESA_Impact_2025_-_Q3" >🔗</a> **[ESA]** ESA Impact
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Gaia/Gaia_discovers_our_galaxy_s_great_wave" >🔗</a> **[ESA]** Gaia discovers our galaxy’s great wave
 - <a href="https://spacenews.com/canadian-space-agency-offers-funding-for-dual-use-technologies/" >🔗</a> **[SpaceNews]** Canadian Space Agency offers funding for dual-use technologies
 - <a href="https://spacenews.com/kayhan-space-releases-free-software-to-speed-up-satellite-visualization/" >🔗</a> **[SpaceNews]** Kayhan Space releases free software to speed up satellite visualization
-- <a href="https://www.esa.int/About_Us/Exhibitions/ESA_at_IAC_2025_-_highlights_from_Day_2" >🔗</a> **[ESA]** ESA at IAC 2025 - highlights from Day 2
-- <a href="https://spaceflightnow.com/2025/09/30/axiom-space-taps-portuguese-physiologist-as-first-project-astronaut/" >🔗</a> **[Spaceflight Now]** Axiom Space taps Portuguese physiologist as first ‘Project Astronaut’
-- <a href="https://spacenews.com/government-investment-remains-key-to-creating-a-circular-space-economy/" >🔗</a> **[SpaceNews]** Government investment remains key to creating a circular space economy
-- <a href="https://spacenews.com/firefly-alpha-booster-destroyed-in-ground-test/" >🔗</a> **[SpaceNews]** Firefly Alpha booster destroyed in ground test
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250930T150114">2025-09-30 15:01:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250930T153247">2025-09-30 15:32:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
