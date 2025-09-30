@@ -104,13 +104,14 @@ into *a Suborbital
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2025/09/launch-roundup-092925/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9 launches Starlink and Kuiper satellites
 - <a href="https://www.nasaspaceflight.com/2025/09/launch-roundup-092225/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Kuiper, Starlink, IMAP headline launch manifest
 - <a href="https://www.nasaspaceflight.com/2025/07/launch-roundup-072825/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX to launch Crew-11 to ISS; ISRO and NASA launch new SAR satellite
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250930T070155">2025-09-30 07:01:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250930T073229">2025-09-30 07:32:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
