@@ -90,6 +90,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/09/esa-avio-echoing-starship/" >🔗</a> **[NASASpaceflight]** ESA and Avio Unveil Plans for Reusable Upper Stage Rocket, Echoing SpaceX’s Starship Design
 - <a href="https://spacenews.com/varda-space-and-southern-launch-agree-to-more-capsule-landings-in-australia/" >🔗</a> **[SpaceNews]** Varda Space and Southern Launch agree to more capsule landings in Australia
 - <a href="https://www.nasa.gov/news-release/nasa-blue-origin-invite-media-to-attend-mars-mission-launch/" >🔗</a> **[NASA]** NASA, Blue Origin Invite Media to Attend Mars Mission Launch
 - <a href="https://www.nasa.gov/news-release/nasa-international-partners-deepen-commitment-to-artemis-accords/" >🔗</a> **[NASA]** NASA, International Partners Deepen Commitment to Artemis Accords
@@ -99,7 +100,6 @@ into *a Suborbital
 - <a href="https://science.nasa.gov/learning-resources/science-activation/helio-highlights-october-2025/" >🔗</a> **[NASA]** Helio Highlights: October 2025
 - <a href="https://www.nasa.gov/missions/artemis/nasa-signs-us-australia-agreement-on-aeronautics-space-cooperation/" >🔗</a> **[NASA]** NASA signs US-Australia Agreement on Aeronautics, Space Cooperation
 - <a href="https://spacenews.com/spacexs-d2d-deal-spurs-space-bulls/" >🔗</a> **[SpaceNews]** SpaceX’s D2D deal spurs space bulls
-- <a href="https://science.nasa.gov/universe/exoplanets/discovery-alert-baby-planet-photographed-in-a-ring-around-a-star-for-the-first-time/" >🔗</a> **[NASA]** Discovery Alert: ‘Baby’ Planet Photographed in a Ring around a Star for the First Time!
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250930T230145">2025-09-30 23:01:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250930T233059">2025-09-30 23:30:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
