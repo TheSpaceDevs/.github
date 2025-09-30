@@ -90,6 +90,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/no-deal-yet-to-avert-shutdown-tomorrow-night/" >🔗</a> **[SpacePolicyOnline.com]** No Deal Yet To Avert Shutdown Tomorrow Night
 - <a href="https://spacenews.com/report-claims-nasa-taking-illegal-steps-to-implement-budget-proposal/" >🔗</a> **[SpaceNews]** Report claims NASA taking illegal steps to implement budget proposal
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4668-4674-winding-our-way-along/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4668-4674: Winding Our Way Along
 - <a href="https://spaceflightnow.com/2025/09/30/ground-testing-anomaly-destroys-firefly-aerospaces-alpha-booster-intended-for-next-flight/" >🔗</a> **[Spaceflight Now]** Ground testing anomaly destroys Firefly Aerospace’s Alpha booster intended for next flight
@@ -99,7 +100,6 @@ into *a Suborbital
 - <a href="https://www.nasa.gov/image-article/hubble-surveys-cloudy-cluster/" >🔗</a> **[NASA]** Hubble Surveys Cloudy Cluster
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/astronaut-candidates-get-to-work-at-johnson-space-center/" >🔗</a> **[NASA]** Astronaut Candidates Get to Work at Johnson Space Center
 - <a href="https://science.nasa.gov/centers-and-facilities/goddard/nasas-webb-telescope-studies-moon-forming-disk-around-massive-planet/" >🔗</a> **[NASA]** NASA’s Webb Telescope Studies Moon-Forming Disk Around Massive Planet
-- <a href="https://spacenews.com/startups-radiation-shield-tech-could-bring-high-performance-ai-chips-to-space/" >🔗</a> **[SpaceNews]** Startup’s radiation shield tech could bring high-performance AI chips to space
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250930T031157">2025-09-30 03:11:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250930T033814">2025-09-30 03:38:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
