@@ -90,6 +90,8 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/government-investment-remains-key-to-creating-a-circular-space-economy/" >🔗</a> **[SpaceNews]** Government investment remains key to creating a circular space economy
+- <a href="https://spacenews.com/firefly-alpha-booster-destroyed-in-ground-test/" >🔗</a> **[SpaceNews]** Firefly Alpha booster destroyed in ground test
 - <a href="https://spacenews.com/china-sends-experimental-shiyan-30-satellites-into-orbit-as-launch-cadence-intensifies/" >🔗</a> **[SpaceNews]** China sends experimental Shiyan-30 satellites into orbit as launch cadence intensifies
 - <a href="https://spacepolicyonline.com/news/no-deal-yet-to-avert-shutdown-tomorrow-night/" >🔗</a> **[SpacePolicyOnline.com]** No Deal Yet To Avert Shutdown Tomorrow Night
 - <a href="https://spacenews.com/report-claims-nasa-taking-illegal-steps-to-implement-budget-proposal/" >🔗</a> **[SpaceNews]** Report claims NASA taking illegal steps to implement budget proposal
@@ -98,8 +100,6 @@ into *a Suborbital
 - <a href="https://www.nasaspaceflight.com/2025/09/launch-roundup-092925/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9 launches Starlink and Kuiper satellites
 - <a href="https://science.nasa.gov/uncategorized/new-file-download-process-for-large-requestspsi-new-file-download-process/" >🔗</a> **[NASA]** New File Download Process for PSI Large Requests
 - <a href="https://science.nasa.gov/uncategorized/rsd-presented-at-issrdc/" >🔗</a> **[NASA]** Joe A. Adam Presents Ring Sheared Drop (RSD) Research at 2025 ISSRDC
-- <a href="https://www.nasa.gov/image-article/hubble-surveys-cloudy-cluster/" >🔗</a> **[NASA]** Hubble Surveys Cloudy Cluster
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/astronaut-candidates-get-to-work-at-johnson-space-center/" >🔗</a> **[NASA]** Astronaut Candidates Get to Work at Johnson Space Center
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250930T080156">2025-09-30 08:01:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250930T083822">2025-09-30 08:38:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
