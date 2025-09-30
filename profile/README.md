@@ -90,6 +90,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-sends-experimental-shiyan-30-satellites-into-orbit-as-launch-cadence-intensifies/" >🔗</a> **[SpaceNews]** China sends experimental Shiyan-30 satellites into orbit as launch cadence intensifies
 - <a href="https://spacepolicyonline.com/news/no-deal-yet-to-avert-shutdown-tomorrow-night/" >🔗</a> **[SpacePolicyOnline.com]** No Deal Yet To Avert Shutdown Tomorrow Night
 - <a href="https://spacenews.com/report-claims-nasa-taking-illegal-steps-to-implement-budget-proposal/" >🔗</a> **[SpaceNews]** Report claims NASA taking illegal steps to implement budget proposal
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4668-4674-winding-our-way-along/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4668-4674: Winding Our Way Along
@@ -99,7 +100,6 @@ into *a Suborbital
 - <a href="https://science.nasa.gov/uncategorized/rsd-presented-at-issrdc/" >🔗</a> **[NASA]** Joe A. Adam Presents Ring Sheared Drop (RSD) Research at 2025 ISSRDC
 - <a href="https://www.nasa.gov/image-article/hubble-surveys-cloudy-cluster/" >🔗</a> **[NASA]** Hubble Surveys Cloudy Cluster
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/astronaut-candidates-get-to-work-at-johnson-space-center/" >🔗</a> **[NASA]** Astronaut Candidates Get to Work at Johnson Space Center
-- <a href="https://science.nasa.gov/centers-and-facilities/goddard/nasas-webb-telescope-studies-moon-forming-disk-around-massive-planet/" >🔗</a> **[NASA]** NASA’s Webb Telescope Studies Moon-Forming Disk Around Massive Planet
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250930T050143">2025-09-30 05:01:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250930T053345">2025-09-30 05:33:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
