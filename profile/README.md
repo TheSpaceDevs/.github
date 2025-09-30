@@ -90,6 +90,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/canadian-space-agency-offers-funding-for-dual-use-technologies/" >🔗</a> **[SpaceNews]** Canadian Space Agency offers funding for dual-use technologies
 - <a href="https://spacenews.com/kayhan-space-releases-free-software-to-speed-up-satellite-visualization/" >🔗</a> **[SpaceNews]** Kayhan Space releases free software to speed up satellite visualization
 - <a href="https://spaceflightnow.com/2025/09/30/axiom-space-taps-portuguese-physiologist-as-first-project-astronaut/" >🔗</a> **[Spaceflight Now]** Axiom Space taps Portuguese physiologist as first ‘Project Astronaut’
 - <a href="https://spacenews.com/government-investment-remains-key-to-creating-a-circular-space-economy/" >🔗</a> **[SpaceNews]** Government investment remains key to creating a circular space economy
@@ -99,7 +100,6 @@ into *a Suborbital
 - <a href="https://spacenews.com/report-claims-nasa-taking-illegal-steps-to-implement-budget-proposal/" >🔗</a> **[SpaceNews]** Report claims NASA taking illegal steps to implement budget proposal
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4668-4674-winding-our-way-along/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4668-4674: Winding Our Way Along
 - <a href="https://spaceflightnow.com/2025/09/30/ground-testing-anomaly-destroys-firefly-aerospaces-alpha-booster-intended-for-next-flight/" >🔗</a> **[Spaceflight Now]** Ground testing anomaly destroys Firefly Aerospace’s Alpha booster intended for next flight
-- <a href="https://www.nasaspaceflight.com/2025/09/launch-roundup-092925/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9 launches Starlink and Kuiper satellites
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250930T113122">2025-09-30 11:31:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250930T120208">2025-09-30 12:02:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
