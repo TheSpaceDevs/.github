@@ -90,6 +90,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/universe/exoplanets/discovery-alert-baby-planet-photographed-in-a-ring-around-a-star-for-the-first-time/" >🔗</a> **[NASA]** Discovery Alert: ‘Baby’ Planet Photographed in a Ring around a Star for the First Time!
 - <a href="https://spacenews.com/china-set-for-high-stakes-moon-program-and-reusable-launch-tests-to-close-out-2025/" >🔗</a> **[SpaceNews]** China set for high-stakes moon program and reusable launch tests to close out 2025
 - <a href="https://www.nasa.gov/image-article/jupiters-volcanic-moon-io/" >🔗</a> **[NASA]** Jupiter’s Volcanic Moon Io
 - <a href="https://europeanspaceflight.com/planet-to-open-berlin-manufacturing-site-following-e240m-contract/" >🔗</a> **[European Spaceflight]** Planet to Open Berlin Manufacturing Site Following €240M Contract
@@ -99,7 +100,6 @@ into *a Suborbital
 - <a href="https://science.nasa.gov/science-research/heliophysics/making-high-fidelity-fluxgate-cores-for-space-science-and-space-weather-missions/" >🔗</a> **[NASA]** Making High Fidelity Fluxgate Cores for Space Science and Space Weather Missions
 - <a href="https://spacenews.com/viasat-3-f2-delivered-to-florida-for-october-launch/" >🔗</a> **[SpaceNews]** ViaSat-3 F2 delivered to Florida for October launch
 - <a href="https://www.nasaspaceflight.com/2025/09/spacex-intensifies-testing-pad-2-starbase/" >🔗</a> **[NASASpaceflight]** SpaceX intensifies testing to ready Pad 2 at Starbase
-- <a href="https://www.esa.int/About_Us/ESA_Publications/ESA_Impact_2025_-_Q3" >🔗</a> **[ESA]** ESA Impact
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250930T180204">2025-09-30 18:02:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250930T183719">2025-09-30 18:37:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
