@@ -47,7 +47,7 @@ into *a Suborbital
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250930T234500">2025-09-30 23:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=HASTE | JUSTIN&location=Wallops Flight Facility, Virginia, USA&dates=20250930T234500Z%2F20251001T050000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **HASTE | JUSTIN** from Wallops Flight Facility, Virginia, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251003T130000">2025-10-03 13:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-39&location=Vandenberg SFB, CA, USA&dates=20251003T130000Z%2F20251003T170000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-39** from Vandenberg SFB, CA, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251004T051700">2025-10-04 05:17:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-59&location=Cape Canaveral SFS, FL, USA&dates=20251004T051700Z%2F20251004T091700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-59** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251006T043200">2025-10-06 04:32:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-59&location=Cape Canaveral SFS, FL, USA&dates=20251006T043200Z%2F20251006T083200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-59** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251007T022900">2025-10-07 02:29:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Project Kuiper (KF-03)&location=Kennedy Space Center, FL, USA&dates=20251007T022900Z%2F20251007T054600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Project Kuiper (KF-03)** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251007T100100">2025-10-07 10:01:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-52&location=Cape Canaveral SFS, FL, USA&dates=20251007T100100Z%2F20251007T140100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-52** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251008T123000">2025-10-08 12:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Shepard | NS-36&location=Corn Ranch, Van Horn, TX, USA&dates=20251008T123000Z%2F20251008T203000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Shepard | NS-36** from Corn Ranch, Van Horn, TX, USA.
@@ -90,7 +90,9 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/jupiters-volcanic-moon-io/" >🔗</a> **[NASA]** Jupiter’s Volcanic Moon Io
 - <a href="https://europeanspaceflight.com/planet-to-open-berlin-manufacturing-site-following-e240m-contract/" >🔗</a> **[European Spaceflight]** Planet to Open Berlin Manufacturing Site Following €240M Contract
+- <a href="https://science.nasa.gov/science-research/biological-physical-sciences/osdr-and-psi-unveil-new-consolidated-website/" >🔗</a> **[NASA]** OSDR and PSI Unveil New Consolidated Website
 - <a href="https://science.nasa.gov/uncategorized/osdr-and-psi-unveil-new-consolidated-website/" >🔗</a> **[NASA]** OSDR and PSI Unveil New Consolidated Website
 - <a href="https://www.nasa.gov/missions/station/iss-research/international-space-station-launching-nasa-and-humanity-into-deep-space/" >🔗</a> **[NASA]** International Space Station: Launching NASA and Humanity into Deep Space
 - <a href="https://science.nasa.gov/science-research/heliophysics/making-high-fidelity-fluxgate-cores-for-space-science-and-space-weather-missions/" >🔗</a> **[NASA]** Making High Fidelity Fluxgate Cores for Space Science and Space Weather Missions
@@ -98,8 +100,6 @@ into *a Suborbital
 - <a href="https://www.nasaspaceflight.com/2025/09/spacex-intensifies-testing-pad-2-starbase/" >🔗</a> **[NASASpaceflight]** SpaceX intensifies testing to ready Pad 2 at Starbase
 - <a href="https://www.esa.int/About_Us/ESA_Publications/ESA_Impact_2025_-_Q3" >🔗</a> **[ESA]** ESA Impact
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Gaia/Gaia_discovers_our_galaxy_s_great_wave" >🔗</a> **[ESA]** Gaia discovers our galaxy’s great wave
-- <a href="https://spacenews.com/canadian-space-agency-offers-funding-for-dual-use-technologies/" >🔗</a> **[SpaceNews]** Canadian Space Agency offers funding for dual-use technologies
-- <a href="https://spacenews.com/kayhan-space-releases-free-software-to-speed-up-satellite-visualization/" >🔗</a> **[SpaceNews]** Kayhan Space releases free software to speed up satellite visualization
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250930T160159">2025-09-30 16:01:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20250930T163622">2025-09-30 16:36:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
