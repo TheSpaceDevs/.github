@@ -91,15 +91,15 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/About_Us/Corporate_news/European_Space_Agency_and_Korea_AeroSpace_Administration_embark_on_new_cooperation" >🔗</a> **[ESA]** European Space Agency and Korea AeroSpace Administration embark on new cooperation
-- <a href="https://spacenews.com/maldives-plots-50-million-fund-for-sovereign-space-capabilities/" >🔗</a> **[SpaceNews]** Maldives plots $50 million fund for sovereign space capabilities
+- <a href="https://spacenews.com/maxar-retires-its-name-rebrands-as-vantor-and-lanteris/" >🔗</a> **[SpaceNews]** Maxar retires its name, rebrands as Vantor and Lanteris
+- <a href="https://arstechnica.com/space/2025/10/in-their-own-words-the-artemis-ii-crew-on-the-frenetic-first-hours-of-their-flight/" >🔗</a> **[Arstechnica]** In their own words: The Artemis II crew on the frenetic first hours of their flight
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/From_inner_to_outer_space" >🔗</a> **[ESA]** From inner to outer space
 - <a href="https://spacenews.com/whats-next-for-direct-to-device-after-spacexs-blockbuster-spectrum-deal/" >🔗</a> **[SpaceNews]** What’s next for direct-to-device after SpaceX’s blockbuster spectrum deal
+- <a href="https://spacenews.com/maldives-plots-50-million-fund-for-sovereign-space-capabilities/" >🔗</a> **[SpaceNews]** Maldives plots $50 million fund for sovereign space capabilities
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Cassini-Huygens/Cassini_proves_complex_chemistry_in_Enceladus_ocean" >🔗</a> **[ESA]** Cassini proves complex chemistry in Enceladus ocean
 - <a href="https://spacenews.com/synspective-purchases-10-additional-electron-launches/" >🔗</a> **[SpaceNews]** Synspective purchases 10 additional Electron launches
 - <a href="https://spacenews.com/australia-and-uk-extend-space-bridge-partnership/" >🔗</a> **[SpaceNews]** Australia and UK extend Space Bridge partnership
 - <a href="https://spacenews.com/flexell-space-and-npc-spacemind-partner-at-iac-2025-on-next-generation-solar-array-development/" >🔗</a> **[SpaceNews]** Flexell Space and NPC Spacemind Partner at IAC 2025 on Next-Generation Solar Array Development
-- <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/octobers-night-sky-notes-lets-go-ligo/" >🔗</a> **[NASA]** October’s Night Sky Notes: Let’s Go, LIGO!
-- <a href="https://spacepolicyonline.com/news/senate-rejects-efforts-to-keep-government-open-after-midnight/" >🔗</a> **[SpacePolicyOnline.com]** Senate Rejects Efforts to Keep Government Open After Midnight
-- <a href="https://spacenews.com/australian-and-japanese-organizations-join-forces-on-optical-communications/" >🔗</a> **[SpaceNews]** Australian and Japanese organizations join forces on optical communications
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251001T113100">2025-10-01 11:31:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251001T120206">2025-10-01 12:02:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
