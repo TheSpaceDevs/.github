@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/synspective-purchases-10-additional-electron-launches/" >🔗</a> **[SpaceNews]** Synspective purchases 10 additional Electron launches
+- <a href="https://spacenews.com/australia-and-uk-extend-space-bridge-partnership/" >🔗</a> **[SpaceNews]** Australia and UK extend Space Bridge partnership
 - <a href="https://spacenews.com/flexell-space-and-npc-spacemind-partner-at-iac-2025-on-next-generation-solar-array-development/" >🔗</a> **[SpaceNews]** Flexell Space and NPC Spacemind Partner at IAC 2025 on Next-Generation Solar Array Development
 - <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/octobers-night-sky-notes-lets-go-ligo/" >🔗</a> **[NASA]** October’s Night Sky Notes: Let’s Go, LIGO!
 - <a href="https://spacepolicyonline.com/news/senate-rejects-efforts-to-keep-government-open-after-midnight/" >🔗</a> **[SpacePolicyOnline.com]** Senate Rejects Efforts to Keep Government Open After Midnight
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2025/09/esa-avio-echoing-starship/" >🔗</a> **[NASASpaceflight]** ESA and Avio Unveil Plans for Reusable Upper Stage Rocket, Echoing SpaceX’s Starship Design
 - <a href="https://spacenews.com/varda-space-and-southern-launch-agree-to-more-capsule-landings-in-australia/" >🔗</a> **[SpaceNews]** Varda Space and Southern Launch agree to more capsule landings in Australia
 - <a href="https://www.nasa.gov/news-release/nasa-blue-origin-invite-media-to-attend-mars-mission-launch/" >🔗</a> **[NASA]** NASA, Blue Origin Invite Media to Attend Mars Mission Launch
-- <a href="https://www.nasa.gov/news-release/nasa-international-partners-deepen-commitment-to-artemis-accords/" >🔗</a> **[NASA]** NASA, International Partners Deepen Commitment to Artemis Accords
-- <a href="https://spacenews.com/satellite-operators-seek-help-from-itu-to-improve-coordination-for-space-safety/" >🔗</a> **[SpaceNews]** Satellite operators seek help from ITU to improve coordination for space safety
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251001T050145">2025-10-01 05:01:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251001T053358">2025-10-01 05:33:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
