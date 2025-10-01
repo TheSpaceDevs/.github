@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/romanian-research-institute-qualifies-space-rider-drop-test-prototype/" >🔗</a> **[European Spaceflight]** Romanian Research Institute Qualifies Space Rider Drop Test Prototype
 - <a href="https://www.esa.int/About_Us/Corporate_news/European_Space_Agency_and_Korea_AeroSpace_Administration_embark_on_new_cooperation" >🔗</a> **[ESA]** European Space Agency and Korea AeroSpace Administration embark on new cooperation
 - <a href="https://spacenews.com/how-time-series-data-is-fueling-the-final-frontier/" >🔗</a> **[SpaceNews]** How time series data is fueling the final frontier
 - <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/Advancing_Europe_s_quantum_secure_communications_from_space" >🔗</a> **[ESA]** Advancing Europe’s quantum secure communications from space
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2025/10/in-their-own-words-the-artemis-ii-crew-on-the-frenetic-first-hours-of-their-flight/" >🔗</a> **[Arstechnica]** In their own words: The Artemis II crew on the frenetic first hours of their flight
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/From_inner_to_outer_space" >🔗</a> **[ESA]** From inner to outer space
 - <a href="https://spacenews.com/whats-next-for-direct-to-device-after-spacexs-blockbuster-spectrum-deal/" >🔗</a> **[SpaceNews]** What’s next for direct-to-device after SpaceX’s blockbuster spectrum deal
-- <a href="https://spacenews.com/maldives-plots-50-million-fund-for-sovereign-space-capabilities/" >🔗</a> **[SpaceNews]** Maldives plots $50 million fund for sovereign space capabilities
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251001T150144">2025-10-01 15:01:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251001T153330">2025-10-01 15:33:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
