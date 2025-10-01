@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/10/01/viasat3-f2-satellite-arrives-in-florida-ahead-of-late-october-launch/" >🔗</a> **[Spaceflight Now]** ViaSat-3 F2 satellite arrives in Florida ahead of late October launch
 - <a href="https://spacenews.com/what-germanys-41b-investment-in-space-could-mean-for-europe/" >🔗</a> **[SpaceNews]** What Germany’s $41B investment in space could mean for Europe
 - <a href="https://europeanspaceflight.com/romanian-research-institute-qualifies-space-rider-drop-test-prototype/" >🔗</a> **[European Spaceflight]** Romanian Research Institute Qualifies Space Rider Drop Test Prototype
 - <a href="https://www.esa.int/About_Us/Corporate_news/European_Space_Agency_and_Korea_AeroSpace_Administration_embark_on_new_cooperation" >🔗</a> **[ESA]** European Space Agency and Korea AeroSpace Administration embark on new cooperation
 - <a href="https://spacenews.com/how-time-series-data-is-fueling-the-final-frontier/" >🔗</a> **[SpaceNews]** How time series data is fueling the final frontier
-- <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/Advancing_Europe_s_quantum_secure_communications_from_space" >🔗</a> **[ESA]** Advancing Europe’s quantum secure communications from space
 - <a href="https://spacenews.com/maxar-retires-its-name-rebrands-as-vantor-and-lanteris/" >🔗</a> **[SpaceNews]** Maxar retires its name, rebrands as Vantor and Lanteris
+- <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/Advancing_Europe_s_quantum_secure_communications_from_space" >🔗</a> **[ESA]** Advancing Europe’s quantum secure communications from space
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-6/Sea-level_monitoring_satellite_unboxed" >🔗</a> **[ESA]** Sea-level monitoring satellite unboxed
 - <a href="https://www.esa.int/About_Us/Exhibitions/ESA_at_IAC_2025_-_highlights_from_Day_3" >🔗</a> **[ESA]** ESA at IAC 2025 - highlights from Day 3
 - <a href="https://arstechnica.com/space/2025/10/in-their-own-words-the-artemis-ii-crew-on-the-frenetic-first-hours-of-their-flight/" >🔗</a> **[Arstechnica]** In their own words: The Artemis II crew on the frenetic first hours of their flight
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/From_inner_to_outer_space" >🔗</a> **[ESA]** From inner to outer space
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251001T190106">2025-10-01 19:01:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251001T193056">2025-10-01 19:30:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
