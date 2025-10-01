@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Cassini-Huygens/Cassini_proves_complex_chemistry_in_Enceladus_ocean" >🔗</a> **[ESA]** Cassini proves complex chemistry in Enceladus ocean
 - <a href="https://spacenews.com/synspective-purchases-10-additional-electron-launches/" >🔗</a> **[SpaceNews]** Synspective purchases 10 additional Electron launches
 - <a href="https://spacenews.com/australia-and-uk-extend-space-bridge-partnership/" >🔗</a> **[SpaceNews]** Australia and UK extend Space Bridge partnership
 - <a href="https://spacenews.com/flexell-space-and-npc-spacemind-partner-at-iac-2025-on-next-generation-solar-array-development/" >🔗</a> **[SpaceNews]** Flexell Space and NPC Spacemind Partner at IAC 2025 on Next-Generation Solar Array Development
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/10/01/report-nasa-is-illegally-using-presidents-budget-request-to-circumvent-congress-budgeting-process/" >🔗</a> **[Spaceflight Now]** Report argues NASA is illegally using President’s Budget Request to circumvent Congress’ budgeting process
 - <a href="https://www.nasaspaceflight.com/2025/09/esa-avio-echoing-starship/" >🔗</a> **[NASASpaceflight]** ESA and Avio Unveil Plans for Reusable Upper Stage Rocket, Echoing SpaceX’s Starship Design
 - <a href="https://spacenews.com/varda-space-and-southern-launch-agree-to-more-capsule-landings-in-australia/" >🔗</a> **[SpaceNews]** Varda Space and Southern Launch agree to more capsule landings in Australia
-- <a href="https://www.nasa.gov/news-release/nasa-blue-origin-invite-media-to-attend-mars-mission-launch/" >🔗</a> **[NASA]** NASA, Blue Origin Invite Media to Attend Mars Mission Launch
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251001T090147">2025-10-01 09:01:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251001T093354">2025-10-01 09:33:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
