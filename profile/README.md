@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/10/01/report-nasa-is-illegally-using-presidents-budget-request-to-circumvent-congress-budgeting-process/" >🔗</a> **[Spaceflight Now]** Report argues NASA is illegally using President’s Budget Request to circumvent Congress’ budgeting process
 - <a href="https://www.nasaspaceflight.com/2025/09/esa-avio-echoing-starship/" >🔗</a> **[NASASpaceflight]** ESA and Avio Unveil Plans for Reusable Upper Stage Rocket, Echoing SpaceX’s Starship Design
 - <a href="https://spacenews.com/varda-space-and-southern-launch-agree-to-more-capsule-landings-in-australia/" >🔗</a> **[SpaceNews]** Varda Space and Southern Launch agree to more capsule landings in Australia
 - <a href="https://www.nasa.gov/news-release/nasa-blue-origin-invite-media-to-attend-mars-mission-launch/" >🔗</a> **[NASA]** NASA, Blue Origin Invite Media to Attend Mars Mission Launch
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/oq-technology-expands-satellite-iot-services-to-australia/" >🔗</a> **[SpaceNews]** OQ Technology expands satellite IoT services to Australia
 - <a href="https://science.nasa.gov/learning-resources/science-activation/helio-highlights-october-2025/" >🔗</a> **[NASA]** Helio Highlights: October 2025
 - <a href="https://www.nasa.gov/missions/artemis/nasa-signs-us-australia-agreement-on-aeronautics-space-cooperation/" >🔗</a> **[NASA]** NASA signs US-Australia Agreement on Aeronautics, Space Cooperation
-- <a href="https://spacenews.com/spacexs-d2d-deal-spurs-space-bulls/" >🔗</a> **[SpaceNews]** SpaceX’s D2D deal spurs space bulls
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251001T000532">2025-10-01 00:05:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251001T004602">2025-10-01 00:46:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
