@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/the-spreadsheet-behind-the-golden-dome-sticker-shock/" >🔗</a> **[SpaceNews]** The spreadsheet behind the Golden Dome sticker shock
+- <a href="https://spacenews.com/at-iac-global-space-cooperation-meets-american-space-dominance/" >🔗</a> **[SpaceNews]** At IAC, global space cooperation meets American space dominance
 - <a href="https://www.nasaspaceflight.com/2025/10/rubin-vs-jwst/" >🔗</a> **[NASASpaceflight]** Wide-field surveys versus precise infrared observations: how Rubin compares to JWST
 - <a href="https://spaceflightnow.com/2025/10/02/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 3rd consecutive Falcon 9 rocket from Vandenberg SFB, uninterrupted by a Cape mission
 - <a href="https://europeanspaceflight.com/dlr-prepares-to-launch-small-reusable-space-transportation-demonstrator/" >🔗</a> **[European Spaceflight]** DLR Prepares to Launch Small Reusable Space Transportation Demonstrator
 - <a href="https://spacenews.com/space-security-threats-and-rapid-innovation/" >🔗</a> **[SpaceNews]** Space security, threats and rapid innovation
-- <a href="https://spacenews.com/chinas-near-space-legal-warfare/" >🔗</a> **[SpaceNews]** China’s ‘near space’ legal warfare
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/10/Fly_over_Xanthe_Terra_with_Mars_Express" >🔗</a> **[ESA]** Fly over Xanthe Terra with Mars Express
+- <a href="https://spacenews.com/chinas-near-space-legal-warfare/" >🔗</a> **[SpaceNews]** China’s ‘near space’ legal warfare
 - <a href="https://arstechnica.com/space/2025/10/how-america-fell-behind-china-in-the-lunar-space-race-and-how-it-can-catch-back-up/" >🔗</a> **[Arstechnica]** How America fell behind China in the lunar space race—and how it can catch back up
 - <a href="https://spacenews.com/preparations-on-track-for-second-new-glenn-launch/" >🔗</a> **[SpaceNews]** Preparations on track for second New Glenn launch
-- <a href="https://spacenews.com/will-pentagon-procurement-reforms-really-stick-this-time/" >🔗</a> **[SpaceNews]** Will Pentagon procurement reforms really stick this time?
-- <a href="https://spacenews.com/university-of-western-australia-unveils-optical-ground-network/" >🔗</a> **[SpaceNews]** University of Western Australia unveils optical ground network
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251002T213105">2025-10-02 21:31:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251002T220135">2025-10-02 22:01:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
