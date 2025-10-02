@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/10/meet-the-arc-spacecraft-it-aims-to-deliver-cargo-anywhere-in-the-world-in-an-hour/" >🔗</a> **[Arstechnica]** Meet the Arc spacecraft: it aims to deliver cargo anywhere in the world in an hour
 - <a href="https://spacenews.com/exlabs-wins-space-force-contract-for-reconfigurable-space-platform/" >🔗</a> **[SpaceNews]** ExLabs wins Space Force contract for reconfigurable space platform
 - <a href="https://spacenews.com/states-have-an-obligation-to-warn-satellite-operators-of-cyber-threats-iac-paper/" >🔗</a> **[SpaceNews]** States have an obligation to warn satellite operators of cyber threats — IAC paper
 - <a href="https://spacenews.com/starlink-compatible-radios-sought-for-golden-dome-interceptor-satellite-demo/" >🔗</a> **[SpaceNews]** Starlink-compatible radios sought for Golden Dome interceptor satellite demo
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/romanian-research-institute-qualifies-space-rider-drop-test-prototype/" >🔗</a> **[European Spaceflight]** Romanian Research Institute Qualifies Space Rider Drop Test Prototype
 - <a href="https://www.esa.int/About_Us/Corporate_news/European_Space_Agency_and_Korea_AeroSpace_Administration_embark_on_new_cooperation" >🔗</a> **[ESA]** European Space Agency and Korea AeroSpace Administration embark on new cooperation
 - <a href="https://spacenews.com/how-time-series-data-is-fueling-the-final-frontier/" >🔗</a> **[SpaceNews]** How time series data is fueling the final frontier
-- <a href="https://spacenews.com/maxar-retires-its-name-rebrands-as-vantor-and-lanteris/" >🔗</a> **[SpaceNews]** Maxar retires its name, rebrands as Vantor and Lanteris
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251002T020519">2025-10-02 02:05:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251002T024655">2025-10-02 02:46:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
