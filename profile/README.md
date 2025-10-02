@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/the-exploration-company-still-studying-mission-possible-reentry/" >🔗</a> **[SpaceNews]** The Exploration Company still studying Mission Possible reentry
+- <a href="https://spacenews.com/china-and-u-s-take-initial-steps-toward-space-traffic-coordination/" >🔗</a> **[SpaceNews]** China and U.S. take initial steps toward space-traffic coordination
 - <a href="https://arstechnica.com/space/2025/10/meet-the-arc-spacecraft-it-aims-to-deliver-cargo-anywhere-in-the-world-in-an-hour/" >🔗</a> **[Arstechnica]** Meet the Arc spacecraft: it aims to deliver cargo anywhere in the world in an hour
 - <a href="https://spacenews.com/exlabs-wins-space-force-contract-for-reconfigurable-space-platform/" >🔗</a> **[SpaceNews]** ExLabs wins Space Force contract for reconfigurable space platform
 - <a href="https://spacenews.com/states-have-an-obligation-to-warn-satellite-operators-of-cyber-threats-iac-paper/" >🔗</a> **[SpaceNews]** States have an obligation to warn satellite operators of cyber threats — IAC paper
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/10/01/viasat3-f2-satellite-arrives-in-florida-ahead-of-late-october-launch/" >🔗</a> **[Spaceflight Now]** ViaSat-3 F2 satellite arrives in Florida ahead of late October launch
 - <a href="https://spacenews.com/what-germanys-41b-investment-in-space-could-mean-for-europe/" >🔗</a> **[SpaceNews]** What Germany’s $41B investment in space could mean for Europe
 - <a href="https://europeanspaceflight.com/romanian-research-institute-qualifies-space-rider-drop-test-prototype/" >🔗</a> **[European Spaceflight]** Romanian Research Institute Qualifies Space Rider Drop Test Prototype
-- <a href="https://www.esa.int/About_Us/Corporate_news/European_Space_Agency_and_Korea_AeroSpace_Administration_embark_on_new_cooperation" >🔗</a> **[ESA]** European Space Agency and Korea AeroSpace Administration embark on new cooperation
-- <a href="https://spacenews.com/how-time-series-data-is-fueling-the-final-frontier/" >🔗</a> **[SpaceNews]** How time series data is fueling the final frontier
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251002T040142">2025-10-02 04:01:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251002T043413">2025-10-02 04:34:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
