@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/preparations-on-track-for-second-new-glenn-launch/" >🔗</a> **[SpaceNews]** Preparations on track for second New Glenn launch
+- <a href="https://spacenews.com/will-pentagon-procurement-reforms-really-stick-this-time/" >🔗</a> **[SpaceNews]** Will Pentagon procurement reforms really stick this time?
 - <a href="https://spacenews.com/university-of-western-australia-unveils-optical-ground-network/" >🔗</a> **[SpaceNews]** University of Western Australia unveils optical ground network
 - <a href="https://spacenews.com/the-exploration-company-still-studying-mission-possible-reentry/" >🔗</a> **[SpaceNews]** The Exploration Company still studying Mission Possible reentry
 - <a href="https://spacenews.com/china-and-u-s-take-initial-steps-toward-space-traffic-coordination/" >🔗</a> **[SpaceNews]** China and U.S. take initial steps toward space-traffic coordination
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/states-have-an-obligation-to-warn-satellite-operators-of-cyber-threats-iac-paper/" >🔗</a> **[SpaceNews]** States have an obligation to warn satellite operators of cyber threats — IAC paper
 - <a href="https://spacenews.com/starlink-compatible-radios-sought-for-golden-dome-interceptor-satellite-demo/" >🔗</a> **[SpaceNews]** Starlink-compatible radios sought for Golden Dome interceptor satellite demo
 - <a href="https://spacenews.com/private-mission-study-a-step-toward-offering-orion-as-a-service/" >🔗</a> **[SpaceNews]** Private mission study a step toward offering Orion as a service
-- <a href="https://spaceflightnow.com/2025/10/01/viasat3-f2-satellite-arrives-in-florida-ahead-of-late-october-launch/" >🔗</a> **[Spaceflight Now]** ViaSat-3 F2 satellite arrives in Florida ahead of late October launch
-- <a href="https://spacenews.com/what-germanys-41b-investment-in-space-could-mean-for-europe/" >🔗</a> **[SpaceNews]** What Germany’s $41B investment in space could mean for Europe
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251002T110125">2025-10-02 11:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251002T113101">2025-10-02 11:31:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
