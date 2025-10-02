@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/10/Fly_over_Xanthe_Terra_with_Mars_Express" >🔗</a> **[ESA]** Fly over Xanthe Terra with Mars Express
+- <a href="https://spacenews.com/chinas-near-space-legal-warfare/" >🔗</a> **[SpaceNews]** China’s ‘near space’ legal warfare
 - <a href="https://arstechnica.com/space/2025/10/how-america-fell-behind-china-in-the-lunar-space-race-and-how-it-can-catch-back-up/" >🔗</a> **[Arstechnica]** How America fell behind China in the lunar space race—and how it can catch back up
 - <a href="https://spacenews.com/preparations-on-track-for-second-new-glenn-launch/" >🔗</a> **[SpaceNews]** Preparations on track for second New Glenn launch
 - <a href="https://spacenews.com/will-pentagon-procurement-reforms-really-stick-this-time/" >🔗</a> **[SpaceNews]** Will Pentagon procurement reforms really stick this time?
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/china-and-u-s-take-initial-steps-toward-space-traffic-coordination/" >🔗</a> **[SpaceNews]** China and U.S. take initial steps toward space-traffic coordination
 - <a href="https://arstechnica.com/space/2025/10/meet-the-arc-spacecraft-it-aims-to-deliver-cargo-anywhere-in-the-world-in-an-hour/" >🔗</a> **[Arstechnica]** Meet the Arc spacecraft: it aims to deliver cargo anywhere in the world in an hour
 - <a href="https://spacenews.com/exlabs-wins-space-force-contract-for-reconfigurable-space-platform/" >🔗</a> **[SpaceNews]** ExLabs wins Space Force contract for reconfigurable space platform
-- <a href="https://spacenews.com/states-have-an-obligation-to-warn-satellite-operators-of-cyber-threats-iac-paper/" >🔗</a> **[SpaceNews]** States have an obligation to warn satellite operators of cyber threats — IAC paper
-- <a href="https://spacenews.com/starlink-compatible-radios-sought-for-golden-dome-interceptor-satellite-demo/" >🔗</a> **[SpaceNews]** Starlink-compatible radios sought for Golden Dome interceptor satellite demo
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251002T130702">2025-10-02 13:07:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251002T133537">2025-10-02 13:35:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
