@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/university-of-western-australia-unveils-optical-ground-network/" >🔗</a> **[SpaceNews]** University of Western Australia unveils optical ground network
 - <a href="https://spacenews.com/the-exploration-company-still-studying-mission-possible-reentry/" >🔗</a> **[SpaceNews]** The Exploration Company still studying Mission Possible reentry
 - <a href="https://spacenews.com/china-and-u-s-take-initial-steps-toward-space-traffic-coordination/" >🔗</a> **[SpaceNews]** China and U.S. take initial steps toward space-traffic coordination
 - <a href="https://arstechnica.com/space/2025/10/meet-the-arc-spacecraft-it-aims-to-deliver-cargo-anywhere-in-the-world-in-an-hour/" >🔗</a> **[Arstechnica]** Meet the Arc spacecraft: it aims to deliver cargo anywhere in the world in an hour
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/private-mission-study-a-step-toward-offering-orion-as-a-service/" >🔗</a> **[SpaceNews]** Private mission study a step toward offering Orion as a service
 - <a href="https://spaceflightnow.com/2025/10/01/viasat3-f2-satellite-arrives-in-florida-ahead-of-late-october-launch/" >🔗</a> **[Spaceflight Now]** ViaSat-3 F2 satellite arrives in Florida ahead of late October launch
 - <a href="https://spacenews.com/what-germanys-41b-investment-in-space-could-mean-for-europe/" >🔗</a> **[SpaceNews]** What Germany’s $41B investment in space could mean for Europe
-- <a href="https://europeanspaceflight.com/romanian-research-institute-qualifies-space-rider-drop-test-prototype/" >🔗</a> **[European Spaceflight]** Romanian Research Institute Qualifies Space Rider Drop Test Prototype
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251002T070152">2025-10-02 07:01:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251002T073111">2025-10-02 07:31:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
