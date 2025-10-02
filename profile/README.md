@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/10/how-america-fell-behind-china-in-the-lunar-space-race-and-how-it-can-catch-back-up/" >🔗</a> **[Arstechnica]** How America fell behind China in the lunar space race—and how it can catch back up
 - <a href="https://spacenews.com/preparations-on-track-for-second-new-glenn-launch/" >🔗</a> **[SpaceNews]** Preparations on track for second New Glenn launch
 - <a href="https://spacenews.com/will-pentagon-procurement-reforms-really-stick-this-time/" >🔗</a> **[SpaceNews]** Will Pentagon procurement reforms really stick this time?
 - <a href="https://spacenews.com/university-of-western-australia-unveils-optical-ground-network/" >🔗</a> **[SpaceNews]** University of Western Australia unveils optical ground network
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/exlabs-wins-space-force-contract-for-reconfigurable-space-platform/" >🔗</a> **[SpaceNews]** ExLabs wins Space Force contract for reconfigurable space platform
 - <a href="https://spacenews.com/states-have-an-obligation-to-warn-satellite-operators-of-cyber-threats-iac-paper/" >🔗</a> **[SpaceNews]** States have an obligation to warn satellite operators of cyber threats — IAC paper
 - <a href="https://spacenews.com/starlink-compatible-radios-sought-for-golden-dome-interceptor-satellite-demo/" >🔗</a> **[SpaceNews]** Starlink-compatible radios sought for Golden Dome interceptor satellite demo
-- <a href="https://spacenews.com/private-mission-study-a-step-toward-offering-orion-as-a-service/" >🔗</a> **[SpaceNews]** Private mission study a step toward offering Orion as a service
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251002T113101">2025-10-02 11:31:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251002T120212">2025-10-02 12:02:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
