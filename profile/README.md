@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/10/rubin-vs-jwst/" >🔗</a> **[NASASpaceflight]** Wide-field surveys versus precise infrared observations: how Rubin compares to JWST
 - <a href="https://spaceflightnow.com/2025/10/02/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 3rd consecutive Falcon 9 rocket from Vandenberg SFB, uninterrupted by a Cape mission
 - <a href="https://europeanspaceflight.com/dlr-prepares-to-launch-small-reusable-space-transportation-demonstrator/" >🔗</a> **[European Spaceflight]** DLR Prepares to Launch Small Reusable Space Transportation Demonstrator
 - <a href="https://spacenews.com/space-security-threats-and-rapid-innovation/" >🔗</a> **[SpaceNews]** Space security, threats and rapid innovation
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/preparations-on-track-for-second-new-glenn-launch/" >🔗</a> **[SpaceNews]** Preparations on track for second New Glenn launch
 - <a href="https://spacenews.com/will-pentagon-procurement-reforms-really-stick-this-time/" >🔗</a> **[SpaceNews]** Will Pentagon procurement reforms really stick this time?
 - <a href="https://spacenews.com/university-of-western-australia-unveils-optical-ground-network/" >🔗</a> **[SpaceNews]** University of Western Australia unveils optical ground network
-- <a href="https://spacenews.com/the-exploration-company-still-studying-mission-possible-reentry/" >🔗</a> **[SpaceNews]** The Exploration Company still studying Mission Possible reentry
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251002T210134">2025-10-02 21:01:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251002T213105">2025-10-02 21:31:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
