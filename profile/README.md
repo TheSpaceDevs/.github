@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/dlr-prepares-to-launch-small-reusable-space-transportation-demonstrator/" >🔗</a> **[European Spaceflight]** DLR Prepares to Launch Small Reusable Space Transportation Demonstrator
 - <a href="https://spacenews.com/space-security-threats-and-rapid-innovation/" >🔗</a> **[SpaceNews]** Space security, threats and rapid innovation
 - <a href="https://spacenews.com/chinas-near-space-legal-warfare/" >🔗</a> **[SpaceNews]** China’s ‘near space’ legal warfare
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/10/Fly_over_Xanthe_Terra_with_Mars_Express" >🔗</a> **[ESA]** Fly over Xanthe Terra with Mars Express
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/university-of-western-australia-unveils-optical-ground-network/" >🔗</a> **[SpaceNews]** University of Western Australia unveils optical ground network
 - <a href="https://spacenews.com/the-exploration-company-still-studying-mission-possible-reentry/" >🔗</a> **[SpaceNews]** The Exploration Company still studying Mission Possible reentry
 - <a href="https://spacenews.com/china-and-u-s-take-initial-steps-toward-space-traffic-coordination/" >🔗</a> **[SpaceNews]** China and U.S. take initial steps toward space-traffic coordination
-- <a href="https://arstechnica.com/space/2025/10/meet-the-arc-spacecraft-it-aims-to-deliver-cargo-anywhere-in-the-world-in-an-hour/" >🔗</a> **[Arstechnica]** Meet the Arc spacecraft: it aims to deliver cargo anywhere in the world in an hour
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251002T150149">2025-10-02 15:01:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251002T153319">2025-10-02 15:33:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
