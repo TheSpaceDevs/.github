@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/echostar-clears-key-regulatory-step-for-spectrum-sale-to-spacex/" >🔗</a> **[SpaceNews]** EchoStar clears key regulatory step for spectrum sale to SpaceX
 - <a href="https://spacenews.com/the-real-space-war-is-being-fought-in-cyberspace/" >🔗</a> **[SpaceNews]** The real space war is being fought in cyberspace
 - <a href="https://spacenews.com/nasas-newest-astronauts-will-have-to-be-willing-to-wait/" >🔗</a> **[SpaceNews]** NASA’s newest astronauts will have to be willing to wait
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_29_September_-_3_October_2025" >🔗</a> **[ESA]** Week in images: 29 September - 3 October 2025
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/Earth_from_Space_Kilauea_lava_lake_Hawaii" >🔗</a> **[ESA]** Earth from Space: Kilauea lava lake, Hawaii
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/10/Sample_processing" >🔗</a> **[ESA]** Sample processing
 - <a href="https://europeanspaceflight.com/maiaspace-received-e180m-in-advance-payments-in-2024/" >🔗</a> **[European Spaceflight]** MaiaSpace Received €180M in Advance Payments in 2024
-- <a href="https://spacenews.com/starlab-partners-unveil-full-scale-mockup-of-commercial-space-station/" >🔗</a> **[SpaceNews]** Starlab partners unveil full-scale mockup of commercial space station
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251003T190110">2025-10-03 19:01:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251003T193056">2025-10-03 19:30:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
