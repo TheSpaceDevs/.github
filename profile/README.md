@@ -89,6 +89,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_29_September_-_3_October_2025" >🔗</a> **[ESA]** Week in images: 29 September - 3 October 2025
 - <a href="https://arstechnica.com/space/2025/10/rocket-report-alpha-explodes-on-test-stand-europe-wants-a-mini-starship/" >🔗</a> **[Arstechnica]** Rocket Report: Alpha explodes on test stand; Europe wants a mini Starship
 - <a href="https://spacenews.com/servir-lives-on-through-concerted-global-campaign/" >🔗</a> **[SpaceNews]** SERVIR lives on through concerted global campaign
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/10/Tracking_satellites_at_the_speed_of_light" >🔗</a> **[ESA]** Tracking satellites at the speed of light
@@ -98,7 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/starlab-partners-unveil-full-scale-mockup-of-commercial-space-station/" >🔗</a> **[SpaceNews]** Starlab partners unveil full-scale mockup of commercial space station
 - <a href="https://spacenews.com/heo-looks-to-expand-satellite-imaging-beyond-low-earth-orbit/" >🔗</a> **[SpaceNews]** HEO looks to expand satellite imaging beyond low Earth orbit
 - <a href="https://spacenews.com/the-spreadsheet-behind-the-golden-dome-sticker-shock/" >🔗</a> **[SpaceNews]** The spreadsheet behind the Golden Dome sticker shock
-- <a href="https://spacenews.com/at-iac-global-space-cooperation-meets-american-space-dominance/" >🔗</a> **[SpaceNews]** At IAC, global space cooperation meets American space dominance
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251003T130632">2025-10-03 13:06:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251003T133511">2025-10-03 13:35:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
