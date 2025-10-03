@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/heo-looks-to-expand-satellite-imaging-beyond-low-earth-orbit/" >🔗</a> **[SpaceNews]** HEO looks to expand satellite imaging beyond low Earth orbit
 - <a href="https://spacenews.com/the-spreadsheet-behind-the-golden-dome-sticker-shock/" >🔗</a> **[SpaceNews]** The spreadsheet behind the Golden Dome sticker shock
 - <a href="https://spacenews.com/at-iac-global-space-cooperation-meets-american-space-dominance/" >🔗</a> **[SpaceNews]** At IAC, global space cooperation meets American space dominance
 - <a href="https://www.nasaspaceflight.com/2025/10/rubin-vs-jwst/" >🔗</a> **[NASASpaceflight]** Wide-field surveys versus precise infrared observations: how Rubin compares to JWST
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/10/Fly_over_Xanthe_Terra_with_Mars_Express" >🔗</a> **[ESA]** Fly over Xanthe Terra with Mars Express
 - <a href="https://spacenews.com/chinas-near-space-legal-warfare/" >🔗</a> **[SpaceNews]** China’s ‘near space’ legal warfare
 - <a href="https://arstechnica.com/space/2025/10/how-america-fell-behind-china-in-the-lunar-space-race-and-how-it-can-catch-back-up/" >🔗</a> **[Arstechnica]** How America fell behind China in the lunar space race—and how it can catch back up
-- <a href="https://spacenews.com/preparations-on-track-for-second-new-glenn-launch/" >🔗</a> **[SpaceNews]** Preparations on track for second New Glenn launch
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251003T012834">2025-10-03 01:28:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251003T020457">2025-10-03 02:04:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
