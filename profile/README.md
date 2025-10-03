@@ -97,19 +97,20 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/10/02/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 3rd consecutive Falcon 9 rocket from Vandenberg SFB, uninterrupted by a Cape mission
 - <a href="https://europeanspaceflight.com/dlr-prepares-to-launch-small-reusable-space-transportation-demonstrator/" >🔗</a> **[European Spaceflight]** DLR Prepares to Launch Small Reusable Space Transportation Demonstrator
 - <a href="https://spacenews.com/space-security-threats-and-rapid-innovation/" >🔗</a> **[SpaceNews]** Space security, threats and rapid innovation
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/10/Fly_over_Xanthe_Terra_with_Mars_Express" >🔗</a> **[ESA]** Fly over Xanthe Terra with Mars Express
 - <a href="https://spacenews.com/chinas-near-space-legal-warfare/" >🔗</a> **[SpaceNews]** China’s ‘near space’ legal warfare
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/10/Fly_over_Xanthe_Terra_with_Mars_Express" >🔗</a> **[ESA]** Fly over Xanthe Terra with Mars Express
 - <a href="https://arstechnica.com/space/2025/10/how-america-fell-behind-china-in-the-lunar-space-race-and-how-it-can-catch-back-up/" >🔗</a> **[Arstechnica]** How America fell behind China in the lunar space race—and how it can catch back up
 
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2025/10/02/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 3rd consecutive Falcon 9 rocket from Vandenberg SFB, uninterrupted by a Cape mission
 - <a href="https://www.nasaspaceflight.com/2025/09/launch-roundup-092925/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9 launches Starlink and Kuiper satellites
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251003T060145">2025-10-03 06:01:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251003T063816">2025-10-03 06:38:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
