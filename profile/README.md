@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/10/rocket-report-alpha-explodes-on-test-stand-europe-wants-a-mini-starship/" >🔗</a> **[Arstechnica]** Rocket Report: Alpha explodes on test stand; Europe wants a mini Starship
+- <a href="https://spacenews.com/servir-lives-on-through-concerted-global-campaign/" >🔗</a> **[SpaceNews]** SERVIR lives on through concerted global campaign
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/10/Tracking_satellites_at_the_speed_of_light" >🔗</a> **[ESA]** Tracking satellites at the speed of light
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/10/Sample_processing" >🔗</a> **[ESA]** Sample processing
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/Earth_from_Space_Kilauea_lava_lake_Hawaii" >🔗</a> **[ESA]** Earth from Space: Kilauea lava lake, Hawaii
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/10/Sample_processing" >🔗</a> **[ESA]** Sample processing
 - <a href="https://europeanspaceflight.com/maiaspace-received-e180m-in-advance-payments-in-2024/" >🔗</a> **[European Spaceflight]** MaiaSpace Received €180M in Advance Payments in 2024
 - <a href="https://spacenews.com/starlab-partners-unveil-full-scale-mockup-of-commercial-space-station/" >🔗</a> **[SpaceNews]** Starlab partners unveil full-scale mockup of commercial space station
 - <a href="https://spacenews.com/heo-looks-to-expand-satellite-imaging-beyond-low-earth-orbit/" >🔗</a> **[SpaceNews]** HEO looks to expand satellite imaging beyond low Earth orbit
 - <a href="https://spacenews.com/the-spreadsheet-behind-the-golden-dome-sticker-shock/" >🔗</a> **[SpaceNews]** The spreadsheet behind the Golden Dome sticker shock
 - <a href="https://spacenews.com/at-iac-global-space-cooperation-meets-american-space-dominance/" >🔗</a> **[SpaceNews]** At IAC, global space cooperation meets American space dominance
-- <a href="https://www.nasaspaceflight.com/2025/10/rubin-vs-jwst/" >🔗</a> **[NASASpaceflight]** Wide-field surveys versus precise infrared observations: how Rubin compares to JWST
-- <a href="https://spaceflightnow.com/2025/10/02/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 3rd consecutive Falcon 9 rocket from Vandenberg SFB, uninterrupted by a Cape mission
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251003T110105">2025-10-03 11:01:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251003T113100">2025-10-03 11:31:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
