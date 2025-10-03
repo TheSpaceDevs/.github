@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/10/beck-neutron-update/" >🔗</a> **[NASASpaceflight]** Peter Beck discusses Neutron development as maiden flight nears
 - <a href="https://spacenews.com/echostar-clears-key-regulatory-step-for-spectrum-sale-to-spacex/" >🔗</a> **[SpaceNews]** EchoStar clears key regulatory step for spectrum sale to SpaceX
 - <a href="https://spacenews.com/the-real-space-war-is-being-fought-in-cyberspace/" >🔗</a> **[SpaceNews]** The real space war is being fought in cyberspace
 - <a href="https://spacenews.com/nasas-newest-astronauts-will-have-to-be-willing-to-wait/" >🔗</a> **[SpaceNews]** NASA’s newest astronauts will have to be willing to wait
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/10/Tracking_satellites_at_the_speed_of_light" >🔗</a> **[ESA]** Tracking satellites at the speed of light
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/Earth_from_Space_Kilauea_lava_lake_Hawaii" >🔗</a> **[ESA]** Earth from Space: Kilauea lava lake, Hawaii
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/10/Sample_processing" >🔗</a> **[ESA]** Sample processing
-- <a href="https://europeanspaceflight.com/maiaspace-received-e180m-in-advance-payments-in-2024/" >🔗</a> **[European Spaceflight]** MaiaSpace Received €180M in Advance Payments in 2024
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251003T210137">2025-10-03 21:01:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251003T213054">2025-10-03 21:30:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
