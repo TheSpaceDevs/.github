@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/shutdown-continues-with-no-immediate-end-in-sight/" >🔗</a> **[SpacePolicyOnline.com]** Shutdown Continues With No Immediate End in Sight
+- <a href="https://spacenews.com/gilmour-space-plans-return-to-flight-next-year/" >🔗</a> **[SpaceNews]** Gilmour Space plans return to flight next year
 - <a href="https://www.nasaspaceflight.com/2025/10/beck-neutron-update/" >🔗</a> **[NASASpaceflight]** Peter Beck discusses Neutron development as maiden flight nears
 - <a href="https://spacenews.com/echostar-clears-key-regulatory-step-for-spectrum-sale-to-spacex/" >🔗</a> **[SpaceNews]** EchoStar clears key regulatory step for spectrum sale to SpaceX
 - <a href="https://spacenews.com/the-real-space-war-is-being-fought-in-cyberspace/" >🔗</a> **[SpaceNews]** The real space war is being fought in cyberspace
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2025/10/rocket-report-alpha-explodes-on-test-stand-europe-wants-a-mini-starship/" >🔗</a> **[Arstechnica]** Rocket Report: Alpha explodes on test stand; Europe wants a mini Starship
 - <a href="https://spacenews.com/servir-lives-on-through-concerted-global-campaign/" >🔗</a> **[SpaceNews]** SERVIR lives on through concerted global campaign
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/10/Tracking_satellites_at_the_speed_of_light" >🔗</a> **[ESA]** Tracking satellites at the speed of light
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/Earth_from_Space_Kilauea_lava_lake_Hawaii" >🔗</a> **[ESA]** Earth from Space: Kilauea lava lake, Hawaii
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/10/Sample_processing" >🔗</a> **[ESA]** Sample processing
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251003T230120">2025-10-03 23:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251003T233054">2025-10-03 23:30:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
