@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/Earth_from_Space_Kilauea_lava_lake_Hawaii" >🔗</a> **[ESA]** Earth from Space: Kilauea lava lake, Hawaii
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/10/Sample_processing" >🔗</a> **[ESA]** Sample processing
 - <a href="https://europeanspaceflight.com/maiaspace-received-e180m-in-advance-payments-in-2024/" >🔗</a> **[European Spaceflight]** MaiaSpace Received €180M in Advance Payments in 2024
 - <a href="https://spacenews.com/starlab-partners-unveil-full-scale-mockup-of-commercial-space-station/" >🔗</a> **[SpaceNews]** Starlab partners unveil full-scale mockup of commercial space station
 - <a href="https://spacenews.com/heo-looks-to-expand-satellite-imaging-beyond-low-earth-orbit/" >🔗</a> **[SpaceNews]** HEO looks to expand satellite imaging beyond low Earth orbit
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2025/10/rubin-vs-jwst/" >🔗</a> **[NASASpaceflight]** Wide-field surveys versus precise infrared observations: how Rubin compares to JWST
 - <a href="https://spaceflightnow.com/2025/10/02/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 3rd consecutive Falcon 9 rocket from Vandenberg SFB, uninterrupted by a Cape mission
 - <a href="https://europeanspaceflight.com/dlr-prepares-to-launch-small-reusable-space-transportation-demonstrator/" >🔗</a> **[European Spaceflight]** DLR Prepares to Launch Small Reusable Space Transportation Demonstrator
-- <a href="https://spacenews.com/space-security-threats-and-rapid-innovation/" >🔗</a> **[SpaceNews]** Space security, threats and rapid innovation
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251003T090141">2025-10-03 09:01:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251003T093205">2025-10-03 09:32:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
