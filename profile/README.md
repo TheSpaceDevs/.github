@@ -54,7 +54,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251012T195900">2025-10-12 19:59:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-19&location=Vandenberg SFB, CA, USA&dates=20251012T195900Z%2F20251012T235900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-19** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251013T231500">2025-10-13 23:15:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Starship | Flight 11&location=SpaceX Starbase, TX, USA&dates=20251013T231500Z%2F20251014T001500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starship | Flight 11** from SpaceX Starbase, TX, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251014T231100">2025-10-14 23:11:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SDA Tranche 1 Transport Layer C&location=Vandenberg SFB, CA, USA&dates=20251014T231100Z%2F20251014T231100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | SDA Tranche 1 Transport Layer C** from Vandenberg SFB, CA, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251016T113000">2025-10-16 11:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=LVM-3 | CMS-02 (GSAT-7R)&location=Satish Dhawan Space Centre, India&dates=20251016T113000Z%2F20251016T153000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **LVM-3 | CMS-02 (GSAT-7R)** from Satish Dhawan Space Centre, India.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251015T162100">2025-10-15 16:21:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-17&location=Cape Canaveral SFS, FL, USA&dates=20251015T162100Z%2F20251015T202100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-17** from Cape Canaveral SFS, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/the-real-space-war-is-being-fought-in-cyberspace/" >🔗</a> **[SpaceNews]** The real space war is being fought in cyberspace
 - <a href="https://spacenews.com/nasas-newest-astronauts-will-have-to-be-willing-to-wait/" >🔗</a> **[SpaceNews]** NASA’s newest astronauts will have to be willing to wait
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_29_September_-_3_October_2025" >🔗</a> **[ESA]** Week in images: 29 September - 3 October 2025
 - <a href="https://arstechnica.com/space/2025/10/rocket-report-alpha-explodes-on-test-stand-europe-wants-a-mini-starship/" >🔗</a> **[Arstechnica]** Rocket Report: Alpha explodes on test stand; Europe wants a mini Starship
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/10/Sample_processing" >🔗</a> **[ESA]** Sample processing
 - <a href="https://europeanspaceflight.com/maiaspace-received-e180m-in-advance-payments-in-2024/" >🔗</a> **[European Spaceflight]** MaiaSpace Received €180M in Advance Payments in 2024
 - <a href="https://spacenews.com/starlab-partners-unveil-full-scale-mockup-of-commercial-space-station/" >🔗</a> **[SpaceNews]** Starlab partners unveil full-scale mockup of commercial space station
-- <a href="https://spacenews.com/heo-looks-to-expand-satellite-imaging-beyond-low-earth-orbit/" >🔗</a> **[SpaceNews]** HEO looks to expand satellite imaging beyond low Earth orbit
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251003T150149">2025-10-03 15:01:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251003T153250">2025-10-03 15:32:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
