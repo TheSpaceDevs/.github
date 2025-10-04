@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/spaceforest-aims-to-capture-70-of-european-demand-for-suborbital-flights/" >🔗</a> **[European Spaceflight]** SpaceForest Aims to Capture 70% of European Demand for Suborbital Flights
 - <a href="https://spacepolicyonline.com/news/shutdown-continues-with-no-immediate-end-in-sight/" >🔗</a> **[SpacePolicyOnline.com]** Shutdown Continues With No Immediate End in Sight
 - <a href="https://spacenews.com/gilmour-space-plans-return-to-flight-next-year/" >🔗</a> **[SpaceNews]** Gilmour Space plans return to flight next year
 - <a href="https://www.nasaspaceflight.com/2025/10/beck-neutron-update/" >🔗</a> **[NASASpaceflight]** Peter Beck discusses Neutron development as maiden flight nears
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_29_September_-_3_October_2025" >🔗</a> **[ESA]** Week in images: 29 September - 3 October 2025
 - <a href="https://arstechnica.com/space/2025/10/rocket-report-alpha-explodes-on-test-stand-europe-wants-a-mini-starship/" >🔗</a> **[Arstechnica]** Rocket Report: Alpha explodes on test stand; Europe wants a mini Starship
 - <a href="https://spacenews.com/servir-lives-on-through-concerted-global-campaign/" >🔗</a> **[SpaceNews]** SERVIR lives on through concerted global campaign
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/10/Tracking_satellites_at_the_speed_of_light" >🔗</a> **[ESA]** Tracking satellites at the speed of light
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251004T070117">2025-10-04 07:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251004T073103">2025-10-04 07:31:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
