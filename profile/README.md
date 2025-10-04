@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacex-lands-majority-of-u-s-national-security-launches-awarded-for-fiscal-year-2026/" >🔗</a> **[SpaceNews]** SpaceX lands majority of U.S. national security launches awarded for fiscal year 2026
 - <a href="https://www.esa.int/Enabling_Support/Operations/ESA_inaugurates_deep_space_antenna_in_Australia" >🔗</a> **[ESA]** ESA inaugurates deep space antenna in Australia
 - <a href="https://europeanspaceflight.com/spaceforest-aims-to-capture-70-of-european-demand-for-suborbital-flights/" >🔗</a> **[European Spaceflight]** SpaceForest Aims to Capture 70% of European Demand for Suborbital Flights
 - <a href="https://spacepolicyonline.com/news/shutdown-continues-with-no-immediate-end-in-sight/" >🔗</a> **[SpacePolicyOnline.com]** Shutdown Continues With No Immediate End in Sight
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/the-real-space-war-is-being-fought-in-cyberspace/" >🔗</a> **[SpaceNews]** The real space war is being fought in cyberspace
 - <a href="https://spacenews.com/nasas-newest-astronauts-will-have-to-be-willing-to-wait/" >🔗</a> **[SpaceNews]** NASA’s newest astronauts will have to be willing to wait
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_29_September_-_3_October_2025" >🔗</a> **[ESA]** Week in images: 29 September - 3 October 2025
-- <a href="https://arstechnica.com/space/2025/10/rocket-report-alpha-explodes-on-test-stand-europe-wants-a-mini-starship/" >🔗</a> **[Arstechnica]** Rocket Report: Alpha explodes on test stand; Europe wants a mini Starship
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251004T110112">2025-10-04 11:01:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251004T113101">2025-10-04 11:31:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
