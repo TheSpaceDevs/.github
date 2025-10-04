@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/10/04/spacex-to-launch-4-falcon-heavy-rockets-as-part-of-newest-u-s-national-security-missions-award/" >🔗</a> **[Spaceflight Now]** SpaceX to launch 4 Falcon Heavy rockets as part of newest U.S. national security missions award
 - <a href="https://spacenews.com/spacex-lands-majority-of-u-s-national-security-launches-awarded-for-fiscal-year-2026/" >🔗</a> **[SpaceNews]** SpaceX lands majority of U.S. national security launches awarded for fiscal year 2026
 - <a href="https://www.esa.int/Enabling_Support/Operations/ESA_inaugurates_deep_space_antenna_in_Australia" >🔗</a> **[ESA]** ESA inaugurates deep space antenna in Australia
 - <a href="https://europeanspaceflight.com/spaceforest-aims-to-capture-70-of-european-demand-for-suborbital-flights/" >🔗</a> **[European Spaceflight]** SpaceForest Aims to Capture 70% of European Demand for Suborbital Flights
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/echostar-clears-key-regulatory-step-for-spectrum-sale-to-spacex/" >🔗</a> **[SpaceNews]** EchoStar clears key regulatory step for spectrum sale to SpaceX
 - <a href="https://spacenews.com/the-real-space-war-is-being-fought-in-cyberspace/" >🔗</a> **[SpaceNews]** The real space war is being fought in cyberspace
 - <a href="https://spacenews.com/nasas-newest-astronauts-will-have-to-be-willing-to-wait/" >🔗</a> **[SpaceNews]** NASA’s newest astronauts will have to be willing to wait
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_29_September_-_3_October_2025" >🔗</a> **[ESA]** Week in images: 29 September - 3 October 2025
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251004T153059">2025-10-04 15:30:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251004T160123">2025-10-04 16:01:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
