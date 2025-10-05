@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/firefly-to-acquire-defense-contractor-scitec-in-855-million-deal/" >🔗</a> **[SpaceNews]** Firefly to acquire defense contractor SciTec in $855 million deal
 - <a href="https://spacenews.com/esa-inaugurates-new-deep-space-antenna-in-australia/" >🔗</a> **[SpaceNews]** ESA inaugurates new deep space antenna in Australia
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-5-11-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy October 5-11, 2025
 - <a href="https://spaceflightnow.com/2025/10/04/spacex-to-launch-4-falcon-heavy-rockets-as-part-of-newest-u-s-national-security-missions-award/" >🔗</a> **[Spaceflight Now]** SpaceX to launch 4 Falcon Heavy rockets as part of newest U.S. national security missions award
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/shutdown-continues-with-no-immediate-end-in-sight/" >🔗</a> **[SpacePolicyOnline.com]** Shutdown Continues With No Immediate End in Sight
 - <a href="https://spacenews.com/gilmour-space-plans-return-to-flight-next-year/" >🔗</a> **[SpaceNews]** Gilmour Space plans return to flight next year
 - <a href="https://www.nasaspaceflight.com/2025/10/beck-neutron-update/" >🔗</a> **[NASASpaceflight]** Peter Beck discusses Neutron development as maiden flight nears
-- <a href="https://spacenews.com/echostar-clears-key-regulatory-step-for-spectrum-sale-to-spacex/" >🔗</a> **[SpaceNews]** EchoStar clears key regulatory step for spectrum sale to SpaceX
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251005T213103">2025-10-05 21:31:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251005T220117">2025-10-05 22:01:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
