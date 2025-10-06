@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/utilize-the-iss-as-a-resource-a-common-sense-fiscally-responsible-plan-leveraging-the-international-space-station/" >🔗</a> **[SpaceNews]** Utilize the ISS as a resource: a common sense, fiscally responsible plan leveraging the International Space Station
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Navigating_through_interference_at_Jammertest" >🔗</a> **[ESA]** Navigating through interference at Jammertest
 - <a href="https://spacenews.com/firefly-to-acquire-defense-contractor-scitec-in-855-million-deal/" >🔗</a> **[SpaceNews]** Firefly to acquire defense contractor SciTec in $855 million deal
 - <a href="https://spacenews.com/esa-inaugurates-new-deep-space-antenna-in-australia/" >🔗</a> **[SpaceNews]** ESA inaugurates new deep space antenna in Australia
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Enabling_Support/Operations/ESA_inaugurates_deep_space_antenna_in_Australia" >🔗</a> **[ESA]** ESA inaugurates deep space antenna in Australia
 - <a href="https://europeanspaceflight.com/spaceforest-aims-to-capture-70-of-european-demand-for-suborbital-flights/" >🔗</a> **[European Spaceflight]** SpaceForest Aims to Capture 70% of European Demand for Suborbital Flights
 - <a href="https://spacepolicyonline.com/news/shutdown-continues-with-no-immediate-end-in-sight/" >🔗</a> **[SpacePolicyOnline.com]** Shutdown Continues With No Immediate End in Sight
-- <a href="https://spacenews.com/gilmour-space-plans-return-to-flight-next-year/" >🔗</a> **[SpaceNews]** Gilmour Space plans return to flight next year
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251006T130835">2025-10-06 13:08:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251006T133727">2025-10-06 13:37:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
