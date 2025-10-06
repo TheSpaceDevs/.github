@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/fcc-launches-space-month-to-fast-track-satellite-licensing-and-spectrum-reforms/" >🔗</a> **[SpaceNews]** FCC launches ‘Space Month’ to fast-track satellite licensing and spectrum reforms
+- <a href="https://www.nasaspaceflight.com/2025/10/launch-roundup-100625/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9 to launch five times, Blue Origin to launch crew
 - <a href="https://spacenews.com/laying-the-foundation-for-americas-space-future/" >🔗</a> **[SpaceNews]** Laying the foundation for America’s space future
 - <a href="https://spaceflightnow.com/2025/10/06/live-coverage-spacex-to-launch-falcon-9-rocket-on-90th-starlink-mission-of-2025/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Falcon 9 rocket on 90th Starlink mission of 2025
 - <a href="https://europeanspaceflight.com/esa-to-procure-iss-cargo-service-to-meet-common-cost-obligations/" >🔗</a> **[European Spaceflight]** ESA to Procure ISS Cargo Service to Meet Common Cost Obligations
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Navigating_through_interference_at_Jammertest" >🔗</a> **[ESA]** Navigating through interference at Jammertest
 - <a href="https://spacenews.com/firefly-to-acquire-defense-contractor-scitec-in-855-million-deal/" >🔗</a> **[SpaceNews]** Firefly to acquire defense contractor SciTec in $855 million deal
 - <a href="https://spacenews.com/esa-inaugurates-new-deep-space-antenna-in-australia/" >🔗</a> **[SpaceNews]** ESA inaugurates new deep space antenna in Australia
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-5-11-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy October 5-11, 2025
-- <a href="https://spaceflightnow.com/2025/10/04/spacex-to-launch-4-falcon-heavy-rockets-as-part-of-newest-u-s-national-security-missions-award/" >🔗</a> **[Spaceflight Now]** SpaceX to launch 4 Falcon Heavy rockets as part of newest U.S. national security missions award
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251006T213100">2025-10-06 21:31:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251006T220135">2025-10-06 22:01:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
