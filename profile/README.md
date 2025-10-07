@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/novaspace-projects-665b-in-satellite-build-and-launch-activity/" >🔗</a> **[SpaceNews]** Novaspace Projects $665B in Satellite Build and Launch Activity
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/ESA_s_ExoMars_and_Mars_Express_observe_comet_3I_ATLAS" >🔗</a> **[ESA]** ESA’s ExoMars and Mars Express observe comet 3I/ATLAS
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/ESA_s_ExoMars_and_Mars_Express_observe_comet_3I_ATLAS" >🔗</a> **[ESA]** ESA’s ExoMars and Mars Express observe comet 3I/ATLAS
 - <a href="https://europeanspaceflight.com/poland-adds-fourth-satellite-to-camila-earth-observation-constellation/" >🔗</a> **[European Spaceflight]** Poland Adds Fourth Satellite to CAMILA Earth Observation Constellation
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/10/Hera_s_first_year_in_space" >🔗</a> **[ESA]** Hera’s first year in space
 - <a href="https://spacenews.com/britains-space-security-needs-more-than-government-funding/" >🔗</a> **[SpaceNews]** Britain’s space security needs more than government funding
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2025/10/launch-roundup-100625/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9 to launch five times, Blue Origin to launch crew
 - <a href="https://spacenews.com/laying-the-foundation-for-americas-space-future/" >🔗</a> **[SpaceNews]** Laying the foundation for America’s space future
 - <a href="https://spaceflightnow.com/2025/10/06/live-coverage-spacex-to-launch-falcon-9-rocket-on-90th-starlink-mission-of-2025/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Falcon 9 rocket on 90th Starlink mission of 2025
-- <a href="https://europeanspaceflight.com/esa-to-procure-iss-cargo-service-to-meet-common-cost-obligations/" >🔗</a> **[European Spaceflight]** ESA to Procure ISS Cargo Service to Meet Common Cost Obligations
-- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Large_Space_Simulator_gets_a_digital_twin" >🔗</a> **[ESA]** Large Space Simulator gets a digital twin
-- <a href="https://spacenews.com/cubic-targets-military-satcom-market-with-vector-terminals/" >🔗</a> **[SpaceNews]** Cubic targets military satcom market with ‘Vector’ terminals
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251007T150127">2025-10-07 15:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251007T153416">2025-10-07 15:34:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
