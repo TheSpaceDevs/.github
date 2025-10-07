@@ -95,20 +95,21 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/laying-the-foundation-for-americas-space-future/" >🔗</a> **[SpaceNews]** Laying the foundation for America’s space future
 - <a href="https://spaceflightnow.com/2025/10/06/live-coverage-spacex-to-launch-falcon-9-rocket-on-90th-starlink-mission-of-2025/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Falcon 9 rocket on 90th Starlink mission of 2025
 - <a href="https://europeanspaceflight.com/esa-to-procure-iss-cargo-service-to-meet-common-cost-obligations/" >🔗</a> **[European Spaceflight]** ESA to Procure ISS Cargo Service to Meet Common Cost Obligations
+- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Large_Space_Simulator_gets_a_digital_twin" >🔗</a> **[ESA]** Large Space Simulator gets a digital twin
 - <a href="https://spacenews.com/cubic-targets-military-satcom-market-with-vector-terminals/" >🔗</a> **[SpaceNews]** Cubic targets military satcom market with ‘Vector’ terminals
 - <a href="https://spacenews.com/utilize-the-iss-as-a-resource-a-common-sense-fiscally-responsible-plan-leveraging-the-international-space-station/" >🔗</a> **[SpaceNews]** Utilize the ISS as a resource: a common sense, fiscally responsible plan leveraging the International Space Station
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Navigating_through_interference_at_Jammertest" >🔗</a> **[ESA]** Navigating through interference at Jammertest
 - <a href="https://spacenews.com/firefly-to-acquire-defense-contractor-scitec-in-855-million-deal/" >🔗</a> **[SpaceNews]** Firefly to acquire defense contractor SciTec in $855 million deal
-- <a href="https://spacenews.com/esa-inaugurates-new-deep-space-antenna-in-australia/" >🔗</a> **[SpaceNews]** ESA inaugurates new deep space antenna in Australia
 
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2025/10/launch-roundup-100625/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9 to launch five times, Blue Origin to launch crew
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251007T090154">2025-10-07 09:01:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251007T093329">2025-10-07 09:33:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
