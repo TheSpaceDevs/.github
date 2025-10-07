@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/10/Hera_s_first_year_in_space" >🔗</a> **[ESA]** Hera’s first year in space
+- <a href="https://spacenews.com/britains-space-security-needs-more-than-government-funding/" >🔗</a> **[SpaceNews]** Britain’s space security needs more than government funding
 - <a href="https://spacenews.com/fcc-launches-space-month-to-fast-track-satellite-licensing-and-spectrum-reforms/" >🔗</a> **[SpaceNews]** FCC launches ‘Space Month’ to fast-track satellite licensing and spectrum reforms
 - <a href="https://www.nasaspaceflight.com/2025/10/launch-roundup-100625/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9 to launch five times, Blue Origin to launch crew
 - <a href="https://spacenews.com/laying-the-foundation-for-americas-space-future/" >🔗</a> **[SpaceNews]** Laying the foundation for America’s space future
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Large_Space_Simulator_gets_a_digital_twin" >🔗</a> **[ESA]** Large Space Simulator gets a digital twin
 - <a href="https://spacenews.com/cubic-targets-military-satcom-market-with-vector-terminals/" >🔗</a> **[SpaceNews]** Cubic targets military satcom market with ‘Vector’ terminals
 - <a href="https://spacenews.com/utilize-the-iss-as-a-resource-a-common-sense-fiscally-responsible-plan-leveraging-the-international-space-station/" >🔗</a> **[SpaceNews]** Utilize the ISS as a resource: a common sense, fiscally responsible plan leveraging the International Space Station
-- <a href="https://www.esa.int/Applications/Satellite_navigation/Navigating_through_interference_at_Jammertest" >🔗</a> **[ESA]** Navigating through interference at Jammertest
-- <a href="https://spacenews.com/firefly-to-acquire-defense-contractor-scitec-in-855-million-deal/" >🔗</a> **[SpaceNews]** Firefly to acquire defense contractor SciTec in $855 million deal
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251007T130852">2025-10-07 13:08:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251007T133752">2025-10-07 13:37:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
