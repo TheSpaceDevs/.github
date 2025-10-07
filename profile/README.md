@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/sateliot-hails-first-standards-based-iot-connection-from-leo-to-a-commercial-device/" >🔗</a> **[SpaceNews]** Sateliot hails first standards-based IoT connection from LEO to a commercial device
 - <a href="https://spaceflightnow.com/2025/10/07/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://spacenews.com/blue-origin-wins-78-2-million-contract-to-expand-satellite-processing-infrastructure-at-cape-canaveral/" >🔗</a> **[SpaceNews]** Blue Origin wins $78.2 million contract to expand satellite processing infrastructure at Cape Canaveral
 - <a href="https://spacenews.com/senators-spar-over-plans-to-move-shuttle-discovery/" >🔗</a> **[SpaceNews]** Senators spar over plans to move shuttle Discovery
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/poland-adds-fourth-satellite-to-camila-earth-observation-constellation/" >🔗</a> **[European Spaceflight]** Poland Adds Fourth Satellite to CAMILA Earth Observation Constellation
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/10/Hera_s_first_year_in_space" >🔗</a> **[ESA]** Hera’s first year in space
 - <a href="https://spacenews.com/britains-space-security-needs-more-than-government-funding/" >🔗</a> **[SpaceNews]** Britain’s space security needs more than government funding
-- <a href="https://spacenews.com/fcc-launches-space-month-to-fast-track-satellite-licensing-and-spectrum-reforms/" >🔗</a> **[SpaceNews]** FCC launches ‘Space Month’ to fast-track satellite licensing and spectrum reforms
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251007T220115">2025-10-07 22:01:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251007T223255">2025-10-07 22:32:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
