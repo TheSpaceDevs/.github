@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/blue-origin-wins-78-2-million-contract-to-expand-satellite-processing-infrastructure-at-cape-canaveral/" >🔗</a> **[SpaceNews]** Blue Origin wins $78.2 million contract to expand satellite processing infrastructure at Cape Canaveral
+- <a href="https://spacenews.com/senators-spar-over-plans-to-move-shuttle-discovery/" >🔗</a> **[SpaceNews]** Senators spar over plans to move shuttle Discovery
 - <a href="https://spacenews.com/novaspace-projects-665b-in-satellite-build-and-launch-activity/" >🔗</a> **[SpaceNews]** Novaspace Projects $665B in Satellite Build and Launch Activity
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/ESA_s_ExoMars_and_Mars_Express_observe_comet_3I_ATLAS" >🔗</a> **[ESA]** ESA’s ExoMars and Mars Express observe comet 3I/ATLAS
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/ESA_s_ExoMars_and_Mars_Express_observe_comet_3I_ATLAS" >🔗</a> **[ESA]** ESA’s ExoMars and Mars Express observe comet 3I/ATLAS
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/ESA_s_ExoMars_and_Mars_Express_observe_comet_3I_ATLAS" >🔗</a> **[ESA]** ESA’s ExoMars and Mars Express observe comet 3I/ATLAS
 - <a href="https://europeanspaceflight.com/poland-adds-fourth-satellite-to-camila-earth-observation-constellation/" >🔗</a> **[European Spaceflight]** Poland Adds Fourth Satellite to CAMILA Earth Observation Constellation
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/10/Hera_s_first_year_in_space" >🔗</a> **[ESA]** Hera’s first year in space
 - <a href="https://spacenews.com/britains-space-security-needs-more-than-government-funding/" >🔗</a> **[SpaceNews]** Britain’s space security needs more than government funding
 - <a href="https://spacenews.com/fcc-launches-space-month-to-fast-track-satellite-licensing-and-spectrum-reforms/" >🔗</a> **[SpaceNews]** FCC launches ‘Space Month’ to fast-track satellite licensing and spectrum reforms
 - <a href="https://www.nasaspaceflight.com/2025/10/launch-roundup-100625/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9 to launch five times, Blue Origin to launch crew
-- <a href="https://spacenews.com/laying-the-foundation-for-americas-space-future/" >🔗</a> **[SpaceNews]** Laying the foundation for America’s space future
-- <a href="https://spaceflightnow.com/2025/10/06/live-coverage-spacex-to-launch-falcon-9-rocket-on-90th-starlink-mission-of-2025/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Falcon 9 rocket on 90th Starlink mission of 2025
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251007T193102">2025-10-07 19:31:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251007T200120">2025-10-07 20:01:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
