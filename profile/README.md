@@ -92,6 +92,7 @@ into *a Suborbital
 ### Latest News ⌛
 - <a href="https://spacenews.com/space-infrastructure-investments-surge-to-five-quarter-high/" >🔗</a> **[SpaceNews]** Space infrastructure investments surge to five-quarter high
 - <a href="https://europeanspaceflight.com/sabca-secures-e85-million-ariane-6-operational-phase-contract/" >🔗</a> **[European Spaceflight]** Sabca Secures €85 Million Ariane 6 Operational Phase Contract
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_preparations_underway_in_Kourou" >🔗</a> **[ESA]** Sentinel-1D preparations underway in Kourou
 - <a href="https://www.esa.int/Enabling_Support/Operations/Rehearsing_for_Sentinel-6B_s_early_days_in_space" >🔗</a> **[ESA]** Rehearsing for Sentinel-6B’s early days in space
 - <a href="https://spacepolicyonline.com/news/scientists-make-the-case-for-nasa-science/" >🔗</a> **[SpacePolicyOnline.com]** Scientists Make the Case for NASA Science
 - <a href="https://spacenews.com/sateliot-hails-first-standards-based-iot-connection-from-leo-to-a-commercial-device/" >🔗</a> **[SpaceNews]** Sateliot hails first standards-based IoT connection from LEO to a commercial device
@@ -99,7 +100,6 @@ into *a Suborbital
 - <a href="https://spacenews.com/blue-origin-wins-78-2-million-contract-to-expand-satellite-processing-infrastructure-at-cape-canaveral/" >🔗</a> **[SpaceNews]** Blue Origin wins $78.2 million contract to expand satellite processing infrastructure at Cape Canaveral
 - <a href="https://spacenews.com/senators-spar-over-plans-to-move-shuttle-discovery/" >🔗</a> **[SpaceNews]** Senators spar over plans to move shuttle Discovery
 - <a href="https://spacenews.com/novaspace-projects-665b-in-satellite-build-and-launch-activity/" >🔗</a> **[SpaceNews]** Novaspace Projects $665B in Satellite Build and Launch Activity
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/ESA_s_ExoMars_and_Mars_Express_observe_comet_3I_ATLAS" >🔗</a> **[ESA]** ESA’s ExoMars and Mars Express observe comet 3I/ATLAS
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251008T113059">2025-10-08 11:30:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251008T120202">2025-10-08 12:02:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
