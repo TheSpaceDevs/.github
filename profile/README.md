@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/blue-origin-flies-sixth-crewed-new-shepard-flight-of-2025/" >🔗</a> **[SpaceNews]** Blue Origin flies sixth crewed New Shepard flight of 2025
+- <a href="https://spacenews.com/space-force-sets-up-working-capital-fund-for-commercial-space-services/" >🔗</a> **[SpaceNews]** Space Force sets up ‘working capital fund’ for commercial space services
+- <a href="https://www.nasaspaceflight.com/2025/10/iss-roundup-100825/" >🔗</a> **[NASASpaceflight]** Japan prepares new ISS cargo vehicle as trio of cargo spacecraft deliver new experiments and hardware
 - <a href="https://spacenews.com/ast-spacemobile-gains-verizon-ally-amid-spacexs-direct-to-device-push/" >🔗</a> **[SpaceNews]** AST SpaceMobile gains Verizon ally amid SpaceX’s direct-to-device push
 - <a href="https://spacenews.com/space-force-taps-muons-wildfire-monitoring-satellites-for-weather-imaging/" >🔗</a> **[SpaceNews]** Space Force taps Muon’s wildfire monitoring satellites for weather imaging
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Dancing_dust_devils_trace_raging_winds_on_Mars" >🔗</a> **[ESA]** Dancing dust devils trace raging winds on Mars
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2025/10/the-second-new-glenn-rolls-to-the-launch-pad-and-they-expect-to-recover-this-one/" >🔗</a> **[Arstechnica]** The second New Glenn rolls to the launch pad—and they expect to recover this one
 - <a href="https://spacenews.com/golden-dome-whats-its-story/" >🔗</a> **[SpaceNews]** Golden Dome: What’s its story?
 - <a href="https://spacenews.com/space-infrastructure-investments-surge-to-five-quarter-high/" >🔗</a> **[SpaceNews]** Space infrastructure investments surge to five-quarter high
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Space_for_our_climate/Satellites_reveal_the_power_of_ocean_swell" >🔗</a> **[ESA]** Satellites reveal the power of ocean swell
-- <a href="https://europeanspaceflight.com/sabca-secures-e85-million-ariane-6-operational-phase-contract/" >🔗</a> **[European Spaceflight]** Sabca Secures €85 Million Ariane 6 Operational Phase Contract
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_preparations_underway_in_Kourou" >🔗</a> **[ESA]** Sentinel-1D preparations underway in Kourou
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251008T210140">2025-10-08 21:01:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251008T213102">2025-10-08 21:31:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
