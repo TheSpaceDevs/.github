@@ -90,6 +90,8 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/sabca-secures-e85-million-ariane-6-operational-phase-contract/" >🔗</a> **[European Spaceflight]** Sabca Secures €85 Million Ariane 6 Operational Phase Contract
+- <a href="https://www.esa.int/Enabling_Support/Operations/Rehearsing_for_Sentinel-6B_s_early_days_in_space" >🔗</a> **[ESA]** Rehearsing for Sentinel-6B’s early days in space
 - <a href="https://spacepolicyonline.com/news/scientists-make-the-case-for-nasa-science/" >🔗</a> **[SpacePolicyOnline.com]** Scientists Make the Case for NASA Science
 - <a href="https://spacenews.com/sateliot-hails-first-standards-based-iot-connection-from-leo-to-a-commercial-device/" >🔗</a> **[SpaceNews]** Sateliot hails first standards-based IoT connection from LEO to a commercial device
 - <a href="https://spaceflightnow.com/2025/10/07/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
@@ -98,8 +100,6 @@ into *a Suborbital
 - <a href="https://spacenews.com/novaspace-projects-665b-in-satellite-build-and-launch-activity/" >🔗</a> **[SpaceNews]** Novaspace Projects $665B in Satellite Build and Launch Activity
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/ESA_s_ExoMars_and_Mars_Express_observe_comet_3I_ATLAS" >🔗</a> **[ESA]** ESA’s ExoMars and Mars Express observe comet 3I/ATLAS
 - <a href="https://europeanspaceflight.com/poland-adds-fourth-satellite-to-camila-earth-observation-constellation/" >🔗</a> **[European Spaceflight]** Poland Adds Fourth Satellite to CAMILA Earth Observation Constellation
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/10/Hera_s_first_year_in_space" >🔗</a> **[ESA]** Hera’s first year in space
-- <a href="https://spacenews.com/britains-space-security-needs-more-than-government-funding/" >🔗</a> **[SpaceNews]** Britain’s space security needs more than government funding
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251008T100126">2025-10-08 10:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251008T103512">2025-10-08 10:35:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
