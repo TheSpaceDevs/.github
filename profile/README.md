@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Dancing_dust_devils_trace_raging_winds_on_Mars" >🔗</a> **[ESA]** Dancing dust devils trace raging winds on Mars
 - <a href="https://spaceflightnow.com/2025/10/08/blue-origin-transports-new-glenn-booster-to-launch-site-ahead-of-mars-bound-mission/" >🔗</a> **[Spaceflight Now]** Blue Origin transports New Glenn booster to launch site ahead of Mars-bound mission
 - <a href="https://arstechnica.com/space/2025/10/the-second-new-glenn-rolls-to-the-launch-pad-and-they-expect-to-recover-this-one/" >🔗</a> **[Arstechnica]** The second New Glenn rolls to the launch pad—and they expect to recover this one
 - <a href="https://spacenews.com/golden-dome-whats-its-story/" >🔗</a> **[SpaceNews]** Golden Dome: What’s its story?
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_preparations_underway_in_Kourou" >🔗</a> **[ESA]** Sentinel-1D preparations underway in Kourou
 - <a href="https://www.esa.int/Enabling_Support/Operations/Rehearsing_for_Sentinel-6B_s_early_days_in_space" >🔗</a> **[ESA]** Rehearsing for Sentinel-6B’s early days in space
 - <a href="https://spacepolicyonline.com/news/scientists-make-the-case-for-nasa-science/" >🔗</a> **[SpacePolicyOnline.com]** Scientists Make the Case for NASA Science
-- <a href="https://spacenews.com/sateliot-hails-first-standards-based-iot-connection-from-leo-to-a-commercial-device/" >🔗</a> **[SpaceNews]** Sateliot hails first standards-based IoT connection from LEO to a commercial device
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251008T180153">2025-10-08 18:01:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251008T183936">2025-10-08 18:39:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
