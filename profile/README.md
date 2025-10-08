@@ -19,27 +19,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 11-17**. It is scheduled to be launched by *SpaceX*
+**New Shepard | NS-36**. It is scheduled to be launched by *Blue Origin*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
+from *<a href="https://en.wikipedia.org/wiki/Corn_Ranch">West Texas Suborbital Launch Site/ Corn Ranch</a>, Corn Ranch, Van Horn, TX, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251008T010000">2025-10-08 01:00:00 UTC</a>.  Until
-then, this pad will have been used for 221
-out of 835 launches from this location. The launch status is currently
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251008T123000">2025-10-08 12:30:00 UTC</a>.  Until
+then, this pad will have been used for 35
+out of 35 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Communications* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+*Tourism* and the payload will be injected
+into *a Suborbital
+(Sub)*.
 <br>
 <blockquote>
-  A batch of 28 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  NS-36 is the 15th crewed flight for the New Shepard program and the 36th in the New Shepard program's history.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+  <a href="https://en.wikipedia.org/wiki/New_Shepard" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=34.632,-120.611" >
+  <a href="https://www.google.com/maps?q=31.422878000000000,-104.757121000000000" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -54,6 +54,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251014T163000">2025-10-14 16:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Owl New World (StriX Launch 7)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20251014T163000Z%2F20251014T163000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Owl New World (StriX Launch 7)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251014T231100">2025-10-14 23:11:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SDA Tranche 1 Transport Layer C&location=Vandenberg SFB, CA, USA&dates=20251014T231100Z%2F20251014T231100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | SDA Tranche 1 Transport Layer C** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251015T162100">2025-10-15 16:21:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-17&location=Cape Canaveral SFS, FL, USA&dates=20251015T162100Z%2F20251015T202100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-17** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251018T020900">2025-10-18 02:09:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-19&location=Vandenberg SFB, CA, USA&dates=20251018T020900Z%2F20251018T060900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-19** from Vandenberg SFB, CA, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -89,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/scientists-make-the-case-for-nasa-science/" >🔗</a> **[SpacePolicyOnline.com]** Scientists Make the Case for NASA Science
 - <a href="https://spacenews.com/sateliot-hails-first-standards-based-iot-connection-from-leo-to-a-commercial-device/" >🔗</a> **[SpaceNews]** Sateliot hails first standards-based IoT connection from LEO to a commercial device
 - <a href="https://spaceflightnow.com/2025/10/07/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://spacenews.com/blue-origin-wins-78-2-million-contract-to-expand-satellite-processing-infrastructure-at-cape-canaveral/" >🔗</a> **[SpaceNews]** Blue Origin wins $78.2 million contract to expand satellite processing infrastructure at Cape Canaveral
@@ -98,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/ESA_s_ExoMars_and_Mars_Express_observe_comet_3I_ATLAS" >🔗</a> **[ESA]** ESA’s ExoMars and Mars Express observe comet 3I/ATLAS
 - <a href="https://europeanspaceflight.com/poland-adds-fourth-satellite-to-camila-earth-observation-constellation/" >🔗</a> **[European Spaceflight]** Poland Adds Fourth Satellite to CAMILA Earth Observation Constellation
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/10/Hera_s_first_year_in_space" >🔗</a> **[ESA]** Hera’s first year in space
-- <a href="https://spacenews.com/britains-space-security-needs-more-than-government-funding/" >🔗</a> **[SpaceNews]** Britain’s space security needs more than government funding
 
 
 ### Launch-related News 🚀
@@ -108,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251008T040148">2025-10-08 04:01:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251008T043450">2025-10-08 04:34:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
