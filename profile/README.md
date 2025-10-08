@@ -96,10 +96,10 @@ into *a Suborbital
 - <a href="https://spacenews.com/blue-origin-wins-78-2-million-contract-to-expand-satellite-processing-infrastructure-at-cape-canaveral/" >🔗</a> **[SpaceNews]** Blue Origin wins $78.2 million contract to expand satellite processing infrastructure at Cape Canaveral
 - <a href="https://spacenews.com/senators-spar-over-plans-to-move-shuttle-discovery/" >🔗</a> **[SpaceNews]** Senators spar over plans to move shuttle Discovery
 - <a href="https://spacenews.com/novaspace-projects-665b-in-satellite-build-and-launch-activity/" >🔗</a> **[SpaceNews]** Novaspace Projects $665B in Satellite Build and Launch Activity
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/ESA_s_ExoMars_and_Mars_Express_observe_comet_3I_ATLAS" >🔗</a> **[ESA]** ESA’s ExoMars and Mars Express observe comet 3I/ATLAS
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/ESA_s_ExoMars_and_Mars_Express_observe_comet_3I_ATLAS" >🔗</a> **[ESA]** ESA’s ExoMars and Mars Express observe comet 3I/ATLAS
 - <a href="https://europeanspaceflight.com/poland-adds-fourth-satellite-to-camila-earth-observation-constellation/" >🔗</a> **[European Spaceflight]** Poland Adds Fourth Satellite to CAMILA Earth Observation Constellation
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/10/Hera_s_first_year_in_space" >🔗</a> **[ESA]** Hera’s first year in space
+- <a href="https://spacenews.com/britains-space-security-needs-more-than-government-funding/" >🔗</a> **[SpaceNews]** Britain’s space security needs more than government funding
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251008T060153">2025-10-08 06:01:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251008T063943">2025-10-08 06:39:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
