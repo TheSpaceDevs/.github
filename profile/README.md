@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/10/stoke-space-gives-us-another-reason-to-take-it-very-seriously/" >🔗</a> **[Arstechnica]** Stoke Space gives us another reason to take it very seriously
+- <a href="https://spacenews.com/defense-budgets-on-both-sides-of-the-atlantic-reshape-space-industry/" >🔗</a> **[SpaceNews]** Defense budgets on both sides of the Atlantic reshape space industry
 - <a href="https://spacenews.com/blue-origin-flies-sixth-crewed-new-shepard-flight-of-2025/" >🔗</a> **[SpaceNews]** Blue Origin flies sixth crewed New Shepard flight of 2025
 - <a href="https://spacenews.com/space-force-sets-up-working-capital-fund-for-commercial-space-services/" >🔗</a> **[SpaceNews]** Space Force sets up ‘working capital fund’ for commercial space services
 - <a href="https://www.nasaspaceflight.com/2025/10/iss-roundup-100825/" >🔗</a> **[NASASpaceflight]** Japan prepares new ISS cargo vehicle as trio of cargo spacecraft deliver new experiments and hardware
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Dancing_dust_devils_trace_raging_winds_on_Mars" >🔗</a> **[ESA]** Dancing dust devils trace raging winds on Mars
 - <a href="https://spaceflightnow.com/2025/10/08/blue-origin-transports-new-glenn-booster-to-launch-site-ahead-of-mars-bound-mission/" >🔗</a> **[Spaceflight Now]** Blue Origin transports New Glenn booster to launch site ahead of Mars-bound mission
 - <a href="https://arstechnica.com/space/2025/10/the-second-new-glenn-rolls-to-the-launch-pad-and-they-expect-to-recover-this-one/" >🔗</a> **[Arstechnica]** The second New Glenn rolls to the launch pad—and they expect to recover this one
-- <a href="https://spacenews.com/golden-dome-whats-its-story/" >🔗</a> **[SpaceNews]** Golden Dome: What’s its story?
-- <a href="https://spacenews.com/space-infrastructure-investments-surge-to-five-quarter-high/" >🔗</a> **[SpaceNews]** Space infrastructure investments surge to five-quarter high
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251008T223359">2025-10-08 22:33:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251008T230109">2025-10-08 23:01:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
