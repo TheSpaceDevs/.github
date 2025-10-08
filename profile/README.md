@@ -89,7 +89,9 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/golden-dome-whats-its-story/" >🔗</a> **[SpaceNews]** Golden Dome: What’s its story?
 - <a href="https://spacenews.com/space-infrastructure-investments-surge-to-five-quarter-high/" >🔗</a> **[SpaceNews]** Space infrastructure investments surge to five-quarter high
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Space_for_our_climate/Satellites_reveal_the_power_of_ocean_swell" >🔗</a> **[ESA]** Satellites reveal the power of ocean swell
 - <a href="https://europeanspaceflight.com/sabca-secures-e85-million-ariane-6-operational-phase-contract/" >🔗</a> **[European Spaceflight]** Sabca Secures €85 Million Ariane 6 Operational Phase Contract
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_preparations_underway_in_Kourou" >🔗</a> **[ESA]** Sentinel-1D preparations underway in Kourou
 - <a href="https://www.esa.int/Enabling_Support/Operations/Rehearsing_for_Sentinel-6B_s_early_days_in_space" >🔗</a> **[ESA]** Rehearsing for Sentinel-6B’s early days in space
@@ -97,8 +99,6 @@ into *a Suborbital
 - <a href="https://spacenews.com/sateliot-hails-first-standards-based-iot-connection-from-leo-to-a-commercial-device/" >🔗</a> **[SpaceNews]** Sateliot hails first standards-based IoT connection from LEO to a commercial device
 - <a href="https://spaceflightnow.com/2025/10/07/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://spacenews.com/blue-origin-wins-78-2-million-contract-to-expand-satellite-processing-infrastructure-at-cape-canaveral/" >🔗</a> **[SpaceNews]** Blue Origin wins $78.2 million contract to expand satellite processing infrastructure at Cape Canaveral
-- <a href="https://spacenews.com/senators-spar-over-plans-to-move-shuttle-discovery/" >🔗</a> **[SpaceNews]** Senators spar over plans to move shuttle Discovery
-- <a href="https://spacenews.com/novaspace-projects-665b-in-satellite-build-and-launch-activity/" >🔗</a> **[SpaceNews]** Novaspace Projects $665B in Satellite Build and Launch Activity
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251008T130900">2025-10-08 13:09:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251008T133754">2025-10-08 13:37:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
