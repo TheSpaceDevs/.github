@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/10/china-roundup-202510/" >🔗</a> **[NASASpaceflight]** Surge in static fires as China’s space sector gains momentum
 - <a href="https://spaceflightnow.com/2025/10/09/live-coverage-spacex-to-launch-24-project-kuiper-satellites-for-amazon-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Project Kuiper satellites for Amazon from Cape Canaveral
 - <a href="https://spacenews.com/critical-software-invests-in-aerospacelab/" >🔗</a> **[SpaceNews]** Critical Software Invests in Aerospacelab
 - <a href="https://europeanspaceflight.com/arianegroup-ceo-poached-by-french-train-maker/" >🔗</a> **[European Spaceflight]** ArianeGroup CEO Poached by French Train Maker
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/stoke-space-raises-510-million/" >🔗</a> **[SpaceNews]** Stoke Space raises $510 million
 - <a href="https://arstechnica.com/space/2025/10/stoke-space-gives-us-another-reason-to-take-it-very-seriously/" >🔗</a> **[Arstechnica]** Stoke Space gives us another reason to take it very seriously
 - <a href="https://spacenews.com/defense-budgets-on-both-sides-of-the-atlantic-reshape-space-industry/" >🔗</a> **[SpaceNews]** Defense budgets on both sides of the Atlantic reshape space industry
-- <a href="https://spacenews.com/blue-origin-flies-sixth-crewed-new-shepard-flight-of-2025/" >🔗</a> **[SpaceNews]** Blue Origin flies sixth crewed New Shepard flight of 2025
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251009T180148">2025-10-09 18:01:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251009T183813">2025-10-09 18:38:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
