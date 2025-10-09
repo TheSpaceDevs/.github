@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/critical-software-invests-in-aerospacelab/" >🔗</a> **[SpaceNews]** Critical Software Invests in Aerospacelab
+- <a href="https://europeanspaceflight.com/arianegroup-ceo-poached-by-french-train-maker/" >🔗</a> **[European Spaceflight]** ArianeGroup CEO Poached by French Train Maker
 - <a href="https://spacenews.com/lockheed-martin-adapting-to-a-faster-space-race/" >🔗</a> **[SpaceNews]** Lockheed Martin adapting to a faster space race
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Ensuring_the_accuracy_of_ESA_s_FORUM_climate_mission" >🔗</a> **[ESA]** Ensuring the accuracy of ESA’s FORUM climate mission
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Plato/Completed_Plato_spacecraft_is_ready_for_final_tests" >🔗</a> **[ESA]** Completed Plato spacecraft is ready for final tests
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/defense-budgets-on-both-sides-of-the-atlantic-reshape-space-industry/" >🔗</a> **[SpaceNews]** Defense budgets on both sides of the Atlantic reshape space industry
 - <a href="https://spacenews.com/blue-origin-flies-sixth-crewed-new-shepard-flight-of-2025/" >🔗</a> **[SpaceNews]** Blue Origin flies sixth crewed New Shepard flight of 2025
 - <a href="https://spacenews.com/space-force-sets-up-working-capital-fund-for-commercial-space-services/" >🔗</a> **[SpaceNews]** Space Force sets up ‘working capital fund’ for commercial space services
-- <a href="https://www.nasaspaceflight.com/2025/10/iss-roundup-100825/" >🔗</a> **[NASASpaceflight]** Japan prepares new ISS cargo vehicle as trio of cargo spacecraft deliver new experiments and hardware
-- <a href="https://spacenews.com/ast-spacemobile-gains-verizon-ally-amid-spacexs-direct-to-device-push/" >🔗</a> **[SpaceNews]** AST SpaceMobile gains Verizon ally amid SpaceX’s direct-to-device push
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251009T143511">2025-10-09 14:35:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251009T152404">2025-10-09 15:24:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
