@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/former-u-s-defense-officials-urge-pentagon-to-scale-up-hypersonic-weapons-to-match-china-russia/" >🔗</a> **[SpaceNews]** Former U.S. defense officials urge Pentagon to scale up hypersonic weapons to match China, Russia
 - <a href="https://spaceflightnow.com/2025/10/09/u-s-space-force-picks-blue-origin-bid-for-expanding-satellite-processing-at-cape-canaveral/" >🔗</a> **[Spaceflight Now]** U.S. Space Force picks Blue Origin bid for expanding satellite processing at Cape Canaveral
 - <a href="https://spacenews.com/momentus-wins-two-nasa-contracts-to-fly-tech-demo-payloads/" >🔗</a> **[SpaceNews]** Momentus wins two NASA contracts to fly tech demo payloads
 - <a href="https://www.nasaspaceflight.com/2025/10/china-roundup-202510/" >🔗</a> **[NASASpaceflight]** Surge in static fires as China’s space sector gains momentum
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/lockheed-martin-adapting-to-a-faster-space-race/" >🔗</a> **[SpaceNews]** Lockheed Martin adapting to a faster space race
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Ensuring_the_accuracy_of_ESA_s_FORUM_climate_mission" >🔗</a> **[ESA]** Ensuring the accuracy of ESA’s FORUM climate mission
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Plato/Completed_Plato_spacecraft_is_ready_for_final_tests" >🔗</a> **[ESA]** Completed Plato spacecraft is ready for final tests
-- <a href="https://spacenews.com/stoke-space-raises-510-million/" >🔗</a> **[SpaceNews]** Stoke Space raises $510 million
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251009T230116">2025-10-09 23:01:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251009T233058">2025-10-09 23:30:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
