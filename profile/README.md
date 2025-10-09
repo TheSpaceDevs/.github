@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Ensuring_the_accuracy_of_ESA_s_FORUM_climate_mission" >🔗</a> **[ESA]** Ensuring the accuracy of ESA’s FORUM climate mission
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Plato/Completed_Plato_spacecraft_is_ready_for_final_tests" >🔗</a> **[ESA]** Completed Plato spacecraft is ready for final tests
 - <a href="https://spacenews.com/stoke-space-raises-510-million/" >🔗</a> **[SpaceNews]** Stoke Space raises $510 million
 - <a href="https://arstechnica.com/space/2025/10/stoke-space-gives-us-another-reason-to-take-it-very-seriously/" >🔗</a> **[Arstechnica]** Stoke Space gives us another reason to take it very seriously
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2025/10/iss-roundup-100825/" >🔗</a> **[NASASpaceflight]** Japan prepares new ISS cargo vehicle as trio of cargo spacecraft deliver new experiments and hardware
 - <a href="https://spacenews.com/ast-spacemobile-gains-verizon-ally-amid-spacexs-direct-to-device-push/" >🔗</a> **[SpaceNews]** AST SpaceMobile gains Verizon ally amid SpaceX’s direct-to-device push
 - <a href="https://spacenews.com/space-force-taps-muons-wildfire-monitoring-satellites-for-weather-imaging/" >🔗</a> **[SpaceNews]** Space Force taps Muon’s wildfire monitoring satellites for weather imaging
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Dancing_dust_devils_trace_raging_winds_on_Mars" >🔗</a> **[ESA]** Dancing dust devils trace raging winds on Mars
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251009T090126">2025-10-09 09:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251009T093322">2025-10-09 09:33:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
