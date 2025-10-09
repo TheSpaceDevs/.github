@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/10/09/u-s-space-force-picks-blue-origin-bid-for-expanding-satellite-processing-at-cape-canaveral/" >🔗</a> **[Spaceflight Now]** U.S. Space Force picks Blue Origin bid for expanding satellite processing at Cape Canaveral
 - <a href="https://spacenews.com/momentus-wins-two-nasa-contracts-to-fly-tech-demo-payloads/" >🔗</a> **[SpaceNews]** Momentus wins two NASA contracts to fly tech demo payloads
 - <a href="https://www.nasaspaceflight.com/2025/10/china-roundup-202510/" >🔗</a> **[NASASpaceflight]** Surge in static fires as China’s space sector gains momentum
 - <a href="https://spaceflightnow.com/2025/10/09/live-coverage-spacex-to-launch-24-project-kuiper-satellites-for-amazon-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Project Kuiper satellites for Amazon from Cape Canaveral
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Ensuring_the_accuracy_of_ESA_s_FORUM_climate_mission" >🔗</a> **[ESA]** Ensuring the accuracy of ESA’s FORUM climate mission
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Plato/Completed_Plato_spacecraft_is_ready_for_final_tests" >🔗</a> **[ESA]** Completed Plato spacecraft is ready for final tests
 - <a href="https://spacenews.com/stoke-space-raises-510-million/" >🔗</a> **[SpaceNews]** Stoke Space raises $510 million
-- <a href="https://arstechnica.com/space/2025/10/stoke-space-gives-us-another-reason-to-take-it-very-seriously/" >🔗</a> **[Arstechnica]** Stoke Space gives us another reason to take it very seriously
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251009T213119">2025-10-09 21:31:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251009T220150">2025-10-09 22:01:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
