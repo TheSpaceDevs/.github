@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Plato/Completed_Plato_spacecraft_is_ready_for_final_tests" >🔗</a> **[ESA]** Completed Plato spacecraft is ready for final tests
 - <a href="https://spacenews.com/stoke-space-raises-510-million/" >🔗</a> **[SpaceNews]** Stoke Space raises $510 million
 - <a href="https://arstechnica.com/space/2025/10/stoke-space-gives-us-another-reason-to-take-it-very-seriously/" >🔗</a> **[Arstechnica]** Stoke Space gives us another reason to take it very seriously
 - <a href="https://spacenews.com/defense-budgets-on-both-sides-of-the-atlantic-reshape-space-industry/" >🔗</a> **[SpaceNews]** Defense budgets on both sides of the Atlantic reshape space industry
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/ast-spacemobile-gains-verizon-ally-amid-spacexs-direct-to-device-push/" >🔗</a> **[SpaceNews]** AST SpaceMobile gains Verizon ally amid SpaceX’s direct-to-device push
 - <a href="https://spacenews.com/space-force-taps-muons-wildfire-monitoring-satellites-for-weather-imaging/" >🔗</a> **[SpaceNews]** Space Force taps Muon’s wildfire monitoring satellites for weather imaging
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Dancing_dust_devils_trace_raging_winds_on_Mars" >🔗</a> **[ESA]** Dancing dust devils trace raging winds on Mars
-- <a href="https://spaceflightnow.com/2025/10/08/blue-origin-transports-new-glenn-booster-to-launch-site-ahead-of-mars-bound-mission/" >🔗</a> **[Spaceflight Now]** Blue Origin transports New Glenn booster to launch site ahead of Mars-bound mission
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251009T080153">2025-10-09 08:01:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251009T083658">2025-10-09 08:36:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
