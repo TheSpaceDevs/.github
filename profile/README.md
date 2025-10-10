@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/new-zealand-charts-continued-growth-of-its-space-industry/" >🔗</a> **[SpaceNews]** New Zealand charts continued growth of its space industry
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/This_is_not_static_noise" >🔗</a> **[ESA]** This is not static noise
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/Earth_from_Space_Cyclone_Errol" >🔗</a> **[ESA]** Earth from Space: Cyclone Errol
 - <a href="https://spacenews.com/former-u-s-defense-officials-urge-pentagon-to-scale-up-hypersonic-weapons-to-match-china-russia/" >🔗</a> **[SpaceNews]** Former U.S. defense officials urge Pentagon to scale up hypersonic weapons to match China, Russia
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spaceflightnow.com/2025/10/09/live-coverage-spacex-to-launch-24-project-kuiper-satellites-for-amazon-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Project Kuiper satellites for Amazon from Cape Canaveral
 - <a href="https://spacenews.com/critical-software-invests-in-aerospacelab/" >🔗</a> **[SpaceNews]** Critical Software Invests in Aerospacelab
 - <a href="https://europeanspaceflight.com/arianegroup-ceo-poached-by-french-train-maker/" >🔗</a> **[European Spaceflight]** ArianeGroup CEO Poached by French Train Maker
-- <a href="https://spacenews.com/lockheed-martin-adapting-to-a-faster-space-race/" >🔗</a> **[SpaceNews]** Lockheed Martin adapting to a faster space race
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251010T120208">2025-10-10 12:02:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251010T124308">2025-10-10 12:43:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
