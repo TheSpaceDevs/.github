@@ -90,7 +90,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/planet-announces-new-line-of-satellites-for-daily-earth-imaging/" >🔗</a> **[SpaceNews]** Planet announces new line of satellites for daily Earth imaging
 - <a href="https://europeanspaceflight.com/thales-alenia-space-inaugurates-new-e100m-satellite-factory/" >🔗</a> **[European Spaceflight]** Thales Alenia Space Inaugurates New €100M Satellite Factory
+- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_06-10_October_2025" >🔗</a> **[ESA]** Week in images: 06-10 October 2025
 - <a href="https://spacenews.com/new-zealand-charts-continued-growth-of-its-space-industry/" >🔗</a> **[SpaceNews]** New Zealand charts continued growth of its space industry
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/This_is_not_static_noise" >🔗</a> **[ESA]** This is not static noise
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/Earth_from_Space_Cyclone_Errol" >🔗</a> **[ESA]** Earth from Space: Cyclone Errol
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://spaceflightnow.com/2025/10/09/u-s-space-force-picks-blue-origin-bid-for-expanding-satellite-processing-at-cape-canaveral/" >🔗</a> **[Spaceflight Now]** U.S. Space Force picks Blue Origin bid for expanding satellite processing at Cape Canaveral
 - <a href="https://spacenews.com/momentus-wins-two-nasa-contracts-to-fly-tech-demo-payloads/" >🔗</a> **[SpaceNews]** Momentus wins two NASA contracts to fly tech demo payloads
 - <a href="https://www.nasaspaceflight.com/2025/10/china-roundup-202510/" >🔗</a> **[NASASpaceflight]** Surge in static fires as China’s space sector gains momentum
-- <a href="https://spaceflightnow.com/2025/10/09/live-coverage-spacex-to-launch-24-project-kuiper-satellites-for-amazon-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Project Kuiper satellites for Amazon from Cape Canaveral
-- <a href="https://spacenews.com/critical-software-invests-in-aerospacelab/" >🔗</a> **[SpaceNews]** Critical Software Invests in Aerospacelab
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251010T190122">2025-10-10 19:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251010T193103">2025-10-10 19:31:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
