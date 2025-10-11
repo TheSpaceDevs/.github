@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/10/cassini-new-molecules-enceladus/" >🔗</a> **[NASASpaceflight]** Scientists use Cassini data to discover new molecules in Enceladus water jets
+- <a href="https://spacenews.com/french-space-defense-startup-dark-ceases-operations/" >🔗</a> **[SpaceNews]** French space defense startup Dark ceases operations
 - <a href="https://europeanspaceflight.com/the-netherlands-commits-to-maintain-esa-contribution-levels-through-2028/" >🔗</a> **[European Spaceflight]** The Netherlands Commits to “Maintain” ESA Contribution Levels Through 2028
 - <a href="https://spacenews.com/huge-commercial-chinese-solid-rocket-launches-3-satellites-from-barge-in-the-yellow-sea/" >🔗</a> **[SpaceNews]** Huge commercial Chinese solid rocket launches 3 satellites from barge in the Yellow Sea
 - <a href="https://spacenews.com/planet-announces-new-line-of-satellites-for-daily-earth-imaging/" >🔗</a> **[SpaceNews]** Planet announces new line of satellites for daily Earth imaging
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/new-zealand-charts-continued-growth-of-its-space-industry/" >🔗</a> **[SpaceNews]** New Zealand charts continued growth of its space industry
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/This_is_not_static_noise" >🔗</a> **[ESA]** This is not static noise
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/Earth_from_Space_Cyclone_Errol" >🔗</a> **[ESA]** Earth from Space: Cyclone Errol
-- <a href="https://spacenews.com/former-u-s-defense-officials-urge-pentagon-to-scale-up-hypersonic-weapons-to-match-china-russia/" >🔗</a> **[SpaceNews]** Former U.S. defense officials urge Pentagon to scale up hypersonic weapons to match China, Russia
-- <a href="https://spaceflightnow.com/2025/10/09/u-s-space-force-picks-blue-origin-bid-for-expanding-satellite-processing-at-cape-canaveral/" >🔗</a> **[Spaceflight Now]** U.S. Space Force picks Blue Origin bid for expanding satellite processing at Cape Canaveral
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251011T213058">2025-10-11 21:30:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251011T220119">2025-10-11 22:01:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
