@@ -90,6 +90,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/10/starship-flight-11-the-end-beginning-new/" >🔗</a> **[NASASpaceflight]** Starship Flight 11: End of an era, but the beginning of a new one
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-12-18-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy October 12-18, 2025
 - <a href="https://www.nasaspaceflight.com/2025/10/cassini-new-molecules-enceladus/" >🔗</a> **[NASASpaceflight]** Scientists use Cassini data to discover new molecules in Enceladus water jets
 - <a href="https://spacenews.com/french-space-defense-startup-dark-ceases-operations/" >🔗</a> **[SpaceNews]** French space defense startup Dark ceases operations
@@ -99,7 +100,6 @@ into *a Suborbital
 - <a href="https://europeanspaceflight.com/thales-alenia-space-inaugurates-new-e100m-satellite-factory/" >🔗</a> **[European Spaceflight]** Thales Alenia Space Inaugurates New €100M Satellite Factory
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_06-10_October_2025" >🔗</a> **[ESA]** Week in images: 06-10 October 2025
 - <a href="https://spacenews.com/new-zealand-charts-continued-growth-of-its-space-industry/" >🔗</a> **[SpaceNews]** New Zealand charts continued growth of its space industry
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/This_is_not_static_noise" >🔗</a> **[ESA]** This is not static noise
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251012T210107">2025-10-12 21:01:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251012T213100">2025-10-12 21:31:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
