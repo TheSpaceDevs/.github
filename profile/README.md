@@ -90,6 +90,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-12-18-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy October 12-18, 2025
 - <a href="https://www.nasaspaceflight.com/2025/10/cassini-new-molecules-enceladus/" >🔗</a> **[NASASpaceflight]** Scientists use Cassini data to discover new molecules in Enceladus water jets
 - <a href="https://spacenews.com/french-space-defense-startup-dark-ceases-operations/" >🔗</a> **[SpaceNews]** French space defense startup Dark ceases operations
 - <a href="https://europeanspaceflight.com/the-netherlands-commits-to-maintain-esa-contribution-levels-through-2028/" >🔗</a> **[European Spaceflight]** The Netherlands Commits to “Maintain” ESA Contribution Levels Through 2028
@@ -99,7 +100,6 @@ into *a Suborbital
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_06-10_October_2025" >🔗</a> **[ESA]** Week in images: 06-10 October 2025
 - <a href="https://spacenews.com/new-zealand-charts-continued-growth-of-its-space-industry/" >🔗</a> **[SpaceNews]** New Zealand charts continued growth of its space industry
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/This_is_not_static_noise" >🔗</a> **[ESA]** This is not static noise
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/Earth_from_Space_Cyclone_Errol" >🔗</a> **[ESA]** Earth from Space: Cyclone Errol
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251012T193103">2025-10-12 19:31:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251012T200145">2025-10-12 20:01:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
