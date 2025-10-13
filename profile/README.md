@@ -90,6 +90,8 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/jpl-lays-off-another-550-workers/" >🔗</a> **[SpacePolicyOnline.com]** JPL Lays Off Another 550 Workers
+- <a href="https://spacenews.com/surprise-chinese-launch-sends-shiyan-31-experimental-satellite-into-orbit/" >🔗</a> **[SpaceNews]** Surprise Chinese launch sends Shiyan-31 experimental satellite into orbit
 - <a href="https://spacenews.com/more-layoffs-at-jpl/" >🔗</a> **[SpaceNews]** More layoffs at JPL
 - <a href="https://spaceflightnow.com/2025/10/13/live-coverage-spacex-poised-to-launch-24-amazon-kuiper-satellites-following-days-of-weather-delays/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX poised to launch 24 Amazon Kuiper satellites following days of weather delays
 - <a href="https://arstechnica.com/space/2025/10/one-of-spacexs-earliest-employees-is-going-to-space-via-blue-origin/" >🔗</a> **[Arstechnica]** One of SpaceX’s earliest employees is going to space—via Blue Origin
@@ -98,8 +100,6 @@ into *a Suborbital
 - <a href="https://spacenews.com/special-economic-zones-for-restoring-american-space-dominance/" >🔗</a> **[SpaceNews]** Special economic zones for restoring American space dominance
 - <a href="https://spacenews.com/momentus-and-solstar-to-offer-communications-transportation-and-infrastructure-in-low-earth-orbit/" >🔗</a> **[SpaceNews]** Momentus and Solstar to offer communications, transportation and infrastructure in low-Earth orbit
 - <a href="https://spacenews.com/jaxa-to-launch-tech-demo-satellites-on-electron-rockets/" >🔗</a> **[SpaceNews]** JAXA to launch tech demo satellites on Electron rockets
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/10/Ramses_ESA_s_mission_to_rendezvous_with_asteroid_Apophis" >🔗</a> **[ESA]** Ramses: ESA’s mission to rendezvous with asteroid Apophis
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Swarm/Swarm_reveals_growing_weak_spot_in_Earth_s_magnetic_field" >🔗</a> **[ESA]** Swarm reveals growing weak spot in Earth’s magnetic field
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251013T213102">2025-10-13 21:31:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251013T220139">2025-10-13 22:01:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
