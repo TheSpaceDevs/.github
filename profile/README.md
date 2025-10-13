@@ -90,6 +90,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacex-prepares-for-next-starship-test-flight/" >🔗</a> **[SpaceNews]** SpaceX prepares for next Starship test flight
 - <a href="https://spaceflightnow.com/2025/10/12/live-coverage-spacex-to-launch-final-version-2-starship-super-heavy-from-starbase/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch final Version 2 Starship-Super Heavy from Starbase
 - <a href="https://www.nasaspaceflight.com/2025/10/starship-flight-11-the-end-beginning-new/" >🔗</a> **[NASASpaceflight]** Starship Flight 11: End of an era, but the beginning of a new one
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-12-18-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy October 12-18, 2025
@@ -99,7 +100,6 @@ into *a Suborbital
 - <a href="https://spacenews.com/huge-commercial-chinese-solid-rocket-launches-3-satellites-from-barge-in-the-yellow-sea/" >🔗</a> **[SpaceNews]** Huge commercial Chinese solid rocket launches 3 satellites from barge in the Yellow Sea
 - <a href="https://spacenews.com/planet-announces-new-line-of-satellites-for-daily-earth-imaging/" >🔗</a> **[SpaceNews]** Planet announces new line of satellites for daily Earth imaging
 - <a href="https://europeanspaceflight.com/thales-alenia-space-inaugurates-new-e100m-satellite-factory/" >🔗</a> **[European Spaceflight]** Thales Alenia Space Inaugurates New €100M Satellite Factory
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_06-10_October_2025" >🔗</a> **[ESA]** Week in images: 06-10 October 2025
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251013T000502">2025-10-13 00:05:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251013T004558">2025-10-13 00:45:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
