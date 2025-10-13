@@ -104,13 +104,16 @@ into *a Suborbital
 
 ### Launch-related News 🚀
 
+- <a href="https://spacenews.com/spacex-prepares-for-next-starship-test-flight/" >🔗</a> **[SpaceNews]** SpaceX prepares for next Starship test flight
+- <a href="https://spaceflightnow.com/2025/10/12/live-coverage-spacex-to-launch-final-version-2-starship-super-heavy-from-starbase/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch final Version 2 Starship-Super Heavy from Starbase
+- <a href="https://www.nasaspaceflight.com/2025/10/starship-flight-11-the-end-beginning-new/" >🔗</a> **[NASASpaceflight]** Starship Flight 11: End of an era, but the beginning of a new one
 - <a href="https://www.nasaspaceflight.com/2025/09/ship-38-pad-1-static-fire-masseys-rebuild/" >🔗</a> **[NASASpaceflight]** Ship 38 on Pad 1 for Static Fire testing as Masseys rebuild continues
 - <a href="https://www.nasaspaceflight.com/2025/09/flight-11-booster-15-ship-38/" >🔗</a> **[NASASpaceflight]** Flight 11 closing in as Booster 15 completes testing, Pad 1 awaits Ship 38
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251013T060156">2025-10-13 06:01:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251013T064045">2025-10-13 06:40:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
