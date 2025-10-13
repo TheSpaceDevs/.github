@@ -90,6 +90,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/more-layoffs-at-jpl/" >🔗</a> **[SpaceNews]** More layoffs at JPL
 - <a href="https://spaceflightnow.com/2025/10/13/live-coverage-spacex-poised-to-launch-24-amazon-kuiper-satellites-following-days-of-weather-delays/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX poised to launch 24 Amazon Kuiper satellites following days of weather delays
 - <a href="https://arstechnica.com/space/2025/10/one-of-spacexs-earliest-employees-is-going-to-space-via-blue-origin/" >🔗</a> **[Arstechnica]** One of SpaceX’s earliest employees is going to space—via Blue Origin
 - <a href="https://europeanspaceflight.com/dlr-delivers-callisto-landing-leg-prototype-for-testing/" >🔗</a> **[European Spaceflight]** DLR Delivers Callisto Landing Leg Prototype for Testing
@@ -99,7 +100,6 @@ into *a Suborbital
 - <a href="https://spacenews.com/jaxa-to-launch-tech-demo-satellites-on-electron-rockets/" >🔗</a> **[SpaceNews]** JAXA to launch tech demo satellites on Electron rockets
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/10/Ramses_ESA_s_mission_to_rendezvous_with_asteroid_Apophis" >🔗</a> **[ESA]** Ramses: ESA’s mission to rendezvous with asteroid Apophis
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Swarm/Swarm_reveals_growing_weak_spot_in_Earth_s_magnetic_field" >🔗</a> **[ESA]** Swarm reveals growing weak spot in Earth’s magnetic field
-- <a href="https://spacenews.com/spacex-prepares-for-next-starship-test-flight/" >🔗</a> **[SpaceNews]** SpaceX prepares for next Starship test flight
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251013T190127">2025-10-13 19:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251013T193114">2025-10-13 19:31:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
