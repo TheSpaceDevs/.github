@@ -90,6 +90,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/jaxa-to-launch-tech-demo-satellites-on-electron-rockets/" >🔗</a> **[SpaceNews]** JAXA to launch tech demo satellites on Electron rockets
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/10/Ramses_ESA_s_mission_to_rendezvous_with_asteroid_Apophis" >🔗</a> **[ESA]** Ramses: ESA’s mission to rendezvous with asteroid Apophis
 - <a href="https://spacenews.com/spacex-prepares-for-next-starship-test-flight/" >🔗</a> **[SpaceNews]** SpaceX prepares for next Starship test flight
 - <a href="https://spaceflightnow.com/2025/10/12/live-coverage-spacex-to-launch-final-version-2-starship-super-heavy-from-starbase/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch final Version 2 Starship-Super Heavy from Starbase
@@ -99,7 +100,6 @@ into *a Suborbital
 - <a href="https://spacenews.com/french-space-defense-startup-dark-ceases-operations/" >🔗</a> **[SpaceNews]** French space defense startup Dark ceases operations
 - <a href="https://europeanspaceflight.com/the-netherlands-commits-to-maintain-esa-contribution-levels-through-2028/" >🔗</a> **[European Spaceflight]** The Netherlands Commits to “Maintain” ESA Contribution Levels Through 2028
 - <a href="https://spacenews.com/huge-commercial-chinese-solid-rocket-launches-3-satellites-from-barge-in-the-yellow-sea/" >🔗</a> **[SpaceNews]** Huge commercial Chinese solid rocket launches 3 satellites from barge in the Yellow Sea
-- <a href="https://spacenews.com/planet-announces-new-line-of-satellites-for-daily-earth-imaging/" >🔗</a> **[SpaceNews]** Planet announces new line of satellites for daily Earth imaging
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251013T113101">2025-10-13 11:31:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251013T120202">2025-10-13 12:02:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
