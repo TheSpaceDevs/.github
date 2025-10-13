@@ -90,16 +90,16 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/special-economic-zones-for-restoring-american-space-dominance/" >🔗</a> **[SpaceNews]** Special economic zones for restoring American space dominance
 - <a href="https://spacenews.com/momentus-and-solstar-to-offer-communications-transportation-and-infrastructure-in-low-earth-orbit/" >🔗</a> **[SpaceNews]** Momentus and Solstar to offer communications, transportation and infrastructure in low-Earth orbit
 - <a href="https://spacenews.com/jaxa-to-launch-tech-demo-satellites-on-electron-rockets/" >🔗</a> **[SpaceNews]** JAXA to launch tech demo satellites on Electron rockets
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/10/Ramses_ESA_s_mission_to_rendezvous_with_asteroid_Apophis" >🔗</a> **[ESA]** Ramses: ESA’s mission to rendezvous with asteroid Apophis
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Swarm/Swarm_reveals_growing_weak_spot_in_Earth_s_magnetic_field" >🔗</a> **[ESA]** Swarm reveals growing weak spot in Earth’s magnetic field
 - <a href="https://spacenews.com/spacex-prepares-for-next-starship-test-flight/" >🔗</a> **[SpaceNews]** SpaceX prepares for next Starship test flight
 - <a href="https://spaceflightnow.com/2025/10/12/live-coverage-spacex-to-launch-final-version-2-starship-super-heavy-from-starbase/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch final Version 2 Starship-Super Heavy from Starbase
 - <a href="https://www.nasaspaceflight.com/2025/10/starship-flight-11-the-end-beginning-new/" >🔗</a> **[NASASpaceflight]** Starship Flight 11: End of an era, but the beginning of a new one
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-12-18-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy October 12-18, 2025
 - <a href="https://www.nasaspaceflight.com/2025/10/cassini-new-molecules-enceladus/" >🔗</a> **[NASASpaceflight]** Scientists use Cassini data to discover new molecules in Enceladus water jets
-- <a href="https://spacenews.com/french-space-defense-startup-dark-ceases-operations/" >🔗</a> **[SpaceNews]** French space defense startup Dark ceases operations
-- <a href="https://europeanspaceflight.com/the-netherlands-commits-to-maintain-esa-contribution-levels-through-2028/" >🔗</a> **[European Spaceflight]** The Netherlands Commits to “Maintain” ESA Contribution Levels Through 2028
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251013T130919">2025-10-13 13:09:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251013T133808">2025-10-13 13:38:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
