@@ -90,6 +90,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/10/one-of-spacexs-earliest-employees-is-going-to-space-via-blue-origin/" >🔗</a> **[Arstechnica]** One of SpaceX’s earliest employees is going to space—via Blue Origin
 - <a href="https://europeanspaceflight.com/dlr-delivers-callisto-landing-leg-prototype-for-testing/" >🔗</a> **[European Spaceflight]** DLR Delivers Callisto Landing Leg Prototype for Testing
 - <a href="https://spacenews.com/world-space-week-ends-wits-a-big-announcement/" >🔗</a> **[SpaceNews]** World Space Week Ends With A Big Announcement
 - <a href="https://spacenews.com/special-economic-zones-for-restoring-american-space-dominance/" >🔗</a> **[SpaceNews]** Special economic zones for restoring American space dominance
@@ -99,7 +100,6 @@ into *a Suborbital
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Swarm/Swarm_reveals_growing_weak_spot_in_Earth_s_magnetic_field" >🔗</a> **[ESA]** Swarm reveals growing weak spot in Earth’s magnetic field
 - <a href="https://spacenews.com/spacex-prepares-for-next-starship-test-flight/" >🔗</a> **[SpaceNews]** SpaceX prepares for next Starship test flight
 - <a href="https://spaceflightnow.com/2025/10/12/live-coverage-spacex-to-launch-final-version-2-starship-super-heavy-from-starbase/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch final Version 2 Starship-Super Heavy from Starbase
-- <a href="https://www.nasaspaceflight.com/2025/10/starship-flight-11-the-end-beginning-new/" >🔗</a> **[NASASpaceflight]** Starship Flight 11: End of an era, but the beginning of a new one
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251013T160151">2025-10-13 16:01:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251013T163647">2025-10-13 16:36:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
