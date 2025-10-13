@@ -90,6 +90,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/world-space-week-ends-wits-a-big-announcement/" >🔗</a> **[SpaceNews]** World Space Week Ends With A Big Announcement
 - <a href="https://spacenews.com/special-economic-zones-for-restoring-american-space-dominance/" >🔗</a> **[SpaceNews]** Special economic zones for restoring American space dominance
 - <a href="https://spacenews.com/momentus-and-solstar-to-offer-communications-transportation-and-infrastructure-in-low-earth-orbit/" >🔗</a> **[SpaceNews]** Momentus and Solstar to offer communications, transportation and infrastructure in low-Earth orbit
 - <a href="https://spacenews.com/jaxa-to-launch-tech-demo-satellites-on-electron-rockets/" >🔗</a> **[SpaceNews]** JAXA to launch tech demo satellites on Electron rockets
@@ -99,7 +100,6 @@ into *a Suborbital
 - <a href="https://spaceflightnow.com/2025/10/12/live-coverage-spacex-to-launch-final-version-2-starship-super-heavy-from-starbase/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch final Version 2 Starship-Super Heavy from Starbase
 - <a href="https://www.nasaspaceflight.com/2025/10/starship-flight-11-the-end-beginning-new/" >🔗</a> **[NASASpaceflight]** Starship Flight 11: End of an era, but the beginning of a new one
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-12-18-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy October 12-18, 2025
-- <a href="https://www.nasaspaceflight.com/2025/10/cassini-new-molecules-enceladus/" >🔗</a> **[NASASpaceflight]** Scientists use Cassini data to discover new molecules in Enceladus water jets
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251013T140143">2025-10-13 14:01:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251013T143514">2025-10-13 14:35:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
