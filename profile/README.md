@@ -23,7 +23,7 @@ The next space launch, retrieved from our
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
 from *<a href="https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1">Rocket Lab Launch Complex 1A</a>, Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251014T163000">2025-10-14 16:30:00 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251014T163300">2025-10-14 16:33:00 UTC</a>.  Until
 then, this pad will have been used for 33
 out of 64 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
@@ -45,7 +45,7 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251014T163000">2025-10-14 16:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Owl New World (StriX Launch 7)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20251014T163000Z%2F20251014T163000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Owl New World (StriX Launch 7)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251014T163300">2025-10-14 16:33:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Owl New World (StriX Launch 7)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20251014T163300Z%2F20251014T163300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Owl New World (StriX Launch 7)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251014T231209">2025-10-14 23:12:09 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SDA Tranche 1 Transport Layer C&location=Vandenberg SFB, CA, USA&dates=20251014T231209Z%2F20251014T231209Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | SDA Tranche 1 Transport Layer C** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251016T012500">2025-10-16 01:25:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 8A | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20251016T012500Z%2F20251016T015200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 8A | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251016T064200">2025-10-16 06:42:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-52&location=Cape Canaveral SFS, FL, USA&dates=20251016T064200Z%2F20251016T104200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-52** from Cape Canaveral SFS, FL, USA.
@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/impulse-space-announces-lunar-lander-plans/" >🔗</a> **[SpaceNews]** Impulse Space announces lunar lander plans
 - <a href="https://www.nasaspaceflight.com/2025/10/impulse-space-lunar-lander-development/" >🔗</a> **[NASASpaceflight]** Impulse Space sets sights on the Moon with new Lunar Lander in development
 - <a href="https://spacenews.com/the-mars-moment-why-now-is-the-time-to-build-the-future/" >🔗</a> **[SpaceNews]** The Mars moment: Why now is the time to build the future
 - <a href="https://spacenews.com/space-pioneer-raises-350-million-as-chinas-commercial-launch-boom-accelerates/" >🔗</a> **[SpaceNews]** Space Pioneer raises $350 million as China’s commercial launch boom accelerates
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/09/Gravity_assists_trading_energy_with_the_planets" >🔗</a> **[ESA]** Gravity assists: trading energy with the planets
-- <a href="https://spacenews.com/announcing-the-finalists-for-the-2025-spacenews-icon-awards/" >🔗</a> **[SpaceNews]** Announcing the finalists for the 2025 SpaceNews Icon Awards
 - <a href="https://spacenews.com/smallsat-education-conference-aerospace-education-event-for-educators-parents-and-students-middle-school-high-school-college/" >🔗</a> **[SpaceNews]** SmallSat Education Conference Aerospace Education Event for Educators, Parents, and Students (Middle School, High School, College)
+- <a href="https://spacenews.com/announcing-the-finalists-for-the-2025-spacenews-icon-awards/" >🔗</a> **[SpaceNews]** Announcing the finalists for the 2025 SpaceNews Icon Awards
 - <a href="https://spaceflightnow.com/2025/10/14/spacex-launches-final-version-2-starship-super-heavy-rocket/" >🔗</a> **[Spaceflight Now]** SpaceX launches final Version 2 Starship-Super Heavy rocket
 - <a href="https://spacepolicyonline.com/news/another-successful-starship-test-flight-as-spacex-readies-a-new-version/" >🔗</a> **[SpacePolicyOnline.com]** Another Successful Starship Test Flight as SpaceX Readies a New Version
 - <a href="https://spacenews.com/starship-successfully-completes-11th-flight-test/" >🔗</a> **[SpaceNews]** Starship successfully completes 11th flight test
-- <a href="https://spacepolicyonline.com/news/jpl-lays-off-another-550-workers/" >🔗</a> **[SpacePolicyOnline.com]** JPL Lays Off Another 550 Workers
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251014T140153">2025-10-14 14:01:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251014T143532">2025-10-14 14:35:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
