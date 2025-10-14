@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/10/14/spacex-launches-final-version-2-starship-super-heavy-rocket/" >🔗</a> **[Spaceflight Now]** SpaceX launches final Version 2 Starship-Super Heavy rocket
 - <a href="https://spacepolicyonline.com/news/another-successful-starship-test-flight-as-spacex-readies-a-new-version/" >🔗</a> **[SpacePolicyOnline.com]** Another Successful Starship Test Flight as SpaceX Readies a New Version
 - <a href="https://spacenews.com/starship-successfully-completes-11th-flight-test/" >🔗</a> **[SpaceNews]** Starship successfully completes 11th flight test
 - <a href="https://spacepolicyonline.com/news/jpl-lays-off-another-550-workers/" >🔗</a> **[SpacePolicyOnline.com]** JPL Lays Off Another 550 Workers
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2025/10/one-of-spacexs-earliest-employees-is-going-to-space-via-blue-origin/" >🔗</a> **[Arstechnica]** One of SpaceX’s earliest employees is going to space—via Blue Origin
 - <a href="https://europeanspaceflight.com/dlr-delivers-callisto-landing-leg-prototype-for-testing/" >🔗</a> **[European Spaceflight]** DLR Delivers Callisto Landing Leg Prototype for Testing
 - <a href="https://spacenews.com/world-space-week-ends-wits-a-big-announcement/" >🔗</a> **[SpaceNews]** World Space Week Ends With A Big Announcement
-- <a href="https://spacenews.com/special-economic-zones-for-restoring-american-space-dominance/" >🔗</a> **[SpaceNews]** Special economic zones for restoring American space dominance
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251014T031409">2025-10-14 03:14:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251014T033833">2025-10-14 03:38:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
