@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-pioneer-raises-350-million-as-chinas-commercial-launch-boom-accelerates/" >🔗</a> **[SpaceNews]** Space Pioneer raises $350 million as China’s commercial launch boom accelerates
+- <a href="https://spacenews.com/smallsat-education-conference-aerospace-education-event-for-educators-parents-and-students-middle-school-high-school-college/" >🔗</a> **[SpaceNews]** SmallSat Education Conference Aerospace Education Event for Educators, Parents, and Students (Middle School, High School, College)
 - <a href="https://spacenews.com/announcing-the-finalists-for-the-2025-spacenews-icon-awards/" >🔗</a> **[SpaceNews]** Announcing the finalists for the 2025 SpaceNews Icon Awards
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/09/Gravity_assists_trading_energy_with_the_planets" >🔗</a> **[ESA]** Gravity assists: trading energy with the planets
-- <a href="https://spacenews.com/smallsat-education-conference-aerospace-education-event-for-educators-parents-and-students-middle-school-high-school-college/" >🔗</a> **[SpaceNews]** SmallSat Education Conference Aerospace Education Event for Educators, Parents, and Students (Middle School, High School, College)
 - <a href="https://spaceflightnow.com/2025/10/14/spacex-launches-final-version-2-starship-super-heavy-rocket/" >🔗</a> **[Spaceflight Now]** SpaceX launches final Version 2 Starship-Super Heavy rocket
 - <a href="https://spacepolicyonline.com/news/another-successful-starship-test-flight-as-spacex-readies-a-new-version/" >🔗</a> **[SpacePolicyOnline.com]** Another Successful Starship Test Flight as SpaceX Readies a New Version
 - <a href="https://spacenews.com/starship-successfully-completes-11th-flight-test/" >🔗</a> **[SpaceNews]** Starship successfully completes 11th flight test
 - <a href="https://spacepolicyonline.com/news/jpl-lays-off-another-550-workers/" >🔗</a> **[SpacePolicyOnline.com]** JPL Lays Off Another 550 Workers
 - <a href="https://spacenews.com/surprise-chinese-launch-sends-shiyan-31-experimental-satellite-into-orbit/" >🔗</a> **[SpaceNews]** Surprise Chinese launch sends Shiyan-31 experimental satellite into orbit
 - <a href="https://spacenews.com/more-layoffs-at-jpl/" >🔗</a> **[SpaceNews]** More layoffs at JPL
-- <a href="https://spaceflightnow.com/2025/10/13/live-coverage-spacex-poised-to-launch-24-amazon-kuiper-satellites-following-days-of-weather-delays/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX poised to launch 24 Amazon Kuiper satellites following days of weather delays
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251014T113102">2025-10-14 11:31:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251014T120208">2025-10-14 12:02:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
