@@ -52,7 +52,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251018T000900">2025-10-18 00:09:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-19&location=Vandenberg SFB, CA, USA&dates=20251018T000900Z%2F20251018T040900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-19** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251019T145200">2025-10-19 14:52:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-17&location=Cape Canaveral SFS, FL, USA&dates=20251019T145200Z%2F20251019T185200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-17** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251020T140000">2025-10-20 14:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-5&location=Vandenberg SFB, CA, USA&dates=20251020T140000Z%2F20251020T180000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-5** from Vandenberg SFB, CA, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251021T015917">2025-10-21 01:59:17 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=H3-24 | HTV-X1&location=Tanegashima Space Center, Japan&dates=20251021T015917Z%2F20251021T015917Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **H3-24 | HTV-X1** from Tanegashima Space Center, Japan.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251021T015919">2025-10-21 01:59:19 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=H3-24 | HTV-X1&location=Tanegashima Space Center, Japan&dates=20251021T015919Z%2F20251021T015919Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **H3-24 | HTV-X1** from Tanegashima Space Center, Japan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251022T000000">2025-10-22 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SpainSat NG II&location=Cape Canaveral SFS, FL, USA&dates=20251022T000000Z%2F20251022T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | SpainSat NG II** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251024T113000">2025-10-24 11:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=LVM-3 | CMS-02 (GSAT-7R)&location=Satish Dhawan Space Centre, India&dates=20251024T113000Z%2F20251024T153000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **LVM-3 | CMS-02 (GSAT-7R)** from Satish Dhawan Space Centre, India.
 
@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/10/impulse-space-lunar-lander-development/" >🔗</a> **[NASASpaceflight]** Impulse Space sets sights on the Moon with new Lunar Lander in development
+- <a href="https://spacenews.com/the-mars-moment-why-now-is-the-time-to-build-the-future/" >🔗</a> **[SpaceNews]** The Mars moment: Why now is the time to build the future
 - <a href="https://spacenews.com/space-pioneer-raises-350-million-as-chinas-commercial-launch-boom-accelerates/" >🔗</a> **[SpaceNews]** Space Pioneer raises $350 million as China’s commercial launch boom accelerates
-- <a href="https://spacenews.com/smallsat-education-conference-aerospace-education-event-for-educators-parents-and-students-middle-school-high-school-college/" >🔗</a> **[SpaceNews]** SmallSat Education Conference Aerospace Education Event for Educators, Parents, and Students (Middle School, High School, College)
-- <a href="https://spacenews.com/announcing-the-finalists-for-the-2025-spacenews-icon-awards/" >🔗</a> **[SpaceNews]** Announcing the finalists for the 2025 SpaceNews Icon Awards
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/09/Gravity_assists_trading_energy_with_the_planets" >🔗</a> **[ESA]** Gravity assists: trading energy with the planets
+- <a href="https://spacenews.com/announcing-the-finalists-for-the-2025-spacenews-icon-awards/" >🔗</a> **[SpaceNews]** Announcing the finalists for the 2025 SpaceNews Icon Awards
+- <a href="https://spacenews.com/smallsat-education-conference-aerospace-education-event-for-educators-parents-and-students-middle-school-high-school-college/" >🔗</a> **[SpaceNews]** SmallSat Education Conference Aerospace Education Event for Educators, Parents, and Students (Middle School, High School, College)
 - <a href="https://spaceflightnow.com/2025/10/14/spacex-launches-final-version-2-starship-super-heavy-rocket/" >🔗</a> **[Spaceflight Now]** SpaceX launches final Version 2 Starship-Super Heavy rocket
 - <a href="https://spacepolicyonline.com/news/another-successful-starship-test-flight-as-spacex-readies-a-new-version/" >🔗</a> **[SpacePolicyOnline.com]** Another Successful Starship Test Flight as SpaceX Readies a New Version
 - <a href="https://spacenews.com/starship-successfully-completes-11th-flight-test/" >🔗</a> **[SpaceNews]** Starship successfully completes 11th flight test
 - <a href="https://spacepolicyonline.com/news/jpl-lays-off-another-550-workers/" >🔗</a> **[SpacePolicyOnline.com]** JPL Lays Off Another 550 Workers
-- <a href="https://spacenews.com/surprise-chinese-launch-sends-shiyan-31-experimental-satellite-into-orbit/" >🔗</a> **[SpaceNews]** Surprise Chinese launch sends Shiyan-31 experimental satellite into orbit
-- <a href="https://spacenews.com/more-layoffs-at-jpl/" >🔗</a> **[SpaceNews]** More layoffs at JPL
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251014T130944">2025-10-14 13:09:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251014T133832">2025-10-14 13:38:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
