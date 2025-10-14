@@ -89,6 +89,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/starship-successfully-completes-11th-flight-test/" >🔗</a> **[SpaceNews]** Starship successfully completes 11th flight test
 - <a href="https://spacepolicyonline.com/news/jpl-lays-off-another-550-workers/" >🔗</a> **[SpacePolicyOnline.com]** JPL Lays Off Another 550 Workers
 - <a href="https://spacenews.com/surprise-chinese-launch-sends-shiyan-31-experimental-satellite-into-orbit/" >🔗</a> **[SpaceNews]** Surprise Chinese launch sends Shiyan-31 experimental satellite into orbit
 - <a href="https://spacenews.com/more-layoffs-at-jpl/" >🔗</a> **[SpaceNews]** More layoffs at JPL
@@ -98,7 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/world-space-week-ends-wits-a-big-announcement/" >🔗</a> **[SpaceNews]** World Space Week Ends With A Big Announcement
 - <a href="https://spacenews.com/special-economic-zones-for-restoring-american-space-dominance/" >🔗</a> **[SpaceNews]** Special economic zones for restoring American space dominance
 - <a href="https://spacenews.com/momentus-and-solstar-to-offer-communications-transportation-and-infrastructure-in-low-earth-orbit/" >🔗</a> **[SpaceNews]** Momentus and Solstar to offer communications, transportation and infrastructure in low-Earth orbit
-- <a href="https://spacenews.com/jaxa-to-launch-tech-demo-satellites-on-electron-rockets/" >🔗</a> **[SpaceNews]** JAXA to launch tech demo satellites on Electron rockets
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251014T004544">2025-10-14 00:45:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251014T012838">2025-10-14 01:28:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
