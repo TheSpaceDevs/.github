@@ -94,6 +94,8 @@ This launch carries 21 satellites manufactured by Lockheed Martin.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/10/launch-roundup-101425/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9 to launch six missions in one week
+- <a href="https://spaceflightnow.com/2025/10/14/rocket-lab-launches-7th-strix-earth-observation-satellites-for-japan-based-synspective/" >🔗</a> **[Spaceflight Now]** Rocket Lab launches 7th StriX Earth observation satellites for Japan-based Synspective
 - <a href="https://spacenews.com/viasat-and-space42s-d2d-joint-venture-finds-first-mobile-partner-in-uae/" >🔗</a> **[SpaceNews]** Viasat and Space42’s D2D joint venture finds first mobile partner in UAE
 - <a href="https://spacenews.com/k2-space-announces-plans-for-three-orbit-demonstration-mission/" >🔗</a> **[SpaceNews]** K2 Space announces plans for three-orbit demonstration mission
 - <a href="https://europeanspaceflight.com/pld-aims-to-build-one-engine-every-two-weeks-by-the-end-of-2025/" >🔗</a> **[European Spaceflight]** PLD Aims to Build One Engine Every Two Weeks by the End of 2025
@@ -102,8 +104,6 @@ This launch carries 21 satellites manufactured by Lockheed Martin.
 - <a href="https://spacenews.com/the-mars-moment-why-now-is-the-time-to-build-the-future/" >🔗</a> **[SpaceNews]** The Mars moment: Why now is the time to build the future
 - <a href="https://spacenews.com/space-pioneer-raises-350-million-as-chinas-commercial-launch-boom-accelerates/" >🔗</a> **[SpaceNews]** Space Pioneer raises $350 million as China’s commercial launch boom accelerates
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/09/Gravity_assists_trading_energy_with_the_planets" >🔗</a> **[ESA]** Gravity assists: trading energy with the planets
-- <a href="https://spacenews.com/announcing-the-finalists-for-the-2025-spacenews-icon-awards/" >🔗</a> **[SpaceNews]** Announcing the finalists for the 2025 SpaceNews Icon Awards
-- <a href="https://spacenews.com/smallsat-education-conference-aerospace-education-event-for-educators-parents-and-students-middle-school-high-school-college/" >🔗</a> **[SpaceNews]** SmallSat Education Conference Aerospace Education Event for Educators, Parents, and Students (Middle School, High School, College)
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ This launch carries 21 satellites manufactured by Lockheed Martin.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251014T210128">2025-10-14 21:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251014T213059">2025-10-14 21:30:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
