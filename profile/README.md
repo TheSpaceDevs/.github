@@ -23,7 +23,7 @@ The next space launch, retrieved from our
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
 from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251014T231209">2025-10-14 23:12:09 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251014T231243">2025-10-14 23:12:43 UTC</a>.  Until
 then, this pad will have been used for 222
 out of 836 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
@@ -49,7 +49,7 @@ This launch carries 21 satellites manufactured by Lockheed Martin.
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251014T231209">2025-10-14 23:12:09 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SDA Tranche 1 Transport Layer C&location=Vandenberg SFB, CA, USA&dates=20251014T231209Z%2F20251014T231209Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | SDA Tranche 1 Transport Layer C** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251014T231243">2025-10-14 23:12:43 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SDA Tranche 1 Transport Layer C&location=Vandenberg SFB, CA, USA&dates=20251014T231243Z%2F20251014T231243Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | SDA Tranche 1 Transport Layer C** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251016T012500">2025-10-16 01:25:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 8A | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20251016T012500Z%2F20251016T015200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 8A | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251016T064200">2025-10-16 06:42:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-52&location=Cape Canaveral SFS, FL, USA&dates=20251016T064200Z%2F20251016T104200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-52** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251017T065900">2025-10-17 06:59:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 6A | Unknown Payload&location=Taiyuan Satellite Launch Center, People&#x27;s Republic of China&dates=20251017T065900Z%2F20251017T071900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 6A | Unknown Payload** from Taiyuan Satellite Launch Center, People's Republic of China.
@@ -94,6 +94,7 @@ This launch carries 21 satellites manufactured by Lockheed Martin.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/10/14/live-coverage-spacex-to-launch-2nd-batch-of-satellites-for-space-development-agency-constellation/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 2nd batch of satellites for Space Development Agency constellation
 - <a href="https://www.nasaspaceflight.com/2025/10/launch-roundup-101425/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9 to launch six missions in one week
 - <a href="https://spaceflightnow.com/2025/10/14/rocket-lab-launches-7th-strix-earth-observation-satellites-for-japan-based-synspective/" >🔗</a> **[Spaceflight Now]** Rocket Lab launches 7th StriX Earth observation satellites for Japan-based Synspective
 - <a href="https://spacenews.com/viasat-and-space42s-d2d-joint-venture-finds-first-mobile-partner-in-uae/" >🔗</a> **[SpaceNews]** Viasat and Space42’s D2D joint venture finds first mobile partner in UAE
@@ -103,7 +104,6 @@ This launch carries 21 satellites manufactured by Lockheed Martin.
 - <a href="https://www.nasaspaceflight.com/2025/10/impulse-space-lunar-lander-development/" >🔗</a> **[NASASpaceflight]** Impulse Space sets sights on the Moon with new Lunar Lander in development
 - <a href="https://spacenews.com/the-mars-moment-why-now-is-the-time-to-build-the-future/" >🔗</a> **[SpaceNews]** The Mars moment: Why now is the time to build the future
 - <a href="https://spacenews.com/space-pioneer-raises-350-million-as-chinas-commercial-launch-boom-accelerates/" >🔗</a> **[SpaceNews]** Space Pioneer raises $350 million as China’s commercial launch boom accelerates
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/09/Gravity_assists_trading_energy_with_the_planets" >🔗</a> **[ESA]** Gravity assists: trading energy with the planets
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ This launch carries 21 satellites manufactured by Lockheed Martin.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251014T213059">2025-10-14 21:30:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251014T220146">2025-10-14 22:01:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
