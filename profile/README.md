@@ -91,6 +91,7 @@ into *an Unknown
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/ESA_astronauts_complete_helicopter_training_in_preparation_for_future_lunar_missions" >🔗</a> **[ESA]** ESA astronauts complete helicopter training in preparation for future lunar missions
+- <a href="https://spacenews.com/spacex-wins-approval-for-increased-falcon-launches-from-vandenberg/" >🔗</a> **[SpaceNews]** SpaceX wins approval for increased Falcon launches from Vandenberg
 - <a href="https://europeanspaceflight.com/hyimpulse-promises-to-save-european-launch-600-kg-at-a-time/" >🔗</a> **[European Spaceflight]** HyImpulse Promises to Save European Launch, 600 kg at a Time
 - <a href="https://spacenews.com/irocket-turns-to-missiles-to-fuel-reusable-launcher-ambitions/" >🔗</a> **[SpaceNews]** iRocket turns to missiles to fuel reusable launcher ambitions
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/Matthias_Maurer_during_helicopter_training" >🔗</a> **[ESA]** Matthias Maurer during helicopter training
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/Thomas_Pesquet_during_helicopter_training" >🔗</a> **[ESA]** Thomas Pesquet during helicopter training
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/Samantha_Cristoforetti_during_helicopter_training" >🔗</a> **[ESA]** Samantha Cristoforetti during helicopter training
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/Alexander_Gerst_during_helicopter_training" >🔗</a> **[ESA]** Alexander Gerst during helicopter training
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/Alexander_Gerst_and_Matthias_Maurer_during_helicopter_training" >🔗</a> **[ESA]** Alexander Gerst and Matthias Maurer during helicopter training
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251016T213115">2025-10-16 21:31:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251016T220210">2025-10-16 22:02:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
