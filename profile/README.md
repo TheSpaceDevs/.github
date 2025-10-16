@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/viasat-takes-aim-at-the-u-s-military-satellite-market/" >🔗</a> **[SpaceNews]** Viasat takes aim at the U.S. military satellite market
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/ESA_astronauts_complete_helicopter_training_in_preparation_for_future_lunar_missions" >🔗</a> **[ESA]** ESA astronauts complete helicopter training in preparation for future lunar missions
 - <a href="https://spacenews.com/spacex-wins-approval-for-increased-falcon-launches-from-vandenberg/" >🔗</a> **[SpaceNews]** SpaceX wins approval for increased Falcon launches from Vandenberg
 - <a href="https://europeanspaceflight.com/hyimpulse-promises-to-save-european-launch-600-kg-at-a-time/" >🔗</a> **[European Spaceflight]** HyImpulse Promises to Save European Launch, 600 kg at a Time
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/ecaps-announces-breakthrough-fast-start-thruster-fast-technology/" >🔗</a> **[SpaceNews]** ECAPS Announces Breakthrough Fast-Start Thruster (FAST) Technology
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/Thomas_Pesquet_during_helicopter_training" >🔗</a> **[ESA]** Thomas Pesquet during helicopter training
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/Samantha_Cristoforetti_during_helicopter_training" >🔗</a> **[ESA]** Samantha Cristoforetti during helicopter training
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/Alexander_Gerst_during_helicopter_training" >🔗</a> **[ESA]** Alexander Gerst during helicopter training
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251016T230122">2025-10-16 23:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251016T233100">2025-10-16 23:31:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
