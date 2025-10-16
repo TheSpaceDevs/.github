@@ -90,27 +90,25 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/rocket-lab-launches-seventh-synspective-radar-imaging-satellite/" >🔗</a> **[SpaceNews]** Rocket Lab launches seventh Synspective radar imaging satellite
-- <a href="https://spaceflightnow.com/2025/10/14/live-coverage-spacex-to-launch-2nd-batch-of-satellites-for-space-development-agency-constellation/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 2nd batch of satellites for Space Development Agency constellation
-- <a href="https://www.nasaspaceflight.com/2025/10/launch-roundup-101425/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Falcon 9 to launch six missions in one week
-- <a href="https://spaceflightnow.com/2025/10/14/rocket-lab-launches-7th-strix-earth-observation-satellites-for-japan-based-synspective/" >🔗</a> **[Spaceflight Now]** Rocket Lab launches 7th StriX Earth observation satellites for Japan-based Synspective
-- <a href="https://spacenews.com/viasat-and-space42s-d2d-joint-venture-finds-first-mobile-partner-in-uae/" >🔗</a> **[SpaceNews]** Viasat and Space42’s D2D joint venture finds first mobile partner in UAE
-- <a href="https://spacenews.com/k2-space-announces-plans-for-three-orbit-demonstration-mission/" >🔗</a> **[SpaceNews]** K2 Space announces plans for three-orbit demonstration mission
-- <a href="https://europeanspaceflight.com/pld-aims-to-build-one-engine-every-two-weeks-by-the-end-of-2025/" >🔗</a> **[European Spaceflight]** PLD Aims to Build One Engine Every Two Weeks by the End of 2025
-- <a href="https://spacenews.com/impulse-space-announces-lunar-lander-plans/" >🔗</a> **[SpaceNews]** Impulse Space announces lunar lander plans
-- <a href="https://www.nasaspaceflight.com/2025/10/impulse-space-lunar-lander-development/" >🔗</a> **[NASASpaceflight]** Impulse Space sets sights on the Moon with new Lunar Lander in development
-- <a href="https://spacenews.com/the-mars-moment-why-now-is-the-time-to-build-the-future/" >🔗</a> **[SpaceNews]** The Mars moment: Why now is the time to build the future
+- <a href="https://spacenews.com/china-launches-12th-group-of-guowang-broadband-satellites-as-rocket-milestone-highlights-accelerating-launch-rate/" >🔗</a> **[SpaceNews]** China launches 12th group of Guowang broadband satellites as rocket milestone highlights accelerating launch rate
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/First_bedrest_samples_arrive_at_exploration_biobank_in_Portugal" >🔗</a> **[ESA]** First bedrest samples arrive at exploration biobank in Portugal
+- <a href="https://europeanspaceflight.com/esa-awards-contract-for-reusable-rocket-stage-recovery-vessel/" >🔗</a> **[European Spaceflight]** ESA Awards Contract for Reusable Rocket Stage Recovery Vessel
+- <a href="https://spacenews.com/axiom-space-replaces-ceo/" >🔗</a> **[SpaceNews]** Axiom Space replaces CEO
+- <a href="https://spacenews.com/artemis-accords-nations-mark-fifth-anniversary/" >🔗</a> **[SpaceNews]** Artemis Accords nations mark fifth anniversary
+- <a href="https://spacenews.com/spacex-launches-21-lockheed-martin-satellites-for-transport-layer-military-network/" >🔗</a> **[SpaceNews]** SpaceX launches 21 Lockheed Martin satellites for ‘Transport Layer’ military network
+- <a href="https://arstechnica.com/space/2025/10/once-unthinkable-nasa-and-lockheed-now-consider-launching-orion-on-other-rockets/" >🔗</a> **[Arstechnica]** Once unthinkable, NASA and Lockheed now consider launching Orion on other rockets
+- <a href="https://spacepolicyonline.com/news/isaacman-back-in-the-running-for-nasa-administrator/" >🔗</a> **[SpacePolicyOnline.com]** Isaacman Back in the Running for NASA Administrator
+- <a href="https://www.nasaspaceflight.com/2025/10/starship-block-2-pad-1-flight-11/" >🔗</a> **[NASASpaceflight]** Starship Block 2 and Pad 1 end on a high note with Flight 11
+- <a href="https://spaceflightnow.com/2025/10/15/live-coverage-overnight-launch-planned-for-28-more-starlink-satellites/" >🔗</a> **[Spaceflight Now]** Live coverage: Overnight launch planned for 28 more Starlink satellites
 
 
 ### Launch-related News 🚀
 
-- <a href="https://spacenews.com/lockheed-martin-delivers-21-satellites-for-next-launch-of-u-s-military-transport-layer/" >🔗</a> **[SpaceNews]** Lockheed Martin delivers 21 satellites for next launch of U.S. military ‘Transport Layer’
-- <a href="https://spacenews.com/space-force-assigns-12-national-security-missions-to-spacex-and-ula/" >🔗</a> **[SpaceNews]** Space Force assigns 12 national security missions to SpaceX and ULA
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251016T100154">2025-10-16 10:01:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251016T103612">2025-10-16 10:36:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
