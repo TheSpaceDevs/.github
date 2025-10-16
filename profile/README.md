@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/chinas-year-end-space-sprint/" >🔗</a> **[SpaceNews]** China’s year-end space sprint
+- <a href="https://spacenews.com/space-armor-to-challenge-traditional-metal-shielding-on-satellites/" >🔗</a> **[SpaceNews]** ‘Space Armor’ to challenge traditional metal shielding on satellites
 - <a href="https://spacenews.com/china-launches-12th-group-of-guowang-broadband-satellites-as-rocket-milestone-highlights-accelerating-launch-rate/" >🔗</a> **[SpaceNews]** China launches 12th group of Guowang broadband satellites as rocket milestone highlights accelerating launch rate
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/First_bedrest_samples_arrive_at_exploration_biobank_in_Portugal" >🔗</a> **[ESA]** First bedrest samples arrive at exploration biobank in Portugal
 - <a href="https://europeanspaceflight.com/esa-awards-contract-for-reusable-rocket-stage-recovery-vessel/" >🔗</a> **[European Spaceflight]** ESA Awards Contract for Reusable Rocket Stage Recovery Vessel
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/spacex-launches-21-lockheed-martin-satellites-for-transport-layer-military-network/" >🔗</a> **[SpaceNews]** SpaceX launches 21 Lockheed Martin satellites for ‘Transport Layer’ military network
 - <a href="https://arstechnica.com/space/2025/10/once-unthinkable-nasa-and-lockheed-now-consider-launching-orion-on-other-rockets/" >🔗</a> **[Arstechnica]** Once unthinkable, NASA and Lockheed now consider launching Orion on other rockets
 - <a href="https://spacepolicyonline.com/news/isaacman-back-in-the-running-for-nasa-administrator/" >🔗</a> **[SpacePolicyOnline.com]** Isaacman Back in the Running for NASA Administrator
-- <a href="https://www.nasaspaceflight.com/2025/10/starship-block-2-pad-1-flight-11/" >🔗</a> **[NASASpaceflight]** Starship Block 2 and Pad 1 end on a high note with Flight 11
-- <a href="https://spaceflightnow.com/2025/10/15/live-coverage-overnight-launch-planned-for-28-more-starlink-satellites/" >🔗</a> **[Spaceflight Now]** Live coverage: Overnight launch planned for 28 more Starlink satellites
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251016T130949">2025-10-16 13:09:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251016T133901">2025-10-16 13:39:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
