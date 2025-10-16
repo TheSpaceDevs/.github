@@ -91,15 +91,15 @@ into *an Unknown
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/ESA_astronauts_complete_helicopter_training_in_preparation_for_future_lunar_missions" >🔗</a> **[ESA]** ESA astronauts complete helicopter training in preparation for future lunar missions
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/Matthias_Maurer_during_helicopter_training" >🔗</a> **[ESA]** Matthias Maurer during helicopter training
 - <a href="https://spacenews.com/data-boom-video-decline-reshapes-satellite-revenues-by-2034/" >🔗</a> **[SpaceNews]** Data Boom, Video Decline Reshapes Satellite Revenues by 2034
 - <a href="https://spacenews.com/ecaps-announces-breakthrough-fast-start-thruster-fast-technology/" >🔗</a> **[SpaceNews]** ECAPS Announces Breakthrough Fast-Start Thruster (FAST) Technology
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/Thomas_Pesquet_during_helicopter_training" >🔗</a> **[ESA]** Thomas Pesquet during helicopter training
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/Samantha_Cristoforetti_during_helicopter_training" >🔗</a> **[ESA]** Samantha Cristoforetti during helicopter training
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/Alexander_Gerst_during_helicopter_training" >🔗</a> **[ESA]** Alexander Gerst during helicopter training
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/Alexander_Gerst_and_Matthias_Maurer_during_helicopter_training" >🔗</a> **[ESA]** Alexander Gerst and Matthias Maurer during helicopter training
-- <a href="https://spacenews.com/chinas-year-end-space-sprint/" >🔗</a> **[SpaceNews]** China’s year-end space sprint
-- <a href="https://spacenews.com/space-armor-to-challenge-traditional-metal-shielding-on-satellites/" >🔗</a> **[SpaceNews]** ‘Space Armor’ to challenge traditional metal shielding on satellites
-- <a href="https://spacenews.com/china-launches-12th-group-of-guowang-broadband-satellites-as-rocket-milestone-highlights-accelerating-launch-rate/" >🔗</a> **[SpaceNews]** China launches 12th group of Guowang broadband satellites as rocket milestone highlights accelerating launch rate
+- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Future_space_transportation/Phoebus_keeping_the_smallest_molecule_in_the_Universe_contained" >🔗</a> **[ESA]** Phoebus: keeping the smallest molecule in the Universe contained
+- <a href="https://www.esa.int/About_Us/Corporate_news/Spain_celebrates_ESA_heritage_with_substantial_plans_for_the_future" >🔗</a> **[ESA]** Spain celebrates ESA heritage with substantial plans for the future
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251016T150135">2025-10-16 15:01:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251016T153412">2025-10-16 15:34:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
