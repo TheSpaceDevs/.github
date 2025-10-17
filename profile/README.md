@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/german-launch-startup-hyimpulse-raises-45-million-euros/" >🔗</a> **[SpaceNews]** German launch startup HyImpulse raises 45 million euros
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ESA_astronauts_complete_helicopter_training_in_preparation_for_future_lunar_missions" >🔗</a> **[ESA]** ESA astronauts complete helicopter training in preparation for future lunar missions
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_13-17_October_2025" >🔗</a> **[ESA]** Week in images: 13-17 October 2025
 - <a href="https://spacenews.com/money-is-pouring-into-defense-but-dual-use-is-the-real-sweet-spot/" >🔗</a> **[SpaceNews]** Money is pouring into defense but dual-use is the real sweet spot
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/10/17/orion-spacecraft-arrives-at-vab-ahead-of-stacking-for-artemis-2/" >🔗</a> **[Spaceflight Now]** Orion spacecraft arrives at VAB ahead of stacking for Artemis 2
 - <a href="https://spacenews.com/as-shutdown-continues-science-community-keeps-focus-on-long-term-budget-concerns/" >🔗</a> **[SpaceNews]** As shutdown continues, science community keeps focus on long-term budget concerns
 - <a href="https://spacenews.com/viasat-takes-aim-at-the-u-s-military-satellite-market/" >🔗</a> **[SpaceNews]** Viasat takes aim at the U.S. military satellite market
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/ESA_astronauts_complete_helicopter_training_in_preparation_for_future_lunar_missions" >🔗</a> **[ESA]** ESA astronauts complete helicopter training in preparation for future lunar missions
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251017T160202">2025-10-17 16:02:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251017T163617">2025-10-17 16:36:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
