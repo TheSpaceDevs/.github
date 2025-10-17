@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_13-17_October_2025" >🔗</a> **[ESA]** Week in images: 13-17 October 2025
+- <a href="https://spacenews.com/money-is-pouring-into-defense-but-dual-use-is-the-real-sweet-spot/" >🔗</a> **[SpaceNews]** Money is pouring into defense but dual-use is the real sweet spot
 - <a href="https://spacenews.com/first-ariane-64-launch-slips-to-2026/" >🔗</a> **[SpaceNews]** First Ariane 64 launch slips to 2026
 - <a href="https://europeanspaceflight.com/open-cosmos-to-build-spanish-component-of-the-atlantic-constellation/" >🔗</a> **[European Spaceflight]** Open Cosmos to Build Spanish Component of the Atlantic Constellation
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/Earth_from_Space_Chilean_glaciers" >🔗</a> **[ESA]** Earth from Space: Chilean glaciers
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/viasat-takes-aim-at-the-u-s-military-satellite-market/" >🔗</a> **[SpaceNews]** Viasat takes aim at the U.S. military satellite market
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/ESA_astronauts_complete_helicopter_training_in_preparation_for_future_lunar_missions" >🔗</a> **[ESA]** ESA astronauts complete helicopter training in preparation for future lunar missions
 - <a href="https://spacenews.com/spacex-wins-approval-for-increased-falcon-launches-from-vandenberg/" >🔗</a> **[SpaceNews]** SpaceX wins approval for increased Falcon launches from Vandenberg
-- <a href="https://europeanspaceflight.com/hyimpulse-promises-to-save-european-launch-600-kg-at-a-time/" >🔗</a> **[European Spaceflight]** HyImpulse Promises to Save European Launch, 600 kg at a Time
-- <a href="https://spacenews.com/irocket-turns-to-missiles-to-fuel-reusable-launcher-ambitions/" >🔗</a> **[SpaceNews]** iRocket turns to missiles to fuel reusable launcher ambitions
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251017T130831">2025-10-17 13:08:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251017T133648">2025-10-17 13:36:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
