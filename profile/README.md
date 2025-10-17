@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/as-shutdown-continues-science-community-keeps-focus-on-long-term-budget-concerns/" >🔗</a> **[SpaceNews]** As shutdown continues, science community keeps focus on long-term budget concerns
 - <a href="https://spacenews.com/viasat-takes-aim-at-the-u-s-military-satellite-market/" >🔗</a> **[SpaceNews]** Viasat takes aim at the U.S. military satellite market
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/ESA_astronauts_complete_helicopter_training_in_preparation_for_future_lunar_missions" >🔗</a> **[ESA]** ESA astronauts complete helicopter training in preparation for future lunar missions
 - <a href="https://spacenews.com/spacex-wins-approval-for-increased-falcon-launches-from-vandenberg/" >🔗</a> **[SpaceNews]** SpaceX wins approval for increased Falcon launches from Vandenberg
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/data-boom-video-decline-reshapes-satellite-revenues-by-2034/" >🔗</a> **[SpaceNews]** Data Boom, Video Decline Reshapes Satellite Revenues by 2034
 - <a href="https://spacenews.com/ecaps-announces-breakthrough-fast-start-thruster-fast-technology/" >🔗</a> **[SpaceNews]** ECAPS Announces Breakthrough Fast-Start Thruster (FAST) Technology
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/Thomas_Pesquet_during_helicopter_training" >🔗</a> **[ESA]** Thomas Pesquet during helicopter training
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/Samantha_Cristoforetti_during_helicopter_training" >🔗</a> **[ESA]** Samantha Cristoforetti during helicopter training
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251017T040154">2025-10-17 04:01:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251017T043530">2025-10-17 04:35:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
