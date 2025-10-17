@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ESA_astronauts_complete_helicopter_training_in_preparation_for_future_lunar_missions" >🔗</a> **[ESA]** ESA astronauts complete helicopter training in preparation for future lunar missions
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_13-17_October_2025" >🔗</a> **[ESA]** Week in images: 13-17 October 2025
 - <a href="https://spacenews.com/money-is-pouring-into-defense-but-dual-use-is-the-real-sweet-spot/" >🔗</a> **[SpaceNews]** Money is pouring into defense but dual-use is the real sweet spot
 - <a href="https://spacenews.com/first-ariane-64-launch-slips-to-2026/" >🔗</a> **[SpaceNews]** First Ariane 64 launch slips to 2026
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/as-shutdown-continues-science-community-keeps-focus-on-long-term-budget-concerns/" >🔗</a> **[SpaceNews]** As shutdown continues, science community keeps focus on long-term budget concerns
 - <a href="https://spacenews.com/viasat-takes-aim-at-the-u-s-military-satellite-market/" >🔗</a> **[SpaceNews]** Viasat takes aim at the U.S. military satellite market
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/ESA_astronauts_complete_helicopter_training_in_preparation_for_future_lunar_missions" >🔗</a> **[ESA]** ESA astronauts complete helicopter training in preparation for future lunar missions
-- <a href="https://spacenews.com/spacex-wins-approval-for-increased-falcon-launches-from-vandenberg/" >🔗</a> **[SpaceNews]** SpaceX wins approval for increased Falcon launches from Vandenberg
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251017T150150">2025-10-17 15:01:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251017T153320">2025-10-17 15:33:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
