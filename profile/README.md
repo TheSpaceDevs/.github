@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/open-cosmos-to-build-spanish-component-of-the-atlantic-constellation/" >🔗</a> **[European Spaceflight]** Open Cosmos to Build Spanish Component of the Atlantic Constellation
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/Earth_from_Space_Chilean_glaciers" >🔗</a> **[ESA]** Earth from Space: Chilean glaciers
 - <a href="https://spaceflightnow.com/2025/10/17/orion-spacecraft-arrives-at-vab-ahead-of-stacking-for-artemis-2/" >🔗</a> **[Spaceflight Now]** Orion spacecraft arrives at VAB ahead of stacking for Artemis 2
 - <a href="https://spacenews.com/as-shutdown-continues-science-community-keeps-focus-on-long-term-budget-concerns/" >🔗</a> **[SpaceNews]** As shutdown continues, science community keeps focus on long-term budget concerns
 - <a href="https://spacenews.com/viasat-takes-aim-at-the-u-s-military-satellite-market/" >🔗</a> **[SpaceNews]** Viasat takes aim at the U.S. military satellite market
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/hyimpulse-promises-to-save-european-launch-600-kg-at-a-time/" >🔗</a> **[European Spaceflight]** HyImpulse Promises to Save European Launch, 600 kg at a Time
 - <a href="https://spacenews.com/irocket-turns-to-missiles-to-fuel-reusable-launcher-ambitions/" >🔗</a> **[SpaceNews]** iRocket turns to missiles to fuel reusable launcher ambitions
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/Matthias_Maurer_during_helicopter_training" >🔗</a> **[ESA]** Matthias Maurer during helicopter training
-- <a href="https://spacenews.com/data-boom-video-decline-reshapes-satellite-revenues-by-2034/" >🔗</a> **[SpaceNews]** Data Boom, Video Decline Reshapes Satellite Revenues by 2034
-- <a href="https://spacenews.com/ecaps-announces-breakthrough-fast-start-thruster-fast-technology/" >🔗</a> **[SpaceNews]** ECAPS Announces Breakthrough Fast-Start Thruster (FAST) Technology
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251017T090149">2025-10-17 09:01:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251017T093332">2025-10-17 09:33:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
