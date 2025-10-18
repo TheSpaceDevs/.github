@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/france-and-germany-agree-to-implement-odins-eye-missile-warning-system/" >🔗</a> **[European Spaceflight]** France and Germany Agree to Implement ODIN’S EYE Missile Warning System
 - <a href="https://spacenews.com/planet-labs-wins-12-8-million-nga-contract-for-maritime-intelligence-in-asia-pacific/" >🔗</a> **[SpaceNews]** Planet Labs wins $12.8 million NGA contract for maritime intelligence in Asia-Pacific
 - <a href="https://spacenews.com/europe-outlines-defense-flagship-programs-and-confirms-european-space-shield-by-2026/" >🔗</a> **[SpaceNews]** Europe outlines defense flagship programs and confirms European Space Shield by 2026
 - <a href="https://spacenews.com/german-launch-startup-hyimpulse-raises-45-million-euros/" >🔗</a> **[SpaceNews]** German launch startup HyImpulse raises 45 million euros
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/first-ariane-64-launch-slips-to-2026/" >🔗</a> **[SpaceNews]** First Ariane 64 launch slips to 2026
 - <a href="https://europeanspaceflight.com/open-cosmos-to-build-spanish-component-of-the-atlantic-constellation/" >🔗</a> **[European Spaceflight]** Open Cosmos to Build Spanish Component of the Atlantic Constellation
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/Earth_from_Space_Chilean_glaciers" >🔗</a> **[ESA]** Earth from Space: Chilean glaciers
-- <a href="https://spaceflightnow.com/2025/10/17/orion-spacecraft-arrives-at-vab-ahead-of-stacking-for-artemis-2/" >🔗</a> **[Spaceflight Now]** Orion spacecraft arrives at VAB ahead of stacking for Artemis 2
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251018T050110">2025-10-18 05:01:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251018T053259">2025-10-18 05:32:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
