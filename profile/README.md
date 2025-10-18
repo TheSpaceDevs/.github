@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/10/18/live-coverage-spacex-to-launch-falcon-9-rocket-on-record-breaking-31st-flight/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Falcon 9 rocket on record-breaking 31st flight
 - <a href="https://europeanspaceflight.com/france-and-germany-agree-to-implement-odins-eye-missile-warning-system/" >🔗</a> **[European Spaceflight]** France and Germany Agree to Implement ODIN’S EYE Missile Warning System
 - <a href="https://spacenews.com/planet-labs-wins-12-8-million-nga-contract-for-maritime-intelligence-in-asia-pacific/" >🔗</a> **[SpaceNews]** Planet Labs wins $12.8 million NGA contract for maritime intelligence in Asia-Pacific
 - <a href="https://spacenews.com/europe-outlines-defense-flagship-programs-and-confirms-european-space-shield-by-2026/" >🔗</a> **[SpaceNews]** Europe outlines defense flagship programs and confirms European Space Shield by 2026
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/money-is-pouring-into-defense-but-dual-use-is-the-real-sweet-spot/" >🔗</a> **[SpaceNews]** Money is pouring into defense but dual-use is the real sweet spot
 - <a href="https://spacenews.com/first-ariane-64-launch-slips-to-2026/" >🔗</a> **[SpaceNews]** First Ariane 64 launch slips to 2026
 - <a href="https://europeanspaceflight.com/open-cosmos-to-build-spanish-component-of-the-atlantic-constellation/" >🔗</a> **[European Spaceflight]** Open Cosmos to Build Spanish Component of the Atlantic Constellation
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/Earth_from_Space_Chilean_glaciers" >🔗</a> **[ESA]** Earth from Space: Chilean glaciers
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251018T170120">2025-10-18 17:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251018T173112">2025-10-18 17:31:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
