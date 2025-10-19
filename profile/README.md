@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-19-25-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy October 19-25, 2025
+- <a href="https://www.nasaspaceflight.com/2025/10/spacexs-slc-6-redevelopment-green-light/" >🔗</a> **[NASASpaceflight]** SpaceX’s SLC-6 redevelopment green light
 - <a href="https://arstechnica.com/space/2025/10/something-from-space-may-have-just-struck-a-united-airlines-flight-over-utah/" >🔗</a> **[Arstechnica]** Something from ‘space’ may have just struck a United Airlines flight over Utah
 - <a href="https://www.spacescout.info/2025/10/sunset-on-v2/" >🔗</a> **[Space Scout]** Sunset on V2: The End of an Era at Starbase
 - <a href="https://spacenews.com/china-resumes-launches-for-thousand-sails-constellation-cas-space-launches-new-international-payload/" >🔗</a> **[SpaceNews]** China resumes launches for Thousand Sails constellation, CAS Space launches new international payload
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/10/18/live-coverage-spacex-to-launch-falcon-9-rocket-on-record-breaking-31st-flight/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Falcon 9 rocket on record-breaking 31st flight
 - <a href="https://europeanspaceflight.com/france-and-germany-agree-to-implement-odins-eye-missile-warning-system/" >🔗</a> **[European Spaceflight]** France and Germany Agree to Implement ODIN’S EYE Missile Warning System
 - <a href="https://spacenews.com/planet-labs-wins-12-8-million-nga-contract-for-maritime-intelligence-in-asia-pacific/" >🔗</a> **[SpaceNews]** Planet Labs wins $12.8 million NGA contract for maritime intelligence in Asia-Pacific
-- <a href="https://spacenews.com/europe-outlines-defense-flagship-programs-and-confirms-european-space-shield-by-2026/" >🔗</a> **[SpaceNews]** Europe outlines defense flagship programs and confirms European Space Shield by 2026
-- <a href="https://spacenews.com/german-launch-startup-hyimpulse-raises-45-million-euros/" >🔗</a> **[SpaceNews]** German launch startup HyImpulse raises 45 million euros
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251019T213102">2025-10-19 21:31:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251019T220116">2025-10-19 22:01:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
