@@ -45,7 +45,6 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251019T172400">2025-10-19 17:24:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-19&location=Vandenberg SFB, CA, USA&dates=20251019T172400Z%2F20251019T212400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-19** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251022T140000">2025-10-22 14:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-5&location=Vandenberg SFB, CA, USA&dates=20251022T140000Z%2F20251022T180000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-5** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251023T013000">2025-10-23 01:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SpainSat NG II&location=Cape Canaveral SFS, FL, USA&dates=20251023T013000Z%2F20251023T051900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | SpainSat NG II** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251025T140000">2025-10-25 14:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-12&location=Vandenberg SFB, CA, USA&dates=20251025T140000Z%2F20251025T180000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-12** from Vandenberg SFB, CA, USA.
@@ -89,6 +88,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacescout.info/2025/10/sunset-on-v2/" >🔗</a> **[Space Scout]** Sunset on V2: The End of an Era at Starbase
 - <a href="https://spacenews.com/china-resumes-launches-for-thousand-sails-constellation-cas-space-launches-new-international-payload/" >🔗</a> **[SpaceNews]** China resumes launches for Thousand Sails constellation, CAS Space launches new international payload
 - <a href="https://europeanspaceflight.com/arianespace-pushes-first-ariane-64-flight-back-to-2026/" >🔗</a> **[European Spaceflight]** Arianespace Pushes First Ariane 64 Flight Back to 2026
 - <a href="https://spaceflightnow.com/2025/10/18/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-vandenberg/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Vandenberg
@@ -98,7 +98,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/europe-outlines-defense-flagship-programs-and-confirms-european-space-shield-by-2026/" >🔗</a> **[SpaceNews]** Europe outlines defense flagship programs and confirms European Space Shield by 2026
 - <a href="https://spacenews.com/german-launch-startup-hyimpulse-raises-45-million-euros/" >🔗</a> **[SpaceNews]** German launch startup HyImpulse raises 45 million euros
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ESA_astronauts_complete_helicopter_training_in_preparation_for_future_lunar_missions" >🔗</a> **[ESA]** ESA astronauts complete helicopter training in preparation for future lunar missions
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_13-17_October_2025" >🔗</a> **[ESA]** Week in images: 13-17 October 2025
 
 
 ### Launch-related News 🚀
@@ -109,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251019T170102">2025-10-19 17:01:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251019T173132">2025-10-19 17:31:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
