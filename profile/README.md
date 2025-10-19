@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/10/18/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-vandenberg/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Vandenberg
 - <a href="https://spaceflightnow.com/2025/10/18/live-coverage-spacex-to-launch-falcon-9-rocket-on-record-breaking-31st-flight/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Falcon 9 rocket on record-breaking 31st flight
 - <a href="https://europeanspaceflight.com/france-and-germany-agree-to-implement-odins-eye-missile-warning-system/" >🔗</a> **[European Spaceflight]** France and Germany Agree to Implement ODIN’S EYE Missile Warning System
 - <a href="https://spacenews.com/planet-labs-wins-12-8-million-nga-contract-for-maritime-intelligence-in-asia-pacific/" >🔗</a> **[SpaceNews]** Planet Labs wins $12.8 million NGA contract for maritime intelligence in Asia-Pacific
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_13-17_October_2025" >🔗</a> **[ESA]** Week in images: 13-17 October 2025
 - <a href="https://spacenews.com/money-is-pouring-into-defense-but-dual-use-is-the-real-sweet-spot/" >🔗</a> **[SpaceNews]** Money is pouring into defense but dual-use is the real sweet spot
 - <a href="https://spacenews.com/first-ariane-64-launch-slips-to-2026/" >🔗</a> **[SpaceNews]** First Ariane 64 launch slips to 2026
-- <a href="https://europeanspaceflight.com/open-cosmos-to-build-spanish-component-of-the-atlantic-constellation/" >🔗</a> **[European Spaceflight]** Open Cosmos to Build Spanish Component of the Atlantic Constellation
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251018T233100">2025-10-18 23:31:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251019T000519">2025-10-19 00:05:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
