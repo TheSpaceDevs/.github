@@ -89,6 +89,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-resumes-launches-for-thousand-sails-constellation-cas-space-launches-new-international-payload/" >🔗</a> **[SpaceNews]** China resumes launches for Thousand Sails constellation, CAS Space launches new international payload
 - <a href="https://europeanspaceflight.com/arianespace-pushes-first-ariane-64-flight-back-to-2026/" >🔗</a> **[European Spaceflight]** Arianespace Pushes First Ariane 64 Flight Back to 2026
 - <a href="https://spaceflightnow.com/2025/10/18/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-vandenberg/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Vandenberg
 - <a href="https://spaceflightnow.com/2025/10/18/live-coverage-spacex-to-launch-falcon-9-rocket-on-record-breaking-31st-flight/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Falcon 9 rocket on record-breaking 31st flight
@@ -98,7 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/german-launch-startup-hyimpulse-raises-45-million-euros/" >🔗</a> **[SpaceNews]** German launch startup HyImpulse raises 45 million euros
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ESA_astronauts_complete_helicopter_training_in_preparation_for_future_lunar_missions" >🔗</a> **[ESA]** ESA astronauts complete helicopter training in preparation for future lunar missions
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_13-17_October_2025" >🔗</a> **[ESA]** Week in images: 13-17 October 2025
-- <a href="https://spacenews.com/money-is-pouring-into-defense-but-dual-use-is-the-real-sweet-spot/" >🔗</a> **[SpaceNews]** Money is pouring into defense but dual-use is the real sweet spot
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251019T153121">2025-10-19 15:31:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251019T160142">2025-10-19 16:01:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
