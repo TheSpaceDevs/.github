@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/innospace-gets-license-for-first-orbital-launch-attempt/" >🔗</a> **[SpaceNews]** Innospace gets license for first orbital launch attempt
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-19-25-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy October 19-25, 2025
 - <a href="https://www.nasaspaceflight.com/2025/10/spacexs-slc-6-redevelopment-green-light/" >🔗</a> **[NASASpaceflight]** SpaceX’s SLC-6 redevelopment green light
 - <a href="https://arstechnica.com/space/2025/10/something-from-space-may-have-just-struck-a-united-airlines-flight-over-utah/" >🔗</a> **[Arstechnica]** Something from ‘space’ may have just struck a United Airlines flight over Utah
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/10/18/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-vandenberg/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Vandenberg
 - <a href="https://spaceflightnow.com/2025/10/18/live-coverage-spacex-to-launch-falcon-9-rocket-on-record-breaking-31st-flight/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Falcon 9 rocket on record-breaking 31st flight
 - <a href="https://europeanspaceflight.com/france-and-germany-agree-to-implement-odins-eye-missile-warning-system/" >🔗</a> **[European Spaceflight]** France and Germany Agree to Implement ODIN’S EYE Missile Warning System
-- <a href="https://spacenews.com/planet-labs-wins-12-8-million-nga-contract-for-maritime-intelligence-in-asia-pacific/" >🔗</a> **[SpaceNews]** Planet Labs wins $12.8 million NGA contract for maritime intelligence in Asia-Pacific
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251020T034926">2025-10-20 03:49:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251020T040445">2025-10-20 04:04:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
