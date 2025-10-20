@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/america-needs-a-plan-b-to-reach-the-moon-first/" >🔗</a> **[SpaceNews]** America needs a ‘Plan B’ to reach the moon first
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/Argonaut_in_LUNA" >🔗</a> **[ESA]** Argonaut in LUNA
+- <a href="https://europeanspaceflight.com/avio-reaches-key-milestone-in-the-development-of-its-fd1-rocket-demonstrator/" >🔗</a> **[European Spaceflight]** Avio Reaches Key Milestone in the Development of its FD1 Rocket Demonstrator
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/10/LUNA_Europe_s_Moon_on_Earth" >🔗</a> **[ESA]** LUNA: Europe’s Moon on Earth
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_fuelled_and_ready_for_encapsulation" >🔗</a> **[ESA]** Sentinel-1D fuelled and ready for encapsulation
 - <a href="https://spacenews.com/innospace-gets-license-for-first-orbital-launch-attempt/" >🔗</a> **[SpaceNews]** Innospace gets license for first orbital launch attempt
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-19-25-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy October 19-25, 2025
 - <a href="https://www.nasaspaceflight.com/2025/10/spacexs-slc-6-redevelopment-green-light/" >🔗</a> **[NASASpaceflight]** SpaceX’s SLC-6 redevelopment green light
 - <a href="https://arstechnica.com/space/2025/10/something-from-space-may-have-just-struck-a-united-airlines-flight-over-utah/" >🔗</a> **[Arstechnica]** Something from ‘space’ may have just struck a United Airlines flight over Utah
 - <a href="https://www.spacescout.info/2025/10/sunset-on-v2/" >🔗</a> **[Space Scout]** Sunset on V2: The End of an Era at Starbase
-- <a href="https://spacenews.com/china-resumes-launches-for-thousand-sails-constellation-cas-space-launches-new-international-payload/" >🔗</a> **[SpaceNews]** China resumes launches for Thousand Sails constellation, CAS Space launches new international payload
-- <a href="https://europeanspaceflight.com/arianespace-pushes-first-ariane-64-flight-back-to-2026/" >🔗</a> **[European Spaceflight]** Arianespace Pushes First Ariane 64 Flight Back to 2026
-- <a href="https://spaceflightnow.com/2025/10/18/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-vandenberg/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Vandenberg
-- <a href="https://spaceflightnow.com/2025/10/18/live-coverage-spacex-to-launch-falcon-9-rocket-on-record-breaking-31st-flight/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Falcon 9 rocket on record-breaking 31st flight
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251020T130914">2025-10-20 13:09:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251020T133824">2025-10-20 13:38:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
