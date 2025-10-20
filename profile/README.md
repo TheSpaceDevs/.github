@@ -46,7 +46,7 @@ into *a Low Earth Orbit
 
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251022T140000">2025-10-22 14:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-5&location=Vandenberg SFB, CA, USA&dates=20251022T140000Z%2F20251022T180000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-5** from Vandenberg SFB, CA, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251023T013000">2025-10-23 01:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SpainSat NG II&location=Cape Canaveral SFS, FL, USA&dates=20251023T013000Z%2F20251023T051900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | SpainSat NG II** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251023T013000">2025-10-23 01:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SpainSat NG II&location=Cape Canaveral SFS, FL, USA&dates=20251023T013000Z%2F20251023T053000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | SpainSat NG II** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251023T142200">2025-10-23 14:22:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 5 | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20251023T142200Z%2F20251023T154000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 5 | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251025T140000">2025-10-25 14:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-12&location=Vandenberg SFB, CA, USA&dates=20251025T140000Z%2F20251025T180000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-12** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251025T142700">2025-10-25 14:27:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-21&location=Cape Canaveral SFS, FL, USA&dates=20251025T142700Z%2F20251025T182700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-21** from Cape Canaveral SFS, FL, USA.
@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/duffy-says-nasa-will-open-artemis-3-lander-contract-to-competition/" >🔗</a> **[SpaceNews]** Duffy says NASA will open Artemis 3 lander contract to competition
+- <a href="https://science.nasa.gov/image-article/1119019/" >🔗</a> **[NASA]** Meet the “Scene Select Mechanism”—Part of the LDCM Thermal Infrared Sensor
+- <a href="https://science.nasa.gov/image-article/1118728/" >🔗</a> **[NASA]** LDCM Operational Land Imager (OLI) Telescope
+- <a href="https://science.nasa.gov/image-article/1118087/" >🔗</a> **[NASA]** Landsat Data Continuity Mission Becomes an Observatory
 - <a href="https://www.nasaspaceflight.com/2025/10/launch-roundup-20252010/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX to launch first expendable Falcon 9 since January
 - <a href="https://spacenews.com/america-needs-a-plan-b-to-reach-the-moon-first/" >🔗</a> **[SpaceNews]** America needs a ‘Plan B’ to reach the moon first
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/Argonaut_in_LUNA" >🔗</a> **[ESA]** Argonaut in LUNA
 - <a href="https://europeanspaceflight.com/avio-reaches-key-milestone-in-the-development-of-its-fd1-rocket-demonstrator/" >🔗</a> **[European Spaceflight]** Avio Reaches Key Milestone in the Development of its FD1 Rocket Demonstrator
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/10/LUNA_Europe_s_Moon_on_Earth" >🔗</a> **[ESA]** LUNA: Europe’s Moon on Earth
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_fuelled_and_ready_for_encapsulation" >🔗</a> **[ESA]** Sentinel-1D fuelled and ready for encapsulation
-- <a href="https://spacenews.com/innospace-gets-license-for-first-orbital-launch-attempt/" >🔗</a> **[SpaceNews]** Innospace gets license for first orbital launch attempt
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-19-25-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy October 19-25, 2025
-- <a href="https://www.nasaspaceflight.com/2025/10/spacexs-slc-6-redevelopment-green-light/" >🔗</a> **[NASASpaceflight]** SpaceX’s SLC-6 redevelopment green light
-- <a href="https://arstechnica.com/space/2025/10/something-from-space-may-have-just-struck-a-united-airlines-flight-over-utah/" >🔗</a> **[Arstechnica]** Something from ‘space’ may have just struck a United Airlines flight over Utah
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251020T210123">2025-10-20 21:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251020T213158">2025-10-20 21:31:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
