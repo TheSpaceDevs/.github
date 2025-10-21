@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-4/Sentinel-4_offers_first_glimpses_of_air_pollutants" >🔗</a> **[ESA]** Sentinel-4 offers first glimpses of air pollutants
 - <a href="https://spacenews.com/belgian-startup-nxgsat-raises-early-funds-for-virtual-5g-satellite-modem/" >🔗</a> **[SpaceNews]** Belgian startup Nxgsat raises early funds for virtual 5G satellite modem
 - <a href="https://arstechnica.com/space/2025/10/the-mystery-object-that-struck-a-plane-in-flight-it-was-probably-a-weather-balloon/" >🔗</a> **[Arstechnica]** The mystery object that struck a plane in flight? It was probably a weather balloon
 - <a href="https://arstechnica.com/space/2025/10/nasas-acting-leader-seeks-to-keep-his-job-with-new-lunar-lander-announcement/" >🔗</a> **[Arstechnica]** NASA’s acting leader seeks to keep his job with new lunar lander announcement
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/america-needs-a-plan-b-to-reach-the-moon-first/" >🔗</a> **[SpaceNews]** America needs a ‘Plan B’ to reach the moon first
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/Argonaut_in_LUNA" >🔗</a> **[ESA]** Argonaut in LUNA
 - <a href="https://europeanspaceflight.com/avio-reaches-key-milestone-in-the-development-of-its-fd1-rocket-demonstrator/" >🔗</a> **[European Spaceflight]** Avio Reaches Key Milestone in the Development of its FD1 Rocket Demonstrator
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/10/LUNA_Europe_s_Moon_on_Earth" >🔗</a> **[ESA]** LUNA: Europe’s Moon on Earth
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251021T080201">2025-10-21 08:02:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251021T083837">2025-10-21 08:38:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
