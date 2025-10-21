@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/10/elon-musk-just-declared-war-on-nasas-acting-administrator-apparently/" >🔗</a> **[Arstechnica]** Elon Musk just declared war on NASA’s acting administrator, apparently
 - <a href="https://www.nasaspaceflight.com/2025/10/nasa-competition-artemis-iii-lunar-lander/" >🔗</a> **[NASASpaceflight]** NASA Opens Competition for Artemis III Lunar Lander
 - <a href="https://spacenews.com/analysts-question-germanys-request-for-defensive-and-inspector-satellites/" >🔗</a> **[SpaceNews]** Analysts question Germany’s request for defensive and inspector satellites
 - <a href="https://europeanspaceflight.com/eu-to-roll-out-european-space-shield-initiative-in-2026/" >🔗</a> **[European Spaceflight]** EU to Roll Out European Space Shield Initiative in 2026
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/ESA-supported_test_leads_to_better_in-flight_connectivity" >🔗</a> **[ESA]** ESA-supported test leads to better in-flight connectivity
 - <a href="https://www.esa.int/About_Us/Careers_at_ESA/Coming_Soon_ESA_Student_Internships_2026" >🔗</a> **[ESA]** Coming Soon: ESA Student Internships 2026
 - <a href="https://spacenews.com/landspace-begins-final-preparations-for-chinas-first-orbital-launch-and-landing-attempt/" >🔗</a> **[SpaceNews]** Landspace begins final preparations for China’s first orbital launch and landing attempt
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-4/Sentinel-4_offers_first_glimpses_of_air_pollutants" >🔗</a> **[ESA]** Sentinel-4 offers first glimpses of air pollutants
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251021T193116">2025-10-21 19:31:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251021T200127">2025-10-21 20:01:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
