@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/starlink-mini-lasers-to-link-muon-space-satellites-for-near-real-time-connectivity/" >🔗</a> **[SpaceNews]** Starlink mini lasers to link Muon Space satellites for near real-time connectivity
 - <a href="https://www.esa.int/About_Us/Careers_at_ESA/Coming_Soon_ESA_Student_Internships_2026" >🔗</a> **[ESA]** Coming Soon: ESA Student Internships 2026
 - <a href="https://spacenews.com/landspace-begins-final-preparations-for-chinas-first-orbital-launch-and-landing-attempt/" >🔗</a> **[SpaceNews]** Landspace begins final preparations for China’s first orbital launch and landing attempt
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-4/Sentinel-4_offers_first_glimpses_of_air_pollutants" >🔗</a> **[ESA]** Sentinel-4 offers first glimpses of air pollutants
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/duffy-to-open-up-artemis-hls-contract-to-ensure-u-s-beats-china-back-to-the-moon/" >🔗</a> **[SpacePolicyOnline.com]** Duffy to Open Up Artemis HLS Contract to Ensure U.S. Beats China Back to the Moon
 - <a href="https://spacenews.com/duffy-says-nasa-will-open-artemis-3-lander-contract-to-competition/" >🔗</a> **[SpaceNews]** Duffy says NASA will open Artemis 3 lander contract to competition
 - <a href="https://www.nasaspaceflight.com/2025/10/launch-roundup-20252010/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX to launch first expendable Falcon 9 since January
-- <a href="https://spacenews.com/america-needs-a-plan-b-to-reach-the-moon-first/" >🔗</a> **[SpaceNews]** America needs a ‘Plan B’ to reach the moon first
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251021T110119">2025-10-21 11:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251021T113107">2025-10-21 11:31:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
