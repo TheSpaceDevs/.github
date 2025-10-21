@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/belgian-startup-nxgsat-raises-early-funds-for-virtual-5g-satellite-modem/" >🔗</a> **[SpaceNews]** Belgian startup Nxgsat raises early funds for virtual 5G satellite modem
 - <a href="https://arstechnica.com/space/2025/10/the-mystery-object-that-struck-a-plane-in-flight-it-was-probably-a-weather-balloon/" >🔗</a> **[Arstechnica]** The mystery object that struck a plane in flight? It was probably a weather balloon
 - <a href="https://arstechnica.com/space/2025/10/nasas-acting-leader-seeks-to-keep-his-job-with-new-lunar-lander-announcement/" >🔗</a> **[Arstechnica]** NASA’s acting leader seeks to keep his job with new lunar lander announcement
 - <a href="https://spacepolicyonline.com/news/duffy-to-open-up-artemis-hls-contract-to-ensure-u-s-beats-china-back-to-the-moon/" >🔗</a> **[SpacePolicyOnline.com]** Duffy to Open Up Artemis HLS Contract to Ensure U.S. Beats China Back to the Moon
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/image-article/1118087/" >🔗</a> **[NASA]** Landsat Data Continuity Mission Becomes an Observatory
 - <a href="https://www.nasaspaceflight.com/2025/10/launch-roundup-20252010/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX to launch first expendable Falcon 9 since January
 - <a href="https://spacenews.com/america-needs-a-plan-b-to-reach-the-moon-first/" >🔗</a> **[SpaceNews]** America needs a ‘Plan B’ to reach the moon first
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/Argonaut_in_LUNA" >🔗</a> **[ESA]** Argonaut in LUNA
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251021T060207">2025-10-21 06:02:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251021T064002">2025-10-21 06:40:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
