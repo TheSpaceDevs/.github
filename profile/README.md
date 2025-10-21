@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/taiwan-should-build-a-space-enabled-kill-web-not-big-warships/" >🔗</a> **[SpaceNews]** Taiwan should build a space-enabled kill web, not big warships
 - <a href="https://spacenews.com/orion-installed-on-sls-as-artemis-2-preparations-continue-during-shutdown/" >🔗</a> **[SpaceNews]** Orion installed on SLS as Artemis 2 preparations continue during shutdown
 - <a href="https://spacenews.com/starlink-mini-lasers-to-link-muon-space-satellites-for-near-real-time-connectivity/" >🔗</a> **[SpaceNews]** Starlink mini lasers to link Muon Space satellites for near real-time connectivity
+- <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/ESA-supported_test_leads_to_better_in-flight_connectivity" >🔗</a> **[ESA]** ESA-supported test leads to better in-flight connectivity
 - <a href="https://www.esa.int/About_Us/Careers_at_ESA/Coming_Soon_ESA_Student_Internships_2026" >🔗</a> **[ESA]** Coming Soon: ESA Student Internships 2026
 - <a href="https://spacenews.com/landspace-begins-final-preparations-for-chinas-first-orbital-launch-and-landing-attempt/" >🔗</a> **[SpaceNews]** Landspace begins final preparations for China’s first orbital launch and landing attempt
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-4/Sentinel-4_offers_first_glimpses_of_air_pollutants" >🔗</a> **[ESA]** Sentinel-4 offers first glimpses of air pollutants
 - <a href="https://spacenews.com/belgian-startup-nxgsat-raises-early-funds-for-virtual-5g-satellite-modem/" >🔗</a> **[SpaceNews]** Belgian startup Nxgsat raises early funds for virtual 5G satellite modem
 - <a href="https://arstechnica.com/space/2025/10/the-mystery-object-that-struck-a-plane-in-flight-it-was-probably-a-weather-balloon/" >🔗</a> **[Arstechnica]** The mystery object that struck a plane in flight? It was probably a weather balloon
 - <a href="https://arstechnica.com/space/2025/10/nasas-acting-leader-seeks-to-keep-his-job-with-new-lunar-lander-announcement/" >🔗</a> **[Arstechnica]** NASA’s acting leader seeks to keep his job with new lunar lander announcement
-- <a href="https://spacepolicyonline.com/news/duffy-to-open-up-artemis-hls-contract-to-ensure-u-s-beats-china-back-to-the-moon/" >🔗</a> **[SpacePolicyOnline.com]** Duffy to Open Up Artemis HLS Contract to Ensure U.S. Beats China Back to the Moon
-- <a href="https://spacenews.com/duffy-says-nasa-will-open-artemis-3-lander-contract-to-competition/" >🔗</a> **[SpaceNews]** Duffy says NASA will open Artemis 3 lander contract to competition
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251021T131111">2025-10-21 13:11:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251021T134018">2025-10-21 13:40:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
