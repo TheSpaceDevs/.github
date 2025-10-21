@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/10/the-mystery-object-that-struck-a-plane-in-flight-it-was-probably-a-weather-balloon/" >🔗</a> **[Arstechnica]** The mystery object that struck a plane in flight? It was probably a weather balloon
 - <a href="https://arstechnica.com/space/2025/10/nasas-acting-leader-seeks-to-keep-his-job-with-new-lunar-lander-announcement/" >🔗</a> **[Arstechnica]** NASA’s acting leader seeks to keep his job with new lunar lander announcement
 - <a href="https://spacepolicyonline.com/news/duffy-to-open-up-artemis-hls-contract-to-ensure-u-s-beats-china-back-to-the-moon/" >🔗</a> **[SpacePolicyOnline.com]** Duffy to Open Up Artemis HLS Contract to Ensure U.S. Beats China Back to the Moon
 - <a href="https://spacenews.com/duffy-says-nasa-will-open-artemis-3-lander-contract-to-competition/" >🔗</a> **[SpaceNews]** Duffy says NASA will open Artemis 3 lander contract to competition
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2025/10/launch-roundup-20252010/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX to launch first expendable Falcon 9 since January
 - <a href="https://spacenews.com/america-needs-a-plan-b-to-reach-the-moon-first/" >🔗</a> **[SpaceNews]** America needs a ‘Plan B’ to reach the moon first
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/Argonaut_in_LUNA" >🔗</a> **[ESA]** Argonaut in LUNA
-- <a href="https://europeanspaceflight.com/avio-reaches-key-milestone-in-the-development-of-its-fd1-rocket-demonstrator/" >🔗</a> **[European Spaceflight]** Avio Reaches Key Milestone in the Development of its FD1 Rocket Demonstrator
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251021T031646">2025-10-21 03:16:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251021T034050">2025-10-21 03:40:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
