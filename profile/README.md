@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/10/relativity-update-oct25/" >🔗</a> **[NASASpaceflight]** Relativity completes Terran R thrust section, continues testing ahead of first launch
 - <a href="https://europeanspaceflight.com/eutelsats-leo-revenues-surge-as-its-geo-business-slows/" >🔗</a> **[European Spaceflight]** Eutelsat’s LEO Revenues Surge as its GEO Business Slows
 - <a href="https://spacenews.com/the-lunar-mining-gold-rush-is-coming-and-success-requires-bridging-two-worlds/" >🔗</a> **[SpaceNews]** The lunar mining gold rush is coming – and success requires bridging two worlds
 - <a href="https://spacenews.com/vantor-satellites-track-space-objects-in-blind-spots-inaccessible-to-military-ground-sensors/" >🔗</a> **[SpaceNews]** Vantor satellites track space objects in ‘blind spots’ inaccessible to military ground sensors
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/lynk-global-and-omnispace-to-merge-in-race-for-direct-to-device-satellite-spectrum/" >🔗</a> **[SpaceNews]** Lynk Global and Omnispace to merge in race for direct-to-device satellite spectrum
 - <a href="https://spacenews.com/startup-takes-on-space-based-missile-defense-with-its-own-cash/" >🔗</a> **[SpaceNews]** Startup takes on space-based missile defense — with its own cash
 - <a href="https://spacenews.com/samara-aerospace-pointing-technology-to-be-tested-in-orbit/" >🔗</a> **[SpaceNews]** Samara Aerospace pointing technology to be tested in orbit
-- <a href="https://arstechnica.com/space/2025/10/elon-musk-just-declared-war-on-nasas-acting-administrator-apparently/" >🔗</a> **[Arstechnica]** Elon Musk just declared war on NASA’s acting administrator, apparently
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251022T210114">2025-10-22 21:01:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251022T213105">2025-10-22 21:31:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
