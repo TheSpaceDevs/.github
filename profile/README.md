@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/startup-takes-on-space-based-missile-defense-with-its-own-cash/" >🔗</a> **[SpaceNews]** Startup takes on space-based missile defense — with its own cash
 - <a href="https://spacenews.com/samara-aerospace-pointing-technology-to-be-tested-in-orbit/" >🔗</a> **[SpaceNews]** Samara Aerospace pointing technology to be tested in orbit
 - <a href="https://arstechnica.com/space/2025/10/elon-musk-just-declared-war-on-nasas-acting-administrator-apparently/" >🔗</a> **[Arstechnica]** Elon Musk just declared war on NASA’s acting administrator, apparently
 - <a href="https://www.nasaspaceflight.com/2025/10/nasa-competition-artemis-iii-lunar-lander/" >🔗</a> **[NASASpaceflight]** NASA Opens Competition for Artemis III Lunar Lander
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/orion-installed-on-sls-as-artemis-2-preparations-continue-during-shutdown/" >🔗</a> **[SpaceNews]** Orion installed on SLS as Artemis 2 preparations continue during shutdown
 - <a href="https://spacenews.com/starlink-mini-lasers-to-link-muon-space-satellites-for-near-real-time-connectivity/" >🔗</a> **[SpaceNews]** Starlink mini lasers to link Muon Space satellites for near real-time connectivity
 - <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/ESA-supported_test_leads_to_better_in-flight_connectivity" >🔗</a> **[ESA]** ESA-supported test leads to better in-flight connectivity
-- <a href="https://www.esa.int/About_Us/Careers_at_ESA/Coming_Soon_ESA_Student_Internships_2026" >🔗</a> **[ESA]** Coming Soon: ESA Student Internships 2026
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251022T050152">2025-10-22 05:01:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251022T053426">2025-10-22 05:34:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
