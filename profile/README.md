@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/10/22/live-coverage-spacex-to-launch-28-starlink-satellites-on-550th-falcon-9-rocket/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on 550th Falcon 9 rocket
+- <a href="https://spacenews.com/musk-criticizes-duffy-amid-nasa-leadership-debate/" >🔗</a> **[SpaceNews]** Musk criticizes Duffy amid NASA leadership debate
 - <a href="https://spacenews.com/lynk-global-and-omnispace-to-merge-in-race-for-direct-to-device-satellite-spectrum/" >🔗</a> **[SpaceNews]** Lynk Global and Omnispace to merge in race for direct-to-device satellite spectrum
 - <a href="https://spacenews.com/startup-takes-on-space-based-missile-defense-with-its-own-cash/" >🔗</a> **[SpaceNews]** Startup takes on space-based missile defense — with its own cash
 - <a href="https://spacenews.com/samara-aerospace-pointing-technology-to-be-tested-in-orbit/" >🔗</a> **[SpaceNews]** Samara Aerospace pointing technology to be tested in orbit
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/analysts-question-germanys-request-for-defensive-and-inspector-satellites/" >🔗</a> **[SpaceNews]** Analysts question Germany’s request for defensive and inspector satellites
 - <a href="https://europeanspaceflight.com/eu-to-roll-out-european-space-shield-initiative-in-2026/" >🔗</a> **[European Spaceflight]** EU to Roll Out European Space Shield Initiative in 2026
 - <a href="https://spacenews.com/taiwan-should-build-a-space-enabled-kill-web-not-big-warships/" >🔗</a> **[SpaceNews]** Taiwan should build a space-enabled kill web, not big warships
-- <a href="https://spacenews.com/orion-installed-on-sls-as-artemis-2-preparations-continue-during-shutdown/" >🔗</a> **[SpaceNews]** Orion installed on SLS as Artemis 2 preparations continue during shutdown
-- <a href="https://spacenews.com/starlink-mini-lasers-to-link-muon-space-satellites-for-near-real-time-connectivity/" >🔗</a> **[SpaceNews]** Starlink mini lasers to link Muon Space satellites for near real-time connectivity
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251022T110155">2025-10-22 11:01:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251022T113147">2025-10-22 11:31:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
