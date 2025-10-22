@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/the-lunar-mining-gold-rush-is-coming-and-success-requires-bridging-two-worlds/" >🔗</a> **[SpaceNews]** The lunar mining gold rush is coming – and success requires bridging two worlds
 - <a href="https://spacenews.com/vantor-satellites-track-space-objects-in-blind-spots-inaccessible-to-military-ground-sensors/" >🔗</a> **[SpaceNews]** Vantor satellites track space objects in ‘blind spots’ inaccessible to military ground sensors
 - <a href="https://spaceflightnow.com/2025/10/22/live-coverage-spacex-to-launch-28-starlink-satellites-on-550th-falcon-9-rocket/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on 550th Falcon 9 rocket
 - <a href="https://spacenews.com/musk-criticizes-duffy-amid-nasa-leadership-debate/" >🔗</a> **[SpaceNews]** Musk criticizes Duffy amid NASA leadership debate
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2025/10/elon-musk-just-declared-war-on-nasas-acting-administrator-apparently/" >🔗</a> **[Arstechnica]** Elon Musk just declared war on NASA’s acting administrator, apparently
 - <a href="https://www.nasaspaceflight.com/2025/10/nasa-competition-artemis-iii-lunar-lander/" >🔗</a> **[NASASpaceflight]** NASA Opens Competition for Artemis III Lunar Lander
 - <a href="https://spacenews.com/analysts-question-germanys-request-for-defensive-and-inspector-satellites/" >🔗</a> **[SpaceNews]** Analysts question Germany’s request for defensive and inspector satellites
-- <a href="https://europeanspaceflight.com/eu-to-roll-out-european-space-shield-initiative-in-2026/" >🔗</a> **[European Spaceflight]** EU to Roll Out European Space Shield Initiative in 2026
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251022T131101">2025-10-22 13:11:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251022T134009">2025-10-22 13:40:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
