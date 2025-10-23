@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/europe-must-build-its-own-critical-infrastructure/" >🔗</a> **[SpaceNews]** Europe must build its own critical infrastructure
 - <a href="https://spacenews.com/airbus-leonardo-and-thales-agree-to-combine-space-businesses/" >🔗</a> **[SpaceNews]** Airbus, Leonardo and Thales agree to combine space businesses
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Condensation_defying_gravity" >🔗</a> **[ESA]** Condensation defying gravity
 - <a href="https://europeanspaceflight.com/arianegroup-awards-e1-5m-contract-to-realtra-for-ariane-6-video-telemetry/" >🔗</a> **[European Spaceflight]** ArianeGroup Awards €1.5M Contract to Réaltra for Ariane 6 Video Telemetry
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/lockheed-martin-ventures-invests-in-rocket-propulsion-startup-venus-aerospace/" >🔗</a> **[SpaceNews]** Lockheed Martin Ventures invests in rocket propulsion startup Venus Aerospace
 - <a href="https://www.nasaspaceflight.com/2025/10/relativity-update-oct25/" >🔗</a> **[NASASpaceflight]** Relativity completes Terran R thrust section, continues testing ahead of first launch
 - <a href="https://europeanspaceflight.com/eutelsats-leo-revenues-surge-as-its-geo-business-slows/" >🔗</a> **[European Spaceflight]** Eutelsat’s LEO Revenues Surge as its GEO Business Slows
-- <a href="https://spacenews.com/the-lunar-mining-gold-rush-is-coming-and-success-requires-bridging-two-worlds/" >🔗</a> **[SpaceNews]** The lunar mining gold rush is coming – and success requires bridging two worlds
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251023T110153">2025-10-23 11:01:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251023T113115">2025-10-23 11:31:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
