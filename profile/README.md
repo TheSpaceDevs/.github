@@ -19,33 +19,32 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Long March 5 | Unknown Payload**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Wenchang_Spacecraft_Launch_Site">101</a>, Wenchang Space Launch Site, People's Republic of China*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251023T142200">2025-10-23 14:22:00 UTC</a>.  Until
-then, this pad will have been used for 15
-out of 46 launches from this location. The launch status is currently
+**Falcon 9 Block 5 | SpainSat NG II**. It is scheduled to be launched by *SpaceX*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral SFS, FL, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251024T013000">2025-10-24 01:30:00 UTC</a>.  Until
+then, this pad will have been used for 341
+out of 1060 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Unknown* and the payload will be injected
-into *an Unknown
-(N/A)*.
+*Communications* and the payload will be injected
+into *a Geostationary Transfer Orbit
+(GTO)*.
 <br>
 <blockquote>
-  Details TBD.
+  Second of two new-generation satellites built by Airbus to provide secure communications to the Spanish government, its allies, and various international organizations.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Long_March_5" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=19.614334,110.951011" >
+  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251023T142200">2025-10-23 14:22:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 5 | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20251023T142200Z%2F20251023T154000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 5 | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251024T013000">2025-10-24 01:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | SpainSat NG II&location=Cape Canaveral SFS, FL, USA&dates=20251024T013000Z%2F20251024T053000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | SpainSat NG II** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251025T140000">2025-10-25 14:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-12&location=Vandenberg SFB, CA, USA&dates=20251025T140000Z%2F20251025T180000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-12** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251026T000000">2025-10-26 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=H3-24 | HTV-X1&location=Tanegashima Space Center, Japan&dates=20251026T000000Z%2F20251026T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **H3-24 | HTV-X1** from Tanegashima Space Center, Japan.
@@ -55,6 +54,7 @@ into *an Unknown
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251028T000000">2025-10-28 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/br.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=HANBIT-Nano | Spaceward&location=Alcântara Space Center, Federative Republic of Brazil&dates=20251028T000000Z%2F20251028T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **HANBIT-Nano | Spaceward** from Alcântara Space Center, Federative Republic of Brazil.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251028T131400">2025-10-28 13:14:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-37&location=Cape Canaveral SFS, FL, USA&dates=20251028T131400Z%2F20251028T171400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-37** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251030T200600">2025-10-30 20:06:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-23&location=Vandenberg SFB, CA, USA&dates=20251030T200600Z%2F20251031T000600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-23** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251031T153400">2025-10-31 15:34:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2F/G | Shenzhou 21&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20251031T153400Z%2F20251031T161400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2F/G | Shenzhou 21** from Jiuquan Satellite Launch Center, People's Republic of China.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,7 +90,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/the-astronaut-who-filmed-the-dream-is-alive/" >🔗</a> **[SpaceNews]** The astronaut who filmed the Dream is Alive
 - <a href="https://spacenews.com/the-next-space-race-will-be-won-at-night/" >🔗</a> **[SpaceNews]** The next space race will be won at night
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/FutureEO_at_ESA_s_Ministerial_Council_2025" >🔗</a> **[ESA]** FutureEO at ESA’s Ministerial Council 2025
 - <a href="https://spacenews.com/europe-must-build-its-own-critical-infrastructure/" >🔗</a> **[SpaceNews]** Europe must build its own critical infrastructure
 - <a href="https://www.esa.int/About_Us/Corporate_news/Cyprus_joins_European_Space_Agency_as_an_Associate_Member" >🔗</a> **[ESA]** Cyprus joins European Space Agency as an Associate Member
 - <a href="https://spacenews.com/airbus-leonardo-and-thales-agree-to-combine-space-businesses/" >🔗</a> **[SpaceNews]** Airbus, Leonardo and Thales agree to combine space businesses
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://europeanspaceflight.com/arianegroup-awards-e1-5m-contract-to-realtra-for-ariane-6-video-telemetry/" >🔗</a> **[European Spaceflight]** ArianeGroup Awards €1.5M Contract to Réaltra for Ariane 6 Video Telemetry
 - <a href="https://spacenews.com/ion-x-to-supply-upgraded-thruster-for-univitys-vleo-5g-constellation/" >🔗</a> **[SpaceNews]** Ion-X to supply upgraded thruster for Univity’s VLEO 5G constellation
 - <a href="https://spacenews.com/hungary-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Hungary signs Artemis Accords
-- <a href="https://spacenews.com/quantum-space-to-launch-first-spacecraft-in-mid-2026/" >🔗</a> **[SpaceNews]** Quantum Space to launch first spacecraft in mid-2026
-- <a href="https://spacenews.com/lockheed-martin-ventures-invests-in-rocket-propulsion-startup-venus-aerospace/" >🔗</a> **[SpaceNews]** Lockheed Martin Ventures invests in rocket propulsion startup Venus Aerospace
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251023T140144">2025-10-23 14:01:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251023T143603">2025-10-23 14:36:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
