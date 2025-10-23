@@ -90,6 +90,8 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/10/23/live-coverage-spacex-to-expend-falcon-9-booster-to-launch-spainsat-ng-2-communications-satellite/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to expend Falcon 9 booster to launch Spainsat NG 2 communications satellite
+- <a href="https://europeanspaceflight.com/avio-shareholders-approve-e400m-capital-increase/" >🔗</a> **[European Spaceflight]** Avio Shareholders Approve €400M Capital Increase
 - <a href="https://spacenews.com/the-astronaut-who-filmed-the-dream-is-alive/" >🔗</a> **[SpaceNews]** The astronaut who filmed the Dream is Alive
 - <a href="https://spacenews.com/the-next-space-race-will-be-won-at-night/" >🔗</a> **[SpaceNews]** The next space race will be won at night
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/FutureEO_at_ESA_s_Ministerial_Council_2025" >🔗</a> **[ESA]** FutureEO at ESA’s Ministerial Council 2025
@@ -98,8 +100,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spacenews.com/airbus-leonardo-and-thales-agree-to-combine-space-businesses/" >🔗</a> **[SpaceNews]** Airbus, Leonardo and Thales agree to combine space businesses
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Condensation_defying_gravity" >🔗</a> **[ESA]** Condensation defying gravity
 - <a href="https://europeanspaceflight.com/arianegroup-awards-e1-5m-contract-to-realtra-for-ariane-6-video-telemetry/" >🔗</a> **[European Spaceflight]** ArianeGroup Awards €1.5M Contract to Réaltra for Ariane 6 Video Telemetry
-- <a href="https://spacenews.com/ion-x-to-supply-upgraded-thruster-for-univitys-vleo-5g-constellation/" >🔗</a> **[SpaceNews]** Ion-X to supply upgraded thruster for Univity’s VLEO 5G constellation
-- <a href="https://spacenews.com/hungary-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Hungary signs Artemis Accords
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251023T150119">2025-10-23 15:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251023T153359">2025-10-23 15:33:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
