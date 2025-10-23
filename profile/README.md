@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/hungary-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Hungary signs Artemis Accords
 - <a href="https://spacenews.com/quantum-space-to-launch-first-spacecraft-in-mid-2026/" >🔗</a> **[SpaceNews]** Quantum Space to launch first spacecraft in mid-2026
 - <a href="https://spacenews.com/lockheed-martin-ventures-invests-in-rocket-propulsion-startup-venus-aerospace/" >🔗</a> **[SpaceNews]** Lockheed Martin Ventures invests in rocket propulsion startup Venus Aerospace
 - <a href="https://www.nasaspaceflight.com/2025/10/relativity-update-oct25/" >🔗</a> **[NASASpaceflight]** Relativity completes Terran R thrust section, continues testing ahead of first launch
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spaceflightnow.com/2025/10/22/live-coverage-spacex-to-launch-28-starlink-satellites-on-550th-falcon-9-rocket/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on 550th Falcon 9 rocket
 - <a href="https://spacenews.com/musk-criticizes-duffy-amid-nasa-leadership-debate/" >🔗</a> **[SpaceNews]** Musk criticizes Duffy amid NASA leadership debate
 - <a href="https://www.esa.int/Space_Safety/Space_Debris/Sounding_the_alarm_ESA_introduces_space_environment_health_index" >🔗</a> **[ESA]** Sounding the alarm: ESA introduces space environment ‘health index’
-- <a href="https://spacenews.com/lynk-global-and-omnispace-to-merge-in-race-for-direct-to-device-satellite-spectrum/" >🔗</a> **[SpaceNews]** Lynk Global and Omnispace to merge in race for direct-to-device satellite spectrum
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251023T020947">2025-10-23 02:09:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251023T025213">2025-10-23 02:52:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
