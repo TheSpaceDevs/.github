@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/the-next-space-race-will-be-won-at-night/" >🔗</a> **[SpaceNews]** The next space race will be won at night
 - <a href="https://spacenews.com/europe-must-build-its-own-critical-infrastructure/" >🔗</a> **[SpaceNews]** Europe must build its own critical infrastructure
 - <a href="https://www.esa.int/About_Us/Corporate_news/Cyprus_joins_European_Space_Agency_as_an_Associate_Member" >🔗</a> **[ESA]** Cyprus joins European Space Agency as an Associate Member
 - <a href="https://spacenews.com/airbus-leonardo-and-thales-agree-to-combine-space-businesses/" >🔗</a> **[SpaceNews]** Airbus, Leonardo and Thales agree to combine space businesses
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/hungary-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Hungary signs Artemis Accords
 - <a href="https://spacenews.com/quantum-space-to-launch-first-spacecraft-in-mid-2026/" >🔗</a> **[SpaceNews]** Quantum Space to launch first spacecraft in mid-2026
 - <a href="https://spacenews.com/lockheed-martin-ventures-invests-in-rocket-propulsion-startup-venus-aerospace/" >🔗</a> **[SpaceNews]** Lockheed Martin Ventures invests in rocket propulsion startup Venus Aerospace
-- <a href="https://www.nasaspaceflight.com/2025/10/relativity-update-oct25/" >🔗</a> **[NASASpaceflight]** Relativity completes Terran R thrust section, continues testing ahead of first launch
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251023T131030">2025-10-23 13:10:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251023T133918">2025-10-23 13:39:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
