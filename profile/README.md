@@ -104,12 +104,13 @@ into *a Geostationary Transfer Orbit
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2025/10/23/live-coverage-spacex-to-expend-falcon-9-booster-to-launch-spainsat-ng-2-communications-satellite/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to expend Falcon 9 booster to launch Spainsat NG 2 communications satellite
 - <a href="https://www.nasaspaceflight.com/2025/10/launch-roundup-20252010/" >🔗</a> **[NASASpaceflight]** Launch Roundup: SpaceX to launch first expendable Falcon 9 since January
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251023T160158">2025-10-23 16:01:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251023T163715">2025-10-23 16:37:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
