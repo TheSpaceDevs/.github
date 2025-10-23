@@ -90,6 +90,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/10/nasa-leadership-battle-isaacman-vs-duffy/" >🔗</a> **[NASASpaceflight]** NASA leadership battle intensifies as Trump weighs Isaacman vs. Duffy
 - <a href="https://spaceflightnow.com/2025/10/23/live-coverage-spacex-to-expend-falcon-9-booster-to-launch-spainsat-ng-2-communications-satellite/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to expend Falcon 9 booster to launch Spainsat NG 2 communications satellite
 - <a href="https://europeanspaceflight.com/avio-shareholders-approve-e400m-capital-increase/" >🔗</a> **[European Spaceflight]** Avio Shareholders Approve €400M Capital Increase
 - <a href="https://spacenews.com/the-astronaut-who-filmed-the-dream-is-alive/" >🔗</a> **[SpaceNews]** The astronaut who filmed the Dream is Alive
@@ -99,7 +100,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.esa.int/About_Us/Corporate_news/Cyprus_joins_European_Space_Agency_as_an_Associate_Member" >🔗</a> **[ESA]** Cyprus joins European Space Agency as an Associate Member
 - <a href="https://spacenews.com/airbus-leonardo-and-thales-agree-to-combine-space-businesses/" >🔗</a> **[SpaceNews]** Airbus, Leonardo and Thales agree to combine space businesses
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Condensation_defying_gravity" >🔗</a> **[ESA]** Condensation defying gravity
-- <a href="https://europeanspaceflight.com/arianegroup-awards-e1-5m-contract-to-realtra-for-ariane-6-video-telemetry/" >🔗</a> **[European Spaceflight]** ArianeGroup Awards €1.5M Contract to Réaltra for Ariane 6 Video Telemetry
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251023T180153">2025-10-23 18:01:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251023T183924">2025-10-23 18:39:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
