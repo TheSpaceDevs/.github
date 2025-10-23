@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/airbus-leonardo-and-thales-agree-to-combine-space-businesses/" >🔗</a> **[SpaceNews]** Airbus, Leonardo and Thales agree to combine space businesses
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Condensation_defying_gravity" >🔗</a> **[ESA]** Condensation defying gravity
 - <a href="https://europeanspaceflight.com/arianegroup-awards-e1-5m-contract-to-realtra-for-ariane-6-video-telemetry/" >🔗</a> **[European Spaceflight]** ArianeGroup Awards €1.5M Contract to Réaltra for Ariane 6 Video Telemetry
 - <a href="https://spacenews.com/ion-x-to-supply-upgraded-thruster-for-univitys-vleo-5g-constellation/" >🔗</a> **[SpaceNews]** Ion-X to supply upgraded thruster for Univity’s VLEO 5G constellation
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasaspaceflight.com/2025/10/relativity-update-oct25/" >🔗</a> **[NASASpaceflight]** Relativity completes Terran R thrust section, continues testing ahead of first launch
 - <a href="https://europeanspaceflight.com/eutelsats-leo-revenues-surge-as-its-geo-business-slows/" >🔗</a> **[European Spaceflight]** Eutelsat’s LEO Revenues Surge as its GEO Business Slows
 - <a href="https://spacenews.com/the-lunar-mining-gold-rush-is-coming-and-success-requires-bridging-two-worlds/" >🔗</a> **[SpaceNews]** The lunar mining gold rush is coming – and success requires bridging two worlds
-- <a href="https://spacenews.com/vantor-satellites-track-space-objects-in-blind-spots-inaccessible-to-military-ground-sensors/" >🔗</a> **[SpaceNews]** Vantor satellites track space objects in ‘blind spots’ inaccessible to military ground sensors
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251023T090209">2025-10-23 09:02:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251023T093426">2025-10-23 09:34:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
