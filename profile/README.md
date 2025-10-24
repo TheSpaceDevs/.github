@@ -92,6 +92,7 @@ into *a Low Earth Orbit
 ### Latest News ⌛
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_20-24_October_2025" >🔗</a> **[ESA]** Week in images: 20-24 October 2025
 - <a href="https://spacenews.com/a-soft-power-strategy-to-preserve-non-sovereignty-from-chinese-land-claims-on-the-moon/" >🔗</a> **[SpaceNews]** A soft power strategy to preserve non-sovereignty from Chinese land claims on the moon
+- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Vinci_test_motor_for_Ariane_6_to_be_assembled_at_DLR_test_centre" >🔗</a> **[ESA]** Vinci test motor for Ariane 6 to be assembled at DLR test centre
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Second_Space_Resources_Challenge_from_concept_to_reality_at_LUNA" >🔗</a> **[ESA]** Second Space Resources Challenge: from concept to reality at LUNA
 - <a href="https://spacenews.com/chinese-launch-firms-space-pioneer-and-galactic-energy-move-toward-ipos/" >🔗</a> **[SpaceNews]** Chinese launch firms Space Pioneer and Galactic Energy move toward IPOs
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/Focusing_on_NGC_3370" >🔗</a> **[ESA]** Focusing on NGC 3370
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/esa-finalizing-ministerial-package/" >🔗</a> **[SpaceNews]** ESA finalizing ministerial package
 - <a href="https://spacenews.com/iridium-pulls-1-billion-2030-service-revenue-goal-amid-spacexs-d2d-push/" >🔗</a> **[SpaceNews]** Iridium pulls $1 billion 2030 service revenue goal amid SpaceX’s D2D push
 - <a href="https://spaceflightnow.com/2025/10/24/airbus-leonardo-and-thales-agree-to-form-new-european-company/" >🔗</a> **[Spaceflight Now]** Airbus, Leonardo and Thales agree to form new European company
-- <a href="https://spacenews.com/satleo-prepares-to-launch-first-thermal-imaging-payload/" >🔗</a> **[SpaceNews]** SatLeo prepares to launch first thermal-imaging payload
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251024T150124">2025-10-24 15:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251024T153356">2025-10-24 15:33:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
