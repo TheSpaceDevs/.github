@@ -90,6 +90,8 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/iridium-pulls-1-billion-2030-service-revenue-goal-amid-spacexs-d2d-push/" >🔗</a> **[SpaceNews]** Iridium pulls $1 billion 2030 service revenue goal amid SpaceX’s D2D push
+- <a href="https://spaceflightnow.com/2025/10/24/airbus-leonardo-and-thales-agree-to-form-new-european-company/" >🔗</a> **[Spaceflight Now]** Airbus, Leonardo and Thales agree to form new European company
 - <a href="https://spacenews.com/satleo-prepares-to-launch-first-thermal-imaging-payload/" >🔗</a> **[SpaceNews]** SatLeo prepares to launch first thermal-imaging payload
 - <a href="https://spacenews.com/china-expands-classified-geostationary-satellite-series-with-long-march-5-launch/" >🔗</a> **[SpaceNews]** China expands classified geostationary satellite series with Long March 5 launch
 - <a href="https://www.nasaspaceflight.com/2025/10/nasa-leadership-battle-isaacman-vs-duffy/" >🔗</a> **[NASASpaceflight]** NASA leadership battle intensifies as Trump weighs Isaacman vs. Duffy
@@ -98,8 +100,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spacenews.com/the-astronaut-who-filmed-the-dream-is-alive/" >🔗</a> **[SpaceNews]** The astronaut who filmed the Dream is Alive
 - <a href="https://spacenews.com/the-next-space-race-will-be-won-at-night/" >🔗</a> **[SpaceNews]** The next space race will be won at night
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/FutureEO_at_ESA_s_Ministerial_Council_2025" >🔗</a> **[ESA]** FutureEO at ESA’s Ministerial Council 2025
-- <a href="https://spacenews.com/europe-must-build-its-own-critical-infrastructure/" >🔗</a> **[SpaceNews]** Europe must build its own critical infrastructure
-- <a href="https://www.esa.int/About_Us/Corporate_news/Cyprus_joins_European_Space_Agency_as_an_Associate_Member" >🔗</a> **[ESA]** Cyprus joins European Space Agency as an Associate Member
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251024T000351">2025-10-24 00:03:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251024T004542">2025-10-24 00:45:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
