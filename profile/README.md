@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/chinese-launch-firms-space-pioneer-and-galactic-energy-move-toward-ipos/" >🔗</a> **[SpaceNews]** Chinese launch firms Space Pioneer and Galactic Energy move toward IPOs
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/Focusing_on_NGC_3370" >🔗</a> **[ESA]** Focusing on NGC 3370
 - <a href="https://europeanspaceflight.com/airbus-thales-and-leonardo-agree-to-create-european-space-behemoth/" >🔗</a> **[European Spaceflight]** Airbus, Thales, and Leonardo Agree to Create European Space Behemoth
 - <a href="https://spacenews.com/esa-finalizing-ministerial-package/" >🔗</a> **[SpaceNews]** ESA finalizing ministerial package
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/china-expands-classified-geostationary-satellite-series-with-long-march-5-launch/" >🔗</a> **[SpaceNews]** China expands classified geostationary satellite series with Long March 5 launch
 - <a href="https://www.nasaspaceflight.com/2025/10/nasa-leadership-battle-isaacman-vs-duffy/" >🔗</a> **[NASASpaceflight]** NASA leadership battle intensifies as Trump weighs Isaacman vs. Duffy
 - <a href="https://spaceflightnow.com/2025/10/23/live-coverage-spacex-to-expend-falcon-9-booster-to-launch-spainsat-ng-2-communications-satellite/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to expend Falcon 9 booster to launch Spainsat NG 2 communications satellite
-- <a href="https://europeanspaceflight.com/avio-shareholders-approve-e400m-capital-increase/" >🔗</a> **[European Spaceflight]** Avio Shareholders Approve €400M Capital Increase
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251024T100150">2025-10-24 10:01:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251024T103602">2025-10-24 10:36:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
