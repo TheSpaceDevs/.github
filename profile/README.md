@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_20-24_October_2025" >🔗</a> **[ESA]** Week in images: 20-24 October 2025
+- <a href="https://spacenews.com/a-soft-power-strategy-to-preserve-non-sovereignty-from-chinese-land-claims-on-the-moon/" >🔗</a> **[SpaceNews]** A soft power strategy to preserve non-sovereignty from Chinese land claims on the moon
+- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Second_Space_Resources_Challenge_from_concept_to_reality_at_LUNA" >🔗</a> **[ESA]** Second Space Resources Challenge: from concept to reality at LUNA
 - <a href="https://spacenews.com/chinese-launch-firms-space-pioneer-and-galactic-energy-move-toward-ipos/" >🔗</a> **[SpaceNews]** Chinese launch firms Space Pioneer and Galactic Energy move toward IPOs
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/Focusing_on_NGC_3370" >🔗</a> **[ESA]** Focusing on NGC 3370
 - <a href="https://europeanspaceflight.com/airbus-thales-and-leonardo-agree-to-create-european-space-behemoth/" >🔗</a> **[European Spaceflight]** Airbus, Thales, and Leonardo Agree to Create European Space Behemoth
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/iridium-pulls-1-billion-2030-service-revenue-goal-amid-spacexs-d2d-push/" >🔗</a> **[SpaceNews]** Iridium pulls $1 billion 2030 service revenue goal amid SpaceX’s D2D push
 - <a href="https://spaceflightnow.com/2025/10/24/airbus-leonardo-and-thales-agree-to-form-new-european-company/" >🔗</a> **[Spaceflight Now]** Airbus, Leonardo and Thales agree to form new European company
 - <a href="https://spacenews.com/satleo-prepares-to-launch-first-thermal-imaging-payload/" >🔗</a> **[SpaceNews]** SatLeo prepares to launch first thermal-imaging payload
-- <a href="https://spacenews.com/china-expands-classified-geostationary-satellite-series-with-long-march-5-launch/" >🔗</a> **[SpaceNews]** China expands classified geostationary satellite series with Long March 5 launch
-- <a href="https://www.nasaspaceflight.com/2025/10/nasa-leadership-battle-isaacman-vs-duffy/" >🔗</a> **[NASASpaceflight]** NASA leadership battle intensifies as Trump weighs Isaacman vs. Duffy
-- <a href="https://spaceflightnow.com/2025/10/23/live-coverage-spacex-to-expend-falcon-9-booster-to-launch-spainsat-ng-2-communications-satellite/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to expend Falcon 9 booster to launch Spainsat NG 2 communications satellite
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251024T131003">2025-10-24 13:10:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251024T133858">2025-10-24 13:38:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
