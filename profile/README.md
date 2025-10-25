@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/10/jaxas-htv-x1-launch-h3-rocket/" >🔗</a> **[NASASpaceflight]** JAXA’s HTV-X1 set to launch to ISS aboard H3 Rocket
 - <a href="https://spaceflightnow.com/2025/10/25/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-14/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://europeanspaceflight.com/unions-reactions-mixed-to-airbus-thales-and-leonardo-merger/" >🔗</a> **[European Spaceflight]** Unions’ Reactions Mixed to Airbus, Thales, and Leonardo Merger
 - <a href="https://spaceflightnow.com/2025/10/24/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-3/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/a-soft-power-strategy-to-preserve-non-sovereignty-from-chinese-land-claims-on-the-moon/" >🔗</a> **[SpaceNews]** A soft power strategy to preserve non-sovereignty from Chinese land claims on the moon
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Vinci_test_motor_for_Ariane_6_to_be_assembled_at_DLR_test_centre" >🔗</a> **[ESA]** Vinci test motor for Ariane 6 to be assembled at DLR test centre
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Second_Space_Resources_Challenge_from_concept_to_reality_at_LUNA" >🔗</a> **[ESA]** Second Space Resources Challenge: from concept to reality at LUNA
-- <a href="https://spacenews.com/chinese-launch-firms-space-pioneer-and-galactic-energy-move-toward-ipos/" >🔗</a> **[SpaceNews]** Chinese launch firms Space Pioneer and Galactic Energy move toward IPOs
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251025T190110">2025-10-25 19:01:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251025T193100">2025-10-25 19:31:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
