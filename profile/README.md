@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/10/24/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-3/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://www.nasaspaceflight.com/2025/10/pad-1-era-preparations-next-phase/" >🔗</a> **[NASASpaceflight]** Starbase Pad 1 ends an era, enters preparations for the next phase
 - <a href="https://spacenews.com/global-defense-satcom-commercial-service-revenues-positioned-to-skyrocket-past-8-6-billion-by-2034/" >🔗</a> **[SpaceNews]** Global Defense Satcom Commercial Service Revenues Positioned to Skyrocket Past $8.6 Billion by 2034
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_20-24_October_2025" >🔗</a> **[ESA]** Week in images: 20-24 October 2025
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/chinese-launch-firms-space-pioneer-and-galactic-energy-move-toward-ipos/" >🔗</a> **[SpaceNews]** Chinese launch firms Space Pioneer and Galactic Energy move toward IPOs
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/Focusing_on_NGC_3370" >🔗</a> **[ESA]** Focusing on NGC 3370
 - <a href="https://europeanspaceflight.com/airbus-thales-and-leonardo-agree-to-create-european-space-behemoth/" >🔗</a> **[European Spaceflight]** Airbus, Thales, and Leonardo Agree to Create European Space Behemoth
-- <a href="https://spacenews.com/esa-finalizing-ministerial-package/" >🔗</a> **[SpaceNews]** ESA finalizing ministerial package
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251024T233127">2025-10-24 23:31:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251025T000458">2025-10-25 00:04:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
