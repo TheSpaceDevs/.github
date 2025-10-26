@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/10/26/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-california/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from California
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-26-november-1-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy October 26-November 1, 2025
 - <a href="https://spacenews.com/astrobotic-delays-griffin-1-lander-mission-to-mid-2026/" >🔗</a> **[SpaceNews]** Astrobotic delays Griffin-1 lander mission to mid-2026
 - <a href="https://spacenews.com/kymeta-to-supply-flat-panel-satellite-antennas-to-u-s-army/" >🔗</a> **[SpaceNews]** Kymeta to supply flat-panel satellite antennas to U.S. Army
 - <a href="https://spacenews.com/h3-launches-first-htv-x-cargo-spacecraft/" >🔗</a> **[SpaceNews]** H3 launches first HTV-X cargo spacecraft
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/unions-reactions-mixed-to-airbus-thales-and-leonardo-merger/" >🔗</a> **[European Spaceflight]** Unions’ Reactions Mixed to Airbus, Thales, and Leonardo Merger
 - <a href="https://spaceflightnow.com/2025/10/24/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-3/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://www.nasaspaceflight.com/2025/10/pad-1-era-preparations-next-phase/" >🔗</a> **[NASASpaceflight]** Starbase Pad 1 ends an era, enters preparations for the next phase
-- <a href="https://spacenews.com/global-defense-satcom-commercial-service-revenues-positioned-to-skyrocket-past-8-6-billion-by-2034/" >🔗</a> **[SpaceNews]** Global Defense Satcom Commercial Service Revenues Positioned to Skyrocket Past $8.6 Billion by 2034
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_20-24_October_2025" >🔗</a> **[ESA]** Week in images: 20-24 October 2025
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251026T220125">2025-10-26 22:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251026T223331">2025-10-26 22:33:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
