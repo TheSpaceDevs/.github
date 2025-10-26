@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/h3-launches-first-htv-x-cargo-spacecraft/" >🔗</a> **[SpaceNews]** H3 launches first HTV-X cargo spacecraft
 - <a href="https://www.nasaspaceflight.com/2025/10/jaxas-htv-x1-launch-h3-rocket/" >🔗</a> **[NASASpaceflight]** JAXA’s HTV-X1 set to launch to ISS aboard H3 Rocket
 - <a href="https://spaceflightnow.com/2025/10/25/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-14/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://europeanspaceflight.com/unions-reactions-mixed-to-airbus-thales-and-leonardo-merger/" >🔗</a> **[European Spaceflight]** Unions’ Reactions Mixed to Airbus, Thales, and Leonardo Merger
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_20-24_October_2025" >🔗</a> **[ESA]** Week in images: 20-24 October 2025
 - <a href="https://spacenews.com/a-soft-power-strategy-to-preserve-non-sovereignty-from-chinese-land-claims-on-the-moon/" >🔗</a> **[SpaceNews]** A soft power strategy to preserve non-sovereignty from Chinese land claims on the moon
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Vinci_test_motor_for_Ariane_6_to_be_assembled_at_DLR_test_centre" >🔗</a> **[ESA]** Vinci test motor for Ariane 6 to be assembled at DLR test centre
-- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Second_Space_Resources_Challenge_from_concept_to_reality_at_LUNA" >🔗</a> **[ESA]** Second Space Resources Challenge: from concept to reality at LUNA
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251026T004616">2025-10-26 00:46:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251026T012918">2025-10-26 01:29:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
