@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/kymeta-to-supply-flat-panel-satellite-antennas-to-u-s-army/" >🔗</a> **[SpaceNews]** Kymeta to supply flat-panel satellite antennas to U.S. Army
 - <a href="https://spacenews.com/h3-launches-first-htv-x-cargo-spacecraft/" >🔗</a> **[SpaceNews]** H3 launches first HTV-X cargo spacecraft
 - <a href="https://www.nasaspaceflight.com/2025/10/jaxas-htv-x1-launch-h3-rocket/" >🔗</a> **[NASASpaceflight]** JAXA’s HTV-X1 set to launch to ISS aboard H3 Rocket
 - <a href="https://spaceflightnow.com/2025/10/25/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-14/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Cape Canaveral
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/global-defense-satcom-commercial-service-revenues-positioned-to-skyrocket-past-8-6-billion-by-2034/" >🔗</a> **[SpaceNews]** Global Defense Satcom Commercial Service Revenues Positioned to Skyrocket Past $8.6 Billion by 2034
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_20-24_October_2025" >🔗</a> **[ESA]** Week in images: 20-24 October 2025
 - <a href="https://spacenews.com/a-soft-power-strategy-to-preserve-non-sovereignty-from-chinese-land-claims-on-the-moon/" >🔗</a> **[SpaceNews]** A soft power strategy to preserve non-sovereignty from Chinese land claims on the moon
-- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Vinci_test_motor_for_Ariane_6_to_be_assembled_at_DLR_test_centre" >🔗</a> **[ESA]** Vinci test motor for Ariane 6 to be assembled at DLR test centre
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251026T130610">2025-10-26 13:06:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251026T133358">2025-10-26 13:33:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
