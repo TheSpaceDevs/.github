@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-launches-new-gaofen-14-stereo-mapping-satellite/" >🔗</a> **[SpaceNews]** China launches new Gaofen-14 stereo mapping satellite
 - <a href="https://spacenews.com/heos-satellite-to-satellite-imaging-uncovers-secrets-of-chinese-tech-test-spacecraft/" >🔗</a> **[SpaceNews]** HEO’s satellite-to-satellite imaging uncovers secrets of Chinese tech-test spacecraft
 - <a href="https://spacenews.com/from-analyst-to-ai-orchestrator-evolving-roles-in-the-age-of-autonomy/" >🔗</a> **[SpaceNews]** From Analyst to AI Orchestrator: Evolving Roles in the Age of Autonomy
 - <a href="https://spaceflightnow.com/2025/10/26/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-california/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from California
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/h3-launches-first-htv-x-cargo-spacecraft/" >🔗</a> **[SpaceNews]** H3 launches first HTV-X cargo spacecraft
 - <a href="https://www.nasaspaceflight.com/2025/10/jaxas-htv-x1-launch-h3-rocket/" >🔗</a> **[NASASpaceflight]** JAXA’s HTV-X1 set to launch to ISS aboard H3 Rocket
 - <a href="https://spaceflightnow.com/2025/10/25/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-14/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Cape Canaveral
-- <a href="https://europeanspaceflight.com/unions-reactions-mixed-to-airbus-thales-and-leonardo-merger/" >🔗</a> **[European Spaceflight]** Unions’ Reactions Mixed to Airbus, Thales, and Leonardo Merger
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251027T110114">2025-10-27 11:01:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251027T113145">2025-10-27 11:31:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
