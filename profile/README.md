@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/science/2025/10/melissa-set-to-be-the-strongest-hurricane-to-ever-strike-jamaica/" >🔗</a> **[Arstechnica]** Melissa set to be the strongest hurricane to ever strike Jamaica
+- <a href="https://europeanspaceflight.com/arianegroup-to-transfer-responsibility-for-vinci-assembly-to-german-subsidiary/" >🔗</a> **[European Spaceflight]** ArianeGroup to Transfer Responsibility for Vinci Assembly to German Subsidiary
 - <a href="https://spacenews.com/mtn-carves-out-private-networks-for-starlinks-business-users/" >🔗</a> **[SpaceNews]** MTN carves out private networks for Starlink’s business users
 - <a href="https://spacenews.com/space-is-a-warfighting-domain-we-need-wartime-urgency-for-procurement-reform/" >🔗</a> **[SpaceNews]** Space is a warfighting domain. We need wartime urgency for procurement reform.
 - <a href="https://spacenews.com/iridium-unveils-chip-to-bring-gps-protection-to-mass-market-devices/" >🔗</a> **[SpaceNews]** Iridium unveils chip to bring GPS protection to mass-market devices
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/from-analyst-to-ai-orchestrator-evolving-roles-in-the-age-of-autonomy/" >🔗</a> **[SpaceNews]** From Analyst to AI Orchestrator: Evolving Roles in the Age of Autonomy
 - <a href="https://spaceflightnow.com/2025/10/26/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-california/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from California
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-26-november-1-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy October 26-November 1, 2025
-- <a href="https://spacenews.com/astrobotic-delays-griffin-1-lander-mission-to-mid-2026/" >🔗</a> **[SpaceNews]** Astrobotic delays Griffin-1 lander mission to mid-2026
-- <a href="https://spacenews.com/kymeta-to-supply-flat-panel-satellite-antennas-to-u-s-army/" >🔗</a> **[SpaceNews]** Kymeta to supply flat-panel satellite antennas to U.S. Army
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251027T150151">2025-10-27 15:01:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251027T153326">2025-10-27 15:33:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
