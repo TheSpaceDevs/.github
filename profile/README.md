@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/heos-satellite-to-satellite-imaging-uncovers-secrets-of-chinese-tech-test-spacecraft/" >🔗</a> **[SpaceNews]** HEO’s satellite-to-satellite imaging uncovers secrets of Chinese tech-test spacecraft
 - <a href="https://spacenews.com/from-analyst-to-ai-orchestrator-evolving-roles-in-the-age-of-autonomy/" >🔗</a> **[SpaceNews]** From Analyst to AI Orchestrator: Evolving Roles in the Age of Autonomy
 - <a href="https://spaceflightnow.com/2025/10/26/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-california/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from California
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-26-november-1-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy October 26-November 1, 2025
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2025/10/jaxas-htv-x1-launch-h3-rocket/" >🔗</a> **[NASASpaceflight]** JAXA’s HTV-X1 set to launch to ISS aboard H3 Rocket
 - <a href="https://spaceflightnow.com/2025/10/25/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-14/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://europeanspaceflight.com/unions-reactions-mixed-to-airbus-thales-and-leonardo-merger/" >🔗</a> **[European Spaceflight]** Unions’ Reactions Mixed to Airbus, Thales, and Leonardo Merger
-- <a href="https://spaceflightnow.com/2025/10/24/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-3/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251027T050136">2025-10-27 05:01:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251027T053502">2025-10-27 05:35:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
