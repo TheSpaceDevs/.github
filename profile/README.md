@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-is-a-warfighting-domain-we-need-wartime-urgency-for-procurement-reform/" >🔗</a> **[SpaceNews]** Space is a warfighting domain. We need wartime urgency for procurement reform.
 - <a href="https://spacenews.com/iridium-unveils-chip-to-bring-gps-protection-to-mass-market-devices/" >🔗</a> **[SpaceNews]** Iridium unveils chip to bring GPS protection to mass-market devices
 - <a href="https://spacenews.com/china-launches-new-gaofen-14-stereo-mapping-satellite/" >🔗</a> **[SpaceNews]** China launches new Gaofen-14 stereo mapping satellite
 - <a href="https://spacenews.com/heos-satellite-to-satellite-imaging-uncovers-secrets-of-chinese-tech-test-spacecraft/" >🔗</a> **[SpaceNews]** HEO’s satellite-to-satellite imaging uncovers secrets of Chinese tech-test spacecraft
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/astrobotic-delays-griffin-1-lander-mission-to-mid-2026/" >🔗</a> **[SpaceNews]** Astrobotic delays Griffin-1 lander mission to mid-2026
 - <a href="https://spacenews.com/kymeta-to-supply-flat-panel-satellite-antennas-to-u-s-army/" >🔗</a> **[SpaceNews]** Kymeta to supply flat-panel satellite antennas to U.S. Army
 - <a href="https://spacenews.com/h3-launches-first-htv-x-cargo-spacecraft/" >🔗</a> **[SpaceNews]** H3 launches first HTV-X cargo spacecraft
-- <a href="https://www.nasaspaceflight.com/2025/10/jaxas-htv-x1-launch-h3-rocket/" >🔗</a> **[NASASpaceflight]** JAXA’s HTV-X1 set to launch to ISS aboard H3 Rocket
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251027T131015">2025-10-27 13:10:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251027T133938">2025-10-27 13:39:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
