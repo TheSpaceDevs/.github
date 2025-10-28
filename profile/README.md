@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/shutdown-could-soon-slow-preparations-for-artemis-2/" >🔗</a> **[SpaceNews]** Shutdown could soon slow preparations for Artemis 2
 - <a href="https://www.nasaspaceflight.com/2025/10/starbase-pad-1-demolition-upgrades/" >🔗</a> **[NASASpaceflight]** Starbase Pad 1 demolition begins for Next-Gen upgrades
 - <a href="https://spacenews.com/fcc-proposes-licensing-assembly-line-to-accelerate-satellite-approvals/" >🔗</a> **[SpaceNews]** FCC proposes ‘licensing assembly line’ to accelerate satellite approvals
 - <a href="https://spacenews.com/cambrian-works-announces-partnership-with-aptos-orbital-to-integrate-the-gigrouter-and-aptos-terminal/" >🔗</a> **[SpaceNews]** Cambrian Works Announces Partnership with Aptos Orbital to Integrate the GigRouter and Aptos Terminal
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/10/28/astrobotic-delays-griffin-1-moon-mission-to-net-july-2026/" >🔗</a> **[Spaceflight Now]** Astrobotic delays Griffin-1 Moon mission to NET July 2026
 - <a href="https://europeanspaceflight.com/esa-expands-global-presence-with-first-office-in-japan/" >🔗</a> **[European Spaceflight]** ESA Expands Global Presence with First Office in Japan
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/The_Red_Spider_Nebula_caught_by_Webb" >🔗</a> **[ESA]** The Red Spider Nebula, caught by Webb
-- <a href="https://www.esa.int/About_Us/Corporate_news/ESA_establishes_presence_in_Tokyo_to_strengthen_strategic_partnership_with_Japan" >🔗</a> **[ESA]** ESA establishes presence in Tokyo to strengthen strategic partnership with Japan
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251028T230109">2025-10-28 23:01:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251028T233202">2025-10-28 23:32:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
