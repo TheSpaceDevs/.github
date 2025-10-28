@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/slingshot-sells-first-sensors-in-uk-deal-as-more-nations-seek-space-tracking-sovereignty/" >🔗</a> **[SpaceNews]** Slingshot sells first sensors in UK deal as more nations seek space-tracking sovereignty
 - <a href="https://spaceflightnow.com/2025/10/28/astrobotic-delays-griffin-1-moon-mission-to-net-july-2026/" >🔗</a> **[Spaceflight Now]** Astrobotic delays Griffin-1 Moon mission to NET July 2026
 - <a href="https://europeanspaceflight.com/esa-expands-global-presence-with-first-office-in-japan/" >🔗</a> **[European Spaceflight]** ESA Expands Global Presence with First Office in Japan
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/The_Red_Spider_Nebula_caught_by_Webb" >🔗</a> **[ESA]** The Red Spider Nebula, caught by Webb
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Watch_live_Sentinel-1D_launch_on_Ariane_6" >🔗</a> **[ESA]** Watch live: Sentinel-1D launch on Ariane 6
 - <a href="https://spacenews.com/malaysia-and-the-philippines-sign-artemis-accords/" >🔗</a> **[SpaceNews]** Malaysia and the Philippines sign Artemis Accords
 - <a href="https://www.nasaspaceflight.com/2025/10/launch-roundup-102725/" >🔗</a> **[NASASpaceflight]** Launch Roundup: China to launch crew to Tiangong, India to launch new naval satellite
-- <a href="https://spacenews.com/voyager-technologies-acquires-exoterra-resources/" >🔗</a> **[SpaceNews]** Voyager Technologies Acquires ExoTerra Resources
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251028T160142">2025-10-28 16:01:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251028T163859">2025-10-28 16:38:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
