@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Corporate_news/ESA_establishes_presence_in_Tokyo_to_strengthen_strategic_partnership_with_Japan" >🔗</a> **[ESA]** ESA establishes presence in Tokyo to strengthen strategic partnership with Japan
 - <a href="https://spacenews.com/federating-europes-earth-observation-ground-segment-the-domino-e-proof-of-concept/" >🔗</a> **[SpaceNews]** Federating Europe’s Earth Observation Ground Segment: The DOMINO-E Proof of Concept
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/Hurricane_Melissa_barrels_through_the_Caribbean" >🔗</a> **[ESA]** Hurricane Melissa barrels through the Caribbean
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Watch_live_Sentinel-1D_launch_on_Ariane_6" >🔗</a> **[ESA]** Watch live: Sentinel-1D launch on Ariane 6
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/Sentinel-1D_encapsulated_inside_Ariane_6_fairing" >🔗</a> **[ESA]** Sentinel-1D encapsulated inside Ariane 6 fairing
 - <a href="https://arstechnica.com/science/2025/10/melissa-set-to-be-the-strongest-hurricane-to-ever-strike-jamaica/" >🔗</a> **[Arstechnica]** Melissa set to be the strongest hurricane to ever strike Jamaica
 - <a href="https://europeanspaceflight.com/arianegroup-to-transfer-responsibility-for-vinci-assembly-to-german-subsidiary/" >🔗</a> **[European Spaceflight]** ArianeGroup to Transfer Responsibility for Vinci Assembly to German Subsidiary
-- <a href="https://spacenews.com/mtn-carves-out-private-networks-for-starlinks-business-users/" >🔗</a> **[SpaceNews]** MTN carves out private networks for Starlink’s business users
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251028T120203">2025-10-28 12:02:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251028T124315">2025-10-28 12:43:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
