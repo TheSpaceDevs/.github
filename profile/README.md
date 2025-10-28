@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Watch_live_Sentinel-1D_launch_on_Ariane_6" >🔗</a> **[ESA]** Watch live: Sentinel-1D launch on Ariane 6
 - <a href="https://spacenews.com/malaysia-and-the-philippines-sign-artemis-accords/" >🔗</a> **[SpaceNews]** Malaysia and the Philippines sign Artemis Accords
 - <a href="https://www.nasaspaceflight.com/2025/10/launch-roundup-102725/" >🔗</a> **[NASASpaceflight]** Launch Roundup: China to launch crew to Tiangong, India to launch new naval satellite
 - <a href="https://spacenews.com/voyager-technologies-acquires-exoterra-resources/" >🔗</a> **[SpaceNews]** Voyager Technologies Acquires ExoTerra Resources
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/mtn-carves-out-private-networks-for-starlinks-business-users/" >🔗</a> **[SpaceNews]** MTN carves out private networks for Starlink’s business users
 - <a href="https://spacenews.com/space-is-a-warfighting-domain-we-need-wartime-urgency-for-procurement-reform/" >🔗</a> **[SpaceNews]** Space is a warfighting domain. We need wartime urgency for procurement reform.
 - <a href="https://spacenews.com/iridium-unveils-chip-to-bring-gps-protection-to-mass-market-devices/" >🔗</a> **[SpaceNews]** Iridium unveils chip to bring GPS protection to mass-market devices
-- <a href="https://spacenews.com/china-launches-new-gaofen-14-stereo-mapping-satellite/" >🔗</a> **[SpaceNews]** China launches new Gaofen-14 stereo mapping satellite
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251028T090151">2025-10-28 09:01:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251028T093421">2025-10-28 09:34:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
