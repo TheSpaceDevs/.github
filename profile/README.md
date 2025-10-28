@@ -53,8 +53,8 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251104T210300">2025-11-04 21:03:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ariane 62 | Sentinel-1D&location=Guiana Space Centre, French Guiana&dates=20251104T210300Z%2F20251104T210300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ariane 62 | Sentinel-1D** from Guiana Space Centre, French Guiana.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251104T214100">2025-11-04 21:41:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-14&location=Vandenberg SFB, CA, USA&dates=20251104T214100Z%2F20251105T014100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-14** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251105T194500">2025-11-05 19:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | The Nation God Navigates (iQPS Launch 5)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20251105T194500Z%2F20251105T194500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | The Nation God Navigates (iQPS Launch 5)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251105T230800">2025-11-05 23:08:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-81&location=Cape Canaveral SFS, FL, USA&dates=20251105T230800Z%2F20251106T030800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-81** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251106T032400">2025-11-06 03:24:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 551 | ViaSat-3 F2 (ViaSat-3 EMEA)&location=Cape Canaveral SFS, FL, USA&dates=20251106T032400Z%2F20251106T040800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 551 | ViaSat-3 F2 (ViaSat-3 EMEA)** from Cape Canaveral SFS, FL, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251109T000000">2025-11-09 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Glenn | EscaPADE&location=Cape Canaveral SFS, FL, USA&dates=20251109T000000Z%2F20251109T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Glenn | EscaPADE** from Cape Canaveral SFS, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/10/starbase-pad-1-demolition-upgrades/" >🔗</a> **[NASASpaceflight]** Starbase Pad 1 demolition begins for Next-Gen upgrades
 - <a href="https://spacenews.com/fcc-proposes-licensing-assembly-line-to-accelerate-satellite-approvals/" >🔗</a> **[SpaceNews]** FCC proposes ‘licensing assembly line’ to accelerate satellite approvals
 - <a href="https://spacenews.com/cambrian-works-announces-partnership-with-aptos-orbital-to-integrate-the-gigrouter-and-aptos-terminal/" >🔗</a> **[SpaceNews]** Cambrian Works Announces Partnership with Aptos Orbital to Integrate the GigRouter and Aptos Terminal
 - <a href="https://arstechnica.com/science/2025/10/melissa-strikes-jamaica-tied-as-most-powerful-atlantic-storm-to-come-ashore/" >🔗</a> **[Arstechnica]** Melissa strikes Jamaica, tied as most powerful Atlantic storm to come ashore
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/esa-expands-global-presence-with-first-office-in-japan/" >🔗</a> **[European Spaceflight]** ESA Expands Global Presence with First Office in Japan
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/The_Red_Spider_Nebula_caught_by_Webb" >🔗</a> **[ESA]** The Red Spider Nebula, caught by Webb
 - <a href="https://www.esa.int/About_Us/Corporate_news/ESA_establishes_presence_in_Tokyo_to_strengthen_strategic_partnership_with_Japan" >🔗</a> **[ESA]** ESA establishes presence in Tokyo to strengthen strategic partnership with Japan
-- <a href="https://spacenews.com/federating-europes-earth-observation-ground-segment-the-domino-e-proof-of-concept/" >🔗</a> **[SpaceNews]** Federating Europe’s Earth Observation Ground Segment: The DOMINO-E Proof of Concept
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251028T210135">2025-10-28 21:01:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251028T213210">2025-10-28 21:32:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
