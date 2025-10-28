@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/malaysia-and-the-philippines-sign-artemis-accords/" >🔗</a> **[SpaceNews]** Malaysia and the Philippines sign Artemis Accords
 - <a href="https://www.nasaspaceflight.com/2025/10/launch-roundup-102725/" >🔗</a> **[NASASpaceflight]** Launch Roundup: China to launch crew to Tiangong, India to launch new naval satellite
 - <a href="https://spacenews.com/voyager-technologies-acquires-exoterra-resources/" >🔗</a> **[SpaceNews]** Voyager Technologies Acquires ExoTerra Resources
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/Sentinel-1D_encapsulated_inside_Ariane_6_fairing" >🔗</a> **[ESA]** Sentinel-1D encapsulated inside Ariane 6 fairing
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/space-is-a-warfighting-domain-we-need-wartime-urgency-for-procurement-reform/" >🔗</a> **[SpaceNews]** Space is a warfighting domain. We need wartime urgency for procurement reform.
 - <a href="https://spacenews.com/iridium-unveils-chip-to-bring-gps-protection-to-mass-market-devices/" >🔗</a> **[SpaceNews]** Iridium unveils chip to bring GPS protection to mass-market devices
 - <a href="https://spacenews.com/china-launches-new-gaofen-14-stereo-mapping-satellite/" >🔗</a> **[SpaceNews]** China launches new Gaofen-14 stereo mapping satellite
-- <a href="https://spacenews.com/heos-satellite-to-satellite-imaging-uncovers-secrets-of-chinese-tech-test-spacecraft/" >🔗</a> **[SpaceNews]** HEO’s satellite-to-satellite imaging uncovers secrets of Chinese tech-test spacecraft
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251028T050136">2025-10-28 05:01:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251028T053502">2025-10-28 05:35:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
