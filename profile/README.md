@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/cambrian-works-announces-partnership-with-aptos-orbital-to-integrate-the-gigrouter-and-aptos-terminal/" >🔗</a> **[SpaceNews]** Cambrian Works Announces Partnership with Aptos Orbital to Integrate the GigRouter and Aptos Terminal
 - <a href="https://arstechnica.com/science/2025/10/melissa-strikes-jamaica-tied-as-most-powerful-atlantic-storm-to-come-ashore/" >🔗</a> **[Arstechnica]** Melissa strikes Jamaica, tied as most powerful Atlantic storm to come ashore
 - <a href="https://spacenews.com/slingshot-sells-first-sensors-in-uk-deal-as-more-nations-seek-space-tracking-sovereignty/" >🔗</a> **[SpaceNews]** Slingshot sells first sensors in UK deal as more nations seek space-tracking sovereignty
 - <a href="https://www.esa.int/About_Us/Corporate_news/Europe_turns_to_space_to_boost_resilience" >🔗</a> **[ESA]** Europe turns to space to boost resilience
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/About_Us/Corporate_news/ESA_establishes_presence_in_Tokyo_to_strengthen_strategic_partnership_with_Japan" >🔗</a> **[ESA]** ESA establishes presence in Tokyo to strengthen strategic partnership with Japan
 - <a href="https://spacenews.com/federating-europes-earth-observation-ground-segment-the-domino-e-proof-of-concept/" >🔗</a> **[SpaceNews]** Federating Europe’s Earth Observation Ground Segment: The DOMINO-E Proof of Concept
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/Hurricane_Melissa_barrels_through_the_Caribbean" >🔗</a> **[ESA]** Hurricane Melissa barrels through the Caribbean
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Watch_live_Sentinel-1D_launch_on_Ariane_6" >🔗</a> **[ESA]** Watch live: Sentinel-1D launch on Ariane 6
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251028T190126">2025-10-28 19:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251028T193102">2025-10-28 19:31:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
