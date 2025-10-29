@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/esa-proposes-e1b-budget-to-align-european-space-capabilities-for-defence/" >🔗</a> **[European Spaceflight]** ESA Proposes €1B Budget to Align European Space Capabilities for Defence
 - <a href="https://spacenews.com/rising-demand-and-falling-costs-clear-path-for-satellite-servicing/" >🔗</a> **[SpaceNews]** Rising demand and falling costs clear path for satellite servicing
 - <a href="https://spacenews.com/trump-nominee-closer-space-force-nro-integration-worth-considering/" >🔗</a> **[SpaceNews]** Trump nominee: Closer Space Force-NRO integration ‘worth considering’
 - <a href="https://spaceflightnow.com/2025/10/28/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/fcc-proposes-licensing-assembly-line-to-accelerate-satellite-approvals/" >🔗</a> **[SpaceNews]** FCC proposes ‘licensing assembly line’ to accelerate satellite approvals
 - <a href="https://spacenews.com/cambrian-works-announces-partnership-with-aptos-orbital-to-integrate-the-gigrouter-and-aptos-terminal/" >🔗</a> **[SpaceNews]** Cambrian Works Announces Partnership with Aptos Orbital to Integrate the GigRouter and Aptos Terminal
 - <a href="https://arstechnica.com/science/2025/10/melissa-strikes-jamaica-tied-as-most-powerful-atlantic-storm-to-come-ashore/" >🔗</a> **[Arstechnica]** Melissa strikes Jamaica, tied as most powerful Atlantic storm to come ashore
-- <a href="https://spacenews.com/slingshot-sells-first-sensors-in-uk-deal-as-more-nations-seek-space-tracking-sovereignty/" >🔗</a> **[SpaceNews]** Slingshot sells first sensors in UK deal as more nations seek space-tracking sovereignty
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251029T060201">2025-10-29 06:02:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251029T064116">2025-10-29 06:41:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
