@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/rising-demand-and-falling-costs-clear-path-for-satellite-servicing/" >🔗</a> **[SpaceNews]** Rising demand and falling costs clear path for satellite servicing
 - <a href="https://spacenews.com/trump-nominee-closer-space-force-nro-integration-worth-considering/" >🔗</a> **[SpaceNews]** Trump nominee: Closer Space Force-NRO integration ‘worth considering’
 - <a href="https://spaceflightnow.com/2025/10/28/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spaceflightnow.com/2025/10/28/blue-origin-details-lunar-exploration-progress-amid-artemis-3-contract-shakeup/" >🔗</a> **[Spaceflight Now]** Blue Origin details lunar exploration progress amid Artemis 3 contract shakeup
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/cambrian-works-announces-partnership-with-aptos-orbital-to-integrate-the-gigrouter-and-aptos-terminal/" >🔗</a> **[SpaceNews]** Cambrian Works Announces Partnership with Aptos Orbital to Integrate the GigRouter and Aptos Terminal
 - <a href="https://arstechnica.com/science/2025/10/melissa-strikes-jamaica-tied-as-most-powerful-atlantic-storm-to-come-ashore/" >🔗</a> **[Arstechnica]** Melissa strikes Jamaica, tied as most powerful Atlantic storm to come ashore
 - <a href="https://spacenews.com/slingshot-sells-first-sensors-in-uk-deal-as-more-nations-seek-space-tracking-sovereignty/" >🔗</a> **[SpaceNews]** Slingshot sells first sensors in UK deal as more nations seek space-tracking sovereignty
-- <a href="https://www.esa.int/About_Us/Corporate_news/Europe_turns_to_space_to_boost_resilience" >🔗</a> **[ESA]** Europe turns to space to boost resilience
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251029T050147">2025-10-29 05:01:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251029T053453">2025-10-29 05:34:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
