@@ -89,6 +89,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/lets-not-allow-the-golden-age-of-space-exploration-to-turn-into-fools-gold/" >🔗</a> **[SpaceNews]** Let’s not allow the ‘Golden Age’ of space exploration to turn into fool’s gold
 - <a href="https://spacenews.com/esa-outlines-plans-for-space-security-program/" >🔗</a> **[SpaceNews]** ESA outlines plans for space security program
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/ESA_s_first_stand-alone_deep-space_CubeSat_Henon_takes_shape" >🔗</a> **[ESA]** ESA’s first stand-alone deep-space CubeSat Henon takes shape
 - <a href="https://europeanspaceflight.com/esa-proposes-e1b-budget-to-align-european-space-capabilities-for-defence/" >🔗</a> **[European Spaceflight]** ESA Proposes €1B Budget to Align European Space Capabilities for Defence
@@ -98,7 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/10/28/blue-origin-details-lunar-exploration-progress-amid-artemis-3-contract-shakeup/" >🔗</a> **[Spaceflight Now]** Blue Origin details lunar exploration progress amid Artemis 3 contract shakeup
 - <a href="https://spacenews.com/shutdown-could-soon-slow-preparations-for-artemis-2/" >🔗</a> **[SpaceNews]** Shutdown could soon slow preparations for Artemis 2
 - <a href="https://www.nasaspaceflight.com/2025/10/starbase-pad-1-demolition-upgrades/" >🔗</a> **[NASASpaceflight]** Starbase Pad 1 demolition begins for Next-Gen upgrades
-- <a href="https://spacenews.com/fcc-proposes-licensing-assembly-line-to-accelerate-satellite-approvals/" >🔗</a> **[SpaceNews]** FCC proposes ‘licensing assembly line’ to accelerate satellite approvals
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251029T131049">2025-10-29 13:10:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251029T134010">2025-10-29 13:40:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
