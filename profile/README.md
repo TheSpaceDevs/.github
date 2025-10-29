@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-sectors-cybersecurity-dilemma-pay-now-or-pay-later/" >🔗</a> **[SpaceNews]** Space sector’s cybersecurity dilemma: Pay now or pay later
+- <a href="https://spacenews.com/investors-gravitate-toward-space-firms-with-defense-applications/" >🔗</a> **[SpaceNews]** Investors gravitate toward space firms with defense applications
 - <a href="https://spacenews.com/live-event-the-role-of-space-based-interceptors-in-golden-dome/" >🔗</a> **[SpaceNews]** Live Event: The Role of Space-Based Interceptors in Golden Dome
 - <a href="https://spacenews.com/saudi-arabias-stc-group-commits-175-million-prepayment-in-ast-spacemobile-deal/" >🔗</a> **[SpaceNews]** Saudi Arabia’s stc Group commits $175 million prepayment in AST SpaceMobile deal
 - <a href="https://europeanspaceflight.com/avio-reveals-more-hardware-for-its-fd1-rocket-demonstrator/" >🔗</a> **[European Spaceflight]** Avio Reveals More Hardware for its FD1 Rocket Demonstrator
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/esa-outlines-plans-for-space-security-program/" >🔗</a> **[SpaceNews]** ESA outlines plans for space security program
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/ESA_s_first_stand-alone_deep-space_CubeSat_Henon_takes_shape" >🔗</a> **[ESA]** ESA’s first stand-alone deep-space CubeSat Henon takes shape
 - <a href="https://europeanspaceflight.com/esa-proposes-e1b-budget-to-align-european-space-capabilities-for-defence/" >🔗</a> **[European Spaceflight]** ESA Proposes €1B Budget to Align European Space Capabilities for Defence
-- <a href="https://spacenews.com/rising-demand-and-falling-costs-clear-path-for-satellite-servicing/" >🔗</a> **[SpaceNews]** Rising demand and falling costs clear path for satellite servicing
-- <a href="https://spacenews.com/trump-nominee-closer-space-force-nro-integration-worth-considering/" >🔗</a> **[SpaceNews]** Trump nominee: Closer Space Force-NRO integration ‘worth considering’
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251029T220128">2025-10-29 22:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251029T223419">2025-10-29 22:34:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
