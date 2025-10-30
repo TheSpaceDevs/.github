@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/pdc-unveils-osiris-computer-module-featuring-microchips-pic64-hpsc-for-next-gen-space-missions/" >🔗</a> **[SpaceNews]** PDC Unveils Osiris Computer Module Featuring Microchip’s PIC64-HPSC for Next-Gen Space Missions
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/ESA_Space_Safety_Fleet" >🔗</a> **[ESA]** ESA Space Safety Fleet
 - <a href="https://spacenews.com/quantums-promise-for-near-and-long-term-space-applications/" >🔗</a> **[SpaceNews]** Quantum’s promise for near and long-term space applications
 - <a href="https://www.nasaspaceflight.com/2025/10/iss-artemis-eva-suits/" >🔗</a> **[NASASpaceflight]** Artemis spacesuits tested as existing ISS suits are showing their age
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/saudi-arabias-stc-group-commits-175-million-prepayment-in-ast-spacemobile-deal/" >🔗</a> **[SpaceNews]** Saudi Arabia’s stc Group commits $175 million prepayment in AST SpaceMobile deal
 - <a href="https://europeanspaceflight.com/avio-reveals-more-hardware-for-its-fd1-rocket-demonstrator/" >🔗</a> **[European Spaceflight]** Avio Reveals More Hardware for its FD1 Rocket Demonstrator
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/AI_challenge_advances_satellite-based_disaster_mapping" >🔗</a> **[ESA]** AI challenge advances satellite-based disaster mapping
-- <a href="https://spacenews.com/lets-not-allow-the-golden-age-of-space-exploration-to-turn-into-fools-gold/" >🔗</a> **[SpaceNews]** Let’s not allow the ‘Golden Age’ of space exploration to turn into fool’s gold
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251030T110111">2025-10-30 11:01:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251030T113111">2025-10-30 11:31:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
