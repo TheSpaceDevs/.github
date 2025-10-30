@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/interest-rate-cut-further-fuels-space-investor-optimism-amid-talk-of-returning-spacs/" >🔗</a> **[SpaceNews]** Interest rate cut further fuels space investor optimism amid talk of returning SPACs
+- <a href="https://spacenews.com/endurosat-raises-104-million-to-scale-production-of-larger-small-satellites/" >🔗</a> **[SpaceNews]** EnduroSat raises $104 million to scale production of larger small satellites
+- <a href="https://spacenews.com/golden-dome-hype-meets-information-vacuum-as-industry-awaits-pentagon-direction/" >🔗</a> **[SpaceNews]** Golden Dome hype meets information vacuum as industry awaits Pentagon direction
 - <a href="https://www.nasaspaceflight.com/2025/10/spacex-roberts-road-olm-preps/" >🔗</a> **[NASASpaceflight]** SpaceX ramps up Starship preparations at Florida’s Roberts Road
 - <a href="https://spacenews.com/pentagon-turns-to-government-owned-commercially-operated-satellites-amid-conflict-risks/" >🔗</a> **[SpaceNews]** Pentagon turns to ‘government-owned, commercially-operated’ satellites amid conflict risks
 - <a href="https://europeanspaceflight.com/the-exploration-company-opens-new-hq-in-oberpfaffenhofen/" >🔗</a> **[European Spaceflight]** The Exploration Company Opens New HQ in Oberpfaffenhofen
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/inside-the-new-age-of-space-domain-awareness/" >🔗</a> **[SpaceNews]** Inside the new age of space domain awareness
 - <a href="https://spacenews.com/momentus-vigoride-7-to-fly-dphi-space-hosted-payload-platform/" >🔗</a> **[SpaceNews]** Momentus Vigoride-7 to fly DPhi Space hosted payload platform
 - <a href="https://spacenews.com/confronting-chinas-pervasive-maritime-gray-zone-campaign/" >🔗</a> **[SpaceNews]** Confronting China’s pervasive maritime gray zone campaign
-- <a href="https://spaceflightnow.com/2025/10/30/former-nasa-administrators-urge-space-agency-to-rethink-plans-for-artemis-moon-lander/" >🔗</a> **[Spaceflight Now]** Former NASA Administrators urge space agency to rethink plans for Artemis Moon lander
-- <a href="https://spacenews.com/china-targets-2026-for-first-long-march-10-launch-new-lunar-crew-spacecraft-flight/" >🔗</a> **[SpaceNews]** China targets 2026 for first Long March 10 launch, new lunar crew spacecraft flight
-- <a href="https://spacenews.com/former-nasa-administrators-call-for-changes-in-artemis-lunar-lander-architecture/" >🔗</a> **[SpaceNews]** Former NASA administrators call for changes in Artemis lunar lander architecture
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251030T210140">2025-10-30 21:01:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251030T213147">2025-10-30 21:31:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
