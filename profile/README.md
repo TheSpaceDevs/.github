@@ -19,34 +19,34 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 11-23**. It is scheduled to be launched by *SpaceX*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251030T200600">2025-10-30 20:06:00 UTC</a>.  Until
-then, this pad will have been used for 227
-out of 841 launches from this location. The launch status is currently
+**Long March 2F/G | Shenzhou 21**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Jiuquan_Launch_Area_4">Launch Area 4 (SLS-1 / 921)</a>, Jiuquan Satellite Launch Center, People's Republic of China*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251031T153400">2025-10-31 15:34:00 UTC</a>.  Until
+then, this pad will have been used for 25
+out of 261 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Communications* and the payload will be injected
+*Human Exploration* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  A batch of 28 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  Tenth crewed flight to the Chinese space station.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+  <a href="https://en.wikipedia.org/wiki/Long_March_2F/G" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=34.632,-120.611" >
+  <a href="https://www.google.com/maps?q=40.957893,100.290944" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251030T200600">2025-10-30 20:06:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-23&location=Vandenberg SFB, CA, USA&dates=20251030T200600Z%2F20251031T000600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-23** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251031T153400">2025-10-31 15:34:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2F/G | Shenzhou 21&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20251031T153400Z%2F20251031T161400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2F/G | Shenzhou 21** from Jiuquan Satellite Launch Center, People's Republic of China.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251031T194400">2025-10-31 19:44:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-23&location=Vandenberg SFB, CA, USA&dates=20251031T194400Z%2F20251031T234400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-23** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251102T050000">2025-11-02 05:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Bandwagon 4 (Dedicated Mid-Inclination Rideshare)&location=Cape Canaveral SFS, FL, USA&dates=20251102T050000Z%2F20251102T060300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Bandwagon 4 (Dedicated Mid-Inclination Rideshare)** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251102T115600">2025-11-02 11:56:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=LVM-3 | CMS-03 (GSAT-7R)&location=Satish Dhawan Space Centre, India&dates=20251102T115600Z%2F20251102T115600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **LVM-3 | CMS-03 (GSAT-7R)** from Satish Dhawan Space Centre, India.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251103T033900">2025-11-03 03:39:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 7A | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20251103T033900Z%2F20251103T040200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 7A | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/the-exploration-company-opens-new-hq-in-oberpfaffenhofen/" >🔗</a> **[European Spaceflight]** The Exploration Company Opens New HQ in Oberpfaffenhofen
 - <a href="https://arstechnica.com/space/2025/10/an-in-space-construction-firm-says-it-can-help-build-massive-data-centers-in-orbit/" >🔗</a> **[Arstechnica]** An in-space construction firm says it can help build massive data centers in orbit
 - <a href="https://spacenews.com/inside-the-new-age-of-space-domain-awareness/" >🔗</a> **[SpaceNews]** Inside the new age of space domain awareness
-- <a href="https://spacenews.com/confronting-chinas-pervasive-maritime-gray-zone-campaign/" >🔗</a> **[SpaceNews]** Confronting China’s pervasive maritime gray zone campaign
 - <a href="https://spacenews.com/momentus-vigoride-7-to-fly-dphi-space-hosted-payload-platform/" >🔗</a> **[SpaceNews]** Momentus Vigoride-7 to fly DPhi Space hosted payload platform
+- <a href="https://spacenews.com/confronting-chinas-pervasive-maritime-gray-zone-campaign/" >🔗</a> **[SpaceNews]** Confronting China’s pervasive maritime gray zone campaign
 - <a href="https://spaceflightnow.com/2025/10/30/former-nasa-administrators-urge-space-agency-to-rethink-plans-for-artemis-moon-lander/" >🔗</a> **[Spaceflight Now]** Former NASA Administrators urge space agency to rethink plans for Artemis Moon lander
 - <a href="https://spacenews.com/china-targets-2026-for-first-long-march-10-launch-new-lunar-crew-spacecraft-flight/" >🔗</a> **[SpaceNews]** China targets 2026 for first Long March 10 launch, new lunar crew spacecraft flight
 - <a href="https://spacenews.com/former-nasa-administrators-call-for-changes-in-artemis-lunar-lander-architecture/" >🔗</a> **[SpaceNews]** Former NASA administrators call for changes in Artemis lunar lander architecture
 - <a href="https://spacenews.com/pdc-unveils-osiris-computer-module-featuring-microchips-pic64-hpsc-for-next-gen-space-missions/" >🔗</a> **[SpaceNews]** PDC Unveils Osiris Computer Module Featuring Microchip’s PIC64-HPSC for Next-Gen Space Missions
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/10/Sentinel-1D_pre-launch_media_briefing" >🔗</a> **[ESA]** Sentinel-1D pre-launch media briefing
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/ESA_Space_Safety_Fleet" >🔗</a> **[ESA]** ESA Space Safety Fleet
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251030T150115">2025-10-30 15:01:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251030T153527">2025-10-30 15:35:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
