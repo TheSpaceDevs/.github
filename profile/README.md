@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/chinas-stardetect-raises-series-a-funding-to-expand-on-orbit-computing-and-space-domain-awareness-services/" >🔗</a> **[SpaceNews]** China’s StarDetect raises Series A funding to expand on-orbit computing and space domain awareness services
 - <a href="https://spacenews.com/interest-rate-cut-further-fuels-space-investor-optimism-amid-talk-of-returning-spacs/" >🔗</a> **[SpaceNews]** Interest rate cut further fuels space investor optimism amid talk of returning SPACs
 - <a href="https://spacenews.com/endurosat-raises-104-million-to-scale-production-of-larger-small-satellites/" >🔗</a> **[SpaceNews]** EnduroSat raises $104 million to scale production of larger small satellites
 - <a href="https://spacenews.com/golden-dome-hype-meets-information-vacuum-as-industry-awaits-pentagon-direction/" >🔗</a> **[SpaceNews]** Golden Dome hype meets information vacuum as industry awaits Pentagon direction
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2025/10/an-in-space-construction-firm-says-it-can-help-build-massive-data-centers-in-orbit/" >🔗</a> **[Arstechnica]** An in-space construction firm says it can help build massive data centers in orbit
 - <a href="https://spacenews.com/inside-the-new-age-of-space-domain-awareness/" >🔗</a> **[SpaceNews]** Inside the new age of space domain awareness
 - <a href="https://spacenews.com/momentus-vigoride-7-to-fly-dphi-space-hosted-payload-platform/" >🔗</a> **[SpaceNews]** Momentus Vigoride-7 to fly DPhi Space hosted payload platform
-- <a href="https://spacenews.com/confronting-chinas-pervasive-maritime-gray-zone-campaign/" >🔗</a> **[SpaceNews]** Confronting China’s pervasive maritime gray zone campaign
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251030T220144">2025-10-30 22:01:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251030T223344">2025-10-30 22:33:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
