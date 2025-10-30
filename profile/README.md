@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/10/30/former-nasa-administrators-urge-space-agency-to-rethink-plans-for-artemis-moon-lander/" >🔗</a> **[Spaceflight Now]** Former NASA Administrators urge space agency to rethink plans for Artemis Moon lander
+- <a href="https://spacenews.com/china-targets-2026-for-first-long-march-10-launch-new-lunar-crew-spacecraft-flight/" >🔗</a> **[SpaceNews]** China targets 2026 for first Long March 10 launch, new lunar crew spacecraft flight
+- <a href="https://spacenews.com/former-nasa-administrators-call-for-changes-in-artemis-lunar-lander-architecture/" >🔗</a> **[SpaceNews]** Former NASA administrators call for changes in Artemis lunar lander architecture
 - <a href="https://spacenews.com/pdc-unveils-osiris-computer-module-featuring-microchips-pic64-hpsc-for-next-gen-space-missions/" >🔗</a> **[SpaceNews]** PDC Unveils Osiris Computer Module Featuring Microchip’s PIC64-HPSC for Next-Gen Space Missions
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/10/Sentinel-1D_pre-launch_media_briefing" >🔗</a> **[ESA]** Sentinel-1D pre-launch media briefing
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/ESA_Space_Safety_Fleet" >🔗</a> **[ESA]** ESA Space Safety Fleet
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2025/10/iss-artemis-eva-suits/" >🔗</a> **[NASASpaceflight]** Artemis spacesuits tested as existing ISS suits are showing their age
 - <a href="https://spacenews.com/space-sectors-cybersecurity-dilemma-pay-now-or-pay-later/" >🔗</a> **[SpaceNews]** Space sector’s cybersecurity dilemma: Pay now or pay later
 - <a href="https://spacenews.com/investors-gravitate-toward-space-firms-with-defense-applications/" >🔗</a> **[SpaceNews]** Investors gravitate toward space firms with defense applications
-- <a href="https://spacenews.com/live-event-the-role-of-space-based-interceptors-in-golden-dome/" >🔗</a> **[SpaceNews]** Live Event: The Role of Space-Based Interceptors in Golden Dome
-- <a href="https://spacenews.com/saudi-arabias-stc-group-commits-175-million-prepayment-in-ast-spacemobile-deal/" >🔗</a> **[SpaceNews]** Saudi Arabia’s stc Group commits $175 million prepayment in AST SpaceMobile deal
-- <a href="https://europeanspaceflight.com/avio-reveals-more-hardware-for-its-fd1-rocket-demonstrator/" >🔗</a> **[European Spaceflight]** Avio Reveals More Hardware for its FD1 Rocket Demonstrator
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251030T120212">2025-10-30 12:02:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251030T124322">2025-10-30 12:43:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
