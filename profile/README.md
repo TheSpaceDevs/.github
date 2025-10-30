@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/confronting-chinas-pervasive-maritime-gray-zone-campaign/" >🔗</a> **[SpaceNews]** Confronting China’s pervasive maritime gray zone campaign
+- <a href="https://spacenews.com/momentus-vigoride-7-to-fly-dphi-space-hosted-payload-platform/" >🔗</a> **[SpaceNews]** Momentus Vigoride-7 to fly DPhi Space hosted payload platform
 - <a href="https://spaceflightnow.com/2025/10/30/former-nasa-administrators-urge-space-agency-to-rethink-plans-for-artemis-moon-lander/" >🔗</a> **[Spaceflight Now]** Former NASA Administrators urge space agency to rethink plans for Artemis Moon lander
 - <a href="https://spacenews.com/china-targets-2026-for-first-long-march-10-launch-new-lunar-crew-spacecraft-flight/" >🔗</a> **[SpaceNews]** China targets 2026 for first Long March 10 launch, new lunar crew spacecraft flight
 - <a href="https://spacenews.com/former-nasa-administrators-call-for-changes-in-artemis-lunar-lander-architecture/" >🔗</a> **[SpaceNews]** Former NASA administrators call for changes in Artemis lunar lander architecture
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/ESA_Space_Safety_Fleet" >🔗</a> **[ESA]** ESA Space Safety Fleet
 - <a href="https://spacenews.com/quantums-promise-for-near-and-long-term-space-applications/" >🔗</a> **[SpaceNews]** Quantum’s promise for near and long-term space applications
 - <a href="https://www.nasaspaceflight.com/2025/10/iss-artemis-eva-suits/" >🔗</a> **[NASASpaceflight]** Artemis spacesuits tested as existing ISS suits are showing their age
-- <a href="https://spacenews.com/space-sectors-cybersecurity-dilemma-pay-now-or-pay-later/" >🔗</a> **[SpaceNews]** Space sector’s cybersecurity dilemma: Pay now or pay later
-- <a href="https://spacenews.com/investors-gravitate-toward-space-firms-with-defense-applications/" >🔗</a> **[SpaceNews]** Investors gravitate toward space firms with defense applications
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251030T131008">2025-10-30 13:10:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251030T133857">2025-10-30 13:38:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
