@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/10/spacex-roberts-road-olm-preps/" >🔗</a> **[NASASpaceflight]** SpaceX ramps up Starship preparations at Florida’s Roberts Road
 - <a href="https://spacenews.com/pentagon-turns-to-government-owned-commercially-operated-satellites-amid-conflict-risks/" >🔗</a> **[SpaceNews]** Pentagon turns to ‘government-owned, commercially-operated’ satellites amid conflict risks
 - <a href="https://europeanspaceflight.com/the-exploration-company-opens-new-hq-in-oberpfaffenhofen/" >🔗</a> **[European Spaceflight]** The Exploration Company Opens New HQ in Oberpfaffenhofen
 - <a href="https://arstechnica.com/space/2025/10/an-in-space-construction-firm-says-it-can-help-build-massive-data-centers-in-orbit/" >🔗</a> **[Arstechnica]** An in-space construction firm says it can help build massive data centers in orbit
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/10/30/former-nasa-administrators-urge-space-agency-to-rethink-plans-for-artemis-moon-lander/" >🔗</a> **[Spaceflight Now]** Former NASA Administrators urge space agency to rethink plans for Artemis Moon lander
 - <a href="https://spacenews.com/china-targets-2026-for-first-long-march-10-launch-new-lunar-crew-spacecraft-flight/" >🔗</a> **[SpaceNews]** China targets 2026 for first Long March 10 launch, new lunar crew spacecraft flight
 - <a href="https://spacenews.com/former-nasa-administrators-call-for-changes-in-artemis-lunar-lander-architecture/" >🔗</a> **[SpaceNews]** Former NASA administrators call for changes in Artemis lunar lander architecture
-- <a href="https://spacenews.com/pdc-unveils-osiris-computer-module-featuring-microchips-pic64-hpsc-for-next-gen-space-missions/" >🔗</a> **[SpaceNews]** PDC Unveils Osiris Computer Module Featuring Microchip’s PIC64-HPSC for Next-Gen Space Missions
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251030T180144">2025-10-30 18:01:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251030T184005">2025-10-30 18:40:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
