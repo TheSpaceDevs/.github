@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/quantums-promise-for-near-and-long-term-space-applications/" >🔗</a> **[SpaceNews]** Quantum’s promise for near and long-term space applications
 - <a href="https://www.nasaspaceflight.com/2025/10/iss-artemis-eva-suits/" >🔗</a> **[NASASpaceflight]** Artemis spacesuits tested as existing ISS suits are showing their age
 - <a href="https://spacenews.com/space-sectors-cybersecurity-dilemma-pay-now-or-pay-later/" >🔗</a> **[SpaceNews]** Space sector’s cybersecurity dilemma: Pay now or pay later
 - <a href="https://spacenews.com/investors-gravitate-toward-space-firms-with-defense-applications/" >🔗</a> **[SpaceNews]** Investors gravitate toward space firms with defense applications
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/AI_challenge_advances_satellite-based_disaster_mapping" >🔗</a> **[ESA]** AI challenge advances satellite-based disaster mapping
 - <a href="https://spacenews.com/lets-not-allow-the-golden-age-of-space-exploration-to-turn-into-fools-gold/" >🔗</a> **[SpaceNews]** Let’s not allow the ‘Golden Age’ of space exploration to turn into fool’s gold
 - <a href="https://spacenews.com/esa-outlines-plans-for-space-security-program/" >🔗</a> **[SpaceNews]** ESA outlines plans for space security program
-- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/ESA_s_first_stand-alone_deep-space_CubeSat_Henon_takes_shape" >🔗</a> **[ESA]** ESA’s first stand-alone deep-space CubeSat Henon takes shape
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251030T050139">2025-10-30 05:01:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251030T053414">2025-10-30 05:34:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
