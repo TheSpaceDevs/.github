@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/10/shenzhou-21/" >🔗</a> **[NASASpaceflight]** China prepares to launch crewed Shenzhou-21 mission
+- <a href="https://arstechnica.com/space/2025/10/rocket-report-chinas-moon-rocket-to-debut-soon-arcaspace-is-back-sort-of/" >🔗</a> **[Arstechnica]** Rocket Report: China’s Moon rocket to debut soon; ArcaSpace is back—sort of
 - <a href="https://spacenews.com/european-commission-weighs-inviting-ukraine-to-europes-govsatcom-platform/" >🔗</a> **[SpaceNews]** European Commission weighs inviting Ukraine to Europe’s GOVSATCOM platform
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/Earth_from_Space_Ghostly_lake" >🔗</a> **[ESA]** Earth from Space: Ghostly lake
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/Flickering_flame_spooky_spirits_or_serious_science" >🔗</a> **[ESA]** Flickering flame: spooky spirits or serious science?
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/10/31/blue-origin-completes-new-glenn-static-fire-test-preparing-for-nasas-escapade-mission-launch/" >🔗</a> **[Spaceflight Now]** Blue Origin completes New Glenn static fire test, preparing for NASA’s EscaPADE mission launch
 - <a href="https://spacenews.com/spacex-defends-starship-lunar-lander-as-it-works-on-simplified-approach/" >🔗</a> **[SpaceNews]** SpaceX defends Starship lunar lander as it works on ‘simplified’ approach
 - <a href="https://spacenews.com/chinas-stardetect-raises-series-a-funding-to-expand-on-orbit-computing-and-space-domain-awareness-services/" >🔗</a> **[SpaceNews]** China’s StarDetect raises Series A funding to expand on-orbit computing and space domain awareness services
-- <a href="https://spacenews.com/interest-rate-cut-further-fuels-space-investor-optimism-amid-talk-of-returning-spacs/" >🔗</a> **[SpaceNews]** Interest rate cut further fuels space investor optimism amid talk of returning SPACs
-- <a href="https://spacenews.com/endurosat-raises-104-million-to-scale-production-of-larger-small-satellites/" >🔗</a> **[SpaceNews]** EnduroSat raises $104 million to scale production of larger small satellites
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251031T110114">2025-10-31 11:01:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251031T113104">2025-10-31 11:31:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
