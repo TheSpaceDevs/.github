@@ -89,6 +89,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/kyivstar-prepares-to-expand-starlink-direct-to-cell-testing-across-ukraine/" >🔗</a> **[SpaceNews]** Kyivstar prepares to expand Starlink Direct to Cell testing across Ukraine
 - <a href="https://spacenews.com/for-clues-to-the-future-of-military-space-look-in-the-air/" >🔗</a> **[SpaceNews]** For clues to the future of military space, look in the air
 - <a href="https://arstechnica.com/space/2025/10/elon-musk-on-data-centers-in-orbit-spacex-will-be-doing-this/" >🔗</a> **[Arstechnica]** Elon Musk on data centers in orbit: “SpaceX will be doing this”
 - <a href="https://spaceflightnow.com/2025/10/31/live-coverage-spacex-to-launch-100th-starlink-flight-of-2025/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 100th Starlink flight of 2025
@@ -98,7 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/blue-origin-test-fires-new-glenn-ahead-of-second-launch/" >🔗</a> **[SpaceNews]** Blue Origin test-fires New Glenn ahead of second launch
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/10/Seas_of_the_Sun_The_story_of_Cluster" >🔗</a> **[ESA]** Seas of the Sun: The story of Cluster
 - <a href="https://www.nasaspaceflight.com/2025/10/shenzhou-21/" >🔗</a> **[NASASpaceflight]** China prepares to launch crewed Shenzhou-21 mission
-- <a href="https://arstechnica.com/space/2025/10/rocket-report-chinas-moon-rocket-to-debut-soon-arcaspace-is-back-sort-of/" >🔗</a> **[Arstechnica]** Rocket Report: China’s Moon rocket to debut soon; ArcaSpace is back—sort of
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251031T200136">2025-10-31 20:01:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251031T203357">2025-10-31 20:33:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
