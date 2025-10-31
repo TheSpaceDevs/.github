@@ -19,27 +19,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Long March 2F/G | Shenzhou 21**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Jiuquan_Launch_Area_4">Launch Area 4 (SLS-1 / 921)</a>, Jiuquan Satellite Launch Center, People's Republic of China*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251031T153400">2025-10-31 15:34:00 UTC</a>.  Until
-then, this pad will have been used for 25
-out of 261 launches from this location. The launch status is currently
+**Falcon 9 Block 5 | Starlink Group 11-23**. It is scheduled to be launched by *SpaceX*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251031T194400">2025-10-31 19:44:00 UTC</a>.  Until
+then, this pad will have been used for 227
+out of 841 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Human Exploration* and the payload will be injected
+*Communications* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  Tenth crewed flight to the Chinese space station.
+  A batch of 28 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Long_March_2F/G" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=40.957893,100.290944" >
+  <a href="https://www.google.com/maps?q=34.632,-120.611" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -54,6 +54,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251105T230800">2025-11-05 23:08:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-81&location=Cape Canaveral SFS, FL, USA&dates=20251105T230800Z%2F20251106T030800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-81** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251106T032400">2025-11-06 03:24:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 551 | ViaSat-3 F2 (ViaSat-3 EMEA)&location=Cape Canaveral SFS, FL, USA&dates=20251106T032400Z%2F20251106T040800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 551 | ViaSat-3 F2 (ViaSat-3 EMEA)** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251106T205600">2025-11-06 20:56:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-14&location=Vandenberg SFB, CA, USA&dates=20251106T205600Z%2F20251107T005600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-14** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251108T083000">2025-11-08 08:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-51&location=Kennedy Space Center, FL, USA&dates=20251108T083000Z%2F20251108T123000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-51** from Kennedy Space Center, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -91,6 +92,7 @@ into *a Low Earth Orbit
 ### Latest News ⌛
 - <a href="https://spaceflightnow.com/2025/10/31/live-coverage-spacex-to-launch-100th-starlink-flight-of-2025/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 100th Starlink flight of 2025
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_27-31_October_2025" >🔗</a> **[ESA]** Week in images: 27-31 October 2025
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/Turning_up_the_heat_in_ESA_s_Astronaut_Reserve_Training" >🔗</a> **[ESA]** Turning up the heat in ESA’s Astronaut Reserve Training
 - <a href="https://spacenews.com/resources-reactors-and-rivalries-will-decide-the-new-moon-race/" >🔗</a> **[SpaceNews]** Resources, reactors and rivalries will decide the new moon race
 - <a href="https://spacenews.com/blue-origin-test-fires-new-glenn-ahead-of-second-launch/" >🔗</a> **[SpaceNews]** Blue Origin test-fires New Glenn ahead of second launch
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/10/Seas_of_the_Sun_The_story_of_Cluster" >🔗</a> **[ESA]** Seas of the Sun: The story of Cluster
@@ -98,18 +100,16 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2025/10/rocket-report-chinas-moon-rocket-to-debut-soon-arcaspace-is-back-sort-of/" >🔗</a> **[Arstechnica]** Rocket Report: China’s Moon rocket to debut soon; ArcaSpace is back—sort of
 - <a href="https://spacenews.com/european-commission-weighs-inviting-ukraine-to-europes-govsatcom-platform/" >🔗</a> **[SpaceNews]** European Commission weighs inviting Ukraine to Europe’s GOVSATCOM platform
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/Earth_from_Space_Ghostly_lake" >🔗</a> **[ESA]** Earth from Space: Ghostly lake
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/Flickering_flame_spooky_spirits_or_serious_science" >🔗</a> **[ESA]** Flickering flame: spooky spirits or serious science?
 
 
 ### Launch-related News 🚀
 
-- <a href="https://www.nasaspaceflight.com/2025/10/shenzhou-21/" >🔗</a> **[NASASpaceflight]** China prepares to launch crewed Shenzhou-21 mission
 - <a href="https://www.nasaspaceflight.com/2025/10/launch-roundup-102725/" >🔗</a> **[NASASpaceflight]** Launch Roundup: China to launch crew to Tiangong, India to launch new naval satellite
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251031T160157">2025-10-31 16:01:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251031T163747">2025-10-31 16:37:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
