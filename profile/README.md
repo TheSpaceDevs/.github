@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/10/Seas_of_the_Sun_The_story_of_Cluster" >🔗</a> **[ESA]** Seas of the Sun: The story of Cluster
 - <a href="https://www.nasaspaceflight.com/2025/10/shenzhou-21/" >🔗</a> **[NASASpaceflight]** China prepares to launch crewed Shenzhou-21 mission
 - <a href="https://arstechnica.com/space/2025/10/rocket-report-chinas-moon-rocket-to-debut-soon-arcaspace-is-back-sort-of/" >🔗</a> **[Arstechnica]** Rocket Report: China’s Moon rocket to debut soon; ArcaSpace is back—sort of
 - <a href="https://spacenews.com/european-commission-weighs-inviting-ukraine-to-europes-govsatcom-platform/" >🔗</a> **[SpaceNews]** European Commission weighs inviting Ukraine to Europe’s GOVSATCOM platform
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/bolden-bridenstine-share-their-views-on-artemis/" >🔗</a> **[SpacePolicyOnline.com]** Bolden, Bridenstine Share Their Views on Artemis
 - <a href="https://spaceflightnow.com/2025/10/31/blue-origin-completes-new-glenn-static-fire-test-preparing-for-nasas-escapade-mission-launch/" >🔗</a> **[Spaceflight Now]** Blue Origin completes New Glenn static fire test, preparing for NASA’s EscaPADE mission launch
 - <a href="https://spacenews.com/spacex-defends-starship-lunar-lander-as-it-works-on-simplified-approach/" >🔗</a> **[SpaceNews]** SpaceX defends Starship lunar lander as it works on ‘simplified’ approach
-- <a href="https://spacenews.com/chinas-stardetect-raises-series-a-funding-to-expand-on-orbit-computing-and-space-domain-awareness-services/" >🔗</a> **[SpaceNews]** China’s StarDetect raises Series A funding to expand on-orbit computing and space domain awareness services
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251031T113104">2025-10-31 11:31:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251031T120210">2025-10-31 12:02:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
