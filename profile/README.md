@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/resources-reactors-and-rivalries-will-decide-the-new-moon-race/" >🔗</a> **[SpaceNews]** Resources, reactors and rivalries will decide the new moon race
 - <a href="https://spacenews.com/blue-origin-test-fires-new-glenn-ahead-of-second-launch/" >🔗</a> **[SpaceNews]** Blue Origin test-fires New Glenn ahead of second launch
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/10/Seas_of_the_Sun_The_story_of_Cluster" >🔗</a> **[ESA]** Seas of the Sun: The story of Cluster
 - <a href="https://www.nasaspaceflight.com/2025/10/shenzhou-21/" >🔗</a> **[NASASpaceflight]** China prepares to launch crewed Shenzhou-21 mission
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/Flickering_flame_spooky_spirits_or_serious_science" >🔗</a> **[ESA]** Flickering flame: spooky spirits or serious science?
 - <a href="https://europeanspaceflight.com/endurosat-secures-104m-in-new-funding-to-boost-production-capacity/" >🔗</a> **[European Spaceflight]** EnduroSat Secures $104M in New Funding to Boost Production Capacity
 - <a href="https://spacepolicyonline.com/news/bolden-bridenstine-share-their-views-on-artemis/" >🔗</a> **[SpacePolicyOnline.com]** Bolden, Bridenstine Share Their Views on Artemis
-- <a href="https://spaceflightnow.com/2025/10/31/blue-origin-completes-new-glenn-static-fire-test-preparing-for-nasas-escapade-mission-launch/" >🔗</a> **[Spaceflight Now]** Blue Origin completes New Glenn static fire test, preparing for NASA’s EscaPADE mission launch
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251031T130911">2025-10-31 13:09:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251031T133817">2025-10-31 13:38:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
