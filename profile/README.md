@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/Earth_from_Space_Ghostly_lake" >🔗</a> **[ESA]** Earth from Space: Ghostly lake
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/Flickering_flame_spooky_spirits_or_serious_science" >🔗</a> **[ESA]** Flickering flame: spooky spirits or serious science?
+- <a href="https://europeanspaceflight.com/endurosat-secures-104m-in-new-funding-to-boost-production-capacity/" >🔗</a> **[European Spaceflight]** EnduroSat Secures $104M in New Funding to Boost Production Capacity
 - <a href="https://spacepolicyonline.com/news/bolden-bridenstine-share-their-views-on-artemis/" >🔗</a> **[SpacePolicyOnline.com]** Bolden, Bridenstine Share Their Views on Artemis
 - <a href="https://spaceflightnow.com/2025/10/31/blue-origin-completes-new-glenn-static-fire-test-preparing-for-nasas-escapade-mission-launch/" >🔗</a> **[Spaceflight Now]** Blue Origin completes New Glenn static fire test, preparing for NASA’s EscaPADE mission launch
 - <a href="https://spacenews.com/spacex-defends-starship-lunar-lander-as-it-works-on-simplified-approach/" >🔗</a> **[SpaceNews]** SpaceX defends Starship lunar lander as it works on ‘simplified’ approach
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/interest-rate-cut-further-fuels-space-investor-optimism-amid-talk-of-returning-spacs/" >🔗</a> **[SpaceNews]** Interest rate cut further fuels space investor optimism amid talk of returning SPACs
 - <a href="https://spacenews.com/endurosat-raises-104-million-to-scale-production-of-larger-small-satellites/" >🔗</a> **[SpaceNews]** EnduroSat raises $104 million to scale production of larger small satellites
 - <a href="https://spacenews.com/golden-dome-hype-meets-information-vacuum-as-industry-awaits-pentagon-direction/" >🔗</a> **[SpaceNews]** Golden Dome hype meets information vacuum as industry awaits Pentagon direction
-- <a href="https://www.nasaspaceflight.com/2025/10/spacex-roberts-road-olm-preps/" >🔗</a> **[NASASpaceflight]** SpaceX ramps up Starship preparations at Florida’s Roberts Road
-- <a href="https://spacenews.com/pentagon-turns-to-government-owned-commercially-operated-satellites-amid-conflict-risks/" >🔗</a> **[SpaceNews]** Pentagon turns to ‘government-owned, commercially-operated’ satellites amid conflict risks
-- <a href="https://europeanspaceflight.com/the-exploration-company-opens-new-hq-in-oberpfaffenhofen/" >🔗</a> **[European Spaceflight]** The Exploration Company Opens New HQ in Oberpfaffenhofen
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251031T090145">2025-10-31 09:01:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251031T093402">2025-10-31 09:34:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
