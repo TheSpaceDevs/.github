@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/european-commission-weighs-inviting-ukraine-to-europes-govsatcom-platform/" >🔗</a> **[SpaceNews]** European Commission weighs inviting Ukraine to Europe’s GOVSATCOM platform
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/Earth_from_Space_Ghostly_lake" >🔗</a> **[ESA]** Earth from Space: Ghostly lake
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/Flickering_flame_spooky_spirits_or_serious_science" >🔗</a> **[ESA]** Flickering flame: spooky spirits or serious science?
 - <a href="https://europeanspaceflight.com/endurosat-secures-104m-in-new-funding-to-boost-production-capacity/" >🔗</a> **[European Spaceflight]** EnduroSat Secures $104M in New Funding to Boost Production Capacity
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/chinas-stardetect-raises-series-a-funding-to-expand-on-orbit-computing-and-space-domain-awareness-services/" >🔗</a> **[SpaceNews]** China’s StarDetect raises Series A funding to expand on-orbit computing and space domain awareness services
 - <a href="https://spacenews.com/interest-rate-cut-further-fuels-space-investor-optimism-amid-talk-of-returning-spacs/" >🔗</a> **[SpaceNews]** Interest rate cut further fuels space investor optimism amid talk of returning SPACs
 - <a href="https://spacenews.com/endurosat-raises-104-million-to-scale-production-of-larger-small-satellites/" >🔗</a> **[SpaceNews]** EnduroSat raises $104 million to scale production of larger small satellites
-- <a href="https://spacenews.com/golden-dome-hype-meets-information-vacuum-as-industry-awaits-pentagon-direction/" >🔗</a> **[SpaceNews]** Golden Dome hype meets information vacuum as industry awaits Pentagon direction
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251031T100152">2025-10-31 10:01:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251031T103540">2025-10-31 10:35:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
