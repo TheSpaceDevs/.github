@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/bolden-bridenstine-share-their-views-on-artemis/" >🔗</a> **[SpacePolicyOnline.com]** Bolden, Bridenstine Share Their Views on Artemis
 - <a href="https://spaceflightnow.com/2025/10/31/blue-origin-completes-new-glenn-static-fire-test-preparing-for-nasas-escapade-mission-launch/" >🔗</a> **[Spaceflight Now]** Blue Origin completes New Glenn static fire test, preparing for NASA’s EscaPADE mission launch
 - <a href="https://spacenews.com/spacex-defends-starship-lunar-lander-as-it-works-on-simplified-approach/" >🔗</a> **[SpaceNews]** SpaceX defends Starship lunar lander as it works on ‘simplified’ approach
 - <a href="https://spacenews.com/chinas-stardetect-raises-series-a-funding-to-expand-on-orbit-computing-and-space-domain-awareness-services/" >🔗</a> **[SpaceNews]** China’s StarDetect raises Series A funding to expand on-orbit computing and space domain awareness services
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2025/10/spacex-roberts-road-olm-preps/" >🔗</a> **[NASASpaceflight]** SpaceX ramps up Starship preparations at Florida’s Roberts Road
 - <a href="https://spacenews.com/pentagon-turns-to-government-owned-commercially-operated-satellites-amid-conflict-risks/" >🔗</a> **[SpaceNews]** Pentagon turns to ‘government-owned, commercially-operated’ satellites amid conflict risks
 - <a href="https://europeanspaceflight.com/the-exploration-company-opens-new-hq-in-oberpfaffenhofen/" >🔗</a> **[European Spaceflight]** The Exploration Company Opens New HQ in Oberpfaffenhofen
-- <a href="https://arstechnica.com/space/2025/10/an-in-space-construction-firm-says-it-can-help-build-massive-data-centers-in-orbit/" >🔗</a> **[Arstechnica]** An in-space construction firm says it can help build massive data centers in orbit
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251031T032406">2025-10-31 03:24:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251031T034330">2025-10-31 03:43:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
