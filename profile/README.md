@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/10/elon-musk-on-data-centers-in-orbit-spacex-will-be-doing-this/" >🔗</a> **[Arstechnica]** Elon Musk on data centers in orbit: “SpaceX will be doing this”
 - <a href="https://spaceflightnow.com/2025/10/31/live-coverage-spacex-to-launch-100th-starlink-flight-of-2025/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 100th Starlink flight of 2025
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_27-31_October_2025" >🔗</a> **[ESA]** Week in images: 27-31 October 2025
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/Turning_up_the_heat_in_ESA_s_Astronaut_Reserve_Training" >🔗</a> **[ESA]** Turning up the heat in ESA’s Astronaut Reserve Training
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2025/10/shenzhou-21/" >🔗</a> **[NASASpaceflight]** China prepares to launch crewed Shenzhou-21 mission
 - <a href="https://arstechnica.com/space/2025/10/rocket-report-chinas-moon-rocket-to-debut-soon-arcaspace-is-back-sort-of/" >🔗</a> **[Arstechnica]** Rocket Report: China’s Moon rocket to debut soon; ArcaSpace is back—sort of
 - <a href="https://spacenews.com/european-commission-weighs-inviting-ukraine-to-europes-govsatcom-platform/" >🔗</a> **[SpaceNews]** European Commission weighs inviting Ukraine to Europe’s GOVSATCOM platform
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/Earth_from_Space_Ghostly_lake" >🔗</a> **[ESA]** Earth from Space: Ghostly lake
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251031T170119">2025-10-31 17:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251031T173336">2025-10-31 17:33:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
