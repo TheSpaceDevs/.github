@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/10/31/live-coverage-spacex-to-launch-100th-starlink-flight-of-2025/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 100th Starlink flight of 2025
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_27-31_October_2025" >🔗</a> **[ESA]** Week in images: 27-31 October 2025
 - <a href="https://spacenews.com/resources-reactors-and-rivalries-will-decide-the-new-moon-race/" >🔗</a> **[SpaceNews]** Resources, reactors and rivalries will decide the new moon race
 - <a href="https://spacenews.com/blue-origin-test-fires-new-glenn-ahead-of-second-launch/" >🔗</a> **[SpaceNews]** Blue Origin test-fires New Glenn ahead of second launch
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/european-commission-weighs-inviting-ukraine-to-europes-govsatcom-platform/" >🔗</a> **[SpaceNews]** European Commission weighs inviting Ukraine to Europe’s GOVSATCOM platform
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/Earth_from_Space_Ghostly_lake" >🔗</a> **[ESA]** Earth from Space: Ghostly lake
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/Flickering_flame_spooky_spirits_or_serious_science" >🔗</a> **[ESA]** Flickering flame: spooky spirits or serious science?
-- <a href="https://europeanspaceflight.com/endurosat-secures-104m-in-new-funding-to-boost-production-capacity/" >🔗</a> **[European Spaceflight]** EnduroSat Secures $104M in New Funding to Boost Production Capacity
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251031T150119">2025-10-31 15:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251031T153341">2025-10-31 15:33:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
