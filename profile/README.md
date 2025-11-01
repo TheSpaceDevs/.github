@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/thales-alenia-space-clears-key-milestone-for-in-orbit-servicing-demo/" >🔗</a> **[European Spaceflight]** Thales Alenia Space Clears Key Milestone for In-Orbit Servicing Demo
 - <a href="https://spacenews.com/semiconductor-startup-to-fly-payloads-on-falcon-9-boosters/" >🔗</a> **[SpaceNews]** Semiconductor startup to fly payloads on Falcon 9 boosters
 - <a href="https://spacenews.com/shenzhou-21-completes-rapid-docking-with-tiangong-space-station-3-5-hours-after-launch/" >🔗</a> **[SpaceNews]** Shenzhou-21 completes rapid docking with Tiangong space station 3.5 hours after launch
 - <a href="https://spacepolicyonline.com/news/china-launches-new-space-station-crew-2/" >🔗</a> **[SpacePolicyOnline.com]** China Launches New Space Station Crew
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/10/31/live-coverage-spacex-to-launch-100th-starlink-flight-of-2025/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 100th Starlink flight of 2025
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_27-31_October_2025" >🔗</a> **[ESA]** Week in images: 27-31 October 2025
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/Turning_up_the_heat_in_ESA_s_Astronaut_Reserve_Training" >🔗</a> **[ESA]** Turning up the heat in ESA’s Astronaut Reserve Training
-- <a href="https://spacenews.com/resources-reactors-and-rivalries-will-decide-the-new-moon-race/" >🔗</a> **[SpaceNews]** Resources, reactors and rivalries will decide the new moon race
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251101T040149">2025-11-01 04:01:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251101T043402">2025-11-01 04:34:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
