@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/rocket-labs-proposed-acquisition-of-mynaric-faces-sovereignty-test/" >🔗</a> **[SpaceNews]** Rocket Lab’s proposed acquisition of Mynaric faces sovereignty test
 - <a href="https://spacenews.com/spacex-launches-fourth-bandwagon-rideshare-mission/" >🔗</a> **[SpaceNews]** SpaceX launches fourth Bandwagon rideshare mission
 - <a href="https://spaceflightnow.com/2025/11/01/live-coverage-commercial-space-station-demo-data-center-precursor-to-launch-on-spacex-bandwagon-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: Commercial space station demo, data center precursor to launch on SpaceX Bandwagon mission
 - <a href="https://www.nasaspaceflight.com/2025/11/starship-block-3-path-moon/" >🔗</a> **[NASASpaceflight]** Starship Block 3 and HLS: The Path to Get Back to the Moon
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/shenzhou-21-completes-rapid-docking-with-tiangong-space-station-3-5-hours-after-launch/" >🔗</a> **[SpaceNews]** Shenzhou-21 completes rapid docking with Tiangong space station 3.5 hours after launch
 - <a href="https://spacepolicyonline.com/news/china-launches-new-space-station-crew-2/" >🔗</a> **[SpacePolicyOnline.com]** China Launches New Space Station Crew
 - <a href="https://spacenews.com/kyivstar-prepares-to-expand-starlink-direct-to-cell-testing-across-ukraine/" >🔗</a> **[SpaceNews]** Kyivstar prepares to expand Starlink Direct to Cell testing across Ukraine
-- <a href="https://spacenews.com/for-clues-to-the-future-of-military-space-look-in-the-air/" >🔗</a> **[SpaceNews]** For clues to the future of military space, look in the air
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251102T180142">2025-11-02 18:01:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251102T183550">2025-11-02 18:35:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
