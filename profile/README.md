@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacex-launches-fourth-bandwagon-rideshare-mission/" >🔗</a> **[SpaceNews]** SpaceX launches fourth Bandwagon rideshare mission
 - <a href="https://spaceflightnow.com/2025/11/01/live-coverage-commercial-space-station-demo-data-center-precursor-to-launch-on-spacex-bandwagon-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: Commercial space station demo, data center precursor to launch on SpaceX Bandwagon mission
 - <a href="https://www.nasaspaceflight.com/2025/11/starship-block-3-path-moon/" >🔗</a> **[NASASpaceflight]** Starship Block 3 and HLS: The Path to Get Back to the Moon
 - <a href="https://spacenews.com/latvia-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Latvia signs Artemis Accords
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacepolicyonline.com/news/china-launches-new-space-station-crew-2/" >🔗</a> **[SpacePolicyOnline.com]** China Launches New Space Station Crew
 - <a href="https://spacenews.com/kyivstar-prepares-to-expand-starlink-direct-to-cell-testing-across-ukraine/" >🔗</a> **[SpaceNews]** Kyivstar prepares to expand Starlink Direct to Cell testing across Ukraine
 - <a href="https://spacenews.com/for-clues-to-the-future-of-military-space-look-in-the-air/" >🔗</a> **[SpaceNews]** For clues to the future of military space, look in the air
-- <a href="https://arstechnica.com/space/2025/10/elon-musk-on-data-centers-in-orbit-spacex-will-be-doing-this/" >🔗</a> **[Arstechnica]** Elon Musk on data centers in orbit: “SpaceX will be doing this”
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251102T160144">2025-11-02 16:01:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251102T163508">2025-11-02 16:35:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
