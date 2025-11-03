@@ -90,6 +90,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_and_Ariane_6_ready_for_liftoff" >🔗</a> **[ESA]** Sentinel-1D and Ariane 6 ready for liftoff
 - <a href="https://spacenews.com/johns-hopkins-spacenews-launch-discussion-series-focused-on-the-future-of-space-exploration/" >🔗</a> **[SpaceNews]** Johns Hopkins, SpaceNews launch discussion series focused on the future of space  exploration
 - <a href="https://www.nasaspaceflight.com/2025/11/vast-haven-1-update/" >🔗</a> **[NASASpaceflight]** Vast completes Haven-1 structural testing, launches pathfinder mission
 - <a href="https://spacenews.com/why-the-moon-is-not-the-south-china-sea-reframing-lunar-space-ahead-of-the-next-race/" >🔗</a> **[SpaceNews]** Why the moon is not the South China Sea: reframing lunar space ahead of the next ‘race’
@@ -99,7 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://europeanspaceflight.com/ohb-to-acquire-technisat-plant-to-expand-production-capacity/" >🔗</a> **[European Spaceflight]** OHB to Acquire TechniSat Plant to Expand Production Capacity
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-2-8-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy November 2-8, 2025
 - <a href="https://spacenews.com/rocket-labs-proposed-acquisition-of-mynaric-faces-sovereignty-test/" >🔗</a> **[SpaceNews]** Rocket Lab’s proposed acquisition of Mynaric faces sovereignty test
-- <a href="https://spacenews.com/spacex-launches-fourth-bandwagon-rideshare-mission/" >🔗</a> **[SpaceNews]** SpaceX launches fourth Bandwagon rideshare mission
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251103T160152">2025-11-03 16:01:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251103T163653">2025-11-03 16:36:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
