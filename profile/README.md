@@ -90,6 +90,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Careers_at_ESA/Ready_to_launch_your_career_ESA_Student_Internships_2026_are_now_open" >🔗</a> **[ESA]** Ready to launch your career? ESA Student Internships 2026 are now open!
 - <a href="https://europeanspaceflight.com/ohb-to-acquire-technisat-plant-to-expand-production-capacity/" >🔗</a> **[European Spaceflight]** OHB to Acquire TechniSat Plant to Expand Production Capacity
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-2-8-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy November 2-8, 2025
 - <a href="https://spacenews.com/rocket-labs-proposed-acquisition-of-mynaric-faces-sovereignty-test/" >🔗</a> **[SpaceNews]** Rocket Lab’s proposed acquisition of Mynaric faces sovereignty test
@@ -99,7 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/latvia-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Latvia signs Artemis Accords
 - <a href="https://europeanspaceflight.com/thales-alenia-space-clears-key-milestone-for-in-orbit-servicing-demo/" >🔗</a> **[European Spaceflight]** Thales Alenia Space Clears Key Milestone for In-Orbit Servicing Demo
 - <a href="https://spacenews.com/semiconductor-startup-to-fly-payloads-on-falcon-9-boosters/" >🔗</a> **[SpaceNews]** Semiconductor startup to fly payloads on Falcon 9 boosters
-- <a href="https://spacenews.com/shenzhou-21-completes-rapid-docking-with-tiangong-space-station-3-5-hours-after-launch/" >🔗</a> **[SpaceNews]** Shenzhou-21 completes rapid docking with Tiangong space station 3.5 hours after launch
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251103T100147">2025-11-03 10:01:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251103T103739">2025-11-03 10:37:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
