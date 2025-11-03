@@ -54,7 +54,7 @@ into *a Sun-Synchronous Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251108T083000">2025-11-08 08:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-51&location=Kennedy Space Center, FL, USA&dates=20251108T083000Z%2F20251108T123000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-51** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251109T000000">2025-11-09 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Glenn | EscaPADE&location=Cape Canaveral SFS, FL, USA&dates=20251109T000000Z%2F20251109T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Glenn | EscaPADE** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251110T000000">2025-11-10 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Transporter 15 (Dedicated SSO Rideshare)&location=Vandenberg SFB, CA, USA&dates=20251110T000000Z%2F20251110T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Transporter 15 (Dedicated SSO Rideshare)** from Vandenberg SFB, CA, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251110T221200">2025-11-10 22:12:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-87&location=Cape Canaveral SFS, FL, USA&dates=20251110T221200Z%2F20251111T021200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-87** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251110T023500">2025-11-10 02:35:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 12 | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20251110T023500Z%2F20251110T030300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 12 | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,6 +90,8 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/11/vast-haven-1-update/" >🔗</a> **[NASASpaceflight]** Vast completes Haven-1 structural testing, launches pathfinder mission
+- <a href="https://spacenews.com/why-the-moon-is-not-the-south-china-sea-reframing-lunar-space-ahead-of-the-next-race/" >🔗</a> **[SpaceNews]** Why the moon is not the South China Sea: reframing lunar space ahead of the next ‘race’
 - <a href="https://spacenews.com/china-launches-first-geo-yaogan-satellite-as-india-lofts-record-mass-commsat/" >🔗</a> **[SpaceNews]** China launches first GEO Yaogan satellite as India lofts record-mass commsat
 - <a href="https://spacenews.com/on-the-eve-of-the-isss-25th-anniversary-humanity-stares-down-a-gap-in-its-presence-in-space/" >🔗</a> **[SpaceNews]** On the eve of the ISS’s 25th anniversary, humanity stares down a gap in its presence in space
 - <a href="https://www.esa.int/About_Us/Careers_at_ESA/Ready_to_launch_your_career_ESA_Student_Internships_2026_are_now_open" >🔗</a> **[ESA]** Ready to launch your career? ESA Student Internships 2026 are now open!
@@ -98,8 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/rocket-labs-proposed-acquisition-of-mynaric-faces-sovereignty-test/" >🔗</a> **[SpaceNews]** Rocket Lab’s proposed acquisition of Mynaric faces sovereignty test
 - <a href="https://spacenews.com/spacex-launches-fourth-bandwagon-rideshare-mission/" >🔗</a> **[SpaceNews]** SpaceX launches fourth Bandwagon rideshare mission
 - <a href="https://spaceflightnow.com/2025/11/01/live-coverage-commercial-space-station-demo-data-center-precursor-to-launch-on-spacex-bandwagon-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: Commercial space station demo, data center precursor to launch on SpaceX Bandwagon mission
-- <a href="https://www.nasaspaceflight.com/2025/11/starship-block-3-path-moon/" >🔗</a> **[NASASpaceflight]** Starship Block 3 and HLS: The Path to Get Back to the Moon
-- <a href="https://spacenews.com/latvia-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Latvia signs Artemis Accords
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251103T140117">2025-11-03 14:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251103T143535">2025-11-03 14:35:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
