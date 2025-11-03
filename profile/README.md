@@ -19,33 +19,32 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Long March 7A | Unknown Payload**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Wenchang_Spacecraft_Launch_Site">201</a>, Wenchang Space Launch Site, People's Republic of China*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251103T033900">2025-11-03 03:39:00 UTC</a>.  Until
-then, this pad will have been used for 25
-out of 47 launches from this location. The launch status is currently
+**Ariane 62 | Sentinel-1D**. It is scheduled to be launched by *Arianespace*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Guiana_Space_Centre">Ariane Launch Area 4</a>, Guiana Space Centre, French Guiana*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/gf.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251104T210300">2025-11-04 21:03:00 UTC</a>.  Until
+then, this pad will have been used for 3
+out of 327 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Unknown* and the payload will be injected
-into *an Unknown
-(N/A)*.
+*Earth Science* and the payload will be injected
+into *a Sun-Synchronous Orbit
+(SSO)*.
 <br>
 <blockquote>
-  Details TBD.
+  Sentinel-1D carries an advanced radar technology to provide an all-weather, day-and-night supply of imagery of Earth’s surface as part of the Sentinel-1 constellation.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="None" >
+  <a href="https://en.wikipedia.org/wiki/Ariane_6" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=19.618452,110.955356" >
+  <a href="https://www.google.com/maps?q=5.256319,-52.786838" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251103T033900">2025-11-03 03:39:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 7A | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20251103T033900Z%2F20251103T040200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 7A | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251104T210300">2025-11-04 21:03:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ariane 62 | Sentinel-1D&location=Guiana Space Centre, French Guiana&dates=20251104T210300Z%2F20251104T210300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ariane 62 | Sentinel-1D** from Guiana Space Centre, French Guiana.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251105T194500">2025-11-05 19:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | The Nation God Navigates (iQPS Launch 5)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20251105T194500Z%2F20251105T194500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | The Nation God Navigates (iQPS Launch 5)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251105T230800">2025-11-05 23:08:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-81&location=Cape Canaveral SFS, FL, USA&dates=20251105T230800Z%2F20251106T030800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-81** from Cape Canaveral SFS, FL, USA.
@@ -55,6 +54,7 @@ into *an Unknown
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251109T000000">2025-11-09 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Glenn | EscaPADE&location=Cape Canaveral SFS, FL, USA&dates=20251109T000000Z%2F20251109T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Glenn | EscaPADE** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251110T000000">2025-11-10 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Transporter 15 (Dedicated SSO Rideshare)&location=Vandenberg SFB, CA, USA&dates=20251110T000000Z%2F20251110T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Transporter 15 (Dedicated SSO Rideshare)** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251110T221200">2025-11-10 22:12:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-87&location=Cape Canaveral SFS, FL, USA&dates=20251110T221200Z%2F20251111T021200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-87** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251114T010800">2025-11-14 01:08:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-89&location=Kennedy Space Center, FL, USA&dates=20251114T010800Z%2F20251114T050800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-89** from Kennedy Space Center, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -104,11 +104,21 @@ into *an Unknown
 
 ### Launch-related News 🚀
 
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/10/Sentinel-1D_pre-launch_media_briefing" >🔗</a> **[ESA]** Sentinel-1D pre-launch media briefing
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Watch_live_Sentinel-1D_launch_on_Ariane_6" >🔗</a> **[ESA]** Watch live: Sentinel-1D launch on Ariane 6
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/Sentinel-1D_encapsulated_inside_Ariane_6_fairing" >🔗</a> **[ESA]** Sentinel-1D encapsulated inside Ariane 6 fairing
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_fuelled_and_ready_for_encapsulation" >🔗</a> **[ESA]** Sentinel-1D fuelled and ready for encapsulation
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_preparations_underway_in_Kourou" >🔗</a> **[ESA]** Sentinel-1D preparations underway in Kourou
+- <a href="https://www.esa.int/Enabling_Support/Operations/We_know_the_drill_Sentinel-1D_begins_streamlined_simulations_training" >🔗</a> **[ESA]** “We know the drill”: Sentinel-1D begins streamlined simulations training
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_in_French_Guiana_for_launch_campaign" >🔗</a> **[ESA]** Sentinel-1D in French Guiana for launch campaign
+- <a href="https://spacenews.com/arianespace-plans-five-ariane-6-launches-in-2025-primarily-in-the-second-half-of-the-year/" >🔗</a> **[SpaceNews]** Arianespace plans five Ariane 6 launches in 2025, primarily in the second half of the year
+- <a href="https://europeanspaceflight.com/arianespace-secures-three-ariane-6-launch-deals-in-two-days/" >🔗</a> **[European Spaceflight]** Arianespace Secures Three Ariane 6 Launch Deals in Two Days
+- <a href="https://spacenews.com/vega-c-to-launch-five-copernicus-spacecraft/" >🔗</a> **[SpaceNews]** Vega C to launch five Copernicus spacecraft
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251103T033126">2025-11-03 03:31:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251103T040546">2025-11-03 04:05:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
