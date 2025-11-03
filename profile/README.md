@@ -90,6 +90,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/ohb-to-acquire-technisat-plant-to-expand-production-capacity/" >🔗</a> **[European Spaceflight]** OHB to Acquire TechniSat Plant to Expand Production Capacity
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-2-8-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy November 2-8, 2025
 - <a href="https://spacenews.com/rocket-labs-proposed-acquisition-of-mynaric-faces-sovereignty-test/" >🔗</a> **[SpaceNews]** Rocket Lab’s proposed acquisition of Mynaric faces sovereignty test
 - <a href="https://spacenews.com/spacex-launches-fourth-bandwagon-rideshare-mission/" >🔗</a> **[SpaceNews]** SpaceX launches fourth Bandwagon rideshare mission
@@ -99,7 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://europeanspaceflight.com/thales-alenia-space-clears-key-milestone-for-in-orbit-servicing-demo/" >🔗</a> **[European Spaceflight]** Thales Alenia Space Clears Key Milestone for In-Orbit Servicing Demo
 - <a href="https://spacenews.com/semiconductor-startup-to-fly-payloads-on-falcon-9-boosters/" >🔗</a> **[SpaceNews]** Semiconductor startup to fly payloads on Falcon 9 boosters
 - <a href="https://spacenews.com/shenzhou-21-completes-rapid-docking-with-tiangong-space-station-3-5-hours-after-launch/" >🔗</a> **[SpaceNews]** Shenzhou-21 completes rapid docking with Tiangong space station 3.5 hours after launch
-- <a href="https://spacepolicyonline.com/news/china-launches-new-space-station-crew-2/" >🔗</a> **[SpacePolicyOnline.com]** China Launches New Space Station Crew
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251103T070109">2025-11-03 07:01:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251103T073303">2025-11-03 07:33:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
