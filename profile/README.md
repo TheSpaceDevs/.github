@@ -90,6 +90,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/latin-americas-space-momentum-takes-center-stage-at-latsat-2025/" >🔗</a> **[SpaceNews]** Latin America’s Space Momentum Takes Center Stage at LATSAT 2025
 - <a href="https://arstechnica.com/space/2025/11/capitol-hill-is-abuzz-with-talk-of-the-athena-plan-for-nasa/" >🔗</a> **[Arstechnica]** Capitol Hill is abuzz with talk of the “Athena” plan for NASA
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_and_Ariane_6_ready_for_liftoff" >🔗</a> **[ESA]** Sentinel-1D and Ariane 6 ready for liftoff
 - <a href="https://spacenews.com/johns-hopkins-spacenews-launch-discussion-series-focused-on-the-future-of-space-exploration/" >🔗</a> **[SpaceNews]** Johns Hopkins, SpaceNews launch discussion series focused on the future of space  exploration
@@ -99,7 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/on-the-eve-of-the-isss-25th-anniversary-humanity-stares-down-a-gap-in-its-presence-in-space/" >🔗</a> **[SpaceNews]** On the eve of the ISS’s 25th anniversary, humanity stares down a gap in its presence in space
 - <a href="https://www.esa.int/About_Us/Careers_at_ESA/Ready_to_launch_your_career_ESA_Student_Internships_2026_are_now_open" >🔗</a> **[ESA]** Ready to launch your career? ESA Student Internships 2026 are now open!
 - <a href="https://europeanspaceflight.com/ohb-to-acquire-technisat-plant-to-expand-production-capacity/" >🔗</a> **[European Spaceflight]** OHB to Acquire TechniSat Plant to Expand Production Capacity
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-2-8-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy November 2-8, 2025
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251103T210120">2025-11-03 21:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251103T213207">2025-11-03 21:32:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
