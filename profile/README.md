@@ -90,6 +90,8 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-launches-first-geo-yaogan-satellite-as-india-lofts-record-mass-commsat/" >🔗</a> **[SpaceNews]** China launches first GEO Yaogan satellite as India lofts record-mass commsat
+- <a href="https://spacenews.com/on-the-eve-of-the-isss-25th-anniversary-humanity-stares-down-a-gap-in-its-presence-in-space/" >🔗</a> **[SpaceNews]** On the eve of the ISS’s 25th anniversary, humanity stares down a gap in its presence in space
 - <a href="https://www.esa.int/About_Us/Careers_at_ESA/Ready_to_launch_your_career_ESA_Student_Internships_2026_are_now_open" >🔗</a> **[ESA]** Ready to launch your career? ESA Student Internships 2026 are now open!
 - <a href="https://europeanspaceflight.com/ohb-to-acquire-technisat-plant-to-expand-production-capacity/" >🔗</a> **[European Spaceflight]** OHB to Acquire TechniSat Plant to Expand Production Capacity
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-2-8-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy November 2-8, 2025
@@ -98,8 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spaceflightnow.com/2025/11/01/live-coverage-commercial-space-station-demo-data-center-precursor-to-launch-on-spacex-bandwagon-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: Commercial space station demo, data center precursor to launch on SpaceX Bandwagon mission
 - <a href="https://www.nasaspaceflight.com/2025/11/starship-block-3-path-moon/" >🔗</a> **[NASASpaceflight]** Starship Block 3 and HLS: The Path to Get Back to the Moon
 - <a href="https://spacenews.com/latvia-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Latvia signs Artemis Accords
-- <a href="https://europeanspaceflight.com/thales-alenia-space-clears-key-milestone-for-in-orbit-servicing-demo/" >🔗</a> **[European Spaceflight]** Thales Alenia Space Clears Key Milestone for In-Orbit Servicing Demo
-- <a href="https://spacenews.com/semiconductor-startup-to-fly-payloads-on-falcon-9-boosters/" >🔗</a> **[SpaceNews]** Semiconductor startup to fly payloads on Falcon 9 boosters
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251103T110104">2025-11-03 11:01:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251103T113108">2025-11-03 11:31:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
