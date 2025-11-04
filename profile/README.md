@@ -23,7 +23,7 @@ The next space launch, retrieved from our
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" />
 from *<a href="https://en.wikipedia.org/wiki/Guiana_Space_Centre">Ariane Launch Area 4</a>, Guiana Space Centre, French Guiana*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/gf.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251104T210300">2025-11-04 21:03:00 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251104T210200">2025-11-04 21:02:00 UTC</a>.  Until
 then, this pad will have been used for 3
 out of 327 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
@@ -45,7 +45,7 @@ into *a Sun-Synchronous Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251104T210300">2025-11-04 21:03:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ariane 62 | Sentinel-1D&location=Guiana Space Centre, French Guiana&dates=20251104T210300Z%2F20251104T210300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ariane 62 | Sentinel-1D** from Guiana Space Centre, French Guiana.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251104T210200">2025-11-04 21:02:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ariane 62 | Sentinel-1D&location=Guiana Space Centre, French Guiana&dates=20251104T210200Z%2F20251104T210200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ariane 62 | Sentinel-1D** from Guiana Space Centre, French Guiana.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251105T194500">2025-11-05 19:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | The Nation God Navigates (iQPS Launch 5)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20251105T194500Z%2F20251105T194500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | The Nation God Navigates (iQPS Launch 5)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251105T230800">2025-11-05 23:08:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-81&location=Cape Canaveral SFS, FL, USA&dates=20251105T230800Z%2F20251106T030800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-81** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251106T032400">2025-11-06 03:24:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 551 | ViaSat-3 F2 (ViaSat-3 EMEA)&location=Cape Canaveral SFS, FL, USA&dates=20251106T032400Z%2F20251106T040800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 551 | ViaSat-3 F2 (ViaSat-3 EMEA)** from Cape Canaveral SFS, FL, USA.
@@ -118,7 +118,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251104T170102">2025-11-04 17:01:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251104T173314">2025-11-04 17:33:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
