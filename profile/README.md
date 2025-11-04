@@ -53,8 +53,8 @@ into *a Sun-Synchronous Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251107T032300">2025-11-07 03:23:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Kinetica 1 | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20251107T032300Z%2F20251107T035000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Kinetica 1 | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251107T195100">2025-11-07 19:51:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Glenn | EscaPADE&location=Cape Canaveral SFS, FL, USA&dates=20251107T195100Z%2F20251107T215000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Glenn | EscaPADE** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251108T083000">2025-11-08 08:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-51&location=Kennedy Space Center, FL, USA&dates=20251108T083000Z%2F20251108T123000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-51** from Kennedy Space Center, FL, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251110T000000">2025-11-10 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Transporter 15 (Dedicated SSO Rideshare)&location=Vandenberg SFB, CA, USA&dates=20251110T000000Z%2F20251110T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Transporter 15 (Dedicated SSO Rideshare)** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251110T023500">2025-11-10 02:35:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 12 | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20251110T023500Z%2F20251110T030300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 12 | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251110T181800">2025-11-10 18:18:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Transporter 15 (Dedicated SSO Rideshare)&location=Vandenberg SFB, CA, USA&dates=20251110T181800Z%2F20251110T181800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Transporter 15 (Dedicated SSO Rideshare)** from Vandenberg SFB, CA, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,6 +90,8 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/geopolitical-shifts-and-ai-reshapes-earth-observation-market/" >🔗</a> **[SpaceNews]** Geopolitical Shifts and AI Reshapes Earth Observation Market
+- <a href="https://www.esa.int/Education/ESA_Academy/ESA_and_AfSA_join_forces_for_systems_engineering_training" >🔗</a> **[ESA]** ESA and AfSA join forces for systems engineering training
 - <a href="https://spacenews.com/why-the-u-s-shouldnt-simply-race-to-lagrange-points/" >🔗</a> **[SpaceNews]** Why the U.S. shouldn’t simply race to Lagrange points
 - <a href="https://spacenews.com/intuitive-machines-to-acquire-lanteris-space-systems/" >🔗</a> **[SpaceNews]** Intuitive Machines to acquire Lanteris Space Systems
 - <a href="https://spacenews.com/qa-the-pace-is-picking-up-for-astroscale/" >🔗</a> **[SpaceNews]** Q&A: The pace is picking up for Astroscale
@@ -98,8 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/11/View_from_above_Ariane_6_for_Sentinel-1D_on_the_launch_pad" >🔗</a> **[ESA]** View from above: Ariane 6 for Sentinel-1D on the launch pad
 - <a href="https://europeanspaceflight.com/ohb-purchases-remaining-stake-in-mt-aerospace/" >🔗</a> **[European Spaceflight]** OHB Purchases Remaining Stake in MT Aerospace
 - <a href="https://spacenews.com/lawmakers-warn-uk-must-act-now-to-get-space-ambitions-back-on-track/" >🔗</a> **[SpaceNews]** Lawmakers warn UK must act now to get space ambitions back on track
-- <a href="https://www.nasaspaceflight.com/2025/11/launch-roundup-110325/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Ariane 6 and New Glenn set to launch during busy week
-- <a href="https://spacenews.com/latin-americas-space-momentum-takes-center-stage-at-latsat-2025/" >🔗</a> **[SpaceNews]** Latin America’s Space Momentum Takes Center Stage at LATSAT 2025
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251104T150123">2025-11-04 15:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251104T153501">2025-11-04 15:35:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
