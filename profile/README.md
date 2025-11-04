@@ -90,6 +90,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/lawmakers-warn-uk-must-act-now-to-get-space-ambitions-back-on-track/" >🔗</a> **[SpaceNews]** Lawmakers warn UK must act now to get space ambitions back on track
 - <a href="https://www.nasaspaceflight.com/2025/11/launch-roundup-110325/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Ariane 6 and New Glenn set to launch during busy week
 - <a href="https://spacenews.com/latin-americas-space-momentum-takes-center-stage-at-latsat-2025/" >🔗</a> **[SpaceNews]** Latin America’s Space Momentum Takes Center Stage at LATSAT 2025
 - <a href="https://arstechnica.com/space/2025/11/capitol-hill-is-abuzz-with-talk-of-the-athena-plan-for-nasa/" >🔗</a> **[Arstechnica]** Capitol Hill is abuzz with talk of the “Athena” plan for NASA
@@ -99,7 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/why-the-moon-is-not-the-south-china-sea-reframing-lunar-space-ahead-of-the-next-race/" >🔗</a> **[SpaceNews]** Why the moon is not the South China Sea: reframing lunar space ahead of the next ‘race’
 - <a href="https://spacenews.com/china-launches-first-geo-yaogan-satellite-as-india-lofts-record-mass-commsat/" >🔗</a> **[SpaceNews]** China launches first GEO Yaogan satellite as India lofts record-mass commsat
 - <a href="https://spacenews.com/on-the-eve-of-the-isss-25th-anniversary-humanity-stares-down-a-gap-in-its-presence-in-space/" >🔗</a> **[SpaceNews]** On the eve of the ISS’s 25th anniversary, humanity stares down a gap in its presence in space
-- <a href="https://www.esa.int/About_Us/Careers_at_ESA/Ready_to_launch_your_career_ESA_Student_Internships_2026_are_now_open" >🔗</a> **[ESA]** Ready to launch your career? ESA Student Internships 2026 are now open!
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251104T000453">2025-11-04 00:04:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251104T004603">2025-11-04 00:46:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
