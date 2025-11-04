@@ -90,6 +90,8 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/analysts-say-experience-not-funding-is-hindering-european-smallsat-launchers/" >🔗</a> **[SpaceNews]** Analysts say experience, not funding, is hindering European smallsat launchers
+- <a href="https://spacenews.com/ses-leans-on-sky-perfect-jsat-as-inflight-demand-outpaces-expanded-fleet/" >🔗</a> **[SpaceNews]** SES leans on SKY Perfect JSAT as inflight demand outpaces expanded fleet
 - <a href="https://spacenews.com/geopolitical-shifts-and-ai-reshapes-earth-observation-market/" >🔗</a> **[SpaceNews]** Geopolitical Shifts and AI Reshapes Earth Observation Market
 - <a href="https://www.esa.int/Education/ESA_Academy/ESA_and_AfSA_join_forces_for_systems_engineering_training" >🔗</a> **[ESA]** ESA and AfSA join forces for systems engineering training
 - <a href="https://spacenews.com/why-the-u-s-shouldnt-simply-race-to-lagrange-points/" >🔗</a> **[SpaceNews]** Why the U.S. shouldn’t simply race to Lagrange points
@@ -98,8 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/china-conducts-ground-tests-on-inflatable-reconfigurable-space-manufacturing-module/" >🔗</a> **[SpaceNews]** China conducts ground tests on inflatable, reconfigurable space manufacturing module
 - <a href="https://spacenews.com/for-new-lunar-collaboration-look-to-india-and-japan/" >🔗</a> **[SpaceNews]** For new lunar collaboration, look to India and Japan
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/11/View_from_above_Ariane_6_for_Sentinel-1D_on_the_launch_pad" >🔗</a> **[ESA]** View from above: Ariane 6 for Sentinel-1D on the launch pad
-- <a href="https://europeanspaceflight.com/ohb-purchases-remaining-stake-in-mt-aerospace/" >🔗</a> **[European Spaceflight]** OHB Purchases Remaining Stake in MT Aerospace
-- <a href="https://spacenews.com/lawmakers-warn-uk-must-act-now-to-get-space-ambitions-back-on-track/" >🔗</a> **[SpaceNews]** Lawmakers warn UK must act now to get space ambitions back on track
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251104T190146">2025-11-04 19:01:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251104T193059">2025-11-04 19:30:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
