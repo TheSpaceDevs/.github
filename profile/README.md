@@ -90,6 +90,9 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/intuitive-machines-to-acquire-lanteris-space-systems/" >🔗</a> **[SpaceNews]** Intuitive Machines to acquire Lanteris Space Systems
+- <a href="https://spacenews.com/qa-the-pace-is-picking-up-for-astroscale/" >🔗</a> **[SpaceNews]** Q&A: The pace is picking up for Astroscale
+- <a href="https://spacenews.com/china-conducts-ground-tests-on-inflatable-reconfigurable-space-manufacturing-module/" >🔗</a> **[SpaceNews]** China conducts ground tests on inflatable, reconfigurable space manufacturing module
 - <a href="https://spacenews.com/for-new-lunar-collaboration-look-to-india-and-japan/" >🔗</a> **[SpaceNews]** For new lunar collaboration, look to India and Japan
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/11/View_from_above_Ariane_6_for_Sentinel-1D_on_the_launch_pad" >🔗</a> **[ESA]** View from above: Ariane 6 for Sentinel-1D on the launch pad
 - <a href="https://europeanspaceflight.com/ohb-purchases-remaining-stake-in-mt-aerospace/" >🔗</a> **[European Spaceflight]** OHB Purchases Remaining Stake in MT Aerospace
@@ -97,13 +100,13 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasaspaceflight.com/2025/11/launch-roundup-110325/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Ariane 6 and New Glenn set to launch during busy week
 - <a href="https://spacenews.com/latin-americas-space-momentum-takes-center-stage-at-latsat-2025/" >🔗</a> **[SpaceNews]** Latin America’s Space Momentum Takes Center Stage at LATSAT 2025
 - <a href="https://arstechnica.com/space/2025/11/capitol-hill-is-abuzz-with-talk-of-the-athena-plan-for-nasa/" >🔗</a> **[Arstechnica]** Capitol Hill is abuzz with talk of the “Athena” plan for NASA
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_and_Ariane_6_ready_for_liftoff" >🔗</a> **[ESA]** Sentinel-1D and Ariane 6 ready for liftoff
-- <a href="https://spacenews.com/johns-hopkins-spacenews-launch-discussion-series-focused-on-the-future-of-space-exploration/" >🔗</a> **[SpaceNews]** Johns Hopkins, SpaceNews launch discussion series focused on the future of space  exploration
-- <a href="https://www.nasaspaceflight.com/2025/11/vast-haven-1-update/" >🔗</a> **[NASASpaceflight]** Vast completes Haven-1 structural testing, launches pathfinder mission
 
 
 ### Launch-related News 🚀
 
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/11/View_from_above_Ariane_6_for_Sentinel-1D_on_the_launch_pad" >🔗</a> **[ESA]** View from above: Ariane 6 for Sentinel-1D on the launch pad
+- <a href="https://www.nasaspaceflight.com/2025/11/launch-roundup-110325/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Ariane 6 and New Glenn set to launch during busy week
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_and_Ariane_6_ready_for_liftoff" >🔗</a> **[ESA]** Sentinel-1D and Ariane 6 ready for liftoff
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/10/Sentinel-1D_pre-launch_media_briefing" >🔗</a> **[ESA]** Sentinel-1D pre-launch media briefing
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Watch_live_Sentinel-1D_launch_on_Ariane_6" >🔗</a> **[ESA]** Watch live: Sentinel-1D launch on Ariane 6
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/10/Sentinel-1D_encapsulated_inside_Ariane_6_fairing" >🔗</a> **[ESA]** Sentinel-1D encapsulated inside Ariane 6 fairing
@@ -111,14 +114,11 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_preparations_underway_in_Kourou" >🔗</a> **[ESA]** Sentinel-1D preparations underway in Kourou
 - <a href="https://www.esa.int/Enabling_Support/Operations/We_know_the_drill_Sentinel-1D_begins_streamlined_simulations_training" >🔗</a> **[ESA]** “We know the drill”: Sentinel-1D begins streamlined simulations training
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_in_French_Guiana_for_launch_campaign" >🔗</a> **[ESA]** Sentinel-1D in French Guiana for launch campaign
-- <a href="https://spacenews.com/arianespace-plans-five-ariane-6-launches-in-2025-primarily-in-the-second-half-of-the-year/" >🔗</a> **[SpaceNews]** Arianespace plans five Ariane 6 launches in 2025, primarily in the second half of the year
-- <a href="https://europeanspaceflight.com/arianespace-secures-three-ariane-6-launch-deals-in-two-days/" >🔗</a> **[European Spaceflight]** Arianespace Secures Three Ariane 6 Launch Deals in Two Days
-- <a href="https://spacenews.com/vega-c-to-launch-five-copernicus-spacecraft/" >🔗</a> **[SpaceNews]** Vega C to launch five Copernicus spacecraft
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251104T120205">2025-11-04 12:02:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251104T124351">2025-11-04 12:43:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
