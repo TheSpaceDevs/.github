@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/11/04/president-trump-renominates-commercial-astronaut-jared-isaacman-for-nasa-administrator-position/" >🔗</a> **[Spaceflight Now]** President Trump renominates commercial astronaut Jared Isaacman for NASA administrator
+- <a href="https://arstechnica.com/science/2025/11/googles-new-weather-model-impressed-during-its-first-hurricane-season/" >🔗</a> **[Arstechnica]** Google’s new weather model impressed during its first hurricane season
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_reaches_orbit_on_Ariane_6" >🔗</a> **[ESA]** Sentinel-1D reaches orbit on Ariane 6
 - <a href="https://spacenews.com/telesat-eyes-december-2026-for-lightspeed-pathfinder-debut/" >🔗</a> **[SpaceNews]** Telesat eyes December 2026 for Lightspeed pathfinder debut
 - <a href="https://spacenews.com/ariane-6-launches-sentinel-1d-radar-imaging-satellite/" >🔗</a> **[SpaceNews]** Ariane 6 launches Sentinel-1D radar imaging satellite
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/11/Copernicus_Sentinel-1D_launch_coverage" >🔗</a> **[ESA]** Copernicus Sentinel-1D launch coverage
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/11/Sentinel-1D_is_launched_on_Ariane_6" >🔗</a> **[ESA]** Sentinel-1D is launched on Ariane 6
 - <a href="https://www.nasaspaceflight.com/2025/11/sentinel-1d-launch/" >🔗</a> **[NASASpaceflight]** Ariane 6 poised to launch the Sentinel-1D Earth observation satellite
 - <a href="https://spacenews.com/analysts-say-experience-not-funding-is-hindering-european-smallsat-launchers/" >🔗</a> **[SpaceNews]** Analysts say experience, not funding, is hindering European smallsat launchers
-- <a href="https://spacenews.com/ses-leans-on-sky-perfect-jsat-as-inflight-demand-outpaces-expanded-fleet/" >🔗</a> **[SpaceNews]** SES leans on SKY Perfect JSAT as inflight demand outpaces expanded fleet
-- <a href="https://spacenews.com/geopolitical-shifts-and-ai-reshapes-earth-observation-market/" >🔗</a> **[SpaceNews]** Geopolitical Shifts and AI Reshapes Earth Observation Market
-- <a href="https://www.esa.int/Education/ESA_Academy/ESA_and_AfSA_join_forces_for_systems_engineering_training" >🔗</a> **[ESA]** ESA and AfSA join forces for systems engineering training
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251104T230143">2025-11-04 23:01:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251104T233200">2025-11-04 23:32:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
