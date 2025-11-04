@@ -90,6 +90,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/why-the-u-s-shouldnt-simply-race-to-lagrange-points/" >🔗</a> **[SpaceNews]** Why the U.S. shouldn’t simply race to Lagrange points
 - <a href="https://spacenews.com/intuitive-machines-to-acquire-lanteris-space-systems/" >🔗</a> **[SpaceNews]** Intuitive Machines to acquire Lanteris Space Systems
 - <a href="https://spacenews.com/qa-the-pace-is-picking-up-for-astroscale/" >🔗</a> **[SpaceNews]** Q&A: The pace is picking up for Astroscale
 - <a href="https://spacenews.com/china-conducts-ground-tests-on-inflatable-reconfigurable-space-manufacturing-module/" >🔗</a> **[SpaceNews]** China conducts ground tests on inflatable, reconfigurable space manufacturing module
@@ -99,7 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/lawmakers-warn-uk-must-act-now-to-get-space-ambitions-back-on-track/" >🔗</a> **[SpaceNews]** Lawmakers warn UK must act now to get space ambitions back on track
 - <a href="https://www.nasaspaceflight.com/2025/11/launch-roundup-110325/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Ariane 6 and New Glenn set to launch during busy week
 - <a href="https://spacenews.com/latin-americas-space-momentum-takes-center-stage-at-latsat-2025/" >🔗</a> **[SpaceNews]** Latin America’s Space Momentum Takes Center Stage at LATSAT 2025
-- <a href="https://arstechnica.com/space/2025/11/capitol-hill-is-abuzz-with-talk-of-the-athena-plan-for-nasa/" >🔗</a> **[Arstechnica]** Capitol Hill is abuzz with talk of the “Athena” plan for NASA
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251104T140131">2025-11-04 14:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251104T143558">2025-11-04 14:35:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
