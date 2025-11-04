@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/telesat-eyes-december-2026-for-lightspeed-pathfinder-debut/" >🔗</a> **[SpaceNews]** Telesat eyes December 2026 for Lightspeed pathfinder debut
+- <a href="https://spacenews.com/ariane-6-launches-sentinel-1d-radar-imaging-satellite/" >🔗</a> **[SpaceNews]** Ariane 6 launches Sentinel-1D radar imaging satellite
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/11/Copernicus_Sentinel-1D_launch_coverage" >🔗</a> **[ESA]** Copernicus Sentinel-1D launch coverage
+- <a href="https://europeanspaceflight.com/arianespace-launches-sentinel-1d-aboard-ariane-6-rocket/" >🔗</a> **[European Spaceflight]** Arianespace Launches Sentinel-1D Aboard Ariane 6 Rocket
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/11/Sentinel-1D_is_launched_on_Ariane_6" >🔗</a> **[ESA]** Sentinel-1D is launched on Ariane 6
 - <a href="https://www.nasaspaceflight.com/2025/11/sentinel-1d-launch/" >🔗</a> **[NASASpaceflight]** Ariane 6 poised to launch the Sentinel-1D Earth observation satellite
 - <a href="https://spacenews.com/analysts-say-experience-not-funding-is-hindering-european-smallsat-launchers/" >🔗</a> **[SpaceNews]** Analysts say experience, not funding, is hindering European smallsat launchers
 - <a href="https://spacenews.com/ses-leans-on-sky-perfect-jsat-as-inflight-demand-outpaces-expanded-fleet/" >🔗</a> **[SpaceNews]** SES leans on SKY Perfect JSAT as inflight demand outpaces expanded fleet
 - <a href="https://spacenews.com/geopolitical-shifts-and-ai-reshapes-earth-observation-market/" >🔗</a> **[SpaceNews]** Geopolitical Shifts and AI Reshapes Earth Observation Market
 - <a href="https://www.esa.int/Education/ESA_Academy/ESA_and_AfSA_join_forces_for_systems_engineering_training" >🔗</a> **[ESA]** ESA and AfSA join forces for systems engineering training
-- <a href="https://spacenews.com/why-the-u-s-shouldnt-simply-race-to-lagrange-points/" >🔗</a> **[SpaceNews]** Why the U.S. shouldn’t simply race to Lagrange points
-- <a href="https://spacenews.com/intuitive-machines-to-acquire-lanteris-space-systems/" >🔗</a> **[SpaceNews]** Intuitive Machines to acquire Lanteris Space Systems
-- <a href="https://spacenews.com/qa-the-pace-is-picking-up-for-astroscale/" >🔗</a> **[SpaceNews]** Q&A: The pace is picking up for Astroscale
-- <a href="https://spacenews.com/china-conducts-ground-tests-on-inflatable-reconfigurable-space-manufacturing-module/" >🔗</a> **[SpaceNews]** China conducts ground tests on inflatable, reconfigurable space manufacturing module
-- <a href="https://spacenews.com/for-new-lunar-collaboration-look-to-india-and-japan/" >🔗</a> **[SpaceNews]** For new lunar collaboration, look to India and Japan
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251104T220151">2025-11-04 22:01:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251104T223415">2025-11-04 22:34:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
