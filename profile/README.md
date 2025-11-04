@@ -90,6 +90,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/ohb-purchases-remaining-stake-in-mt-aerospace/" >🔗</a> **[European Spaceflight]** OHB Purchases Remaining Stake in MT Aerospace
 - <a href="https://spacenews.com/lawmakers-warn-uk-must-act-now-to-get-space-ambitions-back-on-track/" >🔗</a> **[SpaceNews]** Lawmakers warn UK must act now to get space ambitions back on track
 - <a href="https://www.nasaspaceflight.com/2025/11/launch-roundup-110325/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Ariane 6 and New Glenn set to launch during busy week
 - <a href="https://spacenews.com/latin-americas-space-momentum-takes-center-stage-at-latsat-2025/" >🔗</a> **[SpaceNews]** Latin America’s Space Momentum Takes Center Stage at LATSAT 2025
@@ -99,7 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasaspaceflight.com/2025/11/vast-haven-1-update/" >🔗</a> **[NASASpaceflight]** Vast completes Haven-1 structural testing, launches pathfinder mission
 - <a href="https://spacenews.com/why-the-moon-is-not-the-south-china-sea-reframing-lunar-space-ahead-of-the-next-race/" >🔗</a> **[SpaceNews]** Why the moon is not the South China Sea: reframing lunar space ahead of the next ‘race’
 - <a href="https://spacenews.com/china-launches-first-geo-yaogan-satellite-as-india-lofts-record-mass-commsat/" >🔗</a> **[SpaceNews]** China launches first GEO Yaogan satellite as India lofts record-mass commsat
-- <a href="https://spacenews.com/on-the-eve-of-the-isss-25th-anniversary-humanity-stares-down-a-gap-in-its-presence-in-space/" >🔗</a> **[SpaceNews]** On the eve of the ISS’s 25th anniversary, humanity stares down a gap in its presence in space
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251104T090143">2025-11-04 09:01:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251104T093523">2025-11-04 09:35:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
