@@ -90,6 +90,8 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/for-new-lunar-collaboration-look-to-india-and-japan/" >🔗</a> **[SpaceNews]** For new lunar collaboration, look to India and Japan
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/11/View_from_above_Ariane_6_for_Sentinel-1D_on_the_launch_pad" >🔗</a> **[ESA]** View from above: Ariane 6 for Sentinel-1D on the launch pad
 - <a href="https://europeanspaceflight.com/ohb-purchases-remaining-stake-in-mt-aerospace/" >🔗</a> **[European Spaceflight]** OHB Purchases Remaining Stake in MT Aerospace
 - <a href="https://spacenews.com/lawmakers-warn-uk-must-act-now-to-get-space-ambitions-back-on-track/" >🔗</a> **[SpaceNews]** Lawmakers warn UK must act now to get space ambitions back on track
 - <a href="https://www.nasaspaceflight.com/2025/11/launch-roundup-110325/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Ariane 6 and New Glenn set to launch during busy week
@@ -98,8 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_and_Ariane_6_ready_for_liftoff" >🔗</a> **[ESA]** Sentinel-1D and Ariane 6 ready for liftoff
 - <a href="https://spacenews.com/johns-hopkins-spacenews-launch-discussion-series-focused-on-the-future-of-space-exploration/" >🔗</a> **[SpaceNews]** Johns Hopkins, SpaceNews launch discussion series focused on the future of space  exploration
 - <a href="https://www.nasaspaceflight.com/2025/11/vast-haven-1-update/" >🔗</a> **[NASASpaceflight]** Vast completes Haven-1 structural testing, launches pathfinder mission
-- <a href="https://spacenews.com/why-the-moon-is-not-the-south-china-sea-reframing-lunar-space-ahead-of-the-next-race/" >🔗</a> **[SpaceNews]** Why the moon is not the South China Sea: reframing lunar space ahead of the next ‘race’
-- <a href="https://spacenews.com/china-launches-first-geo-yaogan-satellite-as-india-lofts-record-mass-commsat/" >🔗</a> **[SpaceNews]** China launches first GEO Yaogan satellite as India lofts record-mass commsat
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251104T100150">2025-11-04 10:01:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251104T103738">2025-11-04 10:37:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
