@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/esa-advances-ers-program-marking-shift-toward-dual-use-and-defense/" >🔗</a> **[SpaceNews]** ESA advances ERS program, marking shift toward dual-use and defense
 - <a href="https://spacenews.com/astranis-unveils-vanguard-for-secure-beyond-line-of-sight-satellite-communications/" >🔗</a> **[SpaceNews]** Astranis unveils Vanguard for secure beyond-line-of-sight satellite communications
 - <a href="https://europeanspaceflight.com/exomars-rover-ramp-built-by-polands-astronika-passes-key-milestone/" >🔗</a> **[European Spaceflight]** ExoMars Rover Ramp Built by Poland’s Astronika Passes Key Milestone
 - <a href="https://spacenews.com/accelerate-u-s-lunar-exploration-with-a-robotic-sample-return-campaign/" >🔗</a> **[SpaceNews]** Accelerate U.S. lunar exploration with a robotic sample return campaign
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/german-satellite-maker-reflex-aerospace-closes-e50m-funding-round/" >🔗</a> **[European Spaceflight]** German Satellite Maker Reflex Aerospace Closes €50M Funding Round
 - <a href="https://spacenews.com/china-delays-shenzhou-20-crew-return-after-suspected-space-debris-impact/" >🔗</a> **[SpaceNews]** China delays Shenzhou-20 crew return after suspected space debris impact
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/11/Euclid_peers_through_a_dark_cloud_s_dusty_veil" >🔗</a> **[ESA]** Euclid peers through a dark cloud’s dusty veil
-- <a href="https://spacepolicyonline.com/news/china-delays-shenzhou-20-crews-return-due-to-possible-debris-strike/" >🔗</a> **[SpacePolicyOnline.com]** China Delays Shenzhou-20 Crew’s Return Due to Possible Debris Strike
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251105T190110">2025-11-05 19:01:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251105T193111">2025-11-05 19:31:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
