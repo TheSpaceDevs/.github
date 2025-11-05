@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/iceye-unveils-guaranteed-imagery-service-as-satellite-firms-vie-for-defense-customers/" >🔗</a> **[SpaceNews]** Iceye unveils ‘guaranteed’ imagery service as satellite firms vie for defense customers
+- <a href="https://www.nasaspaceflight.com/2025/11/new-glenn-flight2-static-fire/" >🔗</a> **[NASASpaceflight]** New Glenn’s successful static fire test clears way for launch of ESCAPADE mission
 - <a href="https://spacenews.com/esa-advances-ers-program-marking-shift-toward-dual-use-and-defense/" >🔗</a> **[SpaceNews]** ESA advances ERS program, marking shift toward dual-use and defense
 - <a href="https://spacenews.com/astranis-unveils-vanguard-for-secure-beyond-line-of-sight-satellite-communications/" >🔗</a> **[SpaceNews]** Astranis unveils Vanguard for secure beyond-line-of-sight satellite communications
 - <a href="https://europeanspaceflight.com/exomars-rover-ramp-built-by-polands-astronika-passes-key-milestone/" >🔗</a> **[European Spaceflight]** ExoMars Rover Ramp Built by Poland’s Astronika Passes Key Milestone
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/deloittes-payloads-will-test-whether-satellites-can-defend-themselves/" >🔗</a> **[SpaceNews]** The race to defend satellites from cyberattacks
 - <a href="https://spacenews.com/reflex-aerospace-raises-50-million-euros/" >🔗</a> **[SpaceNews]** Reflex Aerospace raises 50 million euros
 - <a href="https://europeanspaceflight.com/german-satellite-maker-reflex-aerospace-closes-e50m-funding-round/" >🔗</a> **[European Spaceflight]** German Satellite Maker Reflex Aerospace Closes €50M Funding Round
-- <a href="https://spacenews.com/china-delays-shenzhou-20-crew-return-after-suspected-space-debris-impact/" >🔗</a> **[SpaceNews]** China delays Shenzhou-20 crew return after suspected space debris impact
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/11/Euclid_peers_through_a_dark_cloud_s_dusty_veil" >🔗</a> **[ESA]** Euclid peers through a dark cloud’s dusty veil
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251105T210115">2025-11-05 21:01:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251105T213151">2025-11-05 21:31:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
