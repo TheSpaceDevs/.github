@@ -92,6 +92,7 @@ into *a Low Earth Orbit
 ### Latest News ⌛
 - <a href="https://spacenews.com/white-house-renominates-isaacman-to-be-nasa-administrator/" >🔗</a> **[SpaceNews]** White House renominates Isaacman to be NASA administrator
 - <a href="https://spacepolicyonline.com/news/trump-will-re-nominate-isaacman-for-nasa-administrator/" >🔗</a> **[SpacePolicyOnline.com]** Trump Will Re-Nominate Isaacman for NASA Administrator
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/11/Copernicus_Sentinel-1D_launch_highlights" >🔗</a> **[ESA]** Copernicus Sentinel-1D launch highlights
 - <a href="https://spaceflightnow.com/2025/11/04/president-trump-renominates-commercial-astronaut-jared-isaacman-for-nasa-administrator-position/" >🔗</a> **[Spaceflight Now]** President Trump renominates commercial astronaut Jared Isaacman for NASA administrator
 - <a href="https://arstechnica.com/science/2025/11/googles-new-weather-model-impressed-during-its-first-hurricane-season/" >🔗</a> **[Arstechnica]** Google’s new weather model impressed during its first hurricane season
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_reaches_orbit_on_Ariane_6" >🔗</a> **[ESA]** Sentinel-1D reaches orbit on Ariane 6
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/ariane-6-launches-sentinel-1d-radar-imaging-satellite/" >🔗</a> **[SpaceNews]** Ariane 6 launches Sentinel-1D radar imaging satellite
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/11/Copernicus_Sentinel-1D_launch_coverage" >🔗</a> **[ESA]** Copernicus Sentinel-1D launch coverage
 - <a href="https://europeanspaceflight.com/arianespace-launches-sentinel-1d-aboard-ariane-6-rocket/" >🔗</a> **[European Spaceflight]** Arianespace Launches Sentinel-1D Aboard Ariane 6 Rocket
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/11/Sentinel-1D_is_launched_on_Ariane_6" >🔗</a> **[ESA]** Sentinel-1D is launched on Ariane 6
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251105T000509">2025-11-05 00:05:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251105T004556">2025-11-05 00:45:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
