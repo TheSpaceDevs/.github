@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/accelerate-u-s-lunar-exploration-with-a-robotic-sample-return-campaign/" >🔗</a> **[SpaceNews]** Accelerate U.S. lunar exploration with a robotic sample return campaign
+- <a href="https://spacenews.com/crafting-a-democratic-space-policy-in-the-trump-era/" >🔗</a> **[SpaceNews]** Crafting a Democratic space policy in the Trump era
 - <a href="https://spacenews.com/deloittes-payloads-will-test-whether-satellites-can-defend-themselves/" >🔗</a> **[SpaceNews]** The race to defend satellites from cyberattacks
 - <a href="https://spacenews.com/reflex-aerospace-raises-50-million-euros/" >🔗</a> **[SpaceNews]** Reflex Aerospace raises 50 million euros
 - <a href="https://europeanspaceflight.com/german-satellite-maker-reflex-aerospace-closes-e50m-funding-round/" >🔗</a> **[European Spaceflight]** German Satellite Maker Reflex Aerospace Closes €50M Funding Round
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/china-delays-shenzhou-20-crews-return-due-to-possible-debris-strike/" >🔗</a> **[SpacePolicyOnline.com]** China Delays Shenzhou-20 Crew’s Return Due to Possible Debris Strike
 - <a href="https://www.nasaspaceflight.com/2025/11/trump-re-nominates-isaacman-nasa-admin/" >🔗</a> **[NASASpaceflight]** Trump re-nominates Jared Isaacman as NASA Administrator
 - <a href="https://spaceflightnow.com/2025/11/05/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral
-- <a href="https://arstechnica.com/space/2025/11/in-a-stunning-comeback-jared-isaacman-is-renominated-to-lead-nasa/" >🔗</a> **[Arstechnica]** In a stunning comeback, Jared Isaacman is renominated to lead NASA
-- <a href="https://spacenews.com/white-house-renominates-isaacman-to-be-nasa-administrator/" >🔗</a> **[SpaceNews]** White House renominates Isaacman to be NASA administrator
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251105T131027">2025-11-05 13:10:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251105T133949">2025-11-05 13:39:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
