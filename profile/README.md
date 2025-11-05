@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/german-satellite-maker-reflex-aerospace-closes-e50m-funding-round/" >🔗</a> **[European Spaceflight]** German Satellite Maker Reflex Aerospace Closes €50M Funding Round
+- <a href="https://spacenews.com/china-delays-shenzhou-20-crew-return-after-suspected-space-debris-impact/" >🔗</a> **[SpaceNews]** China delays Shenzhou-20 crew return after suspected space debris impact
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/11/Euclid_peers_through_a_dark_cloud_s_dusty_veil" >🔗</a> **[ESA]** Euclid peers through a dark cloud’s dusty veil
 - <a href="https://spacepolicyonline.com/news/china-delays-shenzhou-20-crews-return-due-to-possible-debris-strike/" >🔗</a> **[SpacePolicyOnline.com]** China Delays Shenzhou-20 Crew’s Return Due to Possible Debris Strike
 - <a href="https://www.nasaspaceflight.com/2025/11/trump-re-nominates-isaacman-nasa-admin/" >🔗</a> **[NASASpaceflight]** Trump re-nominates Jared Isaacman as NASA Administrator
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/white-house-renominates-isaacman-to-be-nasa-administrator/" >🔗</a> **[SpaceNews]** White House renominates Isaacman to be NASA administrator
 - <a href="https://spacepolicyonline.com/news/trump-will-re-nominate-isaacman-for-nasa-administrator/" >🔗</a> **[SpacePolicyOnline.com]** Trump Will Re-Nominate Isaacman for NASA Administrator
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/11/Copernicus_Sentinel-1D_launch_highlights" >🔗</a> **[ESA]** Copernicus Sentinel-1D launch highlights
-- <a href="https://spaceflightnow.com/2025/11/04/president-trump-renominates-commercial-astronaut-jared-isaacman-for-nasa-administrator-position/" >🔗</a> **[Spaceflight Now]** President Trump renominates commercial astronaut Jared Isaacman for NASA administrator
-- <a href="https://arstechnica.com/science/2025/11/googles-new-weather-model-impressed-during-its-first-hurricane-season/" >🔗</a> **[Arstechnica]** Google’s new weather model impressed during its first hurricane season
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251105T100155">2025-11-05 10:01:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251105T103641">2025-11-05 10:36:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
