@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/deloittes-payloads-will-test-whether-satellites-can-defend-themselves/" >🔗</a> **[SpaceNews]** The race to defend satellites from cyberattacks
+- <a href="https://spacenews.com/reflex-aerospace-raises-50-million-euros/" >🔗</a> **[SpaceNews]** Reflex Aerospace raises 50 million euros
 - <a href="https://europeanspaceflight.com/german-satellite-maker-reflex-aerospace-closes-e50m-funding-round/" >🔗</a> **[European Spaceflight]** German Satellite Maker Reflex Aerospace Closes €50M Funding Round
 - <a href="https://spacenews.com/china-delays-shenzhou-20-crew-return-after-suspected-space-debris-impact/" >🔗</a> **[SpaceNews]** China delays Shenzhou-20 crew return after suspected space debris impact
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/11/Euclid_peers_through_a_dark_cloud_s_dusty_veil" >🔗</a> **[ESA]** Euclid peers through a dark cloud’s dusty veil
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/11/05/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://arstechnica.com/space/2025/11/in-a-stunning-comeback-jared-isaacman-is-renominated-to-lead-nasa/" >🔗</a> **[Arstechnica]** In a stunning comeback, Jared Isaacman is renominated to lead NASA
 - <a href="https://spacenews.com/white-house-renominates-isaacman-to-be-nasa-administrator/" >🔗</a> **[SpaceNews]** White House renominates Isaacman to be NASA administrator
-- <a href="https://spacepolicyonline.com/news/trump-will-re-nominate-isaacman-for-nasa-administrator/" >🔗</a> **[SpacePolicyOnline.com]** Trump Will Re-Nominate Isaacman for NASA Administrator
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/11/Copernicus_Sentinel-1D_launch_highlights" >🔗</a> **[ESA]** Copernicus Sentinel-1D launch highlights
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251105T120209">2025-11-05 12:02:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251105T124330">2025-11-05 12:43:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
