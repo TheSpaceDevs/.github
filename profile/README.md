@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/china-delays-shenzhou-20-crews-return-due-to-possible-debris-strike/" >🔗</a> **[SpacePolicyOnline.com]** China Delays Shenzhou-20 Crew’s Return Due to Possible Debris Strike
 - <a href="https://www.nasaspaceflight.com/2025/11/trump-re-nominates-isaacman-nasa-admin/" >🔗</a> **[NASASpaceflight]** Trump re-nominates Jared Isaacman as NASA Administrator
 - <a href="https://spaceflightnow.com/2025/11/05/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://arstechnica.com/space/2025/11/in-a-stunning-comeback-jared-isaacman-is-renominated-to-lead-nasa/" >🔗</a> **[Arstechnica]** In a stunning comeback, Jared Isaacman is renominated to lead NASA
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/11/04/president-trump-renominates-commercial-astronaut-jared-isaacman-for-nasa-administrator-position/" >🔗</a> **[Spaceflight Now]** President Trump renominates commercial astronaut Jared Isaacman for NASA administrator
 - <a href="https://arstechnica.com/science/2025/11/googles-new-weather-model-impressed-during-its-first-hurricane-season/" >🔗</a> **[Arstechnica]** Google’s new weather model impressed during its first hurricane season
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_reaches_orbit_on_Ariane_6" >🔗</a> **[ESA]** Sentinel-1D reaches orbit on Ariane 6
-- <a href="https://spacenews.com/telesat-eyes-december-2026-for-lightspeed-pathfinder-debut/" >🔗</a> **[SpaceNews]** Telesat eyes December 2026 for Lightspeed pathfinder debut
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251105T040159">2025-11-05 04:01:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251105T043559">2025-11-05 04:35:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
