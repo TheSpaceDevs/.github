@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/11/05/live-coverage-ula-to-launch-viasat-3-communications-satellite-on-atlas-5-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: ULA to launch ViaSat-3 communications satellite on Atlas 5 rocket from Cape Canaveral
 - <a href="https://spacenews.com/iceye-unveils-guaranteed-imagery-service-as-satellite-firms-vie-for-defense-customers/" >🔗</a> **[SpaceNews]** Iceye unveils ‘guaranteed’ imagery service as satellite firms vie for defense customers
 - <a href="https://www.nasaspaceflight.com/2025/11/new-glenn-flight2-static-fire/" >🔗</a> **[NASASpaceflight]** New Glenn’s successful static fire test clears way for launch of ESCAPADE mission
 - <a href="https://spacenews.com/esa-advances-ers-program-marking-shift-toward-dual-use-and-defense/" >🔗</a> **[SpaceNews]** ESA advances ERS program, marking shift toward dual-use and defense
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/crafting-a-democratic-space-policy-in-the-trump-era/" >🔗</a> **[SpaceNews]** Crafting a Democratic space policy in the Trump era
 - <a href="https://spacenews.com/deloittes-payloads-will-test-whether-satellites-can-defend-themselves/" >🔗</a> **[SpaceNews]** The race to defend satellites from cyberattacks
 - <a href="https://spacenews.com/reflex-aerospace-raises-50-million-euros/" >🔗</a> **[SpaceNews]** Reflex Aerospace raises 50 million euros
-- <a href="https://europeanspaceflight.com/german-satellite-maker-reflex-aerospace-closes-e50m-funding-round/" >🔗</a> **[European Spaceflight]** German Satellite Maker Reflex Aerospace Closes €50M Funding Round
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251105T220147">2025-11-05 22:01:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251105T223431">2025-11-05 22:34:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
