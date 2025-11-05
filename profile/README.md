@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/11/in-a-stunning-comeback-jared-isaacman-is-renominated-to-lead-nasa/" >🔗</a> **[Arstechnica]** In a stunning comeback, Jared Isaacman is renominated to lead NASA
 - <a href="https://spacenews.com/white-house-renominates-isaacman-to-be-nasa-administrator/" >🔗</a> **[SpaceNews]** White House renominates Isaacman to be NASA administrator
 - <a href="https://spacepolicyonline.com/news/trump-will-re-nominate-isaacman-for-nasa-administrator/" >🔗</a> **[SpacePolicyOnline.com]** Trump Will Re-Nominate Isaacman for NASA Administrator
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/11/Copernicus_Sentinel-1D_launch_highlights" >🔗</a> **[ESA]** Copernicus Sentinel-1D launch highlights
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/telesat-eyes-december-2026-for-lightspeed-pathfinder-debut/" >🔗</a> **[SpaceNews]** Telesat eyes December 2026 for Lightspeed pathfinder debut
 - <a href="https://spacenews.com/ariane-6-launches-sentinel-1d-radar-imaging-satellite/" >🔗</a> **[SpaceNews]** Ariane 6 launches Sentinel-1D radar imaging satellite
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/11/Copernicus_Sentinel-1D_launch_coverage" >🔗</a> **[ESA]** Copernicus Sentinel-1D launch coverage
-- <a href="https://europeanspaceflight.com/arianespace-launches-sentinel-1d-aboard-ariane-6-rocket/" >🔗</a> **[European Spaceflight]** Arianespace Launches Sentinel-1D Aboard Ariane 6 Rocket
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251105T004556">2025-11-05 00:45:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251105T012909">2025-11-05 01:29:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
