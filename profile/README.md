@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/sceye-wins-nasa-award-for-stratospheric-earth-observations/" >🔗</a> **[SpaceNews]** Sceye wins NASA award for stratospheric Earth observations
+- <a href="https://spaceflightnow.com/2025/11/06/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-4/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://arstechnica.com/space/2025/11/after-russian-spaceport-firm-fails-to-pay-bills-electric-company-turns-the-lights-off/" >🔗</a> **[Arstechnica]** After Russian spaceport firm fails to pay bills, electric company turns the lights off
 - <a href="https://spacenews.com/echostar-sells-more-direct-to-device-spectrum-for-bigger-spacex-stake/" >🔗</a> **[SpaceNews]** EchoStar sells more direct-to-device spectrum for bigger SpaceX stake
 - <a href="https://spacenews.com/d-orbit-and-mhackeroni-conduct-in-orbit-cybersecurity-competition/" >🔗</a> **[SpaceNews]** D-Orbit and mhackeroni conduct in-orbit cybersecurity competition
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/who-has-the-best-map-of-orbit/" >🔗</a> **[SpaceNews]** Who has the best map of orbit?
 - <a href="https://spacenews.com/nuclear-energy-is-key-to-american-leadership-in-space/" >🔗</a> **[SpaceNews]** Nuclear energy is key to American leadership in space
 - <a href="https://spacenews.com/managing-space-domain-awareness-data-has-become-a-greater-challenge-than-collecting-it/" >🔗</a> **[SpaceNews]** Managing space domain awareness data has become a greater challenge than collecting it
-- <a href="https://spacenews.com/isaacman-renomination-wins-support-from-much-of-the-space-industry/" >🔗</a> **[SpaceNews]** Isaacman renomination wins support from much of the space industry
-- <a href="https://spacenews.com/second-new-glenn-launch-set-for-nov-9/" >🔗</a> **[SpaceNews]** Second New Glenn launch set for Nov. 9
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251106T190109">2025-11-06 19:01:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251106T193100">2025-11-06 19:31:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
