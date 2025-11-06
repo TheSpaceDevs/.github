@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/isaacman-renomination-wins-support-from-much-of-the-space-industry/" >🔗</a> **[SpaceNews]** Isaacman renomination wins support from much of the space industry
 - <a href="https://spacenews.com/second-new-glenn-launch-set-for-nov-9/" >🔗</a> **[SpaceNews]** Second New Glenn launch set for Nov. 9
 - <a href="https://spacenews.com/rocket-lab-launches-sixth-iqps-satellite/" >🔗</a> **[SpaceNews]** Rocket Lab launches sixth iQPS satellite
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/HydroGNSS/ESA_s_HydroGNSS_Scout_satellites_ready_for_launch" >🔗</a> **[ESA]** ESA’s HydroGNSS Scout satellites ready for launch
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2025/11/new-glenn-flight2-static-fire/" >🔗</a> **[NASASpaceflight]** New Glenn’s successful static fire test clears way for launch of ESCAPADE mission
 - <a href="https://spacenews.com/esa-advances-ers-program-marking-shift-toward-dual-use-and-defense/" >🔗</a> **[SpaceNews]** ESA advances ERS program, marking shift toward dual-use and defense
 - <a href="https://spacenews.com/astranis-unveils-vanguard-for-secure-beyond-line-of-sight-satellite-communications/" >🔗</a> **[SpaceNews]** Astranis unveils Vanguard for secure beyond-line-of-sight satellite communications
-- <a href="https://europeanspaceflight.com/exomars-rover-ramp-built-by-polands-astronika-passes-key-milestone/" >🔗</a> **[European Spaceflight]** ExoMars Rover Ramp Built by Poland’s Astronika Passes Key Milestone
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251106T110116">2025-11-06 11:01:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251106T113147">2025-11-06 11:31:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
