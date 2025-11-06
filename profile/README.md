@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://spacenews.com/rocket-lab-launches-sixth-iqps-satellite/" >🔗</a> **[SpaceNews]** Rocket Lab launches sixth iQPS satellite
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/HydroGNSS/ESA_s_HydroGNSS_Scout_satellites_ready_for_launch" >🔗</a> **[ESA]** ESA’s HydroGNSS Scout satellites ready for launch
 - <a href="https://spaceflightnow.com/2025/11/05/live-coverage-ula-to-launch-viasat-3-communications-satellite-on-atlas-5-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: ULA to launch ViaSat-3 communications satellite on Atlas 5 rocket from Cape Canaveral
 - <a href="https://spacenews.com/iceye-unveils-guaranteed-imagery-service-as-satellite-firms-vie-for-defense-customers/" >🔗</a> **[SpaceNews]** Iceye unveils ‘guaranteed’ imagery service as satellite firms vie for defense customers
 - <a href="https://www.nasaspaceflight.com/2025/11/new-glenn-flight2-static-fire/" >🔗</a> **[NASASpaceflight]** New Glenn’s successful static fire test clears way for launch of ESCAPADE mission
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/exomars-rover-ramp-built-by-polands-astronika-passes-key-milestone/" >🔗</a> **[European Spaceflight]** ExoMars Rover Ramp Built by Poland’s Astronika Passes Key Milestone
 - <a href="https://spacenews.com/accelerate-u-s-lunar-exploration-with-a-robotic-sample-return-campaign/" >🔗</a> **[SpaceNews]** Accelerate U.S. lunar exploration with a robotic sample return campaign
 - <a href="https://spacenews.com/crafting-a-democratic-space-policy-in-the-trump-era/" >🔗</a> **[SpaceNews]** Crafting a Democratic space policy in the Trump era
-- <a href="https://spacenews.com/deloittes-payloads-will-test-whether-satellites-can-defend-themselves/" >🔗</a> **[SpaceNews]** The race to defend satellites from cyberattacks
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251106T090158">2025-11-06 09:01:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251106T093513">2025-11-06 09:35:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
