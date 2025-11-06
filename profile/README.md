@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nuclear-energy-is-key-to-american-leadership-in-space/" >🔗</a> **[SpaceNews]** Nuclear energy is key to American leadership in space
+- <a href="https://spacenews.com/who-has-the-best-map-of-orbit/" >🔗</a> **[SpaceNews]** Who has the best map of orbit?
 - <a href="https://spacenews.com/managing-space-domain-awareness-data-has-become-a-greater-challenge-than-collecting-it/" >🔗</a> **[SpaceNews]** Managing space domain awareness data has become a greater challenge than collecting it
 - <a href="https://spacenews.com/isaacman-renomination-wins-support-from-much-of-the-space-industry/" >🔗</a> **[SpaceNews]** Isaacman renomination wins support from much of the space industry
 - <a href="https://spacenews.com/second-new-glenn-launch-set-for-nov-9/" >🔗</a> **[SpaceNews]** Second New Glenn launch set for Nov. 9
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/HydroGNSS/ESA_s_HydroGNSS_Scout_satellites_ready_for_launch" >🔗</a> **[ESA]** ESA’s HydroGNSS Scout satellites ready for launch
 - <a href="https://spaceflightnow.com/2025/11/05/live-coverage-ula-to-launch-viasat-3-communications-satellite-on-atlas-5-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: ULA to launch ViaSat-3 communications satellite on Atlas 5 rocket from Cape Canaveral
 - <a href="https://spacenews.com/iceye-unveils-guaranteed-imagery-service-as-satellite-firms-vie-for-defense-customers/" >🔗</a> **[SpaceNews]** Iceye unveils ‘guaranteed’ imagery service as satellite firms vie for defense customers
-- <a href="https://www.nasaspaceflight.com/2025/11/new-glenn-flight2-static-fire/" >🔗</a> **[NASASpaceflight]** New Glenn’s successful static fire test clears way for launch of ESCAPADE mission
-- <a href="https://spacenews.com/esa-advances-ers-program-marking-shift-toward-dual-use-and-defense/" >🔗</a> **[SpaceNews]** ESA advances ERS program, marking shift toward dual-use and defense
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251106T131014">2025-11-06 13:10:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251106T133930">2025-11-06 13:39:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
