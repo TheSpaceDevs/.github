@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/11/after-russian-spaceport-firm-fails-to-pay-bills-electric-company-turns-the-lights-off/" >🔗</a> **[Arstechnica]** After Russian spaceport firm fails to pay bills, electric company turns the lights off
+- <a href="https://spacenews.com/echostar-sells-more-direct-to-device-spectrum-for-bigger-spacex-stake/" >🔗</a> **[SpaceNews]** EchoStar sells more direct-to-device spectrum for bigger SpaceX stake
+- <a href="https://spacenews.com/d-orbit-and-mhackeroni-conduct-in-orbit-cybersecurity-competition/" >🔗</a> **[SpaceNews]** D-Orbit and mhackeroni conduct in-orbit cybersecurity competition
 - <a href="https://europeanspaceflight.com/arianespace-aiming-for-as-many-as-eight-ariane-6-launches-in-2026/" >🔗</a> **[European Spaceflight]** Arianespace Aiming for As Many as Eight Ariane 6 Launches in 2026
 - <a href="https://spacenews.com/how-vast-plans-to-keep-humanity-in-orbit/" >🔗</a> **[SpaceNews]** How Vast plans to keep humanity in orbit
 - <a href="https://spacenews.com/who-has-the-best-map-of-orbit/" >🔗</a> **[SpaceNews]** Who has the best map of orbit?
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/managing-space-domain-awareness-data-has-become-a-greater-challenge-than-collecting-it/" >🔗</a> **[SpaceNews]** Managing space domain awareness data has become a greater challenge than collecting it
 - <a href="https://spacenews.com/isaacman-renomination-wins-support-from-much-of-the-space-industry/" >🔗</a> **[SpaceNews]** Isaacman renomination wins support from much of the space industry
 - <a href="https://spacenews.com/second-new-glenn-launch-set-for-nov-9/" >🔗</a> **[SpaceNews]** Second New Glenn launch set for Nov. 9
-- <a href="https://spacenews.com/rocket-lab-launches-sixth-iqps-satellite/" >🔗</a> **[SpaceNews]** Rocket Lab launches sixth iQPS satellite
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/HydroGNSS/ESA_s_HydroGNSS_Scout_satellites_ready_for_launch" >🔗</a> **[ESA]** ESA’s HydroGNSS Scout satellites ready for launch
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/11/Swoosh" >🔗</a> **[ESA]** Swoosh!
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251106T180205">2025-11-06 18:02:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251106T184023">2025-11-06 18:40:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
