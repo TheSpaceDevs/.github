@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/second-new-glenn-launch-set-for-nov-9/" >🔗</a> **[SpaceNews]** Second New Glenn launch set for Nov. 9
 - <a href="https://spacenews.com/rocket-lab-launches-sixth-iqps-satellite/" >🔗</a> **[SpaceNews]** Rocket Lab launches sixth iQPS satellite
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/HydroGNSS/ESA_s_HydroGNSS_Scout_satellites_ready_for_launch" >🔗</a> **[ESA]** ESA’s HydroGNSS Scout satellites ready for launch
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/11/Swoosh" >🔗</a> **[ESA]** Swoosh!
 - <a href="https://spaceflightnow.com/2025/11/05/live-coverage-ula-to-launch-viasat-3-communications-satellite-on-atlas-5-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: ULA to launch ViaSat-3 communications satellite on Atlas 5 rocket from Cape Canaveral
 - <a href="https://spacenews.com/iceye-unveils-guaranteed-imagery-service-as-satellite-firms-vie-for-defense-customers/" >🔗</a> **[SpaceNews]** Iceye unveils ‘guaranteed’ imagery service as satellite firms vie for defense customers
 - <a href="https://www.nasaspaceflight.com/2025/11/new-glenn-flight2-static-fire/" >🔗</a> **[NASASpaceflight]** New Glenn’s successful static fire test clears way for launch of ESCAPADE mission
 - <a href="https://spacenews.com/esa-advances-ers-program-marking-shift-toward-dual-use-and-defense/" >🔗</a> **[SpaceNews]** ESA advances ERS program, marking shift toward dual-use and defense
 - <a href="https://spacenews.com/astranis-unveils-vanguard-for-secure-beyond-line-of-sight-satellite-communications/" >🔗</a> **[SpaceNews]** Astranis unveils Vanguard for secure beyond-line-of-sight satellite communications
 - <a href="https://europeanspaceflight.com/exomars-rover-ramp-built-by-polands-astronika-passes-key-milestone/" >🔗</a> **[European Spaceflight]** ExoMars Rover Ramp Built by Poland’s Astronika Passes Key Milestone
-- <a href="https://spacenews.com/accelerate-u-s-lunar-exploration-with-a-robotic-sample-return-campaign/" >🔗</a> **[SpaceNews]** Accelerate U.S. lunar exploration with a robotic sample return campaign
-- <a href="https://spacenews.com/crafting-a-democratic-space-policy-in-the-trump-era/" >🔗</a> **[SpaceNews]** Crafting a Democratic space policy in the Trump era
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251106T100152">2025-11-06 10:01:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251106T103652">2025-11-06 10:36:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
