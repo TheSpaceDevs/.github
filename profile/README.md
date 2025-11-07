@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/11/Earth_from_Space_Branco_River_Brazil" >🔗</a> **[ESA]** Earth from Space: Branco River, Brazil
+- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Insects_on_the_space_menu" >🔗</a> **[ESA]** Insects on the space menu
 - <a href="https://spacepolicyonline.com/news/andy-stofan-former-nasa-lewis-center-director-and-space-station-aa-passes-away/" >🔗</a> **[SpacePolicyOnline.com]** Andy Stofan, Former NASA Lewis Center Director and Space Station AA Passes Away
 - <a href="https://spacenews.com/in-q-tel-invests-in-vast/" >🔗</a> **[SpaceNews]** In-Q-Tel invests in Vast
 - <a href="https://spaceflightnow.com/2025/11/06/live-coverage-atlas-5-makes-another-try-to-launch-viasat-3-f2-communications-satellite/" >🔗</a> **[Spaceflight Now]** Live coverage: Atlas 5 makes another try to launch ViaSat-3 F2 communications satellite
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/sceye-wins-nasa-award-for-stratospheric-earth-observations/" >🔗</a> **[SpaceNews]** Sceye wins NASA award for stratospheric Earth observations
 - <a href="https://spaceflightnow.com/2025/11/06/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-4/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://arstechnica.com/space/2025/11/after-russian-spaceport-firm-fails-to-pay-bills-electric-company-turns-the-lights-off/" >🔗</a> **[Arstechnica]** After Russian spaceport firm fails to pay bills, electric company turns the lights off
-- <a href="https://spacenews.com/echostar-sells-more-direct-to-device-spectrum-for-bigger-spacex-stake/" >🔗</a> **[SpaceNews]** EchoStar sells more direct-to-device spectrum for bigger SpaceX stake
-- <a href="https://spacenews.com/d-orbit-and-mhackeroni-conduct-in-orbit-cybersecurity-competition/" >🔗</a> **[SpaceNews]** D-Orbit and mhackeroni conduct in-orbit cybersecurity competition
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251107T090203">2025-11-07 09:02:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251107T093345">2025-11-07 09:33:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
