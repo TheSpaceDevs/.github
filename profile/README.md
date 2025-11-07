@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/the-next-generation-of-environmental-intelligence-why-high-resolution-satellite-imagery-must-power-our-planets-future/" >🔗</a> **[SpaceNews]** The next generation of environmental intelligence: Why high-resolution satellite imagery must power our planet’s future
 - <a href="https://europeanspaceflight.com/rheinmetall-and-iceye-partner-to-build-satellites-in-germany/" >🔗</a> **[European Spaceflight]** Rheinmetall and ICEYE Partner to Build Satellites in Germany
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/11/Earth_from_Space_Branco_River_Brazil" >🔗</a> **[ESA]** Earth from Space: Branco River, Brazil
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Insects_on_the_space_menu" >🔗</a> **[ESA]** Insects on the space menu
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/fcc-commissioner-warns-u-s-influence-on-satellite-spectrum-debates-could-wane/" >🔗</a> **[SpaceNews]** FCC commissioner warns U.S. influence on satellite spectrum debates could wane
 - <a href="https://spacenews.com/blacksky-hit-by-u-s-budget-cuts-but-international-demand-lifts-outlook/" >🔗</a> **[SpaceNews]** BlackSky hit by U.S. budget cuts, but international demand lifts outlook
 - <a href="https://spacenews.com/sceye-wins-nasa-award-for-stratospheric-earth-observations/" >🔗</a> **[SpaceNews]** Sceye wins NASA award for stratospheric Earth observations
-- <a href="https://spaceflightnow.com/2025/11/06/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-4/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251107T120200">2025-11-07 12:02:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251107T124322">2025-11-07 12:43:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
