@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ghgsat-continues-to-expand-its-methane-monitoring-constellation/" >🔗</a> **[SpaceNews]** GHGSat continues to expand its methane-monitoring constellation
+- <a href="https://spacenews.com/space-is-key-to-the-armys-long-march-to-a-connected-force/" >🔗</a> **[SpaceNews]** Space is key to the Army’s long march to a connected force
+- <a href="https://spacenews.com/faa-to-restrict-commercial-launches-during-government-shutdown/" >🔗</a> **[SpaceNews]** FAA to restrict commercial launches during government shutdown
 - <a href="https://spacenews.com/the-next-generation-of-environmental-intelligence-why-high-resolution-satellite-imagery-must-power-our-planets-future/" >🔗</a> **[SpaceNews]** The next generation of environmental intelligence: Why high-resolution satellite imagery must power our planet’s future
 - <a href="https://europeanspaceflight.com/rheinmetall-and-iceye-partner-to-build-satellites-in-germany/" >🔗</a> **[European Spaceflight]** Rheinmetall and ICEYE Partner to Build Satellites in Germany
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/11/Earth_from_Space_Branco_River_Brazil" >🔗</a> **[ESA]** Earth from Space: Branco River, Brazil
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/andy-stofan-former-nasa-lewis-center-director-and-space-station-aa-passes-away/" >🔗</a> **[SpacePolicyOnline.com]** Andy Stofan, Former NASA Lewis Center Director and Space Station AA Passes Away
 - <a href="https://spacenews.com/in-q-tel-invests-in-vast/" >🔗</a> **[SpaceNews]** In-Q-Tel invests in Vast
 - <a href="https://spaceflightnow.com/2025/11/06/live-coverage-atlas-5-makes-another-try-to-launch-viasat-3-f2-communications-satellite/" >🔗</a> **[Spaceflight Now]** Live coverage: Atlas 5 makes another try to launch ViaSat-3 F2 communications satellite
-- <a href="https://spacenews.com/fcc-commissioner-warns-u-s-influence-on-satellite-spectrum-debates-could-wane/" >🔗</a> **[SpaceNews]** FCC commissioner warns U.S. influence on satellite spectrum debates could wane
-- <a href="https://spacenews.com/blacksky-hit-by-u-s-budget-cuts-but-international-demand-lifts-outlook/" >🔗</a> **[SpaceNews]** BlackSky hit by U.S. budget cuts, but international demand lifts outlook
-- <a href="https://spacenews.com/sceye-wins-nasa-award-for-stratospheric-earth-observations/" >🔗</a> **[SpaceNews]** Sceye wins NASA award for stratospheric Earth observations
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251107T130902">2025-11-07 13:09:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251107T133726">2025-11-07 13:37:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
