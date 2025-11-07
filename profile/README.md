@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/in-q-tel-invests-in-vast/" >🔗</a> **[SpaceNews]** In-Q-Tel invests in Vast
 - <a href="https://spaceflightnow.com/2025/11/06/live-coverage-atlas-5-makes-another-try-to-launch-viasat-3-f2-communications-satellite/" >🔗</a> **[Spaceflight Now]** Live coverage: Atlas 5 makes another try to launch ViaSat-3 F2 communications satellite
 - <a href="https://spacenews.com/fcc-commissioner-warns-u-s-influence-on-satellite-spectrum-debates-could-wane/" >🔗</a> **[SpaceNews]** FCC commissioner warns U.S. influence on satellite spectrum debates could wane
 - <a href="https://spacenews.com/blacksky-hit-by-u-s-budget-cuts-but-international-demand-lifts-outlook/" >🔗</a> **[SpaceNews]** BlackSky hit by U.S. budget cuts, but international demand lifts outlook
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/echostar-sells-more-direct-to-device-spectrum-for-bigger-spacex-stake/" >🔗</a> **[SpaceNews]** EchoStar sells more direct-to-device spectrum for bigger SpaceX stake
 - <a href="https://spacenews.com/d-orbit-and-mhackeroni-conduct-in-orbit-cybersecurity-competition/" >🔗</a> **[SpaceNews]** D-Orbit and mhackeroni conduct in-orbit cybersecurity competition
 - <a href="https://europeanspaceflight.com/arianespace-aiming-for-as-many-as-eight-ariane-6-launches-in-2026/" >🔗</a> **[European Spaceflight]** Arianespace Aiming for As Many as Eight Ariane 6 Launches in 2026
-- <a href="https://spacenews.com/how-vast-plans-to-keep-humanity-in-orbit/" >🔗</a> **[SpaceNews]** How Vast plans to keep humanity in orbit
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251107T021305">2025-11-07 02:13:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251107T025731">2025-11-07 02:57:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
