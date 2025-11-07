@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ast-spacemobile-sheds-more-light-on-sovereign-direct-to-device-plan-for-europe/" >🔗</a> **[SpaceNews]** AST SpaceMobile sheds more light on sovereign direct-to-device plan for Europe
+- <a href="https://spacenews.com/hegseth-pledges-sweeping-overhaul-of-pentagon-procurement/" >🔗</a> **[SpaceNews]** Hegseth pledges sweeping overhaul of Pentagon procurement
 - <a href="https://spaceflightnow.com/2025/11/07/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-nasas-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from NASA’s Kennedy Space Center
 - <a href="https://spacepolicyonline.com/news/faas-shutdown-restrictions-on-air-travel-could-affect-space-launches-also/" >🔗</a> **[SpacePolicyOnline.com]** FAA’s Shutdown Restrictions on Air Travel Could Affect Space Launches Also
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/11/Copernicus_Sentinel-1D_journey_to_space" >🔗</a> **[ESA]** Copernicus Sentinel-1D journey to space
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/ghgsat-continues-to-expand-its-methane-monitoring-constellation/" >🔗</a> **[SpaceNews]** GHGSat continues to expand its methane-monitoring constellation
 - <a href="https://spacenews.com/space-is-key-to-the-armys-long-march-to-a-connected-force/" >🔗</a> **[SpaceNews]** Space is key to the Army’s long march to a connected force
 - <a href="https://spacenews.com/faa-to-restrict-commercial-launches-during-government-shutdown/" >🔗</a> **[SpaceNews]** FAA to restrict commercial launches during government shutdown
-- <a href="https://spacenews.com/the-next-generation-of-environmental-intelligence-why-high-resolution-satellite-imagery-must-power-our-planets-future/" >🔗</a> **[SpaceNews]** The next generation of environmental intelligence: Why high-resolution satellite imagery must power our planet’s future
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Space_for_our_climate/ESA_satellites_track_progress_on_Paris_Agreement_goals" >🔗</a> **[ESA]** ESA satellites track progress on Paris Agreement goals
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251107T230120">2025-11-07 23:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251107T233121">2025-11-07 23:31:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
