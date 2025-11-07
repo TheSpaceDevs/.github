@@ -90,6 +90,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/11/06/live-coverage-atlas-5-makes-another-try-to-launch-viasat-3-f2-communications-satellite/" >🔗</a> **[Spaceflight Now]** Live coverage: Atlas 5 makes another try to launch ViaSat-3 F2 communications satellite
 - <a href="https://spacenews.com/fcc-commissioner-warns-u-s-influence-on-satellite-spectrum-debates-could-wane/" >🔗</a> **[SpaceNews]** FCC commissioner warns U.S. influence on satellite spectrum debates could wane
 - <a href="https://spacenews.com/blacksky-hit-by-u-s-budget-cuts-but-international-demand-lifts-outlook/" >🔗</a> **[SpaceNews]** BlackSky hit by U.S. budget cuts, but international demand lifts outlook
 - <a href="https://spacenews.com/sceye-wins-nasa-award-for-stratospheric-earth-observations/" >🔗</a> **[SpaceNews]** Sceye wins NASA award for stratospheric Earth observations
@@ -99,7 +100,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spacenews.com/d-orbit-and-mhackeroni-conduct-in-orbit-cybersecurity-competition/" >🔗</a> **[SpaceNews]** D-Orbit and mhackeroni conduct in-orbit cybersecurity competition
 - <a href="https://europeanspaceflight.com/arianespace-aiming-for-as-many-as-eight-ariane-6-launches-in-2026/" >🔗</a> **[European Spaceflight]** Arianespace Aiming for As Many as Eight Ariane 6 Launches in 2026
 - <a href="https://spacenews.com/how-vast-plans-to-keep-humanity-in-orbit/" >🔗</a> **[SpaceNews]** How Vast plans to keep humanity in orbit
-- <a href="https://spacenews.com/who-has-the-best-map-of-orbit/" >🔗</a> **[SpaceNews]** Who has the best map of orbit?
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251106T233200">2025-11-06 23:32:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251107T000507">2025-11-07 00:05:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
