@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/11/07/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-nasas-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from NASA’s Kennedy Space Center
 - <a href="https://spacepolicyonline.com/news/faas-shutdown-restrictions-on-air-travel-could-affect-space-launches-also/" >🔗</a> **[SpacePolicyOnline.com]** FAA’s Shutdown Restrictions on Air Travel Could Affect Space Launches Also
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/11/Copernicus_Sentinel-1D_journey_to_space" >🔗</a> **[ESA]** Copernicus Sentinel-1D journey to space
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_03-07_November_2025" >🔗</a> **[ESA]** Week in images: 03-07 November 2025
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/faa-to-restrict-commercial-launches-during-government-shutdown/" >🔗</a> **[SpaceNews]** FAA to restrict commercial launches during government shutdown
 - <a href="https://spacenews.com/the-next-generation-of-environmental-intelligence-why-high-resolution-satellite-imagery-must-power-our-planets-future/" >🔗</a> **[SpaceNews]** The next generation of environmental intelligence: Why high-resolution satellite imagery must power our planet’s future
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Space_for_our_climate/ESA_satellites_track_progress_on_Paris_Agreement_goals" >🔗</a> **[ESA]** ESA satellites track progress on Paris Agreement goals
-- <a href="https://europeanspaceflight.com/rheinmetall-and-iceye-partner-to-build-satellites-in-germany/" >🔗</a> **[European Spaceflight]** Rheinmetall and ICEYE Partner to Build Satellites in Germany
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251107T193101">2025-11-07 19:31:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251107T200151">2025-11-07 20:01:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
