@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/11/08/live-coverage-blue-origin-to-launch-nasas-mars-bound-escapade-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: Blue Origin to launch NASA’s Mars-bound ESCAPADE mission
 - <a href="https://europeanspaceflight.com/atmos-to-launch-demonstration-mission-aboard-baguette-one-rocket/" >🔗</a> **[European Spaceflight]** ATMOS to Launch Demonstration Mission Aboard Baguette One Rocket
 - <a href="https://spacenews.com/ast-spacemobile-sheds-more-light-on-sovereign-direct-to-device-plan-for-europe/" >🔗</a> **[SpaceNews]** AST SpaceMobile sheds more light on sovereign direct-to-device plan for Europe
 - <a href="https://spacenews.com/hegseth-pledges-sweeping-overhaul-of-pentagon-procurement/" >🔗</a> **[SpaceNews]** Hegseth pledges sweeping overhaul of Pentagon procurement
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_03-07_November_2025" >🔗</a> **[ESA]** Week in images: 03-07 November 2025
 - <a href="https://spacenews.com/europes-lead-in-hyperspectral-earth-observation-depends-on-public-private-partnerships/" >🔗</a> **[SpaceNews]** Europe’s lead in hyperspectral Earth observation depends on public–private partnerships
 - <a href="https://spacenews.com/ghgsat-continues-to-expand-its-methane-monitoring-constellation/" >🔗</a> **[SpaceNews]** GHGSat continues to expand its methane-monitoring constellation
-- <a href="https://spacenews.com/space-is-key-to-the-armys-long-march-to-a-connected-force/" >🔗</a> **[SpaceNews]** Space is key to the Army’s long march to a connected force
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251108T190111">2025-11-08 19:01:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251108T193101">2025-11-08 19:31:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
