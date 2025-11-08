@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/atmos-to-launch-demonstration-mission-aboard-baguette-one-rocket/" >🔗</a> **[European Spaceflight]** ATMOS to Launch Demonstration Mission Aboard Baguette One Rocket
 - <a href="https://spacenews.com/ast-spacemobile-sheds-more-light-on-sovereign-direct-to-device-plan-for-europe/" >🔗</a> **[SpaceNews]** AST SpaceMobile sheds more light on sovereign direct-to-device plan for Europe
 - <a href="https://spacenews.com/hegseth-pledges-sweeping-overhaul-of-pentagon-procurement/" >🔗</a> **[SpaceNews]** Hegseth pledges sweeping overhaul of Pentagon procurement
 - <a href="https://spaceflightnow.com/2025/11/07/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-nasas-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from NASA’s Kennedy Space Center
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/europes-lead-in-hyperspectral-earth-observation-depends-on-public-private-partnerships/" >🔗</a> **[SpaceNews]** Europe’s lead in hyperspectral Earth observation depends on public–private partnerships
 - <a href="https://spacenews.com/ghgsat-continues-to-expand-its-methane-monitoring-constellation/" >🔗</a> **[SpaceNews]** GHGSat continues to expand its methane-monitoring constellation
 - <a href="https://spacenews.com/space-is-key-to-the-armys-long-march-to-a-connected-force/" >🔗</a> **[SpaceNews]** Space is key to the Army’s long march to a connected force
-- <a href="https://spacenews.com/faa-to-restrict-commercial-launches-during-government-shutdown/" >🔗</a> **[SpaceNews]** FAA to restrict commercial launches during government shutdown
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251108T050130">2025-11-08 05:01:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251108T053321">2025-11-08 05:33:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
