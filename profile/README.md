@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/intuitive-machines-sees-lanteris-deal-creating-new-opportunities-in-defense-and-exploration/" >🔗</a> **[SpaceNews]** Intuitive Machines sees Lanteris deal creating new opportunities in defense and exploration
 - <a href="https://spacenews.com/blue-origin-seeking-exemption-from-faa-order-restricting-commercial-launches/" >🔗</a> **[SpaceNews]** Blue Origin seeking exemption from FAA order restricting commercial launches
 - <a href="https://arstechnica.com/space/2025/11/blue-origin-will-move-heaven-and-earth-to-help-nasa-reach-the-moon-faster-ceo-says/" >🔗</a> **[Arstechnica]** Blue Origin will ‘move heaven and Earth’ to help NASA reach the Moon faster, CEO says
 - <a href="https://www.nasaspaceflight.com/2025/11/ng-2-escapade-launch/" >🔗</a> **[NASASpaceflight]** Blue Origin set to launch ESCAPADE on second New Glenn mission
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/hegseth-pledges-sweeping-overhaul-of-pentagon-procurement/" >🔗</a> **[SpaceNews]** Hegseth pledges sweeping overhaul of Pentagon procurement
 - <a href="https://spaceflightnow.com/2025/11/07/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-nasas-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from NASA’s Kennedy Space Center
 - <a href="https://spacepolicyonline.com/news/faas-shutdown-restrictions-on-air-travel-could-affect-space-launches-also/" >🔗</a> **[SpacePolicyOnline.com]** FAA’s Shutdown Restrictions on Air Travel Could Affect Space Launches Also
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/11/Copernicus_Sentinel-1D_journey_to_space" >🔗</a> **[ESA]** Copernicus Sentinel-1D journey to space
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251109T004559">2025-11-09 00:45:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251109T012904">2025-11-09 01:29:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
