@@ -90,6 +90,7 @@ into *a Mars Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-breaks-annual-launch-record-with-vleo-chutian-and-shiyan-technology-test-launches/" >🔗</a> **[SpaceNews]** China breaks annual launch record with VLEO Chutian and Shiyan technology test launches
 - <a href="https://spacepolicyonline.com/news/blue-origin-readies-second-new-glenn-mission-with-two-mars-cubesats-onboard/" >🔗</a> **[SpacePolicyOnline.com]** Blue Origin Readies Second New Glenn Mission With Two Mars Cubesats Onboard
 - <a href="https://spacenews.com/intuitive-machines-sees-lanteris-deal-creating-new-opportunities-in-defense-and-exploration/" >🔗</a> **[SpaceNews]** Intuitive Machines sees Lanteris deal creating new opportunities in defense and exploration
 - <a href="https://spacenews.com/blue-origin-seeking-exemption-from-faa-order-restricting-commercial-launches/" >🔗</a> **[SpaceNews]** Blue Origin seeking exemption from FAA order restricting commercial launches
@@ -99,7 +100,6 @@ into *a Mars Orbit
 - <a href="https://europeanspaceflight.com/atmos-to-launch-demonstration-mission-aboard-baguette-one-rocket/" >🔗</a> **[European Spaceflight]** ATMOS to Launch Demonstration Mission Aboard Baguette One Rocket
 - <a href="https://spacenews.com/ast-spacemobile-sheds-more-light-on-sovereign-direct-to-device-plan-for-europe/" >🔗</a> **[SpaceNews]** AST SpaceMobile sheds more light on sovereign direct-to-device plan for Europe
 - <a href="https://spacenews.com/hegseth-pledges-sweeping-overhaul-of-pentagon-procurement/" >🔗</a> **[SpaceNews]** Hegseth pledges sweeping overhaul of Pentagon procurement
-- <a href="https://spaceflightnow.com/2025/11/07/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-nasas-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from NASA’s Kennedy Space Center
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Mars Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251109T120214">2025-11-09 12:02:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251109T124255">2025-11-09 12:42:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
