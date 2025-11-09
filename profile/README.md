@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/11/tess-toi-2267/" >🔗</a> **[NASASpaceflight]** TESS finds three Earth-sized exoplanets orbiting binary stars
 - <a href="https://spacenews.com/blue-origin-scrubs-new-glenn-launch-of-escapade/" >🔗</a> **[SpaceNews]** Blue Origin scrubs New Glenn launch of ESCAPADE
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-9-15-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy November 9-15, 2025
 - <a href="https://spacenews.com/portal-space-systems-announces-highly-maneuverable-satellite-bus/" >🔗</a> **[SpaceNews]** Portal Space Systems announces highly maneuverable satellite bus
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/blue-origin-seeking-exemption-from-faa-order-restricting-commercial-launches/" >🔗</a> **[SpaceNews]** Blue Origin seeking exemption from FAA order restricting commercial launches
 - <a href="https://arstechnica.com/space/2025/11/blue-origin-will-move-heaven-and-earth-to-help-nasa-reach-the-moon-faster-ceo-says/" >🔗</a> **[Arstechnica]** Blue Origin will ‘move heaven and Earth’ to help NASA reach the Moon faster, CEO says
 - <a href="https://www.nasaspaceflight.com/2025/11/ng-2-escapade-launch/" >🔗</a> **[NASASpaceflight]** Blue Origin set to launch ESCAPADE on second New Glenn mission
-- <a href="https://spaceflightnow.com/2025/11/08/live-coverage-blue-origin-to-launch-nasas-mars-bound-escapade-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: Blue Origin to launch NASA’s Mars-bound ESCAPADE mission
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251109T230110">2025-11-09 23:01:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251109T233132">2025-11-09 23:31:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
