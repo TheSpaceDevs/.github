@@ -19,27 +19,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**New Glenn | EscaPADE**. It is scheduled to be launched by *Blue Origin*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Launch_Complex_36">Launch Complex 36A</a>, Cape Canaveral SFS, FL, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251109T194500">2025-11-09 19:45:00 UTC</a>.  Until
-then, this pad will have been used for 69
-out of 1065 launches from this location. The launch status is currently
+**Long March 12 | Unknown Payload**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Wenchang_Commercial_Space_Launch_Site">Commercial LC-2</a>, Wenchang Space Launch Site, People's Republic of China*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251110T023500">2025-11-10 02:35:00 UTC</a>.  Until
+then, this pad will have been used for 2
+out of 48 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Planetary Science* and the payload will be injected
-into *a Mars Orbit
-(Mars)*.
+*Unknown* and the payload will be injected
+into *an Unknown
+(N/A)*.
 <br>
 <blockquote>
-  Second flight of Blue Origin's New Glenn launch vehicle carrying the Escape and Plasma Acceleration and Dynamics Explorers (EscaPADE), a dual-spacecraft mission from University of California, Berkeley to study ion and sputtered escape from Mars. The spacecrafts' scientific goals are to understand the processes controlling the structure of Mars' hybrid magnetosphere and how it guides ion flows; understand how energy and momentum are transported from the solar wind through Mars' magnetosphere; and understand the processes controlling the flow of energy and matter into and out of the collisional atmosphere.
+  Details TBD.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/New_Glenn" >
+  <a href="https://en.wikipedia.org/wiki/Long_March_12" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.4705556,-80.542194" >
+  <a href="https://www.google.com/maps?q=19.59755,110.936481" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -54,6 +54,7 @@ into *a Mars Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251116T124500">2025-11-16 12:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=HASTE | VAN&location=Wallops Flight Facility, Virginia, USA&dates=20251116T124500Z%2F20251116T180000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **HASTE | VAN** from Wallops Flight Facility, Virginia, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251117T051200">2025-11-17 05:12:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Sentinel-6B&location=Vandenberg SFB, CA, USA&dates=20251117T051200Z%2F20251117T053200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Sentinel-6B** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251118T232900">2025-11-18 23:29:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-94&location=Cape Canaveral SFS, FL, USA&dates=20251118T232900Z%2F20251119T032900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-94** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251119T220000">2025-11-19 22:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-30&location=Vandenberg SFB, CA, USA&dates=20251119T220000Z%2F20251120T020000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-30** from Vandenberg SFB, CA, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -103,21 +104,11 @@ into *a Mars Orbit
 
 ### Launch-related News 🚀
 
-- <a href="https://spacenews.com/second-new-glenn-launch-set-for-nov-9/" >🔗</a> **[SpaceNews]** Second New Glenn launch set for Nov. 9
-- <a href="https://www.nasaspaceflight.com/2025/11/new-glenn-flight2-static-fire/" >🔗</a> **[NASASpaceflight]** New Glenn’s successful static fire test clears way for launch of ESCAPADE mission
-- <a href="https://www.nasaspaceflight.com/2025/11/launch-roundup-110325/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Ariane 6 and New Glenn set to launch during busy week
-- <a href="https://spacenews.com/blue-origin-test-fires-new-glenn-ahead-of-second-launch/" >🔗</a> **[SpaceNews]** Blue Origin test-fires New Glenn ahead of second launch
-- <a href="https://spaceflightnow.com/2025/10/31/blue-origin-completes-new-glenn-static-fire-test-preparing-for-nasas-escapade-mission-launch/" >🔗</a> **[Spaceflight Now]** Blue Origin completes New Glenn static fire test, preparing for NASA’s EscaPADE mission launch
-- <a href="https://spaceflightnow.com/2025/10/08/blue-origin-transports-new-glenn-booster-to-launch-site-ahead-of-mars-bound-mission/" >🔗</a> **[Spaceflight Now]** Blue Origin transports New Glenn booster to launch site ahead of Mars-bound mission
-- <a href="https://arstechnica.com/space/2025/10/the-second-new-glenn-rolls-to-the-launch-pad-and-they-expect-to-recover-this-one/" >🔗</a> **[Arstechnica]** The second New Glenn rolls to the launch pad—and they expect to recover this one
-- <a href="https://spacenews.com/preparations-on-track-for-second-new-glenn-launch/" >🔗</a> **[SpaceNews]** Preparations on track for second New Glenn launch
-- <a href="https://www.nasa.gov/news-release/nasa-blue-origin-invite-media-to-attend-mars-mission-launch/" >🔗</a> **[NASA]** NASA, Blue Origin Invite Media to Attend Mars Mission Launch
-- <a href="https://spacenews.com/escapade-launch-on-new-glenn-planned-for-late-october-or-early-november/" >🔗</a> **[SpaceNews]** ESCAPADE launch on New Glenn planned for late October or early November
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251109T200147">2025-11-09 20:01:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251109T203247">2025-11-09 20:32:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
