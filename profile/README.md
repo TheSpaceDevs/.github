@@ -90,6 +90,7 @@ into *a Mars Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/portal-space-systems-announces-highly-maneuverable-satellite-bus/" >🔗</a> **[SpaceNews]** Portal Space Systems announces highly maneuverable satellite bus
 - <a href="https://spacenews.com/china-breaks-annual-launch-record-with-vleo-chutian-and-shiyan-technology-test-launches/" >🔗</a> **[SpaceNews]** China breaks annual launch record with VLEO Chutian and Shiyan technology test launches
 - <a href="https://spacepolicyonline.com/news/blue-origin-readies-second-new-glenn-mission-with-two-mars-cubesats-onboard/" >🔗</a> **[SpacePolicyOnline.com]** Blue Origin Readies Second New Glenn Mission With Two Mars Cubesats Onboard
 - <a href="https://spacenews.com/intuitive-machines-sees-lanteris-deal-creating-new-opportunities-in-defense-and-exploration/" >🔗</a> **[SpaceNews]** Intuitive Machines sees Lanteris deal creating new opportunities in defense and exploration
@@ -99,7 +100,6 @@ into *a Mars Orbit
 - <a href="https://spaceflightnow.com/2025/11/08/live-coverage-blue-origin-to-launch-nasas-mars-bound-escapade-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: Blue Origin to launch NASA’s Mars-bound ESCAPADE mission
 - <a href="https://europeanspaceflight.com/atmos-to-launch-demonstration-mission-aboard-baguette-one-rocket/" >🔗</a> **[European Spaceflight]** ATMOS to Launch Demonstration Mission Aboard Baguette One Rocket
 - <a href="https://spacenews.com/ast-spacemobile-sheds-more-light-on-sovereign-direct-to-device-plan-for-europe/" >🔗</a> **[SpaceNews]** AST SpaceMobile sheds more light on sovereign direct-to-device plan for Europe
-- <a href="https://spacenews.com/hegseth-pledges-sweeping-overhaul-of-pentagon-procurement/" >🔗</a> **[SpaceNews]** Hegseth pledges sweeping overhaul of Pentagon procurement
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Mars Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251109T170121">2025-11-09 17:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251109T173144">2025-11-09 17:31:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
