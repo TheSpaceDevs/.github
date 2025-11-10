@@ -96,10 +96,10 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/European_Service_Module-4_is_ready_to_sail" >🔗</a> **[ESA]** European Service Module-4 is ready to sail
 - <a href="https://spacenews.com/mobile-private-networks-are-a-great-opportunity-for-direct-to-device-satellite-operators-to-secure-and-grow-their-enterprise-business/" >🔗</a> **[SpaceNews]** Mobile Private Networks are a great opportunity for direct-to-device satellite operators to secure and grow their enterprise business
 - <a href="https://spacenews.com/china-expands-guowang-constellation-galactic-energy-suffers-ceres-1-launch-failure/" >🔗</a> **[SpaceNews]** China expands Guowang constellation, Galactic Energy suffers Ceres-1 launch failure
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/11/Paxi_and_the_start_of_the_great_space_adventure" >🔗</a> **[ESA]** Paxi and the start of the great space adventure
 - <a href="https://spacepolicyonline.com/news/senate-votes-60-40-to-reopen-government/" >🔗</a> **[SpacePolicyOnline.com]** Senate Votes 60-40 To Reopen Government
 - <a href="https://www.nasaspaceflight.com/2025/11/tess-toi-2267/" >🔗</a> **[NASASpaceflight]** TESS finds three Earth-sized exoplanets orbiting binary stars
 - <a href="https://spacenews.com/blue-origin-scrubs-new-glenn-launch-of-escapade/" >🔗</a> **[SpaceNews]** Blue Origin scrubs New Glenn launch of ESCAPADE
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-9-15-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy November 9-15, 2025
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251110T150112">2025-11-10 15:01:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251110T153445">2025-11-10 15:34:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
