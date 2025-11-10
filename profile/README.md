@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/avio-secures-solid-rocket-deals-with-lockheed-martin-raytheon/" >🔗</a> **[SpaceNews]** Avio secures solid rocket deals with Lockheed Martin, Raytheon
+- <a href="https://spacenews.com/commercial-space-federation-csf-welcomes-new-associate-members/" >🔗</a> **[SpaceNews]** Commercial Space Federation (CSF) Welcomes New Associate Members
 - <a href="https://spaceflightnow.com/2025/11/10/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-3/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacenews.com/sateliot-opens-barcelona-facility-to-build-more-capable-direct-to-device-satellites/" >🔗</a> **[SpaceNews]** Sateliot opens Barcelona facility to build more capable direct-to-device satellites
 - <a href="https://europeanspaceflight.com/vodafone-and-ast-spacemobile-to-launch-eu-satellite-constellation/" >🔗</a> **[European Spaceflight]** Vodafone and AST SpaceMobile to Launch “EU Satellite Constellation”
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2025/11/nasa-is-kind-of-a-mess-here-are-the-top-priorities-for-a-new-administrator/" >🔗</a> **[Arstechnica]** NASA is kind of a mess: Here are the top priorities for a new administrator
 - <a href="https://spacenews.com/mobile-private-networks-are-a-great-opportunity-for-direct-to-device-satellite-operators-to-secure-and-grow-their-enterprise-business/" >🔗</a> **[SpaceNews]** Mobile Private Networks are a great opportunity for direct-to-device satellite operators to secure and grow their enterprise business
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/European_Service_Module-4_is_ready_to_sail" >🔗</a> **[ESA]** European Service Module-4 is ready to sail
-- <a href="https://spacenews.com/china-expands-guowang-constellation-galactic-energy-suffers-ceres-1-launch-failure/" >🔗</a> **[SpaceNews]** China expands Guowang constellation, Galactic Energy suffers Ceres-1 launch failure
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/11/Paxi_and_the_start_of_the_great_space_adventure" >🔗</a> **[ESA]** Paxi and the start of the great space adventure
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251110T210124">2025-11-10 21:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251110T213220">2025-11-10 21:32:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
