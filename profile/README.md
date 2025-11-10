@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/senate-votes-60-40-to-reopen-government/" >🔗</a> **[SpacePolicyOnline.com]** Senate Votes 60-40 To Reopen Government
 - <a href="https://www.nasaspaceflight.com/2025/11/tess-toi-2267/" >🔗</a> **[NASASpaceflight]** TESS finds three Earth-sized exoplanets orbiting binary stars
 - <a href="https://spacenews.com/blue-origin-scrubs-new-glenn-launch-of-escapade/" >🔗</a> **[SpaceNews]** Blue Origin scrubs New Glenn launch of ESCAPADE
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-9-15-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy November 9-15, 2025
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/intuitive-machines-sees-lanteris-deal-creating-new-opportunities-in-defense-and-exploration/" >🔗</a> **[SpaceNews]** Intuitive Machines sees Lanteris deal creating new opportunities in defense and exploration
 - <a href="https://spacenews.com/blue-origin-seeking-exemption-from-faa-order-restricting-commercial-launches/" >🔗</a> **[SpaceNews]** Blue Origin seeking exemption from FAA order restricting commercial launches
 - <a href="https://arstechnica.com/space/2025/11/blue-origin-will-move-heaven-and-earth-to-help-nasa-reach-the-moon-faster-ceo-says/" >🔗</a> **[Arstechnica]** Blue Origin will ‘move heaven and Earth’ to help NASA reach the Moon faster, CEO says
-- <a href="https://www.nasaspaceflight.com/2025/11/ng-2-escapade-launch/" >🔗</a> **[NASASpaceflight]** Blue Origin set to launch ESCAPADE on second New Glenn mission
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251110T050155">2025-11-10 05:01:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251110T053438">2025-11-10 05:34:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
