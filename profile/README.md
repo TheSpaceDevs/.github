@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacenews-jhu-bring-together-space-leaders-to-discuss-commercial-and-government-space-collaboration/" >🔗</a> **[SpaceNews]** SpaceNews, JHU Bring Together Space Leaders to Discuss Commercial and Government Space Collaboration
 - <a href="https://arstechnica.com/space/2025/11/nasa-is-kind-of-a-mess-here-are-the-top-priorities-for-a-new-administrator/" >🔗</a> **[Arstechnica]** NASA is kind of a mess: Here are the top priorities for a new administrator
 - <a href="https://spacenews.com/mobile-private-networks-are-a-great-opportunity-for-direct-to-device-satellite-operators-to-secure-and-grow-their-enterprise-business/" >🔗</a> **[SpaceNews]** Mobile Private Networks are a great opportunity for direct-to-device satellite operators to secure and grow their enterprise business
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/European_Service_Module-4_is_ready_to_sail" >🔗</a> **[ESA]** European Service Module-4 is ready to sail
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/blue-origin-scrubs-new-glenn-launch-of-escapade/" >🔗</a> **[SpaceNews]** Blue Origin scrubs New Glenn launch of ESCAPADE
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-9-15-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy November 9-15, 2025
 - <a href="https://spacenews.com/portal-space-systems-announces-highly-maneuverable-satellite-bus/" >🔗</a> **[SpaceNews]** Portal Space Systems announces highly maneuverable satellite bus
-- <a href="https://spacenews.com/china-breaks-annual-launch-record-with-vleo-chutian-and-shiyan-technology-test-launches/" >🔗</a> **[SpaceNews]** China breaks annual launch record with VLEO Chutian and Shiyan technology test launches
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251110T131019">2025-11-10 13:10:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251110T133907">2025-11-10 13:39:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
