@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/sateliot-opens-barcelona-facility-to-build-more-capable-direct-to-device-satellites/" >🔗</a> **[SpaceNews]** Sateliot opens Barcelona facility to build more capable direct-to-device satellites
 - <a href="https://europeanspaceflight.com/vodafone-and-ast-spacemobile-to-launch-eu-satellite-constellation/" >🔗</a> **[European Spaceflight]** Vodafone and AST SpaceMobile to Launch “EU Satellite Constellation”
 - <a href="https://spacenews.com/the-fallacy-of-being-first-lets-be-enduring-instead/" >🔗</a> **[SpaceNews]** The fallacy of being first — let’s be enduring instead
 - <a href="https://spacenews.com/spacenews-jhu-bring-together-space-leaders-to-discuss-commercial-and-government-space-collaboration/" >🔗</a> **[SpaceNews]** SpaceNews, JHU Bring Together Space Leaders to Discuss Commercial and Government Space Collaboration
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/china-expands-guowang-constellation-galactic-energy-suffers-ceres-1-launch-failure/" >🔗</a> **[SpaceNews]** China expands Guowang constellation, Galactic Energy suffers Ceres-1 launch failure
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/11/Paxi_and_the_start_of_the_great_space_adventure" >🔗</a> **[ESA]** Paxi and the start of the great space adventure
 - <a href="https://spacepolicyonline.com/news/senate-votes-60-40-to-reopen-government/" >🔗</a> **[SpacePolicyOnline.com]** Senate Votes 60-40 To Reopen Government
-- <a href="https://www.nasaspaceflight.com/2025/11/tess-toi-2267/" >🔗</a> **[NASASpaceflight]** TESS finds three Earth-sized exoplanets orbiting binary stars
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251110T180155">2025-11-10 18:01:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251110T183949">2025-11-10 18:39:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
