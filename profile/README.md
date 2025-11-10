@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/11/nasa-is-kind-of-a-mess-here-are-the-top-priorities-for-a-new-administrator/" >🔗</a> **[Arstechnica]** NASA is kind of a mess: Here are the top priorities for a new administrator
+- <a href="https://spacenews.com/mobile-private-networks-are-a-great-opportunity-for-direct-to-device-satellite-operators-to-secure-and-grow-their-enterprise-business/" >🔗</a> **[SpaceNews]** Mobile Private Networks are a great opportunity for direct-to-device satellite operators to secure and grow their enterprise business
+- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/European_Service_Module-4_is_ready_to_sail" >🔗</a> **[ESA]** European Service Module-4 is ready to sail
+- <a href="https://spacenews.com/china-expands-guowang-constellation-galactic-energy-suffers-ceres-1-launch-failure/" >🔗</a> **[SpaceNews]** China expands Guowang constellation, Galactic Energy suffers Ceres-1 launch failure
 - <a href="https://spacepolicyonline.com/news/senate-votes-60-40-to-reopen-government/" >🔗</a> **[SpacePolicyOnline.com]** Senate Votes 60-40 To Reopen Government
 - <a href="https://www.nasaspaceflight.com/2025/11/tess-toi-2267/" >🔗</a> **[NASASpaceflight]** TESS finds three Earth-sized exoplanets orbiting binary stars
 - <a href="https://spacenews.com/blue-origin-scrubs-new-glenn-launch-of-escapade/" >🔗</a> **[SpaceNews]** Blue Origin scrubs New Glenn launch of ESCAPADE
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-9-15-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy November 9-15, 2025
 - <a href="https://spacenews.com/portal-space-systems-announces-highly-maneuverable-satellite-bus/" >🔗</a> **[SpaceNews]** Portal Space Systems announces highly maneuverable satellite bus
 - <a href="https://spacenews.com/china-breaks-annual-launch-record-with-vleo-chutian-and-shiyan-technology-test-launches/" >🔗</a> **[SpaceNews]** China breaks annual launch record with VLEO Chutian and Shiyan technology test launches
-- <a href="https://spacepolicyonline.com/news/blue-origin-readies-second-new-glenn-mission-with-two-mars-cubesats-onboard/" >🔗</a> **[SpacePolicyOnline.com]** Blue Origin Readies Second New Glenn Mission With Two Mars Cubesats Onboard
-- <a href="https://spacenews.com/intuitive-machines-sees-lanteris-deal-creating-new-opportunities-in-defense-and-exploration/" >🔗</a> **[SpaceNews]** Intuitive Machines sees Lanteris deal creating new opportunities in defense and exploration
-- <a href="https://spacenews.com/blue-origin-seeking-exemption-from-faa-order-restricting-commercial-launches/" >🔗</a> **[SpaceNews]** Blue Origin seeking exemption from FAA order restricting commercial launches
-- <a href="https://arstechnica.com/space/2025/11/blue-origin-will-move-heaven-and-earth-to-help-nasa-reach-the-moon-faster-ceo-says/" >🔗</a> **[Arstechnica]** Blue Origin will ‘move heaven and Earth’ to help NASA reach the Moon faster, CEO says
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251110T120206">2025-11-10 12:02:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251110T124327">2025-11-10 12:43:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
