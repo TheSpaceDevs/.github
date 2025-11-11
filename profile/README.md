@@ -90,6 +90,8 @@ into *a Mars Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/us-government-calls-eu-space-act-regulations-unfair-and-unwarranted/" >🔗</a> **[European Spaceflight]** US Government Calls EU Space Act Regulations “Unfair and Unwarranted”
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/11/Paving_the_way_for_next-generation_antennas" >🔗</a> **[ESA]** Paving the way for next-generation antennas
 - <a href="https://spaceflightnow.com/2025/11/11/rocket-lab-delays-debut-of-neutron-rocket-to-2026/" >🔗</a> **[Spaceflight Now]** Rocket Lab delays debut of Neutron rocket to 2026
 - <a href="https://spacepolicyonline.com/news/legislation-to-end-longest-government-shutdown-now-over-to-the-house/" >🔗</a> **[SpacePolicyOnline.com]** Legislation to End Longest Government Shutdown Now Over to the House
 - <a href="https://spacepolicyonline.com/news/lofgren-raises-alarm-about-laboratory-and-other-closings-at-nasa-goddard/" >🔗</a> **[SpacePolicyOnline.com]** Lofgren Raises Alarm About Laboratory and Other Closings at NASA Goddard
@@ -98,8 +100,6 @@ into *a Mars Orbit
 - <a href="https://spacenews.com/commercial-space-federation-csf-welcomes-new-associate-members/" >🔗</a> **[SpaceNews]** Commercial Space Federation (CSF) Welcomes New Associate Members
 - <a href="https://spaceflightnow.com/2025/11/10/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-3/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacenews.com/sateliot-opens-barcelona-facility-to-build-more-capable-direct-to-device-satellites/" >🔗</a> **[SpaceNews]** Sateliot opens Barcelona facility to build more capable direct-to-device satellites
-- <a href="https://europeanspaceflight.com/vodafone-and-ast-spacemobile-to-launch-eu-satellite-constellation/" >🔗</a> **[European Spaceflight]** Vodafone and AST SpaceMobile to Launch “EU Satellite Constellation”
-- <a href="https://spacenews.com/the-fallacy-of-being-first-lets-be-enduring-instead/" >🔗</a> **[SpaceNews]** The fallacy of being first — let’s be enduring instead
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Mars Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251111T090151">2025-11-11 09:01:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251111T093456">2025-11-11 09:34:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
