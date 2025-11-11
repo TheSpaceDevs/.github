@@ -90,6 +90,7 @@ into *a Mars Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/11/11/rocket-lab-delays-debut-of-neutron-rocket-to-2026/" >🔗</a> **[Spaceflight Now]** Rocket Lab delays debut of Neutron rocket to 2026
 - <a href="https://spacepolicyonline.com/news/legislation-to-end-longest-government-shutdown-now-over-to-the-house/" >🔗</a> **[SpacePolicyOnline.com]** Legislation to End Longest Government Shutdown Now Over to the House
 - <a href="https://spacepolicyonline.com/news/lofgren-raises-alarm-about-laboratory-and-other-closings-at-nasa-goddard/" >🔗</a> **[SpacePolicyOnline.com]** Lofgren Raises Alarm About Laboratory and Other Closings at NASA Goddard
 - <a href="https://arstechnica.com/space/2025/11/neutron-rockets-debut-slips-into-mid-2026-as-company-seeks-success-from-the-start/" >🔗</a> **[Arstechnica]** Neutron rocket’s debut slips into mid-2026 as company seeks success from the start
@@ -99,7 +100,6 @@ into *a Mars Orbit
 - <a href="https://spacenews.com/sateliot-opens-barcelona-facility-to-build-more-capable-direct-to-device-satellites/" >🔗</a> **[SpaceNews]** Sateliot opens Barcelona facility to build more capable direct-to-device satellites
 - <a href="https://europeanspaceflight.com/vodafone-and-ast-spacemobile-to-launch-eu-satellite-constellation/" >🔗</a> **[European Spaceflight]** Vodafone and AST SpaceMobile to Launch “EU Satellite Constellation”
 - <a href="https://spacenews.com/the-fallacy-of-being-first-lets-be-enduring-instead/" >🔗</a> **[SpaceNews]** The fallacy of being first — let’s be enduring instead
-- <a href="https://spacenews.com/spacenews-jhu-bring-together-space-leaders-to-discuss-commercial-and-government-space-collaboration/" >🔗</a> **[SpaceNews]** SpaceNews, JHU Bring Together Space Leaders to Discuss Commercial and Government Space Collaboration
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Mars Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251111T050152">2025-11-11 05:01:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251111T053445">2025-11-11 05:34:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
