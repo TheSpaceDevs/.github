@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/11/neutron-rockets-debut-slips-into-mid-2026-as-company-seeks-success-from-the-start/" >🔗</a> **[Arstechnica]** Neutron rocket’s debut slips into mid-2026 as company seeks success from the start
 - <a href="https://spacenews.com/avio-secures-solid-rocket-deals-with-lockheed-martin-raytheon/" >🔗</a> **[SpaceNews]** Avio secures solid rocket deals with Lockheed Martin, Raytheon
 - <a href="https://spacenews.com/commercial-space-federation-csf-welcomes-new-associate-members/" >🔗</a> **[SpaceNews]** Commercial Space Federation (CSF) Welcomes New Associate Members
 - <a href="https://spaceflightnow.com/2025/11/10/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-3/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/spacenews-jhu-bring-together-space-leaders-to-discuss-commercial-and-government-space-collaboration/" >🔗</a> **[SpaceNews]** SpaceNews, JHU Bring Together Space Leaders to Discuss Commercial and Government Space Collaboration
 - <a href="https://arstechnica.com/space/2025/11/nasa-is-kind-of-a-mess-here-are-the-top-priorities-for-a-new-administrator/" >🔗</a> **[Arstechnica]** NASA is kind of a mess: Here are the top priorities for a new administrator
 - <a href="https://spacenews.com/mobile-private-networks-are-a-great-opportunity-for-direct-to-device-satellite-operators-to-secure-and-grow-their-enterprise-business/" >🔗</a> **[SpaceNews]** Mobile Private Networks are a great opportunity for direct-to-device satellite operators to secure and grow their enterprise business
-- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/European_Service_Module-4_is_ready_to_sail" >🔗</a> **[ESA]** European Service Module-4 is ready to sail
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251111T004554">2025-11-11 00:45:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251111T012902">2025-11-11 01:29:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
