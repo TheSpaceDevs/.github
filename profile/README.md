@@ -90,6 +90,8 @@ into *a Mars Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/11/11/live-coverage-blue-origin-targets-nov-12-new-glenn-launch-following-weekend-weather-scrub/" >🔗</a> **[Spaceflight Now]** Live coverage: Blue Origin targets Nov. 12 New Glenn launch following weekend weather scrub
+- <a href="https://www.nasaspaceflight.com/2025/11/launch-roundup-111125/" >🔗</a> **[NASASpaceflight]** Launch Roundup: New Glenn, Viasat, & Sentinel-6B highlight busy week of launches
 - <a href="https://spacepolicyonline.com/news/shenzhou-20-crew-still-aboard-tiangong-3-return-date-unclear/" >🔗</a> **[SpacePolicyOnline.com]** Shenzhou-20 Crew Still Aboard Tiangong-3, Return Date Unclear
 - <a href="https://www.spacescout.info/2025/11/htv-x-arrives-at-iss-for-the-first-time/" >🔗</a> **[Space Scout]** HTV-X Arrives at ISS For the First Time
 - <a href="https://spacenews.com/top-science-committee-democrat-calls-for-halt-to-goddard-facility-closures/" >🔗</a> **[SpaceNews]** Top Science Committee Democrat calls for halt to Goddard facility closures
@@ -98,8 +100,6 @@ into *a Mars Orbit
 - <a href="https://spacenews.com/key-antenna-in-nasas-deep-space-network-damaged/" >🔗</a> **[SpaceNews]** Key antenna in NASA’s Deep Space Network damaged
 - <a href="https://spacenews.com/automated-satellite-solar-module-production-ramps-up-in-new-york/" >🔗</a> **[SpaceNews]** Automated satellite solar module production ramps up in New York
 - <a href="https://spacenews.com/rocket-lab-delays-first-neutron-launch-to-2026/" >🔗</a> **[SpaceNews]** Rocket Lab delays first Neutron launch to 2026
-- <a href="https://spacenews.com/china-continues-assessment-of-shenzhou-20-crew-return-after-suspected-debris-strike/" >🔗</a> **[SpaceNews]** China continues assessment of Shenzhou-20 crew return after suspected debris strike
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/10/John_McFall_Prosthetics_possibility_parabolic_flights_ESA_Explores_16" >🔗</a> **[ESA]** John McFall | Prosthetics, possibility & parabolic flights | ESA Explores #16
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Mars Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251111T230127">2025-11-11 23:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251111T233200">2025-11-11 23:32:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
