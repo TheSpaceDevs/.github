@@ -90,6 +90,7 @@ into *a Mars Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/top-science-committee-democrat-calls-for-halt-to-goddard-facility-closures/" >🔗</a> **[SpaceNews]** Top Science Committee Democrat calls for halt to Goddard facility closures
 - <a href="https://europeanspaceflight.com/ohb-establishes-the-european-spaceport-company/" >🔗</a> **[European Spaceflight]** OHB Establishes the European Spaceport Company
 - <a href="https://spacenews.com/house-of-dynamite-and-where-u-s-missile-defense-goes-from-here/" >🔗</a> **[SpaceNews]** ‘House of Dynamite’ and where U.S. missile defense goes from here
 - <a href="https://spacenews.com/key-antenna-in-nasas-deep-space-network-damaged/" >🔗</a> **[SpaceNews]** Key antenna in NASA’s Deep Space Network damaged
@@ -99,7 +100,6 @@ into *a Mars Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/10/John_McFall_Prosthetics_possibility_parabolic_flights_ESA_Explores_16" >🔗</a> **[ESA]** John McFall | Prosthetics, possibility & parabolic flights | ESA Explores #16
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/10/John_McFall_Prosthetics_Possibility_Parabolic_Flights_ESA_Explores_16" >🔗</a> **[ESA]** John McFall | Prosthetics, Possibility & Parabolic Flights | ESA Explores #16
 - <a href="https://europeanspaceflight.com/us-government-calls-eu-space-act-regulations-unfair-and-unwarranted/" >🔗</a> **[European Spaceflight]** US Government Calls EU Space Act Regulations “Unfair and Unwarranted”
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/11/Paving_the_way_for_next-generation_antennas" >🔗</a> **[ESA]** Paving the way for next-generation antennas
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Mars Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251111T180152">2025-11-11 18:01:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251111T183922">2025-11-11 18:39:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
