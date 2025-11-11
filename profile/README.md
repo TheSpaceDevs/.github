@@ -90,6 +90,8 @@ into *a Mars Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/rocket-lab-delays-first-neutron-launch-to-2026/" >🔗</a> **[SpaceNews]** Rocket Lab delays first Neutron launch to 2026
+- <a href="https://spacenews.com/china-continues-assessment-of-shenzhou-20-crew-return-after-suspected-debris-strike/" >🔗</a> **[SpaceNews]** China continues assessment of Shenzhou-20 crew return after suspected debris strike
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/10/John_McFall_Prosthetics_Possibility_Parabolic_Flights_ESA_Explores_16" >🔗</a> **[ESA]** John McFall | Prosthetics, Possibility & Parabolic Flights | ESA Explores #16
 - <a href="https://europeanspaceflight.com/us-government-calls-eu-space-act-regulations-unfair-and-unwarranted/" >🔗</a> **[European Spaceflight]** US Government Calls EU Space Act Regulations “Unfair and Unwarranted”
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/11/Paving_the_way_for_next-generation_antennas" >🔗</a> **[ESA]** Paving the way for next-generation antennas
@@ -98,8 +100,6 @@ into *a Mars Orbit
 - <a href="https://spacepolicyonline.com/news/lofgren-raises-alarm-about-laboratory-and-other-closings-at-nasa-goddard/" >🔗</a> **[SpacePolicyOnline.com]** Lofgren Raises Alarm About Laboratory and Other Closings at NASA Goddard
 - <a href="https://arstechnica.com/space/2025/11/neutron-rockets-debut-slips-into-mid-2026-as-company-seeks-success-from-the-start/" >🔗</a> **[Arstechnica]** Neutron rocket’s debut slips into mid-2026 as company seeks success from the start
 - <a href="https://spacenews.com/avio-secures-solid-rocket-deals-with-lockheed-martin-raytheon/" >🔗</a> **[SpaceNews]** Avio secures solid rocket deals with Lockheed Martin, Raytheon
-- <a href="https://spacenews.com/commercial-space-federation-csf-welcomes-new-associate-members/" >🔗</a> **[SpaceNews]** Commercial Space Federation (CSF) Welcomes New Associate Members
-- <a href="https://spaceflightnow.com/2025/11/10/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-3/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Mars Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251111T120205">2025-11-11 12:02:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251111T124327">2025-11-11 12:43:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
