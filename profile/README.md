@@ -52,9 +52,9 @@ into *a Mars Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251116T124500">2025-11-16 12:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=HASTE | VAN&location=Wallops Flight Facility, Virginia, USA&dates=20251116T124500Z%2F20251116T180000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **HASTE | VAN** from Wallops Flight Facility, Virginia, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251117T051200">2025-11-17 05:12:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Sentinel-6B&location=Vandenberg SFB, CA, USA&dates=20251117T051200Z%2F20251117T053200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Sentinel-6B** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251118T232900">2025-11-18 23:29:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-94&location=Cape Canaveral SFS, FL, USA&dates=20251118T232900Z%2F20251119T032900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-94** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251119T125100">2025-11-19 12:51:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 8A | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20251119T125100Z%2F20251119T131700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 8A | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251119T181800">2025-11-19 18:18:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Transporter 15 (Dedicated SSO Rideshare)&location=Vandenberg SFB, CA, USA&dates=20251119T181800Z%2F20251119T191500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Transporter 15 (Dedicated SSO Rideshare)** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251120T060100">2025-11-20 06:01:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-30&location=Vandenberg SFB, CA, USA&dates=20251120T060100Z%2F20251120T100100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-30** from Vandenberg SFB, CA, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251122T180000">2025-11-22 18:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/br.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=HANBIT-Nano | Spaceward&location=Alcântara Space Center, Federative Republic of Brazil&dates=20251122T180000Z%2F20251122T180000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **HANBIT-Nano | Spaceward** from Alcântara Space Center, Federative Republic of Brazil.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,16 +90,16 @@ into *a Mars Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/house-of-dynamite-and-where-u-s-missile-defense-goes-from-here/" >🔗</a> **[SpaceNews]** ‘House of Dynamite’ and where U.S. missile defense goes from here
 - <a href="https://spacenews.com/key-antenna-in-nasas-deep-space-network-damaged/" >🔗</a> **[SpaceNews]** Key antenna in NASA’s Deep Space Network damaged
 - <a href="https://spacenews.com/automated-satellite-solar-module-production-ramps-up-in-new-york/" >🔗</a> **[SpaceNews]** Automated satellite solar module production ramps up in New York
 - <a href="https://spacenews.com/rocket-lab-delays-first-neutron-launch-to-2026/" >🔗</a> **[SpaceNews]** Rocket Lab delays first Neutron launch to 2026
 - <a href="https://spacenews.com/china-continues-assessment-of-shenzhou-20-crew-return-after-suspected-debris-strike/" >🔗</a> **[SpaceNews]** China continues assessment of Shenzhou-20 crew return after suspected debris strike
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/10/John_McFall_Prosthetics_Possibility_Parabolic_Flights_ESA_Explores_16" >🔗</a> **[ESA]** John McFall | Prosthetics, Possibility & Parabolic Flights | ESA Explores #16
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/10/John_McFall_Prosthetics_possibility_parabolic_flights_ESA_Explores_16" >🔗</a> **[ESA]** John McFall | Prosthetics, possibility & parabolic flights | ESA Explores #16
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/10/John_McFall_Prosthetics_Possibility_Parabolic_Flights_ESA_Explores_16" >🔗</a> **[ESA]** John McFall | Prosthetics, Possibility & Parabolic Flights | ESA Explores #16
 - <a href="https://europeanspaceflight.com/us-government-calls-eu-space-act-regulations-unfair-and-unwarranted/" >🔗</a> **[European Spaceflight]** US Government Calls EU Space Act Regulations “Unfair and Unwarranted”
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/11/Paving_the_way_for_next-generation_antennas" >🔗</a> **[ESA]** Paving the way for next-generation antennas
 - <a href="https://spaceflightnow.com/2025/11/11/rocket-lab-delays-debut-of-neutron-rocket-to-2026/" >🔗</a> **[Spaceflight Now]** Rocket Lab delays debut of Neutron rocket to 2026
-- <a href="https://spacepolicyonline.com/news/legislation-to-end-longest-government-shutdown-now-over-to-the-house/" >🔗</a> **[SpacePolicyOnline.com]** Legislation to End Longest Government Shutdown Now Over to the House
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Mars Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251111T140150">2025-11-11 14:01:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251111T143537">2025-11-11 14:35:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
