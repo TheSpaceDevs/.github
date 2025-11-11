@@ -90,16 +90,16 @@ into *a Mars Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/key-antenna-in-nasas-deep-space-network-damaged/" >🔗</a> **[SpaceNews]** Key antenna in NASA’s Deep Space Network damaged
+- <a href="https://spacenews.com/automated-satellite-solar-module-production-ramps-up-in-new-york/" >🔗</a> **[SpaceNews]** Automated satellite solar module production ramps up in New York
 - <a href="https://spacenews.com/rocket-lab-delays-first-neutron-launch-to-2026/" >🔗</a> **[SpaceNews]** Rocket Lab delays first Neutron launch to 2026
 - <a href="https://spacenews.com/china-continues-assessment-of-shenzhou-20-crew-return-after-suspected-debris-strike/" >🔗</a> **[SpaceNews]** China continues assessment of Shenzhou-20 crew return after suspected debris strike
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/10/John_McFall_Prosthetics_Possibility_Parabolic_Flights_ESA_Explores_16" >🔗</a> **[ESA]** John McFall | Prosthetics, Possibility & Parabolic Flights | ESA Explores #16
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/10/John_McFall_Prosthetics_possibility_parabolic_flights_ESA_Explores_16" >🔗</a> **[ESA]** John McFall | Prosthetics, possibility & parabolic flights | ESA Explores #16
 - <a href="https://europeanspaceflight.com/us-government-calls-eu-space-act-regulations-unfair-and-unwarranted/" >🔗</a> **[European Spaceflight]** US Government Calls EU Space Act Regulations “Unfair and Unwarranted”
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/11/Paving_the_way_for_next-generation_antennas" >🔗</a> **[ESA]** Paving the way for next-generation antennas
 - <a href="https://spaceflightnow.com/2025/11/11/rocket-lab-delays-debut-of-neutron-rocket-to-2026/" >🔗</a> **[Spaceflight Now]** Rocket Lab delays debut of Neutron rocket to 2026
 - <a href="https://spacepolicyonline.com/news/legislation-to-end-longest-government-shutdown-now-over-to-the-house/" >🔗</a> **[SpacePolicyOnline.com]** Legislation to End Longest Government Shutdown Now Over to the House
-- <a href="https://spacepolicyonline.com/news/lofgren-raises-alarm-about-laboratory-and-other-closings-at-nasa-goddard/" >🔗</a> **[SpacePolicyOnline.com]** Lofgren Raises Alarm About Laboratory and Other Closings at NASA Goddard
-- <a href="https://arstechnica.com/space/2025/11/neutron-rockets-debut-slips-into-mid-2026-as-company-seeks-success-from-the-start/" >🔗</a> **[Arstechnica]** Neutron rocket’s debut slips into mid-2026 as company seeks success from the start
-- <a href="https://spacenews.com/avio-secures-solid-rocket-deals-with-lockheed-martin-raytheon/" >🔗</a> **[SpaceNews]** Avio secures solid rocket deals with Lockheed Martin, Raytheon
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Mars Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251111T131019">2025-11-11 13:10:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251111T133840">2025-11-11 13:38:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
