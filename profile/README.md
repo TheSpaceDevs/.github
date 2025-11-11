@@ -54,7 +54,7 @@ into *a Mars Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251118T232900">2025-11-18 23:29:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-94&location=Cape Canaveral SFS, FL, USA&dates=20251118T232900Z%2F20251119T032900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-94** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251119T125100">2025-11-19 12:51:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 8A | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20251119T125100Z%2F20251119T131700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 8A | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251119T181800">2025-11-19 18:18:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Transporter 15 (Dedicated SSO Rideshare)&location=Vandenberg SFB, CA, USA&dates=20251119T181800Z%2F20251119T191500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Transporter 15 (Dedicated SSO Rideshare)** from Vandenberg SFB, CA, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251120T060100">2025-11-20 06:01:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-30&location=Vandenberg SFB, CA, USA&dates=20251120T060100Z%2F20251120T100100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-30** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251119T220000">2025-11-19 22:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-30&location=Vandenberg SFB, CA, USA&dates=20251119T220000Z%2F20251120T020000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-30** from Vandenberg SFB, CA, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,6 +90,7 @@ into *a Mars Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacescout.info/2025/11/htv-x-arrives-at-iss-for-the-first-time/" >🔗</a> **[Space Scout]** HTV-X Arrives at ISS For the First Time
 - <a href="https://spacenews.com/top-science-committee-democrat-calls-for-halt-to-goddard-facility-closures/" >🔗</a> **[SpaceNews]** Top Science Committee Democrat calls for halt to Goddard facility closures
 - <a href="https://europeanspaceflight.com/ohb-establishes-the-european-spaceport-company/" >🔗</a> **[European Spaceflight]** OHB Establishes the European Spaceport Company
 - <a href="https://spacenews.com/house-of-dynamite-and-where-u-s-missile-defense-goes-from-here/" >🔗</a> **[SpaceNews]** ‘House of Dynamite’ and where U.S. missile defense goes from here
@@ -99,7 +100,6 @@ into *a Mars Orbit
 - <a href="https://spacenews.com/china-continues-assessment-of-shenzhou-20-crew-return-after-suspected-debris-strike/" >🔗</a> **[SpaceNews]** China continues assessment of Shenzhou-20 crew return after suspected debris strike
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/10/John_McFall_Prosthetics_possibility_parabolic_flights_ESA_Explores_16" >🔗</a> **[ESA]** John McFall | Prosthetics, possibility & parabolic flights | ESA Explores #16
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/10/John_McFall_Prosthetics_Possibility_Parabolic_Flights_ESA_Explores_16" >🔗</a> **[ESA]** John McFall | Prosthetics, Possibility & Parabolic Flights | ESA Explores #16
-- <a href="https://europeanspaceflight.com/us-government-calls-eu-space-act-regulations-unfair-and-unwarranted/" >🔗</a> **[European Spaceflight]** US Government Calls EU Space Act Regulations “Unfair and Unwarranted”
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Mars Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251111T190135">2025-11-11 19:01:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251111T193106">2025-11-11 19:31:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
