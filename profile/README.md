@@ -90,6 +90,7 @@ into *a Mars Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/legislation-to-end-longest-government-shutdown-now-over-to-the-house/" >🔗</a> **[SpacePolicyOnline.com]** Legislation to End Longest Government Shutdown Now Over to the House
 - <a href="https://spacepolicyonline.com/news/lofgren-raises-alarm-about-laboratory-and-other-closings-at-nasa-goddard/" >🔗</a> **[SpacePolicyOnline.com]** Lofgren Raises Alarm About Laboratory and Other Closings at NASA Goddard
 - <a href="https://arstechnica.com/space/2025/11/neutron-rockets-debut-slips-into-mid-2026-as-company-seeks-success-from-the-start/" >🔗</a> **[Arstechnica]** Neutron rocket’s debut slips into mid-2026 as company seeks success from the start
 - <a href="https://spacenews.com/avio-secures-solid-rocket-deals-with-lockheed-martin-raytheon/" >🔗</a> **[SpaceNews]** Avio secures solid rocket deals with Lockheed Martin, Raytheon
@@ -99,7 +100,6 @@ into *a Mars Orbit
 - <a href="https://europeanspaceflight.com/vodafone-and-ast-spacemobile-to-launch-eu-satellite-constellation/" >🔗</a> **[European Spaceflight]** Vodafone and AST SpaceMobile to Launch “EU Satellite Constellation”
 - <a href="https://spacenews.com/the-fallacy-of-being-first-lets-be-enduring-instead/" >🔗</a> **[SpaceNews]** The fallacy of being first — let’s be enduring instead
 - <a href="https://spacenews.com/spacenews-jhu-bring-together-space-leaders-to-discuss-commercial-and-government-space-collaboration/" >🔗</a> **[SpaceNews]** SpaceNews, JHU Bring Together Space Leaders to Discuss Commercial and Government Space Collaboration
-- <a href="https://arstechnica.com/space/2025/11/nasa-is-kind-of-a-mess-here-are-the-top-priorities-for-a-new-administrator/" >🔗</a> **[Arstechnica]** NASA is kind of a mess: Here are the top priorities for a new administrator
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Mars Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251111T040333">2025-11-11 04:03:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251111T043710">2025-11-11 04:37:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
