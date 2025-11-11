@@ -90,6 +90,7 @@ into *a Mars Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/shenzhou-20-crew-still-aboard-tiangong-3-return-date-unclear/" >🔗</a> **[SpacePolicyOnline.com]** Shenzhou-20 Crew Still Aboard Tiangong-3, Return Date Unclear
 - <a href="https://www.spacescout.info/2025/11/htv-x-arrives-at-iss-for-the-first-time/" >🔗</a> **[Space Scout]** HTV-X Arrives at ISS For the First Time
 - <a href="https://spacenews.com/top-science-committee-democrat-calls-for-halt-to-goddard-facility-closures/" >🔗</a> **[SpaceNews]** Top Science Committee Democrat calls for halt to Goddard facility closures
 - <a href="https://europeanspaceflight.com/ohb-establishes-the-european-spaceport-company/" >🔗</a> **[European Spaceflight]** OHB Establishes the European Spaceport Company
@@ -99,26 +100,25 @@ into *a Mars Orbit
 - <a href="https://spacenews.com/rocket-lab-delays-first-neutron-launch-to-2026/" >🔗</a> **[SpaceNews]** Rocket Lab delays first Neutron launch to 2026
 - <a href="https://spacenews.com/china-continues-assessment-of-shenzhou-20-crew-return-after-suspected-debris-strike/" >🔗</a> **[SpaceNews]** China continues assessment of Shenzhou-20 crew return after suspected debris strike
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/10/John_McFall_Prosthetics_possibility_parabolic_flights_ESA_Explores_16" >🔗</a> **[ESA]** John McFall | Prosthetics, possibility & parabolic flights | ESA Explores #16
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/10/John_McFall_Prosthetics_Possibility_Parabolic_Flights_ESA_Explores_16" >🔗</a> **[ESA]** John McFall | Prosthetics, Possibility & Parabolic Flights | ESA Explores #16
 
 
 ### Launch-related News 🚀
 
+- <a href="https://spacenews.com/blue-origin-scrubs-new-glenn-launch-of-escapade/" >🔗</a> **[SpaceNews]** Blue Origin scrubs New Glenn launch of ESCAPADE
+- <a href="https://spacepolicyonline.com/news/blue-origin-readies-second-new-glenn-mission-with-two-mars-cubesats-onboard/" >🔗</a> **[SpacePolicyOnline.com]** Blue Origin Readies Second New Glenn Mission With Two Mars Cubesats Onboard
+- <a href="https://www.nasaspaceflight.com/2025/11/ng-2-escapade-launch/" >🔗</a> **[NASASpaceflight]** Blue Origin set to launch ESCAPADE on second New Glenn mission
+- <a href="https://spaceflightnow.com/2025/11/08/live-coverage-blue-origin-to-launch-nasas-mars-bound-escapade-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: Blue Origin to launch NASA’s Mars-bound ESCAPADE mission
 - <a href="https://spacenews.com/second-new-glenn-launch-set-for-nov-9/" >🔗</a> **[SpaceNews]** Second New Glenn launch set for Nov. 9
 - <a href="https://www.nasaspaceflight.com/2025/11/new-glenn-flight2-static-fire/" >🔗</a> **[NASASpaceflight]** New Glenn’s successful static fire test clears way for launch of ESCAPADE mission
 - <a href="https://www.nasaspaceflight.com/2025/11/launch-roundup-110325/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Ariane 6 and New Glenn set to launch during busy week
 - <a href="https://spacenews.com/blue-origin-test-fires-new-glenn-ahead-of-second-launch/" >🔗</a> **[SpaceNews]** Blue Origin test-fires New Glenn ahead of second launch
 - <a href="https://spaceflightnow.com/2025/10/31/blue-origin-completes-new-glenn-static-fire-test-preparing-for-nasas-escapade-mission-launch/" >🔗</a> **[Spaceflight Now]** Blue Origin completes New Glenn static fire test, preparing for NASA’s EscaPADE mission launch
 - <a href="https://spaceflightnow.com/2025/10/08/blue-origin-transports-new-glenn-booster-to-launch-site-ahead-of-mars-bound-mission/" >🔗</a> **[Spaceflight Now]** Blue Origin transports New Glenn booster to launch site ahead of Mars-bound mission
-- <a href="https://arstechnica.com/space/2025/10/the-second-new-glenn-rolls-to-the-launch-pad-and-they-expect-to-recover-this-one/" >🔗</a> **[Arstechnica]** The second New Glenn rolls to the launch pad—and they expect to recover this one
-- <a href="https://spacenews.com/preparations-on-track-for-second-new-glenn-launch/" >🔗</a> **[SpaceNews]** Preparations on track for second New Glenn launch
-- <a href="https://www.nasa.gov/news-release/nasa-blue-origin-invite-media-to-attend-mars-mission-launch/" >🔗</a> **[NASA]** NASA, Blue Origin Invite Media to Attend Mars Mission Launch
-- <a href="https://spacenews.com/escapade-launch-on-new-glenn-planned-for-late-october-or-early-november/" >🔗</a> **[SpaceNews]** ESCAPADE launch on New Glenn planned for late October or early November
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251111T200142">2025-11-11 20:01:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251111T203426">2025-11-11 20:34:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
