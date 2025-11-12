@@ -90,6 +90,7 @@ into *a Mars Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/investigation-fails-to-determine-root-cause-of-methanesat-failure/" >🔗</a> **[SpaceNews]** Investigation fails to determine root cause of MethaneSAT failure
 - <a href="https://europeanspaceflight.com/ohb-awarded-germanys-first-square-kilometre-array-observatory-contract/" >🔗</a> **[European Spaceflight]** OHB Awarded Germany’s First Square Kilometre Array Observatory Contract
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/What_a_martian_ice_age_left_behind" >🔗</a> **[ESA]** What a martian ice age left behind
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/11/Celebrating_30_years_of_European_satellite_navigation" >🔗</a> **[ESA]** Celebrating 30 years of European satellite navigation
@@ -99,7 +100,6 @@ into *a Mars Orbit
 - <a href="https://spacepolicyonline.com/news/shenzhou-20-crew-still-aboard-tiangong-3-return-date-unclear/" >🔗</a> **[SpacePolicyOnline.com]** Shenzhou-20 Crew Still Aboard Tiangong-3, Return Date Unclear
 - <a href="https://www.spacescout.info/2025/11/htv-x-arrives-at-iss-for-the-first-time/" >🔗</a> **[Space Scout]** HTV-X Arrives at ISS For the First Time
 - <a href="https://spacenews.com/top-science-committee-democrat-calls-for-halt-to-goddard-facility-closures/" >🔗</a> **[SpaceNews]** Top Science Committee Democrat calls for halt to Goddard facility closures
-- <a href="https://europeanspaceflight.com/ohb-establishes-the-european-spaceport-company/" >🔗</a> **[European Spaceflight]** OHB Establishes the European Spaceport Company
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Mars Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251112T120204">2025-11-12 12:02:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251112T124330">2025-11-12 12:43:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
