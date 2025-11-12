@@ -92,6 +92,7 @@ into *a Mars Orbit
 ### Latest News ⌛
 - <a href="https://europeanspaceflight.com/ohb-awarded-germanys-first-square-kilometre-array-observatory-contract/" >🔗</a> **[European Spaceflight]** OHB Awarded Germany’s First Square Kilometre Array Observatory Contract
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/What_a_martian_ice_age_left_behind" >🔗</a> **[ESA]** What a martian ice age left behind
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/11/Celebrating_30_years_of_European_satellite_navigation" >🔗</a> **[ESA]** Celebrating 30 years of European satellite navigation
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/11/Goodbye_Nina_hello_Sarah" >🔗</a> **[ESA]** Goodbye Nina, hello Sarah
 - <a href="https://spaceflightnow.com/2025/11/11/live-coverage-blue-origin-targets-nov-12-new-glenn-launch-following-weekend-weather-scrub/" >🔗</a> **[Spaceflight Now]** Live coverage: Blue Origin targets Nov. 12 New Glenn launch following weekend weather scrub
 - <a href="https://www.nasaspaceflight.com/2025/11/launch-roundup-111125/" >🔗</a> **[NASASpaceflight]** Launch Roundup: New Glenn, Viasat, & Sentinel-6B highlight busy week of launches
@@ -99,7 +100,6 @@ into *a Mars Orbit
 - <a href="https://www.spacescout.info/2025/11/htv-x-arrives-at-iss-for-the-first-time/" >🔗</a> **[Space Scout]** HTV-X Arrives at ISS For the First Time
 - <a href="https://spacenews.com/top-science-committee-democrat-calls-for-halt-to-goddard-facility-closures/" >🔗</a> **[SpaceNews]** Top Science Committee Democrat calls for halt to Goddard facility closures
 - <a href="https://europeanspaceflight.com/ohb-establishes-the-european-spaceport-company/" >🔗</a> **[European Spaceflight]** OHB Establishes the European Spaceport Company
-- <a href="https://spacenews.com/house-of-dynamite-and-where-u-s-missile-defense-goes-from-here/" >🔗</a> **[SpaceNews]** ‘House of Dynamite’ and where U.S. missile defense goes from here
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Mars Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251112T110126">2025-11-12 11:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251112T113154">2025-11-12 11:31:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
