@@ -90,6 +90,8 @@ into *a Mars Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/the-case-for-a-southern-launch-corridor-yumas-role-in-the-future-of-spaceflight/" >🔗</a> **[SpaceNews]** The case for a southern launch corridor: Yuma’s role in the future of spaceflight
+- <a href="https://www.nasaspaceflight.com/2025/11/spacex-starship-pad-realignment-future/" >🔗</a> **[NASASpaceflight]** SpaceX progress on Starship Pad realignment for the future
 - <a href="https://spacenews.com/european-companies-to-fly-commercial-microgravity-mission-in-2026/" >🔗</a> **[SpaceNews]** European companies to fly commercial microgravity mission in 2026
 - <a href="https://spacenews.com/investigation-fails-to-determine-root-cause-of-methanesat-failure/" >🔗</a> **[SpaceNews]** Investigation fails to determine root cause of MethaneSAT failure
 - <a href="https://europeanspaceflight.com/ohb-awarded-germanys-first-square-kilometre-array-observatory-contract/" >🔗</a> **[European Spaceflight]** OHB Awarded Germany’s First Square Kilometre Array Observatory Contract
@@ -98,8 +100,6 @@ into *a Mars Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/11/Goodbye_Nina_hello_Sarah" >🔗</a> **[ESA]** Goodbye Nina, hello Sarah
 - <a href="https://spaceflightnow.com/2025/11/11/live-coverage-blue-origin-targets-nov-12-new-glenn-launch-following-weekend-weather-scrub/" >🔗</a> **[Spaceflight Now]** Live coverage: Blue Origin targets Nov. 12 New Glenn launch following weekend weather scrub
 - <a href="https://www.nasaspaceflight.com/2025/11/launch-roundup-111125/" >🔗</a> **[NASASpaceflight]** Launch Roundup: New Glenn, Viasat, & Sentinel-6B highlight busy week of launches
-- <a href="https://spacepolicyonline.com/news/shenzhou-20-crew-still-aboard-tiangong-3-return-date-unclear/" >🔗</a> **[SpacePolicyOnline.com]** Shenzhou-20 Crew Still Aboard Tiangong-3, Return Date Unclear
-- <a href="https://www.spacescout.info/2025/11/htv-x-arrives-at-iss-for-the-first-time/" >🔗</a> **[Space Scout]** HTV-X Arrives at ISS For the First Time
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Mars Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251112T140149">2025-11-12 14:01:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251112T143619">2025-11-12 14:36:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
