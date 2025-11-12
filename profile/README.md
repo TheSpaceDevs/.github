@@ -90,16 +90,16 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/XMM-Newton/First_confirmed_sighting_of_explosive_burst_on_nearby_star" >🔗</a> **[ESA]** First confirmed sighting of explosive burst on nearby star
 - <a href="https://europeanspaceflight.com/french-satellite-manufacturer-u-space-raises-e24m-in-series-a-funding/" >🔗</a> **[European Spaceflight]** French Satellite Manufacturer U-Space Raises €24M in Series A Funding
 - <a href="https://spacenews.com/the-case-for-a-southern-launch-corridor-yumas-role-in-the-future-of-spaceflight/" >🔗</a> **[SpaceNews]** The case for a southern launch corridor: Yuma’s role in the future of spaceflight
 - <a href="https://www.nasaspaceflight.com/2025/11/spacex-starship-pad-realignment-future/" >🔗</a> **[NASASpaceflight]** SpaceX progress on Starship Pad realignment for the future
 - <a href="https://spacenews.com/european-companies-to-fly-commercial-microgravity-mission-in-2026/" >🔗</a> **[SpaceNews]** European companies to fly commercial microgravity mission in 2026
 - <a href="https://spacenews.com/investigation-fails-to-determine-root-cause-of-methanesat-failure/" >🔗</a> **[SpaceNews]** Investigation fails to determine root cause of MethaneSAT failure
+- <a href="https://www.esa.int/Space_Safety/Space_weather/ESA_actively_monitoring_severe_space_weather_event" >🔗</a> **[ESA]** ESA actively monitoring severe space weather event
 - <a href="https://europeanspaceflight.com/ohb-awarded-germanys-first-square-kilometre-array-observatory-contract/" >🔗</a> **[European Spaceflight]** OHB Awarded Germany’s First Square Kilometre Array Observatory Contract
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/What_a_martian_ice_age_left_behind" >🔗</a> **[ESA]** What a martian ice age left behind
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/11/Celebrating_30_years_of_European_satellite_navigation" >🔗</a> **[ESA]** Celebrating 30 years of European satellite navigation
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/11/Goodbye_Nina_hello_Sarah" >🔗</a> **[ESA]** Goodbye Nina, hello Sarah
-- <a href="https://spaceflightnow.com/2025/11/11/live-coverage-blue-origin-targets-nov-12-new-glenn-launch-following-weekend-weather-scrub/" >🔗</a> **[Spaceflight Now]** Live coverage: Blue Origin targets Nov. 12 New Glenn launch following weekend weather scrub
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251112T160159">2025-11-12 16:01:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251112T163916">2025-11-12 16:39:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
