@@ -90,6 +90,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/french-startup-u-space-raises-24-million-for-smallsat-manufacting/" >🔗</a> **[SpaceNews]** French startup U-Space raises $24 million for smallsat manufacting
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/XMM-Newton/First_confirmed_sighting_of_explosive_burst_on_nearby_star" >🔗</a> **[ESA]** First confirmed sighting of explosive burst on nearby star
 - <a href="https://europeanspaceflight.com/french-satellite-manufacturer-u-space-raises-e24m-in-series-a-funding/" >🔗</a> **[European Spaceflight]** French Satellite Manufacturer U-Space Raises €24M in Series A Funding
 - <a href="https://spacenews.com/the-case-for-a-southern-launch-corridor-yumas-role-in-the-future-of-spaceflight/" >🔗</a> **[SpaceNews]** The case for a southern launch corridor: Yuma’s role in the future of spaceflight
@@ -99,7 +100,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.esa.int/Space_Safety/Space_weather/ESA_actively_monitoring_severe_space_weather_event" >🔗</a> **[ESA]** ESA actively monitoring severe space weather event
 - <a href="https://europeanspaceflight.com/ohb-awarded-germanys-first-square-kilometre-array-observatory-contract/" >🔗</a> **[European Spaceflight]** OHB Awarded Germany’s First Square Kilometre Array Observatory Contract
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/What_a_martian_ice_age_left_behind" >🔗</a> **[ESA]** What a martian ice age left behind
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/11/Celebrating_30_years_of_European_satellite_navigation" >🔗</a> **[ESA]** Celebrating 30 years of European satellite navigation
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251112T170146">2025-11-12 17:01:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251112T173429">2025-11-12 17:34:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
