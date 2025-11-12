@@ -104,6 +104,8 @@ into *a Mars Orbit
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2025/11/11/live-coverage-blue-origin-targets-nov-12-new-glenn-launch-following-weekend-weather-scrub/" >🔗</a> **[Spaceflight Now]** Live coverage: Blue Origin targets Nov. 12 New Glenn launch following weekend weather scrub
+- <a href="https://www.nasaspaceflight.com/2025/11/launch-roundup-111125/" >🔗</a> **[NASASpaceflight]** Launch Roundup: New Glenn, Viasat, & Sentinel-6B highlight busy week of launches
 - <a href="https://spacenews.com/blue-origin-scrubs-new-glenn-launch-of-escapade/" >🔗</a> **[SpaceNews]** Blue Origin scrubs New Glenn launch of ESCAPADE
 - <a href="https://spacepolicyonline.com/news/blue-origin-readies-second-new-glenn-mission-with-two-mars-cubesats-onboard/" >🔗</a> **[SpacePolicyOnline.com]** Blue Origin Readies Second New Glenn Mission With Two Mars Cubesats Onboard
 - <a href="https://www.nasaspaceflight.com/2025/11/ng-2-escapade-launch/" >🔗</a> **[NASASpaceflight]** Blue Origin set to launch ESCAPADE on second New Glenn mission
@@ -112,13 +114,11 @@ into *a Mars Orbit
 - <a href="https://www.nasaspaceflight.com/2025/11/new-glenn-flight2-static-fire/" >🔗</a> **[NASASpaceflight]** New Glenn’s successful static fire test clears way for launch of ESCAPADE mission
 - <a href="https://www.nasaspaceflight.com/2025/11/launch-roundup-110325/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Ariane 6 and New Glenn set to launch during busy week
 - <a href="https://spacenews.com/blue-origin-test-fires-new-glenn-ahead-of-second-launch/" >🔗</a> **[SpaceNews]** Blue Origin test-fires New Glenn ahead of second launch
-- <a href="https://spaceflightnow.com/2025/10/31/blue-origin-completes-new-glenn-static-fire-test-preparing-for-nasas-escapade-mission-launch/" >🔗</a> **[Spaceflight Now]** Blue Origin completes New Glenn static fire test, preparing for NASA’s EscaPADE mission launch
-- <a href="https://spaceflightnow.com/2025/10/08/blue-origin-transports-new-glenn-booster-to-launch-site-ahead-of-mars-bound-mission/" >🔗</a> **[Spaceflight Now]** Blue Origin transports New Glenn booster to launch site ahead of Mars-bound mission
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251112T080158">2025-11-12 08:01:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251112T083846">2025-11-12 08:38:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
