@@ -90,6 +90,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/11/firefly-identifies-alpha-anomaly/" >🔗</a> **[NASASpaceflight]** Firefly Aerospace identifies cause of Alpha test anomaly
 - <a href="https://spacenews.com/french-startup-u-space-raises-24-million-for-smallsat-manufacting/" >🔗</a> **[SpaceNews]** French startup U-Space raises $24 million for smallsat manufacting
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/XMM-Newton/First_confirmed_sighting_of_explosive_burst_on_nearby_star" >🔗</a> **[ESA]** First confirmed sighting of explosive burst on nearby star
 - <a href="https://europeanspaceflight.com/french-satellite-manufacturer-u-space-raises-e24m-in-series-a-funding/" >🔗</a> **[European Spaceflight]** French Satellite Manufacturer U-Space Raises €24M in Series A Funding
@@ -99,7 +100,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spacenews.com/investigation-fails-to-determine-root-cause-of-methanesat-failure/" >🔗</a> **[SpaceNews]** Investigation fails to determine root cause of MethaneSAT failure
 - <a href="https://www.esa.int/Space_Safety/Space_weather/ESA_actively_monitoring_severe_space_weather_event" >🔗</a> **[ESA]** ESA actively monitoring severe space weather event
 - <a href="https://europeanspaceflight.com/ohb-awarded-germanys-first-square-kilometre-array-observatory-contract/" >🔗</a> **[European Spaceflight]** OHB Awarded Germany’s First Square Kilometre Array Observatory Contract
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/What_a_martian_ice_age_left_behind" >🔗</a> **[ESA]** What a martian ice age left behind
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251112T220116">2025-11-12 22:01:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251112T223302">2025-11-12 22:33:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
