@@ -90,6 +90,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/longest-government-shutdown-in-history-ends-after-43-days/" >🔗</a> **[SpacePolicyOnline.com]** Longest Government Shutdown in History Ends After 43 days
 - <a href="https://spacenews.com/firefly-identifies-cause-of-alpha-booster-test-failure/" >🔗</a> **[SpaceNews]** Firefly identifies cause of Alpha booster test failure
 - <a href="https://spacenews.com/airspace-closure-suggests-china-is-preparing-for-a-shenzhou-landing-after-debris-impact-scare/" >🔗</a> **[SpaceNews]** Airspace closure suggests China is preparing for a Shenzhou landing after debris impact scare
 - <a href="https://www.nasaspaceflight.com/2025/11/firefly-identifies-alpha-anomaly/" >🔗</a> **[NASASpaceflight]** Firefly Aerospace identifies cause of Alpha test anomaly
@@ -99,7 +100,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spacenews.com/the-case-for-a-southern-launch-corridor-yumas-role-in-the-future-of-spaceflight/" >🔗</a> **[SpaceNews]** The case for a southern launch corridor: Yuma’s role in the future of spaceflight
 - <a href="https://www.nasaspaceflight.com/2025/11/spacex-starship-pad-realignment-future/" >🔗</a> **[NASASpaceflight]** SpaceX progress on Starship Pad realignment for the future
 - <a href="https://spacenews.com/european-companies-to-fly-commercial-microgravity-mission-in-2026/" >🔗</a> **[SpaceNews]** European companies to fly commercial microgravity mission in 2026
-- <a href="https://spacenews.com/investigation-fails-to-determine-root-cause-of-methanesat-failure/" >🔗</a> **[SpaceNews]** Investigation fails to determine root cause of MethaneSAT failure
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251113T012856">2025-11-13 01:28:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251113T021516">2025-11-13 02:15:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
