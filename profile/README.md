@@ -90,6 +90,7 @@ into *a Mars Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/firefly-deepens-push-into-defense-market-after-closing-scitec-acquisition/" >🔗</a> **[SpaceNews]** Firefly deepens push into defense market after closing SciTec acquisition
 - <a href="https://science.nasa.gov/blog/a-stranger-in-our-midst/" >🔗</a> **[NASA]** A Stranger in Our Midst?
 - <a href="https://www.nasaspaceflight.com/2025/11/dream-chaser-milestones-future/" >🔗</a> **[NASASpaceflight]** Dream Chaser proceeding, hits milestones despite uncertain future
 - <a href="https://arstechnica.com/space/2025/11/what-would-a-simplified-starship-plan-for-the-moon-actually-look-like/" >🔗</a> **[Arstechnica]** What would a “simplified” Starship plan for the Moon actually look like?
@@ -99,7 +100,6 @@ into *a Mars Orbit
 - <a href="https://spaceflightnow.com/2025/11/13/live-coverage-ula-to-launch-viasat-3-following-valve-replacement-on-atlas-5-rocket/" >🔗</a> **[Spaceflight Now]** Live coverage: ULA to launch ViaSat-3 following valve replacement on Atlas 5 rocket
 - <a href="https://spacenews.com/keeping-america-first-in-space/" >🔗</a> **[SpaceNews]** Keeping America first in space
 - <a href="https://spaceflightnow.com/2025/11/13/live-coverage-blue-origin-to-launch-nasas-escapade-following-scrubs-from-clouds-space-weather/" >🔗</a> **[Spaceflight Now]** Live coverage: Blue Origin to launch NASA’s ESCAPADE following scrubs from clouds, space weather
-- <a href="https://europeanspaceflight.com/spectrum-rocket-stages-arrive-at-launch-facility-for-second-flight/" >🔗</a> **[European Spaceflight]** Spectrum Rocket Stages Arrive at Launch Facility for Second Flight
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Mars Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251113T170136">2025-11-13 17:01:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251113T173437">2025-11-13 17:34:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
