@@ -90,16 +90,16 @@ into *a Mars Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-patent-remix-challenge/" >🔗</a> **[NASA]** NASA Patent Remix Challenge
+- <a href="https://spaceflightnow.com/2025/11/13/live-coverage-blue-origin-to-launch-nasas-escapade-following-scrubs-from-clouds-space-weather/" >🔗</a> **[Spaceflight Now]** Live coverage: Blue Origin to launch NASA’s ESCAPADE following scrubs from clouds, space weather
+- <a href="https://europeanspaceflight.com/spectrum-rocket-stages-arrive-at-launch-facility-for-second-flight/" >🔗</a> **[European Spaceflight]** Spectrum Rocket Stages Arrive at Launch Facility for Second Flight
+- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/A_close-up_look_br_at_the_first_metal_br_part_made_in_space" >🔗</a> **[ESA]** A close-up look <br>at the first metal <br>part made in space
 - <a href="https://spacenews.com/lux-aeterna-nets-us-government-partnerships-for-reusable-satellite-technology/" >🔗</a> **[SpaceNews]** Lux Aeterna nets US government partnerships for reusable satellite technology
 - <a href="https://spacenews.com/uncontrolled-experiment-study-links-harmful-atmospheric-metals-to-spacecraft-reentry/" >🔗</a> **[SpaceNews]** ‘Uncontrolled experiment:’ Study links harmful atmospheric metals to spacecraft reentry
 - <a href="https://spacenews.com/ground-truth-why-the-lunar-program-needs-its-earthbound-network/" >🔗</a> **[SpaceNews]** Ground truth: Why the lunar program needs its Earthbound network
 - <a href="https://spacenews.com/ses-expands-launch-contract-with-relativity-space/" >🔗</a> **[SpaceNews]** SES expands launch contract with Relativity Space
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Biomass/Brazil_gears_up_to_harness_ESA_s_Biomass_data" >🔗</a> **[ESA]** Brazil gears up to harness ESA’s Biomass data
 - <a href="https://europeanspaceflight.com/france-reveals-new-space-strategy-with-major-spending-increase/" >🔗</a> **[European Spaceflight]** France Reveals New Space Strategy with Major Spending Increase
-- <a href="https://spacepolicyonline.com/news/longest-government-shutdown-in-history-ends-after-43-days/" >🔗</a> **[SpacePolicyOnline.com]** Longest Government Shutdown in History Ends After 43 days
-- <a href="https://spacenews.com/firefly-identifies-cause-of-alpha-booster-test-failure/" >🔗</a> **[SpaceNews]** Firefly identifies cause of Alpha booster test failure
-- <a href="https://spacenews.com/airspace-closure-suggests-china-is-preparing-for-a-shenzhou-landing-after-debris-impact-scare/" >🔗</a> **[SpaceNews]** Airspace closure suggests China is preparing for a Shenzhou landing after debris impact scare
-- <a href="https://www.nasaspaceflight.com/2025/11/firefly-identifies-alpha-anomaly/" >🔗</a> **[NASASpaceflight]** Firefly Aerospace identifies cause of Alpha test anomaly
-- <a href="https://spacenews.com/french-startup-u-space-raises-24-million-for-smallsat-manufacting/" >🔗</a> **[SpaceNews]** French startup U-Space raises $24 million for smallsat manufacting
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Mars Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251113T131058">2025-11-13 13:10:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251113T134009">2025-11-13 13:40:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
