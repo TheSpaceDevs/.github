@@ -90,6 +90,8 @@ into *a Mars Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/lux-aeterna-nets-us-government-partnerships-for-reusable-satellite-technology/" >🔗</a> **[SpaceNews]** Lux Aeterna nets US government partnerships for reusable satellite technology
+- <a href="https://spacenews.com/uncontrolled-experiment-study-links-harmful-atmospheric-metals-to-spacecraft-reentry/" >🔗</a> **[SpaceNews]** ‘Uncontrolled experiment:’ Study links harmful atmospheric metals to spacecraft reentry
 - <a href="https://spacenews.com/ground-truth-why-the-lunar-program-needs-its-earthbound-network/" >🔗</a> **[SpaceNews]** Ground truth: Why the lunar program needs its Earthbound network
 - <a href="https://spacenews.com/ses-expands-launch-contract-with-relativity-space/" >🔗</a> **[SpaceNews]** SES expands launch contract with Relativity Space
 - <a href="https://europeanspaceflight.com/france-reveals-new-space-strategy-with-major-spending-increase/" >🔗</a> **[European Spaceflight]** France Reveals New Space Strategy with Major Spending Increase
@@ -98,8 +100,6 @@ into *a Mars Orbit
 - <a href="https://spacenews.com/airspace-closure-suggests-china-is-preparing-for-a-shenzhou-landing-after-debris-impact-scare/" >🔗</a> **[SpaceNews]** Airspace closure suggests China is preparing for a Shenzhou landing after debris impact scare
 - <a href="https://www.nasaspaceflight.com/2025/11/firefly-identifies-alpha-anomaly/" >🔗</a> **[NASASpaceflight]** Firefly Aerospace identifies cause of Alpha test anomaly
 - <a href="https://spacenews.com/french-startup-u-space-raises-24-million-for-smallsat-manufacting/" >🔗</a> **[SpaceNews]** French startup U-Space raises $24 million for smallsat manufacting
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/XMM-Newton/First_confirmed_sighting_of_explosive_burst_on_nearby_star" >🔗</a> **[ESA]** First confirmed sighting of explosive burst on nearby star
-- <a href="https://europeanspaceflight.com/french-satellite-manufacturer-u-space-raises-e24m-in-series-a-funding/" >🔗</a> **[European Spaceflight]** French Satellite Manufacturer U-Space Raises €24M in Series A Funding
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Mars Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251113T120204">2025-11-13 12:02:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251113T124336">2025-11-13 12:43:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
