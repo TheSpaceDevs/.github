@@ -90,6 +90,8 @@ into *a Mars Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blog/a-stranger-in-our-midst/" >🔗</a> **[NASA]** A Stranger in Our Midst?
+- <a href="https://www.nasaspaceflight.com/2025/11/dream-chaser-milestones-future/" >🔗</a> **[NASASpaceflight]** Dream Chaser proceeding, hits milestones despite uncertain future
 - <a href="https://arstechnica.com/space/2025/11/what-would-a-simplified-starship-plan-for-the-moon-actually-look-like/" >🔗</a> **[Arstechnica]** What would a “simplified” Starship plan for the Moon actually look like?
 - <a href="https://spacenews.com/esi-motion-launches-satbat-a-revolutionary-space-rated-battery-set-to-redefine-power-systems-in-low-earth-orbit/" >🔗</a> **[SpaceNews]** ESI Motion Launches “SatBat,” a Revolutionary Space-Rated Battery Set to Redefine Power Systems in Low Earth Orbit
 - <a href="https://spacenews.com/countering-chinas-space-silk-road-a-u-s-partnership-model-for-the-middle-east/" >🔗</a> **[SpaceNews]** Countering China’s Space Silk Road: a U.S. partnership model for the Middle East
@@ -98,8 +100,6 @@ into *a Mars Orbit
 - <a href="https://spacenews.com/keeping-america-first-in-space/" >🔗</a> **[SpaceNews]** Keeping America first in space
 - <a href="https://spaceflightnow.com/2025/11/13/live-coverage-blue-origin-to-launch-nasas-escapade-following-scrubs-from-clouds-space-weather/" >🔗</a> **[Spaceflight Now]** Live coverage: Blue Origin to launch NASA’s ESCAPADE following scrubs from clouds, space weather
 - <a href="https://europeanspaceflight.com/spectrum-rocket-stages-arrive-at-launch-facility-for-second-flight/" >🔗</a> **[European Spaceflight]** Spectrum Rocket Stages Arrive at Launch Facility for Second Flight
-- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/A_close-up_look_br_at_the_first_metal_br_part_made_in_space" >🔗</a> **[ESA]** A close-up look <br>at the first metal <br>part made in space
-- <a href="https://spacenews.com/lux-aeterna-nets-us-government-partnerships-for-reusable-satellite-technology/" >🔗</a> **[SpaceNews]** Lux Aeterna nets US government partnerships for reusable satellite technology
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Mars Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251113T160158">2025-11-13 16:01:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251113T163735">2025-11-13 16:37:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
