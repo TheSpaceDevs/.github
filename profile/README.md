@@ -90,6 +90,8 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/new-glenn-launches-nasas-escapade-mars-mission-lands-booster/" >🔗</a> **[SpaceNews]** New Glenn launches NASA’s ESCAPADE Mars mission, lands booster
+- <a href="https://spacenews.com/ionq-expands-into-space-networking-with-acquisition-of-skyloom/" >🔗</a> **[SpaceNews]** IonQ expands into space networking with acquisition of Skyloom
 - <a href="https://www.nasa.gov/image-article/a-robotic-helping-hand/" >🔗</a> **[NASA]** A Robotic Helping Hand
 - <a href="https://spacenews.com/project-kuiper-becomes-amazon-leo-ahead-of-leo-broadband-service-debut/" >🔗</a> **[SpaceNews]** Project Kuiper becomes Amazon Leo ahead of LEO broadband service debut
 - <a href="https://spacenews.com/firefly-deepens-push-into-defense-market-after-closing-scitec-acquisition/" >🔗</a> **[SpaceNews]** Firefly deepens push into defense market after closing SciTec acquisition
@@ -98,8 +100,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://arstechnica.com/space/2025/11/what-would-a-simplified-starship-plan-for-the-moon-actually-look-like/" >🔗</a> **[Arstechnica]** What would a “simplified” Starship plan for the Moon actually look like?
 - <a href="https://spacenews.com/esi-motion-launches-satbat-a-revolutionary-space-rated-battery-set-to-redefine-power-systems-in-low-earth-orbit/" >🔗</a> **[SpaceNews]** ESI Motion Launches “SatBat,” a Revolutionary Space-Rated Battery Set to Redefine Power Systems in Low Earth Orbit
 - <a href="https://spacenews.com/countering-chinas-space-silk-road-a-u-s-partnership-model-for-the-middle-east/" >🔗</a> **[SpaceNews]** Countering China’s Space Silk Road: a U.S. partnership model for the Middle East
-- <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-patent-remix-challenge/" >🔗</a> **[NASA]** NASA Patent Remix Challenge
-- <a href="https://spaceflightnow.com/2025/11/13/live-coverage-ula-to-launch-viasat-3-following-valve-replacement-on-atlas-5-rocket/" >🔗</a> **[Spaceflight Now]** Live coverage: ULA to launch ViaSat-3 following valve replacement on Atlas 5 rocket
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251113T213112">2025-11-13 21:31:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251113T220145">2025-11-13 22:01:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
