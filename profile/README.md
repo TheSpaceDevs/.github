@@ -90,16 +90,16 @@ into *a Mars Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/countering-chinas-space-silk-road-a-u-s-partnership-model-for-the-middle-east/" >🔗</a> **[SpaceNews]** Countering China’s Space Silk Road: a U.S. partnership model for the Middle East
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-patent-remix-challenge/" >🔗</a> **[NASA]** NASA Patent Remix Challenge
+- <a href="https://spaceflightnow.com/2025/11/13/live-coverage-ula-to-launch-viasat-3-following-valve-replacement-on-atlas-5-rocket/" >🔗</a> **[Spaceflight Now]** Live coverage: ULA to launch ViaSat-3 following valve replacement on Atlas 5 rocket
+- <a href="https://spacenews.com/keeping-america-first-in-space/" >🔗</a> **[SpaceNews]** Keeping America first in space
 - <a href="https://spaceflightnow.com/2025/11/13/live-coverage-blue-origin-to-launch-nasas-escapade-following-scrubs-from-clouds-space-weather/" >🔗</a> **[Spaceflight Now]** Live coverage: Blue Origin to launch NASA’s ESCAPADE following scrubs from clouds, space weather
 - <a href="https://europeanspaceflight.com/spectrum-rocket-stages-arrive-at-launch-facility-for-second-flight/" >🔗</a> **[European Spaceflight]** Spectrum Rocket Stages Arrive at Launch Facility for Second Flight
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/A_close-up_look_br_at_the_first_metal_br_part_made_in_space" >🔗</a> **[ESA]** A close-up look <br>at the first metal <br>part made in space
 - <a href="https://spacenews.com/lux-aeterna-nets-us-government-partnerships-for-reusable-satellite-technology/" >🔗</a> **[SpaceNews]** Lux Aeterna nets US government partnerships for reusable satellite technology
 - <a href="https://spacenews.com/uncontrolled-experiment-study-links-harmful-atmospheric-metals-to-spacecraft-reentry/" >🔗</a> **[SpaceNews]** ‘Uncontrolled experiment:’ Study links harmful atmospheric metals to spacecraft reentry
 - <a href="https://spacenews.com/ground-truth-why-the-lunar-program-needs-its-earthbound-network/" >🔗</a> **[SpaceNews]** Ground truth: Why the lunar program needs its Earthbound network
-- <a href="https://spacenews.com/ses-expands-launch-contract-with-relativity-space/" >🔗</a> **[SpaceNews]** SES expands launch contract with Relativity Space
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Biomass/Brazil_gears_up_to_harness_ESA_s_Biomass_data" >🔗</a> **[ESA]** Brazil gears up to harness ESA’s Biomass data
-- <a href="https://europeanspaceflight.com/france-reveals-new-space-strategy-with-major-spending-increase/" >🔗</a> **[European Spaceflight]** France Reveals New Space Strategy with Major Spending Increase
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Mars Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251113T140123">2025-11-13 14:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251113T143404">2025-11-13 14:34:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
