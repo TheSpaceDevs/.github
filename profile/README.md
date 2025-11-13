@@ -90,6 +90,8 @@ into *a Mars Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/11/what-would-a-simplified-starship-plan-for-the-moon-actually-look-like/" >🔗</a> **[Arstechnica]** What would a “simplified” Starship plan for the Moon actually look like?
+- <a href="https://spacenews.com/esi-motion-launches-satbat-a-revolutionary-space-rated-battery-set-to-redefine-power-systems-in-low-earth-orbit/" >🔗</a> **[SpaceNews]** ESI Motion Launches “SatBat,” a Revolutionary Space-Rated Battery Set to Redefine Power Systems in Low Earth Orbit
 - <a href="https://spacenews.com/countering-chinas-space-silk-road-a-u-s-partnership-model-for-the-middle-east/" >🔗</a> **[SpaceNews]** Countering China’s Space Silk Road: a U.S. partnership model for the Middle East
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-patent-remix-challenge/" >🔗</a> **[NASA]** NASA Patent Remix Challenge
 - <a href="https://spaceflightnow.com/2025/11/13/live-coverage-ula-to-launch-viasat-3-following-valve-replacement-on-atlas-5-rocket/" >🔗</a> **[Spaceflight Now]** Live coverage: ULA to launch ViaSat-3 following valve replacement on Atlas 5 rocket
@@ -98,8 +100,6 @@ into *a Mars Orbit
 - <a href="https://europeanspaceflight.com/spectrum-rocket-stages-arrive-at-launch-facility-for-second-flight/" >🔗</a> **[European Spaceflight]** Spectrum Rocket Stages Arrive at Launch Facility for Second Flight
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/A_close-up_look_br_at_the_first_metal_br_part_made_in_space" >🔗</a> **[ESA]** A close-up look <br>at the first metal <br>part made in space
 - <a href="https://spacenews.com/lux-aeterna-nets-us-government-partnerships-for-reusable-satellite-technology/" >🔗</a> **[SpaceNews]** Lux Aeterna nets US government partnerships for reusable satellite technology
-- <a href="https://spacenews.com/uncontrolled-experiment-study-links-harmful-atmospheric-metals-to-spacecraft-reentry/" >🔗</a> **[SpaceNews]** ‘Uncontrolled experiment:’ Study links harmful atmospheric metals to spacecraft reentry
-- <a href="https://spacenews.com/ground-truth-why-the-lunar-program-needs-its-earthbound-network/" >🔗</a> **[SpaceNews]** Ground truth: Why the lunar program needs its Earthbound network
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Mars Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251113T143404">2025-11-13 14:34:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251113T153402">2025-11-13 15:34:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
