@@ -90,6 +90,7 @@ into *a Mars Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/france-reveals-new-space-strategy-with-major-spending-increase/" >🔗</a> **[European Spaceflight]** France Reveals New Space Strategy with Major Spending Increase
 - <a href="https://spacepolicyonline.com/news/longest-government-shutdown-in-history-ends-after-43-days/" >🔗</a> **[SpacePolicyOnline.com]** Longest Government Shutdown in History Ends After 43 days
 - <a href="https://spacenews.com/firefly-identifies-cause-of-alpha-booster-test-failure/" >🔗</a> **[SpaceNews]** Firefly identifies cause of Alpha booster test failure
 - <a href="https://spacenews.com/airspace-closure-suggests-china-is-preparing-for-a-shenzhou-landing-after-debris-impact-scare/" >🔗</a> **[SpaceNews]** Airspace closure suggests China is preparing for a Shenzhou landing after debris impact scare
@@ -99,7 +100,6 @@ into *a Mars Orbit
 - <a href="https://europeanspaceflight.com/french-satellite-manufacturer-u-space-raises-e24m-in-series-a-funding/" >🔗</a> **[European Spaceflight]** French Satellite Manufacturer U-Space Raises €24M in Series A Funding
 - <a href="https://spacenews.com/the-case-for-a-southern-launch-corridor-yumas-role-in-the-future-of-spaceflight/" >🔗</a> **[SpaceNews]** The case for a southern launch corridor: Yuma’s role in the future of spaceflight
 - <a href="https://www.nasaspaceflight.com/2025/11/spacex-starship-pad-realignment-future/" >🔗</a> **[NASASpaceflight]** SpaceX progress on Starship Pad realignment for the future
-- <a href="https://spacenews.com/european-companies-to-fly-commercial-microgravity-mission-in-2026/" >🔗</a> **[SpaceNews]** European companies to fly commercial microgravity mission in 2026
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Mars Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251113T080151">2025-11-13 08:01:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251113T083843">2025-11-13 08:38:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
