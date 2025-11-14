@@ -19,13 +19,13 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 6-85**. It is scheduled to be launched by *SpaceX*
+**Falcon 9 Block 5 | Starlink Group 6-89**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral SFS, FL, USA*
+from *<a href="https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39A">Launch Complex 39A</a>, Kennedy Space Center, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
 at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251115T030100">2025-11-15 03:01:00 UTC</a>.  Until
-then, this pad will have been used for 347
-out of 1068 launches from this location. The launch status is currently
+then, this pad will have been used for 216
+out of 274 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
 *Communications* and the payload will be injected
 into *a Low Earth Orbit
@@ -39,14 +39,14 @@ into *a Low Earth Orbit
   <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
+  <a href="https://www.google.com/maps?q=28.60822681,-80.60428186" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251115T030100">2025-11-15 03:01:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-85&location=Cape Canaveral SFS, FL, USA&dates=20251115T030100Z%2F20251115T070100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-85** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251115T030100">2025-11-15 03:01:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-89&location=Kennedy Space Center, FL, USA&dates=20251115T030100Z%2F20251115T070100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-89** from Kennedy Space Center, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251115T030100">2025-11-15 03:01:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-85&location=Cape Canaveral SFS, FL, USA&dates=20251115T030100Z%2F20251115T070100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-85** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251116T124500">2025-11-16 12:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=HASTE | VAN&location=Wallops Flight Facility, Virginia, USA&dates=20251116T124500Z%2F20251116T180000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **HASTE | VAN** from Wallops Flight Facility, Virginia, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251117T051200">2025-11-17 05:12:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Sentinel-6B&location=Vandenberg SFB, CA, USA&dates=20251117T051200Z%2F20251117T053200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Sentinel-6B** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251118T232900">2025-11-18 23:29:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-94&location=Cape Canaveral SFS, FL, USA&dates=20251118T232900Z%2F20251119T032900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-94** from Cape Canaveral SFS, FL, USA.
@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-sets-launch-coverage-for-international-ocean-tracking-mission/" >🔗</a> **[NASA]** NASA Sets Launch Coverage for International Ocean Tracking Mission
 - <a href="https://www.nasa.gov/image-article/mapping-dark-matter/" >🔗</a> **[NASA]** Mapping Dark Matter
 - <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/nasa-glenn-teams-win-2025-rd-100-awards/" >🔗</a> **[NASA]** NASA Glenn Teams Win 2025 R&D 100 Awards
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Europe_s_Spaceport/Two_arrangements_mark_a_new_step_for_Ariane_6_and_Vega-C_exploitation" >🔗</a> **[ESA]** Two arrangements mark a new step for Ariane 6 and Vega-C exploitation
@@ -98,8 +99,7 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/missions/hubble/hubble-studies-star-ages-in-colorful-galaxy/" >🔗</a> **[NASA]** Hubble Studies Star Ages in Colorful Galaxy
 - <a href="https://arstechnica.com/space/2025/11/rocket-report-blue-origins-stunning-success-vive-le-baguette-one/" >🔗</a> **[Arstechnica]** Rocket Report: Blue Origin’s stunning success; vive le Baguette One!
 - <a href="https://spacenews.com/maryland-congressional-delegation-seeks-information-on-goddard-facility-closures/" >🔗</a> **[SpaceNews]** Maryland congressional delegation seeks information on Goddard facility closures
-- <a href="https://spacenews.com/shenzhou-20-astronauts-safely-return-to-earth-on-shenzhou-21-spacecraft-after-space-debris-damage-concerns/" >🔗</a> **[SpaceNews]** Shenzhou-20 astronauts safely return to Earth on Shenzhou-21 spacecraft after space debris damage concerns
-- <a href="https://www.esa.int/Space_Safety/Planetary_Defence/ESA_pinpoints_3I_ATLAS_s_path_with_data_from_Mars" >🔗</a> **[ESA]** ESA pinpoints 3I/ATLAS’s path with data from Mars
+- <a href="https://www.spacedaily.com/reports/Chinas_Shenzhou-20_astronauts_return_to_Earth_after_delay_999.html" >🔗</a> **[SpaceDaily]** China's Shenzhou-20 astronauts return to Earth after delay
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251114T190102">2025-11-14 19:01:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251114T193056">2025-11-14 19:30:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
