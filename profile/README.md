@@ -52,9 +52,9 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251118T232900">2025-11-18 23:29:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-94&location=Cape Canaveral SFS, FL, USA&dates=20251118T232900Z%2F20251119T032900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-94** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251119T125100">2025-11-19 12:51:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 8A | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20251119T125100Z%2F20251119T131700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 8A | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251119T181800">2025-11-19 18:18:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Transporter 15 (Dedicated SSO Rideshare)&location=Vandenberg SFB, CA, USA&dates=20251119T181800Z%2F20251119T191500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Transporter 15 (Dedicated SSO Rideshare)** from Vandenberg SFB, CA, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251119T220000">2025-11-19 22:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-30&location=Vandenberg SFB, CA, USA&dates=20251119T220000Z%2F20251120T020000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-30** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251120T190500">2025-11-20 19:05:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-78&location=Kennedy Space Center, FL, USA&dates=20251120T190500Z%2F20251120T230500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-78** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251122T180000">2025-11-22 18:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/br.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=HANBIT-Nano | Spaceward&location=Alcântara Space Center, Federative Republic of Brazil&dates=20251122T180000Z%2F20251122T180000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **HANBIT-Nano | Spaceward** from Alcântara Space Center, Federative Republic of Brazil.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251122T234100">2025-11-22 23:41:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-79&location=Cape Canaveral SFS, FL, USA&dates=20251122T234100Z%2F20251123T034100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-79** from Cape Canaveral SFS, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ses-adds-to-geos-busiest-servicing-pipeline-with-infinite-orbits-contract/" >🔗</a> **[SpaceNews]** SES adds to GEO’s busiest servicing pipeline with Infinite Orbits contract
+- <a href="https://spacepolicyonline.com/news/maryland-delegation-presses-nasa-on-goddard-closings-nasa-replies-to-lofgren/" >🔗</a> **[SpacePolicyOnline.com]** Maryland Delegation Presses NASA on Goddard Closings, NASA Replies to Lofgren
+- <a href="https://www.nasaspaceflight.com/2025/11/space-weather-effects/" >🔗</a> **[NASASpaceflight]** How space weather events effect launches, orbiting spacecraft, and our future in space
 - <a href="https://www.nasa.gov/news-release/nasa-sets-launch-coverage-for-international-ocean-tracking-mission/" >🔗</a> **[NASA]** NASA Sets Launch Coverage for International Ocean Tracking Mission
 - <a href="https://www.nasa.gov/image-article/mapping-dark-matter/" >🔗</a> **[NASA]** Mapping Dark Matter
 - <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/nasa-glenn-teams-win-2025-rd-100-awards/" >🔗</a> **[NASA]** NASA Glenn Teams Win 2025 R&D 100 Awards
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_10-14_November_2025" >🔗</a> **[ESA]** Week in images: 10-14 November 2025
 - <a href="https://spacepolicyonline.com/news/chinese-space-station-crew-safely-home-after-swapping-capsules/" >🔗</a> **[SpacePolicyOnline.com]** Chinese Space Station Crew Safely Home After Swapping Capsules
 - <a href="https://science.nasa.gov/missions/hubble/hubble-studies-star-ages-in-colorful-galaxy/" >🔗</a> **[NASA]** Hubble Studies Star Ages in Colorful Galaxy
-- <a href="https://arstechnica.com/space/2025/11/rocket-report-blue-origins-stunning-success-vive-le-baguette-one/" >🔗</a> **[Arstechnica]** Rocket Report: Blue Origin’s stunning success; vive le Baguette One!
-- <a href="https://spacenews.com/maryland-congressional-delegation-seeks-information-on-goddard-facility-closures/" >🔗</a> **[SpaceNews]** Maryland congressional delegation seeks information on Goddard facility closures
-- <a href="https://www.spacedaily.com/reports/Chinas_Shenzhou-20_astronauts_return_to_Earth_after_delay_999.html" >🔗</a> **[SpaceDaily]** China's Shenzhou-20 astronauts return to Earth after delay
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251114T220140">2025-11-14 22:01:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251114T223424">2025-11-14 22:34:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
