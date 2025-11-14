@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/11/Earth_from_Space_Prague" >🔗</a> **[ESA]** Earth from Space: Prague
+- <a href="https://spacenews.com/virgin-galactic-on-track-to-begin-commercial-flights-in-2026/" >🔗</a> **[SpaceNews]** Virgin Galactic on track to begin commercial flights in 2026
 - <a href="https://spacenews.com/ula-launches-viasats-second-shot-at-a-terabit-class-broadband-satellite/" >🔗</a> **[SpaceNews]** ULA launches Viasat’s second shot at a terabit-class broadband satellite
 - <a href="https://europeanspaceflight.com/the-exploration-company-tests-nyx-micrometeoroid-shielding/" >🔗</a> **[European Spaceflight]** The Exploration Company Tests Nyx Micrometeoroid Shielding
 - <a href="https://www.nasa.gov/news-release/nasa-blue-origin-launch-two-spacecraft-to-study-mars-solar-wind/" >🔗</a> **[NASA]** NASA, Blue Origin Launch Two Spacecraft to Study Mars, Solar Wind
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4702-4708-its-only-spooky-here-on-earth-today/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4702-4708: It’s Only Spooky Here on Earth Today!
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4695-4701-searching-for-answers-at-monte-grande/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4695-4701: Searching for Answers at Monte Grande
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4689-4694-drill-in-the-boxwork-unit-is-go/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4689-4694: Drill in the Boxwork Unit is GO!
-- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4682-4688-seven-mars-years/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4682-4688: Seven Mars Years
-- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4675-4681-deciding-where-to-dig-into-the-boxworks/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4675-4681: Deciding Where to Dig Into the Boxworks
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251114T090150">2025-11-14 09:01:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251114T093422">2025-11-14 09:34:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
