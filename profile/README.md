@@ -90,16 +90,16 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/blue-origin-nails-it-ng-2-makes-a-landing-escapade-enroute-to-mars/" >🔗</a> **[SpacePolicyOnline.com]** Blue Origin Nails It — NG-2 Makes a Landing, ESCAPADE Enroute to Mars
+- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4702-4708-its-only-spooky-here-on-earth-today/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4702-4708: It’s Only Spooky Here on Earth Today!
+- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4695-4701-searching-for-answers-at-monte-grande/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4695-4701: Searching for Answers at Monte Grande
+- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4689-4694-drill-in-the-boxwork-unit-is-go/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4689-4694: Drill in the Boxwork Unit is GO!
+- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4682-4688-seven-mars-years/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4682-4688: Seven Mars Years
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4675-4681-deciding-where-to-dig-into-the-boxworks/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4675-4681: Deciding Where to Dig Into the Boxworks
 - <a href="https://spaceflightnow.com/2025/11/13/blue-origin-launches-twin-mars-probes-for-nasa-as-new-glenn-makes-first-landing/" >🔗</a> **[Spaceflight Now]** Blue Origin launches twin Mars probes for NASA as New Glenn makes first landing
 - <a href="https://spacenews.com/new-glenn-launches-nasas-escapade-mars-mission-lands-booster/" >🔗</a> **[SpaceNews]** New Glenn launches NASA’s ESCAPADE Mars mission, lands booster
 - <a href="https://spacenews.com/ionq-expands-into-space-networking-with-acquisition-of-skyloom/" >🔗</a> **[SpaceNews]** IonQ expands into space networking with acquisition of Skyloom
 - <a href="https://www.nasa.gov/image-article/a-robotic-helping-hand/" >🔗</a> **[NASA]** A Robotic Helping Hand
-- <a href="https://spacenews.com/project-kuiper-becomes-amazon-leo-ahead-of-leo-broadband-service-debut/" >🔗</a> **[SpaceNews]** Project Kuiper becomes Amazon Leo ahead of LEO broadband service debut
-- <a href="https://spacenews.com/firefly-deepens-push-into-defense-market-after-closing-scitec-acquisition/" >🔗</a> **[SpaceNews]** Firefly deepens push into defense market after closing SciTec acquisition
-- <a href="https://science.nasa.gov/blog/a-stranger-in-our-midst/" >🔗</a> **[NASA]** A Stranger in Our Midst?
-- <a href="https://www.nasaspaceflight.com/2025/11/dream-chaser-milestones-future/" >🔗</a> **[NASASpaceflight]** Dream Chaser proceeding, hits milestones despite uncertain future
-- <a href="https://arstechnica.com/space/2025/11/what-would-a-simplified-starship-plan-for-the-moon-actually-look-like/" >🔗</a> **[Arstechnica]** What would a “simplified” Starship plan for the Moon actually look like?
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251114T004600">2025-11-14 00:46:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251114T012910">2025-11-14 01:29:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
