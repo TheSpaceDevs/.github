@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/mapping-dark-matter/" >🔗</a> **[NASA]** Mapping Dark Matter
+- <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/nasa-glenn-teams-win-2025-rd-100-awards/" >🔗</a> **[NASA]** NASA Glenn Teams Win 2025 R&D 100 Awards
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Europe_s_Spaceport/Two_arrangements_mark_a_new_step_for_Ariane_6_and_Vega-C_exploitation" >🔗</a> **[ESA]** Two arrangements mark a new step for Ariane 6 and Vega-C exploitation
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_10-14_November_2025" >🔗</a> **[ESA]** Week in images: 10-14 November 2025
 - <a href="https://spacepolicyonline.com/news/chinese-space-station-crew-safely-home-after-swapping-capsules/" >🔗</a> **[SpacePolicyOnline.com]** Chinese Space Station Crew Safely Home After Swapping Capsules
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/maryland-congressional-delegation-seeks-information-on-goddard-facility-closures/" >🔗</a> **[SpaceNews]** Maryland congressional delegation seeks information on Goddard facility closures
 - <a href="https://spacenews.com/shenzhou-20-astronauts-safely-return-to-earth-on-shenzhou-21-spacecraft-after-space-debris-damage-concerns/" >🔗</a> **[SpaceNews]** Shenzhou-20 astronauts safely return to Earth on Shenzhou-21 spacecraft after space debris damage concerns
 - <a href="https://www.esa.int/Space_Safety/Planetary_Defence/ESA_pinpoints_3I_ATLAS_s_path_with_data_from_Mars" >🔗</a> **[ESA]** ESA pinpoints 3I/ATLAS’s path with data from Mars
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/11/Earth_from_Space_Prague" >🔗</a> **[ESA]** Earth from Space: Prague
-- <a href="https://spacenews.com/virgin-galactic-on-track-to-begin-commercial-flights-in-2026/" >🔗</a> **[SpaceNews]** Virgin Galactic on track to begin commercial flights in 2026
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251114T180153">2025-11-14 18:01:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251114T183932">2025-11-14 18:39:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
