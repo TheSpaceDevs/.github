@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-blue-origin-launch-two-spacecraft-to-study-mars-solar-wind/" >🔗</a> **[NASA]** NASA, Blue Origin Launch Two Spacecraft to Study Mars, Solar Wind
+- <a href="https://spacenews.com/canadas-sbquantum-wins-contract-to-supply-esa-magnetometer/" >🔗</a> **[SpaceNews]** Canada’s SBQuantum wins contract to supply ESA magnetometer
 - <a href="https://spacepolicyonline.com/news/blue-origin-nails-it-ng-2-makes-a-landing-escapade-enroute-to-mars/" >🔗</a> **[SpacePolicyOnline.com]** Blue Origin Nails It — NG-2 Makes a Landing, ESCAPADE Enroute to Mars
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4702-4708-its-only-spooky-here-on-earth-today/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4702-4708: It’s Only Spooky Here on Earth Today!
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4695-4701-searching-for-answers-at-monte-grande/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4695-4701: Searching for Answers at Monte Grande
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4675-4681-deciding-where-to-dig-into-the-boxworks/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4675-4681: Deciding Where to Dig Into the Boxworks
 - <a href="https://spaceflightnow.com/2025/11/13/blue-origin-launches-twin-mars-probes-for-nasa-as-new-glenn-makes-first-landing/" >🔗</a> **[Spaceflight Now]** Blue Origin launches twin Mars probes for NASA as New Glenn makes first landing
 - <a href="https://spacenews.com/new-glenn-launches-nasas-escapade-mars-mission-lands-booster/" >🔗</a> **[SpaceNews]** New Glenn launches NASA’s ESCAPADE Mars mission, lands booster
-- <a href="https://spacenews.com/ionq-expands-into-space-networking-with-acquisition-of-skyloom/" >🔗</a> **[SpaceNews]** IonQ expands into space networking with acquisition of Skyloom
-- <a href="https://www.nasa.gov/image-article/a-robotic-helping-hand/" >🔗</a> **[NASA]** A Robotic Helping Hand
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251114T040307">2025-11-14 04:03:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251114T043626">2025-11-14 04:36:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
