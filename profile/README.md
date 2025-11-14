@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/chinese-space-station-crew-safely-home-after-swapping-capsules/" >🔗</a> **[SpacePolicyOnline.com]** Chinese Space Station Crew Safely Home After Swapping Capsules
+- <a href="https://science.nasa.gov/missions/hubble/hubble-studies-star-ages-in-colorful-galaxy/" >🔗</a> **[NASA]** Hubble Studies Star Ages in Colorful Galaxy
 - <a href="https://arstechnica.com/space/2025/11/rocket-report-blue-origins-stunning-success-vive-le-baguette-one/" >🔗</a> **[Arstechnica]** Rocket Report: Blue Origin’s stunning success; vive le Baguette One!
 - <a href="https://spacenews.com/maryland-congressional-delegation-seeks-information-on-goddard-facility-closures/" >🔗</a> **[SpaceNews]** Maryland congressional delegation seeks information on Goddard facility closures
 - <a href="https://spacenews.com/shenzhou-20-astronauts-safely-return-to-earth-on-shenzhou-21-spacecraft-after-space-debris-damage-concerns/" >🔗</a> **[SpaceNews]** Shenzhou-20 astronauts safely return to Earth on Shenzhou-21 spacecraft after space debris damage concerns
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/virgin-galactic-on-track-to-begin-commercial-flights-in-2026/" >🔗</a> **[SpaceNews]** Virgin Galactic on track to begin commercial flights in 2026
 - <a href="https://spacenews.com/ula-launches-viasats-second-shot-at-a-terabit-class-broadband-satellite/" >🔗</a> **[SpaceNews]** ULA launches Viasat’s second shot at a terabit-class broadband satellite
 - <a href="https://europeanspaceflight.com/the-exploration-company-tests-nyx-micrometeoroid-shielding/" >🔗</a> **[European Spaceflight]** The Exploration Company Tests Nyx Micrometeoroid Shielding
-- <a href="https://www.nasa.gov/news-release/nasa-blue-origin-launch-two-spacecraft-to-study-mars-solar-wind/" >🔗</a> **[NASA]** NASA, Blue Origin Launch Two Spacecraft to Study Mars, Solar Wind
-- <a href="https://spacenews.com/canadas-sbquantum-wins-contract-to-supply-esa-magnetometer/" >🔗</a> **[SpaceNews]** Canada’s SBQuantum wins contract to supply ESA magnetometer
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251114T130917">2025-11-14 13:09:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251114T133813">2025-11-14 13:38:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
