@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/11/rocket-report-blue-origins-stunning-success-vive-le-baguette-one/" >🔗</a> **[Arstechnica]** Rocket Report: Blue Origin’s stunning success; vive le Baguette One!
 - <a href="https://spacenews.com/maryland-congressional-delegation-seeks-information-on-goddard-facility-closures/" >🔗</a> **[SpaceNews]** Maryland congressional delegation seeks information on Goddard facility closures
 - <a href="https://spacenews.com/shenzhou-20-astronauts-safely-return-to-earth-on-shenzhou-21-spacecraft-after-space-debris-damage-concerns/" >🔗</a> **[SpaceNews]** Shenzhou-20 astronauts safely return to Earth on Shenzhou-21 spacecraft after space debris damage concerns
 - <a href="https://www.esa.int/Space_Safety/Planetary_Defence/ESA_pinpoints_3I_ATLAS_s_path_with_data_from_Mars" >🔗</a> **[ESA]** ESA pinpoints 3I/ATLAS’s path with data from Mars
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/the-exploration-company-tests-nyx-micrometeoroid-shielding/" >🔗</a> **[European Spaceflight]** The Exploration Company Tests Nyx Micrometeoroid Shielding
 - <a href="https://www.nasa.gov/news-release/nasa-blue-origin-launch-two-spacecraft-to-study-mars-solar-wind/" >🔗</a> **[NASA]** NASA, Blue Origin Launch Two Spacecraft to Study Mars, Solar Wind
 - <a href="https://spacenews.com/canadas-sbquantum-wins-contract-to-supply-esa-magnetometer/" >🔗</a> **[SpaceNews]** Canada’s SBQuantum wins contract to supply ESA magnetometer
-- <a href="https://spacepolicyonline.com/news/blue-origin-nails-it-ng-2-makes-a-landing-escapade-enroute-to-mars/" >🔗</a> **[SpacePolicyOnline.com]** Blue Origin Nails It — NG-2 Makes a Landing, ESCAPADE Enroute to Mars
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251114T120202">2025-11-14 12:02:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251114T124328">2025-11-14 12:43:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
