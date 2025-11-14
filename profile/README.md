@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/shenzhou-20-astronauts-safely-return-to-earth-on-shenzhou-21-spacecraft-after-space-debris-damage-concerns/" >🔗</a> **[SpaceNews]** Shenzhou-20 astronauts safely return to Earth on Shenzhou-21 spacecraft after space debris damage concerns
+- <a href="https://www.esa.int/Space_Safety/Planetary_Defence/ESA_pinpoints_3I_ATLAS_s_path_with_data_from_Mars" >🔗</a> **[ESA]** ESA pinpoints 3I/ATLAS’s path with data from Mars
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/11/Earth_from_Space_Prague" >🔗</a> **[ESA]** Earth from Space: Prague
 - <a href="https://spacenews.com/virgin-galactic-on-track-to-begin-commercial-flights-in-2026/" >🔗</a> **[SpaceNews]** Virgin Galactic on track to begin commercial flights in 2026
 - <a href="https://spacenews.com/ula-launches-viasats-second-shot-at-a-terabit-class-broadband-satellite/" >🔗</a> **[SpaceNews]** ULA launches Viasat’s second shot at a terabit-class broadband satellite
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/canadas-sbquantum-wins-contract-to-supply-esa-magnetometer/" >🔗</a> **[SpaceNews]** Canada’s SBQuantum wins contract to supply ESA magnetometer
 - <a href="https://spacepolicyonline.com/news/blue-origin-nails-it-ng-2-makes-a-landing-escapade-enroute-to-mars/" >🔗</a> **[SpacePolicyOnline.com]** Blue Origin Nails It — NG-2 Makes a Landing, ESCAPADE Enroute to Mars
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4702-4708-its-only-spooky-here-on-earth-today/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4702-4708: It’s Only Spooky Here on Earth Today!
-- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4695-4701-searching-for-answers-at-monte-grande/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4695-4701: Searching for Answers at Monte Grande
-- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4689-4694-drill-in-the-boxwork-unit-is-go/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4689-4694: Drill in the Boxwork Unit is GO!
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251114T100129">2025-11-14 10:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251114T103617">2025-11-14 10:36:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
