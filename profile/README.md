@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ula-launches-viasats-second-shot-at-a-terabit-class-broadband-satellite/" >🔗</a> **[SpaceNews]** ULA launches Viasat’s second shot at a terabit-class broadband satellite
+- <a href="https://europeanspaceflight.com/the-exploration-company-tests-nyx-micrometeoroid-shielding/" >🔗</a> **[European Spaceflight]** The Exploration Company Tests Nyx Micrometeoroid Shielding
 - <a href="https://www.nasa.gov/news-release/nasa-blue-origin-launch-two-spacecraft-to-study-mars-solar-wind/" >🔗</a> **[NASA]** NASA, Blue Origin Launch Two Spacecraft to Study Mars, Solar Wind
 - <a href="https://spacenews.com/canadas-sbquantum-wins-contract-to-supply-esa-magnetometer/" >🔗</a> **[SpaceNews]** Canada’s SBQuantum wins contract to supply ESA magnetometer
 - <a href="https://spacepolicyonline.com/news/blue-origin-nails-it-ng-2-makes-a-landing-escapade-enroute-to-mars/" >🔗</a> **[SpacePolicyOnline.com]** Blue Origin Nails It — NG-2 Makes a Landing, ESCAPADE Enroute to Mars
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4689-4694-drill-in-the-boxwork-unit-is-go/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4689-4694: Drill in the Boxwork Unit is GO!
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4682-4688-seven-mars-years/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4682-4688: Seven Mars Years
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4675-4681-deciding-where-to-dig-into-the-boxworks/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4675-4681: Deciding Where to Dig Into the Boxworks
-- <a href="https://spaceflightnow.com/2025/11/13/blue-origin-launches-twin-mars-probes-for-nasa-as-new-glenn-makes-first-landing/" >🔗</a> **[Spaceflight Now]** Blue Origin launches twin Mars probes for NASA as New Glenn makes first landing
-- <a href="https://spacenews.com/new-glenn-launches-nasas-escapade-mars-mission-lands-booster/" >🔗</a> **[SpaceNews]** New Glenn launches NASA’s ESCAPADE Mars mission, lands booster
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251114T080200">2025-11-14 08:02:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251114T083759">2025-11-14 08:37:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
