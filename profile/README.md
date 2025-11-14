@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_10-14_November_2025" >🔗</a> **[ESA]** Week in images: 10-14 November 2025
 - <a href="https://spacepolicyonline.com/news/chinese-space-station-crew-safely-home-after-swapping-capsules/" >🔗</a> **[SpacePolicyOnline.com]** Chinese Space Station Crew Safely Home After Swapping Capsules
 - <a href="https://science.nasa.gov/missions/hubble/hubble-studies-star-ages-in-colorful-galaxy/" >🔗</a> **[NASA]** Hubble Studies Star Ages in Colorful Galaxy
 - <a href="https://arstechnica.com/space/2025/11/rocket-report-blue-origins-stunning-success-vive-le-baguette-one/" >🔗</a> **[Arstechnica]** Rocket Report: Blue Origin’s stunning success; vive le Baguette One!
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/11/Earth_from_Space_Prague" >🔗</a> **[ESA]** Earth from Space: Prague
 - <a href="https://spacenews.com/virgin-galactic-on-track-to-begin-commercial-flights-in-2026/" >🔗</a> **[SpaceNews]** Virgin Galactic on track to begin commercial flights in 2026
 - <a href="https://spacenews.com/ula-launches-viasats-second-shot-at-a-terabit-class-broadband-satellite/" >🔗</a> **[SpaceNews]** ULA launches Viasat’s second shot at a terabit-class broadband satellite
-- <a href="https://europeanspaceflight.com/the-exploration-company-tests-nyx-micrometeoroid-shielding/" >🔗</a> **[European Spaceflight]** The Exploration Company Tests Nyx Micrometeoroid Shielding
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251114T140132">2025-11-14 14:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251114T143436">2025-11-14 14:34:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
