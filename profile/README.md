@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/jason-cs-sentinel-6/sentinel-6b/6-things-to-know-from-nasa-about-new-us-european-sea-satellite/" >🔗</a> **[NASA]** 6 Things to Know From NASA About New US, European Sea Satellite
 - <a href="https://spaceflightnow.com/2025/11/14/live-coverage-spacex-to-launch-predawn-starlink-mission-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch predawn Starlink mission from Cape Canaveral
 - <a href="https://spaceflightnow.com/2025/11/14/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-nasas-kennedy-space-center-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from NASA’s Kennedy Space Center
 - <a href="https://spacenews.com/ses-adds-to-geos-busiest-servicing-pipeline-with-infinite-orbits-contract/" >🔗</a> **[SpaceNews]** SES adds to GEO’s busiest servicing pipeline with Infinite Orbits contract
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/mapping-dark-matter/" >🔗</a> **[NASA]** Mapping Dark Matter
 - <a href="https://www.nasa.gov/newsletters/aerospace-frontiers/nasa-glenn-teams-win-2025-rd-100-awards/" >🔗</a> **[NASA]** NASA Glenn Teams Win 2025 R&D 100 Awards
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Europe_s_Spaceport/Two_arrangements_mark_a_new_step_for_Ariane_6_and_Vega-C_exploitation" >🔗</a> **[ESA]** Two arrangements mark a new step for Ariane 6 and Vega-C exploitation
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_10-14_November_2025" >🔗</a> **[ESA]** Week in images: 10-14 November 2025
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251115T000501">2025-11-15 00:05:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251115T004548">2025-11-15 00:45:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
