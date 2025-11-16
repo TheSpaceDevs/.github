@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ohb-raises-concerns-about-planned-european-space-joint-venture/" >🔗</a> **[SpaceNews]** OHB raises concerns about planned European space joint venture
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-16-22-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy November 16-22, 2025
 - <a href="https://www.nasaspaceflight.com/2025/11/sentinel-6b-falcon-9/" >🔗</a> **[NASASpaceflight]** Sentinel-6B ocean monitoring satellite to launch aboard Falcon 9
 - <a href="https://spacenews.com/dream-chaser-completes-key-tests-ahead-of-first-flight/" >🔗</a> **[SpaceNews]** Dream Chaser completes key tests ahead of first flight
 - <a href="https://www.spacedaily.com/reports/Record_doubleheader_SpaceX_launches_2_Falcon_9_rockets_from_Florida_999.html" >🔗</a> **[SpaceDaily]** Record doubleheader: SpaceX launches 2 Falcon 9 rockets from Florida
 - <a href="https://www.nasa.gov/missions/jason-cs-sentinel-6/sentinel-6b/nasa-european-partners-set-to-launch-sentinel-6b-earth-satellite/" >🔗</a> **[NASA]** NASA, European Partners Set to Launch Sentinel-6B Earth Satellite
-- <a href="https://www.spacedaily.com/reports/Reading_a_quantum_clock_costs_more_energy_than_running_it_study_finds_999.html" >🔗</a> **[SpaceDaily]** Reading a quantum clock costs more energy than running it, study finds
 - <a href="https://www.spacedaily.com/reports/A_galaxy_with_earliest_star_signatures_found_during_cosmic_noon_999.html" >🔗</a> **[SpaceDaily]** A galaxy with earliest star signatures found during cosmic noon
-- <a href="https://www.moondaily.com/reports/Change_6_lunar_mission_finds_impact_created_hematite_and_maghemite_in_SPA_Basin_samples_999.html" >🔗</a> **[SpaceDaily]** Chang'e-6 lunar mission finds impact-created hematite and maghemite in SPA Basin samples
-- <a href="https://www.spacedaily.com/reports/ESA_pinpoints_3I_ATLASs_path_with_data_from_Mars_999.html" >🔗</a> **[SpaceDaily]** ESA pinpoints 3I/ATLAS's path with data from Mars
+- <a href="https://www.spacedaily.com/reports/Reading_a_quantum_clock_costs_more_energy_than_running_it_study_finds_999.html" >🔗</a> **[SpaceDaily]** Reading a quantum clock costs more energy than running it, study finds
 - <a href="https://www.moondaily.com/reports/Chandrayaan_3_lunar_mission_achieves_key_flyby_milestones_999.html" >🔗</a> **[SpaceDaily]** Chandrayaan-3 lunar mission achieves key flyby milestones
-- <a href="https://www.spacedaily.com/reports/Open_source_clock_framework_aims_to_synchronize_missions_beyond_Earth_reference_signals_999.html" >🔗</a> **[SpaceDaily]** Open-source clock framework aims to synchronize deep space missions
+- <a href="https://www.moondaily.com/reports/Change_6_lunar_mission_finds_impact_created_hematite_and_maghemite_in_SPA_Basin_samples_999.html" >🔗</a> **[SpaceDaily]** Chang'e-6 lunar mission finds impact-created hematite and maghemite in SPA Basin samples
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251116T220117">2025-11-16 22:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251116T223333">2025-11-16 22:33:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
