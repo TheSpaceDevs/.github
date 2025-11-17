@@ -90,16 +90,16 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacedaily.com/reports/Copernicus_Sentinel_6B_begins_mission_to_advance_ocean_and_climate_monitoring_999.html" >🔗</a> **[SpaceDaily]** Copernicus Sentinel-6B begins mission to advance ocean science
+- <a href="https://spacenews.com/falcon-9-launches-sentinel-6b-satellite-to-monitor-global-sea-level/" >🔗</a> **[SpaceNews]** Falcon 9 launches Sentinel-6B satellite to monitor global sea level
+- <a href="https://www.nasa.gov/news-release/nasa-spacex-launch-us-european-satellite-to-monitor-earths-oceans/" >🔗</a> **[NASA]** NASA, SpaceX Launch US-European Satellite to Monitor Earth’s Oceans
+- <a href="https://europeanspaceflight.com/french-rocket-builder-hyprspace-secures-e21-million-in-new-funding/" >🔗</a> **[European Spaceflight]** French Rocket Builder HyPrSpace Secures €21 Million in New Funding
 - <a href="https://spaceflightnow.com/2025/11/17/spacex-launches-joint-nasa-european-sea-level-monitor/" >🔗</a> **[Spaceflight Now]** SpaceX launches joint NASA-European sea level monitor
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-6/Sentinel-6B_launched_to_extend_record_of_sea-level_rise" >🔗</a> **[ESA]** Sentinel-6B launched to extend record of sea-level rise
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/11/Sentinel-6B_is_launched" >🔗</a> **[ESA]** Sentinel-6B is launched
 - <a href="https://www.spacedaily.com/reports/Can_America_Beat_China_Back_to_the_Moon_999.html" >🔗</a> **[SpaceDaily]** Can America Beat China Back to the Moon?
-- <a href="https://www.spacedaily.com/reports/Exoplanet_map_initiative_earns_NASA_support_for_University_of_Iowa_physicist_999.html" >🔗</a> **[SpaceDaily]** Exoplanet map initiative earns NASA support for University of Iowa physicist
-- <a href="https://www.spacedaily.com/reports/Space_Systems_Command_advances_New_Glenn_certification_after_latest_launch_999.html" >🔗</a> **[SpaceDaily]** Space Systems Command advances New Glenn certification after latest launch
 - <a href="https://www.spacedaily.com/reports/ESAs_impact_featured_in_key_UK_space_policy_report_999.html" >🔗</a> **[SpaceDaily]** ESA's impact featured in key UK space policy report
-- <a href="https://www.spacedaily.com/reports/Quantum_timing_and_sensing_partnership_set_to_reshape_space_infrastructure_999.html" >🔗</a> **[SpaceDaily]** Quantum timing and sensing partnership set to reshape space infrastructure
 - <a href="https://www.spacedaily.com/reports/Morphing_3D_printed_structures_from_flat_to_curved_in_space_999.html" >🔗</a> **[SpaceDaily]** Morphing 3D-printed structures from flat to curved, in space
-- <a href="https://www.spacedaily.com/reports/Colorado_Boulder_advances_research_and_education_in_space_law_and_policy_999.html" >🔗</a> **[SpaceDaily]** Colorado Boulder advances research and education in space law and policy
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251117T080200">2025-11-17 08:02:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251117T083953">2025-11-17 08:39:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
