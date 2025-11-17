@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacedaily.com/reports/Colorado_Boulder_advances_research_and_education_in_space_law_and_policy_999.html" >🔗</a> **[SpaceDaily]** Colorado Boulder advances research and education in space law and policy
+- <a href="https://www.spacedaily.com/reports/ESAs_impact_featured_in_key_UK_space_policy_report_999.html" >🔗</a> **[SpaceDaily]** ESA's impact featured in key UK space policy report
+- <a href="https://www.spacedaily.com/reports/Morphing_3D_printed_structures_from_flat_to_curved_in_space_999.html" >🔗</a> **[SpaceDaily]** Morphing 3D-printed structures from flat to curved, in space
+- <a href="https://www.spacedaily.com/reports/Quantum_timing_and_sensing_partnership_set_to_reshape_space_infrastructure_999.html" >🔗</a> **[SpaceDaily]** Quantum timing and sensing partnership set to reshape space infrastructure
+- <a href="https://www.spacedaily.com/reports/Exoplanet_map_initiative_earns_NASA_support_for_University_of_Iowa_physicist_999.html" >🔗</a> **[SpaceDaily]** Exoplanet map initiative earns NASA support for University of Iowa physicist
+- <a href="https://www.spacedaily.com/reports/Space_Systems_Command_advances_New_Glenn_certification_after_latest_launch_999.html" >🔗</a> **[SpaceDaily]** Space Systems Command advances New Glenn certification after latest launch
 - <a href="https://spaceflightnow.com/2025/11/17/live-coverage-spacex-falcon-9-to-launch-international-satellite-to-keep-watch-on-rising-sea-levels/" >🔗</a> **[Spaceflight Now]** Live Coverage: SpaceX Falcon 9 to launch international satellite to keep watch on rising sea levels
 - <a href="https://spacenews.com/ohb-raises-concerns-about-planned-european-space-joint-venture/" >🔗</a> **[SpaceNews]** OHB raises concerns about planned European space joint venture
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-16-22-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy November 16-22, 2025
 - <a href="https://www.nasaspaceflight.com/2025/11/sentinel-6b-falcon-9/" >🔗</a> **[NASASpaceflight]** Sentinel-6B ocean monitoring satellite to launch aboard Falcon 9
-- <a href="https://spacenews.com/dream-chaser-completes-key-tests-ahead-of-first-flight/" >🔗</a> **[SpaceNews]** Dream Chaser completes key tests ahead of first flight
-- <a href="https://www.spacedaily.com/reports/Record_doubleheader_SpaceX_launches_2_Falcon_9_rockets_from_Florida_999.html" >🔗</a> **[SpaceDaily]** Record doubleheader: SpaceX launches 2 Falcon 9 rockets from Florida
-- <a href="https://www.nasa.gov/missions/jason-cs-sentinel-6/sentinel-6b/nasa-european-partners-set-to-launch-sentinel-6b-earth-satellite/" >🔗</a> **[NASA]** NASA, European Partners Set to Launch Sentinel-6B Earth Satellite
-- <a href="https://www.spacedaily.com/reports/A_galaxy_with_earliest_star_signatures_found_during_cosmic_noon_999.html" >🔗</a> **[SpaceDaily]** A galaxy with earliest star signatures found during cosmic noon
-- <a href="https://www.spacedaily.com/reports/Reading_a_quantum_clock_costs_more_energy_than_running_it_study_finds_999.html" >🔗</a> **[SpaceDaily]** Reading a quantum clock costs more energy than running it, study finds
-- <a href="https://www.moondaily.com/reports/Chandrayaan_3_lunar_mission_achieves_key_flyby_milestones_999.html" >🔗</a> **[SpaceDaily]** Chandrayaan-3 lunar mission achieves key flyby milestones
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251117T012911">2025-11-17 01:29:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251117T021456">2025-11-17 02:14:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
