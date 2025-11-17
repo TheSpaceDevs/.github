@@ -90,7 +90,9 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/in-orbit-servicing-startup-infinite-orbits-raises-e40-million-in-new-funding/" >🔗</a> **[European Spaceflight]** In-Orbit Servicing Startup Infinite Orbits Raises €40 Million in New Funding
 - <a href="https://spacenews.com/how-golden-dome-could-make-nuclear-weapons-irrelevant/" >🔗</a> **[SpaceNews]** How Golden Dome could make nuclear weapons irrelevant
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Space_for_our_climate/ESA_investigates_high-stakes_Amazon_tipping_point" >🔗</a> **[ESA]** ESA investigates high-stakes Amazon tipping point
 - <a href="https://spacenews.com/china-to-launch-shenzhou-22-spacecraft-nov-25-to-provide-lifeboat-for-astronauts/" >🔗</a> **[SpaceNews]** China to launch Shenzhou-22 spacecraft Nov. 25 to provide lifeboat for astronauts
 - <a href="https://spacenews.com/faa-ends-commercial-launch-curfew/" >🔗</a> **[SpaceNews]** FAA ends commercial launch curfew
 - <a href="https://www.spacedaily.com/reports/Copernicus_Sentinel_6B_begins_mission_to_advance_ocean_and_climate_monitoring_999.html" >🔗</a> **[SpaceDaily]** Copernicus Sentinel-6B begins mission to advance ocean science
@@ -98,8 +100,6 @@ into *a Suborbital
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/11/Sentinel-6B_launch_highlights" >🔗</a> **[ESA]** Sentinel-6B launch highlights
 - <a href="https://www.nasa.gov/news-release/nasa-spacex-launch-us-european-satellite-to-monitor-earths-oceans/" >🔗</a> **[NASA]** NASA, SpaceX Launch US-European Satellite to Monitor Earth’s Oceans
 - <a href="https://europeanspaceflight.com/french-rocket-builder-hyprspace-secures-e21-million-in-new-funding/" >🔗</a> **[European Spaceflight]** French Rocket Builder HyPrSpace Secures €21 Million in New Funding
-- <a href="https://spaceflightnow.com/2025/11/17/spacex-launches-joint-nasa-european-sea-level-monitor/" >🔗</a> **[Spaceflight Now]** SpaceX launches joint NASA-European sea level monitor
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-6/Sentinel-6B_launched_to_extend_record_of_sea-level_rise" >🔗</a> **[ESA]** Sentinel-6B launched to extend record of sea-level rise
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251117T150152">2025-11-17 15:01:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251117T153528">2025-11-17 15:35:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
