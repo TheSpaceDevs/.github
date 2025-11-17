@@ -90,16 +90,16 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/la-nasa-invita-a-los-medios-al-despegue-de-la-mision-lunar-artemis-ii/" >🔗</a> **[NASA]** La NASA invita a los medios al despegue de la misión lunar Artemis II
+- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-attend-crewed-artemis-ii-moon-mission-launch/" >🔗</a> **[NASA]** NASA Invites Media to Attend Crewed Artemis II Moon Mission Launch
+- <a href="https://www.nasaspaceflight.com/2025/11/launch-roundup-111725/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Innospace to debut new rocket, SpaceX to launch five Falcon 9 missions
+- <a href="https://www.nasa.gov/image-article/suited-up-for-science-nasa-er-2-pilot-prepares-for-gemx-flight/" >🔗</a> **[NASA]** Suited Up for Science: NASA ER-2 Pilot Prepares for GEMx Flight
 - <a href="https://www.nasa.gov/news-release/la-nasa-compartira-imagenes-del-cometa-3i-atlas-tomadas-desde-naves-espaciales-y-telescopios/" >🔗</a> **[NASA]** La NASA compartirá imágenes del cometa 3I/ATLAS tomadas desde naves espaciales y telescopios
 - <a href="https://www.nasa.gov/news-release/nasa-to-share-comet-3i-atlas-images-from-spacecraft-telescopes/" >🔗</a> **[NASA]** NASA to Share Comet 3I/ATLAS Images From Spacecraft, Telescopes
 - <a href="https://arstechnica.com/space/2025/11/after-last-weeks-stunning-landing-heres-what-comes-next-for-blue-origin/" >🔗</a> **[Arstechnica]** After last week’s stunning landing, here’s what comes next for Blue Origin
 - <a href="https://spacenews.com/orion-safeguarding-humanitys-return-to-the-moon-and-the-journey-beyond/" >🔗</a> **[SpaceNews]** Orion: Safeguarding Humanity’s Return to the Moon and the Journey Beyond
 - <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-industry-weave-data-fabric-with-artificial-intelligence/" >🔗</a> **[NASA]** NASA, Industry Weave Data Fabric with Artificial Intelligence
 - <a href="https://www.spacescout.info/2025/11/new-glenn-aces-second-flight/" >🔗</a> **[Space Scout]** New Glenn Aces Second Flight
-- <a href="https://spacenews.com/leanspace-raises-e10-million-series-a-round-to-bring-software-defined-satellite-operations-to-enterprise-and-institutional-space-programs/" >🔗</a> **[SpaceNews]** Leanspace raises €10 million Series A round to bring software-defined satellite operations to enterprise and institutional space programs
-- <a href="https://europeanspaceflight.com/in-orbit-servicing-startup-infinite-orbits-raises-e40-million-in-new-funding/" >🔗</a> **[European Spaceflight]** In-Orbit Servicing Startup Infinite Orbits Raises €40 Million in New Funding
-- <a href="https://spacenews.com/how-golden-dome-could-make-nuclear-weapons-irrelevant/" >🔗</a> **[SpaceNews]** How Golden Dome could make nuclear weapons irrelevant
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Space_for_our_climate/ESA_investigates_high-stakes_Amazon_tipping_point" >🔗</a> **[ESA]** ESA investigates high-stakes Amazon tipping point
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251117T210105">2025-11-17 21:01:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251117T213318">2025-11-17 21:33:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
