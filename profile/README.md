@@ -90,6 +90,9 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/11/after-last-weeks-stunning-landing-heres-what-comes-next-for-blue-origin/" >🔗</a> **[Arstechnica]** After last week’s stunning landing, here’s what comes next for Blue Origin
+- <a href="https://spacenews.com/orion-safeguarding-humanitys-return-to-the-moon-and-the-journey-beyond/" >🔗</a> **[SpaceNews]** Orion: Safeguarding Humanity’s Return to the Moon and the Journey Beyond
+- <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-industry-weave-data-fabric-with-artificial-intelligence/" >🔗</a> **[NASA]** NASA, Industry Weave Data Fabric with Artificial Intelligence
 - <a href="https://www.spacescout.info/2025/11/new-glenn-aces-second-flight/" >🔗</a> **[Space Scout]** New Glenn Aces Second Flight
 - <a href="https://spacenews.com/leanspace-raises-e10-million-series-a-round-to-bring-software-defined-satellite-operations-to-enterprise-and-institutional-space-programs/" >🔗</a> **[SpaceNews]** Leanspace raises €10 million Series A round to bring software-defined satellite operations to enterprise and institutional space programs
 - <a href="https://europeanspaceflight.com/in-orbit-servicing-startup-infinite-orbits-raises-e40-million-in-new-funding/" >🔗</a> **[European Spaceflight]** In-Orbit Servicing Startup Infinite Orbits Raises €40 Million in New Funding
@@ -97,9 +100,6 @@ into *a Suborbital
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Space_for_our_climate/ESA_investigates_high-stakes_Amazon_tipping_point" >🔗</a> **[ESA]** ESA investigates high-stakes Amazon tipping point
 - <a href="https://spacenews.com/china-to-launch-shenzhou-22-spacecraft-nov-25-to-provide-lifeboat-for-astronauts/" >🔗</a> **[SpaceNews]** China to launch Shenzhou-22 spacecraft Nov. 25 to provide lifeboat for astronauts
 - <a href="https://spacenews.com/faa-ends-commercial-launch-curfew/" >🔗</a> **[SpaceNews]** FAA ends commercial launch curfew
-- <a href="https://www.spacedaily.com/reports/Copernicus_Sentinel_6B_begins_mission_to_advance_ocean_and_climate_monitoring_999.html" >🔗</a> **[SpaceDaily]** Copernicus Sentinel-6B begins mission to advance ocean science
-- <a href="https://spacenews.com/falcon-9-launches-sentinel-6b-satellite-to-monitor-global-sea-level/" >🔗</a> **[SpaceNews]** Falcon 9 launches Sentinel-6B satellite to monitor global sea level
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/11/Sentinel-6B_launch_highlights" >🔗</a> **[ESA]** Sentinel-6B launch highlights
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251117T190120">2025-11-17 19:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251117T193105">2025-11-17 19:31:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
