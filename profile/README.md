@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.spacedaily.com/reports/Colorado_Boulder_advances_research_and_education_in_space_law_and_policy_999.html" >🔗</a> **[SpaceDaily]** Colorado Boulder advances research and education in space law and policy
+- <a href="https://www.spacedaily.com/reports/Can_America_Beat_China_Back_to_the_Moon_999.html" >🔗</a> **[SpaceDaily]** Can America Beat China Back to the Moon?
 - <a href="https://www.spacedaily.com/reports/ESAs_impact_featured_in_key_UK_space_policy_report_999.html" >🔗</a> **[SpaceDaily]** ESA's impact featured in key UK space policy report
-- <a href="https://www.spacedaily.com/reports/Morphing_3D_printed_structures_from_flat_to_curved_in_space_999.html" >🔗</a> **[SpaceDaily]** Morphing 3D-printed structures from flat to curved, in space
+- <a href="https://www.spacedaily.com/reports/Colorado_Boulder_advances_research_and_education_in_space_law_and_policy_999.html" >🔗</a> **[SpaceDaily]** Colorado Boulder advances research and education in space law and policy
 - <a href="https://www.spacedaily.com/reports/Quantum_timing_and_sensing_partnership_set_to_reshape_space_infrastructure_999.html" >🔗</a> **[SpaceDaily]** Quantum timing and sensing partnership set to reshape space infrastructure
 - <a href="https://www.spacedaily.com/reports/Exoplanet_map_initiative_earns_NASA_support_for_University_of_Iowa_physicist_999.html" >🔗</a> **[SpaceDaily]** Exoplanet map initiative earns NASA support for University of Iowa physicist
 - <a href="https://www.spacedaily.com/reports/Space_Systems_Command_advances_New_Glenn_certification_after_latest_launch_999.html" >🔗</a> **[SpaceDaily]** Space Systems Command advances New Glenn certification after latest launch
+- <a href="https://www.spacedaily.com/reports/Morphing_3D_printed_structures_from_flat_to_curved_in_space_999.html" >🔗</a> **[SpaceDaily]** Morphing 3D-printed structures from flat to curved, in space
 - <a href="https://spaceflightnow.com/2025/11/17/live-coverage-spacex-falcon-9-to-launch-international-satellite-to-keep-watch-on-rising-sea-levels/" >🔗</a> **[Spaceflight Now]** Live Coverage: SpaceX Falcon 9 to launch international satellite to keep watch on rising sea levels
 - <a href="https://spacenews.com/ohb-raises-concerns-about-planned-european-space-joint-venture/" >🔗</a> **[SpaceNews]** OHB raises concerns about planned European space joint venture
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-16-22-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy November 16-22, 2025
-- <a href="https://www.nasaspaceflight.com/2025/11/sentinel-6b-falcon-9/" >🔗</a> **[NASASpaceflight]** Sentinel-6B ocean monitoring satellite to launch aboard Falcon 9
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251117T040433">2025-11-17 04:04:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251117T043755">2025-11-17 04:37:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
