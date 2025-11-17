@@ -90,6 +90,8 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/la-nasa-compartira-imagenes-del-cometa-3i-atlas-tomadas-desde-naves-espaciales-y-telescopios/" >🔗</a> **[NASA]** La NASA compartirá imágenes del cometa 3I/ATLAS tomadas desde naves espaciales y telescopios
+- <a href="https://www.nasa.gov/news-release/nasa-to-share-comet-3i-atlas-images-from-spacecraft-telescopes/" >🔗</a> **[NASA]** NASA to Share Comet 3I/ATLAS Images From Spacecraft, Telescopes
 - <a href="https://arstechnica.com/space/2025/11/after-last-weeks-stunning-landing-heres-what-comes-next-for-blue-origin/" >🔗</a> **[Arstechnica]** After last week’s stunning landing, here’s what comes next for Blue Origin
 - <a href="https://spacenews.com/orion-safeguarding-humanitys-return-to-the-moon-and-the-journey-beyond/" >🔗</a> **[SpaceNews]** Orion: Safeguarding Humanity’s Return to the Moon and the Journey Beyond
 - <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-industry-weave-data-fabric-with-artificial-intelligence/" >🔗</a> **[NASA]** NASA, Industry Weave Data Fabric with Artificial Intelligence
@@ -98,8 +100,6 @@ into *a Suborbital
 - <a href="https://europeanspaceflight.com/in-orbit-servicing-startup-infinite-orbits-raises-e40-million-in-new-funding/" >🔗</a> **[European Spaceflight]** In-Orbit Servicing Startup Infinite Orbits Raises €40 Million in New Funding
 - <a href="https://spacenews.com/how-golden-dome-could-make-nuclear-weapons-irrelevant/" >🔗</a> **[SpaceNews]** How Golden Dome could make nuclear weapons irrelevant
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Space_for_our_climate/ESA_investigates_high-stakes_Amazon_tipping_point" >🔗</a> **[ESA]** ESA investigates high-stakes Amazon tipping point
-- <a href="https://spacenews.com/china-to-launch-shenzhou-22-spacecraft-nov-25-to-provide-lifeboat-for-astronauts/" >🔗</a> **[SpaceNews]** China to launch Shenzhou-22 spacecraft Nov. 25 to provide lifeboat for astronauts
-- <a href="https://spacenews.com/faa-ends-commercial-launch-curfew/" >🔗</a> **[SpaceNews]** FAA ends commercial launch curfew
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251117T200201">2025-11-17 20:02:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251117T203408">2025-11-17 20:34:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
