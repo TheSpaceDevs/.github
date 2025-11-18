@@ -90,16 +90,16 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.terradaily.com/reports/6_Things_to_Know_From_NASA_About_New_US_European_Sea_Satellite_999.html" >🔗</a> **[SpaceDaily]** 6 Things to Know From NASA About New US, European Sea Satellite
+- <a href="https://www.spacedaily.com/reports/Splinternets_threat_to_be_avoided_says_web_address_controller_999.html" >🔗</a> **[SpaceDaily]** 'Splinternets' threat to be avoided, says web address controller
+- <a href="https://www.spacewar.com/reports/The_war_of_tomorrow_will_begin_in_space_Macron_999.html" >🔗</a> **[SpaceDaily]** 'The war of tomorrow will begin in space': Macron
+- <a href="https://www.spacedaily.com/reports/NATO_allies_ditch_Boeing_for_new_surveillance_planes_999.html" >🔗</a> **[SpaceDaily]** NATO allies ditch Boeing for new surveillance planes
+- <a href="https://www.terradaily.com/reports/Satellites_and_AI_equip_policymakers_to_assess_global_climate_adaptation_progress_999.html" >🔗</a> **[SpaceDaily]** Satellites and AI equip policymakers to assess global climate adaptation progress
+- <a href="https://www.spacewar.com/reports/How_drones_are_altering_contemporary_warfare_999.html" >🔗</a> **[SpaceDaily]** How drones are altering contemporary warfare
 - <a href="https://spacenews.com/york-space-systems-files-to-go-public/" >🔗</a> **[SpaceNews]** York Space Systems files to go public
-- <a href="https://www.spacedaily.com/reports/LHAASO_identifies_black_holes_as_source_of_cosmic_ray_knee_phenomenon_999.html" >🔗</a> **[SpaceDaily]** LHAASO identifies black holes as source of cosmic ray knee phenomenon
-- <a href="https://www.spacedaily.com/reports/PLD_Space_expands_rocket_subsystem_testing_leadership_in_Europe_999.html" >🔗</a> **[SpaceDaily]** PLD Space expands rocket subsystem testing leadership in Europe
-- <a href="https://www.spacedaily.com/reports/Blue_Origins_New_Glenn_Nails_First_Ocean_Booster_Landing_999.html" >🔗</a> **[SpaceDaily]** Blue Origin's New Glenn Nails First Ocean Booster Landing
-- <a href="https://www.moondaily.com/reports/Star_Catcher_achieves_milestone_for_wireless_energy_delivery_to_Moon_missions_999.html" >🔗</a> **[SpaceDaily]** Star Catcher achieves milestone for wireless energy delivery to Moon missions
 - <a href="https://www.spacedaily.com/reports/Simulated_Milky_Way_with_AI_and_supercomputing_sets_star_modeling_milestone_999.html" >🔗</a> **[SpaceDaily]** Simulated Milky Way with AI and supercomputing sets star modeling milestone
-- <a href="https://www.spacedaily.com/reports/Fast_Satellite_Ground_Synchronization_Technology_Advances_Beam_Hopping_Communications_999.html" >🔗</a> **[SpaceDaily]** Fast Satellite Ground Synchronization Technology Advances Beam Hopping Communications
-- <a href="https://www.moondaily.com/reports/Water_ice_detection_campaign_prepares_lunar_robots_for_Moon_mission_999.html" >🔗</a> **[SpaceDaily]** Water ice detection campaign prepares lunar robots for Moon mission
-- <a href="https://www.spacedaily.com/reports/York_Space_Systems_prepares_for_public_offering_as_satellite_deployments_and_contract_wins_drive_growth_999.html" >🔗</a> **[SpaceDaily]** York Space Systems prepares for public offering as satellite deployments and contract wins drive growth
-- <a href="https://www.spacedaily.com/reports/New_radiation_tolerant_microcontrollers_introduced_for_satellite_constellations_999.html" >🔗</a> **[SpaceDaily]** New radiation-tolerant microcontrollers introduced for satellite constellations
+- <a href="https://www.moondaily.com/reports/Star_Catcher_achieves_milestone_for_wireless_energy_delivery_to_Moon_missions_999.html" >🔗</a> **[SpaceDaily]** Star Catcher achieves milestone for wireless energy delivery to Moon missions
+- <a href="https://www.spacedaily.com/reports/LHAASO_identifies_black_holes_as_source_of_cosmic_ray_knee_phenomenon_999.html" >🔗</a> **[SpaceDaily]** LHAASO identifies black holes as source of cosmic ray knee phenomenon
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251118T060202">2025-11-18 06:02:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251118T064029">2025-11-18 06:40:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
