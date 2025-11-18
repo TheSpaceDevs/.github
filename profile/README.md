@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/11/l3harris-brand-new-rs-25-engines-artemis/" >🔗</a> **[NASASpaceflight]** L3Harris testing brand new RS-25 engines for future Artemis launches
+- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4716-4722-drilling-success-at-nevado-sajama/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4716-4722: Drilling Success at Nevado Sajama
+- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4709-4715-drilling-high-and-low-in-the-boxwork-unit/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4709-4715: Drilling High and Low in the Boxwork Unit
 - <a href="https://www.nasa.gov/image-article/nasa-telescopes-view-spiral-galaxy/" >🔗</a> **[NASA]** NASA Telescopes View Spiral Galaxy
 - <a href="https://spaceflightnow.com/2025/11/18/live-coverage-spacex-resumes-early-evening-launches-after-faa-restrictions-lifted/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to resume early evening launches after FAA restrictions lifted
 - <a href="https://spacenews.com/the-next-generation-of-radar-needed-to-detect-micro-debris-and-enable-a-safer-leo/" >🔗</a> **[SpaceNews]** The next generation of radar needed to detect micro-debris and enable a safer LEO
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/arianegroup-avio-deal-outlines-extended-transition-of-turbopump-manufacturing-to-france/" >🔗</a> **[European Spaceflight]** ArianeGroup–Avio Deal Outlines Extended Transition of Turbopump Manufacturing to France
 - <a href="https://spacenews.com/chinas-space-ambitions-hit-a-new-gear/" >🔗</a> **[SpaceNews]** China’s space ambitions hit a new gear
 - <a href="https://www.esa.int/About_Us/Ministerial_Council_2025" >🔗</a> **[ESA]** Ministerial Council 2025
-- <a href="https://spacenews.com/dcubed-to-demonstrate-in-space-manufacturing-of-solar-arrays/" >🔗</a> **[SpaceNews]** Dcubed to demonstrate in-space manufacturing of solar arrays
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/guiding-artemis-brian-alpert-turns-lessons-learned-into-lunar-progress/" >🔗</a> **[NASA]** Guiding Artemis: Brian Alpert Turns Lessons Learned Into Lunar Progress
-- <a href="https://spacenews.com/novaspace-expands-to-india-accelerating-the-growth-of-the-nations-space-economy/" >🔗</a> **[SpaceNews]** Novaspace Expands to India — Accelerating the Growth of the Nation’s Space Economy
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251118T190131">2025-11-18 19:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251118T193102">2025-11-18 19:31:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
