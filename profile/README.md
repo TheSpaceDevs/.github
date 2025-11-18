@@ -45,7 +45,6 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251118T232900">2025-11-18 23:29:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-94&location=Cape Canaveral SFS, FL, USA&dates=20251118T232900Z%2F20251119T032900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-94** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251119T035200">2025-11-19 03:52:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2C/YZ-1S | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20251119T035200Z%2F20251119T041900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2C/YZ-1S | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251120T181800">2025-11-20 18:18:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Transporter 15 (Dedicated SSO Rideshare)&location=Vandenberg SFB, CA, USA&dates=20251120T181800Z%2F20251120T191500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Transporter 15 (Dedicated SSO Rideshare)** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251121T030100">2025-11-21 03:01:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-78&location=Kennedy Space Center, FL, USA&dates=20251121T030100Z%2F20251121T070100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-78** from Kennedy Space Center, FL, USA.
@@ -90,6 +89,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/eutelsat-approves-nearly-1-billion-capital-boost/" >🔗</a> **[SpaceNews]** Eutelsat approves nearly $1 billion capital boost
 - <a href="https://www.nasaspaceflight.com/2025/11/l3harris-brand-new-rs-25-engines-artemis/" >🔗</a> **[NASASpaceflight]** L3Harris testing brand new RS-25 engines for future Artemis launches
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4716-4722-drilling-success-at-nevado-sajama/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4716-4722: Drilling Success at Nevado Sajama
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4709-4715-drilling-high-and-low-in-the-boxwork-unit/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4709-4715: Drilling High and Low in the Boxwork Unit
@@ -99,7 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/avoiding-a-harmful-lunar-gold-rush/" >🔗</a> **[SpaceNews]** Avoiding a harmful lunar ‘gold rush’
 - <a href="https://europeanspaceflight.com/arianegroup-avio-deal-outlines-extended-transition-of-turbopump-manufacturing-to-france/" >🔗</a> **[European Spaceflight]** ArianeGroup–Avio Deal Outlines Extended Transition of Turbopump Manufacturing to France
 - <a href="https://spacenews.com/chinas-space-ambitions-hit-a-new-gear/" >🔗</a> **[SpaceNews]** China’s space ambitions hit a new gear
-- <a href="https://www.esa.int/About_Us/Ministerial_Council_2025" >🔗</a> **[ESA]** Ministerial Council 2025
 
 
 ### Launch-related News 🚀
@@ -108,7 +107,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251118T230136">2025-11-18 23:01:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251118T233111">2025-11-18 23:31:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
