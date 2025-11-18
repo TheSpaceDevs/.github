@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/the-next-generation-of-radar-needed-to-detect-micro-debris-and-enable-a-safer-leo/" >🔗</a> **[SpaceNews]** The next generation of radar needed to detect micro-debris and enable a safer LEO
 - <a href="https://spacenews.com/avoiding-a-harmful-lunar-gold-rush/" >🔗</a> **[SpaceNews]** Avoiding a harmful lunar ‘gold rush’
 - <a href="https://europeanspaceflight.com/arianegroup-avio-deal-outlines-extended-transition-of-turbopump-manufacturing-to-france/" >🔗</a> **[European Spaceflight]** ArianeGroup–Avio Deal Outlines Extended Transition of Turbopump Manufacturing to France
 - <a href="https://spacenews.com/chinas-space-ambitions-hit-a-new-gear/" >🔗</a> **[SpaceNews]** China’s space ambitions hit a new gear
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/novaspace-expands-to-india-accelerating-the-growth-of-the-nations-space-economy/" >🔗</a> **[SpaceNews]** Novaspace Expands to India — Accelerating the Growth of the Nation’s Space Economy
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/11/Up_goes_Lunar_Link" >🔗</a> **[ESA]** Up goes Lunar Link
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/HydroGNSS/Watch_HydroGNSS_IRIDE_and_Greek_mission_satellites_launch" >🔗</a> **[ESA]** Watch: HydroGNSS, IRIDE and Greek mission satellites launch
-- <a href="https://europeanspaceflight.com/us-based-launch-aggregator-purchases-dedicated-isar-aerospace-flight/" >🔗</a> **[European Spaceflight]** US-Based Launch Aggregator Purchases Dedicated Isar Aerospace Flight
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251118T160200">2025-11-18 16:02:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251118T163943">2025-11-18 16:39:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
