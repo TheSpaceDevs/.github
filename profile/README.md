@@ -90,16 +90,16 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/guiding-artemis-brian-alpert-turns-lessons-learned-into-lunar-progress/" >🔗</a> **[NASA]** Guiding Artemis: Brian Alpert Turns Lessons Learned Into Lunar Progress
-- <a href="https://spacenews.com/novaspace-expands-to-india-accelerating-the-growth-of-the-nations-space-economy/" >🔗</a> **[SpaceNews]** Novaspace Expands to India — Accelerating the Growth of the Nation’s Space Economy
+- <a href="https://www.esa.int/About_Us/Ministerial_Council_2025" >🔗</a> **[ESA]** Ministerial Council 2025
 - <a href="https://spacenews.com/dcubed-to-demonstrate-in-space-manufacturing-of-solar-arrays/" >🔗</a> **[SpaceNews]** Dcubed to demonstrate in-space manufacturing of solar arrays
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/HydroGNSS/Watch_HydroGNSS_IRIDE_and_Greek_mission_satellites_launch" >🔗</a> **[ESA]** Watch: HydroGNSS, IRIDE and Greek mission satellites launch
+- <a href="https://spacenews.com/novaspace-expands-to-india-accelerating-the-growth-of-the-nations-space-economy/" >🔗</a> **[SpaceNews]** Novaspace Expands to India — Accelerating the Growth of the Nation’s Space Economy
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/guiding-artemis-brian-alpert-turns-lessons-learned-into-lunar-progress/" >🔗</a> **[NASA]** Guiding Artemis: Brian Alpert Turns Lessons Learned Into Lunar Progress
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/11/Up_goes_Lunar_Link" >🔗</a> **[ESA]** Up goes Lunar Link
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/HydroGNSS/Watch_HydroGNSS_IRIDE_and_Greek_mission_satellites_launch" >🔗</a> **[ESA]** Watch: HydroGNSS, IRIDE and Greek mission satellites launch
 - <a href="https://europeanspaceflight.com/us-based-launch-aggregator-purchases-dedicated-isar-aerospace-flight/" >🔗</a> **[European Spaceflight]** US-Based Launch Aggregator Purchases Dedicated Isar Aerospace Flight
 - <a href="https://spacenews.com/seops-buys-spectrum-launch-from-isar-aerospace/" >🔗</a> **[SpaceNews]** SEOPS buys Spectrum launch from Isar Aerospace
+- <a href="https://www.spacewar.com/reports/How_drones_are_altering_contemporary_warfare_999.html" >🔗</a> **[SpaceDaily]** How drones are altering contemporary warfare
 - <a href="https://www.spacedaily.com/reports/NATO_allies_ditch_Boeing_for_new_surveillance_planes_999.html" >🔗</a> **[SpaceDaily]** NATO allies ditch Boeing for new surveillance planes
-- <a href="https://www.terradaily.com/reports/Satellites_and_AI_equip_policymakers_to_assess_global_climate_adaptation_progress_999.html" >🔗</a> **[SpaceDaily]** Satellites and AI equip policymakers to assess global climate adaptation progress
-- <a href="https://www.spacewar.com/reports/The_war_of_tomorrow_will_begin_in_space_Macron_999.html" >🔗</a> **[SpaceDaily]** 'The war of tomorrow will begin in space': Macron
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251118T110111">2025-11-18 11:01:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251118T113217">2025-11-18 11:32:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
