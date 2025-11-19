@@ -90,16 +90,16 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/11/Galileo_advancing_toward_the_future" >🔗</a> **[ESA]** Galileo, advancing toward the future
 - <a href="https://spacenews.com/senate-commerce-committee-schedules-hearing-on-isaacman-renomination/" >🔗</a> **[SpaceNews]** Senate Commerce Committee schedules hearing on Isaacman renomination
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-nation-meet-alyssa-yockey-neutral-buoyancy-laboratory-flight-lead/" >🔗</a> **[NASA]** Station Nation: Meet Alyssa Yockey, Neutral Buoyancy Laboratory Flight Lead
 - <a href="https://europeanspaceflight.com/canada-commits-528-5-million-to-european-space-agency-programmes/" >🔗</a> **[European Spaceflight]** Canada Commits $528.5 Million to European Space Agency Programmes
-- <a href="https://www.spacewar.com/reports/New_Laboratory_Showcases_Advanced_Satcom_Capabilities_for_Australian_Defence_Force_999.html" >🔗</a> **[SpaceDaily]** New Laboratory Showcases Advanced Satcom Capabilities for Australian Defence Force
 - <a href="https://www.spacedaily.com/reports/Gravitational_wave_detectors_complete_two_year_campaign_with_record_signal_count_999.html" >🔗</a> **[SpaceDaily]** Gravitational wave detectors complete two year campaign with record signal count
 - <a href="https://www.gpsdaily.com/reports/Ancient_animal_GPS_system_identified_in_magnetic_fossils_999.html" >🔗</a> **[SpaceDaily]** Ancient 'animal GPS system' identified in magnetic fossils
+- <a href="https://www.spacewar.com/reports/New_Laboratory_Showcases_Advanced_Satcom_Capabilities_for_Australian_Defence_Force_999.html" >🔗</a> **[SpaceDaily]** New Laboratory Showcases Advanced Satcom Capabilities for Australian Defence Force
 - <a href="https://www.spacedaily.com/reports/Machine_learning_tool_distinguishes_signs_of_life_from_non_living_compounds_in_space_samples_999.html" >🔗</a> **[SpaceDaily]** Machine learning tool distinguishes signs of life from non-living compounds in space samples
 - <a href="https://www.spacedaily.com/reports/Kepler_sets_January_launch_for_optical_data_relay_satellites_to_expand_in_orbit_connectivity_999.html" >🔗</a> **[SpaceDaily]** Kepler sets January launch for optical data relay satellites to expand in-orbit connectivity
 - <a href="https://www.spacedaily.com/reports/Power_grid_agreement_to_supply_energy_for_Loft_Orbital_satellites_999.html" >🔗</a> **[SpaceDaily]** Power grid agreement to supply energy for Loft Orbital satellites
-- <a href="https://spacenews.com/u-s-government-and-companies-criticize-draft-eu-space-act/" >🔗</a> **[SpaceNews]** U.S. government and companies criticize draft EU Space Act
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251119T131031">2025-11-19 13:10:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251119T133927">2025-11-19 13:39:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
