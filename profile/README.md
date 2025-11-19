@@ -89,6 +89,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ursa-major-secures-100-million-in-new-capital-as-it-leans-hard-into-defense-work/" >🔗</a> **[SpaceNews]** Ursa Major secures $100 million in new capital as it leans hard into defense work
 - <a href="https://spacenews.com/eutelsat-approves-nearly-1-billion-capital-boost/" >🔗</a> **[SpaceNews]** Eutelsat approves nearly $1 billion capital boost
 - <a href="https://www.nasaspaceflight.com/2025/11/l3harris-brand-new-rs-25-engines-artemis/" >🔗</a> **[NASASpaceflight]** L3Harris testing brand new RS-25 engines for future Artemis launches
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4716-4722-drilling-success-at-nevado-sajama/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4716-4722: Drilling Success at Nevado Sajama
@@ -98,7 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/the-next-generation-of-radar-needed-to-detect-micro-debris-and-enable-a-safer-leo/" >🔗</a> **[SpaceNews]** The next generation of radar needed to detect micro-debris and enable a safer LEO
 - <a href="https://spacenews.com/avoiding-a-harmful-lunar-gold-rush/" >🔗</a> **[SpaceNews]** Avoiding a harmful lunar ‘gold rush’
 - <a href="https://europeanspaceflight.com/arianegroup-avio-deal-outlines-extended-transition-of-turbopump-manufacturing-to-france/" >🔗</a> **[European Spaceflight]** ArianeGroup–Avio Deal Outlines Extended Transition of Turbopump Manufacturing to France
-- <a href="https://spacenews.com/chinas-space-ambitions-hit-a-new-gear/" >🔗</a> **[SpaceNews]** China’s space ambitions hit a new gear
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251118T233111">2025-11-18 23:31:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251119T000515">2025-11-19 00:05:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
