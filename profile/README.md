@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/celebrating-25-years-of-humanity-in-space/" >🔗</a> **[NASA]** Celebrating 25 Years of Humanity in Space
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasas-x-59-completes-first-flight-prepares-for-more-flight-testing/" >🔗</a> **[NASA]** NASA’s X-59 Completes First Flight, Prepares for More Flight Testing
 - <a href="https://www.nasa.gov/science-research/earth-science/sarp-2025-closeout/" >🔗</a> **[NASA]** SARP 2025 Closeout
 - <a href="https://www.nasa.gov/science-research/earth-science/sarp-east-2025-atmospheric-chemistry-group/" >🔗</a> **[NASA]** SARP East 2025 Atmospheric Chemistry Group
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/science-research/earth-science/sarp-west-2025-land-group/" >🔗</a> **[NASA]** SARP West 2025 Land Group
 - <a href="https://www.nasa.gov/science-research/earth-science/sarp-west-2025-oceans-group/" >🔗</a> **[NASA]** SARP West 2025 Oceans Group
 - <a href="https://www.nasa.gov/science-research/earth-science/sarp-west-2025-whole-air-sampling-group/" >🔗</a> **[NASA]** SARP West 2025 Whole Air Sampling Group
-- <a href="https://www.nasa.gov/science-research/earth-science/sarp-east-2025-ecohydrology-group/" >🔗</a> **[NASA]** SARP East 2025 Ecohydrology Group
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251119T230126">2025-11-19 23:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251119T233208">2025-11-19 23:32:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
