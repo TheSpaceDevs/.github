@@ -90,16 +90,16 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacedaily.com/reports/Power_grid_agreement_to_supply_energy_for_Loft_Orbital_satellites_999.html" >🔗</a> **[SpaceDaily]** Power grid agreement to supply energy for Loft Orbital satellites
+- <a href="https://www.spacewar.com/reports/New_Laboratory_Showcases_Advanced_Satcom_Capabilities_for_Australian_Defence_Force_999.html" >🔗</a> **[SpaceDaily]** New Laboratory Showcases Advanced Satcom Capabilities for Australian Defence Force
+- <a href="https://www.spacedaily.com/reports/Machine_learning_tool_distinguishes_signs_of_life_from_non_living_compounds_in_space_samples_999.html" >🔗</a> **[SpaceDaily]** Machine learning tool distinguishes signs of life from non-living compounds in space samples
+- <a href="https://www.spacedaily.com/reports/Kepler_sets_January_launch_for_optical_data_relay_satellites_to_expand_in_orbit_connectivity_999.html" >🔗</a> **[SpaceDaily]** Kepler sets January launch for optical data relay satellites to expand in-orbit connectivity
+- <a href="https://www.spacedaily.com/reports/Gravitational_wave_detectors_complete_two_year_campaign_with_record_signal_count_999.html" >🔗</a> **[SpaceDaily]** Gravitational wave detectors complete two year campaign with record signal count
+- <a href="https://www.gpsdaily.com/reports/Ancient_animal_GPS_system_identified_in_magnetic_fossils_999.html" >🔗</a> **[SpaceDaily]** Ancient 'animal GPS system' identified in magnetic fossils
 - <a href="https://spacenews.com/u-s-government-and-companies-criticize-draft-eu-space-act/" >🔗</a> **[SpaceNews]** U.S. government and companies criticize draft EU Space Act
 - <a href="https://spacenews.com/european-officials-stress-space-autonomy-despite-lingering-dependencies/" >🔗</a> **[SpaceNews]** European officials stress space autonomy despite lingering dependencies
 - <a href="https://spacenews.com/ursa-major-secures-100-million-in-new-capital-as-it-leans-hard-into-defense-work/" >🔗</a> **[SpaceNews]** Ursa Major secures $100 million in new capital as it leans hard into defense work
 - <a href="https://spacenews.com/eutelsat-approves-nearly-1-billion-capital-boost/" >🔗</a> **[SpaceNews]** Eutelsat approves nearly $1 billion capital boost
-- <a href="https://www.nasaspaceflight.com/2025/11/l3harris-brand-new-rs-25-engines-artemis/" >🔗</a> **[NASASpaceflight]** L3Harris testing brand new RS-25 engines for future Artemis launches
-- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4716-4722-drilling-success-at-nevado-sajama/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4716-4722: Drilling Success at Nevado Sajama
-- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4709-4715-drilling-high-and-low-in-the-boxwork-unit/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4709-4715: Drilling High and Low in the Boxwork Unit
-- <a href="https://www.nasa.gov/image-article/nasa-telescopes-view-spiral-galaxy/" >🔗</a> **[NASA]** NASA Telescopes View Spiral Galaxy
-- <a href="https://spaceflightnow.com/2025/11/18/live-coverage-spacex-resumes-early-evening-launches-after-faa-restrictions-lifted/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to resume early evening launches after FAA restrictions lifted
-- <a href="https://spacenews.com/the-next-generation-of-radar-needed-to-detect-micro-debris-and-enable-a-safer-leo/" >🔗</a> **[SpaceNews]** The next generation of radar needed to detect micro-debris and enable a safer LEO
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251119T070146">2025-11-19 07:01:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251119T073252">2025-11-19 07:32:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
