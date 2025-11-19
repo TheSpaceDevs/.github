@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/european-officials-stress-space-autonomy-despite-lingering-dependencies/" >🔗</a> **[SpaceNews]** European officials stress space autonomy despite lingering dependencies
 - <a href="https://spacenews.com/ursa-major-secures-100-million-in-new-capital-as-it-leans-hard-into-defense-work/" >🔗</a> **[SpaceNews]** Ursa Major secures $100 million in new capital as it leans hard into defense work
 - <a href="https://spacenews.com/eutelsat-approves-nearly-1-billion-capital-boost/" >🔗</a> **[SpaceNews]** Eutelsat approves nearly $1 billion capital boost
 - <a href="https://www.nasaspaceflight.com/2025/11/l3harris-brand-new-rs-25-engines-artemis/" >🔗</a> **[NASASpaceflight]** L3Harris testing brand new RS-25 engines for future Artemis launches
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spaceflightnow.com/2025/11/18/live-coverage-spacex-resumes-early-evening-launches-after-faa-restrictions-lifted/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to resume early evening launches after FAA restrictions lifted
 - <a href="https://spacenews.com/the-next-generation-of-radar-needed-to-detect-micro-debris-and-enable-a-safer-leo/" >🔗</a> **[SpaceNews]** The next generation of radar needed to detect micro-debris and enable a safer LEO
 - <a href="https://spacenews.com/avoiding-a-harmful-lunar-gold-rush/" >🔗</a> **[SpaceNews]** Avoiding a harmful lunar ‘gold rush’
-- <a href="https://europeanspaceflight.com/arianegroup-avio-deal-outlines-extended-transition-of-turbopump-manufacturing-to-france/" >🔗</a> **[European Spaceflight]** ArianeGroup–Avio Deal Outlines Extended Transition of Turbopump Manufacturing to France
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251119T032526">2025-11-19 03:25:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251119T034358">2025-11-19 03:43:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
