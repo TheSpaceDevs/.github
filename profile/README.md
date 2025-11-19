@@ -52,7 +52,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251122T214400">2025-11-22 21:44:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-15&location=Vandenberg SFB, CA, USA&dates=20251122T214400Z%2F20251123T014400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-15** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251123T080000">2025-11-23 08:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-30&location=Vandenberg SFB, CA, USA&dates=20251123T080000Z%2F20251123T120000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-30** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251125T040100">2025-11-25 04:01:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2F/G | Shenzhou 22&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20251125T040100Z%2F20251125T044100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2F/G | Shenzhou 22** from Jiuquan Satellite Launch Center, People's Republic of China.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251125T130000">2025-11-25 13:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Angara 1.2 | Kosmos (Unknown Payload)&location=Plesetsk Cosmodrome, Russian Federation&dates=20251125T130000Z%2F20251125T160000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Angara 1.2 | Kosmos (Unknown Payload)** from Plesetsk Cosmodrome, Russian Federation.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251125T130000">2025-11-25 13:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Angara 1.2 | Kosmos (Unknown Payload)&location=Plesetsk Cosmodrome, Russian Federation&dates=20251125T130000Z%2F20251125T143500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Angara 1.2 | Kosmos (Unknown Payload)** from Plesetsk Cosmodrome, Russian Federation.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251125T185800">2025-11-25 18:58:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 15-10&location=Vandenberg SFB, CA, USA&dates=20251125T185800Z%2F20251125T225800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 15-10** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251126T155400">2025-11-26 15:54:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/kr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Nuri | CAS500-3&location=Naro Space Center, South Korea&dates=20251126T155400Z%2F20251126T161400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Nuri | CAS500-3** from Naro Space Center, South Korea.
 
@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/italian-dutch-space-company-revolv-space-launches-new-larger-solar-array-drive-assembly/" >🔗</a> **[SpaceNews]** Italian-Dutch space company Revolv Space launches new, larger solar array drive assembly
-- <a href="https://science.nasa.gov/uncategorized/testing-dummy-doc/" >🔗</a> **[NASA]** TESTING – DUMMY DOC
-- <a href="https://www.nasa.gov/missions/cassini/nasa-cassini-study-finds-organics-fresh-from-ocean-of-enceladus/" >🔗</a> **[NASA]** NASA Cassini Study Finds Organics ‘Fresh’ From Ocean of Enceladus
-- <a href="https://science.nasa.gov/missions/webb/webb-first-to-show-4-dust-shells-spiraling-apep-limits-long-orbit/" >🔗</a> **[NASA]** Webb First to Show 4 Dust Shells ‘Spiraling’ Apep, Limits Long Orbit
-- <a href="https://spacenews.com/kymeta-and-irocket-working-on-multi-orbit-golden-dome-interceptor-connectivity/" >🔗</a> **[SpaceNews]** Kymeta and iRocket working on multi-orbit Golden Dome interceptor connectivity
-- <a href="https://www.esa.int/Applications/Satellite_navigation/ESA_Navigation_at_2025_Ministerial_Council" >🔗</a> **[ESA]** ESA Navigation at 2025 Ministerial Council
-- <a href="https://spacenews.com/oq-technology-demos-european-emergency-smartphone-alert-from-space/" >🔗</a> **[SpaceNews]** OQ Technology demos European emergency smartphone alert from space
-- <a href="https://www.nasa.gov/general/presencia-el-lanzamiento-de-artemis-ii/" >🔗</a> **[NASA]** Presencia el lanzamiento de Artemis II
-- <a href="https://www.nasa.gov/general/experience-the-launch-of-artemis-ii/" >🔗</a> **[NASA]** Experience the Launch of Artemis II
-- <a href="https://spacenews.com/katalyst-selects-pegasus-to-launch-swift-reboost-mission/" >🔗</a> **[SpaceNews]** Katalyst selects Pegasus to launch Swift reboost mission
+- <a href="https://www.nasa.gov/science-research/earth-science/sarp-2025-closeout/" >🔗</a> **[NASA]** SARP 2025 Closeout
+- <a href="https://www.nasa.gov/science-research/earth-science/sarp-east-2025-atmospheric-chemistry-group/" >🔗</a> **[NASA]** SARP East 2025 Atmospheric Chemistry Group
+- <a href="https://www.nasa.gov/science-research/earth-science/sarp-east-2025-terrestrial-fluxes-group/" >🔗</a> **[NASA]** SARP East 2025 Terrestrial Fluxes Group
+- <a href="https://www.nasa.gov/science-research/earth-science/sarp-east-2025-oceans-group/" >🔗</a> **[NASA]** SARP East 2025 Oceans Group
+- <a href="https://www.nasa.gov/science-research/earth-science/sarp-west-2025-aerosols-group/" >🔗</a> **[NASA]** SARP West 2025 Aerosols Group
+- <a href="https://www.nasa.gov/science-research/earth-science/sarp-west-2025-land-group/" >🔗</a> **[NASA]** SARP West 2025 Land Group
+- <a href="https://www.nasa.gov/science-research/earth-science/sarp-west-2025-oceans-group/" >🔗</a> **[NASA]** SARP West 2025 Oceans Group
+- <a href="https://www.nasa.gov/science-research/earth-science/sarp-west-2025-whole-air-sampling-group/" >🔗</a> **[NASA]** SARP West 2025 Whole Air Sampling Group
+- <a href="https://www.nasa.gov/science-research/earth-science/sarp-east-2025-ecohydrology-group/" >🔗</a> **[NASA]** SARP East 2025 Ecohydrology Group
+- <a href="https://www.nasa.gov/solar-system/planets/mars/nasas-mars-spacecraft-capture-images-of-comet-3i-atlas/" >🔗</a> **[NASA]** NASA’s Mars Spacecraft Capture Images of Comet 3I/ATLAS
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251119T210113">2025-11-19 21:01:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251119T213054">2025-11-19 21:30:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
