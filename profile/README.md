@@ -90,6 +90,9 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/oq-technology-demos-european-emergency-smartphone-alert-from-space/" >🔗</a> **[SpaceNews]** OQ Technology demos European emergency smartphone alert from space
+- <a href="https://www.nasa.gov/general/presencia-el-lanzamiento-de-artemis-ii/" >🔗</a> **[NASA]** Presencia el lanzamiento de Artemis II
+- <a href="https://www.nasa.gov/general/experience-the-launch-of-artemis-ii/" >🔗</a> **[NASA]** Experience the Launch of Artemis II
 - <a href="https://spacenews.com/katalyst-selects-pegasus-to-launch-swift-reboost-mission/" >🔗</a> **[SpaceNews]** Katalyst selects Pegasus to launch Swift reboost mission
 - <a href="https://spacenews.com/redwire-lands-44-million-darpa-award-to-build-air-breathing-satellite/" >🔗</a> **[SpaceNews]** Redwire lands $44 million DARPA award to build air-breathing satellite
 - <a href="https://spacenews.com/department-of-war-executive-order-should-prioritize-readiness-against-space-stalkers/" >🔗</a> **[SpaceNews]** ‘Department of War’ Executive Order should prioritize readiness against space stalkers
@@ -97,9 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/11/Galileo_advancing_toward_the_future" >🔗</a> **[ESA]** Galileo, advancing toward the future
 - <a href="https://spacenews.com/senate-commerce-committee-schedules-hearing-on-isaacman-renomination/" >🔗</a> **[SpaceNews]** Senate Commerce Committee schedules hearing on Isaacman renomination
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-nation-meet-alyssa-yockey-neutral-buoyancy-laboratory-flight-lead/" >🔗</a> **[NASA]** Station Nation: Meet Alyssa Yockey, Neutral Buoyancy Laboratory Flight Lead
-- <a href="https://europeanspaceflight.com/canada-commits-528-5-million-to-european-space-agency-programmes/" >🔗</a> **[European Spaceflight]** Canada Commits $528.5 Million to European Space Agency Programmes
-- <a href="https://www.gpsdaily.com/reports/Ancient_animal_GPS_system_identified_in_magnetic_fossils_999.html" >🔗</a> **[SpaceDaily]** Ancient 'animal GPS system' identified in magnetic fossils
-- <a href="https://www.spacedaily.com/reports/Gravitational_wave_detectors_complete_two_year_campaign_with_record_signal_count_999.html" >🔗</a> **[SpaceDaily]** Gravitational wave detectors complete two year campaign with record signal count
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251119T150113">2025-11-19 15:01:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251119T153404">2025-11-19 15:34:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
