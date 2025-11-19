@@ -90,6 +90,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/u-s-government-and-companies-criticize-draft-eu-space-act/" >🔗</a> **[SpaceNews]** U.S. government and companies criticize draft EU Space Act
 - <a href="https://spacenews.com/european-officials-stress-space-autonomy-despite-lingering-dependencies/" >🔗</a> **[SpaceNews]** European officials stress space autonomy despite lingering dependencies
 - <a href="https://spacenews.com/ursa-major-secures-100-million-in-new-capital-as-it-leans-hard-into-defense-work/" >🔗</a> **[SpaceNews]** Ursa Major secures $100 million in new capital as it leans hard into defense work
 - <a href="https://spacenews.com/eutelsat-approves-nearly-1-billion-capital-boost/" >🔗</a> **[SpaceNews]** Eutelsat approves nearly $1 billion capital boost
@@ -99,7 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasa.gov/image-article/nasa-telescopes-view-spiral-galaxy/" >🔗</a> **[NASA]** NASA Telescopes View Spiral Galaxy
 - <a href="https://spaceflightnow.com/2025/11/18/live-coverage-spacex-resumes-early-evening-launches-after-faa-restrictions-lifted/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to resume early evening launches after FAA restrictions lifted
 - <a href="https://spacenews.com/the-next-generation-of-radar-needed-to-detect-micro-debris-and-enable-a-safer-leo/" >🔗</a> **[SpaceNews]** The next generation of radar needed to detect micro-debris and enable a safer LEO
-- <a href="https://spacenews.com/avoiding-a-harmful-lunar-gold-rush/" >🔗</a> **[SpaceNews]** Avoiding a harmful lunar ‘gold rush’
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251119T050139">2025-11-19 05:01:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251119T053509">2025-11-19 05:35:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
