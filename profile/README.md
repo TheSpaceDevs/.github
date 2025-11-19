@@ -90,16 +90,16 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.spacedaily.com/reports/Power_grid_agreement_to_supply_energy_for_Loft_Orbital_satellites_999.html" >🔗</a> **[SpaceDaily]** Power grid agreement to supply energy for Loft Orbital satellites
+- <a href="https://europeanspaceflight.com/canada-commits-528-5-million-to-european-space-agency-programmes/" >🔗</a> **[European Spaceflight]** Canada Commits $528.5 Million to European Space Agency Programmes
 - <a href="https://www.spacewar.com/reports/New_Laboratory_Showcases_Advanced_Satcom_Capabilities_for_Australian_Defence_Force_999.html" >🔗</a> **[SpaceDaily]** New Laboratory Showcases Advanced Satcom Capabilities for Australian Defence Force
+- <a href="https://www.spacedaily.com/reports/Power_grid_agreement_to_supply_energy_for_Loft_Orbital_satellites_999.html" >🔗</a> **[SpaceDaily]** Power grid agreement to supply energy for Loft Orbital satellites
 - <a href="https://www.spacedaily.com/reports/Machine_learning_tool_distinguishes_signs_of_life_from_non_living_compounds_in_space_samples_999.html" >🔗</a> **[SpaceDaily]** Machine learning tool distinguishes signs of life from non-living compounds in space samples
-- <a href="https://www.spacedaily.com/reports/Kepler_sets_January_launch_for_optical_data_relay_satellites_to_expand_in_orbit_connectivity_999.html" >🔗</a> **[SpaceDaily]** Kepler sets January launch for optical data relay satellites to expand in-orbit connectivity
 - <a href="https://www.spacedaily.com/reports/Gravitational_wave_detectors_complete_two_year_campaign_with_record_signal_count_999.html" >🔗</a> **[SpaceDaily]** Gravitational wave detectors complete two year campaign with record signal count
 - <a href="https://www.gpsdaily.com/reports/Ancient_animal_GPS_system_identified_in_magnetic_fossils_999.html" >🔗</a> **[SpaceDaily]** Ancient 'animal GPS system' identified in magnetic fossils
+- <a href="https://www.spacedaily.com/reports/Kepler_sets_January_launch_for_optical_data_relay_satellites_to_expand_in_orbit_connectivity_999.html" >🔗</a> **[SpaceDaily]** Kepler sets January launch for optical data relay satellites to expand in-orbit connectivity
 - <a href="https://spacenews.com/u-s-government-and-companies-criticize-draft-eu-space-act/" >🔗</a> **[SpaceNews]** U.S. government and companies criticize draft EU Space Act
 - <a href="https://spacenews.com/european-officials-stress-space-autonomy-despite-lingering-dependencies/" >🔗</a> **[SpaceNews]** European officials stress space autonomy despite lingering dependencies
 - <a href="https://spacenews.com/ursa-major-secures-100-million-in-new-capital-as-it-leans-hard-into-defense-work/" >🔗</a> **[SpaceNews]** Ursa Major secures $100 million in new capital as it leans hard into defense work
-- <a href="https://spacenews.com/eutelsat-approves-nearly-1-billion-capital-boost/" >🔗</a> **[SpaceNews]** Eutelsat approves nearly $1 billion capital boost
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251119T100146">2025-11-19 10:01:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251119T103655">2025-11-19 10:36:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
