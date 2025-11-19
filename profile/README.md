@@ -90,6 +90,8 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/italian-dutch-space-company-revolv-space-launches-new-larger-solar-array-drive-assembly/" >🔗</a> **[SpaceNews]** Italian-Dutch space company Revolv Space launches new, larger solar array drive assembly
+- <a href="https://science.nasa.gov/uncategorized/testing-dummy-doc/" >🔗</a> **[NASA]** TESTING – DUMMY DOC
 - <a href="https://www.nasa.gov/missions/cassini/nasa-cassini-study-finds-organics-fresh-from-ocean-of-enceladus/" >🔗</a> **[NASA]** NASA Cassini Study Finds Organics ‘Fresh’ From Ocean of Enceladus
 - <a href="https://science.nasa.gov/missions/webb/webb-first-to-show-4-dust-shells-spiraling-apep-limits-long-orbit/" >🔗</a> **[NASA]** Webb First to Show 4 Dust Shells ‘Spiraling’ Apep, Limits Long Orbit
 - <a href="https://spacenews.com/kymeta-and-irocket-working-on-multi-orbit-golden-dome-interceptor-connectivity/" >🔗</a> **[SpaceNews]** Kymeta and iRocket working on multi-orbit Golden Dome interceptor connectivity
@@ -98,8 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasa.gov/general/presencia-el-lanzamiento-de-artemis-ii/" >🔗</a> **[NASA]** Presencia el lanzamiento de Artemis II
 - <a href="https://www.nasa.gov/general/experience-the-launch-of-artemis-ii/" >🔗</a> **[NASA]** Experience the Launch of Artemis II
 - <a href="https://spacenews.com/katalyst-selects-pegasus-to-launch-swift-reboost-mission/" >🔗</a> **[SpaceNews]** Katalyst selects Pegasus to launch Swift reboost mission
-- <a href="https://spacenews.com/redwire-lands-44-million-darpa-award-to-build-air-breathing-satellite/" >🔗</a> **[SpaceNews]** Redwire lands $44 million DARPA award to build air-breathing satellite
-- <a href="https://spacenews.com/department-of-war-executive-order-should-prioritize-readiness-against-space-stalkers/" >🔗</a> **[SpaceNews]** ‘Department of War’ Executive Order should prioritize readiness against space stalkers
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251119T180158">2025-11-19 18:01:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251119T184024">2025-11-19 18:40:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
