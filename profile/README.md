@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/artemis/artemis-2/nasa-progresses-toward-artemis-ii-moon-mission/" >🔗</a> **[NASA]** NASA Progresses Toward Artemis II Moon Mission
+- <a href="https://spacenews.com/space-force-roadmap-set-to-define-what-the-service-needs-and-why/" >🔗</a> **[SpaceNews]** Space Force roadmap set to define what the service needs and why
+- <a href="https://www.nasa.gov/image-article/nasas-quesst-mission-marks-x-59s-historic-first-flight/" >🔗</a> **[NASA]** NASA’s Quesst Mission Marks X-59’s Historic First Flight
+- <a href="https://www.nasa.gov/missions/maia/nasa-aerospace-corporation-study-sharpens-focus-on-ammonia-emissions/" >🔗</a> **[NASA]** NASA, Aerospace Corporation Study Sharpens Focus on Ammonia Emissions
+- <a href="https://www.nasaspaceflight.com/2025/11/blue-upgrades-new-glenn-flight-3/" >🔗</a> **[NASASpaceflight]** Blue Origin announce upgrades to New Glenn ahead of Flight 3
+- <a href="https://www.spacescout.info/2025/11/atlas-v-delivers-viasat-3-f2/" >🔗</a> **[Space Scout]** Atlas V delivers ViaSat-3 F2
+- <a href="https://www.nasa.gov/missions/quesst/x-59-first-flight-media-resources/" >🔗</a> **[NASA]** X-59 First Flight Media Resources
 - <a href="https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-ethan-jacobs/" >🔗</a> **[NASA]** I Am Artemis: Ethan Jacobs
 - <a href="https://science.nasa.gov/get-involved/citizen-science/new-citizen-science-proposals-funded-in-2025/" >🔗</a> **[NASA]** New Citizen Science Proposals Funded in 2025
 - <a href="https://science.nasa.gov/missions/tess/nasas-tess-spacecraft-triples-size-of-pleiades-star-cluster/" >🔗</a> **[NASA]** NASA’s TESS Spacecraft Triples Size of Pleiades Star Cluster
-- <a href="https://www.nasa.gov/image-article/huy-nguyen-family-footsteps/" >🔗</a> **[NASA]** NASA Stennis Engineer Follows Family Footsteps into NASA’s Artemis Era
-- <a href="https://spacenews.com/the-ultimate-backup-why-humanity-needs-a-lunar-seed-vault-now/" >🔗</a> **[SpaceNews]** The ultimate backup: why humanity needs a lunar seed vault — now
-- <a href="https://spacenews.com/voyager-technologies-acquires-estes-energetics/" >🔗</a> **[SpaceNews]** Voyager Technologies acquires Estes Energetics
-- <a href="https://europeanspaceflight.com/the-exploration-company-acquires-german-additive-manufacturing-company/" >🔗</a> **[European Spaceflight]** The Exploration Company Acquires German Additive Manufacturing Company
-- <a href="https://www.esa.int/About_Us/Business_with_ESA/ESA_awards_excellent_suppliers" >🔗</a> **[ESA]** ESA awards excellent suppliers
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_approved_for_launch_in_spring_2026" >🔗</a> **[ESA]** Smile approved for launch in spring 2026
-- <a href="https://spacenews.com/reimagining-space-stations-for-the-commercial-age/" >🔗</a> **[SpaceNews]** Reimagining space stations for the commercial age
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251120T170151">2025-11-20 17:01:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251120T173303">2025-11-20 17:33:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
