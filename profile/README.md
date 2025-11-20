@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/spaceforest-announces-launch-date-for-perun-return-to-flight-mission/" >🔗</a> **[European Spaceflight]** SpaceForest Announces Launch Date for PERUN Return-to-Flight Mission
 - <a href="https://www.nasaspaceflight.com/2025/11/preparing-pads-spacexs-starship-cadence/" >🔗</a> **[NASASpaceflight]** Preparing pads for SpaceX’s future Starship cadence
 - <a href="https://spacenews.com/ssc-introduces-streamlined-ground-station-service/" >🔗</a> **[SpaceNews]** SSC introduces streamlined ground station service
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/celebrating-25-years-of-humanity-in-space/" >🔗</a> **[NASA]** Celebrating 25 Years of Humanity in Space
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/science-research/earth-science/sarp-east-2025-terrestrial-fluxes-group/" >🔗</a> **[NASA]** SARP East 2025 Terrestrial Fluxes Group
 - <a href="https://www.nasa.gov/science-research/earth-science/sarp-east-2025-oceans-group/" >🔗</a> **[NASA]** SARP East 2025 Oceans Group
 - <a href="https://www.nasa.gov/science-research/earth-science/sarp-west-2025-aerosols-group/" >🔗</a> **[NASA]** SARP West 2025 Aerosols Group
-- <a href="https://www.nasa.gov/science-research/earth-science/sarp-west-2025-land-group/" >🔗</a> **[NASA]** SARP West 2025 Land Group
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251120T080155">2025-11-20 08:01:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251120T083903">2025-11-20 08:39:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
