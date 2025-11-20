@@ -92,16 +92,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.spacedaily.com/reports/Orbital_cloud_project_to_combine_solar_powered_AI_compute_and_satellite_network_in_low_Earth_orbit_999.html" >🔗</a> **[SpaceDaily]** Orbital cloud project to combine solar powered AI compute and satellite network in low Earth orbit
-- <a href="https://www.spacedaily.com/reports/Astrophysics_study_sets_new_bounds_on_speed_of_light_across_photon_energies_999.html" >🔗</a> **[SpaceDaily]** Astrophysics study sets new bounds on speed of light across photon energies
-- <a href="https://www.spacedaily.com/reports/Frontgrade_unveils_SADA_10_drive_to_increase_efficiency_for_LEO_and_MEO_satellites_999.html" >🔗</a> **[SpaceDaily]** Frontgrade unveils SADA-10 drive to increase efficiency for LEO and MEO satellites
-- <a href="https://www.energy-daily.com/reports/Redesigned_satellite_battery_set_to_advance_LEO_power_systems_999.html" >🔗</a> **[SpaceDaily]** Redesigned satellite battery set to advance LEO power systems
+- <a href="https://spacenews.com/reimagining-space-stations-for-the-commercial-age/" >🔗</a> **[SpaceNews]** Reimagining space stations for the commercial age
 - <a href="https://www.spacedaily.com/reports/Faraday_Effect_Reveals_Magnetic_Role_of_Light_in_New_Study_999.html" >🔗</a> **[SpaceDaily]** Faraday Effect Reveals Magnetic Role of Light in New Study
+- <a href="https://www.spacedaily.com/reports/Frontgrade_unveils_SADA_10_drive_to_increase_efficiency_for_LEO_and_MEO_satellites_999.html" >🔗</a> **[SpaceDaily]** Frontgrade unveils SADA-10 drive to increase efficiency for LEO and MEO satellites
+- <a href="https://www.spacedaily.com/reports/Astrophysics_study_sets_new_bounds_on_speed_of_light_across_photon_energies_999.html" >🔗</a> **[SpaceDaily]** Astrophysics study sets new bounds on speed of light across photon energies
+- <a href="https://www.energy-daily.com/reports/Redesigned_satellite_battery_set_to_advance_LEO_power_systems_999.html" >🔗</a> **[SpaceDaily]** Redesigned satellite battery set to advance LEO power systems
+- <a href="https://www.spacedaily.com/reports/Orbital_cloud_project_to_combine_solar_powered_AI_compute_and_satellite_network_in_low_Earth_orbit_999.html" >🔗</a> **[SpaceDaily]** Orbital cloud project to combine solar powered AI compute and satellite network in low Earth orbit
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Argonaut_lunar_lander_family_grows" >🔗</a> **[ESA]** Argonaut lunar lander family grows
 - <a href="https://spacenews.com/industry-expects-germany-to-increase-esa-contributions/" >🔗</a> **[SpaceNews]** Industry expects Germany to increase ESA contributions
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Galileo_to_take_its_first_flight_on_Ariane_6_on_17_December" >🔗</a> **[ESA]** Galileo to take its first flight on Ariane 6 on 17 December
 - <a href="https://www.esa.int/Space_Safety/Planetary_Defence/40_000_near-Earth_asteroids_discovered" >🔗</a> **[ESA]** 40 000 near-Earth asteroids discovered!
-- <a href="https://europeanspaceflight.com/spaceforest-announces-launch-date-for-perun-return-to-flight-mission/" >🔗</a> **[European Spaceflight]** SpaceForest Announces Launch Date for PERUN Return-to-Flight Mission
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251120T113141">2025-11-20 11:31:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251120T120207">2025-11-20 12:02:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
