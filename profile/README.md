@@ -92,16 +92,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Argonaut_lunar_lander_family_grows" >🔗</a> **[ESA]** Argonaut lunar lander family grows
+- <a href="https://spacenews.com/industry-expects-germany-to-increase-esa-contributions/" >🔗</a> **[SpaceNews]** Industry expects Germany to increase ESA contributions
+- <a href="https://www.esa.int/Applications/Satellite_navigation/Galileo_to_take_its_first_flight_on_Ariane_6_on_17_December" >🔗</a> **[ESA]** Galileo to take its first flight on Ariane 6 on 17 December
+- <a href="https://www.esa.int/Space_Safety/Planetary_Defence/40_000_near-Earth_asteroids_discovered" >🔗</a> **[ESA]** 40 000 near-Earth asteroids discovered!
 - <a href="https://europeanspaceflight.com/spaceforest-announces-launch-date-for-perun-return-to-flight-mission/" >🔗</a> **[European Spaceflight]** SpaceForest Announces Launch Date for PERUN Return-to-Flight Mission
 - <a href="https://www.nasaspaceflight.com/2025/11/preparing-pads-spacexs-starship-cadence/" >🔗</a> **[NASASpaceflight]** Preparing pads for SpaceX’s future Starship cadence
 - <a href="https://spacenews.com/ssc-introduces-streamlined-ground-station-service/" >🔗</a> **[SpaceNews]** SSC introduces streamlined ground station service
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/celebrating-25-years-of-humanity-in-space/" >🔗</a> **[NASA]** Celebrating 25 Years of Humanity in Space
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasas-x-59-completes-first-flight-prepares-for-more-flight-testing/" >🔗</a> **[NASA]** NASA’s X-59 Completes First Flight, Prepares for More Flight Testing
 - <a href="https://www.nasa.gov/science-research/earth-science/sarp-2025-closeout/" >🔗</a> **[NASA]** SARP 2025 Closeout
-- <a href="https://www.nasa.gov/science-research/earth-science/sarp-east-2025-atmospheric-chemistry-group/" >🔗</a> **[NASA]** SARP East 2025 Atmospheric Chemistry Group
-- <a href="https://www.nasa.gov/science-research/earth-science/sarp-east-2025-terrestrial-fluxes-group/" >🔗</a> **[NASA]** SARP East 2025 Terrestrial Fluxes Group
-- <a href="https://www.nasa.gov/science-research/earth-science/sarp-east-2025-oceans-group/" >🔗</a> **[NASA]** SARP East 2025 Oceans Group
-- <a href="https://www.nasa.gov/science-research/earth-science/sarp-west-2025-aerosols-group/" >🔗</a> **[NASA]** SARP West 2025 Aerosols Group
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251120T100117">2025-11-20 10:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251120T103619">2025-11-20 10:36:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
