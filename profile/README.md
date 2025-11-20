@@ -52,9 +52,9 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251123T080000">2025-11-23 08:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-30&location=Vandenberg SFB, CA, USA&dates=20251123T080000Z%2F20251123T120000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-30** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251125T040100">2025-11-25 04:01:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2F/G | Shenzhou 22&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20251125T040100Z%2F20251125T044100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2F/G | Shenzhou 22** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251125T130000">2025-11-25 13:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Angara 1.2 | Kosmos (Unknown Payload)&location=Plesetsk Cosmodrome, Russian Federation&dates=20251125T130000Z%2F20251125T143500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Angara 1.2 | Kosmos (Unknown Payload)** from Plesetsk Cosmodrome, Russian Federation.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251125T185800">2025-11-25 18:58:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 15-10&location=Vandenberg SFB, CA, USA&dates=20251125T185800Z%2F20251125T225800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 15-10** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251126T155400">2025-11-26 15:54:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/kr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Nuri | CAS500-3&location=Naro Space Center, South Korea&dates=20251126T155400Z%2F20251126T161400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Nuri | CAS500-3** from Naro Space Center, South Korea.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251126T181800">2025-11-26 18:18:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Transporter 15 (Dedicated SSO Rideshare)&location=Vandenberg SFB, CA, USA&dates=20251126T181800Z%2F20251126T191500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Transporter 15 (Dedicated SSO Rideshare)** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251127T092757">2025-11-27 09:27:57 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Soyuz MS-28&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20251127T092757Z%2F20251127T092757Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Soyuz MS-28** from Baikonur Cosmodrome, Republic of Kazakhstan.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-ethan-jacobs/" >🔗</a> **[NASA]** I Am Artemis: Ethan Jacobs
+- <a href="https://science.nasa.gov/get-involved/citizen-science/new-citizen-science-proposals-funded-in-2025/" >🔗</a> **[NASA]** New Citizen Science Proposals Funded in 2025
+- <a href="https://science.nasa.gov/missions/tess/nasas-tess-spacecraft-triples-size-of-pleiades-star-cluster/" >🔗</a> **[NASA]** NASA’s TESS Spacecraft Triples Size of Pleiades Star Cluster
 - <a href="https://www.nasa.gov/image-article/huy-nguyen-family-footsteps/" >🔗</a> **[NASA]** NASA Stennis Engineer Follows Family Footsteps into NASA’s Artemis Era
-- <a href="https://spacenews.com/voyager-technologies-acquires-estes-energetics/" >🔗</a> **[SpaceNews]** Voyager Technologies acquires Estes Energetics
 - <a href="https://spacenews.com/the-ultimate-backup-why-humanity-needs-a-lunar-seed-vault-now/" >🔗</a> **[SpaceNews]** The ultimate backup: why humanity needs a lunar seed vault — now
+- <a href="https://spacenews.com/voyager-technologies-acquires-estes-energetics/" >🔗</a> **[SpaceNews]** Voyager Technologies acquires Estes Energetics
 - <a href="https://europeanspaceflight.com/the-exploration-company-acquires-german-additive-manufacturing-company/" >🔗</a> **[European Spaceflight]** The Exploration Company Acquires German Additive Manufacturing Company
 - <a href="https://www.esa.int/About_Us/Business_with_ESA/ESA_awards_excellent_suppliers" >🔗</a> **[ESA]** ESA awards excellent suppliers
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_approved_for_launch_in_spring_2026" >🔗</a> **[ESA]** Smile approved for launch in spring 2026
 - <a href="https://spacenews.com/reimagining-space-stations-for-the-commercial-age/" >🔗</a> **[SpaceNews]** Reimagining space stations for the commercial age
-- <a href="https://www.spacedaily.com/reports/Orbital_cloud_project_to_combine_solar_powered_AI_compute_and_satellite_network_in_low_Earth_orbit_999.html" >🔗</a> **[SpaceDaily]** Orbital cloud project to combine solar powered AI compute and satellite network in low Earth orbit
-- <a href="https://www.spacedaily.com/reports/Faraday_Effect_Reveals_Magnetic_Role_of_Light_in_New_Study_999.html" >🔗</a> **[SpaceDaily]** Faraday Effect Reveals Magnetic Role of Light in New Study
-- <a href="https://www.spacedaily.com/reports/Astrophysics_study_sets_new_bounds_on_speed_of_light_across_photon_energies_999.html" >🔗</a> **[SpaceDaily]** Astrophysics study sets new bounds on speed of light across photon energies
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251120T160151">2025-11-20 16:01:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251120T163905">2025-11-20 16:39:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
