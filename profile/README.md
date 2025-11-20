@@ -90,7 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-celebrates-five-years-of-artemis-accords-welcomes-3-new-nations/" >🔗</a> **[NASA]** NASA Celebrates Five Years of Artemis Accords, Welcomes 3 New Nations
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-crew-launch-to-join-station-expedition/" >🔗</a> **[NASA]** NASA Sets Coverage for Crew Launch to Join Station Expedition
+- <a href="https://science.nasa.gov/solar-system/whats-up-november-2025-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: November 2025 Skywatching Tips from NASA
 - <a href="https://arstechnica.com/space/2025/11/blue-origin-says-its-just-getting-started-with-the-new-glenn-rocket/" >🔗</a> **[Arstechnica]** Blue Origin says it’s just getting started with the New Glenn rocket
 - <a href="https://science.nasa.gov/learning-resources/science-activation/nasa-fuels-discovery-from-earth-to-sky-one-crayon-at-a-time/" >🔗</a> **[NASA]** NASA Fuels Discovery from Earth to Sky: One Crayon at a Time
 - <a href="https://www.nasa.gov/missions/artemis/artemis-2/nasa-progresses-toward-artemis-ii-moon-mission/" >🔗</a> **[NASA]** NASA Progresses Toward Artemis II Moon Mission
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/nasas-quesst-mission-marks-x-59s-historic-first-flight/" >🔗</a> **[NASA]** NASA’s Quesst Mission Marks X-59’s Historic First Flight
 - <a href="https://www.nasa.gov/missions/maia/nasa-aerospace-corporation-study-sharpens-focus-on-ammonia-emissions/" >🔗</a> **[NASA]** NASA, Aerospace Corporation Study Sharpens Focus on Ammonia Emissions
 - <a href="https://www.nasaspaceflight.com/2025/11/blue-upgrades-new-glenn-flight-3/" >🔗</a> **[NASASpaceflight]** Blue Origin announce upgrades to New Glenn ahead of Flight 3
-- <a href="https://www.spacescout.info/2025/11/atlas-v-delivers-viasat-3-f2/" >🔗</a> **[Space Scout]** Atlas V delivers ViaSat-3 F2
-- <a href="https://www.nasa.gov/missions/quesst/x-59-first-flight-media-resources/" >🔗</a> **[NASA]** X-59 First Flight Media Resources
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251120T200142">2025-11-20 20:01:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251120T203511">2025-11-20 20:35:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
