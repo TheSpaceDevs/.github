@@ -19,29 +19,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Electron | Follow My Speed (BlackSky Gen-3 3?)**. It is scheduled to be launched by *Rocket Lab*
+**Falcon 9 Block 5 | Starlink Group 6-78**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1">Rocket Lab Launch Complex 1A</a>, Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251120T124322">2025-11-20 12:43:22 UTC</a>.  Until
-then, this pad will have been used for 34
-out of 66 launches from this location. The launch status is currently
+from *<a href="https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39A">Launch Complex 39A</a>, Kennedy Space Center, FL, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251121T030100">2025-11-21 03:01:00 UTC</a>.  Until
+then, this pad will have been used for 217
+out of 275 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Earth Science* and the payload will be injected
+*Communications* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  Note: Payload and customer identities unconfirmed, identification based on mission patch and rocket drop zones analysis.
-
-3rd of the BlackSky Gen-3 high resolution Earth-imaging satellites.
+  A batch of 29 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Rocket_Lab_Electron" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=-39.262833,177.864469" >
+  <a href="https://www.google.com/maps?q=28.60822681,-80.60428186" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -51,11 +49,12 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251121T104700">2025-11-21 10:47:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 3B/E | Unknown Payload&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20251121T104700Z%2F20251121T112300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 3B/E | Unknown Payload** from Xichang Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251122T065900">2025-11-22 06:59:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-79&location=Cape Canaveral SFS, FL, USA&dates=20251122T065900Z%2F20251122T105900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-79** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251122T180000">2025-11-22 18:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/br.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=HANBIT-Nano | Spaceward&location=Alcântara Space Center, Federative Republic of Brazil&dates=20251122T180000Z%2F20251122T180000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **HANBIT-Nano | Spaceward** from Alcântara Space Center, Federative Republic of Brazil.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251122T214400">2025-11-22 21:44:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-15&location=Vandenberg SFB, CA, USA&dates=20251122T214400Z%2F20251123T014400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-15** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251123T080000">2025-11-23 08:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-30&location=Vandenberg SFB, CA, USA&dates=20251123T080000Z%2F20251123T120000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-30** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251125T040100">2025-11-25 04:01:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2F/G | Shenzhou 22&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20251125T040100Z%2F20251125T044100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2F/G | Shenzhou 22** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251125T130000">2025-11-25 13:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Angara 1.2 | Kosmos (Unknown Payload)&location=Plesetsk Cosmodrome, Russian Federation&dates=20251125T130000Z%2F20251125T143500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Angara 1.2 | Kosmos (Unknown Payload)** from Plesetsk Cosmodrome, Russian Federation.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251125T185800">2025-11-25 18:58:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 15-10&location=Vandenberg SFB, CA, USA&dates=20251125T185800Z%2F20251125T225800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 15-10** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251126T155400">2025-11-26 15:54:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/kr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Nuri | CAS500-3&location=Naro Space Center, South Korea&dates=20251126T155400Z%2F20251126T161400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Nuri | CAS500-3** from Naro Space Center, South Korea.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251126T181800">2025-11-26 18:18:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Transporter 15 (Dedicated SSO Rideshare)&location=Vandenberg SFB, CA, USA&dates=20251126T181800Z%2F20251126T191500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Transporter 15 (Dedicated SSO Rideshare)** from Vandenberg SFB, CA, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -91,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Business_with_ESA/ESA_awards_excellent_suppliers" >🔗</a> **[ESA]** ESA awards excellent suppliers
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_approved_for_launch_in_spring_2026" >🔗</a> **[ESA]** Smile approved for launch in spring 2026
 - <a href="https://spacenews.com/reimagining-space-stations-for-the-commercial-age/" >🔗</a> **[SpaceNews]** Reimagining space stations for the commercial age
 - <a href="https://www.spacedaily.com/reports/Faraday_Effect_Reveals_Magnetic_Role_of_Light_in_New_Study_999.html" >🔗</a> **[SpaceDaily]** Faraday Effect Reveals Magnetic Role of Light in New Study
-- <a href="https://www.spacedaily.com/reports/Frontgrade_unveils_SADA_10_drive_to_increase_efficiency_for_LEO_and_MEO_satellites_999.html" >🔗</a> **[SpaceDaily]** Frontgrade unveils SADA-10 drive to increase efficiency for LEO and MEO satellites
-- <a href="https://www.spacedaily.com/reports/Astrophysics_study_sets_new_bounds_on_speed_of_light_across_photon_energies_999.html" >🔗</a> **[SpaceDaily]** Astrophysics study sets new bounds on speed of light across photon energies
 - <a href="https://www.energy-daily.com/reports/Redesigned_satellite_battery_set_to_advance_LEO_power_systems_999.html" >🔗</a> **[SpaceDaily]** Redesigned satellite battery set to advance LEO power systems
 - <a href="https://www.spacedaily.com/reports/Orbital_cloud_project_to_combine_solar_powered_AI_compute_and_satellite_network_in_low_Earth_orbit_999.html" >🔗</a> **[SpaceDaily]** Orbital cloud project to combine solar powered AI compute and satellite network in low Earth orbit
+- <a href="https://www.spacedaily.com/reports/Frontgrade_unveils_SADA_10_drive_to_increase_efficiency_for_LEO_and_MEO_satellites_999.html" >🔗</a> **[SpaceDaily]** Frontgrade unveils SADA-10 drive to increase efficiency for LEO and MEO satellites
+- <a href="https://www.spacedaily.com/reports/Astrophysics_study_sets_new_bounds_on_speed_of_light_across_photon_energies_999.html" >🔗</a> **[SpaceDaily]** Astrophysics study sets new bounds on speed of light across photon energies
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/11/ESA_s_Argonaut_press_conference" >🔗</a> **[ESA]** ESA’s Argonaut press conference
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Argonaut_lunar_lander_family_grows" >🔗</a> **[ESA]** Argonaut lunar lander family grows
-- <a href="https://spacenews.com/industry-expects-germany-to-increase-esa-contributions/" >🔗</a> **[SpaceNews]** Industry expects Germany to increase ESA contributions
-- <a href="https://www.esa.int/Applications/Satellite_navigation/Galileo_to_take_its_first_flight_on_Ariane_6_on_17_December" >🔗</a> **[ESA]** Galileo to take its first flight on Ariane 6 on 17 December
-- <a href="https://www.esa.int/Space_Safety/Planetary_Defence/40_000_near-Earth_asteroids_discovered" >🔗</a> **[ESA]** 40 000 near-Earth asteroids discovered!
 
 
 ### Launch-related News 🚀
@@ -109,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251120T130959">2025-11-20 13:09:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251120T133829">2025-11-20 13:38:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
