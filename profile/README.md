@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/blue-origin-announces-new-glenn-upgrade-plans/" >🔗</a> **[SpaceNews]** Blue Origin announces New Glenn upgrade plans
+- <a href="https://spaceflightnow.com/2025/11/20/live-coverage-falcon-9-starlink-mission-marks-100th-launch-of-the-year-from-floridas-space-coast/" >🔗</a> **[Spaceflight Now]** Live coverage: Falcon 9 Starlink mission marks 100th launch of the year from Florida’s Space Coast
 - <a href="https://www.nasa.gov/image-article/nasas-quesst-mission-marks-x-59s-historic-first-flight-2/" >🔗</a> **[NASA]** NASA’s Quesst Mission Marks X-59’s Historic First Flight
 - <a href="https://www.nasaspaceflight.com/2025/11/china-roundup-112025/" >🔗</a> **[NASASpaceflight]** China prepares to launch uncrewed Shenzhou as maiden launches slip for commercial launch providers
 - <a href="https://www.nasa.gov/news-release/nasas-scott-tingle-to-serve-as-agencys-chief-astronaut/" >🔗</a> **[NASA]** NASA’s Scott Tingle to Serve as Agency’s Chief Astronaut
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-crew-launch-to-join-station-expedition/" >🔗</a> **[NASA]** NASA Sets Coverage for Crew Launch to Join Station Expedition
 - <a href="https://science.nasa.gov/solar-system/whats-up-november-2025-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: November 2025 Skywatching Tips from NASA
 - <a href="https://arstechnica.com/space/2025/11/blue-origin-says-its-just-getting-started-with-the-new-glenn-rocket/" >🔗</a> **[Arstechnica]** Blue Origin says it’s just getting started with the New Glenn rocket
-- <a href="https://science.nasa.gov/learning-resources/science-activation/nasa-fuels-discovery-from-earth-to-sky-one-crayon-at-a-time/" >🔗</a> **[NASA]** NASA Fuels Discovery from Earth to Sky: One Crayon at a Time
-- <a href="https://www.nasa.gov/missions/artemis/artemis-2/nasa-progresses-toward-artemis-ii-moon-mission/" >🔗</a> **[NASA]** NASA Progresses Toward Artemis II Moon Mission
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251120T230112">2025-11-20 23:01:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251120T233212">2025-11-20 23:32:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
