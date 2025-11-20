@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ssc-introduces-streamlined-ground-station-service/" >🔗</a> **[SpaceNews]** SSC introduces streamlined ground station service
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/celebrating-25-years-of-humanity-in-space/" >🔗</a> **[NASA]** Celebrating 25 Years of Humanity in Space
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasas-x-59-completes-first-flight-prepares-for-more-flight-testing/" >🔗</a> **[NASA]** NASA’s X-59 Completes First Flight, Prepares for More Flight Testing
 - <a href="https://www.nasa.gov/science-research/earth-science/sarp-2025-closeout/" >🔗</a> **[NASA]** SARP 2025 Closeout
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/science-research/earth-science/sarp-west-2025-aerosols-group/" >🔗</a> **[NASA]** SARP West 2025 Aerosols Group
 - <a href="https://www.nasa.gov/science-research/earth-science/sarp-west-2025-land-group/" >🔗</a> **[NASA]** SARP West 2025 Land Group
 - <a href="https://www.nasa.gov/science-research/earth-science/sarp-west-2025-oceans-group/" >🔗</a> **[NASA]** SARP West 2025 Oceans Group
-- <a href="https://www.nasa.gov/science-research/earth-science/sarp-west-2025-whole-air-sampling-group/" >🔗</a> **[NASA]** SARP West 2025 Whole Air Sampling Group
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251120T040136">2025-11-20 04:01:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251120T043547">2025-11-20 04:35:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
