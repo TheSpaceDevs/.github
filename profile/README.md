@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/janus-henderson-invests-in-starlab-space/" >🔗</a> **[SpaceNews]** Janus Henderson invests in Starlab Space
 - <a href="https://spacepolicyonline.com/news/saltzman-aquisition-reform-is-a-generational-opportunity/" >🔗</a> **[SpacePolicyOnline.com]** Saltzman: Aquisition Reform is a “Generational Opportunity”
 - <a href="https://science.nasa.gov/photojournal/europa-clipper-captures-uranus-with-star-tracker-camera/" >🔗</a> **[NASA]** Europa Clipper Captures Uranus With Star Tracker Camera
 - <a href="https://spacenews.com/blue-origin-announces-new-glenn-upgrade-plans/" >🔗</a> **[SpaceNews]** Blue Origin announces New Glenn upgrade plans
@@ -99,16 +100,16 @@ into *an Unknown
 - <a href="https://www.nasa.gov/news-release/nasas-scott-tingle-to-serve-as-agencys-chief-astronaut/" >🔗</a> **[NASA]** NASA’s Scott Tingle to Serve as Agency’s Chief Astronaut
 - <a href="https://spacenews.com/electron-launches-confidential-commercial-satellite/" >🔗</a> **[SpaceNews]** Electron launches confidential commercial satellite
 - <a href="https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-celebrates-five-years-of-artemis-accords-welcomes-3-new-nations/" >🔗</a> **[NASA]** NASA Celebrates Five Years of Artemis Accords, Welcomes 3 New Nations
-- <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-crew-launch-to-join-station-expedition/" >🔗</a> **[NASA]** NASA Sets Coverage for Crew Launch to Join Station Expedition
 
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2025/11/launch-roundup-111725/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Innospace to debut new rocket, SpaceX to launch five Falcon 9 missions
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251121T070123">2025-11-21 07:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251121T073305">2025-11-21 07:33:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
