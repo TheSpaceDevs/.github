@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/About_Us/Ministerial_Council_2025/Follow_CM25_online" >🔗</a> **[ESA]** Follow CM25 online
+- <a href="https://science.nasa.gov/learning-resources/science-activation/10-years-of-students-helping-nasa-grow-space-food-with-growing-beyond-earth/" >🔗</a> **[NASA]** 10 Years of Students Helping NASA Grow Space Food with Growing Beyond Earth
 - <a href="https://www.nasa.gov/image-article/hubble-captures-puzzling-galaxy/" >🔗</a> **[NASA]** Hubble Captures Puzzling Galaxy
 - <a href="https://spacenews.com/esa-unveils-thales-alenia-space-led-consortium-for-its-argonaut-lunar-lander/" >🔗</a> **[SpaceNews]** ESA unveils Thales Alenia Space-led consortium for its Argonaut lunar lander
 - <a href="https://www.nasaspaceflight.com/2025/11/booster-18-anomaly-proof-testing/" >🔗</a> **[NASASpaceflight]** Booster 18 suffers anomaly during proof testing
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_17-21_November_2025" >🔗</a> **[ESA]** Week in images: 17-21 November 2025
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/11/Good_to_go_Let_s_Smile_episode_4" >🔗</a> **[ESA]** Good to go – Let's Smile (episode 4)
 - <a href="https://arstechnica.com/space/2025/11/newest-starship-booster-is-significantly-damaged-during-testing-early-friday/" >🔗</a> **[Arstechnica]** Newest Starship booster is significantly damaged during testing early Friday
-- <a href="https://arstechnica.com/space/2025/11/for-stoke-space-nothing-else-matters-but-full-and-rapid-rocket-reuse/" >🔗</a> **[Arstechnica]** For Stoke Space “nothing else matters” but full and rapid rocket reuse
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251121T190111">2025-11-21 19:01:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251121T193058">2025-11-21 19:30:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
