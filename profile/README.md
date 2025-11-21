@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Marking_one_year_until_BepiColombo_reaches_Mercury" >🔗</a> **[ESA]** Marking one year until BepiColombo reaches Mercury
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/11/The_epic_adventures_of_BepiColombo_-_Part_2_It_s_a_long_way_to_Mercury" >🔗</a> **[ESA]** The epic adventures of BepiColombo - Part 2: It’s a long way to Mercury
 - <a href="https://spacenews.com/janus-henderson-invests-in-starlab-space/" >🔗</a> **[SpaceNews]** Janus Henderson invests in Starlab Space
 - <a href="https://spacepolicyonline.com/news/saltzman-aquisition-reform-is-a-generational-opportunity/" >🔗</a> **[SpacePolicyOnline.com]** Saltzman: Aquisition Reform is a “Generational Opportunity”
 - <a href="https://science.nasa.gov/photojournal/europa-clipper-captures-uranus-with-star-tracker-camera/" >🔗</a> **[NASA]** Europa Clipper Captures Uranus With Star Tracker Camera
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/image-article/nasas-quesst-mission-marks-x-59s-historic-first-flight-2/" >🔗</a> **[NASA]** NASA’s Quesst Mission Marks X-59’s Historic First Flight
 - <a href="https://www.nasaspaceflight.com/2025/11/china-roundup-112025/" >🔗</a> **[NASASpaceflight]** China prepares to launch uncrewed Shenzhou as maiden launches slip for commercial launch providers
 - <a href="https://www.nasa.gov/news-release/nasas-scott-tingle-to-serve-as-agencys-chief-astronaut/" >🔗</a> **[NASA]** NASA’s Scott Tingle to Serve as Agency’s Chief Astronaut
-- <a href="https://spacenews.com/electron-launches-confidential-commercial-satellite/" >🔗</a> **[SpaceNews]** Electron launches confidential commercial satellite
-- <a href="https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-celebrates-five-years-of-artemis-accords-welcomes-3-new-nations/" >🔗</a> **[NASA]** NASA Celebrates Five Years of Artemis Accords, Welcomes 3 New Nations
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251121T080153">2025-11-21 08:01:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251121T083903">2025-11-21 08:39:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
