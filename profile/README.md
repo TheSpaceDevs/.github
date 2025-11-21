@@ -91,15 +91,15 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/About_Us/Ministerial_Council_2025/Follow_CM25_online" >🔗</a> **[ESA]** Follow CM25 online
+- <a href="https://www.nasa.gov/missions/station/iss-research/25-year-of-scientific-discovery-aboard-international-space-station/" >🔗</a> **[NASA]** 25 Year of Scientific Discovery Aboard International Space Station
+- <a href="https://www.esa.int/Space_Safety/Space_weather/Lessons_from_the_November_2025_solar_storm" >🔗</a> **[ESA]** Lessons from the November 2025 solar storm
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_17-21_November_2025" >🔗</a> **[ESA]** Week in images: 17-21 November 2025
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/11/Good_to_go_Let_s_Smile_episode_4" >🔗</a> **[ESA]** Good to go – Let's Smile (episode 4)
 - <a href="https://arstechnica.com/space/2025/11/newest-starship-booster-is-significantly-damaged-during-testing-early-friday/" >🔗</a> **[Arstechnica]** Newest Starship booster is significantly damaged during testing early Friday
 - <a href="https://arstechnica.com/space/2025/11/for-stoke-space-nothing-else-matters-but-full-and-rapid-rocket-reuse/" >🔗</a> **[Arstechnica]** For Stoke Space “nothing else matters” but full and rapid rocket reuse
 - <a href="https://science.nasa.gov/missions/hubble/hubble-seeks-clusters-in-lost-galaxy/" >🔗</a> **[NASA]** Hubble Seeks Clusters in ‘Lost Galaxy’
-- <a href="https://www.spacedaily.com/reports/A_new_angle_of_study_for_unveiling_black_hole_secrets_999.html" >🔗</a> **[SpaceDaily]** A new angle of study for unveiling black hole secrets
-- <a href="https://www.spacedaily.com/reports/NASAs_X_59_soars_on_historic_first_flight_marks_breakthrough_for_quiet_supersonic_travel_999.html" >🔗</a> **[SpaceDaily]** NASA's X-59 soars on historic first flight, marks breakthrough for quiet supersonic travel
-- <a href="https://www.spacedaily.com/reports/Water_production_on_exoplanets_revealed_by_pressure_experiments_999.html" >🔗</a> **[SpaceDaily]** Water production on exoplanets revealed by pressure experiments
 - <a href="https://www.spacedaily.com/reports/How_smarter_satellite_teamwork_can_speed_up_connections_in_space_999.html" >🔗</a> **[SpaceDaily]** How smarter satellite teamwork can speed up connections in space
-- <a href="https://www.spacewar.com/reports/New_satellites_boost_Chinas_orbital_technology_capabilities_999.html" >🔗</a> **[SpaceDaily]** New satellites boost China's orbital technology capabilities
+- <a href="https://www.spacedaily.com/reports/Water_production_on_exoplanets_revealed_by_pressure_experiments_999.html" >🔗</a> **[SpaceDaily]** Water production on exoplanets revealed by pressure experiments
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251121T150109">2025-11-21 15:01:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251121T153148">2025-11-21 15:31:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
