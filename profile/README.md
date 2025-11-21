@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/About_Us/Ministerial_Council_2025/Follow_CM25_online" >🔗</a> **[ESA]** Follow CM25 online
+- <a href="https://www.nasaspaceflight.com/2025/11/booster-18-anomaly-proof-testing/" >🔗</a> **[NASASpaceflight]** Booster 18 suffers anomaly during proof testing
 - <a href="https://www.nasa.gov/missions/station/iss-research/25-year-of-scientific-discovery-aboard-international-space-station/" >🔗</a> **[NASA]** 25 Year of Scientific Discovery Aboard International Space Station
 - <a href="https://www.esa.int/Space_Safety/Space_weather/Lessons_from_the_November_2025_solar_storm" >🔗</a> **[ESA]** Lessons from the November 2025 solar storm
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_17-21_November_2025" >🔗</a> **[ESA]** Week in images: 17-21 November 2025
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2025/11/for-stoke-space-nothing-else-matters-but-full-and-rapid-rocket-reuse/" >🔗</a> **[Arstechnica]** For Stoke Space “nothing else matters” but full and rapid rocket reuse
 - <a href="https://science.nasa.gov/missions/hubble/hubble-seeks-clusters-in-lost-galaxy/" >🔗</a> **[NASA]** Hubble Seeks Clusters in ‘Lost Galaxy’
 - <a href="https://www.spacedaily.com/reports/How_smarter_satellite_teamwork_can_speed_up_connections_in_space_999.html" >🔗</a> **[SpaceDaily]** How smarter satellite teamwork can speed up connections in space
-- <a href="https://www.spacedaily.com/reports/Water_production_on_exoplanets_revealed_by_pressure_experiments_999.html" >🔗</a> **[SpaceDaily]** Water production on exoplanets revealed by pressure experiments
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251121T153148">2025-11-21 15:31:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251121T160154">2025-11-21 16:01:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
