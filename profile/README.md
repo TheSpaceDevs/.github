@@ -90,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://europeanspaceflight.com/esa-to-build-e20-million-human-and-robotic-exploration-hub-in-germany/" >🔗</a> **[European Spaceflight]** ESA to Build €20 Million Human and Robotic Exploration Hub in Germany
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/11/Earth_from_Space_The_Danakil_Depression" >🔗</a> **[ESA]** Earth from Space: The Danakil Depression
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/11/Finding_star_clusters_in_the_Lost_Galaxy" >🔗</a> **[ESA]** Finding star clusters in the Lost Galaxy
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Marking_one_year_until_BepiColombo_reaches_Mercury" >🔗</a> **[ESA]** Marking one year until BepiColombo reaches Mercury
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/11/The_epic_adventures_of_BepiColombo_-_Part_2_It_s_a_long_way_to_Mercury" >🔗</a> **[ESA]** The epic adventures of BepiColombo - Part 2: It’s a long way to Mercury
-- <a href="https://spacenews.com/janus-henderson-invests-in-starlab-space/" >🔗</a> **[SpaceNews]** Janus Henderson invests in Starlab Space
-- <a href="https://spacepolicyonline.com/news/saltzman-aquisition-reform-is-a-generational-opportunity/" >🔗</a> **[SpacePolicyOnline.com]** Saltzman: Aquisition Reform is a “Generational Opportunity”
-- <a href="https://science.nasa.gov/photojournal/europa-clipper-captures-uranus-with-star-tracker-camera/" >🔗</a> **[NASA]** Europa Clipper Captures Uranus With Star Tracker Camera
-- <a href="https://spacenews.com/blue-origin-announces-new-glenn-upgrade-plans/" >🔗</a> **[SpaceNews]** Blue Origin announces New Glenn upgrade plans
-- <a href="https://spaceflightnow.com/2025/11/20/live-coverage-falcon-9-starlink-mission-marks-100th-launch-of-the-year-from-floridas-space-coast/" >🔗</a> **[Spaceflight Now]** Live coverage: Falcon 9 Starlink mission marks 100th launch of the year from Florida’s Space Coast
+- <a href="https://www.esa.int/About_Us/Ministerial_Council_2025/Follow_CM25_online" >🔗</a> **[ESA]** Follow CM25 online
+- <a href="https://www.spacewar.com/reports/Redwire_to_Deliver_Spacecraft_for_DARPA_Otter_VLEO_Demonstration_999.html" >🔗</a> **[SpaceDaily]** Redwire to Deliver Spacecraft for DARPA Otter VLEO Demonstration
+- <a href="https://www.spacedaily.com/reports/Next_generation_satellites_from_Spire_Global_prepared_for_SpaceX_Falcon_9_Twilight_mission_999.html" >🔗</a> **[SpaceDaily]** Next-generation satellites from Spire Global prepared for SpaceX Falcon 9 Twilight mission
+- <a href="https://www.spacewar.com/reports/New_satellites_boost_Chinas_orbital_technology_capabilities_999.html" >🔗</a> **[SpaceDaily]** New satellites boost China's orbital technology capabilities
+- <a href="https://www.spacedaily.com/reports/Water_production_on_exoplanets_revealed_by_pressure_experiments_999.html" >🔗</a> **[SpaceDaily]** Water production on exoplanets revealed by pressure experiments
+- <a href="https://www.spacedaily.com/reports/A_new_angle_of_study_for_unveiling_black_hole_secrets_999.html" >🔗</a> **[SpaceDaily]** A new angle of study for unveiling black hole secrets
+- <a href="https://www.moondaily.com/reports/NASA_backs_dust_tolerant_wireless_power_links_for_Moon_and_Mars_vehicles_999.html" >🔗</a> **[SpaceDaily]** NASA backs dust tolerant wireless power links for Moon and Mars vehicles
+- <a href="https://www.spacedaily.com/reports/How_smarter_satellite_teamwork_can_speed_up_connections_in_space_999.html" >🔗</a> **[SpaceDaily]** How smarter satellite teamwork can speed up connections in space
+- <a href="https://www.spacedaily.com/reports/NASAs_X_59_soars_on_historic_first_flight_marks_breakthrough_for_quiet_supersonic_travel_999.html" >🔗</a> **[SpaceDaily]** NASA's X-59 soars on historic first flight, marks breakthrough for quiet supersonic travel
+- <a href="https://www.saturndaily.com/reports/Cassini_study_reveals_organic_compounds_from_Enceladus_ocean_plume_999.html" >🔗</a> **[SpaceDaily]** Cassini study reveals organic compounds from Enceladus ocean plume
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251121T100146">2025-11-21 10:01:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251121T103605">2025-11-21 10:36:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
