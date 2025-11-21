@@ -90,6 +90,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/esa-to-build-e20-million-human-and-robotic-exploration-hub-in-germany/" >🔗</a> **[European Spaceflight]** ESA to Build €20 Million Human and Robotic Exploration Hub in Germany
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/11/Earth_from_Space_The_Danakil_Depression" >🔗</a> **[ESA]** Earth from Space: The Danakil Depression
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/11/Finding_star_clusters_in_the_Lost_Galaxy" >🔗</a> **[ESA]** Finding star clusters in the Lost Galaxy
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Marking_one_year_until_BepiColombo_reaches_Mercury" >🔗</a> **[ESA]** Marking one year until BepiColombo reaches Mercury
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/11/The_epic_adventures_of_BepiColombo_-_Part_2_It_s_a_long_way_to_Mercury" >🔗</a> **[ESA]** The epic adventures of BepiColombo - Part 2: It’s a long way to Mercury
 - <a href="https://spacenews.com/janus-henderson-invests-in-starlab-space/" >🔗</a> **[SpaceNews]** Janus Henderson invests in Starlab Space
@@ -97,9 +100,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/photojournal/europa-clipper-captures-uranus-with-star-tracker-camera/" >🔗</a> **[NASA]** Europa Clipper Captures Uranus With Star Tracker Camera
 - <a href="https://spacenews.com/blue-origin-announces-new-glenn-upgrade-plans/" >🔗</a> **[SpaceNews]** Blue Origin announces New Glenn upgrade plans
 - <a href="https://spaceflightnow.com/2025/11/20/live-coverage-falcon-9-starlink-mission-marks-100th-launch-of-the-year-from-floridas-space-coast/" >🔗</a> **[Spaceflight Now]** Live coverage: Falcon 9 Starlink mission marks 100th launch of the year from Florida’s Space Coast
-- <a href="https://www.nasa.gov/image-article/nasas-quesst-mission-marks-x-59s-historic-first-flight-2/" >🔗</a> **[NASA]** NASA’s Quesst Mission Marks X-59’s Historic First Flight
-- <a href="https://www.nasaspaceflight.com/2025/11/china-roundup-112025/" >🔗</a> **[NASASpaceflight]** China prepares to launch uncrewed Shenzhou as maiden launches slip for commercial launch providers
-- <a href="https://www.nasa.gov/news-release/nasas-scott-tingle-to-serve-as-agencys-chief-astronaut/" >🔗</a> **[NASA]** NASA’s Scott Tingle to Serve as Agency’s Chief Astronaut
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251121T090147">2025-11-21 09:01:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251121T093415">2025-11-21 09:34:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
