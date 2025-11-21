@@ -91,6 +91,8 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/About_Us/Ministerial_Council_2025/Follow_CM25_online" >🔗</a> **[ESA]** Follow CM25 online
+- <a href="https://www.nasa.gov/image-article/hubble-captures-puzzling-galaxy/" >🔗</a> **[NASA]** Hubble Captures Puzzling Galaxy
+- <a href="https://spacenews.com/esa-unveils-thales-alenia-space-led-consortium-for-its-argonaut-lunar-lander/" >🔗</a> **[SpaceNews]** ESA unveils Thales Alenia Space-led consortium for its Argonaut lunar lander
 - <a href="https://www.nasaspaceflight.com/2025/11/booster-18-anomaly-proof-testing/" >🔗</a> **[NASASpaceflight]** Booster 18 suffers anomaly during proof testing
 - <a href="https://www.nasa.gov/missions/station/iss-research/25-year-of-scientific-discovery-aboard-international-space-station/" >🔗</a> **[NASA]** 25 Year of Scientific Discovery Aboard International Space Station
 - <a href="https://www.esa.int/Space_Safety/Space_weather/Lessons_from_the_November_2025_solar_storm" >🔗</a> **[ESA]** Lessons from the November 2025 solar storm
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/11/Good_to_go_Let_s_Smile_episode_4" >🔗</a> **[ESA]** Good to go – Let's Smile (episode 4)
 - <a href="https://arstechnica.com/space/2025/11/newest-starship-booster-is-significantly-damaged-during-testing-early-friday/" >🔗</a> **[Arstechnica]** Newest Starship booster is significantly damaged during testing early Friday
 - <a href="https://arstechnica.com/space/2025/11/for-stoke-space-nothing-else-matters-but-full-and-rapid-rocket-reuse/" >🔗</a> **[Arstechnica]** For Stoke Space “nothing else matters” but full and rapid rocket reuse
-- <a href="https://science.nasa.gov/missions/hubble/hubble-seeks-clusters-in-lost-galaxy/" >🔗</a> **[NASA]** Hubble Seeks Clusters in ‘Lost Galaxy’
-- <a href="https://www.spacedaily.com/reports/How_smarter_satellite_teamwork_can_speed_up_connections_in_space_999.html" >🔗</a> **[SpaceDaily]** How smarter satellite teamwork can speed up connections in space
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251121T170105">2025-11-21 17:01:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251121T173324">2025-11-21 17:33:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
