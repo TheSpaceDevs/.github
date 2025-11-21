@@ -91,15 +91,15 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/About_Us/Ministerial_Council_2025/Follow_CM25_online" >🔗</a> **[ESA]** Follow CM25 online
-- <a href="https://www.spacewar.com/reports/Redwire_to_Deliver_Spacecraft_for_DARPA_Otter_VLEO_Demonstration_999.html" >🔗</a> **[SpaceDaily]** Redwire to Deliver Spacecraft for DARPA Otter VLEO Demonstration
-- <a href="https://www.spacedaily.com/reports/Next_generation_satellites_from_Spire_Global_prepared_for_SpaceX_Falcon_9_Twilight_mission_999.html" >🔗</a> **[SpaceDaily]** Next-generation satellites from Spire Global prepared for SpaceX Falcon 9 Twilight mission
+- <a href="https://arstechnica.com/space/2025/11/newest-starship-booster-is-significantly-damaged-during-testing-early-friday/" >🔗</a> **[Arstechnica]** Newest Starship booster is significantly damaged during testing early Friday
+- <a href="https://arstechnica.com/space/2025/11/for-stoke-space-nothing-else-matters-but-full-and-rapid-rocket-reuse/" >🔗</a> **[Arstechnica]** For Stoke Space “nothing else matters” but full and rapid rocket reuse
+- <a href="https://science.nasa.gov/missions/hubble/hubble-seeks-clusters-in-lost-galaxy/" >🔗</a> **[NASA]** Hubble Seeks Clusters in ‘Lost Galaxy’
 - <a href="https://www.spacewar.com/reports/New_satellites_boost_Chinas_orbital_technology_capabilities_999.html" >🔗</a> **[SpaceDaily]** New satellites boost China's orbital technology capabilities
-- <a href="https://www.spacedaily.com/reports/Water_production_on_exoplanets_revealed_by_pressure_experiments_999.html" >🔗</a> **[SpaceDaily]** Water production on exoplanets revealed by pressure experiments
 - <a href="https://www.spacedaily.com/reports/A_new_angle_of_study_for_unveiling_black_hole_secrets_999.html" >🔗</a> **[SpaceDaily]** A new angle of study for unveiling black hole secrets
-- <a href="https://www.moondaily.com/reports/NASA_backs_dust_tolerant_wireless_power_links_for_Moon_and_Mars_vehicles_999.html" >🔗</a> **[SpaceDaily]** NASA backs dust tolerant wireless power links for Moon and Mars vehicles
+- <a href="https://www.spacedaily.com/reports/Water_production_on_exoplanets_revealed_by_pressure_experiments_999.html" >🔗</a> **[SpaceDaily]** Water production on exoplanets revealed by pressure experiments
 - <a href="https://www.spacedaily.com/reports/How_smarter_satellite_teamwork_can_speed_up_connections_in_space_999.html" >🔗</a> **[SpaceDaily]** How smarter satellite teamwork can speed up connections in space
 - <a href="https://www.spacedaily.com/reports/NASAs_X_59_soars_on_historic_first_flight_marks_breakthrough_for_quiet_supersonic_travel_999.html" >🔗</a> **[SpaceDaily]** NASA's X-59 soars on historic first flight, marks breakthrough for quiet supersonic travel
-- <a href="https://www.saturndaily.com/reports/Cassini_study_reveals_organic_compounds_from_Enceladus_ocean_plume_999.html" >🔗</a> **[SpaceDaily]** Cassini study reveals organic compounds from Enceladus ocean plume
+- <a href="https://www.spacedaily.com/reports/Next_generation_satellites_from_Spire_Global_prepared_for_SpaceX_Falcon_9_Twilight_mission_999.html" >🔗</a> **[SpaceDaily]** Next-generation satellites from Spire Global prepared for SpaceX Falcon 9 Twilight mission
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251121T120157">2025-11-21 12:01:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251121T124315">2025-11-21 12:43:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
