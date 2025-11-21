@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/saltzman-aquisition-reform-is-a-generational-opportunity/" >🔗</a> **[SpacePolicyOnline.com]** Saltzman: Aquisition Reform is a “Generational Opportunity”
 - <a href="https://science.nasa.gov/photojournal/europa-clipper-captures-uranus-with-star-tracker-camera/" >🔗</a> **[NASA]** Europa Clipper Captures Uranus With Star Tracker Camera
 - <a href="https://spacenews.com/blue-origin-announces-new-glenn-upgrade-plans/" >🔗</a> **[SpaceNews]** Blue Origin announces New Glenn upgrade plans
 - <a href="https://spaceflightnow.com/2025/11/20/live-coverage-falcon-9-starlink-mission-marks-100th-launch-of-the-year-from-floridas-space-coast/" >🔗</a> **[Spaceflight Now]** Live coverage: Falcon 9 Starlink mission marks 100th launch of the year from Florida’s Space Coast
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/electron-launches-confidential-commercial-satellite/" >🔗</a> **[SpaceNews]** Electron launches confidential commercial satellite
 - <a href="https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-celebrates-five-years-of-artemis-accords-welcomes-3-new-nations/" >🔗</a> **[NASA]** NASA Celebrates Five Years of Artemis Accords, Welcomes 3 New Nations
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-crew-launch-to-join-station-expedition/" >🔗</a> **[NASA]** NASA Sets Coverage for Crew Launch to Join Station Expedition
-- <a href="https://science.nasa.gov/solar-system/whats-up-november-2025-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: November 2025 Skywatching Tips from NASA
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251121T021257">2025-11-21 02:12:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251121T025720">2025-11-21 02:57:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
