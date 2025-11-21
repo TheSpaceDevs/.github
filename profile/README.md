@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/think-tank-urges-europe-to-scale-up-space-based-data-center-efforts/" >🔗</a> **[SpaceNews]** Think tank urges Europe to scale up space-based data center efforts
 - <a href="https://www.nasa.gov/news-release/nasa-awards-liquid-hydrogen-supply-contracts/" >🔗</a> **[NASA]** NASA Awards Liquid Hydrogen Supply Contracts
 - <a href="https://spacenews.com/finlands-iceye-secures-japanese-contract-as-it-advances-international-expansion-new-satellite-ranges/" >🔗</a> **[SpaceNews]** Finland’s Iceye secures Japanese contract as it advances international expansion, new satellite ranges
 - <a href="https://www.esa.int/About_Us/Ministerial_Council_2025/Follow_CM25_online" >🔗</a> **[ESA]** Follow CM25 online
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2025/11/booster-18-anomaly-proof-testing/" >🔗</a> **[NASASpaceflight]** Booster 18 suffers anomaly during proof testing
 - <a href="https://www.nasa.gov/missions/station/iss-research/25-year-of-scientific-discovery-aboard-international-space-station/" >🔗</a> **[NASA]** 25 Year of Scientific Discovery Aboard International Space Station
 - <a href="https://www.esa.int/Space_Safety/Space_weather/Lessons_from_the_November_2025_solar_storm" >🔗</a> **[ESA]** Lessons from the November 2025 solar storm
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_17-21_November_2025" >🔗</a> **[ESA]** Week in images: 17-21 November 2025
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251121T230145">2025-11-21 23:01:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251121T233153">2025-11-21 23:31:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
