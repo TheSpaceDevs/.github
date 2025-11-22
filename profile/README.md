@@ -19,27 +19,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 6-79**. It is scheduled to be launched by *SpaceX*
+**Falcon 9 Block 5 | Starlink Group 11-30**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral SFS, FL, USA*
+from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251122T065900">2025-11-22 06:59:00 UTC</a>.  Until
-then, this pad will have been used for 349
-out of 1070 launches from this location. The launch status is currently
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251123T080000">2025-11-23 08:00:00 UTC</a>.  Until
+then, this pad will have been used for 230
+out of 844 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
 *Communications* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  A batch of 29 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  A batch of 28 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
   <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
+  <a href="https://www.google.com/maps?q=34.632,-120.611" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -54,6 +54,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251130T000000">2025-11-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 8A | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20251130T000000Z%2F20251130T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 8A | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251130T000000">2025-11-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Shepard | NS-37&location=Corn Ranch, Van Horn, TX, USA&dates=20251130T000000Z%2F20251130T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Shepard | NS-37** from Corn Ranch, Van Horn, TX, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251130T025900">2025-11-30 02:59:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 15-10&location=Vandenberg SFB, CA, USA&dates=20251130T025900Z%2F20251130T065900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 15-10** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251130T172100">2025-11-30 17:21:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Vega-C | KOMPSAT-7&location=Guiana Space Centre, French Guiana&dates=20251130T172100Z%2F20251130T172100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Vega-C | KOMPSAT-7** from Guiana Space Centre, French Guiana.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -89,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://europeanspaceflight.com/b2space-tests-balloon-based-launch-system/" >🔗</a> **[European Spaceflight]** B2Space Tests Balloon-Based Launch System
-- <a href="https://spacenews.com/blue-origin-advances-blue-ring-spacecraft-toward-2026-national-security-mission/" >🔗</a> **[SpaceNews]** Blue Origin advances Blue Ring spacecraft toward 2026 national security mission
-- <a href="https://spaceflightnow.com/2025/11/21/live-coverage-falcon-9-rocket-to-continue-starlink-deployments-with-launch-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: Falcon 9 rocket to continue Starlink deployments with launch from Cape Canaveral
-- <a href="https://spacenews.com/think-tank-urges-europe-to-scale-up-space-based-data-center-efforts/" >🔗</a> **[SpaceNews]** Think tank urges Europe to scale up space-based data center efforts
-- <a href="https://www.nasa.gov/news-release/nasa-awards-liquid-hydrogen-supply-contracts/" >🔗</a> **[NASA]** NASA Awards Liquid Hydrogen Supply Contracts
-- <a href="https://spacenews.com/finlands-iceye-secures-japanese-contract-as-it-advances-international-expansion-new-satellite-ranges/" >🔗</a> **[SpaceNews]** Finland’s Iceye secures Japanese contract as it advances international expansion, new satellite ranges
-- <a href="https://www.esa.int/About_Us/Ministerial_Council_2025/Follow_CM25_online" >🔗</a> **[ESA]** Follow CM25 online
-- <a href="https://science.nasa.gov/learning-resources/science-activation/10-years-of-students-helping-nasa-grow-space-food-with-growing-beyond-earth/" >🔗</a> **[NASA]** 10 Years of Students Helping NASA Grow Space Food with Growing Beyond Earth
-- <a href="https://www.nasa.gov/image-article/hubble-captures-puzzling-galaxy/" >🔗</a> **[NASA]** Hubble Captures Puzzling Galaxy
-- <a href="https://spacenews.com/esa-unveils-thales-alenia-space-led-consortium-for-its-argonaut-lunar-lander/" >🔗</a> **[SpaceNews]** ESA unveils Thales Alenia Space-led consortium for its Argonaut lunar lander
+- <a href="https://www.spacedaily.com/reports/NASA_celebrates_a_decade_of_student_contributions_to_space_crop_production_999.html" >🔗</a> **[SpaceDaily]** NASA celebrates a decade of student contributions to space crop production
+- <a href="https://www.spacedaily.com/reports/40_000_near_Earth_asteroids_discovered!_999.html" >🔗</a> **[SpaceDaily]** 40 000 near-Earth asteroids discovered!
+- <a href="https://www.spacedaily.com/reports/Argonaut_lunar_landers_to_deliver_cargo_on_Ariane_6_missions_999.html" >🔗</a> **[SpaceDaily]** Argonaut lunar landers to deliver cargo on Ariane 6 missions
+- <a href="https://www.spacedaily.com/reports/Galileo_satellites_to_launch_on_Ariane_6_to_enhance_navigation_system_999.html" >🔗</a> **[SpaceDaily]** Galileo satellites to launch on Ariane 6 to enhance navigation system
+- <a href="https://www.spacedaily.com/reports/Comet_sparks_scientific_fascination_online_furor_over_alien_origins_999.html" >🔗</a> **[SpaceDaily]** Comet sparks scientific fascination, online furor over 'alien' origins
+- <a href="https://www.spacedaily.com/reports/Lunar_impactor_Theia_originated_near_Earth_and_Sun_analysis_reveals_999.html" >🔗</a> **[SpaceDaily]** Lunar impactor Theia originated near Earth and Sun analysis reveals
+- <a href="https://www.spacedaily.com/reports/Starlab_secures_investment_from_Janus_Henderson_for_commercial_space_station_project_999.html" >🔗</a> **[SpaceDaily]** Starlab secures investment from Janus Henderson for commercial space station project
+- <a href="https://www.spacedaily.com/reports/Successful_cryogenic_engine_start_enables_enhanced_mission_flexibility_for_ISRO_999.html" >🔗</a> **[SpaceDaily]** Successful cryogenic engine start enables enhanced mission flexibility for ISRO
+- <a href="https://www.spacedaily.com/reports/PLD_Space_advances_MIURA_5_rocket_qualification_with_first_fully_integrated_unit_999.html" >🔗</a> **[SpaceDaily]** PLD Space advances MIURA 5 rocket qualification with first fully integrated unit
+- <a href="https://www.marsdaily.com/reports/Destination_Mars__First_Stop_Iceland_999.html" >🔗</a> **[SpaceDaily]** Destination: Mars. First Stop: Iceland?
 
 
 ### Launch-related News 🚀
@@ -108,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251122T073106">2025-11-22 07:31:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251122T080141">2025-11-22 08:01:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
