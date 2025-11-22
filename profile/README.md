@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/blue-origin-advances-blue-ring-spacecraft-toward-2026-national-security-mission/" >🔗</a> **[SpaceNews]** Blue Origin advances Blue Ring spacecraft toward 2026 national security mission
+- <a href="https://spaceflightnow.com/2025/11/21/live-coverage-falcon-9-rocket-to-continue-starlink-deployments-with-launch-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: Falcon 9 rocket to continue Starlink deployments with launch from Cape Canaveral
 - <a href="https://spacenews.com/think-tank-urges-europe-to-scale-up-space-based-data-center-efforts/" >🔗</a> **[SpaceNews]** Think tank urges Europe to scale up space-based data center efforts
 - <a href="https://www.nasa.gov/news-release/nasa-awards-liquid-hydrogen-supply-contracts/" >🔗</a> **[NASA]** NASA Awards Liquid Hydrogen Supply Contracts
 - <a href="https://spacenews.com/finlands-iceye-secures-japanese-contract-as-it-advances-international-expansion-new-satellite-ranges/" >🔗</a> **[SpaceNews]** Finland’s Iceye secures Japanese contract as it advances international expansion, new satellite ranges
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/hubble-captures-puzzling-galaxy/" >🔗</a> **[NASA]** Hubble Captures Puzzling Galaxy
 - <a href="https://spacenews.com/esa-unveils-thales-alenia-space-led-consortium-for-its-argonaut-lunar-lander/" >🔗</a> **[SpaceNews]** ESA unveils Thales Alenia Space-led consortium for its Argonaut lunar lander
 - <a href="https://www.nasaspaceflight.com/2025/11/booster-18-anomaly-proof-testing/" >🔗</a> **[NASASpaceflight]** Booster 18 suffers anomaly during proof testing
-- <a href="https://www.nasa.gov/missions/station/iss-research/25-year-of-scientific-discovery-aboard-international-space-station/" >🔗</a> **[NASA]** 25 Year of Scientific Discovery Aboard International Space Station
-- <a href="https://www.esa.int/Space_Safety/Space_weather/Lessons_from_the_November_2025_solar_storm" >🔗</a> **[ESA]** Lessons from the November 2025 solar storm
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251121T233153">2025-11-21 23:31:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251122T000451">2025-11-22 00:04:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
