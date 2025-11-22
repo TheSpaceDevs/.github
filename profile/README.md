@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/b2space-tests-balloon-based-launch-system/" >🔗</a> **[European Spaceflight]** B2Space Tests Balloon-Based Launch System
 - <a href="https://spacenews.com/blue-origin-advances-blue-ring-spacecraft-toward-2026-national-security-mission/" >🔗</a> **[SpaceNews]** Blue Origin advances Blue Ring spacecraft toward 2026 national security mission
 - <a href="https://spaceflightnow.com/2025/11/21/live-coverage-falcon-9-rocket-to-continue-starlink-deployments-with-launch-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: Falcon 9 rocket to continue Starlink deployments with launch from Cape Canaveral
 - <a href="https://spacenews.com/think-tank-urges-europe-to-scale-up-space-based-data-center-efforts/" >🔗</a> **[SpaceNews]** Think tank urges Europe to scale up space-based data center efforts
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/learning-resources/science-activation/10-years-of-students-helping-nasa-grow-space-food-with-growing-beyond-earth/" >🔗</a> **[NASA]** 10 Years of Students Helping NASA Grow Space Food with Growing Beyond Earth
 - <a href="https://www.nasa.gov/image-article/hubble-captures-puzzling-galaxy/" >🔗</a> **[NASA]** Hubble Captures Puzzling Galaxy
 - <a href="https://spacenews.com/esa-unveils-thales-alenia-space-led-consortium-for-its-argonaut-lunar-lander/" >🔗</a> **[SpaceNews]** ESA unveils Thales Alenia Space-led consortium for its Argonaut lunar lander
-- <a href="https://www.nasaspaceflight.com/2025/11/booster-18-anomaly-proof-testing/" >🔗</a> **[NASASpaceflight]** Booster 18 suffers anomaly during proof testing
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251122T050140">2025-11-22 05:01:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251122T053339">2025-11-22 05:33:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
