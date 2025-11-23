@@ -45,7 +45,6 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251123T080000">2025-11-23 08:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-30&location=Vandenberg SFB, CA, USA&dates=20251123T080000Z%2F20251123T120000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-30** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251125T040100">2025-11-25 04:01:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2F/G | Shenzhou 22&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20251125T040100Z%2F20251125T044100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2F/G | Shenzhou 22** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251125T130000">2025-11-25 13:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Angara 1.2 | Kosmos (Unknown Payload)&location=Plesetsk Cosmodrome, Russian Federation&dates=20251125T130000Z%2F20251125T143500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Angara 1.2 | Kosmos (Unknown Payload)** from Plesetsk Cosmodrome, Russian Federation.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251126T155400">2025-11-26 15:54:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/kr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Nuri | CAS500-3&location=Naro Space Center, South Korea&dates=20251126T155400Z%2F20251126T161400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Nuri | CAS500-3** from Naro Space Center, South Korea.
@@ -90,16 +89,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.terradaily.com/reports/Drilling_deep_to_study_the_oxygenation_of_Earth_999.html" >🔗</a> **[SpaceDaily]** Drilling deep to study the oxygenation of Earth
+- <a href="https://www.terradaily.com/reports/Calcite_deposit_from_southern_Nevada_cave_reveals_580000_years_of_climate_history_999.html" >🔗</a> **[SpaceDaily]** Calcite deposit from southern Nevada cave reveals 580,000 years of climate history
+- <a href="https://www.spacedaily.com/reports/Cool_comfort_beating_the_heat_with_high_tech_clothes_999.html" >🔗</a> **[SpaceDaily]** Cool comfort: beating the heat with high-tech clothes
 - <a href="https://spacepolicyonline.com/news/democratic-lawmakers-call-for-ig-investigation-into-goddard-changes/" >🔗</a> **[SpacePolicyOnline.com]** Democratic Lawmakers Call for IG Investigation into Goddard Changes
 - <a href="https://spaceflightnow.com/2025/11/23/live-coverage-spacex-to-launch-28-starlink-satellites-from-vandenberg-on-brand-new-falcon-9-rocket/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites from Vandenberg on brand new Falcon 9 rocket
 - <a href="https://spacenews.com/first-next-generation-starship-booster-damaged-in-testing/" >🔗</a> **[SpaceNews]** First next-generation Starship booster damaged in testing
-- <a href="https://www.spacedaily.com/reports/40_000_near_Earth_asteroids_discovered!_999.html" >🔗</a> **[SpaceDaily]** 40 000 near-Earth asteroids discovered!
-- <a href="https://www.spacedaily.com/reports/Comet_sparks_scientific_fascination_online_furor_over_alien_origins_999.html" >🔗</a> **[SpaceDaily]** Comet sparks scientific fascination, online furor over 'alien' origins
 - <a href="https://www.spacedaily.com/reports/Lunar_impactor_Theia_originated_near_Earth_and_Sun_analysis_reveals_999.html" >🔗</a> **[SpaceDaily]** Lunar impactor Theia originated near Earth and Sun analysis reveals
-- <a href="https://www.spacedaily.com/reports/Galileo_satellites_to_launch_on_Ariane_6_to_enhance_navigation_system_999.html" >🔗</a> **[SpaceDaily]** Galileo satellites to launch on Ariane 6 to enhance navigation system
-- <a href="https://www.spacedaily.com/reports/Successful_cryogenic_engine_start_enables_enhanced_mission_flexibility_for_ISRO_999.html" >🔗</a> **[SpaceDaily]** Successful cryogenic engine start enables enhanced mission flexibility for ISRO
+- <a href="https://www.spacedaily.com/reports/Comet_sparks_scientific_fascination_online_furor_over_alien_origins_999.html" >🔗</a> **[SpaceDaily]** Comet sparks scientific fascination, online furor over 'alien' origins
+- <a href="https://www.spacedaily.com/reports/40_000_near_Earth_asteroids_discovered!_999.html" >🔗</a> **[SpaceDaily]** 40 000 near-Earth asteroids discovered!
 - <a href="https://www.spacedaily.com/reports/PLD_Space_advances_MIURA_5_rocket_qualification_with_first_fully_integrated_unit_999.html" >🔗</a> **[SpaceDaily]** PLD Space advances MIURA 5 rocket qualification with first fully integrated unit
-- <a href="https://www.spacedaily.com/reports/Starlab_secures_investment_from_Janus_Henderson_for_commercial_space_station_project_999.html" >🔗</a> **[SpaceDaily]** Starlab secures investment from Janus Henderson for commercial space station project
 
 
 ### Launch-related News 🚀
@@ -109,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251123T073131">2025-11-23 07:31:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251123T080149">2025-11-23 08:01:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
