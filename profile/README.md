@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/thales-alenia-space-finalises-industrial-team-for-esas-argonaut-lunar-lander/" >🔗</a> **[European Spaceflight]** Thales Alenia Space Finalises Industrial Team for ESA’s Argonaut Lunar Lander
 - <a href="https://spacenews.com/european-parliament-member-sees-support-for-eu-space-act-there/" >🔗</a> **[SpaceNews]** European Parliament member sees support for EU Space Act there
-- <a href="https://www.spacedaily.com/reports/Cool_comfort_beating_the_heat_with_high_tech_clothes_999.html" >🔗</a> **[SpaceDaily]** Cool comfort: beating the heat with high-tech clothes
 - <a href="https://www.terradaily.com/reports/Drilling_deep_to_study_the_oxygenation_of_Earth_999.html" >🔗</a> **[SpaceDaily]** Drilling deep to study the oxygenation of Earth
 - <a href="https://www.terradaily.com/reports/Calcite_deposit_from_southern_Nevada_cave_reveals_580000_years_of_climate_history_999.html" >🔗</a> **[SpaceDaily]** Calcite deposit from southern Nevada cave reveals 580,000 years of climate history
+- <a href="https://www.spacedaily.com/reports/Cool_comfort_beating_the_heat_with_high_tech_clothes_999.html" >🔗</a> **[SpaceDaily]** Cool comfort: beating the heat with high-tech clothes
 - <a href="https://spacepolicyonline.com/news/democratic-lawmakers-call-for-ig-investigation-into-goddard-changes/" >🔗</a> **[SpacePolicyOnline.com]** Democratic Lawmakers Call for IG Investigation into Goddard Changes
 - <a href="https://spaceflightnow.com/2025/11/23/live-coverage-spacex-to-launch-28-starlink-satellites-from-vandenberg-on-brand-new-falcon-9-rocket/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites from Vandenberg on brand new Falcon 9 rocket
 - <a href="https://spacenews.com/first-next-generation-starship-booster-damaged-in-testing/" >🔗</a> **[SpaceNews]** First next-generation Starship booster damaged in testing
 - <a href="https://www.spacedaily.com/reports/Lunar_impactor_Theia_originated_near_Earth_and_Sun_analysis_reveals_999.html" >🔗</a> **[SpaceDaily]** Lunar impactor Theia originated near Earth and Sun analysis reveals
 - <a href="https://www.spacedaily.com/reports/Comet_sparks_scientific_fascination_online_furor_over_alien_origins_999.html" >🔗</a> **[SpaceDaily]** Comet sparks scientific fascination, online furor over 'alien' origins
-- <a href="https://www.spacedaily.com/reports/40_000_near_Earth_asteroids_discovered!_999.html" >🔗</a> **[SpaceDaily]** 40 000 near-Earth asteroids discovered!
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251123T120146">2025-11-23 12:01:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251123T124242">2025-11-23 12:42:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
