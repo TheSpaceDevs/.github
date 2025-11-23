@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/11/23/live-coverage-spacex-to-launch-28-starlink-satellites-from-vandenberg-on-brand-new-falcon-9-rocket/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites from Vandenberg on brand new Falcon 9 rocket
 - <a href="https://spacenews.com/first-next-generation-starship-booster-damaged-in-testing/" >🔗</a> **[SpaceNews]** First next-generation Starship booster damaged in testing
 - <a href="https://www.spacedaily.com/reports/40_000_near_Earth_asteroids_discovered!_999.html" >🔗</a> **[SpaceDaily]** 40 000 near-Earth asteroids discovered!
-- <a href="https://www.spacedaily.com/reports/Starlab_secures_investment_from_Janus_Henderson_for_commercial_space_station_project_999.html" >🔗</a> **[SpaceDaily]** Starlab secures investment from Janus Henderson for commercial space station project
 - <a href="https://www.spacedaily.com/reports/Galileo_satellites_to_launch_on_Ariane_6_to_enhance_navigation_system_999.html" >🔗</a> **[SpaceDaily]** Galileo satellites to launch on Ariane 6 to enhance navigation system
 - <a href="https://www.spacedaily.com/reports/Comet_sparks_scientific_fascination_online_furor_over_alien_origins_999.html" >🔗</a> **[SpaceDaily]** Comet sparks scientific fascination, online furor over 'alien' origins
 - <a href="https://www.spacedaily.com/reports/Lunar_impactor_Theia_originated_near_Earth_and_Sun_analysis_reveals_999.html" >🔗</a> **[SpaceDaily]** Lunar impactor Theia originated near Earth and Sun analysis reveals
-- <a href="https://www.spacedaily.com/reports/Argonaut_lunar_landers_to_deliver_cargo_on_Ariane_6_missions_999.html" >🔗</a> **[SpaceDaily]** Argonaut lunar landers to deliver cargo on Ariane 6 missions
 - <a href="https://www.spacedaily.com/reports/Successful_cryogenic_engine_start_enables_enhanced_mission_flexibility_for_ISRO_999.html" >🔗</a> **[SpaceDaily]** Successful cryogenic engine start enables enhanced mission flexibility for ISRO
+- <a href="https://www.spacedaily.com/reports/Starlab_secures_investment_from_Janus_Henderson_for_commercial_space_station_project_999.html" >🔗</a> **[SpaceDaily]** Starlab secures investment from Janus Henderson for commercial space station project
 - <a href="https://www.spacedaily.com/reports/PLD_Space_advances_MIURA_5_rocket_qualification_with_first_fully_integrated_unit_999.html" >🔗</a> **[SpaceDaily]** PLD Space advances MIURA 5 rocket qualification with first fully integrated unit
-- <a href="https://www.spacedaily.com/reports/NASA_celebrates_a_decade_of_student_contributions_to_space_crop_production_999.html" >🔗</a> **[SpaceDaily]** NASA celebrates a decade of student contributions to space crop production
+- <a href="https://www.spacedaily.com/reports/Argonaut_lunar_landers_to_deliver_cargo_on_Ariane_6_missions_999.html" >🔗</a> **[SpaceDaily]** Argonaut lunar landers to deliver cargo on Ariane 6 missions
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251123T030414">2025-11-23 03:04:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251123T034845">2025-11-23 03:48:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
