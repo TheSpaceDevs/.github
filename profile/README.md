@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Careers_at_ESA/Final_call_to_apply_for_ESA_Internships_2026" >🔗</a> **[ESA]** Final call to apply for ESA Internships 2026!
 - <a href="https://spacenews.com/florida-space-coast-tops-100-launches-as-space-force-pushes-for-range-upgrades/" >🔗</a> **[SpaceNews]** Florida Space Coast tops 100 launches as Space Force pushes for range upgrades
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/the-overview-effect-astronaut-perspectives-from-25-years-in-low-earth-orbit/" >🔗</a> **[NASA]** The Overview Effect: Astronaut Perspectives from 25 Years in Low Earth Orbit
 - <a href="https://spacenews.com/germany-outlines-military-space-priorities-in-new-strategy/" >🔗</a> **[SpaceNews]** Germany outlines military space priorities in new strategy
@@ -99,18 +100,18 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/european-parliament-member-sees-support-for-eu-space-act-there/" >🔗</a> **[SpaceNews]** European Parliament member sees support for EU Space Act there
 - <a href="https://www.terradaily.com/reports/Drilling_deep_to_study_the_oxygenation_of_Earth_999.html" >🔗</a> **[SpaceDaily]** Drilling deep to study the oxygenation of Earth
 - <a href="https://www.terradaily.com/reports/Calcite_deposit_from_southern_Nevada_cave_reveals_580000_years_of_climate_history_999.html" >🔗</a> **[SpaceDaily]** Calcite deposit from southern Nevada cave reveals 580,000 years of climate history
-- <a href="https://www.spacedaily.com/reports/Cool_comfort_beating_the_heat_with_high_tech_clothes_999.html" >🔗</a> **[SpaceDaily]** Cool comfort: beating the heat with high-tech clothes
 
 
 ### Launch-related News 🚀
 
+- <a href="https://www.spacedaily.com/reports/Resupply_spacecraft_prepared_for_Tiangong_station_after_safe_crew_return_999.html" >🔗</a> **[SpaceDaily]** Resupply spacecraft prepared for Tiangong station after safe crew return
 - <a href="https://www.nasaspaceflight.com/2025/11/launch-roundup-111725/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Innospace to debut new rocket, SpaceX to launch five Falcon 9 missions
 - <a href="https://spacenews.com/china-to-launch-shenzhou-22-spacecraft-nov-25-to-provide-lifeboat-for-astronauts/" >🔗</a> **[SpaceNews]** China to launch Shenzhou-22 spacecraft Nov. 25 to provide lifeboat for astronauts
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251124T100156">2025-11-24 10:01:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251124T103743">2025-11-24 10:37:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
