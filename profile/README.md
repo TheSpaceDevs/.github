@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/florida-space-coast-tops-100-launches-as-space-force-pushes-for-range-upgrades/" >🔗</a> **[SpaceNews]** Florida Space Coast tops 100 launches as Space Force pushes for range upgrades
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/the-overview-effect-astronaut-perspectives-from-25-years-in-low-earth-orbit/" >🔗</a> **[NASA]** The Overview Effect: Astronaut Perspectives from 25 Years in Low Earth Orbit
 - <a href="https://spacenews.com/germany-outlines-military-space-priorities-in-new-strategy/" >🔗</a> **[SpaceNews]** Germany outlines military space priorities in new strategy
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-23-29-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy November 23-29, 2025
 - <a href="https://www.nasaspaceflight.com/2025/11/webb-canucs-lrd-z8-6/" >🔗</a> **[NASASpaceflight]** Webb discovers rapidly growing black hole in the very early universe
 - <a href="https://europeanspaceflight.com/thales-alenia-space-finalises-industrial-team-for-esas-argonaut-lunar-lander/" >🔗</a> **[European Spaceflight]** Thales Alenia Space Finalises Industrial Team for ESA’s Argonaut Lunar Lander
 - <a href="https://spacenews.com/european-parliament-member-sees-support-for-eu-space-act-there/" >🔗</a> **[SpaceNews]** European Parliament member sees support for EU Space Act there
+- <a href="https://www.terradaily.com/reports/Drilling_deep_to_study_the_oxygenation_of_Earth_999.html" >🔗</a> **[SpaceDaily]** Drilling deep to study the oxygenation of Earth
 - <a href="https://www.terradaily.com/reports/Calcite_deposit_from_southern_Nevada_cave_reveals_580000_years_of_climate_history_999.html" >🔗</a> **[SpaceDaily]** Calcite deposit from southern Nevada cave reveals 580,000 years of climate history
 - <a href="https://www.spacedaily.com/reports/Cool_comfort_beating_the_heat_with_high_tech_clothes_999.html" >🔗</a> **[SpaceDaily]** Cool comfort: beating the heat with high-tech clothes
-- <a href="https://www.terradaily.com/reports/Drilling_deep_to_study_the_oxygenation_of_Earth_999.html" >🔗</a> **[SpaceDaily]** Drilling deep to study the oxygenation of Earth
-- <a href="https://spacepolicyonline.com/news/democratic-lawmakers-call-for-ig-investigation-into-goddard-changes/" >🔗</a> **[SpacePolicyOnline.com]** Democratic Lawmakers Call for IG Investigation into Goddard Changes
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251124T050147">2025-11-24 05:01:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251124T053545">2025-11-24 05:35:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
