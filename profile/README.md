@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/science-fiction-and-innovation-in-space/" >🔗</a> **[SpaceNews]** Science fiction and innovation in space
 - <a href="https://arstechnica.com/space/2025/11/rocket-lab-chief-opens-up-about-neutron-delays-new-glenns-success-and-nasa-science/" >🔗</a> **[Arstechnica]** Rocket Lab chief opens up about Neutron delays, New Glenn’s success, and NASA science
 - <a href="https://www.esa.int/About_Us/Careers_at_ESA/Final_call_to_apply_for_ESA_Internships_2026" >🔗</a> **[ESA]** Final call to apply for ESA Internships 2026!
 - <a href="https://spacenews.com/florida-space-coast-tops-100-launches-as-space-force-pushes-for-range-upgrades/" >🔗</a> **[SpaceNews]** Florida Space Coast tops 100 launches as Space Force pushes for range upgrades
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2025/11/webb-canucs-lrd-z8-6/" >🔗</a> **[NASASpaceflight]** Webb discovers rapidly growing black hole in the very early universe
 - <a href="https://europeanspaceflight.com/thales-alenia-space-finalises-industrial-team-for-esas-argonaut-lunar-lander/" >🔗</a> **[European Spaceflight]** Thales Alenia Space Finalises Industrial Team for ESA’s Argonaut Lunar Lander
 - <a href="https://spacenews.com/european-parliament-member-sees-support-for-eu-space-act-there/" >🔗</a> **[SpaceNews]** European Parliament member sees support for EU Space Act there
-- <a href="https://www.terradaily.com/reports/Drilling_deep_to_study_the_oxygenation_of_Earth_999.html" >🔗</a> **[SpaceDaily]** Drilling deep to study the oxygenation of Earth
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251124T131118">2025-11-24 13:11:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251124T134029">2025-11-24 13:40:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
