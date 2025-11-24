@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/11/rocket-lab-chief-opens-up-about-neutron-delays-new-glenns-success-and-nasa-science/" >🔗</a> **[Arstechnica]** Rocket Lab chief opens up about Neutron delays, New Glenn’s success, and NASA science
 - <a href="https://www.esa.int/About_Us/Careers_at_ESA/Final_call_to_apply_for_ESA_Internships_2026" >🔗</a> **[ESA]** Final call to apply for ESA Internships 2026!
 - <a href="https://spacenews.com/florida-space-coast-tops-100-launches-as-space-force-pushes-for-range-upgrades/" >🔗</a> **[SpaceNews]** Florida Space Coast tops 100 launches as Space Force pushes for range upgrades
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/the-overview-effect-astronaut-perspectives-from-25-years-in-low-earth-orbit/" >🔗</a> **[NASA]** The Overview Effect: Astronaut Perspectives from 25 Years in Low Earth Orbit
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/thales-alenia-space-finalises-industrial-team-for-esas-argonaut-lunar-lander/" >🔗</a> **[European Spaceflight]** Thales Alenia Space Finalises Industrial Team for ESA’s Argonaut Lunar Lander
 - <a href="https://spacenews.com/european-parliament-member-sees-support-for-eu-space-act-there/" >🔗</a> **[SpaceNews]** European Parliament member sees support for EU Space Act there
 - <a href="https://www.terradaily.com/reports/Drilling_deep_to_study_the_oxygenation_of_Earth_999.html" >🔗</a> **[SpaceDaily]** Drilling deep to study the oxygenation of Earth
-- <a href="https://www.terradaily.com/reports/Calcite_deposit_from_southern_Nevada_cave_reveals_580000_years_of_climate_history_999.html" >🔗</a> **[SpaceDaily]** Calcite deposit from southern Nevada cave reveals 580,000 years of climate history
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251124T120210">2025-11-24 12:02:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251124T124347">2025-11-24 12:43:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
