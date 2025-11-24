@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/11/shenzhou-22-launch/" >🔗</a> **[NASASpaceflight]** Shenzhou 22 set to launch uncrewed to Chinese Tiangong space station
 - <a href="https://spacepolicyonline.com/news/nasa-boeing-modify-starliner-contract-fewer-launches-cargo-only-on-starliner-1/" >🔗</a> **[SpacePolicyOnline.com]** NASA, Boeing Modify Starliner Contract: Fewer Launches, Cargo Only on Starliner-1
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasas-2025-astronaut-candidates-shaping-artemis-exploration/" >🔗</a> **[NASA]** NASA’s 2025 Astronaut Candidates: Shaping Artemis Exploration
 - <a href="https://spacenews.com/nasa-to-fly-only-cargo-on-next-starliner-mission-under-modified-contract/" >🔗</a> **[SpaceNews]** NASA to fly only cargo on next Starliner mission under modified contract
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/get-involved/citizen-science/nasa-citizen-science-toolkit-for-librarians/" >🔗</a> **[NASA]** NASA Citizen Science Toolkit for Librarians
 - <a href="https://www.nasa.gov/image-article/city-lights-and-atmospheric-glow/" >🔗</a> **[NASA]** City Lights and Atmospheric Glow
 - <a href="https://europeanspaceflight.com/the-exploration-company-inaugurates-new-facility-in-france/" >🔗</a> **[European Spaceflight]** The Exploration Company Inaugurates New Facility in France
-- <a href="https://spacenews.com/amazon-unveils-production-ready-gigabit-class-leo-ultra-broadband-terminal/" >🔗</a> **[SpaceNews]** Amazon unveils production-ready gigabit-class Leo Ultra broadband terminal
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251124T220113">2025-11-24 22:01:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251124T223443">2025-11-24 22:34:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
