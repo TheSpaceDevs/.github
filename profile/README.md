@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/star-wars-redux-the-false-promise-of-space-based-missile-defense/" >🔗</a> **[SpaceNews]** Star Wars redux: the false promise of space-based missile defense
+- <a href="https://spacenews.com/china-launches-tjs-21-towards-molniya-orbit-lofts-trio-of-shijian-30-spacecraft/" >🔗</a> **[SpaceNews]** China launches TJS-21 towards Molniya orbit, lofts trio of Shijian-30 spacecraft
 - <a href="https://spacenews.com/science-fiction-and-innovation-in-space/" >🔗</a> **[SpaceNews]** Science fiction and innovation in space
 - <a href="https://arstechnica.com/space/2025/11/rocket-lab-chief-opens-up-about-neutron-delays-new-glenns-success-and-nasa-science/" >🔗</a> **[Arstechnica]** Rocket Lab chief opens up about Neutron delays, New Glenn’s success, and NASA science
 - <a href="https://www.esa.int/About_Us/Careers_at_ESA/Final_call_to_apply_for_ESA_Internships_2026" >🔗</a> **[ESA]** Final call to apply for ESA Internships 2026!
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/germany-outlines-military-space-priorities-in-new-strategy/" >🔗</a> **[SpaceNews]** Germany outlines military space priorities in new strategy
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-23-29-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy November 23-29, 2025
 - <a href="https://www.nasaspaceflight.com/2025/11/webb-canucs-lrd-z8-6/" >🔗</a> **[NASASpaceflight]** Webb discovers rapidly growing black hole in the very early universe
-- <a href="https://europeanspaceflight.com/thales-alenia-space-finalises-industrial-team-for-esas-argonaut-lunar-lander/" >🔗</a> **[European Spaceflight]** Thales Alenia Space Finalises Industrial Team for ESA’s Argonaut Lunar Lander
-- <a href="https://spacenews.com/european-parliament-member-sees-support-for-eu-space-act-there/" >🔗</a> **[SpaceNews]** European Parliament member sees support for EU Space Act there
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251124T140117">2025-11-24 14:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251124T143617">2025-11-24 14:36:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
