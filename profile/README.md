@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/amazon-unveils-production-ready-gigabit-class-leo-ultra-broadband-terminal/" >🔗</a> **[SpaceNews]** Amazon unveils production-ready gigabit-class Leo Ultra broadband terminal
 - <a href="https://spacenews.com/star-wars-redux-the-false-promise-of-space-based-missile-defense/" >🔗</a> **[SpaceNews]** Star Wars redux: the false promise of space-based missile defense
 - <a href="https://spacenews.com/china-launches-tjs-21-towards-molniya-orbit-lofts-trio-of-shijian-30-spacecraft/" >🔗</a> **[SpaceNews]** China launches TJS-21 towards Molniya orbit, lofts trio of Shijian-30 spacecraft
 - <a href="https://spacenews.com/science-fiction-and-innovation-in-space/" >🔗</a> **[SpaceNews]** Science fiction and innovation in space
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/the-overview-effect-astronaut-perspectives-from-25-years-in-low-earth-orbit/" >🔗</a> **[NASA]** The Overview Effect: Astronaut Perspectives from 25 Years in Low Earth Orbit
 - <a href="https://spacenews.com/germany-outlines-military-space-priorities-in-new-strategy/" >🔗</a> **[SpaceNews]** Germany outlines military space priorities in new strategy
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-23-29-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy November 23-29, 2025
-- <a href="https://www.nasaspaceflight.com/2025/11/webb-canucs-lrd-z8-6/" >🔗</a> **[NASASpaceflight]** Webb discovers rapidly growing black hole in the very early universe
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251124T150152">2025-11-24 15:01:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251124T153545">2025-11-24 15:35:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
