@@ -92,16 +92,16 @@ Unknown Payload(s) for the Russian military.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacepolicyonline.com/news/china-launches-uncrewed-replacement-for-damaged-shenzhou-20/" >🔗</a> **[SpacePolicyOnline.com]** China Launches Uncrewed Replacement for Damaged Shenzhou-20
-- <a href="https://spacenews.com/oman-brings-geo-orders-level-with-2024-as-larger-spacecraft-regain-traction/" >🔗</a> **[SpaceNews]** Oman brings GEO orders level with 2024 as larger spacecraft regain traction
-- <a href="https://spaceflightnow.com/2025/11/24/nasa-boeing-pivot-starliner-1-mission-from-4-person-astronaut-flight-to-cargo-only/" >🔗</a> **[Spaceflight Now]** NASA, Boeing pivot Starliner-1 mission from 4-person astronaut flight to cargo-only
-- <a href="https://www.nasaspaceflight.com/2025/11/shenzhou-22-launch/" >🔗</a> **[NASASpaceflight]** Shenzhou 22 set to launch uncrewed to Chinese Tiangong space station
-- <a href="https://spacepolicyonline.com/news/nasa-boeing-modify-starliner-contract-fewer-launches-cargo-only-on-starliner-1/" >🔗</a> **[SpacePolicyOnline.com]** NASA, Boeing Modify Starliner Contract: Fewer Launches, Cargo Only on Starliner-1
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasas-2025-astronaut-candidates-shaping-artemis-exploration/" >🔗</a> **[NASA]** NASA’s 2025 Astronaut Candidates: Shaping Artemis Exploration
-- <a href="https://spacenews.com/nasa-to-fly-only-cargo-on-next-starliner-mission-under-modified-contract/" >🔗</a> **[SpaceNews]** NASA to fly only cargo on next Starliner mission under modified contract
-- <a href="https://arstechnica.com/space/2025/11/nasa-confirms-that-starliners-next-mission-will-be-cargo-only/" >🔗</a> **[Arstechnica]** NASA confirms that Starliner’s next mission will be cargo only
-- <a href="https://science.nasa.gov/learning-resources/science-activation/new-nasa-heat-and-my-nasa-data-resources-bring-space-weather-science-into-classrooms/" >🔗</a> **[NASA]** New NASA HEAT and My NASA Data Resources Bring Space Weather Science into Classrooms
-- <a href="https://science.nasa.gov/earth/nasa-noaa-rank-2025-ozone-hole-as-5th-smallest-since-1992/" >🔗</a> **[NASA]** NASA, NOAA Rank 2025 Ozone Hole as 5th Smallest Since 1992
+- <a href="https://www.spacedaily.com/reports/Platinum_Crystals_Mapped_as_They_Develop_Inside_Liquid_Metal_999.html" >🔗</a> **[SpaceDaily]** Platinum Crystals Mapped as They Develop Inside Liquid Metal
+- <a href="https://www.spacedaily.com/reports/Looking_inside_icy_moons_999.html" >🔗</a> **[SpaceDaily]** Looking inside icy moons
+- <a href="https://www.spacedaily.com/reports/BlueBird_6_satellite_set_for_December_launch_to_expand_direct_mobile_connectivity_in_space_999.html" >🔗</a> **[SpaceDaily]** BlueBird 6 satellite set for December launch to expand direct mobile connectivity in space
+- <a href="https://www.spacedaily.com/reports/BepiColombo_nears_Mercury_orbital_arrival_after_seven_year_journey_999.html" >🔗</a> **[SpaceDaily]** BepiColombo nears Mercury orbital arrival after seven year journey
+- <a href="https://www.spacedaily.com/reports/China_launches_Shenzhou-22_early_for_stranded_space_station_crew_999.html" >🔗</a> **[SpaceDaily]** China launches Shenzhou-22 early for stranded space station crew
+- <a href="https://www.spacedaily.com/reports/Outage_Prevention_from_Orbit_Why_Utilities_Are_Turning_to_Satellites_and_Geospatial_Analytics_999.html" >🔗</a> **[SpaceDaily]** Outage Prevention from Orbit: Why Utilities Are Turning to Satellites and Geospatial Analytics
+- <a href="https://www.spacedaily.com/reports/End_of_mission_for_Atacama_Cosmology_Telescope_opens_new_avenues_in_cosmology_999.html" >🔗</a> **[SpaceDaily]** End of mission for Atacama Cosmology Telescope opens new avenues in cosmology
+- <a href="https://www.spacedaily.com/reports/NJIT_scientists_track_recent_solar_flare_disruptions_in_Earths_ionosphere_999.html" >🔗</a> **[SpaceDaily]** NJIT scientists track recent solar flare disruptions in Earth's ionosphere
+- <a href="https://www.spacedaily.com/reports/Blue_Ring_mission_to_expand_commercial_GEO_space_domain_awareness_999.html" >🔗</a> **[SpaceDaily]** Blue Ring mission to expand commercial GEO space domain awareness
+- <a href="https://www.spacedaily.com/reports/UK_government_commits_GBP_6_9_million_to_boost_satellite_communications_sector_999.html" >🔗</a> **[SpaceDaily]** UK government commits GBP 6.9 million to boost satellite communications sector
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ Unknown Payload(s) for the Russian military.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251125T070148">2025-11-25 07:01:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251125T073329">2025-11-25 07:33:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
