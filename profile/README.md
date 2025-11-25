@@ -92,16 +92,16 @@ Unknown Payload(s) for the Russian military.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.spacedaily.com/reports/Platinum_Crystals_Mapped_as_They_Develop_Inside_Liquid_Metal_999.html" >🔗</a> **[SpaceDaily]** Platinum Crystals Mapped as They Develop Inside Liquid Metal
+- <a href="https://www.spacedaily.com/reports/Best_7_EV_Charging_App_Development_Companies_Powering_eMobility_in_2025_999.html" >🔗</a> **[SpaceDaily]** Best 7 EV Charging App Development Companies Powering eMobility in 2025
 - <a href="https://www.spacedaily.com/reports/Looking_inside_icy_moons_999.html" >🔗</a> **[SpaceDaily]** Looking inside icy moons
-- <a href="https://www.spacedaily.com/reports/BlueBird_6_satellite_set_for_December_launch_to_expand_direct_mobile_connectivity_in_space_999.html" >🔗</a> **[SpaceDaily]** BlueBird 6 satellite set for December launch to expand direct mobile connectivity in space
+- <a href="https://www.spacedaily.com/reports/End_of_mission_for_Atacama_Cosmology_Telescope_opens_new_avenues_in_cosmology_999.html" >🔗</a> **[SpaceDaily]** End of mission for Atacama Cosmology Telescope opens new avenues in cosmology
 - <a href="https://www.spacedaily.com/reports/BepiColombo_nears_Mercury_orbital_arrival_after_seven_year_journey_999.html" >🔗</a> **[SpaceDaily]** BepiColombo nears Mercury orbital arrival after seven year journey
 - <a href="https://www.spacedaily.com/reports/China_launches_Shenzhou-22_early_for_stranded_space_station_crew_999.html" >🔗</a> **[SpaceDaily]** China launches Shenzhou-22 early for stranded space station crew
 - <a href="https://www.spacedaily.com/reports/Outage_Prevention_from_Orbit_Why_Utilities_Are_Turning_to_Satellites_and_Geospatial_Analytics_999.html" >🔗</a> **[SpaceDaily]** Outage Prevention from Orbit: Why Utilities Are Turning to Satellites and Geospatial Analytics
-- <a href="https://www.spacedaily.com/reports/End_of_mission_for_Atacama_Cosmology_Telescope_opens_new_avenues_in_cosmology_999.html" >🔗</a> **[SpaceDaily]** End of mission for Atacama Cosmology Telescope opens new avenues in cosmology
+- <a href="https://www.spacedaily.com/reports/BlueBird_6_satellite_set_for_December_launch_to_expand_direct_mobile_connectivity_in_space_999.html" >🔗</a> **[SpaceDaily]** BlueBird 6 satellite set for December launch to expand direct mobile connectivity in space
 - <a href="https://www.spacedaily.com/reports/NJIT_scientists_track_recent_solar_flare_disruptions_in_Earths_ionosphere_999.html" >🔗</a> **[SpaceDaily]** NJIT scientists track recent solar flare disruptions in Earth's ionosphere
 - <a href="https://www.spacedaily.com/reports/Blue_Ring_mission_to_expand_commercial_GEO_space_domain_awareness_999.html" >🔗</a> **[SpaceDaily]** Blue Ring mission to expand commercial GEO space domain awareness
-- <a href="https://www.spacedaily.com/reports/UK_government_commits_GBP_6_9_million_to_boost_satellite_communications_sector_999.html" >🔗</a> **[SpaceDaily]** UK government commits GBP 6.9 million to boost satellite communications sector
+- <a href="https://www.spacedaily.com/reports/Platinum_Crystals_Mapped_as_They_Develop_Inside_Liquid_Metal_999.html" >🔗</a> **[SpaceDaily]** Platinum Crystals Mapped as They Develop Inside Liquid Metal
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ Unknown Payload(s) for the Russian military.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251125T090218">2025-11-25 09:02:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251125T093602">2025-11-25 09:36:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
