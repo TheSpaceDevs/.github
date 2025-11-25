@@ -19,29 +19,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Angara 1.2 | Kosmos (Unknown Payload)**. It is scheduled to be launched by *Khrunichev State Research and Production Space Center*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Plesetsk_Cosmodrome_Site_35">35/1</a>, Plesetsk Cosmodrome, Russian Federation*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251125T130000">2025-11-25 13:00:00 UTC</a>.  Until
-then, this pad will have been used for 10
-out of 1678 launches from this location. The launch status is currently
+**Nuri | CAS500-3**. It is scheduled to be launched by *Korea Aerospace Research Institute*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/kr.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Naro_Space_Center">LC-2</a>, Naro Space Center, South Korea*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/kr.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251126T155400">2025-11-26 15:54:00 UTC</a>.  Until
+then, this pad will have been used for 4
+out of 7 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Government/Top Secret* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+*Earth Science* and the payload will be injected
+into *a Sun-Synchronous Orbit
+(SSO)*.
 <br>
 <blockquote>
-  Note: Payload identity and Cosmos series numbering not confirmed.
-
-Unknown Payload(s) for the Russian military.
+  CAS500-3 is a South Korean Earth observation satellites to be used by the Ministry of Science and ICT for space technology verification and space science research.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Angara_(rocket_family)#Angara_1.2" >
+  <a href="https://en.wikipedia.org/wiki/KSLV-2" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=62.927319,40.574897" >
+  <a href="https://www.google.com/maps?q=34.431867,127.535069" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -56,6 +54,7 @@ Unknown Payload(s) for the Russian military.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251202T185600">2025-12-02 18:56:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-25&location=Vandenberg SFB, CA, USA&dates=20251202T185600Z%2F20251202T225600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-25** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251202T201600">2025-12-02 20:16:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-95&location=Cape Canaveral SFS, FL, USA&dates=20251202T201600Z%2F20251203T001600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-95** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251205T030000">2025-12-05 03:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Raise and Shine (RAISE-4)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20251205T030000Z%2F20251205T030000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Raise and Shine (RAISE-4)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251205T165800">2025-12-05 16:58:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-15&location=Vandenberg SFB, CA, USA&dates=20251205T165800Z%2F20251205T205800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-15** from Vandenberg SFB, CA, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -91,16 +90,16 @@ Unknown Payload(s) for the Russian military.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/blacksky-announces-latest-gen-3-satellite-in-orbit-after-confidential-electron-launch/" >🔗</a> **[SpaceNews]** BlackSky announces latest Gen-3 satellite in orbit after confidential Electron launch
+- <a href="https://europeanspaceflight.com/polish-consortium-successfully-tests-three-stage-suborbital-rocket/" >🔗</a> **[European Spaceflight]** Polish Consortium Successfully Tests Three-Stage Suborbital Rocket
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/11/Ethiopian_volcanic_plume" >🔗</a> **[ESA]** Ethiopian volcanic plume
 - <a href="https://www.spacedaily.com/reports/Best_7_EV_Charging_App_Development_Companies_Powering_eMobility_in_2025_999.html" >🔗</a> **[SpaceDaily]** Best 7 EV Charging App Development Companies Powering eMobility in 2025
 - <a href="https://spacenews.com/shenzhou-22-docks-at-tiangong-space-station-resolving-human-spaceflight-emergency/" >🔗</a> **[SpaceNews]** Shenzhou-22 docks at Tiangong space station, resolving human spaceflight emergency
-- <a href="https://www.spacedaily.com/reports/End_of_mission_for_Atacama_Cosmology_Telescope_opens_new_avenues_in_cosmology_999.html" >🔗</a> **[SpaceDaily]** End of mission for Atacama Cosmology Telescope opens new avenues in cosmology
-- <a href="https://www.spacedaily.com/reports/NJIT_scientists_track_recent_solar_flare_disruptions_in_Earths_ionosphere_999.html" >🔗</a> **[SpaceDaily]** NJIT scientists track recent solar flare disruptions in Earth's ionosphere
 - <a href="https://www.spacedaily.com/reports/Outage_Prevention_from_Orbit_Why_Utilities_Are_Turning_to_Satellites_and_Geospatial_Analytics_999.html" >🔗</a> **[SpaceDaily]** Outage Prevention from Orbit: Why Utilities Are Turning to Satellites and Geospatial Analytics
-- <a href="https://www.spacedaily.com/reports/Looking_inside_icy_moons_999.html" >🔗</a> **[SpaceDaily]** Looking inside icy moons
-- <a href="https://www.spacedaily.com/reports/Blue_Ring_mission_to_expand_commercial_GEO_space_domain_awareness_999.html" >🔗</a> **[SpaceDaily]** Blue Ring mission to expand commercial GEO space domain awareness
+- <a href="https://www.spacedaily.com/reports/End_of_mission_for_Atacama_Cosmology_Telescope_opens_new_avenues_in_cosmology_999.html" >🔗</a> **[SpaceDaily]** End of mission for Atacama Cosmology Telescope opens new avenues in cosmology
 - <a href="https://www.spacedaily.com/reports/China_launches_Shenzhou-22_early_for_stranded_space_station_crew_999.html" >🔗</a> **[SpaceDaily]** China launches Shenzhou-22 early for stranded space station crew
-- <a href="https://www.spacedaily.com/reports/BepiColombo_nears_Mercury_orbital_arrival_after_seven_year_journey_999.html" >🔗</a> **[SpaceDaily]** BepiColombo nears Mercury orbital arrival after seven year journey
+- <a href="https://www.spacedaily.com/reports/NJIT_scientists_track_recent_solar_flare_disruptions_in_Earths_ionosphere_999.html" >🔗</a> **[SpaceDaily]** NJIT scientists track recent solar flare disruptions in Earth's ionosphere
+- <a href="https://www.spacedaily.com/reports/Looking_inside_icy_moons_999.html" >🔗</a> **[SpaceDaily]** Looking inside icy moons
 
 
 ### Launch-related News 🚀
@@ -109,7 +108,7 @@ Unknown Payload(s) for the Russian military.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251125T131104">2025-11-25 13:11:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251125T134050">2025-11-25 13:40:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
