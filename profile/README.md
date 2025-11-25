@@ -90,6 +90,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-awards-first-prototype-deals-for-space-based-interceptors-under-golden-dome/" >🔗</a> **[SpaceNews]** Space Force awards first prototype deals for space-based interceptors under Golden Dome
 - <a href="https://www.nasa.gov/directorates/esdmd/hhp/treat/lsah-newsletter/" >🔗</a> **[NASA]** LSAH Newsletter
 - <a href="https://science.nasa.gov/learning-resources/science-activation/nasa-globe-connect-people-land-and-space/" >🔗</a> **[NASA]** NASA & GLOBE Connect People, Land, and Space
 - <a href="https://www.nasaspaceflight.com/2025/11/launch-roundup-112525/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Soyuz to launch crew; Vega C and Falcon 9 to launch customer missions
@@ -99,7 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/lithuanian-space-company-astrolight-launches-greenland-optical-ground-station-project/" >🔗</a> **[SpaceNews]** Lithuanian space company Astrolight launches Greenland optical ground station project
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-crater-detection-challenge/" >🔗</a> **[NASA]** NASA Crater Detection Challenge
 - <a href="https://www.nasa.gov/get-involved/nasa-crater-detection-challenge/" >🔗</a> **[NASA]** NASA Crater Detection Challenge
-- <a href="https://www.nasa.gov/humans-in-space/chapea-crew-begins-stay-inside-nasas-mars-habitat-for-second-mission/" >🔗</a> **[NASA]** CHAPEA Crew Begins Stay Inside NASA’s Mars Habitat for Second Mission
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251125T230112">2025-11-25 23:01:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251125T233241">2025-11-25 23:32:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
