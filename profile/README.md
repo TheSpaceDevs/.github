@@ -90,6 +90,8 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/humans-in-space/chapea-crew-begins-stay-inside-nasas-mars-habitat-for-second-mission/" >🔗</a> **[NASA]** CHAPEA Crew Begins Stay Inside NASA’s Mars Habitat for Second Mission
+- <a href="https://www.nasa.gov/missions/mars-reconnaissance-orbiter/nasa-orbiter-shines-new-light-on-long-running-martian-mystery/" >🔗</a> **[NASA]** NASA Orbiter Shines New Light on Long-Running Martian Mystery
 - <a href="https://spacenews.com/terran-orbital-announces-cheryl-paquete-as-chief-financial-officer/" >🔗</a> **[SpaceNews]** Terran Orbital Announces Cheryl Paquete as Chief Financial Officer
 - <a href="https://spacenews.com/making-comsatcom-accessible-for-large-scale-defense-requirements/" >🔗</a> **[SpaceNews]** Making COMSATCOM accessible for large-scale defense requirements
 - <a href="https://spacenews.com/blacksky-announces-latest-gen-3-satellite-in-orbit-after-confidential-electron-launch/" >🔗</a> **[SpaceNews]** BlackSky announces latest Gen-3 satellite in orbit after confidential Electron launch
@@ -98,8 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.spacedaily.com/reports/Best_7_EV_Charging_App_Development_Companies_Powering_eMobility_in_2025_999.html" >🔗</a> **[SpaceDaily]** Best 7 EV Charging App Development Companies Powering eMobility in 2025
 - <a href="https://spacenews.com/shenzhou-22-docks-at-tiangong-space-station-resolving-human-spaceflight-emergency/" >🔗</a> **[SpaceNews]** Shenzhou-22 docks at Tiangong space station, resolving human spaceflight emergency
 - <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/SpainSat_NG_programme_completed_as_second_secure_communications_satellite_launches" >🔗</a> **[ESA]** SpainSat NG programme completed as second secure communications satellite launches
-- <a href="https://www.spacedaily.com/reports/Outage_Prevention_from_Orbit_Why_Utilities_Are_Turning_to_Satellites_and_Geospatial_Analytics_999.html" >🔗</a> **[SpaceDaily]** Outage Prevention from Orbit: Why Utilities Are Turning to Satellites and Geospatial Analytics
-- <a href="https://www.spacedaily.com/reports/End_of_mission_for_Atacama_Cosmology_Telescope_opens_new_avenues_in_cosmology_999.html" >🔗</a> **[SpaceDaily]** End of mission for Atacama Cosmology Telescope opens new avenues in cosmology
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251125T170218">2025-11-25 17:02:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251125T173453">2025-11-25 17:34:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
