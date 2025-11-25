@@ -90,6 +90,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/terran-orbital-announces-cheryl-paquete-as-chief-financial-officer/" >🔗</a> **[SpaceNews]** Terran Orbital Announces Cheryl Paquete as Chief Financial Officer
 - <a href="https://spacenews.com/making-comsatcom-accessible-for-large-scale-defense-requirements/" >🔗</a> **[SpaceNews]** Making COMSATCOM accessible for large-scale defense requirements
 - <a href="https://spacenews.com/blacksky-announces-latest-gen-3-satellite-in-orbit-after-confidential-electron-launch/" >🔗</a> **[SpaceNews]** BlackSky announces latest Gen-3 satellite in orbit after confidential Electron launch
 - <a href="https://europeanspaceflight.com/polish-consortium-successfully-tests-three-stage-suborbital-rocket/" >🔗</a> **[European Spaceflight]** Polish Consortium Successfully Tests Three-Stage Suborbital Rocket
@@ -99,7 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/SpainSat_NG_programme_completed_as_second_secure_communications_satellite_launches" >🔗</a> **[ESA]** SpainSat NG programme completed as second secure communications satellite launches
 - <a href="https://www.spacedaily.com/reports/Outage_Prevention_from_Orbit_Why_Utilities_Are_Turning_to_Satellites_and_Geospatial_Analytics_999.html" >🔗</a> **[SpaceDaily]** Outage Prevention from Orbit: Why Utilities Are Turning to Satellites and Geospatial Analytics
 - <a href="https://www.spacedaily.com/reports/End_of_mission_for_Atacama_Cosmology_Telescope_opens_new_avenues_in_cosmology_999.html" >🔗</a> **[SpaceDaily]** End of mission for Atacama Cosmology Telescope opens new avenues in cosmology
-- <a href="https://www.spacedaily.com/reports/China_launches_Shenzhou-22_early_for_stranded_space_station_crew_999.html" >🔗</a> **[SpaceDaily]** China launches Shenzhou-22 early for stranded space station crew
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251125T160148">2025-11-25 16:01:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251125T163940">2025-11-25 16:39:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
