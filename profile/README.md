@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/oman-brings-geo-orders-level-with-2024-as-larger-spacecraft-regain-traction/" >🔗</a> **[SpaceNews]** Oman brings GEO orders level with 2024 as larger spacecraft regain traction
 - <a href="https://spaceflightnow.com/2025/11/24/nasa-boeing-pivot-starliner-1-mission-from-4-person-astronaut-flight-to-cargo-only/" >🔗</a> **[Spaceflight Now]** NASA, Boeing pivot Starliner-1 mission from 4-person astronaut flight to cargo-only
 - <a href="https://www.nasaspaceflight.com/2025/11/shenzhou-22-launch/" >🔗</a> **[NASASpaceflight]** Shenzhou 22 set to launch uncrewed to Chinese Tiangong space station
 - <a href="https://spacepolicyonline.com/news/nasa-boeing-modify-starliner-contract-fewer-launches-cargo-only-on-starliner-1/" >🔗</a> **[SpacePolicyOnline.com]** NASA, Boeing Modify Starliner Contract: Fewer Launches, Cargo Only on Starliner-1
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/learning-resources/science-activation/new-nasa-heat-and-my-nasa-data-resources-bring-space-weather-science-into-classrooms/" >🔗</a> **[NASA]** New NASA HEAT and My NASA Data Resources Bring Space Weather Science into Classrooms
 - <a href="https://science.nasa.gov/earth/nasa-noaa-rank-2025-ozone-hole-as-5th-smallest-since-1992/" >🔗</a> **[NASA]** NASA, NOAA Rank 2025 Ozone Hole as 5th Smallest Since 1992
 - <a href="https://science.nasa.gov/get-involved/citizen-science/nasa-citizen-science-toolkit-for-librarians/" >🔗</a> **[NASA]** NASA Citizen Science Toolkit for Librarians
-- <a href="https://www.nasa.gov/image-article/city-lights-and-atmospheric-glow/" >🔗</a> **[NASA]** City Lights and Atmospheric Glow
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251125T000403">2025-11-25 00:04:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251125T004557">2025-11-25 00:45:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
