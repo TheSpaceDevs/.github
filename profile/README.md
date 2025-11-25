@@ -92,6 +92,7 @@ Unknown Payload(s) for the Russian military.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/china-launches-uncrewed-replacement-for-damaged-shenzhou-20/" >🔗</a> **[SpacePolicyOnline.com]** China Launches Uncrewed Replacement for Damaged Shenzhou-20
 - <a href="https://spacenews.com/oman-brings-geo-orders-level-with-2024-as-larger-spacecraft-regain-traction/" >🔗</a> **[SpaceNews]** Oman brings GEO orders level with 2024 as larger spacecraft regain traction
 - <a href="https://spaceflightnow.com/2025/11/24/nasa-boeing-pivot-starliner-1-mission-from-4-person-astronaut-flight-to-cargo-only/" >🔗</a> **[Spaceflight Now]** NASA, Boeing pivot Starliner-1 mission from 4-person astronaut flight to cargo-only
 - <a href="https://www.nasaspaceflight.com/2025/11/shenzhou-22-launch/" >🔗</a> **[NASASpaceflight]** Shenzhou 22 set to launch uncrewed to Chinese Tiangong space station
@@ -101,7 +102,6 @@ Unknown Payload(s) for the Russian military.
 - <a href="https://arstechnica.com/space/2025/11/nasa-confirms-that-starliners-next-mission-will-be-cargo-only/" >🔗</a> **[Arstechnica]** NASA confirms that Starliner’s next mission will be cargo only
 - <a href="https://science.nasa.gov/learning-resources/science-activation/new-nasa-heat-and-my-nasa-data-resources-bring-space-weather-science-into-classrooms/" >🔗</a> **[NASA]** New NASA HEAT and My NASA Data Resources Bring Space Weather Science into Classrooms
 - <a href="https://science.nasa.gov/earth/nasa-noaa-rank-2025-ozone-hole-as-5th-smallest-since-1992/" >🔗</a> **[NASA]** NASA, NOAA Rank 2025 Ozone Hole as 5th Smallest Since 1992
-- <a href="https://science.nasa.gov/get-involved/citizen-science/nasa-citizen-science-toolkit-for-librarians/" >🔗</a> **[NASA]** NASA Citizen Science Toolkit for Librarians
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ Unknown Payload(s) for the Russian military.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251125T050144">2025-11-25 05:01:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251125T053524">2025-11-25 05:35:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
