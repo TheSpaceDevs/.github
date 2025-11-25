@@ -90,16 +90,16 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/red-spider-nebula/" >🔗</a> **[NASA]** Red Spider Nebula
+- <a href="https://spacenews.com/lithuanian-space-company-astrolight-launches-greenland-optical-ground-station-project/" >🔗</a> **[SpaceNews]** Lithuanian space company Astrolight launches Greenland optical ground station project
+- <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-crater-detection-challenge/" >🔗</a> **[NASA]** NASA Crater Detection Challenge
+- <a href="https://www.nasa.gov/get-involved/nasa-crater-detection-challenge/" >🔗</a> **[NASA]** NASA Crater Detection Challenge
 - <a href="https://www.nasa.gov/humans-in-space/chapea-crew-begins-stay-inside-nasas-mars-habitat-for-second-mission/" >🔗</a> **[NASA]** CHAPEA Crew Begins Stay Inside NASA’s Mars Habitat for Second Mission
 - <a href="https://www.nasa.gov/missions/mars-reconnaissance-orbiter/nasa-orbiter-shines-new-light-on-long-running-martian-mystery/" >🔗</a> **[NASA]** NASA Orbiter Shines New Light on Long-Running Martian Mystery
 - <a href="https://spacenews.com/terran-orbital-announces-cheryl-paquete-as-chief-financial-officer/" >🔗</a> **[SpaceNews]** Terran Orbital Announces Cheryl Paquete as Chief Financial Officer
 - <a href="https://spacenews.com/making-comsatcom-accessible-for-large-scale-defense-requirements/" >🔗</a> **[SpaceNews]** Making COMSATCOM accessible for large-scale defense requirements
 - <a href="https://spacenews.com/blacksky-announces-latest-gen-3-satellite-in-orbit-after-confidential-electron-launch/" >🔗</a> **[SpaceNews]** BlackSky announces latest Gen-3 satellite in orbit after confidential Electron launch
 - <a href="https://europeanspaceflight.com/polish-consortium-successfully-tests-three-stage-suborbital-rocket/" >🔗</a> **[European Spaceflight]** Polish Consortium Successfully Tests Three-Stage Suborbital Rocket
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/11/Ethiopian_volcanic_plume" >🔗</a> **[ESA]** Ethiopian volcanic plume
-- <a href="https://www.spacedaily.com/reports/Best_7_EV_Charging_App_Development_Companies_Powering_eMobility_in_2025_999.html" >🔗</a> **[SpaceDaily]** Best 7 EV Charging App Development Companies Powering eMobility in 2025
-- <a href="https://spacenews.com/shenzhou-22-docks-at-tiangong-space-station-resolving-human-spaceflight-emergency/" >🔗</a> **[SpaceNews]** Shenzhou-22 docks at Tiangong space station, resolving human spaceflight emergency
-- <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/SpainSat_NG_programme_completed_as_second_secure_communications_satellite_launches" >🔗</a> **[ESA]** SpainSat NG programme completed as second secure communications satellite launches
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251125T180151">2025-11-25 18:01:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251125T184056">2025-11-25 18:40:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
