@@ -90,6 +90,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/making-comsatcom-accessible-for-large-scale-defense-requirements/" >🔗</a> **[SpaceNews]** Making COMSATCOM accessible for large-scale defense requirements
 - <a href="https://spacenews.com/blacksky-announces-latest-gen-3-satellite-in-orbit-after-confidential-electron-launch/" >🔗</a> **[SpaceNews]** BlackSky announces latest Gen-3 satellite in orbit after confidential Electron launch
 - <a href="https://europeanspaceflight.com/polish-consortium-successfully-tests-three-stage-suborbital-rocket/" >🔗</a> **[European Spaceflight]** Polish Consortium Successfully Tests Three-Stage Suborbital Rocket
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/11/Ethiopian_volcanic_plume" >🔗</a> **[ESA]** Ethiopian volcanic plume
@@ -99,7 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.spacedaily.com/reports/End_of_mission_for_Atacama_Cosmology_Telescope_opens_new_avenues_in_cosmology_999.html" >🔗</a> **[SpaceDaily]** End of mission for Atacama Cosmology Telescope opens new avenues in cosmology
 - <a href="https://www.spacedaily.com/reports/China_launches_Shenzhou-22_early_for_stranded_space_station_crew_999.html" >🔗</a> **[SpaceDaily]** China launches Shenzhou-22 early for stranded space station crew
 - <a href="https://www.spacedaily.com/reports/NJIT_scientists_track_recent_solar_flare_disruptions_in_Earths_ionosphere_999.html" >🔗</a> **[SpaceDaily]** NJIT scientists track recent solar flare disruptions in Earth's ionosphere
-- <a href="https://www.spacedaily.com/reports/Looking_inside_icy_moons_999.html" >🔗</a> **[SpaceDaily]** Looking inside icy moons
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251125T140128">2025-11-25 14:01:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251125T143630">2025-11-25 14:36:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
