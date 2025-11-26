@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/11/soyuz-ms-28-launch/" >🔗</a> **[NASASpaceflight]** Soyuz MS-28 poised to launch three new crew members to ISS
 - <a href="https://spacenews.com/smartsky-wont-block-gogo-5g-air-to-ground-network-despite-legal-win/" >🔗</a> **[SpaceNews]** SmartSky won’t block Gogo 5G air-to-ground network despite legal win
 - <a href="https://www.nasa.gov/image-article/artemis-ii-orion-spacecraft-stacked/" >🔗</a> **[NASA]** Artemis II Orion Spacecraft Stacked
 - <a href="https://www.nasaspaceflight.com/2025/11/transporter-15/" >🔗</a> **[NASASpaceflight]** SpaceX’s Falcon 9 set to launch 140 payloads on Transporter-15
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/11/Ministers_and_high-level_representatives_gather_for_ESA_s_Ministerial_Council" >🔗</a> **[ESA]** Ministers and high-level representatives gather for ESA's Ministerial Council
 - <a href="https://spaceflightnow.com/2025/11/26/live-coverage-spacex-to-launch-dozens-of-smallsats-on-transporter-15-rideshare-flight/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch dozens of smallsats on Transporter-15 rideshare flight
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-5/Sentinel-5_debuts_images_of_atmospheric_gases" >🔗</a> **[ESA]** Sentinel-5 debuts images of atmospheric gases
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_delivers_first_images_from_Antarctica_to_Bremen" >🔗</a> **[ESA]** Sentinel-1D delivers first images: from Antarctica to Bremen
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251126T220146">2025-11-26 22:01:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251126T223428">2025-11-26 22:34:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
