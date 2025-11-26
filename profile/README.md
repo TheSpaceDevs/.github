@@ -19,27 +19,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Nuri | CAS500-3**. It is scheduled to be launched by *Korea Aerospace Research Institute*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/kr.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Naro_Space_Center">LC-2</a>, Naro Space Center, South Korea*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/kr.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251126T155400">2025-11-26 15:54:00 UTC</a>.  Until
-then, this pad will have been used for 4
-out of 7 launches from this location. The launch status is currently
+**Falcon 9 Block 5 | Transporter 15 (Dedicated SSO Rideshare)**. It is scheduled to be launched by *SpaceX*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251126T181800">2025-11-26 18:18:00 UTC</a>.  Until
+then, this pad will have been used for 231
+out of 845 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Earth Science* and the payload will be injected
+*Dedicated Rideshare* and the payload will be injected
 into *a Sun-Synchronous Orbit
 (SSO)*.
 <br>
 <blockquote>
-  CAS500-3 is a South Korean Earth observation satellites to be used by the Ministry of Science and ICT for space technology verification and space science research.
+  Dedicated rideshare flight to a sun-synchronous orbit with dozens of small microsatellites and nanosatellites for commercial and government customers.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/KSLV-2" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=34.431867,127.535069" >
+  <a href="https://www.google.com/maps?q=34.632,-120.611" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -54,6 +54,7 @@ into *a Sun-Synchronous Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251202T201600">2025-12-02 20:16:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-95&location=Cape Canaveral SFS, FL, USA&dates=20251202T201600Z%2F20251203T001600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-95** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251205T030000">2025-12-05 03:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Raise and Shine (RAISE-4)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20251205T030000Z%2F20251205T030000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Raise and Shine (RAISE-4)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251205T165800">2025-12-05 16:58:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-15&location=Vandenberg SFB, CA, USA&dates=20251205T165800Z%2F20251205T205800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-15** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251207T023000">2025-12-07 02:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=H3-22 | Michibiki 5 (QZS-5)&location=Tanegashima Space Center, Japan&dates=20251207T023000Z%2F20251207T033000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **H3-22 | Michibiki 5 (QZS-5)** from Tanegashima Space Center, Japan.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -89,25 +90,29 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/11/26/live-coverage-spacex-to-launch-dozens-of-smallsats-on-transporter-15-rideshare-flight/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch dozens of smallsats on Transporter-15 rideshare flight
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-5/Sentinel-5_debuts_images_of_atmospheric_gases" >🔗</a> **[ESA]** Sentinel-5 debuts images of atmospheric gases
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_delivers_first_images_from_Antarctica_to_Bremen" >🔗</a> **[ESA]** Sentinel-1D delivers first images: from Antarctica to Bremen
 - <a href="https://spacenews.com/dec-5-ama-with-the-spacenews-editorial-team/" >🔗</a> **[SpaceNews]** Protected: Dec. 5: AMA with the SpaceNews editorial team
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/11/ESA_s_Ministerial_Council_begins_in_Bremen" >🔗</a> **[ESA]** ESA's Ministerial Council begins in Bremen
 - <a href="https://europeanspaceflight.com/esa-to-repurpose-european-service-module-and-earth-return-orbiter/" >🔗</a> **[European Spaceflight]** ESA to Repurpose European Service Module and Earth Return Orbiter
 - <a href="https://spacenews.com/northrop-grumman-selected-to-provide-cargo-services-for-final-phase-of-iss/" >🔗</a> **[SpaceNews]** Northrop Grumman selected to provide cargo services for final phase of ISS
 - <a href="https://www.spacedaily.com/reports/White_dwarf_magnetic_field_study_reveals_inner_accretion_dynamics_999.html" >🔗</a> **[SpaceDaily]** White dwarf magnetic field study reveals inner accretion dynamics
-- <a href="https://www.spacedaily.com/reports/Gamma_ray_observation_may_provide_first_direct_evidence_for_dark_matter_999.html" >🔗</a> **[SpaceDaily]** Gamma-ray observation may provide first direct evidence for dark matter
-- <a href="https://www.spacedaily.com/reports/Researchers_use_X_ray_analysis_to_examine_flown_European_satellite_999.html" >🔗</a> **[SpaceDaily]** Researchers use X ray analysis to examine flown European satellite
 - <a href="https://www.spacedaily.com/reports/NASAs_Mars_Spacecraft_Capture_Images_of_Comet_3I_ATLAS_999.html" >🔗</a> **[SpaceDaily]** NASA's Mars Spacecraft Capture Images of Comet 3I/ATLAS
-- <a href="https://spacenews.com/esa-members-to-decide-on-europes-future-in-space-at-ministerial-conference/" >🔗</a> **[SpaceNews]** ESA members to decide on Europe’s future in space at ministerial conference
-- <a href="https://www.marsdaily.com/reports/Second_CHAPEA_Crew_Begins_Extended_Mars_Habitat_Mission_at_NASA_Johnson_999.html" >🔗</a> **[SpaceDaily]** Second CHAPEA Crew Begins Extended Mars Habitat Mission at NASA Johnson
+- <a href="https://www.spacedaily.com/reports/Gamma_ray_observation_may_provide_first_direct_evidence_for_dark_matter_999.html" >🔗</a> **[SpaceDaily]** Gamma-ray observation may provide first direct evidence for dark matter
 
 
 ### Launch-related News 🚀
 
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/HydroGNSS/Watch_HydroGNSS_IRIDE_and_Greek_mission_satellites_launch" >🔗</a> **[ESA]** Watch: HydroGNSS, IRIDE and Greek mission satellites launch
+- <a href="https://www.nasaspaceflight.com/2025/11/launch-roundup-111725/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Innospace to debut new rocket, SpaceX to launch five Falcon 9 missions
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/HydroGNSS/ESA_s_HydroGNSS_Scout_satellites_ready_for_launch" >🔗</a> **[ESA]** ESA’s HydroGNSS Scout satellites ready for launch
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/HydroGNSS" >🔗</a> **[ESA]** HydroGNSS
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251126T160154">2025-11-26 16:01:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251126T163907">2025-11-26 16:39:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
