@@ -90,16 +90,16 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.spacedaily.com/reports/Gamma_ray_observation_may_provide_first_direct_evidence_for_dark_matter_999.html" >🔗</a> **[SpaceDaily]** Gamma-ray observation may provide first direct evidence for dark matter
+- <a href="https://spacenews.com/northrop-grumman-selected-to-provide-cargo-services-for-final-phase-of-iss/" >🔗</a> **[SpaceNews]** Northrop Grumman selected to provide cargo services for final phase of ISS
 - <a href="https://www.spacedaily.com/reports/NASAs_Mars_Spacecraft_Capture_Images_of_Comet_3I_ATLAS_999.html" >🔗</a> **[SpaceDaily]** NASA's Mars Spacecraft Capture Images of Comet 3I/ATLAS
 - <a href="https://www.spacedaily.com/reports/White_dwarf_magnetic_field_study_reveals_inner_accretion_dynamics_999.html" >🔗</a> **[SpaceDaily]** White dwarf magnetic field study reveals inner accretion dynamics
 - <a href="https://www.spacedaily.com/reports/Researchers_use_X_ray_analysis_to_examine_flown_European_satellite_999.html" >🔗</a> **[SpaceDaily]** Researchers use X ray analysis to examine flown European satellite
+- <a href="https://www.spacedaily.com/reports/Gamma_ray_observation_may_provide_first_direct_evidence_for_dark_matter_999.html" >🔗</a> **[SpaceDaily]** Gamma-ray observation may provide first direct evidence for dark matter
 - <a href="https://spacenews.com/esa-members-to-decide-on-europes-future-in-space-at-ministerial-conference/" >🔗</a> **[SpaceNews]** ESA members to decide on Europe’s future in space at ministerial conference
 - <a href="https://www.spacedaily.com/reports/OSIRIS_APEX_spacecraft_completes_Earth_flyby_on_its_journey_to_explore_Apophis_999.html" >🔗</a> **[SpaceDaily]** OSIRIS-APEX spacecraft completes Earth flyby on its journey to explore Apophis
 - <a href="https://www.spacedaily.com/reports/NASA_changes_Starliner_contract_First_ISS_mission_to_carry_only_cargo_999.html" >🔗</a> **[SpaceDaily]** NASA changes Starliner contract: First ISS mission to carry only cargo
 - <a href="https://www.spacedaily.com/reports/Soyuz_rocket_positioned_at_Baikonur_for_ISS_crew_launch_as_Cygnus_XL_temporarily_removed_999.html" >🔗</a> **[SpaceDaily]** Soyuz rocket positioned at Baikonur for ISS crew launch as Cygnus XL temporarily removed
 - <a href="https://www.marsdaily.com/reports/Second_CHAPEA_Crew_Begins_Extended_Mars_Habitat_Mission_at_NASA_Johnson_999.html" >🔗</a> **[SpaceDaily]** Second CHAPEA Crew Begins Extended Mars Habitat Mission at NASA Johnson
-- <a href="https://www.marsdaily.com/reports/NASA_Orbiter_Shines_New_Light_on_Long_Running_Martian_Mystery_999.html" >🔗</a> **[SpaceDaily]** NASA Orbiter Shines New Light on Long-Running Martian Mystery
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251126T110124">2025-11-26 11:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251126T113207">2025-11-26 11:32:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
