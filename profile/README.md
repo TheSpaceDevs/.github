@@ -90,16 +90,16 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/dec-5-ama-with-the-spacenews-editorial-team/" >🔗</a> **[SpaceNews]** Protected: Dec. 5: AMA with the SpaceNews editorial team
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/11/ESA_s_Ministerial_Council_begins_in_Bremen" >🔗</a> **[ESA]** ESA's Ministerial Council begins in Bremen
 - <a href="https://europeanspaceflight.com/esa-to-repurpose-european-service-module-and-earth-return-orbiter/" >🔗</a> **[European Spaceflight]** ESA to Repurpose European Service Module and Earth Return Orbiter
 - <a href="https://spacenews.com/northrop-grumman-selected-to-provide-cargo-services-for-final-phase-of-iss/" >🔗</a> **[SpaceNews]** Northrop Grumman selected to provide cargo services for final phase of ISS
-- <a href="https://www.spacedaily.com/reports/Gamma_ray_observation_may_provide_first_direct_evidence_for_dark_matter_999.html" >🔗</a> **[SpaceDaily]** Gamma-ray observation may provide first direct evidence for dark matter
 - <a href="https://www.spacedaily.com/reports/White_dwarf_magnetic_field_study_reveals_inner_accretion_dynamics_999.html" >🔗</a> **[SpaceDaily]** White dwarf magnetic field study reveals inner accretion dynamics
+- <a href="https://www.spacedaily.com/reports/Gamma_ray_observation_may_provide_first_direct_evidence_for_dark_matter_999.html" >🔗</a> **[SpaceDaily]** Gamma-ray observation may provide first direct evidence for dark matter
 - <a href="https://www.spacedaily.com/reports/Researchers_use_X_ray_analysis_to_examine_flown_European_satellite_999.html" >🔗</a> **[SpaceDaily]** Researchers use X ray analysis to examine flown European satellite
 - <a href="https://www.spacedaily.com/reports/NASAs_Mars_Spacecraft_Capture_Images_of_Comet_3I_ATLAS_999.html" >🔗</a> **[SpaceDaily]** NASA's Mars Spacecraft Capture Images of Comet 3I/ATLAS
 - <a href="https://spacenews.com/esa-members-to-decide-on-europes-future-in-space-at-ministerial-conference/" >🔗</a> **[SpaceNews]** ESA members to decide on Europe’s future in space at ministerial conference
-- <a href="https://www.marsdaily.com/reports/NASA_Orbiter_Shines_New_Light_on_Long_Running_Martian_Mystery_999.html" >🔗</a> **[SpaceDaily]** NASA Orbiter Shines New Light on Long-Running Martian Mystery
-- <a href="https://www.marsdaily.com/reports/ESCAPADE_spacecraft_capture_first_images_while_en_route_to_Mars_999.html" >🔗</a> **[SpaceDaily]** ESCAPADE spacecraft capture first images while en route to Mars
+- <a href="https://www.marsdaily.com/reports/Second_CHAPEA_Crew_Begins_Extended_Mars_Habitat_Mission_at_NASA_Johnson_999.html" >🔗</a> **[SpaceDaily]** Second CHAPEA Crew Begins Extended Mars Habitat Mission at NASA Johnson
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251126T150131">2025-11-26 15:01:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251126T153450">2025-11-26 15:34:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
