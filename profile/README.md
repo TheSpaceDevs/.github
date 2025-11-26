@@ -90,16 +90,16 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.marsdaily.com/reports/NASA_Orbiter_Shines_New_Light_on_Long_Running_Martian_Mystery_999.html" >🔗</a> **[SpaceDaily]** NASA Orbiter Shines New Light on Long-Running Martian Mystery
+- <a href="https://www.spacedaily.com/reports/Soyuz_rocket_positioned_at_Baikonur_for_ISS_crew_launch_as_Cygnus_XL_temporarily_removed_999.html" >🔗</a> **[SpaceDaily]** Soyuz rocket positioned at Baikonur for ISS crew launch as Cygnus XL temporarily removed
+- <a href="https://www.spacedaily.com/reports/Decoded_star_reveals_signs_of_distant_stellar_merger_and_black_hole_companion_999.html" >🔗</a> **[SpaceDaily]** Decoded star reveals signs of distant stellar merger and black hole companion
+- <a href="https://www.marsdaily.com/reports/Second_CHAPEA_Crew_Begins_Extended_Mars_Habitat_Mission_at_NASA_Johnson_999.html" >🔗</a> **[SpaceDaily]** Second CHAPEA Crew Begins Extended Mars Habitat Mission at NASA Johnson
+- <a href="https://www.spacedaily.com/reports/NASA_changes_Starliner_contract_First_ISS_mission_to_carry_only_cargo_999.html" >🔗</a> **[SpaceDaily]** NASA changes Starliner contract: First ISS mission to carry only cargo
+- <a href="https://www.spacedaily.com/reports/OSIRIS_APEX_spacecraft_completes_Earth_flyby_on_its_journey_to_explore_Apophis_999.html" >🔗</a> **[SpaceDaily]** OSIRIS-APEX spacecraft completes Earth flyby on its journey to explore Apophis
+- <a href="https://www.marsdaily.com/reports/ESCAPADE_spacecraft_capture_first_images_while_en_route_to_Mars_999.html" >🔗</a> **[SpaceDaily]** ESCAPADE spacecraft capture first images while en route to Mars
 - <a href="https://spacenews.com/space-force-awards-first-prototype-deals-for-space-based-interceptors-under-golden-dome/" >🔗</a> **[SpaceNews]** Space Force awards first prototype deals for space-based interceptors under Golden Dome
 - <a href="https://www.nasa.gov/directorates/esdmd/hhp/treat/lsah-newsletter/" >🔗</a> **[NASA]** LSAH Newsletter
 - <a href="https://science.nasa.gov/learning-resources/science-activation/nasa-globe-connect-people-land-and-space/" >🔗</a> **[NASA]** NASA & GLOBE Connect People, Land, and Space
-- <a href="https://www.nasaspaceflight.com/2025/11/launch-roundup-112525/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Soyuz to launch crew; Vega C and Falcon 9 to launch customer missions
-- <a href="https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-observatory-passes-spate-of-key-tests/" >🔗</a> **[NASA]** NASA’s Roman Observatory Passes Spate of Key Tests
-- <a href="https://www.spacescout.info/2025/11/esa-lays-out-ambitious-vision-ahead-of-new-budget-decision/" >🔗</a> **[Space Scout]** ESA Lays Out Ambitious Vision Ahead of New Budget Decision
-- <a href="https://www.nasa.gov/image-article/red-spider-nebula/" >🔗</a> **[NASA]** Red Spider Nebula
-- <a href="https://spacenews.com/lithuanian-space-company-astrolight-launches-greenland-optical-ground-station-project/" >🔗</a> **[SpaceNews]** Lithuanian space company Astrolight launches Greenland optical ground station project
-- <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-crater-detection-challenge/" >🔗</a> **[NASA]** NASA Crater Detection Challenge
-- <a href="https://www.nasa.gov/get-involved/nasa-crater-detection-challenge/" >🔗</a> **[NASA]** NASA Crater Detection Challenge
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251126T034907">2025-11-26 03:49:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251126T040427">2025-11-26 04:04:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
