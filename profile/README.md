@@ -90,16 +90,16 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/11/transporter-15/" >🔗</a> **[NASASpaceflight]** SpaceX’s Falcon 9 set to launch 140 payloads on Transporter-15
+- <a href="https://arstechnica.com/space/2025/11/after-a-decade-russias-native-built-soyuz-5-rocket-finally-reaches-the-launch-site/" >🔗</a> **[Arstechnica]** After a decade Russia’s native-built Soyuz 5 rocket finally reaches the launch site
+- <a href="https://spacenews.com/diverging-priorities-shape-opening-day-of-esa-ministerial-2025/" >🔗</a> **[SpaceNews]** Diverging priorities shape opening day of ESA Ministerial 2025
+- <a href="https://europeanspaceflight.com/exploration-and-space-transportation-see-largest-esa-funding-boosts/" >🔗</a> **[European Spaceflight]** Exploration and Space Transportation See Largest ESA Funding Boosts
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/11/Ministers_and_high-level_representatives_gather_for_ESA_s_Ministerial_Council" >🔗</a> **[ESA]** Ministers and high-level representatives gather for ESA's Ministerial Council
 - <a href="https://spaceflightnow.com/2025/11/26/live-coverage-spacex-to-launch-dozens-of-smallsats-on-transporter-15-rideshare-flight/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch dozens of smallsats on Transporter-15 rideshare flight
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-5/Sentinel-5_debuts_images_of_atmospheric_gases" >🔗</a> **[ESA]** Sentinel-5 debuts images of atmospheric gases
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_delivers_first_images_from_Antarctica_to_Bremen" >🔗</a> **[ESA]** Sentinel-1D delivers first images: from Antarctica to Bremen
 - <a href="https://spacenews.com/dec-5-ama-with-the-spacenews-editorial-team/" >🔗</a> **[SpaceNews]** Protected: Dec. 5: AMA with the SpaceNews editorial team
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/11/ESA_s_Ministerial_Council_begins_in_Bremen" >🔗</a> **[ESA]** ESA's Ministerial Council begins in Bremen
-- <a href="https://europeanspaceflight.com/esa-to-repurpose-european-service-module-and-earth-return-orbiter/" >🔗</a> **[European Spaceflight]** ESA to Repurpose European Service Module and Earth Return Orbiter
-- <a href="https://spacenews.com/northrop-grumman-selected-to-provide-cargo-services-for-final-phase-of-iss/" >🔗</a> **[SpaceNews]** Northrop Grumman selected to provide cargo services for final phase of ISS
-- <a href="https://www.spacedaily.com/reports/White_dwarf_magnetic_field_study_reveals_inner_accretion_dynamics_999.html" >🔗</a> **[SpaceDaily]** White dwarf magnetic field study reveals inner accretion dynamics
-- <a href="https://www.spacedaily.com/reports/NASAs_Mars_Spacecraft_Capture_Images_of_Comet_3I_ATLAS_999.html" >🔗</a> **[SpaceDaily]** NASA's Mars Spacecraft Capture Images of Comet 3I/ATLAS
-- <a href="https://www.spacedaily.com/reports/Gamma_ray_observation_may_provide_first_direct_evidence_for_dark_matter_999.html" >🔗</a> **[SpaceDaily]** Gamma-ray observation may provide first direct evidence for dark matter
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251126T170125">2025-11-26 17:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251126T173402">2025-11-26 17:34:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
