@@ -19,34 +19,34 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Transporter 15 (Dedicated SSO Rideshare)**. It is scheduled to be launched by *SpaceX*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251126T181800">2025-11-26 18:18:00 UTC</a>.  Until
-then, this pad will have been used for 231
-out of 845 launches from this location. The launch status is currently
+**Soyuz 2.1a | Soyuz MS-28**. It is scheduled to be launched by *Russian Federal Space Agency (ROSCOSMOS)*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Baikonur_Cosmodrome_Site_31">31/6</a>, Baikonur Cosmodrome, Republic of Kazakhstan*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/kz.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251127T092757">2025-11-27 09:27:57 UTC</a>.  Until
+then, this pad will have been used for 425
+out of 1558 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Dedicated Rideshare* and the payload will be injected
-into *a Sun-Synchronous Orbit
-(SSO)*.
+*Human Exploration* and the payload will be injected
+into *a Low Earth Orbit
+(LEO)*.
 <br>
 <blockquote>
-  Dedicated rideshare flight to a sun-synchronous orbit with dozens of small microsatellites and nanosatellites for commercial and government customers.
+  Soyuz MS-28 will carry three cosmonauts and one astronaut to the International Space Station aboard the Soyuz spacecraft from the Baikonur Cosmodrome in Kazakhstan. The crew consists of Roscosmos cosmonauts Sergei Kud-Sverchkov, Sergei Mikayev and Oleg Platonov.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+  <a href="https://en.wikipedia.org/wiki/Soyuz-2#Soyuz-2.1a" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=34.632,-120.611" >
+  <a href="https://www.google.com/maps?q=45.996034,63.564003" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251126T181800">2025-11-26 18:18:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Transporter 15 (Dedicated SSO Rideshare)&location=Vandenberg SFB, CA, USA&dates=20251126T181800Z%2F20251126T191500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Transporter 15 (Dedicated SSO Rideshare)** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251127T092757">2025-11-27 09:27:57 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Soyuz MS-28&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20251127T092757Z%2F20251127T092757Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Soyuz MS-28** from Baikonur Cosmodrome, Republic of Kazakhstan.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251128T181800">2025-11-28 18:18:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Transporter 15 (Dedicated SSO Rideshare)&location=Vandenberg SFB, CA, USA&dates=20251128T181800Z%2F20251128T191500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Transporter 15 (Dedicated SSO Rideshare)** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251130T025900">2025-11-30 02:59:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 15-10&location=Vandenberg SFB, CA, USA&dates=20251130T025900Z%2F20251130T065900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 15-10** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251130T172100">2025-11-30 17:21:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Vega-C | KOMPSAT-7&location=Guiana Space Centre, French Guiana&dates=20251130T172100Z%2F20251130T172100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Vega-C | KOMPSAT-7** from Guiana Space Centre, French Guiana.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251201T050000">2025-12-01 05:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-86&location=Kennedy Space Center, FL, USA&dates=20251201T050000Z%2F20251201T090000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-86** from Kennedy Space Center, FL, USA.
@@ -90,6 +90,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/artemis-ii-orion-spacecraft-stacked/" >🔗</a> **[NASA]** Artemis II Orion Spacecraft Stacked
 - <a href="https://www.nasaspaceflight.com/2025/11/transporter-15/" >🔗</a> **[NASASpaceflight]** SpaceX’s Falcon 9 set to launch 140 payloads on Transporter-15
 - <a href="https://arstechnica.com/space/2025/11/after-a-decade-russias-native-built-soyuz-5-rocket-finally-reaches-the-launch-site/" >🔗</a> **[Arstechnica]** After a decade Russia’s native-built Soyuz 5 rocket finally reaches the launch site
 - <a href="https://spacenews.com/diverging-priorities-shape-opening-day-of-esa-ministerial-2025/" >🔗</a> **[SpaceNews]** Diverging priorities shape opening day of ESA Ministerial 2025
@@ -99,20 +100,17 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-5/Sentinel-5_debuts_images_of_atmospheric_gases" >🔗</a> **[ESA]** Sentinel-5 debuts images of atmospheric gases
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_delivers_first_images_from_Antarctica_to_Bremen" >🔗</a> **[ESA]** Sentinel-1D delivers first images: from Antarctica to Bremen
 - <a href="https://spacenews.com/dec-5-ama-with-the-spacenews-editorial-team/" >🔗</a> **[SpaceNews]** Protected: Dec. 5: AMA with the SpaceNews editorial team
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/11/ESA_s_Ministerial_Council_begins_in_Bremen" >🔗</a> **[ESA]** ESA's Ministerial Council begins in Bremen
 
 
 ### Launch-related News 🚀
 
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/HydroGNSS/Watch_HydroGNSS_IRIDE_and_Greek_mission_satellites_launch" >🔗</a> **[ESA]** Watch: HydroGNSS, IRIDE and Greek mission satellites launch
-- <a href="https://www.nasaspaceflight.com/2025/11/launch-roundup-111725/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Innospace to debut new rocket, SpaceX to launch five Falcon 9 missions
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/HydroGNSS/ESA_s_HydroGNSS_Scout_satellites_ready_for_launch" >🔗</a> **[ESA]** ESA’s HydroGNSS Scout satellites ready for launch
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/HydroGNSS" >🔗</a> **[ESA]** HydroGNSS
+- <a href="https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-to-discuss-upcoming-launch-mission/" >🔗</a> **[NASA]** NASA Astronaut Chris Williams to Discuss Upcoming Launch, Mission
+- <a href="https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-assigned-to-first-space-station-mission/" >🔗</a> **[NASA]** NASA Astronaut Chris Williams Assigned to First Space Station Mission
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251126T180150">2025-11-26 18:01:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251126T183820">2025-11-26 18:38:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
