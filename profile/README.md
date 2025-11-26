@@ -53,8 +53,8 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251202T201600">2025-12-02 20:16:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-95&location=Cape Canaveral SFS, FL, USA&dates=20251202T201600Z%2F20251203T001600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-95** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251204T181200">2025-12-04 18:12:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-25&location=Vandenberg SFB, CA, USA&dates=20251204T181200Z%2F20251204T221200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-25** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251205T030000">2025-12-05 03:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Raise and Shine (RAISE-4)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20251205T030000Z%2F20251205T030000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Raise and Shine (RAISE-4)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251207T000000">2025-12-07 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-15&location=Vandenberg SFB, CA, USA&dates=20251207T000000Z%2F20251207T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-15** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251207T023000">2025-12-07 02:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=H3-22 | Michibiki 5 (QZS-5)&location=Tanegashima Space Center, Japan&dates=20251207T023000Z%2F20251207T033000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **H3-22 | Michibiki 5 (QZS-5)** from Tanegashima Space Center, Japan.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251207T110000">2025-12-07 11:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-92&location=Kennedy Space Center, FL, USA&dates=20251207T110000Z%2F20251207T150000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-92** from Kennedy Space Center, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/smartsky-wont-block-gogo-5g-air-to-ground-network-despite-legal-win/" >🔗</a> **[SpaceNews]** SmartSky won’t block Gogo 5G air-to-ground network despite legal win
 - <a href="https://www.nasa.gov/image-article/artemis-ii-orion-spacecraft-stacked/" >🔗</a> **[NASA]** Artemis II Orion Spacecraft Stacked
 - <a href="https://www.nasaspaceflight.com/2025/11/transporter-15/" >🔗</a> **[NASASpaceflight]** SpaceX’s Falcon 9 set to launch 140 payloads on Transporter-15
 - <a href="https://arstechnica.com/space/2025/11/after-a-decade-russias-native-built-soyuz-5-rocket-finally-reaches-the-launch-site/" >🔗</a> **[Arstechnica]** After a decade Russia’s native-built Soyuz 5 rocket finally reaches the launch site
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/11/26/live-coverage-spacex-to-launch-dozens-of-smallsats-on-transporter-15-rideshare-flight/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch dozens of smallsats on Transporter-15 rideshare flight
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-5/Sentinel-5_debuts_images_of_atmospheric_gases" >🔗</a> **[ESA]** Sentinel-5 debuts images of atmospheric gases
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_delivers_first_images_from_Antarctica_to_Bremen" >🔗</a> **[ESA]** Sentinel-1D delivers first images: from Antarctica to Bremen
-- <a href="https://spacenews.com/dec-5-ama-with-the-spacenews-editorial-team/" >🔗</a> **[SpaceNews]** Protected: Dec. 5: AMA with the SpaceNews editorial team
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251126T193105">2025-11-26 19:31:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251126T200145">2025-11-26 20:01:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
