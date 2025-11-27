@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/pacific-geomatics-and-si-analytics-announce-strategic-partnership-to-deliver-super-resolution-capabilities-across-canada/" >🔗</a> **[SpaceNews]** Pacific Geomatics and SI Analytics Announce Strategic Partnership to Deliver Super-Resolution Capabilities Across Canada
 - <a href="https://spaceflightnow.com/2025/11/27/blacksky-confirms-it-was-the-confidential-customer-on-recent-rocket-lab-electron-rocket-launch/" >🔗</a> **[Spaceflight Now]** BlackSky confirms it was the ‘confidential customer’ on recent Rocket Lab Electron rocket launch
 - <a href="https://spacepolicyonline.com/news/esa-dg-says-nasa-confirms-commitment-to-exomars-rover/" >🔗</a> **[SpacePolicyOnline.com]** ESA DG Says NASA Confirms Commitment to ExoMars Rover
 - <a href="https://spacenews.com/esa-on-good-track-to-secure-funding-despite-notes-of-caution/" >🔗</a> **[SpaceNews]** ESA on ‘good track’ to secure funding despite notes of caution
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/artemis-ii-orion-spacecraft-stacked/" >🔗</a> **[NASA]** Artemis II Orion Spacecraft Stacked
 - <a href="https://www.nasaspaceflight.com/2025/11/transporter-15/" >🔗</a> **[NASASpaceflight]** SpaceX’s Falcon 9 set to launch 140 payloads on Transporter-15
 - <a href="https://arstechnica.com/space/2025/11/after-a-decade-russias-native-built-soyuz-5-rocket-finally-reaches-the-launch-site/" >🔗</a> **[Arstechnica]** After a decade Russia’s native-built Soyuz 5 rocket finally reaches the launch site
-- <a href="https://spacenews.com/diverging-priorities-shape-opening-day-of-esa-ministerial-2025/" >🔗</a> **[SpaceNews]** Diverging priorities shape opening day of ESA Ministerial 2025
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251127T040223">2025-11-27 04:02:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251127T043705">2025-11-27 04:37:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
