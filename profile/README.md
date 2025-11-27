@@ -90,6 +90,8 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/exploration-and-the-uk-emerge-as-the-biggest-losers-of-cm25/" >🔗</a> **[European Spaceflight]** Exploration and the UK Emerge as the Biggest Losers of CM25
+- <a href="https://spacenews.com/esa-raises-more-than-22-billion-euros-at-ministerial/" >🔗</a> **[SpaceNews]** ESA raises more than 22 billion euros at ministerial
 - <a href="https://spacepolicyonline.com/news/soyuz-ms-28-arrives-at-iss/" >🔗</a> **[SpacePolicyOnline.com]** Soyuz MS-28 Arrives at ISS
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/11/ESA_Council_meeting_at_Ministerial_level_2025_-_press_conference" >🔗</a> **[ESA]** ESA Council meeting at Ministerial level 2025 - press conference
 - <a href="https://www.esa.int/Applications/Satellite_navigation/European_satellite_navigation_opens_new_chapter_at_ESA_s_Ministerial_Council" >🔗</a> **[ESA]** European satellite navigation opens new chapter at ESA’s Ministerial Council
@@ -98,8 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.esa.int/About_Us/Corporate_news/ESA_Member_States_commit_to_largest_contributions_at_Ministerial" >🔗</a> **[ESA]** ESA Member States commit to largest contributions at Ministerial
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-crewmates-arrive-at-space-station/" >🔗</a> **[NASA]** NASA Astronaut Chris Williams, Crewmates Arrive at Space Station
 - <a href="https://spaceflightnow.com/2025/11/27/nasa-astronaut-two-cosmonauts-take-thanksgiving-day-ride-to-space-station/" >🔗</a> **[Spaceflight Now]** NASA astronaut, two cosmonauts take Thanksgiving Day ride to space station
-- <a href="https://spacenews.com/china-set-for-first-orbital-launch-and-landing-attempt-this-weekend-with-commercial-zhuque-3-rocket/" >🔗</a> **[SpaceNews]** China set for first orbital launch and landing attempt this weekend with commercial Zhuque-3 rocket
-- <a href="https://spacenews.com/esa-and-norway-announce-plans-for-an-arctic-space-centre/" >🔗</a> **[SpaceNews]** ESA and Norway announce plans for an Arctic Space Centre
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251127T170143">2025-11-27 17:01:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251127T173258">2025-11-27 17:32:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
