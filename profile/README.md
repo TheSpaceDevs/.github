@@ -90,6 +90,8 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-set-for-first-orbital-launch-and-landing-attempt-this-weekend-with-commercial-zhuque-3-rocket/" >🔗</a> **[SpaceNews]** China set for first orbital launch and landing attempt this weekend with commercial Zhuque-3 rocket
+- <a href="https://spacenews.com/esa-and-norway-announce-plans-for-an-arctic-space-centre/" >🔗</a> **[SpaceNews]** ESA and Norway announce plans for an Arctic Space Centre
 - <a href="https://europeanspaceflight.com/inaugural-space-rider-flight-to-occur-in-2028/" >🔗</a> **[European Spaceflight]** Inaugural Space Rider Flight to Occur in 2028
 - <a href="https://spacenews.com/pacific-geomatics-and-si-analytics-announce-strategic-partnership-to-deliver-super-resolution-capabilities-across-canada/" >🔗</a> **[SpaceNews]** Pacific Geomatics and SI Analytics Announce Strategic Partnership to Deliver Super-Resolution Capabilities Across Canada
 - <a href="https://spaceflightnow.com/2025/11/27/blacksky-confirms-it-was-the-confidential-customer-on-recent-rocket-lab-electron-rocket-launch/" >🔗</a> **[Spaceflight Now]** BlackSky confirms it was the ‘confidential customer’ on recent Rocket Lab Electron rocket launch
@@ -98,12 +100,13 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasaspaceflight.com/2025/11/soyuz-ms-28-launch/" >🔗</a> **[NASASpaceflight]** Soyuz MS-28 poised to launch three new crew members to ISS
 - <a href="https://spacenews.com/smartsky-wont-block-gogo-5g-air-to-ground-network-despite-legal-win/" >🔗</a> **[SpaceNews]** SmartSky won’t block Gogo 5G air-to-ground network despite legal win
 - <a href="https://science.nasa.gov/learning-resources/science-activation/planets-units-have-landed-free-nasa-funded-out-of-school-time-resources/" >🔗</a> **[NASA]** PLANETS Units Have Landed – Free NASA-Funded Out-of-School Time Resources
-- <a href="https://www.nasa.gov/image-article/artemis-ii-orion-spacecraft-stacked/" >🔗</a> **[NASA]** Artemis II Orion Spacecraft Stacked
-- <a href="https://www.nasaspaceflight.com/2025/11/transporter-15/" >🔗</a> **[NASASpaceflight]** SpaceX’s Falcon 9 set to launch 140 payloads on Transporter-15
 
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2025/11/transporter-15/" >🔗</a> **[NASASpaceflight]** SpaceX’s Falcon 9 set to launch 140 payloads on Transporter-15
+- <a href="https://spaceflightnow.com/2025/11/26/live-coverage-spacex-to-launch-dozens-of-smallsats-on-transporter-15-rideshare-flight/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch dozens of smallsats on Transporter-15 rideshare flight
+- <a href="https://www.nasaspaceflight.com/2025/11/launch-roundup-112525/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Soyuz to launch crew; Vega C and Falcon 9 to launch customer missions
 - <a href="https://www.spacedaily.com/reports/Next_generation_satellites_from_Spire_Global_prepared_for_SpaceX_Falcon_9_Twilight_mission_999.html" >🔗</a> **[SpaceDaily]** Next-generation satellites from Spire Global prepared for SpaceX Falcon 9 Twilight mission
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/HydroGNSS/Watch_HydroGNSS_IRIDE_and_Greek_mission_satellites_launch" >🔗</a> **[ESA]** Watch: HydroGNSS, IRIDE and Greek mission satellites launch
 - <a href="https://www.nasaspaceflight.com/2025/11/launch-roundup-111725/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Innospace to debut new rocket, SpaceX to launch five Falcon 9 missions
@@ -113,7 +116,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251127T110108">2025-11-27 11:01:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251127T113224">2025-11-27 11:32:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
