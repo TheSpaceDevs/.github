@@ -90,6 +90,8 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/soyuz-ms-28-arrives-at-iss/" >🔗</a> **[SpacePolicyOnline.com]** Soyuz MS-28 Arrives at ISS
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/11/ESA_Council_meeting_at_Ministerial_level_2025_-_press_conference" >🔗</a> **[ESA]** ESA Council meeting at Ministerial level 2025 - press conference
 - <a href="https://spacenews.com/acme-space-plans-test-run-for-balloon-launched-space-factory-next-year/" >🔗</a> **[SpaceNews]** ACME Space plans test run for balloon-launched space factory next year
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-crewmates-arrive-at-space-station/" >🔗</a> **[NASA]** NASA Astronaut Chris Williams, Crewmates Arrive at Space Station
 - <a href="https://spaceflightnow.com/2025/11/27/nasa-astronaut-two-cosmonauts-take-thanksgiving-day-ride-to-space-station/" >🔗</a> **[Spaceflight Now]** NASA astronaut, two cosmonauts take Thanksgiving Day ride to space station
@@ -98,8 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://europeanspaceflight.com/inaugural-space-rider-flight-to-occur-in-2028/" >🔗</a> **[European Spaceflight]** Inaugural Space Rider Flight to Occur in 2028
 - <a href="https://spacenews.com/pacific-geomatics-and-si-analytics-announce-strategic-partnership-to-deliver-super-resolution-capabilities-across-canada/" >🔗</a> **[SpaceNews]** Pacific Geomatics and SI Analytics Announce Strategic Partnership to Deliver Super-Resolution Capabilities Across Canada
 - <a href="https://spaceflightnow.com/2025/11/27/blacksky-confirms-it-was-the-confidential-customer-on-recent-rocket-lab-electron-rocket-launch/" >🔗</a> **[Spaceflight Now]** BlackSky confirms it was the ‘confidential customer’ on recent Rocket Lab Electron rocket launch
-- <a href="https://spacepolicyonline.com/news/esa-dg-says-nasa-confirms-commitment-to-exomars-rover/" >🔗</a> **[SpacePolicyOnline.com]** ESA DG Says NASA Confirms Commitment to ExoMars Rover
-- <a href="https://spacenews.com/esa-on-good-track-to-secure-funding-despite-notes-of-caution/" >🔗</a> **[SpaceNews]** ESA on ‘good track’ to secure funding despite notes of caution
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251127T150150">2025-11-27 15:01:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251127T153417">2025-11-27 15:34:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
