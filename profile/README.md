@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/11/27/blacksky-confirms-it-was-the-confidential-customer-on-recent-rocket-lab-electron-rocket-launch/" >🔗</a> **[Spaceflight Now]** BlackSky confirms it was the ‘confidential customer’ on recent Rocket Lab Electron rocket launch
 - <a href="https://spacepolicyonline.com/news/esa-dg-says-nasa-confirms-commitment-to-exomars-rover/" >🔗</a> **[SpacePolicyOnline.com]** ESA DG Says NASA Confirms Commitment to ExoMars Rover
 - <a href="https://spacenews.com/esa-on-good-track-to-secure-funding-despite-notes-of-caution/" >🔗</a> **[SpaceNews]** ESA on ‘good track’ to secure funding despite notes of caution
 - <a href="https://www.nasaspaceflight.com/2025/11/soyuz-ms-28-launch/" >🔗</a> **[NASASpaceflight]** Soyuz MS-28 poised to launch three new crew members to ISS
 - <a href="https://spacenews.com/smartsky-wont-block-gogo-5g-air-to-ground-network-despite-legal-win/" >🔗</a> **[SpaceNews]** SmartSky won’t block Gogo 5G air-to-ground network despite legal win
+- <a href="https://science.nasa.gov/learning-resources/science-activation/planets-units-have-landed-free-nasa-funded-out-of-school-time-resources/" >🔗</a> **[NASA]** PLANETS Units Have Landed – Free NASA-Funded Out-of-School Time Resources
 - <a href="https://www.nasa.gov/image-article/artemis-ii-orion-spacecraft-stacked/" >🔗</a> **[NASA]** Artemis II Orion Spacecraft Stacked
 - <a href="https://www.nasaspaceflight.com/2025/11/transporter-15/" >🔗</a> **[NASASpaceflight]** SpaceX’s Falcon 9 set to launch 140 payloads on Transporter-15
 - <a href="https://arstechnica.com/space/2025/11/after-a-decade-russias-native-built-soyuz-5-rocket-finally-reaches-the-launch-site/" >🔗</a> **[Arstechnica]** After a decade Russia’s native-built Soyuz 5 rocket finally reaches the launch site
 - <a href="https://spacenews.com/diverging-priorities-shape-opening-day-of-esa-ministerial-2025/" >🔗</a> **[SpaceNews]** Diverging priorities shape opening day of ESA Ministerial 2025
-- <a href="https://europeanspaceflight.com/exploration-and-space-transportation-see-largest-esa-funding-boosts/" >🔗</a> **[European Spaceflight]** Exploration and Space Transportation See Largest ESA Funding Boosts
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/11/Ministers_and_high-level_representatives_gather_for_ESA_s_Ministerial_Council" >🔗</a> **[ESA]** Ministers and high-level representatives gather for ESA's Ministerial Council
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251127T000505">2025-11-27 00:05:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251127T004556">2025-11-27 00:45:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
