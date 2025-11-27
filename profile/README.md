@@ -92,14 +92,14 @@ into *a Sun-Synchronous Orbit
 ### Latest News ⌛
 - <a href="https://spacepolicyonline.com/news/soyuz-ms-28-arrives-at-iss/" >🔗</a> **[SpacePolicyOnline.com]** Soyuz MS-28 Arrives at ISS
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/11/ESA_Council_meeting_at_Ministerial_level_2025_-_press_conference" >🔗</a> **[ESA]** ESA Council meeting at Ministerial level 2025 - press conference
+- <a href="https://www.esa.int/Applications/Satellite_navigation/European_satellite_navigation_opens_new_chapter_at_ESA_s_Ministerial_Council" >🔗</a> **[ESA]** European satellite navigation opens new chapter at ESA’s Ministerial Council
+- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ensuring_autonomous_access_to_space_for_Europe" >🔗</a> **[ESA]** Ensuring autonomous access to space for Europe
 - <a href="https://spacenews.com/acme-space-plans-test-run-for-balloon-launched-space-factory-next-year/" >🔗</a> **[SpaceNews]** ACME Space plans test run for balloon-launched space factory next year
+- <a href="https://www.esa.int/About_Us/Corporate_news/ESA_Member_States_commit_to_largest_contributions_at_Ministerial" >🔗</a> **[ESA]** ESA Member States commit to largest contributions at Ministerial
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-crewmates-arrive-at-space-station/" >🔗</a> **[NASA]** NASA Astronaut Chris Williams, Crewmates Arrive at Space Station
 - <a href="https://spaceflightnow.com/2025/11/27/nasa-astronaut-two-cosmonauts-take-thanksgiving-day-ride-to-space-station/" >🔗</a> **[Spaceflight Now]** NASA astronaut, two cosmonauts take Thanksgiving Day ride to space station
 - <a href="https://spacenews.com/china-set-for-first-orbital-launch-and-landing-attempt-this-weekend-with-commercial-zhuque-3-rocket/" >🔗</a> **[SpaceNews]** China set for first orbital launch and landing attempt this weekend with commercial Zhuque-3 rocket
 - <a href="https://spacenews.com/esa-and-norway-announce-plans-for-an-arctic-space-centre/" >🔗</a> **[SpaceNews]** ESA and Norway announce plans for an Arctic Space Centre
-- <a href="https://europeanspaceflight.com/inaugural-space-rider-flight-to-occur-in-2028/" >🔗</a> **[European Spaceflight]** Inaugural Space Rider Flight to Occur in 2028
-- <a href="https://spacenews.com/pacific-geomatics-and-si-analytics-announce-strategic-partnership-to-deliver-super-resolution-capabilities-across-canada/" >🔗</a> **[SpaceNews]** Pacific Geomatics and SI Analytics Announce Strategic Partnership to Deliver Super-Resolution Capabilities Across Canada
-- <a href="https://spaceflightnow.com/2025/11/27/blacksky-confirms-it-was-the-confidential-customer-on-recent-rocket-lab-electron-rocket-launch/" >🔗</a> **[Spaceflight Now]** BlackSky confirms it was the ‘confidential customer’ on recent Rocket Lab Electron rocket launch
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251127T160149">2025-11-27 16:01:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251127T163746">2025-11-27 16:37:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
