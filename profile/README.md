@@ -90,6 +90,8 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacescout.info/2025/11/soyuz-pad-apparently-damaged-after-successful-launch/" >🔗</a> **[Space Scout]** Soyuz Pad Apparently Damaged After Successful Launch
+- <a href="https://spacenews.com/soyuz-transports-new-crew-to-iss/" >🔗</a> **[SpaceNews]** Soyuz transports new crew to ISS
 - <a href="https://europeanspaceflight.com/exploration-and-the-uk-emerge-as-the-biggest-losers-of-cm25/" >🔗</a> **[European Spaceflight]** Exploration and the UK Emerge as the Biggest Losers of CM25
 - <a href="https://spacenews.com/esa-raises-more-than-22-billion-euros-at-ministerial/" >🔗</a> **[SpaceNews]** ESA raises more than 22 billion euros at ministerial
 - <a href="https://spacepolicyonline.com/news/soyuz-ms-28-arrives-at-iss/" >🔗</a> **[SpacePolicyOnline.com]** Soyuz MS-28 Arrives at ISS
@@ -98,8 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ensuring_autonomous_access_to_space_for_Europe" >🔗</a> **[ESA]** Ensuring autonomous access to space for Europe
 - <a href="https://spacenews.com/acme-space-plans-test-run-for-balloon-launched-space-factory-next-year/" >🔗</a> **[SpaceNews]** ACME Space plans test run for balloon-launched space factory next year
 - <a href="https://www.esa.int/About_Us/Corporate_news/ESA_Member_States_commit_to_largest_contributions_at_Ministerial" >🔗</a> **[ESA]** ESA Member States commit to largest contributions at Ministerial
-- <a href="https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-crewmates-arrive-at-space-station/" >🔗</a> **[NASA]** NASA Astronaut Chris Williams, Crewmates Arrive at Space Station
-- <a href="https://spaceflightnow.com/2025/11/27/nasa-astronaut-two-cosmonauts-take-thanksgiving-day-ride-to-space-station/" >🔗</a> **[Spaceflight Now]** NASA astronaut, two cosmonauts take Thanksgiving Day ride to space station
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251127T190137">2025-11-27 19:01:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251127T193057">2025-11-27 19:30:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
