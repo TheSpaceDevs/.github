@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/11/booster-19-stacking-spacex-forward/" >🔗</a> **[NASASpaceflight]** Booster 19 stacking begins as SpaceX pushes forward from B18 anomaly
+- <a href="https://spacenews.com/d-orbit-sends-to-ion-vehicles-aloft-on-spacex-transporter-15/" >🔗</a> **[SpaceNews]** D-Orbit sends to ION vehicles aloft on SpaceX Transporter-15
 - <a href="https://spacenews.com/china-moves-to-integrate-commercial-space-into-its-national-space-development-plan/" >🔗</a> **[SpaceNews]** China moves to integrate commercial space into its national space development plan
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/11/ESA_s_HydroGNSS_mission_lifts_off" >🔗</a> **[ESA]** ESA’s HydroGNSS mission lifts off
 - <a href="https://www.nasa.gov/image-article/newly-found-organics-in-enceladus-plumes/" >🔗</a> **[NASA]** Newly Found Organics in Enceladus’ Plumes
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Shaping_the_Future/CM25_A_historic_step_forward_for_Europe_s_space_technology_leadership" >🔗</a> **[ESA]** CM25: A historic step forward for Europe’s space technology leadership
 - <a href="https://europeanspaceflight.com/esa-commits-to-being-an-anchor-customer-for-leo-cargo-return-services/" >🔗</a> **[European Spaceflight]** ESA Commits to Being an Anchor Customer for LEO Cargo Return Services
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_24-28_November_2025" >🔗</a> **[ESA]** Week in images: 24-28 November 2025
-- <a href="https://www.esa.int/Applications/Satellite_navigation/Follow_the_Galileo_launch_L14_campaign" >🔗</a> **[ESA]** Follow the Galileo launch (L14) campaign
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/11/Earth_from_Space_Eye_of_the_Sahara" >🔗</a> **[ESA]** Earth from Space: Eye of the Sahara
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251128T200137">2025-11-28 20:01:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251128T203428">2025-11-28 20:34:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
