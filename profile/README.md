@@ -92,6 +92,7 @@ into *a Sun-Synchronous Orbit
 ### Latest News ⌛
 - <a href="https://europeanspaceflight.com/esa-commits-to-being-an-anchor-customer-for-leo-cargo-return-services/" >🔗</a> **[European Spaceflight]** ESA Commits to Being an Anchor Customer for LEO Cargo Return Services
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_24-28_November_2025" >🔗</a> **[ESA]** Week in images: 24-28 November 2025
+- <a href="https://www.esa.int/Applications/Satellite_navigation/Follow_the_Galileo_launch_L14_campaign" >🔗</a> **[ESA]** Follow the Galileo launch (L14) campaign
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/11/Earth_from_Space_Eye_of_the_Sahara" >🔗</a> **[ESA]** Earth from Space: Eye of the Sahara
 - <a href="https://spacepolicyonline.com/news/russias-launch-pad-damaged-after-soyuz-ms-28-launch/" >🔗</a> **[SpacePolicyOnline.com]** Russia’s Launch Pad Damaged After Soyuz MS-28 Launch
 - <a href="https://spacenews.com/europes-human-and-robotic-exploration-hit-by-budget-shortfall/" >🔗</a> **[SpaceNews]** Europe’s Human and Robotic Exploration hit by budget shortfall
@@ -99,7 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/soyuz-transports-new-crew-to-iss/" >🔗</a> **[SpaceNews]** Soyuz transports new crew to ISS
 - <a href="https://europeanspaceflight.com/exploration-and-the-uk-emerge-as-the-biggest-losers-of-cm25/" >🔗</a> **[European Spaceflight]** Exploration and the UK Emerge as the Biggest Losers of CM25
 - <a href="https://spacenews.com/esa-raises-more-than-22-billion-euros-at-ministerial/" >🔗</a> **[SpaceNews]** ESA raises more than 22 billion euros at ministerial
-- <a href="https://spacepolicyonline.com/news/soyuz-ms-28-arrives-at-iss/" >🔗</a> **[SpacePolicyOnline.com]** Soyuz MS-28 Arrives at ISS
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251128T150140">2025-11-28 15:01:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251128T153359">2025-11-28 15:33:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
