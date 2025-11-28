@@ -90,6 +90,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/11/russian-launch-pad-incident-raises-concerns-about-future-of-space-station/" >🔗</a> **[Arstechnica]** Russian launch pad incident raises concerns about future of space station
 - <a href="https://europeanspaceflight.com/esa-commits-to-being-an-anchor-customer-for-leo-cargo-return-services/" >🔗</a> **[European Spaceflight]** ESA Commits to Being an Anchor Customer for LEO Cargo Return Services
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_24-28_November_2025" >🔗</a> **[ESA]** Week in images: 24-28 November 2025
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Follow_the_Galileo_launch_L14_campaign" >🔗</a> **[ESA]** Follow the Galileo launch (L14) campaign
@@ -99,7 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.spacescout.info/2025/11/soyuz-pad-apparently-damaged-after-successful-launch/" >🔗</a> **[Space Scout]** Soyuz Pad Apparently Damaged After Successful Launch
 - <a href="https://spacenews.com/soyuz-transports-new-crew-to-iss/" >🔗</a> **[SpaceNews]** Soyuz transports new crew to ISS
 - <a href="https://europeanspaceflight.com/exploration-and-the-uk-emerge-as-the-biggest-losers-of-cm25/" >🔗</a> **[European Spaceflight]** Exploration and the UK Emerge as the Biggest Losers of CM25
-- <a href="https://spacenews.com/esa-raises-more-than-22-billion-euros-at-ministerial/" >🔗</a> **[SpaceNews]** ESA raises more than 22 billion euros at ministerial
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251128T160143">2025-11-28 16:01:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251128T163729">2025-11-28 16:37:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
