@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-moves-to-integrate-commercial-space-into-its-national-space-development-plan/" >🔗</a> **[SpaceNews]** China moves to integrate commercial space into its national space development plan
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/11/ESA_s_HydroGNSS_mission_lifts_off" >🔗</a> **[ESA]** ESA’s HydroGNSS mission lifts off
 - <a href="https://www.nasa.gov/image-article/newly-found-organics-in-enceladus-plumes/" >🔗</a> **[NASA]** Newly Found Organics in Enceladus’ Plumes
 - <a href="https://spaceflightnow.com/2025/11/28/live-coverage-spacex-to-launch-140-spacecraft-on-transporter-15-rideshare/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 140 spacecraft on Transporter-15 rideshare
 - <a href="https://arstechnica.com/space/2025/11/russian-launch-pad-incident-raises-concerns-about-future-of-space-station/" >🔗</a> **[Arstechnica]** Russian launch pad incident raises concerns about future of space station
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_24-28_November_2025" >🔗</a> **[ESA]** Week in images: 24-28 November 2025
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Follow_the_Galileo_launch_L14_campaign" >🔗</a> **[ESA]** Follow the Galileo launch (L14) campaign
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/11/Earth_from_Space_Eye_of_the_Sahara" >🔗</a> **[ESA]** Earth from Space: Eye of the Sahara
-- <a href="https://spacepolicyonline.com/news/russias-launch-pad-damaged-after-soyuz-ms-28-launch/" >🔗</a> **[SpacePolicyOnline.com]** Russia’s Launch Pad Damaged After Soyuz MS-28 Launch
-- <a href="https://spacenews.com/europes-human-and-robotic-exploration-hit-by-budget-shortfall/" >🔗</a> **[SpaceNews]** Europe’s Human and Robotic Exploration hit by budget shortfall
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251128T193105">2025-11-28 19:31:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251128T200137">2025-11-28 20:01:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
