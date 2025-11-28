@@ -90,6 +90,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/russias-launch-pad-damaged-after-soyuz-ms-28-launch/" >🔗</a> **[SpacePolicyOnline.com]** Russia’s Launch Pad Damaged After Soyuz MS-28 Launch
 - <a href="https://spacenews.com/europes-human-and-robotic-exploration-hit-by-budget-shortfall/" >🔗</a> **[SpaceNews]** Europe’s Human and Robotic Exploration hit by budget shortfall
 - <a href="https://www.spacescout.info/2025/11/soyuz-pad-apparently-damaged-after-successful-launch/" >🔗</a> **[Space Scout]** Soyuz Pad Apparently Damaged After Successful Launch
 - <a href="https://spacenews.com/soyuz-transports-new-crew-to-iss/" >🔗</a> **[SpaceNews]** Soyuz transports new crew to ISS
@@ -99,7 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/11/ESA_Council_meeting_at_Ministerial_level_2025_-_press_conference" >🔗</a> **[ESA]** ESA Council meeting at Ministerial level 2025 - press conference
 - <a href="https://www.esa.int/Applications/Satellite_navigation/European_satellite_navigation_opens_new_chapter_at_ESA_s_Ministerial_Council" >🔗</a> **[ESA]** European satellite navigation opens new chapter at ESA’s Ministerial Council
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ensuring_autonomous_access_to_space_for_Europe" >🔗</a> **[ESA]** Ensuring autonomous access to space for Europe
-- <a href="https://spacenews.com/acme-space-plans-test-run-for-balloon-launched-space-factory-next-year/" >🔗</a> **[SpaceNews]** ACME Space plans test run for balloon-launched space factory next year
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251128T050120">2025-11-28 05:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251128T053518">2025-11-28 05:35:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
