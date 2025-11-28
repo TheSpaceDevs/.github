@@ -45,7 +45,6 @@ into *a Sun-Synchronous Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251128T181800">2025-11-28 18:18:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Transporter 15 (Dedicated SSO Rideshare)&location=Vandenberg SFB, CA, USA&dates=20251128T181800Z%2F20251128T191500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Transporter 15 (Dedicated SSO Rideshare)** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251130T121200">2025-11-30 12:12:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 7A | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20251130T121200Z%2F20251130T133000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 7A | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251201T050000">2025-12-01 05:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-86&location=Kennedy Space Center, FL, USA&dates=20251201T050000Z%2F20251201T090000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-86** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251201T172100">2025-12-01 17:21:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Vega-C | KOMPSAT-7&location=Guiana Space Centre, French Guiana&dates=20251201T172100Z%2F20251201T172100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Vega-C | KOMPSAT-7** from Guiana Space Centre, French Guiana.
@@ -90,6 +89,8 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/newly-found-organics-in-enceladus-plumes/" >🔗</a> **[NASA]** Newly Found Organics in Enceladus’ Plumes
+- <a href="https://spaceflightnow.com/2025/11/28/live-coverage-spacex-to-launch-140-spacecraft-on-transporter-15-rideshare/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 140 spacecraft on Transporter-15 rideshare
 - <a href="https://arstechnica.com/space/2025/11/russian-launch-pad-incident-raises-concerns-about-future-of-space-station/" >🔗</a> **[Arstechnica]** Russian launch pad incident raises concerns about future of space station
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Shaping_the_Future/CM25_A_historic_step_forward_for_Europe_s_space_technology_leadership" >🔗</a> **[ESA]** CM25: A historic step forward for Europe’s space technology leadership
 - <a href="https://europeanspaceflight.com/esa-commits-to-being-an-anchor-customer-for-leo-cargo-return-services/" >🔗</a> **[European Spaceflight]** ESA Commits to Being an Anchor Customer for LEO Cargo Return Services
@@ -98,8 +99,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/11/Earth_from_Space_Eye_of_the_Sahara" >🔗</a> **[ESA]** Earth from Space: Eye of the Sahara
 - <a href="https://spacepolicyonline.com/news/russias-launch-pad-damaged-after-soyuz-ms-28-launch/" >🔗</a> **[SpacePolicyOnline.com]** Russia’s Launch Pad Damaged After Soyuz MS-28 Launch
 - <a href="https://spacenews.com/europes-human-and-robotic-exploration-hit-by-budget-shortfall/" >🔗</a> **[SpaceNews]** Europe’s Human and Robotic Exploration hit by budget shortfall
-- <a href="https://www.spacescout.info/2025/11/soyuz-pad-apparently-damaged-after-successful-launch/" >🔗</a> **[Space Scout]** Soyuz Pad Apparently Damaged After Successful Launch
-- <a href="https://spacenews.com/soyuz-transports-new-crew-to-iss/" >🔗</a> **[SpaceNews]** Soyuz transports new crew to ISS
 
 
 ### Launch-related News 🚀
@@ -116,7 +115,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251128T180151">2025-11-28 18:01:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251128T183922">2025-11-28 18:39:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
