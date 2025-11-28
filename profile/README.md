@@ -90,6 +90,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/varda-space-launches-its-fifth-mission-extends-run-of-afrl-test-flights/" >🔗</a> **[SpaceNews]** Varda Space launches its fifth mission, extends run of AFRL test flights
+- <a href="https://spacepolicyonline.com/news/esa-member-states-pledge-record-level-of-funding/" >🔗</a> **[SpacePolicyOnline.com]** ESA Member States Pledge Record Level of Funding
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/HydroGNSS/ESA_s_HydroGNSS_mission_launched_to_scout_for_water" >🔗</a> **[ESA]** ESA’s HydroGNSS mission launched to ‘scout’ for water
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/11/HydroGNSS_launch_highlights" >🔗</a> **[ESA]** HydroGNSS launch highlights
 - <a href="https://www.nasaspaceflight.com/2025/11/booster-19-stacking-spacex-forward/" >🔗</a> **[NASASpaceflight]** Booster 19 stacking begins as SpaceX pushes forward from B18 anomaly
 - <a href="https://spacenews.com/d-orbit-sends-to-ion-vehicles-aloft-on-spacex-transporter-15/" >🔗</a> **[SpaceNews]** D-Orbit sends to ION vehicles aloft on SpaceX Transporter-15
@@ -97,9 +100,6 @@ into *an Unknown
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/11/ESA_s_HydroGNSS_mission_lifts_off" >🔗</a> **[ESA]** ESA’s HydroGNSS mission lifts off
 - <a href="https://www.nasa.gov/image-article/newly-found-organics-in-enceladus-plumes/" >🔗</a> **[NASA]** Newly Found Organics in Enceladus’ Plumes
 - <a href="https://spaceflightnow.com/2025/11/28/live-coverage-spacex-to-launch-140-spacecraft-on-transporter-15-rideshare/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 140 spacecraft on Transporter-15 rideshare
-- <a href="https://arstechnica.com/space/2025/11/russian-launch-pad-incident-raises-concerns-about-future-of-space-station/" >🔗</a> **[Arstechnica]** Russian launch pad incident raises concerns about future of space station
-- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Shaping_the_Future/CM25_A_historic_step_forward_for_Europe_s_space_technology_leadership" >🔗</a> **[ESA]** CM25: A historic step forward for Europe’s space technology leadership
-- <a href="https://europeanspaceflight.com/esa-commits-to-being-an-anchor-customer-for-leo-cargo-return-services/" >🔗</a> **[European Spaceflight]** ESA Commits to Being an Anchor Customer for LEO Cargo Return Services
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251128T220137">2025-11-28 22:01:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251128T223354">2025-11-28 22:33:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
