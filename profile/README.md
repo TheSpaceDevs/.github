@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/baikonur-pad-damaged-in-soyuz-launch-to-iss/" >🔗</a> **[SpaceNews]** Baikonur pad damaged in Soyuz launch to ISS
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/IRIDE/Italian_mission_adds_to_growing_IRIDE_space_fleet" >🔗</a> **[ESA]** Italian mission adds to growing IRIDE space fleet
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/High-resolution_radar_satellites_launched_for_Greece" >🔗</a> **[ESA]** High-resolution radar satellites launched for Greece
 - <a href="https://europeanspaceflight.com/cnes-expands-astronaut-for-a-day-initiative-following-successful-first-year/" >🔗</a> **[European Spaceflight]** CNES Expands “Astronaut for a Day” Initiative Following Successful First Year
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/11/HydroGNSS_launch_highlights" >🔗</a> **[ESA]** HydroGNSS launch highlights
 - <a href="https://www.nasaspaceflight.com/2025/11/booster-19-stacking-spacex-forward/" >🔗</a> **[NASASpaceflight]** Booster 19 stacking begins as SpaceX pushes forward from B18 anomaly
 - <a href="https://spacenews.com/d-orbit-sends-to-ion-vehicles-aloft-on-spacex-transporter-15/" >🔗</a> **[SpaceNews]** D-Orbit sends to ION vehicles aloft on SpaceX Transporter-15
-- <a href="https://spacenews.com/china-moves-to-integrate-commercial-space-into-its-national-space-development-plan/" >🔗</a> **[SpaceNews]** China moves to integrate commercial space into its national space development plan
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251129T090113">2025-11-29 09:01:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251129T093305">2025-11-29 09:33:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
