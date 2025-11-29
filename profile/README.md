@@ -90,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacedaily.com/reports/Life_Culture_and_AI_Why_Plagiarism_Is_Our_Default_Operating_System_999.html" >🔗</a> **[SpaceDaily]** Life, Culture and AI: Why 'plagiarism' Is Our Default Operating System
+- <a href="https://www.spacedaily.com/reports/Sivers_Semiconductors_and_Doosan_Announce_Joint_Initiative_to_Advance_Ka_Band_SATCOM_Antenna_Technology_999.html" >🔗</a> **[SpaceDaily]** Sivers Semiconductors and Doosan Announce Joint Initiative to Advance Ka-Band SATCOM Antenna Technology
+- <a href="https://www.spacedaily.com/reports/Where_Antarcticas_ice_melt_will_have_the_biggest_impact_on_sea_levels_999.html" >🔗</a> **[SpaceDaily]** Where Antarctica's ice melt will have the biggest impact on sea levels
+- <a href="https://www.spacedaily.com/reports/LUCI_optical_terminal_to_link_satellites_for_France_2030_space_program_999.html" >🔗</a> **[SpaceDaily]** LUCI optical terminal to link satellites for France 2030 space program
+- <a href="https://www.spacedaily.com/reports/Europe_secures_record_space_budget_to_boost_independence_999.html" >🔗</a> **[SpaceDaily]** Europe secures record space budget to boost independence
+- <a href="https://www.spacedaily.com/reports/Spire_and_Planet_expand_satellite_fleets_on_Transporter_15_mission_999.html" >🔗</a> **[SpaceDaily]** Spire and Planet expand satellite fleets on Transporter 15 mission
+- <a href="https://www.spacedaily.com/reports/Station_10_as_Soyuz_crew_arrives_amid_Baikonur_launch_pad_crisis_999.html" >🔗</a> **[SpaceDaily]** Station 10 as Soyuz crew arrives amid Baikonur launch pad crisis
 - <a href="https://spacenews.com/transporter-15-rideshare-mission-launches-140-payloads/" >🔗</a> **[SpaceNews]** Transporter-15 rideshare mission launches 140 payloads
 - <a href="https://spacenews.com/baikonur-pad-damaged-in-soyuz-launch-to-iss/" >🔗</a> **[SpaceNews]** Baikonur pad damaged in Soyuz launch to ISS
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/IRIDE/Italian_mission_adds_to_growing_IRIDE_space_fleet" >🔗</a> **[ESA]** Italian mission adds to growing IRIDE space fleet
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/High-resolution_radar_satellites_launched_for_Greece" >🔗</a> **[ESA]** High-resolution radar satellites launched for Greece
-- <a href="https://europeanspaceflight.com/cnes-expands-astronaut-for-a-day-initiative-following-successful-first-year/" >🔗</a> **[European Spaceflight]** CNES Expands “Astronaut for a Day” Initiative Following Successful First Year
-- <a href="https://spacenews.com/varda-space-launches-its-fifth-mission-extends-run-of-afrl-test-flights/" >🔗</a> **[SpaceNews]** Varda Space launches its fifth mission, extends run of AFRL test flights
-- <a href="https://spacepolicyonline.com/news/esa-member-states-pledge-record-level-of-funding/" >🔗</a> **[SpacePolicyOnline.com]** ESA Member States Pledge Record Level of Funding
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/HydroGNSS/ESA_s_HydroGNSS_mission_launched_to_scout_for_water" >🔗</a> **[ESA]** ESA’s HydroGNSS mission launched to ‘scout’ for water
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/11/HydroGNSS_launch_highlights" >🔗</a> **[ESA]** HydroGNSS launch highlights
-- <a href="https://www.nasaspaceflight.com/2025/11/booster-19-stacking-spacex-forward/" >🔗</a> **[NASASpaceflight]** Booster 19 stacking begins as SpaceX pushes forward from B18 anomaly
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251129T140120">2025-11-29 14:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251129T143343">2025-11-29 14:33:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
