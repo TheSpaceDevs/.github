@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/High-resolution_radar_satellites_launched_for_Greece" >🔗</a> **[ESA]** High-resolution radar satellites launched for Greece
 - <a href="https://europeanspaceflight.com/cnes-expands-astronaut-for-a-day-initiative-following-successful-first-year/" >🔗</a> **[European Spaceflight]** CNES Expands “Astronaut for a Day” Initiative Following Successful First Year
 - <a href="https://spacenews.com/varda-space-launches-its-fifth-mission-extends-run-of-afrl-test-flights/" >🔗</a> **[SpaceNews]** Varda Space launches its fifth mission, extends run of AFRL test flights
 - <a href="https://spacepolicyonline.com/news/esa-member-states-pledge-record-level-of-funding/" >🔗</a> **[SpacePolicyOnline.com]** ESA Member States Pledge Record Level of Funding
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/d-orbit-sends-to-ion-vehicles-aloft-on-spacex-transporter-15/" >🔗</a> **[SpaceNews]** D-Orbit sends to ION vehicles aloft on SpaceX Transporter-15
 - <a href="https://spacenews.com/china-moves-to-integrate-commercial-space-into-its-national-space-development-plan/" >🔗</a> **[SpaceNews]** China moves to integrate commercial space into its national space development plan
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/11/ESA_s_HydroGNSS_mission_lifts_off" >🔗</a> **[ESA]** ESA’s HydroGNSS mission lifts off
-- <a href="https://www.nasa.gov/image-article/newly-found-organics-in-enceladus-plumes/" >🔗</a> **[NASA]** Newly Found Organics in Enceladus’ Plumes
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251129T073141">2025-11-29 07:31:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251129T080152">2025-11-29 08:01:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
