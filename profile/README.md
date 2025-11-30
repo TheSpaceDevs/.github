@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-launches-classified-shijian-28-spacecraft-reusable-zhuque-3-rocket-faces-delay/" >🔗</a> **[SpaceNews]** China launches classified Shijian-28 spacecraft, reusable Zhuque-3 rocket faces delay
 - <a href="https://www.nasaspaceflight.com/2025/11/site-31-accident/" >🔗</a> **[NASASpaceflight]** Russia left without access to ISS following structure collapse at Baikonur launch site
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-30-december-6-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy November 30-December 6, 2025
 - <a href="https://spacenews.com/chinas-shijian-spacecraft-separate-after-pioneering-geosynchronous-orbit-refueling-tests/" >🔗</a> **[SpaceNews]** China’s Shijian spacecraft separate after pioneering geosynchronous orbit refueling tests
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.spacedaily.com/reports/Station_10_as_Soyuz_crew_arrives_amid_Baikonur_launch_pad_crisis_999.html" >🔗</a> **[SpaceDaily]** Station 10 as Soyuz crew arrives amid Baikonur launch pad crisis
 - <a href="https://www.spacedaily.com/reports/Where_Antarcticas_ice_melt_will_have_the_biggest_impact_on_sea_levels_999.html" >🔗</a> **[SpaceDaily]** Where Antarctica's ice melt will have the biggest impact on sea levels
 - <a href="https://www.spacedaily.com/reports/Sivers_Semiconductors_and_Doosan_Announce_Joint_Initiative_to_Advance_Ka_Band_SATCOM_Antenna_Technology_999.html" >🔗</a> **[SpaceDaily]** Sivers Semiconductors and Doosan Announce Joint Initiative to Advance Ka-Band SATCOM Antenna Technology
-- <a href="https://www.spacedaily.com/reports/Spire_and_Planet_expand_satellite_fleets_on_Transporter_15_mission_999.html" >🔗</a> **[SpaceDaily]** Spire and Planet expand satellite fleets on Transporter 15 mission
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251130T230142">2025-11-30 23:01:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251130T233212">2025-11-30 23:32:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
