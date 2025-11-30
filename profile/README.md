@@ -90,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.spacedaily.com/reports/Life_Culture_and_AI_Why_Plagiarism_Is_Our_Default_Operating_System_999.html" >🔗</a> **[SpaceDaily]** Life, Culture and AI: Why 'plagiarism' Is Our Default Operating System
+- <a href="https://europeanspaceflight.com/over-e900-million-committed-to-european-launcher-challenge/" >🔗</a> **[European Spaceflight]** Over €900 Million Committed to European Launcher Challenge
 - <a href="https://www.spacedaily.com/reports/Sivers_Semiconductors_and_Doosan_Announce_Joint_Initiative_to_Advance_Ka_Band_SATCOM_Antenna_Technology_999.html" >🔗</a> **[SpaceDaily]** Sivers Semiconductors and Doosan Announce Joint Initiative to Advance Ka-Band SATCOM Antenna Technology
-- <a href="https://www.spacedaily.com/reports/Where_Antarcticas_ice_melt_will_have_the_biggest_impact_on_sea_levels_999.html" >🔗</a> **[SpaceDaily]** Where Antarctica's ice melt will have the biggest impact on sea levels
+- <a href="https://www.spacedaily.com/reports/Station_10_as_Soyuz_crew_arrives_amid_Baikonur_launch_pad_crisis_999.html" >🔗</a> **[SpaceDaily]** Station 10 as Soyuz crew arrives amid Baikonur launch pad crisis
 - <a href="https://www.spacedaily.com/reports/LUCI_optical_terminal_to_link_satellites_for_France_2030_space_program_999.html" >🔗</a> **[SpaceDaily]** LUCI optical terminal to link satellites for France 2030 space program
 - <a href="https://www.spacedaily.com/reports/Europe_secures_record_space_budget_to_boost_independence_999.html" >🔗</a> **[SpaceDaily]** Europe secures record space budget to boost independence
 - <a href="https://www.spacedaily.com/reports/Spire_and_Planet_expand_satellite_fleets_on_Transporter_15_mission_999.html" >🔗</a> **[SpaceDaily]** Spire and Planet expand satellite fleets on Transporter 15 mission
-- <a href="https://www.spacedaily.com/reports/Station_10_as_Soyuz_crew_arrives_amid_Baikonur_launch_pad_crisis_999.html" >🔗</a> **[SpaceDaily]** Station 10 as Soyuz crew arrives amid Baikonur launch pad crisis
+- <a href="https://www.spacedaily.com/reports/Where_Antarcticas_ice_melt_will_have_the_biggest_impact_on_sea_levels_999.html" >🔗</a> **[SpaceDaily]** Where Antarctica's ice melt will have the biggest impact on sea levels
+- <a href="https://www.spacedaily.com/reports/Life_Culture_and_AI_Why_Plagiarism_Is_Our_Default_Operating_System_999.html" >🔗</a> **[SpaceDaily]** Life, Culture and AI: Why 'plagiarism' Is Our Default Operating System
 - <a href="https://spacenews.com/transporter-15-rideshare-mission-launches-140-payloads/" >🔗</a> **[SpaceNews]** Transporter-15 rideshare mission launches 140 payloads
 - <a href="https://spacenews.com/baikonur-pad-damaged-in-soyuz-launch-to-iss/" >🔗</a> **[SpaceNews]** Baikonur pad damaged in Soyuz launch to ISS
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/IRIDE/Italian_mission_adds_to_growing_IRIDE_space_fleet" >🔗</a> **[ESA]** Italian mission adds to growing IRIDE space fleet
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251130T041136">2025-11-30 04:11:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251130T044033">2025-11-30 04:40:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
