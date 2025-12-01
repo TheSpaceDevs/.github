@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/12/launch-roundup-120125/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Launch manifest to feature 10 launches during first week of December
 - <a href="https://www.nasa.gov/learning-resources/what-is-ai-grades-5-8/" >🔗</a> **[NASA]** What is AI? (Grades 5-8)
 - <a href="https://spaceflightnow.com/2025/12/01/live-coverage-spacex-to-launch-60th-falcon-9-rocket-from-vandenberg-sfb-in-2025/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 60th Falcon 9 rocket from Vandenberg SFB in 2025
 - <a href="https://www.nasa.gov/image-article/sagittarius-b2-molecular-cloud/" >🔗</a> **[NASA]** Sagittarius B2 Molecular Cloud
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/the-eu-space-act-a-call-for-true-strategic-fairness/" >🔗</a> **[SpaceNews]** The EU Space Act: a call for true strategic fairness
 - <a href="https://spacenews.com/the-future-is-now-understanding-the-once-far-off-technologies-becoming-reality/" >🔗</a> **[SpaceNews]** The future is now: understanding the once far-off technologies becoming reality
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/mark-elder-building-the-future-of-spacewalking-for-artemis-and-beyond/" >🔗</a> **[NASA]** Mark Elder: Building the Future of Spacewalking for Artemis and Beyond
-- <a href="https://www.marsdaily.com/reports/NASA_confirms_support_for_delayed_European_Mars_rover_ESA_999.html" >🔗</a> **[SpaceDaily]** NASA confirms support for delayed European Mars rover: ESA
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251201T230143">2025-12-01 23:01:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251201T233322">2025-12-01 23:33:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
