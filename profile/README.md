@@ -19,27 +19,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 6-86**. It is scheduled to be launched by *SpaceX*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39A">Launch Complex 39A</a>, Kennedy Space Center, FL, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251201T050000">2025-12-01 05:00:00 UTC</a>.  Until
-then, this pad will have been used for 218
-out of 276 launches from this location. The launch status is currently
+**Vega-C | KOMPSAT-7**. It is scheduled to be launched by *Arianespace*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" />
+from *<a href="https://en.wikipedia.org/wiki/ELA-1">Ariane Launch Area 1 (ELV)</a>, Guiana Space Centre, French Guiana*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/gf.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251201T172100">2025-12-01 17:21:00 UTC</a>.  Until
+then, this pad will have been used for 53
+out of 328 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Communications* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+*Earth Science* and the payload will be injected
+into *a Sun-Synchronous Orbit
+(SSO)*.
 <br>
 <blockquote>
-  A batch of 29 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  KOMPSAT-7 is the follow-up model of KOMPSAT-3A whose mission is to provide high-resolution satellite images to satisfy South-Korea's governmental and institutional needs.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+  <a href="https://en.wikipedia.org/wiki/Vega_(rocket)" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.60822681,-80.60428186" >
+  <a href="https://www.google.com/maps?q=5.236,-52.775" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -54,6 +54,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251207T161300">2025-12-07 16:13:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-15&location=Vandenberg SFB, CA, USA&dates=20251207T161300Z%2F20251207T201300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-15** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251207T214000">2025-12-07 21:40:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-92&location=Kennedy Space Center, FL, USA&dates=20251207T214000Z%2F20251208T004000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-92** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251208T000000">2025-12-08 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | STP-S30&location=Wallops Flight Facility, Virginia, USA&dates=20251208T000000Z%2F20251208T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | STP-S30** from Wallops Flight Facility, Virginia, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251209T191600">2025-12-09 19:16:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | NROL-77&location=Cape Canaveral SFS, FL, USA&dates=20251209T191600Z%2F20251209T191600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | NROL-77** from Cape Canaveral SFS, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -89,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Enabling_Support/Preparing_for_the_Future/Discovery_and_Preparation/The_new_Discovery_and_Preparation_podcast_showcases_innovation_for_space" >🔗</a> **[ESA]** The new Discovery and Preparation podcast showcases innovation for space
 - <a href="https://spacenews.com/japan-rising-tokyo-based-axelspace-is-making-microsatellites-with-a-big-impact/" >🔗</a> **[SpaceNews]** Japan Rising: Tokyo-Based Axelspace is Making Microsatellites with a Big Impact
 - <a href="https://spacenews.com/china-launches-classified-shijian-28-spacecraft-reusable-zhuque-3-rocket-faces-delay/" >🔗</a> **[SpaceNews]** China launches classified Shijian-28 spacecraft, reusable Zhuque-3 rocket faces delay
 - <a href="https://www.nasaspaceflight.com/2025/11/site-31-accident/" >🔗</a> **[NASASpaceflight]** Russia left without access to ISS following structure collapse at Baikonur launch site
@@ -96,9 +98,8 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/chinas-shijian-spacecraft-separate-after-pioneering-geosynchronous-orbit-refueling-tests/" >🔗</a> **[SpaceNews]** China’s Shijian spacecraft separate after pioneering geosynchronous orbit refueling tests
 - <a href="https://spaceflightnow.com/2025/11/30/live-coverage-spacex-kicks-off-december-with-midnight-falcon-9-rocket-launch/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX kicks off December with midnight Falcon 9 rocket launch
 - <a href="https://europeanspaceflight.com/over-e900-million-committed-to-european-launcher-challenge/" >🔗</a> **[European Spaceflight]** Over €900 Million Committed to European Launcher Challenge
-- <a href="https://www.spacedaily.com/reports/LUCI_optical_terminal_to_link_satellites_for_France_2030_space_program_999.html" >🔗</a> **[SpaceDaily]** LUCI optical terminal to link satellites for France 2030 space program
-- <a href="https://www.spacedaily.com/reports/Station_10_as_Soyuz_crew_arrives_amid_Baikonur_launch_pad_crisis_999.html" >🔗</a> **[SpaceDaily]** Station 10 as Soyuz crew arrives amid Baikonur launch pad crisis
-- <a href="https://www.spacedaily.com/reports/Where_Antarcticas_ice_melt_will_have_the_biggest_impact_on_sea_levels_999.html" >🔗</a> **[SpaceDaily]** Where Antarctica's ice melt will have the biggest impact on sea levels
+- <a href="https://www.spacedaily.com/reports/Life_Culture_and_AI_Why_Plagiarism_Is_Our_Default_Operating_System_999.html" >🔗</a> **[SpaceDaily]** Life, Culture and AI: Why 'plagiarism' Is Our Default Operating System
+- <a href="https://www.spacedaily.com/reports/Sivers_Semiconductors_and_Doosan_Announce_Joint_Initiative_to_Advance_Ka_Band_SATCOM_Antenna_Technology_999.html" >🔗</a> **[SpaceDaily]** Sivers Semiconductors and Doosan Announce Joint Initiative to Advance Ka-Band SATCOM Antenna Technology
 
 
 ### Launch-related News 🚀
@@ -108,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251201T080200">2025-12-01 08:02:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251201T084112">2025-12-01 08:41:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
