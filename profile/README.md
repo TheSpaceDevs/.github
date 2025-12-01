@@ -90,16 +90,16 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/12/Flooding_in_Sri_Lanka" >🔗</a> **[ESA]** Flooding in Sri Lanka
 - <a href="https://europeanspaceflight.com/arianegroup-launches-inaugural-flight-of-suborbital-sylex-rocket/" >🔗</a> **[European Spaceflight]** ArianeGroup Launches Inaugural Flight of Suborbital SyLEx Rocket
 - <a href="https://spacenews.com/the-future-is-now-understanding-the-once-far-off-technologies-becoming-reality/" >🔗</a> **[SpaceNews]** The future is now: understanding the once far-off technologies becoming reality
 - <a href="https://spacenews.com/the-eu-space-act-a-call-for-true-strategic-fairness/" >🔗</a> **[SpaceNews]** The EU Space Act: a call for true strategic fairness
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/mark-elder-building-the-future-of-spacewalking-for-artemis-and-beyond/" >🔗</a> **[NASA]** Mark Elder: Building the Future of Spacewalking for Artemis and Beyond
 - <a href="https://www.marsdaily.com/reports/NASA_confirms_support_for_delayed_European_Mars_rover_ESA_999.html" >🔗</a> **[SpaceDaily]** NASA confirms support for delayed European Mars rover: ESA
-- <a href="https://www.spacedaily.com/reports/X-MAT_introduces_X-FOAM_A_game-changing_ceramic_foam_for_extreme_environments_999.html" >🔗</a> **[SpaceDaily]** X-MAT introduces X-FOAM: A game-changing ceramic foam for extreme environments
-- <a href="https://www.spacedaily.com/reports/AtSpace_A01_reaches_record_suborbital_altitude_from_Koonibba_Test_Range_999.html" >🔗</a> **[SpaceDaily]** AtSpace A01 reaches record suborbital altitude from Koonibba Test Range
 - <a href="https://www.spacedaily.com/reports/South_Korea_advances_Nuri_rocket_program_with_fourth_orbital_launch_999.html" >🔗</a> **[SpaceDaily]** South Korea advances Nuri rocket program with fourth orbital launch
+- <a href="https://www.spacedaily.com/reports/AtSpace_A01_reaches_record_suborbital_altitude_from_Koonibba_Test_Range_999.html" >🔗</a> **[SpaceDaily]** AtSpace A01 reaches record suborbital altitude from Koonibba Test Range
+- <a href="https://www.spacedaily.com/reports/X-MAT_introduces_X-FOAM_A_game-changing_ceramic_foam_for_extreme_environments_999.html" >🔗</a> **[SpaceDaily]** X-MAT introduces X-FOAM: A game-changing ceramic foam for extreme environments
 - <a href="https://www.esa.int/Enabling_Support/Preparing_for_the_Future/Discovery_and_Preparation/The_new_Discovery_and_Preparation_podcast_showcases_innovation_for_space" >🔗</a> **[ESA]** The new Discovery and Preparation podcast showcases innovation for space
-- <a href="https://spacenews.com/japan-rising-tokyo-based-axelspace-is-making-microsatellites-with-a-big-impact/" >🔗</a> **[SpaceNews]** Japan Rising: Tokyo-Based Axelspace is Making Microsatellites with a Big Impact
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251201T160158">2025-12-01 16:01:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251201T164023">2025-12-01 16:40:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
