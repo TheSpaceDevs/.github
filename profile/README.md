@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/proteus-space-launches-first-ai-designed-spacecraft-sets-multiple-records/" >🔗</a> **[SpaceNews]** Proteus Space Launches First AI Designed Spacecraft, Sets Multiple Records
 - <a href="https://spaceflightnow.com/2025/12/02/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-4/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spaceflightnow.com/2025/12/02/arianespace-launches-south-korean-earth-observation-satellite-on-vega-c-flight/" >🔗</a> **[Spaceflight Now]** Arianespace launches South Korean Earth observation satellite on Vega-C flight
 - <a href="https://spacenews.com/reditus-space-joins-reusable-satellite-wave-with-7-million-seed-round/" >🔗</a> **[SpaceNews]** Reditus Space joins reusable satellite wave with $7 million seed round
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/12/01/live-coverage-spacex-to-launch-60th-falcon-9-rocket-from-vandenberg-sfb-in-2025/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 60th Falcon 9 rocket from Vandenberg SFB in 2025
 - <a href="https://www.nasa.gov/image-article/sagittarius-b2-molecular-cloud/" >🔗</a> **[NASA]** Sagittarius B2 Molecular Cloud
 - <a href="https://arstechnica.com/space/2025/12/space-ceo-explains-why-he-believes-private-space-stations-are-a-viable-business/" >🔗</a> **[Arstechnica]** Space CEO explains why he believes private space stations are a viable business
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/12/Flooding_in_Sri_Lanka" >🔗</a> **[ESA]** Flooding in Sri Lanka
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251202T080157">2025-12-02 08:01:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251202T084043">2025-12-02 08:40:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
