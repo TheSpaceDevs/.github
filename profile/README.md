@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/12/Webb_observes_a_dance_of_dwarf_galaxies" >🔗</a> **[ESA]** Webb observes a dance of dwarf galaxies
-- <a href="https://spacenews.com/proteus-space-launches-first-ai-designed-spacecraft-sets-multiple-records/" >🔗</a> **[SpaceNews]** Proteus Space Launches First AI Designed Spacecraft, Sets Multiple Records
-- <a href="https://spaceflightnow.com/2025/12/02/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-4/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral
-- <a href="https://spaceflightnow.com/2025/12/02/arianespace-launches-south-korean-earth-observation-satellite-on-vega-c-flight/" >🔗</a> **[Spaceflight Now]** Arianespace launches South Korean Earth observation satellite on Vega-C flight
-- <a href="https://spacenews.com/reditus-space-joins-reusable-satellite-wave-with-7-million-seed-round/" >🔗</a> **[SpaceNews]** Reditus Space joins reusable satellite wave with $7 million seed round
-- <a href="https://spacenews.com/spire-to-build-eight-satellites-for-deloittes-on-orbit-cybersecurity-program/" >🔗</a> **[SpaceNews]** Spire to build eight satellites for Deloitte’s on-orbit cybersecurity program
-- <a href="https://www.nasaspaceflight.com/2025/12/launch-roundup-120125/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Launch manifest to feature 10 launches during first week of December
-- <a href="https://www.nasa.gov/learning-resources/what-is-ai-grades-5-8/" >🔗</a> **[NASA]** What is AI? (Grades 5-8)
-- <a href="https://spaceflightnow.com/2025/12/01/live-coverage-spacex-to-launch-60th-falcon-9-rocket-from-vandenberg-sfb-in-2025/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 60th Falcon 9 rocket from Vandenberg SFB in 2025
-- <a href="https://www.nasa.gov/image-article/sagittarius-b2-molecular-cloud/" >🔗</a> **[NASA]** Sagittarius B2 Molecular Cloud
+- <a href="https://www.spacedaily.com/reports/South_Korean_team_prepares_BioCabinet_payload_for_space_biology_research_on_Nuri_rocket_mission_999.html" >🔗</a> **[SpaceDaily]** South Korean team prepares BioCabinet payload for space biology research on Nuri rocket mission
+- <a href="https://www.spacedaily.com/reports/UAH_CanSat_and_rover_teams_notch_winning_performances_in_2025_national_and_international_competitions_999.html" >🔗</a> **[SpaceDaily]** UAH CanSat and rover teams notch winning performances in 2025 national and international competitions
+- <a href="https://www.spacedaily.com/reports/Mexico_to_launch_its_first_microsatellite_on_SpaceX_mission_999.html" >🔗</a> **[SpaceDaily]** Mexico to launch its first microsatellite on SpaceX mission
+- <a href="https://www.spacedaily.com/reports/SatRev_PW6U_satellite_checks_in_from_orbit_after_Transporter_15_launch_999.html" >🔗</a> **[SpaceDaily]** SatRev PW6U satellite checks in from orbit after Transporter 15 launch
+- <a href="https://www.spacedaily.com/reports/Spire_Global_faces_NYSE_noncompliance_as_contract_momentum_collides_with_reporting_delay_999.html" >🔗</a> **[SpaceDaily]** Spire Global faces NYSE noncompliance as contract momentum collides with reporting delay
+- <a href="https://www.spacedaily.com/reports/Alen_Space_delivers_ETRISat_CubeSat_to_ETRI_for_upcoming_launch_on_Korean_Nuri_rocket_999.html" >🔗</a> **[SpaceDaily]** Alen Space delivers ETRISat CubeSat to ETRI for upcoming launch on Korean Nuri rocket
+- <a href="https://www.spacewar.com/reports/New_BlackSky_satellite_delivers_rapid_high_resolution_imagery_of_strategic_port_operations_999.html" >🔗</a> **[SpaceDaily]** New BlackSky satellite delivers rapid high-resolution imagery of strategic port operations
+- <a href="https://www.spacedaily.com/reports/AST_SpaceMobile_increases_U_S_manufacturing_capacity_with_new_sites_for_next_generation_satellite_production_999.html" >🔗</a> **[SpaceDaily]** AST SpaceMobile increases US manufacturing capacity with new sites for next generation satellite production
+- <a href="https://www.spacedaily.com/reports/SyLEx_test_rocket_gives_France_new_suborbital_launch_option_999.html" >🔗</a> **[SpaceDaily]** SyLEx test rocket gives France new suborbital launch option
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/SOHO/Sun-watcher_SOHO_celebrates_thirty_years" >🔗</a> **[ESA]** Sun-watcher SOHO celebrates thirty years
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251202T100208">2025-12-02 10:02:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251202T103742">2025-12-02 10:37:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
