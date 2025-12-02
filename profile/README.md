@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/12/blue-origin-update/" >🔗</a> **[NASASpaceflight]** Blue Origin unveils new spacecraft and New Glenn upgrades
 - <a href="https://www.nasa.gov/news-release/nasa-awards-lunar-freezer-system-contract/" >🔗</a> **[NASA]** NASA Awards Lunar Freezer System Contract
 - <a href="https://www.nasa.gov/centers-and-facilities/goddard/nasas-fly-foundational-robots-demo-to-bolster-in-space-infrastructure/" >🔗</a> **[NASA]** NASA’s Fly Foundational Robots Demo to Bolster In-Space Infrastructure
 - <a href="https://www.nasa.gov/image-article/waxing-gibbous-moon-5/" >🔗</a> **[NASA]** Waxing Gibbous Moon
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/the-u-s-senate-vs-the-athena-plan-nasa-on-trial/" >🔗</a> **[SpaceNews]** The U.S. Senate vs. the Athena Plan — NASA on trial
 - <a href="https://www.nasa.gov/image-article/nasas-moon-rocket-celebrates-250-years-of-american-innovation/" >🔗</a> **[NASA]** NASA’s Moon Rocket Celebrates 250 Years of American Innovation
 - <a href="https://spacenews.com/its-time-to-give-nasa-an-astrophysics-nervous-system/" >🔗</a> **[SpaceNews]** It’s time to give NASA an astrophysics nervous system
-- <a href="https://www.nasa.gov/missions/osiris-rex/sugars-gum-stardust-found-in-nasas-asteroid-bennu-samples/" >🔗</a> **[NASA]** Sugars, ‘Gum,’ Stardust Found in NASA’s Asteroid Bennu Samples
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251202T230141">2025-12-02 23:01:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251202T233233">2025-12-02 23:32:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
