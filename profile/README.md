@@ -45,7 +45,6 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251202T201600">2025-12-02 20:16:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-95&location=Cape Canaveral SFS, FL, USA&dates=20251202T201600Z%2F20251203T001600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-95** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251203T035200">2025-12-03 03:52:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Zhuque-3 | Demo Flight&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20251203T035200Z%2F20251203T044900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Zhuque-3 | Demo Flight** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251204T181200">2025-12-04 18:12:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-25&location=Vandenberg SFB, CA, USA&dates=20251204T181200Z%2F20251204T221200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-25** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251206T040000">2025-12-06 04:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Hyperbola-1 | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20251206T040000Z%2F20251206T060000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Hyperbola-1 | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
@@ -90,16 +89,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/goddard/nasas-fly-foundational-robots-demo-to-bolster-in-space-infrastructure/" >🔗</a> **[NASA]** NASA’s Fly Foundational Robots Demo to Bolster In-Space Infrastructure
 - <a href="https://www.nasa.gov/image-article/waxing-gibbous-moon-5/" >🔗</a> **[NASA]** Waxing Gibbous Moon
 - <a href="https://www.nasa.gov/solar-system/planets/mars/nasa-tests-drones-in-death-valley-preps-for-martian-sands-and-skies/" >🔗</a> **[NASA]** NASA Tests Drones in Death Valley, Preps for Martian Sands and Skies
 - <a href="https://europeanspaceflight.com/isar-aerospace-awarded-contract-to-launch-eu-in-orbit-demo-mission/" >🔗</a> **[European Spaceflight]** Isar Aerospace Awarded Contract to Launch EU In-Orbit Demo Mission
-- <a href="https://arstechnica.com/space/2025/12/wary-of-picking-just-one-nasa-nears-important-decision-on-a-lunar-rover-selection/" >🔗</a> **[Arstechnica]** Wary of picking just one, NASA nears important decision on a lunar rover selection
 - <a href="https://spacenews.com/the-u-s-senate-vs-the-athena-plan-nasa-on-trial/" >🔗</a> **[SpaceNews]** The U.S. Senate vs. the Athena Plan — NASA on trial
+- <a href="https://arstechnica.com/space/2025/12/wary-of-picking-just-one-nasa-nears-important-decision-on-a-lunar-rover-selection/" >🔗</a> **[Arstechnica]** Wary of picking just one, NASA nears important decision on a lunar rover selection
 - <a href="https://www.nasa.gov/image-article/nasas-moon-rocket-celebrates-250-years-of-american-innovation/" >🔗</a> **[NASA]** NASA’s Moon Rocket Celebrates 250 Years of American Innovation
 - <a href="https://spacenews.com/its-time-to-give-nasa-an-astrophysics-nervous-system/" >🔗</a> **[SpaceNews]** It’s time to give NASA an astrophysics nervous system
 - <a href="https://www.nasa.gov/missions/osiris-rex/sugars-gum-stardust-found-in-nasas-asteroid-bennu-samples/" >🔗</a> **[NASA]** Sugars, ‘Gum,’ Stardust Found in NASA’s Asteroid Bennu Samples
 - <a href="https://spacenews.com/bae-systems-globalfoundries-team-up-to-modernize-chipmaking-for-spacecraft/" >🔗</a> **[SpaceNews]** BAE Systems, GlobalFoundries team up to modernize chipmaking for space
-- <a href="https://www.spacedaily.com/reports/SyLEx_test_rocket_gives_France_new_suborbital_launch_option_999.html" >🔗</a> **[SpaceDaily]** SyLEx test rocket gives France new suborbital launch option
 
 
 ### Launch-related News 🚀
@@ -108,7 +107,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251202T200153">2025-12-02 20:01:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251202T203613">2025-12-02 20:36:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
