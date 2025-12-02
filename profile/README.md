@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.spacedaily.com/reports/UAH_CanSat_and_rover_teams_notch_winning_performances_in_2025_national_and_international_competitions_999.html" >🔗</a> **[SpaceDaily]** UAH CanSat and rover teams notch winning performances in 2025 national and international competitions
+- <a href="https://www.nasa.gov/missions/osiris-rex/sugars-gum-stardust-found-in-nasas-asteroid-bennu-samples/" >🔗</a> **[NASA]** Sugars, ‘Gum,’ Stardust Found in NASA’s Asteroid Bennu Samples
+- <a href="https://spacenews.com/bae-systems-globalfoundries-team-up-to-modernize-chipmaking-for-spacecraft/" >🔗</a> **[SpaceNews]** BAE Systems, GlobalFoundries team up to modernize chipmaking for space
 - <a href="https://www.spacedaily.com/reports/Spire_Global_faces_NYSE_noncompliance_as_contract_momentum_collides_with_reporting_delay_999.html" >🔗</a> **[SpaceDaily]** Spire Global faces NYSE noncompliance as contract momentum collides with reporting delay
-- <a href="https://www.spacedaily.com/reports/Mexico_to_launch_its_first_microsatellite_on_SpaceX_mission_999.html" >🔗</a> **[SpaceDaily]** Mexico to launch its first microsatellite on SpaceX mission
 - <a href="https://www.spacedaily.com/reports/Alen_Space_delivers_ETRISat_CubeSat_to_ETRI_for_upcoming_launch_on_Korean_Nuri_rocket_999.html" >🔗</a> **[SpaceDaily]** Alen Space delivers ETRISat CubeSat to ETRI for upcoming launch on Korean Nuri rocket
 - <a href="https://www.spacedaily.com/reports/South_Korean_team_prepares_BioCabinet_payload_for_space_biology_research_on_Nuri_rocket_mission_999.html" >🔗</a> **[SpaceDaily]** South Korean team prepares BioCabinet payload for space biology research on Nuri rocket mission
 - <a href="https://www.spacedaily.com/reports/SatRev_PW6U_satellite_checks_in_from_orbit_after_Transporter_15_launch_999.html" >🔗</a> **[SpaceDaily]** SatRev PW6U satellite checks in from orbit after Transporter 15 launch
-- <a href="https://www.spacedaily.com/reports/SyLEx_test_rocket_gives_France_new_suborbital_launch_option_999.html" >🔗</a> **[SpaceDaily]** SyLEx test rocket gives France new suborbital launch option
 - <a href="https://www.spacewar.com/reports/New_BlackSky_satellite_delivers_rapid_high_resolution_imagery_of_strategic_port_operations_999.html" >🔗</a> **[SpaceDaily]** New BlackSky satellite delivers rapid high-resolution imagery of strategic port operations
+- <a href="https://www.spacedaily.com/reports/SyLEx_test_rocket_gives_France_new_suborbital_launch_option_999.html" >🔗</a> **[SpaceDaily]** SyLEx test rocket gives France new suborbital launch option
 - <a href="https://www.spacedaily.com/reports/AST_SpaceMobile_increases_U_S_manufacturing_capacity_with_new_sites_for_next_generation_satellite_production_999.html" >🔗</a> **[SpaceDaily]** AST SpaceMobile increases US manufacturing capacity with new sites for next generation satellite production
-- <a href="https://spacenews.com/isar-aerospace-wins-launch-contract-for-european-tech-demo-satellite/" >🔗</a> **[SpaceNews]** Isar Aerospace wins launch contract for European tech demo satellite
+- <a href="https://www.spacedaily.com/reports/Mexico_to_launch_its_first_microsatellite_on_SpaceX_mission_999.html" >🔗</a> **[SpaceDaily]** Mexico to launch its first microsatellite on SpaceX mission
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251202T131239">2025-12-02 13:12:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251202T134148">2025-12-02 13:41:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
