@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/reditus-space-joins-reusable-satellite-wave-with-7-million-seed-round/" >🔗</a> **[SpaceNews]** Reditus Space joins reusable satellite wave with $7 million seed round
+- <a href="https://spacenews.com/spire-to-build-eight-satellites-for-deloittes-on-orbit-cybersecurity-program/" >🔗</a> **[SpaceNews]** Spire to build eight satellites for Deloitte’s on-orbit cybersecurity program
 - <a href="https://www.nasaspaceflight.com/2025/12/launch-roundup-120125/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Launch manifest to feature 10 launches during first week of December
 - <a href="https://www.nasa.gov/learning-resources/what-is-ai-grades-5-8/" >🔗</a> **[NASA]** What is AI? (Grades 5-8)
 - <a href="https://spaceflightnow.com/2025/12/01/live-coverage-spacex-to-launch-60th-falcon-9-rocket-from-vandenberg-sfb-in-2025/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 60th Falcon 9 rocket from Vandenberg SFB in 2025
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/12/Flooding_in_Sri_Lanka" >🔗</a> **[ESA]** Flooding in Sri Lanka
 - <a href="https://europeanspaceflight.com/arianegroup-launches-inaugural-flight-of-suborbital-sylex-rocket/" >🔗</a> **[European Spaceflight]** ArianeGroup Launches Inaugural Flight of Suborbital SyLEx Rocket
 - <a href="https://spacenews.com/the-eu-space-act-a-call-for-true-strategic-fairness/" >🔗</a> **[SpaceNews]** The EU Space Act: a call for true strategic fairness
-- <a href="https://spacenews.com/the-future-is-now-understanding-the-once-far-off-technologies-becoming-reality/" >🔗</a> **[SpaceNews]** The future is now: understanding the once far-off technologies becoming reality
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/mark-elder-building-the-future-of-spacewalking-for-artemis-and-beyond/" >🔗</a> **[NASA]** Mark Elder: Building the Future of Spacewalking for Artemis and Beyond
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251201T233322">2025-12-01 23:33:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251202T000511">2025-12-02 00:05:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
