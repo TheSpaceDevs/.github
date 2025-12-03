@@ -91,6 +91,7 @@ into *an Unknown
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Space_in_Member_States/United_Kingdom/New_ESA_connection_to_advance_robotics_for_lunar_exploration" >🔗</a> **[ESA]** New ESA connection to advance robotics for lunar exploration
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/student-art-murals-at-johnson-celebrate-25-years-of-humanity-in-space/" >🔗</a> **[NASA]** Student Art Murals at Johnson Celebrate 25 Years of Humanity in Space
 - <a href="https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasa-rover-detects-electric-sparks-in-mars-dust-devils-storms/" >🔗</a> **[NASA]** NASA Rover Detects Electric Sparks in Mars Dust Devils, Storms
 - <a href="https://www.nasa.gov/image-article/hubble-seeks-clusters-in-lost-galaxy/" >🔗</a> **[NASA]** Hubble Seeks Clusters in ‘Lost Galaxy’
 - <a href="https://europeanspaceflight.com/cnes-found-liable-for-destroying-protected-habitat-at-new-launch-facility/" >🔗</a> **[European Spaceflight]** CNES Found Liable for Destroying Protected Habitat at New Launch Facility
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/space-force-top-buyer-says-rapid-commercial-innovation-is-reshaping-military-space-strategy/" >🔗</a> **[SpaceNews]** Space Force top buyer says rapid commercial innovation is reshaping military space strategy
 - <a href="https://www.nasa.gov/directorates/esdmd/hhp/hazardous-material-summary-tables-hmsts/" >🔗</a> **[NASA]** Hazardous Material Summary Tables (HMSTs)
 - <a href="https://www.marsdaily.com/reports/Bacterial_partnership_offers_pathway_to_produce_Mars_regolith_bricks_for_future_habitats_999.html" >🔗</a> **[SpaceDaily]** Bacterial partnership offers pathway to produce Mars regolith bricks for future habitats
-- <a href="https://www.spacedaily.com/reports/Micro_nano_robots_aim_to_cut_carbon_buildup_in_closed_life_support_systems_999.html" >🔗</a> **[SpaceDaily]** Micro nano robots aim to cut carbon buildup in closed life support systems
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251203T170315">2025-12-03 17:03:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251203T173625">2025-12-03 17:36:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
