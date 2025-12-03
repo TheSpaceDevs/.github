@@ -91,15 +91,15 @@ into *an Unknown
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Space_in_Member_States/United_Kingdom/New_ESA_connection_to_advance_robotics_for_lunar_exploration" >🔗</a> **[ESA]** New ESA connection to advance robotics for lunar exploration
+- <a href="https://spaceflightnow.com/2025/12/03/jared-isaacman-makes-second-appeal-for-nasa-administrator-position/" >🔗</a> **[Spaceflight Now]** Jared Isaacman makes second appeal for NASA administrator position
+- <a href="https://spacenews.com/sli-bets-on-satellite-leasing-with-200-million-commitment-to-ascendarc/" >🔗</a> **[SpaceNews]** SLI bets on satellite leasing with $200 million commitment to AscendArc
+- <a href="https://spacenews.com/space-force-top-buyer-says-rapid-commercial-innovation-is-reshaping-military-space-strategy/" >🔗</a> **[SpaceNews]** Space Force top buyer says rapid commercial innovation is reshaping military space strategy
 - <a href="https://www.nasa.gov/directorates/esdmd/hhp/hazardous-material-summary-tables-hmsts/" >🔗</a> **[NASA]** Hazardous Material Summary Tables (HMSTs)
-- <a href="https://www.marsdaily.com/reports/NASA_desert_drone_trials_refine_navigation_software_for_future_Mars_explorers_999.html" >🔗</a> **[SpaceDaily]** NASA desert drone trials refine navigation software for future Mars explorers
-- <a href="https://www.spacedaily.com/reports/Iridium_wins_five_year_US_Space_Force_contract_to_upgrade_EMSS_infrastructure_999.html" >🔗</a> **[SpaceDaily]** Iridium wins five year US Space Force contract to upgrade EMSS infrastructure
-- <a href="https://www.spacedaily.com/reports/Micro_nano_robots_aim_to_cut_carbon_buildup_in_closed_life_support_systems_999.html" >🔗</a> **[SpaceDaily]** Micro nano robots aim to cut carbon buildup in closed life support systems
 - <a href="https://www.marsdaily.com/reports/Bacterial_partnership_offers_pathway_to_produce_Mars_regolith_bricks_for_future_habitats_999.html" >🔗</a> **[SpaceDaily]** Bacterial partnership offers pathway to produce Mars regolith bricks for future habitats
-- <a href="https://www.spacedaily.com/reports/LandSpace_ZQ_3_Y1_rocket_reaches_orbit_on_first_reusable_flight_attempt_999.html" >🔗</a> **[SpaceDaily]** LandSpace ZQ 3 Y1 rocket reaches orbit on first reusable flight attempt
-- <a href="https://www.spacedaily.com/reports/SPHERE_debris_disk_survey_maps_hidden_asteroid_and_comet_belts_in_young_planetary_systems_999.html" >🔗</a> **[SpaceDaily]** SPHERE debris disk survey maps hidden asteroid and comet belts in young planetary systems
+- <a href="https://www.spacedaily.com/reports/Micro_nano_robots_aim_to_cut_carbon_buildup_in_closed_life_support_systems_999.html" >🔗</a> **[SpaceDaily]** Micro nano robots aim to cut carbon buildup in closed life support systems
+- <a href="https://www.marsdaily.com/reports/NASA_desert_drone_trials_refine_navigation_software_for_future_Mars_explorers_999.html" >🔗</a> **[SpaceDaily]** NASA desert drone trials refine navigation software for future Mars explorers
 - <a href="https://www.spacedaily.com/reports/JWST_spots_early_Milky_Way_style_spiral_galaxy_Alaknanda_999.html" >🔗</a> **[SpaceDaily]** JWST spots early Milky Way style spiral galaxy Alaknanda
-- <a href="https://www.spacedaily.com/reports/Cosmic_rays_drive_urgent_search_for_better_protection_before_crewed_trips_to_Mars_999.html" >🔗</a> **[SpaceDaily]** Cosmic rays drive urgent search for better protection before crewed trips to Mars
+- <a href="https://www.spacedaily.com/reports/Iridium_wins_five_year_US_Space_Force_contract_to_upgrade_EMSS_infrastructure_999.html" >🔗</a> **[SpaceDaily]** Iridium wins five year US Space Force contract to upgrade EMSS infrastructure
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251203T140117">2025-12-03 14:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251203T143708">2025-12-03 14:37:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
