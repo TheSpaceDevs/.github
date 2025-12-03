@@ -90,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/zhuque-3-reaches-orbit-on-test-flight-first-stage-lost-during-landing-attempt/" >🔗</a> **[SpaceNews]** Zhuque-3 reaches orbit on test flight, first stage lost during landing attempt
-- <a href="https://spacenews.com/spotting-smaller-wildfires-sooner-than-ever/" >🔗</a> **[SpaceNews]** Spotting smaller wildfires sooner than ever
-- <a href="https://spacenews.com/honoring-a-career-opening-doors-for-the-commercial-space-sector/" >🔗</a> **[SpaceNews]** Honoring a career opening doors for the commercial space sector
-- <a href="https://spacenews.com/teaming-up-to-create-multi-orbit-broadband/" >🔗</a> **[SpaceNews]** Teaming up to create multi-orbit broadband
-- <a href="https://spacenews.com/leading-the-integration-of-commercial-and-military-capabilities-in-space/" >🔗</a> **[SpaceNews]** Leading the integration of commercial and military capabilities in space
-- <a href="https://spacenews.com/making-seamless-connections-between-d2d-patchwork/" >🔗</a> **[SpaceNews]** Making seamless connections between D2D patchwork
-- <a href="https://spacenews.com/using-ai-to-scan-the-earth/" >🔗</a> **[SpaceNews]** Using AI to scan the Earth
-- <a href="https://spacenews.com/sophisticated-maneuvers-from-a-new-spacecraft/" >🔗</a> **[SpaceNews]** Sophisticated maneuvers from a new spacecraft
-- <a href="https://spacenews.com/defending-nasa-science-in-the-face-of-sweeping-budget-cuts/" >🔗</a> **[SpaceNews]** Defending NASA science in the face of sweeping budget cuts
-- <a href="https://spacenews.com/a-rapid-deployment-of-a-space-traffic-management-platform/" >🔗</a> **[SpaceNews]** A rapid deployment of a space traffic management platform
+- <a href="https://www.spacedaily.com/reports/AI_eXpress_1_Plus_completes_first_generation_in_orbit_AI_satellite_trio_999.html" >🔗</a> **[SpaceDaily]** AI eXpress 1 Plus completes first generation in orbit AI satellite trio
+- <a href="https://www.spacedaily.com/reports/Hot_dust_near_a_nearby_star_system_999.html" >🔗</a> **[SpaceDaily]** Hot dust near a nearby star system
+- <a href="https://www.spacedaily.com/reports/SwRI_opens_NOUR_lab_to_track_chemical_pathways_from_nebulae_to_planetary_systems_999.html" >🔗</a> **[SpaceDaily]** SwRI opens NOUR lab to track chemical pathways from nebulae to planetary systems
+- <a href="https://www.spacedaily.com/reports/Helium_escape_mapped_from_superpuff_exoplanet_WASP_107b_by_JWST_999.html" >🔗</a> **[SpaceDaily]** Helium escape mapped from superpuff exoplanet WASP 107b by JWST
+- <a href="https://www.spacedaily.com/reports/Mars_clocks_run_ahead_of_Earth_by_microseconds_each_day_999.html" >🔗</a> **[SpaceDaily]** Mars clocks run ahead of Earth by microseconds each day
+- <a href="https://www.spacedaily.com/reports/Auroral_radio_signal_offers_new_insight_into_intense_magnetic_storms_999.html" >🔗</a> **[SpaceDaily]** Auroral radio signal offers new insight into intense magnetic storms
+- <a href="https://www.marsdaily.com/reports/Mars_Rover_Uncovers_Evidence_of_Ancient_Wet_Climate_in_Jezero_Crater_999.html" >🔗</a> **[SpaceDaily]** Mars Rover Uncovers Evidence of Ancient Wet Climate in Jezero Crater
+- <a href="https://www.spacedaily.com/reports/Space_station_reaches_new_record_with_all_docking_ports_in_use_999.html" >🔗</a> **[SpaceDaily]** Space station reaches new record with all docking ports in use
+- <a href="https://www.marsdaily.com/reports/Scientists_trace_ancient_mega_watersheds_on_Mars_999.html" >🔗</a> **[SpaceDaily]** Scientists trace ancient mega watersheds on Mars
+- <a href="https://www.spacedaily.com/reports/Orbit_Fab_to_lead_ESA_backed_ASTRAL_refuelling_demo_in_orbit_999.html" >🔗</a> **[SpaceDaily]** Orbit Fab to lead ESA backed ASTRAL refuelling demo in orbit
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251203T080155">2025-12-03 08:01:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251203T084013">2025-12-03 08:40:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
