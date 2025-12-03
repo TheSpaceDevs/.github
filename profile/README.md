@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/12/nasa-nominee-says-now-is-the-time-for-action-to-keep-agency-ahead-of-china/" >🔗</a> **[Arstechnica]** NASA nominee says now is the time for “action” to keep agency ahead of China
 - <a href="https://www.esa.int/Space_in_Member_States/United_Kingdom/New_ESA_connection_to_advance_robotics_for_lunar_exploration" >🔗</a> **[ESA]** New ESA connection to advance robotics for lunar exploration
 - <a href="https://spacenews.com/a-new-industrial-age-in-orbit/" >🔗</a> **[SpaceNews]** A New Industrial Age in Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/student-art-murals-at-johnson-celebrate-25-years-of-humanity-in-space/" >🔗</a> **[NASA]** Student Art Murals at Johnson Celebrate 25 Years of Humanity in Space
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spaceflightnow.com/2025/12/03/jared-isaacman-makes-second-appeal-for-nasa-administrator-position/" >🔗</a> **[Spaceflight Now]** Jared Isaacman makes second appeal for NASA administrator position
 - <a href="https://spacenews.com/sli-bets-on-satellite-leasing-with-200-million-commitment-to-ascendarc/" >🔗</a> **[SpaceNews]** SLI bets on satellite leasing with $200 million commitment to AscendArc
 - <a href="https://spacenews.com/space-force-top-buyer-says-rapid-commercial-innovation-is-reshaping-military-space-strategy/" >🔗</a> **[SpaceNews]** Space Force top buyer says rapid commercial innovation is reshaping military space strategy
-- <a href="https://www.nasa.gov/directorates/esdmd/hhp/hazardous-material-summary-tables-hmsts/" >🔗</a> **[NASA]** Hazardous Material Summary Tables (HMSTs)
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251203T200154">2025-12-03 20:01:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251203T203622">2025-12-03 20:36:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
