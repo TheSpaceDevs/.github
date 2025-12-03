@@ -90,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.spacedaily.com/reports/AI_eXpress_1_Plus_completes_first_generation_in_orbit_AI_satellite_trio_999.html" >🔗</a> **[SpaceDaily]** AI eXpress 1 Plus completes first generation in orbit AI satellite trio
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/A_martian_butterfly_flaps_its_wings" >🔗</a> **[ESA]** A martian butterfly flaps its wings
 - <a href="https://www.spacedaily.com/reports/Hot_dust_near_a_nearby_star_system_999.html" >🔗</a> **[SpaceDaily]** Hot dust near a nearby star system
-- <a href="https://www.spacedaily.com/reports/SwRI_opens_NOUR_lab_to_track_chemical_pathways_from_nebulae_to_planetary_systems_999.html" >🔗</a> **[SpaceDaily]** SwRI opens NOUR lab to track chemical pathways from nebulae to planetary systems
+- <a href="https://www.marsdaily.com/reports/Mars_Rover_Uncovers_Evidence_of_Ancient_Wet_Climate_in_Jezero_Crater_999.html" >🔗</a> **[SpaceDaily]** Mars Rover Uncovers Evidence of Ancient Wet Climate in Jezero Crater
 - <a href="https://www.spacedaily.com/reports/Helium_escape_mapped_from_superpuff_exoplanet_WASP_107b_by_JWST_999.html" >🔗</a> **[SpaceDaily]** Helium escape mapped from superpuff exoplanet WASP 107b by JWST
 - <a href="https://www.spacedaily.com/reports/Mars_clocks_run_ahead_of_Earth_by_microseconds_each_day_999.html" >🔗</a> **[SpaceDaily]** Mars clocks run ahead of Earth by microseconds each day
 - <a href="https://www.spacedaily.com/reports/Auroral_radio_signal_offers_new_insight_into_intense_magnetic_storms_999.html" >🔗</a> **[SpaceDaily]** Auroral radio signal offers new insight into intense magnetic storms
-- <a href="https://www.marsdaily.com/reports/Mars_Rover_Uncovers_Evidence_of_Ancient_Wet_Climate_in_Jezero_Crater_999.html" >🔗</a> **[SpaceDaily]** Mars Rover Uncovers Evidence of Ancient Wet Climate in Jezero Crater
+- <a href="https://www.spacedaily.com/reports/SwRI_opens_NOUR_lab_to_track_chemical_pathways_from_nebulae_to_planetary_systems_999.html" >🔗</a> **[SpaceDaily]** SwRI opens NOUR lab to track chemical pathways from nebulae to planetary systems
 - <a href="https://www.spacedaily.com/reports/Space_station_reaches_new_record_with_all_docking_ports_in_use_999.html" >🔗</a> **[SpaceDaily]** Space station reaches new record with all docking ports in use
 - <a href="https://www.marsdaily.com/reports/Scientists_trace_ancient_mega_watersheds_on_Mars_999.html" >🔗</a> **[SpaceDaily]** Scientists trace ancient mega watersheds on Mars
-- <a href="https://www.spacedaily.com/reports/Orbit_Fab_to_lead_ESA_backed_ASTRAL_refuelling_demo_in_orbit_999.html" >🔗</a> **[SpaceDaily]** Orbit Fab to lead ESA backed ASTRAL refuelling demo in orbit
+- <a href="https://www.spacedaily.com/reports/AI_eXpress_1_Plus_completes_first_generation_in_orbit_AI_satellite_trio_999.html" >🔗</a> **[SpaceDaily]** AI eXpress 1 Plus completes first generation in orbit AI satellite trio
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251203T100157">2025-12-03 10:01:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251203T103833">2025-12-03 10:38:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
