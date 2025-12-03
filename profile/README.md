@@ -90,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/antares-raises-96-million-for-nuclear-reactors-on-earth-and-in-space/" >🔗</a> **[SpaceNews]** Antares raises $96 million for nuclear reactors on Earth and in space
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/A_martian_butterfly_flaps_its_wings" >🔗</a> **[ESA]** A martian butterfly flaps its wings
-- <a href="https://www.spacedaily.com/reports/Hot_dust_near_a_nearby_star_system_999.html" >🔗</a> **[SpaceDaily]** Hot dust near a nearby star system
-- <a href="https://www.spacedaily.com/reports/Helium_escape_mapped_from_superpuff_exoplanet_WASP_107b_by_JWST_999.html" >🔗</a> **[SpaceDaily]** Helium escape mapped from superpuff exoplanet WASP 107b by JWST
-- <a href="https://www.spacedaily.com/reports/Mars_clocks_run_ahead_of_Earth_by_microseconds_each_day_999.html" >🔗</a> **[SpaceDaily]** Mars clocks run ahead of Earth by microseconds each day
-- <a href="https://www.spacedaily.com/reports/Auroral_radio_signal_offers_new_insight_into_intense_magnetic_storms_999.html" >🔗</a> **[SpaceDaily]** Auroral radio signal offers new insight into intense magnetic storms
-- <a href="https://www.spacedaily.com/reports/Space_station_reaches_new_record_with_all_docking_ports_in_use_999.html" >🔗</a> **[SpaceDaily]** Space station reaches new record with all docking ports in use
-- <a href="https://www.marsdaily.com/reports/Mars_Rover_Uncovers_Evidence_of_Ancient_Wet_Climate_in_Jezero_Crater_999.html" >🔗</a> **[SpaceDaily]** Mars Rover Uncovers Evidence of Ancient Wet Climate in Jezero Crater
-- <a href="https://www.marsdaily.com/reports/Scientists_trace_ancient_mega_watersheds_on_Mars_999.html" >🔗</a> **[SpaceDaily]** Scientists trace ancient mega watersheds on Mars
-- <a href="https://www.spacedaily.com/reports/SwRI_opens_NOUR_lab_to_track_chemical_pathways_from_nebulae_to_planetary_systems_999.html" >🔗</a> **[SpaceDaily]** SwRI opens NOUR lab to track chemical pathways from nebulae to planetary systems
+- <a href="https://www.spacedaily.com/reports/JWST_spots_early_Milky_Way_style_spiral_galaxy_Alaknanda_999.html" >🔗</a> **[SpaceDaily]** JWST spots early Milky Way style spiral galaxy Alaknanda
+- <a href="https://www.marsdaily.com/reports/NASA_desert_drone_trials_refine_navigation_software_for_future_Mars_explorers_999.html" >🔗</a> **[SpaceDaily]** NASA desert drone trials refine navigation software for future Mars explorers
+- <a href="https://www.spacedaily.com/reports/Cosmic_rays_drive_urgent_search_for_better_protection_before_crewed_trips_to_Mars_999.html" >🔗</a> **[SpaceDaily]** Cosmic rays drive urgent search for better protection before crewed trips to Mars
+- <a href="https://www.spacedaily.com/reports/Iridium_wins_five_year_US_Space_Force_contract_to_upgrade_EMSS_infrastructure_999.html" >🔗</a> **[SpaceDaily]** Iridium wins five year US Space Force contract to upgrade EMSS infrastructure
+- <a href="https://www.spacedaily.com/reports/Micro_nano_robots_aim_to_cut_carbon_buildup_in_closed_life_support_systems_999.html" >🔗</a> **[SpaceDaily]** Micro nano robots aim to cut carbon buildup in closed life support systems
+- <a href="https://www.marsdaily.com/reports/Bacterial_partnership_offers_pathway_to_produce_Mars_regolith_bricks_for_future_habitats_999.html" >🔗</a> **[SpaceDaily]** Bacterial partnership offers pathway to produce Mars regolith bricks for future habitats
+- <a href="https://www.spacedaily.com/reports/SPHERE_debris_disk_survey_maps_hidden_asteroid_and_comet_belts_in_young_planetary_systems_999.html" >🔗</a> **[SpaceDaily]** SPHERE debris disk survey maps hidden asteroid and comet belts in young planetary systems
+- <a href="https://www.spacedaily.com/reports/LandSpace_ZQ_3_Y1_rocket_reaches_orbit_on_first_reusable_flight_attempt_999.html" >🔗</a> **[SpaceDaily]** LandSpace ZQ 3 Y1 rocket reaches orbit on first reusable flight attempt
+- <a href="https://spacenews.com/germanys-space-defense-strategy-marks-a-turning-point-private-investors-must-now-respond/" >🔗</a> **[SpaceNews]** Germany’s space defense strategy marks a turning point. Private investors must now respond
+- <a href="https://spacenews.com/the-next-steps-in-the-quest-for-full-rocket-reusability/" >🔗</a> **[SpaceNews]** The next steps in the quest for full rocket reusability
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251203T120208">2025-12-03 12:02:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251203T124352">2025-12-03 12:43:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
