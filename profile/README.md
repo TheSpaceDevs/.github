@@ -90,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/a-rapid-deployment-of-a-space-traffic-management-platform/" >🔗</a> **[SpaceNews]** A rapid deployment of a space traffic management platform
+- <a href="https://spacenews.com/zhuque-3-reaches-orbit-on-test-flight-first-stage-lost-during-landing-attempt/" >🔗</a> **[SpaceNews]** Zhuque-3 reaches orbit on test flight, first stage lost during landing attempt
 - <a href="https://spacenews.com/spotting-smaller-wildfires-sooner-than-ever/" >🔗</a> **[SpaceNews]** Spotting smaller wildfires sooner than ever
-- <a href="https://spacenews.com/using-ai-to-scan-the-earth/" >🔗</a> **[SpaceNews]** Using AI to scan the Earth
+- <a href="https://spacenews.com/honoring-a-career-opening-doors-for-the-commercial-space-sector/" >🔗</a> **[SpaceNews]** Honoring a career opening doors for the commercial space sector
 - <a href="https://spacenews.com/teaming-up-to-create-multi-orbit-broadband/" >🔗</a> **[SpaceNews]** Teaming up to create multi-orbit broadband
 - <a href="https://spacenews.com/leading-the-integration-of-commercial-and-military-capabilities-in-space/" >🔗</a> **[SpaceNews]** Leading the integration of commercial and military capabilities in space
 - <a href="https://spacenews.com/making-seamless-connections-between-d2d-patchwork/" >🔗</a> **[SpaceNews]** Making seamless connections between D2D patchwork
-- <a href="https://spacenews.com/honoring-a-career-opening-doors-for-the-commercial-space-sector/" >🔗</a> **[SpaceNews]** Honoring a career opening doors for the commercial space sector
+- <a href="https://spacenews.com/using-ai-to-scan-the-earth/" >🔗</a> **[SpaceNews]** Using AI to scan the Earth
 - <a href="https://spacenews.com/sophisticated-maneuvers-from-a-new-spacecraft/" >🔗</a> **[SpaceNews]** Sophisticated maneuvers from a new spacecraft
 - <a href="https://spacenews.com/defending-nasa-science-in-the-face-of-sweeping-budget-cuts/" >🔗</a> **[SpaceNews]** Defending NASA science in the face of sweeping budget cuts
-- <a href="https://spacenews.com/making-multiple-breakthroughs-in-spacecraft-swarms/" >🔗</a> **[SpaceNews]** Making multiple breakthroughs in spacecraft swarms
+- <a href="https://spacenews.com/a-rapid-deployment-of-a-space-traffic-management-platform/" >🔗</a> **[SpaceNews]** A rapid deployment of a space traffic management platform
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251203T070212">2025-12-03 07:02:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251203T073430">2025-12-03 07:34:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
