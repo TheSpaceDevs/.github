@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.nasaspaceflight.com/2025/12/blue-origin-update/" >🔗</a> **[NASASpaceflight]** Blue Origin unveils new spacecraft and New Glenn upgrades
-- <a href="https://www.nasa.gov/news-release/nasa-awards-lunar-freezer-system-contract/" >🔗</a> **[NASA]** NASA Awards Lunar Freezer System Contract
-- <a href="https://www.nasa.gov/centers-and-facilities/goddard/nasas-fly-foundational-robots-demo-to-bolster-in-space-infrastructure/" >🔗</a> **[NASA]** NASA’s Fly Foundational Robots Demo to Bolster In-Space Infrastructure
-- <a href="https://www.nasa.gov/image-article/waxing-gibbous-moon-5/" >🔗</a> **[NASA]** Waxing Gibbous Moon
-- <a href="https://www.nasa.gov/solar-system/planets/mars/nasa-tests-drones-in-death-valley-preps-for-martian-sands-and-skies/" >🔗</a> **[NASA]** NASA Tests Drones in Death Valley, Preps for Martian Sands and Skies
-- <a href="https://europeanspaceflight.com/isar-aerospace-awarded-contract-to-launch-eu-in-orbit-demo-mission/" >🔗</a> **[European Spaceflight]** Isar Aerospace Awarded Contract to Launch EU In-Orbit Demo Mission
-- <a href="https://arstechnica.com/space/2025/12/wary-of-picking-just-one-nasa-nears-important-decision-on-a-lunar-rover-selection/" >🔗</a> **[Arstechnica]** Wary of picking just one, NASA nears important decision on a lunar rover selection
-- <a href="https://spacenews.com/the-u-s-senate-vs-the-athena-plan-nasa-on-trial/" >🔗</a> **[SpaceNews]** The U.S. Senate vs. the Athena Plan — NASA on trial
-- <a href="https://www.nasa.gov/image-article/nasas-moon-rocket-celebrates-250-years-of-american-innovation/" >🔗</a> **[NASA]** NASA’s Moon Rocket Celebrates 250 Years of American Innovation
-- <a href="https://spacenews.com/its-time-to-give-nasa-an-astrophysics-nervous-system/" >🔗</a> **[SpaceNews]** It’s time to give NASA an astrophysics nervous system
+- <a href="https://spacenews.com/a-rapid-deployment-of-a-space-traffic-management-platform/" >🔗</a> **[SpaceNews]** A rapid deployment of a space traffic management platform
+- <a href="https://spacenews.com/spotting-smaller-wildfires-sooner-than-ever/" >🔗</a> **[SpaceNews]** Spotting smaller wildfires sooner than ever
+- <a href="https://spacenews.com/using-ai-to-scan-the-earth/" >🔗</a> **[SpaceNews]** Using AI to scan the Earth
+- <a href="https://spacenews.com/teaming-up-to-create-multi-orbit-broadband/" >🔗</a> **[SpaceNews]** Teaming up to create multi-orbit broadband
+- <a href="https://spacenews.com/leading-the-integration-of-commercial-and-military-capabilities-in-space/" >🔗</a> **[SpaceNews]** Leading the integration of commercial and military capabilities in space
+- <a href="https://spacenews.com/making-seamless-connections-between-d2d-patchwork/" >🔗</a> **[SpaceNews]** Making seamless connections between D2D patchwork
+- <a href="https://spacenews.com/honoring-a-career-opening-doors-for-the-commercial-space-sector/" >🔗</a> **[SpaceNews]** Honoring a career opening doors for the commercial space sector
+- <a href="https://spacenews.com/sophisticated-maneuvers-from-a-new-spacecraft/" >🔗</a> **[SpaceNews]** Sophisticated maneuvers from a new spacecraft
+- <a href="https://spacenews.com/defending-nasa-science-in-the-face-of-sweeping-budget-cuts/" >🔗</a> **[SpaceNews]** Defending NASA science in the face of sweeping budget cuts
+- <a href="https://spacenews.com/making-multiple-breakthroughs-in-spacecraft-swarms/" >🔗</a> **[SpaceNews]** Making multiple breakthroughs in spacecraft swarms
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251202T233233">2025-12-02 23:32:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251203T000510">2025-12-03 00:05:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
