@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/isaacman-senators-emphasize-urgency-in-returning-humans-to-the-moon/" >🔗</a> **[SpaceNews]** Isaacman, senators emphasize urgency in returning humans to the moon
 - <a href="https://spacenews.com/missile-defense-agency-clarifies-shield-vendor-selection-is-not-a-golden-dome-preview/" >🔗</a> **[SpaceNews]** Missile Defense Agency clarifies ‘SHIELD’ vendor selection is not a Golden Dome preview
 - <a href="https://arstechnica.com/space/2025/12/nasa-nominee-says-now-is-the-time-for-action-to-keep-agency-ahead-of-china/" >🔗</a> **[Arstechnica]** NASA nominee says now is the time for “action” to keep agency ahead of China
 - <a href="https://www.esa.int/Space_in_Member_States/United_Kingdom/New_ESA_connection_to_advance_robotics_for_lunar_exploration" >🔗</a> **[ESA]** New ESA connection to advance robotics for lunar exploration
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/image-article/hubble-seeks-clusters-in-lost-galaxy/" >🔗</a> **[NASA]** Hubble Seeks Clusters in ‘Lost Galaxy’
 - <a href="https://europeanspaceflight.com/cnes-found-liable-for-destroying-protected-habitat-at-new-launch-facility/" >🔗</a> **[European Spaceflight]** CNES Found Liable for Destroying Protected Habitat at New Launch Facility
 - <a href="https://spaceflightnow.com/2025/12/03/jared-isaacman-makes-second-appeal-for-nasa-administrator-position/" >🔗</a> **[Spaceflight Now]** Jared Isaacman makes second appeal for NASA administrator position
-- <a href="https://spacenews.com/sli-bets-on-satellite-leasing-with-200-million-commitment-to-ascendarc/" >🔗</a> **[SpaceNews]** SLI bets on satellite leasing with $200 million commitment to AscendArc
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251203T220138">2025-12-03 22:01:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251203T223529">2025-12-03 22:35:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
