@@ -91,6 +91,8 @@ into *an Unknown
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Space_in_Member_States/United_Kingdom/New_ESA_connection_to_advance_robotics_for_lunar_exploration" >🔗</a> **[ESA]** New ESA connection to advance robotics for lunar exploration
+- <a href="https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasa-rover-detects-electric-sparks-in-mars-dust-devils-storms/" >🔗</a> **[NASA]** NASA Rover Detects Electric Sparks in Mars Dust Devils, Storms
+- <a href="https://www.nasa.gov/image-article/hubble-seeks-clusters-in-lost-galaxy/" >🔗</a> **[NASA]** Hubble Seeks Clusters in ‘Lost Galaxy’
 - <a href="https://europeanspaceflight.com/cnes-found-liable-for-destroying-protected-habitat-at-new-launch-facility/" >🔗</a> **[European Spaceflight]** CNES Found Liable for Destroying Protected Habitat at New Launch Facility
 - <a href="https://spaceflightnow.com/2025/12/03/jared-isaacman-makes-second-appeal-for-nasa-administrator-position/" >🔗</a> **[Spaceflight Now]** Jared Isaacman makes second appeal for NASA administrator position
 - <a href="https://spacenews.com/sli-bets-on-satellite-leasing-with-200-million-commitment-to-ascendarc/" >🔗</a> **[SpaceNews]** SLI bets on satellite leasing with $200 million commitment to AscendArc
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/directorates/esdmd/hhp/hazardous-material-summary-tables-hmsts/" >🔗</a> **[NASA]** Hazardous Material Summary Tables (HMSTs)
 - <a href="https://www.marsdaily.com/reports/Bacterial_partnership_offers_pathway_to_produce_Mars_regolith_bricks_for_future_habitats_999.html" >🔗</a> **[SpaceDaily]** Bacterial partnership offers pathway to produce Mars regolith bricks for future habitats
 - <a href="https://www.spacedaily.com/reports/Micro_nano_robots_aim_to_cut_carbon_buildup_in_closed_life_support_systems_999.html" >🔗</a> **[SpaceDaily]** Micro nano robots aim to cut carbon buildup in closed life support systems
-- <a href="https://www.marsdaily.com/reports/NASA_desert_drone_trials_refine_navigation_software_for_future_Mars_explorers_999.html" >🔗</a> **[SpaceDaily]** NASA desert drone trials refine navigation software for future Mars explorers
-- <a href="https://www.spacedaily.com/reports/JWST_spots_early_Milky_Way_style_spiral_galaxy_Alaknanda_999.html" >🔗</a> **[SpaceDaily]** JWST spots early Milky Way style spiral galaxy Alaknanda
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251203T160152">2025-12-03 16:01:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251203T164040">2025-12-03 16:40:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
