@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/celestis-selects-stoke-spaces-nova-for-infinite-flight-humanitys-next-deep-space-memorial-mission/" >🔗</a> **[SpaceNews]** Celestis Selects Stoke Space’s Nova for Infinite Flight: Humanity’s Next Deep-Space Memorial Mission
 - <a href="https://europeanspaceflight.com/arianegroup-receives-rear-heat-shield-mock-up-for-exomars-mission/" >🔗</a> **[European Spaceflight]** ArianeGroup Receives Rear Heat Shield Mock-Up for ExoMars Mission
 - <a href="https://www.nasa.gov/general/nasa-software-raises-bar-for-aircraft-icing-research/" >🔗</a> **[NASA]** NASA Software Raises Bar for Aircraft Icing Research
 - <a href="https://www.nasa.gov/missions/roman-space-telescope/nasa-completes-nancy-grace-roman-space-telescope-construction/" >🔗</a> **[NASA]** NASA Completes Nancy Grace Roman Space Telescope Construction
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/roscosmos-replaces-cosmonaut-on-next-crew-dragon-mission-to-iss/" >🔗</a> **[SpaceNews]** Roscosmos replaces cosmonaut on next Crew Dragon mission to ISS
 - <a href="https://spacenews.com/the-overlooked-space-race-keeping-satellites-alive/" >🔗</a> **[SpaceNews]** The overlooked space race: keeping satellites alive
 - <a href="https://www.spacewar.com/reports/ICEYE_boosts_SAR_capacity_with_launch_of_five_satellites_for_commercial_and_national_missions_999.html" >🔗</a> **[SpaceDaily]** ICEYE boosts SAR capacity with launch of five satellites for commercial and national missions
-- <a href="https://www.marsdaily.com/reports/NASA_rover_hears_electric_crackles_inside_Mars_dust_devils_999.html" >🔗</a> **[SpaceDaily]** NASA rover hears electric crackles inside Mars dust devils
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251204T160152">2025-12-04 16:01:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251204T164047">2025-12-04 16:40:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
