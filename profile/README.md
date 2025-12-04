@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacedaily.com/reports/Solar_telescope_captures_flare_rich_sunspot_region_in_fine_detail_999.html" >🔗</a> **[SpaceDaily]** Solar telescope captures flare rich sunspot region in fine detail
+- <a href="https://www.marsdaily.com/reports/Martian_dust_devils_found_to_generate_electrical_sparks_999.html" >🔗</a> **[SpaceDaily]** Martian dust devils found to generate electrical sparks
+- <a href="https://www.spacewar.com/reports/ICEYE_boosts_SAR_capacity_with_launch_of_five_satellites_for_commercial_and_national_missions_999.html" >🔗</a> **[SpaceDaily]** ICEYE boosts SAR capacity with launch of five satellites for commercial and national missions
+- <a href="https://www.spacedaily.com/reports/SSC_expands_ground_station_access_with_SSC_Go_service_for_small_satellites_999.html" >🔗</a> **[SpaceDaily]** SSC expands ground station access with SSC Go service for small satellites
+- <a href="https://www.spacedaily.com/reports/Beijing_space_lab_targets_orbital_data_centers_for_AI_era_999.html" >🔗</a> **[SpaceDaily]** Beijing space lab targets orbital data centers for AI era
+- <a href="https://www.marsdaily.com/reports/NASA_rover_hears_electric_crackles_inside_Mars_dust_devils_999.html" >🔗</a> **[SpaceDaily]** NASA rover hears electric crackles inside Mars dust devils
+- <a href="https://www.spacedaily.com/reports/ESA_Space_Safety_programme_gains_major_funding_increase_999.html" >🔗</a> **[SpaceDaily]** ESA Space Safety programme gains major funding increase
+- <a href="https://www.marsdaily.com/reports/Chinese_team_runs_long_term_Martian_dust_cycle_simulation_with_GoMars_model_999.html" >🔗</a> **[SpaceDaily]** Chinese team runs long term Martian dust cycle simulation with GoMars model
+- <a href="https://www.spacedaily.com/reports/LandSpace_reviews_booster_loss_after_Zhuque_3_reusable_rocket_test_999.html" >🔗</a> **[SpaceDaily]** LandSpace reviews booster loss after Zhuque-3 reusable rocket test
 - <a href="https://www.nasaspaceflight.com/2025/12/isaacman-bold-vision-nasa/" >🔗</a> **[NASASpaceflight]** Isaacman hearing overviews bold vision for NASA
-- <a href="https://spacepolicyonline.com/news/isaacmans-second-hearing-mostly-friendly-nomination-could-clear-senate-soon/" >🔗</a> **[SpacePolicyOnline.com]** Isaacman’s Second Hearing Mostly Friendly, Nomination Could Clear Senate Soon
-- <a href="https://spacenews.com/isaacman-senators-emphasize-urgency-in-returning-humans-to-the-moon/" >🔗</a> **[SpaceNews]** Isaacman, senators emphasize urgency in returning humans to the moon
-- <a href="https://spacenews.com/missile-defense-agency-clarifies-shield-vendor-selection-is-not-a-golden-dome-preview/" >🔗</a> **[SpaceNews]** Missile Defense Agency clarifies ‘SHIELD’ vendor selection is not a Golden Dome preview
-- <a href="https://arstechnica.com/space/2025/12/nasa-nominee-says-now-is-the-time-for-action-to-keep-agency-ahead-of-china/" >🔗</a> **[Arstechnica]** NASA nominee says now is the time for “action” to keep agency ahead of China
-- <a href="https://www.esa.int/Space_in_Member_States/United_Kingdom/New_ESA_connection_to_advance_robotics_for_lunar_exploration" >🔗</a> **[ESA]** New ESA connection to advance robotics for lunar exploration
-- <a href="https://spacenews.com/a-new-industrial-age-in-orbit/" >🔗</a> **[SpaceNews]** A New Industrial Age in Orbit
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/student-art-murals-at-johnson-celebrate-25-years-of-humanity-in-space/" >🔗</a> **[NASA]** Student Art Murals at Johnson Celebrate 25 Years of Humanity in Space
-- <a href="https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasa-rover-detects-electric-sparks-in-mars-dust-devils-storms/" >🔗</a> **[NASA]** NASA Rover Detects Electric Sparks in Mars Dust Devils, Storms
-- <a href="https://www.nasa.gov/image-article/hubble-seeks-clusters-in-lost-galaxy/" >🔗</a> **[NASA]** Hubble Seeks Clusters in ‘Lost Galaxy’
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251204T080158">2025-12-04 08:01:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251204T084009">2025-12-04 08:40:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
