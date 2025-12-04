@@ -19,27 +19,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 11-25**. It is scheduled to be launched by *SpaceX*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251204T181200">2025-12-04 18:12:00 UTC</a>.  Until
-then, this pad will have been used for 233
-out of 847 launches from this location. The launch status is currently
+**Kuaizhou-1A | Unknown Payload**. It is scheduled to be launched by *ExPace*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Jiuquan_Satellite_Launch_Center">Launch Area 95A</a>, Jiuquan Satellite Launch Center, People's Republic of China*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251205T085400">2025-12-05 08:54:00 UTC</a>.  Until
+then, this pad will have been used for 62
+out of 267 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Communications* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+*Unknown* and the payload will be injected
+into *an Unknown
+(N/A)*.
 <br>
 <blockquote>
-  A batch of 28 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  Details TBD.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+  <a href="https://en.wikipedia.org/wiki/Kuaizhou" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=34.632,-120.611" >
+  <a href="https://www.google.com/maps?q=40.969117,100.343333" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -54,6 +54,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251208T220300">2025-12-08 22:03:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 6A | Unknown Payload&location=Taiyuan Satellite Launch Center, People&#x27;s Republic of China&dates=20251208T220300Z%2F20251208T221900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 6A | Unknown Payload** from Taiyuan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251209T033300">2025-12-09 03:33:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2D | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20251209T033300Z%2F20251209T035600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2D | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251209T150000">2025-12-09 15:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 3B/E | Unknown Payload&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20251209T150000Z%2F20251209T155700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 3B/E | Unknown Payload** from Xichang Satellite Launch Center, People's Republic of China.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251209T191600">2025-12-09 19:16:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | NROL-77&location=Cape Canaveral SFS, FL, USA&dates=20251209T191600Z%2F20251209T191600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | NROL-77** from Cape Canaveral SFS, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -89,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/final-proposals-leave-spacex-and-amazon-with-4-of-20-billion-rural-broadband-subsidies/" >🔗</a> **[SpaceNews]** Final proposals leave SpaceX and Amazon with 4% of $20 billion rural broadband subsidies
+- <a href="https://spacenews.com/washington-harbour-deepens-space-portfolio-with-investment-in-trusted-space/" >🔗</a> **[SpaceNews]** Washington Harbour deepens space portfolio with investment in Trusted Space
+- <a href="https://spacenews.com/how-starlinks-explosive-growth-is-reshaping-connectivity-in-an-increasingly-connected-world/" >🔗</a> **[SpaceNews]** How Starlink’s explosive growth is reshaping connectivity in an increasingly connected world
 - <a href="https://spacenews.com/welcome-jared-isaacman/" >🔗</a> **[SpaceNews]** Welcome, Jared Isaacman
 - <a href="https://www.nasa.gov/image-article/nasas-nancy-grace-roman-space-telescope-completed/" >🔗</a> **[NASA]** NASA’s Nancy Grace Roman Space Telescope Completed
 - <a href="https://spaceflightnow.com/2025/12/04/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-vandengerg-sfb/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Vandengerg SFB
@@ -96,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/celestis-selects-stoke-spaces-nova-for-infinite-flight-humanitys-next-deep-space-memorial-mission/" >🔗</a> **[SpaceNews]** Celestis Selects Stoke Space’s Nova for Infinite Flight: Humanity’s Next Deep-Space Memorial Mission
 - <a href="https://europeanspaceflight.com/arianegroup-receives-rear-heat-shield-mock-up-for-exomars-mission/" >🔗</a> **[European Spaceflight]** ArianeGroup Receives Rear Heat Shield Mock-Up for ExoMars Mission
 - <a href="https://www.nasa.gov/general/nasa-software-raises-bar-for-aircraft-icing-research/" >🔗</a> **[NASA]** NASA Software Raises Bar for Aircraft Icing Research
-- <a href="https://www.nasa.gov/missions/roman-space-telescope/nasa-completes-nancy-grace-roman-space-telescope-construction/" >🔗</a> **[NASA]** NASA Completes Nancy Grace Roman Space Telescope Construction
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/12/Comet_3I_ATLAS_shows_activity_in_Juice_navigation_camera_teaser" >🔗</a> **[ESA]** Comet 3I/ATLAS shows activity in Juice navigation camera teaser
-- <a href="https://spaceflightnow.com/2025/12/04/orion-hatch-blemish-delays-launch-day-rehearsal-for-artemis-2-astronauts/" >🔗</a> **[Spaceflight Now]** Orion hatch ‘blemish’ delays launch day rehearsal for Artemis 2 astronauts
 
 
 ### Launch-related News 🚀
@@ -107,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251204T210151">2025-12-04 21:01:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251204T213341">2025-12-04 21:33:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
