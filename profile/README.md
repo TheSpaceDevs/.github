@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/12/isaacman-bold-vision-nasa/" >🔗</a> **[NASASpaceflight]** Isaacman hearing overviews bold vision for NASA
+- <a href="https://spacepolicyonline.com/news/isaacmans-second-hearing-mostly-friendly-nomination-could-clear-senate-soon/" >🔗</a> **[SpacePolicyOnline.com]** Isaacman’s Second Hearing Mostly Friendly, Nomination Could Clear Senate Soon
 - <a href="https://spacenews.com/isaacman-senators-emphasize-urgency-in-returning-humans-to-the-moon/" >🔗</a> **[SpaceNews]** Isaacman, senators emphasize urgency in returning humans to the moon
 - <a href="https://spacenews.com/missile-defense-agency-clarifies-shield-vendor-selection-is-not-a-golden-dome-preview/" >🔗</a> **[SpaceNews]** Missile Defense Agency clarifies ‘SHIELD’ vendor selection is not a Golden Dome preview
 - <a href="https://arstechnica.com/space/2025/12/nasa-nominee-says-now-is-the-time-for-action-to-keep-agency-ahead-of-china/" >🔗</a> **[Arstechnica]** NASA nominee says now is the time for “action” to keep agency ahead of China
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/student-art-murals-at-johnson-celebrate-25-years-of-humanity-in-space/" >🔗</a> **[NASA]** Student Art Murals at Johnson Celebrate 25 Years of Humanity in Space
 - <a href="https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasa-rover-detects-electric-sparks-in-mars-dust-devils-storms/" >🔗</a> **[NASA]** NASA Rover Detects Electric Sparks in Mars Dust Devils, Storms
 - <a href="https://www.nasa.gov/image-article/hubble-seeks-clusters-in-lost-galaxy/" >🔗</a> **[NASA]** Hubble Seeks Clusters in ‘Lost Galaxy’
-- <a href="https://europeanspaceflight.com/cnes-found-liable-for-destroying-protected-habitat-at-new-launch-facility/" >🔗</a> **[European Spaceflight]** CNES Found Liable for Destroying Protected Habitat at New Launch Facility
-- <a href="https://spaceflightnow.com/2025/12/03/jared-isaacman-makes-second-appeal-for-nasa-administrator-position/" >🔗</a> **[Spaceflight Now]** Jared Isaacman makes second appeal for NASA administrator position
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251203T233215">2025-12-03 23:32:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251204T000515">2025-12-04 00:05:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
