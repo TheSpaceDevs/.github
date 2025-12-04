@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/12/Comet_3I_ATLAS_shows_activity_in_Juice_navigation_camera_teaser" >🔗</a> **[ESA]** Comet 3I/ATLAS shows activity in Juice navigation camera teaser
+- <a href="https://spacenews.com/the-shift-that-saved-american-spaceflight/" >🔗</a> **[SpaceNews]** The shift that saved American spaceflight
 - <a href="https://spacenews.com/roscosmos-replaces-cosmonaut-on-next-crew-dragon-mission-to-iss/" >🔗</a> **[SpaceNews]** Roscosmos replaces cosmonaut on next Crew Dragon mission to ISS
 - <a href="https://spacenews.com/the-overlooked-space-race-keeping-satellites-alive/" >🔗</a> **[SpaceNews]** The overlooked space race: keeping satellites alive
-- <a href="https://www.spacedaily.com/reports/SSC_expands_ground_station_access_with_SSC_Go_service_for_small_satellites_999.html" >🔗</a> **[SpaceDaily]** SSC expands ground station access with SSC Go service for small satellites
+- <a href="https://www.marsdaily.com/reports/NASA_rover_hears_electric_crackles_inside_Mars_dust_devils_999.html" >🔗</a> **[SpaceDaily]** NASA rover hears electric crackles inside Mars dust devils
+- <a href="https://www.spacewar.com/reports/ICEYE_boosts_SAR_capacity_with_launch_of_five_satellites_for_commercial_and_national_missions_999.html" >🔗</a> **[SpaceDaily]** ICEYE boosts SAR capacity with launch of five satellites for commercial and national missions
 - <a href="https://www.spacedaily.com/reports/Solar_telescope_captures_flare_rich_sunspot_region_in_fine_detail_999.html" >🔗</a> **[SpaceDaily]** Solar telescope captures flare rich sunspot region in fine detail
 - <a href="https://www.spacedaily.com/reports/LandSpace_reviews_booster_loss_after_Zhuque_3_reusable_rocket_test_999.html" >🔗</a> **[SpaceDaily]** LandSpace reviews booster loss after Zhuque-3 reusable rocket test
-- <a href="https://www.spacewar.com/reports/ICEYE_boosts_SAR_capacity_with_launch_of_five_satellites_for_commercial_and_national_missions_999.html" >🔗</a> **[SpaceDaily]** ICEYE boosts SAR capacity with launch of five satellites for commercial and national missions
-- <a href="https://www.marsdaily.com/reports/NASA_rover_hears_electric_crackles_inside_Mars_dust_devils_999.html" >🔗</a> **[SpaceDaily]** NASA rover hears electric crackles inside Mars dust devils
-- <a href="https://www.marsdaily.com/reports/Chinese_team_runs_long_term_Martian_dust_cycle_simulation_with_GoMars_model_999.html" >🔗</a> **[SpaceDaily]** Chinese team runs long term Martian dust cycle simulation with GoMars model
 - <a href="https://www.spacedaily.com/reports/ESA_Space_Safety_programme_gains_major_funding_increase_999.html" >🔗</a> **[SpaceDaily]** ESA Space Safety programme gains major funding increase
-- <a href="https://www.spacedaily.com/reports/Beijing_space_lab_targets_orbital_data_centers_for_AI_era_999.html" >🔗</a> **[SpaceDaily]** Beijing space lab targets orbital data centers for AI era
+- <a href="https://www.marsdaily.com/reports/Chinese_team_runs_long_term_Martian_dust_cycle_simulation_with_GoMars_model_999.html" >🔗</a> **[SpaceDaily]** Chinese team runs long term Martian dust cycle simulation with GoMars model
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251204T140112">2025-12-04 14:01:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251204T143704">2025-12-04 14:37:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
