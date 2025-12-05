@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/12/05/international-space-station-prepares-for-new-commander-heads-into-final-five-years-of-planned-operations/" >🔗</a> **[Spaceflight Now]** International Space Station prepares for new commander, heads into final five years of planned operations
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_01-05_December_2025" >🔗</a> **[ESA]** Week in images: 01-05 December 2025
 - <a href="https://europeanspaceflight.com/uks-esa-funding-cuts-reflect-tightened-priorities-amid-fiscal-uncertainty/" >🔗</a> **[European Spaceflight]** UK’s ESA Funding Cuts Reflect Tightened Priorities Amid Fiscal Uncertainty
 - <a href="https://spacenews.com/northrop-grumman-continues-solid-rocket-motor-development-and-test-program/" >🔗</a> **[SpaceNews]** Northrop Grumman continues solid rocket motor development and test program
@@ -98,8 +99,7 @@ into *an Unknown
 - <a href="https://spacenews.com/mobile-networks-want-to-use-the-satellite-airwaves-we-need-to-track-climate-change/" >🔗</a> **[SpaceNews]** Mobile networks want to use the satellite airwaves we need to track climate change
 - <a href="https://spacenews.com/surprisingly-this-space-economy-isnt-for-everyone/" >🔗</a> **[SpaceNews]** Surprisingly, this space economy isn’t for everyone
 - <a href="https://www.spacedaily.com/reports/Greece_deploys_first_national_ICEYE_radar_satellites_for_disaster_monitoring_999.html" >🔗</a> **[SpaceDaily]** Greece deploys first national ICEYE radar satellites for disaster monitoring
-- <a href="https://www.spacedaily.com/reports/Italian_Earth_observation_fleet_gains_eight_new_IRIDE_satellites_999.html" >🔗</a> **[SpaceDaily]** Italian Earth observation fleet gains eight new IRIDE satellites
-- <a href="https://www.spacedaily.com/reports/UK_plasma_thruster_test_positions_Pulsar_Fusion_for_larger_satellite_propulsion_999.html" >🔗</a> **[SpaceDaily]** UK plasma thruster test positions Pulsar Fusion for larger satellite propulsion
+- <a href="https://www.spacewar.com/reports/Small_satellite_mission_targets_maritime_activity_monitoring_from_orbit_999.html" >🔗</a> **[SpaceDaily]** Small satellite mission targets maritime activity monitoring from orbit
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251205T150111">2025-12-05 15:01:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251205T153533">2025-12-05 15:35:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
