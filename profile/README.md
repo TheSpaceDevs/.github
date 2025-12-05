@@ -90,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/testing-drones-for-mars-in-the-mojave-desert/" >🔗</a> **[NASA]** Testing Drones for Mars in the Mojave Desert
 - <a href="https://spaceflightnow.com/2025/12/05/international-space-station-prepares-for-new-commander-heads-into-final-five-years-of-planned-operations/" >🔗</a> **[Spaceflight Now]** International Space Station prepares for new commander, heads into final five years of planned operations
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_01-05_December_2025" >🔗</a> **[ESA]** Week in images: 01-05 December 2025
 - <a href="https://europeanspaceflight.com/uks-esa-funding-cuts-reflect-tightened-priorities-amid-fiscal-uncertainty/" >🔗</a> **[European Spaceflight]** UK’s ESA Funding Cuts Reflect Tightened Priorities Amid Fiscal Uncertainty
 - <a href="https://spacenews.com/northrop-grumman-continues-solid-rocket-motor-development-and-test-program/" >🔗</a> **[SpaceNews]** Northrop Grumman continues solid rocket motor development and test program
+- <a href="https://science.nasa.gov/missions/hubble/hubble-spots-a-storm-of-new-stars/" >🔗</a> **[NASA]** Hubble Spots a Storm of New Stars
 - <a href="https://spacenews.com/orbex-trails-other-european-launcher-challenge-companies-as-u-k-delays-funding-decision/" >🔗</a> **[SpaceNews]** Orbex trails other European Launcher Challenge companies as U.K. delays funding decision
 - <a href="https://spacenews.com/china-faces-temporary-emergency-launch-gap-after-space-station-lifeboat-crisis/" >🔗</a> **[SpaceNews]** China faces temporary emergency launch gap after space station lifeboat crisis
 - <a href="https://spacenews.com/mobile-networks-want-to-use-the-satellite-airwaves-we-need-to-track-climate-change/" >🔗</a> **[SpaceNews]** Mobile networks want to use the satellite airwaves we need to track climate change
 - <a href="https://spacenews.com/surprisingly-this-space-economy-isnt-for-everyone/" >🔗</a> **[SpaceNews]** Surprisingly, this space economy isn’t for everyone
-- <a href="https://www.spacedaily.com/reports/Greece_deploys_first_national_ICEYE_radar_satellites_for_disaster_monitoring_999.html" >🔗</a> **[SpaceDaily]** Greece deploys first national ICEYE radar satellites for disaster monitoring
-- <a href="https://www.spacewar.com/reports/Small_satellite_mission_targets_maritime_activity_monitoring_from_orbit_999.html" >🔗</a> **[SpaceDaily]** Small satellite mission targets maritime activity monitoring from orbit
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251205T160154">2025-12-05 16:01:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251205T163851">2025-12-05 16:38:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
