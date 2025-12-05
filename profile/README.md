@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/castelion-raises-350-million-to-scale-hypersonic-missile-production/" >🔗</a> **[SpaceNews]** Castelion raises $350 million to scale hypersonic missile production
 - <a href="https://www.nasaspaceflight.com/2025/12/spacex-environmental-approval-starship-slc-37/" >🔗</a> **[NASASpaceflight]** SpaceX gets Environmental Approval for Starship at SLC-37
 - <a href="https://www.nasa.gov/general/nasa-wins-second-emmy-award-for-2024-total-solar-eclipse-broadcast/" >🔗</a> **[NASA]** NASA Wins Second Emmy Award for 2024 Total Solar Eclipse Broadcast
 - <a href="https://www.nasa.gov/image-article/testing-drones-for-mars-in-the-mojave-desert/" >🔗</a> **[NASA]** Testing Drones for Mars in the Mojave Desert
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/northrop-grumman-continues-solid-rocket-motor-development-and-test-program/" >🔗</a> **[SpaceNews]** Northrop Grumman continues solid rocket motor development and test program
 - <a href="https://science.nasa.gov/missions/hubble/hubble-spots-a-storm-of-new-stars/" >🔗</a> **[NASA]** Hubble Spots a Storm of New Stars
 - <a href="https://spacenews.com/orbex-trails-other-european-launcher-challenge-companies-as-u-k-delays-funding-decision/" >🔗</a> **[SpaceNews]** Orbex trails other European Launcher Challenge companies as U.K. delays funding decision
-- <a href="https://spacenews.com/china-faces-temporary-emergency-launch-gap-after-space-station-lifeboat-crisis/" >🔗</a> **[SpaceNews]** China faces temporary emergency launch gap after space station lifeboat crisis
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251205T220144">2025-12-05 22:01:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251205T223453">2025-12-05 22:34:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
