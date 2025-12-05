@@ -90,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.marsdaily.com/reports/Martian_butterfly_crater_reveals_low_angle_impact_and_buried_lava_history_999.html" >🔗</a> **[SpaceDaily]** Martian butterfly crater reveals low angle impact and buried lava history
-- <a href="https://www.spacedaily.com/reports/SwRI_links_Uranus_radiation_belt_mystery_to_solar_storm_driven_waves_999.html" >🔗</a> **[SpaceDaily]** SwRI links Uranus radiation belt mystery to solar storm driven waves
+- <a href="https://www.spacedaily.com/reports/Satellite_surge_threatens_space_telescopes_astronomers_warn_999.html" >🔗</a> **[SpaceDaily]** Satellite surge threatens space telescopes, astronomers warn
+- <a href="https://www.spacedaily.com/reports/Vast_spinning_galaxy_filament_mapped_in_nearby_Universe_999.html" >🔗</a> **[SpaceDaily]** Vast spinning galaxy filament mapped in nearby Universe
 - <a href="https://www.spacedaily.com/reports/Isolation_and_bed_rest_volunteers_sought_for_future_spaceflight_research_999.html" >🔗</a> **[SpaceDaily]** Isolation and bed rest volunteers sought for future spaceflight research
 - <a href="https://www.spacedaily.com/reports/Trump_NASA_nominee_aims_to_beat_China_in_new_Moon_race_999.html" >🔗</a> **[SpaceDaily]** Trump NASA nominee aims to beat China in new Moon race
-- <a href="https://www.spacedaily.com/reports/Vast_spinning_galaxy_filament_mapped_in_nearby_Universe_999.html" >🔗</a> **[SpaceDaily]** Vast spinning galaxy filament mapped in nearby Universe
+- <a href="https://www.spacedaily.com/reports/SwRI_links_Uranus_radiation_belt_mystery_to_solar_storm_driven_waves_999.html" >🔗</a> **[SpaceDaily]** SwRI links Uranus radiation belt mystery to solar storm driven waves
 - <a href="https://www.spacedaily.com/reports/European_rocket_puts_SKorean_satellite_in_orbit_999.html" >🔗</a> **[SpaceDaily]** European rocket puts S.Korean satellite in orbit
+- <a href="https://www.marsdaily.com/reports/Martian_butterfly_crater_reveals_low_angle_impact_and_buried_lava_history_999.html" >🔗</a> **[SpaceDaily]** Martian butterfly crater reveals low angle impact and buried lava history
 - <a href="https://arstechnica.com/space/2025/12/congress-told-there-needs-to-be-consequences-for-nasa-delays-amid-chinas-rise/" >🔗</a> **[Arstechnica]** Congress told there needs to be “consequences” for NASA delays amid China’s rise
 - <a href="https://spacenews.com/final-proposals-leave-spacex-and-amazon-with-4-of-20-billion-rural-broadband-subsidies/" >🔗</a> **[SpaceNews]** Final proposals leave SpaceX and Amazon with 4% of $20 billion rural broadband subsidies
 - <a href="https://spacenews.com/washington-harbour-deepens-space-portfolio-with-investment-in-trusted-space/" >🔗</a> **[SpaceNews]** Washington Harbour deepens space portfolio with investment in Trusted Space
-- <a href="https://spacenews.com/how-starlinks-explosive-growth-is-reshaping-connectivity-in-an-increasingly-connected-world/" >🔗</a> **[SpaceNews]** How Starlink’s explosive growth is reshaping connectivity in an increasingly connected world
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251205T021637">2025-12-05 02:16:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251205T025945">2025-12-05 02:59:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
