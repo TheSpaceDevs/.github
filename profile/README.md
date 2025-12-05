@@ -19,11 +19,11 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Kuaizhou-1A | Unknown Payload**. It is scheduled to be launched by *ExPace*
+**Hyperbola-1 | Unknown Payload**. It is scheduled to be launched by *i-Space*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
 from *<a href="https://en.wikipedia.org/wiki/Jiuquan_Satellite_Launch_Center">Launch Area 95A</a>, Jiuquan Satellite Launch Center, People's Republic of China*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251205T085400">2025-12-05 08:54:00 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251206T040000">2025-12-06 04:00:00 UTC</a>.  Until
 then, this pad will have been used for 62
 out of 267 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
@@ -36,7 +36,7 @@ into *an Unknown
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Kuaizhou" >
+  <a href="https://en.wikipedia.org/wiki/I-Space_(Chinese_company)" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
   <a href="https://www.google.com/maps?q=40.969117,100.343333" >
@@ -54,6 +54,7 @@ into *an Unknown
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251209T033300">2025-12-09 03:33:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2D | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20251209T033300Z%2F20251209T035600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2D | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251209T150000">2025-12-09 15:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 3B/E | Unknown Payload&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20251209T150000Z%2F20251209T155700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 3B/E | Unknown Payload** from Xichang Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251209T191600">2025-12-09 19:16:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | NROL-77&location=Cape Canaveral SFS, FL, USA&dates=20251209T191600Z%2F20251209T191600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | NROL-77** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251210T035400">2025-12-10 03:54:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Kinetica 1 | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20251210T035400Z%2F20251210T041500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Kinetica 1 | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -89,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.spacedaily.com/reports/Greece_deploys_first_national_ICEYE_radar_satellites_for_disaster_monitoring_999.html" >🔗</a> **[SpaceDaily]** Greece deploys first national ICEYE radar satellites for disaster monitoring
-- <a href="https://www.spacedaily.com/reports/NASA_extends_ISS_National_Lab_management_contract_through_2030_999.html" >🔗</a> **[SpaceDaily]** NASA extends ISS National Lab management contract through 2030
+- <a href="https://www.moondaily.com/reports/Congress_warned_that_the_U_S__faces_a_new_space_race_with_China_999.html" >🔗</a> **[SpaceDaily]** Congress warned that the U.S. faces a new space race with China
 - <a href="https://www.spacedaily.com/reports/UK_plasma_thruster_test_positions_Pulsar_Fusion_for_larger_satellite_propulsion_999.html" >🔗</a> **[SpaceDaily]** UK plasma thruster test positions Pulsar Fusion for larger satellite propulsion
 - <a href="https://www.spacedaily.com/reports/Gels_may_have_given_early_Earth_chemistry_a_place_to_organize_into_life_999.html" >🔗</a> **[SpaceDaily]** Gels may have given early Earth chemistry a place to organize into life
-- <a href="https://www.spacedaily.com/reports/Italian_Earth_observation_fleet_gains_eight_new_IRIDE_satellites_999.html" >🔗</a> **[SpaceDaily]** Italian Earth observation fleet gains eight new IRIDE satellites
 - <a href="https://www.spacewar.com/reports/Small_satellite_mission_targets_maritime_activity_monitoring_from_orbit_999.html" >🔗</a> **[SpaceDaily]** Small satellite mission targets maritime activity monitoring from orbit
-- <a href="https://www.moondaily.com/reports/Congress_warned_that_the_U_S__faces_a_new_space_race_with_China_999.html" >🔗</a> **[SpaceDaily]** Congress warned that the U.S. faces a new space race with China
+- <a href="https://www.spacedaily.com/reports/Italian_Earth_observation_fleet_gains_eight_new_IRIDE_satellites_999.html" >🔗</a> **[SpaceDaily]** Italian Earth observation fleet gains eight new IRIDE satellites
+- <a href="https://www.spacedaily.com/reports/Greece_deploys_first_national_ICEYE_radar_satellites_for_disaster_monitoring_999.html" >🔗</a> **[SpaceDaily]** Greece deploys first national ICEYE radar satellites for disaster monitoring
+- <a href="https://www.spacedaily.com/reports/NASA_extends_ISS_National_Lab_management_contract_through_2030_999.html" >🔗</a> **[SpaceDaily]** NASA extends ISS National Lab management contract through 2030
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/12/Hubble_reobserves_3I_ATLAS" >🔗</a> **[ESA]** Hubble reobserves 3I/ATLAS
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/12/Earth_from_Space_Singing_dunes_and_mysterious_lakes" >🔗</a> **[ESA]** Earth from Space: Singing dunes and mysterious lakes
 - <a href="https://spacepolicyonline.com/news/getting-back-to-the-moon-before-china-no-sure-bet/" >🔗</a> **[SpacePolicyOnline.com]** Getting Back to the Moon Before China No Sure Bet
-- <a href="https://www.spacedaily.com/reports/Satellite_surge_threatens_space_telescopes_astronomers_warn_999.html" >🔗</a> **[SpaceDaily]** Satellite surge threatens space telescopes, astronomers warn
-- <a href="https://www.spacedaily.com/reports/European_rocket_puts_SKorean_satellite_in_orbit_999.html" >🔗</a> **[SpaceDaily]** European rocket puts S.Korean satellite in orbit
 
 
 ### Launch-related News 🚀
@@ -107,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251205T090154">2025-12-05 09:01:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251205T093510">2025-12-05 09:35:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
