@@ -90,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacedaily.com/reports/Greece_deploys_first_national_ICEYE_radar_satellites_for_disaster_monitoring_999.html" >🔗</a> **[SpaceDaily]** Greece deploys first national ICEYE radar satellites for disaster monitoring
+- <a href="https://www.spacedaily.com/reports/NASA_extends_ISS_National_Lab_management_contract_through_2030_999.html" >🔗</a> **[SpaceDaily]** NASA extends ISS National Lab management contract through 2030
+- <a href="https://www.spacedaily.com/reports/UK_plasma_thruster_test_positions_Pulsar_Fusion_for_larger_satellite_propulsion_999.html" >🔗</a> **[SpaceDaily]** UK plasma thruster test positions Pulsar Fusion for larger satellite propulsion
+- <a href="https://www.spacedaily.com/reports/Gels_may_have_given_early_Earth_chemistry_a_place_to_organize_into_life_999.html" >🔗</a> **[SpaceDaily]** Gels may have given early Earth chemistry a place to organize into life
+- <a href="https://www.spacedaily.com/reports/Italian_Earth_observation_fleet_gains_eight_new_IRIDE_satellites_999.html" >🔗</a> **[SpaceDaily]** Italian Earth observation fleet gains eight new IRIDE satellites
+- <a href="https://www.spacewar.com/reports/Small_satellite_mission_targets_maritime_activity_monitoring_from_orbit_999.html" >🔗</a> **[SpaceDaily]** Small satellite mission targets maritime activity monitoring from orbit
+- <a href="https://www.moondaily.com/reports/Congress_warned_that_the_U_S__faces_a_new_space_race_with_China_999.html" >🔗</a> **[SpaceDaily]** Congress warned that the U.S. faces a new space race with China
 - <a href="https://spacepolicyonline.com/news/getting-back-to-the-moon-before-china-no-sure-bet/" >🔗</a> **[SpacePolicyOnline.com]** Getting Back to the Moon Before China No Sure Bet
 - <a href="https://www.spacedaily.com/reports/Satellite_surge_threatens_space_telescopes_astronomers_warn_999.html" >🔗</a> **[SpaceDaily]** Satellite surge threatens space telescopes, astronomers warn
 - <a href="https://www.spacedaily.com/reports/European_rocket_puts_SKorean_satellite_in_orbit_999.html" >🔗</a> **[SpaceDaily]** European rocket puts S.Korean satellite in orbit
-- <a href="https://www.spacedaily.com/reports/Trump_NASA_nominee_aims_to_beat_China_in_new_Moon_race_999.html" >🔗</a> **[SpaceDaily]** Trump NASA nominee aims to beat China in new Moon race
-- <a href="https://www.spacedaily.com/reports/Isolation_and_bed_rest_volunteers_sought_for_future_spaceflight_research_999.html" >🔗</a> **[SpaceDaily]** Isolation and bed rest volunteers sought for future spaceflight research
-- <a href="https://www.spacedaily.com/reports/Vast_spinning_galaxy_filament_mapped_in_nearby_Universe_999.html" >🔗</a> **[SpaceDaily]** Vast spinning galaxy filament mapped in nearby Universe
-- <a href="https://www.marsdaily.com/reports/Martian_butterfly_crater_reveals_low_angle_impact_and_buried_lava_history_999.html" >🔗</a> **[SpaceDaily]** Martian butterfly crater reveals low angle impact and buried lava history
-- <a href="https://www.spacedaily.com/reports/SwRI_links_Uranus_radiation_belt_mystery_to_solar_storm_driven_waves_999.html" >🔗</a> **[SpaceDaily]** SwRI links Uranus radiation belt mystery to solar storm driven waves
-- <a href="https://arstechnica.com/space/2025/12/congress-told-there-needs-to-be-consequences-for-nasa-delays-amid-chinas-rise/" >🔗</a> **[Arstechnica]** Congress told there needs to be “consequences” for NASA delays amid China’s rise
-- <a href="https://spacenews.com/final-proposals-leave-spacex-and-amazon-with-4-of-20-billion-rural-broadband-subsidies/" >🔗</a> **[SpaceNews]** Final proposals leave SpaceX and Amazon with 4% of $20 billion rural broadband subsidies
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251205T080153">2025-12-05 08:01:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251205T083856">2025-12-05 08:38:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
