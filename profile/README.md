@@ -90,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/northrop-grumman-continues-solid-rocket-motor-development-and-test-program/" >🔗</a> **[SpaceNews]** Northrop Grumman continues solid rocket motor development and test program
 - <a href="https://spacenews.com/orbex-trails-other-european-launcher-challenge-companies-as-u-k-delays-funding-decision/" >🔗</a> **[SpaceNews]** Orbex trails other European Launcher Challenge companies as U.K. delays funding decision
 - <a href="https://spacenews.com/china-faces-temporary-emergency-launch-gap-after-space-station-lifeboat-crisis/" >🔗</a> **[SpaceNews]** China faces temporary emergency launch gap after space station lifeboat crisis
 - <a href="https://spacenews.com/mobile-networks-want-to-use-the-satellite-airwaves-we-need-to-track-climate-change/" >🔗</a> **[SpaceNews]** Mobile networks want to use the satellite airwaves we need to track climate change
 - <a href="https://spacenews.com/surprisingly-this-space-economy-isnt-for-everyone/" >🔗</a> **[SpaceNews]** Surprisingly, this space economy isn’t for everyone
-- <a href="https://www.spacedaily.com/reports/Italian_Earth_observation_fleet_gains_eight_new_IRIDE_satellites_999.html" >🔗</a> **[SpaceDaily]** Italian Earth observation fleet gains eight new IRIDE satellites
 - <a href="https://www.spacedaily.com/reports/Greece_deploys_first_national_ICEYE_radar_satellites_for_disaster_monitoring_999.html" >🔗</a> **[SpaceDaily]** Greece deploys first national ICEYE radar satellites for disaster monitoring
+- <a href="https://www.spacedaily.com/reports/Italian_Earth_observation_fleet_gains_eight_new_IRIDE_satellites_999.html" >🔗</a> **[SpaceDaily]** Italian Earth observation fleet gains eight new IRIDE satellites
+- <a href="https://www.spacedaily.com/reports/UK_plasma_thruster_test_positions_Pulsar_Fusion_for_larger_satellite_propulsion_999.html" >🔗</a> **[SpaceDaily]** UK plasma thruster test positions Pulsar Fusion for larger satellite propulsion
 - <a href="https://www.spacewar.com/reports/Small_satellite_mission_targets_maritime_activity_monitoring_from_orbit_999.html" >🔗</a> **[SpaceDaily]** Small satellite mission targets maritime activity monitoring from orbit
 - <a href="https://www.moondaily.com/reports/Congress_warned_that_the_U_S__faces_a_new_space_race_with_China_999.html" >🔗</a> **[SpaceDaily]** Congress warned that the U.S. faces a new space race with China
-- <a href="https://www.spacedaily.com/reports/UK_plasma_thruster_test_positions_Pulsar_Fusion_for_larger_satellite_propulsion_999.html" >🔗</a> **[SpaceDaily]** UK plasma thruster test positions Pulsar Fusion for larger satellite propulsion
-- <a href="https://www.spacedaily.com/reports/NASA_extends_ISS_National_Lab_management_contract_through_2030_999.html" >🔗</a> **[SpaceDaily]** NASA extends ISS National Lab management contract through 2030
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251205T131045">2025-12-05 13:10:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251205T134009">2025-12-05 13:40:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
