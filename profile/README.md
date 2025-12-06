@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacescout.info/2025/12/sugars-essential-to-life-discovered-on-bennu/" >🔗</a> **[Space Scout]** Sugars Essential to Life Discovered on Bennu
 - <a href="https://www.nasa.gov/centers-and-facilities/jpl/invention-challenge-brings-student-engineers-to-nasa-jpl/" >🔗</a> **[NASA]** Invention Challenge Brings Student Engineers to NASA JPL
 - <a href="https://spacenews.com/castelion-raises-350-million-to-scale-hypersonic-missile-production/" >🔗</a> **[SpaceNews]** Castelion raises $350 million to scale hypersonic missile production
 - <a href="https://www.nasaspaceflight.com/2025/12/spacex-environmental-approval-starship-slc-37/" >🔗</a> **[NASASpaceflight]** SpaceX gets Environmental Approval for Starship at SLC-37
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_01-05_December_2025" >🔗</a> **[ESA]** Week in images: 01-05 December 2025
 - <a href="https://europeanspaceflight.com/uks-esa-funding-cuts-reflect-tightened-priorities-amid-fiscal-uncertainty/" >🔗</a> **[European Spaceflight]** UK’s ESA Funding Cuts Reflect Tightened Priorities Amid Fiscal Uncertainty
 - <a href="https://spacenews.com/northrop-grumman-continues-solid-rocket-motor-development-and-test-program/" >🔗</a> **[SpaceNews]** Northrop Grumman continues solid rocket motor development and test program
-- <a href="https://science.nasa.gov/missions/hubble/hubble-spots-a-storm-of-new-stars/" >🔗</a> **[NASA]** Hubble Spots a Storm of New Stars
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251206T170105">2025-12-06 17:01:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251206T173241">2025-12-06 17:32:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
