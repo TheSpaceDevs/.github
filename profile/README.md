@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacex-gets-approval-to-build-starship-launch-complex-at-cape-canaveral/" >🔗</a> **[SpaceNews]** SpaceX gets approval to build Starship launch complex at Cape Canaveral
 - <a href="https://www.spacescout.info/2025/12/sugars-essential-to-life-discovered-on-bennu/" >🔗</a> **[Space Scout]** Sugars Essential to Life Discovered on Bennu
 - <a href="https://www.nasa.gov/centers-and-facilities/jpl/invention-challenge-brings-student-engineers-to-nasa-jpl/" >🔗</a> **[NASA]** Invention Challenge Brings Student Engineers to NASA JPL
 - <a href="https://spacenews.com/castelion-raises-350-million-to-scale-hypersonic-missile-production/" >🔗</a> **[SpaceNews]** Castelion raises $350 million to scale hypersonic missile production
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/12/05/international-space-station-prepares-for-new-commander-heads-into-final-five-years-of-planned-operations/" >🔗</a> **[Spaceflight Now]** International Space Station prepares for new commander, heads into final five years of planned operations
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_01-05_December_2025" >🔗</a> **[ESA]** Week in images: 01-05 December 2025
 - <a href="https://europeanspaceflight.com/uks-esa-funding-cuts-reflect-tightened-priorities-amid-fiscal-uncertainty/" >🔗</a> **[European Spaceflight]** UK’s ESA Funding Cuts Reflect Tightened Priorities Amid Fiscal Uncertainty
-- <a href="https://spacenews.com/northrop-grumman-continues-solid-rocket-motor-development-and-test-program/" >🔗</a> **[SpaceNews]** Northrop Grumman continues solid rocket motor development and test program
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251206T210123">2025-12-06 21:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251206T213126">2025-12-06 21:31:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
