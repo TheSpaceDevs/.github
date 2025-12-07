@@ -45,7 +45,6 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251207T161300">2025-12-07 16:13:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 11-15&location=Vandenberg SFB, CA, USA&dates=20251207T161300Z%2F20251207T201300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 11-15** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251207T214000">2025-12-07 21:40:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-92&location=Kennedy Space Center, FL, USA&dates=20251207T214000Z%2F20251208T004000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-92** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251208T220300">2025-12-08 22:03:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 6A | Unknown Payload&location=Taiyuan Satellite Launch Center, People&#x27;s Republic of China&dates=20251208T220300Z%2F20251208T221900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 6A | Unknown Payload** from Taiyuan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251209T030000">2025-12-09 03:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Raise and Shine (RAISE-4)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20251209T030000Z%2F20251209T030000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Raise and Shine (RAISE-4)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
@@ -90,16 +89,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.robodaily.com/reports/Bio_hybrid_robots_turn_food_waste_into_functional_machines_999.html" >🔗</a> **[SpaceDaily]** Bio-hybrid robots turn food waste into functional machines
+- <a href="https://spaceflightnow.com/2025/12/07/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-6/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://www.spacedaily.com/reports/Stereo_solar_campaign_links_Inouye_and_Solar_Orbiter_data_on_tiny_campfires_999.html" >🔗</a> **[SpaceDaily]** Stereo solar campaign links Inouye and Solar Orbiter data on tiny 'campfires'
-- <a href="https://www.spacedaily.com/reports/Gravitational_wave_signals_reveal_dark_matter_around_black_holes_999.html" >🔗</a> **[SpaceDaily]** Gravitational wave signals reveal dark matter around black holes
+- <a href="https://www.spacedaily.com/reports/New_mass_measurements_refine_X_ray_burst_reaction_flow_999.html" >🔗</a> **[SpaceDaily]** New mass measurements refine X ray burst reaction flow
 - <a href="https://www.spacedaily.com/reports/Astronomers_tighten_expansion_rate_gap_in_universe_measurements_999.html" >🔗</a> **[SpaceDaily]** Astronomers tighten expansion rate gap in universe measurements
 - <a href="https://www.moondaily.com/reports/NASA_prepares_new_lunar_dust_and_seismic_studies_for_Artemis_IV_999.html" >🔗</a> **[SpaceDaily]** NASA prepares new lunar dust and seismic studies for Artemis IV
 - <a href="https://www.spacedaily.com/reports/Subaru_OASIS_survey_uncovers_massive_planet_and_brown_dwarf_999.html" >🔗</a> **[SpaceDaily]** Subaru OASIS survey uncovers massive planet and brown dwarf
-- <a href="https://www.spacedaily.com/reports/New_mass_measurements_refine_X_ray_burst_reaction_flow_999.html" >🔗</a> **[SpaceDaily]** New mass measurements refine X ray burst reaction flow
+- <a href="https://www.spacedaily.com/reports/Gravitational_wave_signals_reveal_dark_matter_around_black_holes_999.html" >🔗</a> **[SpaceDaily]** Gravitational wave signals reveal dark matter around black holes
 - <a href="https://www.spacedaily.com/reports/Sun_watcher_SOHO_celebrates_thirty_years_999.html" >🔗</a> **[SpaceDaily]** Sun-watcher SOHO celebrates thirty years
 - <a href="https://www.spacedaily.com/reports/Station_to_change_commanders_before_Soyuz_crew_leaves_orbit_999.html" >🔗</a> **[SpaceDaily]** ISS to change commanders before Soyuz crew leaves orbit
-- <a href="https://www.spacedaily.com/reports/UC_Davis_Designed_Digital_Twin_Successfully_Launched_and_Deployed_into_Space_999.html" >🔗</a> **[SpaceDaily]** Digital twin successfully launched and deployed into space
+- <a href="https://www.robodaily.com/reports/Bio_hybrid_robots_turn_food_waste_into_functional_machines_999.html" >🔗</a> **[SpaceDaily]** Bio-hybrid robots turn food waste into functional machines
 
 
 ### Launch-related News 🚀
@@ -110,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251207T160137">2025-12-07 16:01:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251207T163552">2025-12-07 16:35:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
