@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/12/07/live-coverage-spacex-to-launch-3000th-starlink-satellite-in-2025-on-record-setting-32nd-flight-of-falcon-9-booster/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 3,000th Starlink satellite in 2025 on record-setting 32nd flight of Falcon 9 booster
 - <a href="https://spacenews.com/guetlein-defends-golden-dome-secrecy-says-industry-is-well-informed-despite-criticism/" >🔗</a> **[SpaceNews]** Guetlein defends Golden Dome secrecy, says industry is ‘well informed’ despite criticism
 - <a href="https://spacenews.com/china-hearing-focuses-on-u-s-policy-shortfalls/" >🔗</a> **[SpaceNews]** China hearing focuses on U.S. policy shortfalls
 - <a href="https://spaceflightnow.com/2025/12/07/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-6/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
-- <a href="https://www.spacedaily.com/reports/Stereo_solar_campaign_links_Inouye_and_Solar_Orbiter_data_on_tiny_campfires_999.html" >🔗</a> **[SpaceDaily]** Stereo solar campaign links Inouye and Solar Orbiter data on tiny 'campfires'
 - <a href="https://www.moondaily.com/reports/NASA_prepares_new_lunar_dust_and_seismic_studies_for_Artemis_IV_999.html" >🔗</a> **[SpaceDaily]** NASA prepares new lunar dust and seismic studies for Artemis IV
 - <a href="https://www.spacedaily.com/reports/Subaru_OASIS_survey_uncovers_massive_planet_and_brown_dwarf_999.html" >🔗</a> **[SpaceDaily]** Subaru OASIS survey uncovers massive planet and brown dwarf
+- <a href="https://www.spacedaily.com/reports/Stereo_solar_campaign_links_Inouye_and_Solar_Orbiter_data_on_tiny_campfires_999.html" >🔗</a> **[SpaceDaily]** Stereo solar campaign links Inouye and Solar Orbiter data on tiny 'campfires'
+- <a href="https://www.spacedaily.com/reports/Station_to_change_commanders_before_Soyuz_crew_leaves_orbit_999.html" >🔗</a> **[SpaceDaily]** ISS to change commanders before Soyuz crew leaves orbit
 - <a href="https://www.spacedaily.com/reports/Astronomers_tighten_expansion_rate_gap_in_universe_measurements_999.html" >🔗</a> **[SpaceDaily]** Astronomers tighten expansion rate gap in universe measurements
 - <a href="https://www.spacedaily.com/reports/Sun_watcher_SOHO_celebrates_thirty_years_999.html" >🔗</a> **[SpaceDaily]** Sun-watcher SOHO celebrates thirty years
-- <a href="https://www.spacedaily.com/reports/Station_to_change_commanders_before_Soyuz_crew_leaves_orbit_999.html" >🔗</a> **[SpaceDaily]** ISS to change commanders before Soyuz crew leaves orbit
-- <a href="https://www.spacedaily.com/reports/New_mass_measurements_refine_X_ray_burst_reaction_flow_999.html" >🔗</a> **[SpaceDaily]** New mass measurements refine X ray burst reaction flow
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251207T200123">2025-12-07 20:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251207T203412">2025-12-07 20:34:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
