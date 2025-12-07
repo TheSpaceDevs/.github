@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/spacex-gets-approval-to-build-starship-launch-complex-at-cape-canaveral/" >🔗</a> **[SpaceNews]** SpaceX gets approval to build Starship launch complex at Cape Canaveral
-- <a href="https://www.spacescout.info/2025/12/sugars-essential-to-life-discovered-on-bennu/" >🔗</a> **[Space Scout]** Sugars Essential to Life Discovered on Bennu
-- <a href="https://www.nasa.gov/centers-and-facilities/jpl/invention-challenge-brings-student-engineers-to-nasa-jpl/" >🔗</a> **[NASA]** Invention Challenge Brings Student Engineers to NASA JPL
-- <a href="https://spacenews.com/castelion-raises-350-million-to-scale-hypersonic-missile-production/" >🔗</a> **[SpaceNews]** Castelion raises $350 million to scale hypersonic missile production
-- <a href="https://www.nasaspaceflight.com/2025/12/spacex-environmental-approval-starship-slc-37/" >🔗</a> **[NASASpaceflight]** SpaceX gets Environmental Approval for Starship at SLC-37
-- <a href="https://www.nasa.gov/general/nasa-wins-second-emmy-award-for-2024-total-solar-eclipse-broadcast/" >🔗</a> **[NASA]** NASA Wins Second Emmy Award for 2024 Total Solar Eclipse Broadcast
-- <a href="https://www.nasa.gov/image-article/testing-drones-for-mars-in-the-mojave-desert/" >🔗</a> **[NASA]** Testing Drones for Mars in the Mojave Desert
-- <a href="https://spaceflightnow.com/2025/12/05/international-space-station-prepares-for-new-commander-heads-into-final-five-years-of-planned-operations/" >🔗</a> **[Spaceflight Now]** International Space Station prepares for new commander, heads into final five years of planned operations
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_01-05_December_2025" >🔗</a> **[ESA]** Week in images: 01-05 December 2025
-- <a href="https://europeanspaceflight.com/uks-esa-funding-cuts-reflect-tightened-priorities-amid-fiscal-uncertainty/" >🔗</a> **[European Spaceflight]** UK’s ESA Funding Cuts Reflect Tightened Priorities Amid Fiscal Uncertainty
+- <a href="https://www.robodaily.com/reports/Bio_hybrid_robots_turn_food_waste_into_functional_machines_999.html" >🔗</a> **[SpaceDaily]** Bio-hybrid robots turn food waste into functional machines
+- <a href="https://www.spacedaily.com/reports/Stereo_solar_campaign_links_Inouye_and_Solar_Orbiter_data_on_tiny_campfires_999.html" >🔗</a> **[SpaceDaily]** Stereo solar campaign links Inouye and Solar Orbiter data on tiny 'campfires'
+- <a href="https://www.spacedaily.com/reports/Gravitational_wave_signals_reveal_dark_matter_around_black_holes_999.html" >🔗</a> **[SpaceDaily]** Gravitational wave signals reveal dark matter around black holes
+- <a href="https://www.spacedaily.com/reports/Astronomers_tighten_expansion_rate_gap_in_universe_measurements_999.html" >🔗</a> **[SpaceDaily]** Astronomers tighten expansion rate gap in universe measurements
+- <a href="https://www.moondaily.com/reports/NASA_prepares_new_lunar_dust_and_seismic_studies_for_Artemis_IV_999.html" >🔗</a> **[SpaceDaily]** NASA prepares new lunar dust and seismic studies for Artemis IV
+- <a href="https://www.spacedaily.com/reports/Subaru_OASIS_survey_uncovers_massive_planet_and_brown_dwarf_999.html" >🔗</a> **[SpaceDaily]** Subaru OASIS survey uncovers massive planet and brown dwarf
+- <a href="https://www.spacedaily.com/reports/New_mass_measurements_refine_X_ray_burst_reaction_flow_999.html" >🔗</a> **[SpaceDaily]** New mass measurements refine X ray burst reaction flow
+- <a href="https://www.spacedaily.com/reports/Sun_watcher_SOHO_celebrates_thirty_years_999.html" >🔗</a> **[SpaceDaily]** Sun-watcher SOHO celebrates thirty years
+- <a href="https://www.spacedaily.com/reports/Station_to_change_commanders_before_Soyuz_crew_leaves_orbit_999.html" >🔗</a> **[SpaceDaily]** ISS to change commanders before Soyuz crew leaves orbit
+- <a href="https://www.spacedaily.com/reports/UC_Davis_Designed_Digital_Twin_Successfully_Launched_and_Deployed_into_Space_999.html" >🔗</a> **[SpaceDaily]** Digital twin successfully launched and deployed into space
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251207T041059">2025-12-07 04:10:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251207T043949">2025-12-07 04:39:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
