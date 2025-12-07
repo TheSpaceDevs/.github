@@ -26,7 +26,7 @@ from *<a href="https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex
 at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251207T214000">2025-12-07 21:40:00 UTC</a>.  Until
 then, this pad will have been used for 219
 out of 277 launches from this location. The launch status is currently
-*Go* 🟩 . The mission type is
+*Hold* 🟪 . The mission type is
 *Communications* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251207T230136">2025-12-07 23:01:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251207T233155">2025-12-07 23:31:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
