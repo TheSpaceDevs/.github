@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/how-spain-and-poland-pushed-europes-new-priorities-with-record-contributions/" >🔗</a> **[SpaceNews]** How Spain and Poland pushed Europe’s new priorities with record contributions
 - <a href="https://spacenews.com/beyond-the-horizon-cost-driven-strategies-for-space-based-data-centers/" >🔗</a> **[SpaceNews]** Beyond the horizon: cost-driven strategies for space-based data centers
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/12/Galileo_Launch_History" >🔗</a> **[ESA]** Galileo Launch History
 - <a href="https://spacenews.com/study-quantifies-costs-of-eu-space-act-to-european-and-u-s-companies/" >🔗</a> **[SpaceNews]** Study quantifies costs of EU Space Act to European and U.S. companies
 - <a href="https://www.spacedaily.com/reports/Space_tested_menstrual_cup_backs_astronaut_health_on_long_missions_999.html" >🔗</a> **[SpaceDaily]** Space tested menstrual cup backs astronaut health on long missions
-- <a href="https://www.terradaily.com/reports/Spire_soil_data_to_support_conflict_early_warning_in_Ethiopias_Somali_Region_999.html" >🔗</a> **[SpaceDaily]** Spire soil data to support conflict early warning in Ethiopias Somali Region
 - <a href="https://www.spacedaily.com/reports/Quantum_fuzzy_spacetime_may_reshape_gravity_theory_999.html" >🔗</a> **[SpaceDaily]** Quantum fuzzy spacetime may reshape gravity theory
+- <a href="https://www.terradaily.com/reports/Spire_soil_data_to_support_conflict_early_warning_in_Ethiopias_Somali_Region_999.html" >🔗</a> **[SpaceDaily]** Spire soil data to support conflict early warning in Ethiopias Somali Region
 - <a href="https://europeanspaceflight.com/avio-secures-e35m-defence-contract-expects-e600m-in-new-esa-contracts/" >🔗</a> **[European Spaceflight]** Avio Secures €35M Defence Contract, Expects €600M in New ESA Contracts
 - <a href="https://spacenews.com/nasa-extends-agreement-with-casis-for-iss-national-lab/" >🔗</a> **[SpaceNews]** NASA extends agreement with CASIS for ISS national lab
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/artemis-ii-vehicle-manager-branelle-rodriguez-gets-orion-ready-for-go/" >🔗</a> **[NASA]** Artemis II Vehicle Manager Branelle Rodriguez Gets Orion Ready for “Go”
-- <a href="https://www.spacedaily.com/reports/Supernova_mixing_traced_as_source_of_key_life_elements_999.html" >🔗</a> **[SpaceDaily]** Supernova mixing traced as source of key life elements
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251208T160154">2025-12-08 16:01:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251208T163954">2025-12-08 16:39:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
