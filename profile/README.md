@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.spacedaily.com/reports/Cedars_Sinai_and_Exobiosphere_Partner_to_Launch_Biomedical_Research_Aboard_the_Vast_Haven_1_Space_Station_999.html" >🔗</a> **[SpaceDaily]** Cedars-Sinai and Exobiosphere Partner to Launch Biomedical Research Aboard the Vast Haven-1 Space Station
-- <a href="https://www.spacedaily.com/reports/Beyond_Gravity_positions_new_modular_satellite_platform_for_European_LEO_missions_999.html" >🔗</a> **[SpaceDaily]** Beyond Gravity positions new modular satellite platform for European LEO missions
-- <a href="https://www.spacedaily.com/reports/ONE_Bow_River_backs_Odyssey_Space_Research_growth_in_flight_software_and_mission_engineering_999.html" >🔗</a> **[SpaceDaily]** ONE Bow River backs Odyssey Space Research growth in flight software and mission engineering
-- <a href="https://www.spacedaily.com/reports/AAC_Clyde_Space_secures_ESA_funding_to_develop_Sirius_EDGE_on_board_computer_999.html" >🔗</a> **[SpaceDaily]** AAC Clyde Space secures ESA funding to develop Sirius EDGE on board computer
-- <a href="https://www.spacedaily.com/reports/ESO_signs_MOSAIC_deal_for_Extremely_Large_Telescope_spectrograph_999.html" >🔗</a> **[SpaceDaily]** ESO signs MOSAIC deal for Extremely Large Telescope spectrograph
+- <a href="https://www.spacedaily.com/reports/The_Worlds_Best_Golf_Resorts_Where_Luxury_Meets_the_Fairway_999.html" >🔗</a> **[SpaceDaily]** The World's Best Golf Resorts: Where Luxury Meets the Fairway
+- <a href="https://www.marsdaily.com/reports/Martian_sound_study_models_acoustic_signals_in_Jezero_crater_999.html" >🔗</a> **[SpaceDaily]** Martian sound study models acoustic signals in Jezero crater
+- <a href="https://www.spacedaily.com/reports/Methane_hint_on_TRAPPIST_1e_seen_as_likely_stellar_noise_not_proof_of_an_atmosphere_999.html" >🔗</a> **[SpaceDaily]** Methane hint on TRAPPIST 1e seen as likely stellar noise not proof of an atmosphere
+- <a href="https://www.spacedaily.com/reports/TRAPPIST_1_flares_mapped_to_probe_planetary_habitability_999.html" >🔗</a> **[SpaceDaily]** TRAPPIST 1 flares mapped to probe planetary habitability
+- <a href="https://www.spacedaily.com/reports/Supernova_mixing_traced_as_source_of_key_life_elements_999.html" >🔗</a> **[SpaceDaily]** Supernova mixing traced as source of key life elements
+- <a href="https://www.moondaily.com/reports/Astrobotic_lunar_surface_sensor_to_track_cislunar_traffic_and_security_999.html" >🔗</a> **[SpaceDaily]** Astrobotic lunar surface sensor to track cislunar traffic and security
 - <a href="https://www.spacedaily.com/reports/ArkEdge_boosts_6U_micro_satellite_fleet_with_three_satellite_AE5R_launch_999.html" >🔗</a> **[SpaceDaily]** ArkEdge boosts 6U micro-satellite fleet with three-satellite AE5R launch
-- <a href="https://www.spacedaily.com/reports/D_Orbit_launches_dual_orbital_transportation_missions_passes_200_payload_milestone_999.html" >🔗</a> **[SpaceDaily]** D-Orbit launches dual orbital transportation missions, passes 200-payload milestone
-- <a href="https://www.spacedaily.com/reports/NASA_backs_WHOI_effort_to_read_organic_signals_from_ocean_worlds_999.html" >🔗</a> **[SpaceDaily]** NASA backs WHOI effort to read organic signals from ocean worlds
+- <a href="https://www.spacedaily.com/reports/ESO_signs_MOSAIC_deal_for_Extremely_Large_Telescope_spectrograph_999.html" >🔗</a> **[SpaceDaily]** ESO signs MOSAIC deal for Extremely Large Telescope spectrograph
+- <a href="https://www.spacedaily.com/reports/Beyond_Gravity_positions_new_modular_satellite_platform_for_European_LEO_missions_999.html" >🔗</a> **[SpaceDaily]** Beyond Gravity positions new modular satellite platform for European LEO missions
 - <a href="https://www.spacedaily.com/reports/OroraTech_expands_GENA_satellite_platform_with_orbital_testbed_for_scientific_payloads_999.html" >🔗</a> **[SpaceDaily]** OroraTech expands GENA satellite platform with orbital testbed for scientific payloads
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-december-7-13-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy December 7-13, 2025
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251208T080200">2025-12-08 08:02:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251208T084117">2025-12-08 08:41:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
