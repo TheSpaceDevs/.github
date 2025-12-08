@@ -89,15 +89,15 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/pentagon-weighs-consolidation-of-diu-tech-portfolio/" >🔗</a> **[SpaceNews]** Pentagon weighs consolidation of DIU tech portfolio
 - <a href="https://spacenews.com/csf-expands-space-supply-chain-council-with-four-new-member-companies/" >🔗</a> **[SpaceNews]** CSF Expands Space Supply Chain Council with Four New Member Companies
 - <a href="https://www.nasa.gov/image-article/xrism-finds-chlorine-potassium-in-cas-a/" >🔗</a> **[NASA]** XRISM Finds Chlorine, Potassium in Cas A
 - <a href="https://spacenews.com/how-spain-and-poland-pushed-europes-new-priorities-with-record-contributions/" >🔗</a> **[SpaceNews]** How Spain and Poland pushed Europe’s new priorities with record contributions
 - <a href="https://spacenews.com/beyond-the-horizon-cost-driven-strategies-for-space-based-data-centers/" >🔗</a> **[SpaceNews]** Beyond the horizon: cost-driven strategies for space-based data centers
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/12/Galileo_Launch_History" >🔗</a> **[ESA]** Galileo Launch History
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/12/Galileo_launch_history" >🔗</a> **[ESA]** Galileo launch history
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/12/Galileo_Launch_History" >🔗</a> **[ESA]** Galileo Launch History
 - <a href="https://spacenews.com/study-quantifies-costs-of-eu-space-act-to-european-and-u-s-companies/" >🔗</a> **[SpaceNews]** Study quantifies costs of EU Space Act to European and U.S. companies
 - <a href="https://www.spacedaily.com/reports/Quantum_fuzzy_spacetime_may_reshape_gravity_theory_999.html" >🔗</a> **[SpaceDaily]** Quantum fuzzy spacetime may reshape gravity theory
-- <a href="https://www.spacedaily.com/reports/Space_tested_menstrual_cup_backs_astronaut_health_on_long_missions_999.html" >🔗</a> **[SpaceDaily]** Space tested menstrual cup backs astronaut health on long missions
 - <a href="https://www.terradaily.com/reports/Spire_soil_data_to_support_conflict_early_warning_in_Ethiopias_Somali_Region_999.html" >🔗</a> **[SpaceDaily]** Spire soil data to support conflict early warning in Ethiopias Somali Region
 
 
@@ -107,7 +107,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251208T213146">2025-12-08 21:31:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251208T220151">2025-12-08 22:01:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
