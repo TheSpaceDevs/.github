@@ -19,34 +19,34 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 6-92**. It is scheduled to be launched by *SpaceX*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39A">Launch Complex 39A</a>, Kennedy Space Center, FL, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251208T211400">2025-12-08 21:14:00 UTC</a>.  Until
-then, this pad will have been used for 219
-out of 277 launches from this location. The launch status is currently
+**Long March 6A | Unknown Payload**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+from *<a href="None">Launch Complex 9A</a>, Taiyuan Satellite Launch Center, People's Republic of China*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251208T220300">2025-12-08 22:03:00 UTC</a>.  Until
+then, this pad will have been used for 19
+out of 147 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Communications* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+*Unknown* and the payload will be injected
+into *an Unknown
+(N/A)*.
 <br>
 <blockquote>
-  A batch of 29 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  Details TBD.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+  <a href="https://en.wikipedia.org/wiki/Long_March_6" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.60822681,-80.60428186" >
+  <a href="https://www.google.com/maps?q=38.8583,111.5802" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251208T211400">2025-12-08 21:14:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-92&location=Kennedy Space Center, FL, USA&dates=20251208T211400Z%2F20251209T011400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-92** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251208T220300">2025-12-08 22:03:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 6A | Unknown Payload&location=Taiyuan Satellite Launch Center, People&#x27;s Republic of China&dates=20251208T220300Z%2F20251208T221900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 6A | Unknown Payload** from Taiyuan Satellite Launch Center, People's Republic of China.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251208T211400">2025-12-08 21:14:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-92&location=Kennedy Space Center, FL, USA&dates=20251208T211400Z%2F20251209T011400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-92** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251209T033300">2025-12-09 03:33:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2D | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20251209T033300Z%2F20251209T035600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2D | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251209T150000">2025-12-09 15:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 3B/E | Unknown Payload&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20251209T150000Z%2F20251209T155700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 3B/E | Unknown Payload** from Xichang Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251209T191600">2025-12-09 19:16:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | NROL-77&location=Cape Canaveral SFS, FL, USA&dates=20251209T191600Z%2F20251209T191600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | NROL-77** from Cape Canaveral SFS, FL, USA.
@@ -93,23 +93,22 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/how-spain-and-poland-pushed-europes-new-priorities-with-record-contributions/" >🔗</a> **[SpaceNews]** How Spain and Poland pushed Europe’s new priorities with record contributions
 - <a href="https://spacenews.com/beyond-the-horizon-cost-driven-strategies-for-space-based-data-centers/" >🔗</a> **[SpaceNews]** Beyond the horizon: cost-driven strategies for space-based data centers
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/12/Galileo_Launch_History" >🔗</a> **[ESA]** Galileo Launch History
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/12/Galileo_launch_history" >🔗</a> **[ESA]** Galileo launch history
 - <a href="https://spacenews.com/study-quantifies-costs-of-eu-space-act-to-european-and-u-s-companies/" >🔗</a> **[SpaceNews]** Study quantifies costs of EU Space Act to European and U.S. companies
 - <a href="https://www.spacedaily.com/reports/Space_tested_menstrual_cup_backs_astronaut_health_on_long_missions_999.html" >🔗</a> **[SpaceDaily]** Space tested menstrual cup backs astronaut health on long missions
-- <a href="https://www.spacedaily.com/reports/Quantum_fuzzy_spacetime_may_reshape_gravity_theory_999.html" >🔗</a> **[SpaceDaily]** Quantum fuzzy spacetime may reshape gravity theory
 - <a href="https://www.terradaily.com/reports/Spire_soil_data_to_support_conflict_early_warning_in_Ethiopias_Somali_Region_999.html" >🔗</a> **[SpaceDaily]** Spire soil data to support conflict early warning in Ethiopias Somali Region
+- <a href="https://www.spacedaily.com/reports/Quantum_fuzzy_spacetime_may_reshape_gravity_theory_999.html" >🔗</a> **[SpaceDaily]** Quantum fuzzy spacetime may reshape gravity theory
 - <a href="https://europeanspaceflight.com/avio-secures-e35m-defence-contract-expects-e600m-in-new-esa-contracts/" >🔗</a> **[European Spaceflight]** Avio Secures €35M Defence Contract, Expects €600M in New ESA Contracts
 - <a href="https://spacenews.com/nasa-extends-agreement-with-casis-for-iss-national-lab/" >🔗</a> **[SpaceNews]** NASA extends agreement with CASIS for ISS national lab
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/artemis-ii-vehicle-manager-branelle-rodriguez-gets-orion-ready-for-go/" >🔗</a> **[NASA]** Artemis II Vehicle Manager Branelle Rodriguez Gets Orion Ready for “Go”
 
 
 ### Launch-related News 🚀
 
-- <a href="https://www.nasaspaceflight.com/2025/12/launch-roundup-120125/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Launch manifest to feature 10 launches during first week of December
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251208T170235">2025-12-08 17:02:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251208T173507">2025-12-08 17:35:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
