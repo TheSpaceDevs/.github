@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacedaily.com/reports/Cedars_Sinai_and_Exobiosphere_Partner_to_Launch_Biomedical_Research_Aboard_the_Vast_Haven_1_Space_Station_999.html" >🔗</a> **[SpaceDaily]** Cedars-Sinai and Exobiosphere Partner to Launch Biomedical Research Aboard the Vast Haven-1 Space Station
+- <a href="https://www.spacedaily.com/reports/Beyond_Gravity_positions_new_modular_satellite_platform_for_European_LEO_missions_999.html" >🔗</a> **[SpaceDaily]** Beyond Gravity positions new modular satellite platform for European LEO missions
+- <a href="https://www.spacedaily.com/reports/ONE_Bow_River_backs_Odyssey_Space_Research_growth_in_flight_software_and_mission_engineering_999.html" >🔗</a> **[SpaceDaily]** ONE Bow River backs Odyssey Space Research growth in flight software and mission engineering
+- <a href="https://www.spacedaily.com/reports/AAC_Clyde_Space_secures_ESA_funding_to_develop_Sirius_EDGE_on_board_computer_999.html" >🔗</a> **[SpaceDaily]** AAC Clyde Space secures ESA funding to develop Sirius EDGE on board computer
+- <a href="https://www.spacedaily.com/reports/ESO_signs_MOSAIC_deal_for_Extremely_Large_Telescope_spectrograph_999.html" >🔗</a> **[SpaceDaily]** ESO signs MOSAIC deal for Extremely Large Telescope spectrograph
+- <a href="https://www.spacedaily.com/reports/ArkEdge_boosts_6U_micro_satellite_fleet_with_three_satellite_AE5R_launch_999.html" >🔗</a> **[SpaceDaily]** ArkEdge boosts 6U micro-satellite fleet with three-satellite AE5R launch
+- <a href="https://www.spacedaily.com/reports/D_Orbit_launches_dual_orbital_transportation_missions_passes_200_payload_milestone_999.html" >🔗</a> **[SpaceDaily]** D-Orbit launches dual orbital transportation missions, passes 200-payload milestone
+- <a href="https://www.spacedaily.com/reports/NASA_backs_WHOI_effort_to_read_organic_signals_from_ocean_worlds_999.html" >🔗</a> **[SpaceDaily]** NASA backs WHOI effort to read organic signals from ocean worlds
+- <a href="https://www.spacedaily.com/reports/OroraTech_expands_GENA_satellite_platform_with_orbital_testbed_for_scientific_payloads_999.html" >🔗</a> **[SpaceDaily]** OroraTech expands GENA satellite platform with orbital testbed for scientific payloads
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-december-7-13-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy December 7-13, 2025
-- <a href="https://spaceflightnow.com/2025/12/07/live-coverage-spacex-to-launch-3000th-starlink-satellite-in-2025-on-record-setting-32nd-flight-of-falcon-9-booster/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 3,000th Starlink satellite in 2025 on record-setting 32nd flight of Falcon 9 booster
-- <a href="https://spacenews.com/guetlein-defends-golden-dome-secrecy-says-industry-is-well-informed-despite-criticism/" >🔗</a> **[SpaceNews]** Guetlein defends Golden Dome secrecy, says industry is ‘well informed’ despite criticism
-- <a href="https://spacenews.com/china-hearing-focuses-on-u-s-policy-shortfalls/" >🔗</a> **[SpaceNews]** China hearing focuses on U.S. policy shortfalls
-- <a href="https://spaceflightnow.com/2025/12/07/live-coverage-spacex-to-launch-28-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-6/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 28 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
-- <a href="https://www.spacedaily.com/reports/Subaru_OASIS_survey_uncovers_massive_planet_and_brown_dwarf_999.html" >🔗</a> **[SpaceDaily]** Subaru OASIS survey uncovers massive planet and brown dwarf
-- <a href="https://www.moondaily.com/reports/NASA_prepares_new_lunar_dust_and_seismic_studies_for_Artemis_IV_999.html" >🔗</a> **[SpaceDaily]** NASA prepares new lunar dust and seismic studies for Artemis IV
-- <a href="https://www.spacedaily.com/reports/Stereo_solar_campaign_links_Inouye_and_Solar_Orbiter_data_on_tiny_campfires_999.html" >🔗</a> **[SpaceDaily]** Stereo solar campaign links Inouye and Solar Orbiter data on tiny 'campfires'
-- <a href="https://www.spacedaily.com/reports/Station_to_change_commanders_before_Soyuz_crew_leaves_orbit_999.html" >🔗</a> **[SpaceDaily]** ISS to change commanders before Soyuz crew leaves orbit
-- <a href="https://www.spacedaily.com/reports/Astronomers_tighten_expansion_rate_gap_in_universe_measurements_999.html" >🔗</a> **[SpaceDaily]** Astronomers tighten expansion rate gap in universe measurements
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251208T040907">2025-12-08 04:09:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251208T044048">2025-12-08 04:40:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
