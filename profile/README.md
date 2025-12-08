@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/12/launch-roundup-120825/" >🔗</a> **[NASASpaceflight]** Launch Roundup: China, Russia, Rocket Lab, ULA join SpaceX in flying this week
 - <a href="https://spacenews.com/pentagon-weighs-consolidation-of-diu-tech-portfolio/" >🔗</a> **[SpaceNews]** Pentagon weighs consolidation of DIU tech portfolio
 - <a href="https://spacenews.com/csf-expands-space-supply-chain-council-with-four-new-member-companies/" >🔗</a> **[SpaceNews]** CSF Expands Space Supply Chain Council with Four New Member Companies
 - <a href="https://www.nasa.gov/image-article/xrism-finds-chlorine-potassium-in-cas-a/" >🔗</a> **[NASA]** XRISM Finds Chlorine, Potassium in Cas A
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/12/Galileo_Launch_History" >🔗</a> **[ESA]** Galileo Launch History
 - <a href="https://spacenews.com/study-quantifies-costs-of-eu-space-act-to-european-and-u-s-companies/" >🔗</a> **[SpaceNews]** Study quantifies costs of EU Space Act to European and U.S. companies
 - <a href="https://www.spacedaily.com/reports/Quantum_fuzzy_spacetime_may_reshape_gravity_theory_999.html" >🔗</a> **[SpaceDaily]** Quantum fuzzy spacetime may reshape gravity theory
-- <a href="https://www.terradaily.com/reports/Spire_soil_data_to_support_conflict_early_warning_in_Ethiopias_Somali_Region_999.html" >🔗</a> **[SpaceDaily]** Spire soil data to support conflict early warning in Ethiopias Somali Region
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251208T230115">2025-12-08 23:01:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251208T233253">2025-12-08 23:32:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
