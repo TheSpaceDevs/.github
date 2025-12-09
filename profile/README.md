@@ -90,6 +90,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/schott-launches-high-performance-cover-glass-for-next-generation-space-solar-cells/" >🔗</a> **[SpaceNews]** SCHOTT launches high-performance cover glass for next-generation space solar cells
+- <a href="https://arstechnica.com/space/2025/12/in-a-major-new-report-scientists-build-rationale-for-sending-astronauts-to-mars/" >🔗</a> **[Arstechnica]** In a major new report, scientists build rationale for sending astronauts to Mars
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_identifies_earliest_supernova_to_date" >🔗</a> **[ESA]** Webb identifies earliest supernova to date
 - <a href="https://spacenews.com/trustpoint-sets-2027-target-for-initial-rollout-of-leo-based-navigation-services/" >🔗</a> **[SpaceNews]** TrustPoint sets 2027 target for initial rollout of LEO-based navigation services
 - <a href="https://www.nasa.gov/image-article/how-michelle-hoehn-turned-childhood-wonder-into-career/" >🔗</a> **[NASA]** How Louisiana Native Turned Childhood Wonder into NASA Stennis Career
 - <a href="https://spaceflightnow.com/2025/12/09/live-coverage-spacex-to-launch-classified-payload-for-the-national-reconnaissance-office/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch classified payload for the National Reconnaissance Office
@@ -97,9 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/america-must-stop-treating-chinas-lunar-plans-as-a-footrace/" >🔗</a> **[SpaceNews]** America must stop treating China’s lunar plans as a footrace
 - <a href="https://spaceflightnow.com/2025/12/09/soyuz-safely-lands-in-kazakhstan/" >🔗</a> **[Spaceflight Now]** Soyuz safely lands in Kazakhstan
 - <a href="https://europeanspaceflight.com/finlands-iceye-closes-e150-million-series-e-funding-round/" >🔗</a> **[European Spaceflight]** Finland’s ICEYE Closes €150 Million Series E Funding Round
-- <a href="https://spacenews.com/muon-space-to-develop-sensor-payload-for-missile-defense-satellites/" >🔗</a> **[SpaceNews]** Muon Space to develop sensor payload for missile defense satellites
-- <a href="https://spacenews.com/space-based-solar-power-startup-aetherflux-enters-orbital-data-center-race/" >🔗</a> **[SpaceNews]** Space-based solar power startup Aetherflux enters orbital data center race
-- <a href="https://www.spacedaily.com/reports/Sea_based_rocket_net_recovery_platform_enters_service_for_Chinese_reusable_launchers_999.html" >🔗</a> **[SpaceDaily]** Sea based rocket net recovery platform enters service for Chinese reusable launchers
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251209T160158">2025-12-09 16:01:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251209T163910">2025-12-09 16:39:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
