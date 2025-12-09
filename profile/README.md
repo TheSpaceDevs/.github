@@ -53,8 +53,8 @@ into *an Unknown
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251211T225300">2025-12-11 22:53:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 12 | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20251211T225300Z%2F20251211T232100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 12 | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251212T030000">2025-12-12 03:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Raise and Shine (RAISE-4)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20251212T030000Z%2F20251212T030000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Raise and Shine (RAISE-4)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251214T052000">2025-12-14 05:20:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 15-12&location=Vandenberg SFB, CA, USA&dates=20251214T052000Z%2F20251214T092000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 15-12** from Vandenberg SFB, CA, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251214T133700">2025-12-14 13:37:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-99&location=Kennedy Space Center, FL, USA&dates=20251214T133700Z%2F20251214T173700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-99** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251215T024300">2025-12-15 02:43:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-82&location=Cape Canaveral SFS, FL, USA&dates=20251215T024300Z%2F20251215T064300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-82** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251215T040000">2025-12-15 04:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Hyperbola-1 | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20251215T040000Z%2F20251215T060000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Hyperbola-1 | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,6 +90,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-safer-skies-for-future-urban-air-travel/" >🔗</a> **[NASA]** NASA Demonstrates Safer Skies for Future Urban Air Travel
+- <a href="https://www.nasa.gov/general/what-a-blast-nasa-langley-begins-plume-surface-interaction-tests/" >🔗</a> **[NASA]** What a Blast! NASA Langley Begins Plume-Surface Interaction Tests
+- <a href="https://www.nasaspaceflight.com/2025/12/lunar-outpost-mapp/" >🔗</a> **[NASASpaceflight]** Lunar Outpost’s MAPP Rovers: From Commercial Exploration to Artemis Integration
 - <a href="https://www.nasa.gov/general/painting-galaxy-clusters-by-numbers-and-physics/" >🔗</a> **[NASA]** Painting Galaxy Clusters by Numbers (and Physics)
 - <a href="https://spacenews.com/chinese-astronauts-inspect-debris-damaged-shenzhou-20-spacecraft-during-spacewalk/" >🔗</a> **[SpaceNews]** Chinese astronauts inspect debris-damaged Shenzhou-20 spacecraft during spacewalk
 - <a href="https://www.nasa.gov/image-article/sprites-over-chateau-de-beynac/" >🔗</a> **[NASA]** Sprites Over Château de Beynac
@@ -97,9 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/science-research/earth-science/new-nasa-sensor-goes-hunting-for-critical-minerals/" >🔗</a> **[NASA]** New NASA Sensor Goes Hunting for Critical Minerals
 - <a href="https://spacenews.com/schott-launches-high-performance-cover-glass-for-next-generation-space-solar-cells/" >🔗</a> **[SpaceNews]** SCHOTT launches high-performance cover glass for next-generation space solar cells
 - <a href="https://arstechnica.com/space/2025/12/in-a-major-new-report-scientists-build-rationale-for-sending-astronauts-to-mars/" >🔗</a> **[Arstechnica]** In a major new report, scientists build rationale for sending astronauts to Mars
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_identifies_earliest_supernova_to_date" >🔗</a> **[ESA]** Webb identifies earliest supernova to date
-- <a href="https://www.nasa.gov/image-article/how-michelle-hoehn-turned-childhood-wonder-into-career/" >🔗</a> **[NASA]** How Louisiana Native Turned Childhood Wonder into NASA Stennis Career
-- <a href="https://spacenews.com/trustpoint-sets-2027-target-for-initial-rollout-of-leo-based-navigation-services/" >🔗</a> **[SpaceNews]** TrustPoint sets 2027 target for initial rollout of LEO-based navigation services
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251209T220146">2025-12-09 22:01:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251209T223347">2025-12-09 22:33:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
