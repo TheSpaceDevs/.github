@@ -90,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacedaily.com/reports/Lodestar_Space_wins_SECP_support_to_advance_AI_satellite_awareness_system_999.html" >🔗</a> **[SpaceDaily]** Lodestar Space wins SECP support to advance AI satellite awareness system
+- <a href="https://www.spacedaily.com/reports/Applied_Aerospace_and_PCX_create_US_flight_and_space_hardware_group_999.html" >🔗</a> **[SpaceDaily]** Applied Aerospace and PCX create US flight and space hardware group
+- <a href="https://www.spacedaily.com/reports/Space_debris_looms_over_Googles_ambitious_orbital_AI_data_center_plan_999.html" >🔗</a> **[SpaceDaily]** Space debris looms over Google's ambitious orbital AI data center plan
+- <a href="https://www.spacedaily.com/reports/The_bacteria_that_wont_wake_up_found_in_spacecraft_cleanrooms_999.html" >🔗</a> **[SpaceDaily]** The bacteria that wont wake up found in spacecraft cleanrooms
+- <a href="https://www.spacedaily.com/reports/KATRIN_experiment_rules_out_favored_light_sterile_neutrino_region_999.html" >🔗</a> **[SpaceDaily]** KATRIN experiment rules out favored light sterile neutrino region
+- <a href="https://www.spacedaily.com/reports/Sea_based_rocket_net_recovery_platform_enters_service_for_Chinese_reusable_launchers_999.html" >🔗</a> **[SpaceDaily]** Sea based rocket net recovery platform enters service for Chinese reusable launchers
+- <a href="https://www.robodaily.com/reports/NASA_to_test_commercial_robotic_arm_in_orbit_to_advance_in_space_construction_999.html" >🔗</a> **[SpaceDaily]** NASA to test commercial robotic arm in orbit to advance in space construction
+- <a href="https://spacenews.com/china-launches-4-times-in-4-days-boosting-megaconstellation-and-surveillance-assets/" >🔗</a> **[SpaceNews]** China launches 4 times in 4 days, boosting megaconstellation and surveillance assets
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/12/Galileo_pre-launch_media_briefing" >🔗</a> **[ESA]** Galileo pre-launch media briefing
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/XMM-Newton/Flaring_black_hole_whips_up_ultra-fast_winds" >🔗</a> **[ESA]** Flaring black hole whips up ultra-fast winds
-- <a href="https://www.nasa.gov/news-release/nasa-astronaut-jonny-kim-crewmates-return-from-space-station/" >🔗</a> **[NASA]** NASA Astronaut Jonny Kim, Crewmates Return from Space Station
-- <a href="https://spacepolicyonline.com/news/soyuz-ms-27-back-on-terra-firma/" >🔗</a> **[SpacePolicyOnline.com]** Soyuz MS-27 Back on Terra Firma
-- <a href="https://spacenews.com/senate-committee-advances-isaacman-nomination-a-second-time/" >🔗</a> **[SpaceNews]** Senate committee advances Isaacman nomination a second time
-- <a href="https://www.spacedaily.com/reports/Neutron_Hungry_Hippo_fairing_completes_qualification_ahead_of_first_launch_999.html" >🔗</a> **[SpaceDaily]** Neutron Hungry Hippo fairing completes qualification ahead of first launch
-- <a href="https://www.spacedaily.com/reports/RISTRETTO_spectrograph_cleared_for_Proxima_b_atmospheric_hunt_999.html" >🔗</a> **[SpaceDaily]** RISTRETTO spectrograph cleared for Proxima b atmospheric hunt
-- <a href="https://www.spacedaily.com/reports/Nova_images_capture_complex_stellar_blast_behavior_999.html" >🔗</a> **[SpaceDaily]** Nova images capture complex stellar blast behavior
-- <a href="https://www.robodaily.com/reports/AI_advances_robot_navigation_on_the_International_Space_Station_999.html" >🔗</a> **[SpaceDaily]** AI advances robot navigation on the International Space Station
-- <a href="https://www.spacedaily.com/reports/Private_capital_targets_mission_critical_software_power_and_platforms_in_new_space_economy_999.html" >🔗</a> **[SpaceDaily]** Private capital targets mission-critical software power and platforms in new space economy
-- <a href="https://www.spacedaily.com/reports/Record_gamma_ray_burst_traced_to_dusty_massive_host_galaxy_999.html" >🔗</a> **[SpaceDaily]** Record gamma ray burst traced to dusty massive host galaxy
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251209T110111">2025-12-09 11:01:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251209T113319">2025-12-09 11:33:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
