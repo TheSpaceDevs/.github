@@ -90,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.spacedaily.com/reports/Lodestar_Space_wins_SECP_support_to_advance_AI_satellite_awareness_system_999.html" >🔗</a> **[SpaceDaily]** Lodestar Space wins SECP support to advance AI satellite awareness system
-- <a href="https://www.spacedaily.com/reports/Applied_Aerospace_and_PCX_create_US_flight_and_space_hardware_group_999.html" >🔗</a> **[SpaceDaily]** Applied Aerospace and PCX create US flight and space hardware group
-- <a href="https://www.spacedaily.com/reports/Space_debris_looms_over_Googles_ambitious_orbital_AI_data_center_plan_999.html" >🔗</a> **[SpaceDaily]** Space debris looms over Google's ambitious orbital AI data center plan
-- <a href="https://www.spacedaily.com/reports/The_bacteria_that_wont_wake_up_found_in_spacecraft_cleanrooms_999.html" >🔗</a> **[SpaceDaily]** The bacteria that wont wake up found in spacecraft cleanrooms
-- <a href="https://www.spacedaily.com/reports/KATRIN_experiment_rules_out_favored_light_sterile_neutrino_region_999.html" >🔗</a> **[SpaceDaily]** KATRIN experiment rules out favored light sterile neutrino region
+- <a href="https://spacenews.com/muon-space-to-develop-sensor-payload-for-missile-defense-satellites/" >🔗</a> **[SpaceNews]** Muon Space to develop sensor payload for missile defense satellites
+- <a href="https://spacenews.com/space-based-solar-power-startup-aetherflux-enters-orbital-data-center-race/" >🔗</a> **[SpaceNews]** Space-based solar power startup Aetherflux enters orbital data center race
 - <a href="https://www.spacedaily.com/reports/Sea_based_rocket_net_recovery_platform_enters_service_for_Chinese_reusable_launchers_999.html" >🔗</a> **[SpaceDaily]** Sea based rocket net recovery platform enters service for Chinese reusable launchers
+- <a href="https://www.spacedaily.com/reports/Applied_Aerospace_and_PCX_create_US_flight_and_space_hardware_group_999.html" >🔗</a> **[SpaceDaily]** Applied Aerospace and PCX create US flight and space hardware group
+- <a href="https://www.spacedaily.com/reports/KATRIN_experiment_rules_out_favored_light_sterile_neutrino_region_999.html" >🔗</a> **[SpaceDaily]** KATRIN experiment rules out favored light sterile neutrino region
+- <a href="https://www.spacedaily.com/reports/Space_debris_looms_over_Googles_ambitious_orbital_AI_data_center_plan_999.html" >🔗</a> **[SpaceDaily]** Space debris looms over Google's ambitious orbital AI data center plan
+- <a href="https://www.spacedaily.com/reports/Lodestar_Space_wins_SECP_support_to_advance_AI_satellite_awareness_system_999.html" >🔗</a> **[SpaceDaily]** Lodestar Space wins SECP support to advance AI satellite awareness system
+- <a href="https://www.spacedaily.com/reports/The_bacteria_that_wont_wake_up_found_in_spacecraft_cleanrooms_999.html" >🔗</a> **[SpaceDaily]** The bacteria that wont wake up found in spacecraft cleanrooms
 - <a href="https://www.robodaily.com/reports/NASA_to_test_commercial_robotic_arm_in_orbit_to_advance_in_space_construction_999.html" >🔗</a> **[SpaceDaily]** NASA to test commercial robotic arm in orbit to advance in space construction
 - <a href="https://spacenews.com/china-launches-4-times-in-4-days-boosting-megaconstellation-and-surveillance-assets/" >🔗</a> **[SpaceNews]** China launches 4 times in 4 days, boosting megaconstellation and surveillance assets
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/12/Galileo_pre-launch_media_briefing" >🔗</a> **[ESA]** Galileo pre-launch media briefing
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/XMM-Newton/Flaring_black_hole_whips_up_ultra-fast_winds" >🔗</a> **[ESA]** Flaring black hole whips up ultra-fast winds
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251209T120210">2025-12-09 12:02:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251209T124346">2025-12-09 12:43:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
