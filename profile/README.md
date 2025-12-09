@@ -90,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacedaily.com/reports/Record_gamma_ray_burst_traced_to_dusty_massive_host_galaxy_999.html" >🔗</a> **[SpaceDaily]** Record gamma ray burst traced to dusty massive host galaxy
+- <a href="https://www.spacedaily.com/reports/Gravitational_lens_time_delays_refine_Hubble_constant_999.html" >🔗</a> **[SpaceDaily]** Gravitational lens time delays refine Hubble constant
+- <a href="https://www.spacedaily.com/reports/RISTRETTO_spectrograph_cleared_for_Proxima_b_atmospheric_hunt_999.html" >🔗</a> **[SpaceDaily]** RISTRETTO spectrograph cleared for Proxima b atmospheric hunt
+- <a href="https://www.spacedaily.com/reports/Nova_images_capture_complex_stellar_blast_behavior_999.html" >🔗</a> **[SpaceDaily]** Nova images capture complex stellar blast behavior
+- <a href="https://www.spacedaily.com/reports/Neutron_Hungry_Hippo_fairing_completes_qualification_ahead_of_first_launch_999.html" >🔗</a> **[SpaceDaily]** Neutron Hungry Hippo fairing completes qualification ahead of first launch
+- <a href="https://www.spacedaily.com/reports/Private_capital_targets_mission_critical_software_power_and_platforms_in_new_space_economy_999.html" >🔗</a> **[SpaceDaily]** Private capital targets mission-critical software power and platforms in new space economy
+- <a href="https://www.robodaily.com/reports/AI_advances_robot_navigation_on_the_International_Space_Station_999.html" >🔗</a> **[SpaceDaily]** AI advances robot navigation on the International Space Station
+- <a href="https://www.spacedaily.com/reports/New_island_of_inversion_found_in_proton_neutron_symmetric_molybdenum_nuclei_999.html" >🔗</a> **[SpaceDaily]** New island of inversion found in proton neutron symmetric molybdenum nuclei
 - <a href="https://spacepolicyonline.com/news/isaacmans-nasa-nomination-clears-senate-commerce-committee-again/" >🔗</a> **[SpacePolicyOnline.com]** Isaacman’s NASA Nomination Clears Senate Commerce Committee Again
 - <a href="https://www.nasaspaceflight.com/2025/12/launch-roundup-120825/" >🔗</a> **[NASASpaceflight]** Launch Roundup: China, Russia, Rocket Lab, ULA join SpaceX in flying this week
-- <a href="https://spacenews.com/pentagon-weighs-consolidation-of-diu-tech-portfolio/" >🔗</a> **[SpaceNews]** Pentagon weighs consolidation of DIU tech portfolio
-- <a href="https://spacenews.com/csf-expands-space-supply-chain-council-with-four-new-member-companies/" >🔗</a> **[SpaceNews]** CSF Expands Space Supply Chain Council with Four New Member Companies
-- <a href="https://www.nasa.gov/image-article/xrism-finds-chlorine-potassium-in-cas-a/" >🔗</a> **[NASA]** XRISM Finds Chlorine, Potassium in Cas A
-- <a href="https://spacenews.com/how-spain-and-poland-pushed-europes-new-priorities-with-record-contributions/" >🔗</a> **[SpaceNews]** How Spain and Poland pushed Europe’s new priorities with record contributions
-- <a href="https://spacenews.com/beyond-the-horizon-cost-driven-strategies-for-space-based-data-centers/" >🔗</a> **[SpaceNews]** Beyond the horizon: cost-driven strategies for space-based data centers
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/12/Galileo_launch_history" >🔗</a> **[ESA]** Galileo launch history
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/12/Galileo_Launch_History" >🔗</a> **[ESA]** Galileo Launch History
-- <a href="https://spacenews.com/study-quantifies-costs-of-eu-space-act-to-european-and-u-s-companies/" >🔗</a> **[SpaceNews]** Study quantifies costs of EU Space Act to European and U.S. companies
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251209T025932">2025-12-09 02:59:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251209T033240">2025-12-09 03:32:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
