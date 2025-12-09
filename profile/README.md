@@ -90,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-astronaut-jonny-kim-crewmates-return-from-space-station/" >🔗</a> **[NASA]** NASA Astronaut Jonny Kim, Crewmates Return from Space Station
+- <a href="https://spacepolicyonline.com/news/soyuz-ms-27-back-on-terra-firma/" >🔗</a> **[SpacePolicyOnline.com]** Soyuz MS-27 Back on Terra Firma
 - <a href="https://spacenews.com/senate-committee-advances-isaacman-nomination-a-second-time/" >🔗</a> **[SpaceNews]** Senate committee advances Isaacman nomination a second time
 - <a href="https://www.spacedaily.com/reports/Gravitational_lens_time_delays_refine_Hubble_constant_999.html" >🔗</a> **[SpaceDaily]** Gravitational lens time delays refine Hubble constant
-- <a href="https://www.robodaily.com/reports/AI_advances_robot_navigation_on_the_International_Space_Station_999.html" >🔗</a> **[SpaceDaily]** AI advances robot navigation on the International Space Station
-- <a href="https://www.spacedaily.com/reports/Nova_images_capture_complex_stellar_blast_behavior_999.html" >🔗</a> **[SpaceDaily]** Nova images capture complex stellar blast behavior
 - <a href="https://www.spacedaily.com/reports/Neutron_Hungry_Hippo_fairing_completes_qualification_ahead_of_first_launch_999.html" >🔗</a> **[SpaceDaily]** Neutron Hungry Hippo fairing completes qualification ahead of first launch
 - <a href="https://www.spacedaily.com/reports/Private_capital_targets_mission_critical_software_power_and_platforms_in_new_space_economy_999.html" >🔗</a> **[SpaceDaily]** Private capital targets mission-critical software power and platforms in new space economy
-- <a href="https://www.spacedaily.com/reports/RISTRETTO_spectrograph_cleared_for_Proxima_b_atmospheric_hunt_999.html" >🔗</a> **[SpaceDaily]** RISTRETTO spectrograph cleared for Proxima b atmospheric hunt
+- <a href="https://www.spacedaily.com/reports/Nova_images_capture_complex_stellar_blast_behavior_999.html" >🔗</a> **[SpaceDaily]** Nova images capture complex stellar blast behavior
 - <a href="https://www.spacedaily.com/reports/New_island_of_inversion_found_in_proton_neutron_symmetric_molybdenum_nuclei_999.html" >🔗</a> **[SpaceDaily]** New island of inversion found in proton neutron symmetric molybdenum nuclei
 - <a href="https://www.spacedaily.com/reports/Record_gamma_ray_burst_traced_to_dusty_massive_host_galaxy_999.html" >🔗</a> **[SpaceDaily]** Record gamma ray burst traced to dusty massive host galaxy
-- <a href="https://spacepolicyonline.com/news/isaacmans-nasa-nomination-clears-senate-commerce-committee-again/" >🔗</a> **[SpacePolicyOnline.com]** Isaacman’s NASA Nomination Clears Senate Commerce Committee Again
+- <a href="https://www.robodaily.com/reports/AI_advances_robot_navigation_on_the_International_Space_Station_999.html" >🔗</a> **[SpaceDaily]** AI advances robot navigation on the International Space Station
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251209T060159">2025-12-09 06:01:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251209T064216">2025-12-09 06:42:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
