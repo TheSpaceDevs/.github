@@ -94,16 +94,16 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/retirement/" >🔗</a> **[NASA]** Retirement
+- <a href="https://spacenews.com/benchmark-demonstrates-high-throughput-ascent-thruster-in-hotfire-testing-at-edwards-air-force-base/" >🔗</a> **[SpaceNews]** Benchmark demonstrates high-throughput ASCENT thruster in hotfire testing at Edwards Air Force Base
+- <a href="https://spacenews.com/nasa-loses-contact-with-maven-mars-orbiter/" >🔗</a> **[SpaceNews]** NASA loses contact with MAVEN Mars orbiter
 - <a href="https://spacenews.com/overview-energy-demonstrates-technologies-for-space-solar-power/" >🔗</a> **[SpaceNews]** Overview Energy demonstrates technologies for space solar power
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/12/Shine_bright_like_a_satellite" >🔗</a> **[ESA]** Shine bright like a satellite
+- <a href="https://www.gpsdaily.com/reports/LEO_internet_satellites_bolster_navigation_where_GPS_is_weak_999.html" >🔗</a> **[SpaceDaily]** LEO internet satellites bolster navigation where GPS is weak
+- <a href="https://www.spacedaily.com/reports/MDA_Space_plans_C250_million_senior_unsecured_note_issue_maturing_2030_999.html" >🔗</a> **[SpaceDaily]** MDA Space plans C250 million senior unsecured note issue maturing 2030
 - <a href="https://www.robodaily.com/reports/MIT_engineers_design_an_aerial_microrobot_that_can_fly_as_fast_as_a_bumblebee_999.html" >🔗</a> **[SpaceDaily]** MIT engineers design an aerial microrobot that can fly as fast as a bumblebee
 - <a href="https://www.spacedaily.com/reports/Canadian_radar_satellite_contract_positions_MDA_Space_for_RADARSAT_replenishment_role_999.html" >🔗</a> **[SpaceDaily]** Canadian radar satellite contract positions MDA Space for RADARSAT replenishment role
-- <a href="https://www.spacedaily.com/reports/MDA_Space_plans_C250_million_senior_unsecured_note_issue_maturing_2030_999.html" >🔗</a> **[SpaceDaily]** MDA Space plans C250 million senior unsecured note issue maturing 2030
-- <a href="https://www.gpsdaily.com/reports/LEO_internet_satellites_bolster_navigation_where_GPS_is_weak_999.html" >🔗</a> **[SpaceDaily]** LEO internet satellites bolster navigation where GPS is weak
 - <a href="https://www.spacedaily.com/reports/Space_shuttle_design_study_maps_path_to_breakthrough_inventions_999.html" >🔗</a> **[SpaceDaily]** Space shuttle design study maps path to breakthrough inventions
-- <a href="https://www.spacedaily.com/reports/SLI_and_AscendArc_agree_on_200_million_GEO_satellite_leasing_framework_999.html" >🔗</a> **[SpaceDaily]** SLI and AscendArc agree on 200 million GEO satellite leasing framework
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Funding_boost_unlocks_future_space_science_programme" >🔗</a> **[ESA]** Funding boost unlocks future space science programme
-- <a href="https://europeanspaceflight.com/esa-publishes-call-for-crew-launch-abort-system/" >🔗</a> **[European Spaceflight]** ESA Publishes Call for Crew Launch Abort System
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251210T131300">2025-12-10 13:13:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251210T134141">2025-12-10 13:41:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
