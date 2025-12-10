@@ -94,6 +94,7 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/odin-space-raises-3-million-in-seed-funding/" >🔗</a> **[SpaceNews]** Odin Space raises $3 million in seed funding
 - <a href="https://www.nasa.gov/image-article/nasa-astronaut-jonny-kim-returns-to-earth/" >🔗</a> **[NASA]** NASA Astronaut Jonny Kim Returns to Earth
 - <a href="https://spacenews.com/how-multi-agent-ai-can-strengthen-space-missions-against-the-unknown/" >🔗</a> **[SpaceNews]** How multi-agent AI can strengthen space missions against the unknown
 - <a href="https://www.nasa.gov/general/retirement/" >🔗</a> **[NASA]** Retirement
@@ -103,7 +104,6 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/12/Shine_bright_like_a_satellite" >🔗</a> **[ESA]** Shine bright like a satellite
 - <a href="https://www.gpsdaily.com/reports/LEO_internet_satellites_bolster_navigation_where_GPS_is_weak_999.html" >🔗</a> **[SpaceDaily]** LEO internet satellites bolster navigation where GPS is weak
 - <a href="https://www.spacedaily.com/reports/MDA_Space_plans_C250_million_senior_unsecured_note_issue_maturing_2030_999.html" >🔗</a> **[SpaceDaily]** MDA Space plans C250 million senior unsecured note issue maturing 2030
-- <a href="https://www.robodaily.com/reports/MIT_engineers_design_an_aerial_microrobot_that_can_fly_as_fast_as_a_bumblebee_999.html" >🔗</a> **[SpaceDaily]** MIT engineers design an aerial microrobot that can fly as fast as a bumblebee
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251210T170321">2025-12-10 17:03:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251210T173708">2025-12-10 17:37:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
