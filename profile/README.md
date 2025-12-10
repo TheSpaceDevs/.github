@@ -19,27 +19,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Kinetica 1 | Unknown Payload**. It is scheduled to be launched by *CAS Space*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Jiuquan_Satellite_Launch_Center">Launch Area 130</a>, Jiuquan Satellite Launch Center, People's Republic of China*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251210T035400">2025-12-10 03:54:00 UTC</a>.  Until
-then, this pad will have been used for 10
-out of 269 launches from this location. The launch status is currently
+**Falcon 9 Block 5 | Starlink Group 15-11**. It is scheduled to be launched by *SpaceX*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251210T085400">2025-12-10 08:54:00 UTC</a>.  Until
+then, this pad will have been used for 235
+out of 849 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Unknown* and the payload will be injected
-into *an Unknown
-(N/A)*.
+*Communications* and the payload will be injected
+into *a Low Earth Orbit
+(LEO)*.
 <br>
 <blockquote>
-  Details TBD.
+  A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="None" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=40.8182,100.22514" >
+  <a href="https://www.google.com/maps?q=34.632,-120.611" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -54,6 +54,7 @@ into *an Unknown
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251215T024300">2025-12-15 02:43:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-82&location=Cape Canaveral SFS, FL, USA&dates=20251215T024300Z%2F20251215T064300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-82** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251215T040000">2025-12-15 04:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Hyperbola-1 | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20251215T040000Z%2F20251215T060000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Hyperbola-1 | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251215T084900">2025-12-15 08:49:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 551 | Amazon Leo (LA-04)&location=Cape Canaveral SFS, FL, USA&dates=20251215T084900Z%2F20251215T091800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 551 | Amazon Leo (LA-04)** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251215T122018">2025-12-15 12:20:18 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Proton-M/Blok DM-03 | Elektro-L No.5&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20251215T122018Z%2F20251215T122018Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Proton-M/Blok DM-03 | Elektro-L No.5** from Baikonur Cosmodrome, Republic of Kazakhstan.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -89,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/human-exploration-of-mars-gets-a-science-strategy/" >🔗</a> **[SpacePolicyOnline.com]** Human Exploration of Mars Gets a Science Strategy
 - <a href="https://spaceflightnow.com/2025/12/10/live-coverage-spacex-to-launch-160th-falcon-9-rocket-of-2025/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 160th Falcon 9 rocket of 2025
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-safer-skies-for-future-urban-air-travel/" >🔗</a> **[NASA]** NASA Demonstrates Safer Skies for Future Urban Air Travel
 - <a href="https://www.nasa.gov/general/what-a-blast-nasa-langley-begins-plume-surface-interaction-tests/" >🔗</a> **[NASA]** What a Blast! NASA Langley Begins Plume-Surface Interaction Tests
@@ -98,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/image-article/sprites-over-chateau-de-beynac/" >🔗</a> **[NASA]** Sprites Over Château de Beynac
 - <a href="https://spacenews.com/canada-picks-telesat-and-mda-to-study-arctic-military-communications-constellation/" >🔗</a> **[SpaceNews]** Canada picks Telesat and MDA to study Arctic military communications constellation
 - <a href="https://www.nasa.gov/science-research/earth-science/new-nasa-sensor-goes-hunting-for-critical-minerals/" >🔗</a> **[NASA]** New NASA Sensor Goes Hunting for Critical Minerals
-- <a href="https://spacenews.com/schott-launches-high-performance-cover-glass-for-next-generation-space-solar-cells/" >🔗</a> **[SpaceNews]** SCHOTT launches high-performance cover glass for next-generation space solar cells
 
 
 ### Launch-related News 🚀
@@ -108,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251210T040858">2025-12-10 04:08:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251210T044038">2025-12-10 04:40:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
