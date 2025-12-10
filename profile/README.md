@@ -89,16 +89,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.gpsdaily.com/reports/LEO_internet_satellites_bolster_navigation_where_GPS_is_weak_999.html" >🔗</a> **[SpaceDaily]** LEO internet satellites bolster navigation where GPS is weak
+- <a href="https://www.spacedaily.com/reports/MDA_Space_plans_C250_million_senior_unsecured_note_issue_maturing_2030_999.html" >🔗</a> **[SpaceDaily]** MDA Space plans C250 million senior unsecured note issue maturing 2030
+- <a href="https://www.robodaily.com/reports/MIT_engineers_design_an_aerial_microrobot_that_can_fly_as_fast_as_a_bumblebee_999.html" >🔗</a> **[SpaceDaily]** MIT engineers design an aerial microrobot that can fly as fast as a bumblebee
+- <a href="https://www.spacedaily.com/reports/Canadian_radar_satellite_contract_positions_MDA_Space_for_RADARSAT_replenishment_role_999.html" >🔗</a> **[SpaceDaily]** Canadian radar satellite contract positions MDA Space for RADARSAT replenishment role
+- <a href="https://www.spacedaily.com/reports/SLI_and_AscendArc_agree_on_200_million_GEO_satellite_leasing_framework_999.html" >🔗</a> **[SpaceDaily]** SLI and AscendArc agree on 200 million GEO satellite leasing framework
+- <a href="https://www.spacedaily.com/reports/Space_shuttle_design_study_maps_path_to_breakthrough_inventions_999.html" >🔗</a> **[SpaceDaily]** Space shuttle design study maps path to breakthrough inventions
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Funding_boost_unlocks_future_space_science_programme" >🔗</a> **[ESA]** Funding boost unlocks future space science programme
 - <a href="https://europeanspaceflight.com/esa-publishes-call-for-crew-launch-abort-system/" >🔗</a> **[European Spaceflight]** ESA Publishes Call for Crew Launch Abort System
 - <a href="https://spacepolicyonline.com/news/human-exploration-of-mars-gets-a-science-strategy/" >🔗</a> **[SpacePolicyOnline.com]** Human Exploration of Mars Gets a Science Strategy
 - <a href="https://spaceflightnow.com/2025/12/10/live-coverage-spacex-to-launch-160th-falcon-9-rocket-of-2025/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 160th Falcon 9 rocket of 2025
-- <a href="https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-safer-skies-for-future-urban-air-travel/" >🔗</a> **[NASA]** NASA Demonstrates Safer Skies for Future Urban Air Travel
-- <a href="https://www.nasa.gov/general/what-a-blast-nasa-langley-begins-plume-surface-interaction-tests/" >🔗</a> **[NASA]** What a Blast! NASA Langley Begins Plume-Surface Interaction Tests
-- <a href="https://www.nasaspaceflight.com/2025/12/lunar-outpost-mapp/" >🔗</a> **[NASASpaceflight]** Lunar Outpost’s MAPP Rovers: From Commercial Exploration to Artemis Integration
-- <a href="https://www.nasa.gov/general/painting-galaxy-clusters-by-numbers-and-physics/" >🔗</a> **[NASA]** Painting Galaxy Clusters by Numbers (and Physics)
-- <a href="https://spacenews.com/chinese-astronauts-inspect-debris-damaged-shenzhou-20-spacecraft-during-spacewalk/" >🔗</a> **[SpaceNews]** Chinese astronauts inspect debris-damaged Shenzhou-20 spacecraft during spacewalk
-- <a href="https://www.nasa.gov/image-article/sprites-over-chateau-de-beynac/" >🔗</a> **[NASA]** Sprites Over Château de Beynac
-- <a href="https://spacenews.com/canada-picks-telesat-and-mda-to-study-arctic-military-communications-constellation/" >🔗</a> **[SpaceNews]** Canada picks Telesat and MDA to study Arctic military communications constellation
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251210T100149">2025-12-10 10:01:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251210T103833">2025-12-10 10:38:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
