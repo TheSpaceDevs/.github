@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/esa-publishes-call-for-crew-launch-abort-system/" >🔗</a> **[European Spaceflight]** ESA Publishes Call for Crew Launch Abort System
 - <a href="https://spacepolicyonline.com/news/human-exploration-of-mars-gets-a-science-strategy/" >🔗</a> **[SpacePolicyOnline.com]** Human Exploration of Mars Gets a Science Strategy
 - <a href="https://spaceflightnow.com/2025/12/10/live-coverage-spacex-to-launch-160th-falcon-9-rocket-of-2025/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 160th Falcon 9 rocket of 2025
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-safer-skies-for-future-urban-air-travel/" >🔗</a> **[NASA]** NASA Demonstrates Safer Skies for Future Urban Air Travel
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/chinese-astronauts-inspect-debris-damaged-shenzhou-20-spacecraft-during-spacewalk/" >🔗</a> **[SpaceNews]** Chinese astronauts inspect debris-damaged Shenzhou-20 spacecraft during spacewalk
 - <a href="https://www.nasa.gov/image-article/sprites-over-chateau-de-beynac/" >🔗</a> **[NASA]** Sprites Over Château de Beynac
 - <a href="https://spacenews.com/canada-picks-telesat-and-mda-to-study-arctic-military-communications-constellation/" >🔗</a> **[SpaceNews]** Canada picks Telesat and MDA to study Arctic military communications constellation
-- <a href="https://www.nasa.gov/science-research/earth-science/new-nasa-sensor-goes-hunting-for-critical-minerals/" >🔗</a> **[NASA]** New NASA Sensor Goes Hunting for Critical Minerals
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251210T080155">2025-12-10 08:01:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251210T083958">2025-12-10 08:39:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
