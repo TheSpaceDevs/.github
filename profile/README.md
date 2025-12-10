@@ -94,6 +94,7 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/how-multi-agent-ai-can-strengthen-space-missions-against-the-unknown/" >🔗</a> **[SpaceNews]** How multi-agent AI can strengthen space missions against the unknown
 - <a href="https://www.nasa.gov/general/retirement/" >🔗</a> **[NASA]** Retirement
 - <a href="https://spacenews.com/benchmark-demonstrates-high-throughput-ascent-thruster-in-hotfire-testing-at-edwards-air-force-base/" >🔗</a> **[SpaceNews]** Benchmark demonstrates high-throughput ASCENT thruster in hotfire testing at Edwards Air Force Base
 - <a href="https://spacenews.com/nasa-loses-contact-with-maven-mars-orbiter/" >🔗</a> **[SpaceNews]** NASA loses contact with MAVEN Mars orbiter
@@ -103,7 +104,6 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 - <a href="https://www.spacedaily.com/reports/MDA_Space_plans_C250_million_senior_unsecured_note_issue_maturing_2030_999.html" >🔗</a> **[SpaceDaily]** MDA Space plans C250 million senior unsecured note issue maturing 2030
 - <a href="https://www.robodaily.com/reports/MIT_engineers_design_an_aerial_microrobot_that_can_fly_as_fast_as_a_bumblebee_999.html" >🔗</a> **[SpaceDaily]** MIT engineers design an aerial microrobot that can fly as fast as a bumblebee
 - <a href="https://www.spacedaily.com/reports/Canadian_radar_satellite_contract_positions_MDA_Space_for_RADARSAT_replenishment_role_999.html" >🔗</a> **[SpaceDaily]** Canadian radar satellite contract positions MDA Space for RADARSAT replenishment role
-- <a href="https://www.spacedaily.com/reports/Space_shuttle_design_study_maps_path_to_breakthrough_inventions_999.html" >🔗</a> **[SpaceDaily]** Space shuttle design study maps path to breakthrough inventions
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251210T140154">2025-12-10 14:01:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251210T143756">2025-12-10 14:37:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
