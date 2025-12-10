@@ -19,27 +19,31 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 15-11**. It is scheduled to be launched by *SpaceX*
+**Electron | Bridging The Swarm (NeonSat-1A)**. It is scheduled to be launched by *Rocket Lab*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251210T085400">2025-12-10 08:54:00 UTC</a>.  Until
-then, this pad will have been used for 235
-out of 849 launches from this location. The launch status is currently
+from *<a href="https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1">Rocket Lab Launch Complex 1A</a>, Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251211T004500">2025-12-11 00:45:00 UTC</a>.  Until
+then, this pad will have been used for 35
+out of 67 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Communications* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+*Earth Science* and the payload will be injected
+into *a Sun-Synchronous Orbit
+(SSO)*.
 <br>
 <blockquote>
-  A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  The NeonSat-1A, carrying a high-resolution optical camera, is designed to test the constellation capabilities of the South Korean government's Earth observation micro-satellite constellation NeonSat (New-space Earth Observation Satellite), in particular technology improvements identified from operations of NeonSat-1 after its launch in April 2024. These technologies will in turn be incorporated into the next 10 NeonSat under construction, as well as providing more site re-visiting capabilities along with NeonSat-1.
+
+The NeonSat constellation is the first satellite system developed by the government using a mass-production approach for precise monitoring of the Korean Peninsula, lead by the Satellite Technology Research Center (SaTReC) at the Korea Advanced Institute of Science and Technology (KAIST), Korea’s leading university dedicated to science and technology. Designed to capture near-real time natural disaster monitoring for the Korean peninsula, KAIST’s NEONSAT constellation is a collaboration across multiple Korean academic, industry, and research institutions, including SaTReC, which is leading the program’s system design and engineering. 
+
+The NEONSAT program is funded by the Korean government’s Ministry of Science and ICT (MSIT).
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+  <a href="https://en.wikipedia.org/wiki/Rocket_Lab_Electron" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=34.632,-120.611" >
+  <a href="https://www.google.com/maps?q=-39.262833,177.864469" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -54,6 +58,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251215T024300">2025-12-15 02:43:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-82&location=Cape Canaveral SFS, FL, USA&dates=20251215T024300Z%2F20251215T064300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-82** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251215T035800">2025-12-15 03:58:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ceres-2 | Demo Flight&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20251215T035800Z%2F20251215T042000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ceres-2 | Demo Flight** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251215T084900">2025-12-15 08:49:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 551 | Amazon Leo (LA-04)&location=Cape Canaveral SFS, FL, USA&dates=20251215T084900Z%2F20251215T091800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 551 | Amazon Leo (LA-04)** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251215T122018">2025-12-15 12:20:18 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Proton-M/Blok DM-03 | Elektro-L No.5&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20251215T122018Z%2F20251215T122018Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Proton-M/Blok DM-03 | Elektro-L No.5** from Baikonur Cosmodrome, Republic of Kazakhstan.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -89,26 +94,25 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.gpsdaily.com/reports/LEO_internet_satellites_bolster_navigation_where_GPS_is_weak_999.html" >🔗</a> **[SpaceDaily]** LEO internet satellites bolster navigation where GPS is weak
-- <a href="https://www.spacedaily.com/reports/MDA_Space_plans_C250_million_senior_unsecured_note_issue_maturing_2030_999.html" >🔗</a> **[SpaceDaily]** MDA Space plans C250 million senior unsecured note issue maturing 2030
+- <a href="https://spacenews.com/overview-energy-demonstrates-technologies-for-space-solar-power/" >🔗</a> **[SpaceNews]** Overview Energy demonstrates technologies for space solar power
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/12/Shine_bright_like_a_satellite" >🔗</a> **[ESA]** Shine bright like a satellite
 - <a href="https://www.robodaily.com/reports/MIT_engineers_design_an_aerial_microrobot_that_can_fly_as_fast_as_a_bumblebee_999.html" >🔗</a> **[SpaceDaily]** MIT engineers design an aerial microrobot that can fly as fast as a bumblebee
 - <a href="https://www.spacedaily.com/reports/Canadian_radar_satellite_contract_positions_MDA_Space_for_RADARSAT_replenishment_role_999.html" >🔗</a> **[SpaceDaily]** Canadian radar satellite contract positions MDA Space for RADARSAT replenishment role
-- <a href="https://www.spacedaily.com/reports/SLI_and_AscendArc_agree_on_200_million_GEO_satellite_leasing_framework_999.html" >🔗</a> **[SpaceDaily]** SLI and AscendArc agree on 200 million GEO satellite leasing framework
+- <a href="https://www.spacedaily.com/reports/MDA_Space_plans_C250_million_senior_unsecured_note_issue_maturing_2030_999.html" >🔗</a> **[SpaceDaily]** MDA Space plans C250 million senior unsecured note issue maturing 2030
+- <a href="https://www.gpsdaily.com/reports/LEO_internet_satellites_bolster_navigation_where_GPS_is_weak_999.html" >🔗</a> **[SpaceDaily]** LEO internet satellites bolster navigation where GPS is weak
 - <a href="https://www.spacedaily.com/reports/Space_shuttle_design_study_maps_path_to_breakthrough_inventions_999.html" >🔗</a> **[SpaceDaily]** Space shuttle design study maps path to breakthrough inventions
+- <a href="https://www.spacedaily.com/reports/SLI_and_AscendArc_agree_on_200_million_GEO_satellite_leasing_framework_999.html" >🔗</a> **[SpaceDaily]** SLI and AscendArc agree on 200 million GEO satellite leasing framework
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Funding_boost_unlocks_future_space_science_programme" >🔗</a> **[ESA]** Funding boost unlocks future space science programme
 - <a href="https://europeanspaceflight.com/esa-publishes-call-for-crew-launch-abort-system/" >🔗</a> **[European Spaceflight]** ESA Publishes Call for Crew Launch Abort System
-- <a href="https://spacepolicyonline.com/news/human-exploration-of-mars-gets-a-science-strategy/" >🔗</a> **[SpacePolicyOnline.com]** Human Exploration of Mars Gets a Science Strategy
-- <a href="https://spaceflightnow.com/2025/12/10/live-coverage-spacex-to-launch-160th-falcon-9-rocket-of-2025/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 160th Falcon 9 rocket of 2025
 
 
 ### Launch-related News 🚀
 
-- <a href="https://www.nasaspaceflight.com/2025/12/launch-roundup-120825/" >🔗</a> **[NASASpaceflight]** Launch Roundup: China, Russia, Rocket Lab, ULA join SpaceX in flying this week
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251210T120207">2025-12-10 12:02:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251210T124345">2025-12-10 12:43:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
