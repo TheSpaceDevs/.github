@@ -94,16 +94,16 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/voyager-wins-21-million-air-force-contract-for-ai-driven-signals-processing/" >🔗</a> **[SpaceNews]** Voyager wins $21 million Air Force contract for AI-driven signals processing
+- <a href="https://spacenews.com/multiple-space-companies-join-natos-diana-defense-accelerator/" >🔗</a> **[SpaceNews]** Multiple space companies join NATO’s DIANA defense accelerator
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/25-years-of-space-station-technology-driving-exploration/" >🔗</a> **[NASA]** 25 Years of Space Station Technology Driving Exploration
+- <a href="https://spacenews.com/delivering-the-next-generation-of-cloud-native-multi-orbit-ground-systems/" >🔗</a> **[SpaceNews]** Delivering the next generation of cloud-native, multi-orbit ground systems
 - <a href="https://arstechnica.com/space/2025/12/after-key-russian-launch-site-is-damaged-nasa-accelerates-dragon-supply-missions/" >🔗</a> **[Arstechnica]** After key Russian launch site is damaged, NASA accelerates Dragon supply missions
 - <a href="https://spacenews.com/helsing-and-kongsberg-plot-multi-mission-european-defense-space-network/" >🔗</a> **[SpaceNews]** Helsing and Kongsberg plot multi-mission European defense space network
 - <a href="https://spacenews.com/china-launches-new-tjs-satellite-commercial-kinetica-1-lofts-9-spacecraft/" >🔗</a> **[SpaceNews]** China launches new TJS satellite, commercial Kinetica-1 lofts 9 spacecraft
 - <a href="https://spacenews.com/colliding-space-debris-produces-radio-bursts-raising-prospect-of-debris-weather-alerts/" >🔗</a> **[SpaceNews]** Colliding space debris produces radio bursts, raising prospect of ‘debris weather’ alerts
 - <a href="https://spacenews.com/odin-space-raises-3-million-in-seed-funding/" >🔗</a> **[SpaceNews]** Odin Space raises $3 million in seed funding
 - <a href="https://www.nasa.gov/image-article/nasa-astronaut-jonny-kim-returns-to-earth/" >🔗</a> **[NASA]** NASA Astronaut Jonny Kim Returns to Earth
-- <a href="https://spacenews.com/how-multi-agent-ai-can-strengthen-space-missions-against-the-unknown/" >🔗</a> **[SpaceNews]** How multi-agent AI can strengthen space missions against the unknown
-- <a href="https://www.nasa.gov/general/retirement/" >🔗</a> **[NASA]** Retirement
-- <a href="https://spacenews.com/benchmark-demonstrates-high-throughput-ascent-thruster-in-hotfire-testing-at-edwards-air-force-base/" >🔗</a> **[SpaceNews]** Benchmark demonstrates high-throughput ASCENT thruster in hotfire testing at Edwards Air Force Base
-- <a href="https://spacenews.com/nasa-loses-contact-with-maven-mars-orbiter/" >🔗</a> **[SpaceNews]** NASA loses contact with MAVEN Mars orbiter
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251210T210123">2025-12-10 21:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251210T213550">2025-12-10 21:35:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
