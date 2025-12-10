@@ -94,6 +94,8 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/blue-origin-targets-four-flight-campaign-for-new-glenns-path-to-space-force-certification/" >🔗</a> **[SpaceNews]** Blue Origin targets four-flight campaign for New Glenn’s path to Space Force certification
+- <a href="https://arstechnica.com/space/2025/12/after-years-of-resisting-it-spacex-now-plans-to-go-public-why/" >🔗</a> **[Arstechnica]** After years of resisting it, SpaceX now plans to go public. Why?
 - <a href="https://spacenews.com/voyager-wins-21-million-air-force-contract-for-ai-driven-signals-processing/" >🔗</a> **[SpaceNews]** Voyager wins $21 million Air Force contract for AI-driven signals processing
 - <a href="https://spacenews.com/multiple-space-companies-join-natos-diana-defense-accelerator/" >🔗</a> **[SpaceNews]** Multiple space companies join NATO’s DIANA defense accelerator
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/25-years-of-space-station-technology-driving-exploration/" >🔗</a> **[NASA]** 25 Years of Space Station Technology Driving Exploration
@@ -102,8 +104,6 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 - <a href="https://spacenews.com/helsing-and-kongsberg-plot-multi-mission-european-defense-space-network/" >🔗</a> **[SpaceNews]** Helsing and Kongsberg plot multi-mission European defense space network
 - <a href="https://spacenews.com/china-launches-new-tjs-satellite-commercial-kinetica-1-lofts-9-spacecraft/" >🔗</a> **[SpaceNews]** China launches new TJS satellite, commercial Kinetica-1 lofts 9 spacecraft
 - <a href="https://spacenews.com/colliding-space-debris-produces-radio-bursts-raising-prospect-of-debris-weather-alerts/" >🔗</a> **[SpaceNews]** Colliding space debris produces radio bursts, raising prospect of ‘debris weather’ alerts
-- <a href="https://spacenews.com/odin-space-raises-3-million-in-seed-funding/" >🔗</a> **[SpaceNews]** Odin Space raises $3 million in seed funding
-- <a href="https://www.nasa.gov/image-article/nasa-astronaut-jonny-kim-returns-to-earth/" >🔗</a> **[NASA]** NASA Astronaut Jonny Kim Returns to Earth
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251210T230106">2025-12-10 23:01:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251210T233257">2025-12-10 23:32:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
