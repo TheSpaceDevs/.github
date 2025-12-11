@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/k2-space-raises-250-million-to-scale-high-power-satellite-line/" >🔗</a> **[SpaceNews]** K2 Space raises $250 million to scale high-power satellite line
+- <a href="https://www.nasa.gov/image-article/stellar-jet/" >🔗</a> **[NASA]** Stellar Jet
 - <a href="https://spacenews.com/bae-systems-wins-16-million-darpa-award-to-advance-autonomous-satellite-tasking/" >🔗</a> **[SpaceNews]** BAE Systems wins $16 million DARPA award to advance autonomous satellite tasking
 - <a href="https://spacenews.com/building-the-future-of-space-defense/" >🔗</a> **[SpaceNews]** Building the future of space defense
 - <a href="https://europeanspaceflight.com/the-exploration-company-is-developing-an-in-orbit-serving-vehicle/" >🔗</a> **[European Spaceflight]** The Exploration Company is Developing an In-Orbit Serving Vehicle
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/12/The_journey_of_Juice_episode_2" >🔗</a> **[ESA]** The journey of Juice – episode 2
 - <a href="https://spacenews.com/report-identifies-science-objectives-of-human-mars-exploration/" >🔗</a> **[SpaceNews]** Report identifies science objectives of human Mars exploration
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Swarm/Swarm_detects_rare_proton_spike_during_solar_storm" >🔗</a> **[ESA]** Swarm detects rare proton spike during solar storm
-- <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/Space-enabled_air_traffic_control_takes_flight_globally" >🔗</a> **[ESA]** Space-enabled air traffic control takes flight globally
-- <a href="https://www.spacedaily.com/reports/Triple_Long_March_launches_mark_record_day_for_Chinese_space_program_999.html" >🔗</a> **[SpaceDaily]** Triple Long March launches mark record day for Chinese space program
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251211T160159">2025-12-11 16:01:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251211T164142">2025-12-11 16:41:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
