@@ -19,39 +19,35 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Electron | Bridging The Swarm (NeonSat-1A)**. It is scheduled to be launched by *Rocket Lab*
+**Falcon 9 Block 5 | Starlink Group 6-90**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1">Rocket Lab Launch Complex 1A</a>, Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251211T005500">2025-12-11 00:55:00 UTC</a>.  Until
-then, this pad will have been used for 35
-out of 67 launches from this location. The launch status is currently
+from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral SFS, FL, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251211T185900">2025-12-11 18:59:00 UTC</a>.  Until
+then, this pad will have been used for 352
+out of 1073 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Earth Science* and the payload will be injected
-into *a Sun-Synchronous Orbit
-(SSO)*.
+*Communications* and the payload will be injected
+into *a Low Earth Orbit
+(LEO)*.
 <br>
 <blockquote>
-  The NeonSat-1A, carrying a high-resolution optical camera, is designed to test the constellation capabilities of the South Korean government's Earth observation micro-satellite constellation NeonSat (New-space Earth Observation Satellite), in particular technology improvements identified from operations of NeonSat-1 after its launch in April 2024. These technologies will in turn be incorporated into the next 10 NeonSat under construction, as well as providing more site re-visiting capabilities along with NeonSat-1.
-
-The NeonSat constellation is the first satellite system developed by the government using a mass-production approach for precise monitoring of the Korean Peninsula, lead by the Satellite Technology Research Center (SaTReC) at the Korea Advanced Institute of Science and Technology (KAIST), Korea’s leading university dedicated to science and technology. Designed to capture near-real time natural disaster monitoring for the Korean peninsula, KAIST’s NEONSAT constellation is a collaboration across multiple Korean academic, industry, and research institutions, including SaTReC, which is leading the program’s system design and engineering. 
-
-The NEONSAT program is funded by the Korean government’s Ministry of Science and ICT (MSIT).
+  A batch of 29 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Rocket_Lab_Electron" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=-39.262833,177.864469" >
+  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251211T005500">2025-12-11 00:55:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Bridging The Swarm (NeonSat-1A)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20251211T005500Z%2F20251211T005500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Bridging The Swarm (NeonSat-1A)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251211T185900">2025-12-11 18:59:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-90&location=Cape Canaveral SFS, FL, USA&dates=20251211T185900Z%2F20251211T225900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-90** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251211T225300">2025-12-11 22:53:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 12 | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20251211T225300Z%2F20251211T232100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 12 | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251212T005500">2025-12-12 00:55:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Bridging The Swarm (NeonSat-1A)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20251212T005500Z%2F20251212T005500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Bridging The Swarm (NeonSat-1A)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251213T010000">2025-12-13 01:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 6 | Unknown Payload&location=Taiyuan Satellite Launch Center, People&#x27;s Republic of China&dates=20251213T010000Z%2F20251213T014400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 6 | Unknown Payload** from Taiyuan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251213T030000">2025-12-13 03:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Raise and Shine (RAISE-4)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20251213T030000Z%2F20251213T030000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Raise and Shine (RAISE-4)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251214T052000">2025-12-14 05:20:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 15-12&location=Vandenberg SFB, CA, USA&dates=20251214T052000Z%2F20251214T092000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 15-12** from Vandenberg SFB, CA, USA.
@@ -94,6 +90,7 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasa-jpl-unveils-rover-operations-center-for-moon-mars-missions/" >🔗</a> **[NASA]** NASA JPL Unveils Rover Operations Center for Moon, Mars Missions
 - <a href="https://spacepolicyonline.com/news/chinese-spacewalkers-inspect-damaged-shenzhou-20-window/" >🔗</a> **[SpacePolicyOnline.com]** Chinese Spacewalkers Inspect Damaged Shenzhou-20 Window
 - <a href="https://spacenews.com/l3harris-satellite-jamming-system-approved-for-export-to-close-u-s-allies/" >🔗</a> **[SpaceNews]** L3Harris satellite-jamming system approved for export to close U.S. allies
 - <a href="https://spacenews.com/blue-origin-targets-four-flight-campaign-for-new-glenns-path-to-space-force-certification/" >🔗</a> **[SpaceNews]** Blue Origin targets four-flight campaign for New Glenn’s path to Space Force certification
@@ -103,16 +100,16 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/25-years-of-space-station-technology-driving-exploration/" >🔗</a> **[NASA]** 25 Years of Space Station Technology Driving Exploration
 - <a href="https://spacenews.com/delivering-the-next-generation-of-cloud-native-multi-orbit-ground-systems/" >🔗</a> **[SpaceNews]** Delivering the next generation of cloud-native, multi-orbit ground systems
 - <a href="https://arstechnica.com/space/2025/12/after-key-russian-launch-site-is-damaged-nasa-accelerates-dragon-supply-missions/" >🔗</a> **[Arstechnica]** After key Russian launch site is damaged, NASA accelerates Dragon supply missions
-- <a href="https://spacenews.com/helsing-and-kongsberg-plot-multi-mission-european-defense-space-network/" >🔗</a> **[SpaceNews]** Helsing and Kongsberg plot multi-mission European defense space network
 
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2025/12/launch-roundup-120825/" >🔗</a> **[NASASpaceflight]** Launch Roundup: China, Russia, Rocket Lab, ULA join SpaceX in flying this week
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251211T004614">2025-12-11 00:46:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251211T012913">2025-12-11 01:29:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
