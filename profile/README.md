@@ -89,6 +89,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacex-ipo-plan-sets-stage-for-a-surge-of-other-space-listings/" >🔗</a> **[SpaceNews]** SpaceX IPO plan sets stage for a surge of other space listings
 - <a href="https://www.nasa.gov/aeronautics/nasa-works-with-boeing/" >🔗</a> **[NASA]** NASA Works with Boeing, Other Collaborators Toward More Efficient Global Flights
 - <a href="https://www.nasa.gov/missions/chandra/nasas-chandra-finds-small-galaxies-may-buck-the-black-hole-trend/" >🔗</a> **[NASA]** NASA’s Chandra Finds Small Galaxies May Buck the Black Hole Trend
 - <a href="https://spacenews.com/k2-space-raises-250-million-to-scale-high-power-satellite-line/" >🔗</a> **[SpaceNews]** K2 Space raises $250 million to scale high-power satellite line
@@ -98,7 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/missions/webb/nasas-webb-detects-thick-atmosphere-around-broiling-lava-world/" >🔗</a> **[NASA]** NASA’s Webb Detects Thick Atmosphere Around Broiling Lava World
 - <a href="https://spacenews.com/building-the-future-of-space-defense/" >🔗</a> **[SpaceNews]** Building the future of space defense
 - <a href="https://europeanspaceflight.com/the-exploration-company-is-developing-an-in-orbit-serving-vehicle/" >🔗</a> **[European Spaceflight]** The Exploration Company is Developing an In-Orbit Serving Vehicle
-- <a href="https://spacenews.com/the-u-s-race-to-the-moon-why-plan-b-cannot-wait/" >🔗</a> **[SpaceNews]** The U.S. race to the moon: Why Plan B cannot wait
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251211T200149">2025-12-11 20:01:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251211T203522">2025-12-11 20:35:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
