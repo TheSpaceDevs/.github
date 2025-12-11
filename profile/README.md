@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/enduralock-validates-onelink-prototype-in-zero-g-simulation/" >🔗</a> **[SpaceNews]** Enduralock Validates OneLink™ Prototype in Zero-G Simulation
+- <a href="https://spacenews.com/bae-systems-wins-16-million-darpa-award-to-advance-autonomous-satellite-tasking/" >🔗</a> **[SpaceNews]** BAE Systems wins $16 million DARPA award to advance autonomous satellite tasking
+- <a href="https://spacenews.com/building-the-future-of-space-defense/" >🔗</a> **[SpaceNews]** Building the future of space defense
+- <a href="https://europeanspaceflight.com/the-exploration-company-is-developing-an-in-orbit-serving-vehicle/" >🔗</a> **[European Spaceflight]** The Exploration Company is Developing an In-Orbit Serving Vehicle
 - <a href="https://spacenews.com/the-u-s-race-to-the-moon-why-plan-b-cannot-wait/" >🔗</a> **[SpaceNews]** The U.S. race to the moon: Why Plan B cannot wait
+- <a href="https://spacenews.com/enduralock-validates-onelink-prototype-in-zero-g-simulation/" >🔗</a> **[SpaceNews]** Enduralock Validates OneLink™ Prototype in Zero-G Simulation
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/12/The_journey_of_Juice_episode_2" >🔗</a> **[ESA]** The journey of Juice – episode 2
 - <a href="https://spacenews.com/report-identifies-science-objectives-of-human-mars-exploration/" >🔗</a> **[SpaceNews]** Report identifies science objectives of human Mars exploration
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Swarm/Swarm_detects_rare_proton_spike_during_solar_storm" >🔗</a> **[ESA]** Swarm detects rare proton spike during solar storm
 - <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/Space-enabled_air_traffic_control_takes_flight_globally" >🔗</a> **[ESA]** Space-enabled air traffic control takes flight globally
 - <a href="https://www.spacedaily.com/reports/Triple_Long_March_launches_mark_record_day_for_Chinese_space_program_999.html" >🔗</a> **[SpaceDaily]** Triple Long March launches mark record day for Chinese space program
-- <a href="https://www.spacedaily.com/reports/ICE_CSIC_leads_a_pioneering_study_on_the_feasibility_of_asteroid_mining_999.html" >🔗</a> **[SpaceDaily]** ICE-CSIC leads a pioneering study on the feasibility of asteroid mining
-- <a href="https://www.spacedaily.com/reports/China_prepares_Qingzhou_cargo_ship_for_low_cost_resupply_flights_999.html" >🔗</a> **[SpaceDaily]** China prepares Qingzhou cargo ship for low cost resupply flights
-- <a href="https://www.spacedaily.com/reports/Solar_ghost_particles_seen_flipping_carbon_atoms_in_underground_detector_999.html" >🔗</a> **[SpaceDaily]** Solar ghost particles seen flipping carbon atoms in underground detector
-- <a href="https://www.spacedaily.com/reports/Foreign_satellites_ride_Kinetica_1_on_new_CAS_Space_mission_999.html" >🔗</a> **[SpaceDaily]** Foreign satellites ride Kinetica 1 on new CAS Space mission
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251211T150120">2025-12-11 15:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251211T153747">2025-12-11 15:37:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
