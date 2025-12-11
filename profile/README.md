@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/12/blue-origins-cape-campus-expand-new-glenn-ramp/" >🔗</a> **[NASASpaceflight]** Blue Origin’s Cape Campus continues to expand ahead of New Glenn ramp-up
 - <a href="https://spacenews.com/geo-satellite-refueling-a-priority-for-national-security-commercial-markets-new-analysis-finds/" >🔗</a> **[SpaceNews]** GEO satellite refueling a priority for national security, commercial markets, new analysis finds
 - <a href="https://spaceflightnow.com/2025/12/11/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-5/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasa-jpl-unveils-rover-operations-center-for-moon-mars-missions/" >🔗</a> **[NASA]** NASA JPL Unveils Rover Operations Center for Moon, Mars Missions
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2025/12/after-years-of-resisting-it-spacex-now-plans-to-go-public-why/" >🔗</a> **[Arstechnica]** After years of resisting it, SpaceX now plans to go public. Why?
 - <a href="https://spacenews.com/voyager-wins-21-million-air-force-contract-for-ai-driven-signals-processing/" >🔗</a> **[SpaceNews]** Voyager wins $21 million Air Force contract for AI-driven signals processing
 - <a href="https://spacenews.com/multiple-space-companies-join-natos-diana-defense-accelerator/" >🔗</a> **[SpaceNews]** Multiple space companies join NATO’s DIANA defense accelerator
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/25-years-of-space-station-technology-driving-exploration/" >🔗</a> **[NASA]** 25 Years of Space Station Technology Driving Exploration
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251211T030213">2025-12-11 03:02:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251211T034844">2025-12-11 03:48:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
