@@ -94,6 +94,8 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/chinese-spacewalkers-inspect-damaged-shenzhou-20-window/" >🔗</a> **[SpacePolicyOnline.com]** Chinese Spacewalkers Inspect Damaged Shenzhou-20 Window
+- <a href="https://spacenews.com/l3harris-satellite-jamming-system-approved-for-export-to-close-u-s-allies/" >🔗</a> **[SpaceNews]** L3Harris satellite-jamming system approved for export to close U.S. allies
 - <a href="https://spacenews.com/blue-origin-targets-four-flight-campaign-for-new-glenns-path-to-space-force-certification/" >🔗</a> **[SpaceNews]** Blue Origin targets four-flight campaign for New Glenn’s path to Space Force certification
 - <a href="https://arstechnica.com/space/2025/12/after-years-of-resisting-it-spacex-now-plans-to-go-public-why/" >🔗</a> **[Arstechnica]** After years of resisting it, SpaceX now plans to go public. Why?
 - <a href="https://spacenews.com/voyager-wins-21-million-air-force-contract-for-ai-driven-signals-processing/" >🔗</a> **[SpaceNews]** Voyager wins $21 million Air Force contract for AI-driven signals processing
@@ -102,8 +104,6 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 - <a href="https://spacenews.com/delivering-the-next-generation-of-cloud-native-multi-orbit-ground-systems/" >🔗</a> **[SpaceNews]** Delivering the next generation of cloud-native, multi-orbit ground systems
 - <a href="https://arstechnica.com/space/2025/12/after-key-russian-launch-site-is-damaged-nasa-accelerates-dragon-supply-missions/" >🔗</a> **[Arstechnica]** After key Russian launch site is damaged, NASA accelerates Dragon supply missions
 - <a href="https://spacenews.com/helsing-and-kongsberg-plot-multi-mission-european-defense-space-network/" >🔗</a> **[SpaceNews]** Helsing and Kongsberg plot multi-mission European defense space network
-- <a href="https://spacenews.com/china-launches-new-tjs-satellite-commercial-kinetica-1-lofts-9-spacecraft/" >🔗</a> **[SpaceNews]** China launches new TJS satellite, commercial Kinetica-1 lofts 9 spacecraft
-- <a href="https://spacenews.com/colliding-space-debris-produces-radio-bursts-raising-prospect-of-debris-weather-alerts/" >🔗</a> **[SpaceNews]** Colliding space debris produces radio bursts, raising prospect of ‘debris weather’ alerts
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251211T000518">2025-12-11 00:05:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251211T004614">2025-12-11 00:46:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
