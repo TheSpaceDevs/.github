@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.spacedaily.com/reports/China_prepares_Qingzhou_cargo_ship_for_low_cost_resupply_flights_999.html" >🔗</a> **[SpaceDaily]** China prepares Qingzhou cargo ship for low cost resupply flights
+- <a href="https://spacenews.com/report-identifies-science-objectives-of-human-mars-exploration/" >🔗</a> **[SpaceNews]** Report identifies science objectives of human Mars exploration
 - <a href="https://www.spacedaily.com/reports/Star_wobble_reveals_black_hole_dragging_spacetime_999.html" >🔗</a> **[SpaceDaily]** Star wobble reveals black hole dragging spacetime
-- <a href="https://www.spacedaily.com/reports/Solar_ghost_particles_seen_flipping_carbon_atoms_in_underground_detector_999.html" >🔗</a> **[SpaceDaily]** Solar ghost particles seen flipping carbon atoms in underground detector
+- <a href="https://www.marsdaily.com/reports/NASA_JPL_Unveils_Rover_Operations_Center_for_Moon_Mars_Missions_999.html" >🔗</a> **[SpaceDaily]** NASA JPL Unveils Rover Operations Center for Moon, Mars Missions
 - <a href="https://www.solardaily.com/reports/Overview_Energy_debuts_airborne_power_beaming_milestone_for_space_based_solar_power_999.html" >🔗</a> **[SpaceDaily]** Overview Energy debuts airborne power beaming milestone for space based solar power
 - <a href="https://www.spacedaily.com/reports/ICE_CSIC_leads_a_pioneering_study_on_the_feasibility_of_asteroid_mining_999.html" >🔗</a> **[SpaceDaily]** ICE-CSIC leads a pioneering study on the feasibility of asteroid mining
 - <a href="https://www.spacedaily.com/reports/Uranus_and_Neptune_may_be_rock_rich_worlds_999.html" >🔗</a> **[SpaceDaily]** Uranus and Neptune may be rock rich worlds
-- <a href="https://www.marsdaily.com/reports/NASA_JPL_Unveils_Rover_Operations_Center_for_Moon_Mars_Missions_999.html" >🔗</a> **[SpaceDaily]** NASA JPL Unveils Rover Operations Center for Moon, Mars Missions
+- <a href="https://www.spacedaily.com/reports/Solar_ghost_particles_seen_flipping_carbon_atoms_in_underground_detector_999.html" >🔗</a> **[SpaceDaily]** Solar ghost particles seen flipping carbon atoms in underground detector
 - <a href="https://www.spacedaily.com/reports/Thorium_plated_steel_points_to_smaller_nuclear_clocks_999.html" >🔗</a> **[SpaceDaily]** Thorium plated steel points to smaller nuclear clocks
 - <a href="https://www.moondaily.com/reports/Lunar_dust_study_links_space_weathering_to_changes_in_Moon_ultraviolet_brightness_999.html" >🔗</a> **[SpaceDaily]** Lunar dust study links space weathering to changes in Moon ultraviolet brightness
-- <a href="https://www.spacedaily.com/reports/Triple_Long_March_launches_mark_record_day_for_Chinese_space_program_999.html" >🔗</a> **[SpaceDaily]** Triple Long March launches mark record day for Chinese space program
+- <a href="https://www.spacedaily.com/reports/China_prepares_Qingzhou_cargo_ship_for_low_cost_resupply_flights_999.html" >🔗</a> **[SpaceDaily]** China prepares Qingzhou cargo ship for low cost resupply flights
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251211T090307">2025-12-11 09:03:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251211T093748">2025-12-11 09:37:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
