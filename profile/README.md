@@ -89,16 +89,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/aeronautics/nasa-works-with-boeing/" >🔗</a> **[NASA]** NASA Works with Boeing, Other Collaborators Toward More Efficient Global Flights
+- <a href="https://www.nasa.gov/missions/chandra/nasas-chandra-finds-small-galaxies-may-buck-the-black-hole-trend/" >🔗</a> **[NASA]** NASA’s Chandra Finds Small Galaxies May Buck the Black Hole Trend
 - <a href="https://spacenews.com/k2-space-raises-250-million-to-scale-high-power-satellite-line/" >🔗</a> **[SpaceNews]** K2 Space raises $250 million to scale high-power satellite line
+- <a href="https://science.nasa.gov/missions/parker-solar-probe/nasas-parker-solar-probe-spies-solar-wind-u-turn/" >🔗</a> **[NASA]** NASA’s Parker Solar Probe Spies Solar Wind ‘U-Turn’
 - <a href="https://www.nasa.gov/image-article/stellar-jet/" >🔗</a> **[NASA]** Stellar Jet
 - <a href="https://spacenews.com/bae-systems-wins-16-million-darpa-award-to-advance-autonomous-satellite-tasking/" >🔗</a> **[SpaceNews]** BAE Systems wins $16 million DARPA award to advance autonomous satellite tasking
+- <a href="https://science.nasa.gov/missions/webb/nasas-webb-detects-thick-atmosphere-around-broiling-lava-world/" >🔗</a> **[NASA]** NASA’s Webb Detects Thick Atmosphere Around Broiling Lava World
 - <a href="https://spacenews.com/building-the-future-of-space-defense/" >🔗</a> **[SpaceNews]** Building the future of space defense
 - <a href="https://europeanspaceflight.com/the-exploration-company-is-developing-an-in-orbit-serving-vehicle/" >🔗</a> **[European Spaceflight]** The Exploration Company is Developing an In-Orbit Serving Vehicle
 - <a href="https://spacenews.com/the-u-s-race-to-the-moon-why-plan-b-cannot-wait/" >🔗</a> **[SpaceNews]** The U.S. race to the moon: Why Plan B cannot wait
-- <a href="https://spacenews.com/enduralock-validates-onelink-prototype-in-zero-g-simulation/" >🔗</a> **[SpaceNews]** Enduralock Validates OneLink™ Prototype in Zero-G Simulation
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/12/The_journey_of_Juice_episode_2" >🔗</a> **[ESA]** The journey of Juice – episode 2
-- <a href="https://spacenews.com/report-identifies-science-objectives-of-human-mars-exploration/" >🔗</a> **[SpaceNews]** Report identifies science objectives of human Mars exploration
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Swarm/Swarm_detects_rare_proton_spike_during_solar_storm" >🔗</a> **[ESA]** Swarm detects rare proton spike during solar storm
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251211T190252">2025-12-11 19:02:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251211T193313">2025-12-11 19:33:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
