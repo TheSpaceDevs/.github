@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/geo-satellite-refueling-a-priority-for-national-security-commercial-markets-new-analysis-finds/" >🔗</a> **[SpaceNews]** GEO satellite refueling a priority for national security, commercial markets, new analysis finds
 - <a href="https://spaceflightnow.com/2025/12/11/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-5/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasa-jpl-unveils-rover-operations-center-for-moon-mars-missions/" >🔗</a> **[NASA]** NASA JPL Unveils Rover Operations Center for Moon, Mars Missions
 - <a href="https://spacepolicyonline.com/news/chinese-spacewalkers-inspect-damaged-shenzhou-20-window/" >🔗</a> **[SpacePolicyOnline.com]** Chinese Spacewalkers Inspect Damaged Shenzhou-20 Window
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/voyager-wins-21-million-air-force-contract-for-ai-driven-signals-processing/" >🔗</a> **[SpaceNews]** Voyager wins $21 million Air Force contract for AI-driven signals processing
 - <a href="https://spacenews.com/multiple-space-companies-join-natos-diana-defense-accelerator/" >🔗</a> **[SpaceNews]** Multiple space companies join NATO’s DIANA defense accelerator
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/25-years-of-space-station-technology-driving-exploration/" >🔗</a> **[NASA]** 25 Years of Space Station Technology Driving Exploration
-- <a href="https://spacenews.com/delivering-the-next-generation-of-cloud-native-multi-orbit-ground-systems/" >🔗</a> **[SpaceNews]** Delivering the next generation of cloud-native, multi-orbit ground systems
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251211T021808">2025-12-11 02:18:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251211T030213">2025-12-11 03:02:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
