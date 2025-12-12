@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/missions/webb/nasas-webb-curiosity-named-in-times-best-inventions-hall-of-fame/" >🔗</a> **[NASA]** NASA’s Webb, Curiosity Named in TIME’s Best Inventions Hall of Fame
 - <a href="https://spaceflightnow.com/2025/12/12/study-current-future-megaconstellations-risk-space-based-astronomy/" >🔗</a> **[Spaceflight Now]** Study: Current, future megaconstellations risk space-based astronomy
 - <a href="https://spacenews.com/china-plans-2026-debut-of-new-rocket-for-crewed-lunar-and-leo-missions/" >🔗</a> **[SpaceNews]** China plans 2026 debut of new rocket for crewed lunar and LEO missions
 - <a href="https://www.nasa.gov/image-article/a-rare-gourd/" >🔗</a> **[NASA]** A Rare Gourd
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/12/XMM-Newton_sees_comet_3I_ATLAS_in_X-ray_light" >🔗</a> **[ESA]** XMM-Newton sees comet 3I/ATLAS in X-ray light
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/12/Pablo_Alvarez_Fernandez_Spacesuits_Survival_Spacewalk_Dreams_ESA_Explores_18" >🔗</a> **[ESA]** Pablo Álvarez Fernández | Spacesuits, Survival & Spacewalk Dreams | ESA Explores #18
 - <a href="https://spacenews.com/the-european-space-industrys-big-merger-lessons-for-emerging-space-nations/" >🔗</a> **[SpaceNews]** The European space industry’s big merger: lessons for emerging space nations
-- <a href="https://spacenews.com/nasa-advances-heliophysics-mission-into-next-phase/" >🔗</a> **[SpaceNews]** NASA advances heliophysics mission into next phase
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251212T190133">2025-12-12 19:01:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251212T193159">2025-12-12 19:31:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
