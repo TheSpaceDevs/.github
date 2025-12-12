@@ -99,7 +99,7 @@ into *an Unknown
 - <a href="https://www.spacedaily.com/reports/Shaping_quantum_light_expands_options_for_future_technologies_999.html" >🔗</a> **[SpaceDaily]** Shaping quantum light expands options for future technologies
 - <a href="https://www.spacedaily.com/reports/NASA_refines_aircraft_icing_safety_modeling_with_GlennICE_software_999.html" >🔗</a> **[SpaceDaily]** NASA refines aircraft icing safety modeling with GlennICE software
 - <a href="https://www.spacedaily.com/reports/Quantum_hardware_roadmap_highlights_scaling_hurdles_on_path_to_everyday_applications_999.html" >🔗</a> **[SpaceDaily]** Quantum hardware roadmap highlights scaling hurdles on path to everyday applications
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/12/Earth_from_Space_Pariacaca_Mountain_Range_Peru" >🔗</a> **[ESA]** Earth from Space: Pariacaca Mountain Range, Peru
+- <a href="https://spacenews.com/106b-ground-segment-market-enters-service-driven-era/" >🔗</a> **[SpaceNews]** $106B Ground Segment Market Enters Service‑Driven Era
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251212T110107">2025-12-12 11:01:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251212T113344">2025-12-12 11:33:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
