@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-astronaut-jonny-kim-to-discuss-eight-month-space-station-mission/" >🔗</a> **[NASA]** NASA Astronaut Jonny Kim to Discuss Eight-Month Space Station Mission
+- <a href="https://spacenews.com/intuitive-machines-and-telespazio-to-collaborate-on-lunar-satellite-networks/" >🔗</a> **[SpaceNews]** Intuitive Machines and Telespazio to collaborate on lunar satellite networks
 - <a href="https://science.nasa.gov/missions/webb/nasas-webb-curiosity-named-in-times-best-inventions-hall-of-fame/" >🔗</a> **[NASA]** NASA’s Webb, Curiosity Named in TIME’s Best Inventions Hall of Fame
 - <a href="https://spaceflightnow.com/2025/12/12/study-current-future-megaconstellations-risk-space-based-astronomy/" >🔗</a> **[Spaceflight Now]** Study: Current, future megaconstellations risk space-based astronomy
 - <a href="https://spacenews.com/china-plans-2026-debut-of-new-rocket-for-crewed-lunar-and-leo-missions/" >🔗</a> **[SpaceNews]** China plans 2026 debut of new rocket for crewed lunar and LEO missions
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/missions/roman-space-telescope/nasa-announces-plan-to-map-milky-way-with-roman-space-telescope/" >🔗</a> **[NASA]** NASA Announces Plan to Map Milky Way With Roman Space Telescope
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_08-12_December_2025" >🔗</a> **[ESA]** Week in images: 08-12 December 2025
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/12/XMM-Newton_sees_comet_3I_ATLAS_in_X-ray_light" >🔗</a> **[ESA]** XMM-Newton sees comet 3I/ATLAS in X-ray light
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/12/Pablo_Alvarez_Fernandez_Spacesuits_Survival_Spacewalk_Dreams_ESA_Explores_18" >🔗</a> **[ESA]** Pablo Álvarez Fernández | Spacesuits, Survival & Spacewalk Dreams | ESA Explores #18
-- <a href="https://spacenews.com/the-european-space-industrys-big-merger-lessons-for-emerging-space-nations/" >🔗</a> **[SpaceNews]** The European space industry’s big merger: lessons for emerging space nations
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251212T200151">2025-12-12 20:01:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251212T203527">2025-12-12 20:35:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
