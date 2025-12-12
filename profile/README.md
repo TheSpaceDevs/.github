@@ -90,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_08-12_December_2025" >🔗</a> **[ESA]** Week in images: 08-12 December 2025
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/12/Pablo_Alvarez_Fernandez_Spacesuits_Survival_Spacewalk_Dreams_ESA_Explores_18" >🔗</a> **[ESA]** Pablo Álvarez Fernández | Spacesuits, Survival & Spacewalk Dreams | ESA Explores #18
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/12/XMM-Newton_sees_comet_3I_ATLAS_in_X-ray_light" >🔗</a> **[ESA]** XMM-Newton sees comet 3I/ATLAS in X-ray light
 - <a href="https://spacenews.com/the-european-space-industrys-big-merger-lessons-for-emerging-space-nations/" >🔗</a> **[SpaceNews]** The European space industry’s big merger: lessons for emerging space nations
 - <a href="https://spacenews.com/nasa-advances-heliophysics-mission-into-next-phase/" >🔗</a> **[SpaceNews]** NASA advances heliophysics mission into next phase
 - <a href="https://arstechnica.com/space/2025/12/rocket-report-neutrons-hungry-hippo-is-deemed-ready-whither-orbex/" >🔗</a> **[Arstechnica]** Rocket Report: Neutron’s Hungry Hippo is deemed ready, Whither Orbex?
 - <a href="https://science.nasa.gov/missions/hubble/massive-stars-make-their-mark-in-hubble-image/" >🔗</a> **[NASA]** Massive Stars Make Their Mark in Hubble Image
-- <a href="https://www.spacedaily.com/reports/Shaping_quantum_light_expands_options_for_future_technologies_999.html" >🔗</a> **[SpaceDaily]** Shaping quantum light expands options for future technologies
-- <a href="https://www.spacedaily.com/reports/Gilat_wins_10_million_dollar_order_for_transportable_direct_downlink_earth_observation_system_999.html" >🔗</a> **[SpaceDaily]** Gilat wins 10 million dollar order for transportable direct downlink earth observation system
-- <a href="https://www.spacedaily.com/reports/Quantum_hardware_roadmap_highlights_scaling_hurdles_on_path_to_everyday_applications_999.html" >🔗</a> **[SpaceDaily]** Quantum hardware roadmap highlights scaling hurdles on path to everyday applications
+- <a href="https://www.spacedaily.com/reports/NASA_refines_aircraft_icing_safety_modeling_with_GlennICE_software_999.html" >🔗</a> **[SpaceDaily]** NASA refines aircraft icing safety modeling with GlennICE software
 - <a href="https://www.robodaily.com/reports/Robotic_welding_project_to_prepare_UK_for_in_orbit_repairs_999.html" >🔗</a> **[SpaceDaily]** Robotic welding project to prepare UK for in orbit repairs
-- <a href="https://www.spacedaily.com/reports/Sidus_Space_to_host_MobLobSpace_radar_payload_on_LizzieSat_for_NASA_debris_tracking_study_999.html" >🔗</a> **[SpaceDaily]** Sidus Space to host MobLobSpace radar payload on LizzieSat for NASA debris tracking study
+- <a href="https://www.spacedaily.com/reports/Shaping_quantum_light_expands_options_for_future_technologies_999.html" >🔗</a> **[SpaceDaily]** Shaping quantum light expands options for future technologies
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251212T140157">2025-12-12 14:01:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251212T143406">2025-12-12 14:34:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
