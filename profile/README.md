@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/12/12/study-current-future-megaconstellations-risk-space-based-astronomy/" >🔗</a> **[Spaceflight Now]** Study: Current, future megaconstellations risk space-based astronomy
+- <a href="https://spacenews.com/china-plans-2026-debut-of-new-rocket-for-crewed-lunar-and-leo-missions/" >🔗</a> **[SpaceNews]** China plans 2026 debut of new rocket for crewed lunar and LEO missions
 - <a href="https://www.nasa.gov/image-article/a-rare-gourd/" >🔗</a> **[NASA]** A Rare Gourd
 - <a href="https://spacenews.com/space-force-association-unveils-virtual-national-spacepower-center-for-education-and-wargaming/" >🔗</a> **[SpaceNews]** Space Force Association unveils virtual ‘National Spacepower Center’ for education and wargaming
 - <a href="https://www.nasa.gov/missions/roman-space-telescope/nasa-announces-plan-to-map-milky-way-with-roman-space-telescope/" >🔗</a> **[NASA]** NASA Announces Plan to Map Milky Way With Roman Space Telescope
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/12/Pablo_Alvarez_Fernandez_Spacesuits_Survival_Spacewalk_Dreams_ESA_Explores_18" >🔗</a> **[ESA]** Pablo Álvarez Fernández | Spacesuits, Survival & Spacewalk Dreams | ESA Explores #18
 - <a href="https://spacenews.com/the-european-space-industrys-big-merger-lessons-for-emerging-space-nations/" >🔗</a> **[SpaceNews]** The European space industry’s big merger: lessons for emerging space nations
 - <a href="https://spacenews.com/nasa-advances-heliophysics-mission-into-next-phase/" >🔗</a> **[SpaceNews]** NASA advances heliophysics mission into next phase
-- <a href="https://arstechnica.com/space/2025/12/rocket-report-neutrons-hungry-hippo-is-deemed-ready-whither-orbex/" >🔗</a> **[Arstechnica]** Rocket Report: Neutron’s Hungry Hippo is deemed ready, Whither Orbex?
-- <a href="https://science.nasa.gov/missions/hubble/massive-stars-make-their-mark-in-hubble-image/" >🔗</a> **[NASA]** Massive Stars Make Their Mark in Hubble Image
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251212T180202">2025-12-12 18:02:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251212T184205">2025-12-12 18:42:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
