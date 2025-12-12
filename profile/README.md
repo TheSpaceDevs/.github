@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-launches-new-guowang-satellites-long-march-12a-launch-and-landing-attempt-date-set/" >🔗</a> **[SpaceNews]** China launches new Guowang satellites, Long March 12A launch and landing attempt date set
 - <a href="https://europeanspaceflight.com/avio-selects-virginia-for-new-500-million-us-based-production-facility/" >🔗</a> **[European Spaceflight]** Avio Selects Virginia for New $500 Million US-Based Production Facility
 - <a href="https://science.nasa.gov/earth/earth-observatory/pacific-moisture-drenches-the-u-s-northwest/" >🔗</a> **[NASA]** Pacific Moisture Drenches the U.S. Northwest
 - <a href="https://spacenews.com/nasa-astrophysics-director-offers-optimistic-vision-despite-budget-uncertainty/" >🔗</a> **[SpaceNews]** NASA astrophysics director offers optimistic vision despite budget uncertainty
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/2025-the-turning-point-for-satellite-operators/" >🔗</a> **[SpaceNews]** 2025: The Turning Point for Satellite Operators
 - <a href="https://www.nasa.gov/news-release/nasa-selects-two-heliophysics-missions-for-continued-development/" >🔗</a> **[NASA]** NASA Selects Two Heliophysics Missions for Continued Development
 - <a href="https://spacenews.com/spacex-ipo-plan-sets-stage-for-a-surge-of-other-space-listings/" >🔗</a> **[SpaceNews]** SpaceX IPO plan sets stage for a surge of other space listings
-- <a href="https://www.nasa.gov/aeronautics/nasa-works-with-boeing/" >🔗</a> **[NASA]** NASA Works with Boeing, Other Collaborators Toward More Efficient Global Flights
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251212T080155">2025-12-12 08:01:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251212T084030">2025-12-12 08:40:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
