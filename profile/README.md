@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/avio-selects-virginia-for-new-500-million-us-based-production-facility/" >🔗</a> **[European Spaceflight]** Avio Selects Virginia for New $500 Million US-Based Production Facility
 - <a href="https://science.nasa.gov/earth/earth-observatory/pacific-moisture-drenches-the-u-s-northwest/" >🔗</a> **[NASA]** Pacific Moisture Drenches the U.S. Northwest
 - <a href="https://spacenews.com/nasa-astrophysics-director-offers-optimistic-vision-despite-budget-uncertainty/" >🔗</a> **[SpaceNews]** NASA astrophysics director offers optimistic vision despite budget uncertainty
 - <a href="https://spacenews.com/space-force-rolls-out-new-naming-scheme-for-satellites-and-space-weapons/" >🔗</a> **[SpaceNews]** Space Force rolls out new naming scheme for satellites and space weapons
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/news-release/nasa-selects-two-heliophysics-missions-for-continued-development/" >🔗</a> **[NASA]** NASA Selects Two Heliophysics Missions for Continued Development
 - <a href="https://spacenews.com/spacex-ipo-plan-sets-stage-for-a-surge-of-other-space-listings/" >🔗</a> **[SpaceNews]** SpaceX IPO plan sets stage for a surge of other space listings
 - <a href="https://www.nasa.gov/aeronautics/nasa-works-with-boeing/" >🔗</a> **[NASA]** NASA Works with Boeing, Other Collaborators Toward More Efficient Global Flights
-- <a href="https://www.nasa.gov/missions/chandra/nasas-chandra-finds-small-galaxies-may-buck-the-black-hole-trend/" >🔗</a> **[NASA]** NASA’s Chandra Finds Small Galaxies May Buck the Black Hole Trend
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251212T060159">2025-12-12 06:01:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251212T064229">2025-12-12 06:42:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
