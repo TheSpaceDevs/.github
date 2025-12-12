@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-rolls-out-new-naming-scheme-for-satellites-and-space-weapons/" >🔗</a> **[SpaceNews]** Space Force rolls out new naming scheme for satellites and space weapons
+- <a href="https://www.nasaspaceflight.com/2025/12/iss-roundup-november/" >🔗</a> **[NASASpaceflight]** All eight ISS docking ports occupied for the first time, Expedition 74 begins
 - <a href="https://spacenews.com/u-s-air-force-secretary-warns-chinas-space-gains-are-driven-by-more-than-copying/" >🔗</a> **[SpaceNews]** U.S. Air Force Secretary warns China’s space gains are driven by more than copying
 - <a href="https://spacenews.com/2025-the-turning-point-for-satellite-operators/" >🔗</a> **[SpaceNews]** 2025: The Turning Point for Satellite Operators
 - <a href="https://www.nasa.gov/news-release/nasa-selects-two-heliophysics-missions-for-continued-development/" >🔗</a> **[NASA]** NASA Selects Two Heliophysics Missions for Continued Development
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/missions/chandra/nasas-chandra-finds-small-galaxies-may-buck-the-black-hole-trend/" >🔗</a> **[NASA]** NASA’s Chandra Finds Small Galaxies May Buck the Black Hole Trend
 - <a href="https://spacenews.com/k2-space-raises-250-million-to-scale-high-power-satellite-line/" >🔗</a> **[SpaceNews]** K2 Space raises $250 million to scale high-power satellite line
 - <a href="https://science.nasa.gov/missions/parker-solar-probe/nasas-parker-solar-probe-spies-solar-wind-u-turn/" >🔗</a> **[NASA]** NASA’s Parker Solar Probe Spies Solar Wind ‘U-Turn’
-- <a href="https://www.nasa.gov/image-article/stellar-jet/" >🔗</a> **[NASA]** Stellar Jet
-- <a href="https://spacenews.com/bae-systems-wins-16-million-darpa-award-to-advance-autonomous-satellite-tasking/" >🔗</a> **[SpaceNews]** BAE Systems wins $16 million DARPA award to advance autonomous satellite tasking
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251212T000520">2025-12-12 00:05:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251212T004556">2025-12-12 00:45:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
