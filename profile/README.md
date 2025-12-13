@@ -94,6 +94,7 @@ The launch vehicle was switched from Epsilon-S to Rocket Lab's Electron due to c
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacex-executive-confirms-interest-in-an-ipo/" >🔗</a> **[SpaceNews]** SpaceX executive confirms interest in an IPO
 - <a href="https://spaceflightnow.com/2025/12/13/live-coverage-spacex-aims-for-550th-booster-landing-amid-saturday-night-flight/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX aims for 550th booster landing amid Saturday night flight
 - <a href="https://spaceflightnow.com/2025/12/13/blue-origin-halfway-through-4-flight-certification-to-allow-launch-of-national-security-missions/" >🔗</a> **[Spaceflight Now]** Blue Origin halfway through 4-flight certification to allow launch of national security missions
 - <a href="https://www.nasaspaceflight.com/2025/12/spacex-roberts-road-east-coast-starship/" >🔗</a> **[NASASpaceflight]** SpaceX Roberts Road a focal point for East Coast Starship preparations
@@ -103,7 +104,6 @@ The launch vehicle was switched from Epsilon-S to Rocket Lab's Electron due to c
 - <a href="https://spaceflightnow.com/2025/12/12/study-current-future-megaconstellations-risk-space-based-astronomy/" >🔗</a> **[Spaceflight Now]** Study: Current, future megaconstellations risk space-based astronomy
 - <a href="https://spacenews.com/china-plans-2026-debut-of-new-rocket-for-crewed-lunar-and-leo-missions/" >🔗</a> **[SpaceNews]** China plans 2026 debut of new rocket for crewed lunar and LEO missions
 - <a href="https://www.nasa.gov/image-article/a-rare-gourd/" >🔗</a> **[NASA]** A Rare Gourd
-- <a href="https://spacenews.com/space-force-association-unveils-virtual-national-spacepower-center-for-education-and-wargaming/" >🔗</a> **[SpaceNews]** Space Force Association unveils virtual ‘National Spacepower Center’ for education and wargaming
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ The launch vehicle was switched from Epsilon-S to Rocket Lab's Electron due to c
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251213T150127">2025-12-13 15:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251213T153323">2025-12-13 15:33:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
