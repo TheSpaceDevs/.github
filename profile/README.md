@@ -94,6 +94,7 @@ The launch vehicle was switched from Epsilon-S to Rocket Lab's Electron due to c
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/12/13/live-coverage-spacex-aims-for-550th-booster-landing-amid-saturday-night-flight/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX aims for 550th booster landing amid Saturday night flight
 - <a href="https://spaceflightnow.com/2025/12/13/blue-origin-halfway-through-4-flight-certification-to-allow-launch-of-national-security-missions/" >🔗</a> **[Spaceflight Now]** Blue Origin halfway through 4-flight certification to allow launch of national security missions
 - <a href="https://www.nasaspaceflight.com/2025/12/spacex-roberts-road-east-coast-starship/" >🔗</a> **[NASASpaceflight]** SpaceX Roberts Road a focal point for East Coast Starship preparations
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-jonny-kim-to-discuss-eight-month-space-station-mission/" >🔗</a> **[NASA]** NASA Astronaut Jonny Kim to Discuss Eight-Month Space Station Mission
@@ -103,7 +104,6 @@ The launch vehicle was switched from Epsilon-S to Rocket Lab's Electron due to c
 - <a href="https://spacenews.com/china-plans-2026-debut-of-new-rocket-for-crewed-lunar-and-leo-missions/" >🔗</a> **[SpaceNews]** China plans 2026 debut of new rocket for crewed lunar and LEO missions
 - <a href="https://www.nasa.gov/image-article/a-rare-gourd/" >🔗</a> **[NASA]** A Rare Gourd
 - <a href="https://spacenews.com/space-force-association-unveils-virtual-national-spacepower-center-for-education-and-wargaming/" >🔗</a> **[SpaceNews]** Space Force Association unveils virtual ‘National Spacepower Center’ for education and wargaming
-- <a href="https://www.nasa.gov/missions/roman-space-telescope/nasa-announces-plan-to-map-milky-way-with-roman-space-telescope/" >🔗</a> **[NASA]** NASA Announces Plan to Map Milky Way With Roman Space Telescope
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ The launch vehicle was switched from Epsilon-S to Rocket Lab's Electron due to c
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251213T140110">2025-12-13 14:01:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251213T143407">2025-12-13 14:34:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
