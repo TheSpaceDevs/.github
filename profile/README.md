@@ -94,6 +94,7 @@ The launch vehicle was switched from Epsilon-S to Rocket Lab's Electron due to c
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/12/spacex-roberts-road-east-coast-starship/" >🔗</a> **[NASASpaceflight]** SpaceX Roberts Road a focal point for East Coast Starship preparations
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-jonny-kim-to-discuss-eight-month-space-station-mission/" >🔗</a> **[NASA]** NASA Astronaut Jonny Kim to Discuss Eight-Month Space Station Mission
 - <a href="https://spacenews.com/intuitive-machines-and-telespazio-to-collaborate-on-lunar-satellite-networks/" >🔗</a> **[SpaceNews]** Intuitive Machines and Telespazio to collaborate on lunar satellite networks
 - <a href="https://science.nasa.gov/missions/webb/nasas-webb-curiosity-named-in-times-best-inventions-hall-of-fame/" >🔗</a> **[NASA]** NASA’s Webb, Curiosity Named in TIME’s Best Inventions Hall of Fame
@@ -103,7 +104,6 @@ The launch vehicle was switched from Epsilon-S to Rocket Lab's Electron due to c
 - <a href="https://spacenews.com/space-force-association-unveils-virtual-national-spacepower-center-for-education-and-wargaming/" >🔗</a> **[SpaceNews]** Space Force Association unveils virtual ‘National Spacepower Center’ for education and wargaming
 - <a href="https://www.nasa.gov/missions/roman-space-telescope/nasa-announces-plan-to-map-milky-way-with-roman-space-telescope/" >🔗</a> **[NASA]** NASA Announces Plan to Map Milky Way With Roman Space Telescope
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_08-12_December_2025" >🔗</a> **[ESA]** Week in images: 08-12 December 2025
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/12/XMM-Newton_sees_comet_3I_ATLAS_in_X-ray_light" >🔗</a> **[ESA]** XMM-Newton sees comet 3I/ATLAS in X-ray light
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ The launch vehicle was switched from Epsilon-S to Rocket Lab's Electron due to c
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251213T025832">2025-12-13 02:58:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251213T032957">2025-12-13 03:29:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
