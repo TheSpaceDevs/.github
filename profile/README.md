@@ -19,33 +19,36 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Long March 6 | Unknown Payload**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-from *<a href="None">Launch Complex 16</a>, Taiyuan Satellite Launch Center, People's Republic of China*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251213T010000">2025-12-13 01:00:00 UTC</a>.  Until
-then, this pad will have been used for 15
-out of 148 launches from this location. The launch status is currently
+**Electron | Raise and Shine (RAISE-4)**. It is scheduled to be launched by *Rocket Lab*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1">Rocket Lab Launch Complex 1B</a>, Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251214T030000">2025-12-14 03:00:00 UTC</a>.  Until
+then, this pad will have been used for 32
+out of 67 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Unknown* and the payload will be injected
-into *an Unknown
-(N/A)*.
+*Technology* and the payload will be injected
+into *a Sun-Synchronous Orbit
+(SSO)*.
 <br>
 <blockquote>
-  Details TBD.
+  RAISE-4 (RApid Innovative payload demonstration Satellite-4) is a Japan Aerospace Exploration Agency (JAXA) satellite for on-orbit demonstrations of 15 demonstration components and equipment selected by public solicitation. The satellite will be operated in response to requests from the demonstration theme proposers, and will provide experimental data of the demonstration devices and environmental data during the experiments.
+
+6 of the demonstration payload, as well as as well as 4 cubesats originally planned to ride on the same launch vehicle, are re-flight of those planned for RAISE-3, which failed to reach orbit in October 2022.
+
+The launch vehicle was switched from Epsilon-S to Rocket Lab's Electron due to continuous testing problems with the Epsilon-S' 2nd stage motor. The original 8 hitch-hiking cubesats will be launched on another Electron rocket later.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Long_March_6" >
+  <a href="https://en.wikipedia.org/wiki/Rocket_Lab_Electron" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=38.868222,111.58024" >
+  <a href="https://www.google.com/maps?q=-39.262833,177.864469" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251213T010000">2025-12-13 01:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 6 | Unknown Payload&location=Taiyuan Satellite Launch Center, People&#x27;s Republic of China&dates=20251213T010000Z%2F20251213T014400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 6 | Unknown Payload** from Taiyuan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251214T030000">2025-12-14 03:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Raise and Shine (RAISE-4)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20251214T030000Z%2F20251214T030000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Raise and Shine (RAISE-4)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251214T052000">2025-12-14 05:20:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 15-12&location=Vandenberg SFB, CA, USA&dates=20251214T052000Z%2F20251214T092000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 15-12** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251215T024300">2025-12-15 02:43:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-82&location=Cape Canaveral SFS, FL, USA&dates=20251215T024300Z%2F20251215T064300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-82** from Cape Canaveral SFS, FL, USA.
@@ -55,6 +58,7 @@ into *an Unknown
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251215T131100">2025-12-15 13:11:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-99&location=Kennedy Space Center, FL, USA&dates=20251215T131100Z%2F20251215T171100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-99** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251216T031000">2025-12-16 03:10:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 4C | Unknown Payload&location=Taiyuan Satellite Launch Center, People&#x27;s Republic of China&dates=20251216T031000Z%2F20251216T033900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 4C | Unknown Payload** from Taiyuan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251216T152400">2025-12-16 15:24:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 15-13&location=Vandenberg SFB, CA, USA&dates=20251216T152400Z%2F20251216T192400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 15-13** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251217T000000">2025-12-17 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/br.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=HANBIT-Nano | Spaceward&location=Alcântara Space Center, Federative Republic of Brazil&dates=20251217T000000Z%2F20251217T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **HANBIT-Nano | Spaceward** from Alcântara Space Center, Federative Republic of Brazil.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -104,11 +108,14 @@ into *an Unknown
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2025/12/launch-roundup-120825/" >🔗</a> **[NASASpaceflight]** Launch Roundup: China, Russia, Rocket Lab, ULA join SpaceX in flying this week
+- <a href="https://www.nasaspaceflight.com/2025/12/launch-roundup-120125/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Launch manifest to feature 10 launches during first week of December
+- <a href="https://spacenews.com/jaxa-to-launch-tech-demo-satellites-on-electron-rockets/" >🔗</a> **[SpaceNews]** JAXA to launch tech demo satellites on Electron rockets
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251213T004551">2025-12-13 00:45:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251213T012906">2025-12-13 01:29:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
