@@ -94,16 +94,16 @@ The launch vehicle was switched from Epsilon-S to Rocket Lab's Electron due to c
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/spacex-executive-confirms-interest-in-an-ipo/" >🔗</a> **[SpaceNews]** SpaceX executive confirms interest in an IPO
-- <a href="https://spaceflightnow.com/2025/12/13/live-coverage-spacex-aims-for-550th-booster-landing-amid-saturday-night-flight/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX aims for 550th booster landing amid Saturday night flight
-- <a href="https://spaceflightnow.com/2025/12/13/blue-origin-halfway-through-4-flight-certification-to-allow-launch-of-national-security-missions/" >🔗</a> **[Spaceflight Now]** Blue Origin halfway through 4-flight certification to allow launch of national security missions
-- <a href="https://www.nasaspaceflight.com/2025/12/spacex-roberts-road-east-coast-starship/" >🔗</a> **[NASASpaceflight]** SpaceX Roberts Road a focal point for East Coast Starship preparations
-- <a href="https://www.nasa.gov/news-release/nasa-astronaut-jonny-kim-to-discuss-eight-month-space-station-mission/" >🔗</a> **[NASA]** NASA Astronaut Jonny Kim to Discuss Eight-Month Space Station Mission
-- <a href="https://spacenews.com/intuitive-machines-and-telespazio-to-collaborate-on-lunar-satellite-networks/" >🔗</a> **[SpaceNews]** Intuitive Machines and Telespazio to collaborate on lunar satellite networks
-- <a href="https://science.nasa.gov/missions/webb/nasas-webb-curiosity-named-in-times-best-inventions-hall-of-fame/" >🔗</a> **[NASA]** NASA’s Webb, Curiosity Named in TIME’s Best Inventions Hall of Fame
-- <a href="https://spaceflightnow.com/2025/12/12/study-current-future-megaconstellations-risk-space-based-astronomy/" >🔗</a> **[Spaceflight Now]** Study: Current, future megaconstellations risk space-based astronomy
-- <a href="https://spacenews.com/china-plans-2026-debut-of-new-rocket-for-crewed-lunar-and-leo-missions/" >🔗</a> **[SpaceNews]** China plans 2026 debut of new rocket for crewed lunar and LEO missions
-- <a href="https://www.nasa.gov/image-article/a-rare-gourd/" >🔗</a> **[NASA]** A Rare Gourd
+- <a href="https://www.spacedaily.com/reports/New_MAGE_model_links_solar_storms_to_geospace_response_999.html" >🔗</a> **[SpaceDaily]** New MAGE model links solar storms to geospace response
+- <a href="https://www.spacedaily.com/reports/K2_Space_raises_250m_to_scale_Mega_class_high_power_satellites_999.html" >🔗</a> **[SpaceDaily]** K2 Space raises 250m to scale Mega class high power satellites
+- <a href="https://www.marsdaily.com/reports/Ancient_Martian_brines_left_bromine_rich_fingerprints_in_jarosite_minerals_999.html" >🔗</a> **[SpaceDaily]** Ancient Martian brines left bromine rich fingerprints in jarosite minerals
+- <a href="https://www.spacedaily.com/reports/Micro_X_ray_method_reads_ancient_meteorite_impact_scars_999.html" >🔗</a> **[SpaceDaily]** Micro X ray method reads ancient meteorite impact scars
+- <a href="https://www.spacedaily.com/reports/NASAs_Parker_Solar_Probe_Spies_Solar_Wind_U_Turn_999.html" >🔗</a> **[SpaceDaily]** NASA's Parker Solar Probe Spies Solar Wind 'U-Turn'
+- <a href="https://www.spacedaily.com/reports/Roman_infrared_survey_to_chart_hidden_structure_of_Milky_Way_999.html" >🔗</a> **[SpaceDaily]** Roman infrared survey to chart hidden structure of Milky Way
+- <a href="https://www.spacedaily.com/reports/Mission_Space_to_fly_second_space_weather_payload_with_Rogue_Space_999.html" >🔗</a> **[SpaceDaily]** Mission Space to fly second space weather payload with Rogue Space
+- <a href="https://www.marsdaily.com/reports/Maven_stays_silent_after_routine_pass_behind_Mars_999.html" >🔗</a> **[SpaceDaily]** Maven stays silent after routine pass behind Mars
+- <a href="https://www.spacedaily.com/reports/Sun_boundary_map_tracks_shifting_Alfven_surface_over_solar_cycle_999.html" >🔗</a> **[SpaceDaily]** Sun boundary map tracks shifting Alfven surface over solar cycle
+- <a href="https://www.spacedaily.com/reports/Hidden_circumbinary_giant_planet_emerges_from_decade_old_Gemini_data_999.html" >🔗</a> **[SpaceDaily]** Hidden circumbinary giant planet emerges from decade old Gemini data
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ The launch vehicle was switched from Epsilon-S to Rocket Lab's Electron due to c
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251214T021840">2025-12-14 02:18:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251214T030459">2025-12-14 03:04:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
