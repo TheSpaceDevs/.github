@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/12/roman-construction-complete/" >🔗</a> **[NASASpaceflight]** Roman telescope construction complete, moving into final testing ahead of 2027 launch
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-december-14-31-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy December 14-31, 2025
 - <a href="https://spaceflightnow.com/2025/12/14/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from the Kennedy Space Center
 - <a href="https://spaceflightnow.com/2025/12/14/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-6/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacenews.com/rocket-lab-launches-jaxa-tech-demo-satellite/" >🔗</a> **[SpaceNews]** Rocket Lab launches JAXA tech demo satellite
 - <a href="https://www.spacedaily.com/reports/Bible_v1_How_Ancient_Canon_Became_Our_First_Large_Language_Models_999.html" >🔗</a> **[SpaceDaily]** Bible 1.0: How Ancient Canon Became Our First Large Language Models
-- <a href="https://www.spacedaily.com/reports/NASAs_Parker_Solar_Probe_Spies_Solar_Wind_U_Turn_999.html" >🔗</a> **[SpaceDaily]** NASA's Parker Solar Probe Spies Solar Wind 'U-Turn'
 - <a href="https://www.spacedaily.com/reports/Roman_infrared_survey_to_chart_hidden_structure_of_Milky_Way_999.html" >🔗</a> **[SpaceDaily]** Roman infrared survey to chart hidden structure of Milky Way
+- <a href="https://www.spacedaily.com/reports/NASAs_Parker_Solar_Probe_Spies_Solar_Wind_U_Turn_999.html" >🔗</a> **[SpaceDaily]** NASA's Parker Solar Probe Spies Solar Wind 'U-Turn'
 - <a href="https://www.spacedaily.com/reports/K2_Space_raises_250m_to_scale_Mega_class_high_power_satellites_999.html" >🔗</a> **[SpaceDaily]** K2 Space raises 250m to scale Mega class high power satellites
 - <a href="https://www.spacedaily.com/reports/Sun_boundary_map_tracks_shifting_Alfven_surface_over_solar_cycle_999.html" >🔗</a> **[SpaceDaily]** Sun boundary map tracks shifting Alfven surface over solar cycle
-- <a href="https://www.spacedaily.com/reports/Micro_X_ray_method_reads_ancient_meteorite_impact_scars_999.html" >🔗</a> **[SpaceDaily]** Micro X ray method reads ancient meteorite impact scars
-- <a href="https://www.marsdaily.com/reports/Maven_stays_silent_after_routine_pass_behind_Mars_999.html" >🔗</a> **[SpaceDaily]** Maven stays silent after routine pass behind Mars
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251214T230140">2025-12-14 23:01:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251214T233230">2025-12-14 23:32:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
