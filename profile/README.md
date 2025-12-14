@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/rocket-lab-launches-jaxa-tech-demo-satellite/" >🔗</a> **[SpaceNews]** Rocket Lab launches JAXA tech demo satellite
 - <a href="https://www.spacedaily.com/reports/Bible_v1_How_Ancient_Canon_Became_Our_First_Large_Language_Models_999.html" >🔗</a> **[SpaceDaily]** Bible 1.0: How Ancient Canon Became Our First Large Language Models
 - <a href="https://www.spacedaily.com/reports/K2_Space_raises_250m_to_scale_Mega_class_high_power_satellites_999.html" >🔗</a> **[SpaceDaily]** K2 Space raises 250m to scale Mega class high power satellites
-- <a href="https://www.spacedaily.com/reports/Mission_Space_to_fly_second_space_weather_payload_with_Rogue_Space_999.html" >🔗</a> **[SpaceDaily]** Mission Space to fly second space weather payload with Rogue Space
 - <a href="https://www.spacedaily.com/reports/Micro_X_ray_method_reads_ancient_meteorite_impact_scars_999.html" >🔗</a> **[SpaceDaily]** Micro X ray method reads ancient meteorite impact scars
 - <a href="https://www.spacedaily.com/reports/NASAs_Parker_Solar_Probe_Spies_Solar_Wind_U_Turn_999.html" >🔗</a> **[SpaceDaily]** NASA's Parker Solar Probe Spies Solar Wind 'U-Turn'
 - <a href="https://www.spacedaily.com/reports/Roman_infrared_survey_to_chart_hidden_structure_of_Milky_Way_999.html" >🔗</a> **[SpaceDaily]** Roman infrared survey to chart hidden structure of Milky Way
-- <a href="https://www.marsdaily.com/reports/Ancient_Martian_brines_left_bromine_rich_fingerprints_in_jarosite_minerals_999.html" >🔗</a> **[SpaceDaily]** Ancient Martian brines left bromine rich fingerprints in jarosite minerals
 - <a href="https://www.marsdaily.com/reports/Maven_stays_silent_after_routine_pass_behind_Mars_999.html" >🔗</a> **[SpaceDaily]** Maven stays silent after routine pass behind Mars
+- <a href="https://www.spacedaily.com/reports/Mission_Space_to_fly_second_space_weather_payload_with_Rogue_Space_999.html" >🔗</a> **[SpaceDaily]** Mission Space to fly second space weather payload with Rogue Space
 - <a href="https://www.spacedaily.com/reports/Sun_boundary_map_tracks_shifting_Alfven_surface_over_solar_cycle_999.html" >🔗</a> **[SpaceDaily]** Sun boundary map tracks shifting Alfven surface over solar cycle
-- <a href="https://www.spacedaily.com/reports/New_MAGE_model_links_solar_storms_to_geospace_response_999.html" >🔗</a> **[SpaceDaily]** New MAGE model links solar storms to geospace response
+- <a href="https://www.marsdaily.com/reports/Ancient_Martian_brines_left_bromine_rich_fingerprints_in_jarosite_minerals_999.html" >🔗</a> **[SpaceDaily]** Ancient Martian brines left bromine rich fingerprints in jarosite minerals
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251214T140108">2025-12-14 14:01:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251214T143408">2025-12-14 14:34:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
