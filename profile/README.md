@@ -94,6 +94,7 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/12/15/rocket-lab-to-launch-second-of-three-planned-electron-rockets-this-week/" >🔗</a> **[Spaceflight Now]** Rocket Lab to launch second of three planned Electron rockets this week
 - <a href="https://spacenews.com/space-force-uses-ai-challenge-to-push-everyday-use-of-artificial-intelligence/" >🔗</a> **[SpaceNews]** Space Force uses AI challenge to push everyday use of artificial intelligence
 - <a href="https://www.nasa.gov/general/nextstep-3-b-moon-to-mars-architecture-studies/" >🔗</a> **[NASA]** NextSTEP-3 B: Moon to Mars Architecture Studies
 - <a href="https://spacenews.com/beyond-the-ground-station-why-space-data-centers-require-a-distributed-raid/" >🔗</a> **[SpaceNews]** Beyond the ground station: Why space data centers require a distributed RAID
@@ -103,7 +104,6 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 - <a href="https://spaceflightnow.com/2025/12/15/live-coverage-ula-atlas-5-launch-will-put-amazons-180th-broadband-satellite-in-low-earth-orbit/" >🔗</a> **[Spaceflight Now]** Live coverage: ULA Atlas 5 launch will put Amazon’s 180th broadband satellite in low Earth orbit
 - <a href="https://arstechnica.com/space/2025/12/oh-look-yet-another-starship-clone-has-popped-up-in-china/" >🔗</a> **[Arstechnica]** Oh look, yet another Starship clone has popped up in China
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/12/ESA_highlights_2025" >🔗</a> **[ESA]** ESA highlights 2025
-- <a href="https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-telescope-will-observe-thousands-of-newfound-cosmic-voids/" >🔗</a> **[NASA]** NASA’s Roman Telescope Will Observe Thousands of Newfound Cosmic Voids
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251215T220145">2025-12-15 22:01:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251215T223545">2025-12-15 22:35:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
