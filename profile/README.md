@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/starfish-space-and-impulse-space-demonstrate-autonomous-spacecraft-proximity-operations/" >🔗</a> **[SpaceNews]** Starfish Space and Impulse Space demonstrate autonomous spacecraft proximity operations
 - <a href="https://spacenews.com/metaseismic-material-mitigates-vibration-and-shock-in-nasa-marshall-testing/" >🔗</a> **[SpaceNews]** MetaSeismic material mitigates vibration and shock in NASA Marshall testing
 - <a href="https://www.robodaily.com/reports/Indian_dance_mudras_yield_advanced_synergies_for_robotic_hand_control_999.html" >🔗</a> **[SpaceDaily]** Indian dance mudras yield advanced synergies for robotic hand control
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/unexpected-trajectory-erin-sholls-path-to-human-spaceflight-safety/" >🔗</a> **[NASA]** Unexpected Trajectory: Erin Sholl’s Path to Human Spaceflight Safety
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-december-14-31-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy December 14-31, 2025
 - <a href="https://spaceflightnow.com/2025/12/14/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from the Kennedy Space Center
 - <a href="https://spaceflightnow.com/2025/12/14/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-6/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral
-- <a href="https://spacenews.com/rocket-lab-launches-jaxa-tech-demo-satellite/" >🔗</a> **[SpaceNews]** Rocket Lab launches JAXA tech demo satellite
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251215T134308">2025-12-15 13:43:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251215T140300">2025-12-15 14:03:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
