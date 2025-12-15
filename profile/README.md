@@ -90,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/12/starfish-space-rpo-impulse-space/" >🔗</a> **[NASASpaceflight]** Starfish Space announce Autonomous Rendezvous and Proximity mission success with Impulse Space
 - <a href="https://spacenews.com/starfish-space-and-impulse-space-demonstrate-autonomous-spacecraft-proximity-operations/" >🔗</a> **[SpaceNews]** Starfish Space and Impulse Space demonstrate autonomous spacecraft proximity operations
 - <a href="https://spacenews.com/metaseismic-material-mitigates-vibration-and-shock-in-nasa-marshall-testing/" >🔗</a> **[SpaceNews]** MetaSeismic material mitigates vibration and shock in NASA Marshall testing
 - <a href="https://www.robodaily.com/reports/Indian_dance_mudras_yield_advanced_synergies_for_robotic_hand_control_999.html" >🔗</a> **[SpaceDaily]** Indian dance mudras yield advanced synergies for robotic hand control
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/unexpected-trajectory-erin-sholls-path-to-human-spaceflight-safety/" >🔗</a> **[NASA]** Unexpected Trajectory: Erin Sholl’s Path to Human Spaceflight Safety
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Space_for_our_climate/Satellites_help_tackle_landfill_methane_leaks" >🔗</a> **[ESA]** Satellites help tackle landfill methane leaks
 - <a href="https://europeanspaceflight.com/kongsberg-and-helsing-to-develop-large-defence-satellite-constellation/" >🔗</a> **[European Spaceflight]** Kongsberg and Helsing to Develop Large Defence Satellite Constellation
+- <a href="https://science.nasa.gov/earth/earth-observatory/new-timing-for-stubble-burning-in-india/" >🔗</a> **[NASA]** New Timing for Stubble Burning in India
 - <a href="https://www.nasaspaceflight.com/2025/12/roman-construction-complete/" >🔗</a> **[NASASpaceflight]** Roman telescope construction complete, moving into final testing ahead of 2027 launch
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-december-14-31-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy December 14-31, 2025
-- <a href="https://spaceflightnow.com/2025/12/14/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from the Kennedy Space Center
-- <a href="https://spaceflightnow.com/2025/12/14/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-6/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251215T140300">2025-12-15 14:03:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251215T143929">2025-12-15 14:39:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
