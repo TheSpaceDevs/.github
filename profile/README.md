@@ -94,6 +94,7 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/bassac-river-southern-vietnam/" >🔗</a> **[NASA]** Bassac River, Southern Vietnam
 - <a href="https://spacenews.com/gomspace-to-provide-rf-subsystem-for-apolink-leo-relay-demonstrator/" >🔗</a> **[SpaceNews]** GomSpace to provide RF subsystem for Apolink LEO relay demonstrator
 - <a href="https://spaceflightnow.com/2025/12/15/live-coverage-ula-atlas-5-launch-will-put-amazons-180th-broadband-satellite-in-low-earth-orbit/" >🔗</a> **[Spaceflight Now]** Live coverage: ULA Atlas 5 launch will put Amazon’s 180th broadband satellite in low Earth orbit
 - <a href="https://arstechnica.com/space/2025/12/oh-look-yet-another-starship-clone-has-popped-up-in-china/" >🔗</a> **[Arstechnica]** Oh look, yet another Starship clone has popped up in China
@@ -103,7 +104,6 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 - <a href="https://www.nasaspaceflight.com/2025/12/starfish-space-rpo-impulse-space/" >🔗</a> **[NASASpaceflight]** Starfish Space announce Autonomous Rendezvous and Proximity mission success with Impulse Space
 - <a href="https://spacenews.com/starfish-space-and-impulse-space-demonstrate-autonomous-spacecraft-proximity-operations/" >🔗</a> **[SpaceNews]** Starfish Space and Impulse Space demonstrate autonomous spacecraft proximity operations
 - <a href="https://spacenews.com/metaseismic-material-mitigates-vibration-and-shock-in-nasa-marshall-testing/" >🔗</a> **[SpaceNews]** MetaSeismic material mitigates vibration and shock in NASA Marshall testing
-- <a href="https://www.robodaily.com/reports/Indian_dance_mudras_yield_advanced_synergies_for_robotic_hand_control_999.html" >🔗</a> **[SpaceDaily]** Indian dance mudras yield advanced synergies for robotic hand control
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251215T180204">2025-12-15 18:02:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251215T184212">2025-12-15 18:42:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
