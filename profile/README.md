@@ -97,9 +97,9 @@ into *an Unknown
 - <a href="https://spaceflightnow.com/2025/12/14/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-6/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacenews.com/rocket-lab-launches-jaxa-tech-demo-satellite/" >🔗</a> **[SpaceNews]** Rocket Lab launches JAXA tech demo satellite
 - <a href="https://www.spacedaily.com/reports/Bible_v1_How_Ancient_Canon_Became_Our_First_Large_Language_Models_999.html" >🔗</a> **[SpaceDaily]** Bible 1.0: How Ancient Canon Became Our First Large Language Models
-- <a href="https://www.spacedaily.com/reports/Micro_X_ray_method_reads_ancient_meteorite_impact_scars_999.html" >🔗</a> **[SpaceDaily]** Micro X ray method reads ancient meteorite impact scars
 - <a href="https://www.spacedaily.com/reports/Roman_infrared_survey_to_chart_hidden_structure_of_Milky_Way_999.html" >🔗</a> **[SpaceDaily]** Roman infrared survey to chart hidden structure of Milky Way
-- <a href="https://www.spacedaily.com/reports/Sun_boundary_map_tracks_shifting_Alfven_surface_over_solar_cycle_999.html" >🔗</a> **[SpaceDaily]** Sun boundary map tracks shifting Alfven surface over solar cycle
+- <a href="https://www.spacedaily.com/reports/Micro_X_ray_method_reads_ancient_meteorite_impact_scars_999.html" >🔗</a> **[SpaceDaily]** Micro X ray method reads ancient meteorite impact scars
+- <a href="https://www.spacedaily.com/reports/Hidden_circumbinary_giant_planet_emerges_from_decade_old_Gemini_data_999.html" >🔗</a> **[SpaceDaily]** Hidden circumbinary giant planet emerges from decade old Gemini data
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251215T090415">2025-12-15 09:04:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251215T094109">2025-12-15 09:41:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
