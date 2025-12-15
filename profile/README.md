@@ -94,6 +94,7 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-uses-ai-challenge-to-push-everyday-use-of-artificial-intelligence/" >🔗</a> **[SpaceNews]** Space Force uses AI challenge to push everyday use of artificial intelligence
 - <a href="https://www.nasa.gov/general/nextstep-3-b-moon-to-mars-architecture-studies/" >🔗</a> **[NASA]** NextSTEP-3 B: Moon to Mars Architecture Studies
 - <a href="https://spacenews.com/beyond-the-ground-station-why-space-data-centers-require-a-distributed-raid/" >🔗</a> **[SpaceNews]** Beyond the ground station: Why space data centers require a distributed RAID
 - <a href="https://spacenews.com/nasa-to-test-spacexs-starshield-in-pilot-program/" >🔗</a> **[SpaceNews]** NASA to test SpaceX’s Starshield in pilot program
@@ -103,7 +104,6 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 - <a href="https://arstechnica.com/space/2025/12/oh-look-yet-another-starship-clone-has-popped-up-in-china/" >🔗</a> **[Arstechnica]** Oh look, yet another Starship clone has popped up in China
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/12/ESA_highlights_2025" >🔗</a> **[ESA]** ESA highlights 2025
 - <a href="https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-telescope-will-observe-thousands-of-newfound-cosmic-voids/" >🔗</a> **[NASA]** NASA’s Roman Telescope Will Observe Thousands of Newfound Cosmic Voids
-- <a href="https://spacenews.com/why-the-space-force-says-2025-changes-everything/" >🔗</a> **[SpaceNews]** Why the Space Force says 2025 changes everything
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251215T210151">2025-12-15 21:01:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251215T213447">2025-12-15 21:34:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
