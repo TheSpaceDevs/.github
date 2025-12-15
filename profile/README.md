@@ -94,6 +94,7 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/nextstep-3-b-moon-to-mars-architecture-studies/" >🔗</a> **[NASA]** NextSTEP-3 B: Moon to Mars Architecture Studies
 - <a href="https://spacenews.com/beyond-the-ground-station-why-space-data-centers-require-a-distributed-raid/" >🔗</a> **[SpaceNews]** Beyond the ground station: Why space data centers require a distributed RAID
 - <a href="https://spacenews.com/nasa-to-test-spacexs-starshield-in-pilot-program/" >🔗</a> **[SpaceNews]** NASA to test SpaceX’s Starshield in pilot program
 - <a href="https://www.nasa.gov/image-article/bassac-river-southern-vietnam/" >🔗</a> **[NASA]** Bassac River, Southern Vietnam
@@ -103,7 +104,6 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/12/ESA_highlights_2025" >🔗</a> **[ESA]** ESA highlights 2025
 - <a href="https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-telescope-will-observe-thousands-of-newfound-cosmic-voids/" >🔗</a> **[NASA]** NASA’s Roman Telescope Will Observe Thousands of Newfound Cosmic Voids
 - <a href="https://spacenews.com/why-the-space-force-says-2025-changes-everything/" >🔗</a> **[SpaceNews]** Why the Space Force says 2025 changes everything
-- <a href="https://www.nasaspaceflight.com/2025/12/starfish-space-rpo-impulse-space/" >🔗</a> **[NASASpaceflight]** Starfish Space announce Autonomous Rendezvous and Proximity mission success with Impulse Space
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251215T200148">2025-12-15 20:01:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251215T203640">2025-12-15 20:36:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
