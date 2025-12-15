@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/why-the-space-force-says-2025-changes-everything/" >🔗</a> **[SpaceNews]** Why the Space Force says 2025 changes everything
 - <a href="https://www.nasaspaceflight.com/2025/12/starfish-space-rpo-impulse-space/" >🔗</a> **[NASASpaceflight]** Starfish Space announce Autonomous Rendezvous and Proximity mission success with Impulse Space
 - <a href="https://spacenews.com/starfish-space-and-impulse-space-demonstrate-autonomous-spacecraft-proximity-operations/" >🔗</a> **[SpaceNews]** Starfish Space and Impulse Space demonstrate autonomous spacecraft proximity operations
 - <a href="https://spacenews.com/metaseismic-material-mitigates-vibration-and-shock-in-nasa-marshall-testing/" >🔗</a> **[SpaceNews]** MetaSeismic material mitigates vibration and shock in NASA Marshall testing
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://europeanspaceflight.com/kongsberg-and-helsing-to-develop-large-defence-satellite-constellation/" >🔗</a> **[European Spaceflight]** Kongsberg and Helsing to Develop Large Defence Satellite Constellation
 - <a href="https://science.nasa.gov/earth/earth-observatory/new-timing-for-stubble-burning-in-india/" >🔗</a> **[NASA]** New Timing for Stubble Burning in India
 - <a href="https://www.nasaspaceflight.com/2025/12/roman-construction-complete/" >🔗</a> **[NASASpaceflight]** Roman telescope construction complete, moving into final testing ahead of 2027 launch
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-december-14-31-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy December 14-31, 2025
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251215T150245">2025-12-15 15:02:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251215T153712">2025-12-15 15:37:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
