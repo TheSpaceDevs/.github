@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/kongsberg-and-helsing-to-develop-large-defence-satellite-constellation/" >🔗</a> **[European Spaceflight]** Kongsberg and Helsing to Develop Large Defence Satellite Constellation
 - <a href="https://www.nasaspaceflight.com/2025/12/roman-construction-complete/" >🔗</a> **[NASASpaceflight]** Roman telescope construction complete, moving into final testing ahead of 2027 launch
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-december-14-31-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy December 14-31, 2025
 - <a href="https://spaceflightnow.com/2025/12/14/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from the Kennedy Space Center
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.spacedaily.com/reports/Roman_infrared_survey_to_chart_hidden_structure_of_Milky_Way_999.html" >🔗</a> **[SpaceDaily]** Roman infrared survey to chart hidden structure of Milky Way
 - <a href="https://www.spacedaily.com/reports/NASAs_Parker_Solar_Probe_Spies_Solar_Wind_U_Turn_999.html" >🔗</a> **[SpaceDaily]** NASA's Parker Solar Probe Spies Solar Wind 'U-Turn'
 - <a href="https://www.spacedaily.com/reports/K2_Space_raises_250m_to_scale_Mega_class_high_power_satellites_999.html" >🔗</a> **[SpaceDaily]** K2 Space raises 250m to scale Mega class high power satellites
-- <a href="https://www.spacedaily.com/reports/Sun_boundary_map_tracks_shifting_Alfven_surface_over_solar_cycle_999.html" >🔗</a> **[SpaceDaily]** Sun boundary map tracks shifting Alfven surface over solar cycle
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251215T060202">2025-12-15 06:02:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251215T064241">2025-12-15 06:42:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
