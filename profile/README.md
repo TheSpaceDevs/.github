@@ -94,6 +94,8 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/beyond-the-ground-station-why-space-data-centers-require-a-distributed-raid/" >🔗</a> **[SpaceNews]** Beyond the ground station: Why space data centers require a distributed RAID
+- <a href="https://spacenews.com/nasa-to-test-spacexs-starshield-in-pilot-program/" >🔗</a> **[SpaceNews]** NASA to test SpaceX’s Starshield in pilot program
 - <a href="https://www.nasa.gov/image-article/bassac-river-southern-vietnam/" >🔗</a> **[NASA]** Bassac River, Southern Vietnam
 - <a href="https://spacenews.com/gomspace-to-provide-rf-subsystem-for-apolink-leo-relay-demonstrator/" >🔗</a> **[SpaceNews]** GomSpace to provide RF subsystem for Apolink LEO relay demonstrator
 - <a href="https://spaceflightnow.com/2025/12/15/live-coverage-ula-atlas-5-launch-will-put-amazons-180th-broadband-satellite-in-low-earth-orbit/" >🔗</a> **[Spaceflight Now]** Live coverage: ULA Atlas 5 launch will put Amazon’s 180th broadband satellite in low Earth orbit
@@ -102,8 +104,6 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 - <a href="https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-telescope-will-observe-thousands-of-newfound-cosmic-voids/" >🔗</a> **[NASA]** NASA’s Roman Telescope Will Observe Thousands of Newfound Cosmic Voids
 - <a href="https://spacenews.com/why-the-space-force-says-2025-changes-everything/" >🔗</a> **[SpaceNews]** Why the Space Force says 2025 changes everything
 - <a href="https://www.nasaspaceflight.com/2025/12/starfish-space-rpo-impulse-space/" >🔗</a> **[NASASpaceflight]** Starfish Space announce Autonomous Rendezvous and Proximity mission success with Impulse Space
-- <a href="https://spacenews.com/starfish-space-and-impulse-space-demonstrate-autonomous-spacecraft-proximity-operations/" >🔗</a> **[SpaceNews]** Starfish Space and Impulse Space demonstrate autonomous spacecraft proximity operations
-- <a href="https://spacenews.com/metaseismic-material-mitigates-vibration-and-shock-in-nasa-marshall-testing/" >🔗</a> **[SpaceNews]** MetaSeismic material mitigates vibration and shock in NASA Marshall testing
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251215T190301">2025-12-15 19:03:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251215T193320">2025-12-15 19:33:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
