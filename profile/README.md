@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/unexpected-trajectory-erin-sholls-path-to-human-spaceflight-safety/" >🔗</a> **[NASA]** Unexpected Trajectory: Erin Sholl’s Path to Human Spaceflight Safety
 - <a href="https://europeanspaceflight.com/kongsberg-and-helsing-to-develop-large-defence-satellite-constellation/" >🔗</a> **[European Spaceflight]** Kongsberg and Helsing to Develop Large Defence Satellite Constellation
 - <a href="https://www.nasaspaceflight.com/2025/12/roman-construction-complete/" >🔗</a> **[NASASpaceflight]** Roman telescope construction complete, moving into final testing ahead of 2027 launch
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-december-14-31-2025/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy December 14-31, 2025
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.spacedaily.com/reports/Bible_v1_How_Ancient_Canon_Became_Our_First_Large_Language_Models_999.html" >🔗</a> **[SpaceDaily]** Bible 1.0: How Ancient Canon Became Our First Large Language Models
 - <a href="https://www.spacedaily.com/reports/Roman_infrared_survey_to_chart_hidden_structure_of_Milky_Way_999.html" >🔗</a> **[SpaceDaily]** Roman infrared survey to chart hidden structure of Milky Way
 - <a href="https://www.spacedaily.com/reports/Micro_X_ray_method_reads_ancient_meteorite_impact_scars_999.html" >🔗</a> **[SpaceDaily]** Micro X ray method reads ancient meteorite impact scars
-- <a href="https://www.spacedaily.com/reports/Hidden_circumbinary_giant_planet_emerges_from_decade_old_Gemini_data_999.html" >🔗</a> **[SpaceDaily]** Hidden circumbinary giant planet emerges from decade old Gemini data
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251215T100207">2025-12-15 10:02:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251215T103952">2025-12-15 10:39:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
