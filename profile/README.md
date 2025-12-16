@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/earth-observatory/a-subtle-return-of-la-nina/" >🔗</a> **[NASA]** A Subtle Return of La Niña
 - <a href="https://spaceflightnow.com/2025/12/15/rocket-lab-to-launch-second-of-three-planned-electron-rockets-this-week/" >🔗</a> **[Spaceflight Now]** Rocket Lab to launch second of three planned Electron rockets this week
 - <a href="https://spacenews.com/space-force-uses-ai-challenge-to-push-everyday-use-of-artificial-intelligence/" >🔗</a> **[SpaceNews]** Space Force uses AI challenge to push everyday use of artificial intelligence
 - <a href="https://www.nasa.gov/general/nextstep-3-b-moon-to-mars-architecture-studies/" >🔗</a> **[NASA]** NextSTEP-3 B: Moon to Mars Architecture Studies
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/gomspace-to-provide-rf-subsystem-for-apolink-leo-relay-demonstrator/" >🔗</a> **[SpaceNews]** GomSpace to provide RF subsystem for Apolink LEO relay demonstrator
 - <a href="https://spaceflightnow.com/2025/12/15/live-coverage-ula-atlas-5-launch-will-put-amazons-180th-broadband-satellite-in-low-earth-orbit/" >🔗</a> **[Spaceflight Now]** Live coverage: ULA Atlas 5 launch will put Amazon’s 180th broadband satellite in low Earth orbit
 - <a href="https://arstechnica.com/space/2025/12/oh-look-yet-another-starship-clone-has-popped-up-in-china/" >🔗</a> **[Arstechnica]** Oh look, yet another Starship clone has popped up in China
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/12/ESA_highlights_2025" >🔗</a> **[ESA]** ESA highlights 2025
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251216T050256">2025-12-16 05:02:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251216T053656">2025-12-16 05:36:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
