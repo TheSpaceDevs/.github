@@ -92,16 +92,16 @@ The navigation system objective is to broadcast GPS-interoperable and augmentati
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacex-claims-close-approach-to-starlink-satellite-by-payload-from-chinese-launch/" >🔗</a> **[SpaceNews]** SpaceX claims close approach to Starlink satellite by payload from Chinese launch
 - <a href="https://spacenews.com/china-launches-experimental-cargo-spacecraft-opaque-tech-demo-mission-and-remote-sensing-satellite/" >🔗</a> **[SpaceNews]** China launches experimental cargo spacecraft, opaque tech demo mission and remote sensing satellite
 - <a href="https://www.spacedaily.com/reports/Can_scientists_detect_life_without_knowing_what_it_looks_like_999.html" >🔗</a> **[SpaceDaily]** Can scientists detect life without knowing what it looks like
-- <a href="https://www.marsdaily.com/reports/GoMars_model_simulates_Martian_dust_storms_to_improve_mission_safety_999.html" >🔗</a> **[SpaceDaily]** GoMars model simulates Martian dust storms to improve mission safety
 - <a href="https://www.spacewar.com/reports/Autonomous_DARPA_project_to_expand_satellite_surveillance_network_by_BAE_Systems_999.html" >🔗</a> **[SpaceDaily]** Autonomous DARPA project to expand satellite surveillance network by BAE Systems
-- <a href="https://www.spacedaily.com/reports/Musk_signals_plan_to_launch_IPO_for_SpaceX_999.html" >🔗</a> **[SpaceDaily]** Musk signals plan to launch IPO for SpaceX
-- <a href="https://www.spacedaily.com/reports/Southern_Launch_to_host_INNOSPACE_missions_from_South_Australian_spaceports_999.html" >🔗</a> **[SpaceDaily]** Southern Launch to host INNOSPACE missions from South Australian spaceports
 - <a href="https://www.spacedaily.com/reports/Rocket_Lab_completes_first_dedicated_JAXA_mission_with_Electron_launch_999.html" >🔗</a> **[SpaceDaily]** Rocket Lab completes first dedicated JAXA mission with Electron launch
+- <a href="https://www.spacedaily.com/reports/Southern_Launch_to_host_INNOSPACE_missions_from_South_Australian_spaceports_999.html" >🔗</a> **[SpaceDaily]** Southern Launch to host INNOSPACE missions from South Australian spaceports
+- <a href="https://www.marsdaily.com/reports/GoMars_model_simulates_Martian_dust_storms_to_improve_mission_safety_999.html" >🔗</a> **[SpaceDaily]** GoMars model simulates Martian dust storms to improve mission safety
 - <a href="https://www.spacedaily.com/reports/Gemini_North_tracks_changing_glow_of_interstellar_Comet_3IATLAS_999.html" >🔗</a> **[SpaceDaily]** Gemini North tracks changing glow of interstellar Comet 3IATLAS
+- <a href="https://www.spacedaily.com/reports/Musk_signals_plan_to_launch_IPO_for_SpaceX_999.html" >🔗</a> **[SpaceDaily]** Musk signals plan to launch IPO for SpaceX
 - <a href="https://spacenews.com/maven-telemetry-shows-changes-to-spacecraft-orbit-and-rotation/" >🔗</a> **[SpaceNews]** MAVEN telemetry shows changes to spacecraft orbit and rotation
-- <a href="https://www.nasaspaceflight.com/2025/12/spacex-starbase-upgrades-launch-site/" >🔗</a> **[NASASpaceflight]** SpaceX advances Starbase upgrades at the launch site
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ The navigation system objective is to broadcast GPS-interoperable and augmentati
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251216T120212">2025-12-16 12:02:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251216T124354">2025-12-16 12:43:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
