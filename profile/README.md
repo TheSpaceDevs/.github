@@ -92,6 +92,7 @@ The navigation system objective is to broadcast GPS-interoperable and augmentati
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/12/launch-roundup-121625/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Ariane 6, Falcon 9, Atlas V, and Electron launches highlight busy week
 - <a href="https://www.nasa.gov/missions/ixpe/nasa-ixpes-longest-observation-solves-black-hole-jets-mystery/" >🔗</a> **[NASA]** NASA IXPE’s Longest Observation Solves Black Hole Jets Mystery
 - <a href="https://www.nasa.gov/learning-resources/research-program-for-students/" >🔗</a> **[NASA]** NASA Launches Research Program for Students to Explore Big Ideas
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/through-astronaut-eyes-25-years-of-life-in-orbit/" >🔗</a> **[NASA]** Through Astronaut Eyes: 25 Years of Life in Orbit
@@ -101,7 +102,6 @@ The navigation system objective is to broadcast GPS-interoperable and augmentati
 - <a href="https://www.nasa.gov/image-article/peekaboo-2/" >🔗</a> **[NASA]** Peekaboo!
 - <a href="https://www.nasa.gov/directorates/esdmd/hhp/toxicology-and-environmental-chemistry/" >🔗</a> **[NASA]** Toxicology and Environmental Chemistry
 - <a href="https://www.nasa.gov/directorates/esdmd/hhp/biostatistics-and-data-science/" >🔗</a> **[NASA]** Statistics and Data Science
-- <a href="https://www.nasa.gov/missions/mars-reconnaissance-orbiter/one-of-nasas-key-cameras-orbiting-mars-takes-100000th-image/" >🔗</a> **[NASA]** One of NASA’s Key Cameras Orbiting Mars Takes 100,000th Image
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ The navigation system objective is to broadcast GPS-interoperable and augmentati
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251216T220144">2025-12-16 22:01:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251216T223500">2025-12-16 22:35:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
