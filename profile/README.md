@@ -92,16 +92,16 @@ The navigation system objective is to broadcast GPS-interoperable and augmentati
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/directorates/esdmd/hhp/toxicology-and-environmental-chemistry/" >🔗</a> **[NASA]** Toxicology and Environmental Chemistry
+- <a href="https://www.nasa.gov/directorates/esdmd/hhp/biostatistics-and-data-science/" >🔗</a> **[NASA]** Statistics and Data Science
+- <a href="https://www.nasa.gov/missions/mars-reconnaissance-orbiter/one-of-nasas-key-cameras-orbiting-mars-takes-100000th-image/" >🔗</a> **[NASA]** One of NASA’s Key Cameras Orbiting Mars Takes 100,000th Image
+- <a href="https://science.nasa.gov/missions/landsat/maintaining-the-gold-standard-the-future-of-landsat-calibration-and-validation/" >🔗</a> **[NASA]** Maintaining the Gold Standard: The Future of Landsat Calibration and Validation
+- <a href="https://www.nasa.gov/directorates/esdmd/hhp/microbiology/" >🔗</a> **[NASA]** Microbiology
+- <a href="https://www.nasa.gov/directorates/esdmd/hhp/immunology-and-virology/" >🔗</a> **[NASA]** Immunology and Virology
+- <a href="https://www.nasa.gov/directorates/esdmd/hhp/exposure-guidelines-smacs-and-swegs/" >🔗</a> **[NASA]** Exposure Guidelines (SMACs and SWEGs)
+- <a href="https://science.nasa.gov/missions/landsat/whats-next-for-hls/" >🔗</a> **[NASA]** What’s Next for HLS
 - <a href="https://spacenews.com/how-the-space-force-trains-guardians-for-the-future-of-warfare/" >🔗</a> **[SpaceNews]** How the Space Force trains Guardians for the future of warfare
 - <a href="https://science.nasa.gov/missions/webb/nasas-webb-observes-exoplanet-whose-composition-defies-explanation/" >🔗</a> **[NASA]** NASA’s Webb Observes Exoplanet Whose Composition Defies Explanation
-- <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-orbit-challenge-2026/" >🔗</a> **[NASA]** NASA ORBIT Challenge 2026
-- <a href="https://science.nasa.gov/science-research/heliophysics/nasas-carruthers-geocorona-observatory-reveals-first-light-images/" >🔗</a> **[NASA]** NASA’s Carruthers Geocorona Observatory Reveals ‘First Light’ Images
-- <a href="https://science.nasa.gov/science-research/heliophysics/nasas-imap-mission-captures-first-light-looks-back-at-earth/" >🔗</a> **[NASA]** NASA’s IMAP Mission Captures ‘First Light,’ Looks Back at Earth
-- <a href="https://spacenews.com/trumps-national-security-strategy-ignores-space/" >🔗</a> **[SpaceNews]** Trump’s national security strategy ignores space
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-6/First_image_from_Sentinel-6B_extends_sea-level_legacy" >🔗</a> **[ESA]** First image from Sentinel-6B extends sea-level legacy
-- <a href="https://www.nasa.gov/missions/jason-cs-sentinel-6/sentinel-6b/nasa-partners-share-first-data-from-new-us-european-sea-satellite/" >🔗</a> **[NASA]** NASA, Partners Share First Data From New US-European Sea Satellite
-- <a href="https://spacenews.com/vantor-partners-with-niantic-spatial-on-gps-free-navigation-for-defense-market/" >🔗</a> **[SpaceNews]** Vantor partners with Niantic Spatial on GPS-free navigation for defense market
-- <a href="https://spacenews.com/eradrive-raises-5-3-million-for-software-hardware-kits-to-enhance-satellite-autonomy/" >🔗</a> **[SpaceNews]** EraDrive raises $5.3 million for software-hardware kits to enhance satellite autonomy
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ The navigation system objective is to broadcast GPS-interoperable and augmentati
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251216T160158">2025-12-16 16:01:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251216T164056">2025-12-16 16:40:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
