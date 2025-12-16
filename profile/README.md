@@ -92,6 +92,9 @@ The navigation system objective is to broadcast GPS-interoperable and augmentati
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-ignites-new-golden-age-of-exploration-innovation-in-2025/" >🔗</a> **[NASA]** NASA Ignites New Golden Age of Exploration, Innovation in 2025
+- <a href="https://science.nasa.gov/get-involved/citizen-science/how-small-is-too-small-volunteers-help-nasa-test-lake-monitoring-from-space/" >🔗</a> **[NASA]** How Small Is Too Small? Volunteers Help NASA Test Lake Monitoring From Space
+- <a href="https://www.nasa.gov/centers-and-facilities/jpl/nasa-jpl-shakes-things-up-testing-future-commercial-lunar-spacecraft/" >🔗</a> **[NASA]** NASA JPL Shakes Things Up Testing Future Commercial Lunar Spacecraft
 - <a href="https://www.nasa.gov/image-article/peekaboo-2/" >🔗</a> **[NASA]** Peekaboo!
 - <a href="https://www.nasa.gov/directorates/esdmd/hhp/toxicology-and-environmental-chemistry/" >🔗</a> **[NASA]** Toxicology and Environmental Chemistry
 - <a href="https://www.nasa.gov/directorates/esdmd/hhp/biostatistics-and-data-science/" >🔗</a> **[NASA]** Statistics and Data Science
@@ -99,9 +102,6 @@ The navigation system objective is to broadcast GPS-interoperable and augmentati
 - <a href="https://science.nasa.gov/missions/landsat/maintaining-the-gold-standard-the-future-of-landsat-calibration-and-validation/" >🔗</a> **[NASA]** Maintaining the Gold Standard: The Future of Landsat Calibration and Validation
 - <a href="https://www.nasa.gov/directorates/esdmd/hhp/microbiology/" >🔗</a> **[NASA]** Microbiology
 - <a href="https://www.nasa.gov/directorates/esdmd/hhp/immunology-and-virology/" >🔗</a> **[NASA]** Immunology and Virology
-- <a href="https://www.nasa.gov/directorates/esdmd/hhp/exposure-guidelines-smacs-and-swegs/" >🔗</a> **[NASA]** Exposure Guidelines (SMACs and SWEGs)
-- <a href="https://science.nasa.gov/missions/landsat/whats-next-for-hls/" >🔗</a> **[NASA]** What’s Next for HLS
-- <a href="https://spacenews.com/how-the-space-force-trains-guardians-for-the-future-of-warfare/" >🔗</a> **[SpaceNews]** How the Space Force trains Guardians for the future of warfare
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ The navigation system objective is to broadcast GPS-interoperable and augmentati
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251216T200150">2025-12-16 20:01:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251216T203627">2025-12-16 20:36:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
