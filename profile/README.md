@@ -92,6 +92,9 @@ The navigation system objective is to broadcast GPS-interoperable and augmentati
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/ixpe/nasa-ixpes-longest-observation-solves-black-hole-jets-mystery/" >🔗</a> **[NASA]** NASA IXPE’s Longest Observation Solves Black Hole Jets Mystery
+- <a href="https://www.nasa.gov/learning-resources/research-program-for-students/" >🔗</a> **[NASA]** NASA Launches Research Program for Students to Explore Big Ideas
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/through-astronaut-eyes-25-years-of-life-in-orbit/" >🔗</a> **[NASA]** Through Astronaut Eyes: 25 Years of Life in Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-ignites-new-golden-age-of-exploration-innovation-in-2025/" >🔗</a> **[NASA]** NASA Ignites New Golden Age of Exploration, Innovation in 2025
 - <a href="https://science.nasa.gov/get-involved/citizen-science/how-small-is-too-small-volunteers-help-nasa-test-lake-monitoring-from-space/" >🔗</a> **[NASA]** How Small Is Too Small? Volunteers Help NASA Test Lake Monitoring From Space
 - <a href="https://www.nasa.gov/centers-and-facilities/jpl/nasa-jpl-shakes-things-up-testing-future-commercial-lunar-spacecraft/" >🔗</a> **[NASA]** NASA JPL Shakes Things Up Testing Future Commercial Lunar Spacecraft
@@ -99,9 +102,6 @@ The navigation system objective is to broadcast GPS-interoperable and augmentati
 - <a href="https://www.nasa.gov/directorates/esdmd/hhp/toxicology-and-environmental-chemistry/" >🔗</a> **[NASA]** Toxicology and Environmental Chemistry
 - <a href="https://www.nasa.gov/directorates/esdmd/hhp/biostatistics-and-data-science/" >🔗</a> **[NASA]** Statistics and Data Science
 - <a href="https://www.nasa.gov/missions/mars-reconnaissance-orbiter/one-of-nasas-key-cameras-orbiting-mars-takes-100000th-image/" >🔗</a> **[NASA]** One of NASA’s Key Cameras Orbiting Mars Takes 100,000th Image
-- <a href="https://science.nasa.gov/missions/landsat/maintaining-the-gold-standard-the-future-of-landsat-calibration-and-validation/" >🔗</a> **[NASA]** Maintaining the Gold Standard: The Future of Landsat Calibration and Validation
-- <a href="https://www.nasa.gov/directorates/esdmd/hhp/microbiology/" >🔗</a> **[NASA]** Microbiology
-- <a href="https://www.nasa.gov/directorates/esdmd/hhp/immunology-and-virology/" >🔗</a> **[NASA]** Immunology and Virology
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ The navigation system objective is to broadcast GPS-interoperable and augmentati
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251216T210120">2025-12-16 21:01:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251216T213414">2025-12-16 21:34:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
