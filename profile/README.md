@@ -92,6 +92,7 @@ The navigation system objective is to broadcast GPS-interoperable and augmentati
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/peekaboo-2/" >🔗</a> **[NASA]** Peekaboo!
 - <a href="https://www.nasa.gov/directorates/esdmd/hhp/toxicology-and-environmental-chemistry/" >🔗</a> **[NASA]** Toxicology and Environmental Chemistry
 - <a href="https://www.nasa.gov/directorates/esdmd/hhp/biostatistics-and-data-science/" >🔗</a> **[NASA]** Statistics and Data Science
 - <a href="https://www.nasa.gov/missions/mars-reconnaissance-orbiter/one-of-nasas-key-cameras-orbiting-mars-takes-100000th-image/" >🔗</a> **[NASA]** One of NASA’s Key Cameras Orbiting Mars Takes 100,000th Image
@@ -101,7 +102,6 @@ The navigation system objective is to broadcast GPS-interoperable and augmentati
 - <a href="https://www.nasa.gov/directorates/esdmd/hhp/exposure-guidelines-smacs-and-swegs/" >🔗</a> **[NASA]** Exposure Guidelines (SMACs and SWEGs)
 - <a href="https://science.nasa.gov/missions/landsat/whats-next-for-hls/" >🔗</a> **[NASA]** What’s Next for HLS
 - <a href="https://spacenews.com/how-the-space-force-trains-guardians-for-the-future-of-warfare/" >🔗</a> **[SpaceNews]** How the Space Force trains Guardians for the future of warfare
-- <a href="https://science.nasa.gov/missions/webb/nasas-webb-observes-exoplanet-whose-composition-defies-explanation/" >🔗</a> **[NASA]** NASA’s Webb Observes Exoplanet Whose Composition Defies Explanation
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ The navigation system objective is to broadcast GPS-interoperable and augmentati
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251216T170412">2025-12-16 17:04:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251216T173721">2025-12-16 17:37:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
