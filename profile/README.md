@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/things-to-come-important-bellwethers-for-space-exploration-in-2026/" >🔗</a> **[SpaceNews]** Things to come: Important bellwethers for space exploration in 2026
 - <a href="https://spacenews.com/senate-confirms-isaacman-as-nasa-administrator/" >🔗</a> **[SpaceNews]** Senate confirms Isaacman as NASA administrator
 - <a href="https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-mars-rover-ready-to-roll-for-miles-in-years-ahead/" >🔗</a> **[NASA]** NASA’s Perseverance Mars Rover Ready to Roll for Miles in Years Ahead
 - <a href="https://spacenews.com/lux-aeterna-to-land-first-reusable-satellite-in-australia/" >🔗</a> **[SpaceNews]** Lux Aeterna to land first reusable satellite in Australia
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/solar-system/planets/saturn/saturn-moons/titan/nasa-study-suggests-saturns-moon-titan-may-not-have-global-ocean/" >🔗</a> **[NASA]** NASA Study Suggests Saturn’s Moon Titan May Not Have Global Ocean
 - <a href="https://science.nasa.gov/missions/landsat/new-landsat-science-team-announced/" >🔗</a> **[NASA]** New Landsat Science Team Announced
 - <a href="https://www.nasa.gov/centers-and-facilities/langley/nasa-langley-research-center-2025-year-in-review/" >🔗</a> **[NASA]** NASA Langley Research Center: 2025 Year in Review
-- <a href="https://www.spacedaily.com/reports/Arab_Satellite_813_launch_deepens_UAE_China_space_partnership_999.html" >🔗</a> **[SpaceDaily]** Arab Satellite 813 launch deepens UAE China space partnership
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251217T220142">2025-12-17 22:01:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251217T223554">2025-12-17 22:35:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
