@@ -19,33 +19,32 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 15-13**. It is scheduled to be launched by *SpaceX*
+**Electron | Don't Be Such A Square (STP-S30)**. It is scheduled to be launched by *Rocket Lab*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
+from *<a href="None">Rocket Lab Launch Complex 2 (Launch Area 0 C)</a>, Wallops Flight Facility, Virginia, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251217T151000">2025-12-17 15:10:00 UTC</a>.  Until
-then, this pad will have been used for 237
-out of 851 launches from this location. The launch status is currently
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251218T050000">2025-12-18 05:00:00 UTC</a>.  Until
+then, this pad will have been used for 9
+out of 83 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Communications* and the payload will be injected
+*Technology* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  STP-S30 is a complex mission that will deliver research experiments and technology demonstrations to orbit for the DoD and contribute to future space systems development. The projected primary payload, DISKSat, will demonstrate sustained very low earth orbit (VLEO) flight and test a unique, 1-meter diameter, disk-shaped satellite bus that is designed to increase on-orbit persistence.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+  <a href="https://en.wikipedia.org/wiki/Rocket_Lab_Electron" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=34.632,-120.611" >
+  <a href="https://www.google.com/maps?q=37.833262,-75.488235" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251217T151000">2025-12-17 15:10:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 15-13&location=Vandenberg SFB, CA, USA&dates=20251217T151000Z%2F20251217T191000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 15-13** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251218T050000">2025-12-18 05:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Don&#x27;t Be Such A Square (STP-S30)&location=Wallops Flight Facility, Virginia, USA&dates=20251218T050000Z%2F20251218T090000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Don't Be Such A Square (STP-S30)** from Wallops Flight Facility, Virginia, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251218T143000">2025-12-18 14:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Shepard | NS-37&location=Corn Ranch, Van Horn, TX, USA&dates=20251218T143000Z%2F20251218T223000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Shepard | NS-37** from Corn Ranch, Van Horn, TX, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251219T184500">2025-12-19 18:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/br.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=HANBIT-Nano | Spaceward&location=Alcântara Space Center, Federative Republic of Brazil&dates=20251219T184500Z%2F20251219T184500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **HANBIT-Nano | Spaceward** from Alcântara Space Center, Federative Republic of Brazil.
@@ -55,6 +54,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251224T025000">2025-12-24 02:50:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=LVM-3 | BlueBird Block 2 #1&location=Satish Dhawan Space Centre, India&dates=20251224T025000Z%2F20251224T065000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **LVM-3 | BlueBird Block 2 #1** from Satish Dhawan Space Centre, India.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251225T220000">2025-12-25 22:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 8A | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20251225T220000Z%2F20251226T010000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 8A | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251226T160000">2025-12-26 16:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 3B/E | Fengyun-4C&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20251226T160000Z%2F20251226T190000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 3B/E | Fengyun-4C** from Xichang Satellite Launch Center, People's Republic of China.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251228T020900">2025-12-28 02:09:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | CSG-3&location=Vandenberg SFB, CA, USA&dates=20251228T020900Z%2F20251228T020900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | CSG-3** from Vandenberg SFB, CA, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,27 +90,28 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.spacedaily.com/reports/Carruthers_observatory_returns_first_ultraviolet_views_of_Earth_and_Moon_999.html" >🔗</a> **[SpaceDaily]** Carruthers observatory returns first ultraviolet views of Earth and Moon
+- <a href="https://www.nasa.gov/centers-and-facilities/langley/nasa-langley-research-center-2025-year-in-review/" >🔗</a> **[NASA]** NASA Langley Research Center: 2025 Year in Review
 - <a href="https://www.spacedaily.com/reports/Supernova_at_edge_of_observable_universe_spotted_by_James_Webb_Space_Telescope_999.html" >🔗</a> **[SpaceDaily]** Supernova at edge of observable universe spotted by James Webb Space Telescope
-- <a href="https://www.spacedaily.com/reports/ALMA_completes_band_two_receiver_chain_with_low_noise_amplifiers_999.html" >🔗</a> **[SpaceDaily]** ALMA completes band two receiver chain with low noise amplifiers
+- <a href="https://www.spacedaily.com/reports/DiskSat_flat_satellite_platform_targets_high_power_missions_and_very_low_Earth_orbit_999.html" >🔗</a> **[SpaceDaily]** DiskSat flat satellite platform targets high power missions and very low Earth orbit
 - <a href="https://www.marsdaily.com/reports/HiRISE_camera_aboard_Mars_Reconnaissance_Orbiter_passes_100000_image_milestone_999.html" >🔗</a> **[SpaceDaily]** HiRISE camera aboard Mars Reconnaissance Orbiter passes 100000 image milestone
 - <a href="https://www.moondaily.com/reports/JPL_puts_Blue_Ghost_Mission_2_lunar_stack_through_launch_stress_tests_999.html" >🔗</a> **[SpaceDaily]** JPL puts Blue Ghost Mission 2 lunar stack through launch stress tests
 - <a href="https://www.spacedaily.com/reports/Arab_Satellite_813_launch_deepens_UAE_China_space_partnership_999.html" >🔗</a> **[SpaceDaily]** Arab Satellite 813 launch deepens UAE China space partnership
-- <a href="https://www.spacedaily.com/reports/DiskSat_flat_satellite_platform_targets_high_power_missions_and_very_low_Earth_orbit_999.html" >🔗</a> **[SpaceDaily]** DiskSat flat satellite platform targets high power missions and very low Earth orbit
+- <a href="https://www.spacedaily.com/reports/ALMA_completes_band_two_receiver_chain_with_low_noise_amplifiers_999.html" >🔗</a> **[SpaceDaily]** ALMA completes band two receiver chain with low noise amplifiers
 - <a href="https://www.spacedaily.com/reports/What_General_Contractors_Must_Know_About_AI_Powered_Estimating_Software_999.html" >🔗</a> **[SpaceDaily]** What General Contractors Must Know About AI-Powered Estimating Software
-- <a href="https://spacenews.com/max-space-unveils-plans-for-commercial-space-station/" >🔗</a> **[SpaceNews]** Max Space unveils plans for commercial space station
-- <a href="https://spacenews.com/what-germany-got-right-and-wrong-in-its-first-ever-space-strategy/" >🔗</a> **[SpaceNews]** What Germany got right (and wrong) in its first ever space strategy
+- <a href="https://www.spacedaily.com/reports/Carruthers_observatory_returns_first_ultraviolet_views_of_Earth_and_Moon_999.html" >🔗</a> **[SpaceDaily]** Carruthers observatory returns first ultraviolet views of Earth and Moon
+- <a href="https://spacenews.com/speed-risk-and-the-future-of-national-security-space/" >🔗</a> **[SpaceNews]** Speed, risk, and the future of national security space
 
 
 ### Launch-related News 🚀
 
-- <a href="https://spaceflightnow.com/2025/12/17/live-coverage-spacex-to-fly-starlink-mission-using-falcon-9-booster-flying-for-a-30th-time/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to fly Starlink mission using Falcon 9 booster flying for a 30th time
+- <a href="https://spacenews.com/rocket-lab-set-to-launch-space-force-and-nasa-disksat-experiment/" >🔗</a> **[SpaceNews]** Rocket Lab set to launch Space Force and NASA ‘DiskSat’ experiment
 - <a href="https://www.nasaspaceflight.com/2025/12/launch-roundup-121625/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Ariane 6, Falcon 9, Atlas V, and Electron launches highlight busy week
+- <a href="https://spacenews.com/rocket-lab-wins-14-4-million-contract-to-launch-space-test-program-experiment/" >🔗</a> **[SpaceNews]** Rocket Lab wins $14.4 million contract to launch Space Test Program experiment
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251217T150134">2025-12-17 15:01:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251217T153654">2025-12-17 15:36:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
