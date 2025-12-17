@@ -90,6 +90,7 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/12/17/live-coverage-spacex-to-fly-starlink-mission-using-falcon-9-booster-flying-for-a-30th-time/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to fly Starlink mission using Falcon 9 booster flying for a 30th time
 - <a href="https://spacenews.com/rocket-lab-set-to-launch-space-force-and-nasa-disksat-experiment/" >🔗</a> **[SpaceNews]** Rocket Lab set to launch Space Force and NASA ‘DiskSat’ experiment
 - <a href="https://spacenews.com/digantara-raises-50-million-to-expand-from-space-surveillance-to-missile-defense/" >🔗</a> **[SpaceNews]** Digantara raises $50 million to expand from space surveillance to missile defense
 - <a href="https://spaceflightnow.com/2025/12/16/live-coverage-spacex-preps-sunrise-starlink-from-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX preps sunrise Starlink from Kennedy Space Center
@@ -99,7 +100,6 @@ into *a Medium Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/through-astronaut-eyes-25-years-of-life-in-orbit/" >🔗</a> **[NASA]** Through Astronaut Eyes: 25 Years of Life in Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-ignites-new-golden-age-of-exploration-innovation-in-2025/" >🔗</a> **[NASA]** NASA Ignites New Golden Age of Exploration, Innovation in 2025
 - <a href="https://science.nasa.gov/get-involved/citizen-science/how-small-is-too-small-volunteers-help-nasa-test-lake-monitoring-from-space/" >🔗</a> **[NASA]** How Small Is Too Small? Volunteers Help NASA Test Lake Monitoring From Space
-- <a href="https://www.nasa.gov/centers-and-facilities/jpl/nasa-jpl-shakes-things-up-testing-future-commercial-lunar-spacecraft/" >🔗</a> **[NASA]** NASA JPL Shakes Things Up Testing Future Commercial Lunar Spacecraft
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251217T030013">2025-12-17 03:00:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251217T033433">2025-12-17 03:34:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
