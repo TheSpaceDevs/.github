@@ -19,27 +19,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 6-99**. It is scheduled to be launched by *SpaceX*
+**Falcon 9 Block 5 | Starlink Group 15-13**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39A">Launch Complex 39A</a>, Kennedy Space Center, FL, USA*
+from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251217T121900">2025-12-17 12:19:00 UTC</a>.  Until
-then, this pad will have been used for 220
-out of 278 launches from this location. The launch status is currently
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251217T151000">2025-12-17 15:10:00 UTC</a>.  Until
+then, this pad will have been used for 237
+out of 851 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
 *Communications* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  A batch of 29 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
   <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.60822681,-80.60428186" >
+  <a href="https://www.google.com/maps?q=34.632,-120.611" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -54,6 +54,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251223T140000">2025-12-23 14:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Obzor-R No.1&location=Plesetsk Cosmodrome, Russian Federation&dates=20251223T140000Z%2F20251223T150000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Obzor-R No.1** from Plesetsk Cosmodrome, Russian Federation.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251224T025000">2025-12-24 02:50:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=LVM-3 | BlueBird Block 2 #1&location=Satish Dhawan Space Centre, India&dates=20251224T025000Z%2F20251224T065000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **LVM-3 | BlueBird Block 2 #1** from Satish Dhawan Space Centre, India.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251225T220000">2025-12-25 22:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 8A | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20251225T220000Z%2F20251226T010000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 8A | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251226T160000">2025-12-26 16:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 3B/E | Fengyun-4C&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20251226T160000Z%2F20251226T190000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 3B/E | Fengyun-4C** from Xichang Satellite Launch Center, People's Republic of China.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -89,29 +90,27 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/ariane-6-launches-galileo-navigation-satellites/" >🔗</a> **[SpaceNews]** Ariane 6 launches Galileo navigation satellites
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/12/Galileo_L14_launch_highlights" >🔗</a> **[ESA]** Galileo L14 launch highlights
-- <a href="https://www.esa.int/Applications/Satellite_navigation/Galileo_s_first_Ariane_6_launch_strengthens_European_resilience" >🔗</a> **[ESA]** Galileo’s first Ariane 6 launch strengthens European resilience
-- <a href="https://spacenews.com/oq-technology-links-commercial-iot-chipset-to-leo-satellite/" >🔗</a> **[SpaceNews]** OQ Technology links commercial IoT chipset to LEO satellite
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/12/Europe_at_night_from_space" >🔗</a> **[ESA]** Europe at night from space
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/12/Galileo_L14_liftoff_on_Ariane_6" >🔗</a> **[ESA]** Galileo L14 liftoff on Ariane 6
-- <a href="https://science.nasa.gov/earth/earth-observatory/a-siberian-snowman-in-billings/" >🔗</a> **[NASA]** A Siberian Snowman in Billings
-- <a href="https://europeanspaceflight.com/esa-member-states-fund-e100m-ariane-6-astris-kick-stage-evolution/" >🔗</a> **[European Spaceflight]** ESA Member States Fund €100M Ariane 6 ASTRIS Kick Stage Evolution
-- <a href="https://spaceflightnow.com/2025/12/17/live-coverage-spacex-to-fly-starlink-mission-using-falcon-9-booster-flying-for-a-30th-time/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to fly Starlink mission using Falcon 9 booster flying for a 30th time
-- <a href="https://spacenews.com/rocket-lab-set-to-launch-space-force-and-nasa-disksat-experiment/" >🔗</a> **[SpaceNews]** Rocket Lab set to launch Space Force and NASA ‘DiskSat’ experiment
+- <a href="https://www.spacedaily.com/reports/Carruthers_observatory_returns_first_ultraviolet_views_of_Earth_and_Moon_999.html" >🔗</a> **[SpaceDaily]** Carruthers observatory returns first ultraviolet views of Earth and Moon
+- <a href="https://www.spacedaily.com/reports/Supernova_at_edge_of_observable_universe_spotted_by_James_Webb_Space_Telescope_999.html" >🔗</a> **[SpaceDaily]** Supernova at edge of observable universe spotted by James Webb Space Telescope
+- <a href="https://www.spacedaily.com/reports/ALMA_completes_band_two_receiver_chain_with_low_noise_amplifiers_999.html" >🔗</a> **[SpaceDaily]** ALMA completes band two receiver chain with low noise amplifiers
+- <a href="https://www.marsdaily.com/reports/HiRISE_camera_aboard_Mars_Reconnaissance_Orbiter_passes_100000_image_milestone_999.html" >🔗</a> **[SpaceDaily]** HiRISE camera aboard Mars Reconnaissance Orbiter passes 100000 image milestone
+- <a href="https://www.moondaily.com/reports/JPL_puts_Blue_Ghost_Mission_2_lunar_stack_through_launch_stress_tests_999.html" >🔗</a> **[SpaceDaily]** JPL puts Blue Ghost Mission 2 lunar stack through launch stress tests
+- <a href="https://www.spacedaily.com/reports/Arab_Satellite_813_launch_deepens_UAE_China_space_partnership_999.html" >🔗</a> **[SpaceDaily]** Arab Satellite 813 launch deepens UAE China space partnership
+- <a href="https://www.spacedaily.com/reports/DiskSat_flat_satellite_platform_targets_high_power_missions_and_very_low_Earth_orbit_999.html" >🔗</a> **[SpaceDaily]** DiskSat flat satellite platform targets high power missions and very low Earth orbit
+- <a href="https://www.spacedaily.com/reports/What_General_Contractors_Must_Know_About_AI_Powered_Estimating_Software_999.html" >🔗</a> **[SpaceDaily]** What General Contractors Must Know About AI-Powered Estimating Software
+- <a href="https://spacenews.com/max-space-unveils-plans-for-commercial-space-station/" >🔗</a> **[SpaceNews]** Max Space unveils plans for commercial space station
+- <a href="https://spacenews.com/what-germany-got-right-and-wrong-in-its-first-ever-space-strategy/" >🔗</a> **[SpaceNews]** What Germany got right (and wrong) in its first ever space strategy
 
 
 ### Launch-related News 🚀
 
-- <a href="https://spaceflightnow.com/2025/12/16/live-coverage-spacex-preps-sunrise-starlink-from-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX preps sunrise Starlink from Kennedy Space Center
+- <a href="https://spaceflightnow.com/2025/12/17/live-coverage-spacex-to-fly-starlink-mission-using-falcon-9-booster-flying-for-a-30th-time/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to fly Starlink mission using Falcon 9 booster flying for a 30th time
 - <a href="https://www.nasaspaceflight.com/2025/12/launch-roundup-121625/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Ariane 6, Falcon 9, Atlas V, and Electron launches highlight busy week
-- <a href="https://spaceflightnow.com/2025/12/14/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from the Kennedy Space Center
-- <a href="https://www.nasaspaceflight.com/2025/12/launch-roundup-120825/" >🔗</a> **[NASASpaceflight]** Launch Roundup: China, Russia, Rocket Lab, ULA join SpaceX in flying this week
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251217T140134">2025-12-17 14:01:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251217T143851">2025-12-17 14:38:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
