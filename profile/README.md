@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/massive-stars-make-their-mark-in-hubble-image/" >🔗</a> **[NASA]** Massive Stars Make Their Mark in Hubble Image
+- <a href="https://www.nasa.gov/centers-and-facilities/ames/nasas-two-in-one-satellite-propulsion-demo-begins-in-space-test/" >🔗</a> **[NASA]** NASA’s Two-in-One Satellite Propulsion Demo Begins In-Space Test
 - <a href="https://www.nasa.gov/technology/space-comms/nasas-push-toward-commercial-space-communications-gains-momentum/" >🔗</a> **[NASA]** NASA’s Push Toward Commercial Space Communications Gains Momentum
 - <a href="https://www.nasa.gov/solar-system/planets/saturn/saturn-moons/titan/nasa-study-suggests-saturns-moon-titan-may-not-have-global-ocean/" >🔗</a> **[NASA]** NASA Study Suggests Saturn’s Moon Titan May Not Have Global Ocean
 - <a href="https://science.nasa.gov/missions/landsat/new-landsat-science-team-announced/" >🔗</a> **[NASA]** New Landsat Science Team Announced
 - <a href="https://www.nasa.gov/centers-and-facilities/langley/nasa-langley-research-center-2025-year-in-review/" >🔗</a> **[NASA]** NASA Langley Research Center: 2025 Year in Review
-- <a href="https://www.moondaily.com/reports/JPL_puts_Blue_Ghost_Mission_2_lunar_stack_through_launch_stress_tests_999.html" >🔗</a> **[SpaceDaily]** JPL puts Blue Ghost Mission 2 lunar stack through launch stress tests
 - <a href="https://www.spacedaily.com/reports/Arab_Satellite_813_launch_deepens_UAE_China_space_partnership_999.html" >🔗</a> **[SpaceDaily]** Arab Satellite 813 launch deepens UAE China space partnership
+- <a href="https://www.moondaily.com/reports/JPL_puts_Blue_Ghost_Mission_2_lunar_stack_through_launch_stress_tests_999.html" >🔗</a> **[SpaceDaily]** JPL puts Blue Ghost Mission 2 lunar stack through launch stress tests
 - <a href="https://www.spacedaily.com/reports/Supernova_at_edge_of_observable_universe_spotted_by_James_Webb_Space_Telescope_999.html" >🔗</a> **[SpaceDaily]** Supernova at edge of observable universe spotted by James Webb Space Telescope
 - <a href="https://www.spacedaily.com/reports/Carruthers_observatory_returns_first_ultraviolet_views_of_Earth_and_Moon_999.html" >🔗</a> **[SpaceDaily]** Carruthers observatory returns first ultraviolet views of Earth and Moon
-- <a href="https://www.marsdaily.com/reports/HiRISE_camera_aboard_Mars_Reconnaissance_Orbiter_passes_100000_image_milestone_999.html" >🔗</a> **[SpaceDaily]** HiRISE camera aboard Mars Reconnaissance Orbiter passes 100000 image milestone
-- <a href="https://www.spacedaily.com/reports/What_General_Contractors_Must_Know_About_AI_Powered_Estimating_Software_999.html" >🔗</a> **[SpaceDaily]** What General Contractors Must Know About AI-Powered Estimating Software
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251217T170351">2025-12-17 17:03:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251217T173645">2025-12-17 17:36:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
