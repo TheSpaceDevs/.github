@@ -19,27 +19,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Ariane 62 | Galileo L14 (FOC FM33 & FM34)**. It is scheduled to be launched by *Arianespace*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Guiana_Space_Centre">Ariane Launch Area 4</a>, Guiana Space Centre, French Guiana*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/gf.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251217T050158">2025-12-17 05:01:58 UTC</a>.  Until
-then, this pad will have been used for 4
-out of 329 launches from this location. The launch status is currently
+**Falcon 9 Block 5 | Starlink Group 6-99**. It is scheduled to be launched by *SpaceX*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39A">Launch Complex 39A</a>, Kennedy Space Center, FL, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251217T121900">2025-12-17 12:19:00 UTC</a>.  Until
+then, this pad will have been used for 220
+out of 278 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Navigation* and the payload will be injected
-into *a Medium Earth Orbit
-(MEO)*.
+*Communications* and the payload will be injected
+into *a Low Earth Orbit
+(LEO)*.
 <br>
 <blockquote>
-  Payload consists of two satellites for Europe's Galileo navigation system.
+  A batch of 29 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Ariane_6" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=5.256319,-52.786838" >
+  <a href="https://www.google.com/maps?q=28.60822681,-80.60428186" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -54,6 +54,7 @@ into *a Medium Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251220T110000">2025-12-20 11:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 5 | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20251220T110000Z%2F20251220T150000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 5 | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251223T140000">2025-12-23 14:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Obzor-R No.1&location=Plesetsk Cosmodrome, Russian Federation&dates=20251223T140000Z%2F20251223T150000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Obzor-R No.1** from Plesetsk Cosmodrome, Russian Federation.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251224T025000">2025-12-24 02:50:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=LVM-3 | BlueBird Block 2 #1&location=Satish Dhawan Space Centre, India&dates=20251224T025000Z%2F20251224T065000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **LVM-3 | BlueBird Block 2 #1** from Satish Dhawan Space Centre, India.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251225T220000">2025-12-25 22:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 8A | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20251225T220000Z%2F20251226T010000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 8A | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -89,6 +90,8 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/earth-observatory/a-siberian-snowman-in-billings/" >🔗</a> **[NASA]** A Siberian Snowman in Billings
+- <a href="https://europeanspaceflight.com/esa-member-states-fund-e100m-ariane-6-astris-kick-stage-evolution/" >🔗</a> **[European Spaceflight]** ESA Member States Fund €100M Ariane 6 ASTRIS Kick Stage Evolution
 - <a href="https://spaceflightnow.com/2025/12/17/live-coverage-spacex-to-fly-starlink-mission-using-falcon-9-booster-flying-for-a-30th-time/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to fly Starlink mission using Falcon 9 booster flying for a 30th time
 - <a href="https://spacenews.com/rocket-lab-set-to-launch-space-force-and-nasa-disksat-experiment/" >🔗</a> **[SpaceNews]** Rocket Lab set to launch Space Force and NASA ‘DiskSat’ experiment
 - <a href="https://spacenews.com/digantara-raises-50-million-to-expand-from-space-surveillance-to-missile-defense/" >🔗</a> **[SpaceNews]** Digantara raises $50 million to expand from space surveillance to missile defense
@@ -97,22 +100,17 @@ into *a Medium Earth Orbit
 - <a href="https://www.nasa.gov/missions/ixpe/nasa-ixpes-longest-observation-solves-black-hole-jets-mystery/" >🔗</a> **[NASA]** NASA IXPE’s Longest Observation Solves Black Hole Jets Mystery
 - <a href="https://www.nasa.gov/learning-resources/research-program-for-students/" >🔗</a> **[NASA]** NASA Launches Research Program for Students to Explore Big Ideas
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/through-astronaut-eyes-25-years-of-life-in-orbit/" >🔗</a> **[NASA]** Through Astronaut Eyes: 25 Years of Life in Orbit
-- <a href="https://www.nasa.gov/news-release/nasa-ignites-new-golden-age-of-exploration-innovation-in-2025/" >🔗</a> **[NASA]** NASA Ignites New Golden Age of Exploration, Innovation in 2025
-- <a href="https://science.nasa.gov/get-involved/citizen-science/how-small-is-too-small-volunteers-help-nasa-test-lake-monitoring-from-space/" >🔗</a> **[NASA]** How Small Is Too Small? Volunteers Help NASA Test Lake Monitoring From Space
 
 
 ### Launch-related News 🚀
 
-- <a href="https://www.esa.int/Applications/Satellite_navigation/Watch_live_Galileo_launch_on_Ariane_6" >🔗</a> **[ESA]** Watch live: Galileo launch on Ariane 6
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/12/Galileo_pre-launch_media_briefing" >🔗</a> **[ESA]** Galileo pre-launch media briefing
-- <a href="https://www.esa.int/Applications/Satellite_navigation/Follow_the_Galileo_launch_L14_campaign" >🔗</a> **[ESA]** Follow the Galileo launch (L14) campaign
-- <a href="https://www.spacedaily.com/reports/Galileo_satellites_to_launch_on_Ariane_6_to_enhance_navigation_system_999.html" >🔗</a> **[SpaceDaily]** Galileo satellites to launch on Ariane 6 to enhance navigation system
-- <a href="https://www.esa.int/Applications/Satellite_navigation/Galileo_to_take_its_first_flight_on_Ariane_6_on_17_December" >🔗</a> **[ESA]** Galileo to take its first flight on Ariane 6 on 17 December
+- <a href="https://spaceflightnow.com/2025/12/14/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from the Kennedy Space Center
+- <a href="https://www.nasaspaceflight.com/2025/12/launch-roundup-120825/" >🔗</a> **[NASASpaceflight]** Launch Roundup: China, Russia, Rocket Lab, ULA join SpaceX in flying this week
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251217T050251">2025-12-17 05:02:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251217T053643">2025-12-17 05:36:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
