@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/oq-technology-links-commercial-iot-chipset-to-leo-satellite/" >🔗</a> **[SpaceNews]** OQ Technology links commercial IoT chipset to LEO satellite
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/12/Europe_at_night_from_space" >🔗</a> **[ESA]** Europe at night from space
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/12/Galileo_L14_liftoff_on_Ariane_6" >🔗</a> **[ESA]** Galileo L14 liftoff on Ariane 6
 - <a href="https://science.nasa.gov/earth/earth-observatory/a-siberian-snowman-in-billings/" >🔗</a> **[NASA]** A Siberian Snowman in Billings
 - <a href="https://europeanspaceflight.com/esa-member-states-fund-e100m-ariane-6-astris-kick-stage-evolution/" >🔗</a> **[European Spaceflight]** ESA Member States Fund €100M Ariane 6 ASTRIS Kick Stage Evolution
@@ -98,19 +100,19 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/digantara-raises-50-million-to-expand-from-space-surveillance-to-missile-defense/" >🔗</a> **[SpaceNews]** Digantara raises $50 million to expand from space surveillance to missile defense
 - <a href="https://spaceflightnow.com/2025/12/16/live-coverage-spacex-preps-sunrise-starlink-from-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX preps sunrise Starlink from Kennedy Space Center
 - <a href="https://www.nasaspaceflight.com/2025/12/launch-roundup-121625/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Ariane 6, Falcon 9, Atlas V, and Electron launches highlight busy week
-- <a href="https://www.nasa.gov/missions/ixpe/nasa-ixpes-longest-observation-solves-black-hole-jets-mystery/" >🔗</a> **[NASA]** NASA IXPE’s Longest Observation Solves Black Hole Jets Mystery
-- <a href="https://www.nasa.gov/learning-resources/research-program-for-students/" >🔗</a> **[NASA]** NASA Launches Research Program for Students to Explore Big Ideas
 
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2025/12/16/live-coverage-spacex-preps-sunrise-starlink-from-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX preps sunrise Starlink from Kennedy Space Center
+- <a href="https://www.nasaspaceflight.com/2025/12/launch-roundup-121625/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Ariane 6, Falcon 9, Atlas V, and Electron launches highlight busy week
 - <a href="https://spaceflightnow.com/2025/12/14/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-the-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from the Kennedy Space Center
 - <a href="https://www.nasaspaceflight.com/2025/12/launch-roundup-120825/" >🔗</a> **[NASASpaceflight]** Launch Roundup: China, Russia, Rocket Lab, ULA join SpaceX in flying this week
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251217T080156">2025-12-17 08:01:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251217T084101">2025-12-17 08:41:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
