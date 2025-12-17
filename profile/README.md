@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/12/Galileo_L14_liftoff_on_Ariane_6" >🔗</a> **[ESA]** Galileo L14 liftoff on Ariane 6
 - <a href="https://science.nasa.gov/earth/earth-observatory/a-siberian-snowman-in-billings/" >🔗</a> **[NASA]** A Siberian Snowman in Billings
 - <a href="https://europeanspaceflight.com/esa-member-states-fund-e100m-ariane-6-astris-kick-stage-evolution/" >🔗</a> **[European Spaceflight]** ESA Member States Fund €100M Ariane 6 ASTRIS Kick Stage Evolution
 - <a href="https://spaceflightnow.com/2025/12/17/live-coverage-spacex-to-fly-starlink-mission-using-falcon-9-booster-flying-for-a-30th-time/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to fly Starlink mission using Falcon 9 booster flying for a 30th time
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2025/12/launch-roundup-121625/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Ariane 6, Falcon 9, Atlas V, and Electron launches highlight busy week
 - <a href="https://www.nasa.gov/missions/ixpe/nasa-ixpes-longest-observation-solves-black-hole-jets-mystery/" >🔗</a> **[NASA]** NASA IXPE’s Longest Observation Solves Black Hole Jets Mystery
 - <a href="https://www.nasa.gov/learning-resources/research-program-for-students/" >🔗</a> **[NASA]** NASA Launches Research Program for Students to Explore Big Ideas
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/through-astronaut-eyes-25-years-of-life-in-orbit/" >🔗</a> **[NASA]** Through Astronaut Eyes: 25 Years of Life in Orbit
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251217T060201">2025-12-17 06:02:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251217T064229">2025-12-17 06:42:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
