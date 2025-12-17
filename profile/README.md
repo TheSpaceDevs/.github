@@ -92,6 +92,7 @@ The navigation system objective is to broadcast GPS-interoperable and augmentati
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/rocket-lab-set-to-launch-space-force-and-nasa-disksat-experiment/" >🔗</a> **[SpaceNews]** Rocket Lab set to launch Space Force and NASA ‘DiskSat’ experiment
 - <a href="https://spacenews.com/digantara-raises-50-million-to-expand-from-space-surveillance-to-missile-defense/" >🔗</a> **[SpaceNews]** Digantara raises $50 million to expand from space surveillance to missile defense
 - <a href="https://spaceflightnow.com/2025/12/16/live-coverage-spacex-preps-sunrise-starlink-from-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX preps sunrise Starlink from Kennedy Space Center
 - <a href="https://www.nasaspaceflight.com/2025/12/launch-roundup-121625/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Ariane 6, Falcon 9, Atlas V, and Electron launches highlight busy week
@@ -101,7 +102,6 @@ The navigation system objective is to broadcast GPS-interoperable and augmentati
 - <a href="https://www.nasa.gov/news-release/nasa-ignites-new-golden-age-of-exploration-innovation-in-2025/" >🔗</a> **[NASA]** NASA Ignites New Golden Age of Exploration, Innovation in 2025
 - <a href="https://science.nasa.gov/get-involved/citizen-science/how-small-is-too-small-volunteers-help-nasa-test-lake-monitoring-from-space/" >🔗</a> **[NASA]** How Small Is Too Small? Volunteers Help NASA Test Lake Monitoring From Space
 - <a href="https://www.nasa.gov/centers-and-facilities/jpl/nasa-jpl-shakes-things-up-testing-future-commercial-lunar-spacecraft/" >🔗</a> **[NASA]** NASA JPL Shakes Things Up Testing Future Commercial Lunar Spacecraft
-- <a href="https://www.nasa.gov/image-article/peekaboo-2/" >🔗</a> **[NASA]** Peekaboo!
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ The navigation system objective is to broadcast GPS-interoperable and augmentati
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251217T000410">2025-12-17 00:04:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251217T004554">2025-12-17 00:45:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
