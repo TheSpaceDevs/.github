@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/12/Galileo_L14_launch_highlights" >🔗</a> **[ESA]** Galileo L14 launch highlights
+- <a href="https://www.esa.int/Applications/Satellite_navigation/Galileo_s_first_Ariane_6_launch_strengthens_European_resilience" >🔗</a> **[ESA]** Galileo’s first Ariane 6 launch strengthens European resilience
 - <a href="https://spacenews.com/oq-technology-links-commercial-iot-chipset-to-leo-satellite/" >🔗</a> **[SpaceNews]** OQ Technology links commercial IoT chipset to LEO satellite
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/12/Europe_at_night_from_space" >🔗</a> **[ESA]** Europe at night from space
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/12/Galileo_L14_liftoff_on_Ariane_6" >🔗</a> **[ESA]** Galileo L14 liftoff on Ariane 6
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2025/12/17/live-coverage-spacex-to-fly-starlink-mission-using-falcon-9-booster-flying-for-a-30th-time/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to fly Starlink mission using Falcon 9 booster flying for a 30th time
 - <a href="https://spacenews.com/rocket-lab-set-to-launch-space-force-and-nasa-disksat-experiment/" >🔗</a> **[SpaceNews]** Rocket Lab set to launch Space Force and NASA ‘DiskSat’ experiment
 - <a href="https://spacenews.com/digantara-raises-50-million-to-expand-from-space-surveillance-to-missile-defense/" >🔗</a> **[SpaceNews]** Digantara raises $50 million to expand from space surveillance to missile defense
-- <a href="https://spaceflightnow.com/2025/12/16/live-coverage-spacex-preps-sunrise-starlink-from-kennedy-space-center/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX preps sunrise Starlink from Kennedy Space Center
-- <a href="https://www.nasaspaceflight.com/2025/12/launch-roundup-121625/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Ariane 6, Falcon 9, Atlas V, and Electron launches highlight busy week
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251217T100157">2025-12-17 10:01:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251217T103835">2025-12-17 10:38:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
