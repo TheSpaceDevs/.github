@@ -90,8 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacepolicyonline.com/news/isaacman-confirmed-as-15th-nasa-administrator/" >🔗</a> **[SpacePolicyOnline.com]** Isaacman Confirmed as 15th NASA Administrator
+- <a href="https://arstechnica.com/space/2025/12/nasa-finally-and-we-really-do-mean-it-this-time-has-a-full-time-leader/" >🔗</a> **[Arstechnica]** NASA finally—and we really do mean it this time—has a full-time leader
 - <a href="https://spacepolicyonline.com/news/isaacman-confirmed-at-15th-nasa-administrator/" >🔗</a> **[SpacePolicyOnline.com]** Isaacman Confirmed at 15th NASA Administrator
+- <a href="https://spacepolicyonline.com/news/isaacman-confirmed-as-15th-nasa-administrator/" >🔗</a> **[SpacePolicyOnline.com]** Isaacman Confirmed as 15th NASA Administrator
 - <a href="https://www.nasaspaceflight.com/2025/12/ngc-smash22-test/" >🔗</a> **[NASASpaceflight]** Northrop Grumman tests fast-developed SMART motor, looks ahead to future applications
 - <a href="https://spacenews.com/things-to-come-important-bellwethers-for-space-exploration-in-2026/" >🔗</a> **[SpaceNews]** Things to come: Important bellwethers for space exploration in 2026
 - <a href="https://spacenews.com/senate-confirms-isaacman-as-nasa-administrator/" >🔗</a> **[SpaceNews]** Senate confirms Isaacman as NASA administrator
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/lux-aeterna-to-land-first-reusable-satellite-in-australia/" >🔗</a> **[SpaceNews]** Lux Aeterna to land first reusable satellite in Australia
 - <a href="https://www.nasa.gov/image-article/massive-stars-make-their-mark-in-hubble-image/" >🔗</a> **[NASA]** Massive Stars Make Their Mark in Hubble Image
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/nasas-two-in-one-satellite-propulsion-demo-begins-in-space-test/" >🔗</a> **[NASA]** NASA’s Two-in-One Satellite Propulsion Demo Begins In-Space Test
-- <a href="https://www.nasa.gov/technology/space-comms/nasas-push-toward-commercial-space-communications-gains-momentum/" >🔗</a> **[NASA]** NASA’s Push Toward Commercial Space Communications Gains Momentum
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251218T000427">2025-12-18 00:04:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251218T004601">2025-12-18 00:46:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
