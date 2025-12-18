@@ -90,16 +90,16 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.moondaily.com/reports/Sandia_centrifuge_campaign_clears_NASA_VIPER_rover_for_lunar_launch_999.html" >🔗</a> **[SpaceDaily]** Sandia centrifuge campaign clears NASA VIPER rover for lunar launch
+- <a href="https://europeanspaceflight.com/aac-clyde-space-secures-funding-for-inflecion-satellite-constellation/" >🔗</a> **[European Spaceflight]** AAC Clyde Space Secures Funding for INFLECION Satellite Constellation
 - <a href="https://www.spacedaily.com/reports/Evolution_study_finds_history_and_environment_shifts_can_steer_species_in_very_different_directions_999.html" >🔗</a> **[SpaceDaily]** Evolution study finds history and environment shifts can steer species in very different directions
-- <a href="https://www.spacedaily.com/reports/Philosopher_argues_AI_consciousness_may_remain_unknowable_999.html" >🔗</a> **[SpaceDaily]** Philosopher argues AI consciousness may remain unknowable
+- <a href="https://www.saturndaily.com/reports/Titan_interior_study_points_to_thick_slushy_ice_shell_instead_of_global_ocean_999.html" >🔗</a> **[SpaceDaily]** Titan interior study points to thick slushy ice shell instead of global ocean
 - <a href="https://www.spacedaily.com/reports/Europes_Ariane_6_rocket_puts_EU_navigation_satellites_in_orbit_999.html" >🔗</a> **[SpaceDaily]** Europe's Ariane 6 rocket puts EU navigation satellites in orbit
 - <a href="https://www.marsdaily.com/reports/Perseverance_rover_cleared_for_long_distance_Mars_exploration_999.html" >🔗</a> **[SpaceDaily]** Perseverance rover cleared for long distance Mars exploration
 - <a href="https://www.spacedaily.com/reports/Galaxy_mergers_light_up_fastest_growing_black_holes_999.html" >🔗</a> **[SpaceDaily]** Galaxy mergers light up fastest growing black holes
-- <a href="https://www.saturndaily.com/reports/Titan_interior_study_points_to_thick_slushy_ice_shell_instead_of_global_ocean_999.html" >🔗</a> **[SpaceDaily]** Titan interior study points to thick slushy ice shell instead of global ocean
+- <a href="https://www.spacedaily.com/reports/Philosopher_argues_AI_consciousness_may_remain_unknowable_999.html" >🔗</a> **[SpaceDaily]** Philosopher argues AI consciousness may remain unknowable
 - <a href="https://www.spacedaily.com/reports/Billionaire_Trump_nominee_confirmed_to_lead_NASA_amid_Moon_race_999.html" >🔗</a> **[SpaceDaily]** Billionaire Trump nominee confirmed to lead NASA amid Moon race
 - <a href="https://www.moondaily.com/reports/Origami_style_lunar_rover_wheel_expands_to_climb_steep_caves_999.html" >🔗</a> **[SpaceDaily]** Origami style lunar rover wheel expands to climb steep caves
-- <a href="https://www.spacedaily.com/reports/Thorium_229_nuclei_driven_by_laser_in_opaque_solid_moves_optical_nuclear_clock_research_forward_999.html" >🔗</a> **[SpaceDaily]** Thorium 229 nuclei driven by laser in opaque solid moves optical nuclear clock research forward
+- <a href="https://www.moondaily.com/reports/Sandia_centrifuge_campaign_clears_NASA_VIPER_rover_for_lunar_launch_999.html" >🔗</a> **[SpaceDaily]** Sandia centrifuge campaign clears NASA VIPER rover for lunar launch
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251218T080156">2025-12-18 08:01:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251218T084036">2025-12-18 08:40:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
