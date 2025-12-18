@@ -90,6 +90,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/12/18/rocket-lab-launches-4-novel-disksat-satellites-for-u-s-space-force-nasa/" >🔗</a> **[Spaceflight Now]** Rocket Lab launches 4 novel DiskSat satellites for U.S. Space Force, NASA
 - <a href="https://www.nasa.gov/image-article/nasa-lab-completes-engine-checks-on-new-aircraft/" >🔗</a> **[NASA]** NASA Lab Completes Engine Checks on New Aircraft
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-sees-asteroids-colliding-at-nearby-star-for-first-time/" >🔗</a> **[NASA]** NASA’s Hubble Sees Asteroids Colliding at Nearby Star for First Time
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Hubble_sees_asteroids_colliding_around_nearby_star" >🔗</a> **[ESA]** Hubble sees asteroids colliding around nearby star
@@ -99,7 +100,6 @@ into *a Suborbital
 - <a href="https://spacenews.com/hawkeye-360-expands-defense-footprint-with-acquisition-of-innovative-signal-analysis/" >🔗</a> **[SpaceNews]** HawkEye 360 expands defense footprint with acquisition of Innovative Signal Analysis
 - <a href="https://www.spacescout.info/2025/12/atlas-v-leo-4-turns-the-page/" >🔗</a> **[Space Scout]** Atlas V Leo 4 Turns the Page
 - <a href="https://www.nasa.gov/centers-and-facilities/stennis/a-look-back-2025/" >🔗</a> **[NASA]** A Look Back at NASA Stennis in 2025
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/12/342nd_Council_Media_information_session" >🔗</a> **[ESA]** 342nd Council: Media information session
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251218T193058">2025-12-18 19:30:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251218T200132">2025-12-18 20:01:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
