@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blog/hi-ya-hyha/" >🔗</a> **[NASA]** Hi ya! Hyha
 - <a href="https://arstechnica.com/space/2025/12/nasa-finally-and-we-really-do-mean-it-this-time-has-a-full-time-leader/" >🔗</a> **[Arstechnica]** NASA finally—and we really do mean it this time—has a full-time leader
 - <a href="https://spacepolicyonline.com/news/isaacman-confirmed-at-15th-nasa-administrator/" >🔗</a> **[SpacePolicyOnline.com]** Isaacman Confirmed at 15th NASA Administrator
 - <a href="https://spacepolicyonline.com/news/isaacman-confirmed-as-15th-nasa-administrator/" >🔗</a> **[SpacePolicyOnline.com]** Isaacman Confirmed as 15th NASA Administrator
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-mars-rover-ready-to-roll-for-miles-in-years-ahead/" >🔗</a> **[NASA]** NASA’s Perseverance Mars Rover Ready to Roll for Miles in Years Ahead
 - <a href="https://spacenews.com/lux-aeterna-to-land-first-reusable-satellite-in-australia/" >🔗</a> **[SpaceNews]** Lux Aeterna to land first reusable satellite in Australia
 - <a href="https://www.nasa.gov/image-article/massive-stars-make-their-mark-in-hubble-image/" >🔗</a> **[NASA]** Massive Stars Make Their Mark in Hubble Image
-- <a href="https://www.nasa.gov/centers-and-facilities/ames/nasas-two-in-one-satellite-propulsion-demo-begins-in-space-test/" >🔗</a> **[NASA]** NASA’s Two-in-One Satellite Propulsion Demo Begins In-Space Test
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251218T004601">2025-12-18 00:46:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251218T012911">2025-12-18 01:29:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
