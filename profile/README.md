@@ -45,7 +45,6 @@ into *a Suborbital
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251218T143000">2025-12-18 14:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Shepard | NS-37&location=Corn Ranch, Van Horn, TX, USA&dates=20251218T143000Z%2F20251218T223000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Shepard | NS-37** from Corn Ranch, Van Horn, TX, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251219T184500">2025-12-19 18:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/br.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=HANBIT-Nano | Spaceward&location=Alcântara Space Center, Federative Republic of Brazil&dates=20251219T184500Z%2F20251219T184500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **HANBIT-Nano | Spaceward** from Alcântara Space Center, Federative Republic of Brazil.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251219T224600">2025-12-19 22:46:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-36&location=Cape Canaveral SFS, FL, USA&dates=20251219T224600Z%2F20251220T024600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-36** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251220T122200">2025-12-20 12:22:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 5 | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20251220T122200Z%2F20251220T134000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 5 | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
@@ -90,6 +89,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/12/18/senate-confirms-jared-isaacman-as-15th-nasa-administrator/" >🔗</a> **[Spaceflight Now]** Senate confirms Jared Isaacman as 15th NASA Administrator
 - <a href="https://spacenews.com/2025-was-almost-a-watershed-year-for-the-space-development-agency/" >🔗</a> **[SpaceNews]** 2025 was “almost a watershed year” for the Space Development Agency
 - <a href="https://spacenews.com/the-armys-contribution-to-joint-space-operations/" >🔗</a> **[SpaceNews]** The Army’s contribution to joint space operations
 - <a href="https://spacenews.com/space-community-celebrates-isaacman-confirmation/" >🔗</a> **[SpaceNews]** Space community celebrates Isaacman confirmation
@@ -99,7 +99,6 @@ into *a Suborbital
 - <a href="https://www.spacedaily.com/reports/NASA_CubeSat_puts_dual_micropropulsion_systems_through_orbital_trial_999.html" >🔗</a> **[SpaceDaily]** NASA CubeSat puts dual micropropulsion systems through orbital trial
 - <a href="https://www.saturndaily.com/reports/Titan_interior_study_points_to_thick_slushy_ice_shell_instead_of_global_ocean_999.html" >🔗</a> **[SpaceDaily]** Titan interior study points to thick slushy ice shell instead of global ocean
 - <a href="https://www.spacedaily.com/reports/Southern_Launch_to_Host_Lux_Aeterna_Re-Entries_South_Australia_999.html" >🔗</a> **[SpaceDaily]** Southern Launch to Host Lux Aeterna Re-Entries South Australia
-- <a href="https://www.moondaily.com/reports/Origami_style_lunar_rover_wheel_expands_to_climb_steep_caves_999.html" >🔗</a> **[SpaceDaily]** Origami style lunar rover wheel expands to climb steep caves
 
 
 ### Launch-related News 🚀
@@ -110,7 +109,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251218T140205">2025-12-18 14:02:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251218T143738">2025-12-18 14:37:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
