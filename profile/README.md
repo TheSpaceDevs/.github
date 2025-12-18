@@ -90,16 +90,16 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/learning-resources/stem-engagement-at-nasa/nasa-announces-2025-international-space-apps-challenge-global-winners/" >🔗</a> **[NASA]** NASA Announces 2025 International Space Apps Challenge Global Winners
 - <a href="https://spaceflightnow.com/2025/12/18/rocket-lab-launches-4-novel-disksat-satellites-for-u-s-space-force-nasa/" >🔗</a> **[Spaceflight Now]** Rocket Lab launches 4 novel DiskSat satellites for U.S. Space Force, NASA
 - <a href="https://www.nasa.gov/image-article/nasa-lab-completes-engine-checks-on-new-aircraft/" >🔗</a> **[NASA]** NASA Lab Completes Engine Checks on New Aircraft
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-sees-asteroids-colliding-at-nearby-star-for-first-time/" >🔗</a> **[NASA]** NASA’s Hubble Sees Asteroids Colliding at Nearby Star for First Time
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Hubble_sees_asteroids_colliding_around_nearby_star" >🔗</a> **[ESA]** Hubble sees asteroids colliding around nearby star
 - <a href="https://www.nasa.gov/aeronautics/nasa-boeing-test-aircraft-wings/" >🔗</a> **[NASA]** NASA, Boeing Test How to Improve Performance of Longer, Narrower Aircraft Wings
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Hubble_sees_asteroids_colliding_around_nearby_star" >🔗</a> **[ESA]** Hubble sees asteroids colliding around nearby star
 - <a href="https://www.nasa.gov/missions/spherex/nasas-spherex-observatory-completes-first-cosmic-map-like-no-other/" >🔗</a> **[NASA]** NASA’s SPHEREx Observatory Completes First Cosmic Map Like No Other
 - <a href="https://www.nasa.gov/news-release/nasa-welcomes-15th-administrator-jared-isaacman/" >🔗</a> **[NASA]** NASA Welcomes 15th Administrator Jared Isaacman
 - <a href="https://spacenews.com/hawkeye-360-expands-defense-footprint-with-acquisition-of-innovative-signal-analysis/" >🔗</a> **[SpaceNews]** HawkEye 360 expands defense footprint with acquisition of Innovative Signal Analysis
 - <a href="https://www.spacescout.info/2025/12/atlas-v-leo-4-turns-the-page/" >🔗</a> **[Space Scout]** Atlas V Leo 4 Turns the Page
-- <a href="https://www.nasa.gov/centers-and-facilities/stennis/a-look-back-2025/" >🔗</a> **[NASA]** A Look Back at NASA Stennis in 2025
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251218T210145">2025-12-18 21:01:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251218T213210">2025-12-18 21:32:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
