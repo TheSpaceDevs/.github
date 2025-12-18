@@ -89,6 +89,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-astronaut-lee-morin-to-retire-after-30-years-of-innovation/" >🔗</a> **[NASA]** NASA Astronaut Lee Morin to Retire After 30 Years of Innovation
 - <a href="https://spaceflightnow.com/2025/12/18/senate-confirms-jared-isaacman-as-15th-nasa-administrator/" >🔗</a> **[Spaceflight Now]** Senate confirms Jared Isaacman as 15th NASA Administrator
 - <a href="https://spacenews.com/2025-was-almost-a-watershed-year-for-the-space-development-agency/" >🔗</a> **[SpaceNews]** 2025 was “almost a watershed year” for the Space Development Agency
 - <a href="https://spacenews.com/the-armys-contribution-to-joint-space-operations/" >🔗</a> **[SpaceNews]** The Army’s contribution to joint space operations
@@ -98,7 +99,6 @@ into *a Suborbital
 - <a href="https://www.spacedaily.com/reports/Europes_Ariane_6_rocket_puts_EU_navigation_satellites_in_orbit_999.html" >🔗</a> **[SpaceDaily]** Europe's Ariane 6 rocket puts EU navigation satellites in orbit
 - <a href="https://www.spacedaily.com/reports/NASA_CubeSat_puts_dual_micropropulsion_systems_through_orbital_trial_999.html" >🔗</a> **[SpaceDaily]** NASA CubeSat puts dual micropropulsion systems through orbital trial
 - <a href="https://www.saturndaily.com/reports/Titan_interior_study_points_to_thick_slushy_ice_shell_instead_of_global_ocean_999.html" >🔗</a> **[SpaceDaily]** Titan interior study points to thick slushy ice shell instead of global ocean
-- <a href="https://www.spacedaily.com/reports/Southern_Launch_to_Host_Lux_Aeterna_Re-Entries_South_Australia_999.html" >🔗</a> **[SpaceDaily]** Southern Launch to Host Lux Aeterna Re-Entries South Australia
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251218T150116">2025-12-18 15:01:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251218T153631">2025-12-18 15:36:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
