@@ -90,6 +90,8 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/spherex/nasas-spherex-observatory-completes-first-cosmic-map-like-no-other/" >🔗</a> **[NASA]** NASA’s SPHEREx Observatory Completes First Cosmic Map Like No Other
+- <a href="https://www.nasa.gov/news-release/nasa-welcomes-15th-administrator-jared-isaacman/" >🔗</a> **[NASA]** NASA Welcomes 15th Administrator Jared Isaacman
 - <a href="https://spacenews.com/hawkeye-360-expands-defense-footprint-with-acquisition-of-innovative-signal-analysis/" >🔗</a> **[SpaceNews]** HawkEye 360 expands defense footprint with acquisition of Innovative Signal Analysis
 - <a href="https://www.spacescout.info/2025/12/atlas-v-leo-4-turns-the-page/" >🔗</a> **[Space Scout]** Atlas V Leo 4 Turns the Page
 - <a href="https://www.nasa.gov/centers-and-facilities/stennis/a-look-back-2025/" >🔗</a> **[NASA]** A Look Back at NASA Stennis in 2025
@@ -98,8 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/nssc/payroll/" >🔗</a> **[NASA]** Payroll
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/2025-in-review-highlights-from-nasa-in-silicon-valley/" >🔗</a> **[NASA]** 2025 in Review: Highlights from NASA in Silicon Valley
 - <a href="https://www.nasa.gov/general/nasas-disksat-technology-demo-launches-to-low-earth-orbit/" >🔗</a> **[NASA]** NASA’s DiskSat Technology Demo Launches to Low Earth Orbit
-- <a href="https://spacenews.com/congresss-sbir-standoff-is-slowing-space-force-innovation-it-must-act-now/" >🔗</a> **[SpaceNews]** Congress’s SBIR standoff is slowing Space Force innovation — it must act now
-- <a href="https://science.nasa.gov/learning-resources/science-activation/nasa-eclips-stem-student-ambassadors-shine-at-stem-exploration-community-event/" >🔗</a> **[NASA]** NASA eClips STEM Student Ambassadors Shine at STEM Exploration Community Event
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251218T180210">2025-12-18 18:02:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251218T184202">2025-12-18 18:42:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
