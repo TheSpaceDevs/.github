@@ -45,7 +45,6 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251218T050000">2025-12-18 05:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Don&#x27;t Be Such A Square (STP-S30)&location=Wallops Flight Facility, Virginia, USA&dates=20251218T050000Z%2F20251218T090000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Don't Be Such A Square (STP-S30)** from Wallops Flight Facility, Virginia, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251218T143000">2025-12-18 14:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Shepard | NS-37&location=Corn Ranch, Van Horn, TX, USA&dates=20251218T143000Z%2F20251218T223000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Shepard | NS-37** from Corn Ranch, Van Horn, TX, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251219T184500">2025-12-19 18:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/br.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=HANBIT-Nano | Spaceward&location=Alcântara Space Center, Federative Republic of Brazil&dates=20251219T184500Z%2F20251219T184500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **HANBIT-Nano | Spaceward** from Alcântara Space Center, Federative Republic of Brazil.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251219T224600">2025-12-19 22:46:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-36&location=Cape Canaveral SFS, FL, USA&dates=20251219T224600Z%2F20251220T024600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-36** from Cape Canaveral SFS, FL, USA.
@@ -111,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251218T044106">2025-12-18 04:41:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251218T050255">2025-12-18 05:02:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
