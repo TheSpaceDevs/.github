@@ -90,16 +90,16 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/2025-was-almost-a-watershed-year-for-the-space-development-agency/" >🔗</a> **[SpaceNews]** 2025 was “almost a watershed year” for the Space Development Agency
+- <a href="https://spacenews.com/the-armys-contribution-to-joint-space-operations/" >🔗</a> **[SpaceNews]** The Army’s contribution to joint space operations
 - <a href="https://spacenews.com/space-community-celebrates-isaacman-confirmation/" >🔗</a> **[SpaceNews]** Space community celebrates Isaacman confirmation
 - <a href="https://arstechnica.com/space/2025/12/ten-years-ago-spacex-turned-tragedy-into-triumph-with-a-historic-rocket-landing/" >🔗</a> **[Arstechnica]** Ten years ago, SpaceX turned tragedy into triumph with a historic rocket landing
 - <a href="https://europeanspaceflight.com/aac-clyde-space-secures-funding-for-inflecion-satellite-constellation/" >🔗</a> **[European Spaceflight]** AAC Clyde Space Secures Funding for INFLECION Satellite Constellation
-- <a href="https://www.spacedaily.com/reports/NASA_CubeSat_puts_dual_micropropulsion_systems_through_orbital_trial_999.html" >🔗</a> **[SpaceDaily]** NASA CubeSat puts dual micropropulsion systems through orbital trial
 - <a href="https://www.spacedaily.com/reports/Europes_Ariane_6_rocket_puts_EU_navigation_satellites_in_orbit_999.html" >🔗</a> **[SpaceDaily]** Europe's Ariane 6 rocket puts EU navigation satellites in orbit
+- <a href="https://www.spacedaily.com/reports/NASA_CubeSat_puts_dual_micropropulsion_systems_through_orbital_trial_999.html" >🔗</a> **[SpaceDaily]** NASA CubeSat puts dual micropropulsion systems through orbital trial
+- <a href="https://www.saturndaily.com/reports/Titan_interior_study_points_to_thick_slushy_ice_shell_instead_of_global_ocean_999.html" >🔗</a> **[SpaceDaily]** Titan interior study points to thick slushy ice shell instead of global ocean
 - <a href="https://www.spacedaily.com/reports/Southern_Launch_to_Host_Lux_Aeterna_Re-Entries_South_Australia_999.html" >🔗</a> **[SpaceDaily]** Southern Launch to Host Lux Aeterna Re-Entries South Australia
 - <a href="https://www.moondaily.com/reports/Origami_style_lunar_rover_wheel_expands_to_climb_steep_caves_999.html" >🔗</a> **[SpaceDaily]** Origami style lunar rover wheel expands to climb steep caves
-- <a href="https://www.marsdaily.com/reports/Perseverance_rover_cleared_for_long_distance_Mars_exploration_999.html" >🔗</a> **[SpaceDaily]** Perseverance rover cleared for long distance Mars exploration
-- <a href="https://www.saturndaily.com/reports/Titan_interior_study_points_to_thick_slushy_ice_shell_instead_of_global_ocean_999.html" >🔗</a> **[SpaceDaily]** Titan interior study points to thick slushy ice shell instead of global ocean
-- <a href="https://www.moondaily.com/reports/Sandia_centrifuge_campaign_clears_NASA_VIPER_rover_for_lunar_launch_999.html" >🔗</a> **[SpaceDaily]** Sandia centrifuge campaign clears NASA VIPER rover for lunar launch
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251218T131229">2025-12-18 13:12:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251218T134143">2025-12-18 13:41:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
