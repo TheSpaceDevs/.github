@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.marsdaily.com/reports/Perseverance_rover_cleared_for_long_distance_Mars_exploration_999.html" >🔗</a> **[SpaceDaily]** Perseverance rover cleared for long distance Mars exploration
+- <a href="https://www.saturndaily.com/reports/Titan_interior_study_points_to_thick_slushy_ice_shell_instead_of_global_ocean_999.html" >🔗</a> **[SpaceDaily]** Titan interior study points to thick slushy ice shell instead of global ocean
+- <a href="https://www.moondaily.com/reports/Origami_style_lunar_rover_wheel_expands_to_climb_steep_caves_999.html" >🔗</a> **[SpaceDaily]** Origami style lunar rover wheel expands to climb steep caves
 - <a href="https://science.nasa.gov/blog/hi-ya-hyha/" >🔗</a> **[NASA]** Hi ya! Hyha
 - <a href="https://arstechnica.com/space/2025/12/nasa-finally-and-we-really-do-mean-it-this-time-has-a-full-time-leader/" >🔗</a> **[Arstechnica]** NASA finally—and we really do mean it this time—has a full-time leader
-- <a href="https://spacepolicyonline.com/news/isaacman-confirmed-at-15th-nasa-administrator/" >🔗</a> **[SpacePolicyOnline.com]** Isaacman Confirmed at 15th NASA Administrator
 - <a href="https://spacepolicyonline.com/news/isaacman-confirmed-as-15th-nasa-administrator/" >🔗</a> **[SpacePolicyOnline.com]** Isaacman Confirmed as 15th NASA Administrator
+- <a href="https://spacepolicyonline.com/news/isaacman-confirmed-at-15th-nasa-administrator/" >🔗</a> **[SpacePolicyOnline.com]** Isaacman Confirmed at 15th NASA Administrator
 - <a href="https://www.nasaspaceflight.com/2025/12/ngc-smash22-test/" >🔗</a> **[NASASpaceflight]** Northrop Grumman tests fast-developed SMART motor, looks ahead to future applications
 - <a href="https://spacenews.com/things-to-come-important-bellwethers-for-space-exploration-in-2026/" >🔗</a> **[SpaceNews]** Things to come: Important bellwethers for space exploration in 2026
 - <a href="https://spacenews.com/senate-confirms-isaacman-as-nasa-administrator/" >🔗</a> **[SpaceNews]** Senate confirms Isaacman as NASA administrator
-- <a href="https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-mars-rover-ready-to-roll-for-miles-in-years-ahead/" >🔗</a> **[NASA]** NASA’s Perseverance Mars Rover Ready to Roll for Miles in Years Ahead
-- <a href="https://spacenews.com/lux-aeterna-to-land-first-reusable-satellite-in-australia/" >🔗</a> **[SpaceNews]** Lux Aeterna to land first reusable satellite in Australia
-- <a href="https://www.nasa.gov/image-article/massive-stars-make-their-mark-in-hubble-image/" >🔗</a> **[NASA]** Massive Stars Make Their Mark in Hubble Image
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251218T021639">2025-12-18 02:16:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251218T030020">2025-12-18 03:00:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
