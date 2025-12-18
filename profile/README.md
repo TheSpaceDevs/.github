@@ -90,6 +90,8 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/moonmascot/" >🔗</a> **[NASA]** Moon Mascot: NASA Artemis II ZGI Design Challenge
+- <a href="https://spacenews.com/germany-awards-1-9-billion-sar-satellite-deal-to-rheinmetall-iceye-venture/" >🔗</a> **[SpaceNews]** Germany awards $1.9 billion SAR satellite deal to Rheinmetall-Iceye venture
 - <a href="https://www.nasa.gov/learning-resources/stem-engagement-at-nasa/nasa-announces-2025-international-space-apps-challenge-global-winners/" >🔗</a> **[NASA]** NASA Announces 2025 International Space Apps Challenge Global Winners
 - <a href="https://spaceflightnow.com/2025/12/18/rocket-lab-launches-4-novel-disksat-satellites-for-u-s-space-force-nasa/" >🔗</a> **[Spaceflight Now]** Rocket Lab launches 4 novel DiskSat satellites for U.S. Space Force, NASA
 - <a href="https://www.nasa.gov/image-article/nasa-lab-completes-engine-checks-on-new-aircraft/" >🔗</a> **[NASA]** NASA Lab Completes Engine Checks on New Aircraft
@@ -98,8 +100,6 @@ into *a Suborbital
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Hubble_sees_asteroids_colliding_around_nearby_star" >🔗</a> **[ESA]** Hubble sees asteroids colliding around nearby star
 - <a href="https://www.nasa.gov/missions/spherex/nasas-spherex-observatory-completes-first-cosmic-map-like-no-other/" >🔗</a> **[NASA]** NASA’s SPHEREx Observatory Completes First Cosmic Map Like No Other
 - <a href="https://www.nasa.gov/news-release/nasa-welcomes-15th-administrator-jared-isaacman/" >🔗</a> **[NASA]** NASA Welcomes 15th Administrator Jared Isaacman
-- <a href="https://spacenews.com/hawkeye-360-expands-defense-footprint-with-acquisition-of-innovative-signal-analysis/" >🔗</a> **[SpaceNews]** HawkEye 360 expands defense footprint with acquisition of Innovative Signal Analysis
-- <a href="https://www.spacescout.info/2025/12/atlas-v-leo-4-turns-the-page/" >🔗</a> **[Space Scout]** Atlas V Leo 4 Turns the Page
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251218T220150">2025-12-18 22:01:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251218T223523">2025-12-18 22:35:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
