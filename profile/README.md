@@ -89,6 +89,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/meet-nasas-astronaut-class-of-2025-webby-submission/" >🔗</a> **[NASA]** Meet NASA’s Astronaut Class of 2025 – Webby Submission
 - <a href="https://spacenews.com/space-development-agency-awards-3-5-billion-in-contracts-for-missile-tracking-satellites/" >🔗</a> **[SpaceNews]** Space Development Agency awards $3.5 billion in contracts for missile-tracking satellites
 - <a href="https://spacenews.com/hungarys-4ig-commits-to-100-million-axiom-space-investment/" >🔗</a> **[SpaceNews]** Hungary’s 4iG commits to $100 million Axiom Space investment
 - <a href="https://www.nasa.gov/news-release/nasa-shares-spacex-crew-12-assignments-for-space-station-mission/" >🔗</a> **[NASA]** NASA Shares SpaceX Crew-12 Assignments for Space Station Mission
@@ -98,7 +99,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasa.gov/image-article/water-droplet-science/" >🔗</a> **[NASA]** Water Droplet Science
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/12/Galileo_the_journey_of_satellites_33_and_34" >🔗</a> **[ESA]** Galileo: the journey of satellites 33 and 34
 - <a href="https://www.esa.int/About_Us/Business_with_ESA/Post-CM25_industry_event_online_set_for_14_January" >🔗</a> **[ESA]** Post-CM25 industry event online set for 14 January
-- <a href="https://arstechnica.com/space/2025/12/russia-is-about-to-do-the-most-russia-thing-ever-with-its-next-space-station/" >🔗</a> **[Arstechnica]** Russia is about to do the most Russia thing ever with its next space station
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251219T220144">2025-12-19 22:01:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251219T223527">2025-12-19 22:35:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
