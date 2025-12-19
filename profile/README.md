@@ -89,6 +89,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/esa-weighing-options-to-address-exploration-funding-shortfall/" >🔗</a> **[SpaceNews]** ESA weighing options to address exploration funding shortfall
 - <a href="https://www.nasa.gov/image-article/water-droplet-science/" >🔗</a> **[NASA]** Water Droplet Science
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/12/Galileo_the_journey_of_satellites_33_and_34" >🔗</a> **[ESA]** Galileo: the journey of satellites 33 and 34
 - <a href="https://www.esa.int/About_Us/Business_with_ESA/Post-CM25_industry_event_online_set_for_14_January" >🔗</a> **[ESA]** Post-CM25 industry event online set for 14 January
@@ -98,7 +99,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://arstechnica.com/space/2025/12/two-space-startups-prove-you-dont-need-to-break-the-bank-to-rendezvous-in-space/" >🔗</a> **[Arstechnica]** Two space startups prove you don’t need to break the bank to rendezvous in space
 - <a href="https://www.nasa.gov/centers-and-facilities/nssc/metrics/" >🔗</a> **[NASA]** Metrics
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_15-19_December_2025" >🔗</a> **[ESA]** Week in images: 15-19 December 2025
-- <a href="https://spacenews.com/the-hidden-backbone-of-space-security-how-to-keep-satellites-safe-through-proper-logistics/" >🔗</a> **[SpaceNews]** The hidden backbone of space security: how to keep satellites safe through proper logistics
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251219T190140">2025-12-19 19:01:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251219T193135">2025-12-19 19:31:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
