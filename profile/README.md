@@ -90,6 +90,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/iceye-and-rheinmetall-win-e1-7-billion-german-armed-forces-contract/" >🔗</a> **[European Spaceflight]** ICEYE and Rheinmetall Win €1.7 Billion German Armed Forces Contract
 - <a href="https://www.nasa.gov/missions/station/iss-research/space-station-research-supports-new-fda-approved-cancer-therapy/" >🔗</a> **[NASA]** Space Station Research Supports New FDA-Approved Cancer Therapy
 - <a href="https://spacepolicyonline.com/news/trump-issues-executive-order-to-ensure-u-s-space-superiority/" >🔗</a> **[SpacePolicyOnline.com]** Trump Issues Executive Order to Ensure U.S. Space Superiority
 - <a href="https://www.energy-daily.com/reports/The_Quantum_Age_will_be_Powered_by_Fusion_999.html" >🔗</a> **[SpaceDaily]** The Quantum Age will be Powered by Fusion
@@ -99,7 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/what-problem-is-charging-for-space-situational-awareness-supposed-to-solve/" >🔗</a> **[SpaceNews]** What problem is charging for Space Situational Awareness supposed to solve?
 - <a href="https://arstechnica.com/space/2025/12/trump-commits-to-moon-landing-by-2028-followed-by-a-lunar-outpost-two-years-later/" >🔗</a> **[Arstechnica]** Trump commits to Moon landing by 2028, followed by a lunar outpost two years later
 - <a href="https://www.nasa.gov/general/moonmascot/" >🔗</a> **[NASA]** Moon Mascot: NASA Artemis II ZGI Design Challenge
-- <a href="https://spacenews.com/germany-awards-1-9-billion-sar-satellite-deal-to-rheinmetall-iceye-venture/" >🔗</a> **[SpaceNews]** Germany awards $1.9 billion SAR satellite deal to Rheinmetall-Iceye venture
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251219T050237">2025-12-19 05:02:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251219T053610">2025-12-19 05:36:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
