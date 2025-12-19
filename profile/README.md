@@ -90,16 +90,16 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/12/Webb_Dwarf_stars_in_a_glittering_sky" >🔗</a> **[ESA]** Webb: Dwarf stars in a glittering sky
+- <a href="https://www.spacedaily.com/reports/LizzieSat_3_completes_bus_commissioning_for_multi_mission_AI_operations_999.html" >🔗</a> **[SpaceDaily]** LizzieSat 3 completes bus commissioning for multi mission AI operations
+- <a href="https://www.spacewar.com/reports/BlackSky_accelerates_Gen_3_satellite_into_full_commercial_service_in_three_weeks_999.html" >🔗</a> **[SpaceDaily]** BlackSky accelerates Gen-3 satellite into full commercial service in three weeks
+- <a href="https://www.spacedaily.com/reports/Laser_experiment_proposed_to_probe_quantum_nature_of_gravity_999.html" >🔗</a> **[SpaceDaily]** Laser experiment proposed to probe quantum nature of gravity
+- <a href="https://www.spacedaily.com/reports/NASA_backs_CINEMA_smallsat_fleet_to_probe_Earth_magnetotail_999.html" >🔗</a> **[SpaceDaily]** NASA backs CINEMA smallsat fleet to probe Earth magnetotail
+- <a href="https://www.spacedaily.com/reports/New_NASA_Sensor_Goes_Hunting_for_Critical_Minerals_999.html" >🔗</a> **[SpaceDaily]** New NASA Sensor Goes Hunting for Critical Minerals
+- <a href="https://www.spacedaily.com/reports/Sentinel_6B_begins_sea_level_mapping_campaign_999.html" >🔗</a> **[SpaceDaily]** Sentinel 6B begins sea level mapping campaign
+- <a href="https://www.robodaily.com/reports/Robot_make_me_a_chair_999.html" >🔗</a> **[SpaceDaily]** "Robot, make me a chair" robot-make-me-a-chair-in-six-prompts
+- <a href="https://www.moondaily.com/reports/Trump_shifts_priority_to_Moon_mission_not_Mars_999.html" >🔗</a> **[SpaceDaily]** Trump shifts priority to Moon mission, not Mars
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/12/Earth_from_Space_Manicouagan_crater" >🔗</a> **[ESA]** Earth from Space: Manicouagan crater
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/12/Dwarf_stars_in_a_glittering_sky" >🔗</a> **[ESA]** Dwarf stars in a glittering sky
-- <a href="https://europeanspaceflight.com/iceye-and-rheinmetall-win-e1-7-billion-german-armed-forces-contract/" >🔗</a> **[European Spaceflight]** ICEYE and Rheinmetall Win €1.7 Billion German Armed Forces Contract
-- <a href="https://www.nasa.gov/missions/station/iss-research/space-station-research-supports-new-fda-approved-cancer-therapy/" >🔗</a> **[NASA]** Space Station Research Supports New FDA-Approved Cancer Therapy
-- <a href="https://spacepolicyonline.com/news/trump-issues-executive-order-to-ensure-u-s-space-superiority/" >🔗</a> **[SpacePolicyOnline.com]** Trump Issues Executive Order to Ensure U.S. Space Superiority
-- <a href="https://www.spacedaily.com/reports/How_to_pick_the_right_web_testing_framework_for_your_project_999.html" >🔗</a> **[SpaceDaily]** How to pick the right web testing framework for your project
-- <a href="https://www.energy-daily.com/reports/The_Quantum_Age_will_be_Powered_by_Fusion_999.html" >🔗</a> **[SpaceDaily]** The Quantum Age will be Powered by Fusion
-- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4743-4749-polygons-in-the-hollow/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4743-4749:  Polygons in the Hollow
-- <a href="https://spacenews.com/trump-signs-sweeping-executive-order-to-assert-u-s-dominance-in-space/" >🔗</a> **[SpaceNews]** Trump signs sweeping executive order to assert U.S. dominance in space
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251219T100152">2025-12-19 10:01:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251219T103726">2025-12-19 10:37:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
