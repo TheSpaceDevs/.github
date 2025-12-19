@@ -90,16 +90,16 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.spacedaily.com/reports/New_NASA_Sensor_Goes_Hunting_for_Critical_Minerals_999.html" >🔗</a> **[SpaceDaily]** New NASA Sensor Goes Hunting for Critical Minerals
-- <a href="https://www.spacedaily.com/reports/LizzieSat_3_completes_bus_commissioning_for_multi_mission_AI_operations_999.html" >🔗</a> **[SpaceDaily]** LizzieSat 3 completes bus commissioning for multi mission AI operations
-- <a href="https://www.spacedaily.com/reports/Laser_experiment_proposed_to_probe_quantum_nature_of_gravity_999.html" >🔗</a> **[SpaceDaily]** Laser experiment proposed to probe quantum nature of gravity
-- <a href="https://www.spacedaily.com/reports/NASA_backs_CINEMA_smallsat_fleet_to_probe_Earth_magnetotail_999.html" >🔗</a> **[SpaceDaily]** NASA backs CINEMA smallsat fleet to probe Earth magnetotail
-- <a href="https://www.spacewar.com/reports/BlackSky_accelerates_Gen_3_satellite_into_full_commercial_service_in_three_weeks_999.html" >🔗</a> **[SpaceDaily]** BlackSky accelerates Gen-3 satellite into full commercial service in three weeks
+- <a href="https://science.nasa.gov/missions/hubble/hubble-glimpses-galactic-gas-making-a-getaway/" >🔗</a> **[NASA]** Hubble Glimpses Galactic Gas Making a Getaway
 - <a href="https://www.spacedaily.com/reports/Sentinel_6B_begins_sea_level_mapping_campaign_999.html" >🔗</a> **[SpaceDaily]** Sentinel 6B begins sea level mapping campaign
 - <a href="https://www.moondaily.com/reports/Trump_shifts_priority_to_Moon_mission_not_Mars_999.html" >🔗</a> **[SpaceDaily]** Trump shifts priority to Moon mission, not Mars
+- <a href="https://www.spacedaily.com/reports/LizzieSat_3_completes_bus_commissioning_for_multi_mission_AI_operations_999.html" >🔗</a> **[SpaceDaily]** LizzieSat 3 completes bus commissioning for multi mission AI operations
+- <a href="https://www.spacewar.com/reports/BlackSky_accelerates_Gen_3_satellite_into_full_commercial_service_in_three_weeks_999.html" >🔗</a> **[SpaceDaily]** BlackSky accelerates Gen-3 satellite into full commercial service in three weeks
+- <a href="https://www.spacedaily.com/reports/Laser_experiment_proposed_to_probe_quantum_nature_of_gravity_999.html" >🔗</a> **[SpaceDaily]** Laser experiment proposed to probe quantum nature of gravity
+- <a href="https://www.spacedaily.com/reports/New_NASA_Sensor_Goes_Hunting_for_Critical_Minerals_999.html" >🔗</a> **[SpaceDaily]** New NASA Sensor Goes Hunting for Critical Minerals
 - <a href="https://www.robodaily.com/reports/Robot_make_me_a_chair_999.html" >🔗</a> **[SpaceDaily]** "Robot, make me a chair" robot-make-me-a-chair-in-six-prompts
+- <a href="https://www.spacedaily.com/reports/NASA_backs_CINEMA_smallsat_fleet_to_probe_Earth_magnetotail_999.html" >🔗</a> **[SpaceDaily]** NASA backs CINEMA smallsat fleet to probe Earth magnetotail
 - <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/betelgeuse-and-the-crab-nebula/" >🔗</a> **[NASA]** Betelgeuse and the Crab Nebula: Stellar Death and Rebirth
-- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Future_space_transportation/Introducing_ARIEL_a_new_250_N_thruster" >🔗</a> **[ESA]** Introducing ARIEL, a new 250 N thruster
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251219T120201">2025-12-19 12:02:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251219T124328">2025-12-19 12:43:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
