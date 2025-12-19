@@ -89,6 +89,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-shares-spacex-crew-12-assignments-for-space-station-mission/" >🔗</a> **[NASA]** NASA Shares SpaceX Crew-12 Assignments for Space Station Mission
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-johnsons-2025-milestones/" >🔗</a> **[NASA]** NASA Johnson’s 2025 Milestones
 - <a href="https://www.nasa.gov/humans-in-space/commercial-space/nasas-wideband-technology-demo-proves-space-missions-are-free-to-roam/" >🔗</a> **[NASA]** NASA’s Wideband Technology Demo Proves Space Missions are Free to Roam
 - <a href="https://spacenews.com/esa-weighing-options-to-address-exploration-funding-shortfall/" >🔗</a> **[SpaceNews]** ESA weighing options to address exploration funding shortfall
@@ -98,7 +99,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://arstechnica.com/space/2025/12/russia-is-about-to-do-the-most-russia-thing-ever-with-its-next-space-station/" >🔗</a> **[Arstechnica]** Russia is about to do the most Russia thing ever with its next space station
 - <a href="https://www.esa.int/About_Us/ESA_Publications/ESA_Impact_2025_-_October-December" >🔗</a> **[ESA]** ESA Impact 2025 - October-December
 - <a href="https://spacenews.com/middle-east-space-conference-2026-returns-to-muscat-as-a-strategic-platform-for-regional-growth/" >🔗</a> **[SpaceNews]** Middle East Space Conference 2026 Returns to Muscat as a Strategic Platform for Regional Growth
-- <a href="https://arstechnica.com/space/2025/12/two-space-startups-prove-you-dont-need-to-break-the-bank-to-rendezvous-in-space/" >🔗</a> **[Arstechnica]** Two space startups prove you don’t need to break the bank to rendezvous in space
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251219T200149">2025-12-19 20:01:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251219T203540">2025-12-19 20:35:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
