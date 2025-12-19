@@ -90,6 +90,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/water-droplet-science/" >🔗</a> **[NASA]** Water Droplet Science
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/12/Galileo_the_journey_of_satellites_33_and_34" >🔗</a> **[ESA]** Galileo: the journey of satellites 33 and 34
 - <a href="https://www.esa.int/About_Us/Business_with_ESA/Post-CM25_industry_event_online_set_for_14_January" >🔗</a> **[ESA]** Post-CM25 industry event online set for 14 January
 - <a href="https://arstechnica.com/space/2025/12/russia-is-about-to-do-the-most-russia-thing-ever-with-its-next-space-station/" >🔗</a> **[Arstechnica]** Russia is about to do the most Russia thing ever with its next space station
@@ -99,7 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/nssc/metrics/" >🔗</a> **[NASA]** Metrics
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_15-19_December_2025" >🔗</a> **[ESA]** Week in images: 15-19 December 2025
 - <a href="https://spacenews.com/the-hidden-backbone-of-space-security-how-to-keep-satellites-safe-through-proper-logistics/" >🔗</a> **[SpaceNews]** The hidden backbone of space security: how to keep satellites safe through proper logistics
-- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Europe_s_Spaceport/Europe_s_next_solid_propellant_rocket_motor_passes_review" >🔗</a> **[ESA]** Europe’s next solid propellant rocket motor passes review
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251219T180153">2025-12-19 18:01:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251219T184106">2025-12-19 18:41:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
