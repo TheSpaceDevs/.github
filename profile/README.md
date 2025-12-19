@@ -53,7 +53,7 @@ into *a Sun-Synchronous Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251224T025000">2025-12-24 02:50:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=LVM-3 | BlueBird Block 2 #1&location=Satish Dhawan Space Centre, India&dates=20251224T025000Z%2F20251224T065000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **LVM-3 | BlueBird Block 2 #1** from Satish Dhawan Space Centre, India.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251225T231800">2025-12-25 23:18:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 8A | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20251225T231800Z%2F20251225T234300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 8A | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251226T160000">2025-12-26 16:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 3B/E | Fengyun-4C&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20251226T160000Z%2F20251226T190000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 3B/E | Fengyun-4C** from Xichang Satellite Launch Center, People's Republic of China.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251228T020900">2025-12-28 02:09:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | CSG-3&location=Vandenberg SFB, CA, USA&dates=20251228T020900Z%2F20251228T020900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | CSG-3** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251228T020800">2025-12-28 02:08:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | CSG-3&location=Vandenberg SFB, CA, USA&dates=20251228T020800Z%2F20251228T020800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | CSG-3** from Vandenberg SFB, CA, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -89,6 +89,8 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-johnsons-2025-milestones/" >🔗</a> **[NASA]** NASA Johnson’s 2025 Milestones
+- <a href="https://www.nasa.gov/humans-in-space/commercial-space/nasas-wideband-technology-demo-proves-space-missions-are-free-to-roam/" >🔗</a> **[NASA]** NASA’s Wideband Technology Demo Proves Space Missions are Free to Roam
 - <a href="https://spacenews.com/esa-weighing-options-to-address-exploration-funding-shortfall/" >🔗</a> **[SpaceNews]** ESA weighing options to address exploration funding shortfall
 - <a href="https://www.nasa.gov/image-article/water-droplet-science/" >🔗</a> **[NASA]** Water Droplet Science
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/12/Galileo_the_journey_of_satellites_33_and_34" >🔗</a> **[ESA]** Galileo: the journey of satellites 33 and 34
@@ -97,8 +99,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.esa.int/About_Us/ESA_Publications/ESA_Impact_2025_-_October-December" >🔗</a> **[ESA]** ESA Impact 2025 - October-December
 - <a href="https://spacenews.com/middle-east-space-conference-2026-returns-to-muscat-as-a-strategic-platform-for-regional-growth/" >🔗</a> **[SpaceNews]** Middle East Space Conference 2026 Returns to Muscat as a Strategic Platform for Regional Growth
 - <a href="https://arstechnica.com/space/2025/12/two-space-startups-prove-you-dont-need-to-break-the-bank-to-rendezvous-in-space/" >🔗</a> **[Arstechnica]** Two space startups prove you don’t need to break the bank to rendezvous in space
-- <a href="https://www.nasa.gov/centers-and-facilities/nssc/metrics/" >🔗</a> **[NASA]** Metrics
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_15-19_December_2025" >🔗</a> **[ESA]** Week in images: 15-19 December 2025
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251219T193135">2025-12-19 19:31:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251219T200149">2025-12-19 20:01:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
