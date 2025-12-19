@@ -90,16 +90,16 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2025/12/two-space-startups-prove-you-dont-need-to-break-the-bank-to-rendezvous-in-space/" >🔗</a> **[Arstechnica]** Two space startups prove you don’t need to break the bank to rendezvous in space
+- <a href="https://www.nasa.gov/centers-and-facilities/nssc/metrics/" >🔗</a> **[NASA]** Metrics
+- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_15-19_December_2025" >🔗</a> **[ESA]** Week in images: 15-19 December 2025
 - <a href="https://spacenews.com/the-hidden-backbone-of-space-security-how-to-keep-satellites-safe-through-proper-logistics/" >🔗</a> **[SpaceNews]** The hidden backbone of space security: how to keep satellites safe through proper logistics
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Europe_s_Spaceport/Europe_s_next_solid_propellant_rocket_motor_passes_review" >🔗</a> **[ESA]** Europe’s next solid propellant rocket motor passes review
 - <a href="https://spacenews.com/astrobotic-secures-contracts-for-suborbital-vehicle-development/" >🔗</a> **[SpaceNews]** Astrobotic secures contracts for suborbital vehicle development
 - <a href="https://science.nasa.gov/missions/hubble/hubble-glimpses-galactic-gas-making-a-getaway/" >🔗</a> **[NASA]** Hubble Glimpses Galactic Gas Making a Getaway
 - <a href="https://www.spacewar.com/reports/BlackSky_accelerates_Gen_3_satellite_into_full_commercial_service_in_three_weeks_999.html" >🔗</a> **[SpaceDaily]** BlackSky accelerates Gen-3 satellite into full commercial service in three weeks
-- <a href="https://www.spacedaily.com/reports/Sentinel_6B_begins_sea_level_mapping_campaign_999.html" >🔗</a> **[SpaceDaily]** Sentinel 6B begins sea level mapping campaign
+- <a href="https://www.spacedaily.com/reports/New_NASA_Sensor_Goes_Hunting_for_Critical_Minerals_999.html" >🔗</a> **[SpaceDaily]** New NASA Sensor Goes Hunting for Critical Minerals
 - <a href="https://www.robodaily.com/reports/Robot_make_me_a_chair_999.html" >🔗</a> **[SpaceDaily]** "Robot, make me a chair" robot-make-me-a-chair-in-six-prompts
-- <a href="https://www.spacedaily.com/reports/LizzieSat_3_completes_bus_commissioning_for_multi_mission_AI_operations_999.html" >🔗</a> **[SpaceDaily]** LizzieSat 3 completes bus commissioning for multi mission AI operations
-- <a href="https://www.spacedaily.com/reports/NASA_backs_CINEMA_smallsat_fleet_to_probe_Earth_magnetotail_999.html" >🔗</a> **[SpaceDaily]** NASA backs CINEMA smallsat fleet to probe Earth magnetotail
-- <a href="https://www.moondaily.com/reports/Trump_shifts_priority_to_Moon_mission_not_Mars_999.html" >🔗</a> **[SpaceDaily]** Trump shifts priority to Moon mission, not Mars
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251219T150149">2025-12-19 15:01:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251219T153546">2025-12-19 15:35:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
