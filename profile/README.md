@@ -90,6 +90,8 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacedaily.com/reports/How_to_pick_the_right_web_testing_framework_for_your_project_999.html" >🔗</a> **[SpaceDaily]** How to pick the right web testing framework for your project
+- <a href="https://www.energy-daily.com/reports/The_Quantum_Age_will_be_Powered_by_Fusion_999.html" >🔗</a> **[SpaceDaily]** The Quantum Age will be Powered by Fusion
 - <a href="https://spacenews.com/trump-signs-sweeping-executive-order-to-assert-u-s-dominance-in-space/" >🔗</a> **[SpaceNews]** Trump signs sweeping executive order to assert U.S. dominance in space
 - <a href="https://spacenews.com/what-problem-is-charging-for-space-situational-awareness-supposed-to-solve/" >🔗</a> **[SpaceNews]** What problem is charging for Space Situational Awareness supposed to solve?
 - <a href="https://arstechnica.com/space/2025/12/trump-commits-to-moon-landing-by-2028-followed-by-a-lunar-outpost-two-years-later/" >🔗</a> **[Arstechnica]** Trump commits to Moon landing by 2028, followed by a lunar outpost two years later
@@ -98,8 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasa.gov/learning-resources/stem-engagement-at-nasa/nasa-announces-2025-international-space-apps-challenge-global-winners/" >🔗</a> **[NASA]** NASA Announces 2025 International Space Apps Challenge Global Winners
 - <a href="https://spaceflightnow.com/2025/12/18/rocket-lab-launches-4-novel-disksat-satellites-for-u-s-space-force-nasa/" >🔗</a> **[Spaceflight Now]** Rocket Lab launches 4 novel DiskSat satellites for U.S. Space Force, NASA
 - <a href="https://www.nasa.gov/image-article/nasa-lab-completes-engine-checks-on-new-aircraft/" >🔗</a> **[NASA]** NASA Lab Completes Engine Checks on New Aircraft
-- <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-sees-asteroids-colliding-at-nearby-star-for-first-time/" >🔗</a> **[NASA]** NASA’s Hubble Sees Asteroids Colliding at Nearby Star for First Time
-- <a href="https://www.nasa.gov/aeronautics/nasa-boeing-test-aircraft-wings/" >🔗</a> **[NASA]** NASA, Boeing Test How to Improve Performance of Longer, Narrower Aircraft Wings
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251219T000536">2025-12-19 00:05:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251219T004612">2025-12-19 00:46:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
