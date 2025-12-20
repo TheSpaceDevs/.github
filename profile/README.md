@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/blue-origin-flies-first-wheelchair-user-to-space/" >🔗</a> **[SpaceNews]** Blue Origin flies first wheelchair user to space
 - <a href="https://spacepolicyonline.com/news/first-wheelchair-user-flies-to-space/" >🔗</a> **[SpacePolicyOnline.com]** First Wheelchair User Flies to Space
 - <a href="https://europeanspaceflight.com/redwire-tapped-to-provide-docking-mechanisms-for-nyx-earth-capsule/" >🔗</a> **[European Spaceflight]** Redwire Tapped to Provide Docking Mechanisms for Nyx Earth Capsule
 - <a href="https://science.nasa.gov/blog/wind-sculpted-landscapes-investigating-the-martian-megaripple-hazyview/" >🔗</a> **[NASA]** Wind-Sculpted Landscapes: Investigating the Martian Megaripple ‘Hazyview’
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/space-development-agency-awards-3-5-billion-in-contracts-for-missile-tracking-satellites/" >🔗</a> **[SpaceNews]** Space Development Agency awards $3.5 billion in contracts for missile-tracking satellites
 - <a href="https://spacenews.com/hungarys-4ig-commits-to-100-million-axiom-space-investment/" >🔗</a> **[SpaceNews]** Hungary’s 4iG commits to $100 million Axiom Space investment
 - <a href="https://www.nasa.gov/news-release/nasa-shares-spacex-crew-12-assignments-for-space-station-mission/" >🔗</a> **[NASA]** NASA Shares SpaceX Crew-12 Assignments for Space Station Mission
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-johnsons-2025-milestones/" >🔗</a> **[NASA]** NASA Johnson’s 2025 Milestones
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251220T170118">2025-12-20 17:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251220T173259">2025-12-20 17:32:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
