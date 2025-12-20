@@ -19,27 +19,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**New Shepard | NS-37**. It is scheduled to be launched by *Blue Origin*
+**Electron | The Wisdom God Guides (iQPS Launch 6)**. It is scheduled to be launched by *Rocket Lab*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Corn_Ranch">West Texas Suborbital Launch Site/ Corn Ranch</a>, Corn Ranch, Van Horn, TX, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251220T140000">2025-12-20 14:00:00 UTC</a>.  Until
-then, this pad will have been used for 36
-out of 36 launches from this location. The launch status is currently
+from *<a href="None">Unknown Pad</a>, Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251221T063800">2025-12-21 06:38:00 UTC</a>.  Until
+then, this pad will have been used for 0
+out of 68 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Tourism* and the payload will be injected
-into *a Suborbital
-(Sub)*.
+*Earth Science* and the payload will be injected
+into *a Low Earth Orbit
+(LEO)*.
 <br>
 <blockquote>
-  NS-37 is the 16th crewed flight for the New Shepard program and the 37th in the New Shepard program's history.
+  Synthetic aperture radar Earth observation satellite for Japanese Earth imaging company iQPS.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/New_Shepard" >
+  <a href="https://en.wikipedia.org/wiki/Rocket_Lab_Electron" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=31.422878000000000,-104.757121000000000" >
+  <a href="None" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -54,6 +54,7 @@ into *a Suborbital
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251228T020800">2025-12-28 02:08:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | CSG-3&location=Vandenberg SFB, CA, USA&dates=20251228T020800Z%2F20251228T020800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | CSG-3** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251228T131805">2025-12-28 13:18:05 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b/Fregat-M | AIST-2T 01 &amp; 02&location=Vostochny Cosmodrome, Siberia, Russian Federation&dates=20251228T131805Z%2F20251228T131805Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1b/Fregat-M | AIST-2T 01 & 02** from Vostochny Cosmodrome, Siberia, Russian Federation.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251230T210000">2025-12-30 21:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 7A | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20251230T210000Z%2F20251230T235000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 7A | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251231T000000">2025-12-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ceres-2 | Demo Flight&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20251231T000000Z%2F20251231T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ceres-2 | Demo Flight** from Jiuquan Satellite Launch Center, People's Republic of China.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -103,13 +104,12 @@ into *a Suborbital
 
 ### Launch-related News 🚀
 
-- <a href="https://www.nasaspaceflight.com/2025/12/launch-roundup-121625/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Ariane 6, Falcon 9, Atlas V, and Electron launches highlight busy week
-- <a href="https://arstechnica.com/space/2025/10/one-of-spacexs-earliest-employees-is-going-to-space-via-blue-origin/" >🔗</a> **[Arstechnica]** One of SpaceX’s earliest employees is going to space—via Blue Origin
+- <a href="https://spacenews.com/japans-iqps-lines-up-eight-sar-launches/" >🔗</a> **[SpaceNews]** Japan’s iQPS lines up eight SAR launches
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251220T140122">2025-12-20 14:01:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251220T143353">2025-12-20 14:33:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
