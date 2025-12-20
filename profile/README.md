@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/first-wheelchair-user-flies-to-space/" >🔗</a> **[SpacePolicyOnline.com]** First Wheelchair User Flies to Space
 - <a href="https://europeanspaceflight.com/redwire-tapped-to-provide-docking-mechanisms-for-nyx-earth-capsule/" >🔗</a> **[European Spaceflight]** Redwire Tapped to Provide Docking Mechanisms for Nyx Earth Capsule
 - <a href="https://science.nasa.gov/blog/wind-sculpted-landscapes-investigating-the-martian-megaripple-hazyview/" >🔗</a> **[NASA]** Wind-Sculpted Landscapes: Investigating the Martian Megaripple ‘Hazyview’
 - <a href="https://spaceflightnow.com/2025/12/20/space-development-agency-awards-roughly-3-5-billion-to-4-companies-for-72-missile-tracking-and-warning-satellites/" >🔗</a> **[Spaceflight Now]** Space Development Agency awards roughly $3.5 billion to 4 companies for 72 missile tracking and warning satellites
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/hungarys-4ig-commits-to-100-million-axiom-space-investment/" >🔗</a> **[SpaceNews]** Hungary’s 4iG commits to $100 million Axiom Space investment
 - <a href="https://www.nasa.gov/news-release/nasa-shares-spacex-crew-12-assignments-for-space-station-mission/" >🔗</a> **[NASA]** NASA Shares SpaceX Crew-12 Assignments for Space Station Mission
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-johnsons-2025-milestones/" >🔗</a> **[NASA]** NASA Johnson’s 2025 Milestones
-- <a href="https://www.nasa.gov/humans-in-space/commercial-space/nasas-wideband-technology-demo-proves-space-missions-are-free-to-roam/" >🔗</a> **[NASA]** NASA’s Wideband Technology Demo Proves Space Missions are Free to Roam
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251220T160148">2025-12-20 16:01:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251220T163652">2025-12-20 16:36:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
