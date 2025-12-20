@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/artemis-ii-crew-rehearse-launch-day-demonstration/" >🔗</a> **[NASA]** Artemis II Crew Rehearse Launch Day Demonstration
 - <a href="https://spacenews.com/blue-origin-flies-first-wheelchair-user-to-space/" >🔗</a> **[SpaceNews]** Blue Origin flies first wheelchair user to space
 - <a href="https://spacepolicyonline.com/news/first-wheelchair-user-flies-to-space/" >🔗</a> **[SpacePolicyOnline.com]** First Wheelchair User Flies to Space
 - <a href="https://europeanspaceflight.com/redwire-tapped-to-provide-docking-mechanisms-for-nyx-earth-capsule/" >🔗</a> **[European Spaceflight]** Redwire Tapped to Provide Docking Mechanisms for Nyx Earth Capsule
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/general/meet-nasas-astronaut-class-of-2025-webby-submission/" >🔗</a> **[NASA]** Meet NASA’s Astronaut Class of 2025 – Webby Submission
 - <a href="https://spacenews.com/space-development-agency-awards-3-5-billion-in-contracts-for-missile-tracking-satellites/" >🔗</a> **[SpaceNews]** Space Development Agency awards $3.5 billion in contracts for missile-tracking satellites
 - <a href="https://spacenews.com/hungarys-4ig-commits-to-100-million-axiom-space-investment/" >🔗</a> **[SpaceNews]** Hungary’s 4iG commits to $100 million Axiom Space investment
-- <a href="https://www.nasa.gov/news-release/nasa-shares-spacex-crew-12-assignments-for-space-station-mission/" >🔗</a> **[NASA]** NASA Shares SpaceX Crew-12 Assignments for Space Station Mission
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251220T210112">2025-12-20 21:01:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251220T213151">2025-12-20 21:31:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
