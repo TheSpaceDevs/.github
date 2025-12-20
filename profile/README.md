@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blog/wind-sculpted-landscapes-investigating-the-martian-megaripple-hazyview/" >🔗</a> **[NASA]** Wind-Sculpted Landscapes: Investigating the Martian Megaripple ‘Hazyview’
 - <a href="https://spaceflightnow.com/2025/12/20/space-development-agency-awards-roughly-3-5-billion-to-4-companies-for-72-missile-tracking-and-warning-satellites/" >🔗</a> **[Spaceflight Now]** Space Development Agency awards roughly $3.5 billion to 4 companies for 72 missile tracking and warning satellites
 - <a href="https://spacenews.com/nasa-safety-panel-recommends-review-of-artemis-plans/" >🔗</a> **[SpaceNews]** NASA safety panel recommends review of Artemis plans
 - <a href="https://www.nasa.gov/general/meet-nasas-astronaut-class-of-2025-webby-submission/" >🔗</a> **[NASA]** Meet NASA’s Astronaut Class of 2025 – Webby Submission
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-johnsons-2025-milestones/" >🔗</a> **[NASA]** NASA Johnson’s 2025 Milestones
 - <a href="https://www.nasa.gov/humans-in-space/commercial-space/nasas-wideband-technology-demo-proves-space-missions-are-free-to-roam/" >🔗</a> **[NASA]** NASA’s Wideband Technology Demo Proves Space Missions are Free to Roam
 - <a href="https://spacenews.com/esa-weighing-options-to-address-exploration-funding-shortfall/" >🔗</a> **[SpaceNews]** ESA weighing options to address exploration funding shortfall
-- <a href="https://www.nasa.gov/image-article/water-droplet-science/" >🔗</a> **[NASA]** Water Droplet Science
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251220T012849">2025-12-20 01:28:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251220T021401">2025-12-20 02:14:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
