@@ -92,6 +92,7 @@ The navigation system objective is to broadcast GPS-interoperable and augmentati
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/12/maven-perseverance-update/" >🔗</a> **[NASASpaceflight]** NASA loses contact with MAVEN, Perseverance continues roving around Jezero
 - <a href="https://spacenews.com/isaacman-emphasizes-accelerating-nasa-programs-as-he-takes-agencys-reins/" >🔗</a> **[SpaceNews]** Isaacman emphasizes accelerating NASA programs as he takes agency’s reins
 - <a href="https://spacenews.com/rocket-lab-wraps-up-record-launch-year/" >🔗</a> **[SpaceNews]** Rocket Lab wraps up record launch year
 - <a href="https://spaceflightnow.com/2025/12/21/astronauts-launch-teams-practice-artemis-2-countdown/" >🔗</a> **[Spaceflight Now]** Astronauts, launch teams practice Artemis 2 countdown
@@ -101,7 +102,6 @@ The navigation system objective is to broadcast GPS-interoperable and augmentati
 - <a href="https://spacepolicyonline.com/news/first-wheelchair-user-flies-to-space/" >🔗</a> **[SpacePolicyOnline.com]** First Wheelchair User Flies to Space
 - <a href="https://europeanspaceflight.com/redwire-tapped-to-provide-docking-mechanisms-for-nyx-earth-capsule/" >🔗</a> **[European Spaceflight]** Redwire Tapped to Provide Docking Mechanisms for Nyx Earth Capsule
 - <a href="https://science.nasa.gov/blog/wind-sculpted-landscapes-investigating-the-martian-megaripple-hazyview/" >🔗</a> **[NASA]** Wind-Sculpted Landscapes: Investigating the Martian Megaripple ‘Hazyview’
-- <a href="https://spaceflightnow.com/2025/12/20/space-development-agency-awards-roughly-3-5-billion-to-4-companies-for-72-missile-tracking-and-warning-satellites/" >🔗</a> **[Spaceflight Now]** Space Development Agency awards roughly $3.5 billion to 4 companies for 72 missile tracking and warning satellites
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ The navigation system objective is to broadcast GPS-interoperable and augmentati
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251221T220119">2025-12-21 22:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251221T223458">2025-12-21 22:34:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
