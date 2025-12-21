@@ -92,6 +92,7 @@ The navigation system objective is to broadcast GPS-interoperable and augmentati
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/rocket-lab-wraps-up-record-launch-year/" >🔗</a> **[SpaceNews]** Rocket Lab wraps up record launch year
 - <a href="https://spaceflightnow.com/2025/12/21/astronauts-launch-teams-practice-artemis-2-countdown/" >🔗</a> **[Spaceflight Now]** Astronauts, launch teams practice Artemis 2 countdown
 - <a href="https://spacepolicyonline.com/news/nasa-meets-new-administrator-jared-isaacman/" >🔗</a> **[SpacePolicyOnline.com]** NASA Meets New Administrator Jared Isaacman
 - <a href="https://www.nasa.gov/image-article/artemis-ii-crew-rehearse-launch-day-demonstration/" >🔗</a> **[NASA]** Artemis II Crew Rehearse Launch Day Demonstration
@@ -101,7 +102,6 @@ The navigation system objective is to broadcast GPS-interoperable and augmentati
 - <a href="https://science.nasa.gov/blog/wind-sculpted-landscapes-investigating-the-martian-megaripple-hazyview/" >🔗</a> **[NASA]** Wind-Sculpted Landscapes: Investigating the Martian Megaripple ‘Hazyview’
 - <a href="https://spaceflightnow.com/2025/12/20/space-development-agency-awards-roughly-3-5-billion-to-4-companies-for-72-missile-tracking-and-warning-satellites/" >🔗</a> **[Spaceflight Now]** Space Development Agency awards roughly $3.5 billion to 4 companies for 72 missile tracking and warning satellites
 - <a href="https://spacenews.com/nasa-safety-panel-recommends-review-of-artemis-plans/" >🔗</a> **[SpaceNews]** NASA safety panel recommends review of Artemis plans
-- <a href="https://www.nasa.gov/general/meet-nasas-astronaut-class-of-2025-webby-submission/" >🔗</a> **[NASA]** Meet NASA’s Astronaut Class of 2025 – Webby Submission
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ The navigation system objective is to broadcast GPS-interoperable and augmentati
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251221T150144">2025-12-21 15:01:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251221T153311">2025-12-21 15:33:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
