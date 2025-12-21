@@ -92,6 +92,7 @@ The navigation system objective is to broadcast GPS-interoperable and augmentati
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/isaacman-emphasizes-accelerating-nasa-programs-as-he-takes-agencys-reins/" >🔗</a> **[SpaceNews]** Isaacman emphasizes accelerating NASA programs as he takes agency’s reins
 - <a href="https://spacenews.com/rocket-lab-wraps-up-record-launch-year/" >🔗</a> **[SpaceNews]** Rocket Lab wraps up record launch year
 - <a href="https://spaceflightnow.com/2025/12/21/astronauts-launch-teams-practice-artemis-2-countdown/" >🔗</a> **[Spaceflight Now]** Astronauts, launch teams practice Artemis 2 countdown
 - <a href="https://spacepolicyonline.com/news/nasa-meets-new-administrator-jared-isaacman/" >🔗</a> **[SpacePolicyOnline.com]** NASA Meets New Administrator Jared Isaacman
@@ -101,7 +102,6 @@ The navigation system objective is to broadcast GPS-interoperable and augmentati
 - <a href="https://europeanspaceflight.com/redwire-tapped-to-provide-docking-mechanisms-for-nyx-earth-capsule/" >🔗</a> **[European Spaceflight]** Redwire Tapped to Provide Docking Mechanisms for Nyx Earth Capsule
 - <a href="https://science.nasa.gov/blog/wind-sculpted-landscapes-investigating-the-martian-megaripple-hazyview/" >🔗</a> **[NASA]** Wind-Sculpted Landscapes: Investigating the Martian Megaripple ‘Hazyview’
 - <a href="https://spaceflightnow.com/2025/12/20/space-development-agency-awards-roughly-3-5-billion-to-4-companies-for-72-missile-tracking-and-warning-satellites/" >🔗</a> **[Spaceflight Now]** Space Development Agency awards roughly $3.5 billion to 4 companies for 72 missile tracking and warning satellites
-- <a href="https://spacenews.com/nasa-safety-panel-recommends-review-of-artemis-plans/" >🔗</a> **[SpaceNews]** NASA safety panel recommends review of Artemis plans
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ The navigation system objective is to broadcast GPS-interoperable and augmentati
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251221T160143">2025-12-21 16:01:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251221T163653">2025-12-21 16:36:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
