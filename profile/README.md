@@ -90,16 +90,16 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.spacedaily.com/reports/Europa_Clipper_spectrograph_tracks_interstellar_comet_3I_ATLAS_999.html" >🔗</a> **[SpaceDaily]** Europa Clipper spectrograph tracks interstellar comet 3I ATLAS
+- <a href="https://spacenews.com/japans-h3-suffers-second-stage-anomaly-qzs-5-satellite-lost/" >🔗</a> **[SpaceNews]** Japan’s H3 suffers second-stage anomaly, QZS-5 satellite lost
+- <a href="https://europeanspaceflight.com/hungarys-4ig-to-invest-100-million-in-axiom-space/" >🔗</a> **[European Spaceflight]** Hungary’s 4iG to Invest $100 Million in Axiom Space
 - <a href="https://www.spacewar.com/reports/Globalstar_Skydio_trial_validates_Band_n53_for_public_safety_drone_links_999.html" >🔗</a> **[SpaceDaily]** Globalstar Skydio trial validates Band n53 for public safety drone links
-- <a href="https://www.moondaily.com/reports/NASA_Langley_begins_plume_surface_interaction_tests_to_support_future_lunar_landings_999.html" >🔗</a> **[SpaceDaily]** NASA Langley begins plume surface interaction tests to support future lunar landings
 - <a href="https://www.spacewar.com/reports/Leonardo_DRS_space_radio_completes_first_secure_on_orbit_data_transport_test_999.html" >🔗</a> **[SpaceDaily]** Leonardo DRS space radio completes first secure on orbit data transport test
 - <a href="https://www.spacedaily.com/reports/Clues_to_the_migration_path_of_hot_Jupiters_in_their_orbits_999.html" >🔗</a> **[SpaceDaily]** Clues to the migration path of hot Jupiters in their orbits
 - <a href="https://www.marsdaily.com/reports/Search_for_life_should_be_top_science_priority_for_first_human_landing_on_Mars_report_says_999.html" >🔗</a> **[SpaceDaily]** Search for life should be top science priority for first human landing on Mars report says
-- <a href="https://www.spacedaily.com/reports/Possible_superkilonova_exploded_not_once_but_twice_999.html" >🔗</a> **[SpaceDaily]** Possible "superkilonova" exploded not once but twice
 - <a href="https://www.spacedaily.com/reports/Proba_3_mission_closes_gap_in_inner_solar_corona_monitoring_999.html" >🔗</a> **[SpaceDaily]** Proba-3 mission closes gap in inner solar corona monitoring
+- <a href="https://www.spacedaily.com/reports/Possible_superkilonova_exploded_not_once_but_twice_999.html" >🔗</a> **[SpaceDaily]** Possible "superkilonova" exploded not once but twice
 - <a href="https://www.spacedaily.com/reports/Smart_modeling_framework_targets_6G_spectrum_chaos_in_space_air_and_ground_networks_999.html" >🔗</a> **[SpaceDaily]** Smart modeling framework targets 6G spectrum chaos in space air and ground networks
-- <a href="https://www.spacewar.com/reports/Eutelsat_Network_Solutions_to_lead_global_rollout_of_Intellian_OW7MP_manpack_SATCOM_terminal_999.html" >🔗</a> **[SpaceDaily]** Eutelsat Network Solutions to lead global rollout of Intellian OW7MP manpack SATCOM terminal
+- <a href="https://www.moondaily.com/reports/NASA_Langley_begins_plume_surface_interaction_tests_to_support_future_lunar_landings_999.html" >🔗</a> **[SpaceDaily]** NASA Langley begins plume surface interaction tests to support future lunar landings
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251222T100151">2025-12-22 10:01:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251222T103737">2025-12-22 10:37:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
