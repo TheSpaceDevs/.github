@@ -90,16 +90,16 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://europeanspaceflight.com/spaceforest-advocates-for-a-permanent-launch-site-in-poland/" >🔗</a> **[European Spaceflight]** SpaceForest Advocates for a Permanent Launch Site in Poland
-- <a href="https://www.nasaspaceflight.com/2025/12/maven-perseverance-update/" >🔗</a> **[NASASpaceflight]** NASA loses contact with MAVEN, Perseverance continues roving around Jezero
-- <a href="https://spacenews.com/isaacman-emphasizes-accelerating-nasa-programs-as-he-takes-agencys-reins/" >🔗</a> **[SpaceNews]** Isaacman emphasizes accelerating NASA programs as he takes agency’s reins
-- <a href="https://spacenews.com/rocket-lab-wraps-up-record-launch-year/" >🔗</a> **[SpaceNews]** Rocket Lab wraps up record launch year
-- <a href="https://spaceflightnow.com/2025/12/21/astronauts-launch-teams-practice-artemis-2-countdown/" >🔗</a> **[Spaceflight Now]** Astronauts, launch teams practice Artemis 2 countdown
-- <a href="https://spacepolicyonline.com/news/nasa-meets-new-administrator-jared-isaacman/" >🔗</a> **[SpacePolicyOnline.com]** NASA Meets New Administrator Jared Isaacman
-- <a href="https://www.nasa.gov/image-article/artemis-ii-crew-rehearse-launch-day-demonstration/" >🔗</a> **[NASA]** Artemis II Crew Rehearse Launch Day Demonstration
-- <a href="https://spacenews.com/blue-origin-flies-first-wheelchair-user-to-space/" >🔗</a> **[SpaceNews]** Blue Origin flies first wheelchair user to space
-- <a href="https://spacepolicyonline.com/news/first-wheelchair-user-flies-to-space/" >🔗</a> **[SpacePolicyOnline.com]** First Wheelchair User Flies to Space
-- <a href="https://europeanspaceflight.com/redwire-tapped-to-provide-docking-mechanisms-for-nyx-earth-capsule/" >🔗</a> **[European Spaceflight]** Redwire Tapped to Provide Docking Mechanisms for Nyx Earth Capsule
+- <a href="https://www.spacedaily.com/reports/Europa_Clipper_spectrograph_tracks_interstellar_comet_3I_ATLAS_999.html" >🔗</a> **[SpaceDaily]** Europa Clipper spectrograph tracks interstellar comet 3I ATLAS
+- <a href="https://www.spacewar.com/reports/Globalstar_Skydio_trial_validates_Band_n53_for_public_safety_drone_links_999.html" >🔗</a> **[SpaceDaily]** Globalstar Skydio trial validates Band n53 for public safety drone links
+- <a href="https://www.moondaily.com/reports/NASA_Langley_begins_plume_surface_interaction_tests_to_support_future_lunar_landings_999.html" >🔗</a> **[SpaceDaily]** NASA Langley begins plume surface interaction tests to support future lunar landings
+- <a href="https://www.spacewar.com/reports/Leonardo_DRS_space_radio_completes_first_secure_on_orbit_data_transport_test_999.html" >🔗</a> **[SpaceDaily]** Leonardo DRS space radio completes first secure on orbit data transport test
+- <a href="https://www.spacedaily.com/reports/Clues_to_the_migration_path_of_hot_Jupiters_in_their_orbits_999.html" >🔗</a> **[SpaceDaily]** Clues to the migration path of hot Jupiters in their orbits
+- <a href="https://www.marsdaily.com/reports/Search_for_life_should_be_top_science_priority_for_first_human_landing_on_Mars_report_says_999.html" >🔗</a> **[SpaceDaily]** Search for life should be top science priority for first human landing on Mars report says
+- <a href="https://www.spacedaily.com/reports/Possible_superkilonova_exploded_not_once_but_twice_999.html" >🔗</a> **[SpaceDaily]** Possible "superkilonova" exploded not once but twice
+- <a href="https://www.spacedaily.com/reports/Proba_3_mission_closes_gap_in_inner_solar_corona_monitoring_999.html" >🔗</a> **[SpaceDaily]** Proba-3 mission closes gap in inner solar corona monitoring
+- <a href="https://www.spacedaily.com/reports/Smart_modeling_framework_targets_6G_spectrum_chaos_in_space_air_and_ground_networks_999.html" >🔗</a> **[SpaceDaily]** Smart modeling framework targets 6G spectrum chaos in space air and ground networks
+- <a href="https://www.spacewar.com/reports/Eutelsat_Network_Solutions_to_lead_global_rollout_of_Intellian_OW7MP_manpack_SATCOM_terminal_999.html" >🔗</a> **[SpaceDaily]** Eutelsat Network Solutions to lead global rollout of Intellian OW7MP manpack SATCOM terminal
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251222T080155">2025-12-22 08:01:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251222T084106">2025-12-22 08:41:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
