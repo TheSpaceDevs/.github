@@ -90,6 +90,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/spaceforest-advocates-for-a-permanent-launch-site-in-poland/" >🔗</a> **[European Spaceflight]** SpaceForest Advocates for a Permanent Launch Site in Poland
 - <a href="https://www.nasaspaceflight.com/2025/12/maven-perseverance-update/" >🔗</a> **[NASASpaceflight]** NASA loses contact with MAVEN, Perseverance continues roving around Jezero
 - <a href="https://spacenews.com/isaacman-emphasizes-accelerating-nasa-programs-as-he-takes-agencys-reins/" >🔗</a> **[SpaceNews]** Isaacman emphasizes accelerating NASA programs as he takes agency’s reins
 - <a href="https://spacenews.com/rocket-lab-wraps-up-record-launch-year/" >🔗</a> **[SpaceNews]** Rocket Lab wraps up record launch year
@@ -99,7 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/blue-origin-flies-first-wheelchair-user-to-space/" >🔗</a> **[SpaceNews]** Blue Origin flies first wheelchair user to space
 - <a href="https://spacepolicyonline.com/news/first-wheelchair-user-flies-to-space/" >🔗</a> **[SpacePolicyOnline.com]** First Wheelchair User Flies to Space
 - <a href="https://europeanspaceflight.com/redwire-tapped-to-provide-docking-mechanisms-for-nyx-earth-capsule/" >🔗</a> **[European Spaceflight]** Redwire Tapped to Provide Docking Mechanisms for Nyx Earth Capsule
-- <a href="https://science.nasa.gov/blog/wind-sculpted-landscapes-investigating-the-martian-megaripple-hazyview/" >🔗</a> **[NASA]** Wind-Sculpted Landscapes: Investigating the Martian Megaripple ‘Hazyview’
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251222T060159">2025-12-22 06:01:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251222T064237">2025-12-22 06:42:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
