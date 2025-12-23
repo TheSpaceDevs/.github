@@ -106,6 +106,7 @@ This launch will feature a single satellite.
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2025/12/launch-roundup-122225/" >🔗</a> **[NASASpaceflight]** Launch Roundup: International launches fill manifest during last full week of 2025
 - <a href="https://www.spacedaily.com/reports/BlueBird_6_satellite_set_for_December_launch_to_expand_direct_mobile_connectivity_in_space_999.html" >🔗</a> **[SpaceDaily]** BlueBird 6 satellite set for December launch to expand direct mobile connectivity in space
 - <a href="https://spacenews.com/india-eyes-record-year-for-space-with-10-planned-launches/" >🔗</a> **[SpaceNews]** India eyes record year for space with 10 planned launches
 - <a href="https://spaceflightnow.com/2024/11/17/ast-spacemobile-secures-multi-launch-agreements-with-blue-origin-isro-and-spacex/" >🔗</a> **[Spaceflight Now]** AST SpaceMobile secures multi-launch agreements with Blue Origin, ISRO and SpaceX
@@ -113,7 +114,7 @@ This launch will feature a single satellite.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251223T070326">2025-12-23 07:03:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251223T073546">2025-12-23 07:35:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
