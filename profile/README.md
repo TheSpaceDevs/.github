@@ -92,6 +92,8 @@ This launch will feature a single satellite.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-reveals-largest-found-chaotic-birthplace-of-planets/" >🔗</a> **[NASA]** NASA’s Hubble Reveals Largest Found Chaotic Birthplace of Planets
+- <a href="https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-grace-lauderdale/" >🔗</a> **[NASA]** I Am Artemis: Grace Lauderdale
 - <a href="https://europeanspaceflight.com/ariane-6-and-vega-c-p160c-booster-upgrade-fully-qualified/" >🔗</a> **[European Spaceflight]** Ariane 6 and Vega C P160C Booster Upgrade Fully Qualified
 - <a href="https://spacenews.com/long-march-12a-reaches-orbit-in-first-reusable-launch-attempt-but-landing-fails/" >🔗</a> **[SpaceNews]** Long March 12A reaches orbit in first reusable launch attempt, but landing fails
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4750-4762-see-you-on-the-other-side-of-the-sun/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4750-4762: See You on the Other Side of the Sun
@@ -100,8 +102,6 @@ This launch will feature a single satellite.
 - <a href="https://science.nasa.gov/science-research/earth-science/sentinels-in-the-sky-50-years-of-goes-satellite-observations/" >🔗</a> **[NASA]** Sentinels in the Sky: 50 Years of GOES Satellite Observations
 - <a href="https://www.nasaspaceflight.com/2025/12/tory-bruno-steps-down-ula/" >🔗</a> **[NASASpaceflight]** Tory Bruno Steps Down as ULA CEO following impressive tenure
 - <a href="https://science.nasa.gov/science-research/earth-science/keeping-up-with-pace-summary-of-the-2025-pac3-meeting/" >🔗</a> **[NASA]** Keeping Up with PACE: Summary of the 2025 PAC3 Meeting
-- <a href="https://spaceflightnow.com/2025/12/22/h3-rocket-suffers-upper-stage-anomaly-fails-to-correctly-deploy-navigation-satellite/" >🔗</a> **[Spaceflight Now]** H3 rocket suffers upper stage anomaly, fails to correctly deploy navigation satellite
-- <a href="https://spaceflightnow.com/2025/12/22/tory-bruno-steps-down-as-president-ceo-of-ula/" >🔗</a> **[Spaceflight Now]** Tory Bruno steps down as President, CEO of ULA
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ This launch will feature a single satellite.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251223T140147">2025-12-23 14:01:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251223T143624">2025-12-23 14:36:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
