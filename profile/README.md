@@ -92,26 +92,28 @@ This launch will feature a single satellite.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/desert-works-propulsion-expands-u-s-ion-propulsion-capability-through-domestic-manufacturing-partnership-and-test-capacity-growth/" >🔗</a> **[SpaceNews]** Desert Works Propulsion expands U.S. ion propulsion capability through domestic manufacturing partnership and test capacity growth
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/12/Euclid_s_galaxy_garland" >🔗</a> **[ESA]** Euclid’s galaxy garland
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-johnson-celebrates-25-years-of-holidays-in-space/" >🔗</a> **[NASA]** Holidays in Space: 25 Years of Space Station Celebrations
-- <a href="https://spacenews.com/japans-h3-suffers-second-stage-anomaly-qzs-5-satellite-lost/" >🔗</a> **[SpaceNews]** Japan’s H3 suffers second-stage anomaly, QZS-5 satellite lost
-- <a href="https://europeanspaceflight.com/hungarys-4ig-to-invest-100-million-in-axiom-space/" >🔗</a> **[European Spaceflight]** Hungary’s 4iG to Invest $100 Million in Axiom Space
-- <a href="https://www.spacedaily.com/reports/Clues_to_the_migration_path_of_hot_Jupiters_in_their_orbits_999.html" >🔗</a> **[SpaceDaily]** Clues to the migration path of hot Jupiters in their orbits
-- <a href="https://www.spacedaily.com/reports/Proba_3_mission_closes_gap_in_inner_solar_corona_monitoring_999.html" >🔗</a> **[SpaceDaily]** Proba-3 mission closes gap in inner solar corona monitoring
-- <a href="https://www.spacewar.com/reports/Leonardo_DRS_space_radio_completes_first_secure_on_orbit_data_transport_test_999.html" >🔗</a> **[SpaceDaily]** Leonardo DRS space radio completes first secure on orbit data transport test
-- <a href="https://www.spacedaily.com/reports/Possible_superkilonova_exploded_not_once_but_twice_999.html" >🔗</a> **[SpaceDaily]** Possible "superkilonova" exploded not once but twice
-- <a href="https://www.spacedaily.com/reports/Smart_modeling_framework_targets_6G_spectrum_chaos_in_space_air_and_ground_networks_999.html" >🔗</a> **[SpaceDaily]** Smart modeling framework targets 6G spectrum chaos in space air and ground networks
+- <a href="https://europeanspaceflight.com/ariane-6-and-vega-c-p160c-booster-upgrade-fully-qualified/" >🔗</a> **[European Spaceflight]** Ariane 6 and Vega C P160C Booster Upgrade Fully Qualified
+- <a href="https://spacenews.com/long-march-12a-reaches-orbit-in-first-reusable-launch-attempt-but-landing-fails/" >🔗</a> **[SpaceNews]** Long March 12A reaches orbit in first reusable launch attempt, but landing fails
+- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4750-4762-see-you-on-the-other-side-of-the-sun/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4750-4762: See You on the Other Side of the Sun
+- <a href="https://www.nasaspaceflight.com/2025/12/launch-roundup-122225/" >🔗</a> **[NASASpaceflight]** Launch Roundup: International launches fill manifest during last full week of 2025
+- <a href="https://spacepolicyonline.com/news/tory-bruno-leaves-ula-john-elbon-takes-over-as-interim-ceo/" >🔗</a> **[SpacePolicyOnline.com]** Tory Bruno Leaves ULA, John Elbon Takes Over As Interim CEO
+- <a href="https://science.nasa.gov/science-research/earth-science/sentinels-in-the-sky-50-years-of-goes-satellite-observations/" >🔗</a> **[NASA]** Sentinels in the Sky: 50 Years of GOES Satellite Observations
+- <a href="https://www.nasaspaceflight.com/2025/12/tory-bruno-steps-down-ula/" >🔗</a> **[NASASpaceflight]** Tory Bruno Steps Down as ULA CEO following impressive tenure
+- <a href="https://science.nasa.gov/science-research/earth-science/keeping-up-with-pace-summary-of-the-2025-pac3-meeting/" >🔗</a> **[NASA]** Keeping Up with PACE: Summary of the 2025 PAC3 Meeting
+- <a href="https://spaceflightnow.com/2025/12/22/h3-rocket-suffers-upper-stage-anomaly-fails-to-correctly-deploy-navigation-satellite/" >🔗</a> **[Spaceflight Now]** H3 rocket suffers upper stage anomaly, fails to correctly deploy navigation satellite
+- <a href="https://spaceflightnow.com/2025/12/22/tory-bruno-steps-down-as-president-ceo-of-ula/" >🔗</a> **[Spaceflight Now]** Tory Bruno steps down as President, CEO of ULA
 
 
 ### Launch-related News 🚀
 
-- <a href="https://spacenews.com/china-launches-new-guowang-satellites-long-march-12a-launch-and-landing-attempt-date-set/" >🔗</a> **[SpaceNews]** China launches new Guowang satellites, Long March 12A launch and landing attempt date set
+- <a href="https://www.spacedaily.com/reports/BlueBird_6_satellite_set_for_December_launch_to_expand_direct_mobile_connectivity_in_space_999.html" >🔗</a> **[SpaceDaily]** BlueBird 6 satellite set for December launch to expand direct mobile connectivity in space
+- <a href="https://spacenews.com/india-eyes-record-year-for-space-with-10-planned-launches/" >🔗</a> **[SpaceNews]** India eyes record year for space with 10 planned launches
+- <a href="https://spaceflightnow.com/2024/11/17/ast-spacemobile-secures-multi-launch-agreements-with-blue-origin-isro-and-spacex/" >🔗</a> **[Spaceflight Now]** AST SpaceMobile secures multi-launch agreements with Blue Origin, ISRO and SpaceX
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251223T053740">2025-12-23 05:37:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251223T060200">2025-12-23 06:02:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
