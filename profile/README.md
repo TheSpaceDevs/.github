@@ -92,6 +92,8 @@ This launch will feature a single satellite.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/artemis-ii-crew-launch-day-rehearsal/" >🔗</a> **[NASA]** Artemis II Crew Launch Day Rehearsal
+- <a href="https://www.nasa.gov/missions/artemis/artemis-2/artemis-ii-flight-crew-teams-conduct-demonstration-ahead-of-launch/" >🔗</a> **[NASA]** Artemis II Flight Crew, Teams Conduct Demonstration Ahead of Launch
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-nick-hague-retires/" >🔗</a> **[NASA]** NASA Astronaut Nick Hague Retires
 - <a href="https://spacenews.com/how-physics-ai-is-transforming-the-future-of-space-engineering/" >🔗</a> **[SpaceNews]** How physics AI is transforming the future of space engineering
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-reveals-largest-found-chaotic-birthplace-of-planets/" >🔗</a> **[NASA]** NASA’s Hubble Reveals Largest Found Chaotic Birthplace of Planets
@@ -100,8 +102,6 @@ This launch will feature a single satellite.
 - <a href="https://spacenews.com/long-march-12a-reaches-orbit-in-first-reusable-launch-attempt-but-landing-fails/" >🔗</a> **[SpaceNews]** Long March 12A reaches orbit in first reusable launch attempt, but landing fails
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4750-4762-see-you-on-the-other-side-of-the-sun/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4750-4762: See You on the Other Side of the Sun
 - <a href="https://www.nasaspaceflight.com/2025/12/launch-roundup-122225/" >🔗</a> **[NASASpaceflight]** Launch Roundup: International launches fill manifest during last full week of 2025
-- <a href="https://spacepolicyonline.com/news/tory-bruno-leaves-ula-john-elbon-takes-over-as-interim-ceo/" >🔗</a> **[SpacePolicyOnline.com]** Tory Bruno Leaves ULA, John Elbon Takes Over As Interim CEO
-- <a href="https://science.nasa.gov/science-research/earth-science/sentinels-in-the-sky-50-years-of-goes-satellite-observations/" >🔗</a> **[NASA]** Sentinels in the Sky: 50 Years of GOES Satellite Observations
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ This launch will feature a single satellite.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251223T160155">2025-12-23 16:01:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251223T163950">2025-12-23 16:39:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
