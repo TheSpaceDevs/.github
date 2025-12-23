@@ -92,6 +92,7 @@ This launch will feature a single satellite.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/esa-to-hire-520-new-staff-as-workforce-expansion-begins-in-2026/" >🔗</a> **[SpaceNews]** ESA to hire 520 new staff as workforce expansion begins in 2026
 - <a href="https://science.nasa.gov/science-research/earth-science/opera-addressing-societal-needs-with-satellite-data/" >🔗</a> **[NASA]** OPERA: Addressing Societal Needs with Satellite Data
 - <a href="https://www.nasa.gov/centers-and-facilities/kennedy/get-in-were-going-to-the-moon-meet-nasas-artemis-closeout-crew/" >🔗</a> **[NASA]** Get In, We’re Going to the Moon: Meet NASA’s Artemis Closeout Crew
 - <a href="https://www.nasa.gov/image-article/artemis-ii-crew-launch-day-rehearsal/" >🔗</a> **[NASA]** Artemis II Crew Launch Day Rehearsal
@@ -101,7 +102,6 @@ This launch will feature a single satellite.
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-reveals-largest-found-chaotic-birthplace-of-planets/" >🔗</a> **[NASA]** NASA’s Hubble Reveals Largest Found Chaotic Birthplace of Planets
 - <a href="https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-grace-lauderdale/" >🔗</a> **[NASA]** I Am Artemis: Grace Lauderdale
 - <a href="https://europeanspaceflight.com/ariane-6-and-vega-c-p160c-booster-upgrade-fully-qualified/" >🔗</a> **[European Spaceflight]** Ariane 6 and Vega C P160C Booster Upgrade Fully Qualified
-- <a href="https://spacenews.com/long-march-12a-reaches-orbit-in-first-reusable-launch-attempt-but-landing-fails/" >🔗</a> **[SpaceNews]** Long March 12A reaches orbit in first reusable launch attempt, but landing fails
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ This launch will feature a single satellite.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251223T210151">2025-12-23 21:01:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251223T213311">2025-12-23 21:33:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
