@@ -92,6 +92,8 @@ This launch will feature a single satellite.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-astronaut-nick-hague-retires/" >🔗</a> **[NASA]** NASA Astronaut Nick Hague Retires
+- <a href="https://spacenews.com/how-physics-ai-is-transforming-the-future-of-space-engineering/" >🔗</a> **[SpaceNews]** How physics AI is transforming the future of space engineering
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-reveals-largest-found-chaotic-birthplace-of-planets/" >🔗</a> **[NASA]** NASA’s Hubble Reveals Largest Found Chaotic Birthplace of Planets
 - <a href="https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-grace-lauderdale/" >🔗</a> **[NASA]** I Am Artemis: Grace Lauderdale
 - <a href="https://europeanspaceflight.com/ariane-6-and-vega-c-p160c-booster-upgrade-fully-qualified/" >🔗</a> **[European Spaceflight]** Ariane 6 and Vega C P160C Booster Upgrade Fully Qualified
@@ -100,8 +102,6 @@ This launch will feature a single satellite.
 - <a href="https://www.nasaspaceflight.com/2025/12/launch-roundup-122225/" >🔗</a> **[NASASpaceflight]** Launch Roundup: International launches fill manifest during last full week of 2025
 - <a href="https://spacepolicyonline.com/news/tory-bruno-leaves-ula-john-elbon-takes-over-as-interim-ceo/" >🔗</a> **[SpacePolicyOnline.com]** Tory Bruno Leaves ULA, John Elbon Takes Over As Interim CEO
 - <a href="https://science.nasa.gov/science-research/earth-science/sentinels-in-the-sky-50-years-of-goes-satellite-observations/" >🔗</a> **[NASA]** Sentinels in the Sky: 50 Years of GOES Satellite Observations
-- <a href="https://www.nasaspaceflight.com/2025/12/tory-bruno-steps-down-ula/" >🔗</a> **[NASASpaceflight]** Tory Bruno Steps Down as ULA CEO following impressive tenure
-- <a href="https://science.nasa.gov/science-research/earth-science/keeping-up-with-pace-summary-of-the-2025-pac3-meeting/" >🔗</a> **[NASA]** Keeping Up with PACE: Summary of the 2025 PAC3 Meeting
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ This launch will feature a single satellite.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251223T150152">2025-12-23 15:01:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251223T153532">2025-12-23 15:35:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
