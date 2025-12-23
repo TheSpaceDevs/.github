@@ -19,27 +19,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**HANBIT-Nano | Spaceward**. It is scheduled to be launched by *Innospace*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/kr.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Alc%C3%A2ntara_Space_Center">HANBIT Pad</a>, Alcântara Space Center, Federative Republic of Brazil*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/br.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251222T150000">2025-12-22 15:00:00 UTC</a>.  Until
-then, this pad will have been used for 1
-out of 3 launches from this location. The launch status is currently
+**Long March 12A | Demo Flight**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Long_March_12A">Long March 12A Pad</a>, Jiuquan Satellite Launch Center, People's Republic of China*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251223T015400">2025-12-23 01:54:00 UTC</a>.  Until
+then, this pad will have been used for 0
+out of 271 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
 *Test Flight* and the payload will be injected
-into *a Sun-Synchronous Orbit
-(SSO)*.
+into *an Unknown
+(N/A)*.
 <br>
 <blockquote>
-  Maiden orbital launch attempt for the South Korean stratup Innospace and its HANBIT-Nano small launch vehicle. Onboard this flight are five small satellites from the Brazilian space agency AEB, Brazilian university Universidade Federal do Maranhão and Indian startup Grahaa Space, as well as three payloads from AEB and Brazilian company Castro Leite Consultoria that will remain attached to the rocket, and an empty aluminium can from the South Korean beverage company Brewguru.
+  First test launch of CASC/SAST’s Long March 12A rocket. The rocket’s 1st stage will attempt to land on a landing pad about 300 km downrange of the launch site.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Innospace_HANBIT-NANO" >
+  <a href="https://en.wikipedia.org/wiki/Long_March_12A" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=-2.31698,-44.36873" >
+  <a href="https://www.google.com/maps?q=40.89154,100.21739" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -54,6 +54,7 @@ into *a Sun-Synchronous Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251228T020800">2025-12-28 02:08:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | CSG-3&location=Vandenberg SFB, CA, USA&dates=20251228T020800Z%2F20251228T020800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | CSG-3** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251228T131805">2025-12-28 13:18:05 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b/Fregat-M | AIST-2T 01 &amp; 02&location=Vostochny Cosmodrome, Siberia, Russian Federation&dates=20251228T131805Z%2F20251228T131805Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1b/Fregat-M | AIST-2T 01 & 02** from Vostochny Cosmodrome, Siberia, Russian Federation.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251230T210000">2025-12-30 21:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 7A | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20251230T210000Z%2F20251230T235000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 7A | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251231T000000">2025-12-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ceres-2 | Demo Flight&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20251231T000000Z%2F20251231T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ceres-2 | Demo Flight** from Jiuquan Satellite Launch Center, People's Republic of China.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -103,14 +104,12 @@ into *a Sun-Synchronous Orbit
 
 ### Launch-related News 🚀
 
-- <a href="https://www.nasaspaceflight.com/2025/12/launch-roundup-121625/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Ariane 6, Falcon 9, Atlas V, and Electron launches highlight busy week
-- <a href="https://www.nasaspaceflight.com/2025/11/launch-roundup-111725/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Innospace to debut new rocket, SpaceX to launch five Falcon 9 missions
-- <a href="https://spacenews.com/innospace-gets-license-for-first-orbital-launch-attempt/" >🔗</a> **[SpaceNews]** Innospace gets license for first orbital launch attempt
+- <a href="https://spacenews.com/china-launches-new-guowang-satellites-long-march-12a-launch-and-landing-attempt-date-set/" >🔗</a> **[SpaceNews]** China launches new Guowang satellites, Long March 12A launch and landing attempt date set
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251223T004558">2025-12-23 00:45:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251223T012919">2025-12-23 01:29:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
