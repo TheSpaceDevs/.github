@@ -94,6 +94,7 @@ The satellite features the BRLK X-band Synthetic Aperture Radar as the imaging i
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/avio-launch-deal-highlights-uncertainty-in-vega-upgrade-roadmap/" >🔗</a> **[European Spaceflight]** Avio Launch Deal Highlights Uncertainty in Vega Upgrade Roadmap
 - <a href="https://spacenews.com/indian-rocket-launches-ast-spacemobiles-next-gen-bluebird-6-satellite/" >🔗</a> **[SpaceNews]** Indian rocket launches AST SpaceMobile’s next-gen BlueBird-6 satellite
 - <a href="https://www.nasaspaceflight.com/2025/12/flight-12-vehicles-2026/" >🔗</a> **[NASASpaceflight]** Flight 12 vehicles readying for 2026 opener
 - <a href="https://spacenews.com/esa-to-hire-520-new-staff-as-workforce-expansion-begins-in-2026/" >🔗</a> **[SpaceNews]** ESA to hire 520 new staff as workforce expansion begins in 2026
@@ -103,7 +104,6 @@ The satellite features the BRLK X-band Synthetic Aperture Radar as the imaging i
 - <a href="https://www.nasa.gov/missions/artemis/artemis-2/artemis-ii-flight-crew-teams-conduct-demonstration-ahead-of-launch/" >🔗</a> **[NASA]** Artemis II Flight Crew, Teams Conduct Demonstration Ahead of Launch
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-nick-hague-retires/" >🔗</a> **[NASA]** NASA Astronaut Nick Hague Retires
 - <a href="https://spacenews.com/how-physics-ai-is-transforming-the-future-of-space-engineering/" >🔗</a> **[SpaceNews]** How physics AI is transforming the future of space engineering
-- <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-reveals-largest-found-chaotic-birthplace-of-planets/" >🔗</a> **[NASA]** NASA’s Hubble Reveals Largest Found Chaotic Birthplace of Planets
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ The satellite features the BRLK X-band Synthetic Aperture Radar as the imaging i
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251224T060159">2025-12-24 06:01:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251224T064235">2025-12-24 06:42:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
