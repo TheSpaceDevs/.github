@@ -19,29 +19,31 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**LVM-3 | BlueBird Block 2 #1**. It is scheduled to be launched by *Indian Space Research Organization*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Satish_Dhawan_Space_Centre_Second_Launch_Pad">Satish Dhawan Space Centre Second Launch Pad</a>, Satish Dhawan Space Centre, India*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251224T025000">2025-12-24 02:50:00 UTC</a>.  Until
-then, this pad will have been used for 31
-out of 101 launches from this location. The launch status is currently
+**Soyuz 2.1a | Obzor-R No.1**. It is scheduled to be launched by *Russian Federal Space Agency (ROSCOSMOS)*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Plesetsk_Cosmodrome">Unknown Pad</a>, Plesetsk Cosmodrome, Russian Federation*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251224T140000">2025-12-24 14:00:00 UTC</a>.  Until
+then, this pad will have been used for 0
+out of 1679 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Communications* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+*Earth Science* and the payload will be injected
+into *a Sun-Synchronous Orbit
+(SSO)*.
 <br>
 <blockquote>
-  AST SpaceMobile’s Block 2 BlueBird satellites are designed to deliver up to 10 times the bandwidth capacity of the BlueBird Block 1 satellites, required to achieve 24/7 continuous cellular broadband service coverage in the United States, with beams designed to support a capacity of up to 40 MHz, enabling peak data transmission speeds up to 120 Mbps, supporting voice, full data and video applications. The Block 2 BlueBirds, featuring as large as 2400 square foot communications arrays, will be the largest satellites ever commercially deployed in Low Earth orbit once launched.
+  The Russian Obzor-R satellite is a planned X-band radar earth observation satellite designed by TsSKB-Progress.
 
-This launch will feature a single satellite.
+In 2012, the development of the Arkon-2M radar satellite was stopped and instead the development of the Obzor-R was initiated.
+
+The satellite features the BRLK X-band Synthetic Aperture Radar as the imaging instrument with a ground resolution of 500 m.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Geosynchronous_Satellite_Launch_Vehicle" >
+  <a href="https://en.wikipedia.org/wiki/Soyuz-2#Soyuz-2.1a" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=13.7199,80.2304" >
+  <a href="https://www.google.com/maps?q=62.925556,40.577778" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -56,6 +58,7 @@ This launch will feature a single satellite.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251230T210000">2025-12-30 21:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 7A | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20251230T210000Z%2F20251230T235000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 7A | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251231T000000">2025-12-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ceres-2 | Demo Flight&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20251231T000000Z%2F20251231T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ceres-2 | Demo Flight** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251231T000000">2025-12-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Kinetica 2 | Demo Flight&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20251231T000000Z%2F20251231T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Kinetica 2 | Demo Flight** from Jiuquan Satellite Launch Center, People's Republic of China.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251231T000000">2025-12-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Tianlong-3 | Demo Flight&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20251231T000000Z%2F20251231T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Tianlong-3 | Demo Flight** from Jiuquan Satellite Launch Center, People's Republic of China.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -106,14 +109,12 @@ This launch will feature a single satellite.
 ### Launch-related News 🚀
 
 - <a href="https://www.nasaspaceflight.com/2025/12/launch-roundup-122225/" >🔗</a> **[NASASpaceflight]** Launch Roundup: International launches fill manifest during last full week of 2025
-- <a href="https://www.spacedaily.com/reports/BlueBird_6_satellite_set_for_December_launch_to_expand_direct_mobile_connectivity_in_space_999.html" >🔗</a> **[SpaceDaily]** BlueBird 6 satellite set for December launch to expand direct mobile connectivity in space
-- <a href="https://spacenews.com/india-eyes-record-year-for-space-with-10-planned-launches/" >🔗</a> **[SpaceNews]** India eyes record year for space with 10 planned launches
-- <a href="https://spaceflightnow.com/2024/11/17/ast-spacemobile-secures-multi-launch-agreements-with-blue-origin-isro-and-spacex/" >🔗</a> **[Spaceflight Now]** AST SpaceMobile secures multi-launch agreements with Blue Origin, ISRO and SpaceX
+- <a href="https://www.nasaspaceflight.com/2025/12/launch-roundup-120825/" >🔗</a> **[NASASpaceflight]** Launch Roundup: China, Russia, Rocket Lab, ULA join SpaceX in flying this week
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251224T030103">2025-12-24 03:01:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251224T034854">2025-12-24 03:48:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
