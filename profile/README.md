@@ -94,6 +94,7 @@ The satellite features the BRLK X-band Synthetic Aperture Radar as the imaging i
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/avio-to-launch-four-earth-observation-satellites-for-taiwan/" >🔗</a> **[European Spaceflight]** Avio to Launch Four Earth Observation Satellites for Taiwan
 - <a href="https://spacenews.com/innospace-plans-second-launch-in-2026-after-failure-of-first-hanbit-nano-rocket/" >🔗</a> **[SpaceNews]** Innospace plans second launch in 2026 after failure of first Hanbit-Nano rocket
 - <a href="https://www.nasa.gov/image-article/santa-visits-artemis-ii-rocket/" >🔗</a> **[NASA]** Santa Visits Artemis II Rocket
 - <a href="https://europeanspaceflight.com/avio-launch-deal-highlights-uncertainty-in-vega-upgrade-roadmap/" >🔗</a> **[European Spaceflight]** Avio Launch Deal Highlights Uncertainty in Vega Upgrade Roadmap
@@ -103,7 +104,6 @@ The satellite features the BRLK X-band Synthetic Aperture Radar as the imaging i
 - <a href="https://science.nasa.gov/science-research/earth-science/opera-addressing-societal-needs-with-satellite-data/" >🔗</a> **[NASA]** OPERA: Addressing Societal Needs with Satellite Data
 - <a href="https://www.nasa.gov/centers-and-facilities/kennedy/get-in-were-going-to-the-moon-meet-nasas-artemis-closeout-crew/" >🔗</a> **[NASA]** Get In, We’re Going to the Moon: Meet NASA’s Artemis Closeout Crew
 - <a href="https://www.nasa.gov/image-article/artemis-ii-crew-launch-day-rehearsal/" >🔗</a> **[NASA]** Artemis II Crew Launch Day Rehearsal
-- <a href="https://www.nasa.gov/missions/artemis/artemis-2/artemis-ii-flight-crew-teams-conduct-demonstration-ahead-of-launch/" >🔗</a> **[NASA]** Artemis II Flight Crew, Teams Conduct Demonstration Ahead of Launch
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ The satellite features the BRLK X-band Synthetic Aperture Radar as the imaging i
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251225T050338">2025-12-25 05:03:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251225T053733">2025-12-25 05:37:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
