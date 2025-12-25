@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/12/Fly_through_Webb_s_cosmic_vistas" >🔗</a> **[ESA]** Fly through Webb’s cosmic vistas
 - <a href="https://europeanspaceflight.com/avio-to-launch-four-earth-observation-satellites-for-taiwan/" >🔗</a> **[European Spaceflight]** Avio to Launch Four Earth Observation Satellites for Taiwan
 - <a href="https://spacenews.com/innospace-plans-second-launch-in-2026-after-failure-of-first-hanbit-nano-rocket/" >🔗</a> **[SpaceNews]** Innospace plans second launch in 2026 after failure of first Hanbit-Nano rocket
 - <a href="https://www.nasa.gov/image-article/santa-visits-artemis-ii-rocket/" >🔗</a> **[NASA]** Santa Visits Artemis II Rocket
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/esa-to-hire-520-new-staff-as-workforce-expansion-begins-in-2026/" >🔗</a> **[SpaceNews]** ESA to hire 520 new staff as workforce expansion begins in 2026
 - <a href="https://science.nasa.gov/science-research/earth-science/opera-addressing-societal-needs-with-satellite-data/" >🔗</a> **[NASA]** OPERA: Addressing Societal Needs with Satellite Data
 - <a href="https://www.nasa.gov/centers-and-facilities/kennedy/get-in-were-going-to-the-moon-meet-nasas-artemis-closeout-crew/" >🔗</a> **[NASA]** Get In, We’re Going to the Moon: Meet NASA’s Artemis Closeout Crew
-- <a href="https://www.nasa.gov/image-article/artemis-ii-crew-launch-day-rehearsal/" >🔗</a> **[NASA]** Artemis II Crew Launch Day Rehearsal
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251225T150142">2025-12-25 15:01:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251225T153422">2025-12-25 15:34:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
