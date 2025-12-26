@@ -90,16 +90,16 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/12/Fly_through_Webb_s_cosmic_vistas" >🔗</a> **[ESA]** Fly through Webb’s cosmic vistas
-- <a href="https://europeanspaceflight.com/avio-to-launch-four-earth-observation-satellites-for-taiwan/" >🔗</a> **[European Spaceflight]** Avio to Launch Four Earth Observation Satellites for Taiwan
-- <a href="https://spacenews.com/innospace-plans-second-launch-in-2026-after-failure-of-first-hanbit-nano-rocket/" >🔗</a> **[SpaceNews]** Innospace plans second launch in 2026 after failure of first Hanbit-Nano rocket
-- <a href="https://www.nasa.gov/image-article/santa-visits-artemis-ii-rocket/" >🔗</a> **[NASA]** Santa Visits Artemis II Rocket
-- <a href="https://europeanspaceflight.com/avio-launch-deal-highlights-uncertainty-in-vega-upgrade-roadmap/" >🔗</a> **[European Spaceflight]** Avio Launch Deal Highlights Uncertainty in Vega Upgrade Roadmap
-- <a href="https://spacenews.com/indian-rocket-launches-ast-spacemobiles-next-gen-bluebird-6-satellite/" >🔗</a> **[SpaceNews]** Indian rocket launches AST SpaceMobile’s next-gen BlueBird-6 satellite
-- <a href="https://www.nasaspaceflight.com/2025/12/flight-12-vehicles-2026/" >🔗</a> **[NASASpaceflight]** Flight 12 vehicles readying for 2026 opener
-- <a href="https://spacenews.com/esa-to-hire-520-new-staff-as-workforce-expansion-begins-in-2026/" >🔗</a> **[SpaceNews]** ESA to hire 520 new staff as workforce expansion begins in 2026
-- <a href="https://science.nasa.gov/science-research/earth-science/opera-addressing-societal-needs-with-satellite-data/" >🔗</a> **[NASA]** OPERA: Addressing Societal Needs with Satellite Data
-- <a href="https://www.nasa.gov/centers-and-facilities/kennedy/get-in-were-going-to-the-moon-meet-nasas-artemis-closeout-crew/" >🔗</a> **[NASA]** Get In, We’re Going to the Moon: Meet NASA’s Artemis Closeout Crew
+- <a href="https://www.spacedaily.com/reports/Axelspace_sets_multi_launch_framework_with_Exolaunch_for_AxelLiner_mission_growth_999.html" >🔗</a> **[SpaceDaily]** Axelspace sets multi launch framework with Exolaunch for AxelLiner mission growth
+- <a href="https://www.gpsdaily.com/reports/When_5G_networks_bolster_satellite_navigation_999.html" >🔗</a> **[SpaceDaily]** When 5G networks bolster satellite navigation
+- <a href="https://www.spacedaily.com/reports/AST_BlueBird_6_enters_orbit_as_record_low_Earth_orbit_cellular_array_999.html" >🔗</a> **[SpaceDaily]** AST BlueBird 6 enters orbit as record low Earth orbit cellular array
+- <a href="https://www.moondaily.com/reports/Lunar_dust_model_maps_how_charged_grains_stick_to_spacecraft_999.html" >🔗</a> **[SpaceDaily]** Lunar dust model maps how charged grains stick to spacecraft
+- <a href="https://www.marsdaily.com/reports/Wind_Sculpted_Landscapes_Investigating_the_Martian_Megaripple_Hazyview_999.html" >🔗</a> **[SpaceDaily]** Wind-Sculpted Landscapes: Investigating the Martian Megaripple 'Hazyview'
+- <a href="https://www.spacedaily.com/reports/AI_systems_proposed_to_boost_launch_cadence_reliability_and_traffic_management_999.html" >🔗</a> **[SpaceDaily]** AI systems proposed to boost launch cadence reliability and traffic management
+- <a href="https://www.spacedaily.com/reports/China_debuts_Long_March_12A_reusable_rocket_in_Jiuquan_test_flight_999.html" >🔗</a> **[SpaceDaily]** China debuts Long March 12A reusable rocket in Jiuquan test flight
+- <a href="https://www.marsdaily.com/reports/NASA_team_presses_MAVEN_recovery_before_Mars_solar_conjunction_999.html" >🔗</a> **[SpaceDaily]** NASA team presses MAVEN recovery before Mars solar conjunction
+- <a href="https://www.marsdaily.com/reports/Curiosity_Blog_Sols_4750_4762_See_You_on_the_Other_Side_of_the_Sun_999.html" >🔗</a> **[SpaceDaily]** Curiosity Blog, Sols 4750-4762: See You on the Other Side of the Sun
+- <a href="https://www.spacedaily.com/reports/Space_ground_fluid_AI_framework_targets_satellite_powered_6G_edge_intelligence_999.html" >🔗</a> **[SpaceDaily]** Space ground fluid AI framework targets satellite powered 6G edge intelligence
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251226T041116">2025-12-26 04:11:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251226T044059">2025-12-26 04:40:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
