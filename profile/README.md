@@ -90,6 +90,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2025/12/27/live-coverage-spacex-to-launch-italian-earth-observation-satellite-on-final-falcon-9-flight-of-2025/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Italian Earth observation satellite on final Falcon 9 flight of 2025
 - <a href="https://www.nasaspaceflight.com/2025/12/commercial-neighbors-stoke-relativity/" >🔗</a> **[NASASpaceflight]** Commercial neighbors Stoke Space and Relativity Space Advance make progress on Cape launch sites
 - <a href="https://spaceflightnow.com/2025/12/26/former-ula-president-and-ceo-tory-bruno-joins-blue-origin/" >🔗</a> **[Spaceflight Now]** Former ULA president and CEO Tory Bruno joins Blue Origin
 - <a href="https://spacenews.com/former-ula-chief-bruno-joins-blue-origin/" >🔗</a> **[SpaceNews]** Former ULA chief Bruno joins Blue Origin
@@ -99,7 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.spacedaily.com/reports/AI_systems_proposed_to_boost_launch_cadence_reliability_and_traffic_management_999.html" >🔗</a> **[SpaceDaily]** AI systems proposed to boost launch cadence reliability and traffic management
 - <a href="https://www.marsdaily.com/reports/NASA_team_presses_MAVEN_recovery_before_Mars_solar_conjunction_999.html" >🔗</a> **[SpaceDaily]** NASA team presses MAVEN recovery before Mars solar conjunction
 - <a href="https://www.marsdaily.com/reports/Wind_Sculpted_Landscapes_Investigating_the_Martian_Megaripple_Hazyview_999.html" >🔗</a> **[SpaceDaily]** Wind-Sculpted Landscapes: Investigating the Martian Megaripple 'Hazyview'
-- <a href="https://www.moondaily.com/reports/Lunar_dust_model_maps_how_charged_grains_stick_to_spacecraft_999.html" >🔗</a> **[SpaceDaily]** Lunar dust model maps how charged grains stick to spacecraft
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251227T140121">2025-12-27 14:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251227T143425">2025-12-27 14:34:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
