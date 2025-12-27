@@ -90,6 +90,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/12/commercial-neighbors-stoke-relativity/" >🔗</a> **[NASASpaceflight]** Commercial neighbors Stoke Space and Relativity Space Advance make progress on Cape launch sites
 - <a href="https://spaceflightnow.com/2025/12/26/former-ula-president-and-ceo-tory-bruno-joins-blue-origin/" >🔗</a> **[Spaceflight Now]** Former ULA president and CEO Tory Bruno joins Blue Origin
 - <a href="https://spacenews.com/former-ula-chief-bruno-joins-blue-origin/" >🔗</a> **[SpaceNews]** Former ULA chief Bruno joins Blue Origin
 - <a href="https://spacepolicyonline.com/news/tory-bruno-joins-blue-origin/" >🔗</a> **[SpacePolicyOnline.com]** Tory Bruno Joins Blue Origin
@@ -99,7 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.marsdaily.com/reports/NASA_team_presses_MAVEN_recovery_before_Mars_solar_conjunction_999.html" >🔗</a> **[SpaceDaily]** NASA team presses MAVEN recovery before Mars solar conjunction
 - <a href="https://www.marsdaily.com/reports/Wind_Sculpted_Landscapes_Investigating_the_Martian_Megaripple_Hazyview_999.html" >🔗</a> **[SpaceDaily]** Wind-Sculpted Landscapes: Investigating the Martian Megaripple 'Hazyview'
 - <a href="https://www.moondaily.com/reports/Lunar_dust_model_maps_how_charged_grains_stick_to_spacecraft_999.html" >🔗</a> **[SpaceDaily]** Lunar dust model maps how charged grains stick to spacecraft
-- <a href="https://www.spacedaily.com/reports/China_debuts_Long_March_12A_reusable_rocket_in_Jiuquan_test_flight_999.html" >🔗</a> **[SpaceDaily]** China debuts Long March 12A reusable rocket in Jiuquan test flight
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251227T000523">2025-12-27 00:05:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251227T004607">2025-12-27 00:46:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
