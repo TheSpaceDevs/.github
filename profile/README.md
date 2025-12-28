@@ -87,6 +87,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/12/spherex-first-map/" >🔗</a> **[NASASpaceflight]** SPHEREx produces first all-sky map, highlights entire universe in infrared light
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-december-28-2025-january-10-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy December 28, 2025-January 10, 2026
 - <a href="https://spacenews.com/synspective-tapped-to-provide-satellite-imagery-for-japans-new-military-constellation/" >🔗</a> **[SpaceNews]** Synspective tapped to provide satellite imagery for Japan’s new military constellation
 - <a href="https://spaceflightnow.com/2025/12/27/live-coverage-spacex-to-launch-italian-earth-observation-satellite-on-final-falcon-9-flight-of-2025/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Italian Earth observation satellite on final Falcon 9 flight of 2025
@@ -96,7 +97,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacepolicyonline.com/news/tory-bruno-joins-blue-origin/" >🔗</a> **[SpacePolicyOnline.com]** Tory Bruno Joins Blue Origin
 - <a href="https://spacenews.com/perseverance-continues-science-mission-amid-uncertainty-about-mars-sample-return/" >🔗</a> **[SpaceNews]** Perseverance continues science mission amid uncertainty about Mars Sample Return
 - <a href="https://www.nasa.gov/image-article/studying-physics-in-microgravity/" >🔗</a> **[NASA]** Studying Physics in Microgravity
-- <a href="https://www.spacedaily.com/reports/AI_systems_proposed_to_boost_launch_cadence_reliability_and_traffic_management_999.html" >🔗</a> **[SpaceDaily]** AI systems proposed to boost launch cadence reliability and traffic management
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251228T220205">2025-12-28 22:02:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251228T223518">2025-12-28 22:35:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
