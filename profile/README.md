@@ -87,16 +87,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.spacedaily.com/reports/Japans_flagship_H3_rocket_fails_to_launch_satellite_999.html" >🔗</a> **[SpaceDaily]** Japan's flagship H3 rocket fails to launch satellite
+- <a href="https://europeanspaceflight.com/esa-cancels-call-to-procure-commercial-cargo-services-to-the-iss/" >🔗</a> **[European Spaceflight]** ESA Cancels Call to Procure Commercial Cargo Services to the ISS
 - <a href="https://www.spacedaily.com/reports/Engineered_interlayers_boost_satellite_insulation_and_flexible_electronics_999.html" >🔗</a> **[SpaceDaily]** Engineered interlayers boost satellite insulation and flexible electronics
 - <a href="https://www.spacedaily.com/reports/Conventional_photon_entanglement_reveals_thousands_of_hidden_topologies_in_high_dimensions_999.html" >🔗</a> **[SpaceDaily]** Conventional photon entanglement reveals thousands of hidden topologies in high dimensions
+- <a href="https://www.spacedaily.com/reports/Japans_flagship_H3_rocket_fails_to_launch_satellite_999.html" >🔗</a> **[SpaceDaily]** Japan's flagship H3 rocket fails to launch satellite
 - <a href="https://www.nasaspaceflight.com/2025/12/spherex-first-map/" >🔗</a> **[NASASpaceflight]** SPHEREx produces first all-sky map, highlights entire universe in infrared light
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-december-28-2025-january-10-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy December 28, 2025-January 10, 2026
 - <a href="https://spacenews.com/synspective-tapped-to-provide-satellite-imagery-for-japans-new-military-constellation/" >🔗</a> **[SpaceNews]** Synspective tapped to provide satellite imagery for Japan’s new military constellation
 - <a href="https://spaceflightnow.com/2025/12/27/live-coverage-spacex-to-launch-italian-earth-observation-satellite-on-final-falcon-9-flight-of-2025/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Italian Earth observation satellite on final Falcon 9 flight of 2025
 - <a href="https://www.nasaspaceflight.com/2025/12/commercial-neighbors-stoke-relativity/" >🔗</a> **[NASASpaceflight]** Commercial neighbors Stoke Space and Relativity Space Advance make progress on Cape launch sites
 - <a href="https://spaceflightnow.com/2025/12/26/former-ula-president-and-ceo-tory-bruno-joins-blue-origin/" >🔗</a> **[Spaceflight Now]** Former ULA president and CEO Tory Bruno joins Blue Origin
-- <a href="https://spacenews.com/former-ula-chief-bruno-joins-blue-origin/" >🔗</a> **[SpaceNews]** Former ULA chief Bruno joins Blue Origin
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251229T060259">2025-12-29 06:02:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251229T064253">2025-12-29 06:42:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
