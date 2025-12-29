@@ -88,16 +88,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/2025-space-station-science-snapshots/" >🔗</a> **[NASA]** 2025 Space Station Science Snapshots
 - <a href="https://www.nasa.gov/news-release/nasa-to-preview-us-spacewalks-at-space-station-in-january/" >🔗</a> **[NASA]** NASA to Preview US Spacewalks at Space Station in January
 - <a href="https://www.nasa.gov/image-article/a-galactic-embrace/" >🔗</a> **[NASA]** A Galactic Embrace
 - <a href="https://spacenews.com/proposal-to-dismantle-ncar-would-have-space-science-impacts/" >🔗</a> **[SpaceNews]** Proposal to dismantle NCAR would have space science impacts
 - <a href="https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-jen-madsen-and-trey-perryman/" >🔗</a> **[NASA]** I Am Artemis: Jen Madsen and Trey Perryman
 - <a href="https://spacenews.com/china-hits-90-launches-as-guowang-deployment-continues-fengyun-4c-heads-to-geo/" >🔗</a> **[SpaceNews]** China hits 90 launches as Guowang deployment continues, Fengyun-4C heads to GEO
 - <a href="https://europeanspaceflight.com/esa-cancels-call-to-procure-commercial-cargo-services-to-the-iss/" >🔗</a> **[European Spaceflight]** ESA Cancels Call to Procure Commercial Cargo Services to the ISS
+- <a href="https://www.spacedaily.com/reports/Conventional_photon_entanglement_reveals_thousands_of_hidden_topologies_in_high_dimensions_999.html" >🔗</a> **[SpaceDaily]** Conventional photon entanglement reveals thousands of hidden topologies in high dimensions
 - <a href="https://www.spacedaily.com/reports/Japans_flagship_H3_rocket_fails_to_launch_satellite_999.html" >🔗</a> **[SpaceDaily]** Japan's flagship H3 rocket fails to launch satellite
 - <a href="https://www.spacedaily.com/reports/Engineered_interlayers_boost_satellite_insulation_and_flexible_electronics_999.html" >🔗</a> **[SpaceDaily]** Engineered interlayers boost satellite insulation and flexible electronics
-- <a href="https://www.spacedaily.com/reports/Conventional_photon_entanglement_reveals_thousands_of_hidden_topologies_in_high_dimensions_999.html" >🔗</a> **[SpaceDaily]** Conventional photon entanglement reveals thousands of hidden topologies in high dimensions
-- <a href="https://www.nasaspaceflight.com/2025/12/spherex-first-map/" >🔗</a> **[NASASpaceflight]** SPHEREx produces first all-sky map, highlights entire universe in infrared light
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251229T190124">2025-12-29 19:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251229T193156">2025-12-29 19:31:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
