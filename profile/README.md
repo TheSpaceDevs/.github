@@ -87,6 +87,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-jen-madsen-and-trey-perryman/" >🔗</a> **[NASA]** I Am Artemis: Jen Madsen and Trey Perryman
 - <a href="https://spacenews.com/china-hits-90-launches-as-guowang-deployment-continues-fengyun-4c-heads-to-geo/" >🔗</a> **[SpaceNews]** China hits 90 launches as Guowang deployment continues, Fengyun-4C heads to GEO
 - <a href="https://europeanspaceflight.com/esa-cancels-call-to-procure-commercial-cargo-services-to-the-iss/" >🔗</a> **[European Spaceflight]** ESA Cancels Call to Procure Commercial Cargo Services to the ISS
 - <a href="https://www.spacedaily.com/reports/Conventional_photon_entanglement_reveals_thousands_of_hidden_topologies_in_high_dimensions_999.html" >🔗</a> **[SpaceDaily]** Conventional photon entanglement reveals thousands of hidden topologies in high dimensions
@@ -96,7 +97,6 @@ into *an Unknown
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-december-28-2025-january-10-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy December 28, 2025-January 10, 2026
 - <a href="https://spacenews.com/synspective-tapped-to-provide-satellite-imagery-for-japans-new-military-constellation/" >🔗</a> **[SpaceNews]** Synspective tapped to provide satellite imagery for Japan’s new military constellation
 - <a href="https://spaceflightnow.com/2025/12/27/live-coverage-spacex-to-launch-italian-earth-observation-satellite-on-final-falcon-9-flight-of-2025/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Italian Earth observation satellite on final Falcon 9 flight of 2025
-- <a href="https://www.nasaspaceflight.com/2025/12/commercial-neighbors-stoke-relativity/" >🔗</a> **[NASASpaceflight]** Commercial neighbors Stoke Space and Relativity Space Advance make progress on Cape launch sites
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251229T140134">2025-12-29 14:01:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251229T143655">2025-12-29 14:36:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
