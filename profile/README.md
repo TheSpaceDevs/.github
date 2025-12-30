@@ -86,16 +86,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/esa-says-data-breach-was-limited-to-servers-with-unclassified-documents/" >🔗</a> **[European Spaceflight]** ESA Says Data Breach Was Limited to Servers with Unclassified Documents
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/12/Fireworks_from_space" >🔗</a> **[ESA]** Fireworks from space
 - <a href="https://spacenews.com/isaacman-opens-door-to-alternatives-to-moving-shuttle-discovery-to-houston/" >🔗</a> **[SpaceNews]** Isaacman opens door to alternatives to moving shuttle Discovery to Houston
 - <a href="https://www.spacedaily.com/reports/Space_Themed_Casino_Games_Slots_Rockets_and_Astronaut_Adventures_999.html" >🔗</a> **[SpaceDaily]** Space Themed Casino Games Slots, Rockets, and Astronaut Adventures
-- <a href="https://www.spacedaily.com/reports/China_harnesses_nationwide_system_to_drive_spaceflight_and_satellite_navigation_advances_999.html" >🔗</a> **[SpaceDaily]** China harnesses nationwide system to drive spaceflight and satellite navigation advances
 - <a href="https://www.spacedaily.com/reports/Time_expanded_network_model_cuts_complexity_in_mega_constellation_launch_planning_999.html" >🔗</a> **[SpaceDaily]** Time-expanded network model cuts complexity in mega constellation launch planning
 - <a href="https://www.spacedaily.com/reports/SSC_ground_stations_to_support_NASA_PExT_wideband_Ka_band_test_999.html" >🔗</a> **[SpaceDaily]** SSC ground stations to support NASA PExT wideband Ka band test
+- <a href="https://www.spacedaily.com/reports/China_harnesses_nationwide_system_to_drive_spaceflight_and_satellite_navigation_advances_999.html" >🔗</a> **[SpaceDaily]** China harnesses nationwide system to drive spaceflight and satellite navigation advances
 - <a href="https://www.spacedaily.com/reports/Fly_through_Webbs_cosmic_vistas_celebrates_four_years_of_James_Webb_discoveries_999.html" >🔗</a> **[SpaceDaily]** Fly through Webbs cosmic vistas celebrates four years of James Webb discoveries
 - <a href="https://www.spacedaily.com/reports/Space_traveled_mouse_gives_birth_as_China_names_pioneering_flying_mice_crew_999.html" >🔗</a> **[SpaceDaily]** Space-traveled mouse gives birth as China names pioneering "flying mice" crew
 - <a href="https://science.nasa.gov/science-research/earth-science/the-earth-observer-offering-perspectives-from-space-through-time/" >🔗</a> **[NASA]** The Earth Observer: Offering Perspectives from Space through Time
-- <a href="https://www.nasaspaceflight.com/2025/12/rocket-lab-2025-overview/" >🔗</a> **[NASASpaceflight]** After record-breaking 2025, Rocket Lab prepares for Neutron’s debut in 2026
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251230T100152">2025-12-30 10:01:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251230T103752">2025-12-30 10:37:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
