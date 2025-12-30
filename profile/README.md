@@ -19,27 +19,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Long March 7A | Unknown Payload**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Wenchang_Spacecraft_Launch_Site">201</a>, Wenchang Space Launch Site, People's Republic of China*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251230T223200">2025-12-30 22:32:00 UTC</a>.  Until
-then, this pad will have been used for 27
-out of 54 launches from this location. The launch status is currently
-*Go* 🟩 . The mission type is
-*Unknown* and the payload will be injected
-into *an Unknown
-(N/A)*.
+**Falcon 9 Block 5 | CSG-3**. It is scheduled to be launched by *SpaceX*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260103T020919">2026-01-03 02:09:19 UTC</a>.  Until
+then, this pad will have been used for 238
+out of 852 launches from this location. The launch status is currently
+*TBC* 🟨 . The mission type is
+*Earth Science* and the payload will be injected
+into *a Sun-Synchronous Orbit
+(SSO)*.
 <br>
 <blockquote>
-  Details TBD.
+  CSG-3 is an Earth observation satellite for the Italian Space Agency, part of a reconnaissance constellation using synthetic aperture radars operating in the X-band.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="None" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=19.618452,110.955356" >
+  <a href="https://www.google.com/maps?q=34.632,-120.611" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -86,6 +86,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/12/launch-roundup-123025/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Worldwide launch manifest quiet as 2026 begins
+- <a href="https://spacenews.com/space-force-offers-new-vandenberg-launch-site/" >🔗</a> **[SpaceNews]** Space Force offers new Vandenberg launch site
 - <a href="https://spacenews.com/esa-confirms-data-breach/" >🔗</a> **[SpaceNews]** ESA confirms data breach
 - <a href="https://www.nasa.gov/image-article/curiosity-sends-holiday-postcard-from-mars/" >🔗</a> **[NASA]** Curiosity Sends Holiday Postcard from Mars
 - <a href="https://www.nasa.gov/missions/chandra/nasas-chandra-rings-in-new-year-with-champagne-cluster/" >🔗</a> **[NASA]** NASA’s Chandra Rings in New Year With Champagne Cluster
@@ -94,17 +96,16 @@ into *an Unknown
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/12/Fireworks_from_space" >🔗</a> **[ESA]** Fireworks from space
 - <a href="https://spacenews.com/isaacman-opens-door-to-alternatives-to-moving-shuttle-discovery-to-houston/" >🔗</a> **[SpaceNews]** Isaacman opens door to alternatives to moving shuttle Discovery to Houston
 - <a href="https://www.spacedaily.com/reports/Fly_through_Webbs_cosmic_vistas_celebrates_four_years_of_James_Webb_discoveries_999.html" >🔗</a> **[SpaceDaily]** Fly through Webbs cosmic vistas celebrates four years of James Webb discoveries
-- <a href="https://www.spacedaily.com/reports/China_harnesses_nationwide_system_to_drive_spaceflight_and_satellite_navigation_advances_999.html" >🔗</a> **[SpaceDaily]** China harnesses nationwide system to drive spaceflight and satellite navigation advances
-- <a href="https://www.spacedaily.com/reports/Time_expanded_network_model_cuts_complexity_in_mega_constellation_launch_planning_999.html" >🔗</a> **[SpaceDaily]** Time-expanded network model cuts complexity in mega constellation launch planning
 
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2025/12/launch-roundup-122225/" >🔗</a> **[NASASpaceflight]** Launch Roundup: International launches fill manifest during last full week of 2025
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251230T230142">2025-12-30 23:01:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251230T233309">2025-12-30 23:33:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
