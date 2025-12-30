@@ -86,16 +86,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacedaily.com/reports/China_harnesses_nationwide_system_to_drive_spaceflight_and_satellite_navigation_advances_999.html" >🔗</a> **[SpaceDaily]** China harnesses nationwide system to drive spaceflight and satellite navigation advances
+- <a href="https://www.spacedaily.com/reports/Time_expanded_network_model_cuts_complexity_in_mega_constellation_launch_planning_999.html" >🔗</a> **[SpaceDaily]** Time-expanded network model cuts complexity in mega constellation launch planning
+- <a href="https://www.spacedaily.com/reports/Space_Themed_Casino_Games_Slots_Rockets_and_Astronaut_Adventures_999.html" >🔗</a> **[SpaceDaily]** Space Themed Casino Games Slots, Rockets, and Astronaut Adventures
+- <a href="https://www.spacedaily.com/reports/Space_traveled_mouse_gives_birth_as_China_names_pioneering_flying_mice_crew_999.html" >🔗</a> **[SpaceDaily]** Space-traveled mouse gives birth as China names pioneering "flying mice" crew
+- <a href="https://www.spacedaily.com/reports/Fly_through_Webbs_cosmic_vistas_celebrates_four_years_of_James_Webb_discoveries_999.html" >🔗</a> **[SpaceDaily]** Fly through Webbs cosmic vistas celebrates four years of James Webb discoveries
+- <a href="https://www.spacedaily.com/reports/SSC_ground_stations_to_support_NASA_PExT_wideband_Ka_band_test_999.html" >🔗</a> **[SpaceDaily]** SSC ground stations to support NASA PExT wideband Ka band test
 - <a href="https://science.nasa.gov/science-research/earth-science/the-earth-observer-offering-perspectives-from-space-through-time/" >🔗</a> **[NASA]** The Earth Observer: Offering Perspectives from Space through Time
 - <a href="https://www.nasaspaceflight.com/2025/12/rocket-lab-2025-overview/" >🔗</a> **[NASASpaceflight]** After record-breaking 2025, Rocket Lab prepares for Neutron’s debut in 2026
 - <a href="https://spacenews.com/hyprspace-looks-for-applications-beyond-launch-for-its-hybrid-propulsion-technology/" >🔗</a> **[SpaceNews]** HyPrSpace looks for applications beyond launch for its hybrid propulsion technology
 - <a href="https://science.nasa.gov/science-research/earth-science/terra-the-end-of-an-era/" >🔗</a> **[NASA]** Terra: The End of An Era
-- <a href="https://science.nasa.gov/science-research/earth-science/the-final-earth-observer-editors-corner-october-december-2025/" >🔗</a> **[NASA]** The Final Earth Observer Editor’s Corner: October–December 2025
-- <a href="https://science.nasa.gov/science-research/earth-science/the-state-of-ceres-updates-and-highlights/" >🔗</a> **[NASA]** The State of CERES: Updates and Highlights
-- <a href="https://www.nasa.gov/image-article/2025-space-station-science-snapshots/" >🔗</a> **[NASA]** 2025 Space Station Science Snapshots
-- <a href="https://www.nasa.gov/news-release/nasa-to-preview-us-spacewalks-at-space-station-in-january/" >🔗</a> **[NASA]** NASA to Preview US Spacewalks at Space Station in January
-- <a href="https://www.nasa.gov/image-article/a-galactic-embrace/" >🔗</a> **[NASA]** A Galactic Embrace
-- <a href="https://spacenews.com/proposal-to-dismantle-ncar-would-have-space-science-impacts/" >🔗</a> **[SpaceNews]** Proposal to dismantle NCAR would have space science impacts
 
 
 ### Launch-related News 🚀
@@ -104,7 +104,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251230T060157">2025-12-30 06:01:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251230T064218">2025-12-30 06:42:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
