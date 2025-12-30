@@ -88,6 +88,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2025/12/rocket-lab-2025-overview/" >🔗</a> **[NASASpaceflight]** After record-breaking 2025, Rocket Lab prepares for Neutron’s debut in 2026
 - <a href="https://spacenews.com/hyprspace-looks-for-applications-beyond-launch-for-its-hybrid-propulsion-technology/" >🔗</a> **[SpaceNews]** HyPrSpace looks for applications beyond launch for its hybrid propulsion technology
 - <a href="https://science.nasa.gov/science-research/earth-science/terra-the-end-of-an-era/" >🔗</a> **[NASA]** Terra: The End of An Era
 - <a href="https://science.nasa.gov/science-research/earth-science/the-final-earth-observer-editors-corner-october-december-2025/" >🔗</a> **[NASA]** The Final Earth Observer Editor’s Corner: October–December 2025
@@ -97,7 +98,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/image-article/a-galactic-embrace/" >🔗</a> **[NASA]** A Galactic Embrace
 - <a href="https://spacenews.com/proposal-to-dismantle-ncar-would-have-space-science-impacts/" >🔗</a> **[SpaceNews]** Proposal to dismantle NCAR would have space science impacts
 - <a href="https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-jen-madsen-and-trey-perryman/" >🔗</a> **[NASA]** I Am Artemis: Jen Madsen and Trey Perryman
-- <a href="https://spacenews.com/china-hits-90-launches-as-guowang-deployment-continues-fengyun-4c-heads-to-geo/" >🔗</a> **[SpaceNews]** China hits 90 launches as Guowang deployment continues, Fengyun-4C heads to GEO
 
 
 ### Launch-related News 🚀
@@ -106,7 +106,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251229T233335">2025-12-29 23:33:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251230T000516">2025-12-30 00:05:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
