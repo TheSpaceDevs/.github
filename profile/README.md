@@ -86,6 +86,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/planet-bets-on-orbital-data-centers-in-partnership-with-google/" >🔗</a> **[SpaceNews]** Planet bets on orbital data centers in partnership with Google
 - <a href="https://www.nasaspaceflight.com/2025/12/launch-roundup-123025/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Worldwide launch manifest quiet as 2026 begins
 - <a href="https://spacenews.com/space-force-offers-new-vandenberg-launch-site/" >🔗</a> **[SpaceNews]** Space Force offers new Vandenberg launch site
 - <a href="https://spacenews.com/esa-confirms-data-breach/" >🔗</a> **[SpaceNews]** ESA confirms data breach
@@ -95,7 +96,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://europeanspaceflight.com/esa-says-data-breach-was-limited-to-servers-with-unclassified-documents/" >🔗</a> **[European Spaceflight]** ESA Says Data Breach Was Limited to Servers with Unclassified Documents
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2025/12/Fireworks_from_space" >🔗</a> **[ESA]** Fireworks from space
 - <a href="https://spacenews.com/isaacman-opens-door-to-alternatives-to-moving-shuttle-discovery-to-houston/" >🔗</a> **[SpaceNews]** Isaacman opens door to alternatives to moving shuttle Discovery to Houston
-- <a href="https://www.spacedaily.com/reports/Fly_through_Webbs_cosmic_vistas_celebrates_four_years_of_James_Webb_discoveries_999.html" >🔗</a> **[SpaceDaily]** Fly through Webbs cosmic vistas celebrates four years of James Webb discoveries
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251231T000523">2025-12-31 00:05:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251231T004609">2025-12-31 00:46:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
