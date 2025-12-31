@@ -86,6 +86,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-to-debut-reusable-long-march-10-derived-rocket-in-first-half-of-2026/" >🔗</a> **[SpaceNews]** China to debut reusable Long March 10-derived rocket in first half of 2026
 - <a href="https://europeanspaceflight.com/commission-approves-new-members-for-space-surveillance-and-tracking-programme/" >🔗</a> **[European Spaceflight]** Commission Approves New Members for Space Surveillance and Tracking Programme
 - <a href="https://spacenews.com/china-caps-record-year-for-orbital-launches-with-tianhui-7-and-shijian-29-technology-test-missions/" >🔗</a> **[SpaceNews]** China caps record year for orbital launches with Tianhui-7 and Shijian-29 technology test missions
 - <a href="https://spacenews.com/space-forge-generates-plasma-for-leo-semiconductor-material-production/" >🔗</a> **[SpaceNews]** Space Forge generates plasma for LEO semiconductor material production
@@ -95,7 +96,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasaspaceflight.com/2025/12/launch-roundup-123025/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Worldwide launch manifest quiet as 2026 begins
 - <a href="https://spacenews.com/space-force-offers-new-vandenberg-launch-site/" >🔗</a> **[SpaceNews]** Space Force offers new Vandenberg launch site
 - <a href="https://spacenews.com/esa-confirms-data-breach/" >🔗</a> **[SpaceNews]** ESA confirms data breach
-- <a href="https://www.nasa.gov/image-article/curiosity-sends-holiday-postcard-from-mars/" >🔗</a> **[NASA]** Curiosity Sends Holiday Postcard from Mars
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251231T110111">2025-12-31 11:01:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251231T113245">2025-12-31 11:32:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
