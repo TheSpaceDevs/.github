@@ -86,6 +86,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-forge-generates-plasma-for-leo-semiconductor-material-production/" >🔗</a> **[SpaceNews]** Space Forge generates plasma for LEO semiconductor material production
 - <a href="https://science.nasa.gov/uncategorized/2025-aas-town-hall-schedule/" >🔗</a> **[NASA]** 2025 AAS Town Hall Schedule
 - <a href="https://science.nasa.gov/uncategorized/2025-aas-hyperwall-schedule/" >🔗</a> **[NASA]** 2025 AAS Hyperwall Schedule
 - <a href="https://spacenews.com/planet-bets-on-orbital-data-centers-in-partnership-with-google/" >🔗</a> **[SpaceNews]** Planet bets on orbital data centers in partnership with Google
@@ -95,7 +96,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasa.gov/image-article/curiosity-sends-holiday-postcard-from-mars/" >🔗</a> **[NASA]** Curiosity Sends Holiday Postcard from Mars
 - <a href="https://www.nasa.gov/missions/chandra/nasas-chandra-rings-in-new-year-with-champagne-cluster/" >🔗</a> **[NASA]** NASA’s Chandra Rings in New Year With Champagne Cluster
 - <a href="https://spacenews.com/the-space-stories-that-will-shape-2026/" >🔗</a> **[SpaceNews]** The space stories that will shape 2026
-- <a href="https://europeanspaceflight.com/esa-says-data-breach-was-limited-to-servers-with-unclassified-documents/" >🔗</a> **[European Spaceflight]** ESA Says Data Breach Was Limited to Servers with Unclassified Documents
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251231T060154">2025-12-31 06:01:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251231T064226">2025-12-31 06:42:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
