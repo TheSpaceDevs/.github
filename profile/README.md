@@ -86,6 +86,8 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/uncategorized/2025-aas-town-hall-schedule/" >🔗</a> **[NASA]** 2025 AAS Town Hall Schedule
+- <a href="https://science.nasa.gov/uncategorized/2025-aas-hyperwall-schedule/" >🔗</a> **[NASA]** 2025 AAS Hyperwall Schedule
 - <a href="https://spacenews.com/planet-bets-on-orbital-data-centers-in-partnership-with-google/" >🔗</a> **[SpaceNews]** Planet bets on orbital data centers in partnership with Google
 - <a href="https://www.nasaspaceflight.com/2025/12/launch-roundup-123025/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Worldwide launch manifest quiet as 2026 begins
 - <a href="https://spacenews.com/space-force-offers-new-vandenberg-launch-site/" >🔗</a> **[SpaceNews]** Space Force offers new Vandenberg launch site
@@ -94,8 +96,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasa.gov/missions/chandra/nasas-chandra-rings-in-new-year-with-champagne-cluster/" >🔗</a> **[NASA]** NASA’s Chandra Rings in New Year With Champagne Cluster
 - <a href="https://spacenews.com/the-space-stories-that-will-shape-2026/" >🔗</a> **[SpaceNews]** The space stories that will shape 2026
 - <a href="https://europeanspaceflight.com/esa-says-data-breach-was-limited-to-servers-with-unclassified-documents/" >🔗</a> **[European Spaceflight]** ESA Says Data Breach Was Limited to Servers with Unclassified Documents
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2025/12/Fireworks_from_space" >🔗</a> **[ESA]** Fireworks from space
-- <a href="https://spacenews.com/isaacman-opens-door-to-alternatives-to-moving-shuttle-discovery-to-houston/" >🔗</a> **[SpaceNews]** Isaacman opens door to alternatives to moving shuttle Discovery to Houston
 
 
 ### Launch-related News 🚀
@@ -105,7 +105,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251231T012920">2025-12-31 01:29:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20251231T021824">2025-12-31 02:18:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
