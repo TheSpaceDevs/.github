@@ -90,16 +90,16 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.spacedaily.com/reports/Satellites_lined_up_for_shared_space_computing_power_networks_999.html" >🔗</a> **[SpaceDaily]** Satellites lined up for shared space computing power networks
-- <a href="https://www.spacedaily.com/reports/Satellites_to_extend_5G_and_6G_coverage_worldwide_999.html" >🔗</a> **[SpaceDaily]** Satellites to extend 5G and 6G coverage worldwide
-- <a href="https://www.spacedaily.com/reports/Satellite_and_model_fusion_boosts_China_solar_radiation_forecasts_999.html" >🔗</a> **[SpaceDaily]** Satellite and model fusion boosts China solar radiation forecasts
-- <a href="https://www.gpsdaily.com/reports/China_tracks_surge_in_geospatial_information_industry_999.html" >🔗</a> **[SpaceDaily]** China tracks surge in geospatial information industry
-- <a href="https://www.spacedaily.com/reports/China_launches_twin_Shijian_29_satellites_to_test_space_target_detection_tech_999.html" >🔗</a> **[SpaceDaily]** China launches twin Shijian-29 satellites to test space-target detection tech
-- <a href="https://spacenews.com/landspace-targets-1-billion-for-reusable-rockets-as-ipo-application-accepted/" >🔗</a> **[SpaceNews]** Landspace targets $1 billion for reusable rockets as IPO application accepted
-- <a href="https://spacenews.com/heliophysics-missions-move-toward-operations/" >🔗</a> **[SpaceNews]** Heliophysics missions move toward operations
-- <a href="https://spacenews.com/china-to-debut-reusable-long-march-10-derived-rocket-in-first-half-of-2026/" >🔗</a> **[SpaceNews]** China to debut reusable Long March 10-derived rocket in first half of 2026
-- <a href="https://europeanspaceflight.com/commission-approves-new-members-for-space-surveillance-and-tracking-programme/" >🔗</a> **[European Spaceflight]** Commission Approves New Members for Space Surveillance and Tracking Programme
-- <a href="https://spacenews.com/china-caps-record-year-for-orbital-launches-with-tianhui-7-and-shijian-29-technology-test-missions/" >🔗</a> **[SpaceNews]** China caps record year for orbital launches with Tianhui-7 and Shijian-29 technology test missions
+- <a href="https://www.spacedaily.com/reports/Planet_delivers_first_light_image_from_Pelican_6_satellite_capturing_Lhasa_Gonggar_Airport_999.html" >🔗</a> **[SpaceDaily]** Planet delivers first light image from Pelican 6 satellite capturing Lhasa Gonggar Airport
+- <a href="https://www.spacewar.com/reports/MDA_Space_partners_with_Canada_defence_department_and_Telesat_to_deliver_next_generation_military_satcom_999.html" >🔗</a> **[SpaceDaily]** MDA Space partners with Canada defence department and Telesat to deliver next generation military satcom
+- <a href="https://www.spacewar.com/reports/RTX_radar_selected_to_support_autonomous_X_62A_fighter_testing_999.html" >🔗</a> **[SpaceDaily]** RTX radar selected to support autonomous X 62A fighter testing
+- <a href="https://www.spacedaily.com/reports/Hydrogen_peroxide_thruster_qualifies_for_ESA_launcher_attitude_control_999.html" >🔗</a> **[SpaceDaily]** Hydrogen peroxide thruster qualifies for ESA launcher attitude control
+- <a href="https://www.spacewar.com/reports/DLR_completes_ground_roll_tests_of_HAP_alpha_uncrewed_high_altitude_solar_aircraft_999.html" >🔗</a> **[SpaceDaily]** DLR completes ground roll tests of HAP alpha uncrewed high altitude solar aircraft
+- <a href="https://www.spacewar.com/reports/Space_Development_Agency_expands_Tracking_Layer_satellite_awards_and_related_missile_defense_contracts_999.html" >🔗</a> **[SpaceDaily]** SDA expands Tracking Layer satellite awards and related missile defense contracts
+- <a href="https://www.spacedaily.com/reports/Australian_team_maps_quantum_error_memory_over_time_999.html" >🔗</a> **[SpaceDaily]** Australian team maps quantum error memory over time
+- <a href="https://www.spacewar.com/reports/Muon_Space_secures_Direct_to_Phase_II_award_for_SDA_missile_warning_and_tracking_mission_999.html" >🔗</a> **[SpaceDaily]** Muon Space secures Direct to Phase II award for SDA missile warning and tracking mission
+- <a href="https://www.spacedaily.com/reports/ESA_reaches_new_benchmark_in_autonomous_formation_flying_999.html" >🔗</a> **[SpaceDaily]** ESA reaches new benchmark in autonomous formation flying
+- <a href="https://www.spacewar.com/reports/Cyviz_awarded_two_classified_NATO_defense_contracts_for_mission_critical_visualization_systems_999.html" >🔗</a> **[SpaceDaily]** Cyviz awarded two classified NATO defense contracts for mission critical visualization systems
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260101T100150">2026-01-01 10:01:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260101T103729">2026-01-01 10:37:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
