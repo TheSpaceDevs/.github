@@ -90,6 +90,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/landspace-targets-1-billion-for-reusable-rockets-as-ipo-application-accepted/" >🔗</a> **[SpaceNews]** Landspace targets $1 billion for reusable rockets as IPO application accepted
 - <a href="https://spacenews.com/heliophysics-missions-move-toward-operations/" >🔗</a> **[SpaceNews]** Heliophysics missions move toward operations
 - <a href="https://spacenews.com/china-to-debut-reusable-long-march-10-derived-rocket-in-first-half-of-2026/" >🔗</a> **[SpaceNews]** China to debut reusable Long March 10-derived rocket in first half of 2026
 - <a href="https://europeanspaceflight.com/commission-approves-new-members-for-space-surveillance-and-tracking-programme/" >🔗</a> **[European Spaceflight]** Commission Approves New Members for Space Surveillance and Tracking Programme
@@ -99,7 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://science.nasa.gov/uncategorized/2025-aas-hyperwall-schedule/" >🔗</a> **[NASA]** 2025 AAS Hyperwall Schedule
 - <a href="https://spacenews.com/planet-bets-on-orbital-data-centers-in-partnership-with-google/" >🔗</a> **[SpaceNews]** Planet bets on orbital data centers in partnership with Google
 - <a href="https://www.nasaspaceflight.com/2025/12/launch-roundup-123025/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Worldwide launch manifest quiet as 2026 begins
-- <a href="https://spacenews.com/space-force-offers-new-vandenberg-launch-site/" >🔗</a> **[SpaceNews]** Space Force offers new Vandenberg launch site
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260101T000541">2026-01-01 00:05:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260101T004837">2026-01-01 00:48:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
