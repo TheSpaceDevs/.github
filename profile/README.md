@@ -90,16 +90,16 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacedaily.com/reports/Satellites_lined_up_for_shared_space_computing_power_networks_999.html" >🔗</a> **[SpaceDaily]** Satellites lined up for shared space computing power networks
+- <a href="https://www.spacedaily.com/reports/Satellites_to_extend_5G_and_6G_coverage_worldwide_999.html" >🔗</a> **[SpaceDaily]** Satellites to extend 5G and 6G coverage worldwide
+- <a href="https://www.spacedaily.com/reports/Satellite_and_model_fusion_boosts_China_solar_radiation_forecasts_999.html" >🔗</a> **[SpaceDaily]** Satellite and model fusion boosts China solar radiation forecasts
+- <a href="https://www.gpsdaily.com/reports/China_tracks_surge_in_geospatial_information_industry_999.html" >🔗</a> **[SpaceDaily]** China tracks surge in geospatial information industry
+- <a href="https://www.spacedaily.com/reports/China_launches_twin_Shijian_29_satellites_to_test_space_target_detection_tech_999.html" >🔗</a> **[SpaceDaily]** China launches twin Shijian-29 satellites to test space-target detection tech
 - <a href="https://spacenews.com/landspace-targets-1-billion-for-reusable-rockets-as-ipo-application-accepted/" >🔗</a> **[SpaceNews]** Landspace targets $1 billion for reusable rockets as IPO application accepted
 - <a href="https://spacenews.com/heliophysics-missions-move-toward-operations/" >🔗</a> **[SpaceNews]** Heliophysics missions move toward operations
 - <a href="https://spacenews.com/china-to-debut-reusable-long-march-10-derived-rocket-in-first-half-of-2026/" >🔗</a> **[SpaceNews]** China to debut reusable Long March 10-derived rocket in first half of 2026
 - <a href="https://europeanspaceflight.com/commission-approves-new-members-for-space-surveillance-and-tracking-programme/" >🔗</a> **[European Spaceflight]** Commission Approves New Members for Space Surveillance and Tracking Programme
 - <a href="https://spacenews.com/china-caps-record-year-for-orbital-launches-with-tianhui-7-and-shijian-29-technology-test-missions/" >🔗</a> **[SpaceNews]** China caps record year for orbital launches with Tianhui-7 and Shijian-29 technology test missions
-- <a href="https://spacenews.com/space-forge-generates-plasma-for-leo-semiconductor-material-production/" >🔗</a> **[SpaceNews]** Space Forge generates plasma for LEO semiconductor material production
-- <a href="https://science.nasa.gov/uncategorized/2025-aas-town-hall-schedule/" >🔗</a> **[NASA]** 2025 AAS Town Hall Schedule
-- <a href="https://science.nasa.gov/uncategorized/2025-aas-hyperwall-schedule/" >🔗</a> **[NASA]** 2025 AAS Hyperwall Schedule
-- <a href="https://spacenews.com/planet-bets-on-orbital-data-centers-in-partnership-with-google/" >🔗</a> **[SpaceNews]** Planet bets on orbital data centers in partnership with Google
-- <a href="https://www.nasaspaceflight.com/2025/12/launch-roundup-123025/" >🔗</a> **[NASASpaceflight]** Launch Roundup: Worldwide launch manifest quiet as 2026 begins
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260101T004837">2026-01-01 00:48:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260101T012959">2026-01-01 01:29:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
