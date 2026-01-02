@@ -90,6 +90,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/01/02/live-coverage-spacex-opens-2026-with-launch-of-cosmo-skymed-earth-observation-satellite-for-italy/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX opens 2026 with launch of Cosmo-SkyMed Earth observation satellite for Italy
 - <a href="https://spacenews.com/spacex-to-lower-orbits-of-some-starlink-satellites/" >🔗</a> **[SpaceNews]** SpaceX to lower orbits of some Starlink satellites
 - <a href="https://www.nasa.gov/image-article/hubble-glimpses-galactic-gas-making-a-getaway/" >🔗</a> **[NASA]** Hubble Glimpses Galactic Gas Making a Getaway
 - <a href="https://arstechnica.com/space/2026/01/finally-some-good-news-for-russia-the-space-station-is-no-longer-leaking/" >🔗</a> **[Arstechnica]** Finally, some good news for Russia—the space station is no longer leaking
@@ -99,7 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasaspaceflight.com/2026/01/starship-barge-ksc-transports/" >🔗</a> **[NASASpaceflight]** Starship Barge identified ahead of Starbase to KSC transports
 - <a href="https://www.spacewar.com/reports/RTX_radar_selected_to_support_autonomous_X_62A_fighter_testing_999.html" >🔗</a> **[SpaceDaily]** RTX radar selected to support autonomous X 62A fighter testing
 - <a href="https://www.spacewar.com/reports/Space_Development_Agency_expands_Tracking_Layer_satellite_awards_and_related_missile_defense_contracts_999.html" >🔗</a> **[SpaceDaily]** SDA expands Tracking Layer satellite awards and related missile defense contracts
-- <a href="https://www.spacedaily.com/reports/Australian_team_maps_quantum_error_memory_over_time_999.html" >🔗</a> **[SpaceDaily]** Australian team maps quantum error memory over time
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260102T210144">2026-01-02 21:01:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260102T213152">2026-01-02 21:31:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
