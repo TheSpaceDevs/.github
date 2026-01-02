@@ -90,16 +90,16 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/01/A_neighbouring_vista_of_stellar_birth" >🔗</a> **[ESA]** A neighbouring vista of stellar birth
 - <a href="https://europeanspaceflight.com/denmarks-first-mission-to-the-moon-gets-esa-greenlight/" >🔗</a> **[European Spaceflight]** Denmark’s First Mission to the Moon Gets ESA Greenlight
 - <a href="https://www.spacewar.com/reports/Anysignal_raises_24_million_Series_A_to_advance_autonomous_RF_sensing_for_space_and_national_security_999.html" >🔗</a> **[SpaceDaily]** Anysignal raises 24 million Series A to advance autonomous RF sensing for space and national security
 - <a href="https://www.nasaspaceflight.com/2026/01/starship-barge-ksc-transports/" >🔗</a> **[NASASpaceflight]** Starship Barge identified ahead of Starbase to KSC transports
-- <a href="https://www.spacewar.com/reports/MDA_Space_partners_with_Canada_defence_department_and_Telesat_to_deliver_next_generation_military_satcom_999.html" >🔗</a> **[SpaceDaily]** MDA Space partners with Canada defence department and Telesat to deliver next generation military satcom
-- <a href="https://www.spacewar.com/reports/DLR_completes_ground_roll_tests_of_HAP_alpha_uncrewed_high_altitude_solar_aircraft_999.html" >🔗</a> **[SpaceDaily]** DLR completes ground roll tests of HAP alpha uncrewed high altitude solar aircraft
-- <a href="https://www.spacewar.com/reports/Space_Development_Agency_expands_Tracking_Layer_satellite_awards_and_related_missile_defense_contracts_999.html" >🔗</a> **[SpaceDaily]** SDA expands Tracking Layer satellite awards and related missile defense contracts
-- <a href="https://www.spacedaily.com/reports/Hydrogen_peroxide_thruster_qualifies_for_ESA_launcher_attitude_control_999.html" >🔗</a> **[SpaceDaily]** Hydrogen peroxide thruster qualifies for ESA launcher attitude control
-- <a href="https://www.spacewar.com/reports/Muon_Space_secures_Direct_to_Phase_II_award_for_SDA_missile_warning_and_tracking_mission_999.html" >🔗</a> **[SpaceDaily]** Muon Space secures Direct to Phase II award for SDA missile warning and tracking mission
-- <a href="https://www.spacedaily.com/reports/ESA_reaches_new_benchmark_in_autonomous_formation_flying_999.html" >🔗</a> **[SpaceDaily]** ESA reaches new benchmark in autonomous formation flying
+- <a href="https://www.spacedaily.com/reports/Planet_delivers_first_light_image_from_Pelican_6_satellite_capturing_Lhasa_Gonggar_Airport_999.html" >🔗</a> **[SpaceDaily]** Planet delivers first light image from Pelican 6 satellite capturing Lhasa Gonggar Airport
 - <a href="https://www.spacedaily.com/reports/Australian_team_maps_quantum_error_memory_over_time_999.html" >🔗</a> **[SpaceDaily]** Australian team maps quantum error memory over time
+- <a href="https://www.spacedaily.com/reports/ESA_reaches_new_benchmark_in_autonomous_formation_flying_999.html" >🔗</a> **[SpaceDaily]** ESA reaches new benchmark in autonomous formation flying
+- <a href="https://www.spacewar.com/reports/Space_Development_Agency_expands_Tracking_Layer_satellite_awards_and_related_missile_defense_contracts_999.html" >🔗</a> **[SpaceDaily]** SDA expands Tracking Layer satellite awards and related missile defense contracts
+- <a href="https://www.spacewar.com/reports/RTX_radar_selected_to_support_autonomous_X_62A_fighter_testing_999.html" >🔗</a> **[SpaceDaily]** RTX radar selected to support autonomous X 62A fighter testing
+- <a href="https://www.spacewar.com/reports/Muon_Space_secures_Direct_to_Phase_II_award_for_SDA_missile_warning_and_tracking_mission_999.html" >🔗</a> **[SpaceDaily]** Muon Space secures Direct to Phase II award for SDA missile warning and tracking mission
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260102T140144">2026-01-02 14:01:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260102T143559">2026-01-02 14:35:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
