@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/eartheye-space-reveals-contract-with-asia-pacific-customer/" >🔗</a> **[SpaceNews]** Eartheye Space reveals contract with Asia-Pacific customer
 - <a href="https://www.spacedaily.com/reports/Galileo_satellites_ride_Ariane_6_to_boost_Europe_navigation_resilience_999.html" >🔗</a> **[SpaceDaily]** Galileo satellites ride Ariane 6 to boost Europe navigation resilience
 - <a href="https://www.spacedaily.com/reports/Joint_ground__and_space_based_observations_reveal_Saturn_mass_rogue_planet_999.html" >🔗</a> **[SpaceDaily]** Joint ground- and space-based observations reveal Saturn-mass rogue planet
-- <a href="https://www.marsdaily.com/reports/Curiositys_Nevado_Sajama_postcard_captures_Mars_on_the_eve_of_conjunction_999.html" >🔗</a> **[SpaceDaily]** Curiosity's Nevado Sajama postcard captures Mars on the eve of conjunction
 - <a href="https://www.moondaily.com/reports/Danish_Mani_mission_to_chart_lunar_terrain_in_3D_999.html" >🔗</a> **[SpaceDaily]** Danish Mani mission to chart lunar terrain in 3D
+- <a href="https://www.marsdaily.com/reports/Curiositys_Nevado_Sajama_postcard_captures_Mars_on_the_eve_of_conjunction_999.html" >🔗</a> **[SpaceDaily]** Curiosity's Nevado Sajama postcard captures Mars on the eve of conjunction
 - <a href="https://spacenews.com/terran-orbital-selected-by-lockheed-martin-to-provide-satellite-buses-for-sdas-tranche-3-tracking-layer/" >🔗</a> **[SpaceNews]** Terran Orbital Selected by Lockheed Martin to Provide Satellite Buses for SDA’s Tranche 3 Tracking Layer
 - <a href="https://spaceflightnow.com/2026/01/02/live-coverage-spacex-opens-2026-with-launch-of-cosmo-skymed-earth-observation-satellite-for-italy/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX opens 2026 with launch of Cosmo-SkyMed Earth observation satellite for Italy
 - <a href="https://spacenews.com/spacex-to-lower-orbits-of-some-starlink-satellites/" >🔗</a> **[SpaceNews]** SpaceX to lower orbits of some Starlink satellites
 - <a href="https://www.nasa.gov/image-article/hubble-glimpses-galactic-gas-making-a-getaway/" >🔗</a> **[NASA]** Hubble Glimpses Galactic Gas Making a Getaway
 - <a href="https://arstechnica.com/space/2026/01/finally-some-good-news-for-russia-the-space-station-is-no-longer-leaking/" >🔗</a> **[Arstechnica]** Finally, some good news for Russia—the space station is no longer leaking
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/01/A_neighbouring_vista_of_stellar_birth" >🔗</a> **[ESA]** A neighbouring vista of stellar birth
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260103T033510">2026-01-03 03:35:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260103T040845">2026-01-03 04:08:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
