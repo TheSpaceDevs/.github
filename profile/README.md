@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacex-china-drive-new-record-for-orbital-launches-in-2025/" >🔗</a> **[SpaceNews]** SpaceX, China drive new record for orbital launches in 2025
 - <a href="https://spacenews.com/new-spanish-communications-satellite-suffers-space-particle-impact/" >🔗</a> **[SpaceNews]** New Spanish communications satellite suffers ‘space particle’ impact
 - <a href="https://europeanspaceflight.com/spains-new-communications-satellite-suffers-space-particle-strike/" >🔗</a> **[European Spaceflight]** Spain’s New Communications Satellite Suffers “Space Particle” Strike
 - <a href="https://spacenews.com/spacex-launches-next-second-generation-italian-cosmo-skymed-satellite/" >🔗</a> **[SpaceNews]** SpaceX launches next second-generation Italian COSMO-SkyMed satellite
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.moondaily.com/reports/Danish_Mani_mission_to_chart_lunar_terrain_in_3D_999.html" >🔗</a> **[SpaceDaily]** Danish Mani mission to chart lunar terrain in 3D
 - <a href="https://www.spacedaily.com/reports/Galileo_satellites_ride_Ariane_6_to_boost_Europe_navigation_resilience_999.html" >🔗</a> **[SpaceDaily]** Galileo satellites ride Ariane 6 to boost Europe navigation resilience
 - <a href="https://www.spacedaily.com/reports/Joint_ground__and_space_based_observations_reveal_Saturn_mass_rogue_planet_999.html" >🔗</a> **[SpaceDaily]** Joint ground- and space-based observations reveal Saturn-mass rogue planet
-- <a href="https://spacenews.com/terran-orbital-selected-by-lockheed-martin-to-provide-satellite-buses-for-sdas-tranche-3-tracking-layer/" >🔗</a> **[SpaceNews]** Terran Orbital Selected by Lockheed Martin to Provide Satellite Buses for SDA’s Tranche 3 Tracking Layer
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260104T000525">2026-01-04 00:05:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260104T004820">2026-01-04 00:48:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
