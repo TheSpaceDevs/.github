@@ -98,7 +98,7 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/spacex-launches-next-second-generation-italian-cosmo-skymed-satellite/" >🔗</a> **[SpaceNews]** SpaceX launches next second-generation Italian COSMO-SkyMed satellite
 - <a href="https://www.nasaspaceflight.com/2026/01/starship-foundations-2026/" >🔗</a> **[NASASpaceflight]** SpaceX laying the Starship foundations for 2026 and beyond
 - <a href="https://spacenews.com/eartheye-space-reveals-contract-with-asia-pacific-customer/" >🔗</a> **[SpaceNews]** Eartheye Space reveals contract with Asia-Pacific customer
-- <a href="https://www.marsdaily.com/reports/Curiositys_Nevado_Sajama_postcard_captures_Mars_on_the_eve_of_conjunction_999.html" >🔗</a> **[SpaceDaily]** Curiosity's Nevado Sajama postcard captures Mars on the eve of conjunction
+- <a href="https://www.spacedaily.com/reports/Galileo_satellites_ride_Ariane_6_to_boost_Europe_navigation_resilience_999.html" >🔗</a> **[SpaceDaily]** Galileo satellites ride Ariane 6 to boost Europe navigation resilience
 - <a href="https://www.moondaily.com/reports/Danish_Mani_mission_to_chart_lunar_terrain_in_3D_999.html" >🔗</a> **[SpaceDaily]** Danish Mani mission to chart lunar terrain in 3D
 
 
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260104T090138">2026-01-04 09:01:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260104T093353">2026-01-04 09:33:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
