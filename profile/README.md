@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/01/space-force-launch-interest-cape-vandenberg-pads/" >🔗</a> **[NASASpaceflight]** Space Force requests launch provider interest in Cape and Vandenberg pads
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-january-4-10-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy January 4-10, 2026
 - <a href="https://spacenews.com/space-force-begins-base-network-overhaul-as-cybersecurity-demands-grow/" >🔗</a> **[SpaceNews]** Space Force begins base network overhaul as cybersecurity demands grow
 - <a href="https://spaceflightnow.com/2026/01/04/live-coverage-spacex-to-launch-first-starlink-deployment-mission-since-problem-strikes-satellite/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch first Starlink deployment mission since problem strikes satellite
 - <a href="https://spacenews.com/spacex-china-drive-new-record-for-orbital-launches-in-2025/" >🔗</a> **[SpaceNews]** SpaceX, China drive new record for orbital launches in 2025
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/spacex-launches-next-second-generation-italian-cosmo-skymed-satellite/" >🔗</a> **[SpaceNews]** SpaceX launches next second-generation Italian COSMO-SkyMed satellite
 - <a href="https://www.nasaspaceflight.com/2026/01/starship-foundations-2026/" >🔗</a> **[NASASpaceflight]** SpaceX laying the Starship foundations for 2026 and beyond
 - <a href="https://spacenews.com/eartheye-space-reveals-contract-with-asia-pacific-customer/" >🔗</a> **[SpaceNews]** Eartheye Space reveals contract with Asia-Pacific customer
-- <a href="https://www.spacedaily.com/reports/Galileo_satellites_ride_Ariane_6_to_boost_Europe_navigation_resilience_999.html" >🔗</a> **[SpaceDaily]** Galileo satellites ride Ariane 6 to boost Europe navigation resilience
-- <a href="https://www.moondaily.com/reports/Danish_Mani_mission_to_chart_lunar_terrain_in_3D_999.html" >🔗</a> **[SpaceDaily]** Danish Mani mission to chart lunar terrain in 3D
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260104T220143">2026-01-04 22:01:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260104T223531">2026-01-04 22:35:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
