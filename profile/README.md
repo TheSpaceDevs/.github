@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/no-more-free-rides-its-time-to-pay-for-space-safety/" >🔗</a> **[SpaceNews]** No more free rides: it’s time to pay for space safety
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/01/Tree_planting_for_epsilon2" >🔗</a> **[ESA]** Tree planting for εpsilon
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/01/Tree_planting_for_epsilon" >🔗</a> **[ESA]** Tree planting for εpsilon
 - <a href="https://spacenews.com/chinas-astronauts-complete-cave-training-amid-preparations-for-moon-missions/" >🔗</a> **[SpaceNews]** China’s astronauts complete cave training amid preparations for moon missions
@@ -98,8 +99,7 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/11/Space_Rider_orbital_ballet" >🔗</a> **[ESA]** Space Rider orbital ballet
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/11/Space_Rider_drone_inspection" >🔗</a> **[ESA]** Space Rider drone inspection
 - <a href="https://www.terradaily.com/reports/Hunga_eruption_reshaped_stratospheric_water_and_ozone_with_limited_climate_cooling_999.html" >🔗</a> **[SpaceDaily]** Hunga eruption reshaped stratospheric water and ozone with limited climate cooling
-- <a href="https://www.spacewar.com/reports/Spatiotemporal_resilience_model_targets_IoT_unmanned_fleets_999.html" >🔗</a> **[SpaceDaily]** Spatiotemporal resilience model targets IoT unmanned fleets
-- <a href="https://www.spacedaily.com/reports/Deep_Arctic_gas_hydrate_mounds_host_ultra_deep_cold_seep_ecosystem_999.html" >🔗</a> **[SpaceDaily]** Deep Arctic gas hydrate mounds host ultra deep cold seep ecosystem
+- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/From_roots_to_rocket" >🔗</a> **[ESA]** From roots to rocket
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260105T140246">2026-01-05 14:02:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260105T143843">2026-01-05 14:38:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
