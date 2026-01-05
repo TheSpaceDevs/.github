@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/l3harris-to-sell-majority-stake-in-space-propulsion-unit-to-ae-industrial-for-845-million/" >🔗</a> **[SpaceNews]** L3Harris to sell majority stake in space propulsion unit to AE Industrial for $845 million
 - <a href="https://arstechnica.com/space/2026/01/theres-a-big-shake-up-near-the-top-of-our-annual-us-launch-company-rankings/" >🔗</a> **[Arstechnica]** There’s a big shake-up near the top of our annual US launch company rankings
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/11/Space_Rider_drone_inspection" >🔗</a> **[ESA]** Space Rider drone inspection
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/11/Space_Rider_orbital_ballet" >🔗</a> **[ESA]** Space Rider orbital ballet
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.spacedaily.com/reports/Alen_Space_begins_SATMAR_satellite_validation_over_Bay_of_Algeciras_999.html" >🔗</a> **[SpaceDaily]** Alen Space begins SATMAR satellite validation over Bay of Algeciras
 - <a href="https://www.spacewar.com/reports/Spatiotemporal_resilience_model_targets_IoT_unmanned_fleets_999.html" >🔗</a> **[SpaceDaily]** Spatiotemporal resilience model targets IoT unmanned fleets
 - <a href="https://www.spacedaily.com/reports/NASA_and_Boeing_advance_control_strategies_for_flexible_long_span_airliner_wings_999.html" >🔗</a> **[SpaceDaily]** NASA and Boeing advance control strategies for flexible long span airliner wings
-- <a href="https://www.spacedaily.com/reports/OPERA_satellite_data_sharpens_US_crop_and_water_management_999.html" >🔗</a> **[SpaceDaily]** OPERA satellite data sharpens US crop and water management
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260105T124355">2026-01-05 12:43:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260105T131424">2026-01-05 13:14:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
