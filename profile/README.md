@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-jacki-mahaffey/" >🔗</a> **[NASA]** I Am Artemis: Jacki Mahaffey
+- <a href="https://spacenews.com/array-labs-raises-20-million-to-scale-production-of-radar-satellites-for-3d-earth-mapping/" >🔗</a> **[SpaceNews]** Array Labs raises $20 million to scale production of radar satellites for 3D Earth mapping
 - <a href="https://www.nasa.gov/news-release/nasa-to-cover-us-spacewalks-94-95-at-international-space-station/" >🔗</a> **[NASA]** NASA to Cover US Spacewalks 94, 95 at International Space Station
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-examines-cloud-9-first-of-new-type-of-object/" >🔗</a> **[NASA]** NASA’s Hubble Examines Cloud-9, First of New Type of Object
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Cloud-9_a_new_celestial_object_found_by_Hubble" >🔗</a> **[ESA]** Cloud-9: a new celestial object found by Hubble
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/minibus-provides-24-4-billion-for-nasa-for-fiscal-year-2026/" >🔗</a> **[SpaceNews]** Minibus provides $24.4 billion for NASA for fiscal year 2026
 - <a href="https://spacenews.com/arche-orbital-systems-signs-strategic-mou-with-msro-to-advance-national-space-capabilities-for-the-maldives/" >🔗</a> **[SpaceNews]** ARCHE ORBITAL SYSTEMS Signs Strategic MoU with MSRO to Advance National Space Capabilities for the Maldives
 - <a href="https://spacenews.com/no-more-free-rides-its-time-to-pay-for-space-safety/" >🔗</a> **[SpaceNews]** No more free rides: it’s time to pay for space safety
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/01/Tree_planting_for_epsilon2" >🔗</a> **[ESA]** Tree planting for εpsilon
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/01/Tree_planting_for_epsilon" >🔗</a> **[ESA]** Tree planting for εpsilon
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260105T200145">2026-01-05 20:01:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260105T203709">2026-01-05 20:37:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
