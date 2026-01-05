@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-examines-cloud-9-first-of-new-type-of-object/" >🔗</a> **[NASA]** NASA’s Hubble Examines Cloud-9, First of New Type of Object
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Cloud-9_a_new_celestial_object_found_by_Hubble" >🔗</a> **[ESA]** Cloud-9: a new celestial object found by Hubble
 - <a href="https://www.nasa.gov/image-article/scientific-balloon-begins-antarctic-ascent/" >🔗</a> **[NASA]** Scientific Balloon Begins Antarctic Ascent
 - <a href="https://www.spacescout.info/2026/01/a-rare-orbital-electron-from-wallops/" >🔗</a> **[Space Scout]** A Rare Orbital Electron from Wallops
 - <a href="https://spacenews.com/minibus-provides-24-4-billion-for-nasa-for-fiscal-year-2026/" >🔗</a> **[SpaceNews]** Minibus provides $24.4 billion for NASA for fiscal year 2026
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/01/Tree_planting_for_epsilon2" >🔗</a> **[ESA]** Tree planting for εpsilon
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/01/Tree_planting_for_epsilon" >🔗</a> **[ESA]** Tree planting for εpsilon
 - <a href="https://spacenews.com/chinas-astronauts-complete-cave-training-amid-preparations-for-moon-missions/" >🔗</a> **[SpaceNews]** China’s astronauts complete cave training amid preparations for moon missions
-- <a href="https://spacenews.com/l3harris-to-sell-majority-stake-in-space-propulsion-unit-to-ae-industrial-for-845-million/" >🔗</a> **[SpaceNews]** L3Harris to sell majority stake in space propulsion unit to AE Industrial for $845 million
-- <a href="https://arstechnica.com/space/2026/01/theres-a-big-shake-up-near-the-top-of-our-annual-us-launch-company-rankings/" >🔗</a> **[Arstechnica]** There’s a big shake-up near the top of our annual US launch company rankings
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260105T180202">2026-01-05 18:02:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260105T184230">2026-01-05 18:42:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
