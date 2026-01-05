@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2026/01/nasas-science-budget-wont-be-a-train-wreck-after-all/" >🔗</a> **[Arstechnica]** NASA’s science budget won’t be a train wreck after all
+- <a href="https://spacepolicyonline.com/news/great-news-for-nasa-in-the-house-senate-fy2026-appropriations-report/" >🔗</a> **[SpacePolicyOnline.com]** Great News for NASA in the House-Senate FY2026 Appropriations Report
+- <a href="https://www.nasa.gov/missions/ixpe/nasas-ixpe-measures-white-dwarf-star-for-first-time/" >🔗</a> **[NASA]** NASA’s IXPE Measures White Dwarf Star for First Time
+- <a href="https://www.nasa.gov/news-release/nasa-selects-tech-proposals-to-advance-search-for-life-mission/" >🔗</a> **[NASA]** NASA Selects Tech Proposals to Advance Search-for-Life Mission
+- <a href="https://science.nasa.gov/solar-system/skywatching/whats-up-january-2026-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: January 2026 Skywatching Tips from NASA
+- <a href="https://science.nasa.gov/missions/hubble/nasa-hubble-helps-detect-wake-of-betelgeuses-elusive-companion-star/" >🔗</a> **[NASA]** NASA Hubble Helps Detect ‘Wake’ of Betelgeuse’s Elusive Companion Star
 - <a href="https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-jacki-mahaffey/" >🔗</a> **[NASA]** I Am Artemis: Jacki Mahaffey
 - <a href="https://spacenews.com/array-labs-raises-20-million-to-scale-production-of-radar-satellites-for-3d-earth-mapping/" >🔗</a> **[SpaceNews]** Array Labs raises $20 million to scale production of radar satellites for 3D Earth mapping
 - <a href="https://www.nasa.gov/news-release/nasa-to-cover-us-spacewalks-94-95-at-international-space-station/" >🔗</a> **[NASA]** NASA to Cover US Spacewalks 94, 95 at International Space Station
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-examines-cloud-9-first-of-new-type-of-object/" >🔗</a> **[NASA]** NASA’s Hubble Examines Cloud-9, First of New Type of Object
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Cloud-9_a_new_celestial_object_found_by_Hubble" >🔗</a> **[ESA]** Cloud-9: a new celestial object found by Hubble
-- <a href="https://www.nasa.gov/image-article/scientific-balloon-begins-antarctic-ascent/" >🔗</a> **[NASA]** Scientific Balloon Begins Antarctic Ascent
-- <a href="https://www.spacescout.info/2026/01/a-rare-orbital-electron-from-wallops/" >🔗</a> **[Space Scout]** A Rare Orbital Electron from Wallops
-- <a href="https://spacenews.com/minibus-provides-24-4-billion-for-nasa-for-fiscal-year-2026/" >🔗</a> **[SpaceNews]** Minibus provides $24.4 billion for NASA for fiscal year 2026
-- <a href="https://spacenews.com/arche-orbital-systems-signs-strategic-mou-with-msro-to-advance-national-space-capabilities-for-the-maldives/" >🔗</a> **[SpaceNews]** ARCHE ORBITAL SYSTEMS Signs Strategic MoU with MSRO to Advance National Space Capabilities for the Maldives
-- <a href="https://spacenews.com/no-more-free-rides-its-time-to-pay-for-space-safety/" >🔗</a> **[SpaceNews]** No more free rides: it’s time to pay for space safety
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260105T220113">2026-01-05 22:01:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260105T223643">2026-01-05 22:36:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
