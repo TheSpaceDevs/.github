@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacewar.com/reports/Terran_Orbital_to_build_satellite_buses_for_SDA_Tranche_3_Tracking_Layer_999.html" >🔗</a> **[SpaceDaily]** Terran Orbital to build satellite buses for SDA Tranche 3 Tracking Layer
+- <a href="https://www.terradaily.com/reports/Neural_network_sharpens_satellite_ocean_color_in_complex_coastal_waters_999.html" >🔗</a> **[SpaceDaily]** Neural network sharpens satellite ocean color in complex coastal waters
+- <a href="https://www.spacedaily.com/reports/OPERA_satellite_data_sharpens_US_crop_and_water_management_999.html" >🔗</a> **[SpaceDaily]** OPERA satellite data sharpens US crop and water management
+- <a href="https://www.spacedaily.com/reports/Alen_Space_begins_SATMAR_satellite_validation_over_Bay_of_Algeciras_999.html" >🔗</a> **[SpaceDaily]** Alen Space begins SATMAR satellite validation over Bay of Algeciras
+- <a href="https://www.spacedaily.com/reports/NASA_and_Boeing_advance_control_strategies_for_flexible_long_span_airliner_wings_999.html" >🔗</a> **[SpaceDaily]** NASA and Boeing advance control strategies for flexible long span airliner wings
+- <a href="https://www.spacewar.com/reports/Spatiotemporal_resilience_model_targets_IoT_unmanned_fleets_999.html" >🔗</a> **[SpaceDaily]** Spatiotemporal resilience model targets IoT unmanned fleets
+- <a href="https://www.spacedaily.com/reports/Deep_Arctic_gas_hydrate_mounds_host_ultra_deep_cold_seep_ecosystem_999.html" >🔗</a> **[SpaceDaily]** Deep Arctic gas hydrate mounds host ultra deep cold seep ecosystem
 - <a href="https://www.spacedaily.com/reports/North_Korea_tests_hypersonic_missiles_says_nuclear_forces_ready_for_war_999.html" >🔗</a> **[SpaceDaily]** North Korea tests hypersonic missiles, says nuclear forces ready for war
 - <a href="https://www.nasaspaceflight.com/2026/01/space-force-launch-interest-cape-vandenberg-pads/" >🔗</a> **[NASASpaceflight]** Space Force requests launch provider interest in Cape and Vandenberg pads
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-january-4-10-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy January 4-10, 2026
-- <a href="https://spacenews.com/space-force-begins-base-network-overhaul-as-cybersecurity-demands-grow/" >🔗</a> **[SpaceNews]** Space Force begins base network overhaul as cybersecurity demands grow
-- <a href="https://spaceflightnow.com/2026/01/04/live-coverage-spacex-to-launch-first-starlink-deployment-mission-since-problem-strikes-satellite/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch first Starlink deployment mission since problem strikes satellite
-- <a href="https://spacenews.com/spacex-china-drive-new-record-for-orbital-launches-in-2025/" >🔗</a> **[SpaceNews]** SpaceX, China drive new record for orbital launches in 2025
-- <a href="https://spacenews.com/new-spanish-communications-satellite-suffers-space-particle-impact/" >🔗</a> **[SpaceNews]** New Spanish communications satellite suffers ‘space particle’ impact
-- <a href="https://europeanspaceflight.com/spains-new-communications-satellite-suffers-space-particle-strike/" >🔗</a> **[European Spaceflight]** Spain’s New Communications Satellite Suffers “Space Particle” Strike
-- <a href="https://spacenews.com/spacex-launches-next-second-generation-italian-cosmo-skymed-satellite/" >🔗</a> **[SpaceNews]** SpaceX launches next second-generation Italian COSMO-SkyMed satellite
-- <a href="https://www.nasaspaceflight.com/2026/01/starship-foundations-2026/" >🔗</a> **[NASASpaceflight]** SpaceX laying the Starship foundations for 2026 and beyond
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260105T040342">2026-01-05 04:03:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260105T044608">2026-01-05 04:46:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
