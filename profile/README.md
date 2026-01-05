@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-to-cover-us-spacewalks-94-95-at-international-space-station/" >🔗</a> **[NASA]** NASA to Cover US Spacewalks 94, 95 at International Space Station
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-examines-cloud-9-first-of-new-type-of-object/" >🔗</a> **[NASA]** NASA’s Hubble Examines Cloud-9, First of New Type of Object
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Cloud-9_a_new_celestial_object_found_by_Hubble" >🔗</a> **[ESA]** Cloud-9: a new celestial object found by Hubble
 - <a href="https://www.nasa.gov/image-article/scientific-balloon-begins-antarctic-ascent/" >🔗</a> **[NASA]** Scientific Balloon Begins Antarctic Ascent
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/no-more-free-rides-its-time-to-pay-for-space-safety/" >🔗</a> **[SpaceNews]** No more free rides: it’s time to pay for space safety
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/01/Tree_planting_for_epsilon2" >🔗</a> **[ESA]** Tree planting for εpsilon
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/01/Tree_planting_for_epsilon" >🔗</a> **[ESA]** Tree planting for εpsilon
-- <a href="https://spacenews.com/chinas-astronauts-complete-cave-training-amid-preparations-for-moon-missions/" >🔗</a> **[SpaceNews]** China’s astronauts complete cave training amid preparations for moon missions
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260105T190313">2026-01-05 19:03:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260105T193331">2026-01-05 19:33:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
