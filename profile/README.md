@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacedaily.com/reports/North_Korea_tests_hypersonic_missiles_says_nuclear_forces_ready_for_war_999.html" >🔗</a> **[SpaceDaily]** North Korea tests hypersonic missiles, says nuclear forces ready for war
 - <a href="https://www.nasaspaceflight.com/2026/01/space-force-launch-interest-cape-vandenberg-pads/" >🔗</a> **[NASASpaceflight]** Space Force requests launch provider interest in Cape and Vandenberg pads
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-january-4-10-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy January 4-10, 2026
 - <a href="https://spacenews.com/space-force-begins-base-network-overhaul-as-cybersecurity-demands-grow/" >🔗</a> **[SpaceNews]** Space Force begins base network overhaul as cybersecurity demands grow
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/spains-new-communications-satellite-suffers-space-particle-strike/" >🔗</a> **[European Spaceflight]** Spain’s New Communications Satellite Suffers “Space Particle” Strike
 - <a href="https://spacenews.com/spacex-launches-next-second-generation-italian-cosmo-skymed-satellite/" >🔗</a> **[SpaceNews]** SpaceX launches next second-generation Italian COSMO-SkyMed satellite
 - <a href="https://www.nasaspaceflight.com/2026/01/starship-foundations-2026/" >🔗</a> **[NASASpaceflight]** SpaceX laying the Starship foundations for 2026 and beyond
-- <a href="https://spacenews.com/eartheye-space-reveals-contract-with-asia-pacific-customer/" >🔗</a> **[SpaceNews]** Eartheye Space reveals contract with Asia-Pacific customer
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260105T012951">2026-01-05 01:29:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260105T021945">2026-01-05 02:19:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
