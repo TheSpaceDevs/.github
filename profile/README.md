@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/scientific-balloon-begins-antarctic-ascent/" >🔗</a> **[NASA]** Scientific Balloon Begins Antarctic Ascent
+- <a href="https://www.spacescout.info/2026/01/a-rare-orbital-electron-from-wallops/" >🔗</a> **[Space Scout]** A Rare Orbital Electron from Wallops
 - <a href="https://spacenews.com/minibus-provides-24-4-billion-for-nasa-for-fiscal-year-2026/" >🔗</a> **[SpaceNews]** Minibus provides $24.4 billion for NASA for fiscal year 2026
 - <a href="https://spacenews.com/arche-orbital-systems-signs-strategic-mou-with-msro-to-advance-national-space-capabilities-for-the-maldives/" >🔗</a> **[SpaceNews]** ARCHE ORBITAL SYSTEMS Signs Strategic MoU with MSRO to Advance National Space Capabilities for the Maldives
 - <a href="https://spacenews.com/no-more-free-rides-its-time-to-pay-for-space-safety/" >🔗</a> **[SpaceNews]** No more free rides: it’s time to pay for space safety
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/chinas-astronauts-complete-cave-training-amid-preparations-for-moon-missions/" >🔗</a> **[SpaceNews]** China’s astronauts complete cave training amid preparations for moon missions
 - <a href="https://spacenews.com/l3harris-to-sell-majority-stake-in-space-propulsion-unit-to-ae-industrial-for-845-million/" >🔗</a> **[SpaceNews]** L3Harris to sell majority stake in space propulsion unit to AE Industrial for $845 million
 - <a href="https://arstechnica.com/space/2026/01/theres-a-big-shake-up-near-the-top-of-our-annual-us-launch-company-rankings/" >🔗</a> **[Arstechnica]** There’s a big shake-up near the top of our annual US launch company rankings
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/11/Space_Rider_orbital_ballet" >🔗</a> **[ESA]** Space Rider orbital ballet
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2024/11/Space_Rider_drone_inspection" >🔗</a> **[ESA]** Space Rider drone inspection
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260105T170303">2026-01-05 17:03:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260105T173647">2026-01-05 17:36:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
