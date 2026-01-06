@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spaceflightnow.com/2026/01/06/dept-of-the-air-force-opens-bidding-for-space-launch-complex-14-at-vandenberg-sfb/" >🔗</a> **[Spaceflight Now]** Dept. of the Air Force opens bidding for Space Launch Complex 14 at Vandenberg SFB
-- <a href="https://arstechnica.com/space/2026/01/nasas-science-budget-wont-be-a-train-wreck-after-all/" >🔗</a> **[Arstechnica]** NASA’s science budget won’t be a train wreck after all
-- <a href="https://spacepolicyonline.com/news/great-news-for-nasa-in-the-house-senate-fy2026-appropriations-report/" >🔗</a> **[SpacePolicyOnline.com]** Great News for NASA in the House-Senate FY2026 Appropriations Report
-- <a href="https://www.nasa.gov/missions/ixpe/nasas-ixpe-measures-white-dwarf-star-for-first-time/" >🔗</a> **[NASA]** NASA’s IXPE Measures White Dwarf Star for First Time
-- <a href="https://www.nasa.gov/news-release/nasa-selects-tech-proposals-to-advance-search-for-life-mission/" >🔗</a> **[NASA]** NASA Selects Tech Proposals to Advance Search-for-Life Mission
-- <a href="https://science.nasa.gov/solar-system/skywatching/whats-up-january-2026-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: January 2026 Skywatching Tips from NASA
-- <a href="https://science.nasa.gov/missions/hubble/nasa-hubble-helps-detect-wake-of-betelgeuses-elusive-companion-star/" >🔗</a> **[NASA]** NASA Hubble Helps Detect ‘Wake’ of Betelgeuse’s Elusive Companion Star
-- <a href="https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-jacki-mahaffey/" >🔗</a> **[NASA]** I Am Artemis: Jacki Mahaffey
-- <a href="https://spacenews.com/array-labs-raises-20-million-to-scale-production-of-radar-satellites-for-3d-earth-mapping/" >🔗</a> **[SpaceNews]** Array Labs raises $20 million to scale production of radar satellites for 3D Earth mapping
-- <a href="https://www.nasa.gov/news-release/nasa-to-cover-us-spacewalks-94-95-at-international-space-station/" >🔗</a> **[NASA]** NASA to Cover US Spacewalks 94, 95 at International Space Station
+- <a href="https://www.spacedaily.com/reports/Third_COSMO_SkyMed_Second_Generation_radar_satellite_enters_service_ramp_up_999.html" >🔗</a> **[SpaceDaily]** Third COSMO-SkyMed Second Generation radar satellite enters service ramp-up
+- <a href="https://www.spacedaily.com/reports/ALMA_views_giant_dusty_disk_in_Gomezs_Hamburger_with_signs_of_early_giant_planet_formation_999.html" >🔗</a> **[SpaceDaily]** ALMA views giant dusty disk in Gomezs Hamburger with signs of early giant planet formation
+- <a href="https://www.spacedaily.com/reports/Momentus_to_flight_test_3D_printed_fuel_tank_on_Vigoride_7_999.html" >🔗</a> **[SpaceDaily]** Momentus to flight test 3D printed fuel tank on Vigoride 7
+- <a href="https://www.spacedaily.com/reports/Starfighters_completes_supersonic_tests_for_GE_Aerospace_ramjet_program_999.html" >🔗</a> **[SpaceDaily]** Starfighters completes supersonic tests for GE Aerospace ramjet program
+- <a href="https://www.spacedaily.com/reports/Solar_probes_follow_hyperactive_sunspot_region_through_three_full_rotations_999.html" >🔗</a> **[SpaceDaily]** Solar probes follow hyperactive sunspot region through three full rotations
+- <a href="https://www.marsdaily.com/reports/Thin_ice_may_have_protected_lake_water_on_frozen_Mars_999.html" >🔗</a> **[SpaceDaily]** Thin ice may have protected lake water on frozen Mars
+- <a href="https://www.spacedaily.com/reports/Hubble_tracks_Betelgeuse_companion_carving_dense_wake_in_giant_star_atmosphere_999.html" >🔗</a> **[SpaceDaily]** Hubble tracks Betelgeuse companion carving dense wake in giant star atmosphere
+- <a href="https://www.spacedaily.com/reports/Hubble_confirms_dark_starless_relic_cloud_near_galaxy_M94_999.html" >🔗</a> **[SpaceDaily]** Hubble confirms dark starless relic cloud near galaxy M94
+- <a href="https://www.spacedaily.com/reports/Rogue_planet_mass_pinned_down_for_the_first_time_999.html" >🔗</a> **[SpaceDaily]** Rogue planet mass pinned down for the first time
+- <a href="https://www.moondaily.com/reports/Chinese_astronauts_hone_extreme_cave_survival_skills_999.html" >🔗</a> **[SpaceDaily]** Chinese astronauts hone extreme cave survival skills
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260106T021845">2026-01-06 02:18:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260106T030458">2026-01-06 03:04:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
