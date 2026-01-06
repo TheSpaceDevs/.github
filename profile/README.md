@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/chandra/supernova-remnant-video-from-nasas-chandra-is-decades-in-making/" >🔗</a> **[NASA]** Supernova Remnant Video From NASA’s Chandra Is Decades in Making
 - <a href="https://www.nasa.gov/news-release/nasa-awards-launch-range-contract-for-wallops-flight-facility/" >🔗</a> **[NASA]** NASA Awards Launch Range Contract for Wallops Flight Facility
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasa-marshall-prepares-for-demolition-of-historic-test-simulation-facilities/" >🔗</a> **[NASA]** NASA Marshall Prepares for Demolition of Historic Test, Simulation Facilities
 - <a href="https://spacenews.com/willy-leys-long-awaited-journey-to-orbit-honoring-a-space-pioneer-on-celestis-serenity-and-destiny-flights/" >🔗</a> **[SpaceNews]** Willy Ley’s Long-Awaited Journey to Orbit: Honoring a Space Pioneer on Celestis’ Serenity and Destiny Flights
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/first-sky-map-from-nasas-spherex-observatory/" >🔗</a> **[NASA]** First Sky Map from NASA’s SPHEREx Observatory
 - <a href="https://spacenews.com/space-cyber-compliance-managing-requirements-for-today-and-tomorrow/" >🔗</a> **[SpaceNews]** Space cyber compliance: managing requirements for today and tomorrow
 - <a href="https://europeanspaceflight.com/top-european-launch-companies-of-2025/" >🔗</a> **[European Spaceflight]** Top European Launch Companies of 2025
-- <a href="https://www.nasaspaceflight.com/2026/01/canadas-first-commercial-spaceport-approval/" >🔗</a> **[NASASpaceflight]** Canada’s First Commercial Spaceport clears major hurdle with Environmental Approval
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260106T220157">2026-01-06 22:01:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260106T223643">2026-01-06 22:36:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
