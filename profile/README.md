@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/01/06/dept-of-the-air-force-opens-bidding-for-space-launch-complex-14-at-vandenberg-sfb/" >🔗</a> **[Spaceflight Now]** Dept. of the Air Force opens bidding for Space Launch Complex 14 at Vandenberg SFB
 - <a href="https://arstechnica.com/space/2026/01/nasas-science-budget-wont-be-a-train-wreck-after-all/" >🔗</a> **[Arstechnica]** NASA’s science budget won’t be a train wreck after all
 - <a href="https://spacepolicyonline.com/news/great-news-for-nasa-in-the-house-senate-fy2026-appropriations-report/" >🔗</a> **[SpacePolicyOnline.com]** Great News for NASA in the House-Senate FY2026 Appropriations Report
 - <a href="https://www.nasa.gov/missions/ixpe/nasas-ixpe-measures-white-dwarf-star-for-first-time/" >🔗</a> **[NASA]** NASA’s IXPE Measures White Dwarf Star for First Time
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-jacki-mahaffey/" >🔗</a> **[NASA]** I Am Artemis: Jacki Mahaffey
 - <a href="https://spacenews.com/array-labs-raises-20-million-to-scale-production-of-radar-satellites-for-3d-earth-mapping/" >🔗</a> **[SpaceNews]** Array Labs raises $20 million to scale production of radar satellites for 3D Earth mapping
 - <a href="https://www.nasa.gov/news-release/nasa-to-cover-us-spacewalks-94-95-at-international-space-station/" >🔗</a> **[NASA]** NASA to Cover US Spacewalks 94, 95 at International Space Station
-- <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-examines-cloud-9-first-of-new-type-of-object/" >🔗</a> **[NASA]** NASA’s Hubble Examines Cloud-9, First of New Type of Object
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260106T012924">2026-01-06 01:29:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260106T021845">2026-01-06 02:18:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
