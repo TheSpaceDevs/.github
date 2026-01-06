@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacedaily.com/reports/What_Makes_Air_Refrigeration_Safer_for_Food_Storage_999.html" >🔗</a> **[SpaceDaily]** What Makes Air Refrigeration Safer for Food Storage
 - <a href="https://www.spacedaily.com/reports/Nullschool_launches_new_mobile_app_for_popular_Earth_weather_platform_999.html" >🔗</a> **[SpaceDaily]** Nullschool launches new mobile app for popular Earth weather platform
 - <a href="https://science.nasa.gov/earth/earth-observatory/reaching-the-precipice-in-angola/" >🔗</a> **[NASA]** Reaching the Precipice in Angola
 - <a href="https://www.nasaspaceflight.com/2026/01/launch-previews-20250501/" >🔗</a> **[NASASpaceflight]** Launch Previews: SpaceX and ISRO to launch rideshare missions into SSO
-- <a href="https://www.spacedaily.com/reports/Momentus_to_flight_test_3D_printed_fuel_tank_on_Vigoride_7_999.html" >🔗</a> **[SpaceDaily]** Momentus to flight test 3D printed fuel tank on Vigoride 7
 - <a href="https://www.spacedaily.com/reports/Hubble_tracks_Betelgeuse_companion_carving_dense_wake_in_giant_star_atmosphere_999.html" >🔗</a> **[SpaceDaily]** Hubble tracks Betelgeuse companion carving dense wake in giant star atmosphere
 - <a href="https://www.spacedaily.com/reports/Solar_probes_follow_hyperactive_sunspot_region_through_three_full_rotations_999.html" >🔗</a> **[SpaceDaily]** Solar probes follow hyperactive sunspot region through three full rotations
+- <a href="https://www.spacedaily.com/reports/Momentus_to_flight_test_3D_printed_fuel_tank_on_Vigoride_7_999.html" >🔗</a> **[SpaceDaily]** Momentus to flight test 3D printed fuel tank on Vigoride 7
+- <a href="https://www.marsdaily.com/reports/Thin_ice_may_have_protected_lake_water_on_frozen_Mars_999.html" >🔗</a> **[SpaceDaily]** Thin ice may have protected lake water on frozen Mars
 - <a href="https://www.spacedaily.com/reports/ALMA_views_giant_dusty_disk_in_Gomezs_Hamburger_with_signs_of_early_giant_planet_formation_999.html" >🔗</a> **[SpaceDaily]** ALMA views giant dusty disk in Gomezs Hamburger with signs of early giant planet formation
 - <a href="https://www.spacedaily.com/reports/Rogue_planet_mass_pinned_down_for_the_first_time_999.html" >🔗</a> **[SpaceDaily]** Rogue planet mass pinned down for the first time
-- <a href="https://www.marsdaily.com/reports/Thin_ice_may_have_protected_lake_water_on_frozen_Mars_999.html" >🔗</a> **[SpaceDaily]** Thin ice may have protected lake water on frozen Mars
-- <a href="https://www.spacedaily.com/reports/Hubble_confirms_dark_starless_relic_cloud_near_galaxy_M94_999.html" >🔗</a> **[SpaceDaily]** Hubble confirms dark starless relic cloud near galaxy M94
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260106T060206">2026-01-06 06:02:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260106T064237">2026-01-06 06:42:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
