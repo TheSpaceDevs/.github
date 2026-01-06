@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/station/iss-research/space-station-research-informs-new-fda-approved-cancer-therapy/" >🔗</a> **[NASA]** Space Station Research Informs New FDA-Approved Cancer Therapy
+- <a href="https://www.nasa.gov/image-article/first-sky-map-from-nasas-spherex-observatory/" >🔗</a> **[NASA]** First Sky Map from NASA’s SPHEREx Observatory
 - <a href="https://spacenews.com/space-cyber-compliance-managing-requirements-for-today-and-tomorrow/" >🔗</a> **[SpaceNews]** Space cyber compliance: managing requirements for today and tomorrow
 - <a href="https://europeanspaceflight.com/top-european-launch-companies-of-2025/" >🔗</a> **[European Spaceflight]** Top European Launch Companies of 2025
 - <a href="https://www.nasaspaceflight.com/2026/01/canadas-first-commercial-spaceport-approval/" >🔗</a> **[NASASpaceflight]** Canada’s First Commercial Spaceport clears major hurdle with Environmental Approval
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.spacedaily.com/reports/How_College_Students_Really_Afford_Rent_And_Groceries_Now_999.html" >🔗</a> **[SpaceDaily]** How College Students Really Afford Rent And Groceries Now
 - <a href="https://www.spacedaily.com/reports/What_Makes_Air_Refrigeration_Safer_for_Food_Storage_999.html" >🔗</a> **[SpaceDaily]** What Makes Air Refrigeration Safer for Food Storage
 - <a href="https://www.spacedaily.com/reports/Nullschool_launches_new_mobile_app_for_popular_Earth_weather_platform_999.html" >🔗</a> **[SpaceDaily]** Nullschool launches new mobile app for popular Earth weather platform
-- <a href="https://science.nasa.gov/earth/earth-observatory/reaching-the-precipice-in-angola/" >🔗</a> **[NASA]** Reaching the Precipice in Angola
-- <a href="https://www.nasaspaceflight.com/2026/01/launch-previews-20250501/" >🔗</a> **[NASASpaceflight]** Launch Previews: SpaceX and ISRO to launch rideshare missions into SSO
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260106T160151">2026-01-06 16:01:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260106T164101">2026-01-06 16:41:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
