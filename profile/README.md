@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-works-to-extend-swifts-life-ahead-of-reboost-mission/" >🔗</a> **[SpaceNews]** NASA works to extend Swift’s life ahead of reboost mission
 - <a href="https://www.nasa.gov/missions/chandra/supernova-remnant-video-from-nasas-chandra-is-decades-in-making/" >🔗</a> **[NASA]** Supernova Remnant Video From NASA’s Chandra Is Decades in Making
 - <a href="https://www.nasa.gov/news-release/nasa-awards-launch-range-contract-for-wallops-flight-facility/" >🔗</a> **[NASA]** NASA Awards Launch Range Contract for Wallops Flight Facility
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasa-marshall-prepares-for-demolition-of-historic-test-simulation-facilities/" >🔗</a> **[NASA]** NASA Marshall Prepares for Demolition of Historic Test, Simulation Facilities
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/missions/station/iss-research/space-station-research-informs-new-fda-approved-cancer-therapy/" >🔗</a> **[NASA]** Space Station Research Informs New FDA-Approved Cancer Therapy
 - <a href="https://www.nasa.gov/image-article/first-sky-map-from-nasas-spherex-observatory/" >🔗</a> **[NASA]** First Sky Map from NASA’s SPHEREx Observatory
 - <a href="https://spacenews.com/space-cyber-compliance-managing-requirements-for-today-and-tomorrow/" >🔗</a> **[SpaceNews]** Space cyber compliance: managing requirements for today and tomorrow
-- <a href="https://europeanspaceflight.com/top-european-launch-companies-of-2025/" >🔗</a> **[European Spaceflight]** Top European Launch Companies of 2025
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260107T000410">2026-01-07 00:04:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260107T004609">2026-01-07 00:46:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
