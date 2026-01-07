@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/skyfi-expands-virtual-constellation-with-vantor-satellite-imagery/" >🔗</a> **[SpaceNews]** SkyFi expands virtual constellation with Vantor satellite imagery
-- <a href="https://spacenews.com/the-pentagon-will-feel-the-pressure-to-finally-realize-commercial-first/" >🔗</a> **[SpaceNews]** 2026 Outlook: Can Acquisition Reform Deliver for Military Space?
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Sandblasting_on_Mars" >🔗</a> **[ESA]** Sandblasting on Mars
-- <a href="https://science.nasa.gov/earth/earth-observatory/algae-swirls-across-a-south-african-reservoir/" >🔗</a> **[NASA]** Algae Swirls Across a South African Reservoir
-- <a href="https://spacenews.com/nasa-works-to-extend-swifts-life-ahead-of-reboost-mission/" >🔗</a> **[SpaceNews]** NASA works to extend Swift’s life ahead of reboost mission
-- <a href="https://www.nasa.gov/missions/chandra/supernova-remnant-video-from-nasas-chandra-is-decades-in-making/" >🔗</a> **[NASA]** Supernova Remnant Video From NASA’s Chandra Is Decades in Making
-- <a href="https://www.nasa.gov/news-release/nasa-awards-launch-range-contract-for-wallops-flight-facility/" >🔗</a> **[NASA]** NASA Awards Launch Range Contract for Wallops Flight Facility
-- <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasa-marshall-prepares-for-demolition-of-historic-test-simulation-facilities/" >🔗</a> **[NASA]** NASA Marshall Prepares for Demolition of Historic Test, Simulation Facilities
-- <a href="https://spacenews.com/willy-leys-long-awaited-journey-to-orbit-honoring-a-space-pioneer-on-celestis-serenity-and-destiny-flights/" >🔗</a> **[SpaceNews]** Willy Ley’s Long-Awaited Journey to Orbit: Honoring a Space Pioneer on Celestis’ Serenity and Destiny Flights
-- <a href="https://science.nasa.gov/missions/webb/scientists-identify-astronomys-platypus-with-nasas-webb-telescope/" >🔗</a> **[NASA]** Scientists Identify ‘Astronomy’s Platypus’ with NASA’s Webb Telescope
+- <a href="https://www.spacedaily.com/reports/K_dwarf_survey_maps_stellar_neighborhood_for_habitable_worlds_999.html" >🔗</a> **[SpaceDaily]** K dwarf survey maps stellar neighborhood for habitable worlds
+- <a href="https://www.spacedaily.com/reports/Aegis_Aerospace_and_United_Semiconductors_plan_in_orbit_semiconductor_materials_plant_999.html" >🔗</a> **[SpaceDaily]** Aegis Aerospace and United Semiconductors plan in orbit semiconductor materials plant
+- <a href="https://www.spacedaily.com/reports/Milky_Way_black_hole_flare_leaves_X_ray_echoes_in_nearby_gas_cloud_999.html" >🔗</a> **[SpaceDaily]** Milky Way black hole flare leaves X ray echoes in nearby gas cloud
+- <a href="https://www.spacedaily.com/reports/NASA_selects_industry_partners_to_mature_Habitable_Worlds_Observatory_technologies_999.html" >🔗</a> **[SpaceDaily]** NASA selects industry partners to mature Habitable Worlds Observatory technologies
+- <a href="https://www.spacedaily.com/reports/Jupiters_moon_Europa_has_a_seafloor_that_may_be_quiet_and_lifeless_999.html" >🔗</a> **[SpaceDaily]** Jupiter's moon Europa has a seafloor that may be quiet and lifeless
+- <a href="https://www.spacedaily.com/reports/Star_like_early_galaxies_challenge_views_of_cosmic_evolution_999.html" >🔗</a> **[SpaceDaily]** Star like early galaxies challenge views of cosmic evolution
+- <a href="https://www.spacedaily.com/reports/We_have_no_idea_what_most_of_the_universe_is_made_of_but_scientists_are_closer_than_ever_to_finding_out_999.html" >🔗</a> **[SpaceDaily]** We have no idea what most of the universe is made of, but scientists are closer than ever to finding out
+- <a href="https://www.spacedaily.com/reports/NASAs_IXPE_Measures_White_Dwarf_Star_for_First_Time_999.html" >🔗</a> **[SpaceDaily]** NASA's IXPE Measures White Dwarf Star for First Time
+- <a href="https://www.spacedaily.com/reports/China_geospatial_information_industry_approaches_1_trillion_yuan_output_999.html" >🔗</a> **[SpaceDaily]** China geospatial information industry approaches 1 trillion yuan output
+- <a href="https://europeanspaceflight.com/arianegroup-proposes-ariane-6-evolution-using-maiaspace-boosters/" >🔗</a> **[European Spaceflight]** ArianeGroup Proposes Ariane 6 Evolution Using MaiaSpace Boosters
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260107T131348">2026-01-07 13:13:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260107T134243">2026-01-07 13:42:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
