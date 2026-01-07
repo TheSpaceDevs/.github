@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/skyfi-expands-virtual-constellation-with-vantor-satellite-imagery/" >🔗</a> **[SpaceNews]** SkyFi expands virtual constellation with Vantor satellite imagery
+- <a href="https://spacenews.com/the-pentagon-will-feel-the-pressure-to-finally-realize-commercial-first/" >🔗</a> **[SpaceNews]** 2026 Outlook: Can Acquisition Reform Deliver for Military Space?
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Sandblasting_on_Mars" >🔗</a> **[ESA]** Sandblasting on Mars
 - <a href="https://science.nasa.gov/earth/earth-observatory/algae-swirls-across-a-south-african-reservoir/" >🔗</a> **[NASA]** Algae Swirls Across a South African Reservoir
 - <a href="https://spacenews.com/nasa-works-to-extend-swifts-life-ahead-of-reboost-mission/" >🔗</a> **[SpaceNews]** NASA works to extend Swift’s life ahead of reboost mission
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasa-marshall-prepares-for-demolition-of-historic-test-simulation-facilities/" >🔗</a> **[NASA]** NASA Marshall Prepares for Demolition of Historic Test, Simulation Facilities
 - <a href="https://spacenews.com/willy-leys-long-awaited-journey-to-orbit-honoring-a-space-pioneer-on-celestis-serenity-and-destiny-flights/" >🔗</a> **[SpaceNews]** Willy Ley’s Long-Awaited Journey to Orbit: Honoring a Space Pioneer on Celestis’ Serenity and Destiny Flights
 - <a href="https://science.nasa.gov/missions/webb/scientists-identify-astronomys-platypus-with-nasas-webb-telescope/" >🔗</a> **[NASA]** Scientists Identify ‘Astronomy’s Platypus’ with NASA’s Webb Telescope
-- <a href="https://science.nasa.gov/missions/webb/nasa-webb-finds-early-universe-analogs-unexpected-talent-for-making-dust/" >🔗</a> **[NASA]** NASA Webb Finds Early-Universe Analog’s Unexpected Talent for Making Dust
-- <a href="https://www.nasa.gov/missions/station/iss-research/space-station-research-informs-new-fda-approved-cancer-therapy/" >🔗</a> **[NASA]** Space Station Research Informs New FDA-Approved Cancer Therapy
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260107T120215">2026-01-07 12:02:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260107T124356">2026-01-07 12:43:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
