@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/25-years-in-orbit-science-innovation-and-the-future-of-exploration/" >🔗</a> **[NASA]** 25 Years in Orbit: Science, Innovation, and the Future of Exploration
 - <a href="https://www.nasa.gov/image-article/lightning-from-above/" >🔗</a> **[NASA]** Lightning from Above
 - <a href="https://spacenews.com/terran-orbital-appoints-michael-vishion-as-vice-president-of-program-management/" >🔗</a> **[SpaceNews]** Terran Orbital Appoints Michael Vishion as Vice President of Program Management
 - <a href="https://spacenews.com/space-force-moves-to-standardize-satellites-with-handle-2-0-contract/" >🔗</a> **[SpaceNews]** Space Force moves to standardize satellites with ‘Handle 2.0’ contract
-- <a href="https://www.spacedaily.com/reports/Aegis_Aerospace_and_United_Semiconductors_plan_in_orbit_semiconductor_materials_plant_999.html" >🔗</a> **[SpaceDaily]** Aegis Aerospace and United Semiconductors plan in orbit semiconductor materials plant
 - <a href="https://www.spacedaily.com/reports/Star_like_early_galaxies_challenge_views_of_cosmic_evolution_999.html" >🔗</a> **[SpaceDaily]** Star like early galaxies challenge views of cosmic evolution
 - <a href="https://www.spacedaily.com/reports/NASA_selects_industry_partners_to_mature_Habitable_Worlds_Observatory_technologies_999.html" >🔗</a> **[SpaceDaily]** NASA selects industry partners to mature Habitable Worlds Observatory technologies
+- <a href="https://www.spacedaily.com/reports/Aegis_Aerospace_and_United_Semiconductors_plan_in_orbit_semiconductor_materials_plant_999.html" >🔗</a> **[SpaceDaily]** Aegis Aerospace and United Semiconductors plan in orbit semiconductor materials plant
+- <a href="https://www.spacedaily.com/reports/NASAs_IXPE_Measures_White_Dwarf_Star_for_First_Time_999.html" >🔗</a> **[SpaceDaily]** NASA's IXPE Measures White Dwarf Star for First Time
 - <a href="https://www.spacedaily.com/reports/Milky_Way_black_hole_flare_leaves_X_ray_echoes_in_nearby_gas_cloud_999.html" >🔗</a> **[SpaceDaily]** Milky Way black hole flare leaves X ray echoes in nearby gas cloud
 - <a href="https://www.spacedaily.com/reports/We_have_no_idea_what_most_of_the_universe_is_made_of_but_scientists_are_closer_than_ever_to_finding_out_999.html" >🔗</a> **[SpaceDaily]** We have no idea what most of the universe is made of, but scientists are closer than ever to finding out
-- <a href="https://www.spacedaily.com/reports/NASAs_IXPE_Measures_White_Dwarf_Star_for_First_Time_999.html" >🔗</a> **[SpaceDaily]** NASA's IXPE Measures White Dwarf Star for First Time
-- <a href="https://www.spacedaily.com/reports/Jupiters_moon_Europa_has_a_seafloor_that_may_be_quiet_and_lifeless_999.html" >🔗</a> **[SpaceDaily]** Jupiter's moon Europa has a seafloor that may be quiet and lifeless
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260107T210113">2026-01-07 21:01:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260107T213412">2026-01-07 21:34:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
