@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Sandblasting_on_Mars" >🔗</a> **[ESA]** Sandblasting on Mars
 - <a href="https://science.nasa.gov/earth/earth-observatory/algae-swirls-across-a-south-african-reservoir/" >🔗</a> **[NASA]** Algae Swirls Across a South African Reservoir
 - <a href="https://spacenews.com/nasa-works-to-extend-swifts-life-ahead-of-reboost-mission/" >🔗</a> **[SpaceNews]** NASA works to extend Swift’s life ahead of reboost mission
 - <a href="https://www.nasa.gov/missions/chandra/supernova-remnant-video-from-nasas-chandra-is-decades-in-making/" >🔗</a> **[NASA]** Supernova Remnant Video From NASA’s Chandra Is Decades in Making
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/missions/webb/scientists-identify-astronomys-platypus-with-nasas-webb-telescope/" >🔗</a> **[NASA]** Scientists Identify ‘Astronomy’s Platypus’ with NASA’s Webb Telescope
 - <a href="https://science.nasa.gov/missions/webb/nasa-webb-finds-early-universe-analogs-unexpected-talent-for-making-dust/" >🔗</a> **[NASA]** NASA Webb Finds Early-Universe Analog’s Unexpected Talent for Making Dust
 - <a href="https://www.nasa.gov/missions/station/iss-research/space-station-research-informs-new-fda-approved-cancer-therapy/" >🔗</a> **[NASA]** Space Station Research Informs New FDA-Approved Cancer Therapy
-- <a href="https://www.nasa.gov/image-article/first-sky-map-from-nasas-spherex-observatory/" >🔗</a> **[NASA]** First Sky Map from NASA’s SPHEREx Observatory
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260107T100149">2026-01-07 10:01:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260107T103853">2026-01-07 10:38:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
