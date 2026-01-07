@@ -99,7 +99,7 @@ into *a Low Earth Orbit
 - <a href="https://www.spacedaily.com/reports/We_have_no_idea_what_most_of_the_universe_is_made_of_but_scientists_are_closer_than_ever_to_finding_out_999.html" >🔗</a> **[SpaceDaily]** We have no idea what most of the universe is made of, but scientists are closer than ever to finding out
 - <a href="https://www.spacedaily.com/reports/NASAs_IXPE_Measures_White_Dwarf_Star_for_First_Time_999.html" >🔗</a> **[SpaceDaily]** NASA's IXPE Measures White Dwarf Star for First Time
 - <a href="https://www.spacedaily.com/reports/China_geospatial_information_industry_approaches_1_trillion_yuan_output_999.html" >🔗</a> **[SpaceDaily]** China geospatial information industry approaches 1 trillion yuan output
-- <a href="https://europeanspaceflight.com/arianegroup-proposes-ariane-6-evolution-using-maiaspace-boosters/" >🔗</a> **[European Spaceflight]** ArianeGroup Proposes Ariane 6 Evolution Using MaiaSpace Boosters
+- <a href="https://spacenews.com/spacexs-ipo-will-make-space-investment-far-less-niche/" >🔗</a> **[SpaceNews]** SpaceX’s IPO will make space investment far less niche
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260107T140224">2026-01-07 14:02:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260107T143821">2026-01-07 14:38:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
