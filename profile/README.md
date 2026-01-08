@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/roman-space-telescope-on-track-for-september-launch/" >🔗</a> **[SpaceNews]** Roman Space Telescope on track for September launch
+- <a href="https://www.nasa.gov/news-release/nasa-to-provide-media-with-international-space-station-update-today/" >🔗</a> **[NASA]** NASA to Provide Media with International Space Station Update Today
+- <a href="https://www.nasaspaceflight.com/2026/01/pad-1-tower-launch-mount-future/" >🔗</a> **[NASASpaceflight]** The future of Starship’s Pad 1 tower and launch mount
 - <a href="https://www.nasa.gov/image-article/best-of-2025-artemis-ii-countdown-demonstration-test/" >🔗</a> **[NASA]** Best of 2025: Artemis II Countdown Demonstration Test
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-starts-up-gateways-power-system-for-first-time/" >🔗</a> **[NASA]** NASA Starts Up Gateway’s Power System for First Time
 - <a href="https://spacenews.com/private-group-unveils-plans-for-large-space-telescope/" >🔗</a> **[SpaceNews]** Private group unveils plans for large space telescope
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/the-moon-ai-and-the-high-stakes-decisions-shaping-spaces-future/" >🔗</a> **[SpaceNews]** The moon, AI and the high-stakes decisions shaping space’s future
 - <a href="https://europeanspaceflight.com/esa-waiting-for-spring-to-launch-themis-reusable-rocket-demonstrator/" >🔗</a> **[European Spaceflight]** ESA “Waiting for Spring” to Launch Themis Reusable Rocket Demonstrator
 - <a href="https://arstechnica.com/space/2026/01/eric-schmidt-will-massively-invest-in-private-telescopes-including-hubble-replacement/" >🔗</a> **[Arstechnica]** Eric Schmidt will massively invest in private telescopes, including Hubble replacement
-- <a href="https://spacenews.com/vulcan-to-open-2026-with-national-security-launch/" >🔗</a> **[SpaceNews]** Vulcan to open 2026 with national security launch
-- <a href="https://spacenews.com/the-space-tax-on-your-self-driving-car/" >🔗</a> **[SpaceNews]** The ‘space tax’ on your self-driving car
-- <a href="https://spacepolicyonline.com/news/early-return-of-crew-11-possible-due-to-ailing-astronaut/" >🔗</a> **[SpacePolicyOnline.com]** Early Return of Crew-11 Possible Due to Ailing Astronaut
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260108T190229">2026-01-08 19:02:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260108T193329">2026-01-08 19:33:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
