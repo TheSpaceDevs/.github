@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/applications-open-for-cohort-4-of-sda-tap-lab-catalyst-campus-mini-accelerator/" >🔗</a> **[SpaceNews]** APPLICATIONS OPEN FOR COHORT 4 OF SDA TAP LAB – CATALYST CAMPUS MINI ACCELERATOR
+- <a href="https://spacepolicyonline.com/news/house-passes-final-fy2026-funding-bill-for-nasa-senate-is-next/" >🔗</a> **[SpacePolicyOnline.com]** House Passes Final FY2026 Funding Bill For NASA, Senate is Next
 - <a href="https://spacenews.com/roman-space-telescope-on-track-for-september-launch/" >🔗</a> **[SpaceNews]** Roman Space Telescope on track for September launch
 - <a href="https://www.nasa.gov/news-release/nasa-to-provide-media-with-international-space-station-update-today/" >🔗</a> **[NASA]** NASA to Provide Media with International Space Station Update Today
 - <a href="https://www.nasaspaceflight.com/2026/01/pad-1-tower-launch-mount-future/" >🔗</a> **[NASASpaceflight]** The future of Starship’s Pad 1 tower and launch mount
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/private-group-unveils-plans-for-large-space-telescope/" >🔗</a> **[SpaceNews]** Private group unveils plans for large space telescope
 - <a href="https://spacenews.com/2026-will-clarify-europes-new-priorities-for-space/" >🔗</a> **[SpaceNews]** 2026 will clarify Europe’s new priorities for space
 - <a href="https://spacenews.com/the-moon-ai-and-the-high-stakes-decisions-shaping-spaces-future/" >🔗</a> **[SpaceNews]** The moon, AI and the high-stakes decisions shaping space’s future
-- <a href="https://europeanspaceflight.com/esa-waiting-for-spring-to-launch-themis-reusable-rocket-demonstrator/" >🔗</a> **[European Spaceflight]** ESA “Waiting for Spring” to Launch Themis Reusable Rocket Demonstrator
-- <a href="https://arstechnica.com/space/2026/01/eric-schmidt-will-massively-invest-in-private-telescopes-including-hubble-replacement/" >🔗</a> **[Arstechnica]** Eric Schmidt will massively invest in private telescopes, including Hubble replacement
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260108T210136">2026-01-08 21:01:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260108T213500">2026-01-08 21:35:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
