@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/01/07/nasa-postpones-first-spacewalk-of-2026-due-to-a-medical-concern-with-an-iss-crew-member/" >🔗</a> **[Spaceflight Now]** NASA postpones first spacewalk of 2026 due to a ‘medical concern’ with an ISS crew member
 - <a href="https://www.nasaspaceflight.com/2026/01/tps-evaluations-next-two-ships/" >🔗</a> **[NASASpaceflight]** TPS evaluations taking place at Starbase on next two Ships to fly
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-celebrates-artemis-ii-during-houston-texans-space-city-day/" >🔗</a> **[NASA]** NASA Celebrates Artemis II During Houston Texans Space City Day
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/25-years-in-orbit-science-innovation-and-the-future-of-exploration/" >🔗</a> **[NASA]** 25 Years in Orbit: Science, Innovation, and the Future of Exploration
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.spacedaily.com/reports/NASA_selects_industry_partners_to_mature_Habitable_Worlds_Observatory_technologies_999.html" >🔗</a> **[SpaceDaily]** NASA selects industry partners to mature Habitable Worlds Observatory technologies
 - <a href="https://www.spacedaily.com/reports/Star_like_early_galaxies_challenge_views_of_cosmic_evolution_999.html" >🔗</a> **[SpaceDaily]** Star like early galaxies challenge views of cosmic evolution
 - <a href="https://www.spacedaily.com/reports/Aegis_Aerospace_and_United_Semiconductors_plan_in_orbit_semiconductor_materials_plant_999.html" >🔗</a> **[SpaceDaily]** Aegis Aerospace and United Semiconductors plan in orbit semiconductor materials plant
-- <a href="https://www.spacedaily.com/reports/NASAs_IXPE_Measures_White_Dwarf_Star_for_First_Time_999.html" >🔗</a> **[SpaceDaily]** NASA's IXPE Measures White Dwarf Star for First Time
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260107T233352">2026-01-07 23:33:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260108T000523">2026-01-08 00:05:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
