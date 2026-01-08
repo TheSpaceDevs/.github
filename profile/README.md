@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/01/crew-11-to-return-early-medical-astronaut/" >🔗</a> **[NASASpaceflight]** Crew-11 to return early due to a medical concern with astronaut
 - <a href="https://spacenews.com/applications-open-for-cohort-4-of-sda-tap-lab-catalyst-campus-mini-accelerator/" >🔗</a> **[SpaceNews]** APPLICATIONS OPEN FOR COHORT 4 OF SDA TAP LAB – CATALYST CAMPUS MINI ACCELERATOR
 - <a href="https://spacepolicyonline.com/news/house-passes-final-fy2026-funding-bill-for-nasa-senate-is-next/" >🔗</a> **[SpacePolicyOnline.com]** House Passes Final FY2026 Funding Bill For NASA, Senate is Next
 - <a href="https://spacenews.com/roman-space-telescope-on-track-for-september-launch/" >🔗</a> **[SpaceNews]** Roman Space Telescope on track for September launch
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-starts-up-gateways-power-system-for-first-time/" >🔗</a> **[NASA]** NASA Starts Up Gateway’s Power System for First Time
 - <a href="https://spacenews.com/private-group-unveils-plans-for-large-space-telescope/" >🔗</a> **[SpaceNews]** Private group unveils plans for large space telescope
 - <a href="https://spacenews.com/2026-will-clarify-europes-new-priorities-for-space/" >🔗</a> **[SpaceNews]** 2026 will clarify Europe’s new priorities for space
-- <a href="https://spacenews.com/the-moon-ai-and-the-high-stakes-decisions-shaping-spaces-future/" >🔗</a> **[SpaceNews]** The moon, AI and the high-stakes decisions shaping space’s future
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260108T230127">2026-01-08 23:01:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260108T233231">2026-01-08 23:32:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
