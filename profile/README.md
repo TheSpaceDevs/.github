@@ -53,7 +53,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260114T180100">2026-01-14 18:01:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-98&location=Cape Canaveral SFS, FL, USA&dates=20260114T180100Z%2F20260114T220100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-98** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260115T160000">2026-01-15 16:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 3B/E | Unknown Payload&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20260115T160000Z%2F20260115T190000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 3B/E | Unknown Payload** from Xichang Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260117T000000">2026-01-17 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/no.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Spectrum | Flight Two&location=Andøya Spaceport&dates=20260117T000000Z%2F20260117T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Spectrum | Flight Two** from Andøya Spaceport.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260117T041800">2026-01-17 04:18:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | NROL-105&location=Vandenberg SFB, CA, USA&dates=20260117T041800Z%2F20260117T053600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | NROL-105** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260117T041800">2026-01-17 04:18:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | NROL-105&location=Vandenberg SFB, CA, USA&dates=20260117T041800Z%2F20260117T045300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | NROL-105** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260118T050000">2026-01-18 05:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-100&location=Cape Canaveral SFS, FL, USA&dates=20260118T050000Z%2F20260118T090000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-100** from Cape Canaveral SFS, FL, USA.
 
 
@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/best-of-2025-artemis-ii-countdown-demonstration-test/" >🔗</a> **[NASA]** Best of 2025: Artemis II Countdown Demonstration Test
+- <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-starts-up-gateways-power-system-for-first-time/" >🔗</a> **[NASA]** NASA Starts Up Gateway’s Power System for First Time
+- <a href="https://spacenews.com/private-group-unveils-plans-for-large-space-telescope/" >🔗</a> **[SpaceNews]** Private group unveils plans for large space telescope
 - <a href="https://spacenews.com/2026-will-clarify-europes-new-priorities-for-space/" >🔗</a> **[SpaceNews]** 2026 will clarify Europe’s new priorities for space
 - <a href="https://spacenews.com/the-moon-ai-and-the-high-stakes-decisions-shaping-spaces-future/" >🔗</a> **[SpaceNews]** The moon, AI and the high-stakes decisions shaping space’s future
 - <a href="https://europeanspaceflight.com/esa-waiting-for-spring-to-launch-themis-reusable-rocket-demonstrator/" >🔗</a> **[European Spaceflight]** ESA “Waiting for Spring” to Launch Themis Reusable Rocket Demonstrator
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/vulcan-to-open-2026-with-national-security-launch/" >🔗</a> **[SpaceNews]** Vulcan to open 2026 with national security launch
 - <a href="https://spacenews.com/the-space-tax-on-your-self-driving-car/" >🔗</a> **[SpaceNews]** The ‘space tax’ on your self-driving car
 - <a href="https://spacepolicyonline.com/news/early-return-of-crew-11-possible-due-to-ailing-astronaut/" >🔗</a> **[SpacePolicyOnline.com]** Early Return of Crew-11 Possible Due to Ailing Astronaut
-- <a href="https://spacenews.com/medical-issue-could-force-early-end-of-crew-11-iss-mission/" >🔗</a> **[SpaceNews]** Medical issue could force early end of Crew-11 ISS mission
-- <a href="https://europeanspaceflight.com/esa-strikes-new-deal-with-nasa-for-its-csoc-commitments-for-the-iss/" >🔗</a> **[European Spaceflight]** ESA Strikes New Deal with NASA for Its CSOC Commitments for the ISS
-- <a href="https://spacenews.com/interplanetary-science-needs-a-commercial-backbone/" >🔗</a> **[SpaceNews]** Interplanetary science needs a commercial backbone
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260108T170447">2026-01-08 17:04:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260108T173859">2026-01-08 17:38:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
