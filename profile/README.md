@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spaceflightnow.com/2026/01/08/live-coverage-spacex-to-launch-its-falcon-9-rocket-on-midday-starlink-mission-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch its Falcon 9 rocket on midday Starlink mission from Cape Canaveral
-- <a href="https://spaceflightnow.com/2026/01/07/nasa-postpones-first-spacewalk-of-2026-due-to-a-medical-concern-with-an-iss-crew-member/" >🔗</a> **[Spaceflight Now]** NASA postpones first spacewalk of 2026 due to a ‘medical concern’ with an ISS crew member
-- <a href="https://www.nasaspaceflight.com/2026/01/tps-evaluations-next-two-ships/" >🔗</a> **[NASASpaceflight]** TPS evaluations taking place at Starbase on next two Ships to fly
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-celebrates-artemis-ii-during-houston-texans-space-city-day/" >🔗</a> **[NASA]** NASA Celebrates Artemis II During Houston Texans Space City Day
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/25-years-in-orbit-science-innovation-and-the-future-of-exploration/" >🔗</a> **[NASA]** 25 Years in Orbit: Science, Innovation, and the Future of Exploration
-- <a href="https://www.nasa.gov/image-article/lightning-from-above/" >🔗</a> **[NASA]** Lightning from Above
-- <a href="https://spacenews.com/terran-orbital-appoints-michael-vishion-as-vice-president-of-program-management/" >🔗</a> **[SpaceNews]** Terran Orbital Appoints Michael Vishion as Vice President of Program Management
-- <a href="https://spacenews.com/space-force-moves-to-standardize-satellites-with-handle-2-0-contract/" >🔗</a> **[SpaceNews]** Space Force moves to standardize satellites with ‘Handle 2.0’ contract
-- <a href="https://www.spacedaily.com/reports/NASA_selects_industry_partners_to_mature_Habitable_Worlds_Observatory_technologies_999.html" >🔗</a> **[SpaceDaily]** NASA selects industry partners to mature Habitable Worlds Observatory technologies
-- <a href="https://www.spacedaily.com/reports/Star_like_early_galaxies_challenge_views_of_cosmic_evolution_999.html" >🔗</a> **[SpaceDaily]** Star like early galaxies challenge views of cosmic evolution
+- <a href="https://www.spacedaily.com/reports/Puffy_young_exoplanets_reveal_origin_of_super_Earths_999.html" >🔗</a> **[SpaceDaily]** Puffy young exoplanets reveal origin of super Earths
+- <a href="https://www.spacedaily.com/reports/Dark_matter_neutrino_link_may_ease_cosmic_tension_999.html" >🔗</a> **[SpaceDaily]** Dark matter neutrino link may ease cosmic tension
+- <a href="https://www.spacedaily.com/reports/We_finally_know_how_the_most_common_types_of_planets_are_created_999.html" >🔗</a> **[SpaceDaily]** We finally know how the most common types of planets are created
+- <a href="https://www.spacedaily.com/reports/M_dwarf_plasma_torus_offers_window_into_space_weather_and_planetary_habitability_999.html" >🔗</a> **[SpaceDaily]** M dwarf plasma torus offers window into space weather and planetary habitability
+- <a href="https://www.spacedaily.com/reports/Second_ESCAPADE_spacecraft_completes_key_trajectory_fix_on_path_to_Mars_999.html" >🔗</a> **[SpaceDaily]** Second ESCAPADE spacecraft completes key trajectory fix on path to Mars
+- <a href="https://www.spacedaily.com/reports/NJIT_researchers_discover_long_hidden_source_of_gamma_rays_unleashed_by_solar_flares_999.html" >🔗</a> **[SpaceDaily]** NJIT researchers discover long-hidden source of gamma rays unleashed by solar flares
+- <a href="https://www.moondaily.com/reports/Lunar_spacecraft_exhaust_could_obscure_clues_to_origins_of_life_999.html" >🔗</a> **[SpaceDaily]** Lunar spacecraft exhaust could obscure clues to origins of life
+- <a href="https://www.marsdaily.com/reports/Sandblasting_winds_sculpt_Mars_landscape_999.html" >🔗</a> **[SpaceDaily]** Sandblasting winds sculpt Mars landscape
+- <a href="https://www.spacedaily.com/reports/NSF_DOE_Vera_C__Rubin_Observatory_spots_record_breaking_asteroid_in_pre_survey_observations_999.html" >🔗</a> **[SpaceDaily]** NSF-DOE Vera C. Rubin Observatory spots record-breaking asteroid in pre-survey observations
+- <a href="https://spacenews.com/nasa-continues-to-work-toward-february-launch-of-artemis-2/" >🔗</a> **[SpaceNews]** NASA continues to work toward February launch of Artemis 2
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260108T041421">2026-01-08 04:14:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260108T044252">2026-01-08 04:42:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
