@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.spacedaily.com/reports/Dark_matter_neutrino_link_may_ease_cosmic_tension_999.html" >🔗</a> **[SpaceDaily]** Dark matter neutrino link may ease cosmic tension
-- <a href="https://www.spacedaily.com/reports/NJIT_researchers_discover_long_hidden_source_of_gamma_rays_unleashed_by_solar_flares_999.html" >🔗</a> **[SpaceDaily]** NJIT researchers discover long-hidden source of gamma rays unleashed by solar flares
-- <a href="https://www.spacedaily.com/reports/M_dwarf_plasma_torus_offers_window_into_space_weather_and_planetary_habitability_999.html" >🔗</a> **[SpaceDaily]** M dwarf plasma torus offers window into space weather and planetary habitability
-- <a href="https://www.marsdaily.com/reports/Sandblasting_winds_sculpt_Mars_landscape_999.html" >🔗</a> **[SpaceDaily]** Sandblasting winds sculpt Mars landscape
-- <a href="https://www.spacedaily.com/reports/Puffy_young_exoplanets_reveal_origin_of_super_Earths_999.html" >🔗</a> **[SpaceDaily]** Puffy young exoplanets reveal origin of super Earths
+- <a href="https://www.spacewar.com/reports/Defence_backs_Australian_STARS_system_for_autonomous_space_threat_detection_999.html" >🔗</a> **[SpaceDaily]** Defence backs Australian STARS system for autonomous space threat detection
+- <a href="https://www.spacewar.com/reports/US_Space_Command_APEX_summit_explores_AI_for_campaign_planning_999.html" >🔗</a> **[SpaceDaily]** US Space Command APEX summit explores AI for campaign planning
+- <a href="https://www.spacewar.com/reports/Sierra_Space_finishes_first_plane_of_SDA_missile_tracking_satellite_structures_999.html" >🔗</a> **[SpaceDaily]** Sierra Space finishes first plane of SDA missile tracking satellite structures
+- <a href="https://www.spacewar.com/reports/Starfighters_Space_positions_for_rapid_hypersonic_era_missions_999.html" >🔗</a> **[SpaceDaily]** Starfighters Space positions for rapid hypersonic era missions
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Space_for_our_climate/Tiny_patches_of_deforestation_drive_tropical_carbon_loss" >🔗</a> **[ESA]** Tiny patches of deforestation drive tropical carbon loss
 - <a href="https://www.spacedaily.com/reports/We_finally_know_how_the_most_common_types_of_planets_are_created_999.html" >🔗</a> **[SpaceDaily]** We finally know how the most common types of planets are created
-- <a href="https://www.spacedaily.com/reports/Second_ESCAPADE_spacecraft_completes_key_trajectory_fix_on_path_to_Mars_999.html" >🔗</a> **[SpaceDaily]** Second ESCAPADE spacecraft completes key trajectory fix on path to Mars
-- <a href="https://www.spacedaily.com/reports/NSF_DOE_Vera_C__Rubin_Observatory_spots_record_breaking_asteroid_in_pre_survey_observations_999.html" >🔗</a> **[SpaceDaily]** NSF-DOE Vera C. Rubin Observatory spots record-breaking asteroid in pre-survey observations
+- <a href="https://www.spacedaily.com/reports/Puffy_young_exoplanets_reveal_origin_of_super_Earths_999.html" >🔗</a> **[SpaceDaily]** Puffy young exoplanets reveal origin of super Earths
+- <a href="https://www.spacedaily.com/reports/NJIT_researchers_discover_long_hidden_source_of_gamma_rays_unleashed_by_solar_flares_999.html" >🔗</a> **[SpaceDaily]** NJIT researchers discover long-hidden source of gamma rays unleashed by solar flares
 - <a href="https://www.moondaily.com/reports/Lunar_spacecraft_exhaust_could_obscure_clues_to_origins_of_life_999.html" >🔗</a> **[SpaceDaily]** Lunar spacecraft exhaust could obscure clues to origins of life
-- <a href="https://science.nasa.gov/earth/earth-observatory/meltwater-turns-iceberg-a-23a-blue/" >🔗</a> **[NASA]** Meltwater Turns Iceberg A-23A Blue
+- <a href="https://www.marsdaily.com/reports/Sandblasting_winds_sculpt_Mars_landscape_999.html" >🔗</a> **[SpaceDaily]** Sandblasting winds sculpt Mars landscape
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260108T080155">2026-01-08 08:01:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260108T084132">2026-01-08 08:41:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
