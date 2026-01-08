@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.spacedaily.com/reports/Puffy_young_exoplanets_reveal_origin_of_super_Earths_999.html" >🔗</a> **[SpaceDaily]** Puffy young exoplanets reveal origin of super Earths
 - <a href="https://www.spacedaily.com/reports/Dark_matter_neutrino_link_may_ease_cosmic_tension_999.html" >🔗</a> **[SpaceDaily]** Dark matter neutrino link may ease cosmic tension
-- <a href="https://www.spacedaily.com/reports/We_finally_know_how_the_most_common_types_of_planets_are_created_999.html" >🔗</a> **[SpaceDaily]** We finally know how the most common types of planets are created
-- <a href="https://www.spacedaily.com/reports/M_dwarf_plasma_torus_offers_window_into_space_weather_and_planetary_habitability_999.html" >🔗</a> **[SpaceDaily]** M dwarf plasma torus offers window into space weather and planetary habitability
-- <a href="https://www.spacedaily.com/reports/Second_ESCAPADE_spacecraft_completes_key_trajectory_fix_on_path_to_Mars_999.html" >🔗</a> **[SpaceDaily]** Second ESCAPADE spacecraft completes key trajectory fix on path to Mars
 - <a href="https://www.spacedaily.com/reports/NJIT_researchers_discover_long_hidden_source_of_gamma_rays_unleashed_by_solar_flares_999.html" >🔗</a> **[SpaceDaily]** NJIT researchers discover long-hidden source of gamma rays unleashed by solar flares
-- <a href="https://www.moondaily.com/reports/Lunar_spacecraft_exhaust_could_obscure_clues_to_origins_of_life_999.html" >🔗</a> **[SpaceDaily]** Lunar spacecraft exhaust could obscure clues to origins of life
+- <a href="https://www.spacedaily.com/reports/M_dwarf_plasma_torus_offers_window_into_space_weather_and_planetary_habitability_999.html" >🔗</a> **[SpaceDaily]** M dwarf plasma torus offers window into space weather and planetary habitability
 - <a href="https://www.marsdaily.com/reports/Sandblasting_winds_sculpt_Mars_landscape_999.html" >🔗</a> **[SpaceDaily]** Sandblasting winds sculpt Mars landscape
+- <a href="https://www.spacedaily.com/reports/Puffy_young_exoplanets_reveal_origin_of_super_Earths_999.html" >🔗</a> **[SpaceDaily]** Puffy young exoplanets reveal origin of super Earths
+- <a href="https://www.spacedaily.com/reports/We_finally_know_how_the_most_common_types_of_planets_are_created_999.html" >🔗</a> **[SpaceDaily]** We finally know how the most common types of planets are created
+- <a href="https://www.spacedaily.com/reports/Second_ESCAPADE_spacecraft_completes_key_trajectory_fix_on_path_to_Mars_999.html" >🔗</a> **[SpaceDaily]** Second ESCAPADE spacecraft completes key trajectory fix on path to Mars
 - <a href="https://www.spacedaily.com/reports/NSF_DOE_Vera_C__Rubin_Observatory_spots_record_breaking_asteroid_in_pre_survey_observations_999.html" >🔗</a> **[SpaceDaily]** NSF-DOE Vera C. Rubin Observatory spots record-breaking asteroid in pre-survey observations
-- <a href="https://spacenews.com/nasa-continues-to-work-toward-february-launch-of-artemis-2/" >🔗</a> **[SpaceNews]** NASA continues to work toward February launch of Artemis 2
+- <a href="https://www.moondaily.com/reports/Lunar_spacecraft_exhaust_could_obscure_clues_to_origins_of_life_999.html" >🔗</a> **[SpaceDaily]** Lunar spacecraft exhaust could obscure clues to origins of life
+- <a href="https://science.nasa.gov/earth/earth-observatory/meltwater-turns-iceberg-a-23a-blue/" >🔗</a> **[NASA]** Meltwater Turns Iceberg A-23A Blue
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260108T050346">2026-01-08 05:03:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260108T053807">2026-01-08 05:38:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
