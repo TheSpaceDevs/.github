@@ -54,7 +54,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260115T160000">2026-01-15 16:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 3B/E | Unknown Payload&location=Xichang Satellite Launch Center, People&#x27;s Republic of China&dates=20260115T160000Z%2F20260115T190000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 3B/E | Unknown Payload** from Xichang Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260117T000000">2026-01-17 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/no.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Spectrum | Flight Two&location=Andøya Spaceport&dates=20260117T000000Z%2F20260117T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Spectrum | Flight Two** from Andøya Spaceport.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260117T041800">2026-01-17 04:18:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | NROL-105&location=Vandenberg SFB, CA, USA&dates=20260117T041800Z%2F20260117T053600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | NROL-105** from Vandenberg SFB, CA, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260119T070000">2026-01-19 07:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 12 | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20260119T070000Z%2F20260119T110000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 12 | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260118T050000">2026-01-18 05:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-100&location=Cape Canaveral SFS, FL, USA&dates=20260118T050000Z%2F20260118T090000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-100** from Cape Canaveral SFS, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/2026-will-clarify-europes-new-priorities-for-space/" >🔗</a> **[SpaceNews]** 2026 will clarify Europe’s new priorities for space
+- <a href="https://spacenews.com/the-moon-ai-and-the-high-stakes-decisions-shaping-spaces-future/" >🔗</a> **[SpaceNews]** The moon, AI and the high-stakes decisions shaping space’s future
+- <a href="https://europeanspaceflight.com/esa-waiting-for-spring-to-launch-themis-reusable-rocket-demonstrator/" >🔗</a> **[European Spaceflight]** ESA “Waiting for Spring” to Launch Themis Reusable Rocket Demonstrator
 - <a href="https://arstechnica.com/space/2026/01/eric-schmidt-will-massively-invest-in-private-telescopes-including-hubble-replacement/" >🔗</a> **[Arstechnica]** Eric Schmidt will massively invest in private telescopes, including Hubble replacement
 - <a href="https://spacenews.com/vulcan-to-open-2026-with-national-security-launch/" >🔗</a> **[SpaceNews]** Vulcan to open 2026 with national security launch
 - <a href="https://spacenews.com/the-space-tax-on-your-self-driving-car/" >🔗</a> **[SpaceNews]** The ‘space tax’ on your self-driving car
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/medical-issue-could-force-early-end-of-crew-11-iss-mission/" >🔗</a> **[SpaceNews]** Medical issue could force early end of Crew-11 ISS mission
 - <a href="https://europeanspaceflight.com/esa-strikes-new-deal-with-nasa-for-its-csoc-commitments-for-the-iss/" >🔗</a> **[European Spaceflight]** ESA Strikes New Deal with NASA for Its CSOC Commitments for the ISS
 - <a href="https://spacenews.com/interplanetary-science-needs-a-commercial-backbone/" >🔗</a> **[SpaceNews]** Interplanetary science needs a commercial backbone
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/01/ESA_Director_General_s_2026_annual_press_briefing" >🔗</a> **[ESA]** ESA Director General’s 2026 annual press briefing
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/01/ESA_preview_2026" >🔗</a> **[ESA]** ESA preview 2026
-- <a href="https://www.spacewar.com/reports/Defence_backs_Australian_STARS_system_for_autonomous_space_threat_detection_999.html" >🔗</a> **[SpaceDaily]** Defence backs Australian STARS system for autonomous space threat detection
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260108T160218">2026-01-08 16:02:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260108T164116">2026-01-08 16:41:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
