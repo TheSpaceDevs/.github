@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/the-space-tax-on-your-self-driving-car/" >🔗</a> **[SpaceNews]** The ‘space tax’ on your self-driving car
+- <a href="https://spacepolicyonline.com/news/early-return-of-crew-11-possible-due-to-ailing-astronaut/" >🔗</a> **[SpacePolicyOnline.com]** Early Return of Crew-11 Possible Due to Ailing Astronaut
 - <a href="https://spacenews.com/medical-issue-could-force-early-end-of-crew-11-iss-mission/" >🔗</a> **[SpaceNews]** Medical issue could force early end of Crew-11 ISS mission
 - <a href="https://europeanspaceflight.com/esa-strikes-new-deal-with-nasa-for-its-csoc-commitments-for-the-iss/" >🔗</a> **[European Spaceflight]** ESA Strikes New Deal with NASA for Its CSOC Commitments for the ISS
 - <a href="https://spacenews.com/interplanetary-science-needs-a-commercial-backbone/" >🔗</a> **[SpaceNews]** Interplanetary science needs a commercial backbone
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.spacewar.com/reports/Starfighters_Space_positions_for_rapid_hypersonic_era_missions_999.html" >🔗</a> **[SpaceDaily]** Starfighters Space positions for rapid hypersonic era missions
 - <a href="https://www.spacewar.com/reports/Defence_backs_Australian_STARS_system_for_autonomous_space_threat_detection_999.html" >🔗</a> **[SpaceDaily]** Defence backs Australian STARS system for autonomous space threat detection
 - <a href="https://www.spacewar.com/reports/US_Space_Command_APEX_summit_explores_AI_for_campaign_planning_999.html" >🔗</a> **[SpaceDaily]** US Space Command APEX summit explores AI for campaign planning
-- <a href="https://www.spacewar.com/reports/Sierra_Space_finishes_first_plane_of_SDA_missile_tracking_satellite_structures_999.html" >🔗</a> **[SpaceDaily]** Sierra Space finishes first plane of SDA missile tracking satellite structures
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Space_for_our_climate/Tiny_patches_of_deforestation_drive_tropical_carbon_loss" >🔗</a> **[ESA]** Tiny patches of deforestation drive tropical carbon loss
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260108T134257">2026-01-08 13:42:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260108T140305">2026-01-08 14:03:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
