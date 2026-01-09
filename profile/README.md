@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/earth-observatory/ganges-delta-under-a-winter-shroud-of-fog/" >🔗</a> **[NASA]** Ganges Delta Under a Winter Shroud of Fog
 - <a href="https://spaceflightnow.com/2026/01/09/crew-11-to-cut-mission-short-and-return-to-earth-due-to-medical-issue/" >🔗</a> **[Spaceflight Now]** Crew-11 to cut mission short and return to Earth due to medical issue
 - <a href="https://spacepolicyonline.com/news/nasa-decides-to-bring-crew-11-home-early-but-not-an-emergency/" >🔗</a> **[SpacePolicyOnline.com]** NASA DECIDES TO BRING CREW-11 HOME EARLY, BUT NOT AN EMERGENCY
 - <a href="https://www.spacescout.info/2026/01/nasa-crew-11-will-return-early-due-to-medical-situation/" >🔗</a> **[Space Scout]** NASA Crew-11 Will Return Early Due to Medical Situation
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/house-passes-final-fy2026-funding-bill-for-nasa-senate-is-next/" >🔗</a> **[SpacePolicyOnline.com]** House Passes Final FY2026 Funding Bill For NASA, Senate is Next
 - <a href="https://spacenews.com/roman-space-telescope-on-track-for-september-launch/" >🔗</a> **[SpaceNews]** Roman Space Telescope on track for September launch
 - <a href="https://www.nasa.gov/news-release/nasa-to-provide-media-with-international-space-station-update-today/" >🔗</a> **[NASA]** NASA to Provide Media with International Space Station Update Today
-- <a href="https://www.nasaspaceflight.com/2026/01/pad-1-tower-launch-mount-future/" >🔗</a> **[NASASpaceflight]** The future of Starship’s Pad 1 tower and launch mount
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260109T050418">2026-01-09 05:04:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260109T053845">2026-01-09 05:38:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
