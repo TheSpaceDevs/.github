@@ -92,6 +92,7 @@ Also launching on this launch are 39 other ride-share payloads under the "Falcon
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/pentagon-chief-takes-arsenal-of-freedom-tour-to-rocket-lab/" >🔗</a> **[SpaceNews]** Pentagon chief takes ‘Arsenal of Freedom’ tour to Rocket Lab
 - <a href="https://www.nasa.gov/general/shaken-not-stirred-nasas-starburst-aces-extreme-temperature-tests/" >🔗</a> **[NASA]** Shaken, Not Stirred: NASA’s StarBurst Aces Extreme Temperature Tests
 - <a href="https://www.nasa.gov/missions/dragonfly/flight-engineers-give-nasas-dragonfly-lift/" >🔗</a> **[NASA]** Flight Engineers Give NASA’s Dragonfly Lift
 - <a href="https://spaceflightnow.com/2026/01/09/l3harris-announces-845-million-majority-sale-of-space-propulsion-and-power-systems-business/" >🔗</a> **[Spaceflight Now]** L3Harris announces $845 million majority sale of Space Propulsion and Power Systems business
@@ -101,7 +102,6 @@ Also launching on this launch are 39 other ride-share payloads under the "Falcon
 - <a href="https://science.nasa.gov/universe/exoplanets/nasas-pandora-satellite-cubesats-to-explore-exoplanets-beyond/" >🔗</a> **[NASA]** NASA’s Pandora Satellite, CubeSats to Explore Exoplanets, Beyond
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_05-09_January_2026" >🔗</a> **[ESA]** Week in images: 05-09 January 2026
 - <a href="https://spacenews.com/the-space-force-will-acquire-and-integrate-systems-faster-in-2026/" >🔗</a> **[SpaceNews]** The Space Force will acquire and integrate systems faster in 2026
-- <a href="https://www.spacedaily.com/reports/Tiangong_science_program_delivers_data_surge_999.html" >🔗</a> **[SpaceDaily]** Tiangong science program delivers data surge
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ Also launching on this launch are 39 other ride-share payloads under the "Falcon
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260109T230145">2026-01-09 23:01:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260109T233357">2026-01-09 23:33:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
