@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/universe/exoplanets/nasas-pandora-satellite-cubesats-to-explore-exoplanets-beyond/" >🔗</a> **[NASA]** NASA’s Pandora Satellite, CubeSats to Explore Exoplanets, Beyond
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_05-09_January_2026" >🔗</a> **[ESA]** Week in images: 05-09 January 2026
 - <a href="https://spacenews.com/the-space-force-will-acquire-and-integrate-systems-faster-in-2026/" >🔗</a> **[SpaceNews]** The Space Force will acquire and integrate systems faster in 2026
-- <a href="https://www.energy-daily.com/reports/China_ramps_up_CHSN01_fusion_magnet_jacket_for_cryogenic_reactors_999.html" >🔗</a> **[SpaceDaily]** China ramps up CHSN01 fusion magnet jacket for cryogenic reactors
-- <a href="https://www.spacedaily.com/reports/Tiangong_science_program_delivers_data_surge_999.html" >🔗</a> **[SpaceDaily]** Tiangong science program delivers data surge
-- <a href="https://www.spacedaily.com/reports/Barred_spiral_galaxy_spotted_11_5_billion_years_in_the_past_999.html" >🔗</a> **[SpaceDaily]** Barred spiral galaxy spotted 11.5 billion years in the past
-- <a href="https://www.spacedaily.com/reports/Trimble_positioning_tech_to_enhance_Lucid_Gravity_lane_level_navigation_999.html" >🔗</a> **[SpaceDaily]** Trimble positioning tech to enhance Lucid Gravity lane level navigation
-- <a href="https://www.spacedaily.com/reports/International_Space_Station_crew_to_return_early_after_astronaut_medical_issue_999.html" >🔗</a> **[SpaceDaily]** International Space Station crew to return early after astronaut medical issue
-- <a href="https://www.spacedaily.com/reports/China_tallies_record_launch_year_as_lunar_and_asteroid_plans_advance_999.html" >🔗</a> **[SpaceDaily]** China tallies record launch year as lunar and asteroid plans advance
-- <a href="https://www.marsdaily.com/reports/The_electrifying_science_behind_Martian_dust_999.html" >🔗</a> **[SpaceDaily]** The electrifying science behind Martian dust
 - <a href="https://www.spacedaily.com/reports/Superradiant_spin_teamwork_yields_self_driven_microwave_signals_999.html" >🔗</a> **[SpaceDaily]** Superradiant spin teamwork yields self driven microwave signals
+- <a href="https://www.spacedaily.com/reports/Barred_spiral_galaxy_spotted_11_5_billion_years_in_the_past_999.html" >🔗</a> **[SpaceDaily]** Barred spiral galaxy spotted 11.5 billion years in the past
+- <a href="https://www.marsdaily.com/reports/The_electrifying_science_behind_Martian_dust_999.html" >🔗</a> **[SpaceDaily]** The electrifying science behind Martian dust
+- <a href="https://www.spacedaily.com/reports/International_Space_Station_crew_to_return_early_after_astronaut_medical_issue_999.html" >🔗</a> **[SpaceDaily]** International Space Station crew to return early after astronaut medical issue
+- <a href="https://www.spacedaily.com/reports/Tiangong_science_program_delivers_data_surge_999.html" >🔗</a> **[SpaceDaily]** Tiangong science program delivers data surge
+- <a href="https://www.spacedaily.com/reports/China_tallies_record_launch_year_as_lunar_and_asteroid_plans_advance_999.html" >🔗</a> **[SpaceDaily]** China tallies record launch year as lunar and asteroid plans advance
+- <a href="https://www.spacedaily.com/reports/Trimble_positioning_tech_to_enhance_Lucid_Gravity_lane_level_navigation_999.html" >🔗</a> **[SpaceDaily]** Trimble positioning tech to enhance Lucid Gravity lane level navigation
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260109T150147">2026-01-09 15:01:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260109T153718">2026-01-09 15:37:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
