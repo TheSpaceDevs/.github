@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacescout.info/2026/01/nasa-crew-11-will-return-early-due-to-medical-situation/" >🔗</a> **[Space Scout]** NASA Crew-11 Will Return Early Due to Medical Situation
 - <a href="https://spacenews.com/medical-issue-prompts-early-return-of-crew-11-from-iss/" >🔗</a> **[SpaceNews]** Medical issue prompts early return of Crew-11 from ISS
 - <a href="https://www.nasaspaceflight.com/2026/01/crew-11-to-return-early-medical-astronaut/" >🔗</a> **[NASASpaceflight]** Crew-11 to return early due to a medical concern with astronaut
 - <a href="https://spacenews.com/applications-open-for-cohort-4-of-sda-tap-lab-catalyst-campus-mini-accelerator/" >🔗</a> **[SpaceNews]** APPLICATIONS OPEN FOR COHORT 4 OF SDA TAP LAB – CATALYST CAMPUS MINI ACCELERATOR
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2026/01/pad-1-tower-launch-mount-future/" >🔗</a> **[NASASpaceflight]** The future of Starship’s Pad 1 tower and launch mount
 - <a href="https://www.nasa.gov/image-article/best-of-2025-artemis-ii-countdown-demonstration-test/" >🔗</a> **[NASA]** Best of 2025: Artemis II Countdown Demonstration Test
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-starts-up-gateways-power-system-for-first-time/" >🔗</a> **[NASA]** NASA Starts Up Gateway’s Power System for First Time
-- <a href="https://spacenews.com/private-group-unveils-plans-for-large-space-telescope/" >🔗</a> **[SpaceNews]** Private group unveils plans for large space telescope
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260109T000510">2026-01-09 00:05:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260109T004608">2026-01-09 00:46:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
