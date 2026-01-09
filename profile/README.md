@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/rhea-space-activity-applies-optical-navigation-to-military-rendezvous-missions/" >🔗</a> **[SpaceNews]** Rhea Space Activity applies optical navigation to military rendezvous missions
+- <a href="https://europeanspaceflight.com/south-koreas-innospace-to-launch-hanbit-rockets-from-portugal/" >🔗</a> **[European Spaceflight]** South Korea’s Innospace to Launch Hanbit Rockets from Portugal
 - <a href="https://science.nasa.gov/earth/earth-observatory/ganges-delta-under-a-winter-shroud-of-fog/" >🔗</a> **[NASA]** Ganges Delta Under a Winter Shroud of Fog
 - <a href="https://spaceflightnow.com/2026/01/09/crew-11-to-cut-mission-short-and-return-to-earth-due-to-medical-issue/" >🔗</a> **[Spaceflight Now]** Crew-11 to cut mission short and return to Earth due to medical issue
 - <a href="https://spacepolicyonline.com/news/nasa-decides-to-bring-crew-11-home-early-but-not-an-emergency/" >🔗</a> **[SpacePolicyOnline.com]** NASA DECIDES TO BRING CREW-11 HOME EARLY, BUT NOT AN EMERGENCY
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2026/01/crew-11-to-return-early-medical-astronaut/" >🔗</a> **[NASASpaceflight]** Crew-11 to return early due to a medical concern with astronaut
 - <a href="https://spacenews.com/applications-open-for-cohort-4-of-sda-tap-lab-catalyst-campus-mini-accelerator/" >🔗</a> **[SpaceNews]** APPLICATIONS OPEN FOR COHORT 4 OF SDA TAP LAB – CATALYST CAMPUS MINI ACCELERATOR
 - <a href="https://spacepolicyonline.com/news/house-passes-final-fy2026-funding-bill-for-nasa-senate-is-next/" >🔗</a> **[SpacePolicyOnline.com]** House Passes Final FY2026 Funding Bill For NASA, Senate is Next
-- <a href="https://spacenews.com/roman-space-telescope-on-track-for-september-launch/" >🔗</a> **[SpaceNews]** Roman Space Telescope on track for September launch
-- <a href="https://www.nasa.gov/news-release/nasa-to-provide-media-with-international-space-station-update-today/" >🔗</a> **[NASA]** NASA to Provide Media with International Space Station Update Today
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260109T110110">2026-01-09 11:01:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260109T113340">2026-01-09 11:33:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
