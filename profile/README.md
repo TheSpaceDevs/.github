@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/rhea-space-activity-applies-optical-navigation-to-military-rendezvous-missions/" >🔗</a> **[SpaceNews]** Rhea Space Activity applies optical navigation to military rendezvous missions
-- <a href="https://europeanspaceflight.com/south-koreas-innospace-to-launch-hanbit-rockets-from-portugal/" >🔗</a> **[European Spaceflight]** South Korea’s Innospace to Launch Hanbit Rockets from Portugal
-- <a href="https://science.nasa.gov/earth/earth-observatory/ganges-delta-under-a-winter-shroud-of-fog/" >🔗</a> **[NASA]** Ganges Delta Under a Winter Shroud of Fog
-- <a href="https://spaceflightnow.com/2026/01/09/crew-11-to-cut-mission-short-and-return-to-earth-due-to-medical-issue/" >🔗</a> **[Spaceflight Now]** Crew-11 to cut mission short and return to Earth due to medical issue
-- <a href="https://spacepolicyonline.com/news/nasa-decides-to-bring-crew-11-home-early-but-not-an-emergency/" >🔗</a> **[SpacePolicyOnline.com]** NASA DECIDES TO BRING CREW-11 HOME EARLY, BUT NOT AN EMERGENCY
-- <a href="https://www.spacescout.info/2026/01/nasa-crew-11-will-return-early-due-to-medical-situation/" >🔗</a> **[Space Scout]** NASA Crew-11 Will Return Early Due to Medical Situation
-- <a href="https://spacenews.com/medical-issue-prompts-early-return-of-crew-11-from-iss/" >🔗</a> **[SpaceNews]** Medical issue prompts early return of Crew-11 from ISS
-- <a href="https://www.nasaspaceflight.com/2026/01/crew-11-to-return-early-medical-astronaut/" >🔗</a> **[NASASpaceflight]** Crew-11 to return early due to a medical concern with astronaut
-- <a href="https://spacenews.com/applications-open-for-cohort-4-of-sda-tap-lab-catalyst-campus-mini-accelerator/" >🔗</a> **[SpaceNews]** APPLICATIONS OPEN FOR COHORT 4 OF SDA TAP LAB – CATALYST CAMPUS MINI ACCELERATOR
-- <a href="https://spacepolicyonline.com/news/house-passes-final-fy2026-funding-bill-for-nasa-senate-is-next/" >🔗</a> **[SpacePolicyOnline.com]** House Passes Final FY2026 Funding Bill For NASA, Senate is Next
+- <a href="https://www.energy-daily.com/reports/Lithium_ion_battery_study_on_Tiangong_space_station_explores_microgravity_effects_on_performance_999.html" >🔗</a> **[SpaceDaily]** Lithium ion battery study on Tiangong space station explores microgravity effects on performance
+- <a href="https://www.spacedaily.com/reports/Superradiant_spin_teamwork_yields_self_driven_microwave_signals_999.html" >🔗</a> **[SpaceDaily]** Superradiant spin teamwork yields self driven microwave signals
+- <a href="https://www.energy-daily.com/reports/China_ramps_up_CHSN01_fusion_magnet_jacket_for_cryogenic_reactors_999.html" >🔗</a> **[SpaceDaily]** China ramps up CHSN01 fusion magnet jacket for cryogenic reactors
+- <a href="https://www.spacedaily.com/reports/Trimble_positioning_tech_to_enhance_Lucid_Gravity_lane_level_navigation_999.html" >🔗</a> **[SpaceDaily]** Trimble positioning tech to enhance Lucid Gravity lane level navigation
+- <a href="https://www.spacedaily.com/reports/Barred_spiral_galaxy_spotted_11_5_billion_years_in_the_past_999.html" >🔗</a> **[SpaceDaily]** Barred spiral galaxy spotted 11.5 billion years in the past
+- <a href="https://www.spacedaily.com/reports/China_tallies_record_launch_year_as_lunar_and_asteroid_plans_advance_999.html" >🔗</a> **[SpaceDaily]** China tallies record launch year as lunar and asteroid plans advance
+- <a href="https://www.spacedaily.com/reports/International_Space_Station_crew_to_return_early_after_astronaut_medical_issue_999.html" >🔗</a> **[SpaceDaily]** International Space Station crew to return early after astronaut medical issue
+- <a href="https://www.marsdaily.com/reports/The_electrifying_science_behind_Martian_dust_999.html" >🔗</a> **[SpaceDaily]** The electrifying science behind Martian dust
+- <a href="https://www.spacedaily.com/reports/Tiangong_science_program_delivers_data_surge_999.html" >🔗</a> **[SpaceDaily]** Tiangong science program delivers data surge
+- <a href="https://www.solardaily.com/reports/3D_printed_solar_cells_bring_color_tuned_power_to_windows_and_curved_surfaces_999.html" >🔗</a> **[SpaceDaily]** 3D printed solar cells bring color tuned power to windows and curved surfaces
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260109T120209">2026-01-09 12:02:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260109T124347">2026-01-09 12:43:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
