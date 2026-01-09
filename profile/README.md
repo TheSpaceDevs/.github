@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/medical-issue-prompts-early-return-of-crew-11-from-iss/" >🔗</a> **[SpaceNews]** Medical issue prompts early return of Crew-11 from ISS
 - <a href="https://www.nasaspaceflight.com/2026/01/crew-11-to-return-early-medical-astronaut/" >🔗</a> **[NASASpaceflight]** Crew-11 to return early due to a medical concern with astronaut
 - <a href="https://spacenews.com/applications-open-for-cohort-4-of-sda-tap-lab-catalyst-campus-mini-accelerator/" >🔗</a> **[SpaceNews]** APPLICATIONS OPEN FOR COHORT 4 OF SDA TAP LAB – CATALYST CAMPUS MINI ACCELERATOR
 - <a href="https://spacepolicyonline.com/news/house-passes-final-fy2026-funding-bill-for-nasa-senate-is-next/" >🔗</a> **[SpacePolicyOnline.com]** House Passes Final FY2026 Funding Bill For NASA, Senate is Next
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/best-of-2025-artemis-ii-countdown-demonstration-test/" >🔗</a> **[NASA]** Best of 2025: Artemis II Countdown Demonstration Test
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-starts-up-gateways-power-system-for-first-time/" >🔗</a> **[NASA]** NASA Starts Up Gateway’s Power System for First Time
 - <a href="https://spacenews.com/private-group-unveils-plans-for-large-space-telescope/" >🔗</a> **[SpaceNews]** Private group unveils plans for large space telescope
-- <a href="https://spacenews.com/2026-will-clarify-europes-new-priorities-for-space/" >🔗</a> **[SpaceNews]** 2026 will clarify Europe’s new priorities for space
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260108T233231">2026-01-08 23:32:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260109T000510">2026-01-09 00:05:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
