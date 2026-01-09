@@ -19,27 +19,29 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 6-96**. It is scheduled to be launched by *SpaceX*
+**Falcon 9 Block 5 | Pandora / Twilight rideshare mission**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral SFS, FL, USA*
+from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260109T180300">2026-01-09 18:03:00 UTC</a>.  Until
-then, this pad will have been used for 355
-out of 1077 launches from this location. The launch status is currently
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260111T131900">2026-01-11 13:19:00 UTC</a>.  Until
+then, this pad will have been used for 239
+out of 853 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Communications* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+*Astrophysics* and the payload will be injected
+into *a Sun-Synchronous Orbit
+(SSO)*.
 <br>
 <blockquote>
-  A batch of 29 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  The Pandora small satellite was selected in 2021 as an inaugural mission in NASA’s Astrophysics Pioneers Program. It includes a 0.45-meter telescope that will improve our understanding of exoplanet atmospheres by disentangling exoplanet signals from their host stars, as well as studying host star variability with long-duration observations of 20 unique planets through visible-light photometry and near-infrared spectroscopy.
+
+Also launching on this launch are 39 other ride-share payloads under the "Falcon 9 Twilight mission" manifested by Exolaunch, including satellites from Spire Global and Kepler Communications.
 </blockquote>
 
 <p float="left" align="center">
   <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
+  <a href="https://www.google.com/maps?q=34.632,-120.611" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -54,6 +56,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260115T193000">2026-01-15 19:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ceres-1S | Unknown Payload&location=Haiyang Oriental Spaceport&dates=20260115T193000Z%2F20260115T230000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ceres-1S | Unknown Payload** from Haiyang Oriental Spaceport.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260117T000000">2026-01-17 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/no.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Spectrum | Flight Two&location=Andøya Spaceport&dates=20260117T000000Z%2F20260117T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Spectrum | Flight Two** from Andøya Spaceport.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260117T041800">2026-01-17 04:18:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | NROL-105&location=Vandenberg SFB, CA, USA&dates=20260117T041800Z%2F20260117T045300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | NROL-105** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260118T050000">2026-01-18 05:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-100&location=Cape Canaveral SFS, FL, USA&dates=20260118T050000Z%2F20260118T081700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-100** from Cape Canaveral SFS, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -89,6 +92,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/shaken-not-stirred-nasas-starburst-aces-extreme-temperature-tests/" >🔗</a> **[NASA]** Shaken, Not Stirred: NASA’s StarBurst Aces Extreme Temperature Tests
 - <a href="https://www.nasa.gov/missions/dragonfly/flight-engineers-give-nasas-dragonfly-lift/" >🔗</a> **[NASA]** Flight Engineers Give NASA’s Dragonfly Lift
 - <a href="https://spaceflightnow.com/2026/01/09/l3harris-announces-845-million-majority-sale-of-space-propulsion-and-power-systems-business/" >🔗</a> **[Spaceflight Now]** L3Harris announces $845 million majority sale of Space Propulsion and Power Systems business
 - <a href="https://spacenews.com/landspace-secures-launch-contracts-for-chinas-megaconstellation-projects/" >🔗</a> **[SpaceNews]** Landspace secures launch contracts for China’s megaconstellation projects
@@ -98,18 +102,18 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_05-09_January_2026" >🔗</a> **[ESA]** Week in images: 05-09 January 2026
 - <a href="https://spacenews.com/the-space-force-will-acquire-and-integrate-systems-faster-in-2026/" >🔗</a> **[SpaceNews]** The Space Force will acquire and integrate systems faster in 2026
 - <a href="https://www.spacedaily.com/reports/Tiangong_science_program_delivers_data_surge_999.html" >🔗</a> **[SpaceDaily]** Tiangong science program delivers data surge
-- <a href="https://www.spacedaily.com/reports/China_tallies_record_launch_year_as_lunar_and_asteroid_plans_advance_999.html" >🔗</a> **[SpaceDaily]** China tallies record launch year as lunar and asteroid plans advance
 
 
 ### Launch-related News 🚀
 
-- <a href="https://spaceflightnow.com/2026/01/08/live-coverage-spacex-to-launch-its-falcon-9-rocket-on-midday-starlink-mission-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch its Falcon 9 rocket on midday Starlink mission from Cape Canaveral
 - <a href="https://www.nasaspaceflight.com/2026/01/launch-previews-20250501/" >🔗</a> **[NASASpaceflight]** Launch Previews: SpaceX and ISRO to launch rideshare missions into SSO
+- <a href="https://www.spacedaily.com/reports/Hyperspectral_Microwave_Sounder_Set_for_Launch_Following_Final_Testing_Phase_999.html" >🔗</a> **[SpaceDaily]** Hyperspectral Microwave Sounder Set for Launch Following Final Testing Phase
+- <a href="https://www.spacedaily.com/reports/Next_generation_satellites_from_Spire_Global_prepared_for_SpaceX_Falcon_9_Twilight_mission_999.html" >🔗</a> **[SpaceDaily]** Next-generation satellites from Spire Global prepared for SpaceX Falcon 9 Twilight mission
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260109T220144">2026-01-09 22:01:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260109T223627">2026-01-09 22:36:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
