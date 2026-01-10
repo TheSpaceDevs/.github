@@ -92,6 +92,8 @@ Also launching on this launch are 39 other ride-share payloads under the "Falcon
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/fcc-approves-7500-additional-starlink-satellites/" >🔗</a> **[SpaceNews]** FCC approves 7,500 additional Starlink satellites
+- <a href="https://spacenews.com/space-force-awards-739-million-in-launch-orders-to-spacex/" >🔗</a> **[SpaceNews]** Space Force awards $739 million in launch orders to SpaceX
 - <a href="https://europeanspaceflight.com/maiaspace-to-launch-minimum-viable-product-in-2026/" >🔗</a> **[European Spaceflight]** MaiaSpace to Launch “Minimum Viable Product” in 2026
 - <a href="https://www.nasaspaceflight.com/2026/01/nasa-milestones-path-artemis-ii-launch/" >🔗</a> **[NASASpaceflight]** NASA sets milestones on the path to Artemis II crew launch
 - <a href="https://spacepolicyonline.com/news/crew-11-to-begin-return-home-on-wednesday/" >🔗</a> **[SpacePolicyOnline.com]** Crew-11 To Begin Return Home on Wednesday
@@ -100,8 +102,6 @@ Also launching on this launch are 39 other ride-share payloads under the "Falcon
 - <a href="https://www.nasa.gov/general/shaken-not-stirred-nasas-starburst-aces-extreme-temperature-tests/" >🔗</a> **[NASA]** Shaken, Not Stirred: NASA’s StarBurst Aces Extreme Temperature Tests
 - <a href="https://www.nasa.gov/missions/dragonfly/flight-engineers-give-nasas-dragonfly-lift/" >🔗</a> **[NASA]** Flight Engineers Give NASA’s Dragonfly Lift
 - <a href="https://spaceflightnow.com/2026/01/09/l3harris-announces-845-million-majority-sale-of-space-propulsion-and-power-systems-business/" >🔗</a> **[Spaceflight Now]** L3Harris announces $845 million majority sale of Space Propulsion and Power Systems business
-- <a href="https://spacenews.com/landspace-secures-launch-contracts-for-chinas-megaconstellation-projects/" >🔗</a> **[SpaceNews]** Landspace secures launch contracts for China’s megaconstellation projects
-- <a href="https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-dave-reynolds/" >🔗</a> **[NASA]** I am Artemis: Dave Reynolds
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ Also launching on this launch are 39 other ride-share payloads under the "Falcon
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260110T170105">2026-01-10 17:01:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260110T173344">2026-01-10 17:33:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
