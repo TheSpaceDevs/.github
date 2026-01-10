@@ -92,6 +92,7 @@ Also launching on this launch are 39 other ride-share payloads under the "Falcon
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasa-marshall-removes-2-historic-test-stands/" >🔗</a> **[NASA]** NASA Marshall Removes 2 Historic Test Stands
 - <a href="https://spacenews.com/fcc-approves-7500-additional-starlink-satellites/" >🔗</a> **[SpaceNews]** FCC approves 7,500 additional Starlink satellites
 - <a href="https://spacenews.com/space-force-awards-739-million-in-launch-orders-to-spacex/" >🔗</a> **[SpaceNews]** Space Force awards $739 million in launch orders to SpaceX
 - <a href="https://europeanspaceflight.com/maiaspace-to-launch-minimum-viable-product-in-2026/" >🔗</a> **[European Spaceflight]** MaiaSpace to Launch “Minimum Viable Product” in 2026
@@ -101,7 +102,6 @@ Also launching on this launch are 39 other ride-share payloads under the "Falcon
 - <a href="https://spacenews.com/pentagon-chief-takes-arsenal-of-freedom-tour-to-rocket-lab/" >🔗</a> **[SpaceNews]** Pentagon chief takes ‘Arsenal of Freedom’ tour to Rocket Lab
 - <a href="https://www.nasa.gov/general/shaken-not-stirred-nasas-starburst-aces-extreme-temperature-tests/" >🔗</a> **[NASA]** Shaken, Not Stirred: NASA’s StarBurst Aces Extreme Temperature Tests
 - <a href="https://www.nasa.gov/missions/dragonfly/flight-engineers-give-nasas-dragonfly-lift/" >🔗</a> **[NASA]** Flight Engineers Give NASA’s Dragonfly Lift
-- <a href="https://spaceflightnow.com/2026/01/09/l3harris-announces-845-million-majority-sale-of-space-propulsion-and-power-systems-business/" >🔗</a> **[Spaceflight Now]** L3Harris announces $845 million majority sale of Space Propulsion and Power Systems business
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ Also launching on this launch are 39 other ride-share payloads under the "Falcon
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260110T210124">2026-01-10 21:01:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260110T213301">2026-01-10 21:33:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
