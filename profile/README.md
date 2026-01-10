@@ -92,6 +92,8 @@ Also launching on this launch are 39 other ride-share payloads under the "Falcon
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/nasa-gearing-up-for-artemis-ii-launch/" >🔗</a> **[SpacePolicyOnline.com]** NASA Gearing Up for Artemis II Launch
+- <a href="https://spacenews.com/crew-11-to-make-early-return-jan-15/" >🔗</a> **[SpaceNews]** Crew-11 to make early return Jan. 15
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasa-marshall-removes-2-historic-test-stands/" >🔗</a> **[NASA]** NASA Marshall Removes 2 Historic Test Stands
 - <a href="https://spacenews.com/fcc-approves-7500-additional-starlink-satellites/" >🔗</a> **[SpaceNews]** FCC approves 7,500 additional Starlink satellites
 - <a href="https://spacenews.com/space-force-awards-739-million-in-launch-orders-to-spacex/" >🔗</a> **[SpaceNews]** Space Force awards $739 million in launch orders to SpaceX
@@ -100,8 +102,6 @@ Also launching on this launch are 39 other ride-share payloads under the "Falcon
 - <a href="https://spacepolicyonline.com/news/crew-11-to-begin-return-home-on-wednesday/" >🔗</a> **[SpacePolicyOnline.com]** Crew-11 To Begin Return Home on Wednesday
 - <a href="https://www.nasa.gov/missions/artemis/artemis-2/final-steps-underway-for-nasas-first-crewed-artemis-moon-mission/" >🔗</a> **[NASA]** Final Steps Underway for NASA’s First Crewed Artemis Moon Mission
 - <a href="https://spacenews.com/pentagon-chief-takes-arsenal-of-freedom-tour-to-rocket-lab/" >🔗</a> **[SpaceNews]** Pentagon chief takes ‘Arsenal of Freedom’ tour to Rocket Lab
-- <a href="https://www.nasa.gov/general/shaken-not-stirred-nasas-starburst-aces-extreme-temperature-tests/" >🔗</a> **[NASA]** Shaken, Not Stirred: NASA’s StarBurst Aces Extreme Temperature Tests
-- <a href="https://www.nasa.gov/missions/dragonfly/flight-engineers-give-nasas-dragonfly-lift/" >🔗</a> **[NASA]** Flight Engineers Give NASA’s Dragonfly Lift
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ Also launching on this launch are 39 other ride-share payloads under the "Falcon
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260110T220141">2026-01-10 22:01:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260110T223528">2026-01-10 22:35:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
