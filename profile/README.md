@@ -92,6 +92,7 @@ Also launching on this launch are 39 other ride-share payloads under the "Falcon
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/crew-11-to-begin-return-home-on-wednesday/" >🔗</a> **[SpacePolicyOnline.com]** Crew-11 To Begin Return Home on Wednesday
 - <a href="https://www.nasa.gov/missions/artemis/artemis-2/final-steps-underway-for-nasas-first-crewed-artemis-moon-mission/" >🔗</a> **[NASA]** Final Steps Underway for NASA’s First Crewed Artemis Moon Mission
 - <a href="https://spacenews.com/pentagon-chief-takes-arsenal-of-freedom-tour-to-rocket-lab/" >🔗</a> **[SpaceNews]** Pentagon chief takes ‘Arsenal of Freedom’ tour to Rocket Lab
 - <a href="https://www.nasa.gov/general/shaken-not-stirred-nasas-starburst-aces-extreme-temperature-tests/" >🔗</a> **[NASA]** Shaken, Not Stirred: NASA’s StarBurst Aces Extreme Temperature Tests
@@ -101,7 +102,6 @@ Also launching on this launch are 39 other ride-share payloads under the "Falcon
 - <a href="https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-dave-reynolds/" >🔗</a> **[NASA]** I am Artemis: Dave Reynolds
 - <a href="https://arstechnica.com/space/2026/01/nasa-chief-reviews-orion-heat-shield-expresses-full-confidence-in-it-for-artemis-ii/" >🔗</a> **[Arstechnica]** NASA chief reviews Orion heat shield, expresses “full confidence” in it for Artemis II
 - <a href="https://science.nasa.gov/universe/exoplanets/nasas-pandora-satellite-cubesats-to-explore-exoplanets-beyond/" >🔗</a> **[NASA]** NASA’s Pandora Satellite, CubeSats to Explore Exoplanets, Beyond
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_05-09_January_2026" >🔗</a> **[ESA]** Week in images: 05-09 January 2026
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ Also launching on this launch are 39 other ride-share payloads under the "Falcon
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260110T040954">2026-01-10 04:09:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260110T044045">2026-01-10 04:40:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
