@@ -92,6 +92,7 @@ This launch will also carry 18 other ride-share payloads.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-astrophysics-commercial-satellites-launch-on-spacex-rideshare-mission/" >🔗</a> **[SpaceNews]** NASA astrophysics, commercial satellites launch on SpaceX rideshare mission
 - <a href="https://www.nasaspaceflight.com/2026/01/spacexs-twilight-rideshare-mission-vandenberg/" >🔗</a> **[NASASpaceflight]** SpaceX’s Twilight rideshare mission set to fly from Vandenberg
 - <a href="https://spaceflightnow.com/2026/01/10/live-coverage-spacex-to-launch-1st-twilight-rideshare-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 1st ‘Twilight’ rideshare mission
 - <a href="https://spacepolicyonline.com/news/nasa-gearing-up-for-artemis-ii-launch/" >🔗</a> **[SpacePolicyOnline.com]** NASA Gearing Up for Artemis II Launch
@@ -101,7 +102,6 @@ This launch will also carry 18 other ride-share payloads.
 - <a href="https://spacenews.com/space-force-awards-739-million-in-launch-orders-to-spacex/" >🔗</a> **[SpaceNews]** Space Force awards $739 million in launch orders to SpaceX
 - <a href="https://europeanspaceflight.com/maiaspace-to-launch-minimum-viable-product-in-2026/" >🔗</a> **[European Spaceflight]** MaiaSpace to Launch “Minimum Viable Product” in 2026
 - <a href="https://www.nasaspaceflight.com/2026/01/nasa-milestones-path-artemis-ii-launch/" >🔗</a> **[NASASpaceflight]** NASA sets milestones on the path to Artemis II crew launch
-- <a href="https://spacepolicyonline.com/news/crew-11-to-begin-return-home-on-wednesday/" >🔗</a> **[SpacePolicyOnline.com]** Crew-11 To Begin Return Home on Wednesday
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ This launch will also carry 18 other ride-share payloads.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260111T160146">2026-01-11 16:01:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260111T163741">2026-01-11 16:37:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
