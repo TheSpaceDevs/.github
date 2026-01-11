@@ -92,6 +92,7 @@ Also launching on this launch are 39 other ride-share payloads under the "Falcon
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/01/10/live-coverage-spacex-to-launch-1st-twilight-rideshare-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 1st ‘Twilight’ rideshare mission
 - <a href="https://spacepolicyonline.com/news/nasa-gearing-up-for-artemis-ii-launch/" >🔗</a> **[SpacePolicyOnline.com]** NASA Gearing Up for Artemis II Launch
 - <a href="https://spacenews.com/crew-11-to-make-early-return-jan-15/" >🔗</a> **[SpaceNews]** Crew-11 to make early return Jan. 15
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasa-marshall-removes-2-historic-test-stands/" >🔗</a> **[NASA]** NASA Marshall Removes 2 Historic Test Stands
@@ -101,7 +102,6 @@ Also launching on this launch are 39 other ride-share payloads under the "Falcon
 - <a href="https://www.nasaspaceflight.com/2026/01/nasa-milestones-path-artemis-ii-launch/" >🔗</a> **[NASASpaceflight]** NASA sets milestones on the path to Artemis II crew launch
 - <a href="https://spacepolicyonline.com/news/crew-11-to-begin-return-home-on-wednesday/" >🔗</a> **[SpacePolicyOnline.com]** Crew-11 To Begin Return Home on Wednesday
 - <a href="https://www.nasa.gov/missions/artemis/artemis-2/final-steps-underway-for-nasas-first-crewed-artemis-moon-mission/" >🔗</a> **[NASA]** Final Steps Underway for NASA’s First Crewed Artemis Moon Mission
-- <a href="https://spacenews.com/pentagon-chief-takes-arsenal-of-freedom-tour-to-rocket-lab/" >🔗</a> **[SpaceNews]** Pentagon chief takes ‘Arsenal of Freedom’ tour to Rocket Lab
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ Also launching on this launch are 39 other ride-share payloads under the "Falcon
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260110T233329">2026-01-10 23:33:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260111T000535">2026-01-11 00:05:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
