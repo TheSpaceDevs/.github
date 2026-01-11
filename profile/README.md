@@ -92,6 +92,8 @@ This launch will also carry 18 other ride-share payloads.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-january-11-17-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy January 11-17, 2026
+- <a href="https://spacenews.com/kepler-network-to-link-ororatech-sensors-for-earth-monitoring/" >🔗</a> **[SpaceNews]** Kepler network to link OroraTech sensors for Earth monitoring
 - <a href="https://spacenews.com/nasa-astrophysics-commercial-satellites-launch-on-spacex-rideshare-mission/" >🔗</a> **[SpaceNews]** NASA astrophysics, commercial satellites launch on SpaceX rideshare mission
 - <a href="https://www.nasaspaceflight.com/2026/01/spacexs-twilight-rideshare-mission-vandenberg/" >🔗</a> **[NASASpaceflight]** SpaceX’s Twilight rideshare mission set to fly from Vandenberg
 - <a href="https://spaceflightnow.com/2026/01/10/live-coverage-spacex-to-launch-1st-twilight-rideshare-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 1st ‘Twilight’ rideshare mission
@@ -100,8 +102,6 @@ This launch will also carry 18 other ride-share payloads.
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasa-marshall-removes-2-historic-test-stands/" >🔗</a> **[NASA]** NASA Marshall Removes 2 Historic Test Stands
 - <a href="https://spacenews.com/fcc-approves-7500-additional-starlink-satellites/" >🔗</a> **[SpaceNews]** FCC approves 7,500 additional Starlink satellites
 - <a href="https://spacenews.com/space-force-awards-739-million-in-launch-orders-to-spacex/" >🔗</a> **[SpaceNews]** Space Force awards $739 million in launch orders to SpaceX
-- <a href="https://europeanspaceflight.com/maiaspace-to-launch-minimum-viable-product-in-2026/" >🔗</a> **[European Spaceflight]** MaiaSpace to Launch “Minimum Viable Product” in 2026
-- <a href="https://www.nasaspaceflight.com/2026/01/nasa-milestones-path-artemis-ii-launch/" >🔗</a> **[NASASpaceflight]** NASA sets milestones on the path to Artemis II crew launch
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ This launch will also carry 18 other ride-share payloads.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260111T230110">2026-01-11 23:01:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260111T233328">2026-01-11 23:33:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
