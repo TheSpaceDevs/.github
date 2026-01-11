@@ -19,29 +19,29 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Pandora / Twilight rideshare mission**. It is scheduled to be launched by *SpaceX*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260111T131900">2026-01-11 13:19:00 UTC</a>.  Until
-then, this pad will have been used for 239
-out of 853 launches from this location. The launch status is currently
+**PSLV-DL | EOS-N1 and others**. It is scheduled to be launched by *Indian Space Research Organization*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Satish_Dhawan_Space_Centre_First_Launch_Pad">Satish Dhawan Space Centre First Launch Pad</a>, Satish Dhawan Space Centre, India*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260112T041500">2026-01-12 04:15:00 UTC</a>.  Until
+then, this pad will have been used for 62
+out of 102 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Astrophysics* and the payload will be injected
+*Earth Science* and the payload will be injected
 into *a Sun-Synchronous Orbit
 (SSO)*.
 <br>
 <blockquote>
-  The Pandora small satellite was selected in 2021 as an inaugural mission in NASA’s Astrophysics Pioneers Program. It includes a 0.45-meter telescope that will improve our understanding of exoplanet atmospheres by disentangling exoplanet signals from their host stars, as well as studying host star variability with long-duration observations of 20 unique planets through visible-light photometry and near-infrared spectroscopy.
+  Small Earth observation satellite from NewSpace India Limited (NSIL) for an "Indian strategic user", details TBD.
 
-Also launching on this launch are 39 other ride-share payloads under the "Falcon 9 Twilight mission" manifested by Exolaunch, including satellites from Spire Global and Kepler Communications.
+This launch will also carry 18 other ride-share payloads.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+  <a href="https://en.wikipedia.org/wiki/Polar_Satellite_Launch_Vehicle" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=34.632,-120.611" >
+  <a href="https://www.google.com/maps?q=13.733,80.235" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -56,6 +56,7 @@ Also launching on this launch are 39 other ride-share payloads under the "Falcon
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260117T000000">2026-01-17 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/no.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Spectrum | Flight Two&location=Andøya Spaceport&dates=20260117T000000Z%2F20260117T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Spectrum | Flight Two** from Andøya Spaceport.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260117T030000">2026-01-17 03:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ceres-2 | Demo Flight&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20260117T030000Z%2F20260117T060000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ceres-2 | Demo Flight** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260117T041800">2026-01-17 04:18:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | NROL-105&location=Vandenberg SFB, CA, USA&dates=20260117T041800Z%2F20260117T045300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | NROL-105** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260118T220400">2026-01-18 22:04:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-100&location=Cape Canaveral SFS, FL, USA&dates=20260118T220400Z%2F20260119T020400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-100** from Cape Canaveral SFS, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -105,17 +106,12 @@ Also launching on this launch are 39 other ride-share payloads under the "Falcon
 
 ### Launch-related News 🚀
 
-- <a href="https://www.nasaspaceflight.com/2026/01/spacexs-twilight-rideshare-mission-vandenberg/" >🔗</a> **[NASASpaceflight]** SpaceX’s Twilight rideshare mission set to fly from Vandenberg
-- <a href="https://spaceflightnow.com/2026/01/10/live-coverage-spacex-to-launch-1st-twilight-rideshare-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 1st ‘Twilight’ rideshare mission
-- <a href="https://science.nasa.gov/universe/exoplanets/nasas-pandora-satellite-cubesats-to-explore-exoplanets-beyond/" >🔗</a> **[NASA]** NASA’s Pandora Satellite, CubeSats to Explore Exoplanets, Beyond
 - <a href="https://www.nasaspaceflight.com/2026/01/launch-previews-20250501/" >🔗</a> **[NASASpaceflight]** Launch Previews: SpaceX and ISRO to launch rideshare missions into SSO
-- <a href="https://www.spacedaily.com/reports/Hyperspectral_Microwave_Sounder_Set_for_Launch_Following_Final_Testing_Phase_999.html" >🔗</a> **[SpaceDaily]** Hyperspectral Microwave Sounder Set for Launch Following Final Testing Phase
-- <a href="https://www.spacedaily.com/reports/Next_generation_satellites_from_Spire_Global_prepared_for_SpaceX_Falcon_9_Twilight_mission_999.html" >🔗</a> **[SpaceDaily]** Next-generation satellites from Spire Global prepared for SpaceX Falcon 9 Twilight mission
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260111T140119">2026-01-11 14:01:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260111T143459">2026-01-11 14:34:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
