@@ -92,6 +92,7 @@ Also launching on this launch are 39 other ride-share payloads under the "Falcon
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/01/spacexs-twilight-rideshare-mission-vandenberg/" >🔗</a> **[NASASpaceflight]** SpaceX’s Twilight rideshare mission set to fly from Vandenberg
 - <a href="https://spaceflightnow.com/2026/01/10/live-coverage-spacex-to-launch-1st-twilight-rideshare-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 1st ‘Twilight’ rideshare mission
 - <a href="https://spacepolicyonline.com/news/nasa-gearing-up-for-artemis-ii-launch/" >🔗</a> **[SpacePolicyOnline.com]** NASA Gearing Up for Artemis II Launch
 - <a href="https://spacenews.com/crew-11-to-make-early-return-jan-15/" >🔗</a> **[SpaceNews]** Crew-11 to make early return Jan. 15
@@ -101,11 +102,12 @@ Also launching on this launch are 39 other ride-share payloads under the "Falcon
 - <a href="https://europeanspaceflight.com/maiaspace-to-launch-minimum-viable-product-in-2026/" >🔗</a> **[European Spaceflight]** MaiaSpace to Launch “Minimum Viable Product” in 2026
 - <a href="https://www.nasaspaceflight.com/2026/01/nasa-milestones-path-artemis-ii-launch/" >🔗</a> **[NASASpaceflight]** NASA sets milestones on the path to Artemis II crew launch
 - <a href="https://spacepolicyonline.com/news/crew-11-to-begin-return-home-on-wednesday/" >🔗</a> **[SpacePolicyOnline.com]** Crew-11 To Begin Return Home on Wednesday
-- <a href="https://www.nasa.gov/missions/artemis/artemis-2/final-steps-underway-for-nasas-first-crewed-artemis-moon-mission/" >🔗</a> **[NASA]** Final Steps Underway for NASA’s First Crewed Artemis Moon Mission
 
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2026/01/10/live-coverage-spacex-to-launch-1st-twilight-rideshare-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 1st ‘Twilight’ rideshare mission
+- <a href="https://science.nasa.gov/universe/exoplanets/nasas-pandora-satellite-cubesats-to-explore-exoplanets-beyond/" >🔗</a> **[NASA]** NASA’s Pandora Satellite, CubeSats to Explore Exoplanets, Beyond
 - <a href="https://www.nasaspaceflight.com/2026/01/launch-previews-20250501/" >🔗</a> **[NASASpaceflight]** Launch Previews: SpaceX and ISRO to launch rideshare missions into SSO
 - <a href="https://www.spacedaily.com/reports/Hyperspectral_Microwave_Sounder_Set_for_Launch_Following_Final_Testing_Phase_999.html" >🔗</a> **[SpaceDaily]** Hyperspectral Microwave Sounder Set for Launch Following Final Testing Phase
 - <a href="https://www.spacedaily.com/reports/Next_generation_satellites_from_Spire_Global_prepared_for_SpaceX_Falcon_9_Twilight_mission_999.html" >🔗</a> **[SpaceDaily]** Next-generation satellites from Spire Global prepared for SpaceX Falcon 9 Twilight mission
@@ -113,7 +115,7 @@ Also launching on this launch are 39 other ride-share payloads under the "Falcon
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260111T100140">2026-01-11 10:01:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260111T103622">2026-01-11 10:36:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
