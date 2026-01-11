@@ -106,6 +106,7 @@ Also launching on this launch are 39 other ride-share payloads under the "Falcon
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2026/01/spacexs-twilight-rideshare-mission-vandenberg/" >🔗</a> **[NASASpaceflight]** SpaceX’s Twilight rideshare mission set to fly from Vandenberg
 - <a href="https://spaceflightnow.com/2026/01/10/live-coverage-spacex-to-launch-1st-twilight-rideshare-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 1st ‘Twilight’ rideshare mission
 - <a href="https://science.nasa.gov/universe/exoplanets/nasas-pandora-satellite-cubesats-to-explore-exoplanets-beyond/" >🔗</a> **[NASA]** NASA’s Pandora Satellite, CubeSats to Explore Exoplanets, Beyond
 - <a href="https://www.nasaspaceflight.com/2026/01/launch-previews-20250501/" >🔗</a> **[NASASpaceflight]** Launch Previews: SpaceX and ISRO to launch rideshare missions into SSO
@@ -115,7 +116,7 @@ Also launching on this launch are 39 other ride-share payloads under the "Falcon
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260111T110136">2026-01-11 11:01:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260111T113209">2026-01-11 11:32:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
