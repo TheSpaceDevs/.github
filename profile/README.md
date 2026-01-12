@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://europeanspaceflight.com/no-urgency-to-upgrade-vega-c-booster-says-esa/" >🔗</a> **[European Spaceflight]** “No Urgency” to Upgrade Vega C Booster, Says ESA
-- <a href="https://www.spacedaily.com/reports/NASA_says_targeting_ISS_medical_evacuation_for_January_14_999.html" >🔗</a> **[SpaceDaily]** NASA says targeting ISS medical evacuation for January 14
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/susan-schuh-supporting-the-humans-in-human-spaceflight/" >🔗</a> **[NASA]** Susan Schuh: Supporting the Humans in Human Spaceflight
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-january-11-17-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy January 11-17, 2026
-- <a href="https://spacenews.com/kepler-network-to-link-ororatech-sensors-for-earth-monitoring/" >🔗</a> **[SpaceNews]** Kepler network to link OroraTech sensors for Earth monitoring
-- <a href="https://spacenews.com/nasa-astrophysics-commercial-satellites-launch-on-spacex-rideshare-mission/" >🔗</a> **[SpaceNews]** NASA astrophysics, commercial satellites launch on SpaceX rideshare mission
-- <a href="https://www.nasaspaceflight.com/2026/01/spacexs-twilight-rideshare-mission-vandenberg/" >🔗</a> **[NASASpaceflight]** SpaceX’s Twilight rideshare mission set to fly from Vandenberg
-- <a href="https://spaceflightnow.com/2026/01/10/live-coverage-spacex-to-launch-1st-twilight-rideshare-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 1st ‘Twilight’ rideshare mission
-- <a href="https://spacepolicyonline.com/news/nasa-gearing-up-for-artemis-ii-launch/" >🔗</a> **[SpacePolicyOnline.com]** NASA Gearing Up for Artemis II Launch
-- <a href="https://spacenews.com/crew-11-to-make-early-return-jan-15/" >🔗</a> **[SpaceNews]** Crew-11 to make early return Jan. 15
+- <a href="https://www.spacedaily.com/reports/Surrey_Japan_team_to_probe_short_lived_atomic_nuclei_in_cosmic_element_quest_999.html" >🔗</a> **[SpaceDaily]** Surrey Japan team to probe short lived atomic nuclei in cosmic element quest
+- <a href="https://www.spacedaily.com/reports/Giant_amoeba_virus_ushikuvirus_sheds_light_on_how_complex_cells_evolved_999.html" >🔗</a> **[SpaceDaily]** Giant amoeba virus ushikuvirus sheds light on how complex cells evolved
+- <a href="https://www.spacedaily.com/reports/Quantum_interferometer_boosts_sensitivity_to_tiny_laser_beam_shifts_999.html" >🔗</a> **[SpaceDaily]** Quantum interferometer boosts sensitivity to tiny laser beam shifts
+- <a href="https://www.spacedaily.com/reports/Electrons_lag_behind_the_nucleus_999.html" >🔗</a> **[SpaceDaily]** Electrons lag behind the nucleus
+- <a href="https://www.spacedaily.com/reports/Asteroid_metals_harden_under_extreme_particle_blasts_999.html" >🔗</a> **[SpaceDaily]** Asteroid metals harden under extreme particle blasts
+- <a href="https://www.spacedaily.com/reports/Sentinel_1_decade_long_radar_record_tracks_shifting_Greenland_and_Antarctic_ice_999.html" >🔗</a> **[SpaceDaily]** Sentinel 1 decade long radar record tracks shifting Greenland and Antarctic ice
+- <a href="https://www.spacewar.com/reports/MDA_Space_wins_role_in_US_SHIELD_missile_defense_program_999.html" >🔗</a> **[SpaceDaily]** MDA Space wins role in US SHIELD missile defense program
+- <a href="https://www.spacedaily.com/reports/Dark_star_theory_links_JWST_early_universe_anomalies_999.html" >🔗</a> **[SpaceDaily]** Dark star theory links JWST early universe anomalies
+- <a href="https://www.spacedaily.com/reports/Creating_hallucination_free_psychedelic_like_molecules_by_shining_light_on_lifes_basic_building_blocks_999.html" >🔗</a> **[SpaceDaily]** Creating hallucination-free, psychedelic-like molecules by shining light on life's basic building blocks
+- <a href="https://www.spacedaily.com/reports/Jets_from_black_hole_drive_record_coronal_gas_stream_in_nearby_galaxy_999.html" >🔗</a> **[SpaceDaily]** Jets from black hole drive record coronal gas stream in nearby galaxy
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260112T090503">2026-01-12 09:05:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260112T094135">2026-01-12 09:41:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
