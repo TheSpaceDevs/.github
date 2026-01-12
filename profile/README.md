@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/tyvak-internationals-lide-satellite-completes-initial-on-orbit-5g-tests/" >🔗</a> **[SpaceNews]** Tyvak International’s LIDE satellite completes initial on-orbit 5G tests
+- <a href="https://www.nasa.gov/es/ultimos-preparativos-para-la-primera-mision-tripulada-a-la-luna-con-la-campana-artemis-de-la-nasa/" >🔗</a> **[NASA]** Últimos preparativos para la primera misión tripulada a la Luna con la campaña Artemis de la NASA
+- <a href="https://spaceflightnow.com/2026/01/12/indias-pslv-suffers-second-consecutive-launch-failure-16-satellites-lost/" >🔗</a> **[Spaceflight Now]** India’s PSLV suffers second consecutive launch failure, 16 satellites lost
 - <a href="https://spacenews.com/nro-taps-capitol-hill-staffer-bill-adkins-as-principal-deputy-director/" >🔗</a> **[SpaceNews]** NRO taps Capitol Hill staffer Bill Adkins as principal deputy director
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/complement-arie-nams-reduction-to-practice-challenge/" >🔗</a> **[NASA]** Complement-ARIE NAMs Reduction to Practice Challenge
 - <a href="https://europeanspaceflight.com/eutelsat-taps-airbus-to-build-340-oneweb-satellites/" >🔗</a> **[European Spaceflight]** Eutelsat Taps Airbus To Build 340 OneWeb Satellites
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/directorates/stmd/nasa-bolsters-golden-age-of-exploration-with-technology-priorities/" >🔗</a> **[NASA]** NASA Bolsters Golden Age of Exploration with Technology Priorities
 - <a href="https://spacenews.com/space-is-becoming-an-industrial-economy/" >🔗</a> **[SpaceNews]** Space is becoming an industrial economy
 - <a href="https://science.nasa.gov/missions/hubble/hubble-spies-stellar-blast-setting-clouds-ablaze/" >🔗</a> **[NASA]** Hubble Spies Stellar Blast Setting Clouds Ablaze
-- <a href="https://spacenews.com/nasa-outlines-path-to-artemis-2-launch/" >🔗</a> **[SpaceNews]** NASA outlines path to Artemis 2 launch
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/01/Astris_infographic" >🔗</a> **[ESA]** Astris infographic
-- <a href="https://spacenews.com/applied-lessons-for-nasas-science-programs/" >🔗</a> **[SpaceNews]** Applied lessons for NASA’s science programs
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260112T160222">2026-01-12 16:02:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260112T164009">2026-01-12 16:40:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
