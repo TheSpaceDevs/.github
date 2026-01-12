@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/01/12/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-7/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacenews.com/tyvak-internationals-lide-satellite-completes-initial-on-orbit-5g-tests/" >🔗</a> **[SpaceNews]** Tyvak International’s LIDE satellite completes initial on-orbit 5G tests
 - <a href="https://www.nasa.gov/es/ultimos-preparativos-para-la-primera-mision-tripulada-a-la-luna-con-la-campana-artemis-de-la-nasa/" >🔗</a> **[NASA]** Últimos preparativos para la primera misión tripulada a la Luna con la campaña Artemis de la NASA
 - <a href="https://spaceflightnow.com/2026/01/12/indias-pslv-suffers-second-consecutive-launch-failure-16-satellites-lost/" >🔗</a> **[Spaceflight Now]** India’s PSLV suffers second consecutive launch failure, 16 satellites lost
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/ai-needs-spatial-intelligence-the-geoint-industry-will-deliver-it/" >🔗</a> **[SpaceNews]** AI needs spatial intelligence. The GEOINT industry will deliver it.
 - <a href="https://www.nasa.gov/directorates/stmd/nasa-bolsters-golden-age-of-exploration-with-technology-priorities/" >🔗</a> **[NASA]** NASA Bolsters Golden Age of Exploration with Technology Priorities
 - <a href="https://spacenews.com/space-is-becoming-an-industrial-economy/" >🔗</a> **[SpaceNews]** Space is becoming an industrial economy
-- <a href="https://science.nasa.gov/missions/hubble/hubble-spies-stellar-blast-setting-clouds-ablaze/" >🔗</a> **[NASA]** Hubble Spies Stellar Blast Setting Clouds Ablaze
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260112T170353">2026-01-12 17:03:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260112T173638">2026-01-12 17:36:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
