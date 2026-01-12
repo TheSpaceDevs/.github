@@ -89,6 +89,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/2026-civil-space-shortfall-ranking/" >🔗</a> **[NASA]** 2026 Civil Space Shortfall Ranking
 - <a href="https://www.nasa.gov/news-release/nasa-welcomes-portugal-as-60th-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Portugal as 60th Artemis Accords Signatory
 - <a href="https://www.nasa.gov/image-article/richard-wear-proud-to-serve-during-return-to-the-moon/" >🔗</a> **[NASA]** NASA Stennis Engineer Proud to Serve During NASA’s Return to the Moon
 - <a href="https://www.nasa.gov/image-article/white-dwarf-star-artists-concept/" >🔗</a> **[NASA]** White Dwarf Star (Artist’s Concept)
@@ -98,7 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2026/01/12/indias-pslv-suffers-second-consecutive-launch-failure-16-satellites-lost/" >🔗</a> **[Spaceflight Now]** India’s PSLV suffers second consecutive launch failure, 16 satellites lost
 - <a href="https://spacenews.com/nro-taps-capitol-hill-staffer-bill-adkins-as-principal-deputy-director/" >🔗</a> **[SpaceNews]** NRO taps Capitol Hill staffer Bill Adkins as principal deputy director
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/complement-arie-nams-reduction-to-practice-challenge/" >🔗</a> **[NASA]** Complement-ARIE NAMs Reduction to Practice Challenge
-- <a href="https://europeanspaceflight.com/eutelsat-taps-airbus-to-build-340-oneweb-satellites/" >🔗</a> **[European Spaceflight]** Eutelsat Taps Airbus To Build 340 OneWeb Satellites
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260112T190342">2026-01-12 19:03:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260112T193334">2026-01-12 19:33:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
