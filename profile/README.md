@@ -92,6 +92,7 @@ This launch will also carry 18 other ride-share payloads.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/susan-schuh-supporting-the-humans-in-human-spaceflight/" >🔗</a> **[NASA]** Susan Schuh: Supporting the Humans in Human Spaceflight
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-january-11-17-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy January 11-17, 2026
 - <a href="https://spacenews.com/kepler-network-to-link-ororatech-sensors-for-earth-monitoring/" >🔗</a> **[SpaceNews]** Kepler network to link OroraTech sensors for Earth monitoring
 - <a href="https://spacenews.com/nasa-astrophysics-commercial-satellites-launch-on-spacex-rideshare-mission/" >🔗</a> **[SpaceNews]** NASA astrophysics, commercial satellites launch on SpaceX rideshare mission
@@ -101,7 +102,6 @@ This launch will also carry 18 other ride-share payloads.
 - <a href="https://spacenews.com/crew-11-to-make-early-return-jan-15/" >🔗</a> **[SpaceNews]** Crew-11 to make early return Jan. 15
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasa-marshall-removes-2-historic-test-stands/" >🔗</a> **[NASA]** NASA Marshall Removes 2 Historic Test Stands
 - <a href="https://spacenews.com/fcc-approves-7500-additional-starlink-satellites/" >🔗</a> **[SpaceNews]** FCC approves 7,500 additional Starlink satellites
-- <a href="https://spacenews.com/space-force-awards-739-million-in-launch-orders-to-spacex/" >🔗</a> **[SpaceNews]** Space Force awards $739 million in launch orders to SpaceX
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ This launch will also carry 18 other ride-share payloads.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260112T004625">2026-01-12 00:46:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260112T012952">2026-01-12 01:29:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
