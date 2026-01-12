@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.spacedaily.com/reports/Surrey_Japan_team_to_probe_short_lived_atomic_nuclei_in_cosmic_element_quest_999.html" >🔗</a> **[SpaceDaily]** Surrey Japan team to probe short lived atomic nuclei in cosmic element quest
+- <a href="https://spacenews.com/indias-pslv-launch-fails-during-ascent-16-satellites-lost/" >🔗</a> **[SpaceNews]** India’s PSLV launch fails during ascent, 16 satellites lost
 - <a href="https://www.spacedaily.com/reports/Giant_amoeba_virus_ushikuvirus_sheds_light_on_how_complex_cells_evolved_999.html" >🔗</a> **[SpaceDaily]** Giant amoeba virus ushikuvirus sheds light on how complex cells evolved
-- <a href="https://www.spacedaily.com/reports/Quantum_interferometer_boosts_sensitivity_to_tiny_laser_beam_shifts_999.html" >🔗</a> **[SpaceDaily]** Quantum interferometer boosts sensitivity to tiny laser beam shifts
+- <a href="https://www.spacewar.com/reports/MDA_Space_wins_role_in_US_SHIELD_missile_defense_program_999.html" >🔗</a> **[SpaceDaily]** MDA Space wins role in US SHIELD missile defense program
 - <a href="https://www.spacedaily.com/reports/Electrons_lag_behind_the_nucleus_999.html" >🔗</a> **[SpaceDaily]** Electrons lag behind the nucleus
 - <a href="https://www.spacedaily.com/reports/Asteroid_metals_harden_under_extreme_particle_blasts_999.html" >🔗</a> **[SpaceDaily]** Asteroid metals harden under extreme particle blasts
 - <a href="https://www.spacedaily.com/reports/Sentinel_1_decade_long_radar_record_tracks_shifting_Greenland_and_Antarctic_ice_999.html" >🔗</a> **[SpaceDaily]** Sentinel 1 decade long radar record tracks shifting Greenland and Antarctic ice
-- <a href="https://www.spacewar.com/reports/MDA_Space_wins_role_in_US_SHIELD_missile_defense_program_999.html" >🔗</a> **[SpaceDaily]** MDA Space wins role in US SHIELD missile defense program
+- <a href="https://www.spacedaily.com/reports/Quantum_interferometer_boosts_sensitivity_to_tiny_laser_beam_shifts_999.html" >🔗</a> **[SpaceDaily]** Quantum interferometer boosts sensitivity to tiny laser beam shifts
 - <a href="https://www.spacedaily.com/reports/Dark_star_theory_links_JWST_early_universe_anomalies_999.html" >🔗</a> **[SpaceDaily]** Dark star theory links JWST early universe anomalies
 - <a href="https://www.spacedaily.com/reports/Creating_hallucination_free_psychedelic_like_molecules_by_shining_light_on_lifes_basic_building_blocks_999.html" >🔗</a> **[SpaceDaily]** Creating hallucination-free, psychedelic-like molecules by shining light on life's basic building blocks
-- <a href="https://www.spacedaily.com/reports/Jets_from_black_hole_drive_record_coronal_gas_stream_in_nearby_galaxy_999.html" >🔗</a> **[SpaceDaily]** Jets from black hole drive record coronal gas stream in nearby galaxy
+- <a href="https://www.spacedaily.com/reports/Surrey_Japan_team_to_probe_short_lived_atomic_nuclei_in_cosmic_element_quest_999.html" >🔗</a> **[SpaceDaily]** Surrey Japan team to probe short lived atomic nuclei in cosmic element quest
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260112T110143">2026-01-12 11:01:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260112T113407">2026-01-12 11:34:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
