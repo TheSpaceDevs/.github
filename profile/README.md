@@ -90,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-spacex-invite-media-to-watch-crew-12-launch-to-space-station/" >🔗</a> **[NASA]** NASA, SpaceX Invite Media to Watch Crew-12 Launch to Space Station
+- <a href="https://www.nasaspaceflight.com/2026/01/launch-preview-011226/" >🔗</a> **[NASASpaceflight]** Launch Preview: Launches from China, U.S., and Norway scheduled for upcoming week
+- <a href="https://arstechnica.com/space/2026/01/you-can-now-reserve-a-hotel-room-on-the-moon-for-250000/" >🔗</a> **[Arstechnica]** You can now reserve a hotel room on the Moon for $250,000
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/a-quarter-century-in-orbit-science-shaping-life-on-earth-and-beyond/" >🔗</a> **[NASA]** A Quarter Century in Orbit: Science Shaping Life on Earth and Beyond
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-cover-artemis-mission-from-johnson-space-center/" >🔗</a> **[NASA]** NASA Invites Media to Cover Artemis Mission from Johnson Space Center
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/2026-civil-space-shortfall-ranking/" >🔗</a> **[NASA]** 2026 Civil Space Shortfall Ranking
 - <a href="https://www.nasa.gov/news-release/nasa-welcomes-portugal-as-60th-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Portugal as 60th Artemis Accords Signatory
 - <a href="https://www.nasa.gov/image-article/richard-wear-proud-to-serve-during-return-to-the-moon/" >🔗</a> **[NASA]** NASA Stennis Engineer Proud to Serve During NASA’s Return to the Moon
 - <a href="https://www.nasa.gov/image-article/white-dwarf-star-artists-concept/" >🔗</a> **[NASA]** White Dwarf Star (Artist’s Concept)
 - <a href="https://spaceflightnow.com/2026/01/12/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-7/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral
-- <a href="https://spacenews.com/tyvak-internationals-lide-satellite-completes-initial-on-orbit-5g-tests/" >🔗</a> **[SpaceNews]** Tyvak International’s LIDE satellite completes initial on-orbit 5G tests
-- <a href="https://www.nasa.gov/es/ultimos-preparativos-para-la-primera-mision-tripulada-a-la-luna-con-la-campana-artemis-de-la-nasa/" >🔗</a> **[NASA]** Últimos preparativos para la primera misión tripulada a la Luna con la campaña Artemis de la NASA
-- <a href="https://spaceflightnow.com/2026/01/12/indias-pslv-suffers-second-consecutive-launch-failure-16-satellites-lost/" >🔗</a> **[Spaceflight Now]** India’s PSLV suffers second consecutive launch failure, 16 satellites lost
-- <a href="https://spacenews.com/nro-taps-capitol-hill-staffer-bill-adkins-as-principal-deputy-director/" >🔗</a> **[SpaceNews]** NRO taps Capitol Hill staffer Bill Adkins as principal deputy director
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260112T230113">2026-01-12 23:01:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260112T233137">2026-01-12 23:31:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
