@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacedaily.com/reports/NASA_says_targeting_ISS_medical_evacuation_for_January_14_999.html" >🔗</a> **[SpaceDaily]** NASA says targeting ISS medical evacuation for January 14
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/susan-schuh-supporting-the-humans-in-human-spaceflight/" >🔗</a> **[NASA]** Susan Schuh: Supporting the Humans in Human Spaceflight
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-january-11-17-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy January 11-17, 2026
 - <a href="https://spacenews.com/kepler-network-to-link-ororatech-sensors-for-earth-monitoring/" >🔗</a> **[SpaceNews]** Kepler network to link OroraTech sensors for Earth monitoring
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/nasa-gearing-up-for-artemis-ii-launch/" >🔗</a> **[SpacePolicyOnline.com]** NASA Gearing Up for Artemis II Launch
 - <a href="https://spacenews.com/crew-11-to-make-early-return-jan-15/" >🔗</a> **[SpaceNews]** Crew-11 to make early return Jan. 15
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasa-marshall-removes-2-historic-test-stands/" >🔗</a> **[NASA]** NASA Marshall Removes 2 Historic Test Stands
-- <a href="https://spacenews.com/fcc-approves-7500-additional-starlink-satellites/" >🔗</a> **[SpaceNews]** FCC approves 7,500 additional Starlink satellites
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260112T060252">2026-01-12 06:02:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260112T064304">2026-01-12 06:43:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
