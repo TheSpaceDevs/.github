@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-outlines-path-to-artemis-2-launch/" >🔗</a> **[SpaceNews]** NASA outlines path to Artemis 2 launch
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/01/Astris_infographic" >🔗</a> **[ESA]** Astris infographic
 - <a href="https://spacenews.com/applied-lessons-for-nasas-science-programs/" >🔗</a> **[SpaceNews]** Applied lessons for NASA’s science programs
 - <a href="https://spacenews.com/this-year-must-bring-greater-collaboration-against-orbital-congestion/" >🔗</a> **[SpaceNews]** This year must bring greater collaboration against orbital congestion
 - <a href="https://spacenews.com/indias-pslv-launch-fails-during-ascent-16-satellites-lost/" >🔗</a> **[SpaceNews]** India’s PSLV launch fails during ascent, 16 satellites lost
+- <a href="https://www.spacewar.com/reports/MDA_Space_wins_role_in_US_SHIELD_missile_defense_program_999.html" >🔗</a> **[SpaceDaily]** MDA Space wins role in US SHIELD missile defense program
+- <a href="https://www.spacedaily.com/reports/Sentinel_1_decade_long_radar_record_tracks_shifting_Greenland_and_Antarctic_ice_999.html" >🔗</a> **[SpaceDaily]** Sentinel 1 decade long radar record tracks shifting Greenland and Antarctic ice
 - <a href="https://www.spacedaily.com/reports/Dark_star_theory_links_JWST_early_universe_anomalies_999.html" >🔗</a> **[SpaceDaily]** Dark star theory links JWST early universe anomalies
 - <a href="https://www.spacedaily.com/reports/Asteroid_metals_harden_under_extreme_particle_blasts_999.html" >🔗</a> **[SpaceDaily]** Asteroid metals harden under extreme particle blasts
-- <a href="https://www.spacedaily.com/reports/Sentinel_1_decade_long_radar_record_tracks_shifting_Greenland_and_Antarctic_ice_999.html" >🔗</a> **[SpaceDaily]** Sentinel 1 decade long radar record tracks shifting Greenland and Antarctic ice
-- <a href="https://www.spacewar.com/reports/MDA_Space_wins_role_in_US_SHIELD_missile_defense_program_999.html" >🔗</a> **[SpaceDaily]** MDA Space wins role in US SHIELD missile defense program
 - <a href="https://www.spacedaily.com/reports/Creating_hallucination_free_psychedelic_like_molecules_by_shining_light_on_lifes_basic_building_blocks_999.html" >🔗</a> **[SpaceDaily]** Creating hallucination-free, psychedelic-like molecules by shining light on life's basic building blocks
-- <a href="https://www.spacedaily.com/reports/Electrons_lag_behind_the_nucleus_999.html" >🔗</a> **[SpaceDaily]** Electrons lag behind the nucleus
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260112T124412">2026-01-12 12:44:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260112T131425">2026-01-12 13:14:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
