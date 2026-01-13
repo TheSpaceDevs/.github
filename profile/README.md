@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/01/starship-infrastructure-progress-starbase-cape/" >🔗</a> **[NASASpaceflight]** Starship launch infrastructure progress at Starbase/Cape ahead of 2026 Launches
+- <a href="https://www.nasa.gov/image-article/nasas-pandora-small-satellite-launched/" >🔗</a> **[NASA]** NASA’s Pandora Small Satellite Launched
 - <a href="https://spacenews.com/esa-and-clearspace-announce-prelude-in-orbit-servicing-and-debris-removal-mission/" >🔗</a> **[SpaceNews]** ESA and ClearSpace announce PRELUDE in-orbit servicing and debris removal mission
 - <a href="https://www.nasa.gov/news-release/nasa-department-of-energy-to-develop-lunar-surface-reactor-by-2030/" >🔗</a> **[NASA]** NASA, Department of Energy to Develop Lunar Surface Reactor by 2030
 - <a href="https://spacenews.com/pentagon-commits-1-billion-to-l3harris-missile-unit-as-anchor-investor/" >🔗</a> **[SpaceNews]** Pentagon commits $1 billion to L3Harris missile unit as ‘anchor investor’
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.spacedaily.com/reports/Iron_rich_asteroids_show_surprising_resilience_in_impact_simulation_study_999.html" >🔗</a> **[SpaceDaily]** Iron rich asteroids show surprising resilience in impact simulation study
 - <a href="https://www.spacedaily.com/reports/Pandora_exoplanet_mission_checks_in_after_launch_999.html" >🔗</a> **[SpaceDaily]** Pandora exoplanet mission checks in after launch
 - <a href="https://www.spacedaily.com/reports/Bright_supernova_offers_new_view_of_black_hole_birth_999.html" >🔗</a> **[SpaceDaily]** Bright supernova offers new view of black hole birth
-- <a href="https://www.spacedaily.com/reports/PH_1_test_flight_advances_Chinese_reusable_suborbital_spacecraft_plans_999.html" >🔗</a> **[SpaceDaily]** PH-1 test flight advances Chinese reusable suborbital spacecraft plans
-- <a href="https://www.moondaily.com/reports/Ancient_impact_may_explain_moons_contrasting_sides_999.html" >🔗</a> **[SpaceDaily]** Ancient impact may explain moons contrasting sides
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260113T220123">2026-01-13 22:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260113T223712">2026-01-13 22:37:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
