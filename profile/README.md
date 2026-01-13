@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/01/13/iss-gains-new-commander-as-crew-11-prepares-midweek-departure/" >🔗</a> **[Spaceflight Now]** ISS gains new commander as Crew-11 prepares midweek departure
 - <a href="https://spacenews.com/portugal-signs-the-artemis-accords/" >🔗</a> **[SpaceNews]** Portugal signs the Artemis Accords
 - <a href="https://www.nasa.gov/news-release/nasa-spacex-invite-media-to-watch-crew-12-launch-to-space-station/" >🔗</a> **[NASA]** NASA, SpaceX Invite Media to Watch Crew-12 Launch to Space Station
 - <a href="https://www.nasaspaceflight.com/2026/01/launch-preview-011226/" >🔗</a> **[NASASpaceflight]** Launch Preview: Launches from China, U.S., and Norway scheduled for upcoming week
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/2026-civil-space-shortfall-ranking/" >🔗</a> **[NASA]** 2026 Civil Space Shortfall Ranking
 - <a href="https://www.nasa.gov/news-release/nasa-welcomes-portugal-as-60th-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Portugal as 60th Artemis Accords Signatory
 - <a href="https://www.nasa.gov/image-article/richard-wear-proud-to-serve-during-return-to-the-moon/" >🔗</a> **[NASA]** NASA Stennis Engineer Proud to Serve During NASA’s Return to the Moon
-- <a href="https://www.nasa.gov/image-article/white-dwarf-star-artists-concept/" >🔗</a> **[NASA]** White Dwarf Star (Artist’s Concept)
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260113T004556">2026-01-13 00:45:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260113T012930">2026-01-13 01:29:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
