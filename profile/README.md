@@ -90,6 +90,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/esa-adjusts-scope-of-phase-2-of-its-leo-cargo-return-services-initiative/" >🔗</a> **[European Spaceflight]** ESA Adjusts Scope of Phase 2 of its LEO Cargo Return Services Initiative
+- <a href="https://spacenews.com/orbion-delivers-33-electric-thrusters-to-york-space-for-u-s-military-constellation/" >🔗</a> **[SpaceNews]** Orbion delivers 33 electric thrusters to York Space for U.S. military constellation
+- <a href="https://spacenews.com/2026-will-be-the-year-of-space-nuclear-power-and-surviving-the-lunar-night/" >🔗</a> **[SpaceNews]** 2026 will be the year of space nuclear power and surviving the lunar night
 - <a href="https://spacenews.com/eutelsat-orders-340-additional-satellites-to-replenish-oneweb-constellation/" >🔗</a> **[SpaceNews]** Eutelsat orders 340 additional satellites to replenish OneWeb constellation
 - <a href="https://science.nasa.gov/missions/webb/nasas-webb-delivers-unprecedented-look-into-heart-of-circinus-galaxy/" >🔗</a> **[NASA]** NASA’s Webb Delivers Unprecedented Look Into Heart of Circinus Galaxy
 - <a href="https://spacenews.com/aerospacelab-to-build-eight-satellites-for-xonas-navigation-constellation/" >🔗</a> **[SpaceNews]** Aerospacelab to build eight satellites for Xona’s navigation constellation
@@ -97,9 +100,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/earth/earth-observatory/a-plume-of-bright-blue-in-melissas-wake/" >🔗</a> **[NASA]** A Plume of Bright Blue in Melissa’s Wake
 - <a href="https://spacepolicyonline.com/news/artemis-accords-reach-another-milestone-with-portugal/" >🔗</a> **[SpacePolicyOnline.com]** Artemis Accords Reach Another Milestone with Portugal
 - <a href="https://spaceflightnow.com/2026/01/13/iss-gains-new-commander-as-crew-11-prepares-midweek-departure/" >🔗</a> **[Spaceflight Now]** ISS gains new commander as Crew-11 prepares midweek departure
-- <a href="https://spacenews.com/portugal-signs-the-artemis-accords/" >🔗</a> **[SpaceNews]** Portugal signs the Artemis Accords
-- <a href="https://www.nasa.gov/news-release/nasa-spacex-invite-media-to-watch-crew-12-launch-to-space-station/" >🔗</a> **[NASA]** NASA, SpaceX Invite Media to Watch Crew-12 Launch to Space Station
-- <a href="https://www.nasaspaceflight.com/2026/01/launch-preview-011226/" >🔗</a> **[NASASpaceflight]** Launch Preview: Launches from China, U.S., and Norway scheduled for upcoming week
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260113T120209">2026-01-13 12:02:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260113T124405">2026-01-13 12:44:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
