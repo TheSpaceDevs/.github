@@ -90,6 +90,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/eutelsat-orders-340-additional-satellites-to-replenish-oneweb-constellation/" >🔗</a> **[SpaceNews]** Eutelsat orders 340 additional satellites to replenish OneWeb constellation
+- <a href="https://science.nasa.gov/missions/webb/nasas-webb-delivers-unprecedented-look-into-heart-of-circinus-galaxy/" >🔗</a> **[NASA]** NASA’s Webb Delivers Unprecedented Look Into Heart of Circinus Galaxy
+- <a href="https://spacenews.com/aerospacelab-to-build-eight-satellites-for-xonas-navigation-constellation/" >🔗</a> **[SpaceNews]** Aerospacelab to build eight satellites for Xona’s navigation constellation
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/01/ATD_water-cooled_throttleable_engine_firing" >🔗</a> **[ESA]** ATD water-cooled throttleable engine firing
 - <a href="https://science.nasa.gov/earth/earth-observatory/a-plume-of-bright-blue-in-melissas-wake/" >🔗</a> **[NASA]** A Plume of Bright Blue in Melissa’s Wake
 - <a href="https://spacepolicyonline.com/news/artemis-accords-reach-another-milestone-with-portugal/" >🔗</a> **[SpacePolicyOnline.com]** Artemis Accords Reach Another Milestone with Portugal
@@ -97,18 +100,16 @@ into *an Unknown
 - <a href="https://spacenews.com/portugal-signs-the-artemis-accords/" >🔗</a> **[SpaceNews]** Portugal signs the Artemis Accords
 - <a href="https://www.nasa.gov/news-release/nasa-spacex-invite-media-to-watch-crew-12-launch-to-space-station/" >🔗</a> **[NASA]** NASA, SpaceX Invite Media to Watch Crew-12 Launch to Space Station
 - <a href="https://www.nasaspaceflight.com/2026/01/launch-preview-011226/" >🔗</a> **[NASASpaceflight]** Launch Preview: Launches from China, U.S., and Norway scheduled for upcoming week
-- <a href="https://arstechnica.com/space/2026/01/you-can-now-reserve-a-hotel-room-on-the-moon-for-250000/" >🔗</a> **[Arstechnica]** You can now reserve a hotel room on the Moon for $250,000
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/a-quarter-century-in-orbit-science-shaping-life-on-earth-and-beyond/" >🔗</a> **[NASA]** A Quarter Century in Orbit: Science Shaping Life on Earth and Beyond
-- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-cover-artemis-mission-from-johnson-space-center/" >🔗</a> **[NASA]** NASA Invites Media to Cover Artemis Mission from Johnson Space Center
 
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2026/01/launch-preview-011226/" >🔗</a> **[NASASpaceflight]** Launch Preview: Launches from China, U.S., and Norway scheduled for upcoming week
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260113T100202">2026-01-13 10:02:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260113T103901">2026-01-13 10:39:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
