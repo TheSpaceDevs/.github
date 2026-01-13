@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-to-provide-live-coverage-of-crew-11-return-splashdown/" >🔗</a> **[NASA]** NASA to Provide Live Coverage of Crew-11 Return, Splashdown
 - <a href="https://www.nasaspaceflight.com/2026/01/starship-infrastructure-progress-starbase-cape/" >🔗</a> **[NASASpaceflight]** Starship launch infrastructure progress at Starbase/Cape ahead of 2026 Launches
 - <a href="https://www.nasa.gov/image-article/nasas-pandora-small-satellite-launched/" >🔗</a> **[NASA]** NASA’s Pandora Small Satellite Launched
 - <a href="https://spacenews.com/esa-and-clearspace-announce-prelude-in-orbit-servicing-and-debris-removal-mission/" >🔗</a> **[SpaceNews]** ESA and ClearSpace announce PRELUDE in-orbit servicing and debris removal mission
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/theres-no-end-in-sight-for-a-space-nuclear-renaissance/" >🔗</a> **[SpaceNews]** There’s no end in sight for a space ‘nuclear renaissance’
 - <a href="https://www.spacedaily.com/reports/Iron_rich_asteroids_show_surprising_resilience_in_impact_simulation_study_999.html" >🔗</a> **[SpaceDaily]** Iron rich asteroids show surprising resilience in impact simulation study
 - <a href="https://www.spacedaily.com/reports/Pandora_exoplanet_mission_checks_in_after_launch_999.html" >🔗</a> **[SpaceDaily]** Pandora exoplanet mission checks in after launch
-- <a href="https://www.spacedaily.com/reports/Bright_supernova_offers_new_view_of_black_hole_birth_999.html" >🔗</a> **[SpaceDaily]** Bright supernova offers new view of black hole birth
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260113T230121">2026-01-13 23:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260113T233243">2026-01-13 23:32:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
