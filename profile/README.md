@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/earth-observatory/a-plume-of-bright-blue-in-melissas-wake/" >🔗</a> **[NASA]** A Plume of Bright Blue in Melissa’s Wake
 - <a href="https://spacepolicyonline.com/news/artemis-accords-reach-another-milestone-with-portugal/" >🔗</a> **[SpacePolicyOnline.com]** Artemis Accords Reach Another Milestone with Portugal
 - <a href="https://spaceflightnow.com/2026/01/13/iss-gains-new-commander-as-crew-11-prepares-midweek-departure/" >🔗</a> **[Spaceflight Now]** ISS gains new commander as Crew-11 prepares midweek departure
 - <a href="https://spacenews.com/portugal-signs-the-artemis-accords/" >🔗</a> **[SpaceNews]** Portugal signs the Artemis Accords
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/a-quarter-century-in-orbit-science-shaping-life-on-earth-and-beyond/" >🔗</a> **[NASA]** A Quarter Century in Orbit: Science Shaping Life on Earth and Beyond
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-cover-artemis-mission-from-johnson-space-center/" >🔗</a> **[NASA]** NASA Invites Media to Cover Artemis Mission from Johnson Space Center
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/2026-civil-space-shortfall-ranking/" >🔗</a> **[NASA]** 2026 Civil Space Shortfall Ranking
-- <a href="https://www.nasa.gov/news-release/nasa-welcomes-portugal-as-60th-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Portugal as 60th Artemis Accords Signatory
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260113T050443">2026-01-13 05:04:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260113T053826">2026-01-13 05:38:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
