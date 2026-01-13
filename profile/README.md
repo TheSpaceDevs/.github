@@ -90,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.esa.int/Space_Safety/Planetary_Defence/10_asteroids_named_to_honour_ESA_s_role_in_Planetary_Defence" >🔗</a> **[ESA]** 10 asteroids named to honour ESA’s role in Planetary Defence
-- <a href="https://europeanspaceflight.com/esa-adjusts-scope-of-phase-2-of-its-leo-cargo-return-services-initiative/" >🔗</a> **[European Spaceflight]** ESA Adjusts Scope of Phase 2 of its LEO Cargo Return Services Initiative
-- <a href="https://spacenews.com/2026-will-be-the-year-of-space-nuclear-power-and-surviving-the-lunar-night/" >🔗</a> **[SpaceNews]** 2026 will be the year of space nuclear power and surviving the lunar night
-- <a href="https://spacenews.com/orbion-delivers-33-electric-thrusters-to-york-space-for-u-s-military-constellation/" >🔗</a> **[SpaceNews]** Orbion delivers 33 electric thrusters to York Space for U.S. military constellation
-- <a href="https://spacenews.com/eutelsat-orders-340-additional-satellites-to-replenish-oneweb-constellation/" >🔗</a> **[SpaceNews]** Eutelsat orders 340 additional satellites to replenish OneWeb constellation
-- <a href="https://spacenews.com/aerospacelab-to-build-eight-satellites-for-xonas-navigation-constellation/" >🔗</a> **[SpaceNews]** Aerospacelab to build eight satellites for Xona’s navigation constellation
-- <a href="https://science.nasa.gov/missions/webb/nasas-webb-delivers-unprecedented-look-into-heart-of-circinus-galaxy/" >🔗</a> **[NASA]** NASA’s Webb Delivers Unprecedented Look Into Heart of Circinus Galaxy
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/01/ATD_water-cooled_throttleable_engine_firing" >🔗</a> **[ESA]** ATD water-cooled throttleable engine firing
-- <a href="https://science.nasa.gov/earth/earth-observatory/a-plume-of-bright-blue-in-melissas-wake/" >🔗</a> **[NASA]** A Plume of Bright Blue in Melissa’s Wake
-- <a href="https://spacepolicyonline.com/news/artemis-accords-reach-another-milestone-with-portugal/" >🔗</a> **[SpacePolicyOnline.com]** Artemis Accords Reach Another Milestone with Portugal
+- <a href="https://www.spacedaily.com/reports/Jet_from_galaxy_black_hole_drives_vast_stream_of_super_heated_gas_into_space_999.html" >🔗</a> **[SpaceDaily]** Jet from galaxy black hole drives vast stream of super heated gas into space
+- <a href="https://www.spacedaily.com/reports/Bright_supernova_offers_new_view_of_black_hole_birth_999.html" >🔗</a> **[SpaceDaily]** Bright supernova offers new view of black hole birth
+- <a href="https://www.spacedaily.com/reports/Mixed_crystal_phase_of_superionic_water_mapped_inside_giant_planets_999.html" >🔗</a> **[SpaceDaily]** Mixed crystal phase of superionic water mapped inside giant planets
+- <a href="https://www.moondaily.com/reports/Ancient_impact_may_explain_moons_contrasting_sides_999.html" >🔗</a> **[SpaceDaily]** Ancient impact may explain moons contrasting sides
+- <a href="https://www.spacedaily.com/reports/Pandora_exoplanet_mission_checks_in_after_launch_999.html" >🔗</a> **[SpaceDaily]** Pandora exoplanet mission checks in after launch
+- <a href="https://www.spacedaily.com/reports/Iron_rich_asteroids_show_surprising_resilience_in_impact_simulation_study_999.html" >🔗</a> **[SpaceDaily]** Iron rich asteroids show surprising resilience in impact simulation study
+- <a href="https://www.marsdaily.com/reports/Ancient_deltas_reveal_vast_Martian_ocean_across_northern_hemisphere_999.html" >🔗</a> **[SpaceDaily]** Ancient deltas reveal vast Martian ocean across northern hemisphere
+- <a href="https://www.marsdaily.com/reports/Tiny_Mars_big_impact_on_Earths_climate_999.html" >🔗</a> **[SpaceDaily]** Tiny Mars' big impact on Earth's climate
+- <a href="https://www.spacedaily.com/reports/PH_1_test_flight_advances_Chinese_reusable_suborbital_spacecraft_plans_999.html" >🔗</a> **[SpaceDaily]** PH-1 test flight advances Chinese reusable suborbital spacecraft plans
+- <a href="https://www.spacedaily.com/reports/China_outlines_mega_constellations_in_ITU_satellite_filings_999.html" >🔗</a> **[SpaceDaily]** China outlines mega constellations in ITU satellite filings
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260113T134309">2026-01-13 13:43:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260113T140318">2026-01-13 14:03:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
