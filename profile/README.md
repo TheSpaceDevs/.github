@@ -90,26 +90,27 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.spacedaily.com/reports/Blue_Origin_and_Nimbus_validate_fuel_cells_for_lunar_life_support_999.html" >🔗</a> **[SpaceDaily]** Blue Origin and Nimbus validate fuel cells for lunar life support
-- <a href="https://www.spacedaily.com/reports/Fueling_research_in_nuclear_thermal_propulsion_999.html" >🔗</a> **[SpaceDaily]** Fueling research in nuclear thermal propulsion
-- <a href="https://www.spacedaily.com/reports/Quantum_camera_startup_plans_satellite_and_telescope_constellations_999.html" >🔗</a> **[SpaceDaily]** Quantum camera startup plans satellite and telescope constellations
-- <a href="https://www.spacedaily.com/reports/Space_station_study_reveals_unusual_virus_bacteria_dynamics_in_microgravity_999.html" >🔗</a> **[SpaceDaily]** Space station study reveals unusual virus bacteria dynamics in microgravity
-- <a href="https://www.spacedaily.com/reports/Indian_rocket_hits_snag_during_launch_999.html" >🔗</a> **[SpaceDaily]** Indian rocket hits snag during launch
-- <a href="https://www.spacedaily.com/reports/NASA_heavy_ion_tests_confirm_Sakura_II_AI_chip_for_orbital_and_lunar_use_999.html" >🔗</a> **[SpaceDaily]** NASA heavy ion tests confirm Sakura II AI chip for orbital and lunar use
+- <a href="https://www.spacedaily.com/reports/How_IVRT_Testing_Ensures_Consistent_Product_Quality_999.html" >🔗</a> **[SpaceDaily]** How IVRT Testing Ensures Consistent Product Quality
+- <a href="https://www.robodaily.com/reports/Musk_vs_OpenAI_trial_set_for_April_27_999.html" >🔗</a> **[SpaceDaily]** Musk vs OpenAI trial set for April 27
+- <a href="https://www.spacedaily.com/reports/Quantum_light_switch_built_from_atomically_thin_mirror_999.html" >🔗</a> **[SpaceDaily]** Quantum light switch built from atomically thin mirror
+- <a href="https://www.spacedaily.com/reports/Quantum_key_method_enables_redundant_storage_of_qubit_data_999.html" >🔗</a> **[SpaceDaily]** Quantum key method enables redundant storage of qubit data
 - <a href="https://www.spacedaily.com/reports/Nullspace_speeds_antenna_and_radar_simulations_with_new_EM_software_tools_999.html" >🔗</a> **[SpaceDaily]** Nullspace speeds antenna and radar simulations with new EM software tools
 - <a href="https://www.spacedaily.com/reports/Berkeley_Scientists_set_to_home_in_on_100_signals_from_Seti_at_Home_999.html" >🔗</a> **[SpaceDaily]** Berkeley Scientists set to home in on 100 signals from Seti at Home
-- <a href="https://www.spacedaily.com/reports/Firefly_prepares_Alpha_Block_II_upgrade_for_Flight_8_999.html" >🔗</a> **[SpaceDaily]** Firefly prepares Alpha Block II upgrade for Flight 8
-- <a href="https://www.spacedaily.com/reports/Superheavy_lift_rockets_like_SpaceXs_Starship_could_transform_astronomy_by_making_space_telescopes_cheaper_999.html" >🔗</a> **[SpaceDaily]** Superheavy-lift rockets like SpaceX's Starship could transform astronomy by making space telescopes cheaper
+- <a href="https://www.spacedaily.com/reports/Fueling_research_in_nuclear_thermal_propulsion_999.html" >🔗</a> **[SpaceDaily]** Fueling research in nuclear thermal propulsion
+- <a href="https://www.spacedaily.com/reports/Space_station_study_reveals_unusual_virus_bacteria_dynamics_in_microgravity_999.html" >🔗</a> **[SpaceDaily]** Space station study reveals unusual virus bacteria dynamics in microgravity
+- <a href="https://www.spacedaily.com/reports/NASA_heavy_ion_tests_confirm_Sakura_II_AI_chip_for_orbital_and_lunar_use_999.html" >🔗</a> **[SpaceDaily]** NASA heavy ion tests confirm Sakura II AI chip for orbital and lunar use
+- <a href="https://www.spacedaily.com/reports/Indian_rocket_hits_snag_during_launch_999.html" >🔗</a> **[SpaceDaily]** Indian rocket hits snag during launch
 
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2026/01/14/live-coverage-spacex-to-launch-midweek-starlink-mission-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch midweek Starlink mission on Falcon 9 rocket from Cape Canaveral
 - <a href="https://www.nasaspaceflight.com/2026/01/launch-preview-011226/" >🔗</a> **[NASASpaceflight]** Launch Preview: Launches from China, U.S., and Norway scheduled for upcoming week
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260114T070359">2026-01-14 07:03:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260114T073654">2026-01-14 07:36:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
