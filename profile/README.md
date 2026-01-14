@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/sweden-to-acquire-10-surveillance-satellites-for-e121-million/" >🔗</a> **[European Spaceflight]** Sweden to Acquire 10 Surveillance Satellites for €121 Million
 - <a href="https://www.spacedaily.com/reports/How_IVRT_Testing_Ensures_Consistent_Product_Quality_999.html" >🔗</a> **[SpaceDaily]** How IVRT Testing Ensures Consistent Product Quality
 - <a href="https://www.robodaily.com/reports/Musk_vs_OpenAI_trial_set_for_April_27_999.html" >🔗</a> **[SpaceDaily]** Musk vs OpenAI trial set for April 27
-- <a href="https://www.spacedaily.com/reports/Quantum_light_switch_built_from_atomically_thin_mirror_999.html" >🔗</a> **[SpaceDaily]** Quantum light switch built from atomically thin mirror
 - <a href="https://www.spacedaily.com/reports/Quantum_key_method_enables_redundant_storage_of_qubit_data_999.html" >🔗</a> **[SpaceDaily]** Quantum key method enables redundant storage of qubit data
-- <a href="https://www.spacedaily.com/reports/Nullspace_speeds_antenna_and_radar_simulations_with_new_EM_software_tools_999.html" >🔗</a> **[SpaceDaily]** Nullspace speeds antenna and radar simulations with new EM software tools
+- <a href="https://www.spacedaily.com/reports/Quantum_light_switch_built_from_atomically_thin_mirror_999.html" >🔗</a> **[SpaceDaily]** Quantum light switch built from atomically thin mirror
 - <a href="https://www.spacedaily.com/reports/Berkeley_Scientists_set_to_home_in_on_100_signals_from_Seti_at_Home_999.html" >🔗</a> **[SpaceDaily]** Berkeley Scientists set to home in on 100 signals from Seti at Home
+- <a href="https://www.spacedaily.com/reports/Nullspace_speeds_antenna_and_radar_simulations_with_new_EM_software_tools_999.html" >🔗</a> **[SpaceDaily]** Nullspace speeds antenna and radar simulations with new EM software tools
 - <a href="https://www.spacedaily.com/reports/Fueling_research_in_nuclear_thermal_propulsion_999.html" >🔗</a> **[SpaceDaily]** Fueling research in nuclear thermal propulsion
 - <a href="https://www.spacedaily.com/reports/Space_station_study_reveals_unusual_virus_bacteria_dynamics_in_microgravity_999.html" >🔗</a> **[SpaceDaily]** Space station study reveals unusual virus bacteria dynamics in microgravity
 - <a href="https://www.spacedaily.com/reports/NASA_heavy_ion_tests_confirm_Sakura_II_AI_chip_for_orbital_and_lunar_use_999.html" >🔗</a> **[SpaceDaily]** NASA heavy ion tests confirm Sakura II AI chip for orbital and lunar use
-- <a href="https://www.spacedaily.com/reports/Indian_rocket_hits_snag_during_launch_999.html" >🔗</a> **[SpaceDaily]** Indian rocket hits snag during launch
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260114T090426">2026-01-14 09:04:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260114T093925">2026-01-14 09:39:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
