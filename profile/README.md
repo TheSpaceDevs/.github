@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/bringing-outsiders-into-the-space-fold/" >🔗</a> **[SpaceNews]** Bringing outsiders into the space fold
 - <a href="https://spacenews.com/when-allies-cant-count-on-u-s-isr-commercial-space-becomes-strategic/" >🔗</a> **[SpaceNews]** When allies can’t count on U.S. ISR, commercial space becomes strategic
 - <a href="https://spacenews.com/nasa-pessimistic-about-odds-of-recovering-maven/" >🔗</a> **[SpaceNews]** NASA pessimistic about odds of recovering MAVEN
 - <a href="https://spacenews.com/space-operations-will-become-more-dynamic-this-year/" >🔗</a> **[SpaceNews]** Space operations will become more dynamic this year
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/sweden-to-acquire-10-surveillance-satellites-for-e121-million/" >🔗</a> **[European Spaceflight]** Sweden to Acquire 10 Surveillance Satellites for €121 Million
 - <a href="https://www.spacedaily.com/reports/Quantum_light_switch_built_from_atomically_thin_mirror_999.html" >🔗</a> **[SpaceDaily]** Quantum light switch built from atomically thin mirror
 - <a href="https://www.spacedaily.com/reports/Quantum_key_method_enables_redundant_storage_of_qubit_data_999.html" >🔗</a> **[SpaceDaily]** Quantum key method enables redundant storage of qubit data
-- <a href="https://www.robodaily.com/reports/Musk_vs_OpenAI_trial_set_for_April_27_999.html" >🔗</a> **[SpaceDaily]** Musk vs OpenAI trial set for April 27
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260114T134251">2026-01-14 13:42:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260114T140319">2026-01-14 14:03:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
