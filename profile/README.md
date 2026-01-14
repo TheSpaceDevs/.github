@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://science.nasa.gov/earth/earth-observatory/fire-on-ice-the-arctics-changing-fire-regime/" >🔗</a> **[NASA]** Fire on Ice: The Arctic’s Changing Fire Regime
-- <a href="https://science.nasa.gov/earth/earth-observatory/fires-on-the-rise-in-the-far-north/" >🔗</a> **[NASA]** Fires on the Rise in the Far North
-- <a href="https://www.nasaspaceflight.com/2026/01/indias-pslv-solve-third-stage-second-failure/" >🔗</a> **[NASASpaceflight]** India’s workhorse PSLV needs to solve third stage issue following second consecutive failure
-- <a href="https://spacenews.com/firefly-to-upgrade-alpha-rocket-to-improve-reliability/" >🔗</a> **[SpaceNews]** Firefly to upgrade Alpha rocket to improve reliability
-- <a href="https://spacenews.com/congressional-hearing-highlights-militarys-reliance-on-noaa-data/" >🔗</a> **[SpaceNews]** Congressional hearing highlights military’s reliance on NOAA data
-- <a href="https://spaceflightnow.com/2026/01/14/live-coverage-spacex-to-launch-midweek-starlink-mission-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch midweek Starlink mission on Falcon 9 rocket from Cape Canaveral
-- <a href="https://www.nasa.gov/news-release/la-nasa-transmitira-en-directo-el-regreso-y-el-amerizaje-de-crew-11/" >🔗</a> **[NASA]** La NASA transmitirá en directo el regreso y el amerizaje de Crew 11
-- <a href="https://spaceflightnow.com/2026/01/13/u-s-space-force-switches-rockets-for-upcoming-gps-satellite-launch/" >🔗</a> **[Spaceflight Now]** U.S. Space Force switches rockets for upcoming GPS satellite launch
-- <a href="https://www.nasa.gov/news-release/nasa-to-provide-live-coverage-of-crew-11-return-splashdown/" >🔗</a> **[NASA]** NASA to Provide Live Coverage of Crew-11 Return, Splashdown
-- <a href="https://www.nasaspaceflight.com/2026/01/starship-infrastructure-progress-starbase-cape/" >🔗</a> **[NASASpaceflight]** Starship launch infrastructure progress at Starbase/Cape ahead of 2026 Launches
+- <a href="https://www.spacedaily.com/reports/Blue_Origin_and_Nimbus_validate_fuel_cells_for_lunar_life_support_999.html" >🔗</a> **[SpaceDaily]** Blue Origin and Nimbus validate fuel cells for lunar life support
+- <a href="https://www.spacedaily.com/reports/Fueling_research_in_nuclear_thermal_propulsion_999.html" >🔗</a> **[SpaceDaily]** Fueling research in nuclear thermal propulsion
+- <a href="https://www.spacedaily.com/reports/Quantum_camera_startup_plans_satellite_and_telescope_constellations_999.html" >🔗</a> **[SpaceDaily]** Quantum camera startup plans satellite and telescope constellations
+- <a href="https://www.spacedaily.com/reports/Space_station_study_reveals_unusual_virus_bacteria_dynamics_in_microgravity_999.html" >🔗</a> **[SpaceDaily]** Space station study reveals unusual virus bacteria dynamics in microgravity
+- <a href="https://www.spacedaily.com/reports/Indian_rocket_hits_snag_during_launch_999.html" >🔗</a> **[SpaceDaily]** Indian rocket hits snag during launch
+- <a href="https://www.spacedaily.com/reports/NASA_heavy_ion_tests_confirm_Sakura_II_AI_chip_for_orbital_and_lunar_use_999.html" >🔗</a> **[SpaceDaily]** NASA heavy ion tests confirm Sakura II AI chip for orbital and lunar use
+- <a href="https://www.spacedaily.com/reports/Nullspace_speeds_antenna_and_radar_simulations_with_new_EM_software_tools_999.html" >🔗</a> **[SpaceDaily]** Nullspace speeds antenna and radar simulations with new EM software tools
+- <a href="https://www.spacedaily.com/reports/Berkeley_Scientists_set_to_home_in_on_100_signals_from_Seti_at_Home_999.html" >🔗</a> **[SpaceDaily]** Berkeley Scientists set to home in on 100 signals from Seti at Home
+- <a href="https://www.spacedaily.com/reports/Firefly_prepares_Alpha_Block_II_upgrade_for_Flight_8_999.html" >🔗</a> **[SpaceDaily]** Firefly prepares Alpha Block II upgrade for Flight 8
+- <a href="https://www.spacedaily.com/reports/Superheavy_lift_rockets_like_SpaceXs_Starship_could_transform_astronomy_by_making_space_telescopes_cheaper_999.html" >🔗</a> **[SpaceDaily]** Superheavy-lift rockets like SpaceX's Starship could transform astronomy by making space telescopes cheaper
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260114T060224">2026-01-14 06:02:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260114T064235">2026-01-14 06:42:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
