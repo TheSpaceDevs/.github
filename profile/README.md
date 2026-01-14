@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/01/indias-pslv-solve-third-stage-second-failure/" >🔗</a> **[NASASpaceflight]** India’s workhorse PSLV needs to solve third stage issue following second consecutive failure
 - <a href="https://spacenews.com/firefly-to-upgrade-alpha-rocket-to-improve-reliability/" >🔗</a> **[SpaceNews]** Firefly to upgrade Alpha rocket to improve reliability
 - <a href="https://spacenews.com/congressional-hearing-highlights-militarys-reliance-on-noaa-data/" >🔗</a> **[SpaceNews]** Congressional hearing highlights military’s reliance on NOAA data
 - <a href="https://spaceflightnow.com/2026/01/14/live-coverage-spacex-to-launch-midweek-starlink-mission-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch midweek Starlink mission on Falcon 9 rocket from Cape Canaveral
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2026/01/starship-infrastructure-progress-starbase-cape/" >🔗</a> **[NASASpaceflight]** Starship launch infrastructure progress at Starbase/Cape ahead of 2026 Launches
 - <a href="https://www.nasa.gov/image-article/nasas-pandora-small-satellite-launched/" >🔗</a> **[NASA]** NASA’s Pandora Small Satellite Launched
 - <a href="https://spacenews.com/esa-and-clearspace-announce-prelude-in-orbit-servicing-and-debris-removal-mission/" >🔗</a> **[SpaceNews]** ESA and ClearSpace announce PRELUDE in-orbit servicing and debris removal mission
-- <a href="https://www.nasa.gov/news-release/nasa-department-of-energy-to-develop-lunar-surface-reactor-by-2030/" >🔗</a> **[NASA]** NASA, Department of Energy to Develop Lunar Surface Reactor by 2030
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260114T021931">2026-01-14 02:19:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260114T030941">2026-01-14 03:09:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
