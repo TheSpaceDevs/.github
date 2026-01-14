@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/coverage-briefing-set-for-nasas-artemis-ii-moon-rocket-roll-to-pad/" >🔗</a> **[NASA]** Coverage, Briefing Set for NASA’s Artemis II Moon Rocket Roll to Pad
+- <a href="https://spacenews.com/cas-space-conducts-first-suborbital-launch-and-capsule-landing-test/" >🔗</a> **[SpaceNews]** CAS Space conducts first suborbital launch and capsule landing test
 - <a href="https://spaceflightnow.com/2026/01/14/live-coverage-nasa-spacex-prepare-medical-evacuation-crew-11-return-to-earth/" >🔗</a> **[Spaceflight Now]** Live coverage: NASA, SpaceX prepare ‘medical evacuation’ Crew-11 return to Earth
 - <a href="https://www.nasaspaceflight.com/2026/01/crew-11-return/" >🔗</a> **[NASASpaceflight]** Crew-11 set for undocking and splashdown after medical situation forces early return
 - <a href="https://www.nasa.gov/image-article/new-york-newark-jersey-city-metropolitan-area/" >🔗</a> **[NASA]** New York–Newark–Jersey City Metropolitan Area
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/space-sustainability-will-evolve-intoa-data-driven-system/" >🔗</a> **[SpaceNews]** Space sustainability will evolve into a data-driven system
 - <a href="https://spacenews.com/thinkorbital-raises-seed-funding-to-advance-x-ray-space-inspection/" >🔗</a> **[SpaceNews]** ThinkOrbital raises seed funding to advance X-ray space inspection
 - <a href="https://www.nasa.gov/news-release/la-nasa-publica-datos-de-la-temperatura-global/" >🔗</a> **[NASA]** La NASA publica datos de la temperatura global
-- <a href="https://europeanspaceflight.com/european-capsule-demonstrator-survives-launch-failure/" >🔗</a> **[European Spaceflight]** European Capsule Demonstrator Survives Launch Failure
-- <a href="https://www.nasa.gov/news-release/nasa-releases-global-temperature-data/" >🔗</a> **[NASA]** NASA Releases Global Temperature Data
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260114T220143">2026-01-14 22:01:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260114T223732">2026-01-14 22:37:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
