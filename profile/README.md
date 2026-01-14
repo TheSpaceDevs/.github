@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/when-allies-cant-count-on-u-s-isr-commercial-space-becomes-strategic/" >🔗</a> **[SpaceNews]** When allies can’t count on U.S. ISR, commercial space becomes strategic
 - <a href="https://spacenews.com/nasa-pessimistic-about-odds-of-recovering-maven/" >🔗</a> **[SpaceNews]** NASA pessimistic about odds of recovering MAVEN
 - <a href="https://spacenews.com/space-operations-will-become-more-dynamic-this-year/" >🔗</a> **[SpaceNews]** Space operations will become more dynamic this year
 - <a href="https://spacenews.com/skyfi-raises-12-7-million-to-scale-satellite-data-marketplace/" >🔗</a> **[SpaceNews]** SkyFi raises $12.7 million to scale satellite data marketplace
 - <a href="https://spacenews.com/chinas-first-launches-of-2026-send-yaogan-spacecraft-into-unusual-orbit-loft-guowang-satellites/" >🔗</a> **[SpaceNews]** China’s first launches of 2026 send Yaogan spacecraft into unusual orbit, loft Guowang satellites
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/01/Virtual_tour_of_ESA_s_Test_Centre_gets_a_makeover" >🔗</a> **[ESA]** Virtual tour of ESA’s Test Centre gets a makeover
 - <a href="https://europeanspaceflight.com/sweden-to-acquire-10-surveillance-satellites-for-e121-million/" >🔗</a> **[European Spaceflight]** Sweden to Acquire 10 Surveillance Satellites for €121 Million
+- <a href="https://www.spacedaily.com/reports/Quantum_light_switch_built_from_atomically_thin_mirror_999.html" >🔗</a> **[SpaceDaily]** Quantum light switch built from atomically thin mirror
 - <a href="https://www.spacedaily.com/reports/Quantum_key_method_enables_redundant_storage_of_qubit_data_999.html" >🔗</a> **[SpaceDaily]** Quantum key method enables redundant storage of qubit data
 - <a href="https://www.robodaily.com/reports/Musk_vs_OpenAI_trial_set_for_April_27_999.html" >🔗</a> **[SpaceDaily]** Musk vs OpenAI trial set for April 27
-- <a href="https://www.spacedaily.com/reports/Quantum_light_switch_built_from_atomically_thin_mirror_999.html" >🔗</a> **[SpaceDaily]** Quantum light switch built from atomically thin mirror
-- <a href="https://www.spacedaily.com/reports/How_IVRT_Testing_Ensures_Consistent_Product_Quality_999.html" >🔗</a> **[SpaceDaily]** How IVRT Testing Ensures Consistent Product Quality
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260114T124358">2026-01-14 12:43:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260114T131423">2026-01-14 13:14:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
