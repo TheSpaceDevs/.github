@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/congressional-hearing-highlights-militarys-reliance-on-noaa-data/" >🔗</a> **[SpaceNews]** Congressional hearing highlights military’s reliance on NOAA data
 - <a href="https://spaceflightnow.com/2026/01/14/live-coverage-spacex-to-launch-midweek-starlink-mission-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch midweek Starlink mission on Falcon 9 rocket from Cape Canaveral
 - <a href="https://www.nasa.gov/news-release/la-nasa-transmitira-en-directo-el-regreso-y-el-amerizaje-de-crew-11/" >🔗</a> **[NASA]** La NASA transmitirá en directo el regreso y el amerizaje de Crew 11
 - <a href="https://spaceflightnow.com/2026/01/13/u-s-space-force-switches-rockets-for-upcoming-gps-satellite-launch/" >🔗</a> **[Spaceflight Now]** U.S. Space Force switches rockets for upcoming GPS satellite launch
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/esa-and-clearspace-announce-prelude-in-orbit-servicing-and-debris-removal-mission/" >🔗</a> **[SpaceNews]** ESA and ClearSpace announce PRELUDE in-orbit servicing and debris removal mission
 - <a href="https://www.nasa.gov/news-release/nasa-department-of-energy-to-develop-lunar-surface-reactor-by-2030/" >🔗</a> **[NASA]** NASA, Department of Energy to Develop Lunar Surface Reactor by 2030
 - <a href="https://spacenews.com/pentagon-commits-1-billion-to-l3harris-missile-unit-as-anchor-investor/" >🔗</a> **[SpaceNews]** Pentagon commits $1 billion to L3Harris missile unit as ‘anchor investor’
-- <a href="https://www.nasa.gov/directorates/stmd/nasa-back-for-seconds-with-new-food-system-design-challenge/" >🔗</a> **[NASA]** NASA Back for Seconds with New Food System Design Challenge
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260114T004615">2026-01-14 00:46:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260114T012954">2026-01-14 01:29:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
