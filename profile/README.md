@@ -19,27 +19,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 6-98**. It is scheduled to be launched by *SpaceX*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral SFS, FL, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260114T180100">2026-01-14 18:01:00 UTC</a>.  Until
-then, this pad will have been used for 357
-out of 1079 launches from this location. The launch status is currently
+**Long March 2C | Unknown Payload**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Jiuquan_Launch_Area_4">Launch Area 94 (SLS-2 / 603)</a>, Jiuquan Satellite Launch Center, People's Republic of China*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260115T035300">2026-01-15 03:53:00 UTC</a>.  Until
+then, this pad will have been used for 132
+out of 273 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Communications* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+*Unknown* and the payload will be injected
+into *an Unknown
+(N/A)*.
 <br>
 <blockquote>
-  A batch of 29 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  Details TBD.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+  <a href="https://en.wikipedia.org/wiki/Long_March_2C" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
+  <a href="https://www.google.com/maps?q=40.960482,100.298059" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -54,6 +54,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260119T074100">2026-01-19 07:41:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 12 | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20260119T074100Z%2F20260119T080800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 12 | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260120T200000">2026-01-20 20:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/no.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Spectrum | Flight Two&location=Andøya Spaceport&dates=20260120T200000Z%2F20260120T205000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Spectrum | Flight Two** from Andøya Spaceport.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260121T133000">2026-01-21 13:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Shepard | NS-38&location=Corn Ranch, Van Horn, TX, USA&dates=20260121T133000Z%2F20260121T213000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Shepard | NS-38** from Corn Ranch, Van Horn, TX, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260122T024300">2026-01-22 02:43:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-30&location=Vandenberg SFB, CA, USA&dates=20260122T024300Z%2F20260122T064300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-30** from Vandenberg SFB, CA, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -89,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/esas-comet-interceptor-mission-moves-up-launch/" >🔗</a> **[SpaceNews]** ESA’s Comet Interceptor mission moves up launch
+- <a href="https://spacenews.com/taiwans-moonshot-why-t-dome-needs-systems-engineering-not-just-a-shopping-list/" >🔗</a> **[SpaceNews]** Taiwan’s Moonshot: why ‘T-Dome’ needs systems engineering, not just a shopping list
 - <a href="https://spacenews.com/space-sustainability-will-evolve-intoa-data-driven-system/" >🔗</a> **[SpaceNews]** Space sustainability will evolve into a data-driven system
 - <a href="https://spacenews.com/thinkorbital-raises-seed-funding-to-advance-x-ray-space-inspection/" >🔗</a> **[SpaceNews]** ThinkOrbital raises seed funding to advance X-ray space inspection
 - <a href="https://www.nasa.gov/news-release/la-nasa-publica-datos-de-la-temperatura-global/" >🔗</a> **[NASA]** La NASA publica datos de la temperatura global
@@ -97,19 +100,15 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/bringing-outsiders-into-the-space-fold/" >🔗</a> **[SpaceNews]** Bringing outsiders into the space fold
 - <a href="https://science.nasa.gov/missions/hubble/hubble-observes-stars-flaring-to-life-in-orion/" >🔗</a> **[NASA]** Hubble Observes Stars Flaring to Life in Orion
 - <a href="https://spacenews.com/when-allies-cant-count-on-u-s-isr-commercial-space-becomes-strategic/" >🔗</a> **[SpaceNews]** When allies can’t count on U.S. ISR, commercial space becomes strategic
-- <a href="https://spacenews.com/nasa-pessimistic-about-odds-of-recovering-maven/" >🔗</a> **[SpaceNews]** NASA pessimistic about odds of recovering MAVEN
-- <a href="https://spacenews.com/space-operations-will-become-more-dynamic-this-year/" >🔗</a> **[SpaceNews]** Space operations will become more dynamic this year
 
 
 ### Launch-related News 🚀
 
-- <a href="https://spaceflightnow.com/2026/01/14/live-coverage-spacex-to-launch-midweek-starlink-mission-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch midweek Starlink mission on Falcon 9 rocket from Cape Canaveral
-- <a href="https://www.nasaspaceflight.com/2026/01/launch-preview-011226/" >🔗</a> **[NASASpaceflight]** Launch Preview: Launches from China, U.S., and Norway scheduled for upcoming week
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260114T180208">2026-01-14 18:02:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260114T184225">2026-01-14 18:42:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
