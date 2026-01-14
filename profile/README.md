@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/thinkorbital-raises-seed-funding-to-advance-x-ray-space-inspection/" >🔗</a> **[SpaceNews]** ThinkOrbital raises seed funding to advance X-ray space inspection
+- <a href="https://www.nasa.gov/news-release/la-nasa-publica-datos-de-la-temperatura-global/" >🔗</a> **[NASA]** La NASA publica datos de la temperatura global
 - <a href="https://europeanspaceflight.com/european-capsule-demonstrator-survives-launch-failure/" >🔗</a> **[European Spaceflight]** European Capsule Demonstrator Survives Launch Failure
 - <a href="https://www.nasa.gov/news-release/nasa-releases-global-temperature-data/" >🔗</a> **[NASA]** NASA Releases Global Temperature Data
 - <a href="https://spacenews.com/bringing-outsiders-into-the-space-fold/" >🔗</a> **[SpaceNews]** Bringing outsiders into the space fold
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/nasa-pessimistic-about-odds-of-recovering-maven/" >🔗</a> **[SpaceNews]** NASA pessimistic about odds of recovering MAVEN
 - <a href="https://spacenews.com/space-operations-will-become-more-dynamic-this-year/" >🔗</a> **[SpaceNews]** Space operations will become more dynamic this year
 - <a href="https://spacenews.com/skyfi-raises-12-7-million-to-scale-satellite-data-marketplace/" >🔗</a> **[SpaceNews]** SkyFi raises $12.7 million to scale satellite data marketplace
-- <a href="https://spacenews.com/chinas-first-launches-of-2026-send-yaogan-spacecraft-into-unusual-orbit-loft-guowang-satellites/" >🔗</a> **[SpaceNews]** China’s first launches of 2026 send Yaogan spacecraft into unusual orbit, loft Guowang satellites
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/01/Virtual_tour_of_ESA_s_Test_Centre_gets_a_makeover" >🔗</a> **[ESA]** Virtual tour of ESA’s Test Centre gets a makeover
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260114T150303">2026-01-14 15:03:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260114T153632">2026-01-14 15:36:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
