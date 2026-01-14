@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/chinas-first-launches-of-2026-send-yaogan-spacecraft-into-unusual-orbit-loft-guowang-satellites/" >🔗</a> **[SpaceNews]** China’s first launches of 2026 send Yaogan spacecraft into unusual orbit, loft Guowang satellites
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/01/Virtual_tour_of_ESA_s_Test_Centre_gets_a_makeover" >🔗</a> **[ESA]** Virtual tour of ESA’s Test Centre gets a makeover
 - <a href="https://europeanspaceflight.com/sweden-to-acquire-10-surveillance-satellites-for-e121-million/" >🔗</a> **[European Spaceflight]** Sweden to Acquire 10 Surveillance Satellites for €121 Million
-- <a href="https://www.spacedaily.com/reports/How_IVRT_Testing_Ensures_Consistent_Product_Quality_999.html" >🔗</a> **[SpaceDaily]** How IVRT Testing Ensures Consistent Product Quality
+- <a href="https://www.spacedaily.com/reports/Quantum_light_switch_built_from_atomically_thin_mirror_999.html" >🔗</a> **[SpaceDaily]** Quantum light switch built from atomically thin mirror
 - <a href="https://www.spacedaily.com/reports/Quantum_key_method_enables_redundant_storage_of_qubit_data_999.html" >🔗</a> **[SpaceDaily]** Quantum key method enables redundant storage of qubit data
 - <a href="https://www.robodaily.com/reports/Musk_vs_OpenAI_trial_set_for_April_27_999.html" >🔗</a> **[SpaceDaily]** Musk vs OpenAI trial set for April 27
-- <a href="https://www.spacedaily.com/reports/Quantum_light_switch_built_from_atomically_thin_mirror_999.html" >🔗</a> **[SpaceDaily]** Quantum light switch built from atomically thin mirror
-- <a href="https://www.spacedaily.com/reports/Firefly_prepares_Alpha_Block_II_upgrade_for_Flight_8_999.html" >🔗</a> **[SpaceDaily]** Firefly prepares Alpha Block II upgrade for Flight 8
-- <a href="https://www.spacedaily.com/reports/Blue_Origin_and_Nimbus_validate_fuel_cells_for_lunar_life_support_999.html" >🔗</a> **[SpaceDaily]** Blue Origin and Nimbus validate fuel cells for lunar life support
-- <a href="https://www.spacedaily.com/reports/Nullspace_speeds_antenna_and_radar_simulations_with_new_EM_software_tools_999.html" >🔗</a> **[SpaceDaily]** Nullspace speeds antenna and radar simulations with new EM software tools
+- <a href="https://www.spacedaily.com/reports/How_IVRT_Testing_Ensures_Consistent_Product_Quality_999.html" >🔗</a> **[SpaceDaily]** How IVRT Testing Ensures Consistent Product Quality
 - <a href="https://www.spacedaily.com/reports/Berkeley_Scientists_set_to_home_in_on_100_signals_from_Seti_at_Home_999.html" >🔗</a> **[SpaceDaily]** Berkeley Scientists set to home in on 100 signals from Seti at Home
+- <a href="https://www.spacedaily.com/reports/Nullspace_speeds_antenna_and_radar_simulations_with_new_EM_software_tools_999.html" >🔗</a> **[SpaceDaily]** Nullspace speeds antenna and radar simulations with new EM software tools
+- <a href="https://www.spacedaily.com/reports/Fueling_research_in_nuclear_thermal_propulsion_999.html" >🔗</a> **[SpaceDaily]** Fueling research in nuclear thermal propulsion
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260114T110202">2026-01-14 11:02:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260114T113456">2026-01-14 11:34:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
