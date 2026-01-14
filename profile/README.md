@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/01/14/live-coverage-nasa-spacex-prepare-medical-evacuation-crew-11-return-to-earth/" >🔗</a> **[Spaceflight Now]** Live coverage: NASA, SpaceX prepare ‘medical evacuation’ Crew-11 return to Earth
+- <a href="https://www.nasaspaceflight.com/2026/01/crew-11-return/" >🔗</a> **[NASASpaceflight]** Crew-11 set for undocking and splashdown after medical situation forces early return
 - <a href="https://www.nasa.gov/image-article/new-york-newark-jersey-city-metropolitan-area/" >🔗</a> **[NASA]** New York–Newark–Jersey City Metropolitan Area
 - <a href="https://spacenews.com/esas-comet-interceptor-mission-moves-up-launch/" >🔗</a> **[SpaceNews]** ESA’s Comet Interceptor mission moves up launch
 - <a href="https://spacenews.com/taiwans-moonshot-why-t-dome-needs-systems-engineering-not-just-a-shopping-list/" >🔗</a> **[SpaceNews]** Taiwan’s Moonshot: why ‘T-Dome’ needs systems engineering, not just a shopping list
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/news-release/la-nasa-publica-datos-de-la-temperatura-global/" >🔗</a> **[NASA]** La NASA publica datos de la temperatura global
 - <a href="https://europeanspaceflight.com/european-capsule-demonstrator-survives-launch-failure/" >🔗</a> **[European Spaceflight]** European Capsule Demonstrator Survives Launch Failure
 - <a href="https://www.nasa.gov/news-release/nasa-releases-global-temperature-data/" >🔗</a> **[NASA]** NASA Releases Global Temperature Data
-- <a href="https://spacenews.com/bringing-outsiders-into-the-space-fold/" >🔗</a> **[SpaceNews]** Bringing outsiders into the space fold
-- <a href="https://science.nasa.gov/missions/hubble/hubble-observes-stars-flaring-to-life-in-orion/" >🔗</a> **[NASA]** Hubble Observes Stars Flaring to Life in Orion
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260114T200125">2026-01-14 20:01:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260114T203542">2026-01-14 20:35:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
