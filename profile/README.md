@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-sustainability-will-evolve-intoa-data-driven-system/" >🔗</a> **[SpaceNews]** Space sustainability will evolve into a data-driven system
 - <a href="https://spacenews.com/thinkorbital-raises-seed-funding-to-advance-x-ray-space-inspection/" >🔗</a> **[SpaceNews]** ThinkOrbital raises seed funding to advance X-ray space inspection
 - <a href="https://www.nasa.gov/news-release/la-nasa-publica-datos-de-la-temperatura-global/" >🔗</a> **[NASA]** La NASA publica datos de la temperatura global
 - <a href="https://europeanspaceflight.com/european-capsule-demonstrator-survives-launch-failure/" >🔗</a> **[European Spaceflight]** European Capsule Demonstrator Survives Launch Failure
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/when-allies-cant-count-on-u-s-isr-commercial-space-becomes-strategic/" >🔗</a> **[SpaceNews]** When allies can’t count on U.S. ISR, commercial space becomes strategic
 - <a href="https://spacenews.com/nasa-pessimistic-about-odds-of-recovering-maven/" >🔗</a> **[SpaceNews]** NASA pessimistic about odds of recovering MAVEN
 - <a href="https://spacenews.com/space-operations-will-become-more-dynamic-this-year/" >🔗</a> **[SpaceNews]** Space operations will become more dynamic this year
-- <a href="https://spacenews.com/skyfi-raises-12-7-million-to-scale-satellite-data-marketplace/" >🔗</a> **[SpaceNews]** SkyFi raises $12.7 million to scale satellite data marketplace
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260114T160200">2026-01-14 16:02:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260114T164156">2026-01-14 16:41:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
