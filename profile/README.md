@@ -90,6 +90,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/hydrosat-raises-60-million-in-series-b-funding/" >🔗</a> **[SpaceNews]** Hydrosat raises $60 million in Series B funding
+- <a href="https://www.nasa.gov/news-release/nasas-spacex-crew-11-mission-returns-splashes-down-off-california/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-11 Mission Returns, Splashes Down off California
+- <a href="https://spaceflightnow.com/2026/01/15/crew-11-safely-splashes-down-after-shortened-mission/" >🔗</a> **[Spaceflight Now]** Crew 11 safely splashes down after shortened mission
 - <a href="https://spacepolicyonline.com/news/crew-11-back-on-earth-so-ailing-crew-member-can-get-treatment/" >🔗</a> **[SpacePolicyOnline.com]** Crew-11 Back on Earth So Ailing Crew Member Can Get Treatment
 - <a href="https://spacenews.com/crew-11-makes-early-return-from-iss/" >🔗</a> **[SpaceNews]** Crew-11 makes early return from ISS
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/01/Plato_passes_vibe_check" >🔗</a> **[ESA]** Plato passes vibe check
@@ -97,9 +100,6 @@ into *an Unknown
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2/Sentinel-2_explores_night_vision" >🔗</a> **[ESA]** Sentinel-2 explores night vision
 - <a href="https://www.spacedaily.com/reports/JAXA_taps_ispace_for_lunar_debris_mitigation_and_disposal_study_999.html" >🔗</a> **[SpaceDaily]** JAXA taps ispace for lunar debris mitigation and disposal study
 - <a href="https://www.spacedaily.com/reports/Spaceflight_study_links_astronaut_biology_to_reversible_shifts_in_epigenetic_age_999.html" >🔗</a> **[SpaceDaily]** Spaceflight study links astronaut biology to reversible shifts in epigenetic age
-- <a href="https://www.gpsdaily.com/reports/GPS_in_2026_Hidden_Shifts_That_Could_Redefine_Global_Navigation_999.html" >🔗</a> **[SpaceDaily]** GPS in 2026 - Hidden Shifts That Could Redefine Global Navigation
-- <a href="https://www.moondaily.com/reports/NASA_and_DOE_plan_fission_power_plant_on_Moon_by_2030_999.html" >🔗</a> **[SpaceDaily]** NASA and DOE plan fission power plant on Moon by 2030
-- <a href="https://www.spacedaily.com/reports/The_Quiet_Transformation_of_GPS_Whats_Coming_by_2026_999.html" >🔗</a> **[SpaceDaily]** The Quiet Transformation of GPS - What's Coming by 2026
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260115T110117">2026-01-15 11:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260115T113421">2026-01-15 11:34:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
