@@ -90,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.gpsdaily.com/reports/GPS_in_2026_Hidden_Shifts_That_Could_Redefine_Global_Navigation_999.html" >🔗</a> **[SpaceDaily]** GPS in 2026 - Hidden Shifts That Could Redefine Global Navigation
+- <a href="https://www.moondaily.com/reports/NASA_and_DOE_plan_fission_power_plant_on_Moon_by_2030_999.html" >🔗</a> **[SpaceDaily]** NASA and DOE plan fission power plant on Moon by 2030
+- <a href="https://www.spacedaily.com/reports/How_to_Transcribe_Audio_to_Text_A_Step_by_Step_Guide_999.html" >🔗</a> **[SpaceDaily]** How to Transcribe Audio to Text - A Step-by-Step Guide
+- <a href="https://www.spacedaily.com/reports/The_Quiet_Transformation_of_GPS_Whats_Coming_by_2026_999.html" >🔗</a> **[SpaceDaily]** The Quiet Transformation of GPS - What's Coming by 2026
+- <a href="https://www.spacedaily.com/reports/JWST_red_dots_reveal_rapidly_growing_early_black_holes_999.html" >🔗</a> **[SpaceDaily]** JWST red dots reveal rapidly growing early black holes
+- <a href="https://www.spacedaily.com/reports/JAXA_taps_ispace_for_lunar_debris_mitigation_and_disposal_study_999.html" >🔗</a> **[SpaceDaily]** JAXA taps ispace for lunar debris mitigation and disposal study
+- <a href="https://www.spacedaily.com/reports/The_Silent_Partner_How_Machine_Learning_Quietly_Powers_Modern_Space_Operations_999.html" >🔗</a> **[SpaceDaily]** The Silent Partner - How Machine Learning Quietly Powers Modern Space Operations
+- <a href="https://www.spacedaily.com/reports/Spaceflight_study_links_astronaut_biology_to_reversible_shifts_in_epigenetic_age_999.html" >🔗</a> **[SpaceDaily]** Spaceflight study links astronaut biology to reversible shifts in epigenetic age
 - <a href="https://science.nasa.gov/earth/earth-observatory/clouds-swimming-over-lago-argentino/" >🔗</a> **[NASA]** Clouds Swimming over Lago Argentino
 - <a href="https://www.nasa.gov/news-release/coverage-briefing-set-for-nasas-artemis-ii-moon-rocket-roll-to-pad/" >🔗</a> **[NASA]** Coverage, Briefing Set for NASA’s Artemis II Moon Rocket Roll to Pad
-- <a href="https://spacenews.com/cas-space-conducts-first-suborbital-launch-and-capsule-landing-test/" >🔗</a> **[SpaceNews]** CAS Space conducts first suborbital launch and capsule landing test
-- <a href="https://spaceflightnow.com/2026/01/14/live-coverage-nasa-spacex-prepare-medical-evacuation-crew-11-return-to-earth/" >🔗</a> **[Spaceflight Now]** Live coverage: NASA, SpaceX prepare ‘medical evacuation’ Crew-11 return to Earth
-- <a href="https://www.nasaspaceflight.com/2026/01/crew-11-return/" >🔗</a> **[NASASpaceflight]** Crew-11 set for undocking and splashdown after medical situation forces early return
-- <a href="https://www.nasa.gov/image-article/new-york-newark-jersey-city-metropolitan-area/" >🔗</a> **[NASA]** New York–Newark–Jersey City Metropolitan Area
-- <a href="https://spacenews.com/esas-comet-interceptor-mission-moves-up-launch/" >🔗</a> **[SpaceNews]** ESA’s Comet Interceptor mission moves up launch
-- <a href="https://spacenews.com/taiwans-moonshot-why-t-dome-needs-systems-engineering-not-just-a-shopping-list/" >🔗</a> **[SpaceNews]** Taiwan’s Moonshot: why ‘T-Dome’ needs systems engineering, not just a shopping list
-- <a href="https://spacenews.com/space-sustainability-will-evolve-intoa-data-driven-system/" >🔗</a> **[SpaceNews]** Space sustainability will evolve into a data-driven system
-- <a href="https://spacenews.com/thinkorbital-raises-seed-funding-to-advance-x-ray-space-inspection/" >🔗</a> **[SpaceNews]** ThinkOrbital raises seed funding to advance X-ray space inspection
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260115T070355">2026-01-15 07:03:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260115T073616">2026-01-15 07:36:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
