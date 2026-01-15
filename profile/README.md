@@ -90,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/trustpoint-demonstrates-non-gps-navigation-for-leo-satellites/" >🔗</a> **[SpaceNews]** TrustPoint demonstrates non-GPS navigation for LEO satellites
+- <a href="https://spacenews.com/portal-space-selects-space-armor-debris-shield-for-2026-mission/" >🔗</a> **[SpaceNews]** Portal Space selects ‘Space Armor’ debris shield for 2026 mission
 - <a href="https://spacenews.com/slingshot-wins-27-million-space-force-contract-for-ai-training-system/" >🔗</a> **[SpaceNews]** Slingshot wins $27 million Space Force contract for AI training system
+- <a href="https://science.nasa.gov/missions/hubble/hubbles-album-of-planet-forming-disks/" >🔗</a> **[NASA]** Hubble’s Album of Planet-Forming Disks
 - <a href="https://spacenews.com/hydrosat-raises-60-million-in-series-b-funding/" >🔗</a> **[SpaceNews]** Hydrosat raises $60 million in Series B funding
 - <a href="https://www.nasa.gov/news-release/nasas-spacex-crew-11-mission-returns-splashes-down-off-california/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-11 Mission Returns, Splashes Down off California
 - <a href="https://spaceflightnow.com/2026/01/15/crew-11-safely-splashes-down-after-shortened-mission/" >🔗</a> **[Spaceflight Now]** Crew 11 safely splashes down after shortened mission
 - <a href="https://spacepolicyonline.com/news/crew-11-back-on-earth-so-ailing-crew-member-can-get-treatment/" >🔗</a> **[SpacePolicyOnline.com]** Crew-11 Back on Earth So Ailing Crew Member Can Get Treatment
 - <a href="https://spacenews.com/crew-11-makes-early-return-from-iss/" >🔗</a> **[SpaceNews]** Crew-11 makes early return from ISS
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/01/Plato_passes_vibe_check" >🔗</a> **[ESA]** Plato passes vibe check
-- <a href="https://spacenews.com/indian-startup-aule-space-enters-satellite-servicing-market/" >🔗</a> **[SpaceNews]** Indian startup Aule Space enters satellite servicing market
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2/Sentinel-2_explores_night_vision" >🔗</a> **[ESA]** Sentinel-2 explores night vision
-- <a href="https://www.spacedaily.com/reports/JAXA_taps_ispace_for_lunar_debris_mitigation_and_disposal_study_999.html" >🔗</a> **[SpaceDaily]** JAXA taps ispace for lunar debris mitigation and disposal study
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260115T140256">2026-01-15 14:02:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260115T143831">2026-01-15 14:38:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
