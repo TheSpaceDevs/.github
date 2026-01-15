@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/nasa-data-helps-maine-oyster-farmers-choose-where-to-grow/" >🔗</a> **[NASA]** NASA Data Helps Maine Oyster Farmers Choose Where to Grow
 - <a href="https://spacenews.com/managing-an-orbital-economy-as-space-grows-more-congested/" >🔗</a> **[SpaceNews]** Managing an orbital economy as space grows more congested
 - <a href="https://www.nasa.gov/image-article/hubble-spies-stellar-blast-setting-clouds-ablaze/" >🔗</a> **[NASA]** Hubble Spies Stellar Blast Setting Clouds Ablaze
 - <a href="https://spacenews.com/parsons-buys-altamira-for-375-million-to-expand-space-and-intelligence-portfolio/" >🔗</a> **[SpaceNews]** Parsons buys Altamira for $375 million to expand space and intelligence portfolio
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/portal-space-selects-space-armor-debris-shield-for-2026-mission/" >🔗</a> **[SpaceNews]** Portal Space selects ‘Space Armor’ debris shield for 2026 mission
 - <a href="https://spacenews.com/slingshot-wins-27-million-space-force-contract-for-ai-training-system/" >🔗</a> **[SpaceNews]** Slingshot wins $27 million Space Force contract for AI training system
 - <a href="https://science.nasa.gov/missions/hubble/hubbles-album-of-planet-forming-disks/" >🔗</a> **[NASA]** Hubble’s Album of Planet-Forming Disks
-- <a href="https://spacenews.com/hydrosat-raises-60-million-in-series-b-funding/" >🔗</a> **[SpaceNews]** Hydrosat raises $60 million in Series B funding
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260115T170746">2026-01-15 17:07:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260115T174110">2026-01-15 17:41:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
