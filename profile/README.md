@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2026/01/key-senate-staffer-is-begging-nasa-to-get-on-with-commercial-space-stations/" >🔗</a> **[Arstechnica]** Key Senate staffer is “begging” NASA to get on with commercial space stations
+- <a href="https://europeanspaceflight.com/cnes-launches-e1-million-ai-space-data-challenge/" >🔗</a> **[European Spaceflight]** CNES Launches €1 Million AI Space Data Challenge
 - <a href="https://spacenews.com/trustpoint-demonstrates-non-gps-navigation-for-leo-satellites/" >🔗</a> **[SpaceNews]** TrustPoint demonstrates non-GPS navigation for LEO satellites
 - <a href="https://spacenews.com/portal-space-selects-space-armor-debris-shield-for-2026-mission/" >🔗</a> **[SpaceNews]** Portal Space selects ‘Space Armor’ debris shield for 2026 mission
 - <a href="https://spacenews.com/slingshot-wins-27-million-space-force-contract-for-ai-training-system/" >🔗</a> **[SpaceNews]** Slingshot wins $27 million Space Force contract for AI training system
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/news-release/nasas-spacex-crew-11-mission-returns-splashes-down-off-california/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-11 Mission Returns, Splashes Down off California
 - <a href="https://spaceflightnow.com/2026/01/15/crew-11-safely-splashes-down-after-shortened-mission/" >🔗</a> **[Spaceflight Now]** Crew 11 safely splashes down after shortened mission
 - <a href="https://spacepolicyonline.com/news/crew-11-back-on-earth-so-ailing-crew-member-can-get-treatment/" >🔗</a> **[SpacePolicyOnline.com]** Crew-11 Back on Earth So Ailing Crew Member Can Get Treatment
-- <a href="https://spacenews.com/crew-11-makes-early-return-from-iss/" >🔗</a> **[SpaceNews]** Crew-11 makes early return from ISS
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/01/Plato_passes_vibe_check" >🔗</a> **[ESA]** Plato passes vibe check
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260115T150220">2026-01-15 15:02:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260115T153819">2026-01-15 15:38:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
