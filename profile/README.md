@@ -19,13 +19,13 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Ceres-1S | Unknown Payload**. It is scheduled to be launched by *Galactic Energy*
+**Long March 3B/E | Unknown Payload**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-from *<a href="None">Oriental Spaceport mobile launch ship</a>, Haiyang Oriental Spaceport*
+from *<a href="https://en.wikipedia.org/wiki/Xichang_Satellite_Launch_Center">Launch Complex 3 (LC-3/LA-1)</a>, Xichang Satellite Launch Center, People's Republic of China*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260115T195800">2026-01-15 19:58:00 UTC</a>.  Until
-then, this pad will have been used for 7
-out of 21 launches from this location. The launch status is currently
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260116T164700">2026-01-16 16:47:00 UTC</a>.  Until
+then, this pad will have been used for 105
+out of 236 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
 *Unknown* and the payload will be injected
 into *an Unknown
@@ -36,10 +36,10 @@ into *an Unknown
 </blockquote>
 
 <p float="left" align="center">
-  <a href="None" >
+  <a href="https://en.wikipedia.org/wiki/Long_March_3B" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=35.391667%2C119.598667" >
+  <a href="https://www.google.com/maps?q=28.247209,102.02917" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -54,6 +54,7 @@ into *an Unknown
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260121T133000">2026-01-21 13:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Shepard | NS-38&location=Corn Ranch, Van Horn, TX, USA&dates=20260121T133000Z%2F20260121T213000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Shepard | NS-38** from Corn Ranch, Van Horn, TX, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260122T024300">2026-01-22 02:43:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-30&location=Vandenberg SFB, CA, USA&dates=20260122T024300Z%2F20260122T064300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-30** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260125T040000">2026-01-25 04:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Smart Dragon 3 | Unknown Payload&location=Haiyang Oriental Spaceport&dates=20260125T040000Z%2F20260125T100000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Smart Dragon 3 | Unknown Payload** from Haiyang Oriental Spaceport.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260125T151700">2026-01-25 15:17:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-20&location=Vandenberg SFB, CA, USA&dates=20260125T151700Z%2F20260125T191700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-20** from Vandenberg SFB, CA, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -89,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/arianespace-to-begin-amazon-leo-launches-in-february/" >🔗</a> **[SpaceNews]** Arianespace to begin Amazon Leo launches in February
 - <a href="https://europeanspaceflight.com/eutelsat-awards-maiaspace-multi-launch-contract-for-oneweb-satellites/" >🔗</a> **[European Spaceflight]** Eutelsat Awards MaiaSpace Multi-Launch Contract for OneWeb Satellites
 - <a href="https://science.nasa.gov/earth/nasa-data-helps-maine-oyster-farmers-choose-where-to-grow/" >🔗</a> **[NASA]** NASA Data Helps Maine Oyster Farmers Choose Where to Grow
 - <a href="https://spacenews.com/managing-an-orbital-economy-as-space-grows-more-congested/" >🔗</a> **[SpaceNews]** Managing an orbital economy as space grows more congested
@@ -98,7 +100,6 @@ into *an Unknown
 - <a href="https://europeanspaceflight.com/cnes-launches-e1-million-ai-space-data-challenge/" >🔗</a> **[European Spaceflight]** CNES Launches €1 Million AI Space Data Challenge
 - <a href="https://spacenews.com/trustpoint-demonstrates-non-gps-navigation-for-leo-satellites/" >🔗</a> **[SpaceNews]** TrustPoint demonstrates non-GPS navigation for LEO satellites
 - <a href="https://spacenews.com/portal-space-selects-space-armor-debris-shield-for-2026-mission/" >🔗</a> **[SpaceNews]** Portal Space selects ‘Space Armor’ debris shield for 2026 mission
-- <a href="https://spacenews.com/slingshot-wins-27-million-space-force-contract-for-ai-training-system/" >🔗</a> **[SpaceNews]** Slingshot wins $27 million Space Force contract for AI training system
 
 
 ### Launch-related News 🚀
@@ -108,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260115T200151">2026-01-15 20:01:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260115T203759">2026-01-15 20:37:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
