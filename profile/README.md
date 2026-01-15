@@ -90,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.gpsdaily.com/reports/GPS_in_2026_Hidden_Shifts_That_Could_Redefine_Global_Navigation_999.html" >🔗</a> **[SpaceDaily]** GPS in 2026 - Hidden Shifts That Could Redefine Global Navigation
-- <a href="https://www.moondaily.com/reports/NASA_and_DOE_plan_fission_power_plant_on_Moon_by_2030_999.html" >🔗</a> **[SpaceDaily]** NASA and DOE plan fission power plant on Moon by 2030
-- <a href="https://www.spacedaily.com/reports/How_to_Transcribe_Audio_to_Text_A_Step_by_Step_Guide_999.html" >🔗</a> **[SpaceDaily]** How to Transcribe Audio to Text - A Step-by-Step Guide
-- <a href="https://www.spacedaily.com/reports/The_Quiet_Transformation_of_GPS_Whats_Coming_by_2026_999.html" >🔗</a> **[SpaceDaily]** The Quiet Transformation of GPS - What's Coming by 2026
+- <a href="https://spacenews.com/indian-startup-aule-space-enters-satellite-servicing-market/" >🔗</a> **[SpaceNews]** Indian startup Aule Space enters satellite servicing market
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2/Sentinel-2_explores_night_vision" >🔗</a> **[ESA]** Sentinel-2 explores night vision
 - <a href="https://www.spacedaily.com/reports/JWST_red_dots_reveal_rapidly_growing_early_black_holes_999.html" >🔗</a> **[SpaceDaily]** JWST red dots reveal rapidly growing early black holes
-- <a href="https://www.spacedaily.com/reports/JAXA_taps_ispace_for_lunar_debris_mitigation_and_disposal_study_999.html" >🔗</a> **[SpaceDaily]** JAXA taps ispace for lunar debris mitigation and disposal study
+- <a href="https://www.spacedaily.com/reports/The_Quiet_Transformation_of_GPS_Whats_Coming_by_2026_999.html" >🔗</a> **[SpaceDaily]** The Quiet Transformation of GPS - What's Coming by 2026
 - <a href="https://www.spacedaily.com/reports/The_Silent_Partner_How_Machine_Learning_Quietly_Powers_Modern_Space_Operations_999.html" >🔗</a> **[SpaceDaily]** The Silent Partner - How Machine Learning Quietly Powers Modern Space Operations
+- <a href="https://www.spacedaily.com/reports/JAXA_taps_ispace_for_lunar_debris_mitigation_and_disposal_study_999.html" >🔗</a> **[SpaceDaily]** JAXA taps ispace for lunar debris mitigation and disposal study
+- <a href="https://www.spacedaily.com/reports/How_to_Transcribe_Audio_to_Text_A_Step_by_Step_Guide_999.html" >🔗</a> **[SpaceDaily]** How to Transcribe Audio to Text - A Step-by-Step Guide
 - <a href="https://www.spacedaily.com/reports/Spaceflight_study_links_astronaut_biology_to_reversible_shifts_in_epigenetic_age_999.html" >🔗</a> **[SpaceDaily]** Spaceflight study links astronaut biology to reversible shifts in epigenetic age
-- <a href="https://science.nasa.gov/earth/earth-observatory/clouds-swimming-over-lago-argentino/" >🔗</a> **[NASA]** Clouds Swimming over Lago Argentino
-- <a href="https://www.nasa.gov/news-release/coverage-briefing-set-for-nasas-artemis-ii-moon-rocket-roll-to-pad/" >🔗</a> **[NASA]** Coverage, Briefing Set for NASA’s Artemis II Moon Rocket Roll to Pad
+- <a href="https://www.moondaily.com/reports/NASA_and_DOE_plan_fission_power_plant_on_Moon_by_2030_999.html" >🔗</a> **[SpaceDaily]** NASA and DOE plan fission power plant on Moon by 2030
+- <a href="https://www.gpsdaily.com/reports/GPS_in_2026_Hidden_Shifts_That_Could_Redefine_Global_Navigation_999.html" >🔗</a> **[SpaceDaily]** GPS in 2026 - Hidden Shifts That Could Redefine Global Navigation
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260115T080202">2026-01-15 08:02:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260115T084137">2026-01-15 08:41:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
