@@ -90,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/crew-11-makes-early-return-from-iss/" >🔗</a> **[SpaceNews]** Crew-11 makes early return from ISS
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/01/Plato_passes_vibe_check" >🔗</a> **[ESA]** Plato passes vibe check
 - <a href="https://spacenews.com/indian-startup-aule-space-enters-satellite-servicing-market/" >🔗</a> **[SpaceNews]** Indian startup Aule Space enters satellite servicing market
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2/Sentinel-2_explores_night_vision" >🔗</a> **[ESA]** Sentinel-2 explores night vision
 - <a href="https://www.spacedaily.com/reports/JWST_red_dots_reveal_rapidly_growing_early_black_holes_999.html" >🔗</a> **[SpaceDaily]** JWST red dots reveal rapidly growing early black holes
-- <a href="https://www.spacedaily.com/reports/The_Quiet_Transformation_of_GPS_Whats_Coming_by_2026_999.html" >🔗</a> **[SpaceDaily]** The Quiet Transformation of GPS - What's Coming by 2026
-- <a href="https://www.spacedaily.com/reports/The_Silent_Partner_How_Machine_Learning_Quietly_Powers_Modern_Space_Operations_999.html" >🔗</a> **[SpaceDaily]** The Silent Partner - How Machine Learning Quietly Powers Modern Space Operations
 - <a href="https://www.spacedaily.com/reports/JAXA_taps_ispace_for_lunar_debris_mitigation_and_disposal_study_999.html" >🔗</a> **[SpaceDaily]** JAXA taps ispace for lunar debris mitigation and disposal study
-- <a href="https://www.spacedaily.com/reports/How_to_Transcribe_Audio_to_Text_A_Step_by_Step_Guide_999.html" >🔗</a> **[SpaceDaily]** How to Transcribe Audio to Text - A Step-by-Step Guide
+- <a href="https://www.spacedaily.com/reports/The_Quiet_Transformation_of_GPS_Whats_Coming_by_2026_999.html" >🔗</a> **[SpaceDaily]** The Quiet Transformation of GPS - What's Coming by 2026
 - <a href="https://www.spacedaily.com/reports/Spaceflight_study_links_astronaut_biology_to_reversible_shifts_in_epigenetic_age_999.html" >🔗</a> **[SpaceDaily]** Spaceflight study links astronaut biology to reversible shifts in epigenetic age
 - <a href="https://www.moondaily.com/reports/NASA_and_DOE_plan_fission_power_plant_on_Moon_by_2030_999.html" >🔗</a> **[SpaceDaily]** NASA and DOE plan fission power plant on Moon by 2030
-- <a href="https://www.gpsdaily.com/reports/GPS_in_2026_Hidden_Shifts_That_Could_Redefine_Global_Navigation_999.html" >🔗</a> **[SpaceDaily]** GPS in 2026 - Hidden Shifts That Could Redefine Global Navigation
+- <a href="https://www.spacedaily.com/reports/The_Silent_Partner_How_Machine_Learning_Quietly_Powers_Modern_Space_Operations_999.html" >🔗</a> **[SpaceDaily]** The Silent Partner - How Machine Learning Quietly Powers Modern Space Operations
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260115T090404">2026-01-15 09:04:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260115T093845">2026-01-15 09:38:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
