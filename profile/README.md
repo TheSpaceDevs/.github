@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/slingshot-wins-27-million-space-force-contract-for-ai-training-system/" >🔗</a> **[SpaceNews]** Slingshot wins $27 million Space Force contract for AI training system
 - <a href="https://spacenews.com/hydrosat-raises-60-million-in-series-b-funding/" >🔗</a> **[SpaceNews]** Hydrosat raises $60 million in Series B funding
 - <a href="https://www.nasa.gov/news-release/nasas-spacex-crew-11-mission-returns-splashes-down-off-california/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-11 Mission Returns, Splashes Down off California
 - <a href="https://spaceflightnow.com/2026/01/15/crew-11-safely-splashes-down-after-shortened-mission/" >🔗</a> **[Spaceflight Now]** Crew 11 safely splashes down after shortened mission
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/indian-startup-aule-space-enters-satellite-servicing-market/" >🔗</a> **[SpaceNews]** Indian startup Aule Space enters satellite servicing market
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-2/Sentinel-2_explores_night_vision" >🔗</a> **[ESA]** Sentinel-2 explores night vision
 - <a href="https://www.spacedaily.com/reports/JAXA_taps_ispace_for_lunar_debris_mitigation_and_disposal_study_999.html" >🔗</a> **[SpaceDaily]** JAXA taps ispace for lunar debris mitigation and disposal study
-- <a href="https://www.spacedaily.com/reports/Spaceflight_study_links_astronaut_biology_to_reversible_shifts_in_epigenetic_age_999.html" >🔗</a> **[SpaceDaily]** Spaceflight study links astronaut biology to reversible shifts in epigenetic age
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260115T134305">2026-01-15 13:43:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260115T140256">2026-01-15 14:02:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
