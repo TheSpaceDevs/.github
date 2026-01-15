@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/nasa-adds-two-f-15-aircraft-to-support-supersonic-flight-research/" >🔗</a> **[NASA]** NASA Adds Two F-15 Aircraft to Support Supersonic Flight Research
+- <a href="https://www.nasa.gov/missions/station/iss-research/nasas-spacex-crew-11-wraps-up-space-station-science/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-11 Wraps Up Space Station Science
 - <a href="https://spacenews.com/arianespace-to-begin-amazon-leo-launches-in-february/" >🔗</a> **[SpaceNews]** Arianespace to begin Amazon Leo launches in February
 - <a href="https://europeanspaceflight.com/eutelsat-awards-maiaspace-multi-launch-contract-for-oneweb-satellites/" >🔗</a> **[European Spaceflight]** Eutelsat Awards MaiaSpace Multi-Launch Contract for OneWeb Satellites
 - <a href="https://science.nasa.gov/earth/nasa-data-helps-maine-oyster-farmers-choose-where-to-grow/" >🔗</a> **[NASA]** NASA Data Helps Maine Oyster Farmers Choose Where to Grow
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/parsons-buys-altamira-for-375-million-to-expand-space-and-intelligence-portfolio/" >🔗</a> **[SpaceNews]** Parsons buys Altamira for $375 million to expand space and intelligence portfolio
 - <a href="https://arstechnica.com/space/2026/01/key-senate-staffer-is-begging-nasa-to-get-on-with-commercial-space-stations/" >🔗</a> **[Arstechnica]** Key Senate staffer is “begging” NASA to get on with commercial space stations
 - <a href="https://europeanspaceflight.com/cnes-launches-e1-million-ai-space-data-challenge/" >🔗</a> **[European Spaceflight]** CNES Launches €1 Million AI Space Data Challenge
-- <a href="https://spacenews.com/trustpoint-demonstrates-non-gps-navigation-for-leo-satellites/" >🔗</a> **[SpaceNews]** TrustPoint demonstrates non-GPS navigation for LEO satellites
-- <a href="https://spacenews.com/portal-space-selects-space-armor-debris-shield-for-2026-mission/" >🔗</a> **[SpaceNews]** Portal Space selects ‘Space Armor’ debris shield for 2026 mission
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260115T210123">2026-01-15 21:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260115T213514">2026-01-15 21:35:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
