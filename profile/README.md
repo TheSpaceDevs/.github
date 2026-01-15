@@ -90,6 +90,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/managing-an-orbital-economy-as-space-grows-more-congested/" >🔗</a> **[SpaceNews]** Managing an orbital economy as space grows more congested
+- <a href="https://www.nasa.gov/image-article/hubble-spies-stellar-blast-setting-clouds-ablaze/" >🔗</a> **[NASA]** Hubble Spies Stellar Blast Setting Clouds Ablaze
+- <a href="https://spacenews.com/parsons-buys-altamira-for-375-million-to-expand-space-and-intelligence-portfolio/" >🔗</a> **[SpaceNews]** Parsons buys Altamira for $375 million to expand space and intelligence portfolio
 - <a href="https://arstechnica.com/space/2026/01/key-senate-staffer-is-begging-nasa-to-get-on-with-commercial-space-stations/" >🔗</a> **[Arstechnica]** Key Senate staffer is “begging” NASA to get on with commercial space stations
 - <a href="https://europeanspaceflight.com/cnes-launches-e1-million-ai-space-data-challenge/" >🔗</a> **[European Spaceflight]** CNES Launches €1 Million AI Space Data Challenge
 - <a href="https://spacenews.com/trustpoint-demonstrates-non-gps-navigation-for-leo-satellites/" >🔗</a> **[SpaceNews]** TrustPoint demonstrates non-GPS navigation for LEO satellites
@@ -97,9 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/slingshot-wins-27-million-space-force-contract-for-ai-training-system/" >🔗</a> **[SpaceNews]** Slingshot wins $27 million Space Force contract for AI training system
 - <a href="https://science.nasa.gov/missions/hubble/hubbles-album-of-planet-forming-disks/" >🔗</a> **[NASA]** Hubble’s Album of Planet-Forming Disks
 - <a href="https://spacenews.com/hydrosat-raises-60-million-in-series-b-funding/" >🔗</a> **[SpaceNews]** Hydrosat raises $60 million in Series B funding
-- <a href="https://www.nasa.gov/news-release/nasas-spacex-crew-11-mission-returns-splashes-down-off-california/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-11 Mission Returns, Splashes Down off California
-- <a href="https://spaceflightnow.com/2026/01/15/crew-11-safely-splashes-down-after-shortened-mission/" >🔗</a> **[Spaceflight Now]** Crew 11 safely splashes down after shortened mission
-- <a href="https://spacepolicyonline.com/news/crew-11-back-on-earth-so-ailing-crew-member-can-get-treatment/" >🔗</a> **[SpacePolicyOnline.com]** Crew-11 Back on Earth So Ailing Crew Member Can Get Treatment
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260115T160446">2026-01-15 16:04:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260115T164248">2026-01-15 16:42:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
