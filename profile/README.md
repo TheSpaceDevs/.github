@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/what-you-need-to-know-about-nasas-artemis-ii-moon-mission/" >🔗</a> **[NASA]** What You Need to Know About NASA’s Artemis II Moon Mission
 - <a href="https://www.nasa.gov/general/nasa-develops-blockchain-technology-to-enhance-air-travel-safety-and-security/" >🔗</a> **[NASA]** NASA Develops Blockchain Technology to Enhance Air Travel Safety and Security
 - <a href="https://spacenews.com/isar-aerospace-sets-date-for-second-spectrum-launch/" >🔗</a> **[SpaceNews]** Isar Aerospace sets date for second Spectrum launch
 - <a href="https://spacenews.com/china-conducts-static-fire-test-of-new-reusable-long-march-12b-rocket/" >🔗</a> **[SpaceNews]** China conducts static fire test of new reusable Long March 12B rocket
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/missions/station/iss-research/out-of-this-world-discoveries-space-station-research-in-2025/" >🔗</a> **[NASA]** Out of This World Discoveries: Space Station Research in 2025
 - <a href="https://www.nasa.gov/image-article/nasas-crawler-preps-for-artemis-ii-rollout/" >🔗</a> **[NASA]** NASA’s Crawler Preps for Artemis II Rollout
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_12-16_January_2026" >🔗</a> **[ESA]** Week in images: 12-16 January 2026
-- <a href="https://spacenews.com/the-countdown-to-clean-orbits-has-begun-with-esas-zero-debris-charter/" >🔗</a> **[SpaceNews]** The countdown to clean orbits has begun with ESA’s Zero Debris Charter
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260116T210159">2026-01-16 21:01:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260116T213429">2026-01-16 21:34:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
