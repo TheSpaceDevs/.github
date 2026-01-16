@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-conducts-static-fire-test-of-new-reusable-long-march-12b-rocket/" >🔗</a> **[SpaceNews]** China conducts static fire test of new reusable Long March 12B rocket
+- <a href="https://www.spacescout.info/2026/01/update-crew-11-makes-safe-return-to-earth/" >🔗</a> **[Space Scout]** Update: Crew-11 Makes Safe Return to Earth
 - <a href="https://spaceflightnow.com/2026/01/16/live-coverage-nro-spacex-to-launch-reconnaissance-satellites-from-vandenberg/" >🔗</a> **[Spaceflight Now]** Live coverage: NRO, SpaceX to launch reconnaissance satellites from Vandenberg
 - <a href="https://spacenews.com/ao-resistant-material-boosts-vleo-satellite-longevity/" >🔗</a> **[SpaceNews]** AO-Resistant Material Boosts VLEO Satellite Longevity
 - <a href="https://www.nasa.gov/missions/station/iss-research/out-of-this-world-discoveries-space-station-research-in-2025/" >🔗</a> **[NASA]** Out of This World Discoveries: Space Station Research in 2025
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/the-countdown-to-clean-orbits-has-begun-with-esas-zero-debris-charter/" >🔗</a> **[SpaceNews]** The countdown to clean orbits has begun with ESA’s Zero Debris Charter
 - <a href="https://science.nasa.gov/missions/hubble/hubble-observes-ghostly-cloud-alive-with-star-formation/" >🔗</a> **[NASA]** Hubble Observes Ghostly Cloud Alive with Star Formation
 - <a href="https://arstechnica.com/space/2026/01/rocket-report-ariane-64-to-debut-soon-india-has-a-falcon-9-clone-too/" >🔗</a> **[Arstechnica]** Rocket Report: Ariane 64 to debut soon; India has a Falcon 9 clone too?
-- <a href="https://spacenews.com/china-advances-plans-for-dual-solar-system-boundary-missions/" >🔗</a> **[SpaceNews]** China advances plans for dual solar system boundary missions
-- <a href="https://www.spacedaily.com/reports/GE_and_Lockheed_validate_compact_rotating_detonation_ramjet_for_hypersonic_missiles_999.html" >🔗</a> **[SpaceDaily]** GE and Lockheed validate compact rotating detonation ramjet for hypersonic missiles
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260116T180154">2026-01-16 18:01:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260116T184232">2026-01-16 18:42:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
