@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/nasa-develops-blockchain-technology-to-enhance-air-travel-safety-and-security/" >🔗</a> **[NASA]** NASA Develops Blockchain Technology to Enhance Air Travel Safety and Security
 - <a href="https://spacenews.com/isar-aerospace-sets-date-for-second-spectrum-launch/" >🔗</a> **[SpaceNews]** Isar Aerospace sets date for second Spectrum launch
 - <a href="https://spacenews.com/china-conducts-static-fire-test-of-new-reusable-long-march-12b-rocket/" >🔗</a> **[SpaceNews]** China conducts static fire test of new reusable Long March 12B rocket
 - <a href="https://www.spacescout.info/2026/01/update-crew-11-makes-safe-return-to-earth/" >🔗</a> **[Space Scout]** Update: Crew-11 Makes Safe Return to Earth
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/image-article/nasas-crawler-preps-for-artemis-ii-rollout/" >🔗</a> **[NASA]** NASA’s Crawler Preps for Artemis II Rollout
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_12-16_January_2026" >🔗</a> **[ESA]** Week in images: 12-16 January 2026
 - <a href="https://spacenews.com/the-countdown-to-clean-orbits-has-begun-with-esas-zero-debris-charter/" >🔗</a> **[SpaceNews]** The countdown to clean orbits has begun with ESA’s Zero Debris Charter
-- <a href="https://science.nasa.gov/missions/hubble/hubble-observes-ghostly-cloud-alive-with-star-formation/" >🔗</a> **[NASA]** Hubble Observes Ghostly Cloud Alive with Star Formation
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260116T200155">2026-01-16 20:01:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260116T203503">2026-01-16 20:35:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
