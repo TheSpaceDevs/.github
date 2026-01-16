@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/earth-observatory/blooming-seas-around-the-chatham-islands/" >🔗</a> **[NASA]** Blooming Seas Around the Chatham Islands
 - <a href="https://spacepolicyonline.com/news/final-fy2026-nasa-noaa-appropriations-bill-clears-senate-white-house-is-next/" >🔗</a> **[SpacePolicyOnline.com]** Final FY2026 NASA/NOAA Appropriations Bill Clears Senate, White House is Next
 - <a href="https://spacenews.com/congress-passes-minibus-spending-bill-that-rejects-proposed-nasa-cuts/" >🔗</a> **[SpaceNews]** Congress passes minibus spending bill that rejects proposed NASA cuts
 - <a href="https://www.nasa.gov/image-article/nasa-adds-two-f-15-aircraft-to-support-supersonic-flight-research/" >🔗</a> **[NASA]** NASA Adds Two F-15 Aircraft to Support Supersonic Flight Research
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/earth/nasa-data-helps-maine-oyster-farmers-choose-where-to-grow/" >🔗</a> **[NASA]** NASA Data Helps Maine Oyster Farmers Choose Where to Grow
 - <a href="https://spacenews.com/managing-an-orbital-economy-as-space-grows-more-congested/" >🔗</a> **[SpaceNews]** Managing an orbital economy as space grows more congested
 - <a href="https://www.nasa.gov/image-article/hubble-spies-stellar-blast-setting-clouds-ablaze/" >🔗</a> **[NASA]** Hubble Spies Stellar Blast Setting Clouds Ablaze
-- <a href="https://spacenews.com/parsons-buys-altamira-for-375-million-to-expand-space-and-intelligence-portfolio/" >🔗</a> **[SpaceNews]** Parsons buys Altamira for $375 million to expand space and intelligence portfolio
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260116T050406">2026-01-16 05:04:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260116T053831">2026-01-16 05:38:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
