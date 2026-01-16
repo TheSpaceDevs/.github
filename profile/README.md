@@ -90,15 +90,15 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.spacedaily.com/reports/Spire_adds_hyperspectral_sounder_and_Myriota_payloads_on_SpaceX_Twilight_launch_999.html" >🔗</a> **[SpaceDaily]** Spire adds hyperspectral sounder and Myriota payloads on SpaceX Twilight launch
-- <a href="https://www.spacedaily.com/reports/GE_and_Lockheed_validate_compact_rotating_detonation_ramjet_for_hypersonic_missiles_999.html" >🔗</a> **[SpaceDaily]** GE and Lockheed validate compact rotating detonation ramjet for hypersonic missiles
-- <a href="https://www.spacedaily.com/reports/Multiple_spacecraft_track_evolving_solar_storm_to_improve_space_weather_forecasts_999.html" >🔗</a> **[SpaceDaily]** Multiple spacecraft track evolving solar storm to improve space weather forecasts
 - <a href="https://www.spacewar.com/reports/Planet_secures_multi_year_satellite_contract_with_Swedish_Armed_Forces_999.html" >🔗</a> **[SpaceDaily]** Planet secures multi year satellite contract with Swedish Armed Forces
-- <a href="https://www.spacedaily.com/reports/Early_universe_dark_matter_born_red_hot_before_cooling_999.html" >🔗</a> **[SpaceDaily]** Early universe dark matter born red hot before cooling
+- <a href="https://www.spacedaily.com/reports/Spire_adds_hyperspectral_sounder_and_Myriota_payloads_on_SpaceX_Twilight_launch_999.html" >🔗</a> **[SpaceDaily]** Spire adds hyperspectral sounder and Myriota payloads on SpaceX Twilight launch
 - <a href="https://www.spacedaily.com/reports/ThinkOrbital_raises_seed_funding_to_advance_orbital_defense_and_construction_systems_999.html" >🔗</a> **[SpaceDaily]** ThinkOrbital raises seed funding to advance orbital defense and construction systems
-- <a href="https://www.terradaily.com/reports/Slow_orbital_wobble_patterns_drive_ancient_greenhouse_climate_swings_999.html" >🔗</a> **[SpaceDaily]** Slow orbital wobble patterns drive ancient greenhouse climate swings
+- <a href="https://www.spacedaily.com/reports/Early_universe_dark_matter_born_red_hot_before_cooling_999.html" >🔗</a> **[SpaceDaily]** Early universe dark matter born red hot before cooling
 - <a href="https://www.spacedaily.com/reports/Frozen_hydrogen_cyanide_crystals_may_have_helped_spark_early_chemistry_for_life_999.html" >🔗</a> **[SpaceDaily]** Frozen hydrogen cyanide crystals may have helped spark early chemistry for life
-- <a href="https://www.spacedaily.com/reports/ISS_astronauts_splash_down_on_Earth_after_first-ever_medical_evacuation_999.html" >🔗</a> **[SpaceDaily]** ISS astronauts splash down on Earth after first-ever medical evacuation
+- <a href="https://www.terradaily.com/reports/Slow_orbital_wobble_patterns_drive_ancient_greenhouse_climate_swings_999.html" >🔗</a> **[SpaceDaily]** Slow orbital wobble patterns drive ancient greenhouse climate swings
+- <a href="https://www.spacedaily.com/reports/Multiple_spacecraft_track_evolving_solar_storm_to_improve_space_weather_forecasts_999.html" >🔗</a> **[SpaceDaily]** Multiple spacecraft track evolving solar storm to improve space weather forecasts
+- <a href="https://www.spacedaily.com/reports/GE_and_Lockheed_validate_compact_rotating_detonation_ramjet_for_hypersonic_missiles_999.html" >🔗</a> **[SpaceDaily]** GE and Lockheed validate compact rotating detonation ramjet for hypersonic missiles
+- <a href="https://spacenews.com/japanese-launch-company-interstellar-technologies-raises-130-million/" >🔗</a> **[SpaceNews]** Japanese launch company Interstellar Technologies raises $130 million
 - <a href="https://www.spacedaily.com/reports/What_happens_when_fire_ignites_in_space_A_ball_of_flame_999.html" >🔗</a> **[SpaceDaily]** What happens when fire ignites in space? 'A ball of flame'
 
 
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260116T110123">2026-01-16 11:01:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260116T113340">2026-01-16 11:33:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
