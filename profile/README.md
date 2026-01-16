@@ -91,6 +91,7 @@ into *an Unknown
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/01/Power_to_the_Moon" >🔗</a> **[ESA]** Power to the Moon
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/01/Earth_from_Space_The_fate_of_a_giant" >🔗</a> **[ESA]** Earth from Space: The fate of a giant
 - <a href="https://science.nasa.gov/earth/earth-observatory/blooming-seas-around-the-chatham-islands/" >🔗</a> **[NASA]** Blooming Seas Around the Chatham Islands
 - <a href="https://spacepolicyonline.com/news/final-fy2026-nasa-noaa-appropriations-bill-clears-senate-white-house-is-next/" >🔗</a> **[SpacePolicyOnline.com]** Final FY2026 NASA/NOAA Appropriations Bill Clears Senate, White House is Next
 - <a href="https://spacenews.com/congress-passes-minibus-spending-bill-that-rejects-proposed-nasa-cuts/" >🔗</a> **[SpaceNews]** Congress passes minibus spending bill that rejects proposed NASA cuts
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/arianespace-to-begin-amazon-leo-launches-in-february/" >🔗</a> **[SpaceNews]** Arianespace to begin Amazon Leo launches in February
 - <a href="https://europeanspaceflight.com/eutelsat-awards-maiaspace-multi-launch-contract-for-oneweb-satellites/" >🔗</a> **[European Spaceflight]** Eutelsat Awards MaiaSpace Multi-Launch Contract for OneWeb Satellites
 - <a href="https://science.nasa.gov/earth/nasa-data-helps-maine-oyster-farmers-choose-where-to-grow/" >🔗</a> **[NASA]** NASA Data Helps Maine Oyster Farmers Choose Where to Grow
-- <a href="https://spacenews.com/managing-an-orbital-economy-as-space-grows-more-congested/" >🔗</a> **[SpaceNews]** Managing an orbital economy as space grows more congested
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260116T090335">2026-01-16 09:03:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260116T093806">2026-01-16 09:38:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
