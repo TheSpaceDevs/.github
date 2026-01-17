@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/arianespace-to-launch-first-ariane-64-rocket-on-12-feb/" >🔗</a> **[European Spaceflight]** Arianespace to launch first Ariane 64 rocket on 12 Feb
 - <a href="https://www.nasa.gov/news-release/nasas-spacex-crew-11-to-discuss-space-station-science-mission/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-11 to Discuss Space Station Science Mission
 - <a href="https://www.nasaspaceflight.com/2026/01/artemis-ii-rollout/" >🔗</a> **[NASASpaceflight]** Artemis II set to roll out to LC-39B for first crewed lunar mission since 1972
 - <a href="https://spacenews.com/indra-group-writes-off-damaged-spainsat-ng-2/" >🔗</a> **[SpaceNews]** Indra Group writes off damaged SpainSat NG 2
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/general/nasa-develops-blockchain-technology-to-enhance-air-travel-safety-and-security/" >🔗</a> **[NASA]** NASA Develops Blockchain Technology to Enhance Air Travel Safety and Security
 - <a href="https://spacenews.com/isar-aerospace-sets-date-for-second-spectrum-launch/" >🔗</a> **[SpaceNews]** Isar Aerospace sets date for second Spectrum launch
 - <a href="https://spacenews.com/china-conducts-static-fire-test-of-new-reusable-long-march-12b-rocket/" >🔗</a> **[SpaceNews]** China conducts static fire test of new reusable Long March 12B rocket
-- <a href="https://www.spacescout.info/2026/01/update-crew-11-makes-safe-return-to-earth/" >🔗</a> **[Space Scout]** Update: Crew-11 Makes Safe Return to Earth
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260117T050211">2026-01-17 05:02:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260117T053533">2026-01-17 05:35:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
