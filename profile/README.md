@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/white-house-resubmits-nasa-deputy-administrator-nominee/" >🔗</a> **[SpaceNews]** White House resubmits NASA deputy administrator nominee
 - <a href="https://spacenews.com/china-hit-by-dual-launch-failures-as-long-march-3b-and-ceres-2-debut-mission-fail/" >🔗</a> **[SpaceNews]** China hit by dual launch failures as Long March 3B and Ceres-2 debut mission fail
 - <a href="https://europeanspaceflight.com/arianespace-to-launch-first-ariane-64-rocket-on-12-feb/" >🔗</a> **[European Spaceflight]** Arianespace to launch first Ariane 64 rocket on 12 Feb
 - <a href="https://www.nasa.gov/news-release/nasas-spacex-crew-11-to-discuss-space-station-science-mission/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-11 to Discuss Space Station Science Mission
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/sls-orion-ready-to-roll-for-artemis-ii/" >🔗</a> **[SpacePolicyOnline.com]** SLS/Orion Ready to Roll for Artemis II
 - <a href="https://www.nasa.gov/news-release/what-you-need-to-know-about-nasas-artemis-ii-moon-mission/" >🔗</a> **[NASA]** What You Need to Know About NASA’s Artemis II Moon Mission
 - <a href="https://www.nasa.gov/general/nasa-develops-blockchain-technology-to-enhance-air-travel-safety-and-security/" >🔗</a> **[NASA]** NASA Develops Blockchain Technology to Enhance Air Travel Safety and Security
-- <a href="https://spacenews.com/isar-aerospace-sets-date-for-second-spectrum-launch/" >🔗</a> **[SpaceNews]** Isar Aerospace sets date for second Spectrum launch
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260117T113146">2026-01-17 11:31:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260117T120157">2026-01-17 12:01:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
