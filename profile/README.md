@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacescout.info/2026/01/rollout-brings-the-dawn-of-artemis-ii/" >🔗</a> **[Space Scout]** Rollout Brings the Dawn of Artemis II
 - <a href="https://spacenews.com/sls-orion-rolls-to-pad-for-artemis-2/" >🔗</a> **[SpaceNews]** SLS/Orion rolls to pad for Artemis 2
 - <a href="https://science.nasa.gov/missions/hubble/hubble-snaps-stellar-baby-pictures/" >🔗</a> **[NASA]** Hubble Snaps Stellar Baby Pictures
 - <a href="https://spacenews.com/white-house-resubmits-nasa-deputy-administrator-nominee/" >🔗</a> **[SpaceNews]** White House resubmits NASA deputy administrator nominee
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2026/01/artemis-ii-rollout/" >🔗</a> **[NASASpaceflight]** Artemis II set to roll out to LC-39B for first crewed lunar mission since 1972
 - <a href="https://spacenews.com/indra-group-writes-off-damaged-spainsat-ng-2/" >🔗</a> **[SpaceNews]** Indra Group writes off damaged SpainSat NG 2
 - <a href="https://www.nasa.gov/news-release/nasa-receives-15th-consecutive-clean-financial-audit-opinion/" >🔗</a> **[NASA]** NASA Receives 15th Consecutive ‘Clean’ Financial Audit Opinion
-- <a href="https://spacepolicyonline.com/news/sls-orion-ready-to-roll-for-artemis-ii/" >🔗</a> **[SpacePolicyOnline.com]** SLS/Orion Ready to Roll for Artemis II
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260117T200142">2026-01-17 20:01:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260117T203504">2026-01-17 20:35:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
