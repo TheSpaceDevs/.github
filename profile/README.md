@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/sls-orion-rolls-to-pad-for-artemis-2/" >🔗</a> **[SpaceNews]** SLS/Orion rolls to pad for Artemis 2
+- <a href="https://science.nasa.gov/missions/hubble/hubble-snaps-stellar-baby-pictures/" >🔗</a> **[NASA]** Hubble Snaps Stellar Baby Pictures
 - <a href="https://spacenews.com/white-house-resubmits-nasa-deputy-administrator-nominee/" >🔗</a> **[SpaceNews]** White House resubmits NASA deputy administrator nominee
 - <a href="https://spacenews.com/china-hit-by-dual-launch-failures-as-long-march-3b-and-ceres-2-debut-mission-fail/" >🔗</a> **[SpaceNews]** China hit by dual launch failures as Long March 3B and Ceres-2 debut mission fail
 - <a href="https://europeanspaceflight.com/arianespace-to-launch-first-ariane-64-rocket-on-12-feb/" >🔗</a> **[European Spaceflight]** Arianespace to launch first Ariane 64 rocket on 12 Feb
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/indra-group-writes-off-damaged-spainsat-ng-2/" >🔗</a> **[SpaceNews]** Indra Group writes off damaged SpainSat NG 2
 - <a href="https://www.nasa.gov/news-release/nasa-receives-15th-consecutive-clean-financial-audit-opinion/" >🔗</a> **[NASA]** NASA Receives 15th Consecutive ‘Clean’ Financial Audit Opinion
 - <a href="https://spacepolicyonline.com/news/sls-orion-ready-to-roll-for-artemis-ii/" >🔗</a> **[SpacePolicyOnline.com]** SLS/Orion Ready to Roll for Artemis II
-- <a href="https://www.nasa.gov/news-release/what-you-need-to-know-about-nasas-artemis-ii-moon-mission/" >🔗</a> **[NASA]** What You Need to Know About NASA’s Artemis II Moon Mission
-- <a href="https://www.nasa.gov/general/nasa-develops-blockchain-technology-to-enhance-air-travel-safety-and-security/" >🔗</a> **[NASA]** NASA Develops Blockchain Technology to Enhance Air Travel Safety and Security
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260117T180149">2026-01-17 18:01:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260117T184013">2026-01-17 18:40:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
