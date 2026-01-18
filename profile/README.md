@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/hisdesat-confirms-spanish-military-satellite-sustained-non-recoverable-damage/" >🔗</a> **[European Spaceflight]** Hisdesat Confirms Spanish Military Satellite Sustained “Non-Recoverable Damage”
 - <a href="https://www.spacescout.info/2026/01/rollout-brings-the-dawn-of-artemis-ii/" >🔗</a> **[Space Scout]** Rollout Brings the Dawn of Artemis II
 - <a href="https://spacenews.com/sls-orion-rolls-to-pad-for-artemis-2/" >🔗</a> **[SpaceNews]** SLS/Orion rolls to pad for Artemis 2
 - <a href="https://science.nasa.gov/missions/hubble/hubble-snaps-stellar-baby-pictures/" >🔗</a> **[NASA]** Hubble Snaps Stellar Baby Pictures
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasas-spacex-crew-11-to-discuss-space-station-science-mission/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-11 to Discuss Space Station Science Mission
 - <a href="https://www.nasaspaceflight.com/2026/01/artemis-ii-rollout/" >🔗</a> **[NASASpaceflight]** Artemis II set to roll out to LC-39B for first crewed lunar mission since 1972
 - <a href="https://spacenews.com/indra-group-writes-off-damaged-spainsat-ng-2/" >🔗</a> **[SpaceNews]** Indra Group writes off damaged SpainSat NG 2
-- <a href="https://www.nasa.gov/news-release/nasa-receives-15th-consecutive-clean-financial-audit-opinion/" >🔗</a> **[NASA]** NASA Receives 15th Consecutive ‘Clean’ Financial Audit Opinion
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260118T060153">2026-01-18 06:01:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260118T064214">2026-01-18 06:42:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
