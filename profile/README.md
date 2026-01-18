@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-january-18-24-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy January 18-24, 2026
+- <a href="https://www.nasaspaceflight.com/2026/01/space-science-2026-preview/" >🔗</a> **[NASASpaceflight]** Space Science in 2026: New lunar explorers, Mars missions, and space telescopes
 - <a href="https://spaceflightnow.com/2026/01/18/live-coverage-space-falcon-9-rocket-counting-down-to-starlink-delivery-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: Space Falcon 9 rocket counting down to Starlink delivery mission
 - <a href="https://spacenews.com/eutelsat-signs-oneweb-launch-deal-with-maiaspace/" >🔗</a> **[SpaceNews]** Eutelsat signs OneWeb launch deal with MaiaSpace
 - <a href="https://europeanspaceflight.com/hisdesat-confirms-spanish-military-satellite-sustained-non-recoverable-damage/" >🔗</a> **[European Spaceflight]** Hisdesat Confirms Spanish Military Satellite Sustained “Non-Recoverable Damage”
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/missions/hubble/hubble-snaps-stellar-baby-pictures/" >🔗</a> **[NASA]** Hubble Snaps Stellar Baby Pictures
 - <a href="https://spacenews.com/white-house-resubmits-nasa-deputy-administrator-nominee/" >🔗</a> **[SpaceNews]** White House resubmits NASA deputy administrator nominee
 - <a href="https://spacenews.com/china-hit-by-dual-launch-failures-as-long-march-3b-and-ceres-2-debut-mission-fail/" >🔗</a> **[SpaceNews]** China hit by dual launch failures as Long March 3B and Ceres-2 debut mission fail
-- <a href="https://europeanspaceflight.com/arianespace-to-launch-first-ariane-64-rocket-on-12-feb/" >🔗</a> **[European Spaceflight]** Arianespace to launch first Ariane 64 rocket on 12 Feb
-- <a href="https://www.nasa.gov/news-release/nasas-spacex-crew-11-to-discuss-space-station-science-mission/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-11 to Discuss Space Station Science Mission
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260118T210121">2026-01-18 21:01:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260118T213326">2026-01-18 21:33:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
