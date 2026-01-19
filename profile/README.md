@@ -90,16 +90,16 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-january-18-24-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy January 18-24, 2026
-- <a href="https://www.nasaspaceflight.com/2026/01/space-science-2026-preview/" >🔗</a> **[NASASpaceflight]** Space Science in 2026: New lunar explorers, Mars missions, and space telescopes
-- <a href="https://spaceflightnow.com/2026/01/18/live-coverage-space-falcon-9-rocket-counting-down-to-starlink-delivery-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: Space Falcon 9 rocket counting down to Starlink delivery mission
-- <a href="https://spacenews.com/eutelsat-signs-oneweb-launch-deal-with-maiaspace/" >🔗</a> **[SpaceNews]** Eutelsat signs OneWeb launch deal with MaiaSpace
-- <a href="https://europeanspaceflight.com/hisdesat-confirms-spanish-military-satellite-sustained-non-recoverable-damage/" >🔗</a> **[European Spaceflight]** Hisdesat Confirms Spanish Military Satellite Sustained “Non-Recoverable Damage”
-- <a href="https://www.spacescout.info/2026/01/rollout-brings-the-dawn-of-artemis-ii/" >🔗</a> **[Space Scout]** Rollout Brings the Dawn of Artemis II
-- <a href="https://spacenews.com/sls-orion-rolls-to-pad-for-artemis-2/" >🔗</a> **[SpaceNews]** SLS/Orion rolls to pad for Artemis 2
-- <a href="https://science.nasa.gov/missions/hubble/hubble-snaps-stellar-baby-pictures/" >🔗</a> **[NASA]** Hubble Snaps Stellar Baby Pictures
-- <a href="https://spacenews.com/white-house-resubmits-nasa-deputy-administrator-nominee/" >🔗</a> **[SpaceNews]** White House resubmits NASA deputy administrator nominee
-- <a href="https://spacenews.com/china-hit-by-dual-launch-failures-as-long-march-3b-and-ceres-2-debut-mission-fail/" >🔗</a> **[SpaceNews]** China hit by dual launch failures as Long March 3B and Ceres-2 debut mission fail
+- <a href="https://www.spacedaily.com/reports/Iron_bar_of_hot_plasma_revealed_inside_Ring_Nebula_999.html" >🔗</a> **[SpaceDaily]** Iron bar of hot plasma revealed inside Ring Nebula
+- <a href="https://www.spacedaily.com/reports/Hidden_magma_oceans_could_shield_rocky_exoplanets_from_harmful_radiation_999.html" >🔗</a> **[SpaceDaily]** Hidden magma oceans could shield rocky exoplanets from harmful radiation
+- <a href="https://www.spacedaily.com/reports/Laser_timing_tech_sharpens_black_hole_radio_views_999.html" >🔗</a> **[SpaceDaily]** Laser timing tech sharpens black hole radio views
+- <a href="https://www.spacedaily.com/reports/China_tests_Long_March_12B_reusable_first_stage_at_Jiuquan_999.html" >🔗</a> **[SpaceDaily]** China tests Long March 12B reusable first stage at Jiuquan
+- <a href="https://www.spacedaily.com/reports/China_lofts_AlSat_3A_imaging_craft_for_Algeria_999.html" >🔗</a> **[SpaceDaily]** China lofts AlSat 3A imaging craft for Algeria
+- <a href="https://www.spacedaily.com/reports/NASA_moves_moon_rocket_to_launch_pad_ahead_of_Artemis_2_mission_999.html" >🔗</a> **[SpaceDaily]** NASA moves moon rocket to launch pad ahead of Artemis 2 mission
+- <a href="https://www.spacedaily.com/reports/Computer_models_let_scientists_peer_into_the_mystery_beneath_Jupiters_clouds_999.html" >🔗</a> **[SpaceDaily]** Computer models let scientists peer into the mystery beneath Jupiter's clouds
+- <a href="https://www.spacedaily.com/reports/Galactic_Energy_conducts_sixth_offshore_Ceres_1_mission_from_Yellow_Sea_platform_999.html" >🔗</a> **[SpaceDaily]** Galactic Energy conducts sixth offshore Ceres 1 mission from Yellow Sea platform
+- <a href="https://www.spacedaily.com/reports/Interstellar_raises_major_Series_F_funding_to_expand_launch_and_satellite_business_999.html" >🔗</a> **[SpaceDaily]** Interstellar raises major Series F funding to expand launch and satellite business
+- <a href="https://www.spacedaily.com/reports/China_Sky_Eye_tracks_binary_triggered_fast_radio_burst_activity_999.html" >🔗</a> **[SpaceDaily]** China Sky Eye tracks binary-triggered fast radio burst activity
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260119T090558">2026-01-19 09:05:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260119T094228">2026-01-19 09:42:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
