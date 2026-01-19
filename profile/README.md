@@ -91,15 +91,15 @@ into *a Polar Orbit
 
 ### Latest News ⌛
 - <a href="https://spacenews.com/nasa-must-act-now-to-ensure-u-s-leadership-in-space/" >🔗</a> **[SpaceNews]** NASA must act now to ensure U.S. leadership in space
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/01/Rocket_roll" >🔗</a> **[ESA]** Rocket roll
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/01/Vega-C_overview_infographic" >🔗</a> **[ESA]** Vega-C overview infographic
 - <a href="https://spacenews.com/space-force-ends-resilient-gps-satellite-program/" >🔗</a> **[SpaceNews]** Space Force ends ‘Resilient GPS’ satellite program
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/01/Proba-3_our_eyes_on_the_Sun_s_inner_corona" >🔗</a> **[ESA]** Proba-3: our eyes on the Sun’s inner corona
 - <a href="https://www.esa.int/About_Us/Careers_at_ESA/The_EGT_Programme_your_road_to_space" >🔗</a> **[ESA]** The EGT Programme: your road to space
-- <a href="https://www.spacedaily.com/reports/China_lofts_AlSat_3A_imaging_craft_for_Algeria_999.html" >🔗</a> **[SpaceDaily]** China lofts AlSat 3A imaging craft for Algeria
-- <a href="https://www.spacedaily.com/reports/China_tests_Long_March_12B_reusable_first_stage_at_Jiuquan_999.html" >🔗</a> **[SpaceDaily]** China tests Long March 12B reusable first stage at Jiuquan
-- <a href="https://www.spacedaily.com/reports/Laser_timing_tech_sharpens_black_hole_radio_views_999.html" >🔗</a> **[SpaceDaily]** Laser timing tech sharpens black hole radio views
-- <a href="https://www.spacedaily.com/reports/NASA_moves_moon_rocket_to_launch_pad_ahead_of_Artemis_2_mission_999.html" >🔗</a> **[SpaceDaily]** NASA moves moon rocket to launch pad ahead of Artemis 2 mission
 - <a href="https://www.spacedaily.com/reports/Interstellar_raises_major_Series_F_funding_to_expand_launch_and_satellite_business_999.html" >🔗</a> **[SpaceDaily]** Interstellar raises major Series F funding to expand launch and satellite business
+- <a href="https://www.spacedaily.com/reports/Galactic_Energy_conducts_sixth_offshore_Ceres_1_mission_from_Yellow_Sea_platform_999.html" >🔗</a> **[SpaceDaily]** Galactic Energy conducts sixth offshore Ceres 1 mission from Yellow Sea platform
+- <a href="https://www.spacedaily.com/reports/China_tests_Long_March_12B_reusable_first_stage_at_Jiuquan_999.html" >🔗</a> **[SpaceDaily]** China tests Long March 12B reusable first stage at Jiuquan
+- <a href="https://www.spacedaily.com/reports/NASA_moves_moon_rocket_to_launch_pad_ahead_of_Artemis_2_mission_999.html" >🔗</a> **[SpaceDaily]** NASA moves moon rocket to launch pad ahead of Artemis 2 mission
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260119T140507">2026-01-19 14:05:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260119T144010">2026-01-19 14:40:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
