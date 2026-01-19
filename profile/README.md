@@ -90,6 +90,7 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/repaired-shenzhou-20-returns-to-earth-empty/" >🔗</a> **[SpacePolicyOnline.com]** Repaired Shenzhou-20 Returns to Earth Empty
 - <a href="https://arstechnica.com/space/2026/01/as-europes-large-ground-telescope-project-advances-how-is-its-us-competitor-faring/" >🔗</a> **[Arstechnica]** As Europe's large ground telescope project advances, how is its US competitor faring?
 - <a href="https://www.spacescout.info/2026/01/20-years-of-planning-effort-ready-to-culminate-in-return-to-the-moon/" >🔗</a> **[Space Scout]** 20 Years of Planning, Effort Ready to Culminate in Return to the Moon
 - <a href="https://spacenews.com/nasa-must-act-now-to-ensure-u-s-leadership-in-space/" >🔗</a> **[SpaceNews]** NASA must act now to ensure U.S. leadership in space
@@ -99,7 +100,6 @@ into *a Polar Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/01/Proba-3_our_eyes_on_the_Sun_s_inner_corona" >🔗</a> **[ESA]** Proba-3: our eyes on the Sun’s inner corona
 - <a href="https://www.esa.int/About_Us/Careers_at_ESA/The_EGT_Programme_your_road_to_space" >🔗</a> **[ESA]** The EGT Programme: your road to space
 - <a href="https://www.spacedaily.com/reports/Galactic_Energy_conducts_sixth_offshore_Ceres_1_mission_from_Yellow_Sea_platform_999.html" >🔗</a> **[SpaceDaily]** Galactic Energy conducts sixth offshore Ceres 1 mission from Yellow Sea platform
-- <a href="https://www.spacedaily.com/reports/NASA_moves_moon_rocket_to_launch_pad_ahead_of_Artemis_2_mission_999.html" >🔗</a> **[SpaceDaily]** NASA moves moon rocket to launch pad ahead of Artemis 2 mission
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260119T220117">2026-01-19 22:01:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260119T223632">2026-01-19 22:36:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
