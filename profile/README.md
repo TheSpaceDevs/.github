@@ -97,6 +97,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/arianegroup-appoints-safrans-christophe-bruneau-as-next-ceo/" >🔗</a> **[European Spaceflight]** ArianeGroup Appoints Safran’s Christophe Bruneau as Next CEO
 - <a href="https://spacenews.com/damaged-dsn-antenna-out-of-service-until-may/" >🔗</a> **[SpaceNews]** Damaged DSN antenna out of service until May
 - <a href="https://www.nasaspaceflight.com/2026/01/launch-preview-011926/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9 set to launch two missions from California, Isar to attempt second launch of Spectrum
 - <a href="https://spacepolicyonline.com/news/repaired-shenzhou-20-returns-to-earth-empty/" >🔗</a> **[SpacePolicyOnline.com]** Repaired Shenzhou-20 Returns to Earth Empty
@@ -106,7 +107,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/01/Rocket_roll" >🔗</a> **[ESA]** Rocket roll
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/01/Vega-C_overview_infographic" >🔗</a> **[ESA]** Vega-C overview infographic
 - <a href="https://spacenews.com/space-force-ends-resilient-gps-satellite-program/" >🔗</a> **[SpaceNews]** Space Force ends ‘Resilient GPS’ satellite program
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/01/Proba-3_our_eyes_on_the_Sun_s_inner_corona" >🔗</a> **[ESA]** Proba-3: our eyes on the Sun’s inner corona
 
 
 ### Launch-related News 🚀
@@ -122,7 +122,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260120T090620">2026-01-20 09:06:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260120T094131">2026-01-20 09:41:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
