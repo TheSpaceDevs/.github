@@ -97,6 +97,8 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/defense-appropriations-bill-for-2026-funds-space-force-at-26-billion-presses-pentagon-on-golden-dome/" >🔗</a> **[SpaceNews]** Defense appropriations bill for 2026 funds Space Force at $26 billion, presses Pentagon on Golden Dome
+- <a href="https://www.nasa.gov/news-release/nasa-astronaut-suni-williams-retires/" >🔗</a> **[NASA]** NASA Astronaut Suni Williams Retires
 - <a href="https://www.nasa.gov/news-release/new-nasa-artemis-payloads-to-study-moons-terrain-radiation-history/" >🔗</a> **[NASA]** New NASA Artemis Payloads To Study Moon’s Terrain, Radiation, History
 - <a href="https://spacenews.com/space-foundation-to-host-innovate-space-finance-forum-in-partnership-with-texas-space-commission/" >🔗</a> **[SpaceNews]** Space Foundation to Host Innovate Space: Finance Forum in Partnership With Texas Space Commission
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nih-supplements-facts-first-challenge/" >🔗</a> **[NASA]** NIH Supplements, Facts First Challenge
@@ -105,8 +107,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasa.gov/image-article/nasas-sls-rocket-secondary-payloads/" >🔗</a> **[NASA]** NASA’s SLS Rocket: Secondary Payloads
 - <a href="https://www.nasa.gov/news-release/nasa-unlocks-golden-age-of-innovation-exploration-in-trumps-first-year/" >🔗</a> **[NASA]** NASA Unlocks Golden Age of Innovation, Exploration in Trump’s First Year
 - <a href="https://www.nasa.gov/image-article/hubble-nets-menagerie-of-young-stellar-objects/" >🔗</a> **[NASA]** Hubble Nets Menagerie of Young Stellar Objects
-- <a href="https://europeanspaceflight.com/airbus-runs-into-opposition-with-satellite-business-consolidation/" >🔗</a> **[European Spaceflight]** Airbus Runs into Opposition with Satellite Business Consolidation
-- <a href="https://arstechnica.com/space/2026/01/the-first-commercial-space-station-haven-1-is-now-undergoing-assembly-for-launch/" >🔗</a> **[Arstechnica]** The first commercial space station, Haven-1, is now undergoing assembly for launch
 
 
 ### Launch-related News 🚀
@@ -124,7 +124,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260120T220154">2026-01-20 22:01:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260120T223611">2026-01-20 22:36:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
