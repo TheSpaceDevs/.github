@@ -97,16 +97,16 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/hubble-nets-menagerie-of-young-stellar-objects/" >🔗</a> **[NASA]** Hubble Nets Menagerie of Young Stellar Objects
 - <a href="https://europeanspaceflight.com/airbus-runs-into-opposition-with-satellite-business-consolidation/" >🔗</a> **[European Spaceflight]** Airbus Runs into Opposition with Satellite Business Consolidation
 - <a href="https://arstechnica.com/space/2026/01/the-first-commercial-space-station-haven-1-is-now-undergoing-assembly-for-launch/" >🔗</a> **[Arstechnica]** The first commercial space station, Haven-1, is now undergoing assembly for launch
-- <a href="https://science.nasa.gov/missions/webb/intricacies-of-helix-nebula-revealed-with-nasas-webb/" >🔗</a> **[NASA]** Intricacies of Helix Nebula Revealed With NASA’s Webb
-- <a href="https://spacenews.com/commercial-space-federation-csf-welcomes-3-new-associate-members/" >🔗</a> **[SpaceNews]** Commercial Space Federation (CSF) Welcomes 3 New Associate Members
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/01/Webb_reveals_Helix_Nebula_in_glistening_detail" >🔗</a> **[ESA]** Webb reveals Helix Nebula in glistening detail
+- <a href="https://spacenews.com/commercial-space-federation-csf-welcomes-3-new-associate-members/" >🔗</a> **[SpaceNews]** Commercial Space Federation (CSF) Welcomes 3 New Associate Members
+- <a href="https://science.nasa.gov/missions/webb/intricacies-of-helix-nebula-revealed-with-nasas-webb/" >🔗</a> **[NASA]** Intricacies of Helix Nebula Revealed With NASA’s Webb
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/01/Smoke_plumes_from_Chile_wildfires_seen_by_Sentinel-3" >🔗</a> **[ESA]** Smoke plumes from Chile wildfires seen by Sentinel-3
-- <a href="https://spacenews.com/free-warnings-better-catalogs-the-real-fix-for-space-safety/" >🔗</a> **[SpaceNews]** Free warnings, better catalogs: the real fix for space safety
 - <a href="https://spacenews.com/washington-harbour-expands-space-investments-with-ground-services-acquisition/" >🔗</a> **[SpaceNews]** Washington Harbour expands space investments with ground services acquisition
+- <a href="https://spacenews.com/free-warnings-better-catalogs-the-real-fix-for-space-safety/" >🔗</a> **[SpaceNews]** Free warnings, better catalogs: the real fix for space safety
 - <a href="https://spacenews.com/sodern-to-produce-star-trackers-in-colorado/" >🔗</a> **[SpaceNews]** Sodern to produce star trackers in Colorado
-- <a href="https://spacenews.com/gilmour-space-raises-146-million/" >🔗</a> **[SpaceNews]** Gilmour Space raises $146 million
 
 
 ### Launch-related News 🚀
@@ -124,7 +124,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260120T160405">2026-01-20 16:04:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260120T164237">2026-01-20 16:42:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
