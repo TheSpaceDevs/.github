@@ -97,6 +97,8 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/new-nasa-artemis-payloads-to-study-moons-terrain-radiation-history/" >🔗</a> **[NASA]** New NASA Artemis Payloads To Study Moon’s Terrain, Radiation, History
+- <a href="https://spacenews.com/space-foundation-to-host-innovate-space-finance-forum-in-partnership-with-texas-space-commission/" >🔗</a> **[SpaceNews]** Space Foundation to Host Innovate Space: Finance Forum in Partnership With Texas Space Commission
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nih-supplements-facts-first-challenge/" >🔗</a> **[NASA]** NIH Supplements, Facts First Challenge
 - <a href="https://www.nasa.gov/aeronautics/chase-aircraft-ensures-x-59-safety/" >🔗</a> **[NASA]** NASA Chase Aircraft Ensures X-59’s Safety in Flight
 - <a href="https://www.nasaspaceflight.com/2026/01/florida-starship-progress-ksc-cape/" >🔗</a> **[NASASpaceflight]** Florida Starship progress with launch sites at KSC and Cape
@@ -105,8 +107,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasa.gov/image-article/hubble-nets-menagerie-of-young-stellar-objects/" >🔗</a> **[NASA]** Hubble Nets Menagerie of Young Stellar Objects
 - <a href="https://europeanspaceflight.com/airbus-runs-into-opposition-with-satellite-business-consolidation/" >🔗</a> **[European Spaceflight]** Airbus Runs into Opposition with Satellite Business Consolidation
 - <a href="https://arstechnica.com/space/2026/01/the-first-commercial-space-station-haven-1-is-now-undergoing-assembly-for-launch/" >🔗</a> **[Arstechnica]** The first commercial space station, Haven-1, is now undergoing assembly for launch
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/01/Webb_reveals_Helix_Nebula_in_glistening_detail" >🔗</a> **[ESA]** Webb reveals Helix Nebula in glistening detail
-- <a href="https://spacenews.com/commercial-space-federation-csf-welcomes-3-new-associate-members/" >🔗</a> **[SpaceNews]** Commercial Space Federation (CSF) Welcomes 3 New Associate Members
 
 
 ### Launch-related News 🚀
@@ -124,7 +124,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260120T210251">2026-01-20 21:02:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260120T213530">2026-01-20 21:35:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
