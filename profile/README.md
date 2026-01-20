@@ -97,6 +97,9 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/01/Smoke_plumes_from_Chile_wildfires_seen_by_Sentinel-3" >🔗</a> **[ESA]** Smoke plumes from Chile wildfires seen by Sentinel-3
+- <a href="https://spacenews.com/free-warnings-better-catalogs-the-real-fix-for-space-safety/" >🔗</a> **[SpaceNews]** Free warnings, better catalogs: the real fix for space safety
+- <a href="https://spacenews.com/washington-harbour-expands-space-investments-with-ground-services-acquisition/" >🔗</a> **[SpaceNews]** Washington Harbour expands space investments with ground services acquisition
 - <a href="https://spacenews.com/sodern-to-produce-star-trackers-in-colorado/" >🔗</a> **[SpaceNews]** Sodern to produce star trackers in Colorado
 - <a href="https://spacenews.com/gilmour-space-raises-146-million/" >🔗</a> **[SpaceNews]** Gilmour Space raises $146 million
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Boost/Spectrum_s_qualifying_second_launch" >🔗</a> **[ESA]** Spectrum’s qualifying second launch
@@ -104,9 +107,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.esa.int/Space_Safety/Space_weather/ESA_monitoring_January_2026_space_weather_event" >🔗</a> **[ESA]** ESA monitoring January 2026 space weather event
 - <a href="https://www.esa.int/About_Us/Business_with_ESA/Stay_smart_on_space_chemical_compliance" >🔗</a> **[ESA]** Stay smart on space chemical compliance
 - <a href="https://europeanspaceflight.com/arianegroup-appoints-safrans-christophe-bruneau-as-next-ceo/" >🔗</a> **[European Spaceflight]** ArianeGroup Appoints Safran’s Christophe Bruneau as Next CEO
-- <a href="https://spacenews.com/damaged-dsn-antenna-out-of-service-until-may/" >🔗</a> **[SpaceNews]** Damaged DSN antenna out of service until May
-- <a href="https://www.nasaspaceflight.com/2026/01/launch-preview-011926/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9 set to launch two missions from California, Isar to attempt second launch of Spectrum
-- <a href="https://spacepolicyonline.com/news/repaired-shenzhou-20-returns-to-earth-empty/" >🔗</a> **[SpacePolicyOnline.com]** Repaired Shenzhou-20 Returns to Earth Empty
 
 
 ### Launch-related News 🚀
@@ -124,7 +124,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260120T140710">2026-01-20 14:07:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260120T144118">2026-01-20 14:41:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
