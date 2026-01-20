@@ -97,16 +97,16 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/gilmour-space-raises-146-million/" >🔗</a> **[SpaceNews]** Gilmour Space raises $146 million
+- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Boost/Spectrum_s_qualifying_second_launch" >🔗</a> **[ESA]** Spectrum’s qualifying second launch
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/jaclyn-kagey-shapes-humanitys-return-to-the-moon/" >🔗</a> **[NASA]** Jaclyn Kagey Shapes Humanity’s Return to the Moon
+- <a href="https://www.esa.int/About_Us/Business_with_ESA/Stay_smart_on_space_chemical_compliance" >🔗</a> **[ESA]** Stay smart on space chemical compliance
 - <a href="https://europeanspaceflight.com/arianegroup-appoints-safrans-christophe-bruneau-as-next-ceo/" >🔗</a> **[European Spaceflight]** ArianeGroup Appoints Safran’s Christophe Bruneau as Next CEO
 - <a href="https://spacenews.com/damaged-dsn-antenna-out-of-service-until-may/" >🔗</a> **[SpaceNews]** Damaged DSN antenna out of service until May
 - <a href="https://www.nasaspaceflight.com/2026/01/launch-preview-011926/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9 set to launch two missions from California, Isar to attempt second launch of Spectrum
 - <a href="https://spacepolicyonline.com/news/repaired-shenzhou-20-returns-to-earth-empty/" >🔗</a> **[SpacePolicyOnline.com]** Repaired Shenzhou-20 Returns to Earth Empty
 - <a href="https://arstechnica.com/space/2026/01/as-europes-large-ground-telescope-project-advances-how-is-its-us-competitor-faring/" >🔗</a> **[Arstechnica]** As Europe's large ground telescope project advances, how is its US competitor faring?
 - <a href="https://www.spacescout.info/2026/01/20-years-of-planning-effort-ready-to-culminate-in-return-to-the-moon/" >🔗</a> **[Space Scout]** 20 Years of Planning, Effort Ready to Culminate in Return to the Moon
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/01/Rocket_roll" >🔗</a> **[ESA]** Rocket roll
-- <a href="https://spacenews.com/nasa-must-act-now-to-ensure-u-s-leadership-in-space/" >🔗</a> **[SpaceNews]** NASA must act now to ensure U.S. leadership in space
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/01/Vega-C_overview_infographic" >🔗</a> **[ESA]** Vega-C overview infographic
 
 
 ### Launch-related News 🚀
@@ -123,7 +123,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260120T120213">2026-01-20 12:02:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260120T124418">2026-01-20 12:44:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
