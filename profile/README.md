@@ -97,16 +97,16 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/airbus-runs-into-opposition-with-satellite-business-consolidation/" >🔗</a> **[European Spaceflight]** Airbus Runs into Opposition with Satellite Business Consolidation
+- <a href="https://arstechnica.com/space/2026/01/the-first-commercial-space-station-haven-1-is-now-undergoing-assembly-for-launch/" >🔗</a> **[Arstechnica]** The first commercial space station, Haven-1, is now undergoing assembly for launch
+- <a href="https://science.nasa.gov/missions/webb/intricacies-of-helix-nebula-revealed-with-nasas-webb/" >🔗</a> **[NASA]** Intricacies of Helix Nebula Revealed With NASA’s Webb
+- <a href="https://spacenews.com/commercial-space-federation-csf-welcomes-3-new-associate-members/" >🔗</a> **[SpaceNews]** Commercial Space Federation (CSF) Welcomes 3 New Associate Members
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/01/Webb_reveals_Helix_Nebula_in_glistening_detail" >🔗</a> **[ESA]** Webb reveals Helix Nebula in glistening detail
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/01/Smoke_plumes_from_Chile_wildfires_seen_by_Sentinel-3" >🔗</a> **[ESA]** Smoke plumes from Chile wildfires seen by Sentinel-3
 - <a href="https://spacenews.com/free-warnings-better-catalogs-the-real-fix-for-space-safety/" >🔗</a> **[SpaceNews]** Free warnings, better catalogs: the real fix for space safety
 - <a href="https://spacenews.com/washington-harbour-expands-space-investments-with-ground-services-acquisition/" >🔗</a> **[SpaceNews]** Washington Harbour expands space investments with ground services acquisition
 - <a href="https://spacenews.com/sodern-to-produce-star-trackers-in-colorado/" >🔗</a> **[SpaceNews]** Sodern to produce star trackers in Colorado
 - <a href="https://spacenews.com/gilmour-space-raises-146-million/" >🔗</a> **[SpaceNews]** Gilmour Space raises $146 million
-- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Boost/Spectrum_s_qualifying_second_launch" >🔗</a> **[ESA]** Spectrum’s qualifying second launch
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/jaclyn-kagey-shapes-humanitys-return-to-the-moon/" >🔗</a> **[NASA]** Jaclyn Kagey Shapes Humanity’s Return to the Moon
-- <a href="https://www.esa.int/Space_Safety/Space_weather/ESA_monitoring_January_2026_space_weather_event" >🔗</a> **[ESA]** ESA monitoring January 2026 space weather event
-- <a href="https://www.esa.int/About_Us/Business_with_ESA/Stay_smart_on_space_chemical_compliance" >🔗</a> **[ESA]** Stay smart on space chemical compliance
-- <a href="https://europeanspaceflight.com/arianegroup-appoints-safrans-christophe-bruneau-as-next-ceo/" >🔗</a> **[European Spaceflight]** ArianeGroup Appoints Safran’s Christophe Bruneau as Next CEO
 
 
 ### Launch-related News 🚀
@@ -124,7 +124,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260120T150514">2026-01-20 15:05:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260120T154053">2026-01-20 15:40:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
