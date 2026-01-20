@@ -97,6 +97,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/nasas-sls-rocket-secondary-payloads/" >🔗</a> **[NASA]** NASA’s SLS Rocket: Secondary Payloads
 - <a href="https://www.nasa.gov/news-release/nasa-unlocks-golden-age-of-innovation-exploration-in-trumps-first-year/" >🔗</a> **[NASA]** NASA Unlocks Golden Age of Innovation, Exploration in Trump’s First Year
 - <a href="https://www.nasa.gov/image-article/hubble-nets-menagerie-of-young-stellar-objects/" >🔗</a> **[NASA]** Hubble Nets Menagerie of Young Stellar Objects
 - <a href="https://europeanspaceflight.com/airbus-runs-into-opposition-with-satellite-business-consolidation/" >🔗</a> **[European Spaceflight]** Airbus Runs into Opposition with Satellite Business Consolidation
@@ -106,7 +107,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://science.nasa.gov/missions/webb/intricacies-of-helix-nebula-revealed-with-nasas-webb/" >🔗</a> **[NASA]** Intricacies of Helix Nebula Revealed With NASA’s Webb
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/01/Smoke_plumes_from_Chile_wildfires_seen_by_Sentinel-3" >🔗</a> **[ESA]** Smoke plumes from Chile wildfires seen by Sentinel-3
 - <a href="https://spacenews.com/washington-harbour-expands-space-investments-with-ground-services-acquisition/" >🔗</a> **[SpaceNews]** Washington Harbour expands space investments with ground services acquisition
-- <a href="https://spacenews.com/free-warnings-better-catalogs-the-real-fix-for-space-safety/" >🔗</a> **[SpaceNews]** Free warnings, better catalogs: the real fix for space safety
 
 
 ### Launch-related News 🚀
@@ -124,7 +124,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260120T184258">2026-01-20 18:42:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260120T191914">2026-01-20 19:19:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
