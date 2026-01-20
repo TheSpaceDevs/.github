@@ -97,6 +97,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasas-day-of-remembrance-honors-fallen-heroes-of-exploration-2/" >🔗</a> **[NASA]** NASA’s Day of Remembrance Honors Fallen Heroes of Exploration
 - <a href="https://spacenews.com/defense-appropriations-bill-for-2026-funds-space-force-at-26-billion-presses-pentagon-on-golden-dome/" >🔗</a> **[SpaceNews]** Defense appropriations bill for 2026 funds Space Force at $26 billion, presses Pentagon on Golden Dome
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-suni-williams-retires/" >🔗</a> **[NASA]** NASA Astronaut Suni Williams Retires
 - <a href="https://www.nasa.gov/news-release/new-nasa-artemis-payloads-to-study-moons-terrain-radiation-history/" >🔗</a> **[NASA]** New NASA Artemis Payloads To Study Moon’s Terrain, Radiation, History
@@ -106,7 +107,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasaspaceflight.com/2026/01/florida-starship-progress-ksc-cape/" >🔗</a> **[NASASpaceflight]** Florida Starship progress with launch sites at KSC and Cape
 - <a href="https://www.nasa.gov/image-article/nasas-sls-rocket-secondary-payloads/" >🔗</a> **[NASA]** NASA’s SLS Rocket: Secondary Payloads
 - <a href="https://www.nasa.gov/news-release/nasa-unlocks-golden-age-of-innovation-exploration-in-trumps-first-year/" >🔗</a> **[NASA]** NASA Unlocks Golden Age of Innovation, Exploration in Trump’s First Year
-- <a href="https://www.nasa.gov/image-article/hubble-nets-menagerie-of-young-stellar-objects/" >🔗</a> **[NASA]** Hubble Nets Menagerie of Young Stellar Objects
 
 
 ### Launch-related News 🚀
@@ -124,7 +124,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260120T230126">2026-01-20 23:01:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260120T233539">2026-01-20 23:35:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
