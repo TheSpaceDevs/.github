@@ -97,6 +97,8 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Magnetic_avalanches_power_solar_flares_finds_Solar_Orbiter" >🔗</a> **[ESA]** Magnetic avalanches power solar flares, finds Solar Orbiter
+- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Legs_made_for_a_Mars_landing" >🔗</a> **[ESA]** Legs made for a Mars landing
 - <a href="https://science.nasa.gov/earth/earth-observatory/fires-erupt-in-south-central-chile/" >🔗</a> **[NASA]** Fires Erupt in South-Central Chile
 - <a href="https://arstechnica.com/space/2026/01/webb-has-given-us-with-a-stunning-new-view-of-a-well-known-planetary-nebula/" >🔗</a> **[Arstechnica]** Webb has given us with a stunning new view of a well-known planetary nebula
 - <a href="https://www.nasa.gov/news-release/nasas-day-of-remembrance-honors-fallen-heroes-of-exploration-2/" >🔗</a> **[NASA]** NASA’s Day of Remembrance Honors Fallen Heroes of Exploration
@@ -105,8 +107,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasa.gov/news-release/new-nasa-artemis-payloads-to-study-moons-terrain-radiation-history/" >🔗</a> **[NASA]** New NASA Artemis Payloads To Study Moon’s Terrain, Radiation, History
 - <a href="https://spacenews.com/space-foundation-to-host-innovate-space-finance-forum-in-partnership-with-texas-space-commission/" >🔗</a> **[SpaceNews]** Space Foundation to Host Innovate Space: Finance Forum in Partnership With Texas Space Commission
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nih-supplements-facts-first-challenge/" >🔗</a> **[NASA]** NIH Supplements, Facts First Challenge
-- <a href="https://www.nasa.gov/aeronautics/chase-aircraft-ensures-x-59-safety/" >🔗</a> **[NASA]** NASA Chase Aircraft Ensures X-59’s Safety in Flight
-- <a href="https://www.nasaspaceflight.com/2026/01/florida-starship-progress-ksc-cape/" >🔗</a> **[NASASpaceflight]** Florida Starship progress with launch sites at KSC and Cape
 
 
 ### Launch-related News 🚀
@@ -124,7 +124,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260121T080203">2026-01-21 08:02:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260121T084158">2026-01-21 08:41:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
