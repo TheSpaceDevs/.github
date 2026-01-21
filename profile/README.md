@@ -97,6 +97,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/earth-observatory/fires-erupt-in-south-central-chile/" >🔗</a> **[NASA]** Fires Erupt in South-Central Chile
 - <a href="https://arstechnica.com/space/2026/01/webb-has-given-us-with-a-stunning-new-view-of-a-well-known-planetary-nebula/" >🔗</a> **[Arstechnica]** Webb has given us with a stunning new view of a well-known planetary nebula
 - <a href="https://www.nasa.gov/news-release/nasas-day-of-remembrance-honors-fallen-heroes-of-exploration-2/" >🔗</a> **[NASA]** NASA’s Day of Remembrance Honors Fallen Heroes of Exploration
 - <a href="https://spacenews.com/defense-appropriations-bill-for-2026-funds-space-force-at-26-billion-presses-pentagon-on-golden-dome/" >🔗</a> **[SpaceNews]** Defense appropriations bill for 2026 funds Space Force at $26 billion, presses Pentagon on Golden Dome
@@ -106,7 +107,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nih-supplements-facts-first-challenge/" >🔗</a> **[NASA]** NIH Supplements, Facts First Challenge
 - <a href="https://www.nasa.gov/aeronautics/chase-aircraft-ensures-x-59-safety/" >🔗</a> **[NASA]** NASA Chase Aircraft Ensures X-59’s Safety in Flight
 - <a href="https://www.nasaspaceflight.com/2026/01/florida-starship-progress-ksc-cape/" >🔗</a> **[NASASpaceflight]** Florida Starship progress with launch sites at KSC and Cape
-- <a href="https://www.nasa.gov/image-article/nasas-sls-rocket-secondary-payloads/" >🔗</a> **[NASA]** NASA’s SLS Rocket: Secondary Payloads
 
 
 ### Launch-related News 🚀
@@ -124,7 +124,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260121T050653">2026-01-21 05:06:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260121T053953">2026-01-21 05:39:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
