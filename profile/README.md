@@ -19,43 +19,36 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Spectrum | Onward and Upward**. It is scheduled to be launched by *Isar Aerospace*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/de.svg" />
-from *<a href="https://en.wikipedia.org/wiki/And%C3%B8ya_Space">Orbital Launch Pad</a>, Andøya Spaceport*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/no.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260121T200000">2026-01-21 20:00:00 UTC</a>.  Until
-then, this pad will have been used for 1
-out of 1 launches from this location. The launch status is currently
+**Falcon 9 Block 5 | Starlink Group 17-30**. It is scheduled to be launched by *SpaceX*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260122T024300">2026-01-22 02:43:00 UTC</a>.  Until
+then, this pad will have been used for 241
+out of 855 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Test Flight* and the payload will be injected
-into *a Sun-Synchronous Orbit
-(SSO)*.
+*Communications* and the payload will be injected
+into *a Low Earth Orbit
+(LEO)*.
 <br>
 <blockquote>
-  Second test flight of the Isar Spectrum launch vehicle. This launch will carry 5 cubesats and 1 non-separable experiment as part of European Space Agency (ESA)'s “Boost!” program:
-
-* CyBEEsat (TU Berlin)
-* TriSat-S (University of Maribor)
-* Platform 6 (EnduroSat)
-* FramSat-1 (NTNU)
-* SpaceTeamSat1 (TU Wien Space Team)
-* Let It Go (Dcubed, non-separable experiment)
+  A batch of 25 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="None" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=69.1084,15.5895" >
+  <a href="https://www.google.com/maps?q=34.632,-120.611" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260121T200000">2026-01-21 20:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/no.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Spectrum | Onward and Upward&location=Andøya Spaceport&dates=20260121T200000Z%2F20260121T205000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Spectrum | Onward and Upward** from Andøya Spaceport.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260122T024300">2026-01-22 02:43:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-30&location=Vandenberg SFB, CA, USA&dates=20260122T024300Z%2F20260122T064300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-30** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260122T101500">2026-01-22 10:15:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | The Cosmos Will See You Now (Open Cosmos Constellation Launch 1)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20260122T101500Z%2F20260122T132000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | The Cosmos Will See You Now (Open Cosmos Constellation Launch 1)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260122T143000">2026-01-22 14:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Shepard | NS-38&location=Corn Ranch, Van Horn, TX, USA&dates=20260122T143000Z%2F20260122T213000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Shepard | NS-38** from Corn Ranch, Van Horn, TX, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260122T200000">2026-01-22 20:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/no.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Spectrum | Onward and Upward&location=Andøya Spaceport&dates=20260122T200000Z%2F20260122T205000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Spectrum | Onward and Upward** from Andøya Spaceport.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260125T151700">2026-01-25 15:17:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-20&location=Vandenberg SFB, CA, USA&dates=20260125T151700Z%2F20260125T191700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-20** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260126T043800">2026-01-26 04:38:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | GPS III SV09&location=Cape Canaveral SFS, FL, USA&dates=20260126T043800Z%2F20260126T055600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | GPS III SV09** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260126T210000">2026-01-26 21:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 7A | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20260126T210000Z%2F20260126T235500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 7A | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
@@ -97,34 +90,26 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://europeanspaceflight.com/swissto12-secures-e73-million-in-new-esa-funding-for-hummingsat-project/" >🔗</a> **[European Spaceflight]** SWISSto12 Secures €73 Million in New ESA Funding for HummingSat Project
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Hubble_uncovers_the_secret_of_stars_that_defy_ageing" >🔗</a> **[ESA]** Hubble uncovers the secret of stars that defy ageing
-- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Future_space_transportation/Artificial_intelligence_in_manufacturing_rocket_parts" >🔗</a> **[ESA]** Artificial intelligence in manufacturing rocket parts
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Magnetic_avalanches_power_solar_flares_finds_Solar_Orbiter" >🔗</a> **[ESA]** Magnetic avalanches power solar flares, finds Solar Orbiter
-- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Legs_made_for_a_Mars_landing" >🔗</a> **[ESA]** Legs made for a Mars landing
-- <a href="https://science.nasa.gov/earth/earth-observatory/fires-erupt-in-south-central-chile/" >🔗</a> **[NASA]** Fires Erupt in South-Central Chile
-- <a href="https://arstechnica.com/space/2026/01/webb-has-given-us-with-a-stunning-new-view-of-a-well-known-planetary-nebula/" >🔗</a> **[Arstechnica]** Webb has given us with a stunning new view of a well-known planetary nebula
-- <a href="https://www.nasa.gov/news-release/nasas-day-of-remembrance-honors-fallen-heroes-of-exploration-2/" >🔗</a> **[NASA]** NASA’s Day of Remembrance Honors Fallen Heroes of Exploration
-- <a href="https://spacenews.com/defense-appropriations-bill-for-2026-funds-space-force-at-26-billion-presses-pentagon-on-golden-dome/" >🔗</a> **[SpaceNews]** Defense appropriations bill for 2026 funds Space Force at $26 billion, presses Pentagon on Golden Dome
-- <a href="https://www.nasa.gov/news-release/nasa-astronaut-suni-williams-retires/" >🔗</a> **[NASA]** NASA Astronaut Suni Williams Retires
+- <a href="https://www.spacedaily.com/reports/Study_links_Europas_quiet_seafloor_to_hidden_potential_for_life_999.html" >🔗</a> **[SpaceDaily]** Study links Europa's quiet seafloor to hidden potential for life
+- <a href="https://www.spacedaily.com/reports/Quantum_collapse_models_point_to_subtle_limits_in_timekeeping_accuracy_999.html" >🔗</a> **[SpaceDaily]** Quantum collapse models point to subtle limits in timekeeping accuracy
+- <a href="https://www.spacedaily.com/reports/Polar_weather_on_Jupiter_and_Saturn_hints_at_the_planets_interior_details_999.html" >🔗</a> **[SpaceDaily]** Polar weather on Jupiter and Saturn hints at the planets' interior details
+- <a href="https://www.spacedaily.com/reports/Birth_conditions_fixed_water_contrast_on_Jupiters_moons_999.html" >🔗</a> **[SpaceDaily]** Birth conditions fixed water contrast on Jupiters moons
+- <a href="https://www.spacedaily.com/reports/Europa_ice_delamination_may_deliver_nutrients_to_hidden_ocean_999.html" >🔗</a> **[SpaceDaily]** Europa ice delamination may deliver nutrients to hidden ocean
+- <a href="https://www.spacedaily.com/reports/Stratolaunch_secures_major_funding_to_scale_hypersonic_flight_services_999.html" >🔗</a> **[SpaceDaily]** Stratolaunch secures major funding to scale hypersonic flight services
+- <a href="https://www.spacedaily.com/reports/Major_equity_deal_backs_Gilmour_Space_expansion_of_sovereign_launch_capability_999.html" >🔗</a> **[SpaceDaily]** Major equity deal backs Gilmour Space expansion of sovereign launch capability
+- <a href="https://www.spacedaily.com/reports/ExLabs_and_ChibaTech_team_up_to_land_student_CubeLanders_on_asteroid_Apophis_999.html" >🔗</a> **[SpaceDaily]** ExLabs and ChibaTech team up to land student CubeLanders on asteroid Apophis
+- <a href="https://www.moondaily.com/reports/Lunar_impacts_limit_late_delivery_of_Earth_ocean_water_999.html" >🔗</a> **[SpaceDaily]** Lunar impacts limit late delivery of Earth ocean water
+- <a href="https://www.spacedaily.com/reports/Cosmic_dust_chemistry_forges_peptide_building_blocks_in_deep_space_999.html" >🔗</a> **[SpaceDaily]** Cosmic dust chemistry forges peptide building blocks in deep space
 
 
 ### Launch-related News 🚀
 
-- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Boost/Spectrum_s_qualifying_second_launch" >🔗</a> **[ESA]** Spectrum’s qualifying second launch
 - <a href="https://www.nasaspaceflight.com/2026/01/launch-preview-011926/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9 set to launch two missions from California, Isar to attempt second launch of Spectrum
-- <a href="https://spacenews.com/isar-aerospace-sets-date-for-second-spectrum-launch/" >🔗</a> **[SpaceNews]** Isar Aerospace sets date for second Spectrum launch
-- <a href="https://europeanspaceflight.com/second-isar-aerospace-spectrum-flight-set-for-20-to-23-january/" >🔗</a> **[European Spaceflight]** Second Isar Aerospace Spectrum Flight Set for 20 to 23 January
-- <a href="https://www.nasaspaceflight.com/2026/01/launch-preview-011226/" >🔗</a> **[NASASpaceflight]** Launch Preview: Launches from China, U.S., and Norway scheduled for upcoming week
-- <a href="https://arstechnica.com/space/2025/11/rocket-report-blue-origins-stunning-success-vive-le-baguette-one/" >🔗</a> **[Arstechnica]** Rocket Report: Blue Origin’s stunning success; vive le Baguette One!
-- <a href="https://europeanspaceflight.com/spectrum-rocket-stages-arrive-at-launch-facility-for-second-flight/" >🔗</a> **[European Spaceflight]** Spectrum Rocket Stages Arrive at Launch Facility for Second Flight
-- <a href="https://arstechnica.com/space/2025/09/rocket-report-european-rocket-reuse-test-delayed-nasa-tweaks-sls-for-artemis-ii/" >🔗</a> **[Arstechnica]** Rocket Report: European rocket reuse test delayed; NASA tweaks SLS for Artemis II
-- <a href="https://spacenews.com/isar-aerospace-prepares-for-second-spectrum-launch/" >🔗</a> **[SpaceNews]** Isar Aerospace prepares for second Spectrum launch
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260121T120217">2026-01-21 12:02:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260121T124412">2026-01-21 12:44:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
