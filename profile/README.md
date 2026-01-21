@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/missions/webb/nasa-webb-finds-young-sun-like-star-forging-spewing-common-crystals/" >🔗</a> **[NASA]** NASA Webb Finds Young Sun-Like Star Forging, Spewing Common Crystals
 - <a href="https://europeanspaceflight.com/orbexs-subsidiary-in-denmark-to-file-for-bankruptcy/" >🔗</a> **[European Spaceflight]** Orbex’s Subsidiary in Denmark to File for Bankruptcy
-- <a href="https://spacenews.com/accelerating-digital-transformation-is-the-keystone-to-deterring-space-war/" >🔗</a> **[SpaceNews]** Accelerating digital transformation is the keystone to deterring space war
 - <a href="https://spacenews.com/starfish-space-wins-sda-contract-to-deorbit-satellites/" >🔗</a> **[SpaceNews]** Starfish Space wins SDA contract to deorbit satellites
+- <a href="https://spacenews.com/accelerating-digital-transformation-is-the-keystone-to-deterring-space-war/" >🔗</a> **[SpaceNews]** Accelerating digital transformation is the keystone to deterring space war
 - <a href="https://europeanspaceflight.com/the-exploration-company-in-talks-to-buy-uk-rocket-builder-orbex/" >🔗</a> **[European Spaceflight]** The Exploration Company in Talks to Buy UK Rocket Builder Orbex
-- <a href="https://www.spacedaily.com/reports/Polar_weather_on_Jupiter_and_Saturn_hints_at_the_planets_interior_details_999.html" >🔗</a> **[SpaceDaily]** Polar weather on Jupiter and Saturn hints at the planets' interior details
 - <a href="https://www.spacedaily.com/reports/Europa_ice_delamination_may_deliver_nutrients_to_hidden_ocean_999.html" >🔗</a> **[SpaceDaily]** Europa ice delamination may deliver nutrients to hidden ocean
+- <a href="https://www.spacedaily.com/reports/Polar_weather_on_Jupiter_and_Saturn_hints_at_the_planets_interior_details_999.html" >🔗</a> **[SpaceDaily]** Polar weather on Jupiter and Saturn hints at the planets' interior details
 - <a href="https://www.spacedaily.com/reports/Quantum_collapse_models_point_to_subtle_limits_in_timekeeping_accuracy_999.html" >🔗</a> **[SpaceDaily]** Quantum collapse models point to subtle limits in timekeeping accuracy
 - <a href="https://www.spacedaily.com/reports/Stratolaunch_secures_major_funding_to_scale_hypersonic_flight_services_999.html" >🔗</a> **[SpaceDaily]** Stratolaunch secures major funding to scale hypersonic flight services
 - <a href="https://www.spacedaily.com/reports/Birth_conditions_fixed_water_contrast_on_Jupiters_moons_999.html" >🔗</a> **[SpaceDaily]** Birth conditions fixed water contrast on Jupiters moons
-- <a href="https://www.spacedaily.com/reports/Major_equity_deal_backs_Gilmour_Space_expansion_of_sovereign_launch_capability_999.html" >🔗</a> **[SpaceDaily]** Major equity deal backs Gilmour Space expansion of sovereign launch capability
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260121T160455">2026-01-21 16:04:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260121T164439">2026-01-21 16:44:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
