@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-tests-technology-offering-potential-fuel-savings-for-commercial-aviation/" >🔗</a> **[NASA]** NASA Tests Technology Offering Potential Fuel Savings for Commercial Aviation
+- <a href="https://spacenews.com/the-exploration-company-in-talks-to-acquire-orbex/" >🔗</a> **[SpaceNews]** The Exploration Company in talks to acquire Orbex
 - <a href="https://www.nasa.gov/image-article/nasas-artemis-ii-rocket-and-spacecraft-make-their-way-to-launch-pad/" >🔗</a> **[NASA]** NASA’s Artemis II Rocket and Spacecraft Make Their Way to Launch Pad
 - <a href="https://science.nasa.gov/missions/webb/nasa-webb-finds-young-sun-like-star-forging-spewing-common-crystals/" >🔗</a> **[NASA]** NASA Webb Finds Young Sun-Like Star Forging, Spewing Common Crystals
 - <a href="https://europeanspaceflight.com/orbexs-subsidiary-in-denmark-to-file-for-bankruptcy/" >🔗</a> **[European Spaceflight]** Orbex’s Subsidiary in Denmark to File for Bankruptcy
-- <a href="https://spacenews.com/starfish-space-wins-sda-contract-to-deorbit-satellites/" >🔗</a> **[SpaceNews]** Starfish Space wins SDA contract to deorbit satellites
 - <a href="https://spacenews.com/accelerating-digital-transformation-is-the-keystone-to-deterring-space-war/" >🔗</a> **[SpaceNews]** Accelerating digital transformation is the keystone to deterring space war
+- <a href="https://spacenews.com/starfish-space-wins-sda-contract-to-deorbit-satellites/" >🔗</a> **[SpaceNews]** Starfish Space wins SDA contract to deorbit satellites
 - <a href="https://europeanspaceflight.com/the-exploration-company-in-talks-to-buy-uk-rocket-builder-orbex/" >🔗</a> **[European Spaceflight]** The Exploration Company in Talks to Buy UK Rocket Builder Orbex
 - <a href="https://www.spacedaily.com/reports/Europa_ice_delamination_may_deliver_nutrients_to_hidden_ocean_999.html" >🔗</a> **[SpaceDaily]** Europa ice delamination may deliver nutrients to hidden ocean
 - <a href="https://www.spacedaily.com/reports/Polar_weather_on_Jupiter_and_Saturn_hints_at_the_planets_interior_details_999.html" >🔗</a> **[SpaceDaily]** Polar weather on Jupiter and Saturn hints at the planets' interior details
-- <a href="https://www.spacedaily.com/reports/Quantum_collapse_models_point_to_subtle_limits_in_timekeeping_accuracy_999.html" >🔗</a> **[SpaceDaily]** Quantum collapse models point to subtle limits in timekeeping accuracy
-- <a href="https://www.spacedaily.com/reports/Stratolaunch_secures_major_funding_to_scale_hypersonic_flight_services_999.html" >🔗</a> **[SpaceDaily]** Stratolaunch secures major funding to scale hypersonic flight services
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260121T181011">2026-01-21 18:10:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260121T184343">2026-01-21 18:43:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
