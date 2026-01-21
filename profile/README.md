@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/01/21/live-coverage-spacex-to-launch-first-west-coast-starlink-mission-of-2026/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch first West Coast Starlink mission of 2026
+- <a href="https://www.nasa.gov/missions/artemis/artemis-2/nasas-artemis-ii-mission-to-fly-legacy-keepsakes-with-astronaut-crew/" >🔗</a> **[NASA]** NASA’s Artemis II Mission to Fly Legacy Keepsakes with Astronaut Crew
 - <a href="https://www.nasaspaceflight.com/2026/01/latitude-efis-interview/" >🔗</a> **[NASASpaceflight]** French startup Latitude targets 2026 for first launch while following market-driven approach
 - <a href="https://spacenews.com/blue-origin-plans-bespoke-high-speed-starlink-rival/" >🔗</a> **[SpaceNews]** Blue Origin plans bespoke high-speed Starlink rival
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-crew-10-visit-at-marshall/" >🔗</a> **[NASA]** NASA Invites Media to Crew-10 Visit at Marshall
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2026/01/blue-origin-we-want-to-have-a-megaconstellation-too/" >🔗</a> **[Arstechnica]** Blue Origin: We want to have a megaconstellation, too
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-tests-technology-offering-potential-fuel-savings-for-commercial-aviation/" >🔗</a> **[NASA]** NASA Tests Technology Offering Potential Fuel Savings for Commercial Aviation
 - <a href="https://spacenews.com/the-exploration-company-in-talks-to-acquire-orbex/" >🔗</a> **[SpaceNews]** The Exploration Company in talks to acquire Orbex
-- <a href="https://www.nasa.gov/image-article/nasas-artemis-ii-rocket-and-spacecraft-make-their-way-to-launch-pad/" >🔗</a> **[NASA]** NASA’s Artemis II Rocket and Spacecraft Make Their Way to Launch Pad
-- <a href="https://science.nasa.gov/missions/webb/nasa-webb-finds-young-sun-like-star-forging-spewing-common-crystals/" >🔗</a> **[NASA]** NASA Webb Finds Young Sun-Like Star Forging, Spewing Common Crystals
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260121T230249">2026-01-21 23:02:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260121T233706">2026-01-21 23:37:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
