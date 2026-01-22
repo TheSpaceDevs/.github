@@ -90,16 +90,16 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/01/A_celebrity_cluster_in_the_spotlight" >🔗</a> **[ESA]** A celebrity cluster in the spotlight
 - <a href="https://science.nasa.gov/earth/earth-observatory/snow-buries-kamchatka/" >🔗</a> **[NASA]** Snow Buries Kamchatka
+- <a href="https://www.spacedaily.com/reports/Sentinel_2A_trials_reveal_unexpected_night_sensing_capability_999.html" >🔗</a> **[SpaceDaily]** Sentinel 2A trials reveal unexpected night sensing capability
+- <a href="https://www.spacewar.com/reports/Slingshot_to_embed_AI_agent_in_US_Space_Force_space_warfare_training_999.html" >🔗</a> **[SpaceDaily]** Slingshot to embed AI agent in US Space Force space warfare training
+- <a href="https://www.spacedaily.com/reports/Teledyne_detector_arrays_power_NASAs_BlackCAT_CubeSat_x_ray_mission_999.html" >🔗</a> **[SpaceDaily]** Teledyne detector arrays power NASAs BlackCAT CubeSat X-ray mission
 - <a href="https://www.spacedaily.com/reports/Keysight_joins_Airbus_UpNext_SpaceRAN_project_to_advance_5G_satellite_NTN_999.html" >🔗</a> **[SpaceDaily]** Keysight joins Airbus UpNext SpaceRAN project to advance 5G satellite NTN
 - <a href="https://www.spacewar.com/reports/Energy_learning_algorithm_boosts_complex_UAV_swarm_tasking_999.html" >🔗</a> **[SpaceDaily]** Energy learning algorithm boosts complex UAV swarm tasking
 - <a href="https://www.spacedaily.com/reports/Comtech_wins_multi_million_dollar_follow_on_contract_for_civil_space_components_999.html" >🔗</a> **[SpaceDaily]** Comtech wins multi-million dollar follow-on contract for civil space components
-- <a href="https://www.spacedaily.com/reports/Teledyne_detector_arrays_power_NASAs_BlackCAT_CubeSat_x_ray_mission_999.html" >🔗</a> **[SpaceDaily]** Teledyne detector arrays power NASAs BlackCAT CubeSat X-ray mission
-- <a href="https://www.spacewar.com/reports/Slingshot_to_embed_AI_agent_in_US_Space_Force_space_warfare_training_999.html" >🔗</a> **[SpaceDaily]** Slingshot to embed AI agent in US Space Force space warfare training
-- <a href="https://www.terradaily.com/reports/2025_was_third_hottest_year_on_record_EU_US_experts_999.html" >🔗</a> **[SpaceDaily]** 2025 was third hottest year on record: EU, US experts
-- <a href="https://www.spacedaily.com/reports/Sentinel_2A_trials_reveal_unexpected_night_sensing_capability_999.html" >🔗</a> **[SpaceDaily]** Sentinel 2A trials reveal unexpected night sensing capability
 - <a href="https://www.spacewar.com/reports/AST_SpaceMobile_secures_role_on_MDA_SHIELD_defense_architecture_999.html" >🔗</a> **[SpaceDaily]** AST SpaceMobile secures role on MDA SHIELD defense architecture
-- <a href="https://www.energy-daily.com/reports/Perovskite_betavoltaic_cell_sets_record_efficiency_using_carbon_14_source_999.html" >🔗</a> **[SpaceDaily]** Perovskite betavoltaic cell sets record efficiency using carbon 14 source
+- <a href="https://www.terradaily.com/reports/2025_was_third_hottest_year_on_record_EU_US_experts_999.html" >🔗</a> **[SpaceDaily]** 2025 was third hottest year on record: EU, US experts
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260122T090607">2026-01-22 09:06:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260122T094123">2026-01-22 09:41:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
