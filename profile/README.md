@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/open-cosmos-advances-broadband-plans-with-spectrum-once-held-by-rivada/" >🔗</a> **[SpaceNews]** Open Cosmos advances broadband plans with spectrum once held by Rivada
+- <a href="https://spacenews.com/blue-origin-flies-first-new-shepard-mission-of-2026/" >🔗</a> **[SpaceNews]** Blue Origin flies first New Shepard mission of 2026
 - <a href="https://spacenews.com/as-satellites-become-targets-space-force-plans-for-growth-and-a-broader-role/" >🔗</a> **[SpaceNews]** As satellites become targets, Space Force plans for growth and a broader role
 - <a href="https://spacenews.com/rocket-lab-launches-first-satellites-for-open-cosmos-constellation/" >🔗</a> **[SpaceNews]** Rocket Lab launches first satellites for Open Cosmos constellation
 - <a href="https://arstechnica.com/space/2026/01/blue-origin-makes-impressive-strides-with-reuse-next-launch-will-refly-booster/" >🔗</a> **[Arstechnica]** Blue Origin makes impressive strides with reuse—next launch will refly booster
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/tomorrow-io-unveils-deepsky-constellation-of-large-satellites-and-instruments/" >🔗</a> **[SpaceNews]** Tomorrow.io unveils DeepSky: constellation of large satellites and instruments
 - <a href="https://europeanspaceflight.com/cnes-awards-loft-orbital-contract-for-french-radar-imaging-demo/" >🔗</a> **[European Spaceflight]** CNES Awards Loft Orbital Contract for French Radar Imaging Demo
 - <a href="https://spacenews.com/rocket-lab-suffers-neutron-testing-setback/" >🔗</a> **[SpaceNews]** Rocket Lab suffers Neutron testing setback
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/Arctic_Weather_Satellite/Arctic_Weather_Satellite_paves_way_for_constellation" >🔗</a> **[ESA]** Arctic Weather Satellite paves way for constellation
-- <a href="https://spacenews.com/d-orbit-raises-124-million-in-first-tranche-of-series-d-funding/" >🔗</a> **[SpaceNews]** D-Orbit raises $128 million in first tranche of Series D funding
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260122T210234">2026-01-22 21:02:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260122T213631">2026-01-22 21:36:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
