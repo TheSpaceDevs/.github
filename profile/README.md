@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacedaily.com/reports/Elon_Musk_hints_at_buying_Ryanair_amid_Starlink_spat_999.html" >🔗</a> **[SpaceDaily]** Elon Musk hints at buying Ryanair amid Starlink spat
+- <a href="https://www.spacedaily.com/reports/NASA_astronaut_stuck_in_space_for_nine_months_retires_999.html" >🔗</a> **[SpaceDaily]** NASA astronaut stuck in space for nine months retires
 - <a href="https://spaceflightnow.com/2026/01/21/live-coverage-spacex-to-launch-first-west-coast-starlink-mission-of-2026/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch first West Coast Starlink mission of 2026
 - <a href="https://www.nasa.gov/missions/artemis/artemis-2/nasas-artemis-ii-mission-to-fly-legacy-keepsakes-with-astronaut-crew/" >🔗</a> **[NASA]** NASA’s Artemis II Mission to Fly Legacy Keepsakes with Astronaut Crew
 - <a href="https://www.nasaspaceflight.com/2026/01/latitude-efis-interview/" >🔗</a> **[NASASpaceflight]** French startup Latitude targets 2026 for first launch while following market-driven approach
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/learning-resources/science-activation/students-across-new-england-contribute-to-climate-science-through-nasas-globe-green-down/" >🔗</a> **[NASA]** Students Across New England Contribute to Climate Science Through NASA’s GLOBE Green Down
 - <a href="https://science.nasa.gov/learning-resources/science-activation/nasas-universe-of-learning-unveils-fresh-facilitator-guides-inspired-by-community-feedback/" >🔗</a> **[NASA]** NASA’s Universe of Learning Unveils Fresh Facilitator Guides Inspired by Community Feedback
 - <a href="https://arstechnica.com/space/2026/01/blue-origin-we-want-to-have-a-megaconstellation-too/" >🔗</a> **[Arstechnica]** Blue Origin: We want to have a megaconstellation, too
-- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-tests-technology-offering-potential-fuel-savings-for-commercial-aviation/" >🔗</a> **[NASA]** NASA Tests Technology Offering Potential Fuel Savings for Commercial Aviation
-- <a href="https://spacenews.com/the-exploration-company-in-talks-to-acquire-orbex/" >🔗</a> **[SpaceNews]** The Exploration Company in talks to acquire Orbex
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260122T000541">2026-01-22 00:05:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260122T004617">2026-01-22 00:46:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
