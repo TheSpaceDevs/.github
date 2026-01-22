@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/l3harris-to-supply-imager-for-korean-geostationary-weather-satellite/" >🔗</a> **[SpaceNews]** L3Harris to supply imager for Korean geostationary weather satellite
 - <a href="https://science.nasa.gov/open-science/deep-learning-exoplanets-tess/" >🔗</a> **[NASA]** NASA AI Model That Found 370 Exoplanets Now Digs Into TESS Data
 - <a href="https://spacenews.com/tomorrow-io-unveils-deepsky-constellation-of-large-satellites-and-instruments/" >🔗</a> **[SpaceNews]** Tomorrow.io unveils DeepSky: constellation of large satellites and instruments
 - <a href="https://europeanspaceflight.com/cnes-awards-loft-orbital-contract-for-french-radar-imaging-demo/" >🔗</a> **[European Spaceflight]** CNES Awards Loft Orbital Contract for French Radar Imaging Demo
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/01/A_celebrity_cluster_in_the_spotlight" >🔗</a> **[ESA]** A celebrity cluster in the spotlight
 - <a href="https://science.nasa.gov/earth/earth-observatory/snow-buries-kamchatka/" >🔗</a> **[NASA]** Snow Buries Kamchatka
 - <a href="https://www.spacedaily.com/reports/Teledyne_detector_arrays_power_NASAs_BlackCAT_CubeSat_x_ray_mission_999.html" >🔗</a> **[SpaceDaily]** Teledyne detector arrays power NASAs BlackCAT CubeSat X-ray mission
-- <a href="https://www.spacewar.com/reports/Energy_learning_algorithm_boosts_complex_UAV_swarm_tasking_999.html" >🔗</a> **[SpaceDaily]** Energy learning algorithm boosts complex UAV swarm tasking
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260122T170614">2026-01-22 17:06:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260122T174020">2026-01-22 17:40:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
