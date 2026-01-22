@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2026/01/blue-origin-makes-impressive-strides-with-reuse-next-launch-will-refly-booster/" >🔗</a> **[Arstechnica]** Blue Origin makes impressive strides with reuse—next launch will refly booster
 - <a href="https://spacenews.com/l3harris-to-supply-imager-for-korean-geostationary-weather-satellite/" >🔗</a> **[SpaceNews]** L3Harris to supply imager for Korean geostationary weather satellite
 - <a href="https://science.nasa.gov/open-science/deep-learning-exoplanets-tess/" >🔗</a> **[NASA]** NASA AI Model That Found 370 Exoplanets Now Digs Into TESS Data
 - <a href="https://spacenews.com/tomorrow-io-unveils-deepsky-constellation-of-large-satellites-and-instruments/" >🔗</a> **[SpaceNews]** Tomorrow.io unveils DeepSky: constellation of large satellites and instruments
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/d-orbit-raises-124-million-in-first-tranche-of-series-d-funding/" >🔗</a> **[SpaceNews]** D-Orbit raises $128 million in first tranche of Series D funding
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/01/A_celebrity_cluster_in_the_spotlight" >🔗</a> **[ESA]** A celebrity cluster in the spotlight
 - <a href="https://science.nasa.gov/earth/earth-observatory/snow-buries-kamchatka/" >🔗</a> **[NASA]** Snow Buries Kamchatka
-- <a href="https://www.spacedaily.com/reports/Teledyne_detector_arrays_power_NASAs_BlackCAT_CubeSat_x_ray_mission_999.html" >🔗</a> **[SpaceDaily]** Teledyne detector arrays power NASAs BlackCAT CubeSat X-ray mission
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260122T180209">2026-01-22 18:02:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260122T184233">2026-01-22 18:42:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
