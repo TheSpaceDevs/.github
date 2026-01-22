@@ -99,7 +99,7 @@ into *a Low Earth Orbit
 - <a href="https://www.spacedaily.com/reports/Sentinel_2A_trials_reveal_unexpected_night_sensing_capability_999.html" >🔗</a> **[SpaceDaily]** Sentinel 2A trials reveal unexpected night sensing capability
 - <a href="https://www.spacewar.com/reports/Slingshot_to_embed_AI_agent_in_US_Space_Force_space_warfare_training_999.html" >🔗</a> **[SpaceDaily]** Slingshot to embed AI agent in US Space Force space warfare training
 - <a href="https://www.spacewar.com/reports/AST_SpaceMobile_secures_role_on_MDA_SHIELD_defense_architecture_999.html" >🔗</a> **[SpaceDaily]** AST SpaceMobile secures role on MDA SHIELD defense architecture
-- <a href="https://www.spacedaily.com/reports/NASA_astronaut_stuck_in_space_for_nine_months_retires_999.html" >🔗</a> **[SpaceDaily]** NASA astronaut stuck in space for nine months retires
+- <a href="https://spacepolicyonline.com/news/crew-11-enthusiastic-despite-early-return/" >🔗</a> **[SpacePolicyOnline.com]** Crew-11 Enthusiastic Despite Early Return
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260122T012951">2026-01-22 01:29:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260122T021923">2026-01-22 02:19:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
