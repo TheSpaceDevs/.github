@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/blue-origin-to-reuse-new-glenn-booster-on-next-launch/" >🔗</a> **[SpaceNews]** Blue Origin to reuse New Glenn booster on next launch
+- <a href="https://spacenews.com/damaged-shenzhou-20-spacecraft-survives-reentry-shenzhou-23-arrives-at-spaceport/" >🔗</a> **[SpaceNews]** Damaged Shenzhou-20 spacecraft survives reentry, Shenzhou-23 arrives at spaceport
+- <a href="https://www.nasa.gov/image-article/nasas-day-of-remembrance-2026/" >🔗</a> **[NASA]** NASA’s Day of Remembrance 2026
+- <a href="https://science.nasa.gov/science-research/for-researchers/approval-to-exceed-gsa-lodging-for-lpsc-2026/" >🔗</a> **[NASA]** Approval to Exceed GSA Lodging for LPSC 2026
 - <a href="https://spacenews.com/open-cosmos-advances-broadband-plans-with-spectrum-once-held-by-rivada/" >🔗</a> **[SpaceNews]** Open Cosmos advances broadband plans with spectrum once held by Rivada
 - <a href="https://spacenews.com/blue-origin-flies-first-new-shepard-mission-of-2026/" >🔗</a> **[SpaceNews]** Blue Origin flies first New Shepard mission of 2026
 - <a href="https://spacenews.com/as-satellites-become-targets-space-force-plans-for-growth-and-a-broader-role/" >🔗</a> **[SpaceNews]** As satellites become targets, Space Force plans for growth and a broader role
 - <a href="https://spacenews.com/rocket-lab-launches-first-satellites-for-open-cosmos-constellation/" >🔗</a> **[SpaceNews]** Rocket Lab launches first satellites for Open Cosmos constellation
 - <a href="https://arstechnica.com/space/2026/01/blue-origin-makes-impressive-strides-with-reuse-next-launch-will-refly-booster/" >🔗</a> **[Arstechnica]** Blue Origin makes impressive strides with reuse—next launch will refly booster
 - <a href="https://spacenews.com/l3harris-to-supply-imager-for-korean-geostationary-weather-satellite/" >🔗</a> **[SpaceNews]** L3Harris to supply imager for Korean geostationary weather satellite
-- <a href="https://science.nasa.gov/open-science/deep-learning-exoplanets-tess/" >🔗</a> **[NASA]** NASA AI Model That Found 370 Exoplanets Now Digs Into TESS Data
-- <a href="https://spacenews.com/tomorrow-io-unveils-deepsky-constellation-of-large-satellites-and-instruments/" >🔗</a> **[SpaceNews]** Tomorrow.io unveils DeepSky: constellation of large satellites and instruments
-- <a href="https://europeanspaceflight.com/cnes-awards-loft-orbital-contract-for-french-radar-imaging-demo/" >🔗</a> **[European Spaceflight]** CNES Awards Loft Orbital Contract for French Radar Imaging Demo
-- <a href="https://spacenews.com/rocket-lab-suffers-neutron-testing-setback/" >🔗</a> **[SpaceNews]** Rocket Lab suffers Neutron testing setback
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260122T230158">2026-01-22 23:01:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260122T233504">2026-01-22 23:35:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
