@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.spacedaily.com/reports/Elon_Musk_hints_at_buying_Ryanair_amid_Starlink_spat_999.html" >🔗</a> **[SpaceDaily]** Elon Musk hints at buying Ryanair amid Starlink spat
+- <a href="https://www.spacedaily.com/reports/Keysight_joins_Airbus_UpNext_SpaceRAN_project_to_advance_5G_satellite_NTN_999.html" >🔗</a> **[SpaceDaily]** Keysight joins Airbus UpNext SpaceRAN project to advance 5G satellite NTN
+- <a href="https://www.energy-daily.com/reports/Perovskite_betavoltaic_cell_sets_record_efficiency_using_carbon_14_source_999.html" >🔗</a> **[SpaceDaily]** Perovskite betavoltaic cell sets record efficiency using carbon 14 source
+- <a href="https://www.spacedaily.com/reports/Teledyne_detector_arrays_power_NASAs_BlackCAT_CubeSat_x_ray_mission_999.html" >🔗</a> **[SpaceDaily]** Teledyne detector arrays power NASAs BlackCAT CubeSat X-ray mission
+- <a href="https://www.spacedaily.com/reports/Comtech_wins_multi_million_dollar_follow_on_contract_for_civil_space_components_999.html" >🔗</a> **[SpaceDaily]** Comtech wins multi-million dollar follow-on contract for civil space components
+- <a href="https://www.spacewar.com/reports/Energy_learning_algorithm_boosts_complex_UAV_swarm_tasking_999.html" >🔗</a> **[SpaceDaily]** Energy learning algorithm boosts complex UAV swarm tasking
+- <a href="https://www.terradaily.com/reports/2025_was_third_hottest_year_on_record_EU_US_experts_999.html" >🔗</a> **[SpaceDaily]** 2025 was third hottest year on record: EU, US experts
+- <a href="https://www.spacedaily.com/reports/Sentinel_2A_trials_reveal_unexpected_night_sensing_capability_999.html" >🔗</a> **[SpaceDaily]** Sentinel 2A trials reveal unexpected night sensing capability
+- <a href="https://www.spacewar.com/reports/Slingshot_to_embed_AI_agent_in_US_Space_Force_space_warfare_training_999.html" >🔗</a> **[SpaceDaily]** Slingshot to embed AI agent in US Space Force space warfare training
+- <a href="https://www.spacewar.com/reports/AST_SpaceMobile_secures_role_on_MDA_SHIELD_defense_architecture_999.html" >🔗</a> **[SpaceDaily]** AST SpaceMobile secures role on MDA SHIELD defense architecture
 - <a href="https://www.spacedaily.com/reports/NASA_astronaut_stuck_in_space_for_nine_months_retires_999.html" >🔗</a> **[SpaceDaily]** NASA astronaut stuck in space for nine months retires
-- <a href="https://spaceflightnow.com/2026/01/21/live-coverage-spacex-to-launch-first-west-coast-starlink-mission-of-2026/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch first West Coast Starlink mission of 2026
-- <a href="https://www.nasa.gov/missions/artemis/artemis-2/nasas-artemis-ii-mission-to-fly-legacy-keepsakes-with-astronaut-crew/" >🔗</a> **[NASA]** NASA’s Artemis II Mission to Fly Legacy Keepsakes with Astronaut Crew
-- <a href="https://www.nasaspaceflight.com/2026/01/latitude-efis-interview/" >🔗</a> **[NASASpaceflight]** French startup Latitude targets 2026 for first launch while following market-driven approach
-- <a href="https://spacenews.com/blue-origin-plans-bespoke-high-speed-starlink-rival/" >🔗</a> **[SpaceNews]** Blue Origin plans bespoke high-speed Starlink rival
-- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-crew-10-visit-at-marshall/" >🔗</a> **[NASA]** NASA Invites Media to Crew-10 Visit at Marshall
-- <a href="https://science.nasa.gov/learning-resources/science-activation/students-across-new-england-contribute-to-climate-science-through-nasas-globe-green-down/" >🔗</a> **[NASA]** Students Across New England Contribute to Climate Science Through NASA’s GLOBE Green Down
-- <a href="https://science.nasa.gov/learning-resources/science-activation/nasas-universe-of-learning-unveils-fresh-facilitator-guides-inspired-by-community-feedback/" >🔗</a> **[NASA]** NASA’s Universe of Learning Unveils Fresh Facilitator Guides Inspired by Community Feedback
-- <a href="https://arstechnica.com/space/2026/01/blue-origin-we-want-to-have-a-megaconstellation-too/" >🔗</a> **[Arstechnica]** Blue Origin: We want to have a megaconstellation, too
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260122T004617">2026-01-22 00:46:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260122T012951">2026-01-22 01:29:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
