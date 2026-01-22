@@ -90,6 +90,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/open-science/deep-learning-exoplanets-tess/" >🔗</a> **[NASA]** NASA AI Model That Found 370 Exoplanets Now Digs Into TESS Data
 - <a href="https://spacenews.com/tomorrow-io-unveils-deepsky-constellation-of-large-satellites-and-instruments/" >🔗</a> **[SpaceNews]** Tomorrow.io unveils DeepSky: constellation of large satellites and instruments
 - <a href="https://europeanspaceflight.com/cnes-awards-loft-orbital-contract-for-french-radar-imaging-demo/" >🔗</a> **[European Spaceflight]** CNES Awards Loft Orbital Contract for French Radar Imaging Demo
 - <a href="https://spacenews.com/rocket-lab-suffers-neutron-testing-setback/" >🔗</a> **[SpaceNews]** Rocket Lab suffers Neutron testing setback
@@ -99,7 +100,6 @@ into *a Suborbital
 - <a href="https://science.nasa.gov/earth/earth-observatory/snow-buries-kamchatka/" >🔗</a> **[NASA]** Snow Buries Kamchatka
 - <a href="https://www.spacedaily.com/reports/Teledyne_detector_arrays_power_NASAs_BlackCAT_CubeSat_x_ray_mission_999.html" >🔗</a> **[SpaceDaily]** Teledyne detector arrays power NASAs BlackCAT CubeSat X-ray mission
 - <a href="https://www.spacedaily.com/reports/Sentinel_2A_trials_reveal_unexpected_night_sensing_capability_999.html" >🔗</a> **[SpaceDaily]** Sentinel 2A trials reveal unexpected night sensing capability
-- <a href="https://www.spacewar.com/reports/AST_SpaceMobile_secures_role_on_MDA_SHIELD_defense_architecture_999.html" >🔗</a> **[SpaceDaily]** AST SpaceMobile secures role on MDA SHIELD defense architecture
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260122T134428">2026-01-22 13:44:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260122T144052">2026-01-22 14:40:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
