@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/launch-operators-are-the-rocket-fuel-required-to-galvanize-spaceports-in-europe/" >🔗</a> **[SpaceNews]** Launch operators are the rocket fuel required to galvanize spaceports in Europe
+- <a href="https://science.nasa.gov/missions/tess/tess-status-update/" >🔗</a> **[NASA]** TESS Status Updates
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/09/Ignis_mission_timelapses_Earth_and_Moon_views_from_the_International_Space_Station" >🔗</a> **[ESA]** Ignis mission timelapses: Earth and Moon views from the International Space Station
+- <a href="https://spacenews.com/launch-operators-are-the-rocket-fuel-required-to-galvanize-spaceports-in-europe/" >🔗</a> **[SpaceNews]** Launch operators are the rocket fuel required to galvanize spaceports in Europe
 - <a href="https://spacenews.com/house-appropriator-sees-room-for-improvement-in-nasa-funding-for-2027/" >🔗</a> **[SpaceNews]** House appropriator sees ‘room for improvement’ in NASA funding for 2027
+- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_19-23_January_2026" >🔗</a> **[ESA]** Week in images: 19-23 January 2026
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/01/Earth_from_Space_Pantanal" >🔗</a> **[ESA]** Earth from Space: Pantanal
 - <a href="https://europeanspaceflight.com/esa-to-study-falcon-9-breakup-over-poland/" >🔗</a> **[European Spaceflight]** ESA to Study Falcon 9 Breakup Over Poland
 - <a href="https://science.nasa.gov/earth/earth-observatory/winter-grips-the-michigan-mitten/" >🔗</a> **[NASA]** Winter Grips the Michigan Mitten
 - <a href="https://www.nasaspaceflight.com/2026/01/terrawave-lasers-speeds/" >🔗</a> **[NASASpaceflight]** TerraWave enters the scene with lasers and game-changing data speeds
 - <a href="https://spaceflightnow.com/2026/01/23/eastern-range-ready-for-same-day-fueling-of-space-launch-system-vulcan-rockets/" >🔗</a> **[Spaceflight Now]** Eastern Range ready for same day fueling of Space Launch System, Vulcan rockets
-- <a href="https://spacenews.com/space-forces-acquisition-arm-races-to-rebuild-contracting-workforce-after-civilian-cuts/" >🔗</a> **[SpaceNews]** Space Force’s acquisition arm races to rebuild contracting workforce after civilian cuts
-- <a href="https://spacenews.com/blue-origin-to-reuse-new-glenn-booster-on-next-launch/" >🔗</a> **[SpaceNews]** Blue Origin to reuse New Glenn booster on next launch
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260123T140353">2026-01-23 14:03:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260123T143907">2026-01-23 14:39:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
