@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/earth-observatory/winter-grips-the-michigan-mitten/" >🔗</a> **[NASA]** Winter Grips the Michigan Mitten
 - <a href="https://www.nasaspaceflight.com/2026/01/terrawave-lasers-speeds/" >🔗</a> **[NASASpaceflight]** TerraWave enters the scene with lasers and game-changing data speeds
 - <a href="https://spaceflightnow.com/2026/01/23/eastern-range-ready-for-same-day-fueling-of-space-launch-system-vulcan-rockets/" >🔗</a> **[Spaceflight Now]** Eastern Range ready for same day fueling of Space Launch System, Vulcan rockets
 - <a href="https://spacenews.com/space-forces-acquisition-arm-races-to-rebuild-contracting-workforce-after-civilian-cuts/" >🔗</a> **[SpaceNews]** Space Force’s acquisition arm races to rebuild contracting workforce after civilian cuts
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/science-research/for-researchers/approval-to-exceed-gsa-lodging-for-lpsc-2026/" >🔗</a> **[NASA]** Approval to Exceed GSA Lodging for LPSC 2026
 - <a href="https://spacenews.com/open-cosmos-advances-broadband-plans-with-spectrum-once-held-by-rivada/" >🔗</a> **[SpaceNews]** Open Cosmos advances broadband plans with spectrum once held by Rivada
 - <a href="https://spacenews.com/blue-origin-flies-first-new-shepard-mission-of-2026/" >🔗</a> **[SpaceNews]** Blue Origin flies first New Shepard mission of 2026
-- <a href="https://spacenews.com/as-satellites-become-targets-space-force-plans-for-growth-and-a-broader-role/" >🔗</a> **[SpaceNews]** As satellites become targets, Space Force plans for growth and a broader role
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260123T050601">2026-01-23 05:06:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260123T053939">2026-01-23 05:39:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
