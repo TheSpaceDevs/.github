@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/chandra/nasas-chandra-releases-deep-cut-from-catalog-of-cosmic-recordings/" >🔗</a> **[NASA]** NASA’s Chandra Releases Deep Cut From Catalog of Cosmic Recordings
+- <a href="https://spacenews.com/space-beyond-lines-up-2027-spacex-launch-for-low-cost-memorial-cubesat/" >🔗</a> **[SpaceNews]** Space Beyond lines up 2027 SpaceX launch for low-cost memorial cubesat
 - <a href="https://science.nasa.gov/uncategorized/ams-2025-hyperwall-schedule/" >🔗</a> **[NASA]** AMS 2025 Hyperwall Schedule
 - <a href="https://www.nasa.gov/missions/roman-space-telescope/journey-to-center-of-milky-way-with-upcoming-nasa-roman-core-survey/" >🔗</a> **[NASA]** Journey to Center of Milky Way With Upcoming NASA Roman Core Survey
 - <a href="https://spacenews.com/former-astronaut-joins-vast-as-haven-1-moves-into-integration/" >🔗</a> **[SpaceNews]** Former astronaut joins Vast as Haven-1 moves into integration
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/launch-operators-are-the-rocket-fuel-required-to-galvanize-spaceports-in-europe/" >🔗</a> **[SpaceNews]** Launch operators are the rocket fuel required to galvanize spaceports in Europe
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2025/09/Ignis_mission_timelapses_Earth_and_Moon_views_from_the_International_Space_Station" >🔗</a> **[ESA]** Ignis mission timelapses: Earth and Moon views from the International Space Station
 - <a href="https://spacenews.com/house-appropriator-sees-room-for-improvement-in-nasa-funding-for-2027/" >🔗</a> **[SpaceNews]** House appropriator sees ‘room for improvement’ in NASA funding for 2027
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_19-23_January_2026" >🔗</a> **[ESA]** Week in images: 19-23 January 2026
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/01/Earth_from_Space_Pantanal" >🔗</a> **[ESA]** Earth from Space: Pantanal
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260123T180156">2026-01-23 18:01:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260123T184244">2026-01-23 18:42:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
