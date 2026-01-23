@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-sets-briefings-for-spacex-crew-12-mission-to-space-station/" >🔗</a> **[NASA]** NASA Sets Briefings for SpaceX Crew-12 Mission to Space Station
 - <a href="https://www.nasa.gov/news-release/nasa-awards-global-modeling-assimilation-support-contract/" >🔗</a> **[NASA]** NASA Awards Global Modeling, Assimilation Support Contract
 - <a href="https://www.nasa.gov/technology/space-comms/nasa-selects-participants-to-track-artemis-ii-mission/" >🔗</a> **[NASA]** NASA Selects Participants to Track Artemis II Mission
 - <a href="https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-dustin-gohmert/" >🔗</a> **[NASA]** I Am Artemis: Dustin Gohmert
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/space-beyond-lines-up-2027-spacex-launch-for-low-cost-memorial-cubesat/" >🔗</a> **[SpaceNews]** Space Beyond lines up 2027 SpaceX launch for low-cost memorial cubesat
 - <a href="https://science.nasa.gov/uncategorized/ams-2025-hyperwall-schedule/" >🔗</a> **[NASA]** AMS 2025 Hyperwall Schedule
 - <a href="https://science.nasa.gov/uncategorized/ams-2026-hyperwall-schedule/" >🔗</a> **[NASA]** AMS 2026 Hyperwall Schedule
-- <a href="https://www.nasa.gov/missions/roman-space-telescope/journey-to-center-of-milky-way-with-upcoming-nasa-roman-core-survey/" >🔗</a> **[NASA]** Journey to Center of Milky Way With Upcoming NASA Roman Core Survey
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260123T230132">2026-01-23 23:01:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260123T233451">2026-01-23 23:34:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
