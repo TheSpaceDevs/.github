@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/01/Earth_from_Space_Pantanal" >🔗</a> **[ESA]** Earth from Space: Pantanal
 - <a href="https://europeanspaceflight.com/esa-to-study-falcon-9-breakup-over-poland/" >🔗</a> **[European Spaceflight]** ESA to Study Falcon 9 Breakup Over Poland
 - <a href="https://science.nasa.gov/earth/earth-observatory/winter-grips-the-michigan-mitten/" >🔗</a> **[NASA]** Winter Grips the Michigan Mitten
 - <a href="https://www.nasaspaceflight.com/2026/01/terrawave-lasers-speeds/" >🔗</a> **[NASASpaceflight]** TerraWave enters the scene with lasers and game-changing data speeds
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/damaged-shenzhou-20-spacecraft-survives-reentry-shenzhou-23-arrives-at-spaceport/" >🔗</a> **[SpaceNews]** Damaged Shenzhou-20 spacecraft survives reentry, Shenzhou-23 arrives at spaceport
 - <a href="https://www.nasa.gov/image-article/nasas-day-of-remembrance-2026/" >🔗</a> **[NASA]** NASA’s Day of Remembrance 2026
 - <a href="https://science.nasa.gov/science-research/for-researchers/approval-to-exceed-gsa-lodging-for-lpsc-2026/" >🔗</a> **[NASA]** Approval to Exceed GSA Lodging for LPSC 2026
-- <a href="https://spacenews.com/open-cosmos-advances-broadband-plans-with-spectrum-once-held-by-rivada/" >🔗</a> **[SpaceNews]** Open Cosmos advances broadband plans with spectrum once held by Rivada
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260123T090416">2026-01-23 09:04:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260123T094013">2026-01-23 09:40:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
