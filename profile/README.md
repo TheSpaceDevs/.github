@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/01/23/eastern-range-ready-for-same-day-fueling-of-space-launch-system-vulcan-rockets/" >🔗</a> **[Spaceflight Now]** Eastern Range ready for same day fueling of Space Launch System, Vulcan rockets
 - <a href="https://spacenews.com/space-forces-acquisition-arm-races-to-rebuild-contracting-workforce-after-civilian-cuts/" >🔗</a> **[SpaceNews]** Space Force’s acquisition arm races to rebuild contracting workforce after civilian cuts
 - <a href="https://spacenews.com/blue-origin-to-reuse-new-glenn-booster-on-next-launch/" >🔗</a> **[SpaceNews]** Blue Origin to reuse New Glenn booster on next launch
 - <a href="https://spacenews.com/damaged-shenzhou-20-spacecraft-survives-reentry-shenzhou-23-arrives-at-spaceport/" >🔗</a> **[SpaceNews]** Damaged Shenzhou-20 spacecraft survives reentry, Shenzhou-23 arrives at spaceport
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/blue-origin-flies-first-new-shepard-mission-of-2026/" >🔗</a> **[SpaceNews]** Blue Origin flies first New Shepard mission of 2026
 - <a href="https://spacenews.com/as-satellites-become-targets-space-force-plans-for-growth-and-a-broader-role/" >🔗</a> **[SpaceNews]** As satellites become targets, Space Force plans for growth and a broader role
 - <a href="https://spacenews.com/rocket-lab-launches-first-satellites-for-open-cosmos-constellation/" >🔗</a> **[SpaceNews]** Rocket Lab launches first satellites for Open Cosmos constellation
-- <a href="https://arstechnica.com/space/2026/01/blue-origin-makes-impressive-strides-with-reuse-next-launch-will-refly-booster/" >🔗</a> **[Arstechnica]** Blue Origin makes impressive strides with reuse—next launch will refly booster
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260123T030720">2026-01-23 03:07:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260123T035456">2026-01-23 03:54:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
