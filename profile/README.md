@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-and-doe-to-collaborate-on-lunar-nuclear-reactor-development/" >🔗</a> **[SpaceNews]** NASA and DOE to collaborate on lunar nuclear reactor development
 - <a href="https://europeanspaceflight.com/rfa-awarded-esa-flight-ticket-initiative-launch-contracts/" >🔗</a> **[European Spaceflight]** RFA Awarded ESA Flight Ticket Initiative Launch Contracts
 - <a href="https://www.nasaspaceflight.com/2026/01/hungry-hippos-test-tanks-neutron/" >🔗</a> **[NASASpaceflight]** Hungry Hippos and Test Tanks – Rocket Lab building towards Neutron
 - <a href="https://www.nasa.gov/news-release/nasa-sets-briefings-for-spacex-crew-12-mission-to-space-station/" >🔗</a> **[NASA]** NASA Sets Briefings for SpaceX Crew-12 Mission to Space Station
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/red-green-light-show/" >🔗</a> **[NASA]** Red, Green Light Show
 - <a href="https://science.nasa.gov/science-research/astromaterials/nasa-finds-lunar-regolith-limits-meteorites-as-source-of-earths-water/" >🔗</a> **[NASA]** NASA Finds Lunar Regolith Limits Meteorites as Source of Earth’s Water
 - <a href="https://www.nasa.gov/missions/chandra/nasas-chandra-releases-deep-cut-from-catalog-of-cosmic-recordings/" >🔗</a> **[NASA]** NASA’s Chandra Releases Deep Cut From Catalog of Cosmic Recordings
-- <a href="https://spacenews.com/space-beyond-lines-up-2027-spacex-launch-for-low-cost-memorial-cubesat/" >🔗</a> **[SpaceNews]** Space Beyond lines up 2027 SpaceX launch for low-cost memorial cubesat
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260125T000535">2026-01-25 00:05:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260125T004852">2026-01-25 00:48:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
