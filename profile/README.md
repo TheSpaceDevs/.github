@@ -89,6 +89,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/golden-dome-is-forcing-the-pentagon-to-confront-missile-defense-economics/" >🔗</a> **[SpaceNews]** Golden Dome is forcing the Pentagon to confront missile defense economics
 - <a href="https://spaceflightnow.com/2026/01/25/live-coverage-spacex-to-launch-25-starlink-satellites-to-polar-low-earth-orbit/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 25 Starlink satellites to polar, low Earth orbit
 - <a href="https://spacenews.com/nasa-and-doe-to-collaborate-on-lunar-nuclear-reactor-development/" >🔗</a> **[SpaceNews]** NASA and DOE to collaborate on lunar nuclear reactor development
 - <a href="https://europeanspaceflight.com/rfa-awarded-esa-flight-ticket-initiative-launch-contracts/" >🔗</a> **[European Spaceflight]** RFA Awarded ESA Flight Ticket Initiative Launch Contracts
@@ -98,7 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/technology/space-comms/nasa-selects-participants-to-track-artemis-ii-mission/" >🔗</a> **[NASA]** NASA Selects Participants to Track Artemis II Mission
 - <a href="https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-dustin-gohmert/" >🔗</a> **[NASA]** I Am Artemis: Dustin Gohmert
 - <a href="https://www.nasa.gov/image-article/red-green-light-show/" >🔗</a> **[NASA]** Red, Green Light Show
-- <a href="https://science.nasa.gov/science-research/astromaterials/nasa-finds-lunar-regolith-limits-meteorites-as-source-of-earths-water/" >🔗</a> **[NASA]** NASA Finds Lunar Regolith Limits Meteorites as Source of Earth’s Water
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260125T160146">2026-01-25 16:01:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260125T163826">2026-01-25 16:38:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
