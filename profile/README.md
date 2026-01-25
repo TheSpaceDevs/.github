@@ -90,6 +90,7 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-january-25-31-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy January 25-31, 2026
 - <a href="https://spacenews.com/golden-dome-is-forcing-the-pentagon-to-confront-missile-defense-economics/" >🔗</a> **[SpaceNews]** Golden Dome is forcing the Pentagon to confront missile defense economics
 - <a href="https://spaceflightnow.com/2026/01/25/live-coverage-spacex-to-launch-25-starlink-satellites-to-polar-low-earth-orbit/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 25 Starlink satellites to polar, low Earth orbit
 - <a href="https://spacenews.com/nasa-and-doe-to-collaborate-on-lunar-nuclear-reactor-development/" >🔗</a> **[SpaceNews]** NASA and DOE to collaborate on lunar nuclear reactor development
@@ -99,7 +100,6 @@ into *a Medium Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-awards-global-modeling-assimilation-support-contract/" >🔗</a> **[NASA]** NASA Awards Global Modeling, Assimilation Support Contract
 - <a href="https://www.nasa.gov/technology/space-comms/nasa-selects-participants-to-track-artemis-ii-mission/" >🔗</a> **[NASA]** NASA Selects Participants to Track Artemis II Mission
 - <a href="https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-dustin-gohmert/" >🔗</a> **[NASA]** I Am Artemis: Dustin Gohmert
-- <a href="https://www.nasa.gov/image-article/red-green-light-show/" >🔗</a> **[NASA]** Red, Green Light Show
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260125T180152">2026-01-25 18:01:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260125T184113">2026-01-25 18:41:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
