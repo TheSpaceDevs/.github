@@ -91,15 +91,15 @@ into *a Medium Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://spacenews.com/we-need-a-planetary-neural-network-for-ai-enabled-space-infrastructure-protection/" >🔗</a> **[SpaceNews]** We need a ‘Planetary Neural Network’ for AI-enabled space infrastructure protection
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Biomass/ESA_s_Biomass_goes_live_with_data_now_open_to_all" >🔗</a> **[ESA]** ESA’s Biomass goes live with data now open to all
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Crawling_gripping_and_floating_above_ESA_s_flat_floor" >🔗</a> **[ESA]** Crawling, gripping and floating above ESA’s flat floor
 - <a href="https://spacenews.com/h3-failure-linked-to-payload-fairing-separation-anomaly/" >🔗</a> **[SpaceNews]** H3 failure linked to payload fairing separation anomaly
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/01/Artemis_II_rollout" >🔗</a> **[ESA]** Artemis II rollout
-- <a href="https://www.spacedaily.com/reports/Icy_cycles_may_have_driven_early_protocell_evolution_999.html" >🔗</a> **[SpaceDaily]** Icy cycles may have driven early protocell evolution
 - <a href="https://www.spacedaily.com/reports/Starfighters_completes_key_wind_tunnel_campaign_for_STARLAUNCH_1_air_launch_vehicle_999.html" >🔗</a> **[SpaceDaily]** Starfighters completes key wind tunnel campaign for STARLAUNCH 1 air launch vehicle
+- <a href="https://www.spacedaily.com/reports/Icy_cycles_may_have_driven_early_protocell_evolution_999.html" >🔗</a> **[SpaceDaily]** Icy cycles may have driven early protocell evolution
 - <a href="https://www.spacedaily.com/reports/Heavy_impurities_reveal_new_link_in_quantum_matter_theory_999.html" >🔗</a> **[SpaceDaily]** Heavy impurities reveal new link in quantum matter theory
 - <a href="https://www.spacedaily.com/reports/China_prepares_offshore_test_base_for_reusable_liquid_rocket_launches_999.html" >🔗</a> **[SpaceDaily]** China prepares offshore test base for reusable liquid rocket launches
 - <a href="https://www.spacedaily.com/reports/Solar_Orbiter_spots_magnetic_avalanches_driving_major_solar_flare_999.html" >🔗</a> **[SpaceDaily]** Solar Orbiter spots magnetic avalanches driving major solar flare
-- <a href="https://www.spacedaily.com/reports/Seismic_networks_offer_new_way_to_track_space_junk_reentering_atmosphere_999.html" >🔗</a> **[SpaceDaily]** Seismic networks offer new way to track space junk reentering atmosphere
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260126T140522">2026-01-26 14:05:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260126T144023">2026-01-26 14:40:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
