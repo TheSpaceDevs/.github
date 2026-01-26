@@ -94,6 +94,7 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/01/launch-roundup-012626/" >🔗</a> **[NASASpaceflight]** Launch Roundup: GPS, Starlink, Electron launches scheduled for last week of January
 - <a href="https://spacenews.com/hanwha-exploring-south-korean-defense-constellation-with-mda-space-and-telesat/" >🔗</a> **[SpaceNews]** Hanwha exploring South Korean defense constellation with MDA Space and Telesat
 - <a href="https://www.nasa.gov/aeronautics/hybrid-engine-tested/" >🔗</a> **[NASA]** NASA, GE Aerospace Hybrid Engine System Marks Successful Test
 - <a href="https://www.nasa.gov/news-release/nasa-welcomes-oman-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Oman as Newest Artemis Accords Signatory
@@ -103,7 +104,6 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 - <a href="https://www.nasa.gov/image-article/hubble-observes-ghostly-cloud-alive-with-star-formation/" >🔗</a> **[NASA]** Hubble Observes Ghostly Cloud Alive with Star Formation
 - <a href="https://www.nasa.gov/missions/webb/nasa-reveals-new-details-about-dark-matters-influence-on-universe/" >🔗</a> **[NASA]** NASA Reveals New Details About Dark Matter’s Influence on Universe
 - <a href="https://spacenews.com/we-need-a-planetary-neural-network-for-ai-enabled-space-infrastructure-protection/" >🔗</a> **[SpaceNews]** We need a ‘Planetary Neural Network’ for AI-enabled space infrastructure protection
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Biomass/ESA_s_Biomass_goes_live_with_data_now_open_to_all" >🔗</a> **[ESA]** ESA’s Biomass goes live with data now open to all
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260126T230149">2026-01-26 23:01:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260126T233554">2026-01-26 23:35:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
