@@ -90,6 +90,8 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/earth/how-nasa-is-homing-in-from-space-on-ocean-debris/" >🔗</a> **[NASA]** How NASA Is Homing in From Space on Ocean Debris
+- <a href="https://spacenews.com/astranis-adds-oman-customer-to-summer-geo-launch-lineup/" >🔗</a> **[SpaceNews]** Astranis adds Oman customer to summer GEO launch lineup
 - <a href="https://www.nasa.gov/image-article/hubble-observes-ghostly-cloud-alive-with-star-formation/" >🔗</a> **[NASA]** Hubble Observes Ghostly Cloud Alive with Star Formation
 - <a href="https://www.nasa.gov/missions/webb/nasa-reveals-new-details-about-dark-matters-influence-on-universe/" >🔗</a> **[NASA]** NASA Reveals New Details About Dark Matter’s Influence on Universe
 - <a href="https://spacenews.com/we-need-a-planetary-neural-network-for-ai-enabled-space-infrastructure-protection/" >🔗</a> **[SpaceNews]** We need a ‘Planetary Neural Network’ for AI-enabled space infrastructure protection
@@ -98,8 +100,6 @@ into *a Medium Earth Orbit
 - <a href="https://spacenews.com/h3-failure-linked-to-payload-fairing-separation-anomaly/" >🔗</a> **[SpaceNews]** H3 failure linked to payload fairing separation anomaly
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/01/Artemis_II_rollout" >🔗</a> **[ESA]** Artemis II rollout
 - <a href="https://www.spacedaily.com/reports/Metal_rich_winds_detected_in_giant_dusty_cloud_around_distant_star_999.html" >🔗</a> **[SpaceDaily]** Metal rich winds detected in giant dusty cloud around distant star
-- <a href="https://www.spacedaily.com/reports/China_prepares_offshore_test_base_for_reusable_liquid_rocket_launches_999.html" >🔗</a> **[SpaceDaily]** China prepares offshore test base for reusable liquid rocket launches
-- <a href="https://www.spacedaily.com/reports/Starfighters_completes_key_wind_tunnel_campaign_for_STARLAUNCH_1_air_launch_vehicle_999.html" >🔗</a> **[SpaceDaily]** Starfighters completes key wind tunnel campaign for STARLAUNCH 1 air launch vehicle
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260126T170615">2026-01-26 17:06:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260126T174013">2026-01-26 17:40:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
