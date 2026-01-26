@@ -94,6 +94,9 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/hanwha-exploring-south-korean-defense-constellation-with-mda-space-and-telesat/" >🔗</a> **[SpaceNews]** Hanwha exploring South Korean defense constellation with MDA Space and Telesat
+- <a href="https://www.nasa.gov/aeronautics/hybrid-engine-tested/" >🔗</a> **[NASA]** NASA, GE Aerospace Hybrid Engine System Marks Successful Test
+- <a href="https://www.nasa.gov/news-release/nasa-welcomes-oman-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Oman as Newest Artemis Accords Signatory
 - <a href="https://www.nasa.gov/news-release/nasa-technology-brings-golden-age-of-exploration-to-earth/" >🔗</a> **[NASA]** NASA Technology Brings Golden Age of Exploration to Earth
 - <a href="https://www.nasa.gov/earth/how-nasa-is-homing-in-from-space-on-ocean-debris/" >🔗</a> **[NASA]** How NASA Is Homing in From Space on Ocean Debris
 - <a href="https://spacenews.com/astranis-adds-oman-customer-to-summer-geo-launch-lineup/" >🔗</a> **[SpaceNews]** Astranis adds Oman customer to summer GEO launch lineup
@@ -101,9 +104,6 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 - <a href="https://www.nasa.gov/missions/webb/nasa-reveals-new-details-about-dark-matters-influence-on-universe/" >🔗</a> **[NASA]** NASA Reveals New Details About Dark Matter’s Influence on Universe
 - <a href="https://spacenews.com/we-need-a-planetary-neural-network-for-ai-enabled-space-infrastructure-protection/" >🔗</a> **[SpaceNews]** We need a ‘Planetary Neural Network’ for AI-enabled space infrastructure protection
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Biomass/ESA_s_Biomass_goes_live_with_data_now_open_to_all" >🔗</a> **[ESA]** ESA’s Biomass goes live with data now open to all
-- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Crawling_gripping_and_floating_above_ESA_s_flat_floor" >🔗</a> **[ESA]** Crawling, gripping and floating above ESA’s flat floor
-- <a href="https://spacenews.com/h3-failure-linked-to-payload-fairing-separation-anomaly/" >🔗</a> **[SpaceNews]** H3 failure linked to payload fairing separation anomaly
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/01/Artemis_II_rollout" >🔗</a> **[ESA]** Artemis II rollout
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260126T210233">2026-01-26 21:02:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260126T213653">2026-01-26 21:36:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
