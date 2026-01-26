@@ -90,16 +90,16 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spaceflightnow.com/2026/01/26/live-coverage-spacex-to-launch-gps-3-satellite-following-switch-from-ula-vulcan-rocket/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch GPS 3 satellite following switch from ULA Vulcan rocket
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-january-25-31-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy January 25-31, 2026
-- <a href="https://spacenews.com/golden-dome-is-forcing-the-pentagon-to-confront-missile-defense-economics/" >🔗</a> **[SpaceNews]** Golden Dome is forcing the Pentagon to confront missile defense economics
-- <a href="https://spaceflightnow.com/2026/01/25/live-coverage-spacex-to-launch-25-starlink-satellites-to-polar-low-earth-orbit/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 25 Starlink satellites to polar, low Earth orbit
-- <a href="https://spacenews.com/nasa-and-doe-to-collaborate-on-lunar-nuclear-reactor-development/" >🔗</a> **[SpaceNews]** NASA and DOE to collaborate on lunar nuclear reactor development
-- <a href="https://europeanspaceflight.com/rfa-awarded-esa-flight-ticket-initiative-launch-contracts/" >🔗</a> **[European Spaceflight]** RFA Awarded ESA Flight Ticket Initiative Launch Contracts
-- <a href="https://www.nasaspaceflight.com/2026/01/hungry-hippos-test-tanks-neutron/" >🔗</a> **[NASASpaceflight]** Hungry Hippos and Test Tanks – Rocket Lab building towards Neutron
-- <a href="https://www.nasa.gov/news-release/nasa-sets-briefings-for-spacex-crew-12-mission-to-space-station/" >🔗</a> **[NASA]** NASA Sets Briefings for SpaceX Crew-12 Mission to Space Station
-- <a href="https://www.nasa.gov/news-release/nasa-awards-global-modeling-assimilation-support-contract/" >🔗</a> **[NASA]** NASA Awards Global Modeling, Assimilation Support Contract
-- <a href="https://www.nasa.gov/technology/space-comms/nasa-selects-participants-to-track-artemis-ii-mission/" >🔗</a> **[NASA]** NASA Selects Participants to Track Artemis II Mission
+- <a href="https://www.spacedaily.com/reports/Heavy_impurities_reveal_new_link_in_quantum_matter_theory_999.html" >🔗</a> **[SpaceDaily]** Heavy impurities reveal new link in quantum matter theory
+- <a href="https://www.spacedaily.com/reports/Electron_ordering_mapped_in_quantum_material_with_cryogenic_4D_STEM_999.html" >🔗</a> **[SpaceDaily]** Electron ordering mapped in quantum material with cryogenic 4D-STEM
+- <a href="https://www.spacedaily.com/reports/Sulfur_ring_molecule_in_galactic_cloud_links_space_chemistry_to_life_999.html" >🔗</a> **[SpaceDaily]** Sulfur ring molecule in galactic cloud links space chemistry to life
+- <a href="https://www.spacedaily.com/reports/Starfighters_completes_key_wind_tunnel_campaign_for_STARLAUNCH_1_air_launch_vehicle_999.html" >🔗</a> **[SpaceDaily]** Starfighters completes key wind tunnel campaign for STARLAUNCH 1 air launch vehicle
+- <a href="https://www.spacedaily.com/reports/Icy_cycles_may_have_driven_early_protocell_evolution_999.html" >🔗</a> **[SpaceDaily]** Icy cycles may have driven early protocell evolution
+- <a href="https://www.spacedaily.com/reports/Seismic_networks_offer_new_way_to_track_space_junk_reentering_atmosphere_999.html" >🔗</a> **[SpaceDaily]** Seismic networks offer new way to track space junk reentering atmosphere
+- <a href="https://www.spacedaily.com/reports/China_prepares_offshore_test_base_for_reusable_liquid_rocket_launches_999.html" >🔗</a> **[SpaceDaily]** China prepares offshore test base for reusable liquid rocket launches
+- <a href="https://www.spacedaily.com/reports/Metal_rich_winds_detected_in_giant_dusty_cloud_around_distant_star_999.html" >🔗</a> **[SpaceDaily]** Metal rich winds detected in giant dusty cloud around distant star
+- <a href="https://www.spacedaily.com/reports/Solar_Orbiter_spots_magnetic_avalanches_driving_major_solar_flare_999.html" >🔗</a> **[SpaceDaily]** Solar Orbiter spots magnetic avalanches driving major solar flare
+- <a href="https://www.spacedaily.com/reports/It_started_with_a_cat_How_100_years_of_quantum_weirdness_powers_todays_tech_999.html" >🔗</a> **[SpaceDaily]** It started with a cat: How 100 years of quantum weirdness powers today's tech
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260126T060304">2026-01-26 06:03:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260126T064259">2026-01-26 06:42:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
