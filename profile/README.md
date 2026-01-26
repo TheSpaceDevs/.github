@@ -94,6 +94,7 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-technology-brings-golden-age-of-exploration-to-earth/" >🔗</a> **[NASA]** NASA Technology Brings Golden Age of Exploration to Earth
 - <a href="https://www.nasa.gov/earth/how-nasa-is-homing-in-from-space-on-ocean-debris/" >🔗</a> **[NASA]** How NASA Is Homing in From Space on Ocean Debris
 - <a href="https://spacenews.com/astranis-adds-oman-customer-to-summer-geo-launch-lineup/" >🔗</a> **[SpaceNews]** Astranis adds Oman customer to summer GEO launch lineup
 - <a href="https://www.nasa.gov/image-article/hubble-observes-ghostly-cloud-alive-with-star-formation/" >🔗</a> **[NASA]** Hubble Observes Ghostly Cloud Alive with Star Formation
@@ -103,7 +104,6 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Crawling_gripping_and_floating_above_ESA_s_flat_floor" >🔗</a> **[ESA]** Crawling, gripping and floating above ESA’s flat floor
 - <a href="https://spacenews.com/h3-failure-linked-to-payload-fairing-separation-anomaly/" >🔗</a> **[SpaceNews]** H3 failure linked to payload fairing separation anomaly
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/01/Artemis_II_rollout" >🔗</a> **[ESA]** Artemis II rollout
-- <a href="https://www.spacedaily.com/reports/Metal_rich_winds_detected_in_giant_dusty_cloud_around_distant_star_999.html" >🔗</a> **[SpaceDaily]** Metal rich winds detected in giant dusty cloud around distant star
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260126T190536">2026-01-26 19:05:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260126T193556">2026-01-26 19:35:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
