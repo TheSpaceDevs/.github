@@ -90,6 +90,8 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/airborne-science/nasa-science-flights-venture-to-improve-severe-winter-weather-warnings/" >🔗</a> **[NASA]** NASA Science Flights Venture to Improve Severe Winter Weather Warnings
+- <a href="https://science.nasa.gov/photojournal/webb-data-reveals-dark-matter/" >🔗</a> **[NASA]** Webb Data Reveals Dark Matter
 - <a href="https://spacenews.com/second-edition-of-space-debris-2026-conference-kicks-off-with-participation-from-75-countries/" >🔗</a> **[SpaceNews]** Second Edition of Space Debris 2026 Conference Kicks Off with Participation from 75 Countries
 - <a href="https://arstechnica.com/space/2026/01/one-of-nasas-three-wb-57-aircraft-just-did-a-belly-landing-in-houston/" >🔗</a> **[Arstechnica]** One of NASA's three WB-57 aircraft just did a belly landing in Houston
 - <a href="https://spacenews.com/ebad-prm-payload-release-module-family-demonstrates-scalable-low-shock-separation-capability-on-falcon-9-twilight-rideshare-mission/" >🔗</a> **[SpaceNews]** EBAD PRM Payload Release Module Family Demonstrates Scalable, Low-Shock Separation Capability on Falcon 9 Twilight Rideshare Mission
@@ -98,8 +100,6 @@ into *a Medium Earth Orbit
 - <a href="https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-finds-crystal-spewing-protostar/" >🔗</a> **[NASA]** NASA’s James Webb Space Telescope Finds Crystal-Spewing Protostar
 - <a href="https://science.nasa.gov/missions/lisa/nasa-partners-advance-lisa-prototype-hardware/" >🔗</a> **[NASA]** NASA, Partners Advance LISA Prototype Hardware
 - <a href="https://science.nasa.gov/missions/hubble/ai-unlocks-hundreds-of-cosmic-anomalies-in-hubble-archive/" >🔗</a> **[NASA]** AI Unlocks Hundreds of Cosmic Anomalies in Hubble Archive
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/01/European_Space_Conference_in_Bruxelles_ESA_DG_keynote_address" >🔗</a> **[ESA]** European Space Conference in Bruxelles: ESA DG keynote address
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/1400_quirky_objects_found_in_Hubble_s_archive" >🔗</a> **[ESA]** 1400 quirky objects found in Hubble's archive
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260127T220138">2026-01-27 22:01:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260127T223623">2026-01-27 22:36:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
