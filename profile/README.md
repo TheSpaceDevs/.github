@@ -94,16 +94,16 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/space-force-set-to-choose-contractors-for-next-gen-geo-spy-satellites/" >🔗</a> **[SpaceNews]** Space Force set to choose contractors for next-gen GEO spy satellites
-- <a href="https://spacenews.com/vega-c-to-launch-brazilian-satellite/" >🔗</a> **[SpaceNews]** Vega C to launch Brazilian satellite
-- <a href="https://europeanspaceflight.com/airbus-selects-vega-c-to-launch-first-pleiades-neo-next-satellite/" >🔗</a> **[European Spaceflight]** Airbus Selects Vega C to Launch First Pléiades Neo Next Satellite
-- <a href="https://spacenews.com/northwood-space-raises-100-million-series-b-lands-49-million-space-force-deal/" >🔗</a> **[SpaceNews]** Northwood Space raises $100 million Series B, lands $49 million Space Force deal
-- <a href="https://spacenews.com/oman-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Oman signs Artemis Accords
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images" >🔗</a> **[ESA]** Europe’s next-generation weather satellite sends back first images
-- <a href="https://europeanspaceflight.com/brazils-amazonia-1b-satellite-to-be-launched-aboard-vega-c/" >🔗</a> **[European Spaceflight]** Brazil’s Amazonia-1B Satellite to Be Launched Aboard Vega C
-- <a href="https://science.nasa.gov/earth/earth-observatory/floods-inundate-southern-mozambique/" >🔗</a> **[NASA]** Floods Inundate Southern Mozambique
-- <a href="https://spacepolicyonline.com/news/artemis-ii-wet-dress-rehearsal-as-early-as-january-31/" >🔗</a> **[SpacePolicyOnline.com]** Artemis II Wet Dress Rehearsal As Early as January 31
-- <a href="https://spacenews.com/nasa-seeks-partners-for-earth-science-extended-missions/" >🔗</a> **[SpaceNews]** NASA seeks partners for Earth Science extended missions
+- <a href="https://www.energy-daily.com/reports/Oak_Ridge_team_plans_powerful_test_facility_for_next_generation_fusion_components_999.html" >🔗</a> **[SpaceDaily]** Oak Ridge team plans powerful test facility for next generation fusion components
+- <a href="https://www.terradaily.com/reports/Lunar_soil_study_limits_late_meteorite_role_in_supplying_Earth_oceans_999.html" >🔗</a> **[SpaceDaily]** Lunar soil study limits late meteorite role in supplying Earth oceans
+- <a href="https://www.energy-daily.com/reports/Low_frequency_lasers_modeled_to_greatly_boost_nuclear_fusion_rates_999.html" >🔗</a> **[SpaceDaily]** Low frequency lasers modeled to greatly boost nuclear fusion rates
+- <a href="https://www.terradaily.com/reports/Geoscientists_use_satellite_to_determine_not_the_shape_of_water_but_how_water_shapes_land_999.html" >🔗</a> **[SpaceDaily]** Geoscientists use satellite to determine not the shape of water, but how water shapes land
+- <a href="https://www.terradaily.com/reports/Ancient_nitrogen_enzyme_study_illuminates_early_Earth_conditions_and_life_detection_999.html" >🔗</a> **[SpaceDaily]** Ancient nitrogen enzyme study illuminates early Earth conditions and life detection
+- <a href="https://www.spacedaily.com/reports/Hydrogen_nuclei_experiment_sharpens_view_of_quarks_inside_matter_999.html" >🔗</a> **[SpaceDaily]** Hydrogen nuclei experiment sharpens view of quarks inside matter
+- <a href="https://www.spacewar.com/reports/Aalyria_spacetime_platform_tapped_for_AFRL_space_data_network_trials_999.html" >🔗</a> **[SpaceDaily]** Aalyria spacetime platform tapped for AFRL space data network trials
+- <a href="https://www.spacedaily.com/reports/Spire_weather_data_to_power_AiDASH_vegetation_and_outage_risk_tools_999.html" >🔗</a> **[SpaceDaily]** Spire weather data to power AiDASH vegetation and outage risk tools
+- <a href="https://www.spacedaily.com/reports/Stratoship_alliance_charts_staged_path_for_smallsat_payloads_999.html" >🔗</a> **[SpaceDaily]** Stratoship alliance charts staged path for smallsat payloads
+- <a href="https://www.spacedaily.com/reports/Understanding_USDT_How_Stablecoins_Maintain_Value_in_Volatile_Markets_999.html" >🔗</a> **[SpaceDaily]** Understanding USDT How Stablecoins Maintain Value in Volatile Markets
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260127T120213">2026-01-27 12:02:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260127T124409">2026-01-27 12:44:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
