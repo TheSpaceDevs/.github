@@ -90,6 +90,8 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/space-nuclear-propulsion-snp/nasa-testing-advances-space-nuclear-propulsion-capabilities/" >🔗</a> **[NASA]** NASA Testing Advances Space Nuclear Propulsion Capabilities
+- <a href="https://science.nasa.gov/universe/exoplanets/discovery-alert-an-ice-cold-earth/" >🔗</a> **[NASA]** Discovery Alert: An Ice-Cold Earth?
 - <a href="https://www.nasa.gov/missions/airborne-science/nasa-science-flights-venture-to-improve-severe-winter-weather-warnings/" >🔗</a> **[NASA]** NASA Science Flights Venture to Improve Severe Winter Weather Warnings
 - <a href="https://science.nasa.gov/photojournal/webb-data-reveals-dark-matter/" >🔗</a> **[NASA]** Webb Data Reveals Dark Matter
 - <a href="https://spacenews.com/second-edition-of-space-debris-2026-conference-kicks-off-with-participation-from-75-countries/" >🔗</a> **[SpaceNews]** Second Edition of Space Debris 2026 Conference Kicks Off with Participation from 75 Countries
@@ -98,8 +100,6 @@ into *a Medium Earth Orbit
 - <a href="https://www.nasa.gov/missions/juno/nasas-juno-measures-thickness-of-europas-ice-shell/" >🔗</a> **[NASA]** NASA’s Juno Measures Thickness of Europa’s Ice Shell
 - <a href="https://www.nasa.gov/technology/computing/nasa-launches-its-most-powerful-efficient-supercomputer/" >🔗</a> **[NASA]** NASA Launches Its Most Powerful, Efficient Supercomputer
 - <a href="https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-finds-crystal-spewing-protostar/" >🔗</a> **[NASA]** NASA’s James Webb Space Telescope Finds Crystal-Spewing Protostar
-- <a href="https://science.nasa.gov/missions/lisa/nasa-partners-advance-lisa-prototype-hardware/" >🔗</a> **[NASA]** NASA, Partners Advance LISA Prototype Hardware
-- <a href="https://science.nasa.gov/missions/hubble/ai-unlocks-hundreds-of-cosmic-anomalies-in-hubble-archive/" >🔗</a> **[NASA]** AI Unlocks Hundreds of Cosmic Anomalies in Hubble Archive
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260127T230148">2026-01-27 23:01:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260127T233527">2026-01-27 23:35:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
