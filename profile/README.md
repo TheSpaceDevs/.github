@@ -94,16 +94,16 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ebad-prm-payload-release-module-family-demonstrates-scalable-low-shock-separation-capability-on-falcon-9-twilight-rideshare-mission/" >🔗</a> **[SpaceNews]** EBAD PRM Payload Release Module Family Demonstrates Scalable, Low-Shock Separation Capability on Falcon 9 Twilight Rideshare Mission
+- <a href="https://www.nasa.gov/missions/juno/nasas-juno-measures-thickness-of-europas-ice-shell/" >🔗</a> **[NASA]** NASA’s Juno Measures Thickness of Europa’s Ice Shell
 - <a href="https://www.nasa.gov/technology/computing/nasa-launches-its-most-powerful-efficient-supercomputer/" >🔗</a> **[NASA]** NASA Launches Its Most Powerful, Efficient Supercomputer
 - <a href="https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-finds-crystal-spewing-protostar/" >🔗</a> **[NASA]** NASA’s James Webb Space Telescope Finds Crystal-Spewing Protostar
 - <a href="https://science.nasa.gov/missions/lisa/nasa-partners-advance-lisa-prototype-hardware/" >🔗</a> **[NASA]** NASA, Partners Advance LISA Prototype Hardware
 - <a href="https://science.nasa.gov/missions/hubble/ai-unlocks-hundreds-of-cosmic-anomalies-in-hubble-archive/" >🔗</a> **[NASA]** AI Unlocks Hundreds of Cosmic Anomalies in Hubble Archive
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/1400_quirky_objects_found_in_Hubble_s_archive" >🔗</a> **[ESA]** 1400 quirky objects found in Hubble's archive
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/01/European_Space_Conference_in_Bruxelles_ESA_DG_keynote_address" >🔗</a> **[ESA]** European Space Conference in Bruxelles: ESA DG keynote address
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/1400_quirky_objects_found_in_Hubble_s_archive" >🔗</a> **[ESA]** 1400 quirky objects found in Hubble's archive
 - <a href="https://spacenews.com/the-stealth-strategy-pays-off-uarx-space-emerges-as-europes-high-reliability-powerhouse/" >🔗</a> **[SpaceNews]** The “Stealth” Strategy Pays Off: UARX Space Emerges as Europe’s High-Reliability Powerhouse
 - <a href="https://arstechnica.com/space/2026/01/as-data-from-space-spikes-an-innovative-ground-station-company-seeks-to-cash-in/" >🔗</a> **[Arstechnica]** As data from space spikes, an innovative ground station company seeks to cash in
-- <a href="https://spacenews.com/nasa-evaluation-lauds-quality-of-planetiq-radio-occultation-data/" >🔗</a> **[SpaceNews]** NASA evaluation lauds quality of PlanetiQ radio occultation data
-- <a href="https://www.nasaspaceflight.com/2026/01/nasa-wdr-sls-artemis-ii/" >🔗</a> **[NASASpaceflight]** NASA lines up WDR for SLS ahead of Artemis II
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260127T190706">2026-01-27 19:07:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260127T193740">2026-01-27 19:37:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
