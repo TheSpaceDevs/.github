@@ -94,16 +94,16 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.energy-daily.com/reports/Oak_Ridge_team_plans_powerful_test_facility_for_next_generation_fusion_components_999.html" >🔗</a> **[SpaceDaily]** Oak Ridge team plans powerful test facility for next generation fusion components
-- <a href="https://www.terradaily.com/reports/Lunar_soil_study_limits_late_meteorite_role_in_supplying_Earth_oceans_999.html" >🔗</a> **[SpaceDaily]** Lunar soil study limits late meteorite role in supplying Earth oceans
+- <a href="https://www.nasaspaceflight.com/2026/01/nasa-wdr-sls-artemis-ii/" >🔗</a> **[NASASpaceflight]** NASA lines up WDR for SLS ahead of Artemis II
 - <a href="https://www.energy-daily.com/reports/Low_frequency_lasers_modeled_to_greatly_boost_nuclear_fusion_rates_999.html" >🔗</a> **[SpaceDaily]** Low frequency lasers modeled to greatly boost nuclear fusion rates
-- <a href="https://www.terradaily.com/reports/Geoscientists_use_satellite_to_determine_not_the_shape_of_water_but_how_water_shapes_land_999.html" >🔗</a> **[SpaceDaily]** Geoscientists use satellite to determine not the shape of water, but how water shapes land
-- <a href="https://www.terradaily.com/reports/Ancient_nitrogen_enzyme_study_illuminates_early_Earth_conditions_and_life_detection_999.html" >🔗</a> **[SpaceDaily]** Ancient nitrogen enzyme study illuminates early Earth conditions and life detection
-- <a href="https://www.spacedaily.com/reports/Hydrogen_nuclei_experiment_sharpens_view_of_quarks_inside_matter_999.html" >🔗</a> **[SpaceDaily]** Hydrogen nuclei experiment sharpens view of quarks inside matter
 - <a href="https://www.spacewar.com/reports/Aalyria_spacetime_platform_tapped_for_AFRL_space_data_network_trials_999.html" >🔗</a> **[SpaceDaily]** Aalyria spacetime platform tapped for AFRL space data network trials
 - <a href="https://www.spacedaily.com/reports/Spire_weather_data_to_power_AiDASH_vegetation_and_outage_risk_tools_999.html" >🔗</a> **[SpaceDaily]** Spire weather data to power AiDASH vegetation and outage risk tools
+- <a href="https://www.terradaily.com/reports/Geoscientists_use_satellite_to_determine_not_the_shape_of_water_but_how_water_shapes_land_999.html" >🔗</a> **[SpaceDaily]** Geoscientists use satellite to determine not the shape of water, but how water shapes land
+- <a href="https://www.spacedaily.com/reports/Hydrogen_nuclei_experiment_sharpens_view_of_quarks_inside_matter_999.html" >🔗</a> **[SpaceDaily]** Hydrogen nuclei experiment sharpens view of quarks inside matter
+- <a href="https://www.terradaily.com/reports/Ancient_nitrogen_enzyme_study_illuminates_early_Earth_conditions_and_life_detection_999.html" >🔗</a> **[SpaceDaily]** Ancient nitrogen enzyme study illuminates early Earth conditions and life detection
 - <a href="https://www.spacedaily.com/reports/Stratoship_alliance_charts_staged_path_for_smallsat_payloads_999.html" >🔗</a> **[SpaceDaily]** Stratoship alliance charts staged path for smallsat payloads
-- <a href="https://www.spacedaily.com/reports/Understanding_USDT_How_Stablecoins_Maintain_Value_in_Volatile_Markets_999.html" >🔗</a> **[SpaceDaily]** Understanding USDT How Stablecoins Maintain Value in Volatile Markets
+- <a href="https://www.terradaily.com/reports/Lunar_soil_study_limits_late_meteorite_role_in_supplying_Earth_oceans_999.html" >🔗</a> **[SpaceDaily]** Lunar soil study limits late meteorite role in supplying Earth oceans
+- <a href="https://www.energy-daily.com/reports/Oak_Ridge_team_plans_powerful_test_facility_for_next_generation_fusion_components_999.html" >🔗</a> **[SpaceDaily]** Oak Ridge team plans powerful test facility for next generation fusion components
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260127T134412">2026-01-27 13:44:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260127T140708">2026-01-27 14:07:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
