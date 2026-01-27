@@ -94,6 +94,8 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/northwood-space-raises-100-million-series-b-lands-49-million-space-force-deal/" >🔗</a> **[SpaceNews]** Northwood Space raises $100 million Series B, lands $49 million Space Force deal
+- <a href="https://spacenews.com/oman-signs-artemis-accords/" >🔗</a> **[SpaceNews]** Oman signs Artemis Accords
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images" >🔗</a> **[ESA]** Europe’s next-generation weather satellite sends back first images
 - <a href="https://europeanspaceflight.com/brazils-amazonia-1b-satellite-to-be-launched-aboard-vega-c/" >🔗</a> **[European Spaceflight]** Brazil’s Amazonia-1B Satellite to Be Launched Aboard Vega C
 - <a href="https://science.nasa.gov/earth/earth-observatory/floods-inundate-southern-mozambique/" >🔗</a> **[NASA]** Floods Inundate Southern Mozambique
@@ -102,8 +104,6 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 - <a href="https://www.nasaspaceflight.com/2026/01/launch-roundup-012626/" >🔗</a> **[NASASpaceflight]** Launch Roundup: GPS, Starlink, Electron launches scheduled for last week of January
 - <a href="https://spacenews.com/hanwha-exploring-south-korean-defense-constellation-with-mda-space-and-telesat/" >🔗</a> **[SpaceNews]** Hanwha exploring South Korean defense constellation with MDA Space and Telesat
 - <a href="https://www.nasa.gov/aeronautics/hybrid-engine-tested/" >🔗</a> **[NASA]** NASA, GE Aerospace Hybrid Engine System Marks Successful Test
-- <a href="https://www.nasa.gov/news-release/nasa-welcomes-oman-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Oman as Newest Artemis Accords Signatory
-- <a href="https://www.nasa.gov/news-release/nasa-technology-brings-golden-age-of-exploration-to-earth/" >🔗</a> **[NASA]** NASA Technology Brings Golden Age of Exploration to Earth
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260127T100253">2026-01-27 10:02:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260127T104053">2026-01-27 10:40:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
