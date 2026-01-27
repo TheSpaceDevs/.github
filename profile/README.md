@@ -94,6 +94,7 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/brazils-amazonia-1b-satellite-to-be-launched-aboard-vega-c/" >🔗</a> **[European Spaceflight]** Brazil’s Amazonia-1B Satellite to Be Launched Aboard Vega C
 - <a href="https://science.nasa.gov/earth/earth-observatory/floods-inundate-southern-mozambique/" >🔗</a> **[NASA]** Floods Inundate Southern Mozambique
 - <a href="https://spacepolicyonline.com/news/artemis-ii-wet-dress-rehearsal-as-early-as-january-31/" >🔗</a> **[SpacePolicyOnline.com]** Artemis II Wet Dress Rehearsal As Early as January 31
 - <a href="https://spacenews.com/nasa-seeks-partners-for-earth-science-extended-missions/" >🔗</a> **[SpaceNews]** NASA seeks partners for Earth Science extended missions
@@ -103,17 +104,17 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 - <a href="https://www.nasa.gov/news-release/nasa-welcomes-oman-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Oman as Newest Artemis Accords Signatory
 - <a href="https://www.nasa.gov/news-release/nasa-technology-brings-golden-age-of-exploration-to-earth/" >🔗</a> **[NASA]** NASA Technology Brings Golden Age of Exploration to Earth
 - <a href="https://www.nasa.gov/earth/how-nasa-is-homing-in-from-space-on-ocean-debris/" >🔗</a> **[NASA]** How NASA Is Homing in From Space on Ocean Debris
-- <a href="https://spacenews.com/astranis-adds-oman-customer-to-summer-geo-launch-lineup/" >🔗</a> **[SpaceNews]** Astranis adds Oman customer to summer GEO launch lineup
 
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2026/01/launch-roundup-012626/" >🔗</a> **[NASASpaceflight]** Launch Roundup: GPS, Starlink, Electron launches scheduled for last week of January
 - <a href="https://spaceflightnow.com/2025/12/15/rocket-lab-to-launch-second-of-three-planned-electron-rockets-this-week/" >🔗</a> **[Spaceflight Now]** Rocket Lab to launch second of three planned Electron rockets this week
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260127T080201">2026-01-27 08:02:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260127T084222">2026-01-27 08:42:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
