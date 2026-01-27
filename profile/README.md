@@ -94,16 +94,16 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/missions/hubble/ai-unlocks-hundreds-of-cosmic-anomalies-in-hubble-archive/" >🔗</a> **[NASA]** AI Unlocks Hundreds of Cosmic Anomalies in Hubble Archive
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/1400_quirky_objects_found_in_Hubble_s_archive" >🔗</a> **[ESA]** 1400 quirky objects found in Hubble's archive
+- <a href="https://spacenews.com/the-stealth-strategy-pays-off-uarx-space-emerges-as-europes-high-reliability-powerhouse/" >🔗</a> **[SpaceNews]** The “Stealth” Strategy Pays Off: UARX Space Emerges as Europe’s High-Reliability Powerhouse
 - <a href="https://arstechnica.com/space/2026/01/as-data-from-space-spikes-an-innovative-ground-station-company-seeks-to-cash-in/" >🔗</a> **[Arstechnica]** As data from space spikes, an innovative ground station company seeks to cash in
 - <a href="https://spacenews.com/nasa-evaluation-lauds-quality-of-planetiq-radio-occultation-data/" >🔗</a> **[SpaceNews]** NASA evaluation lauds quality of PlanetiQ radio occultation data
 - <a href="https://www.nasaspaceflight.com/2026/01/nasa-wdr-sls-artemis-ii/" >🔗</a> **[NASASpaceflight]** NASA lines up WDR for SLS ahead of Artemis II
+- <a href="https://www.spacedaily.com/reports/Stratoship_alliance_charts_staged_path_for_smallsat_payloads_999.html" >🔗</a> **[SpaceDaily]** Stratoship alliance charts staged path for smallsat payloads
 - <a href="https://www.terradaily.com/reports/Lunar_soil_study_limits_late_meteorite_role_in_supplying_Earth_oceans_999.html" >🔗</a> **[SpaceDaily]** Lunar soil study limits late meteorite role in supplying Earth oceans
 - <a href="https://www.spacedaily.com/reports/Spire_weather_data_to_power_AiDASH_vegetation_and_outage_risk_tools_999.html" >🔗</a> **[SpaceDaily]** Spire weather data to power AiDASH vegetation and outage risk tools
-- <a href="https://www.spacedaily.com/reports/Stratoship_alliance_charts_staged_path_for_smallsat_payloads_999.html" >🔗</a> **[SpaceDaily]** Stratoship alliance charts staged path for smallsat payloads
 - <a href="https://www.spacewar.com/reports/Aalyria_spacetime_platform_tapped_for_AFRL_space_data_network_trials_999.html" >🔗</a> **[SpaceDaily]** Aalyria spacetime platform tapped for AFRL space data network trials
-- <a href="https://www.spacedaily.com/reports/Hydrogen_nuclei_experiment_sharpens_view_of_quarks_inside_matter_999.html" >🔗</a> **[SpaceDaily]** Hydrogen nuclei experiment sharpens view of quarks inside matter
-- <a href="https://www.terradaily.com/reports/Ancient_nitrogen_enzyme_study_illuminates_early_Earth_conditions_and_life_detection_999.html" >🔗</a> **[SpaceDaily]** Ancient nitrogen enzyme study illuminates early Earth conditions and life detection
-- <a href="https://www.terradaily.com/reports/Geoscientists_use_satellite_to_determine_not_the_shape_of_water_but_how_water_shapes_land_999.html" >🔗</a> **[SpaceDaily]** Geoscientists use satellite to determine not the shape of water, but how water shapes land
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260127T150555">2026-01-27 15:05:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260127T154002">2026-01-27 15:40:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
