@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/exotrail-and-astroscale-france-join-forces-to-build-deorbiting-capability-for-leo/" >🔗</a> **[SpaceNews]** Exotrail and Astroscale France join forces to build deorbiting capability for LEO
+- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Watch_live_Crew-12_news_conference" >🔗</a> **[ESA]** Watch live: Crew-12 news conference
 - <a href="https://spacenews.com/noaa-solar-observatory-reaches-lagrange-point-1/" >🔗</a> **[SpaceNews]** NOAA solar observatory reaches Lagrange point 1
 - <a href="https://science.nasa.gov/earth/earth-observatory/snow-buries-the-u-s-interior-and-east/" >🔗</a> **[NASA]** Snow Buries the U.S. Interior and East
 - <a href="https://spacenews.com/budget-remains-tight-for-scaled-back-geoxo-program/" >🔗</a> **[SpaceNews]** Budget remains tight for scaled-back GeoXO program
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/universe/exoplanets/discovery-alert-an-ice-cold-earth/" >🔗</a> **[NASA]** Discovery Alert: An Ice-Cold Earth?
 - <a href="https://www.nasa.gov/missions/airborne-science/nasa-science-flights-venture-to-improve-severe-winter-weather-warnings/" >🔗</a> **[NASA]** NASA Science Flights Venture to Improve Severe Winter Weather Warnings
 - <a href="https://science.nasa.gov/photojournal/webb-data-reveals-dark-matter/" >🔗</a> **[NASA]** Webb Data Reveals Dark Matter
-- <a href="https://spacenews.com/second-edition-of-space-debris-2026-conference-kicks-off-with-participation-from-75-countries/" >🔗</a> **[SpaceNews]** Second Edition of Space Debris 2026 Conference Kicks Off with Participation from 75 Countries
-- <a href="https://arstechnica.com/space/2026/01/one-of-nasas-three-wb-57-aircraft-just-did-a-belly-landing-in-houston/" >🔗</a> **[Arstechnica]** One of NASA's three WB-57 aircraft just did a belly landing in Houston
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260128T070512">2026-01-28 07:05:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260128T073736">2026-01-28 07:37:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
