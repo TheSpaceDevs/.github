@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/u-s-space-command-to-bring-commercial-firms-into-classified-wargame-on-nuclear-threats-in-space/" >🔗</a> **[SpaceNews]** U.S. Space Command to bring commercial firms into classified wargame on nuclear threats in space
 - <a href="https://spacenews.com/space-commands-case-for-orbital-logistics-why-the-pentagon-is-being-urged-to-think-beyond-launch/" >🔗</a> **[SpaceNews]** Space Command’s case for orbital logistics: Why the Pentagon is being urged to think beyond launch
 - <a href="https://www.nasa.gov/missions/artemis/networks-keeping-nasas-artemis-ii-mission-connected/" >🔗</a> **[NASA]** Networks Keeping NASA’s Artemis II Mission Connected
 - <a href="https://www.nasa.gov/missions/chandra/nasa-telescopes-spot-surprisingly-mature-cluster-in-early-universe/" >🔗</a> **[NASA]** NASA Telescopes Spot Surprisingly Mature Cluster in Early Universe
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/oq-technology-plots-smartphone-test-amid-spacexs-c-band-d2d-push/" >🔗</a> **[SpaceNews]** OQ Technology plots smartphone test amid SpaceX’s C-band D2D push
 - <a href="https://science.nasa.gov/missions/webb/nasa-webb-pushes-boundaries-of-observable-universe-closer-to-big-bang/" >🔗</a> **[NASA]** NASA Webb Pushes Boundaries of Observable Universe Closer to Big Bang
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_gazes_further_back_in_time" >🔗</a> **[ESA]** Webb gazes further back in time
-- <a href="https://spacenews.com/china-set-for-crewed-lunar-tests-record-launches-moon-mission-and-reusable-rockets-in-2026/" >🔗</a> **[SpaceNews]** China set for crewed lunar tests, record launches, moon mission and reusable rockets in 2026
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260128T200239">2026-01-28 20:02:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260128T204139">2026-01-28 20:41:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
