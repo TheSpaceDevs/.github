@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-focused-spac-goes-public-after-pricing-200-million-ipo/" >🔗</a> **[SpaceNews]** Space-focused SPAC goes public after pricing $200 million IPO
 - <a href="https://spacenews.com/u-s-space-command-to-bring-commercial-firms-into-classified-wargame-on-nuclear-threats-in-space/" >🔗</a> **[SpaceNews]** U.S. Space Command to bring commercial firms into classified wargame on nuclear threats in space
 - <a href="https://spacenews.com/space-commands-case-for-orbital-logistics-why-the-pentagon-is-being-urged-to-think-beyond-launch/" >🔗</a> **[SpaceNews]** Space Command’s case for orbital logistics: Why the Pentagon is being urged to think beyond launch
 - <a href="https://www.nasa.gov/missions/artemis/networks-keeping-nasas-artemis-ii-mission-connected/" >🔗</a> **[NASA]** Networks Keeping NASA’s Artemis II Mission Connected
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/space-futures-centre-world-economic-forum-launch-space-debris-insights-report/" >🔗</a> **[SpaceNews]** Space Futures Centre, World Economic Forum Launch Space Debris Insights Report
 - <a href="https://spacenews.com/oq-technology-plots-smartphone-test-amid-spacexs-c-band-d2d-push/" >🔗</a> **[SpaceNews]** OQ Technology plots smartphone test amid SpaceX’s C-band D2D push
 - <a href="https://science.nasa.gov/missions/webb/nasa-webb-pushes-boundaries-of-observable-universe-closer-to-big-bang/" >🔗</a> **[NASA]** NASA Webb Pushes Boundaries of Observable Universe Closer to Big Bang
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_gazes_further_back_in_time" >🔗</a> **[ESA]** Webb gazes further back in time
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260128T210453">2026-01-28 21:04:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260128T213943">2026-01-28 21:39:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
