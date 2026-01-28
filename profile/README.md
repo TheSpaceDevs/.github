@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-set-for-crewed-lunar-tests-record-launches-moon-mission-and-reusable-rockets-in-2026/" >🔗</a> **[SpaceNews]** China set for crewed lunar tests, record launches, moon mission and reusable rockets in 2026
 - <a href="https://spacenews.com/earth-observations-adoption-gap-is-a-supply-design-problem/" >🔗</a> **[SpaceNews]** Earth observation’s adoption gap is a supply design problem
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/01/European_Space_Conference_in_Bruxelles_ESA_DG_keynote_address_on_the_second_day" >🔗</a> **[ESA]** European Space Conference in Bruxelles: ESA DG keynote address on the second day
 - <a href="https://spacenews.com/faa-projects-continuing-growth-in-commercial-space-transportation/" >🔗</a> **[SpaceNews]** FAA projects continuing growth in commercial space transportation
 - <a href="https://www.spacedaily.com/reports/Webb_sharpens_view_of_dark_matter_shaping_the_cosmos_999.html" >🔗</a> **[SpaceDaily]** Webb sharpens view of dark matter shaping the cosmos
-- <a href="https://www.spacedaily.com/reports/NASA_and_GE_run_hybrid_jet_engine_test_toward_commercial_flight_999.html" >🔗</a> **[SpaceDaily]** NASA and GE run hybrid jet engine test toward commercial flight
 - <a href="https://www.spacedaily.com/reports/NASA_Testing_Advances_Space_Nuclear_Propulsion_Capabilities_999.html" >🔗</a> **[SpaceDaily]** NASA Testing Advances Space Nuclear Propulsion Capabilities
+- <a href="https://www.spacedaily.com/reports/NASA_and_GE_run_hybrid_jet_engine_test_toward_commercial_flight_999.html" >🔗</a> **[SpaceDaily]** NASA and GE run hybrid jet engine test toward commercial flight
 - <a href="https://www.spacedaily.com/reports/New_European_Infrared_Sounder_Maps_Atmosphere_In_Three_Dimensions_999.html" >🔗</a> **[SpaceDaily]** New European Infrared Sounder Maps Atmosphere In Three Dimensions
 - <a href="https://spacenews.com/terran-orbital-to-deliver-nebula-bus-for-mitsubishi-electric-leo-demo-mission/" >🔗</a> **[SpaceNews]** Terran Orbital to Deliver Nebula Bus for Mitsubishi Electric LEO Demo Mission
 - <a href="https://spacenews.com/what-commercial-space-really-means-depends-on-whos-buying-and-why/" >🔗</a> **[SpaceNews]** What ‘commercial space’ really means depends on who’s buying — and why
-- <a href="https://europeanspaceflight.com/polaris-spaceplanes-wins-contract-for-reusable-hypersonic-vehicle/" >🔗</a> **[European Spaceflight]** POLARIS Spaceplanes Wins Contract for Reusable Hypersonic Vehicle
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260128T140705">2026-01-28 14:07:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260128T144115">2026-01-28 14:41:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
