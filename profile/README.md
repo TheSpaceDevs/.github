@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/chandra/nasa-telescopes-spot-surprisingly-mature-cluster-in-early-universe/" >🔗</a> **[NASA]** NASA Telescopes Spot Surprisingly Mature Cluster in Early Universe
+- <a href="https://www.nasa.gov/image-article/chandra-webb-catch-twinkling-lights/" >🔗</a> **[NASA]** Chandra, Webb Catch Twinkling Lights
+- <a href="https://spacenews.com/space-futures-centre-world-economic-forum-launch-space-debris-insights-report/" >🔗</a> **[SpaceNews]** Space Futures Centre, World Economic Forum Launch Space Debris Insights Report
 - <a href="https://spacenews.com/oq-technology-plots-smartphone-test-amid-spacexs-c-band-d2d-push/" >🔗</a> **[SpaceNews]** OQ Technology plots smartphone test amid SpaceX’s C-band D2D push
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_gazes_further_back_in_time" >🔗</a> **[ESA]** Webb gazes further back in time
 - <a href="https://science.nasa.gov/missions/webb/nasa-webb-pushes-boundaries-of-observable-universe-closer-to-big-bang/" >🔗</a> **[NASA]** NASA Webb Pushes Boundaries of Observable Universe Closer to Big Bang
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/earth-observations-adoption-gap-is-a-supply-design-problem/" >🔗</a> **[SpaceNews]** Earth observation’s adoption gap is a supply design problem
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/01/European_Space_Conference_in_Bruxelles_ESA_DG_keynote_address_on_the_second_day" >🔗</a> **[ESA]** European Space Conference in Bruxelles: ESA DG keynote address on the second day
 - <a href="https://spacenews.com/faa-projects-continuing-growth-in-commercial-space-transportation/" >🔗</a> **[SpaceNews]** FAA projects continuing growth in commercial space transportation
-- <a href="https://www.spacedaily.com/reports/NASA_Testing_Advances_Space_Nuclear_Propulsion_Capabilities_999.html" >🔗</a> **[SpaceDaily]** NASA Testing Advances Space Nuclear Propulsion Capabilities
-- <a href="https://www.spacedaily.com/reports/Webb_sharpens_view_of_dark_matter_shaping_the_cosmos_999.html" >🔗</a> **[SpaceDaily]** Webb sharpens view of dark matter shaping the cosmos
-- <a href="https://www.spacedaily.com/reports/New_European_Infrared_Sounder_Maps_Atmosphere_In_Three_Dimensions_999.html" >🔗</a> **[SpaceDaily]** New European Infrared Sounder Maps Atmosphere In Three Dimensions
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260128T160529">2026-01-28 16:05:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260128T164307">2026-01-28 16:43:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
