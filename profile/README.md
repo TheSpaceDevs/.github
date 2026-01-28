@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/what-commercial-space-really-means-depends-on-whos-buying-and-why/" >🔗</a> **[SpaceNews]** What ‘commercial space’ really means depends on who’s buying — and why
+- <a href="https://europeanspaceflight.com/polaris-spaceplanes-wins-contract-for-reusable-hypersonic-vehicle/" >🔗</a> **[European Spaceflight]** POLARIS Spaceplanes Wins Contract for Reusable Hypersonic Vehicle
+- <a href="https://spacenews.com/spacex-launches-gps-satellite-for-u-s-space-force/" >🔗</a> **[SpaceNews]** SpaceX launches GPS satellite for U.S. Space Force
 - <a href="https://spacenews.com/exotrail-and-astroscale-france-join-forces-to-build-deorbiting-capability-for-leo/" >🔗</a> **[SpaceNews]** Exotrail and Astroscale France join forces to build deorbiting capability for LEO
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Watch_live_Crew-12_news_conference" >🔗</a> **[ESA]** Watch live: Crew-12 news conference
 - <a href="https://spacenews.com/noaa-solar-observatory-reaches-lagrange-point-1/" >🔗</a> **[SpaceNews]** NOAA solar observatory reaches Lagrange point 1
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/budget-remains-tight-for-scaled-back-geoxo-program/" >🔗</a> **[SpaceNews]** Budget remains tight for scaled-back GeoXO program
 - <a href="https://spacenews.com/eu-launches-government-satcom-program-in-sovereignty-push/" >🔗</a> **[SpaceNews]** EU launches government satcom program in sovereignty push
 - <a href="https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/space-nuclear-propulsion-snp/nasa-testing-advances-space-nuclear-propulsion-capabilities/" >🔗</a> **[NASA]** NASA Testing Advances Space Nuclear Propulsion Capabilities
-- <a href="https://science.nasa.gov/universe/exoplanets/discovery-alert-an-ice-cold-earth/" >🔗</a> **[NASA]** Discovery Alert: An Ice-Cold Earth?
-- <a href="https://www.nasa.gov/missions/airborne-science/nasa-science-flights-venture-to-improve-severe-winter-weather-warnings/" >🔗</a> **[NASA]** NASA Science Flights Venture to Improve Severe Winter Weather Warnings
-- <a href="https://science.nasa.gov/photojournal/webb-data-reveals-dark-matter/" >🔗</a> **[NASA]** Webb Data Reveals Dark Matter
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260128T090626">2026-01-28 09:06:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260128T094212">2026-01-28 09:42:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
