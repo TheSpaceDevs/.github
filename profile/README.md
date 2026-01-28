@@ -45,7 +45,6 @@ into *a Medium Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260128T043800">2026-01-28 04:38:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | GPS III SV09&location=Cape Canaveral SFS, FL, USA&dates=20260128T043800Z%2F20260128T045300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | GPS III SV09** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260129T151700">2026-01-29 15:17:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-19&location=Vandenberg SFB, CA, USA&dates=20260129T151700Z%2F20260129T191700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-19** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260129T224500">2026-01-29 22:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Bridging The Swarm (NeonSat-1A)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20260129T224500Z%2F20260130T020000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Bridging The Swarm (NeonSat-1A)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260130T040000">2026-01-30 04:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-101&location=Cape Canaveral SFS, FL, USA&dates=20260130T040000Z%2F20260130T080000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-101** from Cape Canaveral SFS, FL, USA.
@@ -90,6 +89,7 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/budget-remains-tight-for-scaled-back-geoxo-program/" >🔗</a> **[SpaceNews]** Budget remains tight for scaled-back GeoXO program
 - <a href="https://spacenews.com/eu-launches-government-satcom-program-in-sovereignty-push/" >🔗</a> **[SpaceNews]** EU launches government satcom program in sovereignty push
 - <a href="https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/space-nuclear-propulsion-snp/nasa-testing-advances-space-nuclear-propulsion-capabilities/" >🔗</a> **[NASA]** NASA Testing Advances Space Nuclear Propulsion Capabilities
 - <a href="https://science.nasa.gov/universe/exoplanets/discovery-alert-an-ice-cold-earth/" >🔗</a> **[NASA]** Discovery Alert: An Ice-Cold Earth?
@@ -99,7 +99,6 @@ into *a Medium Earth Orbit
 - <a href="https://arstechnica.com/space/2026/01/one-of-nasas-three-wb-57-aircraft-just-did-a-belly-landing-in-houston/" >🔗</a> **[Arstechnica]** One of NASA's three WB-57 aircraft just did a belly landing in Houston
 - <a href="https://spacenews.com/ebad-prm-payload-release-module-family-demonstrates-scalable-low-shock-separation-capability-on-falcon-9-twilight-rideshare-mission/" >🔗</a> **[SpaceNews]** EBAD PRM Payload Release Module Family Demonstrates Scalable, Low-Shock Separation Capability on Falcon 9 Twilight Rideshare Mission
 - <a href="https://www.nasa.gov/missions/juno/nasas-juno-measures-thickness-of-europas-ice-shell/" >🔗</a> **[NASA]** NASA’s Juno Measures Thickness of Europa’s Ice Shell
-- <a href="https://www.nasa.gov/technology/computing/nasa-launches-its-most-powerful-efficient-supercomputer/" >🔗</a> **[NASA]** NASA Launches Its Most Powerful, Efficient Supercomputer
 
 
 ### Launch-related News 🚀
@@ -113,7 +112,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260128T042044">2026-01-28 04:20:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260128T044344">2026-01-28 04:43:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
