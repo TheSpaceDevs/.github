@@ -19,27 +19,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | GPS III SV09**. It is scheduled to be launched by *SpaceX*
+**Falcon 9 Block 5 | Starlink Group 17-19**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral SFS, FL, USA*
+from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260128T043800">2026-01-28 04:38:00 UTC</a>.  Until
-then, this pad will have been used for 359
-out of 1081 launches from this location. The launch status is currently
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260129T151700">2026-01-29 15:17:00 UTC</a>.  Until
+then, this pad will have been used for 243
+out of 857 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Navigation* and the payload will be injected
-into *a Medium Earth Orbit
-(MEO)*.
+*Communications* and the payload will be injected
+into *a Low Earth Orbit
+(LEO)*.
 <br>
 <blockquote>
-  Ninth of ten GPS III missions.
+  A batch of 25 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
   <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
+  <a href="https://www.google.com/maps?q=34.632,-120.611" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -54,6 +54,7 @@ into *a Medium Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260202T151700">2026-02-02 15:17:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-32&location=Vandenberg SFB, CA, USA&dates=20260202T151700Z%2F20260202T191700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-32** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260204T084500">2026-02-04 08:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-104&location=Cape Canaveral SFS, FL, USA&dates=20260204T084500Z%2F20260204T124500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-104** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260206T170500">2026-02-06 17:05:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-33&location=Vandenberg SFB, CA, USA&dates=20260206T170500Z%2F20260206T210500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-33** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260207T024100">2026-02-07 02:41:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=SLS Block 1 | Artemis II&location=Kennedy Space Center, FL, USA&dates=20260207T024100Z%2F20260207T044100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **SLS Block 1 | Artemis II** from Kennedy Space Center, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -89,6 +90,8 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/noaa-solar-observatory-reaches-lagrange-point-1/" >🔗</a> **[SpaceNews]** NOAA solar observatory reaches Lagrange point 1
+- <a href="https://science.nasa.gov/earth/earth-observatory/snow-buries-the-u-s-interior-and-east/" >🔗</a> **[NASA]** Snow Buries the U.S. Interior and East
 - <a href="https://spacenews.com/budget-remains-tight-for-scaled-back-geoxo-program/" >🔗</a> **[SpaceNews]** Budget remains tight for scaled-back GeoXO program
 - <a href="https://spacenews.com/eu-launches-government-satcom-program-in-sovereignty-push/" >🔗</a> **[SpaceNews]** EU launches government satcom program in sovereignty push
 - <a href="https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/space-nuclear-propulsion-snp/nasa-testing-advances-space-nuclear-propulsion-capabilities/" >🔗</a> **[NASA]** NASA Testing Advances Space Nuclear Propulsion Capabilities
@@ -97,22 +100,16 @@ into *a Medium Earth Orbit
 - <a href="https://science.nasa.gov/photojournal/webb-data-reveals-dark-matter/" >🔗</a> **[NASA]** Webb Data Reveals Dark Matter
 - <a href="https://spacenews.com/second-edition-of-space-debris-2026-conference-kicks-off-with-participation-from-75-countries/" >🔗</a> **[SpaceNews]** Second Edition of Space Debris 2026 Conference Kicks Off with Participation from 75 Countries
 - <a href="https://arstechnica.com/space/2026/01/one-of-nasas-three-wb-57-aircraft-just-did-a-belly-landing-in-houston/" >🔗</a> **[Arstechnica]** One of NASA's three WB-57 aircraft just did a belly landing in Houston
-- <a href="https://spacenews.com/ebad-prm-payload-release-module-family-demonstrates-scalable-low-shock-separation-capability-on-falcon-9-twilight-rideshare-mission/" >🔗</a> **[SpaceNews]** EBAD PRM Payload Release Module Family Demonstrates Scalable, Low-Shock Separation Capability on Falcon 9 Twilight Rideshare Mission
-- <a href="https://www.nasa.gov/missions/juno/nasas-juno-measures-thickness-of-europas-ice-shell/" >🔗</a> **[NASA]** NASA’s Juno Measures Thickness of Europa’s Ice Shell
 
 
 ### Launch-related News 🚀
 
 - <a href="https://www.nasaspaceflight.com/2026/01/launch-roundup-012626/" >🔗</a> **[NASASpaceflight]** Launch Roundup: GPS, Starlink, Electron launches scheduled for last week of January
-- <a href="https://spaceflightnow.com/2026/01/26/live-coverage-spacex-to-launch-gps-3-satellite-following-switch-from-ula-vulcan-rocket/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch GPS 3 satellite following switch from ULA Vulcan rocket
-- <a href="https://arstechnica.com/space/2026/01/rocket-report-ariane-64-to-debut-soon-india-has-a-falcon-9-clone-too/" >🔗</a> **[Arstechnica]** Rocket Report: Ariane 64 to debut soon; India has a Falcon 9 clone too?
-- <a href="https://spaceflightnow.com/2026/01/13/u-s-space-force-switches-rockets-for-upcoming-gps-satellite-launch/" >🔗</a> **[Spaceflight Now]** U.S. Space Force switches rockets for upcoming GPS satellite launch
-- <a href="https://spacenews.com/space-force-assigns-12-national-security-missions-to-spacex-and-ula/" >🔗</a> **[SpaceNews]** Space Force assigns 12 national security missions to SpaceX and ULA
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260128T050608">2026-01-28 05:06:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260128T053954">2026-01-28 05:39:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
