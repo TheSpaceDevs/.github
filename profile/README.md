@@ -90,6 +90,7 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/eu-launches-government-satcom-program-in-sovereignty-push/" >🔗</a> **[SpaceNews]** EU launches government satcom program in sovereignty push
 - <a href="https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/space-nuclear-propulsion-snp/nasa-testing-advances-space-nuclear-propulsion-capabilities/" >🔗</a> **[NASA]** NASA Testing Advances Space Nuclear Propulsion Capabilities
 - <a href="https://science.nasa.gov/universe/exoplanets/discovery-alert-an-ice-cold-earth/" >🔗</a> **[NASA]** Discovery Alert: An Ice-Cold Earth?
 - <a href="https://www.nasa.gov/missions/airborne-science/nasa-science-flights-venture-to-improve-severe-winter-weather-warnings/" >🔗</a> **[NASA]** NASA Science Flights Venture to Improve Severe Winter Weather Warnings
@@ -99,7 +100,6 @@ into *a Medium Earth Orbit
 - <a href="https://spacenews.com/ebad-prm-payload-release-module-family-demonstrates-scalable-low-shock-separation-capability-on-falcon-9-twilight-rideshare-mission/" >🔗</a> **[SpaceNews]** EBAD PRM Payload Release Module Family Demonstrates Scalable, Low-Shock Separation Capability on Falcon 9 Twilight Rideshare Mission
 - <a href="https://www.nasa.gov/missions/juno/nasas-juno-measures-thickness-of-europas-ice-shell/" >🔗</a> **[NASA]** NASA’s Juno Measures Thickness of Europa’s Ice Shell
 - <a href="https://www.nasa.gov/technology/computing/nasa-launches-its-most-powerful-efficient-supercomputer/" >🔗</a> **[NASA]** NASA Launches Its Most Powerful, Efficient Supercomputer
-- <a href="https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-finds-crystal-spewing-protostar/" >🔗</a> **[NASA]** NASA’s James Webb Space Telescope Finds Crystal-Spewing Protostar
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260128T012939">2026-01-28 01:29:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260128T021912">2026-01-28 02:19:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
