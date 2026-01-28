@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/01/artemis-ii-science-overview/" >🔗</a> **[NASASpaceflight]** NASA readies unique science experiments and tech demonstrations for Artemis II crew
+- <a href="https://spacenews.com/gao-flags-risks-in-space-development-agencys-missile-tracking-satellite-program/" >🔗</a> **[SpaceNews]** GAO flags risks in Space Development Agency’s missile-tracking satellite program
+- <a href="https://spacenews.com/heo-acquires-in-orbit-satellite-from-satellogic/" >🔗</a> **[SpaceNews]** HEO acquires in-orbit satellite from Satellogic
 - <a href="https://spacenews.com/space-focused-spac-goes-public-after-pricing-200-million-ipo/" >🔗</a> **[SpaceNews]** Space-focused SPAC goes public after pricing $200 million IPO
 - <a href="https://spacenews.com/u-s-space-command-to-bring-commercial-firms-into-classified-wargame-on-nuclear-threats-in-space/" >🔗</a> **[SpaceNews]** U.S. Space Command to bring commercial firms into classified wargame on nuclear threats in space
 - <a href="https://spacenews.com/space-commands-case-for-orbital-logistics-why-the-pentagon-is-being-urged-to-think-beyond-launch/" >🔗</a> **[SpaceNews]** Space Command’s case for orbital logistics: Why the Pentagon is being urged to think beyond launch
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/missions/chandra/nasa-telescopes-spot-surprisingly-mature-cluster-in-early-universe/" >🔗</a> **[NASA]** NASA Telescopes Spot Surprisingly Mature Cluster in Early Universe
 - <a href="https://www.nasa.gov/image-article/chandra-webb-catch-twinkling-lights/" >🔗</a> **[NASA]** Chandra, Webb Catch Twinkling Lights
 - <a href="https://www.esa.int/About_Us/Corporate_news/ESA_at_the_European_Space_Conference_-_Day_2" >🔗</a> **[ESA]** ESA at the European Space Conference - Day 2
-- <a href="https://spacenews.com/space-futures-centre-world-economic-forum-launch-space-debris-insights-report/" >🔗</a> **[SpaceNews]** Space Futures Centre, World Economic Forum Launch Space Debris Insights Report
-- <a href="https://spacenews.com/oq-technology-plots-smartphone-test-amid-spacexs-c-band-d2d-push/" >🔗</a> **[SpaceNews]** OQ Technology plots smartphone test amid SpaceX’s C-band D2D push
-- <a href="https://science.nasa.gov/missions/webb/nasa-webb-pushes-boundaries-of-observable-universe-closer-to-big-bang/" >🔗</a> **[NASA]** NASA Webb Pushes Boundaries of Observable Universe Closer to Big Bang
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260128T220322">2026-01-28 22:03:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260128T224002">2026-01-28 22:40:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
