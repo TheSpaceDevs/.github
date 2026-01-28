@@ -94,12 +94,12 @@ into *a Low Earth Orbit
 - <a href="https://www.spacedaily.com/reports/New_European_Infrared_Sounder_Maps_Atmosphere_In_Three_Dimensions_999.html" >🔗</a> **[SpaceDaily]** New European Infrared Sounder Maps Atmosphere In Three Dimensions
 - <a href="https://www.spacedaily.com/reports/NASA_Testing_Advances_Space_Nuclear_Propulsion_Capabilities_999.html" >🔗</a> **[SpaceDaily]** NASA Testing Advances Space Nuclear Propulsion Capabilities
 - <a href="https://www.spacedaily.com/reports/NASA_and_GE_run_hybrid_jet_engine_test_toward_commercial_flight_999.html" >🔗</a> **[SpaceDaily]** NASA and GE run hybrid jet engine test toward commercial flight
+- <a href="https://spacenews.com/terran-orbital-to-deliver-nebula-bus-for-mitsubishi-electric-leo-demo-mission/" >🔗</a> **[SpaceNews]** Terran Orbital to Deliver Nebula Bus for Mitsubishi Electric LEO Demo Mission
 - <a href="https://spacenews.com/what-commercial-space-really-means-depends-on-whos-buying-and-why/" >🔗</a> **[SpaceNews]** What ‘commercial space’ really means depends on who’s buying — and why
 - <a href="https://europeanspaceflight.com/polaris-spaceplanes-wins-contract-for-reusable-hypersonic-vehicle/" >🔗</a> **[European Spaceflight]** POLARIS Spaceplanes Wins Contract for Reusable Hypersonic Vehicle
 - <a href="https://spacenews.com/spacex-launches-gps-satellite-for-u-s-space-force/" >🔗</a> **[SpaceNews]** SpaceX launches GPS satellite for U.S. Space Force
 - <a href="https://spacenews.com/exotrail-and-astroscale-france-join-forces-to-build-deorbiting-capability-for-leo/" >🔗</a> **[SpaceNews]** Exotrail and Astroscale France join forces to build deorbiting capability for LEO
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Watch_live_Crew-12_news_conference" >🔗</a> **[ESA]** Watch live: Crew-12 news conference
-- <a href="https://spacenews.com/noaa-solar-observatory-reaches-lagrange-point-1/" >🔗</a> **[SpaceNews]** NOAA solar observatory reaches Lagrange point 1
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260128T110332">2026-01-28 11:03:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260128T113532">2026-01-28 11:35:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
