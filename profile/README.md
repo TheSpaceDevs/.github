@@ -94,6 +94,8 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-doug-parkinson/" >🔗</a> **[NASA]** I Am Artemis: Doug Parkinson
+- <a href="https://spacenews.com/eutelsats-ground-infrastructure-sale-falls-through/" >🔗</a> **[SpaceNews]** Eutelsat’s ground infrastructure sale falls through
 - <a href="https://science.nasa.gov/solar-system/moon/march-2026-total-lunar-eclipse-your-questions-answered/" >🔗</a> **[NASA]** March 2026 Total Lunar Eclipse: Your Questions Answered
 - <a href="https://www.spacescout.info/2026/01/falcon-goes-3-for-3-with-rapid-response-gps-iii-9-launch/" >🔗</a> **[Space Scout]** Falcon Goes 3 for 3 with Rapid Response GPS III-9 Launch
 - <a href="https://www.nasa.gov/earth/nasa-analysis-shows-la-nina-limited-sea-level-rise-in-2025/" >🔗</a> **[NASA]** NASA Analysis Shows La Niña Limited Sea Level Rise in 2025
@@ -102,8 +104,6 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 - <a href="https://www.nasa.gov/image-article/webb-zooms-into-helix-nebula/" >🔗</a> **[NASA]** Webb Zooms into Helix Nebula
 - <a href="https://science.nasa.gov/missions/roman-space-telescope/building-roman/" >🔗</a> **[NASA]** Building Roman
 - <a href="https://arstechnica.com/space/2026/01/do-you-have-ideas-about-how-to-improve-americas-space-program/" >🔗</a> **[Arstechnica]** Do you have ideas about how to improve America's space program?
-- <a href="https://spacenews.com/china-eyes-space-resources-space-tourism-and-on-orbit-digital-infrastructure/" >🔗</a> **[SpaceNews]** China eyes space resources, space tourism and on-orbit digital infrastructure
-- <a href="https://spacenews.com/what-would-artemis-participation-mean-for-turkiyes-space-industry-and-space-diplomacy/" >🔗</a> **[SpaceNews]** What would Artemis participation mean for Türkiye’s space industry and space diplomacy?
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260129T191113">2026-01-29 19:11:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260129T193905">2026-01-29 19:39:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
