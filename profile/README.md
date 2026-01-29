@@ -94,6 +94,8 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-awards-help-inspire-future-innovators-through-stem-engagement/" >🔗</a> **[NASA]** NASA Awards Help Inspire Future Innovators Through STEM Engagement
+- <a href="https://www.nasa.gov/missions/nisar/nasa-isro-radar-mission-peers-through-clouds-to-see-mississippi-river-delta/" >🔗</a> **[NASA]** NASA-ISRO Radar Mission Peers Through Clouds to See Mississippi River Delta
 - <a href="https://spacenews.com/global-space-economy-reaches-626-billion-marking-a-new-phase-of-growth/" >🔗</a> **[SpaceNews]** Global Space Economy Reaches $626 Billion, Marking a New Phase of Growth
 - <a href="https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-doug-parkinson/" >🔗</a> **[NASA]** I Am Artemis: Doug Parkinson
 - <a href="https://spacenews.com/eutelsats-ground-infrastructure-sale-falls-through/" >🔗</a> **[SpaceNews]** Eutelsat’s ground infrastructure sale falls through
@@ -102,8 +104,6 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 - <a href="https://www.nasa.gov/earth/nasa-analysis-shows-la-nina-limited-sea-level-rise-in-2025/" >🔗</a> **[NASA]** NASA Analysis Shows La Niña Limited Sea Level Rise in 2025
 - <a href="https://spacenews.com/oxford-space-systems-wrapped-rib-antenna-successfully-deployed-in-orbit-on-carbsar-mission/" >🔗</a> **[SpaceNews]** Oxford Space Systems Wrapped Rib Antenna Successfully Deployed In-Orbit on CarbSAR Mission
 - <a href="https://science.nasa.gov/science-research/nasa-researchers-probe-tangled-magnetospheres-of-merging-neutron-stars/" >🔗</a> **[NASA]** NASA Researchers Probe Tangled Magnetospheres of Merging Neutron Stars
-- <a href="https://www.nasa.gov/image-article/webb-zooms-into-helix-nebula/" >🔗</a> **[NASA]** Webb Zooms into Helix Nebula
-- <a href="https://science.nasa.gov/missions/roman-space-telescope/building-roman/" >🔗</a> **[NASA]** Building Roman
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260129T210240">2026-01-29 21:02:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260129T213905">2026-01-29 21:39:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
