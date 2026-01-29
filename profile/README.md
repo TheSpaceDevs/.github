@@ -93,6 +93,9 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/01/pld-accelerates-miura-5-2026-milestones/" >🔗</a> **[NASASpaceflight]** PLD Space accelerates Miura 5 toward 2026 debut with milestones update
+- <a href="https://spacenews.com/alabama-national-guard-general-to-manage-space-command-headquarters-transition/" >🔗</a> **[SpaceNews]** Alabama National Guard general to manage Space Command headquarters transition
+- <a href="https://science.nasa.gov/photojournal/ammonia-bearing-compounds-discovered-at-surface-of-jupiters-moon-europa/" >🔗</a> **[NASA]** Ammonia-Bearing Compounds Discovered at Surface of Jupiter’s Moon Europa
 - <a href="https://spacenews.com/nasa-considering-alternatives-for-gateway-logistics/" >🔗</a> **[SpaceNews]** NASA considering alternatives for Gateway logistics
 - <a href="https://science.nasa.gov/photojournal/nasa-analysis-shows-la-nina-limited-sea-level-rise-in-2025/" >🔗</a> **[NASA]** NASA Analysis Shows La Niña Limited Sea Level Rise in 2025
 - <a href="https://spacenews.com/york-space-goes-public-riding-pentagon-demand/" >🔗</a> **[SpaceNews]** York Space goes public, riding Pentagon demand
@@ -100,9 +103,6 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 - <a href="https://science.nasa.gov/photojournal/europas-ice-shell-artists-concept/" >🔗</a> **[NASA]** Europa’s Ice Shell (Artist’s Concept)
 - <a href="https://www.nasa.gov/news-release/nasa-awards-help-inspire-future-innovators-through-stem-engagement/" >🔗</a> **[NASA]** NASA Awards Help Inspire Future Innovators Through STEM Engagement
 - <a href="https://www.nasa.gov/missions/nisar/nasa-isro-radar-mission-peers-through-clouds-to-see-mississippi-river-delta/" >🔗</a> **[NASA]** NASA-ISRO Radar Mission Peers Through Clouds to See Mississippi River Delta
-- <a href="https://spacenews.com/global-space-economy-reaches-626-billion-marking-a-new-phase-of-growth/" >🔗</a> **[SpaceNews]** Global Space Economy Reaches $626 Billion, Marking a New Phase of Growth
-- <a href="https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-doug-parkinson/" >🔗</a> **[NASA]** I Am Artemis: Doug Parkinson
-- <a href="https://spacenews.com/eutelsats-ground-infrastructure-sale-falls-through/" >🔗</a> **[SpaceNews]** Eutelsat’s ground infrastructure sale falls through
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260129T230359">2026-01-29 23:03:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260129T233823">2026-01-29 23:38:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
