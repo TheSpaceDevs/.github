@@ -91,15 +91,15 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://science.nasa.gov/earth/earth-observatory/the-west-faces-snow-drought/" >🔗</a> **[NASA]** The West Faces Snow Drought
-- <a href="https://www.moondaily.com/reports/Northrop_Grumman_Boosters_Set_For_First_Crewed_Lunar_Voyage_Of_Artemis_Era_999.html" >🔗</a> **[SpaceDaily]** Northrop Grumman Boosters Set For First Crewed Lunar Voyage Of Artemis Era
-- <a href="https://www.spacedaily.com/reports/Autophage_rocket_concept_wins_EU_prize_for_debris_free_launch_technology_999.html" >🔗</a> **[SpaceDaily]** Autophage rocket concept wins EU prize for debris free launch technology
+- <a href="https://www.spacedaily.com/reports/Sidus_Space_advances_LizzieSat_4_payload_integration_with_Maris_Tech_edge_computing_system_999.html" >🔗</a> **[SpaceDaily]** Sidus Space advances LizzieSat-4 payload integration with Maris-Tech edge computing system
 - <a href="https://www.spacedaily.com/reports/Bright_streaks_reveal_Mercury_still_geologically_active_999.html" >🔗</a> **[SpaceDaily]** Bright streaks reveal Mercury still geologically active
+- <a href="https://www.spacedaily.com/reports/Autophage_rocket_concept_wins_EU_prize_for_debris_free_launch_technology_999.html" >🔗</a> **[SpaceDaily]** Autophage rocket concept wins EU prize for debris free launch technology
 - <a href="https://www.spacedaily.com/reports/ESA_member_states_back_SWISSto12_HummingSat_with_fresh_funding_round_999.html" >🔗</a> **[SpaceDaily]** ESA member states back SWISSto12 HummingSat with fresh funding round
-- <a href="https://www.spacedaily.com/reports/Runaway_massive_stars_mapped_across_the_Milky_Way_999.html" >🔗</a> **[SpaceDaily]** Runaway massive stars mapped across the Milky Way
 - <a href="https://www.spacedaily.com/reports/AI_tool_mines_Hubble_archive_for_hundreds_of_strange_cosmic_objects_999.html" >🔗</a> **[SpaceDaily]** AI tool mines Hubble archive for hundreds of strange cosmic objects
 - <a href="https://www.spacedaily.com/reports/New_analysis_sharpens_view_of_cosmic_birefringence_and_universe_symmetry_999.html" >🔗</a> **[SpaceDaily]** New analysis sharpens view of cosmic birefringence and universe symmetry
+- <a href="https://www.spacedaily.com/reports/Runaway_massive_stars_mapped_across_the_Milky_Way_999.html" >🔗</a> **[SpaceDaily]** Runaway massive stars mapped across the Milky Way
+- <a href="https://www.moondaily.com/reports/Northrop_Grumman_Boosters_Set_For_First_Crewed_Lunar_Voyage_Of_Artemis_Era_999.html" >🔗</a> **[SpaceDaily]** Northrop Grumman Boosters Set For First Crewed Lunar Voyage Of Artemis Era
 - <a href="https://www.spacedaily.com/reports/What_is_the_universe_made_of_SLAC_experts_weigh_in_on_the_mysterious_force_that_shapes_our_cosmic_history_999.html" >🔗</a> **[SpaceDaily]** What is the universe made of? SLAC experts weigh in on the mysterious force that shapes our cosmic history
-- <a href="https://www.spacedaily.com/reports/Sidus_Space_advances_LizzieSat_4_payload_integration_with_Maris_Tech_edge_computing_system_999.html" >🔗</a> **[SpaceDaily]** Sidus Space advances LizzieSat-4 payload integration with Maris-Tech edge computing system
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260129T074239">2026-01-29 07:42:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260129T080614">2026-01-29 08:06:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
