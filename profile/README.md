@@ -89,6 +89,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/webb-zooms-into-helix-nebula/" >🔗</a> **[NASA]** Webb Zooms into Helix Nebula
+- <a href="https://science.nasa.gov/missions/roman-space-telescope/building-roman/" >🔗</a> **[NASA]** Building Roman
 - <a href="https://arstechnica.com/space/2026/01/do-you-have-ideas-about-how-to-improve-americas-space-program/" >🔗</a> **[Arstechnica]** Do you have ideas about how to improve America's space program?
 - <a href="https://spacenews.com/china-eyes-space-resources-space-tourism-and-on-orbit-digital-infrastructure/" >🔗</a> **[SpaceNews]** China eyes space resources, space tourism and on-orbit digital infrastructure
 - <a href="https://spacenews.com/what-would-artemis-participation-mean-for-turkiyes-space-industry-and-space-diplomacy/" >🔗</a> **[SpaceNews]** What would Artemis participation mean for Türkiye’s space industry and space diplomacy?
@@ -97,8 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://www.spacedaily.com/reports/Earliest_launch_window_to_ISS_set_for_February_11_NASA_999.html" >🔗</a> **[SpaceDaily]** Earliest launch window to ISS set for February 11: NASA
 - <a href="https://spacenews.com/spacex-plans-next-starship-test-flight-in-march/" >🔗</a> **[SpaceNews]** SpaceX plans next Starship test flight in March
 - <a href="https://europeanspaceflight.com/eu-brings-govsatcom-secure-communications-service-online/" >🔗</a> **[European Spaceflight]** EU Brings GOVSATCOM Secure Communications Service Online
-- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Crew-12_scheduled_to_launch_on_Wednesday_11_February" >🔗</a> **[ESA]** Crew-12, scheduled to launch on Wednesday 11 February
-- <a href="https://science.nasa.gov/earth/earth-observatory/the-west-faces-snow-drought/" >🔗</a> **[NASA]** The West Faces Snow Drought
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260129T160728">2026-01-29 16:07:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260129T164345">2026-01-29 16:43:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
