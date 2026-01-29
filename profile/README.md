@@ -21,10 +21,10 @@ The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
 **Electron | Bridging The Swarm (NeonSat-1A)**. It is scheduled to be launched by *Rocket Lab*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="None">Unknown Pad</a>, Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand*
+from *<a href="https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1">Rocket Lab Launch Complex 1A</a>, Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" />
 at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260129T224500">2026-01-29 22:45:00 UTC</a>.  Until
-then, this pad will have been used for 0
+then, this pad will have been used for 36
 out of 70 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
 *Earth Science* and the payload will be injected
@@ -43,7 +43,7 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
   <a href="https://en.wikipedia.org/wiki/Rocket_Lab_Electron" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="None" >
+  <a href="https://www.google.com/maps?q=-39.262833,177.864469" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -94,16 +94,16 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-considering-alternatives-for-gateway-logistics/" >🔗</a> **[SpaceNews]** NASA considering alternatives for Gateway logistics
+- <a href="https://science.nasa.gov/photojournal/nasa-analysis-shows-la-nina-limited-sea-level-rise-in-2025/" >🔗</a> **[NASA]** NASA Analysis Shows La Niña Limited Sea Level Rise in 2025
+- <a href="https://spacenews.com/york-space-goes-public-riding-pentagon-demand/" >🔗</a> **[SpaceNews]** York Space goes public, riding Pentagon demand
+- <a href="https://www.nasa.gov/directorates/stmd/nasa-heat-shield-technology-enables-space-industry-growth/" >🔗</a> **[NASA]** NASA Heat Shield Technology Enables Space Industry Growth
+- <a href="https://science.nasa.gov/photojournal/europas-ice-shell-artists-concept/" >🔗</a> **[NASA]** Europa’s Ice Shell (Artist’s Concept)
 - <a href="https://www.nasa.gov/news-release/nasa-awards-help-inspire-future-innovators-through-stem-engagement/" >🔗</a> **[NASA]** NASA Awards Help Inspire Future Innovators Through STEM Engagement
 - <a href="https://www.nasa.gov/missions/nisar/nasa-isro-radar-mission-peers-through-clouds-to-see-mississippi-river-delta/" >🔗</a> **[NASA]** NASA-ISRO Radar Mission Peers Through Clouds to See Mississippi River Delta
 - <a href="https://spacenews.com/global-space-economy-reaches-626-billion-marking-a-new-phase-of-growth/" >🔗</a> **[SpaceNews]** Global Space Economy Reaches $626 Billion, Marking a New Phase of Growth
 - <a href="https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-doug-parkinson/" >🔗</a> **[NASA]** I Am Artemis: Doug Parkinson
 - <a href="https://spacenews.com/eutelsats-ground-infrastructure-sale-falls-through/" >🔗</a> **[SpaceNews]** Eutelsat’s ground infrastructure sale falls through
-- <a href="https://science.nasa.gov/solar-system/moon/march-2026-total-lunar-eclipse-your-questions-answered/" >🔗</a> **[NASA]** March 2026 Total Lunar Eclipse: Your Questions Answered
-- <a href="https://www.spacescout.info/2026/01/falcon-goes-3-for-3-with-rapid-response-gps-iii-9-launch/" >🔗</a> **[Space Scout]** Falcon Goes 3 for 3 with Rapid Response GPS III-9 Launch
-- <a href="https://www.nasa.gov/earth/nasa-analysis-shows-la-nina-limited-sea-level-rise-in-2025/" >🔗</a> **[NASA]** NASA Analysis Shows La Niña Limited Sea Level Rise in 2025
-- <a href="https://spacenews.com/oxford-space-systems-wrapped-rib-antenna-successfully-deployed-in-orbit-on-carbsar-mission/" >🔗</a> **[SpaceNews]** Oxford Space Systems Wrapped Rib Antenna Successfully Deployed In-Orbit on CarbSAR Mission
-- <a href="https://science.nasa.gov/science-research/nasa-researchers-probe-tangled-magnetospheres-of-merging-neutron-stars/" >🔗</a> **[NASA]** NASA Researchers Probe Tangled Magnetospheres of Merging Neutron Stars
 
 
 ### Launch-related News 🚀
@@ -114,7 +114,7 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260129T220236">2026-01-29 22:02:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260129T224026">2026-01-29 22:40:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
