@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spaceflightnow.com/2026/01/29/live-coverage-spacex-to-launch-11000th-starlink-satellite-to-date-on-thursday/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 11,000th Starlink satellite to date on Thursday
-- <a href="https://spacenews.com/noaa-seeks-more-money-and-flexibility-for-commercial-weather-data-program/" >🔗</a> **[SpaceNews]** NOAA seeks more money and flexibility for commercial weather data program
-- <a href="https://www.nasaspaceflight.com/2026/01/artemis-ii-science-overview/" >🔗</a> **[NASASpaceflight]** NASA readies unique science experiments and tech demonstrations for Artemis II crew
-- <a href="https://spacenews.com/gao-flags-risks-in-space-development-agencys-missile-tracking-satellite-program/" >🔗</a> **[SpaceNews]** GAO flags risks in Space Development Agency’s missile-tracking satellite program
-- <a href="https://spacenews.com/heo-acquires-in-orbit-satellite-from-satellogic/" >🔗</a> **[SpaceNews]** HEO acquires in-orbit satellite from Satellogic
-- <a href="https://spacenews.com/space-focused-spac-goes-public-after-pricing-200-million-ipo/" >🔗</a> **[SpaceNews]** Space-focused SPAC goes public after pricing $200 million IPO
-- <a href="https://spacenews.com/u-s-space-command-to-bring-commercial-firms-into-classified-wargame-on-nuclear-threats-in-space/" >🔗</a> **[SpaceNews]** U.S. Space Command to bring commercial firms into classified wargame on nuclear threats in space
-- <a href="https://spacenews.com/space-commands-case-for-orbital-logistics-why-the-pentagon-is-being-urged-to-think-beyond-launch/" >🔗</a> **[SpaceNews]** Space Command’s case for orbital logistics: Why the Pentagon is being urged to think beyond launch
-- <a href="https://www.nasa.gov/missions/artemis/networks-keeping-nasas-artemis-ii-mission-connected/" >🔗</a> **[NASA]** Networks Keeping NASA’s Artemis II Mission Connected
-- <a href="https://www.nasa.gov/missions/chandra/nasa-telescopes-spot-surprisingly-mature-cluster-in-early-universe/" >🔗</a> **[NASA]** NASA Telescopes Spot Surprisingly Mature Cluster in Early Universe
+- <a href="https://www.spacedaily.com/reports/Bright_streaks_reveal_Mercury_still_geologically_active_999.html" >🔗</a> **[SpaceDaily]** Bright streaks reveal Mercury still geologically active
+- <a href="https://www.spacedaily.com/reports/Sidus_Space_advances_LizzieSat_4_payload_integration_with_Maris_Tech_edge_computing_system_999.html" >🔗</a> **[SpaceDaily]** Sidus Space advances LizzieSat-4 payload integration with Maris-Tech edge computing system
+- <a href="https://www.spacedaily.com/reports/Autophage_rocket_concept_wins_EU_prize_for_debris_free_launch_technology_999.html" >🔗</a> **[SpaceDaily]** Autophage rocket concept wins EU prize for debris free launch technology
+- <a href="https://www.spacedaily.com/reports/What_is_the_universe_made_of_SLAC_experts_weigh_in_on_the_mysterious_force_that_shapes_our_cosmic_history_999.html" >🔗</a> **[SpaceDaily]** What is the universe made of? SLAC experts weigh in on the mysterious force that shapes our cosmic history
+- <a href="https://www.spacedaily.com/reports/ESA_member_states_back_SWISSto12_HummingSat_with_fresh_funding_round_999.html" >🔗</a> **[SpaceDaily]** ESA member states back SWISSto12 HummingSat with fresh funding round
+- <a href="https://www.moondaily.com/reports/Northrop_Grumman_Boosters_Set_For_First_Crewed_Lunar_Voyage_Of_Artemis_Era_999.html" >🔗</a> **[SpaceDaily]** Northrop Grumman Boosters Set For First Crewed Lunar Voyage Of Artemis Era
+- <a href="https://www.spacedaily.com/reports/AI_tool_mines_Hubble_archive_for_hundreds_of_strange_cosmic_objects_999.html" >🔗</a> **[SpaceDaily]** AI tool mines Hubble archive for hundreds of strange cosmic objects
+- <a href="https://www.spacedaily.com/reports/Runaway_massive_stars_mapped_across_the_Milky_Way_999.html" >🔗</a> **[SpaceDaily]** Runaway massive stars mapped across the Milky Way
+- <a href="https://www.spacedaily.com/reports/New_analysis_sharpens_view_of_cosmic_birefringence_and_universe_symmetry_999.html" >🔗</a> **[SpaceDaily]** New analysis sharpens view of cosmic birefringence and universe symmetry
+- <a href="https://www.spacedaily.com/reports/In_space_manufacturing_quantum_projects_part_of_all_Boilermaker_suborbital_spaceflight_999.html" >🔗</a> **[SpaceDaily]** In-space manufacturing, quantum projects part of all-Boilermaker suborbital spaceflight
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260129T025140">2026-01-29 02:51:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260129T034338">2026-01-29 03:43:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
