@@ -90,8 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.spacedaily.com/reports/Earliest_launch_window_to_ISS_set_for_February_11_NASA_999.html" >🔗</a> **[SpaceDaily]** Earliest launch window to ISS set for February 11: NASA
+- <a href="https://spacenews.com/space-grove-ventures-announces-public-launch-at-spacecom-space-congress-signaling-a-new-commercial-model-for-space-and-defense-ecosystem-development/" >🔗</a> **[SpaceNews]** Space Grove Ventures Announces Public Launch at SpaceCom | Space Congress, Signaling a New Commercial Model for Space and Defense Ecosystem Development
 - <a href="https://www.spacedaily.com/reports/SpaceX_eyes_IPO_timed_to_planet_alignment_and_Musk_birthday_report_999.html" >🔗</a> **[SpaceDaily]** SpaceX eyes IPO timed to planet alignment and Musk birthday: report
+- <a href="https://www.spacedaily.com/reports/Earliest_launch_window_to_ISS_set_for_February_11_NASA_999.html" >🔗</a> **[SpaceDaily]** Earliest launch window to ISS set for February 11: NASA
 - <a href="https://spacenews.com/spacex-plans-next-starship-test-flight-in-march/" >🔗</a> **[SpaceNews]** SpaceX plans next Starship test flight in March
 - <a href="https://europeanspaceflight.com/eu-brings-govsatcom-secure-communications-service-online/" >🔗</a> **[European Spaceflight]** EU Brings GOVSATCOM Secure Communications Service Online
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Crew-12_scheduled_to_launch_on_Wednesday_11_February" >🔗</a> **[ESA]** Crew-12, scheduled to launch on Wednesday 11 February
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.spacedaily.com/reports/AI_tool_mines_Hubble_archive_for_hundreds_of_strange_cosmic_objects_999.html" >🔗</a> **[SpaceDaily]** AI tool mines Hubble archive for hundreds of strange cosmic objects
 - <a href="https://www.spacedaily.com/reports/ESA_member_states_back_SWISSto12_HummingSat_with_fresh_funding_round_999.html" >🔗</a> **[SpaceDaily]** ESA member states back SWISSto12 HummingSat with fresh funding round
 - <a href="https://www.spacedaily.com/reports/Sidus_Space_advances_LizzieSat_4_payload_integration_with_Maris_Tech_edge_computing_system_999.html" >🔗</a> **[SpaceDaily]** Sidus Space advances LizzieSat-4 payload integration with Maris-Tech edge computing system
-- <a href="https://www.moondaily.com/reports/Northrop_Grumman_Boosters_Set_For_First_Crewed_Lunar_Voyage_Of_Artemis_Era_999.html" >🔗</a> **[SpaceDaily]** Northrop Grumman Boosters Set For First Crewed Lunar Voyage Of Artemis Era
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260129T110806">2026-01-29 11:08:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260129T114033">2026-01-29 11:40:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
