@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/01/29/live-coverage-spacex-to-launch-11000th-starlink-satellite-to-date-on-thursday/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 11,000th Starlink satellite to date on Thursday
 - <a href="https://spacenews.com/noaa-seeks-more-money-and-flexibility-for-commercial-weather-data-program/" >🔗</a> **[SpaceNews]** NOAA seeks more money and flexibility for commercial weather data program
 - <a href="https://www.nasaspaceflight.com/2026/01/artemis-ii-science-overview/" >🔗</a> **[NASASpaceflight]** NASA readies unique science experiments and tech demonstrations for Artemis II crew
 - <a href="https://spacenews.com/gao-flags-risks-in-space-development-agencys-missile-tracking-satellite-program/" >🔗</a> **[SpaceNews]** GAO flags risks in Space Development Agency’s missile-tracking satellite program
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/space-commands-case-for-orbital-logistics-why-the-pentagon-is-being-urged-to-think-beyond-launch/" >🔗</a> **[SpaceNews]** Space Command’s case for orbital logistics: Why the Pentagon is being urged to think beyond launch
 - <a href="https://www.nasa.gov/missions/artemis/networks-keeping-nasas-artemis-ii-mission-connected/" >🔗</a> **[NASA]** Networks Keeping NASA’s Artemis II Mission Connected
 - <a href="https://www.nasa.gov/missions/chandra/nasa-telescopes-spot-surprisingly-mature-cluster-in-early-universe/" >🔗</a> **[NASA]** NASA Telescopes Spot Surprisingly Mature Cluster in Early Universe
-- <a href="https://www.nasa.gov/image-article/chandra-webb-catch-twinkling-lights/" >🔗</a> **[NASA]** Chandra, Webb Catch Twinkling Lights
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260129T005026">2026-01-29 00:50:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260129T013028">2026-01-29 01:30:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
