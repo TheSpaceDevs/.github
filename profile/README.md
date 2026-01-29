@@ -89,16 +89,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacescout.info/2026/01/falcon-goes-3-for-3-with-rapid-response-gps-iii-9-launch/" >🔗</a> **[Space Scout]** Falcon Goes 3 for 3 with Rapid Response GPS III-9 Launch
+- <a href="https://www.nasa.gov/earth/nasa-analysis-shows-la-nina-limited-sea-level-rise-in-2025/" >🔗</a> **[NASA]** NASA Analysis Shows La Niña Limited Sea Level Rise in 2025
+- <a href="https://spacenews.com/oxford-space-systems-wrapped-rib-antenna-successfully-deployed-in-orbit-on-carbsar-mission/" >🔗</a> **[SpaceNews]** Oxford Space Systems Wrapped Rib Antenna Successfully Deployed In-Orbit on CarbSAR Mission
+- <a href="https://science.nasa.gov/science-research/nasa-researchers-probe-tangled-magnetospheres-of-merging-neutron-stars/" >🔗</a> **[NASA]** NASA Researchers Probe Tangled Magnetospheres of Merging Neutron Stars
 - <a href="https://www.nasa.gov/image-article/webb-zooms-into-helix-nebula/" >🔗</a> **[NASA]** Webb Zooms into Helix Nebula
 - <a href="https://science.nasa.gov/missions/roman-space-telescope/building-roman/" >🔗</a> **[NASA]** Building Roman
 - <a href="https://arstechnica.com/space/2026/01/do-you-have-ideas-about-how-to-improve-americas-space-program/" >🔗</a> **[Arstechnica]** Do you have ideas about how to improve America's space program?
 - <a href="https://spacenews.com/china-eyes-space-resources-space-tourism-and-on-orbit-digital-infrastructure/" >🔗</a> **[SpaceNews]** China eyes space resources, space tourism and on-orbit digital infrastructure
 - <a href="https://spacenews.com/what-would-artemis-participation-mean-for-turkiyes-space-industry-and-space-diplomacy/" >🔗</a> **[SpaceNews]** What would Artemis participation mean for Türkiye’s space industry and space diplomacy?
 - <a href="https://spacenews.com/space-grove-ventures-announces-public-launch-at-spacecom-space-congress-signaling-a-new-commercial-model-for-space-and-defense-ecosystem-development/" >🔗</a> **[SpaceNews]** Space Grove Ventures Announces Public Launch at SpaceCom | Space Congress, Signaling a New Commercial Model for Space and Defense Ecosystem Development
-- <a href="https://www.spacedaily.com/reports/SpaceX_eyes_IPO_timed_to_planet_alignment_and_Musk_birthday_report_999.html" >🔗</a> **[SpaceDaily]** SpaceX eyes IPO timed to planet alignment and Musk birthday: report
-- <a href="https://www.spacedaily.com/reports/Earliest_launch_window_to_ISS_set_for_February_11_NASA_999.html" >🔗</a> **[SpaceDaily]** Earliest launch window to ISS set for February 11: NASA
-- <a href="https://spacenews.com/spacex-plans-next-starship-test-flight-in-march/" >🔗</a> **[SpaceNews]** SpaceX plans next Starship test flight in March
-- <a href="https://europeanspaceflight.com/eu-brings-govsatcom-secure-communications-service-online/" >🔗</a> **[European Spaceflight]** EU Brings GOVSATCOM Secure Communications Service Online
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260129T171046">2026-01-29 17:10:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260129T174252">2026-01-29 17:42:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
