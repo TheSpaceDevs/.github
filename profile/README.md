@@ -90,7 +90,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/l3harris-reaffirms-commitment-to-space-business-amid-missile-sector-expansion/" >🔗</a> **[SpaceNews]** L3Harris reaffirms commitment to space business amid missile sector expansion
 - <a href="https://spaceflightnow.com/2026/01/30/cold-weather-delays-earliest-artemis-2-launch-opportunity/" >🔗</a> **[Spaceflight Now]** Cold weather delays earliest Artemis 2 launch opportunity
+- <a href="https://science.nasa.gov/missions/libera/nasa-earth-energy-instrument-completes-testing-ready-for-delivery/" >🔗</a> **[NASA]** NASA Earth Energy Instrument Completes Testing, Ready for Delivery
 - <a href="https://www.nasaspaceflight.com/2026/01/anna-menon-interview/" >🔗</a> **[NASASpaceflight]** Former SpaceX astronaut discusses training as a NASA astronaut candidate
 - <a href="https://spacenews.com/blue-origin-halts-new-shepard-flights/" >🔗</a> **[SpaceNews]** Blue Origin halts New Shepard flights
 - <a href="https://arstechnica.com/space/2026/01/heres-why-blue-origin-just-ended-its-suborbital-space-tourism-program/" >🔗</a> **[Arstechnica]** Here's why Blue Origin just ended its suborbital space tourism program
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://spacepolicyonline.com/news/artemis-ii-wdr-test-postponed-by-frigid-weather-could-affect-crew-12-launch-date/" >🔗</a> **[SpacePolicyOnline.com]** Artemis II WDR Test Postponed by Frigid Weather, Could Affect Crew-12 Launch Date
 - <a href="https://science.nasa.gov/photojournal/visualizing-perseverances-ai-planned-drive-on-mars/" >🔗</a> **[NASA]** Visualizing Perseverance’s AI-Planned Drive on Mars
 - <a href="https://spacenews.com/weather-delays-artemis-2-wet-dress-rehearsal/" >🔗</a> **[SpaceNews]** Weather delays Artemis 2 wet dress rehearsal
-- <a href="https://science.nasa.gov/missions/station/iss-research/cold-atom-laboratory/nasa-honor-awards-for-cold-atom-lab-team-members/" >🔗</a> **[NASA]** NASA Honor Awards for Cold Atom Lab Team Members
-- <a href="https://science.nasa.gov/photojournal/video-perseverance-rovers-view-of-crater-rim-drive/" >🔗</a> **[NASA]** Video: Perseverance Rover’s View of Crater Rim Drive
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260130T230341">2026-01-30 23:03:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260130T233735">2026-01-30 23:37:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
