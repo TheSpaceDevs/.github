@@ -46,6 +46,7 @@ into *a Low Earth Orbit
 
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260130T040000">2026-01-30 04:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-101&location=Cape Canaveral SFS, FL, USA&dates=20260130T040000Z%2F20260130T080000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-101** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260202T150000">2026-02-02 15:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a/Fregat-M | Kosmos (Unknown Payload)&location=Plesetsk Cosmodrome, Russian Federation&dates=20260202T150000Z%2F20260202T220000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a/Fregat-M | Kosmos (Unknown Payload)** from Plesetsk Cosmodrome, Russian Federation.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260202T151700">2026-02-02 15:17:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-32&location=Vandenberg SFB, CA, USA&dates=20260202T151700Z%2F20260202T191700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-32** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260203T221200">2026-02-03 22:12:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-103&location=Cape Canaveral SFS, FL, USA&dates=20260203T221200Z%2F20260204T021200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-103** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260206T170500">2026-02-06 17:05:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-33&location=Vandenberg SFB, CA, USA&dates=20260206T170500Z%2F20260206T210500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-33** from Vandenberg SFB, CA, USA.
@@ -54,7 +55,6 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260210T140000">2026-02-10 14:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-34&location=Vandenberg SFB, CA, USA&dates=20260210T140000Z%2F20260210T180000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-34** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260211T110000">2026-02-11 11:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Crew-12&location=Cape Canaveral SFS, FL, USA&dates=20260211T110000Z%2F20260211T110000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Crew-12** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260212T000000">2026-02-12 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ariane 64 | Amazon Leo (LE-01)&location=Guiana Space Centre, French Guiana&dates=20260212T000000Z%2F20260212T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ariane 64 | Amazon Leo (LE-01)** from Guiana Space Centre, French Guiana.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260212T000000">2026-02-12 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Vulcan VC4S | USSF-87&location=Cape Canaveral SFS, FL, USA&dates=20260212T000000Z%2F20260212T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Vulcan VC4S | USSF-87** from Cape Canaveral SFS, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-johnson-celebrates-25-years-in-space-with-community-day/" >🔗</a> **[NASA]** NASA Johnson Celebrates 25 Years in Space with Community Day
 - <a href="https://www.nasaspaceflight.com/2026/01/pld-accelerates-miura-5-2026-milestones/" >🔗</a> **[NASASpaceflight]** PLD Space accelerates Miura 5 toward 2026 debut with milestones update
 - <a href="https://spacenews.com/alabama-national-guard-general-to-manage-space-command-headquarters-transition/" >🔗</a> **[SpaceNews]** Alabama National Guard general to manage Space Command headquarters transition
 - <a href="https://science.nasa.gov/photojournal/ammonia-bearing-compounds-discovered-at-surface-of-jupiters-moon-europa/" >🔗</a> **[NASA]** Ammonia-Bearing Compounds Discovered at Surface of Jupiter’s Moon Europa
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/directorates/stmd/nasa-heat-shield-technology-enables-space-industry-growth/" >🔗</a> **[NASA]** NASA Heat Shield Technology Enables Space Industry Growth
 - <a href="https://science.nasa.gov/photojournal/europas-ice-shell-artists-concept/" >🔗</a> **[NASA]** Europa’s Ice Shell (Artist’s Concept)
 - <a href="https://www.nasa.gov/news-release/nasa-awards-help-inspire-future-innovators-through-stem-engagement/" >🔗</a> **[NASA]** NASA Awards Help Inspire Future Innovators Through STEM Engagement
-- <a href="https://www.nasa.gov/missions/nisar/nasa-isro-radar-mission-peers-through-clouds-to-see-mississippi-river-delta/" >🔗</a> **[NASA]** NASA-ISRO Radar Mission Peers Through Clouds to See Mississippi River Delta
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260130T025242">2026-01-30 02:52:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260130T034338">2026-01-30 03:43:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
