@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/preparing-for-artemis-ii-training-for-a-mission-around-the-moon/" >🔗</a> **[NASA]** Preparing for Artemis II: Training for a Mission Around the Moon
 - <a href="https://spacenews.com/rbc-signals-partners-with-in-orbit-relay-developer-apolink/" >🔗</a> **[SpaceNews]** RBC Signals partners with in-orbit relay developer Apolink
 - <a href="https://www.nasa.gov/image-article/goldstones-dss-15-antenna-and-the-milky-way/" >🔗</a> **[NASA]** Goldstone’s DSS-15 Antenna and the Milky Way
 - <a href="https://www.nasa.gov/image-article/artemis-ii-recovery-training/" >🔗</a> **[NASA]** Artemis II Recovery Training
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/science-research/planetary-science/astrobiology/resurrecting-ancient-enzymes-in-nasas-search-for-life-beyond-earth/" >🔗</a> **[NASA]** Resurrecting Ancient Enzymes in NASA’s Search for Life Beyond Earth
 - <a href="https://science.nasa.gov/missions/hubble/hubble-sees-galaxy-with-dark-rings-in-new-light/" >🔗</a> **[NASA]** Hubble Sees Galaxy with Dark Rings in New Light
 - <a href="https://www.esa.int/ESA_Multimedia/Sets/The_journey_of_Juice" >🔗</a> **[ESA]** Journey of Juice link
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_26-30_January_2026" >🔗</a> **[ESA]** Week in images: 26-30 January 2026
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260130T180614">2026-01-30 18:06:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260130T184342">2026-01-30 18:43:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
