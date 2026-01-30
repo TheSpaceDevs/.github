@@ -90,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2026/01/nasa-faces-a-crucial-choice-on-a-mars-spacecraft-and-it-must-decide-soon/" >🔗</a> **[Arstechnica]** NASA faces a crucial choice on a Mars spacecraft—and it must decide soon
+- <a href="https://www.nasaspaceflight.com/2026/01/faa-advances-approval-44-starship-launches-39a/" >🔗</a> **[NASASpaceflight]** FAA advances approval for up to 44 Starship launches from 39A
+- <a href="https://science.nasa.gov/science-research/planetary-science/astrobiology/resurrecting-ancient-enzymes-in-nasas-search-for-life-beyond-earth/" >🔗</a> **[NASA]** Resurrecting Ancient Enzymes in NASA’s Search for Life Beyond Earth
+- <a href="https://science.nasa.gov/missions/hubble/hubble-sees-galaxy-with-dark-rings-in-new-light/" >🔗</a> **[NASA]** Hubble Sees Galaxy with Dark Rings in New Light
+- <a href="https://www.esa.int/ESA_Multimedia/Sets/The_journey_of_Juice" >🔗</a> **[ESA]** Journey of Juice link
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_26-30_January_2026" >🔗</a> **[ESA]** Week in images: 26-30 January 2026
 - <a href="https://arstechnica.com/space/2026/01/rocket-report-how-a-5-ton-satellite-fell-off-a-booster-will-spacex-and-xai-merge/" >🔗</a> **[Arstechnica]** Rocket Report: How a 5-ton satellite fell off a booster; will SpaceX and xAI merge?
 - <a href="https://spacenews.com/making-the-unprecedented-eu-space-act-effective-for-all/" >🔗</a> **[SpaceNews]** Making the unprecedented EU Space Act effective for all
 - <a href="https://spacenews.com/rocket-lab-launches-south-korean-satellite/" >🔗</a> **[SpaceNews]** Rocket Lab launches South Korean satellite
 - <a href="https://www.esa.int/Newsroom/Press_Releases/Laurent_Jaffart_appointed_Director_of_Resilience_Navigation_and_Connectivity" >🔗</a> **[ESA]** Laurent Jaffart appointed Director of Resilience, Navigation and Connectivity
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/New_satellite_view_of_Tibet_s_tectonic_clash" >🔗</a> **[ESA]** New satellite view of Tibet’s tectonic clash
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/01/Earth_from_Space_Rudong_coast_China" >🔗</a> **[ESA]** Earth from Space: Rudong coast, China
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/01/Dark_rings_and_new_light" >🔗</a> **[ESA]** Dark rings and new light
-- <a href="https://europeanspaceflight.com/eu-awards-three-contracts-for-mobile-responsive-launch-system-studies/" >🔗</a> **[European Spaceflight]** EU Awards Three Contracts for Mobile Responsive Launch System Studies
-- <a href="https://www.spacedaily.com/reports/NASA_Heat_Shield_Technology_Enables_Space_Industry_Growth_999.html" >🔗</a> **[SpaceDaily]** NASA Heat Shield Technology Enables Space Industry Growth
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260130T150719">2026-01-30 15:07:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260130T154232">2026-01-30 15:42:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
