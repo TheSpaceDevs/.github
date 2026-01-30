@@ -89,16 +89,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://science.nasa.gov/earth/earth-observatory/extreme-january-cold/" >🔗</a> **[NASA]** Extreme January Cold
-- <a href="https://spaceflightnow.com/2026/01/30/live-coverage-spacex-starlink-flight-comes-as-it-unveils-new-stargaze-space-situational-awareness-system/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch overnight Starlink flight as it unveils new ‘Stargaze’ space situational awareness system
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-johnson-celebrates-25-years-in-space-with-community-day/" >🔗</a> **[NASA]** NASA Johnson Celebrates 25 Years in Space with Community Day
-- <a href="https://www.nasaspaceflight.com/2026/01/pld-accelerates-miura-5-2026-milestones/" >🔗</a> **[NASASpaceflight]** PLD Space accelerates Miura 5 toward 2026 debut with milestones update
-- <a href="https://spacenews.com/alabama-national-guard-general-to-manage-space-command-headquarters-transition/" >🔗</a> **[SpaceNews]** Alabama National Guard general to manage Space Command headquarters transition
-- <a href="https://science.nasa.gov/photojournal/ammonia-bearing-compounds-discovered-at-surface-of-jupiters-moon-europa/" >🔗</a> **[NASA]** Ammonia-Bearing Compounds Discovered at Surface of Jupiter’s Moon Europa
-- <a href="https://spacenews.com/nasa-considering-alternatives-for-gateway-logistics/" >🔗</a> **[SpaceNews]** NASA considering alternatives for Gateway logistics
-- <a href="https://science.nasa.gov/photojournal/nasa-analysis-shows-la-nina-limited-sea-level-rise-in-2025/" >🔗</a> **[NASA]** NASA Analysis Shows La Niña Limited Sea Level Rise in 2025
-- <a href="https://spacenews.com/york-space-goes-public-riding-pentagon-demand/" >🔗</a> **[SpaceNews]** York Space goes public, riding Pentagon demand
-- <a href="https://www.nasa.gov/directorates/stmd/nasa-heat-shield-technology-enables-space-industry-growth/" >🔗</a> **[NASA]** NASA Heat Shield Technology Enables Space Industry Growth
+- <a href="https://www.gpsdaily.com/reports/SES_to_extend_EGNOS_GEO_1_payload_service_for_precise_navigation_over_Europe_through_2030_999.html" >🔗</a> **[SpaceDaily]** SES to extend EGNOS GEO 1 payload service for precise navigation over Europe through 2030
+- <a href="https://www.spacedaily.com/reports/Radio_view_of_rare_supernova_tracks_dying_stars_final_decade_999.html" >🔗</a> **[SpaceDaily]** Radio view of rare supernova tracks dying star's final decade
+- <a href="https://www.gpsdaily.com/reports/Lockheed_Martin_launches_ninth_GPS_III_satellite_to_boost_secure_navigation_999.html" >🔗</a> **[SpaceDaily]** Lockheed Martin launches ninth GPS III satellite to boost secure navigation
+- <a href="https://www.marsdaily.com/reports/New_clues_to_Mars_habitability_in_discovery_of_ancient_beach_999.html" >🔗</a> **[SpaceDaily]** New clues to Mars habitability in discovery of ancient beach
+- <a href="https://www.spacedaily.com/reports/Rocket_Lab_conducts_second_Electron_mission_in_eight_days_to_orbit_Korean_imaging_satellite_999.html" >🔗</a> **[SpaceDaily]** Rocket Lab conducts second Electron mission in eight days to orbit Korean imaging satellite
+- <a href="https://www.moondaily.com/reports/Networks_ready_to_keep_Artemis_II_crew_connected_around_the_Moon_999.html" >🔗</a> **[SpaceDaily]** Networks ready to keep Artemis II crew connected around the Moon
+- <a href="https://www.spacedaily.com/reports/NASA_Heat_Shield_Technology_Enables_Space_Industry_Growth_999.html" >🔗</a> **[SpaceDaily]** NASA Heat Shield Technology Enables Space Industry Growth
+- <a href="https://www.spacedaily.com/reports/Quark_wakes_reveal_early_universe_plasma_flowed_like_a_liquid_999.html" >🔗</a> **[SpaceDaily]** Quark wakes reveal early universe plasma flowed like a liquid
+- <a href="https://www.spacedaily.com/reports/China_sea_launch_boosts_private_rocket_activity_in_2026_999.html" >🔗</a> **[SpaceDaily]** China sea launch boosts private rocket activity in 2026
+- <a href="https://www.spacedaily.com/reports/Why_PR_Boxes_Are_Powerful_Tools_for_Product_Launches_999.html" >🔗</a> **[SpaceDaily]** Why PR Boxes Are Powerful Tools for Product Launches
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260130T061034">2026-01-30 06:10:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260130T064415">2026-01-30 06:44:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
