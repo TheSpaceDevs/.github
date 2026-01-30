@@ -94,12 +94,12 @@ into *an Unknown
 - <a href="https://spacenews.com/making-the-unprecedented-eu-space-act-effective-for-all/" >🔗</a> **[SpaceNews]** Making the unprecedented EU Space Act effective for all
 - <a href="https://spacenews.com/rocket-lab-launches-south-korean-satellite/" >🔗</a> **[SpaceNews]** Rocket Lab launches South Korean satellite
 - <a href="https://www.esa.int/Newsroom/Press_Releases/Laurent_Jaffart_appointed_Director_of_Resilience_Navigation_and_Connectivity" >🔗</a> **[ESA]** Laurent Jaffart appointed Director of Resilience, Navigation and Connectivity
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/New_satellite_view_of_Tibet_s_tectonic_clash" >🔗</a> **[ESA]** New satellite view of Tibet’s tectonic clash
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/01/Dark_rings_and_new_light" >🔗</a> **[ESA]** Dark rings and new light
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/01/Earth_from_Space_Rudong_coast_China" >🔗</a> **[ESA]** Earth from Space: Rudong coast, China
 - <a href="https://europeanspaceflight.com/eu-awards-three-contracts-for-mobile-responsive-launch-system-studies/" >🔗</a> **[European Spaceflight]** EU Awards Three Contracts for Mobile Responsive Launch System Studies
 - <a href="https://www.spacedaily.com/reports/Rocket_Lab_conducts_second_Electron_mission_in_eight_days_to_orbit_Korean_imaging_satellite_999.html" >🔗</a> **[SpaceDaily]** Rocket Lab conducts second Electron mission in eight days to orbit Korean imaging satellite
 - <a href="https://www.spacedaily.com/reports/NASA_Heat_Shield_Technology_Enables_Space_Industry_Growth_999.html" >🔗</a> **[SpaceDaily]** NASA Heat Shield Technology Enables Space Industry Growth
-- <a href="https://www.spacedaily.com/reports/China_sea_launch_boosts_private_rocket_activity_in_2026_999.html" >🔗</a> **[SpaceDaily]** China sea launch boosts private rocket activity in 2026
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260130T134542">2026-01-30 13:45:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260130T140944">2026-01-30 14:09:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
