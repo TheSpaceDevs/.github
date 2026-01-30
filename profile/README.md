@@ -90,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/aeronautics/nasa-aims-to-advance-hypersonic-flight-testing-with-new-awards/" >🔗</a> **[NASA]** NASA Aims to Advance Hypersonic Flight Testing with New Awards
+- <a href="https://spacepolicyonline.com/news/artemis-ii-wdr-test-postponed-by-frigid-weather-could-affect-crew-12-launch-date/" >🔗</a> **[SpacePolicyOnline.com]** Artemis II WDR Test Postponed by Frigid Weather, Could Affect Crew-12 Launch Date
+- <a href="https://science.nasa.gov/photojournal/visualizing-perseverances-ai-planned-drive-on-mars/" >🔗</a> **[NASA]** Visualizing Perseverance’s AI-Planned Drive on Mars
 - <a href="https://spacenews.com/weather-delays-artemis-2-wet-dress-rehearsal/" >🔗</a> **[SpaceNews]** Weather delays Artemis 2 wet dress rehearsal
+- <a href="https://science.nasa.gov/missions/station/iss-research/cold-atom-laboratory/nasa-honor-awards-for-cold-atom-lab-team-members/" >🔗</a> **[NASA]** NASA Honor Awards for Cold Atom Lab Team Members
 - <a href="https://science.nasa.gov/photojournal/video-perseverance-rovers-view-of-crater-rim-drive/" >🔗</a> **[NASA]** Video: Perseverance Rover’s View of Crater Rim Drive
 - <a href="https://spacenews.com/a-fireside-chat-with-space-force-gen-shawn-bratton/" >🔗</a> **[SpaceNews]** A fireside chat with Space Force Gen. Shawn Bratton
 - <a href="https://science.nasa.gov/photojournal/mapping-perseverances-route-with-ai/" >🔗</a> **[NASA]** Mapping Perseverance’s Route With AI
-- <a href="https://science.nasa.gov/science-research/earth-science/news-satellogic/" >🔗</a> **[NASA]** NASA’s Commercial Satellite Data Acquisition Program Releases Archived and Tasked Multispectral Data from Satellogic
 - <a href="https://science.nasa.gov/uncategorized/news-satellogic/" >🔗</a> **[NASA]** NASA’s Commercial Satellite Data Acquisition Program Releases Archived and Tasked Multispectral Data from Satellogic
-- <a href="https://www.nasa.gov/centers-and-facilities/jpl/nasas-perseverance-rover-completes-first-ai-planned-drive-on-mars/" >🔗</a> **[NASA]** NASA’s Perseverance Rover Completes First AI-Planned Drive on Mars
-- <a href="https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-completes-first-ai-planned-drive-on-mars/" >🔗</a> **[NASA]** NASA’s Perseverance Rover Completes First AI-Planned Drive on Mars
-- <a href="https://science.nasa.gov/solar-system/whats-up-february-2026-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: February 2026 Skywatching Tips from NASA
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/preparing-for-artemis-ii-training-for-a-mission-around-the-moon/" >🔗</a> **[NASA]** Preparing for Artemis II: Training for a Mission Around the Moon
+- <a href="https://science.nasa.gov/science-research/earth-science/news-satellogic/" >🔗</a> **[NASA]** NASA’s Commercial Satellite Data Acquisition Program Releases Archived and Tasked Multispectral Data from Satellogic
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260130T210357">2026-01-30 21:03:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260130T213821">2026-01-30 21:38:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
