@@ -26,7 +26,7 @@ from *<a href="https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1">Rocket
 at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260129T224500">2026-01-29 22:45:00 UTC</a>.  Until
 then, this pad will have been used for 36
 out of 70 launches from this location. The launch status is currently
-*Go* 🟩 . The mission type is
+*Hold* 🟪 . The mission type is
 *Earth Science* and the payload will be injected
 into *a Sun-Synchronous Orbit
 (SSO)*.
@@ -113,7 +113,7 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260130T000646">2026-01-30 00:06:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260130T005053">2026-01-30 00:50:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
