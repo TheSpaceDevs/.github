@@ -90,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/weather-delays-artemis-2-wet-dress-rehearsal/" >🔗</a> **[SpaceNews]** Weather delays Artemis 2 wet dress rehearsal
+- <a href="https://science.nasa.gov/photojournal/video-perseverance-rovers-view-of-crater-rim-drive/" >🔗</a> **[NASA]** Video: Perseverance Rover’s View of Crater Rim Drive
+- <a href="https://spacenews.com/a-fireside-chat-with-space-force-gen-shawn-bratton/" >🔗</a> **[SpaceNews]** A fireside chat with Space Force Gen. Shawn Bratton
+- <a href="https://science.nasa.gov/photojournal/mapping-perseverances-route-with-ai/" >🔗</a> **[NASA]** Mapping Perseverance’s Route With AI
+- <a href="https://science.nasa.gov/science-research/earth-science/news-satellogic/" >🔗</a> **[NASA]** NASA’s Commercial Satellite Data Acquisition Program Releases Archived and Tasked Multispectral Data from Satellogic
 - <a href="https://science.nasa.gov/uncategorized/news-satellogic/" >🔗</a> **[NASA]** NASA’s Commercial Satellite Data Acquisition Program Releases Archived and Tasked Multispectral Data from Satellogic
 - <a href="https://www.nasa.gov/centers-and-facilities/jpl/nasas-perseverance-rover-completes-first-ai-planned-drive-on-mars/" >🔗</a> **[NASA]** NASA’s Perseverance Rover Completes First AI-Planned Drive on Mars
 - <a href="https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-completes-first-ai-planned-drive-on-mars/" >🔗</a> **[NASA]** NASA’s Perseverance Rover Completes First AI-Planned Drive on Mars
 - <a href="https://science.nasa.gov/solar-system/whats-up-february-2026-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: February 2026 Skywatching Tips from NASA
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/preparing-for-artemis-ii-training-for-a-mission-around-the-moon/" >🔗</a> **[NASA]** Preparing for Artemis II: Training for a Mission Around the Moon
-- <a href="https://spacenews.com/rbc-signals-partners-with-in-orbit-relay-developer-apolink/" >🔗</a> **[SpaceNews]** RBC Signals partners with in-orbit relay developer Apolink
-- <a href="https://www.nasa.gov/image-article/goldstones-dss-15-antenna-and-the-milky-way/" >🔗</a> **[NASA]** Goldstone’s DSS-15 Antenna and the Milky Way
-- <a href="https://www.nasa.gov/image-article/artemis-ii-recovery-training/" >🔗</a> **[NASA]** Artemis II Recovery Training
-- <a href="https://science.nasa.gov/photojournal/u-s-india-nisar-satellite-images-mississippi-river-delta-region/" >🔗</a> **[NASA]** U.S.-India NISAR Satellite Images Mississippi River Delta Region
-- <a href="https://arstechnica.com/space/2026/01/nasa-faces-a-crucial-choice-on-a-mars-spacecraft-and-it-must-decide-soon/" >🔗</a> **[Arstechnica]** NASA faces a crucial choice on a Mars spacecraft—and it must decide soon
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260130T200231">2026-01-30 20:02:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260130T204108">2026-01-30 20:41:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
