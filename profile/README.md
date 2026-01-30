@@ -89,6 +89,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/earth-observatory/extreme-january-cold/" >🔗</a> **[NASA]** Extreme January Cold
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-johnson-celebrates-25-years-in-space-with-community-day/" >🔗</a> **[NASA]** NASA Johnson Celebrates 25 Years in Space with Community Day
 - <a href="https://www.nasaspaceflight.com/2026/01/pld-accelerates-miura-5-2026-milestones/" >🔗</a> **[NASASpaceflight]** PLD Space accelerates Miura 5 toward 2026 debut with milestones update
 - <a href="https://spacenews.com/alabama-national-guard-general-to-manage-space-command-headquarters-transition/" >🔗</a> **[SpaceNews]** Alabama National Guard general to manage Space Command headquarters transition
@@ -98,7 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/york-space-goes-public-riding-pentagon-demand/" >🔗</a> **[SpaceNews]** York Space goes public, riding Pentagon demand
 - <a href="https://www.nasa.gov/directorates/stmd/nasa-heat-shield-technology-enables-space-industry-growth/" >🔗</a> **[NASA]** NASA Heat Shield Technology Enables Space Industry Growth
 - <a href="https://science.nasa.gov/photojournal/europas-ice-shell-artists-concept/" >🔗</a> **[NASA]** Europa’s Ice Shell (Artist’s Concept)
-- <a href="https://www.nasa.gov/news-release/nasa-awards-help-inspire-future-innovators-through-stem-engagement/" >🔗</a> **[NASA]** NASA Awards Help Inspire Future Innovators Through STEM Engagement
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260130T045913">2026-01-30 04:59:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260130T052633">2026-01-30 05:26:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
