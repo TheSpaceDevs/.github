@@ -19,27 +19,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 6-101**. It is scheduled to be launched by *SpaceX*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral SFS, FL, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260130T040000">2026-01-30 04:00:00 UTC</a>.  Until
-then, this pad will have been used for 360
-out of 1082 launches from this location. The launch status is currently
+**Soyuz 2.1a/Fregat-M | Kosmos (Unknown Payload)**. It is scheduled to be launched by *Russian Space Forces*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Plesetsk_Cosmodrome">Unknown Pad</a>, Plesetsk Cosmodrome, Russian Federation*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260202T150000">2026-02-02 15:00:00 UTC</a>.  Until
+then, this pad will have been used for 0
+out of 1680 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Communications* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+*Government/Top Secret* and the payload will be injected
+into *an Unknown
+(N/A)*.
 <br>
 <blockquote>
-  A batch of 29 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  Unknown classified payload(s) for the Russian military.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+  <a href="https://en.wikipedia.org/wiki/Soyuz-2" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
+  <a href="https://www.google.com/maps?q=62.925556,40.577778" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -54,6 +54,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260210T140000">2026-02-10 14:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-34&location=Vandenberg SFB, CA, USA&dates=20260210T140000Z%2F20260210T180000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-34** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260211T110000">2026-02-11 11:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Crew-12&location=Cape Canaveral SFS, FL, USA&dates=20260211T110000Z%2F20260211T110000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Crew-12** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260212T000000">2026-02-12 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ariane 64 | Amazon Leo (LE-01)&location=Guiana Space Centre, French Guiana&dates=20260212T000000Z%2F20260212T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ariane 64 | Amazon Leo (LE-01)** from Guiana Space Centre, French Guiana.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260212T000000">2026-02-12 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Vulcan VC4S | USSF-87&location=Cape Canaveral SFS, FL, USA&dates=20260212T000000Z%2F20260212T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Vulcan VC4S | USSF-87** from Cape Canaveral SFS, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -103,12 +104,11 @@ into *a Low Earth Orbit
 
 ### Launch-related News 🚀
 
-- <a href="https://www.nasaspaceflight.com/2026/01/launch-roundup-012626/" >🔗</a> **[NASASpaceflight]** Launch Roundup: GPS, Starlink, Electron launches scheduled for last week of January
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260130T071353">2026-01-30 07:13:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260130T074250">2026-01-30 07:42:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
