@@ -90,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.gpsdaily.com/reports/SES_to_extend_EGNOS_GEO_1_payload_service_for_precise_navigation_over_Europe_through_2030_999.html" >🔗</a> **[SpaceDaily]** SES to extend EGNOS GEO 1 payload service for precise navigation over Europe through 2030
-- <a href="https://www.spacedaily.com/reports/Radio_view_of_rare_supernova_tracks_dying_stars_final_decade_999.html" >🔗</a> **[SpaceDaily]** Radio view of rare supernova tracks dying star's final decade
-- <a href="https://www.gpsdaily.com/reports/Lockheed_Martin_launches_ninth_GPS_III_satellite_to_boost_secure_navigation_999.html" >🔗</a> **[SpaceDaily]** Lockheed Martin launches ninth GPS III satellite to boost secure navigation
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/01/Dark_rings_and_new_light" >🔗</a> **[ESA]** Dark rings and new light
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/01/Earth_from_Space_Rudong_coast_China" >🔗</a> **[ESA]** Earth from Space: Rudong coast, China
+- <a href="https://europeanspaceflight.com/eu-awards-three-contracts-for-mobile-responsive-launch-system-studies/" >🔗</a> **[European Spaceflight]** EU Awards Three Contracts for Mobile Responsive Launch System Studies
 - <a href="https://www.marsdaily.com/reports/New_clues_to_Mars_habitability_in_discovery_of_ancient_beach_999.html" >🔗</a> **[SpaceDaily]** New clues to Mars habitability in discovery of ancient beach
-- <a href="https://www.spacedaily.com/reports/Rocket_Lab_conducts_second_Electron_mission_in_eight_days_to_orbit_Korean_imaging_satellite_999.html" >🔗</a> **[SpaceDaily]** Rocket Lab conducts second Electron mission in eight days to orbit Korean imaging satellite
 - <a href="https://www.moondaily.com/reports/Networks_ready_to_keep_Artemis_II_crew_connected_around_the_Moon_999.html" >🔗</a> **[SpaceDaily]** Networks ready to keep Artemis II crew connected around the Moon
 - <a href="https://www.spacedaily.com/reports/NASA_Heat_Shield_Technology_Enables_Space_Industry_Growth_999.html" >🔗</a> **[SpaceDaily]** NASA Heat Shield Technology Enables Space Industry Growth
-- <a href="https://www.spacedaily.com/reports/Quark_wakes_reveal_early_universe_plasma_flowed_like_a_liquid_999.html" >🔗</a> **[SpaceDaily]** Quark wakes reveal early universe plasma flowed like a liquid
 - <a href="https://www.spacedaily.com/reports/China_sea_launch_boosts_private_rocket_activity_in_2026_999.html" >🔗</a> **[SpaceDaily]** China sea launch boosts private rocket activity in 2026
-- <a href="https://www.spacedaily.com/reports/Why_PR_Boxes_Are_Powerful_Tools_for_Product_Launches_999.html" >🔗</a> **[SpaceDaily]** Why PR Boxes Are Powerful Tools for Product Launches
+- <a href="https://www.spacedaily.com/reports/Quark_wakes_reveal_early_universe_plasma_flowed_like_a_liquid_999.html" >🔗</a> **[SpaceDaily]** Quark wakes reveal early universe plasma flowed like a liquid
+- <a href="https://www.spacedaily.com/reports/Rocket_Lab_conducts_second_Electron_mission_in_eight_days_to_orbit_Korean_imaging_satellite_999.html" >🔗</a> **[SpaceDaily]** Rocket Lab conducts second Electron mission in eight days to orbit Korean imaging satellite
+- <a href="https://www.spacedaily.com/reports/Radio_view_of_rare_supernova_tracks_dying_stars_final_decade_999.html" >🔗</a> **[SpaceDaily]** Radio view of rare supernova tracks dying star's final decade
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260130T090837">2026-01-30 09:08:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260130T094258">2026-01-30 09:42:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
