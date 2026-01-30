@@ -19,31 +19,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Electron | Bridging The Swarm (NeonSat-1A)**. It is scheduled to be launched by *Rocket Lab*
+**Falcon 9 Block 5 | Starlink Group 6-101**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1">Rocket Lab Launch Complex 1A</a>, Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260129T224500">2026-01-29 22:45:00 UTC</a>.  Until
-then, this pad will have been used for 36
-out of 70 launches from this location. The launch status is currently
-*Hold* 🟪 . The mission type is
-*Earth Science* and the payload will be injected
-into *a Sun-Synchronous Orbit
-(SSO)*.
+from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral SFS, FL, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260130T040000">2026-01-30 04:00:00 UTC</a>.  Until
+then, this pad will have been used for 360
+out of 1082 launches from this location. The launch status is currently
+*Go* 🟩 . The mission type is
+*Communications* and the payload will be injected
+into *a Low Earth Orbit
+(LEO)*.
 <br>
 <blockquote>
-  The NeonSat-1A, carrying a high-resolution optical camera, is designed to test the constellation capabilities of the South Korean government's Earth observation micro-satellite constellation NeonSat (New-space Earth Observation Satellite), in particular technology improvements identified from operations of NeonSat-1 after its launch in April 2024. These technologies will in turn be incorporated into the next 10 NeonSat under construction, as well as providing more site re-visiting capabilities along with NeonSat-1.
-
-The NeonSat constellation is the first satellite system developed by the government using a mass-production approach for precise monitoring of the Korean Peninsula, lead by the Satellite Technology Research Center (SaTReC) at the Korea Advanced Institute of Science and Technology (KAIST), Korea’s leading university dedicated to science and technology. Designed to capture near-real time natural disaster monitoring for the Korean peninsula, KAIST’s NEONSAT constellation is a collaboration across multiple Korean academic, industry, and research institutions, including SaTReC, which is leading the program’s system design and engineering. 
-
-The NEONSAT program is funded by the Korean government’s Ministry of Science and ICT (MSIT).
+  A batch of 29 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Rocket_Lab_Electron" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=-39.262833,177.864469" >
+  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -58,6 +54,7 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260210T140000">2026-02-10 14:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-34&location=Vandenberg SFB, CA, USA&dates=20260210T140000Z%2F20260210T180000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-34** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260211T110000">2026-02-11 11:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Crew-12&location=Cape Canaveral SFS, FL, USA&dates=20260211T110000Z%2F20260211T110000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Crew-12** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260212T000000">2026-02-12 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ariane 64 | Amazon Leo (LE-01)&location=Guiana Space Centre, French Guiana&dates=20260212T000000Z%2F20260212T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ariane 64 | Amazon Leo (LE-01)** from Guiana Space Centre, French Guiana.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260212T000000">2026-02-12 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Vulcan VC4S | USSF-87&location=Cape Canaveral SFS, FL, USA&dates=20260212T000000Z%2F20260212T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Vulcan VC4S | USSF-87** from Cape Canaveral SFS, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -108,12 +105,11 @@ The NEONSAT program is funded by the Korean government’s Ministry of Science a
 ### Launch-related News 🚀
 
 - <a href="https://www.nasaspaceflight.com/2026/01/launch-roundup-012626/" >🔗</a> **[NASASpaceflight]** Launch Roundup: GPS, Starlink, Electron launches scheduled for last week of January
-- <a href="https://spaceflightnow.com/2025/12/15/rocket-lab-to-launch-second-of-three-planned-electron-rockets-this-week/" >🔗</a> **[Spaceflight Now]** Rocket Lab to launch second of three planned Electron rockets this week
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260130T005053">2026-01-30 00:50:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260130T013025">2026-01-30 01:30:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
