@@ -90,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/vardas-w-5-mission-lands-in-australia/" >🔗</a> **[SpaceNews]** Varda’s W-5 mission lands in Australia
 - <a href="https://spacenews.com/spacex-files-plans-for-million-satellite-orbital-data-center-constellation/" >🔗</a> **[SpaceNews]** SpaceX files plans for million-satellite orbital data center constellation
 - <a href="https://spacenews.com/china-launches-alsat-3b-for-algeria-further-launches-delayed-ahead-of-key-human-spaceflight-test/" >🔗</a> **[SpaceNews]** China launches AlSat-3B for Algeria, further launches delayed ahead of key human spaceflight test
-- <a href="https://www.moondaily.com/reports/The_Perception_War_How_Artemis_II_Could_Win_the_Race_Without_Landing_999.html" >🔗</a> **[SpaceDaily]** The Perception War: How Artemis II Could Win the Race Without Landing
-- <a href="https://www.spacedaily.com/reports/Bezoss_Blue_Origin_to_pause_space_tourism_to_focus_on_Moon_efforts_999.html" >🔗</a> **[SpaceDaily]** Bezos's Blue Origin to 'pause' space tourism to focus on Moon efforts
 - <a href="https://www.spacewar.com/reports/Leonardo_DRS_infrared_payloads_selected_for_SDA_Tracking_Layer_Tranche_3_999.html" >🔗</a> **[SpaceDaily]** Leonardo DRS infrared payloads selected for SDA Tracking Layer Tranche 3
+- <a href="https://www.spacedaily.com/reports/Bezoss_Blue_Origin_to_pause_space_tourism_to_focus_on_Moon_efforts_999.html" >🔗</a> **[SpaceDaily]** Bezos's Blue Origin to 'pause' space tourism to focus on Moon efforts
 - <a href="https://www.spacedaily.com/reports/NASA_advances_space_based_tracking_of_marine_debris_999.html" >🔗</a> **[SpaceDaily]** NASA advances space based tracking of marine debris
 - <a href="https://www.spacewar.com/reports/Balerion_backs_Northwood_to_tackle_ground_bottlenecks_in_expanding_space_economy_999.html" >🔗</a> **[SpaceDaily]** Balerion backs Northwood to tackle ground bottlenecks in expanding space economy
 - <a href="https://www.spacedaily.com/reports/NASA_delays_Moon_mission_over_frigid_weather_999.html" >🔗</a> **[SpaceDaily]** NASA delays Moon mission over frigid weather
+- <a href="https://www.moondaily.com/reports/The_Perception_War_How_Artemis_II_Could_Win_the_Race_Without_Landing_999.html" >🔗</a> **[SpaceDaily]** The Perception War: How Artemis II Could Win the Race Without Landing
 - <a href="https://spacepolicyonline.com/news/another-partial-government-shutdown-this-weekend-but-could-be-short/" >🔗</a> **[SpacePolicyOnline.com]** Another Partial Government Shutdown This Weekend, but Could be Short
-- <a href="https://spacenews.com/axiom-wins-fifth-private-astronaut-mission-to-space-station/" >🔗</a> **[SpaceNews]** Axiom wins fifth private astronaut mission to space station
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260131T230113">2026-01-31 23:01:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260131T233546">2026-01-31 23:35:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
