@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/axiom-wins-fifth-private-astronaut-mission-to-space-station/" >🔗</a> **[SpaceNews]** Axiom wins fifth private astronaut mission to space station
 - <a href="https://www.nasa.gov/news-release/nasa-selects-axiom-space-for-fifth-private-mission-to-space-station/" >🔗</a> **[NASA]** NASA Selects Axiom Space for Fifth Private Mission to Space Station
 - <a href="https://spacenews.com/l3harris-reaffirms-commitment-to-space-business-amid-missile-sector-expansion/" >🔗</a> **[SpaceNews]** L3Harris reaffirms commitment to space business amid missile sector expansion
 - <a href="https://spaceflightnow.com/2026/01/30/cold-weather-delays-earliest-artemis-2-launch-opportunity/" >🔗</a> **[Spaceflight Now]** Cold weather delays earliest Artemis 2 launch opportunity
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://arstechnica.com/space/2026/01/heres-why-blue-origin-just-ended-its-suborbital-space-tourism-program/" >🔗</a> **[Arstechnica]** Here's why Blue Origin just ended its suborbital space tourism program
 - <a href="https://www.nasa.gov/aeronautics/nasa-aims-to-advance-hypersonic-flight-testing-with-new-awards/" >🔗</a> **[NASA]** NASA Aims to Advance Hypersonic Flight Testing with New Awards
 - <a href="https://spacepolicyonline.com/news/artemis-ii-wdr-test-postponed-by-frigid-weather-could-affect-crew-12-launch-date/" >🔗</a> **[SpacePolicyOnline.com]** Artemis II WDR Test Postponed by Frigid Weather, Could Affect Crew-12 Launch Date
-- <a href="https://science.nasa.gov/photojournal/visualizing-perseverances-ai-planned-drive-on-mars/" >🔗</a> **[NASA]** Visualizing Perseverance’s AI-Planned Drive on Mars
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260131T013018">2026-01-31 01:30:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260131T024912">2026-01-31 02:49:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
