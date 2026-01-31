@@ -90,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacedaily.com/reports/NASA_delays_Moon_mission_over_frigid_weather_999.html" >🔗</a> **[SpaceDaily]** NASA delays Moon mission over frigid weather
+- <a href="https://www.moondaily.com/reports/The_Perception_War_How_Artemis_II_Could_Win_the_Race_Without_Landing_999.html" >🔗</a> **[SpaceDaily]** The Perception War: How Artemis II Could Win the Race Without Landing
+- <a href="https://www.spacewar.com/reports/Balerion_backs_Northwood_to_tackle_ground_bottlenecks_in_expanding_space_economy_999.html" >🔗</a> **[SpaceDaily]** Balerion backs Northwood to tackle ground bottlenecks in expanding space economy
+- <a href="https://www.spacedaily.com/reports/Bezoss_Blue_Origin_to_pause_space_tourism_to_focus_on_Moon_efforts_999.html" >🔗</a> **[SpaceDaily]** Bezos's Blue Origin to 'pause' space tourism to focus on Moon efforts
+- <a href="https://www.spacewar.com/reports/Leonardo_DRS_infrared_payloads_selected_for_SDA_Tracking_Layer_Tranche_3_999.html" >🔗</a> **[SpaceDaily]** Leonardo DRS infrared payloads selected for SDA Tracking Layer Tranche 3
+- <a href="https://www.spacedaily.com/reports/NASA_advances_space_based_tracking_of_marine_debris_999.html" >🔗</a> **[SpaceDaily]** NASA advances space based tracking of marine debris
 - <a href="https://spacenews.com/axiom-wins-fifth-private-astronaut-mission-to-space-station/" >🔗</a> **[SpaceNews]** Axiom wins fifth private astronaut mission to space station
 - <a href="https://www.nasa.gov/news-release/nasa-selects-axiom-space-for-fifth-private-mission-to-space-station/" >🔗</a> **[NASA]** NASA Selects Axiom Space for Fifth Private Mission to Space Station
 - <a href="https://spacenews.com/l3harris-reaffirms-commitment-to-space-business-amid-missile-sector-expansion/" >🔗</a> **[SpaceNews]** L3Harris reaffirms commitment to space business amid missile sector expansion
 - <a href="https://spaceflightnow.com/2026/01/30/cold-weather-delays-earliest-artemis-2-launch-opportunity/" >🔗</a> **[Spaceflight Now]** Cold weather delays earliest Artemis 2 launch opportunity
-- <a href="https://science.nasa.gov/missions/libera/nasa-earth-energy-instrument-completes-testing-ready-for-delivery/" >🔗</a> **[NASA]** NASA Earth Energy Instrument Completes Testing, Ready for Delivery
-- <a href="https://www.nasaspaceflight.com/2026/01/anna-menon-interview/" >🔗</a> **[NASASpaceflight]** Former SpaceX astronaut discusses training as a NASA astronaut candidate
-- <a href="https://spacenews.com/blue-origin-halts-new-shepard-flights/" >🔗</a> **[SpaceNews]** Blue Origin halts New Shepard flights
-- <a href="https://arstechnica.com/space/2026/01/heres-why-blue-origin-just-ended-its-suborbital-space-tourism-program/" >🔗</a> **[Arstechnica]** Here's why Blue Origin just ended its suborbital space tourism program
-- <a href="https://www.nasa.gov/aeronautics/nasa-aims-to-advance-hypersonic-flight-testing-with-new-awards/" >🔗</a> **[NASA]** NASA Aims to Advance Hypersonic Flight Testing with New Awards
-- <a href="https://spacepolicyonline.com/news/artemis-ii-wdr-test-postponed-by-frigid-weather-could-affect-crew-12-launch-date/" >🔗</a> **[SpacePolicyOnline.com]** Artemis II WDR Test Postponed by Frigid Weather, Could Affect Crew-12 Launch Date
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260131T024912">2026-01-31 02:49:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260131T034124">2026-01-31 03:41:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
