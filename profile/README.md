@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-selects-axiom-space-for-fifth-private-mission-to-space-station/" >🔗</a> **[NASA]** NASA Selects Axiom Space for Fifth Private Mission to Space Station
 - <a href="https://spacenews.com/l3harris-reaffirms-commitment-to-space-business-amid-missile-sector-expansion/" >🔗</a> **[SpaceNews]** L3Harris reaffirms commitment to space business amid missile sector expansion
 - <a href="https://spaceflightnow.com/2026/01/30/cold-weather-delays-earliest-artemis-2-launch-opportunity/" >🔗</a> **[Spaceflight Now]** Cold weather delays earliest Artemis 2 launch opportunity
 - <a href="https://science.nasa.gov/missions/libera/nasa-earth-energy-instrument-completes-testing-ready-for-delivery/" >🔗</a> **[NASA]** NASA Earth Energy Instrument Completes Testing, Ready for Delivery
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/aeronautics/nasa-aims-to-advance-hypersonic-flight-testing-with-new-awards/" >🔗</a> **[NASA]** NASA Aims to Advance Hypersonic Flight Testing with New Awards
 - <a href="https://spacepolicyonline.com/news/artemis-ii-wdr-test-postponed-by-frigid-weather-could-affect-crew-12-launch-date/" >🔗</a> **[SpacePolicyOnline.com]** Artemis II WDR Test Postponed by Frigid Weather, Could Affect Crew-12 Launch Date
 - <a href="https://science.nasa.gov/photojournal/visualizing-perseverances-ai-planned-drive-on-mars/" >🔗</a> **[NASA]** Visualizing Perseverance’s AI-Planned Drive on Mars
-- <a href="https://spacenews.com/weather-delays-artemis-2-wet-dress-rehearsal/" >🔗</a> **[SpaceNews]** Weather delays Artemis 2 wet dress rehearsal
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260131T000654">2026-01-31 00:06:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260131T004811">2026-01-31 00:48:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
