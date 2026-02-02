@@ -90,6 +90,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/amazon-buys-10-more-falcon-9-launches/" >🔗</a> **[SpaceNews]** Amazon buys 10 more Falcon 9 launches
+- <a href="https://spacenews.com/starlink-and-the-unravelling-of-digital-sovereignty/" >🔗</a> **[SpaceNews]** Starlink and the unravelling of digital sovereignty
+- <a href="https://spacenews.com/cesiumastro-to-scale-operations-with-450-million-in-equity-and-debt-financing/" >🔗</a> **[SpaceNews]** CesiumAstro to scale operations with $470 million in equity and debt financing
 - <a href="https://spacenews.com/transcelestial-to-provide-satellite-laser-communication-terminals-to-gilmour-space/" >🔗</a> **[SpaceNews]** Transcelestial to provide satellite laser communication terminals to Gilmour Space
 - <a href="https://www.esa.int/About_Us/Careers_at_ESA/Apply_now_to_the_ESA_Graduate_Trainee_Programme" >🔗</a> **[ESA]** Apply now to the ESA Graduate Trainee Programme
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/First_launch_of_Ariane_6_with_four_boosters" >🔗</a> **[ESA]** First launch of Ariane 6 with four boosters
@@ -97,9 +100,6 @@ into *an Unknown
 - <a href="https://spaceflightnow.com/2026/02/01/countdown-underway-for-critical-moon-rocket-fueling-test-monday/" >🔗</a> **[Spaceflight Now]** Countdown underway for critical moon rocket fueling test Monday
 - <a href="https://spacenews.com/saudi-space-agency-announces-winners-of-global-debrisolver-competition-at-space-debris-conference/" >🔗</a> **[SpaceNews]** Saudi Space Agency Announces Winners of Global ‘DebriSolver’ Competition at Space Debris Conference
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-february-1-7-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy February 1-7, 2026
-- <a href="https://spacenews.com/with-attention-on-orbital-data-centers-the-focus-turns-to-economics/" >🔗</a> **[SpaceNews]** With attention on orbital data centers, the focus turns to economics
-- <a href="https://spacenews.com/vardas-w-5-mission-lands-in-australia/" >🔗</a> **[SpaceNews]** Varda’s W-5 mission lands in Australia
-- <a href="https://spacenews.com/spacex-files-plans-for-million-satellite-orbital-data-center-constellation/" >🔗</a> **[SpaceNews]** SpaceX files plans for million-satellite orbital data center constellation
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260202T120435">2026-02-02 12:04:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260202T124448">2026-02-02 12:44:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
