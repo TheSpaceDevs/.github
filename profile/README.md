@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Careers_at_ESA/Apply_now_to_the_ESA_Graduate_Trainee_Programme" >🔗</a> **[ESA]** Apply now to the ESA Graduate Trainee Programme
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/First_launch_of_Ariane_6_with_four_boosters" >🔗</a> **[ESA]** First launch of Ariane 6 with four boosters
 - <a href="https://spaceflightnow.com/2026/02/01/live-coverage-spacex-to-launch-25-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 25 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://spaceflightnow.com/2026/02/01/countdown-underway-for-critical-moon-rocket-fueling-test-monday/" >🔗</a> **[Spaceflight Now]** Countdown underway for critical moon rocket fueling test Monday
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/vardas-w-5-mission-lands-in-australia/" >🔗</a> **[SpaceNews]** Varda’s W-5 mission lands in Australia
 - <a href="https://spacenews.com/spacex-files-plans-for-million-satellite-orbital-data-center-constellation/" >🔗</a> **[SpaceNews]** SpaceX files plans for million-satellite orbital data center constellation
 - <a href="https://spacenews.com/china-launches-alsat-3b-for-algeria-further-launches-delayed-ahead-of-key-human-spaceflight-test/" >🔗</a> **[SpaceNews]** China launches AlSat-3B for Algeria, further launches delayed ahead of key human spaceflight test
-- <a href="https://www.moondaily.com/reports/The_Perception_War_How_Artemis_II_Could_Win_the_Race_Without_Landing_999.html" >🔗</a> **[SpaceDaily]** The Perception War: How Artemis II Could Win the Race Without Landing
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260202T101316">2026-02-02 10:13:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260202T104345">2026-02-02 10:43:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
