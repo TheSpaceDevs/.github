@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/nasas-orion-spacecraft-at-launch-pad/" >🔗</a> **[NASA]** NASA’s Orion Spacecraft at Launch Pad
+- <a href="https://spacenews.com/house-nasa-bill-seeks-details-on-lunar-lander-and-spacesuit-development/" >🔗</a> **[SpaceNews]** House NASA bill seeks details on lunar lander and spacesuit development
 - <a href="https://www.nasa.gov/news-release/nasa-to-discuss-early-results-of-artemis-ii-wet-dress-rehearsal/" >🔗</a> **[NASA]** NASA to Discuss Early Results of Artemis II Wet Dress Rehearsal
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/02/Jammertest_strengthening_satellite_navigation" >🔗</a> **[ESA]** Jammertest: strengthening satellite navigation
 - <a href="https://spacenews.com/amazon-buys-10-more-falcon-9-launches/" >🔗</a> **[SpaceNews]** Amazon buys 10 more Falcon 9 launches
-- <a href="https://spacenews.com/starlink-and-the-unravelling-of-digital-sovereignty/" >🔗</a> **[SpaceNews]** Starlink and the unravelling of digital sovereignty
 - <a href="https://spacenews.com/cesiumastro-to-scale-operations-with-450-million-in-equity-and-debt-financing/" >🔗</a> **[SpaceNews]** CesiumAstro to scale operations with $470 million in equity and debt financing
+- <a href="https://spacenews.com/starlink-and-the-unravelling-of-digital-sovereignty/" >🔗</a> **[SpaceNews]** Starlink and the unravelling of digital sovereignty
 - <a href="https://spacenews.com/transcelestial-to-provide-satellite-laser-communication-terminals-to-gilmour-space/" >🔗</a> **[SpaceNews]** Transcelestial to provide satellite laser communication terminals to Gilmour Space
 - <a href="https://www.esa.int/About_Us/Careers_at_ESA/Apply_now_to_the_ESA_Graduate_Trainee_Programme" >🔗</a> **[ESA]** Apply now to the ESA Graduate Trainee Programme
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/First_launch_of_Ariane_6_with_four_boosters" >🔗</a> **[ESA]** First launch of Ariane 6 with four boosters
-- <a href="https://spaceflightnow.com/2026/02/01/live-coverage-spacex-to-launch-25-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 25 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
-- <a href="https://spaceflightnow.com/2026/02/01/countdown-underway-for-critical-moon-rocket-fueling-test-monday/" >🔗</a> **[Spaceflight Now]** Countdown underway for critical moon rocket fueling test Monday
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260202T171218">2026-02-02 17:12:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260202T174244">2026-02-02 17:42:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
