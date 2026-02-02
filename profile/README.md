@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/02/artemis-ii-wdr-critical-milestone-launch/" >🔗</a> **[NASASpaceflight]** Artemis II Wet Dress Rehearsal, critical milestone to launch
 - <a href="https://www.nasa.gov/image-article/nasas-orion-spacecraft-at-launch-pad/" >🔗</a> **[NASA]** NASA’s Orion Spacecraft at Launch Pad
 - <a href="https://spacenews.com/house-nasa-bill-seeks-details-on-lunar-lander-and-spacesuit-development/" >🔗</a> **[SpaceNews]** House NASA bill seeks details on lunar lander and spacesuit development
 - <a href="https://www.nasa.gov/news-release/nasa-to-discuss-early-results-of-artemis-ii-wet-dress-rehearsal/" >🔗</a> **[NASA]** NASA to Discuss Early Results of Artemis II Wet Dress Rehearsal
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/starlink-and-the-unravelling-of-digital-sovereignty/" >🔗</a> **[SpaceNews]** Starlink and the unravelling of digital sovereignty
 - <a href="https://spacenews.com/transcelestial-to-provide-satellite-laser-communication-terminals-to-gilmour-space/" >🔗</a> **[SpaceNews]** Transcelestial to provide satellite laser communication terminals to Gilmour Space
 - <a href="https://www.esa.int/About_Us/Careers_at_ESA/Apply_now_to_the_ESA_Graduate_Trainee_Programme" >🔗</a> **[ESA]** Apply now to the ESA Graduate Trainee Programme
-- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/First_launch_of_Ariane_6_with_four_boosters" >🔗</a> **[ESA]** First launch of Ariane 6 with four boosters
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260202T180754">2026-02-02 18:07:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260202T184347">2026-02-02 18:43:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
