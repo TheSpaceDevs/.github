@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.spacedaily.com/reports/Musk_merges_xAI_into_SpaceX_in_bid_to_build_space_data_centers_999.html" >🔗</a> **[SpaceDaily]** Musk merges xAI into SpaceX in bid to build space data centers
 - <a href="https://www.spacedaily.com/reports/NASA_conducts_vital_tests_ahead_of_slated_Moon_mission_999.html" >🔗</a> **[SpaceDaily]** NASA conducts vital tests ahead of slated Moon mission
 - <a href="https://www.spacedaily.com/reports/OpenClaws_AI_agent_does_everything_even_social_media_999.html" >🔗</a> **[SpaceDaily]** OpenClaw's AI agent does everything, even social media
-- <a href="https://www.spacedaily.com/reports/Terran_Orbital_to_supply_Nebula_satellite_platform_for_Mitsubishi_Electric_LEO_mission_999.html" >🔗</a> **[SpaceDaily]** Terran Orbital to supply Nebula satellite platform for Mitsubishi Electric LEO mission
-- <a href="https://www.spacedaily.com/reports/Lab_made_cosmic_dust_experiment_reveals_paths_to_life_chemistry_999.html" >🔗</a> **[SpaceDaily]** Lab made cosmic dust experiment reveals paths to life chemistry
-- <a href="https://www.spacedaily.com/reports/NTU_Singapore_boosts_agile_space_access_with_trio_of_new_projects_999.html" >🔗</a> **[SpaceDaily]** NTU Singapore boosts agile space access with trio of new projects
+- <a href="https://www.spacedaily.com/reports/Musk_merges_xAI_into_SpaceX_in_bid_to_build_space_data_centers_999.html" >🔗</a> **[SpaceDaily]** Musk merges xAI into SpaceX in bid to build space data centers
+- <a href="https://www.spacedaily.com/reports/Martian_toxin_found_to_toughen_microbe_built_bricks_999.html" >🔗</a> **[SpaceDaily]** Martian toxin found to toughen microbe built bricks
 - <a href="https://www.spacedaily.com/reports/Dragon_spacecraft_gears_up_for_crew_12_arrival_and_station_science_work_999.html" >🔗</a> **[SpaceDaily]** Dragon spacecraft gears up for crew 12 arrival and station science work
+- <a href="https://www.spacedaily.com/reports/The_Perception_War_How_Artemis_II_Could_Win_the_Race_Without_Landing_999.html" >🔗</a> **[SpaceDaily]** The Perception War: How Artemis II Could Win the Race Without Landing
+- <a href="https://www.spacedaily.com/reports/Perseverance_rover_completes_landmark_AI_guided_trek_across_Jezero_rim_999.html" >🔗</a> **[SpaceDaily]** Perseverance rover completes landmark AI guided trek across Jezero rim
 - <a href="https://www.spacedaily.com/reports/NASAs_IMAP_Begins_Primary_Science_Mission_999.html" >🔗</a> **[SpaceDaily]** NASAs IMAP Begins Primary Science Mission
-- <a href="https://www.spacedaily.com/reports/Lockheed_Martin_delivers_second_lot_Sentinel_A4_radar_to_US_Army_999.html" >🔗</a> **[SpaceDaily]** Lockheed Martin delivers second lot Sentinel A4 radar to US Army
-- <a href="https://www.spacedaily.com/reports/Flat_dark_matter_sheet_solves_local_galaxy_motion_puzzle_999.html" >🔗</a> **[SpaceDaily]** Flat dark matter sheet solves local galaxy motion puzzle
+- <a href="https://www.spacedaily.com/reports/NASA_books_fifth_Axiom_private_astronaut_flight_to_space_station_999.html" >🔗</a> **[SpaceDaily]** NASA books fifth Axiom private astronaut flight to space station
+- <a href="https://www.spacedaily.com/reports/Crew_12_set_for_Dragon_launch_to_Station_in_February_999.html" >🔗</a> **[SpaceDaily]** Crew 12 set for Dragon launch to Station in February
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260203T090910">2026-02-03 09:09:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260203T094328">2026-02-03 09:43:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
