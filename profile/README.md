@@ -93,13 +93,13 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-to-answer-questions-from-students-in-pennsylvania/" >🔗</a> **[NASA]** NASA Astronaut to Answer Questions from Students in Pennsylvania
 - <a href="https://spacenews.com/spacex-acquires-xai-in-bid-to-develop-orbital-data-centers/" >🔗</a> **[SpaceNews]** SpaceX acquires xAI in bid to develop orbital data centers
 - <a href="https://spacenews.com/at-blue-origin-hegseth-escalates-criticism-of-legacy-defense-procurement/" >🔗</a> **[SpaceNews]** At Blue Origin, Hegseth escalates criticism of legacy defense procurement
+- <a href="https://arstechnica.com/ai/2026/02/spacex-acquires-xai-plans-1-million-satellite-constellation-to-power-it/" >🔗</a> **[Arstechnica]** SpaceX acquires xAI, plans to launch a massive satellite constellation to power it
 - <a href="https://arstechnica.com/space/2026/02/spacex-acquires-xai-plans-1-million-satellite-constellation-to-power-it/" >🔗</a> **[Arstechnica]** SpaceX acquires xAI, plans 1 million satellite constellation to power it
 - <a href="https://europeanspaceflight.com/sovereignty-invoked-to-block-e550m-sale-of-eutelsats-ground-infrastructure/" >🔗</a> **[European Spaceflight]** Sovereignty Invoked to Block €550m Sale of Eutelsat’s Ground Infrastructure
 - <a href="https://spacenews.com/uk-space-agency-ceo-stepping-down-as-agency-folds-into-government/" >🔗</a> **[SpaceNews]** UK Space Agency CEO stepping down as agency folds into government
 - <a href="https://www.nasaspaceflight.com/2026/02/artemis-ii-wdr-critical-milestone-launch/" >🔗</a> **[NASASpaceflight]** Artemis II Wet Dress Rehearsal, critical milestone to launch
 - <a href="https://www.nasa.gov/image-article/nasas-orion-spacecraft-at-launch-pad/" >🔗</a> **[NASA]** NASA’s Orion Spacecraft at Launch Pad
 - <a href="https://spacenews.com/house-nasa-bill-seeks-details-on-lunar-lander-and-spacesuit-development/" >🔗</a> **[SpaceNews]** House NASA bill seeks details on lunar lander and spacesuit development
-- <a href="https://www.nasa.gov/news-release/nasa-to-discuss-early-results-of-artemis-ii-wet-dress-rehearsal/" >🔗</a> **[NASA]** NASA to Discuss Early Results of Artemis II Wet Dress Rehearsal
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260203T000806">2026-02-03 00:08:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260203T005335">2026-02-03 00:53:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
