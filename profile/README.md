@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/02/booster-19-masseys-cryogenic-testing/" >🔗</a> **[NASASpaceflight]** Booster 19 Rolls out to Masseys for Cryogenic Proof Testing
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-space-to-soil-challenge/" >🔗</a> **[NASA]** NASA Space to Soil Challenge
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/01/ESA_s_sustainability_ambition" >🔗</a> **[ESA]** ESA's sustainability ambition
 - <a href="https://spacenews.com/flight-heritage-it-isnt-what-you-think/" >🔗</a> **[SpaceNews]** Flight heritage? It isn’t what you think
@@ -97,9 +98,8 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/spacex-pauses-falcon-9-launches-after-upper-stage-anomaly/" >🔗</a> **[SpaceNews]** SpaceX pauses Falcon 9 launches after upper stage anomaly
 - <a href="https://spacenews.com/artemis-2-slips-to-march/" >🔗</a> **[SpaceNews]** Artemis 2 slips to March
 - <a href="https://www.spacewar.com/reports/MDA_Space_and_Hanwha_target_Korean_K_LEO_defense_network_999.html" >🔗</a> **[SpaceDaily]** MDA Space and Hanwha target Korean K-LEO defense network
+- <a href="https://www.spacedaily.com/reports/AI_framework_links_gravitational_waves_and_radio_afterglows_999.html" >🔗</a> **[SpaceDaily]** AI framework links gravitational waves and radio afterglows
 - <a href="https://www.spacedaily.com/reports/Engineered_microbes_use_light_to_build_new_molecules_999.html" >🔗</a> **[SpaceDaily]** Engineered microbes use light to build new molecules
-- <a href="https://www.spacedaily.com/reports/Laser_method_proposed_to_extend_muon_lifetime_for_science_applications_999.html" >🔗</a> **[SpaceDaily]** Laser method proposed to extend muon lifetime for science applications
-- <a href="https://www.spacedaily.com/reports/Smartphone_kit_offers_low_cost_on_site_radiation_dose_checks_999.html" >🔗</a> **[SpaceDaily]** Smartphone kit offers low cost on site radiation dose checks
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260203T161344">2026-02-03 16:13:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260203T164457">2026-02-03 16:44:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
