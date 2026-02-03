@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.nasa.gov/news-release/nasa-astronaut-to-answer-questions-from-students-in-pennsylvania/" >🔗</a> **[NASA]** NASA Astronaut to Answer Questions from Students in Pennsylvania
-- <a href="https://spacenews.com/spacex-acquires-xai-in-bid-to-develop-orbital-data-centers/" >🔗</a> **[SpaceNews]** SpaceX acquires xAI in bid to develop orbital data centers
-- <a href="https://spacenews.com/at-blue-origin-hegseth-escalates-criticism-of-legacy-defense-procurement/" >🔗</a> **[SpaceNews]** At Blue Origin, Hegseth escalates criticism of legacy defense procurement
-- <a href="https://arstechnica.com/ai/2026/02/spacex-acquires-xai-plans-1-million-satellite-constellation-to-power-it/" >🔗</a> **[Arstechnica]** SpaceX acquires xAI, plans to launch a massive satellite constellation to power it
-- <a href="https://arstechnica.com/space/2026/02/spacex-acquires-xai-plans-1-million-satellite-constellation-to-power-it/" >🔗</a> **[Arstechnica]** SpaceX acquires xAI, plans 1 million satellite constellation to power it
-- <a href="https://europeanspaceflight.com/sovereignty-invoked-to-block-e550m-sale-of-eutelsats-ground-infrastructure/" >🔗</a> **[European Spaceflight]** Sovereignty Invoked to Block €550m Sale of Eutelsat’s Ground Infrastructure
-- <a href="https://spacenews.com/uk-space-agency-ceo-stepping-down-as-agency-folds-into-government/" >🔗</a> **[SpaceNews]** UK Space Agency CEO stepping down as agency folds into government
-- <a href="https://www.nasaspaceflight.com/2026/02/artemis-ii-wdr-critical-milestone-launch/" >🔗</a> **[NASASpaceflight]** Artemis II Wet Dress Rehearsal, critical milestone to launch
-- <a href="https://www.nasa.gov/image-article/nasas-orion-spacecraft-at-launch-pad/" >🔗</a> **[NASA]** NASA’s Orion Spacecraft at Launch Pad
-- <a href="https://spacenews.com/house-nasa-bill-seeks-details-on-lunar-lander-and-spacesuit-development/" >🔗</a> **[SpaceNews]** House NASA bill seeks details on lunar lander and spacesuit development
+- <a href="https://www.spacedaily.com/reports/NASA_backs_studies_to_boost_hypersonic_flight_testing_999.html" >🔗</a> **[SpaceDaily]** NASA backs studies to boost hypersonic flight testing
+- <a href="https://www.spacedaily.com/reports/Dragon_spacecraft_gears_up_for_crew_12_arrival_and_station_science_work_999.html" >🔗</a> **[SpaceDaily]** Dragon spacecraft gears up for crew 12 arrival and station science work
+- <a href="https://www.spacedaily.com/reports/Lockheed_Martin_delivers_second_lot_Sentinel_A4_radar_to_US_Army_999.html" >🔗</a> **[SpaceDaily]** Lockheed Martin delivers second lot Sentinel A4 radar to US Army
+- <a href="https://www.spacedaily.com/reports/NASA_books_fifth_Axiom_private_astronaut_flight_to_space_station_999.html" >🔗</a> **[SpaceDaily]** NASA books fifth Axiom private astronaut flight to space station
+- <a href="https://www.spacedaily.com/reports/NASAs_IMAP_Begins_Primary_Science_Mission_999.html" >🔗</a> **[SpaceDaily]** NASAs IMAP Begins Primary Science Mission
+- <a href="https://www.spacedaily.com/reports/Terran_Orbital_to_supply_Nebula_satellite_platform_for_Mitsubishi_Electric_LEO_mission_999.html" >🔗</a> **[SpaceDaily]** Terran Orbital to supply Nebula satellite platform for Mitsubishi Electric LEO mission
+- <a href="https://www.spacedaily.com/reports/Lab_made_cosmic_dust_experiment_reveals_paths_to_life_chemistry_999.html" >🔗</a> **[SpaceDaily]** Lab made cosmic dust experiment reveals paths to life chemistry
+- <a href="https://www.spacedaily.com/reports/Flat_dark_matter_sheet_solves_local_galaxy_motion_puzzle_999.html" >🔗</a> **[SpaceDaily]** Flat dark matter sheet solves local galaxy motion puzzle
+- <a href="https://www.spacedaily.com/reports/NTU_Singapore_boosts_agile_space_access_with_trio_of_new_projects_999.html" >🔗</a> **[SpaceDaily]** NTU Singapore boosts agile space access with trio of new projects
+- <a href="https://www.spacedaily.com/reports/The_Perception_War_How_Artemis_II_Could_Win_the_Race_Without_Landing_999.html" >🔗</a> **[SpaceDaily]** The Perception War: How Artemis II Could Win the Race Without Landing
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260203T034657">2026-02-03 03:46:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260203T043111">2026-02-03 04:31:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
