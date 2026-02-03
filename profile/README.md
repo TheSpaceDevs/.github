@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.spacedaily.com/reports/NASA_conducts_vital_tests_ahead_of_slated_Moon_mission_999.html" >🔗</a> **[SpaceDaily]** NASA conducts vital tests ahead of slated Moon mission
+- <a href="https://www.spacewar.com/reports/Airspan_5G_platform_selected_for_Space_Compass_high_altitude_maritime_network_999.html" >🔗</a> **[SpaceDaily]** Airspan 5G platform selected for Space Compass high altitude maritime network
+- <a href="https://www.spacedaily.com/reports/Gravitational_wave_triad_puts_relativity_under_intense_scrutiny_999.html" >🔗</a> **[SpaceDaily]** Gravitational wave triad puts relativity under intense scrutiny
+- <a href="https://www.spacedaily.com/reports/Engineered_microbes_use_light_to_build_new_molecules_999.html" >🔗</a> **[SpaceDaily]** Engineered microbes use light to build new molecules
+- <a href="https://www.spacedaily.com/reports/Laser_method_proposed_to_extend_muon_lifetime_for_science_applications_999.html" >🔗</a> **[SpaceDaily]** Laser method proposed to extend muon lifetime for science applications
+- <a href="https://www.spacewar.com/reports/MDA_Space_and_Hanwha_target_Korean_K_LEO_defense_network_999.html" >🔗</a> **[SpaceDaily]** MDA Space and Hanwha target Korean K-LEO defense network
+- <a href="https://www.spacedaily.com/reports/AI_framework_links_gravitational_waves_and_radio_afterglows_999.html" >🔗</a> **[SpaceDaily]** AI framework links gravitational waves and radio afterglows
+- <a href="https://www.spacedaily.com/reports/Smartphone_kit_offers_low_cost_on_site_radiation_dose_checks_999.html" >🔗</a> **[SpaceDaily]** Smartphone kit offers low cost on site radiation dose checks
 - <a href="https://www.spacedaily.com/reports/OpenClaws_AI_agent_does_everything_even_social_media_999.html" >🔗</a> **[SpaceDaily]** OpenClaw's AI agent does everything, even social media
+- <a href="https://www.spacedaily.com/reports/NASA_conducts_vital_tests_ahead_of_slated_Moon_mission_999.html" >🔗</a> **[SpaceDaily]** NASA conducts vital tests ahead of slated Moon mission
 - <a href="https://www.spacedaily.com/reports/Musk_merges_xAI_into_SpaceX_in_bid_to_build_space_data_centers_999.html" >🔗</a> **[SpaceDaily]** Musk merges xAI into SpaceX in bid to build space data centers
-- <a href="https://www.spacedaily.com/reports/Martian_toxin_found_to_toughen_microbe_built_bricks_999.html" >🔗</a> **[SpaceDaily]** Martian toxin found to toughen microbe built bricks
-- <a href="https://www.spacedaily.com/reports/Dragon_spacecraft_gears_up_for_crew_12_arrival_and_station_science_work_999.html" >🔗</a> **[SpaceDaily]** Dragon spacecraft gears up for crew 12 arrival and station science work
-- <a href="https://www.spacedaily.com/reports/The_Perception_War_How_Artemis_II_Could_Win_the_Race_Without_Landing_999.html" >🔗</a> **[SpaceDaily]** The Perception War: How Artemis II Could Win the Race Without Landing
-- <a href="https://www.spacedaily.com/reports/Perseverance_rover_completes_landmark_AI_guided_trek_across_Jezero_rim_999.html" >🔗</a> **[SpaceDaily]** Perseverance rover completes landmark AI guided trek across Jezero rim
-- <a href="https://www.spacedaily.com/reports/NASAs_IMAP_Begins_Primary_Science_Mission_999.html" >🔗</a> **[SpaceDaily]** NASAs IMAP Begins Primary Science Mission
-- <a href="https://www.spacedaily.com/reports/NASA_books_fifth_Axiom_private_astronaut_flight_to_space_station_999.html" >🔗</a> **[SpaceDaily]** NASA books fifth Axiom private astronaut flight to space station
-- <a href="https://www.spacedaily.com/reports/Crew_12_set_for_Dragon_launch_to_Station_in_February_999.html" >🔗</a> **[SpaceDaily]** Crew 12 set for Dragon launch to Station in February
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260203T100946">2026-02-03 10:09:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260203T104317">2026-02-03 10:43:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
