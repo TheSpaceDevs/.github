@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacescout.info/2026/02/artemis-ii-delayed-to-march/" >🔗</a> **[Space Scout]** Artemis II Delayed to March
 - <a href="https://europeanspaceflight.com/cnes-to-fill-commercial-launch-facility-vacancy-left-by-maiaspace/" >🔗</a> **[European Spaceflight]** CNES to Fill Commercial Launch Facility Vacancy Left by MaiaSpace
 - <a href="https://www.nasa.gov/image-article/full-moon-over-artemis-ii/" >🔗</a> **[NASA]** Full Moon over Artemis II
 - <a href="https://www.nasaspaceflight.com/2026/02/booster-19-masseys-cryogenic-testing/" >🔗</a> **[NASASpaceflight]** Booster 19 Rolls out to Masseys for Cryogenic Proof Testing
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/nasa-will-wait-until-march-for-artemis-ii/" >🔗</a> **[SpacePolicyOnline.com]** NASA Will Wait Until March for Artemis II
 - <a href="https://spacenews.com/spacex-pauses-falcon-9-launches-after-upper-stage-anomaly/" >🔗</a> **[SpaceNews]** SpaceX pauses Falcon 9 launches after upper stage anomaly
 - <a href="https://spacenews.com/artemis-2-slips-to-march/" >🔗</a> **[SpaceNews]** Artemis 2 slips to March
-- <a href="https://www.spacewar.com/reports/MDA_Space_and_Hanwha_target_Korean_K_LEO_defense_network_999.html" >🔗</a> **[SpaceDaily]** MDA Space and Hanwha target Korean K-LEO defense network
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260203T200626">2026-02-03 20:06:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260203T204301">2026-02-03 20:43:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
