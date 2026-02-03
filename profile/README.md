@@ -90,15 +90,15 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.spacewar.com/reports/Airspan_5G_platform_selected_for_Space_Compass_high_altitude_maritime_network_999.html" >🔗</a> **[SpaceDaily]** Airspan 5G platform selected for Space Compass high altitude maritime network
-- <a href="https://www.spacedaily.com/reports/Gravitational_wave_triad_puts_relativity_under_intense_scrutiny_999.html" >🔗</a> **[SpaceDaily]** Gravitational wave triad puts relativity under intense scrutiny
-- <a href="https://www.spacedaily.com/reports/Engineered_microbes_use_light_to_build_new_molecules_999.html" >🔗</a> **[SpaceDaily]** Engineered microbes use light to build new molecules
-- <a href="https://www.spacedaily.com/reports/Laser_method_proposed_to_extend_muon_lifetime_for_science_applications_999.html" >🔗</a> **[SpaceDaily]** Laser method proposed to extend muon lifetime for science applications
-- <a href="https://www.spacewar.com/reports/MDA_Space_and_Hanwha_target_Korean_K_LEO_defense_network_999.html" >🔗</a> **[SpaceDaily]** MDA Space and Hanwha target Korean K-LEO defense network
-- <a href="https://www.spacedaily.com/reports/AI_framework_links_gravitational_waves_and_radio_afterglows_999.html" >🔗</a> **[SpaceDaily]** AI framework links gravitational waves and radio afterglows
+- <a href="https://spacenews.com/spacex-pauses-falcon-9-launches-after-upper-stage-anomaly/" >🔗</a> **[SpaceNews]** SpaceX pauses Falcon 9 launches after upper stage anomaly
+- <a href="https://spacenews.com/artemis-2-slips-to-march/" >🔗</a> **[SpaceNews]** Artemis 2 slips to March
 - <a href="https://www.spacedaily.com/reports/Smartphone_kit_offers_low_cost_on_site_radiation_dose_checks_999.html" >🔗</a> **[SpaceDaily]** Smartphone kit offers low cost on site radiation dose checks
-- <a href="https://www.spacedaily.com/reports/OpenClaws_AI_agent_does_everything_even_social_media_999.html" >🔗</a> **[SpaceDaily]** OpenClaw's AI agent does everything, even social media
-- <a href="https://www.spacedaily.com/reports/NASA_conducts_vital_tests_ahead_of_slated_Moon_mission_999.html" >🔗</a> **[SpaceDaily]** NASA conducts vital tests ahead of slated Moon mission
+- <a href="https://www.spacedaily.com/reports/Gravitational_wave_triad_puts_relativity_under_intense_scrutiny_999.html" >🔗</a> **[SpaceDaily]** Gravitational wave triad puts relativity under intense scrutiny
+- <a href="https://www.spacedaily.com/reports/AI_framework_links_gravitational_waves_and_radio_afterglows_999.html" >🔗</a> **[SpaceDaily]** AI framework links gravitational waves and radio afterglows
+- <a href="https://www.spacedaily.com/reports/Laser_method_proposed_to_extend_muon_lifetime_for_science_applications_999.html" >🔗</a> **[SpaceDaily]** Laser method proposed to extend muon lifetime for science applications
+- <a href="https://www.spacewar.com/reports/Airspan_5G_platform_selected_for_Space_Compass_high_altitude_maritime_network_999.html" >🔗</a> **[SpaceDaily]** Airspan 5G platform selected for Space Compass high altitude maritime network
+- <a href="https://www.spacedaily.com/reports/Engineered_microbes_use_light_to_build_new_molecules_999.html" >🔗</a> **[SpaceDaily]** Engineered microbes use light to build new molecules
+- <a href="https://www.spacewar.com/reports/MDA_Space_and_Hanwha_target_Korean_K_LEO_defense_network_999.html" >🔗</a> **[SpaceDaily]** MDA Space and Hanwha target Korean K-LEO defense network
 - <a href="https://www.spacedaily.com/reports/Musk_merges_xAI_into_SpaceX_in_bid_to_build_space_data_centers_999.html" >🔗</a> **[SpaceDaily]** Musk merges xAI into SpaceX in bid to build space data centers
 
 
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260203T120510">2026-02-03 12:05:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260203T124456">2026-02-03 12:44:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
