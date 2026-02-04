@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Explore_Mars_s_Flaugergues_Crater" >🔗</a> **[ESA]** Explore Mars’s Flaugergues Crater
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2021/02/Fast_download_speeds_for_European_science_in_space_five_years_on" >🔗</a> **[ESA]** Fast download speeds for European science in space, five years on
 - <a href="https://science.nasa.gov/earth/earth-observatory/chilled-new-york-city/" >🔗</a> **[NASA]** Chilled New York City
 - <a href="https://spacenews.com/nasa-examining-hydrogen-leaks-during-artemis-2-fueling-test/" >🔗</a> **[SpaceNews]** NASA examining hydrogen leaks during Artemis 2 fueling test
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/full-moon-over-artemis-ii/" >🔗</a> **[NASA]** Full Moon over Artemis II
 - <a href="https://www.nasaspaceflight.com/2026/02/booster-19-masseys-cryogenic-testing/" >🔗</a> **[NASASpaceflight]** Booster 19 Rolls out to Masseys for Cryogenic Proof Testing
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-space-to-soil-challenge/" >🔗</a> **[NASA]** NASA Space to Soil Challenge
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/01/ESA_s_sustainability_ambition" >🔗</a> **[ESA]** ESA's sustainability ambition
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260204T101110">2026-02-04 10:11:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260204T104302">2026-02-04 10:43:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
