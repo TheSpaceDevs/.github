@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/final-fy2026-defense-faa-bills-signed-into-law/" >🔗</a> **[SpacePolicyOnline.com]** Final FY2026 Defense, FAA Bills Signed into Law
 - <a href="https://www.spacescout.info/2026/02/artemis-ii-delayed-to-march/" >🔗</a> **[Space Scout]** Artemis II Delayed to March
 - <a href="https://europeanspaceflight.com/cnes-to-fill-commercial-launch-facility-vacancy-left-by-maiaspace/" >🔗</a> **[European Spaceflight]** CNES to Fill Commercial Launch Facility Vacancy Left by MaiaSpace
 - <a href="https://www.nasa.gov/image-article/full-moon-over-artemis-ii/" >🔗</a> **[NASA]** Full Moon over Artemis II
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/flight-heritage-it-isnt-what-you-think/" >🔗</a> **[SpaceNews]** Flight heritage? It isn’t what you think
 - <a href="https://spacepolicyonline.com/news/nasa-will-wait-until-march-for-artemis-ii/" >🔗</a> **[SpacePolicyOnline.com]** NASA Will Wait Until March for Artemis II
 - <a href="https://spacenews.com/spacex-pauses-falcon-9-launches-after-upper-stage-anomaly/" >🔗</a> **[SpaceNews]** SpaceX pauses Falcon 9 launches after upper stage anomaly
-- <a href="https://spacenews.com/artemis-2-slips-to-march/" >🔗</a> **[SpaceNews]** Artemis 2 slips to March
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260204T000614">2026-02-04 00:06:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260204T004929">2026-02-04 00:49:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
