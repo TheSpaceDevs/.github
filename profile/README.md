@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2021/02/Fast_download_speeds_for_European_science_in_space_five_years_on" >🔗</a> **[ESA]** Fast download speeds for European science in space, five years on
 - <a href="https://science.nasa.gov/earth/earth-observatory/chilled-new-york-city/" >🔗</a> **[NASA]** Chilled New York City
 - <a href="https://spacenews.com/nasa-examining-hydrogen-leaks-during-artemis-2-fueling-test/" >🔗</a> **[SpaceNews]** NASA examining hydrogen leaks during Artemis 2 fueling test
 - <a href="https://spacepolicyonline.com/news/final-fy2026-defense-faa-bills-signed-into-law/" >🔗</a> **[SpacePolicyOnline.com]** Final FY2026 Defense, FAA Bills Signed into Law
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2026/02/booster-19-masseys-cryogenic-testing/" >🔗</a> **[NASASpaceflight]** Booster 19 Rolls out to Masseys for Cryogenic Proof Testing
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-space-to-soil-challenge/" >🔗</a> **[NASA]** NASA Space to Soil Challenge
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/01/ESA_s_sustainability_ambition" >🔗</a> **[ESA]** ESA's sustainability ambition
-- <a href="https://spacenews.com/flight-heritage-it-isnt-what-you-think/" >🔗</a> **[SpaceNews]** Flight heritage? It isn’t what you think
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260204T091129">2026-02-04 09:11:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260204T094339">2026-02-04 09:43:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
