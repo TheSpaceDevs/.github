@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Explore_Mars_s_Flaugergues_Crater" >🔗</a> **[ESA]** Explore Mars’s Flaugergues Crater
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2021/02/Fast_download_speeds_for_European_science_in_space_five_years_on" >🔗</a> **[ESA]** Fast download speeds for European science in space, five years on
-- <a href="https://science.nasa.gov/earth/earth-observatory/chilled-new-york-city/" >🔗</a> **[NASA]** Chilled New York City
-- <a href="https://spacenews.com/nasa-examining-hydrogen-leaks-during-artemis-2-fueling-test/" >🔗</a> **[SpaceNews]** NASA examining hydrogen leaks during Artemis 2 fueling test
-- <a href="https://spacepolicyonline.com/news/final-fy2026-defense-faa-bills-signed-into-law/" >🔗</a> **[SpacePolicyOnline.com]** Final FY2026 Defense, FAA Bills Signed into Law
-- <a href="https://www.spacescout.info/2026/02/artemis-ii-delayed-to-march/" >🔗</a> **[Space Scout]** Artemis II Delayed to March
-- <a href="https://europeanspaceflight.com/cnes-to-fill-commercial-launch-facility-vacancy-left-by-maiaspace/" >🔗</a> **[European Spaceflight]** CNES to Fill Commercial Launch Facility Vacancy Left by MaiaSpace
-- <a href="https://www.nasa.gov/image-article/full-moon-over-artemis-ii/" >🔗</a> **[NASA]** Full Moon over Artemis II
-- <a href="https://www.nasaspaceflight.com/2026/02/booster-19-masseys-cryogenic-testing/" >🔗</a> **[NASASpaceflight]** Booster 19 Rolls out to Masseys for Cryogenic Proof Testing
-- <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-space-to-soil-challenge/" >🔗</a> **[NASA]** NASA Space to Soil Challenge
+- <a href="https://www.spacewar.com/reports/Stacked_metasurfaces_use_light_and_spacing_to_lock_holographic_data_999.html" >🔗</a> **[SpaceDaily]** Stacked metasurfaces use light and spacing to lock holographic data
+- <a href="https://www.spacedaily.com/reports/Experts_warn_of_urgent_need_to_address_human_reproduction_risks_in_space_999.html" >🔗</a> **[SpaceDaily]** Experts warn of urgent need to address human reproduction risks in space
+- <a href="https://www.spacedaily.com/reports/ESA_adjusts_Cluster_orbits_for_rare_twin_reentry_campaign_999.html" >🔗</a> **[SpaceDaily]** ESA adjusts Cluster orbits for rare twin reentry campaign
+- <a href="https://www.spacedaily.com/reports/Exploding_primordial_black_hole_model_may_link_extreme_neutrino_and_dark_matter_999.html" >🔗</a> **[SpaceDaily]** Exploding primordial black hole model may link extreme neutrino and dark matter
+- <a href="https://www.spacedaily.com/reports/ExLabs_taps_SpacePilot_autonomy_for_Apophis_asteroid_mission_999.html" >🔗</a> **[SpaceDaily]** ExLabs taps SpacePilot autonomy for Apophis asteroid mission
+- <a href="https://www.spacedaily.com/reports/Muon_Space_ramps_up_multi_mission_satellite_constellations_999.html" >🔗</a> **[SpaceDaily]** Muon Space ramps up multi-mission satellite constellations
+- <a href="https://www.spacedaily.com/reports/Jupiter_size_refined_by_new_radio_mapping_999.html" >🔗</a> **[SpaceDaily]** Jupiter size refined by new radio mapping
+- <a href="https://www.spacedaily.com/reports/Voyager_outlines_infrastructure_led_roadmap_for_long_term_US_lunar_presence_999.html" >🔗</a> **[SpaceDaily]** Voyager outlines infrastructure-led roadmap for long-term US lunar presence
+- <a href="https://www.spacedaily.com/reports/Lunar_soil_test_chamber_paves_way_for_future_moon_construction_999.html" >🔗</a> **[SpaceDaily]** Lunar soil test chamber paves way for future moon construction
+- <a href="https://www.spacedaily.com/reports/Global_partners_advance_plans_to_harden_submarine_cable_networks_999.html" >🔗</a> **[SpaceDaily]** Global partners advance plans to harden submarine cable networks
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260204T120444">2026-02-04 12:04:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260204T124451">2026-02-04 12:44:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
