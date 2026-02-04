@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-examining-hydrogen-leaks-during-artemis-2-fueling-test/" >🔗</a> **[SpaceNews]** NASA examining hydrogen leaks during Artemis 2 fueling test
 - <a href="https://spacepolicyonline.com/news/final-fy2026-defense-faa-bills-signed-into-law/" >🔗</a> **[SpacePolicyOnline.com]** Final FY2026 Defense, FAA Bills Signed into Law
 - <a href="https://www.spacescout.info/2026/02/artemis-ii-delayed-to-march/" >🔗</a> **[Space Scout]** Artemis II Delayed to March
 - <a href="https://europeanspaceflight.com/cnes-to-fill-commercial-launch-facility-vacancy-left-by-maiaspace/" >🔗</a> **[European Spaceflight]** CNES to Fill Commercial Launch Facility Vacancy Left by MaiaSpace
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/01/ESA_s_sustainability_ambition" >🔗</a> **[ESA]** ESA's sustainability ambition
 - <a href="https://spacenews.com/flight-heritage-it-isnt-what-you-think/" >🔗</a> **[SpaceNews]** Flight heritage? It isn’t what you think
 - <a href="https://spacepolicyonline.com/news/nasa-will-wait-until-march-for-artemis-ii/" >🔗</a> **[SpacePolicyOnline.com]** NASA Will Wait Until March for Artemis II
-- <a href="https://spacenews.com/spacex-pauses-falcon-9-launches-after-upper-stage-anomaly/" >🔗</a> **[SpaceNews]** SpaceX pauses Falcon 9 launches after upper stage anomaly
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260204T013030">2026-02-04 01:30:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260204T025320">2026-02-04 02:53:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
