@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/silicon-as-strategy-the-hidden-battleground-of-the-new-space-race/" >🔗</a> **[SpaceNews]** Silicon as strategy: the hidden battleground of the new space race
+- <a href="https://science.nasa.gov/missions/landsat/nasa-scientist-explains-how-glaciers-flow-with-the-seasons/" >🔗</a> **[NASA]** Tracking Glacial Change with Landsat and Radar
+- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Future_space_transportation/Rocket_ignition_that_resonates" >🔗</a> **[ESA]** Rocket ignition that resonates
 - <a href="https://www.nasaspaceflight.com/2026/02/artemis-ii-wdr-resolutions-in-work-ahead-of-march-target/" >🔗</a> **[NASASpaceflight]** Artemis II: WDR resolutions in work ahead of March target
+- <a href="https://www.nasaspaceflight.com/2026/02/artemis-ii-wdr-resolutions-march-target/" >🔗</a> **[NASASpaceflight]** Artemis II: WDR resolutions in work ahead of March target
+- <a href="https://www.spacedaily.com/reports/Muon_Space_ramps_up_multi_mission_satellite_constellations_999.html" >🔗</a> **[SpaceDaily]** Muon Space ramps up multi-mission satellite constellations
 - <a href="https://www.spacedaily.com/reports/Experts_warn_of_urgent_need_to_address_human_reproduction_risks_in_space_999.html" >🔗</a> **[SpaceDaily]** Experts warn of urgent need to address human reproduction risks in space
 - <a href="https://www.spacedaily.com/reports/Jupiter_size_refined_by_new_radio_mapping_999.html" >🔗</a> **[SpaceDaily]** Jupiter size refined by new radio mapping
 - <a href="https://www.spacedaily.com/reports/Exploding_primordial_black_hole_model_may_link_extreme_neutrino_and_dark_matter_999.html" >🔗</a> **[SpaceDaily]** Exploding primordial black hole model may link extreme neutrino and dark matter
 - <a href="https://www.spacedaily.com/reports/ExLabs_taps_SpacePilot_autonomy_for_Apophis_asteroid_mission_999.html" >🔗</a> **[SpaceDaily]** ExLabs taps SpacePilot autonomy for Apophis asteroid mission
-- <a href="https://www.spacedaily.com/reports/Muon_Space_ramps_up_multi_mission_satellite_constellations_999.html" >🔗</a> **[SpaceDaily]** Muon Space ramps up multi-mission satellite constellations
-- <a href="https://www.spacedaily.com/reports/ESA_adjusts_Cluster_orbits_for_rare_twin_reentry_campaign_999.html" >🔗</a> **[SpaceDaily]** ESA adjusts Cluster orbits for rare twin reentry campaign
-- <a href="https://www.spacedaily.com/reports/Voyager_outlines_infrastructure_led_roadmap_for_long_term_US_lunar_presence_999.html" >🔗</a> **[SpaceDaily]** Voyager outlines infrastructure-led roadmap for long-term US lunar presence
-- <a href="https://www.spacedaily.com/reports/Lunar_soil_test_chamber_paves_way_for_future_moon_construction_999.html" >🔗</a> **[SpaceDaily]** Lunar soil test chamber paves way for future moon construction
-- <a href="https://www.spacewar.com/reports/Stacked_metasurfaces_use_light_and_spacing_to_lock_holographic_data_999.html" >🔗</a> **[SpaceDaily]** Stacked metasurfaces use light and spacing to lock holographic data
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260204T134952">2026-02-04 13:49:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260204T141341">2026-02-04 14:13:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
