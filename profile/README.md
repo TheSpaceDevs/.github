@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-armstrong-contributions-propel-artemis-deep-space-innovation/" >🔗</a> **[NASA]** NASA Armstrong Contributions Propel Artemis, Deep Space Innovation
 - <a href="https://www.nasa.gov/image-article/nasa-heat-shield-tech-contributes-to-americas-space-industry/" >🔗</a> **[NASA]** NASA Heat Shield Tech Contributes to America’s Space Industry
+- <a href="https://science.nasa.gov/photojournal/nasas-spherex-examines-comet-3i-atlass-coma/" >🔗</a> **[NASA]** NASA’s SPHEREx Examines Comet 3I/ATLAS’s Coma
 - <a href="https://www.spacewar.com/reports/Space_Force_stands_up_SPACEFOR_NORTH_for_homeland_mission_999.html" >🔗</a> **[SpaceDaily]** Space Force stands up SPACEFOR-NORTH for homeland mission
-- <a href="https://www.spacedaily.com/reports/NASA_Libera_payload_completes_testing_for_future_Earth_energy_tracking_mission_999.html" >🔗</a> **[SpaceDaily]** NASA Libera payload completes testing for future Earth energy tracking mission
-- <a href="https://www.spacedaily.com/reports/NISAR_radar_view_maps_surface_changes_in_Mississippi_Delta_999.html" >🔗</a> **[SpaceDaily]** NISAR radar view maps surface changes in Mississippi Delta
 - <a href="https://www.spacewar.com/reports/Lockheed_ramps_up_THAAD_interceptor_output_with_new_framework_deal_and_Camden_facility_999.html" >🔗</a> **[SpaceDaily]** Lockheed ramps up THAAD interceptor output with new framework deal and Camden facility
 - <a href="https://www.spacewar.com/reports/KSAT_rolls_out_AI_driven_maritime_monitoring_platform_999.html" >🔗</a> **[SpaceDaily]** KSAT rolls out AI driven maritime monitoring platform
-- <a href="https://www.spacewar.com/reports/DARPA_taps_Raytheon_for_new_maritime_defense_system_999.html" >🔗</a> **[SpaceDaily]** DARPA taps Raytheon for new maritime defense system
+- <a href="https://www.spacedaily.com/reports/NISAR_radar_view_maps_surface_changes_in_Mississippi_Delta_999.html" >🔗</a> **[SpaceDaily]** NISAR radar view maps surface changes in Mississippi Delta
 - <a href="https://www.spacedaily.com/reports/SpaceX_grounds_Falcon_9_missions_could_impact_ISS_launch_999.html" >🔗</a> **[SpaceDaily]** SpaceX grounds Falcon 9 missions, could impact ISS launch
 - <a href="https://www.spacedaily.com/reports/NASA_Moon_mission_launch_delayed_to_March_after_test_999.html" >🔗</a> **[SpaceDaily]** NASA Moon mission launch srubbed to March after test
-- <a href="https://www.spacedaily.com/reports/Rock_microbes_reveal_hidden_groundwater_carbon_engine_999.html" >🔗</a> **[SpaceDaily]** Rock microbes reveal hidden groundwater carbon engine
+- <a href="https://www.spacedaily.com/reports/NASA_Libera_payload_completes_testing_for_future_Earth_energy_tracking_mission_999.html" >🔗</a> **[SpaceDaily]** NASA Libera payload completes testing for future Earth energy tracking mission
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260204T164413">2026-02-04 16:44:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260204T171427">2026-02-04 17:14:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
