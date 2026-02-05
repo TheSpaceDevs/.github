@@ -54,7 +54,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260212T164500">2026-02-12 16:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ariane 64 | Amazon Leo (LE-01)&location=Guiana Space Centre, French Guiana&dates=20260212T164500Z%2F20260212T171300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ariane 64 | Amazon Leo (LE-01)** from Guiana Space Centre, French Guiana.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260214T005000">2026-02-14 00:50:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Firefly Alpha | Stairway to Seven&location=Vandenberg SFB, CA, USA&dates=20260214T005000Z%2F20260214T045800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Firefly Alpha | Stairway to Seven** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260214T050000">2026-02-14 05:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-103&location=Cape Canaveral SFS, FL, USA&dates=20260214T050000Z%2F20260214T081700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-103** from Cape Canaveral SFS, FL, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260215T080000">2026-02-15 08:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-13&location=Vandenberg SFB, CA, USA&dates=20260215T080000Z%2F20260215T120000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-13** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260214T220000">2026-02-14 22:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-13&location=Vandenberg SFB, CA, USA&dates=20260214T220000Z%2F20260215T020000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-13** from Vandenberg SFB, CA, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/house-committee-advances-nasa-authorization-bill/" >🔗</a> **[SpaceNews]** House committee advances NASA authorization bill
+- <a href="https://spacenews.com/viridian-inks-cooperative-agreement-with-air-force-research-laboratory/" >🔗</a> **[SpaceNews]** Viridian inks cooperative agreement with Air Force Research Laboratory
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4788-4797-welcome-back-from-conjunction/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4788-4797: Welcome Back from Conjunction
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-university-of-texas-expand-research-and-workforce-development/" >🔗</a> **[NASA]** NASA, University of Texas Expand Research and Workforce Development
 - <a href="https://arstechnica.com/space/2026/02/us-house-takes-first-step-toward-creating-commercial-deep-space-program/" >🔗</a> **[Arstechnica]** US House takes first step toward creating "commercial" deep space program
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/nesc/evaluation-of-adhesive-and-solvent-alternatives-for-polymericbonding-applications/" >🔗</a> **[NASA]** Evaluation of Adhesive and Solvent Alternatives for PolymericBonding Applications
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-armstrong-contributions-propel-artemis-deep-space-innovation/" >🔗</a> **[NASA]** NASA Armstrong Contributions Propel Artemis, Deep Space Innovation
 - <a href="https://www.nasa.gov/image-article/nasa-heat-shield-tech-contributes-to-americas-space-industry/" >🔗</a> **[NASA]** NASA Heat Shield Tech Contributes to America’s Space Industry
-- <a href="https://science.nasa.gov/photojournal/nasas-spherex-examines-comet-3i-atlass-coma/" >🔗</a> **[NASA]** NASA’s SPHEREx Examines Comet 3I/ATLAS’s Coma
-- <a href="https://www.spacewar.com/reports/KSAT_rolls_out_AI_driven_maritime_monitoring_platform_999.html" >🔗</a> **[SpaceDaily]** KSAT rolls out AI driven maritime monitoring platform
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260205T000804">2026-02-05 00:08:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260205T005306">2026-02-05 00:53:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
