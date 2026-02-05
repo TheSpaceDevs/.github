@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-selects-two-earth-system-explorers-missions/" >🔗</a> **[NASA]** NASA Selects Two Earth System Explorers Missions
 - <a href="https://www.nasa.gov/learning-resources/career-spotlight-welder-ages-14-18/" >🔗</a> **[NASA]** Career Spotlight: Welder (Ages 14-18)
 - <a href="https://www.nasa.gov/humans-in-space/nasas-spacex-crew-12-to-study-adaptation-to-altered-gravity/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-12 to Study Adaptation to Altered Gravity
 - <a href="https://www.nasaspaceflight.com/2026/02/china-roundup-020526/" >🔗</a> **[NASASpaceflight]** Despite initial setbacks, Chinese spaceflight expected to see exciting 2026
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2026/02/nasa-will-finally-allow-astronauts-to-bring-their-iphones-to-space/" >🔗</a> **[Arstechnica]** NASA will finally allow astronauts to bring their iPhones to space
 - <a href="https://spacenews.com/deep-space-and-dim-objects-why-the-space-force-cares-about-asteroids/" >🔗</a> **[SpaceNews]** Deep space, dim objects: Why asteroid mining caught the Space Force’s eye
 - <a href="https://europeanspaceflight.com/the-exploration-company-completes-nyx-splashdown-tests/" >🔗</a> **[European Spaceflight]** The Exploration Company Completes Nyx Splashdown Tests
-- <a href="https://spacenews.com/satellite-servicing-startup-starfish-taps-quindar-for-mission-operations-software/" >🔗</a> **[SpaceNews]** Satellite servicing startup Starfish taps Quindar for mission operations software
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260205T210541">2026-02-05 21:05:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260205T214037">2026-02-05 21:40:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
