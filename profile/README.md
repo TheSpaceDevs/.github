@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Applications/Satellite_navigation/Three_ways_R_D_has_shaped_Galileo_Second_Generation" >🔗</a> **[ESA]** Three ways R&D has shaped Galileo Second Generation
 - <a href="https://science.nasa.gov/earth/earth-observatory/milano-cortina-2026/" >🔗</a> **[NASA]** Milano Cortina 2026
 - <a href="https://spacepolicyonline.com/news/house-committee-approves-new-nasa-authorization-bill/" >🔗</a> **[SpacePolicyOnline.com]** House Committee Approves New NASA Authorization Bill
 - <a href="https://spacenews.com/house-committee-advances-nasa-authorization-bill/" >🔗</a> **[SpaceNews]** House committee advances NASA authorization bill
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2026/02/us-house-takes-first-step-toward-creating-commercial-deep-space-program/" >🔗</a> **[Arstechnica]** US House takes first step toward creating "commercial" deep space program
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-nation-erin-edwards-deputy-branch-chief-for-crew-operations-and-capsule-communicator/" >🔗</a> **[NASA]** Station Nation: Erin Edwards, Deputy Branch Chief for Crew Operations and Capsule Communicator
 - <a href="https://www.nasaspaceflight.com/2026/02/ng-bamm2920-test/" >🔗</a> **[NASASpaceflight]** Northrop Grumman tests second solid motor developed under 2025 SMART program
-- <a href="https://www.nasa.gov/centers-and-facilities/nesc/evaluation-of-adhesive-and-solvent-alternatives-for-polymericbonding-applications/" >🔗</a> **[NASA]** Evaluation of Adhesive and Solvent Alternatives for PolymericBonding Applications
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260205T091251">2026-02-05 09:12:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260205T094401">2026-02-05 09:44:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
