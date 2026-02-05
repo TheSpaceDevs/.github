@@ -91,15 +91,15 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://spacenews.com/deep-space-and-dim-objects-why-the-space-force-cares-about-asteroids/" >🔗</a> **[SpaceNews]** Deep space, dim objects: Why asteroid mining caught the Space Force’s eye
+- <a href="https://europeanspaceflight.com/the-exploration-company-completes-nyx-splashdown-tests/" >🔗</a> **[European Spaceflight]** The Exploration Company Completes Nyx Splashdown Tests
 - <a href="https://spacenews.com/satellite-servicing-startup-starfish-taps-quindar-for-mission-operations-software/" >🔗</a> **[SpaceNews]** Satellite servicing startup Starfish taps Quindar for mission operations software
 - <a href="https://spacenews.com/voyager-technologies-and-max-space-partner-on-lunar-infrastructure/" >🔗</a> **[SpaceNews]** Voyager Technologies and Max Space partner on lunar infrastructure
 - <a href="https://www.spacedaily.com/reports/Survey_of_80_near_Earth_asteroids_sharpens_view_of_their_origins_and_risks_999.html" >🔗</a> **[SpaceDaily]** Survey of 80 near Earth asteroids sharpens view of their origins and risks
-- <a href="https://www.spacedaily.com/reports/Study_maps_thousands_of_non_native_plants_that_could_colonize_Arctic_999.html" >🔗</a> **[SpaceDaily]** Study maps thousands of non native plants that could colonize Arctic
 - <a href="https://www.spacedaily.com/reports/Ancient_lungfish_fossils_refine_early_vertebrate_story_999.html" >🔗</a> **[SpaceDaily]** Ancient lungfish fossils refine early vertebrate story
+- <a href="https://www.spacedaily.com/reports/Study_maps_thousands_of_non_native_plants_that_could_colonize_Arctic_999.html" >🔗</a> **[SpaceDaily]** Study maps thousands of non native plants that could colonize Arctic
 - <a href="https://www.spacedaily.com/reports/Einstein_effect_clears_planets_from_tight_double_star_systems_999.html" >🔗</a> **[SpaceDaily]** Einstein effect clears planets from tight double star systems
-- <a href="https://www.spacedaily.com/reports/BlackSky_expands_Gen_3_Assured_deals_with_new_defense_customer_999.html" >🔗</a> **[SpaceDaily]** BlackSky expands Gen 3 Assured deals with new defense customer
 - <a href="https://www.spacedaily.com/reports/Why_Modern_Game_Engines_Struggle_with_Real_Interstellar_Combat_Physics_999.html" >🔗</a> **[SpaceDaily]** Why Modern Game Engines Struggle with Real Interstellar Combat Physics
-- <a href="https://spacenews.com/fcc-clears-logos-to-deploy-more-than-4000-broadband-satellites/" >🔗</a> **[SpaceNews]** FCC clears Logos to deploy more than 4,000 broadband satellites
+- <a href="https://www.spacedaily.com/reports/BlackSky_expands_Gen_3_Assured_deals_with_new_defense_customer_999.html" >🔗</a> **[SpaceDaily]** BlackSky expands Gen 3 Assured deals with new defense customer
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260205T151229">2026-02-05 15:12:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260205T154316">2026-02-05 15:43:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
