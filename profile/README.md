@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-may-be-done-with-r-gps-but-congress-isnt/" >🔗</a> **[SpaceNews]** Space Force may be done with R-GPS, but Congress isn’t
+- <a href="https://spacenews.com/morpheus-raises-15-million-in-series-a-round/" >🔗</a> **[SpaceNews]** Morpheus raises $15 million in Series A+ round
 - <a href="https://spacenews.com/vantor-wins-5-3-million-nga-contract-to-spot-terrain-changes-using-commercial-satellite-data/" >🔗</a> **[SpaceNews]** Vantor wins $5.3 million NGA contract to spot terrain changes using commercial satellite data
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Three_ways_R_D_has_shaped_Galileo_Second_Generation" >🔗</a> **[ESA]** Three ways R&D has shaped Galileo Second Generation
 - <a href="https://science.nasa.gov/earth/earth-observatory/milano-cortina-2026/" >🔗</a> **[NASA]** Milano Cortina 2026
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/viridian-inks-cooperative-agreement-with-air-force-research-laboratory/" >🔗</a> **[SpaceNews]** Viridian inks cooperative agreement with Air Force Research Laboratory
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4788-4797-welcome-back-from-conjunction/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4788-4797: Welcome Back from Conjunction
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-university-of-texas-expand-research-and-workforce-development/" >🔗</a> **[NASA]** NASA, University of Texas Expand Research and Workforce Development
-- <a href="https://arstechnica.com/space/2026/02/us-house-takes-first-step-toward-creating-commercial-deep-space-program/" >🔗</a> **[Arstechnica]** US House takes first step toward creating "commercial" deep space program
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-nation-erin-edwards-deputy-branch-chief-for-crew-operations-and-capsule-communicator/" >🔗</a> **[NASA]** Station Nation: Erin Edwards, Deputy Branch Chief for Crew Operations and Capsule Communicator
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260205T120558">2026-02-05 12:05:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260205T124454">2026-02-05 12:44:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
