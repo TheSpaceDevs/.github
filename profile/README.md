@@ -89,16 +89,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/humans-in-space/nasas-spacex-crew-12-to-study-adaptation-to-altered-gravity/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-12 to Study Adaptation to Altered Gravity
+- <a href="https://www.nasaspaceflight.com/2026/02/china-roundup-020526/" >🔗</a> **[NASASpaceflight]** Despite initial setbacks, Chinese spaceflight expected to see exciting 2026
 - <a href="https://www.nasa.gov/image-article/hubble-spots-lens-shaped-galaxy/" >🔗</a> **[NASA]** Hubble Spots Lens-Shaped Galaxy
 - <a href="https://spacenews.com/the-future-of-the-space-force-in-a-competitive-congested-and-contested-space-environment/" >🔗</a> **[SpaceNews]** The future of the Space Force in a competitive, congested and contested space environment
+- <a href="https://www.esa.int/About_Us/Corporate_news/A_presidential_greeting_ahead_of_Sophie_Adenot_s_first_spaceflight" >🔗</a> **[ESA]** A presidential greeting ahead of Sophie Adenot's first spaceflight
 - <a href="https://arstechnica.com/space/2026/02/nasa-will-finally-allow-astronauts-to-bring-their-iphones-to-space/" >🔗</a> **[Arstechnica]** NASA will finally allow astronauts to bring their iPhones to space
 - <a href="https://spacenews.com/deep-space-and-dim-objects-why-the-space-force-cares-about-asteroids/" >🔗</a> **[SpaceNews]** Deep space, dim objects: Why asteroid mining caught the Space Force’s eye
 - <a href="https://europeanspaceflight.com/the-exploration-company-completes-nyx-splashdown-tests/" >🔗</a> **[European Spaceflight]** The Exploration Company Completes Nyx Splashdown Tests
 - <a href="https://spacenews.com/satellite-servicing-startup-starfish-taps-quindar-for-mission-operations-software/" >🔗</a> **[SpaceNews]** Satellite servicing startup Starfish taps Quindar for mission operations software
 - <a href="https://spacenews.com/voyager-technologies-and-max-space-partner-on-lunar-infrastructure/" >🔗</a> **[SpaceNews]** Voyager Technologies and Max Space partner on lunar infrastructure
-- <a href="https://www.spacedaily.com/reports/Einstein_effect_clears_planets_from_tight_double_star_systems_999.html" >🔗</a> **[SpaceDaily]** Einstein effect clears planets from tight double star systems
-- <a href="https://www.spacedaily.com/reports/BlackSky_expands_Gen_3_Assured_deals_with_new_defense_customer_999.html" >🔗</a> **[SpaceDaily]** BlackSky expands Gen 3 Assured deals with new defense customer
-- <a href="https://www.spacedaily.com/reports/Study_maps_thousands_of_non_native_plants_that_could_colonize_Arctic_999.html" >🔗</a> **[SpaceDaily]** Study maps thousands of non native plants that could colonize Arctic
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260205T181325">2026-02-05 18:13:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260205T184418">2026-02-05 18:44:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
