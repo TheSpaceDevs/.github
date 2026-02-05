@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/space-force-may-be-done-with-r-gps-but-congress-isnt/" >🔗</a> **[SpaceNews]** Space Force may be done with R-GPS, but Congress isn’t
+- <a href="https://www.spacedaily.com/reports/BlackSky_expands_Gen_3_Assured_deals_with_new_defense_customer_999.html" >🔗</a> **[SpaceDaily]** BlackSky expands Gen 3 Assured deals with new defense customer
+- <a href="https://www.spacedaily.com/reports/Einstein_effect_clears_planets_from_tight_double_star_systems_999.html" >🔗</a> **[SpaceDaily]** Einstein effect clears planets from tight double star systems
+- <a href="https://www.spacedaily.com/reports/Why_Modern_Game_Engines_Struggle_with_Real_Interstellar_Combat_Physics_999.html" >🔗</a> **[SpaceDaily]** Why Modern Game Engines Struggle with Real Interstellar Combat Physics
+- <a href="https://www.spacedaily.com/reports/Study_maps_thousands_of_non_native_plants_that_could_colonize_Arctic_999.html" >🔗</a> **[SpaceDaily]** Study maps thousands of non native plants that could colonize Arctic
+- <a href="https://www.spacedaily.com/reports/Survey_of_80_near_Earth_asteroids_sharpens_view_of_their_origins_and_risks_999.html" >🔗</a> **[SpaceDaily]** Survey of 80 near Earth asteroids sharpens view of their origins and risks
+- <a href="https://www.spacedaily.com/reports/Ancient_lungfish_fossils_refine_early_vertebrate_story_999.html" >🔗</a> **[SpaceDaily]** Ancient lungfish fossils refine early vertebrate story
+- <a href="https://spacenews.com/fcc-clears-logos-to-deploy-more-than-4000-broadband-satellites/" >🔗</a> **[SpaceNews]** FCC clears Logos to deploy more than 4,000 broadband satellites
 - <a href="https://spacenews.com/morpheus-raises-15-million-in-series-a-round/" >🔗</a> **[SpaceNews]** Morpheus raises $15 million in Series A+ round
+- <a href="https://spacenews.com/space-force-may-be-done-with-r-gps-but-congress-isnt/" >🔗</a> **[SpaceNews]** Space Force may be done with R-GPS, but Congress isn’t
 - <a href="https://spacenews.com/vantor-wins-5-3-million-nga-contract-to-spot-terrain-changes-using-commercial-satellite-data/" >🔗</a> **[SpaceNews]** Vantor wins $5.3 million NGA contract to spot terrain changes using commercial satellite data
-- <a href="https://www.esa.int/Applications/Satellite_navigation/Three_ways_R_D_has_shaped_Galileo_Second_Generation" >🔗</a> **[ESA]** Three ways R&D has shaped Galileo Second Generation
-- <a href="https://science.nasa.gov/earth/earth-observatory/milano-cortina-2026/" >🔗</a> **[NASA]** Milano Cortina 2026
-- <a href="https://spacepolicyonline.com/news/house-committee-approves-new-nasa-authorization-bill/" >🔗</a> **[SpacePolicyOnline.com]** House Committee Approves New NASA Authorization Bill
-- <a href="https://spacenews.com/house-committee-advances-nasa-authorization-bill/" >🔗</a> **[SpaceNews]** House committee advances NASA authorization bill
-- <a href="https://spacenews.com/viridian-inks-cooperative-agreement-with-air-force-research-laboratory/" >🔗</a> **[SpaceNews]** Viridian inks cooperative agreement with Air Force Research Laboratory
-- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4788-4797-welcome-back-from-conjunction/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4788-4797: Welcome Back from Conjunction
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-university-of-texas-expand-research-and-workforce-development/" >🔗</a> **[NASA]** NASA, University of Texas Expand Research and Workforce Development
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260205T124454">2026-02-05 12:44:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260205T132519">2026-02-05 13:25:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
