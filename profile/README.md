@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/earth-observatory/milano-cortina-2026/" >🔗</a> **[NASA]** Milano Cortina 2026
 - <a href="https://spacepolicyonline.com/news/house-committee-approves-new-nasa-authorization-bill/" >🔗</a> **[SpacePolicyOnline.com]** House Committee Approves New NASA Authorization Bill
 - <a href="https://spacenews.com/house-committee-advances-nasa-authorization-bill/" >🔗</a> **[SpaceNews]** House committee advances NASA authorization bill
 - <a href="https://spacenews.com/viridian-inks-cooperative-agreement-with-air-force-research-laboratory/" >🔗</a> **[SpaceNews]** Viridian inks cooperative agreement with Air Force Research Laboratory
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-nation-erin-edwards-deputy-branch-chief-for-crew-operations-and-capsule-communicator/" >🔗</a> **[NASA]** Station Nation: Erin Edwards, Deputy Branch Chief for Crew Operations and Capsule Communicator
 - <a href="https://www.nasaspaceflight.com/2026/02/ng-bamm2920-test/" >🔗</a> **[NASASpaceflight]** Northrop Grumman tests second solid motor developed under 2025 SMART program
 - <a href="https://www.nasa.gov/centers-and-facilities/nesc/evaluation-of-adhesive-and-solvent-alternatives-for-polymericbonding-applications/" >🔗</a> **[NASA]** Evaluation of Adhesive and Solvent Alternatives for PolymericBonding Applications
-- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-armstrong-contributions-propel-artemis-deep-space-innovation/" >🔗</a> **[NASA]** NASA Armstrong Contributions Propel Artemis, Deep Space Innovation
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260205T043127">2026-02-05 04:31:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260205T052248">2026-02-05 05:22:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
