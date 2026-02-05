@@ -19,27 +19,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Soyuz 2.1a/Fregat-M | Kosmos (Unknown Payload)**. It is scheduled to be launched by *Russian Space Forces*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Plesetsk_Cosmodrome">Unknown Pad</a>, Plesetsk Cosmodrome, Russian Federation*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260205T150000">2026-02-05 15:00:00 UTC</a>.  Until
-then, this pad will have been used for 0
-out of 1680 launches from this location. The launch status is currently
+**Long March 2F/G | Chinese Reusable Space Vehicle (???)**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Jiuquan_Launch_Area_4">Launch Area 91 (SLS-1 / 921)</a>, Jiuquan Satellite Launch Center, People's Republic of China*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260207T034800">2026-02-07 03:48:00 UTC</a>.  Until
+then, this pad will have been used for 27
+out of 276 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
 *Government/Top Secret* and the payload will be injected
-into *an Unknown
-(N/A)*.
+into *a Low Earth Orbit
+(LEO)*.
 <br>
 <blockquote>
-  Unknown classified payload(s) for the Russian military.
+  Probable 4th flight of the Chinese spaceplane capable of returning to Earth.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Soyuz-2" >
+  <a href="https://en.wikipedia.org/wiki/Long_March_2F/G" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=62.925556,40.577778" >
+  <a href="https://www.google.com/maps?q=40.957893,100.290944" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -54,6 +54,7 @@ into *an Unknown
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260212T085600">2026-02-12 08:56:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Proton-M/Blok DM-03 | Elektro-L No.5&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20260212T085600Z%2F20260212T085600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Proton-M/Blok DM-03 | Elektro-L No.5** from Baikonur Cosmodrome, Republic of Kazakhstan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260212T164500">2026-02-12 16:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ariane 64 | Amazon Leo (LE-01)&location=Guiana Space Centre, French Guiana&dates=20260212T164500Z%2F20260212T171300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ariane 64 | Amazon Leo (LE-01)** from Guiana Space Centre, French Guiana.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260214T005000">2026-02-14 00:50:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Firefly Alpha | Stairway to Seven&location=Vandenberg SFB, CA, USA&dates=20260214T005000Z%2F20260214T045800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Firefly Alpha | Stairway to Seven** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260214T050000">2026-02-14 05:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-103&location=Cape Canaveral SFS, FL, USA&dates=20260214T050000Z%2F20260214T081700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-103** from Cape Canaveral SFS, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -89,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/learning-resources/career-spotlight-welder-ages-14-18/" >🔗</a> **[NASA]** Career Spotlight: Welder (Ages 14-18)
 - <a href="https://www.nasa.gov/humans-in-space/nasas-spacex-crew-12-to-study-adaptation-to-altered-gravity/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-12 to Study Adaptation to Altered Gravity
 - <a href="https://www.nasaspaceflight.com/2026/02/china-roundup-020526/" >🔗</a> **[NASASpaceflight]** Despite initial setbacks, Chinese spaceflight expected to see exciting 2026
 - <a href="https://www.nasa.gov/image-article/hubble-spots-lens-shaped-galaxy/" >🔗</a> **[NASA]** Hubble Spots Lens-Shaped Galaxy
@@ -98,7 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/deep-space-and-dim-objects-why-the-space-force-cares-about-asteroids/" >🔗</a> **[SpaceNews]** Deep space, dim objects: Why asteroid mining caught the Space Force’s eye
 - <a href="https://europeanspaceflight.com/the-exploration-company-completes-nyx-splashdown-tests/" >🔗</a> **[European Spaceflight]** The Exploration Company Completes Nyx Splashdown Tests
 - <a href="https://spacenews.com/satellite-servicing-startup-starfish-taps-quindar-for-mission-operations-software/" >🔗</a> **[SpaceNews]** Satellite servicing startup Starfish taps Quindar for mission operations software
-- <a href="https://spacenews.com/voyager-technologies-and-max-space-partner-on-lunar-infrastructure/" >🔗</a> **[SpaceNews]** Voyager Technologies and Max Space partner on lunar infrastructure
 
 
 ### Launch-related News 🚀
@@ -107,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260205T191354">2026-02-05 19:13:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260205T194128">2026-02-05 19:41:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
