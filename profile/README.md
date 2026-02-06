@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2026/02/to-reuse-or-not-reuse-the-eternal-debate-of-new-glenns-second-stage-reignites/" >🔗</a> **[Arstechnica]** To reuse or not reuse—the eternal debate of New Glenn's second stage reignites
 - <a href="https://spacenews.com/we-helped-usher-in-the-modern-era-of-ai-in-nga/" >🔗</a> **[SpaceNews]** ‘We helped usher in the modern era of AI in NGA.’
 - <a href="https://spacenews.com/serving-the-country-and-pushing-the-boundaries-of-human-existence-is-very-purposeful/" >🔗</a> **[SpaceNews]** ‘Serving the country and pushing the boundaries of human existence is very purposeful.’
 - <a href="https://spacenews.com/i-loved-thinking-about-how-to-make-science-possible-for-america-and-for-the-world/" >🔗</a> **[SpaceNews]** ‘I loved thinking about how to make science possible for America and for the world’
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/as-far-as-i-know-im-still-the-assistant-administrator-of-nesdis/" >🔗</a> **[SpaceNews]** ‘As far as I know, I’m still the assistant administrator of NESDIS.’
 - <a href="https://spacenews.com/leaders-can-be-replaced-institutional-knowledge-cannot/" >🔗</a> **[SpaceNews]** ‘Leaders can be replaced, institutional knowledge cannot’
 - <a href="https://spacenews.com/exodus-the-shrinking-federal-space-workforce/" >🔗</a> **[SpaceNews]** Exodus: The shrinking federal space workforce
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_02-06_February_2026" >🔗</a> **[ESA]** Week in images: 02-06 February 2026
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260206T191335">2026-02-06 19:13:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260206T194112">2026-02-06 19:41:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
