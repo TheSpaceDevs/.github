@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/02/06/spacex-shifts-away-from-dragon-launches-at-pad-39a-as-starship-looms/" >🔗</a> **[Spaceflight Now]** SpaceX shifts away from Dragon launches at pad 39A as Starship looms
+- <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-agencys-spacex-crew-12-launch-docking/" >🔗</a> **[NASA]** NASA Sets Coverage for Agency’s SpaceX Crew-12 Launch, Docking
 - <a href="https://www.nasa.gov/image-article/strong-solar-flare/" >🔗</a> **[NASA]** Strong Solar Flare
 - <a href="https://science.nasa.gov/missions/landsat/boreal-forests-are-shifting-north/" >🔗</a> **[NASA]** Boreal Forests Are Shifting North
 - <a href="https://arstechnica.com/space/2026/02/to-reuse-or-not-reuse-the-eternal-debate-of-new-glenns-second-stage-reignites/" >🔗</a> **[Arstechnica]** To reuse or not reuse—the eternal debate of New Glenn's second stage reignites
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/i-loved-thinking-about-how-to-make-science-possible-for-america-and-for-the-world/" >🔗</a> **[SpaceNews]** ‘I loved thinking about how to make science possible for America and for the world’
 - <a href="https://spacenews.com/you-need-competent-people-in-the-government-to-direct-and-make-decisions/" >🔗</a> **[SpaceNews]** ‘You need competent people in the government to direct and make decisions.’
 - <a href="https://spacenews.com/now-its-time-to-turn-the-baton-over-to-others-i-hope-theres-somebody-else-to-grab-that-baton/" >🔗</a> **[SpaceNews]** ‘Now it’s time to turn the baton over to others. I hope there’s somebody else to grab that baton.’
-- <a href="https://spacenews.com/people-knew-that-they-could-come-to-us-to-figure-out-how-to-get-things-done/" >🔗</a> **[SpaceNews]** ‘People knew that they could come to us to figure out how to get things done.’
-- <a href="https://spacenews.com/as-far-as-i-know-im-still-the-assistant-administrator-of-nesdis/" >🔗</a> **[SpaceNews]** ‘As far as I know, I’m still the assistant administrator of NESDIS.’
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260206T210518">2026-02-06 21:05:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260206T214036">2026-02-06 21:40:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
