@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/tomorrow-io-banks-175-million-for-deepsky-weather-constellation/" >🔗</a> **[SpaceNews]** Tomorrow.io banks $175 million for DeepSky weather constellation
 - <a href="https://spacenews.com/pentagon-casts-golden-dome-as-model-for-faster-risk-tolerant-defense-buying/" >🔗</a> **[SpaceNews]** Pentagon casts Golden Dome as model for faster, risk-tolerant defense buying
 - <a href="https://spacenews.com/faa-approves-starship-launches-from-lc-39a/" >🔗</a> **[SpaceNews]** FAA approves Starship launches from LC-39A
 - <a href="https://www.nasa.gov/news-release/nasa-selects-two-earth-system-explorers-missions/" >🔗</a> **[NASA]** NASA Selects Two Earth System Explorers Missions
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/hubble-spots-lens-shaped-galaxy/" >🔗</a> **[NASA]** Hubble Spots Lens-Shaped Galaxy
 - <a href="https://spacenews.com/the-future-of-the-space-force-in-a-competitive-congested-and-contested-space-environment/" >🔗</a> **[SpaceNews]** The future of the Space Force in a competitive, congested and contested space environment
 - <a href="https://www.esa.int/About_Us/Corporate_news/A_presidential_greeting_ahead_of_Sophie_Adenot_s_first_spaceflight" >🔗</a> **[ESA]** A presidential greeting ahead of Sophie Adenot's first spaceflight
-- <a href="https://arstechnica.com/space/2026/02/nasa-will-finally-allow-astronauts-to-bring-their-iphones-to-space/" >🔗</a> **[Arstechnica]** NASA will finally allow astronauts to bring their iPhones to space
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260206T034526">2026-02-06 03:45:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260206T043102">2026-02-06 04:31:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
