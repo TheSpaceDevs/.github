@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/strong-solar-flare/" >🔗</a> **[NASA]** Strong Solar Flare
+- <a href="https://science.nasa.gov/missions/landsat/boreal-forests-are-shifting-north/" >🔗</a> **[NASA]** Boreal Forests Are Shifting North
 - <a href="https://arstechnica.com/space/2026/02/to-reuse-or-not-reuse-the-eternal-debate-of-new-glenns-second-stage-reignites/" >🔗</a> **[Arstechnica]** To reuse or not reuse—the eternal debate of New Glenn's second stage reignites
 - <a href="https://spacenews.com/we-helped-usher-in-the-modern-era-of-ai-in-nga/" >🔗</a> **[SpaceNews]** ‘We helped usher in the modern era of AI in NGA.’
 - <a href="https://spacenews.com/serving-the-country-and-pushing-the-boundaries-of-human-existence-is-very-purposeful/" >🔗</a> **[SpaceNews]** ‘Serving the country and pushing the boundaries of human existence is very purposeful.’
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/now-its-time-to-turn-the-baton-over-to-others-i-hope-theres-somebody-else-to-grab-that-baton/" >🔗</a> **[SpaceNews]** ‘Now it’s time to turn the baton over to others. I hope there’s somebody else to grab that baton.’
 - <a href="https://spacenews.com/people-knew-that-they-could-come-to-us-to-figure-out-how-to-get-things-done/" >🔗</a> **[SpaceNews]** ‘People knew that they could come to us to figure out how to get things done.’
 - <a href="https://spacenews.com/as-far-as-i-know-im-still-the-assistant-administrator-of-nesdis/" >🔗</a> **[SpaceNews]** ‘As far as I know, I’m still the assistant administrator of NESDIS.’
-- <a href="https://spacenews.com/leaders-can-be-replaced-institutional-knowledge-cannot/" >🔗</a> **[SpaceNews]** ‘Leaders can be replaced, institutional knowledge cannot’
-- <a href="https://spacenews.com/exodus-the-shrinking-federal-space-workforce/" >🔗</a> **[SpaceNews]** Exodus: The shrinking federal space workforce
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260206T200414">2026-02-06 20:04:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260206T204220">2026-02-06 20:42:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
