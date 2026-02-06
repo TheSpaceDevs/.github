@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/viasat-sees-orbital-data-center-partnership-opportunity/" >🔗</a> **[SpaceNews]** Viasat sees orbital data center partnership opportunity
+- <a href="https://spacepolicyonline.com/news/isaacman-wants-to-restore-nasas-core-competencies/" >🔗</a> **[SpacePolicyOnline.com]** Isaacman Wants to Restore NASA’s Core Competencies
 - <a href="https://spaceflightnow.com/2026/02/06/spacex-shifts-away-from-dragon-launches-at-pad-39a-as-starship-looms/" >🔗</a> **[Spaceflight Now]** SpaceX shifts away from Dragon launches at pad 39A as Starship looms
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-agencys-spacex-crew-12-launch-docking/" >🔗</a> **[NASA]** NASA Sets Coverage for Agency’s SpaceX Crew-12 Launch, Docking
 - <a href="https://www.nasa.gov/image-article/strong-solar-flare/" >🔗</a> **[NASA]** Strong Solar Flare
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/we-helped-usher-in-the-modern-era-of-ai-in-nga/" >🔗</a> **[SpaceNews]** ‘We helped usher in the modern era of AI in NGA.’
 - <a href="https://spacenews.com/serving-the-country-and-pushing-the-boundaries-of-human-existence-is-very-purposeful/" >🔗</a> **[SpaceNews]** ‘Serving the country and pushing the boundaries of human existence is very purposeful.’
 - <a href="https://spacenews.com/i-loved-thinking-about-how-to-make-science-possible-for-america-and-for-the-world/" >🔗</a> **[SpaceNews]** ‘I loved thinking about how to make science possible for America and for the world’
-- <a href="https://spacenews.com/you-need-competent-people-in-the-government-to-direct-and-make-decisions/" >🔗</a> **[SpaceNews]** ‘You need competent people in the government to direct and make decisions.’
-- <a href="https://spacenews.com/now-its-time-to-turn-the-baton-over-to-others-i-hope-theres-somebody-else-to-grab-that-baton/" >🔗</a> **[SpaceNews]** ‘Now it’s time to turn the baton over to others. I hope there’s somebody else to grab that baton.’
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260206T230313">2026-02-06 23:03:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260206T233811">2026-02-06 23:38:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
