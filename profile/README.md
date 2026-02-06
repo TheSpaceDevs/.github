@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Space_for_our_climate/The_curious_case_of_why_methane_spiked_around_Covid" >🔗</a> **[ESA]** The curious case of why methane spiked around Covid
 - <a href="https://science.nasa.gov/earth/earth-observatory/a-winter-blanket-covers-north-carolina/" >🔗</a> **[NASA]** A Winter Blanket Covers North Carolina
 - <a href="https://spacenews.com/tomorrow-io-banks-175-million-for-deepsky-weather-constellation/" >🔗</a> **[SpaceNews]** Tomorrow.io banks $175 million for DeepSky weather constellation
 - <a href="https://spacenews.com/pentagon-casts-golden-dome-as-model-for-faster-risk-tolerant-defense-buying/" >🔗</a> **[SpaceNews]** Pentagon casts Golden Dome as model for faster, risk-tolerant defense buying
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/humans-in-space/nasas-spacex-crew-12-to-study-adaptation-to-altered-gravity/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-12 to Study Adaptation to Altered Gravity
 - <a href="https://www.nasaspaceflight.com/2026/02/china-roundup-020526/" >🔗</a> **[NASASpaceflight]** Despite initial setbacks, Chinese spaceflight expected to see exciting 2026
 - <a href="https://www.nasa.gov/image-article/hubble-spots-lens-shaped-galaxy/" >🔗</a> **[NASA]** Hubble Spots Lens-Shaped Galaxy
-- <a href="https://spacenews.com/the-future-of-the-space-force-in-a-competitive-congested-and-contested-space-environment/" >🔗</a> **[SpaceNews]** The future of the Space Force in a competitive, congested and contested space environment
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260206T080840">2026-02-06 08:08:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260206T084339">2026-02-06 08:43:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
