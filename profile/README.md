@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacedaily.com/reports/New_crew_set_to_launch_for_ISS_after_medical_evacuation_999.html" >🔗</a> **[SpaceDaily]** New crew set to launch for ISS after medical evacuation
+- <a href="https://www.spacedaily.com/reports/Launching_the_idea_of_data_centers_in_space_999.html" >🔗</a> **[SpaceDaily]** Launching the idea of data centers in space
+- <a href="https://www.spacedaily.com/reports/One_dimensional_anyons_offer_tunable_quantum_statistics_999.html" >🔗</a> **[SpaceDaily]** One dimensional anyons offer tunable quantum statistics
+- <a href="https://www.spacedaily.com/reports/The_coming_end_of_ISS_symbol_of_an_era_of_global_cooperation_999.html" >🔗</a> **[SpaceDaily]** The coming end of ISS, symbol of an era of global cooperation
+- <a href="https://www.spacedaily.com/reports/Hidden_mechanical_energy_may_help_sustain_life_on_Earth_999.html" >🔗</a> **[SpaceDaily]** Hidden mechanical energy may help sustain life on Earth
+- <a href="https://spacenews.com/china-set-for-in-flight-abort-test-of-mengzhou-crew-spacecraft/" >🔗</a> **[SpaceNews]** China set for in-flight abort test of Mengzhou crew spacecraft
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/02/Earth_from_Space_Olympic_view" >🔗</a> **[ESA]** Earth from Space: Olympic view
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/02/Sophie_Adenot_ready_for_first_space_mission" >🔗</a> **[ESA]** Sophie Adenot ready for first space mission
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Space_for_our_climate/The_curious_case_of_why_methane_spiked_around_Covid" >🔗</a> **[ESA]** The curious case of why methane spiked around Covid
 - <a href="https://science.nasa.gov/earth/earth-observatory/a-winter-blanket-covers-north-carolina/" >🔗</a> **[NASA]** A Winter Blanket Covers North Carolina
-- <a href="https://spacenews.com/tomorrow-io-banks-175-million-for-deepsky-weather-constellation/" >🔗</a> **[SpaceNews]** Tomorrow.io banks $175 million for DeepSky weather constellation
-- <a href="https://spacenews.com/pentagon-casts-golden-dome-as-model-for-faster-risk-tolerant-defense-buying/" >🔗</a> **[SpaceNews]** Pentagon casts Golden Dome as model for faster, risk-tolerant defense buying
-- <a href="https://spacenews.com/faa-approves-starship-launches-from-lc-39a/" >🔗</a> **[SpaceNews]** FAA approves Starship launches from LC-39A
-- <a href="https://www.nasa.gov/news-release/nasa-selects-two-earth-system-explorers-missions/" >🔗</a> **[NASA]** NASA Selects Two Earth System Explorers Missions
-- <a href="https://www.nasa.gov/learning-resources/career-spotlight-welder-ages-14-18/" >🔗</a> **[NASA]** Career Spotlight: Welder (Ages 14-18)
-- <a href="https://www.nasa.gov/humans-in-space/nasas-spacex-crew-12-to-study-adaptation-to-altered-gravity/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-12 to Study Adaptation to Altered Gravity
-- <a href="https://www.nasaspaceflight.com/2026/02/china-roundup-020526/" >🔗</a> **[NASASpaceflight]** Despite initial setbacks, Chinese spaceflight expected to see exciting 2026
-- <a href="https://www.nasa.gov/image-article/hubble-spots-lens-shaped-galaxy/" >🔗</a> **[NASA]** Hubble Spots Lens-Shaped Galaxy
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260206T101039">2026-02-06 10:10:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260206T104317">2026-02-06 10:43:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
