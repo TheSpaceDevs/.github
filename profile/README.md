@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_02-06_February_2026" >🔗</a> **[ESA]** Week in images: 02-06 February 2026
+- <a href="https://spaceflightnow.com/2026/02/06/ula-offloads-first-vulcan-rocket-at-vandenberg-at-it-preps-its-next-cape-launch/" >🔗</a> **[Spaceflight Now]** ULA offloads first Vulcan rocket at Vandenberg at it preps its next Cape launch
 - <a href="https://spacenews.com/nasa-selects-two-earth-science-missions-for-development/" >🔗</a> **[SpaceNews]** NASA selects two Earth science missions for development
 - <a href="https://spacenews.com/over-the-moon-and-under-the-radar/" >🔗</a> **[SpaceNews]** Over the moon and under the radar
-- <a href="https://www.spacedaily.com/reports/Hidden_mechanical_energy_may_help_sustain_life_on_Earth_999.html" >🔗</a> **[SpaceDaily]** Hidden mechanical energy may help sustain life on Earth
-- <a href="https://www.spacedaily.com/reports/One_dimensional_anyons_offer_tunable_quantum_statistics_999.html" >🔗</a> **[SpaceDaily]** One dimensional anyons offer tunable quantum statistics
 - <a href="https://www.spacedaily.com/reports/Launching_the_idea_of_data_centers_in_space_999.html" >🔗</a> **[SpaceDaily]** Launching the idea of data centers in space
+- <a href="https://www.spacedaily.com/reports/One_dimensional_anyons_offer_tunable_quantum_statistics_999.html" >🔗</a> **[SpaceDaily]** One dimensional anyons offer tunable quantum statistics
 - <a href="https://www.spacedaily.com/reports/New_crew_set_to_launch_for_ISS_after_medical_evacuation_999.html" >🔗</a> **[SpaceDaily]** New crew set to launch for ISS after medical evacuation
+- <a href="https://www.spacedaily.com/reports/Hidden_mechanical_energy_may_help_sustain_life_on_Earth_999.html" >🔗</a> **[SpaceDaily]** Hidden mechanical energy may help sustain life on Earth
 - <a href="https://www.spacedaily.com/reports/The_coming_end_of_ISS_symbol_of_an_era_of_global_cooperation_999.html" >🔗</a> **[SpaceDaily]** The coming end of ISS, symbol of an era of global cooperation
 - <a href="https://spacenews.com/china-set-for-in-flight-abort-test-of-mengzhou-crew-spacecraft/" >🔗</a> **[SpaceNews]** China set for in-flight abort test of Mengzhou crew spacecraft
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/02/Earth_from_Space_Olympic_view" >🔗</a> **[ESA]** Earth from Space: Olympic view
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/02/Sophie_Adenot_ready_for_first_space_mission" >🔗</a> **[ESA]** Sophie Adenot ready for first space mission
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260206T134839">2026-02-06 13:48:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260206T141331">2026-02-06 14:13:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
