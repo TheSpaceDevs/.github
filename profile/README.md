@@ -89,6 +89,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/02/starbases-launch-site-double-size/" >🔗</a> **[NASASpaceflight]** Starbase’s launch site lays groundwork to double in size
 - <a href="https://spacenews.com/space-force-awards-54-5-million-contract-to-starfish-space-for-geo-servicing-vehicle/" >🔗</a> **[SpaceNews]** Space Force awards $54.5 million contract to Starfish Space for GEO servicing vehicle
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Crew-12_readies_for_launch" >🔗</a> **[ESA]** Crew-12 readies for launch
 - <a href="https://spacenews.com/china-launches-reusable-spaceplane-on-fourth-secretive-orbital-mission/" >🔗</a> **[SpaceNews]** China launches reusable spaceplane on fourth secretive orbital mission
@@ -98,7 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/viasat-sees-orbital-data-center-partnership-opportunity/" >🔗</a> **[SpaceNews]** Viasat sees orbital data center partnership opportunity
 - <a href="https://spacepolicyonline.com/news/isaacman-wants-to-restore-nasas-core-competencies/" >🔗</a> **[SpacePolicyOnline.com]** Isaacman Wants to Restore NASA’s Core Competencies
 - <a href="https://spaceflightnow.com/2026/02/06/spacex-shifts-away-from-dragon-launches-at-pad-39a-as-starship-looms/" >🔗</a> **[Spaceflight Now]** SpaceX shifts away from Dragon launches at pad 39A as Starship looms
-- <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-agencys-spacex-crew-12-launch-docking/" >🔗</a> **[NASA]** NASA Sets Coverage for Agency’s SpaceX Crew-12 Launch, Docking
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260207T200129">2026-02-07 20:01:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260207T203937">2026-02-07 20:39:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
