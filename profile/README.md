@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-launches-reusable-spaceplane-on-fourth-secretive-orbital-mission/" >🔗</a> **[SpaceNews]** China launches reusable spaceplane on fourth secretive orbital mission
 - <a href="https://spaceflightnow.com/2026/02/07/live-coverage-spacex-to-launch-return-to-flight-falcon-9-mission-following-brief-stand-down/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch return to flight Falcon 9 mission following brief stand down
 - <a href="https://science.nasa.gov/earth/earth-observatory/a-grand-snow-rimmed-canyon/" >🔗</a> **[NASA]** A Grand, Snow-Rimmed Canyon
 - <a href="https://spacenews.com/nasa-seeks-to-bolster-workforce-reduce-reliance-on-contractors/" >🔗</a> **[SpaceNews]** NASA seeks to bolster workforce, reduce reliance on contractors
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-agencys-spacex-crew-12-launch-docking/" >🔗</a> **[NASA]** NASA Sets Coverage for Agency’s SpaceX Crew-12 Launch, Docking
 - <a href="https://www.nasa.gov/image-article/strong-solar-flare/" >🔗</a> **[NASA]** Strong Solar Flare
 - <a href="https://science.nasa.gov/missions/landsat/boreal-forests-are-shifting-north/" >🔗</a> **[NASA]** Boreal Forests Are Shifting North
-- <a href="https://arstechnica.com/space/2026/02/to-reuse-or-not-reuse-the-eternal-debate-of-new-glenns-second-stage-reignites/" >🔗</a> **[Arstechnica]** To reuse or not reuse—the eternal debate of New Glenn's second stage reignites
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260207T110225">2026-02-07 11:02:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260207T113518">2026-02-07 11:35:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
