@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/earth-observatory/a-grand-snow-rimmed-canyon/" >🔗</a> **[NASA]** A Grand, Snow-Rimmed Canyon
 - <a href="https://spacenews.com/nasa-seeks-to-bolster-workforce-reduce-reliance-on-contractors/" >🔗</a> **[SpaceNews]** NASA seeks to bolster workforce, reduce reliance on contractors
 - <a href="https://spacenews.com/viasat-sees-orbital-data-center-partnership-opportunity/" >🔗</a> **[SpaceNews]** Viasat sees orbital data center partnership opportunity
 - <a href="https://spacepolicyonline.com/news/isaacman-wants-to-restore-nasas-core-competencies/" >🔗</a> **[SpacePolicyOnline.com]** Isaacman Wants to Restore NASA’s Core Competencies
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/missions/landsat/boreal-forests-are-shifting-north/" >🔗</a> **[NASA]** Boreal Forests Are Shifting North
 - <a href="https://arstechnica.com/space/2026/02/to-reuse-or-not-reuse-the-eternal-debate-of-new-glenns-second-stage-reignites/" >🔗</a> **[Arstechnica]** To reuse or not reuse—the eternal debate of New Glenn's second stage reignites
 - <a href="https://spacenews.com/we-helped-usher-in-the-modern-era-of-ai-in-nga/" >🔗</a> **[SpaceNews]** ‘We helped usher in the modern era of AI in NGA.’
-- <a href="https://spacenews.com/serving-the-country-and-pushing-the-boundaries-of-human-existence-is-very-purposeful/" >🔗</a> **[SpaceNews]** ‘Serving the country and pushing the boundaries of human existence is very purposeful.’
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260207T051507">2026-02-07 05:15:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260207T054321">2026-02-07 05:43:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
