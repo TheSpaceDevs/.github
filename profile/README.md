@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/falcon-9-returns-to-flight-after-upper-stage-engine-investigation/" >🔗</a> **[SpaceNews]** Falcon 9 returns to flight after upper stage engine investigation
 - <a href="https://spacenews.com/spacex-ipo-could-drive-investor-interest-in-other-space-companies/" >🔗</a> **[SpaceNews]** SpaceX IPO could drive investor interest in other space companies
 - <a href="https://www.nasaspaceflight.com/2026/02/starbases-launch-site-double-size/" >🔗</a> **[NASASpaceflight]** Starbase’s launch site lays groundwork to double in size
 - <a href="https://spacenews.com/space-force-awards-54-5-million-contract-to-starfish-space-for-geo-servicing-vehicle/" >🔗</a> **[SpaceNews]** Space Force awards $54.5 million contract to Starfish Space for GEO servicing vehicle
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/earth/earth-observatory/a-grand-snow-rimmed-canyon/" >🔗</a> **[NASA]** A Grand, Snow-Rimmed Canyon
 - <a href="https://spacenews.com/nasa-seeks-to-bolster-workforce-reduce-reliance-on-contractors/" >🔗</a> **[SpaceNews]** NASA seeks to bolster workforce, reduce reliance on contractors
 - <a href="https://spacenews.com/viasat-sees-orbital-data-center-partnership-opportunity/" >🔗</a> **[SpaceNews]** Viasat sees orbital data center partnership opportunity
-- <a href="https://spacepolicyonline.com/news/isaacman-wants-to-restore-nasas-core-competencies/" >🔗</a> **[SpacePolicyOnline.com]** Isaacman Wants to Restore NASA’s Core Competencies
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260207T220143">2026-02-07 22:01:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260207T224028">2026-02-07 22:40:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
