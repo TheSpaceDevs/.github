@@ -90,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://europeanspaceflight.com/ohb-establishes-european-moonport-company/" >🔗</a> **[European Spaceflight]** OHB Establishes European Moonport Company
-- <a href="https://spacenews.com/falcon-9-returns-to-flight-after-upper-stage-engine-investigation/" >🔗</a> **[SpaceNews]** Falcon 9 returns to flight after upper stage engine investigation
-- <a href="https://spacenews.com/spacex-ipo-could-drive-investor-interest-in-other-space-companies/" >🔗</a> **[SpaceNews]** SpaceX IPO could drive investor interest in other space companies
-- <a href="https://www.nasaspaceflight.com/2026/02/starbases-launch-site-double-size/" >🔗</a> **[NASASpaceflight]** Starbase’s launch site lays groundwork to double in size
-- <a href="https://spacenews.com/space-force-awards-54-5-million-contract-to-starfish-space-for-geo-servicing-vehicle/" >🔗</a> **[SpaceNews]** Space Force awards $54.5 million contract to Starfish Space for GEO servicing vehicle
-- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Crew-12_readies_for_launch" >🔗</a> **[ESA]** Crew-12 readies for launch
-- <a href="https://spacenews.com/china-launches-reusable-spaceplane-on-fourth-secretive-orbital-mission/" >🔗</a> **[SpaceNews]** China launches reusable spaceplane on fourth secretive orbital mission
-- <a href="https://spaceflightnow.com/2026/02/07/live-coverage-spacex-to-launch-return-to-flight-falcon-9-mission-following-brief-stand-down/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch return to flight Falcon 9 mission following brief stand down
-- <a href="https://science.nasa.gov/earth/earth-observatory/a-grand-snow-rimmed-canyon/" >🔗</a> **[NASA]** A Grand, Snow-Rimmed Canyon
-- <a href="https://spacenews.com/nasa-seeks-to-bolster-workforce-reduce-reliance-on-contractors/" >🔗</a> **[SpaceNews]** NASA seeks to bolster workforce, reduce reliance on contractors
+- <a href="https://www.spacedaily.com/reports/Thunderstorm_not_eclipse_drove_tree_signal_spike_in_Dolomites_999.html" >🔗</a> **[SpaceDaily]** Thunderstorm, not eclipse, drove tree signal spike in Dolomites
+- <a href="https://www.spacedaily.com/reports/The_beacons_were_lit!_A_system_to_detect_and_map_merging_black_holes_999.html" >🔗</a> **[SpaceDaily]** 'The beacons were lit!' A system to detect and map merging black holes
+- <a href="https://www.spacedaily.com/reports/Curiosity_Blog_Sols_4788_4797_Welcome_Back_from_Conjunction_999.html" >🔗</a> **[SpaceDaily]** Curiosity Blog, Sols 4788-4797: Welcome Back from Conjunction
+- <a href="https://www.spacedaily.com/reports/Runaway_black_hole_jet_outshines_legendary_death_star_999.html" >🔗</a> **[SpaceDaily]** Runaway black hole jet outshines legendary death star
+- <a href="https://www.spacedaily.com/reports/Isar_Aerospace_expands_engine_and_stage_testing_at_Esrange_999.html" >🔗</a> **[SpaceDaily]** Isar Aerospace expands engine and stage testing at Esrange
+- <a href="https://www.spacedaily.com/reports/Dark_matter_core_may_drive_Milky_Way_center_999.html" >🔗</a> **[SpaceDaily]** Dark matter core may drive Milky Way center
+- <a href="https://www.spacedaily.com/reports/NASAs_Artemis_II_plans_to_send_a_crew_around_the_Moon_to_test_equipment_and_lay_the_groundwork_for_a_future_landing_999.html" >🔗</a> **[SpaceDaily]** First Crewed Moon Flyby In 54 Years: Artemis II
+- <a href="https://www.spacedaily.com/reports/NASA_Study_Non_biologic_Processes_Dont_Fully_Explain_Mars_Organics_999.html" >🔗</a> **[SpaceDaily]** NASA Study: Non-biologic Processes Don't Fully Explain Mars Organics
+- <a href="https://www.spacedaily.com/reports/DLR_plans_new_control_center_for_future_Moon_and_Mars_missions_999.html" >🔗</a> **[SpaceDaily]** DLR plans new control center for future Moon and Mars missions
+- <a href="https://www.spacedaily.com/reports/Alfven_waves_drive_stable_electric_fields_that_power_auroras_999.html" >🔗</a> **[SpaceDaily]** Alfven waves drive stable electric fields that power auroras
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260208T001053">2026-02-08 00:10:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260208T010534">2026-02-08 01:05:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
