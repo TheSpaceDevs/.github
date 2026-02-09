@@ -95,30 +95,30 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-february-8-14-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy February 8-14, 2026
 - <a href="https://spaceflightnow.com/2026/02/08/spacex-test-fires-its-falcon-9-rocket-ahead-of-midweek-launch-of-crew-12-to-the-space-station/" >🔗</a> **[Spaceflight Now]** SpaceX test fires its Falcon 9 rocket ahead of midweek launch of Crew-12 to the space station
 - <a href="https://www.spacedaily.com/reports/NASA_confirms_first_flight_to_ISS_since_medical_evacuation_999.html" >🔗</a> **[SpaceDaily]** NASA confirms first flight to ISS since medical evacuation
-- <a href="https://www.spacedaily.com/reports/Dark_matter_core_may_drive_Milky_Way_center_999.html" >🔗</a> **[SpaceDaily]** Dark matter core may drive Milky Way center
+- <a href="https://www.spacedaily.com/reports/Alfven_waves_drive_stable_electric_fields_that_power_auroras_999.html" >🔗</a> **[SpaceDaily]** Alfven waves drive stable electric fields that power auroras
 - <a href="https://www.spacedaily.com/reports/Isar_Aerospace_expands_engine_and_stage_testing_at_Esrange_999.html" >🔗</a> **[SpaceDaily]** Isar Aerospace expands engine and stage testing at Esrange
-- <a href="https://www.spacedaily.com/reports/The_beacons_were_lit!_A_system_to_detect_and_map_merging_black_holes_999.html" >🔗</a> **[SpaceDaily]** 'The beacons were lit!' A system to detect and map merging black holes
-- <a href="https://www.spacedaily.com/reports/DLR_plans_new_control_center_for_future_Moon_and_Mars_missions_999.html" >🔗</a> **[SpaceDaily]** DLR plans new control center for future Moon and Mars missions
-- <a href="https://www.spacedaily.com/reports/Runaway_black_hole_jet_outshines_legendary_death_star_999.html" >🔗</a> **[SpaceDaily]** Runaway black hole jet outshines legendary death star
+- <a href="https://www.spacedaily.com/reports/Dark_matter_core_may_drive_Milky_Way_center_999.html" >🔗</a> **[SpaceDaily]** Dark matter core may drive Milky Way center
+- <a href="https://www.spacedaily.com/reports/Curiosity_Blog_Sols_4788_4797_Welcome_Back_from_Conjunction_999.html" >🔗</a> **[SpaceDaily]** Curiosity Blog, Sols 4788-4797: Welcome Back from Conjunction
+- <a href="https://www.spacedaily.com/reports/NASAs_Artemis_II_plans_to_send_a_crew_around_the_Moon_to_test_equipment_and_lay_the_groundwork_for_a_future_landing_999.html" >🔗</a> **[SpaceDaily]** First Crewed Moon Flyby In 54 Years: Artemis II
 
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2026/02/08/spacex-test-fires-its-falcon-9-rocket-ahead-of-midweek-launch-of-crew-12-to-the-space-station/" >🔗</a> **[Spaceflight Now]** SpaceX test fires its Falcon 9 rocket ahead of midweek launch of Crew-12 to the space station
+- <a href="https://www.spacedaily.com/reports/NASA_confirms_first_flight_to_ISS_since_medical_evacuation_999.html" >🔗</a> **[SpaceDaily]** NASA confirms first flight to ISS since medical evacuation
+- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Crew-12_readies_for_launch" >🔗</a> **[ESA]** Crew-12 readies for launch
+- <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-agencys-spacex-crew-12-launch-docking/" >🔗</a> **[NASA]** NASA Sets Coverage for Agency’s SpaceX Crew-12 Launch, Docking
+- <a href="https://www.spacedaily.com/reports/New_crew_set_to_launch_for_ISS_after_medical_evacuation_999.html" >🔗</a> **[SpaceDaily]** New crew set to launch for ISS after medical evacuation
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/02/Sophie_Adenot_ready_for_first_space_mission" >🔗</a> **[ESA]** Sophie Adenot ready for first space mission
 - <a href="https://www.nasa.gov/humans-in-space/nasas-spacex-crew-12-to-study-adaptation-to-altered-gravity/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-12 to Study Adaptation to Altered Gravity
 - <a href="https://www.esa.int/About_Us/Corporate_news/A_presidential_greeting_ahead_of_Sophie_Adenot_s_first_spaceflight" >🔗</a> **[ESA]** A presidential greeting ahead of Sophie Adenot's first spaceflight
 - <a href="https://arstechnica.com/space/2026/02/nasa-will-finally-allow-astronauts-to-bring-their-iphones-to-space/" >🔗</a> **[Arstechnica]** NASA will finally allow astronauts to bring their iPhones to space
 - <a href="https://www.spacedaily.com/reports/SpaceX_grounds_Falcon_9_missions_could_impact_ISS_launch_999.html" >🔗</a> **[SpaceDaily]** SpaceX grounds Falcon 9 missions, could impact ISS launch
-- <a href="https://www.spacedaily.com/reports/Dragon_spacecraft_gears_up_for_crew_12_arrival_and_station_science_work_999.html" >🔗</a> **[SpaceDaily]** Dragon spacecraft gears up for crew 12 arrival and station science work
-- <a href="https://www.spacedaily.com/reports/Crew_12_set_for_Dragon_launch_to_Station_in_February_999.html" >🔗</a> **[SpaceDaily]** Crew 12 set for Dragon launch to Station in February
-- <a href="https://spacepolicyonline.com/news/artemis-ii-wdr-test-postponed-by-frigid-weather-could-affect-crew-12-launch-date/" >🔗</a> **[SpacePolicyOnline.com]** Artemis II WDR Test Postponed by Frigid Weather, Could Affect Crew-12 Launch Date
-- <a href="https://www.spacedaily.com/reports/Earliest_launch_window_to_ISS_set_for_February_11_NASA_999.html" >🔗</a> **[SpaceDaily]** Earliest launch window to ISS set for February 11: NASA
-- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Crew-12_scheduled_to_launch_on_Wednesday_11_February" >🔗</a> **[ESA]** Crew-12, scheduled to launch on Wednesday 11 February
-- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Watch_live_Crew-12_news_conference" >🔗</a> **[ESA]** Watch live: Crew-12 news conference
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260209T074551">2026-02-09 07:45:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260209T081052">2026-02-09 08:10:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
