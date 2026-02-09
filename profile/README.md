@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Watch_live_Crew-12_launch_and_docking" >🔗</a> **[ESA]** Watch live: Crew-12 launch and docking
+- <a href="https://spacenews.com/musk-says-spacex-focus-is-on-the-moon-rather-than-mars/" >🔗</a> **[SpaceNews]** Musk says SpaceX focus is on the moon rather than Mars
 - <a href="https://www.nasaspaceflight.com/2026/02/launch-preview-020926/" >🔗</a> **[NASASpaceflight]** Launch Preview: Vulcan to launch USSF-87, SpaceX to launch Crew-12 to ISS
 - <a href="https://www.nasa.gov/missions/station/what-you-need-to-know-about-nasas-spacex-crew-12-mission/" >🔗</a> **[NASA]** What You Need to Know About NASA’s SpaceX Crew-12 Mission
 - <a href="https://spaceflightnow.com/2026/02/09/weather-delays-nasas-spacex-crew-12-flight-to-the-international-space-station/" >🔗</a> **[Spaceflight Now]** Weather delays NASA’s SpaceX Crew-12 flight to the International Space Station
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/icy-hudson-river/" >🔗</a> **[NASA]** Icy Hudson River
 - <a href="https://arstechnica.com/space/2026/02/has-elon-musk-given-up-on-mars/" >🔗</a> **[Arstechnica]** Has Elon Musk given up on Mars?
 - <a href="https://europeanspaceflight.com/esa-is-preparing-to-announce-aeolus-2-prime-contractor/" >🔗</a> **[European Spaceflight]** ESA is Preparing to Announce Aeolus-2 Prime Contractor
-- <a href="https://spacenews.com/theres-a-way-forward-for-sovereign-european-space-intel-but-is-there-the-will/" >🔗</a> **[SpaceNews]** There’s a way forward for sovereign European space intel, but is there the will?
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260209T231008">2026-02-09 23:10:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260209T234258">2026-02-09 23:42:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
