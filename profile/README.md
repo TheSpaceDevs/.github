@@ -47,7 +47,7 @@ into *a Low Earth Orbit
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260211T140700">2026-02-11 14:07:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-34&location=Vandenberg SFB, CA, USA&dates=20260211T140700Z%2F20260211T180700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-34** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260212T062600">2026-02-12 06:26:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Smart Dragon 3 | Unknown Payload&location=Haiyang Oriental Spaceport&dates=20260212T062600Z%2F20260212T064700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Smart Dragon 3 | Unknown Payload** from Haiyang Oriental Spaceport.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260212T080000">2026-02-12 08:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Vulcan VC4S | USSF-87&location=Cape Canaveral SFS, FL, USA&dates=20260212T080000Z%2F20260212T125000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Vulcan VC4S | USSF-87** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260212T083000">2026-02-12 08:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Vulcan VC4S | USSF-87&location=Cape Canaveral SFS, FL, USA&dates=20260212T083000Z%2F20260212T103000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Vulcan VC4S | USSF-87** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260212T085215">2026-02-12 08:52:15 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Proton-M/Blok DM-03 | Elektro-L No.5&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20260212T085215Z%2F20260212T085215Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Proton-M/Blok DM-03 | Elektro-L No.5** from Baikonur Cosmodrome, Republic of Kazakhstan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260212T103800">2026-02-12 10:38:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Crew-12&location=Cape Canaveral SFS, FL, USA&dates=20260212T103800Z%2F20260212T103800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Crew-12** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260212T164500">2026-02-12 16:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ariane 64 | Amazon Leo (LE-01)&location=Guiana Space Centre, French Guiana&dates=20260212T164500Z%2F20260212T171300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ariane 64 | Amazon Leo (LE-01)** from Guiana Space Centre, French Guiana.
@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Watch_live_Crew-12_launch_and_docking" >🔗</a> **[ESA]** Watch live: Crew-12 launch and docking
+- <a href="https://www.nasa.gov/missions/station/iss-research/space-station-research-contributes-to-artemis-ii/" >🔗</a> **[NASA]** Space Station Research Contributes to Artemis II
+- <a href="https://www.nasa.gov/image-article/icy-hudson-river/" >🔗</a> **[NASA]** Icy Hudson River
 - <a href="https://arstechnica.com/space/2026/02/has-elon-musk-given-up-on-mars/" >🔗</a> **[Arstechnica]** Has Elon Musk given up on Mars?
 - <a href="https://spacenews.com/theres-a-way-forward-for-sovereign-european-space-intel-but-is-there-the-will/" >🔗</a> **[SpaceNews]** There’s a way forward for sovereign European space intel, but is there the will?
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/02/Ariane_6_more_boosters_more_power" >🔗</a> **[ESA]** Ariane 6: more boosters, more power
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.spacedaily.com/reports/SpaceX_shifts_focus_from_Mars_to_Moon_Musk_says_999.html" >🔗</a> **[SpaceDaily]** SpaceX shifts focus from Mars to Moon, Musk says
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-february-8-14-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy February 8-14, 2026
 - <a href="https://spaceflightnow.com/2026/02/08/spacex-test-fires-its-falcon-9-rocket-ahead-of-midweek-launch-of-crew-12-to-the-space-station/" >🔗</a> **[Spaceflight Now]** SpaceX test fires its Falcon 9 rocket ahead of midweek launch of Crew-12 to the space station
-- <a href="https://www.spacedaily.com/reports/NASA_confirms_first_flight_to_ISS_since_medical_evacuation_999.html" >🔗</a> **[SpaceDaily]** NASA confirms first flight to ISS since medical evacuation
-- <a href="https://www.spacedaily.com/reports/NASAs_Artemis_II_plans_to_send_a_crew_around_the_Moon_to_test_equipment_and_lay_the_groundwork_for_a_future_landing_999.html" >🔗</a> **[SpaceDaily]** First Crewed Moon Flyby In 54 Years: Artemis II
-- <a href="https://www.spacedaily.com/reports/Curiosity_Blog_Sols_4788_4797_Welcome_Back_from_Conjunction_999.html" >🔗</a> **[SpaceDaily]** Curiosity Blog, Sols 4788-4797: Welcome Back from Conjunction
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260209T154521">2026-02-09 15:45:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260209T161738">2026-02-09 16:17:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
