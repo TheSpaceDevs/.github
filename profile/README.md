@@ -112,13 +112,13 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/02/Sophie_Adenot_ready_for_first_space_mission" >🔗</a> **[ESA]** Sophie Adenot ready for first space mission
 - <a href="https://www.nasa.gov/humans-in-space/nasas-spacex-crew-12-to-study-adaptation-to-altered-gravity/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-12 to Study Adaptation to Altered Gravity
 - <a href="https://www.esa.int/About_Us/Corporate_news/A_presidential_greeting_ahead_of_Sophie_Adenot_s_first_spaceflight" >🔗</a> **[ESA]** A presidential greeting ahead of Sophie Adenot's first spaceflight
+- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/A_presidential_greeting_ahead_of_Sophie_Adenot_s_first_spaceflight" >🔗</a> **[ESA]** A presidential greeting ahead of Sophie Adenot's first spaceflight
 - <a href="https://arstechnica.com/space/2026/02/nasa-will-finally-allow-astronauts-to-bring-their-iphones-to-space/" >🔗</a> **[Arstechnica]** NASA will finally allow astronauts to bring their iPhones to space
-- <a href="https://www.spacedaily.com/reports/SpaceX_grounds_Falcon_9_missions_could_impact_ISS_launch_999.html" >🔗</a> **[SpaceDaily]** SpaceX grounds Falcon 9 missions, could impact ISS launch
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260209T114338">2026-02-09 11:43:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260209T120932">2026-02-09 12:09:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
