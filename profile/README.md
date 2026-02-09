@@ -91,15 +91,15 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Watch_live_Crew-12_launch_and_docking" >🔗</a> **[ESA]** Watch live: Crew-12 launch and docking
+- <a href="https://www.spacescout.info/2026/02/crew-12-to-return-iss-to-normal-complement/" >🔗</a> **[Space Scout]** Crew-12 to Return ISS to Normal Complement
 - <a href="https://www.nasa.gov/missions/station/iss-research/space-station-research-contributes-to-artemis-ii/" >🔗</a> **[NASA]** Space Station Research Contributes to Artemis II
 - <a href="https://www.nasa.gov/image-article/icy-hudson-river/" >🔗</a> **[NASA]** Icy Hudson River
 - <a href="https://arstechnica.com/space/2026/02/has-elon-musk-given-up-on-mars/" >🔗</a> **[Arstechnica]** Has Elon Musk given up on Mars?
+- <a href="https://europeanspaceflight.com/esa-is-preparing-to-announce-aeolus-2-prime-contractor/" >🔗</a> **[European Spaceflight]** ESA is Preparing to Announce Aeolus-2 Prime Contractor
 - <a href="https://spacenews.com/theres-a-way-forward-for-sovereign-european-space-intel-but-is-there-the-will/" >🔗</a> **[SpaceNews]** There’s a way forward for sovereign European space intel, but is there the will?
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/02/Ariane_6_more_boosters_more_power" >🔗</a> **[ESA]** Ariane 6: more boosters, more power
 - <a href="https://www.spacedaily.com/reports/The_Race_Is_On_Artemis_China_and_Musk_Turn_the_Moon_Into_the_Next_Strategic_High_Ground_999.html" >🔗</a> **[SpaceDaily]** The Race Is On: Artemis, China and Musk Turn the Moon Into the Next Strategic High Ground
 - <a href="https://www.spacedaily.com/reports/SpaceX_shifts_focus_from_Mars_to_Moon_Musk_says_999.html" >🔗</a> **[SpaceDaily]** SpaceX shifts focus from Mars to Moon, Musk says
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-february-8-14-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy February 8-14, 2026
-- <a href="https://spaceflightnow.com/2026/02/08/spacex-test-fires-its-falcon-9-rocket-ahead-of-midweek-launch-of-crew-12-to-the-space-station/" >🔗</a> **[Spaceflight Now]** SpaceX test fires its Falcon 9 rocket ahead of midweek launch of Crew-12 to the space station
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260209T174452">2026-02-09 17:44:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260209T181335">2026-02-09 18:13:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
