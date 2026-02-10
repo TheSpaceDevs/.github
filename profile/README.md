@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Watch_live_Crew-12_launch_and_docking" >🔗</a> **[ESA]** Watch live: Crew-12 launch and docking
-- <a href="https://science.nasa.gov/earth/earth-observatory/winter-grips-japan/" >🔗</a> **[NASA]** Winter Grips Japan
-- <a href="https://spacenews.com/musk-says-spacex-focus-is-on-the-moon-rather-than-mars/" >🔗</a> **[SpaceNews]** Musk says SpaceX focus is on the moon rather than Mars
-- <a href="https://www.nasaspaceflight.com/2026/02/launch-preview-020926/" >🔗</a> **[NASASpaceflight]** Launch Preview: Vulcan to launch USSF-87, SpaceX to launch Crew-12 to ISS
-- <a href="https://www.nasa.gov/missions/station/what-you-need-to-know-about-nasas-spacex-crew-12-mission/" >🔗</a> **[NASA]** What You Need to Know About NASA’s SpaceX Crew-12 Mission
-- <a href="https://spaceflightnow.com/2026/02/09/weather-delays-nasas-spacex-crew-12-flight-to-the-international-space-station/" >🔗</a> **[Spaceflight Now]** Weather delays NASA’s SpaceX Crew-12 flight to the International Space Station
-- <a href="https://www.spacescout.info/2026/02/crew-12-to-return-iss-to-normal-complement/" >🔗</a> **[Space Scout]** Crew-12 to Return ISS to Normal Complement
-- <a href="https://www.nasa.gov/missions/station/iss-research/space-station-research-contributes-to-artemis-ii/" >🔗</a> **[NASA]** Space Station Research Contributes to Artemis II
-- <a href="https://www.nasa.gov/image-article/icy-hudson-river/" >🔗</a> **[NASA]** Icy Hudson River
-- <a href="https://arstechnica.com/space/2026/02/has-elon-musk-given-up-on-mars/" >🔗</a> **[Arstechnica]** Has Elon Musk given up on Mars?
+- <a href="https://www.spacedaily.com/reports/Venus_radar_study_reveals_vast_underground_lava_cave_999.html" >🔗</a> **[SpaceDaily]** Venus radar study reveals vast underground lava cave
+- <a href="https://www.spacedaily.com/reports/Amino_acids_in_Bennu_asteroid_hint_at_icy_radioactive_origin_999.html" >🔗</a> **[SpaceDaily]** Amino acids in Bennu asteroid hint at icy radioactive origin
+- <a href="https://www.spacedaily.com/reports/Voyager_wins_NASA_ISS_mission_management_role_through_2030_999.html" >🔗</a> **[SpaceDaily]** Voyager wins NASA ISS mission management role through 2030
+- <a href="https://www.spacedaily.com/reports/Pressure_driven_leakage_from_marine_snow_feeds_deep_ocean_microbes_999.html" >🔗</a> **[SpaceDaily]** Pressure driven leakage from marine snow feeds deep ocean microbes
+- <a href="https://www.spacedaily.com/reports/Astroscale_Japan_to_mature_electric_refueling_for_future_GEO_servicing_999.html" >🔗</a> **[SpaceDaily]** Astroscale Japan to mature electric refueling for future GEO servicing
+- <a href="https://www.spacedaily.com/reports/UK_backs_new_electric_propulsion_hub_for_satellite_engines_999.html" >🔗</a> **[SpaceDaily]** UK backs new electric propulsion hub for satellite engines
+- <a href="https://www.spacedaily.com/reports/China_rolls_out_BeiDou_satellite_messaging_for_emergency_use_999.html" >🔗</a> **[SpaceDaily]** China rolls out BeiDou satellite messaging for emergency use
+- <a href="https://www.spacedaily.com/reports/Momentus_and_NASA_plan_joint_mission_to_test_orbital_servicing_technologies_999.html" >🔗</a> **[SpaceDaily]** Momentus and NASA plan joint mission to test orbital servicing technologies
+- <a href="https://www.spacedaily.com/reports/Enceladus_waves_shape_Saturn_space_weather_999.html" >🔗</a> **[SpaceDaily]** Enceladus waves shape Saturn space weather
+- <a href="https://www.spacedaily.com/reports/JWST_study_links_sulfur_rich_gas_giants_to_core_growth_in_distant_HR_8799_system_999.html" >🔗</a> **[SpaceDaily]** JWST study links sulfur rich gas giants to core growth in distant HR 8799 system
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260210T064920">2026-02-10 06:49:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260210T072208">2026-02-10 07:22:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
