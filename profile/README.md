@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/national-reconnaissance-office-adds-heo-satvu-and-sierra-nevada-to-commercial-imaging-program/" >🔗</a> **[SpaceNews]** National Reconnaissance Office adds HEO, SatVu and Sierra Nevada to commercial imaging program
 - <a href="https://spacenews.com/laser-linked-satellite-networks-moving-from-concept-to-capability/" >🔗</a> **[SpaceNews]** Laser-linked satellite networks moving from concept to capability
 - <a href="https://spacenews.com/australia-space-innovation-institute-applies-space-technologies-to-address-terrestrial-challenges/" >🔗</a> **[SpaceNews]** Australia Space Innovation Institute applies space technologies to address terrestrial challenges
 - <a href="https://spacenews.com/ula-seeks-to-rebuild-launch-cadence-after-ceos-exit/" >🔗</a> **[SpaceNews]** ULA seeks to rebuild launch cadence after CEO’s exit
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/aerospace-attracts-partners-for-disksat-demonstrations/" >🔗</a> **[SpaceNews]** Aerospace attracts partners for DiskSat demonstrations
 - <a href="https://spacenews.com/non-venture-space-startup-investment-hits-post-spac-high/" >🔗</a> **[SpaceNews]** Non-venture space startup investment hits post-SPAC high
 - <a href="https://www.nasa.gov/image-article/cubesats-missions-begin/" >🔗</a> **[NASA]** CubeSats’ Missions Begin
-- <a href="https://spacenews.com/spaceium-demonstrates-refueling-actuator-in-orbit/" >🔗</a> **[SpaceNews]** Spaceium demonstrates refueling actuator in orbit
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260210T221106">2026-02-10 22:11:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260210T224316">2026-02-10 22:43:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
