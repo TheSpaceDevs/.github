@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ula-seeks-to-rebuild-launch-cadence-after-ceos-exit/" >🔗</a> **[SpaceNews]** ULA seeks to rebuild launch cadence after CEO’s exit
+- <a href="https://spacenews.com/germany-funds-78-million-euro-human-exploration-control-center/" >🔗</a> **[SpaceNews]** Germany funds 78 million euro human exploration control center
 - <a href="https://spacenews.com/amazon-leo-nets-anchor-maritime-resellers/" >🔗</a> **[SpaceNews]** Amazon Leo nets anchor maritime resellers
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4798-4803-back-for-more-science/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4798-4803: Back for More Science
 - <a href="https://spacenews.com/aerospace-attracts-partners-for-disksat-demonstrations/" >🔗</a> **[SpaceNews]** Aerospace attracts partners for DiskSat demonstrations
@@ -97,9 +99,7 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/cubesats-missions-begin/" >🔗</a> **[NASA]** CubeSats’ Missions Begin
 - <a href="https://spacenews.com/spaceium-demonstrates-refueling-actuator-in-orbit/" >🔗</a> **[SpaceNews]** Spaceium demonstrates refueling actuator in orbit
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-captures-light-show-around-rapidly-dying-star/" >🔗</a> **[NASA]** NASA’s Hubble Captures Light Show Around Rapidly Dying Star
-- <a href="https://spacenews.com/apolink-and-galaxia-team-up-to-improve-planned-data-relay-capability/" >🔗</a> **[SpaceNews]** Apolink and Galaxia team up to improve planned data relay capability
 - <a href="https://www.esa.int/Space_Safety/Planetary_Defence/ESA_awards_contracts_for_Ramses_mission_to_Apophis" >🔗</a> **[ESA]** ESA awards contracts for Ramses mission to Apophis
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/02/Hubble_captures_light_show_around_rapidly_dying_star" >🔗</a> **[ESA]** Hubble captures light show around rapidly dying star
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260210T194830">2026-02-10 19:48:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260210T201040">2026-02-10 20:10:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
