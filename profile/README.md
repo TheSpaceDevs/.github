@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/aerospace-attracts-partners-for-disksat-demonstrations/" >🔗</a> **[SpaceNews]** Aerospace attracts partners for DiskSat demonstrations
 - <a href="https://spacenews.com/non-venture-space-startup-investment-hits-post-spac-high/" >🔗</a> **[SpaceNews]** Non-venture space startup investment hits post-SPAC high
 - <a href="https://www.nasa.gov/image-article/cubesats-missions-begin/" >🔗</a> **[NASA]** CubeSats’ Missions Begin
 - <a href="https://spacenews.com/spaceium-demonstrates-refueling-actuator-in-orbit/" >🔗</a> **[SpaceNews]** Spaceium demonstrates refueling actuator in orbit
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-captures-light-show-around-rapidly-dying-star/" >🔗</a> **[NASA]** NASA’s Hubble Captures Light Show Around Rapidly Dying Star
-- <a href="https://spacenews.com/apolink-and-galaxia-team-up-to-improve-planned-data-relay-capability/" >🔗</a> **[SpaceNews]** Apolink and Galaxia team up to improve planned data relay capability
 - <a href="https://www.esa.int/Space_Safety/Planetary_Defence/ESA_awards_contracts_for_Ramses_mission_to_Apophis" >🔗</a> **[ESA]** ESA awards contracts for Ramses mission to Apophis
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/02/Hubble_captures_light_show_around_rapidly_dying_star" >🔗</a> **[ESA]** Hubble captures light show around rapidly dying star
 - <a href="https://www.nasa.gov/missions/roman-space-telescope/core-survey-by-nasas-roman-mission-will-unveil-universes-dark-side/" >🔗</a> **[NASA]** Core Survey by NASA’s Roman Mission Will Unveil Universe’s Dark Side
+- <a href="https://spacenews.com/apolink-and-galaxia-team-up-to-improve-planned-data-relay-capability/" >🔗</a> **[SpaceNews]** Apolink and Galaxia team up to improve planned data relay capability
 - <a href="https://spacenews.com/nasa-boeing-still-working-on-starliner-return-to-flight/" >🔗</a> **[SpaceNews]** NASA, Boeing still working on Starliner return to flight
-- <a href="https://www.spacedaily.com/reports/Landsat_study_maps_boreal_forest_shift_north_999.html" >🔗</a> **[SpaceDaily]** Landsat study maps boreal forest shift north
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260210T174752">2026-02-10 17:47:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260210T181709">2026-02-10 18:17:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
