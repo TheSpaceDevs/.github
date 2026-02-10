@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/laser-linked-satellite-networks-moving-from-concept-to-capability/" >🔗</a> **[SpaceNews]** Laser-linked satellite networks moving from concept to capability
+- <a href="https://spacenews.com/australia-space-innovation-institute-applies-space-technologies-to-address-terrestrial-challenges/" >🔗</a> **[SpaceNews]** Australia Space Innovation Institute applies space technologies to address terrestrial challenges
 - <a href="https://spacenews.com/ula-seeks-to-rebuild-launch-cadence-after-ceos-exit/" >🔗</a> **[SpaceNews]** ULA seeks to rebuild launch cadence after CEO’s exit
 - <a href="https://spacenews.com/germany-funds-78-million-euro-human-exploration-control-center/" >🔗</a> **[SpaceNews]** Germany funds 78 million euro human exploration control center
 - <a href="https://spacenews.com/amazon-leo-nets-anchor-maritime-resellers/" >🔗</a> **[SpaceNews]** Amazon Leo nets anchor maritime resellers
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/non-venture-space-startup-investment-hits-post-spac-high/" >🔗</a> **[SpaceNews]** Non-venture space startup investment hits post-SPAC high
 - <a href="https://www.nasa.gov/image-article/cubesats-missions-begin/" >🔗</a> **[NASA]** CubeSats’ Missions Begin
 - <a href="https://spacenews.com/spaceium-demonstrates-refueling-actuator-in-orbit/" >🔗</a> **[SpaceNews]** Spaceium demonstrates refueling actuator in orbit
-- <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-captures-light-show-around-rapidly-dying-star/" >🔗</a> **[NASA]** NASA’s Hubble Captures Light Show Around Rapidly Dying Star
-- <a href="https://www.esa.int/Space_Safety/Planetary_Defence/ESA_awards_contracts_for_Ramses_mission_to_Apophis" >🔗</a> **[ESA]** ESA awards contracts for Ramses mission to Apophis
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260210T211242">2026-02-10 21:12:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260210T214316">2026-02-10 21:43:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
