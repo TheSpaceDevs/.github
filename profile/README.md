@@ -90,25 +90,26 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.spacedaily.com/reports/Landsat_study_maps_boreal_forest_shift_north_999.html" >🔗</a> **[SpaceDaily]** Landsat study maps boreal forest shift north
+- <a href="https://www.spacedaily.com/reports/From_Quantum_Physics_to_Coastal_Resilience_Brad_Bartz_to_Present_Who_Turned_the_Power_Back_On_at_AltaSea_999.html" >🔗</a> **[SpaceDaily]** From Quantum Physics to Coastal Resilience Brad Bartz to Present Who Turned the Power Back On at AltaSea
 - <a href="https://www.spacedaily.com/reports/Abundant_element_alloy_enables_rare_earth_free_cryogenic_cooling_999.html" >🔗</a> **[SpaceDaily]** Abundant element alloy enables rare earth free cryogenic cooling
+- <a href="https://www.spacedaily.com/reports/Climate_change_speeds_up_destruction_of_key_greenhouse_gas_999.html" >🔗</a> **[SpaceDaily]** Climate change speeds up destruction of key greenhouse gas
 - <a href="https://www.spacedaily.com/reports/Shenzhen_district_powers_dense_robot_innovation_ecosystem_999.html" >🔗</a> **[SpaceDaily]** Shenzhen district powers dense robot innovation ecosystem
 - <a href="https://www.spacedaily.com/reports/EUMETSAT_extends_role_in_DestinE_digital_twin_infrastructure_999.html" >🔗</a> **[SpaceDaily]** EUMETSAT extends role in DestinE digital twin infrastructure
-- <a href="https://www.spacedaily.com/reports/From_Quantum_Physics_to_Coastal_Resilience_Brad_Bartz_to_Present_Who_Turned_the_Power_Back_On_at_AltaSea_999.html" >🔗</a> **[SpaceDaily]** From Quantum Physics to Coastal Resilience Brad Bartz to Present Who Turned the Power Back On at AltaSea
-- <a href="https://www.spacedaily.com/reports/Climate_change_speeds_up_destruction_of_key_greenhouse_gas_999.html" >🔗</a> **[SpaceDaily]** Climate change speeds up destruction of key greenhouse gas
+- <a href="https://www.spacedaily.com/reports/Landsat_study_maps_boreal_forest_shift_north_999.html" >🔗</a> **[SpaceDaily]** Landsat study maps boreal forest shift north
 - <a href="https://www.spacedaily.com/reports/Launch_to_ISS_pushed_to_Thursday_over_weather_NASA_999.html" >🔗</a> **[SpaceDaily]** Launch to ISS pushed to Thursday over weather: NASA
-- <a href="https://www.spacedaily.com/reports/UK_backs_new_electric_propulsion_hub_for_satellite_engines_999.html" >🔗</a> **[SpaceDaily]** UK backs new electric propulsion hub for satellite engines
-- <a href="https://www.spacedaily.com/reports/Astroscale_Japan_to_mature_electric_refueling_for_future_GEO_servicing_999.html" >🔗</a> **[SpaceDaily]** Astroscale Japan to mature electric refueling for future GEO servicing
-- <a href="https://www.spacedaily.com/reports/Amino_acids_in_Bennu_asteroid_hint_at_icy_radioactive_origin_999.html" >🔗</a> **[SpaceDaily]** Amino acids in Bennu asteroid hint at icy radioactive origin
+- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Watch_live_first_launch_of_Ariane_6_with_four_boosters" >🔗</a> **[ESA]** Watch live: first launch of Ariane 6 with four boosters
+- <a href="https://www.spacedaily.com/reports/Firefly_prepares_Alpha_Flight_7_stairway_to_seven_mission_999.html" >🔗</a> **[SpaceDaily]** Firefly prepares Alpha Flight 7 stairway to seven mission
+- <a href="https://www.spacedaily.com/reports/Enceladus_waves_shape_Saturn_space_weather_999.html" >🔗</a> **[SpaceDaily]** Enceladus waves shape Saturn space weather
 
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2026/02/launch-preview-020926/" >🔗</a> **[NASASpaceflight]** Launch Preview: Vulcan to launch USSF-87, SpaceX to launch Crew-12 to ISS
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260210T121113">2026-02-10 12:11:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260210T124550">2026-02-10 12:45:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
