@@ -93,13 +93,13 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-captures-light-show-around-rapidly-dying-star/" >🔗</a> **[NASA]** NASA’s Hubble Captures Light Show Around Rapidly Dying Star
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/02/Hubble_captures_light_show_around_rapidly_dying_star" >🔗</a> **[ESA]** Hubble captures light show around rapidly dying star
 - <a href="https://www.nasa.gov/missions/roman-space-telescope/core-survey-by-nasas-roman-mission-will-unveil-universes-dark-side/" >🔗</a> **[NASA]** Core Survey by NASA’s Roman Mission Will Unveil Universe’s Dark Side
+- <a href="https://www.esa.int/Space_Safety/Planetary_Defence/ESA_awards_contracts_for_Ramses_mission_to_Apophis" >🔗</a> **[ESA]** ESA awards contracts for Ramses mission to Apophis
 - <a href="https://spacenews.com/apolink-and-galaxia-team-up-to-improve-planned-data-relay-capability/" >🔗</a> **[SpaceNews]** Apolink and Galaxia team up to improve planned data relay capability
 - <a href="https://spacenews.com/nasa-boeing-still-working-on-starliner-return-to-flight/" >🔗</a> **[SpaceNews]** NASA, Boeing still working on Starliner return to flight
 - <a href="https://www.spacedaily.com/reports/Landsat_study_maps_boreal_forest_shift_north_999.html" >🔗</a> **[SpaceDaily]** Landsat study maps boreal forest shift north
 - <a href="https://www.spacedaily.com/reports/EUMETSAT_extends_role_in_DestinE_digital_twin_infrastructure_999.html" >🔗</a> **[SpaceDaily]** EUMETSAT extends role in DestinE digital twin infrastructure
 - <a href="https://www.spacedaily.com/reports/Abundant_element_alloy_enables_rare_earth_free_cryogenic_cooling_999.html" >🔗</a> **[SpaceDaily]** Abundant element alloy enables rare earth free cryogenic cooling
 - <a href="https://www.spacedaily.com/reports/Shenzhen_district_powers_dense_robot_innovation_ecosystem_999.html" >🔗</a> **[SpaceDaily]** Shenzhen district powers dense robot innovation ecosystem
-- <a href="https://www.spacedaily.com/reports/From_Quantum_Physics_to_Coastal_Resilience_Brad_Bartz_to_Present_Who_Turned_the_Power_Back_On_at_AltaSea_999.html" >🔗</a> **[SpaceDaily]** From Quantum Physics to Coastal Resilience Brad Bartz to Present Who Turned the Power Back On at AltaSea
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260210T154857">2026-02-10 15:48:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260210T161917">2026-02-10 16:19:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
