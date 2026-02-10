@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.spacedaily.com/reports/From_Quantum_Physics_to_Coastal_Resilience_Brad_Bartz_to_Present_Who_Turned_the_Power_Back_On_at_AltaSea_999.html" >🔗</a> **[SpaceDaily]** From Quantum Physics to Coastal Resilience Brad Bartz to Present Who Turned the Power Back On at AltaSea
-- <a href="https://www.spacedaily.com/reports/Abundant_element_alloy_enables_rare_earth_free_cryogenic_cooling_999.html" >🔗</a> **[SpaceDaily]** Abundant element alloy enables rare earth free cryogenic cooling
+- <a href="https://spacenews.com/nasa-boeing-still-working-on-starliner-return-to-flight/" >🔗</a> **[SpaceNews]** NASA, Boeing still working on Starliner return to flight
+- <a href="https://www.spacedaily.com/reports/EUMETSAT_extends_role_in_DestinE_digital_twin_infrastructure_999.html" >🔗</a> **[SpaceDaily]** EUMETSAT extends role in DestinE digital twin infrastructure
 - <a href="https://www.spacedaily.com/reports/Climate_change_speeds_up_destruction_of_key_greenhouse_gas_999.html" >🔗</a> **[SpaceDaily]** Climate change speeds up destruction of key greenhouse gas
 - <a href="https://www.spacedaily.com/reports/Shenzhen_district_powers_dense_robot_innovation_ecosystem_999.html" >🔗</a> **[SpaceDaily]** Shenzhen district powers dense robot innovation ecosystem
-- <a href="https://www.spacedaily.com/reports/EUMETSAT_extends_role_in_DestinE_digital_twin_infrastructure_999.html" >🔗</a> **[SpaceDaily]** EUMETSAT extends role in DestinE digital twin infrastructure
+- <a href="https://www.spacedaily.com/reports/Abundant_element_alloy_enables_rare_earth_free_cryogenic_cooling_999.html" >🔗</a> **[SpaceDaily]** Abundant element alloy enables rare earth free cryogenic cooling
 - <a href="https://www.spacedaily.com/reports/Landsat_study_maps_boreal_forest_shift_north_999.html" >🔗</a> **[SpaceDaily]** Landsat study maps boreal forest shift north
 - <a href="https://www.spacedaily.com/reports/Launch_to_ISS_pushed_to_Thursday_over_weather_NASA_999.html" >🔗</a> **[SpaceDaily]** Launch to ISS pushed to Thursday over weather: NASA
-- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Watch_live_first_launch_of_Ariane_6_with_four_boosters" >🔗</a> **[ESA]** Watch live: first launch of Ariane 6 with four boosters
-- <a href="https://www.spacedaily.com/reports/Firefly_prepares_Alpha_Flight_7_stairway_to_seven_mission_999.html" >🔗</a> **[SpaceDaily]** Firefly prepares Alpha Flight 7 stairway to seven mission
-- <a href="https://www.spacedaily.com/reports/Enceladus_waves_shape_Saturn_space_weather_999.html" >🔗</a> **[SpaceDaily]** Enceladus waves shape Saturn space weather
+- <a href="https://www.spacedaily.com/reports/From_Quantum_Physics_to_Coastal_Resilience_Brad_Bartz_to_Present_Who_Turned_the_Power_Back_On_at_AltaSea_999.html" >🔗</a> **[SpaceDaily]** From Quantum Physics to Coastal Resilience Brad Bartz to Present Who Turned the Power Back On at AltaSea
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Intense_rainfall_brings_floods_across_Iberian_Peninsula" >🔗</a> **[ESA]** Intense rainfall brings floods across Iberian Peninsula
+- <a href="https://europeanspaceflight.com/earth-observation-data-provider-constellr-closes-e37-million-series-a/" >🔗</a> **[European Spaceflight]** Earth Observation Data Provider Constellr Closes €37 Million Series A
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260210T124550">2026-02-10 12:45:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260210T132815">2026-02-10 13:28:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
