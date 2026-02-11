@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/fcc-approves-thousands-more-amazon-leo-satellites-as-gen-1-deadline-looms/" >🔗</a> **[SpaceNews]** FCC approves thousands more Amazon Leo satellites as Gen 1 deadline looms
+- <a href="https://science.nasa.gov/earth/earth-observatory/summer-heat-hits-southeastern-australia/" >🔗</a> **[NASA]** Summer Heat Hits Southeastern Australia
 - <a href="https://spacepolicyonline.com/news/musk-embraces-the-moon/" >🔗</a> **[SpacePolicyOnline.com]** Musk Embraces the Moon
 - <a href="https://spaceflightnow.com/2026/02/11/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://spaceflightnow.com/2026/02/11/ula-sets-sights-on-ramping-up-launch-cadence-in-2026/" >🔗</a> **[Spaceflight Now]** ULA sets sights on ramping up launch cadence in 2026
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/laser-linked-satellite-networks-moving-from-concept-to-capability/" >🔗</a> **[SpaceNews]** Laser-linked satellite networks moving from concept to capability
 - <a href="https://spacenews.com/australia-space-innovation-institute-applies-space-technologies-to-address-terrestrial-challenges/" >🔗</a> **[SpaceNews]** Australia Space Innovation Institute applies space technologies to address terrestrial challenges
 - <a href="https://spacenews.com/ula-seeks-to-rebuild-launch-cadence-after-ceos-exit/" >🔗</a> **[SpaceNews]** ULA seeks to rebuild launch cadence after CEO’s exit
-- <a href="https://spacenews.com/germany-funds-78-million-euro-human-exploration-control-center/" >🔗</a> **[SpaceNews]** Germany funds 78 million euro human exploration control center
-- <a href="https://spacenews.com/amazon-leo-nets-anchor-maritime-resellers/" >🔗</a> **[SpaceNews]** Amazon Leo nets anchor maritime resellers
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260211T050902">2026-02-11 05:09:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260211T055410">2026-02-11 05:54:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
