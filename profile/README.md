@@ -99,7 +99,7 @@ into *an Unknown
 - <a href="https://www.nasa.gov/centers-and-facilities/stennis/preparation-for-artemis-iv-testing/" >🔗</a> **[NASA]** NASA Marks Milestone in Preparation for Artemis IV Testing
 - <a href="https://www.nasaspaceflight.com/2026/02/booster-19-testing-upgraded-masseys/" >🔗</a> **[NASASpaceflight]** SpaceX complete Booster 19 testing at upgraded Massey’s
 - <a href="https://spacenews.com/reusable-launch-vehicles-will-change-everything-in-space-and-on-earth/" >🔗</a> **[SpaceNews]** Reusable launch vehicles will change everything in space, and on Earth
-- <a href="https://spacenews.com/eutelsat-gets-nearly-1-billion-euros-in-french-backed-eca-financing/" >🔗</a> **[SpaceNews]** Eutelsat gets nearly 1 billion euros in French-backed ECA financing
+- <a href="https://europeanspaceflight.com/orbex-fails-after-planned-purchase-falls-through/" >🔗</a> **[European Spaceflight]** Orbex Fails After Planned Purchase Falls Through
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260211T174607">2026-02-11 17:46:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260211T181530">2026-02-11 18:15:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
