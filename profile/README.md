@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/musk-embraces-the-moon/" >🔗</a> **[SpacePolicyOnline.com]** Musk Embraces the Moon
+- <a href="https://spaceflightnow.com/2026/02/11/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://spaceflightnow.com/2026/02/11/ula-sets-sights-on-ramping-up-launch-cadence-in-2026/" >🔗</a> **[Spaceflight Now]** ULA sets sights on ramping up launch cadence in 2026
 - <a href="https://spacenews.com/satellite-manufacturers-see-emerging-market-for-mini-constellations/" >🔗</a> **[SpaceNews]** Satellite manufacturers see emerging market for ‘mini-constellations’
 - <a href="https://spacenews.com/national-reconnaissance-office-adds-heo-satvu-and-sierra-nevada-to-commercial-imaging-program/" >🔗</a> **[SpaceNews]** National Reconnaissance Office adds HEO, SatVu and Sierra Nevada to commercial imaging program
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/ula-seeks-to-rebuild-launch-cadence-after-ceos-exit/" >🔗</a> **[SpaceNews]** ULA seeks to rebuild launch cadence after CEO’s exit
 - <a href="https://spacenews.com/germany-funds-78-million-euro-human-exploration-control-center/" >🔗</a> **[SpaceNews]** Germany funds 78 million euro human exploration control center
 - <a href="https://spacenews.com/amazon-leo-nets-anchor-maritime-resellers/" >🔗</a> **[SpaceNews]** Amazon Leo nets anchor maritime resellers
-- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4798-4803-back-for-more-science/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4798-4803: Back for More Science
-- <a href="https://spacenews.com/aerospace-attracts-partners-for-disksat-demonstrations/" >🔗</a> **[SpaceNews]** Aerospace attracts partners for DiskSat demonstrations
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260211T025836">2026-02-11 02:58:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260211T040025">2026-02-11 04:00:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
