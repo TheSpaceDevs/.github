@@ -19,27 +19,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 17-34**. It is scheduled to be launched by *SpaceX*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260211T140700">2026-02-11 14:07:00 UTC</a>.  Until
-then, this pad will have been used for 246
-out of 860 launches from this location. The launch status is currently
+**Smart Dragon 3 | Unknown Payload**. It is scheduled to be launched by *China Rocket Co. Ltd.*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+from *<a href="None">South China Sea (launch location 3)</a>, Haiyang Oriental Spaceport*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260212T062600">2026-02-12 06:26:00 UTC</a>.  Until
+then, this pad will have been used for 0
+out of 22 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Communications* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+*Unknown* and the payload will be injected
+into *an Unknown
+(N/A)*.
 <br>
 <blockquote>
-  A batch of 24 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  Possibly an Earth observation satellite for the Pakistan government's SUPARCO, details TBD.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+  <a href="None" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=34.632,-120.611" >
+  <a href="https://www.google.com/maps?q=21.366667,112.116667" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -54,6 +54,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260216T050000">2026-02-16 05:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-103&location=Cape Canaveral SFS, FL, USA&dates=20260216T050000Z%2F20260216T090000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-103** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260217T220000">2026-02-17 22:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-36&location=Cape Canaveral SFS, FL, USA&dates=20260217T220000Z%2F20260218T020000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-36** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260218T080000">2026-02-18 08:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-25&location=Vandenberg SFB, CA, USA&dates=20260218T080000Z%2F20260218T120000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-25** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260219T005000">2026-02-19 00:50:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Firefly Alpha | Stairway to Seven&location=Vandenberg SFB, CA, USA&dates=20260219T005000Z%2F20260219T045800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Firefly Alpha | Stairway to Seven** from Vandenberg SFB, CA, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -89,27 +90,29 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/artemis/artemis-2/i-am-artemis-jesse-berdis/" >🔗</a> **[NASA]** I Am Artemis: Jesse Berdis
+- <a href="https://spacenews.com/how-much-is-vertical-integration-squeezing-the-smallsat-opportunity/" >🔗</a> **[SpaceNews]** How much is vertical integration squeezing the smallsat opportunity?
 - <a href="https://spacenews.com/motiv-space-systems-and-picknik-robotics-collaborate-on-software-for-nasas-fly-foundational-robotics-ffr-mission/" >🔗</a> **[SpaceNews]** Motiv Space Systems and PickNik Robotics Collaborate on Software for NASA’s Fly Foundational Robotics (FFR) Mission
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/02/ESA_s_Genesis_mission_celebrates_International_Day_of_Women_and_Girls_in_STEM" >🔗</a> **[ESA]** ESA’s Genesis mission celebrates International Day of Women and Girls in STEM
 - <a href="https://spacenews.com/nine-innovative-companies-selected-for-fourth-cohort-of-sda-tap-lab-catalyst-campus-mini-accelerator/" >🔗</a> **[SpaceNews]** NINE INNOVATIVE COMPANIES SELECTED FOR FOURTH COHORT OF SDA TAP LAB – CATALYST CAMPUS MINI ACCELERATOR
 - <a href="https://www.nasa.gov/image-article/crew-12-members-and-insignia/" >🔗</a> **[NASA]** Crew-12 Members and Insignia
 - <a href="https://www.nasa.gov/centers-and-facilities/stennis/preparation-for-artemis-iv-testing/" >🔗</a> **[NASA]** NASA Marks Milestone in Preparation for Artemis IV Testing
 - <a href="https://www.nasaspaceflight.com/2026/02/booster-19-testing-upgraded-masseys/" >🔗</a> **[NASASpaceflight]** SpaceX complete Booster 19 testing at upgraded Massey’s
 - <a href="https://spacenews.com/reusable-launch-vehicles-will-change-everything-in-space-and-on-earth/" >🔗</a> **[SpaceNews]** Reusable launch vehicles will change everything in space, and on Earth
 - <a href="https://spacenews.com/eutelsat-gets-nearly-1-billion-euros-in-french-backed-eca-financing/" >🔗</a> **[SpaceNews]** Eutelsat gets nearly 1 billion euros in French-backed ECA financing
-- <a href="https://arstechnica.com/space/2026/02/faa-shuts-down-el-paso-airspace-for-10-days-and-wont-say-why/" >🔗</a> **[Arstechnica]** FAA shuts down El Paso airspace for 10 days and won't say why
-- <a href="https://spacenews.com/stoke-space-adds-350-million-to-series-d-round/" >🔗</a> **[SpaceNews]** Stoke Space adds $350 million to Series D round
-- <a href="https://www.spacedaily.com/reports/Satellite_study_revises_methane_loss_high_in_Earth_atmosphere_999.html" >🔗</a> **[SpaceDaily]** Satellite study revises methane loss high in Earth atmosphere
 
 
 ### Launch-related News 🚀
 
-- <a href="https://spaceflightnow.com/2026/02/11/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://www.nasaspaceflight.com/2026/02/launch-preview-020926/" >🔗</a> **[NASASpaceflight]** Launch Preview: Vulcan to launch USSF-87, SpaceX to launch Crew-12 to ISS
+- <a href="https://www.nasaspaceflight.com/2026/01/launch-roundup-012626/" >🔗</a> **[NASASpaceflight]** Launch Roundup: GPS, Starlink, Electron launches scheduled for last week of January
+- <a href="https://www.nasaspaceflight.com/2026/01/launch-preview-011926/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9 set to launch two missions from California, Isar to attempt second launch of Spectrum
+- <a href="https://www.nasaspaceflight.com/2025/12/launch-roundup-122225/" >🔗</a> **[NASASpaceflight]** Launch Roundup: International launches fill manifest during last full week of 2025
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260211T164651">2026-02-11 16:46:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260211T171939">2026-02-11 17:19:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
