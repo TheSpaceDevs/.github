@@ -89,16 +89,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/motiv-space-systems-and-picknik-robotics-collaborate-on-software-for-nasas-fly-foundational-robotics-ffr-mission/" >🔗</a> **[SpaceNews]** Motiv Space Systems and PickNik Robotics Collaborate on Software for NASA’s Fly Foundational Robotics (FFR) Mission
+- <a href="https://spacenews.com/nine-innovative-companies-selected-for-fourth-cohort-of-sda-tap-lab-catalyst-campus-mini-accelerator/" >🔗</a> **[SpaceNews]** NINE INNOVATIVE COMPANIES SELECTED FOR FOURTH COHORT OF SDA TAP LAB – CATALYST CAMPUS MINI ACCELERATOR
+- <a href="https://www.nasa.gov/image-article/crew-12-members-and-insignia/" >🔗</a> **[NASA]** Crew-12 Members and Insignia
+- <a href="https://www.nasa.gov/centers-and-facilities/stennis/preparation-for-artemis-iv-testing/" >🔗</a> **[NASA]** NASA Marks Milestone in Preparation for Artemis IV Testing
 - <a href="https://www.nasaspaceflight.com/2026/02/booster-19-testing-upgraded-masseys/" >🔗</a> **[NASASpaceflight]** SpaceX complete Booster 19 testing at upgraded Massey’s
 - <a href="https://spacenews.com/reusable-launch-vehicles-will-change-everything-in-space-and-on-earth/" >🔗</a> **[SpaceNews]** Reusable launch vehicles will change everything in space, and on Earth
 - <a href="https://spacenews.com/eutelsat-gets-nearly-1-billion-euros-in-french-backed-eca-financing/" >🔗</a> **[SpaceNews]** Eutelsat gets nearly 1 billion euros in French-backed ECA financing
 - <a href="https://arstechnica.com/space/2026/02/faa-shuts-down-el-paso-airspace-for-10-days-and-wont-say-why/" >🔗</a> **[Arstechnica]** FAA shuts down El Paso airspace for 10 days and won't say why
 - <a href="https://spacenews.com/stoke-space-adds-350-million-to-series-d-round/" >🔗</a> **[SpaceNews]** Stoke Space adds $350 million to Series D round
 - <a href="https://www.spacedaily.com/reports/Satellite_study_revises_methane_loss_high_in_Earth_atmosphere_999.html" >🔗</a> **[SpaceDaily]** Satellite study revises methane loss high in Earth atmosphere
-- <a href="https://www.spacedaily.com/reports/Anthropic_unveils_new_AI_model_as_OpenAI_rivalry_heats_up_999.html" >🔗</a> **[SpaceDaily]** Anthropic unveils new AI model as OpenAI rivalry heats up
-- <a href="https://www.spacedaily.com/reports/Scaling_rules_for_metamaterials_promise_better_implants_and_safer_devices_999.html" >🔗</a> **[SpaceDaily]** Scaling rules for metamaterials promise better implants and safer devices
-- <a href="https://www.spacedaily.com/reports/New_axis_grid_links_complex_earth_data_in_space_and_time_999.html" >🔗</a> **[SpaceDaily]** New axis grid links complex earth data in space and time
-- <a href="https://www.spacedaily.com/reports/China_space_firm_tests_two_seat_flying_car_concept_in_Chongqing_999.html" >🔗</a> **[SpaceDaily]** China space firm tests two seat flying car concept in Chongqing
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260211T154603">2026-02-11 15:46:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260211T161901">2026-02-11 16:19:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
