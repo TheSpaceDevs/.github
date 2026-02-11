@@ -90,14 +90,14 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.spacedaily.com/reports/Satellite_study_revises_methane_loss_high_in_Earth_atmosphere_999.html" >🔗</a> **[SpaceDaily]** Satellite study revises methane loss high in Earth atmosphere
-- <a href="https://www.spacedaily.com/reports/Scaling_rules_for_metamaterials_promise_better_implants_and_safer_devices_999.html" >🔗</a> **[SpaceDaily]** Scaling rules for metamaterials promise better implants and safer devices
-- <a href="https://www.spacedaily.com/reports/Anthropic_unveils_new_AI_model_as_OpenAI_rivalry_heats_up_999.html" >🔗</a> **[SpaceDaily]** Anthropic unveils new AI model as OpenAI rivalry heats up
+- <a href="https://www.spacedaily.com/reports/Flexible_electronics_reshape_intelligent_robot_design_999.html" >🔗</a> **[SpaceDaily]** Flexible electronics reshape intelligent robot design
 - <a href="https://www.spacedaily.com/reports/China_space_firm_tests_two_seat_flying_car_concept_in_Chongqing_999.html" >🔗</a> **[SpaceDaily]** China space firm tests two seat flying car concept in Chongqing
 - <a href="https://www.spacedaily.com/reports/New_axis_grid_links_complex_earth_data_in_space_and_time_999.html" >🔗</a> **[SpaceDaily]** New axis grid links complex earth data in space and time
-- <a href="https://www.spacedaily.com/reports/Flexible_electronics_reshape_intelligent_robot_design_999.html" >🔗</a> **[SpaceDaily]** Flexible electronics reshape intelligent robot design
-- <a href="https://www.spacewar.com/reports/Lockheed_Martin_debuts_Lamprey_undersea_mission_vehicle_999.html" >🔗</a> **[SpaceDaily]** Lockheed Martin debuts Lamprey undersea mission vehicle
+- <a href="https://www.spacedaily.com/reports/Anthropic_unveils_new_AI_model_as_OpenAI_rivalry_heats_up_999.html" >🔗</a> **[SpaceDaily]** Anthropic unveils new AI model as OpenAI rivalry heats up
+- <a href="https://www.spacedaily.com/reports/Scaling_rules_for_metamaterials_promise_better_implants_and_safer_devices_999.html" >🔗</a> **[SpaceDaily]** Scaling rules for metamaterials promise better implants and safer devices
 - <a href="https://www.spacedaily.com/reports/When_Earths_magnetic_field_took_its_time_flipping_999.html" >🔗</a> **[SpaceDaily]** When Earth's magnetic field took its time flipping
+- <a href="https://www.spacedaily.com/reports/Satellite_study_revises_methane_loss_high_in_Earth_atmosphere_999.html" >🔗</a> **[SpaceDaily]** Satellite study revises methane loss high in Earth atmosphere
+- <a href="https://www.spacewar.com/reports/Lockheed_Martin_debuts_Lamprey_undersea_mission_vehicle_999.html" >🔗</a> **[SpaceDaily]** Lockheed Martin debuts Lamprey undersea mission vehicle
 - <a href="https://spacenews.com/china-tests-crewed-spacecraft-abort-and-rocket-recovery-in-major-lunar-milestone/" >🔗</a> **[SpaceNews]** China tests crewed spacecraft abort and rocket recovery in major lunar milestone
 - <a href="https://www.esa.int/About_Us/Diversity_and_Inclusiveness/ESA_marks_International_Day_of_Women_and_Girls_in_Science_2026" >🔗</a> **[ESA]** ESA marks International Day of Women and Girls in Science 2026
 
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260211T120950">2026-02-11 12:09:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260211T124523">2026-02-11 12:45:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
