@@ -45,7 +45,6 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260211T140700">2026-02-11 14:07:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-34&location=Vandenberg SFB, CA, USA&dates=20260211T140700Z%2F20260211T180700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-34** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260212T062600">2026-02-12 06:26:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Smart Dragon 3 | Unknown Payload&location=Haiyang Oriental Spaceport&dates=20260212T062600Z%2F20260212T064700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Smart Dragon 3 | Unknown Payload** from Haiyang Oriental Spaceport.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260212T083000">2026-02-12 08:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Vulcan VC4S | USSF-87&location=Cape Canaveral SFS, FL, USA&dates=20260212T083000Z%2F20260212T103000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Vulcan VC4S | USSF-87** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260212T085215">2026-02-12 08:52:15 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Proton-M/Blok DM-03 | Elektro-L No.5&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20260212T085215Z%2F20260212T085215Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Proton-M/Blok DM-03 | Elektro-L No.5** from Baikonur Cosmodrome, Republic of Kazakhstan.
@@ -90,16 +89,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/reusable-launch-vehicles-will-change-everything-in-space-and-on-earth/" >🔗</a> **[SpaceNews]** Reusable launch vehicles will change everything in space, and on Earth
 - <a href="https://spacenews.com/eutelsat-gets-nearly-1-billion-euros-in-french-backed-eca-financing/" >🔗</a> **[SpaceNews]** Eutelsat gets nearly 1 billion euros in French-backed ECA financing
 - <a href="https://arstechnica.com/space/2026/02/faa-shuts-down-el-paso-airspace-for-10-days-and-wont-say-why/" >🔗</a> **[Arstechnica]** FAA shuts down El Paso airspace for 10 days and won't say why
 - <a href="https://spacenews.com/stoke-space-adds-350-million-to-series-d-round/" >🔗</a> **[SpaceNews]** Stoke Space adds $350 million to Series D round
-- <a href="https://www.spacedaily.com/reports/Scaling_rules_for_metamaterials_promise_better_implants_and_safer_devices_999.html" >🔗</a> **[SpaceDaily]** Scaling rules for metamaterials promise better implants and safer devices
 - <a href="https://www.spacedaily.com/reports/Anthropic_unveils_new_AI_model_as_OpenAI_rivalry_heats_up_999.html" >🔗</a> **[SpaceDaily]** Anthropic unveils new AI model as OpenAI rivalry heats up
 - <a href="https://www.spacedaily.com/reports/Satellite_study_revises_methane_loss_high_in_Earth_atmosphere_999.html" >🔗</a> **[SpaceDaily]** Satellite study revises methane loss high in Earth atmosphere
+- <a href="https://www.spacedaily.com/reports/Scaling_rules_for_metamaterials_promise_better_implants_and_safer_devices_999.html" >🔗</a> **[SpaceDaily]** Scaling rules for metamaterials promise better implants and safer devices
+- <a href="https://www.spacedaily.com/reports/New_axis_grid_links_complex_earth_data_in_space_and_time_999.html" >🔗</a> **[SpaceDaily]** New axis grid links complex earth data in space and time
 - <a href="https://www.spacedaily.com/reports/China_space_firm_tests_two_seat_flying_car_concept_in_Chongqing_999.html" >🔗</a> **[SpaceDaily]** China space firm tests two seat flying car concept in Chongqing
 - <a href="https://www.spacewar.com/reports/Lockheed_Martin_debuts_Lamprey_undersea_mission_vehicle_999.html" >🔗</a> **[SpaceDaily]** Lockheed Martin debuts Lamprey undersea mission vehicle
-- <a href="https://www.spacedaily.com/reports/New_axis_grid_links_complex_earth_data_in_space_and_time_999.html" >🔗</a> **[SpaceDaily]** New axis grid links complex earth data in space and time
-- <a href="https://www.spacedaily.com/reports/When_Earths_magnetic_field_took_its_time_flipping_999.html" >🔗</a> **[SpaceDaily]** When Earth's magnetic field took its time flipping
 
 
 ### Launch-related News 🚀
@@ -110,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260211T135829">2026-02-11 13:58:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260211T142918">2026-02-11 14:29:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
