@@ -90,6 +90,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/nasa-completes-first-flight-of-laminar-flow-scaled-wing-design/" >🔗</a> **[NASA]** NASA Completes First Flight of Laminar Flow Scaled Wing Design
+- <a href="https://www.nasaspaceflight.com/2026/02/39a-caa-removed-future-starship/" >🔗</a> **[NASASpaceflight]** 39A CAA removed, ending crew launch from historic site, for now
+- <a href="https://spacenews.com/spacex-ipo-may-suck-oxygen-from-market-before-unleashing-broad-capital-surge/" >🔗</a> **[SpaceNews]** SpaceX IPO may suck oxygen from market before unleashing broad capital surge
 - <a href="https://spacenews.com/uk-launcher-orbex-files-for-administration-after-failed-funding-efforts/" >🔗</a> **[SpaceNews]** UK Launcher Orbex files for administration after failed funding efforts
 - <a href="https://spacenews.com/space-companies-bet-on-golden-dome-as-questions-persist-over-scope-and-funding/" >🔗</a> **[SpaceNews]** Space companies bet on Golden Dome as questions persist over scope and funding
 - <a href="https://arstechnica.com/space/2026/02/yes-rocket-lab-is-blowing-up-engines-no-its-not-a-big-deal-ceo-says/" >🔗</a> **[Arstechnica]** Yes, Rocket Lab is blowing up engines. No, it's not a big deal, CEO says.
@@ -97,9 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/integrate-raises-17m-to-commercialize-the-worlds-first-ultra-secure-project-management-platform-for-classified-programs/" >🔗</a> **[SpaceNews]** Integrate Raises $17M to Commercialize the World’s First Ultra-Secure Project Management Platform for Classified Programs
 - <a href="https://www.nasaspaceflight.com/2026/02/ussf-87-launch/" >🔗</a> **[NASASpaceflight]** ULA to launch first mission of 2026 with USSF-87 aboard Vulcan
 - <a href="https://spacenews.com/demand-for-sovereign-systems-extends-to-the-earth-observation-stack/" >🔗</a> **[SpaceNews]** Demand for sovereign systems extends to the Earth-observation stack
-- <a href="https://spaceflightnow.com/2026/02/11/live-coverage-ula-to-launch-geosynchronous-orbit-surveillance-satellite-for-the-u-s-space-force/" >🔗</a> **[Spaceflight Now]** Live coverage: ULA to launch geosynchronous orbit surveillance satellite for the U.S. Space Force
-- <a href="https://spacenews.com/the-exploration-company-completes-water-impact-tests-for-its-nyx-space-capsule/" >🔗</a> **[SpaceNews]** The Exploration Company completes water-impact tests for its Nyx space capsule
-- <a href="https://spacenews.com/new-approaches-to-collapse-space-kill-chains-event/" >🔗</a> **[SpaceNews]** Register Now: New Approaches to Collapse Space Kill Chains
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260211T230553">2026-02-11 23:05:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260211T234118">2026-02-11 23:41:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
