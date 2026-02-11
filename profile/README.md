@@ -90,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/integrate-raises-17m-to-commercialize-the-worlds-first-ultra-secure-project-management-platform-for-classified-programs/" >🔗</a> **[SpaceNews]** Integrate Raises $17M to Commercialize the World’s First Ultra-Secure Project Management Platform for Classified Programs
+- <a href="https://www.nasaspaceflight.com/2026/02/ussf-87-launch/" >🔗</a> **[NASASpaceflight]** ULA to launch first mission of 2026 with USSF-87 aboard Vulcan
+- <a href="https://spacenews.com/demand-for-sovereign-systems-extends-to-the-earth-observation-stack/" >🔗</a> **[SpaceNews]** Demand for sovereign systems extends to the Earth-observation stack
+- <a href="https://spaceflightnow.com/2026/02/11/live-coverage-ula-to-launch-geosynchronous-orbit-surveillance-satellite-for-the-u-s-space-force/" >🔗</a> **[Spaceflight Now]** Live coverage: ULA to launch geosynchronous orbit surveillance satellite for the U.S. Space Force
 - <a href="https://spacenews.com/the-exploration-company-completes-water-impact-tests-for-its-nyx-space-capsule/" >🔗</a> **[SpaceNews]** The Exploration Company completes water-impact tests for its Nyx space capsule
 - <a href="https://spacenews.com/new-approaches-to-collapse-space-kill-chains-event/" >🔗</a> **[SpaceNews]** Register Now: New Approaches to Collapse Space Kill Chains
 - <a href="https://www.nasa.gov/missions/artemis/artemis-2/i-am-artemis-jesse-berdis/" >🔗</a> **[NASA]** I Am Artemis: Jesse Berdis
 - <a href="https://spacenews.com/how-much-is-vertical-integration-squeezing-the-smallsat-opportunity/" >🔗</a> **[SpaceNews]** How much is vertical integration squeezing the smallsat opportunity?
 - <a href="https://spacenews.com/motiv-space-systems-and-picknik-robotics-collaborate-on-software-for-nasas-fly-foundational-robotics-ffr-mission/" >🔗</a> **[SpaceNews]** Motiv Space Systems and PickNik Robotics Collaborate on Software for NASA’s Fly Foundational Robotics (FFR) Mission
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/02/ESA_s_Genesis_mission_celebrates_International_Day_of_Women_and_Girls_in_STEM" >🔗</a> **[ESA]** ESA’s Genesis mission celebrates International Day of Women and Girls in STEM
-- <a href="https://spacenews.com/nine-innovative-companies-selected-for-fourth-cohort-of-sda-tap-lab-catalyst-campus-mini-accelerator/" >🔗</a> **[SpaceNews]** NINE INNOVATIVE COMPANIES SELECTED FOR FOURTH COHORT OF SDA TAP LAB – CATALYST CAMPUS MINI ACCELERATOR
-- <a href="https://www.nasa.gov/image-article/crew-12-members-and-insignia/" >🔗</a> **[NASA]** Crew-12 Members and Insignia
-- <a href="https://www.nasa.gov/centers-and-facilities/stennis/preparation-for-artemis-iv-testing/" >🔗</a> **[NASA]** NASA Marks Milestone in Preparation for Artemis IV Testing
-- <a href="https://www.nasaspaceflight.com/2026/02/booster-19-testing-upgraded-masseys/" >🔗</a> **[NASASpaceflight]** SpaceX complete Booster 19 testing at upgraded Massey’s
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260211T200716">2026-02-11 20:07:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260211T204259">2026-02-11 20:42:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
