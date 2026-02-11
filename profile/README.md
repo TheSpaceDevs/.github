@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/uk-launcher-orbex-files-for-administration-after-failed-funding-efforts/" >🔗</a> **[SpaceNews]** UK Launcher Orbex files for administration after failed funding efforts
 - <a href="https://spacenews.com/space-companies-bet-on-golden-dome-as-questions-persist-over-scope-and-funding/" >🔗</a> **[SpaceNews]** Space companies bet on Golden Dome as questions persist over scope and funding
 - <a href="https://arstechnica.com/space/2026/02/yes-rocket-lab-is-blowing-up-engines-no-its-not-a-big-deal-ceo-says/" >🔗</a> **[Arstechnica]** Yes, Rocket Lab is blowing up engines. No, it's not a big deal, CEO says.
 - <a href="https://www.spacescout.info/2026/02/china-completes-mengzhou-abort-test-splashes-down-booster/" >🔗</a> **[Space Scout]** China Completes Mengzhou Abort Test, Splashes Down Booster
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spaceflightnow.com/2026/02/11/live-coverage-ula-to-launch-geosynchronous-orbit-surveillance-satellite-for-the-u-s-space-force/" >🔗</a> **[Spaceflight Now]** Live coverage: ULA to launch geosynchronous orbit surveillance satellite for the U.S. Space Force
 - <a href="https://spacenews.com/the-exploration-company-completes-water-impact-tests-for-its-nyx-space-capsule/" >🔗</a> **[SpaceNews]** The Exploration Company completes water-impact tests for its Nyx space capsule
 - <a href="https://spacenews.com/new-approaches-to-collapse-space-kill-chains-event/" >🔗</a> **[SpaceNews]** Register Now: New Approaches to Collapse Space Kill Chains
-- <a href="https://www.nasa.gov/missions/artemis/artemis-2/i-am-artemis-jesse-berdis/" >🔗</a> **[NASA]** I Am Artemis: Jesse Berdis
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260211T220421">2026-02-11 22:04:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260211T224057">2026-02-11 22:40:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
