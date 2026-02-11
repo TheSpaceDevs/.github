@@ -90,6 +90,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-companies-bet-on-golden-dome-as-questions-persist-over-scope-and-funding/" >🔗</a> **[SpaceNews]** Space companies bet on Golden Dome as questions persist over scope and funding
+- <a href="https://arstechnica.com/space/2026/02/yes-rocket-lab-is-blowing-up-engines-no-its-not-a-big-deal-ceo-says/" >🔗</a> **[Arstechnica]** Yes, Rocket Lab is blowing up engines. No, it's not a big deal, CEO says.
+- <a href="https://www.spacescout.info/2026/02/china-completes-mengzhou-abort-test-splashes-down-booster/" >🔗</a> **[Space Scout]** China Completes Mengzhou Abort Test, Splashes Down Booster
 - <a href="https://spacenews.com/integrate-raises-17m-to-commercialize-the-worlds-first-ultra-secure-project-management-platform-for-classified-programs/" >🔗</a> **[SpaceNews]** Integrate Raises $17M to Commercialize the World’s First Ultra-Secure Project Management Platform for Classified Programs
 - <a href="https://www.nasaspaceflight.com/2026/02/ussf-87-launch/" >🔗</a> **[NASASpaceflight]** ULA to launch first mission of 2026 with USSF-87 aboard Vulcan
 - <a href="https://spacenews.com/demand-for-sovereign-systems-extends-to-the-earth-observation-stack/" >🔗</a> **[SpaceNews]** Demand for sovereign systems extends to the Earth-observation stack
@@ -97,9 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/the-exploration-company-completes-water-impact-tests-for-its-nyx-space-capsule/" >🔗</a> **[SpaceNews]** The Exploration Company completes water-impact tests for its Nyx space capsule
 - <a href="https://spacenews.com/new-approaches-to-collapse-space-kill-chains-event/" >🔗</a> **[SpaceNews]** Register Now: New Approaches to Collapse Space Kill Chains
 - <a href="https://www.nasa.gov/missions/artemis/artemis-2/i-am-artemis-jesse-berdis/" >🔗</a> **[NASA]** I Am Artemis: Jesse Berdis
-- <a href="https://spacenews.com/how-much-is-vertical-integration-squeezing-the-smallsat-opportunity/" >🔗</a> **[SpaceNews]** How much is vertical integration squeezing the smallsat opportunity?
-- <a href="https://spacenews.com/motiv-space-systems-and-picknik-robotics-collaborate-on-software-for-nasas-fly-foundational-robotics-ffr-mission/" >🔗</a> **[SpaceNews]** Motiv Space Systems and PickNik Robotics Collaborate on Software for NASA’s Fly Foundational Robotics (FFR) Mission
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/02/ESA_s_Genesis_mission_celebrates_International_Day_of_Women_and_Girls_in_STEM" >🔗</a> **[ESA]** ESA’s Genesis mission celebrates International Day of Women and Girls in STEM
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260211T210915">2026-02-11 21:09:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260211T214142">2026-02-11 21:41:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
