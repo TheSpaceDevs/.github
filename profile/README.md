@@ -92,6 +92,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/shimmering-light-in-egg-nebula/" >🔗</a> **[NASA]** Shimmering Light in Egg Nebula
 - <a href="https://spaceflightnow.com/2026/02/12/nasa-loading-liquid-hydrogen-aboard-artemis-2-rocket-in-unannounced-test/" >🔗</a> **[Spaceflight Now]** NASA loading liquid hydrogen aboard Artemis 2 rocket in unannounced test
 - <a href="https://spacenews.com/it-is-time-to-take-astronomy-off-earth/" >🔗</a> **[SpaceNews]** It is time to take astronomy off Earth
 - <a href="https://spacenews.com/software-startup-integrate-makes-push-into-defense-market-following-space-force-award/" >🔗</a> **[SpaceNews]** Software startup Integrate makes push into defense market following Space Force award
@@ -101,7 +102,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2026/02/le-01-launch/" >🔗</a> **[NASASpaceflight]** Inaugural Ariane 64 to launch Amazon Leo satellites from Kourou
 - <a href="https://spacenews.com/fcc-space-bureau-chief-shares-agenda-for-regulatory-reform/" >🔗</a> **[SpaceNews]** FCC Space Bureau chief shares agenda for regulatory reform
 - <a href="https://science.nasa.gov/earth/earth-observatory/reaching-top-speed-in-the-dolomites/" >🔗</a> **[NASA]** Reaching Top Speed in the Dolomites
-- <a href="https://www.nasaspaceflight.com/2026/02/elektro-l-no5-launch/" >🔗</a> **[NASASpaceflight]** Proton-M to launch Elektro-L No.5 on its final mission with Blok-DM upper stage
 
 
 ### Launch-related News 🚀
@@ -120,7 +120,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260212T154444">2026-02-12 15:44:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260212T161543">2026-02-12 16:15:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
