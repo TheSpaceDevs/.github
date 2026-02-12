@@ -53,8 +53,8 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260219T005000">2026-02-19 00:50:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Firefly Alpha | Stairway to Seven&location=Vandenberg SFB, CA, USA&dates=20260219T005000Z%2F20260219T045800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Firefly Alpha | Stairway to Seven** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260221T200000">2026-02-21 20:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-26&location=Vandenberg SFB, CA, USA&dates=20260221T200000Z%2F20260222T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-26** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260222T020400">2026-02-22 02:04:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-104&location=Cape Canaveral SFS, FL, USA&dates=20260222T020400Z%2F20260222T060400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-104** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260223T200000">2026-02-23 20:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=HASTE | That&#x27;s Not A Knife (DART AE)&location=Wallops Flight Facility, Virginia, USA&dates=20260223T200000Z%2F20260224T004500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **HASTE | That's Not A Knife (DART AE)** from Wallops Flight Facility, Virginia, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260224T205600">2026-02-24 20:56:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-110&location=Cape Canaveral SFS, FL, USA&dates=20260224T205600Z%2F20260225T005600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-110** from Cape Canaveral SFS, FL, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260225T020000">2026-02-25 02:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=KAIROS | Flight 3&location=Spaceport Kii, Japan&dates=20260225T020000Z%2F20260225T022000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **KAIROS | Flight 3** from Spaceport Kii, Japan.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-startups-find-more-paths-to-liquidity-as-investors-warm-to-maturing-sector/" >🔗</a> **[SpaceNews]** Space startups find more paths to liquidity as investors warm to maturing sector
+- <a href="https://spacenews.com/first-ariane-64-launches-amazon-leo-satellites/" >🔗</a> **[SpaceNews]** First Ariane 64 launches Amazon Leo satellites
 - <a href="https://www.nasa.gov/news-release/nasa-selects-vast-for-sixth-private-mission-to-space-station/" >🔗</a> **[NASA]** NASA Selects Vast for Sixth Private Mission to Space Station
 - <a href="https://spacenews.com/axiom-space-raises-additional-350-million/" >🔗</a> **[SpaceNews]** Axiom Space raises additional $350 million
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/02/Highlights_of_first_launch_of_Ariane_6_with_four_boosters" >🔗</a> **[ESA]** Highlights of first launch of Ariane 6 with four boosters
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/More_boosters_more_power_Ariane_6_lifts_off_with_four_boosters_for_the_first_time" >🔗</a> **[ESA]** More boosters, more power: Ariane 6 lifts off with four boosters for the first time
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/More_power_first_Ariane_6_with_four_boosters_lifts_off" >🔗</a> **[ESA]** More power: first Ariane 6 with four boosters lifts off
 - <a href="https://www.nasa.gov/humans-in-space/nasa-moon-mission-spacesuit-nears-milestone/" >🔗</a> **[NASA]** NASA Moon Mission Spacesuit Nears Milestone
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/02/Liftoff_power_launch_of_first_Ariane_6_with_four_boosters" >🔗</a> **[ESA]** Liftoff power: launch of first Ariane 6 with four boosters
-- <a href="https://www.spacescout.info/2026/02/ussf-87-anomaly-reveals-continuing-obstacles-for-ulas-vulcan-centaur/" >🔗</a> **[Space Scout]** USSF-87 Anomaly Reveals Continuing Obstacles for ULA’s Vulcan-Centaur
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260212T220440">2026-02-12 22:04:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260212T224105">2026-02-12 22:41:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
