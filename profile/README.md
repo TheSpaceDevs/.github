@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/fcc-space-bureau-chief-shares-agenda-for-regulatory-reform/" >🔗</a> **[SpaceNews]** FCC Space Bureau chief shares agenda for regulatory reform
+- <a href="https://science.nasa.gov/earth/earth-observatory/reaching-top-speed-in-the-dolomites/" >🔗</a> **[NASA]** Reaching Top Speed in the Dolomites
 - <a href="https://www.nasaspaceflight.com/2026/02/elektro-l-no5-launch/" >🔗</a> **[NASASpaceflight]** Proton-M to launch Elektro-L No.5 on its final mission with Blok-DM upper stage
 - <a href="https://arstechnica.com/space/2026/02/el-paso-airport-closed-after-military-used-new-anti-drone-laser-to-zap-party-balloon/" >🔗</a> **[Arstechnica]** El Paso airport closed after military used new anti-drone laser to zap party balloon
 - <a href="https://www.nasa.gov/image-article/nasa-completes-first-flight-of-laminar-flow-scaled-wing-design/" >🔗</a> **[NASA]** NASA Completes First Flight of Laminar Flow Scaled Wing Design
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/uk-launcher-orbex-files-for-administration-after-failed-funding-efforts/" >🔗</a> **[SpaceNews]** UK Launcher Orbex files for administration after failed funding efforts
 - <a href="https://spacenews.com/space-companies-bet-on-golden-dome-as-questions-persist-over-scope-and-funding/" >🔗</a> **[SpaceNews]** Space companies bet on Golden Dome as questions persist over scope and funding
 - <a href="https://arstechnica.com/space/2026/02/yes-rocket-lab-is-blowing-up-engines-no-its-not-a-big-deal-ceo-says/" >🔗</a> **[Arstechnica]** Yes, Rocket Lab is blowing up engines. No, it's not a big deal, CEO says.
-- <a href="https://www.spacescout.info/2026/02/china-completes-mengzhou-abort-test-splashes-down-booster/" >🔗</a> **[Space Scout]** China Completes Mengzhou Abort Test, Splashes Down Booster
-- <a href="https://spacenews.com/integrate-raises-17m-to-commercialize-the-worlds-first-ultra-secure-project-management-platform-for-classified-programs/" >🔗</a> **[SpaceNews]** Integrate Raises $17M to Commercialize the World’s First Ultra-Secure Project Management Platform for Classified Programs
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260212T044132">2026-02-12 04:41:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260212T052733">2026-02-12 05:27:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
