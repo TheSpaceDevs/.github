@@ -19,27 +19,29 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Smart Dragon 3 | Unknown Payload**. It is scheduled to be launched by *China Rocket Co. Ltd.*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-from *<a href="None">South China Sea (launch location 3)</a>, Haiyang Oriental Spaceport*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260212T062600">2026-02-12 06:26:00 UTC</a>.  Until
-then, this pad will have been used for 0
-out of 22 launches from this location. The launch status is currently
+**Vulcan VC4S | USSF-87**. It is scheduled to be launched by *United Launch Alliance*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_41">Space Launch Complex 41</a>, Cape Canaveral SFS, FL, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260212T083000">2026-02-12 08:30:00 UTC</a>.  Until
+then, this pad will have been used for 120
+out of 1083 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Unknown* and the payload will be injected
-into *an Unknown
-(N/A)*.
+*Government/Top Secret* and the payload will be injected
+into *a Geostationary Orbit
+(Direct-GEO)*.
 <br>
 <blockquote>
-  Possibly an Earth observation satellite for the Pakistan government's SUPARCO, details TBD.
+  USSF-87 will launch two identical Geosynchronous Space Situational Awareness Program (GSSAP) satellites GSSAP-7 and GSSAP-8 directly to a near-geosynchronous orbit approximately 36,000 km above the equator.
+
+Data from the GSSAP will uniquely contribute to timely and accurate orbital predictions, further enabling space flight safety including satellite collision avoidance.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="None" >
+  <a href="https://en.wikipedia.org/wiki/Vulcan_Centaur" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=21.366667,112.116667" >
+  <a href="https://www.google.com/maps?q=28.58341025,-80.58303644" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -54,6 +56,7 @@ into *an Unknown
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260217T220000">2026-02-17 22:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-36&location=Cape Canaveral SFS, FL, USA&dates=20260217T220000Z%2F20260218T020000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-36** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260218T080000">2026-02-18 08:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-25&location=Vandenberg SFB, CA, USA&dates=20260218T080000Z%2F20260218T120000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-25** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260219T005000">2026-02-19 00:50:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Firefly Alpha | Stairway to Seven&location=Vandenberg SFB, CA, USA&dates=20260219T005000Z%2F20260219T045800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Firefly Alpha | Stairway to Seven** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260220T103000">2026-02-20 10:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=GSLV Mk II | GISAT-1A (EOS-05)&location=Satish Dhawan Space Centre, India&dates=20260220T103000Z%2F20260220T143000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **GSLV Mk II | GISAT-1A (EOS-05)** from Satish Dhawan Space Centre, India.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -104,14 +107,16 @@ into *an Unknown
 ### Launch-related News 🚀
 
 - <a href="https://www.nasaspaceflight.com/2026/02/launch-preview-020926/" >🔗</a> **[NASASpaceflight]** Launch Preview: Vulcan to launch USSF-87, SpaceX to launch Crew-12 to ISS
-- <a href="https://www.nasaspaceflight.com/2026/01/launch-roundup-012626/" >🔗</a> **[NASASpaceflight]** Launch Roundup: GPS, Starlink, Electron launches scheduled for last week of January
-- <a href="https://www.nasaspaceflight.com/2026/01/launch-preview-011926/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9 set to launch two missions from California, Isar to attempt second launch of Spectrum
-- <a href="https://www.nasaspaceflight.com/2025/12/launch-roundup-122225/" >🔗</a> **[NASASpaceflight]** Launch Roundup: International launches fill manifest during last full week of 2025
+- <a href="https://spaceflightnow.com/2026/02/06/ula-offloads-first-vulcan-rocket-at-vandenberg-at-it-preps-its-next-cape-launch/" >🔗</a> **[Spaceflight Now]** ULA offloads first Vulcan rocket at Vandenberg at it preps its next Cape launch
+- <a href="https://spaceflightnow.com/2026/01/23/eastern-range-ready-for-same-day-fueling-of-space-launch-system-vulcan-rockets/" >🔗</a> **[Spaceflight Now]** Eastern Range ready for same day fueling of Space Launch System, Vulcan rockets
+- <a href="https://spacenews.com/vulcan-to-open-2026-with-national-security-launch/" >🔗</a> **[SpaceNews]** Vulcan to open 2026 with national security launch
+- <a href="https://arstechnica.com/space/2024/11/rocket-report-next-vulcan-launch-slips-into-2025-starship-gets-a-green-light/" >🔗</a> **[Arstechnica]** Rocket Report: Next Vulcan launch slips into 2025; Starship gets a green light
+- <a href="https://spacenews.com/space-force-adjusts-timeline-as-vulcans-national-security-launches-slip-to-2025/" >🔗</a> **[SpaceNews]** Space Force adjusts timeline as Vulcan’s national security launches slip to 2025
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260212T064552">2026-02-12 06:45:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260212T071958">2026-02-12 07:19:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
