@@ -92,6 +92,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/launch-companies-debate-how-to-compete-against-spacex/" >🔗</a> **[SpaceNews]** Launch companies debate how to compete against SpaceX
+- <a href="https://spaceflightnow.com/2026/02/12/vulcan-suffers-solid-rocket-booster-problem-during-ussf-87-launch/" >🔗</a> **[Spaceflight Now]** Vulcan suffers solid rocket booster problem during USSF-87 launch
 - <a href="https://spacenews.com/ulas-vulcan-launches-u-s-space-force-mission-to-geosynchronous-orbit/" >🔗</a> **[SpaceNews]** ULA’s Vulcan launches U.S. Space Force mission to geosynchronous orbit
 - <a href="https://www.nasaspaceflight.com/2026/02/le-01-launch/" >🔗</a> **[NASASpaceflight]** Inaugural Ariane 64 to launch Amazon Leo satellites from Kourou
 - <a href="https://spacenews.com/fcc-space-bureau-chief-shares-agenda-for-regulatory-reform/" >🔗</a> **[SpaceNews]** FCC Space Bureau chief shares agenda for regulatory reform
@@ -100,8 +102,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2026/02/el-paso-airport-closed-after-military-used-new-anti-drone-laser-to-zap-party-balloon/" >🔗</a> **[Arstechnica]** El Paso airport closed after military used new anti-drone laser to zap party balloon
 - <a href="https://www.nasa.gov/image-article/nasa-completes-first-flight-of-laminar-flow-scaled-wing-design/" >🔗</a> **[NASA]** NASA Completes First Flight of Laminar Flow Scaled Wing Design
 - <a href="https://www.nasaspaceflight.com/2026/02/39a-caa-removed-future-starship/" >🔗</a> **[NASASpaceflight]** 39A CAA removed, ending crew launch from historic site, for now
-- <a href="https://spacenews.com/spacex-ipo-may-suck-oxygen-from-market-before-unleashing-broad-capital-surge/" >🔗</a> **[SpaceNews]** SpaceX IPO may suck oxygen from market before unleashing broad capital surge
-- <a href="https://www.esa.int/About_Us/Corporate_news/ESA_will_engage_global_leaders_at_the_Munich_Security_Conference_2026" >🔗</a> **[ESA]** ESA will engage global leaders at the Munich Security Conference 2026
 
 
 ### Launch-related News 🚀
@@ -120,7 +120,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260212T120749">2026-02-12 12:07:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260212T124519">2026-02-12 12:45:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
