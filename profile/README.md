@@ -92,6 +92,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ulas-vulcan-launches-u-s-space-force-mission-to-geosynchronous-orbit/" >🔗</a> **[SpaceNews]** ULA’s Vulcan launches U.S. Space Force mission to geosynchronous orbit
+- <a href="https://www.nasaspaceflight.com/2026/02/le-01-launch/" >🔗</a> **[NASASpaceflight]** Inaugural Ariane 64 to launch Amazon Leo satellites from Kourou
 - <a href="https://spacenews.com/fcc-space-bureau-chief-shares-agenda-for-regulatory-reform/" >🔗</a> **[SpaceNews]** FCC Space Bureau chief shares agenda for regulatory reform
 - <a href="https://science.nasa.gov/earth/earth-observatory/reaching-top-speed-in-the-dolomites/" >🔗</a> **[NASA]** Reaching Top Speed in the Dolomites
 - <a href="https://www.nasaspaceflight.com/2026/02/elektro-l-no5-launch/" >🔗</a> **[NASASpaceflight]** Proton-M to launch Elektro-L No.5 on its final mission with Blok-DM upper stage
@@ -100,12 +102,11 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2026/02/39a-caa-removed-future-starship/" >🔗</a> **[NASASpaceflight]** 39A CAA removed, ending crew launch from historic site, for now
 - <a href="https://spacenews.com/spacex-ipo-may-suck-oxygen-from-market-before-unleashing-broad-capital-surge/" >🔗</a> **[SpaceNews]** SpaceX IPO may suck oxygen from market before unleashing broad capital surge
 - <a href="https://www.esa.int/About_Us/Corporate_news/ESA_will_engage_global_leaders_at_the_Munich_Security_Conference_2026" >🔗</a> **[ESA]** ESA will engage global leaders at the Munich Security Conference 2026
-- <a href="https://spacenews.com/uk-launcher-orbex-files-for-administration-after-failed-funding-efforts/" >🔗</a> **[SpaceNews]** UK Launcher Orbex files for administration after failed funding efforts
-- <a href="https://spacenews.com/space-companies-bet-on-golden-dome-as-questions-persist-over-scope-and-funding/" >🔗</a> **[SpaceNews]** Space companies bet on Golden Dome as questions persist over scope and funding
 
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2026/02/le-01-launch/" >🔗</a> **[NASASpaceflight]** Inaugural Ariane 64 to launch Amazon Leo satellites from Kourou
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Watch_live_first_launch_of_Ariane_6_with_four_boosters" >🔗</a> **[ESA]** Watch live: first launch of Ariane 6 with four boosters
 - <a href="https://www.nasaspaceflight.com/2026/02/launch-preview-020926/" >🔗</a> **[NASASpaceflight]** Launch Preview: Vulcan to launch USSF-87, SpaceX to launch Crew-12 to ISS
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/02/Ariane_6_more_boosters_more_power" >🔗</a> **[ESA]** Ariane 6: more boosters, more power
@@ -115,12 +116,11 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/arianespace-to-begin-amazon-leo-launches-in-february/" >🔗</a> **[SpaceNews]** Arianespace to begin Amazon Leo launches in February
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Assembling_the_first_Ariane_6_with_four_boosters_at_Europe_s_Spaceport" >🔗</a> **[ESA]** Assembling the first Ariane 6 with four boosters at Europe’s Spaceport
 - <a href="https://europeanspaceflight.com/arianespace-pushes-first-ariane-64-flight-back-to-2026/" >🔗</a> **[European Spaceflight]** Arianespace Pushes First Ariane 64 Flight Back to 2026
-- <a href="https://spacenews.com/first-ariane-64-launch-slips-to-2026/" >🔗</a> **[SpaceNews]** First Ariane 64 launch slips to 2026
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260212T101337">2026-02-12 10:13:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260212T104359">2026-02-12 10:43:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
