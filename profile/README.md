@@ -19,36 +19,34 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Vulcan VC4S | USSF-87**. It is scheduled to be launched by *United Launch Alliance*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_41">Space Launch Complex 41</a>, Cape Canaveral SFS, FL, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260212T083000">2026-02-12 08:30:00 UTC</a>.  Until
-then, this pad will have been used for 120
-out of 1083 launches from this location. The launch status is currently
+**Proton-M/Blok DM-03 | Elektro-L No.5**. It is scheduled to be launched by *Khrunichev State Research and Production Space Center*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" />
+from *<a href="">81/24 (81P)</a>, Baikonur Cosmodrome, Republic of Kazakhstan*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/kz.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260212T085215">2026-02-12 08:52:15 UTC</a>.  Until
+then, this pad will have been used for 92
+out of 1559 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Government/Top Secret* and the payload will be injected
+*Earth Science* and the payload will be injected
 into *a Geostationary Orbit
 (Direct-GEO)*.
 <br>
 <blockquote>
-  USSF-87 will launch two identical Geosynchronous Space Situational Awareness Program (GSSAP) satellites GSSAP-7 and GSSAP-8 directly to a near-geosynchronous orbit approximately 36,000 km above the equator.
-
-Data from the GSSAP will uniquely contribute to timely and accurate orbital predictions, further enabling space flight safety including satellite collision avoidance.
+  Elektro-L is a series of meteorological satellites developed for the Russian Federal Space Agency by NPO Lavochkin. They are designed to capture real-time images of clouds and the Earth's underlying surface, heliogeophysical measurements, collection and translating hydrometeorological and service data.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Vulcan_Centaur" >
+  <a href="https://en.wikipedia.org/wiki/Proton-M" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.58341025,-80.58303644" >
+  <a href="https://www.google.com/maps?q=46.071001,62.984999" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260212T083000">2026-02-12 08:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Vulcan VC4S | USSF-87&location=Cape Canaveral SFS, FL, USA&dates=20260212T083000Z%2F20260212T103000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Vulcan VC4S | USSF-87** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260212T085215">2026-02-12 08:52:15 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Proton-M/Blok DM-03 | Elektro-L No.5&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20260212T085215Z%2F20260212T085215Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Proton-M/Blok DM-03 | Elektro-L No.5** from Baikonur Cosmodrome, Republic of Kazakhstan.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260212T083000">2026-02-12 08:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Vulcan VC4S | USSF-87&location=Cape Canaveral SFS, FL, USA&dates=20260212T083000Z%2F20260212T103000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Vulcan VC4S | USSF-87** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260212T164500">2026-02-12 16:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ariane 64 | Amazon Leo (LE-01)&location=Guiana Space Centre, French Guiana&dates=20260212T164500Z%2F20260212T171300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ariane 64 | Amazon Leo (LE-01)** from Guiana Space Centre, French Guiana.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260213T101500">2026-02-13 10:15:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Crew-12&location=Cape Canaveral SFS, FL, USA&dates=20260213T101500Z%2F20260213T101500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Crew-12** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260214T220000">2026-02-14 22:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-13&location=Vandenberg SFB, CA, USA&dates=20260214T220000Z%2F20260215T020000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-13** from Vandenberg SFB, CA, USA.
@@ -107,16 +105,12 @@ Data from the GSSAP will uniquely contribute to timely and accurate orbital pred
 ### Launch-related News 🚀
 
 - <a href="https://www.nasaspaceflight.com/2026/02/launch-preview-020926/" >🔗</a> **[NASASpaceflight]** Launch Preview: Vulcan to launch USSF-87, SpaceX to launch Crew-12 to ISS
-- <a href="https://spaceflightnow.com/2026/02/06/ula-offloads-first-vulcan-rocket-at-vandenberg-at-it-preps-its-next-cape-launch/" >🔗</a> **[Spaceflight Now]** ULA offloads first Vulcan rocket at Vandenberg at it preps its next Cape launch
-- <a href="https://spaceflightnow.com/2026/01/23/eastern-range-ready-for-same-day-fueling-of-space-launch-system-vulcan-rockets/" >🔗</a> **[Spaceflight Now]** Eastern Range ready for same day fueling of Space Launch System, Vulcan rockets
-- <a href="https://spacenews.com/vulcan-to-open-2026-with-national-security-launch/" >🔗</a> **[SpaceNews]** Vulcan to open 2026 with national security launch
-- <a href="https://arstechnica.com/space/2024/11/rocket-report-next-vulcan-launch-slips-into-2025-starship-gets-a-green-light/" >🔗</a> **[Arstechnica]** Rocket Report: Next Vulcan launch slips into 2025; Starship gets a green light
-- <a href="https://spacenews.com/space-force-adjusts-timeline-as-vulcans-national-security-launches-slip-to-2025/" >🔗</a> **[SpaceNews]** Space Force adjusts timeline as Vulcan’s national security launches slip to 2025
+- <a href="https://www.nasaspaceflight.com/2025/12/launch-roundup-120825/" >🔗</a> **[NASASpaceflight]** Launch Roundup: China, Russia, Rocket Lab, ULA join SpaceX in flying this week
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260212T074506">2026-02-12 07:45:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260212T080915">2026-02-12 08:09:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
