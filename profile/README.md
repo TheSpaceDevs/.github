@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2026/02/el-paso-airport-closed-after-military-used-new-anti-drone-laser-to-zap-party-balloon/" >🔗</a> **[Arstechnica]** El Paso airport closed after military used new anti-drone laser to zap party balloon
 - <a href="https://www.nasa.gov/image-article/nasa-completes-first-flight-of-laminar-flow-scaled-wing-design/" >🔗</a> **[NASA]** NASA Completes First Flight of Laminar Flow Scaled Wing Design
 - <a href="https://www.nasaspaceflight.com/2026/02/39a-caa-removed-future-starship/" >🔗</a> **[NASASpaceflight]** 39A CAA removed, ending crew launch from historic site, for now
 - <a href="https://spacenews.com/spacex-ipo-may-suck-oxygen-from-market-before-unleashing-broad-capital-surge/" >🔗</a> **[SpaceNews]** SpaceX IPO may suck oxygen from market before unleashing broad capital surge
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.spacescout.info/2026/02/china-completes-mengzhou-abort-test-splashes-down-booster/" >🔗</a> **[Space Scout]** China Completes Mengzhou Abort Test, Splashes Down Booster
 - <a href="https://spacenews.com/integrate-raises-17m-to-commercialize-the-worlds-first-ultra-secure-project-management-platform-for-classified-programs/" >🔗</a> **[SpaceNews]** Integrate Raises $17M to Commercialize the World’s First Ultra-Secure Project Management Platform for Classified Programs
 - <a href="https://www.nasaspaceflight.com/2026/02/ussf-87-launch/" >🔗</a> **[NASASpaceflight]** ULA to launch first mission of 2026 with USSF-87 aboard Vulcan
-- <a href="https://spacenews.com/demand-for-sovereign-systems-extends-to-the-earth-observation-stack/" >🔗</a> **[SpaceNews]** Demand for sovereign systems extends to the Earth-observation stack
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260212T000714">2026-02-12 00:07:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260212T005316">2026-02-12 00:53:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
