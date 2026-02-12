@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/thinkom-gets-military-contract-to-supply-portable-ground-stations-for-satellite-communications/" >🔗</a> **[SpaceNews]** ThinKom gets military contract to supply portable ground stations for satellite communications
 - <a href="https://www.nasa.gov/humans-in-space/nasa-moon-mission-spacesuit-nears-milestone/" >🔗</a> **[NASA]** NASA Moon Mission Spacesuit Nears Milestone
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/02/Liftoff_power_launch_of_first_Ariane_6_with_four_boosters" >🔗</a> **[ESA]** Liftoff power: launch of first Ariane 6 with four boosters
 - <a href="https://www.spacescout.info/2026/02/ussf-87-anomaly-reveals-continuing-obstacles-for-ulas-vulcan-centaur/" >🔗</a> **[Space Scout]** USSF-87 Anomaly Reveals Continuing Obstacles for ULA’s Vulcan-Centaur
@@ -97,9 +98,8 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2026/02/12/nasa-loading-liquid-hydrogen-aboard-artemis-2-rocket-in-unannounced-test/" >🔗</a> **[Spaceflight Now]** NASA loading liquid hydrogen aboard Artemis 2 rocket in unannounced test
 - <a href="https://spacenews.com/it-is-time-to-take-astronomy-off-earth/" >🔗</a> **[SpaceNews]** It is time to take astronomy off Earth
 - <a href="https://spacenews.com/software-startup-integrate-makes-push-into-defense-market-following-space-force-award/" >🔗</a> **[SpaceNews]** Software startup Integrate makes push into defense market following Space Force award
+- <a href="https://europeanspaceflight.com/eutelsat-to-take-out-almost-e1b-in-state-backed-debt-for-new-satellites/" >🔗</a> **[European Spaceflight]** Eutelsat to Take Out Almost €1B in State-Backed Debt for New Satellites
 - <a href="https://spacenews.com/launch-companies-debate-how-to-compete-against-spacex/" >🔗</a> **[SpaceNews]** Launch companies debate how to compete against SpaceX
-- <a href="https://spaceflightnow.com/2026/02/12/vulcan-suffers-solid-rocket-booster-problem-during-ussf-87-launch/" >🔗</a> **[Spaceflight Now]** Vulcan suffers solid rocket booster problem during USSF-87 launch
-- <a href="https://spacenews.com/ulas-vulcan-launches-u-s-space-force-mission-to-geosynchronous-orbit/" >🔗</a> **[SpaceNews]** ULA’s Vulcan launches U.S. Space Force mission to geosynchronous orbit
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260212T184548">2026-02-12 18:45:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260212T192115">2026-02-12 19:21:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
