@@ -23,7 +23,7 @@ The next space launch, retrieved from our
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
 from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral SFS, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260213T101500">2026-02-13 10:15:00 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260213T101556">2026-02-13 10:15:56 UTC</a>.  Until
 then, this pad will have been used for 361
 out of 1084 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
@@ -45,7 +45,7 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260213T101500">2026-02-13 10:15:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Crew-12&location=Cape Canaveral SFS, FL, USA&dates=20260213T101500Z%2F20260213T101500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Crew-12** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260213T101556">2026-02-13 10:15:56 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Crew-12&location=Cape Canaveral SFS, FL, USA&dates=20260213T101556Z%2F20260213T101556Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Crew-12** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260214T220000">2026-02-14 22:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-13&location=Vandenberg SFB, CA, USA&dates=20260214T220000Z%2F20260215T020000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-13** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260216T050000">2026-02-16 05:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-103&location=Cape Canaveral SFS, FL, USA&dates=20260216T050000Z%2F20260216T090000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-103** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260217T220000">2026-02-17 22:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-36&location=Cape Canaveral SFS, FL, USA&dates=20260217T220000Z%2F20260218T020000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-36** from Cape Canaveral SFS, FL, USA.
@@ -90,7 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/02/Ariane_6_first_launch_with_four_boosters_the_complete_broadcast" >🔗</a> **[ESA]** Ariane 6 first launch with four boosters: the complete broadcast
 - <a href="https://spacenews.com/thinkom-gets-military-contract-to-supply-portable-ground-stations-for-satellite-communications/" >🔗</a> **[SpaceNews]** ThinKom gets military contract to supply portable ground stations for satellite communications
+- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/More_boosters_more_power_Ariane_6_lifts_off_with_four_boosters_for_the_first_time" >🔗</a> **[ESA]** More boosters, more power: Ariane 6 lifts off with four boosters for the first time
 - <a href="https://www.nasa.gov/humans-in-space/nasa-moon-mission-spacesuit-nears-milestone/" >🔗</a> **[NASA]** NASA Moon Mission Spacesuit Nears Milestone
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/02/Liftoff_power_launch_of_first_Ariane_6_with_four_boosters" >🔗</a> **[ESA]** Liftoff power: launch of first Ariane 6 with four boosters
 - <a href="https://www.spacescout.info/2026/02/ussf-87-anomaly-reveals-continuing-obstacles-for-ulas-vulcan-centaur/" >🔗</a> **[Space Scout]** USSF-87 Anomaly Reveals Continuing Obstacles for ULA’s Vulcan-Centaur
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2026/02/12/nasa-loading-liquid-hydrogen-aboard-artemis-2-rocket-in-unannounced-test/" >🔗</a> **[Spaceflight Now]** NASA loading liquid hydrogen aboard Artemis 2 rocket in unannounced test
 - <a href="https://spacenews.com/it-is-time-to-take-astronomy-off-earth/" >🔗</a> **[SpaceNews]** It is time to take astronomy off Earth
 - <a href="https://spacenews.com/software-startup-integrate-makes-push-into-defense-market-following-space-force-award/" >🔗</a> **[SpaceNews]** Software startup Integrate makes push into defense market following Space Force award
-- <a href="https://europeanspaceflight.com/eutelsat-to-take-out-almost-e1b-in-state-backed-debt-for-new-satellites/" >🔗</a> **[European Spaceflight]** Eutelsat to Take Out Almost €1B in State-Backed Debt for New Satellites
-- <a href="https://spacenews.com/launch-companies-debate-how-to-compete-against-spacex/" >🔗</a> **[SpaceNews]** Launch companies debate how to compete against SpaceX
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260212T194503">2026-02-12 19:45:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260212T200534">2026-02-12 20:05:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
