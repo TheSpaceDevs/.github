@@ -19,29 +19,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Ariane 64 | Amazon Leo (LE-01)**. It is scheduled to be launched by *Arianespace*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Guiana_Space_Centre">Ariane Launch Area 4</a>, Guiana Space Centre, French Guiana*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/gf.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260212T164500">2026-02-12 16:45:00 UTC</a>.  Until
-then, this pad will have been used for 5
-out of 330 launches from this location. The launch status is currently
+**Falcon 9 Block 5 | Crew-12**. It is scheduled to be launched by *SpaceX*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral SFS, FL, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260213T101500">2026-02-13 10:15:00 UTC</a>.  Until
+then, this pad will have been used for 361
+out of 1084 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Communications* and the payload will be injected
+*Human Exploration* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.
-
-32 satellites will be carried on this launch.
+  SpaceX Crew-12 is the twelfth crewed operational flight of a Crew Dragon spacecraft to the International Space Station as part of NASA's Commercial Crew Program.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Ariane_6" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=5.256319,-52.786838" >
+  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -56,6 +54,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260221T200000">2026-02-21 20:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-26&location=Vandenberg SFB, CA, USA&dates=20260221T200000Z%2F20260222T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-26** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260222T010000">2026-02-22 01:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-104&location=Cape Canaveral SFS, FL, USA&dates=20260222T010000Z%2F20260222T050000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-104** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260224T205600">2026-02-24 20:56:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-110&location=Cape Canaveral SFS, FL, USA&dates=20260224T205600Z%2F20260225T005600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-110** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260225T020000">2026-02-25 02:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=KAIROS | Flight 3&location=Spaceport Kii, Japan&dates=20260225T020000Z%2F20260225T022000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **KAIROS | Flight 3** from Spaceport Kii, Japan.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -91,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacescout.info/2026/02/ussf-87-anomaly-reveals-continuing-obstacles-for-ulas-vulcan-centaur/" >🔗</a> **[Space Scout]** USSF-87 Anomaly Reveals Continuing Obstacles for ULA’s Vulcan-Centaur
 - <a href="https://www.nasa.gov/image-article/shimmering-light-in-egg-nebula/" >🔗</a> **[NASA]** Shimmering Light in Egg Nebula
 - <a href="https://spaceflightnow.com/2026/02/12/nasa-loading-liquid-hydrogen-aboard-artemis-2-rocket-in-unannounced-test/" >🔗</a> **[Spaceflight Now]** NASA loading liquid hydrogen aboard Artemis 2 rocket in unannounced test
 - <a href="https://spacenews.com/it-is-time-to-take-astronomy-off-earth/" >🔗</a> **[SpaceNews]** It is time to take astronomy off Earth
@@ -100,26 +100,25 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/ulas-vulcan-launches-u-s-space-force-mission-to-geosynchronous-orbit/" >🔗</a> **[SpaceNews]** ULA’s Vulcan launches U.S. Space Force mission to geosynchronous orbit
 - <a href="https://www.nasaspaceflight.com/2026/02/le-01-launch/" >🔗</a> **[NASASpaceflight]** Inaugural Ariane 64 to launch Amazon Leo satellites from Kourou
 - <a href="https://spacenews.com/fcc-space-bureau-chief-shares-agenda-for-regulatory-reform/" >🔗</a> **[SpaceNews]** FCC Space Bureau chief shares agenda for regulatory reform
-- <a href="https://science.nasa.gov/earth/earth-observatory/reaching-top-speed-in-the-dolomites/" >🔗</a> **[NASA]** Reaching Top Speed in the Dolomites
 
 
 ### Launch-related News 🚀
 
-- <a href="https://www.nasaspaceflight.com/2026/02/le-01-launch/" >🔗</a> **[NASASpaceflight]** Inaugural Ariane 64 to launch Amazon Leo satellites from Kourou
-- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Watch_live_first_launch_of_Ariane_6_with_four_boosters" >🔗</a> **[ESA]** Watch live: first launch of Ariane 6 with four boosters
+- <a href="https://www.nasa.gov/image-article/crew-12-members-and-insignia/" >🔗</a> **[NASA]** Crew-12 Members and Insignia
+- <a href="https://www.spacedaily.com/reports/Launch_to_ISS_pushed_to_Thursday_over_weather_NASA_999.html" >🔗</a> **[SpaceDaily]** Launch to ISS pushed to Thursday over weather: NASA
+- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Watch_live_Crew-12_launch_and_docking_updated" >🔗</a> **[ESA]** Watch live: Crew-12 launch and docking (updated)
+- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Watch_live_Crew-12_launch_and_docking" >🔗</a> **[ESA]** Watch live: Crew-12 launch and docking
 - <a href="https://www.nasaspaceflight.com/2026/02/launch-preview-020926/" >🔗</a> **[NASASpaceflight]** Launch Preview: Vulcan to launch USSF-87, SpaceX to launch Crew-12 to ISS
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/02/Ariane_6_more_boosters_more_power" >🔗</a> **[ESA]** Ariane 6: more boosters, more power
-- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/First_launch_of_Ariane_6_with_four_boosters" >🔗</a> **[ESA]** First launch of Ariane 6 with four boosters
-- <a href="https://europeanspaceflight.com/arianespace-to-launch-first-ariane-64-rocket-on-12-feb/" >🔗</a> **[European Spaceflight]** Arianespace to launch first Ariane 64 rocket on 12 Feb
-- <a href="https://arstechnica.com/space/2026/01/rocket-report-ariane-64-to-debut-soon-india-has-a-falcon-9-clone-too/" >🔗</a> **[Arstechnica]** Rocket Report: Ariane 64 to debut soon; India has a Falcon 9 clone too?
-- <a href="https://spacenews.com/arianespace-to-begin-amazon-leo-launches-in-february/" >🔗</a> **[SpaceNews]** Arianespace to begin Amazon Leo launches in February
-- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Assembling_the_first_Ariane_6_with_four_boosters_at_Europe_s_Spaceport" >🔗</a> **[ESA]** Assembling the first Ariane 6 with four boosters at Europe’s Spaceport
-- <a href="https://europeanspaceflight.com/arianespace-pushes-first-ariane-64-flight-back-to-2026/" >🔗</a> **[European Spaceflight]** Arianespace Pushes First Ariane 64 Flight Back to 2026
+- <a href="https://www.nasa.gov/missions/station/what-you-need-to-know-about-nasas-spacex-crew-12-mission/" >🔗</a> **[NASA]** What You Need to Know About NASA’s SpaceX Crew-12 Mission
+- <a href="https://spaceflightnow.com/2026/02/09/weather-delays-nasas-spacex-crew-12-flight-to-the-international-space-station/" >🔗</a> **[Spaceflight Now]** Weather delays NASA’s SpaceX Crew-12 flight to the International Space Station
+- <a href="https://www.spacescout.info/2026/02/crew-12-to-return-iss-to-normal-complement/" >🔗</a> **[Space Scout]** Crew-12 to Return ISS to Normal Complement
+- <a href="https://spaceflightnow.com/2026/02/08/spacex-test-fires-its-falcon-9-rocket-ahead-of-midweek-launch-of-crew-12-to-the-space-station/" >🔗</a> **[Spaceflight Now]** SpaceX test fires its Falcon 9 rocket ahead of midweek launch of Crew-12 to the space station
+- <a href="https://www.spacedaily.com/reports/NASA_confirms_first_flight_to_ISS_since_medical_evacuation_999.html" >🔗</a> **[SpaceDaily]** NASA confirms first flight to ISS since medical evacuation
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260212T164539">2026-02-12 16:45:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260212T171916">2026-02-12 17:19:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
