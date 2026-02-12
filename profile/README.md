@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-selects-vast-for-sixth-private-mission-to-space-station/" >🔗</a> **[NASA]** NASA Selects Vast for Sixth Private Mission to Space Station
+- <a href="https://spacenews.com/axiom-space-raises-additional-350-million/" >🔗</a> **[SpaceNews]** Axiom Space raises additional $350 million
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/02/Highlights_of_first_launch_of_Ariane_6_with_four_boosters" >🔗</a> **[ESA]** Highlights of first launch of Ariane 6 with four boosters
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/02/Ariane_6_first_launch_with_four_boosters_the_complete_broadcast" >🔗</a> **[ESA]** Ariane 6 first launch with four boosters: the complete broadcast
 - <a href="https://spacenews.com/thinkom-gets-military-contract-to-supply-portable-ground-stations-for-satellite-communications/" >🔗</a> **[SpaceNews]** ThinKom gets military contract to supply portable ground stations for satellite communications
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/humans-in-space/nasa-moon-mission-spacesuit-nears-milestone/" >🔗</a> **[NASA]** NASA Moon Mission Spacesuit Nears Milestone
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/02/Liftoff_power_launch_of_first_Ariane_6_with_four_boosters" >🔗</a> **[ESA]** Liftoff power: launch of first Ariane 6 with four boosters
 - <a href="https://www.spacescout.info/2026/02/ussf-87-anomaly-reveals-continuing-obstacles-for-ulas-vulcan-centaur/" >🔗</a> **[Space Scout]** USSF-87 Anomaly Reveals Continuing Obstacles for ULA’s Vulcan-Centaur
-- <a href="https://www.nasa.gov/image-article/shimmering-light-in-egg-nebula/" >🔗</a> **[NASA]** Shimmering Light in Egg Nebula
-- <a href="https://spaceflightnow.com/2026/02/12/nasa-loading-liquid-hydrogen-aboard-artemis-2-rocket-in-unannounced-test/" >🔗</a> **[Spaceflight Now]** NASA loading liquid hydrogen aboard Artemis 2 rocket in unannounced test
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260212T210624">2026-02-12 21:06:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260212T214207">2026-02-12 21:42:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
