@@ -92,6 +92,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/it-is-time-to-take-astronomy-off-earth/" >🔗</a> **[SpaceNews]** It is time to take astronomy off Earth
+- <a href="https://spacenews.com/software-startup-integrate-makes-push-into-defense-market-following-space-force-award/" >🔗</a> **[SpaceNews]** Software startup Integrate makes push into defense market following Space Force award
 - <a href="https://spacenews.com/launch-companies-debate-how-to-compete-against-spacex/" >🔗</a> **[SpaceNews]** Launch companies debate how to compete against SpaceX
 - <a href="https://spaceflightnow.com/2026/02/12/vulcan-suffers-solid-rocket-booster-problem-during-ussf-87-launch/" >🔗</a> **[Spaceflight Now]** Vulcan suffers solid rocket booster problem during USSF-87 launch
 - <a href="https://spacenews.com/ulas-vulcan-launches-u-s-space-force-mission-to-geosynchronous-orbit/" >🔗</a> **[SpaceNews]** ULA’s Vulcan launches U.S. Space Force mission to geosynchronous orbit
@@ -100,8 +102,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/earth/earth-observatory/reaching-top-speed-in-the-dolomites/" >🔗</a> **[NASA]** Reaching Top Speed in the Dolomites
 - <a href="https://www.nasaspaceflight.com/2026/02/elektro-l-no5-launch/" >🔗</a> **[NASASpaceflight]** Proton-M to launch Elektro-L No.5 on its final mission with Blok-DM upper stage
 - <a href="https://arstechnica.com/space/2026/02/el-paso-airport-closed-after-military-used-new-anti-drone-laser-to-zap-party-balloon/" >🔗</a> **[Arstechnica]** El Paso airport closed after military used new anti-drone laser to zap party balloon
-- <a href="https://www.nasa.gov/image-article/nasa-completes-first-flight-of-laminar-flow-scaled-wing-design/" >🔗</a> **[NASA]** NASA Completes First Flight of Laminar Flow Scaled Wing Design
-- <a href="https://www.nasaspaceflight.com/2026/02/39a-caa-removed-future-starship/" >🔗</a> **[NASASpaceflight]** 39A CAA removed, ending crew launch from historic site, for now
 
 
 ### Launch-related News 🚀
@@ -120,7 +120,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260212T135555">2026-02-12 13:55:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260212T141902">2026-02-12 14:19:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
