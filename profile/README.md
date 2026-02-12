@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/humans-in-space/nasa-moon-mission-spacesuit-nears-milestone/" >🔗</a> **[NASA]** NASA Moon Mission Spacesuit Nears Milestone
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/02/Liftoff_power_launch_of_first_Ariane_6_with_four_boosters" >🔗</a> **[ESA]** Liftoff power: launch of first Ariane 6 with four boosters
 - <a href="https://www.spacescout.info/2026/02/ussf-87-anomaly-reveals-continuing-obstacles-for-ulas-vulcan-centaur/" >🔗</a> **[Space Scout]** USSF-87 Anomaly Reveals Continuing Obstacles for ULA’s Vulcan-Centaur
 - <a href="https://www.nasa.gov/image-article/shimmering-light-in-egg-nebula/" >🔗</a> **[NASA]** Shimmering Light in Egg Nebula
 - <a href="https://spaceflightnow.com/2026/02/12/nasa-loading-liquid-hydrogen-aboard-artemis-2-rocket-in-unannounced-test/" >🔗</a> **[Spaceflight Now]** NASA loading liquid hydrogen aboard Artemis 2 rocket in unannounced test
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/launch-companies-debate-how-to-compete-against-spacex/" >🔗</a> **[SpaceNews]** Launch companies debate how to compete against SpaceX
 - <a href="https://spaceflightnow.com/2026/02/12/vulcan-suffers-solid-rocket-booster-problem-during-ussf-87-launch/" >🔗</a> **[Spaceflight Now]** Vulcan suffers solid rocket booster problem during USSF-87 launch
 - <a href="https://spacenews.com/ulas-vulcan-launches-u-s-space-force-mission-to-geosynchronous-orbit/" >🔗</a> **[SpaceNews]** ULA’s Vulcan launches U.S. Space Force mission to geosynchronous orbit
-- <a href="https://www.nasaspaceflight.com/2026/02/le-01-launch/" >🔗</a> **[NASASpaceflight]** Inaugural Ariane 64 to launch Amazon Leo satellites from Kourou
-- <a href="https://spacenews.com/fcc-space-bureau-chief-shares-agenda-for-regulatory-reform/" >🔗</a> **[SpaceNews]** FCC Space Bureau chief shares agenda for regulatory reform
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260212T181423">2026-02-12 18:14:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260212T184548">2026-02-12 18:45:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
