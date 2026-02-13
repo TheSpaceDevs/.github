@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/02/crew-12-launch/" >🔗</a> **[NASASpaceflight]** NASA, SpaceX set for launch of Crew-12 to ISS
 - <a href="https://spacepolicyonline.com/news/ulas-vulcan-gets-ussf-payloads-to-orbit-despite-another-srb-anomaly/" >🔗</a> **[SpacePolicyOnline.com]** ULA’s Vulcan Gets USSF Payloads to Orbit Despite Another SRB Anomaly
 - <a href="https://spacenews.com/space-startups-find-more-paths-to-liquidity-as-investors-warm-to-maturing-sector/" >🔗</a> **[SpaceNews]** Space startups find more paths to liquidity as investors warm to maturing sector
 - <a href="https://spacenews.com/first-ariane-64-launches-amazon-leo-satellites/" >🔗</a> **[SpaceNews]** First Ariane 64 launches Amazon Leo satellites
@@ -98,7 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/02/Highlights_of_first_launch_of_Ariane_6_with_four_boosters" >🔗</a> **[ESA]** Highlights of first launch of Ariane 6 with four boosters
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/02/Ariane_6_first_launch_with_four_boosters_the_complete_broadcast" >🔗</a> **[ESA]** Ariane 6 first launch with four boosters: the complete broadcast
 - <a href="https://spacenews.com/thinkom-gets-military-contract-to-supply-portable-ground-stations-for-satellite-communications/" >🔗</a> **[SpaceNews]** ThinKom gets military contract to supply portable ground stations for satellite communications
-- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/More_boosters_more_power_Ariane_6_lifts_off_with_four_boosters_for_the_first_time" >🔗</a> **[ESA]** More boosters, more power: Ariane 6 lifts off with four boosters for the first time
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/More_power_first_Ariane_6_with_four_boosters_lifts_off" >🔗</a> **[ESA]** More power: first Ariane 6 with four boosters lifts off
 
 
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260213T013340">2026-02-13 01:33:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260213T025826">2026-02-13 02:58:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
