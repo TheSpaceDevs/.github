@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/chinas-ispace-launch-firm-raises-record-729-million-for-reusable-rockets/" >🔗</a> **[SpaceNews]** China’s iSpace launch firm raises record $729 million for reusable rockets
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/02/Launch_of_Crew-12_to_the_ISS" >🔗</a> **[ESA]** Launch of Crew-12 to the ISS
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/02/Earth_from_Space_Sending_love_from_above" >🔗</a> **[ESA]** Earth from Space: Sending love from above
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/sunlight-extracts-oxygen-from-regolith-using-solar-chemistry/" >🔗</a> **[NASA]** Sunlight Extracts Oxygen From Regolith Using Solar Chemistry
+- <a href="https://www.spacedaily.com/reports/NASA_Stennis_proves_water_systems_ready_for_Artemis_IV_upper_stage_trials_999.html" >🔗</a> **[SpaceDaily]** NASA Stennis proves water systems ready for Artemis IV upper stage trials
 - <a href="https://www.spacedaily.com/reports/AST_SpaceMobile_deploys_record_low_orbit_cellular_array_on_BlueBird_6_999.html" >🔗</a> **[SpaceDaily]** AST SpaceMobile deploys record low orbit cellular array on BlueBird 6
 - <a href="https://www.spacedaily.com/reports/Swift_observatory_changes_operations_ahead_of_planned_orbit_reboost_999.html" >🔗</a> **[SpaceDaily]** Swift observatory changes operations ahead of planned orbit reboost
-- <a href="https://www.spacedaily.com/reports/NASA_Stennis_proves_water_systems_ready_for_Artemis_IV_upper_stage_trials_999.html" >🔗</a> **[SpaceDaily]** NASA Stennis proves water systems ready for Artemis IV upper stage trials
-- <a href="https://www.spacedaily.com/reports/Change_6_farside_samples_reshape_lunar_impact_history_999.html" >🔗</a> **[SpaceDaily]** Chang'e-6 farside samples reshape lunar impact history
-- <a href="https://www.spacedaily.com/reports/Stoke_Space_expands_Series_D_funding_to_860M_to_drive_Nova_launch_development_999.html" >🔗</a> **[SpaceDaily]** Stoke Space expands Series D funding to $860M to drive Nova launch development
 - <a href="https://www.spacedaily.com/reports/Ariane_6_four_booster_launcher_completes_on_schedule_mission_999.html" >🔗</a> **[SpaceDaily]** Ariane 6 four booster launcher completes on schedule mission
 - <a href="https://www.spacedaily.com/reports/ESA_signs_Ramses_spacecraft_and_cubesat_deals_for_Apophis_flyby_999.html" >🔗</a> **[SpaceDaily]** ESA signs Ramses spacecraft and cubesat deals for Apophis flyby
-- <a href="https://www.spacedaily.com/reports/China_verifies_Long_March_10_booster_splashdown_and_crew_escape_in_key_lunar_test_999.html" >🔗</a> **[SpaceDaily]** China verifies Long March 10 booster splashdown and crew escape in key lunar test
+- <a href="https://www.spacedaily.com/reports/Change_6_farside_samples_reshape_lunar_impact_history_999.html" >🔗</a> **[SpaceDaily]** Chang'e-6 farside samples reshape lunar impact history
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260213T111027">2026-02-13 11:10:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260213T113952">2026-02-13 11:39:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
