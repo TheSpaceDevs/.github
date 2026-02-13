@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/ulas-vulcan-gets-ussf-payloads-to-orbit-despite-another-srb-anomaly/" >🔗</a> **[SpacePolicyOnline.com]** ULA’s Vulcan Gets USSF Payloads to Orbit Despite Another SRB Anomaly
 - <a href="https://spacenews.com/space-startups-find-more-paths-to-liquidity-as-investors-warm-to-maturing-sector/" >🔗</a> **[SpaceNews]** Space startups find more paths to liquidity as investors warm to maturing sector
 - <a href="https://spacenews.com/first-ariane-64-launches-amazon-leo-satellites/" >🔗</a> **[SpaceNews]** First Ariane 64 launches Amazon Leo satellites
 - <a href="https://www.nasa.gov/news-release/nasa-selects-vast-for-sixth-private-mission-to-space-station/" >🔗</a> **[NASA]** NASA Selects Vast for Sixth Private Mission to Space Station
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/thinkom-gets-military-contract-to-supply-portable-ground-stations-for-satellite-communications/" >🔗</a> **[SpaceNews]** ThinKom gets military contract to supply portable ground stations for satellite communications
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/More_boosters_more_power_Ariane_6_lifts_off_with_four_boosters_for_the_first_time" >🔗</a> **[ESA]** More boosters, more power: Ariane 6 lifts off with four boosters for the first time
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/More_power_first_Ariane_6_with_four_boosters_lifts_off" >🔗</a> **[ESA]** More power: first Ariane 6 with four boosters lifts off
-- <a href="https://www.nasa.gov/humans-in-space/nasa-moon-mission-spacesuit-nears-milestone/" >🔗</a> **[NASA]** NASA Moon Mission Spacesuit Nears Milestone
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260213T000907">2026-02-13 00:09:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260213T005618">2026-02-13 00:56:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
