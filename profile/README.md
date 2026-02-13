@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/chinas-ispace-launch-firm-raises-record-729-million-for-reusable-rockets/" >🔗</a> **[SpaceNews]** China’s iSpace launch firm raises record $729 million for reusable rockets
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/02/Launch_of_Crew-12_to_the_ISS" >🔗</a> **[ESA]** Launch of Crew-12 to the ISS
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/02/Earth_from_Space_Sending_love_from_above" >🔗</a> **[ESA]** Earth from Space: Sending love from above
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/sunlight-extracts-oxygen-from-regolith-using-solar-chemistry/" >🔗</a> **[NASA]** Sunlight Extracts Oxygen From Regolith Using Solar Chemistry
-- <a href="https://www.spacedaily.com/reports/NASA_Stennis_proves_water_systems_ready_for_Artemis_IV_upper_stage_trials_999.html" >🔗</a> **[SpaceDaily]** NASA Stennis proves water systems ready for Artemis IV upper stage trials
-- <a href="https://www.spacedaily.com/reports/AST_SpaceMobile_deploys_record_low_orbit_cellular_array_on_BlueBird_6_999.html" >🔗</a> **[SpaceDaily]** AST SpaceMobile deploys record low orbit cellular array on BlueBird 6
-- <a href="https://www.spacedaily.com/reports/Swift_observatory_changes_operations_ahead_of_planned_orbit_reboost_999.html" >🔗</a> **[SpaceDaily]** Swift observatory changes operations ahead of planned orbit reboost
-- <a href="https://www.spacedaily.com/reports/Ariane_6_four_booster_launcher_completes_on_schedule_mission_999.html" >🔗</a> **[SpaceDaily]** Ariane 6 four booster launcher completes on schedule mission
-- <a href="https://www.spacedaily.com/reports/ESA_signs_Ramses_spacecraft_and_cubesat_deals_for_Apophis_flyby_999.html" >🔗</a> **[SpaceDaily]** ESA signs Ramses spacecraft and cubesat deals for Apophis flyby
-- <a href="https://www.spacedaily.com/reports/Change_6_farside_samples_reshape_lunar_impact_history_999.html" >🔗</a> **[SpaceDaily]** Chang'e-6 farside samples reshape lunar impact history
+- <a href="https://www.spacedaily.com/reports/Europes_most_powerful_rocket_carries_32_satellites_for_Amazon_Leo_network_into_space_999.html" >🔗</a> **[SpaceDaily]** Europe's most powerful rocket carries 32 satellites for Amazon Leo network into space
+- <a href="https://www.spacedaily.com/reports/xAI_sees_key_staff_exits_Musk_promises_moon_factories_999.html" >🔗</a> **[SpaceDaily]** xAI sees key staff exits, Musk promises moon factories
+- <a href="https://www.spacedaily.com/reports/UK_space_firm_Skyrora_explores_buying_assets_of_struggling_rival_Orbex_999.html" >🔗</a> **[SpaceDaily]** UK space firm Skyrora explores buying assets of struggling rival Orbex
+- <a href="https://www.spacedaily.com/reports/International_crew_takes_off_for_space_station_999.html" >🔗</a> **[SpaceDaily]** International crew takes off for space station
+- <a href="https://www.spacedaily.com/reports/Strange_inside-out_planetary_system_baffles_astronomers_999.html" >🔗</a> **[SpaceDaily]** Strange 'inside-out' planetary system baffles astronomers
+- <a href="https://www.spacedaily.com/reports/Chance_glimpse_of_star_collapse_offers_new_insight_into_black_hole_formation_999.html" >🔗</a> **[SpaceDaily]** Chance glimpse of star collapse offers new insight into black hole formation
+- <a href="https://spacenews.com/vast-wins-iss-private-astronaut-mission/" >🔗</a> **[SpaceNews]** Vast wins ISS private astronaut mission
+- <a href="https://www.nasa.gov/news-release/nasas-spacex-crew-12-launches-to-international-space-station/" >🔗</a> **[NASA]** NASA’s SpaceX Crew-12 Launches to International Space Station
+- <a href="https://spacepolicyonline.com/news/crew-12-lifts-off-on-eight-month-iss-mission/" >🔗</a> **[SpacePolicyOnline.com]** Crew-12 Lifts Off on Eight-Month ISS Mission
+- <a href="https://arstechnica.com/space/2026/02/rocket-report-say-cheerio-to-orbex-china-is-getting-good-at-booster-landings/" >🔗</a> **[Arstechnica]** Rocket Report: Say cheerio to Orbex; China is getting good at booster landings
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260213T120432">2026-02-13 12:04:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260213T124443">2026-02-13 12:44:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
