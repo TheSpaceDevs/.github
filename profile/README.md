@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/senate-committee-advances-fcc-satellite-licensing-bill-after-changes/" >🔗</a> **[SpaceNews]** Senate committee advances FCC satellite licensing bill after changes
 - <a href="https://www.nasa.gov/image-article/crew-12-launches/" >🔗</a> **[NASA]** Crew-12 Launches
 - <a href="https://arstechnica.com/space/2026/02/why-is-bezos-trolling-musk-on-x-with-turtle-pics-because-he-has-a-new-moon-plan/" >🔗</a> **[Arstechnica]** Why is Bezos trolling Musk on X with turtle pics? Because he has a new Moon plan.
 - <a href="https://spacenews.com/startup-bets-on-new-approach-to-space-based-missile-defense/" >🔗</a> **[SpaceNews]** Startup bets on new approach to space-based missile defense
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/crew-12-launches-to-iss/" >🔗</a> **[SpaceNews]** Crew-12 launches to ISS
 - <a href="https://www.spacedaily.com/reports/Strange_inside-out_planetary_system_baffles_astronomers_999.html" >🔗</a> **[SpaceDaily]** Strange 'inside-out' planetary system baffles astronomers
 - <a href="https://www.spacedaily.com/reports/UK_space_firm_Skyrora_explores_buying_assets_of_struggling_rival_Orbex_999.html" >🔗</a> **[SpaceDaily]** UK space firm Skyrora explores buying assets of struggling rival Orbex
-- <a href="https://www.spacedaily.com/reports/Chance_glimpse_of_star_collapse_offers_new_insight_into_black_hole_formation_999.html" >🔗</a> **[SpaceDaily]** Chance glimpse of star collapse offers new insight into black hole formation
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260213T210836">2026-02-13 21:08:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260213T214244">2026-02-13 21:42:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
