@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.nasaspaceflight.com/2026/02/crew-12-launch/" >🔗</a> **[NASASpaceflight]** NASA, SpaceX set for launch of Crew-12 to ISS
-- <a href="https://spacepolicyonline.com/news/ulas-vulcan-gets-ussf-payloads-to-orbit-despite-another-srb-anomaly/" >🔗</a> **[SpacePolicyOnline.com]** ULA’s Vulcan Gets USSF Payloads to Orbit Despite Another SRB Anomaly
-- <a href="https://spacenews.com/space-startups-find-more-paths-to-liquidity-as-investors-warm-to-maturing-sector/" >🔗</a> **[SpaceNews]** Space startups find more paths to liquidity as investors warm to maturing sector
-- <a href="https://spacenews.com/first-ariane-64-launches-amazon-leo-satellites/" >🔗</a> **[SpaceNews]** First Ariane 64 launches Amazon Leo satellites
-- <a href="https://www.nasa.gov/news-release/nasa-selects-vast-for-sixth-private-mission-to-space-station/" >🔗</a> **[NASA]** NASA Selects Vast for Sixth Private Mission to Space Station
-- <a href="https://spacenews.com/axiom-space-raises-additional-350-million/" >🔗</a> **[SpaceNews]** Axiom Space raises additional $350 million
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/02/Highlights_of_first_launch_of_Ariane_6_with_four_boosters" >🔗</a> **[ESA]** Highlights of first launch of Ariane 6 with four boosters
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/02/Ariane_6_first_launch_with_four_boosters_the_complete_broadcast" >🔗</a> **[ESA]** Ariane 6 first launch with four boosters: the complete broadcast
-- <a href="https://spacenews.com/thinkom-gets-military-contract-to-supply-portable-ground-stations-for-satellite-communications/" >🔗</a> **[SpaceNews]** ThinKom gets military contract to supply portable ground stations for satellite communications
-- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/More_power_first_Ariane_6_with_four_boosters_lifts_off" >🔗</a> **[ESA]** More power: first Ariane 6 with four boosters lifts off
+- <a href="https://www.spacedaily.com/reports/Hydrogen_sulfide_detected_in_distant_gas_giant_exoplanets_for_the_first_time_999.html" >🔗</a> **[SpaceDaily]** Hydrogen sulfide detected in distant gas giant exoplanets for the first time
+- <a href="https://www.spacedaily.com/reports/Titan_may_have_formed_in_a_giant_impact_between_ancient_Saturn_moons_999.html" >🔗</a> **[SpaceDaily]** Titan may have formed in a giant impact between ancient Saturn moons
+- <a href="https://www.spacedaily.com/reports/Mars_Young_Volcanoes_Were_More_Complex_Than_Scientists_Once_Thought_999.html" >🔗</a> **[SpaceDaily]** Mars' "Young" Volcanoes Were More Complex Than Scientists Once Thought
+- <a href="https://www.spacedaily.com/reports/Change_6_farside_samples_reshape_lunar_impact_history_999.html" >🔗</a> **[SpaceDaily]** Chang'e-6 farside samples reshape lunar impact history
+- <a href="https://www.spacedaily.com/reports/ESA_signs_Ramses_spacecraft_and_cubesat_deals_for_Apophis_flyby_999.html" >🔗</a> **[SpaceDaily]** ESA signs Ramses spacecraft and cubesat deals for Apophis flyby
+- <a href="https://www.spacedaily.com/reports/Stoke_Space_expands_Series_D_funding_to_860M_to_drive_Nova_launch_development_999.html" >🔗</a> **[SpaceDaily]** Stoke Space expands Series D funding to $860M to drive Nova launch development
+- <a href="https://www.spacedaily.com/reports/Ariane_6_four_booster_launcher_completes_on_schedule_mission_999.html" >🔗</a> **[SpaceDaily]** Ariane 6 four booster launcher completes on schedule mission
+- <a href="https://www.spacedaily.com/reports/China_verifies_Long_March_10_booster_splashdown_and_crew_escape_in_key_lunar_test_999.html" >🔗</a> **[SpaceDaily]** China verifies Long March 10 booster splashdown and crew escape in key lunar test
+- <a href="https://www.spacedaily.com/reports/NASA_Stennis_proves_water_systems_ready_for_Artemis_IV_upper_stage_trials_999.html" >🔗</a> **[SpaceDaily]** NASA Stennis proves water systems ready for Artemis IV upper stage trials
+- <a href="https://www.spacedaily.com/reports/Debris_disc_oddities_point_to_hidden_outer_planets_999.html" >🔗</a> **[SpaceDaily]** Debris disc oddities point to hidden outer planets
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260213T035414">2026-02-13 03:54:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260213T043503">2026-02-13 04:35:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
