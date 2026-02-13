@@ -90,35 +90,35 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.spacedaily.com/reports/Titan_may_have_formed_in_a_giant_impact_between_ancient_Saturn_moons_999.html" >🔗</a> **[SpaceDaily]** Titan may have formed in a giant impact between ancient Saturn moons
-- <a href="https://www.spacedaily.com/reports/Hydrogen_sulfide_detected_in_distant_gas_giant_exoplanets_for_the_first_time_999.html" >🔗</a> **[SpaceDaily]** Hydrogen sulfide detected in distant gas giant exoplanets for the first time
-- <a href="https://www.spacedaily.com/reports/Change_6_farside_samples_reshape_lunar_impact_history_999.html" >🔗</a> **[SpaceDaily]** Chang'e-6 farside samples reshape lunar impact history
-- <a href="https://www.spacedaily.com/reports/China_verifies_Long_March_10_booster_splashdown_and_crew_escape_in_key_lunar_test_999.html" >🔗</a> **[SpaceDaily]** China verifies Long March 10 booster splashdown and crew escape in key lunar test
-- <a href="https://www.spacedaily.com/reports/ESA_signs_Ramses_spacecraft_and_cubesat_deals_for_Apophis_flyby_999.html" >🔗</a> **[SpaceDaily]** ESA signs Ramses spacecraft and cubesat deals for Apophis flyby
+- <a href="https://www.spacedaily.com/reports/AST_SpaceMobile_deploys_record_low_orbit_cellular_array_on_BlueBird_6_999.html" >🔗</a> **[SpaceDaily]** AST SpaceMobile deploys record low orbit cellular array on BlueBird 6
 - <a href="https://www.spacedaily.com/reports/Mars_Young_Volcanoes_Were_More_Complex_Than_Scientists_Once_Thought_999.html" >🔗</a> **[SpaceDaily]** Mars' "Young" Volcanoes Were More Complex Than Scientists Once Thought
-- <a href="https://www.spacedaily.com/reports/Ariane_6_four_booster_launcher_completes_on_schedule_mission_999.html" >🔗</a> **[SpaceDaily]** Ariane 6 four booster launcher completes on schedule mission
+- <a href="https://www.spacedaily.com/reports/China_verifies_Long_March_10_booster_splashdown_and_crew_escape_in_key_lunar_test_999.html" >🔗</a> **[SpaceDaily]** China verifies Long March 10 booster splashdown and crew escape in key lunar test
+- <a href="https://www.spacedaily.com/reports/Swift_observatory_changes_operations_ahead_of_planned_orbit_reboost_999.html" >🔗</a> **[SpaceDaily]** Swift observatory changes operations ahead of planned orbit reboost
 - <a href="https://www.spacedaily.com/reports/Stoke_Space_expands_Series_D_funding_to_860M_to_drive_Nova_launch_development_999.html" >🔗</a> **[SpaceDaily]** Stoke Space expands Series D funding to $860M to drive Nova launch development
+- <a href="https://www.spacedaily.com/reports/Change_6_farside_samples_reshape_lunar_impact_history_999.html" >🔗</a> **[SpaceDaily]** Chang'e-6 farside samples reshape lunar impact history
+- <a href="https://www.spacedaily.com/reports/ESA_signs_Ramses_spacecraft_and_cubesat_deals_for_Apophis_flyby_999.html" >🔗</a> **[SpaceDaily]** ESA signs Ramses spacecraft and cubesat deals for Apophis flyby
+- <a href="https://www.spacedaily.com/reports/Ariane_6_four_booster_launcher_completes_on_schedule_mission_999.html" >🔗</a> **[SpaceDaily]** Ariane 6 four booster launcher completes on schedule mission
 - <a href="https://www.spacedaily.com/reports/NASA_Stennis_proves_water_systems_ready_for_Artemis_IV_upper_stage_trials_999.html" >🔗</a> **[SpaceDaily]** NASA Stennis proves water systems ready for Artemis IV upper stage trials
-- <a href="https://www.spacedaily.com/reports/Debris_disc_oddities_point_to_hidden_outer_planets_999.html" >🔗</a> **[SpaceDaily]** Debris disc oddities point to hidden outer planets
+- <a href="https://www.spacedaily.com/reports/Titan_may_have_formed_in_a_giant_impact_between_ancient_Saturn_moons_999.html" >🔗</a> **[SpaceDaily]** Titan may have formed in a giant impact between ancient Saturn moons
 
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2026/02/crew-12-launch/" >🔗</a> **[NASASpaceflight]** NASA, SpaceX set for launch of Crew-12 to ISS
 - <a href="https://www.nasa.gov/image-article/crew-12-members-and-insignia/" >🔗</a> **[NASA]** Crew-12 Members and Insignia
 - <a href="https://www.spacedaily.com/reports/Launch_to_ISS_pushed_to_Thursday_over_weather_NASA_999.html" >🔗</a> **[SpaceDaily]** Launch to ISS pushed to Thursday over weather: NASA
-- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Watch_live_Crew-12_launch_and_docking_updated" >🔗</a> **[ESA]** Watch live: Crew-12 launch and docking (updated)
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Watch_live_Crew-12_launch_and_docking" >🔗</a> **[ESA]** Watch live: Crew-12 launch and docking
+- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Watch_live_Crew-12_launch_and_docking_updated" >🔗</a> **[ESA]** Watch live: Crew-12 launch and docking (updated)
 - <a href="https://www.nasaspaceflight.com/2026/02/launch-preview-020926/" >🔗</a> **[NASASpaceflight]** Launch Preview: Vulcan to launch USSF-87, SpaceX to launch Crew-12 to ISS
 - <a href="https://www.nasa.gov/missions/station/what-you-need-to-know-about-nasas-spacex-crew-12-mission/" >🔗</a> **[NASA]** What You Need to Know About NASA’s SpaceX Crew-12 Mission
 - <a href="https://spaceflightnow.com/2026/02/09/weather-delays-nasas-spacex-crew-12-flight-to-the-international-space-station/" >🔗</a> **[Spaceflight Now]** Weather delays NASA’s SpaceX Crew-12 flight to the International Space Station
 - <a href="https://www.spacescout.info/2026/02/crew-12-to-return-iss-to-normal-complement/" >🔗</a> **[Space Scout]** Crew-12 to Return ISS to Normal Complement
 - <a href="https://spaceflightnow.com/2026/02/08/spacex-test-fires-its-falcon-9-rocket-ahead-of-midweek-launch-of-crew-12-to-the-space-station/" >🔗</a> **[Spaceflight Now]** SpaceX test fires its Falcon 9 rocket ahead of midweek launch of Crew-12 to the space station
-- <a href="https://www.spacedaily.com/reports/NASA_confirms_first_flight_to_ISS_since_medical_evacuation_999.html" >🔗</a> **[SpaceDaily]** NASA confirms first flight to ISS since medical evacuation
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260213T064547">2026-02-13 06:45:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260213T071852">2026-02-13 07:18:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
