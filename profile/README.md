@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/crew-12-launches/" >🔗</a> **[NASA]** Crew-12 Launches
+- <a href="https://arstechnica.com/space/2026/02/why-is-bezos-trolling-musk-on-x-with-turtle-pics-because-he-has-a-new-moon-plan/" >🔗</a> **[Arstechnica]** Why is Bezos trolling Musk on X with turtle pics? Because he has a new Moon plan.
 - <a href="https://spacenews.com/startup-bets-on-new-approach-to-space-based-missile-defense/" >🔗</a> **[SpaceNews]** Startup bets on new approach to space-based missile defense
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_09-13_February_2026" >🔗</a> **[ESA]** Week in images: 09-13 February 2026
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/02/Launch_of_Crew-12_with_Sophie_Adenot_epsilon_mission" >🔗</a> **[ESA]** Launch of Crew-12 with Sophie Adenot | εpsilon mission
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/02/Full_replay_Launch_of_Crew-12_with_Sophie_Adenot_epsilon_mission" >🔗</a> **[ESA]** Full replay: Launch of Crew-12 with Sophie Adenot | εpsilon mission
 - <a href="https://spacenews.com/crew-12-launches-to-iss/" >🔗</a> **[SpaceNews]** Crew-12 launches to ISS
-- <a href="https://www.spacedaily.com/reports/Europes_most_powerful_rocket_carries_32_satellites_for_Amazon_Leo_network_into_space_999.html" >🔗</a> **[SpaceDaily]** Europe's most powerful rocket carries 32 satellites for Amazon Leo network into space
-- <a href="https://www.spacedaily.com/reports/Chance_glimpse_of_star_collapse_offers_new_insight_into_black_hole_formation_999.html" >🔗</a> **[SpaceDaily]** Chance glimpse of star collapse offers new insight into black hole formation
-- <a href="https://www.spacedaily.com/reports/xAI_sees_key_staff_exits_Musk_promises_moon_factories_999.html" >🔗</a> **[SpaceDaily]** xAI sees key staff exits, Musk promises moon factories
-- <a href="https://www.spacedaily.com/reports/International_crew_takes_off_for_space_station_999.html" >🔗</a> **[SpaceDaily]** International crew takes off for space station
 - <a href="https://www.spacedaily.com/reports/Strange_inside-out_planetary_system_baffles_astronomers_999.html" >🔗</a> **[SpaceDaily]** Strange 'inside-out' planetary system baffles astronomers
+- <a href="https://www.spacedaily.com/reports/UK_space_firm_Skyrora_explores_buying_assets_of_struggling_rival_Orbex_999.html" >🔗</a> **[SpaceDaily]** UK space firm Skyrora explores buying assets of struggling rival Orbex
+- <a href="https://www.spacedaily.com/reports/Chance_glimpse_of_star_collapse_offers_new_insight_into_black_hole_formation_999.html" >🔗</a> **[SpaceDaily]** Chance glimpse of star collapse offers new insight into black hole formation
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260213T151219">2026-02-13 15:12:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260213T154320">2026-02-13 15:43:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
