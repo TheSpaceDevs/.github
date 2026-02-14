@@ -89,6 +89,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacescout.info/2026/02/crew-12-arrives-on-station/" >🔗</a> **[Space Scout]** Crew-12 Arrives on Station
+- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/Official_start_of_ESA_astronaut_Sophie_Adenot_s_epsilon_mission" >🔗</a> **[ESA]** Official start of ESA astronaut Sophie Adenot’s εpsilon mission
+- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Official_start_of_ESA_astronaut_Sophie_Adenot_s_epsilon_mission" >🔗</a> **[ESA]** Official start of ESA astronaut Sophie Adenot’s εpsilon mission
 - <a href="https://spaceflightnow.com/2026/02/14/live-coverage-spacex-to-launch-600th-falcon-9-rocket-to-date-with-starlink-flight-from-vandenberg/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 600th Falcon 9 rocket to date with Starlink flight from Vandenberg
 - <a href="https://spacenews.com/nasa-continues-sls-hydrogen-leak-tests/" >🔗</a> **[SpaceNews]** NASA continues SLS hydrogen leak tests
 - <a href="https://europeanspaceflight.com/did-the-uk-block-the-exploration-companys-purchase-of-orbex/" >🔗</a> **[European Spaceflight]** Did the UK Block The Exploration Company’s Purchase of Orbex?
@@ -96,9 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/a-new-book-captures-the-forces-shaping-space-china-the-moon-and-industry/" >🔗</a> **[SpaceNews]** A new book captures the forces shaping space: China, the moon and industry
 - <a href="https://spacenews.com/senate-committee-advances-fcc-satellite-licensing-bill-after-changes/" >🔗</a> **[SpaceNews]** Senate committee advances FCC satellite licensing bill after changes
 - <a href="https://www.nasa.gov/image-article/crew-12-launches/" >🔗</a> **[NASA]** Crew-12 Launches
-- <a href="https://arstechnica.com/space/2026/02/why-is-bezos-trolling-musk-on-x-with-turtle-pics-because-he-has-a-new-moon-plan/" >🔗</a> **[Arstechnica]** Why is Bezos trolling Musk on X with turtle pics? Because he has a new Moon plan.
-- <a href="https://spacenews.com/startup-bets-on-new-approach-to-space-based-missile-defense/" >🔗</a> **[SpaceNews]** Startup bets on new approach to space-based missile defense
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_09-13_February_2026" >🔗</a> **[ESA]** Week in images: 09-13 February 2026
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260214T230230">2026-02-14 23:02:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260214T233654">2026-02-14 23:36:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
