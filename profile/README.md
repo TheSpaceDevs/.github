@@ -96,8 +96,8 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2026/02/why-is-bezos-trolling-musk-on-x-with-turtle-pics-because-he-has-a-new-moon-plan/" >🔗</a> **[Arstechnica]** Why is Bezos trolling Musk on X with turtle pics? Because he has a new Moon plan.
 - <a href="https://spacenews.com/startup-bets-on-new-approach-to-space-based-missile-defense/" >🔗</a> **[SpaceNews]** Startup bets on new approach to space-based missile defense
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_09-13_February_2026" >🔗</a> **[ESA]** Week in images: 09-13 February 2026
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/02/Launch_of_Crew-12_with_Sophie_Adenot_epsilon_mission" >🔗</a> **[ESA]** Launch of Crew-12 with Sophie Adenot | εpsilon mission
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/02/Full_replay_Launch_of_Crew-12_with_Sophie_Adenot_epsilon_mission" >🔗</a> **[ESA]** Full replay: Launch of Crew-12 with Sophie Adenot | εpsilon mission
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/02/Launch_of_Crew-12_with_Sophie_Adenot_epsilon_mission" >🔗</a> **[ESA]** Launch of Crew-12 with Sophie Adenot | εpsilon mission
 - <a href="https://spacenews.com/crew-12-launches-to-iss/" >🔗</a> **[SpaceNews]** Crew-12 launches to ISS
 - <a href="https://www.spacedaily.com/reports/Strange_inside-out_planetary_system_baffles_astronomers_999.html" >🔗</a> **[SpaceDaily]** Strange 'inside-out' planetary system baffles astronomers
 
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260214T080315">2026-02-14 08:03:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260214T084231">2026-02-14 08:42:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
