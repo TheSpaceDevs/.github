@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/02/14/very-lucky-day-nasa-spacex-ace-astronaut-launch-to-the-space-station-on-friday-the-13th/" >🔗</a> **[Spaceflight Now]** ‘Very lucky day’: NASA, SpaceX ace astronaut launch to the space station on Friday the 13th
 - <a href="https://spacenews.com/a-new-book-captures-the-forces-shaping-space-china-the-moon-and-industry/" >🔗</a> **[SpaceNews]** A new book captures the forces shaping space: China, the moon and industry
 - <a href="https://spacenews.com/senate-committee-advances-fcc-satellite-licensing-bill-after-changes/" >🔗</a> **[SpaceNews]** Senate committee advances FCC satellite licensing bill after changes
 - <a href="https://www.nasa.gov/image-article/crew-12-launches/" >🔗</a> **[NASA]** Crew-12 Launches
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/02/Full_replay_Launch_of_Crew-12_with_Sophie_Adenot_epsilon_mission" >🔗</a> **[ESA]** Full replay: Launch of Crew-12 with Sophie Adenot | εpsilon mission
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/02/Launch_of_Crew-12_with_Sophie_Adenot_epsilon_mission" >🔗</a> **[ESA]** Launch of Crew-12 with Sophie Adenot | εpsilon mission
 - <a href="https://spacenews.com/crew-12-launches-to-iss/" >🔗</a> **[SpaceNews]** Crew-12 launches to ISS
-- <a href="https://www.spacedaily.com/reports/Strange_inside-out_planetary_system_baffles_astronomers_999.html" >🔗</a> **[SpaceDaily]** Strange 'inside-out' planetary system baffles astronomers
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260214T124358">2026-02-14 12:43:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260214T131553">2026-02-14 13:15:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
