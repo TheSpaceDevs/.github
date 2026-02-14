@@ -89,6 +89,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/02/14/live-coverage-spacex-to-launch-600th-falcon-9-rocket-to-date-with-starlink-flight-from-vandenberg/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 600th Falcon 9 rocket to date with Starlink flight from Vandenberg
 - <a href="https://spacenews.com/nasa-continues-sls-hydrogen-leak-tests/" >🔗</a> **[SpaceNews]** NASA continues SLS hydrogen leak tests
 - <a href="https://europeanspaceflight.com/did-the-uk-block-the-exploration-companys-purchase-of-orbex/" >🔗</a> **[European Spaceflight]** Did the UK Block The Exploration Company’s Purchase of Orbex?
 - <a href="https://spaceflightnow.com/2026/02/14/very-lucky-day-nasa-spacex-ace-astronaut-launch-to-the-space-station-on-friday-the-13th/" >🔗</a> **[Spaceflight Now]** ‘Very lucky day’: NASA, SpaceX ace astronaut launch to the space station on Friday the 13th
@@ -98,7 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2026/02/why-is-bezos-trolling-musk-on-x-with-turtle-pics-because-he-has-a-new-moon-plan/" >🔗</a> **[Arstechnica]** Why is Bezos trolling Musk on X with turtle pics? Because he has a new Moon plan.
 - <a href="https://spacenews.com/startup-bets-on-new-approach-to-space-based-missile-defense/" >🔗</a> **[SpaceNews]** Startup bets on new approach to space-based missile defense
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_09-13_February_2026" >🔗</a> **[ESA]** Week in images: 09-13 February 2026
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/02/Full_replay_Launch_of_Crew-12_with_Sophie_Adenot_epsilon_mission" >🔗</a> **[ESA]** Full replay: Launch of Crew-12 with Sophie Adenot | εpsilon mission
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260214T220112">2026-02-14 22:01:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260214T223842">2026-02-14 22:38:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
