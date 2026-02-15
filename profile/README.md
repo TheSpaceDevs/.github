@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/02/15/live-coverage-spacex-to-launch-predawn-falcon-9-rocket-launch-on-presidents-day/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch predawn Starlink mission on President’s Day
 - <a href="https://spaceflightnow.com/2026/02/15/replacement-crew-docks-at-space-station-boosts-crew-back-to-seven/" >🔗</a> **[Spaceflight Now]** Replacement crew docks at space station, boosts crew back to seven
 - <a href="https://www.spacescout.info/2026/02/crew-12-arrives-on-station/" >🔗</a> **[Space Scout]** Crew-12 Arrives on Station
-- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Official_start_of_ESA_astronaut_Sophie_Adenot_s_epsilon_mission" >🔗</a> **[ESA]** Official start of ESA astronaut Sophie Adenot’s εpsilon mission
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/Official_start_of_ESA_astronaut_Sophie_Adenot_s_epsilon_mission" >🔗</a> **[ESA]** Official start of ESA astronaut Sophie Adenot’s εpsilon mission
+- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Official_start_of_ESA_astronaut_Sophie_Adenot_s_epsilon_mission" >🔗</a> **[ESA]** Official start of ESA astronaut Sophie Adenot’s εpsilon mission
 - <a href="https://spaceflightnow.com/2026/02/14/live-coverage-spacex-to-launch-600th-falcon-9-rocket-to-date-with-starlink-flight-from-vandenberg/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 600th Falcon 9 rocket to date with Starlink flight from Vandenberg
 - <a href="https://spacenews.com/nasa-continues-sls-hydrogen-leak-tests/" >🔗</a> **[SpaceNews]** NASA continues SLS hydrogen leak tests
 - <a href="https://europeanspaceflight.com/did-the-uk-block-the-exploration-companys-purchase-of-orbex/" >🔗</a> **[European Spaceflight]** Did the UK Block The Exploration Company’s Purchase of Orbex?
 - <a href="https://spaceflightnow.com/2026/02/14/very-lucky-day-nasa-spacex-ace-astronaut-launch-to-the-space-station-on-friday-the-13th/" >🔗</a> **[Spaceflight Now]** ‘Very lucky day’: NASA, SpaceX ace astronaut launch to the space station on Friday the 13th
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/02/Crew-12_Docking_hatch_opening_and_welcome_remarks" >🔗</a> **[ESA]** Crew-12: Docking, hatch opening and welcome remarks
-- <a href="https://spacenews.com/a-new-book-captures-the-forces-shaping-space-china-the-moon-and-industry/" >🔗</a> **[SpaceNews]** A new book captures the forces shaping space: China, the moon and industry
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260215T190616">2026-02-15 19:06:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260215T193645">2026-02-15 19:36:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
