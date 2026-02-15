@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-february-15-21-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy February 15-21, 2026
 - <a href="https://arstechnica.com/space/2026/02/space-station-returns-to-a-full-crew-complement-after-a-month/" >🔗</a> **[Arstechnica]** Space Station returns to a full crew complement after a month
 - <a href="https://spaceflightnow.com/2026/02/15/live-coverage-spacex-to-launch-predawn-falcon-9-rocket-launch-on-presidents-day/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch predawn Starlink mission on President’s Day
 - <a href="https://spaceflightnow.com/2026/02/15/replacement-crew-docks-at-space-station-boosts-crew-back-to-seven/" >🔗</a> **[Spaceflight Now]** Replacement crew docks at space station, boosts crew back to seven
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2026/02/14/live-coverage-spacex-to-launch-600th-falcon-9-rocket-to-date-with-starlink-flight-from-vandenberg/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 600th Falcon 9 rocket to date with Starlink flight from Vandenberg
 - <a href="https://spacenews.com/nasa-continues-sls-hydrogen-leak-tests/" >🔗</a> **[SpaceNews]** NASA continues SLS hydrogen leak tests
 - <a href="https://europeanspaceflight.com/did-the-uk-block-the-exploration-companys-purchase-of-orbex/" >🔗</a> **[European Spaceflight]** Did the UK Block The Exploration Company’s Purchase of Orbex?
-- <a href="https://spaceflightnow.com/2026/02/14/very-lucky-day-nasa-spacex-ace-astronaut-launch-to-the-space-station-on-friday-the-13th/" >🔗</a> **[Spaceflight Now]** ‘Very lucky day’: NASA, SpaceX ace astronaut launch to the space station on Friday the 13th
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260215T220149">2026-02-15 22:01:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260215T223926">2026-02-15 22:39:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
