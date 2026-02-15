@@ -96,9 +96,9 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/nasa-continues-sls-hydrogen-leak-tests/" >🔗</a> **[SpaceNews]** NASA continues SLS hydrogen leak tests
 - <a href="https://europeanspaceflight.com/did-the-uk-block-the-exploration-companys-purchase-of-orbex/" >🔗</a> **[European Spaceflight]** Did the UK Block The Exploration Company’s Purchase of Orbex?
 - <a href="https://spaceflightnow.com/2026/02/14/very-lucky-day-nasa-spacex-ace-astronaut-launch-to-the-space-station-on-friday-the-13th/" >🔗</a> **[Spaceflight Now]** ‘Very lucky day’: NASA, SpaceX ace astronaut launch to the space station on Friday the 13th
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/02/Crew-12_Docking_hatch_opening_and_welcome_remarks" >🔗</a> **[ESA]** Crew-12: Docking, hatch opening and welcome remarks
 - <a href="https://spacenews.com/a-new-book-captures-the-forces-shaping-space-china-the-moon-and-industry/" >🔗</a> **[SpaceNews]** A new book captures the forces shaping space: China, the moon and industry
 - <a href="https://spacenews.com/senate-committee-advances-fcc-satellite-licensing-bill-after-changes/" >🔗</a> **[SpaceNews]** Senate committee advances FCC satellite licensing bill after changes
-- <a href="https://www.nasa.gov/image-article/crew-12-launches/" >🔗</a> **[NASA]** Crew-12 Launches
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260214T233654">2026-02-14 23:36:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260215T000725">2026-02-15 00:07:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
