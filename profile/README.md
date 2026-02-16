@@ -54,7 +54,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260224T205600">2026-02-24 20:56:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-110&location=Cape Canaveral SFS, FL, USA&dates=20260224T205600Z%2F20260225T005600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-110** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260225T020000">2026-02-25 02:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=KAIROS | Flight 3&location=Spaceport Kii, Japan&dates=20260225T020000Z%2F20260225T022000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **KAIROS | Flight 3** from Spaceport Kii, Japan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260225T080000">2026-02-25 08:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-23&location=Vandenberg SFB, CA, USA&dates=20260225T080000Z%2F20260225T120000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-23** from Vandenberg SFB, CA, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260227T000000">2026-02-27 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-108&location=Cape Canaveral SFS, FL, USA&dates=20260227T000000Z%2F20260227T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-108** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260227T000000">2026-02-27 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-108&location=Cape Canaveral SFS, FL, USA&dates=20260227T000000Z%2F20260227T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-108** from Cape Canaveral SFS, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-work-on-several-programs-pending-responses-to-white-house-executive-order/" >🔗</a> **[SpaceNews]** NASA work on several programs pending responses to White House executive order
 - <a href="https://spacenews.com/the-space-nuclear-power-bottleneck-and-how-to-fix-it/" >🔗</a> **[SpaceNews]** The space nuclear power bottleneck — and how to fix it
 - <a href="https://spacenews.com/low-profile-chinese-launch-firm-conducts-first-stage-static-fire/" >🔗</a> **[SpaceNews]** Low-profile Chinese launch firm conducts first stage static fire
 - <a href="https://spacenews.com/portions-of-the-pentagons-leo-constellation-on-hold-as-acquisition-reviews-proceed/" >🔗</a> **[SpaceNews]** Portions of the Pentagon’s LEO constellation on hold as acquisition reviews proceed
-- <a href="https://www.spacedaily.com/reports/Einstein_probe_catch_may_show_black_hole_shredding_white_dwarf_999.html" >🔗</a> **[SpaceDaily]** Einstein probe catch may show black hole shredding white dwarf
 - <a href="https://www.spacedaily.com/reports/International_crew_arrives_at_space_station_999.html" >🔗</a> **[SpaceDaily]** International crew arrives at space station
 - <a href="https://www.spacedaily.com/reports/Sophie_Adenot_the_second_French_woman_to_fly_to_space_999.html" >🔗</a> **[SpaceDaily]** Sophie Adenot, the second French woman to fly to space
+- <a href="https://www.spacedaily.com/reports/Einstein_probe_catch_may_show_black_hole_shredding_white_dwarf_999.html" >🔗</a> **[SpaceDaily]** Einstein probe catch may show black hole shredding white dwarf
+- <a href="https://www.spacedaily.com/reports/China_retrieves_Long_March_10_booster_from_South_China_Sea_after_test_flight_999.html" >🔗</a> **[SpaceDaily]** China retrieves Long March 10 booster from South China Sea after test flight
 - <a href="https://www.spacedaily.com/reports/Vietnam_licenses_Musks_satellite_internet_firm_Starlink_999.html" >🔗</a> **[SpaceDaily]** Vietnam licenses Musk's satellite internet firm Starlink
 - <a href="https://www.spacedaily.com/reports/Cheops_spots_inside_out_exoplanet_quartet_999.html" >🔗</a> **[SpaceDaily]** Cheops spots inside out exoplanet quartet
-- <a href="https://www.spacedaily.com/reports/China_retrieves_Long_March_10_booster_from_South_China_Sea_after_test_flight_999.html" >🔗</a> **[SpaceDaily]** China retrieves Long March 10 booster from South China Sea after test flight
-- <a href="https://www.spacedaily.com/reports/Smart_Dragon_3_rocket_sends_seven_satellites_to_orbit_from_sea_platform_999.html" >🔗</a> **[SpaceDaily]** Smart Dragon 3 rocket sends seven satellites to orbit from sea platform
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260216T160957">2026-02-16 16:09:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260216T164343">2026-02-16 16:43:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
