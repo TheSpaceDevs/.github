@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/isaacman-planning-to-meet-with-head-of-roscosmos/" >🔗</a> **[SpaceNews]** Isaacman planning to meet with head of Roscosmos
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-february-15-21-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy February 15-21, 2026
-- <a href="https://arstechnica.com/space/2026/02/space-station-returns-to-a-full-crew-complement-after-a-month/" >🔗</a> **[Arstechnica]** Space Station returns to a full crew complement after a month
-- <a href="https://spaceflightnow.com/2026/02/15/live-coverage-spacex-to-launch-predawn-falcon-9-rocket-launch-on-presidents-day/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch predawn Starlink mission on President’s Day
-- <a href="https://spaceflightnow.com/2026/02/15/replacement-crew-docks-at-space-station-boosts-crew-back-to-seven/" >🔗</a> **[Spaceflight Now]** Replacement crew docks at space station, boosts crew back to seven
-- <a href="https://www.spacescout.info/2026/02/crew-12-arrives-on-station/" >🔗</a> **[Space Scout]** Crew-12 Arrives on Station
-- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Official_start_of_ESA_astronaut_Sophie_Adenot_s_epsilon_mission" >🔗</a> **[ESA]** Official start of ESA astronaut Sophie Adenot’s εpsilon mission
-- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/Official_start_of_ESA_astronaut_Sophie_Adenot_s_epsilon_mission" >🔗</a> **[ESA]** Official start of ESA astronaut Sophie Adenot’s εpsilon mission
-- <a href="https://spaceflightnow.com/2026/02/14/live-coverage-spacex-to-launch-600th-falcon-9-rocket-to-date-with-starlink-flight-from-vandenberg/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 600th Falcon 9 rocket to date with Starlink flight from Vandenberg
-- <a href="https://spacenews.com/nasa-continues-sls-hydrogen-leak-tests/" >🔗</a> **[SpaceNews]** NASA continues SLS hydrogen leak tests
+- <a href="https://www.spacedaily.com/reports/Infrared_archive_reveals_quiet_birth_of_new_black_hole_in_Andromeda_999.html" >🔗</a> **[SpaceDaily]** Infrared archive reveals quiet birth of new black hole in Andromeda
+- <a href="https://www.spacedaily.com/reports/Microbes_harvest_metals_from_meteorites_aboard_space_station_999.html" >🔗</a> **[SpaceDaily]** Microbes harvest metals from meteorites aboard space station
+- <a href="https://www.spacedaily.com/reports/Cheops_spots_inside_out_exoplanet_quartet_999.html" >🔗</a> **[SpaceDaily]** Cheops spots inside out exoplanet quartet
+- <a href="https://www.spacedaily.com/reports/China_retrieves_Long_March_10_booster_from_South_China_Sea_after_test_flight_999.html" >🔗</a> **[SpaceDaily]** China retrieves Long March 10 booster from South China Sea after test flight
+- <a href="https://www.spacedaily.com/reports/Smart_Dragon_3_rocket_sends_seven_satellites_to_orbit_from_sea_platform_999.html" >🔗</a> **[SpaceDaily]** Smart Dragon 3 rocket sends seven satellites to orbit from sea platform
+- <a href="https://www.spacedaily.com/reports/Einstein_probe_catch_may_show_black_hole_shredding_white_dwarf_999.html" >🔗</a> **[SpaceDaily]** Einstein probe catch may show black hole shredding white dwarf
+- <a href="https://www.spacedaily.com/reports/International_crew_arrives_at_space_station_999.html" >🔗</a> **[SpaceDaily]** International crew arrives at space station
+- <a href="https://www.spacedaily.com/reports/Sophie_Adenot_the_second_French_woman_to_fly_to_space_999.html" >🔗</a> **[SpaceDaily]** Sophie Adenot, the second French woman to fly to space
+- <a href="https://www.spacedaily.com/reports/Vietnam_licenses_Musks_satellite_internet_firm_Starlink_999.html" >🔗</a> **[SpaceDaily]** Vietnam licenses Musk's satellite internet firm Starlink
+- <a href="https://www.spacedaily.com/reports/Mohe_ground_station_boosts_polar_satellite_data_coverage_999.html" >🔗</a> **[SpaceDaily]** Mohe ground station boosts polar satellite data coverage
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260216T013042">2026-02-16 01:30:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260216T025738">2026-02-16 02:57:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
