@@ -92,16 +92,16 @@ First Starlink launch to feature a Falcon 9 booster landing within The Bahamas w
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/02/launch-preview-021626/" >🔗</a> **[NASASpaceflight]** Launch Preview: Firefly to launch Alpha, SpaceX to launch three Starlink missions
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/02/Launching_the_first_Ariane_6_with_four_boosters" >🔗</a> **[ESA]** Launching the first Ariane 6 with four boosters
 - <a href="https://spacenews.com/nasa-work-on-several-programs-pending-responses-to-white-house-executive-order/" >🔗</a> **[SpaceNews]** NASA work on several programs pending responses to White House executive order
 - <a href="https://europeanspaceflight.com/rfa-begins-final-preparations-for-inaugural-rfa-one-launch/" >🔗</a> **[European Spaceflight]** RFA Begins Final Preparations for Inaugural RFA ONE Launch
 - <a href="https://spacenews.com/the-space-nuclear-power-bottleneck-and-how-to-fix-it/" >🔗</a> **[SpaceNews]** The space nuclear power bottleneck — and how to fix it
 - <a href="https://spacenews.com/low-profile-chinese-launch-firm-conducts-first-stage-static-fire/" >🔗</a> **[SpaceNews]** Low-profile Chinese launch firm conducts first stage static fire
 - <a href="https://spacenews.com/portions-of-the-pentagons-leo-constellation-on-hold-as-acquisition-reviews-proceed/" >🔗</a> **[SpaceNews]** Portions of the Pentagon’s LEO constellation on hold as acquisition reviews proceed
-- <a href="https://www.spacedaily.com/reports/Sophie_Adenot_the_second_French_woman_to_fly_to_space_999.html" >🔗</a> **[SpaceDaily]** Sophie Adenot, the second French woman to fly to space
-- <a href="https://www.spacedaily.com/reports/International_crew_arrives_at_space_station_999.html" >🔗</a> **[SpaceDaily]** International crew arrives at space station
 - <a href="https://www.spacedaily.com/reports/Einstein_probe_catch_may_show_black_hole_shredding_white_dwarf_999.html" >🔗</a> **[SpaceDaily]** Einstein probe catch may show black hole shredding white dwarf
-- <a href="https://www.spacedaily.com/reports/China_retrieves_Long_March_10_booster_from_South_China_Sea_after_test_flight_999.html" >🔗</a> **[SpaceDaily]** China retrieves Long March 10 booster from South China Sea after test flight
+- <a href="https://www.spacedaily.com/reports/International_crew_arrives_at_space_station_999.html" >🔗</a> **[SpaceDaily]** International crew arrives at space station
+- <a href="https://www.spacedaily.com/reports/Vietnam_licenses_Musks_satellite_internet_firm_Starlink_999.html" >🔗</a> **[SpaceDaily]** Vietnam licenses Musk's satellite internet firm Starlink
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ First Starlink launch to feature a Falcon 9 booster landing within The Bahamas w
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260216T230433">2026-02-16 23:04:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260216T233944">2026-02-16 23:39:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
