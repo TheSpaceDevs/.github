@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.spacedaily.com/reports/Infrared_archive_reveals_quiet_birth_of_new_black_hole_in_Andromeda_999.html" >🔗</a> **[SpaceDaily]** Infrared archive reveals quiet birth of new black hole in Andromeda
-- <a href="https://www.spacedaily.com/reports/Microbes_harvest_metals_from_meteorites_aboard_space_station_999.html" >🔗</a> **[SpaceDaily]** Microbes harvest metals from meteorites aboard space station
-- <a href="https://www.spacedaily.com/reports/Cheops_spots_inside_out_exoplanet_quartet_999.html" >🔗</a> **[SpaceDaily]** Cheops spots inside out exoplanet quartet
-- <a href="https://www.spacedaily.com/reports/China_retrieves_Long_March_10_booster_from_South_China_Sea_after_test_flight_999.html" >🔗</a> **[SpaceDaily]** China retrieves Long March 10 booster from South China Sea after test flight
-- <a href="https://www.spacedaily.com/reports/Smart_Dragon_3_rocket_sends_seven_satellites_to_orbit_from_sea_platform_999.html" >🔗</a> **[SpaceDaily]** Smart Dragon 3 rocket sends seven satellites to orbit from sea platform
-- <a href="https://www.spacedaily.com/reports/Einstein_probe_catch_may_show_black_hole_shredding_white_dwarf_999.html" >🔗</a> **[SpaceDaily]** Einstein probe catch may show black hole shredding white dwarf
-- <a href="https://www.spacedaily.com/reports/International_crew_arrives_at_space_station_999.html" >🔗</a> **[SpaceDaily]** International crew arrives at space station
-- <a href="https://www.spacedaily.com/reports/Sophie_Adenot_the_second_French_woman_to_fly_to_space_999.html" >🔗</a> **[SpaceDaily]** Sophie Adenot, the second French woman to fly to space
-- <a href="https://www.spacedaily.com/reports/Vietnam_licenses_Musks_satellite_internet_firm_Starlink_999.html" >🔗</a> **[SpaceDaily]** Vietnam licenses Musk's satellite internet firm Starlink
+- <a href="https://www.spacedaily.com/reports/Mexican_Gxiba_1_CubeSat_Starts_Mission_After_Kibo_Deployment_999.html" >🔗</a> **[SpaceDaily]** Mexican Gxiba-1 CubeSat Starts Mission After Kibo Deployment
+- <a href="https://www.spacedaily.com/reports/China_tests_AI_satellite_swarm_for_space_based_computing_999.html" >🔗</a> **[SpaceDaily]** China tests AI satellite swarm for space-based computing
 - <a href="https://www.spacedaily.com/reports/Mohe_ground_station_boosts_polar_satellite_data_coverage_999.html" >🔗</a> **[SpaceDaily]** Mohe ground station boosts polar satellite data coverage
+- <a href="https://www.spacedaily.com/reports/Sophie_Adenot_the_second_French_woman_to_fly_to_space_999.html" >🔗</a> **[SpaceDaily]** Sophie Adenot, the second French woman to fly to space
+- <a href="https://www.spacedaily.com/reports/Infrared_archive_reveals_quiet_birth_of_new_black_hole_in_Andromeda_999.html" >🔗</a> **[SpaceDaily]** Infrared archive reveals quiet birth of new black hole in Andromeda
+- <a href="https://www.spacedaily.com/reports/Vietnam_licenses_Musks_satellite_internet_firm_Starlink_999.html" >🔗</a> **[SpaceDaily]** Vietnam licenses Musk's satellite internet firm Starlink
+- <a href="https://www.spacedaily.com/reports/Microbes_harvest_metals_from_meteorites_aboard_space_station_999.html" >🔗</a> **[SpaceDaily]** Microbes harvest metals from meteorites aboard space station
+- <a href="https://www.spacedaily.com/reports/Smart_Dragon_3_rocket_sends_seven_satellites_to_orbit_from_sea_platform_999.html" >🔗</a> **[SpaceDaily]** Smart Dragon 3 rocket sends seven satellites to orbit from sea platform
+- <a href="https://www.spacedaily.com/reports/International_crew_arrives_at_space_station_999.html" >🔗</a> **[SpaceDaily]** International crew arrives at space station
+- <a href="https://www.spacedaily.com/reports/China_retrieves_Long_March_10_booster_from_South_China_Sea_after_test_flight_999.html" >🔗</a> **[SpaceDaily]** China retrieves Long March 10 booster from South China Sea after test flight
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260216T080918">2026-02-16 08:09:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260216T084414">2026-02-16 08:44:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
