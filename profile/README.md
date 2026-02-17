@@ -92,16 +92,16 @@ First Starlink launch to feature a Falcon 9 booster landing within The Bahamas w
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacedaily.com/reports/Mars_relay_orbiter_seen_as_backbone_for_future_exploration_999.html" >🔗</a> **[SpaceDaily]** Mars relay orbiter seen as backbone for future exploration
+- <a href="https://www.spacedaily.com/reports/Photonic_neurons_push_ultra_fast_trading_beyond_electronic_limits_999.html" >🔗</a> **[SpaceDaily]** Photonic neurons push ultra-fast trading beyond electronic limits
+- <a href="https://www.spacedaily.com/reports/Course_correction_needed_quickly_to_avoid_pathway_to_hothouse_Earth_scenario_scientists_say_999.html" >🔗</a> **[SpaceDaily]** Course correction needed quickly to avoid pathway to 'hothouse Earth' scenario, scientists say
+- <a href="https://www.spacedaily.com/reports/SatService_to_supply_Q_V_band_satcom_ground_station_for_Bundeswehr_university_999.html" >🔗</a> **[SpaceDaily]** SatService to supply Q V band satcom ground station for Bundeswehr university
+- <a href="https://www.spacedaily.com/reports/Assistive_home_robot_learns_coordinated_dual_arm_tasks_by_watching_people_999.html" >🔗</a> **[SpaceDaily]** Assistive home robot learns coordinated dual arm tasks by watching people
+- <a href="https://www.spacedaily.com/reports/Valen_array_advances_multi_mission_sensing_tech_999.html" >🔗</a> **[SpaceDaily]** Valen array advances multi-mission sensing tech
 - <a href="https://www.nasaspaceflight.com/2026/02/orbex-collapse-progress-uk-domestic-capability/" >🔗</a> **[NASASpaceflight]** Orbex collapse fails to halt progress for UK domestic launch capability
 - <a href="https://spacenews.com/leonardo-funding-development-of-earth-observation-constellation/" >🔗</a> **[SpaceNews]** Leonardo funding development of Earth observation constellation
 - <a href="https://spaceflightnow.com/2026/02/17/nasa-to-attempt-second-full-fueling-test-of-its-space-launch-system-rocket/" >🔗</a> **[Spaceflight Now]** NASA to attempt second full fueling test of its Space Launch System rocket
 - <a href="https://spacepolicyonline.com/news/nasa-will-conduct-second-artemis-ii-wdr-on-thursday/" >🔗</a> **[SpacePolicyOnline.com]** NASA Will Conduct Second Artemis II WDR on Thursday
-- <a href="https://www.nasaspaceflight.com/2026/02/launch-preview-021626/" >🔗</a> **[NASASpaceflight]** Launch Preview: Firefly to launch Alpha, SpaceX to launch three Starlink missions
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/02/Launching_the_first_Ariane_6_with_four_boosters" >🔗</a> **[ESA]** Launching the first Ariane 6 with four boosters
-- <a href="https://spacenews.com/nasa-work-on-several-programs-pending-responses-to-white-house-executive-order/" >🔗</a> **[SpaceNews]** NASA work on several programs pending responses to White House executive order
-- <a href="https://europeanspaceflight.com/rfa-begins-final-preparations-for-inaugural-rfa-one-launch/" >🔗</a> **[European Spaceflight]** RFA Begins Final Preparations for Inaugural RFA ONE Launch
-- <a href="https://spacenews.com/the-space-nuclear-power-bottleneck-and-how-to-fix-it/" >🔗</a> **[SpaceNews]** The space nuclear power bottleneck — and how to fix it
-- <a href="https://spacenews.com/low-profile-chinese-launch-firm-conducts-first-stage-static-fire/" >🔗</a> **[SpaceNews]** Low-profile Chinese launch firm conducts first stage static fire
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ First Starlink launch to feature a Falcon 9 booster landing within The Bahamas w
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260217T111317">2026-02-17 11:13:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260217T114251">2026-02-17 11:42:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
