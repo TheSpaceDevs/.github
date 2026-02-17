@@ -92,6 +92,8 @@ First Starlink launch to feature a Falcon 9 booster landing within The Bahamas w
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/02/starbase-pad-2-booster-19/" >🔗</a> **[NASASpaceflight]** Starbase Pad 2 prepares to receive Booster 19 ahead of Block 3 milestones
+- <a href="https://spacenews.com/simera-sense-to-offer-larger-cameras-and-enhanced-autonomy/" >🔗</a> **[SpaceNews]** Simera Sense to offer larger cameras and enhanced autonomy
 - <a href="https://spacenews.com/chinas-space-epoch-raises-new-funding-targets-2026-launch-and-recovery-attempt/" >🔗</a> **[SpaceNews]** China’s Space Epoch raises new funding, targets 2026 launch and recovery attempt
 - <a href="https://www.nasa.gov/image-article/stormy-snowy-winter-for-hokkaido/" >🔗</a> **[NASA]** Stormy, Snowy Winter for Hokkaido
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/nasa-advances-high-altitude-traffic-management/" >🔗</a> **[NASA]** NASA Advances High-Altitude Traffic Management
@@ -100,8 +102,6 @@ First Starlink launch to feature a Falcon 9 booster landing within The Bahamas w
 - <a href="https://spacenews.com/global-leaders-meet-at-space-comm-expo-in-london-to-accelerate-future-of-european-space-industry/" >🔗</a> **[SpaceNews]** Global leaders meet at Space-Comm Expo in London to accelerate future of European space industry
 - <a href="https://europeanspaceflight.com/earth-observation-data-provider-satvu-closes-30-million-funding-round/" >🔗</a> **[European Spaceflight]** Earth Observation Data Provider SatVu Closes £30 Million Funding Round
 - <a href="https://spacenews.com/artemis-haters-can-we-have-a-moment-please/" >🔗</a> **[SpaceNews]** Artemis haters, can we have a moment, please?
-- <a href="https://spacenews.com/sateliot-to-launch-satellites-with-pld-space/" >🔗</a> **[SpaceNews]** Sateliot to launch satellites with PLD Space
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/River_deltas_are_sinking_faster_than_the_sea_is_rising" >🔗</a> **[ESA]** River deltas are sinking faster than the sea is rising
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ First Starlink launch to feature a Falcon 9 booster landing within The Bahamas w
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260217T230453">2026-02-17 23:04:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260217T233945">2026-02-17 23:39:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
