@@ -92,16 +92,16 @@ First Starlink launch to feature a Falcon 9 booster landing within The Bahamas w
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/artemis-haters-can-we-have-a-moment-please/" >🔗</a> **[SpaceNews]** Artemis haters, can we have a moment, please?
 - <a href="https://spacenews.com/sateliot-to-launch-satellites-with-pld-space/" >🔗</a> **[SpaceNews]** Sateliot to launch satellites with PLD Space
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/River_deltas_are_sinking_faster_than_the_sea_is_rising" >🔗</a> **[ESA]** River deltas are sinking faster than the sea is rising
 - <a href="https://www.spacedaily.com/reports/SatService_to_supply_Q_V_band_satcom_ground_station_for_Bundeswehr_university_999.html" >🔗</a> **[SpaceDaily]** SatService to supply Q V band satcom ground station for Bundeswehr university
-- <a href="https://www.spacedaily.com/reports/Mars_relay_orbiter_seen_as_backbone_for_future_exploration_999.html" >🔗</a> **[SpaceDaily]** Mars relay orbiter seen as backbone for future exploration
 - <a href="https://www.spacedaily.com/reports/Photonic_neurons_push_ultra_fast_trading_beyond_electronic_limits_999.html" >🔗</a> **[SpaceDaily]** Photonic neurons push ultra-fast trading beyond electronic limits
-- <a href="https://www.spacedaily.com/reports/Valen_array_advances_multi_mission_sensing_tech_999.html" >🔗</a> **[SpaceDaily]** Valen array advances multi-mission sensing tech
+- <a href="https://www.spacedaily.com/reports/Mars_relay_orbiter_seen_as_backbone_for_future_exploration_999.html" >🔗</a> **[SpaceDaily]** Mars relay orbiter seen as backbone for future exploration
 - <a href="https://www.spacedaily.com/reports/Assistive_home_robot_learns_coordinated_dual_arm_tasks_by_watching_people_999.html" >🔗</a> **[SpaceDaily]** Assistive home robot learns coordinated dual arm tasks by watching people
+- <a href="https://www.spacedaily.com/reports/Valen_array_advances_multi_mission_sensing_tech_999.html" >🔗</a> **[SpaceDaily]** Valen array advances multi-mission sensing tech
 - <a href="https://www.spacedaily.com/reports/Course_correction_needed_quickly_to_avoid_pathway_to_hothouse_Earth_scenario_scientists_say_999.html" >🔗</a> **[SpaceDaily]** Course correction needed quickly to avoid pathway to 'hothouse Earth' scenario, scientists say
 - <a href="https://www.nasaspaceflight.com/2026/02/orbex-collapse-progress-uk-domestic-capability/" >🔗</a> **[NASASpaceflight]** Orbex collapse fails to halt progress for UK domestic launch capability
-- <a href="https://spacenews.com/leonardo-funding-development-of-earth-observation-constellation/" >🔗</a> **[SpaceNews]** Leonardo funding development of Earth observation constellation
-- <a href="https://spaceflightnow.com/2026/02/17/nasa-to-attempt-second-full-fueling-test-of-its-space-launch-system-rocket/" >🔗</a> **[Spaceflight Now]** NASA to attempt second full fueling test of its Space Launch System rocket
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ First Starlink launch to feature a Falcon 9 booster landing within The Bahamas w
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260217T135215">2026-02-17 13:52:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260217T141538">2026-02-17 14:15:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
