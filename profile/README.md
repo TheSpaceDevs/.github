@@ -92,6 +92,8 @@ First Starlink launch to feature a Falcon 9 booster landing within The Bahamas w
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/chinas-space-epoch-raises-new-funding-targets-2026-launch-and-recovery-attempt/" >🔗</a> **[SpaceNews]** China’s Space Epoch raises new funding, targets 2026 launch and recovery attempt
+- <a href="https://www.nasa.gov/image-article/stormy-snowy-winter-for-hokkaido/" >🔗</a> **[NASA]** Stormy, Snowy Winter for Hokkaido
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/nasa-advances-high-altitude-traffic-management/" >🔗</a> **[NASA]** NASA Advances High-Altitude Traffic Management
 - <a href="https://spacenews.com/satvu-to-expand-thermal-imaging-constellation-with-nato-backed-funds/" >🔗</a> **[SpaceNews]** SatVu to expand thermal imaging constellation with NATO-backed funds
 - <a href="https://www.spacescout.info/2026/02/nasa-tests-sls-umbilicals-prepares-for-second-wet-dress-rehearsal/" >🔗</a> **[Space Scout]** NASA Tests SLS Umbilicals, Prepares for Second Wet Dress Rehearsal
@@ -100,8 +102,6 @@ First Starlink launch to feature a Falcon 9 booster landing within The Bahamas w
 - <a href="https://spacenews.com/sateliot-to-launch-satellites-with-pld-space/" >🔗</a> **[SpaceNews]** Sateliot to launch satellites with PLD Space
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/River_deltas_are_sinking_faster_than_the_sea_is_rising" >🔗</a> **[ESA]** River deltas are sinking faster than the sea is rising
 - <a href="https://www.spacedaily.com/reports/Assistive_home_robot_learns_coordinated_dual_arm_tasks_by_watching_people_999.html" >🔗</a> **[SpaceDaily]** Assistive home robot learns coordinated dual arm tasks by watching people
-- <a href="https://www.spacedaily.com/reports/Course_correction_needed_quickly_to_avoid_pathway_to_hothouse_Earth_scenario_scientists_say_999.html" >🔗</a> **[SpaceDaily]** Course correction needed quickly to avoid pathway to 'hothouse Earth' scenario, scientists say
-- <a href="https://www.spacedaily.com/reports/SatService_to_supply_Q_V_band_satcom_ground_station_for_Bundeswehr_university_999.html" >🔗</a> **[SpaceDaily]** SatService to supply Q V band satcom ground station for Bundeswehr university
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ First Starlink launch to feature a Falcon 9 booster landing within The Bahamas w
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260217T174615">2026-02-17 17:46:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260217T181405">2026-02-17 18:14:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
