@@ -101,16 +101,17 @@ First Starlink launch to feature a Falcon 9 booster landing within The Bahamas w
 - <a href="https://spacenews.com/the-space-nuclear-power-bottleneck-and-how-to-fix-it/" >🔗</a> **[SpaceNews]** The space nuclear power bottleneck — and how to fix it
 - <a href="https://spacenews.com/low-profile-chinese-launch-firm-conducts-first-stage-static-fire/" >🔗</a> **[SpaceNews]** Low-profile Chinese launch firm conducts first stage static fire
 - <a href="https://spacenews.com/portions-of-the-pentagons-leo-constellation-on-hold-as-acquisition-reviews-proceed/" >🔗</a> **[SpaceNews]** Portions of the Pentagon’s LEO constellation on hold as acquisition reviews proceed
-- <a href="https://www.spacedaily.com/reports/Smart_Dragon_3_rocket_sends_seven_satellites_to_orbit_from_sea_platform_999.html" >🔗</a> **[SpaceDaily]** Smart Dragon 3 rocket sends seven satellites to orbit from sea platform
+- <a href="https://www.spacedaily.com/reports/Cheops_spots_inside_out_exoplanet_quartet_999.html" >🔗</a> **[SpaceDaily]** Cheops spots inside out exoplanet quartet
 
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2026/02/launch-preview-021626/" >🔗</a> **[NASASpaceflight]** Launch Preview: Firefly to launch Alpha, SpaceX to launch three Starlink missions
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260217T080949">2026-02-17 08:09:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260217T084349">2026-02-17 08:43:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
