@@ -92,6 +92,8 @@ First Starlink launch to feature a Falcon 9 booster landing within The Bahamas w
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/02/17/nasa-to-attempt-second-full-fueling-test-of-its-space-launch-system-rocket/" >🔗</a> **[Spaceflight Now]** NASA to attempt second full fueling test of its Space Launch System rocket
+- <a href="https://spacepolicyonline.com/news/nasa-will-conduct-second-artemis-ii-wdr-on-thursday/" >🔗</a> **[SpacePolicyOnline.com]** NASA Will Conduct Second Artemis II WDR on Thursday
 - <a href="https://www.nasaspaceflight.com/2026/02/launch-preview-021626/" >🔗</a> **[NASASpaceflight]** Launch Preview: Firefly to launch Alpha, SpaceX to launch three Starlink missions
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/02/Launching_the_first_Ariane_6_with_four_boosters" >🔗</a> **[ESA]** Launching the first Ariane 6 with four boosters
 - <a href="https://spacenews.com/nasa-work-on-several-programs-pending-responses-to-white-house-executive-order/" >🔗</a> **[SpaceNews]** NASA work on several programs pending responses to White House executive order
@@ -99,9 +101,7 @@ First Starlink launch to feature a Falcon 9 booster landing within The Bahamas w
 - <a href="https://spacenews.com/the-space-nuclear-power-bottleneck-and-how-to-fix-it/" >🔗</a> **[SpaceNews]** The space nuclear power bottleneck — and how to fix it
 - <a href="https://spacenews.com/low-profile-chinese-launch-firm-conducts-first-stage-static-fire/" >🔗</a> **[SpaceNews]** Low-profile Chinese launch firm conducts first stage static fire
 - <a href="https://spacenews.com/portions-of-the-pentagons-leo-constellation-on-hold-as-acquisition-reviews-proceed/" >🔗</a> **[SpaceNews]** Portions of the Pentagon’s LEO constellation on hold as acquisition reviews proceed
-- <a href="https://www.spacedaily.com/reports/Einstein_probe_catch_may_show_black_hole_shredding_white_dwarf_999.html" >🔗</a> **[SpaceDaily]** Einstein probe catch may show black hole shredding white dwarf
-- <a href="https://www.spacedaily.com/reports/International_crew_arrives_at_space_station_999.html" >🔗</a> **[SpaceDaily]** International crew arrives at space station
-- <a href="https://www.spacedaily.com/reports/Vietnam_licenses_Musks_satellite_internet_firm_Starlink_999.html" >🔗</a> **[SpaceDaily]** Vietnam licenses Musk's satellite internet firm Starlink
+- <a href="https://www.spacedaily.com/reports/Smart_Dragon_3_rocket_sends_seven_satellites_to_orbit_from_sea_platform_999.html" >🔗</a> **[SpaceDaily]** Smart Dragon 3 rocket sends seven satellites to orbit from sea platform
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ First Starlink launch to feature a Falcon 9 booster landing within The Bahamas w
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260217T000807">2026-02-17 00:08:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260217T005305">2026-02-17 00:53:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
