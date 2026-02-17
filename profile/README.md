@@ -92,6 +92,8 @@ First Starlink launch to feature a Falcon 9 booster landing within The Bahamas w
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/02/orbex-collapse-progress-uk-domestic-capability/" >🔗</a> **[NASASpaceflight]** Orbex collapse fails to halt progress for UK domestic launch capability
+- <a href="https://spacenews.com/leonardo-funding-development-of-earth-observation-constellation/" >🔗</a> **[SpaceNews]** Leonardo funding development of Earth observation constellation
 - <a href="https://spaceflightnow.com/2026/02/17/nasa-to-attempt-second-full-fueling-test-of-its-space-launch-system-rocket/" >🔗</a> **[Spaceflight Now]** NASA to attempt second full fueling test of its Space Launch System rocket
 - <a href="https://spacepolicyonline.com/news/nasa-will-conduct-second-artemis-ii-wdr-on-thursday/" >🔗</a> **[SpacePolicyOnline.com]** NASA Will Conduct Second Artemis II WDR on Thursday
 - <a href="https://www.nasaspaceflight.com/2026/02/launch-preview-021626/" >🔗</a> **[NASASpaceflight]** Launch Preview: Firefly to launch Alpha, SpaceX to launch three Starlink missions
@@ -100,8 +102,6 @@ First Starlink launch to feature a Falcon 9 booster landing within The Bahamas w
 - <a href="https://europeanspaceflight.com/rfa-begins-final-preparations-for-inaugural-rfa-one-launch/" >🔗</a> **[European Spaceflight]** RFA Begins Final Preparations for Inaugural RFA ONE Launch
 - <a href="https://spacenews.com/the-space-nuclear-power-bottleneck-and-how-to-fix-it/" >🔗</a> **[SpaceNews]** The space nuclear power bottleneck — and how to fix it
 - <a href="https://spacenews.com/low-profile-chinese-launch-firm-conducts-first-stage-static-fire/" >🔗</a> **[SpaceNews]** Low-profile Chinese launch firm conducts first stage static fire
-- <a href="https://spacenews.com/portions-of-the-pentagons-leo-constellation-on-hold-as-acquisition-reviews-proceed/" >🔗</a> **[SpaceNews]** Portions of the Pentagon’s LEO constellation on hold as acquisition reviews proceed
-- <a href="https://www.spacedaily.com/reports/Cheops_spots_inside_out_exoplanet_quartet_999.html" >🔗</a> **[SpaceDaily]** Cheops spots inside out exoplanet quartet
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ First Starlink launch to feature a Falcon 9 booster landing within The Bahamas w
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260217T091308">2026-02-17 09:13:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260217T094421">2026-02-17 09:44:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
