@@ -98,10 +98,10 @@ First Starlink launch to feature a Falcon 9 booster landing within The Bahamas w
 - <a href="https://spacenews.com/satvu-to-expand-thermal-imaging-constellation-with-nato-backed-funds/" >🔗</a> **[SpaceNews]** SatVu to expand thermal imaging constellation with NATO-backed funds
 - <a href="https://www.spacescout.info/2026/02/nasa-tests-sls-umbilicals-prepares-for-second-wet-dress-rehearsal/" >🔗</a> **[Space Scout]** NASA Tests SLS Umbilicals, Prepares for Second Wet Dress Rehearsal
 - <a href="https://spacenews.com/global-leaders-meet-at-space-comm-expo-in-london-to-accelerate-future-of-european-space-industry/" >🔗</a> **[SpaceNews]** Global leaders meet at Space-Comm Expo in London to accelerate future of European space industry
+- <a href="https://europeanspaceflight.com/earth-observation-data-provider-satvu-closes-30-million-funding-round/" >🔗</a> **[European Spaceflight]** Earth Observation Data Provider SatVu Closes £30 Million Funding Round
 - <a href="https://spacenews.com/artemis-haters-can-we-have-a-moment-please/" >🔗</a> **[SpaceNews]** Artemis haters, can we have a moment, please?
 - <a href="https://spacenews.com/sateliot-to-launch-satellites-with-pld-space/" >🔗</a> **[SpaceNews]** Sateliot to launch satellites with PLD Space
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/River_deltas_are_sinking_faster_than_the_sea_is_rising" >🔗</a> **[ESA]** River deltas are sinking faster than the sea is rising
-- <a href="https://www.spacedaily.com/reports/Assistive_home_robot_learns_coordinated_dual_arm_tasks_by_watching_people_999.html" >🔗</a> **[SpaceDaily]** Assistive home robot learns coordinated dual arm tasks by watching people
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ First Starlink launch to feature a Falcon 9 booster landing within The Bahamas w
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260217T194415">2026-02-17 19:44:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260217T200723">2026-02-17 20:07:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
