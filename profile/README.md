@@ -92,16 +92,16 @@ First Starlink launch to feature a Falcon 9 booster landing within The Bahamas w
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.spacedaily.com/reports/UAE_extends_Mars_probe_mission_until_2028_999.html" >🔗</a> **[SpaceDaily]** UAE extends Mars probe mission until 2028
-- <a href="https://www.spacedaily.com/reports/Australian_hypersonic_test_flight_window_announced_999.html" >🔗</a> **[SpaceDaily]** Australian hypersonic test flight window announced
+- <a href="https://www.spacedaily.com/reports/Exolaunch_to_deploy_five_satellites_on_Spectrum_mission_from_Norway_999.html" >🔗</a> **[SpaceDaily]** Exolaunch to deploy five satellites on Spectrum mission from Norway
 - <a href="https://www.spacedaily.com/reports/Deep_sea_wrinkles_reveal_ancient_chemosynthetic_microbes_999.html" >🔗</a> **[SpaceDaily]** Deep sea wrinkles reveal ancient chemosynthetic microbes
 - <a href="https://www.spacedaily.com/reports/Unprecedented_emissions_maps_will_hone_mitigation_999.html" >🔗</a> **[SpaceDaily]** 'Unprecedented' emissions maps will hone mitigation
-- <a href="https://www.spacedaily.com/reports/Exolaunch_to_deploy_five_satellites_on_Spectrum_mission_from_Norway_999.html" >🔗</a> **[SpaceDaily]** Exolaunch to deploy five satellites on Spectrum mission from Norway
+- <a href="https://www.spacedaily.com/reports/UAE_extends_Mars_probe_mission_until_2028_999.html" >🔗</a> **[SpaceDaily]** UAE extends Mars probe mission until 2028
 - <a href="https://www.spacedaily.com/reports/Sateliot_books_Spanish_Miura_5_launch_for_two_next_gen_Trito_satellites_in_2027_999.html" >🔗</a> **[SpaceDaily]** Sateliot books Spanish Miura 5 launch for two next gen Trito satellites in 2027
+- <a href="https://www.spacedaily.com/reports/Australian_hypersonic_test_flight_window_announced_999.html" >🔗</a> **[SpaceDaily]** Australian hypersonic test flight window announced
+- <a href="https://spacenews.com/spacexs-unveils-space-traffic-management-system/" >🔗</a> **[SpaceNews]** SpaceX unveils space traffic management system
+- <a href="https://spacenews.com/uk-caps-launch-liability-in-timely-boost-for-nascent-domestic-market/" >🔗</a> **[SpaceNews]** UK caps launch liability in timely boost for nascent domestic market
+- <a href="https://spacenews.com/landspace-targets-q2-for-next-zhuque-3-orbital-launch-and-recovery-attempt/" >🔗</a> **[SpaceNews]** Landspace targets Q2 for next Zhuque-3 orbital launch and recovery attempt
 - <a href="https://science.nasa.gov/earth/earth-observatory/a-second-cyclone-slams-madagascar/" >🔗</a> **[NASA]** A Second Cyclone Slams Madagascar
-- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4804-4811-kicking-off-the-final-phase-of-boxwork-exploration/" >🔗</a> **[NASA]** Curiosity Blog Sols 4804-4811: Kicking Off the Final Phase of Boxwork Exploration
-- <a href="https://www.nasaspaceflight.com/2026/02/starbase-pad-2-booster-19/" >🔗</a> **[NASASpaceflight]** Starbase Pad 2 prepares to receive Booster 19 ahead of Block 3 milestones
-- <a href="https://spacenews.com/simera-sense-to-offer-larger-cameras-and-enhanced-autonomy/" >🔗</a> **[SpaceNews]** Simera Sense to offer larger cameras and enhanced autonomy
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ First Starlink launch to feature a Falcon 9 booster landing within The Bahamas w
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260218T120705">2026-02-18 12:07:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260218T124506">2026-02-18 12:45:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
