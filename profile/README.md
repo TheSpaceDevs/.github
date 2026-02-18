@@ -92,6 +92,7 @@ First Starlink launch to feature a Falcon 9 booster landing within The Bahamas w
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/i-am-artemis-katie-oriti/" >🔗</a> **[NASA]** I Am Artemis: Katie Oriti
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-identifies-one-of-darkest-known-galaxies/" >🔗</a> **[NASA]** NASA’s Hubble Identifies One of Darkest Known Galaxies
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Hubble_Euclid_Subaru_uncover_dark_galaxy" >🔗</a> **[ESA]** Hubble, Euclid & Subaru uncover dark galaxy
 - <a href="https://spacenews.com/why-gps-iii-and-what-comes-after-it-still-falls-short-in-modern-war/" >🔗</a> **[SpaceNews]** Why GPS III, and what comes after it, still falls short in modern war
@@ -101,7 +102,6 @@ First Starlink launch to feature a Falcon 9 booster landing within The Bahamas w
 - <a href="https://www.spacedaily.com/reports/Australian_hypersonic_test_flight_window_announced_999.html" >🔗</a> **[SpaceDaily]** Australian hypersonic test flight window announced
 - <a href="https://www.spacedaily.com/reports/Sateliot_books_Spanish_Miura_5_launch_for_two_next_gen_Trito_satellites_in_2027_999.html" >🔗</a> **[SpaceDaily]** Sateliot books Spanish Miura 5 launch for two next gen Trito satellites in 2027
 - <a href="https://www.spacedaily.com/reports/Deep_sea_wrinkles_reveal_ancient_chemosynthetic_microbes_999.html" >🔗</a> **[SpaceDaily]** Deep sea wrinkles reveal ancient chemosynthetic microbes
-- <a href="https://www.spacedaily.com/reports/Unprecedented_emissions_maps_will_hone_mitigation_999.html" >🔗</a> **[SpaceDaily]** 'Unprecedented' emissions maps will hone mitigation
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ First Starlink launch to feature a Falcon 9 booster landing within The Bahamas w
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260218T161613">2026-02-18 16:16:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260218T164616">2026-02-18 16:46:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
