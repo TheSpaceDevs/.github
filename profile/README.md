@@ -92,6 +92,7 @@ First Starlink launch to feature a Falcon 9 booster landing within The Bahamas w
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4804-4811-kicking-off-the-final-phase-of-boxwork-exploration/" >🔗</a> **[NASA]** Curiosity Blog Sols 4804-4811: Kicking Off the Final Phase of Boxwork Exploration
 - <a href="https://www.nasaspaceflight.com/2026/02/starbase-pad-2-booster-19/" >🔗</a> **[NASASpaceflight]** Starbase Pad 2 prepares to receive Booster 19 ahead of Block 3 milestones
 - <a href="https://spacenews.com/simera-sense-to-offer-larger-cameras-and-enhanced-autonomy/" >🔗</a> **[SpaceNews]** Simera Sense to offer larger cameras and enhanced autonomy
 - <a href="https://spacenews.com/chinas-space-epoch-raises-new-funding-targets-2026-launch-and-recovery-attempt/" >🔗</a> **[SpaceNews]** China’s Space Epoch raises new funding, targets 2026 launch and recovery attempt
@@ -101,7 +102,6 @@ First Starlink launch to feature a Falcon 9 booster landing within The Bahamas w
 - <a href="https://www.spacescout.info/2026/02/nasa-tests-sls-umbilicals-prepares-for-second-wet-dress-rehearsal/" >🔗</a> **[Space Scout]** NASA Tests SLS Umbilicals, Prepares for Second Wet Dress Rehearsal
 - <a href="https://spacenews.com/global-leaders-meet-at-space-comm-expo-in-london-to-accelerate-future-of-european-space-industry/" >🔗</a> **[SpaceNews]** Global leaders meet at Space-Comm Expo in London to accelerate future of European space industry
 - <a href="https://europeanspaceflight.com/earth-observation-data-provider-satvu-closes-30-million-funding-round/" >🔗</a> **[European Spaceflight]** Earth Observation Data Provider SatVu Closes £30 Million Funding Round
-- <a href="https://spacenews.com/artemis-haters-can-we-have-a-moment-please/" >🔗</a> **[SpaceNews]** Artemis haters, can we have a moment, please?
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ First Starlink launch to feature a Falcon 9 booster landing within The Bahamas w
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260218T005342">2026-02-18 00:53:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260218T013049">2026-02-18 01:30:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
