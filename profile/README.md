@@ -91,6 +91,9 @@ First Starlink launch to feature a Falcon 9 booster landing within The Bahamas w
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/02/19/independent-report-sharply-criticizes-nasa-management-boeing-for-troubled-starliner-flight/" >🔗</a> **[Spaceflight Now]** Independent report sharply criticizes NASA management, Boeing for troubled Starliner flight
+- <a href="https://spacepolicyonline.com/news/nasa-classifies-starliner-cft-as-type-a-mishap-leadership-changes-coming/" >🔗</a> **[SpacePolicyOnline.com]** NASA Classifies Starliner CFT as Type-A Mishap, Leadership Changes Coming
+- <a href="https://spaceflightnow.com/2026/02/19/live-coverage-spacex-to-launch-second-falcon-9-rocket-with-booster-landing-adjacent-to-the-bahamas/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch second Falcon 9 rocket to return to a landing in The Bahamas
 - <a href="https://arstechnica.com/space/2026/02/nasa-chief-classifies-starliner-flight-as-type-a-mishap-says-agency-made-mistakes/" >🔗</a> **[Arstechnica]** NASA chief classifies Starliner flight as "Type A" mishap, says agency made mistakes
 - <a href="https://spacenews.com/starliner-investigation-identifies-flawed-nasa-decision-making/" >🔗</a> **[SpaceNews]** Starliner investigation identifies flawed NASA decision making
 - <a href="https://www.nasa.gov/image-article/nasa-investigates-how-people-respond-to-air-taxi-noise/" >🔗</a> **[NASA]** NASA Investigates How People Respond to Air Taxi Noise
@@ -98,9 +101,6 @@ First Starlink launch to feature a Falcon 9 booster landing within The Bahamas w
 - <a href="https://www.nasa.gov/news-release/nasa-to-provide-starliner-crew-flight-test-review-findings-today/" >🔗</a> **[NASA]** NASA to Provide Starliner Crew Flight Test Review Findings Today
 - <a href="https://www.nasa.gov/aeronautics/award-winning-nasa-camera-revolutionizes-how-we-see-the-invisible/" >🔗</a> **[NASA]** Award-Winning NASA Camera Revolutionizes How We See the Invisible
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/02/Sophie_Adenot_exercising_on_the_CEVIS_bike" >🔗</a> **[ESA]** Sophie Adenot exercising on the CEVIS bike
-- <a href="https://www.nasa.gov/image-article/crystals-grown-in-space/" >🔗</a> **[NASA]** Crystals Grown in Space
-- <a href="https://spacenews.com/creating-new-demand-in-the-nascent-orbital-economy/" >🔗</a> **[SpaceNews]** Creating new demand in the nascent orbital economy
-- <a href="https://science.nasa.gov/get-involved/citizen-science/map-the-earths-magnetic-shield-with-the-space-umbrella-project/" >🔗</a> **[NASA]** Map the Earth’s Magnetic Shield with the Space Umbrella Project
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ First Starlink launch to feature a Falcon 9 booster landing within The Bahamas w
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260219T230559">2026-02-19 23:05:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260219T234015">2026-02-19 23:40:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
