@@ -92,6 +92,7 @@ First Starlink launch to feature a Falcon 9 booster landing within The Bahamas w
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/japans-ispace-warns-of-delays-in-new-lunar-lander-engine/" >🔗</a> **[SpaceNews]** Japan’s ispace warns of delays in new lunar lander engine
 - <a href="https://europeanspaceflight.com/ssc-space-opens-orbital-launch-control-center-at-esrange/" >🔗</a> **[European Spaceflight]** SSC Space Opens Orbital Launch Control Center at Esrange
 - <a href="https://science.nasa.gov/earth/earth-observatory/northern-glow-spans-iceland-and-canada/" >🔗</a> **[NASA]** Northern Glow Spans Iceland and Canada
 - <a href="https://spacenews.com/pentagon-seeks-commercially-built-geo-spy-satellites/" >🔗</a> **[SpaceNews]** Pentagon seeks commercially built GEO spy satellites
@@ -101,7 +102,6 @@ First Starlink launch to feature a Falcon 9 booster landing within The Bahamas w
 - <a href="https://science.nasa.gov/uncategorized/csda-program-announces-eight-new-data-agreements/" >🔗</a> **[NASA]** CSDA Program Announces Eight New Data Agreements
 - <a href="https://science.nasa.gov/missions/explorer/notes-from-the-field/" >🔗</a> **[NASA]** Notes from the Field
 - <a href="https://science.nasa.gov/missions/explorer/42-years-of-measuring-the-sun-the-earth-and-the-energy-in-between/" >🔗</a> **[NASA]** 42 Years of Measuring the Sun, the Earth and the Energy in Between
-- <a href="https://science.nasa.gov/missions/explorer/the-sky-belongs-to-all-of-us/" >🔗</a> **[NASA]** The Sky Belongs to All of Us
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ First Starlink launch to feature a Falcon 9 booster landing within The Bahamas w
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260219T101234">2026-02-19 10:12:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260219T104335">2026-02-19 10:43:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
