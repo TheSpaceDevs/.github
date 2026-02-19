@@ -92,16 +92,16 @@ First Starlink launch to feature a Falcon 9 booster landing within The Bahamas w
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.spacedaily.com/reports/Slow_mantle_flow_built_Antarctica_gravity_low_over_tens_of_millions_of_years_999.html" >🔗</a> **[SpaceDaily]** Slow mantle flow built Antarctica gravity low over tens of millions of years
-- <a href="https://www.spacedaily.com/reports/Study_revisits_chances_of_detecting_alien_technosignatures_999.html" >🔗</a> **[SpaceDaily]** Study revisits chances of detecting alien technosignatures
-- <a href="https://www.spacedaily.com/reports/ST_Engineering_iDirect_and_GS_SatCom_align_network_and_service_management_on_Intuition_999.html" >🔗</a> **[SpaceDaily]** ST Engineering iDirect and G&S SatCom align network and service management on Intuition
-- <a href="https://www.spacedaily.com/reports/Pale_Blue_opens_Tsukuba_site_to_scale_satellite_propulsion_production_999.html" >🔗</a> **[SpaceDaily]** Pale Blue opens Tsukuba site to scale satellite propulsion production
+- <a href="https://spacenews.com/earthdaily-in-orbit-from-first-launch-to-commercial-operations/" >🔗</a> **[SpaceNews]** EarthDaily in Orbit: From First Launch to Commercial Operations
+- <a href="https://spacenews.com/golden-dome-will-fail-without-software-defined-warfare/" >🔗</a> **[SpaceNews]** Golden Dome will fail without software-defined warfare
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_maps_Uranus_s_mysterious_upper_atmosphere" >🔗</a> **[ESA]** Webb maps Uranus's mysterious upper atmosphere
+- <a href="https://science.nasa.gov/science-research/biological-physical-sciences/small-but-mighty-lab-device-could-transform-nasa-research/" >🔗</a> **[NASA]** Small But Mighty Lab Device Could Transform NASA Research
 - <a href="https://www.spacedaily.com/reports/Hypersonica_completes_milestone_hypersonic_missile_flight_test_in_Norway_999.html" >🔗</a> **[SpaceDaily]** Hypersonica completes milestone hypersonic missile flight test in Norway
 - <a href="https://www.spacedaily.com/reports/Russian_era_ends_at_abandoned_launchpad_in_South_American_jungle_999.html" >🔗</a> **[SpaceDaily]** Russian era ends at abandoned launchpad in South American jungle
-- <a href="https://www.spacedaily.com/reports/NASA_teams_set_for_second_Artemis_II_wet_dress_rehearsal_999.html" >🔗</a> **[SpaceDaily]** NASA teams set for second Artemis II wet dress rehearsal
-- <a href="https://www.spacedaily.com/reports/Curiosity_Blog_Sols_4798_4803_Back_for_More_Science_999.html" >🔗</a> **[SpaceDaily]** Curiosity Blog, Sols 4798-4803: Back for More Science
+- <a href="https://www.spacedaily.com/reports/Study_revisits_chances_of_detecting_alien_technosignatures_999.html" >🔗</a> **[SpaceDaily]** Study revisits chances of detecting alien technosignatures
 - <a href="https://www.spacedaily.com/reports/KSAT_prepares_Hyperion_in_orbit_relay_test_for_satellite_data_999.html" >🔗</a> **[SpaceDaily]** KSAT prepares Hyperion in orbit relay test for satellite data
-- <a href="https://www.spacewar.com/reports/Airbus_taps_Synspective_SAR_radar_network_for_expanded_Earth_imaging_999.html" >🔗</a> **[SpaceDaily]** Airbus taps Synspective SAR radar network for expanded Earth imaging
+- <a href="https://www.spacedaily.com/reports/Pale_Blue_opens_Tsukuba_site_to_scale_satellite_propulsion_production_999.html" >🔗</a> **[SpaceDaily]** Pale Blue opens Tsukuba site to scale satellite propulsion production
+- <a href="https://www.spacedaily.com/reports/Curiosity_Blog_Sols_4798_4803_Back_for_More_Science_999.html" >🔗</a> **[SpaceDaily]** Curiosity Blog, Sols 4798-4803: Back for More Science
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ First Starlink launch to feature a Falcon 9 booster landing within The Bahamas w
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260219T135458">2026-02-19 13:54:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260219T141704">2026-02-19 14:17:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
