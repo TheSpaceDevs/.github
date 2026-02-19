@@ -92,6 +92,7 @@ First Starlink launch to feature a Falcon 9 booster landing within The Bahamas w
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/earth-observatory/northern-glow-spans-iceland-and-canada/" >🔗</a> **[NASA]** Northern Glow Spans Iceland and Canada
 - <a href="https://spacenews.com/pentagon-seeks-commercially-built-geo-spy-satellites/" >🔗</a> **[SpaceNews]** Pentagon seeks commercially built GEO spy satellites
 - <a href="https://science.nasa.gov/uncategorized/digital-surface-and-terrain-models-from-vantors-precision3d-product-line-added-to-satellite-data-explorer/" >🔗</a> **[NASA]** Digital Surface and Terrain Models from Vantor’s Precision3D Product Line Added to Satellite Data Explorer
 - <a href="https://science.nasa.gov/uncategorized/vantor-archive-imagery-added-to-satellite-data-explorer/" >🔗</a> **[NASA]** Vantor Archive Imagery Added to Satellite Data Explorer
@@ -101,7 +102,6 @@ First Starlink launch to feature a Falcon 9 booster landing within The Bahamas w
 - <a href="https://science.nasa.gov/missions/explorer/42-years-of-measuring-the-sun-the-earth-and-the-energy-in-between/" >🔗</a> **[NASA]** 42 Years of Measuring the Sun, the Earth and the Energy in Between
 - <a href="https://science.nasa.gov/missions/explorer/the-sky-belongs-to-all-of-us/" >🔗</a> **[NASA]** The Sky Belongs to All of Us
 - <a href="https://science.nasa.gov/missions/explorer/measuring-the-big-bang-with-the-cobe-satellite/" >🔗</a> **[NASA]** Measuring the Big Bang with the COBE satellite
-- <a href="https://science.nasa.gov/missions/explorer/peering-homeward-1972/" >🔗</a> **[NASA]** Peering Homeward, 1972
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ First Starlink launch to feature a Falcon 9 booster landing within The Bahamas w
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260219T043346">2026-02-19 04:33:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260219T052546">2026-02-19 05:25:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
