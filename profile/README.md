@@ -92,6 +92,7 @@ First Starlink launch to feature a Falcon 9 booster landing within The Bahamas w
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/nasa-investigates-how-people-respond-to-air-taxi-noise/" >🔗</a> **[NASA]** NASA Investigates How People Respond to Air Taxi Noise
 - <a href="https://www.nasa.gov/news-release/nasa-releases-report-on-starliner-crewed-flight-test-investigation/" >🔗</a> **[NASA]** NASA Releases Report on Starliner Crewed Flight Test Investigation
 - <a href="https://www.nasa.gov/news-release/nasa-to-provide-starliner-crew-flight-test-review-findings-today/" >🔗</a> **[NASA]** NASA to Provide Starliner Crew Flight Test Review Findings Today
 - <a href="https://www.nasa.gov/aeronautics/award-winning-nasa-camera-revolutionizes-how-we-see-the-invisible/" >🔗</a> **[NASA]** Award-Winning NASA Camera Revolutionizes How We See the Invisible
@@ -101,7 +102,6 @@ First Starlink launch to feature a Falcon 9 booster landing within The Bahamas w
 - <a href="https://science.nasa.gov/get-involved/citizen-science/map-the-earths-magnetic-shield-with-the-space-umbrella-project/" >🔗</a> **[NASA]** Map the Earth’s Magnetic Shield with the Space Umbrella Project
 - <a href="https://spacenews.com/earthdaily-in-orbit-from-first-launch-to-commercial-operations/" >🔗</a> **[SpaceNews]** EarthDaily in Orbit: From First Launch to Commercial Operations
 - <a href="https://spacenews.com/golden-dome-will-fail-without-software-defined-warfare/" >🔗</a> **[SpaceNews]** Golden Dome will fail without software-defined warfare
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/02/ESA_s_5G_laboratory_on_wheels" >🔗</a> **[ESA]** ESA’s 5G laboratory on wheels
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ First Starlink launch to feature a Falcon 9 booster landing within The Bahamas w
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260219T210524">2026-02-19 21:05:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260219T214140">2026-02-19 21:41:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
