@@ -92,16 +92,16 @@ First Starlink launch to feature a Falcon 9 booster landing within The Bahamas w
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/japans-ispace-warns-of-delays-in-new-lunar-lander-engine/" >🔗</a> **[SpaceNews]** Japan’s ispace warns of delays in new lunar lander engine
-- <a href="https://europeanspaceflight.com/ssc-space-opens-orbital-launch-control-center-at-esrange/" >🔗</a> **[European Spaceflight]** SSC Space Opens Orbital Launch Control Center at Esrange
-- <a href="https://science.nasa.gov/earth/earth-observatory/northern-glow-spans-iceland-and-canada/" >🔗</a> **[NASA]** Northern Glow Spans Iceland and Canada
-- <a href="https://spacenews.com/pentagon-seeks-commercially-built-geo-spy-satellites/" >🔗</a> **[SpaceNews]** Pentagon seeks commercially built GEO spy satellites
-- <a href="https://science.nasa.gov/uncategorized/digital-surface-and-terrain-models-from-vantors-precision3d-product-line-added-to-satellite-data-explorer/" >🔗</a> **[NASA]** Digital Surface and Terrain Models from Vantor’s Precision3D Product Line Added to Satellite Data Explorer
-- <a href="https://science.nasa.gov/uncategorized/vantor-archive-imagery-added-to-satellite-data-explorer/" >🔗</a> **[NASA]** Vantor Archive Imagery Added to Satellite Data Explorer
-- <a href="https://science.nasa.gov/uncategorized/csda-releases-new-data-acquisition-request-system/" >🔗</a> **[NASA]** CSDA Releases New Data Acquisition Request System
-- <a href="https://science.nasa.gov/uncategorized/csda-program-announces-eight-new-data-agreements/" >🔗</a> **[NASA]** CSDA Program Announces Eight New Data Agreements
-- <a href="https://science.nasa.gov/missions/explorer/notes-from-the-field/" >🔗</a> **[NASA]** Notes from the Field
-- <a href="https://science.nasa.gov/missions/explorer/42-years-of-measuring-the-sun-the-earth-and-the-energy-in-between/" >🔗</a> **[NASA]** 42 Years of Measuring the Sun, the Earth and the Energy in Between
+- <a href="https://www.spacedaily.com/reports/Slow_mantle_flow_built_Antarctica_gravity_low_over_tens_of_millions_of_years_999.html" >🔗</a> **[SpaceDaily]** Slow mantle flow built Antarctica gravity low over tens of millions of years
+- <a href="https://www.spacedaily.com/reports/Curiosity_Blog_Sols_4798_4803_Back_for_More_Science_999.html" >🔗</a> **[SpaceDaily]** Curiosity Blog, Sols 4798-4803: Back for More Science
+- <a href="https://www.spacedaily.com/reports/ST_Engineering_iDirect_and_GS_SatCom_align_network_and_service_management_on_Intuition_999.html" >🔗</a> **[SpaceDaily]** ST Engineering iDirect and G&S SatCom align network and service management on Intuition
+- <a href="https://www.spacedaily.com/reports/Pale_Blue_opens_Tsukuba_site_to_scale_satellite_propulsion_production_999.html" >🔗</a> **[SpaceDaily]** Pale Blue opens Tsukuba site to scale satellite propulsion production
+- <a href="https://www.spacedaily.com/reports/NASA_teams_set_for_second_Artemis_II_wet_dress_rehearsal_999.html" >🔗</a> **[SpaceDaily]** NASA teams set for second Artemis II wet dress rehearsal
+- <a href="https://www.spacedaily.com/reports/Hypersonica_completes_milestone_hypersonic_missile_flight_test_in_Norway_999.html" >🔗</a> **[SpaceDaily]** Hypersonica completes milestone hypersonic missile flight test in Norway
+- <a href="https://www.spacedaily.com/reports/Study_revisits_chances_of_detecting_alien_technosignatures_999.html" >🔗</a> **[SpaceDaily]** Study revisits chances of detecting alien technosignatures
+- <a href="https://www.spacedaily.com/reports/Russian_era_ends_at_abandoned_launchpad_in_South_American_jungle_999.html" >🔗</a> **[SpaceDaily]** Russian era ends at abandoned launchpad in South American jungle
+- <a href="https://www.spacedaily.com/reports/KSAT_prepares_Hyperion_in_orbit_relay_test_for_satellite_data_999.html" >🔗</a> **[SpaceDaily]** KSAT prepares Hyperion in orbit relay test for satellite data
+- <a href="https://www.spacewar.com/reports/Airbus_taps_Synspective_SAR_radar_network_for_expanded_Earth_imaging_999.html" >🔗</a> **[SpaceDaily]** Airbus taps Synspective SAR radar network for expanded Earth imaging
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ First Starlink launch to feature a Falcon 9 booster landing within The Bahamas w
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260219T111325">2026-02-19 11:13:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260219T114240">2026-02-19 11:42:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
