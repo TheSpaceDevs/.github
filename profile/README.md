@@ -92,6 +92,7 @@ First Starlink launch to feature a Falcon 9 booster landing within The Bahamas w
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-to-provide-starliner-crew-flight-test-review-findings-today/" >🔗</a> **[NASA]** NASA to Provide Starliner Crew Flight Test Review Findings Today
 - <a href="https://www.nasa.gov/aeronautics/award-winning-nasa-camera-revolutionizes-how-we-see-the-invisible/" >🔗</a> **[NASA]** Award-Winning NASA Camera Revolutionizes How We See the Invisible
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/02/Sophie_Adenot_exercising_on_the_CEVIS_bike" >🔗</a> **[ESA]** Sophie Adenot exercising on the CEVIS bike
 - <a href="https://www.nasa.gov/image-article/crystals-grown-in-space/" >🔗</a> **[NASA]** Crystals Grown in Space
@@ -101,7 +102,6 @@ First Starlink launch to feature a Falcon 9 booster landing within The Bahamas w
 - <a href="https://spacenews.com/golden-dome-will-fail-without-software-defined-warfare/" >🔗</a> **[SpaceNews]** Golden Dome will fail without software-defined warfare
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/02/ESA_s_5G_laboratory_on_wheels" >🔗</a> **[ESA]** ESA’s 5G laboratory on wheels
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_maps_Uranus_s_mysterious_upper_atmosphere" >🔗</a> **[ESA]** Webb maps Uranus's mysterious upper atmosphere
-- <a href="https://science.nasa.gov/science-research/biological-physical-sciences/small-but-mighty-lab-device-could-transform-nasa-research/" >🔗</a> **[NASA]** Small But Mighty Lab Device Could Transform NASA Research
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ First Starlink launch to feature a Falcon 9 booster landing within The Bahamas w
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260219T164449">2026-02-19 16:44:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260219T171709">2026-02-19 17:17:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
