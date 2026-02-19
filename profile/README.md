@@ -92,16 +92,16 @@ First Starlink launch to feature a Falcon 9 booster landing within The Bahamas w
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/aeronautics/award-winning-nasa-camera-revolutionizes-how-we-see-the-invisible/" >🔗</a> **[NASA]** Award-Winning NASA Camera Revolutionizes How We See the Invisible
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/02/Sophie_Adenot_exercising_on_the_CEVIS_bike" >🔗</a> **[ESA]** Sophie Adenot exercising on the CEVIS bike
+- <a href="https://www.nasa.gov/image-article/crystals-grown-in-space/" >🔗</a> **[NASA]** Crystals Grown in Space
+- <a href="https://spacenews.com/creating-new-demand-in-the-nascent-orbital-economy/" >🔗</a> **[SpaceNews]** Creating new demand in the nascent orbital economy
 - <a href="https://science.nasa.gov/get-involved/citizen-science/map-the-earths-magnetic-shield-with-the-space-umbrella-project/" >🔗</a> **[NASA]** Map the Earth’s Magnetic Shield with the Space Umbrella Project
 - <a href="https://spacenews.com/earthdaily-in-orbit-from-first-launch-to-commercial-operations/" >🔗</a> **[SpaceNews]** EarthDaily in Orbit: From First Launch to Commercial Operations
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/02/ESA_s_5G_laboratory_on_wheels" >🔗</a> **[ESA]** ESA’s 5G laboratory on wheels
 - <a href="https://spacenews.com/golden-dome-will-fail-without-software-defined-warfare/" >🔗</a> **[SpaceNews]** Golden Dome will fail without software-defined warfare
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/02/ESA_s_5G_laboratory_on_wheels" >🔗</a> **[ESA]** ESA’s 5G laboratory on wheels
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_maps_Uranus_s_mysterious_upper_atmosphere" >🔗</a> **[ESA]** Webb maps Uranus's mysterious upper atmosphere
 - <a href="https://science.nasa.gov/science-research/biological-physical-sciences/small-but-mighty-lab-device-could-transform-nasa-research/" >🔗</a> **[NASA]** Small But Mighty Lab Device Could Transform NASA Research
-- <a href="https://www.spacedaily.com/reports/NASA_teams_set_for_second_Artemis_II_wet_dress_rehearsal_999.html" >🔗</a> **[SpaceDaily]** NASA teams set for second Artemis II wet dress rehearsal
-- <a href="https://www.spacedaily.com/reports/Pale_Blue_opens_Tsukuba_site_to_scale_satellite_propulsion_production_999.html" >🔗</a> **[SpaceDaily]** Pale Blue opens Tsukuba site to scale satellite propulsion production
-- <a href="https://www.spacedaily.com/reports/Curiosity_Blog_Sols_4798_4803_Back_for_More_Science_999.html" >🔗</a> **[SpaceDaily]** Curiosity Blog, Sols 4798-4803: Back for More Science
-- <a href="https://www.spacedaily.com/reports/Study_revisits_chances_of_detecting_alien_technosignatures_999.html" >🔗</a> **[SpaceDaily]** Study revisits chances of detecting alien technosignatures
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ First Starlink launch to feature a Falcon 9 booster landing within The Bahamas w
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260219T161402">2026-02-19 16:14:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260219T164449">2026-02-19 16:44:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
