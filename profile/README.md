@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/02/20/moon-mission-fueling-test-concludes-with-no-major-problems/" >🔗</a> **[Spaceflight Now]** Moon mission fueling test concludes with no major problems
+- <a href="https://spacepolicyonline.com/news/artemis-ii-could-launch-as-soon-as-march-following-successful-wdr/" >🔗</a> **[SpacePolicyOnline.com]** Artemis II Could Launch As Soon as March Following Successful WDR
 - <a href="https://spaceflightnow.com/2026/02/19/independent-report-sharply-criticizes-nasa-management-boeing-for-troubled-starliner-flight/" >🔗</a> **[Spaceflight Now]** Independent report sharply criticizes NASA management, Boeing for troubled Starliner flight
 - <a href="https://spacepolicyonline.com/news/nasa-classifies-starliner-cft-as-type-a-mishap-leadership-changes-coming/" >🔗</a> **[SpacePolicyOnline.com]** NASA Classifies Starliner CFT as Type-A Mishap, Leadership Changes Coming
 - <a href="https://spaceflightnow.com/2026/02/19/live-coverage-spacex-to-launch-second-falcon-9-rocket-with-booster-landing-adjacent-to-the-bahamas/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch second Falcon 9 rocket to return to a landing in The Bahamas
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/nasa-investigates-how-people-respond-to-air-taxi-noise/" >🔗</a> **[NASA]** NASA Investigates How People Respond to Air Taxi Noise
 - <a href="https://www.nasa.gov/news-release/nasa-releases-report-on-starliner-crewed-flight-test-investigation/" >🔗</a> **[NASA]** NASA Releases Report on Starliner Crewed Flight Test Investigation
 - <a href="https://www.nasa.gov/news-release/nasa-to-provide-starliner-crew-flight-test-review-findings-today/" >🔗</a> **[NASA]** NASA to Provide Starliner Crew Flight Test Review Findings Today
-- <a href="https://www.nasa.gov/aeronautics/award-winning-nasa-camera-revolutionizes-how-we-see-the-invisible/" >🔗</a> **[NASA]** Award-Winning NASA Camera Revolutionizes How We See the Invisible
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/02/Sophie_Adenot_exercising_on_the_CEVIS_bike" >🔗</a> **[ESA]** Sophie Adenot exercising on the CEVIS bike
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260220T034533">2026-02-20 03:45:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260220T043110">2026-02-20 04:31:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
