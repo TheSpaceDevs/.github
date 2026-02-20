@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_sets_sail_for_Europe_s_Spaceport_in_French_Guiana" >🔗</a> **[ESA]** Smile sets sail for Europe’s Spaceport in French Guiana
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/02/The_stellar_lifecycle_in_a_nearby_spiral" >🔗</a> **[ESA]** The stellar lifecycle in a nearby spiral
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/02/Earth_from_Space_Ouarzazate_Morocco" >🔗</a> **[ESA]** Earth from Space: Ouarzazate, Morocco
 - <a href="https://science.nasa.gov/earth/earth-observatory/winds-whip-up-fires-and-dust-on-the-southern-plains/" >🔗</a> **[NASA]** Winds Whip Up Fires and Dust on the Southern Plains
 - <a href="https://spaceflightnow.com/2026/02/20/moon-mission-fueling-test-concludes-with-no-major-problems/" >🔗</a> **[Spaceflight Now]** Moon mission fueling test concludes with no major problems
 - <a href="https://spacepolicyonline.com/news/artemis-ii-could-launch-as-soon-as-march-following-successful-wdr/" >🔗</a> **[SpacePolicyOnline.com]** Artemis II Could Launch As Soon as March Following Successful WDR
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/nasa-classifies-starliner-cft-as-type-a-mishap-leadership-changes-coming/" >🔗</a> **[SpacePolicyOnline.com]** NASA Classifies Starliner CFT as Type-A Mishap, Leadership Changes Coming
 - <a href="https://spaceflightnow.com/2026/02/19/live-coverage-spacex-to-launch-second-falcon-9-rocket-with-booster-landing-adjacent-to-the-bahamas/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch second Falcon 9 rocket to return to a landing in The Bahamas
 - <a href="https://arstechnica.com/space/2026/02/nasa-chief-classifies-starliner-flight-as-type-a-mishap-says-agency-made-mistakes/" >🔗</a> **[Arstechnica]** NASA chief classifies Starliner flight as "Type A" mishap, says agency made mistakes
-- <a href="https://spacenews.com/starliner-investigation-identifies-flawed-nasa-decision-making/" >🔗</a> **[SpaceNews]** Starliner investigation identifies flawed NASA decision making
-- <a href="https://www.nasa.gov/image-article/nasa-investigates-how-people-respond-to-air-taxi-noise/" >🔗</a> **[NASA]** NASA Investigates How People Respond to Air Taxi Noise
-- <a href="https://www.nasa.gov/news-release/nasa-releases-report-on-starliner-crewed-flight-test-investigation/" >🔗</a> **[NASA]** NASA Releases Report on Starliner Crewed Flight Test Investigation
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260220T091026">2026-02-20 09:10:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260220T094316">2026-02-20 09:43:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
