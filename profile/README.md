@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/nasa-is-helping-bring-giant-tortoises-back-to-the-galapagos/" >🔗</a> **[NASA]** NASA Is Helping Bring Giant Tortoises Back to the Galápagos
 - <a href="https://spacepolicyonline.com/news/nasa-confirms-march-6-as-target-date-for-astronaut-moon-mission/" >🔗</a> **[SpacePolicyOnline.com]** NASA Confirms March 6 as Target Date for Astronaut Moon Mission
 - <a href="https://spacenews.com/nasa-targeting-march-6-for-artemis-2-launch/" >🔗</a> **[SpaceNews]** NASA targeting March 6 for Artemis 2 launch
 - <a href="https://europeanspaceflight.com/the-uk-amends-launch-liability-rules-as-rfa-prepares-for-inaugural-flight/" >🔗</a> **[European Spaceflight]** The UK Amends Launch Liability Rules as RFA Prepares for Inaugural Flight
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/nasa-completes-second-artemis-2-fueling-test/" >🔗</a> **[SpaceNews]** NASA completes second Artemis 2 fueling test
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/02/Annular_solar_eclipse_seen_from_space" >🔗</a> **[ESA]** Annular solar eclipse seen from space
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_sets_sail_for_Europe_s_Spaceport_in_French_Guiana" >🔗</a> **[ESA]** Smile sets sail for Europe’s Spaceport in French Guiana
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/02/Earth_from_Space_Ouarzazate_Morocco" >🔗</a> **[ESA]** Earth from Space: Ouarzazate, Morocco
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260220T200241">2026-02-20 20:02:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260220T204200">2026-02-20 20:42:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
