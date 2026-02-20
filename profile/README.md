@@ -90,7 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/nasa-confirms-march-6-as-target-date-for-astronaut-moon-mission/" >🔗</a> **[SpacePolicyOnline.com]** NASA Confirms March 6 as Target Date for Astronaut Moon Mission
 - <a href="https://spacenews.com/nasa-targeting-march-6-for-artemis-2-launch/" >🔗</a> **[SpaceNews]** NASA targeting March 6 for Artemis 2 launch
+- <a href="https://europeanspaceflight.com/the-uk-amends-launch-liability-rules-as-rfa-prepares-for-inaugural-flight/" >🔗</a> **[European Spaceflight]** The UK Amends Launch Liability Rules as RFA Prepares for Inaugural Flight
 - <a href="https://www.nasa.gov/image-article/artemis-ii-crew-trains-on-t-38/" >🔗</a> **[NASA]** Artemis II Crew Trains on T-38
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_16-20_February_2026" >🔗</a> **[ESA]** Week in images: 16-20 February 2026
 - <a href="https://spacenews.com/boeing-to-boost-production-of-missile-tracking-sensors-for-military-satellites/" >🔗</a> **[SpaceNews]** Boeing to boost production of missile-tracking sensors for military satellites
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/02/Annular_solar_eclipse_seen_from_space" >🔗</a> **[ESA]** Annular solar eclipse seen from space
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_sets_sail_for_Europe_s_Spaceport_in_French_Guiana" >🔗</a> **[ESA]** Smile sets sail for Europe’s Spaceport in French Guiana
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/02/Earth_from_Space_Ouarzazate_Morocco" >🔗</a> **[ESA]** Earth from Space: Ouarzazate, Morocco
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/02/The_stellar_lifecycle_in_a_nearby_spiral" >🔗</a> **[ESA]** The stellar lifecycle in a nearby spiral
-- <a href="https://science.nasa.gov/earth/earth-observatory/winds-whip-up-fires-and-dust-on-the-southern-plains/" >🔗</a> **[NASA]** Winds Whip Up Fires and Dust on the Southern Plains
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260220T191301">2026-02-20 19:13:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260220T194039">2026-02-20 19:40:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
