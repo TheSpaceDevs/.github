@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/artemis-ii-crew-trains-on-t-38/" >🔗</a> **[NASA]** Artemis II Crew Trains on T-38
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_16-20_February_2026" >🔗</a> **[ESA]** Week in images: 16-20 February 2026
 - <a href="https://spacenews.com/boeing-to-boost-production-of-missile-tracking-sensors-for-military-satellites/" >🔗</a> **[SpaceNews]** Boeing to boost production of missile-tracking sensors for military satellites
 - <a href="https://spacenews.com/nasa-completes-second-artemis-2-fueling-test/" >🔗</a> **[SpaceNews]** NASA completes second Artemis 2 fueling test
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/02/The_stellar_lifecycle_in_a_nearby_spiral" >🔗</a> **[ESA]** The stellar lifecycle in a nearby spiral
 - <a href="https://science.nasa.gov/earth/earth-observatory/winds-whip-up-fires-and-dust-on-the-southern-plains/" >🔗</a> **[NASA]** Winds Whip Up Fires and Dust on the Southern Plains
 - <a href="https://spaceflightnow.com/2026/02/20/moon-mission-fueling-test-concludes-with-no-major-problems/" >🔗</a> **[Spaceflight Now]** Moon mission fueling test concludes with no major problems
-- <a href="https://spacepolicyonline.com/news/artemis-ii-could-launch-as-soon-as-march-following-successful-wdr/" >🔗</a> **[SpacePolicyOnline.com]** Artemis II Could Launch As Soon as March Following Successful WDR
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260220T151110">2026-02-20 15:11:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260220T154226">2026-02-20 15:42:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
