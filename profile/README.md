@@ -91,8 +91,8 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_sets_sail_for_Europe_s_Spaceport_in_French_Guiana" >🔗</a> **[ESA]** Smile sets sail for Europe’s Spaceport in French Guiana
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/02/The_stellar_lifecycle_in_a_nearby_spiral" >🔗</a> **[ESA]** The stellar lifecycle in a nearby spiral
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/02/Earth_from_Space_Ouarzazate_Morocco" >🔗</a> **[ESA]** Earth from Space: Ouarzazate, Morocco
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/02/The_stellar_lifecycle_in_a_nearby_spiral" >🔗</a> **[ESA]** The stellar lifecycle in a nearby spiral
 - <a href="https://science.nasa.gov/earth/earth-observatory/winds-whip-up-fires-and-dust-on-the-southern-plains/" >🔗</a> **[NASA]** Winds Whip Up Fires and Dust on the Southern Plains
 - <a href="https://spaceflightnow.com/2026/02/20/moon-mission-fueling-test-concludes-with-no-major-problems/" >🔗</a> **[Spaceflight Now]** Moon mission fueling test concludes with no major problems
 - <a href="https://spacepolicyonline.com/news/artemis-ii-could-launch-as-soon-as-march-following-successful-wdr/" >🔗</a> **[SpacePolicyOnline.com]** Artemis II Could Launch As Soon as March Following Successful WDR
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260220T100838">2026-02-20 10:08:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260220T104250">2026-02-20 10:42:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
