@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/02/20/live-coverage-falcon-9-to-launch-25-starlink-satellites-after-weather-delays/" >🔗</a> **[Spaceflight Now]** Live coverage: Falcon 9 to launch 25 Starlink satellites after weather delays
 - <a href="https://spacenews.com/aalto-plots-australia-base-to-boost-planned-high-altitude-pseudo-satellite-service/" >🔗</a> **[SpaceNews]** Aalto plots Australia base to boost planned high-altitude pseudo satellite service
 - <a href="https://www.nasaspaceflight.com/2026/02/boeing-nasa-criticism-reinforce-starliner/" >🔗</a> **[NASASpaceflight]** Boeing insists NASA criticism will reinforce efforts on Starliner
 - <a href="https://science.nasa.gov/earth/nasa-is-helping-bring-giant-tortoises-back-to-the-galapagos/" >🔗</a> **[NASA]** NASA Is Helping Bring Giant Tortoises Back to the Galápagos
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/artemis-ii-crew-trains-on-t-38/" >🔗</a> **[NASA]** Artemis II Crew Trains on T-38
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_16-20_February_2026" >🔗</a> **[ESA]** Week in images: 16-20 February 2026
 - <a href="https://spacenews.com/boeing-to-boost-production-of-missile-tracking-sensors-for-military-satellites/" >🔗</a> **[SpaceNews]** Boeing to boost production of missile-tracking sensors for military satellites
-- <a href="https://spacenews.com/nasa-completes-second-artemis-2-fueling-test/" >🔗</a> **[SpaceNews]** NASA completes second Artemis 2 fueling test
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260220T230436">2026-02-20 23:04:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260220T233912">2026-02-20 23:39:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
