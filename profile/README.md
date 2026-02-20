@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/earth-observatory/winds-whip-up-fires-and-dust-on-the-southern-plains/" >🔗</a> **[NASA]** Winds Whip Up Fires and Dust on the Southern Plains
 - <a href="https://spaceflightnow.com/2026/02/20/moon-mission-fueling-test-concludes-with-no-major-problems/" >🔗</a> **[Spaceflight Now]** Moon mission fueling test concludes with no major problems
 - <a href="https://spacepolicyonline.com/news/artemis-ii-could-launch-as-soon-as-march-following-successful-wdr/" >🔗</a> **[SpacePolicyOnline.com]** Artemis II Could Launch As Soon as March Following Successful WDR
 - <a href="https://spaceflightnow.com/2026/02/19/independent-report-sharply-criticizes-nasa-management-boeing-for-troubled-starliner-flight/" >🔗</a> **[Spaceflight Now]** Independent report sharply criticizes NASA management, Boeing for troubled Starliner flight
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/starliner-investigation-identifies-flawed-nasa-decision-making/" >🔗</a> **[SpaceNews]** Starliner investigation identifies flawed NASA decision making
 - <a href="https://www.nasa.gov/image-article/nasa-investigates-how-people-respond-to-air-taxi-noise/" >🔗</a> **[NASA]** NASA Investigates How People Respond to Air Taxi Noise
 - <a href="https://www.nasa.gov/news-release/nasa-releases-report-on-starliner-crewed-flight-test-investigation/" >🔗</a> **[NASA]** NASA Releases Report on Starliner Crewed Flight Test Investigation
-- <a href="https://www.nasa.gov/news-release/nasa-to-provide-starliner-crew-flight-test-review-findings-today/" >🔗</a> **[NASA]** NASA to Provide Starliner Crew Flight Test Review Findings Today
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260220T043110">2026-02-20 04:31:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260220T052154">2026-02-20 05:21:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
