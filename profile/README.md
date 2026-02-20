@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/02/boeing-nasa-criticism-reinforce-starliner/" >🔗</a> **[NASASpaceflight]** Boeing insists NASA criticism will reinforce efforts on Starliner
 - <a href="https://science.nasa.gov/earth/nasa-is-helping-bring-giant-tortoises-back-to-the-galapagos/" >🔗</a> **[NASA]** NASA Is Helping Bring Giant Tortoises Back to the Galápagos
 - <a href="https://spacepolicyonline.com/news/nasa-confirms-march-6-as-target-date-for-astronaut-moon-mission/" >🔗</a> **[SpacePolicyOnline.com]** NASA Confirms March 6 as Target Date for Astronaut Moon Mission
 - <a href="https://spacenews.com/nasa-targeting-march-6-for-artemis-2-launch/" >🔗</a> **[SpaceNews]** NASA targeting March 6 for Artemis 2 launch
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/boeing-to-boost-production-of-missile-tracking-sensors-for-military-satellites/" >🔗</a> **[SpaceNews]** Boeing to boost production of missile-tracking sensors for military satellites
 - <a href="https://spacenews.com/nasa-completes-second-artemis-2-fueling-test/" >🔗</a> **[SpaceNews]** NASA completes second Artemis 2 fueling test
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/02/Annular_solar_eclipse_seen_from_space" >🔗</a> **[ESA]** Annular solar eclipse seen from space
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_sets_sail_for_Europe_s_Spaceport_in_French_Guiana" >🔗</a> **[ESA]** Smile sets sail for Europe’s Spaceport in French Guiana
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260220T210240">2026-02-20 21:02:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260220T213813">2026-02-20 21:38:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
