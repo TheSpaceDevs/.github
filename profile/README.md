@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacescout.info/2026/02/following-near-perfect-rehearsal-artemis-ii-faces-a-rollback/" >🔗</a> **[Space Scout]** Following Near-Perfect Rehearsal, Artemis II Faces a Rollback
+- <a href="https://www.nasaspaceflight.com/2026/02/nasa-rollback-sls-delaying-artemis-april/" >🔗</a> **[NASASpaceflight]** NASA prepares for likely rollback of SLS, delaying Artemis II to April
 - <a href="https://spaceflightnow.com/2026/02/21/nasas-artemis-2-rocket-hit-by-new-problem-expected-to-bump-moonshot-into-early-april/" >🔗</a> **[Spaceflight Now]** NASA’s Artemis 2 rocket hit by new problem expected to bump moonshot into early April
 - <a href="https://spacenews.com/nasa-preparing-for-artemis-2-rollback-to-fix-upper-stage-problem/" >🔗</a> **[SpaceNews]** NASA preparing for Artemis 2 rollback to fix upper stage problem
 - <a href="https://spacepolicyonline.com/news/artemis-ii-likely-delayed-due-to-upper-stage-problem/" >🔗</a> **[SpacePolicyOnline.com]** Artemis II Likely Delayed Due to Upper Stage Problem
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/aalto-plots-australia-base-to-boost-planned-high-altitude-pseudo-satellite-service/" >🔗</a> **[SpaceNews]** Aalto plots Australia base to boost planned high-altitude pseudo satellite service
 - <a href="https://www.nasaspaceflight.com/2026/02/boeing-nasa-criticism-reinforce-starliner/" >🔗</a> **[NASASpaceflight]** Boeing insists NASA criticism will reinforce efforts on Starliner
 - <a href="https://science.nasa.gov/earth/nasa-is-helping-bring-giant-tortoises-back-to-the-galapagos/" >🔗</a> **[NASA]** NASA Is Helping Bring Giant Tortoises Back to the Galápagos
-- <a href="https://spacepolicyonline.com/news/nasa-confirms-march-6-as-target-date-for-astronaut-moon-mission/" >🔗</a> **[SpacePolicyOnline.com]** NASA Confirms March 6 as Target Date for Astronaut Moon Mission
-- <a href="https://spacenews.com/nasa-targeting-march-6-for-artemis-2-launch/" >🔗</a> **[SpaceNews]** NASA targeting March 6 for Artemis 2 launch
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260221T210203">2026-02-21 21:02:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260221T213626">2026-02-21 21:36:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
