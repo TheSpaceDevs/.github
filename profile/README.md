@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/02/21/live-coverage-spacexs-most-flown-falcon-booster-to-launch-on-record-33rd-flight/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX’s most-flown Falcon booster to launch on record 33rd flight
 - <a href="https://www.spacescout.info/2026/02/following-near-perfect-rehearsal-artemis-ii-faces-a-rollback/" >🔗</a> **[Space Scout]** Following Near-Perfect Rehearsal, Artemis II Faces a Rollback
 - <a href="https://www.nasaspaceflight.com/2026/02/nasa-rollback-sls-delaying-artemis-april/" >🔗</a> **[NASASpaceflight]** NASA prepares for likely rollback of SLS, delaying Artemis II to April
 - <a href="https://spaceflightnow.com/2026/02/21/nasas-artemis-2-rocket-hit-by-new-problem-expected-to-bump-moonshot-into-early-april/" >🔗</a> **[Spaceflight Now]** NASA’s Artemis 2 rocket hit by new problem expected to bump moonshot into early April
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2026/02/20/live-coverage-falcon-9-to-launch-25-starlink-satellites-after-weather-delays/" >🔗</a> **[Spaceflight Now]** Live coverage: Falcon 9 to launch 25 Starlink satellites after weather delays
 - <a href="https://spacenews.com/aalto-plots-australia-base-to-boost-planned-high-altitude-pseudo-satellite-service/" >🔗</a> **[SpaceNews]** Aalto plots Australia base to boost planned high-altitude pseudo satellite service
 - <a href="https://www.nasaspaceflight.com/2026/02/boeing-nasa-criticism-reinforce-starliner/" >🔗</a> **[NASASpaceflight]** Boeing insists NASA criticism will reinforce efforts on Starliner
-- <a href="https://science.nasa.gov/earth/nasa-is-helping-bring-giant-tortoises-back-to-the-galapagos/" >🔗</a> **[NASA]** NASA Is Helping Bring Giant Tortoises Back to the Galápagos
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260221T220145">2026-02-21 22:01:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260221T223820">2026-02-21 22:38:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
