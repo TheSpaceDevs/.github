@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-preparing-for-artemis-2-rollback-to-fix-upper-stage-problem/" >🔗</a> **[SpaceNews]** NASA preparing for Artemis 2 rollback to fix upper stage problem
+- <a href="https://spacepolicyonline.com/news/artemis-ii-likely-delayed-due-to-upper-stage-problem/" >🔗</a> **[SpacePolicyOnline.com]** Artemis II Likely Delayed Due to Upper Stage Problem
 - <a href="https://spacenews.com/bruno-says-he-joined-blue-origin-to-work-on-urgent-national-security-projects/" >🔗</a> **[SpaceNews]** Bruno says he joined Blue Origin to work on ‘urgent’ national security projects
 - <a href="https://spaceflightnow.com/2026/02/20/live-coverage-falcon-9-to-launch-25-starlink-satellites-after-weather-delays/" >🔗</a> **[Spaceflight Now]** Live coverage: Falcon 9 to launch 25 Starlink satellites after weather delays
 - <a href="https://spacenews.com/aalto-plots-australia-base-to-boost-planned-high-altitude-pseudo-satellite-service/" >🔗</a> **[SpaceNews]** Aalto plots Australia base to boost planned high-altitude pseudo satellite service
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/nasa-confirms-march-6-as-target-date-for-astronaut-moon-mission/" >🔗</a> **[SpacePolicyOnline.com]** NASA Confirms March 6 as Target Date for Astronaut Moon Mission
 - <a href="https://spacenews.com/nasa-targeting-march-6-for-artemis-2-launch/" >🔗</a> **[SpaceNews]** NASA targeting March 6 for Artemis 2 launch
 - <a href="https://europeanspaceflight.com/the-uk-amends-launch-liability-rules-as-rfa-prepares-for-inaugural-flight/" >🔗</a> **[European Spaceflight]** The UK Amends Launch Liability Rules as RFA Prepares for Inaugural Flight
-- <a href="https://www.nasa.gov/image-article/artemis-ii-crew-trains-on-t-38/" >🔗</a> **[NASA]** Artemis II Crew Trains on T-38
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_16-20_February_2026" >🔗</a> **[ESA]** Week in images: 16-20 February 2026
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260221T160244">2026-02-21 16:02:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260221T164102">2026-02-21 16:41:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
