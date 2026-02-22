@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/german-defense-firm-said-to-be-weighing-bid-for-mynaric/" >🔗</a> **[SpaceNews]** German defense firm said to be weighing bid for Mynaric
 - <a href="https://spaceflightnow.com/2026/02/21/live-coverage-spacexs-most-flown-falcon-booster-to-launch-on-record-33rd-flight/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX’s most-flown Falcon booster to launch on record 33rd flight
 - <a href="https://www.spacescout.info/2026/02/following-near-perfect-rehearsal-artemis-ii-faces-a-rollback/" >🔗</a> **[Space Scout]** Following Near-Perfect Rehearsal, Artemis II Faces a Rollback
 - <a href="https://www.nasaspaceflight.com/2026/02/nasa-rollback-sls-delaying-artemis-april/" >🔗</a> **[NASASpaceflight]** NASA prepares for likely rollback of SLS, delaying Artemis II to April
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/bruno-says-he-joined-blue-origin-to-work-on-urgent-national-security-projects/" >🔗</a> **[SpaceNews]** Bruno says he joined Blue Origin to work on ‘urgent’ national security projects
 - <a href="https://spaceflightnow.com/2026/02/20/live-coverage-falcon-9-to-launch-25-starlink-satellites-after-weather-delays/" >🔗</a> **[Spaceflight Now]** Live coverage: Falcon 9 to launch 25 Starlink satellites after weather delays
 - <a href="https://spacenews.com/aalto-plots-australia-base-to-boost-planned-high-altitude-pseudo-satellite-service/" >🔗</a> **[SpaceNews]** Aalto plots Australia base to boost planned high-altitude pseudo satellite service
-- <a href="https://www.nasaspaceflight.com/2026/02/boeing-nasa-criticism-reinforce-starliner/" >🔗</a> **[NASASpaceflight]** Boeing insists NASA criticism will reinforce efforts on Starliner
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260222T120209">2026-02-22 12:02:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260222T124407">2026-02-22 12:44:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
