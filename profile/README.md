@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/momentus-prepares-to-host-10-demonstration-payloads-on-vigoride-7-flight/" >🔗</a> **[SpaceNews]** Momentus prepares to host 10 demonstration payloads on Vigoride 7 flight
-- <a href="https://spacenews.com/texas-space-commission-completes-150-million-in-awards/" >🔗</a> **[SpaceNews]** Texas Space Commission completes $150 million in awards
-- <a href="https://www.esa.int/About_Us/Careers_at_ESA/Last_call_to_apply_2026_ESA_Graduate_Trainee_Programme" >🔗</a> **[ESA]** Last call to apply: 2026 ESA Graduate Trainee Programme
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/02/Meet_ESA_Astronaut_Sophie_Adenot" >🔗</a> **[ESA]** Meet ESA Astronaut Sophie Adenot
-- <a href="https://spacenews.com/israeli-startup-targets-economics-of-high-resolution-earth-observation/" >🔗</a> **[SpaceNews]** Israeli startup targets the economics of high-resolution Earth observation
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/meet-regina-senegal-acting-chief-of-johnsons-quality-and-flight-equipment-division/" >🔗</a> **[NASA]** Meet Regina Senegal, Acting Chief of Johnson’s Quality and Flight Equipment Division
-- <a href="https://europeanspaceflight.com/esa-awards-contracts-for-lunar-remote-camp-studies/" >🔗</a> **[European Spaceflight]** ESA Awards Contracts for Lunar Remote Camp Studies
-- <a href="https://www.nasaspaceflight.com/2026/02/juno-europa-ice-sheet/" >🔗</a> **[NASASpaceflight]** Juno data provides insight into thickness of Europa’s surface ice sheet
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-february-22-28-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy February 22-28, 2026
-- <a href="https://spacenews.com/german-defense-firm-said-to-be-weighing-bid-for-mynaric/" >🔗</a> **[SpaceNews]** German defense firm said to be weighing bid for Mynaric
+- <a href="https://www.spacedaily.com/reports/Texas_AM_partners_with_Aegis_to_orbit_TAMU_SPIRIT_research_hub_on_ISS_999.html" >🔗</a> **[SpaceDaily]** Texas AM partners with Aegis to orbit TAMU SPIRIT research hub on ISS
+- <a href="https://www.spacedaily.com/reports/Warming_drives_growth_of_Arctic_peatlands_999.html" >🔗</a> **[SpaceDaily]** Warming drives growth of Arctic peatlands
+- <a href="https://www.spacewar.com/reports/EU_brings_secure_GOVSATCOM_hub_online_under_GMV_leadership_999.html" >🔗</a> **[SpaceDaily]** EU brings secure GOVSATCOM hub online under GMV leadership
+- <a href="https://www.spacedaily.com/reports/Dynamic_terrain_model_boosts_airborne_gamma_ray_survey_accuracy_999.html" >🔗</a> **[SpaceDaily]** Dynamic terrain model boosts airborne gamma ray survey accuracy
+- <a href="https://www.spacedaily.com/reports/Study_questions_assumptions_about_hidden_alien_technosignals_999.html" >🔗</a> **[SpaceDaily]** Study questions assumptions about hidden alien technosignals
+- <a href="https://www.spacedaily.com/reports/UNSW_Canberra_team_advances_iodine_propulsion_for_satellites_999.html" >🔗</a> **[SpaceDaily]** UNSW Canberra team advances iodine propulsion for satellites
+- <a href="https://www.spacedaily.com/reports/New_Wenchang_lunar_pad_completes_first_Long_March_10_test_999.html" >🔗</a> **[SpaceDaily]** New Wenchang lunar pad completes first Long March 10 test
+- <a href="https://www.spacedaily.com/reports/Dusty_early_galaxies_shed_new_light_on_how_the_universe_built_its_first_giants_999.html" >🔗</a> **[SpaceDaily]** Dusty early galaxies shed new light on how the universe built its first giants
+- <a href="https://www.spacedaily.com/reports/Researchers_probe_dark_matter_stars_that_resemble_black_holes_999.html" >🔗</a> **[SpaceDaily]** Researchers probe dark matter stars that resemble black holes
+- <a href="https://www.spacedaily.com/reports/OpenAI_hires_creator_of_OpenClaw_AI_agent_tool_999.html" >🔗</a> **[SpaceDaily]** OpenAI hires creator of 'OpenClaw' AI agent tool
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260223T135342">2026-02-23 13:53:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260223T141622">2026-02-23 14:16:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
