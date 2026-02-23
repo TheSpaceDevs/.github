@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/02/launch-preview-022326/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9 to launch five Starlink missions, Firefly to launch Alpha
 - <a href="https://www.nasa.gov/missions/chandra/young-sun-caught-blowing-bubbles-by-nasas-chandra/" >🔗</a> **[NASA]** Young ‘Sun’ Caught Blowing Bubbles by NASA’s Chandra
 - <a href="https://science.nasa.gov/learning-resources/science-activation/astronomy-activation-ambassadors-embracing-multiple-perspectives/" >🔗</a> **[NASA]** Astronomy Activation Ambassadors: Embracing Multiple Perspectives
 - <a href="https://www.spacescout.info/2026/02/flawless-second-artemis-ii-launch-rehearsal-shows-readiness-despite-setbacks/" >🔗</a> **[Space Scout]** Flawless Second Artemis II Launch Rehearsal Shows Readiness, Despite Setbacks
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/photojournal/curiosity-studies-nodules-on-boxwork-formations/" >🔗</a> **[NASA]** Curiosity Studies Nodules on Boxwork Formations
 - <a href="https://science.nasa.gov/photojournal/curiosity-surveys-the-boxwork-region/" >🔗</a> **[NASA]** Curiosity Surveys the Boxwork Region
 - <a href="https://spacenews.com/aalyria-hits-1-3-billion-valuation-after-raising-funds-for-satellite-mesh-network/" >🔗</a> **[SpaceNews]** Aalyria hits $1.3 billion valuation after raising funds for satellite mesh network
-- <a href="https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-rover-sees-martian-spiderwebs-up-close/" >🔗</a> **[NASA]** NASA’s Curiosity Rover Sees Martian ‘Spiderwebs’ Up Close
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260223T231024">2026-02-23 23:10:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260223T234056">2026-02-23 23:40:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
