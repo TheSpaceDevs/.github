@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/aalyria-hits-1-3-billion-valuation-after-raising-funds-for-satellite-mesh-network/" >🔗</a> **[SpaceNews]** Aalyria hits $1.3 billion valuation after raising funds for satellite mesh network
+- <a href="https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-rover-sees-martian-spiderwebs-up-close/" >🔗</a> **[NASA]** NASA’s Curiosity Rover Sees Martian ‘Spiderwebs’ Up Close
 - <a href="https://www.nasa.gov/image-article/perseverances-landing/" >🔗</a> **[NASA]** Perseverance’s Landing
 - <a href="https://spacenews.com/europes-progress-on-future-access-to-space-gains-momentum-with-upcoming-reusable-launcher-flight-test/" >🔗</a> **[SpaceNews]** Europe’s progress on future access-to-space gains momentum with upcoming reusable launcher flight test
 - <a href="https://science.nasa.gov/missions/webb/nasas-webb-telescope-locates-former-star-that-exploded-as-supernova/" >🔗</a> **[NASA]** NASA’s Webb Telescope Locates Former Star That Exploded as Supernova
-- <a href="https://www.spacedaily.com/reports/Texas_AM_partners_with_Aegis_to_orbit_TAMU_SPIRIT_research_hub_on_ISS_999.html" >🔗</a> **[SpaceDaily]** Texas AM partners with Aegis to orbit TAMU SPIRIT research hub on ISS
-- <a href="https://www.spacedaily.com/reports/Dusty_early_galaxies_shed_new_light_on_how_the_universe_built_its_first_giants_999.html" >🔗</a> **[SpaceDaily]** Dusty early galaxies shed new light on how the universe built its first giants
 - <a href="https://www.spacewar.com/reports/EU_brings_secure_GOVSATCOM_hub_online_under_GMV_leadership_999.html" >🔗</a> **[SpaceDaily]** EU brings secure GOVSATCOM hub online under GMV leadership
-- <a href="https://www.spacedaily.com/reports/Warming_drives_growth_of_Arctic_peatlands_999.html" >🔗</a> **[SpaceDaily]** Warming drives growth of Arctic peatlands
-- <a href="https://www.spacedaily.com/reports/Researchers_probe_dark_matter_stars_that_resemble_black_holes_999.html" >🔗</a> **[SpaceDaily]** Researchers probe dark matter stars that resemble black holes
+- <a href="https://www.spacedaily.com/reports/Dusty_early_galaxies_shed_new_light_on_how_the_universe_built_its_first_giants_999.html" >🔗</a> **[SpaceDaily]** Dusty early galaxies shed new light on how the universe built its first giants
+- <a href="https://www.spacedaily.com/reports/Texas_AM_partners_with_Aegis_to_orbit_TAMU_SPIRIT_research_hub_on_ISS_999.html" >🔗</a> **[SpaceDaily]** Texas AM partners with Aegis to orbit TAMU SPIRIT research hub on ISS
 - <a href="https://www.spacedaily.com/reports/UNSW_Canberra_team_advances_iodine_propulsion_for_satellites_999.html" >🔗</a> **[SpaceDaily]** UNSW Canberra team advances iodine propulsion for satellites
-- <a href="https://www.spacedaily.com/reports/Study_questions_assumptions_about_hidden_alien_technosignals_999.html" >🔗</a> **[SpaceDaily]** Study questions assumptions about hidden alien technosignals
+- <a href="https://www.spacedaily.com/reports/Warming_drives_growth_of_Arctic_peatlands_999.html" >🔗</a> **[SpaceDaily]** Warming drives growth of Arctic peatlands
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260223T164525">2026-02-23 16:45:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260223T172048">2026-02-23 17:20:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
