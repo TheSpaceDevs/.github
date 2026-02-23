@@ -90,6 +90,9 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacescout.info/2026/02/flawless-second-artemis-ii-launch-rehearsal-shows-readiness-despite-setbacks/" >🔗</a> **[Space Scout]** Flawless Second Artemis II Launch Rehearsal Shows Readiness, Despite Setbacks
+- <a href="https://spacenews.com/space-force-seeks-market-answers-on-in-orbit-refueling/" >🔗</a> **[SpaceNews]** Space Force seeks market answers on in-orbit refueling
+- <a href="https://www.nasa.gov/news-release/nasa-to-cover-33rd-spacex-resupply-mission-station-departure/" >🔗</a> **[NASA]** NASA to Cover 33rd SpaceX Resupply Mission Station Departure
 - <a href="https://spacenews.com/ast-spacemobile-wins-30-million-contract-for-military-broadband-demo/" >🔗</a> **[SpaceNews]** AST SpaceMobile wins $30 million contract for military  broadband demo
 - <a href="https://science.nasa.gov/photojournal/curiosity-studies-nodules-on-boxwork-formations/" >🔗</a> **[NASA]** Curiosity Studies Nodules on Boxwork Formations
 - <a href="https://science.nasa.gov/photojournal/curiosity-surveys-the-boxwork-region/" >🔗</a> **[NASA]** Curiosity Surveys the Boxwork Region
@@ -97,9 +100,6 @@ into *a Suborbital
 - <a href="https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-rover-sees-martian-spiderwebs-up-close/" >🔗</a> **[NASA]** NASA’s Curiosity Rover Sees Martian ‘Spiderwebs’ Up Close
 - <a href="https://www.nasa.gov/image-article/perseverances-landing/" >🔗</a> **[NASA]** Perseverance’s Landing
 - <a href="https://spacenews.com/europes-progress-on-future-access-to-space-gains-momentum-with-upcoming-reusable-launcher-flight-test/" >🔗</a> **[SpaceNews]** Europe’s progress on future access-to-space gains momentum with upcoming reusable launcher flight test
-- <a href="https://science.nasa.gov/missions/webb/nasas-webb-telescope-locates-former-star-that-exploded-as-supernova/" >🔗</a> **[NASA]** NASA’s Webb Telescope Locates Former Star That Exploded as Supernova
-- <a href="https://www.spacedaily.com/reports/Dusty_early_galaxies_shed_new_light_on_how_the_universe_built_its_first_giants_999.html" >🔗</a> **[SpaceDaily]** Dusty early galaxies shed new light on how the universe built its first giants
-- <a href="https://www.spacedaily.com/reports/Researchers_probe_dark_matter_stars_that_resemble_black_holes_999.html" >🔗</a> **[SpaceDaily]** Researchers probe dark matter stars that resemble black holes
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260223T184553">2026-02-23 18:45:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260223T192239">2026-02-23 19:22:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
