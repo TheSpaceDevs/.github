@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/momentus-prepares-to-host-10-demonstration-payloads-on-vigoride-7-flight/" >🔗</a> **[SpaceNews]** Momentus prepares to host 10 demonstration payloads on Vigoride 7 flight
+- <a href="https://spacenews.com/texas-space-commission-completes-150-million-in-awards/" >🔗</a> **[SpaceNews]** Texas Space Commission completes $150 million in awards
 - <a href="https://www.esa.int/About_Us/Careers_at_ESA/Last_call_to_apply_2026_ESA_Graduate_Trainee_Programme" >🔗</a> **[ESA]** Last call to apply: 2026 ESA Graduate Trainee Programme
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/02/Meet_ESA_Astronaut_Sophie_Adenot" >🔗</a> **[ESA]** Meet ESA Astronaut Sophie Adenot
 - <a href="https://spacenews.com/israeli-startup-targets-economics-of-high-resolution-earth-observation/" >🔗</a> **[SpaceNews]** Israeli startup targets the economics of high-resolution Earth observation
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/meet-regina-senegal-acting-chief-of-johnsons-quality-and-flight-equipment-division/" >🔗</a> **[NASA]** Meet Regina Senegal, Acting Chief of Johnson’s Quality and Flight Equipment Division
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/02/Meet_ESA_Astronaut_Sophie_Adenot" >🔗</a> **[ESA]** Meet ESA Astronaut Sophie Adenot
 - <a href="https://europeanspaceflight.com/esa-awards-contracts-for-lunar-remote-camp-studies/" >🔗</a> **[European Spaceflight]** ESA Awards Contracts for Lunar Remote Camp Studies
 - <a href="https://www.nasaspaceflight.com/2026/02/juno-europa-ice-sheet/" >🔗</a> **[NASASpaceflight]** Juno data provides insight into thickness of Europa’s surface ice sheet
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-february-22-28-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy February 22-28, 2026
 - <a href="https://spacenews.com/german-defense-firm-said-to-be-weighing-bid-for-mynaric/" >🔗</a> **[SpaceNews]** German defense firm said to be weighing bid for Mynaric
-- <a href="https://spaceflightnow.com/2026/02/21/live-coverage-spacexs-most-flown-falcon-booster-to-launch-on-record-33rd-flight/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX’s most-flown Falcon booster to launch on record 33rd flight
-- <a href="https://www.spacescout.info/2026/02/following-near-perfect-rehearsal-artemis-ii-faces-a-rollback/" >🔗</a> **[Space Scout]** Following Near-Perfect Rehearsal, Artemis II Faces a Rollback
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260223T124509">2026-02-23 12:45:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260223T132637">2026-02-23 13:26:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
