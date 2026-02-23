@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/02/juno-europa-ice-sheet/" >🔗</a> **[NASASpaceflight]** Juno data provides insight into thickness of Europa’s surface ice sheet
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-february-22-28-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy February 22-28, 2026
 - <a href="https://spacenews.com/german-defense-firm-said-to-be-weighing-bid-for-mynaric/" >🔗</a> **[SpaceNews]** German defense firm said to be weighing bid for Mynaric
 - <a href="https://spaceflightnow.com/2026/02/21/live-coverage-spacexs-most-flown-falcon-booster-to-launch-on-record-33rd-flight/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX’s most-flown Falcon booster to launch on record 33rd flight
 - <a href="https://www.spacescout.info/2026/02/following-near-perfect-rehearsal-artemis-ii-faces-a-rollback/" >🔗</a> **[Space Scout]** Following Near-Perfect Rehearsal, Artemis II Faces a Rollback
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/nasa-preparing-for-artemis-2-rollback-to-fix-upper-stage-problem/" >🔗</a> **[SpaceNews]** NASA preparing for Artemis 2 rollback to fix upper stage problem
 - <a href="https://spacepolicyonline.com/news/artemis-ii-likely-delayed-due-to-upper-stage-problem/" >🔗</a> **[SpacePolicyOnline.com]** Artemis II Likely Delayed Due to Upper Stage Problem
 - <a href="https://spacenews.com/bruno-says-he-joined-blue-origin-to-work-on-urgent-national-security-projects/" >🔗</a> **[SpaceNews]** Bruno says he joined Blue Origin to work on ‘urgent’ national security projects
-- <a href="https://spaceflightnow.com/2026/02/20/live-coverage-falcon-9-to-launch-25-starlink-satellites-after-weather-delays/" >🔗</a> **[Spaceflight Now]** Live coverage: Falcon 9 to launch 25 Starlink satellites after weather delays
-- <a href="https://spacenews.com/aalto-plots-australia-base-to-boost-planned-high-altitude-pseudo-satellite-service/" >🔗</a> **[SpaceNews]** Aalto plots Australia base to boost planned high-altitude pseudo satellite service
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260223T000722">2026-02-23 00:07:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260223T005402">2026-02-23 00:54:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
