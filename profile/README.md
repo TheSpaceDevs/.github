@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/esa-awards-contracts-for-lunar-remote-camp-studies/" >🔗</a> **[European Spaceflight]** ESA Awards Contracts for Lunar Remote Camp Studies
 - <a href="https://www.nasaspaceflight.com/2026/02/juno-europa-ice-sheet/" >🔗</a> **[NASASpaceflight]** Juno data provides insight into thickness of Europa’s surface ice sheet
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-february-22-28-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy February 22-28, 2026
 - <a href="https://spacenews.com/german-defense-firm-said-to-be-weighing-bid-for-mynaric/" >🔗</a> **[SpaceNews]** German defense firm said to be weighing bid for Mynaric
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2026/02/21/nasas-artemis-2-rocket-hit-by-new-problem-expected-to-bump-moonshot-into-early-april/" >🔗</a> **[Spaceflight Now]** NASA’s Artemis 2 rocket hit by new problem expected to bump moonshot into early April
 - <a href="https://spacenews.com/nasa-preparing-for-artemis-2-rollback-to-fix-upper-stage-problem/" >🔗</a> **[SpaceNews]** NASA preparing for Artemis 2 rollback to fix upper stage problem
 - <a href="https://spacepolicyonline.com/news/artemis-ii-likely-delayed-due-to-upper-stage-problem/" >🔗</a> **[SpacePolicyOnline.com]** Artemis II Likely Delayed Due to Upper Stage Problem
-- <a href="https://spacenews.com/bruno-says-he-joined-blue-origin-to-work-on-urgent-national-security-projects/" >🔗</a> **[SpaceNews]** Bruno says he joined Blue Origin to work on ‘urgent’ national security projects
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260223T084418">2026-02-23 08:44:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260223T091453">2026-02-23 09:14:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
