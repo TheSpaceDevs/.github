@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacedaily.com/reports/TotalEnergies_in_high-stakes_French_trial_over_climate_change_999.html" >🔗</a> **[SpaceDaily]** TotalEnergies in high-stakes French trial over climate change
+- <a href="https://www.spacedaily.com/reports/India_chases_DeepSeek_moment_with_homegrown_AI_models_999.html" >🔗</a> **[SpaceDaily]** India chases 'DeepSeek moment' with homegrown AI models
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Galileo_vs._spoofing_ESA_tests_in_real-world_environments" >🔗</a> **[ESA]** Galileo vs. spoofing: ESA tests in real-world environments
 - <a href="https://www.spacedaily.com/reports/NASA_prepares_Artemis_II_rocket_for_rollback_after_upper_stage_issue_999.html" >🔗</a> **[SpaceDaily]** NASA prepares Artemis II rocket for rollback after upper stage issue
-- <a href="https://www.spacedaily.com/reports/Lithium_trace_in_upper_air_linked_to_Falcon_9_rocket_breakup_999.html" >🔗</a> **[SpaceDaily]** Lithium trace in upper air linked to Falcon 9 rocket breakup
-- <a href="https://www.spacedaily.com/reports/Rocket_re-entry_pollution_measured_in_atmosphere_for_first_time_999.html" >🔗</a> **[SpaceDaily]** Rocket re-entry pollution measured in atmosphere for first time
 - <a href="https://www.spacedaily.com/reports/Prometheus_starts_work_on_new_Indiana_solid_rocket_motor_campus_999.html" >🔗</a> **[SpaceDaily]** Prometheus starts work on new Indiana solid rocket motor campus
 - <a href="https://www.spacedaily.com/reports/Webb_maps_Uranus_upper_atmosphere_in_3D_999.html" >🔗</a> **[SpaceDaily]** Webb maps Uranus upper atmosphere in 3D
-- <a href="https://www.spacedaily.com/reports/NASA_delivers_harsh_assessment_of_botched_Boeing_Starliner_test_flight_999.html" >🔗</a> **[SpaceDaily]** NASA delivers harsh assessment of botched Boeing Starliner test flight
+- <a href="https://www.spacedaily.com/reports/Rocket_re-entry_pollution_measured_in_atmosphere_for_first_time_999.html" >🔗</a> **[SpaceDaily]** Rocket re-entry pollution measured in atmosphere for first time
 - <a href="https://www.spacedaily.com/reports/Simple_collapse_may_build_cosmic_snowman_worlds_999.html" >🔗</a> **[SpaceDaily]** Simple collapse may build cosmic snowman worlds
 - <a href="https://www.spacedaily.com/reports/Perseverance_rover_now_self_locates_precisely_on_Mars_999.html" >🔗</a> **[SpaceDaily]** Perseverance rover now self-locates precisely on Mars
-- <a href="https://www.spacedaily.com/reports/NASA_chief_rules_out_March_launch_of_Moon_mission_over_technical_issues_999.html" >🔗</a> **[SpaceDaily]** NASA chief rules out March launch of Moon mission over technical issues
+- <a href="https://www.spacedaily.com/reports/Lithium_trace_in_upper_air_linked_to_Falcon_9_rocket_breakup_999.html" >🔗</a> **[SpaceDaily]** Lithium trace in upper air linked to Falcon 9 rocket breakup
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260224T111320">2026-02-24 11:13:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260224T114255">2026-02-24 11:42:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
