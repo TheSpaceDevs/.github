@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://science.nasa.gov/earth/earth-observatory/showy-swirls-around-jeju-island/" >🔗</a> **[NASA]** Showy Swirls Around Jeju Island
-- <a href="https://spacenews.com/boeing-demonstrates-large-language-model-for-space-grade-hardware/" >🔗</a> **[SpaceNews]** Boeing demonstrates large language model for space-grade hardware
-- <a href="https://spacenews.com/meink-saltzman-make-case-for-space-force-expansion/" >🔗</a> **[SpaceNews]** Meink, Saltzman make case for Space Force expansion
-- <a href="https://www.nasaspaceflight.com/2026/02/launch-preview-022326/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9 to launch five Starlink missions, Firefly to launch Alpha
-- <a href="https://www.nasa.gov/missions/chandra/young-sun-caught-blowing-bubbles-by-nasas-chandra/" >🔗</a> **[NASA]** Young ‘Sun’ Caught Blowing Bubbles by NASA’s Chandra
-- <a href="https://science.nasa.gov/learning-resources/science-activation/astronomy-activation-ambassadors-embracing-multiple-perspectives/" >🔗</a> **[NASA]** Astronomy Activation Ambassadors: Embracing Multiple Perspectives
-- <a href="https://www.spacescout.info/2026/02/flawless-second-artemis-ii-launch-rehearsal-shows-readiness-despite-setbacks/" >🔗</a> **[Space Scout]** Flawless Second Artemis II Launch Rehearsal Shows Readiness, Despite Setbacks
-- <a href="https://spacenews.com/space-force-seeks-market-answers-on-in-orbit-refueling/" >🔗</a> **[SpaceNews]** Space Force seeks market answers on in-orbit refueling
-- <a href="https://www.nasa.gov/news-release/nasa-to-cover-33rd-spacex-resupply-mission-station-departure/" >🔗</a> **[NASA]** NASA to Cover 33rd SpaceX Resupply Mission Station Departure
-- <a href="https://spacenews.com/ast-spacemobile-wins-30-million-contract-for-military-broadband-demo/" >🔗</a> **[SpaceNews]** AST SpaceMobile wins $30 million contract for military  broadband demo
+- <a href="https://www.spacedaily.com/reports/NASA_prepares_Artemis_II_rocket_for_rollback_after_upper_stage_issue_999.html" >🔗</a> **[SpaceDaily]** NASA prepares Artemis II rocket for rollback after upper stage issue
+- <a href="https://www.spacedaily.com/reports/Prometheus_starts_work_on_new_Indiana_solid_rocket_motor_campus_999.html" >🔗</a> **[SpaceDaily]** Prometheus starts work on new Indiana solid rocket motor campus
+- <a href="https://www.spacedaily.com/reports/Rocket_re-entry_pollution_measured_in_atmosphere_for_first_time_999.html" >🔗</a> **[SpaceDaily]** Rocket re-entry pollution measured in atmosphere for first time
+- <a href="https://www.spacedaily.com/reports/Simple_collapse_may_build_cosmic_snowman_worlds_999.html" >🔗</a> **[SpaceDaily]** Simple collapse may build cosmic snowman worlds
+- <a href="https://www.spacedaily.com/reports/Lithium_trace_in_upper_air_linked_to_Falcon_9_rocket_breakup_999.html" >🔗</a> **[SpaceDaily]** Lithium trace in upper air linked to Falcon 9 rocket breakup
+- <a href="https://www.spacedaily.com/reports/NASA_delivers_harsh_assessment_of_botched_Boeing_Starliner_test_flight_999.html" >🔗</a> **[SpaceDaily]** NASA delivers harsh assessment of botched Boeing Starliner test flight
+- <a href="https://www.spacedaily.com/reports/Record_LOFAR_Radio_Sky_Map_Charts_Millions_Of_Growing_Black_Holes_999.html" >🔗</a> **[SpaceDaily]** Record LOFAR Radio Sky Map Charts Millions Of Growing Black Holes
+- <a href="https://www.spacedaily.com/reports/Perseverance_rover_now_self_locates_precisely_on_Mars_999.html" >🔗</a> **[SpaceDaily]** Perseverance rover now self-locates precisely on Mars
+- <a href="https://www.spacedaily.com/reports/Webb_maps_Uranus_upper_atmosphere_in_3D_999.html" >🔗</a> **[SpaceDaily]** Webb maps Uranus upper atmosphere in 3D
+- <a href="https://www.spacedaily.com/reports/Open_source_microscope_enables_low_cost_live_cell_imaging_in_zero_gravity_999.html" >🔗</a> **[SpaceDaily]** Open source microscope enables low cost live cell imaging in zero gravity
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260224T084401">2026-02-24 08:44:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260224T091437">2026-02-24 09:14:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
