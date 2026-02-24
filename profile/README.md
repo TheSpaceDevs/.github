@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/lockheed-martin-presses-case-that-gps-upgrade-will-counter-jamming-threats/" >🔗</a> **[SpaceNews]** Lockheed Martin presses case that GPS upgrade will counter jamming threats
 - <a href="https://www.nasa.gov/image-article/webb-maps-uranus-upper-atmosphere/" >🔗</a> **[NASA]** Webb Maps Uranus’ Upper Atmosphere
 - <a href="https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/technology-originally-developed-for-space-missions-now-integral-to-everyday-life/" >🔗</a> **[NASA]** Technology Originally Developed for Space Missions Now Integral to Everyday Life
 - <a href="https://spacenews.com/the-commercial-space-federation-releases-new-white-paper-perfecting-public-private-partnerships/" >🔗</a> **[SpaceNews]** The Commercial Space Federation Releases New White Paper “Perfecting Public-Private Partnerships”
 - <a href="https://spacenews.com/at-colorado-space-firms-hegseth-casts-pentagon-bureaucracy-as-the-enemy/" >🔗</a> **[SpaceNews]** At Colorado space firms, Hegseth casts Pentagon bureaucracy as the enemy
 - <a href="https://spacenews.com/lambdavision-books-space-on-starlab-commercial-space-station/" >🔗</a> **[SpaceNews]** LambdaVision books space on Starlab commercial space station
 - <a href="https://spacenews.com/sophia-space-claims-10-million-in-seed-round/" >🔗</a> **[SpaceNews]** Sophia Space claims $10 million in seed round
-- <a href="https://www.spacedaily.com/reports/India_chases_DeepSeek_moment_with_homegrown_AI_models_999.html" >🔗</a> **[SpaceDaily]** India chases 'DeepSeek moment' with homegrown AI models
 - <a href="https://www.spacedaily.com/reports/TotalEnergies_in_high-stakes_French_trial_over_climate_change_999.html" >🔗</a> **[SpaceDaily]** TotalEnergies in high-stakes French trial over climate change
+- <a href="https://www.spacedaily.com/reports/India_chases_DeepSeek_moment_with_homegrown_AI_models_999.html" >🔗</a> **[SpaceDaily]** India chases 'DeepSeek moment' with homegrown AI models
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Galileo_vs._spoofing_ESA_tests_in_real-world_environments" >🔗</a> **[ESA]** Galileo vs. spoofing: ESA tests in real-world environments
-- <a href="https://www.spacedaily.com/reports/Webb_maps_Uranus_upper_atmosphere_in_3D_999.html" >🔗</a> **[SpaceDaily]** Webb maps Uranus upper atmosphere in 3D
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260224T154537">2026-02-24 15:45:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260224T161818">2026-02-24 16:18:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
