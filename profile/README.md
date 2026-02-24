@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/02/24/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-8/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacenews.com/lockheed-martin-presses-case-that-gps-upgrade-will-counter-jamming-threats/" >🔗</a> **[SpaceNews]** Lockheed Martin presses case that GPS upgrade will counter jamming threats
 - <a href="https://www.nasa.gov/image-article/webb-maps-uranus-upper-atmosphere/" >🔗</a> **[NASA]** Webb Maps Uranus’ Upper Atmosphere
 - <a href="https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/technology-originally-developed-for-space-missions-now-integral-to-everyday-life/" >🔗</a> **[NASA]** Technology Originally Developed for Space Missions Now Integral to Everyday Life
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/sophia-space-claims-10-million-in-seed-round/" >🔗</a> **[SpaceNews]** Sophia Space claims $10 million in seed round
 - <a href="https://www.spacedaily.com/reports/TotalEnergies_in_high-stakes_French_trial_over_climate_change_999.html" >🔗</a> **[SpaceDaily]** TotalEnergies in high-stakes French trial over climate change
 - <a href="https://www.spacedaily.com/reports/India_chases_DeepSeek_moment_with_homegrown_AI_models_999.html" >🔗</a> **[SpaceDaily]** India chases 'DeepSeek moment' with homegrown AI models
-- <a href="https://www.esa.int/Applications/Satellite_navigation/Galileo_vs._spoofing_ESA_tests_in_real-world_environments" >🔗</a> **[ESA]** Galileo vs. spoofing: ESA tests in real-world environments
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260224T174627">2026-02-24 17:46:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260224T181529">2026-02-24 18:15:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
