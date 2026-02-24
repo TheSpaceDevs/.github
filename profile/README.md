@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/the-commercial-space-federation-releases-new-white-paper-perfecting-public-private-partnerships/" >🔗</a> **[SpaceNews]** The Commercial Space Federation Releases New White Paper “Perfecting Public-Private Partnerships”
+- <a href="https://spacenews.com/at-colorado-space-firms-hegseth-casts-pentagon-bureaucracy-as-the-enemy/" >🔗</a> **[SpaceNews]** At Colorado space firms, Hegseth casts Pentagon bureaucracy as the enemy
 - <a href="https://spacenews.com/lambdavision-books-space-on-starlab-commercial-space-station/" >🔗</a> **[SpaceNews]** LambdaVision books space on Starlab commercial space station
 - <a href="https://spacenews.com/sophia-space-claims-10-million-in-seed-round/" >🔗</a> **[SpaceNews]** Sophia Space claims $10 million in seed round
 - <a href="https://www.spacedaily.com/reports/India_chases_DeepSeek_moment_with_homegrown_AI_models_999.html" >🔗</a> **[SpaceDaily]** India chases 'DeepSeek moment' with homegrown AI models
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.spacedaily.com/reports/Webb_maps_Uranus_upper_atmosphere_in_3D_999.html" >🔗</a> **[SpaceDaily]** Webb maps Uranus upper atmosphere in 3D
 - <a href="https://www.spacedaily.com/reports/Prometheus_starts_work_on_new_Indiana_solid_rocket_motor_campus_999.html" >🔗</a> **[SpaceDaily]** Prometheus starts work on new Indiana solid rocket motor campus
 - <a href="https://www.spacedaily.com/reports/NASA_prepares_Artemis_II_rocket_for_rollback_after_upper_stage_issue_999.html" >🔗</a> **[SpaceDaily]** NASA prepares Artemis II rocket for rollback after upper stage issue
-- <a href="https://www.spacedaily.com/reports/Perseverance_rover_now_self_locates_precisely_on_Mars_999.html" >🔗</a> **[SpaceDaily]** Perseverance rover now self-locates precisely on Mars
-- <a href="https://www.spacedaily.com/reports/Rocket_re-entry_pollution_measured_in_atmosphere_for_first_time_999.html" >🔗</a> **[SpaceDaily]** Rocket re-entry pollution measured in atmosphere for first time
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260224T135540">2026-02-24 13:55:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260224T141913">2026-02-24 14:19:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
