@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/webb-maps-uranus-upper-atmosphere/" >🔗</a> **[NASA]** Webb Maps Uranus’ Upper Atmosphere
+- <a href="https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/technology-originally-developed-for-space-missions-now-integral-to-everyday-life/" >🔗</a> **[NASA]** Technology Originally Developed for Space Missions Now Integral to Everyday Life
 - <a href="https://spacenews.com/the-commercial-space-federation-releases-new-white-paper-perfecting-public-private-partnerships/" >🔗</a> **[SpaceNews]** The Commercial Space Federation Releases New White Paper “Perfecting Public-Private Partnerships”
 - <a href="https://spacenews.com/at-colorado-space-firms-hegseth-casts-pentagon-bureaucracy-as-the-enemy/" >🔗</a> **[SpaceNews]** At Colorado space firms, Hegseth casts Pentagon bureaucracy as the enemy
 - <a href="https://spacenews.com/lambdavision-books-space-on-starlab-commercial-space-station/" >🔗</a> **[SpaceNews]** LambdaVision books space on Starlab commercial space station
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.spacedaily.com/reports/TotalEnergies_in_high-stakes_French_trial_over_climate_change_999.html" >🔗</a> **[SpaceDaily]** TotalEnergies in high-stakes French trial over climate change
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Galileo_vs._spoofing_ESA_tests_in_real-world_environments" >🔗</a> **[ESA]** Galileo vs. spoofing: ESA tests in real-world environments
 - <a href="https://www.spacedaily.com/reports/Webb_maps_Uranus_upper_atmosphere_in_3D_999.html" >🔗</a> **[SpaceDaily]** Webb maps Uranus upper atmosphere in 3D
-- <a href="https://www.spacedaily.com/reports/Prometheus_starts_work_on_new_Indiana_solid_rocket_motor_campus_999.html" >🔗</a> **[SpaceDaily]** Prometheus starts work on new Indiana solid rocket motor campus
-- <a href="https://www.spacedaily.com/reports/NASA_prepares_Artemis_II_rocket_for_rollback_after_upper_stage_issue_999.html" >🔗</a> **[SpaceDaily]** NASA prepares Artemis II rocket for rollback after upper stage issue
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260224T144449">2026-02-24 14:44:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260224T151601">2026-02-24 15:16:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
