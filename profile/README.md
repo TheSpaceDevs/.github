@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/boeing-demonstrates-large-language-model-for-space-grade-hardware/" >🔗</a> **[SpaceNews]** Boeing demonstrates large language model for space-grade hardware
 - <a href="https://spacenews.com/meink-saltzman-make-case-for-space-force-expansion/" >🔗</a> **[SpaceNews]** Meink, Saltzman make case for Space Force expansion
 - <a href="https://www.nasaspaceflight.com/2026/02/launch-preview-022326/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9 to launch five Starlink missions, Firefly to launch Alpha
 - <a href="https://www.nasa.gov/missions/chandra/young-sun-caught-blowing-bubbles-by-nasas-chandra/" >🔗</a> **[NASA]** Young ‘Sun’ Caught Blowing Bubbles by NASA’s Chandra
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-to-cover-33rd-spacex-resupply-mission-station-departure/" >🔗</a> **[NASA]** NASA to Cover 33rd SpaceX Resupply Mission Station Departure
 - <a href="https://spacenews.com/ast-spacemobile-wins-30-million-contract-for-military-broadband-demo/" >🔗</a> **[SpaceNews]** AST SpaceMobile wins $30 million contract for military  broadband demo
 - <a href="https://science.nasa.gov/photojournal/curiosity-studies-nodules-on-boxwork-formations/" >🔗</a> **[NASA]** Curiosity Studies Nodules on Boxwork Formations
-- <a href="https://science.nasa.gov/photojournal/curiosity-surveys-the-boxwork-region/" >🔗</a> **[NASA]** Curiosity Surveys the Boxwork Region
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260224T013056">2026-02-24 01:30:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260224T025609">2026-02-24 02:56:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
