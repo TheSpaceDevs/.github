@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/avio-to-build-500-million-facility-in-hurt-virginia/" >🔗</a> **[European Spaceflight]** Avio to Build $500 Million Facility in Hurt, Virginia
 - <a href="https://spaceflightnow.com/2026/02/24/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-8/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacenews.com/lockheed-martin-presses-case-that-gps-upgrade-will-counter-jamming-threats/" >🔗</a> **[SpaceNews]** Lockheed Martin presses case that GPS upgrade will counter jamming threats
 - <a href="https://www.nasa.gov/image-article/webb-maps-uranus-upper-atmosphere/" >🔗</a> **[NASA]** Webb Maps Uranus’ Upper Atmosphere
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/lambdavision-books-space-on-starlab-commercial-space-station/" >🔗</a> **[SpaceNews]** LambdaVision books space on Starlab commercial space station
 - <a href="https://spacenews.com/sophia-space-claims-10-million-in-seed-round/" >🔗</a> **[SpaceNews]** Sophia Space claims $10 million in seed round
 - <a href="https://www.spacedaily.com/reports/TotalEnergies_in_high-stakes_French_trial_over_climate_change_999.html" >🔗</a> **[SpaceDaily]** TotalEnergies in high-stakes French trial over climate change
-- <a href="https://www.spacedaily.com/reports/India_chases_DeepSeek_moment_with_homegrown_AI_models_999.html" >🔗</a> **[SpaceDaily]** India chases 'DeepSeek moment' with homegrown AI models
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260224T194451">2026-02-24 19:44:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260224T200645">2026-02-24 20:06:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
