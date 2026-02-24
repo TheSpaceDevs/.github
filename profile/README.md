@@ -89,6 +89,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4812-4819-back-into-the-hollows/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4812-4819: Back Into the Hollows
 - <a href="https://science.nasa.gov/get-involved/citizen-science/new-volunteer-data-from-143-observatories-unveils-the-2024-total-solar-eclipse/" >🔗</a> **[NASA]** New Volunteer Data from 143 Observatories Unveils the 2024 Total Solar Eclipse
 - <a href="https://europeanspaceflight.com/avio-to-build-500-million-facility-in-hurt-virginia/" >🔗</a> **[European Spaceflight]** Avio to Build $500 Million Facility in Hurt, Virginia
 - <a href="https://spaceflightnow.com/2026/02/24/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-8/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral
@@ -98,7 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/the-commercial-space-federation-releases-new-white-paper-perfecting-public-private-partnerships/" >🔗</a> **[SpaceNews]** The Commercial Space Federation Releases New White Paper “Perfecting Public-Private Partnerships”
 - <a href="https://spacenews.com/at-colorado-space-firms-hegseth-casts-pentagon-bureaucracy-as-the-enemy/" >🔗</a> **[SpaceNews]** At Colorado space firms, Hegseth casts Pentagon bureaucracy as the enemy
 - <a href="https://spacenews.com/lambdavision-books-space-on-starlab-commercial-space-station/" >🔗</a> **[SpaceNews]** LambdaVision books space on Starlab commercial space station
-- <a href="https://spacenews.com/sophia-space-claims-10-million-in-seed-round/" >🔗</a> **[SpaceNews]** Sophia Space claims $10 million in seed round
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260224T220522">2026-02-24 22:05:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260224T224206">2026-02-24 22:42:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
