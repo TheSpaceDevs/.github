@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/02/Students_kick_off_experiments_on_ESA_s_flat_floor" >🔗</a> **[ESA]** Students kick off experiments on ESA’s flat floor
+- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Future_space_transportation/Greta_rocket_engine_completes_first_test_campaign" >🔗</a> **[ESA]** Greta rocket engine completes first test campaign
 - <a href="https://spacepolicyonline.com/news/no-mention-of-artemis-in-sotu-but-trump-briefly-references-rockets-to-the-stars/" >🔗</a> **[SpacePolicyOnline.com]** No Mention of Artemis in SOTU, But Trump Briefly References Rockets to the Stars
 - <a href="https://science.nasa.gov/earth/earth-observatory/landslide-and-avalanche-debris-litter-hubbard-glacier/" >🔗</a> **[NASA]** Landslide and Avalanche Debris Litter Hubbard Glacier
 - <a href="https://spacenews.com/a-banner-year-for-military-space-funding-with-an-unclear-path-beyond/" >🔗</a> **[SpaceNews]** A banner year for military space funding— with an unclear path beyond
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://europeanspaceflight.com/avio-to-build-500-million-facility-in-hurt-virginia/" >🔗</a> **[European Spaceflight]** Avio to Build $500 Million Facility in Hurt, Virginia
 - <a href="https://spaceflightnow.com/2026/02/24/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-8/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://spacenews.com/lockheed-martin-presses-case-that-gps-upgrade-will-counter-jamming-threats/" >🔗</a> **[SpaceNews]** Lockheed Martin presses case that GPS upgrade will counter jamming threats
-- <a href="https://www.nasa.gov/image-article/webb-maps-uranus-upper-atmosphere/" >🔗</a> **[NASA]** Webb Maps Uranus’ Upper Atmosphere
-- <a href="https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/technology-originally-developed-for-space-missions-now-integral-to-everyday-life/" >🔗</a> **[NASA]** Technology Originally Developed for Space Missions Now Integral to Everyday Life
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260225T091430">2026-02-25 09:14:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260225T094453">2026-02-25 09:44:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
