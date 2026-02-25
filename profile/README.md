@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/oq-technology-secures-30-million-from-europe-for-satellite-to-smartphone-expansion/" >🔗</a> **[SpaceNews]** OQ Technology secures $30 million from Europe for satellite-to-smartphone expansion
+- <a href="https://www.spacedaily.com/reports/AAC_Clyde_Space_adds_Sedna_satellites_to_boost_maritime_data_services_999.html" >🔗</a> **[SpaceDaily]** AAC Clyde Space adds Sedna satellites to boost maritime data services
+- <a href="https://www.spacedaily.com/reports/Ganymede_aurora_study_links_moon_and_Earth_space_weather_999.html" >🔗</a> **[SpaceDaily]** Ganymede aurora study links moon and Earth space weather
+- <a href="https://www.spacedaily.com/reports/Superconducting_thruster_cuts_power_and_mass_for_space_propulsion_999.html" >🔗</a> **[SpaceDaily]** Superconducting thruster cuts power and mass for space propulsion
+- <a href="https://www.spacedaily.com/reports/Infleqtion_lists_shares_on_NYSE_as_neutral_atom_quantum_firm_999.html" >🔗</a> **[SpaceDaily]** Infleqtion lists shares on NYSE as neutral atom quantum firm
+- <a href="https://www.spacedaily.com/reports/Brain_learns_faster_from_rare_rewards_than_from_repetition_999.html" >🔗</a> **[SpaceDaily]** Brain learns faster from rare rewards than from repetition
+- <a href="https://www.spacedaily.com/reports/Seafloor_weathering_may_explain_ancient_global_glaciation_puzzle_999.html" >🔗</a> **[SpaceDaily]** Seafloor weathering may explain ancient global glaciation puzzle
+- <a href="https://www.spacedaily.com/reports/AST_SpaceMobile_wins_SDA_HALO_Europa_contract_for_direct_to_device_tactical_links_999.html" >🔗</a> **[SpaceDaily]** AST SpaceMobile wins SDA HALO Europa contract for direct to device tactical links
+- <a href="https://www.spacedaily.com/reports/Rare_lensed_supernova_offers_new_route_to_measure_cosmic_expansion_999.html" >🔗</a> **[SpaceDaily]** Rare lensed supernova offers new route to measure cosmic expansion
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/02/Students_kick_off_experiments_on_ESA_s_flat_floor" >🔗</a> **[ESA]** Students kick off experiments on ESA’s flat floor
-- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Future_space_transportation/Greta_rocket_engine_completes_first_test_campaign" >🔗</a> **[ESA]** Greta rocket engine completes first test campaign
-- <a href="https://spacepolicyonline.com/news/no-mention-of-artemis-in-sotu-but-trump-briefly-references-rockets-to-the-stars/" >🔗</a> **[SpacePolicyOnline.com]** No Mention of Artemis in SOTU, But Trump Briefly References Rockets to the Stars
-- <a href="https://science.nasa.gov/earth/earth-observatory/landslide-and-avalanche-debris-litter-hubbard-glacier/" >🔗</a> **[NASA]** Landslide and Avalanche Debris Litter Hubbard Glacier
-- <a href="https://spacenews.com/a-banner-year-for-military-space-funding-with-an-unclear-path-beyond/" >🔗</a> **[SpaceNews]** A banner year for military space funding— with an unclear path beyond
-- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4812-4819-back-into-the-hollows/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4812-4819: Back Into the Hollows
-- <a href="https://science.nasa.gov/get-involved/citizen-science/new-volunteer-data-from-143-observatories-unveils-the-2024-total-solar-eclipse/" >🔗</a> **[NASA]** New Volunteer Data from 143 Observatories Unveils the 2024 Total Solar Eclipse
-- <a href="https://europeanspaceflight.com/avio-to-build-500-million-facility-in-hurt-virginia/" >🔗</a> **[European Spaceflight]** Avio to Build $500 Million Facility in Hurt, Virginia
-- <a href="https://spaceflightnow.com/2026/02/24/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-8/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral
-- <a href="https://spacenews.com/lockheed-martin-presses-case-that-gps-upgrade-will-counter-jamming-threats/" >🔗</a> **[SpaceNews]** Lockheed Martin presses case that GPS upgrade will counter jamming threats
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260225T104436">2026-02-25 10:44:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260225T111412">2026-02-25 11:14:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
