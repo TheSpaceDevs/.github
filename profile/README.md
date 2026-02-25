@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/in-space-traffic-coordination-the-biggest-challenge-may-be-coordination/" >🔗</a> **[SpaceNews]** In space traffic coordination, the biggest challenge may be coordination
 - <a href="https://spacenews.com/oq-technology-secures-30-million-from-europe-for-satellite-to-smartphone-expansion/" >🔗</a> **[SpaceNews]** OQ Technology secures $30 million from Europe for satellite-to-smartphone expansion
 - <a href="https://www.spacedaily.com/reports/AAC_Clyde_Space_adds_Sedna_satellites_to_boost_maritime_data_services_999.html" >🔗</a> **[SpaceDaily]** AAC Clyde Space adds Sedna satellites to boost maritime data services
 - <a href="https://www.spacedaily.com/reports/Ganymede_aurora_study_links_moon_and_Earth_space_weather_999.html" >🔗</a> **[SpaceDaily]** Ganymede aurora study links moon and Earth space weather
 - <a href="https://www.spacedaily.com/reports/Superconducting_thruster_cuts_power_and_mass_for_space_propulsion_999.html" >🔗</a> **[SpaceDaily]** Superconducting thruster cuts power and mass for space propulsion
-- <a href="https://www.spacedaily.com/reports/Infleqtion_lists_shares_on_NYSE_as_neutral_atom_quantum_firm_999.html" >🔗</a> **[SpaceDaily]** Infleqtion lists shares on NYSE as neutral atom quantum firm
-- <a href="https://www.spacedaily.com/reports/Brain_learns_faster_from_rare_rewards_than_from_repetition_999.html" >🔗</a> **[SpaceDaily]** Brain learns faster from rare rewards than from repetition
 - <a href="https://www.spacedaily.com/reports/Seafloor_weathering_may_explain_ancient_global_glaciation_puzzle_999.html" >🔗</a> **[SpaceDaily]** Seafloor weathering may explain ancient global glaciation puzzle
+- <a href="https://www.spacedaily.com/reports/Infleqtion_lists_shares_on_NYSE_as_neutral_atom_quantum_firm_999.html" >🔗</a> **[SpaceDaily]** Infleqtion lists shares on NYSE as neutral atom quantum firm
 - <a href="https://www.spacedaily.com/reports/AST_SpaceMobile_wins_SDA_HALO_Europa_contract_for_direct_to_device_tactical_links_999.html" >🔗</a> **[SpaceDaily]** AST SpaceMobile wins SDA HALO Europa contract for direct to device tactical links
 - <a href="https://www.spacedaily.com/reports/Rare_lensed_supernova_offers_new_route_to_measure_cosmic_expansion_999.html" >🔗</a> **[SpaceDaily]** Rare lensed supernova offers new route to measure cosmic expansion
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/02/Students_kick_off_experiments_on_ESA_s_flat_floor" >🔗</a> **[ESA]** Students kick off experiments on ESA’s flat floor
+- <a href="https://www.spacedaily.com/reports/Brain_learns_faster_from_rare_rewards_than_from_repetition_999.html" >🔗</a> **[SpaceDaily]** Brain learns faster from rare rewards than from repetition
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260225T114236">2026-02-25 11:42:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260225T120723">2026-02-25 12:07:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
