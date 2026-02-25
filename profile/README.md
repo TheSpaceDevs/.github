@@ -90,6 +90,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/nasa-study-to-analyze-fermented-food-samples-from-space/" >🔗</a> **[NASA]** NASA Study to Analyze Fermented Food Samples from Space
 - <a href="https://science.nasa.gov/missions/webb/nasas-webb-examines-cranium-nebula/" >🔗</a> **[NASA]** NASA’s Webb Examines Cranium Nebula
 - <a href="https://spacenews.com/the-future-of-astronomy-is-both-on-earth-and-in-space/" >🔗</a> **[SpaceNews]** The future of astronomy is both on Earth and in space
 - <a href="https://spaceflightnow.com/2026/02/25/live-coverage-spacex-to-launch-500th-starlink-satellite-in-2026-during-wednesday-falcon-9-flight/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 500th Starlink satellite in 2026 during Wednesday Falcon 9 flight
@@ -99,7 +100,6 @@ into *a Suborbital
 - <a href="https://www.spacedaily.com/reports/Ganymede_aurora_study_links_moon_and_Earth_space_weather_999.html" >🔗</a> **[SpaceDaily]** Ganymede aurora study links moon and Earth space weather
 - <a href="https://www.spacedaily.com/reports/Rare_lensed_supernova_offers_new_route_to_measure_cosmic_expansion_999.html" >🔗</a> **[SpaceDaily]** Rare lensed supernova offers new route to measure cosmic expansion
 - <a href="https://www.spacedaily.com/reports/Superconducting_thruster_cuts_power_and_mass_for_space_propulsion_999.html" >🔗</a> **[SpaceDaily]** Superconducting thruster cuts power and mass for space propulsion
-- <a href="https://www.spacedaily.com/reports/AST_SpaceMobile_wins_SDA_HALO_Europa_contract_for_direct_to_device_tactical_links_999.html" >🔗</a> **[SpaceDaily]** AST SpaceMobile wins SDA HALO Europa contract for direct to device tactical links
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260225T154613">2026-02-25 15:46:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260225T162132">2026-02-25 16:21:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
