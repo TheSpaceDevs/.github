@@ -19,27 +19,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 17-26**. It is scheduled to be launched by *SpaceX*
+**HASTE | That's Not A Knife (DART AE)**. It is scheduled to be launched by *Rocket Lab*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
+from *<a href="None">Rocket Lab Launch Complex 2 (Launch Area 0 C)</a>, Wallops Flight Facility, Virginia, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260225T140000">2026-02-25 14:00:00 UTC</a>.  Until
-then, this pad will have been used for 249
-out of 863 launches from this location. The launch status is currently
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260225T210000">2026-02-25 21:00:00 UTC</a>.  Until
+then, this pad will have been used for 10
+out of 84 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Communications* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+*Government/Top Secret* and the payload will be injected
+into *a Suborbital
+(Sub)*.
 <br>
 <blockquote>
-  A batch of 25 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  Payload is a scramjet-powered hypersonic vehicle developed by by Australian company Hypersonix.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+  <a href="https://en.wikipedia.org/wiki/Rocket_Lab_Electron" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=34.632,-120.611" >
+  <a href="https://www.google.com/maps?q=37.833262,-75.488235" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -54,6 +54,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260304T065800">2026-03-04 06:58:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-40&location=Cape Canaveral SFS, FL, USA&dates=20260304T065800Z%2F20260304T105800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-40** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260304T210000">2026-03-04 21:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-18&location=Vandenberg SFB, CA, USA&dates=20260304T210000Z%2F20260305T010000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-18** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260308T000000">2026-03-08 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | EchoStar 25&location=Cape Canaveral SFS, FL, USA&dates=20260308T000000Z%2F20260308T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | EchoStar 25** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260308T105800">2026-03-08 10:58:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-31&location=Vandenberg SFB, CA, USA&dates=20260308T105800Z%2F20260308T145800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-31** from Vandenberg SFB, CA, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -89,28 +90,27 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/missions/webb/nasas-webb-examines-cranium-nebula/" >🔗</a> **[NASA]** NASA’s Webb Examines Cranium Nebula
 - <a href="https://spacenews.com/the-future-of-astronomy-is-both-on-earth-and-in-space/" >🔗</a> **[SpaceNews]** The future of astronomy is both on Earth and in space
 - <a href="https://spaceflightnow.com/2026/02/25/live-coverage-spacex-to-launch-500th-starlink-satellite-in-2026-during-wednesday-falcon-9-flight/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 500th Starlink satellite in 2026 during Wednesday Falcon 9 flight
 - <a href="https://spacenews.com/in-space-traffic-coordination-the-biggest-challenge-may-be-coordination/" >🔗</a> **[SpaceNews]** In space traffic coordination, the biggest challenge may be coordination
 - <a href="https://spacenews.com/oq-technology-secures-30-million-from-europe-for-satellite-to-smartphone-expansion/" >🔗</a> **[SpaceNews]** OQ Technology secures $30 million from Europe for satellite-to-smartphone expansion
 - <a href="https://www.spacedaily.com/reports/AAC_Clyde_Space_adds_Sedna_satellites_to_boost_maritime_data_services_999.html" >🔗</a> **[SpaceDaily]** AAC Clyde Space adds Sedna satellites to boost maritime data services
 - <a href="https://www.spacedaily.com/reports/Ganymede_aurora_study_links_moon_and_Earth_space_weather_999.html" >🔗</a> **[SpaceDaily]** Ganymede aurora study links moon and Earth space weather
+- <a href="https://www.spacedaily.com/reports/Rare_lensed_supernova_offers_new_route_to_measure_cosmic_expansion_999.html" >🔗</a> **[SpaceDaily]** Rare lensed supernova offers new route to measure cosmic expansion
 - <a href="https://www.spacedaily.com/reports/Superconducting_thruster_cuts_power_and_mass_for_space_propulsion_999.html" >🔗</a> **[SpaceDaily]** Superconducting thruster cuts power and mass for space propulsion
 - <a href="https://www.spacedaily.com/reports/AST_SpaceMobile_wins_SDA_HALO_Europa_contract_for_direct_to_device_tactical_links_999.html" >🔗</a> **[SpaceDaily]** AST SpaceMobile wins SDA HALO Europa contract for direct to device tactical links
-- <a href="https://www.spacedaily.com/reports/Rare_lensed_supernova_offers_new_route_to_measure_cosmic_expansion_999.html" >🔗</a> **[SpaceDaily]** Rare lensed supernova offers new route to measure cosmic expansion
-- <a href="https://www.spacedaily.com/reports/Seafloor_weathering_may_explain_ancient_global_glaciation_puzzle_999.html" >🔗</a> **[SpaceDaily]** Seafloor weathering may explain ancient global glaciation puzzle
 
 
 ### Launch-related News 🚀
 
-- <a href="https://spaceflightnow.com/2026/02/25/live-coverage-spacex-to-launch-500th-starlink-satellite-in-2026-during-wednesday-falcon-9-flight/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 500th Starlink satellite in 2026 during Wednesday Falcon 9 flight
 - <a href="https://www.nasaspaceflight.com/2026/02/launch-preview-022326/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9 to launch five Starlink missions, Firefly to launch Alpha
-- <a href="https://www.nasaspaceflight.com/2026/02/launch-preview-021626/" >🔗</a> **[NASASpaceflight]** Launch Preview: Firefly to launch Alpha, SpaceX to launch three Starlink missions
+- <a href="https://www.spacedaily.com/reports/Australian_hypersonic_test_flight_window_announced_999.html" >🔗</a> **[SpaceDaily]** Australian hypersonic test flight window announced
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260225T144431">2026-02-25 14:44:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260225T151626">2026-02-25 15:16:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
