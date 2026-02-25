@@ -23,10 +23,10 @@ The next space launch, retrieved from our
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
 from *<a href="None">Rocket Lab Launch Complex 2 (Launch Area 0 C)</a>, Wallops Flight Facility, Virginia, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260225T210000">2026-02-25 21:00:00 UTC</a>.  Until
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260226T210000">2026-02-26 21:00:00 UTC</a>.  Until
 then, this pad will have been used for 10
 out of 84 launches from this location. The launch status is currently
-*Go* 🟩 . The mission type is
+*TBC* 🟨 . The mission type is
 *Government/Top Secret* and the payload will be injected
 into *a Suborbital
 (Sub)*.
@@ -45,7 +45,7 @@ into *a Suborbital
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260225T210000">2026-02-25 21:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=HASTE | That&#x27;s Not A Knife (DART AE)&location=Wallops Flight Facility, Virginia, USA&dates=20260225T210000Z%2F20260226T004500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **HASTE | That's Not A Knife (DART AE)** from Wallops Flight Facility, Virginia, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260226T210000">2026-02-26 21:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=HASTE | That&#x27;s Not A Knife (DART AE)&location=Wallops Flight Facility, Virginia, USA&dates=20260226T210000Z%2F20260227T004500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **HASTE | That's Not A Knife (DART AE)** from Wallops Flight Facility, Virginia, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260227T095200">2026-02-27 09:52:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-108&location=Cape Canaveral SFS, FL, USA&dates=20260227T095200Z%2F20260227T135200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-108** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260228T000000">2026-02-28 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 7A | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20260228T000000Z%2F20260228T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 7A | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260228T005000">2026-02-28 00:50:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Firefly Alpha | Stairway to Seven&location=Vandenberg SFB, CA, USA&dates=20260228T005000Z%2F20260228T045800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Firefly Alpha | Stairway to Seven** from Vandenberg SFB, CA, USA.
@@ -90,6 +90,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/making-an-entrance/" >🔗</a> **[NASA]** Making an Entrance
 - <a href="https://spaceflightnow.com/2026/02/25/sls-rocket-hauled-back-to-vab-for-repairs/" >🔗</a> **[Spaceflight Now]** SLS rocket hauled back to VAB for repairs
 - <a href="https://spacenews.com/valve-malfunction-blamed-for-failure-of-indian-satellite-to-raise-its-orbit/" >🔗</a> **[SpaceNews]** Valve malfunction blamed for failure of Indian satellite to raise its orbit
 - <a href="https://www.nasa.gov/missions/chandra/listen-to-this-months-planetary-parade-with-nasas-chandra/" >🔗</a> **[NASA]** Listen to This Month’s ‘Planetary Parade’ With NASA’s Chandra
@@ -99,7 +100,6 @@ into *a Suborbital
 - <a href="https://spaceflightnow.com/2026/02/25/live-coverage-spacex-to-launch-500th-starlink-satellite-in-2026-during-wednesday-falcon-9-flight/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 500th Starlink satellite in 2026 during Wednesday Falcon 9 flight
 - <a href="https://spacenews.com/in-space-traffic-coordination-the-biggest-challenge-may-be-coordination/" >🔗</a> **[SpaceNews]** In space traffic coordination, the biggest challenge may be coordination
 - <a href="https://spacenews.com/oq-technology-secures-30-million-from-europe-for-satellite-to-smartphone-expansion/" >🔗</a> **[SpaceNews]** OQ Technology secures $30 million from Europe for satellite-to-smartphone expansion
-- <a href="https://www.spacedaily.com/reports/AAC_Clyde_Space_adds_Sedna_satellites_to_boost_maritime_data_services_999.html" >🔗</a> **[SpaceDaily]** AAC Clyde Space adds Sedna satellites to boost maritime data services
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260225T194519">2026-02-25 19:45:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260225T200646">2026-02-25 20:06:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
