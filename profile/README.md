@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/no-mention-of-artemis-in-sotu-but-trump-briefly-references-rockets-to-the-stars/" >🔗</a> **[SpacePolicyOnline.com]** No Mention of Artemis in SOTU, But Trump Briefly References Rockets to the Stars
+- <a href="https://science.nasa.gov/earth/earth-observatory/landslide-and-avalanche-debris-litter-hubbard-glacier/" >🔗</a> **[NASA]** Landslide and Avalanche Debris Litter Hubbard Glacier
 - <a href="https://spacenews.com/a-banner-year-for-military-space-funding-with-an-unclear-path-beyond/" >🔗</a> **[SpaceNews]** A banner year for military space funding— with an unclear path beyond
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4812-4819-back-into-the-hollows/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4812-4819: Back Into the Hollows
 - <a href="https://science.nasa.gov/get-involved/citizen-science/new-volunteer-data-from-143-observatories-unveils-the-2024-total-solar-eclipse/" >🔗</a> **[NASA]** New Volunteer Data from 143 Observatories Unveils the 2024 Total Solar Eclipse
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/lockheed-martin-presses-case-that-gps-upgrade-will-counter-jamming-threats/" >🔗</a> **[SpaceNews]** Lockheed Martin presses case that GPS upgrade will counter jamming threats
 - <a href="https://www.nasa.gov/image-article/webb-maps-uranus-upper-atmosphere/" >🔗</a> **[NASA]** Webb Maps Uranus’ Upper Atmosphere
 - <a href="https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/technology-originally-developed-for-space-missions-now-integral-to-everyday-life/" >🔗</a> **[NASA]** Technology Originally Developed for Space Missions Now Integral to Everyday Life
-- <a href="https://spacenews.com/the-commercial-space-federation-releases-new-white-paper-perfecting-public-private-partnerships/" >🔗</a> **[SpaceNews]** The Commercial Space Federation Releases New White Paper “Perfecting Public-Private Partnerships”
-- <a href="https://spacenews.com/at-colorado-space-firms-hegseth-casts-pentagon-bureaucracy-as-the-enemy/" >🔗</a> **[SpaceNews]** At Colorado space firms, Hegseth casts Pentagon bureaucracy as the enemy
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260225T043419">2026-02-25 04:34:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260225T052634">2026-02-25 05:26:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
