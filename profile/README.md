@@ -90,6 +90,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/02/25/sls-rocket-hauled-back-to-vab-for-repairs/" >🔗</a> **[Spaceflight Now]** SLS rocket hauled back to VAB for repairs
 - <a href="https://spacenews.com/valve-malfunction-blamed-for-failure-of-indian-satellite-to-raise-its-orbit/" >🔗</a> **[SpaceNews]** Valve malfunction blamed for failure of Indian satellite to raise its orbit
 - <a href="https://www.nasa.gov/missions/chandra/listen-to-this-months-planetary-parade-with-nasas-chandra/" >🔗</a> **[NASA]** Listen to This Month’s ‘Planetary Parade’ With NASA’s Chandra
 - <a href="https://www.nasa.gov/general/nasa-study-to-analyze-fermented-food-samples-from-space/" >🔗</a> **[NASA]** NASA Study to Analyze Fermented Food Samples from Space
@@ -99,7 +100,6 @@ into *a Suborbital
 - <a href="https://spacenews.com/in-space-traffic-coordination-the-biggest-challenge-may-be-coordination/" >🔗</a> **[SpaceNews]** In space traffic coordination, the biggest challenge may be coordination
 - <a href="https://spacenews.com/oq-technology-secures-30-million-from-europe-for-satellite-to-smartphone-expansion/" >🔗</a> **[SpaceNews]** OQ Technology secures $30 million from Europe for satellite-to-smartphone expansion
 - <a href="https://www.spacedaily.com/reports/AAC_Clyde_Space_adds_Sedna_satellites_to_boost_maritime_data_services_999.html" >🔗</a> **[SpaceDaily]** AAC Clyde Space adds Sedna satellites to boost maritime data services
-- <a href="https://www.spacedaily.com/reports/Ganymede_aurora_study_links_moon_and_Earth_space_weather_999.html" >🔗</a> **[SpaceDaily]** Ganymede aurora study links moon and Earth space weather
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260225T184602">2026-02-25 18:46:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260225T192031">2026-02-25 19:20:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
