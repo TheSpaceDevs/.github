@@ -90,6 +90,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/chinas-tianwen-2-probe-operating-normally-on-approach-to-asteroid/" >🔗</a> **[SpaceNews]** China’s Tianwen-2 probe operating normally on approach to asteroid
 - <a href="https://spacenews.com/bowersox-to-retire-from-nasa/" >🔗</a> **[SpaceNews]** Bowersox to retire from NASA
 - <a href="https://spacenews.com/space-force-halts-vulcan-missions-pending-investigation-into-solid-rocket-issue/" >🔗</a> **[SpaceNews]** Space Force halts Vulcan missions pending investigation into solid rocket Issue
 - <a href="https://science.nasa.gov/earth/earth-observatory/dry-season-floods-drench-northern-colombia/" >🔗</a> **[NASA]** Dry-Season Floods Drench Northern Colombia
@@ -99,7 +100,6 @@ into *a Suborbital
 - <a href="https://www.nasa.gov/image-article/making-an-entrance/" >🔗</a> **[NASA]** Making an Entrance
 - <a href="https://spaceflightnow.com/2026/02/25/sls-rocket-hauled-back-to-vab-for-repairs/" >🔗</a> **[Spaceflight Now]** SLS rocket hauled back to VAB for repairs
 - <a href="https://spacenews.com/valve-malfunction-blamed-for-failure-of-indian-satellite-to-raise-its-orbit/" >🔗</a> **[SpaceNews]** Valve malfunction blamed for failure of Indian satellite to raise its orbit
-- <a href="https://www.nasa.gov/missions/chandra/listen-to-this-months-planetary-parade-with-nasas-chandra/" >🔗</a> **[NASA]** Listen to This Month’s ‘Planetary Parade’ With NASA’s Chandra
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260226T111317">2026-02-26 11:13:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260226T114247">2026-02-26 11:42:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
