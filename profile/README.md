@@ -90,6 +90,8 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-names-acting-leaders-for-two-key-human-spaceflight-roles/" >🔗</a> **[NASA]** NASA Names Acting Leaders for Two Key Human Spaceflight Roles
+- <a href="https://arstechnica.com/space/2026/02/a-non-public-document-reveals-that-science-may-not-be-prioritized-on-next-mars-mission/" >🔗</a> **[Arstechnica]** A non-public document reveals that science may not be prioritized on next Mars mission
 - <a href="https://spacenews.com/nordspace-founder-backs-wyvern-with-new-canada-focused-venture-arm/" >🔗</a> **[SpaceNews]** NordSpace founder backs Wyvern with new Canada-focused venture arm
 - <a href="https://spacenews.com/phantom-space-reclaims-former-vector-launch-technology/" >🔗</a> **[SpaceNews]** Phantom Space reclaims former Vector launch technology
 - <a href="https://spacenews.com/sierra-space-names-dan-jablonsky-ceo/" >🔗</a> **[SpaceNews]** Sierra Space names Dan Jablonsky CEO
@@ -98,8 +100,6 @@ into *a Suborbital
 - <a href="https://spacenews.com/chinas-tianwen-2-probe-operating-normally-on-approach-to-asteroid/" >🔗</a> **[SpaceNews]** China’s Tianwen-2 probe operating normally on approach to asteroid
 - <a href="https://spacenews.com/bowersox-to-retire-from-nasa/" >🔗</a> **[SpaceNews]** Bowersox to retire from NASA
 - <a href="https://spacenews.com/space-force-halts-vulcan-missions-pending-investigation-into-solid-rocket-issue/" >🔗</a> **[SpaceNews]** Space Force halts Vulcan missions pending investigation into solid rocket Issue
-- <a href="https://science.nasa.gov/earth/earth-observatory/dry-season-floods-drench-northern-colombia/" >🔗</a> **[NASA]** Dry-Season Floods Drench Northern Colombia
-- <a href="https://spacenews.com/seraphim-closes-second-early-stage-space-fund-above-100-million-target/" >🔗</a> **[SpaceNews]** Seraphim closes second early-stage space fund above $100 million target
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260226T144406">2026-02-26 14:44:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260226T151352">2026-02-26 15:13:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
