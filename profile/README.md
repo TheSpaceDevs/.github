@@ -19,34 +19,34 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**HASTE | That's Not A Knife (DART AE)**. It is scheduled to be launched by *Rocket Lab*
+**Falcon 9 Block 5 | Starlink Group 6-108**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="None">Rocket Lab Launch Complex 2 (Launch Area 0 C)</a>, Wallops Flight Facility, Virginia, USA*
+from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral SFS, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260226T210000">2026-02-26 21:00:00 UTC</a>.  Until
-then, this pad will have been used for 10
-out of 84 launches from this location. The launch status is currently
-*TBC* 🟨 . The mission type is
-*Government/Top Secret* and the payload will be injected
-into *a Suborbital
-(Sub)*.
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260227T095200">2026-02-27 09:52:00 UTC</a>.  Until
+then, this pad will have been used for 366
+out of 1089 launches from this location. The launch status is currently
+*Go* 🟩 . The mission type is
+*Communications* and the payload will be injected
+into *a Low Earth Orbit
+(LEO)*.
 <br>
 <blockquote>
-  Payload is a scramjet-powered hypersonic vehicle developed by by Australian company Hypersonix.
+  A batch of 29 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Rocket_Lab_Electron" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=37.833262,-75.488235" >
+  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260226T210000">2026-02-26 21:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=HASTE | That&#x27;s Not A Knife (DART AE)&location=Wallops Flight Facility, Virginia, USA&dates=20260226T210000Z%2F20260227T004500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **HASTE | That's Not A Knife (DART AE)** from Wallops Flight Facility, Virginia, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260227T095200">2026-02-27 09:52:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 6-108&location=Cape Canaveral SFS, FL, USA&dates=20260227T095200Z%2F20260227T135200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 6-108** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260227T210000">2026-02-27 21:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=HASTE | That&#x27;s Not A Knife (DART AE)&location=Wallops Flight Facility, Virginia, USA&dates=20260227T210000Z%2F20260228T004500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **HASTE | That's Not A Knife (DART AE)** from Wallops Flight Facility, Virginia, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260301T005000">2026-03-01 00:50:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Firefly Alpha | Stairway to Seven&location=Vandenberg SFB, CA, USA&dates=20260301T005000Z%2F20260301T045800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Firefly Alpha | Stairway to Seven** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260301T080000">2026-03-01 08:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-23&location=Vandenberg SFB, CA, USA&dates=20260301T080000Z%2F20260301T120000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-23** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260302T000700">2026-03-02 00:07:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-41&location=Cape Canaveral SFS, FL, USA&dates=20260302T000700Z%2F20260302T040700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-41** from Cape Canaveral SFS, FL, USA.
@@ -90,6 +90,9 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/airbus-and-leonardo-report-increased-space-revenues-for-2025/" >🔗</a> **[SpaceNews]** Airbus and Leonardo report increased space revenues for 2025
+- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-discuss-next-steps-for-artemis-campaign/" >🔗</a> **[NASA]** NASA Invites Media to Discuss Next Steps for Artemis Campaign
+- <a href="https://science.nasa.gov/science-research/heliophysics/nasas-escapade-ready-to-study-space-weather-from-earth-to-mars/" >🔗</a> **[NASA]** NASA’s ESCAPADE Ready to Study Space Weather from Earth to Mars
 - <a href="https://www.nasa.gov/news-release/nasa-names-acting-leaders-for-two-key-human-spaceflight-roles/" >🔗</a> **[NASA]** NASA Names Acting Leaders for Two Key Human Spaceflight Roles
 - <a href="https://arstechnica.com/space/2026/02/a-non-public-document-reveals-that-science-may-not-be-prioritized-on-next-mars-mission/" >🔗</a> **[Arstechnica]** A non-public document reveals that science may not be prioritized on next Mars mission
 - <a href="https://spacenews.com/nordspace-founder-backs-wyvern-with-new-canada-focused-venture-arm/" >🔗</a> **[SpaceNews]** NordSpace founder backs Wyvern with new Canada-focused venture arm
@@ -97,20 +100,16 @@ into *a Suborbital
 - <a href="https://spacenews.com/sierra-space-names-dan-jablonsky-ceo/" >🔗</a> **[SpaceNews]** Sierra Space names Dan Jablonsky CEO
 - <a href="https://spacenews.com/cesiumastro-acquires-vidrovr-to-embed-ai-in-communications-systems/" >🔗</a> **[SpaceNews]** CesiumAstro acquires Vidrovr to embed AI in communications systems
 - <a href="https://spacenews.com/nasa-astronaut-says-his-medical-issue-led-to-early-return-from-the-iss/" >🔗</a> **[SpaceNews]** NASA astronaut says his medical issue led to early return from the ISS
-- <a href="https://spacenews.com/chinas-tianwen-2-probe-operating-normally-on-approach-to-asteroid/" >🔗</a> **[SpaceNews]** China’s Tianwen-2 probe operating normally on approach to asteroid
-- <a href="https://spacenews.com/bowersox-to-retire-from-nasa/" >🔗</a> **[SpaceNews]** Bowersox to retire from NASA
-- <a href="https://spacenews.com/space-force-halts-vulcan-missions-pending-investigation-into-solid-rocket-issue/" >🔗</a> **[SpaceNews]** Space Force halts Vulcan missions pending investigation into solid rocket Issue
 
 
 ### Launch-related News 🚀
 
 - <a href="https://www.nasaspaceflight.com/2026/02/launch-preview-022326/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9 to launch five Starlink missions, Firefly to launch Alpha
-- <a href="https://www.spacedaily.com/reports/Australian_hypersonic_test_flight_window_announced_999.html" >🔗</a> **[SpaceDaily]** Australian hypersonic test flight window announced
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260226T161454">2026-02-26 16:14:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260226T164535">2026-02-26 16:45:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
