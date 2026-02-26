@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-keeps-door-open-to-future-human-presence-in-orbit/" >🔗</a> **[SpaceNews]** Space Force keeps door open to future human presence in orbit
 - <a href="https://spacenews.com/virgin-media-o2-launches-europes-first-starlink-direct-to-smartphone-service/" >🔗</a> **[SpaceNews]** Virgin Media O2 launches Europe’s first Starlink direct-to-smartphone service
 - <a href="https://science.nasa.gov/photojournal/jpl-3d-printed-part-springs-forward/" >🔗</a> **[NASA]** JPL 3D-Printed Part Springs Forward
 - <a href="https://www.nasaspaceflight.com/2026/02/vast-axiom-2026-pam/" >🔗</a> **[NASASpaceflight]** Vast and Axiom awarded new private missions to ISS, continue work on commercial space stations
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-discuss-next-steps-for-artemis-campaign/" >🔗</a> **[NASA]** NASA Invites Media to Discuss Next Steps for Artemis Campaign
 - <a href="https://science.nasa.gov/science-research/heliophysics/nasas-escapade-ready-to-study-space-weather-from-earth-to-mars/" >🔗</a> **[NASA]** NASA’s ESCAPADE Ready to Study Space Weather from Earth to Mars
 - <a href="https://www.nasa.gov/news-release/nasa-names-acting-leaders-for-two-key-human-spaceflight-roles/" >🔗</a> **[NASA]** NASA Names Acting Leaders for Two Key Human Spaceflight Roles
-- <a href="https://arstechnica.com/space/2026/02/a-non-public-document-reveals-that-science-may-not-be-prioritized-on-next-mars-mission/" >🔗</a> **[Arstechnica]** A non-public document reveals that science may not be prioritized on next Mars mission
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260226T230601">2026-02-26 23:06:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260226T234017">2026-02-26 23:40:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
