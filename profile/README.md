@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/virgin-media-o2-launches-europes-first-starlink-direct-to-smartphone-service/" >🔗</a> **[SpaceNews]** Virgin Media O2 launches Europe’s first Starlink direct-to-smartphone service
+- <a href="https://science.nasa.gov/photojournal/jpl-3d-printed-part-springs-forward/" >🔗</a> **[NASA]** JPL 3D-Printed Part Springs Forward
 - <a href="https://www.nasaspaceflight.com/2026/02/vast-axiom-2026-pam/" >🔗</a> **[NASASpaceflight]** Vast and Axiom awarded new private missions to ISS, continue work on commercial space stations
 - <a href="https://science.nasa.gov/missions/landsat/landsat-9-more-than-just-a-picture/" >🔗</a> **[NASA]** Landsat 9: More Than Just A Picture
 - <a href="https://www.nasa.gov/image-article/inside-project-hail-mary/" >🔗</a> **[NASA]** Inside Project Hail Mary
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/science-research/heliophysics/nasas-escapade-ready-to-study-space-weather-from-earth-to-mars/" >🔗</a> **[NASA]** NASA’s ESCAPADE Ready to Study Space Weather from Earth to Mars
 - <a href="https://www.nasa.gov/news-release/nasa-names-acting-leaders-for-two-key-human-spaceflight-roles/" >🔗</a> **[NASA]** NASA Names Acting Leaders for Two Key Human Spaceflight Roles
 - <a href="https://arstechnica.com/space/2026/02/a-non-public-document-reveals-that-science-may-not-be-prioritized-on-next-mars-mission/" >🔗</a> **[Arstechnica]** A non-public document reveals that science may not be prioritized on next Mars mission
-- <a href="https://spacenews.com/nordspace-founder-backs-wyvern-with-new-canada-focused-venture-arm/" >🔗</a> **[SpaceNews]** NordSpace founder backs Wyvern with new Canada-focused venture arm
-- <a href="https://spacenews.com/phantom-space-reclaims-former-vector-launch-technology/" >🔗</a> **[SpaceNews]** Phantom Space reclaims former Vector launch technology
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260226T210755">2026-02-26 21:07:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260226T214106">2026-02-26 21:41:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
