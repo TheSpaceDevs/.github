@@ -90,6 +90,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/seraphim-closes-second-early-stage-space-fund-above-100-million-target/" >🔗</a> **[SpaceNews]** Seraphim closes second early-stage space fund above $100 million target
 - <a href="https://www.nasa.gov/news-release/nasas-aerospace-safety-advisory-panel-releases-2025-annual-report/" >🔗</a> **[NASA]** NASA’s Aerospace Safety Advisory Panel Releases 2025 Annual Report
 - <a href="https://spacenews.com/golden-dome-to-require-unprecedented-coordination-between-u-s-combatant-commands/" >🔗</a> **[SpaceNews]** Golden Dome to require unprecedented coordination between U.S. combatant commands
 - <a href="https://www.nasa.gov/image-article/making-an-entrance/" >🔗</a> **[NASA]** Making an Entrance
@@ -99,7 +100,6 @@ into *a Suborbital
 - <a href="https://www.nasa.gov/general/nasa-study-to-analyze-fermented-food-samples-from-space/" >🔗</a> **[NASA]** NASA Study to Analyze Fermented Food Samples from Space
 - <a href="https://science.nasa.gov/missions/webb/nasas-webb-examines-cranium-nebula/" >🔗</a> **[NASA]** NASA’s Webb Examines Cranium Nebula
 - <a href="https://spacenews.com/the-future-of-astronomy-is-both-on-earth-and-in-space/" >🔗</a> **[SpaceNews]** The future of astronomy is both on Earth and in space
-- <a href="https://spaceflightnow.com/2026/02/25/live-coverage-spacex-to-launch-500th-starlink-satellite-in-2026-during-wednesday-falcon-9-flight/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 500th Starlink satellite in 2026 during Wednesday Falcon 9 flight
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260226T000710">2026-02-26 00:07:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260226T005049">2026-02-26 00:50:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
