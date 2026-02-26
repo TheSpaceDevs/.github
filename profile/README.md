@@ -90,6 +90,9 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/cesiumastro-acquires-vidrovr-to-embed-ai-in-communications-systems/" >🔗</a> **[SpaceNews]** CesiumAstro acquires Vidrovr to embed AI in communications systems
+- <a href="https://spacenews.com/phantom-space-reclaims-former-vector-launch-technology/" >🔗</a> **[SpaceNews]** Phantom Space reclaims former Vector launch technology
+- <a href="https://spacenews.com/sierra-space-names-dan-jablonsky-ceo/" >🔗</a> **[SpaceNews]** Sierra Space names Dan Jablonsky CEO
 - <a href="https://spacenews.com/nasa-astronaut-says-his-medical-issue-led-to-early-return-from-the-iss/" >🔗</a> **[SpaceNews]** NASA astronaut says his medical issue led to early return from the ISS
 - <a href="https://spacenews.com/chinas-tianwen-2-probe-operating-normally-on-approach-to-asteroid/" >🔗</a> **[SpaceNews]** China’s Tianwen-2 probe operating normally on approach to asteroid
 - <a href="https://spacenews.com/bowersox-to-retire-from-nasa/" >🔗</a> **[SpaceNews]** Bowersox to retire from NASA
@@ -97,9 +100,6 @@ into *a Suborbital
 - <a href="https://science.nasa.gov/earth/earth-observatory/dry-season-floods-drench-northern-colombia/" >🔗</a> **[NASA]** Dry-Season Floods Drench Northern Colombia
 - <a href="https://spacenews.com/seraphim-closes-second-early-stage-space-fund-above-100-million-target/" >🔗</a> **[SpaceNews]** Seraphim closes second early-stage space fund above $100 million target
 - <a href="https://www.nasa.gov/news-release/nasas-aerospace-safety-advisory-panel-releases-2025-annual-report/" >🔗</a> **[NASA]** NASA’s Aerospace Safety Advisory Panel Releases 2025 Annual Report
-- <a href="https://spacenews.com/golden-dome-to-require-unprecedented-coordination-between-u-s-combatant-commands/" >🔗</a> **[SpaceNews]** Golden Dome to require unprecedented coordination between U.S. combatant commands
-- <a href="https://www.nasa.gov/image-article/making-an-entrance/" >🔗</a> **[NASA]** Making an Entrance
-- <a href="https://spaceflightnow.com/2026/02/25/sls-rocket-hauled-back-to-vab-for-repairs/" >🔗</a> **[Spaceflight Now]** SLS rocket hauled back to VAB for repairs
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260226T124510">2026-02-26 12:45:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260226T132726">2026-02-26 13:27:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
