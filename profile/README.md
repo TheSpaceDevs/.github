@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/missions/landsat/landsat-9-more-than-just-a-picture/" >🔗</a> **[NASA]** Landsat 9: More Than Just A Picture
+- <a href="https://www.nasa.gov/image-article/inside-project-hail-mary/" >🔗</a> **[NASA]** Inside Project Hail Mary
 - <a href="https://spacenews.com/airbus-and-leonardo-report-increased-space-revenues-for-2025/" >🔗</a> **[SpaceNews]** Airbus and Leonardo report increased space revenues for 2025
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-discuss-next-steps-for-artemis-campaign/" >🔗</a> **[NASA]** NASA Invites Media to Discuss Next Steps for Artemis Campaign
 - <a href="https://science.nasa.gov/science-research/heliophysics/nasas-escapade-ready-to-study-space-weather-from-earth-to-mars/" >🔗</a> **[NASA]** NASA’s ESCAPADE Ready to Study Space Weather from Earth to Mars
@@ -97,9 +99,7 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2026/02/a-non-public-document-reveals-that-science-may-not-be-prioritized-on-next-mars-mission/" >🔗</a> **[Arstechnica]** A non-public document reveals that science may not be prioritized on next Mars mission
 - <a href="https://spacenews.com/nordspace-founder-backs-wyvern-with-new-canada-focused-venture-arm/" >🔗</a> **[SpaceNews]** NordSpace founder backs Wyvern with new Canada-focused venture arm
 - <a href="https://spacenews.com/phantom-space-reclaims-former-vector-launch-technology/" >🔗</a> **[SpaceNews]** Phantom Space reclaims former Vector launch technology
-- <a href="https://spacenews.com/sierra-space-names-dan-jablonsky-ceo/" >🔗</a> **[SpaceNews]** Sierra Space names Dan Jablonsky CEO
 - <a href="https://spacenews.com/cesiumastro-acquires-vidrovr-to-embed-ai-in-communications-systems/" >🔗</a> **[SpaceNews]** CesiumAstro acquires Vidrovr to embed AI in communications systems
-- <a href="https://spacenews.com/nasa-astronaut-says-his-medical-issue-led-to-early-return-from-the-iss/" >🔗</a> **[SpaceNews]** NASA astronaut says his medical issue led to early return from the ISS
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260226T174720">2026-02-26 17:47:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260226T181131">2026-02-26 18:11:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
