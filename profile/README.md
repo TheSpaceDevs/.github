@@ -90,6 +90,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-astronaut-says-his-medical-issue-led-to-early-return-from-the-iss/" >🔗</a> **[SpaceNews]** NASA astronaut says his medical issue led to early return from the ISS
 - <a href="https://spacenews.com/chinas-tianwen-2-probe-operating-normally-on-approach-to-asteroid/" >🔗</a> **[SpaceNews]** China’s Tianwen-2 probe operating normally on approach to asteroid
 - <a href="https://spacenews.com/bowersox-to-retire-from-nasa/" >🔗</a> **[SpaceNews]** Bowersox to retire from NASA
 - <a href="https://spacenews.com/space-force-halts-vulcan-missions-pending-investigation-into-solid-rocket-issue/" >🔗</a> **[SpaceNews]** Space Force halts Vulcan missions pending investigation into solid rocket Issue
@@ -99,7 +100,6 @@ into *a Suborbital
 - <a href="https://spacenews.com/golden-dome-to-require-unprecedented-coordination-between-u-s-combatant-commands/" >🔗</a> **[SpaceNews]** Golden Dome to require unprecedented coordination between U.S. combatant commands
 - <a href="https://www.nasa.gov/image-article/making-an-entrance/" >🔗</a> **[NASA]** Making an Entrance
 - <a href="https://spaceflightnow.com/2026/02/25/sls-rocket-hauled-back-to-vab-for-repairs/" >🔗</a> **[Spaceflight Now]** SLS rocket hauled back to VAB for repairs
-- <a href="https://spacenews.com/valve-malfunction-blamed-for-failure-of-indian-satellite-to-raise-its-orbit/" >🔗</a> **[SpaceNews]** Valve malfunction blamed for failure of Indian satellite to raise its orbit
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260226T120826">2026-02-26 12:08:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260226T124510">2026-02-26 12:45:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
