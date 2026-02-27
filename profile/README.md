@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/nasa-safety-panel-warns-of-high-risk-for-artemis-iii/" >🔗</a> **[SpacePolicyOnline.com]** NASA Safety Panel Warns of “High Risk” for Artemis III
 - <a href="https://spaceflightnow.com/2026/02/27/live-coverage-spacex-planning-pre-dawn-falcon-9-launch-from-cape-canaveral-of-29-starlink-satellites/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX planning pre-dawn Falcon 9 launch from Cape Canaveral of 29 Starlink satellites
 - <a href="https://spacepolicyonline.com/news/two-top-nasa-spaceflight-leaders-replaced/" >🔗</a> **[SpacePolicyOnline.com]** Two Top NASA Spaceflight Leaders Replaced
 - <a href="https://spacenews.com/space-force-keeps-door-open-to-future-human-presence-in-orbit/" >🔗</a> **[SpaceNews]** Space Force keeps door open to future human presence in orbit
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/missions/landsat/landsat-9-more-than-just-a-picture/" >🔗</a> **[NASA]** Landsat 9: More Than Just A Picture
 - <a href="https://www.nasa.gov/image-article/inside-project-hail-mary/" >🔗</a> **[NASA]** Inside Project Hail Mary
 - <a href="https://spacenews.com/airbus-and-leonardo-report-increased-space-revenues-for-2025/" >🔗</a> **[SpaceNews]** Airbus and Leonardo report increased space revenues for 2025
-- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-discuss-next-steps-for-artemis-campaign/" >🔗</a> **[NASA]** NASA Invites Media to Discuss Next Steps for Artemis Campaign
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260227T034451">2026-02-27 03:44:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260227T043044">2026-02-27 04:30:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
