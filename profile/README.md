@@ -90,6 +90,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/harnessing-the-sun-to-extract-oxygen-on-the-moon/" >🔗</a> **[NASA]** Harnessing the Sun to Extract Oxygen on the Moon
 - <a href="https://arstechnica.com/culture/2026/02/hyperion-author-dan-simmons-dies-from-stroke-at-77/" >🔗</a> **[Arstechnica]** Hyperion author Dan Simmons dies from stroke at 77
 - <a href="https://spaceflightnow.com/2026/02/27/nasa-announces-major-overhaul-of-artemis-moon-program/" >🔗</a> **[Spaceflight Now]** NASA announces major overhaul of Artemis moon program:  “We’ve got to get back to basics”
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasas-home-for-experimental-flight-advances-aeronautics-mission/" >🔗</a> **[NASA]** NASA’s Home for Experimental Flight Advances Aeronautics Mission
@@ -99,7 +100,6 @@ into *a Suborbital
 - <a href="https://arstechnica.com/staff/2026/02/nasa-shakes-up-its-artemis-program-to-speed-up-lunar-return/" >🔗</a> **[Arstechnica]** NASA shakes up its Artemis program to speed up lunar return
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/02/In-flight_call_with_ESA_astronaut_Sophie_Adenot" >🔗</a> **[ESA]** In-flight call with ESA astronaut Sophie Adenot
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_23-27_February_2026" >🔗</a> **[ESA]** Week in images: 23-27 February 2026
-- <a href="https://spacenews.com/rocket-lab-delays-neutron-debut-to-late-2026/" >🔗</a> **[SpaceNews]** Rocket Lab delays Neutron debut to late 2026
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260227T191201">2026-02-27 19:12:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260227T194036">2026-02-27 19:40:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
