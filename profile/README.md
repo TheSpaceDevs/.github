@@ -54,7 +54,7 @@ into *a Suborbital
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260304T210000">2026-03-04 21:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-18&location=Vandenberg SFB, CA, USA&dates=20260304T210000Z%2F20260305T010000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-18** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260308T000000">2026-03-08 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | EchoStar 25&location=Cape Canaveral SFS, FL, USA&dates=20260308T000000Z%2F20260308T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | EchoStar 25** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260308T105800">2026-03-08 10:58:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-31&location=Vandenberg SFB, CA, USA&dates=20260308T105800Z%2F20260308T145800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-31** from Vandenberg SFB, CA, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260319T000000">2026-03-19 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/no.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Spectrum | Onward and Upward&location=Andøya Spaceport&dates=20260319T000000Z%2F20260319T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Spectrum | Onward and Upward** from Andøya Spaceport.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260312T023700">2026-03-12 02:37:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-24&location=Vandenberg SFB, CA, USA&dates=20260312T023700Z%2F20260312T063700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-24** from Vandenberg SFB, CA, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,6 +90,8 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/02/27/nasa-announces-major-overhaul-of-artemis-moon-program/" >🔗</a> **[Spaceflight Now]** NASA announces major overhaul of Artemis moon program:  “We’ve got to get back to basics”
+- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasas-home-for-experimental-flight-advances-aeronautics-mission/" >🔗</a> **[NASA]** NASA’s Home for Experimental Flight Advances Aeronautics Mission
 - <a href="https://www.nasaspaceflight.com/2026/02/ship-39-masseys-testing/" >🔗</a> **[NASASpaceflight]** Flight 12: Ship 39 rolls out to Masseys to begin testing
 - <a href="https://www.nasa.gov/news-release/nasa-adds-mission-to-artemis-lunar-program-updates-architecture/" >🔗</a> **[NASA]** NASA Adds Mission to Artemis Lunar Program, Updates Architecture
 - <a href="https://spacenews.com/nasa-revises-plans-for-future-artemis-missions-cancels-upgrades-to-sls/" >🔗</a> **[SpaceNews]** NASA revises plans for future Artemis missions, cancels upgrades to SLS
@@ -98,8 +100,6 @@ into *a Suborbital
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_23-27_February_2026" >🔗</a> **[ESA]** Week in images: 23-27 February 2026
 - <a href="https://spacenews.com/rocket-lab-delays-neutron-debut-to-late-2026/" >🔗</a> **[SpaceNews]** Rocket Lab delays Neutron debut to late 2026
 - <a href="https://arstechnica.com/space/2026/02/rocket-report-neutron-launch-date-is-delayed-again-vector-launch-is-back-sort-of/" >🔗</a> **[Arstechnica]** Rocket Report: Neutron launch date is delayed again; Vector Launch is back—sort of
-- <a href="https://spacenews.com/china-set-for-its-first-one-year-human-spaceflight-mission-confirms-pakistani-astronaut-flight/" >🔗</a> **[SpaceNews]** China set for its first one-year human spaceflight mission, confirms Pakistani astronaut flight
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/02/Earth_from_Space_Terra_Nova_Bay_Antarctica" >🔗</a> **[ESA]** Earth from Space: Terra Nova Bay, Antarctica
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260227T170849">2026-02-27 17:08:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260227T174217">2026-02-27 17:42:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
