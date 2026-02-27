@@ -90,6 +90,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_23-27_February_2026" >🔗</a> **[ESA]** Week in images: 23-27 February 2026
 - <a href="https://spacenews.com/rocket-lab-delays-neutron-debut-to-late-2026/" >🔗</a> **[SpaceNews]** Rocket Lab delays Neutron debut to late 2026
 - <a href="https://arstechnica.com/space/2026/02/rocket-report-neutron-launch-date-is-delayed-again-vector-launch-is-back-sort-of/" >🔗</a> **[Arstechnica]** Rocket Report: Neutron launch date is delayed again; Vector Launch is back—sort of
 - <a href="https://spacenews.com/china-set-for-its-first-one-year-human-spaceflight-mission-confirms-pakistani-astronaut-flight/" >🔗</a> **[SpaceNews]** China set for its first one-year human spaceflight mission, confirms Pakistani astronaut flight
@@ -99,7 +100,6 @@ into *a Suborbital
 - <a href="https://spacepolicyonline.com/news/nasa-safety-panel-warns-of-high-risk-for-artemis-iii/" >🔗</a> **[SpacePolicyOnline.com]** NASA Safety Panel Warns of “High Risk” for Artemis III
 - <a href="https://spaceflightnow.com/2026/02/27/live-coverage-spacex-planning-pre-dawn-falcon-9-launch-from-cape-canaveral-of-29-starlink-satellites/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX planning pre-dawn Falcon 9 launch from Cape Canaveral of 29 Starlink satellites
 - <a href="https://spacepolicyonline.com/news/two-top-nasa-spaceflight-leaders-replaced/" >🔗</a> **[SpacePolicyOnline.com]** Two Top NASA Spaceflight Leaders Replaced
-- <a href="https://spacenews.com/space-force-keeps-door-open-to-future-human-presence-in-orbit/" >🔗</a> **[SpaceNews]** Space Force keeps door open to future human presence in orbit
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260227T134723">2026-02-27 13:47:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260227T141126">2026-02-27 14:11:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
