@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/earth-observatory/chesapeake-bay-locked-in-ice/" >🔗</a> **[NASA]** Chesapeake Bay Locked in Ice
 - <a href="https://spacepolicyonline.com/news/nasa-safety-panel-warns-of-high-risk-for-artemis-iii/" >🔗</a> **[SpacePolicyOnline.com]** NASA Safety Panel Warns of “High Risk” for Artemis III
 - <a href="https://spaceflightnow.com/2026/02/27/live-coverage-spacex-planning-pre-dawn-falcon-9-launch-from-cape-canaveral-of-29-starlink-satellites/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX planning pre-dawn Falcon 9 launch from Cape Canaveral of 29 Starlink satellites
 - <a href="https://spacepolicyonline.com/news/two-top-nasa-spaceflight-leaders-replaced/" >🔗</a> **[SpacePolicyOnline.com]** Two Top NASA Spaceflight Leaders Replaced
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2026/02/vast-axiom-2026-pam/" >🔗</a> **[NASASpaceflight]** Vast and Axiom awarded new private missions to ISS, continue work on commercial space stations
 - <a href="https://science.nasa.gov/missions/landsat/landsat-9-more-than-just-a-picture/" >🔗</a> **[NASA]** Landsat 9: More Than Just A Picture
 - <a href="https://www.nasa.gov/image-article/inside-project-hail-mary/" >🔗</a> **[NASA]** Inside Project Hail Mary
-- <a href="https://spacenews.com/airbus-and-leonardo-report-increased-space-revenues-for-2025/" >🔗</a> **[SpaceNews]** Airbus and Leonardo report increased space revenues for 2025
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260227T043044">2026-02-27 04:30:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260227T052052">2026-02-27 05:20:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
