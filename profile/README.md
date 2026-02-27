@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/02/Earth_from_Space_Terra_Nova_Bay_Antarctica" >🔗</a> **[ESA]** Earth from Space: Terra Nova Bay, Antarctica
 - <a href="https://europeanspaceflight.com/arianegroup-test-fires-greta-engine-and-secures-new-esa-contract/" >🔗</a> **[European Spaceflight]** ArianeGroup Test Fires Greta Engine and Secures New ESA Contract
 - <a href="https://science.nasa.gov/earth/earth-observatory/chesapeake-bay-locked-in-ice/" >🔗</a> **[NASA]** Chesapeake Bay Locked in Ice
 - <a href="https://spacepolicyonline.com/news/nasa-safety-panel-warns-of-high-risk-for-artemis-iii/" >🔗</a> **[SpacePolicyOnline.com]** NASA Safety Panel Warns of “High Risk” for Artemis III
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/virgin-media-o2-launches-europes-first-starlink-direct-to-smartphone-service/" >🔗</a> **[SpaceNews]** Virgin Media O2 launches Europe’s first Starlink direct-to-smartphone service
 - <a href="https://science.nasa.gov/photojournal/jpl-3d-printed-part-springs-forward/" >🔗</a> **[NASA]** JPL 3D-Printed Part Springs Forward
 - <a href="https://www.nasaspaceflight.com/2026/02/vast-axiom-2026-pam/" >🔗</a> **[NASASpaceflight]** Vast and Axiom awarded new private missions to ISS, continue work on commercial space stations
-- <a href="https://science.nasa.gov/missions/landsat/landsat-9-more-than-just-a-picture/" >🔗</a> **[NASA]** Landsat 9: More Than Just A Picture
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260227T091111">2026-02-27 09:11:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260227T094321">2026-02-27 09:43:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
