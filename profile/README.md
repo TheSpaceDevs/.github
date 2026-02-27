@@ -90,6 +90,9 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-adds-mission-to-artemis-lunar-program-updates-architecture/" >🔗</a> **[NASA]** NASA Adds Mission to Artemis Lunar Program, Updates Architecture
+- <a href="https://spacenews.com/nasa-revises-plans-for-future-artemis-missions-cancels-upgrades-to-sls/" >🔗</a> **[SpaceNews]** NASA revises plans for future Artemis missions, cancels upgrades to SLS
+- <a href="https://arstechnica.com/staff/2026/02/nasa-shakes-up-its-artemis-program-to-speed-up-lunar-return/" >🔗</a> **[Arstechnica]** NASA shakes up its Artemis program to speed up lunar return
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_23-27_February_2026" >🔗</a> **[ESA]** Week in images: 23-27 February 2026
 - <a href="https://spacenews.com/rocket-lab-delays-neutron-debut-to-late-2026/" >🔗</a> **[SpaceNews]** Rocket Lab delays Neutron debut to late 2026
 - <a href="https://arstechnica.com/space/2026/02/rocket-report-neutron-launch-date-is-delayed-again-vector-launch-is-back-sort-of/" >🔗</a> **[Arstechnica]** Rocket Report: Neutron launch date is delayed again; Vector Launch is back—sort of
@@ -97,9 +100,6 @@ into *a Suborbital
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/02/Earth_from_Space_Terra_Nova_Bay_Antarctica" >🔗</a> **[ESA]** Earth from Space: Terra Nova Bay, Antarctica
 - <a href="https://europeanspaceflight.com/arianegroup-test-fires-greta-engine-and-secures-new-esa-contract/" >🔗</a> **[European Spaceflight]** ArianeGroup Test Fires Greta Engine and Secures New ESA Contract
 - <a href="https://science.nasa.gov/earth/earth-observatory/chesapeake-bay-locked-in-ice/" >🔗</a> **[NASA]** Chesapeake Bay Locked in Ice
-- <a href="https://spacepolicyonline.com/news/nasa-safety-panel-warns-of-high-risk-for-artemis-iii/" >🔗</a> **[SpacePolicyOnline.com]** NASA Safety Panel Warns of “High Risk” for Artemis III
-- <a href="https://spaceflightnow.com/2026/02/27/live-coverage-spacex-planning-pre-dawn-falcon-9-launch-from-cape-canaveral-of-29-starlink-satellites/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX planning pre-dawn Falcon 9 launch from Cape Canaveral of 29 Starlink satellites
-- <a href="https://spacepolicyonline.com/news/two-top-nasa-spaceflight-leaders-replaced/" >🔗</a> **[SpacePolicyOnline.com]** Two Top NASA Spaceflight Leaders Replaced
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260227T151113">2026-02-27 15:11:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260227T154236">2026-02-27 15:42:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
