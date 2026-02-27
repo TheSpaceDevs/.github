@@ -89,6 +89,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-set-for-its-first-one-year-human-spaceflight-mission-confirms-pakistani-astronaut-flight/" >🔗</a> **[SpaceNews]** China set for its first one-year human spaceflight mission, confirms Pakistani astronaut flight
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/02/Earth_from_Space_Terra_Nova_Bay_Antarctica" >🔗</a> **[ESA]** Earth from Space: Terra Nova Bay, Antarctica
 - <a href="https://europeanspaceflight.com/arianegroup-test-fires-greta-engine-and-secures-new-esa-contract/" >🔗</a> **[European Spaceflight]** ArianeGroup Test Fires Greta Engine and Secures New ESA Contract
 - <a href="https://science.nasa.gov/earth/earth-observatory/chesapeake-bay-locked-in-ice/" >🔗</a> **[NASA]** Chesapeake Bay Locked in Ice
@@ -98,7 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/space-force-keeps-door-open-to-future-human-presence-in-orbit/" >🔗</a> **[SpaceNews]** Space Force keeps door open to future human presence in orbit
 - <a href="https://spacenews.com/virgin-media-o2-launches-europes-first-starlink-direct-to-smartphone-service/" >🔗</a> **[SpaceNews]** Virgin Media O2 launches Europe’s first Starlink direct-to-smartphone service
 - <a href="https://science.nasa.gov/photojournal/jpl-3d-printed-part-springs-forward/" >🔗</a> **[NASA]** JPL 3D-Printed Part Springs Forward
-- <a href="https://www.nasaspaceflight.com/2026/02/vast-axiom-2026-pam/" >🔗</a> **[NASASpaceflight]** Vast and Axiom awarded new private missions to ISS, continue work on commercial space stations
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260227T100943">2026-02-27 10:09:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260227T104254">2026-02-27 10:42:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
