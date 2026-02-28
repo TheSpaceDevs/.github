@@ -98,6 +98,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacescout.info/2026/02/rocket-lab-showcases-hypersonic-test-flight/" >🔗</a> **[Space Scout]** Rocket Lab Showcases Hypersonic Test Flight
 - <a href="https://spacenews.com/nasa-on-aggressive-schedule-to-complete-sls-repairs-for-april-launch/" >🔗</a> **[SpaceNews]** NASA on ‘aggressive’ schedule to complete SLS repairs for April launch
 - <a href="https://www.nasaspaceflight.com/2026/02/firefly-flta007-launch/" >🔗</a> **[NASASpaceflight]** Firefly Alpha FLTA007 “Stairway to Seven” set for launch from California coast
 - <a href="https://spacepolicyonline.com/news/nasa-makes-a-course-correction-for-the-artemis-program/" >🔗</a> **[SpacePolicyOnline.com]** NASA Makes a “Course Correction” for the Artemis Program
@@ -107,7 +108,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spaceflightnow.com/2026/02/27/nasa-announces-major-overhaul-of-artemis-moon-program/" >🔗</a> **[Spaceflight Now]** NASA announces major overhaul of Artemis moon program:  “We’ve got to get back to basics”
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasas-home-for-experimental-flight-advances-aeronautics-mission/" >🔗</a> **[NASA]** NASA’s Home for Experimental Flight Advances Aeronautics Mission
 - <a href="https://www.nasaspaceflight.com/2026/02/ship-39-masseys-testing/" >🔗</a> **[NASASpaceflight]** Flight 12: Ship 39 rolls out to Masseys to begin testing
-- <a href="https://www.nasa.gov/news-release/nasa-adds-mission-to-artemis-lunar-program-updates-architecture/" >🔗</a> **[NASA]** NASA Adds Mission to Artemis Lunar Program, Updates Architecture
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260228T200148">2026-02-28 20:01:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260228T203724">2026-02-28 20:37:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
