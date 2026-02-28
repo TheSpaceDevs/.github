@@ -106,6 +106,7 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 
 ### Launch-related News 🚀
 
+- <a href="https://www.spacescout.info/2026/02/firefly-eyes-late-february-for-return-to-flight/" >🔗</a> **[Space Scout]** Firefly Eyes Late February for Return to Flight
 - <a href="https://www.nasaspaceflight.com/2026/02/launch-preview-022326/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9 to launch five Starlink missions, Firefly to launch Alpha
 - <a href="https://www.nasaspaceflight.com/2026/02/launch-preview-021626/" >🔗</a> **[NASASpaceflight]** Launch Preview: Firefly to launch Alpha, SpaceX to launch three Starlink missions
 - <a href="https://arstechnica.com/space/2026/02/rocket-report-say-cheerio-to-orbex-china-is-getting-good-at-booster-landings/" >🔗</a> **[Arstechnica]** Rocket Report: Say cheerio to Orbex; China is getting good at booster landings
@@ -114,7 +115,7 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260228T080205">2026-02-28 08:02:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260228T084028">2026-02-28 08:40:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
