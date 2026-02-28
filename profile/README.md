@@ -92,6 +92,7 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/02/firefly-flta007-launch/" >🔗</a> **[NASASpaceflight]** Firefly Alpha FLTA007 “Stairway to Seven” set for launch from California coast
 - <a href="https://spacepolicyonline.com/news/nasa-makes-a-course-correction-for-the-artemis-program/" >🔗</a> **[SpacePolicyOnline.com]** NASA Makes a “Course Correction” for the Artemis Program
 - <a href="https://www.spacescout.info/2026/02/firefly-eyes-late-february-for-return-to-flight/" >🔗</a> **[Space Scout]** Firefly Eyes Late February for Return to Flight
 - <a href="https://www.nasa.gov/image-article/harnessing-the-sun-to-extract-oxygen-on-the-moon/" >🔗</a> **[NASA]** Harnessing the Sun to Extract Oxygen on the Moon
@@ -101,7 +102,6 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 - <a href="https://www.nasaspaceflight.com/2026/02/ship-39-masseys-testing/" >🔗</a> **[NASASpaceflight]** Flight 12: Ship 39 rolls out to Masseys to begin testing
 - <a href="https://www.nasa.gov/news-release/nasa-adds-mission-to-artemis-lunar-program-updates-architecture/" >🔗</a> **[NASA]** NASA Adds Mission to Artemis Lunar Program, Updates Architecture
 - <a href="https://spacenews.com/nasa-revises-plans-for-future-artemis-missions-cancels-upgrades-to-sls/" >🔗</a> **[SpaceNews]** NASA revises plans for future Artemis missions, cancels upgrades to SLS
-- <a href="https://arstechnica.com/staff/2026/02/nasa-shakes-up-its-artemis-program-to-speed-up-lunar-return/" >🔗</a> **[Arstechnica]** NASA shakes up its Artemis program to speed up lunar return
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260228T140142">2026-02-28 14:01:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260228T143649">2026-02-28 14:36:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
