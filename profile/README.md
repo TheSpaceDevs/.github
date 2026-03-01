@@ -89,6 +89,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/cas-space-to-launch-kinetica-2-in-late-march-carrying-prototype-cargo-spacecraft/" >🔗</a> **[SpaceNews]** CAS Space to launch Kinetica-2 in late March carrying prototype cargo spacecraft
 - <a href="https://spaceflightnow.com/2026/03/01/live-coverage-spacex-to-launch-25-starlink-satellites-from-the-west-coast/" >🔗</a> **[Spaceflight Now]** Live Coverage: SpaceX to launch 25 Starlink Satellites from the West Coast
 - <a href="https://spacenews.com/intuitive-machines-raises-175-million-in-stock-sale/" >🔗</a> **[SpaceNews]** Intuitive Machines raises $175 million in stock sale
 - <a href="https://www.spacescout.info/2026/02/rocket-lab-showcases-hypersonic-test-flight/" >🔗</a> **[Space Scout]** Rocket Lab Showcases Hypersonic Test Flight
@@ -98,7 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://www.spacescout.info/2026/02/firefly-eyes-late-february-for-return-to-flight/" >🔗</a> **[Space Scout]** Firefly Eyes Late February for Return to Flight
 - <a href="https://www.nasa.gov/image-article/harnessing-the-sun-to-extract-oxygen-on-the-moon/" >🔗</a> **[NASA]** Harnessing the Sun to Extract Oxygen on the Moon
 - <a href="https://arstechnica.com/culture/2026/02/hyperion-author-dan-simmons-dies-from-stroke-at-77/" >🔗</a> **[Arstechnica]** Hyperion author Dan Simmons dies from stroke at 77
-- <a href="https://spaceflightnow.com/2026/02/27/nasa-announces-major-overhaul-of-artemis-moon-program/" >🔗</a> **[Spaceflight Now]** NASA announces major overhaul of Artemis moon program:  “We’ve got to get back to basics”
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260301T090344">2026-03-01 09:03:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260301T094006">2026-03-01 09:40:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
