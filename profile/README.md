@@ -47,8 +47,6 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260302T005000">2026-03-02 00:50:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Firefly Alpha | Stairway to Seven&location=Vandenberg SFB, CA, USA&dates=20260302T005000Z%2F20260302T025000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Firefly Alpha | Stairway to Seven** from Vandenberg SFB, CA, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260302T000700">2026-03-02 00:07:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-41&location=Cape Canaveral SFS, FL, USA&dates=20260302T000700Z%2F20260302T040700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-41** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260304T020000">2026-03-04 02:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=KAIROS | Flight 3&location=Spaceport Kii, Japan&dates=20260304T020000Z%2F20260304T022000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **KAIROS | Flight 3** from Spaceport Kii, Japan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260304T065800">2026-03-04 06:58:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-40&location=Cape Canaveral SFS, FL, USA&dates=20260304T065800Z%2F20260304T105800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-40** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260304T210000">2026-03-04 21:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-18&location=Vandenberg SFB, CA, USA&dates=20260304T210000Z%2F20260305T010000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-18** from Vandenberg SFB, CA, USA.
@@ -92,16 +90,16 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-outlines-objectives-for-mars-communications-orbiter/" >🔗</a> **[SpaceNews]** NASA outlines objectives for Mars communications orbiter
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-march-1-7-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy March 1-7, 2026
 - <a href="https://europeanspaceflight.com/shareholder-advisory-firms-disagree-on-avio-bylaw-amendments/" >🔗</a> **[European Spaceflight]** Shareholder Advisory Firms Disagree on Avio Bylaw Amendments
 - <a href="https://spacenews.com/space-force-opens-secretive-space-tracking-to-commercial-firms/" >🔗</a> **[SpaceNews]** Space Force opens secretive space tracking to commercial firms
 - <a href="https://spaceflightnow.com/2026/03/01/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-9/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral
-- <a href="https://www.spacedaily.com/reports/NASA_rolls_Moon_rocket_off_launchpad_for_repairs_999.html" >🔗</a> **[SpaceDaily]** NASA rolls Moon rocket off launchpad for repairs
 - <a href="https://www.spacedaily.com/reports/NASA_announces_overhaul_of_Artemis_lunar_program_amid_technical_delays_999.html" >🔗</a> **[SpaceDaily]** NASA announces overhaul of Artemis lunar program amid technical delays
+- <a href="https://www.spacedaily.com/reports/NASA_rolls_Moon_rocket_off_launchpad_for_repairs_999.html" >🔗</a> **[SpaceDaily]** NASA rolls Moon rocket off launchpad for repairs
 - <a href="https://www.spacedaily.com/reports/NASA_astronaut_who_required_evacuation_from_ISS_doing_very_well_999.html" >🔗</a> **[SpaceDaily]** NASA astronaut who required evacuation from ISS 'doing very well'
 - <a href="https://spacenews.com/cas-space-to-launch-kinetica-2-in-late-march-carrying-prototype-cargo-spacecraft/" >🔗</a> **[SpaceNews]** CAS Space to launch Kinetica-2 in late March carrying prototype cargo spacecraft
 - <a href="https://spaceflightnow.com/2026/03/01/live-coverage-spacex-to-launch-25-starlink-satellites-from-the-west-coast/" >🔗</a> **[Spaceflight Now]** Live Coverage: SpaceX to launch 25 Starlink Satellites from the West Coast
-- <a href="https://spacenews.com/intuitive-machines-raises-175-million-in-stock-sale/" >🔗</a> **[SpaceNews]** Intuitive Machines raises $175 million in stock sale
 
 
 ### Launch-related News 🚀
@@ -116,7 +114,7 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260302T000630">2026-03-02 00:06:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260302T005252">2026-03-02 00:52:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
