@@ -98,6 +98,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/kelli-kedis-ogborn-joining-commercial-space-federation-as-strategic-advisor-for-global-markets-and-industry-engagement/" >🔗</a> **[SpaceNews]** Kelli Kedis Ogborn Joining Commercial Space Federation as Strategic Advisor for Global Markets and Industry Engagement
 - <a href="https://science.nasa.gov/science-research/biological-physical-sciences/collaborating-through-data-inside-the-psi-users-group/" >🔗</a> **[NASA]** Collaborating Through Data: Inside the PSI Users Group
 - <a href="https://www.nasa.gov/image-article/sunglint-on-atlantic-ocean/" >🔗</a> **[NASA]** Sunglint on Atlantic Ocean
 - <a href="https://www.nasa.gov/news-release/nasa-jaxa-to-cover-htv-x1-spacecraft-departure-from-space-station/" >🔗</a> **[NASA]** NASA, JAXA to Cover HTV-X1 Spacecraft Departure from Space Station
@@ -107,7 +108,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://arstechnica.com/space/2026/03/former-nasa-chief-turned-ula-lobbyist-seeks-law-to-limit-spacex-funding/" >🔗</a> **[Arstechnica]** Former NASA chief turned ULA lobbyist seeks law to limit SpaceX funding
 - <a href="https://spacenews.com/world-space-week-2025-set-record-with-50000-events-in-102-countries/" >🔗</a> **[SpaceNews]** World Space Week 2025 Set Record With 50,000 Events in 102 Countries
 - <a href="https://spacenews.com/space-force-rethinks-satellite-ground-station-strategy/" >🔗</a> **[SpaceNews]** Space Force rethinks satellite ground station strategy
-- <a href="https://spacenews.com/open-cosmos-unveils-vision-for-imagery-linked-sovereign-satellite-connectivity/" >🔗</a> **[SpaceNews]** Open Cosmos unveils vision for imagery-linked sovereign satellite connectivity
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260302T200513">2026-03-02 20:05:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260302T204232">2026-03-02 20:42:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
