@@ -92,6 +92,7 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/stargazing-into-the-future-of-ssa/" >🔗</a> **[SpaceNews]** Stargazing into the future of SSA
 - <a href="https://spacenews.com/pentagon-details-cyber-space-first-mover-role-in-iran-operations/" >🔗</a> **[SpaceNews]** Pentagon details cyber, space ‘first mover’ role in Iran operations
 - <a href="https://spacenews.com/hardware-is-no-longer-the-problem-holding-back-space-based-data-centers-the-supply-chain-is/" >🔗</a> **[SpaceNews]** Hardware is no longer the problem holding back space-based data centers — the supply chain is
 - <a href="https://arstechnica.com/space/2026/03/former-nasa-chief-turned-ula-lobbyist-seeks-law-to-limit-spacex-funding/" >🔗</a> **[Arstechnica]** Former NASA chief turned ULA lobbyist seeks law to limit SpaceX funding
@@ -101,7 +102,6 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 - <a href="https://spacenews.com/esa-announces-100-million-euro-satellite-mobile-convergence-initiative/" >🔗</a> **[SpaceNews]** ESA announces 100 million euro satellite-mobile convergence initiative
 - <a href="https://science.nasa.gov/earth/earth-observatory/scoria-cones-on-earth-and-mars/" >🔗</a> **[NASA]** Scoria Cones on Earth and Mars
 - <a href="https://spacenews.com/nasa-outlines-objectives-for-mars-communications-orbiter/" >🔗</a> **[SpaceNews]** NASA outlines objectives for Mars communications orbiter
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-march-1-7-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy March 1-7, 2026
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260302T160803">2026-03-02 16:08:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260302T164403">2026-03-02 16:44:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
