@@ -92,6 +92,7 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-rethinks-satellite-ground-station-strategy/" >🔗</a> **[SpaceNews]** Space Force rethinks satellite ground station strategy
 - <a href="https://spacenews.com/open-cosmos-unveils-vision-for-imagery-linked-sovereign-satellite-connectivity/" >🔗</a> **[SpaceNews]** Open Cosmos unveils vision for imagery-linked sovereign satellite connectivity
 - <a href="https://spacenews.com/esa-announces-100-million-euro-satellite-mobile-convergence-initiative/" >🔗</a> **[SpaceNews]** ESA announces 100 million euro satellite-mobile convergence initiative
 - <a href="https://spacenews.com/nasa-outlines-objectives-for-mars-communications-orbiter/" >🔗</a> **[SpaceNews]** NASA outlines objectives for Mars communications orbiter
@@ -101,7 +102,6 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 - <a href="https://spaceflightnow.com/2026/03/01/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-9/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://www.spacedaily.com/reports/NASA_rolls_Moon_rocket_off_launchpad_for_repairs_999.html" >🔗</a> **[SpaceDaily]** NASA rolls Moon rocket off launchpad for repairs
 - <a href="https://www.spacedaily.com/reports/NASA_astronaut_who_required_evacuation_from_ISS_doing_very_well_999.html" >🔗</a> **[SpaceDaily]** NASA astronaut who required evacuation from ISS 'doing very well'
-- <a href="https://www.spacedaily.com/reports/NASA_announces_overhaul_of_Artemis_lunar_program_amid_technical_delays_999.html" >🔗</a> **[SpaceDaily]** NASA announces overhaul of Artemis lunar program amid technical delays
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260302T120450">2026-03-02 12:04:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260302T124500">2026-03-02 12:45:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
