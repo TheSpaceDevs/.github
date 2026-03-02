@@ -92,6 +92,7 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/open-cosmos-unveils-vision-for-imagery-linked-sovereign-satellite-connectivity/" >🔗</a> **[SpaceNews]** Open Cosmos unveils vision for imagery-linked sovereign satellite connectivity
 - <a href="https://spacenews.com/esa-announces-100-million-euro-satellite-mobile-convergence-initiative/" >🔗</a> **[SpaceNews]** ESA announces 100 million euro satellite-mobile convergence initiative
 - <a href="https://spacenews.com/nasa-outlines-objectives-for-mars-communications-orbiter/" >🔗</a> **[SpaceNews]** NASA outlines objectives for Mars communications orbiter
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-march-1-7-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy March 1-7, 2026
@@ -101,7 +102,6 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 - <a href="https://www.spacedaily.com/reports/NASA_rolls_Moon_rocket_off_launchpad_for_repairs_999.html" >🔗</a> **[SpaceDaily]** NASA rolls Moon rocket off launchpad for repairs
 - <a href="https://www.spacedaily.com/reports/NASA_astronaut_who_required_evacuation_from_ISS_doing_very_well_999.html" >🔗</a> **[SpaceDaily]** NASA astronaut who required evacuation from ISS 'doing very well'
 - <a href="https://www.spacedaily.com/reports/NASA_announces_overhaul_of_Artemis_lunar_program_amid_technical_delays_999.html" >🔗</a> **[SpaceDaily]** NASA announces overhaul of Artemis lunar program amid technical delays
-- <a href="https://spacenews.com/cas-space-to-launch-kinetica-2-in-late-march-carrying-prototype-cargo-spacecraft/" >🔗</a> **[SpaceNews]** CAS Space to launch Kinetica-2 in late March carrying prototype cargo spacecraft
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260302T080836">2026-03-02 08:08:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260302T084359">2026-03-02 08:43:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
