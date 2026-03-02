@@ -19,27 +19,29 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 10-41**. It is scheduled to be launched by *SpaceX*
+**Firefly Alpha | Stairway to Seven**. It is scheduled to be launched by *Firefly Aerospace*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral SFS, FL, USA*
+from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_2">Space Launch Complex 2W</a>, Vandenberg SFB, CA, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260302T000700">2026-03-02 00:07:00 UTC</a>.  Until
-then, this pad will have been used for 367
-out of 1090 launches from this location. The launch status is currently
-*Go* 🟩 . The mission type is
-*Communications* and the payload will be injected
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260303T005000">2026-03-03 00:50:00 UTC</a>.  Until
+then, this pad will have been used for 98
+out of 865 launches from this location. The launch status is currently
+*TBC* 🟨 . The mission type is
+*Test Flight* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  A batch of 29 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  Firefly Alpha's Flight 7 will be a test flight and return-To-Flight for the launch vehicle after its April 2025 launch failure. It will test and validate key systems ahead of Firefly’s Block II configuration upgrade on Flight 8 that’s designed to enhance reliability and manufacturability across the vehicle.
+
+Flight 7 will be the last flown in Alpha’s current configuration and will test multiple Block II subsystems, including the in-house avionics and thermal improvements, to gain flight heritage and validate lessons learned ahead of the full configuration upgrade on Flight 8.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+  <a href="https://en.wikipedia.org/wiki/Firefly_Alpha" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
+  <a href="https://www.google.com/maps?q=34.7556,-120.6224" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -54,6 +56,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260312T023700">2026-03-12 02:37:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-24&location=Vandenberg SFB, CA, USA&dates=20260312T023700Z%2F20260312T063700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-24** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260312T121700">2026-03-12 12:17:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-48&location=Cape Canaveral SFS, FL, USA&dates=20260312T121700Z%2F20260312T161700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-48** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260319T000000">2026-03-19 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/no.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Spectrum | Onward and Upward&location=Andøya Spaceport&dates=20260319T000000Z%2F20260319T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Spectrum | Onward and Upward** from Andøya Spaceport.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260322T115900">2026-03-22 11:59:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Progress MS-33 (94P)&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20260322T115900Z%2F20260322T115900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Progress MS-33 (94P)** from Baikonur Cosmodrome, Republic of Kazakhstan.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -103,13 +106,17 @@ into *a Low Earth Orbit
 
 ### Launch-related News 🚀
 
-- <a href="https://spaceflightnow.com/2026/03/01/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-9/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral
+- <a href="https://www.nasaspaceflight.com/2026/02/firefly-flta007-launch/" >🔗</a> **[NASASpaceflight]** Firefly Alpha FLTA007 “Stairway to Seven” set for launch from California coast
+- <a href="https://www.spacescout.info/2026/02/firefly-eyes-late-february-for-return-to-flight/" >🔗</a> **[Space Scout]** Firefly Eyes Late February for Return to Flight
 - <a href="https://www.nasaspaceflight.com/2026/02/launch-preview-022326/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9 to launch five Starlink missions, Firefly to launch Alpha
+- <a href="https://www.nasaspaceflight.com/2026/02/launch-preview-021626/" >🔗</a> **[NASASpaceflight]** Launch Preview: Firefly to launch Alpha, SpaceX to launch three Starlink missions
+- <a href="https://arstechnica.com/space/2026/02/rocket-report-say-cheerio-to-orbex-china-is-getting-good-at-booster-landings/" >🔗</a> **[Arstechnica]** Rocket Report: Say cheerio to Orbex; China is getting good at booster landings
+- <a href="https://www.spacedaily.com/reports/Firefly_prepares_Alpha_Flight_7_stairway_to_seven_mission_999.html" >🔗</a> **[SpaceDaily]** Firefly prepares Alpha Flight 7 stairway to seven mission
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260302T025359">2026-03-02 02:53:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260302T034459">2026-03-02 03:44:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
