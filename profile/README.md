@@ -19,35 +19,34 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Firefly Alpha | Stairway to Seven**. It is scheduled to be launched by *Firefly Aerospace*
+**Falcon 9 Block 5 | Starlink Group 10-41**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_2">Space Launch Complex 2W</a>, Vandenberg SFB, CA, USA*
+from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral SFS, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260302T005000">2026-03-02 00:50:00 UTC</a>.  Until
-then, this pad will have been used for 98
-out of 865 launches from this location. The launch status is currently
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260302T000700">2026-03-02 00:07:00 UTC</a>.  Until
+then, this pad will have been used for 367
+out of 1090 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Test Flight* and the payload will be injected
+*Communications* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  Firefly Alpha's Flight 7 will be a test flight and return-To-Flight for the launch vehicle after its April 2025 launch failure. It will test and validate key systems ahead of Firefly’s Block II configuration upgrade on Flight 8 that’s designed to enhance reliability and manufacturability across the vehicle.
-
-Flight 7 will be the last flown in Alpha’s current configuration and will test multiple Block II subsystems, including the in-house avionics and thermal improvements, to gain flight heritage and validate lessons learned ahead of the full configuration upgrade on Flight 8.
+  A batch of 29 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Firefly_Alpha" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=34.7556,-120.6224" >
+  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260304T020000">2026-03-04 02:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=KAIROS | Flight 3&location=Spaceport Kii, Japan&dates=20260304T020000Z%2F20260304T022000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **KAIROS | Flight 3** from Spaceport Kii, Japan.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260303T005000">2026-03-03 00:50:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Firefly Alpha | Stairway to Seven&location=Vandenberg SFB, CA, USA&dates=20260303T005000Z%2F20260303T025000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Firefly Alpha | Stairway to Seven** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260304T020000">2026-03-04 02:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/jp.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=KAIROS | Flight 3&location=Spaceport Kii, Japan&dates=20260304T020000Z%2F20260304T022000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **KAIROS | Flight 3** from Spaceport Kii, Japan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260304T065800">2026-03-04 06:58:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-40&location=Cape Canaveral SFS, FL, USA&dates=20260304T065800Z%2F20260304T105800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-40** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260304T210000">2026-03-04 21:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-18&location=Vandenberg SFB, CA, USA&dates=20260304T210000Z%2F20260305T010000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-18** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260308T105800">2026-03-08 10:58:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-31&location=Vandenberg SFB, CA, USA&dates=20260308T105800Z%2F20260308T145800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-31** from Vandenberg SFB, CA, USA.
@@ -104,17 +103,13 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 
 ### Launch-related News 🚀
 
-- <a href="https://www.nasaspaceflight.com/2026/02/firefly-flta007-launch/" >🔗</a> **[NASASpaceflight]** Firefly Alpha FLTA007 “Stairway to Seven” set for launch from California coast
-- <a href="https://www.spacescout.info/2026/02/firefly-eyes-late-february-for-return-to-flight/" >🔗</a> **[Space Scout]** Firefly Eyes Late February for Return to Flight
+- <a href="https://spaceflightnow.com/2026/03/01/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-9/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://www.nasaspaceflight.com/2026/02/launch-preview-022326/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9 to launch five Starlink missions, Firefly to launch Alpha
-- <a href="https://www.nasaspaceflight.com/2026/02/launch-preview-021626/" >🔗</a> **[NASASpaceflight]** Launch Preview: Firefly to launch Alpha, SpaceX to launch three Starlink missions
-- <a href="https://arstechnica.com/space/2026/02/rocket-report-say-cheerio-to-orbex-china-is-getting-good-at-booster-landings/" >🔗</a> **[Arstechnica]** Rocket Report: Say cheerio to Orbex; China is getting good at booster landings
-- <a href="https://www.spacedaily.com/reports/Firefly_prepares_Alpha_Flight_7_stairway_to_seven_mission_999.html" >🔗</a> **[SpaceDaily]** Firefly prepares Alpha Flight 7 stairway to seven mission
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260302T013033">2026-03-02 01:30:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260302T025359">2026-03-02 02:53:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
