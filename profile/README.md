@@ -98,6 +98,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/solar-system/whats-up-march-2026-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: March 2026 Skywatching Tips from NASA
 - <a href="https://spacenews.com/kelli-kedis-ogborn-joining-commercial-space-federation-as-strategic-advisor-for-global-markets-and-industry-engagement/" >🔗</a> **[SpaceNews]** Kelli Kedis Ogborn Joining Commercial Space Federation as Strategic Advisor for Global Markets and Industry Engagement
 - <a href="https://science.nasa.gov/science-research/biological-physical-sciences/collaborating-through-data-inside-the-psi-users-group/" >🔗</a> **[NASA]** Collaborating Through Data: Inside the PSI Users Group
 - <a href="https://www.nasa.gov/image-article/sunglint-on-atlantic-ocean/" >🔗</a> **[NASA]** Sunglint on Atlantic Ocean
@@ -107,7 +108,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/hardware-is-no-longer-the-problem-holding-back-space-based-data-centers-the-supply-chain-is/" >🔗</a> **[SpaceNews]** Hardware is no longer the problem holding back space-based data centers — the supply chain is
 - <a href="https://arstechnica.com/space/2026/03/former-nasa-chief-turned-ula-lobbyist-seeks-law-to-limit-spacex-funding/" >🔗</a> **[Arstechnica]** Former NASA chief turned ULA lobbyist seeks law to limit SpaceX funding
 - <a href="https://spacenews.com/world-space-week-2025-set-record-with-50000-events-in-102-countries/" >🔗</a> **[SpaceNews]** World Space Week 2025 Set Record With 50,000 Events in 102 Countries
-- <a href="https://spacenews.com/space-force-rethinks-satellite-ground-station-strategy/" >🔗</a> **[SpaceNews]** Space Force rethinks satellite ground station strategy
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260302T210707">2026-03-02 21:07:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260302T214222">2026-03-02 21:42:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
