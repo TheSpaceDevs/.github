@@ -92,6 +92,7 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/esa-announces-100-million-euro-satellite-mobile-convergence-initiative/" >🔗</a> **[SpaceNews]** ESA announces 100 million euro satellite-mobile convergence initiative
 - <a href="https://spacenews.com/nasa-outlines-objectives-for-mars-communications-orbiter/" >🔗</a> **[SpaceNews]** NASA outlines objectives for Mars communications orbiter
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-march-1-7-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy March 1-7, 2026
 - <a href="https://europeanspaceflight.com/shareholder-advisory-firms-disagree-on-avio-bylaw-amendments/" >🔗</a> **[European Spaceflight]** Shareholder Advisory Firms Disagree on Avio Bylaw Amendments
@@ -101,7 +102,6 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 - <a href="https://www.spacedaily.com/reports/NASA_astronaut_who_required_evacuation_from_ISS_doing_very_well_999.html" >🔗</a> **[SpaceDaily]** NASA astronaut who required evacuation from ISS 'doing very well'
 - <a href="https://www.spacedaily.com/reports/NASA_announces_overhaul_of_Artemis_lunar_program_amid_technical_delays_999.html" >🔗</a> **[SpaceDaily]** NASA announces overhaul of Artemis lunar program amid technical delays
 - <a href="https://spacenews.com/cas-space-to-launch-kinetica-2-in-late-march-carrying-prototype-cargo-spacecraft/" >🔗</a> **[SpaceNews]** CAS Space to launch Kinetica-2 in late March carrying prototype cargo spacecraft
-- <a href="https://spaceflightnow.com/2026/03/01/live-coverage-spacex-to-launch-25-starlink-satellites-from-the-west-coast/" >🔗</a> **[Spaceflight Now]** Live Coverage: SpaceX to launch 25 Starlink Satellites from the West Coast
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260302T074443">2026-03-02 07:44:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260302T080836">2026-03-02 08:08:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
