@@ -92,16 +92,16 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/pentagon-details-cyber-space-first-mover-role-in-iran-operations/" >🔗</a> **[SpaceNews]** Pentagon details cyber, space ‘first mover’ role in Iran operations
 - <a href="https://spacenews.com/hardware-is-no-longer-the-problem-holding-back-space-based-data-centers-the-supply-chain-is/" >🔗</a> **[SpaceNews]** Hardware is no longer the problem holding back space-based data centers — the supply chain is
 - <a href="https://arstechnica.com/space/2026/03/former-nasa-chief-turned-ula-lobbyist-seeks-law-to-limit-spacex-funding/" >🔗</a> **[Arstechnica]** Former NASA chief turned ULA lobbyist seeks law to limit SpaceX funding
 - <a href="https://spacenews.com/world-space-week-2025-set-record-with-50000-events-in-102-countries/" >🔗</a> **[SpaceNews]** World Space Week 2025 Set Record With 50,000 Events in 102 Countries
 - <a href="https://spacenews.com/space-force-rethinks-satellite-ground-station-strategy/" >🔗</a> **[SpaceNews]** Space Force rethinks satellite ground station strategy
 - <a href="https://spacenews.com/open-cosmos-unveils-vision-for-imagery-linked-sovereign-satellite-connectivity/" >🔗</a> **[SpaceNews]** Open Cosmos unveils vision for imagery-linked sovereign satellite connectivity
 - <a href="https://spacenews.com/esa-announces-100-million-euro-satellite-mobile-convergence-initiative/" >🔗</a> **[SpaceNews]** ESA announces 100 million euro satellite-mobile convergence initiative
+- <a href="https://science.nasa.gov/earth/earth-observatory/scoria-cones-on-earth-and-mars/" >🔗</a> **[NASA]** Scoria Cones on Earth and Mars
 - <a href="https://spacenews.com/nasa-outlines-objectives-for-mars-communications-orbiter/" >🔗</a> **[SpaceNews]** NASA outlines objectives for Mars communications orbiter
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-march-1-7-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy March 1-7, 2026
-- <a href="https://europeanspaceflight.com/shareholder-advisory-firms-disagree-on-avio-bylaw-amendments/" >🔗</a> **[European Spaceflight]** Shareholder Advisory Firms Disagree on Avio Bylaw Amendments
-- <a href="https://spacenews.com/space-force-opens-secretive-space-tracking-to-commercial-firms/" >🔗</a> **[SpaceNews]** Space Force opens secretive space tracking to commercial firms
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260302T144316">2026-03-02 14:43:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260302T151047">2026-03-02 15:10:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
