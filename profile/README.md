@@ -98,16 +98,16 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2026/03/as-moon-interest-heats-up-two-companies-unveil-plans-for-a-lunar-harvester/" >🔗</a> **[Arstechnica]** As Moon interest heats up, two companies unveil plans for a lunar "harvester"
 - <a href="https://science.nasa.gov/missions/hubble/two-observatories-one-cosmic-eye-hubble-and-euclid-view-cats-eye-nebula/" >🔗</a> **[NASA]** Two Observatories, One Cosmic Eye: Hubble and Euclid View Cat’s Eye Nebula
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Hubble_Euclid_zoom_into_cosmic_eye" >🔗</a> **[ESA]** Hubble & Euclid zoom into cosmic eye
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/03/Hubble_Euclid_zoom_into_cosmic_eye" >🔗</a> **[ESA]** Hubble & Euclid zoom into cosmic eye
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Hubble_Euclid_zoom_into_cosmic_eye" >🔗</a> **[ESA]** Hubble & Euclid zoom into cosmic eye
 - <a href="https://spacenews.com/redwire-unveils-new-solar-array/" >🔗</a> **[SpaceNews]** Redwire unveils new solar array
 - <a href="https://spacenews.com/spectrum-showdown/" >🔗</a> **[SpaceNews]** Spectrum showdown
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Antarctica_retreat_study_signals_future_ice_loss" >🔗</a> **[ESA]** Antarctica retreat study signals future ice loss
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Future_space_transportation/Self-repairing_spacecraft_could_change_future_missions" >🔗</a> **[ESA]** Self-repairing spacecraft could change future missions
 - <a href="https://science.nasa.gov/earth/earth-observatory/smoke-rises-over-big-cypress-national-preserve/" >🔗</a> **[NASA]** Smoke Rises Over Big Cypress National Preserve
 - <a href="https://spacenews.com/deutsche-telekom-aims-to-bring-starlink-mobile-v2-to-europe-in-2028/" >🔗</a> **[SpaceNews]** Deutsche Telekom aims to bring Starlink Mobile V2 to Europe in 2028
-- <a href="https://www.nasaspaceflight.com/2026/03/launch-preview-030226/" >🔗</a> **[NASASpaceflight]** Launch Preview: Japan to launch Kairos as Falcon 9 launches Starlink missions
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260303T144331">2026-03-03 14:43:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260303T151355">2026-03-03 15:13:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
