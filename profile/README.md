@@ -98,6 +98,9 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/missions/hubble/two-observatories-one-cosmic-eye-hubble-and-euclid-view-cats-eye-nebula/" >🔗</a> **[NASA]** Two Observatories, One Cosmic Eye: Hubble and Euclid View Cat’s Eye Nebula
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/03/Hubble_Euclid_zoom_into_cosmic_eye" >🔗</a> **[ESA]** Hubble & Euclid zoom into cosmic eye
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Hubble_Euclid_zoom_into_cosmic_eye" >🔗</a> **[ESA]** Hubble & Euclid zoom into cosmic eye
 - <a href="https://spacenews.com/redwire-unveils-new-solar-array/" >🔗</a> **[SpaceNews]** Redwire unveils new solar array
 - <a href="https://spacenews.com/spectrum-showdown/" >🔗</a> **[SpaceNews]** Spectrum showdown
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Antarctica_retreat_study_signals_future_ice_loss" >🔗</a> **[ESA]** Antarctica retreat study signals future ice loss
@@ -105,9 +108,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://science.nasa.gov/earth/earth-observatory/smoke-rises-over-big-cypress-national-preserve/" >🔗</a> **[NASA]** Smoke Rises Over Big Cypress National Preserve
 - <a href="https://spacenews.com/deutsche-telekom-aims-to-bring-starlink-mobile-v2-to-europe-in-2028/" >🔗</a> **[SpaceNews]** Deutsche Telekom aims to bring Starlink Mobile V2 to Europe in 2028
 - <a href="https://www.nasaspaceflight.com/2026/03/launch-preview-030226/" >🔗</a> **[NASASpaceflight]** Launch Preview: Japan to launch Kairos as Falcon 9 launches Starlink missions
-- <a href="https://science.nasa.gov/solar-system/whats-up-march-2026-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: March 2026 Skywatching Tips from NASA
-- <a href="https://spacenews.com/kelli-kedis-ogborn-joining-commercial-space-federation-as-strategic-advisor-for-global-markets-and-industry-engagement/" >🔗</a> **[SpaceNews]** Kelli Kedis Ogborn Joining Commercial Space Federation as Strategic Advisor for Global Markets and Industry Engagement
-- <a href="https://science.nasa.gov/science-research/biological-physical-sciences/collaborating-through-data-inside-the-psi-users-group/" >🔗</a> **[NASA]** Collaborating Through Data: Inside the PSI Users Group
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260303T134711">2026-03-03 13:47:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260303T141236">2026-03-03 14:12:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
