@@ -98,6 +98,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/when-space-is-hot-washington-holds-a-match/" >🔗</a> **[SpaceNews]** When space is hot, Washington holds a match
 - <a href="https://arstechnica.com/space/2026/03/as-moon-interest-heats-up-two-companies-unveil-plans-for-a-lunar-harvester/" >🔗</a> **[Arstechnica]** As Moon interest heats up, two companies unveil plans for a lunar "harvester"
 - <a href="https://science.nasa.gov/missions/hubble/two-observatories-one-cosmic-eye-hubble-and-euclid-view-cats-eye-nebula/" >🔗</a> **[NASA]** Two Observatories, One Cosmic Eye: Hubble and Euclid View Cat’s Eye Nebula
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/03/Hubble_Euclid_zoom_into_cosmic_eye" >🔗</a> **[ESA]** Hubble & Euclid zoom into cosmic eye
@@ -107,7 +108,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Antarctica_retreat_study_signals_future_ice_loss" >🔗</a> **[ESA]** Antarctica retreat study signals future ice loss
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Future_space_transportation/Self-repairing_spacecraft_could_change_future_missions" >🔗</a> **[ESA]** Self-repairing spacecraft could change future missions
 - <a href="https://science.nasa.gov/earth/earth-observatory/smoke-rises-over-big-cypress-national-preserve/" >🔗</a> **[NASA]** Smoke Rises Over Big Cypress National Preserve
-- <a href="https://spacenews.com/deutsche-telekom-aims-to-bring-starlink-mobile-v2-to-europe-in-2028/" >🔗</a> **[SpaceNews]** Deutsche Telekom aims to bring Starlink Mobile V2 to Europe in 2028
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260303T161120">2026-03-03 16:11:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260303T164409">2026-03-03 16:44:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
