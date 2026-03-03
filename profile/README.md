@@ -98,6 +98,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spectrum-showdown/" >🔗</a> **[SpaceNews]** Spectrum showdown
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Antarctica_retreat_study_signals_future_ice_loss" >🔗</a> **[ESA]** Antarctica retreat study signals future ice loss
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Future_space_transportation/Self-repairing_spacecraft_could_change_future_missions" >🔗</a> **[ESA]** Self-repairing spacecraft could change future missions
 - <a href="https://science.nasa.gov/earth/earth-observatory/smoke-rises-over-big-cypress-national-preserve/" >🔗</a> **[NASA]** Smoke Rises Over Big Cypress National Preserve
@@ -107,7 +108,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/kelli-kedis-ogborn-joining-commercial-space-federation-as-strategic-advisor-for-global-markets-and-industry-engagement/" >🔗</a> **[SpaceNews]** Kelli Kedis Ogborn Joining Commercial Space Federation as Strategic Advisor for Global Markets and Industry Engagement
 - <a href="https://science.nasa.gov/science-research/biological-physical-sciences/collaborating-through-data-inside-the-psi-users-group/" >🔗</a> **[NASA]** Collaborating Through Data: Inside the PSI Users Group
 - <a href="https://www.nasa.gov/image-article/sunglint-on-atlantic-ocean/" >🔗</a> **[NASA]** Sunglint on Atlantic Ocean
-- <a href="https://www.nasa.gov/news-release/nasa-jaxa-to-cover-htv-x1-spacecraft-departure-from-space-station/" >🔗</a> **[NASA]** NASA, JAXA to Cover HTV-X1 Spacecraft Departure from Space Station
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260303T120502">2026-03-03 12:05:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260303T124450">2026-03-03 12:44:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
