@@ -98,6 +98,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/earth-observatory/smoke-rises-over-big-cypress-national-preserve/" >🔗</a> **[NASA]** Smoke Rises Over Big Cypress National Preserve
 - <a href="https://spacenews.com/deutsche-telekom-aims-to-bring-starlink-mobile-v2-to-europe-in-2028/" >🔗</a> **[SpaceNews]** Deutsche Telekom aims to bring Starlink Mobile V2 to Europe in 2028
 - <a href="https://www.nasaspaceflight.com/2026/03/launch-preview-030226/" >🔗</a> **[NASASpaceflight]** Launch Preview: Japan to launch Kairos as Falcon 9 launches Starlink missions
 - <a href="https://science.nasa.gov/solar-system/whats-up-march-2026-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: March 2026 Skywatching Tips from NASA
@@ -107,7 +108,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-jaxa-to-cover-htv-x1-spacecraft-departure-from-space-station/" >🔗</a> **[NASA]** NASA, JAXA to Cover HTV-X1 Spacecraft Departure from Space Station
 - <a href="https://spacenews.com/stargazing-into-the-future-of-ssa/" >🔗</a> **[SpaceNews]** Stargazing into the future of SSA
 - <a href="https://spacenews.com/pentagon-details-cyber-space-first-mover-role-in-iran-operations/" >🔗</a> **[SpaceNews]** Pentagon details cyber, space ‘first mover’ role in Iran operations
-- <a href="https://spacenews.com/hardware-is-no-longer-the-problem-holding-back-space-based-data-centers-the-supply-chain-is/" >🔗</a> **[SpaceNews]** Hardware is no longer the problem holding back space-based data centers — the supply chain is
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260303T043101">2026-03-03 04:31:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260303T052031">2026-03-03 05:20:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
