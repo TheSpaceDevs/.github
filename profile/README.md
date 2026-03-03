@@ -98,16 +98,16 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/03/03/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-10/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral
+- <a href="https://www.nasa.gov/missions/artemis/artemis-2/artemis-ii-whats-on-the-menu/" >🔗</a> **[NASA]** Artemis II: What’s on the Menu?
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4818-4824-thinking-out-of-the-boxwork/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4818-4824: Thinking Out of the Boxwork
 - <a href="https://www.nasa.gov/news-release/nasa-invites-land-lease-proposals/" >🔗</a> **[NASA]** NASA Invites Proposals to Lease Land Parcels at Sandusky Facility
 - <a href="https://spacenews.com/when-space-is-hot-washington-holds-a-match/" >🔗</a> **[SpaceNews]** When space is hot, Washington holds a match
 - <a href="https://arstechnica.com/space/2026/03/as-moon-interest-heats-up-two-companies-unveil-plans-for-a-lunar-harvester/" >🔗</a> **[Arstechnica]** As Moon interest heats up, two companies unveil plans for a lunar "harvester"
 - <a href="https://science.nasa.gov/missions/hubble/two-observatories-one-cosmic-eye-hubble-and-euclid-view-cats-eye-nebula/" >🔗</a> **[NASA]** Two Observatories, One Cosmic Eye: Hubble and Euclid View Cat’s Eye Nebula
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/03/Hubble_Euclid_zoom_into_cosmic_eye" >🔗</a> **[ESA]** Hubble & Euclid zoom into cosmic eye
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Hubble_Euclid_zoom_into_cosmic_eye" >🔗</a> **[ESA]** Hubble & Euclid zoom into cosmic eye
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/03/Hubble_Euclid_zoom_into_cosmic_eye" >🔗</a> **[ESA]** Hubble & Euclid zoom into cosmic eye
 - <a href="https://spacenews.com/redwire-unveils-new-solar-array/" >🔗</a> **[SpaceNews]** Redwire unveils new solar array
-- <a href="https://spacenews.com/spectrum-showdown/" >🔗</a> **[SpaceNews]** Spectrum showdown
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Antarctica_retreat_study_signals_future_ice_loss" >🔗</a> **[ESA]** Antarctica retreat study signals future ice loss
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260303T210609">2026-03-03 21:06:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260303T214155">2026-03-03 21:41:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
