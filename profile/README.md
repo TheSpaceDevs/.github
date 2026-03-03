@@ -98,16 +98,16 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/artemis/la-nasa-refuerza-artemis-anade-una-mision-y-perfecciona-su-arquitectura-general/" >🔗</a> **[NASA]** La NASA refuerza Artemis: añade una misión y perfecciona su arquitectura general
+- <a href="https://spacepolicyonline.com/news/russia-completes-repairs-to-site-31-next-cargo-launch-on-march-22/" >🔗</a> **[SpacePolicyOnline.com]** Russia Completes Repairs to Site 31, Next Cargo Launch on March 22
+- <a href="https://spacenews.com/space-force-modernization-push-runs-into-acquisition-workforce-shortfall/" >🔗</a> **[SpaceNews]** Space Force modernization push runs into acquisition workforce shortfall
+- <a href="https://www.nasa.gov/directorates/esdmd/nasa-strengthens-artemis-adds-mission-refines-overall-architecture/" >🔗</a> **[NASA]** NASA Strengthens Artemis: Adds Mission, Refines Overall Architecture
 - <a href="https://spaceflightnow.com/2026/03/03/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-10/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://www.nasa.gov/missions/artemis/artemis-2/artemis-ii-whats-on-the-menu/" >🔗</a> **[NASA]** Artemis II: What’s on the Menu?
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4818-4824-thinking-out-of-the-boxwork/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4818-4824: Thinking Out of the Boxwork
 - <a href="https://www.nasa.gov/news-release/nasa-invites-land-lease-proposals/" >🔗</a> **[NASA]** NASA Invites Proposals to Lease Land Parcels at Sandusky Facility
 - <a href="https://spacenews.com/when-space-is-hot-washington-holds-a-match/" >🔗</a> **[SpaceNews]** When space is hot, Washington holds a match
 - <a href="https://arstechnica.com/space/2026/03/as-moon-interest-heats-up-two-companies-unveil-plans-for-a-lunar-harvester/" >🔗</a> **[Arstechnica]** As Moon interest heats up, two companies unveil plans for a lunar "harvester"
-- <a href="https://science.nasa.gov/missions/hubble/two-observatories-one-cosmic-eye-hubble-and-euclid-view-cats-eye-nebula/" >🔗</a> **[NASA]** Two Observatories, One Cosmic Eye: Hubble and Euclid View Cat’s Eye Nebula
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Hubble_Euclid_zoom_into_cosmic_eye" >🔗</a> **[ESA]** Hubble & Euclid zoom into cosmic eye
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/03/Hubble_Euclid_zoom_into_cosmic_eye" >🔗</a> **[ESA]** Hubble & Euclid zoom into cosmic eye
-- <a href="https://spacenews.com/redwire-unveils-new-solar-array/" >🔗</a> **[SpaceNews]** Redwire unveils new solar array
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260303T220319">2026-03-03 22:03:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260303T224102">2026-03-03 22:41:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
