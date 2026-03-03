@@ -98,6 +98,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4818-4824-thinking-out-of-the-boxwork/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4818-4824: Thinking Out of the Boxwork
 - <a href="https://www.nasa.gov/news-release/nasa-invites-land-lease-proposals/" >🔗</a> **[NASA]** NASA Invites Proposals to Lease Land Parcels at Sandusky Facility
 - <a href="https://spacenews.com/when-space-is-hot-washington-holds-a-match/" >🔗</a> **[SpaceNews]** When space is hot, Washington holds a match
 - <a href="https://arstechnica.com/space/2026/03/as-moon-interest-heats-up-two-companies-unveil-plans-for-a-lunar-harvester/" >🔗</a> **[Arstechnica]** As Moon interest heats up, two companies unveil plans for a lunar "harvester"
@@ -107,7 +108,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/redwire-unveils-new-solar-array/" >🔗</a> **[SpaceNews]** Redwire unveils new solar array
 - <a href="https://spacenews.com/spectrum-showdown/" >🔗</a> **[SpaceNews]** Spectrum showdown
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Antarctica_retreat_study_signals_future_ice_loss" >🔗</a> **[ESA]** Antarctica retreat study signals future ice loss
-- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Future_space_transportation/Self-repairing_spacecraft_could_change_future_missions" >🔗</a> **[ESA]** Self-repairing spacecraft could change future missions
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260303T184415">2026-03-03 18:44:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260303T191430">2026-03-03 19:14:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
