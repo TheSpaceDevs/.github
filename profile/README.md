@@ -89,6 +89,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/spains-pld-space-raises-e180-million-in-series-c-funding/" >🔗</a> **[European Spaceflight]** Spain’s PLD Space Raises €180 Million in Series C Funding
 - <a href="https://spacenews.com/pld-space-raises-209-million-to-shift-into-serial-rocket-production/" >🔗</a> **[SpaceNews]** PLD Space raises $209 million to shift into serial rocket production
 - <a href="https://science.nasa.gov/earth/earth-observatory/searching-for-selenite/" >🔗</a> **[NASA]** Searching for Selenite
 - <a href="https://spacepolicyonline.com/news/isaacmans-nasa-force-envisions-term-limited-industry-positions-in-nasa/" >🔗</a> **[SpacePolicyOnline.com]** Isaacman’s “NASA Force” Envisions Term-Limited Industry Positions in NASA
@@ -98,7 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/space-force-modernization-push-runs-into-acquisition-workforce-shortfall/" >🔗</a> **[SpaceNews]** Space Force modernization push runs into acquisition workforce shortfall
 - <a href="https://www.nasa.gov/directorates/esdmd/nasa-strengthens-artemis-adds-mission-refines-overall-architecture/" >🔗</a> **[NASA]** NASA Strengthens Artemis: Adds Mission, Refines Overall Architecture
 - <a href="https://spaceflightnow.com/2026/03/03/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-10/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral
-- <a href="https://www.nasa.gov/missions/artemis/artemis-2/artemis-ii-whats-on-the-menu/" >🔗</a> **[NASA]** Artemis II: What’s on the Menu?
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260304T080509">2026-03-04 08:05:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260304T084309">2026-03-04 08:43:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
