@@ -98,6 +98,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/reliable-space-rescue-is-a-prerequisite-for-continued-economic-opportunity-in-space-and-we-have-a-long-way-to-go/" >🔗</a> **[SpaceNews]** Reliable space rescue is a prerequisite for continued economic opportunity in space and we have a long way to go
 - <a href="https://spacenews.com/sls-upper-stage-helium-flow-problem-fixed/" >🔗</a> **[SpaceNews]** SLS upper stage helium flow problem fixed
 - <a href="https://spacenews.com/blue-origins-surprise-terawave-constellation-jolts-leo-broadband-race/" >🔗</a> **[SpaceNews]** Blue Origin’s surprise TeraWave constellation jolts LEO broadband race
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Counting_craters" >🔗</a> **[ESA]** Counting craters
@@ -107,7 +108,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacepolicyonline.com/news/isaacmans-nasa-force-envisions-term-limited-industry-positions-in-nasa/" >🔗</a> **[SpacePolicyOnline.com]** Isaacman’s “NASA Force” Envisions Term-Limited Industry Positions in NASA
 - <a href="https://spacenews.com/house-science-committee-leaders-criticize-fcc-rulemaking-on-space-safety/" >🔗</a> **[SpaceNews]** House Science Committee leaders criticize FCC rulemaking on space safety
 - <a href="https://www.nasaspaceflight.com/2026/03/ship-39-preflight-test-objectives/" >🔗</a> **[NASASpaceflight]** Starship Flight 12: Ship 39 moving through preflight test objectives
-- <a href="https://spacepolicyonline.com/news/russia-completes-repairs-to-site-31-next-cargo-launch-on-march-22/" >🔗</a> **[SpacePolicyOnline.com]** Russia Completes Repairs to Site 31, Next Cargo Launch on March 22
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260304T134620">2026-03-04 13:46:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260304T141123">2026-03-04 14:11:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
