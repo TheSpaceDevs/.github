@@ -98,6 +98,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/blue-origins-surprise-terawave-constellation-jolts-leo-broadband-race/" >🔗</a> **[SpaceNews]** Blue Origin’s surprise TeraWave constellation jolts LEO broadband race
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Counting_craters" >🔗</a> **[ESA]** Counting craters
 - <a href="https://europeanspaceflight.com/spains-pld-space-raises-e180-million-in-series-c-funding/" >🔗</a> **[European Spaceflight]** Spain’s PLD Space Raises €180 Million in Series C Funding
 - <a href="https://spacenews.com/pld-space-raises-209-million-to-shift-into-serial-rocket-production/" >🔗</a> **[SpaceNews]** PLD Space raises $209 million to shift into serial rocket production
@@ -107,7 +108,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasaspaceflight.com/2026/03/ship-39-preflight-test-objectives/" >🔗</a> **[NASASpaceflight]** Starship Flight 12: Ship 39 moving through preflight test objectives
 - <a href="https://spacepolicyonline.com/news/russia-completes-repairs-to-site-31-next-cargo-launch-on-march-22/" >🔗</a> **[SpacePolicyOnline.com]** Russia Completes Repairs to Site 31, Next Cargo Launch on March 22
 - <a href="https://spacenews.com/space-force-modernization-push-runs-into-acquisition-workforce-shortfall/" >🔗</a> **[SpaceNews]** Space Force modernization push runs into acquisition workforce shortfall
-- <a href="https://www.nasa.gov/directorates/esdmd/nasa-strengthens-artemis-adds-mission-refines-overall-architecture/" >🔗</a> **[NASA]** NASA Strengthens Artemis: Adds Mission, Refines Overall Architecture
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260304T120419">2026-03-04 12:04:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260304T124433">2026-03-04 12:44:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
