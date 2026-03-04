@@ -98,6 +98,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2026/03/the-us-senate-empowers-nasa-to-fully-engage-in-lunar-space-race/" >🔗</a> **[Arstechnica]** The US Senate empowers NASA to fully engage in lunar space race
 - <a href="https://www.nasa.gov/image-article/blowing-stellar-bubbles/" >🔗</a> **[NASA]** Blowing Stellar Bubbles
 - <a href="https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-paul-boehm/" >🔗</a> **[NASA]** I Am Artemis: Paul Boehm
 - <a href="https://spacenews.com/mutable-tactics-raises-2-1-million-for-ai-drone-coordination-in-satellite-denied-environments/" >🔗</a> **[SpaceNews]** Mutable Tactics raises $2.1 million for AI drone coordination in satellite-denied environments
@@ -107,7 +108,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/reliable-space-rescue-is-a-prerequisite-for-continued-economic-opportunity-in-space-and-we-have-a-long-way-to-go/" >🔗</a> **[SpaceNews]** Reliable space rescue is a prerequisite for continued economic opportunity in space and we have a long way to go
 - <a href="https://spacenews.com/sls-upper-stage-helium-flow-problem-fixed/" >🔗</a> **[SpaceNews]** SLS upper stage helium flow problem fixed
 - <a href="https://spacenews.com/blue-origins-surprise-terawave-constellation-jolts-leo-broadband-race/" >🔗</a> **[SpaceNews]** Blue Origin’s surprise TeraWave constellation jolts LEO broadband race
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Counting_craters" >🔗</a> **[ESA]** Counting craters
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260304T191317">2026-03-04 19:13:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260304T194125">2026-03-04 19:41:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
