@@ -98,6 +98,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/sls-upper-stage-helium-flow-problem-fixed/" >🔗</a> **[SpaceNews]** SLS upper stage helium flow problem fixed
 - <a href="https://spacenews.com/blue-origins-surprise-terawave-constellation-jolts-leo-broadband-race/" >🔗</a> **[SpaceNews]** Blue Origin’s surprise TeraWave constellation jolts LEO broadband race
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Counting_craters" >🔗</a> **[ESA]** Counting craters
 - <a href="https://europeanspaceflight.com/spains-pld-space-raises-e180-million-in-series-c-funding/" >🔗</a> **[European Spaceflight]** Spain’s PLD Space Raises €180 Million in Series C Funding
@@ -107,7 +108,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/house-science-committee-leaders-criticize-fcc-rulemaking-on-space-safety/" >🔗</a> **[SpaceNews]** House Science Committee leaders criticize FCC rulemaking on space safety
 - <a href="https://www.nasaspaceflight.com/2026/03/ship-39-preflight-test-objectives/" >🔗</a> **[NASASpaceflight]** Starship Flight 12: Ship 39 moving through preflight test objectives
 - <a href="https://spacepolicyonline.com/news/russia-completes-repairs-to-site-31-next-cargo-launch-on-march-22/" >🔗</a> **[SpacePolicyOnline.com]** Russia Completes Repairs to Site 31, Next Cargo Launch on March 22
-- <a href="https://spacenews.com/space-force-modernization-push-runs-into-acquisition-workforce-shortfall/" >🔗</a> **[SpaceNews]** Space Force modernization push runs into acquisition workforce shortfall
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260304T124433">2026-03-04 12:44:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260304T132200">2026-03-04 13:22:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
