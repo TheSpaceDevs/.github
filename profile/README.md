@@ -98,6 +98,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/03/china-roundup-202603/" >🔗</a> **[NASASpaceflight]** China to test capsule further, attempt booster recoveries on land and sea
 - <a href="https://arstechnica.com/space/2026/03/the-us-senate-empowers-nasa-to-fully-engage-in-lunar-space-race/" >🔗</a> **[Arstechnica]** The US Senate empowers NASA to fully engage in lunar space race
 - <a href="https://www.nasa.gov/image-article/blowing-stellar-bubbles/" >🔗</a> **[NASA]** Blowing Stellar Bubbles
 - <a href="https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-paul-boehm/" >🔗</a> **[NASA]** I Am Artemis: Paul Boehm
@@ -105,9 +106,8 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-opm-launch-nasa-force-to-recruit-top-talent-for-us-space-program/" >🔗</a> **[NASA]** NASA, OPM Launch NASA Force to Recruit Top Talent for US Space Program
 - <a href="https://www.nasa.gov/earth/us-french-satellite-takes-stock-of-worlds-river-water/" >🔗</a> **[NASA]** US-French Satellite Takes Stock of World’s River Water
 - <a href="https://spacenews.com/return-of-the-space-spac/" >🔗</a> **[SpaceNews]** Return of the (space) SPAC
+- <a href="https://europeanspaceflight.com/esa-to-open-call-for-european-led-space-station-studies/" >🔗</a> **[European Spaceflight]** ESA to Open Call for European-Led Space Station Studies
 - <a href="https://spacenews.com/reliable-space-rescue-is-a-prerequisite-for-continued-economic-opportunity-in-space-and-we-have-a-long-way-to-go/" >🔗</a> **[SpaceNews]** Reliable space rescue is a prerequisite for continued economic opportunity in space and we have a long way to go
-- <a href="https://spacenews.com/sls-upper-stage-helium-flow-problem-fixed/" >🔗</a> **[SpaceNews]** SLS upper stage helium flow problem fixed
-- <a href="https://spacenews.com/blue-origins-surprise-terawave-constellation-jolts-leo-broadband-race/" >🔗</a> **[SpaceNews]** Blue Origin’s surprise TeraWave constellation jolts LEO broadband race
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260304T210524">2026-03-04 21:05:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260304T214210">2026-03-04 21:42:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
