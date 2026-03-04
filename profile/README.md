@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/earth-observatory/searching-for-selenite/" >🔗</a> **[NASA]** Searching for Selenite
+- <a href="https://spacepolicyonline.com/news/isaacmans-nasa-force-envisions-term-limited-industry-positions-in-nasa/" >🔗</a> **[SpacePolicyOnline.com]** Isaacman’s “NASA Force” Envisions Term-Limited Industry Positions in NASA
 - <a href="https://spacenews.com/house-science-committee-leaders-criticize-fcc-rulemaking-on-space-safety/" >🔗</a> **[SpaceNews]** House Science Committee leaders criticize FCC rulemaking on space safety
 - <a href="https://www.nasaspaceflight.com/2026/03/ship-39-preflight-test-objectives/" >🔗</a> **[NASASpaceflight]** Starship Flight 12: Ship 39 moving through preflight test objectives
 - <a href="https://www.nasa.gov/missions/artemis/la-nasa-refuerza-artemis-anade-una-mision-y-perfecciona-su-arquitectura-general/" >🔗</a> **[NASA]** La NASA refuerza Artemis: añade una misión y perfecciona su arquitectura general
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/directorates/esdmd/nasa-strengthens-artemis-adds-mission-refines-overall-architecture/" >🔗</a> **[NASA]** NASA Strengthens Artemis: Adds Mission, Refines Overall Architecture
 - <a href="https://spaceflightnow.com/2026/03/03/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-10/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://www.nasa.gov/missions/artemis/artemis-2/artemis-ii-whats-on-the-menu/" >🔗</a> **[NASA]** Artemis II: What’s on the Menu?
-- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4818-4824-thinking-out-of-the-boxwork/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4818-4824: Thinking Out of the Boxwork
-- <a href="https://www.nasa.gov/news-release/nasa-invites-land-lease-proposals/" >🔗</a> **[NASA]** NASA Invites Proposals to Lease Land Parcels at Sandusky Facility
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260304T045920">2026-03-04 04:59:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260304T052454">2026-03-04 05:24:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
