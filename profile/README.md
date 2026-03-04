@@ -98,6 +98,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/house-science-committee-leaders-criticize-fcc-rulemaking-on-space-safety/" >🔗</a> **[SpaceNews]** House Science Committee leaders criticize FCC rulemaking on space safety
 - <a href="https://www.nasaspaceflight.com/2026/03/ship-39-preflight-test-objectives/" >🔗</a> **[NASASpaceflight]** Starship Flight 12: Ship 39 moving through preflight test objectives
 - <a href="https://www.nasa.gov/missions/artemis/la-nasa-refuerza-artemis-anade-una-mision-y-perfecciona-su-arquitectura-general/" >🔗</a> **[NASA]** La NASA refuerza Artemis: añade una misión y perfecciona su arquitectura general
 - <a href="https://spacepolicyonline.com/news/russia-completes-repairs-to-site-31-next-cargo-launch-on-march-22/" >🔗</a> **[SpacePolicyOnline.com]** Russia Completes Repairs to Site 31, Next Cargo Launch on March 22
@@ -107,7 +108,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasa.gov/missions/artemis/artemis-2/artemis-ii-whats-on-the-menu/" >🔗</a> **[NASA]** Artemis II: What’s on the Menu?
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4818-4824-thinking-out-of-the-boxwork/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4818-4824: Thinking Out of the Boxwork
 - <a href="https://www.nasa.gov/news-release/nasa-invites-land-lease-proposals/" >🔗</a> **[NASA]** NASA Invites Proposals to Lease Land Parcels at Sandusky Facility
-- <a href="https://spacenews.com/when-space-is-hot-washington-holds-a-match/" >🔗</a> **[SpaceNews]** When space is hot, Washington holds a match
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260304T000729">2026-03-04 00:07:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260304T005104">2026-03-04 00:51:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
