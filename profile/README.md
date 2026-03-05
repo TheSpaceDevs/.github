@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2026/03/congress-steps-up-pressure-on-nasa-to-support-private-space-stations/" >🔗</a> **[Arstechnica]** Congress steps up pressure on NASA to support private space stations
+- <a href="https://www.nasa.gov/image-article/nasa-wallops-supports-first-rocket-lab-haste-launch-of-2026/" >🔗</a> **[NASA]** NASA Wallops Supports First Rocket Lab HASTE Launch of 2026
+- <a href="https://www.spacescout.info/2026/03/major-artemis-shift-leaves-questions-about-sls-gateway-future/" >🔗</a> **[Space Scout]** Major Artemis Shift Leaves Questions About SLS, Gateway Future
+- <a href="https://www.nasa.gov/image-article/total-lunar-eclipse/" >🔗</a> **[NASA]** Total Lunar Eclipse
+- <a href="https://www.nasa.gov/directorates/esdmd/hhp/biosafety-review-board-brb/" >🔗</a> **[NASA]** Biosafety Review Board (BRB)
+- <a href="https://www.esa.int/Space_Safety/Planetary_Defence/Asteroid_2024_YR4_will_not_impact_the_Moon" >🔗</a> **[ESA]** Asteroid 2024 YR4 will not impact the Moon
+- <a href="https://spacenews.com/texas-as-a-strategic-space-hub/" >🔗</a> **[SpaceNews]** Texas as a strategic space hub
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/03/Preparing_first_Ariane_6_with_four_boosters_and_liftoff" >🔗</a> **[ESA]** Preparing first Ariane 6 with four boosters and liftoff
 - <a href="https://spacenews.com/unlocking-ai-in-space-the-case-for-greater-industry-and-space-agency-collaboration/" >🔗</a> **[SpaceNews]** Unlocking AI in space: the case for greater industry and space agency collaboration
 - <a href="https://spacenews.com/uk-announces-500-million-package-for-industrial-growth-and-national-security/" >🔗</a> **[SpaceNews]** UK announces £500 million package for industrial growth and national security
-- <a href="https://spacenews.com/vast-raises-500-million-for-commercial-space-station-development/" >🔗</a> **[SpaceNews]** Vast raises $500 million for commercial space station development
-- <a href="https://spacenews.com/sierra-space-raises-550-million-in-series-c-funding/" >🔗</a> **[SpaceNews]** Sierra Space raises $550 million in Series C funding
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/03/Training_for_the_epsilon_mission" >🔗</a> **[ESA]** Training for the εpsilon mission
-- <a href="https://spacenews.com/jared-isaacman-on-rebuilding-artemis-and-what-hes-learned-during-his-first-months-as-nasa-administrator/" >🔗</a> **[SpaceNews]** Jared Isaacman on rebuilding, Artemis and what he’s learned during his first months as NASA administrator
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/03/Lunar_Link_antennas_complete_testing" >🔗</a> **[ESA]** Lunar Link antennas complete testing
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/ESA_s_Mars_orbiters_watch_solar_superstorm_hit_the_Red_Planet" >🔗</a> **[ESA]** ESA’s Mars orbiters watch solar superstorm hit the Red Planet
-- <a href="https://www.spacedaily.com/reports/Lunar_dust_model_maps_how_charged_grains_stick_to_spacecraft_999.html" >🔗</a> **[SpaceDaily]** Lunar dust model maps how charged grains stick to spacecraft
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260305T161257">2026-03-05 16:12:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260305T181713">2026-03-05 18:17:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
