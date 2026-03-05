@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/third-kairos-launch-fails/" >🔗</a> **[SpaceNews]** Third Kairos launch fails
 - <a href="https://spaceflightnow.com/2026/03/05/spanish-launch-startup-pld-space-raises-209-million-to-scale-its-rocket-production/" >🔗</a> **[Spaceflight Now]** Spanish launch startup PLD Space raises $209 million to scale its rocket production
 - <a href="https://www.nasa.gov/directorates/armd/aavp/hsf/high-speed-flight-project-overview/" >🔗</a> **[NASA]** High-Speed Flight Project Overview
 - <a href="https://spacenews.com/senate-committee-advances-nasa-authorization-bill-that-changes-artemis-and-extends-iss/" >🔗</a> **[SpaceNews]** Senate committee advances NASA authorization bill that changes Artemis and extends ISS
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/directorates/armd/aavp/about-aavp/" >🔗</a> **[NASA]** About Advanced Air Vehicles Program (AAVP)
 - <a href="https://arstechnica.com/space/2026/03/the-us-senate-empowers-nasa-to-fully-engage-in-lunar-space-race/" >🔗</a> **[Arstechnica]** The US Senate empowers NASA to fully engage in lunar space race
 - <a href="https://www.nasa.gov/image-article/blowing-stellar-bubbles/" >🔗</a> **[NASA]** Blowing Stellar Bubbles
-- <a href="https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-paul-boehm/" >🔗</a> **[NASA]** I Am Artemis: Paul Boehm
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260305T025328">2026-03-05 02:53:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260305T034431">2026-03-05 03:44:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
