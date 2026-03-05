@@ -92,6 +92,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/poland-based-liftero-will-provide-chemical-propulsion-for-indian-firm-orbitaids-in-orbit-servicing-mission/" >🔗</a> **[SpaceNews]** Poland-based Liftero will provide chemical propulsion for Indian firm OrbitAID’s in-orbit servicing mission
+- <a href="https://spacenews.com/nasa-deputy-administrator-nominee-sails-through-confirmation-hearing/" >🔗</a> **[SpaceNews]** NASA deputy administrator nominee sails through confirmation hearing
 - <a href="https://spacenews.com/terran-orbital-appoints-kwon-park-as-senior-director-of-manufacturing-operations/" >🔗</a> **[SpaceNews]** Terran Orbital Appoints Kwon Park as Senior Director of Manufacturing Operations
 - <a href="https://spacenews.com/general-galactic-aims-to-become-the-galaxys-energy-logistics-company/" >🔗</a> **[SpaceNews]** General Galactic aims to become “the galaxy’s energy logistics company”
 - <a href="https://europeanspaceflight.com/enpulsion-secures-e22-5-million-to-expand-us-market-presence/" >🔗</a> **[European Spaceflight]** ENPULSION Secures €22.5 Million to Expand US Market Presence
@@ -100,8 +102,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/nasa-wallops-supports-first-rocket-lab-haste-launch-of-2026/" >🔗</a> **[NASA]** NASA Wallops Supports First Rocket Lab HASTE Launch of 2026
 - <a href="https://www.spacescout.info/2026/03/major-artemis-shift-leaves-questions-about-sls-gateway-future/" >🔗</a> **[Space Scout]** Major Artemis Shift Leaves Questions About SLS, Gateway Future
 - <a href="https://www.nasa.gov/image-article/total-lunar-eclipse/" >🔗</a> **[NASA]** Total Lunar Eclipse
-- <a href="https://www.nasa.gov/directorates/esdmd/hhp/biosafety-review-board-brb/" >🔗</a> **[NASA]** Biosafety Review Board (BRB)
-- <a href="https://www.esa.int/Space_Safety/Planetary_Defence/Asteroid_2024_YR4_will_not_impact_the_Moon" >🔗</a> **[ESA]** Asteroid 2024 YR4 will not impact the Moon
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260305T231033">2026-03-05 23:10:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260305T234534">2026-03-05 23:45:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
