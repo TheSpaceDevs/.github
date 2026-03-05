@@ -98,6 +98,8 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/03/05/spanish-launch-startup-pld-space-raises-209-million-to-scale-its-rocket-production/" >🔗</a> **[Spaceflight Now]** Spanish launch startup PLD Space raises $209 million to scale its rocket production
+- <a href="https://www.nasa.gov/directorates/armd/aavp/hsf/high-speed-flight-project-overview/" >🔗</a> **[NASA]** High-Speed Flight Project Overview
 - <a href="https://spacenews.com/senate-committee-advances-nasa-authorization-bill-that-changes-artemis-and-extends-iss/" >🔗</a> **[SpaceNews]** Senate committee advances NASA authorization bill that changes Artemis and extends ISS
 - <a href="https://spacenews.com/telus-invests-in-ast-spacemobile-to-expand-d2d-coverage-in-canada/" >🔗</a> **[SpaceNews]** Telus invests in AST SpaceMobile to expand D2D coverage in Canada
 - <a href="https://spacenews.com/space-force-presses-case-for-more-personnel-and-training/" >🔗</a> **[SpaceNews]** Space Force presses case for more personnel and training
@@ -106,8 +108,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://arstechnica.com/space/2026/03/the-us-senate-empowers-nasa-to-fully-engage-in-lunar-space-race/" >🔗</a> **[Arstechnica]** The US Senate empowers NASA to fully engage in lunar space race
 - <a href="https://www.nasa.gov/image-article/blowing-stellar-bubbles/" >🔗</a> **[NASA]** Blowing Stellar Bubbles
 - <a href="https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-paul-boehm/" >🔗</a> **[NASA]** I Am Artemis: Paul Boehm
-- <a href="https://spacenews.com/mutable-tactics-raises-2-1-million-for-ai-drone-coordination-in-satellite-denied-environments/" >🔗</a> **[SpaceNews]** Mutable Tactics raises $2.1 million for AI drone coordination in satellite-denied environments
-- <a href="https://www.nasa.gov/news-release/nasa-opm-launch-nasa-force-to-recruit-top-talent-for-us-space-program/" >🔗</a> **[NASA]** NASA, OPM Launch NASA Force to Recruit Top Talent for US Space Program
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260305T005300">2026-03-05 00:53:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260305T013047">2026-03-05 01:30:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
