@@ -98,6 +98,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/senate-committee-advances-nasa-authorization-bill-that-changes-artemis-and-extends-iss/" >🔗</a> **[SpaceNews]** Senate committee advances NASA authorization bill that changes Artemis and extends ISS
 - <a href="https://spacenews.com/telus-invests-in-ast-spacemobile-to-expand-d2d-coverage-in-canada/" >🔗</a> **[SpaceNews]** Telus invests in AST SpaceMobile to expand D2D coverage in Canada
 - <a href="https://spacenews.com/space-force-presses-case-for-more-personnel-and-training/" >🔗</a> **[SpaceNews]** Space Force presses case for more personnel and training
 - <a href="https://www.nasaspaceflight.com/2026/03/china-roundup-202603/" >🔗</a> **[NASASpaceflight]** China to test capsule further, attempt booster recoveries on land and sea
@@ -107,7 +108,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-paul-boehm/" >🔗</a> **[NASA]** I Am Artemis: Paul Boehm
 - <a href="https://spacenews.com/mutable-tactics-raises-2-1-million-for-ai-drone-coordination-in-satellite-denied-environments/" >🔗</a> **[SpaceNews]** Mutable Tactics raises $2.1 million for AI drone coordination in satellite-denied environments
 - <a href="https://www.nasa.gov/news-release/nasa-opm-launch-nasa-force-to-recruit-top-talent-for-us-space-program/" >🔗</a> **[NASA]** NASA, OPM Launch NASA Force to Recruit Top Talent for US Space Program
-- <a href="https://www.nasa.gov/earth/us-french-satellite-takes-stock-of-worlds-river-water/" >🔗</a> **[NASA]** US-French Satellite Takes Stock of World’s River Water
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260305T000751">2026-03-05 00:07:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260305T005300">2026-03-05 00:53:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
