@@ -92,7 +92,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/terran-orbital-appoints-kwon-park-as-senior-director-of-manufacturing-operations/" >🔗</a> **[SpaceNews]** Terran Orbital Appoints Kwon Park as Senior Director of Manufacturing Operations
 - <a href="https://spacenews.com/general-galactic-aims-to-become-the-galaxys-energy-logistics-company/" >🔗</a> **[SpaceNews]** General Galactic aims to become “the galaxy’s energy logistics company”
+- <a href="https://europeanspaceflight.com/enpulsion-secures-e22-5-million-to-expand-us-market-presence/" >🔗</a> **[European Spaceflight]** ENPULSION Secures €22.5 Million to Expand US Market Presence
 - <a href="https://spacenews.com/infinite-orbits-acquires-uk-startup-lunasa-to-expand-satellite-servicing-capabilities/" >🔗</a> **[SpaceNews]** Infinite Orbits acquires UK startup Lunasa to expand satellite servicing capabilities
 - <a href="https://arstechnica.com/space/2026/03/congress-steps-up-pressure-on-nasa-to-support-private-space-stations/" >🔗</a> **[Arstechnica]** Congress steps up pressure on NASA to support private space stations
 - <a href="https://www.nasa.gov/image-article/nasa-wallops-supports-first-rocket-lab-haste-launch-of-2026/" >🔗</a> **[NASA]** NASA Wallops Supports First Rocket Lab HASTE Launch of 2026
@@ -100,8 +102,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/total-lunar-eclipse/" >🔗</a> **[NASA]** Total Lunar Eclipse
 - <a href="https://www.nasa.gov/directorates/esdmd/hhp/biosafety-review-board-brb/" >🔗</a> **[NASA]** Biosafety Review Board (BRB)
 - <a href="https://www.esa.int/Space_Safety/Planetary_Defence/Asteroid_2024_YR4_will_not_impact_the_Moon" >🔗</a> **[ESA]** Asteroid 2024 YR4 will not impact the Moon
-- <a href="https://spacenews.com/texas-as-a-strategic-space-hub/" >🔗</a> **[SpaceNews]** Texas as a strategic space hub
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/03/Preparing_first_Ariane_6_with_four_boosters_and_liftoff" >🔗</a> **[ESA]** Preparing first Ariane 6 with four boosters and liftoff
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260305T210657">2026-03-05 21:06:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260305T214227">2026-03-05 21:42:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
