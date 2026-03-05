@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/earth-observatory/a-little-town-with-a-long-name/" >🔗</a> **[NASA]** A Little Town with a Long Name
+- <a href="https://spacepolicyonline.com/news/senate-committee-clears-new-nasa-authorization-bill-calls-for-moon-base/" >🔗</a> **[SpacePolicyOnline.com]** Senate Committee Clears New NASA Authorization Bill, Calls for Moon Base
 - <a href="https://spacenews.com/third-kairos-launch-fails/" >🔗</a> **[SpaceNews]** Third Kairos launch fails
 - <a href="https://spaceflightnow.com/2026/03/05/spanish-launch-startup-pld-space-raises-209-million-to-scale-its-rocket-production/" >🔗</a> **[Spaceflight Now]** Spanish launch startup PLD Space raises $209 million to scale its rocket production
 - <a href="https://www.nasa.gov/directorates/armd/aavp/hsf/high-speed-flight-project-overview/" >🔗</a> **[NASA]** High-Speed Flight Project Overview
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/space-force-presses-case-for-more-personnel-and-training/" >🔗</a> **[SpaceNews]** Space Force presses case for more personnel and training
 - <a href="https://www.nasaspaceflight.com/2026/03/china-roundup-202603/" >🔗</a> **[NASASpaceflight]** China to test capsule further, attempt booster recoveries on land and sea
 - <a href="https://www.nasa.gov/directorates/armd/aavp/about-aavp/" >🔗</a> **[NASA]** About Advanced Air Vehicles Program (AAVP)
-- <a href="https://arstechnica.com/space/2026/03/the-us-senate-empowers-nasa-to-fully-engage-in-lunar-space-race/" >🔗</a> **[Arstechnica]** The US Senate empowers NASA to fully engage in lunar space race
-- <a href="https://www.nasa.gov/image-article/blowing-stellar-bubbles/" >🔗</a> **[NASA]** Blowing Stellar Bubbles
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260305T043053">2026-03-05 04:30:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260305T051917">2026-03-05 05:19:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
