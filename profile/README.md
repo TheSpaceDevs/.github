@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/03/Preparing_first_Ariane_6_with_four_boosters_and_liftoff" >🔗</a> **[ESA]** Preparing first Ariane 6 with four boosters and liftoff
 - <a href="https://spacenews.com/unlocking-ai-in-space-the-case-for-greater-industry-and-space-agency-collaboration/" >🔗</a> **[SpaceNews]** Unlocking AI in space: the case for greater industry and space agency collaboration
 - <a href="https://spacenews.com/uk-announces-500-million-package-for-industrial-growth-and-national-security/" >🔗</a> **[SpaceNews]** UK announces £500 million package for industrial growth and national security
 - <a href="https://spacenews.com/vast-raises-500-million-for-commercial-space-station-development/" >🔗</a> **[SpaceNews]** Vast raises $500 million for commercial space station development
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/03/Lunar_Link_antennas_complete_testing" >🔗</a> **[ESA]** Lunar Link antennas complete testing
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/ESA_s_Mars_orbiters_watch_solar_superstorm_hit_the_Red_Planet" >🔗</a> **[ESA]** ESA’s Mars orbiters watch solar superstorm hit the Red Planet
 - <a href="https://www.spacedaily.com/reports/Lunar_dust_model_maps_how_charged_grains_stick_to_spacecraft_999.html" >🔗</a> **[SpaceDaily]** Lunar dust model maps how charged grains stick to spacecraft
-- <a href="https://www.spacedaily.com/reports/Danish_Mani_mission_to_chart_lunar_terrain_in_3D_999.html" >🔗</a> **[SpaceDaily]** Danish Mani mission to chart lunar terrain in 3D
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260305T151348">2026-03-05 15:13:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260305T154516">2026-03-05 15:45:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
