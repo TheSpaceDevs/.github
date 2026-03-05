@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/unlocking-ai-in-space-the-case-for-greater-industry-and-space-agency-collaboration/" >🔗</a> **[SpaceNews]** Unlocking AI in space: the case for greater industry and space agency collaboration
+- <a href="https://spacenews.com/uk-announces-500-million-package-for-industrial-growth-and-national-security/" >🔗</a> **[SpaceNews]** UK announces £500 million package for industrial growth and national security
 - <a href="https://spacenews.com/vast-raises-500-million-for-commercial-space-station-development/" >🔗</a> **[SpaceNews]** Vast raises $500 million for commercial space station development
 - <a href="https://spacenews.com/sierra-space-raises-550-million-in-series-c-funding/" >🔗</a> **[SpaceNews]** Sierra Space raises $550 million in Series C funding
-- <a href="https://spacenews.com/jared-isaacman-on-rebuilding-artemis-and-what-hes-learned-during-his-first-months-as-nasa-administrator/" >🔗</a> **[SpaceNews]** Jared Isaacman on rebuilding, Artemis and what he’s learned during his first months as NASA administrator
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/03/Training_for_the_epsilon_mission" >🔗</a> **[ESA]** Training for the εpsilon mission
+- <a href="https://spacenews.com/jared-isaacman-on-rebuilding-artemis-and-what-hes-learned-during-his-first-months-as-nasa-administrator/" >🔗</a> **[SpaceNews]** Jared Isaacman on rebuilding, Artemis and what he’s learned during his first months as NASA administrator
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/03/Lunar_Link_antennas_complete_testing" >🔗</a> **[ESA]** Lunar Link antennas complete testing
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/ESA_s_Mars_orbiters_watch_solar_superstorm_hit_the_Red_Planet" >🔗</a> **[ESA]** ESA’s Mars orbiters watch solar superstorm hit the Red Planet
 - <a href="https://www.spacedaily.com/reports/Lunar_dust_model_maps_how_charged_grains_stick_to_spacecraft_999.html" >🔗</a> **[SpaceDaily]** Lunar dust model maps how charged grains stick to spacecraft
 - <a href="https://www.spacedaily.com/reports/Danish_Mani_mission_to_chart_lunar_terrain_in_3D_999.html" >🔗</a> **[SpaceDaily]** Danish Mani mission to chart lunar terrain in 3D
-- <a href="https://www.spacedaily.com/reports/Ancient_impact_may_explain_moons_contrasting_sides_999.html" >🔗</a> **[SpaceDaily]** Ancient impact may explain moons contrasting sides
-- <a href="https://www.spacedaily.com/reports/Lunar_dust_study_links_space_weathering_to_changes_in_Moon_ultraviolet_brightness_999.html" >🔗</a> **[SpaceDaily]** Lunar dust study links space weathering to changes in Moon ultraviolet brightness
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260305T134914">2026-03-05 13:49:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260305T141314">2026-03-05 14:13:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
