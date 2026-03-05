@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://science.nasa.gov/earth/earth-observatory/a-little-town-with-a-long-name/" >🔗</a> **[NASA]** A Little Town with a Long Name
-- <a href="https://spacepolicyonline.com/news/senate-committee-clears-new-nasa-authorization-bill-calls-for-moon-base/" >🔗</a> **[SpacePolicyOnline.com]** Senate Committee Clears New NASA Authorization Bill, Calls for Moon Base
-- <a href="https://spacenews.com/third-kairos-launch-fails/" >🔗</a> **[SpaceNews]** Third Kairos launch fails
-- <a href="https://spaceflightnow.com/2026/03/05/spanish-launch-startup-pld-space-raises-209-million-to-scale-its-rocket-production/" >🔗</a> **[Spaceflight Now]** Spanish launch startup PLD Space raises $209 million to scale its rocket production
-- <a href="https://www.nasa.gov/directorates/armd/aavp/hsf/high-speed-flight-project-overview/" >🔗</a> **[NASA]** High-Speed Flight Project Overview
-- <a href="https://spacenews.com/senate-committee-advances-nasa-authorization-bill-that-changes-artemis-and-extends-iss/" >🔗</a> **[SpaceNews]** Senate committee advances NASA authorization bill that changes Artemis and extends ISS
-- <a href="https://spacenews.com/telus-invests-in-ast-spacemobile-to-expand-d2d-coverage-in-canada/" >🔗</a> **[SpaceNews]** Telus invests in AST SpaceMobile to expand D2D coverage in Canada
-- <a href="https://spacenews.com/space-force-presses-case-for-more-personnel-and-training/" >🔗</a> **[SpaceNews]** Space Force presses case for more personnel and training
-- <a href="https://www.nasaspaceflight.com/2026/03/china-roundup-202603/" >🔗</a> **[NASASpaceflight]** China to test capsule further, attempt booster recoveries on land and sea
-- <a href="https://www.nasa.gov/directorates/armd/aavp/about-aavp/" >🔗</a> **[NASA]** About Advanced Air Vehicles Program (AAVP)
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/03/Lunar_Link_antennas_complete_testing" >🔗</a> **[ESA]** Lunar Link antennas complete testing
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/ESA_s_Mars_orbiters_watch_solar_superstorm_hit_the_Red_Planet" >🔗</a> **[ESA]** ESA’s Mars orbiters watch solar superstorm hit the Red Planet
+- <a href="https://www.spacedaily.com/reports/Danish_Mani_mission_to_chart_lunar_terrain_in_3D_999.html" >🔗</a> **[SpaceDaily]** Danish Mani mission to chart lunar terrain in 3D
+- <a href="https://www.spacedaily.com/reports/Lunar_spacecraft_exhaust_could_obscure_clues_to_origins_of_life_999.html" >🔗</a> **[SpaceDaily]** Lunar spacecraft exhaust could obscure clues to origins of life
+- <a href="https://www.spacedaily.com/reports/Lunar_dust_study_links_space_weathering_to_changes_in_Moon_ultraviolet_brightness_999.html" >🔗</a> **[SpaceDaily]** Lunar dust study links space weathering to changes in Moon ultraviolet brightness
+- <a href="https://www.spacedaily.com/reports/Lunar_dust_model_maps_how_charged_grains_stick_to_spacecraft_999.html" >🔗</a> **[SpaceDaily]** Lunar dust model maps how charged grains stick to spacecraft
+- <a href="https://www.spacedaily.com/reports/Ancient_impact_may_explain_moons_contrasting_sides_999.html" >🔗</a> **[SpaceDaily]** Ancient impact may explain moons contrasting sides
+- <a href="https://www.spacedaily.com/reports/Origami_style_lunar_rover_wheel_expands_to_climb_steep_caves_999.html" >🔗</a> **[SpaceDaily]** Origami style lunar rover wheel expands to climb steep caves
+- <a href="https://www.spacedaily.com/reports/Lunar_impacts_limit_late_delivery_of_Earth_ocean_water_999.html" >🔗</a> **[SpaceDaily]** Lunar impacts limit late delivery of Earth ocean water
+- <a href="https://www.spacedaily.com/reports/Chinese_astronauts_hone_extreme_cave_survival_skills_999.html" >🔗</a> **[SpaceDaily]** Chinese astronauts hone extreme cave survival skills
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260305T101024">2026-03-05 10:10:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260305T104312">2026-03-05 10:43:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
