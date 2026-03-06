@@ -46,7 +46,7 @@ into *a Low Earth Orbit
 
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260307T105800">2026-03-07 10:58:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-18&location=Vandenberg SFB, CA, USA&dates=20260307T105800Z%2F20260307T145800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-18** from Vandenberg SFB, CA, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260310T005000">2026-03-10 00:50:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Firefly Alpha | Stairway to Seven&location=Vandenberg SFB, CA, USA&dates=20260310T005000Z%2F20260310T025000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Firefly Alpha | Stairway to Seven** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260310T005000">2026-03-10 00:50:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Firefly Alpha | Stairway to Seven&location=Vandenberg SFB, CA, USA&dates=20260310T005000Z%2F20260310T025000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Firefly Alpha | Stairway to Seven** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260310T031400">2026-03-10 03:14:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | EchoStar 25&location=Cape Canaveral SFS, FL, USA&dates=20260310T031400Z%2F20260310T054300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | EchoStar 25** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260311T105800">2026-03-11 10:58:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-31&location=Vandenberg SFB, CA, USA&dates=20260311T105800Z%2F20260311T145800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-31** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260312T100000">2026-03-12 10:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-48&location=Cape Canaveral SFS, FL, USA&dates=20260312T100000Z%2F20260312T140000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-48** from Cape Canaveral SFS, FL, USA.
@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/03/artemis-course-correction-moonward-details/" >🔗</a> **[NASASpaceflight]** NASA’s Artemis ‘Course Correction’ Boosts Moonward Momentum: Key Details Still Maturing
 - <a href="https://www.nasa.gov/missions/dart/nasas-dart-mission-changed-orbit-of-asteroid-didymos-around-sun/" >🔗</a> **[NASA]** NASA’s DART Mission Changed Orbit of Asteroid Didymos Around Sun
 - <a href="https://spacenews.com/eutelsat-completes-5-8-billion-refinancing-plan/" >🔗</a> **[SpaceNews]** Eutelsat completes $5.8 billion refinancing plan
 - <a href="https://spaceflightnow.com/2026/03/06/live-coverage-spacex-plans-mid-afternoon-falcon-9-rocket-launch-from-vandenberg-sfb/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX plans mid-afternoon Falcon 9 rocket launch from Vandenberg SFB
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/commercial-space-federation-csf-welcomes-new-members/" >🔗</a> **[SpaceNews]** Commercial Space Federation (CSF) Welcomes New Members
 - <a href="https://www.nasa.gov/image-article/weekends-on-the-space-station/" >🔗</a> **[NASA]** Weekends on the Space Station
 - <a href="https://arstechnica.com/space/2026/03/nasa-has-shuffled-its-artemis-rockets-but-what-of-the-lunar-landers/" >🔗</a> **[Arstechnica]** NASA has shuffled its Artemis rockets. But what of the lunar landers?
-- <a href="https://www.nasa.gov/news-release/nasa-to-cover-northrop-grumman-cargo-spacecraft-departure/" >🔗</a> **[NASA]** NASA to Cover Northrop Grumman Cargo Spacecraft Departure
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260306T210443">2026-03-06 21:04:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260306T213945">2026-03-06 21:39:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
