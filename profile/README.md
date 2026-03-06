@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/directorates/armd/aosp/amp/about-aamp/" >🔗</a> **[NASA]** About Advanced Air Mobility Pathfinders Project
 - <a href="https://spacepolicyonline.com/news/anderson-breezes-through-senate-nomination-hearing-to-be-nasa-deputy-administrator/" >🔗</a> **[SpacePolicyOnline.com]** Anderson Breezes Through Senate Nomination Hearing to be NASA Deputy Administrator
 - <a href="https://spacenews.com/poland-based-liftero-will-provide-chemical-propulsion-for-indian-firm-orbitaids-in-orbit-servicing-mission/" >🔗</a> **[SpaceNews]** Poland-based Liftero will provide chemical propulsion for Indian firm OrbitAID’s in-orbit servicing mission
 - <a href="https://spacenews.com/nasa-deputy-administrator-nominee-sails-through-confirmation-hearing/" >🔗</a> **[SpaceNews]** NASA deputy administrator nominee sails through confirmation hearing
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/infinite-orbits-acquires-uk-startup-lunasa-to-expand-satellite-servicing-capabilities/" >🔗</a> **[SpaceNews]** Infinite Orbits acquires UK startup Lunasa to expand satellite servicing capabilities
 - <a href="https://arstechnica.com/space/2026/03/congress-steps-up-pressure-on-nasa-to-support-private-space-stations/" >🔗</a> **[Arstechnica]** Congress steps up pressure on NASA to support private space stations
 - <a href="https://www.nasa.gov/image-article/nasa-wallops-supports-first-rocket-lab-haste-launch-of-2026/" >🔗</a> **[NASA]** NASA Wallops Supports First Rocket Lab HASTE Launch of 2026
-- <a href="https://www.spacescout.info/2026/03/major-artemis-shift-leaves-questions-about-sls-gateway-future/" >🔗</a> **[Space Scout]** Major Artemis Shift Leaves Questions About SLS, Gateway Future
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260306T025302">2026-03-06 02:53:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260306T034403">2026-03-06 03:44:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
