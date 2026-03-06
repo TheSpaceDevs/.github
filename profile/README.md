@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacescout.info/2026/03/kairos-three-for-three-on-launch-failures/" >🔗</a> **[Space Scout]** KAIROS Three for Three on Launch Failures
+- <a href="https://spacenews.com/commercial-space-federation-csf-welcomes-new-members/" >🔗</a> **[SpaceNews]** Commercial Space Federation (CSF) Welcomes New Members
 - <a href="https://www.nasa.gov/image-article/weekends-on-the-space-station/" >🔗</a> **[NASA]** Weekends on the Space Station
 - <a href="https://arstechnica.com/space/2026/03/nasa-has-shuffled-its-artemis-rockets-but-what-of-the-lunar-landers/" >🔗</a> **[Arstechnica]** NASA has shuffled its Artemis rockets. But what of the lunar landers?
 - <a href="https://www.nasa.gov/news-release/nasa-to-cover-northrop-grumman-cargo-spacecraft-departure/" >🔗</a> **[NASA]** NASA to Cover Northrop Grumman Cargo Spacecraft Departure
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/rocket-lab-launches-satellite-for-undisclosed-customer/" >🔗</a> **[SpaceNews]** Rocket Lab launches satellite for undisclosed customer
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/03/From_space_to_your_plate" >🔗</a> **[ESA]** From space to your plate
 - <a href="https://spacenews.com/china-designates-space-sector-an-emerging-pillar-industry-sets-deep-space-ambitions-in-new-economic-blueprint/" >🔗</a> **[SpaceNews]** China designates space sector an “emerging pillar industry,” sets deep space ambitions in new economic blueprint
-- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Work_ongoing_to_restore_contact_with_Proba-3_s_Coronagraph" >🔗</a> **[ESA]** Work ongoing to restore contact with Proba-3's Coronagraph
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/03/Earth_from_Space_Dhaka_Bangladesh" >🔗</a> **[ESA]** Earth from Space: Dhaka, Bangladesh
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260306T160645">2026-03-06 16:06:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260306T164326">2026-03-06 16:43:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
