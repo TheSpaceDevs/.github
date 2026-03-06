@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_02-06_March_2026" >🔗</a> **[ESA]** Week in images: 02-06 March 2026
+- <a href="https://spacenews.com/hyperscalers-are-coming-to-an-orbit-near-you-power-will-decide-the-winners/" >🔗</a> **[SpaceNews]** Hyperscalers are coming to an orbit near you. Power will decide the winners.
 - <a href="https://spacenews.com/rocket-lab-launches-satellite-for-undisclosed-customer/" >🔗</a> **[SpaceNews]** Rocket Lab launches satellite for undisclosed customer
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/03/From_space_to_your_plate" >🔗</a> **[ESA]** From space to your plate
 - <a href="https://spacenews.com/china-designates-space-sector-an-emerging-pillar-industry-sets-deep-space-ambitions-in-new-economic-blueprint/" >🔗</a> **[SpaceNews]** China designates space sector an “emerging pillar industry,” sets deep space ambitions in new economic blueprint
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Space_in_Member_States/United_Kingdom/New_AI_Hub_to_empower_space-enabled_connectivity" >🔗</a> **[ESA]** New AI Hub to empower space-enabled connectivity
 - <a href="https://science.nasa.gov/earth/earth-observatory/ailing-megaberg-sparks-surge-of-microscopic-life/" >🔗</a> **[NASA]** Ailing “Megaberg” Sparks Surge of Microscopic Life
 - <a href="https://www.nasa.gov/directorates/armd/aosp/atms/about-atms/" >🔗</a> **[NASA]** About Air Traffic Management and Safety Project
-- <a href="https://www.nasa.gov/directorates/armd/aosp/amp/about-aamp/" >🔗</a> **[NASA]** About Advanced Air Mobility Pathfinders Project
-- <a href="https://spacepolicyonline.com/news/anderson-breezes-through-senate-nomination-hearing-to-be-nasa-deputy-administrator/" >🔗</a> **[SpacePolicyOnline.com]** Anderson Breezes Through Senate Nomination Hearing to be NASA Deputy Administrator
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260306T140931">2026-03-06 14:09:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260306T144320">2026-03-06 14:43:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
