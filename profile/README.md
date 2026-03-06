@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-northrop-grumman-crs-24-station-resupply-launch/" >🔗</a> **[NASA]** NASA Invites Media to Northrop Grumman CRS-24 Station Resupply Launch
 - <a href="https://www.nasaspaceflight.com/2026/03/artemis-course-correction-moonward-details/" >🔗</a> **[NASASpaceflight]** NASA’s Artemis ‘Course Correction’ Boosts Moonward Momentum: Key Details Still Maturing
 - <a href="https://www.nasa.gov/missions/dart/nasas-dart-mission-changed-orbit-of-asteroid-didymos-around-sun/" >🔗</a> **[NASA]** NASA’s DART Mission Changed Orbit of Asteroid Didymos Around Sun
 - <a href="https://spacenews.com/eutelsat-completes-5-8-billion-refinancing-plan/" >🔗</a> **[SpaceNews]** Eutelsat completes $5.8 billion refinancing plan
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.spacescout.info/2026/03/kairos-three-for-three-on-launch-failures/" >🔗</a> **[Space Scout]** KAIROS Three for Three on Launch Failures
 - <a href="https://spacenews.com/commercial-space-federation-csf-welcomes-new-members/" >🔗</a> **[SpaceNews]** Commercial Space Federation (CSF) Welcomes New Members
 - <a href="https://www.nasa.gov/image-article/weekends-on-the-space-station/" >🔗</a> **[NASA]** Weekends on the Space Station
-- <a href="https://arstechnica.com/space/2026/03/nasa-has-shuffled-its-artemis-rockets-but-what-of-the-lunar-landers/" >🔗</a> **[Arstechnica]** NASA has shuffled its Artemis rockets. But what of the lunar landers?
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260306T220245">2026-03-06 22:02:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260306T224034">2026-03-06 22:40:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
