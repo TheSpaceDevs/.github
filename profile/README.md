@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/03/Earth_from_Space_Dhaka_Bangladesh" >🔗</a> **[ESA]** Earth from Space: Dhaka, Bangladesh
 - <a href="https://www.esa.int/Space_in_Member_States/United_Kingdom/New_AI_Hub_to_empower_space-enabled_connectivity" >🔗</a> **[ESA]** New AI Hub to empower space-enabled connectivity
 - <a href="https://science.nasa.gov/earth/earth-observatory/ailing-megaberg-sparks-surge-of-microscopic-life/" >🔗</a> **[NASA]** Ailing “Megaberg” Sparks Surge of Microscopic Life
 - <a href="https://www.nasa.gov/directorates/armd/aosp/atms/about-atms/" >🔗</a> **[NASA]** About Air Traffic Management and Safety Project
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/nasa-deputy-administrator-nominee-sails-through-confirmation-hearing/" >🔗</a> **[SpaceNews]** NASA deputy administrator nominee sails through confirmation hearing
 - <a href="https://spacenews.com/terran-orbital-appoints-kwon-park-as-senior-director-of-manufacturing-operations/" >🔗</a> **[SpaceNews]** Terran Orbital Appoints Kwon Park as Senior Director of Manufacturing Operations
 - <a href="https://spacenews.com/general-galactic-aims-to-become-the-galaxys-energy-logistics-company/" >🔗</a> **[SpaceNews]** General Galactic aims to become “the galaxy’s energy logistics company”
-- <a href="https://www.nasa.gov/directorates/armd/aosp/about-aosp/" >🔗</a> **[NASA]** About Airspace Operations and Safety Program (AOSP)
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260306T090807">2026-03-06 09:08:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260306T094307">2026-03-06 09:43:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
