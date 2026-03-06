@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/rocket-lab-launches-satellite-for-undisclosed-customer/" >🔗</a> **[SpaceNews]** Rocket Lab launches satellite for undisclosed customer
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/03/From_space_to_your_plate" >🔗</a> **[ESA]** From space to your plate
 - <a href="https://spacenews.com/china-designates-space-sector-an-emerging-pillar-industry-sets-deep-space-ambitions-in-new-economic-blueprint/" >🔗</a> **[SpaceNews]** China designates space sector an “emerging pillar industry,” sets deep space ambitions in new economic blueprint
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Work_ongoing_to_restore_contact_with_Proba-3_s_Coronagraph" >🔗</a> **[ESA]** Work ongoing to restore contact with Proba-3's Coronagraph
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/directorates/armd/aosp/atms/about-atms/" >🔗</a> **[NASA]** About Air Traffic Management and Safety Project
 - <a href="https://www.nasa.gov/directorates/armd/aosp/amp/about-aamp/" >🔗</a> **[NASA]** About Advanced Air Mobility Pathfinders Project
 - <a href="https://spacepolicyonline.com/news/anderson-breezes-through-senate-nomination-hearing-to-be-nasa-deputy-administrator/" >🔗</a> **[SpacePolicyOnline.com]** Anderson Breezes Through Senate Nomination Hearing to be NASA Deputy Administrator
-- <a href="https://spacenews.com/poland-based-liftero-will-provide-chemical-propulsion-for-indian-firm-orbitaids-in-orbit-servicing-mission/" >🔗</a> **[SpaceNews]** Poland-based Liftero will provide chemical propulsion for Indian firm OrbitAID’s in-orbit servicing mission
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260306T124428">2026-03-06 12:44:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260306T132107">2026-03-06 13:21:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
