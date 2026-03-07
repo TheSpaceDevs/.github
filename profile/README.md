@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/03/07/nasa-contract-confirms-selection-of-ulas-centaur-5-as-new-upper-stage-for-the-sls-rocket/" >🔗</a> **[Spaceflight Now]** NASA contract confirms selection of ULA’s Centaur 5 as new upper stage for the SLS rocket
 - <a href="https://spacenews.com/nasa-selects-centaur-for-new-sls-upper-stage/" >🔗</a> **[SpaceNews]** NASA selects Centaur for new SLS upper stage
 - <a href="https://arstechnica.com/space/2026/03/ding-dong-the-exploration-upper-stage-is-dead/" >🔗</a> **[Arstechnica]** Ding-dong! The Exploration Upper Stage is dead
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-northrop-grumman-crs-24-station-resupply-launch/" >🔗</a> **[NASA]** NASA Invites Media to Northrop Grumman CRS-24 Station Resupply Launch
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2026/03/06/live-coverage-spacex-plans-mid-afternoon-falcon-9-rocket-launch-from-vandenberg-sfb/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX plans mid-afternoon Falcon 9 rocket launch from Vandenberg SFB
 - <a href="https://www.nasaspaceflight.com/2026/03/uk-milestone-domestic-launch-rfa-one-scotland/" >🔗</a> **[NASASpaceflight]** UK domestic launch milestone as RFA ONE rocket arrives in Scotland
 - <a href="https://www.nasa.gov/missions/artemis/artemis-2/track-nasas-artemis-ii-mission-in-real-time/" >🔗</a> **[NASA]** Track NASA’s Artemis II Mission in Real Time
-- <a href="https://www.spacescout.info/2026/03/kairos-three-for-three-on-launch-failures/" >🔗</a> **[Space Scout]** KAIROS Three for Three on Launch Failures
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260307T004947">2026-03-07 00:49:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260307T013028">2026-03-07 01:30:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
