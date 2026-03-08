@@ -92,6 +92,7 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-march-8-14-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy March 8-14, 2026
 - <a href="https://spacenews.com/rfa-plans-first-launch-this-summer/" >🔗</a> **[SpaceNews]** RFA plans first launch this summer
 - <a href="https://www.nasaspaceflight.com/2026/03/baikonur-launch-pad-restored-progress-ms-33/" >🔗</a> **[NASASpaceflight]** Baikonur Launch Pad restored, clearing path for Progress MS-33 ISS Mission
 - <a href="https://spacenews.com/air-force-lab-awards-blacksky-contract-worth-up-to-99-million-for-large-optical-satellite-payload/" >🔗</a> **[SpaceNews]** Air Force lab awards BlackSky contract worth up to $99 million for large optical satellite payload
@@ -101,7 +102,6 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-northrop-grumman-crs-24-station-resupply-launch/" >🔗</a> **[NASA]** NASA Invites Media to Northrop Grumman CRS-24 Station Resupply Launch
 - <a href="https://www.nasaspaceflight.com/2026/03/artemis-course-correction-moonward-details/" >🔗</a> **[NASASpaceflight]** NASA’s Artemis ‘Course Correction’ Boosts Moonward Momentum: Key Details Still Maturing
 - <a href="https://www.nasa.gov/missions/dart/nasas-dart-mission-changed-orbit-of-asteroid-didymos-around-sun/" >🔗</a> **[NASA]** NASA’s DART Mission Changed Orbit of Asteroid Didymos Around Sun
-- <a href="https://spacenews.com/eutelsat-completes-5-8-billion-refinancing-plan/" >🔗</a> **[SpaceNews]** Eutelsat completes $5.8 billion refinancing plan
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260308T200143">2026-03-08 20:01:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260308T203840">2026-03-08 20:38:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
