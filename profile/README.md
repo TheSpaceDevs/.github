@@ -92,16 +92,16 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/03/Ariane_6_and_Vega-C_over_Earth_artist_impression" >🔗</a> **[ESA]** Ariane 6 and Vega-C over Earth (artist impression)
 - <a href="https://www.nasa.gov/news-release/nasa-to-share-artemis-ii-flight-readiness-review-update/" >🔗</a> **[NASA]** NASA to Share Artemis II Flight Readiness Review Update
 - <a href="https://www.nasa.gov/centers-and-facilities/nesc/flammability-testing-configuration-and-approach-of-barrier-materialassemblies-designed-for-space-flight-applications/" >🔗</a> **[NASA]** Flammability Testing Configuration and Approach of Barrier MaterialAssemblies Designed for Space Flight Applications
 - <a href="https://www.nasa.gov/image-article/webb-studies-cranium-nebula/" >🔗</a> **[NASA]** Webb Studies Cranium Nebula
 - <a href="https://www.nasa.gov/news-release/nasa-astronauts-to-answer-questions-from-students-in-new-york-3/" >🔗</a> **[NASA]** NASA Astronauts to Answer Questions from Students in New York
-- <a href="https://spacenews.com/voyager-technologies-invests-in-max-space/" >🔗</a> **[SpaceNews]** Voyager Technologies invests in Max Space
 - <a href="https://spacenews.com/gnss-resilience-is-an-economic-and-security-priority/" >🔗</a> **[SpaceNews]** GNSS resilience is an economic and security priority
+- <a href="https://spacenews.com/voyager-technologies-invests-in-max-space/" >🔗</a> **[SpaceNews]** Voyager Technologies invests in Max Space
 - <a href="https://spacenews.com/first-starship-v3-launch-slips/" >🔗</a> **[SpaceNews]** First Starship V3 launch slips
 - <a href="https://www.nasa.gov/centers-and-facilities/goddard/from-cabbages-to-craters-nasa-marks-one-century-of-modern-rocketry/" >🔗</a> **[NASA]** From Cabbages to Countdowns: NASA Marks 100 Years of Modern Rocketry
 - <a href="https://spacenews.com/chinese-official-calls-for-prioritizing-neptune-orbiter-mission/" >🔗</a> **[SpaceNews]** Chinese official calls for prioritizing Neptune orbiter mission
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_arrives_at_Europe_s_Spaceport" >🔗</a> **[ESA]** Smile arrives at Europe’s Spaceport
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260309T164535">2026-03-09 16:45:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260309T171504">2026-03-09 17:15:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
