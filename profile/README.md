@@ -92,6 +92,7 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/learning-resources/what-is-pi-grades-5-8/" >🔗</a> **[NASA]** What Is Pi? (Grades 5-8)
 - <a href="https://www.nasa.gov/news-release/nasa-armstrong-director-brad-flick-to-retire-after-40-years-of-service/" >🔗</a> **[NASA]** NASA Armstrong Director Brad Flick to Retire After 40 Years of Service
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/03/Ariane_6_and_Vega-C_over_Earth_artist_impression" >🔗</a> **[ESA]** Ariane 6 and Vega-C over Earth (artist impression)
 - <a href="https://www.nasa.gov/news-release/nasa-to-share-artemis-ii-flight-readiness-review-update/" >🔗</a> **[NASA]** NASA to Share Artemis II Flight Readiness Review Update
@@ -101,7 +102,6 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 - <a href="https://spacenews.com/gnss-resilience-is-an-economic-and-security-priority/" >🔗</a> **[SpaceNews]** GNSS resilience is an economic and security priority
 - <a href="https://spacenews.com/voyager-technologies-invests-in-max-space/" >🔗</a> **[SpaceNews]** Voyager Technologies invests in Max Space
 - <a href="https://spacenews.com/first-starship-v3-launch-slips/" >🔗</a> **[SpaceNews]** First Starship V3 launch slips
-- <a href="https://www.nasa.gov/centers-and-facilities/goddard/from-cabbages-to-craters-nasa-marks-one-century-of-modern-rocketry/" >🔗</a> **[NASA]** From Cabbages to Countdowns: NASA Marks 100 Years of Modern Rocketry
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260309T181134">2026-03-09 18:11:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260309T184436">2026-03-09 18:44:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
