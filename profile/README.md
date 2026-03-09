@@ -55,8 +55,8 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260316T023700">2026-03-16 02:37:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-24&location=Vandenberg SFB, CA, USA&dates=20260316T023700Z%2F20260316T063700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-24** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260318T105700">2026-03-18 10:57:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-33&location=Cape Canaveral SFS, FL, USA&dates=20260318T105700Z%2F20260318T145700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-33** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260319T140000">2026-03-19 14:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-15&location=Vandenberg SFB, CA, USA&dates=20260319T140000Z%2F20260319T180000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-15** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260319T174500">2026-03-19 17:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | StriX Launch 8&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20260319T174500Z%2F20260319T174500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | StriX Launch 8** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260319T200000">2026-03-19 20:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/no.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Spectrum | Onward and Upward&location=Andøya Spaceport&dates=20260319T200000Z%2F20260319T210000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Spectrum | Onward and Upward** from Andøya Spaceport.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260322T115900">2026-03-22 11:59:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Progress MS-33 (94P)&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20260322T115900Z%2F20260322T115900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Progress MS-33 (94P)** from Baikonur Cosmodrome, Republic of Kazakhstan.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -92,16 +92,16 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/gnss-resilience-is-an-economic-and-security-priority/" >🔗</a> **[SpaceNews]** GNSS resilience is an economic and security priority
+- <a href="https://spacenews.com/voyager-technologies-invests-in-max-space/" >🔗</a> **[SpaceNews]** Voyager Technologies invests in Max Space
 - <a href="https://spacenews.com/first-starship-v3-launch-slips/" >🔗</a> **[SpaceNews]** First Starship V3 launch slips
 - <a href="https://www.nasa.gov/centers-and-facilities/goddard/from-cabbages-to-craters-nasa-marks-one-century-of-modern-rocketry/" >🔗</a> **[NASA]** From Cabbages to Countdowns: NASA Marks 100 Years of Modern Rocketry
 - <a href="https://spacenews.com/chinese-official-calls-for-prioritizing-neptune-orbiter-mission/" >🔗</a> **[SpaceNews]** Chinese official calls for prioritizing Neptune orbiter mission
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_arrives_at_Europe_s_Spaceport" >🔗</a> **[ESA]** Smile arrives at Europe’s Spaceport
+- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_radiation_paradox_why_solar_maximum_is_the_safest_time_to_travel_to_Mars" >🔗</a> **[ESA]** The radiation paradox: why solar maximum is the safest time to travel to Mars
 - <a href="https://www.esa.int/Space_Safety/Planetary_Defence/ESA_analysing_fireball_over_Europe_on_8_March_2026" >🔗</a> **[ESA]** ESA analysing fireball over Europe on 8 March 2026
 - <a href="https://www.esa.int/Enabling_Support/Operations/She_flies_satellites._One_day_I_can_too." >🔗</a> **[ESA]** "She flies satellites. One day, I can too."
 - <a href="https://www.spacedaily.com/reports/Hostage_to_the_Moon_How_Artemis_Became_Industrial_Welfare_in_a_Space_Suit_Part_2_999.html" >🔗</a> **[SpaceDaily]** Hostage to the Moon - How Artemis Became Industrial Welfare in a Space Suit - Part 2
-- <a href="https://www.spacedaily.com/reports/Course_Correction_or_Controlled_Crash_Inside_NASAs_Artemis_Overhaul_Part_1_999.html" >🔗</a> **[SpaceDaily]** Course Correction or Controlled Crash? Inside NASA's Artemis Overhaul - Part 1
-- <a href="https://www.spacedaily.com/reports/Apollo_Cosplay_on_a_21st_Century_Clock_Why_Artemis_Keeps_Slipping_Toward_2029_Part_3_999.html" >🔗</a> **[SpaceDaily]** Apollo Cosplay on a 21st-Century Clock - Why Artemis Keeps Slipping Toward 2029 - Part 3
-- <a href="https://www.spacedaily.com/reports/Changing_the_Rules_Mid_Race_How_Artemis_Lets_Washington_Redefine_Winning_at_the_Moon_Part_4_999.html" >🔗</a> **[SpaceDaily]** Changing the Rules Mid-Race - How Artemis Lets Washington Redefine "Winning" at the Moon - Part 4
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260309T124506">2026-03-09 12:45:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260309T132558">2026-03-09 13:25:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
