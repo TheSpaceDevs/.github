@@ -90,6 +90,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2026/03/after-years-of-missteps-blue-origin-to-finally-offer-meaningful-stock-options/" >🔗</a> **[Arstechnica]** After years of missteps, Blue Origin to finally offer meaningful stock options
 - <a href="https://spaceflightnow.com/2026/03/09/live-coverage-spacex-to-launch-direct-television-satellite-for-echostar/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch direct television satellite for EchoStar
 - <a href="https://spacenews.com/meridian-space-diplomacy-forum-executive-space-training-march-25-26/" >🔗</a> **[SpaceNews]** Meridian Space Diplomacy Forum & Executive Space Training – March 25 & 26
 - <a href="https://spacenews.com/sstl-to-build-spacecraft-for-private-space-telescope/" >🔗</a> **[SpaceNews]** SSTL to build spacecraft for private space telescope
@@ -99,7 +100,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.nasa.gov/directorates/armd/iasp/sfd/about-sfd/" >🔗</a> **[NASA]** About Subsonic Flight Demonstrator (SFD) Project
 - <a href="https://www.nasa.gov/directorates/armd/iasp/fdc/about-fdc/" >🔗</a> **[NASA]** About Flight Demonstrations and Capabilities (FDC) Project
 - <a href="https://www.nasa.gov/learning-resources/what-is-pi-grades-5-8/" >🔗</a> **[NASA]** What Is Pi? (Grades 5-8)
-- <a href="https://www.nasa.gov/news-release/nasa-armstrong-director-brad-flick-to-retire-after-40-years-of-service/" >🔗</a> **[NASA]** NASA Armstrong Director Brad Flick to Retire After 40 Years of Service
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260309T230354">2026-03-09 23:03:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260309T233840">2026-03-09 23:38:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
