@@ -92,16 +92,16 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/missile-detection-satellite-designed-by-bae-systems-passes-early-review/" >🔗</a> **[SpaceNews]** Missile detection satellite designed by BAE Systems passes early review
 - <a href="https://www.nasa.gov/missions/van-allen-probes/nasa-van-allen-probe-a-to-re-enter-atmosphere/" >🔗</a> **[NASA]** NASA’s Van Allen Probe A to Re-Enter Atmosphere
 - <a href="https://www.nasaspaceflight.com/2026/03/spacexs-booster-19-pad-2/" >🔗</a> **[NASASpaceflight]** SpaceX’s Enters a new era with Booster 19 rolling to Pad 2
+- <a href="https://www.nasa.gov/directorates/armd/iasp/sfd/about-sfd/" >🔗</a> **[NASA]** About Subsonic Flight Demonstrator (SFD) Project
 - <a href="https://www.nasa.gov/directorates/armd/iasp/fdc/about-fdc/" >🔗</a> **[NASA]** About Flight Demonstrations and Capabilities (FDC) Project
 - <a href="https://www.nasa.gov/learning-resources/what-is-pi-grades-5-8/" >🔗</a> **[NASA]** What Is Pi? (Grades 5-8)
 - <a href="https://www.nasa.gov/news-release/nasa-armstrong-director-brad-flick-to-retire-after-40-years-of-service/" >🔗</a> **[NASA]** NASA Armstrong Director Brad Flick to Retire After 40 Years of Service
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/03/Ariane_6_and_Vega-C_over_Earth_artist_impression" >🔗</a> **[ESA]** Ariane 6 and Vega-C over Earth (artist impression)
 - <a href="https://www.nasa.gov/news-release/nasa-to-share-artemis-ii-flight-readiness-review-update/" >🔗</a> **[NASA]** NASA to Share Artemis II Flight Readiness Review Update
 - <a href="https://www.nasa.gov/centers-and-facilities/nesc/flammability-testing-configuration-and-approach-of-barrier-materialassemblies-designed-for-space-flight-applications/" >🔗</a> **[NASA]** Flammability Testing Configuration and Approach of Barrier MaterialAssemblies Designed for Space Flight Applications
-- <a href="https://www.nasa.gov/image-article/webb-studies-cranium-nebula/" >🔗</a> **[NASA]** Webb Studies Cranium Nebula
-- <a href="https://www.nasa.gov/news-release/nasa-astronauts-to-answer-questions-from-students-in-new-york-3/" >🔗</a> **[NASA]** NASA Astronauts to Answer Questions from Students in New York
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260309T210539">2026-03-09 21:05:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260309T214130">2026-03-09 21:41:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
