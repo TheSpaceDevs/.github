@@ -92,6 +92,9 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/van-allen-probes/nasa-van-allen-probe-a-to-re-enter-atmosphere/" >🔗</a> **[NASA]** NASA’s Van Allen Probe A to Re-Enter Atmosphere
+- <a href="https://www.nasaspaceflight.com/2026/03/spacexs-booster-19-pad-2/" >🔗</a> **[NASASpaceflight]** SpaceX’s Enters a new era with Booster 19 rolling to Pad 2
+- <a href="https://www.nasa.gov/directorates/armd/iasp/fdc/about-fdc/" >🔗</a> **[NASA]** About Flight Demonstrations and Capabilities (FDC) Project
 - <a href="https://www.nasa.gov/learning-resources/what-is-pi-grades-5-8/" >🔗</a> **[NASA]** What Is Pi? (Grades 5-8)
 - <a href="https://www.nasa.gov/news-release/nasa-armstrong-director-brad-flick-to-retire-after-40-years-of-service/" >🔗</a> **[NASA]** NASA Armstrong Director Brad Flick to Retire After 40 Years of Service
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/03/Ariane_6_and_Vega-C_over_Earth_artist_impression" >🔗</a> **[ESA]** Ariane 6 and Vega-C over Earth (artist impression)
@@ -99,9 +102,6 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 - <a href="https://www.nasa.gov/centers-and-facilities/nesc/flammability-testing-configuration-and-approach-of-barrier-materialassemblies-designed-for-space-flight-applications/" >🔗</a> **[NASA]** Flammability Testing Configuration and Approach of Barrier MaterialAssemblies Designed for Space Flight Applications
 - <a href="https://www.nasa.gov/image-article/webb-studies-cranium-nebula/" >🔗</a> **[NASA]** Webb Studies Cranium Nebula
 - <a href="https://www.nasa.gov/news-release/nasa-astronauts-to-answer-questions-from-students-in-new-york-3/" >🔗</a> **[NASA]** NASA Astronauts to Answer Questions from Students in New York
-- <a href="https://spacenews.com/gnss-resilience-is-an-economic-and-security-priority/" >🔗</a> **[SpaceNews]** GNSS resilience is an economic and security priority
-- <a href="https://spacenews.com/voyager-technologies-invests-in-max-space/" >🔗</a> **[SpaceNews]** Voyager Technologies invests in Max Space
-- <a href="https://spacenews.com/first-starship-v3-launch-slips/" >🔗</a> **[SpaceNews]** First Starship V3 launch slips
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260309T194241">2026-03-09 19:42:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260309T200414">2026-03-09 20:04:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
