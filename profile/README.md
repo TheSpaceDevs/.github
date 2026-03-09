@@ -92,16 +92,16 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/first-starship-v3-launch-slips/" >🔗</a> **[SpaceNews]** First Starship V3 launch slips
+- <a href="https://www.nasa.gov/centers-and-facilities/goddard/from-cabbages-to-craters-nasa-marks-one-century-of-modern-rocketry/" >🔗</a> **[NASA]** From Cabbages to Countdowns: NASA Marks 100 Years of Modern Rocketry
 - <a href="https://spacenews.com/chinese-official-calls-for-prioritizing-neptune-orbiter-mission/" >🔗</a> **[SpaceNews]** Chinese official calls for prioritizing Neptune orbiter mission
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_arrives_at_Europe_s_Spaceport" >🔗</a> **[ESA]** Smile arrives at Europe’s Spaceport
 - <a href="https://www.esa.int/Space_Safety/Planetary_Defence/ESA_analysing_fireball_over_Europe_on_8_March_2026" >🔗</a> **[ESA]** ESA analysing fireball over Europe on 8 March 2026
 - <a href="https://www.esa.int/Enabling_Support/Operations/She_flies_satellites._One_day_I_can_too." >🔗</a> **[ESA]** "She flies satellites. One day, I can too."
 - <a href="https://www.spacedaily.com/reports/Hostage_to_the_Moon_How_Artemis_Became_Industrial_Welfare_in_a_Space_Suit_Part_2_999.html" >🔗</a> **[SpaceDaily]** Hostage to the Moon - How Artemis Became Industrial Welfare in a Space Suit - Part 2
+- <a href="https://www.spacedaily.com/reports/Course_Correction_or_Controlled_Crash_Inside_NASAs_Artemis_Overhaul_Part_1_999.html" >🔗</a> **[SpaceDaily]** Course Correction or Controlled Crash? Inside NASA's Artemis Overhaul - Part 1
 - <a href="https://www.spacedaily.com/reports/Apollo_Cosplay_on_a_21st_Century_Clock_Why_Artemis_Keeps_Slipping_Toward_2029_Part_3_999.html" >🔗</a> **[SpaceDaily]** Apollo Cosplay on a 21st-Century Clock - Why Artemis Keeps Slipping Toward 2029 - Part 3
 - <a href="https://www.spacedaily.com/reports/Changing_the_Rules_Mid_Race_How_Artemis_Lets_Washington_Redefine_Winning_at_the_Moon_Part_4_999.html" >🔗</a> **[SpaceDaily]** Changing the Rules Mid-Race - How Artemis Lets Washington Redefine "Winning" at the Moon - Part 4
-- <a href="https://www.spacedaily.com/reports/Course_Correction_or_Controlled_Crash_Inside_NASAs_Artemis_Overhaul_Part_1_999.html" >🔗</a> **[SpaceDaily]** Course Correction or Controlled Crash? Inside NASA's Artemis Overhaul - Part 1
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-march-8-14-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy March 8-14, 2026
-- <a href="https://spacenews.com/rfa-plans-first-launch-this-summer/" >🔗</a> **[SpaceNews]** RFA plans first launch this summer
 
 
 ### Launch-related News 🚀
@@ -116,7 +116,7 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260309T120517">2026-03-09 12:05:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260309T124506">2026-03-09 12:45:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
