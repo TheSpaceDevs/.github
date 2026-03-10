@@ -92,6 +92,7 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/landspace-tests-220-ton-methane-engine-for-future-heavy-lift-launchers/" >🔗</a> **[SpaceNews]** Landspace tests 220-ton methane engine for future heavy-lift launchers
 - <a href="https://science.nasa.gov/earth/earth-observatory/shades-of-a-lunar-eclipse/" >🔗</a> **[NASA]** Shades of a Lunar Eclipse
 - <a href="https://arstechnica.com/space/2026/03/after-years-of-missteps-blue-origin-to-finally-offer-meaningful-stock-options/" >🔗</a> **[Arstechnica]** After years of missteps, Blue Origin to finally offer meaningful stock options
 - <a href="https://spaceflightnow.com/2026/03/09/live-coverage-spacex-to-launch-direct-television-satellite-for-echostar/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch direct television satellite for EchoStar
@@ -101,7 +102,6 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 - <a href="https://www.nasa.gov/missions/van-allen-probes/nasa-van-allen-probe-a-to-re-enter-atmosphere/" >🔗</a> **[NASA]** NASA’s Van Allen Probe A to Re-Enter Atmosphere
 - <a href="https://www.nasaspaceflight.com/2026/03/spacexs-booster-19-pad-2/" >🔗</a> **[NASASpaceflight]** SpaceX’s Enters a new era with Booster 19 rolling to Pad 2
 - <a href="https://www.nasa.gov/directorates/armd/iasp/sfd/about-sfd/" >🔗</a> **[NASA]** About Subsonic Flight Demonstrator (SFD) Project
-- <a href="https://www.nasa.gov/directorates/armd/iasp/fdc/about-fdc/" >🔗</a> **[NASA]** About Flight Demonstrations and Capabilities (FDC) Project
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260310T110938">2026-03-10 11:09:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260310T114111">2026-03-10 11:41:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
