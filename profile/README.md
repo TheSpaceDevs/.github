@@ -92,16 +92,16 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/nesc/expanding-the-human-factors-toolbox-an-approach-to-balancing-crew-and-mission-design-parameters/" >🔗</a> **[NASA]** Expanding the Human Factors Toolbox:  An Approach to Balancing Crew and Mission Design Parameters
+- <a href="https://spacenews.com/precision-in-orbit-heraeus-catalysts-safeguard-satellite-control/" >🔗</a> **[SpaceNews]** Precision in Orbit: Heraeus Catalysts Safeguard Satellite Control
+- <a href="https://science.nasa.gov/science-research/earth-science/webinar-3-25-nasa-csda-vendor-focus-satellogic/" >🔗</a> **[NASA]** Webinar 3/25: NASA CSDA Vendor Focus – Satellogic
+- <a href="https://www.nasa.gov/centers-and-facilities/nesc/copv-damage-tolerance-life-demonstration-guidelines/" >🔗</a> **[NASA]** COPV Damage Tolerance Life Demonstration Guidelines
+- <a href="https://www.nasa.gov/centers-and-facilities/nesc/a-technical-resource-for-the-agency/" >🔗</a> **[NASA]** A Technical Resource for the Agency
+- <a href="https://www.nasa.gov/image-article/celebrating-nasas-mars-reconnaissance-orbiters-20th-anniversary-crater-near-sirenum-fossae/" >🔗</a> **[NASA]** Celebrating NASA’s Mars Reconnaissance Orbiter’s 20th Anniversary: Crater Near Sirenum Fossae
 - <a href="https://spacenews.com/impulse-space-expands-colorado-presence/" >🔗</a> **[SpaceNews]** Impulse Space expands Colorado presence
 - <a href="https://www.nasa.gov/missions/chandra/nasa-discovers-crash-of-extreme-stars-in-unexpected-site/" >🔗</a> **[NASA]** NASA Discovers Crash of Extreme Stars in Unexpected Site
-- <a href="https://spacenews.com/lux-aeterna-raises-10-million-for-reusable-satellite-ahead-of-2027-demo/" >🔗</a> **[SpaceNews]** Lux Aeterna raises $10 million ahead of 2027 reusable satellite demo
 - <a href="https://spacenews.com/starliner-and-artemis-commercial-label-vs-commercial-discipline/" >🔗</a> **[SpaceNews]** Starliner and Artemis: commercial label vs. commercial discipline
-- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-63rd-annual-goddard-space-science-symposium/" >🔗</a> **[NASA]** NASA Invites Media to 63rd Annual Goddard Space Science Symposium
-- <a href="https://spacenews.com/landspace-tests-220-ton-methane-engine-for-future-heavy-lift-launchers/" >🔗</a> **[SpaceNews]** Landspace tests 220-ton methane engine for future heavy-lift launchers
-- <a href="https://science.nasa.gov/earth/earth-observatory/shades-of-a-lunar-eclipse/" >🔗</a> **[NASA]** Shades of a Lunar Eclipse
-- <a href="https://arstechnica.com/space/2026/03/after-years-of-missteps-blue-origin-to-finally-offer-meaningful-stock-options/" >🔗</a> **[Arstechnica]** After years of missteps, Blue Origin to finally offer meaningful stock options
-- <a href="https://spaceflightnow.com/2026/03/09/live-coverage-spacex-to-launch-direct-television-satellite-for-echostar/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch direct television satellite for EchoStar
-- <a href="https://spacenews.com/meridian-space-diplomacy-forum-executive-space-training-march-25-26/" >🔗</a> **[SpaceNews]** Meridian Space Diplomacy Forum & Executive Space Training – March 25 & 26
+- <a href="https://spacenews.com/lux-aeterna-raises-10-million-for-reusable-satellite-ahead-of-2027-demo/" >🔗</a> **[SpaceNews]** Lux Aeterna raises $10 million ahead of 2027 reusable satellite demo
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260310T164533">2026-03-10 16:45:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260310T171356">2026-03-10 17:13:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
