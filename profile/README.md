@@ -92,6 +92,8 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/starliner-and-artemis-commercial-label-vs-commercial-discipline/" >🔗</a> **[SpaceNews]** Starliner and Artemis: commercial label vs. commercial discipline
+- <a href="https://spacenews.com/lux-aeterna-raises-10-million-for-reusable-satellite-ahead-of-2027-demo/" >🔗</a> **[SpaceNews]** Lux Aeterna raises $10 million ahead of 2027 reusable satellite demo
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-63rd-annual-goddard-space-science-symposium/" >🔗</a> **[NASA]** NASA Invites Media to 63rd Annual Goddard Space Science Symposium
 - <a href="https://spacenews.com/landspace-tests-220-ton-methane-engine-for-future-heavy-lift-launchers/" >🔗</a> **[SpaceNews]** Landspace tests 220-ton methane engine for future heavy-lift launchers
 - <a href="https://science.nasa.gov/earth/earth-observatory/shades-of-a-lunar-eclipse/" >🔗</a> **[NASA]** Shades of a Lunar Eclipse
@@ -100,8 +102,6 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 - <a href="https://spacenews.com/meridian-space-diplomacy-forum-executive-space-training-march-25-26/" >🔗</a> **[SpaceNews]** Meridian Space Diplomacy Forum & Executive Space Training – March 25 & 26
 - <a href="https://spacenews.com/sstl-to-build-spacecraft-for-private-space-telescope/" >🔗</a> **[SpaceNews]** SSTL to build spacecraft for private space telescope
 - <a href="https://spacenews.com/missile-detection-satellite-designed-by-bae-systems-passes-early-review/" >🔗</a> **[SpaceNews]** Missile detection satellite designed by BAE Systems passes early review
-- <a href="https://www.nasa.gov/missions/van-allen-probes/nasa-van-allen-probe-a-to-re-enter-atmosphere/" >🔗</a> **[NASA]** NASA’s Van Allen Probe A to Re-Enter Atmosphere
-- <a href="https://www.nasaspaceflight.com/2026/03/spacexs-booster-19-pad-2/" >🔗</a> **[NASASpaceflight]** SpaceX’s Enters a new era with Booster 19 rolling to Pad 2
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260310T124447">2026-03-10 12:44:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260310T132501">2026-03-10 13:25:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
