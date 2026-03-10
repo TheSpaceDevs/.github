@@ -92,6 +92,8 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/starlab-space-fully-books-commercial-payload-space-on-planned-space-station/" >🔗</a> **[SpaceNews]** Starlab Space fully books commercial payload space on planned space station
+- <a href="https://spacenews.com/viasat-wins-14-million-contract-to-provide-in-flight-satcom-for-navy-executive-aircraft/" >🔗</a> **[SpaceNews]** Viasat wins $14 million contract to provide in-flight satcom for Navy executive aircraft
 - <a href="https://www.nasaspaceflight.com/2026/03/launch-preview-031026/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9 to dominate another busy week of missions
 - <a href="https://spacenews.com/suspended-noaa-satellite-chief-warns-of-threats-to-federal-science-programs/" >🔗</a> **[SpaceNews]** Suspended NOAA satellite chief warns of threats to federal science programs
 - <a href="https://www.nasa.gov/centers-and-facilities/nesc/insights-into-spallation-mechanisms-of-thermal-protection-system-materials-from-mass-spectrometry-and-hymets-testing/" >🔗</a> **[NASA]** Insights into Spallation Mechanisms of Thermal Protection System Materials from Mass Spectrometry and HyMETS Testing
@@ -100,8 +102,6 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 - <a href="https://www.nasa.gov/general/nasa-tests-lander-refueling-tech/" >🔗</a> **[NASA]** Ice to Fuel: NASA Tests Technology for Refueling Landers
 - <a href="https://arstechnica.com/space/2026/03/nasa-and-spacex-disagree-about-manual-controls-for-lunar-lander/" >🔗</a> **[Arstechnica]** NASA and SpaceX disagree about manual controls for lunar lander
 - <a href="https://www.nasa.gov/centers-and-facilities/nesc/expanding-the-human-factors-toolbox-an-approach-to-balancing-crew-and-mission-design-parameters/" >🔗</a> **[NASA]** Expanding the Human Factors Toolbox:  An Approach to Balancing Crew and Mission Design Parameters
-- <a href="https://spacenews.com/precision-in-orbit-heraeus-catalysts-safeguard-satellite-control/" >🔗</a> **[SpaceNews]** Precision in Orbit: Heraeus Catalysts Safeguard Satellite Control
-- <a href="https://science.nasa.gov/science-research/earth-science/webinar-3-25-nasa-csda-vendor-focus-satellogic/" >🔗</a> **[NASA]** Webinar 3/25: NASA CSDA Vendor Focus – Satellogic
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260310T230404">2026-03-10 23:04:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260310T233825">2026-03-10 23:38:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
