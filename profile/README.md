@@ -92,6 +92,7 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2026/03/nasa-and-spacex-disagree-about-manual-controls-for-lunar-lander/" >🔗</a> **[Arstechnica]** NASA and SpaceX disagree about manual controls for lunar lander
 - <a href="https://www.nasa.gov/centers-and-facilities/nesc/expanding-the-human-factors-toolbox-an-approach-to-balancing-crew-and-mission-design-parameters/" >🔗</a> **[NASA]** Expanding the Human Factors Toolbox:  An Approach to Balancing Crew and Mission Design Parameters
 - <a href="https://spacenews.com/precision-in-orbit-heraeus-catalysts-safeguard-satellite-control/" >🔗</a> **[SpaceNews]** Precision in Orbit: Heraeus Catalysts Safeguard Satellite Control
 - <a href="https://science.nasa.gov/science-research/earth-science/webinar-3-25-nasa-csda-vendor-focus-satellogic/" >🔗</a> **[NASA]** Webinar 3/25: NASA CSDA Vendor Focus – Satellogic
@@ -100,8 +101,7 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 - <a href="https://www.nasa.gov/image-article/celebrating-nasas-mars-reconnaissance-orbiters-20th-anniversary-crater-near-sirenum-fossae/" >🔗</a> **[NASA]** Celebrating NASA’s Mars Reconnaissance Orbiter’s 20th Anniversary: Crater Near Sirenum Fossae
 - <a href="https://spacenews.com/impulse-space-expands-colorado-presence/" >🔗</a> **[SpaceNews]** Impulse Space expands Colorado presence
 - <a href="https://www.nasa.gov/missions/chandra/nasa-discovers-crash-of-extreme-stars-in-unexpected-site/" >🔗</a> **[NASA]** NASA Discovers Crash of Extreme Stars in Unexpected Site
-- <a href="https://spacenews.com/starliner-and-artemis-commercial-label-vs-commercial-discipline/" >🔗</a> **[SpaceNews]** Starliner and Artemis: commercial label vs. commercial discipline
-- <a href="https://spacenews.com/lux-aeterna-raises-10-million-for-reusable-satellite-ahead-of-2027-demo/" >🔗</a> **[SpaceNews]** Lux Aeterna raises $10 million ahead of 2027 reusable satellite demo
+- <a href="https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/developing-robust-electronics-that-can-withstand-harsh-conditions-on-cold-planetary-bodies/" >🔗</a> **[NASA]** Developing Robust Electronics That Can Withstand Harsh Conditions on Cold Planetary Bodies
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260310T174353">2026-03-10 17:43:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260310T181136">2026-03-10 18:11:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
