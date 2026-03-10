@@ -106,6 +106,7 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2026/03/firefly-flta007-launch/" >🔗</a> **[NASASpaceflight]** Firefly Alpha FLTA007 “Stairway to Seven” ready for another launch attempt
 - <a href="https://www.nasaspaceflight.com/2026/02/firefly-flta007-launch/" >🔗</a> **[NASASpaceflight]** Firefly Alpha FLTA007 “Stairway to Seven” set for launch from California coast
 - <a href="https://www.spacescout.info/2026/02/firefly-eyes-late-february-for-return-to-flight/" >🔗</a> **[Space Scout]** Firefly Eyes Late February for Return to Flight
 - <a href="https://www.nasaspaceflight.com/2026/02/launch-preview-022326/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9 to launch five Starlink missions, Firefly to launch Alpha
@@ -116,7 +117,7 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260310T080633">2026-03-10 08:06:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260310T084330">2026-03-10 08:43:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
