@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/suspended-noaa-satellite-chief-warns-of-threats-to-federal-science-programs/" >🔗</a> **[SpaceNews]** Suspended NOAA satellite chief warns of threats to federal science programs
+- <a href="https://www.nasa.gov/centers-and-facilities/nesc/insights-into-spallation-mechanisms-of-thermal-protection-system-materials-from-mass-spectrometry-and-hymets-testing/" >🔗</a> **[NASA]** Insights into Spallation Mechanisms of Thermal Protection System Materials from Mass Spectrometry and HyMETS Testing
+- <a href="https://science.nasa.gov/earth/earth-observatory/march-2026-satellite-puzzler/" >🔗</a> **[NASA]** March 2026 Satellite Puzzler
 - <a href="https://www.nasa.gov/centers-and-facilities/nesc/computational-modeling-of-failure-at-the-fabric-weave-level-in-reentry-parachute-energy-modulators/" >🔗</a> **[NASA]** Computational Modeling of Failure at the Fabric Weave Level in Reentry Parachute Energy Modulators
 - <a href="https://www.nasa.gov/general/nasa-tests-lander-refueling-tech/" >🔗</a> **[NASA]** Ice to Fuel: NASA Tests Technology for Refueling Landers
 - <a href="https://arstechnica.com/space/2026/03/nasa-and-spacex-disagree-about-manual-controls-for-lunar-lander/" >🔗</a> **[Arstechnica]** NASA and SpaceX disagree about manual controls for lunar lander
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/precision-in-orbit-heraeus-catalysts-safeguard-satellite-control/" >🔗</a> **[SpaceNews]** Precision in Orbit: Heraeus Catalysts Safeguard Satellite Control
 - <a href="https://science.nasa.gov/science-research/earth-science/webinar-3-25-nasa-csda-vendor-focus-satellogic/" >🔗</a> **[NASA]** Webinar 3/25: NASA CSDA Vendor Focus – Satellogic
 - <a href="https://www.nasa.gov/centers-and-facilities/nesc/copv-damage-tolerance-life-demonstration-guidelines/" >🔗</a> **[NASA]** COPV Damage Tolerance Life Demonstration Guidelines
-- <a href="https://www.nasa.gov/centers-and-facilities/nesc/a-technical-resource-for-the-agency/" >🔗</a> **[NASA]** A Technical Resource for the Agency
-- <a href="https://www.nasa.gov/image-article/celebrating-nasas-mars-reconnaissance-orbiters-20th-anniversary-crater-near-sirenum-fossae/" >🔗</a> **[NASA]** Celebrating NASA’s Mars Reconnaissance Orbiter’s 20th Anniversary: Crater Near Sirenum Fossae
-- <a href="https://spacenews.com/impulse-space-expands-colorado-presence/" >🔗</a> **[SpaceNews]** Impulse Space expands Colorado presence
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260310T200452">2026-03-10 20:04:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260310T204219">2026-03-10 20:42:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
