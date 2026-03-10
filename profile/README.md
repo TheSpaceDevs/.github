@@ -92,6 +92,7 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/nasa-tests-lander-refueling-tech/" >🔗</a> **[NASA]** Ice to Fuel: NASA Tests Technology for Refueling Landers
 - <a href="https://arstechnica.com/space/2026/03/nasa-and-spacex-disagree-about-manual-controls-for-lunar-lander/" >🔗</a> **[Arstechnica]** NASA and SpaceX disagree about manual controls for lunar lander
 - <a href="https://www.nasa.gov/centers-and-facilities/nesc/expanding-the-human-factors-toolbox-an-approach-to-balancing-crew-and-mission-design-parameters/" >🔗</a> **[NASA]** Expanding the Human Factors Toolbox:  An Approach to Balancing Crew and Mission Design Parameters
 - <a href="https://spacenews.com/precision-in-orbit-heraeus-catalysts-safeguard-satellite-control/" >🔗</a> **[SpaceNews]** Precision in Orbit: Heraeus Catalysts Safeguard Satellite Control
@@ -101,7 +102,6 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 - <a href="https://www.nasa.gov/image-article/celebrating-nasas-mars-reconnaissance-orbiters-20th-anniversary-crater-near-sirenum-fossae/" >🔗</a> **[NASA]** Celebrating NASA’s Mars Reconnaissance Orbiter’s 20th Anniversary: Crater Near Sirenum Fossae
 - <a href="https://spacenews.com/impulse-space-expands-colorado-presence/" >🔗</a> **[SpaceNews]** Impulse Space expands Colorado presence
 - <a href="https://www.nasa.gov/missions/chandra/nasa-discovers-crash-of-extreme-stars-in-unexpected-site/" >🔗</a> **[NASA]** NASA Discovers Crash of Extreme Stars in Unexpected Site
-- <a href="https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/developing-robust-electronics-that-can-withstand-harsh-conditions-on-cold-planetary-bodies/" >🔗</a> **[NASA]** Developing Robust Electronics That Can Withstand Harsh Conditions on Cold Planetary Bodies
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260310T181136">2026-03-10 18:11:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260310T184409">2026-03-10 18:44:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
