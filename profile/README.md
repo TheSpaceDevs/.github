@@ -92,6 +92,7 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2026/03/fcc-chair-blasts-amazon-after-it-criticizes-spacex-megaconstellation/" >🔗</a> **[Arstechnica]** FCC chair blasts Amazon after it criticizes SpaceX megaconstellation
 - <a href="https://science.nasa.gov/missions/landsat/2026-william-t-pecora-award-nominations-now-being-accepted/" >🔗</a> **[NASA]** 2026 William T. Pecora Award Nominations Now Being Accepted
 - <a href="https://spacenews.com/missile-strike-hits-ses-teleport-in-israel/" >🔗</a> **[SpaceNews]** Missile strike hits SES teleport in Israel
 - <a href="https://www.nasa.gov/directorates/armd/tacp/ui/about-ui/" >🔗</a> **[NASA]** About University Innovation Project (UI)
@@ -101,7 +102,6 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 - <a href="https://spacenews.com/nasa-disqualifies-x-ray-telescope-from-probe-mission-competition/" >🔗</a> **[SpaceNews]** NASA disqualifies X-ray telescope from Probe mission competition
 - <a href="https://spacenews.com/telesat-expands-canadian-landing-station-footprint-for-lightspeed/" >🔗</a> **[SpaceNews]** Telesat expands Canadian landing station footprint for Lightspeed
 - <a href="https://spacenews.com/large-series-c-signals-scale-up-of-chinas-laser-satellite-communications-sector/" >🔗</a> **[SpaceNews]** Large Series C signals scale-up of China’s laser satellite communications sector
-- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/The_tiny_lens_antenna_with_big_potential" >🔗</a> **[ESA]** The tiny lens antenna with big potential
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260311T220308">2026-03-11 22:03:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260311T223844">2026-03-11 22:38:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
