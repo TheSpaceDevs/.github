@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-officially-terminates-aerovironment-contract-for-satellite-control-antennas/" >🔗</a> **[SpaceNews]** Space Force officially terminates AeroVironment contract for satellite control antennas
+- <a href="https://spacenews.com/nasa-disqualifies-x-ray-telescope-from-probe-mission-competition/" >🔗</a> **[SpaceNews]** NASA disqualifies X-ray telescope from Probe mission competition
+- <a href="https://spacenews.com/telesat-expands-canadian-landing-station-footprint-for-lightspeed/" >🔗</a> **[SpaceNews]** Telesat expands Canadian landing station footprint for Lightspeed
 - <a href="https://spacenews.com/large-series-c-signals-scale-up-of-chinas-laser-satellite-communications-sector/" >🔗</a> **[SpaceNews]** Large Series C signals scale-up of China’s laser satellite communications sector
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/The_tiny_lens_antenna_with_big_potential" >🔗</a> **[ESA]** The tiny lens antenna with big potential
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4825-4831-exploring-the-borderlands/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4825-4831: Exploring the Borderlands
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/anduril-to-acquire-space-tracking-firm-exoanalytic-solutions/" >🔗</a> **[SpaceNews]** Anduril to acquire space-tracking firm ExoAnalytic Solutions
 - <a href="https://spacepolicyonline.com/news/nasa-ig-applauds-nasa-contracting-for-artemis-hls-raises-concerns-about-crew-safety/" >🔗</a> **[SpacePolicyOnline.com]** NASA IG Applauds NASA Contracting for Artemis HLS, Raises Concerns About Crew Safety
 - <a href="https://www.nasa.gov/directorates/armd/aavp/svtt/about-svtt/" >🔗</a> **[NASA]** About Subsonic Vehicle Technologies and Tools Project
-- <a href="https://spaceflightnow.com/2026/03/10/nasa-inspector-general-assesses-agencys-management-of-moon-lander-risk/" >🔗</a> **[Spaceflight Now]** NASA inspector general assesses agency’s management of moon lander risk
-- <a href="https://spacenews.com/starlab-space-fully-books-commercial-payload-space-on-planned-space-station/" >🔗</a> **[SpaceNews]** Starlab Space fully books commercial payload space on planned space station
-- <a href="https://spacenews.com/viasat-wins-14-million-contract-to-provide-in-flight-satcom-for-navy-executive-aircraft/" >🔗</a> **[SpaceNews]** Viasat wins $14 million contract to provide in-flight satcom for Navy executive aircraft
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260311T120532">2026-03-11 12:05:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260311T124446">2026-03-11 12:44:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
