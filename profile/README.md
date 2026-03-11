@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4825-4831-exploring-the-borderlands/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4825-4831: Exploring the Borderlands
 - <a href="https://spacenews.com/anduril-to-acquire-space-tracking-firm-exoanalytic-solutions/" >🔗</a> **[SpaceNews]** Anduril to acquire space-tracking firm ExoAnalytic Solutions
 - <a href="https://science.nasa.gov/earth/earth-observatory/a-most-unusual-lake/" >🔗</a> **[NASA]** A Most Unusual Lake
 - <a href="https://spacepolicyonline.com/news/nasa-ig-applauds-nasa-contracting-for-artemis-hls-raises-concerns-about-crew-safety/" >🔗</a> **[SpacePolicyOnline.com]** NASA IG Applauds NASA Contracting for Artemis HLS, Raises Concerns About Crew Safety
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/viasat-wins-14-million-contract-to-provide-in-flight-satcom-for-navy-executive-aircraft/" >🔗</a> **[SpaceNews]** Viasat wins $14 million contract to provide in-flight satcom for Navy executive aircraft
 - <a href="https://www.nasaspaceflight.com/2026/03/launch-preview-031026/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9 to dominate another busy week of missions
 - <a href="https://spacenews.com/suspended-noaa-satellite-chief-warns-of-threats-to-federal-science-programs/" >🔗</a> **[SpaceNews]** Suspended NOAA satellite chief warns of threats to federal science programs
-- <a href="https://www.nasa.gov/centers-and-facilities/nesc/insights-into-spallation-mechanisms-of-thermal-protection-system-materials-from-mass-spectrometry-and-hymets-testing/" >🔗</a> **[NASA]** Insights into Spallation Mechanisms of Thermal Protection System Materials from Mass Spectrometry and HyMETS Testing
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260311T061138">2026-03-11 06:11:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260311T064433">2026-03-11 06:44:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
