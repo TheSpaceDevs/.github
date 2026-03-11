@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/the-perils-of-political-impatience-in-the-artemis-program/" >🔗</a> **[SpaceNews]** The perils of political impatience in the Artemis program
 - <a href="https://spacenews.com/space-force-officially-terminates-aerovironment-contract-for-satellite-control-antennas/" >🔗</a> **[SpaceNews]** Space Force officially terminates AeroVironment contract for satellite control antennas
 - <a href="https://spacenews.com/nasa-disqualifies-x-ray-telescope-from-probe-mission-competition/" >🔗</a> **[SpaceNews]** NASA disqualifies X-ray telescope from Probe mission competition
 - <a href="https://spacenews.com/telesat-expands-canadian-landing-station-footprint-for-lightspeed/" >🔗</a> **[SpaceNews]** Telesat expands Canadian landing station footprint for Lightspeed
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/earth/earth-observatory/a-most-unusual-lake/" >🔗</a> **[NASA]** A Most Unusual Lake
 - <a href="https://spacenews.com/anduril-to-acquire-space-tracking-firm-exoanalytic-solutions/" >🔗</a> **[SpaceNews]** Anduril to acquire space-tracking firm ExoAnalytic Solutions
 - <a href="https://spacepolicyonline.com/news/nasa-ig-applauds-nasa-contracting-for-artemis-hls-raises-concerns-about-crew-safety/" >🔗</a> **[SpacePolicyOnline.com]** NASA IG Applauds NASA Contracting for Artemis HLS, Raises Concerns About Crew Safety
-- <a href="https://www.nasa.gov/directorates/armd/aavp/svtt/about-svtt/" >🔗</a> **[NASA]** About Subsonic Vehicle Technologies and Tools Project
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260311T124446">2026-03-11 12:44:46 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260311T132518">2026-03-11 13:25:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
