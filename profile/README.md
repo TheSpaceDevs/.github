@@ -91,8 +91,8 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4825-4831-exploring-the-borderlands/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4825-4831: Exploring the Borderlands
-- <a href="https://spacenews.com/anduril-to-acquire-space-tracking-firm-exoanalytic-solutions/" >🔗</a> **[SpaceNews]** Anduril to acquire space-tracking firm ExoAnalytic Solutions
 - <a href="https://science.nasa.gov/earth/earth-observatory/a-most-unusual-lake/" >🔗</a> **[NASA]** A Most Unusual Lake
+- <a href="https://spacenews.com/anduril-to-acquire-space-tracking-firm-exoanalytic-solutions/" >🔗</a> **[SpaceNews]** Anduril to acquire space-tracking firm ExoAnalytic Solutions
 - <a href="https://spacepolicyonline.com/news/nasa-ig-applauds-nasa-contracting-for-artemis-hls-raises-concerns-about-crew-safety/" >🔗</a> **[SpacePolicyOnline.com]** NASA IG Applauds NASA Contracting for Artemis HLS, Raises Concerns About Crew Safety
 - <a href="https://www.nasa.gov/directorates/armd/aavp/svtt/about-svtt/" >🔗</a> **[NASA]** About Subsonic Vehicle Technologies and Tools Project
 - <a href="https://spaceflightnow.com/2026/03/10/nasa-inspector-general-assesses-agencys-management-of-moon-lander-risk/" >🔗</a> **[Spaceflight Now]** NASA inspector general assesses agency’s management of moon lander risk
@@ -104,11 +104,12 @@ into *a Low Earth Orbit
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2026/03/launch-preview-031026/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9 to dominate another busy week of missions
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260311T091135">2026-03-11 09:11:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260311T094333">2026-03-11 09:43:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
