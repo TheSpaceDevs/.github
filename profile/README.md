@@ -92,6 +92,7 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/missions/landsat/2026-william-t-pecora-award-nominations-now-being-accepted/" >🔗</a> **[NASA]** 2026 William T. Pecora Award Nominations Now Being Accepted
 - <a href="https://spacenews.com/missile-strike-hits-ses-teleport-in-israel/" >🔗</a> **[SpaceNews]** Missile strike hits SES teleport in Israel
 - <a href="https://www.nasa.gov/directorates/armd/tacp/ui/about-ui/" >🔗</a> **[NASA]** About University Innovation Project (UI)
 - <a href="https://www.nasa.gov/image-article/telescopes-team-up-for-new-view-of-cats-eye-nebula/" >🔗</a> **[NASA]** Telescopes Team Up for New View of Cat’s Eye Nebula
@@ -101,7 +102,6 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 - <a href="https://spacenews.com/telesat-expands-canadian-landing-station-footprint-for-lightspeed/" >🔗</a> **[SpaceNews]** Telesat expands Canadian landing station footprint for Lightspeed
 - <a href="https://spacenews.com/large-series-c-signals-scale-up-of-chinas-laser-satellite-communications-sector/" >🔗</a> **[SpaceNews]** Large Series C signals scale-up of China’s laser satellite communications sector
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/The_tiny_lens_antenna_with_big_potential" >🔗</a> **[ESA]** The tiny lens antenna with big potential
-- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4825-4831-exploring-the-borderlands/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4825-4831: Exploring the Borderlands
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260311T210519">2026-03-11 21:05:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260311T214149">2026-03-11 21:41:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
