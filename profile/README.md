@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/directorates/armd/aavp/svtt/about-svtt/" >🔗</a> **[NASA]** About Subsonic Vehicle Technologies and Tools Project
 - <a href="https://spaceflightnow.com/2026/03/10/nasa-inspector-general-assesses-agencys-management-of-moon-lander-risk/" >🔗</a> **[Spaceflight Now]** NASA inspector general assesses agency’s management of moon lander risk
 - <a href="https://spacenews.com/starlab-space-fully-books-commercial-payload-space-on-planned-space-station/" >🔗</a> **[SpaceNews]** Starlab Space fully books commercial payload space on planned space station
 - <a href="https://spacenews.com/viasat-wins-14-million-contract-to-provide-in-flight-satcom-for-navy-executive-aircraft/" >🔗</a> **[SpaceNews]** Viasat wins $14 million contract to provide in-flight satcom for Navy executive aircraft
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/earth/earth-observatory/march-2026-satellite-puzzler/" >🔗</a> **[NASA]** March 2026 Satellite Puzzler
 - <a href="https://www.nasa.gov/centers-and-facilities/nesc/computational-modeling-of-failure-at-the-fabric-weave-level-in-reentry-parachute-energy-modulators/" >🔗</a> **[NASA]** Computational Modeling of Failure at the Fabric Weave Level in Reentry Parachute Energy Modulators
 - <a href="https://www.nasa.gov/general/nasa-tests-lander-refueling-tech/" >🔗</a> **[NASA]** Ice to Fuel: NASA Tests Technology for Refueling Landers
-- <a href="https://arstechnica.com/space/2026/03/nasa-and-spacex-disagree-about-manual-controls-for-lunar-lander/" >🔗</a> **[Arstechnica]** NASA and SpaceX disagree about manual controls for lunar lander
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260311T013024">2026-03-11 01:30:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260311T025112">2026-03-11 02:51:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
