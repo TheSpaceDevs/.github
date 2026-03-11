@@ -92,6 +92,8 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/report-criticizes-delays-in-artemis-lunar-lander-development/" >🔗</a> **[SpaceNews]** Report criticizes delays in Artemis lunar lander development
+- <a href="https://www.nasaspaceflight.com/2026/03/iss-roundup-022026/" >🔗</a> **[NASASpaceflight]** New crew arrivals and science highlight February aboard the ISS
 - <a href="https://arstechnica.com/space/2026/03/fcc-chair-blasts-amazon-after-it-criticizes-spacex-megaconstellation/" >🔗</a> **[Arstechnica]** FCC chair blasts Amazon after it criticizes SpaceX megaconstellation
 - <a href="https://science.nasa.gov/missions/landsat/2026-william-t-pecora-award-nominations-now-being-accepted/" >🔗</a> **[NASA]** 2026 William T. Pecora Award Nominations Now Being Accepted
 - <a href="https://spacenews.com/missile-strike-hits-ses-teleport-in-israel/" >🔗</a> **[SpaceNews]** Missile strike hits SES teleport in Israel
@@ -100,8 +102,6 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 - <a href="https://spacenews.com/the-perils-of-political-impatience-in-the-artemis-program/" >🔗</a> **[SpaceNews]** The perils of political impatience in the Artemis program
 - <a href="https://spacenews.com/space-force-officially-terminates-aerovironment-contract-for-satellite-control-antennas/" >🔗</a> **[SpaceNews]** Space Force officially terminates AeroVironment contract for satellite control antennas
 - <a href="https://spacenews.com/nasa-disqualifies-x-ray-telescope-from-probe-mission-competition/" >🔗</a> **[SpaceNews]** NASA disqualifies X-ray telescope from Probe mission competition
-- <a href="https://spacenews.com/telesat-expands-canadian-landing-station-footprint-for-lightspeed/" >🔗</a> **[SpaceNews]** Telesat expands Canadian landing station footprint for Lightspeed
-- <a href="https://spacenews.com/large-series-c-signals-scale-up-of-chinas-laser-satellite-communications-sector/" >🔗</a> **[SpaceNews]** Large Series C signals scale-up of China’s laser satellite communications sector
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ Flight 7 will be the last flown in Alpha’s current configuration and will test
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260311T230245">2026-03-11 23:02:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260311T233750">2026-03-11 23:37:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
