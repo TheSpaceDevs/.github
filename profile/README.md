@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/nasa-now-targeting-april-1-for-artemis-ii-launch-around-the-moon/" >🔗</a> **[SpacePolicyOnline.com]** NASA Now Targeting April 1 for Artemis II’s Launch Around The Moon
 - <a href="https://spacenews.com/chinas-tianwen-3-mars-sample-return-mission-moves-into-spacecraft-construction-phase/" >🔗</a> **[SpaceNews]** China’s Tianwen-3 Mars sample return mission moves into spacecraft construction phase
+- <a href="https://www.nasa.gov/directorates/armd/iasp/armd-iasp-lbfd/about-lbfd/" >🔗</a> **[NASA]** About Low Boom Flight Demonstrator (LBFD) Project
 - <a href="https://www.nasa.gov/news-release/nasa-to-cover-upcoming-us-spacewalks-94-95-outside-space-station/" >🔗</a> **[NASA]** NASA to Cover Upcoming US Spacewalks 94, 95 Outside Space Station
+- <a href="https://www.nasa.gov/directorates/armd/iasp/about-iasp/" >🔗</a> **[NASA]** About Integrated Aviation Systems Program (IASP)
 - <a href="https://spacenews.com/voyager-opens-defense-and-space-tech-hub-in-long-beach/" >🔗</a> **[SpaceNews]** Voyager opens defense and space tech hub in Long Beach
 - <a href="https://www.nasa.gov/science-research/astrophysics/exoplanet-science/tiny-nasa-spacecraft-delivers-exoplanet-missions-first-images/" >🔗</a> **[NASA]** Tiny NASA Spacecraft Delivers Exoplanet Mission’s First Images
 - <a href="https://spacenews.com/another-earth-raises-4-million-to-boost-ai-training-with-synthetic-satellite-data/" >🔗</a> **[SpaceNews]** Another Earth raises $4 million to boost AI training with synthetic satellite data
 - <a href="https://www.spacescout.info/2026/03/firefly-sends-off-alpha-block-i-with-flta007/" >🔗</a> **[Space Scout]** Firefly Sends off Alpha Block I with FLTA007
 - <a href="https://www.nasa.gov/image-article/webb-spots-details-in-nearby-spiral-galaxy/" >🔗</a> **[NASA]** Webb Spots Details in Nearby Spiral Galaxy
-- <a href="https://science.nasa.gov/get-involved/citizen-science/help-galaxy-zoo-tidal-tales-open-cosmic-storybook/" >🔗</a> **[NASA]** Help Galaxy Zoo: Tidal Tales Open Cosmic Storybook
-- <a href="https://spacenews.com/the-new-wave-of-industry-coming-for-the-leo-frontier/" >🔗</a> **[SpaceNews]** The new wave of industry coming for the LEO frontier
-- <a href="https://www.nasa.gov/general/efficient-large-displacement-large-rotation-dynamic-simulations-using-nonlinear-dynamic-substructures/" >🔗</a> **[NASA]** Efficient Large Displacement/Large Rotation Dynamic Simulations Using Nonlinear Dynamic Substructures
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260312T230334">2026-03-12 23:03:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260312T233833">2026-03-12 23:38:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
