@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-to-cover-upcoming-us-spacewalks-94-95-outside-space-station/" >🔗</a> **[NASA]** NASA to Cover Upcoming US Spacewalks 94, 95 Outside Space Station
 - <a href="https://spacenews.com/voyager-opens-defense-and-space-tech-hub-in-long-beach/" >🔗</a> **[SpaceNews]** Voyager opens defense and space tech hub in Long Beach
 - <a href="https://www.nasa.gov/science-research/astrophysics/exoplanet-science/tiny-nasa-spacecraft-delivers-exoplanet-missions-first-images/" >🔗</a> **[NASA]** Tiny NASA Spacecraft Delivers Exoplanet Mission’s First Images
 - <a href="https://spacenews.com/another-earth-raises-4-million-to-boost-ai-training-with-synthetic-satellite-data/" >🔗</a> **[SpaceNews]** Another Earth raises $4 million to boost AI training with synthetic satellite data
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/the-new-wave-of-industry-coming-for-the-leo-frontier/" >🔗</a> **[SpaceNews]** The new wave of industry coming for the LEO frontier
 - <a href="https://www.nasa.gov/general/efficient-large-displacement-large-rotation-dynamic-simulations-using-nonlinear-dynamic-substructures/" >🔗</a> **[NASA]** Efficient Large Displacement/Large Rotation Dynamic Simulations Using Nonlinear Dynamic Substructures
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/03/CELESTE_pre-launch_media_briefing" >🔗</a> **[ESA]** CELESTE pre-launch media briefing
-- <a href="https://spacenews.com/astranis-taps-retired-gen-john-hyten-to-lead-advisory-board/" >🔗</a> **[SpaceNews]** Astranis taps retired Gen. John Hyten to lead advisory board
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260312T210610">2026-03-12 21:06:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260312T214145">2026-03-12 21:41:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
