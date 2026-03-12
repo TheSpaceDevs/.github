@@ -90,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/another-earth-raises-4-million-to-boost-ai-training-with-synthetic-satellite-data/" >🔗</a> **[SpaceNews]** Another Earth raises $4 million to boost AI training with synthetic satellite data
+- <a href="https://www.spacescout.info/2026/03/firefly-sends-off-alpha-block-i-with-flta007/" >🔗</a> **[Space Scout]** Firefly Sends off Alpha Block I with FLTA007
+- <a href="https://www.nasa.gov/image-article/webb-spots-details-in-nearby-spiral-galaxy/" >🔗</a> **[NASA]** Webb Spots Details in Nearby Spiral Galaxy
+- <a href="https://science.nasa.gov/get-involved/citizen-science/help-galaxy-zoo-tidal-tales-open-cosmic-storybook/" >🔗</a> **[NASA]** Help Galaxy Zoo: Tidal Tales Open Cosmic Storybook
 - <a href="https://spacenews.com/the-new-wave-of-industry-coming-for-the-leo-frontier/" >🔗</a> **[SpaceNews]** The new wave of industry coming for the LEO frontier
 - <a href="https://www.nasa.gov/general/efficient-large-displacement-large-rotation-dynamic-simulations-using-nonlinear-dynamic-substructures/" >🔗</a> **[NASA]** Efficient Large Displacement/Large Rotation Dynamic Simulations Using Nonlinear Dynamic Substructures
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/03/CELESTE_pre-launch_media_briefing" >🔗</a> **[ESA]** CELESTE pre-launch media briefing
 - <a href="https://spacenews.com/astranis-taps-retired-gen-john-hyten-to-lead-advisory-board/" >🔗</a> **[SpaceNews]** Astranis taps retired Gen. John Hyten to lead advisory board
 - <a href="https://spacenews.com/york-space-acquires-satellite-propulsion-manufacturer-orbion-space/" >🔗</a> **[SpaceNews]** York Space acquires satellite propulsion manufacturer Orbion Space
 - <a href="https://spacenews.com/mantis-space-emerges-from-stealth-with-10-million-for-solar-power-constellation/" >🔗</a> **[SpaceNews]** Mantis Space emerges from stealth with $10 million for solar-power constellation
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/03/Former_NASA_astronaut_Jeanette_Epps_visits_ESTEC" >🔗</a> **[ESA]** Former NASA astronaut Jeanette Epps visits ESTEC
-- <a href="https://europeanspaceflight.com/thales-alenia-space-selects-us-provider-to-develop-lunar-habitat-wheels/" >🔗</a> **[European Spaceflight]** Thales Alenia Space Selects US Provider to Develop Lunar Habitat Wheels
-- <a href="https://spacenews.com/firefly-alpha-returns-to-flight/" >🔗</a> **[SpaceNews]** Firefly Alpha returns to flight
-- <a href="https://science.nasa.gov/earth/earth-observatory/dust-outbreak-reaches-europe/" >🔗</a> **[NASA]** Dust Outbreak Reaches Europe
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260312T154538">2026-03-12 15:45:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260312T161901">2026-03-12 16:19:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
