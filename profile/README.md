@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/efficient-large-displacement-large-rotation-dynamic-simulations-using-nonlinear-dynamic-substructures/" >🔗</a> **[NASA]** Efficient Large Displacement/Large Rotation Dynamic Simulations Using Nonlinear Dynamic Substructures
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/03/CELESTE_pre-launch_media_briefing" >🔗</a> **[ESA]** CELESTE pre-launch media briefing
 - <a href="https://spacenews.com/astranis-taps-retired-gen-john-hyten-to-lead-advisory-board/" >🔗</a> **[SpaceNews]** Astranis taps retired Gen. John Hyten to lead advisory board
 - <a href="https://spacenews.com/york-space-acquires-satellite-propulsion-manufacturer-orbion-space/" >🔗</a> **[SpaceNews]** York Space acquires satellite propulsion manufacturer Orbion Space
 - <a href="https://spacenews.com/mantis-space-emerges-from-stealth-with-10-million-for-solar-power-constellation/" >🔗</a> **[SpaceNews]** Mantis Space emerges from stealth with $10 million for solar-power constellation
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/firefly-alpha-returns-to-flight/" >🔗</a> **[SpaceNews]** Firefly Alpha returns to flight
 - <a href="https://science.nasa.gov/earth/earth-observatory/dust-outbreak-reaches-europe/" >🔗</a> **[NASA]** Dust Outbreak Reaches Europe
 - <a href="https://spacenews.com/the-post-capacity-era-of-satellite-connectivity/" >🔗</a> **[SpaceNews]** The Post-Capacity Era of Satellite Connectivity
-- <a href="https://spacenews.com/enpulsion-raises-26-million/" >🔗</a> **[SpaceNews]** Enpulsion raises $26 million
-- <a href="https://spacenews.com/report-criticizes-delays-in-artemis-lunar-lander-development/" >🔗</a> **[SpaceNews]** Report criticizes delays in Artemis lunar lander development
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260312T141432">2026-03-12 14:14:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260312T144436">2026-03-12 14:44:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
