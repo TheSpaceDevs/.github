@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/science-research/astrophysics/exoplanet-science/tiny-nasa-spacecraft-delivers-exoplanet-missions-first-images/" >🔗</a> **[NASA]** Tiny NASA Spacecraft Delivers Exoplanet Mission’s First Images
 - <a href="https://spacenews.com/another-earth-raises-4-million-to-boost-ai-training-with-synthetic-satellite-data/" >🔗</a> **[SpaceNews]** Another Earth raises $4 million to boost AI training with synthetic satellite data
 - <a href="https://www.spacescout.info/2026/03/firefly-sends-off-alpha-block-i-with-flta007/" >🔗</a> **[Space Scout]** Firefly Sends off Alpha Block I with FLTA007
 - <a href="https://www.nasa.gov/image-article/webb-spots-details-in-nearby-spiral-galaxy/" >🔗</a> **[NASA]** Webb Spots Details in Nearby Spiral Galaxy
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/03/CELESTE_pre-launch_media_briefing" >🔗</a> **[ESA]** CELESTE pre-launch media briefing
 - <a href="https://spacenews.com/astranis-taps-retired-gen-john-hyten-to-lead-advisory-board/" >🔗</a> **[SpaceNews]** Astranis taps retired Gen. John Hyten to lead advisory board
 - <a href="https://spacenews.com/york-space-acquires-satellite-propulsion-manufacturer-orbion-space/" >🔗</a> **[SpaceNews]** York Space acquires satellite propulsion manufacturer Orbion Space
-- <a href="https://spacenews.com/mantis-space-emerges-from-stealth-with-10-million-for-solar-power-constellation/" >🔗</a> **[SpaceNews]** Mantis Space emerges from stealth with $10 million for solar-power constellation
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260312T164552">2026-03-12 16:45:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260312T171602">2026-03-12 17:16:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
