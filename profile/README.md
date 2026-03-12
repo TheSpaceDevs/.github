@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/03/Former_NASA_astronaut_Jeanette_Epps_visits_ESTEC" >🔗</a> **[ESA]** Former NASA astronaut Jeanette Epps visits ESTEC
+- <a href="https://europeanspaceflight.com/thales-alenia-space-selects-us-provider-to-develop-lunar-habitat-wheels/" >🔗</a> **[European Spaceflight]** Thales Alenia Space Selects US Provider to Develop Lunar Habitat Wheels
 - <a href="https://spacenews.com/firefly-alpha-returns-to-flight/" >🔗</a> **[SpaceNews]** Firefly Alpha returns to flight
 - <a href="https://science.nasa.gov/earth/earth-observatory/dust-outbreak-reaches-europe/" >🔗</a> **[NASA]** Dust Outbreak Reaches Europe
 - <a href="https://spacenews.com/the-post-capacity-era-of-satellite-connectivity/" >🔗</a> **[SpaceNews]** The Post-Capacity Era of Satellite Connectivity
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://www.nasaspaceflight.com/2026/03/iss-roundup-022026/" >🔗</a> **[NASASpaceflight]** New crew arrivals and science highlight February aboard the ISS
 - <a href="https://arstechnica.com/space/2026/03/fcc-chair-blasts-amazon-after-it-criticizes-spacex-megaconstellation/" >🔗</a> **[Arstechnica]** FCC chair blasts Amazon after it criticizes SpaceX megaconstellation
 - <a href="https://science.nasa.gov/missions/landsat/2026-william-t-pecora-award-nominations-now-being-accepted/" >🔗</a> **[NASA]** 2026 William T. Pecora Award Nominations Now Being Accepted
-- <a href="https://spacenews.com/missile-strike-hits-ses-teleport-in-israel/" >🔗</a> **[SpaceNews]** Missile strike hits SES teleport in Israel
-- <a href="https://www.nasa.gov/directorates/armd/tacp/ui/about-ui/" >🔗</a> **[NASA]** About University Innovation Project (UI)
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260312T091216">2026-03-12 09:12:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260312T094329">2026-03-12 09:43:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
