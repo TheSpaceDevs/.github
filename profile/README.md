@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/firefly-alpha-returns-to-flight/" >🔗</a> **[SpaceNews]** Firefly Alpha returns to flight
+- <a href="https://science.nasa.gov/earth/earth-observatory/dust-outbreak-reaches-europe/" >🔗</a> **[NASA]** Dust Outbreak Reaches Europe
 - <a href="https://spacenews.com/the-post-capacity-era-of-satellite-connectivity/" >🔗</a> **[SpaceNews]** The Post-Capacity Era of Satellite Connectivity
 - <a href="https://spacenews.com/enpulsion-raises-26-million/" >🔗</a> **[SpaceNews]** Enpulsion raises $26 million
 - <a href="https://spacenews.com/report-criticizes-delays-in-artemis-lunar-lander-development/" >🔗</a> **[SpaceNews]** Report criticizes delays in Artemis lunar lander development
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/missions/landsat/2026-william-t-pecora-award-nominations-now-being-accepted/" >🔗</a> **[NASA]** 2026 William T. Pecora Award Nominations Now Being Accepted
 - <a href="https://spacenews.com/missile-strike-hits-ses-teleport-in-israel/" >🔗</a> **[SpaceNews]** Missile strike hits SES teleport in Israel
 - <a href="https://www.nasa.gov/directorates/armd/tacp/ui/about-ui/" >🔗</a> **[NASA]** About University Innovation Project (UI)
-- <a href="https://www.nasa.gov/image-article/telescopes-team-up-for-new-view-of-cats-eye-nebula/" >🔗</a> **[NASA]** Telescopes Team Up for New View of Cat’s Eye Nebula
-- <a href="https://spacenews.com/the-perils-of-political-impatience-in-the-artemis-program/" >🔗</a> **[SpaceNews]** The perils of political impatience in the Artemis program
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260312T034521">2026-03-12 03:45:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260312T043056">2026-03-12 04:30:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
