@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-working-toward-april-1-launch-of-artemis-2/" >🔗</a> **[SpaceNews]** NASA working toward April 1 launch of Artemis 2
 - <a href="https://science.nasa.gov/earth/earth-observatory/eruption-at-mayon/" >🔗</a> **[NASA]** Eruption at Mayon
 - <a href="https://spaceflightnow.com/2026/03/13/live-coverage-spacex-to-launch-25-starlink-satellites-on-falcon-9-rocket-from-vandenberg-space-force-base/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 25 Starlink satellites on Falcon 9 rocket from Vandenberg Space Force Base
 - <a href="https://spaceflightnow.com/2026/03/13/live-coverage-spacex-to-launch-friday-morning-starlink-mission-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Friday morning Starlink mission from Cape Canaveral
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-to-cover-upcoming-us-spacewalks-94-95-outside-space-station/" >🔗</a> **[NASA]** NASA to Cover Upcoming US Spacewalks 94, 95 Outside Space Station
 - <a href="https://www.nasa.gov/directorates/armd/iasp/about-iasp/" >🔗</a> **[NASA]** About Integrated Aviation Systems Program (IASP)
 - <a href="https://spacenews.com/voyager-opens-defense-and-space-tech-hub-in-long-beach/" >🔗</a> **[SpaceNews]** Voyager opens defense and space tech hub in Long Beach
-- <a href="https://www.nasa.gov/science-research/astrophysics/exoplanet-science/tiny-nasa-spacecraft-delivers-exoplanet-missions-first-images/" >🔗</a> **[NASA]** Tiny NASA Spacecraft Delivers Exoplanet Mission’s First Images
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260313T080810">2026-03-13 08:08:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260313T084330">2026-03-13 08:43:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
