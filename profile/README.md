@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ukraine-will-host-first-test-for-leonardos-michelangelo-security-dome/" >🔗</a> **[SpaceNews]** Ukraine will host first test for Leonardo’s Michelangelo security dome
 - <a href="https://www.nasa.gov/news-release/nasa-armstrong-to-host-partnership-days-april-15-16/" >🔗</a> **[NASA]** NASA Armstrong to Host Partnership Days April 15-16
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/usbr-crack-the-case-challenge/" >🔗</a> **[NASA]** USBR Crack the Case Challenge
+- <a href="https://science.nasa.gov/get-involved/citizen-science/nasa-volunteers-study-biofilm-adaptability-in-space/" >🔗</a> **[NASA]** NASA Volunteers Study Biofilm Adaptability in Space
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/usbr-halt-the-hitchhiker-invasive-species-challenge/" >🔗</a> **[NASA]** USBR Halt the Hitchhiker: Invasive Species Challenge
 - <a href="https://spacenews.com/eutelsat-exits-two-russian-capacity-leases-after-satellite-failure/" >🔗</a> **[SpaceNews]** Eutelsat exits two Russian capacity leases after satellite failure
 - <a href="https://www.nasa.gov/image-article/good-morning-moon/" >🔗</a> **[NASA]** Good Morning, Moon
 - <a href="https://www.nasa.gov/es/agenda-diaria-de-la-mision-a-la-luna-de-artemis-ii-de-la-nasa/" >🔗</a> **[NASA]** Agenda diaria de la misión a la Luna de Artemis II de la NASA
 - <a href="https://www.nasa.gov/missions/artemis/nasas-artemis-ii-moon-mission-daily-agenda/" >🔗</a> **[NASA]** NASA’s Artemis II Moon Mission Daily Agenda
 - <a href="https://science.nasa.gov/missions/webb/artifacts-from-nasas-webb-parker-solar-probe-on-view-at-smithsonian/" >🔗</a> **[NASA]** Artifacts From NASA’s Webb, Parker Solar Probe on View at Smithsonian
-- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Europe_s_Spaceport/A_look_back_at_2025_for_Europe_s_Spaceport" >🔗</a> **[ESA]** A look back at 2025 for Europe’s Spaceport
-- <a href="https://www.nasa.gov/centers-and-facilities/glenn/gvis-virtual-systems-simulations/" >🔗</a> **[NASA]** GVIS Virtual Systems Simulations
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260313T180700">2026-03-13 18:07:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260313T184331">2026-03-13 18:43:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
