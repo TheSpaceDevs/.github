@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/get-involved/citizen-science/extra-extra-extra-data-stream-added-to-the-daily-minor-planet/" >🔗</a> **[NASA]** Extra Extra! Extra Data Stream Added to the Daily Minor Planet!
 - <a href="https://spacenews.com/astroscale-selects-isar-aerospace-to-launch-elsa-m-mission/" >🔗</a> **[SpaceNews]** Astroscale selects Isar Aerospace to launch ELSA-M mission
 - <a href="https://www.nasaspaceflight.com/2026/03/steel-rolls-to-starship/" >🔗</a> **[NASASpaceflight]** From Steel Rolls to Starship at the Starfactory
 - <a href="https://spaceflightnow.com/2026/03/13/nasa-ready-for-another-shot-at-launching-artemis-2-moon-mission/" >🔗</a> **[Spaceflight Now]** NASA ready for another shot at launching Artemis 2 moon mission
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-armstrong-to-host-partnership-days-april-15-16/" >🔗</a> **[NASA]** NASA Armstrong to Host Partnership Days April 15-16
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/usbr-crack-the-case-challenge/" >🔗</a> **[NASA]** USBR Crack the Case Challenge
 - <a href="https://science.nasa.gov/get-involved/citizen-science/nasa-volunteers-study-biofilm-adaptability-in-space/" >🔗</a> **[NASA]** NASA Volunteers Study Biofilm Adaptability in Space
-- <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/usbr-halt-the-hitchhiker-invasive-species-challenge/" >🔗</a> **[NASA]** USBR Halt the Hitchhiker: Invasive Species Challenge
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260313T220344">2026-03-13 22:03:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260313T223938">2026-03-13 22:39:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
