@@ -19,27 +19,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 17-31**. It is scheduled to be launched by *SpaceX*
+**Falcon 9 Block 5 | Starlink Group 10-48**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
+from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral SFS, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260313T105800">2026-03-13 10:58:00 UTC</a>.  Until
-then, this pad will have been used for 252
-out of 867 launches from this location. The launch status is currently
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260314T100000">2026-03-14 10:00:00 UTC</a>.  Until
+then, this pad will have been used for 370
+out of 1093 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
 *Communications* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  A batch of 25 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  A batch of 29 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
   <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=34.632,-120.611" >
+  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -54,6 +54,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260319T174500">2026-03-19 17:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Eight Days A Week (StriX Launch 8)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20260319T174500Z%2F20260319T174500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Eight Days A Week (StriX Launch 8)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260319T200000">2026-03-19 20:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/no.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Spectrum | Onward and Upward&location=Andøya Spaceport&dates=20260319T200000Z%2F20260319T210000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Spectrum | Onward and Upward** from Andøya Spaceport.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260320T214800">2026-03-20 21:48:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-15&location=Vandenberg SFB, CA, USA&dates=20260320T214800Z%2F20260321T014800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-15** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260322T115949">2026-03-22 11:59:49 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Progress MS-33 (94P)&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20260322T115949Z%2F20260322T115949Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Progress MS-33 (94P)** from Baikonur Cosmodrome, Republic of Kazakhstan.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -89,28 +90,27 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/artemis/nasas-artemis-ii-moon-mission-daily-agenda/" >🔗</a> **[NASA]** NASA’s Artemis II Moon Mission Daily Agenda
+- <a href="https://www.nasa.gov/centers-and-facilities/glenn/gvis-virtual-systems-simulations/" >🔗</a> **[NASA]** GVIS Virtual Systems Simulations
+- <a href="https://www.nasa.gov/centers-and-facilities/glenn/gvis-conceptual-visual-designs/" >🔗</a> **[NASA]** GVIS Conceptual Visual Designs
+- <a href="https://www.nasa.gov/centers-and-facilities/glenn/gvis-scientific-visualizations/" >🔗</a> **[NASA]** GVIS Scientific Visualizations
+- <a href="https://www.nasa.gov/centers-and-facilities/glenn/gvis-test-facilities-visualizations/" >🔗</a> **[NASA]** GVIS Test Facilities Visualizations
+- <a href="https://www.nasa.gov/general/astronauts-perspectives-on-nesc-contributions-to-mission-safety-and-success/" >🔗</a> **[NASA]** Astronauts’ Perspectives on NESC Contributions to Mission Safety and Success
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_09-13_March_2026" >🔗</a> **[ESA]** Week in images: 09-13 March 2026
 - <a href="https://spacenews.com/kazakhstan-must-choose-be-eurasias-tech-broker-or-become-a-pawn-in-the-new-global-space-race/" >🔗</a> **[SpaceNews]** Kazakhstan must choose: be Eurasia’s tech broker or become a pawn in the new global space race
 - <a href="https://spacenews.com/qa-rebecca-evernden-on-uk-space-strategy/" >🔗</a> **[SpaceNews]** Q&A: Rebecca Evernden on UK space strategy
 - <a href="https://spacenews.com/china-ends-month-long-launch-hiatus-with-separate-guowang-and-shiyan-30-satellite-missions/" >🔗</a> **[SpaceNews]** China ends month-long launch hiatus with separate Guowang and Shiyan-30 satellite missions
-- <a href="https://spacenews.com/senate-committee-advances-nasa-deputy-administrator-nominee/" >🔗</a> **[SpaceNews]** Senate committee advances NASA deputy administrator nominee
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/03/Plato_readies_for_space-like_tests" >🔗</a> **[ESA]** Plato readies for space-like tests
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/03/A_cosmic_rays_simulator_for_extreme_science_on_Earth" >🔗</a> **[ESA]** A cosmic rays simulator for extreme science on Earth
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/03/A_cosmic_ray_simulator_for_extreme_science_on_Earth" >🔗</a> **[ESA]** A cosmic ray simulator for extreme science on Earth
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/03/Earth_from_Space_Maritime_highways_in_the_OEresund_Strait" >🔗</a> **[ESA]** Earth from Space: Maritime highways in the Øresund Strait
-- <a href="https://spacenews.com/nasa-working-toward-april-1-launch-of-artemis-2/" >🔗</a> **[SpaceNews]** NASA working toward April 1 launch of Artemis 2
 
 
 ### Launch-related News 🚀
 
-- <a href="https://spaceflightnow.com/2026/03/13/live-coverage-spacex-to-launch-25-starlink-satellites-on-falcon-9-rocket-from-vandenberg-space-force-base/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 25 Starlink satellites on Falcon 9 rocket from Vandenberg Space Force Base
+- <a href="https://spaceflightnow.com/2026/03/13/live-coverage-spacex-to-launch-friday-morning-starlink-mission-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Friday morning Starlink mission from Cape Canaveral
 - <a href="https://www.nasaspaceflight.com/2026/03/launch-preview-031026/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9 to dominate another busy week of missions
-- <a href="https://www.nasaspaceflight.com/2026/03/launch-preview-030226/" >🔗</a> **[NASASpaceflight]** Launch Preview: Japan to launch Kairos as Falcon 9 launches Starlink missions
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260313T151211">2026-03-13 15:12:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260313T154327">2026-03-13 15:43:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
