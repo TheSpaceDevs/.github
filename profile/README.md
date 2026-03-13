@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/03/13/nasa-ready-for-another-shot-at-launching-artemis-2-moon-mission/" >🔗</a> **[Spaceflight Now]** NASA ready for another shot at launching Artemis 2 moon mission
+- <a href="https://spacenews.com/china-is-developing-low-cost-lunar-cargo-options-for-its-expanding-moon-program/" >🔗</a> **[SpaceNews]** China is developing low-cost lunar cargo options for its expanding moon program
 - <a href="https://www.nasa.gov/aeronautics/nasa-selects-finalists-in-student-aircraft-maintenance-competition/" >🔗</a> **[NASA]** NASA Selects Finalists in Student Aircraft Maintenance Competition
 - <a href="https://spacenews.com/ukraine-will-host-first-test-for-leonardos-michelangelo-security-dome/" >🔗</a> **[SpaceNews]** Ukraine will host first test for Leonardo’s Michelangelo security dome
 - <a href="https://www.nasa.gov/news-release/nasa-armstrong-to-host-partnership-days-april-15-16/" >🔗</a> **[NASA]** NASA Armstrong to Host Partnership Days April 15-16
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/usbr-halt-the-hitchhiker-invasive-species-challenge/" >🔗</a> **[NASA]** USBR Halt the Hitchhiker: Invasive Species Challenge
 - <a href="https://spacenews.com/eutelsat-exits-two-russian-capacity-leases-after-satellite-failure/" >🔗</a> **[SpaceNews]** Eutelsat exits two Russian capacity leases after satellite failure
 - <a href="https://www.nasa.gov/image-article/good-morning-moon/" >🔗</a> **[NASA]** Good Morning, Moon
-- <a href="https://www.nasa.gov/es/agenda-diaria-de-la-mision-a-la-luna-de-artemis-ii-de-la-nasa/" >🔗</a> **[NASA]** Agenda diaria de la misión a la Luna de Artemis II de la NASA
-- <a href="https://www.nasa.gov/missions/artemis/nasas-artemis-ii-moon-mission-daily-agenda/" >🔗</a> **[NASA]** NASA’s Artemis II Moon Mission Daily Agenda
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260313T200357">2026-03-13 20:03:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260313T204230">2026-03-13 20:42:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
