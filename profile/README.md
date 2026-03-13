@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/eutelsat-exits-two-russian-capacity-leases-after-satellite-failure/" >🔗</a> **[SpaceNews]** Eutelsat exits two Russian capacity leases after satellite failure
+- <a href="https://www.nasa.gov/image-article/good-morning-moon/" >🔗</a> **[NASA]** Good Morning, Moon
+- <a href="https://www.nasa.gov/es/agenda-diaria-de-la-mision-a-la-luna-de-artemis-ii-de-la-nasa/" >🔗</a> **[NASA]** Agenda diaria de la misión a la Luna de Artemis II de la NASA
 - <a href="https://www.nasa.gov/missions/artemis/nasas-artemis-ii-moon-mission-daily-agenda/" >🔗</a> **[NASA]** NASA’s Artemis II Moon Mission Daily Agenda
+- <a href="https://science.nasa.gov/missions/webb/artifacts-from-nasas-webb-parker-solar-probe-on-view-at-smithsonian/" >🔗</a> **[NASA]** Artifacts From NASA’s Webb, Parker Solar Probe on View at Smithsonian
+- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Europe_s_Spaceport/A_look_back_at_2025_for_Europe_s_Spaceport" >🔗</a> **[ESA]** A look back at 2025 for Europe’s Spaceport
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/gvis-virtual-systems-simulations/" >🔗</a> **[NASA]** GVIS Virtual Systems Simulations
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/gvis-conceptual-visual-designs/" >🔗</a> **[NASA]** GVIS Conceptual Visual Designs
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/gvis-scientific-visualizations/" >🔗</a> **[NASA]** GVIS Scientific Visualizations
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/gvis-test-facilities-visualizations/" >🔗</a> **[NASA]** GVIS Test Facilities Visualizations
-- <a href="https://www.nasa.gov/general/astronauts-perspectives-on-nesc-contributions-to-mission-safety-and-success/" >🔗</a> **[NASA]** Astronauts’ Perspectives on NESC Contributions to Mission Safety and Success
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_09-13_March_2026" >🔗</a> **[ESA]** Week in images: 09-13 March 2026
-- <a href="https://spacenews.com/kazakhstan-must-choose-be-eurasias-tech-broker-or-become-a-pawn-in-the-new-global-space-race/" >🔗</a> **[SpaceNews]** Kazakhstan must choose: be Eurasia’s tech broker or become a pawn in the new global space race
-- <a href="https://spacenews.com/qa-rebecca-evernden-on-uk-space-strategy/" >🔗</a> **[SpaceNews]** Q&A: Rebecca Evernden on UK space strategy
-- <a href="https://spacenews.com/china-ends-month-long-launch-hiatus-with-separate-guowang-and-shiyan-30-satellite-missions/" >🔗</a> **[SpaceNews]** China ends month-long launch hiatus with separate Guowang and Shiyan-30 satellite missions
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260313T160740">2026-03-13 16:07:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260313T164316">2026-03-13 16:43:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
