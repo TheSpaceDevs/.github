@@ -89,16 +89,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/kazakhstan-must-choose-be-eurasias-tech-broker-or-become-a-pawn-in-the-new-global-space-race/" >🔗</a> **[SpaceNews]** Kazakhstan must choose: be Eurasia’s tech broker or become a pawn in the new global space race
 - <a href="https://spacenews.com/qa-rebecca-evernden-on-uk-space-strategy/" >🔗</a> **[SpaceNews]** Q&A: Rebecca Evernden on UK space strategy
 - <a href="https://spacenews.com/china-ends-month-long-launch-hiatus-with-separate-guowang-and-shiyan-30-satellite-missions/" >🔗</a> **[SpaceNews]** China ends month-long launch hiatus with separate Guowang and Shiyan-30 satellite missions
 - <a href="https://spacenews.com/senate-committee-advances-nasa-deputy-administrator-nominee/" >🔗</a> **[SpaceNews]** Senate committee advances NASA deputy administrator nominee
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/03/Plato_readies_for_space-like_tests" >🔗</a> **[ESA]** Plato readies for space-like tests
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/03/A_cosmic_rays_simulator_for_extreme_science_on_Earth" >🔗</a> **[ESA]** A cosmic rays simulator for extreme science on Earth
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/03/A_cosmic_ray_simulator_for_extreme_science_on_Earth" >🔗</a> **[ESA]** A cosmic ray simulator for extreme science on Earth
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/03/A_cosmic_rays_simulator_for_extreme_science_on_Earth" >🔗</a> **[ESA]** A cosmic rays simulator for extreme science on Earth
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/03/Earth_from_Space_Maritime_highways_in_the_OEresund_Strait" >🔗</a> **[ESA]** Earth from Space: Maritime highways in the Øresund Strait
 - <a href="https://spacenews.com/nasa-working-toward-april-1-launch-of-artemis-2/" >🔗</a> **[SpaceNews]** NASA working toward April 1 launch of Artemis 2
 - <a href="https://science.nasa.gov/earth/earth-observatory/eruption-at-mayon/" >🔗</a> **[NASA]** Eruption at Mayon
-- <a href="https://spaceflightnow.com/2026/03/13/live-coverage-spacex-to-launch-25-starlink-satellites-on-falcon-9-rocket-from-vandenberg-space-force-base/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 25 Starlink satellites on Falcon 9 rocket from Vandenberg Space Force Base
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260313T124440">2026-03-13 12:44:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260313T132322">2026-03-13 13:23:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
