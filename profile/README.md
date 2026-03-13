@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/senate-committee-advances-nasa-deputy-administrator-nominee/" >🔗</a> **[SpaceNews]** Senate committee advances NASA deputy administrator nominee
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/03/Plato_readies_for_space-like_tests" >🔗</a> **[ESA]** Plato readies for space-like tests
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/03/A_cosmic_rays_simulator_for_extreme_science_on_Earth" >🔗</a> **[ESA]** A cosmic rays simulator for extreme science on Earth
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/03/Earth_from_Space_Maritime_highways_in_the_OEresund_Strait" >🔗</a> **[ESA]** Earth from Space: Maritime highways in the Øresund Strait
 - <a href="https://spacenews.com/nasa-working-toward-april-1-launch-of-artemis-2/" >🔗</a> **[SpaceNews]** NASA working toward April 1 launch of Artemis 2
 - <a href="https://science.nasa.gov/earth/earth-observatory/eruption-at-mayon/" >🔗</a> **[NASA]** Eruption at Mayon
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2026/03/13/live-coverage-spacex-to-launch-friday-morning-starlink-mission-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Friday morning Starlink mission from Cape Canaveral
 - <a href="https://spacepolicyonline.com/news/nasa-now-targeting-april-1-for-artemis-ii-launch-around-the-moon/" >🔗</a> **[SpacePolicyOnline.com]** NASA Now Targeting April 1 for Artemis II’s Launch Around The Moon
 - <a href="https://spacenews.com/chinas-tianwen-3-mars-sample-return-mission-moves-into-spacecraft-construction-phase/" >🔗</a> **[SpaceNews]** China’s Tianwen-3 Mars sample return mission moves into spacecraft construction phase
-- <a href="https://www.nasa.gov/directorates/armd/iasp/armd-iasp-lbfd/about-lbfd/" >🔗</a> **[NASA]** About Low Boom Flight Demonstrator (LBFD) Project
-- <a href="https://www.nasa.gov/news-release/nasa-to-cover-upcoming-us-spacewalks-94-95-outside-space-station/" >🔗</a> **[NASA]** NASA to Cover Upcoming US Spacewalks 94, 95 Outside Space Station
-- <a href="https://www.nasa.gov/directorates/armd/iasp/about-iasp/" >🔗</a> **[NASA]** About Integrated Aviation Systems Program (IASP)
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260313T100702">2026-03-13 10:07:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260313T104245">2026-03-13 10:42:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
