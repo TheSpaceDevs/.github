@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/03/13/live-coverage-spacex-to-launch-friday-morning-starlink-mission-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch Friday morning Starlink mission from Cape Canaveral
 - <a href="https://spacepolicyonline.com/news/nasa-now-targeting-april-1-for-artemis-ii-launch-around-the-moon/" >🔗</a> **[SpacePolicyOnline.com]** NASA Now Targeting April 1 for Artemis II’s Launch Around The Moon
 - <a href="https://spacenews.com/chinas-tianwen-3-mars-sample-return-mission-moves-into-spacecraft-construction-phase/" >🔗</a> **[SpaceNews]** China’s Tianwen-3 Mars sample return mission moves into spacecraft construction phase
 - <a href="https://www.nasa.gov/directorates/armd/iasp/armd-iasp-lbfd/about-lbfd/" >🔗</a> **[NASA]** About Low Boom Flight Demonstrator (LBFD) Project
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/science-research/astrophysics/exoplanet-science/tiny-nasa-spacecraft-delivers-exoplanet-missions-first-images/" >🔗</a> **[NASA]** Tiny NASA Spacecraft Delivers Exoplanet Mission’s First Images
 - <a href="https://spacenews.com/another-earth-raises-4-million-to-boost-ai-training-with-synthetic-satellite-data/" >🔗</a> **[SpaceNews]** Another Earth raises $4 million to boost AI training with synthetic satellite data
 - <a href="https://www.spacescout.info/2026/03/firefly-sends-off-alpha-block-i-with-flta007/" >🔗</a> **[Space Scout]** Firefly Sends off Alpha Block I with FLTA007
-- <a href="https://www.nasa.gov/image-article/webb-spots-details-in-nearby-spiral-galaxy/" >🔗</a> **[NASA]** Webb Spots Details in Nearby Spiral Galaxy
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260313T013031">2026-03-13 01:30:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260313T025300">2026-03-13 02:53:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
