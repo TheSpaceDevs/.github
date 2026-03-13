@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/astroscale-selects-isar-aerospace-to-launch-elsa-m-mission/" >🔗</a> **[SpaceNews]** Astroscale selects Isar Aerospace to launch ELSA-M mission
+- <a href="https://www.nasaspaceflight.com/2026/03/steel-rolls-to-starship/" >🔗</a> **[NASASpaceflight]** From Steel Rolls to Starship at the Starfactory
 - <a href="https://spaceflightnow.com/2026/03/13/nasa-ready-for-another-shot-at-launching-artemis-2-moon-mission/" >🔗</a> **[Spaceflight Now]** NASA ready for another shot at launching Artemis 2 moon mission
 - <a href="https://spacenews.com/china-is-developing-low-cost-lunar-cargo-options-for-its-expanding-moon-program/" >🔗</a> **[SpaceNews]** China is developing low-cost lunar cargo options for its expanding moon program
 - <a href="https://www.nasa.gov/aeronautics/nasa-selects-finalists-in-student-aircraft-maintenance-competition/" >🔗</a> **[NASA]** NASA Selects Finalists in Student Aircraft Maintenance Competition
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/usbr-crack-the-case-challenge/" >🔗</a> **[NASA]** USBR Crack the Case Challenge
 - <a href="https://science.nasa.gov/get-involved/citizen-science/nasa-volunteers-study-biofilm-adaptability-in-space/" >🔗</a> **[NASA]** NASA Volunteers Study Biofilm Adaptability in Space
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/usbr-halt-the-hitchhiker-invasive-species-challenge/" >🔗</a> **[NASA]** USBR Halt the Hitchhiker: Invasive Species Challenge
-- <a href="https://spacenews.com/eutelsat-exits-two-russian-capacity-leases-after-satellite-failure/" >🔗</a> **[SpaceNews]** Eutelsat exits two Russian capacity leases after satellite failure
-- <a href="https://www.nasa.gov/image-article/good-morning-moon/" >🔗</a> **[NASA]** Good Morning, Moon
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260313T210627">2026-03-13 21:06:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260313T214137">2026-03-13 21:41:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
