@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-armstrong-to-host-partnership-days-april-15-16/" >🔗</a> **[NASA]** NASA Armstrong to Host Partnership Days April 15-16
+- <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/usbr-crack-the-case-challenge/" >🔗</a> **[NASA]** USBR Crack the Case Challenge
+- <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/usbr-halt-the-hitchhiker-invasive-species-challenge/" >🔗</a> **[NASA]** USBR Halt the Hitchhiker: Invasive Species Challenge
 - <a href="https://spacenews.com/eutelsat-exits-two-russian-capacity-leases-after-satellite-failure/" >🔗</a> **[SpaceNews]** Eutelsat exits two Russian capacity leases after satellite failure
 - <a href="https://www.nasa.gov/image-article/good-morning-moon/" >🔗</a> **[NASA]** Good Morning, Moon
 - <a href="https://www.nasa.gov/es/agenda-diaria-de-la-mision-a-la-luna-de-artemis-ii-de-la-nasa/" >🔗</a> **[NASA]** Agenda diaria de la misión a la Luna de Artemis II de la NASA
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/missions/webb/artifacts-from-nasas-webb-parker-solar-probe-on-view-at-smithsonian/" >🔗</a> **[NASA]** Artifacts From NASA’s Webb, Parker Solar Probe on View at Smithsonian
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Europe_s_Spaceport/A_look_back_at_2025_for_Europe_s_Spaceport" >🔗</a> **[ESA]** A look back at 2025 for Europe’s Spaceport
 - <a href="https://www.nasa.gov/centers-and-facilities/glenn/gvis-virtual-systems-simulations/" >🔗</a> **[NASA]** GVIS Virtual Systems Simulations
-- <a href="https://www.nasa.gov/centers-and-facilities/glenn/gvis-conceptual-visual-designs/" >🔗</a> **[NASA]** GVIS Conceptual Visual Designs
-- <a href="https://www.nasa.gov/centers-and-facilities/glenn/gvis-scientific-visualizations/" >🔗</a> **[NASA]** GVIS Scientific Visualizations
-- <a href="https://www.nasa.gov/centers-and-facilities/glenn/gvis-test-facilities-visualizations/" >🔗</a> **[NASA]** GVIS Test Facilities Visualizations
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260313T171006">2026-03-13 17:10:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260313T174229">2026-03-13 17:42:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
