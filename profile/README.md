@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/imetalx-emerges-from-stealth-with-technology-to-model-resident-space-objects/" >🔗</a> **[SpaceNews]** iMetalX emerges from stealth with technology to model resident space objects
 - <a href="https://science.nasa.gov/get-involved/citizen-science/volunteers-find-oddly-high-solar-flare-rates/" >🔗</a> **[NASA]** Volunteers Find Oddly High Solar Flare Rates
 - <a href="https://science.nasa.gov/get-involved/citizen-science/extra-extra-extra-data-stream-added-to-the-daily-minor-planet/" >🔗</a> **[NASA]** Extra Extra! Extra Data Stream Added to the Daily Minor Planet!
 - <a href="https://spacenews.com/astroscale-selects-isar-aerospace-to-launch-elsa-m-mission/" >🔗</a> **[SpaceNews]** Astroscale selects Isar Aerospace to launch ELSA-M mission
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/aeronautics/nasa-selects-finalists-in-student-aircraft-maintenance-competition/" >🔗</a> **[NASA]** NASA Selects Finalists in Student Aircraft Maintenance Competition
 - <a href="https://spacenews.com/ukraine-will-host-first-test-for-leonardos-michelangelo-security-dome/" >🔗</a> **[SpaceNews]** Ukraine will host first test for Leonardo’s Michelangelo security dome
 - <a href="https://www.nasa.gov/news-release/nasa-armstrong-to-host-partnership-days-april-15-16/" >🔗</a> **[NASA]** NASA Armstrong to Host Partnership Days April 15-16
-- <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/usbr-crack-the-case-challenge/" >🔗</a> **[NASA]** USBR Crack the Case Challenge
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260314T000829">2026-03-14 00:08:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260314T004954">2026-03-14 00:49:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
