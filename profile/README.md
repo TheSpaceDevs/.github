@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/03/blue-origin-neo-hunter-planetary-defense/" >🔗</a> **[NASASpaceflight]** Blue Origin Unveils NEO Hunter: A Hybrid Planetary Defense Concept
 - <a href="https://spaceflightnow.com/2026/03/14/nasa-administrator-teases-further-artemis-program-updates-in-one-on-one-interview/" >🔗</a> **[Spaceflight Now]** NASA Administrator teases further Artemis program updates in one-on-one interview
 - <a href="https://spacenews.com/imetalx-emerges-from-stealth-with-technology-to-model-resident-space-objects/" >🔗</a> **[SpaceNews]** iMetalX emerges from stealth with technology to model resident space objects
 - <a href="https://science.nasa.gov/get-involved/citizen-science/volunteers-find-oddly-high-solar-flare-rates/" >🔗</a> **[NASA]** Volunteers Find Oddly High Solar Flare Rates
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spaceflightnow.com/2026/03/13/nasa-ready-for-another-shot-at-launching-artemis-2-moon-mission/" >🔗</a> **[Spaceflight Now]** NASA ready for another shot at launching Artemis 2 moon mission
 - <a href="https://spacenews.com/china-is-developing-low-cost-lunar-cargo-options-for-its-expanding-moon-program/" >🔗</a> **[SpaceNews]** China is developing low-cost lunar cargo options for its expanding moon program
 - <a href="https://www.nasa.gov/aeronautics/nasa-selects-finalists-in-student-aircraft-maintenance-competition/" >🔗</a> **[NASA]** NASA Selects Finalists in Student Aircraft Maintenance Competition
-- <a href="https://spacenews.com/ukraine-will-host-first-test-for-leonardos-michelangelo-security-dome/" >🔗</a> **[SpaceNews]** Ukraine will host first test for Leonardo’s Michelangelo security dome
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260314T210421">2026-03-14 21:04:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260314T213821">2026-03-14 21:38:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
