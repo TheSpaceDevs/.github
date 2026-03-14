@@ -89,6 +89,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/03/14/nasa-administrator-teases-further-artemis-program-updates-in-one-on-one-interview/" >🔗</a> **[Spaceflight Now]** NASA Administrator teases further Artemis program updates in one-on-one interview
 - <a href="https://spacenews.com/imetalx-emerges-from-stealth-with-technology-to-model-resident-space-objects/" >🔗</a> **[SpaceNews]** iMetalX emerges from stealth with technology to model resident space objects
 - <a href="https://science.nasa.gov/get-involved/citizen-science/volunteers-find-oddly-high-solar-flare-rates/" >🔗</a> **[NASA]** Volunteers Find Oddly High Solar Flare Rates
 - <a href="https://science.nasa.gov/get-involved/citizen-science/extra-extra-extra-data-stream-added-to-the-daily-minor-planet/" >🔗</a> **[NASA]** Extra Extra! Extra Data Stream Added to the Daily Minor Planet!
@@ -98,7 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/china-is-developing-low-cost-lunar-cargo-options-for-its-expanding-moon-program/" >🔗</a> **[SpaceNews]** China is developing low-cost lunar cargo options for its expanding moon program
 - <a href="https://www.nasa.gov/aeronautics/nasa-selects-finalists-in-student-aircraft-maintenance-competition/" >🔗</a> **[NASA]** NASA Selects Finalists in Student Aircraft Maintenance Competition
 - <a href="https://spacenews.com/ukraine-will-host-first-test-for-leonardos-michelangelo-security-dome/" >🔗</a> **[SpaceNews]** Ukraine will host first test for Leonardo’s Michelangelo security dome
-- <a href="https://www.nasa.gov/news-release/nasa-armstrong-to-host-partnership-days-april-15-16/" >🔗</a> **[NASA]** NASA Armstrong to Host Partnership Days April 15-16
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260314T110305">2026-03-14 11:03:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260314T113643">2026-03-14 11:36:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
