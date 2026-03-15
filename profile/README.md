@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-march-15-22-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy March 15-22, 2026
 - <a href="https://spacenews.com/ostp-taking-on-space-policy-coordination-work-in-place-of-national-space-council/" >🔗</a> **[SpaceNews]** OSTP taking on space policy coordination work in place of National Space Council
 - <a href="https://spacenews.com/strait-of-hormuz-crisis-drives-demand-for-commercial-geospatial-intelligence/" >🔗</a> **[SpaceNews]** Strait of Hormuz crisis drives demand for commercial geospatial intelligence
 - <a href="https://spacenews.com/raytheon-contract-for-protected-satellite-communications-terminals-raised-by-2-billion/" >🔗</a> **[SpaceNews]** Raytheon contract for protected satellite communications terminals raised by $2 billion
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/get-involved/citizen-science/volunteers-find-oddly-high-solar-flare-rates/" >🔗</a> **[NASA]** Volunteers Find Oddly High Solar Flare Rates
 - <a href="https://science.nasa.gov/get-involved/citizen-science/extra-extra-extra-data-stream-added-to-the-daily-minor-planet/" >🔗</a> **[NASA]** Extra Extra! Extra Data Stream Added to the Daily Minor Planet!
 - <a href="https://spacenews.com/astroscale-selects-isar-aerospace-to-launch-elsa-m-mission/" >🔗</a> **[SpaceNews]** Astroscale selects Isar Aerospace to launch ELSA-M mission
-- <a href="https://www.nasaspaceflight.com/2026/03/steel-rolls-to-starship/" >🔗</a> **[NASASpaceflight]** From Steel Rolls to Starship at the Starfactory
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260315T200231">2026-03-15 20:02:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260315T204054">2026-03-15 20:40:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
