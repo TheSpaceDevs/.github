@@ -19,13 +19,13 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Long March 6A | Unknown Payload**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
+**Kuaizhou 1A | Unknown Payload**. It is scheduled to be launched by *ExPace*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-from *<a href="None">Launch Complex 9A</a>, Taiyuan Satellite Launch Center, People's Republic of China*
+from *<a href="https://en.wikipedia.org/wiki/Jiuquan_Satellite_Launch_Center">Launch Area 95A</a>, Jiuquan Satellite Launch Center, People's Republic of China*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260315T131400">2026-03-15 13:14:00 UTC</a>.  Until
-then, this pad will have been used for 21
-out of 150 launches from this location. The launch status is currently
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260316T040400">2026-03-16 04:04:00 UTC</a>.  Until
+then, this pad will have been used for 65
+out of 277 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
 *Unknown* and the payload will be injected
 into *an Unknown
@@ -36,10 +36,10 @@ into *an Unknown
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Long_March_6" >
+  <a href="https://en.wikipedia.org/wiki/Kuaizhou" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=38.8583,111.5802" >
+  <a href="https://www.google.com/maps?q=40.969117,100.343333" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -54,6 +54,7 @@ into *an Unknown
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260320T214800">2026-03-20 21:48:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-15&location=Vandenberg SFB, CA, USA&dates=20260320T214800Z%2F20260321T014800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-15** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260322T115949">2026-03-22 11:59:49 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Progress MS-33 (94P)&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20260322T115949Z%2F20260322T115949Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Progress MS-33 (94P)** from Baikonur Cosmodrome, Republic of Kazakhstan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260322T144300">2026-03-22 14:43:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-62&location=Cape Canaveral SFS, FL, USA&dates=20260322T144300Z%2F20260322T184300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-62** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260324T000000">2026-03-24 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Daughter Of The Stars (LEO-PNT Pathfinder A)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20260324T000000Z%2F20260324T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Daughter Of The Stars (LEO-PNT Pathfinder A)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -89,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/raytheon-contract-for-protected-satellite-communications-terminals-raised-by-2-billion/" >🔗</a> **[SpaceNews]** Raytheon contract for protected satellite communications terminals raised by $2 billion
 - <a href="https://www.nasaspaceflight.com/2026/03/blue-origin-neo-hunter-planetary-defense/" >🔗</a> **[NASASpaceflight]** Blue Origin Unveils NEO Hunter: A Hybrid Planetary Defense Concept
 - <a href="https://spaceflightnow.com/2026/03/14/nasa-administrator-teases-further-artemis-program-updates-in-one-on-one-interview/" >🔗</a> **[Spaceflight Now]** NASA Administrator teases further Artemis program updates in one-on-one interview
 - <a href="https://spacenews.com/imetalx-emerges-from-stealth-with-technology-to-model-resident-space-objects/" >🔗</a> **[SpaceNews]** iMetalX emerges from stealth with technology to model resident space objects
@@ -98,17 +100,15 @@ into *an Unknown
 - <a href="https://www.nasaspaceflight.com/2026/03/steel-rolls-to-starship/" >🔗</a> **[NASASpaceflight]** From Steel Rolls to Starship at the Starfactory
 - <a href="https://spaceflightnow.com/2026/03/13/nasa-ready-for-another-shot-at-launching-artemis-2-moon-mission/" >🔗</a> **[Spaceflight Now]** NASA ready for another shot at launching Artemis 2 moon mission
 - <a href="https://spacenews.com/china-is-developing-low-cost-lunar-cargo-options-for-its-expanding-moon-program/" >🔗</a> **[SpaceNews]** China is developing low-cost lunar cargo options for its expanding moon program
-- <a href="https://www.nasa.gov/aeronautics/nasa-selects-finalists-in-student-aircraft-maintenance-competition/" >🔗</a> **[NASA]** NASA Selects Finalists in Student Aircraft Maintenance Competition
 
 
 ### Launch-related News 🚀
 
-- <a href="https://www.nasaspaceflight.com/2026/03/launch-preview-031026/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9 to dominate another busy week of missions
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260315T134422">2026-03-15 13:44:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260315T140710">2026-03-15 14:07:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
