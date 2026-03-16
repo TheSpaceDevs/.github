@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/celebrating-100-years-since-goddards-breakthrough-moment-in-modern-rocketry/" >🔗</a> **[NASA]** Celebrating 100 Years Since Goddard’s Breakthrough Moment in Modern Rocketry
+- <a href="https://www.nasa.gov/centers-and-facilities/nesc/a-combination-of-techniques-leads-to-improved-friction-stir-welding/" >🔗</a> **[NASA]** A Combination of Techniques Leads to Improved Friction Stir Welding
 - <a href="https://www.nasa.gov/general/nesc-develops-method-for-estimating-risk-when-reducing-nde/" >🔗</a> **[NASA]** NESC Develops Method for Estimating Risk When Reducing NDE
 - <a href="https://spacenews.com/investing-in-student-programs-is-essential-for-americas-lead-in-space/" >🔗</a> **[SpaceNews]** Investing in student programs is essential for America’s lead in space
 - <a href="https://spacenews.com/new-moog-innovations-for-the-satellite-market-on-full-display-at-satellite-2026-conference/" >🔗</a> **[SpaceNews]** New Moog Innovations for the Satellite Market on Full Display at SATELLITE 2026 Conference
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/CryoSat/How_does_an_ice_satellite_detect_a_geomagnetic_storm" >🔗</a> **[ESA]** How does an ice satellite detect a geomagnetic storm?
 - <a href="https://science.nasa.gov/earth/earth-observatory/canon-fiords-whirling-waters/" >🔗</a> **[NASA]** Cañon Fiord’s Whirling Waters
 - <a href="https://spacenews.com/starcloud-files-plans-for-88000-satellite-constellation/" >🔗</a> **[SpaceNews]** Starcloud files plans for 88,000-satellite constellation
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-march-15-22-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy March 15-22, 2026
-- <a href="https://spacenews.com/ostp-taking-on-space-policy-coordination-work-in-place-of-national-space-council/" >🔗</a> **[SpaceNews]** OSTP taking on space policy coordination work in place of National Space Council
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260316T132829">2026-03-16 13:28:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260316T140052">2026-03-16 14:00:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
