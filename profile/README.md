@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/kepler-communications-call-for-live-stream-payload-concepts/" >🔗</a> **[SpaceNews]** Kepler Communications: Call for Live-Stream Payload Concepts
 - <a href="https://www.nasa.gov/image-article/celebrating-100-years-since-goddards-breakthrough-moment-in-modern-rocketry/" >🔗</a> **[NASA]** Celebrating 100 Years Since Goddard’s Breakthrough Moment in Modern Rocketry
 - <a href="https://www.nasa.gov/centers-and-facilities/nesc/a-combination-of-techniques-leads-to-improved-friction-stir-welding/" >🔗</a> **[NASA]** A Combination of Techniques Leads to Improved Friction Stir Welding
 - <a href="https://www.nasa.gov/general/nesc-develops-method-for-estimating-risk-when-reducing-nde/" >🔗</a> **[NASA]** NESC Develops Method for Estimating Risk When Reducing NDE
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/china-launches-new-highly-retrograde-yaogan-satellite-kz-11-rideshare-deploys-8-satellites/" >🔗</a> **[SpaceNews]** China launches new highly retrograde Yaogan satellite, KZ-11 rideshare deploys 8 satellites
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/CryoSat/How_does_an_ice_satellite_detect_a_geomagnetic_storm" >🔗</a> **[ESA]** How does an ice satellite detect a geomagnetic storm?
 - <a href="https://science.nasa.gov/earth/earth-observatory/canon-fiords-whirling-waters/" >🔗</a> **[NASA]** Cañon Fiord’s Whirling Waters
-- <a href="https://spacenews.com/starcloud-files-plans-for-88000-satellite-constellation/" >🔗</a> **[SpaceNews]** Starcloud files plans for 88,000-satellite constellation
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260316T144837">2026-03-16 14:48:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260316T152138">2026-03-16 15:21:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
