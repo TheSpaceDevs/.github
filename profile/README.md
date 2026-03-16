@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/03/launch-preview-031626/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9, Spectrum, Electron to launch during busy week of launches
 - <a href="https://spaceflightnow.com/2026/03/16/live-coverage-spacex-to-launch-a-falcon-9-rocket-on-st-patricks-day-morning/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch a Falcon 9 rocket on St. Patrick’s Day morning
 - <a href="https://spacenews.com/nvidia-unveils-ai-computing-module-for-space-based-data-centers/" >🔗</a> **[SpaceNews]** Nvidia unveils AI computing module for space-based data centers
 - <a href="https://spaceflightnow.com/2026/03/16/live-coverage-spacex-to-launch-25-starlink-satellites-on-falcon-9-rocket-from-california/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 25 Starlink satellites on Falcon 9 rocket from California
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/missions/artemis/artemis-2/to-protect-artemis-ii-astronauts-nasa-experts-keep-eyes-on-sun/" >🔗</a> **[NASA]** To Protect Artemis II Astronauts, NASA Experts Keep Eyes on Sun
 - <a href="https://spacenews.com/melagen-labs-and-satlyt-announce-joint-iss-mission-to-demonstrate-radiation-resilient-in-orbit-computing-and-next-gen-shielding/" >🔗</a> **[SpaceNews]** Melagen Labs and Satlyt Announce Joint ISS Mission to Demonstrate Radiation-Resilient In-Orbit Computing and Next-Gen Shielding
 - <a href="https://www.spacescout.info/2026/03/many-questions-few-answers-as-artemis-ii-targets-april/" >🔗</a> **[Space Scout]** Many Questions, Few Answers as Artemis II Targets April
-- <a href="https://spacenews.com/kepler-communications-call-for-live-stream-payload-concepts/" >🔗</a> **[SpaceNews]** Kepler Communications: Call for Live-Stream Payload Concepts
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260316T230455">2026-03-16 23:04:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260316T233932">2026-03-16 23:39:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
