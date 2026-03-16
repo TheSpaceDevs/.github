@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/melagen-labs-and-satlyt-announce-joint-iss-mission-to-demonstrate-radiation-resilient-in-orbit-computing-and-next-gen-shielding/" >🔗</a> **[SpaceNews]** Melagen Labs and Satlyt Announce Joint ISS Mission to Demonstrate Radiation-Resilient In-Orbit Computing and Next-Gen Shielding
+- <a href="https://www.spacescout.info/2026/03/many-questions-few-answers-as-artemis-ii-targets-april/" >🔗</a> **[Space Scout]** Many Questions, Few Answers as Artemis II Targets April
 - <a href="https://spacenews.com/kepler-communications-call-for-live-stream-payload-concepts/" >🔗</a> **[SpaceNews]** Kepler Communications: Call for Live-Stream Payload Concepts
 - <a href="https://www.nasa.gov/image-article/celebrating-100-years-since-goddards-breakthrough-moment-in-modern-rocketry/" >🔗</a> **[NASA]** Celebrating 100 Years Since Goddard’s Breakthrough Moment in Modern Rocketry
 - <a href="https://www.nasa.gov/centers-and-facilities/nesc/a-combination-of-techniques-leads-to-improved-friction-stir-welding/" >🔗</a> **[NASA]** A Combination of Techniques Leads to Improved Friction Stir Welding
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/new-moog-innovations-for-the-satellite-market-on-full-display-at-satellite-2026-conference/" >🔗</a> **[SpaceNews]** New Moog Innovations for the Satellite Market on Full Display at SATELLITE 2026 Conference
 - <a href="https://arstechnica.com/space/2026/03/a-century-after-the-first-rocket-launch-ars-staffers-pick-their-favorites/" >🔗</a> **[Arstechnica]** A century after the first rocket launch, Ars staffers pick their favorites
 - <a href="https://spacenews.com/china-launches-new-highly-retrograde-yaogan-satellite-kz-11-rideshare-deploys-8-satellites/" >🔗</a> **[SpaceNews]** China launches new highly retrograde Yaogan satellite, KZ-11 rideshare deploys 8 satellites
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/CryoSat/How_does_an_ice_satellite_detect_a_geomagnetic_storm" >🔗</a> **[ESA]** How does an ice satellite detect a geomagnetic storm?
-- <a href="https://science.nasa.gov/earth/earth-observatory/canon-fiords-whirling-waters/" >🔗</a> **[NASA]** Cañon Fiord’s Whirling Waters
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260316T154755">2026-03-16 15:47:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260316T161906">2026-03-16 16:19:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
