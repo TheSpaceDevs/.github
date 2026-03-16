@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-learn-about-upcoming-x-59-test-flights/" >🔗</a> **[NASA]** NASA Invites Media to Learn About Upcoming X-59 Test Flights
 - <a href="https://science.nasa.gov/photojournal/sparcs-cubesat-first-light-images/" >🔗</a> **[NASA]** SPARCS CubeSat ‘First Light’ Images
 - <a href="https://science.nasa.gov/missions/artemis/artemis-2/to-protect-artemis-ii-astronauts-nasa-experts-keep-eyes-on-sun/" >🔗</a> **[NASA]** To Protect Artemis II Astronauts, NASA Experts Keep Eyes on Sun
 - <a href="https://spacenews.com/melagen-labs-and-satlyt-announce-joint-iss-mission-to-demonstrate-radiation-resilient-in-orbit-computing-and-next-gen-shielding/" >🔗</a> **[SpaceNews]** Melagen Labs and Satlyt Announce Joint ISS Mission to Demonstrate Radiation-Resilient In-Orbit Computing and Next-Gen Shielding
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/nesc/a-combination-of-techniques-leads-to-improved-friction-stir-welding/" >🔗</a> **[NASA]** A Combination of Techniques Leads to Improved Friction Stir Welding
 - <a href="https://www.nasa.gov/general/nesc-develops-method-for-estimating-risk-when-reducing-nde/" >🔗</a> **[NASA]** NESC Develops Method for Estimating Risk When Reducing NDE
 - <a href="https://spacenews.com/investing-in-student-programs-is-essential-for-americas-lead-in-space/" >🔗</a> **[SpaceNews]** Investing in student programs is essential for America’s lead in space
-- <a href="https://spacenews.com/new-moog-innovations-for-the-satellite-market-on-full-display-at-satellite-2026-conference/" >🔗</a> **[SpaceNews]** New Moog Innovations for the Satellite Market on Full Display at SATELLITE 2026 Conference
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260316T194539">2026-03-16 19:45:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260316T200707">2026-03-16 20:07:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
