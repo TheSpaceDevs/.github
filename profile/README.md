@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/CryoSat/How_does_an_ice_satellite_detect_a_geomagnetic_storm" >🔗</a> **[ESA]** How does an ice satellite detect a geomagnetic storm?
 - <a href="https://spacenews.com/starcloud-files-plans-for-88000-satellite-constellation/" >🔗</a> **[SpaceNews]** Starcloud files plans for 88,000-satellite constellation
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-march-15-22-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy March 15-22, 2026
 - <a href="https://spacenews.com/ostp-taking-on-space-policy-coordination-work-in-place-of-national-space-council/" >🔗</a> **[SpaceNews]** OSTP taking on space policy coordination work in place of National Space Council
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2026/03/14/nasa-administrator-teases-further-artemis-program-updates-in-one-on-one-interview/" >🔗</a> **[Spaceflight Now]** NASA Administrator teases further Artemis program updates in one-on-one interview
 - <a href="https://spacenews.com/imetalx-emerges-from-stealth-with-technology-to-model-resident-space-objects/" >🔗</a> **[SpaceNews]** iMetalX emerges from stealth with technology to model resident space objects
 - <a href="https://science.nasa.gov/get-involved/citizen-science/volunteers-find-oddly-high-solar-flare-rates/" >🔗</a> **[NASA]** Volunteers Find Oddly High Solar Flare Rates
-- <a href="https://science.nasa.gov/get-involved/citizen-science/extra-extra-extra-data-stream-added-to-the-daily-minor-planet/" >🔗</a> **[NASA]** Extra Extra! Extra Data Stream Added to the Daily Minor Planet!
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260316T084531">2026-03-16 08:45:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260316T091906">2026-03-16 09:19:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
