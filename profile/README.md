@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/photojournal/sparcs-cubesat-first-light-images/" >🔗</a> **[NASA]** SPARCS CubeSat ‘First Light’ Images
+- <a href="https://science.nasa.gov/missions/artemis/artemis-2/to-protect-artemis-ii-astronauts-nasa-experts-keep-eyes-on-sun/" >🔗</a> **[NASA]** To Protect Artemis II Astronauts, NASA Experts Keep Eyes on Sun
 - <a href="https://spacenews.com/melagen-labs-and-satlyt-announce-joint-iss-mission-to-demonstrate-radiation-resilient-in-orbit-computing-and-next-gen-shielding/" >🔗</a> **[SpaceNews]** Melagen Labs and Satlyt Announce Joint ISS Mission to Demonstrate Radiation-Resilient In-Orbit Computing and Next-Gen Shielding
 - <a href="https://www.spacescout.info/2026/03/many-questions-few-answers-as-artemis-ii-targets-april/" >🔗</a> **[Space Scout]** Many Questions, Few Answers as Artemis II Targets April
 - <a href="https://spacenews.com/kepler-communications-call-for-live-stream-payload-concepts/" >🔗</a> **[SpaceNews]** Kepler Communications: Call for Live-Stream Payload Concepts
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/general/nesc-develops-method-for-estimating-risk-when-reducing-nde/" >🔗</a> **[NASA]** NESC Develops Method for Estimating Risk When Reducing NDE
 - <a href="https://spacenews.com/investing-in-student-programs-is-essential-for-americas-lead-in-space/" >🔗</a> **[SpaceNews]** Investing in student programs is essential for America’s lead in space
 - <a href="https://spacenews.com/new-moog-innovations-for-the-satellite-market-on-full-display-at-satellite-2026-conference/" >🔗</a> **[SpaceNews]** New Moog Innovations for the Satellite Market on Full Display at SATELLITE 2026 Conference
-- <a href="https://arstechnica.com/space/2026/03/a-century-after-the-first-rocket-launch-ars-staffers-pick-their-favorites/" >🔗</a> **[Arstechnica]** A century after the first rocket launch, Ars staffers pick their favorites
-- <a href="https://spacenews.com/china-launches-new-highly-retrograde-yaogan-satellite-kz-11-rideshare-deploys-8-satellites/" >🔗</a> **[SpaceNews]** China launches new highly retrograde Yaogan satellite, KZ-11 rideshare deploys 8 satellites
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260316T184550">2026-03-16 18:45:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260316T192054">2026-03-16 19:20:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
