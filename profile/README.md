@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/new-moog-innovations-for-the-satellite-market-on-full-display-at-satellite-2026-conference/" >🔗</a> **[SpaceNews]** New Moog Innovations for the Satellite Market on Full Display at SATELLITE 2026 Conference
 - <a href="https://arstechnica.com/space/2026/03/a-century-after-the-first-rocket-launch-ars-staffers-pick-their-favorites/" >🔗</a> **[Arstechnica]** A century after the first rocket launch, Ars staffers pick their favorites
 - <a href="https://spacenews.com/china-launches-new-highly-retrograde-yaogan-satellite-kz-11-rideshare-deploys-8-satellites/" >🔗</a> **[SpaceNews]** China launches new highly retrograde Yaogan satellite, KZ-11 rideshare deploys 8 satellites
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/CryoSat/How_does_an_ice_satellite_detect_a_geomagnetic_storm" >🔗</a> **[ESA]** How does an ice satellite detect a geomagnetic storm?
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/strait-of-hormuz-crisis-drives-demand-for-commercial-geospatial-intelligence/" >🔗</a> **[SpaceNews]** Strait of Hormuz crisis drives demand for commercial geospatial intelligence
 - <a href="https://spacenews.com/raytheon-contract-for-protected-satellite-communications-terminals-raised-by-2-billion/" >🔗</a> **[SpaceNews]** Raytheon contract for protected satellite communications terminals raised by $2 billion
 - <a href="https://www.nasaspaceflight.com/2026/03/blue-origin-neo-hunter-planetary-defense/" >🔗</a> **[NASASpaceflight]** Blue Origin Unveils NEO Hunter: A Hybrid Planetary Defense Concept
-- <a href="https://spaceflightnow.com/2026/03/14/nasa-administrator-teases-further-artemis-program-updates-in-one-on-one-interview/" >🔗</a> **[Spaceflight Now]** NASA Administrator teases further Artemis program updates in one-on-one interview
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260316T114410">2026-03-16 11:44:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260316T121027">2026-03-16 12:10:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
