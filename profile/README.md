@@ -89,6 +89,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/an-astronauts-tiny-stand-in-tissue-chips-in-space-health/" >🔗</a> **[SpaceNews]** An astronaut’s tiny stand-in: tissue chips in space health
 - <a href="https://spacenews.com/innospace-completes-investigation-into-hanbit-nano-launch-failure/" >🔗</a> **[SpaceNews]** Innospace completes investigation into Hanbit-Nano launch failure
 - <a href="https://science.nasa.gov/earth/earth-observatory/a-bit-of-gray-in-an-emerald-isle/" >🔗</a> **[NASA]** A Bit of Gray on an Emerald Isle
 - <a href="https://spacepolicyonline.com/news/kshatriya-hints-nasa-may-reconsider-south-pole-for-initial-artemis-landings/" >🔗</a> **[SpacePolicyOnline.com]** Kshatriya Hints NASA May Reconsider South Pole for Initial Artemis Landings
@@ -98,7 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2026/03/16/live-coverage-spacex-to-launch-25-starlink-satellites-on-falcon-9-rocket-from-california/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 25 Starlink satellites on Falcon 9 rocket from California
 - <a href="https://spacenews.com/kayrros-sale-signals-rising-demand-for-satellite-intelligence-amid-hormuz-crisis/" >🔗</a> **[SpaceNews]** Kayrros sale signals rising demand for satellite intelligence amid Hormuz crisis
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-learn-about-upcoming-x-59-test-flights/" >🔗</a> **[NASA]** NASA Invites Media to Learn About Upcoming X-59 Test Flights
-- <a href="https://science.nasa.gov/photojournal/sparcs-cubesat-first-light-images/" >🔗</a> **[NASA]** SPARCS CubeSat ‘First Light’ Images
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260317T111418">2026-03-17 11:14:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260317T114332">2026-03-17 11:43:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
