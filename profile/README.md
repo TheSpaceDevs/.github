@@ -90,6 +90,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/telesat-pivots-lightspeed-toward-defense-as-delays-push-global-service-to-2028/" >🔗</a> **[SpaceNews]** Telesat pivots Lightspeed toward defense as delays push global service to 2028
+- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasas-x-59-prepares-for-second-flight/" >🔗</a> **[NASA]** NASA’s X-59 Prepares for Second Flight
+- <a href="https://spacenews.com/office-of-space-commerce-weighing-options-for-tracss-user-fees/" >🔗</a> **[SpaceNews]** Office of Space Commerce weighing options for TraCSS user fees
 - <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/dim-delights-in-cancer/" >🔗</a> **[NASA]** Dim Delights in Cancer
 - <a href="https://spacenews.com/space-boom-strains-supply-chain-industry-report-warns/" >🔗</a> **[SpaceNews]** Space boom strains supply chain, industry report warns
 - <a href="https://spacenews.com/golden-dome-cost-estimate-rises-to-185-billion-as-pentagon-expands-space-layer/" >🔗</a> **[SpaceNews]** Golden Dome cost estimate rises to $185 billion as Pentagon expands space layer
@@ -97,9 +100,6 @@ into *an Unknown
 - <a href="https://arstechnica.com/science/2026/03/a-large-meteor-is-visible-from-much-of-ohio-and-parts-of-neighboring-states/" >🔗</a> **[Arstechnica]** A large meteor is visible from much of Ohio and parts of neighboring states
 - <a href="https://www.nasa.gov/image-article/solving-asteroid-bennus-mysteries/" >🔗</a> **[NASA]** Solving Asteroid Bennu’s Mysteries
 - <a href="https://europeanspaceflight.com/sirius-space-services-acquires-amm-42-as-it-prepares-for-inaugural-flight/" >🔗</a> **[European Spaceflight]** Sirius Space Services Acquires AMM-42 as It Prepares for Inaugural Flight
-- <a href="https://science.nasa.gov/missions/osiris-rex/asteroid-bennus-rugged-surface-baffled-nasa-we-finally-know-why/" >🔗</a> **[NASA]** Asteroid Bennu’s Rugged Surface Baffled NASA, We Finally Know Why
-- <a href="https://science.nasa.gov/get-involved/citizen-science/hail-yeah-nasa-researchers-use-volunteer-observations-for-hail-estimates/" >🔗</a> **[NASA]** Hail Yeah! NASA Researchers Use Volunteer Observations for Hail Estimates
-- <a href="https://www.esa.int/Space_Safety/Hera/Hera_on_course_for_asteroid_rendezvous" >🔗</a> **[ESA]** Hera on course for asteroid rendezvous
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260317T210916">2026-03-17 21:09:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260317T214301">2026-03-17 21:43:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
