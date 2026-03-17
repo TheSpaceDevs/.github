@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/golden-dome-cost-estimate-rises-to-185-billion-as-pentagon-expands-space-layer/" >🔗</a> **[SpaceNews]** Golden Dome cost estimate rises to $185 billion as Pentagon expands space layer
 - <a href="https://spacenews.com/isptech-raises-e5-5m-seed-round-to-redefine-how-spacecraft-manoeuvre-in-orbit/" >🔗</a> **[SpaceNews]** ISPTech Raises €5.5M Seed Round to Redefine How Spacecraft Manoeuvre in Orbit
 - <a href="https://arstechnica.com/science/2026/03/a-large-meteor-is-visible-from-much-of-ohio-and-parts-of-neighboring-states/" >🔗</a> **[Arstechnica]** A large meteor is visible from much of Ohio and parts of neighboring states
 - <a href="https://www.nasa.gov/image-article/solving-asteroid-bennus-mysteries/" >🔗</a> **[NASA]** Solving Asteroid Bennu’s Mysteries
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.esa.int/Space_Safety/Hera/Hera_on_course_for_asteroid_rendezvous" >🔗</a> **[ESA]** Hera on course for asteroid rendezvous
 - <a href="https://spacenews.com/canadian-military-invests-in-sovereign-launch/" >🔗</a> **[SpaceNews]** Canadian military invests in sovereign launch
 - <a href="https://spacenews.com/an-astronauts-tiny-stand-in-tissue-chips-in-space-health/" >🔗</a> **[SpaceNews]** An astronaut’s tiny stand-in: tissue chips in space health
-- <a href="https://spacenews.com/innospace-completes-investigation-into-hanbit-nano-launch-failure/" >🔗</a> **[SpaceNews]** Innospace completes investigation into Hanbit-Nano launch failure
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260317T181415">2026-03-17 18:14:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260317T184543">2026-03-17 18:45:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
