@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-force-overhauls-buying-structure-with-new-mission-portfolios/" >🔗</a> **[SpaceNews]** Space Force overhauls buying structure with new mission portfolios
 - <a href="https://spacenews.com/telesat-pivots-lightspeed-toward-defense-as-delays-push-global-service-to-2028/" >🔗</a> **[SpaceNews]** Telesat pivots Lightspeed toward defense as delays push global service to 2028
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasas-x-59-prepares-for-second-flight/" >🔗</a> **[NASA]** NASA’s X-59 Prepares for Second Flight
 - <a href="https://spacenews.com/office-of-space-commerce-weighing-options-for-tracss-user-fees/" >🔗</a> **[SpaceNews]** Office of Space Commerce weighing options for TraCSS user fees
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/isptech-raises-e5-5m-seed-round-to-redefine-how-spacecraft-manoeuvre-in-orbit/" >🔗</a> **[SpaceNews]** ISPTech Raises €5.5M Seed Round to Redefine How Spacecraft Manoeuvre in Orbit
 - <a href="https://arstechnica.com/science/2026/03/a-large-meteor-is-visible-from-much-of-ohio-and-parts-of-neighboring-states/" >🔗</a> **[Arstechnica]** A large meteor is visible from much of Ohio and parts of neighboring states
 - <a href="https://www.nasa.gov/image-article/solving-asteroid-bennus-mysteries/" >🔗</a> **[NASA]** Solving Asteroid Bennu’s Mysteries
-- <a href="https://europeanspaceflight.com/sirius-space-services-acquires-amm-42-as-it-prepares-for-inaugural-flight/" >🔗</a> **[European Spaceflight]** Sirius Space Services Acquires AMM-42 as It Prepares for Inaugural Flight
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260317T230621">2026-03-17 23:06:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260317T234108">2026-03-17 23:41:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
