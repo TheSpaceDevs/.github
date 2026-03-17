@@ -89,6 +89,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Space_Safety/Hera/Hera_on_course_for_asteroid_rendezvous" >🔗</a> **[ESA]** Hera on course for asteroid rendezvous
+- <a href="https://spacenews.com/canadian-military-invests-in-sovereign-launch/" >🔗</a> **[SpaceNews]** Canadian military invests in sovereign launch
 - <a href="https://spacenews.com/an-astronauts-tiny-stand-in-tissue-chips-in-space-health/" >🔗</a> **[SpaceNews]** An astronaut’s tiny stand-in: tissue chips in space health
 - <a href="https://spacenews.com/innospace-completes-investigation-into-hanbit-nano-launch-failure/" >🔗</a> **[SpaceNews]** Innospace completes investigation into Hanbit-Nano launch failure
 - <a href="https://science.nasa.gov/earth/earth-observatory/a-bit-of-gray-in-an-emerald-isle/" >🔗</a> **[NASA]** A Bit of Gray on an Emerald Isle
@@ -97,8 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2026/03/16/live-coverage-spacex-to-launch-a-falcon-9-rocket-on-st-patricks-day-morning/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch a Falcon 9 rocket on St. Patrick’s Day morning
 - <a href="https://spacenews.com/nvidia-unveils-ai-computing-module-for-space-based-data-centers/" >🔗</a> **[SpaceNews]** Nvidia unveils AI computing module for space-based data centers
 - <a href="https://spaceflightnow.com/2026/03/16/live-coverage-spacex-to-launch-25-starlink-satellites-on-falcon-9-rocket-from-california/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 25 Starlink satellites on Falcon 9 rocket from California
-- <a href="https://spacenews.com/kayrros-sale-signals-rising-demand-for-satellite-intelligence-amid-hormuz-crisis/" >🔗</a> **[SpaceNews]** Kayrros sale signals rising demand for satellite intelligence amid Hormuz crisis
-- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-learn-about-upcoming-x-59-test-flights/" >🔗</a> **[NASA]** NASA Invites Media to Learn About Upcoming X-59 Test Flights
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260317T120927">2026-03-17 12:09:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260317T124528">2026-03-17 12:45:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
