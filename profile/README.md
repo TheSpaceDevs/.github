@@ -45,7 +45,6 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260317T102600">2026-03-17 10:26:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-46&location=Cape Canaveral SFS, FL, USA&dates=20260317T102600Z%2F20260317T142600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-46** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260319T035200">2026-03-19 03:52:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Zhuque-2E | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20260319T035200Z%2F20260319T060800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Zhuque-2E | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260319T103500">2026-03-19 10:35:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-33&location=Cape Canaveral SFS, FL, USA&dates=20260319T103500Z%2F20260319T143500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-33** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260319T174500">2026-03-19 17:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Eight Days A Week (StriX Launch 8)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20260319T174500Z%2F20260319T174500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Eight Days A Week (StriX Launch 8)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
@@ -90,6 +89,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/innospace-completes-investigation-into-hanbit-nano-launch-failure/" >🔗</a> **[SpaceNews]** Innospace completes investigation into Hanbit-Nano launch failure
 - <a href="https://science.nasa.gov/earth/earth-observatory/a-bit-of-gray-in-an-emerald-isle/" >🔗</a> **[NASA]** A Bit of Gray on an Emerald Isle
 - <a href="https://spacepolicyonline.com/news/kshatriya-hints-nasa-may-reconsider-south-pole-for-initial-artemis-landings/" >🔗</a> **[SpacePolicyOnline.com]** Kshatriya Hints NASA May Reconsider South Pole for Initial Artemis Landings
 - <a href="https://www.nasaspaceflight.com/2026/03/launch-preview-031626/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9, Spectrum, Electron to launch during busy week of launches
@@ -99,7 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/kayrros-sale-signals-rising-demand-for-satellite-intelligence-amid-hormuz-crisis/" >🔗</a> **[SpaceNews]** Kayrros sale signals rising demand for satellite intelligence amid Hormuz crisis
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-learn-about-upcoming-x-59-test-flights/" >🔗</a> **[NASA]** NASA Invites Media to Learn About Upcoming X-59 Test Flights
 - <a href="https://science.nasa.gov/photojournal/sparcs-cubesat-first-light-images/" >🔗</a> **[NASA]** SPARCS CubeSat ‘First Light’ Images
-- <a href="https://science.nasa.gov/missions/artemis/artemis-2/to-protect-artemis-ii-astronauts-nasa-experts-keep-eyes-on-sun/" >🔗</a> **[NASA]** To Protect Artemis II Astronauts, NASA Experts Keep Eyes on Sun
 
 
 ### Launch-related News 🚀
@@ -111,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260317T101355">2026-03-17 10:13:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260317T104440">2026-03-17 10:44:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
