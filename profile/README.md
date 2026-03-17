@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/dim-delights-in-cancer/" >🔗</a> **[NASA]** Dim Delights in Cancer
 - <a href="https://spacenews.com/space-boom-strains-supply-chain-industry-report-warns/" >🔗</a> **[SpaceNews]** Space boom strains supply chain, industry report warns
 - <a href="https://spacenews.com/golden-dome-cost-estimate-rises-to-185-billion-as-pentagon-expands-space-layer/" >🔗</a> **[SpaceNews]** Golden Dome cost estimate rises to $185 billion as Pentagon expands space layer
 - <a href="https://spacenews.com/isptech-raises-e5-5m-seed-round-to-redefine-how-spacecraft-manoeuvre-in-orbit/" >🔗</a> **[SpaceNews]** ISPTech Raises €5.5M Seed Round to Redefine How Spacecraft Manoeuvre in Orbit
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/missions/osiris-rex/asteroid-bennus-rugged-surface-baffled-nasa-we-finally-know-why/" >🔗</a> **[NASA]** Asteroid Bennu’s Rugged Surface Baffled NASA, We Finally Know Why
 - <a href="https://science.nasa.gov/get-involved/citizen-science/hail-yeah-nasa-researchers-use-volunteer-observations-for-hail-estimates/" >🔗</a> **[NASA]** Hail Yeah! NASA Researchers Use Volunteer Observations for Hail Estimates
 - <a href="https://www.esa.int/Space_Safety/Hera/Hera_on_course_for_asteroid_rendezvous" >🔗</a> **[ESA]** Hera on course for asteroid rendezvous
-- <a href="https://spacenews.com/canadian-military-invests-in-sovereign-launch/" >🔗</a> **[SpaceNews]** Canadian military invests in sovereign launch
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260317T200751">2026-03-17 20:07:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260317T204304">2026-03-17 20:43:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
