@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/frontier-justice-navigating-the-future-legal-landscape-for-private-actors-in-space-law/" >🔗</a> **[SpaceNews]** Frontier justice: navigating the future legal landscape for private actors in space law
+- <a href="https://spacenews.com/china-signals-new-target-for-2027-asteroid-deflection-test/" >🔗</a> **[SpaceNews]** China signals new target for 2027 asteroid deflection test
 - <a href="https://spacenews.com/nasa-grappling-with-planetary-science-funding-shortfall/" >🔗</a> **[SpaceNews]** NASA grappling with planetary science funding shortfall
 - <a href="https://www.esa.int/About_Us/ESA_Publications/ESA_Impact_2026_-_January-March" >🔗</a> **[ESA]** ESA Impact: our story so far this year
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/Arctic_Weather_Satellite/OHB_Sweden_to_build_Sterna_weather_constellation" >🔗</a> **[ESA]** OHB Sweden to build Sterna weather constellation
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/telesat-pivots-lightspeed-toward-defense-as-delays-push-global-service-to-2028/" >🔗</a> **[SpaceNews]** Telesat pivots Lightspeed toward defense as delays push global service to 2028
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasas-x-59-prepares-for-second-flight/" >🔗</a> **[NASA]** NASA’s X-59 Prepares for Second Flight
 - <a href="https://spacenews.com/office-of-space-commerce-weighing-options-for-tracss-user-fees/" >🔗</a> **[SpaceNews]** Office of Space Commerce weighing options for TraCSS user fees
-- <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/dim-delights-in-cancer/" >🔗</a> **[NASA]** Dim Delights in Cancer
-- <a href="https://spacenews.com/space-boom-strains-supply-chain-industry-report-warns/" >🔗</a> **[SpaceNews]** Space boom strains supply chain, industry report warns
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260318T124527">2026-03-18 12:45:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260318T132826">2026-03-18 13:28:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
