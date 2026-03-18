@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-unexpectedly-catches-comet-breaking-up/" >🔗</a> **[NASA]** NASA’s Hubble Unexpectedly Catches Comet Breaking Up
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Hubble_unexpectedly_catches_comet_breaking_up" >🔗</a> **[ESA]** Hubble unexpectedly catches comet breaking up
 - <a href="https://spacenews.com/frontier-justice-navigating-the-future-legal-landscape-for-private-actors-in-space-law/" >🔗</a> **[SpaceNews]** Frontier justice: navigating the future legal landscape for private actors in space law
 - <a href="https://spacenews.com/china-signals-new-target-for-2027-asteroid-deflection-test/" >🔗</a> **[SpaceNews]** China signals new target for 2027 asteroid deflection test
 - <a href="https://spacenews.com/nasa-grappling-with-planetary-science-funding-shortfall/" >🔗</a> **[SpaceNews]** NASA grappling with planetary science funding shortfall
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/earth/earth-observatory/wave-of-dust-rolls-through-texas/" >🔗</a> **[NASA]** Wave of Dust Rolls Through Texas
 - <a href="https://spacenews.com/space-force-overhauls-buying-structure-with-new-mission-portfolios/" >🔗</a> **[SpaceNews]** Space Force overhauls buying structure with new mission portfolios
 - <a href="https://spacenews.com/telesat-pivots-lightspeed-toward-defense-as-delays-push-global-service-to-2028/" >🔗</a> **[SpaceNews]** Telesat pivots Lightspeed toward defense as delays push global service to 2028
-- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasas-x-59-prepares-for-second-flight/" >🔗</a> **[NASA]** NASA’s X-59 Prepares for Second Flight
-- <a href="https://spacenews.com/office-of-space-commerce-weighing-options-for-tracss-user-fees/" >🔗</a> **[SpaceNews]** Office of Space Commerce weighing options for TraCSS user fees
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260318T140118">2026-03-18 14:01:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260318T144952">2026-03-18 14:49:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
