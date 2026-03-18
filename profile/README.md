@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/ESA_Publications/ESA_Impact_2026_-_January-March" >🔗</a> **[ESA]** ESA Impact: our story so far this year
 - <a href="https://science.nasa.gov/earth/earth-observatory/wave-of-dust-rolls-through-texas/" >🔗</a> **[NASA]** Wave of Dust Rolls Through Texas
 - <a href="https://spacenews.com/space-force-overhauls-buying-structure-with-new-mission-portfolios/" >🔗</a> **[SpaceNews]** Space Force overhauls buying structure with new mission portfolios
 - <a href="https://spacenews.com/telesat-pivots-lightspeed-toward-defense-as-delays-push-global-service-to-2028/" >🔗</a> **[SpaceNews]** Telesat pivots Lightspeed toward defense as delays push global service to 2028
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/space-boom-strains-supply-chain-industry-report-warns/" >🔗</a> **[SpaceNews]** Space boom strains supply chain, industry report warns
 - <a href="https://spacenews.com/golden-dome-cost-estimate-rises-to-185-billion-as-pentagon-expands-space-layer/" >🔗</a> **[SpaceNews]** Golden Dome cost estimate rises to $185 billion as Pentagon expands space layer
 - <a href="https://spacenews.com/isptech-raises-e5-5m-seed-round-to-redefine-how-spacecraft-manoeuvre-in-orbit/" >🔗</a> **[SpaceNews]** ISPTech Raises €5.5M Seed Round to Redefine How Spacecraft Manoeuvre in Orbit
-- <a href="https://arstechnica.com/science/2026/03/a-large-meteor-is-visible-from-much-of-ohio-and-parts-of-neighboring-states/" >🔗</a> **[Arstechnica]** A large meteor is visible from much of Ohio and parts of neighboring states
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260318T094451">2026-03-18 09:44:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260318T101528">2026-03-18 10:15:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
