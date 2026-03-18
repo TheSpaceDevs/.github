@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-command-classified-wargame-to-include-25-commercial-players/" >🔗</a> **[SpaceNews]** Space Command classified wargame to include 25 commercial players
 - <a href="https://spaceflightnow.com/2026/03/18/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-11/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4832-4837-driving-the-contact-line/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4832–4837: Driving the (Contact) Line!
 - <a href="https://www.nasaspaceflight.com/2026/03/booster-19-initial-test-pad-2/" >🔗</a> **[NASASpaceflight]** Booster 19 concludes initial test campaign on Pad 2
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/general/from-service-to-space-systems-a-pathways-journey-to-nasa/" >🔗</a> **[NASA]** From Service to Space Systems: A Pathways Journey to NASA
 - <a href="https://spacenews.com/solar-array-deal-sheds-more-light-on-south-koreas-defense-constellation/" >🔗</a> **[SpaceNews]** Solar array deal sheds more light on South Korea’s defense constellation
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-unexpectedly-catches-comet-breaking-up/" >🔗</a> **[NASA]** NASA’s Hubble Unexpectedly Catches Comet Breaking Up
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Hubble_unexpectedly_catches_comet_breaking_up" >🔗</a> **[ESA]** Hubble unexpectedly catches comet breaking up
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260318T210827">2026-03-18 21:08:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260318T214222">2026-03-18 21:42:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
