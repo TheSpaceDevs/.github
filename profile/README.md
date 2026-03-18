@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/03/18/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-11/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral
+- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4832-4837-driving-the-contact-line/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4832–4837: Driving the (Contact) Line!
 - <a href="https://www.nasaspaceflight.com/2026/03/booster-19-initial-test-pad-2/" >🔗</a> **[NASASpaceflight]** Booster 19 concludes initial test campaign on Pad 2
 - <a href="https://arstechnica.com/space/2026/03/a-private-space-company-has-a-radical-new-plan-to-bag-an-asteroid/" >🔗</a> **[Arstechnica]** A private space company has a radical new plan to bag an asteroid
 - <a href="https://spacenews.com/transastra-aims-to-move-100-ton-asteroid-to-stable-orbit-for-processing/" >🔗</a> **[SpaceNews]** TransAstra aims to move 100-ton asteroid to stable orbit for processing
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/solar-array-deal-sheds-more-light-on-south-koreas-defense-constellation/" >🔗</a> **[SpaceNews]** Solar array deal sheds more light on South Korea’s defense constellation
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-unexpectedly-catches-comet-breaking-up/" >🔗</a> **[NASA]** NASA’s Hubble Unexpectedly Catches Comet Breaking Up
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Hubble_unexpectedly_catches_comet_breaking_up" >🔗</a> **[ESA]** Hubble unexpectedly catches comet breaking up
-- <a href="https://spacenews.com/frontier-justice-navigating-the-future-legal-landscape-for-private-actors-in-space-law/" >🔗</a> **[SpaceNews]** Frontier justice: navigating the future legal landscape for private actors in space law
-- <a href="https://spacenews.com/china-signals-new-target-for-2027-asteroid-deflection-test/" >🔗</a> **[SpaceNews]** China signals new target for 2027 asteroid deflection test
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260318T200725">2026-03-18 20:07:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260318T204319">2026-03-18 20:43:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
