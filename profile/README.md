@@ -90,6 +90,9 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/eileen-collins-on-what-it-takes-to-become-space-shuttle-commander/" >🔗</a> **[SpaceNews]** Eileen Collins on what it takes to become Space Shuttle Commander
+- <a href="https://www.nasa.gov/image-article/american-bald-eagle-at-nasas-kennedy-space-center/" >🔗</a> **[NASA]** American Bald Eagle at NASA’s Kennedy Space Center
+- <a href="https://www.nasa.gov/centers-and-facilities/stennis/collecting-explosion-data-for-next-generation-rockets/" >🔗</a> **[NASA]** How NASA is Collecting Explosion Data for Next Generation Rockets
 - <a href="https://science.nasa.gov/centers-and-facilities/goddard/nasa-laser-reflecting-instrument-makes-gps-satellite-more-accurate/" >🔗</a> **[NASA]** NASA Laser Reflecting Instrument Makes GPS Satellite More Accurate
 - <a href="https://www.nasa.gov/news-release/nasa-to-cover-progress-94-spacecraft-launch-space-station-docking/" >🔗</a> **[NASA]** NASA to Cover Progress 94 Spacecraft Launch, Space Station Docking
 - <a href="https://europeanspaceflight.com/esa-awards-ohb-a-e248-million-contract-to-build-weather-satellite-constellation/" >🔗</a> **[European Spaceflight]** ESA Awards OHB a €248 Million Contract to Build Weather Satellite Constellation
@@ -97,9 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/03/345th_ESA_Council_Media_information_session" >🔗</a> **[ESA]** 345th ESA Council: Media information session
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/meet-the-platypi-nasas-newest-astronaut-candidate-class/" >🔗</a> **[NASA]** Meet the Platypi: NASA’s Newest Astronaut Candidate Class
 - <a href="https://www.nasa.gov/universe/nasas-roman-observatory-passes-final-major-prelaunch-tests/" >🔗</a> **[NASA]** NASA’s Roman Observatory Passes Final Major Prelaunch Tests
-- <a href="https://spacenews.com/nasa-considering-sharp-increase-in-robotic-lunar-landings/" >🔗</a> **[SpaceNews]** NASA considering sharp increase in robotic lunar landings
-- <a href="https://spacenews.com/reorbit-sells-two-small-geo-satellites-to-sli/" >🔗</a> **[SpaceNews]** ReOrbit sells two small GEO satellites to SLI
-- <a href="https://www.esa.int/About_Us/Business_with_ESA/Upcoming_ESA_Industry_events_on_CM25_implementation" >🔗</a> **[ESA]** Upcoming ESA–Industry events on CM25 implementation
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260319T151314">2026-03-19 15:13:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260319T154512">2026-03-19 15:45:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
