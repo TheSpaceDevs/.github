@@ -90,6 +90,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/portal-space-systems-and-paladin-space-plan-debris-removal-service/" >🔗</a> **[SpaceNews]** Portal Space Systems and Paladin Space plan debris removal service
 - <a href="https://spacenews.com/eileen-collins-on-what-it-takes-to-become-space-shuttle-commander/" >🔗</a> **[SpaceNews]** Eileen Collins on what it takes to become Space Shuttle Commander
 - <a href="https://www.nasa.gov/image-article/american-bald-eagle-at-nasas-kennedy-space-center/" >🔗</a> **[NASA]** American Bald Eagle at NASA’s Kennedy Space Center
 - <a href="https://www.nasa.gov/centers-and-facilities/stennis/collecting-explosion-data-for-next-generation-rockets/" >🔗</a> **[NASA]** How NASA is Collecting Explosion Data for Next Generation Rockets
@@ -99,7 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba-3_s_Coronagraph_is_alive" >🔗</a> **[ESA]** Proba-3’s Coronagraph is alive!
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/03/345th_ESA_Council_Media_information_session" >🔗</a> **[ESA]** 345th ESA Council: Media information session
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/meet-the-platypi-nasas-newest-astronaut-candidate-class/" >🔗</a> **[NASA]** Meet the Platypi: NASA’s Newest Astronaut Candidate Class
-- <a href="https://www.nasa.gov/universe/nasas-roman-observatory-passes-final-major-prelaunch-tests/" >🔗</a> **[NASA]** NASA’s Roman Observatory Passes Final Major Prelaunch Tests
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260319T164536">2026-03-19 16:45:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260319T171744">2026-03-19 17:17:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
