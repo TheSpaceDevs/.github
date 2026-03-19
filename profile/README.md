@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/apex-sells-satellite-for-japanese-technology-demonstration-mission/" >🔗</a> **[SpaceNews]** Apex sells satellite for Japanese technology demonstration mission
 - <a href="https://science.nasa.gov/earth/earth-observatory/australias-red-centre-turns-green/" >🔗</a> **[NASA]** Australia’s “Red Centre” Turns Green
 - <a href="https://spacenews.com/rocket-lab-wins-190-million-pentagon-deal-for-hypersonic-test-flights/" >🔗</a> **[SpaceNews]** Rocket Lab wins $190 million Pentagon deal for hypersonic test flights
 - <a href="https://spacenews.com/space-command-classified-wargame-to-include-25-commercial-players/" >🔗</a> **[SpaceNews]** Space Command classified wargame to include 25 commercial players
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2026/03/a-private-space-company-has-a-radical-new-plan-to-bag-an-asteroid/" >🔗</a> **[Arstechnica]** A private space company has a radical new plan to bag an asteroid
 - <a href="https://spacenews.com/transastra-aims-to-move-100-ton-asteroid-to-stable-orbit-for-processing/" >🔗</a> **[SpaceNews]** TransAstra aims to move 100-ton asteroid to stable orbit for processing
 - <a href="https://www.nasa.gov/image-article/lava-flows-down-mayon/" >🔗</a> **[NASA]** Lava Flows Down Mayon
-- <a href="https://www.nasa.gov/general/from-service-to-space-systems-a-pathways-journey-to-nasa/" >🔗</a> **[NASA]** From Service to Space Systems: A Pathways Journey to NASA
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260319T064528">2026-03-19 06:45:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260319T071826">2026-03-19 07:18:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
