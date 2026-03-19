@@ -93,12 +93,12 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/universe/nasas-roman-observatory-passes-final-major-prelaunch-tests/" >🔗</a> **[NASA]** NASA’s Roman Observatory Passes Final Major Prelaunch Tests
 - <a href="https://spacenews.com/nasa-considering-sharp-increase-in-robotic-lunar-landings/" >🔗</a> **[SpaceNews]** NASA considering sharp increase in robotic lunar landings
 - <a href="https://spacenews.com/reorbit-sells-two-small-geo-satellites-to-sli/" >🔗</a> **[SpaceNews]** ReOrbit sells two small GEO satellites to SLI
+- <a href="https://www.esa.int/About_Us/Business_with_ESA/Upcoming_ESA_Industry_events_on_CM25_implementation" >🔗</a> **[ESA]** Upcoming ESA–Industry events on CM25 implementation
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2023/03/Gateway_blueprint" >🔗</a> **[ESA]** Gateway blueprint
 - <a href="https://spacenews.com/apex-sells-satellite-for-japanese-technology-demonstration-mission/" >🔗</a> **[SpaceNews]** Apex sells satellite for Japanese technology demonstration mission
 - <a href="https://science.nasa.gov/earth/earth-observatory/australias-red-centre-turns-green/" >🔗</a> **[NASA]** Australia’s “Red Centre” Turns Green
 - <a href="https://spacenews.com/rocket-lab-wins-190-million-pentagon-deal-for-hypersonic-test-flights/" >🔗</a> **[SpaceNews]** Rocket Lab wins $190 million Pentagon deal for hypersonic test flights
 - <a href="https://spacenews.com/space-command-classified-wargame-to-include-25-commercial-players/" >🔗</a> **[SpaceNews]** Space Command classified wargame to include 25 commercial players
-- <a href="https://spaceflightnow.com/2026/03/18/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-11/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260319T135439">2026-03-19 13:54:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260319T141524">2026-03-19 14:15:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
