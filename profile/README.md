@@ -90,6 +90,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/kratos-wins-446-million-space-force-contract-for-missile-tracking-ground-systems/" >🔗</a> **[SpaceNews]** Kratos wins $446 million Space Force contract for missile-tracking ground systems
 - <a href="https://spacenews.com/portal-space-systems-and-paladin-space-plan-debris-removal-service/" >🔗</a> **[SpaceNews]** Portal Space Systems and Paladin Space plan debris removal service
 - <a href="https://spacenews.com/eileen-collins-on-what-it-takes-to-become-space-shuttle-commander/" >🔗</a> **[SpaceNews]** Eileen Collins on what it takes to become Space Shuttle Commander
 - <a href="https://www.nasa.gov/image-article/american-bald-eagle-at-nasas-kennedy-space-center/" >🔗</a> **[NASA]** American Bald Eagle at NASA’s Kennedy Space Center
@@ -99,7 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://europeanspaceflight.com/esa-awards-ohb-a-e248-million-contract-to-build-weather-satellite-constellation/" >🔗</a> **[European Spaceflight]** ESA Awards OHB a €248 Million Contract to Build Weather Satellite Constellation
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba-3_s_Coronagraph_is_alive" >🔗</a> **[ESA]** Proba-3’s Coronagraph is alive!
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/03/345th_ESA_Council_Media_information_session" >🔗</a> **[ESA]** 345th ESA Council: Media information session
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/meet-the-platypi-nasas-newest-astronaut-candidate-class/" >🔗</a> **[NASA]** Meet the Platypi: NASA’s Newest Astronaut Candidate Class
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260319T174551">2026-03-19 17:45:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260319T181222">2026-03-19 18:12:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
