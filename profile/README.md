@@ -89,6 +89,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/meet-the-platypi-nasas-newest-astronaut-candidate-class/" >🔗</a> **[NASA]** Meet the Platypi: NASA’s Newest Astronaut Candidate Class
+- <a href="https://www.nasa.gov/universe/nasas-roman-observatory-passes-final-major-prelaunch-tests/" >🔗</a> **[NASA]** NASA’s Roman Observatory Passes Final Major Prelaunch Tests
 - <a href="https://spacenews.com/nasa-considering-sharp-increase-in-robotic-lunar-landings/" >🔗</a> **[SpaceNews]** NASA considering sharp increase in robotic lunar landings
 - <a href="https://spacenews.com/reorbit-sells-two-small-geo-satellites-to-sli/" >🔗</a> **[SpaceNews]** ReOrbit sells two small GEO satellites to SLI
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2023/03/Gateway_blueprint" >🔗</a> **[ESA]** Gateway blueprint
@@ -97,8 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/rocket-lab-wins-190-million-pentagon-deal-for-hypersonic-test-flights/" >🔗</a> **[SpaceNews]** Rocket Lab wins $190 million Pentagon deal for hypersonic test flights
 - <a href="https://spacenews.com/space-command-classified-wargame-to-include-25-commercial-players/" >🔗</a> **[SpaceNews]** Space Command classified wargame to include 25 commercial players
 - <a href="https://spaceflightnow.com/2026/03/18/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-11/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral
-- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4832-4837-driving-the-contact-line/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4832–4837: Driving the (Contact) Line!
-- <a href="https://www.nasaspaceflight.com/2026/03/booster-19-initial-test-pad-2/" >🔗</a> **[NASASpaceflight]** Booster 19 concludes initial test campaign on Pad 2
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260319T124456">2026-03-19 12:44:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260319T132707">2026-03-19 13:27:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
