@@ -90,6 +90,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/03/19/live-coverage-nasa-to-roll-its-sls-rocket-back-to-the-launch-pad-ahead-of-planned-april-flight-of-artemis-2/" >🔗</a> **[Spaceflight Now]** Live coverage: NASA to roll its SLS rocket back to the launch pad ahead of planned April flight of Artemis 2
 - <a href="https://spacenews.com/the-energy-imperative-orbital-data-centers-virtual-event/" >🔗</a> **[SpaceNews]** Register now: The energy imperative driving the push toward orbital data centers
 - <a href="https://spacenews.com/kratos-wins-446-million-space-force-contract-for-missile-tracking-ground-systems/" >🔗</a> **[SpaceNews]** Kratos wins $446 million Space Force contract for missile-tracking ground systems
 - <a href="https://spacenews.com/portal-space-systems-and-paladin-space-plan-debris-removal-service/" >🔗</a> **[SpaceNews]** Portal Space Systems and Paladin Space plan debris removal service
@@ -99,7 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://science.nasa.gov/centers-and-facilities/goddard/nasa-laser-reflecting-instrument-makes-gps-satellite-more-accurate/" >🔗</a> **[NASA]** NASA Laser Reflecting Instrument Makes GPS Satellite More Accurate
 - <a href="https://www.nasa.gov/news-release/nasa-to-cover-progress-94-spacecraft-launch-space-station-docking/" >🔗</a> **[NASA]** NASA to Cover Progress 94 Spacecraft Launch, Space Station Docking
 - <a href="https://europeanspaceflight.com/esa-awards-ohb-a-e248-million-contract-to-build-weather-satellite-constellation/" >🔗</a> **[European Spaceflight]** ESA Awards OHB a €248 Million Contract to Build Weather Satellite Constellation
-- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba-3_s_Coronagraph_is_alive" >🔗</a> **[ESA]** Proba-3’s Coronagraph is alive!
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260319T210751">2026-03-19 21:07:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260319T214238">2026-03-19 21:42:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
