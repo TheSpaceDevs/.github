@@ -19,27 +19,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 10-33**. It is scheduled to be launched by *SpaceX*
+**Electron | Eight Days A Week (StriX Launch 8)**. It is scheduled to be launched by *Rocket Lab*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral SFS, FL, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260319T103500">2026-03-19 10:35:00 UTC</a>.  Until
-then, this pad will have been used for 372
-out of 1095 launches from this location. The launch status is currently
+from *<a href="None">Unknown Pad</a>, Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260320T181000">2026-03-20 18:10:00 UTC</a>.  Until
+then, this pad will have been used for 0
+out of 72 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Communications* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+*Earth Science* and the payload will be injected
+into *a Sun-Synchronous Orbit
+(SSO)*.
 <br>
 <blockquote>
-  A batch of 29 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  Synthetic aperture radar satellite for Japanese Earth imaging company Synspective.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+  <a href="https://en.wikipedia.org/wiki/Rocket_Lab_Electron" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
+  <a href="None" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -54,6 +54,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260324T070000">2026-03-24 07:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Daughter Of The Stars (LEO-PNT Pathfinder A)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20260324T070000Z%2F20260324T110000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Daughter Of The Stars (LEO-PNT Pathfinder A)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260324T230300">2026-03-24 23:03:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-17&location=Vandenberg SFB, CA, USA&dates=20260324T230300Z%2F20260325T030300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-17** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260326T112200">2026-03-26 11:22:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-44&location=Cape Canaveral SFS, FL, USA&dates=20260326T112200Z%2F20260326T152200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-44** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260327T110000">2026-03-27 11:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz-5 | Demo Flight&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20260327T110000Z%2F20260327T110000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz-5 | Demo Flight** from Baikonur Cosmodrome, Republic of Kazakhstan.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -89,27 +90,29 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/centers-and-facilities/goddard/nasa-laser-reflecting-instrument-makes-gps-satellite-more-accurate/" >🔗</a> **[NASA]** NASA Laser Reflecting Instrument Makes GPS Satellite More Accurate
+- <a href="https://www.nasa.gov/news-release/nasa-to-cover-progress-94-spacecraft-launch-space-station-docking/" >🔗</a> **[NASA]** NASA to Cover Progress 94 Spacecraft Launch, Space Station Docking
+- <a href="https://europeanspaceflight.com/esa-awards-ohb-a-e248-million-contract-to-build-weather-satellite-constellation/" >🔗</a> **[European Spaceflight]** ESA Awards OHB a €248 Million Contract to Build Weather Satellite Constellation
+- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba-3_s_Coronagraph_is_alive" >🔗</a> **[ESA]** Proba-3’s Coronagraph is alive!
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/03/345th_ESA_Council_Media_information_session" >🔗</a> **[ESA]** 345th ESA Council: Media information session
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/meet-the-platypi-nasas-newest-astronaut-candidate-class/" >🔗</a> **[NASA]** Meet the Platypi: NASA’s Newest Astronaut Candidate Class
 - <a href="https://www.nasa.gov/universe/nasas-roman-observatory-passes-final-major-prelaunch-tests/" >🔗</a> **[NASA]** NASA’s Roman Observatory Passes Final Major Prelaunch Tests
 - <a href="https://spacenews.com/nasa-considering-sharp-increase-in-robotic-lunar-landings/" >🔗</a> **[SpaceNews]** NASA considering sharp increase in robotic lunar landings
 - <a href="https://spacenews.com/reorbit-sells-two-small-geo-satellites-to-sli/" >🔗</a> **[SpaceNews]** ReOrbit sells two small GEO satellites to SLI
 - <a href="https://www.esa.int/About_Us/Business_with_ESA/Upcoming_ESA_Industry_events_on_CM25_implementation" >🔗</a> **[ESA]** Upcoming ESA–Industry events on CM25 implementation
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2023/03/Gateway_blueprint" >🔗</a> **[ESA]** Gateway blueprint
-- <a href="https://spacenews.com/apex-sells-satellite-for-japanese-technology-demonstration-mission/" >🔗</a> **[SpaceNews]** Apex sells satellite for Japanese technology demonstration mission
-- <a href="https://science.nasa.gov/earth/earth-observatory/australias-red-centre-turns-green/" >🔗</a> **[NASA]** Australia’s “Red Centre” Turns Green
-- <a href="https://spacenews.com/rocket-lab-wins-190-million-pentagon-deal-for-hypersonic-test-flights/" >🔗</a> **[SpaceNews]** Rocket Lab wins $190 million Pentagon deal for hypersonic test flights
-- <a href="https://spacenews.com/space-command-classified-wargame-to-include-25-commercial-players/" >🔗</a> **[SpaceNews]** Space Command classified wargame to include 25 commercial players
 
 
 ### Launch-related News 🚀
 
-- <a href="https://spaceflightnow.com/2026/03/18/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-11/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://www.nasaspaceflight.com/2026/03/launch-preview-031626/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9, Spectrum, Electron to launch during busy week of launches
+- <a href="https://arstechnica.com/space/2024/06/rocket-report-electron-turns-50-chinas-moon-launcher-breathes-fire/" >🔗</a> **[Arstechnica]** Rocket Report: Electron turns 50, China’s Moon launcher breathes fire
+- <a href="https://tlpnetwork.com/news/asia/synspective-signs-contract-with-rocketlab-for-10-electron-launches" >🔗</a> **[The Launch Pad]** Synspective Signs Contract with Rocket Lab for 10 Electron Launches
+- <a href="https://spacenews.com/synspective-orders-10-rocket-lab-electron-launches/" >🔗</a> **[SpaceNews]** Synspective orders 10 Rocket Lab Electron launches
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260319T144403">2026-03-19 14:44:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260319T151314">2026-03-19 15:13:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
