@@ -97,9 +97,9 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/holistic-space-observation-the-shift-from-ssa-to-sda/" >🔗</a> **[SpaceNews]** Holistic space observation: the shift from SSA to SDA
 - <a href="https://www.nasa.gov/news-release/nasa-glenn-hosts-engineering-institute/" >🔗</a> **[NASA]** NASA Glenn Opens Applications for Free Summer Engineering Institute
 - <a href="https://spacenews.com/esa-to-fly-dedicated-crew-dragon-mission-to-iss/" >🔗</a> **[SpaceNews]** ESA to fly dedicated Crew Dragon mission to ISS
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/03/3_weeks_and_3_cargo_departures_for_Epsilon" >🔗</a> **[ESA]** 3 weeks and 3 cargo departures for Epsilon
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/03/3_weeks_and_3_cargo_departures_for_epsilon" >🔗</a> **[ESA]** 3 weeks and 3 cargo departures for εpsilon
 - <a href="https://arstechnica.com/space/2026/03/rocket-report-canada-makes-a-major-move-us-space-force-says-actually-lets-be-hasty/" >🔗</a> **[Arstechnica]** Rocket Report: Canada makes a major move, US Space Force says actually, let's be hasty
-- <a href="https://spacenews.com/kayhan-targets-investors-insurers-with-expanded-orbital-intelligence-platform/" >🔗</a> **[SpaceNews]** Kayhan targets investors, insurers with expanded orbital intelligence platform
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/03/Earth_from_Space_Jostedalsbreen_Norway" >🔗</a> **[ESA]** Earth from Space: Jostedalsbreen, Norway
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260320T151239">2026-03-20 15:12:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260320T154346">2026-03-20 15:43:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
