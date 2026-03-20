@@ -90,6 +90,8 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-glenn-hosts-engineering-institute/" >🔗</a> **[NASA]** NASA Glenn Opens Applications for Free Summer Engineering Institute
+- <a href="https://spacenews.com/holistic-space-observation-the-shift-from-ssa-to-sda/" >🔗</a> **[SpaceNews]** Holistic space observation: the shift from SSA to SDA
 - <a href="https://spacenews.com/esa-to-fly-dedicated-crew-dragon-mission-to-iss/" >🔗</a> **[SpaceNews]** ESA to fly dedicated Crew Dragon mission to ISS
 - <a href="https://arstechnica.com/space/2026/03/rocket-report-canada-makes-a-major-move-us-space-force-says-actually-lets-be-hasty/" >🔗</a> **[Arstechnica]** Rocket Report: Canada makes a major move, US Space Force says actually, let's be hasty
 - <a href="https://spacenews.com/kayhan-targets-investors-insurers-with-expanded-orbital-intelligence-platform/" >🔗</a> **[SpaceNews]** Kayhan targets investors, insurers with expanded orbital intelligence platform
@@ -98,8 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacepolicyonline.com/news/nasa-convening-artemis-international-partners-next-week/" >🔗</a> **[SpacePolicyOnline.com]** NASA Convening Artemis International Partners Next Week
 - <a href="https://spacenews.com/blue-origin-joins-the-orbital-data-center-race/" >🔗</a> **[SpaceNews]** Blue Origin joins the orbital data center race
 - <a href="https://spaceflightnow.com/2026/03/19/live-coverage-nasa-to-roll-its-sls-rocket-back-to-the-launch-pad-ahead-of-planned-april-flight-of-artemis-2/" >🔗</a> **[Spaceflight Now]** Live coverage: NASA to roll its SLS rocket back to the launch pad ahead of planned April flight of Artemis 2
-- <a href="https://spacenews.com/the-energy-imperative-orbital-data-centers-virtual-event/" >🔗</a> **[SpaceNews]** Register now: The energy imperative driving the push toward orbital data centers
-- <a href="https://spacenews.com/kratos-wins-446-million-space-force-contract-for-missile-tracking-ground-systems/" >🔗</a> **[SpaceNews]** Kratos wins $446 million Space Force contract for missile-tracking ground systems
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260320T124445">2026-03-20 12:44:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260320T132328">2026-03-20 13:23:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
