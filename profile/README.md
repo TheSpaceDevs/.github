@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/quesst/nasas-x-59-experimental-supersonic-aircraft-makes-second-flight/" >🔗</a> **[NASA]** NASA’s X-59 Experimental Supersonic Aircraft Makes Second Flight
+- <a href="https://www.nasaspaceflight.com/2026/03/sls-pad-flow-historic-artemis-ii-mission/" >🔗</a> **[NASASpaceflight]** SLS enters pad flow ahead of historic Artemis II mission
 - <a href="https://spacenews.com/officina-stellare-wins-2-million-contract-for-lasercom-ground-station-in-spain/" >🔗</a> **[SpaceNews]** Officina Stellare wins $2 million contract for lasercom ground station in Spain
 - <a href="https://spacenews.com/rocket-lab-launches-eighth-synspective-radar-imaging-satellite/" >🔗</a> **[SpaceNews]** Rocket Lab launches eighth Synspective radar imaging satellite
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/hangar-one-restoration-project/" >🔗</a> **[NASA]** Hangar One Restoration Project
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/open-science/interstellar-comet-3i-atlas-data/" >🔗</a> **[NASA]** How Open NASA Data on Comet 3I/ATLAS Will Power Tomorrow’s Discoveries
 - <a href="https://spacenews.com/ohb-sweden-wins-e248-million-contract-to-build-eps-sterna-constellation/" >🔗</a> **[SpaceNews]** OHB Sweden wins €248 million contract to build EPS-Sterna constellation
 - <a href="https://www.nasa.gov/image-article/smiles-and-spacesuits/" >🔗</a> **[NASA]** Smiles and Spacesuits
-- <a href="https://www.nasa.gov/general/nasa-exploration-science-inspire-project-hail-mary-film/" >🔗</a> **[NASA]** NASA Exploration, Science Inspire “Project Hail Mary” Film
-- <a href="https://arstechnica.com/space/2026/03/jeff-bezos-throws-his-hat-in-the-ring-for-an-orbital-data-center-megaconstellation-too/" >🔗</a> **[Arstechnica]** Jeff Bezos throws his hat in the ring for an orbital data center megaconstellation, too
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260320T230432">2026-03-20 23:04:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260320T233922">2026-03-20 23:39:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
