@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-selects-university-finalists-for-technology-concepts-competition/" >🔗</a> **[NASA]** NASA Selects University Finalists for Technology Concepts Competition
 - <a href="https://spacenews.com/ohb-sweden-wins-e248-million-contract-to-build-eps-sterna-constellation/" >🔗</a> **[SpaceNews]** OHB Sweden wins €248 million contract to build EPS-Sterna constellation
 - <a href="https://www.nasa.gov/image-article/smiles-and-spacesuits/" >🔗</a> **[NASA]** Smiles and Spacesuits
 - <a href="https://www.nasa.gov/general/nasa-exploration-science-inspire-project-hail-mary-film/" >🔗</a> **[NASA]** NASA Exploration, Science Inspire “Project Hail Mary” Film
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/aeronautics/artemis-sls-launch-sim/" >🔗</a> **[NASA]** NASA Simulations Improve Artemis II Launch Environment
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Seven_scientific_benefits_of_ESA_s_Genesis_mission" >🔗</a> **[ESA]** Seven scientific benefits of ESA’s Genesis mission
 - <a href="https://spaceflightnow.com/2026/03/20/live-coverage-spacex-to-launch-25-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 25 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
-- <a href="https://www.nasa.gov/news-release/nasa-glenn-hosts-engineering-institute/" >🔗</a> **[NASA]** NASA Glenn Opens Applications for Free Summer Engineering Institute
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260320T191310">2026-03-20 19:13:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260320T194058">2026-03-20 19:40:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
