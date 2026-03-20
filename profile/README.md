@@ -90,6 +90,8 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/esa-to-fly-dedicated-crew-dragon-mission-to-iss/" >🔗</a> **[SpaceNews]** ESA to fly dedicated Crew Dragon mission to ISS
+- <a href="https://arstechnica.com/space/2026/03/rocket-report-canada-makes-a-major-move-us-space-force-says-actually-lets-be-hasty/" >🔗</a> **[Arstechnica]** Rocket Report: Canada makes a major move, US Space Force says actually, let's be hasty
 - <a href="https://spacenews.com/kayhan-targets-investors-insurers-with-expanded-orbital-intelligence-platform/" >🔗</a> **[SpaceNews]** Kayhan targets investors, insurers with expanded orbital intelligence platform
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/03/Earth_from_Space_Jostedalsbreen_Norway" >🔗</a> **[ESA]** Earth from Space: Jostedalsbreen, Norway
 - <a href="https://science.nasa.gov/earth/earth-observatory/restless-kilauea-launches-lava-and-ash/" >🔗</a> **[NASA]** Restless Kīlauea Launches Lava and Ash
@@ -98,8 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spaceflightnow.com/2026/03/19/live-coverage-nasa-to-roll-its-sls-rocket-back-to-the-launch-pad-ahead-of-planned-april-flight-of-artemis-2/" >🔗</a> **[Spaceflight Now]** Live coverage: NASA to roll its SLS rocket back to the launch pad ahead of planned April flight of Artemis 2
 - <a href="https://spacenews.com/the-energy-imperative-orbital-data-centers-virtual-event/" >🔗</a> **[SpaceNews]** Register now: The energy imperative driving the push toward orbital data centers
 - <a href="https://spacenews.com/kratos-wins-446-million-space-force-contract-for-missile-tracking-ground-systems/" >🔗</a> **[SpaceNews]** Kratos wins $446 million Space Force contract for missile-tracking ground systems
-- <a href="https://spacenews.com/portal-space-systems-and-paladin-space-plan-debris-removal-service/" >🔗</a> **[SpaceNews]** Portal Space Systems and Paladin Space plan debris removal service
-- <a href="https://spacenews.com/eileen-collins-on-what-it-takes-to-become-space-shuttle-commander/" >🔗</a> **[SpaceNews]** Eileen Collins on what it takes to become Space Shuttle Commander
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260320T120512">2026-03-20 12:05:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260320T124445">2026-03-20 12:44:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
