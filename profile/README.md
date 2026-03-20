@@ -90,6 +90,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/kayhan-targets-investors-insurers-with-expanded-orbital-intelligence-platform/" >🔗</a> **[SpaceNews]** Kayhan targets investors, insurers with expanded orbital intelligence platform
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/03/Earth_from_Space_Jostedalsbreen_Norway" >🔗</a> **[ESA]** Earth from Space: Jostedalsbreen, Norway
 - <a href="https://science.nasa.gov/earth/earth-observatory/restless-kilauea-launches-lava-and-ash/" >🔗</a> **[NASA]** Restless Kīlauea Launches Lava and Ash
 - <a href="https://spacepolicyonline.com/news/nasa-convening-artemis-international-partners-next-week/" >🔗</a> **[SpacePolicyOnline.com]** NASA Convening Artemis International Partners Next Week
@@ -99,7 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/kratos-wins-446-million-space-force-contract-for-missile-tracking-ground-systems/" >🔗</a> **[SpaceNews]** Kratos wins $446 million Space Force contract for missile-tracking ground systems
 - <a href="https://spacenews.com/portal-space-systems-and-paladin-space-plan-debris-removal-service/" >🔗</a> **[SpaceNews]** Portal Space Systems and Paladin Space plan debris removal service
 - <a href="https://spacenews.com/eileen-collins-on-what-it-takes-to-become-space-shuttle-commander/" >🔗</a> **[SpaceNews]** Eileen Collins on what it takes to become Space Shuttle Commander
-- <a href="https://www.nasa.gov/image-article/american-bald-eagle-at-nasas-kennedy-space-center/" >🔗</a> **[NASA]** American Bald Eagle at NASA’s Kennedy Space Center
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260320T110806">2026-03-20 11:08:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260320T114015">2026-03-20 11:40:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
