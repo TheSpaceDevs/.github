@@ -21,10 +21,10 @@ The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
 **Electron | Eight Days A Week (StriX Launch 8)**. It is scheduled to be launched by *Rocket Lab*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="None">Unknown Pad</a>, Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand*
+from *<a href="https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1">Rocket Lab Launch Complex 1B</a>, Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" />
 at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260320T181000">2026-03-20 18:10:00 UTC</a>.  Until
-then, this pad will have been used for 0
+then, this pad will have been used for 34
 out of 72 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
 *Earth Science* and the payload will be injected
@@ -39,7 +39,7 @@ into *a Sun-Synchronous Orbit
   <a href="https://en.wikipedia.org/wiki/Rocket_Lab_Electron" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="None" >
+  <a href="https://www.google.com/maps?q=-39.262833,177.864469" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -90,16 +90,16 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2026/03/jeff-bezos-throws-his-hat-in-the-ring-for-an-orbital-data-center-megaconstellation-too/" >🔗</a> **[Arstechnica]** Jeff Bezos throws his hat in the ring for an orbital data center megaconstellation, too
 - <a href="https://www.nasa.gov/aeronautics/artemis-sls-launch-sim/" >🔗</a> **[NASA]** NASA Simulations Improve Artemis II Launch Environment
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Seven_scientific_benefits_of_ESA_s_Genesis_mission" >🔗</a> **[ESA]** Seven scientific benefits of ESA’s Genesis mission
 - <a href="https://spaceflightnow.com/2026/03/20/live-coverage-spacex-to-launch-25-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 25 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
-- <a href="https://www.nasa.gov/news-release/nasa-glenn-hosts-engineering-institute/" >🔗</a> **[NASA]** NASA Glenn Opens Applications for Free Summer Engineering Institute
 - <a href="https://spacenews.com/holistic-space-observation-the-shift-from-ssa-to-sda/" >🔗</a> **[SpaceNews]** Holistic space observation: the shift from SSA to SDA
+- <a href="https://www.nasa.gov/news-release/nasa-glenn-hosts-engineering-institute/" >🔗</a> **[NASA]** NASA Glenn Opens Applications for Free Summer Engineering Institute
 - <a href="https://spacenews.com/esa-to-fly-dedicated-crew-dragon-mission-to-iss/" >🔗</a> **[SpaceNews]** ESA to fly dedicated Crew Dragon mission to ISS
 - <a href="https://arstechnica.com/space/2026/03/rocket-report-canada-makes-a-major-move-us-space-force-says-actually-lets-be-hasty/" >🔗</a> **[Arstechnica]** Rocket Report: Canada makes a major move, US Space Force says actually, let's be hasty
 - <a href="https://spacenews.com/kayhan-targets-investors-insurers-with-expanded-orbital-intelligence-platform/" >🔗</a> **[SpaceNews]** Kayhan targets investors, insurers with expanded orbital intelligence platform
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/03/Earth_from_Space_Jostedalsbreen_Norway" >🔗</a> **[ESA]** Earth from Space: Jostedalsbreen, Norway
-- <a href="https://science.nasa.gov/earth/earth-observatory/restless-kilauea-launches-lava-and-ash/" >🔗</a> **[NASA]** Restless Kīlauea Launches Lava and Ash
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260320T144320">2026-03-20 14:43:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260320T151239">2026-03-20 15:12:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
