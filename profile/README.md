@@ -91,15 +91,15 @@ into *a Sun-Synchronous Orbit
 
 ### Latest News ⌛
 - <a href="https://arstechnica.com/space/2026/03/jeff-bezos-throws-his-hat-in-the-ring-for-an-orbital-data-center-megaconstellation-too/" >🔗</a> **[Arstechnica]** Jeff Bezos throws his hat in the ring for an orbital data center megaconstellation, too
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/03/Artemis_II_rolls_again" >🔗</a> **[ESA]** Artemis II rolls again
+- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_16-20_March_2026" >🔗</a> **[ESA]** Week in images: 16-20 March 2026
 - <a href="https://www.nasa.gov/aeronautics/artemis-sls-launch-sim/" >🔗</a> **[NASA]** NASA Simulations Improve Artemis II Launch Environment
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Seven_scientific_benefits_of_ESA_s_Genesis_mission" >🔗</a> **[ESA]** Seven scientific benefits of ESA’s Genesis mission
 - <a href="https://spaceflightnow.com/2026/03/20/live-coverage-spacex-to-launch-25-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 25 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
-- <a href="https://spacenews.com/holistic-space-observation-the-shift-from-ssa-to-sda/" >🔗</a> **[SpaceNews]** Holistic space observation: the shift from SSA to SDA
 - <a href="https://www.nasa.gov/news-release/nasa-glenn-hosts-engineering-institute/" >🔗</a> **[NASA]** NASA Glenn Opens Applications for Free Summer Engineering Institute
+- <a href="https://spacenews.com/holistic-space-observation-the-shift-from-ssa-to-sda/" >🔗</a> **[SpaceNews]** Holistic space observation: the shift from SSA to SDA
 - <a href="https://spacenews.com/esa-to-fly-dedicated-crew-dragon-mission-to-iss/" >🔗</a> **[SpaceNews]** ESA to fly dedicated Crew Dragon mission to ISS
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/03/3_weeks_and_3_cargo_departures_for_Epsilon" >🔗</a> **[ESA]** 3 weeks and 3 cargo departures for Epsilon
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/03/3_weeks_and_3_cargo_departures_for_epsilon" >🔗</a> **[ESA]** 3 weeks and 3 cargo departures for εpsilon
-- <a href="https://arstechnica.com/space/2026/03/rocket-report-canada-makes-a-major-move-us-space-force-says-actually-lets-be-hasty/" >🔗</a> **[Arstechnica]** Rocket Report: Canada makes a major move, US Space Force says actually, let's be hasty
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260320T161024">2026-03-20 16:10:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260320T164338">2026-03-20 16:43:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
