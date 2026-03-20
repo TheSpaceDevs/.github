@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/rocket-lab-launches-eighth-synspective-radar-imaging-satellite/" >🔗</a> **[SpaceNews]** Rocket Lab launches eighth Synspective radar imaging satellite
+- <a href="https://www.nasa.gov/centers-and-facilities/ames/hangar-one-restoration-project/" >🔗</a> **[NASA]** Hangar One Restoration Project
+- <a href="https://spacenews.com/another-gps-launch-shifts-from-ula-to-spacex-as-vulcan-investigation-continues/" >🔗</a> **[SpaceNews]** Another GPS launch shifts from ULA to SpaceX as Vulcan investigation continues
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-selects-university-finalists-for-technology-concepts-competition/" >🔗</a> **[NASA]** NASA Selects University Finalists for Technology Concepts Competition
 - <a href="https://science.nasa.gov/open-science/interstellar-comet-3i-atlas-data/" >🔗</a> **[NASA]** How Open NASA Data on Comet 3I/ATLAS Will Power Tomorrow’s Discoveries
 - <a href="https://spacenews.com/ohb-sweden-wins-e248-million-contract-to-build-eps-sterna-constellation/" >🔗</a> **[SpaceNews]** OHB Sweden wins €248 million contract to build EPS-Sterna constellation
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/general/nasa-exploration-science-inspire-project-hail-mary-film/" >🔗</a> **[NASA]** NASA Exploration, Science Inspire “Project Hail Mary” Film
 - <a href="https://arstechnica.com/space/2026/03/jeff-bezos-throws-his-hat-in-the-ring-for-an-orbital-data-center-megaconstellation-too/" >🔗</a> **[Arstechnica]** Jeff Bezos throws his hat in the ring for an orbital data center megaconstellation, too
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/03/Artemis_II_rolls_again" >🔗</a> **[ESA]** Artemis II rolls again
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_16-20_March_2026" >🔗</a> **[ESA]** Week in images: 16-20 March 2026
-- <a href="https://www.nasa.gov/aeronautics/artemis-sls-launch-sim/" >🔗</a> **[NASA]** NASA Simulations Improve Artemis II Launch Environment
-- <a href="https://www.esa.int/Applications/Satellite_navigation/Seven_scientific_benefits_of_ESA_s_Genesis_mission" >🔗</a> **[ESA]** Seven scientific benefits of ESA’s Genesis mission
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260320T210509">2026-03-20 21:05:09 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260320T214003">2026-03-20 21:40:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
