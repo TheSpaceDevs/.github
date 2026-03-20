@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-selects-university-finalists-for-technology-concepts-competition/" >🔗</a> **[NASA]** NASA Selects University Finalists for Technology Concepts Competition
+- <a href="https://science.nasa.gov/open-science/interstellar-comet-3i-atlas-data/" >🔗</a> **[NASA]** How Open NASA Data on Comet 3I/ATLAS Will Power Tomorrow’s Discoveries
 - <a href="https://spacenews.com/ohb-sweden-wins-e248-million-contract-to-build-eps-sterna-constellation/" >🔗</a> **[SpaceNews]** OHB Sweden wins €248 million contract to build EPS-Sterna constellation
 - <a href="https://www.nasa.gov/image-article/smiles-and-spacesuits/" >🔗</a> **[NASA]** Smiles and Spacesuits
 - <a href="https://www.nasa.gov/general/nasa-exploration-science-inspire-project-hail-mary-film/" >🔗</a> **[NASA]** NASA Exploration, Science Inspire “Project Hail Mary” Film
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_16-20_March_2026" >🔗</a> **[ESA]** Week in images: 16-20 March 2026
 - <a href="https://www.nasa.gov/aeronautics/artemis-sls-launch-sim/" >🔗</a> **[NASA]** NASA Simulations Improve Artemis II Launch Environment
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Seven_scientific_benefits_of_ESA_s_Genesis_mission" >🔗</a> **[ESA]** Seven scientific benefits of ESA’s Genesis mission
-- <a href="https://spaceflightnow.com/2026/03/20/live-coverage-spacex-to-launch-25-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-2/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 25 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260320T200402">2026-03-20 20:04:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260320T204219">2026-03-20 20:42:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
