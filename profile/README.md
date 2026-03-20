@@ -90,6 +90,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/earth-observatory/restless-kilauea-launches-lava-and-ash/" >🔗</a> **[NASA]** Restless Kīlauea Launches Lava and Ash
 - <a href="https://spacepolicyonline.com/news/nasa-convening-artemis-international-partners-next-week/" >🔗</a> **[SpacePolicyOnline.com]** NASA Convening Artemis International Partners Next Week
 - <a href="https://spacenews.com/blue-origin-joins-the-orbital-data-center-race/" >🔗</a> **[SpaceNews]** Blue Origin joins the orbital data center race
 - <a href="https://spaceflightnow.com/2026/03/19/live-coverage-nasa-to-roll-its-sls-rocket-back-to-the-launch-pad-ahead-of-planned-april-flight-of-artemis-2/" >🔗</a> **[Spaceflight Now]** Live coverage: NASA to roll its SLS rocket back to the launch pad ahead of planned April flight of Artemis 2
@@ -99,7 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/eileen-collins-on-what-it-takes-to-become-space-shuttle-commander/" >🔗</a> **[SpaceNews]** Eileen Collins on what it takes to become Space Shuttle Commander
 - <a href="https://www.nasa.gov/image-article/american-bald-eagle-at-nasas-kennedy-space-center/" >🔗</a> **[NASA]** American Bald Eagle at NASA’s Kennedy Space Center
 - <a href="https://www.nasa.gov/centers-and-facilities/stennis/collecting-explosion-data-for-next-generation-rockets/" >🔗</a> **[NASA]** How NASA is Collecting Explosion Data for Next Generation Rockets
-- <a href="https://science.nasa.gov/centers-and-facilities/goddard/nasa-laser-reflecting-instrument-makes-gps-satellite-more-accurate/" >🔗</a> **[NASA]** NASA Laser Reflecting Instrument Makes GPS Satellite More Accurate
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260320T034503">2026-03-20 03:45:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260320T043105">2026-03-20 04:31:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
