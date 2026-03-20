@@ -90,6 +90,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/nasa-exploration-science-inspire-project-hail-mary-film/" >🔗</a> **[NASA]** NASA Exploration, Science Inspire “Project Hail Mary” Film
 - <a href="https://arstechnica.com/space/2026/03/jeff-bezos-throws-his-hat-in-the-ring-for-an-orbital-data-center-megaconstellation-too/" >🔗</a> **[Arstechnica]** Jeff Bezos throws his hat in the ring for an orbital data center megaconstellation, too
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/03/Artemis_II_rolls_again" >🔗</a> **[ESA]** Artemis II rolls again
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_16-20_March_2026" >🔗</a> **[ESA]** Week in images: 16-20 March 2026
@@ -99,7 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-glenn-hosts-engineering-institute/" >🔗</a> **[NASA]** NASA Glenn Opens Applications for Free Summer Engineering Institute
 - <a href="https://spacenews.com/holistic-space-observation-the-shift-from-ssa-to-sda/" >🔗</a> **[SpaceNews]** Holistic space observation: the shift from SSA to SDA
 - <a href="https://spacenews.com/esa-to-fly-dedicated-crew-dragon-mission-to-iss/" >🔗</a> **[SpaceNews]** ESA to fly dedicated Crew Dragon mission to ISS
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/03/3_weeks_and_3_cargo_departures_for_Epsilon" >🔗</a> **[ESA]** 3 weeks and 3 cargo departures for Epsilon
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260320T171158">2026-03-20 17:11:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260320T174212">2026-03-20 17:42:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
