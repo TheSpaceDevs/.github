@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/artemis-2-returns-to-the-pad-for-april-launch-attempt/" >🔗</a> **[SpaceNews]** Artemis 2 returns to the pad for April launch attempt
 - <a href="https://www.nasaspaceflight.com/2026/03/blue-new-glenn-manufacturing-data-ambitions/" >🔗</a> **[NASASpaceflight]** Blue Origin ramps up New Glenn manufacturing, unveils Orbital Data Center ambitions
 - <a href="https://www.nasa.gov/missions/quesst/nasas-x-59-experimental-supersonic-aircraft-makes-second-flight/" >🔗</a> **[NASA]** NASA’s X-59 Experimental Supersonic Aircraft Makes Second Flight
 - <a href="https://www.nasaspaceflight.com/2026/03/sls-pad-flow-historic-artemis-ii-mission/" >🔗</a> **[NASASpaceflight]** SLS enters pad flow ahead of historic Artemis II mission
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/another-gps-launch-shifts-from-ula-to-spacex-as-vulcan-investigation-continues/" >🔗</a> **[SpaceNews]** Another GPS launch shifts from ULA to SpaceX as Vulcan investigation continues
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-selects-university-finalists-for-technology-concepts-competition/" >🔗</a> **[NASA]** NASA Selects University Finalists for Technology Concepts Competition
 - <a href="https://science.nasa.gov/open-science/interstellar-comet-3i-atlas-data/" >🔗</a> **[NASA]** How Open NASA Data on Comet 3I/ATLAS Will Power Tomorrow’s Discoveries
-- <a href="https://spacenews.com/ohb-sweden-wins-e248-million-contract-to-build-eps-sterna-constellation/" >🔗</a> **[SpaceNews]** OHB Sweden wins €248 million contract to build EPS-Sterna constellation
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260321T150311">2026-03-21 15:03:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260321T153751">2026-03-21 15:37:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
