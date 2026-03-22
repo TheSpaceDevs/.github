@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/directorates/armd/tacp/ttt/ttt-resources/" >🔗</a> **[NASA]** Transformational Tools and Technologies Resources
 - <a href="https://spacenews.com/spacex-offers-details-on-orbital-data-center-satellites/" >🔗</a> **[SpaceNews]** SpaceX offers details on orbital data center satellites
 - <a href="https://spaceflightnow.com/2026/03/22/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-12/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://europeanspaceflight.com/esa-regains-contact-with-lost-proba-3-spacecraft/" >🔗</a> **[European Spaceflight]** ESA Regains Contact With Lost Proba-3 Spacecraft
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasaspaceflight.com/2026/03/blue-new-glenn-manufacturing-data-ambitions/" >🔗</a> **[NASASpaceflight]** Blue Origin ramps up New Glenn manufacturing, unveils Orbital Data Center ambitions
 - <a href="https://www.nasa.gov/missions/quesst/nasas-x-59-experimental-supersonic-aircraft-makes-second-flight/" >🔗</a> **[NASA]** NASA’s X-59 Experimental Supersonic Aircraft Makes Second Flight
 - <a href="https://www.nasaspaceflight.com/2026/03/sls-pad-flow-historic-artemis-ii-mission/" >🔗</a> **[NASASpaceflight]** SLS enters pad flow ahead of historic Artemis II mission
-- <a href="https://spacenews.com/officina-stellare-wins-2-million-contract-for-lasercom-ground-station-in-spain/" >🔗</a> **[SpaceNews]** Officina Stellare wins $2 million contract for lasercom ground station in Spain
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260322T190622">2026-03-22 19:06:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260322T193716">2026-03-22 19:37:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
