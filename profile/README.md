@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-march-22-28-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy March 22-28, 2026
 - <a href="https://www.nasa.gov/directorates/armd/tacp/ttt/ttt-resources/" >🔗</a> **[NASA]** Transformational Tools and Technologies Resources
 - <a href="https://spacenews.com/spacex-offers-details-on-orbital-data-center-satellites/" >🔗</a> **[SpaceNews]** SpaceX offers details on orbital data center satellites
 - <a href="https://spaceflightnow.com/2026/03/22/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-12/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/artemis-2-returns-to-the-pad-for-april-launch-attempt/" >🔗</a> **[SpaceNews]** Artemis 2 returns to the pad for April launch attempt
 - <a href="https://www.nasaspaceflight.com/2026/03/blue-new-glenn-manufacturing-data-ambitions/" >🔗</a> **[NASASpaceflight]** Blue Origin ramps up New Glenn manufacturing, unveils Orbital Data Center ambitions
 - <a href="https://www.nasa.gov/missions/quesst/nasas-x-59-experimental-supersonic-aircraft-makes-second-flight/" >🔗</a> **[NASA]** NASA’s X-59 Experimental Supersonic Aircraft Makes Second Flight
-- <a href="https://www.nasaspaceflight.com/2026/03/sls-pad-flow-historic-artemis-ii-mission/" >🔗</a> **[NASASpaceflight]** SLS enters pad flow ahead of historic Artemis II mission
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260322T210359">2026-03-22 21:03:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260322T213747">2026-03-22 21:37:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
