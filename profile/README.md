@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/some-european-launcher-challenge-funding-remains-in-limbo/" >🔗</a> **[SpaceNews]** Some European Launcher Challenge funding remains in limbo
 - <a href="https://www.nasaspaceflight.com/2026/03/progress-ms33/" >🔗</a> **[NASASpaceflight]** Progress MS-33 set to resume Russian flights to ISS from repaired pad
 - <a href="https://spacenews.com/artemis-2-returns-to-the-pad-for-april-launch-attempt/" >🔗</a> **[SpaceNews]** Artemis 2 returns to the pad for April launch attempt
 - <a href="https://www.nasaspaceflight.com/2026/03/blue-new-glenn-manufacturing-data-ambitions/" >🔗</a> **[NASASpaceflight]** Blue Origin ramps up New Glenn manufacturing, unveils Orbital Data Center ambitions
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/rocket-lab-launches-eighth-synspective-radar-imaging-satellite/" >🔗</a> **[SpaceNews]** Rocket Lab launches eighth Synspective radar imaging satellite
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/hangar-one-restoration-project/" >🔗</a> **[NASA]** Hangar One Restoration Project
 - <a href="https://spacenews.com/another-gps-launch-shifts-from-ula-to-spacex-as-vulcan-investigation-continues/" >🔗</a> **[SpaceNews]** Another GPS launch shifts from ULA to SpaceX as Vulcan investigation continues
-- <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-selects-university-finalists-for-technology-concepts-competition/" >🔗</a> **[NASA]** NASA Selects University Finalists for Technology Concepts Competition
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260322T005559">2026-03-22 00:55:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260322T013230">2026-03-22 01:32:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
