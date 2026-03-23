@@ -54,7 +54,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260327T110000">2026-03-27 11:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz-5 | Demo Flight&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20260327T110000Z%2F20260327T110000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz-5 | Demo Flight** from Baikonur Cosmodrome, Republic of Kazakhstan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260329T075300">2026-03-29 07:53:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 551 | Amazon Leo (LA-05)&location=Cape Canaveral SFS, FL, USA&dates=20260329T075300Z%2F20260329T082200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 551 | Amazon Leo (LA-05)** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260329T101000">2026-03-29 10:10:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Transporter 16 (Dedicated SSO Rideshare)&location=Vandenberg SFB, CA, USA&dates=20260329T101000Z%2F20260329T121000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Transporter 16 (Dedicated SSO Rideshare)** from Vandenberg SFB, CA, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260331T000000">2026-03-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 7A | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20260331T000000Z%2F20260331T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 7A | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260331T000000">2026-03-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2C | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20260331T000000Z%2F20260331T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2C | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -93,13 +93,13 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-to-provide-update-on-implementation-of-national-space-policy/" >🔗</a> **[NASA]** NASA to Provide Update on Implementation of National Space Policy
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-revisits-crab-nebula-to-track-25-years-of-expansion/" >🔗</a> **[NASA]** NASA’s Hubble Revisits Crab Nebula to Track 25 Years of Expansion
 - <a href="https://spacenews.com/york-space-rides-defense-demand-as-procurement-changes-cloud-outlook/" >🔗</a> **[SpaceNews]** York Space rides defense demand as procurement changes cloud outlook
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Tracking_Arctic_freshwater_flow_from_space" >🔗</a> **[ESA]** Tracking Arctic freshwater flow from space
 - <a href="https://spacenews.com/the-software-behind-artemis-gateway-and-americas-defense-in-space-deserves-its-own-strategy/" >🔗</a> **[SpaceNews]** The software behind Artemis, Gateway and America’s defense in space deserves its own strategy
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Watch_live_First_Celeste_launch" >🔗</a> **[ESA]** Watch live: First Celeste launch
 - <a href="https://spacenews.com/lunar-lander-developers-say-they-are-ready-to-meet-anticipated-increased-nasa-demand/" >🔗</a> **[SpaceNews]** Lunar lander developers say they are ready to meet anticipated increased NASA demand
 - <a href="https://www.esa.int/Enabling_Support/Operations/A_rare_encounter_How_Juice_came_to_observe_3I_ATLAS" >🔗</a> **[ESA]** A rare encounter: How Juice came to observe 3I/ATLAS
 - <a href="https://spacenews.com/swissto12-to-build-small-optical-relay-geo-satellite-for-space-compass/" >🔗</a> **[SpaceNews]** Swissto12 to build small optical relay GEO satellite for Space Compass
 - <a href="https://science.nasa.gov/earth/earth-observatory/a-fault-line-in-full-bloom/" >🔗</a> **[NASA]** A Fault Line in Full Bloom
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-march-22-28-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy March 22-28, 2026
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260323T145134">2026-03-23 14:51:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260323T151843">2026-03-23 15:18:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
