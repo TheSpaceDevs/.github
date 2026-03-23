@@ -90,7 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/science-research/earth-science/see-nasas-guardian-catch-a-tsunami/" >🔗</a> **[NASA]** See NASA’s GUARDIAN Catch a Tsunami
 - <a href="https://spacenews.com/sovereign-demand-and-institutional-capital-reshape-space-economy/" >🔗</a> **[SpaceNews]** Sovereign demand and institutional capital reshape space economy
+- <a href="https://science.nasa.gov/earth/swot-mission-unlocks-a-new-view-of-our-waterways/" >🔗</a> **[NASA]** SWOT Mission Unlocks a New View of Our Waterways
 - <a href="https://www.nasa.gov/image-article/nasas-hubble-webb-telescopes-survey-pinwheel-galaxy/" >🔗</a> **[NASA]** NASA’s Hubble, Webb Telescopes Survey Pinwheel Galaxy
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/03/Celeste_Countdown_to_Launch_1" >🔗</a> **[ESA]** Celeste: Countdown to Launch 1
 - <a href="https://spacenews.com/arianespace-to-launch-katalyst-servicing-spacecraft/" >🔗</a> **[SpaceNews]** Arianespace to launch Katalyst servicing spacecraft
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-revisits-crab-nebula-to-track-25-years-of-expansion/" >🔗</a> **[NASA]** NASA’s Hubble Revisits Crab Nebula to Track 25 Years of Expansion
 - <a href="https://spacenews.com/york-space-rides-defense-demand-as-procurement-changes-cloud-outlook/" >🔗</a> **[SpaceNews]** York Space rides defense demand as procurement changes cloud outlook
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Tracking_Arctic_freshwater_flow_from_space" >🔗</a> **[ESA]** Tracking Arctic freshwater flow from space
-- <a href="https://spacenews.com/the-software-behind-artemis-gateway-and-americas-defense-in-space-deserves-its-own-strategy/" >🔗</a> **[SpaceNews]** The software behind Artemis, Gateway and America’s defense in space deserves its own strategy
-- <a href="https://www.esa.int/Applications/Satellite_navigation/Watch_live_First_Celeste_launch" >🔗</a> **[ESA]** Watch live: First Celeste launch
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260323T181237">2026-03-23 18:12:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260323T184448">2026-03-23 18:44:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
