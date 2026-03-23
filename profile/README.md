@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/sovereign-demand-and-institutional-capital-reshape-space-economy/" >🔗</a> **[SpaceNews]** Sovereign demand and institutional capital reshape space economy
 - <a href="https://www.nasa.gov/image-article/nasas-hubble-webb-telescopes-survey-pinwheel-galaxy/" >🔗</a> **[NASA]** NASA’s Hubble, Webb Telescopes Survey Pinwheel Galaxy
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/03/Celeste_Countdown_to_Launch_1" >🔗</a> **[ESA]** Celeste: Countdown to Launch 1
 - <a href="https://spacenews.com/arianespace-to-launch-katalyst-servicing-spacecraft/" >🔗</a> **[SpaceNews]** Arianespace to launch Katalyst servicing spacecraft
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Tracking_Arctic_freshwater_flow_from_space" >🔗</a> **[ESA]** Tracking Arctic freshwater flow from space
 - <a href="https://spacenews.com/the-software-behind-artemis-gateway-and-americas-defense-in-space-deserves-its-own-strategy/" >🔗</a> **[SpaceNews]** The software behind Artemis, Gateway and America’s defense in space deserves its own strategy
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Watch_live_First_Celeste_launch" >🔗</a> **[ESA]** Watch live: First Celeste launch
-- <a href="https://spacenews.com/lunar-lander-developers-say-they-are-ready-to-meet-anticipated-increased-nasa-demand/" >🔗</a> **[SpaceNews]** Lunar lander developers say they are ready to meet anticipated increased NASA demand
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260323T171457">2026-03-23 17:14:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260323T174501">2026-03-23 17:45:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
