@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/the-software-behind-artemis-gateway-and-americas-defense-in-space-deserves-its-own-strategy/" >🔗</a> **[SpaceNews]** The software behind Artemis, Gateway and America’s defense in space deserves its own strategy
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Watch_live_First_Celeste_launch" >🔗</a> **[ESA]** Watch live: First Celeste launch
 - <a href="https://spacenews.com/lunar-lander-developers-say-they-are-ready-to-meet-anticipated-increased-nasa-demand/" >🔗</a> **[SpaceNews]** Lunar lander developers say they are ready to meet anticipated increased NASA demand
 - <a href="https://www.esa.int/Enabling_Support/Operations/A_rare_encounter_How_Juice_came_to_observe_3I_ATLAS" >🔗</a> **[ESA]** A rare encounter: How Juice came to observe 3I/ATLAS
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/directorates/armd/tacp/ttt/ttt-resources/" >🔗</a> **[NASA]** Transformational Tools and Technologies Resources
 - <a href="https://spacenews.com/spacex-offers-details-on-orbital-data-center-satellites/" >🔗</a> **[SpaceNews]** SpaceX offers details on orbital data center satellites
 - <a href="https://spaceflightnow.com/2026/03/22/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-12/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral
-- <a href="https://europeanspaceflight.com/esa-regains-contact-with-lost-proba-3-spacecraft/" >🔗</a> **[European Spaceflight]** ESA Regains Contact With Lost Proba-3 Spacecraft
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260323T124511">2026-03-23 12:45:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260323T132753">2026-03-23 13:27:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
