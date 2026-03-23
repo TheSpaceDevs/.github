@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/learning-resources/science-activation/science-through-shadows-how-astronomical-alignments-reveal-the-universe/" >🔗</a> **[NASA]** Science Through Shadows: How Astronomical Alignments Reveal the Universe
 - <a href="https://spacenews.com/parsons-unveils-new-satellite-antenna-aimed-at-military-market/" >🔗</a> **[SpaceNews]** Parsons unveils new satellite antenna aimed at military market
 - <a href="https://www.nasa.gov/science-research/earth-science/see-nasas-guardian-catch-a-tsunami/" >🔗</a> **[NASA]** See NASA’s GUARDIAN Catch a Tsunami
 - <a href="https://spacenews.com/sovereign-demand-and-institutional-capital-reshape-space-economy/" >🔗</a> **[SpaceNews]** Sovereign demand and institutional capital reshape space economy
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/arianespace-to-launch-katalyst-servicing-spacecraft/" >🔗</a> **[SpaceNews]** Arianespace to launch Katalyst servicing spacecraft
 - <a href="https://www.nasa.gov/news-release/nasa-to-provide-update-on-implementation-of-national-space-policy/" >🔗</a> **[NASA]** NASA to Provide Update on Implementation of National Space Policy
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-revisits-crab-nebula-to-track-25-years-of-expansion/" >🔗</a> **[NASA]** NASA’s Hubble Revisits Crab Nebula to Track 25 Years of Expansion
-- <a href="https://spacenews.com/york-space-rides-defense-demand-as-procurement-changes-cloud-outlook/" >🔗</a> **[SpaceNews]** York Space rides defense demand as procurement changes cloud outlook
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260323T200854">2026-03-23 20:08:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260323T204333">2026-03-23 20:43:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
