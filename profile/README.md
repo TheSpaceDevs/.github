@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/lunar-lander-developers-say-they-are-ready-to-meet-anticipated-increased-nasa-demand/" >🔗</a> **[SpaceNews]** Lunar lander developers say they are ready to meet anticipated increased NASA demand
 - <a href="https://www.esa.int/Enabling_Support/Operations/A_rare_encounter_How_Juice_came_to_observe_3I_ATLAS" >🔗</a> **[ESA]** A rare encounter: How Juice came to observe 3I/ATLAS
 - <a href="https://science.nasa.gov/earth/earth-observatory/a-fault-line-in-full-bloom/" >🔗</a> **[NASA]** A Fault Line in Full Bloom
 - <a href="https://spacenews.com/swissto12-to-build-small-optical-relay-geo-satellite-for-space-compass/" >🔗</a> **[SpaceNews]** Swissto12 to build small optical relay GEO satellite for Space Compass
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spaceflightnow.com/2026/03/22/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-12/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral
 - <a href="https://europeanspaceflight.com/esa-regains-contact-with-lost-proba-3-spacecraft/" >🔗</a> **[European Spaceflight]** ESA Regains Contact With Lost Proba-3 Spacecraft
 - <a href="https://spacenews.com/some-european-launcher-challenge-funding-remains-in-limbo/" >🔗</a> **[SpaceNews]** Some European Launcher Challenge funding remains in limbo
-- <a href="https://www.nasaspaceflight.com/2026/03/progress-ms33/" >🔗</a> **[NASASpaceflight]** Progress MS-33 set to resume Russian flights to ISS from repaired pad
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260323T094705">2026-03-23 09:47:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260323T101821">2026-03-23 10:18:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
