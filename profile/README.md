@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Enabling_Support/Operations/A_rare_encounter_How_Juice_came_to_observe_3I_ATLAS" >🔗</a> **[ESA]** A rare encounter: How Juice came to observe 3I/ATLAS
 - <a href="https://science.nasa.gov/earth/earth-observatory/a-fault-line-in-full-bloom/" >🔗</a> **[NASA]** A Fault Line in Full Bloom
 - <a href="https://spacenews.com/swissto12-to-build-small-optical-relay-geo-satellite-for-space-compass/" >🔗</a> **[SpaceNews]** Swissto12 to build small optical relay GEO satellite for Space Compass
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-march-22-28-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy March 22-28, 2026
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://europeanspaceflight.com/esa-regains-contact-with-lost-proba-3-spacecraft/" >🔗</a> **[European Spaceflight]** ESA Regains Contact With Lost Proba-3 Spacecraft
 - <a href="https://spacenews.com/some-european-launcher-challenge-funding-remains-in-limbo/" >🔗</a> **[SpaceNews]** Some European Launcher Challenge funding remains in limbo
 - <a href="https://www.nasaspaceflight.com/2026/03/progress-ms33/" >🔗</a> **[NASASpaceflight]** Progress MS-33 set to resume Russian flights to ISS from repaired pad
-- <a href="https://spacenews.com/artemis-2-returns-to-the-pad-for-april-launch-attempt/" >🔗</a> **[SpaceNews]** Artemis 2 returns to the pad for April launch attempt
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260323T074947">2026-03-23 07:49:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260323T081437">2026-03-23 08:14:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
