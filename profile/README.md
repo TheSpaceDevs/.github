@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/earth-observatory/tropical-cyclone-narelle-crosses-australia/" >🔗</a> **[NASA]** Tropical Cyclone Narelle Crosses Australia
 - <a href="https://www.nasaspaceflight.com/2026/03/progress-starbase-pads-block-3-starships/" >🔗</a> **[NASASpaceflight]** Progress on Starbase Pads ahead of Block 3 Starships
 - <a href="https://www.nasaspaceflight.com/2026/03/launch-preview-032326/" >🔗</a> **[NASASpaceflight]** Launch Preview: Russia to debut Soyuz-5; Falcon 9 and Atlas V to launch internet satellites
 - <a href="https://spacenews.com/space-force-adds-cyber-units-to-guard-rocket-launches/" >🔗</a> **[SpaceNews]** Space Force adds cyber units to guard rocket launches
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/parsons-unveils-new-satellite-antenna-aimed-at-military-market/" >🔗</a> **[SpaceNews]** Parsons unveils new satellite antenna aimed at military market
 - <a href="https://www.nasa.gov/science-research/earth-science/see-nasas-guardian-catch-a-tsunami/" >🔗</a> **[NASA]** See NASA’s GUARDIAN Catch a Tsunami
 - <a href="https://spacenews.com/sovereign-demand-and-institutional-capital-reshape-space-economy/" >🔗</a> **[SpaceNews]** Sovereign demand and institutional capital reshape space economy
-- <a href="https://science.nasa.gov/earth/swot-mission-unlocks-a-new-view-of-our-waterways/" >🔗</a> **[NASA]** SWOT Mission Unlocks a New View of Our Waterways
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260324T034556">2026-03-24 03:45:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260324T043358">2026-03-24 04:33:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
