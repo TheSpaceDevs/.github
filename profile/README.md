@@ -92,6 +92,9 @@ This launch will lift 2 “Pathfinder A” satellites built by Thales Alenia Spa
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2026/03/nasa-kills-lunar-space-station-to-focus-on-ambitious-moon-base/" >🔗</a> **[Arstechnica]** NASA kills lunar space station to focus on ambitious Moon base
+- <a href="https://spacenews.com/orbitsiq-global-announces-breakthrough-in-space-based-iot-connectivity/" >🔗</a> **[SpaceNews]** OrbitsIQ Global Announces Breakthrough in Space-Based IoT Connectivity
+- <a href="https://www.nasaspaceflight.com/2026/03/nasa-sr1-freedom-mars-2028/" >🔗</a> **[NASASpaceflight]** NASA unveils Space Reactor-1 Freedom mission to Mars in 2028
 - <a href="https://www.nasa.gov/news-release/la-nasa-presenta-iniciativas-para-cumplir-con-la-politica-espacial-nacional-de-estados-unidos/" >🔗</a> **[NASA]** La NASA presenta iniciativas para cumplir con la política espacial nacional de Estados Unidos
 - <a href="https://spacenews.com/chinas-astronstone-raises-29-million-for-reusable-rocket-with-chopstick-style-recovery/" >🔗</a> **[SpaceNews]** China’s Astronstone raises $29 million for reusable rocket with chopstick-style recovery
 - <a href="https://spacepolicyonline.com/news/nasa-rolls-out-new-moon-plan/" >🔗</a> **[SpacePolicyOnline.com]** NASA Rolls Out New Moon Plan
@@ -99,9 +102,6 @@ This launch will lift 2 “Pathfinder A” satellites built by Thales Alenia Spa
 - <a href="https://spacenews.com/nasa-halts-work-on-gateway-to-develop-a-lunar-base/" >🔗</a> **[SpaceNews]** NASA halts work on Gateway to develop a lunar base
 - <a href="https://spacenews.com/space-force-officer-shares-intelligence-on-threats-to-space-systems/" >🔗</a> **[SpaceNews]** Space Force officer shares intelligence on threats to space systems
 - <a href="https://www.nasa.gov/directorates/stmd/nasa-research-proposes-technology-to-seek-earth-like-exoplanets/" >🔗</a> **[NASA]** NASA Research Proposes Technology to Seek Earth-Like Exoplanets
-- <a href="https://spacenews.com/spaceeye-t-25-cm-satellite-imagery-and-tasking-now-available-through-pacific-geomatics-limited/" >🔗</a> **[SpaceNews]** SpaceEye-T: 25 cm Satellite Imagery and Tasking Now Available Through Pacific Geomatics Limited
-- <a href="https://www.nasa.gov/solar-system/moon/nasas-water-hunting-tool-will-help-scout-moons-south-pole/" >🔗</a> **[NASA]** NASA’s Water-Hunting Tool Will Help Scout Moon’s South Pole
-- <a href="https://www.nasa.gov/news-release/nasa-unveils-initiatives-to-achieve-americas-national-space-policy/" >🔗</a> **[NASA]** NASA Unveils Initiatives to Achieve America’s National Space Policy
 
 
 ### Launch-related News 🚀
@@ -120,7 +120,7 @@ This launch will lift 2 “Pathfinder A” satellites built by Thales Alenia Spa
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260324T184540">2026-03-24 18:45:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260324T192134">2026-03-24 19:21:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
