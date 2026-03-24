@@ -92,6 +92,9 @@ This launch will lift 2 “Pathfinder A” satellites built by Thales Alenia Spa
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/geopolitical-shifts-bring-opportunities-and-headaches-for-satellite-execs/" >🔗</a> **[SpaceNews]** Geopolitical shifts bring opportunities and headaches for satellite execs
+- <a href="https://www.nasa.gov/image-article/reminders-of-where-weve-been-where-were-going/" >🔗</a> **[NASA]** Reminders of Where We’ve Been, Where We’re Going
+- <a href="https://www.nasa.gov/learning-resources/3-ways-students-can-get-involved-with-artemis/" >🔗</a> **[NASA]** 3 Ways Students Can Get Involved With Artemis
 - <a href="https://www.nasa.gov/image-article/nasa-x-ray-mission-gets-fresh-look-at-2000-year-old-supernova/" >🔗</a> **[NASA]** NASA X-Ray Mission Gets Fresh Look at 2,000-Year-Old Supernova
 - <a href="https://spacenews.com/moog-taps-redwire-to-provide-solar-arrays-for-meteor/" >🔗</a> **[SpaceNews]** Moog taps Redwire to provide solar arrays for Meteor
 - <a href="https://arstechnica.com/space/2026/03/nasa-kills-lunar-space-station-to-focus-on-ambitious-moon-base/" >🔗</a> **[Arstechnica]** NASA kills lunar space station to focus on ambitious Moon base
@@ -99,9 +102,6 @@ This launch will lift 2 “Pathfinder A” satellites built by Thales Alenia Spa
 - <a href="https://www.nasaspaceflight.com/2026/03/nasa-sr1-freedom-mars-2028/" >🔗</a> **[NASASpaceflight]** NASA unveils Space Reactor-1 Freedom mission to Mars in 2028
 - <a href="https://www.nasa.gov/news-release/la-nasa-presenta-iniciativas-para-cumplir-con-la-politica-espacial-nacional-de-estados-unidos/" >🔗</a> **[NASA]** La NASA presenta iniciativas para cumplir con la política espacial nacional de Estados Unidos
 - <a href="https://spacenews.com/chinas-astronstone-raises-29-million-for-reusable-rocket-with-chopstick-style-recovery/" >🔗</a> **[SpaceNews]** China’s Astronstone raises $29 million for reusable rocket with chopstick-style recovery
-- <a href="https://spacepolicyonline.com/news/nasa-rolls-out-new-moon-plan/" >🔗</a> **[SpacePolicyOnline.com]** NASA Rolls Out New Moon Plan
-- <a href="https://spacenews.com/space-development-agency-slows-satellite-launches-to-focus-on-on-orbit-performance/" >🔗</a> **[SpaceNews]** Space Development Agency slows satellite launches to focus on on-orbit performance
-- <a href="https://spacenews.com/nasa-halts-work-on-gateway-to-develop-a-lunar-base/" >🔗</a> **[SpaceNews]** NASA halts work on Gateway to develop a lunar base
 
 
 ### Launch-related News 🚀
@@ -120,7 +120,7 @@ This launch will lift 2 “Pathfinder A” satellites built by Thales Alenia Spa
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260324T210941">2026-03-24 21:09:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260324T214249">2026-03-24 21:42:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
