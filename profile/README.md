@@ -92,6 +92,7 @@ This launch will lift 2 “Pathfinder A” satellites built by Thales Alenia Spa
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/chinas-astronstone-raises-29-million-for-reusable-rocket-with-chopstick-style-recovery/" >🔗</a> **[SpaceNews]** China’s Astronstone raises $29 million for reusable rocket with chopstick-style recovery
 - <a href="https://spacepolicyonline.com/news/nasa-rolls-out-new-moon-plan/" >🔗</a> **[SpacePolicyOnline.com]** NASA Rolls Out New Moon Plan
 - <a href="https://spacenews.com/space-development-agency-slows-satellite-launches-to-focus-on-on-orbit-performance/" >🔗</a> **[SpaceNews]** Space Development Agency slows satellite launches to focus on on-orbit performance
 - <a href="https://spacenews.com/nasa-halts-work-on-gateway-to-develop-a-lunar-base/" >🔗</a> **[SpaceNews]** NASA halts work on Gateway to develop a lunar base
@@ -101,7 +102,6 @@ This launch will lift 2 “Pathfinder A” satellites built by Thales Alenia Spa
 - <a href="https://www.nasa.gov/solar-system/moon/nasas-water-hunting-tool-will-help-scout-moons-south-pole/" >🔗</a> **[NASA]** NASA’s Water-Hunting Tool Will Help Scout Moon’s South Pole
 - <a href="https://www.nasa.gov/news-release/nasa-unveils-initiatives-to-achieve-americas-national-space-policy/" >🔗</a> **[NASA]** NASA Unveils Initiatives to Achieve America’s National Space Policy
 - <a href="https://spacenews.com/ses-targets-28-satellites-with-k2-space-for-next-gen-meo-network/" >🔗</a> **[SpaceNews]** SES targets 28 satellites with K2 Space for next-gen MEO network
-- <a href="https://arstechnica.com/space/2026/03/orbital-data-centers-part-1-theres-no-way-this-is-economically-viable-right/" >🔗</a> **[Arstechnica]** Orbital data centers, part 1: There’s no way this is economically viable, right?
 
 
 ### Launch-related News 🚀
@@ -120,7 +120,7 @@ This launch will lift 2 “Pathfinder A” satellites built by Thales Alenia Spa
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260324T174542">2026-03-24 17:45:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260324T181440">2026-03-24 18:14:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
