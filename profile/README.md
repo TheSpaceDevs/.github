@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/directorates/stmd/nasa-research-proposes-technology-to-seek-earth-like-exoplanets/" >🔗</a> **[NASA]** NASA Research Proposes Technology to Seek Earth-Like Exoplanets
+- <a href="https://spacenews.com/spaceeye-t-25-cm-satellite-imagery-and-tasking-now-available-through-pacific-geomatics-limited/" >🔗</a> **[SpaceNews]** SpaceEye-T: 25 cm Satellite Imagery and Tasking Now Available Through Pacific Geomatics Limited
+- <a href="https://www.nasa.gov/solar-system/moon/nasas-water-hunting-tool-will-help-scout-moons-south-pole/" >🔗</a> **[NASA]** NASA’s Water-Hunting Tool Will Help Scout Moon’s South Pole
 - <a href="https://www.nasa.gov/news-release/nasa-unveils-initiatives-to-achieve-americas-national-space-policy/" >🔗</a> **[NASA]** NASA Unveils Initiatives to Achieve America’s National Space Policy
 - <a href="https://spacenews.com/ses-targets-28-satellites-with-k2-space-for-next-gen-meo-network/" >🔗</a> **[SpaceNews]** SES targets 28 satellites with K2 Space for next-gen MEO network
 - <a href="https://arstechnica.com/space/2026/03/orbital-data-centers-part-1-theres-no-way-this-is-economically-viable-right/" >🔗</a> **[Arstechnica]** Orbital data centers, part 1: There’s no way this is economically viable, right?
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/03/Smile_fuelled_for_launch" >🔗</a> **[ESA]** Smile fuelled for launch
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/XRISM_solves_famous_star_s_50-year_mystery" >🔗</a> **[ESA]** XRISM solves famous star’s 50-year mystery
 - <a href="https://europeanspaceflight.com/us-based-katalyst-selects-ariane-6-to-launch-satellite-servicing-spacecraft/" >🔗</a> **[European Spaceflight]** US-Based Katalyst Selects Ariane 6 to Launch Satellite Servicing Spacecraft
-- <a href="https://science.nasa.gov/earth/earth-observatory/tropical-cyclone-narelle-crosses-australia/" >🔗</a> **[NASA]** Tropical Cyclone Narelle Crosses Australia
-- <a href="https://www.nasaspaceflight.com/2026/03/progress-starbase-pads-block-3-starships/" >🔗</a> **[NASASpaceflight]** Progress on Starbase Pads ahead of Block 3 Starships
-- <a href="https://www.nasaspaceflight.com/2026/03/launch-preview-032326/" >🔗</a> **[NASASpaceflight]** Launch Preview: Russia to debut Soyuz-5; Falcon 9 and Atlas V to launch internet satellites
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260324T135935">2026-03-24 13:59:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260324T143444">2026-03-24 14:34:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
