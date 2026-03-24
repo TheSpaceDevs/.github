@@ -92,6 +92,8 @@ This launch will lift 2 “Pathfinder A” satellites built by Thales Alenia Spa
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/nasa-x-ray-mission-gets-fresh-look-at-2000-year-old-supernova/" >🔗</a> **[NASA]** NASA X-Ray Mission Gets Fresh Look at 2,000-Year-Old Supernova
+- <a href="https://spacenews.com/moog-taps-redwire-to-provide-solar-arrays-for-meteor/" >🔗</a> **[SpaceNews]** Moog taps Redwire to provide solar arrays for Meteor
 - <a href="https://arstechnica.com/space/2026/03/nasa-kills-lunar-space-station-to-focus-on-ambitious-moon-base/" >🔗</a> **[Arstechnica]** NASA kills lunar space station to focus on ambitious Moon base
 - <a href="https://spacenews.com/orbitsiq-global-announces-breakthrough-in-space-based-iot-connectivity/" >🔗</a> **[SpaceNews]** OrbitsIQ Global Announces Breakthrough in Space-Based IoT Connectivity
 - <a href="https://www.nasaspaceflight.com/2026/03/nasa-sr1-freedom-mars-2028/" >🔗</a> **[NASASpaceflight]** NASA unveils Space Reactor-1 Freedom mission to Mars in 2028
@@ -100,8 +102,6 @@ This launch will lift 2 “Pathfinder A” satellites built by Thales Alenia Spa
 - <a href="https://spacepolicyonline.com/news/nasa-rolls-out-new-moon-plan/" >🔗</a> **[SpacePolicyOnline.com]** NASA Rolls Out New Moon Plan
 - <a href="https://spacenews.com/space-development-agency-slows-satellite-launches-to-focus-on-on-orbit-performance/" >🔗</a> **[SpaceNews]** Space Development Agency slows satellite launches to focus on on-orbit performance
 - <a href="https://spacenews.com/nasa-halts-work-on-gateway-to-develop-a-lunar-base/" >🔗</a> **[SpaceNews]** NASA halts work on Gateway to develop a lunar base
-- <a href="https://spacenews.com/space-force-officer-shares-intelligence-on-threats-to-space-systems/" >🔗</a> **[SpaceNews]** Space Force officer shares intelligence on threats to space systems
-- <a href="https://www.nasa.gov/directorates/stmd/nasa-research-proposes-technology-to-seek-earth-like-exoplanets/" >🔗</a> **[NASA]** NASA Research Proposes Technology to Seek Earth-Like Exoplanets
 
 
 ### Launch-related News 🚀
@@ -120,7 +120,7 @@ This launch will lift 2 “Pathfinder A” satellites built by Thales Alenia Spa
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260324T194541">2026-03-24 19:45:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260324T200757">2026-03-24 20:07:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
