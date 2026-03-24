@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/03/progress-starbase-pads-block-3-starships/" >🔗</a> **[NASASpaceflight]** Progress on Starbase Pads ahead of Block 3 Starships
 - <a href="https://www.nasaspaceflight.com/2026/03/launch-preview-032326/" >🔗</a> **[NASASpaceflight]** Launch Preview: Russia to debut Soyuz-5; Falcon 9 and Atlas V to launch internet satellites
 - <a href="https://spacenews.com/space-force-adds-cyber-units-to-guard-rocket-launches/" >🔗</a> **[SpaceNews]** Space Force adds cyber units to guard rocket launches
 - <a href="https://science.nasa.gov/get-involved/citizen-science/nasa-data-hackathon-inspires-community-action/" >🔗</a> **[NASA]** NASA Data Hackathon Inspires Community Action
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/science-research/earth-science/see-nasas-guardian-catch-a-tsunami/" >🔗</a> **[NASA]** See NASA’s GUARDIAN Catch a Tsunami
 - <a href="https://spacenews.com/sovereign-demand-and-institutional-capital-reshape-space-economy/" >🔗</a> **[SpaceNews]** Sovereign demand and institutional capital reshape space economy
 - <a href="https://science.nasa.gov/earth/swot-mission-unlocks-a-new-view-of-our-waterways/" >🔗</a> **[NASA]** SWOT Mission Unlocks a New View of Our Waterways
-- <a href="https://www.nasa.gov/image-article/nasas-hubble-webb-telescopes-survey-pinwheel-galaxy/" >🔗</a> **[NASA]** NASA’s Hubble, Webb Telescopes Survey Pinwheel Galaxy
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260324T013039">2026-03-24 01:30:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260324T025513">2026-03-24 02:55:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
