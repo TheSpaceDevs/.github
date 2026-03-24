@@ -19,36 +19,38 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 17-17**. It is scheduled to be launched by *SpaceX*
+**Electron | Daughter Of The Stars (LEO-PNT Pathfinder A)**. It is scheduled to be launched by *Rocket Lab*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260324T230300">2026-03-24 23:03:00 UTC</a>.  Until
-then, this pad will have been used for 255
-out of 870 launches from this location. The launch status is currently
+from *<a href="https://en.wikipedia.org/wiki/Rocket_Lab_Launch_Complex_1">Rocket Lab Launch Complex 1A</a>, Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260325T091400">2026-03-25 09:14:00 UTC</a>.  Until
+then, this pad will have been used for 38
+out of 73 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Communications* and the payload will be injected
-into *a Low Earth Orbit
-(LEO)*.
+*Navigation* and the payload will be injected
+into *a Polar Orbit
+(PO)*.
 <br>
 <blockquote>
-  A batch of 25 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  The European Space Agency (ESA)'s LEO-PNT (Low Earth Orbit Positioning, Navigation and Timing) demonstrator mission will feature a 10-satellite constellation demonstration mission that will assess how a low Earth orbit fleet of satellites can work in combination with the Galileo and EGNOS constellations in higher orbits that provide Europe’s own global navigation system.
+
+This launch will lift 2 “Pathfinder A” satellites built by Thales Alenia Space and GMV to a 510 km altitude Low Earth Orbit.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+  <a href="https://en.wikipedia.org/wiki/Rocket_Lab_Electron" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=34.632,-120.611" >
+  <a href="https://www.google.com/maps?q=-39.262833,177.864469" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260324T230300">2026-03-24 23:03:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-17&location=Vandenberg SFB, CA, USA&dates=20260324T230300Z%2F20260325T030300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-17** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260325T091400">2026-03-25 09:14:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Daughter Of The Stars (LEO-PNT Pathfinder A)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20260325T091400Z%2F20260325T091400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Daughter Of The Stars (LEO-PNT Pathfinder A)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260325T200000">2026-03-25 20:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/no.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Spectrum | Onward and Upward&location=Andøya Spaceport&dates=20260325T200000Z%2F20260325T210000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Spectrum | Onward and Upward** from Andøya Spaceport.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260325T224300">2026-03-25 22:43:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2C | Unknown Payload&location=Taiyuan Satellite Launch Center, People&#x27;s Republic of China&dates=20260325T224300Z%2F20260325T230500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2C | Unknown Payload** from Taiyuan Satellite Launch Center, People's Republic of China.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260325T230300">2026-03-25 23:03:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-17&location=Vandenberg SFB, CA, USA&dates=20260325T230300Z%2F20260326T030300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-17** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260327T040400">2026-03-27 04:04:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Kuaizhou 1A | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20260327T040400Z%2F20260327T043800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Kuaizhou 1A | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260327T110000">2026-03-27 11:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-44&location=Cape Canaveral SFS, FL, USA&dates=20260327T110000Z%2F20260327T150000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-44** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260327T110000">2026-03-27 11:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz-5 | Demo Flight&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20260327T110000Z%2F20260327T110000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz-5 | Demo Flight** from Baikonur Cosmodrome, Republic of Kazakhstan.
@@ -90,6 +92,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/nasa-rolls-out-new-moon-plan/" >🔗</a> **[SpacePolicyOnline.com]** NASA Rolls Out New Moon Plan
+- <a href="https://spacenews.com/space-development-agency-slows-satellite-launches-to-focus-on-on-orbit-performance/" >🔗</a> **[SpaceNews]** Space Development Agency slows satellite launches to focus on on-orbit performance
 - <a href="https://spacenews.com/nasa-halts-work-on-gateway-to-develop-a-lunar-base/" >🔗</a> **[SpaceNews]** NASA halts work on Gateway to develop a lunar base
 - <a href="https://spacenews.com/space-force-officer-shares-intelligence-on-threats-to-space-systems/" >🔗</a> **[SpaceNews]** Space Force officer shares intelligence on threats to space systems
 - <a href="https://www.nasa.gov/directorates/stmd/nasa-research-proposes-technology-to-seek-earth-like-exoplanets/" >🔗</a> **[NASA]** NASA Research Proposes Technology to Seek Earth-Like Exoplanets
@@ -98,18 +102,25 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-unveils-initiatives-to-achieve-americas-national-space-policy/" >🔗</a> **[NASA]** NASA Unveils Initiatives to Achieve America’s National Space Policy
 - <a href="https://spacenews.com/ses-targets-28-satellites-with-k2-space-for-next-gen-meo-network/" >🔗</a> **[SpaceNews]** SES targets 28 satellites with K2 Space for next-gen MEO network
 - <a href="https://arstechnica.com/space/2026/03/orbital-data-centers-part-1-theres-no-way-this-is-economically-viable-right/" >🔗</a> **[Arstechnica]** Orbital data centers, part 1: There’s no way this is economically viable, right?
-- <a href="https://spacenews.com/fusion-engine-for-missile-warning-lacks-a-government-dataset/" >🔗</a> **[SpaceNews]** Fusion engine for missile warning lacks a government dataset
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/03/Smile_fuelled_for_launch" >🔗</a> **[ESA]** Smile fuelled for launch
 
 
 ### Launch-related News 🚀
 
 - <a href="https://www.nasaspaceflight.com/2026/03/launch-preview-032326/" >🔗</a> **[NASASpaceflight]** Launch Preview: Russia to debut Soyuz-5; Falcon 9 and Atlas V to launch internet satellites
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/03/Celeste_Countdown_to_Launch_1" >🔗</a> **[ESA]** Celeste: Countdown to Launch 1
+- <a href="https://www.esa.int/Applications/Satellite_navigation/Watch_live_First_Celeste_launch" >🔗</a> **[ESA]** Watch live: First Celeste launch
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/03/CELESTE_pre-launch_media_briefing" >🔗</a> **[ESA]** CELESTE pre-launch media briefing
+- <a href="https://www.esa.int/Applications/Satellite_navigation/Follow_the_Celeste_launch_campaign" >🔗</a> **[ESA]** Follow the Celeste launch campaign
+- <a href="https://www.esa.int/Applications/Satellite_navigation/ESA_s_Celeste_target_launch_date_confirmed" >🔗</a> **[ESA]** ESA’s Celeste target launch date confirmed
+- <a href="https://www.esa.int/Applications/Satellite_navigation/Celeste/Galileo_daughter_mission_name_revealed_Celeste" >🔗</a> **[ESA]** Galileo ‘daughter mission’ name revealed: Celeste
+- <a href="https://www.esa.int/Applications/Satellite_navigation/LEO-PNT/Galileo_daughter_mission_name_revealed_Celeste" >🔗</a> **[ESA]** Galileo ‘daughter mission’ name revealed: Celeste
+- <a href="https://spacenews.com/rocket-lab-to-launch-european-navigation-tech-demo-satellites/" >🔗</a> **[SpaceNews]** Rocket Lab to launch European navigation tech demo satellites
+- <a href="https://www.esa.int/Applications/Satellite_navigation/LEO-PNT/ESA_s_LEO-PNT_satellites_set_to_launch_by_end_of_year" >🔗</a> **[ESA]** ESA’s LEO-PNT satellites set to launch by end of year
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260324T164608">2026-03-24 16:46:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260324T171808">2026-03-24 17:18:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
