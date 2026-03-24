@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-unveils-initiatives-to-achieve-americas-national-space-policy/" >🔗</a> **[NASA]** NASA Unveils Initiatives to Achieve America’s National Space Policy
+- <a href="https://spacenews.com/ses-targets-28-satellites-with-k2-space-for-next-gen-meo-network/" >🔗</a> **[SpaceNews]** SES targets 28 satellites with K2 Space for next-gen MEO network
 - <a href="https://arstechnica.com/space/2026/03/orbital-data-centers-part-1-theres-no-way-this-is-economically-viable-right/" >🔗</a> **[Arstechnica]** Orbital data centers, part 1: There’s no way this is economically viable, right?
 - <a href="https://spacenews.com/fusion-engine-for-missile-warning-lacks-a-government-dataset/" >🔗</a> **[SpaceNews]** Fusion engine for missile warning lacks a government dataset
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/03/Smile_fuelled_for_launch" >🔗</a> **[ESA]** Smile fuelled for launch
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/earth/earth-observatory/tropical-cyclone-narelle-crosses-australia/" >🔗</a> **[NASA]** Tropical Cyclone Narelle Crosses Australia
 - <a href="https://www.nasaspaceflight.com/2026/03/progress-starbase-pads-block-3-starships/" >🔗</a> **[NASASpaceflight]** Progress on Starbase Pads ahead of Block 3 Starships
 - <a href="https://www.nasaspaceflight.com/2026/03/launch-preview-032326/" >🔗</a> **[NASASpaceflight]** Launch Preview: Russia to debut Soyuz-5; Falcon 9 and Atlas V to launch internet satellites
-- <a href="https://spacenews.com/space-force-adds-cyber-units-to-guard-rocket-launches/" >🔗</a> **[SpaceNews]** Space Force adds cyber units to guard rocket launches
-- <a href="https://science.nasa.gov/get-involved/citizen-science/nasa-data-hackathon-inspires-community-action/" >🔗</a> **[NASA]** NASA Data Hackathon Inspires Community Action
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260324T124532">2026-03-24 12:45:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260324T132809">2026-03-24 13:28:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
