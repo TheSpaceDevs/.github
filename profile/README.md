@@ -90,6 +90,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/artemis/artemis-2/nasa-sets-coverage-for-artemis-ii-moon-mission/" >🔗</a> **[NASA]** NASA Sets Coverage for Artemis II Moon Mission
+- <a href="https://spacepolicyonline.com/news/cavossa-cld-companies-want-stability-not-a-new-plan/" >🔗</a> **[SpacePolicyOnline.com]** Cavossa: CLD Companies Want Stability, Not a New Plan
+- <a href="https://science.nasa.gov/learning-resources/science-activation/artemis-moon-tree-dedicated-in-honor-of-mary-w-jackson/" >🔗</a> **[NASA]** Artemis Moon Tree Dedicated in Honor of Mary W. Jackson
 - <a href="https://www.nasa.gov/centers-and-facilities/kennedy/nasa-names-jennifer-lyons-as-acting-launch-services-program-manager/" >🔗</a> **[NASA]** NASA Names Jennifer Lyons as Acting Launch Services Program Manager
 - <a href="https://spacenews.com/office-of-space-commerce-releases-mission-authorization-proposal/" >🔗</a> **[SpaceNews]** Office of Space Commerce releases mission authorization proposal
 - <a href="https://arstechnica.com/space/2026/03/we-got-an-audience-with-the-lunar-viceroy-to-talk-how-nasa-will-build-a-moon-base/" >🔗</a> **[Arstechnica]** We got an audience with the "Lunar Viceroy" to talk how NASA will build a Moon base
@@ -97,9 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/terran-orbital-introduces-new-star-tracker-product-line-at-satshow-2026/" >🔗</a> **[SpaceNews]** Terran Orbital Introduces New Star Tracker Product Line at SATSHOW 2026
 - <a href="https://science.nasa.gov/missions/webb/nasa-webb-hubble-share-most-comprehensive-view-of-saturn-to-date/" >🔗</a> **[NASA]** NASA Webb, Hubble Share Most Comprehensive View of Saturn to Date
 - <a href="https://www.nasaspaceflight.com/2026/03/isar-onward-and-upward/" >🔗</a> **[NASASpaceflight]** Isar Aerospace set for second launch of Spectrum rocket
-- <a href="https://science.nasa.gov/missions/xrism/nasa-jaxas-xrism-telescope-clocks-hot-wind-of-galaxy-m82/" >🔗</a> **[NASA]** NASA-JAXA’s XRISM Telescope Clocks Hot Wind of Galaxy M82
-- <a href="https://science.nasa.gov/missions/hubble/nasa-awards-astrophysics-postdoctoral-fellowships-for-2026/" >🔗</a> **[NASA]** NASA Awards Astrophysics Postdoctoral Fellowships for 2026
-- <a href="https://www.nasa.gov/missions/nisar/nasa-isro-satellite-captures-pacific-northwest-through-clouds/" >🔗</a> **[NASA]** NASA-ISRO Satellite Captures Pacific Northwest Through Clouds
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260325T220726">2026-03-25 22:07:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260325T224240">2026-03-25 22:42:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
