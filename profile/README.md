@@ -19,27 +19,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Long March 2C | Unknown Payload**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-from *<a href="None">Launch Complex 9</a>, Taiyuan Satellite Launch Center, People's Republic of China*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260325T224300">2026-03-25 22:43:00 UTC</a>.  Until
-then, this pad will have been used for 77
-out of 151 launches from this location. The launch status is currently
+**Falcon 9 Block 5 | Starlink Group 17-17**. It is scheduled to be launched by *SpaceX*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260326T230300">2026-03-26 23:03:00 UTC</a>.  Until
+then, this pad will have been used for 255
+out of 870 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Unknown* and the payload will be injected
-into *an Unknown
-(N/A)*.
+*Communications* and the payload will be injected
+into *a Low Earth Orbit
+(LEO)*.
 <br>
 <blockquote>
-  Details TBD.
+  A batch of 25 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Long_March_2C" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=38.863128,111.589567" >
+  <a href="https://www.google.com/maps?q=34.632,-120.611" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -54,6 +54,7 @@ into *an Unknown
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260331T000000">2026-03-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Daughter Of The Stars (LEO-PNT Pathfinder A)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20260331T000000Z%2F20260331T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Daughter Of The Stars (LEO-PNT Pathfinder A)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260331T000000">2026-03-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2C | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20260331T000000Z%2F20260331T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2C | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260331T000000">2026-03-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Glenn | BlueBird Block 2 #2&location=Cape Canaveral SFS, FL, USA&dates=20260331T000000Z%2F20260331T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Glenn | BlueBird Block 2 #2** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260331T000000">2026-03-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/no.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Spectrum | Onward and Upward&location=Andøya Spaceport&dates=20260331T000000Z%2F20260331T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Spectrum | Onward and Upward** from Andøya Spaceport.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -89,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/03/nasa-moon-base-pivots-gateway/" >🔗</a> **[NASASpaceflight]** NASA outlines Moon Base plans, pivots on Gateway
+- <a href="https://www.nasa.gov/general/nasa-ames-experts-available-for-artemis-ii-flight-test-interviews/" >🔗</a> **[NASA]** NASA Ames Experts Available for Artemis II Flight Test Interviews
+- <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-first-artemis-crewed-mission-around-moon/" >🔗</a> **[NASA]** NASA Sets Coverage for First Artemis Crewed Mission Around Moon
+- <a href="https://spacenews.com/space-force-weighs-launch-alternatives-as-vulcan-faces-potential-months-long-grounding/" >🔗</a> **[SpaceNews]** Space Force weighs launch alternatives as Vulcan faces potential months-long grounding
 - <a href="https://www.nasa.gov/missions/artemis/artemis-2/nasa-sets-coverage-for-artemis-ii-moon-mission/" >🔗</a> **[NASA]** NASA Sets Coverage for Artemis II Moon Mission
 - <a href="https://spacepolicyonline.com/news/cavossa-cld-companies-want-stability-not-a-new-plan/" >🔗</a> **[SpacePolicyOnline.com]** Cavossa: CLD Companies Want Stability, Not a New Plan
 - <a href="https://science.nasa.gov/learning-resources/science-activation/artemis-moon-tree-dedicated-in-honor-of-mary-w-jackson/" >🔗</a> **[NASA]** Artemis Moon Tree Dedicated in Honor of Mary W. Jackson
 - <a href="https://www.nasa.gov/centers-and-facilities/kennedy/nasa-names-jennifer-lyons-as-acting-launch-services-program-manager/" >🔗</a> **[NASA]** NASA Names Jennifer Lyons as Acting Launch Services Program Manager
 - <a href="https://spacenews.com/office-of-space-commerce-releases-mission-authorization-proposal/" >🔗</a> **[SpaceNews]** Office of Space Commerce releases mission authorization proposal
 - <a href="https://arstechnica.com/space/2026/03/we-got-an-audience-with-the-lunar-viceroy-to-talk-how-nasa-will-build-a-moon-base/" >🔗</a> **[Arstechnica]** We got an audience with the "Lunar Viceroy" to talk how NASA will build a Moon base
-- <a href="https://www.nasa.gov/image-article/webb-captures-saturn-in-infrared/" >🔗</a> **[NASA]** Webb Captures Saturn in Infrared
-- <a href="https://spacenews.com/terran-orbital-introduces-new-star-tracker-product-line-at-satshow-2026/" >🔗</a> **[SpaceNews]** Terran Orbital Introduces New Star Tracker Product Line at SATSHOW 2026
-- <a href="https://science.nasa.gov/missions/webb/nasa-webb-hubble-share-most-comprehensive-view-of-saturn-to-date/" >🔗</a> **[NASA]** NASA Webb, Hubble Share Most Comprehensive View of Saturn to Date
-- <a href="https://www.nasaspaceflight.com/2026/03/isar-onward-and-upward/" >🔗</a> **[NASASpaceflight]** Isar Aerospace set for second launch of Spectrum rocket
 
 
 ### Launch-related News 🚀
@@ -108,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260325T230744">2026-03-25 23:07:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260325T234223">2026-03-25 23:42:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
