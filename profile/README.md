@@ -97,6 +97,8 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/webb-captures-saturn-in-infrared/" >🔗</a> **[NASA]** Webb Captures Saturn in Infrared
+- <a href="https://spacenews.com/terran-orbital-introduces-new-star-tracker-product-line-at-satshow-2026/" >🔗</a> **[SpaceNews]** Terran Orbital Introduces New Star Tracker Product Line at SATSHOW 2026
 - <a href="https://science.nasa.gov/missions/webb/nasa-webb-hubble-share-most-comprehensive-view-of-saturn-to-date/" >🔗</a> **[NASA]** NASA Webb, Hubble Share Most Comprehensive View of Saturn to Date
 - <a href="https://www.nasaspaceflight.com/2026/03/isar-onward-and-upward/" >🔗</a> **[NASASpaceflight]** Isar Aerospace set for second launch of Spectrum rocket
 - <a href="https://science.nasa.gov/missions/xrism/nasa-jaxas-xrism-telescope-clocks-hot-wind-of-galaxy-m82/" >🔗</a> **[NASA]** NASA-JAXA’s XRISM Telescope Clocks Hot Wind of Galaxy M82
@@ -105,8 +107,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.esa.int/About_Us/Climate_and_Sustainability/2026_European_Space_for_Sustainability_Award_is_now_open_for_bold_ideas" >🔗</a> **[ESA]** 2026 European Space for Sustainability Award is now open for bold ideas
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/03/Space_for_Sustainability" >🔗</a> **[ESA]** Space for Sustainability
 - <a href="https://spacenews.com/telesat-eyes-defense-role-with-laser-comms-test-ahead-of-leo-debut/" >🔗</a> **[SpaceNews]** Telesat eyes defense role with laser comms test ahead of LEO debut
-- <a href="https://spacenews.com/sift-raises-42-million-in-series-b-round/" >🔗</a> **[SpaceNews]** Sift raises $42 million in Series B round
-- <a href="https://spacenews.com/infinity-avionics-unveils-aquila-the-next-generation-space-imaging-solution-for-complex-orbital-operations/" >🔗</a> **[SpaceNews]** Infinity Avionics Unveils Aquila: The Next-Generation Space Imaging Solution for Complex Orbital Operations
 
 
 ### Launch-related News 🚀
@@ -125,7 +125,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260325T181508">2026-03-25 18:15:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260325T184518">2026-03-25 18:45:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
