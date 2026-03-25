@@ -97,6 +97,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nasa-proposes-new-strategy-for-commercial-space-stations/" >🔗</a> **[SpaceNews]** NASA proposes new strategy for commercial space stations
 - <a href="https://science.nasa.gov/earth/earth-observatory/kona-storms-flood-o%ca%bbahu/" >🔗</a> **[NASA]** Kona Storms Flood Oʻahu
 - <a href="https://spaceflightnow.com/2026/03/25/nasa-outlines-ambitious-20-billion-plan-for-moon-base/" >🔗</a> **[Spaceflight Now]** NASA outlines ambitious $20 billion plan for moon base
 - <a href="https://www.nasa.gov/image-article/nasa-pc-12-aircraft-makes-move-to-support-flight-research-across-agency/" >🔗</a> **[NASA]** NASA PC-12 Aircraft Makes Move to Support Flight Research Across Agency
@@ -106,7 +107,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasa.gov/image-article/nasa-x-ray-mission-gets-fresh-look-at-2000-year-old-supernova/" >🔗</a> **[NASA]** NASA X-Ray Mission Gets Fresh Look at 2,000-Year-Old Supernova
 - <a href="https://spacenews.com/moog-taps-redwire-to-provide-solar-arrays-for-meteor/" >🔗</a> **[SpaceNews]** Moog taps Redwire to provide solar arrays for Meteor
 - <a href="https://arstechnica.com/space/2026/03/nasa-kills-lunar-space-station-to-focus-on-ambitious-moon-base/" >🔗</a> **[Arstechnica]** NASA kills lunar space station to focus on ambitious Moon base
-- <a href="https://spacenews.com/orbitsiq-global-announces-breakthrough-in-space-based-iot-connectivity/" >🔗</a> **[SpaceNews]** OrbitsIQ Global Announces Breakthrough in Space-Based IoT Connectivity
 
 
 ### Launch-related News 🚀
@@ -125,7 +125,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260325T101411">2026-03-25 10:14:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260325T104422">2026-03-25 10:44:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
