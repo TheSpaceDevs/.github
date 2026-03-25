@@ -97,6 +97,8 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/airbase-raises-5-million-to-tackle-spectrum-bottleneck-as-fcc-eyes-new-space-uses/" >🔗</a> **[SpaceNews]** Airbase raises $5 million to tackle spectrum bottleneck as FCC eyes new space uses
+- <a href="https://spacenews.com/musk-wants-to-go-to-the-moon-but-how-will-he-build-his-self-growing-city/" >🔗</a> **[SpaceNews]** Musk wants to go to the moon. But how will he build his ‘self-growing city’?
 - <a href="https://spacenews.com/pave-space-raises-40-million-to-develop-european-heavy-kickstage/" >🔗</a> **[SpaceNews]** Pave Space raises $40 million to develop European heavy kickstage
 - <a href="https://spacenews.com/nasa-proposes-new-strategy-for-commercial-space-stations/" >🔗</a> **[SpaceNews]** NASA proposes new strategy for commercial space stations
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-5P/Amazon_wildfire_emissions_up_to_three_times_higher_than_estimated" >🔗</a> **[ESA]** Amazon wildfire emissions up to three times higher than estimated
@@ -105,8 +107,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.nasa.gov/image-article/nasa-pc-12-aircraft-makes-move-to-support-flight-research-across-agency/" >🔗</a> **[NASA]** NASA PC-12 Aircraft Makes Move to Support Flight Research Across Agency
 - <a href="https://spacenews.com/geopolitical-shifts-bring-opportunities-and-headaches-for-satellite-execs/" >🔗</a> **[SpaceNews]** Geopolitical shifts bring opportunities and headaches for satellite execs
 - <a href="https://www.nasa.gov/image-article/reminders-of-where-weve-been-where-were-going/" >🔗</a> **[NASA]** Reminders of Where We’ve Been, Where We’re Going
-- <a href="https://www.nasa.gov/learning-resources/3-ways-students-can-get-involved-with-artemis/" >🔗</a> **[NASA]** 3 Ways Students Can Get Involved With Artemis
-- <a href="https://www.nasa.gov/image-article/nasa-x-ray-mission-gets-fresh-look-at-2000-year-old-supernova/" >🔗</a> **[NASA]** NASA X-Ray Mission Gets Fresh Look at 2,000-Year-Old Supernova
 
 
 ### Launch-related News 🚀
@@ -125,7 +125,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260325T124536">2026-03-25 12:45:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260325T132808">2026-03-25 13:28:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
