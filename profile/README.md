@@ -92,6 +92,7 @@ This launch will lift 2 “Pathfinder A” satellites built by Thales Alenia Spa
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/03/25/nasa-outlines-ambitious-20-billion-plan-for-moon-base/" >🔗</a> **[Spaceflight Now]** NASA outlines ambitious $20 billion plan for moon base
 - <a href="https://www.nasa.gov/image-article/nasa-pc-12-aircraft-makes-move-to-support-flight-research-across-agency/" >🔗</a> **[NASA]** NASA PC-12 Aircraft Makes Move to Support Flight Research Across Agency
 - <a href="https://spacenews.com/geopolitical-shifts-bring-opportunities-and-headaches-for-satellite-execs/" >🔗</a> **[SpaceNews]** Geopolitical shifts bring opportunities and headaches for satellite execs
 - <a href="https://www.nasa.gov/image-article/reminders-of-where-weve-been-where-were-going/" >🔗</a> **[NASA]** Reminders of Where We’ve Been, Where We’re Going
@@ -101,7 +102,6 @@ This launch will lift 2 “Pathfinder A” satellites built by Thales Alenia Spa
 - <a href="https://arstechnica.com/space/2026/03/nasa-kills-lunar-space-station-to-focus-on-ambitious-moon-base/" >🔗</a> **[Arstechnica]** NASA kills lunar space station to focus on ambitious Moon base
 - <a href="https://spacenews.com/orbitsiq-global-announces-breakthrough-in-space-based-iot-connectivity/" >🔗</a> **[SpaceNews]** OrbitsIQ Global Announces Breakthrough in Space-Based IoT Connectivity
 - <a href="https://www.nasaspaceflight.com/2026/03/nasa-sr1-freedom-mars-2028/" >🔗</a> **[NASASpaceflight]** NASA unveils Space Reactor-1 Freedom mission to Mars in 2028
-- <a href="https://www.nasa.gov/news-release/la-nasa-presenta-iniciativas-para-cumplir-con-la-politica-espacial-nacional-de-estados-unidos/" >🔗</a> **[NASA]** La NASA presenta iniciativas para cumplir con la política espacial nacional de Estados Unidos
 
 
 ### Launch-related News 🚀
@@ -120,7 +120,7 @@ This launch will lift 2 “Pathfinder A” satellites built by Thales Alenia Spa
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260325T005500">2026-03-25 00:55:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260325T013047">2026-03-25 01:30:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
