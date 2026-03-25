@@ -97,6 +97,8 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/telesat-eyes-defense-role-with-laser-comms-test-ahead-of-leo-debut/" >🔗</a> **[SpaceNews]** Telesat eyes defense role with laser comms test ahead of LEO debut
+- <a href="https://spacenews.com/sift-raises-42-million-in-series-b-round/" >🔗</a> **[SpaceNews]** Sift raises $42 million in Series B round
 - <a href="https://spacenews.com/infinity-avionics-unveils-aquila-the-next-generation-space-imaging-solution-for-complex-orbital-operations/" >🔗</a> **[SpaceNews]** Infinity Avionics Unveils Aquila: The Next-Generation Space Imaging Solution for Complex Orbital Operations
 - <a href="https://spacenews.com/airbase-raises-5-million-to-tackle-spectrum-bottleneck-as-fcc-eyes-new-space-uses/" >🔗</a> **[SpaceNews]** Airbase raises $5 million to tackle spectrum bottleneck as FCC eyes new space uses
 - <a href="https://spacenews.com/musk-wants-to-go-to-the-moon-but-how-will-he-build-his-self-growing-city/" >🔗</a> **[SpaceNews]** Musk wants to go to the moon. But how will he build his ‘self-growing city’?
@@ -105,8 +107,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-5P/Amazon_wildfire_emissions_up_to_three_times_higher_than_estimated" >🔗</a> **[ESA]** Amazon wildfire emissions up to three times higher than estimated
 - <a href="https://science.nasa.gov/earth/earth-observatory/kona-storms-flood-o%ca%bbahu/" >🔗</a> **[NASA]** Kona Storms Flood Oʻahu
 - <a href="https://spaceflightnow.com/2026/03/25/nasa-outlines-ambitious-20-billion-plan-for-moon-base/" >🔗</a> **[Spaceflight Now]** NASA outlines ambitious $20 billion plan for moon base
-- <a href="https://www.nasa.gov/image-article/nasa-pc-12-aircraft-makes-move-to-support-flight-research-across-agency/" >🔗</a> **[NASA]** NASA PC-12 Aircraft Makes Move to Support Flight Research Across Agency
-- <a href="https://spacenews.com/geopolitical-shifts-bring-opportunities-and-headaches-for-satellite-execs/" >🔗</a> **[SpaceNews]** Geopolitical shifts bring opportunities and headaches for satellite execs
 
 
 ### Launch-related News 🚀
@@ -125,7 +125,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260325T143415">2026-03-25 14:34:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260325T152157">2026-03-25 15:21:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
