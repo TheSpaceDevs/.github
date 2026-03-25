@@ -97,16 +97,16 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/missions/xrism/nasa-jaxas-xrism-telescope-clocks-hot-wind-of-galaxy-m82/" >🔗</a> **[NASA]** NASA-JAXA’s XRISM Telescope Clocks Hot Wind of Galaxy M82
 - <a href="https://science.nasa.gov/missions/hubble/nasa-awards-astrophysics-postdoctoral-fellowships-for-2026/" >🔗</a> **[NASA]** NASA Awards Astrophysics Postdoctoral Fellowships for 2026
 - <a href="https://www.nasa.gov/missions/nisar/nasa-isro-satellite-captures-pacific-northwest-through-clouds/" >🔗</a> **[NASA]** NASA-ISRO Satellite Captures Pacific Northwest Through Clouds
+- <a href="https://www.esa.int/About_Us/Climate_and_Sustainability/2026_European_Space_for_Sustainability_Award_is_now_open_for_bold_ideas" >🔗</a> **[ESA]** 2026 European Space for Sustainability Award is now open for bold ideas
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/03/Space_for_Sustainability" >🔗</a> **[ESA]** Space for Sustainability
 - <a href="https://spacenews.com/telesat-eyes-defense-role-with-laser-comms-test-ahead-of-leo-debut/" >🔗</a> **[SpaceNews]** Telesat eyes defense role with laser comms test ahead of LEO debut
 - <a href="https://spacenews.com/sift-raises-42-million-in-series-b-round/" >🔗</a> **[SpaceNews]** Sift raises $42 million in Series B round
 - <a href="https://spacenews.com/infinity-avionics-unveils-aquila-the-next-generation-space-imaging-solution-for-complex-orbital-operations/" >🔗</a> **[SpaceNews]** Infinity Avionics Unveils Aquila: The Next-Generation Space Imaging Solution for Complex Orbital Operations
 - <a href="https://spacenews.com/airbase-raises-5-million-to-tackle-spectrum-bottleneck-as-fcc-eyes-new-space-uses/" >🔗</a> **[SpaceNews]** Airbase raises $5 million to tackle spectrum bottleneck as FCC eyes new space uses
 - <a href="https://spacenews.com/musk-wants-to-go-to-the-moon-but-how-will-he-build-his-self-growing-city/" >🔗</a> **[SpaceNews]** Musk wants to go to the moon. But how will he build his ‘self-growing city’?
-- <a href="https://spacenews.com/pave-space-raises-40-million-to-develop-european-heavy-kickstage/" >🔗</a> **[SpaceNews]** Pave Space raises $40 million to develop European heavy kickstage
-- <a href="https://spacenews.com/nasa-proposes-new-strategy-for-commercial-space-stations/" >🔗</a> **[SpaceNews]** NASA proposes new strategy for commercial space stations
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-5P/Amazon_wildfire_emissions_up_to_three_times_higher_than_estimated" >🔗</a> **[ESA]** Amazon wildfire emissions up to three times higher than estimated
 
 
 ### Launch-related News 🚀
@@ -125,7 +125,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260325T164729">2026-03-25 16:47:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260325T171926">2026-03-25 17:19:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
