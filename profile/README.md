@@ -92,6 +92,7 @@ This launch will lift 2 “Pathfinder A” satellites built by Thales Alenia Spa
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/earth-observatory/kona-storms-flood-o%ca%bbahu/" >🔗</a> **[NASA]** Kona Storms Flood Oʻahu
 - <a href="https://spaceflightnow.com/2026/03/25/nasa-outlines-ambitious-20-billion-plan-for-moon-base/" >🔗</a> **[Spaceflight Now]** NASA outlines ambitious $20 billion plan for moon base
 - <a href="https://www.nasa.gov/image-article/nasa-pc-12-aircraft-makes-move-to-support-flight-research-across-agency/" >🔗</a> **[NASA]** NASA PC-12 Aircraft Makes Move to Support Flight Research Across Agency
 - <a href="https://spacenews.com/geopolitical-shifts-bring-opportunities-and-headaches-for-satellite-execs/" >🔗</a> **[SpaceNews]** Geopolitical shifts bring opportunities and headaches for satellite execs
@@ -101,7 +102,6 @@ This launch will lift 2 “Pathfinder A” satellites built by Thales Alenia Spa
 - <a href="https://spacenews.com/moog-taps-redwire-to-provide-solar-arrays-for-meteor/" >🔗</a> **[SpaceNews]** Moog taps Redwire to provide solar arrays for Meteor
 - <a href="https://arstechnica.com/space/2026/03/nasa-kills-lunar-space-station-to-focus-on-ambitious-moon-base/" >🔗</a> **[Arstechnica]** NASA kills lunar space station to focus on ambitious Moon base
 - <a href="https://spacenews.com/orbitsiq-global-announces-breakthrough-in-space-based-iot-connectivity/" >🔗</a> **[SpaceNews]** OrbitsIQ Global Announces Breakthrough in Space-Based IoT Connectivity
-- <a href="https://www.nasaspaceflight.com/2026/03/nasa-sr1-freedom-mars-2028/" >🔗</a> **[NASASpaceflight]** NASA unveils Space Reactor-1 Freedom mission to Mars in 2028
 
 
 ### Launch-related News 🚀
@@ -120,7 +120,7 @@ This launch will lift 2 “Pathfinder A” satellites built by Thales Alenia Spa
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260325T035033">2026-03-25 03:50:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260325T043603">2026-03-25 04:36:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
