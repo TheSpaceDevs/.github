@@ -54,7 +54,7 @@ into *a Sun-Synchronous Orbit
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260325T200000">2026-03-25 20:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/no.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Spectrum | Onward and Upward&location=Andøya Spaceport&dates=20260325T200000Z%2F20260325T210000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Spectrum | Onward and Upward** from Andøya Spaceport.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260325T224300">2026-03-25 22:43:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2C | Unknown Payload&location=Taiyuan Satellite Launch Center, People&#x27;s Republic of China&dates=20260325T224300Z%2F20260325T230500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2C | Unknown Payload** from Taiyuan Satellite Launch Center, People's Republic of China.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260325T230300">2026-03-25 23:03:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-17&location=Vandenberg SFB, CA, USA&dates=20260325T230300Z%2F20260326T030300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-17** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260326T230300">2026-03-26 23:03:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-17&location=Vandenberg SFB, CA, USA&dates=20260326T230300Z%2F20260327T030300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-17** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260327T040400">2026-03-27 04:04:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Kuaizhou 1A | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20260327T040400Z%2F20260327T043800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Kuaizhou 1A | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260327T110000">2026-03-27 11:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-44&location=Cape Canaveral SFS, FL, USA&dates=20260327T110000Z%2F20260327T150000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-44** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260327T110000">2026-03-27 11:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz-5 | Demo Flight&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20260327T110000Z%2F20260327T110000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz-5 | Demo Flight** from Baikonur Cosmodrome, Republic of Kazakhstan.
@@ -97,6 +97,8 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/missions/hubble/nasa-awards-astrophysics-postdoctoral-fellowships-for-2026/" >🔗</a> **[NASA]** NASA Awards Astrophysics Postdoctoral Fellowships for 2026
+- <a href="https://www.nasa.gov/missions/nisar/nasa-isro-satellite-captures-pacific-northwest-through-clouds/" >🔗</a> **[NASA]** NASA-ISRO Satellite Captures Pacific Northwest Through Clouds
 - <a href="https://spacenews.com/telesat-eyes-defense-role-with-laser-comms-test-ahead-of-leo-debut/" >🔗</a> **[SpaceNews]** Telesat eyes defense role with laser comms test ahead of LEO debut
 - <a href="https://spacenews.com/sift-raises-42-million-in-series-b-round/" >🔗</a> **[SpaceNews]** Sift raises $42 million in Series B round
 - <a href="https://spacenews.com/infinity-avionics-unveils-aquila-the-next-generation-space-imaging-solution-for-complex-orbital-operations/" >🔗</a> **[SpaceNews]** Infinity Avionics Unveils Aquila: The Next-Generation Space Imaging Solution for Complex Orbital Operations
@@ -105,8 +107,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/pave-space-raises-40-million-to-develop-european-heavy-kickstage/" >🔗</a> **[SpaceNews]** Pave Space raises $40 million to develop European heavy kickstage
 - <a href="https://spacenews.com/nasa-proposes-new-strategy-for-commercial-space-stations/" >🔗</a> **[SpaceNews]** NASA proposes new strategy for commercial space stations
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-5P/Amazon_wildfire_emissions_up_to_three_times_higher_than_estimated" >🔗</a> **[ESA]** Amazon wildfire emissions up to three times higher than estimated
-- <a href="https://science.nasa.gov/earth/earth-observatory/kona-storms-flood-o%ca%bbahu/" >🔗</a> **[NASA]** Kona Storms Flood Oʻahu
-- <a href="https://spaceflightnow.com/2026/03/25/nasa-outlines-ambitious-20-billion-plan-for-moon-base/" >🔗</a> **[Spaceflight Now]** NASA outlines ambitious $20 billion plan for moon base
 
 
 ### Launch-related News 🚀
@@ -125,7 +125,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260325T154959">2026-03-25 15:49:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260325T162217">2026-03-25 16:22:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
