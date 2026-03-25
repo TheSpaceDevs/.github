@@ -97,6 +97,8 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/missions/webb/nasa-webb-hubble-share-most-comprehensive-view-of-saturn-to-date/" >🔗</a> **[NASA]** NASA Webb, Hubble Share Most Comprehensive View of Saturn to Date
+- <a href="https://www.nasaspaceflight.com/2026/03/isar-onward-and-upward/" >🔗</a> **[NASASpaceflight]** Isar Aerospace set for second launch of Spectrum rocket
 - <a href="https://science.nasa.gov/missions/xrism/nasa-jaxas-xrism-telescope-clocks-hot-wind-of-galaxy-m82/" >🔗</a> **[NASA]** NASA-JAXA’s XRISM Telescope Clocks Hot Wind of Galaxy M82
 - <a href="https://science.nasa.gov/missions/hubble/nasa-awards-astrophysics-postdoctoral-fellowships-for-2026/" >🔗</a> **[NASA]** NASA Awards Astrophysics Postdoctoral Fellowships for 2026
 - <a href="https://www.nasa.gov/missions/nisar/nasa-isro-satellite-captures-pacific-northwest-through-clouds/" >🔗</a> **[NASA]** NASA-ISRO Satellite Captures Pacific Northwest Through Clouds
@@ -105,8 +107,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/telesat-eyes-defense-role-with-laser-comms-test-ahead-of-leo-debut/" >🔗</a> **[SpaceNews]** Telesat eyes defense role with laser comms test ahead of LEO debut
 - <a href="https://spacenews.com/sift-raises-42-million-in-series-b-round/" >🔗</a> **[SpaceNews]** Sift raises $42 million in Series B round
 - <a href="https://spacenews.com/infinity-avionics-unveils-aquila-the-next-generation-space-imaging-solution-for-complex-orbital-operations/" >🔗</a> **[SpaceNews]** Infinity Avionics Unveils Aquila: The Next-Generation Space Imaging Solution for Complex Orbital Operations
-- <a href="https://spacenews.com/airbase-raises-5-million-to-tackle-spectrum-bottleneck-as-fcc-eyes-new-space-uses/" >🔗</a> **[SpaceNews]** Airbase raises $5 million to tackle spectrum bottleneck as FCC eyes new space uses
-- <a href="https://spacenews.com/musk-wants-to-go-to-the-moon-but-how-will-he-build-his-self-growing-city/" >🔗</a> **[SpaceNews]** Musk wants to go to the moon. But how will he build his ‘self-growing city’?
 
 
 ### Launch-related News 🚀
@@ -125,7 +125,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260325T174614">2026-03-25 17:46:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260325T181508">2026-03-25 18:15:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
