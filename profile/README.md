@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/hughes-targets-sovereign-satcom-demand-with-network-control-software/" >🔗</a> **[SpaceNews]** Hughes targets sovereign satcom demand with network control software
 - <a href="https://spacenews.com/golden-dome-and-the-velocity-race-why-ground-based-optics-are-the-key-to-mission-persistence/" >🔗</a> **[SpaceNews]** Golden Dome and the velocity race: Why ground-based optics are the key to mission persistence
 - <a href="https://spacenews.com/nasa-to-test-nuclear-electric-propulsion-with-2028-mission-to-mars/" >🔗</a> **[SpaceNews]** NASA to test nuclear electric propulsion with 2028 mission to Mars
 - <a href="https://science.nasa.gov/earth/earth-observatory/a-hot-start-to-spring-in-the-southwest/" >🔗</a> **[NASA]** A Hot Start to Spring in the Southwest
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-first-artemis-crewed-mission-around-moon/" >🔗</a> **[NASA]** NASA Sets Coverage for First Artemis Crewed Mission Around Moon
 - <a href="https://spacenews.com/space-force-weighs-launch-alternatives-as-vulcan-faces-potential-months-long-grounding/" >🔗</a> **[SpaceNews]** Space Force weighs launch alternatives as Vulcan faces potential months-long grounding
 - <a href="https://www.nasa.gov/missions/artemis/artemis-2/nasa-sets-coverage-for-artemis-ii-moon-mission/" >🔗</a> **[NASA]** NASA Sets Coverage for Artemis II Moon Mission
-- <a href="https://spacepolicyonline.com/news/cavossa-cld-companies-want-stability-not-a-new-plan/" >🔗</a> **[SpacePolicyOnline.com]** Cavossa: CLD Companies Want Stability, Not a New Plan
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260326T132837">2026-03-26 13:28:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260326T140347">2026-03-26 14:03:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
