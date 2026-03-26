@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/es/la-nasa-anuncia-la-cobertura-de-la-mision-lunar-artemis-ii/" >🔗</a> **[NASA]** La NASA anuncia la cobertura de la misión lunar Artemis II
 - <a href="https://www.nasaspaceflight.com/2026/03/nasa-moon-base-pivots-gateway/" >🔗</a> **[NASASpaceflight]** NASA outlines Moon Base plans, pivots on Gateway
 - <a href="https://www.nasa.gov/general/nasa-ames-experts-available-for-artemis-ii-flight-test-interviews/" >🔗</a> **[NASA]** NASA Ames Experts Available for Artemis II Flight Test Interviews
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-first-artemis-crewed-mission-around-moon/" >🔗</a> **[NASA]** NASA Sets Coverage for First Artemis Crewed Mission Around Moon
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/learning-resources/science-activation/artemis-moon-tree-dedicated-in-honor-of-mary-w-jackson/" >🔗</a> **[NASA]** Artemis Moon Tree Dedicated in Honor of Mary W. Jackson
 - <a href="https://www.nasa.gov/centers-and-facilities/kennedy/nasa-names-jennifer-lyons-as-acting-launch-services-program-manager/" >🔗</a> **[NASA]** NASA Names Jennifer Lyons as Acting Launch Services Program Manager
 - <a href="https://spacenews.com/office-of-space-commerce-releases-mission-authorization-proposal/" >🔗</a> **[SpaceNews]** Office of Space Commerce releases mission authorization proposal
-- <a href="https://arstechnica.com/space/2026/03/we-got-an-audience-with-the-lunar-viceroy-to-talk-how-nasa-will-build-a-moon-base/" >🔗</a> **[Arstechnica]** We got an audience with the "Lunar Viceroy" to talk how NASA will build a Moon base
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260326T001032">2026-03-26 00:10:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260326T005754">2026-03-26 00:57:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
