@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/nasa-gears-up-for-artemis-ii-launch-around-the-moon-a-week-from-now/" >🔗</a> **[SpacePolicyOnline.com]** NASA Gears Up for Artemis II Launch Around the Moon a Week From Now
 - <a href="https://www.nasa.gov/es/la-nasa-anuncia-la-cobertura-de-la-mision-lunar-artemis-ii/" >🔗</a> **[NASA]** La NASA anuncia la cobertura de la misión lunar Artemis II
 - <a href="https://www.nasaspaceflight.com/2026/03/nasa-moon-base-pivots-gateway/" >🔗</a> **[NASASpaceflight]** NASA outlines Moon Base plans, pivots on Gateway
 - <a href="https://www.nasa.gov/general/nasa-ames-experts-available-for-artemis-ii-flight-test-interviews/" >🔗</a> **[NASA]** NASA Ames Experts Available for Artemis II Flight Test Interviews
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/cavossa-cld-companies-want-stability-not-a-new-plan/" >🔗</a> **[SpacePolicyOnline.com]** Cavossa: CLD Companies Want Stability, Not a New Plan
 - <a href="https://science.nasa.gov/learning-resources/science-activation/artemis-moon-tree-dedicated-in-honor-of-mary-w-jackson/" >🔗</a> **[NASA]** Artemis Moon Tree Dedicated in Honor of Mary W. Jackson
 - <a href="https://www.nasa.gov/centers-and-facilities/kennedy/nasa-names-jennifer-lyons-as-acting-launch-services-program-manager/" >🔗</a> **[NASA]** NASA Names Jennifer Lyons as Acting Launch Services Program Manager
-- <a href="https://spacenews.com/office-of-space-commerce-releases-mission-authorization-proposal/" >🔗</a> **[SpaceNews]** Office of Space Commerce releases mission authorization proposal
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260326T013934">2026-03-26 01:39:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260326T025851">2026-03-26 02:58:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
