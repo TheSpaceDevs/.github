@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-command-begins-phased-move-to-alabama/" >🔗</a> **[SpaceNews]** Space Command begins phased move to Alabama
+- <a href="https://science.nasa.gov/solar-system/whats-up-april-2026-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: April 2026 Skywatching Tips from NASA
+- <a href="https://www.nasa.gov/news-release/la-nasa-presentara-el-telescopio-roman-completo-y-ofrecera-una-conferencia-de-prensa/" >🔗</a> **[NASA]** La NASA presentará el telescopio Roman completo y ofrecerá una conferencia de prensa
+- <a href="https://spacenews.com/government-use-of-commercial-procurement-models-has-limitations-in-space/" >🔗</a> **[SpaceNews]** Government use of commercial procurement models has limitations in space
 - <a href="https://www.nasa.gov/news-release/nasa-to-unveil-complete-roman-telescope-host-media-briefing/" >🔗</a> **[NASA]** NASA to Unveil Complete Roman Telescope, Host Media Briefing
 - <a href="https://www.nasa.gov/general/nasa-releases-artemis-ii-moon-mission-launch-countdown/" >🔗</a> **[NASA]** NASA Releases Artemis II Moon Mission Launch Countdown
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-nation-aaron-rose-cold-stowage-mission-manager/" >🔗</a> **[NASA]** Station Nation: Aaron Rose, Cold Stowage Mission Manager
 - <a href="https://spacenews.com/turning-growth-into-profits-remains-a-challenge-as-space-demand-grows/" >🔗</a> **[SpaceNews]** Turning growth into profits remains a challenge as space demand grows
 - <a href="https://spacenews.com/xona-raises-170-million-for-satellite-navigation-network/" >🔗</a> **[SpaceNews]** Xona raises $170 million for satellite navigation network
 - <a href="https://spacenews.com/china-sends-radar-mapping-and-gnss-augmentation-sats-into-orbit-with-pair-of-launches/" >🔗</a> **[SpaceNews]** China sends radar mapping and GNSS augmentation sats into orbit with pair of launches
-- <a href="https://science.nasa.gov/earth/arctic-winter-sea-ice-2026/" >🔗</a> **[NASA]** Arctic Winter Sea Ice Ties Record Low, NASA, NSIDC Scientists Find
-- <a href="https://science.nasa.gov/uncategorized/arctic-winter-sea-ice-2026/" >🔗</a> **[NASA]** Arctic Winter Sea Ice Ties Record Low, NASA, NSIDC Scientists Find
-- <a href="https://www.nasa.gov/image-article/nasas-ixpe-gets-fresh-look-at-supernova/" >🔗</a> **[NASA]** NASA’s IXPE Gets Fresh Look at Supernova
-- <a href="https://spaceflightnow.com/2026/03/26/spacex-to-launch-batch-of-starlink-satellites-from-the-west-coast/" >🔗</a> **[Spaceflight Now]** Live Coverage: SpaceX to launch batch of Starlink satellites from the West Coast
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260326T210623">2026-03-26 21:06:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260326T214054">2026-03-26 21:40:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
