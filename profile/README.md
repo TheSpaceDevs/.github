@@ -90,7 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-sends-radar-mapping-and-gnss-augmentation-sats-into-orbit-with-pair-of-launches/" >🔗</a> **[SpaceNews]** China sends radar mapping and GNSS augmentation sats into orbit with pair of launches
 - <a href="https://science.nasa.gov/uncategorized/arctic-winter-sea-ice-2026/" >🔗</a> **[NASA]** Arctic Winter Sea Ice Ties Record Low, NASA, NSIDC Scientists Find
+- <a href="https://science.nasa.gov/earth/arctic-winter-sea-ice-2026/" >🔗</a> **[NASA]** Arctic Winter Sea Ice Ties Record Low, NASA, NSIDC Scientists Find
 - <a href="https://www.nasa.gov/image-article/nasas-ixpe-gets-fresh-look-at-supernova/" >🔗</a> **[NASA]** NASA’s IXPE Gets Fresh Look at Supernova
 - <a href="https://spaceflightnow.com/2026/03/26/spacex-to-launch-batch-of-starlink-satellites-from-the-west-coast/" >🔗</a> **[Spaceflight Now]** Live Coverage: SpaceX to launch batch of Starlink satellites from the West Coast
 - <a href="https://spacenews.com/satlantis-earnings-grow-alongside-demand-for-earth-observation-satellites/" >🔗</a> **[SpaceNews]** Satlantis earnings grow alongside demand for Earth-observation satellites
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4838-4844-wrapping-up-the-boxwork-terrain/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4838-4844: Wrapping Up the Boxwork Terrain
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/03/We_re_going_to_the_Moon_Artemis_II_ESAxASH" >🔗</a> **[ESA]** We’re going to the Moon | Artemis II ESAxASH
 - <a href="https://www.nasa.gov/news-release/la-nasa-anuncia-la-cobertura-de-la-de-la-primera-mision-tripulada-artemis-alrededor-de-la-luna/" >🔗</a> **[NASA]** La NASA anuncia la cobertura de la de la primera misión tripulada Artemis alrededor de la Luna
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/03/Smile_pre-launch_media_briefing" >🔗</a> **[ESA]** Smile pre-launch media briefing
-- <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-detects-first-ever-spin-reversal-of-tiny-comet/" >🔗</a> **[NASA]** NASA’s Hubble Detects First-Ever Spin Reversal of Tiny Comet
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260326T174713">2026-03-26 17:47:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260326T181555">2026-03-26 18:15:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
