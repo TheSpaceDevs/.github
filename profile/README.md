@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/satlantis-earnings-grow-alongside-demand-for-earth-observation-satellites/" >🔗</a> **[SpaceNews]** Satlantis earnings grow alongside demand for Earth-observation satellites
+- <a href="https://spacenews.com/hts-market-set-to-reach-76b-as-industry-enters-terabit-era/" >🔗</a> **[SpaceNews]** HTS Market Set to Reach $76B as Industry Enters Terabit Era
+- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4838-4844-wrapping-up-the-boxwork-terrain/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4838-4844: Wrapping Up the Boxwork Terrain
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/03/We_re_going_to_the_Moon_Artemis_II_ESAxASH" >🔗</a> **[ESA]** We’re going to the Moon | Artemis II ESAxASH
 - <a href="https://www.nasa.gov/news-release/la-nasa-anuncia-la-cobertura-de-la-de-la-primera-mision-tripulada-artemis-alrededor-de-la-luna/" >🔗</a> **[NASA]** La NASA anuncia la cobertura de la de la primera misión tripulada Artemis alrededor de la Luna
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/03/Smile_pre-launch_media_briefing" >🔗</a> **[ESA]** Smile pre-launch media briefing
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-detects-first-ever-spin-reversal-of-tiny-comet/" >🔗</a> **[NASA]** NASA’s Hubble Detects First-Ever Spin Reversal of Tiny Comet
 - <a href="https://spacenews.com/hughes-targets-sovereign-satcom-demand-with-network-control-software/" >🔗</a> **[SpaceNews]** Hughes targets sovereign satcom demand with network control software
 - <a href="https://spacenews.com/golden-dome-and-the-velocity-race-why-ground-based-optics-are-the-key-to-mission-persistence/" >🔗</a> **[SpaceNews]** Golden Dome and the velocity race: Why ground-based optics are the key to mission persistence
 - <a href="https://spacenews.com/nasa-to-test-nuclear-electric-propulsion-with-2028-mission-to-mars/" >🔗</a> **[SpaceNews]** NASA to test nuclear electric propulsion with 2028 mission to Mars
-- <a href="https://science.nasa.gov/earth/earth-observatory/a-hot-start-to-spring-in-the-southwest/" >🔗</a> **[NASA]** A Hot Start to Spring in the Southwest
-- <a href="https://spacepolicyonline.com/news/nasa-gears-up-for-artemis-ii-launch-around-the-moon-a-week-from-now/" >🔗</a> **[SpacePolicyOnline.com]** NASA Gears Up for Artemis II Launch Around the Moon a Week From Now
-- <a href="https://www.nasaspaceflight.com/2026/03/nasa-moon-base-pivots-gateway/" >🔗</a> **[NASASpaceflight]** NASA outlines Moon Base plans, pivots on Gateway
-- <a href="https://www.nasa.gov/general/nasa-ames-experts-available-for-artemis-ii-flight-test-interviews/" >🔗</a> **[NASA]** NASA Ames Experts Available for Artemis II Flight Test Interviews
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260326T155320">2026-03-26 15:53:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260326T162223">2026-03-26 16:22:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
