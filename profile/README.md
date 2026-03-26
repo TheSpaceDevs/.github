@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/earth-observatory/a-hot-start-to-spring-in-the-southwest/" >🔗</a> **[NASA]** A Hot Start to Spring in the Southwest
 - <a href="https://spacepolicyonline.com/news/nasa-gears-up-for-artemis-ii-launch-around-the-moon-a-week-from-now/" >🔗</a> **[SpacePolicyOnline.com]** NASA Gears Up for Artemis II Launch Around the Moon a Week From Now
 - <a href="https://www.nasa.gov/es/la-nasa-anuncia-la-cobertura-de-la-mision-lunar-artemis-ii/" >🔗</a> **[NASA]** La NASA anuncia la cobertura de la misión lunar Artemis II
 - <a href="https://www.nasaspaceflight.com/2026/03/nasa-moon-base-pivots-gateway/" >🔗</a> **[NASASpaceflight]** NASA outlines Moon Base plans, pivots on Gateway
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/missions/artemis/artemis-2/nasa-sets-coverage-for-artemis-ii-moon-mission/" >🔗</a> **[NASA]** NASA Sets Coverage for Artemis II Moon Mission
 - <a href="https://spacepolicyonline.com/news/cavossa-cld-companies-want-stability-not-a-new-plan/" >🔗</a> **[SpacePolicyOnline.com]** Cavossa: CLD Companies Want Stability, Not a New Plan
 - <a href="https://science.nasa.gov/learning-resources/science-activation/artemis-moon-tree-dedicated-in-honor-of-mary-w-jackson/" >🔗</a> **[NASA]** Artemis Moon Tree Dedicated in Honor of Mary W. Jackson
-- <a href="https://www.nasa.gov/centers-and-facilities/kennedy/nasa-names-jennifer-lyons-as-acting-launch-services-program-manager/" >🔗</a> **[NASA]** NASA Names Jennifer Lyons as Acting Launch Services Program Manager
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260326T040141">2026-03-26 04:01:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260326T051219">2026-03-26 05:12:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
