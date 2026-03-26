@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/la-nasa-anuncia-la-cobertura-de-la-de-la-primera-mision-tripulada-artemis-alrededor-de-la-luna/" >🔗</a> **[NASA]** La NASA anuncia la cobertura de la de la primera misión tripulada Artemis alrededor de la Luna
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/03/Smile_pre-launch_media_briefing" >🔗</a> **[ESA]** Smile pre-launch media briefing
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-detects-first-ever-spin-reversal-of-tiny-comet/" >🔗</a> **[NASA]** NASA’s Hubble Detects First-Ever Spin Reversal of Tiny Comet
 - <a href="https://spacenews.com/hughes-targets-sovereign-satcom-demand-with-network-control-software/" >🔗</a> **[SpaceNews]** Hughes targets sovereign satcom demand with network control software
 - <a href="https://spacenews.com/golden-dome-and-the-velocity-race-why-ground-based-optics-are-the-key-to-mission-persistence/" >🔗</a> **[SpaceNews]** Golden Dome and the velocity race: Why ground-based optics are the key to mission persistence
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/nasa-gears-up-for-artemis-ii-launch-around-the-moon-a-week-from-now/" >🔗</a> **[SpacePolicyOnline.com]** NASA Gears Up for Artemis II Launch Around the Moon a Week From Now
 - <a href="https://www.nasaspaceflight.com/2026/03/nasa-moon-base-pivots-gateway/" >🔗</a> **[NASASpaceflight]** NASA outlines Moon Base plans, pivots on Gateway
 - <a href="https://www.nasa.gov/general/nasa-ames-experts-available-for-artemis-ii-flight-test-interviews/" >🔗</a> **[NASA]** NASA Ames Experts Available for Artemis II Flight Test Interviews
-- <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-first-artemis-crewed-mission-around-moon/" >🔗</a> **[NASA]** NASA Sets Coverage for First Artemis Crewed Mission Around Moon
-- <a href="https://spacenews.com/space-force-weighs-launch-alternatives-as-vulcan-faces-potential-months-long-grounding/" >🔗</a> **[SpaceNews]** Space Force weighs launch alternatives as Vulcan faces potential months-long grounding
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260326T145017">2026-03-26 14:50:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260326T152434">2026-03-26 15:24:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
