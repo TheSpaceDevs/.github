@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-to-unveil-complete-roman-telescope-host-media-briefing/" >🔗</a> **[NASA]** NASA to Unveil Complete Roman Telescope, Host Media Briefing
+- <a href="https://www.nasa.gov/general/nasa-releases-artemis-ii-moon-mission-launch-countdown/" >🔗</a> **[NASA]** NASA Releases Artemis II Moon Mission Launch Countdown
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/station-nation-aaron-rose-cold-stowage-mission-manager/" >🔗</a> **[NASA]** Station Nation: Aaron Rose, Cold Stowage Mission Manager
 - <a href="https://spacenews.com/turning-growth-into-profits-remains-a-challenge-as-space-demand-grows/" >🔗</a> **[SpaceNews]** Turning growth into profits remains a challenge as space demand grows
 - <a href="https://spacenews.com/xona-raises-170-million-for-satellite-navigation-network/" >🔗</a> **[SpaceNews]** Xona raises $170 million for satellite navigation network
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/uncategorized/arctic-winter-sea-ice-2026/" >🔗</a> **[NASA]** Arctic Winter Sea Ice Ties Record Low, NASA, NSIDC Scientists Find
 - <a href="https://www.nasa.gov/image-article/nasas-ixpe-gets-fresh-look-at-supernova/" >🔗</a> **[NASA]** NASA’s IXPE Gets Fresh Look at Supernova
 - <a href="https://spaceflightnow.com/2026/03/26/spacex-to-launch-batch-of-starlink-satellites-from-the-west-coast/" >🔗</a> **[Spaceflight Now]** Live Coverage: SpaceX to launch batch of Starlink satellites from the West Coast
-- <a href="https://spacenews.com/satlantis-earnings-grow-alongside-demand-for-earth-observation-satellites/" >🔗</a> **[SpaceNews]** Satlantis earnings grow alongside demand for Earth-observation satellites
-- <a href="https://spacenews.com/hts-market-set-to-reach-76b-as-industry-enters-terabit-era/" >🔗</a> **[SpaceNews]** HTS Market Set to Reach $76B as Industry Enters Terabit Era
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260326T200629">2026-03-26 20:06:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260326T204219">2026-03-26 20:42:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
