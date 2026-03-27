@@ -92,16 +92,16 @@ This launch will lift 2 “Pathfinder A” satellites built by Thales Alenia Spa
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/03/Where_spiral_arms_and_star_formation_meet" >🔗</a> **[ESA]** Where spiral arms and star formation meet
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/03/How_Europe_will_power_the_journey_to_the_Moon_and_back" >🔗</a> **[ESA]** How Europe will power the journey to the Moon and back
 - <a href="https://spacenews.com/sbquantum-and-spire-to-send-quantum-diamond-magnetometer-into-orbit/" >🔗</a> **[SpaceNews]** SBQuantum and Spire to send quantum diamond magnetometer into orbit
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/03/Earth_from_Space_Kimberley_Australia" >🔗</a> **[ESA]** Earth from Space: Kimberley, Australia
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/03/Where_spiral_arms_and_star_formation_meet" >🔗</a> **[ESA]** Where spiral arms and star formation meet
 - <a href="https://spacenews.com/ispace-redesigns-lunar-lander-introduces-lunar-communications-service/" >🔗</a> **[SpaceNews]** ispace redesigns lunar lander, introduces lunar communications service
 - <a href="https://science.nasa.gov/earth/earth-observatory/satellite-spots-a-spawn/" >🔗</a> **[NASA]** Satellite Spots a Spawn
 - <a href="https://spacenews.com/u-s-gssap-satellites-execute-geo-handoff-to-monitor-chinas-shijian-29-spacecraft/" >🔗</a> **[SpaceNews]** U.S. GSSAP satellites execute GEO handoff to monitor China’s Shijian-29 spacecraft
 - <a href="https://spacenews.com/space-command-begins-phased-move-to-alabama/" >🔗</a> **[SpaceNews]** Space Command begins phased move to Alabama
 - <a href="https://science.nasa.gov/solar-system/whats-up-april-2026-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: April 2026 Skywatching Tips from NASA
 - <a href="https://www.nasa.gov/news-release/la-nasa-presentara-el-telescopio-roman-completo-y-ofrecera-una-conferencia-de-prensa/" >🔗</a> **[NASA]** La NASA presentará el telescopio Roman completo y ofrecerá una conferencia de prensa
-- <a href="https://spacenews.com/government-use-of-commercial-procurement-models-has-limitations-in-space/" >🔗</a> **[SpaceNews]** Government use of commercial procurement models has limitations in space
-- <a href="https://www.nasa.gov/news-release/nasa-to-unveil-complete-roman-telescope-host-media-briefing/" >🔗</a> **[NASA]** NASA to Unveil Complete Roman Telescope, Host Media Briefing
 
 
 ### Launch-related News 🚀
@@ -120,7 +120,7 @@ This launch will lift 2 “Pathfinder A” satellites built by Thales Alenia Spa
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260327T091452">2026-03-27 09:14:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260327T094507">2026-03-27 09:45:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
