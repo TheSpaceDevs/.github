@@ -92,6 +92,8 @@ This launch will lift 2 “Pathfinder A” satellites built by Thales Alenia Spa
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-erik-richards/" >🔗</a> **[NASA]** I Am Artemis: Erik Richards
+- <a href="https://www.nasa.gov/missions/artemis/clps/nasa-selects-intuitive-machines-to-deliver-artemis-science-tech-to-moon/" >🔗</a> **[NASA]** NASA Selects Intuitive Machines to Deliver Artemis Science, Tech to Moon
 - <a href="https://www.nasa.gov/general/nasas-environment-and-energy-blue-marble-awards-categories/" >🔗</a> **[NASA]** NASA’s Environment and Energy “Blue Marble” Awards Categories
 - <a href="https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-associate-members/" >🔗</a> **[SpaceNews]** Commercial Space Federation (CSF) Welcomes Two New Associate Members
 - <a href="https://spacenews.com/esa-to-decide-by-june-on-europes-gateway-contributions/" >🔗</a> **[SpaceNews]** ESA to decide by June on Europe’s Gateway contributions
@@ -100,8 +102,6 @@ This launch will lift 2 “Pathfinder A” satellites built by Thales Alenia Spa
 - <a href="https://www.nasa.gov/directorates/stmd/nasa-tech-and-science-bound-for-low-earth-orbit-on-commercial-launch/" >🔗</a> **[NASA]** NASA Tech and Science Bound for Low Earth Orbit on Commercial Launch
 - <a href="https://science.nasa.gov/missions/artemis/nasa-names-scientists-to-support-lunar-south-pole-science/" >🔗</a> **[NASA]** NASA Names Scientists to Support Lunar South Pole Science
 - <a href="https://www.nasa.gov/missions/artemis/artemis-2/i-am-artemis-michael-guzman/" >🔗</a> **[NASA]** I Am Artemis: Michael Guzman
-- <a href="https://spacenews.com/indias-bellatrix-raises-20-million-following-overseas-expansion-drive/" >🔗</a> **[SpaceNews]** India’s Bellatrix raises $20 million following overseas expansion drive
-- <a href="https://www.nasa.gov/general/nextstep-3-e-network-extension-for-user-continuity-and-sustainability-nexus-ka-band-backward-compatible-relay-broad/" >🔗</a> **[NASA]** NextSTEP-3 E: Network Extension for User Continuity and Sustainability (NEXUS) Ka-Band Backward-Compatible Relay Broad
 
 
 ### Launch-related News 🚀
@@ -120,7 +120,7 @@ This launch will lift 2 “Pathfinder A” satellites built by Thales Alenia Spa
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260327T210801">2026-03-27 21:08:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260327T214238">2026-03-27 21:42:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
