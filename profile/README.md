@@ -92,16 +92,16 @@ This launch will lift 2 “Pathfinder A” satellites built by Thales Alenia Spa
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/directorates/stmd/nasa-tech-and-science-bound-for-low-earth-orbit-on-commercial-launch/" >🔗</a> **[NASA]** NASA Tech and Science Bound for Low Earth Orbit on Commercial Launch
+- <a href="https://science.nasa.gov/missions/artemis/nasa-names-scientists-to-support-lunar-south-pole-science/" >🔗</a> **[NASA]** NASA Names Scientists to Support Lunar South Pole Science
+- <a href="https://www.nasa.gov/missions/artemis/artemis-2/i-am-artemis-michael-guzman/" >🔗</a> **[NASA]** I Am Artemis: Michael Guzman
+- <a href="https://spacenews.com/indias-bellatrix-raises-20-million-following-overseas-expansion-drive/" >🔗</a> **[SpaceNews]** India’s Bellatrix raises $20 million following overseas expansion drive
 - <a href="https://www.nasa.gov/general/nextstep-3-e-network-extension-for-user-continuity-and-sustainability-nexus-ka-band-backward-compatible-relay-broad/" >🔗</a> **[NASA]** NextSTEP-3 E: Network Extension for User Continuity and Sustainability (NEXUS) Ka-Band Backward-Compatible Relay Broad
 - <a href="https://arstechnica.com/space/2026/03/what-happens-next-with-nasas-plan-to-replace-the-iss-source-it-could-get-ugly/" >🔗</a> **[Arstechnica]** What happens next with NASA's plan to replace the ISS? Source: "It could get ugly"
 - <a href="https://www.nasa.gov/image-article/artemis-ii-crews-suits/" >🔗</a> **[NASA]** Artemis II Crew’s Suits
 - <a href="https://spaceflightnow.com/2026/03/27/live-coverage-artemis-2-astronauts-head-to-florida-ahead-of-april-1-launch-attempt/" >🔗</a> **[Spaceflight Now]** Live coverage: Artemis 2 astronauts head to Florida ahead of April 1 launch attempt
 - <a href="https://spacenews.com/building-a-hypersonic-pathway-to-orbit-with-mark-bigham/" >🔗</a> **[SpaceNews]** Building a hypersonic pathway to orbit with Mark Bigham
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ESA_s_astronaut_reserve_begins_final_training_block" >🔗</a> **[ESA]** ESA’s astronaut reserve begins final training block
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_23-27_March_2026" >🔗</a> **[ESA]** Week in images: 23-27 March 2026
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/03/We_re_about_to_see_Earth_s_magnetic_shield_like_never_before" >🔗</a> **[ESA]** We’re about to see Earth’s magnetic shield like never before
-- <a href="https://spacenews.com/the-ground-truth-gap-in-agtech-why-satellites-alone-cant-save-supply-chains/" >🔗</a> **[SpaceNews]** The ‘ground truth’ gap in AgTech: Why satellites alone can’t save supply chains
-- <a href="https://spacenews.com/industry-says-proposed-nasa-changes-to-commercial-space-station-plans-create-confusion/" >🔗</a> **[SpaceNews]** Industry says proposed NASA changes to commercial space station plans create confusion
 
 
 ### Launch-related News 🚀
@@ -120,7 +120,7 @@ This launch will lift 2 “Pathfinder A” satellites built by Thales Alenia Spa
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260327T174432">2026-03-27 17:44:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260327T181344">2026-03-27 18:13:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
