@@ -92,16 +92,16 @@ This launch will lift 2 “Pathfinder A” satellites built by Thales Alenia Spa
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/03/We_re_about_to_see_Earth_s_magnetic_shield_like_never_before" >🔗</a> **[ESA]** We’re about to see Earth’s magnetic shield like never before
 - <a href="https://spacenews.com/the-ground-truth-gap-in-agtech-why-satellites-alone-cant-save-supply-chains/" >🔗</a> **[SpaceNews]** The ‘ground truth’ gap in AgTech: Why satellites alone can’t save supply chains
 - <a href="https://spacenews.com/industry-says-proposed-nasa-changes-to-commercial-space-station-plans-create-confusion/" >🔗</a> **[SpaceNews]** Industry says proposed NASA changes to commercial space station plans create confusion
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Getting_to_the_core_of_a_medicane" >🔗</a> **[ESA]** Getting to the core of a medicane
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/03/How_Europe_will_power_the_journey_to_the_Moon_and_back" >🔗</a> **[ESA]** How Europe will power the journey to the Moon and back
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/03/Where_spiral_arms_and_star_formation_meet" >🔗</a> **[ESA]** Where spiral arms and star formation meet
 - <a href="https://spacenews.com/sbquantum-and-spire-to-send-quantum-diamond-magnetometer-into-orbit/" >🔗</a> **[SpaceNews]** SBQuantum and Spire to send quantum diamond magnetometer into orbit
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/03/Where_spiral_arms_and_star_formation_meet" >🔗</a> **[ESA]** Where spiral arms and star formation meet
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/03/Earth_from_Space_Kimberley_Australia" >🔗</a> **[ESA]** Earth from Space: Kimberley, Australia
 - <a href="https://spacenews.com/ispace-redesigns-lunar-lander-introduces-lunar-communications-service/" >🔗</a> **[SpaceNews]** ispace redesigns lunar lander, introduces lunar communications service
 - <a href="https://science.nasa.gov/earth/earth-observatory/satellite-spots-a-spawn/" >🔗</a> **[NASA]** Satellite Spots a Spawn
-- <a href="https://spacenews.com/u-s-gssap-satellites-execute-geo-handoff-to-monitor-chinas-shijian-29-spacecraft/" >🔗</a> **[SpaceNews]** U.S. GSSAP satellites execute GEO handoff to monitor China’s Shijian-29 spacecraft
-- <a href="https://spacenews.com/space-command-begins-phased-move-to-alabama/" >🔗</a> **[SpaceNews]** Space Command begins phased move to Alabama
 
 
 ### Launch-related News 🚀
@@ -120,7 +120,7 @@ This launch will lift 2 “Pathfinder A” satellites built by Thales Alenia Spa
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260327T135522">2026-03-27 13:55:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260327T141824">2026-03-27 14:18:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
