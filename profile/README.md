@@ -92,6 +92,7 @@ This launch will lift 2 “Pathfinder A” satellites built by Thales Alenia Spa
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2026/03/what-happens-next-with-nasas-plan-to-replace-the-iss-source-it-could-get-ugly/" >🔗</a> **[Arstechnica]** What happens next with NASA's plan to replace the ISS? Source: "It could get ugly"
 - <a href="https://www.nasa.gov/image-article/artemis-ii-crews-suits/" >🔗</a> **[NASA]** Artemis II Crew’s Suits
 - <a href="https://spaceflightnow.com/2026/03/27/live-coverage-artemis-2-astronauts-head-to-florida-ahead-of-april-1-launch-attempt/" >🔗</a> **[Spaceflight Now]** Live coverage: Artemis 2 astronauts head to Florida ahead of April 1 launch attempt
 - <a href="https://spacenews.com/building-a-hypersonic-pathway-to-orbit-with-mark-bigham/" >🔗</a> **[SpaceNews]** Building a hypersonic pathway to orbit with Mark Bigham
@@ -101,7 +102,6 @@ This launch will lift 2 “Pathfinder A” satellites built by Thales Alenia Spa
 - <a href="https://spacenews.com/the-ground-truth-gap-in-agtech-why-satellites-alone-cant-save-supply-chains/" >🔗</a> **[SpaceNews]** The ‘ground truth’ gap in AgTech: Why satellites alone can’t save supply chains
 - <a href="https://spacenews.com/industry-says-proposed-nasa-changes-to-commercial-space-station-plans-create-confusion/" >🔗</a> **[SpaceNews]** Industry says proposed NASA changes to commercial space station plans create confusion
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Getting_to_the_core_of_a_medicane" >🔗</a> **[ESA]** Getting to the core of a medicane
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/03/How_Europe_will_power_the_journey_to_the_Moon_and_back" >🔗</a> **[ESA]** How Europe will power the journey to the Moon and back
 
 
 ### Launch-related News 🚀
@@ -120,7 +120,7 @@ This launch will lift 2 “Pathfinder A” satellites built by Thales Alenia Spa
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260327T161403">2026-03-27 16:14:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260327T164459">2026-03-27 16:44:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
