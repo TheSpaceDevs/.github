@@ -92,6 +92,7 @@ This launch will lift 2 “Pathfinder A” satellites built by Thales Alenia Spa
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/u-s-canadian-astronaut-crew-ready-for-flight-around-the-moon/" >🔗</a> **[SpacePolicyOnline.com]** U.S.-Canadian Astronaut Crew Ready for Flight Around the Moon
 - <a href="https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-erik-richards/" >🔗</a> **[NASA]** I Am Artemis: Erik Richards
 - <a href="https://www.nasa.gov/missions/artemis/clps/nasa-selects-intuitive-machines-to-deliver-artemis-science-tech-to-moon/" >🔗</a> **[NASA]** NASA Selects Intuitive Machines to Deliver Artemis Science, Tech to Moon
 - <a href="https://www.nasa.gov/general/nasas-environment-and-energy-blue-marble-awards-categories/" >🔗</a> **[NASA]** NASA’s Environment and Energy “Blue Marble” Awards Categories
@@ -101,7 +102,6 @@ This launch will lift 2 “Pathfinder A” satellites built by Thales Alenia Spa
 - <a href="https://science.nasa.gov/photojournal/nisar-views-mount-st-helens/" >🔗</a> **[NASA]** NISAR Views Mount St. Helens
 - <a href="https://www.nasa.gov/directorates/stmd/nasa-tech-and-science-bound-for-low-earth-orbit-on-commercial-launch/" >🔗</a> **[NASA]** NASA Tech and Science Bound for Low Earth Orbit on Commercial Launch
 - <a href="https://science.nasa.gov/missions/artemis/nasa-names-scientists-to-support-lunar-south-pole-science/" >🔗</a> **[NASA]** NASA Names Scientists to Support Lunar South Pole Science
-- <a href="https://www.nasa.gov/missions/artemis/artemis-2/i-am-artemis-michael-guzman/" >🔗</a> **[NASA]** I Am Artemis: Michael Guzman
 
 
 ### Launch-related News 🚀
@@ -120,7 +120,7 @@ This launch will lift 2 “Pathfinder A” satellites built by Thales Alenia Spa
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260327T220428">2026-03-27 22:04:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260327T224234">2026-03-27 22:42:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
