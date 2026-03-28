@@ -92,6 +92,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/03/Celeste_liftoff" >🔗</a> **[ESA]** Celeste liftoff
 - <a href="https://spacenews.com/artemis-2-astronauts-arrive-at-ksc/" >🔗</a> **[SpaceNews]** Artemis 2 astronauts arrive at KSC
 - <a href="https://spacepolicyonline.com/news/u-s-canadian-astronaut-crew-ready-for-flight-around-the-moon/" >🔗</a> **[SpacePolicyOnline.com]** U.S.-Canadian Astronaut Crew Ready for Flight Around the Moon
 - <a href="https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-erik-richards/" >🔗</a> **[NASA]** I Am Artemis: Erik Richards
@@ -101,7 +102,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/esa-to-decide-by-june-on-europes-gateway-contributions/" >🔗</a> **[SpaceNews]** ESA to decide by June on Europe’s Gateway contributions
 - <a href="https://science.nasa.gov/photojournal/nisars-view-of-mount-rainier/" >🔗</a> **[NASA]** NISAR’s View of Mount Rainier
 - <a href="https://science.nasa.gov/photojournal/nisar-views-mount-st-helens/" >🔗</a> **[NASA]** NISAR Views Mount St. Helens
-- <a href="https://www.nasa.gov/directorates/stmd/nasa-tech-and-science-bound-for-low-earth-orbit-on-commercial-launch/" >🔗</a> **[NASA]** NASA Tech and Science Bound for Low Earth Orbit on Commercial Launch
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260328T100602">2026-03-28 10:06:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260328T104206">2026-03-28 10:42:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
