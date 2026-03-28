@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Celeste/Celeste_s_first_satellites_launched_to_explore_LEO-based_satellite_navigation" >🔗</a> **[ESA]** Celeste’s first satellites launched to explore LEO-based satellite navigation
+- <a href="https://europeanspaceflight.com/esa-member-states-call-for-cancellation-of-earth-return-orbiter/" >🔗</a> **[European Spaceflight]** ESA Member States Call for Cancellation of Earth Return Orbiter
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/03/Celeste_liftoff" >🔗</a> **[ESA]** Celeste liftoff
 - <a href="https://spacenews.com/artemis-2-astronauts-arrive-at-ksc/" >🔗</a> **[SpaceNews]** Artemis 2 astronauts arrive at KSC
 - <a href="https://spacepolicyonline.com/news/u-s-canadian-astronaut-crew-ready-for-flight-around-the-moon/" >🔗</a> **[SpacePolicyOnline.com]** U.S.-Canadian Astronaut Crew Ready for Flight Around the Moon
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/general/nasas-environment-and-energy-blue-marble-awards-categories/" >🔗</a> **[NASA]** NASA’s Environment and Energy “Blue Marble” Awards Categories
 - <a href="https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-associate-members/" >🔗</a> **[SpaceNews]** Commercial Space Federation (CSF) Welcomes Two New Associate Members
 - <a href="https://spacenews.com/esa-to-decide-by-june-on-europes-gateway-contributions/" >🔗</a> **[SpaceNews]** ESA to decide by June on Europe’s Gateway contributions
-- <a href="https://science.nasa.gov/photojournal/nisars-view-of-mount-rainier/" >🔗</a> **[NASA]** NISAR’s View of Mount Rainier
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260328T180415">2026-03-28 18:04:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260328T184339">2026-03-28 18:43:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
