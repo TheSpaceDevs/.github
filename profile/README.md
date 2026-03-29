@@ -90,6 +90,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-march-29-april-4-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy March 29-April 4, 2026
 - <a href="https://spacenews.com/shots-on-goal-and-win-the-game-nasas-effort-to-accelerate-lunar-landings/" >🔗</a> **[SpaceNews]** ‘Shots on goal and win the game’: NASA’s effort to accelerate lunar landings
 - <a href="https://www.nasaspaceflight.com/2026/03/transporter-16/" >🔗</a> **[NASASpaceflight]** SpaceX to deliver 119 payloads to Sun-synchronous orbit on Transporter 16
 - <a href="https://spacenews.com/starfish-space-finds-a-new-partner-for-docking-demonstration-mission/" >🔗</a> **[SpaceNews]** Starfish Space finds a new partner for docking demonstration mission
@@ -99,7 +100,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/03/Celeste_liftoff" >🔗</a> **[ESA]** Celeste liftoff
 - <a href="https://spacenews.com/artemis-2-astronauts-arrive-at-ksc/" >🔗</a> **[SpaceNews]** Artemis 2 astronauts arrive at KSC
 - <a href="https://spacepolicyonline.com/news/u-s-canadian-astronaut-crew-ready-for-flight-around-the-moon/" >🔗</a> **[SpacePolicyOnline.com]** U.S.-Canadian Astronaut Crew Ready for Flight Around the Moon
-- <a href="https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-erik-richards/" >🔗</a> **[NASA]** I Am Artemis: Erik Richards
 
 
 ### Launch-related News 🚀
@@ -112,7 +112,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260329T150547">2026-03-29 15:05:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260329T154106">2026-03-29 15:41:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
