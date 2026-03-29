@@ -92,6 +92,8 @@ This launch might be carrying a batch of LEO communication satellites for an uni
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/satellite-imaging-industrys-next-challenge-getting-systems-to-talk-to-each-other/" >🔗</a> **[SpaceNews]** Satellite imaging industry’s next challenge: getting systems to talk to each other
+- <a href="https://www.nasaspaceflight.com/2026/03/americas-rocket-factory-artemis/" >🔗</a> **[NASASpaceflight]** America’s Rocket Factory comes Full Circle with Artemis
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-march-29-april-4-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy March 29-April 4, 2026
 - <a href="https://spacenews.com/shots-on-goal-and-win-the-game-nasas-effort-to-accelerate-lunar-landings/" >🔗</a> **[SpaceNews]** ‘Shots on goal and win the game’: NASA’s effort to accelerate lunar landings
 - <a href="https://www.nasaspaceflight.com/2026/03/transporter-16/" >🔗</a> **[NASASpaceflight]** SpaceX to deliver 119 payloads to Sun-synchronous orbit on Transporter 16
@@ -100,8 +102,6 @@ This launch might be carrying a batch of LEO communication satellites for an uni
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Celeste/Celeste_s_first_satellites_launched_to_explore_LEO-based_satellite_navigation" >🔗</a> **[ESA]** Celeste’s first satellites launched to explore LEO-based satellite navigation
 - <a href="https://europeanspaceflight.com/esa-member-states-call-for-cancellation-of-earth-return-orbiter/" >🔗</a> **[European Spaceflight]** ESA Member States Call for Cancellation of Earth Return Orbiter
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/03/Celeste_liftoff" >🔗</a> **[ESA]** Celeste liftoff
-- <a href="https://spacenews.com/artemis-2-astronauts-arrive-at-ksc/" >🔗</a> **[SpaceNews]** Artemis 2 astronauts arrive at KSC
-- <a href="https://spacepolicyonline.com/news/u-s-canadian-astronaut-crew-ready-for-flight-around-the-moon/" >🔗</a> **[SpacePolicyOnline.com]** U.S.-Canadian Astronaut Crew Ready for Flight Around the Moon
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ This launch might be carrying a batch of LEO communication satellites for an uni
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260329T210535">2026-03-29 21:05:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260329T214149">2026-03-29 21:41:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
