@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/03/transporter-16/" >🔗</a> **[NASASpaceflight]** SpaceX to deliver 119 payloads to Sun-synchronous orbit on Transporter 16
 - <a href="https://spacenews.com/starfish-space-finds-a-new-partner-for-docking-demonstration-mission/" >🔗</a> **[SpaceNews]** Starfish Space finds a new partner for docking demonstration mission
 - <a href="https://spacepolicyonline.com/news/mike-fincke-shares-more-about-his-medical-event/" >🔗</a> **[SpacePolicyOnline.com]** Mike Fincke Shares More About His Medical Event
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Celeste/Celeste_s_first_satellites_launched_to_explore_LEO-based_satellite_navigation" >🔗</a> **[ESA]** Celeste’s first satellites launched to explore LEO-based satellite navigation
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/u-s-canadian-astronaut-crew-ready-for-flight-around-the-moon/" >🔗</a> **[SpacePolicyOnline.com]** U.S.-Canadian Astronaut Crew Ready for Flight Around the Moon
 - <a href="https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-erik-richards/" >🔗</a> **[NASA]** I Am Artemis: Erik Richards
 - <a href="https://www.nasa.gov/missions/artemis/clps/nasa-selects-intuitive-machines-to-deliver-artemis-science-tech-to-moon/" >🔗</a> **[NASA]** NASA Selects Intuitive Machines to Deliver Artemis Science, Tech to Moon
-- <a href="https://www.nasa.gov/general/nasas-environment-and-energy-blue-marble-awards-categories/" >🔗</a> **[NASA]** NASA’s Environment and Energy “Blue Marble” Awards Categories
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260329T000952">2026-03-29 00:09:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260329T010123">2026-03-29 01:01:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
