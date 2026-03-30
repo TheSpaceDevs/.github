@@ -92,6 +92,7 @@ This launch might be carrying a batch of LEO communication satellites for an uni
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/03/30/live-coverage-spacex-to-launch-119-payloads-on-smallsat-rideshare-mission-from-california/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 119 payloads on smallsat rideshare mission from California
 - <a href="https://spacenews.com/satellite-imaging-industrys-next-challenge-getting-systems-to-talk-to-each-other/" >🔗</a> **[SpaceNews]** Satellite imaging industry’s next challenge: getting systems to talk to each other
 - <a href="https://www.nasaspaceflight.com/2026/03/americas-rocket-factory-artemis/" >🔗</a> **[NASASpaceflight]** America’s Rocket Factory comes Full Circle with Artemis
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-march-29-april-4-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy March 29-April 4, 2026
@@ -101,7 +102,6 @@ This launch might be carrying a batch of LEO communication satellites for an uni
 - <a href="https://spacepolicyonline.com/news/mike-fincke-shares-more-about-his-medical-event/" >🔗</a> **[SpacePolicyOnline.com]** Mike Fincke Shares More About His Medical Event
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Celeste/Celeste_s_first_satellites_launched_to_explore_LEO-based_satellite_navigation" >🔗</a> **[ESA]** Celeste’s first satellites launched to explore LEO-based satellite navigation
 - <a href="https://europeanspaceflight.com/esa-member-states-call-for-cancellation-of-earth-return-orbiter/" >🔗</a> **[European Spaceflight]** ESA Member States Call for Cancellation of Earth Return Orbiter
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/03/Celeste_liftoff" >🔗</a> **[ESA]** Celeste liftoff
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ This launch might be carrying a batch of LEO communication satellites for an uni
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260330T021429">2026-03-30 02:14:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260330T033718">2026-03-30 03:37:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
