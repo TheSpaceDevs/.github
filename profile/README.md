@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/with-voyagers-help-icarus-robotics-to-test-free-flyer-on-iss/" >🔗</a> **[SpaceNews]** With Voyager’s help, Icarus Robotics to test free-flyer on ISS
+- <a href="https://spacenews.com/the-race-to-build-orbital-data-centers-is-missing-its-biggest-variable-power/" >🔗</a> **[SpaceNews]** The race to build orbital data centers is missing its biggest variable: power
 - <a href="https://spacenews.com/starcloud-achieves-unicorn-status-with-170-million-raise-for-orbital-data-centers/" >🔗</a> **[SpaceNews]** Starcloud achieves unicorn status with $170 million raise for orbital data centers
 - <a href="https://spacenews.com/science-finds-a-place-on-artemis-2/" >🔗</a> **[SpaceNews]** Science finds a place on Artemis 2
 - <a href="https://spaceflightnow.com/2026/03/30/live-coverage-spacex-to-launch-119-payloads-on-smallsat-rideshare-mission-from-california/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 119 payloads on smallsat rideshare mission from California
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-march-29-april-4-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy March 29-April 4, 2026
 - <a href="https://spacenews.com/shots-on-goal-and-win-the-game-nasas-effort-to-accelerate-lunar-landings/" >🔗</a> **[SpaceNews]** ‘Shots on goal and win the game’: NASA’s effort to accelerate lunar landings
 - <a href="https://www.nasaspaceflight.com/2026/03/transporter-16/" >🔗</a> **[NASASpaceflight]** SpaceX to deliver 119 payloads to Sun-synchronous orbit on Transporter 16
-- <a href="https://spacenews.com/starfish-space-finds-a-new-partner-for-docking-demonstration-mission/" >🔗</a> **[SpaceNews]** Starfish Space finds a new partner for docking demonstration mission
-- <a href="https://spacepolicyonline.com/news/mike-fincke-shares-more-about-his-medical-event/" >🔗</a> **[SpacePolicyOnline.com]** Mike Fincke Shares More About His Medical Event
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260330T124606">2026-03-30 12:46:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260330T132905">2026-03-30 13:29:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
