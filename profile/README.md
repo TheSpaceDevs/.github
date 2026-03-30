@@ -48,7 +48,6 @@ This launch might be carrying a batch of LEO communication satellites for an uni
 
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260330T105200">2026-03-30 10:52:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Kinetica 2 | Qingzhou Spacecraft Demo Flight&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20260330T105200Z%2F20260330T131400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Kinetica 2 | Qingzhou Spacecraft Demo Flight** from Jiuquan Satellite Launch Center, People's Republic of China.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260330T101900">2026-03-30 10:19:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Transporter 16 (Dedicated SSO Rideshare)&location=Vandenberg SFB, CA, USA&dates=20260330T101900Z%2F20260330T111600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Transporter 16 (Dedicated SSO Rideshare)** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260330T211500">2026-03-30 21:15:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-44&location=Cape Canaveral SFS, FL, USA&dates=20260330T211500Z%2F20260331T011500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-44** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260401T020000">2026-04-01 02:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a/Fregat-M | Meridian-M No.21L&location=Plesetsk Cosmodrome, Russian Federation&dates=20260401T020000Z%2F20260401T120000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a/Fregat-M | Meridian-M No.21L** from Plesetsk Cosmodrome, Russian Federation.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260401T222400">2026-04-01 22:24:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=SLS Block 1 | Artemis II&location=Kennedy Space Center, FL, USA&dates=20260401T222400Z%2F20260402T002400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **SLS Block 1 | Artemis II** from Kennedy Space Center, FL, USA.
@@ -92,6 +91,7 @@ This launch might be carrying a batch of LEO communication satellites for an uni
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/science-finds-a-place-on-artemis-2/" >🔗</a> **[SpaceNews]** Science finds a place on Artemis 2
 - <a href="https://spaceflightnow.com/2026/03/30/live-coverage-spacex-to-launch-119-payloads-on-smallsat-rideshare-mission-from-california/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 119 payloads on smallsat rideshare mission from California
 - <a href="https://spacenews.com/satellite-imaging-industrys-next-challenge-getting-systems-to-talk-to-each-other/" >🔗</a> **[SpaceNews]** Satellite imaging industry’s next challenge: getting systems to talk to each other
 - <a href="https://www.nasaspaceflight.com/2026/03/americas-rocket-factory-artemis/" >🔗</a> **[NASASpaceflight]** America’s Rocket Factory comes Full Circle with Artemis
@@ -101,7 +101,6 @@ This launch might be carrying a batch of LEO communication satellites for an uni
 - <a href="https://spacenews.com/starfish-space-finds-a-new-partner-for-docking-demonstration-mission/" >🔗</a> **[SpaceNews]** Starfish Space finds a new partner for docking demonstration mission
 - <a href="https://spacepolicyonline.com/news/mike-fincke-shares-more-about-his-medical-event/" >🔗</a> **[SpacePolicyOnline.com]** Mike Fincke Shares More About His Medical Event
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Celeste/Celeste_s_first_satellites_launched_to_explore_LEO-based_satellite_navigation" >🔗</a> **[ESA]** Celeste’s first satellites launched to explore LEO-based satellite navigation
-- <a href="https://europeanspaceflight.com/esa-member-states-call-for-cancellation-of-earth-return-orbiter/" >🔗</a> **[European Spaceflight]** ESA Member States Call for Cancellation of Earth Return Orbiter
 
 
 ### Launch-related News 🚀
@@ -111,7 +110,7 @@ This launch might be carrying a batch of LEO communication satellites for an uni
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260330T093038">2026-03-30 09:30:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260330T102555">2026-03-30 10:25:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
