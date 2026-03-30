@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/03/30/falcon-9-booster-to-fly-for-34th-time-on-starlink-delivery-mission/" >🔗</a> **[Spaceflight Now]** Falcon 9 booster to fly for 34th time on Starlink delivery mission
 - <a href="https://spacenews.com/varda-flies-navigation-payload-heat-shield-tests-on-sixth-reentry-mission/" >🔗</a> **[SpaceNews]** Varda flies navigation payload, heat shield tests on sixth reentry mission
 - <a href="https://www.nasa.gov/image-article/sendoff-for-artemis-ii-crew/" >🔗</a> **[NASA]** Sendoff for Artemis II Crew
 - <a href="https://spacenews.com/esa-launches-first-celeste-satellites-to-test-complementary-leo-navigation-layer/" >🔗</a> **[SpaceNews]** ESA launches first Celeste satellites to test complementary LEO navigation layer
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/03/What_is_Smile_about_to_discover" >🔗</a> **[ESA]** What is Smile about to discover?
 - <a href="https://spacenews.com/pentagon-weighing-termination-of-raytheon-gps-ground-control-contract-after-years-of-delays/" >🔗</a> **[SpaceNews]** Pentagon weighing termination of Raytheon GPS ground control contract after years of delays
 - <a href="https://spacenews.com/the-race-to-build-orbital-data-centers-is-missing-its-biggest-variable-power/" >🔗</a> **[SpaceNews]** The race to build orbital data centers is missing its biggest variable: power
-- <a href="https://spacenews.com/with-voyagers-help-icarus-robotics-to-test-free-flyer-on-iss/" >🔗</a> **[SpaceNews]** With Voyager’s help, Icarus Robotics to test free-flyer on ISS
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260330T194544">2026-03-30 19:45:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260330T200932">2026-03-30 20:09:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
