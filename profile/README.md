@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/chinas-kinetica-2-rocket-debuts-successfully-sending-prototype-cargo-spacecraft-to-orbit/" >🔗</a> **[SpaceNews]** China’s Kinetica-2 rocket debuts successfully, sending prototype cargo spacecraft to orbit
+- <a href="https://www.spacescout.info/2026/03/meet-historys-next-lunar-astronauts/" >🔗</a> **[Space Scout]** Meet History’s Next Lunar Astronauts
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/03/What_is_Smile_about_to_discover" >🔗</a> **[ESA]** What is Smile about to discover?
 - <a href="https://spacenews.com/pentagon-weighing-termination-of-raytheon-gps-ground-control-contract-after-years-of-delays/" >🔗</a> **[SpaceNews]** Pentagon weighing termination of Raytheon GPS ground control contract after years of delays
-- <a href="https://spacenews.com/the-race-to-build-orbital-data-centers-is-missing-its-biggest-variable-power/" >🔗</a> **[SpaceNews]** The race to build orbital data centers is missing its biggest variable: power
 - <a href="https://spacenews.com/with-voyagers-help-icarus-robotics-to-test-free-flyer-on-iss/" >🔗</a> **[SpaceNews]** With Voyager’s help, Icarus Robotics to test free-flyer on ISS
+- <a href="https://spacenews.com/the-race-to-build-orbital-data-centers-is-missing-its-biggest-variable-power/" >🔗</a> **[SpaceNews]** The race to build orbital data centers is missing its biggest variable: power
 - <a href="https://spacenews.com/starcloud-achieves-unicorn-status-with-170-million-raise-for-orbital-data-centers/" >🔗</a> **[SpaceNews]** Starcloud achieves unicorn status with $170 million raise for orbital data centers
 - <a href="https://spacenews.com/science-finds-a-place-on-artemis-2/" >🔗</a> **[SpaceNews]** Science finds a place on Artemis 2
 - <a href="https://spaceflightnow.com/2026/03/30/live-coverage-spacex-to-launch-119-payloads-on-smallsat-rideshare-mission-from-california/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 119 payloads on smallsat rideshare mission from California
 - <a href="https://spacenews.com/satellite-imaging-industrys-next-challenge-getting-systems-to-talk-to-each-other/" >🔗</a> **[SpaceNews]** Satellite imaging industry’s next challenge: getting systems to talk to each other
-- <a href="https://www.nasaspaceflight.com/2026/03/americas-rocket-factory-artemis/" >🔗</a> **[NASASpaceflight]** America’s Rocket Factory comes Full Circle with Artemis
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-march-29-april-4-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy March 29-April 4, 2026
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260330T155254">2026-03-30 15:52:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260330T161746">2026-03-30 16:17:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
