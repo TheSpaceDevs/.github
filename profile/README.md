@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/sendoff-for-artemis-ii-crew/" >🔗</a> **[NASA]** Sendoff for Artemis II Crew
 - <a href="https://spacenews.com/esa-launches-first-celeste-satellites-to-test-complementary-leo-navigation-layer/" >🔗</a> **[SpaceNews]** ESA launches first Celeste satellites to test complementary LEO navigation layer
 - <a href="https://spacenews.com/spacex-launches-transporter-16-rideshare-mission/" >🔗</a> **[SpaceNews]** SpaceX launches Transporter-16 rideshare mission
 - <a href="https://spacenews.com/chinas-kinetica-2-rocket-debuts-successfully-sending-prototype-cargo-spacecraft-to-orbit/" >🔗</a> **[SpaceNews]** China’s Kinetica-2 rocket debuts successfully, sending prototype cargo spacecraft to orbit
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/the-race-to-build-orbital-data-centers-is-missing-its-biggest-variable-power/" >🔗</a> **[SpaceNews]** The race to build orbital data centers is missing its biggest variable: power
 - <a href="https://spacenews.com/with-voyagers-help-icarus-robotics-to-test-free-flyer-on-iss/" >🔗</a> **[SpaceNews]** With Voyager’s help, Icarus Robotics to test free-flyer on ISS
 - <a href="https://spacenews.com/starcloud-achieves-unicorn-status-with-170-million-raise-for-orbital-data-centers/" >🔗</a> **[SpaceNews]** Starcloud achieves unicorn status with $170 million raise for orbital data centers
-- <a href="https://spacenews.com/science-finds-a-place-on-artemis-2/" >🔗</a> **[SpaceNews]** Science finds a place on Artemis 2
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260330T181431">2026-03-30 18:14:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260330T184534">2026-03-30 18:45:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
