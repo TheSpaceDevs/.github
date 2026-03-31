@@ -92,6 +92,7 @@ Meridian is a series of communications satellite for military and civilian use.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/china-targets-140-launches-in-2026-amid-commercial-space-surge/" >🔗</a> **[SpaceNews]** China targets 140 launches in 2026 amid commercial space surge
 - <a href="https://spacenews.com/europes-space-sector-faces-power-shift-as-funding-grows/" >🔗</a> **[SpaceNews]** Europe’s space sector faces power shift as funding grows
 - <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/Seven_missions_launched_to_test_optimised_data_transfer_from_space" >🔗</a> **[ESA]** Seven missions launched to test optimised data transfer from space
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/IRIDE/Eight_more_satellites_added_to_IRIDE_space_programme" >🔗</a> **[ESA]** Eight more satellites added to IRIDE space programme
@@ -101,7 +102,6 @@ Meridian is a series of communications satellite for military and civilian use.
 - <a href="https://spacepolicyonline.com/news/artemis-ii-ready-to-go-on-april-1-weather-permitting/" >🔗</a> **[SpacePolicyOnline.com]** Artemis II Ready to Go on April 1, Weather Permitting
 - <a href="https://spacenews.com/rocket-lab-wins-german-approval-for-mynaric-deal/" >🔗</a> **[SpaceNews]** Rocket Lab wins German approval for Mynaric deal
 - <a href="https://www.nasaspaceflight.com/2026/03/launch-preview-033026/" >🔗</a> **[NASASpaceflight]** Launch Preview: SLS, Falcon 9, Atlas V, and Soyuz launches comprise busy launch manifest
-- <a href="https://spaceflightnow.com/2026/03/30/falcon-9-booster-to-fly-for-34th-time-on-starlink-delivery-mission/" >🔗</a> **[Spaceflight Now]** Falcon 9 booster to fly for 34th time on Starlink delivery mission
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ Meridian is a series of communications satellite for military and civilian use.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260331T104507">2026-03-31 10:45:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260331T111543">2026-03-31 11:15:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
