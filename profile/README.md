@@ -92,6 +92,7 @@ Meridian is a series of communications satellite for military and civilian use.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/IRIDE/Eight_more_satellites_added_to_IRIDE_space_programme" >🔗</a> **[ESA]** Eight more satellites added to IRIDE space programme
 - <a href="https://spacenews.com/artemis-2-countdown-underway/" >🔗</a> **[SpaceNews]** Artemis 2 countdown underway
 - <a href="https://science.nasa.gov/earth/earth-observatory/fires-tear-through-nebraska-grasslands/" >🔗</a> **[NASA]** Fires Tear Through Nebraska Grasslands
 - <a href="https://spacenews.com/second-starlink-satellite-suffers-anomaly-generating-debris/" >🔗</a> **[SpaceNews]** Second Starlink satellite suffers anomaly, generating debris
@@ -101,16 +102,16 @@ Meridian is a series of communications satellite for military and civilian use.
 - <a href="https://spaceflightnow.com/2026/03/30/falcon-9-booster-to-fly-for-34th-time-on-starlink-delivery-mission/" >🔗</a> **[Spaceflight Now]** Falcon 9 booster to fly for 34th time on Starlink delivery mission
 - <a href="https://spaceflightnow.com/2026/03/30/falcon-9-booster-to-fly-for-record-34th-time-on-starlink-delivery-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: Falcon 9 booster to fly for record 34th time on Starlink delivery mission
 - <a href="https://spacenews.com/varda-flies-navigation-payload-heat-shield-tests-on-sixth-reentry-mission/" >🔗</a> **[SpaceNews]** Varda flies navigation payload, heat shield tests on sixth reentry mission
-- <a href="https://www.nasa.gov/image-article/sendoff-for-artemis-ii-crew/" >🔗</a> **[NASA]** Sendoff for Artemis II Crew
 
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2026/03/launch-preview-033026/" >🔗</a> **[NASASpaceflight]** Launch Preview: SLS, Falcon 9, Atlas V, and Soyuz launches comprise busy launch manifest
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260331T075506">2026-03-31 07:55:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260331T081841">2026-03-31 08:18:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
