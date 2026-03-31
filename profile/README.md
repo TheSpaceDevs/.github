@@ -92,6 +92,7 @@ Meridian is a series of communications satellite for military and civilian use.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spaceship-smackdown-space-symposium-2026/" >🔗</a> **[SpaceNews]** Cast your vote for the best sci-fi spaceship and then watch debaters duke it out at Space Symposium
 - <a href="https://www.nasaspaceflight.com/2026/03/artemis-ii-launch/" >🔗</a> **[NASASpaceflight]** Artemis II set to return humanity to the Moon with launch on Wednesday evening
 - <a href="https://spacepolicyonline.com/news/everything-still-on-track-for-artemis-ii-launch-to-the-moon-on-april-1/" >🔗</a> **[SpacePolicyOnline.com]** Everything Still on Track for Artemis II Launch to the Moon on April 1
 - <a href="https://arstechnica.com/features/2026/03/this-is-my-third-orion-launch-but-it-feels-totally-different/" >🔗</a> **[Arstechnica]** This is my third Orion launch, but it feels totally different
@@ -101,7 +102,6 @@ Meridian is a series of communications satellite for military and civilian use.
 - <a href="https://www.nasa.gov/image-article/godspeed-artemis-ii/" >🔗</a> **[NASA]** Godspeed, Artemis II!
 - <a href="https://www.spacescout.info/2026/03/how-artemis-ii-will-return-astronauts-to-the-moon/" >🔗</a> **[Space Scout]** How Artemis II Will Return Astronauts to the Moon
 - <a href="https://science.nasa.gov/missions/landsat/landsat-reveals-reservoir-changes-and-bathymetry/" >🔗</a> **[NASA]** Landsat Reveals Reservoir Changes and Bathymetry
-- <a href="https://spacenews.com/agentic-ai-the-future-of-space-warfare/" >🔗</a> **[SpaceNews]** Agentic AI: the future of space warfare
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ Meridian is a series of communications satellite for military and civilian use.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260331T230636">2026-03-31 23:06:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260331T234210">2026-03-31 23:42:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
