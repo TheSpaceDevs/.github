@@ -92,6 +92,8 @@ Meridian is a series of communications satellite for military and civilian use.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacescout.info/2026/03/how-artemis-ii-will-return-astronauts-to-the-moon/" >🔗</a> **[Space Scout]** How Artemis II Will Return Astronauts to the Moon
+- <a href="https://science.nasa.gov/missions/landsat/landsat-reveals-reservoir-changes-and-bathymetry/" >🔗</a> **[NASA]** Landsat Reveals Reservoir Changes and Bathymetry
 - <a href="https://spacenews.com/agentic-ai-the-future-of-space-warfare/" >🔗</a> **[SpaceNews]** Agentic AI: the future of space warfare
 - <a href="https://spacenews.com/antaris-raises-28-million-series-a-to-accelerate-ai-driven-space-missions/" >🔗</a> **[SpaceNews]** Antaris™ Raises $28 Million Series A to Accelerate AI-Driven Space Missions
 - <a href="https://spacenews.com/china-targets-140-launches-in-2026-amid-commercial-space-surge/" >🔗</a> **[SpaceNews]** China targets 140 launches in 2026 amid commercial space surge
@@ -100,8 +102,6 @@ Meridian is a series of communications satellite for military and civilian use.
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/IRIDE/Eight_more_satellites_added_to_IRIDE_space_programme" >🔗</a> **[ESA]** Eight more satellites added to IRIDE space programme
 - <a href="https://spacenews.com/artemis-2-countdown-underway/" >🔗</a> **[SpaceNews]** Artemis 2 countdown underway
 - <a href="https://science.nasa.gov/earth/earth-observatory/fires-tear-through-nebraska-grasslands/" >🔗</a> **[NASA]** Fires Tear Through Nebraska Grasslands
-- <a href="https://spacenews.com/second-starlink-satellite-suffers-anomaly-generating-debris/" >🔗</a> **[SpaceNews]** Second Starlink satellite suffers anomaly, generating debris
-- <a href="https://spacepolicyonline.com/news/artemis-ii-ready-to-go-on-april-1-weather-permitting/" >🔗</a> **[SpacePolicyOnline.com]** Artemis II Ready to Go on April 1, Weather Permitting
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ Meridian is a series of communications satellite for military and civilian use.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260331T144947">2026-03-31 14:49:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260331T152247">2026-03-31 15:22:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
