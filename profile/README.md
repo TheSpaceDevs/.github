@@ -92,6 +92,7 @@ Meridian is a series of communications satellite for military and civilian use.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/agentic-ai-the-future-of-space-warfare/" >🔗</a> **[SpaceNews]** Agentic AI: the future of space warfare
 - <a href="https://spacenews.com/antaris-raises-28-million-series-a-to-accelerate-ai-driven-space-missions/" >🔗</a> **[SpaceNews]** Antaris™ Raises $28 Million Series A to Accelerate AI-Driven Space Missions
 - <a href="https://spacenews.com/china-targets-140-launches-in-2026-amid-commercial-space-surge/" >🔗</a> **[SpaceNews]** China targets 140 launches in 2026 amid commercial space surge
 - <a href="https://spacenews.com/europes-space-sector-faces-power-shift-as-funding-grows/" >🔗</a> **[SpaceNews]** Europe’s space sector faces power shift as funding grows
@@ -101,7 +102,6 @@ Meridian is a series of communications satellite for military and civilian use.
 - <a href="https://science.nasa.gov/earth/earth-observatory/fires-tear-through-nebraska-grasslands/" >🔗</a> **[NASA]** Fires Tear Through Nebraska Grasslands
 - <a href="https://spacenews.com/second-starlink-satellite-suffers-anomaly-generating-debris/" >🔗</a> **[SpaceNews]** Second Starlink satellite suffers anomaly, generating debris
 - <a href="https://spacepolicyonline.com/news/artemis-ii-ready-to-go-on-april-1-weather-permitting/" >🔗</a> **[SpacePolicyOnline.com]** Artemis II Ready to Go on April 1, Weather Permitting
-- <a href="https://spacenews.com/rocket-lab-wins-german-approval-for-mynaric-deal/" >🔗</a> **[SpaceNews]** Rocket Lab wins German approval for Mynaric deal
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ Meridian is a series of communications satellite for military and civilian use.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260331T124555">2026-03-31 12:45:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260331T132841">2026-03-31 13:28:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
