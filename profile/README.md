@@ -92,6 +92,8 @@ Meridian is a series of communications satellite for military and civilian use.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/03/Artemis_II_let_s_go" >🔗</a> **[ESA]** Artemis II: let's go
+- <a href="https://www.nasa.gov/image-article/godspeed-artemis-ii/" >🔗</a> **[NASA]** Godspeed, Artemis II!
 - <a href="https://www.spacescout.info/2026/03/how-artemis-ii-will-return-astronauts-to-the-moon/" >🔗</a> **[Space Scout]** How Artemis II Will Return Astronauts to the Moon
 - <a href="https://science.nasa.gov/missions/landsat/landsat-reveals-reservoir-changes-and-bathymetry/" >🔗</a> **[NASA]** Landsat Reveals Reservoir Changes and Bathymetry
 - <a href="https://spacenews.com/agentic-ai-the-future-of-space-warfare/" >🔗</a> **[SpaceNews]** Agentic AI: the future of space warfare
@@ -100,8 +102,6 @@ Meridian is a series of communications satellite for military and civilian use.
 - <a href="https://spacenews.com/europes-space-sector-faces-power-shift-as-funding-grows/" >🔗</a> **[SpaceNews]** Europe’s space sector faces power shift as funding grows
 - <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/Seven_missions_launched_to_test_optimised_data_transfer_from_space" >🔗</a> **[ESA]** Seven missions launched to test optimised data transfer from space
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/IRIDE/Eight_more_satellites_added_to_IRIDE_space_programme" >🔗</a> **[ESA]** Eight more satellites added to IRIDE space programme
-- <a href="https://spacenews.com/artemis-2-countdown-underway/" >🔗</a> **[SpaceNews]** Artemis 2 countdown underway
-- <a href="https://science.nasa.gov/earth/earth-observatory/fires-tear-through-nebraska-grasslands/" >🔗</a> **[NASA]** Fires Tear Through Nebraska Grasslands
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ Meridian is a series of communications satellite for military and civilian use.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260331T155036">2026-03-31 15:50:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260331T161848">2026-03-31 16:18:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
