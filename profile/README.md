@@ -92,6 +92,7 @@ Meridian is a series of communications satellite for military and civilian use.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/second-starlink-satellite-suffers-anomaly-generating-debris/" >🔗</a> **[SpaceNews]** Second Starlink satellite suffers anomaly, generating debris
 - <a href="https://spacepolicyonline.com/news/artemis-ii-ready-to-go-on-april-1-weather-permitting/" >🔗</a> **[SpacePolicyOnline.com]** Artemis II Ready to Go on April 1, Weather Permitting
 - <a href="https://spacenews.com/rocket-lab-wins-german-approval-for-mynaric-deal/" >🔗</a> **[SpaceNews]** Rocket Lab wins German approval for Mynaric deal
 - <a href="https://www.nasaspaceflight.com/2026/03/launch-preview-033026/" >🔗</a> **[NASASpaceflight]** Launch Preview: SLS, Falcon 9, Atlas V, and Soyuz launches comprise busy launch manifest
@@ -101,7 +102,6 @@ Meridian is a series of communications satellite for military and civilian use.
 - <a href="https://www.nasa.gov/image-article/sendoff-for-artemis-ii-crew/" >🔗</a> **[NASA]** Sendoff for Artemis II Crew
 - <a href="https://spacenews.com/esa-launches-first-celeste-satellites-to-test-complementary-leo-navigation-layer/" >🔗</a> **[SpaceNews]** ESA launches first Celeste satellites to test complementary LEO navigation layer
 - <a href="https://spacenews.com/spacex-launches-transporter-16-rideshare-mission/" >🔗</a> **[SpaceNews]** SpaceX launches Transporter-16 rideshare mission
-- <a href="https://spacenews.com/chinas-kinetica-2-rocket-debuts-successfully-sending-prototype-cargo-spacecraft-to-orbit/" >🔗</a> **[SpaceNews]** China’s Kinetica-2 rocket debuts successfully, sending prototype cargo spacecraft to orbit
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ Meridian is a series of communications satellite for military and civilian use.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260331T001107">2026-03-31 00:11:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260331T005831">2026-03-31 00:58:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
