@@ -92,6 +92,8 @@ Meridian is a series of communications satellite for military and civilian use.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2026/03/this-is-my-third-orion-launch-but-it-feels-totally-different/" >🔗</a> **[Arstechnica]** This is my third Orion launch, but it feels totally different
+- <a href="https://arstechnica.com/features/2026/03/this-is-my-third-orion-launch-but-it-feels-totally-different/" >🔗</a> **[Arstechnica]** This is my third Orion launch, but it feels totally different
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Watch_live_Artemis_II_launch" >🔗</a> **[ESA]** Watch live: Artemis II launch
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/03/Artemis_II_let_s_go" >🔗</a> **[ESA]** Artemis II: let's go
 - <a href="https://www.nasa.gov/image-article/godspeed-artemis-ii/" >🔗</a> **[NASA]** Godspeed, Artemis II!
@@ -100,8 +102,6 @@ Meridian is a series of communications satellite for military and civilian use.
 - <a href="https://spacenews.com/agentic-ai-the-future-of-space-warfare/" >🔗</a> **[SpaceNews]** Agentic AI: the future of space warfare
 - <a href="https://spacenews.com/antaris-raises-28-million-series-a-to-accelerate-ai-driven-space-missions/" >🔗</a> **[SpaceNews]** Antaris™ Raises $28 Million Series A to Accelerate AI-Driven Space Missions
 - <a href="https://spacenews.com/china-targets-140-launches-in-2026-amid-commercial-space-surge/" >🔗</a> **[SpaceNews]** China targets 140 launches in 2026 amid commercial space surge
-- <a href="https://spacenews.com/europes-space-sector-faces-power-shift-as-funding-grows/" >🔗</a> **[SpaceNews]** Europe’s space sector faces power shift as funding grows
-- <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/Seven_missions_launched_to_test_optimised_data_transfer_from_space" >🔗</a> **[ESA]** Seven missions launched to test optimised data transfer from space
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ Meridian is a series of communications satellite for military and civilian use.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260331T174600">2026-03-31 17:46:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260331T181411">2026-03-31 18:14:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
