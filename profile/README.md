@@ -92,6 +92,7 @@ The mission will test the core systems of NASA's Orion spacecraft including the 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/chinese-startup-tests-flexible-robotic-arm-in-space-for-on-orbit-servicing/" >🔗</a> **[SpaceNews]** Chinese startup tests flexible robotic arm in space for on-orbit servicing
 - <a href="https://science.nasa.gov/earth/earth-observatory/march-of-the-harmattan/" >🔗</a> **[NASA]** March of the Harmattan
 - <a href="https://spaceflightnow.com/2026/04/01/live-coverage-nasa-to-launch-artemis-2-its-first-moon-bound-mission-with-astronauts-since-1972/" >🔗</a> **[Spaceflight Now]** Live coverage: NASA to launch Artemis 2, its first Moon-bound mission with astronauts since 1972
 - <a href="https://spacenews.com/virgin-galactic-expects-commercial-suborbital-flights-to-resume-late-this-year/" >🔗</a> **[SpaceNews]** Virgin Galactic expects commercial suborbital flights to resume late this year
@@ -101,7 +102,6 @@ The mission will test the core systems of NASA's Orion spacecraft including the 
 - <a href="https://spacepolicyonline.com/news/everything-still-on-track-for-artemis-ii-launch-to-the-moon-on-april-1/" >🔗</a> **[SpacePolicyOnline.com]** Everything Still on Track for Artemis II Launch to the Moon on April 1
 - <a href="https://arstechnica.com/features/2026/03/this-is-my-third-orion-launch-but-it-feels-totally-different/" >🔗</a> **[Arstechnica]** This is my third Orion launch, but it feels totally different
 - <a href="https://arstechnica.com/space/2026/03/this-is-my-third-orion-launch-but-it-feels-totally-different/" >🔗</a> **[Arstechnica]** This is my third Orion launch, but it feels totally different
-- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Watch_live_Artemis_II_launch" >🔗</a> **[ESA]** Watch live: Artemis II launch
 
 
 ### Launch-related News 🚀
@@ -120,7 +120,7 @@ The mission will test the core systems of NASA's Orion spacecraft including the 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260401T075928">2026-04-01 07:59:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260401T083757">2026-04-01 08:37:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
