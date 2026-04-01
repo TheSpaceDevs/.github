@@ -54,9 +54,9 @@ The mission will test the core systems of NASA's Orion spacecraft including the 
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260404T054500">2026-04-04 05:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 551 | Amazon Leo (LA-05)&location=Cape Canaveral SFS, FL, USA&dates=20260404T054500Z%2F20260404T061400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 551 | Amazon Leo (LA-05)** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260404T230300">2026-04-04 23:03:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-35&location=Vandenberg SFB, CA, USA&dates=20260404T230300Z%2F20260405T030300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-35** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260407T000000">2026-04-07 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Minotaur IV | STP-S29A&location=Vandenberg SFB, CA, USA&dates=20260407T000000Z%2F20260407T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Minotaur IV | STP-S29A** from Vandenberg SFB, CA, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260407T023900">2026-04-07 02:39:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-21&location=Vandenberg SFB, CA, USA&dates=20260407T023900Z%2F20260407T063900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-21** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260407T130000">2026-04-07 13:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 8 | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20260407T130000Z%2F20260407T153000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 8 | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260408T124900">2026-04-08 12:49:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Cygnus CRS-2 NG-24&location=Cape Canaveral SFS, FL, USA&dates=20260408T124900Z%2F20260408T124900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Cygnus CRS-2 NG-24** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260409T023900">2026-04-09 02:39:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-21&location=Vandenberg SFB, CA, USA&dates=20260409T023900Z%2F20260409T063900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-21** from Vandenberg SFB, CA, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -92,6 +92,7 @@ The mission will test the core systems of NASA's Orion spacecraft including the 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/artemis-2s-nearly-10-day-flight-around-the-moon/" >🔗</a> **[SpaceNews]** Artemis 2’s (nearly) 10-day flight around the moon
 - <a href="https://spacepolicyonline.com/news/today-still-looking-good-for-artemis-ii-no-fooling/" >🔗</a> **[SpacePolicyOnline.com]** Today Still Looking Good for Artemis II — No Fooling!
 - <a href="https://spacenews.com/saltzman-space-baked-into-modern-combat-operations/" >🔗</a> **[SpaceNews]** Saltzman: Space ‘baked into’ modern combat operations
 - <a href="https://spacenews.com/aspect-aerospace-secures-early-funding-to-advance-swarm-deployable-vleo-satellites/" >🔗</a> **[SpaceNews]** Aspect Aerospace secures early funding to advance swarm-deployable VLEO satellites
@@ -101,7 +102,6 @@ The mission will test the core systems of NASA's Orion spacecraft including the 
 - <a href="https://spacenews.com/florida-model-for-sustainable-aerospace-growth-sn-focus/" >🔗</a> **[SpaceNews]** The Florida Model for Sustainable Aerospace Growth
 - <a href="https://spacenews.com/after-three-years-artemis-2-astronauts-ready-to-launch/" >🔗</a> **[SpaceNews]** After three years, Artemis 2 astronauts ready to launch
 - <a href="https://spacenews.com/vantor-wins-intelligence-agency-contract-to-monitor-space-objects/" >🔗</a> **[SpaceNews]** Vantor wins intelligence agency contract to monitor space objects
-- <a href="https://spacenews.com/chinese-startup-tests-flexible-robotic-arm-in-space-for-on-orbit-servicing/" >🔗</a> **[SpaceNews]** Chinese startup tests flexible robotic arm in space for on-orbit servicing
 
 
 ### Launch-related News 🚀
@@ -120,7 +120,7 @@ The mission will test the core systems of NASA's Orion spacecraft including the 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260401T164514">2026-04-01 16:45:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260401T171551">2026-04-01 17:15:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
