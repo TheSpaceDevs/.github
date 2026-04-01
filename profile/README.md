@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://spacenews.com/artemis-2-launches-on-first-mission-to-the-moon-in-more-than-50-years/" >🔗</a> **[SpaceNews]** Artemis 2 launches on first human mission to the moon in more than 50 years
+- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Artemis_II_mission_begins" >🔗</a> **[ESA]** Artemis II mission begins
 - <a href="https://spacenews.com/spacex-quietly-files-for-big-bang-ipo/" >🔗</a> **[SpaceNews]** SpaceX quietly files for big bang IPO
 - <a href="https://spacenews.com/teledyne-forms-dedicated-space-unit-to-capture-rising-demand/" >🔗</a> **[SpaceNews]** Teledyne forms dedicated space unit to capture rising demand
 - <a href="https://spacenews.com/artemis-2s-nearly-10-day-flight-around-the-moon/" >🔗</a> **[SpaceNews]** Artemis 2’s (nearly) 10-day flight around the moon
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/aspect-aerospace-secures-early-funding-to-advance-swarm-deployable-vleo-satellites/" >🔗</a> **[SpaceNews]** Aspect Aerospace secures early funding to advance swarm-deployable VLEO satellites
 - <a href="https://spacenews.com/creating-near-term-lunar-settlements-lessons-from-space-history/" >🔗</a> **[SpaceNews]** Creating near-term lunar settlements: lessons from space history
 - <a href="https://spacenews.com/artemis-2-fueling-underway/" >🔗</a> **[SpaceNews]** Artemis 2 fueling underway
-- <a href="https://spacenews.com/from-the-midwest-to-the-moon-sn-focus/" >🔗</a> **[SpaceNews]** From the Midwest to the Moon
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260401T230929">2026-04-01 23:09:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260401T234230">2026-04-01 23:42:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
