@@ -92,6 +92,7 @@ The mission will test the core systems of NASA's Orion spacecraft including the 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/teledyne-forms-dedicated-space-unit-to-capture-rising-demand/" >🔗</a> **[SpaceNews]** Teledyne forms dedicated space unit to capture rising demand
 - <a href="https://spacenews.com/artemis-2s-nearly-10-day-flight-around-the-moon/" >🔗</a> **[SpaceNews]** Artemis 2’s (nearly) 10-day flight around the moon
 - <a href="https://spacepolicyonline.com/news/today-still-looking-good-for-artemis-ii-no-fooling/" >🔗</a> **[SpacePolicyOnline.com]** Today Still Looking Good for Artemis II — No Fooling!
 - <a href="https://spacenews.com/saltzman-space-baked-into-modern-combat-operations/" >🔗</a> **[SpaceNews]** Saltzman: Space ‘baked into’ modern combat operations
@@ -101,7 +102,6 @@ The mission will test the core systems of NASA's Orion spacecraft including the 
 - <a href="https://spacenews.com/from-the-midwest-to-the-moon-sn-focus/" >🔗</a> **[SpaceNews]** From the Midwest to the Moon
 - <a href="https://spacenews.com/florida-model-for-sustainable-aerospace-growth-sn-focus/" >🔗</a> **[SpaceNews]** The Florida Model for Sustainable Aerospace Growth
 - <a href="https://spacenews.com/after-three-years-artemis-2-astronauts-ready-to-launch/" >🔗</a> **[SpaceNews]** After three years, Artemis 2 astronauts ready to launch
-- <a href="https://spacenews.com/vantor-wins-intelligence-agency-contract-to-monitor-space-objects/" >🔗</a> **[SpaceNews]** Vantor wins intelligence agency contract to monitor space objects
 
 
 ### Launch-related News 🚀
@@ -120,7 +120,7 @@ The mission will test the core systems of NASA's Orion spacecraft including the 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260401T174442">2026-04-01 17:44:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260401T181328">2026-04-01 18:13:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
