@@ -106,21 +106,21 @@ The mission will test the core systems of NASA's Orion spacecraft including the 
 
 ### Launch-related News 🚀
 
-- <a href="https://spacenews.com/artemis-2-countdown-underway/" >🔗</a> **[SpaceNews]** Artemis 2 countdown underway
-- <a href="https://spacepolicyonline.com/news/artemis-ii-ready-to-go-on-april-1-weather-permitting/" >🔗</a> **[SpacePolicyOnline.com]** Artemis II Ready to Go on April 1, Weather Permitting
-- <a href="https://www.nasaspaceflight.com/2026/03/launch-preview-033026/" >🔗</a> **[NASASpaceflight]** Launch Preview: SLS, Falcon 9, Atlas V, and Soyuz launches comprise busy launch manifest
-- <a href="https://www.nasa.gov/image-article/sendoff-for-artemis-ii-crew/" >🔗</a> **[NASA]** Sendoff for Artemis II Crew
-- <a href="https://www.spacescout.info/2026/03/meet-historys-next-lunar-astronauts/" >🔗</a> **[Space Scout]** Meet History’s Next Lunar Astronauts
-- <a href="https://spacenews.com/science-finds-a-place-on-artemis-2/" >🔗</a> **[SpaceNews]** Science finds a place on Artemis 2
-- <a href="https://www.nasaspaceflight.com/2026/03/americas-rocket-factory-artemis/" >🔗</a> **[NASASpaceflight]** America’s Rocket Factory comes Full Circle with Artemis
-- <a href="https://spacenews.com/artemis-2-astronauts-arrive-at-ksc/" >🔗</a> **[SpaceNews]** Artemis 2 astronauts arrive at KSC
-- <a href="https://spacepolicyonline.com/news/u-s-canadian-astronaut-crew-ready-for-flight-around-the-moon/" >🔗</a> **[SpacePolicyOnline.com]** U.S.-Canadian Astronaut Crew Ready for Flight Around the Moon
-- <a href="https://www.nasa.gov/image-article/artemis-ii-crews-suits/" >🔗</a> **[NASA]** Artemis II Crew’s Suits
+- <a href="https://spacenews.com/after-three-years-artemis-2-astronauts-ready-to-launch/" >🔗</a> **[SpaceNews]** After three years, Artemis 2 astronauts ready to launch
+- <a href="https://spaceflightnow.com/2026/04/01/live-coverage-nasa-to-launch-artemis-2-its-first-moon-bound-mission-with-astronauts-since-1972/" >🔗</a> **[Spaceflight Now]** Live coverage: NASA to launch Artemis 2, its first Moon-bound mission with astronauts since 1972
+- <a href="https://www.nasaspaceflight.com/2026/03/artemis-ii-launch/" >🔗</a> **[NASASpaceflight]** Artemis II set to return humanity to the Moon with launch on Wednesday evening
+- <a href="https://spacepolicyonline.com/news/everything-still-on-track-for-artemis-ii-launch-to-the-moon-on-april-1/" >🔗</a> **[SpacePolicyOnline.com]** Everything Still on Track for Artemis II Launch to the Moon on April 1
+- <a href="https://arstechnica.com/features/2026/03/this-is-my-third-orion-launch-but-it-feels-totally-different/" >🔗</a> **[Arstechnica]** This is my third Orion launch, but it feels totally different
+- <a href="https://arstechnica.com/space/2026/03/this-is-my-third-orion-launch-but-it-feels-totally-different/" >🔗</a> **[Arstechnica]** This is my third Orion launch, but it feels totally different
+- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Watch_live_Artemis_II_launch" >🔗</a> **[ESA]** Watch live: Artemis II launch
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/03/Artemis_II_let_s_go" >🔗</a> **[ESA]** Artemis II: let's go
+- <a href="https://www.nasa.gov/image-article/godspeed-artemis-ii/" >🔗</a> **[NASA]** Godspeed, Artemis II!
+- <a href="https://www.spacescout.info/2026/03/how-artemis-ii-will-return-astronauts-to-the-moon/" >🔗</a> **[Space Scout]** How Artemis II Will Return Astronauts to the Moon
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260401T121219">2026-04-01 12:12:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260401T124608">2026-04-01 12:46:08 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
