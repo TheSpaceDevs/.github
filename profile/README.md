@@ -19,29 +19,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**SLS Block 1 | Artemis II**. It is scheduled to be launched by *National Aeronautics and Space Administration*
+**Falcon 9 Block 5 | Starlink Group 10-58**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39B">Launch Complex 39B</a>, Kennedy Space Center, FL, USA*
+from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral SFS, FL, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260401T222400">2026-04-01 22:24:00 UTC</a>.  Until
-then, this pad will have been used for 58
-out of 279 launches from this location. The launch status is currently
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260402T115200">2026-04-02 11:52:00 UTC</a>.  Until
+then, this pad will have been used for 375
+out of 1098 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Human Exploration* and the payload will be injected
-into *a Lunar flyby
-(Lunar flyby)*.
+*Communications* and the payload will be injected
+into *a Low Earth Orbit
+(LEO)*.
 <br>
 <blockquote>
-  Artemis II is the first crewed mission as part of the Artemis program. Artemis II will send a crew of 4 - 3 Americans and 1 Canadian around the moon and return them back to Earth.
-
-The mission will test the core systems of NASA's Orion spacecraft including the critical life support system, among other systems which could not be tested during Artemis I due to the lack of crew onboard.
+  A batch of 29 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Space_Launch_System" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.62711233,-80.62101503" >
+  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -56,6 +54,7 @@ The mission will test the core systems of NASA's Orion spacecraft including the 
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260407T130000">2026-04-07 13:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 8 | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20260407T130000Z%2F20260407T153000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 8 | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260408T125100">2026-04-08 12:51:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Cygnus CRS-2 NG-24&location=Cape Canaveral SFS, FL, USA&dates=20260408T125100Z%2F20260408T125100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Cygnus CRS-2 NG-24** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260409T023900">2026-04-09 02:39:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-21&location=Vandenberg SFB, CA, USA&dates=20260409T023900Z%2F20260409T063900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-21** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260409T062900">2026-04-09 06:29:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Vega-C | Solar wind Magnetosphere Ionosphere Link Explorer (SMILE)&location=Guiana Space Centre, French Guiana&dates=20260409T062900Z%2F20260409T062900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Vega-C | Solar wind Magnetosphere Ionosphere Link Explorer (SMILE)** from Guiana Space Centre, French Guiana.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -91,6 +90,7 @@ The mission will test the core systems of NASA's Orion spacecraft including the 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/artemis-2-launches-on-first-mission-to-the-moon-in-more-than-50-years/" >🔗</a> **[SpaceNews]** Artemis 2 launches on first human mission to the moon in more than 50 years
 - <a href="https://spacenews.com/spacex-quietly-files-for-big-bang-ipo/" >🔗</a> **[SpaceNews]** SpaceX quietly files for big bang IPO
 - <a href="https://spacenews.com/teledyne-forms-dedicated-space-unit-to-capture-rising-demand/" >🔗</a> **[SpaceNews]** Teledyne forms dedicated space unit to capture rising demand
 - <a href="https://spacenews.com/artemis-2s-nearly-10-day-flight-around-the-moon/" >🔗</a> **[SpaceNews]** Artemis 2’s (nearly) 10-day flight around the moon
@@ -100,26 +100,16 @@ The mission will test the core systems of NASA's Orion spacecraft including the 
 - <a href="https://spacenews.com/creating-near-term-lunar-settlements-lessons-from-space-history/" >🔗</a> **[SpaceNews]** Creating near-term lunar settlements: lessons from space history
 - <a href="https://spacenews.com/artemis-2-fueling-underway/" >🔗</a> **[SpaceNews]** Artemis 2 fueling underway
 - <a href="https://spacenews.com/from-the-midwest-to-the-moon-sn-focus/" >🔗</a> **[SpaceNews]** From the Midwest to the Moon
-- <a href="https://spacenews.com/florida-model-for-sustainable-aerospace-growth-sn-focus/" >🔗</a> **[SpaceNews]** The Florida Model for Sustainable Aerospace Growth
 
 
 ### Launch-related News 🚀
 
-- <a href="https://spacenews.com/artemis-2-fueling-underway/" >🔗</a> **[SpaceNews]** Artemis 2 fueling underway
-- <a href="https://spacenews.com/after-three-years-artemis-2-astronauts-ready-to-launch/" >🔗</a> **[SpaceNews]** After three years, Artemis 2 astronauts ready to launch
-- <a href="https://spaceflightnow.com/2026/04/01/live-coverage-nasa-to-launch-artemis-2-its-first-moon-bound-mission-with-astronauts-since-1972/" >🔗</a> **[Spaceflight Now]** Live coverage: NASA to launch Artemis 2, its first Moon-bound mission with astronauts since 1972
-- <a href="https://www.nasaspaceflight.com/2026/03/artemis-ii-launch/" >🔗</a> **[NASASpaceflight]** Artemis II set to return humanity to the Moon with launch on Wednesday evening
-- <a href="https://spacepolicyonline.com/news/everything-still-on-track-for-artemis-ii-launch-to-the-moon-on-april-1/" >🔗</a> **[SpacePolicyOnline.com]** Everything Still on Track for Artemis II Launch to the Moon on April 1
-- <a href="https://arstechnica.com/features/2026/03/this-is-my-third-orion-launch-but-it-feels-totally-different/" >🔗</a> **[Arstechnica]** This is my third Orion launch, but it feels totally different
-- <a href="https://arstechnica.com/space/2026/03/this-is-my-third-orion-launch-but-it-feels-totally-different/" >🔗</a> **[Arstechnica]** This is my third Orion launch, but it feels totally different
-- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Watch_live_Artemis_II_launch" >🔗</a> **[ESA]** Watch live: Artemis II launch
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/03/Artemis_II_let_s_go" >🔗</a> **[ESA]** Artemis II: let's go
-- <a href="https://www.nasa.gov/image-article/godspeed-artemis-ii/" >🔗</a> **[NASA]** Godspeed, Artemis II!
+- <a href="https://www.nasaspaceflight.com/2026/03/launch-preview-033026/" >🔗</a> **[NASASpaceflight]** Launch Preview: SLS, Falcon 9, Atlas V, and Soyuz launches comprise busy launch manifest
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260401T224326">2026-04-01 22:43:26 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260401T230929">2026-04-01 23:09:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
