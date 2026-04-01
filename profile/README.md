@@ -92,6 +92,8 @@ The mission will test the core systems of NASA's Orion spacecraft including the 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/from-the-midwest-to-the-moon-sn-focus/" >🔗</a> **[SpaceNews]** From the Midwest to the Moon
+- <a href="https://spacenews.com/florida-model-for-sustainable-aerospace-growth-sn-focus/" >🔗</a> **[SpaceNews]** The Florida Model for Sustainable Aerospace Growth
 - <a href="https://spacenews.com/after-three-years-artemis-2-astronauts-ready-to-launch/" >🔗</a> **[SpaceNews]** After three years, Artemis 2 astronauts ready to launch
 - <a href="https://spacenews.com/vantor-wins-intelligence-agency-contract-to-monitor-space-objects/" >🔗</a> **[SpaceNews]** Vantor wins intelligence agency contract to monitor space objects
 - <a href="https://spacenews.com/chinese-startup-tests-flexible-robotic-arm-in-space-for-on-orbit-servicing/" >🔗</a> **[SpaceNews]** Chinese startup tests flexible robotic arm in space for on-orbit servicing
@@ -100,8 +102,6 @@ The mission will test the core systems of NASA's Orion spacecraft including the 
 - <a href="https://spacenews.com/virgin-galactic-expects-commercial-suborbital-flights-to-resume-late-this-year/" >🔗</a> **[SpaceNews]** Virgin Galactic expects commercial suborbital flights to resume late this year
 - <a href="https://spacenews.com/spaceship-smackdown-space-symposium-2026/" >🔗</a> **[SpaceNews]** Cast your vote for the best sci-fi spaceship and then watch debaters duke it out at Space Symposium
 - <a href="https://www.esa.int/About_Us/Corporate_news/Christine_Klein_takes_up_duty_as_acting_Director_of_Controlling_Finance_and_Operational_Procurement" >🔗</a> **[ESA]** Christine Klein takes up duty as acting Director of Controlling, Finance and Operational Procurement
-- <a href="https://www.nasaspaceflight.com/2026/03/artemis-ii-launch/" >🔗</a> **[NASASpaceflight]** Artemis II set to return humanity to the Moon with launch on Wednesday evening
-- <a href="https://spacepolicyonline.com/news/everything-still-on-track-for-artemis-ii-launch-to-the-moon-on-april-1/" >🔗</a> **[SpacePolicyOnline.com]** Everything Still on Track for Artemis II Launch to the Moon on April 1
 
 
 ### Launch-related News 🚀
@@ -120,7 +120,7 @@ The mission will test the core systems of NASA's Orion spacecraft including the 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260401T114454">2026-04-01 11:44:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260401T121219">2026-04-01 12:12:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
