@@ -92,6 +92,7 @@ The mission will test the core systems of NASA's Orion spacecraft including the 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/aspect-aerospace-secures-early-funding-to-advance-swarm-deployable-vleo-satellites/" >🔗</a> **[SpaceNews]** Aspect Aerospace secures early funding to advance swarm-deployable VLEO satellites
 - <a href="https://spacenews.com/creating-near-term-lunar-settlements-lessons-from-space-history/" >🔗</a> **[SpaceNews]** Creating near-term lunar settlements: lessons from space history
 - <a href="https://spacenews.com/artemis-2-fueling-underway/" >🔗</a> **[SpaceNews]** Artemis 2 fueling underway
 - <a href="https://spacenews.com/from-the-midwest-to-the-moon-sn-focus/" >🔗</a> **[SpaceNews]** From the Midwest to the Moon
@@ -101,7 +102,6 @@ The mission will test the core systems of NASA's Orion spacecraft including the 
 - <a href="https://spacenews.com/chinese-startup-tests-flexible-robotic-arm-in-space-for-on-orbit-servicing/" >🔗</a> **[SpaceNews]** Chinese startup tests flexible robotic arm in space for on-orbit servicing
 - <a href="https://science.nasa.gov/earth/earth-observatory/march-of-the-harmattan/" >🔗</a> **[NASA]** March of the Harmattan
 - <a href="https://spaceflightnow.com/2026/04/01/live-coverage-nasa-to-launch-artemis-2-its-first-moon-bound-mission-with-astronauts-since-1972/" >🔗</a> **[Spaceflight Now]** Live coverage: NASA to launch Artemis 2, its first Moon-bound mission with astronauts since 1972
-- <a href="https://spacenews.com/virgin-galactic-expects-commercial-suborbital-flights-to-resume-late-this-year/" >🔗</a> **[SpaceNews]** Virgin Galactic expects commercial suborbital flights to resume late this year
 
 
 ### Launch-related News 🚀
@@ -120,7 +120,7 @@ The mission will test the core systems of NASA's Orion spacecraft including the 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260401T140724">2026-04-01 14:07:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260401T145138">2026-04-01 14:51:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
