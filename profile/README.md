@@ -92,6 +92,8 @@ The mission will test the core systems of NASA's Orion spacecraft including the 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/creating-near-term-lunar-settlements-lessons-from-space-history/" >🔗</a> **[SpaceNews]** Creating near-term lunar settlements: lessons from space history
+- <a href="https://spacenews.com/artemis-2-fueling-underway/" >🔗</a> **[SpaceNews]** Artemis 2 fueling underway
 - <a href="https://spacenews.com/from-the-midwest-to-the-moon-sn-focus/" >🔗</a> **[SpaceNews]** From the Midwest to the Moon
 - <a href="https://spacenews.com/florida-model-for-sustainable-aerospace-growth-sn-focus/" >🔗</a> **[SpaceNews]** The Florida Model for Sustainable Aerospace Growth
 - <a href="https://spacenews.com/after-three-years-artemis-2-astronauts-ready-to-launch/" >🔗</a> **[SpaceNews]** After three years, Artemis 2 astronauts ready to launch
@@ -100,12 +102,11 @@ The mission will test the core systems of NASA's Orion spacecraft including the 
 - <a href="https://science.nasa.gov/earth/earth-observatory/march-of-the-harmattan/" >🔗</a> **[NASA]** March of the Harmattan
 - <a href="https://spaceflightnow.com/2026/04/01/live-coverage-nasa-to-launch-artemis-2-its-first-moon-bound-mission-with-astronauts-since-1972/" >🔗</a> **[Spaceflight Now]** Live coverage: NASA to launch Artemis 2, its first Moon-bound mission with astronauts since 1972
 - <a href="https://spacenews.com/virgin-galactic-expects-commercial-suborbital-flights-to-resume-late-this-year/" >🔗</a> **[SpaceNews]** Virgin Galactic expects commercial suborbital flights to resume late this year
-- <a href="https://spacenews.com/spaceship-smackdown-space-symposium-2026/" >🔗</a> **[SpaceNews]** Cast your vote for the best sci-fi spaceship and then watch debaters duke it out at Space Symposium
-- <a href="https://www.esa.int/About_Us/Corporate_news/Christine_Klein_takes_up_duty_as_acting_Director_of_Controlling_Finance_and_Operational_Procurement" >🔗</a> **[ESA]** Christine Klein takes up duty as acting Director of Controlling, Finance and Operational Procurement
 
 
 ### Launch-related News 🚀
 
+- <a href="https://spacenews.com/artemis-2-fueling-underway/" >🔗</a> **[SpaceNews]** Artemis 2 fueling underway
 - <a href="https://spacenews.com/after-three-years-artemis-2-astronauts-ready-to-launch/" >🔗</a> **[SpaceNews]** After three years, Artemis 2 astronauts ready to launch
 - <a href="https://spaceflightnow.com/2026/04/01/live-coverage-nasa-to-launch-artemis-2-its-first-moon-bound-mission-with-astronauts-since-1972/" >🔗</a> **[Spaceflight Now]** Live coverage: NASA to launch Artemis 2, its first Moon-bound mission with astronauts since 1972
 - <a href="https://www.nasaspaceflight.com/2026/03/artemis-ii-launch/" >🔗</a> **[NASASpaceflight]** Artemis II set to return humanity to the Moon with launch on Wednesday evening
@@ -115,12 +116,11 @@ The mission will test the core systems of NASA's Orion spacecraft including the 
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Watch_live_Artemis_II_launch" >🔗</a> **[ESA]** Watch live: Artemis II launch
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/03/Artemis_II_let_s_go" >🔗</a> **[ESA]** Artemis II: let's go
 - <a href="https://www.nasa.gov/image-article/godspeed-artemis-ii/" >🔗</a> **[NASA]** Godspeed, Artemis II!
-- <a href="https://www.spacescout.info/2026/03/how-artemis-ii-will-return-astronauts-to-the-moon/" >🔗</a> **[Space Scout]** How Artemis II Will Return Astronauts to the Moon
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260401T124608">2026-04-01 12:46:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260401T132842">2026-04-01 13:28:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
