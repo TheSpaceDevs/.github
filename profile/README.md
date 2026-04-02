@@ -90,6 +90,7 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/optical-terminals-still-a-bottleneck-in-pentagons-proliferated-constellation/" >🔗</a> **[SpaceNews]** Optical terminals still a bottleneck in Pentagon’s proliferated constellation
 - <a href="https://spacenews.com/pentagon-awards-raytheon-45-million-for-gps-ground-system-as-program-future-is-reassessed/" >🔗</a> **[SpaceNews]** Pentagon awards Raytheon $45 million for GPS ground system as program future is reassessed
 - <a href="https://www.nasa.gov/image-article/artemis-ii-astronauts-launch-to-moon/" >🔗</a> **[NASA]** Artemis II Astronauts Launch to Moon
 - <a href="https://spaceflightnow.com/2026/04/02/artemis-2-crew-blasts-off-on-historic-moon-mission/" >🔗</a> **[Spaceflight Now]** Artemis 2 crew blasts off on historic moon mission
@@ -99,7 +100,6 @@ into *a Polar Orbit
 - <a href="https://arstechnica.com/space/2026/04/artemis-ii-is-unlikely-to-be-the-cultural-touchstone-apollo-8-was-and-thats-ok/" >🔗</a> **[Arstechnica]** Artemis II is unlikely to be the cultural touchstone Apollo 8 was, and that's OK
 - <a href="https://spacenews.com/carmel-ortiz-on-the-evolving-landscape-of-satellite-communications/" >🔗</a> **[SpaceNews]** Carmel Ortiz on the evolving landscape of satellite communications
 - <a href="https://spacenews.com/phantom-space-buys-thermal-specialist-to-support-orbital-data-center-push/" >🔗</a> **[SpaceNews]** Phantom Space buys thermal specialist to support orbital data center push
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/04/A_silicon_chip_that_can_do_it_all" >🔗</a> **[ESA]** A silicon chip that can do it all
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260402T194453">2026-04-02 19:44:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260402T200733">2026-04-02 20:07:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
