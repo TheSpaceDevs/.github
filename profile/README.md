@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/liftoff-nasa-launches-astronauts-on-historic-artemis-moon-mission/" >🔗</a> **[NASA]** Liftoff! NASA Launches Astronauts on Historic Artemis Moon Mission
 - <a href="https://spacenews.com/artemis-2-launches-on-first-mission-to-the-moon-in-more-than-50-years/" >🔗</a> **[SpaceNews]** Artemis 2 launches on first human mission to the moon in more than 50 years
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Artemis_II_mission_begins" >🔗</a> **[ESA]** Artemis II mission begins
 - <a href="https://spacenews.com/spacex-quietly-files-for-big-bang-ipo/" >🔗</a> **[SpaceNews]** SpaceX quietly files for big bang IPO
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/saltzman-space-baked-into-modern-combat-operations/" >🔗</a> **[SpaceNews]** Saltzman: Space ‘baked into’ modern combat operations
 - <a href="https://spacenews.com/aspect-aerospace-secures-early-funding-to-advance-swarm-deployable-vleo-satellites/" >🔗</a> **[SpaceNews]** Aspect Aerospace secures early funding to advance swarm-deployable VLEO satellites
 - <a href="https://spacenews.com/creating-near-term-lunar-settlements-lessons-from-space-history/" >🔗</a> **[SpaceNews]** Creating near-term lunar settlements: lessons from space history
-- <a href="https://spacenews.com/artemis-2-fueling-underway/" >🔗</a> **[SpaceNews]** Artemis 2 fueling underway
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260402T000929">2026-04-02 00:09:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260402T005548">2026-04-02 00:55:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
