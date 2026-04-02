@@ -92,9 +92,9 @@ into *a Polar Orbit
 ### Latest News ⌛
 - <a href="https://spacenews.com/phantom-space-buys-thermal-specialist-to-support-orbital-data-center-push/" >🔗</a> **[SpaceNews]** Phantom Space buys thermal specialist to support orbital data center push
 - <a href="https://spacenews.com/relativity-hermeus-astrion-and-divergent-executives-join-fortastra-c-suite/" >🔗</a> **[SpaceNews]** Relativity, Hermeus, Astrion and Divergent executives join Fortastra C-suite
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Juice/Five_things_Juice_has_revealed_about_Comet_3I_ATLAS" >🔗</a> **[ESA]** Five things Juice has revealed about Comet 3I/ATLAS
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/04/A_silicon_chip_that_can_do_it_all" >🔗</a> **[ESA]** A silicon chip that can do it all
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Juice/Five_things_Juice_has_revealed_about_Comet_3I_ATLAS_already" >🔗</a> **[ESA]** Five things Juice has revealed about Comet 3I/ATLAS already
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/04/A_silicon_chip_that_can_do_it_all" >🔗</a> **[ESA]** A silicon chip that can do it all
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Juice/Five_things_Juice_has_revealed_about_Comet_3I_ATLAS" >🔗</a> **[ESA]** Five things Juice has revealed about Comet 3I/ATLAS
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/04/Artemis_II_Journey_to_the_Moon_begins" >🔗</a> **[ESA]** Artemis II: Journey to the Moon begins
 - <a href="https://science.nasa.gov/earth/earth-observatory/reunion-island-lava-reaches-the-sea/" >🔗</a> **[NASA]** Réunion Island Lava Reaches the Sea
 - <a href="https://spacepolicyonline.com/news/first-time-is-the-charm-four-astronauts-headed-to-the-moon/" >🔗</a> **[SpacePolicyOnline.com]** First Time is the Charm! Four Astronauts Headed to the Moon
@@ -109,7 +109,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260402T140237">2026-04-02 14:02:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260402T144606">2026-04-02 14:46:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
