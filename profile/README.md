@@ -90,16 +90,16 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Smile/How_to_follow_the_Smile_launch_live" >🔗</a> **[ESA]** How to follow the Smile launch live
+- <a href="https://spacenews.com/moog-technology-successfully-steers-artemis-ii-launch/" >🔗</a> **[SpaceNews]** Moog Technology Successfully Steers Artemis II Launch
+- <a href="https://arstechnica.com/space/2026/04/artemis-ii-is-unlikely-to-be-the-cultural-touchstone-apollo-8-was-and-thats-ok/" >🔗</a> **[Arstechnica]** Artemis II is unlikely to be the cultural touchstone Apollo 8 was, and that's OK
+- <a href="https://spacenews.com/carmel-ortiz-on-the-evolving-landscape-of-satellite-communications/" >🔗</a> **[SpaceNews]** Carmel Ortiz on the evolving landscape of satellite communications
 - <a href="https://spacenews.com/phantom-space-buys-thermal-specialist-to-support-orbital-data-center-push/" >🔗</a> **[SpaceNews]** Phantom Space buys thermal specialist to support orbital data center push
-- <a href="https://spacenews.com/relativity-hermeus-astrion-and-divergent-executives-join-fortastra-c-suite/" >🔗</a> **[SpaceNews]** Relativity, Hermeus, Astrion and Divergent executives join Fortastra C-suite
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Juice/Five_things_Juice_has_revealed_about_Comet_3I_ATLAS_already" >🔗</a> **[ESA]** Five things Juice has revealed about Comet 3I/ATLAS already
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/04/A_silicon_chip_that_can_do_it_all" >🔗</a> **[ESA]** A silicon chip that can do it all
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Juice/Five_things_Juice_has_revealed_about_Comet_3I_ATLAS" >🔗</a> **[ESA]** Five things Juice has revealed about Comet 3I/ATLAS
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/04/Artemis_II_Journey_to_the_Moon_begins" >🔗</a> **[ESA]** Artemis II: Journey to the Moon begins
-- <a href="https://science.nasa.gov/earth/earth-observatory/reunion-island-lava-reaches-the-sea/" >🔗</a> **[NASA]** Réunion Island Lava Reaches the Sea
-- <a href="https://spacepolicyonline.com/news/first-time-is-the-charm-four-astronauts-headed-to-the-moon/" >🔗</a> **[SpacePolicyOnline.com]** First Time is the Charm! Four Astronauts Headed to the Moon
-- <a href="https://www.nasa.gov/news-release/liftoff-nasa-launches-astronauts-on-historic-artemis-moon-mission/" >🔗</a> **[NASA]** Liftoff! NASA Launches Astronauts on Historic Artemis Moon Mission
-- <a href="https://spacenews.com/artemis-2-launches-on-first-mission-to-the-moon-in-more-than-50-years/" >🔗</a> **[SpaceNews]** Artemis 2 launches on first human mission to the moon in more than 50 years
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Juice/Five_things_Juice_has_revealed_about_Comet_3I_ATLAS_already" >🔗</a> **[ESA]** Five things Juice has revealed about Comet 3I/ATLAS already
+- <a href="https://spacenews.com/relativity-hermeus-astrion-and-divergent-executives-join-fortastra-c-suite/" >🔗</a> **[SpaceNews]** Relativity, Hermeus, Astrion and Divergent executives join Fortastra C-suite
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/04/A_silicon_chip_that_can_do_it_all" >🔗</a> **[ESA]** A silicon chip that can do it all
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/04/Smile_A_global_answer_to_a_global_mystery" >🔗</a> **[ESA]** Smile: A global answer to a global mystery
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260402T144606">2026-04-02 14:46:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260402T151915">2026-04-02 15:19:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
