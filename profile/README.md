@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/04/Artemis_II_Journey_to_the_Moon_begins" >🔗</a> **[ESA]** Artemis II: Journey to the Moon begins
 - <a href="https://science.nasa.gov/earth/earth-observatory/reunion-island-lava-reaches-the-sea/" >🔗</a> **[NASA]** Réunion Island Lava Reaches the Sea
 - <a href="https://spacepolicyonline.com/news/first-time-is-the-charm-four-astronauts-headed-to-the-moon/" >🔗</a> **[SpacePolicyOnline.com]** First Time is the Charm! Four Astronauts Headed to the Moon
 - <a href="https://www.nasa.gov/news-release/liftoff-nasa-launches-astronauts-on-historic-artemis-moon-mission/" >🔗</a> **[NASA]** Liftoff! NASA Launches Astronauts on Historic Artemis Moon Mission
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/teledyne-forms-dedicated-space-unit-to-capture-rising-demand/" >🔗</a> **[SpaceNews]** Teledyne forms dedicated space unit to capture rising demand
 - <a href="https://spacenews.com/artemis-2s-nearly-10-day-flight-around-the-moon/" >🔗</a> **[SpaceNews]** Artemis 2’s (nearly) 10-day flight around the moon
 - <a href="https://spacepolicyonline.com/news/today-still-looking-good-for-artemis-ii-no-fooling/" >🔗</a> **[SpacePolicyOnline.com]** Today Still Looking Good for Artemis II — No Fooling!
-- <a href="https://spacenews.com/saltzman-space-baked-into-modern-combat-operations/" >🔗</a> **[SpaceNews]** Saltzman: Space ‘baked into’ modern combat operations
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260402T063822">2026-04-02 06:38:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260402T072702">2026-04-02 07:27:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
