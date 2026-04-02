@@ -90,6 +90,7 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/pentagon-awards-raytheon-45-million-for-gps-ground-system-as-program-future-is-reassessed/" >🔗</a> **[SpaceNews]** Pentagon awards Raytheon $45 million for GPS ground system as program future is reassessed
 - <a href="https://www.nasa.gov/image-article/artemis-ii-astronauts-launch-to-moon/" >🔗</a> **[NASA]** Artemis II Astronauts Launch to Moon
 - <a href="https://spaceflightnow.com/2026/04/02/artemis-2-crew-blasts-off-on-historic-moon-mission/" >🔗</a> **[Spaceflight Now]** Artemis 2 crew blasts off on historic moon mission
 - <a href="https://www.spacescout.info/2026/04/artemis-ii-rises/" >🔗</a> **[Space Scout]** Artemis II Rises
@@ -99,7 +100,6 @@ into *a Polar Orbit
 - <a href="https://spacenews.com/carmel-ortiz-on-the-evolving-landscape-of-satellite-communications/" >🔗</a> **[SpaceNews]** Carmel Ortiz on the evolving landscape of satellite communications
 - <a href="https://spacenews.com/phantom-space-buys-thermal-specialist-to-support-orbital-data-center-push/" >🔗</a> **[SpaceNews]** Phantom Space buys thermal specialist to support orbital data center push
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/04/A_silicon_chip_that_can_do_it_all" >🔗</a> **[ESA]** A silicon chip that can do it all
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Juice/Five_things_Juice_has_revealed_about_Comet_3I_ATLAS" >🔗</a> **[ESA]** Five things Juice has revealed about Comet 3I/ATLAS
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260402T171434">2026-04-02 17:14:34 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260402T174445">2026-04-02 17:44:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
