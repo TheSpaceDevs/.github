@@ -90,6 +90,7 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/swift-spacecraft-reorientation-buys-time-for-reboost-mission/" >🔗</a> **[SpaceNews]** Swift spacecraft reorientation buys time for reboost mission
 - <a href="https://spacenews.com/former-sierra-space-ceo-tom-vice-to-lead-astrion/" >🔗</a> **[SpaceNews]** Former Sierra Space CEO Tom Vice to lead Astrion
 - <a href="https://spacenews.com/optical-terminals-still-a-bottleneck-in-pentagons-proliferated-constellation/" >🔗</a> **[SpaceNews]** Optical terminals still a bottleneck in Pentagon’s proliferated constellation
 - <a href="https://spacenews.com/pentagon-awards-raytheon-45-million-for-gps-ground-system-as-program-future-is-reassessed/" >🔗</a> **[SpaceNews]** Pentagon awards Raytheon $45 million for GPS ground system as program future is reassessed
@@ -99,7 +100,6 @@ into *a Polar Orbit
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Smile/How_to_follow_the_Smile_launch_live" >🔗</a> **[ESA]** How to follow the Smile launch live
 - <a href="https://spacenews.com/moog-technology-successfully-steers-artemis-ii-launch/" >🔗</a> **[SpaceNews]** Moog Technology Successfully Steers Artemis II Launch
 - <a href="https://arstechnica.com/space/2026/04/artemis-ii-is-unlikely-to-be-the-cultural-touchstone-apollo-8-was-and-thats-ok/" >🔗</a> **[Arstechnica]** Artemis II is unlikely to be the cultural touchstone Apollo 8 was, and that's OK
-- <a href="https://spacenews.com/carmel-ortiz-on-the-evolving-landscape-of-satellite-communications/" >🔗</a> **[SpaceNews]** Carmel Ortiz on the evolving landscape of satellite communications
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260402T230620">2026-04-02 23:06:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260402T234217">2026-04-02 23:42:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
