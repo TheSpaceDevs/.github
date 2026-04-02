@@ -90,16 +90,16 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/phantom-space-buys-thermal-specialist-to-support-orbital-data-center-push/" >🔗</a> **[SpaceNews]** Phantom Space buys thermal specialist to support orbital data center push
+- <a href="https://spacenews.com/relativity-hermeus-astrion-and-divergent-executives-join-fortastra-c-suite/" >🔗</a> **[SpaceNews]** Relativity, Hermeus, Astrion and Divergent executives join Fortastra C-suite
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Juice/Five_things_Juice_has_revealed_about_Comet_3I_ATLAS" >🔗</a> **[ESA]** Five things Juice has revealed about Comet 3I/ATLAS
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/04/A_silicon_chip_that_can_do_it_all" >🔗</a> **[ESA]** A silicon chip that can do it all
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Juice/Five_things_Juice_has_revealed_about_Comet_3I_ATLAS_already" >🔗</a> **[ESA]** Five things Juice has revealed about Comet 3I/ATLAS already
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/04/Artemis_II_Journey_to_the_Moon_begins" >🔗</a> **[ESA]** Artemis II: Journey to the Moon begins
 - <a href="https://science.nasa.gov/earth/earth-observatory/reunion-island-lava-reaches-the-sea/" >🔗</a> **[NASA]** Réunion Island Lava Reaches the Sea
 - <a href="https://spacepolicyonline.com/news/first-time-is-the-charm-four-astronauts-headed-to-the-moon/" >🔗</a> **[SpacePolicyOnline.com]** First Time is the Charm! Four Astronauts Headed to the Moon
 - <a href="https://www.nasa.gov/news-release/liftoff-nasa-launches-astronauts-on-historic-artemis-moon-mission/" >🔗</a> **[NASA]** Liftoff! NASA Launches Astronauts on Historic Artemis Moon Mission
 - <a href="https://spacenews.com/artemis-2-launches-on-first-mission-to-the-moon-in-more-than-50-years/" >🔗</a> **[SpaceNews]** Artemis 2 launches on first human mission to the moon in more than 50 years
-- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Artemis_II_mission_begins" >🔗</a> **[ESA]** Artemis II mission begins
-- <a href="https://spacenews.com/spacex-quietly-files-for-big-bang-ipo/" >🔗</a> **[SpaceNews]** SpaceX quietly files for big bang IPO
-- <a href="https://spacenews.com/teledyne-forms-dedicated-space-unit-to-capture-rising-demand/" >🔗</a> **[SpaceNews]** Teledyne forms dedicated space unit to capture rising demand
-- <a href="https://spacenews.com/artemis-2s-nearly-10-day-flight-around-the-moon/" >🔗</a> **[SpaceNews]** Artemis 2’s (nearly) 10-day flight around the moon
-- <a href="https://spacepolicyonline.com/news/today-still-looking-good-for-artemis-ii-no-fooling/" >🔗</a> **[SpacePolicyOnline.com]** Today Still Looking Good for Artemis II — No Fooling!
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260402T124539">2026-04-02 12:45:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260402T132823">2026-04-02 13:28:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
