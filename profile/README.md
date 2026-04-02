@@ -90,16 +90,16 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/04/02/artemis-2-crew-blasts-off-on-historic-moon-mission/" >🔗</a> **[Spaceflight Now]** Artemis 2 crew blasts off on historic moon mission
+- <a href="https://www.spacescout.info/2026/04/artemis-ii-rises/" >🔗</a> **[Space Scout]** Artemis II Rises
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Smile/How_to_follow_the_Smile_launch_live" >🔗</a> **[ESA]** How to follow the Smile launch live
 - <a href="https://spacenews.com/moog-technology-successfully-steers-artemis-ii-launch/" >🔗</a> **[SpaceNews]** Moog Technology Successfully Steers Artemis II Launch
 - <a href="https://arstechnica.com/space/2026/04/artemis-ii-is-unlikely-to-be-the-cultural-touchstone-apollo-8-was-and-thats-ok/" >🔗</a> **[Arstechnica]** Artemis II is unlikely to be the cultural touchstone Apollo 8 was, and that's OK
 - <a href="https://spacenews.com/carmel-ortiz-on-the-evolving-landscape-of-satellite-communications/" >🔗</a> **[SpaceNews]** Carmel Ortiz on the evolving landscape of satellite communications
 - <a href="https://spacenews.com/phantom-space-buys-thermal-specialist-to-support-orbital-data-center-push/" >🔗</a> **[SpaceNews]** Phantom Space buys thermal specialist to support orbital data center push
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/04/A_silicon_chip_that_can_do_it_all" >🔗</a> **[ESA]** A silicon chip that can do it all
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Juice/Five_things_Juice_has_revealed_about_Comet_3I_ATLAS" >🔗</a> **[ESA]** Five things Juice has revealed about Comet 3I/ATLAS
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Juice/Five_things_Juice_has_revealed_about_Comet_3I_ATLAS_already" >🔗</a> **[ESA]** Five things Juice has revealed about Comet 3I/ATLAS already
-- <a href="https://spacenews.com/relativity-hermeus-astrion-and-divergent-executives-join-fortastra-c-suite/" >🔗</a> **[SpaceNews]** Relativity, Hermeus, Astrion and Divergent executives join Fortastra C-suite
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/04/A_silicon_chip_that_can_do_it_all" >🔗</a> **[ESA]** A silicon chip that can do it all
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/04/Smile_A_global_answer_to_a_global_mystery" >🔗</a> **[ESA]** Smile: A global answer to a global mystery
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260402T154611">2026-04-02 15:46:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260402T161617">2026-04-02 16:16:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
