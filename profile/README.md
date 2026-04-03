@@ -92,7 +92,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/trump-fy2027-budget-supports-moon-missions-but-cuts-everything-else/" >🔗</a> **[SpacePolicyOnline.com]** Trump FY2027 Budget Supports Moon Missions, But Cuts Everything Else
 - <a href="https://www.nasa.gov/image-article/hello-world/" >🔗</a> **[NASA]** Hello, World
+- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_30_March_-_03_April_2026" >🔗</a> **[ESA]** Week in images: 30 March - 03 April 2026
 - <a href="https://spacenews.com/spacex-and-amazon-spar-over-satellite-deployments/" >🔗</a> **[SpaceNews]** SpaceX and Amazon spar over satellite deployments
 - <a href="https://spacenews.com/europes-strategic-autonomy-in-space-will-define-its-role-in-the-second-space-age/" >🔗</a> **[SpaceNews]** Europe’s strategic autonomy in space will define its role in the ‘second space age’
 - <a href="https://spacenews.com/chinas-commercial-tianlong-3-rocket-fails-on-debut-launch/" >🔗</a> **[SpaceNews]** China’s commercial Tianlong-3 rocket fails on debut launch
@@ -100,8 +102,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/04/Earth_from_Space_Eyes_on_our_Moon" >🔗</a> **[ESA]** Earth from Space: Eyes on our Moon
 - <a href="https://europeanspaceflight.com/spacex-files-fcc-complaint-over-ariane-64-amazon-leo-launch/" >🔗</a> **[European Spaceflight]** SpaceX Files FCC Complaint Over Ariane 64 Amazon LEO Launch
 - <a href="https://science.nasa.gov/earth/earth-observatory/barents-sea-tied-to-low-arctic-sea-ice/" >🔗</a> **[NASA]** Barents Sea Tied to Low Arctic Sea Ice
-- <a href="https://www.nasaspaceflight.com/2026/04/artemis-ii-orion-performs-tli-headed-moon/" >🔗</a> **[NASASpaceflight]** Artemis II Orion performs TLI Burn — Now headed to the Moon
-- <a href="https://www.nasa.gov/news-release/nasas-artemis-ii-mission-leaves-earth-orbit-for-flight-around-moon/" >🔗</a> **[NASA]** NASA’s Artemis II Mission Leaves Earth Orbit for Flight around Moon
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260403T144331">2026-04-03 14:43:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260403T151227">2026-04-03 15:12:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
