@@ -92,6 +92,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacescout.info/2026/04/artemis-ii-sets-course-for-moon/" >🔗</a> **[Space Scout]** Artemis II Sets Course for Moon
+- <a href="https://spacenews.com/white-house-again-proposes-steep-nasa-budget-cuts/" >🔗</a> **[SpaceNews]** White House again proposes steep NASA budget cuts
 - <a href="https://spacepolicyonline.com/news/trump-fy2027-budget-supports-moon-missions-but-cuts-everything-else/" >🔗</a> **[SpacePolicyOnline.com]** Trump FY2027 Budget Supports Moon Missions, But Cuts Everything Else
 - <a href="https://www.nasa.gov/image-article/hello-world/" >🔗</a> **[NASA]** Hello, World
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_30_March_-_03_April_2026" >🔗</a> **[ESA]** Week in images: 30 March - 03 April 2026
@@ -100,8 +102,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/chinas-commercial-tianlong-3-rocket-fails-on-debut-launch/" >🔗</a> **[SpaceNews]** China’s commercial Tianlong-3 rocket fails on debut launch
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/04/A_pair_of_planet-forming_discs" >🔗</a> **[ESA]** A pair of planet-forming discs
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/04/Earth_from_Space_Eyes_on_our_Moon" >🔗</a> **[ESA]** Earth from Space: Eyes on our Moon
-- <a href="https://europeanspaceflight.com/spacex-files-fcc-complaint-over-ariane-64-amazon-leo-launch/" >🔗</a> **[European Spaceflight]** SpaceX Files FCC Complaint Over Ariane 64 Amazon LEO Launch
-- <a href="https://science.nasa.gov/earth/earth-observatory/barents-sea-tied-to-low-arctic-sea-ice/" >🔗</a> **[NASA]** Barents Sea Tied to Low Arctic Sea Ice
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260403T151227">2026-04-03 15:12:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260403T154255">2026-04-03 15:42:55 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
