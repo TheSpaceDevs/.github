@@ -90,6 +90,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/04/A_pair_of_planet-forming_discs" >🔗</a> **[ESA]** A pair of planet-forming discs
 - <a href="https://science.nasa.gov/earth/earth-observatory/barents-sea-tied-to-low-arctic-sea-ice/" >🔗</a> **[NASA]** Barents Sea Tied to Low Arctic Sea Ice
 - <a href="https://www.nasaspaceflight.com/2026/04/artemis-ii-orion-performs-tli-headed-moon/" >🔗</a> **[NASASpaceflight]** Artemis II Orion performs TLI Burn — Now headed to the Moon
 - <a href="https://www.nasa.gov/news-release/nasas-artemis-ii-mission-leaves-earth-orbit-for-flight-around-moon/" >🔗</a> **[NASA]** NASA’s Artemis II Mission Leaves Earth Orbit for Flight around Moon
@@ -99,7 +100,6 @@ into *a Suborbital
 - <a href="https://spacenews.com/swift-spacecraft-reorientation-buys-time-for-reboost-mission/" >🔗</a> **[SpaceNews]** Swift spacecraft reorientation buys time for reboost mission
 - <a href="https://spacenews.com/former-sierra-space-ceo-tom-vice-to-lead-astrion/" >🔗</a> **[SpaceNews]** Former Sierra Space CEO Tom Vice to lead Astrion
 - <a href="https://spacenews.com/optical-terminals-still-a-bottleneck-in-pentagons-proliferated-constellation/" >🔗</a> **[SpaceNews]** Optical terminals still a bottleneck in Pentagon’s proliferated constellation
-- <a href="https://spacenews.com/pentagon-awards-raytheon-45-million-for-gps-ground-system-as-program-future-is-reassessed/" >🔗</a> **[SpaceNews]** Pentagon awards Raytheon $45 million for GPS ground system as program future is reassessed
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260403T074918">2026-04-03 07:49:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260403T081337">2026-04-03 08:13:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
