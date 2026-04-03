@@ -92,6 +92,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/italys-argotec-plans-to-scale-florida-satellite-facility-to-meet-rising-us-demand/" >🔗</a> **[SpaceNews]** Italy’s Argotec plans to scale Florida satellite facility to meet rising US demand
 - <a href="https://www.nasa.gov/image-article/virgil-i-gus-grissom/" >🔗</a> **[NASA]** Virgil I. “Gus” Grissom
 - <a href="https://www.spacescout.info/2026/04/artemis-ii-sets-course-for-moon/" >🔗</a> **[Space Scout]** Artemis II Sets Course for Moon
 - <a href="https://spacenews.com/white-house-again-proposes-steep-nasa-budget-cuts/" >🔗</a> **[SpaceNews]** White House again proposes steep NASA budget cuts
@@ -101,7 +102,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/spacex-and-amazon-spar-over-satellite-deployments/" >🔗</a> **[SpaceNews]** SpaceX and Amazon spar over satellite deployments
 - <a href="https://spacenews.com/europes-strategic-autonomy-in-space-will-define-its-role-in-the-second-space-age/" >🔗</a> **[SpaceNews]** Europe’s strategic autonomy in space will define its role in the ‘second space age’
 - <a href="https://spacenews.com/chinas-commercial-tianlong-3-rocket-fails-on-debut-launch/" >🔗</a> **[SpaceNews]** China’s commercial Tianlong-3 rocket fails on debut launch
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/04/A_pair_of_planet-forming_discs" >🔗</a> **[ESA]** A pair of planet-forming discs
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260403T170813">2026-04-03 17:08:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260403T174214">2026-04-03 17:42:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
