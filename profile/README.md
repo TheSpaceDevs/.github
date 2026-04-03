@@ -90,7 +90,9 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/04/Earth_from_Space_Eyes_on_our_Moon" >🔗</a> **[ESA]** Earth from Space: Eyes on our Moon
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/04/A_pair_of_planet-forming_discs" >🔗</a> **[ESA]** A pair of planet-forming discs
+- <a href="https://europeanspaceflight.com/spacex-files-fcc-complaint-over-ariane-64-amazon-leo-launch/" >🔗</a> **[European Spaceflight]** SpaceX Files FCC Complaint Over Ariane 64 Amazon LEO Launch
 - <a href="https://science.nasa.gov/earth/earth-observatory/barents-sea-tied-to-low-arctic-sea-ice/" >🔗</a> **[NASA]** Barents Sea Tied to Low Arctic Sea Ice
 - <a href="https://www.nasaspaceflight.com/2026/04/artemis-ii-orion-performs-tli-headed-moon/" >🔗</a> **[NASASpaceflight]** Artemis II Orion performs TLI Burn — Now headed to the Moon
 - <a href="https://www.nasa.gov/news-release/nasas-artemis-ii-mission-leaves-earth-orbit-for-flight-around-moon/" >🔗</a> **[NASA]** NASA’s Artemis II Mission Leaves Earth Orbit for Flight around Moon
@@ -98,8 +100,6 @@ into *a Suborbital
 - <a href="https://arstechnica.com/space/2026/04/four-astronauts-are-now-inexorably-bound-for-the-moon/" >🔗</a> **[Arstechnica]** Four astronauts are now inexorably bound for the Moon
 - <a href="https://spacepolicyonline.com/news/four-astronauts-headed-to-moon-after-successful-tli-burn/" >🔗</a> **[SpacePolicyOnline.com]** Four Astronauts Headed to Moon After Successful TLI Burn
 - <a href="https://spacenews.com/swift-spacecraft-reorientation-buys-time-for-reboost-mission/" >🔗</a> **[SpaceNews]** Swift spacecraft reorientation buys time for reboost mission
-- <a href="https://spacenews.com/former-sierra-space-ceo-tom-vice-to-lead-astrion/" >🔗</a> **[SpaceNews]** Former Sierra Space CEO Tom Vice to lead Astrion
-- <a href="https://spacenews.com/optical-terminals-still-a-bottleneck-in-pentagons-proliferated-constellation/" >🔗</a> **[SpaceNews]** Optical terminals still a bottleneck in Pentagon’s proliferated constellation
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260403T081337">2026-04-03 08:13:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260403T084519">2026-04-03 08:45:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
