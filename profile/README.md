@@ -90,16 +90,16 @@ into *a Polar Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasas-artemis-ii-mission-leaves-earth-orbit-for-flight-around-moon/" >🔗</a> **[NASA]** NASA’s Artemis II Mission Leaves Earth Orbit for Flight around Moon
+- <a href="https://spacenews.com/artemis-2-heads-to-the-moon/" >🔗</a> **[SpaceNews]** Artemis 2 heads to the moon
+- <a href="https://arstechnica.com/space/2026/04/four-astronauts-are-now-inexorably-bound-for-the-moon/" >🔗</a> **[Arstechnica]** Four astronauts are now inexorably bound for the Moon
+- <a href="https://spacepolicyonline.com/news/four-astronauts-headed-to-moon-after-successful-tli-burn/" >🔗</a> **[SpacePolicyOnline.com]** Four Astronauts Headed to Moon After Successful TLI Burn
 - <a href="https://spacenews.com/swift-spacecraft-reorientation-buys-time-for-reboost-mission/" >🔗</a> **[SpaceNews]** Swift spacecraft reorientation buys time for reboost mission
 - <a href="https://spacenews.com/former-sierra-space-ceo-tom-vice-to-lead-astrion/" >🔗</a> **[SpaceNews]** Former Sierra Space CEO Tom Vice to lead Astrion
 - <a href="https://spacenews.com/optical-terminals-still-a-bottleneck-in-pentagons-proliferated-constellation/" >🔗</a> **[SpaceNews]** Optical terminals still a bottleneck in Pentagon’s proliferated constellation
 - <a href="https://spacenews.com/pentagon-awards-raytheon-45-million-for-gps-ground-system-as-program-future-is-reassessed/" >🔗</a> **[SpaceNews]** Pentagon awards Raytheon $45 million for GPS ground system as program future is reassessed
 - <a href="https://www.nasa.gov/image-article/artemis-ii-astronauts-launch-to-moon/" >🔗</a> **[NASA]** Artemis II Astronauts Launch to Moon
 - <a href="https://spaceflightnow.com/2026/04/02/artemis-2-crew-blasts-off-on-historic-moon-mission/" >🔗</a> **[Spaceflight Now]** Artemis 2 crew blasts off on historic moon mission
-- <a href="https://www.spacescout.info/2026/04/artemis-ii-rises/" >🔗</a> **[Space Scout]** Artemis II Rises
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Smile/How_to_follow_the_Smile_launch_live" >🔗</a> **[ESA]** How to follow the Smile launch live
-- <a href="https://spacenews.com/moog-technology-successfully-steers-artemis-ii-launch/" >🔗</a> **[SpaceNews]** Moog Technology Successfully Steers Artemis II Launch
-- <a href="https://arstechnica.com/space/2026/04/artemis-ii-is-unlikely-to-be-the-cultural-touchstone-apollo-8-was-and-thats-ok/" >🔗</a> **[Arstechnica]** Artemis II is unlikely to be the cultural touchstone Apollo 8 was, and that's OK
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Polar Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260403T014022">2026-04-03 01:40:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260403T025847">2026-04-03 02:58:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
