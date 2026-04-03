@@ -92,6 +92,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/virgil-i-gus-grissom/" >🔗</a> **[NASA]** Virgil I. “Gus” Grissom
 - <a href="https://www.spacescout.info/2026/04/artemis-ii-sets-course-for-moon/" >🔗</a> **[Space Scout]** Artemis II Sets Course for Moon
 - <a href="https://spacenews.com/white-house-again-proposes-steep-nasa-budget-cuts/" >🔗</a> **[SpaceNews]** White House again proposes steep NASA budget cuts
 - <a href="https://spacepolicyonline.com/news/trump-fy2027-budget-supports-moon-missions-but-cuts-everything-else/" >🔗</a> **[SpacePolicyOnline.com]** Trump FY2027 Budget Supports Moon Missions, But Cuts Everything Else
@@ -101,7 +102,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/europes-strategic-autonomy-in-space-will-define-its-role-in-the-second-space-age/" >🔗</a> **[SpaceNews]** Europe’s strategic autonomy in space will define its role in the ‘second space age’
 - <a href="https://spacenews.com/chinas-commercial-tianlong-3-rocket-fails-on-debut-launch/" >🔗</a> **[SpaceNews]** China’s commercial Tianlong-3 rocket fails on debut launch
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/04/A_pair_of_planet-forming_discs" >🔗</a> **[ESA]** A pair of planet-forming discs
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/04/Earth_from_Space_Eyes_on_our_Moon" >🔗</a> **[ESA]** Earth from Space: Eyes on our Moon
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260403T160839">2026-04-03 16:08:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260403T164321">2026-04-03 16:43:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
