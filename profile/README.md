@@ -48,6 +48,7 @@ into *a Low Earth Orbit
 
 ### Within a month's time 📅
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260404T054500">2026-04-04 05:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 551 | Amazon Leo (LA-05)&location=Cape Canaveral SFS, FL, USA&dates=20260404T054500Z%2F20260404T061400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 551 | Amazon Leo (LA-05)** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260404T110000">2026-04-04 11:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz-5 | Demo Flight&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20260404T110000Z%2F20260404T110000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz-5 | Demo Flight** from Baikonur Cosmodrome, Republic of Kazakhstan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260405T230300">2026-04-05 23:03:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-35&location=Vandenberg SFB, CA, USA&dates=20260405T230300Z%2F20260406T030300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-35** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260407T132400">2026-04-07 13:24:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 8 | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20260407T132400Z%2F20260407T134700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 8 | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260408T125100">2026-04-08 12:51:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Cygnus CRS-2 NG-24&location=Cape Canaveral SFS, FL, USA&dates=20260408T125100Z%2F20260408T125100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Cygnus CRS-2 NG-24** from Cape Canaveral SFS, FL, USA.
@@ -56,7 +57,6 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260410T023900">2026-04-10 02:39:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-21&location=Vandenberg SFB, CA, USA&dates=20260410T023900Z%2F20260410T063900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-21** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260412T065700">2026-04-12 06:57:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-24&location=Cape Canaveral SFS, FL, USA&dates=20260412T065700Z%2F20260412T105700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-24** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260412T104500">2026-04-12 10:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Glenn | BlueBird Block 2 #2&location=Cape Canaveral SFS, FL, USA&dates=20260412T104500Z%2F20260412T134300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Glenn | BlueBird Block 2 #2** from Cape Canaveral SFS, FL, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260414T020000">2026-04-14 02:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-27&location=Vandenberg SFB, CA, USA&dates=20260414T020000Z%2F20260414T060000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-27** from Vandenberg SFB, CA, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -92,6 +92,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/spacex-and-amazon-spar-over-satellite-deployments/" >🔗</a> **[SpaceNews]** SpaceX and Amazon spar over satellite deployments
 - <a href="https://spacenews.com/europes-strategic-autonomy-in-space-will-define-its-role-in-the-second-space-age/" >🔗</a> **[SpaceNews]** Europe’s strategic autonomy in space will define its role in the ‘second space age’
 - <a href="https://spacenews.com/chinas-commercial-tianlong-3-rocket-fails-on-debut-launch/" >🔗</a> **[SpaceNews]** China’s commercial Tianlong-3 rocket fails on debut launch
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/04/A_pair_of_planet-forming_discs" >🔗</a> **[ESA]** A pair of planet-forming discs
@@ -101,7 +102,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2026/04/artemis-ii-orion-performs-tli-headed-moon/" >🔗</a> **[NASASpaceflight]** Artemis II Orion performs TLI Burn — Now headed to the Moon
 - <a href="https://www.nasa.gov/news-release/nasas-artemis-ii-mission-leaves-earth-orbit-for-flight-around-moon/" >🔗</a> **[NASA]** NASA’s Artemis II Mission Leaves Earth Orbit for Flight around Moon
 - <a href="https://spacenews.com/artemis-2-heads-to-the-moon/" >🔗</a> **[SpaceNews]** Artemis 2 heads to the moon
-- <a href="https://arstechnica.com/space/2026/04/four-astronauts-are-now-inexorably-bound-for-the-moon/" >🔗</a> **[Arstechnica]** Four astronauts are now inexorably bound for the Moon
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260403T120742">2026-04-03 12:07:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260403T124520">2026-04-03 12:45:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
