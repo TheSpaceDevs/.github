@@ -92,6 +92,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2026/04/as-artemis-ii-zooms-to-the-moon-everything-seems-to-be-going-swimmingly/" >🔗</a> **[Arstechnica]** As Artemis II zooms to the Moon, everything seems to be going swimmingly
+- <a href="https://spaceflightnow.com/2026/04/03/live-coverage-ulas-atlas-5-rocket-to-launch-its-heaviest-payload-ever-with-next-amazon-leo-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: ULA’s Atlas 5 rocket to launch its heaviest payload ever with next Amazon Leo mission
+- <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grummans-crs-24-resupply-launch/" >🔗</a> **[NASA]** NASA Sets Coverage for Northrop Grumman’s CRS-24 Resupply Launch
 - <a href="https://science.nasa.gov/missions/artemis/meet-nasas-new-artemis-ii-science-officers/" >🔗</a> **[NASA]** Meet NASA’s New Artemis II Science Officers
 - <a href="https://spacenews.com/italys-argotec-plans-to-scale-florida-satellite-facility-to-meet-rising-us-demand/" >🔗</a> **[SpaceNews]** Italy’s Argotec plans to scale Florida satellite facility to meet rising US demand
 - <a href="https://www.nasa.gov/image-article/virgil-i-gus-grissom/" >🔗</a> **[NASA]** Virgil I. “Gus” Grissom
@@ -99,9 +102,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/white-house-again-proposes-steep-nasa-budget-cuts/" >🔗</a> **[SpaceNews]** White House again proposes steep NASA budget cuts
 - <a href="https://spacepolicyonline.com/news/trump-fy2027-budget-supports-moon-missions-but-cuts-everything-else/" >🔗</a> **[SpacePolicyOnline.com]** Trump FY2027 Budget Supports Moon Missions, But Cuts Everything Else
 - <a href="https://www.nasa.gov/image-article/hello-world/" >🔗</a> **[NASA]** Hello, World
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_30_March_-_03_April_2026" >🔗</a> **[ESA]** Week in images: 30 March - 03 April 2026
-- <a href="https://spacenews.com/spacex-and-amazon-spar-over-satellite-deployments/" >🔗</a> **[SpaceNews]** SpaceX and Amazon spar over satellite deployments
-- <a href="https://spacenews.com/europes-strategic-autonomy-in-space-will-define-its-role-in-the-second-space-age/" >🔗</a> **[SpaceNews]** Europe’s strategic autonomy in space will define its role in the ‘second space age’
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260403T220500">2026-04-03 22:05:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260403T224213">2026-04-03 22:42:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
