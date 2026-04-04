@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/illuminated-in-orion/" >🔗</a> **[NASA]** Illuminated in Orion
 - <a href="https://spacepolicyonline.com/news/smooth-sailing-for-artemis-crew-so-far/" >🔗</a> **[SpacePolicyOnline.com]** Smooth Sailing for Artemis Crew So Far
 - <a href="https://spacenews.com/artemis-2-in-good-shape-cruising-towards-the-moon/" >🔗</a> **[SpaceNews]** Artemis 2 in good shape cruising towards the moon
 - <a href="https://arstechnica.com/space/2026/04/as-artemis-ii-zooms-to-the-moon-everything-seems-to-be-going-swimmingly/" >🔗</a> **[Arstechnica]** As Artemis II zooms to the Moon, everything seems to be going swimmingly
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/italys-argotec-plans-to-scale-florida-satellite-facility-to-meet-rising-us-demand/" >🔗</a> **[SpaceNews]** Italy’s Argotec plans to scale Florida satellite facility to meet rising US demand
 - <a href="https://www.nasa.gov/image-article/virgil-i-gus-grissom/" >🔗</a> **[NASA]** Virgil I. “Gus” Grissom
 - <a href="https://www.spacescout.info/2026/04/artemis-ii-sets-course-for-moon/" >🔗</a> **[Space Scout]** Artemis II Sets Course for Moon
-- <a href="https://spacenews.com/white-house-again-proposes-steep-nasa-budget-cuts/" >🔗</a> **[SpaceNews]** White House again proposes steep NASA budget cuts
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260404T150551">2026-04-04 15:05:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260404T154114">2026-04-04 15:41:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
