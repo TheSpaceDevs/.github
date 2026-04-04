@@ -92,6 +92,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/artemis-2-in-good-shape-cruising-towards-the-moon/" >🔗</a> **[SpaceNews]** Artemis 2 in good shape cruising towards the moon
 - <a href="https://arstechnica.com/space/2026/04/as-artemis-ii-zooms-to-the-moon-everything-seems-to-be-going-swimmingly/" >🔗</a> **[Arstechnica]** As Artemis II zooms to the Moon, everything seems to be going swimmingly
 - <a href="https://spaceflightnow.com/2026/04/03/live-coverage-ulas-atlas-5-rocket-to-launch-its-heaviest-payload-ever-with-next-amazon-leo-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: ULA’s Atlas 5 rocket to launch its heaviest payload ever with next Amazon Leo mission
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grummans-crs-24-resupply-launch/" >🔗</a> **[NASA]** NASA Sets Coverage for Northrop Grumman’s CRS-24 Resupply Launch
@@ -101,7 +102,6 @@ into *a Low Earth Orbit
 - <a href="https://www.spacescout.info/2026/04/artemis-ii-sets-course-for-moon/" >🔗</a> **[Space Scout]** Artemis II Sets Course for Moon
 - <a href="https://spacenews.com/white-house-again-proposes-steep-nasa-budget-cuts/" >🔗</a> **[SpaceNews]** White House again proposes steep NASA budget cuts
 - <a href="https://spacepolicyonline.com/news/trump-fy2027-budget-supports-moon-missions-but-cuts-everything-else/" >🔗</a> **[SpacePolicyOnline.com]** Trump FY2027 Budget Supports Moon Missions, But Cuts Everything Else
-- <a href="https://www.nasa.gov/image-article/hello-world/" >🔗</a> **[NASA]** Hello, World
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260404T005433">2026-04-04 00:54:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260404T013048">2026-04-04 01:30:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
