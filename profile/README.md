@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/atlas-5-launches-amazon-leo-satellites/" >🔗</a> **[SpaceNews]** Atlas 5 launches Amazon Leo satellites
+- <a href="https://www.nasa.gov/missions/nasa-answers-your-most-pressing-artemis-ii-questions/" >🔗</a> **[NASA]** NASA Answers Your Most Pressing Artemis II Questions
 - <a href="https://spacenews.com/space-force-budget-would-more-than-double-in-trumps-1-5-trillion-defense-plan/" >🔗</a> **[SpaceNews]** Space Force budget would more than double in Trump’s $1.5 trillion defense plan
 - <a href="https://www.nasa.gov/image-article/illuminated-in-orion/" >🔗</a> **[NASA]** Illuminated in Orion
 - <a href="https://spacepolicyonline.com/news/smooth-sailing-for-artemis-crew-so-far/" >🔗</a> **[SpacePolicyOnline.com]** Smooth Sailing for Artemis Crew So Far
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2026/04/03/live-coverage-ulas-atlas-5-rocket-to-launch-its-heaviest-payload-ever-with-next-amazon-leo-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: ULA’s Atlas 5 rocket to launch its heaviest payload ever with next Amazon Leo mission
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grummans-crs-24-resupply-launch/" >🔗</a> **[NASA]** NASA Sets Coverage for Northrop Grumman’s CRS-24 Resupply Launch
 - <a href="https://science.nasa.gov/missions/artemis/meet-nasas-new-artemis-ii-science-officers/" >🔗</a> **[NASA]** Meet NASA’s New Artemis II Science Officers
-- <a href="https://spacenews.com/italys-argotec-plans-to-scale-florida-satellite-facility-to-meet-rising-us-demand/" >🔗</a> **[SpaceNews]** Italy’s Argotec plans to scale Florida satellite facility to meet rising US demand
-- <a href="https://www.nasa.gov/image-article/virgil-i-gus-grissom/" >🔗</a> **[NASA]** Virgil I. “Gus” Grissom
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260404T200342">2026-04-04 20:03:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260404T204216">2026-04-04 20:42:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
