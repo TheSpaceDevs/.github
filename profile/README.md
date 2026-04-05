@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/isaacman-defends-nasa-budget-proposal-despite-steep-cuts/" >🔗</a> **[SpaceNews]** Isaacman defends NASA budget proposal despite steep cuts
 - <a href="https://spacenews.com/nasa-stops-work-on-sls-mobile-launcher-2/" >🔗</a> **[SpaceNews]** NASA stops work on SLS Mobile Launcher 2
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-april-5-11-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy April 5-11, 2026
 - <a href="https://www.nasa.gov/image-article/thinking-of-you-earth/" >🔗</a> **[NASA]** Thinking of You, Earth
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/atlas-5-launches-amazon-leo-satellites/" >🔗</a> **[SpaceNews]** Atlas 5 launches Amazon Leo satellites
 - <a href="https://www.nasa.gov/missions/nasa-answers-your-most-pressing-artemis-ii-questions/" >🔗</a> **[NASA]** NASA Answers Your Most Pressing Artemis II Questions
 - <a href="https://spacenews.com/space-force-budget-would-more-than-double-in-trumps-1-5-trillion-defense-plan/" >🔗</a> **[SpaceNews]** Space Force budget would more than double in Trump’s $1.5 trillion defense plan
-- <a href="https://www.nasa.gov/image-article/illuminated-in-orion/" >🔗</a> **[NASA]** Illuminated in Orion
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260405T220354">2026-04-05 22:03:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260405T224145">2026-04-05 22:41:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
