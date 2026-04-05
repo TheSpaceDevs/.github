@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/thinking-of-you-earth/" >🔗</a> **[NASA]** Thinking of You, Earth
 - <a href="https://spacenews.com/nasa-finalizes-science-plans-for-artemis-2-lunar-flyby/" >🔗</a> **[SpaceNews]** NASA finalizes science plans for Artemis 2 lunar flyby
 - <a href="https://arstechnica.com/space/2026/04/artemis-ii-is-going-so-well-that-were-left-to-talk-about-frozen-urine/" >🔗</a> **[Arstechnica]** Artemis II is going so well that we're left to talk about frozen urine
 - <a href="https://www.nasaspaceflight.com/2026/04/orion-toward-lunar-flyby-artemis-ii/" >🔗</a> **[NASASpaceflight]** Orion Spacecraft Races Toward Historic Lunar Flyby in Artemis II Mission
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/illuminated-in-orion/" >🔗</a> **[NASA]** Illuminated in Orion
 - <a href="https://spacepolicyonline.com/news/smooth-sailing-for-artemis-crew-so-far/" >🔗</a> **[SpacePolicyOnline.com]** Smooth Sailing for Artemis Crew So Far
 - <a href="https://spacenews.com/artemis-2-in-good-shape-cruising-towards-the-moon/" >🔗</a> **[SpaceNews]** Artemis 2 in good shape cruising towards the moon
-- <a href="https://arstechnica.com/space/2026/04/as-artemis-ii-zooms-to-the-moon-everything-seems-to-be-going-swimmingly/" >🔗</a> **[Arstechnica]** As Artemis II zooms to the Moon, everything seems to be going swimmingly
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260405T140856">2026-04-05 14:08:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260405T144215">2026-04-05 14:42:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
