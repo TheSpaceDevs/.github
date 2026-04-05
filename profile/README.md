@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2026/04/artemis-ii-is-going-so-well-that-were-left-to-talk-about-frozen-urine/" >🔗</a> **[Arstechnica]** Artemis II is going so well that we're left to talk about frozen urine
 - <a href="https://www.nasaspaceflight.com/2026/04/orion-toward-lunar-flyby-artemis-ii/" >🔗</a> **[NASASpaceflight]** Orion Spacecraft Races Toward Historic Lunar Flyby in Artemis II Mission
 - <a href="https://spacenews.com/atlas-5-launches-amazon-leo-satellites/" >🔗</a> **[SpaceNews]** Atlas 5 launches Amazon Leo satellites
 - <a href="https://www.nasa.gov/missions/nasa-answers-your-most-pressing-artemis-ii-questions/" >🔗</a> **[NASA]** NASA Answers Your Most Pressing Artemis II Questions
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/artemis-2-in-good-shape-cruising-towards-the-moon/" >🔗</a> **[SpaceNews]** Artemis 2 in good shape cruising towards the moon
 - <a href="https://arstechnica.com/space/2026/04/as-artemis-ii-zooms-to-the-moon-everything-seems-to-be-going-swimmingly/" >🔗</a> **[Arstechnica]** As Artemis II zooms to the Moon, everything seems to be going swimmingly
 - <a href="https://spaceflightnow.com/2026/04/03/live-coverage-ulas-atlas-5-rocket-to-launch-its-heaviest-payload-ever-with-next-amazon-leo-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: ULA’s Atlas 5 rocket to launch its heaviest payload ever with next Amazon Leo mission
-- <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grummans-crs-24-resupply-launch/" >🔗</a> **[NASA]** NASA Sets Coverage for Northrop Grumman’s CRS-24 Resupply Launch
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260405T001006">2026-04-05 00:10:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260405T010203">2026-04-05 01:02:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
