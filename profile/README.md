@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/todays-the-day-artemis-ii-crew-ready-for-lunar-flyby/" >🔗</a> **[SpacePolicyOnline.com]** Today’s the Day! Artemis II Crew Ready for Lunar Flyby
+- <a href="https://spacenews.com/military-space-confronts-hidden-supplier-constraints/" >🔗</a> **[SpaceNews]** Military space programs confront hidden supply constraints
+- <a href="https://spacenews.com/artemis-2-ready-to-fly-around-the-moon/" >🔗</a> **[SpaceNews]** Artemis 2 ready to fly around the moon
+- <a href="https://europeanspaceflight.com/avio-delays-smile-launch-after-component-production-issue-identified/" >🔗</a> **[European Spaceflight]** Avio Delays SMILE Launch After Component Production Issue Identified
 - <a href="https://spaceflightnow.com/2026/04/05/artemis-astronauts-send-down-easter-message-prep-for-lunar-fly-around-monday/" >🔗</a> **[Spaceflight Now]** Artemis astronauts send down Easter message, prep for lunar fly around Monday
 - <a href="https://spacenews.com/isaacman-defends-nasa-budget-proposal-despite-steep-cuts/" >🔗</a> **[SpaceNews]** Isaacman defends NASA budget proposal despite steep cuts
 - <a href="https://spacenews.com/nasa-stops-work-on-sls-mobile-launcher-2/" >🔗</a> **[SpaceNews]** NASA stops work on SLS Mobile Launcher 2
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-april-5-11-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy April 5-11, 2026
 - <a href="https://www.nasa.gov/image-article/thinking-of-you-earth/" >🔗</a> **[NASA]** Thinking of You, Earth
 - <a href="https://spacenews.com/nasa-finalizes-science-plans-for-artemis-2-lunar-flyby/" >🔗</a> **[SpaceNews]** NASA finalizes science plans for Artemis 2 lunar flyby
-- <a href="https://arstechnica.com/space/2026/04/artemis-ii-is-going-so-well-that-were-left-to-talk-about-frozen-urine/" >🔗</a> **[Arstechnica]** Artemis II is going so well that we're left to talk about frozen urine
-- <a href="https://www.nasaspaceflight.com/2026/04/orion-toward-lunar-flyby-artemis-ii/" >🔗</a> **[NASASpaceflight]** Orion Spacecraft Races Toward Historic Lunar Flyby in Artemis II Mission
-- <a href="https://spacenews.com/atlas-5-launches-amazon-leo-satellites/" >🔗</a> **[SpaceNews]** Atlas 5 launches Amazon Leo satellites
-- <a href="https://www.nasa.gov/missions/nasa-answers-your-most-pressing-artemis-ii-questions/" >🔗</a> **[NASA]** NASA Answers Your Most Pressing Artemis II Questions
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260406T114444">2026-04-06 11:44:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260406T121115">2026-04-06 12:11:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
