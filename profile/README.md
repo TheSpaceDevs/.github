@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/the-near-side-of-the-moon/" >🔗</a> **[NASA]** The Near Side of the Moon
 - <a href="https://spacenews.com/the-moon-base-has-a-hardware-plan-it-needs-a-software-strategy-too/" >🔗</a> **[SpaceNews]** The moon base has a hardware plan. It needs a software strategy, too.
 - <a href="https://spacenews.com/seagate-space-signs-mou-with-firefly-aerospace-to-collaborate-on-offshore-launch-infrastructure-for-alpha/" >🔗</a> **[SpaceNews]** Seagate Space Signs MOU with Firefly Aerospace to Collaborate on Offshore Launch Infrastructure for Alpha
 - <a href="https://spacepolicyonline.com/news/todays-the-day-artemis-ii-crew-ready-for-lunar-flyby/" >🔗</a> **[SpacePolicyOnline.com]** Today’s the Day! Artemis II Crew Ready for Lunar Flyby
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2026/04/05/artemis-astronauts-send-down-easter-message-prep-for-lunar-fly-around-monday/" >🔗</a> **[Spaceflight Now]** Artemis astronauts send down Easter message, prep for lunar fly around Monday
 - <a href="https://spacenews.com/isaacman-defends-nasa-budget-proposal-despite-steep-cuts/" >🔗</a> **[SpaceNews]** Isaacman defends NASA budget proposal despite steep cuts
 - <a href="https://spacenews.com/nasa-stops-work-on-sls-mobile-launcher-2/" >🔗</a> **[SpaceNews]** NASA stops work on SLS Mobile Launcher 2
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-april-5-11-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy April 5-11, 2026
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260406T144358">2026-04-06 14:43:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260406T151300">2026-04-06 15:13:00 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
