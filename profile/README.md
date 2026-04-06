@@ -89,6 +89,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacescout.info/2026/04/up-close-with-the-orion-crew-survival-system/" >🔗</a> **[Space Scout]** Up Close with the Orion Crew Survival System
 - <a href="https://www.nasaspaceflight.com/2026/04/launch-preview-040626/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9 to loft Cygnus to ISS, Minotaur IV to launch from California
 - <a href="https://www.nasa.gov/news-release/nasas-artemis-ii-crew-eclipses-record-for-farthest-human-spaceflight/" >🔗</a> **[NASA]** NASA’s Artemis II Crew Eclipses Record for Farthest Human Spaceflight
 - <a href="https://www.nasa.gov/missions/station/nasas-northrop-grumman-crs-24-mission-overview/" >🔗</a> **[NASA]** NASA’s Northrop Grumman CRS-24 Mission Overview
@@ -98,7 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/night-sky-network-celebrates-artemis-ii/" >🔗</a> **[NASA]** Night Sky Network Celebrates Artemis II
 - <a href="https://www.nasa.gov/image-article/the-near-side-of-the-moon/" >🔗</a> **[NASA]** The Near Side of the Moon
 - <a href="https://spacenews.com/the-moon-base-has-a-hardware-plan-it-needs-a-software-strategy-too/" >🔗</a> **[SpaceNews]** The moon base has a hardware plan. It needs a software strategy, too.
-- <a href="https://spacenews.com/seagate-space-signs-mou-with-firefly-aerospace-to-collaborate-on-offshore-launch-infrastructure-for-alpha/" >🔗</a> **[SpaceNews]** Seagate Space Signs MOU with Firefly Aerospace to Collaborate on Offshore Launch Infrastructure for Alpha
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260406T230825">2026-04-06 23:08:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260406T234246">2026-04-06 23:42:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
