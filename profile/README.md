@@ -89,6 +89,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/04/05/artemis-astronauts-send-down-easter-message-prep-for-lunar-fly-around-monday/" >🔗</a> **[Spaceflight Now]** Artemis astronauts send down Easter message, prep for lunar fly around Monday
 - <a href="https://spacenews.com/isaacman-defends-nasa-budget-proposal-despite-steep-cuts/" >🔗</a> **[SpaceNews]** Isaacman defends NASA budget proposal despite steep cuts
 - <a href="https://spacenews.com/nasa-stops-work-on-sls-mobile-launcher-2/" >🔗</a> **[SpaceNews]** NASA stops work on SLS Mobile Launcher 2
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-april-5-11-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy April 5-11, 2026
@@ -98,7 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2026/04/orion-toward-lunar-flyby-artemis-ii/" >🔗</a> **[NASASpaceflight]** Orion Spacecraft Races Toward Historic Lunar Flyby in Artemis II Mission
 - <a href="https://spacenews.com/atlas-5-launches-amazon-leo-satellites/" >🔗</a> **[SpaceNews]** Atlas 5 launches Amazon Leo satellites
 - <a href="https://www.nasa.gov/missions/nasa-answers-your-most-pressing-artemis-ii-questions/" >🔗</a> **[NASA]** NASA Answers Your Most Pressing Artemis II Questions
-- <a href="https://spacenews.com/space-force-budget-would-more-than-double-in-trumps-1-5-trillion-defense-plan/" >🔗</a> **[SpaceNews]** Space Force budget would more than double in Trump’s $1.5 trillion defense plan
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260406T001101">2026-04-06 00:11:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260406T010137">2026-04-06 01:01:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
