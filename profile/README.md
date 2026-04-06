@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/moog-highlights-growing-satellite-bus-capabilities-with-full-scale-meteor-reveal-at-space-symposium/" >🔗</a> **[SpaceNews]** Moog Highlights Growing Satellite Bus Capabilities with Full‑Scale METEOR Reveal at Space Symposium
+- <a href="https://spacenews.com/fossa-targets-japans-defense-market-as-larger-smallsats-expand-capabilities/" >🔗</a> **[SpaceNews]** FOSSA targets Japan’s defense market as larger smallsats expand capabilities
 - <a href="https://arstechnica.com/space/2026/04/nasas-moon-ship-and-rocket-seem-to-be-working-well-so-what-about-the-landers/" >🔗</a> **[Arstechnica]** NASA's Moon ship and rocket seem to be working well, so what about the landers?
 - <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/night-sky-network-celebrates-artemis-ii/" >🔗</a> **[NASA]** Night Sky Network Celebrates Artemis II
 - <a href="https://www.nasa.gov/image-article/the-near-side-of-the-moon/" >🔗</a> **[NASA]** The Near Side of the Moon
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/todays-the-day-artemis-ii-crew-ready-for-lunar-flyby/" >🔗</a> **[SpacePolicyOnline.com]** Today’s the Day! Artemis II Crew Ready for Lunar Flyby
 - <a href="https://spacenews.com/military-space-confronts-hidden-supplier-constraints/" >🔗</a> **[SpaceNews]** Military space programs confront hidden supply constraints
 - <a href="https://spacenews.com/artemis-2-ready-to-fly-around-the-moon/" >🔗</a> **[SpaceNews]** Artemis 2 ready to fly around the moon
-- <a href="https://europeanspaceflight.com/avio-delays-smile-launch-after-component-production-issue-identified/" >🔗</a> **[European Spaceflight]** Avio Delays SMILE Launch After Component Production Issue Identified
-- <a href="https://spaceflightnow.com/2026/04/05/artemis-astronauts-send-down-easter-message-prep-for-lunar-fly-around-monday/" >🔗</a> **[Spaceflight Now]** Artemis astronauts send down Easter message, prep for lunar fly around Monday
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260406T184521">2026-04-06 18:45:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260406T192050">2026-04-06 19:20:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
