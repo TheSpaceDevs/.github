@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasas-artemis-ii-crew-eclipses-record-for-farthest-human-spaceflight/" >🔗</a> **[NASA]** NASA’s Artemis II Crew Eclipses Record for Farthest Human Spaceflight
+- <a href="https://www.nasa.gov/missions/station/nasas-northrop-grumman-crs-24-mission-overview/" >🔗</a> **[NASA]** NASA’s Northrop Grumman CRS-24 Mission Overview
 - <a href="https://spacenews.com/moog-highlights-growing-satellite-bus-capabilities-with-full-scale-meteor-reveal-at-space-symposium/" >🔗</a> **[SpaceNews]** Moog Highlights Growing Satellite Bus Capabilities with Full‑Scale METEOR Reveal at Space Symposium
 - <a href="https://spacenews.com/fossa-targets-japans-defense-market-as-larger-smallsats-expand-capabilities/" >🔗</a> **[SpaceNews]** FOSSA targets Japan’s defense market as larger smallsats expand capabilities
 - <a href="https://arstechnica.com/space/2026/04/nasas-moon-ship-and-rocket-seem-to-be-working-well-so-what-about-the-landers/" >🔗</a> **[Arstechnica]** NASA's Moon ship and rocket seem to be working well, so what about the landers?
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/the-moon-base-has-a-hardware-plan-it-needs-a-software-strategy-too/" >🔗</a> **[SpaceNews]** The moon base has a hardware plan. It needs a software strategy, too.
 - <a href="https://spacenews.com/seagate-space-signs-mou-with-firefly-aerospace-to-collaborate-on-offshore-launch-infrastructure-for-alpha/" >🔗</a> **[SpaceNews]** Seagate Space Signs MOU with Firefly Aerospace to Collaborate on Offshore Launch Infrastructure for Alpha
 - <a href="https://spacepolicyonline.com/news/todays-the-day-artemis-ii-crew-ready-for-lunar-flyby/" >🔗</a> **[SpacePolicyOnline.com]** Today’s the Day! Artemis II Crew Ready for Lunar Flyby
-- <a href="https://spacenews.com/military-space-confronts-hidden-supplier-constraints/" >🔗</a> **[SpaceNews]** Military space programs confront hidden supply constraints
-- <a href="https://spacenews.com/artemis-2-ready-to-fly-around-the-moon/" >🔗</a> **[SpaceNews]** Artemis 2 ready to fly around the moon
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260406T194507">2026-04-06 19:45:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260406T200859">2026-04-06 20:08:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
