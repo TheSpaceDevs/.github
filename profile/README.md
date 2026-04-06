@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/seagate-space-signs-mou-with-firefly-aerospace-to-collaborate-on-offshore-launch-infrastructure-for-alpha/" >🔗</a> **[SpaceNews]** Seagate Space Signs MOU with Firefly Aerospace to Collaborate on Offshore Launch Infrastructure for Alpha
 - <a href="https://spacepolicyonline.com/news/todays-the-day-artemis-ii-crew-ready-for-lunar-flyby/" >🔗</a> **[SpacePolicyOnline.com]** Today’s the Day! Artemis II Crew Ready for Lunar Flyby
 - <a href="https://spacenews.com/military-space-confronts-hidden-supplier-constraints/" >🔗</a> **[SpaceNews]** Military space programs confront hidden supply constraints
 - <a href="https://spacenews.com/artemis-2-ready-to-fly-around-the-moon/" >🔗</a> **[SpaceNews]** Artemis 2 ready to fly around the moon
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/nasa-stops-work-on-sls-mobile-launcher-2/" >🔗</a> **[SpaceNews]** NASA stops work on SLS Mobile Launcher 2
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-april-5-11-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy April 5-11, 2026
 - <a href="https://www.nasa.gov/image-article/thinking-of-you-earth/" >🔗</a> **[NASA]** Thinking of You, Earth
-- <a href="https://spacenews.com/nasa-finalizes-science-plans-for-artemis-2-lunar-flyby/" >🔗</a> **[SpaceNews]** NASA finalizes science plans for Artemis 2 lunar flyby
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260406T121115">2026-04-06 12:11:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260406T124538">2026-04-06 12:45:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
