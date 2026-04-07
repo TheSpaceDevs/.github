@@ -25,7 +25,7 @@ from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_8">
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
 at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260407T113000">2026-04-07 11:30:00 UTC</a>.  Until
 then, this pad will have been used for 9
-out of 872 launches from this location. The launch status is currently
+out of 873 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
 *Technology* and the payload will be injected
 into *a Low Earth Orbit
@@ -92,6 +92,7 @@ The main payload will be STPSat-7, an ESPA class satellite based on the Aegis Ae
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/earth-observatory/drought-parches-florida/" >🔗</a> **[NASA]** Drought Parches Florida
 - <a href="https://spacepolicyonline.com/news/artemis-ii-swings-around-the-moon-begins-trip-home-with-white-house-congratulations/" >🔗</a> **[SpacePolicyOnline.com]** Artemis II Swings Around the Moon, Begins Trip Home with White House Congratulations
 - <a href="https://www.nasaspaceflight.com/2026/04/artemis-ii-breaks-record-lunar-flyby/" >🔗</a> **[NASASpaceflight]** Artemis II breaks record, conducts lunar flyby
 - <a href="https://spacenews.com/artemis-2-swings-around-the-moon/" >🔗</a> **[SpaceNews]** Artemis 2 swings around the moon
@@ -101,7 +102,6 @@ The main payload will be STPSat-7, an ESPA class satellite based on the Aegis Ae
 - <a href="https://www.nasa.gov/missions/station/nasas-northrop-grumman-crs-24-mission-overview/" >🔗</a> **[NASA]** NASA’s Northrop Grumman CRS-24 Mission Overview
 - <a href="https://spacenews.com/moog-highlights-growing-satellite-bus-capabilities-with-full-scale-meteor-reveal-at-space-symposium/" >🔗</a> **[SpaceNews]** Moog Highlights Growing Satellite Bus Capabilities with Full‑Scale METEOR Reveal at Space Symposium
 - <a href="https://spacenews.com/fossa-targets-japans-defense-market-as-larger-smallsats-expand-capabilities/" >🔗</a> **[SpaceNews]** FOSSA targets Japan’s defense market as larger smallsats expand capabilities
-- <a href="https://arstechnica.com/space/2026/04/nasas-moon-ship-and-rocket-seem-to-be-working-well-so-what-about-the-landers/" >🔗</a> **[Arstechnica]** NASA's Moon ship and rocket seem to be working well, so what about the landers?
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ The main payload will be STPSat-7, an ESPA class satellite based on the Aegis Ae
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260407T040149">2026-04-07 04:01:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260407T051254">2026-04-07 05:12:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
