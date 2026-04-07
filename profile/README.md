@@ -90,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nominate-space-industry-leaders-for-the-2026-spacenews-icon-awards/" >🔗</a> **[SpaceNews]** Nominate space industry leaders for the 2026 SpaceNews Icon Awards
 - <a href="https://spacenews.com/earth-observation-operators-push-to-deliver-satellite-images-within-minutes/" >🔗</a> **[SpaceNews]** Earth observation operators push to deliver satellite images within minutes
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/04/Graphene_and_lasers_for_space_propulsion" >🔗</a> **[ESA]** Graphene and lasers for space propulsion
+- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Graphene_and_lasers_for_space_propulsion" >🔗</a> **[ESA]** Graphene and lasers for space propulsion
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Galileo_goes_to_the_Moon" >🔗</a> **[ESA]** Galileo goes to the Moon
 - <a href="https://europeanspaceflight.com/the-exploration-company-completes-nyx-test-model-pressure-tests/" >🔗</a> **[European Spaceflight]** The Exploration Company Completes Nyx Test Model Pressure Tests
 - <a href="https://science.nasa.gov/earth/earth-observatory/drought-parches-florida/" >🔗</a> **[NASA]** Drought Parches Florida
 - <a href="https://spacepolicyonline.com/news/artemis-ii-swings-around-the-moon-begins-trip-home-with-white-house-congratulations/" >🔗</a> **[SpacePolicyOnline.com]** Artemis II Swings Around the Moon, Begins Trip Home with White House Congratulations
 - <a href="https://www.nasaspaceflight.com/2026/04/artemis-ii-breaks-record-lunar-flyby/" >🔗</a> **[NASASpaceflight]** Artemis II breaks record, conducts lunar flyby
 - <a href="https://spacenews.com/artemis-2-swings-around-the-moon/" >🔗</a> **[SpaceNews]** Artemis 2 swings around the moon
-- <a href="https://www.spacescout.info/2026/04/up-close-with-the-orion-crew-survival-system/" >🔗</a> **[Space Scout]** Up Close with the Orion Crew Survival System
-- <a href="https://www.nasaspaceflight.com/2026/04/launch-preview-040626/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9 to loft Cygnus to ISS, Minotaur IV to launch from California
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260407T121230">2026-04-07 12:12:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260407T124639">2026-04-07 12:46:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
