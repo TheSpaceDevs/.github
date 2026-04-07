@@ -92,6 +92,7 @@ The main payload will be STPSat-7, an ESPA class satellite based on the Aegis Ae
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/04/Graphene_and_lasers_for_space_propulsion" >🔗</a> **[ESA]** Graphene and lasers for space propulsion
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Galileo_goes_to_the_Moon" >🔗</a> **[ESA]** Galileo goes to the Moon
 - <a href="https://europeanspaceflight.com/the-exploration-company-completes-nyx-test-model-pressure-tests/" >🔗</a> **[European Spaceflight]** The Exploration Company Completes Nyx Test Model Pressure Tests
 - <a href="https://science.nasa.gov/earth/earth-observatory/drought-parches-florida/" >🔗</a> **[NASA]** Drought Parches Florida
@@ -101,7 +102,6 @@ The main payload will be STPSat-7, an ESPA class satellite based on the Aegis Ae
 - <a href="https://www.spacescout.info/2026/04/up-close-with-the-orion-crew-survival-system/" >🔗</a> **[Space Scout]** Up Close with the Orion Crew Survival System
 - <a href="https://www.nasaspaceflight.com/2026/04/launch-preview-040626/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9 to loft Cygnus to ISS, Minotaur IV to launch from California
 - <a href="https://www.nasa.gov/news-release/nasas-artemis-ii-crew-eclipses-record-for-farthest-human-spaceflight/" >🔗</a> **[NASA]** NASA’s Artemis II Crew Eclipses Record for Farthest Human Spaceflight
-- <a href="https://www.nasa.gov/missions/station/nasas-northrop-grumman-crs-24-mission-overview/" >🔗</a> **[NASA]** NASA’s Northrop Grumman CRS-24 Mission Overview
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ The main payload will be STPSat-7, an ESPA class satellite based on the Aegis Ae
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260407T094956">2026-04-07 09:49:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260407T101922">2026-04-07 10:19:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
