@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/experience-the-rollout-of-sls-hardware-for-artemis-iii/" >🔗</a> **[NASA]** Experience the Rollout of SLS Hardware for Artemis III
 - <a href="https://www.nasa.gov/news-release/nasa-to-host-media-call-with-artemis-ii-crew-on-way-home-from-moon/" >🔗</a> **[NASA]** NASA to Host Media Call with Artemis II Crew on Way Home from Moon
 - <a href="https://arstechnica.com/space/2026/04/the-artemis-ii-mission-sends-back-stunning-images-of-the-far-side-of-the-moon/" >🔗</a> **[Arstechnica]** The Artemis II mission sends back stunning images of the far side of the Moon
 - <a href="https://spacenews.com/starfish-space-raises-more-than-100-million/" >🔗</a> **[SpaceNews]** Starfish Space raises more than $100 million
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/04/Graphene_and_lasers_for_space_propulsion" >🔗</a> **[ESA]** Graphene and lasers for space propulsion
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Graphene_and_lasers_for_space_propulsion" >🔗</a> **[ESA]** Graphene and lasers for space propulsion
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Galileo_goes_to_the_Moon" >🔗</a> **[ESA]** Galileo goes to the Moon
-- <a href="https://www.esa.int/Enabling_Support/Operations/ESA_Ground_Stations/Doubling_ESA_s_deep_space_capabilities_at_New_Norcia_with_deep_space_antenna_4" >🔗</a> **[ESA]** Doubling ESA’s deep space capabilities at New Norcia with deep space antenna 4
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260407T174558">2026-04-07 17:45:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260407T181602">2026-04-07 18:16:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
