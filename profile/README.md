@@ -92,6 +92,8 @@ The main payload will be STPSat-7, an ESPA class satellite based on the Aegis Ae
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Applications/Satellite_navigation/Galileo_goes_to_the_Moon" >🔗</a> **[ESA]** Galileo goes to the Moon
+- <a href="https://europeanspaceflight.com/the-exploration-company-completes-nyx-test-model-pressure-tests/" >🔗</a> **[European Spaceflight]** The Exploration Company Completes Nyx Test Model Pressure Tests
 - <a href="https://science.nasa.gov/earth/earth-observatory/drought-parches-florida/" >🔗</a> **[NASA]** Drought Parches Florida
 - <a href="https://spacepolicyonline.com/news/artemis-ii-swings-around-the-moon-begins-trip-home-with-white-house-congratulations/" >🔗</a> **[SpacePolicyOnline.com]** Artemis II Swings Around the Moon, Begins Trip Home with White House Congratulations
 - <a href="https://www.nasaspaceflight.com/2026/04/artemis-ii-breaks-record-lunar-flyby/" >🔗</a> **[NASASpaceflight]** Artemis II breaks record, conducts lunar flyby
@@ -100,8 +102,6 @@ The main payload will be STPSat-7, an ESPA class satellite based on the Aegis Ae
 - <a href="https://www.nasaspaceflight.com/2026/04/launch-preview-040626/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9 to loft Cygnus to ISS, Minotaur IV to launch from California
 - <a href="https://www.nasa.gov/news-release/nasas-artemis-ii-crew-eclipses-record-for-farthest-human-spaceflight/" >🔗</a> **[NASA]** NASA’s Artemis II Crew Eclipses Record for Farthest Human Spaceflight
 - <a href="https://www.nasa.gov/missions/station/nasas-northrop-grumman-crs-24-mission-overview/" >🔗</a> **[NASA]** NASA’s Northrop Grumman CRS-24 Mission Overview
-- <a href="https://spacenews.com/moog-highlights-growing-satellite-bus-capabilities-with-full-scale-meteor-reveal-at-space-symposium/" >🔗</a> **[SpaceNews]** Moog Highlights Growing Satellite Bus Capabilities with Full‑Scale METEOR Reveal at Space Symposium
-- <a href="https://spacenews.com/fossa-targets-japans-defense-market-as-larger-smallsats-expand-capabilities/" >🔗</a> **[SpaceNews]** FOSSA targets Japan’s defense market as larger smallsats expand capabilities
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ The main payload will be STPSat-7, an ESPA class satellite based on the Aegis Ae
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260407T083429">2026-04-07 08:34:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260407T092139">2026-04-07 09:21:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
