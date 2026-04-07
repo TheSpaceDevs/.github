@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacescout.info/2026/04/artemis-ii-flies-around-the-moon-for-all/" >🔗</a> **[Space Scout]** Artemis II Flies Around the Moon for All
+- <a href="https://spacenews.com/hungary-taps-northrop-grumman-for-first-national-geostationary-communications-satellite/" >🔗</a> **[SpaceNews]** Hungary taps Northrop Grumman for first national geostationary communications satellite
 - <a href="https://www.nasa.gov/image-article/earthset/" >🔗</a> **[NASA]** Earthset
 - <a href="https://www.nasa.gov/general/experience-the-rollout-of-sls-hardware-for-artemis-iii/" >🔗</a> **[NASA]** Experience the Rollout of SLS Hardware for Artemis III
 - <a href="https://www.nasa.gov/news-release/nasa-to-host-media-call-with-artemis-ii-crew-on-way-home-from-moon/" >🔗</a> **[NASA]** NASA to Host Media Call with Artemis II Crew on Way Home from Moon
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/nasas-new-moon-base-project-requires-operational-technology-systems-in-space-but-they-are-vulnerable/" >🔗</a> **[SpaceNews]** NASA’s new moon base project requires operational technology systems in space, but they are vulnerable.
 - <a href="https://spacenews.com/nominate-space-industry-leaders-for-the-2026-spacenews-icon-awards/" >🔗</a> **[SpaceNews]** Nominate space industry leaders for the 2026 SpaceNews Icon Awards
 - <a href="https://spacenews.com/earth-observation-operators-push-to-deliver-satellite-images-within-minutes/" >🔗</a> **[SpaceNews]** Earth observation operators push to deliver satellite images within minutes
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/04/Graphene_and_lasers_for_space_propulsion" >🔗</a> **[ESA]** Graphene and lasers for space propulsion
-- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Graphene_and_lasers_for_space_propulsion" >🔗</a> **[ESA]** Graphene and lasers for space propulsion
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260407T200912">2026-04-07 20:09:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260407T204401">2026-04-07 20:44:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
