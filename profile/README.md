@@ -106,11 +106,12 @@ The main payload will be STPSat-7, an ESPA class satellite based on the Aegis Ae
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2026/04/launch-preview-040626/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9 to loft Cygnus to ISS, Minotaur IV to launch from California
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260407T051254">2026-04-07 05:12:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260407T060125">2026-04-07 06:01:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
