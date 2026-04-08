@@ -19,27 +19,34 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Long March 6A | Unknown Payload**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-from *<a href="None">Launch Complex 9A</a>, Taiyuan Satellite Launch Center, People's Republic of China*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260408T193000">2026-04-08 19:30:00 UTC</a>.  Until
-then, this pad will have been used for 22
-out of 152 launches from this location. The launch status is currently
+**Spectrum | Onward and Upward**. It is scheduled to be launched by *Isar Aerospace*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/de.svg" />
+from *<a href="https://en.wikipedia.org/wiki/And%C3%B8ya_Space">Orbital Launch Pad</a>, Andøya Spaceport*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/no.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260409T200000">2026-04-09 20:00:00 UTC</a>.  Until
+then, this pad will have been used for 1
+out of 1 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Unknown* and the payload will be injected
-into *an Unknown
-(N/A)*.
+*Test Flight* and the payload will be injected
+into *a Sun-Synchronous Orbit
+(SSO)*.
 <br>
 <blockquote>
-  Details TBD.
+  Second test flight of the Isar Spectrum launch vehicle. This launch will carry 5 cubesats and 1 non-separable experiment as part of European Space Agency (ESA)'s “Boost!” program:
+
+* CyBEEsat (TU Berlin)
+* TriSat-S (University of Maribor)
+* Platform 6 (EnduroSat)
+* FramSat-1 (NTNU)
+* SpaceTeamSat1 (TU Wien Space Team)
+* Let It Go (Dcubed, non-separable experiment)
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Long_March_6" >
+  <a href="None" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=38.8583,111.5802" >
+  <a href="https://www.google.com/maps?q=69.1084,15.5895" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -54,6 +61,7 @@ into *an Unknown
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260415T020000">2026-04-15 02:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-27&location=Vandenberg SFB, CA, USA&dates=20260415T020000Z%2F20260415T060000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-27** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260416T104500">2026-04-16 10:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Glenn | BlueBird Block 2 #2&location=Cape Canaveral SFS, FL, USA&dates=20260416T104500Z%2F20260416T134300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Glenn | BlueBird Block 2 #2** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260418T140000">2026-04-18 14:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-22&location=Vandenberg SFB, CA, USA&dates=20260418T140000Z%2F20260418T180000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-22** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260423T000000">2026-04-23 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Kakushin Rising (JAXA Rideshare)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20260423T000000Z%2F20260423T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Kakushin Rising (JAXA Rideshare)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -103,12 +111,21 @@ into *an Unknown
 
 ### Launch-related News 🚀
 
-- <a href="https://www.nasaspaceflight.com/2026/04/launch-preview-040626/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9 to loft Cygnus to ISS, Minotaur IV to launch from California
+- <a href="https://www.nasaspaceflight.com/2026/03/isar-onward-and-upward/" >🔗</a> **[NASASpaceflight]** Isar Aerospace set for second launch of Spectrum rocket
+- <a href="https://www.nasaspaceflight.com/2026/03/launch-preview-032326/" >🔗</a> **[NASASpaceflight]** Launch Preview: Russia to debut Soyuz-5; Falcon 9 and Atlas V to launch internet satellites
+- <a href="https://www.nasaspaceflight.com/2026/03/launch-preview-031626/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9, Spectrum, Electron to launch during busy week of launches
+- <a href="https://www.spacedaily.com/reports/Exolaunch_to_deploy_five_satellites_on_Spectrum_mission_from_Norway_999.html" >🔗</a> **[SpaceDaily]** Exolaunch to deploy five satellites on Spectrum mission from Norway
+- <a href="https://europeanspaceflight.com/isar-aerospace-to-expand-testing-facilities-as-it-prepares-for-next-spectrum-flight/" >🔗</a> **[European Spaceflight]** Isar Aerospace to Expand Testing Facilities as it Prepares for Next Spectrum Flight
+- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Boost/Spectrum_s_qualifying_second_launch" >🔗</a> **[ESA]** Spectrum’s qualifying second launch
+- <a href="https://www.nasaspaceflight.com/2026/01/launch-preview-011926/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9 set to launch two missions from California, Isar to attempt second launch of Spectrum
+- <a href="https://spacenews.com/isar-aerospace-sets-date-for-second-spectrum-launch/" >🔗</a> **[SpaceNews]** Isar Aerospace sets date for second Spectrum launch
+- <a href="https://europeanspaceflight.com/second-isar-aerospace-spectrum-flight-set-for-20-to-23-january/" >🔗</a> **[European Spaceflight]** Second Isar Aerospace Spectrum Flight Set for 20 to 23 January
+- <a href="https://www.nasaspaceflight.com/2026/01/launch-preview-011226/" >🔗</a> **[NASASpaceflight]** Launch Preview: Launches from China, U.S., and Norway scheduled for upcoming week
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260408T195032">2026-04-08 19:50:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260408T200931">2026-04-08 20:09:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
