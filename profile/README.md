@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/celestial-wonders-in-leo/" >🔗</a> **[NASA]** Celestial Wonders in Leo
 - <a href="https://spacepolicyonline.com/news/stunning-images-a-chat-with-friends-another-great-day-for-artemis-ii/" >🔗</a> **[SpacePolicyOnline.com]** Stunning Images, A Chat with Friends — Another Great Day for Artemis II
 - <a href="https://www.nasa.gov/news-release/nasas-artemis-ii-crew-beams-official-moon-flyby-photos-to-earth/" >🔗</a> **[NASA]** NASA’s Artemis II Crew Beams Official Moon Flyby Photos to Earth
 - <a href="https://www.spacescout.info/2026/04/artemis-ii-flies-around-the-moon-for-all/" >🔗</a> **[Space Scout]** Artemis II Flies Around the Moon for All
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/news-release/nasa-to-host-media-call-with-artemis-ii-crew-on-way-home-from-moon/" >🔗</a> **[NASA]** NASA to Host Media Call with Artemis II Crew on Way Home from Moon
 - <a href="https://arstechnica.com/space/2026/04/the-artemis-ii-mission-sends-back-stunning-images-of-the-far-side-of-the-moon/" >🔗</a> **[Arstechnica]** The Artemis II mission sends back stunning images of the far side of the Moon
 - <a href="https://spacenews.com/starfish-space-raises-more-than-100-million/" >🔗</a> **[SpaceNews]** Starfish Space raises more than $100 million
-- <a href="https://spacenews.com/nasas-new-moon-base-project-requires-operational-technology-systems-in-space-but-they-are-vulnerable/" >🔗</a> **[SpaceNews]** NASA’s new moon base project requires operational technology systems in space, but they are vulnerable.
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260408T025913">2026-04-08 02:59:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260408T040246">2026-04-08 04:02:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
