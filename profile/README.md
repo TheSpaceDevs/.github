@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/preparing-for-the-next-nasa-budget-battle/" >🔗</a> **[SpaceNews]** Preparing for the next NASA budget battle
+- <a href="https://spacenews.com/tracking-the-next-sda-challenge/" >🔗</a> **[SpaceNews]** Tracking the next SDA challenge
 - <a href="https://spacenews.com/a-lunar-base-or-a-lunar-economy/" >🔗</a> **[SpaceNews]** A lunar base or a lunar economy?
 - <a href="https://spacenews.com/leolabs-debuts-space-monitoring-tool-for-military-users/" >🔗</a> **[SpaceNews]** LeoLabs debuts space monitoring tool for military users
 - <a href="https://www.nasaspaceflight.com/2026/04/spacex-refinements-starbase-pad-2-booster-19/" >🔗</a> **[NASASpaceflight]** SpaceX continues refinements at Starbase Pad 2 ahead of Booster 19 return
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/capella-space-wins-49-million-contract-for-military-communications-satellite-demo/" >🔗</a> **[SpaceNews]** Capella Space wins $49 million contract for military communications satellite demo
 - <a href="https://spacenews.com/space-security-moves-to-forefront-as-threats-to-satellites-spread/" >🔗</a> **[SpaceNews]** Space security moves to forefront as threats to satellites spread
 - <a href="https://spacenews.com/inspection-cubesat-demo-planned-as-first-step-toward-orbital-defense-mothership/" >🔗</a> **[SpaceNews]** Inspection cubesat demo planned as first step toward orbital defense mothership
-- <a href="https://spacenews.com/astroscale-passes-key-design-milestone-for-uk-military-space-tracking-cubesats/" >🔗</a> **[SpaceNews]** Astroscale passes key design milestone for UK military space-tracking cubesats
-- <a href="https://europeanspaceflight.com/pld-space-secures-e30-million-european-investment-bank-loan/" >🔗</a> **[European Spaceflight]** PLD Space Secures €30 Million European Investment Bank Loan
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260408T132901">2026-04-08 13:29:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260408T140550">2026-04-08 14:05:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
