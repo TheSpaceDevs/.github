@@ -92,6 +92,7 @@ into *an Unknown
 ### Latest News ⌛
 - <a href="https://spacenews.com/inspection-cubesat-demo-planned-as-first-step-toward-orbital-defense-mothership/" >🔗</a> **[SpaceNews]** Inspection cubesat demo planned as first step toward orbital defense mothership
 - <a href="https://spacenews.com/astroscale-passes-key-design-milestone-for-uk-military-space-tracking-cubesats/" >🔗</a> **[SpaceNews]** Astroscale passes key design milestone for UK military space-tracking cubesats
+- <a href="https://europeanspaceflight.com/pld-space-secures-e30-million-european-investment-bank-loan/" >🔗</a> **[European Spaceflight]** PLD Space Secures €30 Million European Investment Bank Loan
 - <a href="https://science.nasa.gov/earth/earth-observatory/a-volcanic-medley-near-mammoth-lakes/" >🔗</a> **[NASA]** A Volcanic Medley Near Mammoth Lakes
 - <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/celestial-wonders-in-leo/" >🔗</a> **[NASA]** Celestial Wonders in Leo
 - <a href="https://spacepolicyonline.com/news/stunning-images-a-chat-with-friends-another-great-day-for-artemis-ii/" >🔗</a> **[SpacePolicyOnline.com]** Stunning Images, A Chat with Friends — Another Great Day for Artemis II
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.spacescout.info/2026/04/artemis-ii-flies-around-the-moon-for-all/" >🔗</a> **[Space Scout]** Artemis II Flies Around the Moon for All
 - <a href="https://spacenews.com/hungary-taps-northrop-grumman-for-first-national-geostationary-communications-satellite/" >🔗</a> **[SpaceNews]** Hungary taps Northrop Grumman for first national geostationary communications satellite
 - <a href="https://www.nasa.gov/image-article/earthset/" >🔗</a> **[NASA]** Earthset
-- <a href="https://www.nasa.gov/general/experience-the-rollout-of-sls-hardware-for-artemis-iii/" >🔗</a> **[NASA]** Experience the Rollout of SLS Hardware for Artemis III
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260408T084619">2026-04-08 08:46:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260408T092105">2026-04-08 09:21:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
