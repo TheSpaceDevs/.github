@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/04/spacex-refinements-starbase-pad-2-booster-19/" >🔗</a> **[NASASpaceflight]** SpaceX continues refinements at Starbase Pad 2 ahead of Booster 19 return
 - <a href="https://spacenews.com/industry-navigates-nasas-start-and-stop-approach-to-commercial-space-stations/" >🔗</a> **[SpaceNews]** Industry navigates NASA’s start-and-stop approach to commercial space stations
 - <a href="https://spacenews.com/artemis-2-science-gets-underway-as-orion-begins-its-return-trip/" >🔗</a> **[SpaceNews]** Artemis 2 science gets underway as Orion begins its return trip
 - <a href="https://spacenews.com/capella-space-wins-49-million-contract-for-military-communications-satellite-demo/" >🔗</a> **[SpaceNews]** Capella Space wins $49 million contract for military communications satellite demo
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://europeanspaceflight.com/pld-space-secures-e30-million-european-investment-bank-loan/" >🔗</a> **[European Spaceflight]** PLD Space Secures €30 Million European Investment Bank Loan
 - <a href="https://science.nasa.gov/earth/earth-observatory/a-volcanic-medley-near-mammoth-lakes/" >🔗</a> **[NASA]** A Volcanic Medley Near Mammoth Lakes
 - <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/celestial-wonders-in-leo/" >🔗</a> **[NASA]** Celestial Wonders in Leo
-- <a href="https://spacepolicyonline.com/news/stunning-images-a-chat-with-friends-another-great-day-for-artemis-ii/" >🔗</a> **[SpacePolicyOnline.com]** Stunning Images, A Chat with Friends — Another Great Day for Artemis II
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260408T121249">2026-04-08 12:12:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260408T124607">2026-04-08 12:46:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
