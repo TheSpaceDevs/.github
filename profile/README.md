@@ -90,6 +90,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/industry-navigates-nasas-start-and-stop-approach-to-commercial-space-stations/" >🔗</a> **[SpaceNews]** Industry navigates NASA’s start-and-stop approach to commercial space stations
+- <a href="https://spacenews.com/artemis-2-science-gets-underway-as-orion-begins-its-return-trip/" >🔗</a> **[SpaceNews]** Artemis 2 science gets underway as Orion begins its return trip
+- <a href="https://spacenews.com/capella-space-wins-49-million-contract-for-military-communications-satellite-demo/" >🔗</a> **[SpaceNews]** Capella Space wins $49 million contract for military communications satellite demo
 - <a href="https://spacenews.com/space-security-moves-to-forefront-as-threats-to-satellites-spread/" >🔗</a> **[SpaceNews]** Space security moves to forefront as threats to satellites spread
 - <a href="https://spacenews.com/inspection-cubesat-demo-planned-as-first-step-toward-orbital-defense-mothership/" >🔗</a> **[SpaceNews]** Inspection cubesat demo planned as first step toward orbital defense mothership
 - <a href="https://spacenews.com/astroscale-passes-key-design-milestone-for-uk-military-space-tracking-cubesats/" >🔗</a> **[SpaceNews]** Astroscale passes key design milestone for UK military space-tracking cubesats
@@ -97,9 +100,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/earth/earth-observatory/a-volcanic-medley-near-mammoth-lakes/" >🔗</a> **[NASA]** A Volcanic Medley Near Mammoth Lakes
 - <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/celestial-wonders-in-leo/" >🔗</a> **[NASA]** Celestial Wonders in Leo
 - <a href="https://spacepolicyonline.com/news/stunning-images-a-chat-with-friends-another-great-day-for-artemis-ii/" >🔗</a> **[SpacePolicyOnline.com]** Stunning Images, A Chat with Friends — Another Great Day for Artemis II
-- <a href="https://www.nasa.gov/news-release/nasas-artemis-ii-crew-beams-official-moon-flyby-photos-to-earth/" >🔗</a> **[NASA]** NASA’s Artemis II Crew Beams Official Moon Flyby Photos to Earth
-- <a href="https://www.spacescout.info/2026/04/artemis-ii-flies-around-the-moon-for-all/" >🔗</a> **[Space Scout]** Artemis II Flies Around the Moon for All
-- <a href="https://spacenews.com/hungary-taps-northrop-grumman-for-first-national-geostationary-communications-satellite/" >🔗</a> **[SpaceNews]** Hungary taps Northrop Grumman for first national geostationary communications satellite
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260408T104559">2026-04-08 10:45:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260408T111759">2026-04-08 11:17:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
