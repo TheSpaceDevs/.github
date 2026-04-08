@@ -52,8 +52,8 @@ into *an Unknown
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260411T023900">2026-04-11 02:39:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-21&location=Vandenberg SFB, CA, USA&dates=20260411T023900Z%2F20260411T063900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-21** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260411T112200">2026-04-11 11:22:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Smart Dragon 3 | Unknown Payload&location=Haiyang Oriental Spaceport&dates=20260411T112200Z%2F20260411T114700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Smart Dragon 3 | Unknown Payload** from Haiyang Oriental Spaceport.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260414T061300">2026-04-14 06:13:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-24&location=Cape Canaveral SFS, FL, USA&dates=20260414T061300Z%2F20260414T101300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-24** from Cape Canaveral SFS, FL, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260414T104500">2026-04-14 10:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Glenn | BlueBird Block 2 #2&location=Cape Canaveral SFS, FL, USA&dates=20260414T104500Z%2F20260414T134300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Glenn | BlueBird Block 2 #2** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260415T020000">2026-04-15 02:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-27&location=Vandenberg SFB, CA, USA&dates=20260415T020000Z%2F20260415T060000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-27** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260416T104500">2026-04-16 10:45:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=New Glenn | BlueBird Block 2 #2&location=Cape Canaveral SFS, FL, USA&dates=20260416T104500Z%2F20260416T134300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **New Glenn | BlueBird Block 2 #2** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260418T140000">2026-04-18 14:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-22&location=Vandenberg SFB, CA, USA&dates=20260418T140000Z%2F20260418T180000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-22** from Vandenberg SFB, CA, USA.
 
 
@@ -90,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/solar-eclipse-of-the-heart/" >🔗</a> **[NASA]** Solar Eclipse of the Heart
 - <a href="https://spacenews.com/opportunities-for-on-orbit-computing-event/" >🔗</a> **[SpaceNews]** April 30: Opportunities for On-Orbit Computing
 - <a href="https://arstechnica.com/space/2026/04/with-orion-still-flying-nasa-is-nearing-key-decisions-about-artemis-iii/" >🔗</a> **[Arstechnica]** With Orion still flying, NASA is nearing key decisions about Artemis III
 - <a href="https://spacenews.com/preparing-for-the-next-nasa-budget-battle/" >🔗</a> **[SpaceNews]** Preparing for the next NASA budget battle
 - <a href="https://spacenews.com/tracking-the-next-sda-challenge/" >🔗</a> **[SpaceNews]** Tracking the next SDA challenge
-- <a href="https://spacenews.com/leolabs-debuts-space-monitoring-tool-for-military-users/" >🔗</a> **[SpaceNews]** LeoLabs debuts space monitoring tool for military users
 - <a href="https://spacenews.com/a-lunar-base-or-a-lunar-economy/" >🔗</a> **[SpaceNews]** A lunar base or a lunar economy?
+- <a href="https://spacenews.com/leolabs-debuts-space-monitoring-tool-for-military-users/" >🔗</a> **[SpaceNews]** LeoLabs debuts space monitoring tool for military users
 - <a href="https://www.nasaspaceflight.com/2026/04/spacex-refinements-starbase-pad-2-booster-19/" >🔗</a> **[NASASpaceflight]** SpaceX continues refinements at Starbase Pad 2 ahead of Booster 19 return
 - <a href="https://spacenews.com/industry-navigates-nasas-start-and-stop-approach-to-commercial-space-stations/" >🔗</a> **[SpaceNews]** Industry navigates NASA’s start-and-stop approach to commercial space stations
 - <a href="https://spacenews.com/artemis-2-science-gets-underway-as-orion-begins-its-return-trip/" >🔗</a> **[SpaceNews]** Artemis 2 science gets underway as Orion begins its return trip
-- <a href="https://spacenews.com/capella-space-wins-49-million-contract-for-military-communications-satellite-demo/" >🔗</a> **[SpaceNews]** Capella Space wins $49 million contract for military communications satellite demo
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260408T163444">2026-04-08 16:34:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260408T172057">2026-04-08 17:20:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
