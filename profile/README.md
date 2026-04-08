@@ -90,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/twin-nasa-control-rooms-support-artemis-safety-success/" >🔗</a> **[NASA]** Twin NASA Control Rooms Support Artemis Safety, Success
+- <a href="https://spacenews.com/space-sovereignty-is-no-longer-optional/" >🔗</a> **[SpaceNews]** Space Sovereignty Is No Longer Optional
 - <a href="https://www.nasa.gov/image-article/solar-eclipse-of-the-heart/" >🔗</a> **[NASA]** Solar Eclipse of the Heart
 - <a href="https://spacenews.com/opportunities-for-on-orbit-computing-event/" >🔗</a> **[SpaceNews]** April 30: Opportunities for On-Orbit Computing
 - <a href="https://arstechnica.com/space/2026/04/with-orion-still-flying-nasa-is-nearing-key-decisions-about-artemis-iii/" >🔗</a> **[Arstechnica]** With Orion still flying, NASA is nearing key decisions about Artemis III
 - <a href="https://spacenews.com/preparing-for-the-next-nasa-budget-battle/" >🔗</a> **[SpaceNews]** Preparing for the next NASA budget battle
 - <a href="https://spacenews.com/tracking-the-next-sda-challenge/" >🔗</a> **[SpaceNews]** Tracking the next SDA challenge
-- <a href="https://spacenews.com/a-lunar-base-or-a-lunar-economy/" >🔗</a> **[SpaceNews]** A lunar base or a lunar economy?
 - <a href="https://spacenews.com/leolabs-debuts-space-monitoring-tool-for-military-users/" >🔗</a> **[SpaceNews]** LeoLabs debuts space monitoring tool for military users
+- <a href="https://spacenews.com/a-lunar-base-or-a-lunar-economy/" >🔗</a> **[SpaceNews]** A lunar base or a lunar economy?
 - <a href="https://www.nasaspaceflight.com/2026/04/spacex-refinements-starbase-pad-2-booster-19/" >🔗</a> **[NASASpaceflight]** SpaceX continues refinements at Starbase Pad 2 ahead of Booster 19 return
-- <a href="https://spacenews.com/industry-navigates-nasas-start-and-stop-approach-to-commercial-space-stations/" >🔗</a> **[SpaceNews]** Industry navigates NASA’s start-and-stop approach to commercial space stations
-- <a href="https://spacenews.com/artemis-2-science-gets-underway-as-orion-begins-its-return-trip/" >🔗</a> **[SpaceNews]** Artemis 2 science gets underway as Orion begins its return trip
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260408T174842">2026-04-08 17:48:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260408T182049">2026-04-08 18:20:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
