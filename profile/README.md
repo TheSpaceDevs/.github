@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/astroscale-passes-key-design-milestone-for-uk-military-space-tracking-cubesats/" >🔗</a> **[SpaceNews]** Astroscale passes key design milestone for UK military space-tracking cubesats
 - <a href="https://science.nasa.gov/earth/earth-observatory/a-volcanic-medley-near-mammoth-lakes/" >🔗</a> **[NASA]** A Volcanic Medley Near Mammoth Lakes
 - <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/celestial-wonders-in-leo/" >🔗</a> **[NASA]** Celestial Wonders in Leo
 - <a href="https://spacepolicyonline.com/news/stunning-images-a-chat-with-friends-another-great-day-for-artemis-ii/" >🔗</a> **[SpacePolicyOnline.com]** Stunning Images, A Chat with Friends — Another Great Day for Artemis II
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/image-article/earthset/" >🔗</a> **[NASA]** Earthset
 - <a href="https://www.nasa.gov/general/experience-the-rollout-of-sls-hardware-for-artemis-iii/" >🔗</a> **[NASA]** Experience the Rollout of SLS Hardware for Artemis III
 - <a href="https://www.nasa.gov/news-release/nasa-to-host-media-call-with-artemis-ii-crew-on-way-home-from-moon/" >🔗</a> **[NASA]** NASA to Host Media Call with Artemis II Crew on Way Home from Moon
-- <a href="https://arstechnica.com/space/2026/04/the-artemis-ii-mission-sends-back-stunning-images-of-the-far-side-of-the-moon/" >🔗</a> **[Arstechnica]** The Artemis II mission sends back stunning images of the far side of the Moon
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260408T065633">2026-04-08 06:56:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260408T073238">2026-04-08 07:32:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
