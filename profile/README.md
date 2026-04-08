@@ -97,6 +97,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/improved-thresholds-and-ssa-accuracy-can-reduce-most-satellite-collision-risk/" >🔗</a> **[SpaceNews]** Improved thresholds and SSA accuracy can reduce most satellite collision risk
 - <a href="https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/twin-nasa-control-rooms-support-artemis-safety-success/" >🔗</a> **[NASA]** Twin NASA Control Rooms Support Artemis Safety, Success
 - <a href="https://spacenews.com/space-sovereignty-is-no-longer-optional/" >🔗</a> **[SpaceNews]** Space Sovereignty Is No Longer Optional
 - <a href="https://www.nasa.gov/image-article/solar-eclipse-of-the-heart/" >🔗</a> **[NASA]** Solar Eclipse of the Heart
@@ -106,7 +107,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/tracking-the-next-sda-challenge/" >🔗</a> **[SpaceNews]** Tracking the next SDA challenge
 - <a href="https://spacenews.com/leolabs-debuts-space-monitoring-tool-for-military-users/" >🔗</a> **[SpaceNews]** LeoLabs debuts space monitoring tool for military users
 - <a href="https://spacenews.com/a-lunar-base-or-a-lunar-economy/" >🔗</a> **[SpaceNews]** A lunar base or a lunar economy?
-- <a href="https://www.nasaspaceflight.com/2026/04/spacex-refinements-starbase-pad-2-booster-19/" >🔗</a> **[NASASpaceflight]** SpaceX continues refinements at Starbase Pad 2 ahead of Booster 19 return
 
 
 ### Launch-related News 🚀
@@ -125,7 +125,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260408T200931">2026-04-08 20:09:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260408T204330">2026-04-08 20:43:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
