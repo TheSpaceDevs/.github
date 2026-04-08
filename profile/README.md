@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/space-security-moves-to-forefront-as-threats-to-satellites-spread/" >🔗</a> **[SpaceNews]** Space security moves to forefront as threats to satellites spread
 - <a href="https://spacenews.com/inspection-cubesat-demo-planned-as-first-step-toward-orbital-defense-mothership/" >🔗</a> **[SpaceNews]** Inspection cubesat demo planned as first step toward orbital defense mothership
 - <a href="https://spacenews.com/astroscale-passes-key-design-milestone-for-uk-military-space-tracking-cubesats/" >🔗</a> **[SpaceNews]** Astroscale passes key design milestone for UK military space-tracking cubesats
 - <a href="https://europeanspaceflight.com/pld-space-secures-e30-million-european-investment-bank-loan/" >🔗</a> **[European Spaceflight]** PLD Space Secures €30 Million European Investment Bank Loan
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/news-release/nasas-artemis-ii-crew-beams-official-moon-flyby-photos-to-earth/" >🔗</a> **[NASA]** NASA’s Artemis II Crew Beams Official Moon Flyby Photos to Earth
 - <a href="https://www.spacescout.info/2026/04/artemis-ii-flies-around-the-moon-for-all/" >🔗</a> **[Space Scout]** Artemis II Flies Around the Moon for All
 - <a href="https://spacenews.com/hungary-taps-northrop-grumman-for-first-national-geostationary-communications-satellite/" >🔗</a> **[SpaceNews]** Hungary taps Northrop Grumman for first national geostationary communications satellite
-- <a href="https://www.nasa.gov/image-article/earthset/" >🔗</a> **[NASA]** Earthset
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260408T094953">2026-04-08 09:49:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260408T101941">2026-04-08 10:19:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
