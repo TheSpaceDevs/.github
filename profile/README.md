@@ -97,6 +97,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/vantor-to-expand-imaging-satellite-fleet-adding-smallsats-to-increase-revisit-rates/" >🔗</a> **[SpaceNews]** Vantor to expand imaging satellite fleet, adding smallsats to increase revisit rates
 - <a href="https://spacenews.com/apex-to-develop-larger-satellites-for-missile-defense-space-based-computing/" >🔗</a> **[SpaceNews]** Apex to develop larger satellites for missile defense, space-based computing
 - <a href="https://europeanspaceflight.com/esa-spent-e82-million-to-launch-sentinel-1d-satellite-on-ariane-6/" >🔗</a> **[European Spaceflight]** ESA Spent €82 Million to Launch Sentinel-1D Satellite on Ariane 6
 - <a href="https://science.nasa.gov/earth/earth-observatory/snow-in-the-shadow-of-the-andes/" >🔗</a> **[NASA]** Snow in the Shadow of the Andes
@@ -106,7 +107,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/space-sovereignty-is-no-longer-optional/" >🔗</a> **[SpaceNews]** Space Sovereignty Is No Longer Optional
 - <a href="https://www.nasa.gov/image-article/solar-eclipse-of-the-heart/" >🔗</a> **[NASA]** Solar Eclipse of the Heart
 - <a href="https://spacenews.com/opportunities-for-on-orbit-computing-event/" >🔗</a> **[SpaceNews]** April 30: Opportunities for On-Orbit Computing
-- <a href="https://arstechnica.com/space/2026/04/with-orion-still-flying-nasa-is-nearing-key-decisions-about-artemis-iii/" >🔗</a> **[Arstechnica]** With Orion still flying, NASA is nearing key decisions about Artemis III
 
 
 ### Launch-related News 🚀
@@ -125,7 +125,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260409T095325">2026-04-09 09:53:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260409T102239">2026-04-09 10:22:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
