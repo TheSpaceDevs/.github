@@ -97,6 +97,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/earth-observatory/snow-in-the-shadow-of-the-andes/" >🔗</a> **[NASA]** Snow in the Shadow of the Andes
 - <a href="https://spacepolicyonline.com/news/artemis-ii-less-than-two-days-from-home/" >🔗</a> **[SpacePolicyOnline.com]** Artemis II Less Than Two Days from Home
 - <a href="https://spacenews.com/improved-thresholds-and-ssa-accuracy-can-reduce-most-satellite-collision-risk/" >🔗</a> **[SpaceNews]** Improved thresholds and SSA accuracy can reduce most satellite collision risk
 - <a href="https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/twin-nasa-control-rooms-support-artemis-safety-success/" >🔗</a> **[NASA]** Twin NASA Control Rooms Support Artemis Safety, Success
@@ -106,7 +107,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://arstechnica.com/space/2026/04/with-orion-still-flying-nasa-is-nearing-key-decisions-about-artemis-iii/" >🔗</a> **[Arstechnica]** With Orion still flying, NASA is nearing key decisions about Artemis III
 - <a href="https://spacenews.com/preparing-for-the-next-nasa-budget-battle/" >🔗</a> **[SpaceNews]** Preparing for the next NASA budget battle
 - <a href="https://spacenews.com/tracking-the-next-sda-challenge/" >🔗</a> **[SpaceNews]** Tracking the next SDA challenge
-- <a href="https://spacenews.com/leolabs-debuts-space-monitoring-tool-for-military-users/" >🔗</a> **[SpaceNews]** LeoLabs debuts space monitoring tool for military users
 
 
 ### Launch-related News 🚀
@@ -125,7 +125,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260409T040115">2026-04-09 04:01:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260409T051258">2026-04-09 05:12:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
