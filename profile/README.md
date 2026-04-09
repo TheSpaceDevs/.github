@@ -106,7 +106,7 @@ into *a Sun-Synchronous Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/04/Pointing_in_the_b_right_direction" >🔗</a> **[ESA]** Pointing in the (b)right direction
 - <a href="https://spacenews.com/space-force-taps-14-firms-for-1-8-billion-geo-surveillance-program/" >🔗</a> **[SpaceNews]** Space Force taps 14 firms for $1.8 billion GEO surveillance program
 - <a href="https://spacenews.com/albedo-prepares-second-vleo-mission-for-2027-launch/" >🔗</a> **[SpaceNews]** Albedo prepares second VLEO mission for 2027 launch
-- <a href="https://spacenews.com/lockheed-martin-wins-105-million-contract-for-gps-ground-control-system-as-ocx-winds-down/" >🔗</a> **[SpaceNews]** Lockheed Martin wins $105 million contract for GPS ground control system as OCX winds down
+- <a href="https://www.nasaspaceflight.com/2026/04/china-roundup-202604/" >🔗</a> **[NASASpaceflight]** China debuts new launchers, tests orbital servicing and outlines future deep-space missions
 
 
 ### Launch-related News 🚀
@@ -125,7 +125,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260409T150055">2026-04-09 15:00:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260409T155930">2026-04-09 15:59:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
