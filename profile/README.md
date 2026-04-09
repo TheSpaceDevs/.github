@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/starstruck/" >🔗</a> **[NASA]** Starstruck
 - <a href="https://science.nasa.gov/photojournal/watching-the-artemis-ii-mission-unfold-at-jpls-space-flight-operations-facility/" >🔗</a> **[NASA]** Watching the Artemis II Mission Unfold at JPL’s Space Flight Operations Facility
 - <a href="https://science.nasa.gov/photojournal/the-deep-space-network-acquires-artemis-ii-signal-2/" >🔗</a> **[NASA]** The Deep Space Network Acquires Artemis II Signal
 - <a href="https://science.nasa.gov/photojournal/the-deep-space-network-acquires-artemis-ii-signal/" >🔗</a> **[NASA]** The Deep Space Network Acquires Artemis II Signal
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/photojournal/supporting-artemis-ii-from-jpls-space-flight-operations-facility/" >🔗</a> **[NASA]** Supporting Artemis II From JPL’s Space Flight Operations Facility
 - <a href="https://spacenews.com/pld-space-secures-35-million-european-investment-bank-loan-for-miura-5-launcher/" >🔗</a> **[SpaceNews]** PLD Space secures $35 million European Investment Bank loan for MIURA 5 launcher
 - <a href="https://spacenews.com/heather-pringle-on-the-upcoming-space-symposium-and-future-international-collaboration-in-space/" >🔗</a> **[SpaceNews]** Heather Pringle on the upcoming Space Symposium and future international collaboration in space
-- <a href="https://spacenews.com/china-conducts-pair-of-long-march-launches-for-thousand-sails-and-guowang-megaconstellations/" >🔗</a> **[SpaceNews]** China conducts pair of Long March launches for Thousand Sails and Guowang megaconstellations
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260409T201354">2026-04-09 20:13:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260409T204419">2026-04-09 20:44:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
