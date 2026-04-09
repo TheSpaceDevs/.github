@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/aeronautics/indoor-testing-facilities-available-at-the-nasa-unmanned-autonomy-research-complex-nuarc/" >🔗</a> **[NASA]** Indoor Testing Facilities available at the NASA Unmanned Autonomy Research Complex (NUARC)
+- <a href="https://www.nasa.gov/missions/artemis/i-am-artemis-dan-florez/" >🔗</a> **[NASA]** I Am Artemis: Dan Florez
 - <a href="https://www.nasa.gov/image-article/indoor-testing-facilities-available-at-the-nasa-unmanned-autonomy-research-complex-nuarc/" >🔗</a> **[NASA]** Indoor Testing Facilities available at the NASA Unmanned Autonomy Research Complex (NUARC)
 - <a href="https://www.nasa.gov/image-article/starstruck/" >🔗</a> **[NASA]** Starstruck
 - <a href="https://science.nasa.gov/photojournal/watching-the-artemis-ii-mission-unfold-at-jpls-space-flight-operations-facility/" >🔗</a> **[NASA]** Watching the Artemis II Mission Unfold at JPL’s Space Flight Operations Facility
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/photojournal/watching-over-the-deep-space-network-before-artemis-ii-signal-acquisition/" >🔗</a> **[NASA]** Watching Over the Deep Space Network Before Artemis II Signal Acquisition
 - <a href="https://science.nasa.gov/photojournal/watching-the-artemis-ii-launch-from-jpls-space-flight-operations-facility/" >🔗</a> **[NASA]** Watching the Artemis II Launch From JPL’s Space Flight Operations Facility
 - <a href="https://science.nasa.gov/photojournal/jpls-lucky-peanuts-before-artemis-ii-launch/" >🔗</a> **[NASA]** JPL’s ‘Lucky Peanuts’ Before Artemis II Launch
-- <a href="https://science.nasa.gov/photojournal/supporting-artemis-ii-from-jpls-space-flight-operations-facility/" >🔗</a> **[NASA]** Supporting Artemis II From JPL’s Space Flight Operations Facility
-- <a href="https://spacenews.com/pld-space-secures-35-million-european-investment-bank-loan-for-miura-5-launcher/" >🔗</a> **[SpaceNews]** PLD Space secures $35 million European Investment Bank loan for MIURA 5 launcher
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260409T221049">2026-04-09 22:10:49 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260409T224328">2026-04-09 22:43:28 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
