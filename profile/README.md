@@ -97,6 +97,7 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/artemis-ii-less-than-two-days-from-home/" >🔗</a> **[SpacePolicyOnline.com]** Artemis II Less Than Two Days from Home
 - <a href="https://spacenews.com/improved-thresholds-and-ssa-accuracy-can-reduce-most-satellite-collision-risk/" >🔗</a> **[SpaceNews]** Improved thresholds and SSA accuracy can reduce most satellite collision risk
 - <a href="https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/twin-nasa-control-rooms-support-artemis-safety-success/" >🔗</a> **[NASA]** Twin NASA Control Rooms Support Artemis Safety, Success
 - <a href="https://spacenews.com/space-sovereignty-is-no-longer-optional/" >🔗</a> **[SpaceNews]** Space Sovereignty Is No Longer Optional
@@ -106,7 +107,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://spacenews.com/preparing-for-the-next-nasa-budget-battle/" >🔗</a> **[SpaceNews]** Preparing for the next NASA budget battle
 - <a href="https://spacenews.com/tracking-the-next-sda-challenge/" >🔗</a> **[SpaceNews]** Tracking the next SDA challenge
 - <a href="https://spacenews.com/leolabs-debuts-space-monitoring-tool-for-military-users/" >🔗</a> **[SpaceNews]** LeoLabs debuts space monitoring tool for military users
-- <a href="https://spacenews.com/a-lunar-base-or-a-lunar-economy/" >🔗</a> **[SpaceNews]** A lunar base or a lunar economy?
 
 
 ### Launch-related News 🚀
@@ -125,7 +125,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260409T025841">2026-04-09 02:58:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260409T040115">2026-04-09 04:01:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
