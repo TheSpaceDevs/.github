@@ -97,6 +97,8 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/what-returning-to-lunar-space-means-for-human-health/" >🔗</a> **[SpaceNews]** What returning to lunar space means for human health
+- <a href="https://spacenews.com/portal-space-systems-raises-50-million-to-accelerate-spacecraft-development/" >🔗</a> **[SpaceNews]** Portal Space Systems raises $50 million to accelerate spacecraft development
 - <a href="https://spacenews.com/space-force-taps-14-firms-for-1-8-billion-geo-surveillance-program/" >🔗</a> **[SpaceNews]** Space Force taps 14 firms for $1.8 billion GEO surveillance program
 - <a href="https://spacenews.com/albedo-prepares-second-vleo-mission-for-2027-launch/" >🔗</a> **[SpaceNews]** Albedo prepares second VLEO mission for 2027 launch
 - <a href="https://spacenews.com/lockheed-martin-wins-105-million-contract-for-gps-ground-control-system-as-ocx-winds-down/" >🔗</a> **[SpaceNews]** Lockheed Martin wins $105 million contract for GPS ground control system as OCX winds down
@@ -105,8 +107,6 @@ into *a Sun-Synchronous Orbit
 - <a href="https://europeanspaceflight.com/esa-spent-e82-million-to-launch-sentinel-1d-satellite-on-ariane-6/" >🔗</a> **[European Spaceflight]** ESA Spent €82 Million to Launch Sentinel-1D Satellite on Ariane 6
 - <a href="https://science.nasa.gov/earth/earth-observatory/snow-in-the-shadow-of-the-andes/" >🔗</a> **[NASA]** Snow in the Shadow of the Andes
 - <a href="https://spacepolicyonline.com/news/artemis-ii-less-than-two-days-from-home/" >🔗</a> **[SpacePolicyOnline.com]** Artemis II Less Than Two Days from Home
-- <a href="https://spacenews.com/improved-thresholds-and-ssa-accuracy-can-reduce-most-satellite-collision-risk/" >🔗</a> **[SpaceNews]** Improved thresholds and SSA accuracy can reduce most satellite collision risk
-- <a href="https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/twin-nasa-control-rooms-support-artemis-safety-success/" >🔗</a> **[NASA]** Twin NASA Control Rooms Support Artemis Safety, Success
 
 
 ### Launch-related News 🚀
@@ -125,7 +125,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260409T124824">2026-04-09 12:48:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260409T132907">2026-04-09 13:29:07 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
