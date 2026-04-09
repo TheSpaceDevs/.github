@@ -97,16 +97,16 @@ into *a Sun-Synchronous Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/a-new-kind-of-arsenal-commercial-satellites/" >🔗</a> **[SpaceNews]** A new kind of arsenal: commercial satellites
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/04/Moon_joy_Earth_love" >🔗</a> **[ESA]** Moon joy, Earth love
 - <a href="https://spacenews.com/what-returning-to-lunar-space-means-for-human-health/" >🔗</a> **[SpaceNews]** What returning to lunar space means for human health
 - <a href="https://spacenews.com/portal-space-systems-raises-50-million-to-accelerate-spacecraft-development/" >🔗</a> **[SpaceNews]** Portal Space Systems raises $50 million to accelerate spacecraft development
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/04/Pointing_in_the_b_right_direction" >🔗</a> **[ESA]** Pointing in the (b)right direction
 - <a href="https://spacenews.com/space-force-taps-14-firms-for-1-8-billion-geo-surveillance-program/" >🔗</a> **[SpaceNews]** Space Force taps 14 firms for $1.8 billion GEO surveillance program
 - <a href="https://spacenews.com/albedo-prepares-second-vleo-mission-for-2027-launch/" >🔗</a> **[SpaceNews]** Albedo prepares second VLEO mission for 2027 launch
 - <a href="https://spacenews.com/lockheed-martin-wins-105-million-contract-for-gps-ground-control-system-as-ocx-winds-down/" >🔗</a> **[SpaceNews]** Lockheed Martin wins $105 million contract for GPS ground control system as OCX winds down
 - <a href="https://spacenews.com/vantor-to-expand-imaging-satellite-fleet-adding-smallsats-to-increase-revisit-rates/" >🔗</a> **[SpaceNews]** Vantor to expand imaging satellite fleet, adding smallsats to increase revisit rates
 - <a href="https://spacenews.com/apex-to-develop-larger-satellites-for-missile-defense-space-based-computing/" >🔗</a> **[SpaceNews]** Apex to develop larger satellites for missile defense, space-based computing
-- <a href="https://europeanspaceflight.com/esa-spent-e82-million-to-launch-sentinel-1d-satellite-on-ariane-6/" >🔗</a> **[European Spaceflight]** ESA Spent €82 Million to Launch Sentinel-1D Satellite on Ariane 6
-- <a href="https://science.nasa.gov/earth/earth-observatory/snow-in-the-shadow-of-the-andes/" >🔗</a> **[NASA]** Snow in the Shadow of the Andes
-- <a href="https://spacepolicyonline.com/news/artemis-ii-less-than-two-days-from-home/" >🔗</a> **[SpacePolicyOnline.com]** Artemis II Less Than Two Days from Home
 
 
 ### Launch-related News 🚀
@@ -125,7 +125,7 @@ into *a Sun-Synchronous Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260409T132907">2026-04-09 13:29:07 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260409T141243">2026-04-09 14:12:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
