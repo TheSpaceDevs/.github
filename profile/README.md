@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2026/04/rocket-report-price-parity-between-ariane-6-and-falcon-9-isar-stands-down/" >🔗</a> **[Arstechnica]** Rocket Report: Price parity between Ariane 6 and Falcon 9? Isar stands down.
+- <a href="https://www.esa.int/About_Us/Business_with_ESA/Small_and_Medium_Sized_Enterprises/Register_for_ESA_s_Industry_Space_Days_2026" >🔗</a> **[ESA]** Register for ESA’s Industry Space Days 2026
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/04/Earth_from_Space_Lava_flow_on_Reunion_Island" >🔗</a> **[ESA]** Earth from Space: Lava flow on Réunion Island
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Celeste/ESA_s_Celeste_broadcasts_first_navigation_signal_from_low_Earth_orbit" >🔗</a> **[ESA]** ESA’s Celeste broadcasts first navigation signal from low Earth orbit
 - <a href="https://www.nasaspaceflight.com/2026/04/artemis-ii-closing-earth-return/" >🔗</a> **[NASASpaceflight]** Artemis II closing in on Earth return
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/aeronautics/indoor-testing-facilities-available-at-the-nasa-unmanned-autonomy-research-complex-nuarc/" >🔗</a> **[NASA]** Indoor Testing Facilities available at the NASA Unmanned Autonomy Research Complex (NUARC)
 - <a href="https://www.nasa.gov/missions/artemis/i-am-artemis-dan-florez/" >🔗</a> **[NASA]** I Am Artemis: Dan Florez
 - <a href="https://www.nasa.gov/image-article/indoor-testing-facilities-available-at-the-nasa-unmanned-autonomy-research-complex-nuarc/" >🔗</a> **[NASA]** Indoor Testing Facilities available at the NASA Unmanned Autonomy Research Complex (NUARC)
-- <a href="https://www.nasa.gov/image-article/starstruck/" >🔗</a> **[NASA]** Starstruck
-- <a href="https://science.nasa.gov/photojournal/watching-the-artemis-ii-mission-unfold-at-jpls-space-flight-operations-facility/" >🔗</a> **[NASA]** Watching the Artemis II Mission Unfold at JPL’s Space Flight Operations Facility
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260410T104500">2026-04-10 10:45:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260410T111549">2026-04-10 11:15:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
