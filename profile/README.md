@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/04/10/nasa-confident-artemis-ii-heat-shield-will-protect-crew-during-re-entry/" >🔗</a> **[Spaceflight Now]** NASA confident Artemis 2 heat shield will protect crew during re-entry
 - <a href="https://spacenews.com/hawkeye-360-files-to-go-public/" >🔗</a> **[SpaceNews]** HawkEye 360 files to go public
 - <a href="https://spacenews.com/spacety-raises-190-million-to-scale-satellite-manufacturing-plans-ipo/" >🔗</a> **[SpaceNews]** Spacety raises $190 million to scale satellite manufacturing, plans IPO
 - <a href="https://www.nasa.gov/image-article/new-perspective-of-home/" >🔗</a> **[NASA]** New Perspective of Home
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_06-10_April_2026" >🔗</a> **[ESA]** Week in images: 06-10 April 2026
 - <a href="https://spacenews.com/commerce-department-budget-proposal-revives-concerns-about-tracss/" >🔗</a> **[SpaceNews]** Commerce Department budget proposal revives concerns about TraCSS
 - <a href="https://spacenews.com/chinas-change-7-arrives-at-spaceport-for-lunar-south-pole-exploration-mission/" >🔗</a> **[SpaceNews]** China’s Chang’e-7 arrives at spaceport for lunar south pole exploration mission
-- <a href="https://spacenews.com/nasa-prepares-for-artemis-2-return/" >🔗</a> **[SpaceNews]** NASA prepares for Artemis 2 return
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260410T181239">2026-04-10 18:12:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260410T184427">2026-04-10 18:44:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
