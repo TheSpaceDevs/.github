@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/04/artemis-ii-closing-earth-return/" >🔗</a> **[NASASpaceflight]** Artemis II closing in on Earth return
+- <a href="https://science.nasa.gov/earth/earth-observatory/earthset-from-the-lunar-far-side/" >🔗</a> **[NASA]** Earthset From the Lunar Far Side
 - <a href="https://spacepolicyonline.com/news/artemis-ii-getting-ready-for-splashdown-tomorrow/" >🔗</a> **[SpacePolicyOnline.com]** Artemis II Getting Ready For Splashdown Tomorrow
 - <a href="https://www.nasa.gov/aeronautics/indoor-testing-facilities-available-at-the-nasa-unmanned-autonomy-research-complex-nuarc/" >🔗</a> **[NASA]** Indoor Testing Facilities available at the NASA Unmanned Autonomy Research Complex (NUARC)
 - <a href="https://www.nasa.gov/missions/artemis/i-am-artemis-dan-florez/" >🔗</a> **[NASA]** I Am Artemis: Dan Florez
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/photojournal/watching-the-artemis-ii-mission-unfold-at-jpls-space-flight-operations-facility/" >🔗</a> **[NASA]** Watching the Artemis II Mission Unfold at JPL’s Space Flight Operations Facility
 - <a href="https://science.nasa.gov/photojournal/the-deep-space-network-acquires-artemis-ii-signal-2/" >🔗</a> **[NASA]** The Deep Space Network Acquires Artemis II Signal
 - <a href="https://science.nasa.gov/photojournal/the-deep-space-network-acquires-artemis-ii-signal/" >🔗</a> **[NASA]** The Deep Space Network Acquires Artemis II Signal
-- <a href="https://science.nasa.gov/photojournal/watching-over-the-deep-space-network-before-artemis-ii-signal-acquisition/" >🔗</a> **[NASA]** Watching Over the Deep Space Network Before Artemis II Signal Acquisition
-- <a href="https://science.nasa.gov/photojournal/watching-the-artemis-ii-launch-from-jpls-space-flight-operations-facility/" >🔗</a> **[NASA]** Watching the Artemis II Launch From JPL’s Space Flight Operations Facility
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260410T040618">2026-04-10 04:06:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260410T051542">2026-04-10 05:15:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
