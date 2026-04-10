@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/commerce-department-budget-proposal-revives-concerns-about-tracss/" >🔗</a> **[SpaceNews]** Commerce Department budget proposal revives concerns about TraCSS
+- <a href="https://spacenews.com/chinas-change-7-arrives-at-spaceport-for-lunar-south-pole-exploration-mission/" >🔗</a> **[SpaceNews]** China’s Chang’e-7 arrives at spaceport for lunar south pole exploration mission
+- <a href="https://spacenews.com/nasa-prepares-for-artemis-2-return/" >🔗</a> **[SpaceNews]** NASA prepares for Artemis 2 return
 - <a href="https://arstechnica.com/space/2026/04/rocket-report-price-parity-between-ariane-6-and-falcon-9-isar-stands-down/" >🔗</a> **[Arstechnica]** Rocket Report: Price parity between Ariane 6 and Falcon 9? Isar stands down.
 - <a href="https://www.esa.int/About_Us/Business_with_ESA/Small_and_Medium_Sized_Enterprises/Register_for_ESA_s_Industry_Space_Days_2026" >🔗</a> **[ESA]** Register for ESA’s Industry Space Days 2026
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/04/Earth_from_Space_Lava_flow_on_Reunion_Island" >🔗</a> **[ESA]** Earth from Space: Lava flow on Réunion Island
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2026/04/artemis-ii-closing-earth-return/" >🔗</a> **[NASASpaceflight]** Artemis II closing in on Earth return
 - <a href="https://science.nasa.gov/earth/earth-observatory/earthset-from-the-lunar-far-side/" >🔗</a> **[NASA]** Earthset From the Lunar Far Side
 - <a href="https://spacepolicyonline.com/news/artemis-ii-getting-ready-for-splashdown-tomorrow/" >🔗</a> **[SpacePolicyOnline.com]** Artemis II Getting Ready For Splashdown Tomorrow
-- <a href="https://www.nasa.gov/aeronautics/indoor-testing-facilities-available-at-the-nasa-unmanned-autonomy-research-complex-nuarc/" >🔗</a> **[NASA]** Indoor Testing Facilities available at the NASA Unmanned Autonomy Research Complex (NUARC)
-- <a href="https://www.nasa.gov/missions/artemis/i-am-artemis-dan-florez/" >🔗</a> **[NASA]** I Am Artemis: Dan Florez
-- <a href="https://www.nasa.gov/image-article/indoor-testing-facilities-available-at-the-nasa-unmanned-autonomy-research-complex-nuarc/" >🔗</a> **[NASA]** Indoor Testing Facilities available at the NASA Unmanned Autonomy Research Complex (NUARC)
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260410T114425">2026-04-10 11:44:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260410T121132">2026-04-10 12:11:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
