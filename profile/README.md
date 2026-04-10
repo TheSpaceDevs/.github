@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/gsoa-and-novaspace-launch-the-space-industry-forum-sif-2026-in-singapore/" >🔗</a> **[SpaceNews]** GSOA and Novaspace Launch the Space Industry Forum (SIF) 2026 in Singapore
 - <a href="https://arstechnica.com/space/2026/04/heres-what-to-expect-from-the-fiery-14-minute-return-of-artemis-ii/" >🔗</a> **[Arstechnica]** Here's what to expect from the fiery, 14-minute return of Artemis II
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_06-10_April_2026" >🔗</a> **[ESA]** Week in images: 06-10 April 2026
 - <a href="https://spacenews.com/commerce-department-budget-proposal-revives-concerns-about-tracss/" >🔗</a> **[SpaceNews]** Commerce Department budget proposal revives concerns about TraCSS
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/About_Us/Business_with_ESA/Small_and_Medium_Sized_Enterprises/Register_for_ESA_s_Industry_Space_Days_2026" >🔗</a> **[ESA]** Register for ESA’s Industry Space Days 2026
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/04/Earth_from_Space_Lava_flow_on_Reunion_Island" >🔗</a> **[ESA]** Earth from Space: Lava flow on Réunion Island
 - <a href="https://www.esa.int/Applications/Satellite_navigation/Celeste/ESA_s_Celeste_broadcasts_first_navigation_signal_from_low_Earth_orbit" >🔗</a> **[ESA]** ESA’s Celeste broadcasts first navigation signal from low Earth orbit
-- <a href="https://www.nasaspaceflight.com/2026/04/artemis-ii-closing-earth-return/" >🔗</a> **[NASASpaceflight]** Artemis II closing in on Earth return
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260410T145019">2026-04-10 14:50:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260410T151416">2026-04-10 15:14:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
