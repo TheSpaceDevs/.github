@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/new-perspective-of-home/" >🔗</a> **[NASA]** New Perspective of Home
 - <a href="https://www.nasaspaceflight.com/2026/04/artemis-ii-return/" >🔗</a> **[NASASpaceflight]** Artemis II set for return to Earth after historic 10-day mission around the Moon
 - <a href="https://spacenews.com/gsoa-and-novaspace-launch-the-space-industry-forum-sif-2026-in-singapore/" >🔗</a> **[SpaceNews]** GSOA and Novaspace Launch the Space Industry Forum (SIF) 2026 in Singapore
 - <a href="https://arstechnica.com/space/2026/04/heres-what-to-expect-from-the-fiery-14-minute-return-of-artemis-ii/" >🔗</a> **[Arstechnica]** Here's what to expect from the fiery, 14-minute return of Artemis II
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/nasa-prepares-for-artemis-2-return/" >🔗</a> **[SpaceNews]** NASA prepares for Artemis 2 return
 - <a href="https://arstechnica.com/space/2026/04/rocket-report-price-parity-between-ariane-6-and-falcon-9-isar-stands-down/" >🔗</a> **[Arstechnica]** Rocket Report: Price parity between Ariane 6 and Falcon 9? Isar stands down.
 - <a href="https://www.esa.int/About_Us/Business_with_ESA/Small_and_Medium_Sized_Enterprises/Register_for_ESA_s_Industry_Space_Days_2026" >🔗</a> **[ESA]** Register for ESA’s Industry Space Days 2026
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/04/Earth_from_Space_Lava_flow_on_Reunion_Island" >🔗</a> **[ESA]** Earth from Space: Lava flow on Réunion Island
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260410T161441">2026-04-10 16:14:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260410T164432">2026-04-10 16:44:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
