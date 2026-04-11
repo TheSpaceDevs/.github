@@ -52,9 +52,9 @@ into *an Unknown
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260417T040200">2026-04-17 04:02:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2D | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20260417T040200Z%2F20260417T042400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2D | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260418T140000">2026-04-18 14:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-22&location=Vandenberg SFB, CA, USA&dates=20260418T140000Z%2F20260418T180000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-22** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260422T020000">2026-04-22 02:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-14&location=Vandenberg SFB, CA, USA&dates=20260422T020000Z%2F20260422T060000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-14** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260422T050000">2026-04-22 05:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/un.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=South Korean ADD Solid-Fuel SLV | Demo Flight&location=Sea Launch&dates=20260422T050000Z%2F20260422T090000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **South Korean ADD Solid-Fuel SLV | Demo Flight** from Sea Launch.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260423T000000">2026-04-23 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Kakushin Rising (JAXA Rideshare)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20260423T000000Z%2F20260423T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Kakushin Rising (JAXA Rideshare)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260425T222100">2026-04-25 22:21:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Progress MS-34 (95P)&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20260425T222100Z%2F20260425T222100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Progress MS-34 (95P)** from Baikonur Cosmodrome, Republic of Kazakhstan.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260427T000000">2026-04-27 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 551 | Amazon Leo (LA-06)&location=Cape Canaveral SFS, FL, USA&dates=20260427T000000Z%2F20260427T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 551 | Amazon Leo (LA-06)** from Cape Canaveral SFS, FL, USA.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/la-nasa-da-la-bienvenida-a-la-tierra-a-los-exploradores-lunares-de-artemis-ii-quienes-batieron-records/" >🔗</a> **[NASA]** La NASA da la bienvenida a la Tierra a los exploradores lunares de Artemis II, quienes batieron récords
 - <a href="https://www.nasa.gov/news-release/nasa-science-cargo-launch-aboard-northrop-grumman-crs-24/" >🔗</a> **[NASA]** NASA Science, Cargo Launch Aboard Northrop Grumman CRS-24
 - <a href="https://www.nasaspaceflight.com/2026/04/crs-ng-24-launch/" >🔗</a> **[NASASpaceflight]** Falcon 9 launches CRS NG-24 cargo ship to ISS
 - <a href="https://www.nasa.gov/image-article/artemis-ii-splashes-down/" >🔗</a> **[NASA]** Artemis II Splashes Down
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/moog-technology-keeps-artemis-ii-astronauts-safe-during-historic-lunar-mission/" >🔗</a> **[SpaceNews]** Moog Technology Keeps Artemis II Astronauts Safe During Historic Lunar Mission
 - <a href="https://spacepolicyonline.com/news/theyre-home-artemis-ii-is-back-on-earth/" >🔗</a> **[SpacePolicyOnline.com]** They’re Home! Artemis II is Back on Earth
 - <a href="https://spacenews.com/orion-splashes-down-to-successfully-end-artemis-2-mission/" >🔗</a> **[SpaceNews]** Orion splashes down to successfully end Artemis 2 mission
-- <a href="https://spaceflightnow.com/2026/04/10/nasa-confident-artemis-ii-heat-shield-will-protect-crew-during-re-entry/" >🔗</a> **[Spaceflight Now]** NASA confident Artemis 2 heat shield will protect crew during re-entry
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260411T150721">2026-04-11 15:07:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260411T154137">2026-04-11 15:41:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
