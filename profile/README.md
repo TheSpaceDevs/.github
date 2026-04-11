@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/moog-technology-keeps-artemis-ii-astronauts-safe-during-historic-lunar-mission/" >🔗</a> **[SpaceNews]** Moog Technology Keeps Artemis II Astronauts Safe During Historic Lunar Mission
+- <a href="https://spacepolicyonline.com/news/theyre-home-artemis-ii-is-back-on-earth/" >🔗</a> **[SpacePolicyOnline.com]** They’re Home! Artemis II is Back on Earth
+- <a href="https://spacenews.com/orion-splashes-down-to-successfully-end-artemis-2-mission/" >🔗</a> **[SpaceNews]** Orion splashes down to successfully end Artemis 2 mission
 - <a href="https://spaceflightnow.com/2026/04/10/nasa-confident-artemis-ii-heat-shield-will-protect-crew-during-re-entry/" >🔗</a> **[Spaceflight Now]** NASA confident Artemis 2 heat shield will protect crew during re-entry
 - <a href="https://spacenews.com/hawkeye-360-files-to-go-public/" >🔗</a> **[SpaceNews]** HawkEye 360 files to go public
 - <a href="https://spacenews.com/spacety-raises-190-million-to-scale-satellite-manufacturing-plans-ipo/" >🔗</a> **[SpaceNews]** Spacety raises $190 million to scale satellite manufacturing, plans IPO
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2026/04/artemis-ii-return/" >🔗</a> **[NASASpaceflight]** Artemis II set for return to Earth after historic 10-day mission around the Moon
 - <a href="https://spacenews.com/gsoa-and-novaspace-launch-the-space-industry-forum-sif-2026-in-singapore/" >🔗</a> **[SpaceNews]** GSOA and Novaspace Launch the Space Industry Forum (SIF) 2026 in Singapore
 - <a href="https://arstechnica.com/space/2026/04/heres-what-to-expect-from-the-fiery-14-minute-return-of-artemis-ii/" >🔗</a> **[Arstechnica]** Here's what to expect from the fiery, 14-minute return of Artemis II
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_06-10_April_2026" >🔗</a> **[ESA]** Week in images: 06-10 April 2026
-- <a href="https://spacenews.com/commerce-department-budget-proposal-revives-concerns-about-tracss/" >🔗</a> **[SpaceNews]** Commerce Department budget proposal revives concerns about TraCSS
-- <a href="https://spacenews.com/chinas-change-7-arrives-at-spaceport-for-lunar-south-pole-exploration-mission/" >🔗</a> **[SpaceNews]** China’s Chang’e-7 arrives at spaceport for lunar south pole exploration mission
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260411T001043">2026-04-11 00:10:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260411T005656">2026-04-11 00:56:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
