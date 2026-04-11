@@ -89,6 +89,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2026/04/the-artemis-ii-mission-has-ended-where-does-nasa-go-from-here/" >🔗</a> **[Arstechnica]** The Artemis II mission has ended. Where does NASA go from here?
 - <a href="https://www.nasa.gov/news-release/nasa-welcomes-record-setting-artemis-ii-moonfarers-back-to-earth/" >🔗</a> **[NASA]** NASA Welcomes Record-Setting Artemis II Moonfarers Back to Earth
 - <a href="https://spacenews.com/moog-technology-keeps-artemis-ii-astronauts-safe-during-historic-lunar-mission/" >🔗</a> **[SpaceNews]** Moog Technology Keeps Artemis II Astronauts Safe During Historic Lunar Mission
 - <a href="https://spacepolicyonline.com/news/theyre-home-artemis-ii-is-back-on-earth/" >🔗</a> **[SpacePolicyOnline.com]** They’re Home! Artemis II is Back on Earth
@@ -98,7 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/spacety-raises-190-million-to-scale-satellite-manufacturing-plans-ipo/" >🔗</a> **[SpaceNews]** Spacety raises $190 million to scale satellite manufacturing, plans IPO
 - <a href="https://www.nasa.gov/image-article/new-perspective-of-home/" >🔗</a> **[NASA]** New Perspective of Home
 - <a href="https://www.nasaspaceflight.com/2026/04/artemis-ii-return/" >🔗</a> **[NASASpaceflight]** Artemis II set for return to Earth after historic 10-day mission around the Moon
-- <a href="https://spacenews.com/gsoa-and-novaspace-launch-the-space-industry-forum-sif-2026-in-singapore/" >🔗</a> **[SpaceNews]** GSOA and Novaspace Launch the Space Industry Forum (SIF) 2026 in Singapore
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260411T025818">2026-04-11 02:58:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260411T035335">2026-04-11 03:53:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
