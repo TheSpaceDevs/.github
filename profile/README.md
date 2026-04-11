@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-science-cargo-launch-aboard-northrop-grumman-crs-24/" >🔗</a> **[NASA]** NASA Science, Cargo Launch Aboard Northrop Grumman CRS-24
+- <a href="https://www.nasaspaceflight.com/2026/04/crs-ng-24-launch/" >🔗</a> **[NASASpaceflight]** Falcon 9 launches CRS NG-24 cargo ship to ISS
 - <a href="https://www.nasa.gov/image-article/artemis-ii-splashes-down/" >🔗</a> **[NASA]** Artemis II Splashes Down
 - <a href="https://spacepolicyonline.com/news/nasa-cheers-first-successful-moon-mission-since-1972/" >🔗</a> **[SpacePolicyOnline.com]** NASA Cheers First Successful Moon Mission Since 1972
 - <a href="https://arstechnica.com/space/2026/04/the-artemis-ii-mission-has-ended-where-does-nasa-go-from-here/" >🔗</a> **[Arstechnica]** The Artemis II mission has ended. Where does NASA go from here?
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://spacepolicyonline.com/news/theyre-home-artemis-ii-is-back-on-earth/" >🔗</a> **[SpacePolicyOnline.com]** They’re Home! Artemis II is Back on Earth
 - <a href="https://spacenews.com/orion-splashes-down-to-successfully-end-artemis-2-mission/" >🔗</a> **[SpaceNews]** Orion splashes down to successfully end Artemis 2 mission
 - <a href="https://spaceflightnow.com/2026/04/10/nasa-confident-artemis-ii-heat-shield-will-protect-crew-during-re-entry/" >🔗</a> **[Spaceflight Now]** NASA confident Artemis 2 heat shield will protect crew during re-entry
-- <a href="https://spacenews.com/hawkeye-360-files-to-go-public/" >🔗</a> **[SpaceNews]** HawkEye 360 files to go public
-- <a href="https://spacenews.com/spacety-raises-190-million-to-scale-satellite-manufacturing-plans-ipo/" >🔗</a> **[SpaceNews]** Spacety raises $190 million to scale satellite manufacturing, plans IPO
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260411T134543">2026-04-11 13:45:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260411T140938">2026-04-11 14:09:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
