@@ -45,7 +45,6 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260411T023900">2026-04-11 02:39:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-21&location=Vandenberg SFB, CA, USA&dates=20260411T023900Z%2F20260411T063900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-21** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260411T112200">2026-04-11 11:22:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Smart Dragon 3 | Unknown Payload&location=Haiyang Oriental Spaceport&dates=20260411T112200Z%2F20260411T114700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Smart Dragon 3 | Unknown Payload** from Haiyang Oriental Spaceport.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260411T114121">2026-04-11 11:41:21 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Cygnus CRS-2 NG-24 (S.S. Steven R. Nagel)&location=Cape Canaveral SFS, FL, USA&dates=20260411T114121Z%2F20260411T114121Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Cygnus CRS-2 NG-24 (S.S. Steven R. Nagel)** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260414T035400">2026-04-14 03:54:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Kinetica 1 | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20260414T035400Z%2F20260414T041500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Kinetica 1 | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
@@ -90,6 +89,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-welcomes-record-setting-artemis-ii-moonfarers-back-to-earth/" >🔗</a> **[NASA]** NASA Welcomes Record-Setting Artemis II Moonfarers Back to Earth
 - <a href="https://spacenews.com/moog-technology-keeps-artemis-ii-astronauts-safe-during-historic-lunar-mission/" >🔗</a> **[SpaceNews]** Moog Technology Keeps Artemis II Astronauts Safe During Historic Lunar Mission
 - <a href="https://spacepolicyonline.com/news/theyre-home-artemis-ii-is-back-on-earth/" >🔗</a> **[SpacePolicyOnline.com]** They’re Home! Artemis II is Back on Earth
 - <a href="https://spacenews.com/orion-splashes-down-to-successfully-end-artemis-2-mission/" >🔗</a> **[SpaceNews]** Orion splashes down to successfully end Artemis 2 mission
@@ -99,7 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/new-perspective-of-home/" >🔗</a> **[NASA]** New Perspective of Home
 - <a href="https://www.nasaspaceflight.com/2026/04/artemis-ii-return/" >🔗</a> **[NASASpaceflight]** Artemis II set for return to Earth after historic 10-day mission around the Moon
 - <a href="https://spacenews.com/gsoa-and-novaspace-launch-the-space-industry-forum-sif-2026-in-singapore/" >🔗</a> **[SpaceNews]** GSOA and Novaspace Launch the Space Industry Forum (SIF) 2026 in Singapore
-- <a href="https://arstechnica.com/space/2026/04/heres-what-to-expect-from-the-fiery-14-minute-return-of-artemis-ii/" >🔗</a> **[Arstechnica]** Here's what to expect from the fiery, 14-minute return of Artemis II
 
 
 ### Launch-related News 🚀
@@ -109,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260411T013617">2026-04-11 01:36:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260411T025818">2026-04-11 02:58:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
