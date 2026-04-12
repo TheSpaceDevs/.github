@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-april-12-18-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy April 12-18, 2026
 - <a href="https://www.nasaspaceflight.com/2026/04/ship-39-booster-19-static-fire/" >🔗</a> **[NASASpaceflight]** Ship 39 and Booster 19 Roll out for Static Fire Testing
 - <a href="https://spacenews.com/rocket-lab-wins-contract-for-three-more-iqps-launches/" >🔗</a> **[SpaceNews]** Rocket Lab wins contract for three more iQPS launches
 - <a href="https://spacepolicyonline.com/news/artemis-ii-crew-joyously-back-home-in-houston/" >🔗</a> **[SpacePolicyOnline.com]** Artemis II Crew Joyously Back Home in Houston
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasaspaceflight.com/2026/04/crs-ng-24-launch/" >🔗</a> **[NASASpaceflight]** Falcon 9 launches CRS NG-24 cargo ship to ISS
 - <a href="https://www.nasa.gov/image-article/artemis-ii-splashes-down/" >🔗</a> **[NASA]** Artemis II Splashes Down
 - <a href="https://spacepolicyonline.com/news/nasa-cheers-first-successful-moon-mission-since-1972/" >🔗</a> **[SpacePolicyOnline.com]** NASA Cheers First Successful Moon Mission Since 1972
-- <a href="https://arstechnica.com/space/2026/04/the-artemis-ii-mission-has-ended-where-does-nasa-go-from-here/" >🔗</a> **[Arstechnica]** The Artemis II mission has ended. Where does NASA go from here?
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260412T210700">2026-04-12 21:07:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260412T214220">2026-04-12 21:42:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
