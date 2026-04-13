@@ -91,6 +91,8 @@ into *an Unknown
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/First_Proba-3_science_surprisingly_speedy_solar_wind" >🔗</a> **[ESA]** First Proba-3 science: surprisingly speedy solar wind
+- <a href="https://spacenews.com/gravitics-targets-2027-flight-test-for-orbital-carrier-architecture/" >🔗</a> **[SpaceNews]** Gravitics targets 2027 flight test for ‘orbital carrier’ architecture
+- <a href="https://science.nasa.gov/earth/human-dimensions/earth-at-night/nasa-night-light-imagery-tracks-us-energy-transition-global-volatility/" >🔗</a> **[NASA]** NASA Night-light Imagery Tracks US Energy Transition, Global Volatility
 - <a href="https://spacenews.com/near-real-time-payload-data-delivery-with-ssc-space-go/" >🔗</a> **[SpaceNews]** Near real-time payload data delivery with SSC Space Go
 - <a href="https://spacenews.com/citra-space-raises-15-million-series-a-to-expand-platform-for-identifying-objects-in-orbit/" >🔗</a> **[SpaceNews]** Citra Space raises $15 million Series A to expand platform for identifying objects in orbit
 - <a href="https://spacenews.com/atomic-6-unveils-online-marketplace-for-orbital-data-centers/" >🔗</a> **[SpaceNews]** Atomic-6 unveils online marketplace for orbital data centers
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/missions/hubble/hubble-spies-an-active-spiral/" >🔗</a> **[NASA]** Hubble Spies an Active Spiral
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/04/Artemis_II_around_the_Moon_in_10_days" >🔗</a> **[ESA]** Artemis II: around the Moon in 10 days
 - <a href="https://spacenews.com/key-senate-appropriator-rejects-proposed-nasa-budget-cuts/" >🔗</a> **[SpaceNews]** Key Senate appropriator rejects proposed NASA budget cuts
-- <a href="https://spacenews.com/qa-building-a-broadband-constellation-for-a-contested-space-era/" >🔗</a> **[SpaceNews]** Q&A: Building a broadband constellation for a contested space era
-- <a href="https://spacenews.com/sophia-and-kepler-to-marry-orbital-compute-with-optical-links/" >🔗</a> **[SpaceNews]** Sophia and Kepler to marry orbital compute with optical links
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260413T145923">2026-04-13 14:59:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260413T153809">2026-04-13 15:38:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
