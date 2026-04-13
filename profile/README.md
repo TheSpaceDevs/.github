@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/sophia-and-kepler-to-marry-orbital-compute-with-optical-links/" >🔗</a> **[SpaceNews]** Sophia and Kepler to marry orbital compute with optical links
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-april-12-18-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy April 12-18, 2026
 - <a href="https://www.nasaspaceflight.com/2026/04/ship-39-booster-19-static-fire/" >🔗</a> **[NASASpaceflight]** Ship 39 and Booster 19 Roll out for Static Fire Testing
 - <a href="https://spacenews.com/rocket-lab-wins-contract-for-three-more-iqps-launches/" >🔗</a> **[SpaceNews]** Rocket Lab wins contract for three more iQPS launches
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/news-release/nasa-science-cargo-launch-aboard-northrop-grumman-crs-24/" >🔗</a> **[NASA]** NASA Science, Cargo Launch Aboard Northrop Grumman CRS-24
 - <a href="https://www.nasaspaceflight.com/2026/04/crs-ng-24-launch/" >🔗</a> **[NASASpaceflight]** Falcon 9 launches CRS NG-24 cargo ship to ISS
 - <a href="https://www.nasa.gov/image-article/artemis-ii-splashes-down/" >🔗</a> **[NASA]** Artemis II Splashes Down
-- <a href="https://spacepolicyonline.com/news/nasa-cheers-first-successful-moon-mission-since-1972/" >🔗</a> **[SpacePolicyOnline.com]** NASA Cheers First Successful Moon Mission Since 1972
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260413T034216">2026-04-13 03:42:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260413T045917">2026-04-13 04:59:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
