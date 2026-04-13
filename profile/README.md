@@ -91,15 +91,15 @@ into *an Unknown
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/First_Proba-3_science_surprisingly_speedy_solar_wind" >🔗</a> **[ESA]** First Proba-3 science: surprisingly speedy solar wind
+- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-rollout-event-for-artemis-iii-moon-rocket-stage/" >🔗</a> **[NASA]** NASA Invites Media to Rollout Event for Artemis III Moon Rocket Stage
+- <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasa-announces-32nd-annual-human-exploration-rover-challenge-winners/" >🔗</a> **[NASA]** NASA Announces 32nd Annual Human Exploration Rover Challenge Winners
+- <a href="https://spacenews.com/qa-heather-pringle-on-what-to-expect-from-space-symposium/" >🔗</a> **[SpaceNews]** Q&A: Heather Pringle on what to expect from Space Symposium
 - <a href="https://www.nasa.gov/news-release/nasa-awards-data-engineering-informatics-support-contract/" >🔗</a> **[NASA]** NASA Awards Data Engineering, Informatics Support Contract
 - <a href="https://www.nasaspaceflight.com/2026/04/launch-preview-041326/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9 to launch Starlink satellites, New Glenn to launch with flown booster
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4852-4858-when-data-take-their-time/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4852–4858: When Data Take Their Time…
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4845-4851-bye-bye-boxwork-bye-bye/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4845-4851: Bye-Bye Boxwork, Bye-Bye
 - <a href="https://www.nasa.gov/news-release/nasa-to-host-artemis-ii-crew-postflight-news-conference/" >🔗</a> **[NASA]** NASA to Host Artemis II Crew Postflight News Conference
 - <a href="https://spacenews.com/phantom-space-eyes-edge-in-orbital-data-race-with-thermal-deal/" >🔗</a> **[SpaceNews]** Phantom Space eyes edge in orbital data race with thermal deal
-- <a href="https://spacenews.com/aerospace-to-support-industry-with-government-furnished-talent/" >🔗</a> **[SpaceNews]** Aerospace to support industry with government furnished talent
-- <a href="https://spacenews.com/spring-fever-pitch-three-questions-to-listen-for-this-space-symposium/" >🔗</a> **[SpaceNews]** Spring fever pitch: Three questions to listen for this Space Symposium
-- <a href="https://spacenews.com/the-path-to-50-billion-in-new-space-investment/" >🔗</a> **[SpaceNews]** The path to $50 billion in new space investment
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260413T211335">2026-04-13 21:13:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260413T214418">2026-04-13 21:44:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
