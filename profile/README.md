@@ -91,15 +91,15 @@ into *an Unknown
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/First_Proba-3_science_surprisingly_speedy_solar_wind" >🔗</a> **[ESA]** First Proba-3 science: surprisingly speedy solar wind
+- <a href="https://spacenews.com/orbit-is-filling-up-fast-now-comes-the-awkward-bit-pre-empting-and-handling-a-crisis/" >🔗</a> **[SpaceNews]** Orbit is filling up fast. Now comes the awkward bit: pre-empting and handling a crisis.
+- <a href="https://spacenews.com/atomic-6-unveils-online-marketplace-for-orbital-data-centers/" >🔗</a> **[SpaceNews]** Atomic-6 unveils online marketplace for orbital data centers
+- <a href="https://science.nasa.gov/missions/hubble/hubble-spies-an-active-spiral/" >🔗</a> **[NASA]** Hubble Spies an Active Spiral
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/04/Artemis_II_around_the_Moon_in_10_days" >🔗</a> **[ESA]** Artemis II: around the Moon in 10 days
 - <a href="https://spacenews.com/key-senate-appropriator-rejects-proposed-nasa-budget-cuts/" >🔗</a> **[SpaceNews]** Key Senate appropriator rejects proposed NASA budget cuts
 - <a href="https://spacenews.com/qa-building-a-broadband-constellation-for-a-contested-space-era/" >🔗</a> **[SpaceNews]** Q&A: Building a broadband constellation for a contested space era
 - <a href="https://spacenews.com/sophia-and-kepler-to-marry-orbital-compute-with-optical-links/" >🔗</a> **[SpaceNews]** Sophia and Kepler to marry orbital compute with optical links
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-april-12-18-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy April 12-18, 2026
 - <a href="https://www.nasaspaceflight.com/2026/04/ship-39-booster-19-static-fire/" >🔗</a> **[NASASpaceflight]** Ship 39 and Booster 19 Roll out for Static Fire Testing
-- <a href="https://spacenews.com/rocket-lab-wins-contract-for-three-more-iqps-launches/" >🔗</a> **[SpaceNews]** Rocket Lab wins contract for three more iQPS launches
-- <a href="https://spacepolicyonline.com/news/artemis-ii-crew-joyously-back-home-in-houston/" >🔗</a> **[SpacePolicyOnline.com]** Artemis II Crew Joyously Back Home in Houston
-- <a href="https://spacenews.com/falcon-9-launches-cygnus-cargo-spacecraft-to-the-iss/" >🔗</a> **[SpaceNews]** Falcon 9 launches Cygnus cargo spacecraft to the ISS
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260413T124837">2026-04-13 12:48:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260413T132925">2026-04-13 13:29:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
