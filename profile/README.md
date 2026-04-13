@@ -91,15 +91,15 @@ into *an Unknown
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/First_Proba-3_science_surprisingly_speedy_solar_wind" >🔗</a> **[ESA]** First Proba-3 science: surprisingly speedy solar wind
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/04/Artemis_II_around_the_Moon_in_10_days" >🔗</a> **[ESA]** Artemis II: around the Moon in 10 days
+- <a href="https://spacenews.com/key-senate-appropriator-rejects-proposed-nasa-budget-cuts/" >🔗</a> **[SpaceNews]** Key Senate appropriator rejects proposed NASA budget cuts
+- <a href="https://spacenews.com/qa-building-a-broadband-constellation-for-a-contested-space-era/" >🔗</a> **[SpaceNews]** Q&A: Building a broadband constellation for a contested space era
 - <a href="https://spacenews.com/sophia-and-kepler-to-marry-orbital-compute-with-optical-links/" >🔗</a> **[SpaceNews]** Sophia and Kepler to marry orbital compute with optical links
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-april-12-18-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy April 12-18, 2026
 - <a href="https://www.nasaspaceflight.com/2026/04/ship-39-booster-19-static-fire/" >🔗</a> **[NASASpaceflight]** Ship 39 and Booster 19 Roll out for Static Fire Testing
 - <a href="https://spacenews.com/rocket-lab-wins-contract-for-three-more-iqps-launches/" >🔗</a> **[SpaceNews]** Rocket Lab wins contract for three more iQPS launches
 - <a href="https://spacepolicyonline.com/news/artemis-ii-crew-joyously-back-home-in-houston/" >🔗</a> **[SpacePolicyOnline.com]** Artemis II Crew Joyously Back Home in Houston
 - <a href="https://spacenews.com/falcon-9-launches-cygnus-cargo-spacecraft-to-the-iss/" >🔗</a> **[SpaceNews]** Falcon 9 launches Cygnus cargo spacecraft to the ISS
-- <a href="https://www.nasa.gov/news-release/la-nasa-da-la-bienvenida-a-la-tierra-a-los-exploradores-lunares-de-artemis-ii-quienes-batieron-records/" >🔗</a> **[NASA]** La NASA da la bienvenida a la Tierra a los exploradores lunares de Artemis II, quienes batieron récords
-- <a href="https://www.nasa.gov/news-release/nasa-science-cargo-launch-aboard-northrop-grumman-crs-24/" >🔗</a> **[NASA]** NASA Science, Cargo Launch Aboard Northrop Grumman CRS-24
-- <a href="https://www.nasaspaceflight.com/2026/04/crs-ng-24-launch/" >🔗</a> **[NASASpaceflight]** Falcon 9 launches CRS NG-24 cargo ship to ISS
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260413T110301">2026-04-13 11:03:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260413T115327">2026-04-13 11:53:27 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
