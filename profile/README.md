@@ -92,14 +92,14 @@ into *an Unknown
 ### Latest News ⌛
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/First_Proba-3_science_surprisingly_speedy_solar_wind" >🔗</a> **[ESA]** First Proba-3 science: surprisingly speedy solar wind
 - <a href="https://www.nasa.gov/news-release/nasa-to-host-artemis-ii-crew-postflight-news-conference/" >🔗</a> **[NASA]** NASA to Host Artemis II Crew Postflight News Conference
+- <a href="https://spacenews.com/phantom-space-eyes-edge-in-orbital-data-race-with-thermal-deal/" >🔗</a> **[SpaceNews]** Phantom Space eyes edge in orbital data race with thermal deal
+- <a href="https://spacenews.com/aerospace-to-support-industry-with-government-furnished-talent/" >🔗</a> **[SpaceNews]** Aerospace to support industry with government furnished talent
 - <a href="https://spacenews.com/spring-fever-pitch-three-questions-to-listen-for-this-space-symposium/" >🔗</a> **[SpaceNews]** Spring fever pitch: Three questions to listen for this Space Symposium
 - <a href="https://spacenews.com/the-path-to-50-billion-in-new-space-investment/" >🔗</a> **[SpaceNews]** The path to $50 billion in new space investment
 - <a href="https://www.nasa.gov/image-article/artemis-ii-astronauts-aboard-uss-john-p-murtha/" >🔗</a> **[NASA]** Artemis II Astronauts Aboard USS John P. Murtha
 - <a href="https://www.spacescout.info/2026/04/artemis-ii-safe-and-sound-on-earth/" >🔗</a> **[Space Scout]** Artemis II Safe and Sound on Earth
 - <a href="https://spacenews.com/amazon-reveals-aviation-antenna-as-leo-inflight-connectivity-race-intensifies/" >🔗</a> **[SpaceNews]** Amazon reveals aviation antenna as LEO inflight connectivity race intensifies
 - <a href="https://spaceflightnow.com/2026/04/13/live-coverage-space-station-to-capture-berth-cygnus-xl-s-s-steven-r-nagel-cargo-spacecraft/" >🔗</a> **[Spaceflight Now]** Live coverage: Space Station to capture, berth Cygnus XL ’S.S. Steven R. Nagel’ cargo spacecraft
-- <a href="https://spacenews.com/fueling-test-suggests-imminent-debut-of-chinas-reusable-long-march-10b-rocket/" >🔗</a> **[SpaceNews]** Fueling test suggests imminent debut of China’s reusable Long March 10B rocket
-- <a href="https://spacenews.com/gravitics-targets-2027-flight-test-for-orbital-carrier-architecture/" >🔗</a> **[SpaceNews]** Gravitics targets 2027 flight test for ‘orbital carrier’ architecture
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260413T185011">2026-04-13 18:50:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260413T192650">2026-04-13 19:26:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
