@@ -91,15 +91,15 @@ into *an Unknown
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/First_Proba-3_science_surprisingly_speedy_solar_wind" >🔗</a> **[ESA]** First Proba-3 science: surprisingly speedy solar wind
+- <a href="https://www.nasa.gov/news-release/nasa-to-host-artemis-ii-crew-postflight-news-conference/" >🔗</a> **[NASA]** NASA to Host Artemis II Crew Postflight News Conference
+- <a href="https://spacenews.com/spring-fever-pitch-three-questions-to-listen-for-this-space-symposium/" >🔗</a> **[SpaceNews]** Spring fever pitch: Three questions to listen for this Space Symposium
+- <a href="https://spacenews.com/the-path-to-50-billion-in-new-space-investment/" >🔗</a> **[SpaceNews]** The path to $50 billion in new space investment
+- <a href="https://www.nasa.gov/image-article/artemis-ii-astronauts-aboard-uss-john-p-murtha/" >🔗</a> **[NASA]** Artemis II Astronauts Aboard USS John P. Murtha
 - <a href="https://www.spacescout.info/2026/04/artemis-ii-safe-and-sound-on-earth/" >🔗</a> **[Space Scout]** Artemis II Safe and Sound on Earth
 - <a href="https://spacenews.com/amazon-reveals-aviation-antenna-as-leo-inflight-connectivity-race-intensifies/" >🔗</a> **[SpaceNews]** Amazon reveals aviation antenna as LEO inflight connectivity race intensifies
 - <a href="https://spaceflightnow.com/2026/04/13/live-coverage-space-station-to-capture-berth-cygnus-xl-s-s-steven-r-nagel-cargo-spacecraft/" >🔗</a> **[Spaceflight Now]** Live coverage: Space Station to capture, berth Cygnus XL ’S.S. Steven R. Nagel’ cargo spacecraft
 - <a href="https://spacenews.com/fueling-test-suggests-imminent-debut-of-chinas-reusable-long-march-10b-rocket/" >🔗</a> **[SpaceNews]** Fueling test suggests imminent debut of China’s reusable Long March 10B rocket
 - <a href="https://spacenews.com/gravitics-targets-2027-flight-test-for-orbital-carrier-architecture/" >🔗</a> **[SpaceNews]** Gravitics targets 2027 flight test for ‘orbital carrier’ architecture
-- <a href="https://science.nasa.gov/earth/human-dimensions/earth-at-night/nasa-night-light-imagery-tracks-us-energy-transition-global-volatility/" >🔗</a> **[NASA]** NASA Night-light Imagery Tracks US Energy Transition, Global Volatility
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/04/First-of-its-kind_ship-to-ship_call" >🔗</a> **[ESA]** First-of-its-kind ship-to-ship call
-- <a href="https://spacenews.com/near-real-time-payload-data-delivery-with-ssc-space-go/" >🔗</a> **[SpaceNews]** Near real-time payload data delivery with SSC Space Go
-- <a href="https://spacenews.com/citra-space-raises-15-million-series-a-to-expand-platform-for-identifying-objects-in-orbit/" >🔗</a> **[SpaceNews]** Citra Space raises $15 million Series A to expand platform for identifying objects in orbit
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260413T174612">2026-04-13 17:46:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260413T182012">2026-04-13 18:20:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
