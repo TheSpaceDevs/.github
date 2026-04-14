@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/blue-origin-moves-toward-launch-at-vandenberg/" >🔗</a> **[SpaceNews]** Blue Origin moves toward launch at Vandenberg
 - <a href="https://spacenews.com/nro-highlights-government-and-industry-partnerships/" >🔗</a> **[SpaceNews]** NRO highlights government and industry partnerships
 - <a href="https://spacenews.com/ses-and-boeing-move-toward-factory-installed-multi-orbit-inflight-connectivity/" >🔗</a> **[SpaceNews]** SES and Boeing move toward factory-installed multi-orbit inflight connectivity
 - <a href="https://spacenews.com/commercial-space-federation-csf-welcomes-ispace-u-s-to-board-of-directors/" >🔗</a> **[SpaceNews]** Commercial Space Federation (CSF) Welcomes ispace-U.S. to Board of Directors
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/put-science-back-in-the-drivers-seat/" >🔗</a> **[SpaceNews]** Put science back in the driver’s seat
 - <a href="https://www.nasa.gov/aeronautics/aeronautics-stem/2025-2026-dwu-winners/" >🔗</a> **[NASA]** 2025-2026 Dream with Us Design Challenge Winners
 - <a href="https://spacenews.com/the-future-of-gps-satellites-with-fang-qian-of-lockheed-martin/" >🔗</a> **[SpaceNews]** The future of GPS satellites with Fang Qian of Lockheed Martin
-- <a href="https://spacenews.com/white-house-releases-space-nuclear-policy/" >🔗</a> **[SpaceNews]** White House releases space nuclear policy
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260414T231336">2026-04-14 23:13:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260414T234325">2026-04-14 23:43:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
