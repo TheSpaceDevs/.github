@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ses-and-boeing-move-toward-factory-installed-multi-orbit-inflight-connectivity/" >🔗</a> **[SpaceNews]** SES and Boeing move toward factory-installed multi-orbit inflight connectivity
 - <a href="https://spacenews.com/commercial-space-federation-csf-welcomes-ispace-u-s-to-board-of-directors/" >🔗</a> **[SpaceNews]** Commercial Space Federation (CSF) Welcomes ispace-U.S. to Board of Directors
 - <a href="https://science.nasa.gov/missions/chandra/nasa-finds-young-stars-dim-in-x-rays-surprisingly-quickly/" >🔗</a> **[NASA]** NASA Finds Young Stars Dim in X-rays Surprisingly Quickly
 - <a href="https://www.nasa.gov/general/nasa-receives-7-nominations-for-the-30th-annual-webby-awards/" >🔗</a> **[NASA]** NASA Receives 7 Nominations for the 30th Annual Webby Awards
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/the-future-of-gps-satellites-with-fang-qian-of-lockheed-martin/" >🔗</a> **[SpaceNews]** The future of GPS satellites with Fang Qian of Lockheed Martin
 - <a href="https://spacenews.com/white-house-releases-space-nuclear-policy/" >🔗</a> **[SpaceNews]** White House releases space nuclear policy
 - <a href="https://spacenews.com/defense-firms-unveil-new-satellite-designs-for-orbital-warfare/" >🔗</a> **[SpaceNews]** Defense firms unveil new satellite designs for orbital warfare
-- <a href="https://spacenews.com/qa-aerospace-corp-flexes-its-data-advantage/" >🔗</a> **[SpaceNews]** Q&A: Aerospace Corp flexes its data advantage
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260414T211356">2026-04-14 21:13:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260414T214438">2026-04-14 21:44:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
