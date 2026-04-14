@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ai-and-geopolitics-spur-space-investment-surge/" >🔗</a> **[SpaceNews]** AI and geopolitics spur space investment surge
 - <a href="https://spacenews.com/tendeg-delivers-first-antenna-from-new-industrial-production-facility-targets-100-deployable-apertures-annually/" >🔗</a> **[SpaceNews]** Tendeg Delivers First Antenna from New Industrial Production Facility, Targets 100+ Deployable Apertures Annually
 - <a href="https://spacenews.com/l3harris-investing-upfront-in-bid-for-golden-dome-work/" >🔗</a> **[SpaceNews]** L3Harris investing upfront in bid for Golden Dome work
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/First_Proba-3_science_surprisingly_speedy_solar_wind" >🔗</a> **[ESA]** First Proba-3 science: surprisingly speedy solar wind
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/earth/earth-observatory/super-typhoon-sinlaku/" >🔗</a> **[NASA]** Super Typhoon Sinlaku
 - <a href="https://spacenews.com/president-trump-signs-legislation-reauthorizing-sbir/" >🔗</a> **[SpaceNews]** President Trump signs legislation reauthorizing SBIR
 - <a href="https://spacenews.com/washington-agrees-on-space-urgency-but-not-on-how-to-deliver/" >🔗</a> **[SpaceNews]** Washington agrees on space urgency, but not on how to deliver
-- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-rollout-event-for-artemis-iii-moon-rocket-stage/" >🔗</a> **[NASA]** NASA Invites Media to Rollout Event for Artemis III Moon Rocket Stage
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260414T104956">2026-04-14 10:49:56 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260414T112057">2026-04-14 11:20:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
