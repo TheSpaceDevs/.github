@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/xoople-and-l3harris-team-up-to-build-satellites-for-earth-ai/" >🔗</a> **[SpaceNews]** Xoople and L3Harris team up to build satellites for ‘Earth AI’
 - <a href="https://spacenews.com/archangel-lightworks-raises-over-13-5m-in-series-a-funding-round/" >🔗</a> **[SpaceNews]** Archangel Lightworks Raises Over $13.5m In Series A Funding Round
 - <a href="https://spacenews.com/amazon-buys-globalstar-to-catapult-into-direct-to-device-race/" >🔗</a> **[SpaceNews]** Amazon buys Globalstar to catapult into direct-to-device race
 - <a href="https://spacenews.com/bae-systems-introduces-ascent-spacecraft-to-support-space-superiority-and-exploration/" >🔗</a> **[SpaceNews]** BAE Systems introduces Ascent™ spacecraft to support space superiority and exploration
-- <a href="https://science.nasa.gov/missions/webb/nasas-webb-redefines-dividing-line-between-planets-stars/" >🔗</a> **[NASA]** NASA’s Webb Redefines Dividing Line Between Planets, Stars
 - <a href="https://www.nasa.gov/missions/station/iss-research/nutrition-research-arrives-aboard-space-station/" >🔗</a> **[NASA]** Nutrition Research Arrives Aboard Space Station
+- <a href="https://science.nasa.gov/missions/webb/nasas-webb-redefines-dividing-line-between-planets-stars/" >🔗</a> **[NASA]** NASA’s Webb Redefines Dividing Line Between Planets, Stars
 - <a href="https://spacenews.com/is-copuos-at-a-turning-point-governing-space-in-a-new-era/" >🔗</a> **[SpaceNews]** Is COPUOS at a turning point? Governing space in a new era
 - <a href="https://spacenews.com/eutelsats-u-s-arm-pitches-hosted-payloads-deals-on-oneweb-satellites/" >🔗</a> **[SpaceNews]** Eutelsat’s U.S. arm pitches hosted payloads deals on OneWeb satellites
 - <a href="https://spacenews.com/ecliptic-enterprises-and-the-extraterrestrial-investment-company-extraterrestrial-announce-strategic-agreement/" >🔗</a> **[SpaceNews]** Ecliptic Enterprises and The Extraterrestrial Investment Company Announce Strategic Agreement
 - <a href="https://spacenews.com/axiom-space-plans-2027-flight-test-of-spacesuit/" >🔗</a> **[SpaceNews]** Axiom Space plans 2027 flight test of spacesuit
-- <a href="https://spacenews.com/ai-and-geopolitics-spur-space-investment-surge/" >🔗</a> **[SpaceNews]** AI and geopolitics spur space investment surge
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260414T145914">2026-04-14 14:59:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260414T153331">2026-04-14 15:33:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
