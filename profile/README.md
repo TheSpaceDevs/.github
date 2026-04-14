@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/station/iss-research/nutrition-research-arrives-aboard-space-station/" >🔗</a> **[NASA]** Nutrition Research Arrives Aboard Space Station
+- <a href="https://science.nasa.gov/missions/webb/nasas-webb-redefines-dividing-line-between-planets-stars/" >🔗</a> **[NASA]** NASA’s Webb Redefines Dividing Line Between Planets, Stars
+- <a href="https://spacenews.com/bae-systems-introduces-ascent-spacecraft-to-support-space-superiority-and-exploration/" >🔗</a> **[SpaceNews]** BAE Systems introduces Ascent™ spacecraft to support space superiority and exploration
 - <a href="https://spacenews.com/is-copuos-at-a-turning-point-governing-space-in-a-new-era/" >🔗</a> **[SpaceNews]** Is COPUOS at a turning point? Governing space in a new era
 - <a href="https://spacenews.com/eutelsats-u-s-arm-pitches-hosted-payloads-deals-on-oneweb-satellites/" >🔗</a> **[SpaceNews]** Eutelsat’s U.S. arm pitches hosted payloads deals on OneWeb satellites
 - <a href="https://spacenews.com/ecliptic-enterprises-and-the-extraterrestrial-investment-company-extraterrestrial-announce-strategic-agreement/" >🔗</a> **[SpaceNews]** Ecliptic Enterprises and The Extraterrestrial Investment Company Announce Strategic Agreement
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/ai-and-geopolitics-spur-space-investment-surge/" >🔗</a> **[SpaceNews]** AI and geopolitics spur space investment surge
 - <a href="https://spacenews.com/tendeg-delivers-first-antenna-from-new-industrial-production-facility-targets-100-deployable-apertures-annually/" >🔗</a> **[SpaceNews]** Tendeg Delivers First Antenna from New Industrial Production Facility, Targets 100+ Deployable Apertures Annually
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/First_Proba-3_science_surprisingly_speedy_solar_wind" >🔗</a> **[ESA]** First Proba-3 science: surprisingly speedy solar wind
-- <a href="https://spacenews.com/l3harris-investing-upfront-in-bid-for-golden-dome-work/" >🔗</a> **[SpaceNews]** L3Harris investing upfront in bid for Golden Dome work
-- <a href="https://spacenews.com/jielong-3-launches-internet-test-satellite-kinetica-1-lofts-8-remote-sensing-sats/" >🔗</a> **[SpaceNews]** Jielong-3 launches internet test satellite, Kinetica-1 lofts 8 remote sensing sats
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/04/The_perfect_place_for_Celeste_s_first_navigation_signal" >🔗</a> **[ESA]** The perfect place for Celeste’s first navigation signal
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260414T132925">2026-04-14 13:29:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260414T141249">2026-04-14 14:12:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
