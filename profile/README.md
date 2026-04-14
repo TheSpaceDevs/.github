@@ -19,33 +19,32 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Kinetica 1 | Unknown Payload**. It is scheduled to be launched by *CAS Space*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Jiuquan_Satellite_Launch_Center">Launch Area 130</a>, Jiuquan Satellite Launch Center, People's Republic of China*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260414T035400">2026-04-14 03:54:00 UTC</a>.  Until
-then, this pad will have been used for 11
-out of 281 launches from this location. The launch status is currently
+**Falcon 9 Block 5 | Starlink Group 10-24**. It is scheduled to be launched by *SpaceX*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_40">Space Launch Complex 40</a>, Cape Canaveral SFS, FL, USA*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260414T061300">2026-04-14 06:13:00 UTC</a>.  Until
+then, this pad will have been used for 377
+out of 1101 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Unknown* and the payload will be injected
-into *an Unknown
-(N/A)*.
+*Communications* and the payload will be injected
+into *a Low Earth Orbit
+(LEO)*.
 <br>
 <blockquote>
-  Details TBD.
+  A batch of 29 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="None" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=40.8182,100.22514" >
+  <a href="https://www.google.com/maps?q=28.56194122,-80.57735736" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260414T035400">2026-04-14 03:54:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Kinetica 1 | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20260414T035400Z%2F20260414T041500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Kinetica 1 | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260414T061300">2026-04-14 06:13:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-24&location=Cape Canaveral SFS, FL, USA&dates=20260414T061300Z%2F20260414T101300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-24** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260415T020000">2026-04-15 02:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-27&location=Vandenberg SFB, CA, USA&dates=20260415T020000Z%2F20260415T060000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-27** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260417T040200">2026-04-17 04:02:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 2D | Unknown Payload&location=Jiuquan Satellite Launch Center, People&#x27;s Republic of China&dates=20260417T040200Z%2F20260417T042400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 2D | Unknown Payload** from Jiuquan Satellite Launch Center, People's Republic of China.
@@ -55,6 +54,7 @@ into *an Unknown
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260422T020000">2026-04-22 02:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-14&location=Vandenberg SFB, CA, USA&dates=20260422T020000Z%2F20260422T060000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-14** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260422T050000">2026-04-22 05:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/un.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=South Korean ADD Solid-Fuel SLV | Demo Flight&location=Sea Launch&dates=20260422T050000Z%2F20260422T090000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **South Korean ADD Solid-Fuel SLV | Demo Flight** from Sea Launch.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260423T000000">2026-04-23 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Kakushin Rising (JAXA Rideshare)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20260423T000000Z%2F20260423T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Kakushin Rising (JAXA Rideshare)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260425T222100">2026-04-25 22:21:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Progress MS-34 (95P)&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20260425T222100Z%2F20260425T222100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Progress MS-34 (95P)** from Baikonur Cosmodrome, Republic of Kazakhstan.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -91,6 +91,7 @@ into *an Unknown
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/First_Proba-3_science_surprisingly_speedy_solar_wind" >🔗</a> **[ESA]** First Proba-3 science: surprisingly speedy solar wind
+- <a href="https://science.nasa.gov/earth/earth-observatory/super-typhoon-sinlaku/" >🔗</a> **[NASA]** Super Typhoon Sinlaku
 - <a href="https://spacenews.com/president-trump-signs-legislation-reauthorizing-sbir/" >🔗</a> **[SpaceNews]** President Trump signs legislation reauthorizing SBIR
 - <a href="https://spacenews.com/washington-agrees-on-space-urgency-but-not-on-how-to-deliver/" >🔗</a> **[SpaceNews]** Washington agrees on space urgency, but not on how to deliver
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-rollout-event-for-artemis-iii-moon-rocket-stage/" >🔗</a> **[NASA]** NASA Invites Media to Rollout Event for Artemis III Moon Rocket Stage
@@ -99,16 +100,16 @@ into *an Unknown
 - <a href="https://www.nasa.gov/news-release/nasa-awards-data-engineering-informatics-support-contract/" >🔗</a> **[NASA]** NASA Awards Data Engineering, Informatics Support Contract
 - <a href="https://www.nasaspaceflight.com/2026/04/launch-preview-041326/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9 to launch Starlink satellites, New Glenn to launch with flown booster
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4852-4858-when-data-take-their-time/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4852–4858: When Data Take Their Time…
-- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4845-4851-bye-bye-boxwork-bye-bye/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4845-4851: Bye-Bye Boxwork, Bye-Bye
 
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2026/04/launch-preview-040626/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9 to loft Cygnus to ISS, Minotaur IV to launch from California
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260414T033802">2026-04-14 03:38:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260414T045252">2026-04-14 04:52:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
