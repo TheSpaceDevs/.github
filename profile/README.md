@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/defense-firms-unveil-new-satellite-designs-for-orbital-warfare/" >🔗</a> **[SpaceNews]** Defense firms unveil new satellite designs for orbital warfare
+- <a href="https://spacenews.com/qa-aerospace-corp-flexes-its-data-advantage/" >🔗</a> **[SpaceNews]** Q&A: Aerospace Corp flexes its data advantage
+- <a href="https://spacenews.com/space-command-pushes-new-warfighting-model-built-on-moving-satellites/" >🔗</a> **[SpaceNews]** Space Command pushes new warfighting model built on moving satellites
+- <a href="https://spacenews.com/qa-astronaut-linda-godwin-on-lessons-learned-from-artemis/" >🔗</a> **[SpaceNews]** Q&A: Astronaut Linda Godwin on lessons learned from Artemis
+- <a href="https://spacenews.com/the-show-goes-on-nasa-looks-beyond-artemis-2/" >🔗</a> **[SpaceNews]** ‘The show goes on:’ NASA looks beyond Artemis 2
 - <a href="https://spacenews.com/rtxs-blue-canyon-technologies-expands-reaction-wheel-production-capacity/" >🔗</a> **[SpaceNews]** RTX’s Blue Canyon Technologies expands reaction wheel production capacity
 - <a href="https://www.nasa.gov/image-article/a-hug-for-home-away-from-home/" >🔗</a> **[NASA]** A Hug for Home Away from Home
 - <a href="https://science.nasa.gov/earth/earth-observatory/april-2026-satellite-puzzler/" >🔗</a> **[NASA]** April 2026 Satellite Puzzler
 - <a href="https://spacenews.com/xoople-and-l3harris-team-up-to-build-satellites-for-earth-ai/" >🔗</a> **[SpaceNews]** Xoople and L3Harris team up to build satellites for ‘Earth AI’
 - <a href="https://spacenews.com/archangel-lightworks-raises-over-13-5m-in-series-a-funding-round/" >🔗</a> **[SpaceNews]** Archangel Lightworks Raises Over $13.5m In Series A Funding Round
-- <a href="https://spacenews.com/amazon-buys-globalstar-to-catapult-into-direct-to-device-race/" >🔗</a> **[SpaceNews]** Amazon buys Globalstar to catapult into direct-to-device race
-- <a href="https://science.nasa.gov/missions/webb/nasas-webb-redefines-dividing-line-between-planets-stars/" >🔗</a> **[NASA]** NASA’s Webb Redefines Dividing Line Between Planets, Stars
-- <a href="https://spacenews.com/bae-systems-introduces-ascent-spacecraft-to-support-space-superiority-and-exploration/" >🔗</a> **[SpaceNews]** BAE Systems introduces Ascent™ spacecraft to support space superiority and exploration
-- <a href="https://www.nasa.gov/missions/station/iss-research/nutrition-research-arrives-aboard-space-station/" >🔗</a> **[NASA]** Nutrition Research Arrives Aboard Space Station
-- <a href="https://spacenews.com/is-copuos-at-a-turning-point-governing-space-in-a-new-era/" >🔗</a> **[SpaceNews]** Is COPUOS at a turning point? Governing space in a new era
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260414T175004">2026-04-14 17:50:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260414T181951">2026-04-14 18:19:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
