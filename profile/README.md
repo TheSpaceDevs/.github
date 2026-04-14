@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/First_Proba-3_science_surprisingly_speedy_solar_wind" >🔗</a> **[ESA]** First Proba-3 science: surprisingly speedy solar wind
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/04/The_perfect_place_for_Celeste_s_first_navigation_signal" >🔗</a> **[ESA]** The perfect place for Celeste’s first navigation signal
 - <a href="https://spaceflightnow.com/2026/04/14/live-coverage-spacex-to-launch-1000th-starlink-satellite-of-2026-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 1,000th Starlink satellite of 2026 on Falcon 9 rocket from Cape Canaveral
 - <a href="https://science.nasa.gov/earth/earth-observatory/super-typhoon-sinlaku/" >🔗</a> **[NASA]** Super Typhoon Sinlaku
 - <a href="https://spacenews.com/president-trump-signs-legislation-reauthorizing-sbir/" >🔗</a> **[SpaceNews]** President Trump signs legislation reauthorizing SBIR
@@ -98,7 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasa-announces-32nd-annual-human-exploration-rover-challenge-winners/" >🔗</a> **[NASA]** NASA Announces 32nd Annual Human Exploration Rover Challenge Winners
 - <a href="https://spacenews.com/qa-heather-pringle-on-what-to-expect-from-space-symposium/" >🔗</a> **[SpaceNews]** Q&A: Heather Pringle on what to expect from Space Symposium
 - <a href="https://www.nasa.gov/news-release/nasa-awards-data-engineering-informatics-support-contract/" >🔗</a> **[NASA]** NASA Awards Data Engineering, Informatics Support Contract
-- <a href="https://www.nasaspaceflight.com/2026/04/launch-preview-041326/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9 to launch Starlink satellites, New Glenn to launch with flown booster
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260414T072942">2026-04-14 07:29:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260414T080945">2026-04-14 08:09:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
