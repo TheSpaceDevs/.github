@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/nro-highlights-government-and-industry-partnerships/" >🔗</a> **[SpaceNews]** NRO highlights government and industry partnerships
 - <a href="https://spacenews.com/ses-and-boeing-move-toward-factory-installed-multi-orbit-inflight-connectivity/" >🔗</a> **[SpaceNews]** SES and Boeing move toward factory-installed multi-orbit inflight connectivity
 - <a href="https://spacenews.com/commercial-space-federation-csf-welcomes-ispace-u-s-to-board-of-directors/" >🔗</a> **[SpaceNews]** Commercial Space Federation (CSF) Welcomes ispace-U.S. to Board of Directors
 - <a href="https://science.nasa.gov/missions/chandra/nasa-finds-young-stars-dim-in-x-rays-surprisingly-quickly/" >🔗</a> **[NASA]** NASA Finds Young Stars Dim in X-rays Surprisingly Quickly
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/aeronautics/aeronautics-stem/2025-2026-dwu-winners/" >🔗</a> **[NASA]** 2025-2026 Dream with Us Design Challenge Winners
 - <a href="https://spacenews.com/the-future-of-gps-satellites-with-fang-qian-of-lockheed-martin/" >🔗</a> **[SpaceNews]** The future of GPS satellites with Fang Qian of Lockheed Martin
 - <a href="https://spacenews.com/white-house-releases-space-nuclear-policy/" >🔗</a> **[SpaceNews]** White House releases space nuclear policy
-- <a href="https://spacenews.com/defense-firms-unveil-new-satellite-designs-for-orbital-warfare/" >🔗</a> **[SpaceNews]** Defense firms unveil new satellite designs for orbital warfare
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260414T221245">2026-04-14 22:12:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260414T224352">2026-04-14 22:43:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
