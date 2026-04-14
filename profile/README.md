@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/put-science-back-in-the-drivers-seat/" >🔗</a> **[SpaceNews]** Put science back in the driver’s seat
+- <a href="https://www.nasa.gov/aeronautics/aeronautics-stem/2025-2026-dwu-winners/" >🔗</a> **[NASA]** 2025-2026 Dream with Us Design Challenge Winners
+- <a href="https://spacenews.com/the-future-of-gps-satellites-with-fang-qian-of-lockheed-martin/" >🔗</a> **[SpaceNews]** The future of GPS satellites with Fang Qian of Lockheed Martin
+- <a href="https://spacenews.com/white-house-releases-space-nuclear-policy/" >🔗</a> **[SpaceNews]** White House releases space nuclear policy
 - <a href="https://spacenews.com/defense-firms-unveil-new-satellite-designs-for-orbital-warfare/" >🔗</a> **[SpaceNews]** Defense firms unveil new satellite designs for orbital warfare
 - <a href="https://spacenews.com/qa-aerospace-corp-flexes-its-data-advantage/" >🔗</a> **[SpaceNews]** Q&A: Aerospace Corp flexes its data advantage
 - <a href="https://spacenews.com/space-command-pushes-new-warfighting-model-built-on-moving-satellites/" >🔗</a> **[SpaceNews]** Space Command pushes new warfighting model built on moving satellites
 - <a href="https://spacenews.com/qa-astronaut-linda-godwin-on-lessons-learned-from-artemis/" >🔗</a> **[SpaceNews]** Q&A: Astronaut Linda Godwin on lessons learned from Artemis
 - <a href="https://spacenews.com/the-show-goes-on-nasa-looks-beyond-artemis-2/" >🔗</a> **[SpaceNews]** ‘The show goes on:’ NASA looks beyond Artemis 2
 - <a href="https://spacenews.com/rtxs-blue-canyon-technologies-expands-reaction-wheel-production-capacity/" >🔗</a> **[SpaceNews]** RTX’s Blue Canyon Technologies expands reaction wheel production capacity
-- <a href="https://www.nasa.gov/image-article/a-hug-for-home-away-from-home/" >🔗</a> **[NASA]** A Hug for Home Away from Home
-- <a href="https://science.nasa.gov/earth/earth-observatory/april-2026-satellite-puzzler/" >🔗</a> **[NASA]** April 2026 Satellite Puzzler
-- <a href="https://spacenews.com/xoople-and-l3harris-team-up-to-build-satellites-for-earth-ai/" >🔗</a> **[SpaceNews]** Xoople and L3Harris team up to build satellites for ‘Earth AI’
-- <a href="https://spacenews.com/archangel-lightworks-raises-over-13-5m-in-series-a-funding-round/" >🔗</a> **[SpaceNews]** Archangel Lightworks Raises Over $13.5m In Series A Funding Round
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260414T184900">2026-04-14 18:49:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260414T192740">2026-04-14 19:27:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
