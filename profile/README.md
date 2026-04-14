@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/ecliptic-enterprises-and-the-extraterrestrial-investment-company-extraterrestrial-announce-strategic-agreement/" >🔗</a> **[SpaceNews]** Ecliptic Enterprises and The Extraterrestrial Investment Company Announce Strategic Agreement
+- <a href="https://spacenews.com/axiom-space-plans-2027-flight-test-of-spacesuit/" >🔗</a> **[SpaceNews]** Axiom Space plans 2027 flight test of spacesuit
 - <a href="https://spacenews.com/ai-and-geopolitics-spur-space-investment-surge/" >🔗</a> **[SpaceNews]** AI and geopolitics spur space investment surge
 - <a href="https://spacenews.com/tendeg-delivers-first-antenna-from-new-industrial-production-facility-targets-100-deployable-apertures-annually/" >🔗</a> **[SpaceNews]** Tendeg Delivers First Antenna from New Industrial Production Facility, Targets 100+ Deployable Apertures Annually
-- <a href="https://spacenews.com/l3harris-investing-upfront-in-bid-for-golden-dome-work/" >🔗</a> **[SpaceNews]** L3Harris investing upfront in bid for Golden Dome work
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/First_Proba-3_science_surprisingly_speedy_solar_wind" >🔗</a> **[ESA]** First Proba-3 science: surprisingly speedy solar wind
+- <a href="https://spacenews.com/l3harris-investing-upfront-in-bid-for-golden-dome-work/" >🔗</a> **[SpaceNews]** L3Harris investing upfront in bid for Golden Dome work
 - <a href="https://spacenews.com/jielong-3-launches-internet-test-satellite-kinetica-1-lofts-8-remote-sensing-sats/" >🔗</a> **[SpaceNews]** Jielong-3 launches internet test satellite, Kinetica-1 lofts 8 remote sensing sats
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/04/The_perfect_place_for_Celeste_s_first_navigation_signal" >🔗</a> **[ESA]** The perfect place for Celeste’s first navigation signal
 - <a href="https://spaceflightnow.com/2026/04/14/live-coverage-spacex-to-launch-1000th-starlink-satellite-of-2026-on-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 1,000th Starlink satellite of 2026 on Falcon 9 rocket from Cape Canaveral
 - <a href="https://science.nasa.gov/earth/earth-observatory/super-typhoon-sinlaku/" >🔗</a> **[NASA]** Super Typhoon Sinlaku
-- <a href="https://spacenews.com/president-trump-signs-legislation-reauthorizing-sbir/" >🔗</a> **[SpaceNews]** President Trump signs legislation reauthorizing SBIR
-- <a href="https://spacenews.com/washington-agrees-on-space-urgency-but-not-on-how-to-deliver/" >🔗</a> **[SpaceNews]** Washington agrees on space urgency, but not on how to deliver
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260414T114614">2026-04-14 11:46:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260414T121506">2026-04-14 12:15:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
