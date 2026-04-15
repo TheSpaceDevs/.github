@@ -90,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/photojournal/nasas-spherex-mission-maps-water-ice-throughout-cygnus-x/" >🔗</a> **[NASA]** NASA’s SPHEREx Mission Maps Water Ice Throughout Cygnus X
+- <a href="https://www.nasa.gov/missions/spherex/interstellar-glaciers-nasas-spherex-maps-vast-galactic-ice-regions/" >🔗</a> **[NASA]** ‘Interstellar Glaciers’: NASA’s SPHEREx Maps Vast Galactic Ice Regions
 - <a href="https://www.nasa.gov/image-article/artemis-ii-crew-returns-to-houston/" >🔗</a> **[NASA]** Artemis II Crew Returns to Houston
 - <a href="https://spacenews.com/rethinking-cyber-and-space-with-joe-mazur/" >🔗</a> **[SpaceNews]** Rethinking cyber and space with Joe Mazur
+- <a href="https://science.nasa.gov/missions/landsat/honoring-alex-goetz-a-landsat-legend/" >🔗</a> **[NASA]** Honoring Alex Goetz, a Landsat Legend
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Antarctica_s_vanishing_sea_ice_transforms_marine_life" >🔗</a> **[ESA]** Antarctica’s vanishing sea ice transforms marine life
 - <a href="https://arstechnica.com/space/2026/04/blue-origin-has-a-new-employee-stock-plan-but-not-everyone-is-happy/" >🔗</a> **[Arstechnica]** Blue Origin has a new employee stock plan, but not everyone is happy
 - <a href="https://spacenews.com/novaspace-and-ogc-unveil-the-china-space-industry-intelligence-catalog/" >🔗</a> **[SpaceNews]** Novaspace and OGC Unveil the China Space Industry Intelligence Catalog
 - <a href="https://spacenews.com/vast-offers-new-docking-adapter-for-large-space-stations/" >🔗</a> **[SpaceNews]** Vast offers new docking adapter for large space stations
 - <a href="https://spacenews.com/the-digital-networks-act-a-reform-that-requires-strategic-attention-for-satellite-operators/" >🔗</a> **[SpaceNews]** The Digital Networks Act: a reform that requires strategic attention for satellite operators
-- <a href="https://spacenews.com/new-wireless-access-point-camera-and-remote-interface-unit-join-nasa-human-rated-class-1-layer-3-ethernet-switch-family/" >🔗</a> **[SpaceNews]** New Wireless Access Point, Camera, and Remote Interface Unit Join NASA Human Rated Class 1 Layer 3 Ethernet Switch Family
-- <a href="https://spacenews.com/turion-space-raises-75-million-to-expand-maneuverable-satellite-fleet/" >🔗</a> **[SpaceNews]** Turion Space raises $75 million to expand maneuverable satellite fleet
-- <a href="https://www.esa.int/About_Us/Business_with_ESA/Small_and_Medium_Sized_Enterprises/SME_Forum_2026_Join_ESA_s_annual_consultation_process" >🔗</a> **[ESA]** SME Forum 2026 – Join ESA's annual consultation process
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Ash_creeps_across_Mars" >🔗</a> **[ESA]** Ash creeps across Mars
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260415T152318">2026-04-15 15:23:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260415T155057">2026-04-15 15:50:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
