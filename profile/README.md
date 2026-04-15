@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/04/iss-roundup-032026/" >🔗</a> **[NASASpaceflight]** Expedition 74 sees vehicle departures and a spacewalk during March
+- <a href="https://spacenews.com/meink-space-force-must-execute-as-budget-set-to-surge/" >🔗</a> **[SpaceNews]** Meink: Space Force must ‘execute’ as budget set to surge
 - <a href="https://spaceflightnow.com/2026/04/15/blue-origin-one-step-closer-to-launching-new-glenn-from-vandenberg-space-force-base/" >🔗</a> **[Spaceflight Now]** Blue Origin one step closer to launching New Glenn from Vandenberg Space Force Base
 - <a href="https://spacenews.com/defining-acquisition-on-a-wartime-footing/" >🔗</a> **[SpaceNews]** Defining acquisition on a wartime footing
 - <a href="https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-rebekah-tolatovicz/" >🔗</a> **[NASA]** I Am Artemis: Rebekah Tolatovicz
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/image-article/nasa-launches-six-cubesats-to-international-space-station/" >🔗</a> **[NASA]** NASA Launches Six CubeSats to International Space Station
 - <a href="https://spacenews.com/emerson-launches-innovative-software-driven-method-for-high-fidelity-aerospace-rf-testing/" >🔗</a> **[SpaceNews]** Emerson Launches Innovative Software-Driven Method for High-Fidelity Aerospace RF Testing
 - <a href="https://spacenews.com/saltzman-unveils-blueprint-for-space-forces-future/" >🔗</a> **[SpaceNews]** Saltzman unveils blueprint for Space Force’s future
-- <a href="https://spacenews.com/senators-seek-increased-funding-for-nasa-mars-missions/" >🔗</a> **[SpaceNews]** Senators seek increased funding for NASA Mars missions
-- <a href="https://spacenews.com/the-infrastructure-layer-u-s-space-superiority-has-been-missing/" >🔗</a> **[SpaceNews]** The Infrastructure Layer U.S. Space Superiority Has Been Missing
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260415T221216">2026-04-15 22:12:16 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260415T224319">2026-04-15 22:43:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
