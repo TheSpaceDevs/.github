@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/2026-nsta-hyperwall-schedule/" >🔗</a> **[NASA]** 2026 NSTA Hyperwall Schedule
 - <a href="https://science.nasa.gov/photojournal/nasas-spherex-mission-maps-water-ice-throughout-cygnus-x/" >🔗</a> **[NASA]** NASA’s SPHEREx Mission Maps Water Ice Throughout Cygnus X
 - <a href="https://www.nasa.gov/missions/spherex/interstellar-glaciers-nasas-spherex-maps-vast-galactic-ice-regions/" >🔗</a> **[NASA]** ‘Interstellar Glaciers’: NASA’s SPHEREx Maps Vast Galactic Ice Regions
 - <a href="https://www.nasa.gov/image-article/artemis-ii-crew-returns-to-houston/" >🔗</a> **[NASA]** Artemis II Crew Returns to Houston
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://arstechnica.com/space/2026/04/blue-origin-has-a-new-employee-stock-plan-but-not-everyone-is-happy/" >🔗</a> **[Arstechnica]** Blue Origin has a new employee stock plan, but not everyone is happy
 - <a href="https://spacenews.com/novaspace-and-ogc-unveil-the-china-space-industry-intelligence-catalog/" >🔗</a> **[SpaceNews]** Novaspace and OGC Unveil the China Space Industry Intelligence Catalog
 - <a href="https://spacenews.com/vast-offers-new-docking-adapter-for-large-space-stations/" >🔗</a> **[SpaceNews]** Vast offers new docking adapter for large space stations
-- <a href="https://spacenews.com/the-digital-networks-act-a-reform-that-requires-strategic-attention-for-satellite-operators/" >🔗</a> **[SpaceNews]** The Digital Networks Act: a reform that requires strategic attention for satellite operators
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260415T161839">2026-04-15 16:18:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260415T164632">2026-04-15 16:46:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
