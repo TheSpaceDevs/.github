@@ -90,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
-- <a href="https://spacenews.com/the-digital-networks-act-a-reform-that-requires-strategic-attention-for-satellite-operators/" >🔗</a> **[SpaceNews]** The Digital Networks Act: a reform that requires strategic attention for satellite operators
+- <a href="https://arstechnica.com/space/2026/04/blue-origin-has-a-new-employee-stock-plan-but-not-everyone-is-happy/" >🔗</a> **[Arstechnica]** Blue Origin has a new employee stock plan, but not everyone is happy
+- <a href="https://spacenews.com/novaspace-and-ogc-unveil-the-china-space-industry-intelligence-catalog/" >🔗</a> **[SpaceNews]** Novaspace and OGC Unveil the China Space Industry Intelligence Catalog
 - <a href="https://spacenews.com/vast-offers-new-docking-adapter-for-large-space-stations/" >🔗</a> **[SpaceNews]** Vast offers new docking adapter for large space stations
+- <a href="https://spacenews.com/the-digital-networks-act-a-reform-that-requires-strategic-attention-for-satellite-operators/" >🔗</a> **[SpaceNews]** The Digital Networks Act: a reform that requires strategic attention for satellite operators
 - <a href="https://spacenews.com/new-wireless-access-point-camera-and-remote-interface-unit-join-nasa-human-rated-class-1-layer-3-ethernet-switch-family/" >🔗</a> **[SpaceNews]** New Wireless Access Point, Camera, and Remote Interface Unit Join NASA Human Rated Class 1 Layer 3 Ethernet Switch Family
 - <a href="https://spacenews.com/turion-space-raises-75-million-to-expand-maneuverable-satellite-fleet/" >🔗</a> **[SpaceNews]** Turion Space raises $75 million to expand maneuverable satellite fleet
 - <a href="https://www.esa.int/About_Us/Business_with_ESA/Small_and_Medium_Sized_Enterprises/SME_Forum_2026_Join_ESA_s_annual_consultation_process" >🔗</a> **[ESA]** SME Forum 2026 – Join ESA's annual consultation process
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Ash_creeps_across_Mars" >🔗</a> **[ESA]** Ash creeps across Mars
 - <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/ESA_begins_next_phase_of_fibre_in_the_sky_optical_communications_project_with_Canada" >🔗</a> **[ESA]** ESA begins next phase of 'fibre in the sky' optical communications project with Canada
 - <a href="https://science.nasa.gov/earth/earth-observatory/contours-of-the-james-bay-lowlands/" >🔗</a> **[NASA]** Contours of the James Bay Lowlands
-- <a href="https://spacepolicyonline.com/news/white-house-releases-space-nuclear-initiative/" >🔗</a> **[SpacePolicyOnline.com]** White House Releases Space Nuclear Initiative
-- <a href="https://spaceflightnow.com/2026/04/15/west-coast-spacex-falcon-9-mission-to-launch-25-starlink-satellites/" >🔗</a> **[Spaceflight Now]** Live Coverage: West Coast SpaceX Falcon 9 mission to launch 25 Starlink satellites
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260415T132908">2026-04-15 13:29:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260415T140723">2026-04-15 14:07:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
