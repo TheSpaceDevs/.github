@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/earth-observatory/contours-of-the-james-bay-lowlands/" >🔗</a> **[NASA]** Contours of the James Bay Lowlands
 - <a href="https://spacepolicyonline.com/news/white-house-releases-space-nuclear-initiative/" >🔗</a> **[SpacePolicyOnline.com]** White House Releases Space Nuclear Initiative
 - <a href="https://spaceflightnow.com/2026/04/15/west-coast-spacex-falcon-9-mission-to-launch-25-starlink-satellites/" >🔗</a> **[Spaceflight Now]** Live Coverage: West Coast SpaceX Falcon 9 mission to launch 25 Starlink satellites
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4859-4866-one-small-crater-and-thousands-of-polygons/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4859-4866: One Small Crater and Thousands of Polygons
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/ses-and-boeing-move-toward-factory-installed-multi-orbit-inflight-connectivity/" >🔗</a> **[SpaceNews]** SES and Boeing move toward factory-installed multi-orbit inflight connectivity
 - <a href="https://spacenews.com/commercial-space-federation-csf-welcomes-ispace-u-s-to-board-of-directors/" >🔗</a> **[SpaceNews]** Commercial Space Federation (CSF) Welcomes ispace-U.S. to Board of Directors
 - <a href="https://science.nasa.gov/missions/chandra/nasa-finds-young-stars-dim-in-x-rays-surprisingly-quickly/" >🔗</a> **[NASA]** NASA Finds Young Stars Dim in X-rays Surprisingly Quickly
-- <a href="https://www.nasa.gov/general/nasa-receives-7-nominations-for-the-30th-annual-webby-awards/" >🔗</a> **[NASA]** NASA Receives 7 Nominations for the 30th Annual Webby Awards
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260415T045310">2026-04-15 04:53:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260415T054009">2026-04-15 05:40:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
