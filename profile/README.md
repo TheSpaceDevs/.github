@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Applications/Connectivity_and_Secure_Communications/ESA_begins_next_phase_of_fibre_in_the_sky_optical_communications_project_with_Canada" >🔗</a> **[ESA]** ESA begins next phase of 'fibre in the sky' optical communications project with Canada
 - <a href="https://science.nasa.gov/earth/earth-observatory/contours-of-the-james-bay-lowlands/" >🔗</a> **[NASA]** Contours of the James Bay Lowlands
 - <a href="https://spacepolicyonline.com/news/white-house-releases-space-nuclear-initiative/" >🔗</a> **[SpacePolicyOnline.com]** White House Releases Space Nuclear Initiative
 - <a href="https://spaceflightnow.com/2026/04/15/west-coast-spacex-falcon-9-mission-to-launch-25-starlink-satellites/" >🔗</a> **[Spaceflight Now]** Live Coverage: West Coast SpaceX Falcon 9 mission to launch 25 Starlink satellites
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/nro-highlights-government-and-industry-partnerships/" >🔗</a> **[SpaceNews]** NRO highlights government and industry partnerships
 - <a href="https://spacenews.com/ses-and-boeing-move-toward-factory-installed-multi-orbit-inflight-connectivity/" >🔗</a> **[SpaceNews]** SES and Boeing move toward factory-installed multi-orbit inflight connectivity
 - <a href="https://spacenews.com/commercial-space-federation-csf-welcomes-ispace-u-s-to-board-of-directors/" >🔗</a> **[SpaceNews]** Commercial Space Federation (CSF) Welcomes ispace-U.S. to Board of Directors
-- <a href="https://science.nasa.gov/missions/chandra/nasa-finds-young-stars-dim-in-x-rays-surprisingly-quickly/" >🔗</a> **[NASA]** NASA Finds Young Stars Dim in X-rays Surprisingly Quickly
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260415T080841">2026-04-15 08:08:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260415T085935">2026-04-15 08:59:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
