@@ -93,13 +93,13 @@ into *an Unknown
 - <a href="https://spacenews.com/emerson-launches-innovative-software-driven-method-for-high-fidelity-aerospace-rf-testing/" >🔗</a> **[SpaceNews]** Emerson Launches Innovative Software-Driven Method for High-Fidelity Aerospace RF Testing
 - <a href="https://spacenews.com/saltzman-unveils-blueprint-for-space-forces-future/" >🔗</a> **[SpaceNews]** Saltzman unveils blueprint for Space Force’s future
 - <a href="https://spacenews.com/senators-seek-increased-funding-for-nasa-mars-missions/" >🔗</a> **[SpaceNews]** Senators seek increased funding for NASA Mars missions
+- <a href="https://spacenews.com/the-infrastructure-layer-u-s-space-superiority-has-been-missing/" >🔗</a> **[SpaceNews]** The Infrastructure Layer U.S. Space Superiority Has Been Missing
 - <a href="https://science.nasa.gov/earth/2026-nsta-hyperwall-schedule/" >🔗</a> **[NASA]** 2026 NSTA Hyperwall Schedule
 - <a href="https://science.nasa.gov/photojournal/nasas-spherex-mission-maps-water-ice-throughout-cygnus-x/" >🔗</a> **[NASA]** NASA’s SPHEREx Mission Maps Water Ice Throughout Cygnus X
 - <a href="https://www.nasa.gov/missions/spherex/interstellar-glaciers-nasas-spherex-maps-vast-galactic-ice-regions/" >🔗</a> **[NASA]** ‘Interstellar Glaciers’: NASA’s SPHEREx Maps Vast Galactic Ice Regions
 - <a href="https://www.nasa.gov/image-article/artemis-ii-crew-returns-to-houston/" >🔗</a> **[NASA]** Artemis II Crew Returns to Houston
 - <a href="https://spacenews.com/rethinking-cyber-and-space-with-joe-mazur/" >🔗</a> **[SpaceNews]** Rethinking cyber and space with Joe Mazur
 - <a href="https://science.nasa.gov/missions/landsat/honoring-alex-goetz-a-landsat-legend/" >🔗</a> **[NASA]** Honoring Alex Goetz, a Landsat Legend
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Antarctica_s_vanishing_sea_ice_transforms_marine_life" >🔗</a> **[ESA]** Antarctica’s vanishing sea ice transforms marine life
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260415T195313">2026-04-15 19:53:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260415T201437">2026-04-15 20:14:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
