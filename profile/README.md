@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/new-wireless-access-point-camera-and-remote-interface-unit-join-nasa-human-rated-class-1-layer-3-ethernet-switch-family/" >🔗</a> **[SpaceNews]** New Wireless Access Point, Camera, and Remote Interface Unit Join NASA Human Rated Class 1 Layer 3 Ethernet Switch Family
 - <a href="https://spacenews.com/turion-space-raises-75-million-to-expand-maneuverable-satellite-fleet/" >🔗</a> **[SpaceNews]** Turion Space raises $75 million to expand maneuverable satellite fleet
 - <a href="https://www.esa.int/About_Us/Business_with_ESA/Small_and_Medium_Sized_Enterprises/SME_Forum_2026_Join_ESA_s_annual_consultation_process" >🔗</a> **[ESA]** SME Forum 2026 – Join ESA's annual consultation process
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Ash_creeps_across_Mars" >🔗</a> **[ESA]** Ash creeps across Mars
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spaceflightnow.com/2026/04/15/west-coast-spacex-falcon-9-mission-to-launch-25-starlink-satellites/" >🔗</a> **[Spaceflight Now]** Live Coverage: West Coast SpaceX Falcon 9 mission to launch 25 Starlink satellites
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4859-4866-one-small-crater-and-thousands-of-polygons/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4859-4866: One Small Crater and Thousands of Polygons
 - <a href="https://spacenews.com/kepler-to-lead-interoperability-tests-for-esas-hydron-optical-relay-network/" >🔗</a> **[SpaceNews]** Kepler to lead interoperability tests for ESA’s HydRON optical relay network
-- <a href="https://spacenews.com/blue-origin-moves-toward-launch-at-vandenberg/" >🔗</a> **[SpaceNews]** Blue Origin moves toward launch at Vandenberg
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260415T114539">2026-04-15 11:45:39 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260415T121414">2026-04-15 12:14:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
