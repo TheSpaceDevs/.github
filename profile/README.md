@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/emerson-launches-innovative-software-driven-method-for-high-fidelity-aerospace-rf-testing/" >🔗</a> **[SpaceNews]** Emerson Launches Innovative Software-Driven Method for High-Fidelity Aerospace RF Testing
 - <a href="https://spacenews.com/saltzman-unveils-blueprint-for-space-forces-future/" >🔗</a> **[SpaceNews]** Saltzman unveils blueprint for Space Force’s future
 - <a href="https://spacenews.com/senators-seek-increased-funding-for-nasa-mars-missions/" >🔗</a> **[SpaceNews]** Senators seek increased funding for NASA Mars missions
 - <a href="https://science.nasa.gov/earth/2026-nsta-hyperwall-schedule/" >🔗</a> **[NASA]** 2026 NSTA Hyperwall Schedule
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/rethinking-cyber-and-space-with-joe-mazur/" >🔗</a> **[SpaceNews]** Rethinking cyber and space with Joe Mazur
 - <a href="https://science.nasa.gov/missions/landsat/honoring-alex-goetz-a-landsat-legend/" >🔗</a> **[NASA]** Honoring Alex Goetz, a Landsat Legend
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Antarctica_s_vanishing_sea_ice_transforms_marine_life" >🔗</a> **[ESA]** Antarctica’s vanishing sea ice transforms marine life
-- <a href="https://arstechnica.com/space/2026/04/blue-origin-has-a-new-employee-stock-plan-but-not-everyone-is-happy/" >🔗</a> **[Arstechnica]** Blue Origin has a new employee stock plan, but not everyone is happy
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260415T184955">2026-04-15 18:49:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260415T192749">2026-04-15 19:27:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
