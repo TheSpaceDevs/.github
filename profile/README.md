@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/taiwan-floats-shared-satcom-constellation-amid-calls-for-more-space-collaboration/" >🔗</a> **[SpaceNews]** Taiwan floats shared satcom constellation amid calls for more space collaboration
+- <a href="https://spacenews.com/companies-make-the-case-for-commercial-space-station-markets/" >🔗</a> **[SpaceNews]** Companies make the case for commercial space station markets
 - <a href="https://arstechnica.com/space/2026/04/artemis-ii-astronauts-say-landing-on-the-moon-is-absolutely-doable-soon/" >🔗</a> **[Arstechnica]** Artemis II astronauts say landing on the Moon is "absolutely doable" soon
 - <a href="https://spacenews.com/boeing-and-its-subsidiary-millennium-space-team-on-new-mid-size-satellite/" >🔗</a> **[SpaceNews]** Boeing and its subsidiary Millennium Space team on new mid-size satellite
 - <a href="https://spacenews.com/all-points-signs-agreement-to-build-payload-processing-facilities-at-ksc/" >🔗</a> **[SpaceNews]** All Points signs agreement to build payload processing facilities at KSC
@@ -97,9 +99,7 @@ into *an Unknown
 - <a href="https://spacenews.com/how-space-weather-forecasting-keeps-astronauts-and-satellites-safe/" >🔗</a> **[SpaceNews]** How space weather forecasting keeps astronauts (and satellites) safe
 - <a href="https://spacenews.com/nasa-seeks-commercial-and-exploration-links-for-new-earth-science-missions/" >🔗</a> **[SpaceNews]** NASA seeks commercial and exploration links for new Earth science missions
 - <a href="https://spacenews.com/the-optimism-in-the-space-economy-with-alyssa-goessler/" >🔗</a> **[SpaceNews]** The optimism in the space economy with Alyssa Goessler
-- <a href="https://www.nasa.gov/image-article/at-the-edge-of-light/" >🔗</a> **[NASA]** At the Edge of Light
-- <a href="https://spaceflightnow.com/2026/04/16/blue-origin-hot-fires-its-first-previously-flown-booster-prepares-for-weekend-launch/" >🔗</a> **[Spaceflight Now]** Blue Origin hot fires its first previously flown booster, prepares for weekend launch
-- <a href="https://spacenews.com/artemis-2-is-a-benchmark-in-our-space-exploration-program-and-it-depends-on-steady-nasa-funding/" >🔗</a> **[SpaceNews]** Artemis 2 is a benchmark in our space exploration program — and it depends on steady NASA funding
+- <a href="https://europeanspaceflight.com/cira-tests-space-rider-reentry-performance-with-damaged-heat-shield/" >🔗</a> **[European Spaceflight]** CIRA Tests Space Rider Reentry Performance with Damaged Heat Shield
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260416T221104">2026-04-16 22:11:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260416T224309">2026-04-16 22:43:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
