@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/at-the-edge-of-light/" >🔗</a> **[NASA]** At the Edge of Light
 - <a href="https://spaceflightnow.com/2026/04/16/blue-origin-hot-fires-its-first-previously-flown-booster-prepares-for-weekend-launch/" >🔗</a> **[Spaceflight Now]** Blue Origin hot fires its first previously flown booster, prepares for weekend launch
 - <a href="https://spacenews.com/artemis-2-is-a-benchmark-in-our-space-exploration-program-and-it-depends-on-steady-nasa-funding/" >🔗</a> **[SpaceNews]** Artemis 2 is a benchmark in our space exploration program — and it depends on steady NASA funding
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Three_ESA-built_satellites_on_show_in_France" >🔗</a> **[ESA]** Three ESA-built satellites on show in France
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/04/Just_opened_five_tonnes_of_science_and_supplies" >🔗</a> **[ESA]** Just opened: five tonnes of science and supplies
 - <a href="https://science.nasa.gov/earth/earth-observatory/eyeing-the-richat-structure/" >🔗</a> **[NASA]** Eyeing the Richat Structure
 - <a href="https://spacepolicyonline.com/news/two-new-documents-outline-future-evolution-of-the-u-s-space-force/" >🔗</a> **[SpacePolicyOnline.com]** Two New Documents Outline Future Evolution of the U.S. Space Force
-- <a href="https://spacenews.com/space-force-reorg-signals-end-of-sda-as-standalone-agency/" >🔗</a> **[SpaceNews]** Space Force reorg signals end of SDA as standalone agency
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260416T141244">2026-04-16 14:12:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260416T150625">2026-04-16 15:06:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
