@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/planetiq-secures-15-million-air-force-stratfi-contract/" >🔗</a> **[SpaceNews]** PlanetiQ secures $15 million Air Force STRATFI contract
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/04/Just_opened_five_tonnes_of_science_and_supplies" >🔗</a> **[ESA]** Just opened: five tonnes of science and supplies
 - <a href="https://science.nasa.gov/earth/earth-observatory/eyeing-the-richat-structure/" >🔗</a> **[NASA]** Eyeing the Richat Structure
 - <a href="https://spacepolicyonline.com/news/two-new-documents-outline-future-evolution-of-the-u-s-space-force/" >🔗</a> **[SpacePolicyOnline.com]** Two New Documents Outline Future Evolution of the U.S. Space Force
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/meink-space-force-must-execute-as-budget-set-to-surge/" >🔗</a> **[SpaceNews]** Meink: Space Force must ‘execute’ as budget set to surge
 - <a href="https://spaceflightnow.com/2026/04/15/blue-origin-one-step-closer-to-launching-new-glenn-from-vandenberg-space-force-base/" >🔗</a> **[Spaceflight Now]** Blue Origin one step closer to launching New Glenn from Vandenberg Space Force Base
 - <a href="https://spacenews.com/defining-acquisition-on-a-wartime-footing/" >🔗</a> **[SpaceNews]** Defining acquisition on a wartime footing
-- <a href="https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-rebekah-tolatovicz/" >🔗</a> **[NASA]** I Am Artemis: Rebekah Tolatovicz
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260416T094035">2026-04-16 09:40:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260416T102505">2026-04-16 10:25:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
