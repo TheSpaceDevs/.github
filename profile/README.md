@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/all-points-signs-agreement-to-build-payload-processing-facilities-at-ksc/" >🔗</a> **[SpaceNews]** All Points signs agreement to build payload processing facilities at KSC
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-latvia-artemis-accords-signing-ceremony/" >🔗</a> **[NASA]** NASA Invites Media to Latvia Artemis Accords Signing Ceremony
 - <a href="https://spacenews.com/how-space-weather-forecasting-keeps-astronauts-and-satellites-safe/" >🔗</a> **[SpaceNews]** How space weather forecasting keeps astronauts (and satellites) safe
 - <a href="https://spacenews.com/nasa-seeks-commercial-and-exploration-links-for-new-earth-science-missions/" >🔗</a> **[SpaceNews]** NASA seeks commercial and exploration links for new Earth science missions
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/artemis-2-is-a-benchmark-in-our-space-exploration-program-and-it-depends-on-steady-nasa-funding/" >🔗</a> **[SpaceNews]** Artemis 2 is a benchmark in our space exploration program — and it depends on steady NASA funding
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Three_ESA-built_satellites_on_show_in_France" >🔗</a> **[ESA]** Three ESA-built satellites on show in France
 - <a href="https://spacenews.com/voyager-to-fly-private-astronaut-mission-to-iss/" >🔗</a> **[SpaceNews]** Voyager to fly private astronaut mission to ISS
-- <a href="https://spacenews.com/aethero-orders-titan-satellite-to-advance-space-based-data-center-ambitions/" >🔗</a> **[SpaceNews]** Aethero orders Titan satellite to advance space-based data center ambitions
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260416T175447">2026-04-16 17:54:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260416T182032">2026-04-16 18:20:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
