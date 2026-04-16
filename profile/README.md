@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/how-space-weather-forecasting-keeps-astronauts-and-satellites-safe/" >🔗</a> **[SpaceNews]** How space weather forecasting keeps astronauts (and satellites) safe
+- <a href="https://spacenews.com/nasa-seeks-commercial-and-exploration-links-for-new-earth-science-missions/" >🔗</a> **[SpaceNews]** NASA seeks commercial and exploration links for new Earth science missions
 - <a href="https://spacenews.com/the-optimism-in-the-space-economy-with-alyssa-goessler/" >🔗</a> **[SpaceNews]** The optimism in the space economy with Alyssa Goessler
 - <a href="https://www.nasa.gov/image-article/at-the-edge-of-light/" >🔗</a> **[NASA]** At the Edge of Light
 - <a href="https://spaceflightnow.com/2026/04/16/blue-origin-hot-fires-its-first-previously-flown-booster-prepares-for-weekend-launch/" >🔗</a> **[Spaceflight Now]** Blue Origin hot fires its first previously flown booster, prepares for weekend launch
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/voyager-to-fly-private-astronaut-mission-to-iss/" >🔗</a> **[SpaceNews]** Voyager to fly private astronaut mission to ISS
 - <a href="https://spacenews.com/aethero-orders-titan-satellite-to-advance-space-based-data-center-ambitions/" >🔗</a> **[SpaceNews]** Aethero orders Titan satellite to advance space-based data center ambitions
 - <a href="https://spacenews.com/planetiq-secures-15-million-air-force-stratfi-contract/" >🔗</a> **[SpaceNews]** PlanetiQ secures $15 million Air Force STRATFI contract
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/04/Just_opened_five_tonnes_of_science_and_supplies" >🔗</a> **[ESA]** Just opened: five tonnes of science and supplies
-- <a href="https://science.nasa.gov/earth/earth-observatory/eyeing-the-richat-structure/" >🔗</a> **[NASA]** Eyeing the Richat Structure
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260416T160032">2026-04-16 16:00:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260416T164117">2026-04-16 16:41:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
