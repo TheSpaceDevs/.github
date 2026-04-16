@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/Three_ESA-built_satellites_on_show_in_France" >🔗</a> **[ESA]** Three ESA-built satellites on show in France
 - <a href="https://spacenews.com/voyager-to-fly-private-astronaut-mission-to-iss/" >🔗</a> **[SpaceNews]** Voyager to fly private astronaut mission to ISS
 - <a href="https://spacenews.com/aethero-orders-titan-satellite-to-advance-space-based-data-center-ambitions/" >🔗</a> **[SpaceNews]** Aethero orders Titan satellite to advance space-based data center ambitions
 - <a href="https://spacenews.com/planetiq-secures-15-million-air-force-stratfi-contract/" >🔗</a> **[SpaceNews]** PlanetiQ secures $15 million Air Force STRATFI contract
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/space-force-reorg-signals-end-of-sda-as-standalone-agency/" >🔗</a> **[SpaceNews]** Space Force reorg signals end of SDA as standalone agency
 - <a href="https://spacenews.com/seraphim-forms-space-advisory-council/" >🔗</a> **[SpaceNews]** Seraphim forms space advisory council
 - <a href="https://www.nasaspaceflight.com/2026/04/iss-roundup-032026/" >🔗</a> **[NASASpaceflight]** Expedition 74 sees vehicle departures and a spacewalk during March
-- <a href="https://spacenews.com/meink-space-force-must-execute-as-budget-set-to-surge/" >🔗</a> **[SpaceNews]** Meink: Space Force must ‘execute’ as budget set to surge
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260416T121555">2026-04-16 12:15:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260416T125012">2026-04-16 12:50:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
