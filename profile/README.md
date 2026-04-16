@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/two-new-documents-outline-future-evolution-of-the-u-s-space-force/" >🔗</a> **[SpacePolicyOnline.com]** Two New Documents Outline Future Evolution of the U.S. Space Force
+- <a href="https://spacenews.com/space-force-reorg-signals-end-of-sda-as-standalone-agency/" >🔗</a> **[SpaceNews]** Space Force reorg signals end of SDA as standalone agency
 - <a href="https://spacenews.com/seraphim-forms-space-advisory-council/" >🔗</a> **[SpaceNews]** Seraphim forms space advisory council
 - <a href="https://www.nasaspaceflight.com/2026/04/iss-roundup-032026/" >🔗</a> **[NASASpaceflight]** Expedition 74 sees vehicle departures and a spacewalk during March
 - <a href="https://spacenews.com/meink-space-force-must-execute-as-budget-set-to-surge/" >🔗</a> **[SpaceNews]** Meink: Space Force must ‘execute’ as budget set to surge
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-rebekah-tolatovicz/" >🔗</a> **[NASA]** I Am Artemis: Rebekah Tolatovicz
 - <a href="https://www.nasa.gov/news-release/nasa-selects-voyager-for-seventh-private-mission-to-space-station/" >🔗</a> **[NASA]** NASA Selects Voyager for Seventh Private Mission to Space Station
 - <a href="https://spacenews.com/nasa-seeks-proposals-for-commercial-tdrss-replacement/" >🔗</a> **[SpaceNews]** NASA seeks proposals for commercial TDRSS replacement
-- <a href="https://www.nasa.gov/image-article/nasa-launches-six-cubesats-to-international-space-station/" >🔗</a> **[NASA]** NASA Launches Six CubeSats to International Space Station
-- <a href="https://spacenews.com/emerson-launches-innovative-software-driven-method-for-high-fidelity-aerospace-rf-testing/" >🔗</a> **[SpaceNews]** Emerson Launches Innovative Software-Driven Method for High-Fidelity Aerospace RF Testing
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260416T021427">2026-04-16 02:14:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260416T034038">2026-04-16 03:40:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
