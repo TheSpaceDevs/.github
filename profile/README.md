@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/earth-observatory/eyeing-the-richat-structure/" >🔗</a> **[NASA]** Eyeing the Richat Structure
 - <a href="https://spacepolicyonline.com/news/two-new-documents-outline-future-evolution-of-the-u-s-space-force/" >🔗</a> **[SpacePolicyOnline.com]** Two New Documents Outline Future Evolution of the U.S. Space Force
 - <a href="https://spacenews.com/space-force-reorg-signals-end-of-sda-as-standalone-agency/" >🔗</a> **[SpaceNews]** Space Force reorg signals end of SDA as standalone agency
 - <a href="https://spacenews.com/seraphim-forms-space-advisory-council/" >🔗</a> **[SpaceNews]** Seraphim forms space advisory council
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacenews.com/defining-acquisition-on-a-wartime-footing/" >🔗</a> **[SpaceNews]** Defining acquisition on a wartime footing
 - <a href="https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-rebekah-tolatovicz/" >🔗</a> **[NASA]** I Am Artemis: Rebekah Tolatovicz
 - <a href="https://www.nasa.gov/news-release/nasa-selects-voyager-for-seventh-private-mission-to-space-station/" >🔗</a> **[NASA]** NASA Selects Voyager for Seventh Private Mission to Space Station
-- <a href="https://spacenews.com/nasa-seeks-proposals-for-commercial-tdrss-replacement/" >🔗</a> **[SpaceNews]** NASA seeks proposals for commercial TDRSS replacement
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260416T034038">2026-04-16 03:40:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260416T045716">2026-04-16 04:57:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
