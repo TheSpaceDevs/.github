@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2026/04/artemis-ii-astronauts-say-landing-on-the-moon-is-absolutely-doable-soon/" >🔗</a> **[Arstechnica]** Artemis II astronauts say landing on the Moon is "absolutely doable" soon
 - <a href="https://spacenews.com/boeing-and-its-subsidiary-millennium-space-team-on-new-mid-size-satellite/" >🔗</a> **[SpaceNews]** Boeing and its subsidiary Millennium Space team on new mid-size satellite
 - <a href="https://spacenews.com/all-points-signs-agreement-to-build-payload-processing-facilities-at-ksc/" >🔗</a> **[SpaceNews]** All Points signs agreement to build payload processing facilities at KSC
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-latvia-artemis-accords-signing-ceremony/" >🔗</a> **[NASA]** NASA Invites Media to Latvia Artemis Accords Signing Ceremony
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/image-article/at-the-edge-of-light/" >🔗</a> **[NASA]** At the Edge of Light
 - <a href="https://spaceflightnow.com/2026/04/16/blue-origin-hot-fires-its-first-previously-flown-booster-prepares-for-weekend-launch/" >🔗</a> **[Spaceflight Now]** Blue Origin hot fires its first previously flown booster, prepares for weekend launch
 - <a href="https://spacenews.com/artemis-2-is-a-benchmark-in-our-space-exploration-program-and-it-depends-on-steady-nasa-funding/" >🔗</a> **[SpaceNews]** Artemis 2 is a benchmark in our space exploration program — and it depends on steady NASA funding
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Three_ESA-built_satellites_on_show_in_France" >🔗</a> **[ESA]** Three ESA-built satellites on show in France
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260416T211240">2026-04-16 21:12:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260416T214335">2026-04-16 21:43:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
