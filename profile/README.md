@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/04/16/blue-origin-hot-fires-its-first-previously-flown-booster-prepares-for-weekend-launch/" >🔗</a> **[Spaceflight Now]** Blue Origin hot fires its first previously flown booster, prepares for weekend launch
+- <a href="https://spacenews.com/artemis-2-is-a-benchmark-in-our-space-exploration-program-and-it-depends-on-steady-nasa-funding/" >🔗</a> **[SpaceNews]** Artemis 2 is a benchmark in our space exploration program — and it depends on steady NASA funding
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Three_ESA-built_satellites_on_show_in_France" >🔗</a> **[ESA]** Three ESA-built satellites on show in France
 - <a href="https://spacenews.com/voyager-to-fly-private-astronaut-mission-to-iss/" >🔗</a> **[SpaceNews]** Voyager to fly private astronaut mission to ISS
 - <a href="https://spacenews.com/aethero-orders-titan-satellite-to-advance-space-based-data-center-ambitions/" >🔗</a> **[SpaceNews]** Aethero orders Titan satellite to advance space-based data center ambitions
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/earth/earth-observatory/eyeing-the-richat-structure/" >🔗</a> **[NASA]** Eyeing the Richat Structure
 - <a href="https://spacepolicyonline.com/news/two-new-documents-outline-future-evolution-of-the-u-s-space-force/" >🔗</a> **[SpacePolicyOnline.com]** Two New Documents Outline Future Evolution of the U.S. Space Force
 - <a href="https://spacenews.com/space-force-reorg-signals-end-of-sda-as-standalone-agency/" >🔗</a> **[SpaceNews]** Space Force reorg signals end of SDA as standalone agency
-- <a href="https://spacenews.com/seraphim-forms-space-advisory-council/" >🔗</a> **[SpaceNews]** Seraphim forms space advisory council
-- <a href="https://www.nasaspaceflight.com/2026/04/iss-roundup-032026/" >🔗</a> **[NASASpaceflight]** Expedition 74 sees vehicle departures and a spacewalk during March
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260416T125012">2026-04-16 12:50:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260416T132935">2026-04-16 13:29:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
