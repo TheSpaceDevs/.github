@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/get-involved/citizen-science/volunteers-discover-rare-space-weather-events-using-their-ears/" >🔗</a> **[NASA]** Volunteers Discover Rare Space Weather Events Using Their Ears
 - <a href="https://www.nasa.gov/image-article/nasas-spherex-observatory-maps-interstellar-ice-in-milky-way/" >🔗</a> **[NASA]** NASA’s SPHEREx Observatory Maps Interstellar Ice in Milky Way
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_13-17_April_2026" >🔗</a> **[ESA]** Week in images: 13-17 April 2026
 - <a href="https://spacenews.com/new-eu-space-act-draft-seen-as-a-step-backward/" >🔗</a> **[SpaceNews]** New EU Space Act draft seen as a step backward
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/earth/earth-observatory/spring-rains-saturate-michigan/" >🔗</a> **[NASA]** Spring Rains Saturate Michigan
 - <a href="https://spacepolicyonline.com/news/artemis-ii-crew-says-lunar-landing-doable-soon/" >🔗</a> **[SpacePolicyOnline.com]** Artemis II Crew Says Lunar Landing Doable Soon
 - <a href="https://spacenews.com/indias-takeme2space-sets-sights-on-50-kilowatt-data-center/" >🔗</a> **[SpaceNews]** India’s TakeMe2Space sets sights on 50-kilowatt data center
-- <a href="https://spacenews.com/countering-missile-threats-left-of-launch/" >🔗</a> **[SpaceNews]** Countering missile threats ‘left of launch’
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260417T144557">2026-04-17 14:45:57 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260417T151954">2026-04-17 15:19:54 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
