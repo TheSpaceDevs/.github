@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/d2d-services-are-at-risk-of-becoming-too-complicated-and-siloed/" >🔗</a> **[SpaceNews]** D2D services are at risk of becoming too complicated and siloed
 - <a href="https://spacenews.com/qingzhou-prototype-cargo-spacecraft-completes-rendezvous-tests-in-orbit/" >🔗</a> **[SpaceNews]** Qingzhou prototype cargo spacecraft completes rendezvous tests in orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/04/Earth_from_Space_Land_of_rainforests" >🔗</a> **[ESA]** Earth from Space: Land of rainforests
 - <a href="https://science.nasa.gov/earth/earth-observatory/spring-rains-saturate-michigan/" >🔗</a> **[NASA]** Spring Rains Saturate Michigan
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/taiwan-floats-shared-satcom-constellation-amid-calls-for-more-space-collaboration/" >🔗</a> **[SpaceNews]** Taiwan floats shared satcom constellation amid calls for more space collaboration
 - <a href="https://spacenews.com/companies-make-the-case-for-commercial-space-station-markets/" >🔗</a> **[SpaceNews]** Companies make the case for commercial space station markets
 - <a href="https://arstechnica.com/space/2026/04/artemis-ii-astronauts-say-landing-on-the-moon-is-absolutely-doable-soon/" >🔗</a> **[Arstechnica]** Artemis II astronauts say landing on the Moon is "absolutely doable" soon
-- <a href="https://spacenews.com/boeing-and-its-subsidiary-millennium-space-team-on-new-mid-size-satellite/" >🔗</a> **[SpaceNews]** Boeing and its subsidiary Millennium Space team on new mid-size satellite
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260417T104521">2026-04-17 10:45:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260417T111641">2026-04-17 11:16:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
