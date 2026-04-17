@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-artemis-ii-human-research-data-methodology-challenge/" >🔗</a> **[NASA]** NASA Artemis II Human Research Data Methodology Challenge
 - <a href="https://www.nasa.gov/news-release/nasa-opm-announce-new-nasa-force-website-open-job-applications/" >🔗</a> **[NASA]** NASA, OPM Announce New NASA Force Website, Open Job Applications
 - <a href="https://arstechnica.com/space/2026/04/artemis-ii-pilot-describes-landing-in-orion-from-intense-to-pure-elation/" >🔗</a> **[Arstechnica]** Artemis II pilot describes landing in Orion: "From intense to pure elation"
 - <a href="https://science.nasa.gov/science-research/earth-science/quality-assessment-report-evaluates-tomorrow-io-precipitation-radar-data/" >🔗</a> **[NASA]** Quality Assessment Report Evaluates Tomorrow.io Precipitation Radar Data
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/new-eu-space-act-draft-seen-as-a-step-backward/" >🔗</a> **[SpaceNews]** New EU Space Act draft seen as a step backward
 - <a href="https://spacenews.com/d2d-services-are-at-risk-of-becoming-too-complicated-and-siloed/" >🔗</a> **[SpaceNews]** D2D services are at risk of becoming too complicated and siloed
 - <a href="https://spacenews.com/qingzhou-prototype-cargo-spacecraft-completes-rendezvous-tests-in-orbit/" >🔗</a> **[SpaceNews]** Qingzhou prototype cargo spacecraft completes rendezvous tests in orbit
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/04/Earth_from_Space_Land_of_rainforests" >🔗</a> **[ESA]** Earth from Space: Land of rainforests
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260417T184511">2026-04-17 18:45:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260417T192159">2026-04-17 19:21:59 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
