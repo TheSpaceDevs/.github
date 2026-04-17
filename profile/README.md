@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacenews.com/indias-takeme2space-sets-sights-on-50-kilowatt-data-center/" >🔗</a> **[SpaceNews]** India’s TakeMe2Space sets sights on 50-kilowatt data center
 - <a href="https://spacenews.com/countering-missile-threats-left-of-launch/" >🔗</a> **[SpaceNews]** Countering missile threats ‘left of launch’
 - <a href="https://spacenews.com/taiwan-floats-shared-satcom-constellation-amid-calls-for-more-space-collaboration/" >🔗</a> **[SpaceNews]** Taiwan floats shared satcom constellation amid calls for more space collaboration
 - <a href="https://spacenews.com/companies-make-the-case-for-commercial-space-station-markets/" >🔗</a> **[SpaceNews]** Companies make the case for commercial space station markets
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-latvia-artemis-accords-signing-ceremony/" >🔗</a> **[NASA]** NASA Invites Media to Latvia Artemis Accords Signing Ceremony
 - <a href="https://spacenews.com/how-space-weather-forecasting-keeps-astronauts-and-satellites-safe/" >🔗</a> **[SpaceNews]** How space weather forecasting keeps astronauts (and satellites) safe
 - <a href="https://spacenews.com/nasa-seeks-commercial-and-exploration-links-for-new-earth-science-missions/" >🔗</a> **[SpaceNews]** NASA seeks commercial and exploration links for new Earth science missions
-- <a href="https://spacenews.com/the-optimism-in-the-space-economy-with-alyssa-goessler/" >🔗</a> **[SpaceNews]** The optimism in the space economy with Alyssa Goessler
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260416T234311">2026-04-16 23:43:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260417T001458">2026-04-17 00:14:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
