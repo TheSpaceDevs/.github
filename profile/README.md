@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-opm-announce-new-nasa-force-website-open-job-applications/" >🔗</a> **[NASA]** NASA, OPM Announce New NASA Force Website, Open Job Applications
+- <a href="https://arstechnica.com/space/2026/04/artemis-ii-pilot-describes-landing-in-orion-from-intense-to-pure-elation/" >🔗</a> **[Arstechnica]** Artemis II pilot describes landing in Orion: "From intense to pure elation"
 - <a href="https://science.nasa.gov/science-research/earth-science/quality-assessment-report-evaluates-tomorrow-io-precipitation-radar-data/" >🔗</a> **[NASA]** Quality Assessment Report Evaluates Tomorrow.io Precipitation Radar Data
 - <a href="https://science.nasa.gov/get-involved/citizen-science/volunteers-discover-rare-space-weather-events-using-their-ears/" >🔗</a> **[NASA]** Volunteers Discover Rare Space Weather Events Using Their Ears
 - <a href="https://www.nasa.gov/image-article/nasas-spherex-observatory-maps-interstellar-ice-in-milky-way/" >🔗</a> **[NASA]** NASA’s SPHEREx Observatory Maps Interstellar Ice in Milky Way
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacenews.com/d2d-services-are-at-risk-of-becoming-too-complicated-and-siloed/" >🔗</a> **[SpaceNews]** D2D services are at risk of becoming too complicated and siloed
 - <a href="https://spacenews.com/qingzhou-prototype-cargo-spacecraft-completes-rendezvous-tests-in-orbit/" >🔗</a> **[SpaceNews]** Qingzhou prototype cargo spacecraft completes rendezvous tests in orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/04/Earth_from_Space_Land_of_rainforests" >🔗</a> **[ESA]** Earth from Space: Land of rainforests
-- <a href="https://science.nasa.gov/earth/earth-observatory/spring-rains-saturate-michigan/" >🔗</a> **[NASA]** Spring Rains Saturate Michigan
-- <a href="https://spacepolicyonline.com/news/artemis-ii-crew-says-lunar-landing-doable-soon/" >🔗</a> **[SpacePolicyOnline.com]** Artemis II Crew Says Lunar Landing Doable Soon
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260417T164508">2026-04-17 16:45:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260417T171446">2026-04-17 17:14:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
