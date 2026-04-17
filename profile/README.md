@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/04/Earth_from_Space_Land_of_rainforests" >🔗</a> **[ESA]** Earth from Space: Land of rainforests
 - <a href="https://science.nasa.gov/earth/earth-observatory/spring-rains-saturate-michigan/" >🔗</a> **[NASA]** Spring Rains Saturate Michigan
 - <a href="https://spacepolicyonline.com/news/artemis-ii-crew-says-lunar-landing-doable-soon/" >🔗</a> **[SpacePolicyOnline.com]** Artemis II Crew Says Lunar Landing Doable Soon
 - <a href="https://spacenews.com/indias-takeme2space-sets-sights-on-50-kilowatt-data-center/" >🔗</a> **[SpaceNews]** India’s TakeMe2Space sets sights on 50-kilowatt data center
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2026/04/artemis-ii-astronauts-say-landing-on-the-moon-is-absolutely-doable-soon/" >🔗</a> **[Arstechnica]** Artemis II astronauts say landing on the Moon is "absolutely doable" soon
 - <a href="https://spacenews.com/boeing-and-its-subsidiary-millennium-space-team-on-new-mid-size-satellite/" >🔗</a> **[SpaceNews]** Boeing and its subsidiary Millennium Space team on new mid-size satellite
 - <a href="https://spacenews.com/all-points-signs-agreement-to-build-payload-processing-facilities-at-ksc/" >🔗</a> **[SpaceNews]** All Points signs agreement to build payload processing facilities at KSC
-- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-latvia-artemis-accords-signing-ceremony/" >🔗</a> **[NASA]** NASA Invites Media to Latvia Artemis Accords Signing Ceremony
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260417T080758">2026-04-17 08:07:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260417T085930">2026-04-17 08:59:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
