@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/04/18/live-coverage-spacex-attempts-600th-falcon-booster-landing-amid-west-coast-starlink-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX attempts 600th Falcon booster landing amid West Coast Starlink mission
 - <a href="https://science.nasa.gov/uncategorized/csda-quality-assessment-report-evaluates-satellogic-newsat-data/" >🔗</a> **[NASA]** CSDA Quality Assessment Report Evaluates Satellogic NewSat Data
 - <a href="https://science.nasa.gov/science-research/earth-science/webinar-4-29-nasa-csda-program-vendor-focus-mda-space/" >🔗</a> **[NASA]** Webinar 4/29: NASA CSDA Program Vendor Focus- MDA Space
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-artemis-ii-human-research-data-methodology-challenge/" >🔗</a> **[NASA]** NASA Artemis II Human Research Data Methodology Challenge
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/get-involved/citizen-science/volunteers-discover-rare-space-weather-events-using-their-ears/" >🔗</a> **[NASA]** Volunteers Discover Rare Space Weather Events Using Their Ears
 - <a href="https://www.nasa.gov/image-article/nasas-spherex-observatory-maps-interstellar-ice-in-milky-way/" >🔗</a> **[NASA]** NASA’s SPHEREx Observatory Maps Interstellar Ice in Milky Way
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_13-17_April_2026" >🔗</a> **[ESA]** Week in images: 13-17 April 2026
-- <a href="https://spacenews.com/new-eu-space-act-draft-seen-as-a-step-backward/" >🔗</a> **[SpaceNews]** New EU Space Act draft seen as a step backward
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260418T065231">2026-04-18 06:52:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260418T072402">2026-04-18 07:24:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
