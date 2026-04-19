@@ -90,6 +90,7 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-april-19-25-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy April 19-25, 2026
 - <a href="https://spaceflightnow.com/2026/04/19/third-flight-of-blue-origins-new-glenn-rocket-to-feature-1st-reuse-of-booster/" >🔗</a> **[Spaceflight Now]** Live Coverage: Third flight of Blue Origin’s New Glenn rocket to feature 1st reuse of booster
 - <a href="https://www.nasaspaceflight.com/2026/04/ng-3-launch/" >🔗</a> **[NASASpaceflight]** New Glenn set to launch on third mission, reuse booster for the first time
 - <a href="https://www.nasaspaceflight.com/2026/04/vast-astronaut-flight-suit-docking-adapter/" >🔗</a> **[NASASpaceflight]** Vast unveils Astronaut Flight Suit and revolutionary Large Docking Adapter
@@ -99,7 +100,6 @@ into *a Medium Earth Orbit
 - <a href="https://science.nasa.gov/science-research/earth-science/webinar-4-29-nasa-csda-program-vendor-focus-mda-space/" >🔗</a> **[NASA]** Webinar 4/29: NASA CSDA Program Vendor Focus- MDA Space
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-artemis-ii-human-research-data-methodology-challenge/" >🔗</a> **[NASA]** NASA Artemis II Human Research Data Methodology Challenge
 - <a href="https://www.nasa.gov/news-release/nasa-opm-announce-new-nasa-force-website-open-job-applications/" >🔗</a> **[NASA]** NASA, OPM Announce New NASA Force Website, Open Job Applications
-- <a href="https://arstechnica.com/space/2026/04/artemis-ii-pilot-describes-landing-in-orion-from-intense-to-pure-elation/" >🔗</a> **[Arstechnica]** Artemis II pilot describes landing in Orion: "From intense to pure elation"
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260419T220614">2026-04-19 22:06:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260419T224234">2026-04-19 22:42:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
