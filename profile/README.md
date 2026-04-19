@@ -19,29 +19,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**New Glenn | BlueBird Block 2 #2**. It is scheduled to be launched by *Blue Origin*
+**Falcon 9 Block 5 | Starlink Group 17-22**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Cape_Canaveral_Launch_Complex_36">Launch Complex 36A</a>, Cape Canaveral SFS, FL, USA*
+from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260419T104500">2026-04-19 10:45:00 UTC</a>.  Until
-then, this pad will have been used for 70
-out of 1102 launches from this location. The launch status is currently
-*Hold* 🟪 . The mission type is
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260419T140000">2026-04-19 14:00:00 UTC</a>.  Until
+then, this pad will have been used for 260
+out of 876 launches from this location. The launch status is currently
+*Go* 🟩 . The mission type is
 *Communications* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  AST SpaceMobile’s Block 2 BlueBird satellites are designed to deliver up to 10 times the bandwidth capacity of the BlueBird Block 1 satellites, required to achieve 24/7 continuous cellular broadband service coverage in the United States, with beams designed to support a capacity of up to 40 MHz, enabling peak data transmission speeds up to 120 Mbps, supporting voice, full data and video applications. The Block 2 BlueBirds, featuring as large as 2400 square foot communications arrays, will be the largest satellites ever commercially deployed in Low Earth orbit once launched.
-
-This launch will feature 1 satellite, BlueBird 7/BlueBird Block 2 FM2.
+  A batch of 25 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/New_Glenn" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.4705556,-80.542194" >
+  <a href="https://www.google.com/maps?q=34.632,-120.611" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -56,6 +54,7 @@ This launch will feature 1 satellite, BlueBird 7/BlueBird Block 2 FM2.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260425T140000">2026-04-25 14:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-16&location=Vandenberg SFB, CA, USA&dates=20260425T140000Z%2F20260425T180000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-16** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260425T222100">2026-04-25 22:21:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1a | Progress MS-34 (95P)&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20260425T222100Z%2F20260425T222100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1a | Progress MS-34 (95P)** from Baikonur Cosmodrome, Republic of Kazakhstan.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260427T000000">2026-04-27 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 551 | Amazon Leo (LA-06)&location=Cape Canaveral SFS, FL, USA&dates=20260427T000000Z%2F20260427T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 551 | Amazon Leo (LA-06)** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260428T085100">2026-04-28 08:51:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ariane 64 | Amazon Leo (LE-02)&location=Guiana Space Centre, French Guiana&dates=20260428T085100Z%2F20260428T093900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ariane 64 | Amazon Leo (LE-02)** from Guiana Space Centre, French Guiana.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -105,16 +104,12 @@ This launch will feature 1 satellite, BlueBird 7/BlueBird Block 2 FM2.
 
 ### Launch-related News 🚀
 
-- <a href="https://spaceflightnow.com/2026/04/16/blue-origin-hot-fires-its-first-previously-flown-booster-prepares-for-weekend-launch/" >🔗</a> **[Spaceflight Now]** Blue Origin hot fires its first previously flown booster, prepares for weekend launch
 - <a href="https://www.nasaspaceflight.com/2026/04/launch-preview-041326/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon 9 to launch Starlink satellites, New Glenn to launch with flown booster
-- <a href="https://spacenews.com/blue-origin-to-reuse-new-glenn-booster-on-next-launch/" >🔗</a> **[SpaceNews]** Blue Origin to reuse New Glenn booster on next launch
-- <a href="https://arstechnica.com/space/2026/01/blue-origin-makes-impressive-strides-with-reuse-next-launch-will-refly-booster/" >🔗</a> **[Arstechnica]** Blue Origin makes impressive strides with reuse—next launch will refly booster
-- <a href="https://spaceflightnow.com/2024/11/17/ast-spacemobile-secures-multi-launch-agreements-with-blue-origin-isro-and-spacex/" >🔗</a> **[Spaceflight Now]** AST SpaceMobile secures multi-launch agreements with Blue Origin, ISRO and SpaceX
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260419T111102">2026-04-19 11:11:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260419T114209">2026-04-19 11:42:09 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
