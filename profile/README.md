@@ -95,13 +95,13 @@ This launch will feature 1 satellite, BlueBird 7/BlueBird Block 2 FM2.
 - <a href="https://spaceflightnow.com/2026/04/19/third-flight-of-blue-origins-new-glenn-rocket-to-feature-1st-reuse-of-booster/" >🔗</a> **[Spaceflight Now]** Live Coverage: Third flight of Blue Origin’s New Glenn rocket to feature 1st reuse of booster
 - <a href="https://www.nasaspaceflight.com/2026/04/ng-3-launch/" >🔗</a> **[NASASpaceflight]** New Glenn set to launch on third mission, reuse booster for the first time
 - <a href="https://www.nasaspaceflight.com/2026/04/vast-astronaut-flight-suit-docking-adapter/" >🔗</a> **[NASASpaceflight]** Vast unveils Astronaut Flight Suit and revolutionary Large Docking Adapter
+- <a href="https://europeanspaceflight.com/antitrust-authority-approves-creation-of-rheinmetall-ohb-satellite-joint-venture/" >🔗</a> **[European Spaceflight]** Antitrust Authority Approves Creation of Rheinmetall-OHB Satellite Joint Venture
 - <a href="https://spaceflightnow.com/2026/04/18/live-coverage-spacex-attempts-600th-falcon-booster-landing-amid-west-coast-starlink-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX attempts 600th Falcon booster landing amid West Coast Starlink mission
 - <a href="https://science.nasa.gov/uncategorized/csda-quality-assessment-report-evaluates-satellogic-newsat-data/" >🔗</a> **[NASA]** CSDA Quality Assessment Report Evaluates Satellogic NewSat Data
 - <a href="https://science.nasa.gov/science-research/earth-science/webinar-4-29-nasa-csda-program-vendor-focus-mda-space/" >🔗</a> **[NASA]** Webinar 4/29: NASA CSDA Program Vendor Focus- MDA Space
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-artemis-ii-human-research-data-methodology-challenge/" >🔗</a> **[NASA]** NASA Artemis II Human Research Data Methodology Challenge
 - <a href="https://www.nasa.gov/news-release/nasa-opm-announce-new-nasa-force-website-open-job-applications/" >🔗</a> **[NASA]** NASA, OPM Announce New NASA Force Website, Open Job Applications
 - <a href="https://arstechnica.com/space/2026/04/artemis-ii-pilot-describes-landing-in-orion-from-intense-to-pure-elation/" >🔗</a> **[Arstechnica]** Artemis II pilot describes landing in Orion: "From intense to pure elation"
-- <a href="https://science.nasa.gov/science-research/earth-science/quality-assessment-report-evaluates-tomorrow-io-precipitation-radar-data/" >🔗</a> **[NASA]** Quality Assessment Report Evaluates Tomorrow.io Precipitation Radar Data
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ This launch will feature 1 satellite, BlueBird 7/BlueBird Block 2 FM2.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260419T084445">2026-04-19 08:44:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260419T091415">2026-04-19 09:14:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
