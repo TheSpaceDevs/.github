@@ -92,6 +92,7 @@ This launch will feature 1 satellite, BlueBird 7/BlueBird Block 2 FM2.
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/04/19/third-flight-of-blue-origins-new-glenn-rocket-to-feature-1st-reuse-of-booster/" >🔗</a> **[Spaceflight Now]** Live Coverage: Third flight of Blue Origin’s New Glenn rocket to feature 1st reuse of booster
 - <a href="https://www.nasaspaceflight.com/2026/04/ng-3-launch/" >🔗</a> **[NASASpaceflight]** New Glenn set to launch on third mission, reuse booster for the first time
 - <a href="https://www.nasaspaceflight.com/2026/04/vast-astronaut-flight-suit-docking-adapter/" >🔗</a> **[NASASpaceflight]** Vast unveils Astronaut Flight Suit and revolutionary Large Docking Adapter
 - <a href="https://spaceflightnow.com/2026/04/18/live-coverage-spacex-attempts-600th-falcon-booster-landing-amid-west-coast-starlink-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX attempts 600th Falcon booster landing amid West Coast Starlink mission
@@ -101,7 +102,6 @@ This launch will feature 1 satellite, BlueBird 7/BlueBird Block 2 FM2.
 - <a href="https://www.nasa.gov/news-release/nasa-opm-announce-new-nasa-force-website-open-job-applications/" >🔗</a> **[NASA]** NASA, OPM Announce New NASA Force Website, Open Job Applications
 - <a href="https://arstechnica.com/space/2026/04/artemis-ii-pilot-describes-landing-in-orion-from-intense-to-pure-elation/" >🔗</a> **[Arstechnica]** Artemis II pilot describes landing in Orion: "From intense to pure elation"
 - <a href="https://science.nasa.gov/science-research/earth-science/quality-assessment-report-evaluates-tomorrow-io-precipitation-radar-data/" >🔗</a> **[NASA]** Quality Assessment Report Evaluates Tomorrow.io Precipitation Radar Data
-- <a href="https://science.nasa.gov/get-involved/citizen-science/volunteers-discover-rare-space-weather-events-using-their-ears/" >🔗</a> **[NASA]** Volunteers Discover Rare Space Weather Events Using Their Ears
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ This launch will feature 1 satellite, BlueBird 7/BlueBird Block 2 FM2.
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260419T010648">2026-04-19 01:06:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260419T021448">2026-04-19 02:14:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
