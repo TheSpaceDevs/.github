@@ -90,6 +90,7 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/04/ast-bluebird-7-lost-new-glenn-launch/" >🔗</a> **[NASASpaceflight]** AST SpaceMobile’s BlueBird 7 declared lost following New Glenn launch
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-april-19-25-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy April 19-25, 2026
 - <a href="https://spaceflightnow.com/2026/04/19/third-flight-of-blue-origins-new-glenn-rocket-to-feature-1st-reuse-of-booster/" >🔗</a> **[Spaceflight Now]** Live Coverage: Third flight of Blue Origin’s New Glenn rocket to feature 1st reuse of booster
 - <a href="https://www.nasaspaceflight.com/2026/04/ng-3-launch/" >🔗</a> **[NASASpaceflight]** New Glenn set to launch on third mission, reuse booster for the first time
@@ -99,7 +100,6 @@ into *a Medium Earth Orbit
 - <a href="https://science.nasa.gov/uncategorized/csda-quality-assessment-report-evaluates-satellogic-newsat-data/" >🔗</a> **[NASA]** CSDA Quality Assessment Report Evaluates Satellogic NewSat Data
 - <a href="https://science.nasa.gov/science-research/earth-science/webinar-4-29-nasa-csda-program-vendor-focus-mda-space/" >🔗</a> **[NASA]** Webinar 4/29: NASA CSDA Program Vendor Focus- MDA Space
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-artemis-ii-human-research-data-methodology-challenge/" >🔗</a> **[NASA]** NASA Artemis II Human Research Data Methodology Challenge
-- <a href="https://www.nasa.gov/news-release/nasa-opm-announce-new-nasa-force-website-open-job-applications/" >🔗</a> **[NASA]** NASA, OPM Announce New NASA Force Website, Open Job Applications
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260419T230848">2026-04-19 23:08:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260419T234243">2026-04-19 23:42:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
