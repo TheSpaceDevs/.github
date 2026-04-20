@@ -90,6 +90,7 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacescout.info/2026/04/photos-and-feelings-from-artemis-ii/" >🔗</a> **[Space Scout]** Photos and Feelings from Artemis II
 - <a href="https://www.nasa.gov/news-release/nasa-welcomes-latvia-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Latvia as Newest Artemis Accords Signatory
 - <a href="https://www.nasa.gov/image-article/wheels-up-for-x-59/" >🔗</a> **[NASA]** Wheels Up for X-59
 - <a href="https://spaceflightnow.com/2026/04/20/blue-origin-launches-third-new-glenn-rocket-but-payload-ends-up-in-wrong-orbit/" >🔗</a> **[Spaceflight Now]** Blue Origin launches third New Glenn rocket, but payload ends up in wrong orbit
@@ -99,7 +100,6 @@ into *a Medium Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2026/04/ast-bluebird-7-lost-new-glenn-launch/" >🔗</a> **[NASASpaceflight]** AST SpaceMobile’s BlueBird 7 declared lost following New Glenn launch
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-april-19-25-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy April 19-25, 2026
 - <a href="https://spaceflightnow.com/2026/04/19/third-flight-of-blue-origins-new-glenn-rocket-to-feature-1st-reuse-of-booster/" >🔗</a> **[Spaceflight Now]** Live Coverage: Third flight of Blue Origin’s New Glenn rocket to feature 1st reuse of booster
-- <a href="https://www.nasaspaceflight.com/2026/04/ng-3-launch/" >🔗</a> **[NASASpaceflight]** New Glenn set to launch on third mission, reuse booster for the first time
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260420T164738">2026-04-20 16:47:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260420T172025">2026-04-20 17:20:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
