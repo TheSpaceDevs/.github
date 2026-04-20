@@ -90,6 +90,8 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-welcomes-latvia-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Latvia as Newest Artemis Accords Signatory
+- <a href="https://www.nasa.gov/image-article/wheels-up-for-x-59/" >🔗</a> **[NASA]** Wheels Up for X-59
 - <a href="https://spaceflightnow.com/2026/04/20/blue-origin-launches-third-new-glenn-rocket-but-payload-ends-up-in-wrong-orbit/" >🔗</a> **[Spaceflight Now]** Blue Origin launches third New Glenn rocket, but payload ends up in wrong orbit
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-dazzles-with-young-stars-in-trifid-nebula/" >🔗</a> **[NASA]** NASA’s Hubble Dazzles With Young Stars in Trifid Nebula
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Hubble_turns_36_with_a_dazzling_Trifid_Nebula_portrait" >🔗</a> **[ESA]** Hubble turns 36 with a dazzling Trifid Nebula portrait
@@ -98,8 +100,6 @@ into *a Medium Earth Orbit
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-april-19-25-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy April 19-25, 2026
 - <a href="https://spaceflightnow.com/2026/04/19/third-flight-of-blue-origins-new-glenn-rocket-to-feature-1st-reuse-of-booster/" >🔗</a> **[Spaceflight Now]** Live Coverage: Third flight of Blue Origin’s New Glenn rocket to feature 1st reuse of booster
 - <a href="https://www.nasaspaceflight.com/2026/04/ng-3-launch/" >🔗</a> **[NASASpaceflight]** New Glenn set to launch on third mission, reuse booster for the first time
-- <a href="https://www.nasaspaceflight.com/2026/04/vast-astronaut-flight-suit-docking-adapter/" >🔗</a> **[NASASpaceflight]** Vast unveils Astronaut Flight Suit and revolutionary Large Docking Adapter
-- <a href="https://europeanspaceflight.com/antitrust-authority-approves-creation-of-rheinmetall-ohb-satellite-joint-venture/" >🔗</a> **[European Spaceflight]** Antitrust Authority Approves Creation of Rheinmetall-OHB Satellite Joint Venture
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260420T153725">2026-04-20 15:37:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260420T162242">2026-04-20 16:22:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
