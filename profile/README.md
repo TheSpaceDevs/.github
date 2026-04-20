@@ -90,6 +90,7 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-rolls-out-artemis-iii-moon-rocket-core-stage/" >🔗</a> **[NASA]** NASA Rolls Out Artemis III Moon Rocket Core Stage
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-spacexs-34th-resupply-launch-to-space-station/" >🔗</a> **[NASA]** NASA Invites Media to SpaceX’s 34th Resupply Launch to Space Station
 - <a href="https://www.spacescout.info/2026/04/photos-and-feelings-from-artemis-ii/" >🔗</a> **[Space Scout]** Photos and Feelings from Artemis II
 - <a href="https://www.nasa.gov/news-release/nasa-welcomes-latvia-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Latvia as Newest Artemis Accords Signatory
@@ -99,7 +100,6 @@ into *a Medium Earth Orbit
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Hubble_turns_36_with_a_dazzling_Trifid_Nebula_portrait" >🔗</a> **[ESA]** Hubble turns 36 with a dazzling Trifid Nebula portrait
 - <a href="https://science.nasa.gov/earth/earth-observatory/thailands-krabi-coast/" >🔗</a> **[NASA]** Thailand’s Krabi Coast
 - <a href="https://www.nasaspaceflight.com/2026/04/ast-bluebird-7-lost-new-glenn-launch/" >🔗</a> **[NASASpaceflight]** AST SpaceMobile’s BlueBird 7 declared lost following New Glenn launch
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-april-19-25-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy April 19-25, 2026
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260420T201202">2026-04-20 20:12:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260420T204350">2026-04-20 20:43:50 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
