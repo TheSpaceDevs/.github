@@ -90,6 +90,7 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/nasa-on-track-for-future-missions-with-initial-artemis-ii-assessments/" >🔗</a> **[NASA]** NASA on Track for Future Missions with Initial Artemis II Assessments
 - <a href="https://www.nasaspaceflight.com/2026/04/launch-preview-042026/" >🔗</a> **[NASASpaceflight]** Launch Preview: GPS, Progress, and Starlink missions to launch during busy week
 - <a href="https://www.nasa.gov/news-release/nasa-rolls-out-artemis-iii-moon-rocket-core-stage/" >🔗</a> **[NASA]** NASA Rolls Out Artemis III Moon Rocket Core Stage
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-spacexs-34th-resupply-launch-to-space-station/" >🔗</a> **[NASA]** NASA Invites Media to SpaceX’s 34th Resupply Launch to Space Station
@@ -99,7 +100,6 @@ into *a Medium Earth Orbit
 - <a href="https://spaceflightnow.com/2026/04/20/blue-origin-launches-third-new-glenn-rocket-but-payload-ends-up-in-wrong-orbit/" >🔗</a> **[Spaceflight Now]** Blue Origin launches third New Glenn rocket, but payload ends up in wrong orbit
 - <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-dazzles-with-young-stars-in-trifid-nebula/" >🔗</a> **[NASA]** NASA’s Hubble Dazzles With Young Stars in Trifid Nebula
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Hubble_turns_36_with_a_dazzling_Trifid_Nebula_portrait" >🔗</a> **[ESA]** Hubble turns 36 with a dazzling Trifid Nebula portrait
-- <a href="https://science.nasa.gov/earth/earth-observatory/thailands-krabi-coast/" >🔗</a> **[NASA]** Thailand’s Krabi Coast
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260420T221212">2026-04-20 22:12:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260420T224331">2026-04-20 22:43:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
