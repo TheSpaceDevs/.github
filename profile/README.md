@@ -90,6 +90,8 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/missions/hubble/nasas-hubble-dazzles-with-young-stars-in-trifid-nebula/" >🔗</a> **[NASA]** NASA’s Hubble Dazzles With Young Stars in Trifid Nebula
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Hubble_turns_36_with_a_dazzling_Trifid_Nebula_portrait" >🔗</a> **[ESA]** Hubble turns 36 with a dazzling Trifid Nebula portrait
 - <a href="https://science.nasa.gov/earth/earth-observatory/thailands-krabi-coast/" >🔗</a> **[NASA]** Thailand’s Krabi Coast
 - <a href="https://www.nasaspaceflight.com/2026/04/ast-bluebird-7-lost-new-glenn-launch/" >🔗</a> **[NASASpaceflight]** AST SpaceMobile’s BlueBird 7 declared lost following New Glenn launch
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-april-19-25-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy April 19-25, 2026
@@ -98,8 +100,6 @@ into *a Medium Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2026/04/vast-astronaut-flight-suit-docking-adapter/" >🔗</a> **[NASASpaceflight]** Vast unveils Astronaut Flight Suit and revolutionary Large Docking Adapter
 - <a href="https://europeanspaceflight.com/antitrust-authority-approves-creation-of-rheinmetall-ohb-satellite-joint-venture/" >🔗</a> **[European Spaceflight]** Antitrust Authority Approves Creation of Rheinmetall-OHB Satellite Joint Venture
 - <a href="https://spaceflightnow.com/2026/04/18/live-coverage-spacex-attempts-600th-falcon-booster-landing-amid-west-coast-starlink-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX attempts 600th Falcon booster landing amid West Coast Starlink mission
-- <a href="https://science.nasa.gov/uncategorized/csda-quality-assessment-report-evaluates-satellogic-newsat-data/" >🔗</a> **[NASA]** CSDA Quality Assessment Report Evaluates Satellogic NewSat Data
-- <a href="https://science.nasa.gov/science-research/earth-science/webinar-4-29-nasa-csda-program-vendor-focus-mda-space/" >🔗</a> **[NASA]** Webinar 4/29: NASA CSDA Program Vendor Focus- MDA Space
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260420T133011">2026-04-20 13:30:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260420T141251">2026-04-20 14:12:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
