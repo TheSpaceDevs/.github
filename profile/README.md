@@ -90,6 +90,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/a-fresh-look-at-the-crab-nebula/" >🔗</a> **[NASA]** A Fresh Look at the Crab Nebula
 - <a href="https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-finds-organic-molecules-never-seen-before-on-mars/" >🔗</a> **[NASA]** NASA’s Curiosity Finds Organic Molecules Never Seen Before on Mars
 - <a href="https://www.nasa.gov/news-release/nasa-to-cover-progress-95-spacecraft-launch-docking/" >🔗</a> **[NASA]** NASA to Cover Progress 95 Spacecraft Launch, Docking
 - <a href="https://arstechnica.com/space/2026/04/whats-the-deal-with-spacesuits-for-the-moon-will-they-be-ready-in-time/" >🔗</a> **[Arstechnica]** What's the deal with spacesuits for the Moon? Will they be ready in time?
@@ -99,7 +100,6 @@ into *a Suborbital
 - <a href="https://spaceflightnow.com/2026/04/21/live-coverage-spacex-to-launch-final-gps-iii-satellite-for-the-u-s-space-force/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch final GPS III satellite for the U.S. Space Force
 - <a href="https://www.nasa.gov/missions/nasa-on-track-for-future-missions-with-initial-artemis-ii-assessments/" >🔗</a> **[NASA]** NASA on Track for Future Missions with Initial Artemis II Assessments
 - <a href="https://www.nasaspaceflight.com/2026/04/launch-preview-042026/" >🔗</a> **[NASASpaceflight]** Launch Preview: GPS, Progress, and Starlink missions to launch during busy week
-- <a href="https://www.nasa.gov/news-release/nasa-rolls-out-artemis-iii-moon-rocket-core-stage/" >🔗</a> **[NASA]** NASA Rolls Out Artemis III Moon Rocket Core Stage
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260421T153255">2026-04-21 15:32:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260421T162121">2026-04-21 16:21:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
