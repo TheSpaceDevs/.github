@@ -90,6 +90,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/04/nasa-axiom-react-oig-report-spacesuit/" >🔗</a> **[NASASpaceflight]** NASA and Axiom react to OIG Report on delays in Next-Generation Spacesuit Program
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-jordan-artemis-accords-signing-ceremony/" >🔗</a> **[NASA]** NASA Invites Media to Jordan Artemis Accords Signing Ceremony
 - <a href="https://science.nasa.gov/earth/new-nasa-views-of-earth-from-space/" >🔗</a> **[NASA]** New NASA Views of Earth, From (S)PACE
 - <a href="https://www.nasa.gov/directorates/stmd/nasa-invests-in-small-businesses-innovating-for-space-and-earth/" >🔗</a> **[NASA]** NASA Invests in Small Businesses Innovating for Space and Earth
@@ -99,7 +100,6 @@ into *a Suborbital
 - <a href="https://www.nasa.gov/general/nasa-wins-two-webby-awards-five-webby-peoples-voice-awards/" >🔗</a> **[NASA]** NASA Wins Two Webby Awards, Five Webby People’s Voice Awards
 - <a href="https://www.spacescout.info/2026/04/a-misstep-on-new-glenns-third-flight/" >🔗</a> **[Space Scout]** A Misstep on New Glenn’s Third Flight
 - <a href="https://www.nasa.gov/image-article/a-fresh-look-at-the-crab-nebula/" >🔗</a> **[NASA]** A Fresh Look at the Crab Nebula
-- <a href="https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-finds-organic-molecules-never-seen-before-on-mars/" >🔗</a> **[NASA]** NASA’s Curiosity Finds Organic Molecules Never Seen Before on Mars
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260421T231112">2026-04-21 23:11:12 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260421T234216">2026-04-21 23:42:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
