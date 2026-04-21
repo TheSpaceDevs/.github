@@ -90,6 +90,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-jordan-artemis-accords-signing-ceremony/" >🔗</a> **[NASA]** NASA Invites Media to Jordan Artemis Accords Signing Ceremony
 - <a href="https://science.nasa.gov/earth/new-nasa-views-of-earth-from-space/" >🔗</a> **[NASA]** New NASA Views of Earth, From (S)PACE
 - <a href="https://www.nasa.gov/directorates/stmd/nasa-invests-in-small-businesses-innovating-for-space-and-earth/" >🔗</a> **[NASA]** NASA Invests in Small Businesses Innovating for Space and Earth
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-at-sxsw-johnson-director-vanessa-wyche-on-why-artemis-changes-everything/" >🔗</a> **[NASA]** NASA at SXSW: Johnson Director Vanessa Wyche on Why Artemis Changes Everything
@@ -99,7 +100,6 @@ into *a Suborbital
 - <a href="https://www.spacescout.info/2026/04/a-misstep-on-new-glenns-third-flight/" >🔗</a> **[Space Scout]** A Misstep on New Glenn’s Third Flight
 - <a href="https://www.nasa.gov/image-article/a-fresh-look-at-the-crab-nebula/" >🔗</a> **[NASA]** A Fresh Look at the Crab Nebula
 - <a href="https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-finds-organic-molecules-never-seen-before-on-mars/" >🔗</a> **[NASA]** NASA’s Curiosity Finds Organic Molecules Never Seen Before on Mars
-- <a href="https://www.nasa.gov/news-release/nasa-to-cover-progress-95-spacecraft-launch-docking/" >🔗</a> **[NASA]** NASA to Cover Progress 95 Spacecraft Launch, Docking
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260421T211323">2026-04-21 21:13:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260421T214351">2026-04-21 21:43:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
