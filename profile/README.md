@@ -90,6 +90,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/directorates/stmd/nasa-invests-in-small-businesses-innovating-for-space-and-earth/" >🔗</a> **[NASA]** NASA Invests in Small Businesses Innovating for Space and Earth
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-at-sxsw-johnson-director-vanessa-wyche-on-why-artemis-changes-everything/" >🔗</a> **[NASA]** NASA at SXSW: Johnson Director Vanessa Wyche on Why Artemis Changes Everything
 - <a href="https://www.nasa.gov/centers-and-facilities/langley/nasa-organ-sharing-network-unos-to-study-faster-organ-transport/" >🔗</a> **[NASA]** NASA, Organ Sharing Network UNOS to Study Faster Organ Transport
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/what-are-ames-contributions-to-artemis-ii/" >🔗</a> **[NASA]** What Are Ames’ Contributions to Artemis II?
@@ -99,7 +100,6 @@ into *a Suborbital
 - <a href="https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-finds-organic-molecules-never-seen-before-on-mars/" >🔗</a> **[NASA]** NASA’s Curiosity Finds Organic Molecules Never Seen Before on Mars
 - <a href="https://www.nasa.gov/news-release/nasa-to-cover-progress-95-spacecraft-launch-docking/" >🔗</a> **[NASA]** NASA to Cover Progress 95 Spacecraft Launch, Docking
 - <a href="https://arstechnica.com/space/2026/04/whats-the-deal-with-spacesuits-for-the-moon-will-they-be-ready-in-time/" >🔗</a> **[Arstechnica]** What's the deal with spacesuits for the Moon? Will they be ready in time?
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_Space_Warps_help_spot_galaxies_bending_spacetime" >🔗</a> **[ESA]** Euclid Space Warps: help spot galaxies bending spacetime
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260421T195035">2026-04-21 19:50:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260421T201458">2026-04-21 20:14:58 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
