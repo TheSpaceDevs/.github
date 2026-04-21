@@ -90,6 +90,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-at-sxsw-johnson-director-vanessa-wyche-on-why-artemis-changes-everything/" >🔗</a> **[NASA]** NASA at SXSW: Johnson Director Vanessa Wyche on Why Artemis Changes Everything
 - <a href="https://www.nasa.gov/centers-and-facilities/langley/nasa-organ-sharing-network-unos-to-study-faster-organ-transport/" >🔗</a> **[NASA]** NASA, Organ Sharing Network UNOS to Study Faster Organ Transport
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/what-are-ames-contributions-to-artemis-ii/" >🔗</a> **[NASA]** What Are Ames’ Contributions to Artemis II?
 - <a href="https://www.nasa.gov/general/nasa-wins-two-webby-awards-five-webby-peoples-voice-awards/" >🔗</a> **[NASA]** NASA Wins Two Webby Awards, Five Webby People’s Voice Awards
@@ -99,7 +100,6 @@ into *a Suborbital
 - <a href="https://www.nasa.gov/news-release/nasa-to-cover-progress-95-spacecraft-launch-docking/" >🔗</a> **[NASA]** NASA to Cover Progress 95 Spacecraft Launch, Docking
 - <a href="https://arstechnica.com/space/2026/04/whats-the-deal-with-spacesuits-for-the-moon-will-they-be-ready-in-time/" >🔗</a> **[Arstechnica]** What's the deal with spacesuits for the Moon? Will they be ready in time?
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_Space_Warps_help_spot_galaxies_bending_spacetime" >🔗</a> **[ESA]** Euclid Space Warps: help spot galaxies bending spacetime
-- <a href="https://science.nasa.gov/earth/earth-observatory/a-school-of-mud-volcano-islands-in-azerbaijan/" >🔗</a> **[NASA]** A School of Mud Volcano Islands in Azerbaijan
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260421T184800">2026-04-21 18:48:00 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260421T192519">2026-04-21 19:25:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
