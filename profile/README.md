@@ -104,11 +104,12 @@ into *a Suborbital
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2026/04/launch-preview-042026/" >🔗</a> **[NASASpaceflight]** Launch Preview: GPS, Progress, and Starlink missions to launch during busy week
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260421T073014">2026-04-21 07:30:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260421T081053">2026-04-21 08:10:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
