@@ -90,6 +90,7 @@ into *a Medium Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/earth-observatory/a-school-of-mud-volcano-islands-in-azerbaijan/" >🔗</a> **[NASA]** A School of Mud Volcano Islands in Azerbaijan
 - <a href="https://spacepolicyonline.com/news/nasa-ig-raises-more-questions-about-readiness-for-human-lunar-landings/" >🔗</a> **[SpacePolicyOnline.com]** NASA IG Raises More Questions About Readiness for Human Lunar Landings
 - <a href="https://spaceflightnow.com/2026/04/21/live-coverage-spacex-to-launch-final-gps-iii-satellite-for-the-u-s-space-force/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch final GPS III satellite for the U.S. Space Force
 - <a href="https://www.nasa.gov/missions/nasa-on-track-for-future-missions-with-initial-artemis-ii-assessments/" >🔗</a> **[NASA]** NASA on Track for Future Missions with Initial Artemis II Assessments
@@ -99,7 +100,6 @@ into *a Medium Earth Orbit
 - <a href="https://www.spacescout.info/2026/04/photos-and-feelings-from-artemis-ii/" >🔗</a> **[Space Scout]** Photos and Feelings from Artemis II
 - <a href="https://www.nasa.gov/news-release/nasa-welcomes-latvia-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Latvia as Newest Artemis Accords Signatory
 - <a href="https://www.nasa.gov/image-article/wheels-up-for-x-59/" >🔗</a> **[NASA]** Wheels Up for X-59
-- <a href="https://spaceflightnow.com/2026/04/20/blue-origin-launches-third-new-glenn-rocket-but-payload-ends-up-in-wrong-orbit/" >🔗</a> **[Spaceflight Now]** Blue Origin launches third New Glenn rocket, but payload ends up in wrong orbit
 
 
 ### Launch-related News 🚀
@@ -113,7 +113,7 @@ into *a Medium Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260421T033953">2026-04-21 03:39:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260421T045449">2026-04-21 04:54:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
