@@ -90,6 +90,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2026/04/whats-the-deal-with-spacesuits-for-the-moon-will-they-be-ready-in-time/" >🔗</a> **[Arstechnica]** What's the deal with spacesuits for the Moon? Will they be ready in time?
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_Space_Warps_help_spot_galaxies_bending_spacetime" >🔗</a> **[ESA]** Euclid Space Warps: help spot galaxies bending spacetime
 - <a href="https://science.nasa.gov/earth/earth-observatory/a-school-of-mud-volcano-islands-in-azerbaijan/" >🔗</a> **[NASA]** A School of Mud Volcano Islands in Azerbaijan
 - <a href="https://spacepolicyonline.com/news/nasa-ig-raises-more-questions-about-readiness-for-human-lunar-landings/" >🔗</a> **[SpacePolicyOnline.com]** NASA IG Raises More Questions About Readiness for Human Lunar Landings
@@ -99,7 +100,6 @@ into *a Suborbital
 - <a href="https://www.nasa.gov/news-release/nasa-rolls-out-artemis-iii-moon-rocket-core-stage/" >🔗</a> **[NASA]** NASA Rolls Out Artemis III Moon Rocket Core Stage
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-spacexs-34th-resupply-launch-to-space-station/" >🔗</a> **[NASA]** NASA Invites Media to SpaceX’s 34th Resupply Launch to Space Station
 - <a href="https://www.spacescout.info/2026/04/photos-and-feelings-from-artemis-ii/" >🔗</a> **[Space Scout]** Photos and Feelings from Artemis II
-- <a href="https://www.nasa.gov/news-release/nasa-welcomes-latvia-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Latvia as Newest Artemis Accords Signatory
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260421T141017">2026-04-21 14:10:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260421T145734">2026-04-21 14:57:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
