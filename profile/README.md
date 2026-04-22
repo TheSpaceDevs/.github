@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/langley/nasas-777-aircraft-returns-home-with-science-flights-on-the-horizon/" >🔗</a> **[NASA]** NASA’s 777 Aircraft Returns Home with Science Flights on the Horizon
 - <a href="https://arstechnica.com/space/2026/04/you-want-your-moon-landings-in-hdtv-so-does-nasa-heres-how-its-happening/" >🔗</a> **[Arstechnica]** You want your Moon landings in HDTV? So does NASA. Here's how it's happening.
 - <a href="https://www.nasa.gov/image-article/nasa-targets-early-september-for-roman-space-telescope-launch/" >🔗</a> **[NASA]** NASA Targets Early September for Roman Space Telescope Launch
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-anil-menon-to-discuss-upcoming-launch-mission/" >🔗</a> **[NASA]** NASA Astronaut Anil Menon to Discuss Upcoming Launch, Mission
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/earth/advancing-earth-observation-at-nasa-since-release-of-earthrise-photo/" >🔗</a> **[NASA]** Advancing Earth Observation at NASA since Release of Earthrise Photo
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/04/ESA_School_Days_2026_A_week_of_space_and_science" >🔗</a> **[ESA]** ESA School Days 2026: A week of space and science
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Turning_data_from_space_into_action_for_Earth" >🔗</a> **[ESA]** Turning data from space into action for Earth
-- <a href="https://science.nasa.gov/earth/earth-observatory/belts-of-green-in-the-washington-suburbs/" >🔗</a> **[NASA]** Belts of Green in the Washington Suburbs
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260422T204455">2026-04-22 20:44:55 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260422T211430">2026-04-22 21:14:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
