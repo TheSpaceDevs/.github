@@ -91,8 +91,8 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://science.nasa.gov/earth/earth-observatory/belts-of-green-in-the-washington-suburbs/" >🔗</a> **[NASA]** Belts of Green in the Washington Suburbs
-- <a href="https://www.nasa.gov/general/artemis-ii-mission-milestones-an-image-and-video-recap/" >🔗</a> **[NASA]** Artemis II Mission Milestones: An Image and Video Recap
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/artemis-ii-mission-milestones-an-image-and-video-recap/" >🔗</a> **[NASA]** Artemis II Mission Milestones: An Image and Video Recap
+- <a href="https://www.nasa.gov/general/artemis-ii-mission-milestones-an-image-and-video-recap/" >🔗</a> **[NASA]** Artemis II Mission Milestones: An Image and Video Recap
 - <a href="https://spacepolicyonline.com/news/roman-space-telescope-launching-in-september/" >🔗</a> **[SpacePolicyOnline.com]** Roman Space Telescope Launching in September
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4867-4872-sand-fill-in-antofagasta-crater-and-finding-our-next-drill-target/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4867-4872: Sand Fill In Antofagasta Crater and Finding Our Next Drill Target
 - <a href="https://www.nasaspaceflight.com/2026/04/nasa-axiom-react-oig-report-spacesuit/" >🔗</a> **[NASASpaceflight]** NASA and Axiom react to OIG Report on delays in Next-Generation Spacesuit Program
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260422T054052">2026-04-22 05:40:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260422T063214">2026-04-22 06:32:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
