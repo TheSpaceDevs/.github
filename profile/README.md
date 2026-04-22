@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacescout.info/2026/04/solemn-privilege-artemis-ii-from-launch-complex-34/" >🔗</a> **[Space Scout]** Solemn Privilege – Artemis II from Launch Complex 34
+- <a href="https://science.nasa.gov/earth/advancing-earth-observation-at-nasa-since-release-of-earthrise-photo/" >🔗</a> **[NASA]** Advancing Earth Observation at NASA since Release of Earthrise Photo
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Turning_data_from_space_into_action_for_Earth" >🔗</a> **[ESA]** Turning data from space into action for Earth
 - <a href="https://science.nasa.gov/earth/earth-observatory/belts-of-green-in-the-washington-suburbs/" >🔗</a> **[NASA]** Belts of Green in the Washington Suburbs
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/artemis-ii-mission-milestones-an-image-and-video-recap/" >🔗</a> **[NASA]** Artemis II Mission Milestones: An Image and Video Recap
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4867-4872-sand-fill-in-antofagasta-crater-and-finding-our-next-drill-target/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4867-4872: Sand Fill In Antofagasta Crater and Finding Our Next Drill Target
 - <a href="https://www.nasaspaceflight.com/2026/04/nasa-axiom-react-oig-report-spacesuit/" >🔗</a> **[NASASpaceflight]** NASA and Axiom react to OIG Report on delays in Next-Generation Spacesuit Program
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-jordan-artemis-accords-signing-ceremony/" >🔗</a> **[NASA]** NASA Invites Media to Jordan Artemis Accords Signing Ceremony
-- <a href="https://science.nasa.gov/earth/new-nasa-views-of-earth-from-space/" >🔗</a> **[NASA]** New NASA Views of Earth, From (S)PACE
-- <a href="https://www.nasa.gov/directorates/stmd/nasa-invests-in-small-businesses-innovating-for-space-and-earth/" >🔗</a> **[NASA]** NASA Invests in Small Businesses Innovating for Space and Earth
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260422T132923">2026-04-22 13:29:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260422T141046">2026-04-22 14:10:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
