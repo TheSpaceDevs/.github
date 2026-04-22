@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/nasa-targets-early-september-for-roman-space-telescope-launch/" >🔗</a> **[NASA]** NASA Targets Early September for Roman Space Telescope Launch
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-anil-menon-to-discuss-upcoming-launch-mission/" >🔗</a> **[NASA]** NASA Astronaut Anil Menon to Discuss Upcoming Launch, Mission
 - <a href="https://www.nasa.gov/image-article/night-and-earth-day/" >🔗</a> **[NASA]** Night and (Earth) Day
 - <a href="https://www.spacescout.info/2026/04/solemn-privilege-artemis-ii-from-launch-complex-34/" >🔗</a> **[Space Scout]** Solemn Privilege – Artemis II from Launch Complex 34
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Turning_data_from_space_into_action_for_Earth" >🔗</a> **[ESA]** Turning data from space into action for Earth
 - <a href="https://science.nasa.gov/earth/earth-observatory/belts-of-green-in-the-washington-suburbs/" >🔗</a> **[NASA]** Belts of Green in the Washington Suburbs
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/artemis-ii-mission-milestones-an-image-and-video-recap/" >🔗</a> **[NASA]** Artemis II Mission Milestones: An Image and Video Recap
-- <a href="https://www.nasa.gov/general/artemis-ii-mission-milestones-an-image-and-video-recap/" >🔗</a> **[NASA]** Artemis II Mission Milestones: An Image and Video Recap
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260422T174647">2026-04-22 17:46:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260422T181812">2026-04-22 18:18:12 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
