@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-astronaut-anil-menon-to-discuss-upcoming-launch-mission/" >🔗</a> **[NASA]** NASA Astronaut Anil Menon to Discuss Upcoming Launch, Mission
 - <a href="https://www.nasa.gov/image-article/night-and-earth-day/" >🔗</a> **[NASA]** Night and (Earth) Day
 - <a href="https://www.spacescout.info/2026/04/solemn-privilege-artemis-ii-from-launch-complex-34/" >🔗</a> **[Space Scout]** Solemn Privilege – Artemis II from Launch Complex 34
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Space_Rider/Space_Rider_drop_model_ready_to_glide" >🔗</a> **[ESA]** Space Rider drop model ready to glide
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/earth/earth-observatory/belts-of-green-in-the-washington-suburbs/" >🔗</a> **[NASA]** Belts of Green in the Washington Suburbs
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/artemis-ii-mission-milestones-an-image-and-video-recap/" >🔗</a> **[NASA]** Artemis II Mission Milestones: An Image and Video Recap
 - <a href="https://www.nasa.gov/general/artemis-ii-mission-milestones-an-image-and-video-recap/" >🔗</a> **[NASA]** Artemis II Mission Milestones: An Image and Video Recap
-- <a href="https://spacepolicyonline.com/news/roman-space-telescope-launching-in-september/" >🔗</a> **[SpacePolicyOnline.com]** Roman Space Telescope Launching in September
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260422T164603">2026-04-22 16:46:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260422T171820">2026-04-22 17:18:20 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
