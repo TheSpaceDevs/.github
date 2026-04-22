@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Turning_data_from_space_into_action_for_Earth" >🔗</a> **[ESA]** Turning data from space into action for Earth
 - <a href="https://science.nasa.gov/earth/earth-observatory/belts-of-green-in-the-washington-suburbs/" >🔗</a> **[NASA]** Belts of Green in the Washington Suburbs
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/artemis-ii-mission-milestones-an-image-and-video-recap/" >🔗</a> **[NASA]** Artemis II Mission Milestones: An Image and Video Recap
 - <a href="https://www.nasa.gov/general/artemis-ii-mission-milestones-an-image-and-video-recap/" >🔗</a> **[NASA]** Artemis II Mission Milestones: An Image and Video Recap
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-jordan-artemis-accords-signing-ceremony/" >🔗</a> **[NASA]** NASA Invites Media to Jordan Artemis Accords Signing Ceremony
 - <a href="https://science.nasa.gov/earth/new-nasa-views-of-earth-from-space/" >🔗</a> **[NASA]** New NASA Views of Earth, From (S)PACE
 - <a href="https://www.nasa.gov/directorates/stmd/nasa-invests-in-small-businesses-innovating-for-space-and-earth/" >🔗</a> **[NASA]** NASA Invests in Small Businesses Innovating for Space and Earth
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-at-sxsw-johnson-director-vanessa-wyche-on-why-artemis-changes-everything/" >🔗</a> **[NASA]** NASA at SXSW: Johnson Director Vanessa Wyche on Why Artemis Changes Everything
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260422T072953">2026-04-22 07:29:53 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260422T080956">2026-04-22 08:09:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
