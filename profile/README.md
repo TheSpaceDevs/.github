@@ -90,16 +90,16 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Plato/Plato_aces_space-like_tests" >🔗</a> **[ESA]** Plato aces space-like tests
 - <a href="https://science.nasa.gov/earth/earth-observatory/smoke-shrouds-northern-thailand/" >🔗</a> **[NASA]** Smoke Shrouds Northern Thailand
 - <a href="https://spaceflightnow.com/2026/04/23/live-coverage-spacex-to-launch-25-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-3/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 25 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
-- <a href="https://www.nasa.gov/directorates/stmd/small-spacecraft-technology-program/s3vi/nasa-sbir-sttr-phase-i-and-ii/" >🔗</a> **[NASA]** NASA SBIR/STTR Phase I and II BAA, 2026 Appendix A and B are now live! Offers due May 21, 2026, 5:00PM EDT
 - <a href="https://www.nasa.gov/general/nasa-sbir-sttr-phase-i-and-ii/" >🔗</a> **[NASA]** NASA SBIR/STTR Phase I and II BAA, 2026 Appendix A and B are now live! Offers due May 21, 2026, 5:00PM EDT
+- <a href="https://www.nasa.gov/directorates/stmd/small-spacecraft-technology-program/s3vi/nasa-sbir-sttr-phase-i-and-ii/" >🔗</a> **[NASA]** NASA SBIR/STTR Phase I and II BAA, 2026 Appendix A and B are now live! Offers due May 21, 2026, 5:00PM EDT
 - <a href="https://spacepolicyonline.com/news/house-science-committee-opposes-cuts-in-nasas-fy2027-budget-request/" >🔗</a> **[SpacePolicyOnline.com]** House Science Committee Opposes Cuts in NASA’s FY2027 Budget Request
 - <a href="https://www.nasa.gov/centers-and-facilities/langley/nasas-777-aircraft-returns-home-with-science-flights-on-the-horizon/" >🔗</a> **[NASA]** NASA’s 777 Aircraft Returns Home with Science Flights on the Horizon
 - <a href="https://arstechnica.com/space/2026/04/you-want-your-moon-landings-in-hdtv-so-does-nasa-heres-how-its-happening/" >🔗</a> **[Arstechnica]** You want your Moon landings in HDTV? So does NASA. Here's how it's happening.
 - <a href="https://www.nasa.gov/image-article/nasa-targets-early-september-for-roman-space-telescope-launch/" >🔗</a> **[NASA]** NASA Targets Early September for Roman Space Telescope Launch
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-anil-menon-to-discuss-upcoming-launch-mission/" >🔗</a> **[NASA]** NASA Astronaut Anil Menon to Discuss Upcoming Launch, Mission
-- <a href="https://www.nasa.gov/image-article/night-and-earth-day/" >🔗</a> **[NASA]** Night and (Earth) Day
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260423T073035">2026-04-23 07:30:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260423T083118">2026-04-23 08:31:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
