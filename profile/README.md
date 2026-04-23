@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/earth-observatory/smoke-shrouds-northern-thailand/" >🔗</a> **[NASA]** Smoke Shrouds Northern Thailand
 - <a href="https://spaceflightnow.com/2026/04/23/live-coverage-spacex-to-launch-25-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-3/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 25 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://www.nasa.gov/general/nasa-sbir-sttr-phase-i-and-ii/" >🔗</a> **[NASA]** NASA SBIR/STTR Phase I and II BAA, 2026 Appendix A and B are now live! Offers due May 21, 2026, 5:00PM EDT
 - <a href="https://www.nasa.gov/directorates/stmd/small-spacecraft-technology-program/s3vi/nasa-sbir-sttr-phase-i-and-ii/" >🔗</a> **[NASA]** NASA SBIR/STTR Phase I and II BAA, 2026 Appendix A and B are now live! Offers due May 21, 2026, 5:00PM EDT
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/image-article/nasa-targets-early-september-for-roman-space-telescope-launch/" >🔗</a> **[NASA]** NASA Targets Early September for Roman Space Telescope Launch
 - <a href="https://www.nasa.gov/news-release/nasa-astronaut-anil-menon-to-discuss-upcoming-launch-mission/" >🔗</a> **[NASA]** NASA Astronaut Anil Menon to Discuss Upcoming Launch, Mission
 - <a href="https://www.nasa.gov/image-article/night-and-earth-day/" >🔗</a> **[NASA]** Night and (Earth) Day
-- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Space_Rider/Space_Rider_drop_model_ready_to_glide" >🔗</a> **[ESA]** Space Rider drop model ready to glide
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260423T034022">2026-04-23 03:40:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260423T045635">2026-04-23 04:56:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
