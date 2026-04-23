@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/kennedy/nasa-kennedy-prepares-facility-for-roman-space-telescope-arrival/" >🔗</a> **[NASA]** NASA Kennedy Prepares Facility for Roman Space Telescope Arrival
 - <a href="https://spacepolicyonline.com/news/latvia-and-jordan-join-artemis-accords/" >🔗</a> **[SpacePolicyOnline.com]** Latvia and Jordan Join Artemis Accords
 - <a href="https://www.nasaspaceflight.com/2026/04/starship-progress-cape-launch-this-year/" >🔗</a> **[NASASpaceflight]** Starship Progress at the Cape with Hoping to Launch this year
 - <a href="https://www.nasa.gov/organizations/oiir/nasa-welcomes-jordan-as-63rd-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Jordan as 63rd Artemis Accords Signatory
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_set_to_launch_on_19_May" >🔗</a> **[ESA]** Smile set to launch on 19 May
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/04/A_new_grip_on_space_electrostatic_capture_technology" >🔗</a> **[ESA]** A new grip on space: electrostatic capture technology
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/04/A_Saturday_night_dinner_onboard_the_International_Space_Station" >🔗</a> **[ESA]** A Saturday‑night dinner onboard the International Space Station
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/04/Everyday_operations_in_orbit_toilet_maintenance" >🔗</a> **[ESA]** Everyday operations in orbit: toilet maintenance
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260423T204442">2026-04-23 20:44:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260423T211338">2026-04-23 21:13:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
