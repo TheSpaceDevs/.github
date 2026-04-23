@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/04/A_new_grip_on_space_electrostatic_capture_technology" >🔗</a> **[ESA]** A new grip on space: electrostatic capture technology
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Plato/Plato_aces_space-like_tests" >🔗</a> **[ESA]** Plato aces space-like tests
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/SOLIS100_isolation_study_begins_in_Germany" >🔗</a> **[ESA]** SOLIS100 isolation study begins in Germany
 - <a href="https://science.nasa.gov/earth/earth-observatory/smoke-shrouds-northern-thailand/" >🔗</a> **[NASA]** Smoke Shrouds Northern Thailand
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacepolicyonline.com/news/house-science-committee-opposes-cuts-in-nasas-fy2027-budget-request/" >🔗</a> **[SpacePolicyOnline.com]** House Science Committee Opposes Cuts in NASA’s FY2027 Budget Request
 - <a href="https://www.nasa.gov/centers-and-facilities/langley/nasas-777-aircraft-returns-home-with-science-flights-on-the-horizon/" >🔗</a> **[NASA]** NASA’s 777 Aircraft Returns Home with Science Flights on the Horizon
 - <a href="https://arstechnica.com/space/2026/04/you-want-your-moon-landings-in-hdtv-so-does-nasa-heres-how-its-happening/" >🔗</a> **[Arstechnica]** You want your Moon landings in HDTV? So does NASA. Here's how it's happening.
-- <a href="https://www.nasa.gov/image-article/nasa-targets-early-september-for-roman-space-telescope-launch/" >🔗</a> **[NASA]** NASA Targets Early September for Roman Space Telescope Launch
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260423T124817">2026-04-23 12:48:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260423T132929">2026-04-23 13:29:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
