@@ -92,14 +92,14 @@ into *an Unknown
 ### Latest News ⌛
 - <a href="https://www.nasa.gov/image-article/nasas-chandra-finds-young-stars-dim-quickly/" >🔗</a> **[NASA]** NASA’s Chandra Finds Young Stars Dim Quickly
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/04/A_new_grip_on_space_electrostatic_capture_technology" >🔗</a> **[ESA]** A new grip on space: electrostatic capture technology
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/04/A_Saturday_night_dinner_onboard_the_International_Space_Station" >🔗</a> **[ESA]** A Saturday‑night dinner onboard the International Space Station
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/04/Everyday_operations_in_orbit_toilet_maintenance" >🔗</a> **[ESA]** Everyday operations in orbit: toilet maintenance
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Plato/Plato_aces_space-like_tests" >🔗</a> **[ESA]** Plato aces space-like tests
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/SOLIS100_isolation_study_begins_in_Germany" >🔗</a> **[ESA]** SOLIS100 isolation study begins in Germany
 - <a href="https://science.nasa.gov/earth/earth-observatory/smoke-shrouds-northern-thailand/" >🔗</a> **[NASA]** Smoke Shrouds Northern Thailand
 - <a href="https://spaceflightnow.com/2026/04/23/live-coverage-spacex-to-launch-25-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-3/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 25 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://www.nasa.gov/general/nasa-sbir-sttr-phase-i-and-ii/" >🔗</a> **[NASA]** NASA SBIR/STTR Phase I and II BAA, 2026 Appendix A and B are now live! Offers due May 21, 2026, 5:00PM EDT
 - <a href="https://www.nasa.gov/directorates/stmd/small-spacecraft-technology-program/s3vi/nasa-sbir-sttr-phase-i-and-ii/" >🔗</a> **[NASA]** NASA SBIR/STTR Phase I and II BAA, 2026 Appendix A and B are now live! Offers due May 21, 2026, 5:00PM EDT
-- <a href="https://spacepolicyonline.com/news/house-science-committee-opposes-cuts-in-nasas-fy2027-budget-request/" >🔗</a> **[SpacePolicyOnline.com]** House Science Committee Opposes Cuts in NASA’s FY2027 Budget Request
-- <a href="https://www.nasa.gov/centers-and-facilities/langley/nasas-777-aircraft-returns-home-with-science-flights-on-the-horizon/" >🔗</a> **[NASA]** NASA’s 777 Aircraft Returns Home with Science Flights on the Horizon
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260423T151318">2026-04-23 15:13:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260423T160635">2026-04-23 16:06:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
