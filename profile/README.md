@@ -52,9 +52,9 @@ into *an Unknown
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260427T142100">2026-04-27 14:21:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon Heavy | ViaSat-3 F3 (ViaSat-3 Asia-Pacific)&location=Kennedy Space Center, FL, USA&dates=20260427T142100Z%2F20260427T154600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon Heavy | ViaSat-3 F3 (ViaSat-3 Asia-Pacific)** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260428T005200">2026-04-28 00:52:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 551 | Amazon Leo (LA-06)&location=Cape Canaveral SFS, FL, USA&dates=20260428T005200Z%2F20260428T012100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 551 | Amazon Leo (LA-06)** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260428T085100">2026-04-28 08:51:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ariane 64 | Amazon Leo (LE-02)&location=Guiana Space Centre, French Guiana&dates=20260428T085100Z%2F20260428T093900Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ariane 64 | Amazon Leo (LE-02)** from Guiana Space Centre, French Guiana.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260430T000000">2026-04-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Angara 1.2 | Kosmos (Unknown Payload)&location=Plesetsk Cosmodrome, Russian Federation&dates=20260430T000000Z%2F20260430T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Angara 1.2 | Kosmos (Unknown Payload)** from Plesetsk Cosmodrome, Russian Federation.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260430T000000">2026-04-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 10B | Demo Flight&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20260430T000000Z%2F20260430T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 10B | Demo Flight** from Wenchang Space Launch Site, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260430T000000">2026-04-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 7A | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20260430T000000Z%2F20260430T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 7A | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260430T000000">2026-04-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b | 16 x Rassvet-3&location=Plesetsk Cosmodrome, Russian Federation&dates=20260430T000000Z%2F20260430T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1b | 16 x Rassvet-3** from Plesetsk Cosmodrome, Russian Federation.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/nasas-chandra-finds-young-stars-dim-quickly/" >🔗</a> **[NASA]** NASA’s Chandra Finds Young Stars Dim Quickly
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/04/A_new_grip_on_space_electrostatic_capture_technology" >🔗</a> **[ESA]** A new grip on space: electrostatic capture technology
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Plato/Plato_aces_space-like_tests" >🔗</a> **[ESA]** Plato aces space-like tests
 - <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/SOLIS100_isolation_study_begins_in_Germany" >🔗</a> **[ESA]** SOLIS100 isolation study begins in Germany
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/directorates/stmd/small-spacecraft-technology-program/s3vi/nasa-sbir-sttr-phase-i-and-ii/" >🔗</a> **[NASA]** NASA SBIR/STTR Phase I and II BAA, 2026 Appendix A and B are now live! Offers due May 21, 2026, 5:00PM EDT
 - <a href="https://spacepolicyonline.com/news/house-science-committee-opposes-cuts-in-nasas-fy2027-budget-request/" >🔗</a> **[SpacePolicyOnline.com]** House Science Committee Opposes Cuts in NASA’s FY2027 Budget Request
 - <a href="https://www.nasa.gov/centers-and-facilities/langley/nasas-777-aircraft-returns-home-with-science-flights-on-the-horizon/" >🔗</a> **[NASA]** NASA’s 777 Aircraft Returns Home with Science Flights on the Horizon
-- <a href="https://arstechnica.com/space/2026/04/you-want-your-moon-landings-in-hdtv-so-does-nasa-heres-how-its-happening/" >🔗</a> **[Arstechnica]** You want your Moon landings in HDTV? So does NASA. Here's how it's happening.
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260423T141154">2026-04-23 14:11:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260423T151318">2026-04-23 15:13:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
