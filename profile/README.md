@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/04/starship-progress-cape-launch-this-year/" >🔗</a> **[NASASpaceflight]** Starship Progress at the Cape with Hoping to Launch this year
+- <a href="https://www.nasa.gov/organizations/oiir/nasa-welcomes-jordan-as-63rd-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Jordan as 63rd Artemis Accords Signatory
 - <a href="https://www.nasa.gov/general/iv-fluid-in-space/" >🔗</a> **[NASA]** Liquid Lifeline: NASA Tech Could Create IV Fluid In Space
 - <a href="https://www.nasa.gov/aeronautics/nasa-releases-powerful-lava-software-to-us-aerospace-industry/" >🔗</a> **[NASA]** NASA Releases Powerful LAVA Software to US Aerospace Industry
 - <a href="https://www.nasa.gov/image-article/nasas-chandra-finds-young-stars-dim-quickly/" >🔗</a> **[NASA]** NASA’s Chandra Finds Young Stars Dim Quickly
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/04/A_Saturday_night_dinner_onboard_the_International_Space_Station" >🔗</a> **[ESA]** A Saturday‑night dinner onboard the International Space Station
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/04/Everyday_operations_in_orbit_toilet_maintenance" >🔗</a> **[ESA]** Everyday operations in orbit: toilet maintenance
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Plato/Plato_aces_space-like_tests" >🔗</a> **[ESA]** Plato aces space-like tests
-- <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/SOLIS100_isolation_study_begins_in_Germany" >🔗</a> **[ESA]** SOLIS100 isolation study begins in Germany
-- <a href="https://science.nasa.gov/earth/earth-observatory/smoke-shrouds-northern-thailand/" >🔗</a> **[NASA]** Smoke Shrouds Northern Thailand
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260423T173715">2026-04-23 17:37:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260423T181843">2026-04-23 18:18:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
