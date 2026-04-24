@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/human-dimensions/agriculture/an-agricultural-mosaic-in-taiwan/" >🔗</a> **[NASA]** An Agricultural Mosaic in Taiwan
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/johnson-leaders-honored-by-national-space-club-foundation/" >🔗</a> **[NASA]** Johnson Leaders Honored by National Space Club & Foundation
 - <a href="https://www.nasa.gov/news-release/nasa-shares-spacex-crew-13-assignments-for-space-station-mission/" >🔗</a> **[NASA]** NASA Shares SpaceX Crew-13 Assignments for Space Station Mission
 - <a href="https://www.nasa.gov/centers-and-facilities/kennedy/nasa-kennedy-prepares-facility-for-roman-space-telescope-arrival/" >🔗</a> **[NASA]** NASA Kennedy Prepares Facility for Roman Space Telescope Arrival
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/general/iv-fluid-in-space/" >🔗</a> **[NASA]** Liquid Lifeline: NASA Tech Could Create IV Fluid In Space
 - <a href="https://www.nasa.gov/aeronautics/nasa-releases-powerful-lava-software-to-us-aerospace-industry/" >🔗</a> **[NASA]** NASA Releases Powerful LAVA Software to US Aerospace Industry
 - <a href="https://www.nasa.gov/image-article/nasas-chandra-finds-young-stars-dim-quickly/" >🔗</a> **[NASA]** NASA’s Chandra Finds Young Stars Dim Quickly
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_set_to_launch_on_19_May" >🔗</a> **[ESA]** Smile set to launch on 19 May
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260424T034111">2026-04-24 03:41:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260424T045818">2026-04-24 04:58:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
