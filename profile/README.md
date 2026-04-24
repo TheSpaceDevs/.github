@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-peter-rossoni/" >🔗</a> **[NASA]** I Am Artemis: Peter Rossoni
 - <a href="https://www.nasa.gov/image-article/the-day-of-the-trifid-nebula/" >🔗</a> **[NASA]** The Day of the Trifid Nebula
 - <a href="https://arstechnica.com/space/2026/04/well-this-is-embarrassing-the-lunar-gateways-primary-modules-are-corroded/" >🔗</a> **[Arstechnica]** Well, this is embarrassing: The Lunar Gateway's primary modules are corroded
 - <a href="https://www.nasa.gov/news-release/nasa-astronauts-to-answer-questions-from-missouri-students/" >🔗</a> **[NASA]** NASA Astronauts to Answer Questions from Missouri Students
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://arstechnica.com/space/2026/04/rocket-report-some-canadians-dont-want-a-spaceport-falcon-hits-600-landings/" >🔗</a> **[Arstechnica]** Rocket Report: Some Canadians don't want a spaceport; Falcon hits 600 landings
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Braving_the_Arctic_for_upcoming_polar-focused_satellites" >🔗</a> **[ESA]** Braving the Arctic for upcoming polar-focused satellites
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/04/Earth_from_Space_Cloud_patterns_over_the_Canary_Islands" >🔗</a> **[ESA]** Earth from Space: Cloud patterns over the Canary Islands
-- <a href="https://science.nasa.gov/earth/human-dimensions/agriculture/an-agricultural-mosaic-in-taiwan/" >🔗</a> **[NASA]** An Agricultural Mosaic in Taiwan
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260424T161648">2026-04-24 16:16:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260424T164516">2026-04-24 16:45:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
