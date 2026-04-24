@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-astronauts-to-answer-questions-from-missouri-students/" >🔗</a> **[NASA]** NASA Astronauts to Answer Questions from Missouri Students
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_20-24_April_2026" >🔗</a> **[ESA]** Week in images: 20-24 April 2026
 - <a href="https://www.nasa.gov/aeronautics/university-innovation-uli-at-10/" >🔗</a> **[NASA]** NASA Celebrates Decade of University Innovation in Aeronautics
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Future_space_transportation/2026_first_quarter_Future_Launchers_Preparatory_Programme_highlights" >🔗</a> **[ESA]** 2026 first quarter: Future Launchers Preparatory Programme highlights
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/earth/human-dimensions/agriculture/an-agricultural-mosaic-in-taiwan/" >🔗</a> **[NASA]** An Agricultural Mosaic in Taiwan
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/johnson-leaders-honored-by-national-space-club-foundation/" >🔗</a> **[NASA]** Johnson Leaders Honored by National Space Club & Foundation
 - <a href="https://www.nasa.gov/news-release/nasa-shares-spacex-crew-13-assignments-for-space-station-mission/" >🔗</a> **[NASA]** NASA Shares SpaceX Crew-13 Assignments for Space Station Mission
-- <a href="https://www.nasa.gov/centers-and-facilities/kennedy/nasa-kennedy-prepares-facility-for-roman-space-telescope-arrival/" >🔗</a> **[NASA]** NASA Kennedy Prepares Facility for Roman Space Telescope Arrival
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260424T140927">2026-04-24 14:09:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260424T145448">2026-04-24 14:54:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
