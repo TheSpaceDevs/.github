@@ -91,6 +91,7 @@ into *an Unknown
 
 ### Latest News ⌛
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Future_space_transportation/2026_first_quarter_Future_Launchers_Preparatory_Programme_highlights" >🔗</a> **[ESA]** 2026 first quarter: Future Launchers Preparatory Programme highlights
+- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Braving_the_Arctic_for_upcoming_polar-focused_satellites" >🔗</a> **[ESA]** Braving the Arctic for upcoming polar-focused satellites
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/04/Earth_from_Space_Cloud_patterns_over_the_Canary_Islands" >🔗</a> **[ESA]** Earth from Space: Cloud patterns over the Canary Islands
 - <a href="https://science.nasa.gov/earth/human-dimensions/agriculture/an-agricultural-mosaic-in-taiwan/" >🔗</a> **[NASA]** An Agricultural Mosaic in Taiwan
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/johnson-leaders-honored-by-national-space-club-foundation/" >🔗</a> **[NASA]** Johnson Leaders Honored by National Space Club & Foundation
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spacepolicyonline.com/news/latvia-and-jordan-join-artemis-accords/" >🔗</a> **[SpacePolicyOnline.com]** Latvia and Jordan Join Artemis Accords
 - <a href="https://www.nasaspaceflight.com/2026/04/starship-progress-cape-launch-this-year/" >🔗</a> **[NASASpaceflight]** Starship Progress at the Cape with Hoping to Launch this year
 - <a href="https://www.nasa.gov/organizations/oiir/nasa-welcomes-jordan-as-63rd-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Jordan as 63rd Artemis Accords Signatory
-- <a href="https://www.nasa.gov/general/iv-fluid-in-space/" >🔗</a> **[NASA]** Liquid Lifeline: NASA Tech Could Create IV Fluid In Space
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260424T093018">2026-04-24 09:30:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260424T100539">2026-04-24 10:05:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
