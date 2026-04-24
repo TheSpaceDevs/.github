@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/the-day-of-the-trifid-nebula/" >🔗</a> **[NASA]** The Day of the Trifid Nebula
+- <a href="https://arstechnica.com/space/2026/04/well-this-is-embarrassing-the-lunar-gateways-primary-modules-are-corroded/" >🔗</a> **[Arstechnica]** Well, this is embarrassing: The Lunar Gateway's primary modules are corroded
 - <a href="https://www.nasa.gov/news-release/nasa-astronauts-to-answer-questions-from-missouri-students/" >🔗</a> **[NASA]** NASA Astronauts to Answer Questions from Missouri Students
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_20-24_April_2026" >🔗</a> **[ESA]** Week in images: 20-24 April 2026
 - <a href="https://www.nasa.gov/aeronautics/university-innovation-uli-at-10/" >🔗</a> **[NASA]** NASA Celebrates Decade of University Innovation in Aeronautics
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Braving_the_Arctic_for_upcoming_polar-focused_satellites" >🔗</a> **[ESA]** Braving the Arctic for upcoming polar-focused satellites
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/04/Earth_from_Space_Cloud_patterns_over_the_Canary_Islands" >🔗</a> **[ESA]** Earth from Space: Cloud patterns over the Canary Islands
 - <a href="https://science.nasa.gov/earth/human-dimensions/agriculture/an-agricultural-mosaic-in-taiwan/" >🔗</a> **[NASA]** An Agricultural Mosaic in Taiwan
-- <a href="https://www.nasa.gov/centers-and-facilities/johnson/johnson-leaders-honored-by-national-space-club-foundation/" >🔗</a> **[NASA]** Johnson Leaders Honored by National Space Club & Foundation
-- <a href="https://www.nasa.gov/news-release/nasa-shares-spacex-crew-13-assignments-for-space-station-mission/" >🔗</a> **[NASA]** NASA Shares SpaceX Crew-13 Assignments for Space Station Mission
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260424T152321">2026-04-24 15:23:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260424T155118">2026-04-24 15:51:18 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
