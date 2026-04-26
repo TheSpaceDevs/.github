@@ -90,6 +90,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-april-26-may-2-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy April 26-May 2, 2026
 - <a href="https://spaceflightnow.com/2026/04/26/live-coverage-spacex-to-fly-25-starlink-satellites-on-its-50th-falcon-9-launch-of-the-year/" >🔗</a> **[Spaceflight Now]** Live Coverage: SpaceX to fly 25 Starlink satellites on its 50th Falcon 9 launch of the year
 - <a href="https://www.nasaspaceflight.com/2026/04/progress-ms34/" >🔗</a> **[NASASpaceflight]** Progress MS-34 to launch from Baikonur for ISS cargo delivery
 - <a href="https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-peter-rossoni/" >🔗</a> **[NASA]** I Am Artemis: Peter Rossoni
@@ -99,7 +100,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_20-24_April_2026" >🔗</a> **[ESA]** Week in images: 20-24 April 2026
 - <a href="https://www.nasa.gov/aeronautics/university-innovation-uli-at-10/" >🔗</a> **[NASA]** NASA Celebrates Decade of University Innovation in Aeronautics
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Future_space_transportation/2026_first_quarter_Future_Launchers_Preparatory_Programme_highlights" >🔗</a> **[ESA]** 2026 first quarter: Future Launchers Preparatory Programme highlights
-- <a href="https://arstechnica.com/space/2026/04/rocket-report-some-canadians-dont-want-a-spaceport-falcon-hits-600-landings/" >🔗</a> **[Arstechnica]** Rocket Report: Some Canadians don't want a spaceport; Falcon hits 600 landings
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260426T161037">2026-04-26 16:10:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260426T164336">2026-04-26 16:43:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
