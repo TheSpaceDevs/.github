@@ -90,6 +90,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/04/viasat-3-f3-falcon-heavy/" >🔗</a> **[NASASpaceflight]** SpaceX set to launch Falcon Heavy on Monday after 18 month hiatus
 - <a href="https://www.nasaspaceflight.com/2026/04/nasas-curiosity-rover-organic-clues-mars/" >🔗</a> **[NASASpaceflight]** Curiosity Rover uncovers fresh organic clues on Ancient Mars
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-april-26-may-2-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy April 26-May 2, 2026
 - <a href="https://spaceflightnow.com/2026/04/26/live-coverage-spacex-to-fly-25-starlink-satellites-on-its-50th-falcon-9-launch-of-the-year/" >🔗</a> **[Spaceflight Now]** Live Coverage: SpaceX to fly 25 Starlink satellites on its 50th Falcon 9 launch of the year
@@ -99,7 +100,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://arstechnica.com/space/2026/04/well-this-is-embarrassing-the-lunar-gateways-primary-modules-are-corroded/" >🔗</a> **[Arstechnica]** Well, this is embarrassing: The Lunar Gateway's primary modules are corroded
 - <a href="https://www.nasa.gov/news-release/nasa-astronauts-to-answer-questions-from-missouri-students/" >🔗</a> **[NASA]** NASA Astronauts to Answer Questions from Missouri Students
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_20-24_April_2026" >🔗</a> **[ESA]** Week in images: 20-24 April 2026
-- <a href="https://www.nasa.gov/aeronautics/university-innovation-uli-at-10/" >🔗</a> **[NASA]** NASA Celebrates Decade of University Innovation in Aeronautics
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260426T200848">2026-04-26 20:08:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260426T204326">2026-04-26 20:43:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
