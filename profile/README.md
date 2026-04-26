@@ -45,7 +45,6 @@ into *a Low Earth Orbit
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260426T140000">2026-04-26 14:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-16&location=Vandenberg SFB, CA, USA&dates=20260426T140000Z%2F20260426T180000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-16** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260427T142100">2026-04-27 14:21:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon Heavy | ViaSat-3 F3 (ViaSat-3 Asia-Pacific)&location=Kennedy Space Center, FL, USA&dates=20260427T142100Z%2F20260427T154600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon Heavy | ViaSat-3 F3 (ViaSat-3 Asia-Pacific)** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260428T005200">2026-04-28 00:52:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 551 | Amazon Leo (LA-06)&location=Cape Canaveral SFS, FL, USA&dates=20260428T005200Z%2F20260428T012100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 551 | Amazon Leo (LA-06)** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260430T000000">2026-04-30 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz 2.1b | 16 x Rassvet-3&location=Plesetsk Cosmodrome, Russian Federation&dates=20260430T000000Z%2F20260430T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz 2.1b | 16 x Rassvet-3** from Plesetsk Cosmodrome, Russian Federation.
@@ -90,6 +89,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/04/26/live-coverage-spacex-to-fly-25-starlink-satellites-on-its-50th-falcon-9-launch-of-the-year/" >🔗</a> **[Spaceflight Now]** Live Coverage: SpaceX to fly 25 Starlink satellites on its 50th Falcon 9 launch of the year
 - <a href="https://www.nasaspaceflight.com/2026/04/progress-ms34/" >🔗</a> **[NASASpaceflight]** Progress MS-34 to launch from Baikonur for ISS cargo delivery
 - <a href="https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-peter-rossoni/" >🔗</a> **[NASA]** I Am Artemis: Peter Rossoni
 - <a href="https://www.nasa.gov/image-article/the-day-of-the-trifid-nebula/" >🔗</a> **[NASA]** The Day of the Trifid Nebula
@@ -99,7 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/aeronautics/university-innovation-uli-at-10/" >🔗</a> **[NASA]** NASA Celebrates Decade of University Innovation in Aeronautics
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Future_space_transportation/2026_first_quarter_Future_Launchers_Preparatory_Programme_highlights" >🔗</a> **[ESA]** 2026 first quarter: Future Launchers Preparatory Programme highlights
 - <a href="https://arstechnica.com/space/2026/04/rocket-report-some-canadians-dont-want-a-spaceport-falcon-hits-600-landings/" >🔗</a> **[Arstechnica]** Rocket Report: Some Canadians don't want a spaceport; Falcon hits 600 landings
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Braving_the_Arctic_for_upcoming_polar-focused_satellites" >🔗</a> **[ESA]** Braving the Arctic for upcoming polar-focused satellites
 
 
 ### Launch-related News 🚀
@@ -109,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260426T135247">2026-04-26 13:52:47 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260426T141356">2026-04-26 14:13:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
