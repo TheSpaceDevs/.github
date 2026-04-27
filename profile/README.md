@@ -92,6 +92,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/get-involved/citizen-science/volunteers-help-nasa-astronauts-record-lunar-flashes/" >🔗</a> **[NASA]** Volunteers Help NASA Astronauts Record Lunar Flashes
 - <a href="https://arstechnica.com/space/2026/04/gateway-manufacturer-finally-acknowledges-issue-fails-to-mention-corrosion/" >🔗</a> **[Arstechnica]** Gateway manufacturer finally acknowledges issue, fails to mention "corrosion"
 - <a href="https://europeanspaceflight.com/esa-paid-e51-65-million-to-launch-sentinel-1c-on-vega-c-return-to-flight/" >🔗</a> **[European Spaceflight]** ESA Paid €51.65 Million to Launch Sentinel-1C on Vega-C Return to Flight
 - <a href="https://spaceflightnow.com/2026/04/27/live-coverage-spacex-to-launch-final-viasat-3-satellite-on-falcon-heavy-rocket/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch final ViaSat-3 satellite on Falcon Heavy rocket
@@ -101,7 +102,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2026/04/26/live-coverage-spacex-to-fly-25-starlink-satellites-on-its-50th-falcon-9-launch-of-the-year/" >🔗</a> **[Spaceflight Now]** Live Coverage: SpaceX to fly 25 Starlink satellites on its 50th Falcon 9 launch of the year
 - <a href="https://www.nasaspaceflight.com/2026/04/progress-ms34/" >🔗</a> **[NASASpaceflight]** Progress MS-34 to launch from Baikonur for ISS cargo delivery
 - <a href="https://europeanspaceflight.com/rheinmetall-signs-agreement-for-new-satellite-testing-facility-in-norway/" >🔗</a> **[European Spaceflight]** ​​Rheinmetall Signs Agreement for New Satellite Testing Facility in Norway
-- <a href="https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-peter-rossoni/" >🔗</a> **[NASA]** I Am Artemis: Peter Rossoni
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260427T143720">2026-04-27 14:37:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260427T153051">2026-04-27 15:30:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
