@@ -90,16 +90,16 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://europeanspaceflight.com/esa-paid-e51-65-million-to-launch-sentinel-1c-on-vega-c-return-to-flight/" >🔗</a> **[European Spaceflight]** ESA Paid €51.65 Million to Launch Sentinel-1C on Vega-C Return to Flight
 - <a href="https://spaceflightnow.com/2026/04/27/live-coverage-spacex-to-launch-final-viasat-3-satellite-on-falcon-heavy-rocket/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch final ViaSat-3 satellite on Falcon Heavy rocket
 - <a href="https://www.nasaspaceflight.com/2026/04/viasat-3-f3-falcon-heavy/" >🔗</a> **[NASASpaceflight]** SpaceX set to launch Falcon Heavy on Monday after 18 month hiatus
 - <a href="https://www.nasaspaceflight.com/2026/04/nasas-curiosity-rover-organic-clues-mars/" >🔗</a> **[NASASpaceflight]** Curiosity Rover uncovers fresh organic clues on Ancient Mars
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-april-26-may-2-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy April 26-May 2, 2026
 - <a href="https://spaceflightnow.com/2026/04/26/live-coverage-spacex-to-fly-25-starlink-satellites-on-its-50th-falcon-9-launch-of-the-year/" >🔗</a> **[Spaceflight Now]** Live Coverage: SpaceX to fly 25 Starlink satellites on its 50th Falcon 9 launch of the year
 - <a href="https://www.nasaspaceflight.com/2026/04/progress-ms34/" >🔗</a> **[NASASpaceflight]** Progress MS-34 to launch from Baikonur for ISS cargo delivery
+- <a href="https://europeanspaceflight.com/rheinmetall-signs-agreement-for-new-satellite-testing-facility-in-norway/" >🔗</a> **[European Spaceflight]** ​​Rheinmetall Signs Agreement for New Satellite Testing Facility in Norway
 - <a href="https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-peter-rossoni/" >🔗</a> **[NASA]** I Am Artemis: Peter Rossoni
-- <a href="https://www.nasa.gov/image-article/the-day-of-the-trifid-nebula/" >🔗</a> **[NASA]** The Day of the Trifid Nebula
-- <a href="https://arstechnica.com/space/2026/04/well-this-is-embarrassing-the-lunar-gateways-primary-modules-are-corroded/" >🔗</a> **[Arstechnica]** Well, this is embarrassing: The Lunar Gateway's primary modules are corroded
-- <a href="https://www.nasa.gov/news-release/nasa-astronauts-to-answer-questions-from-missouri-students/" >🔗</a> **[NASA]** NASA Astronauts to Answer Questions from Missouri Students
+- <a href="https://europeanspaceflight.com/esa-sheds-light-on-nasa-administrators-claims-on-gateway-modules/" >🔗</a> **[European Spaceflight]** ESA Sheds Light on NASA Administrator’s Claims on Gateway Modules
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260427T091423">2026-04-27 09:14:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260427T101406">2026-04-27 10:14:06 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
