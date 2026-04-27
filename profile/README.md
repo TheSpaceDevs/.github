@@ -92,6 +92,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/nasas-x-59-gets-freedom-250-logo/" >🔗</a> **[NASA]** NASA’s X-59 Gets Freedom 250 Logo
 - <a href="https://spaceflightnow.com/2026/04/27/live-coverage-ula-to-launch-29-amazon-leo-satellites-on-atlas-5-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: ULA to launch 29 Amazon Leo satellites on Atlas 5 rocket from Cape Canaveral
 - <a href="https://www.nasa.gov/solar-system/planets/mars/nasas-perseverance-curiosity-panoramas-capture-two-sides-of-mars/" >🔗</a> **[NASA]** NASA’s Perseverance, Curiosity Panoramas Capture Two Sides of Mars
 - <a href="https://science.nasa.gov/get-involved/citizen-science/you-can-help-humans-thrive-in-space/" >🔗</a> **[NASA]** You Can Help Humans Thrive in Space
@@ -101,7 +102,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2026/04/27/live-coverage-spacex-to-launch-final-viasat-3-satellite-on-falcon-heavy-rocket/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch final ViaSat-3 satellite on Falcon Heavy rocket
 - <a href="https://www.nasaspaceflight.com/2026/04/viasat-3-f3-falcon-heavy/" >🔗</a> **[NASASpaceflight]** SpaceX set to launch Falcon Heavy on Monday after 18 month hiatus
 - <a href="https://www.nasaspaceflight.com/2026/04/nasas-curiosity-rover-organic-clues-mars/" >🔗</a> **[NASASpaceflight]** Curiosity Rover uncovers fresh organic clues on Ancient Mars
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-april-26-may-2-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy April 26-May 2, 2026
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260427T195728">2026-04-27 19:57:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260427T202741">2026-04-27 20:27:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
