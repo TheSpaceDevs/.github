@@ -90,6 +90,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/04/27/live-coverage-spacex-to-launch-final-viasat-3-satellite-on-falcon-heavy-rocket/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch final ViaSat-3 satellite on Falcon Heavy rocket
 - <a href="https://www.nasaspaceflight.com/2026/04/viasat-3-f3-falcon-heavy/" >🔗</a> **[NASASpaceflight]** SpaceX set to launch Falcon Heavy on Monday after 18 month hiatus
 - <a href="https://www.nasaspaceflight.com/2026/04/nasas-curiosity-rover-organic-clues-mars/" >🔗</a> **[NASASpaceflight]** Curiosity Rover uncovers fresh organic clues on Ancient Mars
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-april-26-may-2-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy April 26-May 2, 2026
@@ -99,7 +100,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.nasa.gov/image-article/the-day-of-the-trifid-nebula/" >🔗</a> **[NASA]** The Day of the Trifid Nebula
 - <a href="https://arstechnica.com/space/2026/04/well-this-is-embarrassing-the-lunar-gateways-primary-modules-are-corroded/" >🔗</a> **[Arstechnica]** Well, this is embarrassing: The Lunar Gateway's primary modules are corroded
 - <a href="https://www.nasa.gov/news-release/nasa-astronauts-to-answer-questions-from-missouri-students/" >🔗</a> **[NASA]** NASA Astronauts to Answer Questions from Missouri Students
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_20-24_April_2026" >🔗</a> **[ESA]** Week in images: 20-24 April 2026
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260427T001532">2026-04-27 00:15:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260427T010922">2026-04-27 01:09:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
