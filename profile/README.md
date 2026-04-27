@@ -104,12 +104,14 @@ into *a Geostationary Transfer Orbit
 
 ### Launch-related News 🚀
 
+- <a href="https://spaceflightnow.com/2026/04/27/live-coverage-spacex-to-launch-final-viasat-3-satellite-on-falcon-heavy-rocket/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch final ViaSat-3 satellite on Falcon Heavy rocket
+- <a href="https://www.nasaspaceflight.com/2026/04/viasat-3-f3-falcon-heavy/" >🔗</a> **[NASASpaceflight]** SpaceX set to launch Falcon Heavy on Monday after 18 month hiatus
 - <a href="https://spacenews.com/coronavirus-adds-to-viasat-3-delay-first-launch-still-in-2021/" >🔗</a> **[SpaceNews]** Coronavirus adds to ViaSat-3 delay, first launch still in 2021
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260427T081432">2026-04-27 08:14:32 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260427T091423">2026-04-27 09:14:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
