@@ -90,6 +90,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/04/28/live-coverage-spacex-seeks-second-attempt-at-falcon-heavy-launch-following-weather-scrub-on-monday/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX seeks second attempt at Falcon Heavy launch following weather scrub on Monday
 - <a href="https://science.nasa.gov/missions/chandra/nasa-connects-little-red-dots-with-chandra-webb/" >🔗</a> **[NASA]** NASA Connects Little Red Dots with Chandra, Webb
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/new-x-59-hangar-home/" >🔗</a> **[NASA]** There’s No Place Like NASA’s New X-59 Hangar Home
 - <a href="https://science.nasa.gov/missions/landsat/nighttime-imaging-grows-landsats-science-value/" >🔗</a> **[NASA]** Nighttime Imaging Grows Landsat’s Science Value
@@ -99,7 +100,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://science.nasa.gov/photojournal/six-years-of-curiositys-wheels-on-the-move/" >🔗</a> **[NASA]** Six Years of Curiosity’s Wheels on the Move
 - <a href="https://www.nasa.gov/image-article/science-in-space/" >🔗</a> **[NASA]** Science in Space
 - <a href="https://www.nasaspaceflight.com/2026/04/artemis-iii-cs-assembly-arrives-ksc/" >🔗</a> **[NASASpaceflight]** Artemis III core stage assembly arrives at the Kennedy Space Center
-- <a href="https://science.nasa.gov/earth/earth-observatory/fiery-fall-color-in-southern-chile/" >🔗</a> **[NASA]** Fiery Fall Color in Southern Chile
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260428T214630">2026-04-28 21:46:30 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260428T221646">2026-04-28 22:16:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
