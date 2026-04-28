@@ -90,6 +90,8 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/earth-observatory/fiery-fall-color-in-southern-chile/" >🔗</a> **[NASA]** Fiery Fall Color in Southern Chile
+- <a href="https://spacepolicyonline.com/news/top-house-nasa-appropriator-calls-budget-request-disappointing/" >🔗</a> **[SpacePolicyOnline.com]** Top House NASA Appropriator Calls Budget Request “Disappointing”
 - <a href="https://www.nasaspaceflight.com/2026/04/launch-preview-042726/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon Heavy returns, Atlas V and Ariane 6 to launch Amazon Leo satellites
 - <a href="https://www.nasa.gov/image-article/nasas-x-59-gets-freedom-250-logo/" >🔗</a> **[NASA]** NASA’s X-59 Gets Freedom 250 Logo
 - <a href="https://spaceflightnow.com/2026/04/27/live-coverage-ula-to-launch-29-amazon-leo-satellites-on-atlas-5-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: ULA to launch 29 Amazon Leo satellites on Atlas 5 rocket from Cape Canaveral
@@ -98,8 +100,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://science.nasa.gov/get-involved/citizen-science/volunteers-help-nasa-astronauts-record-lunar-flashes/" >🔗</a> **[NASA]** Volunteers Help NASA Astronauts Record Lunar Flashes
 - <a href="https://arstechnica.com/space/2026/04/gateway-manufacturer-finally-acknowledges-issue-fails-to-mention-corrosion/" >🔗</a> **[Arstechnica]** Gateway manufacturer finally acknowledges issue, fails to mention "corrosion"
 - <a href="https://europeanspaceflight.com/esa-paid-e51-65-million-to-launch-sentinel-1c-on-vega-c-return-to-flight/" >🔗</a> **[European Spaceflight]** ESA Paid €51.65 Million to Launch Sentinel-1C on Vega-C Return to Flight
-- <a href="https://spaceflightnow.com/2026/04/27/live-coverage-spacex-to-launch-final-viasat-3-satellite-on-falcon-heavy-rocket/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch final ViaSat-3 satellite on Falcon Heavy rocket
-- <a href="https://www.nasaspaceflight.com/2026/04/viasat-3-f3-falcon-heavy/" >🔗</a> **[NASASpaceflight]** SpaceX set to launch Falcon Heavy on Monday after 18 month hiatus
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260428T034240">2026-04-28 03:42:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260428T050416">2026-04-28 05:04:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
