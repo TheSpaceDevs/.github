@@ -90,6 +90,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/photojournal/six-years-of-curiositys-wheels-on-the-move/" >🔗</a> **[NASA]** Six Years of Curiosity’s Wheels on the Move
 - <a href="https://www.nasa.gov/image-article/science-in-space/" >🔗</a> **[NASA]** Science in Space
 - <a href="https://www.nasaspaceflight.com/2026/04/artemis-iii-cs-assembly-arrives-ksc/" >🔗</a> **[NASASpaceflight]** Artemis III core stage assembly arrives at the Kennedy Space Center
 - <a href="https://science.nasa.gov/earth/earth-observatory/fiery-fall-color-in-southern-chile/" >🔗</a> **[NASA]** Fiery Fall Color in Southern Chile
@@ -99,7 +100,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://spaceflightnow.com/2026/04/27/live-coverage-ula-to-launch-29-amazon-leo-satellites-on-atlas-5-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: ULA to launch 29 Amazon Leo satellites on Atlas 5 rocket from Cape Canaveral
 - <a href="https://www.nasa.gov/solar-system/planets/mars/nasas-perseverance-curiosity-panoramas-capture-two-sides-of-mars/" >🔗</a> **[NASA]** NASA’s Perseverance, Curiosity Panoramas Capture Two Sides of Mars
 - <a href="https://science.nasa.gov/get-involved/citizen-science/you-can-help-humans-thrive-in-space/" >🔗</a> **[NASA]** You Can Help Humans Thrive in Space
-- <a href="https://science.nasa.gov/get-involved/citizen-science/volunteers-help-nasa-astronauts-record-lunar-flashes/" >🔗</a> **[NASA]** Volunteers Help NASA Astronauts Record Lunar Flashes
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260428T151542">2026-04-28 15:15:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260428T161129">2026-04-28 16:11:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
