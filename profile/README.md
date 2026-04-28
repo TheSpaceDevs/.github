@@ -90,6 +90,8 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/tech-demonstration/nasa-fires-up-powerful-lithium-fed-thruster-for-trips-to-mars/" >🔗</a> **[NASA]** NASA Fires Up Powerful Lithium-Fed Thruster for Trips to Mars
+- <a href="https://www.nasa.gov/missions/artemis/artemis-2/nasa-laser-terminal-enhances-views-during-artemis-ii-mission/" >🔗</a> **[NASA]** NASA Laser Terminal Enhances Views During Artemis II Mission
 - <a href="https://science.nasa.gov/photojournal/six-years-of-curiositys-wheels-on-the-move/" >🔗</a> **[NASA]** Six Years of Curiosity’s Wheels on the Move
 - <a href="https://www.nasa.gov/image-article/science-in-space/" >🔗</a> **[NASA]** Science in Space
 - <a href="https://www.nasaspaceflight.com/2026/04/artemis-iii-cs-assembly-arrives-ksc/" >🔗</a> **[NASASpaceflight]** Artemis III core stage assembly arrives at the Kennedy Space Center
@@ -98,8 +100,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.nasaspaceflight.com/2026/04/launch-preview-042726/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon Heavy returns, Atlas V and Ariane 6 to launch Amazon Leo satellites
 - <a href="https://www.nasa.gov/image-article/nasas-x-59-gets-freedom-250-logo/" >🔗</a> **[NASA]** NASA’s X-59 Gets Freedom 250 Logo
 - <a href="https://spaceflightnow.com/2026/04/27/live-coverage-ula-to-launch-29-amazon-leo-satellites-on-atlas-5-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: ULA to launch 29 Amazon Leo satellites on Atlas 5 rocket from Cape Canaveral
-- <a href="https://www.nasa.gov/solar-system/planets/mars/nasas-perseverance-curiosity-panoramas-capture-two-sides-of-mars/" >🔗</a> **[NASA]** NASA’s Perseverance, Curiosity Panoramas Capture Two Sides of Mars
-- <a href="https://science.nasa.gov/get-involved/citizen-science/you-can-help-humans-thrive-in-space/" >🔗</a> **[NASA]** You Can Help Humans Thrive in Space
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260428T161129">2026-04-28 16:11:29 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260428T170319">2026-04-28 17:03:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
