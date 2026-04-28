@@ -90,6 +90,7 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/new-x-59-hangar-home/" >🔗</a> **[NASA]** There’s No Place Like NASA’s New X-59 Hangar Home
 - <a href="https://science.nasa.gov/missions/landsat/nighttime-imaging-grows-landsats-science-value/" >🔗</a> **[NASA]** Nighttime Imaging Grows Landsat’s Science Value
 - <a href="https://science.nasa.gov/photojournal/curiosity-captures-a-360-degree-view-at-nevado-sajama/" >🔗</a> **[NASA]** Curiosity Captures a 360-Degree View at ‘Nevado Sajama’
 - <a href="https://www.nasa.gov/missions/tech-demonstration/nasa-fires-up-powerful-lithium-fed-thruster-for-trips-to-mars/" >🔗</a> **[NASA]** NASA Fires Up Powerful Lithium-Fed Thruster for Trips to Mars
@@ -99,7 +100,6 @@ into *a Geostationary Transfer Orbit
 - <a href="https://www.nasaspaceflight.com/2026/04/artemis-iii-cs-assembly-arrives-ksc/" >🔗</a> **[NASASpaceflight]** Artemis III core stage assembly arrives at the Kennedy Space Center
 - <a href="https://science.nasa.gov/earth/earth-observatory/fiery-fall-color-in-southern-chile/" >🔗</a> **[NASA]** Fiery Fall Color in Southern Chile
 - <a href="https://spacepolicyonline.com/news/top-house-nasa-appropriator-calls-budget-request-disappointing/" >🔗</a> **[SpacePolicyOnline.com]** Top House NASA Appropriator Calls Budget Request “Disappointing”
-- <a href="https://www.nasaspaceflight.com/2026/04/launch-preview-042726/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon Heavy returns, Atlas V and Ariane 6 to launch Amazon Leo satellites
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Geostationary Transfer Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260428T192935">2026-04-28 19:29:35 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260428T200301">2026-04-28 20:03:01 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
