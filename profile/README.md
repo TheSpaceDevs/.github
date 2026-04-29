@@ -51,6 +51,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260501T173300">2026-05-01 17:33:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 10-38&location=Cape Canaveral SFS, FL, USA&dates=20260501T173300Z%2F20260501T213300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 10-38** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260503T065900">2026-05-03 06:59:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | CAS500-2 &amp; Others&location=Vandenberg SFB, CA, USA&dates=20260503T065900Z%2F20260503T073600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | CAS500-2 & Others** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260506T020000">2026-05-06 02:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-29&location=Vandenberg SFB, CA, USA&dates=20260506T020000Z%2F20260506T060000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-29** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260509T140000">2026-05-09 14:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-37&location=Vandenberg SFB, CA, USA&dates=20260509T140000Z%2F20260509T180000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-37** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260512T230000">2026-05-12 23:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Dragon CRS-2 SpX-34&location=Cape Canaveral SFS, FL, USA&dates=20260512T230000Z%2F20260512T230000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Dragon CRS-2 SpX-34** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260519T035200">2026-05-19 03:52:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Vega-C | Solar wind Magnetosphere Ionosphere Link Explorer (SMILE)&location=Guiana Space Centre, French Guiana&dates=20260519T035200Z%2F20260519T035200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Vega-C | Solar wind Magnetosphere Ionosphere Link Explorer (SMILE)** from Guiana Space Centre, French Guiana.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260522T000000">2026-05-22 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 551 | Amazon Leo (LA-07)&location=Cape Canaveral SFS, FL, USA&dates=20260522T000000Z%2F20260522T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 551 | Amazon Leo (LA-07)** from Cape Canaveral SFS, FL, USA.
@@ -89,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.spacescout.info/2026/04/falcon-heavy-returns-with-viasat-3-f3/" >🔗</a> **[Space Scout]** Falcon Heavy Returns with ViaSat-3 F3
 - <a href="https://spaceflightnow.com/2026/04/29/spacex-launches-6-ton-viasat-3-f3-satellite-on-falcon-heavy-rocket/" >🔗</a> **[Spaceflight Now]** SpaceX launches 6-ton ViaSat-3 F3 satellite on Falcon Heavy rocket
 - <a href="https://www.nasa.gov/image-article/a-gently-glowing-galaxy/" >🔗</a> **[NASA]** A Gently Glowing Galaxy
 - <a href="https://www.nasa.gov/image-article/nasa-boeing-advance-truss-braced-wing-research-in-test/" >🔗</a> **[NASA]** NASA, Boeing Advance Truss-Braced Wing Research in Test
@@ -98,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Space_Rider/Plasma-hot_Space_Rider_tests_for_belly_and_flaps" >🔗</a> **[ESA]** Plasma-hot Space Rider tests for belly and flaps
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Biomass/Stunning_images_from_Biomass_mark_its_one_year_in_orbit" >🔗</a> **[ESA]** Stunning images from Biomass mark its one year in orbit
 - <a href="https://arstechnica.com/space/2026/04/a-falcon-9-upper-stage-will-strike-the-moon-in-august/" >🔗</a> **[Arstechnica]** A Falcon 9 upper stage will strike the Moon in August
-- <a href="https://science.nasa.gov/earth/earth-observatory/fires-rage-in-georgia/" >🔗</a> **[NASA]** Fires Rage in Georgia
 
 
 ### Launch-related News 🚀
@@ -108,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260429T175742">2026-04-29 17:57:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260429T183548">2026-04-29 18:35:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
