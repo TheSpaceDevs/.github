@@ -89,6 +89,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/a-gently-glowing-galaxy/" >🔗</a> **[NASA]** A Gently Glowing Galaxy
+- <a href="https://www.nasa.gov/image-article/nasa-boeing-advance-truss-braced-wing-research-in-test/" >🔗</a> **[NASA]** NASA, Boeing Advance Truss-Braced Wing Research in Test
 - <a href="https://www.nasa.gov/centers-and-facilities/kennedy/nasa-demonstrates-new-prescribed-burn-capability-for-spaceport/" >🔗</a> **[NASA]** NASA Demonstrates New Prescribed Burn Capability for Spaceport
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/ceq-permitting-innovators/" >🔗</a> **[NASA]** CEQ Permitting Innovators Program Call for Solutions
 - <a href="https://spacepolicyonline.com/news/house-appropriators-poised-to-reject-proposed-nasa-budget-cuts/" >🔗</a> **[SpacePolicyOnline.com]** House Appropriators Poised to Reject Proposed NASA Budget Cuts
@@ -97,8 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2026/04/a-falcon-9-upper-stage-will-strike-the-moon-in-august/" >🔗</a> **[Arstechnica]** A Falcon 9 upper stage will strike the Moon in August
 - <a href="https://science.nasa.gov/earth/earth-observatory/fires-rage-in-georgia/" >🔗</a> **[NASA]** Fires Rage in Georgia
 - <a href="https://spacepolicyonline.com/news/key-senators-agree-nasa-fy2027-budget-request-inadequate/" >🔗</a> **[SpacePolicyOnline.com]** Key Senators Agree NASA FY2027 Budget Request Inadequate
-- <a href="https://spaceflightnow.com/2026/04/28/live-coverage-spacex-seeks-second-attempt-at-falcon-heavy-launch-following-weather-scrub-on-monday/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX seeks second attempt at Falcon Heavy launch following weather scrub on Monday
-- <a href="https://science.nasa.gov/missions/chandra/nasa-connects-little-red-dots-with-chandra-webb/" >🔗</a> **[NASA]** NASA Connects Little Red Dots with Chandra, Webb
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260429T144121">2026-04-29 14:41:21 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260429T153525">2026-04-29 15:35:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
