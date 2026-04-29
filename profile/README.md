@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-ryan-schulte/" >🔗</a> **[NASA]** I Am Artemis: Ryan Schulte
+- <a href="https://science.nasa.gov/photojournal/us-indian-spacecraft-captures-mexico-city-subsidence/" >🔗</a> **[NASA]** US-Indian Spacecraft Captures Mexico City Subsidence
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4873-4878-welcome-to-the-atacama-drill-target/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4873-4878: Welcome to the Atacama Drill Target
 - <a href="https://www.nasa.gov/missions/nisar/us-indian-space-mission-maps-extreme-subsidence-in-mexico-city/" >🔗</a> **[NASA]** US-Indian Space Mission Maps Extreme Subsidence in Mexico City
 - <a href="https://spacepolicyonline.com/news/artemis-ii-astronauts-visit-the-white-house/" >🔗</a> **[SpacePolicyOnline.com]** Artemis II Astronauts Visit the White House
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/a-gently-glowing-galaxy/" >🔗</a> **[NASA]** A Gently Glowing Galaxy
 - <a href="https://www.nasa.gov/image-article/nasa-boeing-advance-truss-braced-wing-research-in-test/" >🔗</a> **[NASA]** NASA, Boeing Advance Truss-Braced Wing Research in Test
 - <a href="https://www.nasa.gov/centers-and-facilities/kennedy/nasa-demonstrates-new-prescribed-burn-capability-for-spaceport/" >🔗</a> **[NASA]** NASA Demonstrates New Prescribed Burn Capability for Spaceport
-- <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/ceq-permitting-innovators/" >🔗</a> **[NASA]** CEQ Permitting Innovators Program Call for Solutions
-- <a href="https://spacepolicyonline.com/news/house-appropriators-poised-to-reject-proposed-nasa-budget-cuts/" >🔗</a> **[SpacePolicyOnline.com]** House Appropriators Poised to Reject Proposed NASA Budget Cuts
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260429T214628">2026-04-29 21:46:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260429T221626">2026-04-29 22:16:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
