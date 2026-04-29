@@ -89,6 +89,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/04/29/spacex-launches-6-ton-viasat-3-f3-satellite-on-falcon-heavy-rocket/" >🔗</a> **[Spaceflight Now]** SpaceX launches 6-ton ViaSat-3 F3 satellite on Falcon Heavy rocket
 - <a href="https://www.nasa.gov/image-article/a-gently-glowing-galaxy/" >🔗</a> **[NASA]** A Gently Glowing Galaxy
 - <a href="https://www.nasa.gov/image-article/nasa-boeing-advance-truss-braced-wing-research-in-test/" >🔗</a> **[NASA]** NASA, Boeing Advance Truss-Braced Wing Research in Test
 - <a href="https://www.nasa.gov/centers-and-facilities/kennedy/nasa-demonstrates-new-prescribed-burn-capability-for-spaceport/" >🔗</a> **[NASA]** NASA Demonstrates New Prescribed Burn Capability for Spaceport
@@ -98,7 +99,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Biomass/Stunning_images_from_Biomass_mark_its_one_year_in_orbit" >🔗</a> **[ESA]** Stunning images from Biomass mark its one year in orbit
 - <a href="https://arstechnica.com/space/2026/04/a-falcon-9-upper-stage-will-strike-the-moon-in-august/" >🔗</a> **[Arstechnica]** A Falcon 9 upper stage will strike the Moon in August
 - <a href="https://science.nasa.gov/earth/earth-observatory/fires-rage-in-georgia/" >🔗</a> **[NASA]** Fires Rage in Georgia
-- <a href="https://spacepolicyonline.com/news/key-senators-agree-nasa-fy2027-budget-request-inadequate/" >🔗</a> **[SpacePolicyOnline.com]** Key Senators Agree NASA FY2027 Budget Request Inadequate
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260429T170419">2026-04-29 17:04:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260429T175742">2026-04-29 17:57:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
