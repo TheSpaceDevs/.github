@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/nisar/us-indian-space-mission-maps-extreme-subsidence-in-mexico-city/" >🔗</a> **[NASA]** US-Indian Space Mission Maps Extreme Subsidence in Mexico City
+- <a href="https://spacepolicyonline.com/news/artemis-ii-astronauts-visit-the-white-house/" >🔗</a> **[SpacePolicyOnline.com]** Artemis II Astronauts Visit the White House
 - <a href="https://www.spacescout.info/2026/04/falcon-heavy-returns-with-viasat-3-f3/" >🔗</a> **[Space Scout]** Falcon Heavy Returns with ViaSat-3 F3
 - <a href="https://spaceflightnow.com/2026/04/29/spacex-launches-6-ton-viasat-3-f3-satellite-on-falcon-heavy-rocket/" >🔗</a> **[Spaceflight Now]** SpaceX launches 6-ton ViaSat-3 F3 satellite on Falcon Heavy rocket
 - <a href="https://www.nasa.gov/image-article/a-gently-glowing-galaxy/" >🔗</a> **[NASA]** A Gently Glowing Galaxy
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/ceq-permitting-innovators/" >🔗</a> **[NASA]** CEQ Permitting Innovators Program Call for Solutions
 - <a href="https://spacepolicyonline.com/news/house-appropriators-poised-to-reject-proposed-nasa-budget-cuts/" >🔗</a> **[SpacePolicyOnline.com]** House Appropriators Poised to Reject Proposed NASA Budget Cuts
 - <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Space_Rider/Plasma-hot_Space_Rider_tests_for_belly_and_flaps" >🔗</a> **[ESA]** Plasma-hot Space Rider tests for belly and flaps
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Biomass/Stunning_images_from_Biomass_mark_its_one_year_in_orbit" >🔗</a> **[ESA]** Stunning images from Biomass mark its one year in orbit
-- <a href="https://arstechnica.com/space/2026/04/a-falcon-9-upper-stage-will-strike-the-moon-in-august/" >🔗</a> **[Arstechnica]** A Falcon 9 upper stage will strike the Moon in August
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260429T200050">2026-04-29 20:00:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260429T204614">2026-04-29 20:46:14 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
