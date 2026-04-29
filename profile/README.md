@@ -19,33 +19,32 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon Heavy | ViaSat-3 F3 (ViaSat-3 Asia-Pacific)**. It is scheduled to be launched by *SpaceX*
+**Falcon 9 Block 5 | Starlink Group 17-36**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39A">Launch Complex 39A</a>, Kennedy Space Center, FL, USA*
+from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260429T141300">2026-04-29 14:13:00 UTC</a>.  Until
-then, this pad will have been used for 221
-out of 280 launches from this location. The launch status is currently
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260430T020000">2026-04-30 02:00:00 UTC</a>.  Until
+then, this pad will have been used for 263
+out of 879 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
 *Communications* and the payload will be injected
-into *a Geostationary Transfer Orbit
-(GTO)*.
+into *a Low Earth Orbit
+(LEO)*.
 <br>
 <blockquote>
-  The ViaSat-3 is a series of three Ka-band satellites is expected to provide vastly superior capabilities in terms of service speed and flexibility for a satellite platform. Each ViaSat-3 class satellite is expected to deliver more than 1-Terabit per second of network capacity, and to leverage high levels of flexibility to dynamically direct capacity to where customers are located.
+  A batch of 24 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_Heavy" >
+  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=28.60822681,-80.60428186" >
+  <a href="https://www.google.com/maps?q=34.632,-120.611" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260429T141300">2026-04-29 14:13:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon Heavy | ViaSat-3 F3 (ViaSat-3 Asia-Pacific)&location=Kennedy Space Center, FL, USA&dates=20260429T141300Z%2F20260429T153800Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon Heavy | ViaSat-3 F3 (ViaSat-3 Asia-Pacific)** from Kennedy Space Center, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260430T020000">2026-04-30 02:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-36&location=Vandenberg SFB, CA, USA&dates=20260430T020000Z%2F20260430T060000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-36** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260430T080800">2026-04-30 08:08:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Ariane 64 | Amazon Leo (LE-02)&location=Guiana Space Centre, French Guiana&dates=20260430T080800Z%2F20260430T085700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Ariane 64 | Amazon Leo (LE-02)** from Guiana Space Centre, French Guiana.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260430T110000">2026-04-30 11:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/ru.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Soyuz-5 | Demo Flight&location=Baikonur Cosmodrome, Republic of Kazakhstan&dates=20260430T110000Z%2F20260430T130000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Soyuz-5 | Demo Flight** from Baikonur Cosmodrome, Republic of Kazakhstan.
@@ -90,30 +89,26 @@ into *a Geostationary Transfer Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/kennedy/nasa-demonstrates-new-prescribed-burn-capability-for-spaceport/" >🔗</a> **[NASA]** NASA Demonstrates New Prescribed Burn Capability for Spaceport
+- <a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/ceq-permitting-innovators/" >🔗</a> **[NASA]** CEQ Permitting Innovators Program Call for Solutions
+- <a href="https://spacepolicyonline.com/news/house-appropriators-poised-to-reject-proposed-nasa-budget-cuts/" >🔗</a> **[SpacePolicyOnline.com]** House Appropriators Poised to Reject Proposed NASA Budget Cuts
+- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Space_Rider/Plasma-hot_Space_Rider_tests_for_belly_and_flaps" >🔗</a> **[ESA]** Plasma-hot Space Rider tests for belly and flaps
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Biomass/Stunning_images_from_Biomass_mark_its_one_year_in_orbit" >🔗</a> **[ESA]** Stunning images from Biomass mark its one year in orbit
 - <a href="https://arstechnica.com/space/2026/04/a-falcon-9-upper-stage-will-strike-the-moon-in-august/" >🔗</a> **[Arstechnica]** A Falcon 9 upper stage will strike the Moon in August
 - <a href="https://science.nasa.gov/earth/earth-observatory/fires-rage-in-georgia/" >🔗</a> **[NASA]** Fires Rage in Georgia
 - <a href="https://spacepolicyonline.com/news/key-senators-agree-nasa-fy2027-budget-request-inadequate/" >🔗</a> **[SpacePolicyOnline.com]** Key Senators Agree NASA FY2027 Budget Request Inadequate
 - <a href="https://spaceflightnow.com/2026/04/28/live-coverage-spacex-seeks-second-attempt-at-falcon-heavy-launch-following-weather-scrub-on-monday/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX seeks second attempt at Falcon Heavy launch following weather scrub on Monday
 - <a href="https://science.nasa.gov/missions/chandra/nasa-connects-little-red-dots-with-chandra-webb/" >🔗</a> **[NASA]** NASA Connects Little Red Dots with Chandra, Webb
-- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/new-x-59-hangar-home/" >🔗</a> **[NASA]** There’s No Place Like NASA’s New X-59 Hangar Home
-- <a href="https://science.nasa.gov/missions/landsat/nighttime-imaging-grows-landsats-science-value/" >🔗</a> **[NASA]** Nighttime Imaging Grows Landsat’s Science Value
-- <a href="https://science.nasa.gov/photojournal/curiosity-captures-a-360-degree-view-at-nevado-sajama/" >🔗</a> **[NASA]** Curiosity Captures a 360-Degree View at ‘Nevado Sajama’
-- <a href="https://www.nasa.gov/missions/tech-demonstration/nasa-fires-up-powerful-lithium-fed-thruster-for-trips-to-mars/" >🔗</a> **[NASA]** NASA Fires Up Powerful Lithium-Fed Thruster for Trips to Mars
 
 
 ### Launch-related News 🚀
 
-- <a href="https://spaceflightnow.com/2026/04/28/live-coverage-spacex-seeks-second-attempt-at-falcon-heavy-launch-following-weather-scrub-on-monday/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX seeks second attempt at Falcon Heavy launch following weather scrub on Monday
 - <a href="https://www.nasaspaceflight.com/2026/04/launch-preview-042726/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon Heavy returns, Atlas V and Ariane 6 to launch Amazon Leo satellites
-- <a href="https://spaceflightnow.com/2026/04/27/live-coverage-spacex-to-launch-final-viasat-3-satellite-on-falcon-heavy-rocket/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch final ViaSat-3 satellite on Falcon Heavy rocket
-- <a href="https://www.nasaspaceflight.com/2026/04/viasat-3-f3-falcon-heavy/" >🔗</a> **[NASASpaceflight]** SpaceX set to launch Falcon Heavy on Monday after 18 month hiatus
-- <a href="https://spacenews.com/coronavirus-adds-to-viasat-3-delay-first-launch-still-in-2021/" >🔗</a> **[SpaceNews]** Coronavirus adds to ViaSat-3 delay, first launch still in 2021
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260429T133105">2026-04-29 13:31:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260429T144121">2026-04-29 14:41:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
