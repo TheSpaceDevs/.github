@@ -90,6 +90,7 @@ into *a Suborbital
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/earth-observatory/fires-rage-in-georgia/" >🔗</a> **[NASA]** Fires Rage in Georgia
 - <a href="https://spacepolicyonline.com/news/key-senators-agree-nasa-fy2027-budget-request-inadequate/" >🔗</a> **[SpacePolicyOnline.com]** Key Senators Agree NASA FY2027 Budget Request Inadequate
 - <a href="https://spaceflightnow.com/2026/04/28/live-coverage-spacex-seeks-second-attempt-at-falcon-heavy-launch-following-weather-scrub-on-monday/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX seeks second attempt at Falcon Heavy launch following weather scrub on Monday
 - <a href="https://science.nasa.gov/missions/chandra/nasa-connects-little-red-dots-with-chandra-webb/" >🔗</a> **[NASA]** NASA Connects Little Red Dots with Chandra, Webb
@@ -99,7 +100,6 @@ into *a Suborbital
 - <a href="https://www.nasa.gov/missions/tech-demonstration/nasa-fires-up-powerful-lithium-fed-thruster-for-trips-to-mars/" >🔗</a> **[NASA]** NASA Fires Up Powerful Lithium-Fed Thruster for Trips to Mars
 - <a href="https://www.nasa.gov/missions/artemis/artemis-2/nasa-laser-terminal-enhances-views-during-artemis-ii-mission/" >🔗</a> **[NASA]** NASA Laser Terminal Enhances Views During Artemis II Mission
 - <a href="https://science.nasa.gov/photojournal/six-years-of-curiositys-wheels-on-the-move/" >🔗</a> **[NASA]** Six Years of Curiosity’s Wheels on the Move
-- <a href="https://www.nasa.gov/image-article/science-in-space/" >🔗</a> **[NASA]** Science in Space
 
 
 ### Launch-related News 🚀
@@ -111,7 +111,7 @@ into *a Suborbital
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260429T034238">2026-04-29 03:42:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260429T050136">2026-04-29 05:01:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
