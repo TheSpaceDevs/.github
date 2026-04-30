@@ -88,6 +88,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-ireland-artemis-accords-signing/" >🔗</a> **[NASA]** NASA Invites Media to Ireland Artemis Accords Signing
 - <a href="https://arstechnica.com/space/2026/04/blue-origin-certainly-has-ambitious-launch-targets-for-new-glenn/" >🔗</a> **[Arstechnica]** Blue Origin certainly has ambitious launch targets for New Glenn
 - <a href="https://science.nasa.gov/photojournal/odyssey-team-celebrates-on-a-global-map-of-mars/" >🔗</a> **[NASA]** Odyssey Team Celebrates on a Global Map of Mars
 - <a href="https://science.nasa.gov/solar-system/whats-up-may-2026-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: May 2026 Skywatching Tips from NASA
@@ -97,7 +98,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/nasa-explores-prioritizing-first-response-drones-in-crowded-skies/" >🔗</a> **[NASA]** NASA Explores Prioritizing First Response Drones in Crowded Skies
 - <a href="https://www.nasaspaceflight.com/2026/04/next-nasa-iss-astronaut-mission/" >🔗</a> **[NASASpaceflight]** Next NASA ISS astronaut, doctor discusses upcoming mission
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/04/This_Month_at_ESA_April_2026" >🔗</a> **[ESA]** This Month at ESA: April 2026
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/04/The_great_parachute_bake-out" >🔗</a> **[ESA]** The great parachute bake-out
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260430T203244">2026-04-30 20:32:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260430T211842">2026-04-30 21:18:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
