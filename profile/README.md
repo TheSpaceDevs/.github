@@ -88,6 +88,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2026/04/blue-origin-certainly-has-ambitious-launch-targets-for-new-glenn/" >🔗</a> **[Arstechnica]** Blue Origin certainly has ambitious launch targets for New Glenn
+- <a href="https://science.nasa.gov/photojournal/odyssey-team-celebrates-on-a-global-map-of-mars/" >🔗</a> **[NASA]** Odyssey Team Celebrates on a Global Map of Mars
+- <a href="https://science.nasa.gov/solar-system/whats-up-may-2026-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: May 2026 Skywatching Tips from NASA
 - <a href="https://www.nasa.gov/image-article/artemis-iii-moon-rocket-core-stage-on-the-move/" >🔗</a> **[NASA]** Artemis III Moon Rocket Core Stage on the Move
 - <a href="https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-morocco-as-64th-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Morocco as 64th Artemis Accords Signatory
 - <a href="https://www.nasa.gov/centers-and-facilities/goddard/nasa-goddards-greenbelt-visitor-center-marks-50th-anniversary/" >🔗</a> **[NASA]** NASA Goddard’s Greenbelt Visitor Center Marks 50th Anniversary
@@ -95,9 +98,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2026/04/next-nasa-iss-astronaut-mission/" >🔗</a> **[NASASpaceflight]** Next NASA ISS astronaut, doctor discusses upcoming mission
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/04/This_Month_at_ESA_April_2026" >🔗</a> **[ESA]** This Month at ESA: April 2026
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/04/The_great_parachute_bake-out" >🔗</a> **[ESA]** The great parachute bake-out
-- <a href="https://europeanspaceflight.com/arianespace-launches-another-32-amazon-leo-satellites-aboard-ariane-6/" >🔗</a> **[European Spaceflight]** Arianespace Launches Another 32 Amazon LEO Satellites Aboard Ariane 6
-- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/04/Baking_a_parachute_for_Mars" >🔗</a> **[ESA]** Baking a parachute for Mars
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/04/Starry_spiral_in_a_familiar_neighbourhood" >🔗</a> **[ESA]** Starry spiral in a familiar neighbourhood
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260430T185402">2026-04-30 18:54:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260430T192835">2026-04-30 19:28:35 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
