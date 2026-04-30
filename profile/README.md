@@ -88,6 +88,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/goddard/nasa-goddards-greenbelt-visitor-center-marks-50th-anniversary/" >🔗</a> **[NASA]** NASA Goddard’s Greenbelt Visitor Center Marks 50th Anniversary
 - <a href="https://www.nasa.gov/centers-and-facilities/ames/nasa-explores-prioritizing-first-response-drones-in-crowded-skies/" >🔗</a> **[NASA]** NASA Explores Prioritizing First Response Drones in Crowded Skies
 - <a href="https://www.nasaspaceflight.com/2026/04/next-nasa-iss-astronaut-mission/" >🔗</a> **[NASASpaceflight]** Next NASA ISS astronaut, doctor discusses upcoming mission
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/04/This_Month_at_ESA_April_2026" >🔗</a> **[ESA]** This Month at ESA: April 2026
@@ -97,7 +98,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/04/Starry_spiral_in_a_familiar_neighbourhood" >🔗</a> **[ESA]** Starry spiral in a familiar neighbourhood
 - <a href="https://science.nasa.gov/earth/earth-observatory/winters-end-is-written-in-the-clouds/" >🔗</a> **[NASA]** Winter’s End Is Written in the Clouds
 - <a href="https://spaceflightnow.com/2026/04/29/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-6/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
-- <a href="https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-ryan-schulte/" >🔗</a> **[NASA]** I Am Artemis: Ryan Schulte
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260430T170042">2026-04-30 17:00:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260430T173711">2026-04-30 17:37:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
