@@ -105,12 +105,13 @@ into *a Low Earth Orbit
 
 ### Launch-related News 🚀
 
+- <a href="https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Another_one_Ariane_6_flies_with_four_boosters_once_more" >🔗</a> **[ESA]** Another one: Ariane 6 flies with four boosters once more
 - <a href="https://www.nasaspaceflight.com/2026/04/launch-preview-042726/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon Heavy returns, Atlas V and Ariane 6 to launch Amazon Leo satellites
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260430T061751">2026-04-30 06:17:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260430T071724">2026-04-30 07:17:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
