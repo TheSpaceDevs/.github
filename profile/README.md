@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/earth-observatory/winters-end-is-written-in-the-clouds/" >🔗</a> **[NASA]** Winter’s End Is Written in the Clouds
 - <a href="https://spaceflightnow.com/2026/04/29/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-6/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-ryan-schulte/" >🔗</a> **[NASA]** I Am Artemis: Ryan Schulte
 - <a href="https://science.nasa.gov/photojournal/us-indian-spacecraft-captures-mexico-city-subsidence/" >🔗</a> **[NASA]** US-Indian Spacecraft Captures Mexico City Subsidence
@@ -100,7 +101,6 @@ into *a Low Earth Orbit
 - <a href="https://www.spacescout.info/2026/04/falcon-heavy-returns-with-viasat-3-f3/" >🔗</a> **[Space Scout]** Falcon Heavy Returns with ViaSat-3 F3
 - <a href="https://spaceflightnow.com/2026/04/29/spacex-launches-6-ton-viasat-3-f3-satellite-on-falcon-heavy-rocket/" >🔗</a> **[Spaceflight Now]** SpaceX launches 6-ton ViaSat-3 F3 satellite on Falcon Heavy rocket
 - <a href="https://www.nasa.gov/image-article/a-gently-glowing-galaxy/" >🔗</a> **[NASA]** A Gently Glowing Galaxy
-- <a href="https://www.nasa.gov/image-article/nasa-boeing-advance-truss-braced-wing-research-in-test/" >🔗</a> **[NASA]** NASA, Boeing Advance Truss-Braced Wing Research in Test
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260430T034243">2026-04-30 03:42:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260430T050344">2026-04-30 05:03:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
