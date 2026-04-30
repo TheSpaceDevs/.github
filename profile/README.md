@@ -88,6 +88,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/04/next-nasa-iss-astronaut-mission/" >🔗</a> **[NASASpaceflight]** Next NASA ISS astronaut, doctor discusses upcoming mission
+- <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/04/This_Month_at_ESA_April_2026" >🔗</a> **[ESA]** This Month at ESA: April 2026
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/04/The_great_parachute_bake-out" >🔗</a> **[ESA]** The great parachute bake-out
 - <a href="https://europeanspaceflight.com/arianespace-launches-another-32-amazon-leo-satellites-aboard-ariane-6/" >🔗</a> **[European Spaceflight]** Arianespace Launches Another 32 Amazon LEO Satellites Aboard Ariane 6
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/04/Baking_a_parachute_for_Mars" >🔗</a> **[ESA]** Baking a parachute for Mars
@@ -96,8 +98,6 @@ into *a Low Earth Orbit
 - <a href="https://spaceflightnow.com/2026/04/29/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-6/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-ryan-schulte/" >🔗</a> **[NASA]** I Am Artemis: Ryan Schulte
 - <a href="https://science.nasa.gov/photojournal/us-indian-spacecraft-captures-mexico-city-subsidence/" >🔗</a> **[NASA]** US-Indian Spacecraft Captures Mexico City Subsidence
-- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4873-4878-welcome-to-the-atacama-drill-target/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4873-4878: Welcome to the Atacama Drill Target
-- <a href="https://www.nasa.gov/missions/nisar/us-indian-space-mission-maps-extreme-subsidence-in-mexico-city/" >🔗</a> **[NASA]** US-Indian Space Mission Maps Extreme Subsidence in Mexico City
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260430T133048">2026-04-30 13:30:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260430T153133">2026-04-30 15:31:33 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
