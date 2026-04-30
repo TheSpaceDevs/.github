@@ -88,6 +88,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/04/The_great_parachute_bake-out" >🔗</a> **[ESA]** The great parachute bake-out
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/04/Baking_a_parachute_for_Mars" >🔗</a> **[ESA]** Baking a parachute for Mars
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/04/Starry_spiral_in_a_familiar_neighbourhood" >🔗</a> **[ESA]** Starry spiral in a familiar neighbourhood
 - <a href="https://science.nasa.gov/earth/earth-observatory/winters-end-is-written-in-the-clouds/" >🔗</a> **[NASA]** Winter’s End Is Written in the Clouds
@@ -97,19 +98,16 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4873-4878-welcome-to-the-atacama-drill-target/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4873-4878: Welcome to the Atacama Drill Target
 - <a href="https://www.nasa.gov/missions/nisar/us-indian-space-mission-maps-extreme-subsidence-in-mexico-city/" >🔗</a> **[NASA]** US-Indian Space Mission Maps Extreme Subsidence in Mexico City
 - <a href="https://spacepolicyonline.com/news/artemis-ii-astronauts-visit-the-white-house/" >🔗</a> **[SpacePolicyOnline.com]** Artemis II Astronauts Visit the White House
-- <a href="https://www.spacescout.info/2026/04/falcon-heavy-returns-with-viasat-3-f3/" >🔗</a> **[Space Scout]** Falcon Heavy Returns with ViaSat-3 F3
 
 
 ### Launch-related News 🚀
 
-- <a href="https://www.nasaspaceflight.com/2026/03/launch-preview-033026/" >🔗</a> **[NASASpaceflight]** Launch Preview: SLS, Falcon 9, Atlas V, and Soyuz launches comprise busy launch manifest
-- <a href="https://www.nasaspaceflight.com/2026/03/launch-preview-032326/" >🔗</a> **[NASASpaceflight]** Launch Preview: Russia to debut Soyuz-5; Falcon 9 and Atlas V to launch internet satellites
-- <a href="https://arstechnica.com/space/2025/11/after-a-decade-russias-native-built-soyuz-5-rocket-finally-reaches-the-launch-site/" >🔗</a> **[Arstechnica]** After a decade Russia’s native-built Soyuz 5 rocket finally reaches the launch site
+- <a href="https://www.nasaspaceflight.com/2026/04/launch-preview-042726/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon Heavy returns, Atlas V and Ariane 6 to launch Amazon Leo satellites
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260430T110604">2026-04-30 11:06:04 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260430T115826">2026-04-30 11:58:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
