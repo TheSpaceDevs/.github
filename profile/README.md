@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/earth-observatory/cyclone-rains-spur-papua-new-guinea-landslides/" >🔗</a> **[NASA]** Cyclone Rains Spur Papua New Guinea Landslides
 - <a href="https://spacepolicyonline.com/news/house-appropriations-subcommittee-clears-nasa-bill-on-party-line-vote/" >🔗</a> **[SpacePolicyOnline.com]** House Appropriations Subcommittee Clears NASA Bill on Party-Line Vote
 - <a href="https://www.nasaspaceflight.com/2026/04/russia-maiden-soyuz-5-launch/" >🔗</a> **[NASASpaceflight]** Russia debuts new rocket with maiden Soyuz-5 launch
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-ireland-artemis-accords-signing/" >🔗</a> **[NASA]** NASA Invites Media to Ireland Artemis Accords Signing
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/artemis-iii-moon-rocket-core-stage-on-the-move/" >🔗</a> **[NASA]** Artemis III Moon Rocket Core Stage on the Move
 - <a href="https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-morocco-as-64th-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Morocco as 64th Artemis Accords Signatory
 - <a href="https://www.nasa.gov/centers-and-facilities/goddard/nasa-goddards-greenbelt-visitor-center-marks-50th-anniversary/" >🔗</a> **[NASA]** NASA Goddard’s Greenbelt Visitor Center Marks 50th Anniversary
-- <a href="https://www.nasa.gov/centers-and-facilities/ames/nasa-explores-prioritizing-first-response-drones-in-crowded-skies/" >🔗</a> **[NASA]** NASA Explores Prioritizing First Response Drones in Crowded Skies
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260501T034301">2026-05-01 03:43:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260501T051240">2026-05-01 05:12:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
