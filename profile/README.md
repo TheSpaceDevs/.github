@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/05/01/live-coverage-spacex-marks-may-day-with-starlink-mission-on-a-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX marks May Day with Starlink mission on a Falcon 9 rocket from Cape Canaveral
+- <a href="https://science.nasa.gov/missions/hubble/hubble-spots-a-starry-spiral/" >🔗</a> **[NASA]** Hubble Spots a Starry Spiral
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_goes_live_a_milestone_for_Europe_s_radar_mission" >🔗</a> **[ESA]** Sentinel-1D goes live: a milestone for Europe’s radar mission
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/05/Earth_from_Space_Netherlands_in_bloom" >🔗</a> **[ESA]** Earth from Space: Netherlands in bloom
 - <a href="https://science.nasa.gov/earth/earth-observatory/cyclone-rains-spur-papua-new-guinea-landslides/" >🔗</a> **[NASA]** Cyclone Rains Spur Papua New Guinea Landslides
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-ireland-artemis-accords-signing/" >🔗</a> **[NASA]** NASA Invites Media to Ireland Artemis Accords Signing
 - <a href="https://arstechnica.com/space/2026/04/blue-origin-certainly-has-ambitious-launch-targets-for-new-glenn/" >🔗</a> **[Arstechnica]** Blue Origin certainly has ambitious launch targets for New Glenn
 - <a href="https://science.nasa.gov/photojournal/odyssey-team-celebrates-on-a-global-map-of-mars/" >🔗</a> **[NASA]** Odyssey Team Celebrates on a Global Map of Mars
-- <a href="https://science.nasa.gov/solar-system/whats-up-may-2026-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: May 2026 Skywatching Tips from NASA
-- <a href="https://www.nasa.gov/image-article/artemis-iii-moon-rocket-core-stage-on-the-move/" >🔗</a> **[NASA]** Artemis III Moon Rocket Core Stage on the Move
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260501T114651">2026-05-01 11:46:51 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260501T121439">2026-05-01 12:14:39 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
