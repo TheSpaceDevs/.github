@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/05/Earth_from_Space_Netherlands_in_bloom" >🔗</a> **[ESA]** Earth from Space: Netherlands in bloom
 - <a href="https://science.nasa.gov/earth/earth-observatory/cyclone-rains-spur-papua-new-guinea-landslides/" >🔗</a> **[NASA]** Cyclone Rains Spur Papua New Guinea Landslides
 - <a href="https://spacepolicyonline.com/news/house-appropriations-subcommittee-clears-nasa-bill-on-party-line-vote/" >🔗</a> **[SpacePolicyOnline.com]** House Appropriations Subcommittee Clears NASA Bill on Party-Line Vote
 - <a href="https://www.nasaspaceflight.com/2026/04/russia-maiden-soyuz-5-launch/" >🔗</a> **[NASASpaceflight]** Russia debuts new rocket with maiden Soyuz-5 launch
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/solar-system/whats-up-may-2026-skywatching-tips-from-nasa/" >🔗</a> **[NASA]** What’s Up: May 2026 Skywatching Tips from NASA
 - <a href="https://www.nasa.gov/image-article/artemis-iii-moon-rocket-core-stage-on-the-move/" >🔗</a> **[NASA]** Artemis III Moon Rocket Core Stage on the Move
 - <a href="https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-morocco-as-64th-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Morocco as 64th Artemis Accords Signatory
-- <a href="https://www.nasa.gov/centers-and-facilities/goddard/nasa-goddards-greenbelt-visitor-center-marks-50th-anniversary/" >🔗</a> **[NASA]** NASA Goddard’s Greenbelt Visitor Center Marks 50th Anniversary
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260501T071827">2026-05-01 07:18:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260501T081322">2026-05-01 08:13:22 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
