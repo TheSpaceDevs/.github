@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/nasa-artemis-ii-crew-rings-nasdaq-closing-bell/" >🔗</a> **[NASA]** NASA Artemis II Crew Rings Nasdaq Closing Bell
+- <a href="https://www.nasa.gov/image-article/key-support-equipment-arrives-at-kennedy-for-roman-space-telescope/" >🔗</a> **[NASA]** Key Support Equipment Arrives at Kennedy for Roman Space Telescope
+- <a href="https://science.nasa.gov/science-research/heliophysics/nasas-storie-mission-to-tell-tale-of-earths-ring-current/" >🔗</a> **[NASA]** NASA’s STORIE Mission to Tell Tale of Earth’s Ring Current
 - <a href="https://arstechnica.com/space/2026/05/the-suborbital-space-tourism-industry-is-on-life-support/" >🔗</a> **[Arstechnica]** The suborbital space tourism industry is on life support
 - <a href="https://www.nasa.gov/learning-resources/space-out-this-summer-with-variety-of-nasa-stem-activities/" >🔗</a> **[NASA]** Space Out This Summer with Variety of NASA STEM Activities
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_27_April_-_01_May_2026" >🔗</a> **[ESA]** Week in images: 27 April - 01 May 2026
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/missions/hubble/hubble-spots-a-starry-spiral/" >🔗</a> **[NASA]** Hubble Spots a Starry Spiral
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_goes_live_a_milestone_for_Europe_s_radar_mission" >🔗</a> **[ESA]** Sentinel-1D goes live: a milestone for Europe’s radar mission
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/05/Earth_from_Space_Netherlands_in_bloom" >🔗</a> **[ESA]** Earth from Space: Netherlands in bloom
-- <a href="https://science.nasa.gov/earth/earth-observatory/cyclone-rains-spur-papua-new-guinea-landslides/" >🔗</a> **[NASA]** Cyclone Rains Spur Papua New Guinea Landslides
-- <a href="https://spacepolicyonline.com/news/house-appropriations-subcommittee-clears-nasa-bill-on-party-line-vote/" >🔗</a> **[SpacePolicyOnline.com]** House Appropriations Subcommittee Clears NASA Bill on Party-Line Vote
-- <a href="https://www.nasaspaceflight.com/2026/04/russia-maiden-soyuz-5-launch/" >🔗</a> **[NASASpaceflight]** Russia debuts new rocket with maiden Soyuz-5 launch
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260501T154524">2026-05-01 15:45:24 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260501T161719">2026-05-01 16:17:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
