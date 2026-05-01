@@ -96,6 +96,7 @@ Pelican is a constellation of very high resolution imaging satellites, designed 
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/lt-gen-doug-schiess-nominated-to-succeed-space-force-cso-saltzman/" >🔗</a> **[SpacePolicyOnline.com]** Lt. Gen. Doug Schiess Nominated to Succeed Space Force CSO Saltzman
 - <a href="https://www.nasa.gov/news-release/nasa-kennedy-center-director-announces-plans-to-retire/" >🔗</a> **[NASA]** NASA Kennedy Center Director Announces Plans to Retire
 - <a href="https://www.nasa.gov/image-article/nasa-artemis-ii-crew-rings-nasdaq-closing-bell/" >🔗</a> **[NASA]** NASA Artemis II Crew Rings Nasdaq Closing Bell
 - <a href="https://www.nasa.gov/image-article/key-support-equipment-arrives-at-kennedy-for-roman-space-telescope/" >🔗</a> **[NASA]** Key Support Equipment Arrives at Kennedy for Roman Space Telescope
@@ -105,7 +106,6 @@ Pelican is a constellation of very high resolution imaging satellites, designed 
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_27_April_-_01_May_2026" >🔗</a> **[ESA]** Week in images: 27 April - 01 May 2026
 - <a href="https://spaceflightnow.com/2026/05/01/live-coverage-spacex-marks-may-day-with-starlink-mission-on-a-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX marks May Day with Starlink mission on a Falcon 9 rocket from Cape Canaveral
 - <a href="https://science.nasa.gov/missions/hubble/hubble-spots-a-starry-spiral/" >🔗</a> **[NASA]** Hubble Spots a Starry Spiral
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_goes_live_a_milestone_for_Europe_s_radar_mission" >🔗</a> **[ESA]** Sentinel-1D goes live: a milestone for Europe’s radar mission
 
 
 ### Launch-related News 🚀
@@ -115,7 +115,7 @@ Pelican is a constellation of very high resolution imaging satellites, designed 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260501T195113">2026-05-01 19:51:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260501T201515">2026-05-01 20:15:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
