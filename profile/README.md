@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_27_April_-_01_May_2026" >🔗</a> **[ESA]** Week in images: 27 April - 01 May 2026
 - <a href="https://spaceflightnow.com/2026/05/01/live-coverage-spacex-marks-may-day-with-starlink-mission-on-a-falcon-9-rocket-from-cape-canaveral/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX marks May Day with Starlink mission on a Falcon 9 rocket from Cape Canaveral
 - <a href="https://science.nasa.gov/missions/hubble/hubble-spots-a-starry-spiral/" >🔗</a> **[NASA]** Hubble Spots a Starry Spiral
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1D_goes_live_a_milestone_for_Europe_s_radar_mission" >🔗</a> **[ESA]** Sentinel-1D goes live: a milestone for Europe’s radar mission
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2026/04/russia-maiden-soyuz-5-launch/" >🔗</a> **[NASASpaceflight]** Russia debuts new rocket with maiden Soyuz-5 launch
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-ireland-artemis-accords-signing/" >🔗</a> **[NASA]** NASA Invites Media to Ireland Artemis Accords Signing
 - <a href="https://arstechnica.com/space/2026/04/blue-origin-certainly-has-ambitious-launch-targets-for-new-glenn/" >🔗</a> **[Arstechnica]** Blue Origin certainly has ambitious launch targets for New Glenn
-- <a href="https://science.nasa.gov/photojournal/odyssey-team-celebrates-on-a-global-map-of-mars/" >🔗</a> **[NASA]** Odyssey Team Celebrates on a Global Map of Mars
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260501T124622">2026-05-01 12:46:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260501T132817">2026-05-01 13:28:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
