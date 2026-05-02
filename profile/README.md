@@ -32,7 +32,7 @@ into *a Sun-Synchronous Orbit
 (SSO)*.
 <br>
 <blockquote>
-  Ride-share of multiple satellites including:
+  Ride-share of 45 satellites including:
 
 * CAS500-2 (KASA, South Korea)
 The South Korean CAS500-1 and -2 satellites will image the Earth in pan-chromatic and multi-spectral modes using the AEISS-C (Advanced Earth Imaging Sensor System) payload, with a ground resolution of 0.5 m in panchromatic mode and 2 m in color mode.
@@ -115,7 +115,7 @@ Pelican is a constellation of very high resolution imaging satellites, designed 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260502T220958">2026-05-02 22:09:58 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260502T224324">2026-05-02 22:43:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
