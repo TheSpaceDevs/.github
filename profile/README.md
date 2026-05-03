@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-may-3-9-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy May 3-9, 2026
 - <a href="https://www.nasaspaceflight.com/2026/05/spacex-launch-cas500-2-45-payloads-orbit/" >🔗</a> **[NASASpaceflight]** SpaceX launches CAS500-2 and 45 other payloads to Sun-synchronous orbit
 - <a href="https://spaceflightnow.com/2026/05/02/live-coverage-spacex-to-launch-south-korean-earth-observation-satellite-44-more-payloads-on-overnight-falcon-9-rideshare-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch South Korean Earth observation satellite, plus 44 more payloads on overnight Falcon 9 rideshare mission
 - <a href="https://spacepolicyonline.com/news/ribbon-cutting-at-alabamas-redstone-arsenal-welcomes-u-s-space-command/" >🔗</a> **[SpacePolicyOnline.com]** Ribbon Cutting at Alabama’s Redstone Arsenal Welcomes U.S. Space Command
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/nasa-artemis-ii-crew-rings-nasdaq-closing-bell/" >🔗</a> **[NASA]** NASA Artemis II Crew Rings Nasdaq Closing Bell
 - <a href="https://www.nasa.gov/image-article/key-support-equipment-arrives-at-kennedy-for-roman-space-telescope/" >🔗</a> **[NASA]** Key Support Equipment Arrives at Kennedy for Roman Space Telescope
 - <a href="https://science.nasa.gov/science-research/heliophysics/nasas-storie-mission-to-tell-tale-of-earths-ring-current/" >🔗</a> **[NASA]** NASA’s STORIE Mission to Tell Tale of Earth’s Ring Current
-- <a href="https://arstechnica.com/space/2026/05/the-suborbital-space-tourism-industry-is-on-life-support/" >🔗</a> **[Arstechnica]** The suborbital space tourism industry is on life support
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260503T200952">2026-05-03 20:09:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260503T204343">2026-05-03 20:43:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
