@@ -19,26 +19,20 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | CAS500-2 & Others**. It is scheduled to be launched by *SpaceX*
+**Falcon 9 Block 5 | Starlink Group 17-29**. It is scheduled to be launched by *SpaceX*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
 from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260503T065900">2026-05-03 06:59:00 UTC</a>.  Until
-then, this pad will have been used for 264
-out of 880 launches from this location. The launch status is currently
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260506T020000">2026-05-06 02:00:00 UTC</a>.  Until
+then, this pad will have been used for 265
+out of 881 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Earth Science* and the payload will be injected
-into *a Sun-Synchronous Orbit
-(SSO)*.
+*Communications* and the payload will be injected
+into *a Low Earth Orbit
+(LEO)*.
 <br>
 <blockquote>
-  Ride-share of 45 satellites including:
-
-* CAS500-2 (KASA, South Korea)
-The South Korean CAS500-1 and -2 satellites will image the Earth in pan-chromatic and multi-spectral modes using the AEISS-C (Advanced Earth Imaging Sensor System) payload, with a ground resolution of 0.5 m in panchromatic mode and 2 m in color mode.
-
-* Pelican-7, 8 & 9 (Planet Labs)
-Pelican is a constellation of very high resolution imaging satellites, designed and manufactured by Planet Labs. The commercial constellation will consist of 32 SmallSats with potential for further expansion, and aims to provide improved spatial resolution and response times over Planet’s existing SkySat and Dove constellations.
+  A batch of 24 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
 </blockquote>
 
 <p float="left" align="center">
@@ -51,7 +45,6 @@ Pelican is a constellation of very high resolution imaging satellites, designed 
 </p>
 
 ### Within a month's time 📅
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260503T065900">2026-05-03 06:59:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | CAS500-2 &amp; Others&location=Vandenberg SFB, CA, USA&dates=20260503T065900Z%2F20260503T073600Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | CAS500-2 & Others** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260506T020000">2026-05-06 02:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-29&location=Vandenberg SFB, CA, USA&dates=20260506T020000Z%2F20260506T060000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-29** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260509T140000">2026-05-09 14:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-37&location=Vandenberg SFB, CA, USA&dates=20260509T140000Z%2F20260509T180000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-37** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260512T221500">2026-05-12 22:15:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | NROL-172&location=Vandenberg SFB, CA, USA&dates=20260512T221500Z%2F20260513T021500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | NROL-172** from Vandenberg SFB, CA, USA.
@@ -61,6 +54,7 @@ Pelican is a constellation of very high resolution imaging satellites, designed 
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260522T000000">2026-05-22 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 551 | Amazon Leo (LA-07)&location=Cape Canaveral SFS, FL, USA&dates=20260522T000000Z%2F20260522T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 551 | Amazon Leo (LA-07)** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260522T093000">2026-05-22 09:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Viva La StriX (StriX Launch 9)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20260522T093000Z%2F20260522T093000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Viva La StriX (StriX Launch 9)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260531T000000">2026-05-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | The Grain Goddess Provides (iQPS Launch 7)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20260531T000000Z%2F20260531T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | The Grain Goddess Provides (iQPS Launch 7)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260531T000000">2026-05-31 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 10B | Demo Flight&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20260531T000000Z%2F20260531T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 10B | Demo Flight** from Wenchang Space Launch Site, People's Republic of China.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -110,12 +104,11 @@ Pelican is a constellation of very high resolution imaging satellites, designed 
 
 ### Launch-related News 🚀
 
-- <a href="https://www.nasaspaceflight.com/2026/04/launch-preview-042726/" >🔗</a> **[NASASpaceflight]** Launch Preview: Falcon Heavy returns, Atlas V and Ariane 6 to launch Amazon Leo satellites
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260503T061725">2026-05-03 06:17:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260503T071444">2026-05-03 07:14:44 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
