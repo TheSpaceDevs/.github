@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/blue-origin-moon-lander-completes-testing-at-nasa-vacuum-chamber/" >🔗</a> **[NASA]** Blue Origin Moon Lander Completes Testing at NASA Vacuum Chamber
 - <a href="https://www.nasa.gov/image-article/hubble-spots-a-starry-spiral/" >🔗</a> **[NASA]** Hubble Spots a Starry Spiral
 - <a href="https://www.spacescout.info/2026/05/op-ed-isaacmans-actions-threaten-trust-and-stability-at-nasa/" >🔗</a> **[Space Scout]** Op-Ed: Isaacman’s Actions Threaten Trust and Stability at NASA
 - <a href="https://science.nasa.gov/missions/tess/for-nasas-tess-stellar-eclipses-shed-light-on-possible-new-worlds/" >🔗</a> **[NASA]** For NASA’s TESS, Stellar Eclipses Shed Light on Possible New Worlds
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-may-3-9-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy May 3-9, 2026
 - <a href="https://www.nasaspaceflight.com/2026/05/spacex-launch-cas500-2-45-payloads-orbit/" >🔗</a> **[NASASpaceflight]** SpaceX launches CAS500-2 and 45 other payloads to Sun-synchronous orbit
 - <a href="https://spaceflightnow.com/2026/05/02/live-coverage-spacex-to-launch-south-korean-earth-observation-satellite-44-more-payloads-on-overnight-falcon-9-rideshare-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch South Korean Earth observation satellite, plus 44 more payloads on overnight Falcon 9 rideshare mission
-- <a href="https://spacepolicyonline.com/news/ribbon-cutting-at-alabamas-redstone-arsenal-welcomes-u-s-space-command/" >🔗</a> **[SpacePolicyOnline.com]** Ribbon Cutting at Alabama’s Redstone Arsenal Welcomes U.S. Space Command
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260504T160928">2026-05-04 16:09:28 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260504T170315">2026-05-04 17:03:15 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
