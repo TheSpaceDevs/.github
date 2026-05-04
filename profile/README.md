@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/artemis/nasa-welcomes-malta-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Malta as Newest Artemis Accords Signatory
+- <a href="https://science.nasa.gov/learning-resources/science-activation/breaking-barriers-at-3rd-annual-findings-from-the-field-symposium/" >🔗</a> **[NASA]** Breaking Barriers at 3rd Annual Findings from the Field Symposium
+- <a href="https://www.nasa.gov/missions/artemis/blue-origin-moon-lander-completes-testing-at-nasa-vacuum-chamber/" >🔗</a> **[NASA]** Blue Origin Moon Lander Completes Testing at NASA Vacuum Chamber
 - <a href="https://www.nasa.gov/general/blue-origin-moon-lander-completes-testing-at-nasa-vacuum-chamber/" >🔗</a> **[NASA]** Blue Origin Moon Lander Completes Testing at NASA Vacuum Chamber
 - <a href="https://www.nasa.gov/image-article/hubble-spots-a-starry-spiral/" >🔗</a> **[NASA]** Hubble Spots a Starry Spiral
 - <a href="https://www.spacescout.info/2026/05/op-ed-isaacmans-actions-threaten-trust-and-stability-at-nasa/" >🔗</a> **[Space Scout]** Op-Ed: Isaacman’s Actions Threaten Trust and Stability at NASA
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/missions/lageos/lageos-an-earth-science-mission-built-for-enduring-precision/" >🔗</a> **[NASA]** LAGEOS: An Earth Science Mission Built for Enduring Precision
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Launch_boosts_European_Earth_monitoring_and_connectivity" >🔗</a> **[ESA]** Launch boosts European Earth monitoring and connectivity
 - <a href="https://science.nasa.gov/earth/earth-observatory/record-setting-retreat-of-hektoria-glacier/" >🔗</a> **[NASA]** Record-Setting Retreat of Hektoria Glacier
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-may-3-9-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy May 3-9, 2026
-- <a href="https://www.nasaspaceflight.com/2026/05/spacex-launch-cas500-2-45-payloads-orbit/" >🔗</a> **[NASASpaceflight]** SpaceX launches CAS500-2 and 45 other payloads to Sun-synchronous orbit
-- <a href="https://spaceflightnow.com/2026/05/02/live-coverage-spacex-to-launch-south-korean-earth-observation-satellite-44-more-payloads-on-overnight-falcon-9-rideshare-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch South Korean Earth observation satellite, plus 44 more payloads on overnight Falcon 9 rideshare mission
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260504T170315">2026-05-04 17:03:15 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260504T175911">2026-05-04 17:59:11 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
