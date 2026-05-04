@@ -90,16 +90,16 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/missions/tess/for-nasas-tess-stellar-eclipses-shed-light-on-possible-new-worlds/" >🔗</a> **[NASA]** For NASA’s TESS, Stellar Eclipses Shed Light on Possible New Worlds
+- <a href="https://www.nasa.gov/missions/lageos/lageos-an-earth-science-mission-built-for-enduring-precision/" >🔗</a> **[NASA]** LAGEOS: An Earth Science Mission Built for Enduring Precision
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Launch_boosts_European_Earth_monitoring_and_connectivity" >🔗</a> **[ESA]** Launch boosts European Earth monitoring and connectivity
+- <a href="https://science.nasa.gov/earth/earth-observatory/record-setting-retreat-of-hektoria-glacier/" >🔗</a> **[NASA]** Record-Setting Retreat of Hektoria Glacier
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-may-3-9-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy May 3-9, 2026
 - <a href="https://www.nasaspaceflight.com/2026/05/spacex-launch-cas500-2-45-payloads-orbit/" >🔗</a> **[NASASpaceflight]** SpaceX launches CAS500-2 and 45 other payloads to Sun-synchronous orbit
 - <a href="https://spaceflightnow.com/2026/05/02/live-coverage-spacex-to-launch-south-korean-earth-observation-satellite-44-more-payloads-on-overnight-falcon-9-rideshare-mission/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch South Korean Earth observation satellite, plus 44 more payloads on overnight Falcon 9 rideshare mission
 - <a href="https://spacepolicyonline.com/news/ribbon-cutting-at-alabamas-redstone-arsenal-welcomes-u-s-space-command/" >🔗</a> **[SpacePolicyOnline.com]** Ribbon Cutting at Alabama’s Redstone Arsenal Welcomes U.S. Space Command
 - <a href="https://www.nasaspaceflight.com/2026/05/spacex-mid-may-starship-flight-12-revised-trajectory/" >🔗</a> **[NASASpaceflight]** SpaceX aims for mid-May Starship Flight 12 launch with revised trajectory
 - <a href="https://spacepolicyonline.com/news/lt-gen-doug-schiess-nominated-to-succeed-space-force-cso-saltzman/" >🔗</a> **[SpacePolicyOnline.com]** Lt. Gen. Doug Schiess Nominated to Succeed Space Force CSO Saltzman
-- <a href="https://www.nasa.gov/news-release/nasa-kennedy-center-director-announces-plans-to-retire/" >🔗</a> **[NASA]** NASA Kennedy Center Director Announces Plans to Retire
-- <a href="https://www.nasa.gov/image-article/nasa-artemis-ii-crew-rings-nasdaq-closing-bell/" >🔗</a> **[NASA]** NASA Artemis II Crew Rings Nasdaq Closing Bell
-- <a href="https://www.nasa.gov/image-article/key-support-equipment-arrives-at-kennedy-for-roman-space-telescope/" >🔗</a> **[NASA]** Key Support Equipment Arrives at Kennedy for Roman Space Telescope
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260504T130218">2026-05-04 13:02:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260504T141430">2026-05-04 14:14:30 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
