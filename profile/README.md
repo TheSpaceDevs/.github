@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/05/launch-preview-050426/" >🔗</a> **[NASASpaceflight]** Launch Preview: three launches — a calm before the storm?
 - <a href="https://www.nasa.gov/missions/artemis/nasa-welcomes-malta-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Malta as Newest Artemis Accords Signatory
 - <a href="https://science.nasa.gov/learning-resources/science-activation/breaking-barriers-at-3rd-annual-findings-from-the-field-symposium/" >🔗</a> **[NASA]** Breaking Barriers at 3rd Annual Findings from the Field Symposium
 - <a href="https://www.nasa.gov/missions/artemis/blue-origin-moon-lander-completes-testing-at-nasa-vacuum-chamber/" >🔗</a> **[NASA]** Blue Origin Moon Lander Completes Testing at NASA Vacuum Chamber
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/missions/tess/for-nasas-tess-stellar-eclipses-shed-light-on-possible-new-worlds/" >🔗</a> **[NASA]** For NASA’s TESS, Stellar Eclipses Shed Light on Possible New Worlds
 - <a href="https://www.nasa.gov/missions/lageos/lageos-an-earth-science-mission-built-for-enduring-precision/" >🔗</a> **[NASA]** LAGEOS: An Earth Science Mission Built for Enduring Precision
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/Launch_boosts_European_Earth_monitoring_and_connectivity" >🔗</a> **[ESA]** Launch boosts European Earth monitoring and connectivity
-- <a href="https://science.nasa.gov/earth/earth-observatory/record-setting-retreat-of-hektoria-glacier/" >🔗</a> **[NASA]** Record-Setting Retreat of Hektoria Glacier
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260504T184345">2026-05-04 18:43:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260504T192926">2026-05-04 19:29:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
