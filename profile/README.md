@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/05/04/lockheed-martin-announces-collaboration-with-firefly-aerospace-and-seagate-for-off-shore-launches/" >🔗</a> **[Spaceflight Now]** Lockheed Martin announces collaboration with Firefly Aerospace and Seagate for off-shore launches
 - <a href="https://www.nasa.gov/missions/artemis/nasa-welcomes-ireland-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Ireland as Newest Artemis Accords Signatory
 - <a href="https://www.nasa.gov/technology/nasa-fosters-development-of-lunar-resource-seeking-technologies/" >🔗</a> **[NASA]** NASA Fosters Development of Lunar Resource-Seeking Technologies
 - <a href="https://www.nasaspaceflight.com/2026/05/launch-preview-050426/" >🔗</a> **[NASASpaceflight]** Launch Preview: three launches — a calm before the storm?
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/general/blue-origin-moon-lander-completes-testing-at-nasa-vacuum-chamber/" >🔗</a> **[NASA]** Blue Origin Moon Lander Completes Testing at NASA Vacuum Chamber
 - <a href="https://www.nasa.gov/image-article/hubble-spots-a-starry-spiral/" >🔗</a> **[NASA]** Hubble Spots a Starry Spiral
 - <a href="https://www.spacescout.info/2026/05/op-ed-isaacmans-actions-threaten-trust-and-stability-at-nasa/" >🔗</a> **[Space Scout]** Op-Ed: Isaacman’s Actions Threaten Trust and Stability at NASA
-- <a href="https://science.nasa.gov/missions/tess/for-nasas-tess-stellar-eclipses-shed-light-on-possible-new-worlds/" >🔗</a> **[NASA]** For NASA’s TESS, Stellar Eclipses Shed Light on Possible New Worlds
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260504T214701">2026-05-04 21:47:01 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260504T221757">2026-05-04 22:17:57 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
