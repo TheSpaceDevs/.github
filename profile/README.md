@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/get-involved/citizen-science/650-nasa-volunteers-have-co-authored-scientific-papers/" >🔗</a> **[NASA]** 650 NASA Volunteers Have Co-Authored Scientific Papers
 - <a href="https://www.nasaspaceflight.com/2026/05/pad-1-conversion-flight-12-nearing/" >🔗</a> **[NASASpaceflight]** Pad 1 conversion ongoing, with Flight 12 nearing
 - <a href="https://science.nasa.gov/photojournal/nasas-curiosity-rover-frees-its-drill-from-a-rock/" >🔗</a> **[NASA]** NASA’s Curiosity Rover Frees Its Drill From a Rock
 - <a href="https://www.nasa.gov/general/nasa-astronaut-to-answer-questions-from-students-in-florida/" >🔗</a> **[NASA]** NASA Astronaut to Answer Questions from Students in Florida
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/learning-resources/science-activation/new-nasa-heat-coloring-book-blends-art-science-and-cultural-perspectives/" >🔗</a> **[NASA]** New NASA HEAT Coloring Book Blends Art, Science, and Cultural Perspectives
 - <a href="https://science.nasa.gov/get-involved/citizen-science/nasa-volunteers-double-known-population-of-brown-dwarfs/" >🔗</a> **[NASA]** NASA Volunteers Double Known Population of Brown Dwarfs
 - <a href="https://spaceflightnow.com/2026/05/05/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-7/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
-- <a href="https://science.nasa.gov/earth/earth-observatory/ahuachapan-and-its-restive-neighbors/" >🔗</a> **[NASA]** Ahuachapán and Its Restive Neighbors
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260505T184022">2026-05-05 18:40:22 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260505T192856">2026-05-05 19:28:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
