@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/building-on-americas-65-year-legacy-of-human-spaceflight/" >🔗</a> **[NASA]** Building on America’s 65-Year Legacy of Human Spaceflight
+- <a href="https://science.nasa.gov/photojournal/nasas-juno-misson-captures-jupiter-moon-thebe/" >🔗</a> **[NASA]** NASA’S Juno Misson Captures Jupiter Moon Thebe
+- <a href="https://science.nasa.gov/learning-resources/science-activation/new-nasa-heat-coloring-book-blends-art-science-and-cultural-perspectives/" >🔗</a> **[NASA]** New NASA HEAT Coloring Book Blends Art, Science, and Cultural Perspectives
 - <a href="https://science.nasa.gov/get-involved/citizen-science/nasa-volunteers-double-known-population-of-brown-dwarfs/" >🔗</a> **[NASA]** NASA Volunteers Double Known Population of Brown Dwarfs
 - <a href="https://spaceflightnow.com/2026/05/05/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-7/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://science.nasa.gov/earth/earth-observatory/ahuachapan-and-its-restive-neighbors/" >🔗</a> **[NASA]** Ahuachapán and Its Restive Neighbors
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/missions/artemis/nasa-welcomes-ireland-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Ireland as Newest Artemis Accords Signatory
 - <a href="https://www.nasa.gov/technology/nasa-fosters-development-of-lunar-resource-seeking-technologies/" >🔗</a> **[NASA]** NASA Fosters Development of Lunar Resource-Seeking Technologies
 - <a href="https://www.nasaspaceflight.com/2026/05/launch-preview-050426/" >🔗</a> **[NASASpaceflight]** Launch Preview: three launches — a calm before the storm?
-- <a href="https://www.nasa.gov/missions/artemis/nasa-welcomes-malta-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Malta as Newest Artemis Accords Signatory
-- <a href="https://science.nasa.gov/learning-resources/science-activation/breaking-barriers-at-3rd-annual-findings-from-the-field-symposium/" >🔗</a> **[NASA]** Breaking Barriers at 3rd Annual Findings from the Field Symposium
-- <a href="https://www.nasa.gov/general/blue-origin-moon-lander-completes-testing-at-nasa-vacuum-chamber/" >🔗</a> **[NASA]** Blue Origin Moon Lander Completes Testing at NASA Vacuum Chamber
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260505T153123">2026-05-05 15:31:23 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260505T162841">2026-05-05 16:28:41 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
