@@ -91,6 +91,7 @@ into *a Low Earth Orbit
 
 ### Latest News ⌛
 - <a href="https://www.nasa.gov/general/nasa-astronaut-to-answer-questions-from-students-in-florida/" >🔗</a> **[NASA]** NASA Astronaut to Answer Questions from Students in Florida
+- <a href="https://science.nasa.gov/science-research/planetary-science/astrobiology/nasa-research-shows-early-life-relied-on-rare-metal/" >🔗</a> **[NASA]** NASA Research Shows Early Life Relied on Rare Metal
 - <a href="https://www.nasa.gov/image-article/building-on-americas-65-year-legacy-of-human-spaceflight/" >🔗</a> **[NASA]** Building on America’s 65-Year Legacy of Human Spaceflight
 - <a href="https://science.nasa.gov/photojournal/nasas-juno-misson-captures-jupiter-moon-thebe/" >🔗</a> **[NASA]** NASA’S Juno Misson Captures Jupiter Moon Thebe
 - <a href="https://science.nasa.gov/learning-resources/science-activation/new-nasa-heat-coloring-book-blends-art-science-and-cultural-perspectives/" >🔗</a> **[NASA]** New NASA HEAT Coloring Book Blends Art, Science, and Cultural Perspectives
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/earth/earth-observatory/ahuachapan-and-its-restive-neighbors/" >🔗</a> **[NASA]** Ahuachapán and Its Restive Neighbors
 - <a href="https://spaceflightnow.com/2026/05/04/lockheed-martin-announces-collaboration-with-firefly-aerospace-and-seagate-for-off-shore-launches/" >🔗</a> **[Spaceflight Now]** Lockheed Martin announces collaboration with Firefly Aerospace and Seagate for off-shore launches
 - <a href="https://www.nasa.gov/missions/artemis/nasa-welcomes-ireland-as-newest-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Ireland as Newest Artemis Accords Signatory
-- <a href="https://www.nasa.gov/technology/nasa-fosters-development-of-lunar-resource-seeking-technologies/" >🔗</a> **[NASA]** NASA Fosters Development of Lunar Resource-Seeking Technologies
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260505T170337">2026-05-05 17:03:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260505T175832">2026-05-05 17:58:32 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
