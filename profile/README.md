@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/photojournal/nasas-perseverance-mars-rover-surveys-crocodile-bridge/" >🔗</a> **[NASA]** NASA’s Perseverance Mars Rover Surveys ‘Crocodile Bridge’
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4879-4885-struggle-at-atacama/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4879-4885: Struggle at Atacama
 - <a href="https://science.nasa.gov/get-involved/citizen-science/650-nasa-volunteers-have-co-authored-scientific-papers/" >🔗</a> **[NASA]** 650 NASA Volunteers Have Co-Authored Scientific Papers
 - <a href="https://www.nasaspaceflight.com/2026/05/pad-1-conversion-flight-12-nearing/" >🔗</a> **[NASASpaceflight]** Pad 1 conversion ongoing, with Flight 12 nearing
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/building-on-americas-65-year-legacy-of-human-spaceflight/" >🔗</a> **[NASA]** Building on America’s 65-Year Legacy of Human Spaceflight
 - <a href="https://science.nasa.gov/photojournal/nasas-juno-misson-captures-jupiter-moon-thebe/" >🔗</a> **[NASA]** NASA’S Juno Misson Captures Jupiter Moon Thebe
 - <a href="https://science.nasa.gov/learning-resources/science-activation/new-nasa-heat-coloring-book-blends-art-science-and-cultural-perspectives/" >🔗</a> **[NASA]** New NASA HEAT Coloring Book Blends Art, Science, and Cultural Perspectives
-- <a href="https://science.nasa.gov/get-involved/citizen-science/nasa-volunteers-double-known-population-of-brown-dwarfs/" >🔗</a> **[NASA]** NASA Volunteers Double Known Population of Brown Dwarfs
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260505T203245">2026-05-05 20:32:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260505T211829">2026-05-05 21:18:29 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
