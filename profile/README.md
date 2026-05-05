@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4879-4885-struggle-at-atacama/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4879-4885: Struggle at Atacama
 - <a href="https://science.nasa.gov/get-involved/citizen-science/650-nasa-volunteers-have-co-authored-scientific-papers/" >🔗</a> **[NASA]** 650 NASA Volunteers Have Co-Authored Scientific Papers
 - <a href="https://www.nasaspaceflight.com/2026/05/pad-1-conversion-flight-12-nearing/" >🔗</a> **[NASASpaceflight]** Pad 1 conversion ongoing, with Flight 12 nearing
 - <a href="https://science.nasa.gov/photojournal/nasas-curiosity-rover-frees-its-drill-from-a-rock/" >🔗</a> **[NASA]** NASA’s Curiosity Rover Frees Its Drill From a Rock
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/photojournal/nasas-juno-misson-captures-jupiter-moon-thebe/" >🔗</a> **[NASA]** NASA’S Juno Misson Captures Jupiter Moon Thebe
 - <a href="https://science.nasa.gov/learning-resources/science-activation/new-nasa-heat-coloring-book-blends-art-science-and-cultural-perspectives/" >🔗</a> **[NASA]** New NASA HEAT Coloring Book Blends Art, Science, and Cultural Perspectives
 - <a href="https://science.nasa.gov/get-involved/citizen-science/nasa-volunteers-double-known-population-of-brown-dwarfs/" >🔗</a> **[NASA]** NASA Volunteers Double Known Population of Brown Dwarfs
-- <a href="https://spaceflightnow.com/2026/05/05/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-7/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 
 
 ### Launch-related News 🚀
@@ -110,7 +110,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260505T195911">2026-05-05 19:59:11 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260505T203245">2026-05-05 20:32:45 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
