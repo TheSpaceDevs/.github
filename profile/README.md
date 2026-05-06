@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_Hubble_find_massive_star_clusters_emerge_faster" >🔗</a> **[ESA]** Webb & Hubble find massive star clusters emerge faster
 - <a href="https://www.esa.int/About_Us/Branding_and_Partnerships/ESA_and_DON_T_NOD_team_up_on_a_journey_to_the_planet_Persephone_in_Aphelion" >🔗</a> **[ESA]** ESA and DON’T NOD team up on a journey to the planet Persephone in Aphelion
 - <a href="https://science.nasa.gov/earth/earth-observatory/melting-snow-off-shivelyuch/" >🔗</a> **[NASA]** Melting Snow Off Shivelyuch
 - <a href="https://science.nasa.gov/learning-resources/science-activation/nasa-eclips-and-globe-educators-strengthen-a-regional-stem-ecosystem-in-coastal-virginia/" >🔗</a> **[NASA]** NASA eClips and GLOBE Educators Strengthen a Regional STEM Ecosystem in Coastal Virginia
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasaspaceflight.com/2026/05/pad-1-conversion-flight-12-nearing/" >🔗</a> **[NASASpaceflight]** Pad 1 conversion ongoing, with Flight 12 nearing
 - <a href="https://science.nasa.gov/photojournal/nasas-curiosity-rover-frees-its-drill-from-a-rock/" >🔗</a> **[NASA]** NASA’s Curiosity Rover Frees Its Drill From a Rock
 - <a href="https://www.nasa.gov/general/nasa-astronaut-to-answer-questions-from-students-in-florida/" >🔗</a> **[NASA]** NASA Astronaut to Answer Questions from Students in Florida
-- <a href="https://science.nasa.gov/science-research/planetary-science/astrobiology/nasa-research-shows-early-life-relied-on-rare-metal/" >🔗</a> **[NASA]** NASA Research Shows Early Life Relied on Rare Metal
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260506T091514">2026-05-06 09:15:14 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260506T101413">2026-05-06 10:14:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
