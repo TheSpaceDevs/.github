@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/unlocking-the-mystery-of-x-ray-dots/" >🔗</a> **[NASA]** Unlocking the Mystery of X-ray Dots
 - <a href="https://www.nasa.gov/general/nasa-technology-mimics-extreme-lunar-night/" >🔗</a> **[NASA]** New NASA Technology Mimics Extreme Cold of the Lunar Night
 - <a href="https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-poised-to-transform-hunt-for-elusive-neutron-stars/" >🔗</a> **[NASA]** NASA’s Roman Poised to Transform Hunt for Elusive Neutron Stars
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Putting_the_super_into_a_supersite_for_Earth_observation" >🔗</a> **[ESA]** Putting the ‘super’ into a supersite for Earth observation
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/learning-resources/science-activation/nasa-eclips-and-globe-educators-strengthen-a-regional-stem-ecosystem-in-coastal-virginia/" >🔗</a> **[NASA]** NASA eClips and GLOBE Educators Strengthen a Regional STEM Ecosystem in Coastal Virginia
 - <a href="https://science.nasa.gov/photojournal/nasas-perseverance-mars-rover-surveys-crocodile-bridge/" >🔗</a> **[NASA]** NASA’s Perseverance Mars Rover Surveys ‘Crocodile Bridge’
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4879-4885-struggle-at-atacama/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4879-4885: Struggle at Atacama
-- <a href="https://science.nasa.gov/get-involved/citizen-science/650-nasa-volunteers-have-co-authored-scientific-papers/" >🔗</a> **[NASA]** 650 NASA Volunteers Have Co-Authored Scientific Papers
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260506T141344">2026-05-06 14:13:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260506T151816">2026-05-06 15:18:16 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
