@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-34th-station-resupply-launch-arrival/" >🔗</a> **[NASA]** NASA Sets Coverage for SpaceX 34th Station Resupply Launch, Arrival
 - <a href="https://arstechnica.com/space/2026/05/the-animated-version-of-artemis-hello-world-is-even-better-than-the-original/" >🔗</a> **[Arstechnica]** The animated version of Artemis' "Hello, world" is even better than the original
 - <a href="https://www.nasa.gov/image-article/unlocking-the-mystery-of-x-ray-dots/" >🔗</a> **[NASA]** Unlocking the Mystery of X-ray Dots
 - <a href="https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-poised-to-transform-hunt-for-elusive-neutron-stars/" >🔗</a> **[NASA]** NASA’s Roman Poised to Transform Hunt for Elusive Neutron Stars
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/About_Us/Branding_and_Partnerships/ESA_and_DON_T_NOD_team_up_on_a_journey_to_the_planet_Persephone_in_Aphelion" >🔗</a> **[ESA]** ESA and DON’T NOD team up on a journey to the planet Persephone in Aphelion
 - <a href="https://science.nasa.gov/earth/earth-observatory/melting-snow-off-shivelyuch/" >🔗</a> **[NASA]** Melting Snow Off Shivelyuch
 - <a href="https://science.nasa.gov/learning-resources/science-activation/nasa-eclips-and-globe-educators-strengthen-a-regional-stem-ecosystem-in-coastal-virginia/" >🔗</a> **[NASA]** NASA eClips and GLOBE Educators Strengthen a Regional STEM Ecosystem in Coastal Virginia
-- <a href="https://science.nasa.gov/photojournal/nasas-perseverance-mars-rover-surveys-crocodile-bridge/" >🔗</a> **[NASA]** NASA’s Perseverance Mars Rover Surveys ‘Crocodile Bridge’
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260506T165936">2026-05-06 16:59:36 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260506T173823">2026-05-06 17:38:23 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
