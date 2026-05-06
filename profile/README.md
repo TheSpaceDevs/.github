@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/ames-science-stars-of-the-month-may-2026/" >🔗</a> **[NASA]** Ames Science Stars of the Month May 2026
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasas-dryden-aeronautical-test-range-supports-flight-space-missions/" >🔗</a> **[NASA]** NASA’s Dryden Aeronautical Test Range Supports Flight, Space Missions
 - <a href="https://www.nasa.gov/missions/pandora-missions/test-article-2/" >🔗</a> **[NASA]** test article
 - <a href="https://www.nasa.gov/centers-and-facilities/wallops/nasa-wallops-to-host-public-information-session-may-13/" >🔗</a> **[NASA]** NASA Wallops to Host Public Information Session May 13
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/general/nasa-technology-mimics-extreme-lunar-night/" >🔗</a> **[NASA]** New NASA Technology Mimics Extreme Cold of the Lunar Night
 - <a href="https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-poised-to-transform-hunt-for-elusive-neutron-stars/" >🔗</a> **[NASA]** NASA’s Roman Poised to Transform Hunt for Elusive Neutron Stars
 - <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Putting_the_super_into_a_supersite_for_Earth_observation" >🔗</a> **[ESA]** Putting the ‘super’ into a supersite for Earth observation
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_Hubble_find_massive_star_clusters_emerge_faster" >🔗</a> **[ESA]** Webb & Hubble find massive star clusters emerge faster
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260506T221418">2026-05-06 22:14:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260506T224438">2026-05-06 22:44:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
