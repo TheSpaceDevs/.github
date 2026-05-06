@@ -19,27 +19,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | Starlink Group 17-29**. It is scheduled to be launched by *SpaceX*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260506T020000">2026-05-06 02:00:00 UTC</a>.  Until
-then, this pad will have been used for 265
-out of 881 launches from this location. The launch status is currently
-*Go* 🟩 . The mission type is
-*Communications* and the payload will be injected
+**Long March 7 | Tianzhou-10**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+from *<a href="https://en.wikipedia.org/wiki/Wenchang_Spacecraft_Launch_Site">201</a>, Wenchang Space Launch Site, People's Republic of China*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260509T220000">2026-05-09 22:00:00 UTC</a>.  Until
+then, this pad will have been used for 28
+out of 59 launches from this location. The launch status is currently
+*TBC* 🟨 . The mission type is
+*Resupply* and the payload will be injected
 into *a Low Earth Orbit
 (LEO)*.
 <br>
 <blockquote>
-  A batch of 24 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.
+  Ninth cargo delivery mission to the Chinese space station.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+  <a href="https://en.wikipedia.org/wiki/Long_March_7" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=34.632,-120.611" >
+  <a href="https://www.google.com/maps?q=19.618452,110.955356" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -54,6 +54,7 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260517T021100">2026-05-17 02:11:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-42&location=Vandenberg SFB, CA, USA&dates=20260517T021100Z%2F20260517T061100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-42** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260519T035200">2026-05-19 03:52:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Vega-C | Solar wind Magnetosphere Ionosphere Link Explorer (SMILE)&location=Guiana Space Centre, French Guiana&dates=20260519T035200Z%2F20260519T035200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Vega-C | Solar wind Magnetosphere Ionosphere Link Explorer (SMILE)** from Guiana Space Centre, French Guiana.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260522T000000">2026-05-22 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 551 | Amazon Leo (LA-07)&location=Cape Canaveral SFS, FL, USA&dates=20260522T000000Z%2F20260522T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 551 | Amazon Leo (LA-07)** from Cape Canaveral SFS, FL, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260522T093000">2026-05-22 09:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Viva La StriX (StriX Launch 9)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20260522T093000Z%2F20260522T093000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Viva La StriX (StriX Launch 9)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -89,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/earth-observatory/melting-snow-off-shivelyuch/" >🔗</a> **[NASA]** Melting Snow Off Shivelyuch
 - <a href="https://science.nasa.gov/learning-resources/science-activation/nasa-eclips-and-globe-educators-strengthen-a-regional-stem-ecosystem-in-coastal-virginia/" >🔗</a> **[NASA]** NASA eClips and GLOBE Educators Strengthen a Regional STEM Ecosystem in Coastal Virginia
 - <a href="https://science.nasa.gov/photojournal/nasas-perseverance-mars-rover-surveys-crocodile-bridge/" >🔗</a> **[NASA]** NASA’s Perseverance Mars Rover Surveys ‘Crocodile Bridge’
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4879-4885-struggle-at-atacama/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4879-4885: Struggle at Atacama
@@ -98,18 +100,16 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/general/nasa-astronaut-to-answer-questions-from-students-in-florida/" >🔗</a> **[NASA]** NASA Astronaut to Answer Questions from Students in Florida
 - <a href="https://science.nasa.gov/science-research/planetary-science/astrobiology/nasa-research-shows-early-life-relied-on-rare-metal/" >🔗</a> **[NASA]** NASA Research Shows Early Life Relied on Rare Metal
 - <a href="https://www.nasa.gov/image-article/building-on-americas-65-year-legacy-of-human-spaceflight/" >🔗</a> **[NASA]** Building on America’s 65-Year Legacy of Human Spaceflight
-- <a href="https://science.nasa.gov/photojournal/nasas-juno-misson-captures-jupiter-moon-thebe/" >🔗</a> **[NASA]** NASA’S Juno Misson Captures Jupiter Moon Thebe
 
 
 ### Launch-related News 🚀
 
-- <a href="https://spaceflightnow.com/2026/05/05/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-7/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB
 - <a href="https://www.nasaspaceflight.com/2026/05/launch-preview-050426/" >🔗</a> **[NASASpaceflight]** Launch Preview: three launches — a calm before the storm?
 
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260506T034242">2026-05-06 03:42:42 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260506T050147">2026-05-06 05:01:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
