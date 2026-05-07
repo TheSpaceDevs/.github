@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/05/china-cargo-crew-reusability/" >🔗</a> **[NASASpaceflight]** China prepares cargo, crew, and deep space missions, as commercial sector steps towards reusability
+- <a href="https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-paraguay-as-67th-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Paraguay as 67th Artemis Accords Signatory
 - <a href="https://science.nasa.gov/photojournal/nasa-sends-mars-helicopter-blades-beyond-mach-1/" >🔗</a> **[NASA]** NASA Sends Mars Helicopter Blades Beyond Mach 1
 - <a href="https://science.nasa.gov/photojournal/nasas-next-gen-mars-helicopter-rotors-are-moving-fast/" >🔗</a> **[NASA]** NASA’s Next-Gen Mars Helicopter Rotors Are Moving Fast
 - <a href="https://www.nasa.gov/solar-system/planets/mars/nasa-pushes-next-gen-mars-helicopter-rotor-blades-past-mach-1/" >🔗</a> **[NASA]** NASA Pushes Next-Gen Mars Helicopter Rotor Blades Past Mach 1
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/directorates/stmd/nasa-supported-small-spacecraft-launches-to-study-solar-particles/" >🔗</a> **[NASA]** NASA-Supported Small Spacecraft Launches to Study Solar Particles
 - <a href="https://science.nasa.gov/science-research/ai-foundation-model-in-orbit/" >🔗</a> **[NASA]** NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit
 - <a href="https://www.nasa.gov/humans-in-space/nasas-simulated-mars-mission-marks-200-days-inside-habitat/" >🔗</a> **[NASA]** NASA’s Simulated Mars Mission Marks 200 Days Inside Habitat
-- <a href="https://arstechnica.com/space/2026/05/former-nasa-chief-takes-helm-of-national-security-space-firm/" >🔗</a> **[Arstechnica]** Former NASA chief takes helm of national security space firm
-- <a href="https://www.nasa.gov/aeronautics/usrc-cornell-drone-safety/" >🔗</a> **[NASA]** Cornell Students Aid NASA with Drone Safety in Sky
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260507T203345">2026-05-07 20:33:45 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260507T211738">2026-05-07 21:17:38 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
