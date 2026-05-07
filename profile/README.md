@@ -53,8 +53,8 @@ into *a Low Earth Orbit
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260515T223000">2026-05-15 22:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Starship | Flight 12&location=SpaceX Starbase, TX, USA&dates=20260515T223000Z%2F20260516T004300Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Starship | Flight 12** from SpaceX Starbase, TX, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260517T021100">2026-05-17 02:11:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-42&location=Vandenberg SFB, CA, USA&dates=20260517T021100Z%2F20260517T061100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-42** from Vandenberg SFB, CA, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260519T035200">2026-05-19 03:52:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Vega-C | Solar wind Magnetosphere Ionosphere Link Explorer (SMILE)&location=Guiana Space Centre, French Guiana&dates=20260519T035200Z%2F20260519T035200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Vega-C | Solar wind Magnetosphere Ionosphere Link Explorer (SMILE)** from Guiana Space Centre, French Guiana.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260521T031500">2026-05-21 03:15:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/in.svg" /> 🟨  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=GSLV Mk II | GISAT-1A (EOS-05)&location=Satish Dhawan Space Centre, India&dates=20260521T031500Z%2F20260521T071500Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **GSLV Mk II | GISAT-1A (EOS-05)** from Satish Dhawan Space Centre, India.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260522T000000">2026-05-22 00:00:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟧  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Atlas V 551 | Amazon Leo (LA-07)&location=Cape Canaveral SFS, FL, USA&dates=20260522T000000Z%2F20260522T000000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Atlas V 551 | Amazon Leo (LA-07)** from Cape Canaveral SFS, FL, USA.
-- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260522T093000">2026-05-22 09:30:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/nz.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Electron | Viva La StriX (StriX Launch 9)&location=Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand&dates=20260522T093000Z%2F20260522T093000Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Electron | Viva La StriX (StriX Launch 9)** from Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/humans-in-space/nasas-simulated-mars-mission-marks-200-days-inside-habitat/" >🔗</a> **[NASA]** NASA’s Simulated Mars Mission Marks 200 Days Inside Habitat
 - <a href="https://arstechnica.com/space/2026/05/former-nasa-chief-takes-helm-of-national-security-space-firm/" >🔗</a> **[Arstechnica]** Former NASA chief takes helm of national security space firm
 - <a href="https://www.nasa.gov/aeronautics/usrc-cornell-drone-safety/" >🔗</a> **[NASA]** Cornell Students Aid NASA with Drone Safety in Sky
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Extended_Reality_at_ESA_opens_new_pathways_for_space_exploration" >🔗</a> **[ESA]** Extended Reality at ESA opens new pathways for space exploration
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/general/ames-science-stars-of-the-month-may-2026/" >🔗</a> **[NASA]** Ames Science Stars of the Month May 2026
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasas-dryden-aeronautical-test-range-supports-flight-space-missions/" >🔗</a> **[NASA]** NASA’s Dryden Aeronautical Test Range Supports Flight, Space Missions
 - <a href="https://www.nasa.gov/missions/pandora-missions/test-article-2/" >🔗</a> **[NASA]** test article
-- <a href="https://www.nasa.gov/centers-and-facilities/wallops/nasa-wallops-to-host-public-information-session-may-13/" >🔗</a> **[NASA]** NASA Wallops to Host Public Information Session May 13
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260507T130413">2026-05-07 13:04:13 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260507T141347">2026-05-07 14:13:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
