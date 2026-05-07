@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/a-light-in-the-dark/" >🔗</a> **[NASA]** A Light in the Dark
 - <a href="https://www.nasa.gov/directorates/stmd/nasa-supported-small-spacecraft-launches-to-study-solar-particles/" >🔗</a> **[NASA]** NASA-Supported Small Spacecraft Launches to Study Solar Particles
 - <a href="https://science.nasa.gov/science-research/ai-foundation-model-in-orbit/" >🔗</a> **[NASA]** NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit
 - <a href="https://www.nasa.gov/humans-in-space/nasas-simulated-mars-mission-marks-200-days-inside-habitat/" >🔗</a> **[NASA]** NASA’s Simulated Mars Mission Marks 200 Days Inside Habitat
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/A_beacon_of_light_in_swirls_of_dust" >🔗</a> **[ESA]** A beacon of light in swirls of dust
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/05/Sensitive_and_sturdy" >🔗</a> **[ESA]** Sensitive and sturdy
 - <a href="https://science.nasa.gov/earth/earth-observatory/a-sea-of-spinning-clouds/" >🔗</a> **[NASA]** A Sea of Spinning Clouds
-- <a href="https://www.nasa.gov/general/ames-science-stars-of-the-month-may-2026/" >🔗</a> **[NASA]** Ames Science Stars of the Month May 2026
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260507T151806">2026-05-07 15:18:06 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260507T161125">2026-05-07 16:11:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
