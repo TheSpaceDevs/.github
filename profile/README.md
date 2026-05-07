@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/earth-observatory/a-sea-of-spinning-clouds/" >🔗</a> **[NASA]** A Sea of Spinning Clouds
 - <a href="https://www.nasa.gov/general/ames-science-stars-of-the-month-may-2026/" >🔗</a> **[NASA]** Ames Science Stars of the Month May 2026
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasas-dryden-aeronautical-test-range-supports-flight-space-missions/" >🔗</a> **[NASA]** NASA’s Dryden Aeronautical Test Range Supports Flight, Space Missions
 - <a href="https://www.nasa.gov/missions/pandora-missions/test-article-2/" >🔗</a> **[NASA]** test article
@@ -97,9 +98,8 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-34th-station-resupply-launch-arrival/" >🔗</a> **[NASA]** NASA Sets Coverage for SpaceX 34th Station Resupply Launch, Arrival
 - <a href="https://arstechnica.com/space/2026/05/the-animated-version-of-artemis-hello-world-is-even-better-than-the-original/" >🔗</a> **[Arstechnica]** The animated version of Artemis' "Hello, world" is even better than the original
 - <a href="https://www.nasa.gov/image-article/unlocking-the-mystery-of-x-ray-dots/" >🔗</a> **[NASA]** Unlocking the Mystery of X-ray Dots
-- <a href="https://www.nasa.gov/general/nasa-technology-mimics-extreme-lunar-night/" >🔗</a> **[NASA]** New NASA Technology Mimics Extreme Cold of the Lunar Night
 - <a href="https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-poised-to-transform-hunt-for-elusive-neutron-stars/" >🔗</a> **[NASA]** NASA’s Roman Poised to Transform Hunt for Elusive Neutron Stars
-- <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Putting_the_super_into_a_supersite_for_Earth_observation" >🔗</a> **[ESA]** Putting the ‘super’ into a supersite for Earth observation
+- <a href="https://www.nasa.gov/general/nasa-technology-mimics-extreme-lunar-night/" >🔗</a> **[NASA]** New NASA Technology Mimics Extreme Cold of the Lunar Night
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260507T034237">2026-05-07 03:42:37 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260507T050424">2026-05-07 05:04:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
