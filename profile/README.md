@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/aeronautics/usrc-cornell-drone-safety/" >🔗</a> **[NASA]** Cornell Students Aid NASA with Drone Safety in Sky
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Extended_Reality_at_ESA_opens_new_pathways_for_space_exploration" >🔗</a> **[ESA]** Extended Reality at ESA opens new pathways for space exploration
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/A_beacon_of_light_in_swirls_of_dust" >🔗</a> **[ESA]** A beacon of light in swirls of dust
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/05/Sensitive_and_sturdy" >🔗</a> **[ESA]** Sensitive and sturdy
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/missions/pandora-missions/test-article-2/" >🔗</a> **[NASA]** test article
 - <a href="https://www.nasa.gov/centers-and-facilities/wallops/nasa-wallops-to-host-public-information-session-may-13/" >🔗</a> **[NASA]** NASA Wallops to Host Public Information Session May 13
 - <a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-34th-station-resupply-launch-arrival/" >🔗</a> **[NASA]** NASA Sets Coverage for SpaceX 34th Station Resupply Launch, Arrival
-- <a href="https://arstechnica.com/space/2026/05/the-animated-version-of-artemis-hello-world-is-even-better-than-the-original/" >🔗</a> **[Arstechnica]** The animated version of Artemis' "Hello, world" is even better than the original
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260507T091805">2026-05-07 09:18:05 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260507T101510">2026-05-07 10:15:10 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
