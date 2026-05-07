@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/solar-system/planets/mars/nasa-pushes-next-gen-mars-helicopter-rotor-blades-past-mach-1/" >🔗</a> **[NASA]** NASA Pushes Next-Gen Mars Helicopter Rotor Blades Past Mach 1
+- <a href="https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/industry-moon-lander-training-cabin-lands-at-nasa-for-artemis/" >🔗</a> **[NASA]** Industry Moon Lander Training Cabin Lands at NASA for Artemis
 - <a href="https://www.nasa.gov/image-article/a-light-in-the-dark/" >🔗</a> **[NASA]** A Light in the Dark
 - <a href="https://www.nasa.gov/directorates/stmd/nasa-supported-small-spacecraft-launches-to-study-solar-particles/" >🔗</a> **[NASA]** NASA-Supported Small Spacecraft Launches to Study Solar Particles
 - <a href="https://science.nasa.gov/science-research/ai-foundation-model-in-orbit/" >🔗</a> **[NASA]** NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/aeronautics/usrc-cornell-drone-safety/" >🔗</a> **[NASA]** Cornell Students Aid NASA with Drone Safety in Sky
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Extended_Reality_at_ESA_opens_new_pathways_for_space_exploration" >🔗</a> **[ESA]** Extended Reality at ESA opens new pathways for space exploration
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/A_beacon_of_light_in_swirls_of_dust" >🔗</a> **[ESA]** A beacon of light in swirls of dust
-- <a href="https://www.esa.int/ESA_Multimedia/Images/2026/05/Sensitive_and_sturdy" >🔗</a> **[ESA]** Sensitive and sturdy
-- <a href="https://science.nasa.gov/earth/earth-observatory/a-sea-of-spinning-clouds/" >🔗</a> **[NASA]** A Sea of Spinning Clouds
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260507T180059">2026-05-07 18:00:59 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260507T190304">2026-05-07 19:03:04 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
