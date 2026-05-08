@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/meet-the-fleet-nasa-armstrong-continues-legacy-of-flight-research/" >🔗</a> **[NASA]** Meet the Fleet: NASA Armstrong Continues Legacy of Flight Research
 - <a href="https://spaceflightnow.com/2026/05/07/rocket-lab-announces-five-launch-neutron-deal-as-it-continues-aiming-for-late-2026-debut/" >🔗</a> **[Spaceflight Now]** Rocket Lab announces five-launch Neutron deal as it continues aiming for late 2026 debut
 - <a href="https://www.nasaspaceflight.com/2026/05/china-cargo-crew-reusability/" >🔗</a> **[NASASpaceflight]** China prepares cargo, crew, and deep space missions, as commercial sector steps towards reusability
 - <a href="https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-paraguay-as-67th-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Paraguay as 67th Artemis Accords Signatory
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/industry-moon-lander-training-cabin-lands-at-nasa-for-artemis/" >🔗</a> **[NASA]** Industry Moon Lander Training Cabin Lands at NASA for Artemis
 - <a href="https://www.nasa.gov/image-article/a-light-in-the-dark/" >🔗</a> **[NASA]** A Light in the Dark
 - <a href="https://www.nasa.gov/directorates/stmd/nasa-supported-small-spacecraft-launches-to-study-solar-particles/" >🔗</a> **[NASA]** NASA-Supported Small Spacecraft Launches to Study Solar Particles
-- <a href="https://science.nasa.gov/science-research/ai-foundation-model-in-orbit/" >🔗</a> **[NASA]** NASA’s Prithvi Becomes First AI Geospatial Foundation Model In Orbit
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260507T234503">2026-05-07 23:45:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260508T002003">2026-05-08 00:20:03 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
