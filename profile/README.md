@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_04-08_May_2026" >🔗</a> **[ESA]** Week in images: 04-08 May 2026
 - <a href="https://arstechnica.com/space/2026/05/rocket-report-flying-past-peak-falcon-9-rocket-lab-revenue-soars/" >🔗</a> **[Arstechnica]** Rocket Report: Flying past peak Falcon 9; Rocket Lab revenue soars
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/05/Earth_from_Space_Greenland_s_changing_ice" >🔗</a> **[ESA]** Earth from Space: Greenland's changing ice
 - <a href="https://science.nasa.gov/earth/earth-observatory/tracy-arms-post-tsunami-landscape/" >🔗</a> **[NASA]** Tracy Arm’s Post-Tsunami Landscape
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-paraguay-as-67th-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Paraguay as 67th Artemis Accords Signatory
 - <a href="https://science.nasa.gov/photojournal/nasa-sends-mars-helicopter-blades-beyond-mach-1/" >🔗</a> **[NASA]** NASA Sends Mars Helicopter Blades Beyond Mach 1
 - <a href="https://science.nasa.gov/photojournal/nasas-next-gen-mars-helicopter-rotors-are-moving-fast/" >🔗</a> **[NASA]** NASA’s Next-Gen Mars Helicopter Rotors Are Moving Fast
-- <a href="https://www.nasa.gov/solar-system/planets/mars/nasa-pushes-next-gen-mars-helicopter-rotor-blades-past-mach-1/" >🔗</a> **[NASA]** NASA Pushes Next-Gen Mars Helicopter Rotor Blades Past Mach 1
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260508T125540">2026-05-08 12:55:40 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260508T133031">2026-05-08 13:30:31 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
