@@ -99,7 +99,7 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/photojournal/nasas-next-gen-mars-helicopter-rotors-are-moving-fast/" >🔗</a> **[NASA]** NASA’s Next-Gen Mars Helicopter Rotors Are Moving Fast
 - <a href="https://www.nasa.gov/solar-system/planets/mars/nasa-pushes-next-gen-mars-helicopter-rotor-blades-past-mach-1/" >🔗</a> **[NASA]** NASA Pushes Next-Gen Mars Helicopter Rotor Blades Past Mach 1
 - <a href="https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/industry-moon-lander-training-cabin-lands-at-nasa-for-artemis/" >🔗</a> **[NASA]** Industry Moon Lander Training Cabin Lands at NASA for Artemis
-- <a href="https://www.nasa.gov/image-article/a-light-in-the-dark/" >🔗</a> **[NASA]** A Light in the Dark
+- <a href="https://www.esa.int/Space_Safety/Planetary_Defence/ESA_and_JAXA_team_up_on_planetary_defence_Ramses_mission_to_asteroid_Apophis" >🔗</a> **[ESA]** ESA and JAXA team up on planetary defence, Ramses mission to asteroid Apophis
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260508T063050">2026-05-08 06:30:50 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260508T072936">2026-05-08 07:29:36 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
