@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/glowing-views-from-the-space-station/" >🔗</a> **[NASA]** Glowing Views from the Space Station
 - <a href="https://www.nasa.gov/news-release/nasa-names-brian-hughes-to-launch-operations-role/" >🔗</a> **[NASA]** NASA Names Brian Hughes to Launch Operations Role
 - <a href="https://www.nasa.gov/general/nasa-regenerative-fuel-cell-testing/" >🔗</a> **[NASA]** NASA Fuel Cell Tests Pave Way for Energy Storage on Moon
 - <a href="https://arstechnica.com/space/2026/05/the-us-military-just-released-a-bunch-of-uap-files-but-theres-no-there-there/" >🔗</a> **[Arstechnica]** The US military just released a bunch of UAP files, but there's no there there
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/earth/earth-observatory/tracy-arms-post-tsunami-landscape/" >🔗</a> **[NASA]** Tracy Arm’s Post-Tsunami Landscape
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/meet-the-fleet-nasa-armstrong-continues-legacy-of-flight-research/" >🔗</a> **[NASA]** Meet the Fleet: NASA Armstrong Continues Legacy of Flight Research
 - <a href="https://spaceflightnow.com/2026/05/07/rocket-lab-announces-five-launch-neutron-deal-as-it-continues-aiming-for-late-2026-debut/" >🔗</a> **[Spaceflight Now]** Rocket Lab announces five-launch Neutron deal as it continues aiming for late 2026 debut
-- <a href="https://www.nasaspaceflight.com/2026/05/china-cargo-crew-reusability/" >🔗</a> **[NASASpaceflight]** China prepares cargo, crew, and deep space missions, as commercial sector steps towards reusability
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260508T152838">2026-05-08 15:28:38 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260508T160121">2026-05-08 16:01:21 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
