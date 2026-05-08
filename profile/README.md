@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/missions/artemis/i-am-artemis-anton-kiriwas/" >🔗</a> **[NASA]** I Am Artemis: Anton Kiriwas
 - <a href="https://www.nasa.gov/directorates/stmd/nasa-industry-advance-high-performance-spaceflight-computing/" >🔗</a> **[NASA]** NASA, Industry Advance High Performance Spaceflight Computing
 - <a href="https://www.nasa.gov/image-article/glowing-views-from-the-space-station/" >🔗</a> **[NASA]** Glowing Views from the Space Station
 - <a href="https://www.nasa.gov/news-release/nasa-names-brian-hughes-to-launch-operations-role/" >🔗</a> **[NASA]** NASA Names Brian Hughes to Launch Operations Role
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://arstechnica.com/space/2026/05/rocket-report-flying-past-peak-falcon-9-rocket-lab-revenue-soars/" >🔗</a> **[Arstechnica]** Rocket Report: Flying past peak Falcon 9; Rocket Lab revenue soars
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/05/Earth_from_Space_Greenland_s_changing_ice" >🔗</a> **[ESA]** Earth from Space: Greenland's changing ice
 - <a href="https://science.nasa.gov/earth/earth-observatory/tracy-arms-post-tsunami-landscape/" >🔗</a> **[NASA]** Tracy Arm’s Post-Tsunami Landscape
-- <a href="https://www.nasa.gov/centers-and-facilities/armstrong/meet-the-fleet-nasa-armstrong-continues-legacy-of-flight-research/" >🔗</a> **[NASA]** Meet the Fleet: NASA Armstrong Continues Legacy of Flight Research
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260508T175610">2026-05-08 17:56:10 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260508T182826">2026-05-08 18:28:26 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
