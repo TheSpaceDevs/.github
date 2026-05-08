@@ -90,6 +90,8 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/nasas-spacex-34th-commercial-resupply-mission-overview/" >🔗</a> **[NASA]** NASA’s SpaceX 34th Commercial Resupply Mission Overview
+- <a href="https://www.nasaspaceflight.com/2026/05/booster-19-33-ship-39-rollout/" >🔗</a> **[NASASpaceflight]** Booster 19 completes Static Fire as Ship 39 prepares for rollout
 - <a href="https://spacepolicyonline.com/news/brian-hughes-returns-to-nasa-in-charge-of-kennedy-and-wallops-launch-operations/" >🔗</a> **[SpacePolicyOnline.com]** Brian Hughes Returns to NASA in Charge of Kennedy and Wallops Launch Operations
 - <a href="https://science.nasa.gov/photojournal/nasas-psyche-mission-captures-mars-during-gravity-assist-approach/" >🔗</a> **[NASA]** NASA’s Psyche Mission Captures Mars During Gravity Assist Approach
 - <a href="https://www.nasa.gov/missions/artemis/i-am-artemis-anton-kiriwas/" >🔗</a> **[NASA]** I Am Artemis: Anton Kiriwas
@@ -98,8 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/news-release/nasa-names-brian-hughes-to-launch-operations-role/" >🔗</a> **[NASA]** NASA Names Brian Hughes to Launch Operations Role
 - <a href="https://www.nasa.gov/general/nasa-regenerative-fuel-cell-testing/" >🔗</a> **[NASA]** NASA Fuel Cell Tests Pave Way for Energy Storage on Moon
 - <a href="https://arstechnica.com/space/2026/05/the-us-military-just-released-a-bunch-of-uap-files-but-theres-no-there-there/" >🔗</a> **[Arstechnica]** The US military just released a bunch of UAP files, but there's no there there
-- <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_04-08_May_2026" >🔗</a> **[ESA]** Week in images: 04-08 May 2026
-- <a href="https://arstechnica.com/space/2026/05/rocket-report-flying-past-peak-falcon-9-rocket-lab-revenue-soars/" >🔗</a> **[Arstechnica]** Rocket Report: Flying past peak Falcon 9; Rocket Lab revenue soars
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260508T224533">2026-05-08 22:45:33 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260508T231619">2026-05-08 23:16:19 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
