@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://arstechnica.com/space/2026/05/rocket-report-flying-past-peak-falcon-9-rocket-lab-revenue-soars/" >🔗</a> **[Arstechnica]** Rocket Report: Flying past peak Falcon 9; Rocket Lab revenue soars
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/05/Earth_from_Space_Greenland_s_changing_ice" >🔗</a> **[ESA]** Earth from Space: Greenland's changing ice
 - <a href="https://science.nasa.gov/earth/earth-observatory/tracy-arms-post-tsunami-landscape/" >🔗</a> **[NASA]** Tracy Arm’s Post-Tsunami Landscape
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/meet-the-fleet-nasa-armstrong-continues-legacy-of-flight-research/" >🔗</a> **[NASA]** Meet the Fleet: NASA Armstrong Continues Legacy of Flight Research
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://science.nasa.gov/photojournal/nasa-sends-mars-helicopter-blades-beyond-mach-1/" >🔗</a> **[NASA]** NASA Sends Mars Helicopter Blades Beyond Mach 1
 - <a href="https://science.nasa.gov/photojournal/nasas-next-gen-mars-helicopter-rotors-are-moving-fast/" >🔗</a> **[NASA]** NASA’s Next-Gen Mars Helicopter Rotors Are Moving Fast
 - <a href="https://www.nasa.gov/solar-system/planets/mars/nasa-pushes-next-gen-mars-helicopter-rotor-blades-past-mach-1/" >🔗</a> **[NASA]** NASA Pushes Next-Gen Mars Helicopter Rotor Blades Past Mach 1
-- <a href="https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/industry-moon-lander-training-cabin-lands-at-nasa-for-artemis/" >🔗</a> **[NASA]** Industry Moon Lander Training Cabin Lands at NASA for Artemis
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260508T105644">2026-05-08 10:56:44 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260508T113124">2026-05-08 11:31:24 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
