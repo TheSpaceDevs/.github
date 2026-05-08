@@ -90,6 +90,9 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-names-brian-hughes-to-launch-operations-role/" >🔗</a> **[NASA]** NASA Names Brian Hughes to Launch Operations Role
+- <a href="https://www.nasa.gov/general/nasa-regenerative-fuel-cell-testing/" >🔗</a> **[NASA]** NASA Fuel Cell Tests Pave Way for Energy Storage on Moon
+- <a href="https://arstechnica.com/space/2026/05/the-us-military-just-released-a-bunch-of-uap-files-but-theres-no-there-there/" >🔗</a> **[Arstechnica]** The US military just released a bunch of UAP files, but there's no there there
 - <a href="https://www.esa.int/About_Us/Week_in_images/Week_in_images_04-08_May_2026" >🔗</a> **[ESA]** Week in images: 04-08 May 2026
 - <a href="https://arstechnica.com/space/2026/05/rocket-report-flying-past-peak-falcon-9-rocket-lab-revenue-soars/" >🔗</a> **[Arstechnica]** Rocket Report: Flying past peak Falcon 9; Rocket Lab revenue soars
 - <a href="https://www.esa.int/ESA_Multimedia/Images/2026/05/Earth_from_Space_Greenland_s_changing_ice" >🔗</a> **[ESA]** Earth from Space: Greenland's changing ice
@@ -97,9 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/centers-and-facilities/armstrong/meet-the-fleet-nasa-armstrong-continues-legacy-of-flight-research/" >🔗</a> **[NASA]** Meet the Fleet: NASA Armstrong Continues Legacy of Flight Research
 - <a href="https://spaceflightnow.com/2026/05/07/rocket-lab-announces-five-launch-neutron-deal-as-it-continues-aiming-for-late-2026-debut/" >🔗</a> **[Spaceflight Now]** Rocket Lab announces five-launch Neutron deal as it continues aiming for late 2026 debut
 - <a href="https://www.nasaspaceflight.com/2026/05/china-cargo-crew-reusability/" >🔗</a> **[NASASpaceflight]** China prepares cargo, crew, and deep space missions, as commercial sector steps towards reusability
-- <a href="https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-paraguay-as-67th-artemis-accords-signatory/" >🔗</a> **[NASA]** NASA Welcomes Paraguay as 67th Artemis Accords Signatory
-- <a href="https://science.nasa.gov/photojournal/nasa-sends-mars-helicopter-blades-beyond-mach-1/" >🔗</a> **[NASA]** NASA Sends Mars Helicopter Blades Beyond Mach 1
-- <a href="https://science.nasa.gov/photojournal/nasas-next-gen-mars-helicopter-rotors-are-moving-fast/" >🔗</a> **[NASA]** NASA’s Next-Gen Mars Helicopter Rotors Are Moving Fast
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260508T133031">2026-05-08 13:30:31 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260508T143153">2026-05-08 14:31:53 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
