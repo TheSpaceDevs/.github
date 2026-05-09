@@ -90,6 +90,7 @@ into *a Low Earth Orbit
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/05/08/rescue-mission-for-nasas-500-million-space-telescope-passes-key-testing-milestone/" >🔗</a> **[Spaceflight Now]** Rescue mission for NASA’s $500 million space telescope passes key testing milestone
 - <a href="https://www.nasa.gov/general/nasas-spacex-34th-commercial-resupply-mission-overview/" >🔗</a> **[NASA]** NASA’s SpaceX 34th Commercial Resupply Mission Overview
 - <a href="https://www.nasaspaceflight.com/2026/05/booster-19-33-ship-39-rollout/" >🔗</a> **[NASASpaceflight]** Booster 19 completes Static Fire as Ship 39 prepares for rollout
 - <a href="https://spacepolicyonline.com/news/brian-hughes-returns-to-nasa-in-charge-of-kennedy-and-wallops-launch-operations/" >🔗</a> **[SpacePolicyOnline.com]** Brian Hughes Returns to NASA in Charge of Kennedy and Wallops Launch Operations
@@ -99,7 +100,6 @@ into *a Low Earth Orbit
 - <a href="https://www.nasa.gov/image-article/glowing-views-from-the-space-station/" >🔗</a> **[NASA]** Glowing Views from the Space Station
 - <a href="https://www.nasa.gov/news-release/nasa-names-brian-hughes-to-launch-operations-role/" >🔗</a> **[NASA]** NASA Names Brian Hughes to Launch Operations Role
 - <a href="https://www.nasa.gov/general/nasa-regenerative-fuel-cell-testing/" >🔗</a> **[NASA]** NASA Fuel Cell Tests Pave Way for Energy Storage on Moon
-- <a href="https://arstechnica.com/space/2026/05/the-us-military-just-released-a-bunch-of-uap-files-but-theres-no-there-there/" >🔗</a> **[Arstechnica]** The US military just released a bunch of UAP files, but there's no there there
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *a Low Earth Orbit
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260508T234527">2026-05-08 23:45:27 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260509T002052">2026-05-09 00:20:52 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
