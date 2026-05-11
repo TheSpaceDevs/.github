@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/05/11/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch intelligence-gathering satellites for the National Reconnaissance Office
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-annual-lunabotics-robotics-competition/" >🔗</a> **[NASA]** NASA Invites Media to Annual Lunabotics Robotics Competition
 - <a href="https://science.nasa.gov/science-research/earth-science/joint-earth-observation-mission-quality-assessment-framework-optical-guidelines-documents-released/" >🔗</a> **[NASA]** Joint Earth Observation Mission Quality Assessment Framework – Optical Guidelines Documents Released
 - <a href="https://science.nasa.gov/missions/roman-space-telescope/hubble-survey-sets-up-romans-future-look-near-milky-ways-center/" >🔗</a> **[NASA]** Hubble Survey Sets Up Roman’s Future Look Near Milky Way’s Center
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://spaceflightnow.com/2026/05/08/rescue-mission-for-nasas-500-million-space-telescope-passes-key-testing-milestone/" >🔗</a> **[Spaceflight Now]** Rescue mission for NASA’s $500 million space telescope passes key testing milestone
 - <a href="https://www.nasa.gov/general/nasas-spacex-34th-commercial-resupply-mission-overview/" >🔗</a> **[NASA]** NASA’s SpaceX 34th Commercial Resupply Mission Overview
 - <a href="https://www.nasaspaceflight.com/2026/05/booster-19-33-ship-39-rollout/" >🔗</a> **[NASASpaceflight]** Booster 19 completes Static Fire as Ship 39 prepares for rollout
-- <a href="https://spacepolicyonline.com/news/brian-hughes-returns-to-nasa-in-charge-of-kennedy-and-wallops-launch-operations/" >🔗</a> **[SpacePolicyOnline.com]** Brian Hughes Returns to NASA in Charge of Kennedy and Wallops Launch Operations
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260511T193017">2026-05-11 19:30:17 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260511T200848">2026-05-11 20:08:48 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
