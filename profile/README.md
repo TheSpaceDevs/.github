@@ -89,6 +89,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/earth-observatory/may-2026-satellite-puzzler/" >🔗</a> **[NASA]** May 2026 Satellite Puzzler
 - <a href="https://www.nasaspaceflight.com/2026/05/launch-preview-051126/" >🔗</a> **[NASASpaceflight]** Launch Preview: SpaceX and Chinese missions fill busy launch manifest
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/nicholas-houghton-engineering-crew-safety-for-artemis-ii/" >🔗</a> **[NASA]** Nicholas Houghton: Engineering Crew Safety for NASA’s Artemis Missions
 - <a href="https://spaceflightnow.com/2026/05/11/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office/" >🔗</a> **[Spaceflight Now]** Live coverage: SpaceX to launch intelligence-gathering satellites for the National Reconnaissance Office
@@ -98,7 +99,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/image-article/nasa-astronaut-jessica-meir-2/" >🔗</a> **[NASA]** NASA Astronaut Jessica Meir
 - <a href="https://arstechnica.com/space/2026/05/with-skyroot-at-the-head-of-the-class-indias-private-space-industry-seeks-to-take-off/" >🔗</a> **[Arstechnica]** With Skyroot at the head of the class, India's private space industry seeks to take off
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-may-9-16-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy May 9-16, 2026
-- <a href="https://spaceflightnow.com/2026/05/08/rescue-mission-for-nasas-500-million-space-telescope-passes-key-testing-milestone/" >🔗</a> **[Spaceflight Now]** Rescue mission for NASA’s $500 million space telescope passes key testing milestone
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260511T231641">2026-05-11 23:16:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260511T234540">2026-05-11 23:45:40 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
