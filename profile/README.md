@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-annual-lunabotics-robotics-competition/" >🔗</a> **[NASA]** NASA Invites Media to Annual Lunabotics Robotics Competition
+- <a href="https://science.nasa.gov/science-research/earth-science/joint-earth-observation-mission-quality-assessment-framework-optical-guidelines-documents-released/" >🔗</a> **[NASA]** Joint Earth Observation Mission Quality Assessment Framework – Optical Guidelines Documents Released
 - <a href="https://science.nasa.gov/missions/roman-space-telescope/hubble-survey-sets-up-romans-future-look-near-milky-ways-center/" >🔗</a> **[NASA]** Hubble Survey Sets Up Roman’s Future Look Near Milky Way’s Center
 - <a href="https://www.nasa.gov/image-article/nasa-astronaut-jessica-meir-2/" >🔗</a> **[NASA]** NASA Astronaut Jessica Meir
 - <a href="https://arstechnica.com/space/2026/05/with-skyroot-at-the-head-of-the-class-indias-private-space-industry-seeks-to-take-off/" >🔗</a> **[Arstechnica]** With Skyroot at the head of the class, India's private space industry seeks to take off
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/general/nasas-spacex-34th-commercial-resupply-mission-overview/" >🔗</a> **[NASA]** NASA’s SpaceX 34th Commercial Resupply Mission Overview
 - <a href="https://www.nasaspaceflight.com/2026/05/booster-19-33-ship-39-rollout/" >🔗</a> **[NASASpaceflight]** Booster 19 completes Static Fire as Ship 39 prepares for rollout
 - <a href="https://spacepolicyonline.com/news/brian-hughes-returns-to-nasa-in-charge-of-kennedy-and-wallops-launch-operations/" >🔗</a> **[SpacePolicyOnline.com]** Brian Hughes Returns to NASA in Charge of Kennedy and Wallops Launch Operations
-- <a href="https://science.nasa.gov/photojournal/nasas-psyche-mission-captures-mars-during-gravity-assist-approach/" >🔗</a> **[NASA]** NASA’s Psyche Mission Captures Mars During Gravity Assist Approach
-- <a href="https://www.nasa.gov/missions/artemis/i-am-artemis-anton-kiriwas/" >🔗</a> **[NASA]** I Am Artemis: Anton Kiriwas
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260511T183218">2026-05-11 18:32:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260511T193017">2026-05-11 19:30:17 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
