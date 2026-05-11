@@ -90,6 +90,9 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/missions/roman-space-telescope/hubble-survey-sets-up-romans-future-look-near-milky-ways-center/" >🔗</a> **[NASA]** Hubble Survey Sets Up Roman’s Future Look Near Milky Way’s Center
+- <a href="https://www.nasa.gov/image-article/nasa-astronaut-jessica-meir-2/" >🔗</a> **[NASA]** NASA Astronaut Jessica Meir
+- <a href="https://arstechnica.com/space/2026/05/with-skyroot-at-the-head-of-the-class-indias-private-space-industry-seeks-to-take-off/" >🔗</a> **[Arstechnica]** With Skyroot at the head of the class, India's private space industry seeks to take off
 - <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-may-9-16-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy May 9-16, 2026
 - <a href="https://spaceflightnow.com/2026/05/08/rescue-mission-for-nasas-500-million-space-telescope-passes-key-testing-milestone/" >🔗</a> **[Spaceflight Now]** Rescue mission for NASA’s $500 million space telescope passes key testing milestone
 - <a href="https://www.nasa.gov/general/nasas-spacex-34th-commercial-resupply-mission-overview/" >🔗</a> **[NASA]** NASA’s SpaceX 34th Commercial Resupply Mission Overview
@@ -97,9 +100,6 @@ into *an Unknown
 - <a href="https://spacepolicyonline.com/news/brian-hughes-returns-to-nasa-in-charge-of-kennedy-and-wallops-launch-operations/" >🔗</a> **[SpacePolicyOnline.com]** Brian Hughes Returns to NASA in Charge of Kennedy and Wallops Launch Operations
 - <a href="https://science.nasa.gov/photojournal/nasas-psyche-mission-captures-mars-during-gravity-assist-approach/" >🔗</a> **[NASA]** NASA’s Psyche Mission Captures Mars During Gravity Assist Approach
 - <a href="https://www.nasa.gov/missions/artemis/i-am-artemis-anton-kiriwas/" >🔗</a> **[NASA]** I Am Artemis: Anton Kiriwas
-- <a href="https://www.nasa.gov/directorates/stmd/nasa-industry-advance-high-performance-spaceflight-computing/" >🔗</a> **[NASA]** NASA, Industry Advance High Performance Spaceflight Computing
-- <a href="https://www.nasa.gov/image-article/glowing-views-from-the-space-station/" >🔗</a> **[NASA]** Glowing Views from the Space Station
-- <a href="https://www.nasa.gov/news-release/nasa-names-brian-hughes-to-launch-operations-role/" >🔗</a> **[NASA]** NASA Names Brian Hughes to Launch Operations Role
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260511T132548">2026-05-11 13:25:48 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260511T141643">2026-05-11 14:16:43 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
