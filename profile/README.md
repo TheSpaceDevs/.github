@@ -89,6 +89,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/photojournal/nasas-curiosity-takes-close-look-at-rock-that-got-stuck-on-drill/" >🔗</a> **[NASA]** NASA’s Curiosity Takes Close Look at Rock That Got Stuck on Drill
 - <a href="https://science.nasa.gov/earth/earth-observatory/may-2026-satellite-puzzler/" >🔗</a> **[NASA]** May 2026 Satellite Puzzler
 - <a href="https://www.nasaspaceflight.com/2026/05/launch-preview-051126/" >🔗</a> **[NASASpaceflight]** Launch Preview: SpaceX and Chinese missions fill busy launch manifest
 - <a href="https://www.nasa.gov/centers-and-facilities/johnson/nicholas-houghton-engineering-crew-safety-for-artemis-ii/" >🔗</a> **[NASA]** Nicholas Houghton: Engineering Crew Safety for NASA’s Artemis Missions
@@ -98,7 +99,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/missions/roman-space-telescope/hubble-survey-sets-up-romans-future-look-near-milky-ways-center/" >🔗</a> **[NASA]** Hubble Survey Sets Up Roman’s Future Look Near Milky Way’s Center
 - <a href="https://www.nasa.gov/image-article/nasa-astronaut-jessica-meir-2/" >🔗</a> **[NASA]** NASA Astronaut Jessica Meir
 - <a href="https://arstechnica.com/space/2026/05/with-skyroot-at-the-head-of-the-class-indias-private-space-industry-seeks-to-take-off/" >🔗</a> **[Arstechnica]** With Skyroot at the head of the class, India's private space industry seeks to take off
-- <a href="https://spacepolicyonline.com/news/whats-happening-in-space-policy-may-9-16-2026/" >🔗</a> **[SpacePolicyOnline.com]** What’s Happening in Space Policy May 9-16, 2026
 
 
 ### Launch-related News 🚀
@@ -107,7 +107,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260512T002154">2026-05-12 00:21:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260512T011125">2026-05-12 01:11:25 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
