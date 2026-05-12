@@ -92,6 +92,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/general/nasa-langley-engineer-attends-faa-training/" >🔗</a> **[NASA]** NASA Langley Engineer Attends FAA Training
 - <a href="https://www.nasa.gov/image-article/perseverance-stuns-in-new-selfie/" >🔗</a> **[NASA]** Perseverance Stuns in New Selfie
 - <a href="https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-snaps-selfie-in-mars-western-frontier/" >🔗</a> **[NASA]** NASA’s Perseverance Rover Snaps Selfie in Mars’ Western Frontier
 - <a href="https://science.nasa.gov/photojournal/nasas-perseverance-captures-panorama-at-arbot/" >🔗</a> **[NASA]** NASA’s Perseverance Captures Panorama at ‘Arbot’
@@ -101,7 +102,6 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 - <a href="https://spaceflightnow.com/2026/05/12/live-coverage-nasa-spacex-to-launch-34th-cargo-dragon-mission-to-the-space-station/" >🔗</a> **[Spaceflight Now]** Live coverage: NASA, SpaceX to launch 34th Cargo Dragon mission to the space station
 - <a href="https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/new-ultra-black-coating-could-enable-the-search-for-life-on-exoplanets/" >🔗</a> **[NASA]** New Ultra-Black Coating Could Enable the Search for Life on Exoplanets
 - <a href="https://www.esa.int/ESA_Multimedia/Videos/2026/04/Smile_s_journey_from_launch_to_orbit" >🔗</a> **[ESA]** Smile's journey from launch to orbit
-- <a href="https://science.nasa.gov/earth/earth-observatory/australias-cloudy-beauty/" >🔗</a> **[NASA]** Australia’s Cloudy Beauty
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260512T181019">2026-05-12 18:10:19 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260512T190656">2026-05-12 19:06:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
