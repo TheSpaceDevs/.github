@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/earth-observatory/australias-cloudy-beauty/" >🔗</a> **[NASA]** Australia’s Cloudy Beauty
 - <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4886-4892-ingenuity-and-perseverance-curiosity-style/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4886-4892: Ingenuity and Perseverance, Curiosity Style
 - <a href="https://science.nasa.gov/photojournal/nasas-curiosity-takes-close-look-at-rock-that-got-stuck-on-drill/" >🔗</a> **[NASA]** NASA’s Curiosity Takes Close Look at Rock That Got Stuck on Drill
 - <a href="https://science.nasa.gov/earth/earth-observatory/may-2026-satellite-puzzler/" >🔗</a> **[NASA]** May 2026 Satellite Puzzler
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/news-release/nasa-invites-media-to-annual-lunabotics-robotics-competition/" >🔗</a> **[NASA]** NASA Invites Media to Annual Lunabotics Robotics Competition
 - <a href="https://science.nasa.gov/science-research/earth-science/joint-earth-observation-mission-quality-assessment-framework-optical-guidelines-documents-released/" >🔗</a> **[NASA]** Joint Earth Observation Mission Quality Assessment Framework – Optical Guidelines Documents Released
 - <a href="https://science.nasa.gov/missions/roman-space-telescope/hubble-survey-sets-up-romans-future-look-near-milky-ways-center/" >🔗</a> **[NASA]** Hubble Survey Sets Up Roman’s Future Look Near Milky Way’s Center
-- <a href="https://www.nasa.gov/image-article/nasa-astronaut-jessica-meir-2/" >🔗</a> **[NASA]** NASA Astronaut Jessica Meir
 
 
 ### Launch-related News 🚀
@@ -108,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260512T034252">2026-05-12 03:42:52 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260512T050913">2026-05-12 05:09:13 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
