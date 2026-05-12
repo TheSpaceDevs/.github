@@ -19,27 +19,27 @@ for free.
 ### Next Launch ⌛
 The next space launch, retrieved from our
 <a href="https://thespacedevs.com/llapi">Launch Library 2 API</a>, is
-**Falcon 9 Block 5 | NROL-172**. It is scheduled to be launched by *SpaceX*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-from *<a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Launch_Complex_4#SLC-4E">Space Launch Complex 4E</a>, Vandenberg SFB, CA, USA*
-<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" />
-at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260511T222800">2026-05-11 22:28:00 UTC</a>.  Until
-then, this pad will have been used for 266
-out of 882 launches from this location. The launch status is currently
+**Long March 6A | Unknown Payload**. It is scheduled to be launched by *China Aerospace Science and Technology Corporation*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+from *<a href="None">Launch Complex 9A</a>, Taiyuan Satellite Launch Center, People's Republic of China*
+<img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
+at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260512T114900">2026-05-12 11:49:00 UTC</a>.  Until
+then, this pad will have been used for 23
+out of 154 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
-*Government/Top Secret* and the payload will be injected
+*Unknown* and the payload will be injected
 into *an Unknown
 (N/A)*.
 <br>
 <blockquote>
-  Thirteenth batch of satellites for a reconnaissance satellite constellation built by SpaceX and Northrop Grumman for the National Reconnaissance Office to provide imaging and other reconnaissance capabilities.
+  Details TBD.
 </blockquote>
 
 <p float="left" align="center">
-  <a href="https://en.wikipedia.org/wiki/Falcon_9" >
+  <a href="https://en.wikipedia.org/wiki/Long_March_6" >
     <img alt="launch-image" width="49%" src="/profile/cache/launch_image.png" />
   </a>
-  <a href="https://www.google.com/maps?q=34.632,-120.611" >
+  <a href="https://www.google.com/maps?q=38.8583,111.5802" >
     <img alt="pad-location" width="49%" src="/profile/cache/new_pad_image.png"  />
   </a>
 </p>
@@ -54,6 +54,7 @@ into *an Unknown
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260517T125000">2026-05-17 12:50:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Globalstar 2-R Mission 1 (x 9)&location=Cape Canaveral SFS, FL, USA&dates=20260517T125000Z%2F20260517T130400Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Globalstar 2-R Mission 1 (x 9)** from Cape Canaveral SFS, FL, USA.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260517T143400">2026-05-17 14:34:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Long March 8 | Unknown Payload&location=Wenchang Space Launch Site, People&#x27;s Republic of China&dates=20260517T143400Z%2F20260517T145700Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Long March 8 | Unknown Payload** from Wenchang Space Launch Site, People's Republic of China.
 - \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260519T021100">2026-05-19 02:11:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Falcon 9 Block 5 | Starlink Group 17-42&location=Vandenberg SFB, CA, USA&dates=20260519T021100Z%2F20260519T061100Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Falcon 9 Block 5 | Starlink Group 17-42** from Vandenberg SFB, CA, USA.
+- \[<a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260519T035200">2026-05-19 03:52:00 UTC</a>\]  <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/fr.svg" /> 🟩  <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Vega-C | Solar wind Magnetosphere Ionosphere Link Explorer (SMILE)&location=Guiana Space Centre, French Guiana&dates=20260519T035200Z%2F20260519T035200Z"><img border="0" width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a> **Vega-C | Solar wind Magnetosphere Ionosphere Link Explorer (SMILE)** from Guiana Space Centre, French Guiana.
 
 
 ### Launch Statuses 🟩🟨🟧
@@ -89,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/blog/curiosity-blog-sols-4886-4892-ingenuity-and-perseverance-curiosity-style/" >🔗</a> **[NASA]** Curiosity Blog, Sols 4886-4892: Ingenuity and Perseverance, Curiosity Style
 - <a href="https://science.nasa.gov/photojournal/nasas-curiosity-takes-close-look-at-rock-that-got-stuck-on-drill/" >🔗</a> **[NASA]** NASA’s Curiosity Takes Close Look at Rock That Got Stuck on Drill
 - <a href="https://science.nasa.gov/earth/earth-observatory/may-2026-satellite-puzzler/" >🔗</a> **[NASA]** May 2026 Satellite Puzzler
 - <a href="https://www.nasaspaceflight.com/2026/05/launch-preview-051126/" >🔗</a> **[NASASpaceflight]** Launch Preview: SpaceX and Chinese missions fill busy launch manifest
@@ -98,7 +100,6 @@ into *an Unknown
 - <a href="https://science.nasa.gov/science-research/earth-science/joint-earth-observation-mission-quality-assessment-framework-optical-guidelines-documents-released/" >🔗</a> **[NASA]** Joint Earth Observation Mission Quality Assessment Framework – Optical Guidelines Documents Released
 - <a href="https://science.nasa.gov/missions/roman-space-telescope/hubble-survey-sets-up-romans-future-look-near-milky-ways-center/" >🔗</a> **[NASA]** Hubble Survey Sets Up Roman’s Future Look Near Milky Way’s Center
 - <a href="https://www.nasa.gov/image-article/nasa-astronaut-jessica-meir-2/" >🔗</a> **[NASA]** NASA Astronaut Jessica Meir
-- <a href="https://arstechnica.com/space/2026/05/with-skyroot-at-the-head-of-the-class-indias-private-space-industry-seeks-to-take-off/" >🔗</a> **[Arstechnica]** With Skyroot at the head of the class, India's private space industry seeks to take off
 
 
 ### Launch-related News 🚀
@@ -107,7 +108,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260512T011125">2026-05-12 01:11:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260512T021542">2026-05-12 02:15:42 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
