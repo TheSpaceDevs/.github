@@ -92,6 +92,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasaspaceflight.com/2026/05/spacex-starship-pad-first-launch/" >🔗</a> **[NASASpaceflight]** SpaceX’s new Starship pad readies for first launch
 - <a href="https://www.nasa.gov/missions/artemis/artemis-3/nasa-outlines-preliminary-artemis-iii-mission-plans/" >🔗</a> **[NASA]** NASA Outlines Preliminary Artemis III Mission Plans
 - <a href="https://www.nasa.gov/missions/station/iss-research/studying-pneumonia-in-space-for-heart-health-on-earth/" >🔗</a> **[NASA]** Studying Pneumonia in Space for Heart Health on Earth
 - <a href="https://science.nasa.gov/missions/tess/nasas-planet-hunting-tess-reveals-dazzling-night-sky/" >🔗</a> **[NASA]** NASA’s Planet-Hunting TESS Reveals Dazzling Night Sky
@@ -101,7 +102,6 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 - <a href="https://science.nasa.gov/earth/earth-observatory/americas-emerald-isle/" >🔗</a> **[NASA]** America’s Emerald Isle
 - <a href="https://spacepolicyonline.com/news/cbo-estimates-golden-dome-at-1-2-trillion-space-based-interceptors-biggest-cost/" >🔗</a> **[SpacePolicyOnline.com]** CBO Estimates Golden Dome at $1.2 Trillion, Space-Based Interceptors Biggest Cost
 - <a href="https://spaceflightnow.com/2026/05/12/spacex-targets-may-19-for-debut-of-starship-super-heavy-version-3-launch-pad-2/" >🔗</a> **[Spaceflight Now]** SpaceX targets May 19 for debut of Starship Version 3, Launch Pad 2
-- <a href="https://www.nasaspaceflight.com/2026/05/crs-34-launch/" >🔗</a> **[NASASpaceflight]** SpaceX CRS-34 resupply mission to ISS delayed 24 hours
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260513T171425">2026-05-13 17:14:25 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260513T180849">2026-05-13 18:08:49 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
