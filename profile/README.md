@@ -93,6 +93,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 ### Latest News ⌛
 - <a href="https://arstechnica.com/space/2026/05/varda-signs-deal-with-major-us-pharma-firm-to-develop-drugs-in-space/" >🔗</a> **[Arstechnica]** Varda signs deal with major US pharma firm to develop drugs in space
+- <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/The_young_minds_space-proofing_ESA_s_missions" >🔗</a> **[ESA]** The young minds space-proofing ESA’s missions
 - <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Waterworn_chaos_on_Mars" >🔗</a> **[ESA]** Waterworn chaos on Mars
 - <a href="https://science.nasa.gov/earth/earth-observatory/americas-emerald-isle/" >🔗</a> **[NASA]** America’s Emerald Isle
 - <a href="https://spacepolicyonline.com/news/cbo-estimates-golden-dome-at-1-2-trillion-space-based-interceptors-biggest-cost/" >🔗</a> **[SpacePolicyOnline.com]** CBO Estimates Golden Dome at $1.2 Trillion, Space-Based Interceptors Biggest Cost
@@ -101,7 +102,6 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 - <a href="https://www.nasa.gov/general/nasa-langley-engineer-attends-faa-training/" >🔗</a> **[NASA]** NASA Langley Engineer Attends FAA Training
 - <a href="https://www.nasa.gov/image-article/perseverance-stuns-in-new-selfie/" >🔗</a> **[NASA]** Perseverance Stuns in New Selfie
 - <a href="https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-snaps-selfie-in-mars-western-frontier/" >🔗</a> **[NASA]** NASA’s Perseverance Rover Snaps Selfie in Mars’ Western Frontier
-- <a href="https://science.nasa.gov/photojournal/nasas-perseverance-captures-panorama-at-arbot/" >🔗</a> **[NASA]** NASA’s Perseverance Captures Panorama at ‘Arbot’
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260513T101508">2026-05-13 10:15:08 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260513T111656">2026-05-13 11:16:56 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
