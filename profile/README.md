@@ -106,6 +106,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 ### Launch-related News 🚀
 
+- <a href="https://www.nasaspaceflight.com/2026/05/crs-34-launch/" >🔗</a> **[NASASpaceflight]** SpaceX CRS-34 resupply mission to ISS delayed 24 hours
 - <a href="https://spaceflightnow.com/2026/05/12/live-coverage-nasa-spacex-to-launch-34th-cargo-dragon-mission-to-the-space-station/" >🔗</a> **[Spaceflight Now]** Live coverage: NASA, SpaceX to launch 34th Cargo Dragon mission to the space station
 - <a href="https://www.nasaspaceflight.com/2026/05/launch-preview-051126/" >🔗</a> **[NASASpaceflight]** Launch Preview: SpaceX and Chinese missions fill busy launch manifest
 - <a href="https://www.nasa.gov/general/nasas-spacex-34th-commercial-resupply-mission-overview/" >🔗</a> **[NASA]** NASA’s SpaceX 34th Commercial Resupply Mission Overview
@@ -117,7 +118,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260513T051343">2026-05-13 05:13:43 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260513T063405">2026-05-13 06:34:05 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
