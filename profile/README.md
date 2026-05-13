@@ -98,10 +98,10 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 - <a href="https://www.nasaspaceflight.com/2026/05/spacex-starship-pad-first-launch/" >🔗</a> **[NASASpaceflight]** SpaceX’s new Starship pad readies for first launch
 - <a href="https://www.nasa.gov/missions/artemis/artemis-3/nasa-outlines-preliminary-artemis-iii-mission-plans/" >🔗</a> **[NASA]** NASA Outlines Preliminary Artemis III Mission Plans
 - <a href="https://www.nasa.gov/missions/station/iss-research/studying-pneumonia-in-space-for-heart-health-on-earth/" >🔗</a> **[NASA]** Studying Pneumonia in Space for Heart Health on Earth
+- <a href="https://europeanspaceflight.com/thales-alenia-space-ship-exomars-structural-models-to-france-for-testing/" >🔗</a> **[European Spaceflight]** Thales Alenia Space Ship ExoMars Structural Models to France for Testing
 - <a href="https://science.nasa.gov/missions/tess/nasas-planet-hunting-tess-reveals-dazzling-night-sky/" >🔗</a> **[NASA]** NASA’s Planet-Hunting TESS Reveals Dazzling Night Sky
 - <a href="https://arstechnica.com/space/2026/05/varda-signs-deal-with-major-us-pharma-firm-to-develop-drugs-in-space/" >🔗</a> **[Arstechnica]** Varda signs deal with major US pharma firm to develop drugs in space
 - <a href="https://www.esa.int/Enabling_Support/Space_Engineering_Technology/The_young_minds_space-proofing_ESA_s_missions" >🔗</a> **[ESA]** The young minds space-proofing ESA’s missions
-- <a href="https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Waterworn_chaos_on_Mars" >🔗</a> **[ESA]** Waterworn chaos on Mars
 
 
 ### Launch-related News 🚀
@@ -118,7 +118,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260513T200718">2026-05-13 20:07:18 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260513T210051">2026-05-13 21:00:51 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
