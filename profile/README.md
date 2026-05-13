@@ -92,6 +92,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spacepolicyonline.com/news/cbo-estimates-golden-dome-at-1-2-trillion-space-based-interceptors-biggest-cost/" >🔗</a> **[SpacePolicyOnline.com]** CBO Estimates Golden Dome at $1.2 Trillion, Space-Based Interceptors Biggest Cost
 - <a href="https://spaceflightnow.com/2026/05/12/spacex-targets-may-19-for-debut-of-starship-super-heavy-version-3-launch-pad-2/" >🔗</a> **[Spaceflight Now]** SpaceX targets May 19 for debut of Starship Version 3, Launch Pad 2
 - <a href="https://www.nasaspaceflight.com/2026/05/crs-34-launch/" >🔗</a> **[NASASpaceflight]** SpaceX CRS-34 resupply mission to ISS delayed 24 hours
 - <a href="https://www.nasa.gov/general/nasa-langley-engineer-attends-faa-training/" >🔗</a> **[NASA]** NASA Langley Engineer Attends FAA Training
@@ -101,7 +102,6 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 - <a href="https://science.nasa.gov/photojournal/nasas-perseverance-rover-snaps-westernmost-selfie/" >🔗</a> **[NASA]** NASA’s Perseverance Rover Snaps Westernmost Selfie
 - <a href="https://www.nasa.gov/technology/hello-universe-nasas-next-gen-space-processor-undergoes-testing/" >🔗</a> **[NASA]** Hello Universe: NASA’s Next-Gen Space Processor Undergoes Testing
 - <a href="https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-kathleen-harmon/" >🔗</a> **[NASA]** I Am Artemis: Kathleen Harmon
-- <a href="https://spaceflightnow.com/2026/05/12/live-coverage-nasa-spacex-to-launch-34th-cargo-dragon-mission-to-the-space-station/" >🔗</a> **[Spaceflight Now]** Live coverage: NASA, SpaceX to launch 34th Cargo Dragon mission to the space station
 
 
 ### Launch-related News 🚀
@@ -117,7 +117,7 @@ Cargo Dragon 2 brings supplies and payloads, including critical materials to dir
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260513T011720">2026-05-13 01:17:20 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260513T021547">2026-05-13 02:15:47 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
