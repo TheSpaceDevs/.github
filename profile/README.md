@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/cryogenic-fluid-management-cfm/nasa-industry-prepare-cryogenic-fuel-technology-demo/" >🔗</a> **[NASA]** NASA, Industry Prepare Cryogenic Fuel Technology Demo
 - <a href="https://www.nasa.gov/image-article/fresh-food-delivery-for-space-station/" >🔗</a> **[NASA]** Fresh Food Delivery for Space Station
 - <a href="https://science.nasa.gov/earth/earth-observatory/ice-moves-out-of-aniak/" >🔗</a> **[NASA]** Ice Moves Out of Aniak
 - <a href="https://spacepolicyonline.com/news/house-appropriators-reject-deep-cuts-to-nasa-in-fy2027/" >🔗</a> **[SpacePolicyOnline.com]** House Appropriators Reject Deep Cuts to NASA in FY2027
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasaspaceflight.com/2026/05/spacex-starship-pad-first-launch/" >🔗</a> **[NASASpaceflight]** SpaceX’s new Starship pad readies for first launch
 - <a href="https://www.nasa.gov/missions/artemis/artemis-3/nasa-outlines-preliminary-artemis-iii-mission-plans/" >🔗</a> **[NASA]** NASA Outlines Preliminary Artemis III Mission Plans
 - <a href="https://www.nasa.gov/missions/station/iss-research/studying-pneumonia-in-space-for-heart-health-on-earth/" >🔗</a> **[NASA]** Studying Pneumonia in Space for Heart Health on Earth
-- <a href="https://europeanspaceflight.com/thales-alenia-space-ship-exomars-structural-models-to-france-for-testing/" >🔗</a> **[European Spaceflight]** Thales Alenia Space Ship ExoMars Structural Models to France for Testing
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260514T161202">2026-05-14 16:12:02 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260514T170737">2026-05-14 17:07:37 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
