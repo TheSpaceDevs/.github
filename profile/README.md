@@ -25,7 +25,7 @@ from *<a href="https://en.wikipedia.org/wiki/Jiuquan_Satellite_Launch_Center">La
 <img width="17" src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/cn.svg" />
 at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260515T042400">2026-05-15 04:24:00 UTC</a>.  Until
 then, this pad will have been used for 12
-out of 283 launches from this location. The launch status is currently
+out of 284 launches from this location. The launch status is currently
 *Go* 🟩 . The mission type is
 *Unknown* and the payload will be injected
 into *an Unknown
@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://science.nasa.gov/earth/earth-observatory/ice-moves-out-of-aniak/" >🔗</a> **[NASA]** Ice Moves Out of Aniak
 - <a href="https://spacepolicyonline.com/news/house-appropriators-reject-deep-cuts-to-nasa-in-fy2027/" >🔗</a> **[SpacePolicyOnline.com]** House Appropriators Reject Deep Cuts to NASA in FY2027
 - <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-supported-space-tech-advances-earthly-construction/" >🔗</a> **[NASA]** NASA-Supported Space Tech Advances Earthly Construction
 - <a href="https://www.nasa.gov/image-article/rise-goes-to-washington/" >🔗</a> **[NASA]** Rise Goes to Washington
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/missions/station/iss-research/studying-pneumonia-in-space-for-heart-health-on-earth/" >🔗</a> **[NASA]** Studying Pneumonia in Space for Heart Health on Earth
 - <a href="https://europeanspaceflight.com/thales-alenia-space-ship-exomars-structural-models-to-france-for-testing/" >🔗</a> **[European Spaceflight]** Thales Alenia Space Ship ExoMars Structural Models to France for Testing
 - <a href="https://science.nasa.gov/missions/tess/nasas-planet-hunting-tess-reveals-dazzling-night-sky/" >🔗</a> **[NASA]** NASA’s Planet-Hunting TESS Reveals Dazzling Night Sky
-- <a href="https://arstechnica.com/space/2026/05/varda-signs-deal-with-major-us-pharma-firm-to-develop-drugs-in-space/" >🔗</a> **[Arstechnica]** Varda signs deal with major US pharma firm to develop drugs in space
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260514T034303">2026-05-14 03:43:03 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260514T051246">2026-05-14 05:12:46 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
