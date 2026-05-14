@@ -90,6 +90,7 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://www.nasa.gov/image-article/fresh-food-delivery-for-space-station/" >🔗</a> **[NASA]** Fresh Food Delivery for Space Station
 - <a href="https://science.nasa.gov/earth/earth-observatory/ice-moves-out-of-aniak/" >🔗</a> **[NASA]** Ice Moves Out of Aniak
 - <a href="https://spacepolicyonline.com/news/house-appropriators-reject-deep-cuts-to-nasa-in-fy2027/" >🔗</a> **[SpacePolicyOnline.com]** House Appropriators Reject Deep Cuts to NASA in FY2027
 - <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-supported-space-tech-advances-earthly-construction/" >🔗</a> **[NASA]** NASA-Supported Space Tech Advances Earthly Construction
@@ -99,7 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/missions/artemis/artemis-3/nasa-outlines-preliminary-artemis-iii-mission-plans/" >🔗</a> **[NASA]** NASA Outlines Preliminary Artemis III Mission Plans
 - <a href="https://www.nasa.gov/missions/station/iss-research/studying-pneumonia-in-space-for-heart-health-on-earth/" >🔗</a> **[NASA]** Studying Pneumonia in Space for Heart Health on Earth
 - <a href="https://europeanspaceflight.com/thales-alenia-space-ship-exomars-structural-models-to-france-for-testing/" >🔗</a> **[European Spaceflight]** Thales Alenia Space Ship ExoMars Structural Models to France for Testing
-- <a href="https://science.nasa.gov/missions/tess/nasas-planet-hunting-tess-reveals-dazzling-night-sky/" >🔗</a> **[NASA]** NASA’s Planet-Hunting TESS Reveals Dazzling Night Sky
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260514T151441">2026-05-14 15:14:41 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260514T161202">2026-05-14 16:12:02 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
