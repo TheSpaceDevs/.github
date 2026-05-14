@@ -90,6 +90,8 @@ into *an Unknown
 ## API Showcase - Spaceflight News API 📰
 
 ### Latest News ⌛
+- <a href="https://spaceflightnow.com/2026/05/14/ula-confirms-successful-solid-rocket-booster-test-as-vulcan-anomaly-investigation-continues/" >🔗</a> **[Spaceflight Now]** ULA confirms successful solid rocket booster test as Vulcan anomaly investigation continues
+- <a href="https://www.nasa.gov/directorates/esdmd/nasa-draws-on-industry-for-mars-telecommunications-network/" >🔗</a> **[NASA]** NASA Draws on Industry for Mars Telecommunications Network
 - <a href="https://spacepolicyonline.com/news/nasa-shares-early-planning-for-artemis-iii/" >🔗</a> **[SpacePolicyOnline.com]** NASA Shares Early Planning for Artemis III
 - <a href="https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/cryogenic-fluid-management-cfm/nasa-industry-prepare-cryogenic-fuel-technology-demo/" >🔗</a> **[NASA]** NASA, Industry Prepare Cryogenic Fuel Technology Demo
 - <a href="https://www.nasa.gov/image-article/fresh-food-delivery-for-space-station/" >🔗</a> **[NASA]** Fresh Food Delivery for Space Station
@@ -98,8 +100,6 @@ into *an Unknown
 - <a href="https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-supported-space-tech-advances-earthly-construction/" >🔗</a> **[NASA]** NASA-Supported Space Tech Advances Earthly Construction
 - <a href="https://www.nasa.gov/image-article/rise-goes-to-washington/" >🔗</a> **[NASA]** Rise Goes to Washington
 - <a href="https://arstechnica.com/space/2026/05/nasa-provides-some-details-about-artemis-iii-but-hard-decisions-remain/" >🔗</a> **[Arstechnica]** NASA provides some details about Artemis III, but hard decisions remain
-- <a href="https://www.nasaspaceflight.com/2026/05/spacex-starship-pad-first-launch/" >🔗</a> **[NASASpaceflight]** SpaceX’s new Starship pad readies for first launch
-- <a href="https://www.nasa.gov/missions/artemis/artemis-3/nasa-outlines-preliminary-artemis-iii-mission-plans/" >🔗</a> **[NASA]** NASA Outlines Preliminary Artemis III Mission Plans
 
 
 ### Launch-related News 🚀
@@ -109,7 +109,7 @@ into *an Unknown
 
 <hr>
   <div align="center">
-  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260514T212254">2026-05-14 21:22:54 UTC</a>
+  This <code>README.md</code> was last auto generated at <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20260514T215034">2026-05-14 21:50:34 UTC</a>
   <br>
   <!-- <a href="https://medium.com/@g.h.garrett" target="_blank">Learn to add space launches to your profile here!</a> -->
 </div>
